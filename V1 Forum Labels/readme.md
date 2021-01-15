@@ -1,8 +1,8 @@
 These are formatted for forum use.
 
-[img=https://retroachievements.org/Images/labels/linkedfiles.png] can be posted at the top of the list. 
+`[img=https://retroachievements.org/Images/labels/linkedfiles.png]` can be posted at the top of the list. 
 
-Roms used to make the set can be labeled using [img=https://retroachievements.org/Images/labels/main.png] 
+Roms used to make the set can be labeled using `[img=https://retroachievements.org/Images/labels/main.png]`
 
 Standard placement is between the [b] and the filename. 
 
