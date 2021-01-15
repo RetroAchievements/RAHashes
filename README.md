@@ -3,9 +3,9 @@ Definitive lists of ROM hashes
 <br>
 <br>
 
-|ROMset|Group|Filenames Logged|CRC|ROM Checksums|RA Checksums|
+|ROMset|Group|Filenames|CRC|ROM Checksums|RA Checksums|
 |-|:-:|:-:|:-:|:-:|:-:|
-|Atari - 2600 (20200514-091155)|No Intro|✔️|❌|❌|❌|
+|Atari - 2600 (20200514-091155)|No Intro|✔️|✔️|✔️|N/A|
 |Atari - 7800 (20201127-133057) [unheadered]|No Intro|❌|❌|❌|❌|
 |Atari - Jaguar (J64) (20200926-011159)|No Intro|❌|❌|❌|❌|
 |Atari - Jaguar (ROM) (20200926-011159)|No Intro|❌|❌|❌|❌|
