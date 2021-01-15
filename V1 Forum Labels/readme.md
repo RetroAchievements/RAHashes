@@ -11,7 +11,7 @@ Entries that have more than one rom linked may be numbered for clarity.<br>
 You may look up existing forum posts for reference. <br>
 <br>
 <br>
-Group Tags
+Group Tags<br>
 https://retroachievements.org/Images/labels/4amcrack.png<br>
 https://retroachievements.org/Images/labels/atariage.png<br>
 https://retroachievements.org/Images/labels/fbneo.png<br>
