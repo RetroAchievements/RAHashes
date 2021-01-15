@@ -59,7 +59,7 @@ Definitive lists of ROM hashes
 |Atari - 7800 (Good7800 v3.28)|GoodTools|❌|❌|❌|❌|
 |Atari - Jaguar (GoodJag v2.01)|GoodTools|❌|❌|❌|❌|
 |Atari - Lynx (GoodLynx v2.01)|GoodTools|✔️|✔️|✔️|✔️|
-|Atari - NonGoodLynx (2018)|NonGood|✔️|✔️|✔️|✔️|
+|Atari - NonGoodLynx (1-1-2018)|NonGood|✔️|✔️|✔️|✔️|
 |Bandai - WonderSwan + Color (GoodWSx v3.27)|GoodTools|❌|❌|❌|❌|
 |Coleco - ColecoVision (GoodCol v3.14)|GoodTools|❌|❌|❌|❌|
 |GCE - Vectrex (GoodVect v1.06)|GoodTools|❌|❌|❌|❌|
