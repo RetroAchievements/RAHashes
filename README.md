@@ -87,7 +87,7 @@ Definitive lists of ROM hashes
 |PlayStation|Redump|❌|❌|❌|❌|
 |Sega Saturn|Redump|❌|❌|❌|❌|
 |3DO Interactive Multiplayer|Redump|❌|❌|❌|❌|
-|NEC PC-FX|Redump|❌|❌|❌|❌|
+|NEC PC-FX|Redump|✔️|N/A|N/A|✔️|
 |SNES MSU-1 Packs|Various|❌|❌|❌|❌|
 |Various|MameSL|❌|❌|❌|❌|
 |Various|AtariAge|❌|❌|❌|❌|
