@@ -1,5 +1,5 @@
 # RAHashes
-Definitive lists of ROM hashes
+Definitive lists of RetroAchievement ROM hashes
 <br>
 <br>
 
@@ -15,12 +15,18 @@ Definitive lists of ROM hashes
 |Bandai - WonderSwan (20201120-033446)|No Intro|❌|❌|❌|❌|
 |Bandai - WonderSwan Color (20201120-033405)|No Intro|❌|❌|❌|❌|
 |Coleco - ColecoVision (20200926-011306)|No Intro|❌|❌|❌|❌|
+|Coleco - ColecoVision (GoodCol v3.14)|GoodTools|✔️|✔️|✔️|N/A|
+|NonGoodCol|NonGood|✔️|✔️|✔️|N/A|
 |GCE - Vectrex (20170908-211236)|No Intro|❌|❌|❌|❌|
+|GCE - Vectrex (GoodVect v1.06)|GoodTools|✔️|✔️|✔️|N/A|
+|NonGoodVect|NonGood|✔️|✔️|✔️|N/A|
 |Magnavox - Odyssey2 (20200720-221603)|No Intro|❌|❌|❌|❌|
 |Mattel - Intellivision (20190315-210619)|No Intro|❌|❌|❌|❌|
 |Microsoft - MSX (20201022-071528)|No Intro|❌|❌|❌|❌|
 |Microsoft - MSX2 (20190115-063003)|No Intro|❌|❌|❌|❌|
 |NEC - PC Engine - TurboGrafx 16 (20201114-193228)|No Intro|❌|❌|❌|❌|
+|NEC - PC Engine - TurboGrafx 16 (GoodPCE v1.09a)|GoodTools|✔️|✔️|✔️|N/A|
+|NonGoodPCE|NonGood|✔️|✔️|✔️|N/A|
 |NEC - PC Engine SuperGrafx (20201109-003941)|No Intro|❌|❌|❌|❌|
 |Nintendo - Family Computer Disk System (FDS) (20210111-132854) [unheadered]|No Intro|❌|❌|❌|❌|
 |Nintendo - Family Computer Disk System (QD2FDS) (20210111-132854) [unheadered]|No Intro|❌|❌|❌|❌|
@@ -42,10 +48,14 @@ Definitive lists of ROM hashes
 |Nintendo - Sufami Turbo (20201218-081558)|No Intro|❌|❌|❌|❌|
 |Nintendo - Super Nintendo Entertainment System (Combined) (20201230-192658)|No Intro|❌|❌|❌|❌|
 |Nintendo - Virtual Boy (20200219-181350)|No Intro|❌|❌|❌|❌|
+|Nintendo - Virtual Boy (GoodVBoy v3.1415)|GoodTools|✔️|✔️|✔️|N/A|
+|NonGoodVB|NonGood|✔️|✔️|✔️|N/A|
 |SNK - Neo Geo Pocket (20201106-202832)|No Intro|❌|❌|❌|❌|
 |SNK - Neo Geo Pocket Color (20201106-204328)|No Intro|❌|❌|❌|❌|
 |Sega - 32X (20191204-183941)|No Intro|❌|❌|❌|❌|
 |Sega - Game Gear (20201227-043658)|No Intro|❌|❌|❌|❌|
+|Sega - Game Gear (GoodGG v3.20)|GoodTools|✔️|✔️|✔️|N/A|
+|NonGoodGG|NonGood|✔️|✔️|✔️|N/A|
 |Sega - Master System - Mark III (20201103-015616)|No Intro|❌|❌|❌|❌|
 |Sega - Mega Drive - Genesis (20210114-043643)|No Intro|❌|❌|❌|❌|
 |Sega - SG-1000 (20200217-185318)|No Intro|❌|❌|❌|❌|
@@ -62,18 +72,13 @@ Definitive lists of ROM hashes
 |Atari - Lynx (GoodLynx v2.01)|GoodTools|✔️|✔️|✔️|✔️|
 |Atari - NonGoodLynx (1-1-2018)|NonGood|✔️|✔️|✔️|✔️|
 |Bandai - WonderSwan + Color (GoodWSx v3.27)|GoodTools|❌|❌|❌|❌|
-|Coleco - ColecoVision (GoodCol v3.14)|GoodTools|❌|❌|❌|❌|
-|GCE - Vectrex (GoodVect v1.06)|GoodTools|❌|❌|❌|❌|
 |Matttel - Intellivision (GoodINTV v2.03)|GoodTools|❌|❌|❌|❌|
-|NEC - PC Engine - TurboGrafx 16 (GoodPCE v1.09a)|GoodTools|❌|❌|❌|❌|
 |Nintendo - Game Boy + Color (GoodGBx v3.14)|GoodTools|❌|❌|❌|❌|
 |Nintendo - Game Boy Advance (GoodGBA v3.27)|GoodTools|❌|❌|❌|❌|
 |Nintendo - Nintendo 64 (GoodN64 v3.27)|GoodTools|❌|❌|❌|❌|
 |Nintendo - Nintendo Entertainment System (GoodNES v3.23)|GoodTools|❌|❌|❌|❌|
 |Nintendo - Super Nintendo Entertainment System (GoodSNES v3.27)|GoodTools|❌|❌|❌|❌|
-|Nintendo - Virtual Boy (GoodVBoy v3.1415)|GoodTools|❌|❌|❌|❌|
 |SNK - Neo Geo Pocket (GoodNGPx v3.27)|GoodTools|❌|❌|❌|❌|
-|Sega - Game Gear (GoodGG v3.20)|GoodTools|❌|❌|❌|❌|
 |Sega - Master System (GoodSMS v3.20)|GoodTools|❌|❌|❌|❌|
 |Sega - Mega Drive - Genesis - 32X (GoodGen v3.21)|GoodTools|❌|❌|❌|❌|
 |Spectravideo - MSX (GoodMSX1 v.0.999.3)|GoodTools|❌|❌|❌|❌|

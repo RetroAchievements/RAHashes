@@ -1,0 +1,289 @@
+|Filename|CRC|Checksum|
+|-|:-:|:-:|
+|0ldsk00l Demo by Manu (2002) (PD).vec|F28D2746|8c57a4fd5d6a0c3f316be279ad1782cf|
+|3-D Crazy Coaster (1983) [b1].vec|23A542C2|f4b9dfc9b0dc29a037d6690b86eb2c23|
+|3-D Crazy Coaster (1983) [b2].vec|071B1DC9|38b23299a97f26c092916fc66048bfa9|
+|3-D Crazy Coaster (1983).vec|92709B11|00f768e79d6ebfe9bf920ffec4c5c4f2|
+|3-D Demo by Chris (Mar 06) (2000) (PD).vec|BD447845|6c6e0afc2dee4e20d9fdf77177c738db|
+|3-D Demo by Chris (Mar 08) (2000) (PD).vec|36DAF32C|4a45d8fc03e962fc34cfd827ef568204|
+|3-D Mine Storm (1983) [b1].vec|3CC9F092|385918cfe4ed64e7e19047e9754a7c77|
+|3-D Mine Storm (1983).vec|B2313487|1a81fea8ac1c1d46de7b633814130857|
+|3-D Narrow Escape (1983) [b1].vec|09AE457A|f3a3d70c3d2c63e84bbf2d41d195566b|
+|3-D Narrow Escape (1983) [b2].vec|9DFF64DA|42c0106a425b757162aeb17d03999564|
+|3-D Narrow Escape (1983) [b3].vec|B4C45B4B|9131a480a34f6bf169f3b14b40ab206b|
+|3-D Narrow Escape (1983).vec|050BD949|f79c596a0205c5e7c427cdbbb1e16918|
+|3-D Scrolling Demo by Christopher Tumber (2001) (PD).vec|6101E5E7|4c3f98ffb5c9c29c881c1408f94e5a7e|
+|4-D Rotating Cube Demo (19xx) (PD).vec|5D7AF9B8|3f18de10259e172ca9ef4b580d33fca2|
+|8Ball by Christopher Tumber (2001) (PD).vec|8957ED6B|f85ecc92900639250bb973aa2672c342|
+|Abyss Demo (1999) (PD).vec|0D5F6408|69d68dcd741bea0e3535a4f990d43b76|
+|All Good Things by John Dondzila (1996).vec|E98AB5A2|2ef764e31c36eed4006d8a35e96f22ad|
+|All Your Base Demo by Manu (2001) (PD).vec|B6F1CDB9|cc8d22458ee86fcbb7d771a05a8b43d5|
+|Alpha Demo (2001) (PD).vec|6F7A27B9|65be26d550525934620b56dcdde5af5a|
+|Animaction (1983) (light pen) [b1].vec|F958602C|ed697efbecfc038bb7ba760d0c96071d|
+|Animaction (1983) (light pen).vec|9F62E167|5e7a5dc59e32f2f63d85ae1f0201113a|
+|Animation Demo by Manu (2002) (PD).vec|0D2BBC4B|c9e254f442ba8b82b80c101888a286d9|
+|Arkanoid - Revenge of DOH Sound by Chris Salomon (1998) (PD).vec|9C93E4F6|59c897ca8a0bb4bfa080e0d01370e9c2|
+|Armor Attack (1982) (Spinner Hack) [a1].vec|131EE522|7bc7f97d3b3a732f4552035bcf7c90b3|
+|Armor Attack (1982) (Spinner Hack).vec|B4725DBE|1b00d5000f665dbb9454953050bb87f0|
+|Armor Attack (1982) [b1].vec|7A859C8B|7b1935d9feb665988dd9504b309b1a1b|
+|Armor Attack (1982).vec|B7510971|9657037a461eee919462eb6a01879685|
+|Arsek by Marq (2000) (PD).vec|B707612B|b48ad4590945b79fc55bf2a4d1924786|
+|Art Master (1983) (light pen) [b1].vec|6A989118|b594813775aa2870007ae0e3b418a8cf|
+|Art Master (1983) (light pen).vec|C8E2F247|972972f871916a922f20779deed8a708|
+|Axel F - Beverly Hills Cop by Chris Salomon (1998) (PD) [a1].vec|6A875048|58859226cd3fbb291cd7981a114ebb4c|
+|Axel F - Beverly Hills Cop by Chris Salomon (1998) (PD).vec|8FA4280E|705baa1db46f27e66913a933cbc8196e|
+|Bach Prelude #1 by Jeff Woolsey (1985) (PD).vec|8FDB6C3A|b94cebcbd923aa28bef56b45d09ca925|
+|Battle Earth Terror Hazard & Vecsports Boxing (2000) (PD).vec|B4D846FB|70e9dca9114f08091e7ef5622332a67f|
+|Battle Earth Terror Hazard V1 by Manu (2000) (PD).vec|4B6E2949|ef280647997253af783b6ab001e1f80a|
+|Battle Earth Terror Hazard V2 by Manu (2000) (PD).vec|96FA93FF|9566dfb2a7914a8eb1f67f93f23365eb|
+|Battle Earth Terror Hazard V3 by Manu (2000) (PD).vec|3E908770|6199a3f4853eea9d43636f5caa279fab|
+|Battle Earth Terror Hazard V4 by Manu (2000) (PD).vec|B06012B3|3be0d397d128c9b78a8a2067cce5063e|
+|Battlezone Demo by Christopher Tumber (2001) (PD).vec|4D63357B|bc246eaf3970c799d05a5c6e7f7c331e|
+|BB2 Demo by Manu (2002) (PD).vec|F0D97F3F|23246f5dc34a7bef1ce03299ae5224bd|
+|BCor-FTS Demo by Clay Cowgill (1997) (PD).vec|309E6B20|1c6c2d90aac87e5e95f9a37a6f3a2b10|
+|Bebop Best Sound by Chris Salomon (1998) (PD).vec|A1358E8C|006ad8dfd685f87174e49fa0378959e6|
+|Bebop Sound by Chris Salomon (1998) (PD).vec|144E1D02|d8a67954770cf29f9edaec477f04e7bf|
+|Bedlam (1983) (Spinner Hack).vec|2094C6B1|7ce4dceebc4a1db29f4005a7991c3378|
+|Bedlam (1983) [b1].vec|1006DBE1|363caade88652d89bd4011b4ca18084e|
+|Bedlam (1983) [b2].vec|39553B6E|fba74d9b85ac2e1a8a0535ec19337fbf|
+|Bedlam (1983) [b3].vec|BCC631D3|ab5d85d3fa5b7fa84e9b1b17475d1986|
+|Bedlam (1983).vec|A2FA649B|268e75778f282d853d77acf42c6c8734|
+|Berzerk (1982) (Bugfixed Prototype) [o1].vec|2ADC4EAA|32c172bb0c767c9f33daa1c73239e4ee|
+|Berzerk (1982) (Bugfixed Prototype).vec|E9D149DE|4cf69d28b334fb972b4c97397e92693a|
+|Berzerk (1982).vec|EAFE2455|640ae7bd4538bad11256999db68de5a0|
+|Birds of Prey by John Dondzila (1999).vec|A337B848|fb18cafa9ec728ed79edf525fd971e08|
+|Blitz! - Action Football (1982) [b1].vec|0F11CE0C|94f144c31fd4563f9473ed0563463e54|
+|Blitz! - Action Football (1982) [b2].vec|FE9E1D33|92aab750fd48faae2e51ba9f857f6b59|
+|Blitz! - Action Football (1982).vec|881B27C5|5d74770bb175357812e61ee7ca731270|
+|Bubble Bobble (Diamond Room) by Chris Salomon (1998) (PD).vec|82D63F96|cc9792918915e31523f009fc0296854d|
+|Bubble Bobble Sound 0 by Chris Salomon (1998) (PD).vec|AA6B74B6|3cdf2e274bf780f8f25c1202990196c8|
+|Bubble Bobble Sound 1 by Chris Salomon (1998) (PD).vec|620F1323|f2133af043282b9182b684f550762c01|
+|Bubble Bobble Sound 2 by Chris Salomon (1998) (PD).vec|5754A961|dfd96e375c90ee8ca15c379637d7d645|
+|Bubble Bobble Sound 2best by Chris Salomon (1998) (PD).vec|4F218A28|81feaeb2986bcb27f361ace954e0a1f0|
+|Bubble Bobble Sound 3 by Chris Salomon (1998) (PD).vec|811E585D|d95a085a6d1ba7da9cedba6a7e92e01d|
+|Calibration Demo (19xx) (Christopher Tumber) (PD).vec|3F3536FF|257a3da9f1ba8a08ca2f3f8d26616cad|
+|CGM Example by Marq (2000) (PD).vec|BE26B83C|bf16e6e50a076808968eb43768a4286c|
+|Clean Sweep (1982) [b1].vec|D2A6B4D3|cf17690c433e37eed8ff1ca55f944087|
+|Clean Sweep (1982).vec|F1B1DE78|a376d5648e08f348e5965c058c631c6d|
+|Clean Sweep (Mr Boston Version) (1982).vec|BD4DA4C2|1c95cf8fcd2c98db747208ade464a44f|
+|Collision Test by Manu (2000) (PD).vec|FB1C144C|8fe6d0cb5c8093d72456465b8aace264|
+|Commando - High Score Sound by Chris Salomon (1998) (PD).vec|B5715D30|9543a0d7dfd2db931a680bd3c96ddde3|
+|Cosmic Chasm (1982).vec|6C1AFA52|9b61653ed9dafd4cfb7f9d94404259ac|
+|Count05 Sound by Chris Salomon (1998) (PD).vec|786B4945|95da24dfee450052a61192884ab85911|
+|Curved Lines Demo (1998) (PD).vec|E818C1CD|7091ebe96c2a8a5683670eff6af16c0a|
+|Dark Tower (1983) (Prototype) (Fred Taft Hack) [h1].vec|09F51459|6ac9f45324a62a5edeb9a7a94c45ac50|
+|Dark Tower (1983) (Prototype) [b1].vec|5DE945A1|2aff8668762cd1418ef146ce101b41f7|
+|Dark Tower (1983) (Prototype) [b2].vec|D3C252C5|17d79911050fed4649671b6ee9b4eec4|
+|Dark Tower (1983) (Prototype) [b3].vec|5107C081|8595351841b168cf241861095fd04b8e|
+|Dark Tower (1983) (Prototype).vec|9DCFD5B7|db9929b0ad53c97afda065596806bf86|
+|Disc Duel Demo (1997) (PD).vec|2E54332E|91857f5262a46e17239340c35097c9bc|
+|Dr. Who Theme by Chris Salomon (1998) (PD).vec|5EA65185|f8dad3f66234e87d2a189dd51fd2dfb7|
+|Dual Vectrex Test #1 (1983) (PD) [b1].vec|1CDA1FB6|dbe429336c78a37c6b340540a2312d4d|
+|Dual Vectrex Test #1 (1983) (PD).vec|2FE6D308|f4f39388b719aca17ed50e09b79edc74|
+|Dual Vectrex Test #2 (1983) (PD) [b1].vec|017E7251|54470f6bcad3c74f2c80371be952f72a|
+|Dual Vectrex Test #2 (1983) (PD).vec|5B268391|918359f5cdfd0a1e64092b31513dd70f|
+|Engine Analyzer (1983) (light pen).vec|FE9A501A|896793a17a32932bcd64c52c77b00d55|
+|Etch-a-Sketch by Jeff Woolsey (1985) (light pen) (PD) [b1].vec|997CA4B1|f14891f89e0fe6aa4be6b1fb3694afa2|
+|Etch-a-Sketch by Jeff Woolsey (1985) (light pen) (PD).vec|963062A6|b716228fd8b3ebd44e81f5ac956d8e0d|
+|Exec Rom Dumper (2000) (Ronen Habot).vec|81F72997|25cab86484ae04ca9d3a5efa661a40e0|
+|Fast Food Sound 1 by Chris Salomon (1998) (PD).vec|947221E4|0cb85f8c8c4c8cbfa7dbc023ba104f92|
+|Fast Food Sound 2 by Chris Salomon (1998) (PD).vec|A3DF0880|0181563134a98fdef33d73b264ec7736|
+|Fortress of Narzod (1982) [b1].vec|C56DDC79|3c3b2f836e60fb2d64480286815425f0|
+|Fortress of Narzod (1982).vec|13A35C8A|e65b3262e9447a747d93e0ccb1dbb7df|
+|Ghosts 'n' Goblins Sound 7 by Chris Salomon (1998) (PD).vec|69B310A7|8af3d7c32d890f86de94babff0d3f9ef|
+|Ghosts 'n' Goblins Sound 8 by Chris Salomon (1998) (PD).vec|1C3C376F|4dafe568ea93985607d191a6095bb6a8|
+|Ghosts 'n' Goblins Sound 9 by Chris Salomon (1998) (PD).vec|AE4A81FA|850d58bf8c984f06c8ce6189106ad186|
+|Ghosts 'n' Goblins Sound 9best by Chris Salomon (1998) (PD).vec|1BED4A1C|52ea6474d3887d0dc89c441e3fd518df|
+|Ghouls 'n' Ghosts Sound by Chris Salomon (1998) (PD).vec|C7AB8914|df96fa54f2845fe06a4fc9499b198a6c|
+|Gravitrex by John Dondzila (2002).vec|83B06492|d5012ddedd1a9fe2b9d14e82eddaa55d|
+|Great Giana Sisters (Bonus) by Chris Salomon (1998) (PD).vec|5F06979D|442531af912aecca7501d4cb39ca637d|
+|Great Giana Sisters (Ingame) by Chris Salomon (1998) (PD).vec|745EAE5B|70ee930334566ca5de7481aa89cad2bd|
+|Great Giana Sisters (Title) by Chris Salomon (1998) (PD).vec|711728A6|775709fff3ed12ba9183fef4d407a8c2|
+|Heads Up - Action Soccer (1983) [b1].vec|05BB5C7E|49d7cd9f7f8616c775f6cdc0996873b9|
+|Heads Up - Action Soccer (1983).vec|E61A7DE3|501dd2845432f10e4b9531240f409b8c|
+|Hey, Music Lover Sound by Chris Salomon (1998) (PD).vec|B390E343|c62b573effcf3e15b0464c278fdd7995|
+|Hyperchase (1982) [b1].vec|C7F86149|161a46f714cbf23ac45dd19536ff2f66|
+|Hyperchase (1982).vec|4BB13472|7580926ee22f06fd2ccde4b65184715f|
+|Jaws Theme Music by Chris Salomon (1998) (PD).vec|772945DE|05317670338681a226ad6ab54c59f8bd|
+|Joystick Demo by Manu (2000) (PD).vec|4C54A3D5|f7caa81033dd298c7ebf7dffe2d96205|
+|Klax (Level Begin) Sound by Chris Salomon (1998) (PD).vec|4240008E|2ae1f91ba656199f2c6c95d6c1462b38|
+|Labyrinth Rev 1 by Chris Salomon (1998) (PD).vec|7525E02A|53c0356b8e64d037814cd424025d2caa|
+|Labyrinth Rev 2 by Chris Salomon (1998) (PD).vec|05D5EA98|26fed7dfafe8a36263e48f6ec70f103d|
+|Labyrinth Rev 3 by Chris Salomon (1998) (PD).vec|F3494CFA|4e420cca87c54cc12ebc1866dade7715|
+|Labyrinth Rev 4 (Vector Rouge) by Chris Salomon (1998) (PD).vec|C6E46807|d68cfd8fd043a8d1bca1166e2b81ffa7|
+|Line Demo (2001) (PD).vec|59181C32|bc2bad32d1a000533a4bdee46b3444f1|
+|Lines and Digitized Sounds Demo (1998) (PD).vec|C99ABDA6|774e9f9a1d7c26c04700429613d1d14f|
+|Lunar Lander Demo by Thomas Landspurg (19xx) (PD).vec|67ED5845|f564b7902914938375bc3d4b19f21065|
+|Mad Planetoids Demo by John Dondzila (2001) (PD).vec|DA03C220|3dc500580b45f9166ed81ee0d2c8d1ff|
+|Madonna's Get Into the Groove by Chris Salomon (1998) (PD).vec|6ECAD660|caea604b0c170c5a800e5958089e8bd2|
+|Melody Master (1983) (light pen) [b1].vec|7213C28C|2d2db95120d8236d6aebb9f0785a928f|
+|Melody Master (1983) (light pen).vec|AFEFA29C|80e72d7e1bb06fd5d5a24c93f1b61f14|
+|Mike's Molecules Demo by Mike Blackwell (1985) (PD) [a1].vec|BCC59075|6bc8e7b8d3d1ac553b9977f46ca612f0|
+|Mike's Molecules Demo by Mike Blackwell (1985) (PD) [b1].vec|611CF078|18c9f6478683476c825b0c094bcc0abb|
+|Mike's Molecules Demo by Mike Blackwell (1985) (PD).vec|C6ED30AB|d857a0fb7902c32ce514c675d890059b|
+|Mine Storm (1982) (Karrsoft Hack) [h1].vec|A6E4DAC4|a970aed37cffd29ab3740f8e79518858|
+|Mine Storm (1982) (RLB Hack) [b1].vec|36263B03|ef4fa5e79026a5edde80be3b030f3e86|
+|Mine Storm (1982) (RLB Hack) [b1][o1].vec|3C535DE3|ec3b987ef11d1ca13f7bcce5007d11da|
+|Mine Storm (1982) (RLB Hack) [b1][o2].vec|6E0FCD2A|20a8b209386f8d98de22c44f0378f0be|
+|Mine Storm (1982) (RLB Hack) [h1].vec|410D7D82|e1d74ec863a50757e1a8f89bbd73e2f1|
+|Mine Storm (1982) (RLB Hack) [o1].vec|65D9AD00|fa69340348d01a2c9df7990d6d3d27cd|
+|Mine Storm (1982) (RLB Hack) [o2].vec|FD74F4D6|eec3d8f10273178d9dda0c89867407f8|
+|Mine Storm (1982).vec|BA13FB57|ab082fa8c8e632dd68589a8c7741388f|
+|Mine Storm II (1983) (Fred Taft Hack) [h1].vec|8B310D4B|0cda10e5f1252ed6d44c6148a37601b6|
+|Mine Storm II (1983) (Spinner Hack).vec|C06DBA91|1419eb1920e8fab7af8d9d6fc6c3d09b|
+|Mine Storm II (1983).vec|F5B3B374|126fecbf4fb09fdb5a3c9af92abaed7c|
+|Misfits 1 Music by Chris Salomon (1998) (PD).vec|7795C0AE|0c0c1739b9e1025b4a894428da4e3e75|
+|Missile Lords by Christopher Tumber (2001) (PD).vec|8D39ABC5|7200ad3bde2f3bb7c14f8ecceaed6fa4|
+|Monty on the Run HiScore Sound by Chris Salomon (1998) (PD).vec|E53D028D|79b911d03f7823f89c55f88ce7eab10f|
+|Monty on the Run Sound by Chris Salomon (1998) (PD) [a1].vec|863250FC|4fc4e342a142313d901bce87c51c752f|
+|Monty on the Run Sound by Chris Salomon (1998) (PD).vec|70B39C13|3961a29d9f46b6311d4e0a5f643f3b07|
+|Moon Lander Demo by Clay Cowgill (1997) (PD) [a1].vec|8617C304|70a3572f519da2abde6869ae3029f914|
+|Moon Lander Demo by Clay Cowgill (1997) (PD).vec|55A79111|5b6cf92c62342c55b9b35e82488e8dae|
+|Music Demo (2001) (PD).vec|6397B8B6|7e5c15422794d8c5f969a83608bf679c|
+|My Bonnie Lies Over The Ocean by Jeff Woolsey (1985) (PD).vec|24E2F808|5482e1b852b451e60c763ef59e309dc1|
+|Narrow Escape (2-D Version by Fred Taft) (1983) [h1].vec|1EDA284C|5c5d5eeb71f51a6fdd4fa6c36e4b2801|
+|NO' Sound by Chris Salomon (1998) (PD).vec|F6220E61|f3447b08e6ba463f1cd2cd1bd52bd938|
+|Nona3 by Manu (Mar 10) (2003).vec|C7FFEC5F|58a5d1b022272ddfb23123ffcb6f6188|
+|Omega Chase (Final Version) (1998) (PD).vec|9B4D0540|c33f47bd2837a50ccc6dc06f0390dd5e|
+|Omega Chase by Christopher Tumber (2000) (PD).vec|1AE8E788|3b4eb68ddcc1cbf1c0f8c38520d02ca8|
+|Pac-Mania Sound 1 by Chris Salomon (1998) (PD).vec|9EC71A7C|d9d3837624e93a3890cf11908260d465|
+|Pac-Mania Sound 2 by Chris Salomon (1998) (PD).vec|D78F52DE|e99897fa4d03dc62e0472ee1e2d796a3|
+|Pac-Mania Sound 4 by Chris Salomon (1998) (PD).vec|28582A01|1c1398259611e983acd4e798cf33bfbf|
+|Patriots by John Dondzila (1996) [a1].vec|7D709DA2|8dd134559d5cc9373d8ede1826a8085b|
+|Patriots by John Dondzila (1996) [b1].vec|1417F83C|6574ee1a86796bd4a96c5da2e0891dfc|
+|Patriots by John Dondzila (1996).vec|F0073328|b35b0783011b55835aeeb9c9bea56738|
+|Patriots III - BALListics Busters by John Dondzila (1996).vec|58452261|ba08525993dab47c52ce41920468a63e|
+|Patriots III - BALListics Busters by John Dondzila (2002).vec|D783DE03|3b5da23c7efe411dd860a33d873c5fe2|
+|Patriots Remix by John Dondzila (1999).vec|45CEF85B|b4b6051a7b91c9c54aa25ad12f553cae|
+|Philly Classic 3 Demo (2002) (PD).vec|B28FD369|03c7959c07709082055a735392d00f39|
+|Pokemon Demo 1 by Manu (2000) (PD).vec|F2EF5951|bdd1338cbdfd8a6c1ca3a31cf1d2577e|
+|Pokemon Demo 2 by Manu (2000) (PD).vec|E0803EB0|8a49779dfa3edefd162f385968d3a1b6|
+|Pokemon Demo 3 by Manu and Marq (2000) (PD).vec|E9583600|510c656651c906b6e85396b5babd90c3|
+|Pokemon Demo 4 - Psyduck's Eyes by Manu (2000) (PD).vec|CFEF018D|1fa52e5f675cb1956f1c40601521fddc|
+|Polar Rescue (1983) [a1].vec|AD844645|f599da79b5c324c2a11c117d256a64c0|
+|Polar Rescue (1983) [a1][o1].vec|4FDFDC80|eecfb30e843ad4f345bc35e3d76b19b8|
+|Polar Rescue (1983) [b1].vec|82DBBB6E|e6650274b81e2f946ce3e6381c370bc7|
+|Polar Rescue (1983).vec|A7471784|5c1c413e51aa282015807dc60213fd3d|
+|Pole Position (1982) (Spinner Hack).vec|ADDC25E4|a183501b50935c970823145fc8c5f40b|
+|Pole Position (1982) [b1].vec|B4906CC6|3fca9ff12820a2c76814db5d1b0e1f8d|
+|Pole Position (1982) [f1].vec|C10F37D8|f85c521f445c82bf200b5b85b9b1cd60|
+|Pole Position (1982).vec|A00ED3D6|f94173910549038d4d8f329413a5aa54|
+|POP Demo by Christopher Tumber (19xx) (PD).vec|C999F9C5|165c4c56a918c4ac35d75d280a2098bf|
+|Pythagorian Theorem by Rob Mitchell (2002) (PD).vec|C0801749|aa12d8183b6302b56f453ce00bf0ea37|
+|Rainbow Islands Sound by Chris Salomon (1998) (PD).vec|94139A13|3f4b38fa0c7dacd49f32abeaadc0640d|
+|Real Ghostbusters Sound by Chris Salomon (1998) (PD).vec|93825567|60b51b386800efd3d22f3a9c235843ef|
+|Repulse by John Dondzila (1999).vec|4C4D1786|d35fbb9030c7ff06b63cb1a1a4698b1e|
+|Rip-Off (1982) [b1].vec|3AA38DE0|37318842f640d88eb30bb06ce8686a7a|
+|Rip-Off (1982).vec|34A98132|808e0501990bd01882c102df00f20064|
+|Robin Hood Sound by Chris Salomon (1998) (PD).vec|8F056694|8d1de01d950a05ff349e8b6a68d3ea22|
+|Rockaroids Remix - 3rd Rock by John Dondzila (1996) [a1].vec|D1E0268F|7c002b3622edb3b467350a535855a35e|
+|Rockaroids Remix - 3rd Rock by John Dondzila (1996).vec|E8D3BBC2|625e537ebb7056e1c6f787c502443bd0|
+|Rocket Sledge Demo (1985) (PD).vec|863B89E8|cf6c01b0212e3b2191a97139cf1f427a|
+|ROM Music Demo by Manu (2000) (PD).vec|6ED7358C|52301ee5dceb04dc730d45abc47f08aa|
+|Ronen's Game Cart (2000) (Ronen Habot).vec|AACF1D20|9f6ec44b307075528ebf94cbec023a10|
+|Rotation Demo by Manu (2000) (PD).vec|F1E0BC2E|d8b096480485b4e726088b4239a4b855|
+|Rounders by Ronen Habot (2000) (PD).vec|F2F08482|9c1f13a33415d2f384638f9672056f5e|
+|SAW Gallery 1 by Christopher Tumber (1999) (PD).vec|81A2CFF6|fdbd4e2e5ebeab6a5c730f2b878c7bf8|
+|SAW Gallery 2 by Christopher Tumber (1999) (PD).vec|E09E946E|87b9263ab0eb5d1397e722d4ee138946|
+|SAW Gallery 3 by Christopher Tumber (1999) (PD).vec|D2F92F8F|655c737050d3785b23f378d30adc5606|
+|Scorefont 3 by Manu (Aug 26) (2002).vec|8BF60C99|fd5b667d58c1a34f9d92b1ede820923f|
+|Scramble (1982) [b1].vec|686F0169|122e4e5a9db240f81f18696902305476|
+|Scramble (1982).vec|707C8FFE|95370908561a782edf138df41ccb8f18|
+|Solar Quest (1982) (Spinner Hack).vec|E8B9DB6D|0635e54d347daaa0d1cef6b1b395211d|
+|Solar Quest (1982) [b1].vec|80D29FE9|9b4c1c3b2f5caa27ea8b3ef2a5d0a32c|
+|Solar Quest (1982).vec|5C4611C8|11a9bd419cf094de8caa8a44d76b69ab|
+|Song Demo by Christopher Tumber (1998) (PD).vec|46779D76|36f466db070b2fe1657129d1367ea9cd|
+|Sound1 Demo (19xx) (PD).vec|8A0858E7|7550e332e055091f88fda71d4bbd1583|
+|Space Wars (1982) [b1].vec|1302F1CB|da0f7b312796210020507308b3e5c29f|
+|Space Wars (1982).vec|A3BE5AFF|2decdf9f55df7fb99761b2fe51425e40|
+|Space16 Demo by Manu (2000) (PD).vec|7EDE44CC|b3b3e498b1d3848e10e9e2e9c524e585|
+|Spectrum I+ Demo (1982) (PD).vec|20AF7F3F|4bb04a738c216e98cc07ed28f6cd4db8|
+|Spike (1983).vec|62A61843|5a90ab748f7b220edaf8c1d67e0bfe89|
+|Spike Goes Skiing (1998) (PD).vec|D17DDC97|200eb913ca5bf60011e6690097ee758e|
+|Spike Goes Skiing Demo V.03 (1998) (PD).vec|DE0C20ED|eb37c39b075b1301f0810e52b64bee05|
+|Spike Hoppin' by John Dondzila (1998) [b1].vec|F487AB41|58a68e8799b35c9b0d060db4b71d5c6c|
+|Spike Hoppin' by John Dondzila (1998) [b2].vec|7E3359EA|1c67000fc6d48b0db415571a7b14cd04|
+|Spike Hoppin' by John Dondzila (1998).vec|1C6B030E|386c706e2b105a05dd9f8da7e57d5a48|
+|Spike's Slam Pit Demo by Gauze (2001) (PD).vec|91B546DC|37f63a51bd4192517181748a159867f4|
+|Spike's Water Balloons (Analog) by John Dondzila (2001) (PD).vec|95188F66|3b79ddade2486f6d87402a4715f8fb44|
+|Spinball (1983) [b1].vec|8AE2B9A2|ba47f965ce261847d5e5dda24b93535f|
+|Spinball (1983) [b2].vec|B1591C89|93a9b3386e0b0a906994b6dc7a71b7f4|
+|Spinball (1983).vec|02F41733|ecc143f87a702af7a1786b58a78ace01|
+|Star Castle (1983) (Spinner Hack).vec|66E1D134|53a840bc55e7119bf63aa5e86e53aaf8|
+|Star Castle (1983) [b1].vec|B2ECDD85|b4b464c77681cf3c5bb9679c7273ad00|
+|Star Castle (1983).vec|C9039623|1224c9beae22ee7354e4220c46237696|
+|Star Fire Spirits by John Dondzila (1999) [a1].vec|651D3AFC|9379d17d67acc6393184ed8051e4caa5|
+|Star Fire Spirits by John Dondzila (1999).vec|421CEA28|dd55837f734a7cba1b1da130725be997|
+|Star Hawk (1982) [b1].vec|7E955785|109c46d79bc6728f541aeaba0c0e84f0|
+|Star Hawk (1982).vec|4DE1F06B|add42c10019e88f47dd98791f8de3148|
+|Star Seige by John Dondzila (1999).vec|0CCCA430|8235bde24ceb057e5145db73a022b016|
+|Star Ship (1982).vec|7967A8CB|47cefe6f77dbafb4475a64fe89da02c0|
+|Star Spangles Banner Music Demo by Jeff Woolsey (1985) (PD).vec|5EC7D559|789a7668cdcae25f27122aa96e2753c7|
+|Star Trek - The Motion Picture (1982) (controller hack) [h1].vec|A0ECB4DB|ad98f3477c2ac3aabbeb3beff9ccd69f|
+|Star Trek - The Motion Picture (1982) [a1].vec|563F846B|529804d1915f576461e04ce8a8598bbb|
+|Star Trek - The Motion Picture (1982) [b1].vec|E827EF51|4ef727ab9221e40752a94c5c9488fa71|
+|Star Trek - The Motion Picture (1982) [o1].vec|081F7C7C|fb002e61cd4e79b94ebc0bfc7202c78b|
+|Star Trek - The Motion Picture (1982).vec|3768D8C3|0b67a6339e9c1d8385e8fdfc48f447bc|
+|Star Wars Sound by Chris Salomon (1998) (PD).vec|DF57B5C2|986b6699c1ae18f6c4508885b191b02c|
+|Star Wars Theme by Chris Salomon (1998) (PD).vec|E8E6FE06|f70e2cb9a9803d10e362c7b83ff312fe|
+|Tank Demo 1 (19xx) (PD).vec|6C68BAF6|3031f19f0a45473bf9496205150d5dc4|
+|Tank Demo 2 (2001) (PD).vec|CDA54427|09f2ee6accd4bfe5c8f6eab60f26351a|
+|Taulukko Demo by Manu (2002) (PD).vec|B76A85C2|3e2dd22273524b82b7a2404d0842d475|
+|Test Rev. 4 (1982) (PD) [b1].vec|628CDB37|17eeadafb49d2d36358ce19f0fa5707d|
+|Test Rev. 4 (1982) (PD).vec|7297E815|8d66945eb9826d91ce27e07b2f8854f9|
+|Text Demo (2001) (PD).vec|E2C6C910|6570c68c72e82abe07f5349517ba53ab|
+|This is Just a Non-Playable Demo (1999) (PD).vec|61BAE868|a966600ff9c7cd54d068a6f7316e79ee|
+|Tono Demo by Marq & Antti (2000) (PD).vec|1213D554|845e95121fc58cb2cd6d0ac6bfc780a3|
+|Tour De France (1983) (Prototype).vec|BB4791F1|8ce9091361e0884bcd60409fc3301edc|
+|Tsunami by Christopher Tumber (2001) (PD) [a1].vec|C9F8E0DE|4e9d8ae167bce23debd127659b4bb7c6|
+|Tsunami by Christopher Tumber (2001) (PD) [a2].vec|DB787558|99e7597d88fa386058d37902a16aaef4|
+|Tsunami by Christopher Tumber (2001) (PD).vec|CBABEC97|5a340d9198e13f744dbdf8f8eba1bbd5|
+|Turrican 1 Sound by Chris Salomon (1998) (PD).vec|2C391AC7|5084bec0f39182706e083ed28a55f903|
+|Turrican 2 Sound by Chris Salomon (1998) (PD).vec|17A4D996|77effb3eb58cae13a3e3c4ca047da2bb|
+|Vaboom! by Ronen Habot (2000) (PD) [a1].vec|2FF8721D|340c6b08f06d3ccc16915e964cf40d87|
+|Vaboom! by Ronen Habot (2000) (PD).vec|0B833D2E|f5809f3325a2901b68709ee137bdd80d|
+|Vecmania Part 1 (1999) (PD) [a1].vec|6C2CFD3F|499057386f23f4ecb30e01d27b958a56|
+|Vecmania Part 1 (1999) (PD).vec|0EEB4805|050256603b56d1385b8f8e252a0c2173|
+|Vecmania Part 2 (1999) (PD).vec|8C915C4D|e1f186888b1356ebb7e2c6a122c703dc|
+|Vecsports Boxing Demo by Manu (2000) (PD).vec|083A2616|a8b8adf002e1bfb605940a23d8940438|
+|Vecsports Boxing With Sound Demo by Manu (2000) (PD).vec|59119454|fd74be3a06fd561c35a3cb2e7d76c884|
+|VecSports Kingpin Bowling by Manu (V0.2) (2002).vec|A1BE9786|d5f7093955b15650ccdeb914332311a0|
+|VecSports Kingpin Bowling by Manu (V0.3) (2002).vec|1968F7DE|d0d46bbaadc45454cdf5d44562bf77e9|
+|VecSports Kingpin Bowling by Manu (V0.4) (Aug 26) (2002).vec|B9801D7B|7f8ca02a12902f4bf1573e23bbbdac45|
+|VecSports Kingpin Bowling Demo by Manu (Aug 19) (2002).vec|3CDE1FD5|57a278eb16965c619067dc706017a33c|
+|Vectopia by John Dondzila (2001) (PD).vec|070B9ECB|e94ad834fa282a20eef5c30b1f1abf72|
+|Vector Vaders by John Dondzila (1996) [a1].vec|8BD103C1|751fbba8581957fc150b163ea70f3dd2|
+|Vector Vaders by John Dondzila (1996) [b1].vec|DB24D8CC|adc4b2ae0ebdcab900257066be1eee41|
+|Vector Vaders by John Dondzila (1996).vec|825987E3|130ee6db535f805307c3b55ca8b95bd0|
+|Vector Vaders Remix by John Dondzila (1999).vec|CC515522|24480020a6cff254863e65b942fd1e33|
+|Vectrace (2000) (Ronen Habot) [a1].vec|6C327889|44cdf13ca9e9364a1123519067705649|
+|Vectrace (2000) (Ronen Habot) [a2].vec|E50BB30D|54e258d28ca8306b0e09db75f926804e|
+|Vectrace (2000) (Ronen Habot).vec|635B3377|c14bbd0463aab50e98fe1548ab082a0c|
+|Vectrex BIOS (1982).vec|F27D4371|ba9260bb961d60e718378cc16a8051d7|
+|Vectrex Bootstrap Loader by Jeff Woolsey (1985) (PD).vec|01CD710B|aca19a23aac100b15b90f22a3e6ae483|
+|Vectrex Demo 1 by Manu (2000) (PD).vec|098A8230|f23f312f1100872efc0dc385b142c286|
+|Vectrex Demo 2 by Manu (2000) (PD).vec|BA77DA17|00ffa6db98e0c6a970f0295fd7bba1f6|
+|Vectrex Demo 3 by Manu (2000) (PD).vec|35B57912|03487bf82ecce9bcf9219c668b8148b2|
+|Vectrex Maze by Chris Salomon (1998) (PD).vec|3AF042F6|53345a3091f45247a5b6c1aed69aba74|
+|Vectrex Pong (1998) (PD).vec|0A5FF28D|7be0b5074c6b75c1d8778cabbf262369|
+|Vectrexians (1999) (PD).vec|05F67127|fd6a73340b2683c3ded2bf1a75b36118|
+|VecVoice Demo by Richard Hutchinson (2002).vec|49D8D798|6108718dbb59278270b19f604bffb737|
+|Version Nine by Christopher Tumber (1999) (PD) [a1].vec|441518F0|440906bd7110c492cb4b874e706cbace|
+|Version Nine by Christopher Tumber (1999) (PD).vec|E3F141AC|02862cb8663f2d07edd6be27441d56f6|
+|Version Nine by Christopher Tumber (2000) (PD).vec|15EED280|e1c86de28d82e80b23630d74a640bb21|
+|Verzerk by Alex Herbert (2002).vec|59665F3D|ebd8b6dfd3d8955209556b07b45243d0|
+|Vexperience - B.E.T.H. & Vecsports Boxing by Manu (2000).vec|E32DC6A4|e69adef3088dfdc6e2ec22dbd57b9556|
+|V-Frogger by Chris Salomon (1998) (PD) [a1].vec|667E4029|353274eba86d88382c579c6d9bb745f4|
+|V-Frogger by Chris Salomon (1998) (PD).vec|9C5410BE|659d9dea05528a9514725b8192ee94ff|
+|V-Frogger by Chris Salomon, Sound by Kurt Woloch (2001) (PD).vec|9D971EE8|66e0dc0b82cb16d25e4de117f4491686|
+|Vimpula by Manu (2002) (PD).vec|63A66698|4ef370feddcbe448226bc54aa4f81926|
+|We Wish You a Merry Christmas by J. Woolsey (1985) (PD) [a1].vec|068CD49F|f3747ee47578c3bf53fffec343709f21|
+|We Wish You a Merry Christmas by J. Woolsey (1985) (PD).vec|3947506A|2b09481830f58449ca103611811f318a|
+|We Wish You a Merry Christmas by J. Woolsey (1986) (PD).vec|BA7BE9D3|19810dc98cfef682f24856437a161e9a|
+|Web Warp (1983).vec|521107C3|a3e0f44454d4100b18493f1bd2485d8b|
+|Web Wars (1983) [b1].vec|9550B174|2705ad2a5db7d2d07969df8d1dd3e413|
+|Web Wars (1983).vec|2EE20103|a398c18b4ce87929471b559b2bc7e79f|
+|Wormhole by John Dondzila (2001) (PD).vec|6371EC9D|d40833d022b01d8a02ed80fdd08f8055|
+|YM001 Sound by Chris Salomon (1998) (PD).vec|661EE846|9b34e37f7e78d56c0d2551ed5473557b|
+|Zombies from the Crypt Music by Chris Salomon (1998) (PD).vec|E007D5F8|efa5d68dab31dc3d25a91b2dcfad6e4f|
+|ZZAP - Scrolling Space Game Demo (1989) (PD).vec|4D467E41|9088fcb88fb6f2aa839c3bfa6363b09a|
