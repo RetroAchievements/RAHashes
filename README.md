@@ -6,6 +6,8 @@ Definitive lists of ROM hashes
 |ROMset|Group|Filenames|CRC|ROM Checksums|RA Checksums|
 |-|:-:|:-:|:-:|:-:|:-:|
 |Atari - 2600 (20200514-091155)|No Intro|✔️|✔️|✔️|N/A|
+|Atari - 2600 (Good2600 v3.14)|GoodTools|✔️|✔️|✔️|N/A|
+|NonGood2600|NonGood|✔️|✔️|✔️|N/A|
 |Atari - 7800 (20201127-133057) [unheadered]|No Intro|❌|❌|❌|❌|
 |Atari - Jaguar (J64) (20200926-011159)|No Intro|❌|❌|❌|❌|
 |Atari - Jaguar (ROM) (20200926-011159)|No Intro|❌|❌|❌|❌|
@@ -55,7 +57,6 @@ Definitive lists of ROM hashes
 |Fujitsu FM Towns|Neo Kobe|❌|❌|❌|❌|
 |Sharp X1|Neo Kobe|❌|❌|❌|❌|
 |Sharp X68000|Neo Kobe|❌|❌|❌|❌|
-|Atari - 2600 (Good2600 v3.14)|GoodTools|❌|❌|❌|❌|
 |Atari - 7800 (Good7800 v3.28)|GoodTools|❌|❌|❌|❌|
 |Atari - Jaguar (GoodJag v2.01)|GoodTools|❌|❌|❌|❌|
 |Atari - Lynx (GoodLynx v2.01)|GoodTools|✔️|✔️|✔️|✔️|
