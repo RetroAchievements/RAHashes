@@ -1,6 +1,7 @@
 These are formatted for forum use.<br>
 <br>
-`[img=https://retroachievements.org/Images/labels/linkedfiles.png]` can be posted at the top of the list.<br>
+This should be posted at the top of the list:<br>
+`[img=https://retroachievements.org/Images/labels/linkedfiles.png]`<br>
 <br>
 Roms used to make the set can be labeled using `[img=https://retroachievements.org/Images/labels/main.png]`<br>
 <br>
