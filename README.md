@@ -5,29 +5,30 @@ Definitive lists of RetroAchievement ROM hashes
 
 |ROMset|Group|Filenames|CRC|ROM Checksums|RA Checksums|
 |-|:-:|:-:|:-:|:-:|:-:|
-|Atari - 2600 (20200514-091155)|No Intro|✔️|✔️|✔️|N/A|
+|Atari - 2600 (20200514)|No Intro|✔️|✔️|✔️|N/A|
 |Atari - 2600 (Good2600 v3.14)|GoodTools|✔️|✔️|✔️|N/A|
 |NonGood2600|NonGood|✔️|✔️|✔️|N/A|
-|Atari - 7800 (20201127-133057) [unheadered]|No Intro|❌|❌|❌|❌|
-|Atari - Jaguar (J64) (20200926-011159)|No Intro|❌|❌|❌|❌|
-|Atari - Jaguar (ROM) (20200926-011159)|No Intro|❌|❌|❌|❌|
-|Atari - Lynx (20201108-203053) [unheadered]|No Intro|❌|❌|❌|❌|
-|Bandai - WonderSwan (20201120-033446)|No Intro|❌|❌|❌|❌|
-|Bandai - WonderSwan Color (20201120-033405)|No Intro|❌|❌|❌|❌|
-|Coleco - ColecoVision (20200926-011306)|No Intro|❌|❌|❌|❌|
+|Atari - 7800 (20201127) [unheadered]|No Intro|❌|❌|❌|❌|
+|Atari - 7800 (20191209) [headered]|No Intro|✔️|✔️|✔️|N/A|
+|Atari - Jaguar (J64) (20200926)|No Intro|❌|❌|❌|❌|
+|Atari - Jaguar (ROM) (20200926)|No Intro|❌|❌|❌|❌|
+|Atari - Lynx (20201108) [unheadered]|No Intro|❌|❌|❌|❌|
+|Bandai - WonderSwan (20201120)|No Intro|❌|❌|❌|❌|
+|Bandai - WonderSwan Color (20201120)|No Intro|❌|❌|❌|❌|
+|Coleco - ColecoVision (20200926)|No Intro|❌|❌|❌|❌|
 |Coleco - ColecoVision (GoodCol v3.14)|GoodTools|✔️|✔️|✔️|N/A|
 |NonGoodCol|NonGood|✔️|✔️|✔️|N/A|
-|GCE - Vectrex (20170908-211236)|No Intro|❌|❌|❌|❌|
+|GCE - Vectrex (20170908)|No Intro|❌|❌|❌|❌|
 |GCE - Vectrex (GoodVect v1.06)|GoodTools|✔️|✔️|✔️|N/A|
 |NonGoodVect|NonGood|✔️|✔️|✔️|N/A|
-|Magnavox - Odyssey2 (20200720-221603)|No Intro|❌|❌|❌|❌|
-|Mattel - Intellivision (20190315-210619)|No Intro|❌|❌|❌|❌|
-|Microsoft - MSX (20201022-071528)|No Intro|❌|❌|❌|❌|
-|Microsoft - MSX2 (20190115-063003)|No Intro|❌|❌|❌|❌|
-|NEC - PC Engine - TurboGrafx 16 (20201114-193228)|No Intro|❌|❌|❌|❌|
+|Magnavox - Odyssey2 (20200720)|No Intro|❌|❌|❌|❌|
+|Mattel - Intellivision (20190315)|No Intro|❌|❌|❌|❌|
+|Microsoft - MSX (20201022)|No Intro|❌|❌|❌|❌|
+|Microsoft - MSX2 (20190115)|No Intro|❌|❌|❌|❌|
+|NEC - PC Engine - TurboGrafx 16 (20201114)|No Intro|❌|❌|❌|❌|
 |NEC - PC Engine - TurboGrafx 16 (GoodPCE v1.09a)|GoodTools|✔️|✔️|✔️|N/A|
 |NonGoodPCE|NonGood|✔️|✔️|✔️|N/A|
-|NEC - PC Engine SuperGrafx (20201109-003941)|No Intro|❌|❌|❌|❌|
+|NEC - PC Engine SuperGrafx (20201109)|No Intro|❌|❌|❌|❌|
 |Nintendo - Family Computer Disk System (FDS) (20210111-132854) [unheadered]|No Intro|❌|❌|❌|❌|
 |Nintendo - Family Computer Disk System (QD2FDS) (20210111-132854) [unheadered]|No Intro|❌|❌|❌|❌|
 |Nintendo - Family Computer Disk System (QD) (20210111-132854)|No Intro|❌|❌|❌|❌|
@@ -60,13 +61,9 @@ Definitive lists of RetroAchievement ROM hashes
 |Sega - Mega Drive - Genesis (20210114-043643)|No Intro|❌|❌|❌|❌|
 |Sega - SG-1000 (20200217-185318)|No Intro|❌|❌|❌|❌|
 |NEC PC-6001|Neo Kobe|❌|❌|❌|❌|
-|NEC PC-8001|Neo Kobe|❌|❌|❌|❌|
-|NEC PC-8801|Neo Kobe|❌|❌|❌|❌|
-|NEC PC-9801|Neo Kobe|❌|❌|❌|❌|
-|Fujitsu FM-7|Neo Kobe|❌|❌|❌|❌|
-|Fujitsu FM Towns|Neo Kobe|❌|❌|❌|❌|
-|Sharp X1|Neo Kobe|❌|❌|❌|❌|
-|Sharp X68000|Neo Kobe|❌|❌|❌|❌|
+|NEC PC-8001|Neo Kobe|✔️|✔️|✔️|N/A|
+|NEC PC-8801|Neo Kobe|✔️|✔️|✔️|N/A|
+|NEC PC-9801|Neo Kobe|✔️|✔️|✔️|N/A|
 |Atari - 7800 (Good7800 v3.28)|GoodTools|❌|❌|❌|❌|
 |Atari - Jaguar (GoodJag v2.01)|GoodTools|❌|❌|❌|❌|
 |Atari - Lynx (GoodLynx v2.01)|GoodTools|✔️|✔️|✔️|✔️|
@@ -85,7 +82,7 @@ Definitive lists of RetroAchievement ROM hashes
 |Spectravideo - MSX2 (GoodMSX2 v0.999.3)|GoodTools|❌|❌|❌|❌|
 |Final Burn Neo|Final Burn Neo|❌|❌|❌|❌|
 |Apple II|4am Crack|❌|❌|❌|❌|
-|Apple II|TOSEC|❌|❌|❌|❌|
+|Apple II|TOSEC|✔️|✔️|✔️|N/A|
 |MSX|TOSEC|❌|❌|❌|❌|
 |MSX2|TOSEC|❌|❌|❌|❌|
 |PC Engine CD/TurboGrafx-CD|Redump|❌|❌|❌|❌|

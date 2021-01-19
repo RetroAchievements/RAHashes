@@ -1,0 +1,58 @@
+64b1278a0ff8972cb47710cc7fd3d7df	Angry+Mario+A.nes
+d3e3fe5d40adf9c6142dc78cf870881f	Crystal Mines (Haitai Supercom) [f1].nes
+1ebb87a3bab1416f5dc318e7b412a6e7	Demo (7).nes
+05d6f5d40ab3519d2769523975473fa8	DonkeyTrump3_v01.nes
+b195bd9ecb5452fa9f69c404bc38416a	DonkeyTrumpJr_v01.nes
+476702ec43c59d00f88e19d466161401	DO_NOT.nes
+50515b8759793259eb51ae67b74b49c2	FC25-台湾格斗游戏+快打传说.Nes
+9c443f49f6730f705090b6830dc5df30	[FC][8BIT MUSIC POWER FINAL].nes
+01aeb4aa80b1ff0bfb0d848c440622c4	FC游戏之4+karaoke+(c)+[subor].Nes
+7ab7d6462fc457a44a5389f234f50109	FC游戏之7+金卡V5+[科王].Nes
+05ce828459811d3be20145a7d6a1120b	【Garuna】超越マリオ+(cyouetu).nes
+78ea9604fa8577d274dabeb1da2da6b6	gekioko.nes
+c17b4d8c029235fd1c66ddefc200710c	Íð¦·-+¦ª¦ª [JY Company].nes
+b5b1ccf630e92bef39d5873d187d7b0e	ISISBomberman_v01.nes
+093a2781839397d68acb48a657652db3	mario1st.nes
+5ff9cac519eb4b71227d392db6d9fcd9	Mario2.5.nes
+a67d2197029ee2157ad4fbd03e8af0c6	mariotest3.nes
+469f305af8ac0d0b1616aa13602b87a6	MetroidLJG_v01.nes
+dc16aa6c57f305c77de0918fa2541291	mk_rotfs 1.0.0.nes
+2857c403c89f64fef3cd2d733b0185b8	mutya.nes
+0058867b57c0c96c1ec99e87f7954563	PUNKTENDOBen_Weasels_PunchOut.nes
+9ad82322df290a27d7a851bc054ef121	PUNKTENDOChrisnDan.nes
+1c3a945ea351a9991fde4f06f1826937	PUNKTENDOChuck_Ragans_Adventure_Island.nes
+7b078072caff7695431c993edf59065e	Punktendo_DrCleo.nes
+b4dcfdd0395985968b8fb0073a38d8ef	Punktendo_DrKnow.nes
+4de5e7ac6e40e1f8cfb2217a185299c1	PUNKTENDOFatMikesGolf.nes
+3f5d38869caf84ce2ddb58f3b1d5d743	PUNKTENDOMegaDanzig.nes
+c7e6670a50ee4f8da5d99763ec2c63c7	PUNKTENDOMilo_Fu.nes
+38357c396e1fbc0749b1fe2059535c91	PUNKTENDOMIsAlley (1).nes
+0a52ac1d6f16a2d3e817f8d90ca17f58	PUNKTENDOMIsAlley (2).nes
+d03400cacf79a6d7621b4dce24dae0ae	PUNKTENDOPopeye.nes
+f254b176bc5c29bf94377b7ddbca8f12	PUNKTENDORacistAlley.nes
+544dfacf6e4bbf2cfa3c3bd70156172e	PUNKTENDOSuper_Chumped_2.nes
+9a2b050cd2ce99e4808c7ed2eed47a1b	PUNKTENDO_Super_Giulia.nes
+4e9a008ae416c3584c016ab4d2a9e28b	PUNKTENDOSuper_Mikey_Erg.nes
+2164e760e8f8ee790f1fe5c4c6428ba9	PUNKTENDOTCBeachSlang.nes
+6dfc8b2bf8fec582bf371c75f09839a1	PUNKTENDOUnduckHunt.nes
+5cb210b8715a3a61d75a15c4344b3682	Punktendo_Zelda2_v3.nes
+5e458d483be9fda256125df00d10a21c	PupTour_v02-1.nes
+83dc5f54081cf62180a863bc61303653	Rugrats NES 1.5 by Pikamon101.nes
+d8769ee24c6193a79d6290913ade6d96	sorcerian (2).nes
+f4cd010a2d57bf52311dbfb435f516d7	Spider-Man 2 (Ninja Gaiden 2 hack) (Unl).nes
+c48ac9c1f566ad5b68a11f5b78f7f356	SPLATTERHOUSE_Ending_ppmck.nes
+6d5ad8eef01a6422c340e1ccdaa38d55	Star__Star_Gate_hack___Unl_.nes
+b1eddbb71994db079aa1dc16c05e7de5	Startropics (USA).nes
+3984802e51c1cf602ed1ee98b90dcb9c	SuperBernieBros_v04.nes
+b55aefce4fc26d70fc38af7b4251cc58	SuperCharlie.nes
+cad69e91cdc92caccecc93db76d78632	Super+Fighter+(R)+[!].nes
+07dbefa0b25af0b20199092fea3d5c3c	Super_Mario_Bros._Remade.nes
+dcaec2784d14bfb82915cfbab1ca2876	SUPER_MLG_BROS.nes
+dfa2bf45023bd514c7c52e631555da3b	TrumpsAlley_v02-1.nes
+c1c9b1a1a0232bb2bff8a18f12098210	TrumpsPunchOut_v01.nes
+133568ee43c1163ecbf62b2493dd2039	TrumpyKong_v02.nes
+20ac523d8abc113168976fc845786bb4	UrbanChampion_v01-1.nes
+3a225c5eba8d72f7f822f94650c886ba	WonderLand_Dizzy-spaces.ru.nes
+f4cd010a2d57bf52311dbfb435f516d7	忍者龙剑传3蜘蛛侠版.nes
+8f1db2f1a0c95cbd5ef7360a9b1cf47b	热血格斗传说(简体中文版)[AXIAHE汉化].nes
+f62b5f3cfc33b8a83fa2f68b74b6f467	魂斗罗坑爹版无限跳.nes

@@ -1,0 +1,1101 @@
+89c75f2117343de1752fb8c74ca2f7ae	15 Puzzle {cload 15}.cmt
+558a3e8f5f272928a88a6ad472743a53	15 Puzzle.d88
+6d104c4e2f76bbcd281ced12c89545f0	15 Puzzle (readme).txt
+ab351f80a2775060a8449f7cf6f39df3	2001 A Space Odyssey (compilation info).txt
+34707355461ba7624b11030acfab22e1	2001 A Space Odyssey.d88
+1edcd629dac95b357cac0007354c154c	300m.d88
+22ebc221d1a934353d0ed690ee13da98	3 by 4 (compilation info).txt
+ec988d625fa00eec88a32782ca5c0f9c	3 by 4.d88
+550e883933fd4c3b4206c58c732b2590	4 Dimension House (compilation info).txt
+68b0b9a7cf47f6d5d6826aacdd195c53	4 Dimension House.d88
+404464a0761a40aee1984f4822c36087	4 Dimension House {mon L}.t88
+6eaa0c62c266b2fa883bfd5ac9c5aad1	4 Dimension House (readme).txt
+ac85c21afc3b6eabca97ae8b87ad49f9	7 Narabe.d88
+73a95866f2994ce835f38100db6242bc	8-Car Game (compilation info).txt
+82090baa4e67e20dc5c9a9a83c79a1eb	8-Colors Game.d88
+e2a6556fdfeefbf84da98016de5b7b1c	8-Colors Game (readme).txt
+c3a8473feaf9683e6d29bcf42128c549	AhSKI! Publishing Trek {cload AhSKI!}.cmt
+bb1822e3d8fcd0c1144c7e9c0560610d	AhSKI! Publishing Trek (compilation info).txt
+b7a35a974487403d376ae27fad61e057	AhSKI! Publishing Trek (readme 2).txt
+7b3d33b16d7238c5d8821c3996d32d81	AhSKI! Publishing Trek (readme 3).txt
+3c27b4496877adaa5ba0108f6e450ea2	AhSKI! Publishing Trek (readme).txt
+7330033c6dfc4e23fbd872661578a9a1	Alien Billiard (compilation info).txt
+24f07e5f39affcadb82782b9058dd06a	Alien Bomb.d88
+42d5b7196a3afa50f8d3eb8f79ce9198	Alien Commander (compilation info).txt
+5ffce7dda6735cd203d4b3a5fce1e435	Alien Fall (compilation info).txt
+572a52f96bed469ebe921858f5b0a34f	Alien Fall.d88
+343f3085988d4f68cd8575a9a2153bc1	Alien Fall (Part 1) {cload j80}.bas
+59e0f87108793ac7e6bcd612aa1a75a3	Alien Fall (Part 2) {mon L}.bin
+92821d5983dcf7ce77b61a9317575d69	Alien Fall (readme 2).txt
+ffa6818b0a4d1619c9dfbacea035bfb6	Alien Fall (readme).txt
+da0cf98093c4bc07690a1b2ba609f96d	Alien Fall [Set 1].d88
+5637d0a80631030ffb34f10785526e99	Alien Fighters (compilation info).txt
+f9089dc51b32feec942a78511a7e9ad9	Alien Panic {cload ALIEN}.cmt
+9e33d9939560f5ee5e8215bf65198d8b	Alien Panic.n80
+408526d1d4992638413d769c7110b770	Alien Panic (readme).doc
+34eab70b58272446d4dad0ec796f3922	Alien Panic (readme).txt
+9d4471e6ceab8e61eafd857d89004bca	Alien Part 2 (compilation info).txt
+ff29451113bd6f8b675ad2f5833ea537	Alien Part 2.d88
+786c8efaaed40868da02a572619a3213	Alien Part 2 {mon L GD000}.bin
+a09f6794a146f93867cf27e09bae7102	Alien Part 2 (readme 2).txt
+b62b32627d404abeb812a8b60b5ebf67	Alien Part 2 (readme).txt
+0fcd34d270bebb2118bb8f28885f6cd5	Alien Part 2 [Set 1].d88
+bb689950eb466bd6654e8cc97f4ef095	Alien Planet (compilation info).txt
+fc8365f76fe86adf589a8a56099cdd6f	Alien Town (compilation info).txt
+80529362a38c5cec4daf822e29f3da10	Amazon (compilation info).txt
+072216fea84bd5d5c03f24c0418928c2	Anzan no Renshuu (compilation info).txt
+e7231b05d78ed618e81421c16781f83c	Appaa (compilation info).txt
+e0d00cc2702c35bb8a84a0119b79ae20	Apple Game {cload APPLE}.cmt
+c66c3bdfd3d74edb1baf2f5c32b731e5	Apple Game.n80
+117f53cd504f05151ffa9e5f39e15063	Apple Game (readme).txt
+4928aef97a3fd901875d776f1b1cf94c	Arfgaldt (compilation info).txt
+1295eb70b4208ae7306981a99c2aae9f	Asteroid Belt (compilation info).txt
+ff6aa9fcb7978572e2a91743cdf2c6d8	Asteroid Belt.n80
+e5a4f966c9932b3c2fa64f24813d4faf	Asteroid Belt (readme).txt
+8805a329f008fe2d11d7c70e0b21fde9	Astoria.d88
+901c981ada3788451f94ded82329ed53	Axa (compilation info).txt
+826856b3769fc8243657a02e2a653b16	AY-1 (hack) {pass=123}.d88
+3fbee61c0333b5df7d8ea6822318f9e5	AY-1 (hack readme).txt
+fe14a033e622eed46170387eb06a891f	AY-1 (readme 2).txt
+75fde1b3455da692cf1b3123b260f78b	AY-1 (readme).txt
+12918f2d45cc600c85101e058563ac8a	AY-1.t88
+f0a6e5ccafcb5aaa26e2c1b3bd515ab0	AY-2 - Olion 80 (compilation info).txt
+a14bcfb1dcc25bd535fa57d9d00d7602	AY-2 - Olion 80.d88
+418adfe0ec09b092bcdf453072bd2d96	AY-2 - Olion 80 (manual).pdf
+63c7832543a3c889e66eaa28d162bd8d	AY-2 - Olion 80.n80
+0765805a7444e32c0aa34ece8b5497cf	AY-2 - Olion 80 (readme 2).txt
+a775c793fee863575be6ab300a616276	AY-2 - Olion 80 (readme).txt
+eb48f25e2166aaab418c86c327273fc4	AY-2 - Olion 80 [Set 1].d88
+dbc8129d13d9f19a19ee5058c97c07b1	Baba Nuki {cload BABA}.cmt
+1dc51acd5c31628a2ee0282a84cb1060	Baba Nuki.n80
+bf74488cee995c7a237b68c545438f2d	Baba Nuki (readme).txt
+5b8f9fa2d81650b907ea35f77ad309a9	Backgammon (compilation info).txt
+0353e87b95cc990223766e6a64621453	Backgammon.d88
+91147919b4f7c554d0a5fe0c5df07224	Bacteria Land (compilation info).txt
+d9ffdd2dcc2e5d9544b3900316b14f9b	Bannou Graph (compilation info).txt
+de3923a08a45de8c9bb0439df11c4cdc	Barricade (compilation info).txt
+d7247349d75fc58f1d29d387a0610345	Barrier Attack (compilation info).txt
+d647cead9898673fc99ff394af6d6c4e	Bastille Rougoku.d88
+329385bd294a50dba88385edcaa34e27	Battle-Wards (compilation info).txt
+5be5181ad0e336b34612a43e4379da47	Beat Off (compilation info).txt
+82c3a995d4a824d0b860effb23d9bfa3	Beep music menu (CT readme).txt
+781cf75e446279120f2c6ebd0b3b544e	Beep music menu.d88
+461283791df640f893c88104c432f7e7	Beep music menu (Part 1 - BAS) {cload BEEP}.cmt
+1b2e882c3f86983ebeebc099969142b2	Beep music menu (Part 2 - BIN) {mon L}.cmt
+5fdcbb91ff00ac57880027752d8a2b90	Beep music test.d88
+4ece27b1c82eb24e1bcc20c9653bf7ac	Beep music test (source).txt
+f099c722ce196350fcec716c19569599	Bigger Snake (compilation info).txt
+ae8a301e2d33aac06bd604d80f556917	Big Shelter (compilation info).txt
+99ada04a25c08ce902dc9d7542cb9a55	Biorhythm (compilation info).txt
+cc92fcf0ae7cdc5901786341baf6a195	[BIOS] PC-8001mkII (readme).txt
+2c0b308a9b8c180b0dfbb83f8bc4d037	[BIOS] PC-8001mkIISR (readme).txt
+ac17aa85c667f8d9de9ee36500fe3a5a	[BIOS] PC-8001 (readme).txt
+6bf36aeae62c6c2bc2978e10a8d76fd4	Block (Foresight) {cload BLOCK}.cmt
+c7560843e3eeda942026dba8038fffea	Block (Foresight).n80
+a0cbd16848d4c021e61bfdf004407257	Block (Foresight) (readme).txt
+2f728ad52d099b258ce620b8c06c8a35	Block Tennis.d88
+3d615d9f9164a319d30e9806189b4f5d	Block Tennis.n80
+28be744caaf9cca0dc227fea2ee35dcd	Block Tennis (readme).txt
+dec61ff2a62c502e919f7be6dfba18e1	Block (Yoshikazu Ishizu).d88
+f0391987466c0b9cb1aec707862f34dc	Bomber (compilation info).txt
+bfe8ff994d835485f4ce500c99364905	Bomber Game.d88
+66ac3a023bbbf8dbf7d5d9bc9e0bec45	Bomb Iida (compilation info).txt
+7c02e26010d820f8c6e4f2967ed7e723	Bom Bom (compilation info).txt
+f4265445aa731aaedf681c91375bcbdf	Bom Bom (readme).txt
+fe67785eeb62dfcc90be711d80811c05	Bon-Bon (mkII) {cload BONBON mon L}.t88
+213b661403d4346b140f39d778ed0116	Bon-Bon (mkII) (readme).txt
+84608ff1e6506e56681e0de20df4039a	Bowling 2 (compilation info).txt
+35937d85379d68d3a813ff58c75139eb	Bug Fire (compilation info).txt
+18a30fbde6d382cf6a126e0813cf821b	Bug Fire.d88
+5ecdeca21bdf4c27580c5f20bb135960	Bug Fire {mon L GE390}.bin
+4b8c8093cef4d33ea131fc371611b91f	Bug Fire {mon L GE390}.cmt
+e7383df47b847e1f695c16132daeaba1	Bug Fire (readme 2).txt
+419969738e5b5408d098ceb0e7df1601	Bug Fire (readme 3).txt
+c205d4fc2af3a2df10346e8e9ac286c7	Bug Fire (readme).txt
+58b31e0a9cbbdb1c74b8375053cc5095	Bug Fire [Set 1].d88
+d8dc8c2750fdcf4b4de8c995e08b3766	Burger Time (mkIISR) (compilation info).txt
+b8f11817c04bf50e96467a76e0c0ea15	Burn (compilation info).txt
+ffcf3ce25f96b846fbcc4522355b0285	Chasing Monster (compilation info).txt
+33c300e35284d0f9352f78ba899f9128	Checker Flag (compilation info).txt
+cd59e94652501ac0c3a01d29f6ed6c7d	Checkpoint (compilation info).txt
+1697b03ab67c0a57dd29daec93e119ce	Checkpoint {mon L GB475}.cmt
+b39ab9ebee75ed507fc331b2fc75bd1f	Checkpoint {mon L GB475}.t88
+536e470fe6f6f31bc4ae72029134d7b0	Checkpoint (readme).txt
+f3f09e554f05b4b6081b24888d7c6e68	Checkpoint [Set 1] {mon L GB475}.t88
+dfa693b13567e788d7b9f55528b09e36	Checkpoint (t88 readme).txt
+46de48c5c1d31f87d30b030b600f1400	Circuit (compilation info).txt
+94f8f349bae312c1cb8dc372806c4661	City Line.d88
+e0984cfc5c0837a732707f00635218d1	Clock {cload CLOCK}.cmt
+a8c05f31174cbb2e2e9b9d54f19dce1e	Clock (readme).txt
+7ebda81aaf0209179ef498351c29f27d	Clock [Set 1] {cload CLOCK}.cmt
+b76d6ff6ecbb481f4be4ebb8ddbf25d3	Color Magical (compilation info).txt
+5b2646f5cdb1dbc04761fbf30b3b3ceb	Combat {cload combat}.t88
+d0cdf60b768119e1d04e052a717decc5	Combat.d88
+a60826f50e31960442342a37af3123b7	Combat (readme 2).txt
+505ba9e45bd1aea6eea8223835e920a9	Combat (readme).txt
+9e096801b625b0d1c023fa45aedf9a93	Come On (source pg. 1).jpg
+0befba9f1fefc98546101db25f398bf2	Come On (source pg. 2).jpg
+9a0cf5036b03f4d21cb7a576009a89e0	[Compilation] N-BASIC Games.d88
+eef8e6571335454a2c5bbed8c13a41c4	[Compilation] N-BASIC Games (readme 2).txt
+3b0a2685cb2d40e571dd0c1790205715	[Compilation] N-BASIC Games (readme 3).txt
+018e7cbeddae21fe4cc705550fc95395	[Compilation] N-BASIC Games (readme).txt
+9c85959f3052499ec499b4795bd03acf	[Compilation] Ndisk (Disk 1).d88
+ef06bb151607bc7be493903c4498711d	[Compilation] Ndisk (Disk 1 readme).txt
+71f7b6e2885f26855454157f245b1f41	[Compilation] Ndisk (Disk 2).d88
+70d1c84239d4cbe400876cc166ba8eae	[Compilation] Ndisk (readme).txt
+94d4d1f474ef1679113db732d94219fb	[Compilation] Newpc (Disk 1).d88
+589bed2cb8d7e07cf7bdd5c80638e004	[Compilation] Newpc (Disk 1 readme 2).txt
+c3a8e8148cc5b21000ba86ddf884c2c9	[Compilation] Newpc (Disk 1 readme).txt
+3584a30e4143d7c63d1c19777e091308	[Compilation] Newpc (Disk 2).d88
+3f1d963b7a479bf3afff111077b8d02a	[Compilation] Newpc (Disk 2 readme 2).txt
+aa398ff8abfa12e7eacc8d545e85b239	[Compilation] Newpc (Disk 2 readme).txt
+70f27f30c61c042571a6d200092b7896	[Compilation] Newpc (Disk 3).d88
+95ba0f599e815262bb9191a4be7523c8	[Compilation] Newpc (Disk 3 readme).txt
+51bc3815b6419c180a547c1e8352442f	[Compilation] NS-DOS Pack (Disk 1).d88
+8638891ae655d5b0c1ffcad3d59a348b	[Compilation] NS-DOS Pack (Disk 1 readme).txt
+bc59bed663a6f26d3cae9ddf45f73499	[Compilation] NS-DOS Pack (Disk 2).d88
+1d330cade30bf4e35a19fb69b7e68c70	[Compilation] PC-8001 BASIC Game Book (contents list).txt
+80bf70aa3c6b55b9b5e9fc1c49015942	[Compilation] PC-8001 BASIC Game Book.d88
+f312efaf37f580d4c19cc7187f660dfd	[Compilation] PC-8001 BASIC Game Book (readme).txt
+af45797f92a146545137b13cea9bf4e3	[Compilation] PC-8001 Game Pack (Disk 1) [Alt 1].d88
+8c305ae9bd9b3493aec8222ca7f34336	[Compilation] PC-8001 Game Pack (Disk 1).d88
+6f21c0a8b0713d5283e4b9d3e0d73ec2	[Compilation] PC-8001 Game Pack (Disk 1 readme 2).txt
+8032854b228bf2a594b0f5f949035a10	[Compilation] PC-8001 Game Pack (Disk 1 readme 3).txt
+6dfe42c934bb9fed9494cda067ba77ba	[Compilation] PC-8001 Game Pack (Disk 1 readme 4).txt
+52798dedfd052a4ca8b3f2b5f33f2ed9	[Compilation] PC-8001 Game Pack (Disk 1 readme).txt
+fca24b0180e804dbfd7c3163a1117694	[Compilation] PC-8001 Game Pack (Disk 2).d88
+47cc8eb4aed3ffd7eade5627ce6b9f48	[Compilation] PC-8001 Game Pack (Disk 2 readme 2).txt
+e5cba39a7baccee585166ff597b4353c	[Compilation] PC-8001 Game Pack (Disk 2 readme 3).txt
+68150982a2029c9b2613da2aef8d3a8c	[Compilation] PC-8001 Game Pack (Disk 2 readme).txt
+b88edd97ef7c4f391852dec62a394429	[Compilation] PC-8001 Game Pack (Disk 3).d88
+c22d0bc15eab15e3a04e392cb5a501b8	[Compilation] PC-8001 Game Pack (Disk 3 readme 2).txt
+cef131f8ca42f4f5bb4c46e809c31681	[Compilation] PC-8001 Game Pack (Disk 3 readme 3).txt
+a47f56122ad81a3abcc7807e95fabae5	[Compilation] PC-8001 Game Pack (Disk 3 readme).txt
+f2409ecfa87a5b48e86be30297438109	[Compilation] PC-8001 Game Pack (Disk 4).d88
+5ba30c955360fa92b97d7830cd017aaf	[Compilation] PC-8001 Game Pack (Disk 4 readme 2).txt
+dd4a4d2482344c9753a83b51c59aa8af	[Compilation] PC-8001 Game Pack (Disk 4 readme).htm
+1278e563c8b1e1f0a98794ad227805d7	[Compilation] PC-8001 Game Pack (Disk 4 readme).txt
+6aefcd1001027172b0744471a3d1aac0	[Compilation] PC-8001 Game Pack (Disk 5).d88
+8983e5b800fbc0cbaca7c189fc9a91e1	[Compilation] PC-8001 Game Pack (Disk 5 readme).txt
+5bc7cc6d547f14011fe2be35659dbe9c	[Compilation] PC-8001 Game Pack (Disk 6).d88
+9bb7de6eee7dca4111ea0305b9e3e72b	[Compilation] PC-8001 Game Pack (Disk 6 readme).txt
+d24a7ca432a80e602535e6e926f50aa5	[Compilation] PC-8001 Game Pack (readme).txt
+1b67ad67fbe1f9173a1987e7a349a98e	[Compilation] PC-8001 Games (Disk 1) {pass=123}.d88
+4c7fb89b310a80103b1868d2f8766eef	[Compilation] PC-8001 Games (Disk 1 readme 2).txt
+cebd5092d3876f5ffc3fdcac296270f1	[Compilation] PC-8001 Games (Disk 1 readme 3).txt
+f48cc713e0ae37fa8184a4a83a4af683	[Compilation] PC-8001 Games (Disk 1 readme).txt
+977887374b1bf3c45b2bfda30ffd62cb	[Compilation] PC-8001 Games (Disk 2) {pass=123}.d88
+5681eb33ae5bc8c133e805fc02209e5d	[Compilation] PC-8001 Games (Disk 2 readme 2).txt
+9835782fd57ff596c7d63edee570d8e4	[Compilation] PC-8001 Games (Disk 2 readme 3).txt
+b5769bb8a26250140760e32a8997e612	[Compilation] PC-8001 Games (Disk 2 readme).txt
+8cb04a1ee4812e7eef0cab42e73a72fc	[Compilation] PC-8001mkIISR Game Pack (Disk 1 contents list).txt
+d178db8e13fe694243033ab0cf3b716f	[Compilation] PC-8001mkIISR Game Pack (Disk 1).d88
+0e6c33e588dc32ac340e9c8bb37c74ea	[Compilation] PC-8001mkIISR Game Pack (Disk 2 contents list).txt
+fb8c91f80a7a3a94cd7659b97022ac8d	[Compilation] PC-8001mkIISR Game Pack (Disk 2).d88
+68d24416c69689ba63ec05a47061fa9d	[Compilation] PC-8001mkIISR Game Pack (Disk 3 contents list).txt
+2b785bec957865cf00f77ab9f04cf62a	[Compilation] PC-8001mkIISR Game Pack (Disk 3).d88
+592a1eb8005061ae9cd7c58f09fb46f8	[Compilation] S-DOS Game Pack (Disk 1 contents list).txt
+5f093c444d730351778b2f45a59e9ff2	[Compilation] S-DOS Game Pack (Disk 1).d88
+daaa15ac6a1b316624d41b00134d9010	[Compilation] S-DOS Game Pack (Disk 2 contents list).txt
+0c52b4a3ff282c8fd7cd6db2fe33bb2f	[Compilation] S-DOS Game Pack (Disk 2).d88
+c9db78aec45638c4bbfe9cacb479bc5c	[Compilation] The Final Weapon V-001 (contents list).txt
+24fedf4390c71a61f56e54047c683960	[Compilation] The Final Weapon V-001.d88
+26167ba10fc97e3cffb81ca89d7ba6ee	Concrete (compilation info).txt
+745dd41885eaf84a98044ffab0f43f05	Cosmic Ineiger (compilation info).txt
+51d94a309274792c0daece684bcc5fa7	Cosmic Ineiger.d88
+dbe3691ad60962cd77285da9bd83fdd1	Cosmo Missile.d88
+8f4d0da75db1400eaeb43bc57a3ded06	Cosmo Missile [Set 1].d88
+8f27ae185b81be99493072d96b8715e7	Cosmo Traveler (compilation info).txt
+2f9ca60e919b3c0acf3ecf13a81cbb82	Cosmo Traveler.d88
+83a3b5f86d1dfbdae6f365b92a25ab3a	Cowboy Alien (compilation info).txt
+e33f3d15c4798e59fe80494c982aac76	Cranston Manor (mkII) (Disk 1) {run MK2}.d88
+67242f0450a3bc09ddabd062624231db	Cranston Manor (mkII) (Disk 2).d88
+796cc0fb9f85eb14e1144c231bc5d75d	Cranston Manor (mkII) (readme).txt
+52a3f92c061388f3dbbc8e2686aab97c	Crazy Balloon (compilation info).txt
+7b2955da2f3ffbb54a435451a4581723	Crazy Climber (BAS+BIN readme).txt
+a5687c0da995562e65c59ea9b168621d	Crazy Climber (compilation info).txt
+305dcc951328b2ee3a91fbd9d8f24b04	Crazy Climber.n80
+943b8e84984ff594c069cdd5ec27c8d8	Crazy Climber (Part 1) {cload j80}.bas
+09058dfd5ed4e4ebcea28623bd00f4c5	Crazy Climber (Part 2) {mon L}.bin
+054dceed2b0c344073e0b317ccf7b287	Crazy Climber (readme).txt
+4ac19bbc58adcef089a29b6c5bf67001	Crazy Stone 2 (compilation info).txt
+ed07e9849532c13be8c5bd6cabef7eed	Crazy Stone (compilation info).txt
+bad316a88218ab4a1dacb91744e541f5	Daihinmin (compilation info).txt
+03074a1937b24a9bcf575418af2b72f2	Dalaga (compilation info).txt
+43a6a89271ac58ca5fe3100784f320db	Dalaxian (compilation info).txt
+ab1d88278316bdb5776ff7215db2c6eb	Dangerous Drive (compilation info).txt
+2d28bee49ecce18d2eb1a52bcb8d3e6b	Dasaku Program-shuu {cload DASAKU}.cmt
+d8415efefbdbc232397c30ee852fbb5d	Dasaku Program-shuu.n80
+0593220fd30132054f20cb5b29b85e7e	Dasaku Program-shuu (readme).txt
+db3270534753ce7d7a3a9b1b7c01dd33	Dasshutsu! Shi no Aokigahara (compilation info).txt
+8daa1845d125e9779799efa61707dd87	Dasshutsu! Shi no Aokigahara.d88
+97a67b0135049fa2bc93bec031ae0ff9	Deep Scan {cload DS mon L}.cmt
+c5a8847b2992367def56bb36e7f2bd53	Deep Scan.n80
+253dcf92ae9d9f95818e593344c75db5	Deep Scan (readme).txt
+6c41ec9cb9d95cbc8e20326780514e27	Defend Base (compilation info).txt
+ae1ee5c2f507d22ea79bcc2c6c8d286e	Defend the Earth (compilation info).txt
+34054242566ce4c66be06d8c3fb8b09e	Defere (compilation info).txt
+467de45336c60fb60e9f4dc10162400a	Deos-II (compilation info).txt
+cf737879316aacb6cf6b2145ada07445	Destroy Helicopter.d88
+6b0f1da25362287aef41ff0b2a6fb3ff	Destroy Helicopter [Set 1].d88
+2878c577f468427a39ee8b5a04b7ae26	Dig Dug (mkIISR) (compilation info).txt
+20a04fd97481cb0227b257bd20fe951d	Dinky {cload dinky}.cmt
+13a60ecbd5823b0a9c2d91d0222da04c	Dinky (readme 2).txt
+15987852cd52dd15ac7ed57802ca86b8	Dinky (readme).txt
+d525311695e9104f6ac613b6bcba74bd	Dinosaur N (prototype).d88
+0c623467b413986d6526c74a725a935a	Dinosaur N (prototype) (readme).txt
+f46e1bc0f33a515bc4fecc0a89414176	Docking Three.d88
+8e832bb7aa16bf45dc88239f254b33c8	Doctor (compilation info).txt
+215241eb60a184f23213db01ecf2fe8d	Dog Fight (compilation info).txt
+f3ca135372e36432b605b0c0892ff560	Donkey Monkey (source pg. 1).jpg
+549767c9f7bbe7e9b010e3a66c47819d	Donkey Monkey (source pg. 2).jpg
+da0b5abeb708f24635f12329e1bbe966	Double Barrier (compilation info).txt
+f27f9cfb9f8a10a045fe1bf727173c43	Double Barrier.n80
+e9a285083865ab9f949bd9c52fdf2802	Double Barrier (readme).txt
+cac1828965118f6894a793131eff6d01	Double Rope {cload ROPE}.cmt
+7b04f8ec544a79074b8d4cb55af553d7	Double Rope.n80
+feaedd99d8fc844abe02dbfb01bb0b6c	Double Rope (readme).txt
+abaaa191d9507e83bf9b93e75ae07127	Dragon Lair (compilation info).txt
+c8953613fac1e8478ded4b8fa481aeca	Dragon Lair.d88
+de6afca8bf7eb9c6d3dfd6b513fce15b	Dragon Master (compilation info).txt
+c216def5a30eee051910ffaacdd73aa1	Dragon Maze (compilation info).txt
+6a722d7d8d540a1e898b631883e34a0c	Dragon 'N' Spirit (compilation info).txt
+f7226b8b5f5eb99cc6bc6d5c5f57352b	Dragon 'N' Spirit.d88
+9086ed274cd64d5f01e9738fd958bcea	Dragon Quest IV Ending Music (Part 1 - BAS) {cload MUSIC}.cmt
+f931a5a9c9742e743e02f7f04bdd6080	Dragon Quest IV Ending Music (Part 1 - BAS) {cload MUSIC}.t88
+2867247fb54a883b6813bcf523952994	Dragon Quest IV Ending Music (Part 2 - BIN) {mon L}.cmt
+03921c3183bbc1385bd3f4f76854d7f5	Dragon Quest IV Ending Music (Part 2 - BIN) {mon L}.t88
+35f2b11246e247b208482b6105a3829b	Dragon Quest IV Ending Music (readme 2).txt
+7a17f10c18313e1fbfc9a75f3acb4f1d	Dragon Quest IV Ending Music (readme).txt
+9274d5dd98fd323906f4ae605eb19171	Dragon Slayer (mkIISR) (compilation info).txt
+2463c72081966a170fd683cf64471e29	Dual Alien {cload C-SOFT}.t88
+232a40f790b347b5d83198c549b6a62c	Dual Alien.d88
+2a692271d3f620108ec1a8a164d71b2b	Dual Alien (readme).txt
+dc2d00ddc40788f88957e2d3adb4e989	Dungeon (compilation info).txt
+7f0d983c445be94d0b49ccb0ca27790f	Dungeon.d88
+f7e7f1a6ed1758c719b2d63e86281f75	Easy Block (compilation info).txt
+f5e72d3d77c94377f665d72ac1d4d430	Eddie (compilation info).txt
+b058822969c02522f53bbef77e231af3	Eggy (mkIISR) (compilation info).txt
+b421ce564c56e1dbef9c18272b4a6002	Eliese (PCG) {cload ELIESE}.cmt
+4f06718051531ef4719e0a6883db148b	Eliese (PCG).n80
+64ae0ad96c0ac064ad037ebb1193f24a	Eliese (PCG) (readme).txt
+7752c76dee65797a44009ec5a32ee89d	Emmy [Alt 1].d88
+313c8460fb7ad26d4b2a0b7804717e0b	Emmy [Alt 2].d88
+986aacc14105d8285ed5c10781fdeaec	Emmy [Alt 3].d88
+556df422a7e08274f009a02d132db8d3	Emmy [Alt 4].d88
+c3fd72c922d4f9fd581d41b19b65772c	Emmy.d88
+233b2d9c77b21064fc731c4d25c07b35	English Teacher (compilation info).txt
+81e4e95af16998c196131a04500fee90	Europe Taisen (compilation info).txt
+62708cba0a7453f3c8fb3c25ed8d2035	Europe Taisen.d88
+30a0e4fed563bb784e2a0e83dd435089	Europe Taisen (manual).txt
+5656d5923160ab44281af8c92e40b3e6	Excitebike (mkIISR) (compilation info).txt
+d6e9e4f9146f6bfa4cae59230d308d9a	F2 Grand Prix (mkIISR) (compilation info).txt
+85c7b5ee7c30698253c263faeb9b643c	Fan Fun (compilation info).txt
+a827214e2ce7c82ec619d9d647f1f383	Fan Fun.d88
+9debd426d965b82afb129f67f5ece847	Fan Fun {mon L}.t88
+e058325be20be75f90f40d2c7ed623d1	Fan Fun.n80
+ac3a69408340ee90f09e990b2b0de3d2	Fan Fun (readme 2).txt
+eccb46274a7b13ddf4ec55a3df8613a4	Fan Fun (readme 3).txt
+a303eb2943eca23092b8fa41e337177d	Fan Fun (readme 4).txt
+255521819aa478dc5b29046f159954f3	Fan Fun (readme).txt
+3c2641caee61372c3922f61e38dfbc8d	Fan Fun [Set 1] {mon L}.t88
+3652377616ef11822bb047a3e7c331d9	Fedora (compilation info).txt
+cb80813c01bca06d34e3719dc3651405	Fejone Buster {cload fejone}.cmt
+13a7350282687a88122db31fedc5d4d1	Fejone Buster {cload fejone}.t88
+06f11fab43c222e06088a26d62766c41	Fejone Buster.d88
+ea0c3a08f808b51ebffa84222c26896a	Fejone Buster (readme).txt
+4103f8a39662394f902e2c0dad451621	Fenix Part 2.d88
+55efa38fe28c84afc939fb608490b6b3	Fenix Part 2 [Set 1].d88
+ddd15b6d0f8efed38d60258918ce4a4b	Field Army (compilation info).txt
+2267efc46b82813948c93915912d5422	Field Army.n80
+03dbf454ccd3b71644d65b4af2a3d6ed	Field Army (readme).txt
+8a681498b0e2cd8589b552393897f73c	Fire Rescue (compilation info).txt
+5a7c6fadce73c64ba4224ea2bc50b8c1	Fishing (source pg. 1).jpg
+0b0f030f2ef2b8c362b2885987ecf9ed	Fishing (source pg. 2).jpg
+be09794e484226cdf586c4ec482eee60	Flag (compilation info).txt
+ba842fc3b3f1a25b381a187ddb4be0bc	Flager (PCG) (compilation info).txt
+2ac650882ff1285576aadfdfefd74f12	Flag World.d88
+a41e26ac0431e3ef5e91ec300ac96338	Flag World [Set 1].d88
+21895a399d0447112eacef36dd5065b5	Flog Girl (compilation info).txt
+cd428f9ee8ff9f84c60beb7a8a0ef628	FONT80M2.rom
+cd428f9ee8ff9f84c60beb7a8a0ef628	FONT80.rom
+a1ff399365f5e3aa0607b6f34e313a51	FONT80SR.rom
+018073063b1ae83a2e8a3ca127df78e5	FONTHIRA.rom
+cd428f9ee8ff9f84c60beb7a8a0ef628	FONTKATA.rom
+61341bfc9518c343e1d2934995716035	Foresight #01.d88
+27882574a682545921ea0f0b135dce69	Foresight #01.n80
+6b31e4d08710b60c6163a87ea194524e	Foresight #01 (readme).doc
+3e2e6ba4558a538c5becc4aafaf53338	Foresight #02 (Rocket) {cload ROCKET}.cmt
+7e0ac8fe866fdf27d3b25f545bb6d91b	Foresight #02 (Rocket).n80
+095c19f0bda31394ca004d668bb16c79	Foresight #02 (Rocket readme).txt
+5bd1775e2daf3a3bb63b350ea9fb38e3	Foresight #03 (Kanji) {cload KANJI}.cmt
+ecb3fd95b4e6ba324be49a15782de26c	Foresight #03 (Kanji).n80
+aec144a30cb81ac773f0ec26cf57ccba	Foresight #03 (Kanji readme).txt
+dc9972d95753acd2ef53b3164a04cc73	Foresight #04 (Piano) {cload PIANO}.cmt
+4543720e4fdb287a418df8f4036ef3ad	Foresight #04 (Piano).n80
+070ab64be5a7e2f8afebe9a99560ac9d	Foresight #04 (Piano readme).txt
+ff1b7d695f276db41e86d1a1e7e6bc22	Foresight #05 (Uranai) {cload URANAI}.cmt
+3484d121482d6c7bf8b2373e7d0da81f	Foresight #05 (Uranai).n80
+c2d206778978aa345eab34cb4c6371be	Foresight #05 (Uranai readme).txt
+3f1bce28bd470452ff68faa017ebab8f	Foresight #06 (UFO) {cload UFO}.cmt
+cbce182dfae55d9bda5af25ea9c5b54e	Foresight #06 (UFO).n80
+9656ba9d4eec1096cefb61d57406fac1	Foresight #06 (UFO readme).txt
+3ab6bc2c129a792addabc69e7962ad4c	Foresight #07 (Star) {cload STAR}.cmt
+e25d153485388423053ee9c7425ff25e	Foresight #07 (Star).n80
+39ccbb0dbdabe35f0cfbee988e97fadf	Foresight #07 (Star readme).txt
+b6c988be2ae023592125dcdbf0d34664	Foresight #08 (Prince) {cload PRINCE}.cmt
+048fb0f0405ba5df551775fd93af7a90	Foresight #08 (Prince).n80
+3bd8266d7950cceef78c6b2adb3104a4	Foresight #08 (Prince readme).txt
+b6433753fdfe6635e2f2e0f423b9463c	Foresight #09 (Credit) {cload CREDIT}.cmt
+50bd95d228ef4c4b94eaa693736cac06	Foresight #09 (Credit).n80
+c74453c052fdd2534c6d249e82da1f69	Foresight #09 (Credit readme).txt
+82a60079a682dd07e8a726881383b13f	Foresight #10 (Winter) {cload WINTER}.cmt
+bc7ffd7a7334651d9ab11b24ab6759eb	Foresight #10 (Winter).n80
+03599dea43d673d0e774008b4791b0c3	Foresight #10 (Winter readme).txt
+471a487c9b14d2fb6b241ab4ba7c5d48	Foresight #11 (Artist) {cload ARTIST}.cmt
+5996fe889c9ec101d2016057373ca939	Foresight #11 (Artist).n80
+4cc26f17b62f1da38f41cd6de566f5f0	Foresight #11 (Artist readme).txt
+a8e91a90a624484ce6da5495ee3c8f9b	Foresight #12 (Land) {cload LAND}.cmt
+f5cc45f44e3854513fffb6463e83ff5d	Foresight #12 (Land).n80
+d94b914d8ad3d3e8b7ebcb8b59654521	Foresight #12 (Land readme).txt
+6d3e7d90ef2969601c31ffbec117a39f	Foresight #16 (Demo).d88
+81282f551065e38071cd48e4d4f816ad	Foresight #16 (Demo).n80
+8e95bf99409bc02327e9b68103b84820	Foresight #16 (Demo readme).txt
+d26988fe6b844cd14862d60298a9daef	Foresight #18 (Inu).d88
+76a47c82cbc6bc047a463b850be23ba6	Foresight #18 (Inu).n80
+163992195b4d1b7244b26a9fa82b72d8	Foresight #19 (Drive).d88
+00442f0308871e8f37e113f831be6f20	Foresight #19 (Drive).n80
+98426ea998cebaa0990c0d79de50e934	Foresight #21 (Man).d88
+335563dfc2fb1c03ffb8cadfd4bb2a58	Foresight #21 (Man).n80
+f574f5f7dfc6a85ea026f3a0e7aa1d23	Foresight #22 (Back).d88
+b7d402118c1968abdaa1b19c619ffa79	Foresight #22 (Back).n80
+61366bb491e23e054378060a39b0b5f3	Foresight #26 (Uruboshi) {mon L}.cmt
+3d3621f5bb4178ce4a1dfc623fd85ffc	Foresight #26 (Uruboshi readme).txt
+eea29bb202a4e8950192bee891f44994	Foresight #32 (Show) {cload SHOW mon L}.cmt
+73595885ec3b20fd57b7adc1b0a62a21	Foresight #32 (Show readme 2).txt
+1df282d827f11ac78d4cd4448eebf916	Foresight #32 (Show readme).txt
+952a5f22ea99a2fb1d4dc48766e4650e	Foresight #39 (Demo) {cload DEMO}.cmt
+ba7e1fe23e083d20e53d1e658ca06bc2	Foresight #39 (Demo).d88
+401ec953daa8e35c77c5a30723754d08	Foresight #39 (Demo).n80
+73e23f3bf8c0c6673c792d67da8be9a2	Foresight Bulletin (#01).jpg
+0fc2e843ea2616479961ce7ab8f1a2d7	Foresight Bulletin (#02).jpg
+4b7c502133ae22c358a2d690442128ae	Foresight Bulletin (#03).jpg
+1fb5e5547ff41e7d1764a8a49df3fc49	Foresight Bulletin (#04).jpg
+04ea66e811d543161870c1bd5a5c0e7c	Foresight Bulletin (#05).jpg
+911cab2653143ff4c9ea166667df9213	Foresight Bulletin (#06).jpg
+3bb395cd07e33d8b45de585698de9148	Foresight Bulletin (#07).jpg
+2432d39dc18afb8aa27039d3485ce49c	Foresight Bulletin (#08).jpg
+145d49c9f9d867baad04557fdb766dc1	Foresight Bulletin (#09).jpg
+4e7381696b14223ae695f0fd1b8a856b	Foresight Bulletin (#10).jpg
+acb40ef9b7a1c36333ebaaaf2c4df714	Foresight Bulletin (#11).jpg
+d58b5b38bf6707933c539913a5e7c5a7	Foresight Bulletin (#12).jpg
+cbb9f5c4355cc9873bf3fab6b57c0a4c	Foresight Bulletin (#13).jpg
+d24620be5a71d2ab33ad70900d3bfecc	Foresight Bulletin (#14).jpg
+00adedaf965e56b24f51e263e0b02805	Foresight Bulletin (#15).jpg
+462c973d70c03e7bd0841b72f5c3f403	Foresight Bulletin (#16).jpg
+3db311538e95581a105dabb3052d0265	Foresight Bulletin (#17).jpg
+595f71bc63999ce4ffac6be7bf2858ad	Foresight Bulletin (#18).jpg
+129ac2fe656e7305e7aefb5ae81b0192	Foresight Bulletin (#19).jpg
+e1f90500e80482fe22c07f1a6658fba0	Foresight Bulletin (#20).jpg
+856db03c72e77f376a591fd084d4b31c	Foresight Bulletin (#21).jpg
+91874b23bc729f7c87a13adee4082255	Foresight Bulletin (#22).jpg
+d68b51d48c506c7d2ec35f01e70ce5f7	Foresight Bulletin (#23).jpg
+64790598b3dcb513505a6424aa944552	Foresight Bulletin (#24).jpg
+95ebdb65ade30f69d4f7aa90e0c488ab	Foresight Bulletin (#25).jpg
+d16a9f1bb3f9ef01102a6b5269da2e69	Foresight Bulletin (#26).jpg
+68438efac80f25422b93f22e1e88ef6c	Foresight Bulletin (#27).jpg
+d4dcf6c97ddb7b48a6968e9fabe35f7f	Foresight Bulletin (#28).jpg
+b839a85874db4f2816fc8f130ad4e249	Foresight Bulletin (#29).jpg
+8fe11e30ad5e454208bdead5c649abfd	Foresight Bulletin (#30).jpg
+73b2c8c0b2804f43711740fcb1b6fdc7	Foresight Bulletin (#31).jpg
+38fae63b64d4b399077a29a492ea2299	Foresight Bulletin (#32).jpg
+36af567b9a4f84e96c74285a5c66da52	Foresight Bulletin (#33).jpg
+7ebeace994a3b055e6c81b3a13baa5bd	Foresight Bulletin (#34).jpg
+4441a17a1f81320804e319067c88553b	Foresight Bulletin (#35).jpg
+0ebbd2cb5aa5aba22e8ec1120b65e169	Foresight Bulletin (#36).jpg
+91fbdd7f883ad2cd761d58601219420a	Foresight Bulletin (#37).jpg
+757e74fd858be8f381751720ac7e93c8	Foresight Bulletin (#38).jpg
+2eb653e60ba44c38231a63e3abd53bba	Foresight Bulletin (#39).jpg
+6f6564f6290300c5191b6e4bbff792a5	Foresight Bulletin (#40).jpg
+9bcc1751abb3ada02ff8ca8fb1ebc891	Foresight Bulletin (#41).jpg
+9bd9477b594f4ced3ae2f552f5f35bfb	Foresight Bulletin (enquete).jpg
+732b6d06d38c17192f4e3251dd8b65e3	Foresight Bulletin (membership list).jpg
+20a439326896d450ebd1107f6aab1c3b	Foresight Bulletin (original soft list).jpg
+a97670771da2bb1217aff03bc36b7eb6	Fortress Solomon (compilation info).txt
+84d24b58d847b340087b8e5d47e88b29	Frog the Lively (compilation info).txt
+fd5fcc19457f4f97f0cbc843de7b53c5	Fruits Fields.d88
+c65cb73c24fda57685b1d4b1f13c6fd1	Fruits Fields (readme).txt
+72506b570baaab64ea5b81c1d79d89f7	Full Fire (compilation info).txt
+757acd98f1d5f65444d993fe2e00c70a	Full Time N.d88
+341f3749110b69f262530669445a6068	Full Time N (readme).txt
+aa9c8a77824ed6df5f0c40e1f6456014	Galaga 'N (compilation info).txt
+90427361cfd7c0cd9b54013f97c3bfda	Galaxian (Dempa) (mkII) {cload gala}.t88
+21c684f000550bdbe2daccf0e77b7ec6	Galaxian (Dempa) (mkII) (readme 2).txt
+6ae24a47dde6cf91637000b34812ed1b	Galaxian (Dempa) (mkII) (readme).txt
+d7207585224584014eef2d76c5f68fe5	Galaxian (Geimu Kyoujin) [Alt 1].d88
+a6f87bcebdf8eb41963c63b29ad5b587	Galaxian (Geimu Kyoujin) (compilation info).txt
+df71b513d64bc26251d40b1e382d6f9c	Galaxian (Geimu Kyoujin).d88
+410193a4716fe54537ae0f646c23e931	Galaxian (Geimu Kyoujin) (manual).txt
+61387c1394526738f22393cd92fb8284	Galaxian (Geimu Kyoujin) (Part 1) {cload j80}.bas
+bde1b6fb8e422bb8a3582aeee5b6162d	Galaxian (Geimu Kyoujin) (Part 2) {mon L}.bin
+313b09d4a74ad14fe5f750ed0bb98ba8	Galaxian (Geimu Kyoujin) (readme 2).txt
+3876f7a7570d66c68020a44dc183f465	Galaxian (Geimu Kyoujin) (readme).txt
+c8ef3e0293f91ce73c4b8375cc61fb1c	Galaxy Bats (compilation info).txt
+8d1742309bbd59d97ce4425bdd33b3e1	Galaxy Bats.d88
+5e20d104f724f31231d5e77fc8a87ecb	Galaxy Fighter (compilation info).txt
+9dbbbaba94d30af92f2282c425476de6	Galaxy Fighter.d88
+0436beaea7d94df1b81390fd283362fa	Galaxy Search (compilation info).txt
+ecb2a68e2ec754eb7b9fdbb2b60df77e	Galaxy Wars {cload WARS}.cmt
+71f7a702a6f7c780f1d7103cf5ffa3c9	Galaxy Wars.n80
+dac23b843cf03cac2e4d5955ceb4a95d	Galaxy Wars (readme).txt
+b91bc51bad14a5e5d92dec5a004d5e1e	G-Ball {cload GBALL}.cmt
+5deb5c9b52d988c293cfc8d49ae071b1	G-Ball {cload GBALL}.t88
+bb66189a212ab2a834b20f6579a406f6	G-Ball (readme 2).txt
+940bdcde8241531aca3c592863ddbd87	G-Ball (readme).txt
+52add85eb523f4f046299b53a0939d01	Gekisen! Minami Taiheiyou (Tank Submarine) (compilation info).txt
+d6ffd53b39c78bb67149283d006405b7	Gekisen! Minami Taiheiyou (Tank Submarine).d88
+f9c51ff5ce1110e5ba5ab1e772f37409	Gekisen! Minami Taiheiyou (Tank Submarine) [Set 1].d88
+311750f9683179acb5ad2d23c472f5b6	Genma Taisen (compilation info).txt
+1b1293a50db65e77645395281b68697b	Genma Taisen.d88
+b5e5c0bc03c2f2d04c413965b1bf932f	Gerian (compilation info).txt
+6d9a58b67d008f2a0900186265a09657	Gerian Deluxe (compilation info).txt
+d3ca2ee9947019e4951cbcfff0431ffe	Gezigezi Game (compilation info).txt
+e2baaa3acc7a3f044bb5a22158fcc187	Givers (compilation info).txt
+6ac6aa4569d079de887bb3151b7689e8	Golf Game (compilation info).txt
+db0cc9af1071b2dfc9ff5739539f39cd	Golgo 13 - Moretti Ikka Zansatsu Jiken (compilation info).txt
+e0db8ca35783050f7d61ba529ea1f2a8	Golgo 13 - Moretti Ikka Zansatsu Jiken.d88
+41ff7a298673f9de8fcc199ac521e2ef	Golgo 13 - Moretti Ikka Zansatsu Jiken.n80
+19df7a8a7f3f8ef9306d82123b5658e6	Golgo 13 - Moretti Ikka Zansatsu Jiken (readme).txt
+8c4e5303eb1eb1e3a8e47371ad6fb9e2	Go! The Great Dipper Snake {cload dipper}.t88
+6755dd9eb8842094ba143b357c1d8c8e	Go To Tomorrow (compilation info).txt
+3f91857e4c98f77cfa74b187d6cbfd3f	Graphic Mahjong (compilation info).txt
+98a4bbdc23f2799bb24b0a10680cf8a6	Gun Battle (compilation info).txt
+fd9df49584210c5ae7758613529508e1	Gundam Game (compilation info).txt
+ec6d3e9cbca044008a2b164694f66ab7	Gunman (compilation info).txt
+8fd4c5a9eb88ce78fc19479094a39fc3	G-Zap 13 (compilation info).txt
+56ed4fea16d5c51419553cb4826dc5ff	Hammer Break [Alt 1].d88
+fdafb34aa0b04bc097845b7267945f11	Hammer Break (compilation info).txt
+7b78820867eb4d3a4dc56259364bf8f8	Hammer Break.d88
+cde0fa665223039140a6f3497d8dbe8a	Hammer Break [Set 1].d88
+0708f5f1352668d7a11da43a9b826709	Hanabi (compilation info).txt
+94e30286a9c62377f4aed5ea1b8396ce	Hanabi o Ageru no mo Raku ja nai {cload hanabi}.cmt
+ba324e4a92b73c252f7ab2c480cfb5f9	Hanabi o Ageru no mo Raku ja nai (readme 2).txt
+e5fc8a5aac7c790d108b04155ac9f174	Hanabi o Ageru no mo Raku ja nai (readme).txt
+9b4f106d60e8fa4240f2582cb5df7a4b	Hashire! Skyline [Alt 1].d88
+1c17c7f147905926a75738828aa8e518	Hashire! Skyline (compilation info).txt
+e5982f6025a448632b14ddca3358bc1c	Hashire! Skyline.d88
+3c18f76cb1caaab6e586842684a2164d	Head-On Part II (PCG) (compilation info).txt
+74a6c9ea24d44336563c405607aa5396	Head-On Part II (PCG) {mon L GCB00}.cmt
+47156a0b6c6f87a155cec78b4dbc5839	Head-On Part II (PCG) (readme 2).txt
+209289e9f395bb708b2c1ca2f7eaafac	Head-On Part II (PCG) (readme).txt
+94cd66efe3425b0a3a4192316d3ae04a	Heart Catch Harumi-chan (CT readme).txt
+1a9fd2558bde3f6b83039f7bb3c62c8c	Heart Catch Harumi-chan.d88
+692a7a5eeabb1a7f298c6a753b409dec	Heart Catch Harumi-chan (readme).txt
+96be12fa953eaabb97b4e2648cf80da9	Heavy Bomber {mon L GC100}.cmt
+4ca378e834d3e23c1f0b861e0e33a737	Heavy Bomber.n80
+1c8ade8ca4bcbf2738cd10fd54878ba5	Heavy Bomber (readme).txt
+195c0b16cefd96976de37e016769ba06	Heiankyo Alien (compilation info).txt
+1b456a2c62d7c96a16961be66e1e5ee0	Heiankyo Alien.d88
+edbd2375cd39a40726b6868207088de2	Heiankyo Alien (readme).txt
+26840cdb42016ca5923c4757b54f006f	Heiankyo Alien [Set 1].d88
+085dc52568a5ba67a4ddb4ad66820404	Hi-Speed Alien {mon L GC100}.cmt
+7c635d6e28066dcb91dea2b987d23c2c	Hi-Speed Alien.n80
+1c8ade8ca4bcbf2738cd10fd54878ba5	Hi-Speed Alien (readme).txt
+e6d52867697caf3bcee4d4bcdd1263da	Hokkaido Bouei Sakusen (compilation info).txt
+44d7ba631dd9934134a15dd3926f383d	Hokkaido Bouei Sakusen.d88
+0c0570b1d6a6c6c89963643bff1f2ebc	Hokkaido Bouei Sakusen (note).txt
+981d6c10e7875d2cab5503a4aae7d2ff	Hokkaido Bouei Sakusen (readme).txt
+174ca90611b44d5caff525d29b32336e	Hon Shogi.d88
+981a0cb97bbb02df902c50ad4e9efc76	Hoshikuzu no Stage (readme 2).txt
+bf396e8695bf42bbcbb180289b268069	Hoshikuzu no Stage (readme).txt
+f36fea4521453b7b0b99078c70976ac2	Hoshikuzu no Stage.t88
+8e165fbe8a2139ee6b25f25060fae7d0	Hurdle (compilation info).txt
+046df8df6cb76dfbe0e74b32ac7a8b03	Hu's Mind.d88
+ca88988841bdbb959783e9eca6334e83	Hyakunin Isshu (compilation info).txt
+a20697a2ace45547e677a0b5679decab	Ice World II (Pengo) [Alt 1].d88
+3fd18c670668e51f55081fd91da1efe7	Ice World II (Pengo) (compilation info).txt
+4e14fbbba7ddb973efa0a58acbf06812	Ice World II (Pengo).d88
+1fa7801fc425a7e071143e11cf30fea4	Ice World II (Pengo) (Part 1) {cload j80}.bas
+00dee6644a9f72c26cc4c6269aa319ab	Ice World II (Pengo) (Part 2) {mon L}.bin
+f36bb6e7c31d813402670f2cfac4070e	Ice World II (Pengo) (readme 2).txt
+05485788d8ec6169d0894669bd46f137	Ice World II (Pengo) (readme).txt
+96e7d36f9b7f13f047f1138ae802ec05	Indian Poker (compilation info).txt
+1529bea9d31fdbc5e4c3f79bf9a22192	Intelligence Chess (compilation info).txt
+8edbf75f6ccd565cf2b996c9c373204e	Interceptor (compilation info).txt
+6dbdc2dc3822af7fcec801ef7c6432f9	Intern Adventure {cload C-SOFT}.t88
+9fc1e18430069fb0a2ec74021b19d11f	Invader 2 {mon L GD000}.cmt
+529719d09b732a173c3eff87eabbefae	Invader 2 (readme 2).txt
+855d91ef425b5c48e8cd0e5707f43347	Invader 2 (readme).txt
+b3af6a88ad33965850d1c0cd0eec7239	Invaders (compilation info).txt
+105d285ab81294c48017eeefc6543315	I wa Sanjutsu Nari.d88
+de4b3ecc9e5f49a2b5c200ec402c56e9	Jack Tiger (compilation info).txt
+4c405608a8a6a1d9be91fa3360cd9955	Jaken {cload JAKEN}.cmt
+846e2b2858089cc16bdbfa53c73887b4	Jaken.n80
+39db5e9a6f96dd9da4b4733c9657cf18	Jaken (readme).txt
+e77602663cd6db9cb8f537bf0e582b13	Jankyu (compilation info).txt
+4ca337584e97ba887b27c98ec320d47d	Jankyu.d88
+b1f997ce871c2daf0e3ca274479d7701	Japan Oudan Ekiden (compilation info).txt
+7dfaba69c7cabc04f39a8b138bc00a49	Jarviss (compilation info).txt
+17d963ecf94f878b4acf803213c8a04a	Jump {cload 99}.t88
+ef28ffa953d0a9aecff19759de25826f	Jumper (compilation info).txt
+18e88b1ed632bb0b07a7f3ff7ebcfef4	Jumper N+ {cload jumper}.cmt
+e066df9ed48f34c553abd110bf9787f3	Jumper'N (compilation info).txt
+0290180bbeb3e7c662afbc00f096f546	Jumper N+ (readme).txt
+9f10080db06e762c9dd83e433f4d4a07	Kaiki-Kenchiku-Yakyuu (compilation info).txt
+c17802dda33e249784068717476ff1e6	Kawanakajima no Kassen (compilation info).txt
+0087603433b62a1a8c0e6e82dc0eb318	Kawanakajima no Kassen.d88
+288e1b00fffbf974099227a1f43dc20d	Kawanakajima no Kassen.n80
+a50feee82172c06b03d9d4cf00ce395c	Kawanakajima no Kassen (readme).txt
+e96ebc412da8e522278532df8aea91ec	Kemigawa Trek (compilation info).txt
+f4c492e70e3dfcd807119a95628414c6	Kem Kem (compilation info).txt
+1838ce7857a986445b3ab7c7b6314ac9	Kem Kem (readme).txt
+e6b47f7233218ca70080e6337783b0d4	Ken to Mahou [Alt 1].d88
+72b114af41cdfd04ffce3e9ccecc5a98	Ken to Mahou.d88
+e9774b6f37dbe82d0e12fbfd2d37dbca	Kisha Poppo Game (compilation info).txt
+6c0ed9a2b458b6c2ec0d654f08992822	Kisha Poppo Game.n80
+3ef6f86328b37d057b21ba6b5d902887	Knight Tank (compilation info).txt
+a5914b39ce8ccf1a0735535b2f1ed58c	Koikoi (compilation info).txt
+814e2d92eac46ad734d2141e6d09ce6b	Kora Kunta 84 (compilation info).txt
+4438de05809f15ae3c12d1dd881ba788	Laker (compilation info).txt
+83567634cefd53ec8a38302e30739d86	Landing (compilation info).txt
+738bd0f1677645918ec72b672396d864	Laptick (mkIISR).d88
+af495195f630120a6f901d2bdb124210	Loofah! {cload loofah}.cmt
+3790a58cbbf2a0b1086cde7dfff5a0c9	Loofah! (readme 2).txt
+6cb0245601c2171a028143e078d44899	Loofah! (readme).txt
+c55ec6610d923315d2603126d5556c84	Lunar City SOS (compilation info).txt
+1110377d5991fdbc39246fc5003ac76b	Lunar City SOS.n80
+aefc47fc82446192505b56881c308498	Mad Circuit (compilation info).txt
+5a7951e72ef7922312a18f9ddcb5cc21	Mad Happy (compilation info).txt
+776a2425f486bb536e947067108eb9cb	Madouess (compilation info).txt
+8521286de715d66b4588d8ebb391548a	Magic War (compilation info).txt
+edc44e71a275046b2535f294025e8331	Mahjong (compilation info).txt
+83e04648614d247516dba8bbf6dc5bc4	Manbiki Game.d88
+61c6be51a8b8fac7ff6087c7389a0406	Mappy (mkIISR).d88
+d590ce4c81a49608e4ab24c959d19687	Marine Belt {cload BELT mon L}.cmt
+b1d5058cb79d2a23eb87b684de81d6d7	Marine Belt {cload BELT mon L}.t88
+158d2232168b58aeb252f9bffc3d025f	Marine Belt (compilation info).txt
+6402ac8e28016c3d22af206f7538075d	Marine Belt (readme).txt
+a385465388b2091202512e4dd839fddc	Mevious {cload MEVIOU}.t88
+bcc34621007599ebbc024c394a2cfccc	Mevious (compilation info).txt
+141eca2e1143ca5d24b2b2ad1693959c	Minami Aoyama Adventure (compilation info).txt
+d9f581bbfc985a37470d878d107d8d4b	Minami Aoyama Adventure {G9000}.n80
+519c125076a80751a49f78a57f046a50	Minami Aoyama Adventure (readme 2).txt
+94d2192ddcd94cb5e4a8762b11aabe6a	Minami Aoyama Adventure (readme).txt
+92725af70d7ba97821652ea76db1c5d7	Miru dake Pachinko {mon L GCF00}.cmt
+c3e842f86bc13708a9a212e9b4ca88e8	Miru dake Pachinko (readme 2).txt
+e16bfc1deb76b69963c8d2238f0ac3f4	Miru dake Pachinko (readme).txt
+c4ec6b2690f0e57f57e7ce0179b0c760	[Miscellaneous] (D88 format note).txt
+34ff183c6d44a1b6ac5c2db86258bd76	[Miscellaneous] (j80 Demo-Sample Library readme).txt
+24c90ef97f2493d46e33acb79e534fbb	[Miscellaneous] (N80 format note).txt
+c5ae1302c8d8ea828ac2d5300ba526e9	[Miscellaneous] (Neo Kobe guide to the PC-8001).txt
+6a8ed7af7f9a6a24b37280d3a7c85bbc	[Miscellaneous] (New PC DOS note).txt
+e8075fc76720979dd49e7a1b1bfe54ea	[Miscellaneous] (PC-6001 PC-8001 papercraft models).pdf
+5a931cfe4b59e2508532a5b0721e1695	[Miscellaneous] (PC-8001A catalog).pdf
+eec02550b3ca3a69639920ffd98d10f6	[Miscellaneous] (PC-8001 ad).jpg
+79438408fff57e6957c27ea8e4259334	[Miscellaneous] (PC-8001 catalog 1).jpg
+fce63ac391f325b1daa4bc750f7bc777	[Miscellaneous] (PC-8001 catalog 2).jpg
+17d98a67bdd780ce5f141b8a032c4ae3	[Miscellaneous] (PC-8001 Load Test).pdf
+c8aa6131a97f9c15b293ff6b76083920	[Miscellaneous] (PC-8001mkII catalog).jpg
+f1e9e0779cc813330eaf3b4bfcd77797	[Miscellaneous] (PC-8001mkII flyer).pdf
+957a5f3d442aef19170f223768084f7b	[Miscellaneous] (PC-8001mkIISR catalog).jpg
+d7bd117fac4e67ef5121f09653817dff	[Miscellaneous] (PC-8001 review).jpg
+02fc6d417eb0dd75f76622907e6bf57e	[Miscellaneous] (PC-8001 Technical Manual).pdf
+09bbee923aeaf2ca925bdc2489e44a83	[Miscellaneous] (T88 format note).txt
+f6e29a646e8837b62843a9ed8384c4dd	[Miscellaneous] (Yoshikazu Ishizu game info 2).txt
+a0869f977b22a91cdf09020aa3235888	[Miscellaneous] (Yoshikazu Ishizu game info).txt
+399cb89f95253cfad833538be39b73be	Missile Commander (compilation info).txt
+6cc4c9216b9bd5a3594d920d2ce940b1	Missile Commander.d88
+4f2ddedb04af1995e20f96ad94918b95	Missile Commander.n80
+97547be16b3dc435495ec49d3f753587	Missile Commander (Part 1) [b].bas
+fa7ab0a3e7a0dbf0df5dc5af5b3b1fc3	Missile Commander (Part 2) [b].bin
+7208f96eaab248edd9df7edca59c0464	Missile Commander (readme).txt
+202e2926c78d1bc0e3d7b4b31b27c641	Missile Commander [Set 1].d88
+1967d085af046e115c5c2dce25f8d2ce	Missile Commander [Set 2].d88
+0019803156f2003db294372803b3b74c	Missile Commander.txt
+1adb0a8e37e3b8c5889535776af45cd5	Missile Phantom (compilation info).txt
+21eaaae8e3a45fea042ec79c6cfa5b9a	Mitori Anzan no Renshuu (compilation info).txt
+a860d83d0d27d039bc6cd2ada4d3d8cc	Mogura Attack Game (compilation info).txt
+0b1ced6a3b7334d117482447aff4a12b	Mogura (compilation info).txt
+7bd6c677a72dd6374b525cb1c98e172b	Monster and Ball (compilation info).txt
+6a4e27d440daa2c3ba4a7e8a243a4cb4	Monster and Ball.d88
+aea92fea36e7f810bfc5d0479d711311	Monster House (mkII) {mon L cload NO1}.t88
+3f109e437aef17ff492c09dc444d0178	Monster House (mkII) (readme).txt
+7fbe5313e55b8f88940a3c4935550383	Monster Panic (compilation info).txt
+6d3db686e67fe7064856f2af5b7e27b5	Moo Game (compilation info).txt
+10e1f1c4688a06959a8ef3c2e1d2b934	Moon Alien (bas+bin readme).txt
+c3bdcf63feb69dcfc0b9a9bf135f6127	Moon Alien.n80
+cd8ceba5ae149a2e5ce0ec3765455e0d	Moon Alien (Part 1 - BAS).bas
+5b917fb7ce082c7661f57e6ae8b9d019	Moon Alien (Part 2 - BIN).bin
+36a651b0d1d72deb5dcb7954e7afa1da	Moon Alien (readme 2).txt
+74fe9b017588466bf5ae2de287e9b37d	Moon Alien (readme).txt
+7de93619be4e1aff86ec4a7759dc2600	Moon Beam.d88
+b9242c03cfd68377850905f72b642206	Moon War (compilation info).txt
+91150016c85a8031dd6bb2b4c275196c	Morita Othello (v2.7) [Alt 1].d88
+d988533cbdb0551ac38345d3dd6d867f	Morita Othello (v2.7).d88
+e3c16eed4de010d0edbcbfa27774a8f8	Morita Othello (v2.7) (Part 1 - BAS) {cload j80}.bas
+acd5935b20be22f1bc16e9f40235213a	Morita Othello (v2.7) (Part 2 - BIN) {mon L}.bin
+cfbc9bd19d5b74b00404a1816603bbf2	Morita Othello (v2.7) (readme 2).txt
+d8b55e8b06ec7e5b8f4c7bff9400d3c1	Morita Othello (v2.7) (readme).txt
+5c86dfdd47a794f4f483e62d0d6aee9d	Morita Othello (v2.7) [Set 1].d88
+2462d7f2768d937249159e91e628cce8	Morita Othello (v3.7) (compilation info).txt
+3b8c4bb499cb0ac80f658f2e9ee9241c	MS (compilation info).txt
+f374db2869f7f44356ede51e94b4c5b6	N80_101.rom
+f1f6109541a89b626d4faf3f92ce5d75	N80_102.rom
+36a73378118eb9a610d50a8b5098c404	N80_11.rom
+f0f4a4c18bc76134e1fa85ddb91d04ed	N80_2.rom
+aced63c7fece13a1b075ea2cde93929b	N80_3.rom
+85bc0ba15afe8383ca1aaf885447379c	Nagi Ishi Teki Kabe Tama Kuuhaku {cload nagi}.cmt
+42b362857bb33a4c7905c3add7eaf701	Nagi Ishi Teki Kabe Tama Kuuhaku (readme 2).txt
+6c88fff0dff95f79b1143bdad66d0842	Nagi Ishi Teki Kabe Tama Kuuhaku (readme).txt
+29a99349b4f14e0dd9fa2c710ea8d8d2	Nantai Simulator (compilation info).txt
+c452f690913c34415770dd45b0266d0e	N-Ball (compilation info).txt
+bc7f151d25187fa5564b899d2a7751a8	Nceptor (compilation info).txt
+1d565c5a0503bf4cf9cf57c7292ba770	N'Dohchuki (compilation info).txt
+4493f4aabd3e3a76acce6f654c592080	Nenmatsu Chousei (compilation info).txt
+77152ccb988eb04ebd1783e57fd40357	Nevious {cload NEVI mon L}.cmt
+f25c444c4af65a977a15ee22d32af59a	Nevious {cload NEVI mon L}.t88
+9e977c6c8dfa78268d65148f873dfa48	Nevious (keymap for j80).txt
+4365a0d3064cd24832f06c8a9bb55c29	Nevious (readme 2).txt
+fe8b41dfa8a5fe78712693b55c1189dd	Nevious (readme).txt
+a06534992d4ffccd89392b2bfb835c8e	New Rally-X (bin readme 2).txt
+c97d90cb6e83c2f9d4320f88225e1acb	New Rally-X (bin readme).txt
+a7d234ce292ff6bca783e17d0d760711	New Rally-X (compilation info).txt
+cf6dc67d32868c0dca89c2bcd94d912d	New Rally-X.d88
+10218ab9f2a3f15c91f103d70cdab49f	New Rally-X {mon L GE400}.bin
+0aadc972abbdcc07a3589140e735b12e	New Rally-X {mon L GE400}.cmt
+cba183d95ed9e9edc83ded3ce4e356f0	New Rally-X.n80
+8f8a6287e609cc8ae159b573d4a18fe8	New Rally-X (readme 2).txt
+29da12cb0551f5b7f8552fe92e6473de	New Rally-X (readme 3).txt
+28db066c0acb9310ece4305e6ecb680c	New Rally-X (readme).txt
+030b35c79216a0d06b682b719edce0a0	Ninja Yashiki (compilation info).txt
+f2b9da5b4eda4f00b8f0aa0848a65748	Ninja Yashiki.d88
+a77944a4ff917faab5ded5a1978a10e4	Nintendo no Golf (mkIISR) (compilation info).txt
+2f0341fa42ed3ab98a789de2f52315c1	Nippon Rettou Kaishime Game.d88
+fca88a63c20c7ea1721614e82504d636	Nobunaga no Yabou (compilation info).txt
+e90063dc7224601b75cecb479362952b	Nobunaga no Yabou.d88
+e4297e5e3e741e6563186fadf5c39c34	Nonchalance {cload MONCHA}.cmt
+ccbb92c47db7bddf1b9dd9b33d7bf29c	Nonchalance.n80
+da40ccf3c95875edf5969efae8771c6a	Nonchalance (readme).txt
+b4866d9b9422ea50a53cc5008c0043ec	Normandy Jouriku Sakusen (compilation info).txt
+81a7476a648bc0eb95afda81f7dc4955	Normandy Jouriku Sakusen.d88
+4ab641372362d68f2d4bd89e7d1ca657	Normandy Jouriku Sakusen.n80
+193e3668ab458421ea0c21721e3bbfee	Normandy Jouriku Sakusen [Set 1].d88
+202790b1b6fe18c9602da174184cdefd	N-Quest (readme).txt
+36611cc89eb530461c39a3d6ee509396	N-Quest.t88
+6d510b2c309f397323d54263cd9b4f99	N-Type (compilation info).txt
+9c30cfde2979337d1e60c641229bbfc7	N-Type (source pg. 1).jpg
+d04bbb1b7591b025d0ce64b5e3c6ce66	N-Type (source pg. 2).jpg
+d45a5561f1faf415d81eb59ad16b3945	N-Type (source pg. 3).jpg
+c24ccb328df1be9a962aadfec68df925	Nuts & Milk (mkIISR) (compilation info).txt
+7fc239a6fe349f5768229473d796b261	Oka-Makara (compilation info).txt
+a772b1a00bcc6dafff2b175f59ec9a54	Omotesando Adventure.d88
+f362f026cf03bf31b342bb7f66c54507	Omotesando Adventure (map 1).jpg
+53a1c1cf5f664991dfc7e8b8efa87d43	Omotesando Adventure (map 2).jpg
+7214c3f22c62bbcd72943c314a8de4e4	Omotesando Adventure (map 3).jpg
+250d3e71978040d64b6cd06dcb05b71f	Omotesando Adventure (map 4).jpg
+e8eb938ff5c7980c3ef3a116277ef8be	Omotesando Adventure {mon L G9000}.bin
+8971023eded00d42612164d0d702799c	Omotesando Adventure.n80
+4ab968a21f9f50f1724b615e3adbab0e	Omotesando Adventure (readme 2).txt
+f62ebbd435fb6945d5fd2530d2ae87f6	Omotesando Adventure (readme).txt
+15b7073dab1e8ab1e165ff2291130b7c	Onion (compilation info).txt
+15ec9e997cc31552bc3bc12c74b3df0f	Onion (readme).txt
+637f942ece30c44ab87531c62834a3bb	[OS] Blank disk (BASIC formatted).d88
+a7875f400aff132f3c5a14b74abb1b07	[OS] Blank disk (readme).txt
+244e079080f1d07baa384001b2ae7caf	[OS] Blank disk (unformatted).d88
+df3e68cc0fb0a090d3e25fe839bfe4a0	[OS] CP-M for the PC-8001 (v2.2B).d88
+86bf362cf28e0a3cf12ed7e63ea555c5	[OS] CP-M for the PC-8001 (v2.2).d88
+f2076b498a6bb73314db39a9ee9f3c02	[OS] CP-M for the PC-8001 (v2.2) [Set 1].d88
+ffffdb0f317c405185d54c4c0663af28	[OS] CP-M Simulator {cload CPM}.cmt
+cbce31031928502ae0b8db486c852ddc	[OS] CP-M Simulator.n80
+25f0f5f8c9a16ad38ea242a221d7f1d9	[OS] CP-M Simulator (readme).txt
+2712ae929ece8f8435ffcd4f279e483e	[OS] Forth-Sigma {mon L G88B0}.bin
+a9c91d6126de570a9d53c24a1d0ad282	[OS] Forth-Sigma (readme 2).txt
+393c7968d1b45be411ed56f9c51463e6	[OS] Forth-Sigma (readme).txt
+d23adca07efcc1d36ad9e99759a559d2	[OS] Game-PC (mkII).d88
+bd53bd5ee6c76092a722adf7c7a0e851	[OS] Game-PC (mkII) {mon L mon GE000}.bin
+05dedca4e94d0d5b9d0072091f851997	[OS] Game-PC (readme 2).txt
+9d913eb6d93034c0073116254f2a50ec	[OS] Game-PC (readme).txt
+f29848b2d2849fe891ea739b5e397494	[OS] N80 BASIC system disk (PC-8001mkII) [Alt 1].d88
+4e88b248295668e0bac957d5b6810be1	[OS] N80 BASIC system disk (PC-8001mkII) (Alt 1 readme).txt
+3a41ee87f4ef46e7c9e849410299fb4e	[OS] N80 BASIC system disk (PC-8001mkII).d88
+ff4d350a466cc97df73e18fe0ec0b1f9	[OS] N80SR BASIC system disk (PC-8037SR) (PC-8001mkIISR).d88
+d42eea7d2d2cb57e3b424d5fe23bc3c2	[OS] N80SR BASIC system disk (PC-8037SR) (PC-8001mkIISR).txt
+02718b2c7c26652f62c8487e1d30050e	[OS] N BASIC system disk (PC-8034-2W) (PC-8001) [Alt 1].d88
+e2d27466991a304aba29a199ce9c2fef	[OS] N BASIC system disk (PC-8034-2W) (PC-8001) [Alt 2].d88
+f720816c30ff9d4836e37aa138a97e81	[OS] N BASIC system disk (PC-8034-2W) (PC-8001).d88
+24d29a1768aab42c02552f3eb460433a	[OS] N BASIC system disk (PC-8034-2W) (PC-8001) (readme).txt
+a58803f990de990a51905cada7db709c	[OS] PC-8001 Micro Disk Basic 2W.d88
+1590d8cd792459cce4883e4303a14af7	[OS] PC-8001 Micro Disk Basic 2W (readme).txt
+3d5cd7200bd1a36baa7081c3481f4ce2	[OS] S-DOS (System disk).d88
+47e2b844c18f9f9dd8056d5bca591a6c	[OS] S-DOS.txt
+cbde2a826a152fa7a5dbbd191a7851df	[OS] S-DOS (User disk).d88
+a200bfdbb1c98246321a4e9aa9b173b7	[OS] TL-1 PC {mon L GB800}.bin
+4f37be4493bdf68c6d695b4e44a8f00a	[OS] TL-1 PC (readme).txt
+49bd4424f9e3b0d53c61fabc11686f9e	Othello (ASCII) (compilation info).txt
+10d82b8e6d08eadf208b2bfc16511f0a	Othello (Bugfire).d88
+164016bdcf23d0e5f1f0c71dfc70eec6	Othello (Bugfire) (source).txt
+66e96e95896c59a9e359761f789db041	Othello (Bugfire) (Touch Panel) {cload othetp}.cmt
+06abdb3fcb576707d9bc0afae0eddda4	Othello (Bugfire) (Touch Panel).d88
+b834444f7e545b6430ea532f51dd514b	Othello (Bugfire) (Touch Panel) (j80 touch panel file).pnl
+a7741a923ce720170332568cbd1b94a7	Othello (Bugfire) (Touch Panel) (readme).txt
+6c9c116dd1bc471a58aa12484e234680	Othello (Bugfire) (Touch Panel) (source).txt
+e3148229e030817c0b263dd6149bdacd	Out of Algorithm {cload ALGOR}.cmt
+cb37f9dcf1feb0f89a0be75a893e48fd	Out of Algorithm {cload ALGOR}.t88
+2a769f25688ae732f1a4b53c806d3b32	Out of Algorithm (compilation info).txt
+2356412812e77f3a29a3b4ae1f49f9a3	Out of Algorithm (readme 2).txt
+ef8fccf120ce3f8cd41e57311795a741	Out of Algorithm (readme).txt
+132532fa0780af4a0fbf18645a41f4d9	Pachinko.d88
+96ee8476f12cc3d9f0c5a99070d4aca3	Pack Man Modoki.d88
+38fe462aa53b12ec0b84a9e08ef14e9f	Pack'n Boy (compilation info).txt
+3278acf8648c2dd728c4b3e88098191a	Pac Land (mkIISR) (readme 2).txt
+57a9588cccae2a70ce9f03e90cf0740b	Pac Land (mkIISR) (readme).txt
+a8939aeebfb7c58df73982ee4bcdf8f0	Pac Land (mkIISR) (Tape 1 Side A) {cload pac}.t88
+2c225be70d8f424cd83f47b0a0cdfd34	Pac Land (mkIISR) (Tape 1 Side B).t88
+502b3721e8a775102e4bd238991143c2	Pac Land (mkIISR) (Tape 2 Side C).t88
+1d532558ca4cee00b537f3b56553c49a	Pac Land (mkIISR) (Tape 2 Side D).t88
+2d9dcfbba1ccd890409a6b34aaf1b509	Pac-Man 3 (compilation info).txt
+c52c0adcb10004871e2ae6ca75cf006e	Pac-Man (compilation info).txt
+8ec0eea93115717e3b38b46ba92849c3	Pac-World [Alt 1].d88
+498266a210f3c0c78532d51292eb5402	Pac-World {cload PWORLD}.t88
+bd283fa604637072ff933d9f065bf21f	Pac-World (CT readme).txt
+06f9c0b8ec33c05e3f9257978a1a41d6	Pac-World.d88
+c48080e35ba91fee5a654c0022ed18cc	Pac-World (readme).txt
+085a583d2fa86a2084ce445b687e064f	Pac-World (source).txt
+657f97cf2b4c272a9267696b6bb9299f	Panic World (compilation info).txt
+0f111dcebfeaa271194542daae3ece75	Parachute (compilation info).txt
+14bf11e0ba153dd2cf74036fecfc8855	Parachute {mon L GAAFD}.t88
+952fa6024e3161da5163717001adfe32	Parachute (readme).txt
+edef1ffb374e9122f1adaf5374f62519	Pascal.d88
+f6c6c0cccfbbf70d7b3a01e67fd42885	Pascal (readme 2).txt
+1a9a679a47eb4040088e77e16a3b05bd	Pascal (readme 3).txt
+31eeebb29d9e5c6bf2ae77870502e140	Pascal (readme).txt
+c098918dbf10214b1542bfe9d25d4a01	PCG Dig Dug.d88
+67a269621cdff7789ef80dccd43ec88b	PCG Dig Dug {mon L G9000}.cmt
+e6ff632ec000e0aff8edf09dea080032	PCG Dig Dug (readme 2).txt
+a93b1d64d28f80e3cfeaf19263dd542f	PCG Dig Dug (readme).txt
+dc5eb9e66b4b88549853ec0befcad397	PCG Digital Invader {cload DINV mon L}.cmt
+6f9d9019627476d00b29eb7f9c44992b	PCG Digital Invader (readme 2).txt
+78a9077c9861cc4fc80108cf36c67807	PCG Digital Invader (readme).txt
+b82ceef9b2ceaf330dff8297af179a70	PCG-jan {cload PCGJAN mon L}.cmt
+b6576bc02ffba2a04ab4b3fcc3f73f57	PCG-jan (readme).txt
+a014671f49e58bd8e6abc2a0b5e3a1da	PCG The Dusty World.d88
+e5d513f1bd0a85ef2dadf7c8f33130c3	PCG The Dusty World {mon L G9000}.cmt
+33a1aca692b9677f58ef4b8031820cbf	PCG The Dusty World (readme 2).txt
+1dba80a687ae432335d35410b4d8267d	PCG The Dusty World (readme).txt
+cd4367f2c288048eb0007f80ba47e5c8	PC-jan {cload MAJAN mon L}.cmt
+177ab4e474a2fd048c8a86006072048c	PC-jan (j80 touch panel file).pnl
+9bad12e56e3e5578cce628d754331dbc	PC-jan (mkII) {cload IPL}.t88
+7bd928b07b574fa054aeaf58ab825481	PC-jan (mkII) (readme).txt
+3eaecaa2001285f33386ed3e02e8dda1	PC-jan (readme).txt
+a45ac1da8b5464cd83c0be895e9b98d0	PC-jong! (compilation info).txt
+ee995025a951ccb4471d1a419c3e692b	PC Shogi (compilation info).txt
+33189ac08f5b452a563e550c1247b927	Phantom (compilation info).txt
+7cd6b9620652cd6c26f5e83c50f9dad4	Phantoms IV (compilation info).txt
+e197a9cea8447dd96074f751ff0022fa	Ping Pong (compilation info).txt
+1ea8747b3678ac1ea93cdb69ea145a6a	Pio Pio (PCG) (compilation info).txt
+d49b99360b3939714b27f1f3dbde010d	Pio Pio (PCG).n80
+62d55c114a7c4d18016a14ef2d373448	Pio Pio (PCG) (readme 2).txt
+612cd34d916be3b42bf6db87051c2c12	Pio Pio (PCG) (readme).txt
+075734eb714ce2145cebe65fab96ac64	Piton Tan (compilation info).txt
+8af3d12e2518b1dce852d16029d0dfe1	Piyo Piyo (compilation info).txt
+e08ba52e773905669dfc51d8efaf0609	Piyo Piyo (readme).txt
+569ea6ccca48e689f2c0eb25426c376c	Planet Taizer (PCG).d88
+52679fb385d02bcb1c2daa4b95d41361	Planet Taizer (PCG) (readme).txt
+3f3cdd87f16b0395506d2250fe81afaa	Popping Panic.d88
+6d9de5f80348c4600e337c00cdc45be6	Popping Panic (readme).txt
+8ebd49fb81901fcdb544224354c512e2	Potth (compilation info).txt
+00303ec097886af745353cc5de593369	Princess Rescue (compilation info).txt
+100e1afe688468e1dd81f654cc18f88d	Program X (compilation info).txt
+b48ed11219a1e1a76810134ead555a11	Pro Wrestler B (compilation info).txt
+6d4bd990e743fbb99d8dfa6b96891ff2	Puckman 3 (compilation info).txt
+68387cffa43a2a41382826063eb6834c	Puck Man [Alt 1].d88
+4b84ca8ecfe0875487c49a1d1da2f54f	Puck Man (compilation info).txt
+d0fd0181d8639d9cd0080c9b4ee6cc9e	Puck Man.d88
+499ceca064f0dd4dcb9b27bbc07dc2ae	Puck Man (Part 1) {cload j80}.bas
+52fd2028b0b4698c048f2851bfd293e7	Puck Man (Part 2) {mon L}.bin
+bd86dcd62d42587841d3e2a5d91080a2	Puck Man (readme 2).txt
+d8b55e8b06ec7e5b8f4c7bff9400d3c1	Puck Man (readme).txt
+96502cd20ceec71caf493795ce658096	Punch!! Punch!! (compilation info).txt
+83c6efc132f332024bc97f50fa13003a	Puzzle Adventure {mon L}.t88
+7d4d2c366f1ef92ac8b5de910b5312b9	Puzzle Adventure (readme).txt
+a39d6efe4e918dfb7c2e155654ab4c18	Pyramid & Miira (compilation info).txt
+13dba9640ee4c751d6fc96d4e17b1c94	Qix 2 (compilation info).txt
+8bf78a83dd29850f5b49c989c345f531	Qix 2.n80
+62dd3fbbb6fcdca2158034e04b1bcab7	Qix 2 (readme).txt
+6471ea2528fe7424b79b0c9d65fc9cf2	Rader Scope (compilation info).txt
+d0a0d9422e28be4cec30f0ed607134b8	Real Time Animation 1 (compilation info).txt
+ad8d3e78dcdd955fc40d979347c5ffe6	Real Time Animation 2 (compilation info).txt
+524b76a958807032ddb56ce520cd2ee1	Red Point Shooting (compilation info).txt
+e2f714c04dfa1ab40417f07f74fe3c56	Rem & Lum (compilation info).txt
+3481adabd0e821419fac8372c88b9514	Rem & Lum.d88
+d1661f4e2b90f84daecd619bc8569e34	Rem & Lum (readme).txt
+06e6c3f94be8e383d6ca1e73bbd1fa03	Riff Roff (compilation info).txt
+93e770a2e128a50dabec942e4f82776e	River Patrol {cload river}.t88
+1d12c553807daee2dee11d7f7ed05ce5	River Rescue (compilation info).txt
+f0fdbbcd25de825814e2da115be9781a	River Rescue.d88
+dd7e0840c3e35957d85da33844c33aef	River Rescue {mon L GAE2C}.cmt
+6d6443ac5fe8d7311a33002868a2b83b	River Rescue.n80
+75cac2aa34ad9c2ae057cba15d5079cf	River Rescue (readme 2).txt
+80590b27164b2fde36363c284960ad26	River Rescue (readme).txt
+03f4676ec779d93c637997285e4f9f27	Rocket Bomb {cload BOMB mon L}.cmt
+7804e3388dde8bb027580003113c073b	Rocket Bomb {cload BOMB mon L}.t88
+8cb958a67ef4c6964d99a0b5186e6db6	Rocket Bomb (readme).txt
+4f5f6a327d19e1a6b8d4e2f5da11fb50	Roulette Game (compilation info).txt
+6f60c25f5f51e5a56043243c407c0325	RPG Crystal Knight {cload CRYSTL}.cmt
+b3fbfd82b82303c0db1e92e6807f75e0	RPG Crystal Knight.n80
+b9d015d9fa8d923fd4d95c0928f82076	RPG Crystal Knight (readme).txt
+ad84364b5ff8c165d6c247079c26a6d4	Sanseiu (compilation info).txt
+7ed79579cf069b9a9cd591564e2bdf97	Scramble (bin readme 2).txt
+6b656bb1a0588b964a1380c1afa7972c	Scramble (bin readme).txt
+6fba9bc3f03c2f7a0422c856591f74a5	Scramble (compilation info).txt
+c702069fdf9012eb6868af8ce5ef67a5	Scramble.d88
+5f1a9d5738bae8e57f09473747fa6f6a	Scramble {mon L GD55B}.bin
+81c9b06b2d127034e0680a27985a3997	Scramble.n80
+0cd6061686c61afd583d9fe6bae947af	Scramble (readme 2).txt
+a56c914ad75520be57df23de81b40925	Scramble (readme).txt
+fc86d5d005d252c87092acb5db59be33	Scramble [Set 1].d88
+cd2394f3ace060cc32549a5e9171d4ee	Seiken Densetsu (compilation info).txt
+2980bf4b927f0cccbf95c72c7fbfbbd4	Seiken Densetsu.d88
+18613f3c7f5e431415fc1646d88c2c8e	Select 5.d88
+5ca67ebfaf818df713cc99c9dd575e5f	Shadow {cload SHADOW}.cmt
+edb00cd0830487b3620e5e3b1c28d399	Shadow.n80
+69c0f432b3ebdda17f5bee4c4d9e2344	Shadow (readme).txt
+ddf33fa301c7466a170b2447dad8aed1	Shibakari Game {cload SHIBA}.cmt
+609a42624dadf654a75d24c666897fee	Shibakari Game.n80
+d65aab1d1a54a01eed6048ab3716d432	Shibakari Game (readme).txt
+f67084cb8d8d2ff8eaec2881c058f409	Shibird 2 (compilation info).txt
+256cfdbb6d14d06ed50d5f2cd891b476	Shibird-new (compilation info).txt
+d376c0e5252655c6f0cbc9e7a925c34b	Shi Huangdi (Shikoutei) (mkIISR).d88
+d61f5116e9a8dfab987f2589a28a5865	Shinkei Suijaku (compilation info).txt
+8a544e7ac7a4f91ed7b8d35b53bdd2a3	Shogi Trainer (compilation info).txt
+bb2fd102cb33de136026497006cd3ea7	Shogi Trainer.d88
+72c3e411feec1e4a7096086fc7dd9271	Sky Shooting (compilation info).txt
+294a46b64508c17f1f6351b1bc873c26	Slot Machine (compilation info).txt
+f21a8daf9f893891f9c8df647fb96942	Snake {cload SNAKE mon L}.t88
+b6c79bfeb957dbe06ab5f46141b9cd42	Snake (cmt readme).txt
+98323b53fbab5a530a88e2355a267941	Snake.d88
+a89deebbbf0f01c7be7c0ef6a5dad2df	Snake (Part 1 - BAS) {cload SNAKE}.cmt
+cc3d0c736cb71e5497d10ae7c88338d7	Snake (Part 2 - BIN) {mon L}.cmt
+bad5775407c61a597012edd0598eab57	Snake (t88 readme).txt
+3cbf3ae535c8f7a64f312cbeb9898541	Snake World (compilation info).txt
+d738160e9b96fc521758b7c48926db8b	Space Ameoba (compilation info).txt
+7cd6b2663213a3ae05100cdcba03c8c8	Space Ameoba.d88
+bc5e339225834bbb9a13d9deb003fda8	Space Base.d88
+070789deb4d0348b8d926e9f584a7ad2	Space Flaper (compilation info).txt
+5b08d912fd44763f0e19799d1179b771	Space Flaper.d88
+534324548f2eb63141814c21e209c5fd	Space Follow.d88
+8a9a67b6c331b46196d20c98d70113cb	Space Invader (compilation info).txt
+304602d57390280b2c9966b13759693a	Space Mouse (compilation info).txt
+45250a810931965ad228f89bc552679b	Space Mouse.n80
+86efd229948cae1d2b84649eb512ad0d	Space Mouse (PCG) {cload SMOUSE mon L}.cmt
+7c622d371f8c77a00069840ae7dcba82	Space Mouse (PCG readme).txt
+ec4c4001648ca43c233245dfd720fe1f	Space Mouse (readme).txt
+73c33cfb983b18a5dac0b1f6f648a833	Space 'N' Harrier 2 (compilation info).txt
+6e5dfa47da0d4899afce0f363af3097d	Space 'N' Harrier (compilation info).txt
+b20c3d878306e3c8b150b45a0d4fb5e2	Space Pattern.d88
+f84601313b8e6963efc6d4fab0abeb7a	Space Pulsar.d88
+30dd2716d4c8aa8edaa787ee93e2f528	Space Road (compilation info).txt
+ea0cb471aab1a702a86c33243e486d88	Spaceship (compilation info).txt
+9180a7ff6fcfac3dfddbf42014881362	Spaceship {mon L GAE09}.t88
+65d36eb36e9fb29e961832745a1bf6f3	Spaceship (readme).txt
+e90e36d4c4ac7354f1c1e3e6a4a7f0e4	Space Travel.d88
+0bd1b680a32fda4497d301d14fb33dd2	Space Trip 2 Melyos (compilation info).txt
+1e1d7431bff1d88e741ae171d07bdd77	Space Trip 2 Melyos.d88
+8ee08ca772ba10ea1a61ab83addf7af9	Special Jarviss (compilation info).txt
+c2b08eed363421cf0567187304a26dec	Specter (compilation info).txt
+1d10de3fc25844c2f3cec528a5155f1b	Specter II (compilation info).txt
+d672f17704267b0be35d1c842ba27f9c	Speed C. Ray (compilation info).txt
+9c923183437ac194dd33b0db3465e245	SP Olympic (compilation info).txt
+9ee97d776c6a094d3546dd4f5e4ac96d	Sport Tennis (compilation info).txt
+c8bf4302fe40210faa0af2de859aba40	Spy Daisakusen (compilation info).txt
+6ea23c985054f699f665a7eb5938cbfe	Spy Daisakusen.d88
+ba854f0222dedad9423d8e86f7ed8694	Spy Daisakusen.n80
+7f80b12f7535cf1dbdc9c36b0af0fa5c	Stardust Night (compilation info).txt
+e5d8b2050f54d38d2cc439eb691ee8ca	Star Fire (compilation info).txt
+8d611bd8a1666f790918dbad95e6a873	Star Fire.d88
+2f5c0494e815b0cbb122cc9d43dbef53	Star Fire.n80
+dd3f384ceb856e62cc2413825dbc5b3d	Star Fleet-B (mkII) {cload FLEET}.t88
+aeafdbf104ee43a4eebff4788796c928	Star Fleet-B (mkII) (readme 2).txt
+4e893e6ceacfe523172988e528d5d014	Star Fleet-B (mkII) (readme).txt
+158cd7362251c12c527a639a2c77f9e5	Star Quest {cload STAR}.t88
+cd822c1091f4f4b06e6d5a77a88dde51	Star Quest (readme).txt
+ee82225ea7e3e6a9ba8b728b084c77fe	Star Trek (compilation info).txt
+9dfccc6a7189dd5dd095697ab4e753e8	Star Trek Fire!! (compilation info).txt
+be2278c70d1cdc95a3c0e165feb732c2	Star Trek Fire!! {mon L GE200}.cmt
+e9b0da9493166d1f452d14d80918b2c8	Star Trek Fire!! (readme 2).txt
+822bfe25f7d8a3d2dbb6d4a40b0ce7bc	Star Trek Fire!! (readme).txt
+bbbe68c70175b989b50a485eb1a4eff0	Star Wars (Space) {cload SPACE}.cmt
+d9b0e79cbd7aa56de221b8ae3b5ce04e	Star Wars (Space).n80
+7629e418e8ce28938ed900a21029b1d4	Star Wars (Space) (readme).doc
+ad10eb229d62490f5f55f1db33c87af7	Star Wars (Space) (readme).txt
+2c043c915d21e7da182cbd449e13f01b	Stop! Harumi-chan.d88
+3e6bf5869613f0fb26f39db211aac29c	Stop! Harumi-chan (readme).txt
+91acb872e6fe6b074cee8cd33644bb46	Submarine 2.d88
+de033fe6918e916a7a1e57dc481b1b73	Submarine 3.d88
+aa34fe04a264e5cc34d97d225047a04a	Submarine (compilation info).txt
+0e722c3f416f2afbafba03485df5890d	Submarine {mon L GBA92}.cmt
+9c891ad4913a379d755218201993503e	Submarine {mon L GBA92}.t88
+a5e33296230f7f633d8c20532f68b00c	Submarine (readme 2).txt
+e6ca72dc3de848a80455ef6f7b9180c2	Submarine (readme).txt
+efbe3405becf5ae5e58097cb0646dccf	Super Appaa (compilation info).txt
+e094aef3d458920473b1247285891e4f	Super Balloon (compilation info).txt
+922a6e7a3c7681f94b8e8ca20170bd25	Super Balloon.d88
+0120d565beb35479fa971bdb6a09567c	Super Balloon {mon L GD000}.cmt
+420a888c0aec32695c74069aa51d9819	Super Balloon (readme 2).txt
+e87f050c43f01aea61012de0d6ee01b8	Super Balloon (readme).txt
+d4d9804c4e89a9be7c889d417593457f	Super Golf (compilation info).txt
+172e312b08e0822dd09d719305b079d6	Super Miracle Car Race (compilation info).txt
+d7e387940180fdee7301c976185fd3d0	Super Monster (compilation info).txt
+36a17b626e6865e3005dd6b7a1c07683	Super Moving Block (compilation info).txt
+09ed0641395cb79f244d336cdec321c0	Super Penguin (compilation info).txt
+670d680d0b8bf62e6b84bc00e6580eca	Super Pinball (compilation info).txt
+494b687ed8b9af43bce6139ba1336638	Super Slot Machine (compilation info).txt
+cd4279467ba6813e8d1c615c344d5548	Surabaya-oki Kaisen (compilation info).txt
+2d1901d39b385ce556ff63f868bcb7f5	Surabaya-oki Kaisen.d88
+0aefc3c688a86ae439a81bd550cbc8d9	Sword & Magic (compilation info).txt
+7b6e9dbe808a5a95b2db8a65a9257c39	Takahashi Harumi programs.d88
+750e7e0ad87766250efc9a172fb9fb18	Takahashi Harumi programs (readme).txt
+b3ebd08444d01939de214fb627c86485	Tank Batabata (compilation info).txt
+19c377f4ef4101e228ea35aa9c65018b	Tank Batabata.d88
+6ff75b4af40d5f1d8ad3bf0ea82b9bfe	Tank Game (compilation info).txt
+e676c8a230c8cf9144dd14c031186dbe	Tank Shooting (compilation info).txt
+6a104d2cc8bd41b263ab692ae0be3d15	Te {cload te}.cmt
+9844163af653bbc69b4e1d979c6a200b	Tengoku to Jigoku.d88
+37becc208289488f620145c147aac432	Te (readme 2).txt
+49bb3dab42fe0b4d24e2569830694c6f	Te (readme).txt
+6d15032cdb182887c7de8d940e1c33fb	Terra SOS.d88
+90a43e0713d68dc88bfd59c48bdcba4f	Terra SOS (readme).txt
+a479af441cd8d73e77dfb35422dc9c05	Tetris-8001.d88
+b2759d2ac25c12634bd8dec8b91e8cb2	Tetris-8001 [Set 1].d88
+34cde2286534aa15a119af15459c3518	The Akunin 2 [Alt 1].d88
+09d8c2603452b9cc7deeb32c03f827f3	The Akunin 2 {cload AKU2}.t88
+69b33d07ce17c115b2fa3389896f41fd	The Akunin 2.d88
+85ad31678260d1900b46d24113ace8e0	The Akunin 2 (readme 2).txt
+e201b81190f599b2a9c813655253b46c	The Akunin 2 (readme).txt
+4b374ea965ad2598b65384e7d3b57b1f	The Akunin 2 (source).txt
+f25ed718b63e74bb31edf8693ae740d1	The Akunin 3 [Alt 1].d88
+e89ce1818741be5e1d02cb507531fd5d	The Akunin 3 {cload AKU3}.t88
+fe85a8cdf3f231a3cb6596a10bf2f41d	The Akunin 3.d88
+eb5b8f59f312095f30b6a7f096fbea07	The Akunin 3 (readme 2).txt
+03f9fea9d8a5348ae76ddb8066a896b2	The Akunin 3 (readme).txt
+149889747119db648ab5e80b760e8997	The Akunin 3 (source).txt
+aeaefc9ee1253b4b1a6c86f3c8cdd132	The Akunin [Alt 1].d88
+cf3edbc7c791acb1bc43472e744e41d3	The Akunin {cload AKU1}.t88
+afc72a02519a9fbfbfc2489679b56f9b	The Akunin.d88
+618d396e0ce9235bb69b0d8a96d8eb58	The Akunin (readme 2).txt
+979419f8263152417b713488366b2dba	The Akunin (readme).txt
+1bde8c1fcb90f089bf5ee87c052e7c5e	The Akunin (source).txt
+9d1d4e2fe23b7807f1ca97cb433b6d10	The Alien Island 3D-Version.d88
+7953b81856a1146e075143e8a1c67b27	The Black Onyx (mkIISR) (readme 2).txt
+74a34ba1d59a76e4d6c6aa74815dcb69	The Black Onyx (mkIISR) (readme).txt
+85c5a8e5bf28fffa4488d5450e60a131	The Black Onyx (mkIISR) (Tape 1 - Onyx) {cload onyx}.t88
+ed4efea0efd60b5b0b901cc0a48531b1	The Black Onyx (mkIISR) (Tape 2 - Rollem) {cload rollem}.t88
+3d507ecbaee051954e3968660a0fb68c	The Farway.d88
+6be5a49ed77cf2c889530201fa2556b1	The Forest Fire {cload FOREST}.cmt
+f02f37ddc124b3060f62238bb057bf62	The Forest Fire {cload FOREST}.t88
+dddef9dfaf6a9f0e8396d4fce38ff137	The Forest Fire (readme 2).txt
+b18b5389852036e412f25af4077eda44	The Forest Fire (readme).txt
+ae50299bec5e6f159177d3f904b3ea5a	The Goku (compilation info).txt
+3367cf0e5738e690ed37b2359afc5bd8	The Guardian (compilation info).txt
+d9df776a19aab2a2f879cadc524b250c	The Guardian.d88
+7824ad93283ad2ea546a2d0d148a096d	The Guardian (mkII, PCG) (mk II readme 2).txt
+9b3f3f4504b2a671dc5b370ca217ac6f	The Guardian (mkII, PCG) (mk II readme).txt
+3007496a231209aa31ef851b2d8582a1	The Guardian (mkII, PCG) {mon L GCA80}.bin
+ab3407587f943b6e95e9c74b2967770d	The Jump (compilation info).txt
+61f2312561581a617cbe1014542db886	The Night Bomber (compilation info).txt
+db47bf337a1beb0d786ef72ba17a9f82	The Oil Field.d88
+1b31bfaa56ff3d9dfda6175c630769cd	The Oil Field (readme).txt
+8751e2361823bdf8d0e2da0db41a03ea	The Planet Miners (compilation info).txt
+cd65932e52331da6033600adcbae23ad	The Planet Miners.d88
+5329a8316951b696b58fabe58ccd3e78	The Racer (compilation info).txt
+f8fb66206e2af44424ec9dd27577f452	The Racer.d88
+f4c9d7d812801af8c5026f152cd735e5	The Tower of Mori (compilation info).txt
+4bda48d32a5ff6fd828cedd24e3e4b4c	Thin Thick {cload THICK}.cmt
+71dad3f679b5380ea9f873b7c94ca8bd	Thin Thick {cload THICK}.t88
+14922459e2af83dd720e134bcd68ff47	Thin Thick (readme 2).txt
+d5635501dffd1111898240fbc8a1b141	Thin Thick (readme).txt
+5301bbd8a002b708ba41d9597ff0a0fb	Thunder 'N' Blade (compilation info).txt
+699122bc6a7bfe7dac3e2a966ce99429	Time Bomb (compilation info).txt
+3f4a5ac173d34ac337129f285585313f	Tlix (compilation info).txt
+b26e948f55045a7d6c67086fa87591eb	Tlix.d88
+43848db772d86997bfe6220966e99660	Tokon (compilation info).txt
+ddd8d30f9a93665dcec40e2270e24679	Toriaezu Tinyan da yo! [Alt 1].d88
+97124f0377b94a7604e4096bebebee08	Toriaezu Tinyan da yo! {cload TORIAE}.t88
+a4efb2325b2d7dae4c3cd547c767a0f4	Toriaezu Tinyan da yo!.d88
+89d0c9aa126570fd19c0879904b3e7fb	Toriaezu Tinyan da yo! (readme 2).txt
+ba45d8daf5e1a16087462aa0db80f194	Toriaezu Tinyan da yo! (readme).txt
+423ac1f2529f5a55955baa882e24f76a	Toriaezu Tinyan da yo! (source).txt
+a541f670d893cde21f7cee6d51bf8ee6	Toukei (compilation info).txt
+c00824f42f8912a37adb18611467a9da	Toushi Game (compilation info).txt
+80e2b31b92a158a6984438f921656341	Toushi Game.d88
+0d9e6e020b6b5c02a9faeb927ce9b752	Toushi Game.n80
+a708bfa6feb1c80b3133b059e98fbf55	Toushi Game (readme 2).txt
+01ad6df2929e98353df2691ccf24ba77	Toushi Game (readme).txt
+ba7cecf3690de5d278630f85ff268eaa	Trade Game (compilation info).txt
+53f958ea237a2a0c6fa628e4ece87930	Tsume Shogi.d88
+394a804dbb0a657f5da77f7052339e62	Tsume Shogi (readme).txt
+4a4445481ba268315e093798acd75443	Type Renshuu (compilation info).txt
+ea996194cece059ecd6d5d6d76a98d4b	Uchuu Ei.d88
+286fd6fba93c9ca75715b6d0f155a65e	UFO Bombers Game {cload UBOMB}.cmt
+774752f1e48de360256059f74cf100f2	UFO Bombers Game.n80
+aef5114e6c9133b68020eb98c4ca4b1e	UFO Bombers Game (readme).txt
+b9a84fee131f789c48a70465ad2b4a5d	UFO.d88
+0356c75a5285b4147d70a403b7d10ef2	UFO.n80
+5e77a9977cdd7a54f61dc662e89c6889	UFO (readme).txt
+010667ce4ff904f0d7eb9f971e504ed3	UFO Wars (compilation info).txt
+5eb53b9e1ddb41e4f02585b0e8e414bf	Ultan (compilation info).txt
+7ce75068846ead214b7aed251853132c	Ulysses (mkII) (Disk 1).d88
+d19242ac4bcd8a5b2a93af58f0e6d795	Ulysses (mkII) (Disk 2).d88
+512b011c28116b2af8ccc32d0fd6dca7	Ulysses (mkII) (readme).txt
+46c1e3d20967155b9ea769a200a98b3c	Underground Monster (compilation info).txt
+79105c4e535ee0959435f455c52589ee	Underground Monster.d88
+c68dc9a89623e8c4b35a4a7fc17fdc5e	Urusei Yatsura (compilation info).txt
+af243fc638c3a2b24bd49f2799f3011f	[Utility] BDS C (v1.50) (Disk 1).d88
+5941c8da45b1faad7464208a30a10d3e	[Utility] BDS C (v1.50) (Disk 2).d88
+990ec62a9a5c43622d5689494d893fef	[Utility] Beep sound driver for N-BASIC {cload BEEP}.cmt
+a0831d3b56f204217c4bcc83357822c5	[Utility] Beep sound driver for N-BASIC {cload BEEP}.t88
+19eccb7e7ed3f46263cadd8206742eac	[Utility] Beep sound driver for N-BASIC (readme 2).txt
+ce0c6d9d61d1dc8da69e506b4e99d9e7	[Utility] Beep sound driver for N-BASIC (readme).txt
+0c93374608ecec740dd66e1f08b203e3	[Utility] Graphic Kaihatsu Program {cload LINE}.cmt
+17b63d3e1b471044a37d24e62265965e	[Utility] Graphic Kaihatsu Program.n80
+8fddb88fee37822d56321472d18bd1b5	[Utility] Graphic Kaihatsu Program (readme).doc
+893a8e72e26f6787fb522b0630b6f3ec	[Utility] Graphic Kaihatsu Program (readme).txt
+247994492fa95f102c739c9f84b61959	[Utility] JRT Pascal.d88
+e3347436b98b36d47fb941f9269d21a9	[Utility] N80 and N88 Disk BASIC Utility Collection (Disk 1 - N mode).d88
+fd0a647c7e590be64215b6963e0a2c19	[Utility] N80 and N88 Disk BASIC Utility Collection (Disk 2 - N88 mode #1).d88
+2e7aa462c0dfe934a856ee5cc28dbfef	[Utility] N80 and N88 Disk BASIC Utility Collection (Disk 3 - N88 mode #2).d88
+13b36fed5a0697d8443fcae661a43195	[Utility] N80 and N88 Disk BASIC Utility Collection (Disk 4 - N80 mode).d88
+ce1206932aa9b498c6cddd365c74c7a1	[Utility] N80 and N88 Disk BASIC Utility Collection (Disk 5).d88
+c3685c8aa8ab68f91a2df9950d4c1b9b	[Utility] N80 and N88 Disk BASIC Utility Collection.txt
+2f960c0c705738ab88df5e4072806a8a	Various 2 [Alt 1].d88
+63ae7193ede25910b9c273d903366216	Various 2.d88
+f7cae66f512ccb0bfca12166ae830ced	Various [Alt 1].d88
+7b4fd8a747eb40b6122b10b83c3ca4f1	Various (compilation info).txt
+f7f9503a1aabf8b54eba9361c75d1b82	Various.d88
+cf97bbbffd7a28e83b108f6e193e0b79	Vark - Cain's Saga (compilation info).txt
+f99dbbfc5eb1217fe69eaab509482b81	Vauva (compilation info).txt
+743bdec1e5687dcc673630b93e1cb9d7	Video-kun (mkIISR) (compilation info).txt
+c61fbfae1f0b3755f59457879dc7d3e7	Vogue (compilation info).txt
+24e2702b9894fcb4bb6fa063a6e512ec	Wa.d88
+2cf392f3ebf4dee1e07ef0f7c58b280d	Win Back (compilation info).txt
+bdd4fb7d78282516044c1a8b98299907	Wood Peckers (compilation info).txt
+2e8d99b7c7bbdafcd0f3ed32f2c12991	World Alien.d88
+c5ebb4e211da79dbef1374a8fa5bfb4e	Xanadu (mkIISR) (Disk A).d88
+e511f0dfff1a8bbbdd8e41d9d4b0edd8	Xanadu (mkIISR) (Disk B).d88
+c407a4494bfb9149ea785094c63c19bd	Xevidos (compilation info).txt
+99fd1231e339497e0961e5625ee90dd6	Xevious (mkIISR) {cload loader}.t88
+7dc236a1990513ae5d1df6ccb205f2e0	Xevious (mkIISR) (compilation info).txt
+5538b625cc4ea7595f4047fe5e64dcfd	Xevious (mkIISR) (readme 2).txt
+7f693b3a6531bae2ab15f8164b0015a8	Xevious (mkIISR) (readme).txt
+d090bc01c78e712ace588621d39ac015	Xevious (mkIISR) [Set 1] {cload loader}.t88
+1db33adf3331e346c250976dc929949b	Yellow Ball (compilation info).txt
+be55efbe647c0be2cc4a7a3f8f9ed332	Yuureisen (compilation info).txt
+04595eafb23a1e5ee92385661bd9250d	Yuureisen.d88
+3ef972cd55cee8175189107c47b6168c	Yuurei Yawa - Haiya no Ichiya {cload yurei}.cmt
+35fcede5acf63d53e59dafca3fc9a051	Yuurei Yawa - Haiya no Ichiya (readme 2).txt
+4bd9605147c3981480a21212d5aa1bde	Yuurei Yawa - Haiya no Ichiya (readme).txt
+aac99bd485b1d35a616184d24bdd353a	Yuurei Yawa - Nagamushi {cload naga}.cmt
+ffd884a61d9e22982750bc3e4c76af2a	Yuurei Yawa - Nagamushi (readme 2).txt
+f7eadd6c680d2331d1bc86afbf46808b	Yuurei Yawa - Nagamushi (readme).txt
+3299b569b8bb7e4fb3e8ee78ed1cb773	Zaxus.d88
+dabf3706b6c2e1b4e2ad3a716cbe7a7b	Zold {cload ZOLD}.t88
