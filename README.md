@@ -54,12 +54,16 @@ Definitive lists of RetroAchievement ROM hashes
 |SNK - Neo Geo Pocket (20201106-202832)|No Intro|❌|❌|❌|❌|
 |SNK - Neo Geo Pocket Color (20201106-204328)|No Intro|❌|❌|❌|❌|
 |Sega - 32X (20191204-183941)|No Intro|❌|❌|❌|❌|
+|Sega - 32X - GoodGen V3.21|GoodTools|✔️|✔️|✔️|N/A|
 |Sega - Game Gear (20201227-043658)|No Intro|❌|❌|❌|❌|
 |Sega - Game Gear (GoodGG v3.20)|GoodTools|✔️|✔️|✔️|N/A|
 |NonGoodGG|NonGood|✔️|✔️|✔️|N/A|
 |Sega - Master System - Mark III (20201103-015616)|No Intro|❌|❌|❌|❌|
+|Sega - Master System (GoodSMS v3.20)|GoodTools|✔️|✔️|✔️|N/A|
 |Sega - Mega Drive - Genesis (20210114-043643)|No Intro|❌|❌|❌|❌|
+|Sega - Mega Drive - Genesis - GoodGen V3.21|GoodTools|✔️|✔️|✔️|N/A|
 |Sega - SG-1000 (20200217-185318)|No Intro|❌|❌|❌|❌|
+|Sega - SG-1000 (GoodSMS v3.20)|GoodTools|✔️|✔️|✔️|N/A|
 |NEC PC-6001|Neo Kobe|❌|❌|❌|❌|
 |NEC PC-8001|Neo Kobe|✔️|✔️|✔️|N/A|
 |NEC PC-8801|Neo Kobe|✔️|✔️|✔️|N/A|
@@ -76,7 +80,6 @@ Definitive lists of RetroAchievement ROM hashes
 |Nintendo - Nintendo Entertainment System (GoodNES v3.23)|GoodTools|❌|❌|❌|❌|
 |Nintendo - Super Nintendo Entertainment System (GoodSNES v3.27)|GoodTools|❌|❌|❌|❌|
 |SNK - Neo Geo Pocket (GoodNGPx v3.27)|GoodTools|❌|❌|❌|❌|
-|Sega - Master System (GoodSMS v3.20)|GoodTools|❌|❌|❌|❌|
 |Sega - Mega Drive - Genesis - 32X (GoodGen v3.21)|GoodTools|❌|❌|❌|❌|
 |Spectravideo - MSX (GoodMSX1 v.0.999.3)|GoodTools|❌|❌|❌|❌|
 |Spectravideo - MSX2 (GoodMSX2 v0.999.3)|GoodTools|❌|❌|❌|❌|
