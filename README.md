@@ -15,7 +15,7 @@ Definitive lists of RetroAchievement ROM hashes
 |Atari - Lynx (20201108) [unheadered]|No Intro|❌|❌|❌|❌|
 |Bandai - WonderSwan (20201120)|No Intro|❌|❌|❌|❌|
 |Bandai - WonderSwan Color (20201120)|No Intro|❌|❌|❌|❌|
-|Coleco - ColecoVision (20200926)|No Intro|❌|❌|❌|❌|
+|Coleco - ColecoVision (20200926)|No Intro|✔️|✔️|✔️|N/A|
 |Coleco - ColecoVision (GoodCol v3.14)|GoodTools|✔️|✔️|✔️|N/A|
 |NonGoodCol|NonGood|✔️|✔️|✔️|N/A|
 |GCE - Vectrex (20170908)|No Intro|❌|❌|❌|❌|
@@ -58,12 +58,14 @@ Definitive lists of RetroAchievement ROM hashes
 |Sega - Game Gear (20201227-043658)|No Intro|❌|❌|❌|❌|
 |Sega - Game Gear (GoodGG v3.20)|GoodTools|✔️|✔️|✔️|N/A|
 |NonGoodGG|NonGood|✔️|✔️|✔️|N/A|
-|Sega - Master System - Mark III (20201103-015616)|No Intro|❌|❌|❌|❌|
+|Sega - Master System - Mark III (20201103-015616)|No Intro|✔️|✔️|✔️|N/A|
 |Sega - Master System (GoodSMS v3.20)|GoodTools|✔️|✔️|✔️|N/A|
+|Sega - Master System (NonGood)|NonGood|✔️|✔️|✔️|N/A|
 |Sega - Mega Drive - Genesis (20210114-043643)|No Intro|❌|❌|❌|❌|
 |Sega - Mega Drive - Genesis - GoodGen V3.21|GoodTools|✔️|✔️|✔️|N/A|
 |Sega - SG-1000 (20200217-185318)|No Intro|❌|❌|❌|❌|
 |Sega - SG-1000 (GoodSMS v3.20)|GoodTools|✔️|✔️|✔️|N/A|
+|Sega - SG-1000 (NonGood)|NonGood|✔️|✔️|✔️|N/A|
 |NEC PC-6001|Neo Kobe|❌|❌|❌|❌|
 |NEC PC-8001|Neo Kobe|✔️|✔️|✔️|N/A|
 |NEC PC-8801|Neo Kobe|✔️|✔️|✔️|N/A|

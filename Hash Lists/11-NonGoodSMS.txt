@@ -1,0 +1,1015 @@
+bb6590660673b4435a8d706d6046cf45	[SHC2017] [compo2017] 45 - Sonic 2 Zen Island - By Yoshister (S2 Hack).sms	FD9C6EC9
+7784cf76f67b003355ef9ec4b8ea0987	10 Yard Fight MSX2SMS Hack.sms	06464D2B
+fab68e3e09d847df7d87fffd95bcf84c	1985 Alternativo.sms	52C65583
+0f1c3c9f698c22237eb87f97fe1f6cb8	2015 Maxim's Birthday Speed Coding Compo.sms	A844567A
+bf9eb8c06389d211cb71e0408a86677d	2048 (2014)(Grz-).sms	8BAFC771
+133fddd53399cd899eb27b5a064e680e	2048 v1.0 (2014)(Julien Verneuil).sms	50FD512C
+e69b2c13582597fa16c91eddc7010993	2048 v1.0 (2014)(Sanqui).sms	4B7A237D
+8cdf437c503d8a70adb626c0b3b44873	2048 v1.01 (2014)(Julien Verneuil).sms	73B81B33
+29be049bdbc7284ab5fbb8a59f66489b	2test [a].sms	5E563BE0
+2a0b5eaf3333de0893c87aa0e913c6e0	2test.sms	99A1CF49
+1dd9598c75d14b82fbc12a5bc50034c5	3dcity stevepro studios.sms	3EBFA51B
+f0accf1db1575be6f9d9b0e503247786	64 colors raster demo.sms	94A66D58
+314c0ba9621f4514b49a6063a65d6845	A A Harimanada v0.3.sms	D8CB9B9A
+9f5e3304ba57303e4ecbf6fce2c558a1	A A Harimanada v0.4.sms	D7BA5F1C
+1ff625e05d56c00a925b6e6fac5e4e52	A.E. MSX2SMS Hack.sms	A6540096
+b0aed6673d6be907205a5e8f723a3bb3	Aa Harimanada (Japan) wip0.1.sms	390F8987
+b2d5a6b0d2933779bfcdb483e903b131	Aa Harimanada (Japan) wip0.2.sms	18BE75ED
+c37877221873ab5f6a09918a1cc9886c	abuse (2).sms	1F21607A
+c3e35993e3a2c70ca003413e09d89b8b	abuse.sms	4DCBDBF8
+097c24c1aac0a01668014b364f675b36	acidreflux_1.0.sms	A36510D7
+0d9d6a10239fefd3a52f51fde4d2bf6c	AcidReflux-SMS-1.10.sms	9D9919DF
+dbe960bfa9b3411c58a9d9ba8e0cd959	Action Fighter (Japan, Europe) (Rev 1) [T-BR] [T-Patryck] [V-1.0 A-2016].sms	D84FB7A5
+73cc1f3dd52c248acb02c0d6ad97d005	Action Fighter (TW).sms	8418F438
+43fcbf765f04f76a20dfe336164c5293	Action Fighter [v0] [Proto].sms	E2D765AD
+6d8ad862868b1f5ee51a37e4a78b3585	Aerial Assault (Europe) [tr Fr G_IX].sms	68E88F06
+38146486a125d6121cbb42b01fafdcde	Aerial Assault (UE) [!] [T-BR] [T-Renix G-Renix Traducoes] [V-1.2 P-100% A-2009].sms	83F5BBFA
+c5a76c0cbcbc7b1f51de8b70097b191c	Air Rescue (Europe) [tr Fr gix].sms	22850DAC
+073fdc68af6383cb107d222154c981cd	Aladdin (EB) [T-Rus ALLiGaToR&babulya (23.01.2014)].sms	D780419A
+04e3bbe221be3bd8854891beeb33a05d	Aladdin (EB) [T+Rus2.0 ALLiGaToR&Chief-Net (06.10.2015)].sms	9181AB81
+7860d18c861d784fdc3798b6c9de3967	Aladdin (Europe) [tr Es v1.0 Wave Trans].sms	FCDC7CCF
+f0aacbea1cee369d7685e7ca1463fb62	Alex Kidd 2 - Curse in Miracl world - Démo 1 (Master System France).sms	9ABCB4E1
+83447fe70476a27a237cc935499955b8	Alex Kidd 2 - Curse in Miracl world - demo3 (Portuguese).sms	CD5967DC
+e9d06bbd43e3c04631cedd66563d87f7	Alex Kidd 2 - Curse in Miracl world - demo3.sms	C1AD52DE
+0cde3c761c0c861a3d33f44db1d05009	Alex Kidd 2 Curse in Miracle World Demo2.sms	54009F7B
+4d323838c4a0362c25d0d47ce6a6f1df	Alex Kidd BMX Trial (SMS Control Pad) Paddle-to-Controller Patched.sms	7053CEBC
+c579dcbcb63ddd79db5e15b2368f1961	Alex Kidd in Miracle World (German Version 1.0 by mk1995 'SMS Power!' on 21 Nov 2012).sms	0F4F3A63
+8d3df8d20e5beb5682c44bc2e2da16fa	Alex Kidd in Miracle World (USA, Europe) (Rev 1) [tr Es v1.0 Wave Trans].sms	C4F6B99D
+2928f752ebc297958608655a54ef9637	Alex Kidd in Miracle World (USA, Europe)[tr De 1.0].sms	988F07E0
+debd106a7cc4fc4aa41b71ff35a7c70c	Alex Kidd in Radaxian Rumble (Alex Kidd in Miracle World Hack).sms	0806FBF3
+a10817b8089f204311e4400857f86330	Alex Kidd in Radaxian Rumble Demo 1.01.sms	E7315E7C
+a9305ec6551ad3904d627db8a028eae4	Alex Kidd in Radaxian Rumble Demo 1.02c.sms	5D8B535E
+bf10a8ac9617a934dcd64ca724de16da	Alex Kidd in Radaxian Rumble Demo 1.02e.sms	25FA746C
+2dec97f156f90ff5897470fe6b191db5	Alex Kidd in Shinobi World (USA, Europe) [Graphic Restoration hack].sms	87B2B15D
+bd47f785c671ea1e317b324eea104716	Alex Kidd no Miracle World (Japan) MD button A hack.sms	E3107380
+31d3ccbdef6c8b5b78cf4aeffa60243e	AlexKiddInMiracleWorld2-Mod-1.00 [AKMW hack].sms	A3001540
+f7f7e7ec8387388b536cc6495ddfefec	Alien 3 (EB) [T+Rus1.0 PSCD (17.03.2015)].sms	F2C5AD0D
+4c387aabf530903893353399bfca4d12	Alien Storm (Europe) tr Ru chief v2.sms	74FAC79C
+f08324bd80fa8416defd59a25cf3ad02	Alien Storm (Europe) tr Ru chief.sms	6968B460
+2ed0f47ddbfd8e7d61bf9e67223895dd	Alien Syndrome (Genesis Controller).sms	F6C956AD
+e336e8e1d64fa33cd1fe466795822a8c	Alien Syndrome (Japan) [T-BR] [T-Patryck ] [V-0.85 A-2016].sms	2AC4AD25
+8f75283b11d8fcb3d30d0c8657ecd4a5	Alien Syndrome (USA, Europe) (Genesis Controller).sms	6B3E06FF
+7fbcff2fef2e86be0b46ab25d0fbd960	Alien Syndrome v1.1.sms	06FD88E5
+dfdda8424b6205bb8aa410229f612c91	Altered Beast (USA, Europe) [T-BR] [T-Patryck] [V-1.0.1 A-2015].sms	D456E9AD
+24178118693dd165fa9aa172dc031db3	Altered Beast (USA, Europe) [Tr Es v1.0 Wave Trans].sms	FF9AB2C1
+ad19215dded8e97b8cf5bff5862b6a06	Altered Beast (USA, Europe) +t1 v1.1 hang-on.sms	6954C551
+5133ee496eddbac75b257702bee2a0ce	Altered Beast (USA, Europe)[tr Ru v1.0].sms	AEE035E7
+02a780d554210d0223efb57985f74969	alterego.sms	B16D3109
+eb04587efffb98403089b7e4a9a9c823	Anguna The Prison Dungeon.sms	F5DA4A2B
+7c31f462ec1462eee177cc3428e44dbe	animeopening.sms	5C702BFD
+c92ec45d09f5f990afd61b73d1f708b5	Aquapolis SOS MSX2SMS Hack.sms	A211CB87
+6bb16b2ee1bfc82b17390fb7fd59445e	Aquattack MSX2SMS Hack.sms	A02D9668
+5e833bf1f837cd326e984c859e7f98cd	Arcade Classics v1.sms	3EA9582D
+04c8de3f682c84e16c6c8ca5719849e1	Arcade Classics v1a.sms	4CD5B22D
+6e5726ad787b44921146b8b20eb6077d	Arch Rivals v0.1.sms	C6937CED
+ec93decb76e0e9b4e41fa92e9466526b	Arena - Maze of Death 0.31.sms	F9A9E13F
+95dcb27d25ef87231a9d8c7fb4aa1ead	Arena - Maze of Death WIP v0.2.sms	334F9EA5
+f7aa9b23aa75468baf86d1de9dd92b12	Arena (USA, Europe) wip0.1.sms	3F2AA95A
+677fa8b412907ffcd1a79c854d6a721d	Argos no Juujiken (Japan) [T-BR] [T-Patryck] [V-0.85 A-2016].sms	183FC57F
+36a8c5171257d3cfa4eea563eb9634fd	Ashura (Japan) [speed-up hack].sms	1B542278
+1c437e808bda6d6e11916b911973cd32	Asterix and the Great Rescue (UE) [Fix].sms	10C6CC1E
+0a4df31166ee940fb5230ce0219c093f	astroforce1.00.sms	B3D666D9
+c5f22a80a5edb69a2903139b4fc2df75	astroforce1.01.sms	5AAC9A95
+ad1d076bfb9f211add60e54d1513a16f	astroforce1.02.sms	DAFE9C84
+ee1e71857e93ccdcbddf470ed42586a1	astroforce1.03-finalplayable.sms	1BAD75C5
+447cd30ca62589122c1f3c0e719536ed	Ax Battler - A Legend of Golden Axe V1.1.sms	A5187B85
+39e3928058c18dc6c4055d8d240b2e74	Ayrton Senna's Super Monaco GP II (E) [!] [T-BR] [T-Renix G-Renix Traducoes] [V-1.0 A-2009].sms	C6CE4CCE
+6a6432a9e529a066f89db3f0b75dadb7	bacachase (2).sms	D1794A7A
+e63c765ac896746b9d48024ad372f8cf	Back To The Future MSX2SMS Hack.sms	93BDFBD1
+bce1783f0dff0476ba478ca70a460b07	Bad Apple Demo 3D Full Length (PD) v7 gligli.sms	58B7DEA6
+c6f12a59682a1dccac65de1549b981f9	bad_apple_3d.sms	B8AEAA22
+5039379e7b5543168905e8a73242d0f9	bad-apple.sms	A8C4A7D5
+7fdf326b1af8ba5615581b42857b5cf2	BadAppleColourIntro.sms	0B95D463
+0ec81ccf89a6e77521b311d0992420aa	Bank Panic MSX2SMS Hack.sms	75856090
+0e891e5b8216fd99874e786e19293926	BaraBuruu-SMS-1.00.sms	43E39AA4
+8ccd8cca809ce87936fa3bff6e4f55c9	Barbie Super Model v1.1.sms	C36712A6
+25c0843e3a62b9fb700b62ec195502c6	Bare Knuckle (Streets of Rage) v0.1.sms	26304738
+9bed826cd394a489fe49a1d3f31c5703	Bare Knuckle (Streets of Rage) v0.2a.sms	02EBA5D7
+c2d69641b6f329d0e2e2785bcbf98d01	Bare Knuckle II (Streets of Rage 2) v0.69.sms	2F6B7F19
+347b3bbc8b5040065ea8800e24ce0d29	basictest.sms	0AAD21DC
+f777c93f0ebdacf41e6524b829d9ac98	Batman Forever V1.0.sms	53FFEF08
+af0e4ffa22375dceade8ddcc36a8c21d	Batter Up v0.1.sms	3C944062
+5a4bd51232f735861b1d715aeaaf211f	Battleship v1.sms	D5CACD59
+ef7fe944559ef6774713f4dec7dcf0f5	Battletoads (USA) 1.0.sms	3E91D693
+b5ae2bbbc7be8ab96431be955cedad29	Battletoads v1.1.sms	7AA39825
+9c9b8423fe7b15df23e2d381eeb449b6	bay third dungeon.sms	772DB9D8
+8f3f872b5ebf1579e03d29432c28977e	Be No Sqr demo v1.0.sms	53A5A999
+ad112e000120b2d2f31bd49b009c818b	Be No Sqr demo v1.01.sms	EE701BE6
+f0c29836b15561eba8470bc9d299c7a0	Beavis and Butt-head v0.1.sms	FEB230CF
+d4dc8f78bb1d69552a7611000035b315	Becky MSX2SMS Hack.sms	CA4EA634
+4c12424b7542831c3cce68129c5bcc97	Bee & Flower MSX2SMS Hack.sms	59D79E80
+154c9f9bf5ea77fdeae2527eaf4e5c86	Berenstain Bears' Camping Adventure, The v0.1.sms	256C5D88
+6a367a96c0462f64dbc583f45cd5dabf	BIOS-bios-menu.sms	F56A4400
+f58433887c9bf2829682d1994c53c2e1	bios-menu.sms	2B95A548
+4684a819313046144aa70e8f637b66bf	Birthday Card (bugfix).sms	7FF66596
+c41544f1b97d8a374ea8c0139352d7ab	Bishoujo Senshi Sailor Moon S v0.1.sms	C7664590
+691e10b119dd1a78ed0cc67e226cddb9	bitz80.sg	902683E3
+ac1ed5e23fc08b4ff76b191e8de5b3a6	bitz80.sms	7B1EC44C
+bda77f96a2a5a7f3544c52137b154bdb	Black Onyx, The.sg	03C3A0F6
+72789a53a13e196d8af14ebe228b3335	blast!_-_the_synchrobots demo.sms	DA2A68C6
+a3f68a06c5868fb4b22cfa030f408d0b	Blockade Runner MSX2SMS Hack.sms	D0305ACC
+6cfb25258824920311f924b979564a25	BlockQuest0.01.sms	6BCD434C
+733c4ac0bf77e29d3f352d52ab4227dd	BlockQuest0.02.sms	9C138CE5
+7a78bbd0421d3bf3dae09a0a255fdde5	BlockQuest0.21.sms	ACB0D804
+7b73dbc8274d2359c405a71bbeea39eb	BlockQuest0.22.sms	226E5981
+474a598ffad714625d1514e72f1bbc93	BlockQuest0.23.sms	FAA2C9A2
+0b9c2d0d6fd7696daea815c35a50e665	BlockQuest0.24.sms	E4E8454A
+10713ad2407f7bb24024222aca7fb34c	BlockQuest0.25.sms	D6D82A11
+d0f1a12ad2fdbad0720fa45afba532c9	Bloki-SMS-1.00.sms	DBB3E1D4
+0b292bd5f5e02e37f56a1a7d4e25f019	Bloki-SMS-1.01.sms	EE5463D3
+25329775a0eeb263c45db0b5d4b2c220	Bloki-SMS-1.02.sms	07774397
+f1a3d943e19cce5f9736cd94b14f0c06	Bloki-SMS-1.03.sms	BE494701
+2c21585fa86edc821d5fcb3b3a27e248	Bomber Raid (World) (Genesis Controller).sms	C880978A
+2736d5db7af1529186d2c377e9966ecf	Bomber Raid (World) [tr Spa v1.0 WT].sms	17F77813
+25044d56bc18ad8b66a726c2f9d0b26b	Bomberman Special (TW).sg	69FC1494
+cd87c1a8cd8bc137673a7fb057e2142e	Bomberman Special [DahJee] (TW).sg	CE5648C3
+45b72dd64ef2c5c2c399d60c3471105f	Bonanza Bros (Eu) [tr Fr GIX v1.0] [BAD].sms	9DDFCB42
+2b7b6c31a02fc3c08798845fdc9fa331	Bonanza Bros (Eu) [tr Fr GIX v1.0].sms	16D4C5A4
+d5d2fad4dd25aa996070341460e92d1b	Bonanza Bros. (Europe) [tr Es v1.0 Wave Trans].sms	4F22DCEF
+63c264ae525e99dec9cf30982d4635f1	Boogie Woogi Jungle MSX2SMS Hack.sms	FD685673
+36679e655361b7cd87422fe3b1eea439	BOoM - joypad 2 hack.sms	45BAE04A
+96646e39a562c348191b2509cd1f6765	BOoM (1.1).sms	143AB50B
+c2af1630a6063adbf3f344e9275b3651	BOoM v1.00 (2014).sms	FAB6F52F
+e7f6e6d402ec733c66bc4201c9d4d758	boom_V4.sms	C3F8FF18
+d5c8f40b87cf8b8f81505cbea333f1bd	boot_loader_universal.sms	D7E58F8F
+ce0393bf23f7583f8df2d137efb3f423	Bosconian MSX2SMS Hack.sms	3C7D9E16
+aeb66f6d6b08f1d9eca9bb7dff44c1d0	Bouken Roman MSX2SMS Hack.sms	1F895527
+943aeb262a15f3610fabde4ac271bf74	Bread And Butter (1.00).sms	A93DA32B
+828339676ce1ef59442b09e3324c5962	Bread and Butter (1.02.6).sms	DC10BCAB
+ca405db9c6e523e86865390c6f6ae386	Bread and Butter (1.03.2).sms	6D46BC40
+99beeaefb582471ec46b6e65a9893444	bread_and_butter_v1_01__48kb.sms	62C2AAD2
+5bf14f7bed0c062df9ddfef367031aff	breadandbutter_v1p02_7.sms	0343454B
+954881558913bf14974d776b5b13dc39	breadandbutterworld_03_07_2015.sms	6C28DA99
+2696045e307990aa896959a66f9e6ae6	BreadAndButterWorld-SMS-1.00_02282015.sms	22D1DC74
+cbd823af4683847a317ebf5e3da2a0c3	Bruce Lee v1.00 (2014).sms	7A3575D8
+9fef58be1dda7971fc3411ee6bfc905a	Bruce Lee v1.01 (2014).sms	70A69913
+b4d1871011d320a370258172707b6be0	Bruce Lee v1.04 (2014).sms	F433E9EB
+92f37b2ddf288469eb724b348cac7695	BruceLee (0.50).sms	1647DB26
+f503d28149d03c858069781a0a9c1a2c	BruceLee (0.51).sms	06388C68
+2b2e16caab7b2f7c3accd55386ccaa65	BruceLee (0.52).sms	9086E6BB
+8c539cab774e1959befb276e6a063eea	BruceLee (1.02).sms	59FD4F72
+416e2cfdca11a53dca815b4cf9e6864b	BruceLee (1.05).sms	CB722A12
+f3d74ce1507a708f0473d9adbf921664	BruceLee-SMS-0.20.sms	B4742656
+abcf82484ec632ce086f5d824496562f	BruceLee-SMS-0.21.sms	CDB08905
+04e6b5848bdb84b0d1c3737d246e55b6	BruceLee-SMS-0.22.sms	4EBBD863
+1a39f9e9c82b086ae99e0f38f7dcf5a6	BruceLee-SMS-0.75.sms	0B48F7DB
+6d68c6fdff41aff161b45af42cbfe390	BruceLee-SMS-1.00.sms	37E27A38
+f9d0e9eb3bb32f51b37a28421bd80d6e	Bubble Bobble (Europe) (Improvement).sms	7D357324
+ef44f0e77c98c10977c70937fff17e50	Bubbo World 2.sms	8AC6B4F4
+6a1584c1e4f9a54456af2d420e1f2ff0	Bugs Bunny in Double Trouble v0.1.sms	4542F03D
+94d265bd3238e8ef61194900b88fcdb7	Buru To Marty Kikiippatsu MSX2SMS Hack.sms	D49504AB
+3138a18cc3a50ed1d1e748200071fdae	BUST-A-MOVE  [GG to SMS].sms	920970F1
+986e6ff64d74d836e2cfc4936a8375c5	Buster Ball (J).sms	2E3EBCA7
+f06fc1faf1013ba6bf89e5f310ae0978	Buster Ball v1.1.sms	98563928
+9408603f50f62c4c3221a63754a3c9fb	Buster Fight v1.sms	F76C577C
+126b9e6efb3025b4b370145cb3026288	Buster Fight WIPv0.1.sms	984DE7F2
+b1bbd909a63d8eab99bf8d2d9a0f6430	Butamaru Pants MSX2SMS Hack.sms	2DFFBCC9
+8e064949f0ee2cbe414c953e51acf8d2	Cannon Ball MSX2SMS Hack.sms	38563E66
+d101d771fc69e015463c11b36f455154	Captain America and the Avengers v0.3.sms	D73AAFE0
+43008bfbe57dede108b64f3f7b1efa09	Captain America and the Avengers WIP v0.1.sms	FCADC971
+7016f2d9b307e58a48690c908bd930b5	Captain America and the Avengers WIP v0.2.sms	939AA3C0
+5354634ec062d48a14beae9dd3061000	Captain Silver [Proto].sms	2532A7CD
+a1d63da06af19c6a87160dd401b9b620	CARD_SLOT-bios-menu.sms	E4C1C5B7
+37b0aae4f737c2113aa17137a66f3f0d	CARTRIDGE-bios-menu.sms	E2C3C4C3
+c85099fdb6a8750f8b345a09668ecb3c	casevac.sms	64E061A8
+f31a8877b27e9939b4989a6b67446386	Casino Funpak v0.1.sms	A92F6C33
+5324815af7d9935c8b1f281015b81245	Casio Worldopen MSX2SMS Hack.sms	7BE20E88
+26c652691519f3476a62697b875a1914	Castle Excellent MSX2SMS Hack.sms	E35B8B4D
+1fea373b29ebed47ece4c88fb9ed148d	Castle of Illusion Starring Mickey Mouse (U) (V1.1) [T+Br1.0_Renix2010].sms	3EC77EB1
+a85ec287bb4151875446c245750fb8c0	Castle, The [MSX] (TW).sg	2E366CCF
+933770b934e2f4eb2b6e3918f0955d40	Cave Dude [Proto] [SMS-GG].sms	CC521975
+09af90e5ff870d5be90b449cd758cd44	Chakan v0.8.sms	FC48CB1F
+476a44e7ccc3bcd3d86a1551237890bd	Chakan v0.81a.sms	5CE9E572
+c0fb34a020f9f455e5ad2cdb1fb1181d	Chakan v0.8a.sms	48089A37
+c44d5c4e8dad791343bea6135b405a69	Challenge AD V6.sms	64D7A06F
+06eb52bd4d0d1c36ea403513483dcdd9	Challenge Ad.sms	8B1F7C1B
+7616696627fcd0a6089108b1c763034b	Champion Boxing MSX2SMS Hack.sms	B5523C31
+b40bb8be3e049d11ef69d8cf13058b3b	Champion Kendou MSX2SMS Hack.sms	6BD660D8
+e8e0c110fea1590ba3b07f372f26007a	Champion Soccer MSX2SMS Hack.sms	BB913D38
+45b55a8a028a46db3fb06473ad19742f	Chappies Ears Simon Game (1.00-src).sms	ED564147
+4d8e0f12e954009d92cb68e9aa200d85	ChappiesEarsSimonGame-SMS-1.00.sms	7E22F7BE
+8fe0093f202b6228af6a3cdc05afd981	ChappiesEarsSimonGame-SMS-1.10.sms	2A03568B
+22a0505cb7e468a6eae7b8076ec1a588	Chessmaster, The.sms	9197D819
+6a84204c7922f8fd7599319d9280cdf7	chicken v2.sms	C18A4C8E
+20180fabc764ad5ea9a328520844a61d	chicken.sms	1316CB17
+8254e57b53cadb265dc6683bc4c90650	Choplifter MSX2SMS Hack.sms	314CBFB0
+26fa71b19d79cd54bdae959d11d5957a	ChristmasTale-SMS-1.00.sms	CC83A4B0
+4b49432c20e32496f79e060cf961ee25	CIMMERiAN-SMS-1.00.sms	C56864C8
+346a20135e976a13bf40f2056a6167d8	CIMMERiAN-SMS-1.01.sms	42039E76
+c1a479065bc31e8681a8530118bdf1f7	CIMMERiAN-SMS-1.02.sms	19923E38
+6bb1c547b9fb7b782ee4fbe5617af626	City Connection MSX2SMS Hack.sms	182CE7AD
+e855091225ef451ceed3913c4d7b0dbf	Cix.demo_1.1.sms	41C3040E
+c53881a00cb109e4dca8facb1cb139a6	Clever Raccoon Dog - Defenders of the Nation.sms	AAEADBBD
+b726990cec0c8bd1e439c86b62d35c43	Clutch Hitter v1.sms	A0FC4156
+8f7fdeb10735a95525fff482ad14c8a7	CMJN-SG-2014.06.16.sg	96352B31
+e11f1cd0c21d30ae6d6945cb11c09a2a	CMJN-SG-2014.06.16.sms	AD813F32
+639b7ed25e35d464d942ba6febb1ea8f	Coca Cola Kid v1.1.sms	3753839A
+753fdbed08fdd02544527e1da665671f	Coconut Cake Caper.sms	C09B8B84
+7722e55b5cfb9386ca533bbc48a1f912	coconutcakecaper_03_05_2014.sms	D4FEF4DC
+aa4eefee71648b028ca9cdefec0bca84	Color Ball MSX2SMS Hack.sms	CA7D9D99
+c26bd7bc57b4574594b88b57ccbb7653	Colossal Cave Adventure v0.1 (2014)(Haroldo O. Pinheiro)(Twee2SAM adaptation).sms	B86B2F33
+c4ce3da8bcfc1df0d8cae520532c2d14	Colossal Cave Adventure v0.2 (2014)(Haroldo O. Pinheiro)(Twee2SAM adaptation).sms	5D77D48C
+52a15146b7829d8015799752e8602a72	Columns (UE) [!] [T-BR] [T-Snow Sonic G-BR Games] [A-2004].sms	9C031F55
+eaf5911a4dc31e6ceb3cf6ec62d9e068	Come On! Picot MSX2SMS Hack.sms	D0D753E4
+b2fbaba1f51a57165630ace45d1cc818	Con-dori MSX2SMS Hack.sms	97FB958F
+6c2a5ce3b7b21edc461c0faf1528c38c	Congo Bongo (SG-1000) [T-BR] [T-Patryck G-Nenhum] [V-1.0 A-2016].sg	E63B1554
+62c0288995f284d823fc1994596e85d8	Cow Abductors.sms	2A02CD23
+25a493d45f34dac122a4ab28802348db	Crayon Shin Chan v1.sms	4E9F43D6
+75af08f2ed8002ec60f2fb4a97e2d3f9	Crazy Faces (Unknown) (Proto)GG2SMS-1.0.sms	28E07C39
+311ebb88d87f7f8033d0c7cf42e8e86c	Crusader MSX2SMS.sms	ED1AEB34
+b4823bbbc177872c8cef19a3d9b29658	Crystal Warriors v1.sms	02CBD44C
+1f7295f063b805171281cc612cd6320d	Cutthroat Island WIPv0.1.sms	D09AFF2F
+fc5d20373e89dd0e342d104397e49d0f	Cutthroat Island WIPv0.2.sms	138A4962
+da278e466f9d9e26d9ca26b1ca2e0b5f	Cye 1.3 demo.sms	5BCCA937
+955fa264f3f0df287aa90cc2cf4caad1	Cye.demo.sms	DBF1FD0F
+70c1ba0a7526f540f32188ea48770932	D-Day MSX2SMS Hack.sms	DD9AFD2C
+c139608e3a62b59068b99fe15e82d16c	Daffy Duck in Hollywood (E) [!] [T-BR] [T-Jefferson Lima Ribeiro G-Mega Romhacking] [A-2010].sms	5FA47B69
+e440e71f2183dc738e1434bad3effa27	Danan - The Jungle Fighter (Europe) [tr Es v1.0 Wave Trans].sms	B529C5CC
+34b7e0d61ba92250ec5edbb963f63ffb	DataStorm-SMS-1.00.sms	37B775D6
+03828587f99919a0ae44b3536926b08c	David 2 MSX2SMS Hack.sms	A5442808
+c38f2ef639effb961b841c9b1d5acb68	dbios_test10.sms	B0F2B58B
+064e816f1a7beab71a0a69bfab33b24c	Defenders of Oasis (UE) (GG2SMS) (1.1).sms	4187AC5A
+944965123a085a3c9533acafd041aa1d	DefleMask (27 April 2013) [CSDB#147767#Other Platform C64 Tool] (animeopening).sms	B6178D23
+0e18413f2490e2abe08d56a258a0c543	DefleMask (27 April 2013) [CSDB#147767#Other Platform C64 Tool] (happyending).sms	53343AA9
+29316734305f0e39b3f2c2617f65019a	DefleMask (27 April 2013) [CSDB#147767#Other Platform C64 Tool] (hexaprism_hall).sms	B626F507
+8cdf044859a398a0558ceb5e28e5f183	DefleMask (27 April 2013) [CSDB#147767#Other Platform C64 Tool] (rom_test).sms	87565F29
+063474cbcc429e6a5da1b41d6091c914	Devil's Heaven MSX2SMS Hack.sms	E2002935
+a98aa6d4c3a9b8859dfdde9304386172	Dig Dug MSX2SMS Hack.sms	6D83F046
+c35a1c7a6d23b054fcdf52ba33033666	Dinobasher Starring Bignose the Caveman (Europe) (Proto) [tr Fr GIX 1.0].sms	C353C4CA
+223b6a56d9a3c8dbafdf5f14fc7311f6	div1.sms	8F5E4B98
+f000081f0e3f29afff696d64370900d1	Doki Doki Penguin Land MSX2SMS Hack.sms	6CF31188
+01c2fb25884fd4423b8c4d7995f9a511	Donald no Magical World (Japan) (En,Ja) [GG2SMS v1.0].sms	FA095278
+48a566d1fd4515a718c12fc8ac3340e1	Donald no Magical World WIP v0.1.sms	03F92408
+33fca3f1f701e3c76934da7efc7c80c7	Doraemon Nora No Suke No Yabou v1.1.sms	FC1A4997
+ae966a1d4ee03af1b50d5b9414e3e506	Double Hawk (Europe) [tr Fr gix].sms	439F84B2
+c8d715d381ea85b3fd16bb9a40f98970	Double Hawk (Europe)[tr Ru v1.0].sms	2CFFA974
+11417bd7b726944634b34f64c7c9bbc4	Dr. Franken v1.sms	810ADEA6
+3ad587fa83cf10432231113a249d1067	Dragon Attack MSX2SMS Hack.sms	C62A92CA
+1e182457248815f6b7256df93bd53736	Dragon Wang (Japan) [tr Fr Traf 1.0].sg	ED866BAE
+c879c5a49c16e360e051a4632816a4fa	Drop Zone V0.6.sms	42E8F8E8
+f553e6f12d16e42ffbf7537792951a4f	Dropzone (Europe) [GG2SMS v0.63].sms	DB960A61
+bf1af27b90cc799284e5f5b0b9841459	dspirit.sms	2F39B151
+5eb68f9e9714156b23389dcd67d82b29	Duke Nukem v0.05.sms	84E37787
+4a68a49ff8e2a51c60e63d493c94e2a4	Duke Nukem v0.05a.sms	B7F53AB0
+7a252a179e5fce2f54b4ae7bbc806814	Duke Nukem v0.06c.sms	7BD7BD52
+170b36ecc0e4eb8f7eaaf72f7649ad33	Duke Nukem v0.06d.sms	CA8F3E16
+cbe6f1d81b19a7215db5a51320e3b1c1	Duke Nukem v0.07.sms	67435FC8
+0464f4ffc2597f23926081d8cb317a67	Duke Nukem v0.07a.sms	D985B7D7
+eea7fc6f9e28e734d6fcb5036f83d69c	Duke Nukem v0.07b.sms	5D9423ED
+b01286d4d7c573c0c1a2a0a2c4842df9	Duke Nukem v0.07c.sms	2BDE58DE
+239f195c4812f12139ef8c598a4664ef	Duke Nukem v0.09a.sms	40BC0C31
+a5aaa2b68555428a2624c26629dc4757	Duke Nukem v0.09b.sms	7A407401
+c55930f2dd47c7980b3579be5e87150e	Duke Nukem v0.29 [a].sms	0E13BFBE
+042df88cd1496769bbfc4922208364cd	Duke Nukem v0.29.sms	C8BC0E0E
+41cd4dc7d1981a8276491bc3f138e752	Duke Nukem v0.40.sms	DFC7D7FA
+3fb5880304457a51b1c074e34392d993	DukeNukem-SMS-0.4.sms	81C8CBD6
+22dedc149f9f1f8c5bcd0fdb99d592fe	Dunk Kid's WIP v0.1.sms	7D05479C
+1a0c41d31459fef399fdea7b3349a9ce	Dunk Kid's WIP v0.2.sms	12AEE8FC
+fd1f879975db4450193b971c26511941	Dynamite Headdy [tr Fr G_IX].sms	84809490
+c7baa3bf55410adf01afd218ef536c29	E-SWAT - City Under Siege (UE) [!] (Easy Version) [T-BR] [T-EmuBoarding G-POBRE] [P-100% A-2014].sms	7994D804
+f81a3f6375fe5ca9e969d3bad90bd242	E-SWAT [Proto 0].sms	4F20694A
+5bd644ec21c7c2c5995cfaef0727383f	E-SWAT [Proto 1].sms	F7CA9801
+37083a8d3ead6b5be8dd138de1c4166e	E-SWAT [Proto 2].sms	FD91CC7E
+4f08c68606afb17da49971f5df3c36dc	Ecco the Dolphin (EB) [T+Rus1.00 Chief-Net (09.05.2016)].sms	40118DA4
+4826fb46153edcca406db0992b895b01	Enduro Racer (German Version 1.00 by mk1995 'SMS Power!').sms	3C9647DD
+21c5d8418b6c5e3281d599665d065e8b	Enduro Racer (German Version 1.01 by mk1995 'SMS Power!' on 24 Nov 2012).sms	99FAE74B
+321bfe43cdf0e711a838b219831c1b2b	Eternal Legend v1.1.sms	5DA008FF
+4de6426b947b08c4aaa69b17f6614cb2	Eternal Legend v1.sms	826C571F
+94c36564836c56987d81b80cee9720eb	Exerion 1 MSX2SMS Hack.sms	110CBB8A
+dc93986d5a6bf0cf2915d6ba70bbcf7e	Exerion 2 MSX2SMS Hack.sms	2ADE7CE3
+f1b56991f3c9fbe1c5c4e82114d5fc36	Exoide-Z Area 5 MSX2SMS Hack.sms	E534028D
+974ea690c42be9555329310e95466e09	Exoide-Z MSX2SMS Hack.sms	4348D158
+371b64e9eb5143153bbed2d79e7ba54b	extract.sms	70A2C2BE
+47b02cee4d91e91ad5d2fdee166af5e7	Fantasy Zone - The Maze (USA, Europe) [tr Fr 1.0 terminus].sms	B9C5CF04
+f3b6810d832ab7dc07de24826e79bd73	Fantasy Zone (World) (Rev 2) [tr Fr 1.0_Terminus].sms	FD5DA5E4
+fcee96daa512b4c57a16bbb52eae851b	Fantasy Zone Gear v1.1.sms	6724A3EF
+b729ecf8de585e8ed08c7636c7c03e79	Fantasy Zone II - The Tears of Opa-Opa (USA, Europe) [tr Fr 1.0_Terminus].sms	CF673777
+d5847d40a2494562655ed6c723cef3ce	Fatal Fury Special v1.1.sms	49860E7E
+4db7d43c4986528e150f7942d4a0011a	FinalJustice MSX2SMS Hack.sms	386DBE8C
+0cee8db62ac6d2b814a92803ca171420	Fire Rescue MSX2SMS Hack.sms	2EABAEE8
+4ff6249245fc8b2d49c4ac6c813d73fd	Flicky (SG-1000) [T-BR] [T-Patryck G-Nenhum] [V-1.0 A-2016].sg	7B69CBC1
+67d3150ea17dfae39eb0b1f5f70d7f45	Flicky MSX2SMS Hack.sms	57870F16
+006d1f77b0470df24d127aee0efd20cd	FlipFlap-SMS-1.20.sms	CDFDAF02
+a77aa27b31584591c615b64aaab5e9b4	FlipFlap-SMS-1.30.sms	02F466C7
+5b79b93da688d42cb75f890c92fb1fe0	FlipFlap-SMS-2.00.sms	A0FCAE6B
+b636a2f6d538b583bbd48397031dd606	FlipFlap-SMS-2.10.sms	459357DF
+bc991fc39c2a9f8a919550c9920e1222	FlipFlapV2_1.sms	9B300465
+20319b18672450d41946aecf092dcc3c	FlipFlapV2_11.sms	B497C058
+d6888e44a950d4c3fe97377665a0e687	Foreman for Real v1.sms	9C7D6D3B
+005dde439046ce30bd6b6af3f7a3f5c7	Forgotten Worlds (Europe) [tr Fr gix].sms	FBB6305F
+d705a1ca2e22a41dfe3970d752543a41	Formation Z MSX2SMS Hack.sms	7FD3C274
+0180fe21525627eb3554f563731e6ca1	Fray - Shugyou Hen v1.sms	A0B179DE
+e5cd65763a940ead54f6e7f4ed2d46b4	Fred Couples Golf v1.sms	997EAE55
+0fa7849ac439726e31cc9f88b5d6f2e9	freeway (2).sms	18188292
+d586cd190abe6472cf2626a01cab6069	Fruit Search MSX2SMS Hack.sms	8D7C4F83
+47ded4923bb641bb8c5d8d76420c683f	Galactic Protector (SMS Control Pad) Paddle-to-Controller Patched.sms	78E3EE96
+c00328f462164821494972a9029c5811	Galaga '91 (Japan)GG2SMS-1.0.sms	812D56EE
+5ea43ce750e350091fe801925fbfba9d	Galaga 2 (E) (GG2SMS).sms	97224936
+189ff1c48761abaa630cb4aa8c94cbcf	Galaga MSX2SMS Hack.sms	0000473E
+5561947ec2135379c15ddb2b55e79061	Galaxian MSX2SMS Hack.sms	BA835A3D
+3040a7b576caaa1d00367a5069db127b	Ganbare Gorby! (J).sms	2DE2EE95
+8474ce81b911149a16289c671fd4a13d	Ganbare Gorby! v0.4.sms	AC0E19EA
+9898639db33890a26e4a0120a6fa3523	Ganbare Gorby! WIP v0.2.sms	AA81E1D6
+1491855274a99f2c9f5cb0fcbfa48c40	Ganbare Gorby! WIP v0.3.sms	AB661EF9
+3a19a85082e7b330b75b0a082dc9628b	Gangcheol RoboCop (KR).sms	AD522EFD
+38c11b91051eba30573bbbdc9845511d	Gangster Town (Light Gun Port 2 Patched) Calindro.sms	2BAE462D
+32ce46a3c5b359431be6aefe84bde290	Gaudream-SMS-0.00.sms	D22A4D64
+8527f6b6159247d4cf4b57c0a18ee5d4	Gaudream-SMS-0.02.sms	F1D5E8E4
+02d61c7b81f06b26fb9d2082f527be5e	Gaudream-SMS-0.03.sms	FF606148
+466fb9b7544099e6e23526c8b0c656d4	Gaudream-SMS-0.04.sms	FF2E1EA4
+c95ee7b545178a425048cfcb42a7c277	Gaudream-SMS-1.00.sms	B6E83234
+edb1304cf0a4ffbf14e062fe046ad5ca	gaudream-SMS-test.sms	F64292CC
+8f6125b511a3afdeb3979ab9a89818d7	gaudream.sms	DCF64771
+0960a87784597b880e153a0ee04da77c	GBU Video.sms	60A205BA
+23218cecb7670615da0d0485d2063076	Geki Oko PunPun Maru.sms	78BBB2EC
+df2466108c54a3c1f1aeba7bb8ea871f	gekioko pun pun maru (2015.10.31).sms	B35EBCDF
+3f980717f3815ca80215e314806d3e77	GenesisProject-Lambo.sms	92FE2775
+d1a55d5f2efcb78b18fb141e2fe4d15e	GG Aerial Assault  V1.0.sms	BD1E77E4
+c6340e5452660cd9740b9cf9ea28a168	GG Aleste (Japan) [GG2SMS v0.01Ultrabeta].sms	90026738
+3a5bc49f51caf9d8be889646593d28e0	GG Aleste V1.03.sms	9A38F85E
+28b02d7a85af93c15aaa3ed1508ebe6e	GG Aleste v1.1.sms	F610B44E
+aeb47e3ffc398462d82b902edc08502d	GG Portrait - Pai Chen v1.sms	11875DEA
+24d613c24de553e333657b3a07799c93	GG Portrait - Yuuki Akira v1.sms	EC9023EE
+a7ce55e1d619eb7b657bd10b09b8b198	GG Shinobi - MD joypad.sms	85B0C578
+70c07b16d29b63d9879addcafd527a12	GG Shinobi [GG to SMS].sms	E719B5C9
+3776d22f477f29ac1fea30818b4959a6	GG Shinobi 2 v1.1.sms	A55EBA95
+249dc5810ddf16ad8f56439e8aff3d04	GG Shinobi, The (Japan) v1.0.sms	A5340B86
+a81df68b84bb25323ad01f76258b3840	GG Shinobi, The (Japan) v1.1 MD joypad.sms	C79D7B37
+8a2d13afd03e60f2ba4732b19445c32e	gg_shinobi_WIP.sms	3019A82D
+38fbc6c16719ee98ae3ddf152eed1c23	Ghostbusters (USA, Europe) [tr Fr v1.0 terminus].sms	C70BAFBC
+330de2787444353eeaf8eb3abf5124cc	Girl's Garden (SG-1000) [T-BR] [T-Patryck G-Nenhum] [A-2016].sg	A065AF7F
+71016ef1026e6eb0ecaf501f4615995a	Girl's Garden Conversion.sms	ABEF90BC
+4b2ec625ffafd9609a88520f134d3a51	Golden Axe (USA, Europe) +t1 v1.0 hang-on.sms	22CA94A3
+fd6566bb32b7e9a06dc28cfa51f3594f	Golvellius (USA, Europe) [bugfix v1.1].sms	512A7EE2
+6d5d37d564e4c0a13baddb589c573885	Goonies, The MSX2SMS Hack.sms	8AB5C41D
+b24c7776a69a2dca117bf0efded3a1d3	Gozira-Kun MSX2SMS Hack.sms	5E89EDB1
+c6479c496b57544d769bffd5db508a36	GravityBeamMasterGaiden_100_20130325_MathewCarr.sms	D4E6A082
+f98f466bac62f6b5424b4b6e28350a92	GravityBeamMasterGaiden_101_20130411_MathewCarr.sms	829FD975
+f10c8384a88926854197e78d438d502b	Great Volleyball (USA, Europe) (Genesis Controller).sms	BD29DABF
+88e61c8ee36d11f1b6d714e2ebc39b73	Greendog - The Beached Surfer Dude! (USA, Europe) [GG2SMS v1.0].sms	5DC04A27
+fa0a55b15119ae0dcf912532b902ba27	Greendog v1.1.sms	7F098CA4
+e682e33fde9c6dcd4666f4a641b94504	Griel's Quest for the Sangraal EX.sms	8124E09F
+99fe40fa0ad9d1fbd3b3948cf7a2aa2f	Griffin V1.01.sms	8653CB4D
+e2834d34a25f6da4c11b433039d7e079	Grog's Revenge.sms	B4FFE7CC
+32ae08ea45671b2d8a4c29f21a33a52b	Gulkave MSX2SMS Hack.sms	81321C7D
+42e49162861416b0ae15573175d50812	Gunjin Shogi Mars MSX2SMS Hack.sms	5F29DFE0
+9eb07e3cdb9712d81ba7a3ebc4620a3e	Gunstar Heroes (Japan) [SMS2GG] v0.1 [216 colors].sms	AE451B64
+7ba3a86ab5150dca11fbc48ca2a79e3d	Gunstar Heroes (Japan) [SMS2GG] v0.1.sms	9FBD6261
+42ca2301083d7d284cc1bb4d2f58b374	Gunstar Heroes WIP v0.2.sms	83C3E974
+19bed8fb16f08e712adfe00911fc3472	Gunstar Heroes WIP v0.2a.sms	6F1A651A
+619f42174eef182131a32fdfde7312fc	Gunstar Heroes WIP v0.3.sms	561E631C
+bf338aba1162339af51b7fa24c3857a8	Gunstar Heroes WIPv0.1.sms	0B551488
+89be9de818fa13dca0ececd6575af06a	H.E.R.O. [english logo] (TW).sg	96F09C6D
+1b6d18fec8f160f36dcf8e85f320efb1	h7n9 (2).sms	8A369FAC
+306dc45c0d7e74bde9ec345cfe8e2fe6	hack - WB3 with START on MD joypad.sms	23445194
+be51bb16bca061069e6d5e8ba7e53878	hack WB 5 - MD joypad START.sms	5B1A196B
+73ce0b17aee44895e9f45ea9a153a8e7	Hadesu no Monsho MSX2SMS Hack.sms	0576C02A
+8eaaf8c918769fc98ce66f925b141420	Halley Wars V1.0.sms	12EC860E
+cea737cc7176e13a603070c070c29787	Hang On (Corrupt 1).sms	AD4435CC
+baa70da59701920110c29302e22de65d	Hang On (Corrupt 3).sms	FEB12B99
+6fed50cbfa60049efeb4776158b0cc0a	Hang On (Corrupt 4).sms	F9DA58D6
+2829e2bf8e48610a93bbf8d1723cda49	Hang On (German Version 1.0 by mk1995 'SMS Power!' on 23 Nov 2012).sms	241471D6
+7182e53e402502d35318eb8f7080388f	Hang On MSX2SMS Hack.sms	76E283E3
+f80f21718d167e1439bff0455bab7e46	Hang-On 2 (Japan) [T-BR] [T-Fridilipi G-Nenhum] [V-FINAL A-2011].sg	9ED14861
+4b28eb77e221ba5d13bcd6420d7369b5	happyending.sms	062CC8D4
+646a392f21f2f6bbe3ef7876c174f86a	Have Pity On Me (0.02).sms	1226FC45
+40406f35a41bfca677e785e61a50b390	Hayabusa - Moonsweeper MSX2SMS Hack.sms	B905E34C
+5a72addbd3d42d8758f0872338fd2f3a	Head Buster (EN) v1.sms	43E6088F
+53f1948a03b768124ea59e47098df45d	Heavy Boxing MSX2SMS Hack.sms	773172BB
+e12ea0e119eaf1486af708e8039a2e92	hexaprism_hall.sms	2669AE42
+bf7609929bcc2856a92bf35a5a480225	Hi-Com 3-in-1 The Best Game Collection A (KR).sms	98AF0236
+2949e35216ce3b36ce26af35b80db73a	Hi-Com 3-in-1 The Best Game Collection B (KR).sms	6EBFE1C3
+86559e1ba9225d7caaf86bb412e9a8b7	Hi-Com 3-in-1 The Best Game Collection C (KR).sms	81A36A4F
+02662af5700ba779e1739f24bf08bf77	Hi-Com 3-in-1 The Best Game Collection D (KR).sms	8D2D695D
+5e23d4771c1f6ffa0de8e3632e822f38	Hi-Com 3-in-1 The Best Game Collection E (KR).sms	82C09B57
+1c921e5460b3c9928a3f83f8ce60ac39	Hi-Com 3-in-1 The Best Game Collection F (KR).sms	4088EEB4
+151a25c3909b75fbe674fc6cda85d9b4	Hi-Com 8-in-1 The Best Game Collection A (KR).sms	FBA94148
+09855174b67e481b13fc13700017b6d5	Hi-Com 8-in-1 The Best Game Collection B (KR).sms	8333C86E
+6c4729e7ac7b20746eba51ab16273945	Hi-Com 8-in-1 The Best Game Collection C (KR).sms	00E9809F
+0bb3238ac503ad1ac1d2cbd39c8ec7b5	Hitsuji Yai - Preety Sheep MSX2SMS Hack.sms	83F84CEB
+cb69ab346b97a7d9aa6f70c4caa74321	Home Alone V1.0 GG2SMS.sms	D4B8D159
+372b7edf08f3bc235ef5351c116e5c9b	hong_kil_dong-sms-kr.sms	8040B2FA
+ed46221c27c51aed46453c7385d37649	HonooNoToukyuujiDodgeDanpei-V1.0 GG-GG2SMS.sms	DBB95C39
+c6f964ef6721fc0f7d33b66c9ea6d433	Hook (Europe) (Proto) [tr Es v1.0 Wave Trans].sms	C4AD4447
+bc5399fc4f659d7982414c253e8ba477	House of Tarot v1.sms	FE6180FD
+362d04262374a376a9c2676225593e90	Hustle Chummy MSX2SMS Hack.sms	9E743ED0
+c06fa11763d119620f6a908516c1e8ad	Hustle Chumy (TW).sg	C4ED1FD9
+19a686b898e4e1809ede38d20057e83e	Hydlide 1 MSX2SMS Hack (Bad Control).sms	47FBF02B
+3d8ab6936257716642691b06bc37103f	HyokkoriHyoutanJima-GG-GG2SMS-1.0.sms	DFCEBCED
+f4c3887ffcf55590a894d2bb10dc7852	Hyper Olympic 1 MSX2SMS Hack.sms	6AC22B17
+c57a436117fbd27d2bd9a364c5641568	Hyper Olympic 2 MSX2SMS Hack.sms	ED860AB8
+7c6ee018022fb33ba0da7e2620c82c09	Hyper Rally MSX2SMS Hack.sms	D51CB0E5
+42e74959b7dd2215286bff8b27c6dddd	Hyper Sports 1 MSX2SMS Hack.sms	1D759672
+d6d3905cf28a59660db91f599e0ccda8	Hyper Sports 3 MSX2SMS Hack.sms	0F889D95
+ef89b321b312217e2458e9b2bc4961f7	Iga Ninpouten 2 MSX2SMS Hack.sms	02CFE939
+371a4e0468c84dea407a8670ac9f8dd8	Indian no Bouken MSX2SMS Hack.sms	51F4FAE9
+356aca79deafaac9759e5cc4c77f4f62	Iron Man X-O Manowar in Heavy Metal WIP v0.1.sms	DD174632
+1358cb1fff520435eab06be35640bf8d	IronManXOManowar-GG-GG2SMS-0.2.sms	ADBE52A9
+360a34b68c2e4a23b440753877ac49c9	IronManXOManowar-GG-GG2SMS-0.3.sms	7714E2E0
+e7a5ec4def23a4b2ea7e76777ccf2ac5	Issunhoushi no DonnamondaiMSX2SMS Hack.sms	EFA2A728
+8a5a310780ceb47b8f9a32ad2be0b38c	J.P. Winkle MSX2SMS Hack.sms	1F87BD61
+791076dafccea4cdb12810fc7c37e8db	James Pond 3 - Operation Starfi5h V1.0 GG2SMS.sms	F3830080
+355776559cfea788fa931d940e1e6c30	James Pond 3 - Operation Starfi5h V1.1 GG2SMS.sms	71BB012E
+f6160315a21d51352e50a4b0c3b6c6dd	James Pond 3 - Operation Starfi5h V1.1a GG2SMS.sms	D4BEF9E1
+5550826814c5f752c0de0dc41ff943a0	Jang Pung 3 (K)[h1][t1](Hack_qqture2005).sms	3EC688C3
+e8c74b74f9e1b2daf45fea1ccc9481ca	Jang Pung II (K)[SMS-GG](Hack_qqture2005).sms	4731F779
+c67c5f04519000394bd525eccb774958	Jang Pung II (KR).sms	929222C4
+5197fa742e2600df2595ba632200d3e5	Jeopardy! Sports Edition v1.sms	FE274916
+6ab6c63d8cfa1de927c82c613c72a979	Jeopardy! v1.sms	7066F925
+8bf3e7693dae0e620cef01a9bf113fb0	JLeagueGGProStriker94-GG-GG2SMS-1.0.sms	628518C7
+1ea5fdef46e36d557cde840db38edd36	JLeagueSoccerDreamEleven-GG-GG2SMS-1.0.sms	79B83F96
+769a81cce8c17d12f14e401123ebf2c8	joust.sms	9D94EF1B
+3007e293908c4ecac25f1a08bd0503cd	Judge Dredd V1.0 GG2SMS.sms	ECBCC846
+524cd38f69526930bf26eef1a8e688e9	Judge Dredd v1.1.sms	3C2FDD8B
+f979a2241393c20476f497299a597a15	Junction (Japan) (En) v1.0.sms	5EEF3A12
+07bb21acebddef7b88e4b59f624402e2	Junction (USA) v1.1.sms	C9A2E131
+341a44c612c248ad1240764b6f60c76b	Junction v1.1.sms	203F4ABE
+0e1756403d1fb7639a983eb1ce67fe60	junior-senior-move-your-feet.sms	E7024961
+4ee405c7b92445f7aad7fca90f8748e6	Jyankyo MSX2SMS Hack.sms	B36FF80F
+9663162c948120547643610af8351da8	Kageno Densetsu MSX2SMS Hack.sms	2150E16D
+574e0662233793dcb667ace0b2674616	Kaitou Saint Tail WIPv0.1.sms	690D3677
+64e3f3aaa6e2fa850a39a268f98e9eb7	KaitouSaintTail-GG-GG2SMS-0.2.sms	65871E87
+29505008d9ab3d3f58de2b1daf5175f1	KDE.sms	CB3EE0D8
+c22f3b845938898a4be327f5c6794b5a	Kenseiden (UE) [!] [T-BR] [T-devilfox G-POBRE] [V-1.3 P-100% A-2009].sms	19A2A40A
+d395201f79aa9bfca8bf5322feedce18	Kenyuu Densetsu Yaiba v1.1a.sms	55F39F78
+c401887560f538773410d377f6995ff0	KenyuuDensetsuYaiba-GG-GG2SMS-1.0.sms	4A73A61F
+7656e264a510e74cd76d9a14dc8db711	KenyuuDensetsuYaiba-GG-GG2SMS-1.1.sms	A045898D
+48334b7658eec9b450774fa2b767c948	Kick It MSX2SMS Hack.sms	8E557221
+6aebc9d78d72b8d3a5dabcf3d42be993	Kinetic Connection v1.sms	AE1E11B4
+fd4ba87ea96b05e98eb0ea251a4f076f	King's Quest Quest for the Crown (RUS).sms	2E0A53AF
+4fc79375b23f15193f971993fdd9ae91	King's Valley 1 MSX2SMS Hack.sms	292C47FD
+5b42339167e6bc5973471568170d7055	KirbyRacer.sms	AE70987B
+afdd18d9888c2686ab35e9165f4bf0c3	Kishin Douji Zenki v0.1 WIP.sms	7034EEEA
+e0321cd713ec1b48ff88f7df13e3ce28	Knightmare [Jumbo] (TW).sg	281D2888
+befbac1d4f08c4240cc27c85d8815d87	KnightsAndDemonsSms100.sms	BFC28AD1
+a41c09dbc6f425402bfdc7335c30db1b	Konami's Baseball MSX2SMS Hack.sms	73A53ABA
+3cfafb847b9e35fc2cc156c025c3cacd	Konami's Billiards MSX2SMS Hack.sms	52006201
+18b972b2aced60e3905e9bb4952c1baa	Konami's Boxing MSX2SMS Hack.sms	9CCA1D62
+c6bb7295db20811f781f63ca5be4b77b	Konami's Golf MSX2SMS Hack.sms	C0CE13F5
+1f548e405e431f0ae0e6449252cb211e	Konami's Mahjong Dojo MSX2SMS Hack.sms	029599B6
+4cc9072702591fa92624d9b08a796416	Konami's Ping Pong MSX2SMS Hack.sms	60A4496A
+b86b0848d2fb8a58f6701f16635fd86f	Konami's Soccer MSX2SMS Hack.sms	39A66226
+2483f2dd5dad38b2d17af5b3f38bec72	Konami's Tennis MSX2SMS Hack.sms	31EC2578
+8d28a7a08f721f17039188d5e52b8312	Koneko no Daibouken MSX2SMS Hack.sms	126D1844
+7aedc00c3422a1a506e6a4a23ad7cba9	Kung Fu Kid (USA, Europe) [tr Fr traf 1.0].sms	B7D7F6B3
+5b729bf1c1a5063f2415e8d482e4b750	KuniChanNoGameTengoku-GG-GG2SMS-1.0.sms	D8F13231
+469b835c18eebc4c146fc5f12c776c5c	Lander1 (1.20).sms	B6C0007F
+f74be34b3577eac8bf2e3ab801b79185	Lander1 (1.3).sms	E7887484
+a1c32e5580e07b0a543a8d12e05f24d8	Lander1 (1.4).sms	36B59545
+69cffe457261bd2fac217321eb5a5f09	lander2_v0B.sms	53E5726E
+d713e605fe9718a304c391e0c42c6cb8	lander2_v0C.sms	704F6A61
+9adb7130ce96233022a970c233534f83	lander2-v09.sms	9B040FC6
+85a7dcc261748637e6568490a5508338	Laser Ghost (Light Gun Port 2 Patched) Calindro.sms	69D639F1
+cfc8e61f51388609421ffe87539cad44	Legend of Kage, The [DahJee] (TW).sg	2E7166D5
+8472e545ed82528484eaa2672e4966ee	Legendary Warrior, The - Rygar.sms	3BD1BD68
+3da5f5122f3d94360de61bcb8478e169	Lemmings 2 - The Tribes [Proto].sms	CF5AECCA
+76713b2d722bcb5e3fe17ade2ac5d1d6	libctest.sms	8D7A5D7D
+66192a925bcf6e76c63667126709e97b	libreway140616.sg	2453064D
+5d1c652a83ecad2e7b7b9417cc8ca15d	librewaysg140622.sms	DC5670A4
+712e5573f80c54a554be2210bcab94a3	Limited Chaos 1.sms	BE7238BF
+a0b153aa8b1429ae97cd23864decd41d	Line of Fire (Europe) [tr Fr GIX 1.0].sms	ED51FF6C
+b911f904c6a8935aeefaf2c3a437eb05	line_irq_test.sms	11E8CF00
+76fa81a06be15517abc4cbcc44ff0a47	Lode Runner (Japan, Europe) [T-BR] [T-Patryck] [V-1.0 A-2016].sg	08840700
+822fd63c2824e4b13c85deb99ca252d3	Lode Runner 1 MSX2SMS Hack.sms	B8BABB3D
+f531b2715fe8cd0884681161ecedcb78	lorez.sms	C8D73701
+0e29668b536503d53813fb91f624d8f3	Lost World, The - Jurassic Park (USA) wip0.1.sms	33FDE59C
+cebe3c789ee38e7b2316169afd418495	Lost World, The - Jurassic Park WIP v0.2.sms	61C7BD75
+c028e8da6a355c1c93e7d1582b905bca	Lost World, The - Jurassic Park WIP v0.3.sms	1D1B876F
+d17726fd56914aeea2ae24b8824c0d95	Lunar Ball MSX2SMS Hack.sms	08F8011C
+dd6b620fc2e8f6ce8bf889317316ff96	Lunar v1.1.sms	85A52BCB
+ada943cd72a5bab080e83b179ee75bf3	Madden NFL '95  v0.1.sms	DBC73E55
+9cf41b67621868349e1a5d1770f8892e	Madden NFL '96 v0.1.sms	D01921AD
+6fb5456fc0adf0d456943a7024268931	Madoh MonogatariI v0.9.sms	2416E814
+f650e3dcf85aff213201234ffe1a2a00	Madou Monogatari A - Doki Doki - Bake Shon V1.0.sms	9E347AD1
+6df327128743ee7fbe7cb3914443a353	Madou Monogatari I (EN) WIP v0.1.sms	1D0B30A3
+feb50bb80d1c4a1a68ebcef50bae76ec	Madou Monogatari I (J) WIP v0.1.sms	04FC0F6D
+1742e24cc85fe9aca9dc228fbc914ade	Madou Monogatari II - Aruru 16-sai (J) WIP v0.1.sms	DBB4B019
+fec0c599b1e92631958957db868d84fa	Madou Monogatari III - Kyukyoku Joo-sama (J) WIP v0.1.sms	58277B26
+887e8f332972590eca42c018416f86e5	Magic Knight Rayearth 2 - Making of Magic Knight V1.0.sms	2D18C0A2
+aa062a4ab96f16df90bb8e0a1b2c8564	Magic Knight Rayearth V1.0.sms	2319699B
+6c4528621b66051a7b3dfc9871f71bc7	Magical Puzzle Popils v1.sms	190540D2
+17ff519a4e38dfef1937ff2a2811bf7d	magical.sms	F23E8059
+abb944a7ad3d6895adffacc871f61802	MAIN (auto move).sms	4CA2FE11
+32ac667a1c79c6f559be7e5f74ea2a4d	main (key).sms	05B0F15B
+6f00657d3ae05b86443120474e5cb3d2	MAIN(1).sms	69E612D2
+c7f1c57c0b238236b9b6880caeb0fbb2	MAIN(2).sms	AA0D0D60
+9f04202378dedf7d4fa1dc49d249584c	main(3).sms	FFFA5C6C
+52d12005460909e245e2b63694250fe7	Majyo Densetsu MSX2SMS Hack.sms	E70AE6E7
+a5a827582eb8a830cf93effb26bb1e82	Makai Retsuden (Japan) MD button A hack.sms	8845D9FB
+26cec63f56b5d8a83882951b76c7e1eb	MaKaiQuest-Mod-0.095.sms	996137E2
+1f975cdf71da0d7eee5ccdf6af817b9f	MaKaiQuest-Mod-0.097.sms	E27DC4F7
+79f85b6fcd844a2aa49a2b790ee7851d	MaKaiQuest-Mod-0.112.sms	87CBC4C6
+70b521438e1425e7135519c03e1a3d01	Mappy MSX2SMS Hack.sms	D939041F
+03cc958818f50033b3a62d719f417997	Markanoiiid-SMS-0.16.sms	411EA73F
+d6c15f1939281d78e3154791b95bf8f2	Marko's Magic Football WIP v0.1.sms	D202EF5E
+0ce68ed2420c8d0c9d27ceadc46a17cb	Marko's Magic Football WIP v0.2.sms	42395AF9
+371ff5f5dfafb0c71df97d23d6fb43be	Marksman Shooting (Light Gun Port 2 Patched) Calindro.sms	114F80A6
+02aef79d6593031e89d38c5a615f53d7	Marksman, Trap Shooting, Safari Hunt (Light Gun Port 2 Patched) Calindro.sms	E0946B04
+993d5e4d32aeaa205008c43bd02eff8b	mask demo.sms	798CE0AA
+f62c48336325d2541edfe037b15165f6	Master of Darkness (Italian Version 1.20 by Shion 'SMS Power!' on 5 Feb 2009).sms	83E3BC8E
+576161a0dd3f3ec5e48f347424a10a02	Master of Darkness (UE) [!] [T-BR] [T-Kratos-AM G-Nenhum] [V-1.1 A-2011].sms	CA3C77A2
+da639e773897ddc456224f87ed873b0f	master of the labyrinth1-1.sms	124C7B8C
+0046a074e1f82673c6837a06e1f90076	MasterOfTheLabyrinth-SMS-1.00.sms	6416F442
+bee2387b1008851ad6d678f1c38f6448	maze3d v2.sms	BD1A2000
+cb2e3aa0eca53a88ad3b958e3c0199bb	maze3d.sms	6A17C1A7
+a147b084aaf0656a0d1b2f4ff72770f6	mbplay_v02.sms	15889774
+a741bfc6ffe1efb6fabb13cd763638b2	mbplay.sms	25789CBC
+d736dc90807bea45e2dc7aa3ff2e8be9	mecha8_demo_smscompo_1.00.sms	BC284AE0
+9d369e367b84b87954abeeca240155c7	Mega Man (USA) [GG2SMS v0.55].sms	04D871A2
+946a72b3ee2e9b259f09d30f3efe17e2	Mega Man 2 (0.15-src).sms	C17580F9
+10ae226e48fdc4eda4b3ca6455a79cd2	Mega Man 2 (0.3).sms	2F728898
+d37e84a2b2114425c40965f47b38f184	Mega Man V0.53.sms	4C1BCB3A
+ce75c1de16db3397893c437289821d99	Mega Man2 (0.20-src).sms	7CACE782
+8ebd3a061ccc26ea6758b90a2c16cd55	Megaman [GG 2 SMS].sms	0FA72ABE
+420ce4710951d43e29cc3cf875ed7429	megaman2 0.02.sms	1E3DE279
+a656ba673856fda60e87a0e8becdd427	MegaMan2-SMS-0.1.sms	625C8CC4
+105cc0dea9d742203eff97de77badba9	MegaMan2-SMS-0.10.sms	25F2A8B8
+83f49cd1e1f8225c5f2ad76edee90664	MegaMan2-SMS-0.15.sms	4671891D
+194ae601b22723b0e73495405b4ad9b0	MegaMan2-SMS-0.20.sms	6F67D593
+9e69c84ff14f96116a08a8d082f1b567	MegaMan2-SMS-0.30.sms	3FEA51E5
+49b1fbf044342944be67576a8fe0b6bd	MegaMan2-SMS-0.32.sms	B621DEB0
+4f5fd884a1985d9705fce8e6d515d9eb	MegaMan2-SMS-0.33.sms	B1132490
+0a6c9883987f6b7f2adfe9bef64fb12e	MegaManX 0.01.sms	1DEDC849
+070964a9c6f783c3978700470cb4d9d3	Megaro Polis SOS MSX2SMS Hack.sms	9C70A3D3
+2ac9400f39c777fa1d2327e20773a7b1	Megumi Rescue (J) Genesis Controller & Region Patched v1 dplc81.sms.sms.sms	46848BB1
+9867fd8bbe1bdbe51d54d1d035fcc026	Megumi Rescue (SMS Control Pad) Paddle-to-Controller Patched.sms	9820E956
+01666fbe044f4cb71766b4431bee68c7	Menace.sms	BB867E2E
+4d3b308986aeff22c71650f8d5fba6cd	Menu.sms	241F2707
+eb158a1a2b8e40fa3ede84c54d3f5dd3	Mickey Mouse - Castle Of Illusion (Hack 1) (99 Continues, 9 Lives, 5 Energy).sms	097F828E
+98c823cca9608a9e4eef17c91bff869b	Micro Machines 2 - Turbo Tournament v0.1.sms	B2CB3493
+fa187eb7621882091aabe1005ad4bdf7	Midnight Brothers MSX2SMS Hack.sms	F3D4D15A
+78103820408ecf3affd27baadc003dda	minesweeper v1.10 (2014)(Eric Fry).sms	1D918134
+1dd4ad3c67f445afd716892146791374	Mini Golf MSX2SMS Hack.sms	BB301972
+8cec2bd0f29234f4236dd549e6a4b23b	Mini Tower Adventure MSX2SMS.sms	CCB74E05
+38ce033213e59e96d94457840ddb0477	MIR Example.sms	B888F8D6
+f75318912bf0bb45b9b9a16e2ecb3502	Miracle Warriors - Seal of the Dark Lord (USA, Europe) (Improvement).sms	4F50B42A
+17877af4c6d44b9dfebf0f95797dda08	miracle_axe_005.sms	1AF42EF3
+fff80b8046aae8fb866fd0cd53aa9cee	Missile Defense 3-D (Light Gun Port 2 Patched) Calindro.sms	F5A6BA5F
+523e638b850a53057f96e55d05335b32	Moai no Hibou MSX2SMS Hack.sms	9FC3A9D2
+a73cbcddc55a8df646c9bd9ea33b3c73	Mobile Planet Suthirus MSX2SMS Hack.sms	A3C70D24
+e33a78288cbb18b15ee1bc380f1b0943	moggy master (1.00-src).sms	039539DF
+36e35c0cf1596a906e02b102fc7e4f9d	mojon-twins--super-uwol.sg	5836B02B
+9f53dbd8adb21a7bfa2e138d21f35b67	Monica no Castelo do Dragao (BR) Controller Patched.sms	F4422C9A
+f5e603845b9cc7c07c316d649a1bb3d9	monkeylad v1.10.sms	9EA76E95
+ba222fa289ca54ded1f49cee8d6f47cb	monkeylad_20160412.sms	9E1D5DF6
+fa5adf77271fef777124ec2d6bf5ed6c	MonkeyLad-SMS-0.2.sms	6E09AD59
+dc70b283a326d87885e469dbaf674202	monkeylad.sms	97FC4A64
+7d27d0379c0d519dd21fc62dcba5e5b9	monkeylad0.3.sms	FF22DC27
+cbf5cdd57d35711d65a42e76b10d8043	Monster Truck Wars v0.1.sms	13D6E601
+1f1817f1e44d28822b3c7d848020b753	MonsterWorld1_UE_01_RAM_DUMP.sms	9F78C427
+40a1ea3809744417bf28f3c82e341d02	Montezuma's Revenge featuring Panama Joe (USA) (Genesis Controller).sms	8FC6BB9C
+8a590bff739700171e5996c9dd4e01ae	Mopiranger (KR).sms	B49AA6FC
+4b30c1077747166b98408807bd3a12bf	Mortal Kombat (E) [!] [T-BR] [T-ØX-Carnage G-Central de Traducoes] [V-1.0 A-2006].sms	7BD8C19C
+c83dd8a4b015cd7fa379aa9df46e8e2f	Move The Character (1.3).sms	AB8B6B83
+f5b18aabb27ed03d71e01bd5000efa5c	MoveTheCharacter-SMS-1.00.sms	4E6CDA83
+5ae6f9a1f9c2f33b98df7cb95e5dede6	MoveTheCharacter-SMS-1.1.sms	AAA6AF41
+91686413100f0920a1891d2b5b34eb69	Mozart's horn duets.sms	A7000CFD
+45897f9a9ad9b04813fb4e35ed6e6535	Mr. & Ms. Pac-Man (Fantasy Zone Maze Hack 6) [!].sms	10A18EB7
+08193aa4704d7c0f0e742f35abfe2efe	Mr. Do V.s Unicorns MSX2SMS Hack.sms	FA56E120
+b1e58eafe066e6400e0c463df7916195	msicmodule.sms	059E21A4
+827b218c8efa7db1c4bbd74547735a75	MSX Soccer MSX2SMS Hack.sms	0580583F
+c5d63464fee0a9048b747f20204ea03a	nachtwanderer.sms	DA470080
+07482bddb9640cbf4705d1e1e7bc7909	nachtwandererunpadded.sms	E28294BA
+d428a7c929d0d9ec621ec847095d1f37	Nazo Puyo 2 v0.9.sms	A0715293
+4d444f1f1f40215bbcf321820a3c31ed	Nazo Puyo Aruru no Ru V1.0.sms	6AC492BE
+79b90392e33283580eb40c0fdf1c6c95	Nazo Puyo v1.sms	AF6AE49B
+dd42041f955781c605cd3f1c09a28563	NBA Action v0.1.sms	BEB5131B
+f6b084c626d96f4d48203caaed0ae6b1	Nemesis 2 (KR).sms	0A77FA5E
+1c2e32b3526ccd917b99f357f934a8cd	Neo Pong 512 (hardware ok, no sound).sms	D24D84AA
+5e186a8ac5b15a64c45bfd3fe2d2d741	Neo Pong 512.sms	71A05215
+2db241a1a17c5f1730986e210df2b161	NeoSEGA4Menu-v1.0sms.sms	041D1058
+a0e8ee9c8b1773394fd128bbf09a8bf9	NeoSEGA4Menu-v1.10sms.sms	6B1C08D7
+190edbaa2be6dfb78c36be66c058c509	NFL 95 v0.1.sms	42071ECE
+27a8b92c70aa78acc7ca7aac7478f498	NFL Quarterback Club '96 (JUE) v1.sms	E130321E
+98f26c33b9e4b8d54cbaabe2f6ab32c5	NFL Quarterback Club v1.sms	8A13D2C6
+824d0306b1997b8f6f6716777279bea1	nggyu_v1.sms	4B599E63
+bc3b709fdeb2b53bcea3ce9a7c1909bd	nggyu_v2_4m.sms	290AB11B
+15cbc1cb3bd5866856f2f31597b3e69b	nggyu_v2.sms	69B68BB6
+b420cd951180b896c8c26fedebcd5d36	nggyu_v3.sms	02A6FAF1
+4da97465239ebe475e8bf1d49e51da8a	NHL Hockey v0.1.sms	A616C44D
+eb4f925ef1c1b351877269d72d1a7b0a	Ningyo Densetsu - Fathom MSX2SMS Hack.sms	B80CC7A7
+d1ea9c897613c7d26f34bf0c1c42a95d	Ninja Gaiden (Spanish Version 1.00 by pikachumanson on 3 Apr 2013).sms	3B016EEA
+e405a7689fc806e683a4199520563492	Ninja Gaiden v1.1.sms	5280626F
+ea6294b105f977eed34a17887de023fb	Ninja Gaiden v1.2.sms	244BC257
+a22cf82a9ab1c4f4bcc8679812a4ed9d	Ninja Jajamaru Kun MSX2SMS Hack.sms	624E60EA
+ad720cc5ee1e805609a185c3949a4fde	Ninja Kage MSX2SMS Hack.sms	3EB45354
+2391b6414811d2a12fcbffd436c5ca28	Ninku 2 - Tenkuryu-e no Michi WIP v0.1.sms	2D631CA6
+aa7e476063007de65c98e8f647ef5a95	Ninku 2 - Tenkuryu-e no Michi WIP v0.2.sms	20D585D8
+033460a1ca7646a5ae5b687d3b8abbe9	Ninku v0.1.sms	E94BD2CE
+334aa0eda36439a7c00ed67330364c7e	Ninku2 WIP v0.3.sms	6C814FB3
+8974f97a0c9ca476fbf1766700edda25	npong.sms	D0D93AF6
+2d3150a4e3e3f7b076e1274fb627fb0d	Off the Wall [Proto] v0.1a.sms	DE196D9B
+9f7f7e63065ec272b81530463200c445	Off the Wall [Proto] v0.42.sms	1574C0E4
+e9a86814bf72196447a596cbe3bb918a	Oil's Well MSX2SMS Hack.sms	7419A81A
+4c5fc2aaf05fa0f8c48cdb79e23b06ee	ono0.26.sms	D0219955
+1f804e116d592042967acde324426487	ono0.28.sms	72AA7A75
+bca354e446b496771e857abe831d3a74	Os 12 Trabalhos de Jongo (fixed).sms	B5D5C5B0
+3494d62a864b548db81456971b54c540	os-jap-tst.sms	85686685
+0eb8b6b0492ddfad6b085eb226ad9d97	os-v1.sms	3257FD1D
+13763ffb0e834751b32cd20bab9e8eea	os-v2.sms	FF59257F
+9bb28d42bf309e71ff5f4ce148ad899a	os-v4.sms	D2732981
+1e37873f1d38209c3e2097a5ae2cebc5	os-v5.sms	6B583A37
+5a430f9d20219f7d31ce5196c8e0d253	os-v7-beta.sms	5228537E
+1cc4ffa93a4bfe4822e9b8091efdc33a	os-v8.sms	2E50D074
+a6dad51716cc9d0bd60b19596a6393a9	Othello MSX2SMS Hack.sms	B55FBEB0
+efc248f279e442ebdc650d3ec0f051fa	output (1).sms	E04B13FD
+2bba809fcf5408974980458a66e26bff	output (10).sms	09A505DB
+29cd1cad7a0104418efb8c3daa6c9d66	output (2).sms	F0898A69
+e7368ddf8c3e6513b19554817ee74c34	output (3).sms	DE4D4681
+ba3bd5dec4afb314cabc41f22242a0cd	output (4).sms	53828EB2
+8ebc33dab98dd9ce010b07e48d311b9d	output (5).sms	95C16176
+669c096237e8221adb0d083384f7ebac	output (6).sms	BC99402D
+4e8e47198419578ab8e4b81010f1163e	output (7).sms	5D59CAAD
+0e5f6dd68dd72a13800a8931ef90e668	output (8).sms	10203F0E
+6a7ca05528b432aa83cc55f2a11294b7	output (9).sms	08656F83
+3812a883c1f67a57c3c89d03af75db49	output_bit_test.sms	7896C3A1
+7f1246287b8bcbbc0ddd14124314ab71	output_final.sms	CBD52CFD
+9dc60c56d8a7826acdf429dd974bf11d	output_Pargo.sms	74DA0373
+87cc5d7f89615289233e92004ef5b4c1	output.sms	23A10DBF
+44bf4be8cca0a23533036672fa1a7e3d	OutRun Europa (E) [!] [T-BR] [T-Lohan G-Evil Darkness] [P-100% A-2001].sms	C88CD2A2
+e19509f86cf9740b761fed3df69e3cf5	P3D2v5 Sprite Highlighted.sms	CB6319D2
+2296a1b9d9420dc59ccbb55ad0397176	P3D2v5.sms	84D540A5
+741b824c4017b3d562a33aa00bc939c5	Pac-Attack (U) (GG2SMS) (1.0).sms	C57CD3F1
+68be45cdb0a938b6cce88a380372118d	Pac-In-Time V1.01.sms	5C547A12
+2190bf20691450f8c8cfdfff1a620520	Pac-Man (Japan) [Port by Chris Covell v0.91] (Game Gear to Master System Conversion).sms	AAEB0EBD
+403b9b2cd480c5161b3a05b52e38029d	Pac-Man (U) (GG2SMS) (0.91).sms	4AE3261C
+10c3093e911b03c28887bed279952d30	Pac-Man MSX2SMS Hack.sms	FDAA44C8
+32ccf181ad0e28fb0e135b880e315c75	Pachicom MSX2SMS Hack.sms	4286FF52
+389f32004ccba82d759113971ed7c3e7	Panther MSX2SMS Hack.sms	7BDF09F1
+444322130849467e7fa7d251fbb658aa	Paperboy II v1.sms	0D491508
+c79346ce3b08b732cb65e1c56e062c4b	PDMplayer.sms	33CD8DF2
+26ca778a82232d6301d7aad91b2ebfeb	Peek-A-Boo.sms	22A5828B
+555c95461a93c23aa5aa5fb0367311ef	Pengo (J) PopCorn Music v1 BcnAbel76.sms	8D5348C7
+fb469b47cc5f525cb91b258dd72ce3c3	Pengo (Japan) GG2SMS-1.0.sms	3BB9E266
+44cf11a8a393571b2f4391e9cce0088d	Pengo (UE) (GG2SMS) (1.0).sms	C466C41F
+bd812d3890b3f702a6c6ec4a2acb1def	Penguin Land (UE) (Playpal Version) from 20 in 1 ROM (Expected to match).sms	B9A3EBB7
+d8fea60ac63ff5e49c291f9f7b405e0d	Penguin Land (UE) (Playpal Version) from 20 in 1 ROM (Way Over).sms.sms	8EF48145
+014d92ca489c2633e2516ab7c38f7851	Penguin Land (USA, Europe) (Genesis Controller).sms	CB437BC2
+3d73db6d685e577983432fc3061fe6bf	Pet Club Inu Daisuki! v1.sms	3771FE9B
+3163ee591099a8f2e71d60e990b5c345	Pete Sampras Tennis WIP v0.1.sms	043EEB93
+83fe5b8e662fe23fd4ee272b3891d7ba	Phantasy Star (English Version 1.00 by Paul Jensen, Z80 Gaiden, satsu, TheRedEye, Maxim 'SMS Power!').sms	2966CC93
+2fe65259ceee98346d0ac2d06cf8e00d	Phantasy Star (English Version 1.01 by Paul Jensen, Z80 Gaiden, satsu, TheRedEye, Maxim 'SMS Power!').sms	E3CC61DE
+d6796b6422c834efc183133286705473	Phantasy Star (J) [T-Rus1.01 Chief-Net (16.11.2014)].sms	0CFA76AB
+5ecb5172f7b1b88da6221fb2f8da6ba6	Phantasy Star (J) [T+Rus1.02 Chief-Net (06.05.2015)].sms	73CE0028
+5dca9af24255027cfc7616787cdd6008	Phantasy Star (Japan) [tr Fr v1.02 SMSFrance].sms	77076F16
+7fa04b1c539da5ad47a7fa040c92d96b	Phantasy Star Adventure (EN) v1.1.sms	9A34F904
+8111514b695b70b4616570982023bad4	Phantasy Star Adventure (EN).sms	00080A0C
+e34ece877d6af09c4334a191ebffa12d	Phantasy Star Gaiden V1.0 ENG.sms	ED1CDAD2
+80fa907938f36953f0071cd6039a53fe	Phantasy Star Gaiden V1.0 JP.sms	E2A4E9E8
+9cdcc958c81ed67453de60f8d3a83750	Phantasy Star.sms	29F5543A
+9e4fea613cd8bda04295a81b8b82c930	Phantom2040 V1.0.sms	F81A3DFC
+707042d230d0663cfe81369c316db535	Picture Puzzle MSX2SMS Hack.sms	F884BBB1
+2e3752c80d79f4c2f7ef4b6c62b393ac	Pinball Dreams v1.sms	9B1E554A
+2b99db5c8a7a9a45c174088bab310803	Pippols [Jumbo] (TW).sg	DF7CBFA5
+9c0fd73d8cc4d15eeb9b31f65db849fe	Plug me into a Sega.sms	EA0DC111
+46c7d4a883714335cc433ad69a6d7310	pngmstr2 (2).sms	AE89C9A2
+10fdbd195990ee056d65ef98896508e1	pngmstr2 (3).sms	314C7D3B
+484d030f18e0f62dd59f50fd38d888be	Pocket Jansou v1.sms	76E90ECC
+b6358a8ea7acbcf24447ed4e1792a94d	Pointless Platform.sms	E52448CA
+101ae678cdc0cbe72f5504d77ce66fb6	Pointless Shooting.sms	C4E4323F
+00ca53c2f6b5cba8cc9c3ae18fab0c7d	pole_position.sms	5BB56085
+dc6ae716030d446db34da893a6768ca7	poleposition.sms	33293F50
+5a01f71dc242af96c749d392d4fb0016	Police Story, The MSX2SMS Hack.sms	30014F39
+69d726be0f23ad2029bb5a65534c853b	Pong-SMS-0.2.sms	6E20D157
+0f9460b02cdda60c8fc0fb095412f5c4	Pong-SMS-0.3.sms	68D5F8D3
+e781d74a97c71185ce0bbfa54ef6289d	Pong-SMS-0.4.sms	E1720D8B
+3a04b6660ec80ea79af19b9ec65c6fb8	pongmstr (2).sms	194E48C6
+dff6127754834b3454ec22868e29e016	pongmstr (3).sms	EF681314
+b739a2643f9c1f4d805119491cc287c6	pongmstr (4).sms	7ABF008F
+3a820da25e5367206025db0e2e3804d2	pongmstr.sms	8D38C4AE
+76d7ebd5df542b6dace21529c4b200e2	Pop Breaker V1.2.sms	70F930E7
+3b4bcaaa2160d2ec49b0f97319142dbb	Popeye's Beach Volleyball v1.sms	AA50D7A8
+894ae4878068de10b1796f6d985154a5	PorkPolis v1.0 (2014)(V. Crisafulli).sms	929F5D71
+b1dd9097626b854115e9830bda39bf95	porkpolis_02_17_2015.sms	2EDB8B60
+24bfd66c217d5ac7f6a5cb52b845d6b0	Power Drive v1.sms	D3364534
+f7efe604afb1f8f35733525207e244ba	Power Rangers - The Movie v0.5.sms	AFE82254
+d0f98a3652fc1d4b82fd9ad7fdb5d446	Power Rangers v0.5.sms	2ACDEC3A
+fd86727bcbbd4b45256e6067cff3a2c6	ppolis128kb_02_17_2015.sms	D58B5423
+5574ac6fce7f647ec823e3503b2930f8	Predator 2 (U) dimished blood hack by QQture.sms	EF9BD8C2
+aa5985f7b8910f25445e3fa4a99ad545	Primal Rage  (USA, Europe) v1.0.sms	4405645E
+1845c090a267737e1164a898a08166ac	ProjectReikoV2.sms	61EABF3D
+665fcd4a87591bdbf3aefd1bc6e143ae	Protector, The MSX2SMS Hack.sms	3AE35AFF
+3fb02562593e0ce02dde64489bdf7351	PSG lib demo v1.0 (2014).sms	CC9D47A4
+bd6f94e70b39f8b8965c4ebd14a8ba28	PSG PCM TEST.sms	D5D75EF1
+738d3c935385bdc2da56e4f45497ecbb	PSGlib_test.sms	71253E05
+6fade963a710d9209db63e1b045b89c9	Psychic World (EB) [T+Rus1.00 Chief-Net (07.05.2016)].sms	B2589EED
+7da83b5d12208adbcded8355b6076e9a	Puyo Puyo 2 v1.1.sms	D5666F14
+62eb1d8abfee800db6a98564b1c240c0	Puzlow Kids (Puyo Puyo) v1.sms	718376C0
+18c375773b7bc07ff5503ccf7fd5fbf6	Puzzle Bobble (Japan)GG2SMS-1.0.sms	A34EE9DC
+3ac7529e722f2088ec6d7db18f3d2391	Puzzle Panic MSX2SMS Hack.sms	5B755FBA
+a91f391932fc29d1961c532f25f4865d	Q-bert MSX2SMS Hack.sms	0428994F
+2b39ac5ff51179d186086631f1340b1e	Quiz of Gears, The v1.1.sms	4D37BC19
+53c0b6029da6a0a66f90ee0181fa1b43	Racer (rebooted).sms	4F6EBFDC
+a5830b14a3be5b5889d0a7c46badb541	Racer_1.12.sms	192DA2BB
+db267bf0f21380d3560eb3c4a20251df	Racer_2.00_beta.sms	84FB757E
+e79c3e900eec229ffc8ca8870af174e0	Racer-SMS-1.00.sms	1DE6D729
+370ca6daf4dd0eeb7a7c7e13c2c2a4ea	Racer-SMS-1.12.sms	DAD7C8AF
+e39681fa71c8bb1ce2710e111e58ddb3	Racer-SMS-1.12Easter Edition.sms	4E17F630
+b9f338bcd67763ecd935ef03c117abc0	Radical Rat SMS (0.2).sms	61D9677C
+be45c5218c5cde44275ed6f2f67444c7	Radical Rat SMS v0.3.sms	71047C02
+663d82c7775d4acb9d78a4fa8be0be09	Radical Rat.sms	E4CACADC
+cf0c3ade9a352e3ce93050112172b65b	Rainbow Islands (E) (Fix).sms	6BB28E77
+42f2844dcc4b3979b7f538ef9f52e4a5	Rally-X (TW).sg	AAAC12CF
+3071f939aaa0911fc0907aae5daaa160	Rally-X [DahJee] (TW).sg	306D5F78
+d78cebe17b553a5c77d8c97f4acb4982	Rally-X MSX2SMS Hack.sms	AB48C360
+e2cc303b905046d5a34cc88095f0b471	Rambo - First Blood Part II (USA) [infinite lives and rockets].sms	2FA2F595
+61fee2205721b8e038df33ca8d4ac7b1	Rambo - First Blood Part II (USA) [speed-up hack].sms	BCB4361D
+02a407f64a6b33d2b3005ebdc6328357	Rambo 3 (Light Gun Port 2 Patched) Calindro.sms	4A942357
+d15af3371bc857d844113d594f269468	Rampage_2.sms	E7EF6A17
+ff6cfa57f4d9643d65cc87f1457b1930	Rampage_3.sms	A921C584
+b3efc7fd0495cef9562aeb2367c69952	Rampage_4.sms	F85B0FDF
+8bb106c3e99b2391d454e62605fc3c64	raycaste.sms	3EC880C7
+8e5feba46224d0bf4b33ce38ce5e8eaf	rel-sample-NOT_TRIMMED.sms	8A2BFF70
+7a7c3769d6e27f7d2803679d2ed66f4b	rel-sample.sms	F8DED8DA
+6a0158fc68d0d732f2a446e765a83bf3	Rescue Mission (Light Gun Port 2 Patched) Calindro.sms	AB27A4D5
+509db7355f205089357578bd212cf9b3	Riddick Bowe Boxing (U) v1.sms	1921FD50
+f8aca51977ecb2a2ec50c37728c78f45	Ristar - The Shooting Star (World).sms	5C483881
+0013262caec9c424538bfae9a3198f0a	Ristar the Shooting Star v1.1.sms	6D9BE17D
+814f4dfbca12faf36d75831088406de3	Ristar the Shooting Star v1.3a.sms	362250EB
+eeac8045a398b9f384ec0161bcecab4f	Ristar the Shooting Star v1.4.sms	4EA32DF8
+0e52a43c9a02ad26e2526706091dc78d	Road Fighter (KR).sms	8034BD27
+be975a2510125ff4b545bb162826ef26	Road Fighter (TW).sg	D2EDD329
+e872bbe06fcee32e53fb9e11b61fe762	Road Fighter [Jumbo] (TW).sg	29E047CC
+7e81bb367778d9c50460ef07a8b89477	road-blaster-0.01.sms	B4E626E2
+0cbbd9fafc39cccefd8d0b8fca3b3d33	Rock n' Bolt [english logo] (TW).sg	09A82AF7
+545754ecfff555d41841a925489c3687	Roger Rubbish MSX2SMS Hack.sms	1421B328
+3a1e7eac593fbaeac705a60aea4d99c8	rom(1).sms	3B504AD2
+ab62af9edce9a6707ef7b7eac0eef36f	RoyalStone v1.0.sms	8873E5E9
+343f4f9e15a35cbccc0718975eae34e8	Running Battle (Europe).sms	708B84FD
+5684db6cd83ede2bb1554b3088d1ea46	Ryuukyuu v1.sms	74C64832
+39d12aa13d9d0c8cd66d575b56163067	S.S. Lucifer - Man Overboard V0.9.sms	128A4422
+f2a52f2c3a385d1d27e37060333bf2e3	S1built [bad].sms	BF7EEA36
+c325499b5a37db8172853d9a8d1dcc2b	Samurai Shodown v1.01.sms	807F8205
+dd6216e1fa81d209c892a547e7b65186	SC3000H_VortexBlaster.wav	242851DF
+6e26c205873f9dd814c7e4c5db7595d7	Scarlet 7 (1986) (Toshiba Emi) (J).sms	8A8BD375
+4a5ad8ab2ec9c94e21ff1b0bcb86d711	Schlange CV DEMO 1.1.sms	99929833
+faf748e441bfa1136aab466fc94e312a	scope_08202016_RELEASE001.sms	C6BF7709
+8e9b2a4956b3e420f9be8d83431f1429	scope_09172016_RELEASE002.sms	CAFC5493
+a541da2ea64c4b7203be3a7c918008da	Scramble Eggs MSX2SMS Hack.sms	EC5D6511
+6ea78dc8dcf1869574a9cc56f40f65c7	Scramble Spirits (Europe) [tr Fr GIX 1.0].sms	3FB297E0
+9762c7b28fc58caca8178850d5dc4e88	Scratch Golf v1.1.sms	30EB99A6
+4b66fe6dabe1b042b0bd3657254cb2f1	SCV.demo.sms	35E29438
+36549a5bb91f2f8e8704aa2e15d96634	SD Gundam - Winner's History (EN)v1.sms	D58C0EE0
+0d9fe556bedacbb86c5b529f09490b95	SD Gundam - Winner's History (FR)v1.sms	8B59B6C2
+e41c3d02df64fb0030806c87027d4050	SD Gundam - Winner's History (J)v1.sms	5201A9C6
+6e6c89f69d7b99b5cc1955e3af870d69	Secret Command (Europe) [speed-up hack].sms	6CCDC3E1
+f5753f9ee4354ed24d0bc653b35f8760	Sega Game Pack 4 in 1 v1.sms	C6131830
+53f470aa1c9c24970db0bbd23f2f7cc3	Sega Graphic Board v2.0 [Proto].sms	276AA542
+b90d932d28f185c1b6d90179785ce6a8	SegaMasterSystemYM2413FMTool-SMS-1.00.sms	596A53E4
+44393394724bfac3ceda4df820f982e9	sgenc test Maxim.sms	4D03E965
+12f14e342c5d9ff53b83d0c232441177	Shanghai (USA, Europe) (Genesis Controller).sms	91387E3F
+f9114ef9fb3256c9a67986a3b707b6ac	Shanghai II v1.sms	A3852ECB
+b5e4ed56b1956a5812e93145245041e1	Shaq Fu WIPv0.1.sms	52531898
+e3cf1c91af9389d1ec0113a2121520b1	Shining Force Gaiden - Final Conflict ENG V1.0.sms	E476F7F8
+a341c3b2a09b2ec0d507ef88c11f013f	Shining Force Gaiden - Final Conflict JP V1.0.sms	96388533
+ca8be3513af9a3ee40a1af9362f1fb47	Shining Force Gaiden II JP V1.0.sms	F0F91EC0
+372e4ddfbbae6122b4d3b035d973b1d9	Shining Force Gaiden JP V1.0.sms	5E6343FC
+761d1d6806733cf06b7dfcc655d9901d	Shining Force II - The Sword of Hajya ENG V1.0.sms	7E627D63
+78099c669f9961e4433d21c68f898cd4	Shoganai.sms	817A466D
+bb7fd942f4511843e862eb6cf79d257b	Shooting Gallery (Light Gun Port 2 Patched) Calindro.sms	9E882B05
+e99232d348b290e7bee1b2df18be67a3	Shooting Stars (1.01).sms	D0955EB8
+1fe9ef61f28b7c37dd85edda00464116	Shougi Meijin (1985) (Toshiba Emi) (J).sms	F16B7160
+e246b5adee025f41a82969dde0b2fbb5	Shougi MSX2SMS Hack.sms	A487F874
+acb26c13bfca1abae0b08fd29197af17	Shougi Sinan 1 MSX2SMS Hack.sms	A2BE7DE1
+bc9ac19141be7b0e74b8a417cab64ee7	SikinJyo v1.sms	F670D70D
+d7f94e3ce80dcb7539e8adc219038d98	simonthesnake100.sms	9E158A4A
+d33ac395b3d49346e5dcd18eb6da8225	Simple BIOS (1.0).sms	935DCA5F
+e65eb1ceef1a13252d7e6755755c1b00	Simple SMS-MD controllers test.sms	36042E51
+a36a6216b0b127329b0d447e03d1879c	Sinbad MSX2SMS Hack.sms	0BD3AE63
+d572205e0e58fc2709efab8cada4c553	SkiMaster-SMS-1.00.sms	8D93CDD2
+d9daa7698fabee2712dcde00e7d48ae6	SkiMaster-SMS-1.01.sms	E8FF9180
+992a8d5df51a0f5f1d9be38ab32860e0	Skweek v1.2.sms	C91DCB8F
+5c6d01e7534726e02f27664c44c491d6	Sky Fighter (KR).sms	77BA2667
+99b592110e79e858580364cb85ab416d	Sky Galdo MSX2SMS Hack.sms	1C9EDF3A
+19a825bd9210ce0ff84cb883c750e7fc	sky_jaguar-clover-sms-kr.sms	E3F260CA
+2c1711007f0ca641ac589e2081da1961	Slam Dunk - Shouri he no Starting 5 v0.1.sms	45569C90
+ff5f9db3f4fc697c78c3287270bfc8ef	Slider v1.1.sms	7EA8E08F
+8477cf93491be4ec0e55aabee411e52a	Slider v1.2.sms	94A1F113
+062c5c79050308edd87087d18210738a	Slider v1.sms	22ECF97B
+bf157ffbde7517a2a7c3dac9370cff0c	Slime Center OK.sms	F540814C
+364527f5ae8efbff5cfd47d20f073bdc	Slime Center.sms	56AD57F3
+9f531a5b7cb74cdf06971ebab88d7524	SMS FMV Demonstration (1.00).sms	63C8AF34
+5f9f6f7c8942982991cbceb2c2a04d9b	SMS FMV Demonstration (96) (1.00).sms	837DF008
+db86c5f9d328404d3b284c455535fa2e	SMS v2.0 BIOS - 32K.sms	02AE5C6B
+4a7fe01f4af323f1244de62952de0b8b	sms_apa (2).sms	E4CD2EDD
+bdb34f2c471e5d0c358eeec621f9d029	sms_v2_0-bios-sms.sms	B3D854F8
+4d9033d95cd3d48889a6cca0ccb5c077	sms-rogue-0.2.0.sms	822E11CC
+75e2087f228c2f03e65eab9d41fcc195	sms-rogue-0.4.0.sms	EDB23073
+fccb4663ff8e00fd940ff03dc6704e90	sms-rogue-0.5.0.sms	91414511
+74243811c654e9eca85596000c56731a	sms-rogue-0.6.0.sms	27A67047
+6c4f584dbdc96a31f332dce8152873c2	sms-rogue-0.8.0.sms	2390079A
+9273859fc6ac3aa2c80c414eb29cd38e	smspaint_beta.sms	C86D887E
+b2e0cef745e88650c3f45c0c7b7abd70	SMSPCM.sms	DCB2CEA2
+126be6e3fd2b67951ce8b978a9cfdfdb	SMSPCM0.sms	DB5BF5FA
+85f2d017d5bd37f29ebad10ed45ae659	SMSPCM1.sms	E05206A1
+82586120512d4675d3da092946c6978a	SMSTEST0.sms	6DAD68D9
+33460b2ca4c15bb65ef7329baed8e5ba	SMSTEST1.sms	01D7B152
+0bb0fe40b2b9c34b1338e7b4eb490ea0	SMSTEST2.sms	0E4317BE
+5c60c0c536a409d604e9bd8575626961	Snail II (1.02) (NTSC).sms	72AA347C
+c95a5a3ee1ada92f8dca76765e13b9a6	Snail II (1.02) (PAL).sms	70F8D0F3
+15199caaf7b46632e3acd99cfe26a382	Snail2-SMS-1.00.sms	4C69A2E7
+311cebf289fa29deceb5d6c9ed93f348	sokoban.sms	EED1F508
+8d61a00c8f247287176c29493107cd69	Solitaire Funpak v1.sms	C5E6FBB1
+ea0db2e369768608528adcf163ef0e87	Solitaire Poker v1.sms	08D4D240
+1f72860bdba8603be8479389a6363f57	Sonic 1 Autoscroll.sms	6579DD58
+d48e68eb1d35a00c7f911d215c23e163	Sonic 2 - Sweet Relief.sms	935DDBFA
+a27cf0b3efdc6ea640ed987dc56fc2ad	Sonic 2 (Multi-Jump) (Ravenfreak).sms	3E5B7F8E
+05fe509d53aac87c669b497f1bfbe2b2	Sonic 2 Fragile Edition (Ravenfreak).sms	76367A2C
+b6863960c659500994c9ea769ed08ccd	Sonic 2 LD EP01 -(R1 version).sms	E5274F0F
+d3538fb0c78d32291cc1429901f6476f	Sonic 2 LD Episode 01 - EHZ v0.92.sms	EF6B1352
+506d51daf7df81107806f5eb3bc2fabb	Sonic 2 ReMastered SHC2016.sms	462E4A7A
+7b395b6f3f0686fbe17e0df3aa634e4d	Sonic Chaos (Ravenfreak) (Hack).sms	E8136981
+6625ce29490d08236a0b9ff223e4cfa6	Sonic Chaos (Ravenfreak) (SCbuilt).sms	0B5FB118
+c9d18b45062abf0446ad8fe3e7b5dfa4	Sonic Drift 2 (Japan, USA) [Port by Shibunoa v20090705] (Game Gear to Master System Conversion).sms	37AA1C2E
+e9b8716186c53cdeb37a75ee26d6c513	Sonic Drift 2 SMS (20090706).sms	772FFB78
+69a0eb0b422d5668d3a3d56b1d1247d4	Sonic Drift v0.2.sms	F4932CB0
+82206664c98f5a6d0499929523947f9d	Sonic Drift WIP v0.1a.sms	68B91F71
+37f23107247f8dd110e3cda62d63e50b	Sonic GG - SMS Style Edition (Hack) v1.15 tailsnic.sms	8F544AFA
+2a443024832cb3d46577574f1ff06b09	Sonic Labyrinth (JU) (GG2SMS) (1.0).sms	5457F712
+15addfdbc5430503104c0ad12252218a	Sonic Labyrinth v1.1.sms	9CABE617
+3ead5617d0fe67f8f15883a1da28fa34	Sonic Labyrinth v1.1a.sms	1D51F6D3
+34b71f578d0cd5b280c2a5bd440d9aae	Sonic The Hedgehog  (U) v1.11.sms	3A72C813
+48556362e7929f9d28c2eace85b03087	Sonic The Hedgehog - Triple Trouble (USA, Europe) [Port by Glitch v20090703] (Game Gear to Master System Conversion).sms	654A13BF
+dc7d3fedc7d64216ebfe6209932109e8	Sonic The Hedgehog (Ravenfreak) (S1built).sms	A7A3FD79
+6651917689c55a8231026b19fff5ae15	Sonic The Hedgehog (Ravenfreak).sms	0F774830
+015e5f351451a8d7128fc79e39ab338f	Sonic The Hedgehog GG - SMS Style Edition [GG2SMS v1.51].sms	E73B270C
+9ed9aa109608f18988c4893ce1aa6949	Sonic Triple Trouble SMS (0.1).sms	6182888C
+6859b8d9f5066c7a608ed6d03ae35865	Sonic Triple Trouble SMS (0.2).sms	8F8CBE5F
+2c57e3ab6dc8711c6705df0fb7516983	Sonic Triple Trouble SMS.sms	1E40E1EA
+70e31e5cbabfc4c9d5a155fa565f8693	Sonic1SMS_FM_v101_checksumfixed.sms	2B534938
+287c73df22264483efb3434b7d58908a	Sonic1SMS_FM.sms	5E6E50C2
+e1d7041e68e000dc4f6d62cfaca9d3d9	SonicTripleTrouble_vingazole_hack.sms	79BB52D6
+21e72ef06d50dbc1e517193d78abd21c	sortem (2).sms	EAC5429E
+a696a150be04dde593779373fd5638df	Soukoban (English Version 1.0 by mk1995 'SMS Power!' on 14 Dec 2012).sg	467ACB8F
+9af5b5664e793c3ec5d80af94e341499	Soukoban (J)v1.sms	1D2F645F
+d3e61ae8c7ddef342ded20d98ec1e1a5	Soukoban v1.1.sms	E35A6EDD
+da0a6ecc2405112cbc8da1ba88ed19e2	Space Maze Attack MSX2SMS Hack.sms	2C90DE7B
+2e9d547e26754ec4fc121e410d457ef6	spaceHawks_v11.sms	1B0795E2
+e27ea78cffd4ab646cc72597fdc2b8db	spaceHawksv0.10.sms	AADEDDF0
+eb2833acfbb7ea31b0a25c5dd87f2414	Spelunker MSX2SMS Hack.sms	94F21547
+92dcccc7c7edba1d3abbf9966c7170c3	Spider-Man and the X-Men in Arcade's Revenge v1.0.sms	F0D2F93D
+d62466b03a09418e07a0b44da7112d3f	Spirou V1.0.sms	2B128FFB
+1ac968fe0ff6cfbdf62a9dda37711b92	SpriteTest.sms	6D2C69AD
+8942b63c6aea0be76c82470262d6b7b2	sprtest.sms	3D810DE9
+e9aea0603b4b8f0690b12d9fe8598db7	Star Blazer MSX2SMS Hack.sms	AEA4C0FA
+1f12166eff4fe696d0c598a9d8796914	Star Force MSX2SMS Hack (Bad Direction).sms	8928CCDC
+cb95017c8d13d95c91129f9b3b1f6798	Star Soldier [DahJee] (TW).sg	E0816BB7
+9600d292f69ca35d051aa24ea7d0f70c	Star Soldier MSX2SMS Hack.sms	435B0820
+c1e8287218219219686fa8b480c32cb2	Star Wars WIP v0.1.sms	F80A9364
+52249871aaaddc7c3c136aea2721b530	Star Wars WIP v0.2.sms	9E32EC05
+c1ebdbaad0ab2a7780d795368d0e545a	Star Wars WIP v0.2a.sms	6E768E7B
+745eb2d10356482972bf605874d03219	starcrsr.sms	484A8ED8
+0a5bba74410ef6849642d57a21ef6186	Stargate v1.sms	13AEDCB4
+4748ad2a9987bc1a6f760e65f2bd13b5	Step Up MSX2SMS Hack.sms	AC69C84A
+1669690dc7778e86e6e02fc200bf28c7	Stone of Wisdom, The MSX2SMS Hack.sms	C41CEB48
+b935b99a5e6e6b06a922c2975206223d	StormtrooperRevenge-Mod-1.00.sms	26F2C2CC
+86112141e8f1a51c166505868e4b1e8f	Street Battle (USA) (Proto) (Unl).sms	01A2D595
+8876a5be06ead90a6df7f6e4ddf5d0d4	Strike Dash in Sonic 2 SMS.sms	2243F13D
+5de9ac0bee8b66d590e4ae3503b36053	sudiku-SMS-0.2.sms	B4F2A97E
+b5f8106553042db42dafdcfe4f18be28	Super Boy 0.01.sms	C3B50C10
+9ff10eb9208f9feb01bbfd73edf63625	Super Columns (KR).sms	6CE7F694
+820da5e50a317df80572e100e696889a	Super Columns v1.sms	F1EA6D8E
+23693220659de507b8cdf74ae76c0156	Super Golf v0.1.sms	6753BB03
+bb3febe4964400a01aa72c4cd2ad6b43	Super Momotarou Dentetsu III v1.sms	65CBD81F
+d23263e3612208a69f2e652b7d2bbd76	Super Penguin MSX2SMS Hack.sms	EEDEEF2B
+467544f8035d95292542a280452d3739	Super Racing (J) Region & Genesis Patched v1 dplc81.sms	F793CD81
+465bad24d5ca3ae3bbe5b176671cf0c9	Super Return of the Jedi v0.3.sms	5777FCB4
+9b40e68f7ec4bf078524fae774625a8b	Super Return of the Jedi WIP v0.1.sms	CC1176C7
+8fa4e3ed9bd2ef7129047dd701478d4d	Super Return of the Jedi WIP v0.2.sms	1C6C06E0
+e4d169a3e35dfa0f55155ce2550b26c8	Super Smash T.V. (Europe)_2.sms	DFC065D6
+9cc498fe7aefd15f8f259ef56fda020a	Super Smash T.V. (Europe)_3.sms	32165510
+7f87a7ab2b2163033e7b1f9ddee2f2e8	Super Smash T.V. (Europe)_4.sms	2D6EEAA8
+dbb9478f32e9309419776b4a6050ba5f	Super Snake MSX2SMS Hack (2).sms	8EBEBF54
+4f1151814559b9954ad3589ba36aed4e	Super Snake MSX2SMS Hack.sms	2FC97F4B
+0a8c800f5afe8ecffdb860b364e46c98	Super Soccer MSX2SMS Hack.sms	2C6E7259
+2b5acc275389b2cfffe4f2f405be8474	supermariocloudscoryarcangel140806.sms	BE147604
+32adb4bd2f080875bfc9e7c905483872	Surf Ninjas V1.0.sms	11D9E074
+bb68c2cc8b530a18d6c16ba0dcf55e33	Swing MSX2SMS Hack.sms	C5CCE48E
+69c340435bc55ca3c955a64bd67857d9	swordstrike_10222016_RELEASE001 (2).sms	3616F446
+57b860799a87f55687cb686c0c36e3c8	swordstrike_10302016_RELEASE002.sms	50946FE9
+0e4fcbd776ad3ba6801cd5458d92ab05	Sylvan Tale v1.01.sms	BCDC5377
+65ef69458f8733f313cb02a09b8466ce	Synth Test.sms	382CEA1A
+a57ba42ea5556c0882306f0d4a763cb0	Tail's Adventure (v1.2).sms	36664AE0
+6de3ba6001e6590c061ac40b8c81fc75	Tail's Adventure (v1.3 WIP) map garbage fix.sms	3C73E1E6
+e906c0380250b79ead9814a1accd898b	Tail's Adventure (v1.3 WIP).sms	7F602568
+f77abfa1c813ff19e6ff2a129ca11977	Tail's Adventure v1.3.sms	D1D7B5EF
+a39d4b13dd681943fc0d6c12adef246e	Tails Adventures (World) (En,Ja).sms	5E54B3AB
+0fbf39750332405db27edcdce169cab9	Tails in Special Stages.sms	9074D5A5
+a84c8ad9ca886ad1081f451c9d84ac00	Tails' Adventures v1.1.sms	F55DB163
+4131b0d0de3b2c377461cab04e2b1a38	Tails' Sky Patrol V0.31.sms	20CDC2D3
+bcc636736cba1a24b92c579c80ec91e2	Tails' Sky Patrol WIPv0.1.sms	EDDBE263
+dd454e47cdfd9bb850083cb0384b28ab	Tails' Sky Patrol WIPv0.2.sms	9E27126B
+d366e83ce0de948637859f0c3aa0c5fc	Takahasi Meijin no Boukenjima MSX2SMS Hack.sms	C144F9B7
+07636f4a351f518dc1f58340c19c604e	Takeru Densetsu MSX2SMS Hack.sms	8D14EDBE
+455d70d24d8232243caa2ea16e55d570	Tale Spin v1.1.sms	B6E5083A
+47c625115e6e21aab166d9ff0177c12c	Tales of Popolon.sms	17512C54
+18f531a3dde134fd161b8427be7b4b94	TaleSpin (USA, Europe) [GG2SMS v1.0].sms	9A22DDFF
+dada9d76f7743089811dcc8ec1543076	Tank Battalion [DahJee] (TW).sg	5CBD1163
+02178f86230df2e3e272f3e2dd478bf3	Tarzan - Lord of the Jungle WIP v0.1.sms	52A3501B
+163b2ed03d3b12c99153e1e762c68800	tatsujin.sms	4B2BB8B4
+44fd4838739e6e9b9127e639ad41c5c5	Tear of Nile MSX2SMS Hack (Glitch a bit).sms	CE1D3C7F
+b5c7431d08f6f4a7861b7b8729f7df63	Tempo JR [Patched ROM].sms	4A707DFB
+f916af9ba3b3c852e0232df60a403ddf	Tennis Ace (Europe) (Genesis Controller).sms	B0B086BB
+232081fcc239b5a4b50ca70a1a79134f	Tensai Rabbian Daifunsen MSX2SMS Hack.sms	FF54B97D
+a7b32916ce9a5b90ef7aedce765389cf	Terminator (E) [T-Rus1.00 Chief-Net (23.02.2015)].sms	02BFE55A
+13a9eae8adcafe8eead5ca72600ecadf	Terminator (E) [T-Rus1.01 Chief-Net (23.02.2015)].sms	11D69A69
+0165eedcb6c492fa2a7788db4abca36c	Terminator (E) [T+Rus1.02 Chief-Net (24.02.2015)].sms	A2BA37AF
+ece33ea9e2515f64423acb517a65e6b4	Tesserae v1.sms	34391F88
+dd7f1ac480ef06700bb902f6fbb78e49	test (3).sms	B20AD645
+78601946b54c3773d1709efe9a665d71	test (5).sms	CCC71D75
+96b4577468c020883b11d99b2fe101d5	test [a].sms	B2366DBF
+9a19c170c1d4760fcc62cf6a6011b4ed	test v1.00.sms	43744CD6
+9e95268b0d5ed9e4878c6a8c9c405fd2	test_aplib.sms	ACE535C4
+8d1a954f1a95654adc7ce6d576e85aff	test_GRAPHICS13.sms	F0EE256E
+0c7a5f5d9c5784688f9d0e9bdee99687	test_GRAPHICS14.sms	FDBE4829
+fcdb05644115518dbcfaed1adc4f6ad8	test_GRAPHICS15.sms	3A239580
+15218a72dc108a68e36e99f5e2ffeacb	test_GRAPHICS19.sms	62B0E1F5
+a21129c700f3ae0b047ee7545887e963	test_GRAPHICS23.sms	21C74037
+ac200ddc8183af9a79bd607deed1b154	test_GRAPHICS29.sms	41D2AD8D
+8a7c319c5f3dce033f01ccdff30de23e	test_GRAPHICS30.sms	A25E6C9F
+5bea4a1bf85bcf215e55c3a3faa6d38f	test_GRAPHICStiming1.sms	04356379
+7744c3158ee97ef1d85ef74df1e02e01	test_GRAPHICStiming2.sms	65FEE3D6
+859f74ce6d84020e690540e8a429ace9	test_GRAPHICStiming3.sms	0EAACBCC
+d54fb35e7202d24c61ef122924da5850	test_lzss.sms	3B8B6845
+654ccd6e7248c62e2a505f1feca13a24	test-mapper-speed.sms	8CE0A1C7
+3bc16b17426dc598290ec00437c4b528	test-uart-echo.sms	3D83CC19
+0bf2092f50b7f670f342f61f8732ce20	test.sms	ECB367FB
+6567e525961c57d3babf2f2562003800	test(1).sms	80BCF86B
+1a23853eedd36a7ce74bef3ef62932fd	testsnd (2).sms	4FD68492
+b9cfb86385a7b47ea2248bb72cade040	The_Banketh_SMS_alpha_0.02.sms	C03172AD
+e7533ae1660a9e55704bf1ba11373a9f	The_Banketh_SMS_alpha_0.03.sms	2B9644E9
+e74e0b95b368eae7fbcc2b3c3faa3c19	Tintin Au Tibet V1.0.sms	00FD8A59
+d03e3f1df3151ac2527b6ccf2fa11489	Titanium_Engineers_output.sms	AF0DEF97
+95587c3bf4d4db662263eec75c68294a	Tom & Jerry (EB) [T+Rus1.01 Chief-Net (28.01.2011)].sms	A1C592DB
+c839deddd3a1ed7cc5c1c5255500038c	Tom and Jerry - The Movie (Europe) tr Ru chief.sms	109685E8
+853e1febe78b4578d1dbe13a9afe30ab	Top Roller MSX2SMS Hack.sms	992C254F
+965bac84e74cde51acd12ddef91b72cd	Torarete Tamaruka v1.sms	5466D8DC
+e0d223d497e1c09a2191241dc8b84c15	Tower of Druaga MSX2SMS Hack.sms	0FD86C74
+598620d926b7a2686d430a4e4257419e	tower.sms	7FFB0376
+5ee5616d840aa6df0342054e15ec4fad	Track & Field 1 MSX2SMS Hack.sms	84CF3A7F
+6df040056019832955ddcc6ffda34924	Track & Field 2  MSX2SMS Hack.sms	DC5BE4FB
+93c8a5a52c08e8d721951eed8d918010	Triton MSX2SMS Hack.sms	88CE8535
+d10c40464901662b4f9c7b89b1da87bf	True Lies V0.8.sms	5EB0AAAC
+8c2c0d7e8415ae7b0c577cf947e89e78	TwinBee [Jumbo] (TW).sg	C550B4F0
+b4c8fc730a4cec86a0c896cfd5ad2716	TwinMaze-v0.01.sms	D435AF9A
+17b4c82d89a3f1fcd6f383b25eeec1ea	Vampire (Europe) (Beta) [tr Es v1.1 Wave Trans].sms	27774830
+e94ec07ec4900a756c8db9d4e70830ac	VDP rev2.sms	5B5D5518
+0a47e8aa86f29ce0d170c7c67225f3d4	VDPTEST.sms	2C9FFD4B
+2f82244a03697ebb766a45281b3f98ec	Versus (1.00).sms	96193A36
+357e667d9c2e0e76ddfab6de9daa7122	Versus (1.01).sms	01C52E33
+6847762927a7a7b54893e4b0229b5aa8	Versus (1.02).sms	9B0B6AD9
+f90874d04d180c6316289019fe8ead85	video.sms	9D979277
+81483f57abf2ff88d178e942a6ce5a95	Volguard MSX2SMS Hack.sms	CF28C686
+027f36e9770f1c2b7b5fc17ee34b3f88	VR Troopers v1.1.sms	3F8C1F8E
+ce73f15e93eb644b5044794a0d068893	Waimanu Scary Monsters Saga v1.0SMS.sms	195C3F78
+af2b45c38e22f9bfbfe46c432325b381	Wakiyarando (Wagyan Land) v1.sms	090C968C
+0d44800f01e9d513e43f6eb4bea30e11	Wanted (Light Gun Port 2 Patched) Calindro.sms	BD7BB085
+55af1a0b32f70abdbb666d55757a2619	Warp Warp MSX2SMS Hack.sms	D4831A85
+2edaade18ac75a84773eee6ab8a69444	wb_menu_31Jul2016_22h11.sms	714FE0BC
+f99990d2d415d2902c746784d2e52357	Weka Invaders 0.24.sms	3E402791
+f8a00c1ed74f2616ef0306d6427f55f5	Where in the World is Carmen Sandiego (Brazil) Controller Patched.sms	0C1FDF98
+2deb59b8e05192304331a6b9fdb946e3	Where in the World is Carmen Sandiego (USA) (Genesis Controller).sms	C63E4D42
+1962357a2ee8493d3129f7741522a97a	WildSnake [Proto].sms	25EB73F8
+3d556e228538d73cb90cef12e0391fee	WildSnake v1.sms	0C45632B
+fe7d2f416a815c9946c369027fdea5d5	WildSnake WIP v0.1.sms	DE4DFD2A
+a341e66bb87ccd3e496f1a058135f42d	WildSnake WIP v0.2b.sms	2817EDFA
+2e8f408a2212ed02693058b430edc55e	Wizard Pinball v0.1.sms	41A4BF71
+85ee4d6b526bfd8c621201a67276a00a	Wonder Boy (USA, Europe) [EverDrive FIX].sms	CB082A5C
+a94fa88eaa346292f4110557330ddfd9	Wonder Boy III - The Dragon's Trap (USA, Europe) tr Ru chief.sms	64F3D5DA
+6a7f697d98ebb40ca5c74a8e0af1645d	Wonder Boy in Monster World (Europe) (Genesis Controller).sms	0A724F91
+eddc19d1a32500a772e897b5c26bb554	Wonder Boy in Monster World (Europe) [sRAM Pad restoration v1.0].sms	754D1333
+371ef78042ddbdcf55f4e1348e3f8b6a	Wonder_Boy_Mod3.sms	A201165B
+e3fc931850910f72abe5e37657132113	Woody Pop - Shinjinrui no Block Kuzushi (J) Region & Genesis Patched v1 dplc81.sms	CEAD416B
+e02a2405d9ca9a8c0da8911696bd13b5	Woody Pop (SMS Control Pad) Paddle-to-Controller Patched.sms	F1A8E586
+c2f34ebfa66a5d2c074e9bb15713f9d4	World Grand Prix (German Version 1.0 by mk1995 'SMS Power!' on 24 Feb 2013).sms	25BAB84F
+85eb73fa7a70e527ed6f87fa05b7cbec	WWF Raw v0.1.sms	D448DA82
+69c482893789e890c2f2d2be40ed5358	X-Men - Gamemaster's Legacy v0.8.sms	05041372
+0030b30317bb39683f07607b93a2f6e1	X-Men v0.8.sms	998F8C18
+ed7e10716ac3b9f5ac9ef775f90dd3dc	xevious.sms	7BD0D397
+5211461c1c8d6aab43112b080a0d979b	xmdump [a].sms	94508493
+625dafeb4510b3b68867f819962b412a	xmdump.sms	4A810F56
+b74ad33ada2249715eb7f1db765aeba6	yaksa.sms	FC67FE5B
+c7f74611c32ead612f300078d59dfbe8	Yellow Submarine MSX2SMS Hack.sms	97445B98
+c1f51f5dbfb859b1204a812d9c08ffd3	Yie Ar Kung-Fu II [DahJee] (TW).sg	FC87463C
+8c260af63bb1512c9b0f993c2225d8bb	Yokai Yasiki MSX2SMS Hack.sms	67C9F15B
+dd5d01d4e1fe7d275f95ac95dc63b04f	Ys - The Vanished Omens (USA, Europe) [Sound Hack by Hungdongs v1.2] (FM Sound Restoration).sms	7ED5DCA2
+42c33142840e46d4e3ce393c37583b17	yum20150908.sms	2283571E
+8264fa9936dc91b4527cbaff9e98725d	yum20150908v2.sms	8974B7EB
+3d246f7918abc378d0150ccb5e22ecae	yum20150909v2.sms	884DBC24
+e118169b20e07659c7910682e74dd5ad	Yuu Yuu Hakusho (J)WIPv0.1.sms	475B35F8
+28fce168c92aeb435596e1a437b20c3b	Yuu Yuu Hakusho II (J)v1.sms	7AFA5FA3
+36c75fa968eb16839297e26dec9ca675	Z80 aPLib Decompressor v1.1.sms	D734AF66
+c3bf1498e49f1a9f59b2478308fb0c74	Z80 aPLib Decompressor.sms	CE61185D
+05c8c0d678b9543ae7570967a532e034	Zan Gear v1.sms	5AD8FFB7
+082fceb457c3d681a2ad92ad899d8389	Zanac MSX2SMS Hack.sms	D25C5929
+6ac610db68abbb7a1fe7cc09f579c800	Zaxxon MSX2SMS Hack.sms	76534A43
+bab84fdf49ef314849d24a39298bdaf5	zexall - all flags.sms	2F1044DA
+d4b6a86129d7f61c52b77d8ec10ca764	zexall - documented flags.sms	4A11810C
+52f71f8c91712421ec1370731b6f5a0a	zillion.sms	5E111AA2
+54f271adf31786cf88b04960b24a11ec	Zombi Terror_(Master System).sms	1AEE5168
+0a7961400ae4b74c31bb84bd133f154c	ZombiTerror-SMS-1.00.sms	B4D34222
+312fa6725270a0d091407cf856f09564	ZombiTerror-SMS-1.01.sms	ADEDDE6A
+81c4b1c9c55155f3698bf13bae6a3dde	Zoom 909 MSX2SMS Hack.sms	50A2C267
+20ab6e9f17d4824f18f1d0dd8b3a8529	ZX Basic Program.sms	F8CF4062
+e2c6f567d33b736f4f1323cdfcb5815a	zx-basic-shootemup-test.sms	B69489B6
+e014749088650be36dfa54919e5d5831	zyloz.sms	1263F90B
