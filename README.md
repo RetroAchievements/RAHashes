@@ -4,7 +4,7 @@ Definitive lists of RetroAchievement ROM hashes
 <br>
 
 Console ID|ROMset|Group|Filenames|ROM Checksums|RA Checksums|
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-|:-:|:-:|:-:|:-:|
 |01|Sega - Mega Drive - Genesis (20210114-043643)|No Intro|❌|❌|❌|
 |01|Sega - Mega Drive - Genesis - GoodGen V3.21|GoodTools|✔️|✔️|N/A|
 |01|Sega Mega Drive - Genesis (NonGoodGen)|NonGood|✔️|✔️|N/A|
