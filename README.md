@@ -5,14 +5,14 @@ Definitive lists of RetroAchievement ROM hashes
 
 Console ID|ROMset|Group|Filenames|ROM Checksums|RA Checksums|
 |:-:|:-|:-:|:-:|:-:|:-:|
-|01|Sega - Mega Drive - Genesis (20210114-043643)|No Intro|❌|❌|❌|
+|01|Sega - Mega Drive - Genesis (20210114-043643)|No Intro|✔️|✔️|N/A|
 |01|Sega - Mega Drive - Genesis - GoodGen V3.21|GoodTools|✔️|✔️|N/A|
 |01|Sega Mega Drive - Genesis (NonGoodGen)|NonGood|✔️|✔️|N/A|
 |02|Nintendo 64 (BigEndian) (20201230-060018)|No Intro|✔️|✔️|N/A|
 |02|Nintendo 64 (ByteSwapped) (20201230-060018)|No Intro|✔️|✔️|N/A|
 |02|Nintendo 64 (LittleEndian) (20201230-060018)|No Intro|✔️|✔️|N/A|
-|02|Nintendo 64 (GoodN64 v3.27)|GoodTools|❌|❌|❌|
-|02|Nintendo 64 (NonGoodN64)|NonGood|❌|❌|❌|
+|02|Nintendo 64 (GoodN64 v3.27)|GoodTools|✔️|✔️|N/A|
+|02|Nintendo 64 (NonGoodN64)|NonGood|✔️|✔️|N/A|
 |03|Nintendo Super Nintendo Entertainment System (Combined) (20201230-192658)|No Intro|✔️|✔️|✔️|
 |03|Nintendo SNES (GoodSNES)|GoodTools|✔️|✔️|✔️|✔️|
 |03|Nintendo SNES (NonGoodSNES)|NonGood|✔️|✔️|✔️|
