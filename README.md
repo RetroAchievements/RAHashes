@@ -103,10 +103,10 @@ Console ID|ROMset|Group|Filenames|ROM Checksums|RA Checksums|
 |47|NEC PC-8801|Neo Kobe|✔️|✔️|N/A|
 |47|NEC PC-9801|Neo Kobe|✔️|✔️|N/A|
 |49|NEC PC-FX|Redump|✔️|N/A|✔️|
-|51|Atari 7800 (20201127) [unheadered]|No Intro|✔️|✔️||N/A|
-|51|Atari 7800 (20191209) [headered]|No Intro|✔️|✔️||N/A|
-|51|Atari 7800 (Good7800 v3.28)|GoodTools|✔️|✔️||N/A|
-|51|Atari 7800 (NonGood7800)|NonGood|✔️|✔️||N/A|
+|51|Atari 7800 (20201127) [unheadered]|No Intro|✔️|✔️|N/A|
+|51|Atari 7800 (20191209) [headered]|No Intro|✔️|✔️|N/A|
+|51|Atari 7800 (Good7800 v3.28)|GoodTools|✔️|✔️|N/A|
+|51|Atari 7800 (NonGood7800)|NonGood|✔️|✔️|N/A|
 |53|Bandai WonderSwan (20201120)|No Intro|✔️|✔️|N/A|
 |53|Bandai WonderSwan Color (20201120)|No Intro|✔️|✔️|N/A|
 |53|Bandai WSx (GoodWSx v3.27)|GoodTools|✔️|✔️|N/A|
