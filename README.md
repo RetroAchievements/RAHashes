@@ -42,25 +42,25 @@ Console ID|ROMset|Group|Filenames|ROM Checksums|RA Checksums|
 |08|NEC PC Engine (NonGoodPCE)|NonGood|✔️|✔️|N/A|
 |08|PC Engine CD/TurboGrafx-CD|Redump|✔️|N/A|✔️|
 |09|Sega/Mega CD|Redump|✔️|N/A|✔️|
-|10|Sega 32X (20191204-183941)|No Intro|❌|❌|❌|
+|10|Sega 32X (20191204-183941)|No Intro|✔️|✔️|N/A|
 |10|Sega 32X (GoodGen V3.21)|GoodTools|✔️|✔️|N/A|
 |10|Sega 32X (NonGoodGen)|NonGood|✔️|✔️|N/A|
 |11|Sega Master System - Mark III (20201103-015616)|No Intro|✔️|✔️|N/A|
 |11|Sega Master System (GoodSMS v3.20)|GoodTools|✔️|✔️|N/A|
 |11|Sega Master System (NonGoodSMS)|NonGood|✔️|✔️|N/A|
 |12|Sony PlayStation|Redump|❌|❌|❌|
-|13|Atari Lynx (20201108) [unheadered]|No Intro|❌|❌|❌|❌|
+|13|Atari Lynx (20201108) [unheadered]|No Intro|❌|❌|❌|
 |13|Atari Lynx (GoodLynx v2.01)|GoodTools|✔️|✔️|✔️|
 |13|Atari Lynx (NonGoodLynx) (1-1-2018)|NonGood|✔️|✔️|✔️|
 |14|SNK Neo Geo Pocket (20201106-202832)|No Intro|✔️|✔️|N/A|
 |14|SNK Neo Geo Pocket Color (20201106-204328)|No Intro|✔️|✔️|N/A|
 |14|SNK Neo Geo Pocket (GoodNGPx v3.27)|GoodTools|✔️|✔️|N/A|
 |14|SNK Neo Geo Pocket/Color (NonGoodNGPx)|NonGood|✔️|✔️|N/A|
-|15|Sega - Game Gear (20201227-043658)|No Intro|❌|❌|❌|
+|15|Sega - Game Gear (20201227-043658)|No Intro|✔️|✔️|N/A|
 |15|Sega - Game Gear (GoodGG v3.20)|GoodTools|✔️|✔️|N/A|
 |15|Sega - Game Gear (NonGoodGG)|NonGood|✔️|✔️|N/A|
 |17|Atari Jaguar (J64) (20200926)|No Intro|✔️|✔️|N/A|
-|17|Atari Jaguar (ROM) (20200926)|No Intro|❌|❌|❌|
+|17|Atari Jaguar (ROM) (20200926)|No Intro|✔️|✔️|N/A|
 |17|Atari Jaguar (GoodJag v2.01)|GoodTools|✔️|✔️|N/A|
 |17|Atari Jaguar (NonGoodJag)|NonGood|✔️|✔️|N/A|
 |18|Nintendo - Nintendo DS|No Intro|❌|❌|❌|
@@ -82,7 +82,7 @@ Console ID|ROMset|Group|Filenames|ROM Checksums|RA Checksums|
 |29|MSX2 (NonGoodMSX2|NonGood|✔️|✔️|N/A|
 |29|MSX|TOSEC|❌|❌|❌|
 |29|MSX2|TOSEC|❌|❌|❌|
-|33|Sega SG-1000 (20200217-185318)|No Intro|❌|❌|❌|
+|33|Sega SG-1000 (20200217-185318)|No Intro|✔️|✔️|N/A|
 |33|Sega SG-1000 (GoodSMS v3.20)|GoodTools|✔️|✔️|N/A|
 |33|Sega SG-1000 (NonGoodSMS)|NonGood|✔️|✔️|N/A|
 |38|Apple II|4am Crack|❌|❌|❌|
