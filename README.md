@@ -84,13 +84,9 @@ Definitive lists of RetroAchievement ROM hashes
 |Atari - NonGoodLynx (1-1-2018)|NonGood|✔️|✔️|✔️|✔️|
 |Bandai - WonderSwan + Color (GoodWSx v3.27)|GoodTools|❌|❌|❌|❌|
 |Matttel - Intellivision (GoodINTV v2.03)|GoodTools|❌|❌|❌|❌|
-|Nintendo - Game Boy + Color (GoodGBx v3.14)|GoodTools|❌|❌|❌|❌|
-|Nintendo - Game Boy Advance (GoodGBA v3.27)|GoodTools|❌|❌|❌|❌|
 |Nintendo - Nintendo 64 (GoodN64 v3.27)|GoodTools|❌|❌|❌|❌|
 |Nintendo - Nintendo Entertainment System (GoodNES v3.23)|GoodTools|❌|❌|❌|❌|
-|Nintendo - Super Nintendo Entertainment System (GoodSNES v3.27)|GoodTools|❌|❌|❌|❌|
 |SNK - Neo Geo Pocket (GoodNGPx v3.27)|GoodTools|❌|❌|❌|❌|
-|Sega - Mega Drive - Genesis - 32X (GoodGen v3.21)|GoodTools|❌|❌|❌|❌|
 |Spectravideo - MSX (GoodMSX1 v.0.999.3)|GoodTools|❌|❌|❌|❌|
 |Spectravideo - MSX2 (GoodMSX2 v0.999.3)|GoodTools|❌|❌|❌|❌|
 |Final Burn Neo|Final Burn Neo|❌|❌|❌|❌|
