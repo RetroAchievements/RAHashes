@@ -8,14 +8,15 @@ Console ID|ROMset|Group|Filenames|ROM Checksums|RA Checksums|
 |01|Sega - Mega Drive - Genesis (20210114-043643)|No Intro|❌|❌|❌|
 |01|Sega - Mega Drive - Genesis - GoodGen V3.21|GoodTools|✔️|✔️|N/A|
 |01|Sega Mega Drive - Genesis (NonGoodGen)|NonGood|✔️|✔️|N/A|
-|02|Nintendo 64 (BigEndian) (20201230-060018)|No Intro|❌|❌|❌|
-|02|Nintendo 64 (ByteSwapped) (20201230-060018)|No Intro|❌|❌|❌|
+|02|Nintendo 64 (BigEndian) (20201230-060018)|No Intro|✔️|✔️|N/A|
+|02|Nintendo 64 (ByteSwapped) (20201230-060018)|No Intro|✔️|✔️|N/A|
+|02|Nintendo 64 (LittleEndian) (20201230-060018)|No Intro|✔️|✔️|N/A|
 |02|Nintendo 64 (GoodN64 v3.27)|GoodTools|❌|❌|❌|
 |02|Nintendo 64 (NonGoodN64)|NonGood|❌|❌|❌|
 |03|Nintendo Super Nintendo Entertainment System (Combined) (20201230-192658)|No Intro|✔️|✔️|✔️|
 |03|Nintendo SNES (GoodSNES)|GoodTools|✔️|✔️|✔️|✔️|
 |03|Nintendo SNES (NonGoodSNES)|NonGood|✔️|✔️|✔️|
-|03|Nintendo Satellaview (20201226-093906)|No Intro|❌|❌|❌|
+|03|Nintendo Satellaview (20201226-093906)|No Intro|✔️|✔️|N/A|
 |03|Nintendo Sufami Turbo (20201218-081558)|No Intro|❌|❌|❌|
 |04|Nintendo Game Boy (20210101-042256)|No Intro|❌|❌|❌|
 |04|Nintendo Game Boy (GoodGBx 3.14)|GoodTools|✔️|✔️|N/A|
