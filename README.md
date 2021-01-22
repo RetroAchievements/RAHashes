@@ -8,27 +8,40 @@ Definitive lists of RetroAchievement ROM hashes
 |Atari - 2600 (20200514)|No Intro|✔️|✔️|✔️|N/A|
 |Atari - 2600 (Good2600 v3.14)|GoodTools|✔️|✔️|✔️|N/A|
 |NonGood2600|NonGood|✔️|✔️|✔️|N/A|
-|Atari - 7800 (20201127) [unheadered]|No Intro|❌|❌|❌|❌|
+|Atari - 7800 (20201127) [unheadered]|No Intro|✔️|✔️|✔️|N/A|
 |Atari - 7800 (20191209) [headered]|No Intro|✔️|✔️|✔️|N/A|
-|Atari - Jaguar (J64) (20200926)|No Intro|❌|❌|❌|❌|
+|Atari - 7800 (Good7800 v3.28)|GoodTools|✔️|✔️|✔️|N/A|
+|Atari - 7800 (NonGood7800)|NonGood|✔️|✔️|✔️|N/A|
+|Atari - Jaguar (J64) (20200926)|No Intro|✔️|✔️|✔️|N/A|
 |Atari - Jaguar (ROM) (20200926)|No Intro|❌|❌|❌|❌|
+|Atari - Jaguar (GoodJag v2.01)|GoodTools|✔️|✔️|✔️|N/A|
+|Atari - Jaguar (NonGoodJag)|NonGood|✔️|✔️|✔️|N/A|
 |Atari - Lynx (20201108) [unheadered]|No Intro|❌|❌|❌|❌|
-|Bandai - WonderSwan (20201120)|No Intro|❌|❌|❌|❌|
-|Bandai - WonderSwan Color (20201120)|No Intro|❌|❌|❌|❌|
+|Atari - Lynx (GoodLynx v2.01)|GoodTools|✔️|✔️|✔️|✔️|
+|Atari - NonGoodLynx (1-1-2018)|NonGood|✔️|✔️|✔️|✔️|
+|Bandai - WonderSwan (20201120)|No Intro|✔️|✔️|✔️|N/A|
+|Bandai - WonderSwan Color (20201120)|No Intro|✔️|✔️|✔️|N/A|
+|Bandai - WonderSwan + Color (GoodWSx v3.27)|GoodTools|✔️|✔️|✔️|N/A|
 |Coleco - ColecoVision (20200926)|No Intro|✔️|✔️|✔️|N/A|
 |Coleco - ColecoVision (GoodCol v3.14)|GoodTools|✔️|✔️|✔️|N/A|
 |NonGoodCol|NonGood|✔️|✔️|✔️|N/A|
-|GCE - Vectrex (20170908)|No Intro|❌|❌|❌|❌|
+|GCE - Vectrex (20170908)|No Intro|✔️|✔️|✔️|N/A|
 |GCE - Vectrex (GoodVect v1.06)|GoodTools|✔️|✔️|✔️|N/A|
 |NonGoodVect|NonGood|✔️|✔️|✔️|N/A|
-|Magnavox - Odyssey2 (20200720)|No Intro|❌|❌|❌|❌|
-|Mattel - Intellivision (20190315)|No Intro|❌|❌|❌|❌|
-|Microsoft - MSX (20201022)|No Intro|❌|❌|❌|❌|
-|Microsoft - MSX2 (20190115)|No Intro|❌|❌|❌|❌|
-|NEC - PC Engine - TurboGrafx 16 (20201114)|No Intro|❌|❌|❌|❌|
+|Magnavox - Odyssey2 (20200720)|No Intro|✔️|✔️|✔️|N/A|
+|Mattel - Intellivision (20190315)|No Intro|✔️|✔️|✔️|N/A|
+|Mattel - Intellivision (GoodINTV v2.03)|GoodTools|✔️|✔️|✔️|N/A|
+|Mattel - Intellivision (NonGoodINTV)|NonGood|✔️|✔️|✔️|N/A|
+|Microsoft - MSX (20201022)|No Intro|✔️|✔️|✔️|N/A|
+|Microsoft - MSX2 (20190115)|No Intro|✔️|✔️|✔️|N/A|
+|Spectravideo - MSX (GoodMSX1 v.0.999.3)|GoodTools|✔️|✔️|✔️|N/A|
+|Spectravideo - MSX2 (GoodMSX2 v0.999.3)|GoodTools|✔️|✔️|✔️|N/A|
+|Spectravideo - MSX (NonGoodMSX1|NonGood|✔️|✔️|✔️|N/A|
+|Spectravideo - MSX2 (NonGoodMSX2|NonGood|✔️|✔️|✔️|N/A|
+|NEC - PC Engine - TurboGrafx 16 (20201114)|No Intro|✔️|✔️|✔️|N/A|
 |NEC - PC Engine - TurboGrafx 16 (GoodPCE v1.09a)|GoodTools|✔️|✔️|✔️|N/A|
 |NonGoodPCE|NonGood|✔️|✔️|✔️|N/A|
-|NEC - PC Engine SuperGrafx (20201109)|No Intro|❌|❌|❌|❌|
+|NEC - PC Engine SuperGrafx (20201109)|No Intro|✔️|✔️|✔️|N/A|
 |Nintendo - Family Computer Disk System (FDS) (20210111-132854) [unheadered]|No Intro|❌|❌|❌|❌|
 |Nintendo - Family Computer Disk System (QD2FDS) (20210111-132854) [unheadered]|No Intro|❌|❌|❌|❌|
 |Nintendo - Family Computer Disk System (QD) (20210111-132854)|No Intro|❌|❌|❌|❌|
@@ -50,17 +63,20 @@ Definitive lists of RetroAchievement ROM hashes
 |Nintendo - Nintendo Entertainment System (20210102-143743) [headered]|No Intro|❌|❌|❌|❌|
 |Nintendo - Nintendo Entertainment System (20210102-143743) [headered_iNES2.0_NRS(2020-09-27)]|No Intro|❌|❌|❌|❌|
 |Nintendo - Nintendo Entertainment System (20210102-143743) [unheadered]|No Intro|❌|❌|❌|❌|
-|Nintendo - Pokemon Mini (20140804-123237)|No Intro|❌|❌|❌|❌|
+|Nintendo - Pokemon Mini (20140804-123237)|No Intro|✔️|✔️|✔️|N/A|
+|Nintendo - Pokemon Mini (NonGoodMini)|NonGood|✔️|✔️|✔️|N/A|
 |Nintendo - Satellaview (20201226-093906)|No Intro|❌|❌|❌|❌|
 |Nintendo - Sufami Turbo (20201218-081558)|No Intro|❌|❌|❌|❌|
 |Nintendo - Super Nintendo Entertainment System (Combined) (20201230-192658)|No Intro|✔️|✔️|✔️|✔️|
 |Nintendo - GoodSNES|GoodTools|✔️|✔️|✔️|✔️|
 |Nintendo - NonGoodSNES|NonGood|✔️|✔️|✔️|✔️|
-|Nintendo - Virtual Boy (20200219-181350)|No Intro|❌|❌|❌|❌|
+|Nintendo - Virtual Boy (20200219-181350)|No Intro|✔️|✔️|✔️|N/A|
 |Nintendo - Virtual Boy (GoodVBoy v3.1415)|GoodTools|✔️|✔️|✔️|N/A|
 |NonGoodVB|NonGood|✔️|✔️|✔️|N/A|
 |SNK - Neo Geo Pocket (20201106-202832)|No Intro|❌|❌|❌|❌|
 |SNK - Neo Geo Pocket Color (20201106-204328)|No Intro|❌|❌|❌|❌|
+|SNK - Neo Geo Pocket (GoodNGPx v3.27)|GoodTools|✔️|✔️|✔️|N/A|
+|SNK - Neo Geo Pocket/Color (NonGoodNGPx)|NonGood|✔️|✔️|✔️|N/A|
 |Sega - 32X (20191204-183941)|No Intro|❌|❌|❌|❌|
 |Sega - 32X - GoodGen V3.21|GoodTools|✔️|✔️|✔️|N/A|
 |Sega - Game Gear (20201227-043658)|No Intro|❌|❌|❌|❌|
@@ -78,18 +94,9 @@ Definitive lists of RetroAchievement ROM hashes
 |NEC PC-8001|Neo Kobe|✔️|✔️|✔️|N/A|
 |NEC PC-8801|Neo Kobe|✔️|✔️|✔️|N/A|
 |NEC PC-9801|Neo Kobe|✔️|✔️|✔️|N/A|
-|Atari - 7800 (Good7800 v3.28)|GoodTools|❌|❌|❌|❌|
-|Atari - Jaguar (GoodJag v2.01)|GoodTools|❌|❌|❌|❌|
-|Atari - Lynx (GoodLynx v2.01)|GoodTools|✔️|✔️|✔️|✔️|
-|Atari - NonGoodLynx (1-1-2018)|NonGood|✔️|✔️|✔️|✔️|
-|Bandai - WonderSwan + Color (GoodWSx v3.27)|GoodTools|❌|❌|❌|❌|
-|Matttel - Intellivision (GoodINTV v2.03)|GoodTools|❌|❌|❌|❌|
 |Nintendo - Nintendo 64 (GoodN64 v3.27)|GoodTools|❌|❌|❌|❌|
-|Nintendo - Nintendo Entertainment System (GoodNES v3.23)|GoodTools|❌|❌|❌|❌|
-|SNK - Neo Geo Pocket (GoodNGPx v3.27)|GoodTools|❌|❌|❌|❌|
-|Spectravideo - MSX (GoodMSX1 v.0.999.3)|GoodTools|❌|❌|❌|❌|
-|Spectravideo - MSX2 (GoodMSX2 v0.999.3)|GoodTools|❌|❌|❌|❌|
-|Final Burn Neo|Final Burn Neo|❌|❌|❌|❌|
+|Nintendo - Nintendo Entertainment System (GoodNES v3.23)|GoodTools|✔️|✔️|✔️|N/A|
+|Final Burn Neo|Final Burn Neo|✔️|N/A|N/A|✔️|
 |Apple II|4am Crack|❌|❌|❌|❌|
 |Apple II|TOSEC|✔️|✔️|✔️|N/A|
 |MSX|TOSEC|❌|❌|❌|❌|
