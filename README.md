@@ -36,8 +36,14 @@ Definitive lists of RetroAchievement ROM hashes
 |Nintendo - Family Computer Disk System (FDSStickBIN) (20201103-135924)|No Intro|❌|❌|❌|❌|
 |Nintendo - Family Computer Disk System (FDSStickRAW) (20201103-135924)|No Intro|❌|❌|❌|❌|
 |Nintendo - Game Boy (20210101-042256)|No Intro|❌|❌|❌|❌|
+|Nintendo - Game Boy (GoodGBx 3.14)|GoodTools|✔️|✔️|✔️|N/A|
+|Nintendo - Game Boy (NonGoodGBx)|NonGood|✔️|✔️|✔️|N/A|
 |Nintendo - Game Boy Advance (20210109-085221)|No Intro|❌|❌|❌|❌|
+|Nintendo - Game Boy Advance (GoodGBA 3.23)|GoodTools|✔️|✔️|✔️|N/A|
+|Nintendo - Game Boy Advance (NonGoodGBA)|NonGood|✔️|✔️|✔️|N/A|
 |Nintendo - Game Boy Color (20201227-202253) (MIA 1)|No Intro|❌|❌|❌|❌|
+|Nintendo - Game Boy Color (GoodGBx 3.14)|GoodTools|✔️|✔️|✔️|N/A|
+|Nintendo - Game Boy Color (NonGoodGBx)|NonGood|✔️|✔️|✔️|N/A|
 |Nintendo - Nintendo 64 (BigEndian) (20201230-060018)|No Intro|❌|❌|❌|❌|
 |Nintendo - Nintendo 64 (ByteSwapped) (20201230-060018)|No Intro|❌|❌|❌|❌|
 |Nintendo - Nintendo DS|No Intro|❌|❌|❌|❌|
@@ -47,7 +53,9 @@ Definitive lists of RetroAchievement ROM hashes
 |Nintendo - Pokemon Mini (20140804-123237)|No Intro|❌|❌|❌|❌|
 |Nintendo - Satellaview (20201226-093906)|No Intro|❌|❌|❌|❌|
 |Nintendo - Sufami Turbo (20201218-081558)|No Intro|❌|❌|❌|❌|
-|Nintendo - Super Nintendo Entertainment System (Combined) (20201230-192658)|No Intro|❌|❌|❌|❌|
+|Nintendo - Super Nintendo Entertainment System (Combined) (20201230-192658)|No Intro|✔️|✔️|✔️|✔️|
+|Nintendo - GoodSNES|GoodTools|✔️|✔️|✔️|✔️|
+|Nintendo - NonGoodSNES|NonGood|✔️|✔️|✔️|✔️|
 |Nintendo - Virtual Boy (20200219-181350)|No Intro|❌|❌|❌|❌|
 |Nintendo - Virtual Boy (GoodVBoy v3.1415)|GoodTools|✔️|✔️|✔️|N/A|
 |NonGoodVB|NonGood|✔️|✔️|✔️|N/A|
