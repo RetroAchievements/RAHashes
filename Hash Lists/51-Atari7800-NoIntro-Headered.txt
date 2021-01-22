@@ -1,127 +1,127 @@
-397bb566584be7b9764e7a68974c4263	D5B61170	[BIOS] Atari 7800 (Europe).a78
-0763f1ffb006ddbe32e52d497ee848ae	5D13730C	[BIOS] Atari 7800 (USA).a78
-291bcdb05f2b37cdf9452d2bf08e0321	EAEF28EA	32 in 1 (Australia).a78
-441ac404cdc7bcbd4d787f911df7bf0d	D98BC2F8	7800 Monitor Cart (USA) (Program) (Unl).a78
-c31759d77154966654d414eaf1f5283c	AA4752DC	Ace of Aces (Europe).a78
-4dd96d99c1228bb1fcae8c1b5c239197	E682C28F	Ace of Aces (USA).a78
-4e5826f8bcdecaae3258cce2da57c569	0F24DDF1	Alien Brigade (Europe).a78
-8bf5f92ed9a276c82139c47c9875fd17	3CEF22CA	Alien Brigade (USA).a78
-4332c24e4f3bc72e7fe1b77adf66c2b7	6DDFB54C	Asteroids (USA) (Beta).a78
-85b5587c5a9406ddd079aa6879093cf7	EAC69CF0	Asteroids (USA).a78
-0d9452d4db4d1e1cf843f4f10605eb7d	3FBE74CE	Atari 7800 Developement Card (USA).a78
-554004ca435ca02eb519086f45e44033	48F75A89	Ballblazer (Europe).a78
-a6659fcf536d601948f57767aef65741	44615260	Ballblazer (USA).a78
-138559499462d88d390d7cf93b344f5f	AC94BE39	Barnyard Blaster (Europe).a78
-98477839e00a9f617a97a0e91a6ff0b1	C086ED30	Barnyard Blaster (USA).a78
-3ddfb8fe20b38500acdbcf158cdba11a	A8189E81	Baseball (Europe).a78
-7da7af81921b61d2757d796a9ff3814c	E4E438A1	Basketbrawl (Europe).a78
-43b0a082f353919f83e4b37203af280f	FD3AEC38	Basketbrawl (USA).a78
-57ef570b8595bcdf0e26bc9b5b109b41	CC7061E4	Centipede (Europe).a78
-7612b1bb30320d37d79b7f48b16430b2	5F94939E	Centipede (USA).a78
-028c6757a2528219ea39b26c35b953dc	9F3A7A83	Choplifter! (Europe).a78
-0826515be7d9bc1fea26a7d6063667c1	D3BA607F	Choplifter! (USA).a78
-d59edcc53c3b1e4e565ff7234a5d37a6	2DC7CCC5	Commando (Europe).a78
-95d5eac7b804f3cb1950e0d19a03afe7	81C6C079	Commando (USA).a78
-911049690a04e272d28ee80d12329bc9	A2257DD0	Crack'ed (Europe).a78
-5a8344478c246200d0ef987557aae3cd	61DCC763	Crack'ed (USA).a78
-ff49656b248dd277f9d75dcca0a30116	08E6C2CC	Crossbow (Europe).a78
-68ae796ad700df322628ce9dfc82e802	A2678E2D	Crossbow (USA).a78
-26036ccf66b2747fd00d3884a528614c	3FB402B1	Dark Chambers (Europe).a78
-b94b39a2ece024bc79ad350914219a72	B5A87D19	Dark Chambers (USA).a78
-a1e78ca5dd1b84ce5a96ab1590abfef1	5A117708	Desert Falcon (Europe).a78
-ec1f38ae5b5e638e1ac84016ee1c0019	A6A62E78	Desert Falcon (USA).a78
-6bfc9970b1a78e53653b650d3a833145	729DD769	Diagnostic Test Cartrige (USA) (Beta).a78
-91041aadd1700a7a4076f4005f2c362f	A1EAA7C1	Diagnostic Test Cartrige (USA).a78
-fa3279ef84d3f6a9df151ff578fcffe5	D0DF6F91	Dig Dug (Europe).a78
-3976abf29e9d6aa000bff8268c0d534e	8EAD573D	Dig Dug (USA).a78
-124a82890e7723ca9af7c8c063c503ab	BF164AAD	Donkey Kong (Europe).a78
-35eabe5b952a4f733b904f73511f884d	D7A55F95	Donkey Kong (USA).a78
-c921a3c7028f03ec2469b92fa4b08d42	CD5EB9CD	Donkey Kong Junior (Europe).a78
-c4940b2652d6a654cbbecfb59495ba24	6E989686	Donkey Kong Junior (USA).a78
-994efa37ac630a7120b9a86629c8a613	3B1F47A2	Double Dragon (Europe).a78
-39c607e68a8e2bc870b2355a0273c973	16E2FC12	Double Dragon (USA).a78
-4f6d09b0221636b56014e4756f4a9b17	799F3F3D	F-18 Hornet (Europe).a78
-934a3ee1ae7f9d740c868064862da318	FA3E8CBB	F-18 Hornet (USA).a78
-c9551260a5a8e79e38acd8294c791f5a	8A840C36	Fatal Run (Europe).a78
-fb28cd747d102114858010f6eb16ab35	718232BB	Fatal Run (USA).a78
-57109e6e4e2852c23440300ad27ce3cb	4B75AD7A	Fight Night (Europe).a78
-c64fb1c181e2d8b807181bb3c0fffbe9	28E38BD7	Fight Night (USA).a78
-68a62e30225431f4a789dbc957bc28ff	05B23D02	Food Fight (Europe).a78
-e05041ad193e354f9fa37c18f3550b5a	47E94868	Food Fight (USA) (Beta).a78
-9a3819eef58dddb550fe997e7e6abee2	03EC1894	Food Fight (USA).a78
-712225bf32f418848375012c91bb8554	50C37611	Galaga (Europe).a78
-1dd27b0caf03d6e3948d3be16ac30792	CFFAA1B7	Galaga (USA).a78
-06204dadc975be5e5e37e7cc66f984cf	A0529DB5	GATO (USA) (Proto).a78
-f7bf702bd6995df5ec7e377fd17b2689	BF258A76	Hat Trick (Europe).a78
-e3009bea70564f42dea651aa6fb89bd2	6247EFA8	Hat Trick (USA).a78
-c8a73288ab97226c52602204ab894286	9BE408D3	High Score Cartridge (USA) (Proto).a78
-605b8fe25fcd5a8166f858f48bd3e454	9E43A69E	Ikari Warriors (Europe).a78
-09ab678572f2c2953a7dda3cc3cda0df	AA0CFB30	Ikari Warriors (USA).a78
-f9b53a96ad0a408d37fa1f1e745ac2df	DC1F3987	Impossible Mission (Europe).a78
-151ae3590901543a022b7a58c4d20ce6	FA0A683E	Impossible Mission (USA).a78
-93630d3b32690f4127edde9993163cba	7A2FA209	Jinks (Europe).a78
-f4eaa88fa34b608c5b521ddf821173c4	9571C998	Jinks (USA).a78
-1cc643e4ef4015ca8b4cac53ac9f8d72	9958FF37	Joust (Europe).a78
-6acb6db87bd24ab7eecdbef2f206b384	FDA13F77	Joust (USA).a78
-36dfd705194d331ff828866b7e8ca0ef	1FFA97DF	Karateka (Europe).a78
-a58e0790cf2940e33343daacee0bc864	7089A354	Karateka (USA).a78
-3fa3bf48510bd3c3464e6cc18864b8d8	0AE5C4D3	Klax (USA) (Proto).a78
-8c92c54ca423f866886a7955bc5d6996	00B75654	Kung-Fu Master (Europe).a78
-1d9513a8d2a837caca7bb4e9884a87cb	37816887	Kung-Fu Master (USA).a78
-fc806b64f8a6693d5b845eef69603188	04D779F4	Mario Bros. (Europe).a78
-4e1151e58e14ffca2a445d46981dab65	4D072A3E	Mario Bros. (USA).a78
-d5cbbe02760e0f13aacf2fb0808d968a	71B58DDB	Mat Mania Challenge (Europe).a78
-b34fec30a281a066c4098c44709f30ae	33BB15AC	Mat Mania Challenge (USA).a78
-a5a0f6297c29146162bcd6db7d30790e	D7F1D5A5	Mean 18 Ultimate Golf (Europe).a78
-a2467a3c756505010a37e9a687de57d5	D22F4B02	Mean 18 Ultimate Golf (USA).a78
-56ba37a817e0f434bbec9e9274b84d36	3CE19444	Meltdown (Europe).a78
-548c743c32058950d507861d7993d425	14502302	Meltdown (USA).a78
-6367b42ce5db0d97f8ff994225254e35	F68C312A	Midnight Mutants (Europe).a78
-e0cc5168d910557c01d3c95173ec7d0a	E7157222	Midnight Mutants (USA).a78
-a4741ba8f3569fdf1c49a3ce4baa0b69	C29973D4	Missing in Action (USA) (Proto).a78
-42faf283fee9fd61acf0691f349e929e	AF9AC9D6	Motor Psycho (Europe).a78
-06b27077568fe7529d2d0bdfdd974854	FC414689	Motor Psycho (USA).a78
-91b24c1e13b39b649d80efe1d9b742ae	9E186149	Ms. Pac-Man (Europe).a78
-12a6483c57d2060d1d07eed2f4cb63dd	5EC9C910	Ms. Pac-Man (USA).a78
-2376f769c6183f80bf4b791a57dc1554	0B070229	Ninja Golf (Europe).a78
-bb551483d114dcc5bae7aaa892ee856a	9E5D3625	Ninja Golf (USA).a78
-c6c901171fda11e1deba32ccff1a218d	15C95320	One-on-One Basketball (Europe).a78
-485478092c2f192eaf29ca199b753d16	34646E22	One-on-One Basketball (USA).a78
-e749db4d81db283c1b6628181504b1b8	ECECE40B	Pete Rose Baseball (USA).a78
-7152e5c43f700b253480d324affb6792	F29E8142	Pit Fighter (USA) (Proto).a78
-dd2428f9f032fc8eed7e2047820b41a3	E8929246	Planet Smashers (Europe).a78
-923ee9602e0af45fe5d2131dfd78214c	46342CD3	Planet Smashers (USA).a78
-80b81a4caf03cd6c4af6d37604037da8	9857C02B	Plutos (USA) (Proto).a78
-a0f09999a960c4df88ebbe652b286c2e	9D44A452	Pole Position II (Europe).a78
-dab84748d29d3854bca3675a8937988b	FD40B838	Pole Position II (USA) (Beta).a78
-8a4f2f898ee79593e2fc30061526ca08	4BF501CB	Pole Position II (USA).a78
-312f9df6d593e69567b1de26d283a2be	859D9352	Rampage (USA).a78
-ff265720384857524048270f05339817	9113DC54	Rampart (USA) (Proto).a78
-83a91c157d4feb13c3513b158d6c825f	F33BD4FD	RealSports Baseball (USA).a78
-8f7eb10ad0bd75474abf0c6c36c08486	9A74FBF2	Rescue on Fractalus (USA) (Proto).a78
-5ac3aa823da1a7a9738c208161fbca57	AB7BC9CE	Robotron - 2084 (USA).a78
-c3b2f0f462dbbf66d0c8c5c6e457d603	B435A5CB	Scrapyard Dog (Europe).a78
-eb1a0b793c58b2e2cacc01b843aebfed	DB61AE81	Scrapyard Dog (USA).a78
-967d09d8c03983cf92df73cabbeeea0e	BA588FF0	Sentinel (Europe).a78
-e31bc3ed3a32e17ad5a4a356e66799f1	A7F07116	Sentinel (USA) (Proto).a78
-ca5e2287229037b0de7f8dd5a6f0514f	9D3CD869	Sirius (USA) (Proto).a78
-559e0a7566616b83644718f6f501e7a8	05D35694	Summer Games (USA).a78
-38ca78bccd3f181b3a833e2bcecd921f	5E625072	Super Huey UH-IX (Europe).a78
-324a08b67016600e5bd21218aa3e84f8	629D1032	Super Huey UH-IX (USA).a78
-bbc4b9d8e81d46a56ffb9b94fa4e4848	B91C65C4	Super Skateboardin' (Europe).a78
-1203a779363886f017e1424a1d90481a	FAA12091	Super Skateboardin' (USA).a78
-66f904276dabed87fe79f18f794c6dd0	9FFC9515	Tank Command (USA).a78
-777646d3852f4232b43fe22f77063e1b	D0FF1A1A	Title Match Pro Wrestling (Europe).a78
-574b71c7cc5b0bc7746719cc8ffcf8ef	A5742A96	Title Match Pro Wrestling (USA).a78
-6bf9d6748a220cb6ff150f575b24aa14	957BF79C	Tomcat - The F-14 Fighter Simulator (Europe).a78
-176e6378f1d0e769dc6145fdde0a5081	AB48F361	Tomcat - The F-14 Fighter Simulator (USA).a78
-d257805d290cc03ab750fae960ca74d7	4162E98F	Touchdown Football (USA).a78
-36575046957046486396e943d10fef9f	B9269ACB	Tower Toppler (Europe).a78
-252515a9fea1976a99167a40df1e77a3	F701BD43	Tower Toppler (USA).a78
-a413c03945cb0627b7f5515dd6e9ea41	09A27634	Water Ski (USA).a78
-2c672efdb4f5eafd1b2ef10ea1ec4185	68DB3611	Winter Games (USA).a78
-c6c6051f7005c05820065426907f5390	73783E53	Xenophobe (Europe).a78
-46a7909d1fb1dd8ad4a6ae1c251cef33	96EE8584	Xenophobe (USA).a78
-a9b3fbc9abadad89fa62a28702adcba0	42AAF1FF	Xevious (Europe).a78
-dbbe99aeeb8cbc0f5f17cd0082d260a0	6FD15498	Xevious (USA) (Beta).a78
-6fa5ece1f97f65c207b8c252ee49f97c	44584FA2	Xevious (USA).a78
+397bb566584be7b9764e7a68974c4263	[BIOS] Atari 7800 (Europe).a78
+0763f1ffb006ddbe32e52d497ee848ae	[BIOS] Atari 7800 (USA).a78
+291bcdb05f2b37cdf9452d2bf08e0321	32 in 1 (Australia).a78
+441ac404cdc7bcbd4d787f911df7bf0d	7800 Monitor Cart (USA) (Program) (Unl).a78
+c31759d77154966654d414eaf1f5283c	Ace of Aces (Europe).a78
+4dd96d99c1228bb1fcae8c1b5c239197	Ace of Aces (USA).a78
+4e5826f8bcdecaae3258cce2da57c569	Alien Brigade (Europe).a78
+8bf5f92ed9a276c82139c47c9875fd17	Alien Brigade (USA).a78
+4332c24e4f3bc72e7fe1b77adf66c2b7	Asteroids (USA) (Beta).a78
+85b5587c5a9406ddd079aa6879093cf7	Asteroids (USA).a78
+0d9452d4db4d1e1cf843f4f10605eb7d	Atari 7800 Developement Card (USA).a78
+554004ca435ca02eb519086f45e44033	Ballblazer (Europe).a78
+a6659fcf536d601948f57767aef65741	Ballblazer (USA).a78
+138559499462d88d390d7cf93b344f5f	Barnyard Blaster (Europe).a78
+98477839e00a9f617a97a0e91a6ff0b1	Barnyard Blaster (USA).a78
+3ddfb8fe20b38500acdbcf158cdba11a	Baseball (Europe).a78
+7da7af81921b61d2757d796a9ff3814c	Basketbrawl (Europe).a78
+43b0a082f353919f83e4b37203af280f	Basketbrawl (USA).a78
+57ef570b8595bcdf0e26bc9b5b109b41	Centipede (Europe).a78
+7612b1bb30320d37d79b7f48b16430b2	Centipede (USA).a78
+028c6757a2528219ea39b26c35b953dc	Choplifter! (Europe).a78
+0826515be7d9bc1fea26a7d6063667c1	Choplifter! (USA).a78
+d59edcc53c3b1e4e565ff7234a5d37a6	Commando (Europe).a78
+95d5eac7b804f3cb1950e0d19a03afe7	Commando (USA).a78
+911049690a04e272d28ee80d12329bc9	Crack'ed (Europe).a78
+5a8344478c246200d0ef987557aae3cd	Crack'ed (USA).a78
+ff49656b248dd277f9d75dcca0a30116	Crossbow (Europe).a78
+68ae796ad700df322628ce9dfc82e802	Crossbow (USA).a78
+26036ccf66b2747fd00d3884a528614c	Dark Chambers (Europe).a78
+b94b39a2ece024bc79ad350914219a72	Dark Chambers (USA).a78
+a1e78ca5dd1b84ce5a96ab1590abfef1	Desert Falcon (Europe).a78
+ec1f38ae5b5e638e1ac84016ee1c0019	Desert Falcon (USA).a78
+6bfc9970b1a78e53653b650d3a833145	Diagnostic Test Cartrige (USA) (Beta).a78
+91041aadd1700a7a4076f4005f2c362f	Diagnostic Test Cartrige (USA).a78
+fa3279ef84d3f6a9df151ff578fcffe5	Dig Dug (Europe).a78
+3976abf29e9d6aa000bff8268c0d534e	Dig Dug (USA).a78
+124a82890e7723ca9af7c8c063c503ab	Donkey Kong (Europe).a78
+35eabe5b952a4f733b904f73511f884d	Donkey Kong (USA).a78
+c921a3c7028f03ec2469b92fa4b08d42	Donkey Kong Junior (Europe).a78
+c4940b2652d6a654cbbecfb59495ba24	Donkey Kong Junior (USA).a78
+994efa37ac630a7120b9a86629c8a613	Double Dragon (Europe).a78
+39c607e68a8e2bc870b2355a0273c973	Double Dragon (USA).a78
+4f6d09b0221636b56014e4756f4a9b17	F-18 Hornet (Europe).a78
+934a3ee1ae7f9d740c868064862da318	F-18 Hornet (USA).a78
+c9551260a5a8e79e38acd8294c791f5a	Fatal Run (Europe).a78
+fb28cd747d102114858010f6eb16ab35	Fatal Run (USA).a78
+57109e6e4e2852c23440300ad27ce3cb	Fight Night (Europe).a78
+c64fb1c181e2d8b807181bb3c0fffbe9	Fight Night (USA).a78
+68a62e30225431f4a789dbc957bc28ff	Food Fight (Europe).a78
+e05041ad193e354f9fa37c18f3550b5a	Food Fight (USA) (Beta).a78
+9a3819eef58dddb550fe997e7e6abee2	Food Fight (USA).a78
+712225bf32f418848375012c91bb8554	Galaga (Europe).a78
+1dd27b0caf03d6e3948d3be16ac30792	Galaga (USA).a78
+06204dadc975be5e5e37e7cc66f984cf	GATO (USA) (Proto).a78
+f7bf702bd6995df5ec7e377fd17b2689	Hat Trick (Europe).a78
+e3009bea70564f42dea651aa6fb89bd2	Hat Trick (USA).a78
+c8a73288ab97226c52602204ab894286	High Score Cartridge (USA) (Proto).a78
+605b8fe25fcd5a8166f858f48bd3e454	Ikari Warriors (Europe).a78
+09ab678572f2c2953a7dda3cc3cda0df	Ikari Warriors (USA).a78
+f9b53a96ad0a408d37fa1f1e745ac2df	Impossible Mission (Europe).a78
+151ae3590901543a022b7a58c4d20ce6	Impossible Mission (USA).a78
+93630d3b32690f4127edde9993163cba	Jinks (Europe).a78
+f4eaa88fa34b608c5b521ddf821173c4	Jinks (USA).a78
+1cc643e4ef4015ca8b4cac53ac9f8d72	Joust (Europe).a78
+6acb6db87bd24ab7eecdbef2f206b384	Joust (USA).a78
+36dfd705194d331ff828866b7e8ca0ef	Karateka (Europe).a78
+a58e0790cf2940e33343daacee0bc864	Karateka (USA).a78
+3fa3bf48510bd3c3464e6cc18864b8d8	Klax (USA) (Proto).a78
+8c92c54ca423f866886a7955bc5d6996	Kung-Fu Master (Europe).a78
+1d9513a8d2a837caca7bb4e9884a87cb	Kung-Fu Master (USA).a78
+fc806b64f8a6693d5b845eef69603188	Mario Bros. (Europe).a78
+4e1151e58e14ffca2a445d46981dab65	Mario Bros. (USA).a78
+d5cbbe02760e0f13aacf2fb0808d968a	Mat Mania Challenge (Europe).a78
+b34fec30a281a066c4098c44709f30ae	Mat Mania Challenge (USA).a78
+a5a0f6297c29146162bcd6db7d30790e	Mean 18 Ultimate Golf (Europe).a78
+a2467a3c756505010a37e9a687de57d5	Mean 18 Ultimate Golf (USA).a78
+56ba37a817e0f434bbec9e9274b84d36	Meltdown (Europe).a78
+548c743c32058950d507861d7993d425	Meltdown (USA).a78
+6367b42ce5db0d97f8ff994225254e35	Midnight Mutants (Europe).a78
+e0cc5168d910557c01d3c95173ec7d0a	Midnight Mutants (USA).a78
+a4741ba8f3569fdf1c49a3ce4baa0b69	Missing in Action (USA) (Proto).a78
+42faf283fee9fd61acf0691f349e929e	Motor Psycho (Europe).a78
+06b27077568fe7529d2d0bdfdd974854	Motor Psycho (USA).a78
+91b24c1e13b39b649d80efe1d9b742ae	Ms. Pac-Man (Europe).a78
+12a6483c57d2060d1d07eed2f4cb63dd	Ms. Pac-Man (USA).a78
+2376f769c6183f80bf4b791a57dc1554	Ninja Golf (Europe).a78
+bb551483d114dcc5bae7aaa892ee856a	Ninja Golf (USA).a78
+c6c901171fda11e1deba32ccff1a218d	One-on-One Basketball (Europe).a78
+485478092c2f192eaf29ca199b753d16	One-on-One Basketball (USA).a78
+e749db4d81db283c1b6628181504b1b8	Pete Rose Baseball (USA).a78
+7152e5c43f700b253480d324affb6792	Pit Fighter (USA) (Proto).a78
+dd2428f9f032fc8eed7e2047820b41a3	Planet Smashers (Europe).a78
+923ee9602e0af45fe5d2131dfd78214c	Planet Smashers (USA).a78
+80b81a4caf03cd6c4af6d37604037da8	Plutos (USA) (Proto).a78
+a0f09999a960c4df88ebbe652b286c2e	Pole Position II (Europe).a78
+dab84748d29d3854bca3675a8937988b	Pole Position II (USA) (Beta).a78
+8a4f2f898ee79593e2fc30061526ca08	Pole Position II (USA).a78
+312f9df6d593e69567b1de26d283a2be	Rampage (USA).a78
+ff265720384857524048270f05339817	Rampart (USA) (Proto).a78
+83a91c157d4feb13c3513b158d6c825f	RealSports Baseball (USA).a78
+8f7eb10ad0bd75474abf0c6c36c08486	Rescue on Fractalus (USA) (Proto).a78
+5ac3aa823da1a7a9738c208161fbca57	Robotron - 2084 (USA).a78
+c3b2f0f462dbbf66d0c8c5c6e457d603	Scrapyard Dog (Europe).a78
+eb1a0b793c58b2e2cacc01b843aebfed	Scrapyard Dog (USA).a78
+967d09d8c03983cf92df73cabbeeea0e	Sentinel (Europe).a78
+e31bc3ed3a32e17ad5a4a356e66799f1	Sentinel (USA) (Proto).a78
+ca5e2287229037b0de7f8dd5a6f0514f	Sirius (USA) (Proto).a78
+559e0a7566616b83644718f6f501e7a8	Summer Games (USA).a78
+38ca78bccd3f181b3a833e2bcecd921f	Super Huey UH-IX (Europe).a78
+324a08b67016600e5bd21218aa3e84f8	Super Huey UH-IX (USA).a78
+bbc4b9d8e81d46a56ffb9b94fa4e4848	Super Skateboardin' (Europe).a78
+1203a779363886f017e1424a1d90481a	Super Skateboardin' (USA).a78
+66f904276dabed87fe79f18f794c6dd0	Tank Command (USA).a78
+777646d3852f4232b43fe22f77063e1b	Title Match Pro Wrestling (Europe).a78
+574b71c7cc5b0bc7746719cc8ffcf8ef	Title Match Pro Wrestling (USA).a78
+6bf9d6748a220cb6ff150f575b24aa14	Tomcat - The F-14 Fighter Simulator (Europe).a78
+176e6378f1d0e769dc6145fdde0a5081	Tomcat - The F-14 Fighter Simulator (USA).a78
+d257805d290cc03ab750fae960ca74d7	Touchdown Football (USA).a78
+36575046957046486396e943d10fef9f	Tower Toppler (Europe).a78
+252515a9fea1976a99167a40df1e77a3	Tower Toppler (USA).a78
+a413c03945cb0627b7f5515dd6e9ea41	Water Ski (USA).a78
+2c672efdb4f5eafd1b2ef10ea1ec4185	Winter Games (USA).a78
+c6c6051f7005c05820065426907f5390	Xenophobe (Europe).a78
+46a7909d1fb1dd8ad4a6ae1c251cef33	Xenophobe (USA).a78
+a9b3fbc9abadad89fa62a28702adcba0	Xevious (Europe).a78
+dbbe99aeeb8cbc0f5f17cd0082d260a0	Xevious (USA) (Beta).a78
+6fa5ece1f97f65c207b8c252ee49f97c	Xevious (USA).a78

@@ -1,0 +1,11 @@
+d87d876c4391935c9d48ef352a3ff02d	[BIOS] SNK Neo Geo Pocket (Japan, Europe).ngp
+9150a58f7094a48b980c1ac71b9cfab9	Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).ngp
+347d0ef33c889cc826d214caf8475ae0	King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp
+8b5500bdf12d0d26f84d6e2d6d8e5008	King of Fighters R-1 - Pocket Kakutou Series & Melon-chan no Seichou Nikki (Japan) (Demo).ngp
+104101b61276fff91574a50b6d5f38bc	Melon-chan no Seichou Nikki (Japan).ngp
+006afe2dec77d73a2c592aeb1b3f694c	Neo Cherry Master - Real Casino Series (Japan) (En,Ja).ngp
+30efe4f72d4678ffb97b885b1b7c3da1	Neo Geo Cup '98 (Japan, Europe) (En,Ja).ngp
+58308b9bdf0b90b632ac4d3655a81f6d	Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).ngp
+9330c9a7bbd6a7dc5b5963a5b7623443	Renketsu Puzzle Tsunagete Pon! (Japan).ngp
+d13f954b2f1c703bdf857837c24e332e	Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp
+9250b3328d64d3a1e7f9d50a04ceb64f	Shougi no Tatsujin (Japan).ngp
