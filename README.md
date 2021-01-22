@@ -101,11 +101,11 @@ Definitive lists of RetroAchievement ROM hashes
 |Apple II|TOSEC|✔️|✔️|✔️|N/A|
 |MSX|TOSEC|❌|❌|❌|❌|
 |MSX2|TOSEC|❌|❌|❌|❌|
-|PC Engine CD/TurboGrafx-CD|Redump|❌|❌|❌|❌|
-|Sega/Mega CD|Redump|❌|❌|❌|❌|
+|PC Engine CD/TurboGrafx-CD|Redump|✔️|N/A|N/A|✔️|
+|Sega/Mega CD|Redump|✔️|N/A|N/A|✔️|
 |PlayStation|Redump|❌|❌|❌|❌|
-|Sega Saturn|Redump|❌|❌|❌|❌|
-|3DO Interactive Multiplayer|Redump|❌|❌|❌|❌|
+|Sega Saturn|Redump|✔️|N/A|N/A|✔️|
+|3DO Interactive Multiplayer|Redump|✔️|N/A|N/A|✔️|
 |NEC PC-FX|Redump|✔️|N/A|N/A|✔️|
 |SNES MSU-1 Packs|Various|❌|❌|❌|❌|
 |Various|MameSL|❌|❌|❌|❌|
