@@ -73,15 +73,15 @@ Definitive lists of RetroAchievement ROM hashes
 |Nintendo - Virtual Boy (20200219-181350)|No Intro|✔️|✔️|✔️|N/A|
 |Nintendo - Virtual Boy (GoodVBoy v3.1415)|GoodTools|✔️|✔️|✔️|N/A|
 |NonGoodVB|NonGood|✔️|✔️|✔️|N/A|
-|SNK - Neo Geo Pocket (20201106-202832)|No Intro|❌|❌|❌|❌|
-|SNK - Neo Geo Pocket Color (20201106-204328)|No Intro|❌|❌|❌|❌|
+|SNK - Neo Geo Pocket (20201106-202832)|No Intro|✔️|✔️|✔️|N/A|
+|SNK - Neo Geo Pocket Color (20201106-204328)|No Intro|✔️|✔️|✔️|N/A|
 |SNK - Neo Geo Pocket (GoodNGPx v3.27)|GoodTools|✔️|✔️|✔️|N/A|
 |SNK - Neo Geo Pocket/Color (NonGoodNGPx)|NonGood|✔️|✔️|✔️|N/A|
 |Sega - 32X (20191204-183941)|No Intro|❌|❌|❌|❌|
 |Sega - 32X - GoodGen V3.21|GoodTools|✔️|✔️|✔️|N/A|
 |Sega - Game Gear (20201227-043658)|No Intro|❌|❌|❌|❌|
 |Sega - Game Gear (GoodGG v3.20)|GoodTools|✔️|✔️|✔️|N/A|
-|NonGoodGG|NonGood|✔️|✔️|✔️|N/A|
+|Sega - Game Gear (NonGoodGG)|NonGood|✔️|✔️|✔️|N/A|
 |Sega - Master System - Mark III (20201103-015616)|No Intro|✔️|✔️|✔️|N/A|
 |Sega - Master System (GoodSMS v3.20)|GoodTools|✔️|✔️|✔️|N/A|
 |Sega - Master System (NonGood)|NonGood|✔️|✔️|✔️|N/A|
@@ -89,7 +89,7 @@ Definitive lists of RetroAchievement ROM hashes
 |Sega - Mega Drive - Genesis - GoodGen V3.21|GoodTools|✔️|✔️|✔️|N/A|
 |Sega - SG-1000 (20200217-185318)|No Intro|❌|❌|❌|❌|
 |Sega - SG-1000 (GoodSMS v3.20)|GoodTools|✔️|✔️|✔️|N/A|
-|Sega - SG-1000 (NonGood)|NonGood|✔️|✔️|✔️|N/A|
+|Sega - SG-1000 (NonGoodSMS)|NonGood|✔️|✔️|✔️|N/A|
 |NEC PC-6001|Neo Kobe|❌|❌|❌|❌|
 |NEC PC-8001|Neo Kobe|✔️|✔️|✔️|N/A|
 |NEC PC-8801|Neo Kobe|✔️|✔️|✔️|N/A|
