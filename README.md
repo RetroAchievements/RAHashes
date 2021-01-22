@@ -36,8 +36,14 @@ Definitive lists of RetroAchievement ROM hashes
 |Nintendo - Family Computer Disk System (FDSStickBIN) (20201103-135924)|No Intro|❌|❌|❌|❌|
 |Nintendo - Family Computer Disk System (FDSStickRAW) (20201103-135924)|No Intro|❌|❌|❌|❌|
 |Nintendo - Game Boy (20210101-042256)|No Intro|❌|❌|❌|❌|
+|Nintendo - Game Boy (GoodGBx 3.14)|GoodTools|✔️|✔️|✔️|N/A|
+|Nintendo - Game Boy (NonGoodGBx)|NonGood|✔️|✔️|✔️|N/A|
 |Nintendo - Game Boy Advance (20210109-085221)|No Intro|❌|❌|❌|❌|
+|Nintendo - Game Boy Advance (GoodGBA 3.23)|GoodTools|✔️|✔️|✔️|N/A|
+|Nintendo - Game Boy Advance (NonGoodGBA)|NonGood|✔️|✔️|✔️|N/A|
 |Nintendo - Game Boy Color (20201227-202253) (MIA 1)|No Intro|❌|❌|❌|❌|
+|Nintendo - Game Boy Color (GoodGBx 3.14)|GoodTools|✔️|✔️|✔️|N/A|
+|Nintendo - Game Boy Color (NonGoodGBx)|NonGood|✔️|✔️|✔️|N/A|
 |Nintendo - Nintendo 64 (BigEndian) (20201230-060018)|No Intro|❌|❌|❌|❌|
 |Nintendo - Nintendo 64 (ByteSwapped) (20201230-060018)|No Intro|❌|❌|❌|❌|
 |Nintendo - Nintendo DS|No Intro|❌|❌|❌|❌|
@@ -47,7 +53,9 @@ Definitive lists of RetroAchievement ROM hashes
 |Nintendo - Pokemon Mini (20140804-123237)|No Intro|❌|❌|❌|❌|
 |Nintendo - Satellaview (20201226-093906)|No Intro|❌|❌|❌|❌|
 |Nintendo - Sufami Turbo (20201218-081558)|No Intro|❌|❌|❌|❌|
-|Nintendo - Super Nintendo Entertainment System (Combined) (20201230-192658)|No Intro|❌|❌|❌|❌|
+|Nintendo - Super Nintendo Entertainment System (Combined) (20201230-192658)|No Intro|✔️|✔️|✔️|✔️|
+|Nintendo - GoodSNES|GoodTools|✔️|✔️|✔️|✔️|
+|Nintendo - NonGoodSNES|NonGood|✔️|✔️|✔️|✔️|
 |Nintendo - Virtual Boy (20200219-181350)|No Intro|❌|❌|❌|❌|
 |Nintendo - Virtual Boy (GoodVBoy v3.1415)|GoodTools|✔️|✔️|✔️|N/A|
 |NonGoodVB|NonGood|✔️|✔️|✔️|N/A|
@@ -76,13 +84,9 @@ Definitive lists of RetroAchievement ROM hashes
 |Atari - NonGoodLynx (1-1-2018)|NonGood|✔️|✔️|✔️|✔️|
 |Bandai - WonderSwan + Color (GoodWSx v3.27)|GoodTools|❌|❌|❌|❌|
 |Matttel - Intellivision (GoodINTV v2.03)|GoodTools|❌|❌|❌|❌|
-|Nintendo - Game Boy + Color (GoodGBx v3.14)|GoodTools|❌|❌|❌|❌|
-|Nintendo - Game Boy Advance (GoodGBA v3.27)|GoodTools|❌|❌|❌|❌|
 |Nintendo - Nintendo 64 (GoodN64 v3.27)|GoodTools|❌|❌|❌|❌|
 |Nintendo - Nintendo Entertainment System (GoodNES v3.23)|GoodTools|❌|❌|❌|❌|
-|Nintendo - Super Nintendo Entertainment System (GoodSNES v3.27)|GoodTools|❌|❌|❌|❌|
 |SNK - Neo Geo Pocket (GoodNGPx v3.27)|GoodTools|❌|❌|❌|❌|
-|Sega - Mega Drive - Genesis - 32X (GoodGen v3.21)|GoodTools|❌|❌|❌|❌|
 |Spectravideo - MSX (GoodMSX1 v.0.999.3)|GoodTools|❌|❌|❌|❌|
 |Spectravideo - MSX2 (GoodMSX2 v0.999.3)|GoodTools|❌|❌|❌|❌|
 |Final Burn Neo|Final Burn Neo|❌|❌|❌|❌|
