@@ -67,8 +67,8 @@ Console ID|ROMset|Group|Filenames|ROM Checksums|RA Checksums|
 |23|Magnavox - Odyssey2 (20200720)|No Intro|✔️|✔️|N/A|
 |24|Nintendo Pokemon Mini (20140804-123237)|No Intro|✔️|✔️|N/A|
 |24|Nintendo Pokemon Mini (NonGoodMini)|NonGood|✔️|✔️|N/A|
-|25|Atari 2600 (20200514)|No Intro|✔️|✔️||N/A|
-|25|Atari 2600 (Good2600 v3.14)|GoodTools|✔️|✔️||N/A|
+|25|Atari 2600 (20200514)|No Intro|✔️|✔️|N/A|
+|25|Atari 2600 (Good2600 v3.14)|GoodTools|✔️|✔️|N/A|
 |25|Atari 2600 (NonGood2600)|NonGood|✔️|✔️|N/A|
 |27|Final Burn Neo|Final Burn Neo|✔️|N/A|✔️|
 |28|Nintendo - Virtual Boy (20200219-181350)|No Intro|✔️|✔️|N/A|
