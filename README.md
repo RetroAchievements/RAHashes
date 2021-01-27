@@ -49,7 +49,7 @@ Console ID|ROMset|Group|Filenames|ROM Checksums|RA Checksums|
 |11|Sega Master System - Mark III (20201103-015616)|No Intro|✔️|✔️|N/A|
 |11|Sega Master System (GoodSMS v3.20)|GoodTools|✔️|✔️|N/A|
 |11|Sega Master System (NonGoodSMS)|NonGood|✔️|✔️|N/A|
-|12|Sony PlayStation|Redump|❌|❌|❌|
+|12|Sony PlayStation|Redump|✔️|N/A|✔️|
 |13|Atari Lynx (20201108) [unheadered]|No Intro|❌|❌|❌|
 |13|Atari Lynx (GoodLynx v2.01)|GoodTools|✔️|✔️|✔️|
 |13|Atari Lynx (NonGoodLynx) (1-1-2018)|NonGood|✔️|✔️|✔️|
@@ -64,7 +64,7 @@ Console ID|ROMset|Group|Filenames|ROM Checksums|RA Checksums|
 |17|Atari Jaguar (ROM) (20200926)|No Intro|✔️|✔️|N/A|
 |17|Atari Jaguar (GoodJag v2.01)|GoodTools|✔️|✔️|N/A|
 |17|Atari Jaguar (NonGoodJag)|NonGood|✔️|✔️|N/A|
-|18|Nintendo - Nintendo DS|No Intro|❌|❌|❌|
+|18|Nintendo - Nintendo DS|No Intro|✔️|N/A|✔️|
 |23|Magnavox - Odyssey2 (20200720)|No Intro|✔️|✔️|N/A|
 |24|Nintendo Pokemon Mini (20140804-123237)|No Intro|✔️|✔️|N/A|
 |24|Nintendo Pokemon Mini (NonGoodMini)|NonGood|✔️|✔️|N/A|
