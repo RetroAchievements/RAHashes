@@ -1,5 +1,9 @@
 [img=https://retroachievements.org/Images/labels/linkedfiles.png]
 
+[b] [/b]
+[i]RA Checksum:[/i] 
+[i]CRC32 Checksum:[/i] 
+
 [img=https://retroachievements.org/Images/labels/atariage.png]
 [img=https://retroachievements.org/Images/labels/itchio.png]
 [PDROMS]
@@ -8,6 +12,7 @@
 -----------
 Amoeba Jump
 -----------
+
 [b]Amoeba Jump v1.3 NTSC.bin [img=https://retroachievements.org/Images/labels/atariage.png] [/b]
 [i]RA Checksum:[/i] 539f3c42c4e15f450ed93cb96ce93af5
 [i]CRC32 Checksum:[/i] E4349CEF
@@ -21,6 +26,7 @@ Amoeba Jump
 --------------------------------------
 Angry Video Game Nerd K.O. Boxing, The
 --------------------------------------
+
 [b]AVGN KO Boxing 2009-09-06 NTSC.bin [img=https://retroachievements.org/Images/labels/atariage.png] [/b]
 [i]RA Checksum:[/i] 6a7e6fc102bf7459f89419c548a79e2c
 [i]CRC32 Checksum:[/i] 53F02C00
@@ -40,6 +46,7 @@ Bee-Ball
 ------
 Flappy
 ------
+
 [b]flappy_RC2.bin [img=https://retroachievements.org/Images/labels/atariage.png] [/b]
 [i]RA Checksum:[/i] 2d33a44e82f88d05f6c50577218c0cae
 [i]CRC32 Checksum:[/i] 1A7EC0C2
@@ -122,6 +129,36 @@ Joy Ride
 
 [b][url=https://atariage.com/forums/topic/210515-new-2600-homebrews-heartbreak-fix-it-felix-sr-joy-ride/]Download[/url][/b]
 
+--------
+Lady Bug
+--------
+
+[b]ladybug_FINAL_NTSC.bin [img=https://retroachievements.org/Images/labels/atariage.png] [/b]
+[i]RA Checksum:[/i] adfbd2e8a38f96e03751717f7422851d
+[i]CRC32 Checksum:[/i] 622D813A
+
+[b][url=https://atariage.com/software_page.php?SoftwareLabelID=2742]Download[/url][/b]
+
+----
+Lead
+----
+
+[b]lead_8k_final.bin [img=https://retroachievements.org/Images/labels/atariage.png] [/b]
+[i]RA Checksum:[/i] c8c67862963ffe262b80cbb35eeee046
+[i]CRC32 Checksum:[/i] 7311483C
+
+[b][url=https://atariage.com/forums/topic/108514-lead/?do=findComment&comment=1447424]Download[/url][/b]
+
+--------
+Mega Man
+--------
+
+[b]MegaManDemo.bin [img=https://retroachievements.org/Images/labels/atariage.png] [/b]
+[i]RA Checksum:[/i] c74ddb744209a92382616e2fa38d1378
+[i]CRC32 Checksum:[/i] 9158B4ED
+
+[b][url=https://atariage.com/forums/topic/146735-mega-man-2600-demo-game-binary/]Download[/url][/b]
+
 -------
 Oystron
 -------
@@ -153,6 +190,16 @@ Princess Rescue
 
 [b][url=https://atariage.com/forums/topic/215058-princess-rescue-binaries-released/]Download[/url][/b]
 
+----------------
+Rainbow Invaders
+----------------
+
+[b]Rainbow Invaders NTSC.bin [img=https://retroachievements.org/Images/labels/atariage.png] [/b]
+[i]RA Checksum:[/i] cb96b0cf90ab7777a2f6f05e8ad3f694
+[i]CRC32 Checksum:[/i] CE31AB8C
+
+[b][url=https://atariage.com/software_page.php?SoftwareLabelID=2739]Download[/url][/b]
+
 -----------
 Sheep It Up
 -----------
@@ -171,6 +218,37 @@ Sheep It Up
 
 [b][url=https://drludos.itch.io/sheep-it-up-2600]Download[/url][/b]
 
+---------
+Skeleton+
+---------
+
+[b]SkelPlus.bin [img=https://retroachievements.org/Images/labels/atariage.png] [/b]
+[i]RA Checksum:[/i] eafe8b40313a65792e88ff9f2fe2655c
+[i]CRC32 Checksum:[/i] 69666409
+
+[b][url=https://atariage.com/software_page.php?SoftwareLabelID=2381]Download[/url][/b]
+
+-----
+Snake
+-----
+
+[img=https://retroachievements.org/Images/labels/linkedfiles.png]
+[b]snake.bin [img=https://retroachievements.org/Images/labels/atariage.png] [/b]
+[i]RA Checksum:[/i] bd81069d0945f26d7ff753767208c305
+[i]CRC32 Checksum:[/i] 5C0B7E5F
+
+[b][url=https://atariage.com/forums/applications/core/interface/file/attachment.php?id=185734]Download[/url][/b]
+
+-----------
+Space Rocks
+-----------
+
+[b]spacerocks20120430.bin [img=https://retroachievements.org/Images/labels/atariage.png] [/b]
+[i]RA Checksum:[/i] e2d85cfb3c421412805699093f68c8f6
+[i]CRC32 Checksum:[/i] F1147A9E
+
+[b][url=https://atariage.com/forums/topic/197315-space-rocks-2600/[/url][/b]
+
 ------------------
 Super 3D Portals 6
 ------------------
@@ -180,6 +258,16 @@ Super 3D Portals 6
 [i]CRC32 Checksum:[/i] 529D4B10
 
 [b][url=https://forums.tigsource.com/index.php?topic=2391.0]Download[/url][/b]
+
+--------
+Tetris26
+--------
+
+[b]tetris.bin [/b]
+[i]RA Checksum:[/i] 0279a63d922163da5a4fde76397f3fe0
+[i]CRC32 Checksum:[/i] EBE8D2A9
+
+[b][url=https://github.com/udibr/tetris26/blob/master/tetris.bin]Download[/url][/b]
 
 -----------
 Video Simon

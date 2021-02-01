@@ -30,6 +30,10 @@
 [i]RA Checksum:[/i] 157bddb7192754a45372be196797f284
 [i]CRC32 Checksum:[/i] A6DB4B3A
 
+[b]Adventure (Europe).a26 [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] 4b27f5397c442d25f0c418ccdacf1926
+[i]CRC32 Checksum:[/i] 18DC23F9
+
 [b]Adventures of TRON (USA).a26 [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
 [i]RA Checksum:[/i] ca4f8c5b4d6fb9d608bb96bc7ebd26c7
 [i]CRC32 Checksum:[/i] 1B8019D6
@@ -1454,7 +1458,6 @@
 [i]CRC32 Checksum:[/i] EA3BFF1C
 
 [b]Q-bert (USA).a26 [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Qbert CCE.bin [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
 [i]RA Checksum:[/i] 484b0076816a104875e00467d431c2d2
 [i]CRC32 Checksum:[/i] 54142E3E
 
@@ -1463,7 +1466,6 @@
 [i]CRC32 Checksum:[/i] D9F499C5
 
 [b]Quadrun (USA).a26 [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Quadrun (1983) (Atari, Frank Hausman, Steve Woita) (CX2686) ~.bin [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
 [i]RA Checksum:[/i] 024365007a87f213cbe8ef5f2e8e1333
 [i]CRC32 Checksum:[/i] 8D3C887B
 
@@ -1582,7 +1584,6 @@
 [i]CRC32 Checksum:[/i] 27D2DF2C
 
 [b]Road Runner (USA).a26 [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Road Runner (1989) (Atari, Robert C. Polaro) (CX2663) ~.bin [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
 [i]RA Checksum:[/i] ce5cc62608be2cd3ed8abd844efb8919
 [i]CRC32 Checksum:[/i] CB79C061
 
@@ -2915,12 +2916,6 @@
 [b]Advent - Final Beta (Adventure Hack).a26 [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] ff76a599013f31501877a694522bb2a0
 [i]CRC32 Checksum:[/i] 458154A7
-
-[b]Adventure (1978) (Atari) (PAL) [!].a26 [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]Adventure (1978)(Atari)(PAL).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
-[b]adventure (pal).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 4b27f5397c442d25f0c418ccdacf1926
-[i]CRC32 Checksum:[/i] 18DC23F9
 
 [b]Adventure (1978) (Atari) [t1].a26 [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [b]Adventure (1978)(Atari)(NTSC)[t].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
@@ -22302,8 +22297,6 @@
 [i]CRC32 Checksum:[/i] DAE6296A
 
 [b]Pepsi Invaders - Coke Wins (1983) (Atari).a26 [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]Pepsi Invaders (1983)(Atari)(NTSC)(proto)[aka Coke Wins].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
-[b]pepsi invaders - coke wins (coca-cola, coke & pepsi) (1983) (atari, richard maurer, christopher h. omarzu - coca cola).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 212d0b200ed8b45d8795ad899734d7d7
 [i]CRC32 Checksum:[/i] 7AC99B5C
 

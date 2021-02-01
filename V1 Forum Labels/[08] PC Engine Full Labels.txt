@@ -1,29 +1,20 @@
 [b]1941 - Counter Attack (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]1941 - Counter Attack (J) (SGX).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]1941 - counter attack (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 30686dba4795521174658de2492e0046
 [i]CRC32 Checksum:[/i] 8C4588E2
 
 [b]1943 Kai (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]1943 kai (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]1943 kai (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 42cfdf8495ce8338d83c73b38ae274b6
 [i]CRC32 Checksum:[/i] FDE08D6D
 
 [b]21 Emon - Mezase Hotel Ou!! (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]21 emon - mezase hotel ou!! (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 86e3ed839f053bb99ebf1760439c3a3c
 [i]CRC32 Checksum:[/i] 73614660
 
 [b]Adventure Island (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Adventure Island (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]adventure island (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 65ea7bebc2ecaeda8cee373ff2a83534
 [i]CRC32 Checksum:[/i] 8E71D4F3
 
 [b]Aero Blasters (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]aero blasters (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]aero blasters (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 3d3b872d9031fa3227d68f2239b00b82
 [i]CRC32 Checksum:[/i] 25BE2B81
 
@@ -32,33 +23,22 @@
 [i]CRC32 Checksum:[/i] B03E0B32
 
 [b]After Burner II (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]After Burner II (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]After Burner II (1990)(NEC)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
-[b]after burner ii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]after burner ii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] ac0cdee014e725e428fde5774751ff8d
 [i]CRC32 Checksum:[/i] CA72A828
 
 [b]Air Zonk (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Air Zonk (1992)(Hudson)(US).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
 [i]RA Checksum:[/i] 406bec60ffca9ac151a793969b0c10c6
 [i]CRC32 Checksum:[/i] 933D5BCC
 
 [b]Aldynes - The Misson Code for Rage Crisis (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Aldynes (J) (SGX).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]Aldynes (1991)(Hudson)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
-[b]aldynes (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 8ce21667658ef9c025ad007f65147c6d
 [i]CRC32 Checksum:[/i] 4C2126B0
 
 [b]Alien Crush (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Alien Crush (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]alien crush (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 6697cf388dd28e67c92276ce598dbec8
 [i]CRC32 Checksum:[/i] 60EDF4E1
 
 [b]Alien Crush (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Alien Crush (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 0088d1d20861490677edb147d2de60bd
 [i]CRC32 Checksum:[/i] EA488494
 
@@ -67,45 +47,34 @@
 [i]CRC32 Checksum:[/i] A980E0E9
 
 [b]Ankoku Densetsu (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]ankoku densetsu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] cc264acf289ab120f52457d5311d7aec
 [i]CRC32 Checksum:[/i] CACC06FB
 
 [b]Aoi Blink (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]aoi blink (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] f1a8431d75e05812590d0f23135eecaa
 [i]CRC32 Checksum:[/i] 08A09B9A
 
 [b]Appare! Gateball (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]appare gateball (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 3f2f9b623fb76e272561a6db1ea0f875
 [i]CRC32 Checksum:[/i] 2B54CBA2
 
 [b]Armed F (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]armed formation f (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]armed formation f (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] c9efecc5c9854bfe79db25cd01614802
 [i]CRC32 Checksum:[/i] 20EF87FD
 
 [b]Artist Tool (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Artist Tool (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]artist tool (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 549d32279281af79c104f51a3c603628
 [i]CRC32 Checksum:[/i] 5E4FA713
 
 [b]Atomic Robo-Kid Special (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]atomic robo-kid special (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 548ca5eb135f526f3a2837f5259d795f
 [i]CRC32 Checksum:[/i] DD175EFD
 
 [b]AV Poker - World Gambler (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]av poker (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] d395beb4a1e3fc80831870995b169358
 [i]CRC32 Checksum:[/i] B866D282
 
 [b]Ballistix (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]ballistix (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]ballistix (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 6de6635138b034e133720d11279b8ea7
 [i]CRC32 Checksum:[/i] 8ACFC8AA
 
@@ -114,27 +83,22 @@
 [i]CRC32 Checksum:[/i] 420FA189
 
 [b]Bari Bari Densetsu (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]bari bari densetsu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 539eb9333d3e39f597786288872917dc
 [i]CRC32 Checksum:[/i] C267E25D
 
 [b]Barunba (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]barunba (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] a39fba5fe056ae0fb25ded19f1cdaeed
 [i]CRC32 Checksum:[/i] 4A3DF3CA
 
 [b]Batman (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]batman (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 6c35cbaf97b7285a9373b9ae9f553411
 [i]CRC32 Checksum:[/i] 106BB7B2
 
 [b]Battle Ace (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]battle ace (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] fc0053c0c050353b87886b1b89349168
 [i]CRC32 Checksum:[/i] 3B13AF61
 
 [b]Battle Lode Runner (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]battle lode runner (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 52ac9b2e9f552558b8658cabae4639a3
 [i]CRC32 Checksum:[/i] 59E44F45
 
@@ -143,27 +107,22 @@
 [i]CRC32 Checksum:[/i] E70B01AF
 
 [b]Be Ball (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]be ball (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 04761094be302abfd6ceb0f38dbb78ce
 [i]CRC32 Checksum:[/i] E439F299
 
 [b]Benkei Gaiden (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]benkei gaiden (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 41e5131613fd41b9cab87191cee474a5
 [i]CRC32 Checksum:[/i] C9626A43
 
 [b]Benkei Gaiden (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]benkei gaiden (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] fe54ee82279992cef3aeb14aa3f795d9
 [i]CRC32 Checksum:[/i] E1A73797
 
 [b]Bikkuriman World (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]bikkuriman world (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] fe2dab5a24d21ef36089e88f62b53865
 [i]CRC32 Checksum:[/i] 34893891
 
 [b]Bikkuriman World (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]bikkuriman world (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 7822065caf6c6b5cd8f16189915b4e21
 [i]CRC32 Checksum:[/i] 2841FD1E
 
@@ -172,7 +131,6 @@
 [i]CRC32 Checksum:[/i] B4A1B0F6
 
 [b]Blodia (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]blodia (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] f00d36670099ff22488315c94de39931
 [i]CRC32 Checksum:[/i] 958BCD09
 
@@ -181,18 +139,14 @@
 [i]CRC32 Checksum:[/i] 37BAF6BC
 
 [b]Bodycon Quest II (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Body Conquest II (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]body conquest ii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] ac341b143c8a35a9efd5e8d3c803e543
 [i]CRC32 Checksum:[/i] FFD92458
 
 [b]Bomberman '93 (Japan) (Special Version).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]bomberman '93 (special version) (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 8930d24e64be677b898423a295b2bde0
 [i]CRC32 Checksum:[/i] 02309AA0
 
 [b]Bomberman '93 (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]bomberman '93 (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 17a08fca7468a24039f1a6c97015807f
 [i]CRC32 Checksum:[/i] B300C5D0
 
@@ -201,13 +155,10 @@
 [i]CRC32 Checksum:[/i] 56171C1C
 
 [b]Bomberman '94 (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]bomberman '94 (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 31a21937e7bda97ee54fd49f2475b6d3
 [i]CRC32 Checksum:[/i] 05362516
 
 [b]Bomberman (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]bomberman (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]bomberman (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 4bece0e426eec02f894399219f1951cf
 [i]CRC32 Checksum:[/i] 9ABB4D1F
 
@@ -216,7 +167,6 @@
 [i]CRC32 Checksum:[/i] 5F6F3C2A
 
 [b]Bomberman - Users Battle (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]bomberman - users battle (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] dccedf6d85ea5cf9c37c1c963b328735
 [i]CRC32 Checksum:[/i] 1489FA51
 
@@ -229,13 +179,10 @@
 [i]CRC32 Checksum:[/i] 599EAD9B
 
 [b]Bonk's Revenge (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Bonk's Revenge (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] dd97fe7e1572fe65fcb44e2757764b16
 [i]CRC32 Checksum:[/i] 14250F9A
 
 [b]Bouken Danshaku Don - The Lost Sunheart (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Bouken Danshaku Don - The Lost Sunheart (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]bouken danshaku don - the lost sunheart (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 85e073902278ac45b52adfec1ab1535a
 [i]CRC32 Checksum:[/i] 8F4D9F94
 
@@ -244,39 +191,30 @@
 [i]CRC32 Checksum:[/i] 605BE213
 
 [b]Bravoman (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Bravoman (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] f60f3d46b7fab6060c3be9aad2103558
 [i]CRC32 Checksum:[/i] CCA08B02
 
 [b]Break In (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]break in (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] ccf0795c95150fc3246926312fecf842
 [i]CRC32 Checksum:[/i] C9D7426A
 
 [b]Bubblegum Crash! - Knight Sabers 2034 (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Bubblegum Crash! - Knight Sabers 2034 (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]bubblegum crash! - knight sabers 2034 (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 8aa27a2cdc063b278e063166a168a307
 [i]CRC32 Checksum:[/i] 0D766139
 
 [b]Bull Fight - Ring no Hasha (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]bull fight - ring no haja (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]bull fight - ring no haja (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 7a48865eddcc5ef4bd998a5bfea05ae4
 [i]CRC32 Checksum:[/i] 5C4D1991
 
 [b]Burning Angels (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]burning angels (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 214a55e19aed90a0095ca0d65894b7d3
 [i]CRC32 Checksum:[/i] D233C05A
 
 [b]Busou Keiji - Cyber Cross (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]busou keiji - cyber cross (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] d11ceaccd53d005329febde8683192c7
 [i]CRC32 Checksum:[/i] D0C250CA
 
 [b]Cadash (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]cadash (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] d42cf9bda2b8691a63c3f8337daa9b1d
 [i]CRC32 Checksum:[/i] 8DC0D85F
 
@@ -285,34 +223,26 @@
 [i]CRC32 Checksum:[/i] BB0B3AEF
 
 [b]Champion Wrestler (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]champion wrestler (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 337b0aa40e3c133b6242aa0b71a4fd20
 [i]CRC32 Checksum:[/i] 9EDC0AEA
 
 [b]Champions Forever Boxing (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Champions Forever Boxing (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] fcd3e7f105514b61ff25dc3477f8b138
 [i]CRC32 Checksum:[/i] 15EE889A
 
 [b]Chew Man Fu (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Chew Man Fu (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] ff32565f935af07372e1dfd0ac7fbe78
 [i]CRC32 Checksum:[/i] 8CD13E9A
 
 [b]Chibi Maruko-chan - Quiz de Piihyara (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]chibi maruko chan - quiz de piihyara (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 0d1e37aa94d82ef48f94f11f04fe7db1
 [i]CRC32 Checksum:[/i] 951ED380
 
 [b]Chikudenya Toubei - Kubikiri Yakata Yori (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Chikuden Yatoubei - Kubikiri Yakata Yori (J) [a1].pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]chikudenya toubei - kubikiri yakata yori (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 8649845540952b77baa7a8ad9b2ba36c
 [i]CRC32 Checksum:[/i] 84098884
 
 [b]Chikudenya Toubei - Kubikiri Yakata Yori (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Chikuden Yatoubei - Kubikiri Yakata Yori (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]chikudenya toubei - kubikiri yakata yori (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 230232534784e6b36c0e8b5df1572cbc
 [i]CRC32 Checksum:[/i] CAB21B2E
 
@@ -321,52 +251,38 @@
 [i]CRC32 Checksum:[/i] A2EE361D
 
 [b]ChouZetsurinjin - Bravoman (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Chouzetsu Rinjin Berabou Man (1990)(Namco)(JP).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
-[b]chouzetsu rinjin - bravoman (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]chouzetsu rinjin - bravoman (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 2cb4b55b6c4883530cdd452552b277c4
 [i]CRC32 Checksum:[/i] 0DF57C90
 
 [b]Circus Lido (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Circus Lido (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]circus lido (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] bb10ab1d4e671e4c4adf7674acd7115f
 [i]CRC32 Checksum:[/i] C3212C24
 
 [b]City Hunter (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]city hunter (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 32a6a97aa9e69fa8091bfda374609922
 [i]CRC32 Checksum:[/i] F91B055F
 
 [b]Columns (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]columns (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]columns (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] a3a1be9fc3baef5e7bc6554962aea55b
 [i]CRC32 Checksum:[/i] 99F7A572
 
 [b]Coryoon - Child of Dragon (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]coryoon - child of dragon (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 355d6a12b2512361a49572ef0ee296a1
 [i]CRC32 Checksum:[/i] D5389889
 
 [b]Coryoon - Child of Dragon (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]coryoon - child of dragon (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]coryoon - child of dragon (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] a02c4e74d78c7e02f1ff1dbf13aca711
 [i]CRC32 Checksum:[/i] B4D29E3B
 
 [b]Cratermaze (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Cratermaze (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 653c1be1f0f5e032bc3ec6b4e2823b98
 [i]CRC32 Checksum:[/i] 9033E83A
 
 [b]Cross Wiber - Cyber Combat Police (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]cross wiber - cyber combat police (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] abf5d536a648dd2dd2281580eea8c2d5
 [i]CRC32 Checksum:[/i] 2DF97BD0
 
 [b]Cyber Core (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]cyber core (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] a389bc9609008c30a1eb5c6eb983751c
 [i]CRC32 Checksum:[/i] A98D276A
 
@@ -379,34 +295,26 @@
 [i]CRC32 Checksum:[/i] C1139BD3
 
 [b]Cyber Knight (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]cyber knight (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] dad257d4984635f70580b10f1ae1b75c
 [i]CRC32 Checksum:[/i] A594FAC0
 
 [b]Dai-Makaimura (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]daimakai mura (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 6d9ff6f70608166c88fd2553d44ca17a
 [i]CRC32 Checksum:[/i] B486A8ED
 
 [b]Daichi-kun Crisis - Do Natural (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Daichikun Crisis (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]daichi kun crisis - do natural (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 4a1f595eec378e553506fcfdca5a2c8a
 [i]CRC32 Checksum:[/i] 61A2935F
 
 [b]Daisenpuu (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]dai senpu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]dai senpu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 677302bdec15a9c56ef6b7aade125fad
 [i]CRC32 Checksum:[/i] 9107BCC8
 
 [b]Darius Alpha (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]darius alpha (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] c87135a6af3344c9316fe06fccbcfd97
 [i]CRC32 Checksum:[/i] B0BA689F
 
 [b]Darius Plus (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]darius plus (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 3274eee61dae966e15822558940e5d4d
 [i]CRC32 Checksum:[/i] BEBFE042
 
@@ -419,72 +327,54 @@
 [i]CRC32 Checksum:[/i] 9EDAB596
 
 [b]Dead Moon (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Dead Moon (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 47e3d20a759659e30cef20aaaa5731b0
 [i]CRC32 Checksum:[/i] F5D98B0B
 
 [b]Dead Moon - Getsu Sekai no Akumu (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Dead Moon - Tsuki Sekai no Akumu (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]dead moon (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]dead moon (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] e133de02b11031cf8a010e07bd772f3f
 [i]CRC32 Checksum:[/i] 56739BC7
 
 [b]Deep Blue (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Deep Blue (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] ae3165e430f12fd57de382ab34e16dee
 [i]CRC32 Checksum:[/i] 16B40B44
 
 [b]Deep Blue - Kaitei Shinwa (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]deep blue - kaitei shinwa (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 12c28460b65b5e1d898ac77c30124122
 [i]CRC32 Checksum:[/i] 053A0F83
 
 [b]Detana!! TwinBee (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Detana!! TwinBee (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]detana!! twinbee (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] c42ad354e906d5a4741349002b94b9c2
 [i]CRC32 Checksum:[/i] 5CF59D80
 
 [b]Devil Crash - Naxat Pinball (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]devil crash - naxat pinball (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]devil crash - naxat pinball (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] f677b6d9475fca8a07b66068ead12c24
 [i]CRC32 Checksum:[/i] 4EC81A80
 
 [b]Devil's Crush (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Devil's Crush (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 92fbe89d4c87bf283dbfbeac69a64e6e
 [i]CRC32 Checksum:[/i] 157B4492
 
 [b]Die Hard (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]die hard (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 7dd298a6e9f2abce6f85d262ec37f483
 [i]CRC32 Checksum:[/i] 1B5B1CB1
 
 [b]Digital Champ (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]digital champ (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] ac5290f448ee230ff9337b437557af52
 [i]CRC32 Checksum:[/i] 17BA3032
 
 [b]Don Doko Don! (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]don doko don! (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 5d27b090b2e630a30b60341cb47606a7
 [i]CRC32 Checksum:[/i] F42AA73E
 
 [b]Doraemon - Meikyuu Daisakusen (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]doraemon - meikyuu dai sakusen (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]doraemon - meikyuu dai sakusen (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 77cf3e53c5e4fbef73087893cdeec84f
 [i]CRC32 Checksum:[/i] DC760A07
 
 [b]Doraemon - Nobita no Dorabian Night (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]doraemon - nobita no dorabian night (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 14813eff2b436fa5eb1c3e95e99993a9
 [i]CRC32 Checksum:[/i] 013A747F
 
 [b]Double Dungeons - W (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]double dungeons - w (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 990b1d0ae114c8da37ce0fe932c26cff
 [i]CRC32 Checksum:[/i] 86087B39
 
@@ -493,40 +383,30 @@
 [i]CRC32 Checksum:[/i] 4A1A8C60
 
 [b]Download (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]download (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] b9d993a7cd1e25e20fd06818c3387882
 [i]CRC32 Checksum:[/i] 4E0DE488
 
 [b]Download (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]download (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 10de08141486e768e6743d9a1c2c57f4
 [i]CRC32 Checksum:[/i] 85101C20
 
 [b]Dragon Egg! (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]dragon egg! (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 51fefc9b576f23ab0245baeb64a7ab17
 [i]CRC32 Checksum:[/i] 442405D5
 
 [b]Dragon Saber - After Story of Dragon Spirit (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]dragon saber - after story of dragon spirit (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 6fb2be6f35f0fcad1f0b61e710aecdb8
 [i]CRC32 Checksum:[/i] C89CE75A
 
 [b]Dragon Saber - After Story of Dragon Spirit (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Dragon Saber - After Story of Dragon Spirit (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]dragon saber - after story of dragon spirit (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]dragon saber - after story of dragon spirit (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] a8dbe74d6cb012951478202e3b5ea08a
 [i]CRC32 Checksum:[/i] 3219849C
 
 [b]Dragon Spirit (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]dragon spirit (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]dragon spirit (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 0a459d74f0545f4538705276422be34e
 [i]CRC32 Checksum:[/i] 01A76935
 
 [b]Dragon Spirit (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Dragon Spirit (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 1fe13078c7aba4ef0777d5a470d56986
 [i]CRC32 Checksum:[/i] 086F148C
 
@@ -535,29 +415,22 @@
 [i]CRC32 Checksum:[/i] 7D2C4B09
 
 [b]Drop Rock Hora Hora (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Drop Rock Hora Hora (J) [a1].pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]drop rock hora hora (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] e0051f316de7576794462bae8970c043
 [i]CRC32 Checksum:[/i] 8E81FCAC
 
 [b]Drop Rock Hora Hora (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]drop rock hora hora (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 5e19ade2ef645d500357b2014813ab68
 [i]CRC32 Checksum:[/i] 67EC5EC4
 
 [b]Drop.Off (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Drop Off (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 7df6342574ed3e0241029a11f1f5c4da
 [i]CRC32 Checksum:[/i] FEA27B32
 
 [b]Druaga no Tou (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]tower of druaga, the (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] df4fa7ddc1a4e8cc29dc67e700b2a55a
 [i]CRC32 Checksum:[/i] 72E00BC4
 
 [b]Dungeon Explorer (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]dungeon explorer (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]dungeon explorer (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 414a24f02a45bb04360d80d49c0d9a8b
 [i]CRC32 Checksum:[/i] 1B1A80A2
 
@@ -566,47 +439,38 @@
 [i]CRC32 Checksum:[/i] 4FF01515
 
 [b]Energy (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]energy (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] b928568fd7258f90b5ac410c7f65c48c
 [i]CRC32 Checksum:[/i] CA68FF21
 
 [b]Eternal City - Toshi Tensou Keikaku (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]toshi tensou keikaku - eternal city (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 07c06f305051862e381589d43978b1e9
 [i]CRC32 Checksum:[/i] B18D102D
 
 [b]F-1 Dream (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]f-1 dream (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] eca0a8c5e5aba1b3044036ca1e6db2b3
 [i]CRC32 Checksum:[/i] D50FF730
 
 [b]F-1 Pilot - You're King of Kings (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]f-1 pilot - you're king of kings (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 81aee6771f89d1f04ddecc7c4405773d
 [i]CRC32 Checksum:[/i] 09048174
 
 [b]F1 Circus '91 - World Championship (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]f1 circus '91 - world championship (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 7b301f38b70f607a4fd43f5a56a00445
 [i]CRC32 Checksum:[/i] D7CFD70F
 
 [b]F1 Circus '92 - The Speed of Sound (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]f1 circus '92 - the speed of sound (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 3fc53a0d8981eb60867d0876c0554e02
 [i]CRC32 Checksum:[/i] B268F2A2
 
 [b]F1 Circus (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]f1 circus (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 206a99b78d3239d2d84f8c7182efa83b
 [i]CRC32 Checksum:[/i] 79705779
 
 [b]F1 Circus (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]f1 circus (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] abe73a499d4006e3906e97c7d31fb4cc
 [i]CRC32 Checksum:[/i] E14DEE08
 
 [b]F1 Triple Battle (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]f1 triple battle (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] e6cfec9aa8d327b80c01ce40348101ab
 [i]CRC32 Checksum:[/i] 13BF0409
 
@@ -615,29 +479,22 @@
 [i]CRC32 Checksum:[/i] 0BC0A12B
 
 [b]Fantasy Zone (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]fantasy zone (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 9f3078e85b7604f5df6d858dea879696
 [i]CRC32 Checksum:[/i] 72CB0F9D
 
 [b]Fantasy Zone (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Fantasy Zone (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 0c5fc299491c50c2d2f532308597a159
 [i]CRC32 Checksum:[/i] E8C3573D
 
 [b]Fighting Run (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]fighting run (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 0c04100ec80cb330d8deade60f4fbb24
 [i]CRC32 Checksum:[/i] 1828D2E5
 
 [b]Final Blaster (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]final blaster (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]final blaster (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] b0fe98f3f2a7ce5407353bb5d3207db8
 [i]CRC32 Checksum:[/i] C90971BA
 
 [b]Final Lap Twin (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]final lap twin (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]final lap twin (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 5ff73dfe46e66422159d09ad2035af94
 [i]CRC32 Checksum:[/i] C8C084E3
 
@@ -646,165 +503,122 @@
 [i]CRC32 Checksum:[/i] 26408EA3
 
 [b]Final Match Tennis (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]final match tennis (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]final match tennis (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 595364eede949021345f1f7735e64355
 [i]CRC32 Checksum:[/i] 560D2305
 
 [b]Final Soldier (Japan) (En) (Special Version).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Final Soldier Special Version (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]final soldier (special version) (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 838e1ae033f797bad4a122a593604a8f
 [i]CRC32 Checksum:[/i] 02A578C5
 
 [b]Final Soldier (Japan) (En).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Final Soldier (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]final soldier (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] fe5b3f899f0ee5994508f259bbb74cfe
 [i]CRC32 Checksum:[/i] AF2DD2AF
 
 [b]Fire Pro Wrestling - Combination Tag (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Fire Pro Wrestling - Combination Tag (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]fire pro wrestling - combination tag (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 2092c615674a9cb9f92b3ebbee9958d6
 [i]CRC32 Checksum:[/i] 90ED6575
 
 [b]Fire Pro Wrestling 2 - 2nd Bout (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]fire pro wrestling 2 - 2nd bout (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 742a4ee10354b85a2439a09ea097a3ec
 [i]CRC32 Checksum:[/i] E88987BB
 
 [b]Fire Pro Wrestling 3 - Legend Bout (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]fire pro wrestling 3 - legend bout (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 4977af10c5295122b48252d0d7f0b5d9
 [i]CRC32 Checksum:[/i] 534E8808
 
 [b]Formation Soccer - Human Cup '90 (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]formation soccer - human cup '90 (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]formation soccer - human cup '90 (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 229eadd97abff922f2e3911f91f6a871
 [i]CRC32 Checksum:[/i] 85A1E7B6
 
 [b]Formation Soccer - On J. League (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]formation soccer - on j. league (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] df9c47bd8b3558f4d3e830dcbb74ed1c
 [i]CRC32 Checksum:[/i] 7146027C
 
 [b]Fushigi no Yume no Alice (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]fushigi no yume no alice (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 3e0cd9af31efe11acf733fb15dc31131
 [i]CRC32 Checksum:[/i] 12C4E6FD
 
 [b]Gai Flame (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]gai flame (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 1f82d7ccd607138a06bdcb17055e35e1
 [i]CRC32 Checksum:[/i] 95F90DEC
 
 [b]Gaia no Monshou (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]gaia no monshou (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 257c9897aa80194a5e9c5f5deac2219f
 [i]CRC32 Checksum:[/i] 6FD6827C
 
 [b]Galaga '88 (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]galaga '88 (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 6404084e36d3cc061503ee5501f79ed2
 [i]CRC32 Checksum:[/i] 1A8393C6
 
 [b]Galaga '90 (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Galaga '90 (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 94814db23e163dbfc7d7505170e145c2
 [i]CRC32 Checksum:[/i] 2909DEC6
 
 [b]Ganbare! Golf Boys (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Ganbare Golf Boys (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]ganbare! golf boys (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] fcf8bdc8f67f284a841caddd82d8b3e6
 [i]CRC32 Checksum:[/i] 27A4D11A
 
 [b]Gekisha Boy (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]gekisha boy (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 355f281d002a139a05525264a28fb526
 [i]CRC32 Checksum:[/i] E8702D51
 
 [b]Genji Tsuushin Agedama (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Genji Tsuushin Agedama (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]genji tsuushin agedama (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] e194791e1c3d709c7fff4b8c808b65ab
 [i]CRC32 Checksum:[/i] AD450DFC
 
 [b]Genpei Toumaden (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]genpei toumaden (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] c3357cc104feb0686ede96b099a2de2d
 [i]CRC32 Checksum:[/i] B926C682
 
 [b]Genpei Toumaden - Kan no Ni (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]genpei toumaden ni no maki (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] f6b763e45180bd47a689d03890a82344
 [i]CRC32 Checksum:[/i] 8793758C
 
 [b]Ghost Manor (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Ghost Manor (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 2f2d4d92c14ba5770edd5f449507aac8
 [i]CRC32 Checksum:[/i] 2DB4C1FD
 
 [b]Gokuraku! Chuuka Taisen (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]gokuraku! chuuka taisen (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]gokuraku! chuuka taisen (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 144eb9109d75c8fd1fa09a20bde6a6cd
 [i]CRC32 Checksum:[/i] E749A22C
 
 [b]Gomola Speed (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Gomola Speed (J) [!].pce [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
-[b]gomola speed (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 1e0cad9f5a6633227225d885c09b5f43
 [i]CRC32 Checksum:[/i] 9A353AFD
 
 [b]Gradius (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Gradius (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]gradius (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 16fe78b1630a790bee6755e3c850a366
 [i]CRC32 Checksum:[/i] 0517DA65
 
 [b]Gunboat (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Gunboat (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 58daff928a279867cd0629185d2c0733
 [i]CRC32 Checksum:[/i] F370B58E
 
 [b]Gunhed (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]gunhed (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]gunhed (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 537c1976f0306e264da966a907b93e3f
 [i]CRC32 Checksum:[/i] A17D4D7E
 
 [b]Gunhed - Hudson Gunhed Taikai (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Gunhed Taikai (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]gunhed - hudson gunhed taikai (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] cf91d85fa31a2baf459c65addaa4326e
 [i]CRC32 Checksum:[/i] 57F183AE
 
 [b]Hana Taaka Daka! (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]hana taaka daka! (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]hana taaka daka! (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 38cddbab28df38cb8d3f447e6b2bea7c
 [i]CRC32 Checksum:[/i] BA4D0DD4
 
 [b]Hanii in the Sky (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]hanii in the sky (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 523f9d5bfb35037eeef71a34de4270a1
 [i]CRC32 Checksum:[/i] BF3E2CC7
 
 [b]Hanii on the Road (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]hanii on the road (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 7f242f75ac7a737b77b3cb388fce52e9
 [i]CRC32 Checksum:[/i] 9897FA86
 
 [b]Hatris (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]hatris (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 03d5882776b8dad0ddceff42a173d493
 [i]CRC32 Checksum:[/i] 44E7DF53
 
 [b]Heavy Unit (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]heavy unit (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] fc73cb01460d932319dd3eeff3032951
 [i]CRC32 Checksum:[/i] EB923DE5
 
@@ -813,7 +627,6 @@
 [i]CRC32 Checksum:[/i] 5565A973
 
 [b]Hit the Ice - VHL - The Official Video Hockey League (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]hit the ice - vhl the official video hockey league (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] e313b6d6c03c3f1d7f05750697104d67
 [i]CRC32 Checksum:[/i] 7ACB60C8
 
@@ -822,19 +635,14 @@
 [i]CRC32 Checksum:[/i] 8B29C3AA
 
 [b]Honoo no Toukyuuji - Dodge Danpei (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Honoo no Toukyuuji Dodge Danpei (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]honoo no toukyuuji dodge danpei (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] c257e411cda69c988095166ba5223e4b
 [i]CRC32 Checksum:[/i] B01EE703
 
 [b]Idol Hanafuda Fan Club (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Idol Hanafuda Fan Club (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]idol hanafuda fan club (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] b218d95cc1b2e827be76282d726c6244
 [i]CRC32 Checksum:[/i] 9EC6FC6C
 
 [b]Image Fight (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]image fight (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] baf6760fcd3b43540d55afc71f929697
 [i]CRC32 Checksum:[/i] A80C565F
 
@@ -843,175 +651,134 @@
 [i]CRC32 Checksum:[/i] E2470F5F
 
 [b]J. League Greatest Eleven (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]j. league greatest eleven (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] cf3c65b99a222a4e72824eadc58c09cd
 [i]CRC32 Checksum:[/i] 0AD97B04
 
 [b]J.J. & Jeff (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]J.J. & Jeff (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] b614f91296aaed8afabd4f03f4ee40d1
 [i]CRC32 Checksum:[/i] E01C5127
 
 [b]Jack Nicklaus - Championship Golf (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Jack Nicklaus' Greatest 18 Holes of Major Champ. Golf (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]jack nicklaus' greatest 18 holes of major championship golf (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 9a9255cea330ed35f65ee10406c37c07
 [i]CRC32 Checksum:[/i] EA751E82
 
 [b]Jack Nicklaus' Turbo Golf (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Jack Nicklaus' Turbo Golf (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] cf2610a2be004edfa2faa487b81386e3
 [i]CRC32 Checksum:[/i] 83384572
 
 [b]Jackie Chan (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]jackie chan (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]jackie chan (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 6a855357252a38e29f99cc1bc9560990
 [i]CRC32 Checksum:[/i] C6FA6373
 
 [b]Jackie Chan's Action Kung Fu (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Jackie Chan's Action Kung Fu (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 5a8c0f70f333ff03c8eb836eeb5f2ff9
 [i]CRC32 Checksum:[/i] 9D2F6193
 
 [b]Jaseiken Necromancer (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]necromancer (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 6e6a1d3c2119b88c42d6cc516c71cdba
 [i]CRC32 Checksum:[/i] 53109AE6
 
 [b]Jigoku Meguri (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]jigoku meguri (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 294f2aa990c9c2c71554a6e3e7c979ef
 [i]CRC32 Checksum:[/i] CC7D3EEB
 
 [b]Jinmu Denshou (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]jinmu denshou (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 31d2dce8774adc6c030baebebcbc20c4
 [i]CRC32 Checksum:[/i] 84240EF9
 
 [b]Jinmu Denshou (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]jinmu denshou (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]jinmu denshou (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] b7bd7bb88393a97bdf6072534177fe7d
 [i]CRC32 Checksum:[/i] C150637A
 
 [b]Juuouki (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]juuouki (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] b5d09f3233d18b96fbf5e0375cb2f93e
 [i]CRC32 Checksum:[/i] 6A628982
 
 [b]Juuouki (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]juuouki (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 2b47ceea374d6c11471310caec5ccb36
 [i]CRC32 Checksum:[/i] C8C7D63E
 
 [b]Kaizou Choujin Shubibinman (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]kaizou choujin shubibinman (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 8041a028a666cc0adc7a06c20a99d172
 [i]CRC32 Checksum:[/i] A9084D6E
 
 [b]Kaizou Choujin Shubibinman 2 - Aratanaru Teki (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]kaizou choujin shubibinman 2 - aratanaru teki (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 503ef03f5b4f2a490ab975f5be4bc896
 [i]CRC32 Checksum:[/i] 109BA474
 
 [b]Kato-chan Ken-chan (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]kato chan & ken chan (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 23df0b354e83876a94e9c128a7a9eb80
 [i]CRC32 Checksum:[/i] 6069C5E7
 
 [b]Kattobi! Takuhai-kun (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]kattobi! takuhai kun (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 4ddd59aff152e8fc1a4b510c9fedd4e0
 [i]CRC32 Checksum:[/i] 4F2844B0
 
 [b]Keith Courage in Alpha Zones (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Keith Courage in Alpha Zones (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]Keith Courage in Alpha Zones (1989)(Hudson)(US).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
 [i]RA Checksum:[/i] e5309b10903ccc3032c2f919e8db7384
 [i]CRC32 Checksum:[/i] 474D7A72
 
 [b]KickBall (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Kick Ball (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]kickball (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 42d164b0ae86ae4dab3fdb7ca9f3bdb2
 [i]CRC32 Checksum:[/i] 7E3C367B
 
 [b]Kikikai-kai (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]kiki kaikai (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]kiki kaikai (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] b345329df7acc1938c291440dd1ed5ad
 [i]CRC32 Checksum:[/i] C0CB5ADD
 
 [b]King of Casino (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]king of casino (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] e71eee5c2dd0fb5f5fe7f0c85aa2112e
 [i]CRC32 Checksum:[/i] BF52788E
 
 [b]King of Casino (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]King of Casino (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 8f4e92645be8de92e18527b31b4ee67e
 [i]CRC32 Checksum:[/i] 2F2E2240
 
 [b]Klax (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]klax (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 62c2fcbf48d1cfc80b70ffcab28c3585
 [i]CRC32 Checksum:[/i] C74FFBC9
 
 [b]Klax (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Klax (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 8becf757a68f72a01428d4359165e463
 [i]CRC32 Checksum:[/i] 0F1B59B4
 
 [b]Knight Rider Special (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]knight rider special (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 79d305689a039f99faca0f9348d36e8f
 [i]CRC32 Checksum:[/i] C614116C
 
 [b]Kore ga Pro Yakyuu '89 (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]kore ga pro yakyuu '89 (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] b80f7a304c71aa96a51cc6d1505f8b29
 [i]CRC32 Checksum:[/i] 44F60137
 
 [b]Kore ga Pro Yakyuu '90 (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]kore ga pro yakyuu '90 (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] df290c2d9117ac9a402c83dd1fa028e7
 [i]CRC32 Checksum:[/i] 1772B229
 
 [b]Kung Fu, The (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]kung fu, the (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] b6f712b2ab6726a80a0e328f58d9e1b2
 [i]CRC32 Checksum:[/i] B552C906
 
 [b]Kyuukyoku Mahjong - Idol Graphics (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]kyuukyoku mahjong - idol graphics (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 4c7d1e7dc7d5aaee62d3b5a01309d848
 [i]CRC32 Checksum:[/i] 02DDE03E
 
 [b]Kyuukyoku Mahjong II (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]kyuukyoku mahjong ii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] eb104b94d861322d0e13604a69d3d0ea
 [i]CRC32 Checksum:[/i] E5B6B3E5
 
 [b]Kyuukyoku Tiger (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]kyuukyoku tiger (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 467c1ee6a921a3bbb4a94fc078f7353d
 [i]CRC32 Checksum:[/i] 09509315
 
 [b]Lady Sword (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]lady sword (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] dbcd263d46998d509da8e62ab5a281d6
 [i]CRC32 Checksum:[/i] EB833D15
 
 [b]Lady Sword (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]lady sword (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 71c5cffeab1cb60a04b5e77a338117ac
 [i]CRC32 Checksum:[/i] C6F764EC
 
 [b]Legend of Hero Tonma (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Legend of Hero Tonma (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]legend of hero tonma (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]legend of hero tonma (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] d4969ea433986e5dbea3b4892482f5ef
 [i]CRC32 Checksum:[/i] C28B0D8A
 
@@ -1020,112 +787,86 @@
 [i]CRC32 Checksum:[/i] 3C131486
 
 [b]Legendary Axe II, The (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Legendary Axe II, The (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] fbcbb34f678f6f70795bde96d295bc2f
 [i]CRC32 Checksum:[/i] 220EBF91
 
 [b]Legendary Axe, The (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Legendary Axe, The (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] f69b506237ce7d05e7f839d2cc96ab5a
 [i]CRC32 Checksum:[/i] 2D211007
 
 [b]Lode Runner - Lost Labyrinth (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]lode runner - lost labyrinth (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] d633712965e5f791136b75bda7f9980b
 [i]CRC32 Checksum:[/i] E6EE1468
 
 [b]Madou King Granzort (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]madou ou granzort (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 7e1e489c50fc6213196e6dbb704f6671
 [i]CRC32 Checksum:[/i] 1F041166
 
 [b]Maerchen Maze (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]maerchen maze (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 887b9fa8296ff3c98839e11cc7039763
 [i]CRC32 Checksum:[/i] A15A1F37
 
 [b]Magical Chase (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]magical chase (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 373c071a8379ab61de47a34170c4fa41
 [i]CRC32 Checksum:[/i] DD0EBF8C
 
 [b]Magical Chase (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Magical Chase (U) [!].pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 74d9f1bd96ba2690ed4cb989ebaeb948
 [i]CRC32 Checksum:[/i] 95CD2979
 
 [b]Mahjong Gakuen - Touma Soushirou Toujou (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Mahjong Gakuen - Toumasou Shirou Toujou (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]mahjong gakuen - touma soushirou toujou (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] cf8c62e6b9301a01aa4b61b4136c4fcd
 [i]CRC32 Checksum:[/i] F5B90D55
 
 [b]Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]mahjong gakuen mild - touma soushirou toujou (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 3229f6fbdf069da5df4a6622ef828100
 [i]CRC32 Checksum:[/i] 3E4D432A
 
 [b]Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Mahjong Gakuen Mild - Touma Soujirou Toujou (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]mahjong gakuen mild - touma soushirou toujou (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] ea0659c4607948ea54bd5d61799ac1a1
 [i]CRC32 Checksum:[/i] F4148600
 
 [b]Mahjong Gokuu Special (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]mahjong gokuu special (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 937699175649a98430a64c20cb19ae60
 [i]CRC32 Checksum:[/i] F8861456
 
 [b]Mahjong Haouden - Kaiser's Quest (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]mahjong haou den - kaiser's quest (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 79f0b287d9c185416c155616515ec2dc
 [i]CRC32 Checksum:[/i] DF10C895
 
 [b]Mahjong Shikaku Retsuden - Mahjong Wars (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]mahjong shikyaku retsuden - mahjong wars (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 1fd10aab85dc9ad19cfd491684138db6
 [i]CRC32 Checksum:[/i] 6C34AAEA
 
 [b]Maison Ikkoku (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]maison ikkoku (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 9a0a0e759f27f05f674e0830bfd2e835
 [i]CRC32 Checksum:[/i] 5C78FEE1
 
 [b]Makai Hakkenden Shada (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Makai Hakkenden Shada (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]makai hakken den shada (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 06c9c65e0e1c0669be28cc99ace61f54
 [i]CRC32 Checksum:[/i] BE62EEF5
 
 [b]Makai Prince Dorabocchan (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]makai prince dorabocchan (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 31b5597ed22d3d143f98d394ee4593ad
 [i]CRC32 Checksum:[/i] B101B333
 
 [b]Makyou Densetsu (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]makyou densetsu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]makyou densetsu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 09f944f6c28cf77d17dd668e9cc160f7
 [i]CRC32 Checksum:[/i] D4C5AF46
 
 [b]Maniac Pro Wres - Asu e no Tatakai (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]maniac puroresu - asu e no tatakai (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 6fba2dd4c455bb9bafd6892ec204e2bd
 [i]CRC32 Checksum:[/i] 99F2865C
 
 [b]Mashin Eiyuu Den Wataru (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]majin eiyuu den wataru (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 4c0b699a7d751886801b983fa638e8f8
 [i]CRC32 Checksum:[/i] 2F8935AA
 
 [b]Mesopotamia (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Mesopotamia (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]mesopotamia (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 04ff555eafb23e45d55c61e9a29db815
 [i]CRC32 Checksum:[/i] E87190F1
 
 [b]Metal Stoker (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]metal stoker (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] fdad7cca269ed1a0676df12fa07eae01
 [i]CRC32 Checksum:[/i] 25A02BEE
 
@@ -1134,118 +875,90 @@
 [i]CRC32 Checksum:[/i] 93F316F7
 
 [b]Mizubaku Adventure (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]mizubaku dai bouken (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]mizubaku dai bouken (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] b8074808e85c4d120e9c0acd51426098
 [i]CRC32 Checksum:[/i] B2EF558D
 
 [b]Momotarou Densetsu Gaiden - Dai-1-shuu (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]momotarou densetsu gaiden dai 1 shuu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 480423adbfe4e9f50bb26f418dcae490
 [i]CRC32 Checksum:[/i] F860455C
 
 [b]Momotarou Densetsu II (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]momotarou densetsu ii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 4c3f3bbbe5a3f0ab2970adf55a867328
 [i]CRC32 Checksum:[/i] D9E1549A
 
 [b]Momotarou Densetsu Turbo (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]momotarou densetsu turbo (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] d2ea89603d76856603c85cb4ce7045ff
 [i]CRC32 Checksum:[/i] 625221A6
 
 [b]Momotarou Katsugeki (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]momotarou katsugeki (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] ec7358edb3672a8aa8850623eec72a71
 [i]CRC32 Checksum:[/i] 345F43E9
 
 [b]Monster Pro Wres (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]monster puroresu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] ed3f985efd35dcc03ba0d93654a12b40
 [i]CRC32 Checksum:[/i] F2E46D25
 
 [b]Morita Shougi PC (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Morita Shougi PC (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]morita shougi pc (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 92bb585243a43ec7f881eafc578a2cc3
 [i]CRC32 Checksum:[/i] 2546EFE0
 
 [b]Moto Roader (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]moto roader (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 6663e27f13af52f864f06781d1a00eb8
 [i]CRC32 Checksum:[/i] 428F36CD
 
 [b]Moto Roader (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Moto Roader (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 1b10baf9f65c8339a507e382bda5ed44
 [i]CRC32 Checksum:[/i] E2B0D544
 
 [b]Moto Roader II (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]moto roader ii (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] fc54c4b40385805e9cb560ba29914dce
 [i]CRC32 Checksum:[/i] 4BA525BA
 
 [b]Moto Roader II (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]moto roader ii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 61bf2f34550c6f0db25c9f5221ede032
 [i]CRC32 Checksum:[/i] 0B7F6E5F
 
 [b]Mr. Heli no Daibouken (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]mr. heli no daibouken (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 4e707e6e667f77a1956b22bf16e65ab4
 [i]CRC32 Checksum:[/i] AC0CD796
 
 [b]Mr. Heli no Daibouken (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]mr. heli no daibouken (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]mr. heli no daibouken (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 31867ab522ff7b9937987ec473db0a11
 [i]CRC32 Checksum:[/i] 2CB92290
 
 [b]Narazumono Sentou Butai - Bloody Wolf (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]narazumono sentai butai - bloody wolf (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 027376eb6a5f3f36de49b2f7a95d0958
 [i]CRC32 Checksum:[/i] B01F70C2
 
 [b]Naxat Open (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]naxat open (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] c1555a2d2ac2f92730630d4860cd0745
 [i]CRC32 Checksum:[/i] 60ECAE22
 
 [b]Naxat Stadium (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Naxat Stadium (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]naxat stadium (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 7029f280c42ce2a25d435b8b1a3181d3
 [i]CRC32 Checksum:[/i] 20A7D128
 
 [b]Nazo no Mascarade (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]nazo no mascarade (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 744455d7dcaa4ae0b6b9aa53aade20a3
 [i]CRC32 Checksum:[/i] 0441D85A
 
 [b]Necros no Yousai (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Necros no Yousai (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]necros no yousai (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 62ee11474eca60aacae8980556bc932f
 [i]CRC32 Checksum:[/i] FB0FDCFE
 
 [b]Nectaris (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]nectaris (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 38bf3fa078ab7bdc3d34fc9c18b0ce73
 [i]CRC32 Checksum:[/i] 0243453B
 
 [b]Nekketsu Koukou Dodgeball-bu - PC Bangai Hen (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]nekketsu koukou dodgeball bu - pc bangai hen (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]nekketsu koukou dodgeball bu - pc bangai hen (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 419545fa5e2587288e8aea87811c152a
 [i]CRC32 Checksum:[/i] 65FDB863
 
 [b]Nekketsu Koukou Dodgeball-bu - Soccer PC Hen (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]nekketsu koukou dodgeball bu - soccer pc hen (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 830e071a0ee4773193444950d235d7ef
 [i]CRC32 Checksum:[/i] F2285C6D
 
 [b]Neutopia (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]neutopia (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 08ae173878d8a3783fa35e80c99a5dc4
 [i]CRC32 Checksum:[/i] 9C49EF11
 
@@ -1254,7 +967,6 @@
 [i]CRC32 Checksum:[/i] A9A94E1B
 
 [b]Neutopia II (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]neutopia ii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] d04cabf4a80ce7cef46b7700cd469487
 [i]CRC32 Checksum:[/i] 2B94AEDC
 
@@ -1267,13 +979,10 @@
 [i]CRC32 Checksum:[/i] 756A1802
 
 [b]New Zealand Story, The (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]new zealand story, the (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 553dd0a65c0d060290f66c820ca94b1c
 [i]CRC32 Checksum:[/i] 8E4D75A8
 
 [b]NHK Taiga Drama - Taiheiki (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]NHK Taiga Drama Taiheiki (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]nhk taiga drama - taiheiki (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] de11f469adcb4465b49743fd2f1e3250
 [i]CRC32 Checksum:[/i] A32430D5
 
@@ -1282,14 +991,10 @@
 [i]CRC32 Checksum:[/i] C159761B
 
 [b]Niko Niko Pun (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]NHK Okaasan to Issho Niko Niko Pun (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]niko niko pun (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 29c04086539f0e7b2a3b251e2290dc51
 [i]CRC32 Checksum:[/i] 82DEF9EE
 
 [b]Ninja Ryuuken Den (Japan) (En,Ja,Zh).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]ninja ryuuken den (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]ninja ryuuken den (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 80498e6a60d2cd9aa925f45cbefbff83
 [i]CRC32 Checksum:[/i] 67573BAC
 
@@ -1298,18 +1003,14 @@
 [i]CRC32 Checksum:[/i] DE8AF1C1
 
 [b]Ninja Warriors, The (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]ninja warriors, the (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] cd67ad6c5e69636c63d5cda218471738
 [i]CRC32 Checksum:[/i] 96E0CD9D
 
 [b]Obocchama-kun (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]obocchama kun (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 4d007608da2f8dd091c2328a66e0f1dd
 [i]CRC32 Checksum:[/i] 4D3B0BC9
 
 [b]Operation Wolf (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]operation wolf (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]operation wolf (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 14adf02dd3ab66f20f7b15c69588b777
 [i]CRC32 Checksum:[/i] FF898F87
 
@@ -1318,41 +1019,30 @@
 [i]CRC32 Checksum:[/i] FAE0FC60
 
 [b]Ordyne (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]ordyne (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 2e3bd6ee158b239ff9a650d434bd92b3
 [i]CRC32 Checksum:[/i] 8C565CB6
 
 [b]Ordyne (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Ordyne (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] d803eb8f622521e515ff1dd715e725c0
 [i]CRC32 Checksum:[/i] E7BF2A74
 
 [b]Out Live (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]out live (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] ee0ea8ef85d382f444656af31fa0b8e3
 [i]CRC32 Checksum:[/i] 5CDB3F5B
 
 [b]Out Run (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]OutRun (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]out run (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 6dbeaf201713b8a2ffd0f2104fde1dfc
 [i]CRC32 Checksum:[/i] E203F223
 
 [b]Override (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]override (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]override (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 5c401f3e2ac7ceb85e85bb82cb46be24
 [i]CRC32 Checksum:[/i] B74EC562
 
 [b]P-47 - The Freedom Fighter (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]P-47 - The Freedom Fighter (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]p-47 - the freedom fighter (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] bfed2ef7677886467236dc92e09d63c3
 [i]CRC32 Checksum:[/i] 7632DB90
 
 [b]Pac-Land (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]pac-land (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]pac-land (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] e77ad358d00d7e052a129fc232556ff1
 [i]CRC32 Checksum:[/i] 14FAD3BA
 
@@ -1361,18 +1051,14 @@
 [i]CRC32 Checksum:[/i] D6E30CCD
 
 [b]Pachio-kun - Juuban Shoubu (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]pachio kun - juuban shoubu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 10ded52993405fc37690214ca615008a
 [i]CRC32 Checksum:[/i] 4148FD7C
 
 [b]Paranoia (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]paranoia (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] a53f17bc3492e89c391e280e32397450
 [i]CRC32 Checksum:[/i] 9893E0E6
 
 [b]Parasol Stars - The Story of Bubble Bobble 3 (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]parasol stars - the story of bubble bobble iii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]parasol stars - the story of bubble bobble iii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] d3d67a165f433a50e7e27bfbf395e706
 [i]CRC32 Checksum:[/i] 51E86451
 
@@ -1381,90 +1067,66 @@
 [i]CRC32 Checksum:[/i] E6458212
 
 [b]Parodius Da! - Shinwa kara Owarai e (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Parodius Da! - Shinwa kara Owarai he (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]parodius da! - shinwa kara owarai he (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 39f5f51e066e2d7874efcff7d6f394ef
 [i]CRC32 Checksum:[/i] 647718F9
 
 [b]PC Denjin - Punkic Cyborgs (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]pc denjin - punkic cyborgs (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 793e5c0b15515e49fc3a20a55a04faf8
 [i]CRC32 Checksum:[/i] 8FB4F228
 
 [b]PC Denjin - Punkic Cyborgs (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]PC Denjin - Punkic Cyborgs (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]pc denjin - punkic cyborgs (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]pc denjin - punkic cyborgs (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 7320bc8fb2a9417ee63cf77ada108753
 [i]CRC32 Checksum:[/i] 740491C2
 
 [b]PC Genjin - Pithecanthropus Computerurus (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]pc genjin - pithecanthropus computerurus (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 096b2f0ac6747824f838a4206eff6374
 [i]CRC32 Checksum:[/i] 67B35E6E
 
 [b]PC Genjin - Pithecanthropus Computerurus (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]pc genjin - pithecanthropus computerurus (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 0e997fd6e47e9212a90b0a137d65283d
 [i]CRC32 Checksum:[/i] 2CB5CD55
 
 [b]PC Genjin 2 - Pithecanthropus Computerurus (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]PC Genjin 2 - Pithecanthropus Computerurus (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]pc genjin 2 - pithecanthropus computerurus (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]pc genjin 2 - pithecanthropus computerurus (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 1d7dbc1ecff5f6661bffb6c2cfe1912f
 [i]CRC32 Checksum:[/i] 3028F7CA
 
 [b]PC Genjin 3 - Pithecanthropus Computerurus (Japan) (Demo).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]pc genjin 3 - pithecanthropus computerurus (taikenban) (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] f93adf9857caba9829dd6d8d37b2e94d
 [i]CRC32 Checksum:[/i] 6F6ED301
 
 [b]PC Genjin 3 - Pithecanthropus Computerurus (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]pc genjin 3 - pithecanthropus computerurus (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 5356014f520019f6adcbb1cbe1543dbe
 [i]CRC32 Checksum:[/i] A170B60E
 
 [b]PC Pachi-Slot Idol Gambler (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]pc pachi-slot (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 9424caffd567e880aea512dc823aca22
 [i]CRC32 Checksum:[/i] 0AA88F33
 
 [b]Populous (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]populous (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 130a6d649d4498d6998d60211a18a4db
 [i]CRC32 Checksum:[/i] 0A9ADE99
 
 [b]Populous (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]populous (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 9d599a43d2c69738f3562f58aeff8828
 [i]CRC32 Checksum:[/i] 083C956A
 
 [b]Power Drift (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Power Drift (J) [a3].pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]power drift (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 31e99416cecb9d0cee4c96604ea86045
 [i]CRC32 Checksum:[/i] 99E6D988
 
 [b]Power Drift (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]power drift (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]power drift (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] c7f4c99ccb9f56ef954f3ccf332ce0db
 [i]CRC32 Checksum:[/i] 25E0F6E9
 
 [b]Power Eleven (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]power eleven (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]power eleven (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 7d3343c0e248cac189915ed6def0e81a
 [i]CRC32 Checksum:[/i] 3E647D8B
 
 [b]Power Gate (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]power gate (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] a797c794f8eef6ebbdacd7a3996e7134
 [i]CRC32 Checksum:[/i] BE8B6E3B
 
 [b]Power Golf (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]power golf (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] c9acd977deb987ad2c63d43e57be2f35
 [i]CRC32 Checksum:[/i] EA324F07
 
@@ -1473,75 +1135,54 @@
 [i]CRC32 Checksum:[/i] ED1D3843
 
 [b]Power League '93 (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]power league '93 (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] d77a24f6fff7183ed377e7753fccefda
 [i]CRC32 Checksum:[/i] 7D3E6F33
 
 [b]Power League (Japan) (All Star Version).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Power League All Stars GOLD (J) [!].pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]power league (all star version) (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] e5e1031c335221d57ad025fe9e61e698
 [i]CRC32 Checksum:[/i] 04A85769
 
 [b]Power League (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]power league (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 3a49c227a7cd14c96bc3aa6975c7f370
 [i]CRC32 Checksum:[/i] 69180984
 
 [b]Power League 4 (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Power League IV (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]power league iv (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]power league iv (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] d7b057e7c35be8cb7b37084ffe805688
 [i]CRC32 Checksum:[/i] 30CC3563
 
 [b]Power League 5 (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Power League V (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]power league v (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 35c4d1d204eed571700d18a46e697f25
 [i]CRC32 Checksum:[/i] 8B61E029
 
 [b]Power League II (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]power league ii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 3cc67e4b750ce2d977580883f3840966
 [i]CRC32 Checksum:[/i] C5FDFA89
 
 [b]Power League III (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]power league iii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 0c042e30ff15e4608e49f364b5be2233
 [i]CRC32 Checksum:[/i] 8AA4B220
 
 [b]Power Sports (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]power sports (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] bdda8c3ce16bce8080455535f992cbcb
 [i]CRC32 Checksum:[/i] 29EEC024
 
 [b]Power Tennis (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]power tennis (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] c40760fa44a7bbe3438c0547541db20d
 [i]CRC32 Checksum:[/i] 8DEF5AA1
 
 [b]Pro Tennis World Court (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]pro tennis world court (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] fb0e0ca7bdf2b7d8beed1d8c8a2af749
 [i]CRC32 Checksum:[/i] 11A36745
 
 [b]Pro Yakyuu World Stadium '91 (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Pro Yakyuu World Stadium '91 (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]pro yakyuu world stadium '91 (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]pro yakyuu world stadium '91 (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] ab15d6fdc397e66c0946194651d3069f
 [i]CRC32 Checksum:[/i] 66B167A9
 
 [b]Pro Yakyuu World Stadium (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Pro Yakyuu World Stadium (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]pro yakyuu world stadium (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] f5809c06f9ac594300f41584d44dbc16
 [i]CRC32 Checksum:[/i] 34E089A9
 
 [b]Psycho Chaser (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]psycho chaser (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]psycho chaser (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] c21fe0981bf333dbf7b58382f5d309bb
 [i]CRC32 Checksum:[/i] 03883EE8
 
@@ -1550,18 +1191,14 @@
 [i]CRC32 Checksum:[/i] 6CC10824
 
 [b]Puzzle Boy (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]puzzle boy (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]puzzle boy (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 6394145312caac816ca44af55dff9533
 [i]CRC32 Checksum:[/i] FAA6E187
 
 [b]Puzznic (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]puzznic (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] a8cdcc33207037a02868f366de6582ea
 [i]CRC32 Checksum:[/i] 965C95B3
 
 [b]Quiz Toukou Shashin (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]quiz toukou shashin (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 5351d1043b5212ab01c3e19ba817a03c
 [i]CRC32 Checksum:[/i] F2E6856D
 
@@ -1570,139 +1207,102 @@
 [i]CRC32 Checksum:[/i] 91CE5156
 
 [b]R-Type I (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]r-type part-1 (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] ac7e0730b10c3cf1afdc675c808572b1
 [i]CRC32 Checksum:[/i] CEC3D28A
 
 [b]R-Type II (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]r-type part-2 (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 9fda7ef8db7fe2799149cb0fbef20c95
 [i]CRC32 Checksum:[/i] F207ECAE
 
 [b]Rabio Lepus Special (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]rabio lepus special (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 4b942ff45a454222dd4ec1951e75a72c
 [i]CRC32 Checksum:[/i] D8373DE6
 
 [b]Racing Damashii (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]racing damashii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] b0267ecb483472dac6e3f9f97f625a99
 [i]CRC32 Checksum:[/i] 3E79734C
 
 [b]Raiden (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]raiden (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]raiden (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 42a5e13cbfab0c54d30f8ca6831f62ed
 [i]CRC32 Checksum:[/i] 850829F2
 
 [b]Raiden (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Raiden (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 5d08e419351cf3ee85e6536070cbb94f
 [i]CRC32 Checksum:[/i] BC59C31E
 
 [b]Rastan Saga II (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]rastan saga ii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]rastan saga ii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] e998693ab9d694eebe66e5942fd5137e
 [i]CRC32 Checksum:[/i] 00C38E69
 
 [b]Rock-On (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]rock-on (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 5fc5b7cd7f43f12d7e1eced8368d4296
 [i]CRC32 Checksum:[/i] 2FD65312
 
 [b]Ryuukyuu (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]ryukyu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 9cd3662c5386b6f45a9744be79c7fcc5
 [i]CRC32 Checksum:[/i] 91E6896F
 
 [b]S.C.I. - Special Criminal Investigation (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]special criminal investigation (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]special criminal investigation (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] d86284f679e05540de98ed7f90a71fcf
 [i]CRC32 Checksum:[/i] 09A0BFCC
 
 [b]Sadakichi Seven - Hideyoshi no Ougon (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Sadakichi Nanaban Series Hideyoshi no Ougon (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]sadakichi 7 series - hideyoshi no ougon (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 0cb043fe940e91d6660927aa6b01e1d9
 [i]CRC32 Checksum:[/i] F999356F
 
 [b]Saigo no Nindou - Ninja Spirit (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]saigo no nindou - ninja spirit (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]saigo no nindou - ninja spirit (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 7ed620b8a4a302dde75f074eabd4ead8
 [i]CRC32 Checksum:[/i] 0590A156
 
 [b]Salamander (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]salamander (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]salamander (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 3c60a87ef4f90b20e149330e26253f4d
 [i]CRC32 Checksum:[/i] FAECCE20
 
 [b]Samurai-Ghost (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Samurai Ghost (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 6e32e0516ea74eb94a4f0bc8bd9dc47c
 [i]CRC32 Checksum:[/i] 77A924B7
 
 [b]Sekigahara (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Sekigahara (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]sekigahara (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 81752039bb6a399d7228ad42d1eed156
 [i]CRC32 Checksum:[/i] 2E955051
 
 [b]Sengoku Mahjong (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Sengoku Mahjong (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]sengoku mahjong (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] e099715c2b1e8d392e2bd7f0f9f9388a
 [i]CRC32 Checksum:[/i] 90E6BF49
 
 [b]Shanghai (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]shanghai (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] e35f9e284d7299abaedad7662472d3c6
 [i]CRC32 Checksum:[/i] 6923D736
 
 [b]Shinobi (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]shinobi (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]shinobi (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 1659d9fa2ed7628d342fd7c7fbe6d439
 [i]CRC32 Checksum:[/i] BC655CF3
 
 [b]Shiryou Sensen - War of the Dead (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]shiryou sensen (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] cfd7fc43a9664979685b8e4358e4555f
 [i]CRC32 Checksum:[/i] 469A0FDF
 
 [b]Shockman (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]ShockMan (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 57c888f4af792dc4588a2f9dbebea31a
 [i]CRC32 Checksum:[/i] 2774462C
 
 [b]Shougi Shodan Icchokusen (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Shougi Shodan Icchokusen (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]shougi shodan icchokusen (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 72e2bc782598841a9e27782046e61219
 [i]CRC32 Checksum:[/i] 23EC8970
 
 [b]Shougi Shoshinsha Muyou (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Shougi Shoshinsha Muyou (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]shougi shoshinsha muyou (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] a2eb40128f6556368fa076166e7a587d
 [i]CRC32 Checksum:[/i] 457F2BC4
 
 [b]SideArms - Hyper Dyne (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]sidearms - hyper dyne (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]sidearms - hyper dyne (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] c1e1d8e68b3f4b04990093a73d1ad77e
 [i]CRC32 Checksum:[/i] E5E7B8B7
 
 [b]SideArms - Hyper Dyne (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Side Arms - Hyper Dyne (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] a97b9af7e814deb4e4358a466e7cd3c2
 [i]CRC32 Checksum:[/i] D1993C9F
 
 [b]Silent Debuggers (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]silent debuggers (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 37bf7db43aebb4fbbb886f8ca4062e0d
 [i]CRC32 Checksum:[/i] 616EA179
 
@@ -1711,59 +1311,46 @@
 [i]CRC32 Checksum:[/i] FA7E5D66
 
 [b]Sindibad - Chitei no Daimakyuu (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]sindibad chitei no dai makyuu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] ce4a782b15e9944aa1356a2a2ed4fbec
 [i]CRC32 Checksum:[/i] B5C4EEBD
 
 [b]Sinistron (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Sinistron (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 1c5eb68a65115abaccd9479503fd3a2b
 [i]CRC32 Checksum:[/i] 4F6E2DBD
 
 [b]Skweek (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]skweek (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]skweek (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] f411b4693c959657415346655dd062bc
 [i]CRC32 Checksum:[/i] 4D539C9F
 
 [b]Soldier Blade (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]soldier blade (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] e78e5212d85d614060ae31135e4f4bfe
 [i]CRC32 Checksum:[/i] 8420B12B
 
 [b]Soldier Blade (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Soldier Blade (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 59d23b7af39ea827eceb1d7e2cc363c0
 [i]CRC32 Checksum:[/i] 4BB68B13
 
 [b]Soldier Blade - Special Version (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]soldier blade special - caravan stage (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 5283b6daae3e3c4523a86ef974cfeede
 [i]CRC32 Checksum:[/i] F39F38ED
 
 [b]Somer Assault (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Somer Assault (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 0060840cb54b2db4db8a2927d48c6c54
 [i]CRC32 Checksum:[/i] 8FCAF2E9
 
 [b]Son Son II (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]son son ii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]son son ii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 9f446641a2e1794c61624f0a062efae5
 [i]CRC32 Checksum:[/i] D7921DF2
 
 [b]Sonic Spike - World Championship Beach Volleyball (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Sonic Spike - World Championship Beach Volleyball (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] e9a17f9e425cb6cf3e14c83eddd7dc06
 [i]CRC32 Checksum:[/i] F74E5EB3
 
 [b]Soukoban World (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]soukoban world (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 7798dac32870699a62d00fbfd67ca8b5
 [i]CRC32 Checksum:[/i] FB37DDC4
 
 [b]Space Harrier (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]space harrier (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 2c476453f2156c7afe10b5ed1fa60955
 [i]CRC32 Checksum:[/i] 64580427
 
@@ -1772,114 +1359,86 @@
 [i]CRC32 Checksum:[/i] 43B05EB8
 
 [b]Space Invaders - Fukkatsu no Hi (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]space invaders - fukkatsu no hi (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] b08a0efb7d780b77e4a7a6f290fe94a4
 [i]CRC32 Checksum:[/i] 99496DB3
 
 [b]Spin Pair (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]spin pair (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 97a2bfd91ce98f2c941a1a6581701ac4
 [i]CRC32 Checksum:[/i] 1C6FF459
 
 [b]Spiral Wave (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Spiral Wave (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]spiral wave (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] b5640a4df96c2eacf782e1b91cc59add
 [i]CRC32 Checksum:[/i] A5290DD0
 
 [b]Splatterhouse (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]splatterhouse (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] ea2eaf7aa11a639d13a6119dd3c3f6dc
 [i]CRC32 Checksum:[/i] 6B319457
 
 [b]Splatterhouse (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Splatterhouse (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] f6690ec0f440ced641718d6bc52e3fbd
 [i]CRC32 Checksum:[/i] D00CA74F
 
 [b]Stratego (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]stratego (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 2a55f96d5284f256a6bf9a17a3e2e9aa
 [i]CRC32 Checksum:[/i] 727F4656
 
 [b]Street Fighter II' - Champion Edition (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]street fighter ii' - champion edition (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 0d9135be3267876bfec7f588abeda5bb
 [i]CRC32 Checksum:[/i] D15CB6BB
 
 [b]Strip Fighter II (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Strip Fighter II (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]strip fighter ii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] cff035e7d00159ad0879df71e9aa25ca
 [i]CRC32 Checksum:[/i] D6FC51CE
 
 [b]Super Metal Crusher (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Super Metal Crusher (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]super metal crusher (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 2958e95bb08aec03825f08bb955abdc6
 [i]CRC32 Checksum:[/i] 56488B36
 
 [b]Super Momotarou Dentetsu (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]super momotarou dentetsu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] f365369bf476cebccb48f3a38fe39cc6
 [i]CRC32 Checksum:[/i] 3EB5304A
 
 [b]Super Momotarou Dentetsu II (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]super momotarou dentetsu ii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 093ace8d5348cc81501ce292a7f34f62
 [i]CRC32 Checksum:[/i] 2BC023FC
 
 [b]Super Star Soldier (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]super star soldier (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]super star soldier (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] aa00c9f1db182f315338e24a892a84a8
 [i]CRC32 Checksum:[/i] 5D0E3105
 
 [b]Super Star Soldier (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Super Star Soldier (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] bc7d4b0852d04fe49f6e3705b899c5e5
 [i]CRC32 Checksum:[/i] DB29486F
 
 [b]Super Volleyball (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]super volleyball (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]super volleyball (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 93ebc97ba0985310ab07e932264bb8e1
 [i]CRC32 Checksum:[/i] CE2E4F9F
 
 [b]Super Volleyball (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Super Volley Ball (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 2b31c6c01d779eec5bb19863e3c5af9b
 [i]CRC32 Checksum:[/i] 245040B3
 
 [b]Susanoou Densetsu (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]susanoo densetsu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] bdb29558fea5b2e7550087ad79718a4a
 [i]CRC32 Checksum:[/i] CF73D8FC
 
 [b]Taito Chase H.Q. (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]taito chase h.q. (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 12d5098d64869e784cf10029838df21f
 [i]CRC32 Checksum:[/i] 6F4FD790
 
 [b]Taito Chase H.Q. (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Taito Chase H.Q. (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] b6098cef5a4729009d446603c650e323
 [i]CRC32 Checksum:[/i] 9298254C
 
 [b]Takahashi Meijin no Shin Bouken-jima (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]takahashi meijin no shin boukenjima (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 7bb9c15803e5af75a1e773c29a6db39d
 [i]CRC32 Checksum:[/i] E415EA19
 
 [b]Takeda Shingen (Japan) (Alt 1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Takeda Shingen (J) [a1].pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]takeda shingen (japan) [a].pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] a402c5f2b38fc8733d7eb4a6082ee945
 [i]CRC32 Checksum:[/i] DF7AF71C
 
 [b]Takeda Shingen (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Takeda Shingen (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]takeda shingen (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] a7c20f8d0359b63c568a1ab6ee560cc0
 [i]CRC32 Checksum:[/i] F022BE13
 
@@ -1892,57 +1451,42 @@
 [i]CRC32 Checksum:[/i] BAE9CECC
 
 [b]Tatsujin (Japan) (Proto).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Tatsujin (Japan) (Proto).pce [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
-[b]tatsujin (japan) (proto).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] d1b5fe051c357a2f8d166697d0f7db09
 [i]CRC32 Checksum:[/i] C1B26659
 
 [b]Tatsujin (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]tatsujin (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]tatsujin (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 0674f72871d7a779d262b519d244e33a
 [i]CRC32 Checksum:[/i] A6088275
 
 [b]Tatsunoko Fighter (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]tatsunoko fighter (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 3a12c1ffbf5773f52a6d327cbfe0b214
 [i]CRC32 Checksum:[/i] EEB6DD43
 
 [b]Ten no Koe Bank (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Ten no Koe Memory Bank (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]tennokoe bank (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] e0047b06dc84cb242cced8c5fa7efafe
 [i]CRC32 Checksum:[/i] 3B3808BD
 
 [b]Tenseiryuu - Saint Dragon (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]tenseiryuu - saint dragon (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 92857243d4e985f1a58bec9cb2e16d58
 [i]CRC32 Checksum:[/i] 2E278CCB
 
 [b]Terra Cresta II - Mandoraa no Gyakushuu (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]terra cresta ii - mandoraa no gyakushuu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]terra cresta ii - mandoraa no gyakushuu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 64716e1013c5230e25f0249d8e641d5b
 [i]CRC32 Checksum:[/i] 1B2D0077
 
 [b]Thunder Blade (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]thunder blade (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]thunder blade (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] b4bf32b4d986fa5f53115c3f361a8679
 [i]CRC32 Checksum:[/i] DDC3E809
 
 [b]Tiger Road (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Tiger Road (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 189aec122ac913609c955c7c62aaa2e2
 [i]CRC32 Checksum:[/i] 985D492D
 
 [b]Time Cruise (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Time Cruise (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 28efe8b957a43facba53afe2aec38a69
 [i]CRC32 Checksum:[/i] 02C39660
 
 [b]Time Cruise II (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]time cruise ii (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] fac1e4b316c405a0477341b3fc22ec08
 [i]CRC32 Checksum:[/i] CFEC1D6A
 
@@ -1951,29 +1495,22 @@
 [i]CRC32 Checksum:[/i] 5D395019
 
 [b]Titan (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]titan (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] a9f182b617533d24200b4e39b2b311ad
 [i]CRC32 Checksum:[/i] D20F382F
 
 [b]Toilet Kids (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]toilet kids (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 7759f9e0a001483ae1fa2ea2a186e4c1
 [i]CRC32 Checksum:[/i] 53B7784B
 
 [b]Tora e no Michi (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]tora e no michi (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] e29c489f69b1fcbd37937fa4d31f9d0c
 [i]CRC32 Checksum:[/i] 82AE3B16
 
 [b]Toy Shop Boys (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Toy Shop Boys (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]toy shop boys (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]toy shop boys (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 982f85207499ecd6530fcd6e18e2061c
 [i]CRC32 Checksum:[/i] 97C5EE9A
 
 [b]Tricky (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]tricky (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] afd88ae448d851e58bade33abe3a4a47
 [i]CRC32 Checksum:[/i] 3AEA2F8F
 
@@ -1982,13 +1519,10 @@
 [i]CRC32 Checksum:[/i] 48E6FD34
 
 [b]Tsuppari Oozumou - Heisei Ban (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]tsuppari oozumou - heisei ban (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 6c75e08df27d78da7e6607782374576d
 [i]CRC32 Checksum:[/i] 61A6E210
 
 [b]Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Tsuru Teruhito no Jissen Kabushiki Bai Bai Game (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]tsuru teruhito no jissen kabushiki bai bai game (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 191df80c4ead5f5acdb24c7ec2c93331
 [i]CRC32 Checksum:[/i] F70112E5
 
@@ -1997,7 +1531,6 @@
 [i]CRC32 Checksum:[/i] EB045EDF
 
 [b]TV Sports Basketball (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]tv sports basketball (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 6bfe35219d3e479489befb2921a5ea7b
 [i]CRC32 Checksum:[/i] 10B60601
 
@@ -2006,7 +1539,6 @@
 [i]CRC32 Checksum:[/i] EA54D653
 
 [b]TV Sports Football (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]tv sports football (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] f3ca8091a325067f442630af4cb4e53b
 [i]CRC32 Checksum:[/i] 968D908A
 
@@ -2015,7 +1547,6 @@
 [i]CRC32 Checksum:[/i] 5E25B557
 
 [b]TV Sports Hockey (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]tv sports hockey (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 94d50a7e9871935c32a97c11e27de39a
 [i]CRC32 Checksum:[/i] E7529890
 
@@ -2024,30 +1555,22 @@
 [i]CRC32 Checksum:[/i] 97FE5BCF
 
 [b]USA Pro Basketball (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]USA Pro Basketball (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b]usa pro basketball (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]usa pro basketball (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 63b5ffe340e140aa2b4b2c6c8635934b
 [i]CRC32 Checksum:[/i] 1CAD4B7F
 
 [b]Valkyrie no Densetsu (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]walkuere no densetsu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] f08a37d37a69315652e1a0ec8dbba650
 [i]CRC32 Checksum:[/i] A3303978
 
 [b]Veigues - Tactical Gladiator (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]veigues - tactical gladiator (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]veigues - tactical gladiator (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 98e5da6e3b6bf779a419149e5d97a53c
 [i]CRC32 Checksum:[/i] 04188C5C
 
 [b]Veigues - Tactical Gladiator (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Veigues Tactical Gladiator (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 757754c27f380ce3f574bb861d641247
 [i]CRC32 Checksum:[/i] 99D14FB7
 
 [b]Victory Run (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]victory run (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 1a09d66caead5bc0f7669dc1af346d9c
 [i]CRC32 Checksum:[/i] 03E28CFF
 
@@ -2056,65 +1579,50 @@
 [i]CRC32 Checksum:[/i] 85CBD045
 
 [b]Vigilante (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]vigilante (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 4333192a22a121772356d3821d445a69
 [i]CRC32 Checksum:[/i] E4124FE0
 
 [b]Vigilante (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Vigilante (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] 589f7ceb0bd851f6442e53858a0dc51c
 [i]CRC32 Checksum:[/i] 79D49A0D
 
 [b]Violent Soldier (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]violent soldier (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 6e1f6d152f17b6008d1968d016c34a1a
 [i]CRC32 Checksum:[/i] 1BC36B36
 
 [b]Volfied (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]volfied (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]volfied (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 998cfe18bf12b235462d21eb6d80c25f
 [i]CRC32 Checksum:[/i] AD226F30
 
 [b]W-Ring - The Double Rings (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]w-ring - the double rings (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]w-ring - the double rings (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 7c5f8476e6b5ec9e56f4b67a00f022e7
 [i]CRC32 Checksum:[/i] BE990010
 
 [b]Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]wai wai mahjong - yukaina janyuu tachi (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 7b0ed7b884b3d6690c3a586c682f3adc
 [i]CRC32 Checksum:[/i] A2A0776E
 
 [b]Wallaby!! - Usagi no Kuni no Kangaroo Race (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]wallaby!! - usagi no kuni no kangaroo race (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 597331c0b7cf491d042a055ed1e2ab9e
 [i]CRC32 Checksum:[/i] 0112D0C7
 
 [b]Winning Shot (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]winning shot (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]winning shot (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 039fb7644dc73ded9744a1d73fde9e72
 [i]CRC32 Checksum:[/i] 9B5EBC58
 
 [b]Wonder Momo (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]wonder momo (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 367c426ccd7b9ce45e86a836d83d17db
 [i]CRC32 Checksum:[/i] 59D07314
 
 [b]World Beach Volley (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]world beach volley (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 01b12cf69e894990d7184b308890b1b2
 [i]CRC32 Checksum:[/i] BE850530
 
 [b]World Circuit (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]world circuit (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] f6402df31096393d038585bdeafe44d5
 [i]CRC32 Checksum:[/i] B3EEEA2E
 
 [b]World Class Baseball (USA).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]World Class Baseball (U).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
 [i]RA Checksum:[/i] b125af2edd2f27e04e693b4b5112fed7
 [i]CRC32 Checksum:[/i] 4186D0C0
 
@@ -2123,7 +1631,6 @@
 [i]CRC32 Checksum:[/i] A4457DF0
 
 [b]World Jockey (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]world jockey (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 5614339b28e660212ab596311f4f59d3
 [i]CRC32 Checksum:[/i] A9AB2954
 
@@ -2132,8 +1639,6 @@
 [i]CRC32 Checksum:[/i] 4B93F0AC
 
 [b]Xevious - Fardraut Saga (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]xevious - fardraut densetsu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[b]xevious - fardraut densetsu (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 4ec600e148ca399c1c1f215949430129
 [i]CRC32 Checksum:[/i] F8F85EEC
 
@@ -2142,53 +1647,42 @@
 [i]CRC32 Checksum:[/i] 3CA7DB48
 
 [b]Youkai Douchuuki (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]youkai douchuuki (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 46e8ca81ec6a426ae9e5b3372d4f2c29
 [i]CRC32 Checksum:[/i] F131B706
 
 [b]Yuu Yuu Jinsei - Victory Life (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]yuu yuu jinsei - victory life (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] e25d51114a230e039f8dd3b761fd23d3
 [i]CRC32 Checksum:[/i] C0905CA9
 
 [b]Zero 4 Champ (Japan) (v1.5).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]zero 4 champ (japan) (v1.5).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] cf51006c86541b94e8305f456c4d47c5
 [i]CRC32 Checksum:[/i] B77F2E2F
 
 [b]Zero 4 Champ (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]zero 4 champ (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] a755177ecfe1910928fa74d818a10e7c
 [i]CRC32 Checksum:[/i] EE156721
 
 [b]Zipang (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]zipang (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 749a1613022e9efe29dec953c3ecce9f
 [i]CRC32 Checksum:[/i] 67AAB7A1
 
 [b][BIOS] CD-ROM System (Japan) (v1.0).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b][cd] cd-rom system (japan) (v1.0).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 2b7ccb3d86baa18f6402c176f3065082
 [i]CRC32 Checksum:[/i] 3F9F95A4
 
 [b][BIOS] CD-ROM System (Japan) (v2.0).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b][cd] cd-rom system (japan) (v2.0).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 3a456f0eccff039eb5ff045f56ec1c3b
 [i]CRC32 Checksum:[/i] 52520BC6
 
 [b][BIOS] CD-ROM System (Japan) (v2.1).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b][cd] cd-rom system (japan) (v2.1).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 3cdd6614a918616bfc41c862e889dd79
 [i]CRC32 Checksum:[/i] 283B74E0
 
 [b][BIOS] Games Express CD Card (Japan).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b]Games Express CD Card 1993 (J).pce [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
-[b][cd] games express cd card (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 6d2cb14fc3e1f65ceb135633d1694122
 [i]CRC32 Checksum:[/i] 51A12D90
 
 [b][BIOS] Super CD-ROM System (Japan) (v3.0).pce [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
-[b][cd] super cd-rom system (japan) (v3.0).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
 [i]RA Checksum:[/i] 38179df8f4ac870017db21ebcbf53114
 [i]CRC32 Checksum:[/i] 6D9A73EF
 
@@ -10749,159 +10243,4 @@
 [i]RA Checksum:[/i] ccf8590e2e7ac4a08bcc1d77ec168917
 [i]CRC32 Checksum:[/i] 9D1E81B8
 
-[b]cyber dodge (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] cbc880d19c5a996d58d8a8d9c468d31b
-[i]CRC32 Checksum:[/i] B5326B16
-
-[b]hisou kihei - xserd (japan).pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 29cefd813b21e67bbac653454f48951a
-[i]CRC32 Checksum:[/i] 1CAB1EE6
-
-[b]adventure_island.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 2b02fcfc3346952b6f8686520346de90
-[i]CRC32 Checksum:[/i] 5D57F1C7
-
-[b]alice_in_wonderland.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 41bd9342e6f685b725dd44fbc6579b0a
-[i]CRC32 Checksum:[/i] D1E941EF
-
-[b]ankoku_densetsu.tv [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] ac1022ce1dad2f88ba85b1397a9ec854
-[i]CRC32 Checksum:[/i] 274D6A9B
-
-[b]barunba.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 83e4c9d1dd7206fb3444eb9fc9896e79
-[i]CRC32 Checksum:[/i] 1498678E
-
-[b]batman.tv [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 9fe3ce34ded52b382795a1031cd7a7d6
-[i]CRC32 Checksum:[/i] E282F730
-
-[b]tourv_be_ball_alt.pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 5c6227a91d252a12bf2a0d3d5b5fe65d
-[i]CRC32 Checksum:[/i] 261F1013
-
-[b]bomberman_93.tv [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] ff19aad9cc496883307d944fb19128b5
-[i]CRC32 Checksum:[/i] 6772C687
-
-[b]burning_angels.tv [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 8c544b4f808be805fc0a8c2537b869d4
-[i]CRC32 Checksum:[/i] A776FF9D
-
-[b]cadash.tv [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 18396ea436c465c3db0e3a661d02ff52
-[i]CRC32 Checksum:[/i] 3611C4CF
-
-[b]cyber_core.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] c63215483c35ede859a2605b21e92330
-[i]CRC32 Checksum:[/i] E1BFAC8F
-
-[b]die_hard.tv [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 50e5dccc5fdc8eb14ed4d36a2c67197d
-[i]CRC32 Checksum:[/i] 5CD0556E
-
-[b]doreamon-nobitas_dorabian_night.tv [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] de41ee95cc929e7a284dbd58701ee18e
-[i]CRC32 Checksum:[/i] 716B1229
-
-[b]down_load.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 95e9cd25033f97ea72db3bcf9d815f30
-[i]CRC32 Checksum:[/i] CD4E0142
-
-[b]dragon_egg.tv [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 8b34575ba840ec2f884b3515b1ff021b
-[i]CRC32 Checksum:[/i] FA24BC20
-
-[b]drop_rock_hora_hora.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 9ef3e73c96ee724a154b1853f81edfa9
-[i]CRC32 Checksum:[/i] 66CF9DB8
-
-[b]fighting_run.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 01909b45633b54bf8af7c9295ef3d170
-[i]CRC32 Checksum:[/i] 004BBA0A
-
-[b]gomolaa.pce [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 58418c0db028885a2f49abf4993f2b0e
-[i]CRC32 Checksum:[/i] 4BD38F17
-
-[b]gradius.tv [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 9f4e898f7e496f02ad1b192234cfe963
-[i]CRC32 Checksum:[/i] 8B39AF37
-
-[b]hit_the_ice.tv [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 17c291ba4695637ec7c461384bba9807
-[i]CRC32 Checksum:[/i] A0929D2B
-
-[b]image_fight.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] b6c24408f3cbbb06fa06d4c720c05017
-[i]CRC32 Checksum:[/i] AD6A4EB1
-
-[b]kato_ken.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 05bdbd95753ea0c1aeb58249e69e5ed1
-[i]CRC32 Checksum:[/i] 47993B98
-
-[b]knight_rider.tv [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 1bd5f06c67967284775721e47c095766
-[i]CRC32 Checksum:[/i] DC926EF5
-
-[b]mesopotamia.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 91c96482e9e2081562d63658489f33de
-[i]CRC32 Checksum:[/i] EA8AF850
-
-[b]ordyne.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] fce986cc16aae59ac87d799733caeb84
-[i]CRC32 Checksum:[/i] 885363ED
-
-[b]outrun.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] c470f2d37df28e01ce7efcfaf27c9b27
-[i]CRC32 Checksum:[/i] EF866D6E
-
-[b]power_sports.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 97aa76948c618df0912095db4b22c73e
-[i]CRC32 Checksum:[/i] 6E38B029
-
-[b]power_tennis.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 7390cca8e34dd2affafae506eaab60b8
-[i]CRC32 Checksum:[/i] DD67515A
-
-[b]puzznic.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 64a58c446d30430f0fb2aad18a8e0857
-[i]CRC32 Checksum:[/i] 1E73808A
-
-[b]sokoban_world.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 5b1b474354a4ba3ce91cd5e0255eb646
-[i]CRC32 Checksum:[/i] 97E966EC
-
-[b]soldier_blade.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 55dd9656c5efedd21bdf3cca7ca38b0f
-[i]CRC32 Checksum:[/i] 99D53041
-
-[b]spin_pair.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 508fd7903456fbdaef5f6d01edd14ad3
-[i]CRC32 Checksum:[/i] A2D2D0A1
-
-[b]the_newzealand_story.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 6eb5e9bbef490bf23f1f05c9614e03c7
-[i]CRC32 Checksum:[/i] 53B25BF6
-
-[b]toilet_kids.tv [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] ac1735bd7d3ee678c840b28b54af8394
-[i]CRC32 Checksum:[/i] 662A8960
-
-[b]tricky.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 7c3345f69a3dcd1e129c945f9e21f092
-[i]CRC32 Checksum:[/i] 9FEE2FCD
-
-[b]vigilante.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] 08510b0b79458389e6ded3bb9ab03fd9
-[i]CRC32 Checksum:[/i] 00EAAFCC
-
-[b]mashin_eiyuden_wataru.tv [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] a44da002c4c4647fe255ff97c87952b6
-[i]CRC32 Checksum:[/i] 13A96308
-
-[b]world_jockey.tv [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
-[i]RA Checksum:[/i] a8b3330f4af6ff6b6e7769ef3a127810
-[i]CRC32 Checksum:[/i] 3021C245
 
