@@ -18,13 +18,13 @@ Console ID|ROMset|Group|Filenames|ROM Checksums|RA Checksums|
 |03|Nintendo SNES (NonGoodSNES)|NonGood|✔️|✔️|✔️|
 |03|Nintendo Satellaview (20201226-093906)|No Intro|✔️|✔️|N/A|
 |03|Nintendo Sufami Turbo (20201218-081558)|No Intro|❌|❌|❌|
-|04|Nintendo Game Boy (20210101-042256)|No Intro|❌|❌|❌|
+|04|Nintendo Game Boy (20210101-042256)|No Intro|✔️|✔️|N/A|
 |04|Nintendo Game Boy (GoodGBx 3.14)|GoodTools|✔️|✔️|N/A|
 |04|Nintendo Game Boy (NonGoodGBx)|NonGood|✔️|✔️|N/A|
-|05|Nintendo Game Boy Advance (20210109-085221)|No Intro|❌|❌|❌|
+|05|Nintendo Game Boy Advance (20210109-085221)|No Intro|✔️|✔️|N/A|
 |05|Nintendo Game Boy Advance (GoodGBA 3.23)|GoodTools|✔️|✔️|N/A|
 |05|Nintendo Game Boy Advance (NonGoodGBA)|NonGood|✔️|✔️|N/A|
-|06|Nintendo Game Boy Color (20201227-202253) (MIA 1)|No Intro|❌|❌|❌|
+|06|Nintendo Game Boy Color (20201227-202253) (MIA 1)|No Intro|✔️|✔️|N/A|
 |06|Nintendo Game Boy Color (GoodGBx 3.14)|GoodTools|✔️|✔️|N/A|
 |06|Nintendo Game Boy Color (NonGoodGBx)|NonGood|✔️|✔️|N/A|
 |07|Nintendo NES (20210102-143743) [headered]|No Intro|❌|❌|❌|
