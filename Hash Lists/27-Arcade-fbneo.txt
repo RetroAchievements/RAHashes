@@ -23,10 +23,11 @@ ac069b94a8ff444dee3192b6cacf0656	1943j.7z <1943: Midway Kaisen (Japan, Rev B)>
 97f13fb525c71f803ca6c076397f098b	1943mii.7z <1943: The Battle of Midway Mark II (US)>
 301e97b74a289afaa2d0ed92e2fa292f	1943u.7z <1943: The Battle of Midway (US, Rev C)>
 784d4f98abe054041410562e7b989528	1943ua.7z <1943: The Battle of Midway (US)>
-6f2688a5fce7d48c8d19762b88c32c3b	1944.7z <1944 - the loop master (000620 USA)>
+6f2688a5fce7d48c8d19762b88c32c3b	1944.7z <1944 - the loop master (000620 Euro)>
 e146a7b832a2fd758fa80d97c72fa9a4	1944ad.7z <1944 - the loop master (000620 USA Phoenix Edition, alt) [Bootleg]>
 d332b0d328056bc41b65fc8238a43525	1944d.7z <1944 - the loop master (000620 USA Phoenix Edition) [Bootleg]>
 e71623025d014a033e00c26b09a44fcc	1944j.7z <1944 - the loop master (000620 Japan)>
+a3fe8cf4e314ac5f6d20c322b58a0df4	1944u.7z <1944 - the loop master (000620 USA)>
 3239e479e8c013a309ca9247c05319eb	1945kiii.7z <1945k III (newer, OPCX2 PCB)>
 65ef9da29a7b4c4c04910e4a79029db2	1945kiiin.7z <1945k III (newer, OPCX1 PCB)>
 4cd091ad3435fe8b1610244a6829f5c2	1945kiiio.7z <1945k III (older, OPCX1 PCB)>
@@ -79,7 +80,7 @@ f0d28525a6bada92b10152b1e908736c	88games.7z <'88 Games>
 4996b3e2ea6005577ae23c6dc5d00e2e	8bpm.7z <Eight Ball Action (Pac-Man conversion) [imperfect graphics]>
 5d914ae0313f26ea5c6b8d23e3887ead	99lstwar.7z <'99: The Last War (set 1)>
 4ead8e63d90a2e6a082d523cd87d9698	99lstwara.7z <'99: The Last War (set 2)>
-b915685090d61cbe0003b425cf01fa0c	99lstwarb.7z <'99: The Last War (bootleg) [Bad colors in some scenes]>
+b915685090d61cbe0003b425cf01fa0c	99lstwarb.7z <'99: The Last War (bootleg) [Bootleg]>
 dd914a0f19ffce69caa5ad3f20909c24	99lstwark.7z <'99: The Last War (Kyugo)>
 9ff364e6ebbf5e2002f261ad5b425716	abcop.7z <A.B. Cop (World, FD1094 317-0169b)>
 85e661347e73cf4d8b93635afce17b9c	abcopd.7z <A.B. Cop (World, FD1094 317-0169b decrypted) [Bootleg]>
@@ -139,13 +140,15 @@ ad4bb067cd610dfebdb3bdf1c5e38479	agentx4.7z <Agent X (prototype, rev 4)>
 cf3fa3caa28cc70ada7af29272e8428c	airbustrb.7z <Air Buster: Trouble Specialty Raid Unit (bootleg) [Bootleg]>
 377bdcceec9199c724843e4d6801a120	airbustrj.7z <Air Buster: Trouble Specialty Raid Unit (Japan)>
 749c0ca49386816dace46712b6431635	airduel.7z <Air Duel (World, M82 hardware)>
-94fa04c21f1b8b08937c248a89cff157	airduelm72.7z <Air Duel (Japan, M72 hardware)>
+566cc18767cb7ec2ae82151497e78b91	airdueljm72.7z <Air Duel (Japan, M72 hardware)>
+94fa04c21f1b8b08937c248a89cff157	airduelm72.7z <Air Duel (World, M72 hardware)>
 64f02a3df3725db8c91f3fe71293b159	airduelu.7z <Air Duel (US location test, M82 hardware)>
 084f1203e22df0fcad06b4088ff169f3	airwolf.7z <Airwolf>
 d8d3ce287ca417540e3858269d124719	airwolfa.7z <Airwolf (US)>
 2705a83a5a0659cce34583972637eda5	ajax.7z <Ajax>
 0a36963f5f5215ef6fa876a755b0574c	ajaxj.7z <Ajax (Japan)>
-0a3da1a29e562d278511a6170e2ab6aa	akkaarrh.7z <Akka Arrh (prototype)>
+b00d945300e9c8f7eb832b87b6cb6ef3	akiss.7z <Mahjong Angel Kiss (ver 1.0)>
+0a3da1a29e562d278511a6170e2ab6aa	akkaarrh.7z <Akka Arrh (prototype) [Video issue when zooming]>
 dc50104f0735a02ff713613ebb0b6a64	akkanvdr.7z <Akkanbeder (Ver 2.5J 1995/06/14)>
 87aa923f8327668a0403ddbaa35fd836	akumajou.7z <Akuma-Jou Dracula (Japan ver. P)>
 85a364f4150adadd26f073d95fe2cf0f	akumajoun.7z <Akuma-Jou Dracula (Japan ver. N)>
@@ -154,6 +157,9 @@ dc50104f0735a02ff713613ebb0b6a64	akkanvdr.7z <Akkanbeder (Ver 2.5J 1995/06/14)>
 4ff69e86170fad0a09ad2cab6aeee68c	alexkidd.7z <Alex Kidd: The Lost Stars (set 2, unprotected)>
 ffccc52b393d6a9b366eb7fe3dff9ab5	alibaba.7z <Ali Baba and 40 Thieves>
 11a8b5ce8e7c5fc1919ad7d91a243ac1	alibabab.7z <Mustafa and 40 Thieves (bootleg)>
+5af10052357aafcef08cc73f1219ea3e	alien3.7z <Alien3: The Gun (World)>
+e4d0b48863b07d8e8f1da471598fea69	alien3j.7z <Alien3: The Gun (Japan)>
+865b7014d8d619500d897775259467ed	alien3u.7z <Alien3: The Gun (US, Rev A)>
 cd77bdd93587814dff0975b152773a92	alienar.7z <Alien Arena [Game has no sound]>
 f286716106f26f851581a33d6b3f018b	alienaru.7z <Alien Arena (Stargate upgrade)>
 afb0d7551586991cb66ae92c62f187d9	aliencha.7z <Alien Challenge (World)>
@@ -228,6 +234,9 @@ ff9212ddee378339e702861ced1355fe	aponow.7z <Apocaljpse Now [Bootleg]>
 5bb50b4a11aee8df2d861f744577933a	aquajacku.7z <Aquajack (US)>
 362e115fe52f1d4b4992dc48d4ab7d06	aquarium.7z <Aquarium (US)>
 b50b68caa8b2a74f6d86da5c1cbe0716	aquariumj.7z <Aquarium (Japan)>
+55842630a783126dab98a2a8e28fd479	arabfgt.7z <Arabian Fight (World)>
+79990b3456c0a0575f8c3256aee1751e	arabfgtj.7z <Arabian Fight (Japan)>
+26632b6a4ac4284765bf3dd3221edc76	arabfgtu.7z <Arabian Fight (US)>
 5cc2f380cb988961171a68f91c5d1d30	arabian.7z <Arabian>
 43e9e5cbd8d8e54588c8d1df739b580b	arabiana.7z <Arabian (Atari)>
 ce40a059058aa84460a42d4f5e2d6978	arabianm.7z <Arabian Magic (Ver 1.0O 1992/07/06)>
@@ -239,6 +248,9 @@ c17189199595dbec7e5989549b7bd220	arcadecl.7z <Arcade Classics (prototype)>
 59137a66c5093180deb5b763c0178291	arcadian.7z <Arcadia (NMK)>
 0006c5e727223e4434423bfa12ea0dc8	area88.7z <Area 88 (Japan)>
 72f946989a677f6daeb35a8ac27102eb	area88r.7z <Area 88 (Japan Resale ver.)>
+9141953f80b93d3f027b0e64550c884e	arescue.7z <Air Rescue (World)>
+bbb33aa0ea8d815c2d056a08c290dd4c	arescuej.7z <Air Rescue (Japan)>
+10f6bf8c28482d6be8157b96ce17a751	arescueu.7z <Air Rescue (US)>
 c1880c50609e9472656c8079a85af066	argus.7z <Argus>
 057137e9110504ff6a72beb671319722	argusg.7z <Argus (Gottlieb, prototype)>
 1061bb40ea99675d095192c6ea8f9f54	arian.7z <Arian Mission>
@@ -269,7 +281,8 @@ f7ec4f8f6364a61ed9c0097870cfe476	arkretrn.7z <Arkanoid Returns (Ver 2.02O 1997/0
 43b6f5738f955823b291260b41040352	arkretrnj.7z <Arkanoid Returns (Ver 2.02J 1997/02/10)>
 2a2b0a4f1730a69c3f8eab7dd9520c10	arkretrnu.7z <Arkanoid Returns (Ver 2.02A 1997/02/10)>
 3f11a9c129600bf093d4b82b68bf8a95	arktayt2.7z <Arkanoid (Tayto bootleg, harder) [Bootleg]>
-9caa15addbba0041349ef63a96e8d29c	armchmp2.7z <Arm Champs II v2.6>
+9caa15addbba0041349ef63a96e8d29c	armchmp2.7z <Arm Champs II v2.7>
+643d1d3867c611845643d366bac930bb	armchmp2o2.7z <Arm Champs II v2.6>
 7f15c68c9b75c691f85eca10973491c6	armchmp2o.7z <Arm Champs II v1.7>
 83446c76b266f2abeab18133c7ae086b	armedf.7z <Armed Formation>
 a1d75bf894717d05c0e614b0f01b9b0f	armedff.7z <Armed Formation (Fillmore license)>
@@ -305,7 +318,8 @@ db028d77095b6f0668c06d339c78befd	asterock.7z <Asterock (Sidam bootleg of Asteroi
 9646a8d4505a931ddf9726c91d135a9f	asteroid1.7z <Asteroids (rev 1)>
 14813fa22bbcc9b77f119b2781133d1e	asteroid2.7z <Asteroids (rev 2)>
 cd76adfdb0f7227ec28f6dc8d0cb3221	asteroid.7z <Asteroids (rev 4)>
-c6bf6960212b161ec6677670156f3a9f	asteroidb.7z <Asteroids (bootleg on Lunar Lander hardware) [Bootleg]>
+8e92cc29449069b65d82d9847be8e3d3	asteroidb1.7z <Asteroids (bootleg on Lunar Lander hardware, set 1) [Bootleg]>
+64e9961fee8886d17125ff0bcd48517b	asteroidb2.7z <Asteroids (bootleg on Lunar Lander hardware, set 2) [Bootleg]>
 21301f0274127c1f229a4e9124278e0f	astorm3.7z <Alien Storm (set 3, World, 3 Players, FD1094 317-0148)>
 dad4829eeb9f987d41f5bc38c354b295	astorm3d.7z <Alien Storm (set 3, World, 3 Players, FD1094 317-0148 decrypted) [Bootleg]>
 8121318dbbce13ff471c91132160e998	astorm.7z <Alien Storm (set 4, World, 2 Players, FD1094 317-0154)>
@@ -370,11 +384,13 @@ f0db515c84d74deb39ebc7aafc39217c	bagman.7z <Bagman>
 bd6f0015b886c7e06f244dbaac71464d	bagmanj.7z <Bagman (Taito)>
 658941d262688cb11dea2cedd0cfb9a2	bagmanm2.7z <Bagman (bootleg on Moon Cresta hardware set 2) [Bootleg, Bad Colours]>
 acef677354148ab3f9f1796a1fdd2341	bagmanmc.7z <Bagman (bootleg on Moon Cresta hardware set 1) [Bootleg, Bad Colours]>
-c3185c6b7f3f205e47b3ef770266ee75	bagmans2.7z <Bagman (Stern Electronics, set 2)>
-8bf532962332a35ff6434876b6771c34	bagmans.7z <Bagman (Stern Electronics, set 1)>
+7f377973eb41ce4f7646d63e3ef27f30	bagmans3.7z <Bagman (Stern Electronics, revision A3)>
+754cb90ea91b260ac42d1845ed43b407	bagmans4.7z <Bagman (Stern Electronics, revision A4)>
+8bf532962332a35ff6434876b6771c34	bagmans.7z <Bagman (Stern Electronics, revision A5)>
 6008d0bacdb1424c4598685fee787fe2	bagnard.7z <Le Bagnard (set 1)>
 5236f5fb2ce7ee5aab677b785bb9da54	bagnarda.7z <Le Bagnard (set 2)>
 4dd97ef8b2d9c263eb1aa4b50e768131	bagnardi.7z <Le Bagnard (Itisa, Spain)>
+86ebd872527b5adc904bc56bdc07e3da	bagnardio.7z <Le Bagnard (Itisa, Spain, older)>
 ac0543db096386f80390e2704d97d09a	bakubrkr.7z <Bakuretsu Breaker (Japan)>
 448c569915d26128b0cadcf051a50377	bakutotu.7z <Bakutotsu Kijuutei>
 cc0ae462448da879db7be1ac80e7815a	balcube.7z <Bal Cube>
@@ -428,6 +444,7 @@ f96d16fa2c53eebdd521df2585b1866a	bayrouted.7z <Bay Route (set 3, World, FD1094 3
 f9e9836d7fe6884480f74a53ef9a4905	bbakraidja.7z <Battle Bakraid (Japan) (Wed Apr 7 1999)>
 f3fcd1e46188097866fd5f47f4df0a5d	bballs.7z <Bouncing Balls>
 33c80817ac4eb28d1893748ddde30030	bballsa.7z <Bouncing Balls (Adult)>
+db334a536ad611948686de7e26247432	bbbxing.7z <Best Bout Boxing (ver 1.3)>
 d9ea0786148cb2d437c6ff4ebb92ab3c	bbmanw.7z <Bomber Man World / New Dyna Blaster - Global Quest>
 ea745333cb69e190cbe6bba9b1af37b1	bbmanwj.7z <Bomber Man World (Japan)>
 1da1cc253713b7f422ffd18bfed873d4	bbmanwja.7z <Bomber Man World (Japan, revised sound hardware)>
@@ -471,6 +488,7 @@ d70b6b3a18913697a067e35d448284a3	bgareggacn.7z <Battle Garegga - Type 2 (Denmark
 8467a06a108ad63000e61d4702299af0	bgareggahk.7z <Battle Garegga (Austria / Hong Kong) (Sat Feb 3 1996)>
 bc7fba272a19d266a329a46748e098ab	bgaregganv.7z <Battle Garegga - New Version (Austria / Hong Kong) (Sat Mar 2 1996)>
 352f91f529c13627f2a3da5a30f3bcf3	bgareggat2.7z <Battle Garegga - Type 2 (Europe / USA / Japan / Asia) (Sat Mar 2 1996)>
+9cca8823af609f6ff6aa678a3b8f3870	bgareggat.7z <Battle Garegga (location test) (Wed Jan 17 1996)>
 48d85c64f84d6129616d0b6a92d4f14d	bgareggatw.7z <Battle Garegga (Taiwan / Germany) (Thu Feb 1 1996)>
 8e5fc84cde642dd1fd4953c7f30020b4	bgareggaz.7z <Battle Garegga Zakk version (Europe / USA / Japan / Asia) (Sat Feb 3 1996)>
 f447df8362a4d0d9f5142f563595684b	bigbang.7z <Big Bang (9th Nov. 1993)>
@@ -573,6 +591,8 @@ f7a5e7fb9408b293ddd763325d725f4b	blswhstla.7z <Bells &amp; Whistles (Asia, versi
 c37692ee3dd0806ff518a14cc1864990	blzntrnd.7z <Blazing Tornado>
 9e226fab11cfe8f248c9452de02fd9c9	bmaster.7z <Blade Master (World)>
 b820168e4e430a69d315d3fce1c7122b	bnj.7z <Bump 'n' Jump>
+3adb7b4dbc6736d09773c8e76ec7bfda	bnstars1.7z <Vs. Janshi Brandnew Stars [Not currently emulated]>
+7e54fa91f9f2bc9e8d410bef95ea5f3e	bnstars.7z <Vs. Janshi Brandnew Stars (Ver 1.1, MegaSystem32 Version)>
 0c36bd624045dd4055b005c08aa97a2c	bnzabros.7z <Bonanza Bros (US, Floppy DS3-5000-07d? Based)>
 a04b5c8d5a6805a779a027389b5bb7b0	bnzabrosj.7z <Bonanza Bros (Japan, Floppy DS3-5000-07b Based)>
 5615590e8e50b87678b2837bae13b8e3	boblbobl.7z <Bobble Bobble (bootleg of Bubble Bobble) [Bootleg]>
@@ -624,6 +644,8 @@ aadf1016708a6a4d6d2d04f89b432270	brapboyspu.7z <B.Rap Boys Special (US)>
 c72409995d74ca462373000b7aa4d972	brdrlinet.7z <Borderline (Tranquillizer Gun conversion) [No sound]>
 06154d05897fbf79c5b0c5238284bc63	brdrlins.7z <Borderline (Sidam bootleg) [Bootleg, No sound]>
 079af4b2e791bd7d85fbe46872dc1aa1	breywood.7z <Breywood (Japan revision 2)>
+405f373d45f84a332e9479da3b22490f	brival.7z <Burning Rival (World)>
+dde86995d5624b9233fd844721df1a64	brivalj.7z <Burning Rival (Japan)>
 e217c3e37ad6be6b32b3142b518ddb7a	brix.7z <Brix>
 6e56aba0bb4cafaf84062729195107cf	brkthru.7z <Break Thru (US)>
 b3500d27baa54b07ae5d140b6cf707e0	brkthruj.7z <Kyohkoh-Toppa (Japan)>
@@ -641,6 +663,7 @@ fb942b95c42ff7424e4775d656d9061f	btimem.7z <Burger Time (Midway)>
 4f539842f08ba5a71f3315633a5d77c1	btlfieldb.7z <Battle Field (bootleg) [Bootleg, no-rotation joystick ver]>
 512bcd03488da921ac7256540397f7a3	btlkroad.7z <Battle K-Road>
 a99fc0cad591c7506a01aae6701df3e4	btlkroadk.7z <Battle K-Road (Korea)>
+7056d1adf36953ae1be0439e9e8b988a	btoads.7z <Battletoads>
 8c3ad378b8b71444654c23f9432191a8	bub68705.7z <Bubble Bobble (boolteg with 68705, set 1) [Bootleg]>
 8d35e1d18ed2b61800148971b1d10ce5	bub68705a.7z <Bubble Bobble (boolteg with 68705, set 2) [Bootleg]>
 af240c5dd95afcbc9f2ef656c84aaf28	bubblem.7z <Bubble Memories: The Story Of Bubble Bobble III (Ver 2.4O 1996/02/15)>
@@ -671,6 +694,7 @@ f3202b2e30eb50c6e5621e18540a9b12	bublcave11.7z <Bubble Bobble: Lost Cave V1.1 [H
 2303d9ecd93f77d4fbff6e06f7374700	bubsymphe.7z <Bubble Symphony (Ver 2.5O 1994/10/05)>
 c86b9fe34143e8b202f6a71204816f90	bubsymphj.7z <Bubble Symphony (Ver 2.5J 1994/10/05)>
 3a1b2345b497fef63e03d68b15e0ee47	bubsymphu.7z <Bubble Symphony (Ver 2.5A 1994/10/05)>
+ab5bff358ea62b8bb2d16f96abe3d3de	bubsys.7z <Bubble System BIOS>
 c5565f5602c8d7a4f92f3ac87310582c	bucaner.7z <Buccaneer>
 677116eefe519f60e5fae870e2fd6d8f	buccanrs.7z <Buccaneers (set 1)>
 ca823cb908e7225081909a9bd06271ce	buccanrsa.7z <Buccaneers (set 2)>
@@ -714,6 +738,7 @@ e69c709250a7bfdedfda52254ed29e95	cabala.7z <Cabal (korea?, Joystick)>
 b5aa0636b8f597c594e56e4f64ee6f7d	cabalus.7z <Cabal (US set 1, Trackball)>
 081986fb352d7223e6f51f990f8c2ae9	cachat.7z <Cachat (Japan)>
 42239b8342a1fe81a71703f6de711073	cactus.7z <Cactus (bootleg of Saboten Bombers)>
+bd02082ecefd12a2152fae24af42d421	cadanglr.7z <Angler Dangler (DECO Cassette) (US)>
 0057b25fec4d1adca635eaec3a96ec1b	cadash.7z <Cadash (World)>
 e5b16a8034b790d86d81608282ce47af	cadashf.7z <Cadash (France)>
 5ca7f734ab09bb1d0741b3861c9ad49d	cadashg.7z <Cadash (Germany, version 1)>
@@ -723,6 +748,7 @@ c11928b6d607c1d63391b33f5bc3086e	cadashj.7z <Cadash (Japan, version 2)>
 3cfe069e48d3cb9cab91b40469aa4d8f	cadashjo.7z <Cadash (Japan, oldest version)>
 14e2b8b7e18da2d97fc4fb6320b94036	cadashp.7z <Cadash (World, prototype)>
 4cd438453c18d26c9dd7f16741488918	cadashs.7z <Cadash (Spain, version 1)>
+efa04d525dd48e623ae7112e461b040c	cadashu1.7z <Cadash (US, version 1?)>
 e6708fa973b86bc206b2943a1aadda3c	cadashu.7z <Cadash (US, version 2)>
 4990b3e8690f18555a3645dfaa81c61c	cairblad.7z <Change Air Blade (Japan)>
 76d6dabb67b70999ad1caa3241c8a256	calibr50.7z <Caliber 50>
@@ -762,7 +788,7 @@ af13b049084ba6917ade6d6f01cd33dd	captcommj.7z <Captain Commando (911202 Japan)>
 f9505345203b7c29fcf0c227a198dfc2	captcommjr1.7z <Captain Commando (910928 Japan)>
 319beaa58a8ff2b72d682e391091d73e	captcommp4.7z <Captain Commando (Enhanced edition 1 V 4, Hack) [Hack]>
 b7cf5aa4176917b597eac76d364e449c	captcommr1.7z <Captain Commando (911014 World)>
-10b8fe6afa8462c6d55c94a473957312	captcommr1pwx.7z <Captain Commando (Unlimited Bullet Update 2020-02-19) [Hack]>
+10b8fe6afa8462c6d55c94a473957312	captcommr1pwx.7z <Captain Commando (Unlimited Bullet) [Hack]>
 e37004f9a9251cc5d5921836e14fb5c6	captcommu.7z <Captain Commando (910928 USA)>
 a2ce55ab7bc177ba255ab570fc05ca7e	car2.7z <Car 2 (bootleg of Head On 2) [Bootleg, No sound]>
 83cd67caa086d9fd6df09148b5982ab5	carhntds.7z <Car Hunt / Deep Scan (France) [No sound]>
@@ -773,6 +799,7 @@ b7409ff72632e38acefbd39a7a6f80af	carnivalh.7z <Carnival (Head On hardware, set 1
 ef479cca626f470396d954e3486e7a15	carnivalha.7z <Carnival (Head On hardware, set 2) [No sound]>
 76b548d34a79decc7f90ccd63dd97bf9	casanova.7z <Casanova>
 51bdbe28d1e760093e03fa0cdec15293	cashquiz.7z <Cash Quiz (Type B, Version 5) [Missing graphics due to undumped ROM!]>
+6e3b114f65404f6357662b69934ce1c6	castfant.7z <Astro Fantasia (DECO Cassette) (US)>
 ed57d10fea52719068f7b2792ccd5ecd	catacomb.7z <Catacomb [Bad Colours]>
 aa74ec6c5dc5406f24e159d402b2f407	catapult.7z <Catapult [Bad dump]>
 3c5dd05cf0b0470bdfac79bd2daf04d2	catt.7z <Catt (Japan)>
@@ -785,9 +812,14 @@ fc4d4fae59303f65eb7958791c169d44	cawing.7z <Carrier Air Wing (U.S. navy 901012 e
 e76878aef40c87995a34a18bf59af461	cawingr1.7z <Carrier Air Wing (U.S. navy 901009 etc)>
 5f787bc561d390dfee950ff0e9e19ea9	cawingu.7z <Carrier Air Wing (U.S. navy 901130 USA)>
 be3989e2465ad2445791e6a8a496427d	cawingur1.7z <Carrier Air Wing (U.S. navy 901012 USA)>
-cf2b42b4cdea9e7d35280ad0ab4b8c38	cbombers.7z <Chase Bombers (World) [With graphics issues]>
-de8402c5df0ebab4658e177ade621cda	cbombersj.7z <Chase Bombers (Japan) [With graphics issues]>
-db5449933cd4c76d61daf998dc7f6df9	cbombersp.7z <Chase Bombers (Japan Prototype) [Prototype, With graphics issues]>
+ff6dcdc925f2170fee1b2826a3e33cff	cbdash.7z <Boulder Dash (DECO Cassette) (US)>
+894f266b6ac779e510a933a20b789f44	cbnj.7z <Bump 'n' Jump (DECO Cassette) (US)>
+cf2b42b4cdea9e7d35280ad0ab4b8c38	cbombers.7z <Chase Bombers (World)>
+de8402c5df0ebab4658e177ade621cda	cbombersj.7z <Chase Bombers (Japan)>
+db5449933cd4c76d61daf998dc7f6df9	cbombersp.7z <Chase Bombers (Japan Prototype) [Prototype]>
+d62535bfd7dfcfcbf3c7fcfaa7a4e1a0	cbtime.7z <Burger Time (DECO Cassette) (US)>
+376826719a92bb817df731f7b9de509e	cburnrub2.7z <Burnin' Rubber (DECO Cassette) (US) (set 2)>
+b7f249d3e1cf827b1530393dc0e942a7	cburnrub.7z <Burnin' Rubber (DECO Cassette) (US) (set 1)>
 b518623164efedb99a8df8d05cf4bd53	cbuster.7z <Crude Buster (World FX version)>
 ffe7e69d133e219e0d5bdf7cf1ae49b4	cbusterj.7z <Crude Buster (Japan FR revision 1)>
 c81749e7148ce427cf23ad8b2414fdc5	cbusterw.7z <Crude Buster (World FU version)>
@@ -805,11 +837,21 @@ d2d96a89c3219c1ed2f0683a835c6793	cclimber.7z <Crazy Climber (US set 1)>
 1fb4fc2ecd16a817643afe539ef0bd0b	cclimberj.7z <Crazy Climber (Japan)>
 02ad6806aead3975b9127b9a9d1b3e17	cclimbr2.7z <Crazy Climber 2 (Japan)>
 330baf8c93626011ccdacf5cd66b0c51	cclimbr2a.7z <Crazy Climber 2 (Japan, Harder)>
+91da136a1bf3cb84def63ff940626bd7	cdiscon1.7z <Disco No.1 (DECO Cassette) (US)>
+e85f15b5880c281ae9f2df4d31d49fae	cdsteljn.7z <DS Telejan (DECO Cassette) (Japan)>
 051fe9769a9fd3556a49dd99cc35b2e8	cencourt.7z <Center Court (World, 4 Players, prototype, MC-8123B)>
 08b40f62c18417b3fb2a0a282212f0f7	centiped3.7z <Centipede (revision 3) [2 Player version]>
 3e30300051e145abaf2164a53f107bb7	centiped.7z <Centipede (revision 4) [1 Player version]>
+23fba1fc14bc6111523e84668471c79b	cexplore.7z <Explorer (DECO Cassette) (US)>
+f8f77156128c0a10148a5d0aa29b1532	cfboy0a1.7z <Flash Boy (vertical) [DECO Cassette MD] (No.12/Ver.0/Set.1,Japan)>
+1a5221e2a5cde06efacf61d76944fed1	cfghtice.7z <Fighting Ice Hockey (DECO Cassette) (US)>
+5413ffbefeed8358322f91c9917acf61	cfishing.7z <Fishing (DECO Cassette) (Japan)>
+610678042c8ffad1d81bc9a5bc1d8211	cflyball.7z <Flying Ball (DECO Cassette) (US)>
+ca2befc68c99ab20285247e344e799e2	cgraplop2.7z <Graplop (no title screen) (DECO Cassette) (US)>
+3655032858a00db757c8c644a3ba521e	cgraplop.7z <Cluster Buster (DECO Cassette) (US)>
 ffada5a3a609984b563ee260b228f066	chainrec.7z <Chain Reaction (World, Version 2.2, 1995.09.25)>
 f7307ad698c6290ac40f325a0ff22641	chaknpop.7z <Chack'n Pop>
+0a90cef7a49007325848b65c920dcd12	chamburger.7z <Hamburger (DECO Cassette) (Japan)>
 efe7fd64d032dcb7ad26c8a24047640e	chameleo.7z <Chameleon>
 2d345d19fbf291f88efab12a637a5387	champwr.7z <Champion Wrestler (World)>
 a683585ee0289ef6822f9c080dc30a36	champwrj.7z <Champion Wrestler (Japan)>
@@ -825,6 +867,7 @@ fe0c6c90b5cd72af541616f1892ac3ea	chasehqu.7z <Chase H.Q. (US)>
 1349ca8bec11c468aa601e6bf6e5e10b	checkman.7z <Check Man>
 4843c3d5f44b2504caf3ee8f6ce89201	checkmanj.7z <Check Man (Japan)>
 38ad8f1b71dfde9fb3ee4fbec01d418d	cheekyms.7z <Cheeky Mouse>
+ce4eb8f793404199e42e44e56b32c5b6	cheesech.7z <Cheese Chase>
 5cc114fff6cc1f3de023015e52121a3a	chelnov.7z <Chelnov - Atomic Runner (World)>
 24b9c3b2f29928c6ad3376641df7f98d	chelnovj.7z <Chelnov - Atomic Runner (Japan)>
 4f4e46c4b03ce7a5dce021630af30636	chelnovu.7z <Chelnov - Atomic Runner (US)>
@@ -848,6 +891,7 @@ adc42494117a4eb5c6d9cb1130be876e	chukatai.7z <Chuka Taisen (World) (P0-028-A PCB
 ce94760fb5563616aabe04d9ba128df9	chukataij.7z <Chuka Taisen (Japan) (P0-028-A PCB)>
 aefb7266e0546f55c33e31415f11b13d	chukataija.7z <Chuka Taisen (Japan) (P0-025-A PCB)>
 33efb0870ffd6ae1bdf967ca3bb63622	chukataiu.7z <Chuka Taisen (US) (P0-028-A PCB)>
+b0d9e1b26fc5c2c413256e320ed0d836	chwy.7z <Highway Chase (DECO Cassette) (US)>
 e1c1d0ed3dbc3972cdc49404a8d23600	circusc2.7z <Circus Charlie (level select, set 2)>
 b8b6b1ca5bb4cbeb04094cea140a6e48	circusc3.7z <Circus Charlie (level select, set 3)>
 dd1aa0b6ac2a77f02beae4766eb0e76e	circusc4.7z <Circus Charlie (no level select)>
@@ -869,12 +913,16 @@ c963b5828a4489f2f373898719cb232c	ckongpt2b.7z <Crazy Kong Part II (alternative l
 9b86f16148b75e34b387f557068a1faa	ckongpt2j.7z <Crazy Kong Part II (Japan)>
 ef8859b598415db31acc1ed2a567e0b1	ckongpt2jeu.7z <Crazy Kong Part II (Jeutel bootleg)>
 807244780c19ca8ced1548c4de27e9e6	ckongs.7z <Crazy Kong (Scramble hardware) [Bootleg]>
+071c1558e8f4f24daef4ba43f7338cc2	clapapa2.7z <Rootin' Tootin' (DECO Cassette) (US)>
+a8f2cc423e5741074fe0e65bcae99070	clapapa.7z <Rootin' Tootin' / La-Pa-Pa (DECO Cassette) (US)>
 f28ce7dac53bcac0f8956bdfa5549e3a	clbowl.7z <Coors Light Bowling>
 0422353d67e219de12d113a8d444aaf4	cleopatr.7z <Cleopatra Fortune (Ver 2.1J 1996/09/05)>
 7d067ef3bf74d1659b8fa9df3de1a047	cloak.7z <Cloak &amp; Dagger (rev 5)>
 d2a65105c3f5637d0b5faeff99ca1ebb	cloakfr.7z <Cloak &amp; Dagger (French)>
 8e50451e7eb96085419c121ea413896e	cloakgr.7z <Cloak &amp; Dagger (German)>
 71c6fc56477f8bc5e7aa19a46c3931a2	cloaksp.7z <Cloak &amp; Dagger (Spanish)>
+9e5a821d8a40e4889cbc18166a7d882c	clocknch.7z <Lock'n'Chase (DECO Cassette) (US)>
+ff3337de921d5c07b9edf92a6525aa41	clocknchj.7z <Lock'n'Chase (DECO Cassette) (Japan)>
 1a4ec26b6d36503c5b00ae9769d17687	cloud9.7z <Cloud 9 (prototype) [Prototype]>
 b10c2937d5589d933ce55f5abaef71ff	clshroad.7z <Clash-Road>
 4b884df9735be192377948f721f6de8e	clshroadd.7z <Clash-Road (Data East license)>
@@ -884,6 +932,11 @@ cf683e031ddc6157ccd954e7375e272a	cltchitrd.7z <Clutch Hitter (set 2, US, FD1094 
 fca59084a536bf066f679de26318f14a	cltchitrj.7z <Clutch Hitter (set 1, Japan, FD1094 317-0175)>
 6a9ddc1e0c40aa3280efda387cf32038	cltchitrjd.7z <Clutch Hitter (set 1, Japan, FD1094 317-0175 decrypted) [Bootleg]>
 544880ddd690bb4a8bab5c4e1aadbace	clubpacm.7z <Pacman Club / Club Lambada (Argentina)>
+16732483c8b8c58caca5ded72ec2f388	cluckypo.7z <Lucky Poker (DECO Cassette) (US)>
+cbd2e5fb05a4986ae841ea24c38b6210	cmanhat.7z <Manhattan (DECO Cassette) (Japan)>
+a3e757d2553b688201bc7b2a977e4551	cmissnx.7z <Mission-X (DECO Cassette) (US)>
+a43ab4fae704495db0a4d2044678c934	cnightst2.7z <Night Star (DECO Cassette) (US) (set 2)>
+cce9d309c0f8ea723937bf2385adb665	cnightst.7z <Night Star (DECO Cassette) (US) (set 1)>
 cfe2010a28d2253f4599b89d19ee61b3	cninja1.7z <Caveman Ninja (World ver 1)>
 30e74ce9ab4f90150919617c227c779b	cninja.7z <Caveman Ninja (World ver 4)>
 5e2d1b57d7864b2fdaadb69235650f7e	cninjabl.7z <Caveman Ninja (bootleg) [Bootleg]>
@@ -895,6 +948,8 @@ a88cf45c06565dbe3295722edf9e8e1d	cobracomib.7z <Cobra-Command (Italian bootleg)>
 08a36f77f6bedc546fcf5fcd80591d46	cobracomj.7z <Cobra-Command (Japan)>
 77cc69e5701c6f54a968f4b7af0e6597	cobracomja.7z <Cobra-Command (Japan?, set 2)>
 2d1d85801044c6dad51201d6a80465f9	cobracomjb.7z <Cobra-Command (Japan, bootleg)>
+65baefedd5c04cc967ca076af44226e7	cocean1a.7z <Ocean to Ocean (Medal) (DECO Cassette MD) (No.10/Ver.1,Japan)>
+04a869b4a1d01f90492b431bee025a08	cocean6b.7z <Ocean to Ocean (Medal) (DECO Cassette MD) (No.10/Ver.6,US)>
 26d787b13de07e4a1ec9b86c6c7d2458	colony7.7z <Colony 7 (set 1)>
 a28e50ace9a49b0ddcd179923cebae60	colony7a.7z <Colony 7 (set 2)>
 77b1fa0f2a52979a54c7dc0c022e40b2	combatsc.7z <Combat School (joystick)>
@@ -929,11 +984,13 @@ c38c9cf55178fe393701de82c7367bda	contrabj1.7z <Contra (Japan bootleg, set 2) [Bo
 05438d0b0fcf44af72549afc19ae7bc4	contraj.7z <Contra (Japan, set 1)>
 e12b4650f253e8684009114cee8102d1	cookbib2.7z <Cookie &amp; Bibi 2 (set 1)>
 0dc7523d06d7b3d85a6093b2f0e40559	cookbib2a.7z <Cookie &amp; Bibi 2 (set 2)>
+4e84014f46cdb20b0b20f26f452047ed	cookbib2b.7z <Cookie &amp; Bibi 2 (set 3)>
 7208fdbb3a83835ab7a8b5e066591941	cookbib3.7z <Cookie &amp; Bibi 3>
 1a68eeede4748e5f00f26e2955b174b7	cookbib.7z <Cookie &amp; Bibi (set 1)>
 f5e6c6f20f43dccba7bb01f4f14e49e7	cookbiba.7z <Cookie &amp; Bibi (set 2)>
 0bb978b4e7d793a2b56f55a8be473a0b	coolmini.7z <Cool Minigame Collection>
 ca5aca1aca7018f7e95e21e884c9bf49	coolminii.7z <Cool Minigame Collection (Italy)>
+5613466b4f295431685a67d7fc873cf5	coozumou.7z <Oozumou - The Grand Sumo (DECO Cassette) (Japan)>
 2ae419cb822126d614b5eeee8f885d1f	cop01.7z <Cop 01 (set 1)>
 5439d71545fce193c1f3ed7affbdfe1d	cop01a.7z <Cop 01 (set 2)>
 39de9b6dfc95336b388551defb1bfe28	copsnrob.7z <Cops'n Robbers [No sound]>
@@ -951,8 +1008,19 @@ db21ab9c52d6acb8b683da00c1b890cf	cottonud.7z <Cotton (set 2, US, FD1094 317-0180
 fd9bc8ae5451615be064486628b51735	countrun.7z <Counter Run (NS6201-A 1988.3) [Please use countrunb instead!]>
 5eb7de8f8cd8c49dad31e83ad6c535df	countrunb.7z <Counter Run (bootleg set 1)>
 dad49eaa5f9fb5a37bbb9a6dd260acb2	countryc.7z <Country Club [bad inputs, use fitegolf instead!]>
+e3e7556cf48b772c7befcb781a89ff85	cppicf2.7z <Peter Pepper's Ice Cream Factory (DECO Cassette) (US) (set 2)>
+e5729a9c991ee7f3df6bccedf99a18c2	cppicf.7z <Peter Pepper's Ice Cream Factory (DECO Cassette) (US) (set 1)>
+b817087d6444054a99704288351e851f	cprobowl.7z <Pro Bowling (DECO Cassette) (US)>
+6f661c92e3719af6f27fbc330c75e56e	cprogolf18.7z <18 Challenge Pro Golf (DECO Cassette) (Japan)>
+a0cb9ce164e621ed3b5064ef0f80e20f	cprogolf.7z <Tournament Pro Golf (DECO Cassette) (US)>
+4415b757e51e25d1feed5ea27bb45eed	cprogolfj.7z <Tournament Pro Golf (DECO Cassette) (Japan)>
 0651f530c8cb47e9dc0650be6cb8c169	cps1demo.7z <Chaos Demo (CPS-1) [Demo]>
 a6e0d7062487712b622fdae655f3d406	cps1frog.7z <Frog Feast (CPS-1) [Homebrew]>
+bd5c3bc942cb0133297507b5ff7925cb	cpsoccer.7z <Pro Soccer (DECO Cassette) (US)>
+fc42404f20a076fd7b84c77bb110695c	cpsoccerj.7z <Pro Soccer (DECO Cassette) (Japan)>
+c43ccdad956ef50ab73b2fcc2bf3892e	cptennis.7z <Pro Tennis (DECO Cassette) (US)>
+314ffd68fad26fea96bbdcede4bdb6b2	cptennisj.7z <Pro Tennis (DECO Cassette) (Japan)>
+ca4aec92f8accebeb6f9f9e1f3ea7e0d	crater.7z <Crater Raider [Graphics Issues]>
 fd7b98802e9d76066f9e0bb1aa8fc61e	crazyblk.7z <Crazy Blocks>
 b47af24da2a7f35b42d0f786520eec2f	crazycop.7z <Crazy Cop (Japan)>
 10bc56fe085c3959fabdd35866fbbcf6	crazyfgt.7z <Crazy Fight>
@@ -970,7 +1038,8 @@ d9f61b96a7f65ae92012371069e14844	crkdown.7z <Crack Down (World, Floppy Based, FD
 4620a1645837c5524d70c926353baab3	crkdownu.7z <Crack Down (US, Floppy Based, FD1094 317-0058-04d)>
 b5ab3b71caacfa3751274735318ef445	crockman.7z <Crock-Man (bootleg, Rene-Pierre) [Bootleg]>
 6f34bebe42bf04d97d97c16bf94c3f58	crockmnf.7z <Crock-Man (Marti Colls bootleg of Rene Pierre Crock-Man) [Bootleg]>
-ba2f5fa5d59865549abbc0b4b0f3dd31	croquis.7z <Croquis (Germany)>
+ba2f5fa5d59865549abbc0b4b0f3dd31	croquis.7z <Croquis (Korea)>
+9a149b6c68a99b7e59ed8b01b0bb3781	croquisg.7z <Croquis (Germany)>
 265345bc94de7fc865e2f84f3e5a70b7	crospang.7z <Cross Pang>
 d7d1b007629a371d956f49347a60df2e	crossbld.7z <Cross Blades! (Japan)>
 79129aa70e6637d2d7b0c47c82802c00	crshrace2.7z <Lethal Crash Race (set 2)>
@@ -995,9 +1064,20 @@ f708f14b00760543fdc17537849a6e0b	csclub1d.7z <Capcom Sports Club (970722 Euro Ph
 a3fbbfd2457868fa0b4ad275da4e4e52	csclubh.7z <Capcom Sports Club (970722 Hispanic)>
 b5c22e2615157daf746f3085f4ed7088	csclubj.7z <Capcom Sports Club (970722 Japan)>
 b2def40fc86993c97839e189989d4f70	csclubjy.7z <Capcom Sports Club (970722 Japan, yellow case)>
+5f3db3f6e227d178e7250fbacd0e5545	cscrtry2.7z <Scrum Try (DECO Cassette) (US) (set 2)>
+8eb15fd83570c70f69ac1d37cac7347e	cscrtry.7z <Scrum Try (DECO Cassette) (US) (set 1)>
+36efdaa5060d2b7b5061b5d147e1abaf	csdtenis.7z <Super Doubles Tennis (DECO Cassette) (Japan)>
 2ce5cc9dfe1c7fa8fd0645ca4db384b1	csilver.7z <Captain Silver (World)>
 0279b767f4cc9851c4015d9fe8d12cf0	csilverj.7z <Captain Silver (Japan revision 3)>
 3ab1192ec3cbfa71ab6e93cb7ae94531	csilverja.7z <Captain Silver (Japan revision 1)>
+748d92e29be8b43ab0fa0cf701c84210	cskater.7z <Skater (DECO Cassette) (Japan)>
+83be46fb99d10ca3e0e8af4d0783caf0	csuperas.7z <Super Astro Fighter (DECO Cassette) (US)>
+feb8b03d0b27994aa54533c5b3b87ba9	csweetht.7z <Sweet Heart (DECO Cassette) (US)>
+02ea79d9c65db65dd432658b2790f828	cterrani.7z <Terranean (DECO Cassette) (US)>
+2ccd3ec08882bc60d720760000a9d0d1	ctisland2.7z <Treasure Island (DECO Cassette) (US) (set 2)>
+053e1cce473fd9407ec88cc6fab4868a	ctisland3.7z <Treasure Island (DECO Cassette) (unk)>
+5593fe712f2ad26d91f5f04f6a21b07d	ctisland.7z <Treasure Island (DECO Cassette) (US) (set 1)>
+4065865e1f4d5d83d0ba5635bee8f8bf	ctornado.7z <Tornado (DECO Cassette) (US)>
 d1489c3dc1891d6232aa48a262be2311	ctribe.7z <The Combatribes (US, rev 2, set 1)>
 52f85ab959dd3821b5b03f7fa282fe36	ctribeb2.7z <The Combatribes (bootleg set 2) [Bootleg]>
 849d873e90acd6ae46b2b769c3fdd7fd	ctribeb.7z <The Combatribes (bootleg set 1) [Bootleg]>
@@ -1005,6 +1085,7 @@ e7304080a1431f1d6a18c7a7d1e9d778	ctribej.7z <The Combatribes (Japan)>
 e9063a4404155d2851bf9198ed337450	ctribeu1.7z <The Combatribes (US , rev 1)>
 e4b7b18554a3d85d8e9bfdd7343c7041	ctribeua.7z <The Combatribes (US, rev 2, set 2)>
 cbe7e0913a201788bb2d582a05770b36	ctrpllrp.7z <Caterpillar Pacman Hack>
+ca1d54ff9cb3130fcff78b5850b4e445	ctsttape.7z <Test Tape (DECO Cassette) (US)>
 6a45df8b6053d769ff5c8855c7fb1388	cubybop.7z <Cuby Bop (location test)>
 7895643c39e650f9677d906822edc2d4	cuebrick.7z <Cue Brick (World, version D)>
 6c28df3eabaddfe671a8d8c7e35e06d2	cuebrickj.7z <Cue Brick (Japan)>
@@ -1024,8 +1105,12 @@ a177b13f5dde384de2c1454167b6ee47	cworld2jb.7z <Adventure Quiz Capcom World 2 (Ja
 9b39cf9404db5be8751913858a3d5275	cybotsjd.7z <Cyberbots - fullmetal madness (Japan 950424) (decrypted bootleg) [Bootleg]>
 123f97c6f21bdb59d95e191dd241a430	cybotsu.7z <Cyberbots - fullmetal madness (950424 USA)>
 8b719ca25ce13aa9bfa88eeba585053c	cybotsud.7z <Cyberbots - fullmetal madness (950424 USA Phoenix Edition) [Bootleg]>
+393ec5428ca5c9e7a674361d30b58279	cyvern.7z <Cyvern (US)>
+8f851e1c45da7a154e29e5c6a298cb0d	cyvernj.7z <Cyvern (Japan)>
+fe4710d73fad392f8c8f15f926d0e299	czeroize.7z <Zeroize (DECO Cassette) (US)>
 e780d1ebf0b77f691e4cf13e189f0b23	dacholer.7z <Dacholer>
 bc0e84629400c1121ed5567bc95efdc9	dadandrn.7z <Kyukyoku Sentai Dadandarn (ver JAA)>
+47966da59a39711c4eb70920913c48fd	daikaiju.7z <Daikaiju no Gyakushu>
 ec927a0ef7bdbdd9e2bb427d4253e510	daimakai.7z <Dai Makai-Mura (Japan)>
 821c00ce7da86aba427c3db99480582e	daimakaib.7z <Dai Makai-Mura (bootleg, Japan) [Bootleg]>
 52eff1505d8ae23e8b1bb06d5a2a3ac2	daimakair.7z <Dai Makai-Mura (Japan Resale Ver.)>
@@ -1061,8 +1146,10 @@ c47a46f23d69b41f54dff2f67aaa5481	dariusj.7z <Darius (Japan)>
 15d8396dceb0b4a5937e71aa74a3d705	dariuso.7z <Darius (Japan old version)>
 7bf1f67406043b276d8ec85984f3c287	dariusu.7z <Darius (US)>
 ca01cb8c430c4ad7cb18d812905a1e15	darkadv.7z <Dark Adventure>
+1ee54f8d1a78584724f5889b7a906920	darkedge.7z <Dark Edge (World) [Background GFX Issues]>
+8a37191eec2f0b69bee303822bc0879a	darkedgej.7z <Dark Edge (Japan)>
 fc5f13b52d3365128437975064715808	darkmist.7z <The Lost Castle In Darkmist>
-d8a3ec41ba8bcae88b161b0f94ac0ae8	darkplnt.7z <Dark Planet [Dial doesn't work very well]>
+d8a3ec41ba8bcae88b161b0f94ac0ae8	darkplnt.7z <Dark Planet>
 f606157bf5f58b8ea810abae0f07c919	darkseal1.7z <Dark Seal (World revision 1)>
 319f91f843f5c7d7485a649e370e72c4	darkseal2.7z <Dark Seal 2 (Japan v2.1)>
 6863bf5dcdf0b87432aa49da67551917	darkseal.7z <Dark Seal (World revision 3)>
@@ -1076,16 +1163,18 @@ e105345a86ff7e3caac9890f3c5355c7	dblaxleu.7z <Double Axle (US)>
 4e23b9bdc70267a8bf4000b9942faec8	dblaxleul.7z <Double Axle (US, Rev 1, Linkable)>
 2925ba3ee486148efa988ca5a5bcf858	dbldynj.7z <The Double Dynamites (Japan, 13NOV89)>
 51f0105c2b6f4b2d6ee0717453b19035	dbldynu.7z <The Double Dynamites (US, 13NOV89)>
-57b915c578dd3ebc03072474d4a2f168	dblewing.7z <Double Wings>
-473bbcf1a4ab8a7d211f01684d681cde	dblewinga.7z <Double Wings (Asia)>
+57b915c578dd3ebc03072474d4a2f168	dblewing.7z <Double Wings (set 1)>
+473bbcf1a4ab8a7d211f01684d681cde	dblewinga.7z <Double Wings (set 2)>
+d794fff859c3590078dd45a12a4ef8f4	dblewingb.7z <Double Wings (Asia)>
 9373838e0b7b2e74a1d086250b85b94f	dblpoint.7z <Double Point>
 721977acc32a8207e961cd06596d3b76	dblpointd.7z <Double Point (Dong Bang Electron, bootleg?)>
 91b40d74dec93ec667b390f7cf2fc7c9	dbreed.7z <Dragon Breed (World, M81 hardware)>
+353559a6a0d2af3bf72ac7171dc21103	dbreedjm72.7z <Dragon Breed (Japan, M72 hardware)>
 6e51e57f7421f203c6228caac2fea359	dbreedm72.7z <Dragon Breed (World, M72 hardware)>
-1b6f696338ad73899a25cd66b3afae87	dbreedm72j.7z <Dragon Breed (Japan, M72 hardwaref)>
 e8d35aa4568a00a9f3b8b03984b1ba38	dbz2.7z <Dragonball Z 2 - Super Battle>
 4da47cd8c9da987779c51f2278c93ab1	dbz.7z <Dragonball Z (rev B)>
 20adf2c98e71ac3f03dffb9d01268e6f	dbza.7z <Dragonball Z (rev A)>
+e800d0950d488100e53f02a0c508c555	dbzvrvs.7z <Dragon Ball Z V.R.V.S. (Japan, Rev A)>
 2862e86460c3007f342fbfec4f1cbd89	dcclub.7z <Dynamic Country Club (World, ROM Based)>
 ad74ba4a52bb6942f03f0bdffb0f9ef4	dcclubfd.7z <Dynamic Country Club (US, Floppy Based, FD1094 317-0058-09d)>
 6d2ed11e28365ada632250fb922e87f1	dcclubj.7z <Dynamic Country Club (Japan, ROM Based)>
@@ -1110,12 +1199,30 @@ df5be0090094772856fe43037377db59	ddcrewud.7z <D. D. Crew (set 3, US, 4 Players, 
 ac2714ba69dae29dedd119b1943e628e	ddonpach.7z <DoDonPachi (International, master ver. 97/02/05)>
 b558bfadcdec6d155793b709a9997e4a	ddonpacha.7z <DoDonPachi (Arrange Mode version 1.1, hack by Trap15) [Hack]>
 7b56d37dfddbea8b8b0ee192ed2d97c1	ddonpachj.7z <DoDonPachi (Japan, master ver. 97/02/05)>
+bd67f62d9ad816285d531f92c668b993	ddp2100.7z <Bee Storm - DoDonPachi II (V100, World)>
+db60f13e537995c2947e9d53ce553e83	ddp2100c.7z <Bee Storm - DoDonPachi II (V100, China)>
+4d5e1f4ff51f06f7a35e187a73227171	ddp2100hk.7z <Bee Storm - DoDonPachi II (V100, Hong Kong)>
+a5b38e6366a2131a8a8227f1bb035db3	ddp2100j.7z <Bee Storm - DoDonPachi II (V100, Japan)>
+81041ebf3c8581e8e523c1a11854940e	ddp2100k.7z <Bee Storm - DoDonPachi II (V100, Korea)>
+2d14a01e1fc6597ed7650415143c75f3	ddp2100t.7z <Bee Storm - DoDonPachi II (V100, Taiwan)>
+863d91c983214e85b3ce76f0a3475230	ddp2101.7z <Bee Storm - DoDonPachi II (V101, World)>
+f568d6f7f4f60f404a3497e35162db4a	ddp2101c.7z <Bee Storm - DoDonPachi II (V101, China)>
+d491ccd01ede502fd20471b04431ea19	ddp2101hk.7z <Bee Storm - DoDonPachi II (V101, Hong Kong)>
+4ef22fd2ff3bce5850c043125aa7dfeb	ddp2101j.7z <Bee Storm - DoDonPachi II (V101, Japan)>
+3d94b6e1f9adb870e65580be0ec58901	ddp2101k.7z <Bee Storm - DoDonPachi II (V101, Korea)>
+8e72dbf9f334145920d4e4f37296e0a5	ddp2101t.7z <Bee Storm - DoDonPachi II (V101, Taiwan)>
+fdd0ea199e1bf97e9bb0163903217a17	ddp2.7z <Bee Storm - DoDonPachi II (V102, World)>
+c69a04a3b6663cad202b6349f8b1c1a9	ddp2c.7z <Bee Storm - DoDonPachi II (V102, China)>
+91ef531168a05837babd1ad983dd1940	ddp2hk.7z <Bee Storm - DoDonPachi II (V102, Hong Kong)>
+207e0831e4713559428a121e3b6003d3	ddp2j.7z <Bee Storm - DoDonPachi II (V102, Japan)>
+aa98d65181048565777cbae669b69982	ddp2k.7z <Bee Storm - DoDonPachi II (V102, Korea)>
+b8fdfa9163c285eda781c5b850bfcba8	ddp2t.7z <Bee Storm - DoDonPachi II (V102, Taiwan)>
 ae0a536a338dcf60762bb12fed7a0295	ddp3.7z <DoDonPachi III (World, 2002.05.15 Master Ver)>
-918a3aaa23702377ea5bf50c04a4320c	ddpdoj.7z <DoDonPachi Dai-Ou-Jou (V101, Japan)>
-7027828fe7e21ca4331d8db14a9b89c9	ddpdoja.7z <DoDonPachi Dai-Ou-Jou (V100 (second version), Japan)>
-f8c595c16774fe2a00bfc64a43280843	ddpdojb.7z <DoDonPachi Dai-Ou-Jou (V100 (first version), Japan)>
-cb51e43b1419c34134892a788dca7e72	ddpdojblk.7z <DoDonPachi Dai-Ou-Jou Black Label (V100, (2002.10.07.Black Ver), Japan)>
-cb6c03adf5a7f58b7821894293596095	ddpdojblka.7z <DoDonPachi Dai-Ou-Jou Black Label (V100 (2002.10.07 Black Ver), Japan)>
+918a3aaa23702377ea5bf50c04a4320c	ddpdoj.7z <DoDonPachi Dai-Ou-Jou (V101, Japan, 2002.04.05.Master Ver)>
+7027828fe7e21ca4331d8db14a9b89c9	ddpdoja.7z <DoDonPachi Dai-Ou-Jou (V100, Japan, 2002.04.05.Master Ver)>
+f8c595c16774fe2a00bfc64a43280843	ddpdojb.7z <DoDonPachi Dai-Ou-Jou (Japan, 2002.04.05 Master Ver)>
+cb51e43b1419c34134892a788dca7e72	ddpdojblk.7z <DoDonPachi Dai-Ou-Jou Black Label (Japan, 2002.10.07.Black Ver)>
+cb6c03adf5a7f58b7821894293596095	ddpdojblka.7z <DoDonPachi Dai-Ou-Jou Black Label (Japan, 2002.10.07 Black Ver)>
 91325d85d01ed1c69ab74cd9f168b5dc	ddpdojblkbl.7z <DoDonPachi Dai-Ou-Jou Black Label (2002.10.07 Black Ver., bootleg Knights of Valour Super Heroes conversion) [Bootleg]>
 835e81beb5723ece8a25a1d6da800618	ddpdojp.7z <DoDonPachi Dai-Ou-Jou (Japan, 2002.04.05 Master Ver, location test)>
 f40ff507c93e1f907baf6d9941123f0d	ddragon2.7z <Double Dragon II - The Revenge (World)>
@@ -1178,61 +1285,8 @@ ff8468f9f82ffb0da2c4c78d425a605f	dduxjd.7z <Dynamite Dux (set 2, Japan, FD1094 3
 88f119557516b82e26d94e29c0ba7933	deadconxj.7z <Dead Connection (Japan)>
 040ec1ee950ffc53291f6df0ffc30325	dealer.7z <The Dealer [Incorrect Colors]>
 dfe22aca252d71dc0a8a9bd4cc3e3549	deathbrd.7z <Death Brade (Japan ver JM-3)>
-02ea79d9c65db65dd432658b2790f828	DECO.7z <>
-04a869b4a1d01f90492b431bee025a08	DECO.7z <>
-053e1cce473fd9407ec88cc6fab4868a	DECO.7z <>
-071c1558e8f4f24daef4ba43f7338cc2	DECO.7z <>
-0a90cef7a49007325848b65c920dcd12	DECO.7z <>
-16732483c8b8c58caca5ded72ec2f388	DECO.7z <>
-1a5221e2a5cde06efacf61d76944fed1	DECO.7z <>
-23fba1fc14bc6111523e84668471c79b	DECO.7z <>
-2ccd3ec08882bc60d720760000a9d0d1	DECO.7z <>
-314ffd68fad26fea96bbdcede4bdb6b2	DECO.7z <>
-3655032858a00db757c8c644a3ba521e	DECO.7z <>
-36efdaa5060d2b7b5061b5d147e1abaf	DECO.7z <>
-376826719a92bb817df731f7b9de509e	DECO.7z <>
-4065865e1f4d5d83d0ba5635bee8f8bf	DECO.7z <>
-4415b757e51e25d1feed5ea27bb45eed	DECO.7z <>
-5413ffbefeed8358322f91c9917acf61	DECO.7z <>
-5593fe712f2ad26d91f5f04f6a21b07d	DECO.7z <>
-5613466b4f295431685a67d7fc873cf5	DECO.7z <>
-5f3db3f6e227d178e7250fbacd0e5545	DECO.7z <>
-610678042c8ffad1d81bc9a5bc1d8211	DECO.7z <>
-65baefedd5c04cc967ca076af44226e7	DECO.7z <>
-678215717d5a6cfb3aa7ecacaef87946	DECO.7z <>
-6e3b114f65404f6357662b69934ce1c6	DECO.7z <>
-6f661c92e3719af6f27fbc330c75e56e	DECO.7z <>
-748d92e29be8b43ab0fa0cf701c84210	DECO.7z <>
-83be46fb99d10ca3e0e8af4d0783caf0	DECO.7z <>
-894f266b6ac779e510a933a20b789f44	DECO.7z <>
-8eb15fd83570c70f69ac1d37cac7347e	DECO.7z <>
-91a4a7ca305292f8263151daab6510cf	DECO.7z <>
-91da136a1bf3cb84def63ff940626bd7	DECO.7z <>
-9e5a821d8a40e4889cbc18166a7d882c	DECO.7z <>
-a0cb9ce164e621ed3b5064ef0f80e20f	DECO.7z <>
-a3e757d2553b688201bc7b2a977e4551	DECO.7z <>
-a43ab4fae704495db0a4d2044678c934	DECO.7z <>
-a8f2cc423e5741074fe0e65bcae99070	DECO.7z <>
-b0d9e1b26fc5c2c413256e320ed0d836	DECO.7z <>
-b7f249d3e1cf827b1530393dc0e942a7	DECO.7z <>
-b817087d6444054a99704288351e851f	DECO.7z <>
-bd02082ecefd12a2152fae24af42d421	DECO.7z <>
-bd5c3bc942cb0133297507b5ff7925cb	DECO.7z <>
-c43ccdad956ef50ab73b2fcc2bf3892e	DECO.7z <>
-ca1d54ff9cb3130fcff78b5850b4e445	DECO.7z <>
-ca2befc68c99ab20285247e344e799e2	DECO.7z <>
-cbd2e5fb05a4986ae841ea24c38b6210	DECO.7z <>
-cce9d309c0f8ea723937bf2385adb665	DECO.7z <>
-d62535bfd7dfcfcbf3c7fcfaa7a4e1a0	DECO.7z <>
-e3e7556cf48b772c7befcb781a89ff85	DECO.7z <>
-e5729a9c991ee7f3df6bccedf99a18c2	DECO.7z <>
-e85f15b5880c281ae9f2df4d31d49fae	DECO.7z <>
-f8f77156128c0a10148a5d0aa29b1532	DECO.7z <>
-fc42404f20a076fd7b84c77bb110695c	DECO.7z <>
-fe4710d73fad392f8c8f15f926d0e299	DECO.7z <>
-feb8b03d0b27994aa54533c5b3b87ba9	DECO.7z <>
-ff3337de921d5c07b9edf92a6525aa41	DECO.7z <>
-ff6dcdc925f2170fee1b2826a3e33cff	DECO.7z <>
+678215717d5a6cfb3aa7ecacaef87946	decocass.7z <DECO Cassette System Bios [BIOS only]>
+91a4a7ca305292f8263151daab6510cf	decomult.7z <Deco Cassette System Multigame (ROM based) [Bootleg]>
 ece1d0cb742ecfc1ca070053f20b7352	deerhunt.7z <Deer Hunting USA V4.3>
 f1f93b44102523cc1d21d255a3a0a61c	deerhunta.7z <Deer Hunting USA V4.2>
 7f528945bb8d036614af1f338a00e79c	deerhuntb.7z <Deer Hunting USA V4.0>
@@ -1274,6 +1328,7 @@ ce7bd8d545b07f638373f6b4a9a1f2c1	deroon2.7z <Deroon DeroDero (newer)>
 da67939fb133e345e47dee14d97e961b	desertbrj.7z <Desert Breaker (Japan, FD1094 317-0194)>
 52e23571c7d050096ffa2fb822716b31	desertbrjd.7z <Desert Breaker (Japan, FD1094 317-0194 decrypted) [Bootleg]>
 8fdb32076bfb68deee756d7a0fcfa836	desertdn.7z <Desert Dan>
+5e7a7e228758903a0444b07837cd22e5	desertwr.7z <Desert War / Wangan Sensou (ver 1.0)>
 771881b7378f715d99979c5757f6e234	detatwin.7z <Detana!! Twin Bee (Japan ver. J)>
 6fead4db48a491b53e285eeb20c9d88c	devilfsg.7z <Devil Fish (Galaxian hardware, bootleg?) [Bootleg]>
 0bc8f6b56c4d64a38289fde2cb947f38	devilfsh.7z <Devil Fish>
@@ -1318,6 +1373,7 @@ b657a1c5e101ae3ea0dfee8db0bc2d91	dinopic.7z <Cadillacs and Dinosaurs (bootleg se
 bf7555b61d58292192521925b202e9fd	dinorex.7z <Dino Rex (World)>
 8204f939782d0bb65fafce754c0047c7	dinorexj.7z <Dino Rex (Japan)>
 221d62981d6f222e70feb76f0dd7f19a	dinorexu.7z <Dino Rex (US)>
+7c27ae92fa0c04af98af7930aa80b332	dinosyn.7z <Cadillacs and Dinosaurs (28th-Anniversary, Hack) [Hack]>
 1cf0437da7e6ff2b79f9ed14ecb6cad9	dinot.7z <Cadillacs and Dinosaurs Turbo (bootleg set 1, 930223 Asia TW) [Bootleg]>
 d431b4dc1648fec468868da3fd92a19a	dinotpic.7z <Cadillacs and Dinosaurs Turbo (bootleg set 2 (with PIC16c57), 930201 etc) [Bootleg, No sound]>
 8aa9939caf3c29679ab31c9f5bcb84ee	dinou.7z <Cadillacs &amp; Dinosaurs (930201 USA)>
@@ -1331,16 +1387,16 @@ efd571c6b367a222296ae606d1a164d3	djboy.7z <DJ Boy (World)>
 b0f0ca838b9e32cd88b2a36f6a8573c4	djboyja.7z <DJ Boy (Japan, set 2)>
 73823e7a071623692299d6abed6977ed	djboyu.7z <DJ Boy (US, set 1)>
 2bace4043c36361bc4ac6b4da256e9c3	djboyua.7z <DJ Boy (US, set 2)>
-d5ae754d29d1f7a5947d75dda5bd1715	dkcbarrel.7z <Donkey Kong Crazy Barrels Edition>
-9ff137b6c9672882ee95a66476b9020c	dkchrmx.7z <Donkey Kong Christmas Remix (Hack)>
+d5ae754d29d1f7a5947d75dda5bd1715	dkcbarrel.7z <Donkey Kong Crazy Barrels Edition [Hack]>
+9ff137b6c9672882ee95a66476b9020c	dkchrmx.7z <Donkey Kong Christmas Remix (Hack) [Hack]>
 aa220ce627983e3e87974b5886a5f09b	dkgensan.7z <Daiku no Gensan (Japan, M84 hardware)>
 6cd5aa604a417a2892a0dd80cc622658	dkgensanm72.7z <Daiku no Gensan (Japan, M72 hardware)>
-4b882c9101cf87c1540730e9a0cc6c06	dkingjr.7z <Donkey King Jr. (bootleg of Donkey Kong Jr.)>
+4b882c9101cf87c1540730e9a0cc6c06	dkingjr.7z <Donkey King Jr. (bootleg of Donkey Kong Jr.) [Bootleg]>
 0011e5155daaed1ab4bc73e24bd5ab8c	dkong3.7z <Donkey Kong 3 (US)>
 2e5a335c7a469fc7eb148fde48bc72c9	dkong3b.7z <Donkey Kong 3 (bootleg on Donkey Kong Jr. hardware) [Bootleg]>
 97865a64ae1d53ad6a903a97d9297640	dkong3j.7z <Donkey Kong 3 (Japan)>
 02bbe063efc4b8883206c66e6cb775c9	dkong.7z <Donkey Kong (US set 1)>
-e9c4fe91fff3e06bfc86e99fb35c9d91	dkongf.7z <Donkey Kong Foundry (hack)>
+e9c4fe91fff3e06bfc86e99fb35c9d91	dkongf.7z <Donkey Kong Foundry (hack) [Hack]>
 ece355b1e475c360c4b3084d27cb4c10	dkonghrd.7z <Donkey Kong (US set 1) with Hard kit>
 4d9333049a95327984ddcbe83c045f15	dkongj.7z <Donkey Kong (Japan set 1)>
 c3723f10f29edee6aeb560acdafdb41f	dkongjnrj.7z <Donkey Kong Junior (Japan?)>
@@ -1348,26 +1404,33 @@ b530f1fbd20661a8573a050421e6dc38	dkongjo1.7z <Donkey Kong (Japan set 3)>
 c4ef97b445673def76ccdfc51b830bc8	dkongjo.7z <Donkey Kong (Japan set 2)>
 449318c916090e7d042c07607e1012b6	dkongjr2.7z <Donkey Kong Junior (US, bootleg?)>
 a6a463493afd575aaed06d73d3f3c390	dkongjr.7z <Donkey Kong Junior (US set F-2)>
-fd6cb845e129ef8d68ca9aa599b3d127	dkongjrb.7z <Donkey Kong Jr. (bootleg)>
+fd6cb845e129ef8d68ca9aa599b3d127	dkongjrb.7z <Donkey Kong Jr. (bootleg) [Bootleg]>
 dd1091849e4633366d9e3d930ada465b	dkongjre.7z <Donkey Kong Junior (E Kit)>
 689d2d7636ae5c546ceddab933d15051	dkongjrj.7z <Donkey Kong Jr. (Japan)>
 9d910b998f58278b1e6878768e61fdc5	dkongjrm.7z <Donkey Kong Jr. (Moon Cresta hardware) [Bootleg, Bad Colours]>
-68a9f218eca56335448cbd041e6f8e5d	dkongjrpb.7z <Donkey Kong Junior (P kit, bootleg)>
+68a9f218eca56335448cbd041e6f8e5d	dkongjrpb.7z <Donkey Kong Junior (P kit, bootleg) [Bootleg]>
 33d8780218ec321c54001d3feb0d4a4e	dkongo.7z <Donkey Kong (US set 2)>
-5e0f212a20c09139fe64220becf27466	dkongp.7z <Donkey Kong (Patched)>
-3e89b34ab47a598deb1d38c53801d90a	dkongpac.7z <Donkey Kong (Pacman Graphics)>
-96a3ffafe3423190418fd44c2741ac11	dkongpe.7z <Donkey Kong - Pauline Edition (hack, rev 5)>
-6b2bd32d13f230428f0ffc7a8f269503	dkongrev.7z <Donkey Kong Reverse (Hack)>
-ea54a6815f6d1e626eb9a70eba49ae53	dkongx11.7z <Donkey Kong II - Jumpman Returns (hack, V1.1)>
-787f03a6b785ac734d77a4cd63a3fad9	dkongx.7z <Donkey Kong II - Jumpman Returns (hack, V1.2)>
-4fae5381d3f7b7d7e46a8872dfcce552	dkpace.7z <Donkey Kong Pace>
-d31f42d55df9ec51130bcd56d824edff	dkrainbow.7z <Donkey Kong - Arcade Rainbow (hack)>
-3ea0c785053f37dc41f86e37cb249e9e	dkrdemo.7z <Donkey Kong Remix (Demo)>
-7a3c991b1f590d407bd353d44fdc423f	dkspkyrmx.7z <Donkey Kong Spooky Remix (Hack)>
-8aaa31590883a52405255720374232cf	dktrainer.7z <Donkey Kong Trainer 1.01>
+e8530680c64381da4cd94b8f7fcaa29c	dkongotr.7z <Donkey Kong On the Run v1.02 [Hack]>
+5e0f212a20c09139fe64220becf27466	dkongp.7z <Donkey Kong (Patched) [Hack]>
+3e89b34ab47a598deb1d38c53801d90a	dkongpac.7z <Donkey Kong (Pacman Graphics) [Hack]>
+96a3ffafe3423190418fd44c2741ac11	dkongpe.7z <Donkey Kong - Pauline Edition (hack, rev 5) [Hack]>
+25bc8e188ef4005f5af797c241dfef6c	dkongran1.7z <Donkey Kong Randomized Edition v1.01 [Hack]>
+6b2bd32d13f230428f0ffc7a8f269503	dkongrev.7z <Donkey Kong Reverse (Hack) [Hack]>
+ea54a6815f6d1e626eb9a70eba49ae53	dkongx11.7z <Donkey Kong II - Jumpman Returns (hack, V1.1) [Hack]>
+787f03a6b785ac734d77a4cd63a3fad9	dkongx.7z <Donkey Kong II - Jumpman Returns (hack, V1.2) [Hack]>
+4fae5381d3f7b7d7e46a8872dfcce552	dkpace.7z <Donkey Kong Pace [Hack]>
+d31f42d55df9ec51130bcd56d824edff	dkrainbow.7z <Donkey Kong - Arcade Rainbow (hack) [Hack]>
+3ea0c785053f37dc41f86e37cb249e9e	dkrdemo.7z <Donkey Kong Remix (Demo) [Hack]>
+7a3c991b1f590d407bd353d44fdc423f	dkspkyrmx.7z <Donkey Kong Spooky Remix (Hack) [Hack]>
+8aaa31590883a52405255720374232cf	dktrainer.7z <Donkey Kong Trainer 1.01 [Hack]>
 eff766016e782592e9ac75e6f4f38c32	dland.7z <Dream Land / Super Dream Land (bootleg of Bubble Bobble) [Bootleg]>
 4dba435b1cca9b4fe4c975177a2b7087	dleague.7z <Dynamite League (US)>
 25d8a4272d16a8cf0785067ae57b3f4e	dleaguej.7z <Dynamite League (Japan)>
+b6b5ca4a35f58d3c8f0ed16b960402db	dmnfrnt102.7z <Demon Front (VM102XX, S101XX)>
+f91900268bf8cdd47cfbbe65e7d75e57	dmnfrnt103.7z <Demon Front (VM103XX, S103XX)>
+5caaadf5adfae76fa3e965ecb4fb4196	dmnfrnt.7z <Demon Front (VM105XX, S105XX)>
+2e788898e36bd7ee72e02c4d21713946	dmnfrntpcb.7z <Demon Front (VM107KR, S106KR, S101KR, Korea, Single PCB Version)>
+bd4d50a066750b7ec13751374a28fbed	dmnfrntpcba.7z <Demon Front (VM105XX, S105XX, China, Single PCB Version)>
 0a361956f4a1a15e54af54af76d9d46a	dngrtrck.7z <Danger Track (Rally X bootleg)>
 4937334230c9928783dda56ca4f5c00e	docastle.7z <Mr. Do's Castle (set 1)>
 929e4da5eda83a9ec5a4369897cf6b60	dockman.7z <Dock Man>
@@ -1383,6 +1446,7 @@ e99253d29ec841aa69bec1d1c7c9c2b9	dogyuuna.7z <Dogyuun (Licensed to Unite Trading
 2cb4305a13d3899f4cd56e8bd1fcad52	dogyuunt.7z <Dogyuun (test location version)>
 93e4101691ba06ba486dc0b411ecf4a3	dokaben.7z <Dokaben (Japan)>
 7486368e129decf1c2fb77f234e50c4c	dolmen.7z <Dolmen>
+60a8d9553442e861617b0e581768f651	domino.7z <Domino Man>
 1be6a77a8be54d35c6e8cd15f551a2bd	dommy.7z <Dommy>
 df9595204531eb872e219570555f2c02	dondokod.7z <Don Doko Don (World)>
 ef6d3cf7caca2fa3857105372c03a3f0	dondokodj.7z <Don Doko Don (Japan)>
@@ -1400,11 +1464,15 @@ bd05dc6c3f85d6dd526c918e4e64f06f	dorunrun.7z <Do! Run Run (set 1)>
 ca6ba42f25ad05e04db2ecb3a5e69836	dotrikun2.7z <Dottori Kun (old version)>
 d41901276b65244e6c49a413f7cbb0dc	dotrikun.7z <Dottori Kun (new version)>
 3b76d0933631e7a83c2bde5fb331d59f	dotriman.7z <Dottori-Man Jr.>
+e1180a8da92b07ed9481ed69f3a499cf	dotron.7z <Discs of Tron (Upright)>
+13da824ebb9e453ee2d88dddfc2a849e	dotrona.7z <Discs of Tron (Upright alternate)>
+c642c8878844cb79894b2babf45d8242	dotrone.7z <Discs of Tron (Environmental)>
 27652cbeb676a54ecc78d26c13e01d9f	dowild.7z <Mr. Do's Wild Ride>
 91e49c26195f8414b9713b80ebf9a1d6	downtown2.7z <DownTown / Mokugeki (Set 2)>
 5f6fd50275370ccd082b6113549f2c0c	downtown.7z <DownTown / Mokugeki (Set 1)>
 425b64d39df970100abb119222adbc02	downtownj.7z <DownTown / Mokugeki (Joystick Hack)>
 611a382242a5c1cda73a168cc8e14b5e	downtownp.7z <DownTown / Mokugeki (prototype)>
+f7a486109b7e377d77167ce73a06ca17	dpoker.7z <Draw Poker (Bally, 03-20)>
 160d30464429b758c89e62fd53fb4d1b	dquizgo2.7z <Date Quiz Go Go Episode 2>
 58ad8b2db995e0de39af68daeb8dd0a8	dquizgo.7z <Date Quiz Go Go (Korea)>
 bb12d3d5d28e54c09625c17ce20fd614	dragnblz.7z <Dragon Blaze>
@@ -1423,6 +1491,17 @@ bd27686ebe8f333a9c4da5e85fe8edbf	drgninja.7z <Dragonninja (Japan)>
 ecad0f0749cf3381cc0dc2f44d1c1e54	drgnmst2.7z <Dragon Master (set 2)>
 d39e4c50f3f97331eb8d3aa77e1fcba5	drgnmst.7z <Dragon Master (set 1)>
 0578c0fc4ec45ebf2511f39bdb3a50a6	drgnunit.7z <Dragon Unit / Castle of Dragon>
+3883541410fdd3581e666668a93123da	drgw2100c.7z <Zhong Guo Long II (V100, China)>
+d0b5c02729b5fb2fe4b24bd75172ad16	drgw2100hk.7z <Dragon World II (V100, Hong Kong)>
+5a13c686c9ae5322e9ada599d0947be5	drgw2100j.7z <Chuugokuryuu II (V100, Japan)>
+4511bb1fc8e64ed61ef9ba18cfd3bec7	drgw2100x.7z <Dragon World II (V100X, World)>
+32a72faa4feb838d9bc5870684e7176f	drgw2101c.7z <Zhong Guo Long II (V101, China)>
+0d7f07b5f7238ad4f7e086132e92a217	drgw2101j.7z <Chuugokuryuu II (V101, Japan)>
+3c8c222cea543e1c023118cf9eafaad7	drgw2.7z <Dragon World II (V110X, World)>
+a2ba3310f64036f843e2c3504db34d63	drgw3100.7z <Chuugokuryuu 3 Special (ver. 100, Japan)>
+607a43d887d218536e132b3dd8621c31	drgw3103.7z <Chuugokuryuu 3 Special (ver. 103, japan)>
+d1b2800fe2c9c4e2548c87c7c704b13f	drgw3105.7z <Dragon World 3 (V105)>
+d2b9f86fd8d6d07c715dc3572f0c1ccc	drgw3.7z <Dragon World 3 (V106, China)>
 a54286f8ca9fa4d9c25dae8411b590db	dribling.7z <Dribbling [No sound]>
 ddee48e1575ed23ff85d98cac8b1a9fb	driblingbr.7z <Dribbling (bootleg, Brazil) [Bootleg, No sound]>
 410045ad99a10f7ddeebc963be110f98	driblingo.7z <Dribbling (Olympia) [No sound]>
@@ -1464,6 +1543,11 @@ d5080fda9ba0f50fda3a960e8c386ba4	dtfamily.7z <Diet Family>
 690b69b93774a9cf54b51a56d5d50ef2	dunkshot.7z <Dunk Shot (Rev C, FD1089 317-0022)>
 a8fd2cdb47646e462e74c331d7e92a9a	dunkshota.7z <Dunk Shot (Rev A, FD1089 317-0022)>
 d90150a966377b8d73f159d85e209dc6	dunkshoto.7z <Dunk Shot (FD1089 317-0022)>
+c630021b2de19aff122b8fe1c39a0632	dw2001.7z <Dragon World 2001 (V100, Japan) [Bad sound?]>
+16be9c6e943404ce6e2d9a9d61b6020c	dwex101cn.7z <Dragon World 3 EX (V101, China)>
+a2c115ff00f5fde0c624db8825926e8c	dwex.7z <Dragon World 3 EX (V100, World)>
+a50f59af1e867371ee0e47c429cfb616	dwpc101.7z <Dragon World Pretty Chance (V101, Japan) [Bad sound?]>
+5d17d1e22e66f28ce788b5b183b3278f	dwpc.7z <Dragon World Pretty Chance (V110, China) [Bad sound?]>
 d6c30be2b5ea4a2e0eee47466e296369	dyger.7z <Dyger (Korea set 1)>
 68d2a8b5b2d274e47f4700eec6b5ce55	dygera.7z <Dyger (Korea set 2)>
 9d75ef778b6e442ee8c660e72459a0be	dynablst.7z <Dynablaster / Bomber Man>
@@ -1539,7 +1623,7 @@ bf8704c1b351f51bde2f7528d2775163	eprom.7z <Escape from the Planet of the Robot M
 efb03b68f7a0c2a331fc61a491c4b2d7	esb.7z <The Empire Strikes Back>
 eeae3fcb2923bbcc6e8cd45b00dccb1f	esckids.7z <Escape Kids (Asia, 4 Players)>
 8666d8882d1cd0abb0d6893149a0cb21	esckidsj.7z <Escape Kids (Japan, 2 Players)>
-d60d1edfdd181b16ce6d2dee4f9e214f	espgal.7z <Espgaluda (V100, Japan)>
+d60d1edfdd181b16ce6d2dee4f9e214f	espgal.7z <Espgaluda (Japan, 2003/10/15 Master Ver)>
 4b1e27d7babb7776272b9104e77ca040	espgalbl.7z <Espgaluda (2003/10/15 Master Ver, bootleg cartridge conversion) [Bootleg]>
 d4b28bd6375c2482b55b3d29b595cb49	espial.7z <Espial (Europe)>
 31dc31a3b111edc3822e02f57ed44699	espialu.7z <Espial (US?)>
@@ -1574,6 +1658,7 @@ f56d5bb3f2ab9560ddc8b1886855cf52	exprraid.7z <Express Raider (World, Rev 4)>
 eb4b0d166d3b47345343d4de1052e2b8	exprraidi.7z <Express Raider (Italy)>
 fba2cebc55e3546d99244c5b96144645	exprraidu.7z <Express Raider (US, rev 5)>
 0ce8c42148a2237d9e06577665a07de8	extdwnhl.7z <Extreme Downhill (v1.5)>
+4982694fc815c403f1aaa46e603fe31d	exterm.7z <Exterminator>
 ec3085fcbb7f116334089c279fd6e8ab	extrmatn.7z <Extermination (World)>
 e5645e443210796f55703887961d1008	extrmatnj.7z <Extermination (Japan)>
 33de733e1faa81545a3623c19adc42cf	extrmatnu.7z <Extermination (US, set 1)>
@@ -1588,13 +1673,20 @@ a3aa6a7a6d89ed5ed2b13c7438878ead	eyeszacb.7z <Eyes (bootleg set 2, decrypted) [B
 98f254219497788ed9ab15be45d7088d	f1dream.7z <F-1 Dream [Game is bugged, use the bootleg instead.]>
 c229a030d078bba2413b833ac48f0c62	f1dreamb.7z <F-1 Dream (bootleg, set 1) [Bootleg]>
 b73437139f8ee0d3fde4a0c23ece8ded	f1dreamba.7z <F-1 Dream (bootleg, set 2) [Bootleg]>
+e7f0e03d23f57af33b99cd20538a985e	f1en.7z <F1 Exhaust Note (World, Rev A)>
+ad145158adf84a12b5cd973038f2f3e6	f1enj.7z <F1 Exhaust Note (Japan, Rev A)>
+c9e86a702acda911df2a7ec57c75d0be	f1enu.7z <F1 Exhaust Note (US, Rev A)>
 00aa39a63907827b73079f02c016c71e	f1gp2.7z <F-1 Grand Prix Part II>
-1ecf4becf11e57cc8d2c101a4ab16b45	f1gp.7z <F-1 Grand Prix>
+1ecf4becf11e57cc8d2c101a4ab16b45	f1gp.7z <F-1 Grand Prix (set 1)>
+9350303ad4200aa81007aa1f3d58164e	f1gpa.7z <F-1 Grand Prix (set 2)>
 8484145fd6ca3536d8e9ed6437f96f9d	f1gpb.7z <F-1 Grand Prix (Playmark bootleg) [Bootleg]>
 89be6194bfe7ce118c7a961375313451	f1gpstar2.7z <Grand Prix Star (ver 2.0)>
 99bdd2e74daad55b5b91b2abafddbe3a	f1gpstar3.7z <Grand Prix Star (ver 3.0)>
 b95dafe8b2703dbcb104c241790f7c01	f1gpstar.7z <Grand Prix Star (ver 4.0)>
 1d01f018199cefe338566e179b2e9f8d	f1gpstr2.7z <F-1 Grand Prix Star II>
+a441888b56514b82da8453907f962280	f1lap.7z <F1 Super Lap (World)>
+5e1dd5d0f34436b9c0c4a6780390057a	f1lapj.7z <F1 Super Lap (Japan)>
+c14d8c7ab394e2c6c34230fc904a37bf	f1lapt.7z <F1 Super Lap (World, Unprotected)>
 343d9857ba5584ef3d8d81153f893dae	faceoff.7z <Face Off (Japan 2 Players)>
 fa0d1a60ef6616bb28038515c8ea4cb2	falcon.7z <Falcon (bootleg of Phoenix) (8085A CPU)>
 29c7005eea499d8dcfee0f8f90f80b56	falconz.7z <Falcon (bootleg of Phoenix) (Z80 CPU)>
@@ -1757,6 +1849,7 @@ cb782f4e436851739df2a6c6e400317f	foodf2.7z <Food Fight (rev 2)>
 6ea9a3daa1e6a159bcb5afd41db1e424	forcebrk.7z <Force Break (bootleg) [Bootleg]>
 96433fb0bb6dbe5f45f1ba6c7cec2ef7	forgottn.7z <Forgotten Worlds (World, newer)>
 7067019e841073c1642563cb94ae9c9a	forgottna.7z <Forgotten Worlds (World)>
+34ce1062997e5a59ecea5157907352c5	forgottnj.7z <Forgotten Worlds (Japan)>
 76a21cfd377409147665704a1446e2da	forgottnu.7z <Forgotten Worlds (US, B-Board 88621B-2, rev C)>
 7ce9892084dbbbe367006684de748b76	forgottnua.7z <Forgotten Worlds (US, B-Board 88618B-2, rev A)>
 a9925c375ac7cd83ae07c0d191bc8a7c	forgottnuaa.7z <Forgotten Worlds (US, B-Board 88618B-2, rev AA)>
@@ -1818,8 +1911,10 @@ d3c8833f59e4cb68dbd57c5d9d0bf1d1	funkyjetj.7z <Funky Jet (Japan, rev 2)>
 98ae2acc7accff338ed5ac6b1b355b5d	funybubl.7z <Funny Bubble>
 95aec55a8b3610650d9c70a6b0257982	funybublc.7z <Funny Bubble (Comad version)>
 d5d4a25a9dc0512366ee298f97bed928	futspy.7z <Future Spy>
-c3f9558d681bac963339b7c69894c4f7	fx.7z <F-X [Bootleg]>
-15df84048b5c2a8f2455472c80026987	fxa.7z <F-X (alternate set) [Bootleg]>
+c3f9558d681bac963339b7c69894c4f7	fx.7z <F-X (bootleg of S.R.D. Mission) [Bootleg]>
+b585f9e89249d3b14113b72c8170602d	ga2.7z <Golden Axe: The Revenge of Death Adder (World, Rev B)>
+a9a4205dd52fa78e2c3dfccd8c238e9f	ga2j.7z <Golden Axe: The Revenge of Death Adder (Japan)>
+9543d4ee190f2eda6b62ba886656e12f	ga2u.7z <Golden Axe: The Revenge of Death Adder (US, Rev A)>
 fa44835d0ed33e8aa3b6b8964ec77bfd	gaia.7z <Gaia Crusaders>
 579d2d313f9e705801d4aab073724eee	gaialast.7z <Gaia - The Last Choice of Earth>
 e00af974afbbc5a75276b2440dafef4e	gaiapols.7z <Gaiapolis (ver EAF)>
@@ -1843,6 +1938,7 @@ e89dad91027ad0071caf8420b39f0b70	galaktron.7z <Galaktron (Petaco S.A.)>
 a77cc470a672df4147abfac23a1fdd4a	galap1.7z <Space Invaders Galactica (galaxiaj hack) [Hack]>
 511e6e2ab0dd7a429434fabc26c19c1e	galap4.7z <Galaxian Part 4 (hack) [Hack]>
 a2c7cf02d184cfc4dc29cae0fe4a6a88	galapx.7z <Galaxian Part X (moonaln hack) [Hack]>
+caf2784c4135518aa5362058d25498f9	galastrm.7z <Galactic Storm (Japan)>
 607830fc04c62b04341e5da201ad1a24	galaxbsf2.7z <Galaxian (bootleg, set 3) [Bootleg]>
 71fe7b008505c36840c45eefa81a44df	galaxbsf.7z <Galaxian (bootleg, set 1) [Bootleg]>
 9186ce4c76b6cf7084bac0cb32124a0d	galaxcirsa.7z <Galaxian (Cirsa Spanish bootleg)>
@@ -1851,6 +1947,7 @@ e88b34d7b5e2d8277f1fa97e9a647fba	galaxian.7z <Galaxian (Namco set 1)>
 a6fdb323afc482cac8539a95316222d5	galaxianbl2.7z <Galaxian (bootleg, set 4) [Bootleg]>
 d743cd1ba24565b0ca88110fc3077742	galaxianbl3.7z <Galaxian (Spanish bootleg) [Bootleg]>
 344b0c7621c9b01db79088ff96f07bfb	galaxianbl.7z <Galaxian (bootleg, set 2) [Bootleg]>
+a84a18a3f551b0b507d563ec9d839dc2	galaxianem.7z <Galaxian (Electromar Spanish bootleg)>
 c86b1a2813bc50ab41c17b87acf9dc22	galaxiani.7z <Galaxian (Irem)>
 16a6f9c73d9df7debbf104027e254c65	galaxianm.7z <Galaxian (Midway set 1)>
 96b0b7dad801992585bec43deac4b132	galaxianmo.7z <Galaxian (Midway set 2)>
@@ -1866,6 +1963,7 @@ c895a9bd55fdb09a4a486ae48f0c9404	galhustl.7z <Gals Hustler>
 406dc6101e234af8f5603f38aa9323d4	galivan2.7z <Cosmo Police Galivan (12/16/1985)>
 c95db9131ba4c6db62acc58c01369e11	galivan3.7z <Cosmo Police Galivan (12/11/1985)>
 8185ee7ebb0914bc1e8dc5a84e9fc046	galivan.7z <Cosmo Police Galivan (12/26/1985)>
+471dcae32230303570d6f6b2073b8bc6	galkamika.7z <Kamikaze (Electrogame, Spanish bootleg of Galaxian)>
 477b96da708bd170f8c2b6245dcd28e4	gallag.7z <Gallag [Bootleg]>
 3cdc1523405dcd51233a2cd565c6e0bf	gallop.7z <Gallop - Armed police Unit (Japan, M72 hardware)>
 068689cd8fddc462f20cbccdd97ef65d	galmedes.7z <Galmedes (Japan)>
@@ -1873,10 +1971,25 @@ c95db9131ba4c6db62acc58c01369e11	galivan3.7z <Cosmo Police Galivan (12/11/1985)>
 18c4777807f8a6187bafd6cce9ea91f1	galpani3hk.7z <Gals Panic 3 (Hong Kong)>
 cee4f4045e96436bf4cfb4e3f21341c1	galpani3j.7z <Gals Panic 3 (Japan)>
 127be61cbf4cdc0d290c25af08e6f6bf	galpani3k.7z <Gals Panic 3 (Korea)>
+f159af18c0f1b0dc605375361552f1d9	galpani4.7z <Gals Panic 4 (Europe) [No sound. Use a clone, instead!]>
+0e0ca4344d04e3342fea22718dd8ab96	galpani4j.7z <Gals Panic 4 (Japan)>
+6f6f7f2ba1bc70e17d318ecf0c2b66cd	galpani4k.7z <Gals Panic 4 (Korea)>
 33fc3ec2f35843324e7e464a979f7c00	galpanic.7z <Gals Panic (Unprotected)>
+8ad5e3a38747fdda23dde5db7915d52e	galpanidx.7z <Gals Panic DX (Asia)>
+9a7aeca79d7e8d99a0bc3a9cffd9f128	galpanis.7z <Gals Panic S - Extra Edition (Europe, set 1)>
+471c9b63c5987e22ceda89264fbc17ac	galpanisa.7z <Gals Panic S - Extra Edition (Asia)>
+f0480ea7d4ddb34499955bf1db313a05	galpanise.7z <Gals Panic S - Extra Edition (Europe, set 2)>
+fbecd929871611a3a88b991e9df5bfc5	galpanisj.7z <Gals Panic S - Extra Edition (Japan)>
+65e79b4b3c95c95d4ee772c65b537107	galpanisk.7z <Gals Panic S - Extra Edition (Korea)>
+f2203ea14da17f7288269cc324162123	galpans2.7z <Gals Panic S2 (Europe)>
+ce7cb63b04dc8acbb45a6e16ef4bf1b1	galpans2a.7z <Gals Panic S2 (Asia)>
+48be916ec976110098b1dcbd9c96b226	galpans2j.7z <Gals Panic S2 (Japan)>
+17ab178d6ae7dce687e8eaaf913fd035	galpans3.7z <Gals Panic S3 (Japan)>
+6da8c1cfc2020aefd6ec3176c86e1494	galpansu.7z <Gals Panic SU (Korea)>
 395bc24e3dfbd7090e2952216c80f89b	galspnbl.7z <Gals Pinball>
 405d398dc8a81fd06f16cb29c1d23ab2	galturbo.7z <Galaxian Turbo (superg hack) [Hack]>
 d2992f184b1cdbddd2e45a8d0808b30d	galwars2.7z <Galaxy Wars II (Defender bootleg) [Bootleg]>
+a384f20f5752b32e8d5c03bc188f7098	gametngk.7z <The Game Paradise - Master of Shooting! / Game Tengoku - The Game Paradise (ver 1.0)>
 981969ff77e83cac3cbdc643b1cf0c22	ganbare.7z <Ganbare! Marine Kun (Marine 2K0411 JPN)>
 bfcfc1a327e3d7caaf4ce7da22f6d90b	gangonta.7z <Ganbare! Gonta!! 2 / Party Time: Gonta the Diver II (Japan Release)>
 f2efe1edf0e7047fa812fce58dd1049a	gangwars.7z <Gang Wars>
@@ -1984,6 +2097,7 @@ f88ea1be8a5b48431669bfcab0f139be	gijoeua.7z <G.I. Joe (US, UAA)>
 cadc4aa00a4b81b2dead08a1c8e0de77	ginganin.7z <Ginga NinkyouDen (set 1)>
 dc7af65c02515cb0f9be90bfc5edd636	ginganina.7z <Ginga NinkyouDen (set 2)>
 5628ceb6af4a48b8d1947578d4e58f19	ginkun.7z <Ganbare Ginkun>
+b0824f3db08c9c51435448acce4a0a18	gladiatr.7z <Gladiator (US)>
 ca87b689827bb51f20886c0249d11c00	glass10.7z <Glass (Ver 1.0, Break Edition) (set 1)>
 a0c3611d4979f9c9ed3c33b1a7adaeb9	glass10a.7z <Glass (Ver 1.0, Break Edition) (set 2)>
 2570c919f5ef1d7091f0f66d54dac974	glass.7z <Glass (Ver 1.1, Break Edition, Version 1994)>
@@ -2025,7 +2139,7 @@ a54c214296918dadcf3e147ebae252ab	goldnaxe3.7z <Golden Axe (set 3, World, FD1094 
 75b5211946cf3989c108498ee520759a	goldnaxeu.7z <Golden Axe (set 5, US, FD1094 317-0122)>
 b66e13ff2b222fced9924c3b16b14cdd	goldnaxeud.7z <Golden Axe (set 5, US, FD1094 317-0122 decrypted) [Bootleg]>
 43eca515e411b3e024827fe44016b074	gollygho.7z <Golly! Ghost!>
-694b905e1db64bd6f2a0c0bbd7ef68cb	gondo.7z <Gondomania (World) [please use 'gondou' instead!]>
+694b905e1db64bd6f2a0c0bbd7ef68cb	gondo.7z <Gondomania (World)>
 c2106c0e3d6b48fe980138c7ba2a1ce1	gondou.7z <Gondomania (US)>
 e198664eb53fe4fdfc35322939bdd4e6	goori.7z <Goori Goori>
 a229d9aed02c8d6c60b55b2c56dad01d	gorkans.7z <Gorkans>
@@ -2043,14 +2157,20 @@ b3ac5df795be535e3650d4094931d9f1	gradius3a.7z <Gradius III (Asia)>
 b4ae17b03ee911865a62f681f7c612fd	gradius3j.7z <Gradius III (Japan, program code S)>
 a639a89e367d999c6e70367aeeb4cf9b	gradius3js.7z <Gradius III (Japan, program code S, split)>
 32735caf86588f81306488cf515dfa9d	gradius.7z <Gradius (Japan, ROM version)>
+2989cd2c75d5280bafa9ef0ec11b3e26	gradiusb.7z <Gradius (Bubble System)>
 88151d43c6d32a23a5f9ad81bd339378	grainbow.7z <SD Gundam Sangokushi Rainbow Tairiku Senki (Japan)>
 78698dfb69d44c51d528ae31a5198a44	grainbowk.7z <SD Gundam Sangokushi Rainbow Tairiku Senki (Korea)>
 d1c0a022dc4fd4d41ad820439877004e	grasspin.7z <Grasspin>
+3b9cb88fc10f8a04dc1a47692d3000ee	gratia.7z <Gratia - Second Earth (ver 1.0, 92047-01 version)>
+14c5d8c11223cd02d8f01696c0352256	gratiaa.7z <Gratia - Second Earth (ver 1.0, 91022-10 version)>
 1df293174d7ad5f1cde2b4a4ded8ed0f	gravitar1.7z <Gravitar (version 1)>
 7bf2bfabbfab0b1d195b3d3077b5fb54	gravitar2.7z <Gravitar (version 2)>
 66290536a3c25585763d26dbee36ad8f	gravitar.7z <Gravitar (version 3)>
 3ec6e511f44466f9f7700ae059dab4e1	grdian.7z <Guardian (US)>
-c654c439574faf03108da47865cb3ae2	grdians.7z <Guardians [Imperfect graphics @ game start cutscene]>
+c654c439574faf03108da47865cb3ae2	grdians.7z <Guardians>
+b4fc0e11718fa801d40f1e60de376c03	grdianslbs.7z <Guardians (LBS Edition, Hack) [Hack]>
+2bb230547491afe7ea43cc6002257e87	grdianslbss.7z <Guardians (LBS Super Edition, Hack) [Hack]>
+13137ca79478fb481d1552e31d8fdf5e	grdianssy.7z <Guardians (Shen Yue Edition, Hack) [Hack]>
 b2d2e92accf8a092c887c2882fbdd4e5	grdnstrm.7z <Guardian Storm (horizontal, not encrypted)>
 96452fa12f48222829ee7e0635411bcd	grdnstrmau.7z <Guardian Storm (horizontal, Australia)>
 7bb40bfd8f43d622a94242f0344941fa	grdnstrmg.7z <Guardian Storm (Germany)>
@@ -2168,6 +2288,7 @@ db9b268b2c25b934b08e1b22048d173d	gunsmokeua.7z <Gun.Smoke (US, 851115, set 1)>
 a4972bd0213fc28bd95d223f9e25202c	gunsmokeub.7z <Gun.Smoke (US, 851115, set 2)>
 dd4f23447920e7e907b1a51b315cc0fc	gussun.7z <Gussun Oyoyo (Japan)>
 2cd218a58638cd4ca02aee6511bdf835	gutangtn.7z <Guttang Gottong>
+1c9fd91b7b59f2e129f5fdf7d7b37e5c	gutsn.7z <Guts'n (Japan)>
 49f555d5dedc5a7737e3679d7efbcfc0	guwange.7z <Guwange (Japan, Master Ver. 99/06/24)>
 4aaf82649e889a5a0546682b68678fbe	guwanges.7z <Guwange (Japan, Special Ver. 00/01/01)>
 afc680b34c218f57be693835c79d693d	guzzler.7z <Guzzler>
@@ -2195,10 +2316,17 @@ dc1b839e7b181429f090dd44f05986c8	hangly2.7z <Hangly-Man (set 2)>
 72788f00665815d31691369f3c4ccd41	hangly3.7z <Hangly-Man (set 3)>
 9f7c6be826a0c9da311c9fa1200f0ce1	hangly.7z <Hangly-Man (set 1)>
 61d58d22974bfd4ac94c7083b0bba247	hangon1.7z <Hang-On>
-ff2be09c0cad4e2935da3c6458a64bdb	hangon2.7z <Hang-On (ride-on)>
+ff2be09c0cad4e2935da3c6458a64bdb	hangon2.7z <Hang-On (Rev A, ride-on)>
 eb68c6d51fd67021aaac4c8c10d83282	hangon.7z <Hang-On (rev A)>
 f4406990abc60e110f926b977e3e5792	hangonjr.7z <Hang-On Jr. Rev.B>
+652f5cfb7cb60092e29bfdf96347b4b4	hangonvf.7z <VF (bootleg of Hang-On)>
 b39b05b23585497ae60adaa1e25747eb	hangzo.7z <Hangzo (Japan, prototype) [Prototype]>
+fe707be89333702e9a61df1c4f1e4125	happy6100cn.7z <Happy 6-in-1 (V100 - V100MK, China) [Incomplete Dump]>
+f6b3ac898a030a99c99a16113926137e	happy6100hk.7z <Happy 6-in-1 (V100 - V100MK, Hong Kong) [Incomplete Dump]>
+36d4116e948cb184182d448fc6b71cf3	happy6101.7z <Happy 6-in-1 (V101 - V100MK, China) [Incomplete Dump]>
+f4012a7d9d18e4ed5e2dddb66a05243f	happy6.7z <Happy 6-in-1 (V102 - V101MK, China)>
+e679d8b1e9538a103f9ac9a0d62fb9bf	harddunk.7z <Hard Dunk (World)>
+e65a8de1d1e42956b0ed0d4a8ff711bc	harddunkj.7z <Hard Dunk (Japan)>
 85d273e4dc9919ea6eed26386242e859	hardhea2.7z <Hard Head 2 (v2.0, Music Program v2.4)>
 b7c4d4d31b229d99430fc963008afe33	hardhea2a.7z <Hard Head 2 (v2.0, Music Program v2.0)>
 d4e2b0576f9794886118086f2fac0195	hardhead.7z <Hard Head>
@@ -2210,6 +2338,9 @@ d836c5db4b58bd9bf0d896d44413d853	hatena.7z <Adventure Quiz 2 - Hatena? no Daibou
 c873ff2f69c1a258287c42847aaae0db	hatris.7z <Hatris (US)>
 ebaf3567efaa01661e36f145020dc78a	hatrisj.7z <Hatris (Japan)>
 5a03195deff1adab960cf0e995b84408	hayaosi1.7z <Hayaoshi Quiz Ouza Ketteisen - The King Of Quiz>
+7023a9390e3f5ee9ad26a673564c9c85	hayaosi2.7z <Hayaoshi Quiz Grand Champion Taikai>
+b6843ca23f86acc606921d3e1eb9f1bf	hayaosi3.7z <Hayaoshi Quiz Nettou Namahousou (ver 1.5)>
+3f67b89181bf475c5150ba8afe7f672c	hayaosi3a.7z <Hayaoshi Quiz Nettou Namahousou (ver 1.2)>
 bf0bd183a0a6474dbb1488ef0a2c98e9	hbarrel.7z <Heavy Barrel (World)>
 c05c74f1489e8743283de7dd02ff96f1	hbarrelu.7z <Heavy Barrel (US)>
 3ddedc5f069dff75065f9ef75e5b8f54	hcastle.7z <Haunted Castle (ver. M)>
@@ -2262,6 +2393,12 @@ fb86652c64c705f9a53d11ce6da0c7ef	hidnc2k.7z <Hidden Catch 2000 (AT89c52 protecte
 fc6aa523022a7c56e42be6ea79b1e79b	hidnctch.7z <Hidden Catch (World) / Tul Lin Gu Lim Chat Ki '98 (Korea) (pcb ver 3.03)>
 c23db61077324dda2906c01535360a6a	hidnctcha.7z <Hidden Catch (World) / Tul Lin Gu Lim Chat Ki '98 (Korea) (pcb ver 3.02)>
 cfe4dcce9215f67f94aea8f39affd0fc	higemaru.7z <Pirate Ship Higemaru>
+0140f8466b8846632b4caa208df25dbf	hiimpact1.7z <High Impact Football (rev LA1 12/16/90)>
+ad4cdcbe424bfca9491d020bf91cc9bb	hiimpact2.7z <High Impact Football (rev LA2 12/26/90)>
+8fe30a1bf38c693799a8054b9c7f0375	hiimpact3.7z <High Impact Football (rev LA3 12/27/90)>
+853509643da3eac79e42cd561d2a6a9d	hiimpact4.7z <High Impact Football (rev LA4 02/04/91)>
+16d9644bc23936bb6f78287025e6cb5f	hiimpact.7z <High Impact Football (rev LA5 02/15/91)>
+e55444737ef6778b98a30bffa69dcdd9	hiimpactp.7z <High Impact Football (prototype, revision0 proto 8.6 12/09/90) [Prototype]>
 c5437014a8b5b57af5413a8d1ee16f8a	himesiki.7z <Himeshikibu (Japan)>
 39ae1e9e92810d224c204b781ffe4279	hipoly.7z <Hipoly (bootleg of Hyper Olympic)>
 1e1e72ac0bfbac90416b2832a1e72f10	hippodrm.7z <Hippodrome (US)>
@@ -2274,6 +2411,7 @@ d67f70a5a2690e29bedd7adf00a4cfeb	hoccer.7z <Hoccer (set 1)>
 ada7873eb86eb01f64952de6fefffbfa	hocrash.7z <Crash (bootleg of Head On) [Bootleg, No sound]>
 d2331d3ac2527f76e6207afdfbb17745	holeland2.7z <Hole Land (Spain)>
 2a77ce847fae24ba9880677a6ee9730b	holeland.7z <Hole Land (Japan)>
+34a60f45f25e51d62180e34fbfbf57ad	holo.7z <Holosseum (US, Rev A)>
 d855ac619827b58d3ba90e74f326c4c2	homo.7z <Homo [Bootleg]>
 6fcf315bbbae9090b6a823831b7f6d02	honeydol.7z <Honey Dolls>
 5a582ef17d6a088d9cb644e4c1ea3cdd	hook.7z <Hook (World)>
@@ -2403,9 +2541,7 @@ ec8614636f9ac9eb65b785fd5bedd816	inyourfa.7z <In Your Face (North America, proto
 aa559873dcfe953f7e0a3747156ed9e4	ironfort.7z <Iron Fortress>
 21ef5d5fe851e8a3bd9be7c244961959	ironfortc.7z <Gongtit Jiucoi Iron Fortress (Hong Kong)>
 5c4e95f6b47e8972be9f27c2360a3846	ironhors.7z <Iron Horse>
-bbf6e84252776af4d23c5769048cca53	ISG.7z <>
-cd6c1f8536f772b338bfce13e324e5b2	ISG.7z <>
-ce4ae7b9e21af76ce321881ede7ffa29	ISG.7z <>
+bbf6e84252776af4d23c5769048cca53	isgsm.7z <ISG Selection Master Type 2006 System BIOS [BIOS only]>
 582228c4e4e134a3b2e6716fa7440266	itaten.7z <Itazura Tenshi (Japan)>
 eeef4be4322d051866c0598f95933f37	ixion.7z <Ixion (prototype)>
 a870e8b855c8a64bc8c95ed388c7f6a1	jack2.7z <Jack the Giantkiller (set 2)>
@@ -2431,10 +2567,14 @@ a22df06c6df447bec2fc378d777d2b16	jdreddp.7z <Judge Dredd (rev TA1 7/12/92, locat
 84fff20659999e2b83b45c6851ec57dd	jin.7z <Jin>
 d36c7fab0d082ec09c154c92178c7388	jitsupro.7z <Jitsuryoku!! Pro Yakyuu (Japan)>
 722740740643d24f385b4eb02ed688cd	jjack.7z <Jumping Jack>
+a000bb93d2d6611603b73e873c48d746	jjparad2.7z <Jan Jan Paradise 2>
+aa18cf66d12c192a924a107b191cb2ea	jjparads.7z <Jan Jan Paradise>
 33ea0b2a54cc395a47bad9e05dbc0976	jjsquawk.7z <J. J. Squawkers>
 c10b8cb243b2c84ea7d534c59a545ddc	jjsquawkb2.7z <J. J. Squawkers (bootleg, Blandia conversion)>
 9c99987061cd02483a6111db65f50b07	jjsquawkb.7z <J. J. Squawkers (bootleg) [Bootleg]>
 7cef0136f7af81314ca79e0dc2402cd2	jjsquawko.7z <J. J. Squawkers (older)>
+2e091594c425465ca1cbf0569c9cff00	jleague.7z <The J.League 1994 (Japan, Rev A)>
+114e840d4af98bb344710916afd4e079	jleagueo.7z <The J.League 1994 (Japan)>
 34a491c01ace5dc57026e55f45f5745e	jmpbreak.7z <Jumping Break (set 1)>
 d632e4197894402ac1e85f138d68ff5f	jmpbreaka.7z <Jumping Break (set 2)>
 3698049d89fe499e58046d7b14ca6b77	jockeyc.7z <Jockey Club>
@@ -2444,12 +2584,14 @@ f1fe9cef69cd8030f672021f0cf9b6ac	joemac.7z <Tatakae Genshizin Joe &amp; Mac (Jap
 7a079c180799494d52cb0faabc6733f5	joemacrj.7z <Joe &amp; Mac Returns (Japan, Version 1.2, 1994.06.06)>
 4b4e20426098e8c4444d74f9ca59909d	joinem.7z <Joinem>
 7510d498f23f5815d3376ea7bad64e29	jojo.7z <JoJo's Venture / JoJo no Kimyou na Bouken (Euro 990128)>
-f5f66e2dad4d99670da708a39ae3459c	jojoba.7z <JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927)>
+f5f66e2dad4d99670da708a39ae3459c	jojoba.7z <JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Euro 990927)>
+56d94e27ce4712dbe814a93760d40863	jojobaj.7z <JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927)>
+655bb6a558d6dac97bfabe509acb48cf	jojobajr1.7z <JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990913)>
 feffb503d642f93b78b72bb515be25e7	jojoban.7z <JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927, NO CD)>
 9d5d9c38a4b278f89ade7cb05bb69c85	jojobane.7z <JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Euro 990927, NO CD)>
 999b03a71b01d705bbd2d479afa5ec03	jojobaner1.7z <JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Euro 990913, NO CD)>
 bacf4f2241d715de17d4d23621987a58	jojobanr1.7z <JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990913, NO CD)>
-b6f063a23823ab362ce79ceb9c621bd2	jojobar1.7z <JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990913)>
+b6f063a23823ab362ce79ceb9c621bd2	jojobar1.7z <JoJo's Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Euro 990913)>
 40bd944b00420eee4425809cc01649e2	jojoj.7z <JoJo's Venture / JoJo no Kimyou na Bouken (Japan 990128)>
 45a935d2f331801af0a4afe5cc60c969	jojojr1.7z <JoJo's Venture / JoJo no Kimyou na Bouken (Japan 990108)>
 674accc042b6b82c0f0f021f8075ce92	jojojr2.7z <JoJo's Venture / JoJo no Kimyou na Bouken (Japan 981202)>
@@ -2463,13 +2605,18 @@ c348f7688b48351708e6f41dfae41241	jojor2.7z <JoJo's Venture / JoJo no Kimyou na B
 0f41a026e4470d0a5548d996a9f7980e	jojour2.7z <JoJo's Venture / JoJo no Kimyou na Bouken (USA 981202)>
 5bd20bb105bf0243fc2c492a152786e3	jollyjgr.7z <Jolly Jogger>
 f96ffc3d543bdc92105c2c60565068b8	jongpute.7z <Jongputer>
+98dc0157e90a9b28306967d14bdd2f4f	journey.7z <Journey>
 0e7217251d81adfd48614df6680043d4	joust.7z <Joust (White/Green label)>
 9a79a81e1e6037cebfc810f2818f2798	joustr.7z <Joust (Solid Red label)>
-40cd2c8648bf30996a53237de5a1239e	joustwr.7z <Joust (White/Red label)>
+3d461d116630e6a05dea932ee9fb43b8	jousty.7z <Joust (Yellow label)>
 588722bb0c1482c218fd9795627bfd32	joyfulr.7z <Joyful Road (Japan)>
 8e53df32cf57367bea7f0179d965ac52	joyman.7z <Joyman>
+0829ef076f8a696d7ad4fadc6615153d	jpark.7z <Jurassic Park (World, Rev A) [Small GFX Issues]>
+e81afda72adb35c51b6491e73385056d	jparkj.7z <Jurassic Park (Japan, Rev A, Deluxe) [Small GFX Issues]>
+b67248ecbfec93a515b157a260f912d7	jparkja.7z <Jurassic Park (Japan, Deluxe) [Small GFX Issues]>
+7135d7a62a34b114ff9d2d96636f92ec	jparkjc.7z <Jurassic Park (Japan, Rev A, Conversion)>
 26f721a4d153f9e5187f67ee58666e97	jpopnics.7z <Jumping Pop (Nics, Korean bootleg of Plump Pop)>
-658acf614516dc32ec26acebc948417c	jrking.7z <Junior King (bootleg of Donkey Kong Jr.)>
+658acf614516dc32ec26acebc948417c	jrking.7z <Junior King (bootleg of Donkey Kong Jr.) [Bootleg]>
 bfb15e976e21c08502545e7b7a42256c	jrpacman.7z <Jr. Pac-Man (11/9/83)>
 709deb0a84a8a792a19eb2cdd6fab63f	jrpacmanf.7z <Jr. Pac-Man (speedup hack)>
 0510d707ce5c3ba9bfa4f054982df983	jsk.7z <Joryuu Syougi Kyoushitsu (Japan) [Unemulated CPU]>
@@ -2529,7 +2676,7 @@ d7b6196191c967522cc0525896c9d37e	karatblzu.7z <Karate Blazers (US)>
 4b10c7895a27df1e80ccc2c02e4742eb	karatedo.7z <Karate Dou (Japan)>
 609048dbf8913b58dd0c47600ec76256	karatevs.7z <Taisen Karate Dou (Japan VS version)>
 5a8beeca87855c63d0ec25e6d83f821f	karatour.7z <The Karate Tournament>
-1004b72419ac2298c695b1512ea294e2	karatourj.7z <The Karate Tournament (Japan)>
+1004b72419ac2298c695b1512ea294e2	karatourj.7z <Chatan Yara Kuushanku - The Karate Tournament (Japan)>
 7e35133a982c9a75bc903f5e533158a0	karianx.7z <Karian Cross (Rev. 1.0)>
 bbd89fe88742266deab019c74d3de359	karnov.7z <Karnov (US, rev 6)>
 2120c3e1916dda818b2f331ebb43f556	karnova.7z <Karnov (US, rev 5)>
@@ -2549,9 +2696,9 @@ ff5d615d338689f379471a0c44a37b92	kengo.7z <Ken-Go (set 1)>
 3c8a7a8d11191c25bb18b10e5a1c87f6	kenseim.7z <Ken Sei Mogura: Street Fighter II (Japan 940418, Ver 1.00)>
 567d732305d7bafc608ab56af807aed9	keroppi.7z <Kero Kero Keroppi's Let's Play Together (USA, Version 2.0)>
 7849e316180fd851fedf772580a6b9a7	keroppij.7z <Kero Kero Keroppi no Issyoni Asobou (Japan)>
-e152da1d3bf365a94a75ac35b45243dd	ket1.7z <Ketsui Kizuna Jigoku Tachi (Revision 2? alt, Japan)>
-83f989dd820bb3683ef6ff6b2bc7fd68	ket.7z <Ketsui Kizuna Jigoku Tachi (Revision 2?, Japan)>
-14c34d52ca9b0450520d192a1a766049	keta.7z <Ketsui Kizuna Jigoku Tachi (Revision 1?, Japan)>
+e152da1d3bf365a94a75ac35b45243dd	ket1.7z <Ketsui Kizuna Jigoku Tachi (2003/01/01. Master Ver.) (alt rom fill)>
+83f989dd820bb3683ef6ff6b2bc7fd68	ket.7z <Ketsui Kizuna Jigoku Tachi (Japan, 2003/01/01. Master Ver.)>
+14c34d52ca9b0450520d192a1a766049	keta.7z <Ketsui Kizuna Jigoku Tachi (Japan, 2003/01/01 Master Ver.)>
 14c2ba328bab5a5a1436521e54f5787c	ketarr10.7z <Ketsui Kizuna Jigoku Tachi (Arrange Mode version 1.0, hack by Trap15) [Hack]>
 606b2171265cbd02bad3abe5d91830bc	ketarr151.7z <Ketsui Kizuna Jigoku Tachi (Arrange Mode version 1.51, hack by Trap15) [Hack]>
 eb8266ed831282a839802d7d5f55cdf8	ketarr15.7z <Ketsui Kizuna Jigoku Tachi (Arrange Mode version 1.5, hack by Trap15) [Hack]>
@@ -2559,14 +2706,17 @@ eb8266ed831282a839802d7d5f55cdf8	ketarr15.7z <Ketsui Kizuna Jigoku Tachi (Arrang
 06f4027e383efefd6614fa33a964832a	ketarrf.7z <Ketsui Kizuna Jigoku Tachi (Fast version, hack by Trap15) [Hack]>
 463e3d175c72acad54c8ed82c7fb3257	ketarrs151.7z <Ketsui Kizuna Jigoku Tachi (MR. Stoic version 1.51, hack by Trap15) [Hack]>
 3aa7953c296df2d8a1027458e69a37e4	ketarrs15.7z <Ketsui Kizuna Jigoku Tachi (MR. Stoic version 1.5, hack by Trap15) [Hack]>
-88448242c26f644c500833ae718b8daa	ketb.7z <Ketsui Kizuna Jigoku Tachi (Original?, Japan)>
+88448242c26f644c500833ae718b8daa	ketb.7z <Ketsui Kizuna Jigoku Tachi (Japan, 2003/01/01 Master Ver)>
 f29f8f127077d6577bb7307ebdf4bd29	ketbl.7z <Ketsui Kizuna Jigoku Tachi (2003/01/01. Master Ver., bootleg cartridge conversion) [Bootleg]>
 154edef8877b47fc5ead6c92102e56c3	kf2k3pcb.7z <The King of Fighters 2003 (Japan, JAMMA PCB)>
 79f60d96f6e00e821284cbdc06cd4dfe	kftgoal.7z <Kick for the Goal>
+f175e09ccd29c70d6cfd9181256da4a7	kick.7z <Kick (upright)>
 6e6e79cc8b262e9877e6ffa47ba77bfa	kickboy.7z <Kick Boy>
+7335dfed37440cb57c19aa3d7abce673	kickc.7z <Kick (cocktail)>
 e69b3d32a9a1b1553a9235547a8090cd	kicker.7z <Kicker>
 65c45287d453a3b6e5bb0683b1d2776c	kickgoal.7z <Kick Goal (set 1)>
 f11f0100a79e63abf0d9bd59fa051338	kickgoala.7z <Kick Goal (set 2)>
+0c26a757eb245a6f084236c561b21ab8	kickman.7z <Kickman (upright)>
 25ad1d9144e3950bae34b5e25325fe43	kicknrun.7z <Kick and Run (World)>
 5ad2b89e0bddccdee473f406d87668b9	kicknrunu.7z <Kick and Run (US)>
 25c920f7bf21bcedecd01684ff35b63e	kickoff.7z <Kick Off (Japan)>
@@ -2577,6 +2727,11 @@ c1d013d19f4c61314f2f6f56189a47ff	kidnikiu.7z <Kid Niki - Radical Ninja (US)>
 a32ffea64cbb4899ab97438dd41b97e7	kikcubicb.7z <Kickle Cubele [Bootleg]>
 dd78eb11bf2cfaa9b82f3bb687a8c827	kikikai.7z <KiKi KaiKai>
 c3d548831fceaa690aa00a62183a2f40	kikstart.7z <Kick Start - Wheelie King>
+df43fb5b6eb088131314a6f477810952	killbld104.7z <The Killing Blade (V104)>
+66af4261d05b74696229288fccfb7e0c	killbld106.7z <The Killing Blade (V106)>
+3795255834c08130a6e831de6733880f	killbld109.7z <The Killing Blade (V109 alt, China)>
+be21d4e9d7f2099d03f304844877ee92	killbld.7z <The Killing Blade (V109, China)>
+4d18b364f36cb375793814a0a50108ef	killbldp.7z <The Killing Blade Plus (V300, China)>
 345142d7013b717a72d6402855c81a44	kingball.7z <King &amp; Balloon (US)>
 51b26958976d3f7ac07416875220a42d	kingballj.7z <King &amp; Balloon (Japan)>
 3c1e6057f847e69ef48cfbc8ecbfd72b	kingdmgp.7z <Kingdom Grandprix (World)>
@@ -2593,6 +2748,7 @@ a9824f2305af6357fcd3e10799669fe6	kinst214ai.7z <Killer Instinct II (ROM ver. 1.4
 ae7e5d578c76a4c50866273e8b39f849	kinst.7z <Killer Instinct (ROM ver. 1.5d) [Works best in 64-bit build]>
 68895fce5d86ac9a68b2d2f6d8a8adce	kinstp47.7z <Killer Instinct (ROM proto ver. 4.7) [Prototype, Works best in 64-bit build]>
 e29ad579e0a69aca1b7fc043a3412eb6	kirameki.7z <Kirameki Star Road (Ver 2.10J 1997/08/29) [No sound]>
+ff4a2b9cf707e69a05ed6bad4d55aea6	kirarast.7z <Ryuusei Janshi Kirara Star>
 44a4317b5d9db6207e04e98cfb61f096	kittenk.7z <Kitten Kaboodle>
 b7a215e397a179e922e31aa2afe56126	kiwame.7z <Pro Mahjong Kiwame>
 a096a71ab0b3ed4746b69a33bcdc7107	klax4.7z <Klax (version 4)>
@@ -2629,17 +2785,76 @@ f739bccc38756a5f2a8f1ccdfdd96fc5	kodr1.7z <The King of Dragons (World 910711)>
 640200349cccc861e4c44d4c02f60562	kodr2.7z <The King of Dragons (910731 etc)>
 cf1254c1f74c634318db1510c7573c2b	kodu.7z <The King of Dragons (US 910910)>
 233d2ff2c72d70887d08aa2ee552a46d	koikois2.7z <Koi Koi Shimasho 2 - Super Real Hanafuda (Japan)>
+d29bbc03b83c873733d4765e5fffd671	kokoroj2.7z <Soreike Kokology Vol. 2 - Kokoro no Tanteikyoku>
+ea5ebc2269e5180d337b6f23bd145a25	kokoroj.7z <Soreike Kokology (Rev A)>
 e7c03b166b91424fbf41bb9be7b2a773	konami88.7z <Konami '88>
 98690fc8431abf6a23ad7899cc949b67	konamigt.7z <Konami GT>
-a3c3d2b29c1c0e7272fc165872343d1d	kong2600.7z <Donkey Kong (2600 graphics, hack)>
+a3c3d2b29c1c0e7272fc165872343d1d	kong2600.7z <Donkey Kong (2600 graphics, hack) [Hack]>
 153ddfb15ae1e37b7cf004b201c3e3fd	kong.7z <Kong (Donkey Kong conversion on Galaxian hardware) [Bad Colours]>
 3c388a9cbb2abcedef7d11c0361020a5	kontest.7z <Konami Test Board (GX800, Japan)>
 b0aed901b7e576c5308811e63c50369c	korokoro.7z <Koro Koro Quest (Japan)>
 baaff0dc1c2ab52d27834da3d86d5292	korosuke.7z <Korosuke Roller>
 239bc09154356f5c07d1eaa1ba402c8c	koshien.7z <Ah Eikou no Koshien (Japan)>
+aab1b82429eb58c15a4da5a78de26d7e	kov111.7z <Knights of Valour - Sangoku Senki (V111, Japan)>
+17e1cac2f07999b4f18c9924a279f8aa	kov114.7z <Knights of Valour - Sangoku Senki (V114, Hong Kong)>
+8a25e9d131f5acb2849981878e5df7ad	kov115.7z <Knights of Valour - Sangoku Senki (V115)>
+3960fbdbd0847cc54feb9b8ad3965993	kov2100.7z <Knights of Valour 2 (V100, Hong Kong)>
+4128200f81a27bce13c10355e5de4e14	kov2101.7z <Knights of Valour 2 (V101, Hong Kong)>
+742cad41517da7a260758afed9ad5b34	kov2102.7z <Knights of Valour 2 (V102, Hong Kong)>
+660d220a508e8002e7f2e4b62484d5b9	kov2103.7z <Knights of Valour 2 (V103, Hong Kong)>
+fbc695752efaad6b829cea6ba6ab1454	kov2104.7z <Knights of Valour 2 (V104, China)>
+827dcfafc31934a19d7b3c840168a6ae	kov2106.7z <Knights of Valour 2 (V106, Hong Kong)>
+87ca6ae89b1fb54735da2a19db96ea78	kov2.7z <Knights of Valour 2 (V107, Hong Kong)>
+3ba8cc2174c30f7aaf910f95bd2b9b77	kov2p200.7z <Knights of Valour 2 Plus - Nine Dragons (VM200XX)>
+36c79c5dc5e8b3d70ee4544891b5212f	kov2p202.7z <Knights of Valour 2 Plus - Nine Dragons (VM202XX, Japan)>
+b526427f997f711efa9a8cdc4b9aa90b	kov2p203.7z <Knights of Valour 2 Plus - Nine Dragons (VM203XX, Korea)>
+fd450d22ca17ef7997e4a84dd1ef522a	kov2p204.7z <Knights of Valour 2 Plus - Nine Dragons (VM204XX, China)>
+8d05ae2068a22b3f3eaa62d811ff622a	kov2p.7z <Knights of Valour 2 Plus - Nine Dragons (VM205XX, China)>
+b410dc438abf353e93022f4e35cfb800	kov2pemp.7z <Knights of Valour 2 Plus - Extend Magic Plus (Hack) [Hack]>
+f83d4c685847d3e8fb7bac02a870ae3c	kov2pfwll.7z <Knights of Valour 2 Plus - Feng Wu Long Yin (Ver. 205S, Hack) [Hack]>
+16bd01b3de6a63bf219d2fb2e24b8153	kov2pshpd.7z <Knights of Valour 2 Plus - Xie Feng Tian Chi (Hack) [Hack]>
+a9e888a7a1585f349ffd77cc99bb2996	kov.7z <Knights of Valour - Sangoku Senki (V117)>
+02384899e0cfd15d3e94caeb556974f4	kovassg.7z <Knights of Valour: Ao Shi San Guo / Sangoku Senki: Ao Shi San Guo (V315CN, China) [Bootleg, Incomplete dump]>
+275c1e29901e26e061eeee12dd4f1eaf	kovassga.7z <Knights of Valour: Ao Shi San Guo / Sangoku Senki: Ao shi San Guo (V202CN, China) [Bootleg, Imperfect Protection Emulation]>
+dae37c6a3e2bb8f14b8ea982954fcdba	kovlsjb.7z <Knights of Valour: Luan Shi Jie Ba / Sangoku Senki: Luan Shi Jie Ba (V200CN, China) [Bootleg]>
+2060eec1302ca2006abb4148d20590c9	kovlsjba.7z <Knights of Valour: Luan Shi Jie Ba / Sangoku Senki: Luan Shi Jie Ba (V200CN alt, China) [Bootleg, Incomplete dump]>
+7c298cb715537ab4feee17f14a3ce178	kovlsqh2.7z <Knights of Valour: Luan Shi Quan Huang II / Sangoku Senki: Luan Shi Quan Huang II (V200CN, China) [Bootleg, Incomplete dump]>
+1dfe5a50593314be982f86a7181fb136	kovlsqh.7z <Knights of Valour: Luan Shi Quan Huang / Sangoku Senki: Luan Shi Quan Huang (V200CN, China) [Bootleg, Incomplete dump]>
+811dc78262c7d62379e46878b1c35d42	kovlsyx.7z <Luan Shi Ying Xiong (hack of Knights of Valour Super Heroes Plus, ver. 500) [Hack, Bootleg, Imperfect Protection Emulation]>
+172eb00f5585f8a1860322054ef340a0	kovlsyxqszl.7z <Luan Shi Ying Xiong - Qiu Sheng Zhi Lu (hack of Knights of Valour Super Heroes Plus, ver. 500) [Hack, Bootleg, Imperfect Protection Emulation]>
+bc20d0ba689044f08f6503e4abbb0944	kovlsyxqxzl.7z <Luan Shi Ying Xiong - Qun Xiong Zhu Lu (hack of Knights of Valour Super Heroes Plus, ver. 500) [Hack, Bootleg, Imperfect Protection Emulation]>
+3c17b5b2241324df1b2b34bdff0fba80	kovlsyxqxzlp.7z <Luan Shi Ying Xiong - Qun Xiong Zhu Lu Plus (hack of Knights of Valour Super Heroes Plus, ver. 500) [Hack, Bootleg, Imperfect Protection Emulation]>
+495df1a414bbd8a0bba0d840d225b230	kovplus2020tx.7z <Knights of Valour Plus - Qun Xiong Luan Wu 2020 (Hack) [Hack]>
+e9f59f3efc77170d516789ba78349926	kovplus.7z <Knights of Valour Plus - Sangoku Senki Plus (V119) [no PLUS on screen when set to KOREA]>
+d2ab4f2579961a6290a7f365595fa9db	kovplusa.7z <Knights of Valour Plus - Sangoku Senki Plus (V119, Korea) [no PLUS on screen when set to KOREA]>
+8bbf4ca3599c9fa1e5b8612363a4b39c	kovqhsgs.7z <Knights of Valour: Quan Huang San Guo Special / Sangoku Senki: Quan Huang San Guo Special (V303CN, China) [Bootleg]>
+1f998a2492be4b739bf2d49a5d4f7987	kovqhsgsa.7z <Knights of Valour: Quan Huang San Guo Special / Sangoku Senki: Quan Huang San Guo Special (V303CN alt, China) [Bootleg]>
+e41bc1c1661ab52c26d251e2e889f9ef	kovqhsgsd.7z <Knights of Valour: Quan Huang San Guo Special / Sangoku Senki: Quan Huang San Guo Special (V303CN, China, decrypted version) [Bootleg]>
+c156e417ec6c1613298cb9979d851ac7	kovsgqyz.7z <Knights of Valour: SanGuo QunYingZhuan / Sangoku Senki: SanGuo QunYingZhuan (V119, set 1)>
+061aaccf609c274593c12f163e54b1fa	kovsgqyza.7z <Knights of Valour: SanGuo QunYingZhuan / Sangoku Senki: SanGuo QunYingZhuan (V119, set 2)>
+1838460c87cfd9c1cef65a8287ca7ba9	kovsgqyzb.7z <Knights of Valour: SanGuo QunYingZhuan / Sangoku Senki: SanGuo QunYingZhuan (V119, set 3)>
+c2334d6af4ce3a0110ab6d5424ad6c96	kovsgqyzc.7z <Knights of Valour: SanGuo QunYingZhuan / Sangoku Senki: SanGuo QunYingZhuan (V119, set 4)>
+8b4e9f5491e866f8be1cbe4f92dd636e	kovsgqyzd.7z <Knights of Valour: SanGuo QunYingZhuan / Sangoku Senki: SanGuo QunYingZhuan (V119, set 5)>
+18f343a8ee6d8beddf18a08bc290f624	kovsh100.7z <Knights of Valour Superheroes / Sangoku Senki Superheroes (V100)>
+fe919c92c34ef3d5e4fbb61e373103b4	kovsh101.7z <Knights of Valour Superheroes / Sangoku Senki Superheroes (V101)>
+4f7c69502902513fce5884fa2564fb73	kovsh102.7z <Knights of Valour Superheroes / Sangoku Senki Superheroes (V102)>
+add2ef5d7d9d8e2508e39734d5cbbe9b	kovsh103.7z <Knights of Valour Superheroes / Sangoku Senki Superheroes (V103)>
+fd89f69f816b473735963caeb2da1b99	kovsh.7z <Knights of Valour Superheroes / Sangoku Senki Superheroes (V104, China)>
+8960e6d354a454c5bf53df2b8e9ca828	kovshb.7z <Knights of Valour Superheroes / Sangoku Senki Superheroes (bootleg, V104, China)>
+3d2b388b900da6cb9f5ad7f9bdd066d8	kovshp100.7z <Knights of Valour Super Heroes Plus / Sangoku Senki Super Heroes Plus (V100, China) [Imperfect Protection Emulation]>
+f696d5c2851e4410976032060e7366a5	kovshp101.7z <Knights of Valour Super Heroes Plus / Sangoku Senki Super Heroes Plus (V101, China) [Imperfect Protection Emulation]>
+dbc3ea9c52f68ea7e38b86d6aadbe113	kovshp.7z <Knights of Valour Super Heroes Plus / Sangoku Senki Super Heroes Plus (V101) [Imperfect Protection Emulation]>
+ff34fb1ddf8bc376c658490ce4a22342	kovshpd3dw.7z <Luan Shi Ying Xiong - Qun Xiong Zhu Lu Wu Shuang Edition (Hack, ver. 500) [Hack, Bootleg, Imperfect Protection Emulation]>
+c3d426563c6405e3fa1e6cc325001d15	kovshpqszl.7z <Knights of Valour Super Heroes Plus (The Road to Survival True King, ver. 500) [Hack, Bootleg, Imperfect Protection Emulation]>
+358361759c399a14497e8aa0fec2432c	kovshpqszltw.7z <Knights of Valour Super Heroes Plus (The Road to Survival True King Tian Wang, ver. 500) [Hack, Bootleg, Imperfect Protection Emulation]>
+28a700633a26b338333a65996eb2b7c0	kovshpzqhl.7z <Knights of Valour Super Heroes Plus (The Best Firepower In 2020, 2020-02-06) [Hack, Bootleg, Imperfect Protection Emulation]>
+f4d1bf1a316bf38cf7e801f72435de4a	kovytzy.7z <Knights of Valour: Yi Tong Zhong Yuan / Sangoku Senki: Yi Tong Zhong Yuan (V201, China) [Imperfect Protection Emulation]>
+981c1694299bcdee777a0ca2a36e32ea	kovytzyce.7z <Knights of Valour Super Heroes / Yi Tong Zhong Yuan Qing Ban (2020-A, hack) [Hack, Bootleg, Imperfect Protection Emulation]>
+a8abb1cb3f7cdc2aea365a86258da538	kovytzyws.7z <Knights of Valour Super Heroes / Yi Tong Zhong Yuan Wu Shuang Ban (2019-0, hack) [Hack, Bootleg, Imperfect Protection Emulation]>
 941fff58d3ea51f7012800b594738572	kozure.7z <Kozure Ookami (Japan)>
 3c20000a3a5dde99dff44528ad61fbbc	kram2.7z <Kram (set 2)>
 d9f99c3e98ae10dce9093efd1accf07f	kram.7z <Kram (set 1)>
+50ddf81afb613c220d2c1de596e6eb65	kroozr.7z <Kozmik Kroozr>
 1cde3e3b392366b5fd5129d245c8b109	krull.7z <Krull>
 23161ba6a8c4a304c0eb0ec579a85746	krzybowl.7z <Krazy Bowl>
 5decd2f244a16f082c39f9c5c8082212	ksayakyu.7z <Kusayakyuu>
@@ -2713,6 +2928,7 @@ f46bf36a273222a49f330a9fba363bf1	leaguemn.7z <Yakyuu Kakutou League-Man (Japan)>
 f995af6611429193835171725be72fd5	leds2011u.7z <Led Storm Rally 2011 (US)>
 bcc1a687367e6984e551eea51828c9cc	ledstorm.7z <Led Storm (US)>
 3d4dcd6fc8845fa8dfc04c3ea01eb0fb	legend.7z <Legend>
+d07ecdabd1438b523ecd508ad6c90100	legendb.7z <Legion (bootleg of Legend) [Bootleg]>
 86b3323942d07651cb651c3341f98f58	legendoh.7z <Legend of Heroes>
 23d6e2be089bed49550f30814e08ad60	legion.7z <Legion - Spinner-87 (World ver 2.03)>
 ac7ac45d5d4c88dc3f3a563f64bd3e6f	legionj.7z <Chouji Meikyuu Legion (Japan ver 1.05)>
@@ -2756,6 +2972,7 @@ a8f7667ef18ac0f8d206faa6bdd52cd6	liquidk.7z <Liquid Kids (World)>
 96ed1b4daecb305f024a077df028c86f	lkage.7z <The Legend of Kage>
 a6d78caa3ebfe815c45842c5bff7a2dd	lkageb2.7z <The Legend of Kage (bootleg set 2) [Bootleg]>
 9f1ef7cedbd66e0f8cd83f7415932b49	lkageb3.7z <The Legend of Kage (bootleg set 3) [Bootleg]>
+48b1f3e3d85d60e779eb13b79988d3b4	lkageb4.7z <The Legend of Kage (bootleg set 4) [Bootleg]>
 781f3f17f430c41cae0a6ea6a82b0870	lkageb.7z <The Legend of Kage (bootleg set 1) [Bootleg]>
 3f425595fe399025489e753046bee5c8	lkageo.7z <The Legend of Kage (older)>
 0a840cffa4156a72064d4668c7520a98	lkageoo.7z <The Legend of Kage (oldest)>
@@ -2791,6 +3008,7 @@ cc3e4a5a03854585f4944a6df12333ab	lordofk.7z <The Lord of King (Japan)>
 361f8e5040db2d0753e0771fe00f5ebe	lotlot.7z <Lot Lot>
 7eef33eb51dc35a4445ec6342130440d	lottofun.7z <Lotto Fun>
 e7ffec49eb01e2dab35c19fe5b6969a1	loverboy.7z <Lover Boy>
+d8312e0a393241b06c2cfbfc39b4331a	lsasquad.7z <Land Sea Air Squad / Riku Kai Kuu Saizensen>
 a2a0146fe9d1403c45c969a75d984ac7	ltswords.7z <Lightning Swords>
 3dbdc78f94ec1550d2c6f59ed9740915	luckywld.7z <Lucky &amp; Wild>
 a91d20a7ba1e51719ac0e8d8a7ea7050	luckywldj.7z <Lucky &amp; Wild (Japan)>
@@ -2875,9 +3093,14 @@ de2f15d014d40b93578d255e6221fd60	mario.7z <Mario Bros. (US, Revision G)>
 90a81e820e9f5fde4033251e5d1d3940	marioe.7z <Mario Bros. (US, Revision E)>
 02a2029b3e381d82fd675e61a33ee1b8	mariof.7z <Mario Bros. (US, Revision F)>
 9b0dfad9783cb6ff1062a5da664c0cca	marioj.7z <Mario Bros. (Japan)>
-a35d7cc0e292397193ca8f13f258c690	marioo.7z <Mario Bros. (US, Unknown Rev)>
 a6747aab24fe00ee482301e70e46fdd5	markham.7z <Markham>
+d5c0fb5a09f323669da41a395f7c1433	marmatcp.7z <Martial Masters - Community Patch (Hack) [Hack]>
+0fec95bf9f99e22d64d283784c6ececd	marmatsc.7z <Martial Masters - Secret Characters (Hack) [Hack]>
 68834fdcdff2a84a2844bd794aa9bcdf	mars.7z <Mars>
+bdb556258545525dc2169cca5fe49bae	martmast102c.7z <Martial Masters (V102, 101, 101, China)>
+04b86cab87d8cdc9fff1103e83042a04	martmast103c.7z <Martial Masters (V103, 102, 101, China)>
+bd4a49213ec2099e2ad5e4f3209e9e97	martmast104c.7z <Martial Masters (V104, 102, 101, China)>
+682d0a80fc3220e5ce90e148caa5d83c	martmast.7z <Martial Masters (V104, 102, 102, USA)>
 9dbee594ebec7eeff5bf2c5368727e98	marukin.7z <Super Marukin-Ban (Japan 901017)>
 8e119b94f097f504cdbd72e82d02eebd	marvins.7z <Marvin's Maze>
 df992d12fe526fe9e1d748ee8192a77f	marvland.7z <Marvel Land (US) [Bad music - use the Japan version]>
@@ -2947,7 +3170,8 @@ c297e405ff35f4f276155bdfc8bbf7f6	merlinmm.7z <Merlins Money Maze>
 8dd73653aaaf73525b89a4c1e41a04e5	metamrphe.7z <Metamorphic Force (ver EAA - alternate)>
 4a7bc7c27a1683215d3bd06accd0e98a	metamrphj.7z <Metamorphic Force (ver JAA)>
 a51e071fc0e505e4d605b472f17131e2	metamrphu.7z <Metamorphic Force (ver UAA)>
-a7815cbb6e08ab1f2e0cc341c06ebbc4	meteorho.7z <Meteor (bootleg of Asteroids) [Bootleg]>
+236648fcd214e68f83c329d4c2519363	meteorbl.7z <Meteor (bootleg of Asteroids) [Bootleg]>
+a7815cbb6e08ab1f2e0cc341c06ebbc4	meteorho.7z <Meteor (Hoei bootleg of Asteroids) [Bootleg]>
 1f7e93ba08ab3e915215f7689ef9b245	meteorite.7z <Meteorite (Proel bootleg of Asteroids) [Bootleg]>
 df66346482b26bf297467e10778b6093	meteorts.7z <Meteorites (VGG bootleg of Asteroids) [Bootleg]>
 ba84fcd3e704414751d1c7dd8f462f91	metlclsh.7z <Metal Clash (Japan)>
@@ -2975,40 +3199,7 @@ dc65a341b06526f096632e45d0267deb	mhavoc.7z <Major Havoc (rev 3)>
 5537cf6abaf580d11344df9f3c2d2d84	midres.7z <Midnight Resistance (World)>
 b5b50d4dd8402314528680d4acd789cf	midresj.7z <Midnight Resistance (Japan)>
 e99bc55d79fda214a8b4409c470b4fc8	midresu.7z <Midnight Resistance (US)>
-0b89a69d37b81ed5cc55709cd9581b6a	Midway.7z <>
-0c26a757eb245a6f084236c561b21ab8	Midway.7z <>
-0cf9bccb35483722c2876f14b1d13f26	Midway.7z <>
-13da824ebb9e453ee2d88dddfc2a849e	Midway.7z <>
-168f3a5965dcc651da8357a578e29c43	Midway.7z <>
-17f2b6dac6d972045e777a8a13f8ea1c	Midway.7z <>
-1a560494c7af8c35996007a251b42a21	Midway.7z <>
-1f60eac9175845648c9af0019baea994	Midway.7z <>
-26a86d0139455de4a29f5ae12309fd3b	Midway.7z <>
-2b793d633faa8bf434de3127b31965d0	Midway.7z <>
-3519ee80301f3ea88b5418625e046cbf	Midway.7z <>
-46fdc141d54f33a918b38a7ba263116f	Midway.7z <>
-501638c130b919a8e4ee7ba5a246500e	Midway.7z <>
-50ddf81afb613c220d2c1de596e6eb65	Midway.7z <>
-534407e3e0bf0a3b9f3a3f06e4c44236	Midway.7z <>
-60a8d9553442e861617b0e581768f651	Midway.7z <>
-6b92b7932e96964f361689ee43f69686	Midway.7z <>
-7335dfed37440cb57c19aa3d7abce673	Midway.7z <>
-75c9bbd43d5750f03eb6a5e25655a22c	Midway.7z <>
-78202655f27f52a50f8e17f42e5003ce	Midway.7z <>
-83cd9a42d1561265cb9d6dc0f08a1e55	Midway.7z <>
-89570b41b9e3d56d4d8fea2c39c925c1	Midway.7z <>
-98dc0157e90a9b28306967d14bdd2f4f	Midway.7z <>
-c642c8878844cb79894b2babf45d8242	Midway.7z <>
-c7d58d5f0efcacfd741bd0b74681fed6	Midway.7z <>
-ca4aec92f8accebeb6f9f9e1f3ea7e0d	Midway.7z <>
-ca5c0023474420469e1a19cb39185061	Midway.7z <>
-db0197fc9da4f2c9820a37ff1a2bf14c	Midway.7z <>
-e1180a8da92b07ed9481ed69f3a499cf	Midway.7z <>
-f175e09ccd29c70d6cfd9181256da4a7	Midway.7z <>
-f22152afec12017f351f1cb7a6285863	Midway.7z <>
-f7a486109b7e377d77167ce73a06ca17	Midway.7z <>
-fc90e8404f7907342d5eaeb7068ac489	Midway.7z <>
-fd9fb50133e4f624234649102dbe652a	Midway.7z <>
+1a560494c7af8c35996007a251b42a21	midssio.7z <Midway SSIO Sound Board Internal pROM [Internal pROM only]>
 ebe7d7c699582e21fe25e79ddc78f1e6	mightguy.7z <Mighty Guy [Sound issues]>
 32b1328f6b8b6d10780084f7a8eb78e7	mikie.7z <Mikie>
 14436fc19b6981ef61b5e03c17158838	mikiehs.7z <Mikie (High School Graffiti)>
@@ -3060,8 +3251,24 @@ d6f020e6af559522b27e8ce7e55b4f86	mk3p40.7z <Mortal Kombat 3 (rev 1 chip label p4
 81e6687b70acfed5b7af5d0404bb3540	mk3r10.7z <Mortal Kombat 3 (rev 1.0)>
 361076bcc87372df4d539eb368fe99de	mk3r20.7z <Mortal Kombat 3 (rev 2.0)>
 07d935680b6501b2e42fe4baea021389	mk.7z <Mortal Kombat (rev 5.0 T-Unit 03/19/93)>
+a619d122b41cad9a4d9b34c7e98208e0	mkla1.7z <Mortal Kombat (rev 1.0 08/09/92)>
+7e62d0995d98d439da2c8826ec07d145	mkla2.7z <Mortal Kombat (rev 2.0 08/18/92)>
+69e7ffb51eeee923110ff6ac101754fb	mkla3.7z <Mortal Kombat (rev 3.0 08/31/92)>
+dd7c4af9401092729d915055890be77f	mkla4.7z <Mortal Kombat (rev 4.0 09/28/92)>
+139df5f183a5b4e7a7aaa9951c54e369	mknifty666.7z <Mortal Kombat (Nifty Kombo 666, hack) [Hack]>
+060b4d6c79587a8b9af1f96f6c668480	mknifty.7z <Mortal Kombat (Nifty Kombo, hack) [Hack]>
+d77aece3cd02c01dbaff9b229cbb5bc4	mkprot4.7z <Mortal Kombat (prototype, rev 4.0 07/14/92) [Prototype]>
+476cebad9795ae21f34580a970434c20	mkprot8.7z <Mortal Kombat (prototype, rev 8.0 07/21/92) [Prototype]>
+c23d0b2ea243a19ecf0098bed404be65	mkprot9.7z <Mortal Kombat (prototype, rev 9.0 07/28/92) [Prototype]>
 ac6a03ee2a89fa3da3a8dd1b39b4a6e8	mkr4.7z <Mortal Kombat (rev 4.0 T-Unit 02/11/93)>
+15f40b7b9ba5f136fc4cf5faf6e7017e	mkrep.7z <Mortal Kombat (Reptile Man hack) [Hack]>
 c5bd8552265b9a690839b5b832653c4c	mktturbo.7z <Mortal Kombat (Turbo Ninja T-Unit 03/19/93, hack) [Hack]>
+f9e4a552a0389c1c0f9439e96f941f0a	mkyawdim2.7z <Mortal Kombat (Yawdim bootleg, set 2) [Bootleg]>
+6d80d4ff3e1a781161bb5f5110ac47f2	mkyawdim3.7z <Mortal Kombat (Yawdim bootleg, set 3) [Bootleg]>
+1882ba7e4be0ce46dba66e30c7e09224	mkyawdim4.7z <Mortal Kombat (Yawdim bootleg, set 4) [Bootleg]>
+e4b3849b7aeca47948f3941a44025454	mkyawdim.7z <Mortal Kombat (Yawdim bootleg, set 1) [Bootleg]>
+426ae5a3b3f84926915e8fc3feb2a27c	mkyturbo.7z <Mortal Kombat (Turbo 3.1 09/09/93, hack) [Hack]>
+7e374772952ae6dc9399aef252f0b568	mkyturboe.7z <Mortal Kombat (Turbo 3.0 08/31/92, hack) [Hack]>
 5d8c2868a417fae74e98d884d196247c	mltiwars.7z <Multi Wars (bootleg of UniWar S)>
 02ae7dd31cb3e5a682470f0b53ae8b5f	mmagic.7z <Monkey Magic>
 3babbe29b28c5e74ee1730504e35e9f9	mmancp2u.7z <Mega Man - The Power Battle (951006 USA, SAMPLE Version)>
@@ -3125,9 +3332,11 @@ bdb8611518f8d16f8bda2c9b4c79dfd5	mosaicf2.7z <Mosaic (F2 System)>
 37998616a7e79c999feda0797fe63132	motorace.7z <MotoRace USA>
 199c554a7c4e51879cba6c8d49360c93	motos.7z <Motos>
 b135360b05194bcd1406136879603688	mototour.7z <MotoTour / Zippy Race (Tecfri license)>
+b57cfd5d697f03a89506680a358464bc	mouncrst.7z <Moune Creste (Jeutel French Moon Cresta bootleg) [Bootleg]>
 015263552bc6ccec9ae32020b135f5a6	mouser.7z <Mouser>
 d9fe46f12348b38b2187245bee9e6f76	mouserc.7z <Mouser (Cosmos)>
 bab042c51af2760840e20443728ade51	mpang.7z <Mighty! Pang (001010 Euro)>
+44e17139e5e3f7f9330e7f553e548b5a	mpanga.7z <Mighty! Pang (001010 Asia)>
 c4de055cf768a49a2db4dbedd0f92e6e	mpangj.7z <Mighty! Pang (001011 Japan)>
 9b28bcf1681b88ab66f8378a147e3791	mpangjd.7z <Mighty! Pang (001011 Japan Phoenix Edition) [Bootleg]>
 97810a9f62dbe42468f5466fd6592497	mpangr1.7z <Mighty! Pang (000925 Euro)>
@@ -3139,6 +3348,7 @@ cec30248eab0b607f85a0a9438877c94	mplanetsuk.7z <Mad Planets (UK)>
 f538e6e811cfedf3f59430fada145399	mranger.7z <Moon Ranger (bootleg of Moon Patrol) [Bootleg]>
 dc3790f6c21dc835ab6c695ef5b14725	mrdig.7z <Mr. Dig>
 811b4a59b7163b53b663ce7a0209469a	mrdo.7z <Mr. Do!>
+495b519550998319f184b1cc7d373f98	mrdobl.7z <Mr. Do! (bootleg) [Bootleg]>
 365f1ed2a3372742b8cdcda0381e0180	mrdofabr.7z <Mr. Do! (Fabremar bootleg) [Bootleg]>
 9d762597db3764da69002ce2ac111155	mrdofix.7z <Mr. Do! (bugfixed)>
 fc2fee559e6e588141cffc9f8c99a8e6	mrdot.7z <Mr. Do! (Taito license)>
@@ -3203,7 +3413,8 @@ f67bf64e6b2534e1fd97beeaf2617099	mspacmanbco.7z <Come-Cocos (Ms. Pac-Man) (Cocom
 099771d4c42f62f749bcfdafb97a9258	mspacmanbg.7z <Ms. Pac-Man ('Made in Greece' bootleg, set 1) [Bootleg]>
 80bd48a291847f1558e936361e272d47	mspacmanbgd.7z <Miss Pukman ('Made in Greece' Datamat bootleg) [Bootleg]>
 04ed3fdcbe73d6c6673013edfdf02fc1	mspacmanbhe.7z <Come-Cocos (Ms. Pac-Man) ('Made in Greece' Herle SA bootleg) [Bootleg]>
-2812962034199814360f909911fe36ca	mspacmanblt.7z <Miss Pukman ('Made in Greece' Triunvi bootleg) [Bootleg]>
+145322265caf95c306fba793dc8c5768	mspacmanblt2.7z <Miss Pukman ('Made in Greece' Triunvi bootleg, set 2) [Bootleg]>
+2812962034199814360f909911fe36ca	mspacmanblt.7z <Miss Pukman ('Made in Greece' Triunvi bootleg, set 1) [Bootleg]>
 0640f2b15885e96187f6f5a6dce1b84e	mspacmat.7z <Ms. Pac Attack>
 82fd35c979fbb47646409c9d9b6c7a06	mspacmbe.7z <Ms. Pac-Man (bootleg, encrypted)>
 99daab44e77beead7f54a607fd7953d1	mspacmbmc.7z <Ms. Pac-Man (Marti Colls bootleg)>
@@ -3260,13 +3471,13 @@ fb8d9c9f10142fb2a89c607ec8ebcd21	mvscj.7z <Marvel vs Capcom - clash of super her
 79374b32fb5e0f45c6fb40af7138bdbc	mvscu.7z <Marvel vs Capcom - clash of super heroes (980123 USA)>
 c0673a1ba34296d3109bcec66f7dbfdb	mvscud.7z <Marvel vs Capcom - clash of super heroes (980123 USA Phoenix Edition) [Bootleg]>
 0024a1bc4d63394eaf4acfda015796b2	mvscur1.7z <Marvel vs Capcom - clash of super heroes (971222 USA)>
-77e0503a237142f3d4894f47da45b796	mwalk.7z <Michael Jackson's Moonwalker (set 3, World, FD1094/8751 317-0159) [Graphics issues]>
-41fb61f42fdd6971066fa7381197a169	mwalkbl2.7z <Michael Jackson's Moonwalker (bootleg) [Bootleg, Graphics issues]>
-c7f45700f6b3b6346d42dffcc34e7e7f	mwalkd.7z <Michael Jackson's Moonwalker (World) (bootleg of FD1094/8751 317-0159 set) [Graphics issues]>
-0887f6b1caf905d1a029904711504ca9	mwalkj.7z <Michael Jackson's Moonwalker (Japan) (FD1094/8751 317-0157) [Graphics issues]>
-89dbd4a9b012d41fa5da9ec4894c674e	mwalkjd.7z <Michael Jackson's Moonwalker (Japan) (bootleg of FD1094/8751 317-0157 set) [Graphics issues]>
-58d8fd8d2ea0b715fbbee41f11bfb5e4	mwalku.7z <Michael Jackson's Moonwalker (US) (FD1094/8751 317-0158) [Graphics issues]>
-668170ecbdf6c99a4a58fca4e727f835	mwalkud.7z <Michael Jackson's Moonwalker (US) (bootleg of FD1094/8751 317-0158 set) [Graphics issues]>
+77e0503a237142f3d4894f47da45b796	mwalk.7z <Michael Jackson's Moonwalker (set 3, World, FD1094/8751 317-0159)>
+41fb61f42fdd6971066fa7381197a169	mwalkbl2.7z <Michael Jackson's Moonwalker (bootleg) [Bootleg]>
+c7f45700f6b3b6346d42dffcc34e7e7f	mwalkd.7z <Michael Jackson's Moonwalker (World) (bootleg of FD1094/8751 317-0159 set)>
+0887f6b1caf905d1a029904711504ca9	mwalkj.7z <Michael Jackson's Moonwalker (Japan) (FD1094/8751 317-0157)>
+89dbd4a9b012d41fa5da9ec4894c674e	mwalkjd.7z <Michael Jackson's Moonwalker (Japan) (bootleg of FD1094/8751 317-0157 set)>
+58d8fd8d2ea0b715fbbee41f11bfb5e4	mwalku.7z <Michael Jackson's Moonwalker (US) (FD1094/8751 317-0158)>
+668170ecbdf6c99a4a58fca4e727f835	mwalkud.7z <Michael Jackson's Moonwalker (US) (bootleg of FD1094/8751 317-0158 set)>
 d6e9336b33305d21566060149ef55970	mwarr.7z <Mighty Warriors>
 ee9a0fac4b58ba55cac61eda9405050a	mx5000.7z <MX5000>
 670ab5dd7b1f4d6a3887368e251f8f5b	myangel2.7z <Kosodate Quiz My Angel 2 (Japan)>
@@ -3286,6 +3497,11 @@ f62c05cfed5062635e4a318d97a1e67d	myststonoi.7z <Mysterious Stones - Dr. Kick in 
 59ce2fb979b6d3953ee2abd6273e3da7	mystwarrj.7z <Mystic Warriors (ver JAA)>
 8fa3ea5bc3e9ecc5daf98fa5dbf7dc59	mystwarru.7z <Mystic Warriors (ver UAA)>
 02fd89a11bea7b752c906b07ff7a8977	naname.7z <Naname de Magic!>
+3c343b45ebdb5afaf94b644049309ee0	narc1.7z <Narc (rev 1.80)>
+6d2beb45ad4d2674541b2e67e9e02786	narc2.7z <Narc (rev 2.00)>
+acefd0abba7de1c16650305a2b7cf18c	narc3.7z <Narc (rev 3.20)>
+80c7e13bd9426f6480048c8059c9fc56	narc4.7z <Narc (rev 4.00)>
+d89658cc648d08594c86ac4505084d3a	narc.7z <Narc (rev 7.00)>
 bce64ddf4d925f727a3c8ca97da8c774	nastar.7z <Nastar (World)>
 0fa0bb9e2a6ee45536cb8a9760635f62	nastarw.7z <Nastar Warrior (US)>
 33b48f75748561e2e092e69fc033563c	natodef.7z <NATO Defense>
@@ -3303,9 +3519,10 @@ ba8efd8f446e747b3093ec579ccb1fe9	navarone.7z <Navarone>
 998124a7aa54e6b89597911d739f66e4	nbajamte3.7z <NBA Jam TE (rev 3.0 03/04/94)>
 aede0649a27da06768efda0d1dacced7	nbajamte.7z <NBA Jam TE (rev 4.0 03/23/94)>
 8df161df5d9674082eef6d0f5f1d1bcc	nbajamten.7z <NBA Jam T.E. Nani Edition (rev 5.2 8/11/95, prototype) [Prototype]>
-1dfac5eb47599590ef9728944fd6364d	nbamht1.7z <NBA Maximum Hangtime (rev 1.0 11/08/96)>
-c6de08c5e4f9bffd8e6fb5bd20732876	nbamht.7z <NBA Maximum Hangtime (rev 1.03 06/09/97)>
+1dfac5eb47599590ef9728944fd6364d	nbamht1.7z <NBA Maximum Hangtime (rev L1.0 11/08/96)>
+c6de08c5e4f9bffd8e6fb5bd20732876	nbamht.7z <NBA Maximum Hangtime (rev L1.03 06/09/97)>
 4362770dd254bdd3086d6ab4faf380a7	nbbatman.7z <Ninja Baseball Batman (World)>
+1f3befb0fb2bde390fab376b19a02ba4	nbbatmano.7z <Ninja Baseball Batman (One Key Edition, Hack) [Hack]>
 96fdf9556df482d95e1677dbc48e70ee	nbbatmanu.7z <Ninja Baseball Batman (US)>
 ab7e37b77a44e5c162b69ebb67e5c6e5	nebulbee.7z <Nebulous Bee [Bootleg]>
 59606609c6f2b0f4ac81167fe123c3f1	nemesis.7z <Nemesis (ROM version)>
@@ -3327,6 +3544,7 @@ e8dfcbd9d495d0b088b4b383719b5c78	newpuc2b.7z <Newpuc2b>
 1cd474ab46366fca4e58da3d7e041d8a	newtangl.7z <New Tropical Angel>
 72d7f14a3f428adaf52e1d9335763a6d	newxpang.7z <New Cross Pang>
 d18440c44e25f5f8fb96bb37fecb7a3e	nextfase.7z <Next Fase (bootleg of Phoenix)>
+0cf9bccb35483722c2876f14b1d13f26	nflfoot.7z <NFL Football>
 79eb420b4ba8fe6f5d3083c9ab879fda	nhidctch.7z <New Hidden Catch (World) / New Tul Lin Gu Lim Chat Ki '98 (Korea) (pcb ver 3.02)>
 71b0dbe1d874e69211596b6c69e49d00	nibbler6.7z <Nibbler (rev 6)>
 7998964cb9535ea6f1b179d05ce1c818	nibbler7.7z <Nibbler (rev 7)>
@@ -3404,6 +3622,16 @@ d959e772e861730a3e152ec2af01bb44	nzeroteama.7z <New Zero Team (V33 SYSTEM TYPE_B
 262d6102102d2f8ca9f0199c1c6b5ef0	offtwallc.7z <Off the Wall (2-player cocktail)>
 5802ae899e406453f3ad93e37f9d26a8	ohmygod.7z <Oh My God!>
 4a69c32571d553ed57633a80d18fe91f	oisipuzl.7z <Oishii Puzzle Ha Irimasenka>
+0d594c52ee55de4834d6d457433fb44c	olds100.7z <Oriental Legend Special - Xi Yo Gi Shi Re Zuang Super (V100, China) [Imperfect Protection Emulation]>
+601396867d6b388effc56d162bbb7dd7	olds100a.7z <Oriental Legend Special - Xi Yo Gi Shi Re Zuang Super (V100 alt, China) [Imperfect Protection Emulation]>
+368d78b787fafb48c1c8d5bb3eb50566	olds103t.7z <Oriental Legend Special - Xi Yo Gi Shi Re Zuang Super (V103, China, Tencent) (unprotected)>
+146ec23386e591eabe1625bfecd3f841	olds.7z <Oriental Legend Super (V101, Korea) [Imperfect Protection Emulation]>
+1ed73459694de7332ff74e30d8f583b0	oldsdsgl.7z <Oriental Legend Special - Da Sheng Gui Lai (Hack) [Hack]>
+c13fddbea2d4c0ba1967b51e970db752	oldsmx.7z <Oriental Legend Special - Meng Xun Ling Shan (Hack) [Hack]>
+4ba0278a988ec0795c2a34ec40064264	oldsplus203.7z <Oriental Legend 2 (Korea) / Xi You Shi E Zhuan Super Plus (World, China, Japan, Hong Kong, Taiwan) (V203) [Incomplete Dump]>
+c5ebf849892ce5f974e5b4cc0da790e0	oldsplus.7z <Oriental Legend 2 (Korea) / Xi You Shi E Zhuan Super Plus (World, China, Japan, Hong Kong, Taiwan) (V205) [Incomplete Dump]>
+da27f024834b0c175d62c7f9fff53ac0	oldsplusnr.7z <Xi You Shi E Zhuan Super Plus (Qun Mo Luan Wu New 208 Revision) [Hack, Incomplete Dump]>
+dc80b5c4561431fc41f419c2ea1c30ea	oldspluso.7z <Oriental Legend 2 (One Key Edition, Hack) [Hack, Incomplete Dump]>
 b1a0acd4e482c757a55cdd018faa6517	olibochu.7z <Oli-Boo-Chu>
 c6d6bd7ebf806f43c76acc3681703b81	omega.7z <Omega>
 23bca60273da9bcda76e97760efb2794	omegaa.7z <Omega (earlier)>
@@ -3437,6 +3665,18 @@ f431f734948f112bf8f823608f1d2e37	orbs.7z <Orbs (10/7/94 prototype?)>
 0ffa956f8231d448da92b060257cb0ef	ordynej.7z <Ordyne (Japan)>
 9c20fd850d0b869305eeac6b40e4510e	ordyneje.7z <Ordyne (Japan, English Version)>
 ddd55aaef4322097691abf1e32feaa9b	orius.7z <Orius (ver UAA)>
+03ef50eb3aa0f090d005c4bf390590be	orlegend105k.7z <Oriental Legend (V105, Korea)>
+adb811239472f2c6fb145a9d4536c15b	orlegend105t.7z <Oriental Legend (V105, Taiwan)>
+b2bfbb64a02eba9333d2f4af4e11cf65	orlegend111c.7z <Oriental Legend - Xi Yo Gi Shi Re Zuang (V111, China)>
+6e13e207a5ac513d4f814c38dc297176	orlegend111k.7z <Oriental Legend - Xi Yo Gi Shi Re Zuang (V111, Korea)>
+1ed571e47c6cac958046c1447395188c	orlegend111t.7z <Oriental Legend - Xi Yo Gi Shi Re Zuang (V111, Taiwan)>
+f3f80dacc87a659da8420a2a94f99a69	orlegend.7z <Oriental Legend - Xi Yo Gi Shi Re Zuang (V126)>
+64f9e80625dd2183fce0be2bfb007354	orlegendc.7z <Oriental Legend - Xi Yo Gi Shi Re Zuang (V112, China)>
+2b14242df98425809fd903c46ab1b2d2	orlegendca.7z <Oriental Legend - Xi Yo Gi Shi Re Zuang (V112 alt, China)>
+82fbbd66b8faf2942fe247a2b661b85e	orlegende.7z <Oriental Legend - Xi Yo Gi Shi Re Zuang (V112)>
+5dc9101a89c1cf115ce5e93642b32c01	orunners.7z <OutRunners (World)>
+882ea3001fdee2af47d0ece8a7b9620b	orunnersj.7z <OutRunners (Japan)>
+f92122444883c0d1a621b8c4677a28bd	orunnersu.7z <OutRunners (US)>
 f156e7995d521f30e6c59a3d6c75e1e5	oscar.7z <Psycho-Nics Oscar (World revision 0)>
 779abc303f0bd91e7b236a3ac9b61ad5	oscarj1.7z <Psycho-Nics Oscar (Japan revision 1)>
 2de4d90fe63ba42de063b59853511b4a	oscarj2.7z <Psycho-Nics Oscar (Japan revision 2)>
@@ -3467,6 +3707,8 @@ eebfe222215d3a49eb591f1d23a3f0fa	outzonecv.7z <Out Zone (Zero Wing TP-015 PCB co
 805d5b396d7e502022f831433ad0ebee	ozmawars.7z <Ozma Wars (set 1)>
 5a51bd7c5cf4934430aeca56290ce922	ozon1.7z <Ozon I>
 1060fde721efeae4538887a021e9b1a4	p47.7z <P-47 - The Phantom Fighter (World)>
+8b573101998a2cd4402a714a28735a57	p47aces.7z <P-47 Aces (ver 1.1)>
+0fd4f8ca7742103b4402841ecf9a53df	p47acesa.7z <P-47 Aces (ver 1.0)>
 bb9f5f9f0125d264f6517ef84ce7ab1e	p47j.7z <P-47 - The Freedom Fighter (Japan)>
 8f1873ab67e6a78726b118e6c5602aef	p47je.7z <P-47 - The Freedom Fighter (Japan, Export)>
 85ec8b626a7a41521339962f2da294fe	pacgal.7z <Pac-Gal>
@@ -3482,6 +3724,7 @@ c95fea802c340c934e392c56404113ac	paclandm.7z <Pac-Land (Midway)>
 64d1f88b9b276aece4b0edcc25b7a434	pacman.7z <Pac-Man (Midway)>
 2b006c84b53f4f304cd62b835cd13cb7	pacmanbl.7z <Pac-Man (Galaxian hardware, set 1) [Bootleg]>
 94d1a06fb707b51197c3c7f658e32c9a	pacmanbla.7z <Pac-Man (Galaxian hardware, set 2) [Bootleg]>
+376e33a740f4ffc2a3cf1881ffc36544	pacmanblc.7z <Pac-Man (Calfesa, Spanish bootleg on Galaxian hardware) [Bootleg]>
 c02aa716f53e798dfffea4e239eac440	pacmanblv.7z <Pac-Man (Video Dens, Spanish bootleg on Galaxian hardware) [Bootleg]>
 b045a8ffb012b8fd799e4a611abbf59c	pacmanf.7z <Pac-Man (Midway, with speedup hack)>
 d82d04dec9c030808573a4b59e6036f6	pacmanfm.7z <Pac Man (FAMARE S.A. bootleg of Puck Man) [Bootleg]>
@@ -3530,6 +3773,7 @@ d86d4aed81d08fb4d182172b34365120	pangpang.7z <Pang Pang>
 c2ccaf2c7e244f0687630e5d0e433a16	pangpoms.7z <Pang Pom's>
 e90cd0f5fa568eb24e8dd036d72ecb9d	pangpomsm.7z <Pang Pom's (Mitchell)>
 1167e52fee3857928c1841ec70cecca8	pangpomsn.7z <Pang Pom's (Nova)>
+8dded14d24313c98bbedc323f5b15fad	panicstr.7z <Panic Street (Japan)>
 f8caed52eb68a95304a82c8d686309c6	paprazzi.7z <Paparazzi>
 33d2a8968fb874930dcd139b413abe86	parodius.7z <Parodius DA! (World, set 1)>
 f6a7da3846f8f57764ca0ddd1870ebfb	parodiusa.7z <Parodius DA! (Asia)>
@@ -3592,13 +3836,19 @@ fb8c2d9c288aa6722905f15fbd65eb74	penta.7z <Penta [Bootleg]>
 75a050feb416f19362a61abe57f32e74	percuss.7z <The Percussor>
 b385549160d11959406cf42ec2e73252	perfrman.7z <Performan (Japan)>
 e966c528ec92822344ab7c1a7f2fd54e	perfrmanu.7z <Performan (US)>
-4f06961cbaaaea192db623cb992fb650	pestplce.7z <Pest Place>
+4f06961cbaaaea192db623cb992fb650	pestplce.7z <Pest Place [Bootleg]>
 e4f761c3dbe19c2c780d4085c69856e3	pettanp.7z <Pettan Pyuu (Japan)>
 b10fd1f7309769a802406062e01f5eff	pfghtj.7z <Pocket Fighter (970904 Japan)>
 1eae380b3bb476672e0dbb8472e4dd6f	pgalvip.7z <Pocket Gals V.I.P (set 1)>
 8b227cc2692db4431eb530eb11578bbf	pgalvipa.7z <Pocket Gals V.I.P (set 2)>
 0819b91db82fe9e74e09398a8b19ca28	pgear.7z <Powered Gear - strategic variant armor equipment (941024 Japan)>
 374faa4dbb210dfbba2d13e291db7b7b	pgearr1.7z <Powered Gear - strategic variant armor equipment (940916 Japan)>
+6baf5a665b1a440f7c1e48e1567f4c42	pgemeni.7z <P-GeMeni (060123) [Homebrew]>
+6f129c54389541731fdce619bd5efddd	pgm3in1.7z <Photo Y2K 2 (3-in-1, V102, China) [Sound issues, video issues]>
+5e440b16f86e8e202af283a0e624a1e4	pgm3in1c100.7z <Photo Y2K 2 (3-in-1, V100, China) [Sound issues, video issues]>
+fc61450d3f31b46b6197c42e6b047f47	pgm.7z <PGM (Polygame Master) System BIOS [BIOS only]>
+5f3895b962021542735ac8452388186b	pgmdemo.7z <Chaos (PGM Demo) [Demo, Demo Game]>
+4bd222f9c4e0fa940ad34b2c4dc34883	pgmfrog.7z <Frog Feast (PGM) [Homebrew]>
 a4df93d3190c3e9c7e3899a1d7e4f2d5	phantasm.7z <Phantasm (Japan)>
 9a6e8d3de6eafc182be5c58df5398647	phelios.7z <Phelios>
 b62df0c6c3ab5b3bc845441ec0252256	pheliosj.7z <Phelios (Japan)>
@@ -3621,6 +3871,10 @@ a3a7ac689842ced4f240da8eb15a1594	phoenixi.7z <Phoenix (IDI bootleg)>
 5f78c8837fa4b40e985c9458bc07b3c8	phoenixt.7z <Phoenix (Taito)>
 5bffa0b276076ddb6a8939363c0408c9	phoenxp2.7z <Phoenix Part 2 [Bootleg]>
 6ca614337eb3f4ae154002966f591166	photof.7z <Photo Finish (bootleg?)>
+5240b16211850e4a25c72e970a291244	photoy2k102j.7z <Photo Y2K / Real and Fake (V102, Japan)>
+bea7097169f18ef61aa5686e4224a9b0	photoy2k103j.7z <Photo Y2K / Real and Fake (V103, Japan)>
+546c8b15a9d3b805cfc61fdc0ebca6e5	photoy2k104.7z <Photo Y2K / Real and Fake (V104)>
+c202b11e0d6cbf1e0f0b30733107348e	photoy2k.7z <Photo Y2K / Real and Fake (V105, China)>
 a2f8d5378116d3c5f8108ef96b864002	phozon.7z <Phozon (Japan)>
 9e64060a8952549fb8d9a59c14f5ae81	phozons.7z <Phozon (Sidam)>
 85e1ecc68dc314c078684f4530e1962f	pickin.7z <Pickin'>
@@ -3646,6 +3900,7 @@ bf2081e3f53dd6edee0e7fabb6bdb611	pistoldm.7z <Pistol Daimyo no Bouken (Japan)>
 5ce11eabd323d320de8a57889d432d32	pitfall2.7z <Pitfall II (315-5093)>
 e69c413488df551d779c4e4228efac9c	pitfall2a.7z <Pitfall II (315-5093, Flicky Conversion)>
 db723fa8b0f7e1ed368b39b8a7a6a969	pitfall2u.7z <Pitfall II (not encrypted)>
+c3d3620e2c1f498abbfb3e1e949ab4a7	pitfight3.7z <Pit Fighter (rev 3)>
 605e765100ed56476383561e9d3af705	pitfight.7z <Pit Fighter (rev 9)>
 950e1fefb6cad44323785ce0bf51a0fd	pitnrun.7z <Pit &amp; Run - F-1 Race (set 1) [Missing analog sounds and some gfx effects]>
 e1ad0570f5aab71c7552c1776f481fdb	pitnruna.7z <Pit &amp; Run - F-1 Race (set 2) [Missing analog sounds and some gfx effects]>
@@ -3685,146 +3940,6 @@ f8946190cb0af6277b74dd9029242b49	pollux.7z <Pollux (set 1)>
 5c419680d0cbf05cdef755004e8490e2	polluxa2.7z <Pollux (set 3)>
 cde2c629570687da7b4add1e29b66985	polluxa.7z <Pollux (set 2)>
 32c325d0ba8aad4d74b6e9f4dd4e99a8	polluxn.7z <Pollux (Japan, NTC license)>
-021c82d074942163ccad8a57089646c3	Polygame.7z <>
-02384899e0cfd15d3e94caeb556974f4	Polygame.7z <>
-03ef50eb3aa0f090d005c4bf390590be	Polygame.7z <>
-061aaccf609c274593c12f163e54b1fa	Polygame.7z <>
-082347ddef13a45d85ab1c022cd2b0f8	Polygame.7z <>
-099302cdb2f7766c6906c6aca1179ee8	Polygame.7z <>
-0c49806cfe5c470024ba255b621389e7	Polygame.7z <>
-0d594c52ee55de4834d6d457433fb44c	Polygame.7z <>
-146ec23386e591eabe1625bfecd3f841	Polygame.7z <>
-16bd01b3de6a63bf219d2fb2e24b8153	Polygame.7z <>
-16be9c6e943404ce6e2d9a9d61b6020c	Polygame.7z <>
-172eb00f5585f8a1860322054ef340a0	Polygame.7z <>
-17e1cac2f07999b4f18c9924a279f8aa	Polygame.7z <>
-1838460c87cfd9c1cef65a8287ca7ba9	Polygame.7z <>
-18f343a8ee6d8beddf18a08bc290f624	Polygame.7z <>
-1dfe5a50593314be982f86a7181fb136	Polygame.7z <>
-1ed571e47c6cac958046c1447395188c	Polygame.7z <>
-1f998a2492be4b739bf2d49a5d4f7987	Polygame.7z <>
-2060eec1302ca2006abb4148d20590c9	Polygame.7z <>
-207e0831e4713559428a121e3b6003d3	Polygame.7z <>
-28a700633a26b338333a65996eb2b7c0	Polygame.7z <>
-2ae65f0b027970d26b5917d196874944	Polygame.7z <>
-2b14242df98425809fd903c46ab1b2d2	Polygame.7z <>
-2d14a01e1fc6597ed7650415143c75f3	Polygame.7z <>
-2e788898e36bd7ee72e02c4d21713946	Polygame.7z <>
-3064608fde5b1fd516e9386aa04b5728	Polygame.7z <>
-34d6ad98f0d1e4cf201a1956451d46dc	Polygame.7z <>
-34e9f5e698cea1dd961748463aadf1e2	Polygame.7z <>
-358361759c399a14497e8aa0fec2432c	Polygame.7z <>
-368d78b787fafb48c1c8d5bb3eb50566	Polygame.7z <>
-36c79c5dc5e8b3d70ee4544891b5212f	Polygame.7z <>
-36d4116e948cb184182d448fc6b71cf3	Polygame.7z <>
-3795255834c08130a6e831de6733880f	Polygame.7z <>
-3960fbdbd0847cc54feb9b8ad3965993	Polygame.7z <>
-3ae7de9ad621f2b8a79224adfe338f1f	Polygame.7z <>
-3ba8cc2174c30f7aaf910f95bd2b9b77	Polygame.7z <>
-3c17b5b2241324df1b2b34bdff0fba80	Polygame.7z <>
-3c8c222cea543e1c023118cf9eafaad7	Polygame.7z <>
-3d2b388b900da6cb9f5ad7f9bdd066d8	Polygame.7z <>
-3d94b6e1f9adb870e65580be0ec58901	Polygame.7z <>
-4128200f81a27bce13c10355e5de4e14	Polygame.7z <>
-494654f295404810d75c5837d15dcd36	Polygame.7z <>
-495df1a414bbd8a0bba0d840d225b230	Polygame.7z <>
-4ba0278a988ec0795c2a34ec40064264	Polygame.7z <>
-4bd222f9c4e0fa940ad34b2c4dc34883	Polygame.7z <>
-4d18b364f36cb375793814a0a50108ef	Polygame.7z <>
-4d5e1f4ff51f06f7a35e187a73227171	Polygame.7z <>
-4ef22fd2ff3bce5850c043125aa7dfeb	Polygame.7z <>
-4f7c69502902513fce5884fa2564fb73	Polygame.7z <>
-50bbf3adc09b1cac0c69092266d10902	Polygame.7z <>
-546c8b15a9d3b805cfc61fdc0ebca6e5	Polygame.7z <>
-56c157ec2d47786494246a58c502906a	Polygame.7z <>
-5caaadf5adfae76fa3e965ecb4fb4196	Polygame.7z <>
-5d17d1e22e66f28ce788b5b183b3278f	Polygame.7z <>
-5f3895b962021542735ac8452388186b	Polygame.7z <>
-601396867d6b388effc56d162bbb7dd7	Polygame.7z <>
-6069db1cd1a9e6fd51785611cfe2d9d7	Polygame.7z <>
-607a43d887d218536e132b3dd8621c31	Polygame.7z <>
-63035c167e05bc4f7fc5cbd2d089c16f	Polygame.7z <>
-64f9e80625dd2183fce0be2bfb007354	Polygame.7z <>
-660d220a508e8002e7f2e4b62484d5b9	Polygame.7z <>
-66af4261d05b74696229288fccfb7e0c	Polygame.7z <>
-682d0a80fc3220e5ce90e148caa5d83c	Polygame.7z <>
-6baf5a665b1a440f7c1e48e1567f4c42	Polygame.7z <>
-6e13e207a5ac513d4f814c38dc297176	Polygame.7z <>
-6f129c54389541731fdce619bd5efddd	Polygame.7z <>
-742cad41517da7a260758afed9ad5b34	Polygame.7z <>
-7c298cb715537ab4feee17f14a3ce178	Polygame.7z <>
-81041ebf3c8581e8e523c1a11854940e	Polygame.7z <>
-811dc78262c7d62379e46878b1c35d42	Polygame.7z <>
-818fc6174a10ded078f0b0118870c1d1	Polygame.7z <>
-827dcfafc31934a19d7b3c840168a6ae	Polygame.7z <>
-82fbbd66b8faf2942fe247a2b661b85e	Polygame.7z <>
-863d91c983214e85b3ce76f0a3475230	Polygame.7z <>
-87ca6ae89b1fb54735da2a19db96ea78	Polygame.7z <>
-87dfbf01185e8fc0fa57bb1145de1468	Polygame.7z <>
-8960e6d354a454c5bf53df2b8e9ca828	Polygame.7z <>
-8a25e9d131f5acb2849981878e5df7ad	Polygame.7z <>
-8b4e9f5491e866f8be1cbe4f92dd636e	Polygame.7z <>
-8bbf4ca3599c9fa1e5b8612363a4b39c	Polygame.7z <>
-8d05ae2068a22b3f3eaa62d811ff622a	Polygame.7z <>
-8e72dbf9f334145920d4e4f37296e0a5	Polygame.7z <>
-91ef531168a05837babd1ad983dd1940	Polygame.7z <>
-981c1694299bcdee777a0ca2a36e32ea	Polygame.7z <>
-a2ba3310f64036f843e2c3504db34d63	Polygame.7z <>
-a2c115ff00f5fde0c624db8825926e8c	Polygame.7z <>
-a5b38e6366a2131a8a8227f1bb035db3	Polygame.7z <>
-a8abb1cb3f7cdc2aea365a86258da538	Polygame.7z <>
-a9c40a93dd07c223634958ba6e6243d0	Polygame.7z <>
-a9e888a7a1585f349ffd77cc99bb2996	Polygame.7z <>
-aa98d65181048565777cbae669b69982	Polygame.7z <>
-aab1b82429eb58c15a4da5a78de26d7e	Polygame.7z <>
-adb811239472f2c6fb145a9d4536c15b	Polygame.7z <>
-add2ef5d7d9d8e2508e39734d5cbbe9b	Polygame.7z <>
-ae8eb96df05e788ac39d88948eaf295c	Polygame.7z <>
-b1bddc4684b58eb1070a15e7bb0f7193	Polygame.7z <>
-b2bfbb64a02eba9333d2f4af4e11cf65	Polygame.7z <>
-b32dc2c3fb8a67662c437f4ce3d93e1a	Polygame.7z <>
-b526427f997f711efa9a8cdc4b9aa90b	Polygame.7z <>
-b8fdfa9163c285eda781c5b850bfcba8	Polygame.7z <>
-bc20d0ba689044f08f6503e4abbb0944	Polygame.7z <>
-bd67f62d9ad816285d531f92c668b993	Polygame.7z <>
-be21d4e9d7f2099d03f304844877ee92	Polygame.7z <>
-bea7097169f18ef61aa5686e4224a9b0	Polygame.7z <>
-c13fddbea2d4c0ba1967b51e970db752	Polygame.7z <>
-c156e417ec6c1613298cb9979d851ac7	Polygame.7z <>
-c202b11e0d6cbf1e0f0b30733107348e	Polygame.7z <>
-c2334d6af4ce3a0110ab6d5424ad6c96	Polygame.7z <>
-c3d426563c6405e3fa1e6cc325001d15	Polygame.7z <>
-c5ebf849892ce5f974e5b4cc0da790e0	Polygame.7z <>
-c630021b2de19aff122b8fe1c39a0632	Polygame.7z <>
-c69a04a3b6663cad202b6349f8b1c1a9	Polygame.7z <>
-d1b2800fe2c9c4e2548c87c7c704b13f	Polygame.7z <>
-d2ab4f2579961a6290a7f365595fa9db	Polygame.7z <>
-d2b9f86fd8d6d07c715dc3572f0c1ccc	Polygame.7z <>
-d491ccd01ede502fd20471b04431ea19	Polygame.7z <>
-d511516013b28e49d4310100f4c4046a	Polygame.7z <>
-d8a49d305d0e267021efccd95a4d9c45	Polygame.7z <>
-da27f024834b0c175d62c7f9fff53ac0	Polygame.7z <>
-dae37c6a3e2bb8f14b8ea982954fcdba	Polygame.7z <>
-db60f13e537995c2947e9d53ce553e83	Polygame.7z <>
-dbc3ea9c52f68ea7e38b86d6aadbe113	Polygame.7z <>
-df43fb5b6eb088131314a6f477810952	Polygame.7z <>
-e9f59f3efc77170d516789ba78349926	Polygame.7z <>
-f0a5586d03629e071dbe475f9a54996d	Polygame.7z <>
-f3f80dacc87a659da8420a2a94f99a69	Polygame.7z <>
-f4012a7d9d18e4ed5e2dddb66a05243f	Polygame.7z <>
-f4d1bf1a316bf38cf7e801f72435de4a	Polygame.7z <>
-f568d6f7f4f60f404a3497e35162db4a	Polygame.7z <>
-f696d5c2851e4410976032060e7366a5	Polygame.7z <>
-f6b3ac898a030a99c99a16113926137e	Polygame.7z <>
-f83d4c685847d3e8fb7bac02a870ae3c	Polygame.7z <>
-f9d4402dc5d58e99866da7ec715c3e8d	Polygame.7z <>
-fbc695752efaad6b829cea6ba6ab1454	Polygame.7z <>
-fc61450d3f31b46b6197c42e6b047f47	Polygame.7z <>
-fd450d22ca17ef7997e4a84dd1ef522a	Polygame.7z <>
-fd89f69f816b473735963caeb2da1b99	Polygame.7z <>
-fdd0ea199e1bf97e9bb0163903217a17	Polygame.7z <>
-fe919c92c34ef3d5e4fbb61e373103b4	Polygame.7z <>
-ff89940b7cf1e5f2c6c555b1e91ca186	Polygame.7z <>
 683369c9f5c15b0c10c0a1bcb55b8952	pompingw.7z <Pomping World (Japan)>
 4d7eb05f501d06d1db52565c00599e37	ponpoko.7z <Ponpoko>
 39d011df5d9a5ab2b429026b51e43a7e	ponpokov.7z <Ponpoko (Venture Line)>
@@ -3857,6 +3972,7 @@ fde27e470207e146b29b8906826589cb	porter.7z <Port Man (bootleg on Moon Cresta har
 1af19b31462db6cef905e86dbdeca156	poundforj.7z <Pound for Pound (Japan)>
 fda8ed9829503b227cbc1542b90c5df3	poundforu.7z <Pound for Pound (US)>
 30d7e0494351def45591fccb21d3510b	pow.7z <P.O.W. - Prisoners of War (US version 1)>
+45f756c0f3dc53fe0960924789c036b9	powa.7z <P.O.W. - Prisoners of War (US version 1, mask ROM sprites )>
 742ec8b592014f878418eecd16ca8c9a	powerdrv.7z <Power Drive>
 9f5c99c44c69a3610465b0d6517e7975	powerins.7z <Power Instinct (USA)>
 9c8d92ace0f926624ff40dd47e5f0ca6	powerinsa.7z <Power Instinct (USA, bootleg set 1) [Bootleg]>
@@ -3870,7 +3986,8 @@ d519ffdf2421cfcdadd9b995e1e65467	powerinspj.7z <Gouketsuji Ichizoku (Japan, prot
 da9a6f9cb0d57e025b44d1d4955aa90a	ppchamp.7z <Pasha Pasha Champ Mini Game Festival>
 9b67d5910014ec72d3f59a3d9e9772f3	ppmast93.7z <Ping Pong Masters '93>
 a26ad1942ced06106b6232c0c5763560	pprobe.7z <Planet Probe (prototype?)>
-9ea695f8a32ddd4d0366990a99812bff	prehisle.7z <Prehistoric Isle in 1930 (World)>
+9ea695f8a32ddd4d0366990a99812bff	prehisle.7z <Prehistoric Isle in 1930 (World, set 1)>
+d2dcca7fa8da29b58a7003492300ae1f	prehislea.7z <Prehistoric Isle in 1930 (World, set 2)>
 5e7f8b2b5d654abffd79170e2c0721f0	prehisleb.7z <Prehistoric Isle in 1930 (World, bootleg) [Bootleg]>
 9493c6625d236af5e814f232511b5e56	prehislek.7z <Prehistoric Isle in 1930 (Korea)>
 a4bfd16b644c0e1436ee0d0df460a942	prehisleu.7z <Prehistoric Isle in 1930 (US)>
@@ -3901,8 +4018,10 @@ b1b74159102ce567dccf4140f6647aa1	psurge.7z <Power Surge>
 467dc3767af125f37b839e2426e1ee52	psychos.7z <Psycho Soldier (US)>
 d0c0c1a5ff27b8e4eae899deb5ecb87a	psychosj.7z <Psycho Soldier (Japan)>
 ea6ae6a430a51c592c622edf7fdf80f7	pturn.7z <Parallel Turn>
+9ec6567989fb9effe58c4756db861a19	pubball.7z <Power Up Baseball (prototype)>
 aee33ea411017ace5a738b81bb4f183f	puchicar.7z <Puchi Carat (Ver 2.02O 1997/10/29)>
 e95b9d0df8e37f9731f3e0407f4c69d1	puchicarj.7z <Puchi Carat (Ver 2.02J 1997/10/29)>
+49f30d8f745425c9d5281adb7cfc18ed	puchicaru.7z <Puchi Carat (Ver 2.04A 1997/11/08)>
 7775842918a8f43b7f3caf433e8327b7	puckman.7z <Puck Man (Japan set 1)>
 544d612494997995f24f3fe55809139c	puckmanb.7z <Puck Man (Bootleg set 1)>
 23f5dc8e0834ee7ae48bd13d3cb0be55	puckmanf.7z <PuckMan (speedup hack)>
@@ -3936,9 +4055,19 @@ f72dea49281d1d44f63e475cc5820b52	pushman.7z <Pushman (Korea, set 1)>
 1d6d60cfcd5c22dd09516eddc70a0207	puzlbang.7z <Puzzle Bang Bang (Korea, version 2.9 / 990108)>
 fb652361fdc05e719a11d55c1d39f273	puzlbanga.7z <Puzzle Bang Bang (Korea, version 2.8 / 990106)>
 97609c146c1bb1137976e339bde0278f	puzlclub.7z <Puzzle Club (Japan prototype)>
+2ae65f0b027970d26b5917d196874944	puzlstar.7z <Puzzle Star / Mohuan Xingzuo (ver. 100MG, 09/30/99 build) [Incomplete dump]>
+3ee543148e96ee9fcc34ccb10ddb58a2	puzlstara.7z <Puzzle Star / Mohuan Xingzuo (ver. 100MG, 09/20/99 build) [Incomplete dump]>
 f2355cb34ba42613d52eaf5a2226c8ad	puzzlekg.7z <Puzzle King (Dance &amp; Puzzle)>
+818fc6174a10ded078f0b0118870c1d1	puzzli2.7z <Puzzli 2 (V100, China) [Incomplete dump]>
+b1bddc4684b58eb1070a15e7bb0f7193	puzzli2s.7z <Puzzli 2 Super (V200) [Incomplete dump]>
 ef087c601e7294f2b111462a6eddc3cd	puzzli.7z <Puzzli (revision B)>
 f7747c167b17fc9866f95f90cc0974d8	puzzlia.7z <Puzzli (revision A)>
+26cdb87b749f4fe2184fe44627b8097c	puzzloop.7z <Puzz Loop (Europe, v0.94)>
+4a0a04164019dace81f225a3b6f3a91c	puzzloopa.7z <Puzz Loop (Asia)>
+a1c1b416e5e0100fd3a107120ab2c4fd	puzzloope.7z <Puzz Loop (Europe, v0.93)>
+6d328aca58443935f065a582c4685bcc	puzzloopj.7z <Puzz Loop (Japan)>
+a2d265ecab429a1535caf42668756d27	puzzloopk.7z <Puzz Loop (Korea)>
+11e2b75df3c039f127eb8959959e7fad	puzzloopu.7z <Puzz Loop (USA)>
 9138cc37fe9f42eee85cee91829123c0	puzzlove.7z <PuzzLove>
 5b1d5c3b2aca4ef7032e040064e73498	puzzlovek.7z <PuzzLove (Korea)>
 836a74f0c3af045fd7692c491f1d6de5	puzznic.7z <Puzznic (World)>
@@ -3952,6 +4081,8 @@ aad15d05c8c8603946214d463637aed4	pwrgoal.7z <Taito Power Goal (Ver 2.5O 1994/11/
 ef85a049d9f4cb0e23a26a95c1e284f3	pwrinst2.7z <Power Instinct 2 (USA, ver. 94/04/08)>
 383cc84f4c8a6ae0f24494b0c60dc64d	pwrinst2j.7z <Gouketsuji Ichizoku 2 (Japan, ver. 94/04/08)>
 eb3bc8ae5ed01698cf4ef895e24f3fea	pwrinst2k.7z <Power instinct 2 (Korea, ver. 94/04/08)>
+494654f295404810d75c5837d15dcd36	py2k2100.7z <Photo Y2K 2 (V100, japan)>
+6069db1cd1a9e6fd51785611cfe2d9d7	py2k2.7z <Photo Y2K 2 (VM101XX, China)>
 cc5146af83f4c690307ba8ba9ba9dc10	pyros.7z <Pyros (US)>
 5c4bae9c81162ecaad8e7179c5d812d5	pzlbowl.7z <Puzzle De Bowling (Japan)>
 a4e649c4c9ba6ae48acb2cabb2c14c28	pzlbreak.7z <Puzzle Break>
@@ -4011,6 +4142,7 @@ e6ff3b804a3491fcdd13c8cf47971d54	qzshowby.7z <Quiz Sekai wa SHOW by shobai (Japa
 dac3168ad5f3fde5a5544a4f92d3531c	r2dx_v33.7z <Raiden II New / Raiden DX (newer V33 PCB) (Raiden DX EEPROM) [Terrible sound quality is normal for this game, use Raiden DX instead!]>
 08b015e3d36ba81fffe7ea9f2f23273e	r2dx_v33_r2.7z <Raiden II New / Raiden DX (newer V33 PCB) (Raiden II EEPROM) [Terrible sound quality is normal for this game, use Raiden II instead!]>
 a51e47f646375ab6bf5dd2c42d3e6181	rabbit.7z <Rabbit (Asia 3/6)>
+ee02de65f8cd6cc83f03a86f61757c7e	rabbitj.7z <Rabbit (Japan 3/6?)>
 b12000b5650fb56226eb18dd0234504a	rabbitjt.7z <Rabbit (Japan, location test)>
 82798779c53ec7882ca4c9f0827c86ef	rabiolep.7z <Rabio Lepus (Japan)>
 3f5b31f8506cfb9a606553978da02d9f	raccoon.7z <Raccoon World>
@@ -4022,8 +4154,13 @@ e66df5796f29acd04d580d5836e8e5e1	rackemup.7z <Rack 'em Up (program code L)>
 8d106f617865d8f5626105b4dc28e068	racknrol.7z <Rack + Roll>
 2d9fbd9f6b9c62afe0d9ab43f32def5d	radarscp1.7z <Radar Scope (TRS01) [No sound / Gfx Issues]>
 e9adb15fe6258fa646cb680388be382e	radarscp.7z <Radar Scope [No sound]>
+f16420706d86d9778bbdf2fe39f5cb9d	radm.7z <Rad Mobile (World)>
+707cda8c225f5a0dc7e6be36e655841e	radmu.7z <Rad Mobile (US)>
+1cc1292e99b37e4d3cbd2b4c91f9e020	radr.7z <Rad Rally (World) [Small GFX Issues]>
 612abdce80cf2090a4bd8425c1bff79e	radrad.7z <Radical Radial (US)>
 5dbd5436876af5ccc0eea5fb7639c86f	radradj.7z <Radical Radial (Japan)>
+6dc5e96018913ef391b54b9f4f898d0a	radrj.7z <Rad Rally (Japan) [Small GFX Issues]>
+9f58ded1336bc802ddbc8e3102e8a5ab	radru.7z <Rad Rally (US) [Small GFX Issues]>
 ce2c411de02040cb4fd670fa8961bc29	raflesia.7z <Rafflesia (315-5162)>
 9b519c4dceb4327521e6af1ab03f9ec1	ragtime.7z <The Great Ragtime Show (Japan v1.5, 92.12.07)>
 752077bb362510f198032f8ce0fcd028	ragtimea.7z <The Great Ragtime Show (Japan v1.3, 92.11.26)>
@@ -4104,6 +4241,7 @@ eda1ae4204bdc9068ae02162015e84d7	rayforce.7z <Ray Force (Ver 2.3A 1994/01/20)>
 38832362f6a288f8d24511adf64a0f5e	rbisland.7z <Rainbow Islands (new version)>
 973b5fb5ed453a8bf76cc8ef009ce1ec	rbislande.7z <Rainbow Islands (Extra)>
 5341f7fcaf30ffe9bedf348d7445e52d	rbislando.7z <Rainbow Islands (old version)>
+17f2b6dac6d972045e777a8a13f8ea1c	rbtapper.7z <Tapper (Root Beer)>
 de1bd0fa33add65e9a2b45d1ee31f715	rchase.7z <Rail Chase (World)>
 ae11c0ff123de7a3933cc722ad0445e9	rchasej.7z <Rail Chase (Japan)>
 f7942a017b67184acf4bf39cd01eaa61	rdaction.7z <Rad Action / NinjaKun Ashura no Shou>
@@ -4123,6 +4261,7 @@ e48007d4f743acf037927db985d1f858	redhawkb.7z <Red Hawk (horizontal, bootleg)>
 c08ce3c0fde9c4cb77463c219b9303d5	redhawkg.7z <Red Hawk (horizontal, Greece)>
 df07b82f78c5a3892d39f37d6eec9698	redhawki.7z <Red Hawk (horizontal, Italy)>
 bccd0236978e3be2742ab6a89beef6f8	redhawkk.7z <Red Hawk (Korea)>
+9e1db4538c20b870b065cc137ee65e04	redhawks.7z <Red Hawk (horizontal, Spain)>
 f6da91d3248d36adb6597803a4ea324c	redrobin.7z <Red Robin>
 331a48537f79e607e5ffb160fabc7a44	redufo.7z <Defend the Terra Attack on the Red UFO>
 1f438e138d123a09bee164648786e774	redufob2.7z <Defend the Terra Attack on the Red UFO (bootleg, set 2) [Bootleg]>
@@ -4144,6 +4283,8 @@ a90ef73f95dab5c63b8599da6c6b971b	retofinvb1.7z <Return of the Invaders (bootleg 
 5fa1597f20a61eafc5dd9b18e49088d2	retofinvb.7z <Return of the Invaders (bootleg w/MCU) [Bootleg]>
 dd3519a977b5959563a8b21542b3ba0c	revenger.7z <Revenger '84 (set 2) [Bad dump]>
 0002b15b025299135f3db87bd661675d	revngr84.7z <Revenger '84 (set 1)>
+08a2bbb8b4eb45a2d887ce4b76fd0117	revx.7z <Revolution X (rev 1.0 6/16/94)>
+85e1e109b56b9ba51ae6070f6d92721b	revxp5.7z <Revolution X (prototype, rev 5.0 5/23/94)>
 3d72301f8157fa23f1851bb1d43ef133	rezon.7z <Rezon>
 968011d0a3dff79cbb5a00cdd5132187	rezont.7z <Rezon (Taito)>
 a20990097370a570a2caad4ab750050e	rf2.7z <Konami RF2 - Red Fighter>
@@ -4153,6 +4294,7 @@ a20990097370a570a2caad4ab750050e	rf2.7z <Konami RF2 - Red Fighter>
 6a4a5d61f7f544797513492dec7da10f	ridleofp.7z <Riddle of Pythagoras (Japan)>
 8c3aa38f1a711497ca884b310cd2c90c	ringdest.7z <Ring of Destruction - slammasters II (940902 Euro)>
 bb2a7402cf5341a0abd89fdb6e6966e6	ringdesta.7z <Ring of Destruction - slammasters II (940831 Asia)>
+fb56289d56702399956b73aae6d2ed96	ringdestb.7z <Ring of Destruction - slammasters II (940902 Brazil)>
 ebe2f1234b12f4613b40aae325931393	ringdesth.7z <Ring of Destruction - slammasters II (940902 Hispanic)>
 bece8c9d81d7894891f8d9c7ffaf0ba6	ringdstd.7z <Ring of Destruction - slammasters II (940902 Euro Phoenix Edition) [Bootleg]>
 1bbcfa7e9afa7287e7569036626ebdca	ringfgt2.7z <Ring Fighter (set 2)>
@@ -4167,12 +4309,13 @@ f7cf9142f472166f958b8f2744c7ea61	ringragej.7z <Ring Rage (Ver 2.3J 1992/08/09)>
 40682bb48ce5d4ee0f8500373f37ccf4	ringrageu.7z <Ring Rage (Ver 2.3A 1992/08/09)>
 2f53086555b7fbb940ce78616ff212e5	riot.7z <Riot>
 1a5235c012c18789e81960333a76cd7a	riotcity.7z <Riot City (Japan)>
+f1cca43b281fb01edd0b1c67f766b685	riotw.7z <Riot (Woong Bi license)>
 dc0d7b431a77d4138cc3429fcba5791c	riskchal.7z <Risky Challenge>
 3027c48a0cb80146a686bc5d45d50be6	rittam.7z <R&amp;T (Rod-Land prototype?)>
 463788e962ac54b4aa6868a8f188b3ff	rjammer.7z <Roller Jammer>
 01f0fbe8b2809e98aab354f8065b4ab5	rmancp2j.7z <Rockman: The Power Battle (950922 Japan)>
-f3426709eb2a7fa7070afbb08eb6990d	rmpgwt11.7z <Rampage: World Tour (rev 1.1) [Player #2 not working, please use Player #3]>
-944a4ec78f595dff85609d84b761d4db	rmpgwt.7z <Rampage: World Tour (rev 1.3) [Player #2 not working, please use Player #3]>
+f3426709eb2a7fa7070afbb08eb6990d	rmpgwt11.7z <Rampage: World Tour (rev 1.1)>
+944a4ec78f595dff85609d84b761d4db	rmpgwt.7z <Rampage: World Tour (rev 1.3)>
 a9763a7d760d51fb6e0c91a9892f1951	roadf2.7z <Road Fighter (set 2)>
 8b80c76406d193fe0bc76d3b4b6fe738	roadf3.7z <Road Fighter (set 3, conversion hack on Hyper Sports PCB)>
 a8a5d7ef0adbe978a3b1179ef6d0533b	roadf.7z <Road Fighter (set 1)>
@@ -4195,6 +4338,7 @@ bf600d3a82b5fd93bc4bf0812808ffb6	robotron12.7z <Robotron: 2084 (2012 'wave 201 s
 656aefb80b236d5e86412607b50e5156	robotron.7z <Robotron: 2084 (Solid Blue label)>
 f70a3aaaf6335095878d40d28f840d1a	robotron87.7z <Robotron: 2084 (1987 'shot-in-the-corner' bugfix)>
 49e8b0db9eb0242b35d68fd3d83e350a	robotrontd.7z <Robotron: 2084 (2015 'tie-die V2' hack)>
+15c0387de1dda60715f2e0bbc2e738f5	robotronun.7z <Robotron: 2084 (Unidesa license)>
 a7a62340c122a10a5ba73cf69cbfecf0	robotronyo.7z <Robotron: 2084 (Yellow/Orange label)>
 434f9385222fe3e7c4fb6219a7060290	robowres.7z <Robo Wres 2001>
 8c9b57dc0f502e1670bd0becbb5ac53f	rockclim.7z <Rock Climber>
@@ -4239,7 +4383,8 @@ f5d0fcabe37ae86a18d493b51b648f95	roundup.7z <Round-Up>
 d9b684a99ba5d1c2d675b5e6a7a70f3d	route16b.7z <Route 16 (Centuri license, set 2)>
 0795de22c680fafe0aeee41503dfef7a	route16bl.7z <Route 16 (bootleg) [Bootleg]>
 9a549d715a0bee443966f0b547991bce	route16c.7z <Route 16 (Centuri license, set 3, bootleg?)>
-95daa31384fd76bf92b6163f7cafe2c4	routex.7z <Route X (bootleg) [Bootleg]>
+95daa31384fd76bf92b6163f7cafe2c4	routex.7z <Route X (bootleg, set 1) [Bootleg]>
+9da59213e82086be6fbf4d6f816e2538	routexa.7z <Route X (bootleg, set 2) [Bootleg]>
 c5d4c5917b39b5e57844b610c7bdeaeb	rpatrol.7z <River Patrol (Japan)>
 3f0b81cfa96f942e0498d3974ce52070	rpatrolb.7z <River Patrol (bootleg)>
 e2c4f53b353e309adccac175b69cdd26	rpatroln.7z <River Patrol (Japan, unprotected)>
@@ -4275,7 +4420,9 @@ a55ee6f3cd0ab377c3391e0eacadbd4d	rygar2.7z <Rygar (US set 2)>
 7740567d63e6d327a421420eb2d0d64d	rygarb.7z <Rygar (US, bootleg) [Bootleg]>
 f0e967b90bfedf86b73c8ed8c47146c5	rygarj.7z <Argus no Senshi (Japan)>
 d43a5bdeb0e39963756dd2bae97fe6de	ryorioh.7z <Gourmet Battle Quiz Ryohrioh CooKing (Japan)>
-9f368db55e39a12c1d7a58f244289d53	ryujin.7z <Ryu Jin (Japan)>
+5505d2617252a63de7a9c95f467a1e2d	ryouran.7z <VS Mahjong Otome Ryouran>
+9f368db55e39a12c1d7a58f244289d53	ryujin.7z <Ryu Jin (Japan, ET910000B PCB)>
+aac9eee3d31423f0f11e5920f0416d3c	ryujina.7z <Ryu Jin (Japan, ET910000A PCB)>
 cd3e6826d3198479eaf2646cd5d19c5a	ryukendn.7z <Ninja Ryukenden (Japan, set 1)>
 5f833226c40c1df88c3782c23b90c8fc	ryukendna.7z <Ninja Ryukenden (Japan, set 2)>
 0716807b38d5a98ff8a77472e58e3e4e	ryukyu.7z <RyuKyu (Rev A, Japan) (FD1094 317-5023A)>
@@ -4300,6 +4447,7 @@ bcd75557ddec081c756e44ec64c490ed	sagaia.7z <Darius II (dual screen) (World)>
 1ff635b6dd49c1b03bb02c35c3823cf6	sailormn.7z <Pretty Soldier Sailor Moon (ver. 95/03/22B, Europe)>
 93bcf8b688372946a418bb8b2d196c7e	sailormnh.7z <Pretty Soldier Sailor Moon (ver. 95/03/22B, Hong Kong)>
 6fea1b51387e327e43e06222b2755b4e	sailormnj.7z <Pretty Soldier Sailor Moon (ver. 95/03/22B, Japan)>
+79dd31b7e2528f963ab36680fec67e5f	sailormnjee.7z <Pretty Soldier Sailor Moon (Enhanced Edition v5 Final, Hack) [Hack, Hack only enable in Extra Hard]>
 4cf21eba2b4d94138d3a86ce0a25c7ed	sailormnk.7z <Pretty Soldier Sailor Moon (ver. 95/03/22B, Korea)>
 9b3e01d91b222d6cb658d379ef28981a	sailormnn.7z <Pretty Soldier Sailor Moon (ver. 95/03/22, Europe)>
 30fb6d63537a69562254ec79058cfa6d	sailormnnh.7z <Pretty Soldier Sailor Moon (ver. 95/03/22, Hong Kong)>
@@ -4330,13 +4478,15 @@ f68e0c686824aee149981230e1d877c2	sandscrp.7z <Sand Scorpion>
 9fb28633fe3e01bc5dc367dfca836968	sandscrpa.7z <Sand Scorpion (Earlier)>
 15adf4f3b88945b235b1de910729f390	sandscrpb.7z <Sand Scorpion (Chinese Title Screen, Revised Hardware)>
 4511589f1f30dd06e67656f28693a937	sarge.7z <Sarge>
+326a12dca0b443484c83819e4540cb24	sarukani.7z <Saru-Kani-Hamu-Zou (Japan)>
 93207db25ad357906be2fd0c3f65f3dc	sasuke.7z <Sasuke vs. Commander>
 20415daf1687523c619d3f6b0221e498	satansat.7z <Satan of Saturn (set 1)>
 bf1c33853f7b84519036ba9ad9fc224a	satansata.7z <Satan of Saturn (set 2)>
 95074f61c0d53b6b91ab633efeb92145	satansatind.7z <Satan of Saturn (Inder S.A., bootleg)>
 ca01eaf4db80bd5b4e8478ba6f013876	sathena.7z <Super Athena (bootleg)>
 2352d0475a61ea486398d6557d83ea67	saturnzi.7z <Saturn>
-06a52e8ab3d7a00e04a026a3a3087f9c	sauro.7z <Sauro>
+06a52e8ab3d7a00e04a026a3a3087f9c	sauro.7z <Sauro (set 1)>
+8eb7df8a44e60fbfc0498bd1a9266479	sauroa.7z <Sauro (set 2)>
 27f5f8fbd1671177fb50476b26e23d15	saurob.7z <Sauro (bootleg) [Bootleg, Missing speech is normal]>
 6c1beb1516139a3f108d77fabefb82fd	saurop.7z <Sauro (Philko license)>
 2ec77e29bb13e45352b24144e32eeaa4	saurorr.7z <Sauro (Recreativos Real S.A. license)>
@@ -4369,9 +4519,11 @@ e982627c8e893fea923cea43cbc05f5c	sboblboblf.7z <Super Bobble Bobble (bootleg, se
 d573570181aadc647a5d6e745b8ce6b2	sbomber.7z <Space Bomber (ver. B)>
 fabb7684bfd25b2fd276b6a182ad6074	sbombera.7z <Space Bomber>
 0cd7891af05634026cfb2a716dc3e890	sbsgomo.7z <Space Battle Ship Gomorrah>
+7cacf417e62c6073c441980350248ef7	sbubsm.7z <Super Bubble Bobble (Sun Mixing, Megadrive clone hardware)>
 2895ce2062fa6717351db47edc3b3e27	scessjoe.7z <Success Joe (World) [Incomplete sound]>
-8471d107e0f53a881ed8a79f91ead243	scfinals.7z <Super Cup Finals (Ver 2.2O 1994/01/13) [Use service coin! (game has issues)]>
-a90bedece3243d2a94e194faf55897f0	scfinalso.7z <Super Cup Finals (Ver 2.1O 1993/11/19) [Use service coin! (game has issues)]>
+8471d107e0f53a881ed8a79f91ead243	scfinals.7z <Super Cup Finals (Ver 2.2O 1994/01/13, single PCB) [Use service coin! (game has issues)]>
+a90bedece3243d2a94e194faf55897f0	scfinalso.7z <Super Cup Finals (Ver 2.1O 1993/11/19, single PCB) [Use service coin! (game has issues)]>
+9e3ee06bb2efc3313a5d1a5245f0647f	scfinalsoc.7z <Super Cup Finals (Ver 2.1O 1993/11/19, F3 Cartridge) [Use service coin! (game has issues)]>
 a27ff170490b53bcd026fc265feb4751	schmeisr.7z <Schmeiser Robo (Japan)>
 a76f2c01be007dbd8c7fdb01a4ec6115	sci.7z <Special Criminal Investigation (World set 1)>
 7944fde379e2bd9ff4c71759bf357670	scia.7z <Special Criminal Investigation (World set 2)>
@@ -4408,6 +4560,9 @@ a76551efa32d74369b9c926507ba84f9	scramble.7z <Scramble>
 7669e8dfb6e04d059537b7077749d873	scramrf.7z <Scramble (Recreativos Franco, Spanish bootleg) [Bootleg]>
 e7a85f48b88b1b6f346d5b2d401ffb57	scregg.7z <Scrambled Egg>
 2794611c58ece23f6db09cde4651f06b	screwloo.7z <Screw Loose (prototype) [Prototype]>
+20268d75cf05b027ff54e66092bd24e7	scross.7z <Stadium Cross (World)>
+2aa7f8c2e1a50b1dc2a265c608e25fe9	scrossa.7z <Stadium Cross (World, alt)>
+5efd69501d799128028fadb6d6ea6234	scrossu.7z <Stadium Cross (US)>
 c14a63ee8f37668d3e8842a7edc039d3	scudhamm.7z <Scud Hammer>
 969df3bcc13a6e89218ac3d513f660ed	sdfight.7z <SD Fighters (Korea)>
 b4d51969e63b9d2c79888c64f32b6588	sdgndmps.7z <SD Gundam Psycho Salamander no Kyoui>
@@ -4432,7 +4587,9 @@ b79a50482558e5df5bbcdafbacbf4753	searchp2.7z <Search Eye Plus V2.0>
 a0ec0556886112bd1750e0b668a80a23	secretagj.7z <Secret Agent (Japan revision 2)>
 25691f4ce727ab0ee9c95f01de835f68	sectionz.7z <Section Z (set 1)>
 cd9bfc6a4b7bcb6aa252162f9f939073	sectionza.7z <Section Z (set 2)>
-2689b4f0ef2e8a84b0c466e4683207f9	sectrzon.7z <Sector Zone>
+2689b4f0ef2e8a84b0c466e4683207f9	sectrzon.7z <Sector Zone (set 1)>
+3ef833d3f93e3ab1b67b927718972c88	sectrzona.7z <Sector Zone (set 3)>
+24d886889f3e7abbdeb395536790b4be	sectrzont.7z <Sector Zone (set 2, Tecfri hardware)>
 75ef41259d0cb638f57d1f7f3cc660a4	seganinj.7z <Sega Ninja (315-5102)>
 f2be450f27814bae8f392a043ff27b48	seganinja.7z <Sega Ninja (315-5113) [needs decrypting]>
 185f4c384b65c04eaaa7b75a19d383d5	seganinju.7z <Sega Ninja (not encrypted)>
@@ -4440,7 +4597,10 @@ a57c4c4eeee6ba6f3777012ab6df7548	seicross.7z <Seicross (set 1)>
 9d662f8695755233a7d7ea77d4d27892	seicrossa.7z <Seicross (set 2)>
 38875bc0cc282de65ea2cc1ef2538410	selfeena.7z <Sel Feena>
 8dadea98835fe086218db6f12b34fc28	semibase.7z <MuHanSeungBu (SemiCom Baseball) (Korea)>
+ddaa74757a959e2fc8c56371e692dd01	sengekis.7z <Sengeki Striker (Asia)>
+a0f4529ed20559318d33c2c353976661	sengekisj.7z <Sengeki Striker (Japan)>
 336afcd6261541a5eea10d5f8d733529	senjyo.7z <Senjyo>
+29cf33529ce9752a089f87f4e367c945	senknow.7z <Sen-Know (Japan)>
 76a8226d4787359b3da77f51460a1c0c	setaroul.7z <Visco Roulette>
 a7946d9b269b67f7a6b1148d3f5d8155	sf2.7z <Street Fighter II - The World Warrior (910522 World)>
 4bfdb9a93e89fc4588ae6748a0752d19	sf2acc.7z <Street Fighter II' - Champion Edition (Accelerator! bootleg set 1, 920313 USA) [Bootleg]>
@@ -4460,14 +4620,14 @@ b39631e46abc904cea6767737fb365eb	sf2acca.7z <Street Fighter II' - Champion Editi
 9e2a07777def2305b8c4f10f98a2cc43	sf2b.7z <Street Fighter II - The World Warrior (bootleg, 910214 etc, set 1 (with YM2151 + 2xMSM5205)) [Bootleg, row scroll issues]>
 5c1b35dd5caf928195a305eb509f1aaa	sf2bhh.7z <Street Fighter II' - Champion Edition (Hungh-Hsi bootleg, 920313 Taiwan) [Bootleg]>
 48165021fdb6d258a054008f3ee85bdf	sf2ce.7z <Street Fighter II' - Champion Edition (street fighter 2' 920513 World)>
+c59177c3b0e3887515e4d518923e7613	sf2ceb2.7z <Street Fighter II' - Champion Edition (bootleg, set 1) [Bootleg]>
+dc26072e919211aa7923e80949674445	sf2ceb3.7z <Street Fighter II' - Champion Edition (bootleg, set 2) [Bootleg]>
+354909508d55757fb9facab3de9b4c08	sf2ceb4.7z <Street Fighter II' - Champion Edition (Playmark bootleg, set 2) [Bootleg]>
+186892507a31639075a73b7efc184c53	sf2ceb5.7z <Street Fighter II' - Champion Edition (Playmark bootleg, set 3) [Bootleg]>
 6cbbe42af482f0a14820de1338540847	sf2ceb.7z <Street Fighter II': Champion Edition (Playmark bootleg, set 1) [Bootleg]>
-64928d4d3afef43d42645a70078424ef	sf2ceba.7z <Street Fighter II': Champion Edition (Playmark bootleg, set 2) [Bootleg]>
 622f8efb232ea1a344b0fea6500764c1	sf2cebltw.7z <Street Fighter II' - Champion Edition (920313 'Taiwan' bootleg with PAL) [Bootleg]>
 26b459983225113f31bdd838753ef907	sf2ceea.7z <Street Fighter II' - Champion Edition (street fighter 2' 920313 World)>
 57ffe9bbad9f83ded5109c73a0739755	sf2ceeab2.7z <Street Fighter II' - Champion Edition (920313 etc bootleg set 2) [Bootleg]>
-967d91722399f7ca4d3a4b458eaab242	sf2ceeab3.7z <Street Fighter II' - Champion Edition (920313 etc bootleg set 3) [Bootleg]>
-6c5366d6dff8a86cf6e6a749b7a9d4c8	sf2ceeab4.7z <Street Fighter II' - Champion Edition (920313 etc bootleg set 4) [Bootleg]>
-4cd065b2a8cb45a2fc2639572814f0a9	sf2ceeab5.7z <Street Fighter II' - Champion Edition (920313 etc bootleg set 5) [Bootleg]>
 f2c340b0bf1eb3c2082d2268546c7e34	sf2ceeabl.7z <Street Fighter II' - Champion Edition (920313 etc bootleg set 1) [Bootleg]>
 236fd4ceebda79a16fe7ce2cdeebfefd	sf2ceja.7z <Street Fighter II' - Champion Edition (street fighter 2' 920322 Japan)>
 26452f0ff3af7dad9c3ebfdb586f670a	sf2cejab2.7z <Street Fighter II' - Champion Edition (920322 Japan bootleg set 2) [Bootleg]>
@@ -4529,6 +4689,8 @@ c603fe88ec2d57efe5c4607718438a3d	sf2mdta.7z <Street Fighter II' - Magic Delta Tu
 159fd9f9c27b601a25668a5b0f36fe17	sf2mdtc.7z <Street Fighter II' - Magic Delta Turbo (bootleg set 4 (with YM2151 + 2xMSM5205), 920313 etc) [Bootleg]>
 5d778aad233d6aa51c0f4a5024afa0d9	sf2mega2.7z <Street Fighter II' - Champion Edition (Mega Co bootleg set 2, 920313 etc) [Bootleg]>
 f29eb6bf2d8f9b22bde579000b76c17d	sf2mega.7z <Street Fighter II' - Champion Edition (Mega Co bootleg set 1, 920313 etc) [Bootleg]>
+59413a6ed9d6c0938f67338c6338a533	sf2mix.7z <Street Fighter II Mix (v0.99a) [Hack]>
+1df23d0fa2fcf4b6cf3b323d09a11f04	sf2mkot.7z <Street Fighter II' - Magic KO Turbo!! - Nightmare Crack [Bootleg]>
 e5c6fed45479aeb2ad90b90d77991a12	sf2qp1.7z <Street Fighter II - The World Warrior (Quicken Pt-I bootleg, 910214 USA) [Bootleg]>
 7168c810fbdaa73ce426fa1014b7b598	sf2qp2.7z <Street Fighter II - The World Warrior (Quicken bootleg, 910522 USA) [Bootleg]>
 d20e0107fab068f75f97dfdb0e147998	sf2rb2.7z <Street Fighter II' - Champion Edition (Rainbow bootleg set 2, 920322 etc) [Bootleg]>
@@ -4569,6 +4731,7 @@ bb7b83ba0ca12ccb73e1e9418c0b94e1	sf2v004.7z <Street Fighter II' - Champion Editi
 60d31eb37595dd44584be5ef363283e3	sf.7z <Street Fighter (US, set 1)>
 bc646bc7f733d3d8ef8e919bb28efd75	sfa2.7z <Street Fighter Alpha 2 (960229 Euro)>
 5270d551afd6753d1268312c96603236	sfa2u.7z <Street Fighter Alpha 2 (960430 USA)>
+1aca102c6abd808d2a6e0e9d2d55b360	sfa2uhc.7z <Street Fighter Alpha 2 - Unlock Hidden Characters (Hack By Yumeji)>
 d4309bbf30e2c522d41a0884bcbf974c	sfa2ur1.7z <Street Fighter Alpha 2 (960306 USA)>
 9d34a5ddda57b3fb20d85cbe9d708919	sfa3.7z <Street Fighter Alpha 3 (980904 Euro)>
 cce01b6a2eb049aa1fb52f4021c5fceb	sfa3b.7z <Street Fighter Alpha 3 (980629 Brazil)>
@@ -4640,11 +4803,13 @@ afde3c91c984f8b3e5591becf220d2df	sfz3a.7z <Street Fighter Zero 3 (980904 Asia)>
 07cea1ae8ed60c0442f84c5761598d24	sfz3jr1.7z <Street Fighter Zero 3 (980727 Japan)>
 0ba5cc44e0f0dc90c24a9186c944951d	sfz3jr2.7z <Street Fighter Zero 3 (980629 Japan)>
 1c5d5400fcd5eca310860e50e9800da2	sfz3jr2d.7z <Street Fighter Zero 3 (980629 Japan Phoenix Edition) [Bootleg]>
+ab8042f08d9b91a36d58bc26093da297	sfz3te.7z <Street Fighter Zero 3 Training Edition v1.1 (980629 Japan) [Hack]>
 335ec5bbe51031098cf0d53dc0171512	sfza.7z <Street Fighter Zero (950627 Asia)>
 cd1ccfc18dabd6c253298c577d82f179	sfzar1.7z <Street Fighter Zero (950605 Asia)>
 79df8e45ce92bde31350ed7875746a84	sfzb.7z <Street Fighter Zero (951109 Brazil)>
 aa00a3bfa9580f13aab1ce39ac7c5b34	sfzbr1.7z <Street Fighter Zero (950727 Brazil)>
 fe0d2fa88e9a8dc3b4ec7cb7fda63c20	sfzch.7z <Street Fighter Zero (CPS Changer, 951020 Japan)>
+8587138e85e4540ebe7f9baf441740b0	sfzcha.7z <Street Fighter Zero (CPS Changer, 040820 Japan)>
 29b09e7c484c77dabd979c66de9e76b0	sfzh.7z <Street Fighter Zero (950718 Hispanic)>
 cb27f0443b4a9b7a64b5b80d0aa6656e	sfzhr1.7z <Street Fighter Zero (950627 Hispanic)>
 dad56c492769e5947c01216ab94dfcb3	sfzj.7z <Street Fighter Zero (950727 Japan)>
@@ -4695,6 +4860,11 @@ bce36d75e5b5a16cfdbb3033096e4165	shdancbl.7z <Shadow Dancer (bootleg) [Bootleg]>
 48424ad10ad6f622bea5657cdc4cc729	shdancer1.7z <Shadow Dancer (set 1)>
 9881e54693cecb32b21c68bf05a047f5	shdancer.7z <Shadow Dancer (set 3, US)>
 4fce929c79b924904d8900c9e29d3d62	shdancerj.7z <Shadow Dancer (set 2, Japan)>
+44855a170c3e18056bc7cdea0865d5f5	shimpact.7z <Super High Impact (rev LA1 09/30/91)>
+77570995b8fb5803c1166cbbe343185b	shimpactp4.7z <Super High Impact (prototype, proto 4.0 09/10/91) [Prototype]>
+687ea2d9041be46849cc363f4668df3c	shimpactp5.7z <Super High Impact (prototype, proto 5.0 09/15/91) [Prototype]>
+5643a27e868c67b0f1cab8f38176d0e3	shimpactp6.7z <Super High Impact (prototype, proto 6.0 09/23/91) [Prototype]>
+cd6c1f8536f772b338bfce13e324e5b2	shinfz.7z <Shinobi / FZ-2006 (Korean System 16 bootleg) (ISG Selection Master Type 2006)>
 8599aebacbd23c568a256c8607e8419f	shinobi1.7z <Shinobi (set 1, System 16A, FD1094 317-0050)>
 f8d17152a9de473d36bd6692d7ebb3a4	shinobi1d.7z <Shinobi (set 1, System 16A, FD1094 317-0050 decrypted) [Bootleg]>
 289e594ab24f1d4e7a3e5b5690a67f24	shinobi2.7z <Shinobi (set 2, System 16B, FD1094 317-0049)>
@@ -4713,6 +4883,8 @@ f4d02b027e7bda2557613ee5649c801e	shinobls.7z <Shinobi (Star bootleg, System 16A)
 3f7aae564e51e45d627146342d812cf5	shogwarr.7z <Shogun Warriors (World)>
 f0586553b2ede2223425b308aa52a379	shogwarrk.7z <Shogun Warriors (Korea?)>
 638d0e76e356474cd01e5f5843a7e549	shogwarru.7z <Shogun Warriors (US)>
+46fdc141d54f33a918b38a7ba263116f	shollow2.7z <Satan's Hollow (set 2)>
+89570b41b9e3d56d4d8fea2c39c925c1	shollow.7z <Satan's Hollow (set 1)>
 8a7e3afa878642d2f14a53f88a1aec4f	shootbul.7z <Shoot the Bull [Analog inputs not hooked up]>
 b4128b0f88751af53941e2ea0f22ca45	shootout.7z <Shoot Out (US)>
 a1423cfc61606be723991f80530f11d5	shootoutb.7z <Shoot Out (Korean Bootleg) [Bootleg]>
@@ -4734,9 +4906,9 @@ af84d9198018522cff7423762ed7d511	sidearms.7z <Side Arms - Hyper Dyne (World, 861
 f4b015ef1ed346c502e3bea40bcb2b60	sidearmsu.7z <Side Arms - Hyper Dyne (US, 861202)>
 a868c9864f225a5361c295a26efbc7a4	sidearmsur1.7z <Side Arms - Hyper Dyne (US, 861128)>
 8506a07573f42a5431e02f85e578b610	sidepckt.7z <Side Pocket (World)>
-544b174bb22f371053d2f1e6cc0a2052	sidepcktb2.7z <Side Pocket (bootleg set 2) [Bootleg]>
-7e182a614a56a751d6c27a76aa36590c	sidepcktb.7z <Side Pocket (bootleg set 1) [Bootleg]>
-d187804d6e3e66ca5bfe5b2e36c533c7	sidepcktj.7z <Side Pocket (Japan)>
+544b174bb22f371053d2f1e6cc0a2052	sidepcktb2.7z <Side Pocket (bootleg, set 2) [Bootleg]>
+7e182a614a56a751d6c27a76aa36590c	sidepcktb.7z <Side Pocket (bootleg, set 1) [Bootleg]>
+d187804d6e3e66ca5bfe5b2e36c533c7	sidepcktj.7z <Side Pocket (Japan, Cocktail)>
 b60ab0d0e916d2cd4bb8cb605de51f8e	silentd.7z <Silent Dragon (World)>
 19751b1d40ed56322a0484c2cfeaf48c	silentdj.7z <Silent Dragon (Japan)>
 1cd5976e483840f5efb7e258d8abbaeb	silentdu.7z <Silent Dragon (US)>
@@ -4756,13 +4928,12 @@ c06f2f46f4ee6d00e8595d4710dc456e	simpsons2pj.7z <The Simpsons (2 Players Japan)>
 f835b77fd08d2340ac1438ea158a957b	simpsons4pa.7z <The Simpsons (4 Players Asia)>
 64fdfa81fcf477d6db9947bd786e308f	simpsons4pe.7z <The Simpsons (4 Players World, set 2)>
 39b4fb4846c99c1d41a4e015da0b60bc	simpsons.7z <The Simpsons (4 Players World, set 1)>
-3196ef5fffa00cff254085690bd0dd44	sinistar1.7z <Sinistar (prototype version)>
 4cad4894b6cf6a8aa4ae1c6bdeb1bd15	sinistar2.7z <Sinistar (revision 2)>
 14e7c5aef8b731fc89df34e1bf5fb355	sinistar.7z <Sinistar (revision 3)>
+ddad0c4e9451d44b7cfd1f29e45db6c9	sinistarp.7z <Sinistar (AMOA-82 prototype)>
 d07b95668a3446eb0d4f0739a44a1f77	sinvasn.7z <Space Invasion (Europe)>
 e67a6708acc24cd5540dae0aea22e00f	sinvasnb.7z <Space Invasion (bootleg) [Bootleg]>
-54dad9937c20badab3311f4d3df7e6ac	sirio2.7z <Sirio II (Calfesa S.L. Spanish Moon Cresta bootleg, set 1) [Bootleg]>
-c6aa2b625f1ad5b197860920f71d0406	sirio2a.7z <Sirio II (Calfesa S.L. Spanish Moon Cresta bootleg, set 2) [Bootleg]>
+54dad9937c20badab3311f4d3df7e6ac	sirio2.7z <Sirio II (Calfesa S.L. Spanish Moon Cresta bootleg) [Bootleg]>
 69d710a13c6cca2a5d74a9e25950f372	sisv1.7z <Space Invaders (SV Version rev 1)>
 8fc362c563ac6c3c39455f43f86db190	sisv2.7z <Space Invaders (SV Version rev 2)>
 b3cdaee2bd0810cc6e04fc590bb5f4c0	sisv3.7z <Space Invaders (SV Version rev 3)>
@@ -4774,6 +4945,7 @@ d3138db4b161e2f139d4423e66a0be20	sjryuko.7z <Sukeban Jansi Ryuko (set 2, System 
 f353b0de236452ca6c360ce88ed70635	skelagon.7z <Skelagon [Bad Dump]>
 5eb145ee40f583c5b43ac3d9701593dc	skingame2.7z <The Irem Skins Game (US set 2)>
 fddb9eaefb755528ce89ba52ad0fc159	skingame.7z <The Irem Skins Game (US set 1)>
+ebccf74f35dc152cda9536c0a6346ae3	skns.7z <Super Kaneko Nova System BIOS [BIOS only]>
 947c7f15900b556f58027f4114ab187c	skullfng.7z <Skull Fang (World)>
 6b97a8368a8350dd18f7616ffd74a42f	skullfnga.7z <Skull Fang (Asia)>
 84fc12e38d4ba1d00a4e326674a8d570	skullfngj.7z <Skull Fang (Japan)>
@@ -4806,20 +4978,29 @@ b396b57308c62245e997296edd8e5a9d	skywolf2.7z <Sky Wolf (set 2) [Bootleg]>
 d7397e5ebe80c9878f4ef0caf8f2ea9a	skywolf.7z <Sky Wolf (set 1) [Bootleg]>
 9f44b1bc800af7b4861d2de09017ed83	slammast.7z <Saturday Night Slam Masters (Slam Masters 930713 World)>
 46fdecb53038fc176fc4a8e72db4266e	slammastu.7z <Saturday Night Slam Masters (slam masters 930713 USA)>
-e8c9e789868b8efca335a64e10c8edad	slampic.7z <Saturday Night Slam Masters (bootleg (with PIC16c57), 930713 etc) [Bootleg, No Sound]>
+810d4ad1b75854ffd531d9f84cc91d36	slampic2.7z <Saturday Night Slam Masters (bootleg with PIC16C57, set 2, 930713 etc) [Bootleg, No Sound]>
+e8c9e789868b8efca335a64e10c8edad	slampic.7z <Saturday Night Slam Masters (bootleg with PIC16C57, set 1, 930713 etc) [Bootleg, No Sound]>
 73d6a4ad8ba46b255f33c32b94c989f7	slapfigh.7z <Slap Fight (A77 set, 8606M PCB)>
 dc3bbaf06ce9e9fa5017ed8ae9af6048	slapfigha.7z <Slap Fight (A76 set, GX-006-A PCB)>
 e2ab9158b20334e6f394265d96c65e52	slapfighb1.7z <Slap Fight (bootleg set 1) [Bootleg]>
 2c7cd279864ed300604ddfae172c008c	slapfighb2.7z <Slap Fight (bootleg set 2) [Bootleg]>
 73450bfe4a3bc6b85a02202bce13c7e4	slapfighb3.7z <Slap Fight (bootleg set 3) [Bootleg]>
-f3f8d7edcb9ac392250f2571fccc7dad	slapshot.7z <Slap Shot (Japan)>
+f3f8d7edcb9ac392250f2571fccc7dad	slapshot.7z <Slap Shot (Ver 3.0 O)>
+512b86c019e08d63852226e87e03f41f	slapshotj.7z <Slap Shot (Ver 2.2 J)>
 4e7f01b88b955245cec30c7124d97c2b	slapshtr.7z <Slap Shooter>
+bf9939aa9089ea70812face81e5715a9	slipstrm.7z <Slip Stream (Brazil 950515)>
+8f608974867e657d9a423ae3503569c8	slipstrmh.7z <Slip Stream (Hispanic 950515)>
 e476afe4775283cf461671663a323026	slither.7z <Slither (set 1) [Press 'P2 Start' to exit settings screen]>
 72789a7f2da45ad1f13417a0a4e1ecb5	slithera.7z <Slither (set 2) [Press 'P2 Start' to exit settings screen]>
 ef043f0a831a28728758f4b2bd4eb7db	slspirit.7z <Solite Spirits>
 10fab8025cd9954e88d775d616135eb8	slyspy2.7z <Sly Spy (US revision 2)>
 8919e6352f3ae1a8d4ea7d3ed9f61d0e	slyspy3.7z <Sly Spy (US revision 3)>
 9af086d5400784f13247d30df7063022	slyspy.7z <Sly Spy (US revision 4)>
+3591a5954b62b85f9c28820916498415	smashtv3.7z <Smash T.V. (rev 3.01)>
+9de8412faa0a4f75ed0db3cb9fa00c24	smashtv4.7z <Smash T.V. (rev 4.00)>
+504159cd4eae8636a85df9782cf0a75f	smashtv5.7z <Smash T.V. (rev 5.00)>
+b96202b8df5ba4fe6dcf769c499f3f22	smashtv6.7z <Smash T.V. (rev 6.00)>
+474f55e11bd7930e9213472eb2396cfd	smashtv.7z <Smash T.V. (rev 8.00)>
 6d17887d38f5d039d2c7f93092496361	smbomb.7z <Super Muscle Bomber - the international blowout (940831 Japan)>
 d42c28904d1c1cebd3bb55bd177b636e	smbombr1.7z <Super Muscle Bomber - the international blowout (940808 Japan)>
 3247921128947197d6f24a3e7dd2d661	smgp5.7z <Super Monaco GP (World, FD1094 317-0126)>
@@ -4855,18 +5036,21 @@ bd145aec7b739a9cc1633d3c2415eaf1	snowbro3.7z <Snow Brothers 3 - Magical Adventur
 8145f0bfabe65541dace0c42c2bfa3e6	snowbrosj.7z <Snow Bros. - Nick &amp; Tom (Japan)>
 03dbb0b68ea5361acf9ccdc726c22d2b	snowbroswb.7z <Snow Bros. - Nick &amp; Tom (The Winter Bobble hardware bootleg) [Bootleg]>
 523bfae43809c4b9c59664cdd0d88e3a	sokonuke.7z <Sokonuke Taisen Game (Japan)>
+1f60eac9175845648c9af0019baea994	solarfox.7z <Solar Fox (upright)>
 2e4139936500655a5757ab1b6f9876c3	soldam.7z <Soldam>
 13a745e8ad43f7f71a3f6fa34ad1e585	soldamj.7z <Soldam (Japan)>
 bc893a1db8ece303383fdd9868cebeb1	soldivid.7z <Sol Divide - The Sword Of Darkness>
 68b32461141176bd78b25b399a17c6f5	soldividk.7z <Sol Divide - The Sword Of Darkness (Korea)>
 51162173ef1adbd6698ad35ef31576bf	solfigtr.7z <Solitary Fighter (World)>
 bbdd0e294fd183663ccadb3d3f94dca1	solomon.7z <Solomon's Key (US)>
-4a65700bfb0e20ea6feb4f69a7a69ae9	solomonj.7z <Solomon's Key (Japan)>
+4a65700bfb0e20ea6feb4f69a7a69ae9	solomonj.7z <Solomon no Kagi (Japan)>
 3e97956068bd118bb52d3a70079f3ffd	solrwarr.7z <Solar-Warrior (US)>
+bb5459bf19132d4dc1340654c17331df	sonic.7z <SegaSonic The Hedgehog (Japan, rev. C)>
 75b28eb51756b14e4d87aa010d4011ab	sonicbom.7z <Sonic Boom (FD1094 317-0053)>
 39df56fedfcf861628c9a11505969885	sonicbomd.7z <Sonic Boom (FD1094 317-0053 decrypted) [Bootleg]>
+15ea3e473924f71fdc576c63d3838451	sonicp.7z <SegaSonic The Hedgehog (Japan, prototype) [Prototype]>
 a743004e2e98888952b55ab506580f87	sonicwi.7z <Sonic Wings (Japan)>
-c2808c305d691e47fd1b9877260778b6	sonofphx.7z <Son of Phoenix>
+c2808c305d691e47fd1b9877260778b6	sonofphx.7z <Son of Phoenix (bootleg of Repulse) [Bootleg]>
 2b5165a145c7ef05581b14d876ceba3b	sonson.7z <Son Son>
 5560bc235b611b821a855d5862fe9f31	sonsonj.7z <Son Son (Japan)>
 431e077067178a6dd061f1e2ab20209d	sos.7z <SOS>
@@ -4940,6 +5124,9 @@ daeec945983f742cc80040c7faa38293	spf2td.7z <Super Puzzle Fighter II Turbo (Super
 e5e373fd8709431a661aa6a10dad1ef2	spf2tu.7z <Super Puzzle Fighter II Turbo (Super Puzzle Fighter 2 Turbo 960620 USA)>
 28c05e1784c1bf5cf24a7b410b3758af	spf2xj.7z <Super Puzzle Fighter II X (Super Puzzle Fighter 2 X 960531 Japan)>
 5f19ca0ebe9f90ee1f073cf399e808d0	spf2xjd.7z <Super Puzzle Fighter II X (Super Puzzle Fighter 2 X 960531 Japan Phoenix Edition) [Bootleg]>
+b941a3d48abe86d690a93261002f6e2d	spidman.7z <Spider-Man: The Videogame (World)>
+2748ea9d5ed36485f2386dc298838697	spidmanj.7z <Spider-Man: The Videogame (Japan)>
+00985a70a83ae188aae0632834b4a792	spidmanu.7z <Spider-Man: The Videogame (US, Rev A)>
 c21f954c01bdae4894a6811202a9db45	spinlbrk.7z <Spinal Breakers (World)>
 268c332c05c8e9743cdc4bfe0870bba9	spinlbrkj.7z <Spinal Breakers (Japan)>
 1ad1de28f790b97585f1881236ed8b71	spinlbrku.7z <Spinal Breakers (US)>
@@ -4957,6 +5144,8 @@ b811200981f92189f52007b5f415d6b3	splatter.7z <Splatter House (World, new version
 b82d3f4c76aace9e79f51948f39a03b5	sprglobp.7z <Super Glob (Pac-Man hardware)>
 c58bb5c583ed7185675da09ca5241aaf	springer.7z <Springer>
 38ef1f498a09bdeb60928a81c0f77bb4	spy.7z <S.P.Y. - Special Project Y (World ver. N)>
+fd9fb50133e4f624234649102dbe652a	spyhunt.7z <Spy Hunter>
+78202655f27f52a50f8e17f42e5003ce	spyhuntp.7z <Spy Hunter (Playtronic license)>
 953bb6297f66ce5e2a07e2ca6393542d	spyu.7z <S.P.Y. - Special Project Y (US ver. M)>
 bca4be3696bcd08e6a7c5997f28a3a19	sqbert.7z <Faster, Harder, More Challenging Q*bert (prototype)>
 c93bdb581ef88db0c661ce0371a1d213	squaitsa.7z <Squash (Itisa)>
@@ -4996,7 +5185,7 @@ b4bb0a649e27548e69e916ae46a41db6	ssf2t.7z <Super Street Fighter II Turbo (super 
 1570c344a658be531e1225cc487d420c	ssf2tbu.7z <Super Street Fighter II - the tournament battle (930911 USA) [Linkup feature not implemented]>
 7c72a750ded64ce7470b037363517715	ssf2td.7z <Super Street Fighter II Turbo (super street fighter 2 X 940223 etc Phoenix Edition) [Bootleg]>
 b54268bf7b60d2ee2921fbb70df15f5f	ssf2th.7z <Super Street Fighter II Turbo (super street fighter 2 X 940223 Hispanic)>
-c253e6c749e874f7e4e58fed4ca4d343	ssf2tnl.7z <Super Street Fighter II Turbo New Legacy v0.3 Beta (Hack by Born2SPD) [Hack]>
+c253e6c749e874f7e4e58fed4ca4d343	ssf2tnl.7z <Super Street Fighter II Turbo New Legacy v0.4 (Beta) (Hack by Born2SPD) [Hack]>
 61b6a4c3068b9c4f185b59b6bd4221f7	ssf2tu.7z <Super Street Fighter II Turbo (super street fighter 2 X 940323 USA)>
 9a953781b4274df4f7e2016d85e9f830	ssf2tur1.7z <Super Street Fighter II Turbo (super street fighter 2 X 940223 USA)>
 f5db176dddb313d0abf507ab22fc741f	ssf2u.7z <Super Street Fighter II - the new challengers (super street fighter 2 930911 USA)>
@@ -5009,7 +5198,9 @@ f5ac7f7dd7b72ff4e43d7a44780fa428	sshangha.7z <Super Shanghai Dragon's Eye (World
 00b1cd95c718f53024d96bafd2fcf69f	sshanghab.7z <Super Shanghai Dragon's Eye (World, bootleg) [Bootleg]>
 1e270ece3ee816b5f43aacd2ae59eaae	sshanghaj.7z <Super Shanghai Dragon's Eye (Japan)>
 36566ac6642909285232009e5bb3f89f	sshanghak.7z <Super Shanghai Dragon's Eye (Korea)>
-3a6edf55dd5b064dc4334ef316e273b8	ssi.7z <Super Space Invaders '91 (World)>
+3a6edf55dd5b064dc4334ef316e273b8	ssi.7z <Super Space Invaders '91 (World, Rev 1)>
+7f0725d0f3fd6656c162d82055f7684b	ssia.7z <Super Space Invaders '91 (World)>
+298382946cbda6c51c01568de161790a	ssib.7z <Super Space Invaders '91 (World, earlier?)>
 e6c816b32c635de893258b66e05fed60	ssmissin.7z <S.S. Mission>
 0e056dc71ce3e2a313e2430919c601a3	ssoldier.7z <Superior Soldiers (US)>
 e2453433d98b631b220fdfef4b48edbd	ssozumo.7z <Syusse Oozumou (Japan)>
@@ -5081,6 +5272,11 @@ c6a5a31f3f1d9e446353e0425ab55c3e	stg.7z <Strike Gunner S.T.G>
 c4b506f0b6ff8c9388409e08b7beb3d7	stmblade.7z <Storm Blade (US)>
 bca054c07c22a125d7d97cdd1d595752	stmbladej.7z <Storm Blade (Japan)>
 9923ab4f26824345d6c79c30cd879e1d	stoneage.7z <Stoneage (bootleg of Caveman Ninja) [Bootleg]>
+011f25f03fa1ab63a09746363add41d8	stonebal2.7z <Stone Ball (2 Players, v1-20 7/11/1994)>
+a03d60e18c480be4aef759fade041f00	stonebal2o.7z <Stone Ball (2 Players, v1-20 21/10/1994)>
+14e5c1438841c4dc380dbe111ed8654a	stonebal.7z <Stone Ball (4 Players, v1-20 13/12/1994)>
+6295af82387d7ff4e9d9b8b90f40d335	storming.7z <Storming Party / Riku Kai Kuu Saizensen (set 1) [Bootleg]>
+9b1a7969ec258faa70985b2b4e2460aa	storminga.7z <Storming Party / Riku Kai Kuu Saizensen (set 2) [Bootleg]>
 5056f4dd017f4ca50b0b5543ef2c6cbc	strahl.7z <Koutetsu Yousai Strahl (World)>
 a9f986155dc69408427e2269c13ba5c5	strahlj.7z <Koutetsu Yousai Strahl (Japan set 1)>
 27bc1e83dc1a3ec448cd5b4bb728ef69	strahlja.7z <Koutetsu Yousai Strahl (Japan set 2)>
@@ -5105,6 +5301,7 @@ d425e1815da396526b9369fc4d60cb6d	striv.7z <Super Triv (English questions) [bad s
 e90e4f180cb5c984392aef076b64497e	strivf.7z <Super Triv (French questions) [bad sound]>
 55b755611bd86b1d5c2f173379ed84a4	strkfgtr.7z <Strike Fighter (World)>
 3057a7cb71bbe09590d90d33a60f2ac6	strkfgtrj.7z <Strike Fighter (Japan)>
+a9f0ae3b5f1278915559c817561f3083	strkforc.7z <Strike Force (rev 1 02/25/91)>
 4ef0ac5e6c73ef0fc33131a88a0b54d3	strnskil.7z <Strength &amp; Skill>
 469d74b6aa79cf38778e285f729810e4	strongx.7z <Strong X [Bootleg]>
 cd11256846257fc8ccc1309e11127651	strvmstr.7z <Super Trivia Master>
@@ -5113,47 +5310,14 @@ cd11256846257fc8ccc1309e11127651	strvmstr.7z <Super Trivia Master>
 2f6e3a1816eb1ceeb25362ab42d8db8b	subhunt.7z <Sub Hunter (Gremlin / Taito) [No sound]>
 f14b7cd816419f9b6eb11bef5c3a0a5b	subroc3d.7z <Subroc-3D>
 f8bcf5963d591410b70df127ab7d541b	sucasino.7z <Super Casino>
+c80c5acef2cec9ba2a2881de019ab14e	suchie2.7z <Idol Janshi Suchie-Pai II (ver 1.1)>
+1435c9f018c89348420f4eaa146278e7	suchie2o.7z <Idol Janshi Suchie-Pai II (ver 1.0)>
 3120578465f480849013776d6c6a92eb	sunaq.7z <SunA Quiz 6000 Academy (940620-6)>
 ef3837ee9b945dd62ea879ed3fbba283	supbtime.7z <Super Burger Time (World, set 1)>
 84ff2849703b22482ddc532628a0b4c3	supbtimea.7z <Super Burger Time (World, set 2)>
 aa839df66beb45295bc76391a71cbdf4	supbtimej.7z <Super Burger Time (Japan)>
 7e4b172c5d492a6e002805e9b873c04b	supcrash.7z <Super Crash (bootleg of Head On) [Bootleg, No sound]>
 9101d9fa9685733efaecb4fa49cc13ba	supduck.7z <Super Duck>
-0e0ca4344d04e3342fea22718dd8ab96	Super.7z <>
-11e2b75df3c039f127eb8959959e7fad	Super.7z <>
-17ab178d6ae7dce687e8eaaf913fd035	Super.7z <>
-1c9fd91b7b59f2e129f5fdf7d7b37e5c	Super.7z <>
-26cdb87b749f4fe2184fe44627b8097c	Super.7z <>
-29cf33529ce9752a089f87f4e367c945	Super.7z <>
-326a12dca0b443484c83819e4540cb24	Super.7z <>
-393ec5428ca5c9e7a674361d30b58279	Super.7z <>
-471c9b63c5987e22ceda89264fbc17ac	Super.7z <>
-48be916ec976110098b1dcbd9c96b226	Super.7z <>
-4a0a04164019dace81f225a3b6f3a91c	Super.7z <>
-5505d2617252a63de7a9c95f467a1e2d	Super.7z <>
-65e79b4b3c95c95d4ee772c65b537107	Super.7z <>
-6d328aca58443935f065a582c4685bcc	Super.7z <>
-6da8c1cfc2020aefd6ec3176c86e1494	Super.7z <>
-6f6f7f2ba1bc70e17d318ecf0c2b66cd	Super.7z <>
-8ad5e3a38747fdda23dde5db7915d52e	Super.7z <>
-8dded14d24313c98bbedc323f5b15fad	Super.7z <>
-8f851e1c45da7a154e29e5c6a298cb0d	Super.7z <>
-9a7aeca79d7e8d99a0bc3a9cffd9f128	Super.7z <>
-a000bb93d2d6611603b73e873c48d746	Super.7z <>
-a0f4529ed20559318d33c2c353976661	Super.7z <>
-a1c1b416e5e0100fd3a107120ab2c4fd	Super.7z <>
-a2d265ecab429a1535caf42668756d27	Super.7z <>
-aa18cf66d12c192a924a107b191cb2ea	Super.7z <>
-b6576cfc9409c7c1573c826cbb384de7	Super.7z <>
-ce7cb63b04dc8acbb45a6e16ef4bf1b1	Super.7z <>
-ddaa74757a959e2fc8c56371e692dd01	Super.7z <>
-e2c03473df5b47002b8719d1c52455ca	Super.7z <>
-ebccf74f35dc152cda9536c0a6346ae3	Super.7z <>
-f0480ea7d4ddb34499955bf1db313a05	Super.7z <>
-f159af18c0f1b0dc605375361552f1d9	Super.7z <>
-f2203ea14da17f7288269cc324162123	Super.7z <>
-f9e06ff34c90eeae8c71d2886ea23012	Super.7z <>
-fbecd929871611a3a88b991e9df5bfc5	Super.7z <>
 2536affdfba27eb69ca78669f5bfd211	superbar.7z <Super Bar>
 2cc7ff214bffdfeba204e88d5c3d945b	superbon.7z <Agent Super Bond (scobra hardware) [Bad Colours]>
 c82fcb4ec0a1531268557f45cd0df6ea	superchs.7z <Super Chase - Criminal Termination (World)>
@@ -5185,16 +5349,23 @@ bcd8643c6509999fb8b3538d6abdf253	suratkj.7z <Surprise Attack (Japan ver. M)>
 8fa2a7593093e985ff8b54425eb2915d	survarts.7z <Survival Arts (World)>
 2378f1b74f36fb537b64498b4aee49ff	survartsj.7z <Survival Arts (Japan)>
 e15d845ec38dde9b993bdfd45e912428	survartsu.7z <Survival Arts (USA)>
+ca5c0023474420469e1a19cb39185061	sutapper.7z <Tapper (Suntory)>
 b403710b5be764d4bd537827d731b420	suzuk8h2.7z <Suzuka 8 Hours 2 (World, Rev B) [Imperfect graphics, sound and inputs]>
 6ef32bb3d29fa8bb2ac33a27a167d328	suzuk8h2j.7z <Suzuka 8 Hours 2 (Japan, Rev B) [Imperfect graphics, sound and inputs]>
 022953849f69751c5d777ea3bf9aea42	suzuka8h.7z <Suzuka 8 Hours (World, Rev C) [Imperfect graphics, sound and inputs]>
 69d1995f8fbc59c61a62da31ad9a2257	suzuka8hj.7z <Suzuka 8 Hours (Japan, Rev B) [Imperfect graphics, sound and inputs]>
 4095f20aad3a6f24baa34e5a443d71d5	svcpcb.7z <SNK vs. Capcom - SVC Chaos (JAMMA PCB, set 1)>
 3aec393b257a3e4d30dbc0d5c22fb2cf	svcpcba.7z <SNK vs. Capcom - SVC Chaos (JAMMA PCB, set 2)>
+26b38231c0bd3c315f3c79e1de02354e	svf.7z <Super Visual Football: European Sega Cup (Rev A)>
+96d0f04c58902ed92daee6c62a2c60c7	svfo.7z <Super Visual Football: European Sega Cup>
+ae8eb96df05e788ac39d88948eaf295c	svg.7z <S.V.G. - Spectral vs Generation (V200, China)>
+021c82d074942163ccad8a57089646c3	svgpcb.7z <S.V.G. - Spectral vs Generation (V100, Japan, Single PCB Version)>
+b32dc2c3fb8a67662c437f4ce3d93e1a	svgtw.7z <S.V.G. - Spectral vs Generation (V100, Taiwan) [Incomplete dump]>
 ad70c40d529f0ddd7466d23c89af08de	svolley.7z <Super Volleyball (Japan)>
 f5f886ab2b988ccf328df0de8519e96b	svolleyk.7z <Super Volleyball (Korea)>
 54e414880c4e660ef3bfe2fce6e4efcc	svolleyu.7z <Super Volleyball (US)>
 0cf47da3e7f5364f57ea711f167a3894	svolly91.7z <Super Volley '91 (Japan)>
+68fad0f65f870566534d1d5ac0442596	svs.7z <Super Visual Soccer: Sega Cup (US, Rev A)>
 6b3d43184271885b9fb260c59821d5e8	swarm.7z <Swarm (bootleg?) [Bootleg]>
 c64bd96d975927c869e24d2236c1520c	swat.7z <SWAT (315-5048)>
 c384e02ed1f0fb0a13590082ac3da147	swatpolc.7z <SWAT Police>
@@ -5223,6 +5394,10 @@ cfd2527efb73226878757d47f41b1078	tagteam.7z <Tag Team Wrestling>
 6fb65e19a9340920acf24f655db6753c	tankfrcej.7z <Tank Force (Japan)>
 69b13485f5205dec40fa04d875ddbad5	taotaido.7z <Tao Taido (set 1)>
 baf88b860cc96be3d35c887dacd226d2	taotaidoa.7z <Tao Taido (set 2)>
+fc90e8404f7907342d5eaeb7068ac489	tapper.7z <Tapper (Budweiser, 1/27/84)>
+75c9bbd43d5750f03eb6a5e25655a22c	tappera.7z <Tapper (Budweiser, 12/9/83)>
+534407e3e0bf0a3b9f3a3f06e4c44236	tapperb.7z <Tapper (Budweiser, Date Unknown)>
+83cd9a42d1561265cb9d6dc0f08a1e55	tapperg.7z <Tapper (Budweiser, 1/27/84 - Alternate graphics)>
 bd417d3bb485b7aed252bbb594dc9d49	targeth10.7z <Target Hits (ver 1.0, Checksum FBCB)>
 96c0d70925ca11ccaffc5432b4080cf7	targeth.7z <Target Hits (ver 1.1, Checksum 5152)>
 c2f02c64badf331a455d755ea61cb173	targetha.7z <Target Hits (ver 1.1, Checksum 86E1)>
@@ -5256,14 +5431,21 @@ e920234fc48a4aaa3f72fd44a6532991	tdragonb.7z <Thunder Dragon (bootleg)>
 24918632a389c5cff994ca219a1e42b7	teddybbobl.7z <TeddyBoy Blues (bootleg)>
 51028db6cd5a5f199a341f8c1e124182	tekipaki.7z <Teki Paki>
 76662b96e5f1c510d4a460d83a82f5ae	tekipakit.7z <Teki Paki (location test)>
+b6576cfc9409c7c1573c826cbb384de7	teljan.7z <Tel Jan>
 c2172d74710c29d61a0ea56f3fbc6947	tempest1.7z <Tempest (rev 1)>
 6fb3caec18a3a2b049bd3507ffb81853	tempest1r.7z <Tempest (rev 1, Revised Hardware)>
 51bdb74f0ec36bc66187779211cd893b	tempest2.7z <Tempest (rev 2)>
 2e24a787d104c3cabf74abaee03ad893	tempest3.7z <Tempest (rev 3)>
 6ad8536215968eb1f3494143392c77bf	tempest.7z <Tempest (rev 3, Revised Hardware)>
 ce6f50dc159995bf40d95ab161e000ee	temptube.7z <Tempest Tubes>
-22fdc9c5a205d18516d3782ae8c40a8a	tengai.7z <Tengai (world)>
+22fdc9c5a205d18516d3782ae8c40a8a	tengai.7z <Tengai (World)>
 d9991d73b73d6d5834b222330377b7cf	tengaij.7z <Tengai>
+f064ba69eec828668eb9475146e336b5	term2.7z <Terminator 2 - Judgment Day (rev LA4 08/03/92)>
+322da7b6357fb0353cc9e3b2a2cd6c71	term2la1.7z <Terminator 2 - Judgment Day (rev LA1 11/01/91)>
+a7d14c1d5bdde44908e68ee7f088b6fb	term2la2.7z <Terminator 2 - Judgment Day (rev LA2 12/09/91)>
+c5a7d962ec67a3d26f8122d7400126fa	term2la3.7z <Terminator 2 - Judgment Day (rev LA3 03/27/92)>
+8c6b7988ee38992f518b1973f3acb116	term2lg1.7z <Terminator 2 - Judgment Day (German, rev LG1 11/04/91)>
+0a5ed141048a5cc45c808f26184376ae	term2pa2.7z <Terminator 2 - Judgment Day (prototype, rev PA2 10/18/91)>
 e3cddf627ae97c00ae872b52980584c1	terracre.7z <Terra Cresta (YM3526 set 1)>
 d9b8d57e61179ca0a5f58ac6c8378c36	terracrea.7z <Terra Cresta (YM3526 set 3)>
 c8c8850ab0a4433d82c3f100c543ae72	terracren.7z <Terra Cresta (YM2203)>
@@ -5273,6 +5455,7 @@ f798971bbec7e032cf95672761799252	terrafb.7z <Terra Force (Japan, bootleg set 2) 
 1c4c08d49a6a09ea494bb09ec65354b0	terrafj.7z <Terra Force (Japan)>
 b45779e027025563847fded1a5a5692e	terrafjb.7z <Terra Force (Japan, bootleg with additional Z80) [imperfect graphics]>
 bf8e7fb9a7f0dd32ff575a4c93fc32dc	terrafu.7z <Terra Force (US)>
+ce4ae7b9e21af76ce321881ede7ffa29	tetrbx.7z <Tetris / Bloxeed (Korean System 16 bootleg) (ISG Selection Master Type 2006)>
 735eb38ed298bafa7ebea9eaf184a68d	tetris1.7z <Tetris (set 1, Japan, System 16B, FD1094 317-0091)>
 8318db0db8695726970be1c0a56782f8	tetris1d.7z <Tetris (set 1, Japan, System 16B, FD1094 317-0091 decrypted) [Bootleg]>
 bb18f07aa79873c47259340b73a2e698	tetris2.7z <Tetris (set 2, Japan, System 16B, FD1094 317-0092)>
@@ -5286,6 +5469,7 @@ f76e534251c8595a9746fde225f9289b	tetris.7z <Tetris (set 4, Japan, System 16A, FD
 cf4ee87aff984487ac99b243526f9af6	tetrisp2a.7z <Tetris Plus 2 (World, V2.7)>
 babb98a6c9df4bd340475bbca90b8a5a	tetrisp2j.7z <Tetris Plus 2 (Japan, V2.2)>
 a404e0235e360d63e9994f8b9b255bb1	tetrisp2ja.7z <Tetris Plus 2 (Japan, V2.1)>
+3b5542de3b8853a93c045c8970c0035c	tetrisp.7z <Tetris Plus (ver 1.0)>
 a492a2bd3c0f83c364a391e58ddc64de	tetrisse.7z <Tetris (Japan, System E)>
 b81a2b6d674a736db292a8a558032940	tetrist.7z <Tetris (Japan, B-System, YM2610) [buggy - use parent!]>
 2c614c1fe19fb36c9466c5478bd8f891	tetrista.7z <Tetris (Japan, B-System, YM2203)>
@@ -5299,10 +5483,16 @@ bd1a3dbfc0e0e0affd035131f4f3e120	tharrier.7z <Task Force Harrier>
 a77224c90dc6867f603a3afd92767598	theend.7z <The End>
 c6aba97504d5b171c7755471ef9e1036	theends.7z <The End (Stern)>
 2a5a29724e45433492c06ab88fb006b3	theendss.7z <The End (SegaSA / Sonic)>
+ff89940b7cf1e5f2c6c555b1e91ca186	theglad100.7z <The Gladiator - Road Of The Sword / Shen Jian (V100, Taiwan) [Incomplete Dump]>
+50bbf3adc09b1cac0c69092266d10902	theglad101.7z <The Gladiator - Road Of The Sword / Shen Jian (V100) [Incomplete Dump]>
+0c49806cfe5c470024ba255b621389e7	theglad.7z <The Gladiator - Road Of The Sword / Shen Jian (V101, China) [Incomplete Dump]>
+099302cdb2f7766c6906c6aca1179ee8	thegladpcb.7z <The Gladiator - Road Of The Sword / Shen Jian (V101, Japan, Single PCB Version)>
+cc051dd66771800321d67f848c2d777a	thegladpcba.7z <The Gladiator - Road Of The Sword / Shen Jian (V100, Japan, Single PCB Version)>
 c4403226e8c2e880be988993259a0bc0	theglob2.7z <The Glob (earlier)>
 f1444a304391579b280172e82777e5c2	theglob3.7z <The Glob (set 3)>
 6e7215d7174b12d3a90e1d07834d4d51	theglob.7z <The Glob>
 74b0e390350758187b2bce121d003e68	theglobp.7z <The Glob (Pac-Man hardware)>
+18c0a104f053eeff2457e12793b41442	theglobpb.7z <The Glob (Pac-Man hardware, bootleg)>
 aa3bde5c402034cc59cba187d25ec103	thehustl.7z <The Hustler (Japan, program code M)>
 196f04e064d6c872e3fdacb72c240c63	thehustlj.7z <The Hustler (Japan, program code J)>
 8d9dad4d5e4f258097cc492fafa57657	thepit.7z <The Pit>
@@ -5346,6 +5536,7 @@ e230633fa3256fac35a5dfd410c72258	tigerhj.7z <Tiger Heli (Japan)>
 fa4f848934aa7ece8d0d2928de045a26	tigeroadb2.7z <Tiger Road (US bootleg, set 2) [Bootleg]>
 7b3218a929434f3cfe467df75bb11953	tigeroadb.7z <Tiger Road (US bootleg, set 1) [Bootleg]>
 d9cc1993cd705e49a4ee0a4aa747d2c3	tigeroadu.7z <Tiger Road (US, Romstar license)>
+f22152afec12017f351f1cb7a6285863	timber.7z <Timber>
 5dc8f188bb548d5f0eb2d6d23d4ede8b	timefgtr.7z <Time Fighter (Time Pilot conversion on Galaxian hardware) [Bad Colours]>
 2ce4144c0a456bfd20b1dc8e41f8b56d	timekill100.7z <Time Killers (v1.00)>
 e84b263d40277a78032e1f9d9fa3c2c5	timekill121.7z <Time Killers (v1.21)>
@@ -5366,6 +5557,9 @@ b4b0a605064b9dfdb5525636af689652	timetunl.7z <Time Tunnel>
 19722755a04a7b9593dbf679e31e1f5b	tinstara.7z <The Tin Star (TS, 5 PCB version)>
 e5bd62b42448d2a0b542700b4b156eb3	tiptop.7z <Tip Top>
 0e3abf2dd631daa31413bb7767fd7f93	titanpac.7z <Titan (Pac-Man hack)>
+c293a37e439afe2dcb4cd2874b6c7e4d	titlef.7z <Title Fight (World) [Background GFX Issues]>
+37d10fd12439599dc77d09135c6b1f3a	titlefj.7z <Title Fight (Japan) [Background GFX Issues]>
+b823ebebbd6d1b9f5739a9971ed898ad	titlefu.7z <Title Fight (US) [Background GFX Issues]>
 5ed7701f0a2b0780a008256825121ce6	tjumpman.7z <Tobikose! Jumpman [Coin input not working?]>
 ccc1b6ff901b20b877d58b838d150eee	tkdensho.7z <Toukidenshou - Angel Eyes (VER. 960614)>
 234f6925827076c7c4f4aa5795474f4a	tkdenshoa.7z <Toukidenshou - Angel Eyes (VER. 960427)>
@@ -5432,6 +5626,7 @@ a665ebd3d6e7a13ab7869e87902fd4f4	topgunbl.7z <Top Gunner (bootleg, Rotary Joysti
 03d51205bfdfbf0e345fb704363b1da8	toppyrap.7z <Toppy &amp; Rappy>
 1a5b927e8f983d8046709ded2495ef39	topsecrt2.7z <Top Secret (Japan, revision B)>
 2639d9568e47782abe27a7596a856c3e	topsecrt.7z <Top Secret (Japan, old revision)>
+c8c2e6bbbff23f6336dd624c95b925d3	topshoot.7z <Top Shooter>
 d6b2ad66c168b12a66c96da45861732f	topspeed.7z <Top Speed (World)>
 26cc54c825f46b6f4fbd8c871997a3a2	topspeedu.7z <Top Speed (US)>
 711a3d50c04f35f9f23bebb86d594a5b	toramich.7z <Tora e no Michi (Japan)>
@@ -5442,6 +5637,8 @@ f337c71a3dcc0a5b98ffd5095efb4363	toride2g.7z <Toride II Adauchi Gaiden>
 94320a176706ad052cf7259a26ab09f1	tornado1.7z <Tornado (set 1, Defender bootleg) [Bootleg]>
 30312cb3bb5e18adc22211fb2291a2df	tornado2.7z <Tornado (set 2, Defender bootleg) [Bootleg]>
 4a009ac3b2916fb3622da088ffc7a0a3	toryumon.7z <Toryumon>
+04161f4a2dcae0f92188c44c0f9c45da	totcarn.7z <Total Carnage (rev LA1 03/10/92)>
+189b6573bbc97dcee3990ad41cff96f3	totcarnp.7z <Total Carnage (prototype, proto v1.0 01/25/92) [Prototype]>
 f71dbe52628a3f83a77ab494817525c6	toto.7z <Come Back Toto>
 2d4b92b35b3c705f4de128fbaa68d9d3	touchgo.7z <Touch &amp; Go (World)>
 4b8ce14e2457b8ce6e7f5cc5f3c7cbe6	touchgoe.7z <Touch &amp; Go (earlier revision)>
@@ -5460,6 +5657,7 @@ fde06d513cdfad319e49c3c0192c427a	toutrunj.7z <Turbo Out Run (Japan, Out Run upgr
 3306df2775a7eb3ee3b36d04af45395f	toutrunjd.7z <Turbo Out Run (Japan, Out Run upgrade, FD1094 317-0117 decrypted) [Bootleg]>
 d39e88bcb73c28b8e1aae2daccd30255	toyland.7z <Toy Land Adventure>
 09dde36b8b22faf4c418105324604b62	toypop.7z <Toypop>
+eb8328ee86da39206bc5968bf4961d38	tp2m32.7z <Tetris Plus 2 (ver 1.0, MegaSystem 32 Version)>
 e6f0c26f79c658fc6e31406d3e836098	tp84.7z <Time Pilot '84 (set 1)>
 39a1402c5d3f624fd63fc5522cc52c25	tp84a.7z <Time Pilot '84 (set 2)>
 e40fd02f46382f28d8ef2cd5411fc278	tp84b.7z <Time Pilot '84 (set 3)>
@@ -5484,11 +5682,22 @@ a2e75a6432e8b7ba52eab297cdd457b5	triplfun.7z <Triple Fun>
 1145378989be8523fad9fa1ac9b63e5d	tripool.7z <Tri-Pool (Casino Tech)>
 59e32006910af852afd66e7d394012dc	tripoola.7z <Tri-Pool (Costal Games)>
 a7d05589ee21476f4d87b8c6a39ec410	troangel.7z <Tropical Angel>
+04245b5062d5e3b7d592e44e774b53d6	trog3.7z <Trog (rev LA3 02/14/91)>
+0feafe0a9f99e3ca5a14bb5dc993ea03	trog4.7z <Trog (rev LA4 03/11/91)>
+af54572b990ec518009ddcb40dda151f	trog.7z <Trog (rev LA5 03/29/91)>
+5af16132101ad37cab9c7a6918a34420	trogpa4.7z <Trog (prototype, rev 4.00 07/27/90) [Prototype]>
+85c556e542f6bfa1101176665900991e	trogpa6.7z <Trog (prototype, rev PA6-PAC 09/09/90) [Prototype]>
 2806906c79cdb8ef05d9595ff8cdc125	trojan.7z <Trojan (US set 1)>
 7711499f3f9dfa7254be5081f2968a86	trojana.7z <Trojan (US set 2)>
 1cad549fa0fc88b048054b49e8a455ed	trojanb.7z <Trojan (bootleg)>
 4bb0d83650b7980774bf362286462cf3	trojanj.7z <Tatakai no Banka (Japan)>
 b569554ee72cd580593dcf2e9e6902e3	trojanr.7z <Trojan (Romstar)>
+2b793d633faa8bf434de3127b31965d0	tron2.7z <Tron (6/25)>
+0b89a69d37b81ed5cc55709cd9581b6a	tron3.7z <Tron (6/17)>
+168f3a5965dcc651da8357a578e29c43	tron4.7z <Tron (6/15)>
+6b92b7932e96964f361689ee43f69686	tron5.7z <Tron (5/12)>
+26a86d0139455de4a29f5ae12309fd3b	tron.7z <Tron (8/9)>
+3519ee80301f3ea88b5418625e046cbf	tronger.7z <Tron (Germany)>
 f02bbd4cf03cc7b637d5be9566600f42	trophyh.7z <Trophy Hunting - Bear &amp; Moose V1.00 [Hangs are normal, just wait it out.]>
 495aae3e7f80aba96eced0a492440019	trstar.7z <Top Ranking Stars (Ver 2.1O 1993/05/21) (New Version)>
 5d4896f5a655db57b733dc1f5b35c77b	trstarj.7z <Top Ranking Stars (Ver 2.1J 1993/05/21) (New Version)>
@@ -5554,6 +5763,7 @@ b1f779895bea84e03b653f51c58e9236	twinactn.7z <Twin Action>
 3fe69cfa53f332d5f9a8451c8b93c4de	twinadv.7z <Twin Adventure (World)>
 f17be582103e8d893927b075a21fc423	twinadvk.7z <Twin Adventure (Korea)>
 8cf8894ad5b64466330cecac012dfe6b	twinbee.7z <TwinBee (ROM version)>
+cf0f2f0eb7de61c9112dba17a1c33b69	twinbeeb.7z <TwinBee (Bubble System)>
 c443f423857d199cb9c0ec7c25824a35	twinbrat.7z <Twin Brats (set 1)>
 7dd6f304beb13e2993ec427e7b73c664	twinbrata.7z <Twin Brats (set 2)>
 e17e51a0f47b479bf0c09d306e3aa1d0	twinbratb.7z <Twin Brats (set 3)>
@@ -5564,10 +5774,13 @@ e17e51a0f47b479bf0c09d306e3aa1d0	twinbratb.7z <Twin Brats (set 3)>
 12877ac7671056d5ac8a19011c907836	twinfalc.7z <Twin Falcons>
 a7ff8c60c3eaa37d244cce4bc1422de5	twinhawk.7z <Twin Hawk (World)>
 11c1f8493cfaa4c7d72fed8d28b18148	twinhawku.7z <Twin Hawk (US)>
-b2e9c66d3b49ce3d50986a881ced739d	twinkle.7z <Twinkle>
+b2e9c66d3b49ce3d50986a881ced739d	twinkle.7z <Twinkle (set 1)>
+5937fc4fc61e6222786f306733760716	twinklea.7z <Twinkle (set 2)>
 298647f81cce4e99ddd7ddea5fb50868	twinqix.7z <Twin Qix (Ver 1.0A 1995/01/17) (Prototype) [Prototype]>
 ded7cd34d3a153dc76609215b3144b56	twocrude.7z <Two Crude (US FT revision 1)>
 30cb8647086c522dfbf49f8519827d1f	twocrudea.7z <Two Crude (US FT version)>
+c7d58d5f0efcacfd741bd0b74681fed6	twotiger.7z <Two Tigers (dedicated)>
+db0197fc9da4f2c9820a37ff1a2bf14c	twotigerc.7z <Two Tigers (Tron conversion)>
 feeece65c392e77104ddbc323df8c732	tylz.7z <Tylz (prototype)>
 4d14cc253c29926302b8c36434bf140c	typhoon.7z <Typhoon>
 bd68d77356e36f74076bccaaca63cfd1	uballoon.7z <Ultra Balloon>
@@ -5578,6 +5791,8 @@ cb26cd1b8230df5185fb72e43cde80f8	uccopsaru.7z <Undercover Cops - Alpha Renewal V
 158d91c3b8509fe94d068ee792812c0e	uccopsu.7z <Undercover Cops (US)>
 ac6c479580a1deffb937ddf738562d21	uecology.7z <Ultimate Ecology (931203 Japan)>
 f2fab3b036767549a63afed157e631eb	ufosensi.7z <Ufo Senshi Yohko Chan (MC-8123, 317-0064)>
+d41551438d078bdd0e12cc19e4a85806	ultennis.7z <Ultimate Tennis>
+1f4f756654596e22fc39333e6b34d64b	ultennisj.7z <Ultimate Tennis (v 1.4, Japan)>
 8164ed0b7c247dda5220d25879a3176d	ultracin.7z <Waku Waku Ultraman Racing [Emulation not complete]>
 8f8345836aa35154106ff3506993b323	ultraman.7z <Ultraman (Japan)>
 f501b5519d973fa3bba3e5df05e21713	ultrax.7z <Ultra X Weapons / Ultra Keibitai>
@@ -5588,7 +5803,7 @@ c2c4318c6acb302ec08b9a28dc5d3e26	umk3.7z <Ultimate Mortal Kombat 3 (rev 1.2)>
 8e9e55e051bd89e16e4dc6e6aa56f799	umk3r10.7z <Ultimate Mortal Kombat 3 (rev 1.0)>
 569cafde73ec14bd211b752d09d17770	umk3r11.7z <Ultimate Mortal Kombat 3 (rev 1.1)>
 f231ca44e3f2fd456cf8727dd6082c05	umk3te.7z <Ultimate Mortal Kombat 3 Tournament Edition (hack, V2.0.042/August 2018) [Hack]>
-4ae0d6b4a54ad6fb26d7a6cae478ea3f	umk3uc.7z <Ultimate Mortal Kombat 3 Cup Edition (Hack, Ver. 2020-07-03) [Hack]>
+4ae0d6b4a54ad6fb26d7a6cae478ea3f	umk3uc.7z <Ultimate Mortal Kombat 3 Cup Edition (Hack, Ver. 2021-02-26) [Hack]>
 a09fc2c8366b370ebd9a65f394ee140d	unclepoo.7z <Uncle Poo>
 58befe56d6fab430df7b54ec37ac8a44	undrfire.7z <Under Fire (World)>
 351a0bfb9fa6937f5ee867b1e4d48bc4	undrfirej.7z <Under Fire (Japan)>
@@ -5609,7 +5824,7 @@ e34264b03cb5aa65e98a61d59da93c5d	usg82.7z <Super Ten V8.2>
 6084eb74e9b3430963e0869948711ea7	usg83x.7z <Super Ten V8.3X>
 cbdf85564f2f2719394c47c55f92b182	usgames.7z <Games V25.4X>
 171e3888292322e16ba3901dce49732f	utoukond.7z <Ultra Toukon Densetsu (Japan)>
-a54e73cb56192425dd3cf6edc1e86129	valkyrie.7z <Valkyrie No Densetsu (Japan)>
+a54e73cb56192425dd3cf6edc1e86129	valkyrie.7z <Valkyrie no Densetsu (Japan)>
 0a9d9ad46ec7575c4fc3bd8b4e823715	valtric.7z <Valtric>
 ca996c8e06014e5386680a696a483199	vamphalf.7z <Vamf x1/2 (Europe, version 1.1.0908)>
 6571fb76bc7b3c8efbb25a9615449935	vamphalfk.7z <Vamp x1/2 (Korea, version 1.1.0908)>
@@ -5652,6 +5867,8 @@ c4f674c16267d2aab6f2499f0b5b4c8e	vball2pj.7z <U.S. Championship V'ball (Japan)>
 ddf21cb0e4c71315b9794d114d66ecf6	vball2pjb.7z <U.S. Championship V'ball (bootleg of Japan set) [Bootleg]>
 f26ab9b8ae38f44c84ae20b43ab1a7cb	vball.7z <U.S. Championship V'ball (US)>
 7b1e54daf5d2f5c570a3a32d791ee385	vballb.7z <U.S. Championship V'ball (bootleg of US set) [Bootleg]>
+e2c03473df5b47002b8719d1c52455ca	vblokbrk.7z <VS Block Breaker (Europe)>
+f9e06ff34c90eeae8c71d2886ea23012	vblokbrka.7z <VS Block Breaker (Asia)>
 b3167f4dc4c4afd985fee0c2a6e04aee	vendetta2pd.7z <Vendetta (Asia, 2 Players ver. D)>
 e75eb5a26f87e459fadd3dde12210f69	vendetta2peba.7z <Vendetta (World, 2 Players ver. EB-A?)>
 633dcb7cb694b0d6986b0a917ff40293	vendetta2pp.7z <Crime Fighters 2 (Japan, 2 Players ver. P)>
@@ -5736,6 +5953,7 @@ f8ba50fc99aa6a268758222293a515fd	vulcanb.7z <Vulcan Venture (Oldest)>
 6a608f3d0b6171be4d1c82a63973ead4	vulgus.7z <Vulgus (set 1)>
 fc613ed0a574135448a97584500d2710	vulgusa.7z <Vulgus (set 2)>
 3a07558c78de8febcb757843afdf97ad	vulgusj.7z <Vulgus (Japan?)>
+501638c130b919a8e4ee7ba5a246500e	wacko.7z <Wacko>
 8d71839e00d1b93035b7d952015cb515	wallc.7z <Wall Crash (set 1)>
 4402665f766c324485ea13170e96b864	wallca.7z <Wall Crash (set 2)>
 dc1f3d93b4d480fdd3a7e22b44cff8ba	wanted.7z <Wanted>
@@ -5813,6 +6031,7 @@ e7bf3920707277b8b550dbe1c6880c1e	wheelrun.7z <Wheels Runner>
 2eba3b66d5492561a36608700a960c66	whoopee.7z <Pipi &amp; Bibis / Whoopee!! (Teki Paki hardware)>
 b0f296f8d2dace9840a7c964ccf4ad45	wiggie.7z <Wiggie Waggie>
 87cbdd65b96a085d1b7514cd9534db43	wildfang.7z <Wild Fang / Tecmo Knight>
+a43e4a3efc65e60bb9a0b850af4f7f48	wildfangs.7z <Wild Fang>
 242340f7271788d36442786dad5e8a1a	wildplt.7z <Wild Pilot>
 592cec0a3fc4d8cf9b6e57a09bff554b	willow.7z <Willow (World)>
 4bb7e8436675c6286e224b1e7fb110e1	willowj.7z <Willow (Japan, Japanese)>
@@ -5875,6 +6094,7 @@ e15b7b6c93398d917f48c799bca374ef	woodpeca.7z <Woodpecker (set 2)>
 015b9678ba83f461f99f47d808dd009b	worldwar.7z <World Wars (World?)>
 ca7657e82813ead38415b47805773189	wownfant.7z <WOW New Fantasia>
 0696f1c4f9273d07ec614ee6f309c800	wpksoc.7z <World PK Soccer>
+d1e4b2cfee5d2ac4513effaec3f8f261	wpksocv2.7z <World PK Soccer V2 (ver 1.1)>
 d8c6bdd39d4b8d3f87305bfb636297cc	wrally2.7z <World Rally 2: Twin Racing (mask ROM version)>
 a8cb54cf0e97d6969b7e3a07ded3400b	wrally2a.7z <World Rally 2: Twin Racing (EPROM version)>
 e07e71e9d01b6aeb7622741b93a5b1fd	wrally.7z <World Rally (Version 1.0, Checksum 0E56)>
@@ -5920,6 +6140,8 @@ e126cd555d69f669dc53bf922bec5dcf	wyvernf0.7z <Wyvern F-0 (Rev 1)>
 300e76b5689a656f41a650582f4768f4	wyvernf0a.7z <Wyvern F-0>
 3a1720cb9da57c79f9a665c1e9e662c6	wyvernwg.7z <Wyvern Wings (set 1)>
 215cbff46822444a71812ec6e80ba4f0	wyvernwga.7z <Wyvern Wings (set 2)>
+a5cc1e1ea307b887020a5a77fb37c716	x2222.7z <X2222 (final debug?) [Prototype, Prototype - No Sound, Incomplete game]>
+429df63ecfcdd1949969c767093a3c1f	x2222o.7z <X2222 (5-level prototype) [Prototype, Prototype - No Sound, Incomplete game]>
 2df5fd76b70b23808a3ff4c9f680f57c	xevious.7z <Xevious (Namco)>
 b05956715f2900dec8d40cf321aac210	xexex.7z <Xexex (ver EAA)>
 773b5780c2f4fe4d5252d21c2dab791a	xexexa.7z <Xexex (ver AAA)>
@@ -6017,6 +6239,7 @@ c4e4e7086e57d758c85b96d2e0375436	zaxxon.7z <Zaxxon (set 1, rev D)>
 565b1578bf3c5962a87d3cb0a67d8acc	zektor.7z <Zektor (revision B)>
 8717a86c012fdd14720adccb5fc5a293	zero2.7z <Zero (set 2, Defender bootleg) [Bootleg]>
 d02c4c4cde7ae76252540d116a40f23a	zero.7z <Zero (set 1, Defender bootleg) [Bootleg]>
+a3145c8285b9326eb482684ee48a30eb	zerofxz.7z <Oriental Legend ZERO (Hack) [Hack]>
 76b3b8d00166494d6b59479bdd65c4fb	zeropnt2.7z <Zero Point 2>
 0b9cc4d2730c19382a7ac2057c97bac8	zeropnt.7z <Zero Point (set 1)>
 454e504fccf3b27fd1e3ba170fb3d4c6	zeropnta.7z <Zero Point (set 2)>
