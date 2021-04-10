@@ -1,0 +1,293 @@
+b13eb9474a946eff30546a9a2a768649	32X Babe Picture by Fonzie (PD) (32X) [a1].32x
+2449e7f984fb74afd350777439dd3294	32X Babe Picture by Fonzie (PD) (32X).32x
+670b47d74d9253bacff69914c2b1b150	32X Color by mic (PD) (32X).32x
+1d0f135a6f6802975725d4ee7dbc5d22	32X Cube by mic (PD) (32X).32x
+c262f96be8848e27e3f8bd2eaabd9d29	32X Fire by mic (PD) (32X).32x
+6c34b3787bdd95b344388e969d9e650c	32X Kolor by mic (PD) (32X).32x
+e1e65872eabc294a2acfb7c3bd85c837	32X Qinter Demo by Fonzie (PD) (32X).32x
+dbc990db554e98958cbfb90b270a3f13	32X Sample Program - Celtic - PWM Test (U) (32X) [b1].32x
+62d3b8f18c3d90afe343d07ead9c1d4c	32X Sample Program - Celtic - PWM Test (U) (32X).32x
+403b9a8118a465dda23529810e037adf	32X Test4 (PD) (32X).32x
+f772e22b574406e3e20c172117050973	36 Great Holes Starring Fred Couples (E) (32X) [!].32x
+902f28ebdafbdde3e1ba58eb3d4e2cb0	36 Great Holes Starring Fred Couples (E) (32X) [b1].32x
+443a014104ff3145f0b2eebe4ffce0fd	36 Great Holes Starring Fred Couples (E) (Prototype - Dec 13, 1994) (32X).32x
+c30e393f01ada81ca44bad43ee63d3b7	36 Great Holes Starring Fred Couples (E) (Prototype - Dec 14, 1994) (32X).32x
+7a186abafff18ba8ed439f362b56014e	36 Great Holes Starring Fred Couples (E) (Prototype - Dec 21, 1994) (32X).32x
+b90a2a1eec015911aa445f9c41d7bc32	36 Great Holes Starring Fred Couples (JU) (32X) [!].32x
+3e33e547288d1d2a5baf1b21a07f8df0	36 Great Holes Starring Fred Couples (JU) (Prototype - Dec 02, 1994) (32X).32x
+97caf7c900fe4bcee30117365a70543c	36 Great Holes Starring Fred Couples (JU) (Prototype - Dec 03, 1994) (32X).32x
+fa60425cd76cfdbee2dc8000b3099a98	36 Great Holes Starring Fred Couples (JU) (Prototype - Dec 06, 1994) (32X).32x
+fa347c89886d60279abf6b1d6c0c5f02	36 Great Holes Starring Fred Couples (JU) (Prototype - Dec 19, 1994) (32X).32x
+86fcf541b14f98dedb8c8deff14de868	36 Great Holes Starring Fred Couples (JU) (Prototype - Dec 21, 1994) (32X).32x
+9db9c401226292cefd5a28f6adfa5065	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 18, 1994) (32X).32x
+c9ce63ee1c915b4ffd1d14940ecbf7c6	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 19, 1994) (32X) [a1].32x
+4b5fd6be86b307399bc6592d8eae79b5	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 19, 1994) (32X).32x
+12aae94fab8374e0c61c8220f28007b7	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 21, 1994) (32X).32x
+f4877c8823d7f39df0932068ed23a585	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 22, 1994) (32X) [a1].32x
+9035d2efd419306d5014df16f0dd29a4	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 22, 1994) (32X).32x
+11d87989771f3f0882512a52e758439e	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 23, 1994) (32X).32x
+3920135572b377d760cee34995c159bd	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 26, 1994) (32X).32x
+7d04ff0502908fe179ad90aaa5270542	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 27, 1994) (32X).32x
+8b2f55c154013452170e0dfd77d5ad2a	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 28, 1994) (32X) [a1].32x
+20917b40eb81edeebfceb57aec9b419d	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 28, 1994) (32X).32x
+bbcf031159ad7ea4b014a58c0ed9433f	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 29, 1994) (32X).32x
+9386cbfe21dcb58cc8a8006c8bc06e61	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 30, 1994) (32X).32x
+56b0c88cd4aef3ff65ef623527a9edba	36 Great Holes Starring Fred Couples (Prototype - Jul 06, 1994 REV1.x) (32X).32x
+03480484a4d2e3fe3353900dc3033101	36 Great Holes Starring Fred Couples (Prototype - Nov 01, 1994) (32X).32x
+7f1ddc96f801c121adb5e6b1a5c2f73f	36 Great Holes Starring Fred Couples (Prototype - Nov 03, 1994) (32X).32x
+ca9ca81bde5b0819d1bcce097796a41b	36 Great Holes Starring Fred Couples (Prototype - Nov 05, 1994) (32X).32x
+6bc3ecead9db55f646f4db49d484403d	36 Great Holes Starring Fred Couples (Prototype - Nov 07, 1994) (32X).32x
+415b56539f3dbe85fbc9e327e7512136	36 Great Holes Starring Fred Couples (Prototype - Nov 08, 1994) (32X).32x
+a1cfa86bc7d81f199f0b329ddf4458e7	36 Great Holes Starring Fred Couples (Prototype - Nov 10, 1994) (32X).32x
+bcb29b2ec1d693aa863998b19a1873f4	36 Great Holes Starring Fred Couples (Prototype - Nov 16, 1994) (32X).32x
+2600f3ba9d72947910e7cffeba8f5b71	36 Great Holes Starring Fred Couples (Prototype - Oct 11, 1994) (32X).32x
+6aca59ba95b6c1defe19ed32f00d3ef1	36 Great Holes Starring Fred Couples (Prototype - Oct 17, 1994) (32X).32x
+1fc6e86e79315775cb93649f4cfe83d9	36 Great Holes Starring Fred Couples (Prototype - Oct 18, 1994) (32X).32x
+c5a1281e901df24a620a66026373cddc	36 Great Holes Starring Fred Couples (Prototype - Oct 24, 1994) (32X).32x
+61bf65053db9eaa967bca74e18adf23d	36 Great Holes Starring Fred Couples (Prototype - Oct 26, 1994) (32X).32x
+a8e05bd3cdf97e1811ebd6d52c4371a7	After Burner Complete (E) (32X) [!].32x
+ec9529858cc7961b39f5382b2f657b8f	After Burner Complete (JU) (32X) [!].32x
+e6a3e8049631c65ea7193c15159012d9	Back and Forth Rotating XOR Palette by DevSter (PD) (32X).32x
+adea726d3a7186292274014024620fb8	Backward Rotating XOR Palette Demo by DevSter (PD) (32X).32x
+a1d15c221af1d1c797ce65d70652e8f0	BasiEgaXorz - Scrolling Anime Pic by Devster (PD) (32X).32x
+35a11e021ca0b7ff909e4774eb8b3236	BC Racers (W) (32X) [c][!].32x
+c238b112113b0297b2b9f4f618d56598	Blackthorne (U) (32X) [!].32x
+8527e4a0d69dd62ee009cfe4959cddb3	Blackthorne (U) (32X) [b1].32x
+1738a479b0253bcb0bcfb7bf09c03add	Brutal Unleashed - Above the Claw (U) (32X) [!].32x
+8aadc467d31bc64f95a7fbe8f95afeb3	Cosmic Carnage (E) (32X) [!].32x
+32f3002a46a462735aa12ca856cb7652	Cosmic Carnage (JU) (32X) [!].32x
+f2a81c48457191b4f3329792941ac71a	Cosmic Carnage (JU) (Prototype - Oct 04, 1994) (32X).32x
+0210673f0735f1f0956057243bef919c	Cosmic Carnage (JU) (Prototype - Oct 05, 1994) (32X).32x
+0eee6f56666fd70b3483bad9b5297a5e	Cosmic Carnage (JU) (Prototype - Oct 07, 1994) (32X).32x
+52a2e8a8a6a031e0ae731d2efd65a982	Cosmic Carnage (JU) (Prototype - Oct 11, 1994) (32X).32x
+7f97f54d53a6adfcde9a56faaf448c34	Cosmic Carnage (JU) (Prototype - Sep 26, 1994) (32X).32x
+ad83a93fc3a31444bdd89ddb11262c5d	Cosmic Carnage (JU) (Prototype - Sep 28, 1994) (32X).32x
+2a6755d2c4f00bc8569a3fd41dd556d8	Cosmic Carnage (Prototype - Sep 06, 1994) (32X).32x
+4fd7b679099aaf9ebe8dec1603ec3780	Cosmic Carnage (Prototype - Sep 21, 1994) (32X).32x
+30ee320f76db70a836edeff2c8ce9cd2	Darxide (E) (M4) (32X) [!].32x
+833653b5fd3d49c73e562a42eb7f4f8b	DevSter Owns! Text Demo (PD) (32X).32x
+b17b61962136f99abe1d6d1bb844d71c	DevSter's GALAXIAN! (PD) (32X).32x
+7c2144bc01cb16b2c12f0c3913e9d3cb	Doom - 24 Level Expansion Addendum v1.1 by Saxman & Nuxius (Hack) (32X).32x
+dda2e9bb2d2c97de09f0dd5ac87e3744	Doom - 24 Level Expansion v1.0 by Saxman & Nuxius (Hack) (32X).32x
+1abe8b9b1855b1b101cb7f1d86395c22	Doom (E) (32X) [!].32x
+fd439f39b26ba22e4f79a0c87352c6b0	Doom (E) (Prototype - Oct 02, 1994) (32X).32x
+79339867d9d4f58b169753d9a29ea1a5	Doom (JU) (32X) [!].32x
+0a581f2470a35141f32c90c9e9c7f3e5	Doom (Prototype - Sep 01, 1994) (32X).32x
+2f9dfd9c5e06f9df0cfbe0f7e2a425d7	Doom (Prototype - Sep 06, 1994) (32X).32x
+f9ac4fff9b19ac75fa6d22a89ea942c6	Doom (Prototype - Sep 09, 1994) (32X).32x
+f243589e68209c8f18f0d4e5775c3107	Doom (Prototype - Sep 14, 1994) (32X).32x
+c645547a0d1da8758663317bc9634224	Doom (Prototype - Sep 16, 1994) (32X).32x
+46811a3ae28768d571af51796a940b8f	Doom (Prototype - Sep 21, 1994) (32X).32x
+54c0ae49bd3f514c60976a4e62b8527e	Doom (Prototype - Sep 23, 1994) (32X).32x
+9abc704274f7d59f20832b2aa4d7ec8d	Doom (Prototype - Sep 25, 1994) (32X).32x
+000d37e58327be661c6c9c6803077c5b	Doom (U) (Prototype - Sep 27, 1994) (32X).32x
+e7917f7d91c05c0f928f6b4d68c553b2	Doom RR (JU) (Prototype - Feb 15, 1995) (32X).32x
+c7786d03342fa87c291480d346e18402	Doom RR (JU) (Prototype - Feb 21, 1995) (32X).32x
+37974d4c2596436922770ebbeed0927b	Doom RR (JU) (Prototype - Mar 07, 1995) (32X).32x
+c2b642fdcfff8bff511e45203a1e8679	ECCO The Dolphin CinePak Demo (JU) (32X).32x
+24aaa6ef307d20147ce10e7610e59aa2	FIFA International Soccer 96 (UE) (M6) (32X) [c][!].32x
+bc810ff50d9187b5ef603a68c2adee7b	Fuboy - Gameboy Emulator by mic (v2009-01-31) (PD) (32X).32x
+11990609886231d241bd284fd2c05adb	Green Rotating No Stretching XOR Palette Demo by DevSter (PD) (32X).32x
+d6f06432d0e6a01940eb64c4a3f8a554	Green Rotating XOR Palette Demo by DevSter (PD) (32X).32x
+a62154ed4f0cfacd79012cdb2a164191	Hot Chick by DevSter (PD) (32X).32x
+4c6906c7d0e7a0a01268806a8a7fa788	Hot Chick Drawn Without the SH2s for Emulators by DevSter (PD) (32X).32x
+ff00fe687c0712952176510a0ceb1046	Hot Chick Drawn Without the SH2s for Hardware by DevSter (PD) (32X).32x
+546823f02d20458c20113cf23e41c764	Hot Chick in High Quality 15BPP by DevSter (PD) (32X).32x
+174fcbc5026408d00e727b907970f660	Hot Chick in VDP Mode 2 by DevSter (PD) (32X).32x
+e68d3dba08fed9b6301502e89e226595	Hot Chick in VDP Mode 3 by DevSter (PD) (32X).32x
+dde7f49364694285edc48b7362c45c91	Hot Chick Spinning Demo by DevSter (PD) (32X).32x
+ca13d2ec9f208b0ebf90dd7b60124f6e	Hot Chick Spinning Slower Demo by DevSter (PD) (32X).32x
+d6dbd0dc6748d90d69095f9c473a40c2	Hot Chick with Genesis VDP Overlay by DevSter (PD) (32X).32x
+b3afa1355edd3d8ea546a3562de877b3	Hot Chick Zoom Shot by DevSter (PD) (32X).32x
+4ce9e6b6e8883d8a678d90aabce022d0	Knuckles' Chaotix (E) [!] (32X).32x
+72d3eb77a39f28adf0c679b6eddbf95e	Knuckles' Chaotix (E) [f1] (32X).32x
+47b1095e68b053125cd2cd5b1ac4eb50	Knuckles' Chaotix (JU) (32X) [!].32x
+d0981100adf924a085c4c43ffd3f8b4c	Knuckles' Chaotix (JU) (32X) [f1].32x
+d8ad7470835e0edc83b770b59584f625	Knuckles' Chaotix (JU) (Prototype 0111 - Jan 12, 1995, 09.36) (32X).32x
+dde8f92c0fb80488f53ebbce98bd203c	Knuckles' Chaotix (JU) (Prototype 119 - Jan 19, 1995, 07.04) (32X).32x
+e6c65023505129b294c48d37a2d7899d	Knuckles' Chaotix (JU) (Prototype 0202 - Feb 07, 1995, 15.25) (32X).32x
+b37e562d5c0a26122abf66ac94fef886	Knuckles' Chaotix (JU) (Prototype 208 - Feb 08, 1995, 11.17) (32X).32x
+241082f8b6399e658e3516281a2a725e	Knuckles' Chaotix (JU) (Prototype 209 - Feb 09, 1995, 08.25) (32X).32x
+b925cb18160ced5285981a3edd5c4213	Knuckles' Chaotix (JU) (Prototype 210 - Feb 10, 1995, 06.28) (32X).32x
+9d986b6c96704de70e43988825df463a	Knuckles' Chaotix (JU) (Prototype 0213 - Feb 13, 1995, 07.30) (32X).32x
+bdd716e7e0ce4a24ad73179fba8d65dd	Knuckles' Chaotix (JU) (Prototype 213B - Feb 13, 1995, 06.46) (32X).32x
+5e1012438fdeda44b64589fd33daad5f	Knuckles' Chaotix (JU) (Prototype 214 - Feb 14, 1995, 06.46) (32X).32x
+ed059ef80f0292989c0cc86a0224f09d	Knuckles' Chaotix (JU) (Prototype 1207 - Dec 07, 1994, 07.15) (32X).32x
+a161c79dd955d971ee3fcb2e01777257	Knuckles' Chaotix (JU) (Prototype 1227 - Dec 27, 1994, 10.28) (32X).32x
+88c27c63dd58ba339b4db3a1c8791521	Knuckles' Chaotix (JU) (Prototype 1229 - Dec 30, 1994, 15.31) (32X).32x
+6af6207b1e67072a9104178130c61712	Kolibri (W) (32X) [!].32x
+489ded0cc43448881cd863418bacf8e6	Mars Check Program V1.0 (JU) (32X).32x
+ec48db13ba343e50971782cd2a9cbcf9	Mars Initial & Security Program v1.0 (32X).32x
+cf2a08955a2c92cf6b3a562807f0896e	Mars Sample Program - Egypt (JU) (32X) [b1].32x
+7b84a8f2ba03b9a610db594d47693b45	Mars Sample Program - Egypt (JU) (32X) [b2].32x
+4213c4846622dbefb514a0441a553ace	Mars Sample Program - Egypt (JU) (32X).32x
+97dbcc7366802b37a7f1fbbdcb5bd943	Mars Sample Program - Gnu Sierra (JU) (32X) [b1].32x
+fc5dc432cef5d977a7b9a0575acd884e	Mars Sample Program - Gnu Sierra (JU) (32X).32x
+d79b2e1d3efaa1fa85b83afed474efc6	Mars Sample Program - Runlength Mode Test (JU) (32X) [b1].32x
+915472c8d25c79f819492f660e5a8d06	Mars Sample Program - Runlength Mode Test (JU) (32X).32x
+2cd456b784dfb3b214b51086d5954839	Mars Sample Program - SOJ (JU) (32X) [b1].32x
+68e63e08aa1b95d4b5b249ef6de7b1b3	Mars Sample Program - SOJ (JU) (32X).32x
+0eded8598a9d1d83c1abaef65fe7ea54	Mars Sample Program - Texture Test (JU) (32X) [b1].32x
+bd0b324d1edd51103a350e1973179fb7	Mars Sample Program - Texture Test (JU) (32X).32x
+5ab011dae907f77e68eb764bec3870d8	Metal Head (E) (M2) (32X) [!].32x
+9add3dfa94adec73fb9a8ebd972da04e	Metal Head (E) (M2) (32X) [b1].32x
+03cc5d7549d71ba4e9ddc1beae3805fb	Metal Head (JU) (M2) (32X) [!].32x
+aae550a44c4f349b25db009ef84fcabd	Metal Head (JU) (Prototype - Dec 02, 1994) (32X).32x
+ebb8f4df5e5215a5c8d2e1facbb8396b	Metal Head (JU) (Prototype - Dec 07, 1994) (32X) [a1].32x
+b68bf1cdba527506bb6b0aa04a0f3656	Metal Head (JU) (Prototype - Dec 07, 1994) (32X).32x
+5e2f45365c0eaedc7b22127343f4ed38	Metal Head (JU) (Prototype - Dec 09, 1994) (32X).32x
+176aaa2a84d0cc82e21c35f21dc45e64	Metal Head (JU) (Prototype - Dec 13, 1994) (32X).32x
+ac7e0ef84b3f72bb4766ad1af74a5318	Metal Head (JU) (Prototype - Dec 20, 1994) (32X).32x
+360ec44967bcc22a05dcd215c624897f	Metal Head (Prototype - Nov 14, 1994) (32X).32x
+e36b87067183fe1ba286f0957c469b62	Metal Head (Prototype - Nov 18, 1994) (32X).32x
+9c5c8e456c5237705e6b9fd39fef093b	Metal Head (Prototype - Nov 21, 1994) (32X).32x
+9d258d11fe1e4cac2c1aab370c35e57a	Mortal Kombat II (E) (32X) [!].32x
+a95c0e7c1d35fd42cd2e3eb7b06cb6d0	Mortal Kombat II (JU) (32X) [!].32x
+6bc365808a00b8a640dd86ccb5a0ea24	Motocross Championship (E) (32X) [!].32x
+2c4a934985021624d48725b8d7b039e8	Motocross Championship (JU) (32X) [!].32x
+b741a12b72807648aee002105ce8d282	Motocross Championship (Prototype - Oct 12, 1994) (32X).32x
+57182c2a4edebec3858942094c5a482b	Motocross Championship (Prototype - Oct 17, 1994) (32X).32x
+f0c494585f0fad8d77bf9115a6875399	Motocross Championship (U) (Prototype - Nov 01, 1994) (32X).32x
+0fea70d9fe033ff4da6b0c4e31140b26	Motocross Championship (U) (Prototype - Nov 02, 1994) (32X) [a1].32x
+9eec4062c7d36f158d265731a8ab749a	Motocross Championship (U) (Prototype - Nov 02, 1994) (32X).32x
+a8359f240a85576a2904280c2b8c2fbb	Motocross Championship (U) (Prototype - Nov 03, 1994) (32X).32x
+a8b3f927ca15c43a0096357fb149f46a	Motocross Championship (U) (Prototype - Nov 04, 1994) (32X).32x
+868b0df732d4073e0b4070e2b762e134	Motocross Championship (U) (Prototype - Nov 07, 1994) (32X).32x
+ffdc287031f59d3ce4a6f4c2b69aff31	Motocross Championship (U) (Prototype - Nov 08, 1994) (32X).32x
+5bdc8f310638695b570f92ffd99c7c59	Motocross Championship (U) (Prototype - Nov 11, 1994) (32X).32x
+ff8fc197fcd71018564473e83db5d40c	Motocross Championship (U) (Prototype - Oct 18, 1994) (32X).32x
+b52dc9a0fd6c3bf46a66dc608965fdaa	Motocross Championship (U) (Prototype - Oct 19, 1994) (32X).32x
+400cf0229ebc8d441a7b03733c55cd55	Motocross Championship (U) (Prototype - Oct 20, 1994) (32X).32x
+ff2dfbe40f8863c123e9d82c0edf6e6e	Motocross Championship (U) (Prototype - Oct 24, 1994) (32X).32x
+0e3f3a483d99c8d1cc03a3402afa13c9	Motocross Championship (U) (Prototype - Oct 28, 1994) (32X).32x
+966a5e00dd7bcdc70b05c5a0c0e8f7aa	NBA Jam Tournament Edition (W) (32X) [!].32x
+e273c10114351cdafeba1abccca8909d	NFL Quarterback Club (W) (32X) [!].32x
+f5954481e3ccc894e2bb1cfc258eee2d	Optimized Rotating XOR Palette Demo by DevSter (PD) (32X).32x
+e091e542f7ea29ef3daf6022b36e219b	Pitfall (U) (32X) [!].32x
+e1efc5804d3360e7b19f7542219bf964	Primal Rage (W) (32X) [!].32x
+5f955b5feab07c072fc345f1fee52a60	R.B.I. Baseball 95 (U) (32X) [!].32x
+40d1ac4aec5d036bc635724503a6aa39	Rotating No Background Fill XOR Palette Demo by DevSter (PD) (32X).32x
+fbfd4e7544095684573e7968c22fc526	Rotating Pixel Skipping XOR Palette Demo by DevSter (PD) (32X).32x
+9d5bac98307eccc776bac4831f60c524	Rotating XOR Palette Demo by DevSter (PD) (32X).32x
+f4bb8844d77442dbb5bee78d0246b456	Sangokushi IV (J) (32X) [!].32x
+b7cac9f37b7873127afe7a91dead2bde	Shadow Squadron (Prototype - Feb 06, 1995) (32X).32x
+775d395064002f0d1120f3e67e936f2b	Shadow Squadron (Prototype - Feb 13, 1995) (32X).32x
+1f363c972686056a475813f61b8600bf	Shadow Squadron (Prototype - Feb 22, 1995) (32X).32x
+f5e23c9c89673f3f2294eef5d2e5ca67	Shadow Squadron (Prototype - Mar 02, 1995) (32X).32x
+9b2f80f1c52b78885cebd8140e99166e	Shadow Squadron (Prototype - Mar 06, 1995) (32X).32x
+c304de27cdb1cf7dbf660c37f666ac13	Shadow Squadron (Prototype - Mar 13, 1995) (32X) [a1].32x
+df79824d61c1f4f7a258450528a1ff3c	Shadow Squadron (Prototype - Mar 13, 1995) (32X).32x
+1415a8675adf3e8647b3df673b50056d	Shadow Squadron (UE) (32X) [!].32x
+968a10801c3024a64272f13ca9cb6906	Sonic 32x Plus by MarkeyJester (PD) (32X).32x
+8ef36080f859a7a73d7ac4de27bcc448	Sonic in Chaotix - Revision 2 (Knuckles' Chaotix Hack) (32X).32x
+08a0e8a2fed8a87d32d0f9965dbf57b6	Sonic in Chaotix (Knuckles' Chaotix Hack) (32X).32x
+fcd9af0bc04d443b1236d0b800ba94f0	Sonic The Hedgehog 32X by drx (Jan 11 2008) (PD) (32X).32x
+5fe57f2fb4fe3a2ee4f965ee85d38bf6	Sonic The Hedgehog 32X by drx (Nov 17 2007) (PD) (32X).32x
+c8a9b73b4ed5de9eb2d9f6426a4f9036	Sonic The Hedgehog 32X by drx (Nov 18 2007) (PD) (32X).32x
+f58f9dea8388ac4b5ce6a2be64798677	Sonic The Hedgehog 32X by drx (RC1) (PD) (32X).32x
+001191656819e2ed3b6115979607fab7	Sonic The Hedgehog 32X by drx (RC2) (PD) (32X).32x
+e1e0a7e518fb26eddb7504ab56d6db31	Sonic The Hedgehog 32X by drx (RC3) (PD) (32X) [a1].32x
+7619bea5864e4745e43f681428e4f7fe	Sonic The Hedgehog 32X by drx (RC3) (PD) (32X).32x
+e113e76b5500242219404baa66f73383	Sonic The Hedgehog 32X by drx (V1.0enhanced) (PD) (32X).32x
+8c344084c0fee5be7d8c17fbd6b47b51	Sonic The Hedgehog 32X by drx (V1.0pureport) (PD) (32X).32x
+e7d3cb380b054cd00df2ca762871ff2f	Soulstar X (Prototype) (32X) [o1].32x
+4e9d4bd4122fbe72d6f6918e55a58a35	Soulstar X (Prototype) (32X) [o2].32x
+d11bf6ed189baebe9dab0697611d85fb	Soulstar X (Prototype) (32X) [o3].32x
+df10fde09e5f3eafca391137add8ed37	Soulstar X (Prototype) (32X) [o4].32x
+84a09aec8a520b274a7e577ff8a29317	Soulstar X (Prototype) (32X) [o5].32x
+db0b980716ad26d6338d6b4e9d98f80d	Soulstar X (Prototype) (32X).32x
+4619e328e1719bee165941d891c08d81	Space Harrier (E) (32X) [!].32x
+6180e973f678bfc96705e8be4e0783f1	Space Harrier (JU) (32X) [!].32x
+1c1b4a07286b6df9eead9a0305672198	Space Harrier (JU) (Prototype - Sep 20, 1994) (32X).32x
+54d0fcc08ffd1fceab04690ab8dcf6dc	Spear of Destiny Shareware 32X by Chilly Willy (beta1) (32X).32x
+d8b44862ce9544b7b2e3ed75b98163a8	Spear of Destiny Shareware 32X by Chilly Willy (beta2) (32X).32x
+f835f016100c976a01448cdd98f53578	Spear of Destiny Shareware 32X by Chilly Willy (beta3) (32X).32x
+03549d99d30ba8853a0269a87c36c4e3	Spear of Destiny Shareware 32X by Chilly Willy (beta4) (32X).32x
+de7a121aec35a92de775755204e665a8	Spear of Destiny Shareware 32X by Chilly Willy (beta5) (32X).32x
+a60b0838a776966e17a8f10b94baddef	Spider-Man - Web of Fire (W) (32X) [!].32x
+78086fba202066ff4f968d35e7c21c11	Star Trek - Starfleet Academy Bridge Simulator (U) (32X) [!].32x
+bfaa6fd031490c26e25f3d59d9c37497	Star Wars Arcade (E) (32X) [!].32x
+6e75534d5f3d7bf42f15cdf0faf3e0da	Star Wars Arcade (E) (Prototype - Oct 06, 1994) (32X).32x
+777e1ae822f9ed033d27aa1e409d9623	Star Wars Arcade (E) (Prototype - Oct 07, 1994) (32X).32x
+1cf3240ce3d994719ee9fc06e827262a	Star Wars Arcade (E) (Prototype - Sep 23, 1994) (32X).32x
+1b6fc1ef31464acd728783e746286f1f	Star Wars Arcade (E) (Prototype - Sep 29, 1994) (32X).32x
+f6e8648a6ced9017c9f0bf0ca544f17f	Star Wars Arcade (J) (32X) [!].32x
+7837ea435585cf60c1d7ea2d99248e19	Star Wars Arcade (J) (Prototype - Oct 03, 1994) (32X).32x
+ec824311a5f31007a5bdd98b5209b138	Star Wars Arcade (J) (Prototype - Oct 05, 1994) (32X).32x
+320fb649a04da1e5decde198bd799f97	Star Wars Arcade (J) (Prototype - Sep 30, 1994) (32X).32x
+e0603f3785e9ce60bc47c7a4419b6606	Star Wars Arcade (Prototype - Aug 30, 1994) (32X).32x
+67c748fa61e808312f32cc727d0e44cb	Star Wars Arcade (Prototype - Sep 01, 1994) (32X).32x
+95dee4ef705455008ec9570b8fabfcd1	Star Wars Arcade (Prototype - Sep 07, 1994) (32X).32x
+76ca792a475cccff4e76fe7e0f248886	Star Wars Arcade (Prototype - Sep 09, 1994) (32X).32x
+ae3a42c6297ef25c6018a209fda0194e	Star Wars Arcade (U) (32X) [!].32x
+1e233836cacf3ebef42cf0fc78397fb1	Star Wars Arcade (U) (32X) [b1].32x
+267df04136c31ca16e1f3870945c446e	Star Wars Arcade (U) (Prototype - Sep 12, 1994) (32X).32x
+b0eadfa1cb6b9f0d44e45433baab8857	Star Wars Arcade (U) (Prototype - Sep 13, 1994) (32X).32x
+03957d55ddeb3faa8758eded5e2ceef9	Star Wars Arcade (U) (Prototype - Sep 14, 1994) (32X).32x
+01e5b6f81beb2f5b0ab4e9d43fb1f3a8	Star Wars Arcade (U) (Prototype - Sep 15, 1994) (32X).32x
+0a9683a85087d3953ac782046741c864	Star Wars Arcade (U) (Prototype - Sep 16, 1994) (32X).32x
+c834b1d6d0a9e8ac2cc7a06310700d7e	Star Wars Arcade (U) (Prototype - Sep 18, 1994) (32X).32x
+5f6c601dcecca937b6f2c2161e4566fe	Stellar Assault 32X (J) (32X).32x
+e93c5656eb04c97a9cd37b6f56c19323	Super-X Raycasting Engine Test 1 by Fonzie (PD) (32X).32x
+024773eab6b3aacd7d4528f18c110d60	Super-X Raycasting Engine Test 2 by Fonzie (PD) (32X).32x
+9349b07af5cf6c7dd39ea0e43ae6a29d	Switching CRAM Palettes by DevSter (PD) (32X).32x
+30989c83d4e4ea3c35a1f3e2620b8465	Tempo (JU) (32X) [!].32x
+f97cd1d66bcc7378569cc92f2b073025	Tempo (JU) (Prototype - Feb 04, 1995) (32X).32x
+07d06786fdc642449deff5d7880b2ef5	Tempo (JU) (Prototype - Feb 06, 1995) (32X) [a1].32x
+ac6ee8d2c258e00a6d752122f701fab0	Tempo (JU) (Prototype - Feb 06, 1995) (32X).32x
+2ae43c978349214492d2172758ba21b3	Tempo (JU) (Prototype - Feb 07, 1995) (32X).32x
+2e989b696e1447358829ebcc37ac1476	Tempo (JU) (Prototype - Jan 24, 1995) (32X).32x
+a45f3d6db91df1bc3950173285a726f5	Tempo (JU) (Prototype - Jan 26, 1995) (32X).32x
+cc6570e604c22f51dc24347663da1732	Tempo (Prototype - Dec 29, 1994) (32X).32x
+62790d7ffe26582288b0b0ae40bbd60e	Tempo (Prototype - Jan 21, 1995) (32X).32x
+1b06c84caf09206a8d9f0bb3eaaba512	T-MEK (W) (32X) [!].32x
+386d99d132ce5699ade81b4473cef5b4	Toughman Contest (W) (32X) [!].32x
+500ab2d460721db06b6243027f6a0eab	Virtua Fighter (32X) (Prototype - Jun 15, 1995).32x
+4a51f39e2e6fd27456cdfc18c1b1017c	Virtua Fighter (32X) (Prototype - Jun 30, 1995).32x
+14d0fdf6df181ec4902942975e470913	Virtua Fighter (32X) (Prototype - May 30, 1995).32x
+adcf6c6150d1bc3d073d3754b22ebc69	Virtua Fighter (E) (32X) [!].32x
+17de0712018b95cd307a4c7c835ee426	Virtua Fighter (E) (32X) [b1].32x
+0588d74176fd687ce3956d7bfa1b929a	Virtua Fighter (E) (32X) [b2].32x
+901e97c9f731fbdf1f1ead0fbf58249a	Virtua Fighter (JU) (32X) [!].32x
+374dd57d027e06601d1193b67da8c2b2	Virtua Fighter (JU) (Prototype - Jul 17, 1995) (32X).32x
+b969b201c236a764f125ed2e9b3a12f9	Virtua Fighter (JU) (Prototype - Jul 21, 1995) (32X).32x
+16c67ad8853789279178f93780aa69c3	Virtua Fighter (JU) (Prototype - Jul 24, 1995) (32X).32x
+f48a565aab16802c99b645f48a5cb503	Virtua Fighter (JU) (Prototype - Jul 25, 1995) (32X).32x
+91a280e429dd01bdfc5c8c8e28c7eef1	Virtua Hamster (U) (32X) (Prototype) [!].32x
+b3a4929fcb61bc9ecdfd9ac453860fc1	Virtua Hamster (U) (32X) (Prototype) [o1].32x
+c30a6430b1a7e819bd2dde63a41d4d57	Virtua Racing Deluxe (E) (32X) [!].32x
+fb8b10729078de36a736bc4decae97d6	Virtua Racing Deluxe (E) (32X) [b1].32x
+31d1280d97a866c35180acddbbe0ba34	Virtua Racing Deluxe (E) (32X) [h1C].32x
+08cae0a96d9ee07001c6e1c247d407c6	Virtua Racing Deluxe (J) (32X) [!].32x
+c07a68331b846d1614954554c0414f86	Virtua Racing Deluxe (Prototype - Aug 22, 1994) (32X).32x
+72b1ad0f949f68da7d0a6339ecd51a3f	Virtua Racing Deluxe (U) (32X) [!].32x
+9e7b5d7e83ae5f25421a44e14d6140bf	Virtua Racing Deluxe (U) (Prototype - Aug 29, 1994) (32X).32x
+a5efb294179bc3bdc6515383bcdeb63d	Virtua Racing Deluxe (U) (Prototype - Sep 05, 1994) (32X).32x
+c71b9c276a854146f0f2adc6b09c5455	Wolfenstein 3D Beta by Chilly Willy (32X).32x
+e4355dd2582c390da907ee09e2f34c49	Wolfenstein 3D by Chilly Willy (Alpha1) (32X).32x
+f903f970bab4212980da780f7562a659	Wolfenstein 3D by Chilly Willy (Alpha2) (32X).32x
+c7e9c4d0e9cff99e9358095e26c8ff80	Wolfenstein 3D by Chilly Willy (Alpha3) (32X).32x
+fa1a49dfc814d24abba15630eed6d811	Wolfenstein 3D by Chilly Willy (Alpha4) (32X).32x
+1e53ced758efa5c57788689d44bafb3a	Wolfenstein 3D by Chilly Willy (beta1) (32X).32x
+41152bd12a26fb534cc4a70d5507098b	Wolfenstein 3D Shareware 32X by Chilly Willy (beta1) (32X).32x
+2313ecb13a0f39a21d3b66f7fe2244c4	Wolfenstein 3D Shareware 32X by Chilly Willy (beta2) (32X).32x
+cc40570419882b50a1e5258c1d3055d4	Wolfenstein 3D Shareware 32X by Chilly Willy (beta3) (32X).32x
+677dccec7c3bc61b159230e87928fbbc	Wolfenstein 3D Shareware 32X by Chilly Willy (beta4) (32X).32x
+7ad6263cde1964750bc780abf4c1f32a	Wolfenstein 3D Shareware 32X by Chilly Willy (beta5) (32X).32x
+4d14eab0585e79e2fc4789e090755f2d	World Series Baseball '95 (U) (32X) [!].32x
+b3788f861803d21cfa0e559695835f44	WWF RAW (W) (32X) [!].32x
+8456cae9975ba6cb041c4ef2be54b1a1	WWF Wrestlemania Arcade (W) (32X) [!].32x
+bdd19a34a887a4aa6067ccfb617b9041	X-Men - Mind Games (U) (Prototype) (32X).32x
+fef67ecdf8c5369ba4acafac99c768b5	XOR Palette Demo by DevSter (PD) (32X).32x
+f642e289bfb670022e0ae001786bdf94	xRick for Sega 32x by Chilly Willy (v30-04-2011) (32X).32x
+47704b908f3efc013bc29bd7205baaa0	YETI3D Demo (PD) (32X).32x
+bd32a5e46d0159dc88cb31ea4bd9d899	Zaxxon's Motherbase 2000 (JU) (32X) [!].32x
+bce14cea563e804765e793ce6ef91311	Zaxxon's Motherbase 2000 (JU) (Prototype - Feb 10, 1995) (32X).32x
+fa84f37b4d7a53b160fa3596be9caf7c	Zaxxon's Motherbase 2000 (JU) (Prototype - Feb 21, 1995) (32X).32x
+62de41e3546891b6a95ec28a558aefb2	Zaxxon's Motherbase 2000 (JU) (Prototype - Feb 23, 1995) (32X).32x
+fd3eb732b7fdca39eded45b90cff25ab	Zaxxon's Motherbase 2000 (JU) (Prototype - Feb 27, 1995) (32X).32x
+0827db2ebc41af9dfd693b0b8630fdf1	Zaxxon's Motherbase 2000 (JU) (Prototype - Mar 03, 1995) (32X).32x
+478fab0968e5f8248d7e5ad5ebc8a0ae	Zaxxon's Motherbase 2000 (JU) (Prototype - Mar 06, 1995) (32X).32x
+4c4f31281b713b7f515d909c78825ae9	Zaxxon's Motherbase 2000 (JU) (Prototype - Mar 10, 1995) (32X).32x
+c81f0e02b7f779ee532c7b9b92c79240	Zaxxon's Motherbase 2000 (JU) (Prototype - Mar 15, 1995) (32X).32x
+9ce8f1476ef7b6678ec134c6edda8147	Zaxxon's Motherbase 2000 (JU) (Prototype - Mar 31, 1995) (32X).32x

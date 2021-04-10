@@ -1,0 +1,874 @@
+ecf1218706e9b547eab9e4be58d54e21	BB71B522	3-D Tetris (USA).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+a460e2660fa951e9d4e3b05aee9f5018	E81A3703	Bound High (Unknown) (Proto).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+85260599fdada2e137053a8647aa0d06	C9710A36	Galactic Pinball (Japan, USA).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+977c4da800dacfac1a1402781670f872	2199AF41	Golf (USA).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+1eb964d0eaa3223cfefdcc99a6265c88	83CB6A00	Innsmouth no Yakata (Japan).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+ee873c9969c15e92ca9a0f689c4ce5ea	A44DE03C	Jack Bros. (USA).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+1b177fe2dd12ec1d67f6a43502f8d391	CAB61E8B	Jack Bros. no Meiro de Hiihoo! (Japan).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+b1b3a25ce8fb4f406bf82b8765d307d0	A47DE78C	Mario Clash (Japan, USA).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+38ecc2c5a745a80d32eb9e8e413358c4	7CE7460D	Mario's Tennis (Japan, USA).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+0285dc41d75be8419d12472f20025305	DF4D56B4	Nester's Funky Bowling (USA).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+d9a0215782dcacee5a3c4cc83d1c5189	F3CD40DD	Niko-chan Battle (Japan) (Proto).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+467247d5e3383d066005565bf8218436	19BB2DFB	Panic Bomber (USA).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+bc469bf797f4774bbb1678c7f500853b	7E85C45D	Red Alarm (Japan).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+e56e85761f52a613b34079d5322088ce	AA10A7B4	Red Alarm (USA).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+1cf8c69d8a740d6ef3aab54deced31c4	44788197	SD Gundam - Dimension War (Japan).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+7607f6f918615263512b17e56797c9aa	FA44402D	Space Invaders - Virtual Collection (Japan).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+31073126fad41777357391ecc36d6f7f	44C2B723	Space Pinball (Unknown) (Proto).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+09c5f3143c25d1d30a3470e571653e48	60895693	Space Squash (Japan).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+c1dc0852af217146f93d701e1da233d4	6BA07915	T&E Virtual Golf (Japan).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+0742a861a599fe3361aac6ebef6745a7	36103000	Teleroboxer (Japan, USA).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+44039dfaa0f8fcf8ece03b8cda267e4a	40498F5E	Tobidase! Panibon (Japan).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+262bbae465f851ded3bb7cf46e375224	3CCB67AE	V-Tetris (Japan).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+fa50ce1effb4ce1d66438f723be5c788	9E9B8B92	Vertical Force (Japan).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+87c38f66d5b9ead72af22f515a3a5f51	4C32BA5E	Vertical Force (USA).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+5b11d402f7e322c71a7d4fa6503631fa	20688279	Virtual Bowling (Japan).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+fb4dc9f4ebd506702eb49e99a62bd803	133E9372	Virtual Boy Wario Land (Japan, USA).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+c03e792d8628c3c5729fdcae1620fb9a	526CC969	Virtual Fishing (Japan).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+1cec316aca8827fdf99c685a1ee49dbc	8989FE0A	Virtual Lab (Japan).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+2ba914c8aa16f2f9230b3c5b7e17e67b	736B40D6	Virtual League Baseball (USA).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+154b76be987a604ff8aafa4d438928f5	9BA8BB5E	Virtual Pro Yakyuu '95 (Japan).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+110a83bc070559c5cc5634a8b5cae274	82A95E51	Waterworld (USA).vb	(No-Intro)	RA Complete\[28] Virtual Boy\[1] No-Intro\
+ecf1218706e9b547eab9e4be58d54e21	BB71B522	3D Tetris (U) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+c7f98975f4148c92a3d592c1e09eaa42	1264C3A9	Affine Mode Demo 1 v0.9 by David Tucker (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+90707c71362b5007964f0a45a45d77d6	09EB2763	Affine Mode Demo 2 v0.9 by David Tucker (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+a7f94faa20fa1b231f7b81d02c8fc3da	FF044436	BitString Demo by Dan Bergman (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+23aefdd2f8f3da5d15feaf240cff0eac	1EF24679	Blox 2 Demo Version by KR155E (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+231145f89792e8399a730612e97ae4df	7BAF43B0	Blox V1.0 by KR155E (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+f82d4c9fdd81518537d88f70c6602bb5	450FEAB5	Blox V1.1 by KR155E (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+b7691b0ad6ce7007efe98d1a393b86c6	26E21EA2	Chrono Trigger Run Demo 1 by MrSparkle (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+de22bc234534aa0ef3d6f28d657a78e7	9970CDF3	Chrono Trigger Run Demo 2 by MrSparkle (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+37b68e1df20bcdf8b77176064bb8bdb7	D8B823BE	Croach, The (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+f23ee05a508ad73bf1961586e119cecb	B0C92776	Etch-A-Sketch by Pat Daderko (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+adfc7ce60804c20742b977fef382db05	AFDFA675	Framebuffer Drawing Demo by Pat Daderko (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+85260599fdada2e137053a8647aa0d06	C9710A36	Galactic Pinball (JU) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+d11a8669a242e9cdd66a24750e0a5501	A5BA31E8	GLOW Demo by KR155E (PD) [a1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+d2f69f9b97457b16bee10bf2e08b941d	0609F412	GLOW Demo by KR155E (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+977c4da800dacfac1a1402781670f872	2199AF41	Golf (U) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+907c7f10093cfcab371754efae8ed279	F9360E8B	GoSub v1.0 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+48568cf0edfd68b04d2b42ff082a59c6	B0170FF7	GoSub v2009-04-10 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+cd3eb985c9a6792df62220eb9948c8bd	F8180FB8	GoSub v2009-04-11d by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+1b290c2e7c2a16e58bf75059351d3bdd	FF102D33	GoSub v2009-04-11v1 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+5c7e2c644c9542560f5d5da40f7921d7	598F602C	GoSub v2009-04-11v2 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+fdb5defb3c8c9f83bfd933b15e55f34c	42673630	GoSub v2009-04-11v3 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+c1f1da861c52b95628ea4bddcdd3c585	751F1821	GoSub v2009-04-12v1 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+2ab85887ce9714efa8332baa4dabc59a	18E60D05	GoSub v2009-04-12v2 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+02f5943ae4aa57a979dcc4b9b37357b3	06E63C9E	GoSub v2009-04-13 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+d520a146ec75ce16409732442701ec3b	9E89AD4B	GoSub v2009-04-14v1 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+5bfca25adde826e324c8bf19aea3cde1	943AD6B6	GoSub v2009-04-14v2 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+e7b9e1b63a0278b3f63bf49f96cd59ab	B8C16592	GoSub v2009-04-14v3 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+9fe2fc89e27e6ad65e957ea655268003	F0A3CE5A	GoSub v2009-04-15v1 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+f7116ddb05bb89cf654608edd9abbd4a	DE2931D9	GoSub v2009-04-15v2 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+0d4cac2c1f7369225f8521dd8397daa0	985AE109	GoSub v2009-04-16 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+2b0cf812dc2bfec89896e93127863236	EFBF2206	GoSub v2009-04-17 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+e7b2291b6ea14e54c8508d53ea368868	20A0B9B8	GoSub v2009-04-17i by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+d74e1330794ecdec8a768a8575d15b0d	91C10611	GoSub v2009-04-18 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+59f2d8c48f39bddf44af03e9bb339101	6072A3BC	GoSub v2009-04-19 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+d90396278c091acae568400cc9514509	EBAE5701	GoSub v2009-04-20 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+07cb5870d8f03731a0a96fb11afc80c3	D8E859B9	GoSub v2009-04-22 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+6bb183178a8f3d72066222418d6798d1	3496E349	GoSub v2009-04-23 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+148c68d4e8b0d46b054bfc7e75b7e864	8C253E40	GoSub v2009-04-24 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+21968b82d5be4c154c32a07a73ea781e	5CD4666D	GoSub v2009-04-27 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+dbcedbeae4feb88780e387ff126a4dd7	C3351F66	GoSub v2009-04-29 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+539ab5eaada0ee99ed451260d7e48fa6	88A0105E	GoSub v2009-05-02 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+67dfef13667c8713f4ccb9d9f64653ea	EC22FC81	GoSub v2009-05-05 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+cb3b4804afaac7911a1154db136aedc3	066A2225	GoSub v2009-07-15 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+28f41241ddc4de5fef19a1890e85d040	23A11661	GoSub v2009-07-18 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+a802f40fdaa7c5701df53d4217a6dd2c	BBD011DB	GoSub v2009-07-25 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+795f9cd4d7ecf771fb240b3888522fe3	331BE8A8	GoSub v2009-07-26 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+ff787c5049fbb2752e8a7c9fd7e9492c	4E184995	GoSub v2009-07-27 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+901f7222dda133f718c1f6b8465b27a4	C23B7909	GoSub v2009-07-28 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+ac0216da6d4735e7ed6dd6ca93fb53d0	CC3166FF	GoSub v2009-07-31 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+7c87497c0baa08433b5d250bf27d6423	8EBAE726	GoSub v2009-08-05 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+111a4ea01a44d7a0300e3ce8e9a5b8cf	CA338F51	GoSub v2009-08-06 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+b92610ea85cb9af02af5761551726870	D2E7782B	GoSub v2009-08-27 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+ff3a46f0c4a64c2d10746eb7a9393e20	44456EA4	GoSub v2009-10-05 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+728fd539c94a0ca2c9180b5a6b8981c4	86F3CAD1	GoSub v2009-10-06v1 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+bff14da460389937a86dbc3bc1db5ee7	CF6F73D7	GoSub v2009-10-06v2 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+8ddfae2b660903456ec05b01abe1e58f	7BEAAB09	GoSub v2009-10-09 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+8c8684ba31d6d4054b47dee4f52c1b03	14167425	GoSub v2009-10-18 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+9f16d2e16fdf90ab4de640233ebc5091	9B556537	GoSub v2009-10-19 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+e6831820ab3ded42c304052a833cf9dd	985CF7FA	GoSub v2009-10-23 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+e861d3ce172265ea048f793fea4b4176	28F210B1	GoSub v2009-10-28 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+d0579c44eeb261ab6f3926b3e52497b0	BCCDA404	GoSub v2009-11-01 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+ff452cfcf1a11ea748ea417a17cfda49	C585315F	GoSub v2009-11-02 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+a4ef0c5bef1a26ad75ab559337fa2258	6D8A03F8	GoSub v2009-11-06 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+c25f4eef4e716a886155810ad06590bf	5466531B	GoSub v2009-11-06Test1 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+0c0955c6d749f9044893a7aca935c926	DD3AA5AF	GoSub v2009-11-07 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+563518764a597c964cf010204cc3a095	AE96AC9E	GoSub v2009-11-16 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+7917cf3ade4fd802325754b77add6c8f	96564974	GoSub v2009-11-18 by Chris Read (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+581d0e27b9646be3e6f26fed3c7b806b	0CFC7BFC	Hello, World! Demo V1.0 by Amos Bieler (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+bc40f08d1a2c51821245087911594125	86D68156	Hello, World! Demo V1.1 by Amos Bieler (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+8e894145356d5f11d611a9ea8cca9851	0A46FF5F	Hover Demo 01 by RunnerPack (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+1d0a8459106a11fb5f2da3ccefb1fd23	DBF715DA	Hover Demo 01a by RunnerPack (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+e0fcf74c0548023c67bee73cec9f33fe	EFD0AC36	Insmouse no Yakata (J) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+1b177fe2dd12ec1d67f6a43502f8d391	CAB61E8B	Jack Bros. (J) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+c3d028f7d2463eaf36f0d6ef9b28ebd5	B15D706E	Jack Bros. (U) (Enable Cheats Hack).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+ee873c9969c15e92ca9a0f689c4ce5ea	A44DE03C	Jack Bros. (U) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+d15a95e94334118d1243a1b0d9f59ef3	94BFDD3F	Jack Bros. (U) [b1] (Enable Cheats Hack).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+9f2bc8748b541b75053cf68968f3dd5f	81AF4D6D	Jack Bros. (U) [b1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+8f24a89af3c522c52265366ab9480fea	79A99F3C	Jack Bros. (U) [T+Ger1.0_KR155E].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+b1b3a25ce8fb4f406bf82b8765d307d0	A47DE78C	Mario Clash (JU) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+b53abcea059c1c18c5fdbc9c49e1683b	BF0D0AB0	Mario Clash (JU) [b1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+878443c11a7bdefe1cbfc000f9119ce3	DEABF6AF	Mario Flying Demo by Frostgiant (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+4b8c8b6a7711a005dd896b3ee9b8d0f1	27988AB9	Mario Kart - Virtual Cup by DogP (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+03f72468609897a17028823691fc1c56	DD63D32D	Mario VB by Jorgeche (V01-10-2008) (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+3c69df00a15849f67968c02b650dde6f	43D81237	Mario VB by Jorgeche (V05-09-2008) (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+30ad852eafae74fcd9ffaad34bfb19aa	7D7DA5F7	Mario VB by Jorgeche (V13-09-2008demo1) (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+b2c88b0741f571e2172f0ccd1ad30457	1FB48372	Mario VB by Jorgeche (V13-09-2008demo2) (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+7332d1f3efec49095da28e192777d9b6	9B94F9EA	Mario VB by Jorgeche (V22-09-2008) (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+7474130d8a2c31a6df237d56c1099c6a	EB4A2BD6	Mario VB by Jorgeche (V27-10-2008) (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+ab9034dc9158ba4af9e547dbfcf2aae6	6280839A	Mario VB by Jorgeche (V30-09-2008) (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+b8c36e768bdd1f1a984876d953eaf6c4	5AC0D8BB	Mario's Tennis (JU) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+38ecc2c5a745a80d32eb9e8e413358c4	7CE7460D	Mario's Tennis (JU) [a1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+a306ea95a699d5611988f081ef31f7e4	F3F9E810	Matrix, The by Cooler (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+17e8e1c66ca4294fc1825953a9d83e0b	FC4A6318	Metroid April Fools Demo (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+149d5c1a6ec31fc682a581dd411024ca	A3587E34	MIDIplayer by DanB (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+29ed124e7525c7c89d67647333c80a5a	A2A60535	Mode7 Demo (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+578f0d83e6a6a7c0cdbcdbc6f79f1f10	D515FECF	Mode7 Example (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+0285dc41d75be8419d12472f20025305	DF4D56B4	Nester's Funky Bowling (U) [a1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+766498bb058c7d75aae58b296a7bbd31	63A181AF	Nester's Funky Bowling (U) [b1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+f9a5759263647205554941ba525ebc01	9C092BCE	Nester's Funky Bowling (U) [b2].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+0c1230b4cc347229c917820510bc0bab	EFB3E174	Nester's Funky Bowling (U) [b3].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+7767375a2bc47cd3aa131e4b7165f103	2F76ECA9	Nester's Funky Bowling (U).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+c0a8fe852c5a1874e684541af64f4ab6	0320CE69	OBJ Pointer Demo by Dan Bergman (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+fe0e9fbf00b61844da2689bb94e1f700	FAD06B29	Pacman Demo (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+467247d5e3383d066005565bf8218436	19BB2DFB	Panic Bomber (U) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+923b859812d6f2c0a52ade7c8f6cece3	25FB89BB	Panic Bomber (U) [b1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+52d956171edf0c91a4d7fb05963a8162	21D224AF	Panic Bomber (U) [h1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+6d04372b62d352af7e9662b1646b8488	C767FE4B	Panic Bomber (U) [h2].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+b4c48ce2798e9cf17e27141ed30b98bc	584057C1	Polygon Demo (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+2fe283435543c5026fcd2c41d5bbe946	CEE940C6	Project5 (V2006-04-26) (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+d902c25d8ed1ba3382dd772457038deb	E6D411DC	Reality Boy Demo 1 by David Tucker (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+131120f401946eef5f430b3b1ea2dc17	DC2EC5B8	Reality Boy Demo 2 by David Tucker (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+83e8b499e3f0709b71ee67590c5bb773	01D7CCE6	Reality Boy Demo 3 by David Tucker (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+bc469bf797f4774bbb1678c7f500853b	7E85C45D	Red Alarm (J) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+e56e85761f52a613b34079d5322088ce	AA10A7B4	Red Alarm (U) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+f4b7c632f9a8e943e4402d16c79c370f	3CEAA631	Red Alarm (U) [b1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+1a74e7fbb856835422a88347f4a2dbcf	65F9BD70	RG2009 Masken (VUE Snake) (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+5c0f42ab6f66537efc8ff1719c319af4	A63C6798	Scaling Demo by Parasyte (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+1cf8c69d8a740d6ef3aab54deced31c4	44788197	SD Gundam Dimension War (J).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+e3dbc8fd44a12cadb43670fd8747c520	0DF2FCA5	Simon by Pat Daderko (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+d693a18192cbc1bd4aa678af9a3ae0d1	91CE8852	SnowBall Wars Demo1 by Jorgeche (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+ccb7a50d7fc23ec2890db7771a077392	10848EF3	SnowBall Wars Demo2 by Jorgeche (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+39f4ded02b9a58c1958f521d27d841af	A19CF939	SnowBall Wars Demo3 by Jorgeche (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+7607f6f918615263512b17e56797c9aa	FA44402D	Space Invaders Virtual Collection (J).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+09c5f3143c25d1d30a3470e571653e48	60895693	Space Squash (J) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+57471e4cc5b8bb3f630ec8a7343651dd	C2211FCC	Space Squash (J) [o1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+eb6a7158a99123b1f17a63d8e6425d83	7CB69B3A	Space Squash (J) [T+Eng].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+b44601f915ec4ea5869f04e5dfaaac52	A3022D2A	Super Fighter Demo by KR155E (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+c1dc0852af217146f93d701e1da233d4	6BA07915	T&E Virtual Golf (J) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+9a01d9535fef4aac3f1a07c54972cf16	41FB63BF	T&E Virtual Golf (J) [b1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+0742a861a599fe3361aac6ebef6745a7	36103000	Teleroboxer (JU) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+b918f194466e9777d0fcd0f611ac2eb9	126123AD	Teleroboxer (JU) [T+Ger1.0_KR155E].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+990e1a64fc283adc68e695b5e8215488	A6E0D6DB	Teleroboxer (JU) [T-Ger.4b_KR155E].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+537bbdac5e6eef849651103752ca051d	5E10BEC7	This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 1 (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+c28374da2381fdd759637afee37af89a	93D505E9	This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 3 (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+9f4246f9400c9f2fb9cdf4b4987b4cfe	6D7CC2E7	Tic Tac Toe by Pat Daderko (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+44039dfaa0f8fcf8ece03b8cda267e4a	40498F5E	Tobidase! Panibomb (J) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+a5f4cf98d09ec388f62a7df046de934b	B74655B5	Tron by Alberto Covarrubias (V2008-05-01) (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+5e097e4db196e56ec361f1eb04468cdb	D7F1727C	Tron by Alberto Covarrubias (V2008-09-27) (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+b8cac4425d1a01b949801d81eb268ffb	33C3E3A7	Tron VB by Pat Daderko (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+262bbae465f851ded3bb7cf46e375224	3CCB67AE	V-Tetris (J) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+f70cdaa3b30d777e4b775269b7c8f196	EA17034C	VB Racing (Padded Version) (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+819b9dccf1437c3bb126670b171d7c59	D56448EC	VB Racing (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+21bd18c1910c48e16de825cee681fa8c	26F11298	VB Racing (Reality Boy Version) (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+363e031ccef3df6a8799f488b2f68c91	87F11993	VB Rocks! Demo by KR155E (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+1841e72ee7aa666b111d382837ce4526	66386AAC	VB Screen Test Demo by David Tucker (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+317ce1dece392ca0035bae7170188d06	84A71916	VB Water Demo by RunnerPack (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+c638b477743eaaefcfbff3bb8772718a	1D711A69	VB Water Demo for FlashBoy by RunnerPack (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+d2442c5dcaab52974eee87efceaddf46	0C347B80	VBJaEngine Demo2 (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+529b4e9f80b35038080054b6db239a62	03A65FC6	VBJaEngine Demo3 (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+026d460a4f356c79dff7a9b875adbe0f	AEE345D5	VBJaEngine Demo4 (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+31878d835200b69362d7db386d2c202f	B4AB705B	VBJaEngine Demo5 (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+82d30f0e48b283489239621864dc7275	E2C3645D	VBJaEngine Demo6 (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+6853c7b038c5a6e85642ac9dd38d4632	6E5B40A1	VeeBee Cursor Demo by David Williamson (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+fa50ce1effb4ce1d66438f723be5c788	9E9B8B92	Vertical Force (J) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+b2cf015225254f54cbe5e8b917bd4632	05D06377	Vertical Force (J) [b1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+87c38f66d5b9ead72af22f515a3a5f51	4C32BA5E	Vertical Force (U) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+c1f23aa9a6b5130a4971b4566dc19289	DC8C0BF4	Vertical Force (U) [h1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+a0d8fd562ab203f35056819208a5b3f4	DDF9ABE0	Virtual Bowling (J) (Debug Menu Hack).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+5b11d402f7e322c71a7d4fa6503631fa	20688279	Virtual Bowling (J).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+b2a39ffae965821d1f9404cbf2c57145	48D1839A	Virtual Boy Programming Intro Demo by KR155E (2008) (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+fb4dc9f4ebd506702eb49e99a62bd803	133E9372	Virtual Boy Wario Land (JU) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+c03e792d8628c3c5729fdcae1620fb9a	526CC969	Virtual Fishing (J) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+2fba0ca950f564fc68ebdbb2c35023e8	45471E40	Virtual Fishing (J) [b1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+1cec316aca8827fdf99c685a1ee49dbc	8989FE0A	Virtual Lab (J).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+2ba914c8aa16f2f9230b3c5b7e17e67b	736B40D6	Virtual League Baseball (U) [a1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+19b78efd2f27067409f4393586b321fe	CC62AB38	Virtual League Baseball (U) [a1][b1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+06f112d4868033c9b4399957eef7b78b	2E20B6E7	Virtual League Baseball (U).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+5060dc253b8f9eba7067657f2e6b3d63	42E17E38	Virtual Pong (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+154b76be987a604ff8aafa4d438928f5	9BA8BB5E	Virtual Pro Yakyuu '95 (J) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+a126b6f164b0272781d5f8b3e459ec2e	BA7192CB	Virtual-E Cursor Demo (PD) [a1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+7f0ac5913c7a884f80477a312d65526e	C44B6874	Virtual-E Cursor Demo (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+477c34505f5e109232db1dc89de458eb	8B5FBEB8	Virtual-E GL Demo 0.5 (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+9b2d1a08790b5d9177462a4227c06ff3	2375F24C	VUE Snake (V1.0) (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+ccfa400a0ff3d717dad36a3f736fd34d	AD054747	VUE Snake (V1.1) (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+a3e973b47916b729e329e30e8a050ae6	FD93A845	Wario Gonna Win Demo (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+110a83bc070559c5cc5634a8b5cae274	82A95E51	Waterworld (U) [!].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+9303817961e4333d6ae1c116ad7546d5	742298D1	Waterworld (U) [b1].vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+92fa3a49d6f43675d8c8c0ac0f5416b7	6E8C6D7F	Wavs (PD).vb	(GoodVBoy 3.1415)	RA Complete\[28] Virtual Boy\[2] Goodset\
+f23ee05a508ad73bf1961586e119cecb	B0C92776	Etch-A-Sketch (2003)(Daderko, Pat)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Applications\
+c7f98975f4148c92a3d592c1e09eaa42	1264C3A9	Affine Mode Demo 1 v0.9 (2005)(Tucker, David)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+90707c71362b5007964f0a45a45d77d6	09EB2763	Affine Mode Demo 2 v0.9 (2005)(Tucker, David)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+a7f94faa20fa1b231f7b81d02c8fc3da	FF044436	BitString Demo (2004)(Bergman, Dan)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+b7691b0ad6ce7007efe98d1a393b86c6	26E21EA2	Chrono Trigger Run Demo 1 (2009)(MrSparkle)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+de22bc234534aa0ef3d6f28d657a78e7	9970CDF3	Chrono Trigger Run Demo 2 (2009)(MrSparkle)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+37b68e1df20bcdf8b77176064bb8bdb7	D8B823BE	Croach, The (1999)(Covarrubias, Alberto)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+adfc7ce60804c20742b977fef382db05	AFDFA675	Framebuffer Drawing Demo (2003)(Daderko, Pat)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+d11a8669a242e9cdd66a24750e0a5501	A5BA31E8	Glow Demo v1.0 (2002)(Radke, Christian)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+d2f69f9b97457b16bee10bf2e08b941d	0609F412	Glow Demo v1.1 (2002)(Radke, Christian)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+581d0e27b9646be3e6f26fed3c7b806b	0CFC7BFC	Hello, World! v1.0 (2002)(Bieler, Amos)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+bc40f08d1a2c51821245087911594125	86D68156	Hello, World! v1.1 (2002)(Bieler, Amos)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+8e894145356d5f11d611a9ea8cca9851	0A46FF5F	Hover Demo v0.1 (2008)(Bieler, Amos)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+1d0a8459106a11fb5f2da3ccefb1fd23	DBF715DA	Hover Demo v0.1a (2008)(Bieler, Amos)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+a03afb33c5f8b24cc7d0d93a4104e7ba	0F815C1A	Mandelbrot Explorer Rev 20101030 (2010)(Skiles, Collin)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+639c353e720cf44e033cd5a4453fe366	089EC3E2	Mandelbrot Explorer Rev 20101109 (2010)(Skiles, Collin)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+878443c11a7bdefe1cbfc000f9119ce3	DEABF6AF	Mario Flying Demo (2002)(Frostgiant).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+a306ea95a699d5611988f081ef31f7e4	F3F9E810	Matrix Code Demo, The (2003)(Cooler)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+17e8e1c66ca4294fc1825953a9d83e0b	FC4A6318	Metroid April Fools' Day Demo (2009)(Radke, Christian)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+149d5c1a6ec31fc682a581dd411024ca	A3587E34	MIDI Music Player (2008)(Bergman, Dan)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+29ed124e7525c7c89d67647333c80a5a	A2A60535	Mode7 Demo (2009)(dasi)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+578f0d83e6a6a7c0cdbcdbc6f79f1f10	D515FECF	Mode7 Demo (2009)(dasi)(PD)[a].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+c0a8fe852c5a1874e684541af64f4ab6	0320CE69	OBJ SPT Pointer Demo (2003)(Bergman, Dan)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+fe0e9fbf00b61844da2689bb94e1f700	FAD06B29	Pac-Man Demo (2002)(-)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+b4c48ce2798e9cf17e27141ed30b98bc	584057C1	Polygon Engine Demo (2008)(DogP)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+d902c25d8ed1ba3382dd772457038deb	E6D411DC	Reality Boy Demo 1 (2000)(Tucker, David)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+131120f401946eef5f430b3b1ea2dc17	DC2EC5B8	Reality Boy Demo 2 (2000)(Tucker, David)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+83e8b499e3f0709b71ee67590c5bb773	01D7CCE6	Reality Boy Demo 3 (2000)(Tucker, David)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+0fa7e36d7e9af5f7954d810d8b7ec7c1	E3869A0D	Sample Soft for VUE Programming v1.0 (1994)(Nintendo)(JP-US)(en).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+f061abedd5c6919561d09556b3a91163	0E60C273	Sample Soft for VUE Programming v1.1 (1995)(Nintendo)(JP-US)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+770820318300188dc5c83952ae79ced6	FA58B8D2	Sample Soft for VUE Programming v1.1a (1995)(Nintendo)(JP-US)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+e6807c961b740ddefcba710c5d01fcc3	3A236929	Sample Soft for VUE Programming v1.2 (1995)(Nintendo)(JP-US)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+5c0f42ab6f66537efc8ff1719c319af4	A63C6798	Scaling Demo (2003)(Parasyte).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+e5bf830c1b52093d12d3c5c114a9c3d1	EF31C801	Soviet Union 2011 Sound Engine Demo (2012)(Horvat, Matej)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+b44601f915ec4ea5869f04e5dfaaac52	A3022D2A	Super Fighter Demo (2002)(Radke, Christian)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+537bbdac5e6eef849651103752ca051d	5E10BEC7	This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 1 (20xx)(-)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+c28374da2381fdd759637afee37af89a	93D505E9	This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 3 (20xx)(-)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+819b9dccf1437c3bb126670b171d7c59	D56448EC	VB Racing (2008)(Kujaczynski, Martin)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+21bd18c1910c48e16de825cee681fa8c	26F11298	VB Racing (2008)(Kujaczynski, Martin)(PD)[a2].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+f70cdaa3b30d777e4b775269b7c8f196	EA17034C	VB Racing (2008)(Kujaczynski, Martin)(PD)[a].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+363e031ccef3df6a8799f488b2f68c91	87F11993	VB Rocks! (2002)(Radke, Christian)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+1841e72ee7aa666b111d382837ce4526	66386AAC	VB Screen Test (200x)(Tucker, David)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+2fe283435543c5026fcd2c41d5bbe946	CEE940C6	vbJAEngine Demo 1 (2006)(Jorgeche)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+d2442c5dcaab52974eee87efceaddf46	0C347B80	vbJAEngine Demo 2 (2006)(Jorgeche)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+529b4e9f80b35038080054b6db239a62	03A65FC6	vbJAEngine Demo 3 (2007)(Jorgeche)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+026d460a4f356c79dff7a9b875adbe0f	AEE345D5	vbJAEngine Demo 4 (2007)(Jorgeche)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+31878d835200b69362d7db386d2c202f	B4AB705B	vbJAEngine Demo 5 (2007)(Jorgeche)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+82d30f0e48b283489239621864dc7275	E2C3645D	vbJAEngine Demo 6 (2007)(Jorgeche)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+6853c7b038c5a6e85642ac9dd38d4632	6E5B40A1	VeeBee Cursor Demo (2002)(Williamson, David)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+b2a39ffae965821d1f9404cbf2c57145	48D1839A	Virtual Boy Programming Introductory Demo (2008)(Radke, Christian)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+7f0ac5913c7a884f80477a312d65526e	C44B6874	Virtual-E Cursor Demo (1999)(Covarrubias, Alberto)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+a126b6f164b0272781d5f8b3e459ec2e	BA7192CB	Virtual-E Cursor Demo (1999)(Covarrubias, Alberto)(PD)[a].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+477c34505f5e109232db1dc89de458eb	8B5FBEB8	Virtual-E GL Demo v0.5 (2008)(Covarrubias, Alberto)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+60c71be93400931cbb579e6f07932a5f	66DF5436	VUE Debugger Sample (2010)(Williamson, David)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+a3e973b47916b729e329e30e8a050ae6	FD93A845	Wario's Gonna Win Demo (2009)(-)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+317ce1dece392ca0035bae7170188d06	84A71916	Water Ripple Demo (2009)(Bieler, Amos)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+c638b477743eaaefcfbff3bb8772718a	1D711A69	Water Ripple Demo (2009)(Bieler, Amos)(PD)[a].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+92fa3a49d6f43675d8c8c0ac0f5416b7	6E8C6D7F	Wavs Demo (2009)(-)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+c52d0193215f1a32bf4c3c5f29cf696c	95AF3A83	Yeti3D Demo Rev 20100102 (2010)(Bergman, Dan)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+a85b2a0e327f551099ef52e9a60220de	11758971	Yeti3D Demo Rev 20100113 (2010)(Bergman, Dan)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Demos\
+ecf1218706e9b547eab9e4be58d54e21	BB71B522	3-D Tetris (1996)(Nintendo - T&E Soft)(US).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+231145f89792e8399a730612e97ae4df	7BAF43B0	BLOX v1.0 (2003)(Radke, Christian)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+f82d4c9fdd81518537d88f70c6602bb5	450FEAB5	BLOX v1.1 (2003)(Radke, Christian)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+a460e2660fa951e9d4e3b05aee9f5018	E81A3703	Bound High! (1996)(Japan System Supply)(JP-US)(en-ja)(proto).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+31073126fad41777357391ecc36d6f7f	44C2B723	Galactic Pinball (1995)(Nintendo)(JP-US)(en)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+85260599fdada2e137053a8647aa0d06	C9710A36	Galactic Pinball (1995)(Nintendo)(JP-US)(en).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+25f14997133e6e0ddf4d7b2ad847090e	47F2A964	GameHero (2012)(thunderstruck)[p].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+0742577eef9c7263da3d523e4fd79be6	E29ED6D1	GameHero (2012)(thunderstruck)[p][a].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+977c4da800dacfac1a1402781670f872	2199AF41	Golf (1995)(T&E Soft)(US).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+907c7f10093cfcab371754efae8ed279	F9360E8B	GoSub (2009)(Read, Chris)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+a5a3d14326bc8dc197a2088abcabfdfb	A646A392	GoSub 3D (2010)(Read, Chris)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+712627fcab3058e4dfd78b245f395de6	06637E51	GoSub 3D Rev 20100922 (2010)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+59e00a964dd1d21aba5771ae5eb542f5	08F0F88D	GoSub 3D Rev 20100923 (2010)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+48568cf0edfd68b04d2b42ff082a59c6	B0170FF7	GoSub Rev 20090410 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+1b290c2e7c2a16e58bf75059351d3bdd	FF102D33	GoSub Rev 20090411-1 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+5c7e2c644c9542560f5d5da40f7921d7	598F602C	GoSub Rev 20090411-2 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+fdb5defb3c8c9f83bfd933b15e55f34c	42673630	GoSub Rev 20090411-3 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+cd3eb985c9a6792df62220eb9948c8bd	F8180FB8	GoSub Rev 20090411-d (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+c1f1da861c52b95628ea4bddcdd3c585	751F1821	GoSub Rev 20090412-1 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+2ab85887ce9714efa8332baa4dabc59a	18E60D05	GoSub Rev 20090412-2 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+02f5943ae4aa57a979dcc4b9b37357b3	06E63C9E	GoSub Rev 20090413 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+d520a146ec75ce16409732442701ec3b	9E89AD4B	GoSub Rev 20090414-1 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+5bfca25adde826e324c8bf19aea3cde1	943AD6B6	GoSub Rev 20090414-2 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+e7b9e1b63a0278b3f63bf49f96cd59ab	B8C16592	GoSub Rev 20090414-3 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+9fe2fc89e27e6ad65e957ea655268003	F0A3CE5A	GoSub Rev 20090415-1 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+f7116ddb05bb89cf654608edd9abbd4a	DE2931D9	GoSub Rev 20090415-2 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+0d4cac2c1f7369225f8521dd8397daa0	985AE109	GoSub Rev 20090416 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+2b0cf812dc2bfec89896e93127863236	EFBF2206	GoSub Rev 20090417 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+e7b2291b6ea14e54c8508d53ea368868	20A0B9B8	GoSub Rev 20090417-i (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+d74e1330794ecdec8a768a8575d15b0d	91C10611	GoSub Rev 20090418 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+59f2d8c48f39bddf44af03e9bb339101	6072A3BC	GoSub Rev 20090419 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+d90396278c091acae568400cc9514509	EBAE5701	GoSub Rev 20090420 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+07cb5870d8f03731a0a96fb11afc80c3	D8E859B9	GoSub Rev 20090422 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+6bb183178a8f3d72066222418d6798d1	3496E349	GoSub Rev 20090423 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+148c68d4e8b0d46b054bfc7e75b7e864	8C253E40	GoSub Rev 20090424 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+21968b82d5be4c154c32a07a73ea781e	5CD4666D	GoSub Rev 20090427 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+dbcedbeae4feb88780e387ff126a4dd7	C3351F66	GoSub Rev 20090429 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+539ab5eaada0ee99ed451260d7e48fa6	88A0105E	GoSub Rev 20090502 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+67dfef13667c8713f4ccb9d9f64653ea	EC22FC81	GoSub Rev 20090505 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+cb3b4804afaac7911a1154db136aedc3	066A2225	GoSub Rev 20090715 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+28f41241ddc4de5fef19a1890e85d040	23A11661	GoSub Rev 20090718 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+a802f40fdaa7c5701df53d4217a6dd2c	BBD011DB	GoSub Rev 20090725 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+795f9cd4d7ecf771fb240b3888522fe3	331BE8A8	GoSub Rev 20090726 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+ff787c5049fbb2752e8a7c9fd7e9492c	4E184995	GoSub Rev 20090727 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+901f7222dda133f718c1f6b8465b27a4	C23B7909	GoSub Rev 20090728 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+ac0216da6d4735e7ed6dd6ca93fb53d0	CC3166FF	GoSub Rev 20090731 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+7c87497c0baa08433b5d250bf27d6423	8EBAE726	GoSub Rev 20090805 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+111a4ea01a44d7a0300e3ce8e9a5b8cf	CA338F51	GoSub Rev 20090806 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+b92610ea85cb9af02af5761551726870	D2E7782B	GoSub Rev 20090827 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+ff3a46f0c4a64c2d10746eb7a9393e20	44456EA4	GoSub Rev 20091005 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+728fd539c94a0ca2c9180b5a6b8981c4	86F3CAD1	GoSub Rev 20091006-1 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+bff14da460389937a86dbc3bc1db5ee7	CF6F73D7	GoSub Rev 20091006-2 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+8ddfae2b660903456ec05b01abe1e58f	7BEAAB09	GoSub Rev 20091009 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+8c8684ba31d6d4054b47dee4f52c1b03	14167425	GoSub Rev 20091018 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+9f16d2e16fdf90ab4de640233ebc5091	9B556537	GoSub Rev 20091019 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+e6831820ab3ded42c304052a833cf9dd	985CF7FA	GoSub Rev 20091023 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+e861d3ce172265ea048f793fea4b4176	28F210B1	GoSub Rev 20091028 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+d0579c44eeb261ab6f3926b3e52497b0	BCCDA404	GoSub Rev 20091101 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+ff452cfcf1a11ea748ea417a17cfda49	C585315F	GoSub Rev 20091102 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+a4ef0c5bef1a26ad75ab559337fa2258	6D8A03F8	GoSub Rev 20091106 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+c25f4eef4e716a886155810ad06590bf	5466531B	GoSub Rev 20091106-1 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+0c0955c6d749f9044893a7aca935c926	DD3AA5AF	GoSub Rev 20091107 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+563518764a597c964cf010204cc3a095	AE96AC9E	GoSub Rev 20091116 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+7917cf3ade4fd802325754b77add6c8f	96564974	GoSub Rev 20091118 (2009)(Read, Chris)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+2555cca2f7d8dd253f2cd5612a8ae373	A59A6EE1	Hunter (2010)(DanB)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+f5d04734365222e35fbee337e9c37a12	B4B41396	Insecticide (2014)(Read, Chris)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+e0fcf74c0548023c67bee73cec9f33fe	EFD0AC36	Insmouse no Yakata (1995)(I'Max)(JP)(en-ja)[b].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+ee873c9969c15e92ca9a0f689c4ce5ea	A44DE03C	Jack Bros. (1995)(Atlus)(US).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+9f2bc8748b541b75053cf68968f3dd5f	81AF4D6D	Jack Bros. (1995)(Atlus)(US)[b2].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+d15a95e94334118d1243a1b0d9f59ef3	94BFDD3F	Jack Bros. (1995)(Atlus)(US)[b].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+2fdd657f9029a076b08e81aabe75681c	B8F226D8	Jack Bros. (1995)(Atlus)(US)[h2].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+c3d028f7d2463eaf36f0d6ef9b28ebd5	B15D706E	Jack Bros. (1995)(Atlus)(US)[h].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+8f24a89af3c522c52265366ab9480fea	79A99F3C	Jack Bros. (1995)(Atlus)(US)[tr de].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+1b177fe2dd12ec1d67f6a43502f8d391	CAB61E8B	Jack Bros. no Meiro de Hiihoo! (1995)(Atlus)(JP)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+b1b3a25ce8fb4f406bf82b8765d307d0	A47DE78C	Mario Clash (1995)(Nintendo)(JP-US)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+b53abcea059c1c18c5fdbc9c49e1683b	BF0D0AB0	Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[b].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+bf3859019b06180fa8bd6824fce214db	FA5877CD	Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h2].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+76f9f6919058aec4ddada0f07d107c5e	F572D25C	Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+aa833e4391db075b8435380769dade51	F2D5167E	Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t2].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+d67a16d2c19b8ee9e4f3b058b4f3835f	FDFFB3EF	Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+4b8c8b6a7711a005dd896b3ee9b8d0f1	27988AB9	Mario Kart - Virtual Cup (2008)(DogP)[p].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+b8c36e768bdd1f1a984876d953eaf6c4	5AC0D8BB	Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+38ecc2c5a745a80d32eb9e8e413358c4	7CE7460D	Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)[a].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+7767375a2bc47cd3aa131e4b7165f103	2F76ECA9	Nester's Funky Bowling (1996)(Nintendo)(US).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+0285dc41d75be8419d12472f20025305	DF4D56B4	Nester's Funky Bowling (1996)(Nintendo)(US)[a].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+f9a5759263647205554941ba525ebc01	9C092BCE	Nester's Funky Bowling (1996)(Nintendo)(US)[b2].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+0c1230b4cc347229c917820510bc0bab	EFB3E174	Nester's Funky Bowling (1996)(Nintendo)(US)[b3].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+766498bb058c7d75aae58b296a7bbd31	63A181AF	Nester's Funky Bowling (1996)(Nintendo)(US)[b].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+467247d5e3383d066005565bf8218436	19BB2DFB	Panic Bomber (1995)(Hudson)(US).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+923b859812d6f2c0a52ade7c8f6cece3	25FB89BB	Panic Bomber (1995)(Hudson)(US)[b].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+6d04372b62d352af7e9662b1646b8488	C767FE4B	Panic Bomber (1995)(Hudson)(US)[h2].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+1adecd66030c8b8e7d18e48a45c3c6e5	10348289	Panic Bomber (1995)(Hudson)(US)[h3].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+cf33dd5d47ae06f0bc2269cf3d3d4d3d	8C4B7930	Panic Bomber (1995)(Hudson)(US)[h4].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+52d956171edf0c91a4d7fb05963a8162	21D224AF	Panic Bomber (1995)(Hudson)(US)[h].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+37d35e412ba8db20d3e760d1a31fd392	F6E78B5B	PongInvaders (2012)(usch)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+bc469bf797f4774bbb1678c7f500853b	7E85C45D	Red Alarm (1995)(T&E Soft)(JP)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+e56e85761f52a613b34079d5322088ce	AA10A7B4	Red Alarm (1995)(T&E Soft)(US).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+f4b7c632f9a8e943e4402d16c79c370f	3CEAA631	Red Alarm (1995)(T&E Soft)(US)[b].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+1a74e7fbb856835422a88347f4a2dbcf	65F9BD70	Retro Gathering Masken (2009)(Radke, Christian)(sv)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+1cf8c69d8a740d6ef3aab54deced31c4	44788197	SD Gundam - Dimension War (1995)(Bandai)(JP)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+e3dbc8fd44a12cadb43670fd8747c520	0DF2FCA5	Simon! (2003)(Daderko, Pat)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+d693a18192cbc1bd4aa678af9a3ae0d1	91CE8852	Snowball Wars Rev 20070726 (2007)(Jorgeche)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+ccb7a50d7fc23ec2890db7771a077392	10848EF3	Snowball Wars Rev 20070803 (2007)(Jorgeche)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+39f4ded02b9a58c1958f521d27d841af	A19CF939	Snowball Wars Rev 20070809 (2007)(Jorgeche)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+90ef8d48eb3178f32e9ef45ac83ef7e1	447BA0C0	Soviet Union 2010 (2010)(Horvat, Matej)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+83c6752eecfdf94f576f3fcda272b91e	8F013627	Soviet Union 2011 Rev 20111101 (2011)(Horvat, Matej)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+46434bfb8eccbe7540a4d2a79d471f40	13660731	Soviet Union 2011 Rev 20111104 (2011)(Horvat, Matej)(PD)(beta).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+fad62e87fc51f44d75d17d5f3ffd4e0f	5CDE2C56	Soviet Union 2011 v1.0 (2011)(Horvat, Matej)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+9ac4a0beaccd30fc39f34a494e64a8f4	0CD7390B	Soviet Union 2011 v1.1 (2012)(Horvat, Matej)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+7607f6f918615263512b17e56797c9aa	FA44402D	Space Invaders - Virtual Collection (1995)(Taito)(JP)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+09c5f3143c25d1d30a3470e571653e48	60895693	Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+57471e4cc5b8bb3f630ec8a7343651dd	C2211FCC	Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)[b].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+eb6a7158a99123b1f17a63d8e6425d83	7CB69B3A	Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)[tr en].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+b487a12ef45f1cb5c66d51964dfbd886	25DA0DAF	Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)[tr en][a].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+46e910ba8dc15a06fa8dd8b32d0318d0	552AAFB0	Super Bounce (2010)(DogP)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+3c69df00a15849f67968c02b650dde6f	43D81237	Super Mario Rev 20080905 (2008)(Jorgeche)(en-ja)[p].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+30ad852eafae74fcd9ffaad34bfb19aa	7D7DA5F7	Super Mario Rev 20080913-1 (2008)(Jorgeche)(en-ja)[p].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+b2c88b0741f571e2172f0ccd1ad30457	1FB48372	Super Mario Rev 20080913-2 (2008)(Jorgeche)[p].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+7332d1f3efec49095da28e192777d9b6	9B94F9EA	Super Mario Rev 20080922 (2008)(Jorgeche)[p].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+ab9034dc9158ba4af9e547dbfcf2aae6	6280839A	Super Mario Rev 20080930 (2008)(Jorgeche)[p].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+03f72468609897a17028823691fc1c56	DD63D32D	Super Mario Rev 20081001 (2008)(Jorgeche)(en-ja)[p].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+7474130d8a2c31a6df237d56c1099c6a	EB4A2BD6	Super Mario Rev 20081027 (2008)(Jorgeche)(en-ja)[p].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+c1dc0852af217146f93d701e1da233d4	6BA07915	T&E Virtual Golf (1995)(T&E Soft)(JP)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+9a01d9535fef4aac3f1a07c54972cf16	41FB63BF	T&E Virtual Golf (1995)(T&E Soft)(JP)(en-ja)[b].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+0742a861a599fe3361aac6ebef6745a7	36103000	Teleroboxer (1995)(Nintendo)(JP-US)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+990e1a64fc283adc68e695b5e8215488	A6E0D6DB	Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+b918f194466e9777d0fcd0f611ac2eb9	126123AD	Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de][a].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+9f4246f9400c9f2fb9cdf4b4987b4cfe	6D7CC2E7	Tic Tac Toe (2003)(Daderko, Pat)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+44039dfaa0f8fcf8ece03b8cda267e4a	40498F5E	Tobidase! Panibomb (1995)(Hudson)(JP)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+a5f4cf98d09ec388f62a7df046de934b	B74655B5	Tron Rev 20080501 (2008)(Covarrubias, Alberto)[p].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+5e097e4db196e56ec361f1eb04468cdb	D7F1727C	Tron Rev 20080927 (2008)(Covarrubias, Alberto)[p].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+b8cac4425d1a01b949801d81eb268ffb	33C3E3A7	Tron VB (2003)(Daderko, Pat)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+262bbae465f851ded3bb7cf46e375224	3CCB67AE	V-Tetris (1995)(Bullet-Proof Software)(JP)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+fa50ce1effb4ce1d66438f723be5c788	9E9B8B92	Vertical Force (1995)(Hudson)(JP)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+b2cf015225254f54cbe5e8b917bd4632	05D06377	Vertical Force (1995)(Hudson)(JP)(en-ja)[b].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+87c38f66d5b9ead72af22f515a3a5f51	4C32BA5E	Vertical Force (1995)(Hudson)(US).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+a3db912151c6285569694155777bcdb3	48238DC1	Vertical Force (1995)(Hudson)(US)[h2].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+c1f23aa9a6b5130a4971b4566dc19289	DC8C0BF4	Vertical Force (1995)(Hudson)(US)[h].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+5b11d402f7e322c71a7d4fa6503631fa	20688279	Virtual Bowling (1995)(Athena)(JP)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+591fde79167a6e5b246d6c6df87a2db8	D2D30E71	Virtual Bowling (1995)(Athena)(JP)(en-ja)[h2].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+a0d8fd562ab203f35056819208a5b3f4	DDF9ABE0	Virtual Bowling (1995)(Athena)(JP)(en-ja)[h].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+fb4dc9f4ebd506702eb49e99a62bd803	133E9372	Virtual Boy Wario Land (1995)(Nintendo)(JP-US)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+c03e792d8628c3c5729fdcae1620fb9a	526CC969	Virtual Fishing (1995)(Pack-In-Video)(JP)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+2fba0ca950f564fc68ebdbb2c35023e8	45471E40	Virtual Fishing (1995)(Pack-In-Video)(JP)(en-ja)[b].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+1cec316aca8827fdf99c685a1ee49dbc	8989FE0A	Virtual Lab (1995)(J-Wing - Nacoty)(JP)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+2ba914c8aa16f2f9230b3c5b7e17e67b	736B40D6	Virtual League Baseball (1995)(Kemco)(US).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+06f112d4868033c9b4399957eef7b78b	2E20B6E7	Virtual League Baseball (1995)(Kemco)(US)[a].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+19b78efd2f27067409f4393586b321fe	CC62AB38	Virtual League Baseball (1995)(Kemco)(US)[b].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+75ab83d493d9afc9eef49af071a32692	24ADEF36	Virtual League Baseball (1995)(Kemco)(US)[t2].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+a484d1d5bbde2bce358d59c61e3545e3	A54225B0	Virtual League Baseball (1995)(Kemco)(US)[t].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+5060dc253b8f9eba7067657f2e6b3d63	42E17E38	Virtual Pong (1999)(Covarrubias, Alberto)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+154b76be987a604ff8aafa4d438928f5	9BA8BB5E	Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+1c2f8fcfa5165de8a515cc5c529a4f0f	2A075BDC	Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja)[t2].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+0cb66278fc809252530044f7db9d8fcb	8F618FBE	Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja)[t].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+9b2d1a08790b5d9177462a4227c06ff3	2375F24C	VUE Snake v1.0 (2009)(Radke, Christian)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+ccfa400a0ff3d717dad36a3f736fd34d	AD054747	VUE Snake v1.1 (2009)(Radke, Christian)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+110a83bc070559c5cc5634a8b5cae274	82A95E51	Waterworld (1995)(Ocean)(US)(en-ja).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+9303817961e4333d6ae1c116ad7546d5	742298D1	Waterworld (1995)(Ocean)(US)(en-ja)[b].bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Games\
+23aefdd2f8f3da5d15feaf240cff0eac	1EF24679	BLOX 2 (demo) (2008)(Radke, Christian)(M6)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Samplers\
+b3311b03dea2b9a9d7c651cfdcb5bef4	06ED52DA	Capitan Sevilla II (demo) (2010)(Garcera, Ruben - RunnerPack - Skiles, Collin)(PD).bin	(TOSEC)	RA Complete\[28] Virtual Boy\[3] Tosec\Samplers\
+266da89cb0b8abd82ac5cb596b27d201	F7FF6190	186844-gbemu.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+0931f79442e34b0b007861778786266f	83A944E9	186845-gbemu_v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+35554dcf602fd2452d7adb033a85cc40	3754E82E	3D Crosswords (2013).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+cef10df7728f4398af46d51efc89d3d0	BB061C9D	3D Crosswords (2013)_pad.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+13670b97c5a2da301a5469a7d4956edf	4047E462	A Bird & A Sign (WIP) 2010-11-02.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+5bd8f7bdd76f28665dc1c1386896963e	508F44A9	action53for20160509.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+cd0b2eb7520661c188f15cb9cbf3b279	1BBE86B0	action54for20160509v3.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+4a2a21a7901f00396d8c7b3b47770ca4	45B91F02	action54for20160706v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+575043a84288708077f2fb0e4ea1d085	A4B587FE	action54for20161012.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+40679ca42d92e81c54faa3c36759587f	B145C6B6	action54of20160509v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+6047081c3cd4c6217a63c2c0157c384f	F3CF8925	action54of20160510.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d869272e12596834da0f1f65af954f6a	E4BB1C9E	action54of20160706.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+b72aced88a02fb7e7d4e322d0514a8b4	B93EEC0C	action54of20160706v3.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+b5104e475eea3921090049d95f660688	96CDF480	action54of20160706v4.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+b0112a7e3f24c219558e493da6215d1c	AFC5B89F	action54of20160706v6.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d73a86f4648451ecd1b0f31ec3158762	FBA50FBC	action54of20160707.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+fc7bd536eed2b0fc654704aab2739e0b	E08BCCBB	action54of20160707v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+0afd9e4f7920de4e242e9e3ab87cf8fd	80C009CF	action54of20160707v3.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+29f4ea89786484d4963961394c425c48	E87F9F79	action54of20160802.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d3c8b67ff3ce9525d62a24e268d8e6de	3CEE22F4	action54of20160802v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+63bcaf3e7c2218be39a261e8aff156d1	5702A51B	action54of20160802v3.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+e0d44b7b9105e028abfcbe62095936ad	E1035205	action54of20160803.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+b9ea14897b560125398ce9a5382128f0	07786CBE	action54of20160803v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+ab00464bc68af8a981094e2e38368e64	9162AFD8	action54of20160804.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+4629ea2e7b64f0fcae5cbc27bdb9479d	6588028B	action54of20160805.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+3c14b1bc541fcb5712988f45a38283d9	6C39BFB9	action54of20160805v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+85de4236b0b15e5ba0c825bbaa0eb8ea	4AFB588B	action54of20160805v3.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c39b2d45801d5936c33348dc39f619ae	B94F29A1	action54of20160805v4.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+b9ff1843fd4acabdc8b548761db21f78	295F6C96	action54of20160821.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a1b32c3b70ad0875fada464d681867f7	639CA272	Advanced Pasta Cooking Simulator v1 (2013)(Matej Horvat).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a6437d94c27cb6485d1f4c83c1ce92d8	10F6B3BA	ants 2011--03-24.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+206148b05ebcef3c23555daaf22ad0b4	FF9FE726	ants 2011-03-24 sfx.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+ed2ba13f5f94bca95bddf51065eb95ad	5CDA511E	ants 2011-03-24.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+2add85e4e285cba673dd93f135eba2cb	D6FD48DF	Ballface.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+8be08a6c65f5b2a8f466fe7da04951b5	044A64D7	bitstringtest5.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+afdf67e5666365a0023462ea4c5bdca5	8E4BFC8A	bitstringtest7.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c26762a48359eb9ab83785c7c9b2ac5a	B0E3D004	BLOX 2 (PD).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+cc91d6389df2c9777919e8e8ab2c0e66	85460A25	BLOX 2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a460e2660fa951e9d4e3b05aee9f5018	E81A3703	Bound High! (JU) [!].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+76c95f2efb40c0944e4144c59f2440d2	617A438D	Bound High! [b1] [gccVB] (JU).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+1d6f2cff3731b4a164bedde74ee2f0de	5F43663E	Bound High! [b2] [VUCC] (JU).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+ff92c688729be80e7e88be1cbeddfe13	4E49185E	brighttest.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+6fad47ee2c73e5489d722dc1665c90f3	3A3B113C	brighttest_fixed.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+b3311b03dea2b9a9d7c651cfdcb5bef4	06ED52DA	Capitan sevilla II Demo v0.1 (2010)(Ruben Garcera).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+8e1d0d6455772d67b789a1910200bb8b	DBF36E5F	Capitan sevilla II Demo WIP (2010-10-18)(Ruben Garcera).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+eb62bbd66b5650d38068c67f1decf579	E56D2C04	Capitan sevilla II Demo WIP (2010-10-19)(Ruben Garcera).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+79e87958ddad32cc303a86ccd806f22e	C24E0503	Capitan sevilla II Demo WIP (2010-10-20)(Ruben Garcera).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+fc529adcaba0d0d4e98a464122f8b82b	B79CC0D3	Capitan sevilla II Demo WIP (2010-10-21)(Ruben Garcera).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+12139e08ab7c663466d1ff4b97dd2a1b	0F33A559	Capitan sevilla II Demo WIP (2010-10-22)(Ruben Garcera).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+87fef9b24a1ab6a900ee270faaa736fe	8E033435	Capitan sevilla II Demo WIP (2010-10-27)(Ruben Garcera).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+16db1a524937fa27ec13a097a684d0f3	0EA7722E	Capitan sevilla II Demo WIP (2010-11-17)(Ruben Garcera).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+fe92b28e43edd00c6b9401d81446a0a7	F18001F0	capitan sevilla ii final demo fixed.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+3ef18c635e5216f264fbe473ccdb69c8	3F641E51	capitan sevilla ii final demo.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+027cad1fcc11bb43b1b36c2b5017e9a8	88E53046	castle of doom 2010-03-27.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+14015d2e65c3bf477258f2bb2d65e40d	D49A5E64	castle of doom 2010-03-28.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+9ffce8d4776545d8692d7c821ce4a983	BFCF4156	castle of doom 2010-03-29.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+aacf84b2a6ea62a51a6f3b5cb84d5316	587E7723	castle of doom 2010-03-30.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+29043531556ac4e50fe291a0d30b5798	8E54BB00	castle of doom 2010-03-31.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+5c6fd3f1bdc2e1aad3e707a0a361b9e4	4A76F80B	castle of doom 2010-04-01.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+5abbef29117da2948cf9b176440ed78a	3A992B1C	castle of doom 2010-04-02.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+259cc5de7362d6648e2db343254c561e	6046041F	castle of doom 2010-04-14.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+422377ac7023fce3c2ca76db78eae9da	89872CCA	castle of doom 2010-04-27.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d1903ba3f1dd4e5697edfd23a7286264	2C367102	castle of doom 2010-04-28.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+3f4db60b5659e8ab3b0d05e1bc787c80	5BFBF203	castle of doom 2010-04-29.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+1f7007e89d3fbefc7d16a09145dac096	257DE144	castle of doom 2010-12-28.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+7ad419dfb51342a5dca05612aa7c977c	D923E11B	castle of doom 2010-12-30.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+126980b8247689a932a909e272a4d18b	AD735B8D	castle of doom 2011-01-02.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+718828a16aab71283a385cb7f9f5ae90	EE68B6B8	castle of doom 2011-02-08 [a].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+fcfbeeca4bb33af756b025136c8b2549	B8CEA688	castle of doom 2011-02-08.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+7c44ecf0510cb518f7fe09eb9a66760f	1EC88176	castleofdoom20160427.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+5ad12f191c75da68438ef70d50cb6b90	E1512EDC	castleofdoom20160508.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+6e1b74ec2bd027faa024f61339690d99	7DCD57EA	castleofdoom20160509.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+932d5c804a41319b198e45c3a5a1c8ea	3C3FA463	castleofdoomtest.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+70dfb87113ac9d4c6f98fe849beedf73	BFC6F255	channelsweeper 2010-01-31 v1.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+0ec39a850dd725b4ecf21c4f55c4ab95	4AF6A635	channelsweeper 2010-01-31 v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+e666580b98aea30eeacf3bb30ac945e3	DBD70522	channelsweeper 2010-02-01.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+63c9420a78f1aa66bbca538ed1d84e21	714A18DF	channelsweeper 2010-02-02.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+74da89e2aceeb3a35d4fc6c1cd74a86b	6E955D0C	chu-chu rocket 2010-01-26.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+f32f7cde4f46c6f1814e0cbf24293abc	CB10D1D7	chu-chu rocket 2010-01-27.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+206f9b771e3ed1697677302e31027f5d	E46923DA	chu-chu rocket 2010-01-28.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+064e40c0944d0c29ffc7f59882d18e69	F36BD294	chu-chu rocket 2010-02-21.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+6d4882e27beb82245c25234dd7e99fa3	A767654F	clr_demo 2010-01-17.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+8c389118cf589d1d052f2951c35525da	4894776A	color [a].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c9f7c42adf0a13f1046fff14775cfdec	8831863F	color.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+65f724bd92fe3267f7f1003ab5d2485b	F3FD40D6	cycletest.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+7943cf599f661776f806654606c12fcc	DA9B8680	DaumenKinosaurier_v1.0.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d62f822215ae2faa9e76bacf36e2ae20	A6ECD1C1	Deathchase (2014).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+1c06caa6238a3412335117212a0c35c1	EBEA7623	Deathchase (2014)_pad.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+92ef6889f887ab83e7ac43c399cebf3c	96FA981E	Deathchase (2014-03-01).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+b0bf1742b00a5d17a4e2ca82afe423ee	6122DE50	Deathchase (2014-03-01)_pad.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+87c80c8e3047e38b2db98d11e98345ab	F55E1CE6	demo Graphics 2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+6549205c26b50276f97929f33bd89435	E13B4C9F	demo Graphics.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+77f121d3d3af1d1fcfff5698fcd67e04	20303E5C	demo2 2011-08-16.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c0944ac109fce910afdca869a7d25803	161680FE	display_test_v1.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+3811832349451369a946dcae5897e2ee	09DE41B9	DitherTest 2011-04-04.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+699a15aab91895221033f4cb510177c4	EB61160F	DitherTest 2011-04-05.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+4c67e92c153f624ad712e9bcfeb0099a	6EEE0954	example pad.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+6a1d02b847575892afa1a550e330959f	F808808E	example_pad v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+aaba729665ed0aa0cf4acf8eed35c75f	CB50074B	example_pad.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+fd6807023f76ee4e3e6fafedb085e39f	7FF8C97A	example_pad_SMB3.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+550f1bce6ad6c31583cabf0004ec2299	7F31F47E	example_pad_StarWars.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a25b7f4ea2a350442ace70e201b8c495	B17B9B91	example_pad_Zelda.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a8232835f65e6e026325bae0fa3070a4	90FBAFC2	faceball Matejs Controls.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+5a081cfe81f0475176782c4012e1fdb8	56E0297B	Faceball.Remastered.v1.0 Circlestrafe.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+9daba39f4e09444d749c4645ae3ed0c4	FDFB30DD	Faceball.Remastered.v1.0 Gesichtball.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+94501be93ec2feb1569f9bcaa7a0f018	3B9C7022	Faceball.Remastered.v1.0 MatejsControlsv1.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+297ce3cce66511af8288edc63d2c330a	3D53B7D0	Faceball.Remastered.v1.0 MatejsControlsv2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+dbaa19eb37a49c9bb8ee276a05b151c4	43A208B7	Faceball.Remastered.v1.0 MatejsControlsv3.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d20ab7aba4a4e629a8ec647db6260a26	85B321C7	Faceball.Remastered.v1.0.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+4eaf7925f5ba9d4b650e9d7bef235667	FD87F69B	FaceballCirclestrafe.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+8d84dd7894063e7c71063db3464cf8e6	BAE7E4FE	faceballMatejsControls.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+97cb1ec714686df5eb7dd7b9dda8cf31	E764F758	Fishbone.[Happy.New.Year]_Final2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+eee8be03986ddbc3ada91b10a543f17e	B5977E82	Fishbone.[Happy.New.Year]_Final3.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+e2f6f260f9f034c62a2e23dc3a8cf4e8	63C75EC6	Fishbone.[Happy.New.Year]_Final4.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+01d94764306f39145ddf5c9216aa2595	413213AD	Fishbone.[Next.time.we.break.your.legs].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+00e4d190aa34e8b35a974da1d16194e6	1711AB78	Fishbone.[Next.time.we.break.your.legs]_Final1.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+5db98a9e661512105b93268d4f80adfd	9803B3EA	fishbone_.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+8f3d144e40fecbcd482b34e7fe75cb4b	384F3C82	fishbone_pad_demo.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+919c64e6a2d4d1d952df1e8e8f5ccb64	760B9298	fishbone_pad_v0.1.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+fcb59e8ab2a38ea21f1c7dfb46fa7416	6E107A0A	fishbone_pad_v0.2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+2176fae66e175a5bf9fc0266b627cc6f	68EC16AA	flappy_cheep_cheep.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+8d35e9f69c599975704461fb4ebfaf2f	6FA627F9	fourth.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+31073126fad41777357391ecc36d6f7f	44C2B723	Galactic Pinball (1995)(Nintendo)(JP-US)(en)(beta).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+6faecfc6917602f674f411a2dee1ef58	3747AC5B	Game Hero Midi Player_pad_2011).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+25f14997133e6e0ddf4d7b2ad847090e	47F2A964	gameHero10_FlashBoy.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+0742577eef9c7263da3d523e4fd79be6	E29ED6D1	gameHero10_RealityBoy.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d7adb3f627d0a3bf058e56eb7bd9c58d	EBF05942	gameHero11_pad.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+db3056b512111c48ee3d8a0e0433a8bd	674F9620	gbemu_140306.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+5ede1034a3e1f9baf92bb7f4e258f073	8040D338	gbemu_140306b.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+692b4f4be08a9498ac3ee6e4a013db49	73CF6297	gbemu_140309.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+07ed271f05b7920973bf6faa150f2a07	94605A1D	gosub 2 2010-09-23.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+137ceb83e8e465851ebeb5fba8268943	796E6DD9	GoSub 3D 2010-07-14.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+5d18f4c42da8fd170ea8525357d0fe4a	EEA9E9E1	GoSub 3D 2010-07-15.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+7c6b0d80eee8337f50475b7c8d2c1f08	8D22AD3F	GoSub 3D 2010-07-16.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+1b8cda1abb515684d1f2aac08a3b67cf	952AD689	GoSub 3D 2010-07-17.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+3e6ce37287b4ab29b0bb74bdbfa367ae	6A9BE79E	GoSub 3D 2010-07-18.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+f2b6140619a282f2273874b38a086184	E6863FA2	GoSub 3D 2010-07-19.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+690f9941bab53d71035d881af14c0468	8543B08A	GoSub 3D 2010-07-20.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+8f72dd258b633155c65b3751435a8555	8733F73C	GoSub 3D 2010-07-21.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+1dc0f02075bd3e70b50d02a89bed894b	6416DF0C	GoSub 3D 2010-07-22.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+ab136540d5098bd71af117884996ef4b	8A9185A9	GoSub 3D 2010-07-23.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+9471b1ef1cc3e432bed36ac1bc57fecc	3BC9B81F	GoSub 3D 2010-07-24.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c2cb663fd491fbe493d3c92b33ba8cbe	EABA3E02	GoSub 3D 2010-07-25.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+6740cb4540df758d4108370274dc699c	598AEFCD	GoSub 3D 2010-07-26.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+7d33aec30bafc6f9c4b92e5bb405f3a1	E06A6E78	GoSub 3D 2010-07-27.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+3fd7a007b33ed7bfc9a281a4cd2194a6	908D946A	GoSub 3D 2010-08-12 (256kb).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+3e54c13e22ac03052857abb7c984f63a	AE0E8DD1	GoSub 3D 2010-08-12.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+45e4dd737bb1e0256ce51ba15446cc87	26C31D06	GoSub 3D 2010-08-13.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+712627fcab3058e4dfd78b245f395de6	06637E51	GoSub 3D 2010-09-22.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+59e00a964dd1d21aba5771ae5eb542f5	08F0F88D	GoSub 3D 2010-09-23.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a5a3d14326bc8dc197a2088abcabfdfb	A646A392	GoSub 3D 2010-10-08 (2010)(Chris Read).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+06e5df59446832723bb73434d3d9d5ff	8EE15376	gosubi_2009-08-27.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+b3e46cdbe57d3995065daa917a858a76	4450EDE0	HF Demo 1.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+2555cca2f7d8dd253f2cd5612a8ae373	A59A6EE1	hunter.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+ea9f8688d07028a697bd6bc87b0fd336	6AF894F6	ic (2).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+0d2826622ca12efb9a6ee6755939de88	F683F8BE	ic (5).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+094f49d5b50d14e9af1a51703709684e	7EF4647B	ic(1).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+0f533a17346643012cdb7d781436240f	385BEC5E	ic(10).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+44a35e149ad97dba97c5aa31f7cf51a4	93EACD20	ic(11).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+f62a6a8b818e9a719ed83f1430b542a1	B7954B06	ic(12).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+dbb3dd44e9336aa040a8bf8131dcfa83	F9B5DA2C	ic(2).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+11beeb81c5f204d183cefe77cc046d5a	0771AC20	ic(22).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+ebafc17f0305f144fdade7c7840dd2b1	BD824FAF	ic(3).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+2787af895c2db1095cc4075287c14b07	566A952A	ic(4).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+415c6936b1bb84ad362e2223395b4dfe	2C421321	ic(5).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a5c96ee19f4828f5d38aeea501df3a47	434D48E0	ic(6).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+4dc69995ad4007c24575fd50ca29d225	ED4FAE82	ic(7).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+db42cf1d99d5940fffde40e2bc9be04b	2F965C10	ic(8).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+cd70e0d18274bc42f1e6dd024a2cc6dd	2E30752E	ic(9).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+bdc9ea6dda0b5f4f08c63008808f9a41	66DF2F93	ic.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+ab70c21dd019fc49d60db9617c1c565f	4214F8DE	ic04192014.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+f5d04734365222e35fbee337e9c37a12	B4B41396	ic20140328.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+31c1f437be66f7e040ad96c85a35ffe7	0E8267A1	ic20140521.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+7fdaa480a4877b86923d26d923e0823a	DDFA0E33	ic20140521v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+78099f921ee2b08bdedbb4f200df024c	2754E940	ic20140609.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d87521c70e6588292779cfe50450935e	FF8C6654	ic20140609v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+888bbdf4f1f2e8849d016a882efc8d96	71295CF8	ic20140609v3.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+49695479f3c489020ef62525eca77075	32DB9A9A	ic20140610.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+38c75b61c88ded0628c246aa9385f8e4	5B054163	ic20140610v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+187c07a86770d3e47c607eb60e7f92ee	6DE4F7CC	ic20140610v3.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+02e0d1645e71705b06b2369e6486c30c	C4B3213B	ic20140610v4.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+19261452f05780876bb382fc0696a74b	B692D0D3	ic20140610v5.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+1f82a7ca6e1b078746f0a6c8a920a425	839478C0	ic20140712v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+8672cd0e72eed1674dd4edb332e8b6d8	1FAA4274	ic20140714.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+1cfcc6c8712a3f918324acc6472141a1	C3EFEAB5	ic20141110.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+9ce1297602b4c456b5b46f3b7b6f7c80	CCAB1F90	ic2014aug19.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+5f2bd26ae1e4f27e5820983e566399d2	F9BF86B2	ic2014aug20.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+96bd1eac0892ef37d865ad19e1d048d4	90F95F95	ic2014mar23.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+1eb964d0eaa3223cfefdcc99a6265c88	83CB6A00	Innsmouth no Yakata (Japan).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+0d9d78da486963e594a3269dd11ecc8f	198DF37C	Insect Combat 2011-06-25.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+ed24876cbe16574bbf05be5f08afad4e	E52A2479	insectcombat 2009-12-29 v1.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+e2c5175c5e064d8d3d56b957ab2eeae3	C1FCD2A6	insectcombat 2009-12-29 v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+40fff31a99be9dbb32b8696a1964e277	BEC68E56	insectcombat 2009-12-30 v1.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+129704d9ac4b8c1bf99d8eac7a1a020f	F87B6A81	insectcombat 2009-12-30 v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+8564d33037064894c8e4a978b2699d4a	5FE2F69B	insectcombat 2009-12-31.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+46e0eb4b6cdd1202b69cae35381dd1fd	9526B46F	insectcombat 2011-02-09.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+4155c16472569f592f4191858cfee92a	4A71F32E	insectcombat 2011-08-07.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+7164d9282839bdc0b6ae13f56c55f642	B12A8D42	insectcombat 2011-11-16.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+fa529440608ec2053983d4c85fb49045	AB0B8FB1	insectcombat05102011.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+36e426eebdaacb6976164d7c9e89da15	7059AF05	insectcombat05112011.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+b5ba39974d9a22d5fa76b307949ef251	1029ACF9	insectcombat05112011eightfighters.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+891c31c537e73dae129f29537c1aa883	C4917696	insectcombat07142011.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+fa294b55f34e50e1f23067374668e1b1	A00D459F	insectcombat07152011.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+2ce93ee20b792dd393897606bd07e109	0FF80509	insecticide 2011-11-07.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+e633cecdced9319561e6958c94dbdfa2	9192D272	insecticide010112.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+fd94ae59b9f44e58fc4914a95cd53d25	B6F8B3C3	insecticide020512.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+2fd3b90ff355a680692dbc3594278e3a	7D2052CD	insecticide020612.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+609bc4435bdd32b30a5bbc7378ebe9f8	F459DFF1	insecticide022312.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+ba82d7be8b3f7fc0fdc86ea895a3489b	81D379F1	insecticide022412.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+b41807aec3be9fab56461bdc93bd0378	F18E75B9	insecticide022612.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+fd7efbd087d9ea3cda275fad89f3a983	14A9C430	insecticide032212.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d2705d93c39b0cbdfc11bddd9ae57943	0775980E	insecticide032312.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+0144e137934de076cc7d2c6b61800ed4	32FFEF3D	insecticide032612.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a802840d0642b3f0d28317867b91861c	26779F54	insecticide042012.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+25f2b930c5b98253419abbd53914e9a8	F52A3B88	insecticide07082013.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c138ec5798d7f6c637351b3430879b4b	102AAB32	insecticide08032012.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c912a2cc724af97a028b6953067ed1ef	48E32410	insecticide08032012a.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+725363fff7d887a72417008fc0cf9c54	90AB29E9	insecticide18oct2013.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+523ab2131c756398a2a5d04aba2052ee	381E50F0	insecticide2012feb06.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+9b2683878660ab157363e718267f9f76	7C01D5B5	insecticide2012nov06.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+2395b4cde02a2ace978d78258ffd7ae5	24ADC834	insecticide2012nov09.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+e8c5d3b0899b28f45c313f033d7cdee5	67BCEB89	insecticide2012nov11.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+25668724e88ac4eb2af006a08fd9a12e	66192865	insecticide2012oct01.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+09617d3a01df0e93b6507ddd108a4383	E1B2F7CA	insecticide2012oct12.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+e6257175c16f60f453cf4b96486af473	B1B09313	insecticide20131230.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+cf93dbf03eb469e5555661ecf51f7ba4	299A4523	insecticide2013dec06v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+8842b30356def85d96b92284ae605af6	DDF4267C	insecticide2013dec6.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+1f9edfdeae4fc56aff3dafcb7a8aab8f	C6C1333C	insecticide2013jan22.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+270fef8f5807011fed69dab579fd97cc	E6E3C1FD	insecticide2013january6.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+23c2f73ada82054d0a4b85a6587fd337	EEEE3177	Insecticide2013nov11.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+e7e135835eeabe7a12cefe1b39d2c2da	917487F0	insecticide2013nov12v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+472cca52101389b7e830e298caeeff74	7F2B587E	insecticide2013oct22.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+25d3984bdf86c1899586a0a314076552	17DE2C59	insecticide2013oct23.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a9ac18976c9bb503b72ed492657aed9b	17733686	insecticide2013sep29.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+840e29aea47058ccce07b146d3fbf30f	E7F8BEAB	insecticide20140119.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c9008bf6213cec96e82321965bc48ca8	0FD19400	insecticide20140119v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c875b93c1ca1a22afc9d8cdfd60a9911	1DE8B2EC	insecticide20141014 5.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+662dc37f37a521b6069ffb2c46e3fee3	2B1EF838	insecticide20141014 5a.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+df5e57abdd29473f38a4145af841527a	6484514F	insecticide20141014 6.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+731cb3f16739505d46017201e9aa4cd3	AC08F99E	insecticide20141015 6.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+66043af88512a14c00a71f12f006bc0f	4DAEB397	insecticide20141016 6a.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+3781cb49a6206ba6aa9378303f4a6b59	909C2F72	insecticide20141017 6a.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+3e2785f5714a0c7a30d07327ac31164e	EBC4ABEF	insecticide20141021 6a.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+f89daf6564f0b7b40ad273321a8b8e70	CC69A9DF	insecticide20141021 7.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+1093faeb789e2145a7b9403eeee02b0a	D4602121	insecticide20141023 7a.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a8fa556fb0fdc494c91fd91350834ceb	F4CD39D0	insecticide20141029 7a.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+16e4952fe575c2718c5117c4d4172c64	36FF54A7	insecticide20141229 8.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a1b2d75e752504ae86d99f70af79981b	73CAA5DC	insecticide20141230 8a.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+3761da7c586c06b7c83c03f0f4c7bfa5	39067F02	insecticide20141231 8b.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+31a8b6e1a98af4d2c00932b441680b48	49EBCA22	insecticide2014feb01.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+2e58b6e09962c9b9d53c333a7989fba2	5BC656AF	insecticide2014feb01_.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+fa12e5f2c8e953bc26fa2060b2bddf5e	F0A2FD94	insecticide2014feb03v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c73f8af47d2c33e2211deab62327a72b	47E9CBDC	insecticide2014feb04.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+11019621d01d40fcd521ecb474893fed	05566475	insecticide2014feb25.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d36f457d6655fc8570b616fdac73deca	DC90EF12	insecticide20150217 9.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+ee3f02300548dad6cb1978e039a16b64	347D94F4	insecticide20150218 9a.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+66d41cb5238f22ba29e5424f64a01f77	885F8626	insecticide20150220 9b.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+71083654fc61f97eb5be1191f43dda90	9E538C1E	insecticide20150423.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+70c7dc454ac66a975f54c0f94eb975db	6C8A455C	insecticide20150424.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+604449e6c55e0f5fb54f7b4169654a7a	A5B1EE22	insecticide20150523.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+0e495f945574d4cf399a51c2b720439a	197E73E9	insecticide20150616.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+459f68690b7957102b4cd87fef25f3c3	4C7D84EA	insecticide20150617.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a03b3a9a09259aaebe60d7389cd5ec2c	89AD26F9	insecticide20150625.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c8675fd318abb928f8db0815c4ccd1b5	F1961ECF	insecticide20150815.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+5cc03eb9e429e4c201b96a12148dbbd3	A0191EBA	insecticide20150828.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+dac96be3ac74b28d2b31ae2e61b2efed	6D74A78C	insecticide20151030.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+1e8b70861d31217e66af97dcd6c44553	28836BAF	insecticide20151030v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+e0801c14afde920752ed9618c70f3494	7884937B	insecticideaugust292013.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+766934b06e5fd887bbd95858386f62e3	43DBC575	insecticideaugust302013v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+dc2c01323294d2432db1ce5536829015	791A8E0F	insecticidejuly082013rev2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+24b4ca7b5b0274d59a8b00cb33442722	2720018C	insecticidejuly302013.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+55b89a02624dd0bef45b082f1e317079	B48E1F11	insecticidejuly312013.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+f4f2474034957f282cd879bd1c15b6fa	8ADDC362	insecticidejuly312013a.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+19440309a296af6774584a5d47a6f97d	DBFB2A0D	insecticidesep222012.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+22a1b5e423deaa8411fe8306f1b6e185	5A08CC5A	insecticidesep222012b.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+3387bf087e03f396e1d9b37d16155c13	B086A737	insectwip2014feb25.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+2fdd657f9029a076b08e81aabe75681c	B8F226D8	Jack Bros. (1995)(Atlus)(US)[h2].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+87f7eeee517faec0b0715f0e4944aad6	3BADDE6B	legendofhelga2013apr22.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+9012b821a288be57054f34fa21faa570	A01C1E4F	legendofhelga2013apr23.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+bae9b41c3042716a3d27fbb547a7b5a4	11FB2E3F	lh 2009-12-10.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+068350c87c1ae0776ec9b25a1c498b48	CCD5F250	lh [a].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+38577a95d52961f8e65c317fc7ff9803	5BFD9F99	LightsOut.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+cb16bb3d1521b39c4947bb08b0bdebec	CC042672	main(1).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a5e79d1147dc3c8b078ac82586543a04	7ADF5F2A	main(2).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+85ee79c070b9ec4f49df0e91d60953d9	91C942AE	main.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a03afb33c5f8b24cc7d0d93a4104e7ba	0F815C1A	mandelbrot explorer v1.0 (2010)(Collin 'Fwirt' Skiles).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+639c353e720cf44e033cd5a4453fe366	089EC3E2	mandelbrot explorer v1.1 (2010)(Collin 'Fwirt' Skiles).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+704837e3255bd44a62922c6644c535c5	946DB48C	Mansion of Insmouse - All Hallows' Eve.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+948ebf79c09f28d874c7277dbe54fb75	34D323A5	Mansion of Insmouse - Mario Madness Edition.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+1d1676b88c22644ac1816779cc76beb5	A9E57141	Mansion of Insmouse - Mario Madness Edition_.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+f97d4e02921f632909a5e3c4747b16ca	245806D5	Mansion of Insmouse Mario Madness Edition.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+e19c760911e6cb5e1425932941213b6f	6E3EF6C2	manwithball.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+bf3859019b06180fa8bd6824fce214db	FA5877CD	Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h2].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+aa833e4391db075b8435380769dade51	F2D5167E	Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t2].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d67a16d2c19b8ee9e4f3b058b4f3835f	FDFFB3EF	Mario Clash (Japan, USA)_all_levels_hack.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+76f9f6919058aec4ddada0f07d107c5e	F572D25C	Mario Clash (Japan, USA)_swap button_fix.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+6fd50c08f16d44da026dca190ade43fe	FB91380F	MarioCombat.rom.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d3ad34672f57107ee2828b77fe58baec	92FD6A3A	memTest_example.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+22e150fcdfc5aa70741771a45d3f39d2	A704A0AE	MemTest_example_pad.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+cbc21245f5a07c83b49405a42529b584	2A8B4268	mem_text_example_pad.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+9c1272196dccda30563e43c3181d3d57	5491C8F7	ModelViewerStarWars.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+5cd734382b4d2d659b944fc8136afe19	D5622DDC	ModelViewerStarWars_tiny.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+2154d341a69a4cbfcffb693b5d4548cf	0C456A18	mp2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c0dffd0bbf20485f6aabeb5e66cef911	86EAB7EE	mpyhwtest.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+2fa03233d576b2ce73622d09c078ae49	EA65B5FD	Niko-Chan Battle (J) (Prototype).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d9a0215782dcacee5a3c4cc83d1c5189	F3CD40DD	NikoChan Battle (Japan) (Proto).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+87c0c0d63a8fb77d4c415b53997875ba	260C2469	Null Pointer Mockup (Debug).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+39ea7766c44b19461ca8fc2a3484f8f8	092DA01A	Null Pointer Mockup.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+dd84f610e9dd0143c43dd6ae58939673	FCAFED21	p64c.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+838555f6f0445a8b745b9fae26e10692	8797F458	Pac-Guy 4 2011-03-18.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+8405c10e828cb230057b66453b56583e	A08013FD	Pac-Guy 4 for Virtua.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+b7c85e35083b94962abcb8f15a2cf195	F4CEA13C	pacguy4feb162013.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+b2c909a73364afc7a3a9124514f9ee61	6F1EC5C6	pacguy4feb162013v4.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d76b2be5e4ca93a39fc26d41b09891ac	DE85A990	pacguy4feb172013.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+6137f7a39602f49a3342e4baf7451238	4B400477	pacguy4feb182013v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c02f71d582b4c31a4d01e97ba3884ee6	388636E8	pacguy4feb202013.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+1adecd66030c8b8e7d18e48a45c3c6e5	10348289	Panic Bomber (1995)(Hudson)(US)[h3].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+cf33dd5d47ae06f0bc2269cf3d3d4d3d	8C4B7930	Panic Bomber (1995)(Hudson)(US)[h4].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+3529312f934aaa1e5c3acffe2787399b	B0E0FBB8	pcm_16_40000.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+abc4371326eb54db5690ee27d6c968e3	316E8084	pcm_46.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+09b7bb62b8c6ddfa8488133ae2290888	B4934D44	pcm_46_22050.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+87ae0eb40960bd2bc002e00f40683bd2	3B15A5C2	picture example.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a7880f9ad47a42eba65d1e37dbc250af	A6A2B5F5	pineapple64of20151223.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+1256856bce6633eaf862c3680de6d38d	93E1A598	pineapple64of20151223v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+bbe2a95b807d4ec9614fcae93817db93	29E8B9FB	pineapple64of20151223v3.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a963cdf2eacb71c65ed28dbf59e72a10	1DEB06C2	pineapple64of20151224.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+924e3de6a13dbc9544cc29e4b7fbdd69	C83AD60A	pineapple64of20151224v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+59330347b3f41a5e3840f7e8f9716734	D4B33706	pineapple64of20151225.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+1b58ab759747d45e8fd9fd65f442dbae	C8D195C5	pineapple64of20151226.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c20321a5ab55f642bdc713f8ec9ecdd0	553C2A7D	pineapple64of20151226v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+bb05d0db2be7a7bfa237037409a536ec	9AEA3E4D	pineapple64of20160116.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+90b51d93c1201d7aeac9f033e6bcc704	21863E55	pineapple64of20160116v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+ce3ed16852b0695ef9a7e2a67c36f9f2	4D338B73	pineapple64of20160117.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+28ee833f7d2e72808f3a07bc3c8a13dd	145D5C43	pineapple64of20160118.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+fb5e4cd0d4c6cf1e3ffc7eaa43114bda	35205501	pineapple64of20160120.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+91680df534ad071f87a4727c544ab43a	D3EB148C	pineapple64of20160121.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+aa823e597964a6e6315756e36180e672	C5533466	pineapple64of20160127.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+e76585e78c32390fd8b21f0ae54a3578	DC54BD78	pineapple64of20160129.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c86ddb5209bcf94694fc34a7c50568c4	AF8864E5	pineapple64of20160215.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c81e121e78b63137305b9098bb5a2ad9	E40BFA61	pineapple64of20160315.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+37d35e412ba8db20d3e760d1a31fd392	F6E78B5B	pong invaders v1.0.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+7f24d116d3364b73df82210c4b53d7f8	05D5690D	realdanger.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+0fa7e36d7e9af5f7954d810d8b7ec7c1	E3869A0D	Sample Soft for VUE Programming (v1.0).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+f061abedd5c6919561d09556b3a91163	0E60C273	Sample Soft for VUE Programming (v1.1).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+770820318300188dc5c83952ae79ced6	FA58B8D2	Sample Soft for VUE Programming (v1.1a).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+e6807c961b740ddefcba710c5d01fcc3	3A236929	Sample Soft for VUE Programming (v1.2).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+45825104799b74d36740d486f3f0cdf2	DB4DA3D9	SD Gundam - Dimension War (Japan) [T-En by Benjamin Stevens v1.0].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+1012a14db2b9b43539a2605f1a8596a8	8CFA533D	simple walking animation.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+52499ce9d6a91364e15683055504a6a7	A8FFCE33	simple walking animation_pad.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+2999c7db49198890d5f1d4002563804e	1AFBB29C	Snatcher.Demo.1.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+8b2052240e72bee65ed005e1c67d4dcc	4565652A	sndngnex_pad.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+90ef8d48eb3178f32e9ef45ac83ef7e1	447BA0C0	SOVIET UNION 2010 (2010)(Matej Horvat)(2010-10-30).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d1ac7aef8f278c81672b11bb6e0e260b	63166E19	SOVIET UNION 2010 (2010)(Matej Horvat)(2010-11-14).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+48bc8c23c8c74fde88ee2fa1bb5a5a8f	968BC868	Soviet Union 2010 alpha 2010-08-12.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+74cc1621b5e41c0a39290709f88bfc34	F18D2859	Soviet Union 2010 alpha2 2010-10-03.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c4cd96ad95ad9521d6516b459ca1dc54	1E36D2C2	Soviet Union 2010 by MH.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+fad62e87fc51f44d75d17d5f3ffd4e0f	5CDE2C56	Soviet Union 2011 1.0 31-12-2011.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+9ac4a0beaccd30fc39f34a494e64a8f4	0CD7390B	Soviet Union 2011 1.1 25-02-2012.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+7209a6bd5d788f12e97b9247d28197ce	3A2E0413	Soviet Union 2011 1.2 06-07-2012.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+e5bf830c1b52093d12d3c5c114a9c3d1	EF31C801	Soviet Union 2011 sound engine example program 25-02-2012.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+b487a12ef45f1cb5c66d51964dfbd886	25DA0DAF	Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)[tr en][a].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+583b2aed0abada1f0ad15408baa15eb9	2508BD6D	Space Squash (English) Version 2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d48be93b5ab341f7cd5770583467aa7b	34C1DDB2	Space Squash (English).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c257aa8e805afa40506b521e2d03458e	F17BE1A2	SpaceSquash [o].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+be26f5fc9520d52e50760e791de4b86c	72217B9F	SpaceSquash.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+41034442995ea05657b2f96d07997136	D2F560E7	speedy.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d6df73b477a8408da74c6d79dcaa0d0a	5475859B	StarFox (2014).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+7bbb621d7e53de01f94b638e070c218d	D0DF0272	Starwars.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+83c6752eecfdf94f576f3fcda272b91e	8F013627	su11a1.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+46434bfb8eccbe7540a4d2a79d471f40	13660731	su11a2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+46e910ba8dc15a06fa8dd8b32d0318d0	552AAFB0	super_bounce.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+92fc8b97c07b1160bd0acd243ee1262a	41282435	sysreg.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+e428df8398f8c4494d5f13aee6756ba2	BD9A158A	test Board Game.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+67ec9f832291618031805827841b1f23	D9BB7673	third.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+851ff0bc208979c133505d975e40c645	67E8667F	tic tac toe ten 2010-05-16 v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+4dd69f5fa04a6b10ca847a802d93fa3b	63EA2E3E	tic tac toe ten 2010-05-16.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+98ca9bfb52abeda63f2b5bee4d23a47e	0C8D961F	tic tac toe ten 2010-05-17 v2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+381d46c19ec252e99075f695363a0d34	38E56560	tic tac toe ten 2010-05-17.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+7f7e6c3f3d77db9f1658994950f3135f	E23CC852	tic tac toe ten 2010-05-18.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+786b97af52c9d1d3923bba45dcd9e4b5	4B9E9520	tic tac toe ten 2010-05-19.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+4b7480dbfc59a7055128d70a6dc05760	CA050C83	tic tac toe ten 2010-05-20.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+674b1c87dd4c692b31d657aceded299b	338A5A3F	tic tac toe ten 2010-05-21.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+f3a1c85a886ab680591cd6a73dd076e2	AE34D21F	tic tac toe ten 2010-05-22.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+7e676db0454a6226ef43128d1a8ab59e	A50EA394	tic tac toe ten 2010-05-23.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+0ab33db88ee41f540d968127dc55fa50	14EE3F7D	tron.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+4f29265348a320b3429e0fe8c3b89af9	9A126EE1	tt 2010-05-31.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+ed4a33d5767955f5798394c4445d08b0	C548919F	ttt.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+eade09fee184a9951e5113a2c5a77f39	D53B35D6	ump.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c8cba3bed365d1b02bb233db5fc7e53e	78D70A02	ustest.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+7eb03d6da9a4e4af14454cf9c75d71c1	F4EFAA95	value demo KR155E.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+085380019d99bfb388f178da18271f0e	CE3BCCCD	vbdemo_pad.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+4743988ed81a4466aabb81f342e90f9f	03387AD3	VBJaEngine Platformer Demo 2006-01-06 (Debug).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+8e54e41004171784c34be65b7f090bc3	9727BB76	VBJaEngine Platformer Demo 2006-01-06.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+9cd3f44dfa81bbfea208bb1ac30318d8	3CB38DEC	VBJaEngine Platformer Demo 2016-03-03 (Debug).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+f0c78dd09077e992face203d40abeed5	D942341E	VBJaEngine Platformer Demo 2016-03-03.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+68da19f5603436c6b097bbae614c974f	953DB6F2	vbpcm.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a3db912151c6285569694155777bcdb3	48238DC1	Vertical Force (1995)(Hudson)(US)[h2].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+591fde79167a6e5b246d6c6df87a2db8	D2D30E71	Virtual Bowling (1995)(Athena)(JP)(en-ja)[h2].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+2951c7df5238431d54dd5b21ddc46cdd	90323005	Virtual Fall Coding Competition Multicard by thunderstruck (PD) [2014-03-04].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+cc364873ab1c61760def3358b3dabc9f	D92ED92C	Virtual Fishing (Japan) [tr Eng v0.1].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+75ab83d493d9afc9eef49af071a32692	24ADEF36	Virtual League Baseball (1995)(Kemco)(US)[t2].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a484d1d5bbde2bce358d59c61e3545e3	A54225B0	Virtual League Baseball (1995)(Kemco)(US)[t].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c6911dbbfac4825652f0b07dc12c0026	F809D381	Virtual League Baseball (USA)_select any team.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+1c2f8fcfa5165de8a515cc5c529a4f0f	2A075BDC	Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja)[t2].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+0cb66278fc809252530044f7db9d8fcb	8F618FBE	Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja)[t].vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+d80ccadddc8634d27fa9f1d0addbd5c6	07CCD213	vsuworkshop.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+293a04cf8f23c77c2324cbd1c8bee4a0	D3BF9E93	vsuworkshop2.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+60c71be93400931cbb579e6f07932a5f	66DF5436	VUE Debugger Sample (2010)(Williamson, David)(PD).vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+f76be22e500f25f512432d426809ee8b	3813A427	wavonvb.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+f9e6512c904899cf0dfda2ba4c6ce5be	8D6BBC09	xmas.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+c52d0193215f1a32bf4c3c5f29cf696c	95AF3A83	yeti3d 2010-01-02.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+a85b2a0e327f551099ef52e9a60220de	11758971	yeti3d 2010-01-13.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+16c481c4da540d8f36f1fd1ddbbec619	100902AA	zpace_racers.vb	(NonGood)	RA Complete\[28] Virtual Boy\[4] NonGood\
+ecf1218706e9b547eab9e4be58d54e21	BB71B522	vue-vpbe-0.u1	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\3dtetris\
+a460e2660fa951e9d4e3b05aee9f5018	E81A3703	bound high! (ju).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\boundh\
+85260599fdada2e137053a8647aa0d06	C9710A36	galactic pinball (japan, usa).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\galactic\
+977c4da800dacfac1a1402781670f872	2199AF41	golf (usa).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\golf\
+1eb964d0eaa3223cfefdcc99a6265c88	83CB6A00	innsmouth no yakata (japan).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\innsmout\
+ee873c9969c15e92ca9a0f689c4ce5ea	A44DE03C	vue-vjbe-0.u1	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\jackbros\
+1b177fe2dd12ec1d67f6a43502f8d391	CAB61E8B	jack bros. no meiro de hiihoo! (japan).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\jackbrosj\
+b1b3a25ce8fb4f406bf82b8765d307d0	A47DE78C	vue-vmcj-0.u1	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\mariocla\
+38ecc2c5a745a80d32eb9e8e413358c4	7CE7460D	mario's tennis (japan, usa).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\marioten\
+0285dc41d75be8419d12472f20025305	DF4D56B4	vue-vnfe-0.u1	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\nesterfb\
+d9a0215782dcacee5a3c4cc83d1c5189	F3CD40DD	nikochan battle (j)(prototype).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\nikochan\
+467247d5e3383d066005565bf8218436	19BB2DFB	vue-vh2e-0.u1	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\panicbom\
+e56e85761f52a613b34079d5322088ce	AA10A7B4	red alarm (usa).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\redalarm\
+bc469bf797f4774bbb1678c7f500853b	7E85C45D	red alarm (japan).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\redalarmj\
+1cf8c69d8a740d6ef3aab54deced31c4	44788197	sd gundam - dimension war (japan).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\sdgundam\
+7607f6f918615263512b17e56797c9aa	FA44402D	space invaders - virtual collection (japan).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\spaceinv\
+31073126fad41777357391ecc36d6f7f	44C2B723	space pinball prototype (j).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\spacepin\
+09c5f3143c25d1d30a3470e571653e48	60895693	space squash (japan).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\ssquash\
+0742a861a599fe3361aac6ebef6745a7	36103000	teleroboxer (japan, usa).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\telerobo\
+44039dfaa0f8fcf8ece03b8cda267e4a	40498F5E	tobidase! panibon (japan).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\tobidase\
+5b11d402f7e322c71a7d4fa6503631fa	20688279	virtual bowling (japan).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\vbowling\
+c03e792d8628c3c5729fdcae1620fb9a	526CC969	vue-vvfj-0.u1	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\vfishing\
+87c38f66d5b9ead72af22f515a3a5f51	4C32BA5E	vertical force (usa).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\vforce\
+fa50ce1effb4ce1d66438f723be5c788	9E9B8B92	vertical force (japan).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\vforcej\
+c1dc0852af217146f93d701e1da233d4	6BA07915	t&e virtual golf (japan).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\vgolf\
+1cec316aca8827fdf99c685a1ee49dbc	8989FE0A	vue-vjvj-0.u1	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\vlab\
+2ba914c8aa16f2f9230b3c5b7e17e67b	736B40D6	virtual league baseball (usa).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\vleague\
+154b76be987a604ff8aafa4d438928f5	9BA8BB5E	virtual pro yakyuu '95 (japan).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\vproyak\
+262bbae465f851ded3bb7cf46e375224	3CCB67AE	v-tetris (japan).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\vtetris\
+fb4dc9f4ebd506702eb49e99a62bd803	133E9372	virtual boy wario land (japan, usa).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\wariolnd\
+110a83bc070559c5cc5634a8b5cae274	82A95E51	waterworld (usa).bin	(Mame SL)	RA Complete\[28] Virtual Boy\[5] Mame\waterwld\

@@ -1,0 +1,2660 @@
+These are formatted for forum use. [img=https://retroachievements.org/Images/labels/linkedfiles.png'] can 
+be posted at the top of the list. Roms used to make the set can be labeled using 
+[img=https://retroachievements.org/Images/labels/main.png] Standard placement is between the [b] 
+and the filename. Entries that have more than one rom linked may be numbered for 
+clarity. You may look up existing forum posts for reference. 
+
+Few Sets. RA hash seems to match offline value.
+
+
+[img=https://retroachievements.org/Images/labels/linkedfiles.png']
+[b]3-D Tetris (USA).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]3D Tetris (U) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]3-D Tetris (1996)(Nintendo - T&E Soft)(US).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]vue-vpbe-0.u1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] ecf1218706e9b547eab9e4be58d54e21
+[i]CRC32 Checksum:[/i] BB71B522
+
+[b]Bound High (Unknown) (Proto).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Bound High! (1996)(Japan System Supply)(JP-US)(en-ja)(proto).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Bound High! (JU) [!].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]bound high! (ju).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] a460e2660fa951e9d4e3b05aee9f5018
+[i]CRC32 Checksum:[/i] E81A3703
+
+[b]Galactic Pinball (Japan, USA).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Galactic Pinball (JU) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Galactic Pinball (1995)(Nintendo)(JP-US)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]galactic pinball (japan, usa).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 85260599fdada2e137053a8647aa0d06
+[i]CRC32 Checksum:[/i] C9710A36
+
+[b]Golf (USA).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Golf (U) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Golf (1995)(T&E Soft)(US).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]golf (usa).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 977c4da800dacfac1a1402781670f872
+[i]CRC32 Checksum:[/i] 2199AF41
+
+[b]Innsmouth no Yakata (Japan).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Innsmouth no Yakata (Japan).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]innsmouth no yakata (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 1eb964d0eaa3223cfefdcc99a6265c88
+[i]CRC32 Checksum:[/i] 83CB6A00
+
+[b]Jack Bros. (USA).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Jack Bros. (U) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Jack Bros. (1995)(Atlus)(US).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]vue-vjbe-0.u1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] ee873c9969c15e92ca9a0f689c4ce5ea
+[i]CRC32 Checksum:[/i] A44DE03C
+
+[b]Jack Bros. no Meiro de Hiihoo! (Japan).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Jack Bros. (J) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Jack Bros. no Meiro de Hiihoo! (1995)(Atlus)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]jack bros. no meiro de hiihoo! (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 1b177fe2dd12ec1d67f6a43502f8d391
+[i]CRC32 Checksum:[/i] CAB61E8B
+
+[b]Mario Clash (Japan, USA).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Mario Clash (JU) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Mario Clash (1995)(Nintendo)(JP-US)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]vue-vmcj-0.u1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] b1b3a25ce8fb4f406bf82b8765d307d0
+[i]CRC32 Checksum:[/i] A47DE78C
+
+[b]Mario's Tennis (Japan, USA).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Mario's Tennis (JU) [a1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja)[a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mario's tennis (japan, usa).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 38ecc2c5a745a80d32eb9e8e413358c4
+[i]CRC32 Checksum:[/i] 7CE7460D
+
+[b]Nester's Funky Bowling (USA).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Nester's Funky Bowling (U) [a1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Nester's Funky Bowling (1996)(Nintendo)(US)[a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]vue-vnfe-0.u1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 0285dc41d75be8419d12472f20025305
+[i]CRC32 Checksum:[/i] DF4D56B4
+
+[b]Niko-chan Battle (Japan) (Proto).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]NikoChan Battle (Japan) (Proto).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]nikochan battle (j)(prototype).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] d9a0215782dcacee5a3c4cc83d1c5189
+[i]CRC32 Checksum:[/i] F3CD40DD
+
+[b]Panic Bomber (USA).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Panic Bomber (U) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Panic Bomber (1995)(Hudson)(US).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]vue-vh2e-0.u1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 467247d5e3383d066005565bf8218436
+[i]CRC32 Checksum:[/i] 19BB2DFB
+
+[b]Red Alarm (Japan).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Red Alarm (J) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Red Alarm (1995)(T&E Soft)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]red alarm (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] bc469bf797f4774bbb1678c7f500853b
+[i]CRC32 Checksum:[/i] 7E85C45D
+
+[b]Red Alarm (USA).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Red Alarm (U) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Red Alarm (1995)(T&E Soft)(US).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]red alarm (usa).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] e56e85761f52a613b34079d5322088ce
+[i]CRC32 Checksum:[/i] AA10A7B4
+
+[b]SD Gundam - Dimension War (Japan).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]SD Gundam Dimension War (J).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]SD Gundam - Dimension War (1995)(Bandai)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]sd gundam - dimension war (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 1cf8c69d8a740d6ef3aab54deced31c4
+[i]CRC32 Checksum:[/i] 44788197
+
+[b]Space Invaders - Virtual Collection (Japan).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Space Invaders Virtual Collection (J).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Space Invaders - Virtual Collection (1995)(Taito)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]space invaders - virtual collection (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 7607f6f918615263512b17e56797c9aa
+[i]CRC32 Checksum:[/i] FA44402D
+
+[b]Space Pinball (Unknown) (Proto).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Galactic Pinball (1995)(Nintendo)(JP-US)(en)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Galactic Pinball (1995)(Nintendo)(JP-US)(en)(beta).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]space pinball prototype (j).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 31073126fad41777357391ecc36d6f7f
+[i]CRC32 Checksum:[/i] 44C2B723
+
+[b]Space Squash (Japan).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Space Squash (J) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]space squash (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 09c5f3143c25d1d30a3470e571653e48
+[i]CRC32 Checksum:[/i] 60895693
+
+[b]T&E Virtual Golf (Japan).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]T&E Virtual Golf (J) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]T&E Virtual Golf (1995)(T&E Soft)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]t&e virtual golf (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] c1dc0852af217146f93d701e1da233d4
+[i]CRC32 Checksum:[/i] 6BA07915
+
+[b]Teleroboxer (Japan, USA).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Teleroboxer (JU) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Teleroboxer (1995)(Nintendo)(JP-US)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]teleroboxer (japan, usa).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 0742a861a599fe3361aac6ebef6745a7
+[i]CRC32 Checksum:[/i] 36103000
+
+[b]Tobidase! Panibon (Japan).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Tobidase! Panibomb (J) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Tobidase! Panibomb (1995)(Hudson)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]tobidase! panibon (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 44039dfaa0f8fcf8ece03b8cda267e4a
+[i]CRC32 Checksum:[/i] 40498F5E
+
+[b]V-Tetris (Japan).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]V-Tetris (J) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]V-Tetris (1995)(Bullet-Proof Software)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]v-tetris (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 262bbae465f851ded3bb7cf46e375224
+[i]CRC32 Checksum:[/i] 3CCB67AE
+
+[b]Vertical Force (Japan).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Vertical Force (J) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Vertical Force (1995)(Hudson)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]vertical force (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] fa50ce1effb4ce1d66438f723be5c788
+[i]CRC32 Checksum:[/i] 9E9B8B92
+
+[b]Vertical Force (USA).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Vertical Force (U) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Vertical Force (1995)(Hudson)(US).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]vertical force (usa).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 87c38f66d5b9ead72af22f515a3a5f51
+[i]CRC32 Checksum:[/i] 4C32BA5E
+
+[b]Virtual Bowling (Japan).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Virtual Bowling (J).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Virtual Bowling (1995)(Athena)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]virtual bowling (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 5b11d402f7e322c71a7d4fa6503631fa
+[i]CRC32 Checksum:[/i] 20688279
+
+[b]Virtual Boy Wario Land (Japan, USA).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Virtual Boy Wario Land (JU) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Virtual Boy Wario Land (1995)(Nintendo)(JP-US)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]virtual boy wario land (japan, usa).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] fb4dc9f4ebd506702eb49e99a62bd803
+[i]CRC32 Checksum:[/i] 133E9372
+
+[b]Virtual Fishing (Japan).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Virtual Fishing (J) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Virtual Fishing (1995)(Pack-In-Video)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]vue-vvfj-0.u1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] c03e792d8628c3c5729fdcae1620fb9a
+[i]CRC32 Checksum:[/i] 526CC969
+
+[b]Virtual Lab (Japan).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Virtual Lab (J).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Virtual Lab (1995)(J-Wing - Nacoty)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]vue-vjvj-0.u1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 1cec316aca8827fdf99c685a1ee49dbc
+[i]CRC32 Checksum:[/i] 8989FE0A
+
+[b]Virtual League Baseball (USA).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Virtual League Baseball (U) [a1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Virtual League Baseball (1995)(Kemco)(US).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]virtual league baseball (usa).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 2ba914c8aa16f2f9230b3c5b7e17e67b
+[i]CRC32 Checksum:[/i] 736B40D6
+
+[b]Virtual Pro Yakyuu '95 (Japan).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Virtual Pro Yakyuu '95 (J) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]virtual pro yakyuu '95 (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 154b76be987a604ff8aafa4d438928f5
+[i]CRC32 Checksum:[/i] 9BA8BB5E
+
+[b]Waterworld (USA).vb [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Waterworld (U) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Waterworld (1995)(Ocean)(US)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]waterworld (usa).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 110a83bc070559c5cc5634a8b5cae274
+[i]CRC32 Checksum:[/i] 82A95E51
+
+[b]Affine Mode Demo 1 v0.9 by David Tucker (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Affine Mode Demo 1 v0.9 (2005)(Tucker, David)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] c7f98975f4148c92a3d592c1e09eaa42
+[i]CRC32 Checksum:[/i] 1264C3A9
+
+[b]Affine Mode Demo 2 v0.9 by David Tucker (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Affine Mode Demo 2 v0.9 (2005)(Tucker, David)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 90707c71362b5007964f0a45a45d77d6
+[i]CRC32 Checksum:[/i] 09EB2763
+
+[b]BitString Demo by Dan Bergman (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]BitString Demo (2004)(Bergman, Dan)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] a7f94faa20fa1b231f7b81d02c8fc3da
+[i]CRC32 Checksum:[/i] FF044436
+
+[b]Blox 2 Demo Version by KR155E (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]BLOX 2 (demo) (2008)(Radke, Christian)(M6)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 23aefdd2f8f3da5d15feaf240cff0eac
+[i]CRC32 Checksum:[/i] 1EF24679
+
+[b]Blox V1.0 by KR155E (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]BLOX v1.0 (2003)(Radke, Christian)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 231145f89792e8399a730612e97ae4df
+[i]CRC32 Checksum:[/i] 7BAF43B0
+
+[b]Blox V1.1 by KR155E (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]BLOX v1.1 (2003)(Radke, Christian)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] f82d4c9fdd81518537d88f70c6602bb5
+[i]CRC32 Checksum:[/i] 450FEAB5
+
+[b]Chrono Trigger Run Demo 1 by MrSparkle (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Chrono Trigger Run Demo 1 (2009)(MrSparkle)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] b7691b0ad6ce7007efe98d1a393b86c6
+[i]CRC32 Checksum:[/i] 26E21EA2
+
+[b]Chrono Trigger Run Demo 2 by MrSparkle (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Chrono Trigger Run Demo 2 (2009)(MrSparkle)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] de22bc234534aa0ef3d6f28d657a78e7
+[i]CRC32 Checksum:[/i] 9970CDF3
+
+[b]Croach, The (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Croach, The (1999)(Covarrubias, Alberto)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 37b68e1df20bcdf8b77176064bb8bdb7
+[i]CRC32 Checksum:[/i] D8B823BE
+
+[b]Etch-A-Sketch by Pat Daderko (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Etch-A-Sketch (2003)(Daderko, Pat)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] f23ee05a508ad73bf1961586e119cecb
+[i]CRC32 Checksum:[/i] B0C92776
+
+[b]Framebuffer Drawing Demo by Pat Daderko (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Framebuffer Drawing Demo (2003)(Daderko, Pat)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] adfc7ce60804c20742b977fef382db05
+[i]CRC32 Checksum:[/i] AFDFA675
+
+[b]GLOW Demo by KR155E (PD) [a1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Glow Demo v1.0 (2002)(Radke, Christian)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] d11a8669a242e9cdd66a24750e0a5501
+[i]CRC32 Checksum:[/i] A5BA31E8
+
+[b]GLOW Demo by KR155E (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Glow Demo v1.1 (2002)(Radke, Christian)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] d2f69f9b97457b16bee10bf2e08b941d
+[i]CRC32 Checksum:[/i] 0609F412
+
+[b]GoSub v1.0 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub (2009)(Read, Chris)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 907c7f10093cfcab371754efae8ed279
+[i]CRC32 Checksum:[/i] F9360E8B
+
+[b]GoSub v2009-04-10 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090410 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 48568cf0edfd68b04d2b42ff082a59c6
+[i]CRC32 Checksum:[/i] B0170FF7
+
+[b]GoSub v2009-04-11d by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090411-d (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] cd3eb985c9a6792df62220eb9948c8bd
+[i]CRC32 Checksum:[/i] F8180FB8
+
+[b]GoSub v2009-04-11v1 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090411-1 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 1b290c2e7c2a16e58bf75059351d3bdd
+[i]CRC32 Checksum:[/i] FF102D33
+
+[b]GoSub v2009-04-11v2 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090411-2 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 5c7e2c644c9542560f5d5da40f7921d7
+[i]CRC32 Checksum:[/i] 598F602C
+
+[b]GoSub v2009-04-11v3 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090411-3 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] fdb5defb3c8c9f83bfd933b15e55f34c
+[i]CRC32 Checksum:[/i] 42673630
+
+[b]GoSub v2009-04-12v1 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090412-1 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] c1f1da861c52b95628ea4bddcdd3c585
+[i]CRC32 Checksum:[/i] 751F1821
+
+[b]GoSub v2009-04-12v2 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090412-2 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 2ab85887ce9714efa8332baa4dabc59a
+[i]CRC32 Checksum:[/i] 18E60D05
+
+[b]GoSub v2009-04-13 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090413 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 02f5943ae4aa57a979dcc4b9b37357b3
+[i]CRC32 Checksum:[/i] 06E63C9E
+
+[b]GoSub v2009-04-14v1 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090414-1 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] d520a146ec75ce16409732442701ec3b
+[i]CRC32 Checksum:[/i] 9E89AD4B
+
+[b]GoSub v2009-04-14v2 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090414-2 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 5bfca25adde826e324c8bf19aea3cde1
+[i]CRC32 Checksum:[/i] 943AD6B6
+
+[b]GoSub v2009-04-14v3 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090414-3 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] e7b9e1b63a0278b3f63bf49f96cd59ab
+[i]CRC32 Checksum:[/i] B8C16592
+
+[b]GoSub v2009-04-15v1 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090415-1 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 9fe2fc89e27e6ad65e957ea655268003
+[i]CRC32 Checksum:[/i] F0A3CE5A
+
+[b]GoSub v2009-04-15v2 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090415-2 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] f7116ddb05bb89cf654608edd9abbd4a
+[i]CRC32 Checksum:[/i] DE2931D9
+
+[b]GoSub v2009-04-16 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090416 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 0d4cac2c1f7369225f8521dd8397daa0
+[i]CRC32 Checksum:[/i] 985AE109
+
+[b]GoSub v2009-04-17 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090417 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 2b0cf812dc2bfec89896e93127863236
+[i]CRC32 Checksum:[/i] EFBF2206
+
+[b]GoSub v2009-04-17i by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090417-i (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] e7b2291b6ea14e54c8508d53ea368868
+[i]CRC32 Checksum:[/i] 20A0B9B8
+
+[b]GoSub v2009-04-18 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090418 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] d74e1330794ecdec8a768a8575d15b0d
+[i]CRC32 Checksum:[/i] 91C10611
+
+[b]GoSub v2009-04-19 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090419 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 59f2d8c48f39bddf44af03e9bb339101
+[i]CRC32 Checksum:[/i] 6072A3BC
+
+[b]GoSub v2009-04-20 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090420 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] d90396278c091acae568400cc9514509
+[i]CRC32 Checksum:[/i] EBAE5701
+
+[b]GoSub v2009-04-22 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090422 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 07cb5870d8f03731a0a96fb11afc80c3
+[i]CRC32 Checksum:[/i] D8E859B9
+
+[b]GoSub v2009-04-23 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090423 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 6bb183178a8f3d72066222418d6798d1
+[i]CRC32 Checksum:[/i] 3496E349
+
+[b]GoSub v2009-04-24 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090424 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 148c68d4e8b0d46b054bfc7e75b7e864
+[i]CRC32 Checksum:[/i] 8C253E40
+
+[b]GoSub v2009-04-27 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090427 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 21968b82d5be4c154c32a07a73ea781e
+[i]CRC32 Checksum:[/i] 5CD4666D
+
+[b]GoSub v2009-04-29 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090429 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] dbcedbeae4feb88780e387ff126a4dd7
+[i]CRC32 Checksum:[/i] C3351F66
+
+[b]GoSub v2009-05-02 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090502 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 539ab5eaada0ee99ed451260d7e48fa6
+[i]CRC32 Checksum:[/i] 88A0105E
+
+[b]GoSub v2009-05-05 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090505 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 67dfef13667c8713f4ccb9d9f64653ea
+[i]CRC32 Checksum:[/i] EC22FC81
+
+[b]GoSub v2009-07-15 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090715 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] cb3b4804afaac7911a1154db136aedc3
+[i]CRC32 Checksum:[/i] 066A2225
+
+[b]GoSub v2009-07-18 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090718 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 28f41241ddc4de5fef19a1890e85d040
+[i]CRC32 Checksum:[/i] 23A11661
+
+[b]GoSub v2009-07-25 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090725 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] a802f40fdaa7c5701df53d4217a6dd2c
+[i]CRC32 Checksum:[/i] BBD011DB
+
+[b]GoSub v2009-07-26 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090726 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 795f9cd4d7ecf771fb240b3888522fe3
+[i]CRC32 Checksum:[/i] 331BE8A8
+
+[b]GoSub v2009-07-27 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090727 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] ff787c5049fbb2752e8a7c9fd7e9492c
+[i]CRC32 Checksum:[/i] 4E184995
+
+[b]GoSub v2009-07-28 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090728 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 901f7222dda133f718c1f6b8465b27a4
+[i]CRC32 Checksum:[/i] C23B7909
+
+[b]GoSub v2009-07-31 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090731 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] ac0216da6d4735e7ed6dd6ca93fb53d0
+[i]CRC32 Checksum:[/i] CC3166FF
+
+[b]GoSub v2009-08-05 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090805 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 7c87497c0baa08433b5d250bf27d6423
+[i]CRC32 Checksum:[/i] 8EBAE726
+
+[b]GoSub v2009-08-06 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090806 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 111a4ea01a44d7a0300e3ce8e9a5b8cf
+[i]CRC32 Checksum:[/i] CA338F51
+
+[b]GoSub v2009-08-27 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20090827 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] b92610ea85cb9af02af5761551726870
+[i]CRC32 Checksum:[/i] D2E7782B
+
+[b]GoSub v2009-10-05 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20091005 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] ff3a46f0c4a64c2d10746eb7a9393e20
+[i]CRC32 Checksum:[/i] 44456EA4
+
+[b]GoSub v2009-10-06v1 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20091006-1 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 728fd539c94a0ca2c9180b5a6b8981c4
+[i]CRC32 Checksum:[/i] 86F3CAD1
+
+[b]GoSub v2009-10-06v2 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20091006-2 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] bff14da460389937a86dbc3bc1db5ee7
+[i]CRC32 Checksum:[/i] CF6F73D7
+
+[b]GoSub v2009-10-09 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20091009 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 8ddfae2b660903456ec05b01abe1e58f
+[i]CRC32 Checksum:[/i] 7BEAAB09
+
+[b]GoSub v2009-10-18 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20091018 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 8c8684ba31d6d4054b47dee4f52c1b03
+[i]CRC32 Checksum:[/i] 14167425
+
+[b]GoSub v2009-10-19 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20091019 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 9f16d2e16fdf90ab4de640233ebc5091
+[i]CRC32 Checksum:[/i] 9B556537
+
+[b]GoSub v2009-10-23 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20091023 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] e6831820ab3ded42c304052a833cf9dd
+[i]CRC32 Checksum:[/i] 985CF7FA
+
+[b]GoSub v2009-10-28 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20091028 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] e861d3ce172265ea048f793fea4b4176
+[i]CRC32 Checksum:[/i] 28F210B1
+
+[b]GoSub v2009-11-01 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20091101 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] d0579c44eeb261ab6f3926b3e52497b0
+[i]CRC32 Checksum:[/i] BCCDA404
+
+[b]GoSub v2009-11-02 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20091102 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] ff452cfcf1a11ea748ea417a17cfda49
+[i]CRC32 Checksum:[/i] C585315F
+
+[b]GoSub v2009-11-06 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20091106 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] a4ef0c5bef1a26ad75ab559337fa2258
+[i]CRC32 Checksum:[/i] 6D8A03F8
+
+[b]GoSub v2009-11-06Test1 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20091106-1 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] c25f4eef4e716a886155810ad06590bf
+[i]CRC32 Checksum:[/i] 5466531B
+
+[b]GoSub v2009-11-07 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20091107 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 0c0955c6d749f9044893a7aca935c926
+[i]CRC32 Checksum:[/i] DD3AA5AF
+
+[b]GoSub v2009-11-16 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20091116 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 563518764a597c964cf010204cc3a095
+[i]CRC32 Checksum:[/i] AE96AC9E
+
+[b]GoSub v2009-11-18 by Chris Read (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GoSub Rev 20091118 (2009)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 7917cf3ade4fd802325754b77add6c8f
+[i]CRC32 Checksum:[/i] 96564974
+
+[b]Hello, World! Demo V1.0 by Amos Bieler (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Hello, World! v1.0 (2002)(Bieler, Amos)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 581d0e27b9646be3e6f26fed3c7b806b
+[i]CRC32 Checksum:[/i] 0CFC7BFC
+
+[b]Hello, World! Demo V1.1 by Amos Bieler (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Hello, World! v1.1 (2002)(Bieler, Amos)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] bc40f08d1a2c51821245087911594125
+[i]CRC32 Checksum:[/i] 86D68156
+
+[b]Hover Demo 01 by RunnerPack (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Hover Demo v0.1 (2008)(Bieler, Amos)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 8e894145356d5f11d611a9ea8cca9851
+[i]CRC32 Checksum:[/i] 0A46FF5F
+
+[b]Hover Demo 01a by RunnerPack (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Hover Demo v0.1a (2008)(Bieler, Amos)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 1d0a8459106a11fb5f2da3ccefb1fd23
+[i]CRC32 Checksum:[/i] DBF715DA
+
+[b]Insmouse no Yakata (J) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Insmouse no Yakata (1995)(I'Max)(JP)(en-ja)[b].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] e0fcf74c0548023c67bee73cec9f33fe
+[i]CRC32 Checksum:[/i] EFD0AC36
+
+[b]Jack Bros. (U) (Enable Cheats Hack).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Jack Bros. (1995)(Atlus)(US)[h].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] c3d028f7d2463eaf36f0d6ef9b28ebd5
+[i]CRC32 Checksum:[/i] B15D706E
+
+[b]Jack Bros. (U) [b1] (Enable Cheats Hack).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Jack Bros. (1995)(Atlus)(US)[b].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] d15a95e94334118d1243a1b0d9f59ef3
+[i]CRC32 Checksum:[/i] 94BFDD3F
+
+[b]Jack Bros. (U) [b1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Jack Bros. (1995)(Atlus)(US)[b2].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 9f2bc8748b541b75053cf68968f3dd5f
+[i]CRC32 Checksum:[/i] 81AF4D6D
+
+[b]Jack Bros. (U) [T+Ger1.0_KR155E].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Jack Bros. (1995)(Atlus)(US)[tr de].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 8f24a89af3c522c52265366ab9480fea
+[i]CRC32 Checksum:[/i] 79A99F3C
+
+[b]Mario Clash (JU) [b1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[b].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] b53abcea059c1c18c5fdbc9c49e1683b
+[i]CRC32 Checksum:[/i] BF0D0AB0
+
+[b]Mario Flying Demo by Frostgiant (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Mario Flying Demo (2002)(Frostgiant).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 878443c11a7bdefe1cbfc000f9119ce3
+[i]CRC32 Checksum:[/i] DEABF6AF
+
+[b]Mario Kart - Virtual Cup by DogP (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Mario Kart - Virtual Cup (2008)(DogP)[p].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 4b8c8b6a7711a005dd896b3ee9b8d0f1
+[i]CRC32 Checksum:[/i] 27988AB9
+
+[b]Mario VB by Jorgeche (V01-10-2008) (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Super Mario Rev 20081001 (2008)(Jorgeche)(en-ja)[p].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 03f72468609897a17028823691fc1c56
+[i]CRC32 Checksum:[/i] DD63D32D
+
+[b]Mario VB by Jorgeche (V05-09-2008) (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Super Mario Rev 20080905 (2008)(Jorgeche)(en-ja)[p].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 3c69df00a15849f67968c02b650dde6f
+[i]CRC32 Checksum:[/i] 43D81237
+
+[b]Mario VB by Jorgeche (V13-09-2008demo1) (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Super Mario Rev 20080913-1 (2008)(Jorgeche)(en-ja)[p].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 30ad852eafae74fcd9ffaad34bfb19aa
+[i]CRC32 Checksum:[/i] 7D7DA5F7
+
+[b]Mario VB by Jorgeche (V13-09-2008demo2) (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Super Mario Rev 20080913-2 (2008)(Jorgeche)[p].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] b2c88b0741f571e2172f0ccd1ad30457
+[i]CRC32 Checksum:[/i] 1FB48372
+
+[b]Mario VB by Jorgeche (V22-09-2008) (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Super Mario Rev 20080922 (2008)(Jorgeche)[p].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 7332d1f3efec49095da28e192777d9b6
+[i]CRC32 Checksum:[/i] 9B94F9EA
+
+[b]Mario VB by Jorgeche (V27-10-2008) (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Super Mario Rev 20081027 (2008)(Jorgeche)(en-ja)[p].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 7474130d8a2c31a6df237d56c1099c6a
+[i]CRC32 Checksum:[/i] EB4A2BD6
+
+[b]Mario VB by Jorgeche (V30-09-2008) (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Super Mario Rev 20080930 (2008)(Jorgeche)[p].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] ab9034dc9158ba4af9e547dbfcf2aae6
+[i]CRC32 Checksum:[/i] 6280839A
+
+[b]Mario's Tennis (JU) [!].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Mario's Tennis (1995)(Nintendo)(JP-US)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] b8c36e768bdd1f1a984876d953eaf6c4
+[i]CRC32 Checksum:[/i] 5AC0D8BB
+
+[b]Matrix, The by Cooler (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Matrix Code Demo, The (2003)(Cooler)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] a306ea95a699d5611988f081ef31f7e4
+[i]CRC32 Checksum:[/i] F3F9E810
+
+[b]Metroid April Fools Demo (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Metroid April Fools' Day Demo (2009)(Radke, Christian)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 17e8e1c66ca4294fc1825953a9d83e0b
+[i]CRC32 Checksum:[/i] FC4A6318
+
+[b]MIDIplayer by DanB (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]MIDI Music Player (2008)(Bergman, Dan)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 149d5c1a6ec31fc682a581dd411024ca
+[i]CRC32 Checksum:[/i] A3587E34
+
+[b]Mode7 Demo (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Mode7 Demo (2009)(dasi)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 29ed124e7525c7c89d67647333c80a5a
+[i]CRC32 Checksum:[/i] A2A60535
+
+[b]Mode7 Example (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Mode7 Demo (2009)(dasi)(PD)[a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 578f0d83e6a6a7c0cdbcdbc6f79f1f10
+[i]CRC32 Checksum:[/i] D515FECF
+
+[b]Nester's Funky Bowling (U) [b1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Nester's Funky Bowling (1996)(Nintendo)(US)[b].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 766498bb058c7d75aae58b296a7bbd31
+[i]CRC32 Checksum:[/i] 63A181AF
+
+[b]Nester's Funky Bowling (U) [b2].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Nester's Funky Bowling (1996)(Nintendo)(US)[b2].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] f9a5759263647205554941ba525ebc01
+[i]CRC32 Checksum:[/i] 9C092BCE
+
+[b]Nester's Funky Bowling (U) [b3].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Nester's Funky Bowling (1996)(Nintendo)(US)[b3].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 0c1230b4cc347229c917820510bc0bab
+[i]CRC32 Checksum:[/i] EFB3E174
+
+[b]Nester's Funky Bowling (U).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Nester's Funky Bowling (1996)(Nintendo)(US).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 7767375a2bc47cd3aa131e4b7165f103
+[i]CRC32 Checksum:[/i] 2F76ECA9
+
+[b]OBJ Pointer Demo by Dan Bergman (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]OBJ SPT Pointer Demo (2003)(Bergman, Dan)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] c0a8fe852c5a1874e684541af64f4ab6
+[i]CRC32 Checksum:[/i] 0320CE69
+
+[b]Pacman Demo (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Pac-Man Demo (2002)(-)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] fe0e9fbf00b61844da2689bb94e1f700
+[i]CRC32 Checksum:[/i] FAD06B29
+
+[b]Panic Bomber (U) [b1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Panic Bomber (1995)(Hudson)(US)[b].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 923b859812d6f2c0a52ade7c8f6cece3
+[i]CRC32 Checksum:[/i] 25FB89BB
+
+[b]Panic Bomber (U) [h1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Panic Bomber (1995)(Hudson)(US)[h].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 52d956171edf0c91a4d7fb05963a8162
+[i]CRC32 Checksum:[/i] 21D224AF
+
+[b]Panic Bomber (U) [h2].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Panic Bomber (1995)(Hudson)(US)[h2].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 6d04372b62d352af7e9662b1646b8488
+[i]CRC32 Checksum:[/i] C767FE4B
+
+[b]Polygon Demo (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Polygon Engine Demo (2008)(DogP)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] b4c48ce2798e9cf17e27141ed30b98bc
+[i]CRC32 Checksum:[/i] 584057C1
+
+[b]Project5 (V2006-04-26) (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]vbJAEngine Demo 1 (2006)(Jorgeche)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 2fe283435543c5026fcd2c41d5bbe946
+[i]CRC32 Checksum:[/i] CEE940C6
+
+[b]Reality Boy Demo 1 by David Tucker (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Reality Boy Demo 1 (2000)(Tucker, David)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] d902c25d8ed1ba3382dd772457038deb
+[i]CRC32 Checksum:[/i] E6D411DC
+
+[b]Reality Boy Demo 2 by David Tucker (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Reality Boy Demo 2 (2000)(Tucker, David)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 131120f401946eef5f430b3b1ea2dc17
+[i]CRC32 Checksum:[/i] DC2EC5B8
+
+[b]Reality Boy Demo 3 by David Tucker (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Reality Boy Demo 3 (2000)(Tucker, David)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 83e8b499e3f0709b71ee67590c5bb773
+[i]CRC32 Checksum:[/i] 01D7CCE6
+
+[b]Red Alarm (U) [b1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Red Alarm (1995)(T&E Soft)(US)[b].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] f4b7c632f9a8e943e4402d16c79c370f
+[i]CRC32 Checksum:[/i] 3CEAA631
+
+[b]RG2009 Masken (VUE Snake) (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Retro Gathering Masken (2009)(Radke, Christian)(sv)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 1a74e7fbb856835422a88347f4a2dbcf
+[i]CRC32 Checksum:[/i] 65F9BD70
+
+[b]Scaling Demo by Parasyte (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Scaling Demo (2003)(Parasyte).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 5c0f42ab6f66537efc8ff1719c319af4
+[i]CRC32 Checksum:[/i] A63C6798
+
+[b]Simon by Pat Daderko (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Simon! (2003)(Daderko, Pat)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] e3dbc8fd44a12cadb43670fd8747c520
+[i]CRC32 Checksum:[/i] 0DF2FCA5
+
+[b]SnowBall Wars Demo1 by Jorgeche (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Snowball Wars Rev 20070726 (2007)(Jorgeche)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] d693a18192cbc1bd4aa678af9a3ae0d1
+[i]CRC32 Checksum:[/i] 91CE8852
+
+[b]SnowBall Wars Demo2 by Jorgeche (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Snowball Wars Rev 20070803 (2007)(Jorgeche)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] ccb7a50d7fc23ec2890db7771a077392
+[i]CRC32 Checksum:[/i] 10848EF3
+
+[b]SnowBall Wars Demo3 by Jorgeche (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Snowball Wars Rev 20070809 (2007)(Jorgeche)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 39f4ded02b9a58c1958f521d27d841af
+[i]CRC32 Checksum:[/i] A19CF939
+
+[b]Space Squash (J) [o1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)[b].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 57471e4cc5b8bb3f630ec8a7343651dd
+[i]CRC32 Checksum:[/i] C2211FCC
+
+[b]Space Squash (J) [T+Eng].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)[tr en].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] eb6a7158a99123b1f17a63d8e6425d83
+[i]CRC32 Checksum:[/i] 7CB69B3A
+
+[b]Super Fighter Demo by KR155E (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Super Fighter Demo (2002)(Radke, Christian)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] b44601f915ec4ea5869f04e5dfaaac52
+[i]CRC32 Checksum:[/i] A3022D2A
+
+[b]T&E Virtual Golf (J) [b1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]T&E Virtual Golf (1995)(T&E Soft)(JP)(en-ja)[b].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 9a01d9535fef4aac3f1a07c54972cf16
+[i]CRC32 Checksum:[/i] 41FB63BF
+
+[b]Teleroboxer (JU) [T+Ger1.0_KR155E].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de][a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] b918f194466e9777d0fcd0f611ac2eb9
+[i]CRC32 Checksum:[/i] 126123AD
+
+[b]Teleroboxer (JU) [T-Ger.4b_KR155E].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Teleroboxer (1995)(Nintendo)(JP-US)(en-ja)[tr de].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 990e1a64fc283adc68e695b5e8215488
+[i]CRC32 Checksum:[/i] A6E0D6DB
+
+[b]This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 1 (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 1 (20xx)(-)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 537bbdac5e6eef849651103752ca051d
+[i]CRC32 Checksum:[/i] 5E10BEC7
+
+[b]This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 3 (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 3 (20xx)(-)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] c28374da2381fdd759637afee37af89a
+[i]CRC32 Checksum:[/i] 93D505E9
+
+[b]Tic Tac Toe by Pat Daderko (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Tic Tac Toe (2003)(Daderko, Pat)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 9f4246f9400c9f2fb9cdf4b4987b4cfe
+[i]CRC32 Checksum:[/i] 6D7CC2E7
+
+[b]Tron by Alberto Covarrubias (V2008-05-01) (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Tron Rev 20080501 (2008)(Covarrubias, Alberto)[p].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] a5f4cf98d09ec388f62a7df046de934b
+[i]CRC32 Checksum:[/i] B74655B5
+
+[b]Tron by Alberto Covarrubias (V2008-09-27) (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Tron Rev 20080927 (2008)(Covarrubias, Alberto)[p].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 5e097e4db196e56ec361f1eb04468cdb
+[i]CRC32 Checksum:[/i] D7F1727C
+
+[b]Tron VB by Pat Daderko (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Tron VB (2003)(Daderko, Pat)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] b8cac4425d1a01b949801d81eb268ffb
+[i]CRC32 Checksum:[/i] 33C3E3A7
+
+[b]VB Racing (Padded Version) (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]VB Racing (2008)(Kujaczynski, Martin)(PD)[a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] f70cdaa3b30d777e4b775269b7c8f196
+[i]CRC32 Checksum:[/i] EA17034C
+
+[b]VB Racing (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]VB Racing (2008)(Kujaczynski, Martin)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 819b9dccf1437c3bb126670b171d7c59
+[i]CRC32 Checksum:[/i] D56448EC
+
+[b]VB Racing (Reality Boy Version) (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]VB Racing (2008)(Kujaczynski, Martin)(PD)[a2].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 21bd18c1910c48e16de825cee681fa8c
+[i]CRC32 Checksum:[/i] 26F11298
+
+[b]VB Rocks! Demo by KR155E (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]VB Rocks! (2002)(Radke, Christian)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 363e031ccef3df6a8799f488b2f68c91
+[i]CRC32 Checksum:[/i] 87F11993
+
+[b]VB Screen Test Demo by David Tucker (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]VB Screen Test (200x)(Tucker, David)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 1841e72ee7aa666b111d382837ce4526
+[i]CRC32 Checksum:[/i] 66386AAC
+
+[b]VB Water Demo by RunnerPack (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Water Ripple Demo (2009)(Bieler, Amos)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 317ce1dece392ca0035bae7170188d06
+[i]CRC32 Checksum:[/i] 84A71916
+
+[b]VB Water Demo for FlashBoy by RunnerPack (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Water Ripple Demo (2009)(Bieler, Amos)(PD)[a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] c638b477743eaaefcfbff3bb8772718a
+[i]CRC32 Checksum:[/i] 1D711A69
+
+[b]VBJaEngine Demo2 (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]vbJAEngine Demo 2 (2006)(Jorgeche)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] d2442c5dcaab52974eee87efceaddf46
+[i]CRC32 Checksum:[/i] 0C347B80
+
+[b]VBJaEngine Demo3 (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]vbJAEngine Demo 3 (2007)(Jorgeche)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 529b4e9f80b35038080054b6db239a62
+[i]CRC32 Checksum:[/i] 03A65FC6
+
+[b]VBJaEngine Demo4 (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]vbJAEngine Demo 4 (2007)(Jorgeche)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 026d460a4f356c79dff7a9b875adbe0f
+[i]CRC32 Checksum:[/i] AEE345D5
+
+[b]VBJaEngine Demo5 (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]vbJAEngine Demo 5 (2007)(Jorgeche)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 31878d835200b69362d7db386d2c202f
+[i]CRC32 Checksum:[/i] B4AB705B
+
+[b]VBJaEngine Demo6 (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]vbJAEngine Demo 6 (2007)(Jorgeche)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 82d30f0e48b283489239621864dc7275
+[i]CRC32 Checksum:[/i] E2C3645D
+
+[b]VeeBee Cursor Demo by David Williamson (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]VeeBee Cursor Demo (2002)(Williamson, David)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 6853c7b038c5a6e85642ac9dd38d4632
+[i]CRC32 Checksum:[/i] 6E5B40A1
+
+[b]Vertical Force (J) [b1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Vertical Force (1995)(Hudson)(JP)(en-ja)[b].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] b2cf015225254f54cbe5e8b917bd4632
+[i]CRC32 Checksum:[/i] 05D06377
+
+[b]Vertical Force (U) [h1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Vertical Force (1995)(Hudson)(US)[h].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] c1f23aa9a6b5130a4971b4566dc19289
+[i]CRC32 Checksum:[/i] DC8C0BF4
+
+[b]Virtual Bowling (J) (Debug Menu Hack).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Virtual Bowling (1995)(Athena)(JP)(en-ja)[h].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] a0d8fd562ab203f35056819208a5b3f4
+[i]CRC32 Checksum:[/i] DDF9ABE0
+
+[b]Virtual Boy Programming Intro Demo by KR155E (2008) (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Virtual Boy Programming Introductory Demo (2008)(Radke, Christian)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] b2a39ffae965821d1f9404cbf2c57145
+[i]CRC32 Checksum:[/i] 48D1839A
+
+[b]Virtual Fishing (J) [b1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Virtual Fishing (1995)(Pack-In-Video)(JP)(en-ja)[b].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 2fba0ca950f564fc68ebdbb2c35023e8
+[i]CRC32 Checksum:[/i] 45471E40
+
+[b]Virtual League Baseball (U) [a1][b1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Virtual League Baseball (1995)(Kemco)(US)[b].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 19b78efd2f27067409f4393586b321fe
+[i]CRC32 Checksum:[/i] CC62AB38
+
+[b]Virtual League Baseball (U).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Virtual League Baseball (1995)(Kemco)(US)[a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 06f112d4868033c9b4399957eef7b78b
+[i]CRC32 Checksum:[/i] 2E20B6E7
+
+[b]Virtual Pong (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Virtual Pong (1999)(Covarrubias, Alberto)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 5060dc253b8f9eba7067657f2e6b3d63
+[i]CRC32 Checksum:[/i] 42E17E38
+
+[b]Virtual-E Cursor Demo (PD) [a1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Virtual-E Cursor Demo (1999)(Covarrubias, Alberto)(PD)[a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] a126b6f164b0272781d5f8b3e459ec2e
+[i]CRC32 Checksum:[/i] BA7192CB
+
+[b]Virtual-E Cursor Demo (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Virtual-E Cursor Demo (1999)(Covarrubias, Alberto)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 7f0ac5913c7a884f80477a312d65526e
+[i]CRC32 Checksum:[/i] C44B6874
+
+[b]Virtual-E GL Demo 0.5 (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Virtual-E GL Demo v0.5 (2008)(Covarrubias, Alberto)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 477c34505f5e109232db1dc89de458eb
+[i]CRC32 Checksum:[/i] 8B5FBEB8
+
+[b]VUE Snake (V1.0) (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]VUE Snake v1.0 (2009)(Radke, Christian)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 9b2d1a08790b5d9177462a4227c06ff3
+[i]CRC32 Checksum:[/i] 2375F24C
+
+[b]VUE Snake (V1.1) (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]VUE Snake v1.1 (2009)(Radke, Christian)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] ccfa400a0ff3d717dad36a3f736fd34d
+[i]CRC32 Checksum:[/i] AD054747
+
+[b]Wario Gonna Win Demo (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Wario's Gonna Win Demo (2009)(-)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] a3e973b47916b729e329e30e8a050ae6
+[i]CRC32 Checksum:[/i] FD93A845
+
+[b]Waterworld (U) [b1].vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Waterworld (1995)(Ocean)(US)(en-ja)[b].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 9303817961e4333d6ae1c116ad7546d5
+[i]CRC32 Checksum:[/i] 742298D1
+
+[b]Wavs (PD).vb [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Wavs Demo (2009)(-)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 92fa3a49d6f43675d8c8c0ac0f5416b7
+[i]CRC32 Checksum:[/i] 6E8C6D7F
+
+[b]Mandelbrot Explorer Rev 20101030 (2010)(Skiles, Collin)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mandelbrot explorer v1.0 (2010)(Collin 'Fwirt' Skiles).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a03afb33c5f8b24cc7d0d93a4104e7ba
+[i]CRC32 Checksum:[/i] 0F815C1A
+
+[b]Mandelbrot Explorer Rev 20101109 (2010)(Skiles, Collin)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mandelbrot explorer v1.1 (2010)(Collin 'Fwirt' Skiles).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 639c353e720cf44e033cd5a4453fe366
+[i]CRC32 Checksum:[/i] 089EC3E2
+
+[b]Sample Soft for VUE Programming v1.0 (1994)(Nintendo)(JP-US)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Sample Soft for VUE Programming (v1.0).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 0fa7e36d7e9af5f7954d810d8b7ec7c1
+[i]CRC32 Checksum:[/i] E3869A0D
+
+[b]Sample Soft for VUE Programming v1.1 (1995)(Nintendo)(JP-US)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Sample Soft for VUE Programming (v1.1).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] f061abedd5c6919561d09556b3a91163
+[i]CRC32 Checksum:[/i] 0E60C273
+
+[b]Sample Soft for VUE Programming v1.1a (1995)(Nintendo)(JP-US)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Sample Soft for VUE Programming (v1.1a).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 770820318300188dc5c83952ae79ced6
+[i]CRC32 Checksum:[/i] FA58B8D2
+
+[b]Sample Soft for VUE Programming v1.2 (1995)(Nintendo)(JP-US)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Sample Soft for VUE Programming (v1.2).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] e6807c961b740ddefcba710c5d01fcc3
+[i]CRC32 Checksum:[/i] 3A236929
+
+[b]Soviet Union 2011 Sound Engine Demo (2012)(Horvat, Matej)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Soviet Union 2011 sound engine example program 25-02-2012.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] e5bf830c1b52093d12d3c5c114a9c3d1
+[i]CRC32 Checksum:[/i] EF31C801
+
+[b]VUE Debugger Sample (2010)(Williamson, David)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]VUE Debugger Sample (2010)(Williamson, David)(PD).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 60c71be93400931cbb579e6f07932a5f
+[i]CRC32 Checksum:[/i] 66DF5436
+
+[b]Yeti3D Demo Rev 20100102 (2010)(Bergman, Dan)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]yeti3d 2010-01-02.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c52d0193215f1a32bf4c3c5f29cf696c
+[i]CRC32 Checksum:[/i] 95AF3A83
+
+[b]Yeti3D Demo Rev 20100113 (2010)(Bergman, Dan)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]yeti3d 2010-01-13.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a85b2a0e327f551099ef52e9a60220de
+[i]CRC32 Checksum:[/i] 11758971
+
+[b]GameHero (2012)(thunderstruck)[p].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]gameHero10_FlashBoy.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 25f14997133e6e0ddf4d7b2ad847090e
+[i]CRC32 Checksum:[/i] 47F2A964
+
+[b]GameHero (2012)(thunderstruck)[p][a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]gameHero10_RealityBoy.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 0742577eef9c7263da3d523e4fd79be6
+[i]CRC32 Checksum:[/i] E29ED6D1
+
+[b]GoSub 3D (2010)(Read, Chris)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]GoSub 3D 2010-10-08 (2010)(Chris Read).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a5a3d14326bc8dc197a2088abcabfdfb
+[i]CRC32 Checksum:[/i] A646A392
+
+[b]GoSub 3D Rev 20100922 (2010)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]GoSub 3D 2010-09-22.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 712627fcab3058e4dfd78b245f395de6
+[i]CRC32 Checksum:[/i] 06637E51
+
+[b]GoSub 3D Rev 20100923 (2010)(Read, Chris)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]GoSub 3D 2010-09-23.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 59e00a964dd1d21aba5771ae5eb542f5
+[i]CRC32 Checksum:[/i] 08F0F88D
+
+[b]Hunter (2010)(DanB)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]hunter.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 2555cca2f7d8dd253f2cd5612a8ae373
+[i]CRC32 Checksum:[/i] A59A6EE1
+
+[b]Insecticide (2014)(Read, Chris)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]ic20140328.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] f5d04734365222e35fbee337e9c37a12
+[i]CRC32 Checksum:[/i] B4B41396
+
+[b]Jack Bros. (1995)(Atlus)(US)[h2].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Jack Bros. (1995)(Atlus)(US)[h2].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 2fdd657f9029a076b08e81aabe75681c
+[i]CRC32 Checksum:[/i] B8F226D8
+
+[b]Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h2].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h2].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] bf3859019b06180fa8bd6824fce214db
+[i]CRC32 Checksum:[/i] FA5877CD
+
+[b]Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[h].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Mario Clash (Japan, USA)_swap button_fix.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 76f9f6919058aec4ddada0f07d107c5e
+[i]CRC32 Checksum:[/i] F572D25C
+
+[b]Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t2].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t2].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] aa833e4391db075b8435380769dade51
+[i]CRC32 Checksum:[/i] F2D5167E
+
+[b]Mario Clash (1995)(Nintendo)(JP-US)(en-ja)[t].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Mario Clash (Japan, USA)_all_levels_hack.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] d67a16d2c19b8ee9e4f3b058b4f3835f
+[i]CRC32 Checksum:[/i] FDFFB3EF
+
+[b]Panic Bomber (1995)(Hudson)(US)[h3].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Panic Bomber (1995)(Hudson)(US)[h3].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 1adecd66030c8b8e7d18e48a45c3c6e5
+[i]CRC32 Checksum:[/i] 10348289
+
+[b]Panic Bomber (1995)(Hudson)(US)[h4].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Panic Bomber (1995)(Hudson)(US)[h4].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] cf33dd5d47ae06f0bc2269cf3d3d4d3d
+[i]CRC32 Checksum:[/i] 8C4B7930
+
+[b]PongInvaders (2012)(usch)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]pong invaders v1.0.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 37d35e412ba8db20d3e760d1a31fd392
+[i]CRC32 Checksum:[/i] F6E78B5B
+
+[b]Soviet Union 2010 (2010)(Horvat, Matej)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]SOVIET UNION 2010 (2010)(Matej Horvat)(2010-10-30).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 90ef8d48eb3178f32e9ef45ac83ef7e1
+[i]CRC32 Checksum:[/i] 447BA0C0
+
+[b]Soviet Union 2011 Rev 20111101 (2011)(Horvat, Matej)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]su11a1.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 83c6752eecfdf94f576f3fcda272b91e
+[i]CRC32 Checksum:[/i] 8F013627
+
+[b]Soviet Union 2011 Rev 20111104 (2011)(Horvat, Matej)(PD)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]su11a2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 46434bfb8eccbe7540a4d2a79d471f40
+[i]CRC32 Checksum:[/i] 13660731
+
+[b]Soviet Union 2011 v1.0 (2011)(Horvat, Matej)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Soviet Union 2011 1.0 31-12-2011.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] fad62e87fc51f44d75d17d5f3ffd4e0f
+[i]CRC32 Checksum:[/i] 5CDE2C56
+
+[b]Soviet Union 2011 v1.1 (2012)(Horvat, Matej)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Soviet Union 2011 1.1 25-02-2012.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 9ac4a0beaccd30fc39f34a494e64a8f4
+[i]CRC32 Checksum:[/i] 0CD7390B
+
+[b]Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)[tr en][a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Space Squash (1995)(Coconuts Japan Entertainment)(JP)(en-ja)[tr en][a].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] b487a12ef45f1cb5c66d51964dfbd886
+[i]CRC32 Checksum:[/i] 25DA0DAF
+
+[b]Super Bounce (2010)(DogP)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]super_bounce.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 46e910ba8dc15a06fa8dd8b32d0318d0
+[i]CRC32 Checksum:[/i] 552AAFB0
+
+[b]Vertical Force (1995)(Hudson)(US)[h2].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Vertical Force (1995)(Hudson)(US)[h2].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a3db912151c6285569694155777bcdb3
+[i]CRC32 Checksum:[/i] 48238DC1
+
+[b]Virtual Bowling (1995)(Athena)(JP)(en-ja)[h2].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Virtual Bowling (1995)(Athena)(JP)(en-ja)[h2].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 591fde79167a6e5b246d6c6df87a2db8
+[i]CRC32 Checksum:[/i] D2D30E71
+
+[b]Virtual League Baseball (1995)(Kemco)(US)[t2].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Virtual League Baseball (1995)(Kemco)(US)[t2].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 75ab83d493d9afc9eef49af071a32692
+[i]CRC32 Checksum:[/i] 24ADEF36
+
+[b]Virtual League Baseball (1995)(Kemco)(US)[t].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Virtual League Baseball (1995)(Kemco)(US)[t].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a484d1d5bbde2bce358d59c61e3545e3
+[i]CRC32 Checksum:[/i] A54225B0
+
+[b]Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja)[t2].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja)[t2].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 1c2f8fcfa5165de8a515cc5c529a4f0f
+[i]CRC32 Checksum:[/i] 2A075BDC
+
+[b]Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja)[t].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Virtual Pro Yakyuu '95 (1995)(Kemco)(JP)(en-ja)[t].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 0cb66278fc809252530044f7db9d8fcb
+[i]CRC32 Checksum:[/i] 8F618FBE
+
+[b]Capitan Sevilla II (demo) (2010)(Garcera, Ruben - RunnerPack - Skiles, Collin)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Capitan sevilla II Demo v0.1 (2010)(Ruben Garcera).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] b3311b03dea2b9a9d7c651cfdcb5bef4
+[i]CRC32 Checksum:[/i] 06ED52DA
+
+[b]186844-gbemu.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 266da89cb0b8abd82ac5cb596b27d201
+[i]CRC32 Checksum:[/i] F7FF6190
+
+[b]186845-gbemu_v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 0931f79442e34b0b007861778786266f
+[i]CRC32 Checksum:[/i] 83A944E9
+
+[b]3D Crosswords (2013).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 35554dcf602fd2452d7adb033a85cc40
+[i]CRC32 Checksum:[/i] 3754E82E
+
+[b]3D Crosswords (2013)_pad.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] cef10df7728f4398af46d51efc89d3d0
+[i]CRC32 Checksum:[/i] BB061C9D
+
+[b]A Bird & A Sign (WIP) 2010-11-02.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 13670b97c5a2da301a5469a7d4956edf
+[i]CRC32 Checksum:[/i] 4047E462
+
+[b]action53for20160509.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 5bd8f7bdd76f28665dc1c1386896963e
+[i]CRC32 Checksum:[/i] 508F44A9
+
+[b]action54for20160509v3.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] cd0b2eb7520661c188f15cb9cbf3b279
+[i]CRC32 Checksum:[/i] 1BBE86B0
+
+[b]action54for20160706v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 4a2a21a7901f00396d8c7b3b47770ca4
+[i]CRC32 Checksum:[/i] 45B91F02
+
+[b]action54for20161012.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 575043a84288708077f2fb0e4ea1d085
+[i]CRC32 Checksum:[/i] A4B587FE
+
+[b]action54of20160509v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 40679ca42d92e81c54faa3c36759587f
+[i]CRC32 Checksum:[/i] B145C6B6
+
+[b]action54of20160510.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 6047081c3cd4c6217a63c2c0157c384f
+[i]CRC32 Checksum:[/i] F3CF8925
+
+[b]action54of20160706.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] d869272e12596834da0f1f65af954f6a
+[i]CRC32 Checksum:[/i] E4BB1C9E
+
+[b]action54of20160706v3.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] b72aced88a02fb7e7d4e322d0514a8b4
+[i]CRC32 Checksum:[/i] B93EEC0C
+
+[b]action54of20160706v4.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] b5104e475eea3921090049d95f660688
+[i]CRC32 Checksum:[/i] 96CDF480
+
+[b]action54of20160706v6.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] b0112a7e3f24c219558e493da6215d1c
+[i]CRC32 Checksum:[/i] AFC5B89F
+
+[b]action54of20160707.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] d73a86f4648451ecd1b0f31ec3158762
+[i]CRC32 Checksum:[/i] FBA50FBC
+
+[b]action54of20160707v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] fc7bd536eed2b0fc654704aab2739e0b
+[i]CRC32 Checksum:[/i] E08BCCBB
+
+[b]action54of20160707v3.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 0afd9e4f7920de4e242e9e3ab87cf8fd
+[i]CRC32 Checksum:[/i] 80C009CF
+
+[b]action54of20160802.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 29f4ea89786484d4963961394c425c48
+[i]CRC32 Checksum:[/i] E87F9F79
+
+[b]action54of20160802v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] d3c8b67ff3ce9525d62a24e268d8e6de
+[i]CRC32 Checksum:[/i] 3CEE22F4
+
+[b]action54of20160802v3.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 63bcaf3e7c2218be39a261e8aff156d1
+[i]CRC32 Checksum:[/i] 5702A51B
+
+[b]action54of20160803.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] e0d44b7b9105e028abfcbe62095936ad
+[i]CRC32 Checksum:[/i] E1035205
+
+[b]action54of20160803v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] b9ea14897b560125398ce9a5382128f0
+[i]CRC32 Checksum:[/i] 07786CBE
+
+[b]action54of20160804.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] ab00464bc68af8a981094e2e38368e64
+[i]CRC32 Checksum:[/i] 9162AFD8
+
+[b]action54of20160805.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 4629ea2e7b64f0fcae5cbc27bdb9479d
+[i]CRC32 Checksum:[/i] 6588028B
+
+[b]action54of20160805v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 3c14b1bc541fcb5712988f45a38283d9
+[i]CRC32 Checksum:[/i] 6C39BFB9
+
+[b]action54of20160805v3.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 85de4236b0b15e5ba0c825bbaa0eb8ea
+[i]CRC32 Checksum:[/i] 4AFB588B
+
+[b]action54of20160805v4.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c39b2d45801d5936c33348dc39f619ae
+[i]CRC32 Checksum:[/i] B94F29A1
+
+[b]action54of20160821.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] b9ff1843fd4acabdc8b548761db21f78
+[i]CRC32 Checksum:[/i] 295F6C96
+
+[b]Advanced Pasta Cooking Simulator v1 (2013)(Matej Horvat).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a1b32c3b70ad0875fada464d681867f7
+[i]CRC32 Checksum:[/i] 639CA272
+
+[b]ants 2011--03-24.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a6437d94c27cb6485d1f4c83c1ce92d8
+[i]CRC32 Checksum:[/i] 10F6B3BA
+
+[b]ants 2011-03-24 sfx.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 206148b05ebcef3c23555daaf22ad0b4
+[i]CRC32 Checksum:[/i] FF9FE726
+
+[b]ants 2011-03-24.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] ed2ba13f5f94bca95bddf51065eb95ad
+[i]CRC32 Checksum:[/i] 5CDA511E
+
+[b]Ballface.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 2add85e4e285cba673dd93f135eba2cb
+[i]CRC32 Checksum:[/i] D6FD48DF
+
+[b]bitstringtest5.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 8be08a6c65f5b2a8f466fe7da04951b5
+[i]CRC32 Checksum:[/i] 044A64D7
+
+[b]bitstringtest7.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] afdf67e5666365a0023462ea4c5bdca5
+[i]CRC32 Checksum:[/i] 8E4BFC8A
+
+[b]BLOX 2 (PD).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c26762a48359eb9ab83785c7c9b2ac5a
+[i]CRC32 Checksum:[/i] B0E3D004
+
+[b]BLOX 2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] cc91d6389df2c9777919e8e8ab2c0e66
+[i]CRC32 Checksum:[/i] 85460A25
+
+[b]Bound High! [b1] [gccVB] (JU).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 76c95f2efb40c0944e4144c59f2440d2
+[i]CRC32 Checksum:[/i] 617A438D
+
+[b]Bound High! [b2] [VUCC] (JU).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 1d6f2cff3731b4a164bedde74ee2f0de
+[i]CRC32 Checksum:[/i] 5F43663E
+
+[b]brighttest.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] ff92c688729be80e7e88be1cbeddfe13
+[i]CRC32 Checksum:[/i] 4E49185E
+
+[b]brighttest_fixed.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 6fad47ee2c73e5489d722dc1665c90f3
+[i]CRC32 Checksum:[/i] 3A3B113C
+
+[b]Capitan sevilla II Demo WIP (2010-10-18)(Ruben Garcera).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 8e1d0d6455772d67b789a1910200bb8b
+[i]CRC32 Checksum:[/i] DBF36E5F
+
+[b]Capitan sevilla II Demo WIP (2010-10-19)(Ruben Garcera).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] eb62bbd66b5650d38068c67f1decf579
+[i]CRC32 Checksum:[/i] E56D2C04
+
+[b]Capitan sevilla II Demo WIP (2010-10-20)(Ruben Garcera).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 79e87958ddad32cc303a86ccd806f22e
+[i]CRC32 Checksum:[/i] C24E0503
+
+[b]Capitan sevilla II Demo WIP (2010-10-21)(Ruben Garcera).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] fc529adcaba0d0d4e98a464122f8b82b
+[i]CRC32 Checksum:[/i] B79CC0D3
+
+[b]Capitan sevilla II Demo WIP (2010-10-22)(Ruben Garcera).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 12139e08ab7c663466d1ff4b97dd2a1b
+[i]CRC32 Checksum:[/i] 0F33A559
+
+[b]Capitan sevilla II Demo WIP (2010-10-27)(Ruben Garcera).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 87fef9b24a1ab6a900ee270faaa736fe
+[i]CRC32 Checksum:[/i] 8E033435
+
+[b]Capitan sevilla II Demo WIP (2010-11-17)(Ruben Garcera).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 16db1a524937fa27ec13a097a684d0f3
+[i]CRC32 Checksum:[/i] 0EA7722E
+
+[b]capitan sevilla ii final demo fixed.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] fe92b28e43edd00c6b9401d81446a0a7
+[i]CRC32 Checksum:[/i] F18001F0
+
+[b]capitan sevilla ii final demo.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 3ef18c635e5216f264fbe473ccdb69c8
+[i]CRC32 Checksum:[/i] 3F641E51
+
+[b]castle of doom 2010-03-27.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 027cad1fcc11bb43b1b36c2b5017e9a8
+[i]CRC32 Checksum:[/i] 88E53046
+
+[b]castle of doom 2010-03-28.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 14015d2e65c3bf477258f2bb2d65e40d
+[i]CRC32 Checksum:[/i] D49A5E64
+
+[b]castle of doom 2010-03-29.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 9ffce8d4776545d8692d7c821ce4a983
+[i]CRC32 Checksum:[/i] BFCF4156
+
+[b]castle of doom 2010-03-30.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] aacf84b2a6ea62a51a6f3b5cb84d5316
+[i]CRC32 Checksum:[/i] 587E7723
+
+[b]castle of doom 2010-03-31.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 29043531556ac4e50fe291a0d30b5798
+[i]CRC32 Checksum:[/i] 8E54BB00
+
+[b]castle of doom 2010-04-01.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 5c6fd3f1bdc2e1aad3e707a0a361b9e4
+[i]CRC32 Checksum:[/i] 4A76F80B
+
+[b]castle of doom 2010-04-02.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 5abbef29117da2948cf9b176440ed78a
+[i]CRC32 Checksum:[/i] 3A992B1C
+
+[b]castle of doom 2010-04-14.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 259cc5de7362d6648e2db343254c561e
+[i]CRC32 Checksum:[/i] 6046041F
+
+[b]castle of doom 2010-04-27.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 422377ac7023fce3c2ca76db78eae9da
+[i]CRC32 Checksum:[/i] 89872CCA
+
+[b]castle of doom 2010-04-28.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] d1903ba3f1dd4e5697edfd23a7286264
+[i]CRC32 Checksum:[/i] 2C367102
+
+[b]castle of doom 2010-04-29.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 3f4db60b5659e8ab3b0d05e1bc787c80
+[i]CRC32 Checksum:[/i] 5BFBF203
+
+[b]castle of doom 2010-12-28.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 1f7007e89d3fbefc7d16a09145dac096
+[i]CRC32 Checksum:[/i] 257DE144
+
+[b]castle of doom 2010-12-30.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 7ad419dfb51342a5dca05612aa7c977c
+[i]CRC32 Checksum:[/i] D923E11B
+
+[b]castle of doom 2011-01-02.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 126980b8247689a932a909e272a4d18b
+[i]CRC32 Checksum:[/i] AD735B8D
+
+[b]castle of doom 2011-02-08 [a].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 718828a16aab71283a385cb7f9f5ae90
+[i]CRC32 Checksum:[/i] EE68B6B8
+
+[b]castle of doom 2011-02-08.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] fcfbeeca4bb33af756b025136c8b2549
+[i]CRC32 Checksum:[/i] B8CEA688
+
+[b]castleofdoom20160427.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 7c44ecf0510cb518f7fe09eb9a66760f
+[i]CRC32 Checksum:[/i] 1EC88176
+
+[b]castleofdoom20160508.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 5ad12f191c75da68438ef70d50cb6b90
+[i]CRC32 Checksum:[/i] E1512EDC
+
+[b]castleofdoom20160509.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 6e1b74ec2bd027faa024f61339690d99
+[i]CRC32 Checksum:[/i] 7DCD57EA
+
+[b]castleofdoomtest.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 932d5c804a41319b198e45c3a5a1c8ea
+[i]CRC32 Checksum:[/i] 3C3FA463
+
+[b]channelsweeper 2010-01-31 v1.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 70dfb87113ac9d4c6f98fe849beedf73
+[i]CRC32 Checksum:[/i] BFC6F255
+
+[b]channelsweeper 2010-01-31 v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 0ec39a850dd725b4ecf21c4f55c4ab95
+[i]CRC32 Checksum:[/i] 4AF6A635
+
+[b]channelsweeper 2010-02-01.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] e666580b98aea30eeacf3bb30ac945e3
+[i]CRC32 Checksum:[/i] DBD70522
+
+[b]channelsweeper 2010-02-02.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 63c9420a78f1aa66bbca538ed1d84e21
+[i]CRC32 Checksum:[/i] 714A18DF
+
+[b]chu-chu rocket 2010-01-26.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 74da89e2aceeb3a35d4fc6c1cd74a86b
+[i]CRC32 Checksum:[/i] 6E955D0C
+
+[b]chu-chu rocket 2010-01-27.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] f32f7cde4f46c6f1814e0cbf24293abc
+[i]CRC32 Checksum:[/i] CB10D1D7
+
+[b]chu-chu rocket 2010-01-28.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 206f9b771e3ed1697677302e31027f5d
+[i]CRC32 Checksum:[/i] E46923DA
+
+[b]chu-chu rocket 2010-02-21.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 064e40c0944d0c29ffc7f59882d18e69
+[i]CRC32 Checksum:[/i] F36BD294
+
+[b]clr_demo 2010-01-17.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 6d4882e27beb82245c25234dd7e99fa3
+[i]CRC32 Checksum:[/i] A767654F
+
+[b]color [a].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 8c389118cf589d1d052f2951c35525da
+[i]CRC32 Checksum:[/i] 4894776A
+
+[b]color.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c9f7c42adf0a13f1046fff14775cfdec
+[i]CRC32 Checksum:[/i] 8831863F
+
+[b]cycletest.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 65f724bd92fe3267f7f1003ab5d2485b
+[i]CRC32 Checksum:[/i] F3FD40D6
+
+[b]DaumenKinosaurier_v1.0.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 7943cf599f661776f806654606c12fcc
+[i]CRC32 Checksum:[/i] DA9B8680
+
+[b]Deathchase (2014).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] d62f822215ae2faa9e76bacf36e2ae20
+[i]CRC32 Checksum:[/i] A6ECD1C1
+
+[b]Deathchase (2014)_pad.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 1c06caa6238a3412335117212a0c35c1
+[i]CRC32 Checksum:[/i] EBEA7623
+
+[b]Deathchase (2014-03-01).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 92ef6889f887ab83e7ac43c399cebf3c
+[i]CRC32 Checksum:[/i] 96FA981E
+
+[b]Deathchase (2014-03-01)_pad.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] b0bf1742b00a5d17a4e2ca82afe423ee
+[i]CRC32 Checksum:[/i] 6122DE50
+
+[b]demo Graphics 2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 87c80c8e3047e38b2db98d11e98345ab
+[i]CRC32 Checksum:[/i] F55E1CE6
+
+[b]demo Graphics.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 6549205c26b50276f97929f33bd89435
+[i]CRC32 Checksum:[/i] E13B4C9F
+
+[b]demo2 2011-08-16.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 77f121d3d3af1d1fcfff5698fcd67e04
+[i]CRC32 Checksum:[/i] 20303E5C
+
+[b]display_test_v1.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c0944ac109fce910afdca869a7d25803
+[i]CRC32 Checksum:[/i] 161680FE
+
+[b]DitherTest 2011-04-04.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 3811832349451369a946dcae5897e2ee
+[i]CRC32 Checksum:[/i] 09DE41B9
+
+[b]DitherTest 2011-04-05.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 699a15aab91895221033f4cb510177c4
+[i]CRC32 Checksum:[/i] EB61160F
+
+[b]example pad.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 4c67e92c153f624ad712e9bcfeb0099a
+[i]CRC32 Checksum:[/i] 6EEE0954
+
+[b]example_pad v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 6a1d02b847575892afa1a550e330959f
+[i]CRC32 Checksum:[/i] F808808E
+
+[b]example_pad.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] aaba729665ed0aa0cf4acf8eed35c75f
+[i]CRC32 Checksum:[/i] CB50074B
+
+[b]example_pad_SMB3.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] fd6807023f76ee4e3e6fafedb085e39f
+[i]CRC32 Checksum:[/i] 7FF8C97A
+
+[b]example_pad_StarWars.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 550f1bce6ad6c31583cabf0004ec2299
+[i]CRC32 Checksum:[/i] 7F31F47E
+
+[b]example_pad_Zelda.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a25b7f4ea2a350442ace70e201b8c495
+[i]CRC32 Checksum:[/i] B17B9B91
+
+[b]faceball Matejs Controls.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a8232835f65e6e026325bae0fa3070a4
+[i]CRC32 Checksum:[/i] 90FBAFC2
+
+[b]Faceball.Remastered.v1.0 Circlestrafe.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 5a081cfe81f0475176782c4012e1fdb8
+[i]CRC32 Checksum:[/i] 56E0297B
+
+[b]Faceball.Remastered.v1.0 Gesichtball.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 9daba39f4e09444d749c4645ae3ed0c4
+[i]CRC32 Checksum:[/i] FDFB30DD
+
+[b]Faceball.Remastered.v1.0 MatejsControlsv1.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 94501be93ec2feb1569f9bcaa7a0f018
+[i]CRC32 Checksum:[/i] 3B9C7022
+
+[b]Faceball.Remastered.v1.0 MatejsControlsv2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 297ce3cce66511af8288edc63d2c330a
+[i]CRC32 Checksum:[/i] 3D53B7D0
+
+[b]Faceball.Remastered.v1.0 MatejsControlsv3.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] dbaa19eb37a49c9bb8ee276a05b151c4
+[i]CRC32 Checksum:[/i] 43A208B7
+
+[b]Faceball.Remastered.v1.0.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] d20ab7aba4a4e629a8ec647db6260a26
+[i]CRC32 Checksum:[/i] 85B321C7
+
+[b]FaceballCirclestrafe.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 4eaf7925f5ba9d4b650e9d7bef235667
+[i]CRC32 Checksum:[/i] FD87F69B
+
+[b]faceballMatejsControls.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 8d84dd7894063e7c71063db3464cf8e6
+[i]CRC32 Checksum:[/i] BAE7E4FE
+
+[b]Fishbone.[Happy.New.Year]_Final2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 97cb1ec714686df5eb7dd7b9dda8cf31
+[i]CRC32 Checksum:[/i] E764F758
+
+[b]Fishbone.[Happy.New.Year]_Final3.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] eee8be03986ddbc3ada91b10a543f17e
+[i]CRC32 Checksum:[/i] B5977E82
+
+[b]Fishbone.[Happy.New.Year]_Final4.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] e2f6f260f9f034c62a2e23dc3a8cf4e8
+[i]CRC32 Checksum:[/i] 63C75EC6
+
+[b]Fishbone.[Next.time.we.break.your.legs].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 01d94764306f39145ddf5c9216aa2595
+[i]CRC32 Checksum:[/i] 413213AD
+
+[b]Fishbone.[Next.time.we.break.your.legs]_Final1.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 00e4d190aa34e8b35a974da1d16194e6
+[i]CRC32 Checksum:[/i] 1711AB78
+
+[b]fishbone_.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 5db98a9e661512105b93268d4f80adfd
+[i]CRC32 Checksum:[/i] 9803B3EA
+
+[b]fishbone_pad_demo.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 8f3d144e40fecbcd482b34e7fe75cb4b
+[i]CRC32 Checksum:[/i] 384F3C82
+
+[b]fishbone_pad_v0.1.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 919c64e6a2d4d1d952df1e8e8f5ccb64
+[i]CRC32 Checksum:[/i] 760B9298
+
+[b]fishbone_pad_v0.2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] fcb59e8ab2a38ea21f1c7dfb46fa7416
+[i]CRC32 Checksum:[/i] 6E107A0A
+
+[b]flappy_cheep_cheep.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 2176fae66e175a5bf9fc0266b627cc6f
+[i]CRC32 Checksum:[/i] 68EC16AA
+
+[b]fourth.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 8d35e9f69c599975704461fb4ebfaf2f
+[i]CRC32 Checksum:[/i] 6FA627F9
+
+[b]Game Hero Midi Player_pad_2011).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 6faecfc6917602f674f411a2dee1ef58
+[i]CRC32 Checksum:[/i] 3747AC5B
+
+[b]gameHero11_pad.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] d7adb3f627d0a3bf058e56eb7bd9c58d
+[i]CRC32 Checksum:[/i] EBF05942
+
+[b]gbemu_140306.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] db3056b512111c48ee3d8a0e0433a8bd
+[i]CRC32 Checksum:[/i] 674F9620
+
+[b]gbemu_140306b.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 5ede1034a3e1f9baf92bb7f4e258f073
+[i]CRC32 Checksum:[/i] 8040D338
+
+[b]gbemu_140309.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 692b4f4be08a9498ac3ee6e4a013db49
+[i]CRC32 Checksum:[/i] 73CF6297
+
+[b]gosub 2 2010-09-23.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 07ed271f05b7920973bf6faa150f2a07
+[i]CRC32 Checksum:[/i] 94605A1D
+
+[b]GoSub 3D 2010-07-14.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 137ceb83e8e465851ebeb5fba8268943
+[i]CRC32 Checksum:[/i] 796E6DD9
+
+[b]GoSub 3D 2010-07-15.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 5d18f4c42da8fd170ea8525357d0fe4a
+[i]CRC32 Checksum:[/i] EEA9E9E1
+
+[b]GoSub 3D 2010-07-16.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 7c6b0d80eee8337f50475b7c8d2c1f08
+[i]CRC32 Checksum:[/i] 8D22AD3F
+
+[b]GoSub 3D 2010-07-17.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 1b8cda1abb515684d1f2aac08a3b67cf
+[i]CRC32 Checksum:[/i] 952AD689
+
+[b]GoSub 3D 2010-07-18.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 3e6ce37287b4ab29b0bb74bdbfa367ae
+[i]CRC32 Checksum:[/i] 6A9BE79E
+
+[b]GoSub 3D 2010-07-19.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] f2b6140619a282f2273874b38a086184
+[i]CRC32 Checksum:[/i] E6863FA2
+
+[b]GoSub 3D 2010-07-20.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 690f9941bab53d71035d881af14c0468
+[i]CRC32 Checksum:[/i] 8543B08A
+
+[b]GoSub 3D 2010-07-21.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 8f72dd258b633155c65b3751435a8555
+[i]CRC32 Checksum:[/i] 8733F73C
+
+[b]GoSub 3D 2010-07-22.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 1dc0f02075bd3e70b50d02a89bed894b
+[i]CRC32 Checksum:[/i] 6416DF0C
+
+[b]GoSub 3D 2010-07-23.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] ab136540d5098bd71af117884996ef4b
+[i]CRC32 Checksum:[/i] 8A9185A9
+
+[b]GoSub 3D 2010-07-24.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 9471b1ef1cc3e432bed36ac1bc57fecc
+[i]CRC32 Checksum:[/i] 3BC9B81F
+
+[b]GoSub 3D 2010-07-25.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c2cb663fd491fbe493d3c92b33ba8cbe
+[i]CRC32 Checksum:[/i] EABA3E02
+
+[b]GoSub 3D 2010-07-26.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 6740cb4540df758d4108370274dc699c
+[i]CRC32 Checksum:[/i] 598AEFCD
+
+[b]GoSub 3D 2010-07-27.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 7d33aec30bafc6f9c4b92e5bb405f3a1
+[i]CRC32 Checksum:[/i] E06A6E78
+
+[b]GoSub 3D 2010-08-12 (256kb).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 3fd7a007b33ed7bfc9a281a4cd2194a6
+[i]CRC32 Checksum:[/i] 908D946A
+
+[b]GoSub 3D 2010-08-12.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 3e54c13e22ac03052857abb7c984f63a
+[i]CRC32 Checksum:[/i] AE0E8DD1
+
+[b]GoSub 3D 2010-08-13.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 45e4dd737bb1e0256ce51ba15446cc87
+[i]CRC32 Checksum:[/i] 26C31D06
+
+[b]gosubi_2009-08-27.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 06e5df59446832723bb73434d3d9d5ff
+[i]CRC32 Checksum:[/i] 8EE15376
+
+[b]HF Demo 1.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] b3e46cdbe57d3995065daa917a858a76
+[i]CRC32 Checksum:[/i] 4450EDE0
+
+[b]ic (2).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] ea9f8688d07028a697bd6bc87b0fd336
+[i]CRC32 Checksum:[/i] 6AF894F6
+
+[b]ic (5).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 0d2826622ca12efb9a6ee6755939de88
+[i]CRC32 Checksum:[/i] F683F8BE
+
+[b]ic(1).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 094f49d5b50d14e9af1a51703709684e
+[i]CRC32 Checksum:[/i] 7EF4647B
+
+[b]ic(10).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 0f533a17346643012cdb7d781436240f
+[i]CRC32 Checksum:[/i] 385BEC5E
+
+[b]ic(11).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 44a35e149ad97dba97c5aa31f7cf51a4
+[i]CRC32 Checksum:[/i] 93EACD20
+
+[b]ic(12).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] f62a6a8b818e9a719ed83f1430b542a1
+[i]CRC32 Checksum:[/i] B7954B06
+
+[b]ic(2).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] dbb3dd44e9336aa040a8bf8131dcfa83
+[i]CRC32 Checksum:[/i] F9B5DA2C
+
+[b]ic(22).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 11beeb81c5f204d183cefe77cc046d5a
+[i]CRC32 Checksum:[/i] 0771AC20
+
+[b]ic(3).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] ebafc17f0305f144fdade7c7840dd2b1
+[i]CRC32 Checksum:[/i] BD824FAF
+
+[b]ic(4).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 2787af895c2db1095cc4075287c14b07
+[i]CRC32 Checksum:[/i] 566A952A
+
+[b]ic(5).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 415c6936b1bb84ad362e2223395b4dfe
+[i]CRC32 Checksum:[/i] 2C421321
+
+[b]ic(6).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a5c96ee19f4828f5d38aeea501df3a47
+[i]CRC32 Checksum:[/i] 434D48E0
+
+[b]ic(7).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 4dc69995ad4007c24575fd50ca29d225
+[i]CRC32 Checksum:[/i] ED4FAE82
+
+[b]ic(8).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] db42cf1d99d5940fffde40e2bc9be04b
+[i]CRC32 Checksum:[/i] 2F965C10
+
+[b]ic(9).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] cd70e0d18274bc42f1e6dd024a2cc6dd
+[i]CRC32 Checksum:[/i] 2E30752E
+
+[b]ic.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] bdc9ea6dda0b5f4f08c63008808f9a41
+[i]CRC32 Checksum:[/i] 66DF2F93
+
+[b]ic04192014.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] ab70c21dd019fc49d60db9617c1c565f
+[i]CRC32 Checksum:[/i] 4214F8DE
+
+[b]ic20140521.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 31c1f437be66f7e040ad96c85a35ffe7
+[i]CRC32 Checksum:[/i] 0E8267A1
+
+[b]ic20140521v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 7fdaa480a4877b86923d26d923e0823a
+[i]CRC32 Checksum:[/i] DDFA0E33
+
+[b]ic20140609.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 78099f921ee2b08bdedbb4f200df024c
+[i]CRC32 Checksum:[/i] 2754E940
+
+[b]ic20140609v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] d87521c70e6588292779cfe50450935e
+[i]CRC32 Checksum:[/i] FF8C6654
+
+[b]ic20140609v3.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 888bbdf4f1f2e8849d016a882efc8d96
+[i]CRC32 Checksum:[/i] 71295CF8
+
+[b]ic20140610.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 49695479f3c489020ef62525eca77075
+[i]CRC32 Checksum:[/i] 32DB9A9A
+
+[b]ic20140610v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 38c75b61c88ded0628c246aa9385f8e4
+[i]CRC32 Checksum:[/i] 5B054163
+
+[b]ic20140610v3.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 187c07a86770d3e47c607eb60e7f92ee
+[i]CRC32 Checksum:[/i] 6DE4F7CC
+
+[b]ic20140610v4.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 02e0d1645e71705b06b2369e6486c30c
+[i]CRC32 Checksum:[/i] C4B3213B
+
+[b]ic20140610v5.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 19261452f05780876bb382fc0696a74b
+[i]CRC32 Checksum:[/i] B692D0D3
+
+[b]ic20140712v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 1f82a7ca6e1b078746f0a6c8a920a425
+[i]CRC32 Checksum:[/i] 839478C0
+
+[b]ic20140714.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 8672cd0e72eed1674dd4edb332e8b6d8
+[i]CRC32 Checksum:[/i] 1FAA4274
+
+[b]ic20141110.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 1cfcc6c8712a3f918324acc6472141a1
+[i]CRC32 Checksum:[/i] C3EFEAB5
+
+[b]ic2014aug19.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 9ce1297602b4c456b5b46f3b7b6f7c80
+[i]CRC32 Checksum:[/i] CCAB1F90
+
+[b]ic2014aug20.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 5f2bd26ae1e4f27e5820983e566399d2
+[i]CRC32 Checksum:[/i] F9BF86B2
+
+[b]ic2014mar23.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 96bd1eac0892ef37d865ad19e1d048d4
+[i]CRC32 Checksum:[/i] 90F95F95
+
+[b]Insect Combat 2011-06-25.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 0d9d78da486963e594a3269dd11ecc8f
+[i]CRC32 Checksum:[/i] 198DF37C
+
+[b]insectcombat 2009-12-29 v1.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] ed24876cbe16574bbf05be5f08afad4e
+[i]CRC32 Checksum:[/i] E52A2479
+
+[b]insectcombat 2009-12-29 v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] e2c5175c5e064d8d3d56b957ab2eeae3
+[i]CRC32 Checksum:[/i] C1FCD2A6
+
+[b]insectcombat 2009-12-30 v1.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 40fff31a99be9dbb32b8696a1964e277
+[i]CRC32 Checksum:[/i] BEC68E56
+
+[b]insectcombat 2009-12-30 v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 129704d9ac4b8c1bf99d8eac7a1a020f
+[i]CRC32 Checksum:[/i] F87B6A81
+
+[b]insectcombat 2009-12-31.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 8564d33037064894c8e4a978b2699d4a
+[i]CRC32 Checksum:[/i] 5FE2F69B
+
+[b]insectcombat 2011-02-09.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 46e0eb4b6cdd1202b69cae35381dd1fd
+[i]CRC32 Checksum:[/i] 9526B46F
+
+[b]insectcombat 2011-08-07.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 4155c16472569f592f4191858cfee92a
+[i]CRC32 Checksum:[/i] 4A71F32E
+
+[b]insectcombat 2011-11-16.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 7164d9282839bdc0b6ae13f56c55f642
+[i]CRC32 Checksum:[/i] B12A8D42
+
+[b]insectcombat05102011.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] fa529440608ec2053983d4c85fb49045
+[i]CRC32 Checksum:[/i] AB0B8FB1
+
+[b]insectcombat05112011.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 36e426eebdaacb6976164d7c9e89da15
+[i]CRC32 Checksum:[/i] 7059AF05
+
+[b]insectcombat05112011eightfighters.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] b5ba39974d9a22d5fa76b307949ef251
+[i]CRC32 Checksum:[/i] 1029ACF9
+
+[b]insectcombat07142011.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 891c31c537e73dae129f29537c1aa883
+[i]CRC32 Checksum:[/i] C4917696
+
+[b]insectcombat07152011.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] fa294b55f34e50e1f23067374668e1b1
+[i]CRC32 Checksum:[/i] A00D459F
+
+[b]insecticide 2011-11-07.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 2ce93ee20b792dd393897606bd07e109
+[i]CRC32 Checksum:[/i] 0FF80509
+
+[b]insecticide010112.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] e633cecdced9319561e6958c94dbdfa2
+[i]CRC32 Checksum:[/i] 9192D272
+
+[b]insecticide020512.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] fd94ae59b9f44e58fc4914a95cd53d25
+[i]CRC32 Checksum:[/i] B6F8B3C3
+
+[b]insecticide020612.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 2fd3b90ff355a680692dbc3594278e3a
+[i]CRC32 Checksum:[/i] 7D2052CD
+
+[b]insecticide022312.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 609bc4435bdd32b30a5bbc7378ebe9f8
+[i]CRC32 Checksum:[/i] F459DFF1
+
+[b]insecticide022412.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] ba82d7be8b3f7fc0fdc86ea895a3489b
+[i]CRC32 Checksum:[/i] 81D379F1
+
+[b]insecticide022612.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] b41807aec3be9fab56461bdc93bd0378
+[i]CRC32 Checksum:[/i] F18E75B9
+
+[b]insecticide032212.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] fd7efbd087d9ea3cda275fad89f3a983
+[i]CRC32 Checksum:[/i] 14A9C430
+
+[b]insecticide032312.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] d2705d93c39b0cbdfc11bddd9ae57943
+[i]CRC32 Checksum:[/i] 0775980E
+
+[b]insecticide032612.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 0144e137934de076cc7d2c6b61800ed4
+[i]CRC32 Checksum:[/i] 32FFEF3D
+
+[b]insecticide042012.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a802840d0642b3f0d28317867b91861c
+[i]CRC32 Checksum:[/i] 26779F54
+
+[b]insecticide07082013.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 25f2b930c5b98253419abbd53914e9a8
+[i]CRC32 Checksum:[/i] F52A3B88
+
+[b]insecticide08032012.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c138ec5798d7f6c637351b3430879b4b
+[i]CRC32 Checksum:[/i] 102AAB32
+
+[b]insecticide08032012a.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c912a2cc724af97a028b6953067ed1ef
+[i]CRC32 Checksum:[/i] 48E32410
+
+[b]insecticide18oct2013.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 725363fff7d887a72417008fc0cf9c54
+[i]CRC32 Checksum:[/i] 90AB29E9
+
+[b]insecticide2012feb06.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 523ab2131c756398a2a5d04aba2052ee
+[i]CRC32 Checksum:[/i] 381E50F0
+
+[b]insecticide2012nov06.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 9b2683878660ab157363e718267f9f76
+[i]CRC32 Checksum:[/i] 7C01D5B5
+
+[b]insecticide2012nov09.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 2395b4cde02a2ace978d78258ffd7ae5
+[i]CRC32 Checksum:[/i] 24ADC834
+
+[b]insecticide2012nov11.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] e8c5d3b0899b28f45c313f033d7cdee5
+[i]CRC32 Checksum:[/i] 67BCEB89
+
+[b]insecticide2012oct01.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 25668724e88ac4eb2af006a08fd9a12e
+[i]CRC32 Checksum:[/i] 66192865
+
+[b]insecticide2012oct12.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 09617d3a01df0e93b6507ddd108a4383
+[i]CRC32 Checksum:[/i] E1B2F7CA
+
+[b]insecticide20131230.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] e6257175c16f60f453cf4b96486af473
+[i]CRC32 Checksum:[/i] B1B09313
+
+[b]insecticide2013dec06v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] cf93dbf03eb469e5555661ecf51f7ba4
+[i]CRC32 Checksum:[/i] 299A4523
+
+[b]insecticide2013dec6.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 8842b30356def85d96b92284ae605af6
+[i]CRC32 Checksum:[/i] DDF4267C
+
+[b]insecticide2013jan22.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 1f9edfdeae4fc56aff3dafcb7a8aab8f
+[i]CRC32 Checksum:[/i] C6C1333C
+
+[b]insecticide2013january6.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 270fef8f5807011fed69dab579fd97cc
+[i]CRC32 Checksum:[/i] E6E3C1FD
+
+[b]Insecticide2013nov11.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 23c2f73ada82054d0a4b85a6587fd337
+[i]CRC32 Checksum:[/i] EEEE3177
+
+[b]insecticide2013nov12v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] e7e135835eeabe7a12cefe1b39d2c2da
+[i]CRC32 Checksum:[/i] 917487F0
+
+[b]insecticide2013oct22.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 472cca52101389b7e830e298caeeff74
+[i]CRC32 Checksum:[/i] 7F2B587E
+
+[b]insecticide2013oct23.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 25d3984bdf86c1899586a0a314076552
+[i]CRC32 Checksum:[/i] 17DE2C59
+
+[b]insecticide2013sep29.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a9ac18976c9bb503b72ed492657aed9b
+[i]CRC32 Checksum:[/i] 17733686
+
+[b]insecticide20140119.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 840e29aea47058ccce07b146d3fbf30f
+[i]CRC32 Checksum:[/i] E7F8BEAB
+
+[b]insecticide20140119v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c9008bf6213cec96e82321965bc48ca8
+[i]CRC32 Checksum:[/i] 0FD19400
+
+[b]insecticide20141014 5.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c875b93c1ca1a22afc9d8cdfd60a9911
+[i]CRC32 Checksum:[/i] 1DE8B2EC
+
+[b]insecticide20141014 5a.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 662dc37f37a521b6069ffb2c46e3fee3
+[i]CRC32 Checksum:[/i] 2B1EF838
+
+[b]insecticide20141014 6.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] df5e57abdd29473f38a4145af841527a
+[i]CRC32 Checksum:[/i] 6484514F
+
+[b]insecticide20141015 6.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 731cb3f16739505d46017201e9aa4cd3
+[i]CRC32 Checksum:[/i] AC08F99E
+
+[b]insecticide20141016 6a.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 66043af88512a14c00a71f12f006bc0f
+[i]CRC32 Checksum:[/i] 4DAEB397
+
+[b]insecticide20141017 6a.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 3781cb49a6206ba6aa9378303f4a6b59
+[i]CRC32 Checksum:[/i] 909C2F72
+
+[b]insecticide20141021 6a.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 3e2785f5714a0c7a30d07327ac31164e
+[i]CRC32 Checksum:[/i] EBC4ABEF
+
+[b]insecticide20141021 7.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] f89daf6564f0b7b40ad273321a8b8e70
+[i]CRC32 Checksum:[/i] CC69A9DF
+
+[b]insecticide20141023 7a.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 1093faeb789e2145a7b9403eeee02b0a
+[i]CRC32 Checksum:[/i] D4602121
+
+[b]insecticide20141029 7a.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a8fa556fb0fdc494c91fd91350834ceb
+[i]CRC32 Checksum:[/i] F4CD39D0
+
+[b]insecticide20141229 8.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 16e4952fe575c2718c5117c4d4172c64
+[i]CRC32 Checksum:[/i] 36FF54A7
+
+[b]insecticide20141230 8a.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a1b2d75e752504ae86d99f70af79981b
+[i]CRC32 Checksum:[/i] 73CAA5DC
+
+[b]insecticide20141231 8b.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 3761da7c586c06b7c83c03f0f4c7bfa5
+[i]CRC32 Checksum:[/i] 39067F02
+
+[b]insecticide2014feb01.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 31a8b6e1a98af4d2c00932b441680b48
+[i]CRC32 Checksum:[/i] 49EBCA22
+
+[b]insecticide2014feb01_.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 2e58b6e09962c9b9d53c333a7989fba2
+[i]CRC32 Checksum:[/i] 5BC656AF
+
+[b]insecticide2014feb03v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] fa12e5f2c8e953bc26fa2060b2bddf5e
+[i]CRC32 Checksum:[/i] F0A2FD94
+
+[b]insecticide2014feb04.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c73f8af47d2c33e2211deab62327a72b
+[i]CRC32 Checksum:[/i] 47E9CBDC
+
+[b]insecticide2014feb25.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 11019621d01d40fcd521ecb474893fed
+[i]CRC32 Checksum:[/i] 05566475
+
+[b]insecticide20150217 9.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] d36f457d6655fc8570b616fdac73deca
+[i]CRC32 Checksum:[/i] DC90EF12
+
+[b]insecticide20150218 9a.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] ee3f02300548dad6cb1978e039a16b64
+[i]CRC32 Checksum:[/i] 347D94F4
+
+[b]insecticide20150220 9b.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 66d41cb5238f22ba29e5424f64a01f77
+[i]CRC32 Checksum:[/i] 885F8626
+
+[b]insecticide20150423.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 71083654fc61f97eb5be1191f43dda90
+[i]CRC32 Checksum:[/i] 9E538C1E
+
+[b]insecticide20150424.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 70c7dc454ac66a975f54c0f94eb975db
+[i]CRC32 Checksum:[/i] 6C8A455C
+
+[b]insecticide20150523.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 604449e6c55e0f5fb54f7b4169654a7a
+[i]CRC32 Checksum:[/i] A5B1EE22
+
+[b]insecticide20150616.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 0e495f945574d4cf399a51c2b720439a
+[i]CRC32 Checksum:[/i] 197E73E9
+
+[b]insecticide20150617.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 459f68690b7957102b4cd87fef25f3c3
+[i]CRC32 Checksum:[/i] 4C7D84EA
+
+[b]insecticide20150625.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a03b3a9a09259aaebe60d7389cd5ec2c
+[i]CRC32 Checksum:[/i] 89AD26F9
+
+[b]insecticide20150815.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c8675fd318abb928f8db0815c4ccd1b5
+[i]CRC32 Checksum:[/i] F1961ECF
+
+[b]insecticide20150828.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 5cc03eb9e429e4c201b96a12148dbbd3
+[i]CRC32 Checksum:[/i] A0191EBA
+
+[b]insecticide20151030.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] dac96be3ac74b28d2b31ae2e61b2efed
+[i]CRC32 Checksum:[/i] 6D74A78C
+
+[b]insecticide20151030v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 1e8b70861d31217e66af97dcd6c44553
+[i]CRC32 Checksum:[/i] 28836BAF
+
+[b]insecticideaugust292013.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] e0801c14afde920752ed9618c70f3494
+[i]CRC32 Checksum:[/i] 7884937B
+
+[b]insecticideaugust302013v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 766934b06e5fd887bbd95858386f62e3
+[i]CRC32 Checksum:[/i] 43DBC575
+
+[b]insecticidejuly082013rev2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] dc2c01323294d2432db1ce5536829015
+[i]CRC32 Checksum:[/i] 791A8E0F
+
+[b]insecticidejuly302013.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 24b4ca7b5b0274d59a8b00cb33442722
+[i]CRC32 Checksum:[/i] 2720018C
+
+[b]insecticidejuly312013.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 55b89a02624dd0bef45b082f1e317079
+[i]CRC32 Checksum:[/i] B48E1F11
+
+[b]insecticidejuly312013a.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] f4f2474034957f282cd879bd1c15b6fa
+[i]CRC32 Checksum:[/i] 8ADDC362
+
+[b]insecticidesep222012.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 19440309a296af6774584a5d47a6f97d
+[i]CRC32 Checksum:[/i] DBFB2A0D
+
+[b]insecticidesep222012b.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 22a1b5e423deaa8411fe8306f1b6e185
+[i]CRC32 Checksum:[/i] 5A08CC5A
+
+[b]insectwip2014feb25.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 3387bf087e03f396e1d9b37d16155c13
+[i]CRC32 Checksum:[/i] B086A737
+
+[b]legendofhelga2013apr22.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 87f7eeee517faec0b0715f0e4944aad6
+[i]CRC32 Checksum:[/i] 3BADDE6B
+
+[b]legendofhelga2013apr23.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 9012b821a288be57054f34fa21faa570
+[i]CRC32 Checksum:[/i] A01C1E4F
+
+[b]lh 2009-12-10.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] bae9b41c3042716a3d27fbb547a7b5a4
+[i]CRC32 Checksum:[/i] 11FB2E3F
+
+[b]lh [a].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 068350c87c1ae0776ec9b25a1c498b48
+[i]CRC32 Checksum:[/i] CCD5F250
+
+[b]LightsOut.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 38577a95d52961f8e65c317fc7ff9803
+[i]CRC32 Checksum:[/i] 5BFD9F99
+
+[b]main(1).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] cb16bb3d1521b39c4947bb08b0bdebec
+[i]CRC32 Checksum:[/i] CC042672
+
+[b]main(2).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a5e79d1147dc3c8b078ac82586543a04
+[i]CRC32 Checksum:[/i] 7ADF5F2A
+
+[b]main.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 85ee79c070b9ec4f49df0e91d60953d9
+[i]CRC32 Checksum:[/i] 91C942AE
+
+[b]Mansion of Insmouse - All Hallows' Eve.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 704837e3255bd44a62922c6644c535c5
+[i]CRC32 Checksum:[/i] 946DB48C
+
+[b]Mansion of Insmouse - Mario Madness Edition.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 948ebf79c09f28d874c7277dbe54fb75
+[i]CRC32 Checksum:[/i] 34D323A5
+
+[b]Mansion of Insmouse - Mario Madness Edition_.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 1d1676b88c22644ac1816779cc76beb5
+[i]CRC32 Checksum:[/i] A9E57141
+
+[b]Mansion of Insmouse Mario Madness Edition.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] f97d4e02921f632909a5e3c4747b16ca
+[i]CRC32 Checksum:[/i] 245806D5
+
+[b]manwithball.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] e19c760911e6cb5e1425932941213b6f
+[i]CRC32 Checksum:[/i] 6E3EF6C2
+
+[b]MarioCombat.rom.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 6fd50c08f16d44da026dca190ade43fe
+[i]CRC32 Checksum:[/i] FB91380F
+
+[b]memTest_example.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] d3ad34672f57107ee2828b77fe58baec
+[i]CRC32 Checksum:[/i] 92FD6A3A
+
+[b]MemTest_example_pad.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 22e150fcdfc5aa70741771a45d3f39d2
+[i]CRC32 Checksum:[/i] A704A0AE
+
+[b]mem_text_example_pad.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] cbc21245f5a07c83b49405a42529b584
+[i]CRC32 Checksum:[/i] 2A8B4268
+
+[b]ModelViewerStarWars.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 9c1272196dccda30563e43c3181d3d57
+[i]CRC32 Checksum:[/i] 5491C8F7
+
+[b]ModelViewerStarWars_tiny.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 5cd734382b4d2d659b944fc8136afe19
+[i]CRC32 Checksum:[/i] D5622DDC
+
+[b]mp2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 2154d341a69a4cbfcffb693b5d4548cf
+[i]CRC32 Checksum:[/i] 0C456A18
+
+[b]mpyhwtest.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c0dffd0bbf20485f6aabeb5e66cef911
+[i]CRC32 Checksum:[/i] 86EAB7EE
+
+[b]Niko-Chan Battle (J) (Prototype).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 2fa03233d576b2ce73622d09c078ae49
+[i]CRC32 Checksum:[/i] EA65B5FD
+
+[b]Null Pointer Mockup (Debug).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 87c0c0d63a8fb77d4c415b53997875ba
+[i]CRC32 Checksum:[/i] 260C2469
+
+[b]Null Pointer Mockup.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 39ea7766c44b19461ca8fc2a3484f8f8
+[i]CRC32 Checksum:[/i] 092DA01A
+
+[b]p64c.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] dd84f610e9dd0143c43dd6ae58939673
+[i]CRC32 Checksum:[/i] FCAFED21
+
+[b]Pac-Guy 4 2011-03-18.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 838555f6f0445a8b745b9fae26e10692
+[i]CRC32 Checksum:[/i] 8797F458
+
+[b]Pac-Guy 4 for Virtua.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 8405c10e828cb230057b66453b56583e
+[i]CRC32 Checksum:[/i] A08013FD
+
+[b]pacguy4feb162013.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] b7c85e35083b94962abcb8f15a2cf195
+[i]CRC32 Checksum:[/i] F4CEA13C
+
+[b]pacguy4feb162013v4.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] b2c909a73364afc7a3a9124514f9ee61
+[i]CRC32 Checksum:[/i] 6F1EC5C6
+
+[b]pacguy4feb172013.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] d76b2be5e4ca93a39fc26d41b09891ac
+[i]CRC32 Checksum:[/i] DE85A990
+
+[b]pacguy4feb182013v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 6137f7a39602f49a3342e4baf7451238
+[i]CRC32 Checksum:[/i] 4B400477
+
+[b]pacguy4feb202013.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c02f71d582b4c31a4d01e97ba3884ee6
+[i]CRC32 Checksum:[/i] 388636E8
+
+[b]pcm_16_40000.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 3529312f934aaa1e5c3acffe2787399b
+[i]CRC32 Checksum:[/i] B0E0FBB8
+
+[b]pcm_46.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] abc4371326eb54db5690ee27d6c968e3
+[i]CRC32 Checksum:[/i] 316E8084
+
+[b]pcm_46_22050.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 09b7bb62b8c6ddfa8488133ae2290888
+[i]CRC32 Checksum:[/i] B4934D44
+
+[b]picture example.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 87ae0eb40960bd2bc002e00f40683bd2
+[i]CRC32 Checksum:[/i] 3B15A5C2
+
+[b]pineapple64of20151223.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a7880f9ad47a42eba65d1e37dbc250af
+[i]CRC32 Checksum:[/i] A6A2B5F5
+
+[b]pineapple64of20151223v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 1256856bce6633eaf862c3680de6d38d
+[i]CRC32 Checksum:[/i] 93E1A598
+
+[b]pineapple64of20151223v3.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] bbe2a95b807d4ec9614fcae93817db93
+[i]CRC32 Checksum:[/i] 29E8B9FB
+
+[b]pineapple64of20151224.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a963cdf2eacb71c65ed28dbf59e72a10
+[i]CRC32 Checksum:[/i] 1DEB06C2
+
+[b]pineapple64of20151224v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 924e3de6a13dbc9544cc29e4b7fbdd69
+[i]CRC32 Checksum:[/i] C83AD60A
+
+[b]pineapple64of20151225.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 59330347b3f41a5e3840f7e8f9716734
+[i]CRC32 Checksum:[/i] D4B33706
+
+[b]pineapple64of20151226.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 1b58ab759747d45e8fd9fd65f442dbae
+[i]CRC32 Checksum:[/i] C8D195C5
+
+[b]pineapple64of20151226v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c20321a5ab55f642bdc713f8ec9ecdd0
+[i]CRC32 Checksum:[/i] 553C2A7D
+
+[b]pineapple64of20160116.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] bb05d0db2be7a7bfa237037409a536ec
+[i]CRC32 Checksum:[/i] 9AEA3E4D
+
+[b]pineapple64of20160116v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 90b51d93c1201d7aeac9f033e6bcc704
+[i]CRC32 Checksum:[/i] 21863E55
+
+[b]pineapple64of20160117.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] ce3ed16852b0695ef9a7e2a67c36f9f2
+[i]CRC32 Checksum:[/i] 4D338B73
+
+[b]pineapple64of20160118.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 28ee833f7d2e72808f3a07bc3c8a13dd
+[i]CRC32 Checksum:[/i] 145D5C43
+
+[b]pineapple64of20160120.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] fb5e4cd0d4c6cf1e3ffc7eaa43114bda
+[i]CRC32 Checksum:[/i] 35205501
+
+[b]pineapple64of20160121.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 91680df534ad071f87a4727c544ab43a
+[i]CRC32 Checksum:[/i] D3EB148C
+
+[b]pineapple64of20160127.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] aa823e597964a6e6315756e36180e672
+[i]CRC32 Checksum:[/i] C5533466
+
+[b]pineapple64of20160129.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] e76585e78c32390fd8b21f0ae54a3578
+[i]CRC32 Checksum:[/i] DC54BD78
+
+[b]pineapple64of20160215.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c86ddb5209bcf94694fc34a7c50568c4
+[i]CRC32 Checksum:[/i] AF8864E5
+
+[b]pineapple64of20160315.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c81e121e78b63137305b9098bb5a2ad9
+[i]CRC32 Checksum:[/i] E40BFA61
+
+[b]realdanger.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 7f24d116d3364b73df82210c4b53d7f8
+[i]CRC32 Checksum:[/i] 05D5690D
+
+[b]SD Gundam - Dimension War (Japan) [T-En by Benjamin Stevens v1.0].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 45825104799b74d36740d486f3f0cdf2
+[i]CRC32 Checksum:[/i] DB4DA3D9
+
+[b]simple walking animation.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 1012a14db2b9b43539a2605f1a8596a8
+[i]CRC32 Checksum:[/i] 8CFA533D
+
+[b]simple walking animation_pad.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 52499ce9d6a91364e15683055504a6a7
+[i]CRC32 Checksum:[/i] A8FFCE33
+
+[b]Snatcher.Demo.1.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 2999c7db49198890d5f1d4002563804e
+[i]CRC32 Checksum:[/i] 1AFBB29C
+
+[b]sndngnex_pad.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 8b2052240e72bee65ed005e1c67d4dcc
+[i]CRC32 Checksum:[/i] 4565652A
+
+[b]SOVIET UNION 2010 (2010)(Matej Horvat)(2010-11-14).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] d1ac7aef8f278c81672b11bb6e0e260b
+[i]CRC32 Checksum:[/i] 63166E19
+
+[b]Soviet Union 2010 alpha 2010-08-12.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 48bc8c23c8c74fde88ee2fa1bb5a5a8f
+[i]CRC32 Checksum:[/i] 968BC868
+
+[b]Soviet Union 2010 alpha2 2010-10-03.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 74cc1621b5e41c0a39290709f88bfc34
+[i]CRC32 Checksum:[/i] F18D2859
+
+[b]Soviet Union 2010 by MH.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c4cd96ad95ad9521d6516b459ca1dc54
+[i]CRC32 Checksum:[/i] 1E36D2C2
+
+[b]Soviet Union 2011 1.2 06-07-2012.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 7209a6bd5d788f12e97b9247d28197ce
+[i]CRC32 Checksum:[/i] 3A2E0413
+
+[b]Space Squash (English) Version 2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 583b2aed0abada1f0ad15408baa15eb9
+[i]CRC32 Checksum:[/i] 2508BD6D
+
+[b]Space Squash (English).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] d48be93b5ab341f7cd5770583467aa7b
+[i]CRC32 Checksum:[/i] 34C1DDB2
+
+[b]SpaceSquash [o].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c257aa8e805afa40506b521e2d03458e
+[i]CRC32 Checksum:[/i] F17BE1A2
+
+[b]SpaceSquash.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] be26f5fc9520d52e50760e791de4b86c
+[i]CRC32 Checksum:[/i] 72217B9F
+
+[b]speedy.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 41034442995ea05657b2f96d07997136
+[i]CRC32 Checksum:[/i] D2F560E7
+
+[b]StarFox (2014).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] d6df73b477a8408da74c6d79dcaa0d0a
+[i]CRC32 Checksum:[/i] 5475859B
+
+[b]Starwars.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 7bbb621d7e53de01f94b638e070c218d
+[i]CRC32 Checksum:[/i] D0DF0272
+
+[b]sysreg.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 92fc8b97c07b1160bd0acd243ee1262a
+[i]CRC32 Checksum:[/i] 41282435
+
+[b]test Board Game.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] e428df8398f8c4494d5f13aee6756ba2
+[i]CRC32 Checksum:[/i] BD9A158A
+
+[b]third.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 67ec9f832291618031805827841b1f23
+[i]CRC32 Checksum:[/i] D9BB7673
+
+[b]tic tac toe ten 2010-05-16 v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 851ff0bc208979c133505d975e40c645
+[i]CRC32 Checksum:[/i] 67E8667F
+
+[b]tic tac toe ten 2010-05-16.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 4dd69f5fa04a6b10ca847a802d93fa3b
+[i]CRC32 Checksum:[/i] 63EA2E3E
+
+[b]tic tac toe ten 2010-05-17 v2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 98ca9bfb52abeda63f2b5bee4d23a47e
+[i]CRC32 Checksum:[/i] 0C8D961F
+
+[b]tic tac toe ten 2010-05-17.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 381d46c19ec252e99075f695363a0d34
+[i]CRC32 Checksum:[/i] 38E56560
+
+[b]tic tac toe ten 2010-05-18.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 7f7e6c3f3d77db9f1658994950f3135f
+[i]CRC32 Checksum:[/i] E23CC852
+
+[b]tic tac toe ten 2010-05-19.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 786b97af52c9d1d3923bba45dcd9e4b5
+[i]CRC32 Checksum:[/i] 4B9E9520
+
+[b]tic tac toe ten 2010-05-20.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 4b7480dbfc59a7055128d70a6dc05760
+[i]CRC32 Checksum:[/i] CA050C83
+
+[b]tic tac toe ten 2010-05-21.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 674b1c87dd4c692b31d657aceded299b
+[i]CRC32 Checksum:[/i] 338A5A3F
+
+[b]tic tac toe ten 2010-05-22.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] f3a1c85a886ab680591cd6a73dd076e2
+[i]CRC32 Checksum:[/i] AE34D21F
+
+[b]tic tac toe ten 2010-05-23.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 7e676db0454a6226ef43128d1a8ab59e
+[i]CRC32 Checksum:[/i] A50EA394
+
+[b]tron.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 0ab33db88ee41f540d968127dc55fa50
+[i]CRC32 Checksum:[/i] 14EE3F7D
+
+[b]tt 2010-05-31.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 4f29265348a320b3429e0fe8c3b89af9
+[i]CRC32 Checksum:[/i] 9A126EE1
+
+[b]ttt.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] ed4a33d5767955f5798394c4445d08b0
+[i]CRC32 Checksum:[/i] C548919F
+
+[b]ump.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] eade09fee184a9951e5113a2c5a77f39
+[i]CRC32 Checksum:[/i] D53B35D6
+
+[b]ustest.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c8cba3bed365d1b02bb233db5fc7e53e
+[i]CRC32 Checksum:[/i] 78D70A02
+
+[b]value demo KR155E.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 7eb03d6da9a4e4af14454cf9c75d71c1
+[i]CRC32 Checksum:[/i] F4EFAA95
+
+[b]vbdemo_pad.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 085380019d99bfb388f178da18271f0e
+[i]CRC32 Checksum:[/i] CE3BCCCD
+
+[b]VBJaEngine Platformer Demo 2006-01-06 (Debug).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 4743988ed81a4466aabb81f342e90f9f
+[i]CRC32 Checksum:[/i] 03387AD3
+
+[b]VBJaEngine Platformer Demo 2006-01-06.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 8e54e41004171784c34be65b7f090bc3
+[i]CRC32 Checksum:[/i] 9727BB76
+
+[b]VBJaEngine Platformer Demo 2016-03-03 (Debug).vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 9cd3f44dfa81bbfea208bb1ac30318d8
+[i]CRC32 Checksum:[/i] 3CB38DEC
+
+[b]VBJaEngine Platformer Demo 2016-03-03.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] f0c78dd09077e992face203d40abeed5
+[i]CRC32 Checksum:[/i] D942341E
+
+[b]vbpcm.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 68da19f5603436c6b097bbae614c974f
+[i]CRC32 Checksum:[/i] 953DB6F2
+
+[b]Virtual Fall Coding Competition Multicard by thunderstruck (PD) [2014-03-04].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 2951c7df5238431d54dd5b21ddc46cdd
+[i]CRC32 Checksum:[/i] 90323005
+
+[b]Virtual Fishing (Japan) [tr Eng v0.1].vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] cc364873ab1c61760def3358b3dabc9f
+[i]CRC32 Checksum:[/i] D92ED92C
+
+[b]Virtual League Baseball (USA)_select any team.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] c6911dbbfac4825652f0b07dc12c0026
+[i]CRC32 Checksum:[/i] F809D381
+
+[b]vsuworkshop.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] d80ccadddc8634d27fa9f1d0addbd5c6
+[i]CRC32 Checksum:[/i] 07CCD213
+
+[b]vsuworkshop2.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 293a04cf8f23c77c2324cbd1c8bee4a0
+[i]CRC32 Checksum:[/i] D3BF9E93
+
+[b]wavonvb.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] f76be22e500f25f512432d426809ee8b
+[i]CRC32 Checksum:[/i] 3813A427
+
+[b]xmas.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] f9e6512c904899cf0dfda2ba4c6ce5be
+[i]CRC32 Checksum:[/i] 8D6BBC09
+
+[b]zpace_racers.vb [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 16c481c4da540d8f36f1fd1ddbbec619
+[i]CRC32 Checksum:[/i] 100902AA
+

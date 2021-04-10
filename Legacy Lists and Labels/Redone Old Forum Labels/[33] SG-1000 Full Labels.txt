@@ -1,0 +1,1706 @@
+These are formatted for forum use. [img=https://retroachievements.org/Images/labels/linkedfiles.png'] can 
+be posted at the top of the list. Roms used to make the set can be labeled using 
+[img=https://retroachievements.org/Images/labels/main.png] Standard placement is between the [b] 
+and the filename. Entries that have more than one rom linked may be numbered for 
+clarity. You may look up existing forum posts for reference. 
+
+
+[b]007 James Bond (Japan) (v2.6) (Othello Multivision).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]007 James Bond (J) (MV) (V2.6).mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]007 James Bond v2.6 (1984)(Tsukuda Original)(JP)[40K].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]007 james bond [v2.6] [40k map].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] deaa6e9f7bef3a7af55c6e899967bf79
+[i]CRC32 Checksum:[/i] A8B5B57F
+
+[b]007 James Bond (Japan) (v2.7) (Othello Multivision).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]007 James Bond (J) (MV) (V2.7).mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]007 James Bond v2.7 (1984)(Tsukuda Original)(JP).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]james bond 007 (japan) (v2.7) (om).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] b2ac0c7755e0d6ba0a737861ee190a53
+[i]CRC32 Checksum:[/i] 90160849
+
+[b]007 James Bond (Taiwan) (Othello Multivision).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]007 James Bond (T) (MV) (V2.7).mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]007 James Bond (1984)(Aaronix)(TW).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]james bond 007 (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 019ccca4d5ca138719497c510dea926b
+[i]CRC32 Checksum:[/i] 76D6C64D
+
+[b]Bank Panic (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Bank Panic (J) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Bank Panic (1985)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]bank panic (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 47cd2d0bbcb879302f83f2f7058f49d4
+[i]CRC32 Checksum:[/i] D8A87095
+
+[b]Bank Panic (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Bank Panic (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Bi Li Da Dao (1984)(Aaronix)(TW)[AKA Bank Panic].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]bank panic (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 11a5694d472766fed9c6eb1e09a851bf
+[i]CRC32 Checksum:[/i] BD43FDE4
+
+[b]Black Onyx, The (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Black Onyx, The (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Black Onyx, The (1987)(Bullet-Proof Software - Sega)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]black onyx, the (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] d2b0524a2cf5754c0fa1c900e9ecb06b
+[i]CRC32 Checksum:[/i] 26ECD094
+
+[b]Bomb Jack (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Bomb Jack (JA) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Bomb Jack (1985)(Sega - Tehkan).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]bomb jack (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 0bf5b6959fc1b58d8e37f9647f47a0b3
+[i]CRC32 Checksum:[/i] EA0F2691
+
+[b]Bomb Jack (Taiwan) (Chinese Logo).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Bomb Jack (Chinese Logo) (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Bomb Jack (198x)(Sega - Tehkan)(TW)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]bomb jack [chinese logo] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] a50378abe2636c5c47966b74a14dd127
+[i]CRC32 Checksum:[/i] DEB213FE
+
+[b]Bomb Jack (Taiwan) (English Logo).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Bomb Jack (English Logo) (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Bomb Jack (198x)(Sega - Tehkan)(TW)(en)[a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]bomb jack [english logo] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 8db486c33c7d688bd5c0e9a81dee2d29
+[i]CRC32 Checksum:[/i] CDA3A335
+
+[b]Bomberman Special (Taiwan) (DahJee).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Hongzha Dui (1986)(DahJee)(TW)[AKA Bomberman Special].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Bomberman Special [DahJee] (TW).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]bomberman special [dahjee] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] cd87c1a8cd8bc137673a7fb057e2142e
+[i]CRC32 Checksum:[/i] CE5648C3
+
+[b]Bomberman Special (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Bomberman Special (1986)(DahJee)(TW)[AKA Baopo Dui].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Bomberman Special (TW).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]bomberman special (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 25044d56bc18ad8b66a726c2f9d0b26b
+[i]CRC32 Checksum:[/i] 69FC1494
+
+[b]Borderline (Japan, Europe).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Borderline (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Borderline (1983)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]borderline (japan, europe).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 25c742e43bc9f1329f3f26502fefb10a
+[i]CRC32 Checksum:[/i] 0B4BCA74
+
+[b]Castle, The (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Castle, The (J) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Castle, The (1986)(ASCII - Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mpr-10159.ic1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] d047c10d6b27cf34ccb66340a089523a
+[i]CRC32 Checksum:[/i] 092F29D6
+
+[b]Castle, The (Taiwan) (MSX).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Mowan Migong - The Castle (1986)(DahJee)(TW)[MSX port].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Castle, The [MSX] (TW).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]castle, the [msx] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] a85ec287bb4151875446c245750fb8c0
+[i]CRC32 Checksum:[/i] 2E366CCF
+
+[b]Chack'n Pop (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Chack'n Pop (J) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Chack'n Pop (1985)(Sega - Taito).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]chack'n pop (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 286ba24b335a1600dfc611a0a9fe7875
+[i]CRC32 Checksum:[/i] D37BDA49
+
+[b]Chack'n Pop (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Chack'n Pop (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Chack'n Pop (198x)(Sega - Taito)(TW)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]chack'n pop (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 64c1a50fb9f0293d7143d53579e2e62f
+[i]CRC32 Checksum:[/i] D81A72CE
+
+[b]Challenge Derby (Japan) (vA) (16kB) (Othello Multivision).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Challenge Derby (J) (MV) (V1.0).mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]challenge derby [16k].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] e8698b111a3548088932fd4528316a1d
+[i]CRC32 Checksum:[/i] C91551DA
+
+[b]Challenge Derby (Japan) (vA) (40kB) (Othello Multivision).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Challenge Derby (J) (SG-1000) (V1.0) (40K).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]challenge derby [40k].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] c992629aced299a29d65026178a582d8
+[i]CRC32 Checksum:[/i] 02BC891F
+
+[b]Challenge Derby (Japan) (vB) (Othello Multivision).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Challenge Derby (J) (MV) (V1.1) (40K).mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]challenge derby [ver.b] [40k].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 5fac8915a1c8a84bdfcdbe4611f4652d
+[i]CRC32 Checksum:[/i] C5F014DC
+
+[b]Champion Baseball (Japan) (16kB).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Baseball (J) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Baseball (1983)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mpr-6381.ic1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] f70d4bcf91d3ad9313f9800f35b49536
+[i]CRC32 Checksum:[/i] 5970A12B
+
+[b]Champion Baseball (Japan) (40kB).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Baseball (J) (SG-1000) (40K).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Baseball (1983)(Alpha Denshi - Sega)(JP)[40K].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]champion baseball [40k].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 308e337a863bb9fa952426ef99180aa7
+[i]CRC32 Checksum:[/i] C0C16FA7
+
+[b]Champion Baseball (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Baseball (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Baseball (1985)(Aaronix)(TW)[16K][AKA Shijie Bangqiu Sai].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]champion baseball [16k] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] ec2d21452b4cbb6b302e9319fdab7e39
+[i]CRC32 Checksum:[/i] 677E6878
+
+[b]Champion Billiards (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Billards (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Billards (1986)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]champion billiards (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 71c32b1cf1e85d217421068ac8ccc655
+[i]CRC32 Checksum:[/i] 62B21E31
+
+[b]Champion Billiards (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Billards (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Billards (198x)(Sega)(TW)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]champion billiards (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 256a6d4bd6dbbe7aa99de513eac6ba2f
+[i]CRC32 Checksum:[/i] 56D85BD4
+
+[b]Champion Boxing (Japan) (MyCard).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Boxing (J) (SG-1000) (V1.1).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Boxing (1984)(Sega)(JP)(en)[Card].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]champion boxing (japan) (mycard).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 7527098abb9df1db29ba9f495b06998a
+[i]CRC32 Checksum:[/i] F8B2AC1D
+
+[b]Champion Boxing (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Boxing (J) (SG-1000) (V1.0) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Boxing (1984)(Sega)(JP)(en)[Cartridge].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mpr-6100.ic1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 3f54756fd73c3fbe33b56d7954d12f31
+[i]CRC32 Checksum:[/i] 26F947D1
+
+[b]Champion Boxing (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Boxing (T) (SG-1000) (V1.0).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Boxing (1984)(Aaronix)(TW)[cart][AKA Quan Wang Zheng Ba Zhan].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]champion boxing (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 3e346c6137cab263643e42411f64a74d
+[i]CRC32 Checksum:[/i] 15D2CE33
+
+[b]Champion Golf (Japan) (MyCard).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Golf (J) (SG-1000) (V1.1).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Golf (1983)(Logitec - Sega)[Card].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]champion golf [card].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 3c01bb2a4414989378c252f45a4e5050
+[i]CRC32 Checksum:[/i] 5A904122
+
+[b]Champion Golf (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Golf (J) (SG-1000) (V1.0).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Golf (1983)(Logitec - Sega)[Cartridge].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mpr-5435.ic1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 1d87490269964239b64244fcabd18fe1
+[i]CRC32 Checksum:[/i] 868419B5
+
+[b]Champion Ice Hockey (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Ice Hockey (J) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Ice Hockey (1985)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]champion ice hockey (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] b3af58c60e62bb85522ddc29096cef60
+[i]CRC32 Checksum:[/i] BDC05652
+
+[b]Champion Ice Hockey (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Ice Hockey (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Ice Hockey (198x)(Sega)(TW)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]champion ice hockey (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 1b4badba14b7cca71f159f1ce9fba29e
+[i]CRC32 Checksum:[/i] C6E5192F
+
+[b]Champion Kendou (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Kendou (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Kendou (1986)(Sega)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]champion kendou (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] ed6e4e8e081b56be488f57abcb51a7e5
+[i]CRC32 Checksum:[/i] 10CDEBCE
+
+[b]Champion Kendou (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Kendou (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Kendou (198x)(Sega)(TW)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]champion kendou (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] c19ccd8e05e8230d91a8d2c8430d23bc
+[i]CRC32 Checksum:[/i] A5F61363
+
+[b]Champion Pro Wrestling (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Pro Wrestling (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Pro Wrestling (1985)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]champion pro wrestling (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] da9a4589303370e8a751c16b2cbfa628
+[i]CRC32 Checksum:[/i] 372FE6BC
+
+[b]Champion Soccer (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Soccer (J) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Soccer (1984)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]champion soccer (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 810064687e1614b6a7fb985b82806d31
+[i]CRC32 Checksum:[/i] 6F39719E
+
+[b]Champion Soccer (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Soccer (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Soccer (1984)(Aaronix)(TW)[AKA Zuqiu Wang].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]champion soccer (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] f29b59c3588e3b952e1ad79c1e1dc8a0
+[i]CRC32 Checksum:[/i] 269C1AEE
+
+[b]Champion Tennis (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Champion Tennis (JE) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Tennis (1983)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mpr-5439.ic1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 79e8f456fae5d3719731e960c9b4c612
+[i]CRC32 Checksum:[/i] 7C663316
+
+[b]Championship Lode Runner (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Championship Lode Runner (JA) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Championship Lode Runner (1985)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]championship lode runner (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] f49d9ea611ccb9289994774406f20d06
+[i]CRC32 Checksum:[/i] 11DB4B1D
+
+[b]Championship Lode Runner (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Championship Lode Runner (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Lode Runner II (198x)(Sega)(TW)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]championship lode runner (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 9b1cc0bdbdf3aeffc655a965dec4aa94
+[i]CRC32 Checksum:[/i] EC95EBCB
+
+[b]Choplifter (Japan) (Beta).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Choplifter (J) (SG-1000) (Prototype) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Choplifter v613 (1985)(Sega)(JP)(en)(beta).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]choplifter (japan) (proto).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 0500fe7f7cbda7a9ec19be1094aa67dd
+[i]CRC32 Checksum:[/i] FF435469
+
+[b]Choplifter (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Choplifter (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Choplifter (1985)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]choplifter (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] ee557c7811f03c44965a56b80801a3b9
+[i]CRC32 Checksum:[/i] 732B7180
+
+[b]Choplifter (Korea).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Choplifter (K) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Choplifter (1985)(Sega)(KR).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]choplifter (kr).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 1ef268192df49e92d1f074e1bc3200dd
+[i]CRC32 Checksum:[/i] 954D8F26
+
+[b]Choplifter (Taiwan) (Chinese Logo).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Choplifter (T) (SG-1000) (Chinese Logo).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Choplifter (198x)(Sega)(TW)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]choplifter [chinese logo] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] ab4105fd66e149e2bfbd5e5566e6aa76
+[i]CRC32 Checksum:[/i] 746A8D86
+
+[b]Choplifter (Taiwan) (English Logo).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Choplifter (T) (SG-1000) (English Logo).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Choplifter (198x)(Sega)(TW)(en)[a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]choplifter [english logo] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] dac1f7d97039682793378fdba7ee2d8e
+[i]CRC32 Checksum:[/i] 7C603987
+
+[b]Choplifter (Taiwan) (No Logo).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Choplifter (T) (SG-1000) (No Logo).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Choplifter (198x)(Sega)(TW)(en)[a2].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]choplifter [no logo] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 3427ae928bce91b314e62be92dbf8446
+[i]CRC32 Checksum:[/i] 825E1AAE
+
+[b]Chuugaku Hisshuu Eibunpou (Chuugaku 1-Nen) (Japan) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] 9c83442fcefbef11bad9d6e35363be0c
+[i]CRC32 Checksum:[/i] 345C8BC8
+
+[b]Chuugaku Hisshuu Eibunpou (Chuugaku 2-Nen) (Japan) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] 800431864400c33ac40a1f1b88c1afb9
+[i]CRC32 Checksum:[/i] D4C473B2
+
+[b]Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen) (Japan) (16kB) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] 772e1bace3a92c45aa266ba407b3a0b3
+[i]CRC32 Checksum:[/i] 9BAFD9E9
+
+[b]Chuugaku Hisshuu Eisakubun (Chuugaku 1-Nen) (Japan) (40kB) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] b8c0c4c3c05699374d7707688e0fdfb1
+[i]CRC32 Checksum:[/i] 975106B6
+
+[b]Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen) (Japan) (16kB) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] 1041cb5d0498a469ff7355888e1fa91d
+[i]CRC32 Checksum:[/i] 581DCE41
+
+[b]Chuugaku Hisshuu Eisakubun (Chuugaku 2-Nen) (Japan) (40kB) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] b23a6d9bafe9b2883119a943778a0503
+[i]CRC32 Checksum:[/i] 3657B285
+
+[b]Chuugaku Hisshuu Eitango (Chuugaku 1-Nen) (Japan) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] ef11524a58bb18415856d625a0ebeb9a
+[i]CRC32 Checksum:[/i] 6CCB297A
+
+[b]Chuugaku Hisshuu Eitango (Chuugaku 2-Nen) (Japan) (16kB) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] 7b5c610ed285ef4e1c62521df9533806
+[i]CRC32 Checksum:[/i] 8507216B
+
+[b]Chuugaku Hisshuu Eitango (Chuugaku 2-Nen) (Japan) (40kB) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] 477da1d7693a05b7a62100663cced631
+[i]CRC32 Checksum:[/i] 4F599483
+
+[b]Congo Bongo (Japan) (Rev 1) (40kB).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Congo Bongo (J) (SG-1000) (V1.1) (40K).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Congo Bongo v1 (1983)(Sega)(EU-JP)[40K].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]congo bongo [v1] [40k map].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] a0620fb61aa7d023ca52c5eee559832f
+[i]CRC32 Checksum:[/i] F1506565
+
+[b]Congo Bongo (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Congo Bongo (J) (SG-1000) (V1.0) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Congo Bongo v0 (1983)(Sega)(JP).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]congo bongo [v0].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 35aa60be1827402f86065e226888fb44
+[i]CRC32 Checksum:[/i] 5EB48A20
+
+[b]Congo Bongo (Japan, Europe) (Rev 1).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Congo Bongo (J) (SG-1000) (V1.1).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Congo Bongo v1 (1983)(Sega)(EU-JP).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]congo bongo [v1].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 5f4d3c629e37e83794233b3cffc4cc0e
+[i]CRC32 Checksum:[/i] 5A24C7CF
+
+[b]C_So! (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]C_So! (J) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]C_So! (1985)(Pony - Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]c_so! (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] d87daad7de33105d703b613052ccc2dd
+[i]CRC32 Checksum:[/i] BE7ED0EB
+
+[b]C_So! (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]C_So! (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]C_So! (198x)(Pony - Sega)(TW)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]c_so! (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 25ac91afc22f7a09ff4543af653cd281
+[i]CRC32 Checksum:[/i] 82C4E3E5
+
+[b]Dokidoki Penguin Land (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Doki Doki Penguin Land (J) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Doki Doki Penguin Land (1985)(Sega)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]dokidoki penguin land (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 79f15598828e697e75c65130262d8d94
+[i]CRC32 Checksum:[/i] 346556B9
+
+[b]Dragon Wang (Japan) (Alt 1).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Dragon Wang (J) (SG-1000) (V1.1).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Dragon Wang (1985)(Sega)(JP)(en)[a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]dragon wang (japan) (alt).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 0528eed7e7ae46ec8298098f1a22d18f
+[i]CRC32 Checksum:[/i] 60F30138
+
+[b]Dragon Wang (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Dragon Wang (J) (SG-1000) (V1.0).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Dragon Wang (1985)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]dragon wang (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 64d3cc8117292f6d5af8e1aad95bcb90
+[i]CRC32 Checksum:[/i] 99C3DE21
+
+[b]Dragon Wang (Taiwan) (Chinese Logo).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Dragon Wang (T) (SG-1000) (Chinese Logo).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Jing wu men (19xx)(Chia-Ling Corp - Sega)(TW)(en-zh).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]dragon wang (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] ea0c028dabd39961eb2db8f2f17c107d
+[i]CRC32 Checksum:[/i] 7C7D4397
+
+[b]Dragon Wang (Taiwan) (English Logo).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Dragon Wang (T) (SG-1000) (English Logo).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Jing Wu Men (1985)(Aaronix)(TW)[english title][AKA Dragon Wang].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]dragon wang [v0] [english logo] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 0dc1cde8eea986eee30c038f18a996d7
+[i]CRC32 Checksum:[/i] 6F94E5C0
+
+[b]Drol (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Drol (JA) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Drol (1985)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]drol (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 8eb2ab42d2bc3f3568e85cba2b46a251
+[i]CRC32 Checksum:[/i] 288940CB
+
+[b]Drol (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Drol (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Drol (1985)(Aaronix)(TW)[AKA Jiunan Xiao Yingxiong].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]drol (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 0423892eefd3d09a7102651f8980cc39
+[i]CRC32 Checksum:[/i] B7FC033D
+
+[b]Elevator Action (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Elevator Action (JK) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Elevator Action (1985)(Sega - Taito)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]elevator action (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 23c751fe6bb8bd4f8c0cd9b0d39adecd
+[i]CRC32 Checksum:[/i] 5AF8F69D
+
+[b]Elevator Action (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Elevator Action (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Die Dui Die (1985)(Aaronix)(TW)[AKA Elevator Action].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]elevator action (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 3787826f22b244b48933f177306706b0
+[i]CRC32 Checksum:[/i] 6846E36D
+
+[b]Exerion (Japan, Europe).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Exerion (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Exerion (1983)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mpr-5692.ic1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 7f0ae039dd072d825ebfd2d3bf02a2a0
+[i]CRC32 Checksum:[/i] A2C45B61
+
+[b]Exerion (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Exerion (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Exerion (1983)(Aaronix)(TW)[AKA Diqiu Baowei Zhan].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]exerion (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] c8519ef63183e8398dde0bd3e7e2641e
+[i]CRC32 Checksum:[/i] B5C84A32
+
+[b]Flicky (Japan) (Rev 1).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Flicky (J) (SG-1000) (V1.1).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Flicky Rev 1 (1984)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]flicky [v1].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 0bb6d2a43b340f56366edabd7e21fed4
+[i]CRC32 Checksum:[/i] 26D2862C
+
+[b]Flicky (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Flicky (J) (SG-1000) (V1.0) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Flicky Rev 0 (1984)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]flicky (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] b52e308e1c0005bc1dba2ba900ad44d0
+[i]CRC32 Checksum:[/i] BD24D27B
+
+[b]Flicky (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Flicky (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Flicky v1 (1984)(Aaronix)(TW)[AKA E Mao Zhua Xiao Ji].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]flicky (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 5d4c4c65e668196a3d0eadcd260a0bf6
+[i]CRC32 Checksum:[/i] CD0666A7
+
+[b]Flipper (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Sega Flipper (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Flipper (1984)(Aaronix)(TW)[AKA Sega Flipper][AKA Pili Dan].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]sega flipper (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 3cfec6aa7bfdf81b40b7ee6d630f5c03
+[i]CRC32 Checksum:[/i] 042C36BA
+
+[b]Galaga (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Sega Galaga (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Galaga (1983)(Aaronix)(TW)[AKA Sega-Galaga][AKA Mifeng Er Dai].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]galaga (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 7e31ffe1446d6b792d0debf87bcc3f75
+[i]CRC32 Checksum:[/i] 845BBB22
+
+[b]Girl's Garden (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Girl's Garden (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Girl's Garden (1984)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]girl's garden (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] ac95c0655360f667e3ad705e2eb7367a
+[i]CRC32 Checksum:[/i] 1898F274
+
+[b]Girl's Garden (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Girl's Garden (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Girl's Garden (1984)(Aaronix)(TW)[AKA Meiren Hui Yingxiong].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]girl's garden (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 83065f5045611f3d6d7b67382357dcc6
+[i]CRC32 Checksum:[/i] B9635AC4
+
+[b]Golgo 13 (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Golgo 13 (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Golgo 13 (1984)(Saito - Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]golgo 13 (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] cb25a12e86c729f6a51ba3dea91c1547
+[i]CRC32 Checksum:[/i] 0D159ED0
+
+[b]GP World (Japan) (Rev 1).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]GP World (J) (SG-1000) (V1.1) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GP World Rev 1 (1985)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]gp world (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 19707d73ce1a664cba608e9c72e334c2
+[i]CRC32 Checksum:[/i] 191FFE0A
+
+[b]GP World (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]GP World (JT) (SG-1000) (V1.0).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GP World Rev 0 (1985)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mpr-6485.ic1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 4d9cc3764321b668d1fc238e19794312
+[i]CRC32 Checksum:[/i] 942ADF84
+
+[b]GP World (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]GP World (T) (SG-1000) (V1.0).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]GP World v0 (1985)(Aaronix)(TW)[AKA Fengkuang Da Saiche].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]gp world (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 5a533ddf9c0c72c57376ea151ece1c03
+[i]CRC32 Checksum:[/i] F19F7548
+
+[b]Gulkave (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Gulkave (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Gulkave (1986)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]gulkave (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 43c23a134aec3ab424405780ff729d54
+[i]CRC32 Checksum:[/i] 15A754A3
+
+[b]Guzzler (Japan) (Othello Multivision).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Guzzler (J) (MV) [!].mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Guzzler (1983)(Tehkan - Tsukuda Original)(JP).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]guzzler (japan) (om).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] f3f1042745e96e29bfdf920d031b8cd5
+[i]CRC32 Checksum:[/i] 61FA9EA0
+
+[b]Guzzler (Taiwan) (Othello Multivision).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Guzzler (T) (MV).mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Guzzler (1983)(Aaronix)(TW)[AKA Shui Jingling].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]guzzler (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 36548be02803aa49fe0e918626e240c1
+[i]CRC32 Checksum:[/i] EB808158
+
+[b]H.E.R.O. (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]H.E.R.O. (J) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]H.E.R.O. (1985)(Activision - Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]h.e.r.o. (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] d10f38c614113cb34bbf4a19b487e1fb
+[i]CRC32 Checksum:[/i] 4587DE6E
+
+[b]H.E.R.O. (Taiwan) (Chinese Logo).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]H.E.R.O. (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]H.E.R.O. (198x)(Activision - Sega)(TW)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]h.e.r.o. (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 6136e2e6dda483cb311c72843c2ee5cd
+[i]CRC32 Checksum:[/i] 83958998
+
+[b]H.E.R.O. (Taiwan) (English Logo).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]H.E.R.O. (1985)(Aaronix)(TW)[english logo].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]H.E.R.O. [english logo] (TW).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]H.E.R.O. [english logo] (TW).sg [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 89be9de818fa13dca0ececd6575af06a
+[i]CRC32 Checksum:[/i] 96F09C6D
+
+[b]Hang-On II (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Hang-On II (JK) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Hang-On II (1985)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]hang-on ii (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 314c865decbe6f578d9bfa23f27a08e6
+[i]CRC32 Checksum:[/i] 9BE3C6BD
+
+[b]Hang-On II (Taiwan) (Chinese Logo).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Hang-On II (T) (SG-1000) (Chinese Logo).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Hang-On II (198x)(Sega)(TW)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]hang-on ii [chinese logo] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 21b077d68d38be01837d534b0c1be2e9
+[i]CRC32 Checksum:[/i] E98A111E
+
+[b]Hang-On II (Taiwan) (English Logo).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Hang-On II (T) (SG-1000) (English Logo).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Hang-On II (198x)(Sega)(TW)(en)[a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]hang-on ii [english logo] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] ebe4433a6250abd81be69f15b41c566c
+[i]CRC32 Checksum:[/i] CABD451B
+
+[b]Home Basic (Japan) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]home basic (jp).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] cb724ebeaec9619281a906671c98a952
+[i]CRC32 Checksum:[/i] 78A37CBC
+
+[b]Home Mahjong (Japan) (Rev 1).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Home Mahjong (J) (SG-1000) (V1.1).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Home Mahjong Rev 1 (1984)(Sega)(JP).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]home mahjong (japan) (v1.1).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 33c4b489f61086c10e9f713519ddc7bc
+[i]CRC32 Checksum:[/i] E7E0F0E3
+
+[b]Home Mahjong (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Home Mahjong (J) (SG-1000) (V1.0).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Home Mahjong Rev 0 (1984)(Sega)(JP).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]home mahjong (japan) (v1.0).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] d7322428a4fb49ac593f80f30d3c7bd3
+[i]CRC32 Checksum:[/i] C9D1AE7D
+
+[b]Home Mahjong (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Home Mahjong (T) (SG-1000) (V1.1).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Yon-nin Mahjong v1 (1985)(Aaronix)(TW)[AKA Home Mahjong][AKA Si Ren Maque].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]home mahjong (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 8fab99c3cc9a7a98d8873eaf215a5fa0
+[i]CRC32 Checksum:[/i] 0583A9FA
+
+[b]Hustle Chumy (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Hustle Chummy (JK) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Hustle Chumy (1984)(Compile - Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]hustle chumy (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 8be690d357a99abd26ebb5378e9c0153
+[i]CRC32 Checksum:[/i] A627D440
+
+[b]Hustle Chumy (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Hustle Chumy (1984)(Aaronix)(TW)[AKA Wanpi Shu].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Hustle Chumy (TW).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]Hustle Chumy (TW).sg [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] c06fa11763d119620f6a908516c1e8ad
+[i]CRC32 Checksum:[/i] C4ED1FD9
+
+[b]Hyper Sports (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Hyper Sports (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Hyper Sports (1985)(Konami - Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mpr-6487.ic1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] d8e6d89d520c91a9ea219291b55284bb
+[i]CRC32 Checksum:[/i] BA09A0FD
+
+[b]Hyper Sports (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Hyper Sports (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Hyper Sports (1985)(Aaronix)(TW)[AKA Aoyun Dasai].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]hyper sports (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] f72f3def79ffd82fe2224f4732b2b994
+[i]CRC32 Checksum:[/i] 87619AC2
+
+[b]Kagaku (Gensokigou Master) (Japan) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] 4eac394fb2f19fecca410c6136a6ef00
+[i]CRC32 Checksum:[/i] F9C81FE1
+
+[b]King's Valley (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]King's Valley (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Jinzita (198x)(Aaronix)(TW)[AKA King's Valley].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]king's valley (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] ff28e684eb3952ae3f7cf3e3d1c507ef
+[i]CRC32 Checksum:[/i] 223397A1
+
+[b]Knightmare (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Moyu Chuanqi (1986)(Jumbo)(TW)[AKA Knightmare].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Knightmare [Jumbo] (TW).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]knightmare [jumbo] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] e0321cd713ec1b48ff88f7df13e3ce28
+[i]CRC32 Checksum:[/i] 281D2888
+
+[b]Legend of Kage, The (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Yingzi Chuansho (1986)(DahJee)(TW)[AKA Kage no Densetsu].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Legend of Kage, The [DahJee] (TW).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]legend of kage, the [dahjee] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] cfc8e61f51388609421ffe87539cad44
+[i]CRC32 Checksum:[/i] 2E7166D5
+
+[b]Lode Runner (Japan, Europe).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Lode Runner (JEK) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Lode Runner (1984)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mpr-5998.ic1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 4b4f02eb3cf7d5f9dcd1311d72e6d742
+[i]CRC32 Checksum:[/i] 00ED3970
+
+[b]Lode Runner (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Lode Runner (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Lode Runner (1984)(Aaronix)(TW)[AKA Xun Bao Ji].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]lode runner (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 2bea9ee88e177a13d7961017dd4f6120
+[i]CRC32 Checksum:[/i] D953BDB7
+
+[b]Magical Kid Wiz (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Magical Kid Wiz (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Magical Kid Wiz (198x)(Aaronix)(TW)[AKA Mofa Shi].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]magical kid wiz (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] c12474e0a2556adb2478bc4d99faba51
+[i]CRC32 Checksum:[/i] FFC4EE3F
+
+[b]Mahjong (Japan) (English Title).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Mahjong (J) (SG-1000) (Big Title).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Sega Mahjong (1983)(Sega)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mahjong [big 1983].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 1dbb5c85962c2110ffe35ec536f96329
+[i]CRC32 Checksum:[/i] 1C137CAB
+
+[b]Mahjong (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Mahjong (J) (SG-1000) (Small Title).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Sega Mahjong (1983)(Sega)(JP)(en-ja)[a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mahjong (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] d9da8a32bd3b18881dfa2b469c85944e
+[i]CRC32 Checksum:[/i] 6D909857
+
+[b]Mahjong (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Mahjong (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Mahjong (1983)(Aaronix)(TW)[AKA Shuangren Maque].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mahjong (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] bb8da563cb6a38611b736c4973b56e1e
+[i]CRC32 Checksum:[/i] BC823A89
+
+[b]Monaco GP (Japan) (Rev 1).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Monaco GP (J) (SG-1000) (V1.1) (32K).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Monaco GP Rev 1 (1983)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]monaco gp [32k].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 74121fd6f1024ee3d3f5d1db29956d7d
+[i]CRC32 Checksum:[/i] DA2D57F3
+
+[b]Monaco GP (Japan) (Rev 2).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Monaco GP (J) (SG-1000) (V1.2) (32K).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Monaco GP Rev 2 (1983)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]monaco gp [32k] [v2].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] cda3731948a50bb396b380f7fc82ec12
+[i]CRC32 Checksum:[/i] 02E5D66A
+
+[b]Monaco GP (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Monaco GP (J) (SG-1000) (V1.0) (40K).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Monaco GP (1983)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]monaco gp [24k].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 943bca1e51476b646f19c17a9d9ab42c
+[i]CRC32 Checksum:[/i] 8572D73A
+
+[b]Monaco GP (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Monaco GP (T) (SG-1000) (V1.1).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Monaco GP v1 (1983)(Aaronix)(TW)[AKA Monage Saiche].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]monaco gp (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] d7ab64f92c3d146565e4f9d771fec7c9
+[i]CRC32 Checksum:[/i] 01CDA679
+
+[b]Music (Japan) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] 832b5ec426da0d70c0bcd58a79ed8ae2
+[i]CRC32 Checksum:[/i] 2EC28526
+
+[b]N-Sub (Europe).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]N-Sub (E) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]N-Sub (1988)(Sega)(EU)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]n-sub (europe) (1988).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 414196527aa0979e6516f5c55d1bb8c7
+[i]CRC32 Checksum:[/i] 09196FC5
+
+[b]N-Sub (Japan) (16kB).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]N-Sub (JTE) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]N-Sub (1983)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]n-sub [16k].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 56c559d0d82a3e6fb2e87230d39f32f4
+[i]CRC32 Checksum:[/i] 652BBD1E
+
+[b]N-Sub (Japan) (40kB).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]N-Sub (J) (SG-1000) (40K).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]N-Sub (1983)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]n-sub [40k].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] cfced1ba39adee6a75dc830ed9c12f73
+[i]CRC32 Checksum:[/i] B377D6E1
+
+[b]N-Sub (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]N-Sub (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]N-Sub (1983)(Aaronix)(TW)[AKA Qianshui Dazhan].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]n-sub (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 1a800abac4c55948528d2a62771c10a9
+[i]CRC32 Checksum:[/i] 3E371769
+
+[b]Nihonshi Nenpyou (Japan) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] 1d17adcdeef7e827b7493631719adf4e
+[i]CRC32 Checksum:[/i] 129D6359
+
+[b]Ninja Princess (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Ninja Princess (JA) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Ninja Princess (1986)(Sega)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]ninja princess (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 28d83150c298bcdae6aec51cc2c6975a
+[i]CRC32 Checksum:[/i] 3B912408
+
+[b]Ninja Princess (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Ninja Princess (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Ninja Princess (198x)(Sega)(TW)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]ninja princess (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 96c1dc438a7b4269ee0d5414a6f13dc2
+[i]CRC32 Checksum:[/i] 464D144B
+
+[b]Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Okamoto Ayako no Match Play Golf (J) (MV) (V1.0).mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]okamoto ayako no match play golf [a] (jp).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 07ca24bef805f15d13d3123c765c3039
+[i]CRC32 Checksum:[/i] 547DD7FD
+
+[b]Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Okamoto Ayako no Match Play Golf (J) (MV) (V1.1).mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]okamoto ayako no match play golf [b] (jp).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 0195c955df38b55f6f12694179503f10
+[i]CRC32 Checksum:[/i] 49D3DB2C
+
+[b]Okamoto Ayako no Match Play Golf (Taiwan) (Othello Multivision).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Okamoto Ayako no Match Play Golf (T) (MV) (V1.1).mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Okamoto Ayako no Match Play Golf (19xx)(Chia-Ling Corp - Tsukuda Original)(TW)(ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]okamoto ayako no match play golf (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 009a804fb1d28775519312ffdf3c8d70
+[i]CRC32 Checksum:[/i] B60492D5
+
+[b]Orguss (Japan, Europe).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Orguss (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Orguss (1984)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mpr-5743.ic1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 0f45fa8e9b985fd5c6545645462b9400
+[i]CRC32 Checksum:[/i] F4F78B76
+
+[b]Othello (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Othello (J) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Othello (1985)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]othello (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 3f429704761d34d7793e7123a183d7f6
+[i]CRC32 Checksum:[/i] AF4F14BC
+
+[b]Othello (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Othello (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Hei Bai Qi (1985)(Aaronix)(TW)[AKA Othello].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]othello (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] aa741b3264ee312c291b2c8ab0d73a04
+[i]CRC32 Checksum:[/i] 1D1A0CA3
+
+[b]Pacar (Japan) (40kB).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Pacar (J) (SG-1000) (40K).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Pacar (1983)(Sega)(JP)[40K].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]pacar [40k map].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] c672bc2409443cc5bca35abd041d11e0
+[i]CRC32 Checksum:[/i] 19949375
+
+[b]Pacar (Japan, Europe).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Pacar (JE) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Pacar (1983)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mpr-5556.ic1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 8f46800e6fc7d5a40716045f6d739932
+[i]CRC32 Checksum:[/i] 30C52E5E
+
+[b]Pacar (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Pacar (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Pacar (1983)(Aaronix)(TW)[AKA Mi Hun Che].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]pacar (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 722da0d7454c99ba46d432ee3d003464
+[i]CRC32 Checksum:[/i] DD6817A0
+
+[b]Pachinko (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Pachinko (J) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Pachinko (1983)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]pachinko (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 37f5e516d9fbce05052204b67379a6da
+[i]CRC32 Checksum:[/i] 326587E1
+
+[b]Pachinko II (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Pachinko II (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Pachinko II (1984)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]pachinko ii (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] eadae13ff73047a47f354e258c12619e
+[i]CRC32 Checksum:[/i] FD7CB50A
+
+[b]Pachinko II (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Pachinko II (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Pachinko II (1984)(Aaronix)(TW)[AKA Bin Guo Youxi].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]pachinko ii (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] a3409283bf8c808a15095cc005a74975
+[i]CRC32 Checksum:[/i] 6EBE81BF
+
+[b]Pippols (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Pippols [Jumbo] (TW).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]pippols [jumbo] (tw).sg [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 2b99db5c8a7a9a45c174088bab310803
+[i]CRC32 Checksum:[/i] DF7CBFA5
+
+[b]Pitfall II (Taiwan) (Chinese Logo).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Pitfall II - The Lost Caverns (T) (SG-1000) (V1.0) (Chinese Logo).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Fa Gui Qibing (1985)(Aaronix)(TW)[AKA Pitfall II][chinese logo].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]pitfall ii [v0] [chinese logo] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 030363fabd71be3c077168918fcbb51d
+[i]CRC32 Checksum:[/i] 476A079B
+
+[b]Pitfall II (Taiwan) (English Logo).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Pitfall II - The Lost Caverns (T) (SG-1000) (V1.0) (English Logo).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Fa Gui Qibing (1985)(Aaronix)(TW)[AKA Pitfall II][english logo].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]pitfall ii [v0] [english logo] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 7f2026d17c336942756ffb77ad9942c5
+[i]CRC32 Checksum:[/i] 4E93BC8E
+
+[b]Pitfall II - The Lost Caverns (Japan) (Rev 1).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Pitfall II - The Lost Caverns (J) (SG-1000) (V1.1) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Pitfall II - The Lost Caverns (1985)(Activision - Sega)[a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]pitfall ii - the lost caverns (japan) (alt).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 38ae610eb6266d4db8bc6d3dcb8fcd4a
+[i]CRC32 Checksum:[/i] 3DB74761
+
+[b]Pitfall II - The Lost Caverns (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Pitfall II - The Lost Caverns (J) (SG-1000) (V1.0) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Pitfall II - The Lost Caverns (1985)(Activision - Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]pitfall ii - the lost caverns (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] c34260b61c6a45bbdd074df3f3e72c46
+[i]CRC32 Checksum:[/i] 37FCA2EB
+
+[b]Pop Flamer (Japan, Europe).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Pop Flamer (JE) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Pop Flamer (1983)(Jaleco - Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]pop flamer (japan, europe).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 7f841aa0c225662e26ca7a8df20b2eb8
+[i]CRC32 Checksum:[/i] DB6404BA
+
+[b]Pop Flamer (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Pop Flamer (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Pop Flamer (1983)(Aaronix)(TW)[AKA Jingling Shu].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]pop flamer (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] e5082018ff7cbac17db003f159ab2dfb
+[i]CRC32 Checksum:[/i] AB1DA8A6
+
+[b]Q-bert (Japan) (Othello Multivision).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Q-bert (J) (MV) [!].mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]q-bert (japan) (om).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] a768a8ae921126300e98f9d918a4a0c9
+[i]CRC32 Checksum:[/i] 77DB4704
+
+[b]Rally-X (Taiwan) (DahJee).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Du Du Che (1986)(DahJee)(TW)[AKA Rally-X].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Rally-X [DahJee] (TW).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]rally-x [dahjee] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 3071f939aaa0911fc0907aae5daaa160
+[i]CRC32 Checksum:[/i] 306D5F78
+
+[b]Rally-X (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Rally-X (1986)(DahJee)(TW)[AKA Wuzei Che].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Rally-X (TW).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]rally-x (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 42f2844dcc4b3979b7f538ef9f52e4a5
+[i]CRC32 Checksum:[/i] AAAC12CF
+
+[b]Road Fighter (Taiwan) (Jumbo).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Huojian Che (1986)(Jumbo)(TW)[AKA Road Fighter].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Road Fighter [Jumbo] (TW).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]road fighter [jumbo] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] e872bbe06fcee32e53fb9e11b61fe762
+[i]CRC32 Checksum:[/i] 29E047CC
+
+[b]Road Fighter (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Road Fighter (1986)(Jumbo)(TW)[AKA Huo Fenghuang].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Road Fighter (TW).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]road fighter (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] be975a2510125ff4b545bb162826ef26
+[i]CRC32 Checksum:[/i] D2EDD329
+
+[b]Rock n' Bolt (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Rock N' Bolt (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Rock n' Bolt (1985)(Activision - Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]rock n' bolt (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 108ffe4ba5c2c8c5e0459cb7f0cfac0e
+[i]CRC32 Checksum:[/i] 0FFDD03D
+
+[b]Rock n' Bolt (Taiwan) (Chinese Logo).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Rock N' Bolt (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Mo Tian Da Lou (1985)(Aaronix)(TW)[AKA Rock n' Bolt].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]rock n' bolt (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] f05b48934a7d29ab2719273cbdc45b28
+[i]CRC32 Checksum:[/i] 4EACB981
+
+[b]Rock n' Bolt (Taiwan) (English Logo).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Rock n' Bolt (1985)(Aaronix)(TW)[english logo].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Rock n' Bolt [english logo] (TW).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]Rock n' Bolt [english logo] (TW).sg [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 0cbbd9fafc39cccefd8d0b8fca3b3d33
+[i]CRC32 Checksum:[/i] 09A82AF7
+
+[b]Safari Hunting (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Safari Hunting (JE) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Safari Hunting (1983)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]safari hunting (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] f77826f62d943c4a24f7fb9c3bb4a5f9
+[i]CRC32 Checksum:[/i] 49E9718B
+
+[b]Safari Hunting (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Safari Hunting (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Safari Hunting (1983)(Aaronix)(TW)[AKA Conglin Lixian].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]safari hunting (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 48185bc0b8ed743c6a44f2759219b955
+[i]CRC32 Checksum:[/i] 6DC51C01
+
+[b]Safari Race (Europe).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Safari Race (E) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Safari Race (1988)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]safari race [1988].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] cac358543f85bc060918638bb594fac9
+[i]CRC32 Checksum:[/i] 619DD066
+
+[b]Safari Race (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Safari Race (JEK) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Safari Race (1984)(Sega)(JP).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mpr-5977.ic1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 8384956e456a91ca59f9c5e72f1cb1c4
+[i]CRC32 Checksum:[/i] 08707FE3
+
+[b]Safari Race (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Safari Race (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Safari Race (1984)(Aaronix)(TW)[AKA Feizhou Da Saiche].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]safari race (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] eac09096175cbb2fb49468d475fdec88
+[i]CRC32 Checksum:[/i] B2724428
+
+[b]San-nin Mahjong (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]San-Nin Mahjong (J) (MV).mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]san-nin mahjong.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] cf02277eacdf348dbde960769a0b0d55
+[i]CRC32 Checksum:[/i] 885FA64D
+
+[b]San-nin Mahjong (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]San-Nin Mahjong (T) (MV).mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]San-nin Mahjong (1984)(Aaronix)(TW)[AKA San Ren Maque].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]san-nin mahjong (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] fe641daee46a4f55aa79dcb23114971c
+[i]CRC32 Checksum:[/i] 6FD17655
+
+[b]Sega Flipper (Japan) (40kB).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Sega Flipper (J) (SG-1000) (40K).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Sega Flipper (1983)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]sega flipper [40k map].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 49c7c14879a437e60730b62a7550cdf6
+[i]CRC32 Checksum:[/i] FD76AD99
+
+[b]Sega Flipper (Japan, Europe).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Sega Flipper (JE) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Sega Flipper (1983)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]sega flipper (japan, europe).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 3f2acc9de65c8496c3d8470ef12dc210
+[i]CRC32 Checksum:[/i] 8EFC77BC
+
+[b]Sega-Galaga (Japan) (16kB).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Sega Galaga (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Sega Galaga (1983)(Namco - Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]sega-galaga (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] e2619cf7c307ac1916c534519f6043d9
+[i]CRC32 Checksum:[/i] 981E36C1
+
+[b]Sega-Galaga (Japan) (40kB).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Sega Galaga (J) (SG-1000) (40K).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Sega Galaga (1983)(Namco - Sega)(JP)[40K].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]sega-galaga [40k map].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 7f7e1d564448fdce96d239ad9ebf37d6
+[i]CRC32 Checksum:[/i] 31283003
+
+[b]Sekaishi Nenpyou (Japan) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] e2ac39e87f9a7ddb0be8cb6f6d2c0737
+[i]CRC32 Checksum:[/i] 3274EE48
+
+[b]Serizawa Hachidan no Tsumeshougi (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Serizawa Hachidan no Tsumeshogi (J) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Serizawa Hachidan no Tsumeshogi (1983)(Sega)(JP).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]serizawa hachidan no tsumeshogi (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 63713feb1c8b8da77bd2e8cf03fe0a4c
+[i]CRC32 Checksum:[/i] 545FC9BB
+
+[b]SG-1000 M2 Test Cartridge (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]SG-1000 M2 Test Cartridge (J) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]SG-1000 M2 Check Program (1984)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]sg-1000 m2 check program.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] c958ae8d0ad245ce65db5bb06b1c2c0e
+[i]CRC32 Checksum:[/i] 207E7E99
+
+[b]Shinnyushain Tooru Kun (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Shinnyushain Tooru Kun (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Shinnyuushain Tooru Kun (1985)(Sega)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]shinnyushain tooru kun (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] a8094de8e2c72e9490e421f66ba2777b
+[i]CRC32 Checksum:[/i] 5A917E06
+
+[b]Sindbad Mystery (Japan, Europe).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Sindbad Mystery (JE) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Sindbad Mystery (1983)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]mpr-5546.ic1 [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 7b0f2be3588337df59959ababbefe505
+[i]CRC32 Checksum:[/i] 01932DF9
+
+[b]Sindbad Mystery (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Sindbad Mystery (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Sindbad Mystery (1983)(Aaronix)(TW)[AKA Tianfang Ye Tan].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]sindbad mystery (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] db6b5ff4d8c8cef6d0c9f2d004f56bf6
+[i]CRC32 Checksum:[/i] 945F7847
+
+[b]Soukoban (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Soukoban (JA) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Soukoban (1985)(Sega - Thinking Rabbit)(JP)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]soukoban (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 6cae3b6286041e742020aeb3cd2bdf52
+[i]CRC32 Checksum:[/i] 922C5468
+
+[b]Soukoban (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Soukoban (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Soukoban (198x)(Sega - Thinking Rabbit)(TW)(en-ja).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]soukoban (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 417368339f45d0ede7df03c9a6f96b27
+[i]CRC32 Checksum:[/i] A2C3FC97
+
+[b]Space Armor (Japan) (v1.0) (Othello Multivision).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Space Armor (J) (v1.0) (MV) (40K).mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Space Armor v1.0 (1984)(Tsukuda Original)(JP)[40K].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]space armor [v0] [40k map].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 49587defd7dd2e6fd87e01e7f48d132f
+[i]CRC32 Checksum:[/i] D23B0E3E
+
+[b]Space Armor (Japan) (v2.0) (Newer) (Othello Multivision).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Space Armor (J) (v2.0) (MV).mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]space armor [v2].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] b6aff368af8c8e1f0ae257c519d96ca8
+[i]CRC32 Checksum:[/i] AC4F0A5C
+
+[b]Space Armor (Japan) (v2.0) (Othello Multivision).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Space Armor (JT) (v2.0) (MV).mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]space armor [v1].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 16a9d6fc4a959c84db189c59fdf39d22
+[i]CRC32 Checksum:[/i] D5FDB4A3
+
+[b]Space Invaders (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Space Invaders (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Space Invaders (1985)(Sega - Taito).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]space invaders (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 87a97b049ec01b1803b93f06d0407586
+[i]CRC32 Checksum:[/i] 6AD5CB3D
+
+[b]Space Invaders (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Space Invaders (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Space Invaders (1985)(Aaronix)(TW)[AKA Taikong Qinlue Zhan].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]space invaders (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 47359548b666e9e1b6287df5688e2fd2
+[i]CRC32 Checksum:[/i] 0760EA93
+
+[b]Space Mountain (Japan) (Othello Multivision).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Space Mountain (J) (MV) [!].mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]space mountain (japan) (om).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 2321b2a684b83d58489fda2df66ab6fb
+[i]CRC32 Checksum:[/i] BBD87D8F
+
+[b]Space Slalom (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Space Slalom (J) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Space Slalom (1983)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]space slalom (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] c04dc7fb9d27629735edb1570ec39f00
+[i]CRC32 Checksum:[/i] B8B58B30
+
+[b]Star Force (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Star Force (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Star Force (1985)(Sega - Tenkan).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]star force (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 2cbd1f9f4927f9618390340f56f116a6
+[i]CRC32 Checksum:[/i] B846B52A
+
+[b]Star Force (Taiwan) (Alt 1).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Star Force (T) (SG-1000) (V1.1).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Star Force (1985)(Aaronix)(TW)[AKA Star Wars - Xingji Dazhan].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]star force [b] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 19649d51aee49a9fef103de6b1a7a17b
+[i]CRC32 Checksum:[/i] 6F9B1CCD
+
+[b]Star Force (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Star Force (T) (SG-1000) (V1.0).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Star Force (19xx)(Chia-Ling Corp - Sega - Tenkan)(TW)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]star force (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 3011655195d3a299f3a53255e0d7939a
+[i]CRC32 Checksum:[/i] 1F736931
+
+[b]Star Jacker (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Star Jacker (J) (SG-1000) (V1.0) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Star Jacker (1983)(Sega)(JP).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]star jacker (japan) (v1.0).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] eccad04698782862f3785ff9708f73e8
+[i]CRC32 Checksum:[/i] 1AE94122
+
+[b]Star Jacker (Japan, Europe) (Rev 1).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Star Jacker (JE) (SG-1000) (V1.1) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Star Jacker Rev 1 (1983)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]star jacker (japan, europe) (v1.1).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 658ede490eae6af2b0f61dd136761d95
+[i]CRC32 Checksum:[/i] 7F25DECA
+
+[b]Star Jacker (Japan, Europe) (Rev 2).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Star Jacker (J) (SG-1000) (V1.2) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Star Jacker Rev 1 (1983)(Sega)[h].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]star jacker (japan, europe) (v1.2).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 22200ef1461212cacdc58f6636d759fd
+[i]CRC32 Checksum:[/i] 3FE59505
+
+[b]Star Jacker (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Star Jacker (T) (SG-1000) (V1.1).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Star Jacker (1983)(Aaronix)(TW)[AKA Taikong Cheng].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]star jacker [v1] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 0104171ade3cfeaf10c92926869e2a52
+[i]CRC32 Checksum:[/i] DF162201
+
+[b]Star Soldier (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Star Soldier [DahJee] (TW).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]star soldier [dahjee] (tw).sg [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] cb95017c8d13d95c91129f9b3b1f6798
+[i]CRC32 Checksum:[/i] E0816BB7
+
+[b]Super Tank (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Super Tank (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Super Tank (1986)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]super tank (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 59d01bf1093a65e9ec08e533cfbbc5ff
+[i]CRC32 Checksum:[/i] 084CC13E
+
+[b]Super Tank (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Super Tank (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Super Tank (198x)(Sega)(TW)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]super tank (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] bcb549a442584255601dc7938accd2d6
+[i]CRC32 Checksum:[/i] D0C3DF3F
+
+[b]Tank Battalion (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Tanke Dazhan (1986)(DahJee)(TW)[AKA Tank Battalion].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Tank Battalion [DahJee] (TW).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]tank battalion [dahjee] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] dada9d76f7743089811dcc8ec1543076
+[i]CRC32 Checksum:[/i] 5CBD1163
+
+[b]Tanoshii Sansuu (Shougaku 4-Nen Ge) (Japan) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] c07d87577918eee0327bf67538b6f5cc
+[i]CRC32 Checksum:[/i] 5FDE25BB
+
+[b]Tanoshii Sansuu (Shougaku 4-Nen Jou) (Japan) (16kB) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] a3e3d2b2f9250875f2d30a4b2c7197ae
+[i]CRC32 Checksum:[/i] 573E04DD
+
+[b]Tanoshii Sansuu (Shougaku 4-Nen Jou) (Japan) (40kB) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] 793bc3ca1b2cb0997cbe3457eafb15f7
+[i]CRC32 Checksum:[/i] 7C400E3B
+
+[b]Tanoshii Sansuu (Shougaku 5-Nen Ge) (Japan) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] 64280bd1e75ef922fe368dba2fe7fbcf
+[i]CRC32 Checksum:[/i] 6A96978D
+
+[b]Tanoshii Sansuu (Shougaku 5-Nen Jou) (Japan) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] b4c2518922f99c4fd6a5fa89cb24385c
+[i]CRC32 Checksum:[/i] 419D75D5
+
+[b]Tanoshii Sansuu (Shougaku 6-Nen Ge) (Japan) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] f250e5b2ddd3928211174f9992e749c5
+[i]CRC32 Checksum:[/i] D0D18E70
+
+[b]Tanoshii Sansuu (Shougaku 6-Nen Jou) (Japan) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[i]RA Checksum:[/i] b8fc10dd1cf58e342f045128c2614c3c
+[i]CRC32 Checksum:[/i] 8B5E6E1B
+
+[b]Terebi Oekaki (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Terebi Oekaki (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Terebi Oekaki (1985)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]terebi oekaki (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] be31a84bfa537117a62eaeb8c0a07bf9
+[i]CRC32 Checksum:[/i] DD4A661B
+
+[b]TwinBee (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Shuangxiang Pao (1986)(Jumbo)(TW)[AKA TwinBee].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]TwinBee [Jumbo] (TW).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]twinbee [jumbo] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 8c2c0d7e8415ae7b0c577cf947e89e78
+[i]CRC32 Checksum:[/i] C550B4F0
+
+[b]Uranai Angel Cutie (Japan) (SC-3000).sc [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]uranai angel cutie (jp).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 6dbcbfcd15bd206aca31dd2557f4e44d
+[i]CRC32 Checksum:[/i] AE4F92CF
+
+[b]Wonder Boy (Japan) (Rev 1).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Wonder Boy (J) (SG-1000) (V1.1).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Wonder Boy Rev 1 (1986)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]wonder boy [v1].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] d26fabfe84ad40ae04a2cd3dc6cf75df
+[i]CRC32 Checksum:[/i] E8F0344D
+
+[b]Wonder Boy (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Wonder Boy (JA) (SG-1000) (V1.0) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Wonder Boy Rev 0 (1986)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]wonder boy (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 76f29fee0cd3af921e488a276dace636
+[i]CRC32 Checksum:[/i] 160535C5
+
+[b]Wonder Boy (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Wonder Boy (T) (SG-1000) (V1.1).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Wonder Boy Rev 1 (198x)(Sega)(TW)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]wonder boy [v1] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] d6fab98601ade59cf90a500c05446163
+[i]CRC32 Checksum:[/i] 953FC2B2
+
+[b]Yamato (Japan) (40kB).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Yamato (J) (SG-1000) (40K).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Yamato (1983)(Sega)(EU-JP)[40K].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]yamato [40k map].bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 653d415ed202c09c08207c83f9e311eb
+[i]CRC32 Checksum:[/i] 9C7497FF
+
+[b]Yamato (Japan, Europe).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Yamato (JEK) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Yamato (1983)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]yamato (japan, europe).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 0dd197a0e1f43c0684f98b52514fce59
+[i]CRC32 Checksum:[/i] E2FD5201
+
+[b]Yamato (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Yamato (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Yamato (1983)(Aaronix)(TW)[AKA Tai He Jian].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]yamato (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 9c751fb92d2280d89ee9c273f3c6785a
+[i]CRC32 Checksum:[/i] B65A093F
+
+[b]Yie Ar Kung-Fu II (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Da Cike (1986)(DahJee)(TW)[AKA Yie Ar Kung-Fu II].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]Yie Ar Kung-Fu II [DahJee] (TW).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[b]yie ar kung-fu ii [dahjee] (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] c1f51f5dbfb859b1204a812d9c08ffd3
+[i]CRC32 Checksum:[/i] FC87463C
+
+[b]Zaxxon (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Zaxxon (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Zaxxon (1985)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]zaxxon (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 52bbf5336c190610a0fb1ab0bdaca455
+[i]CRC32 Checksum:[/i] 905467E4
+
+[b]Zaxxon (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Zaxxon (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Zaxxon (1985)(Aaronix)(TW)[AKA Tuji Dabenying].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]zaxxon (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] bb1c5b1071d5b9224b7733d60465e769
+[i]CRC32 Checksum:[/i] 49CAE925
+
+[b]Zippy Race (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Zippy Race (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Zippy Race (1983)(Irem - Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]zippy race (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 0eda34ba313d3bb34558fd5939b19794
+[i]CRC32 Checksum:[/i] BC5D20DF
+
+[b]Zippy Race (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Zippy Race (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Zippy Race (1983)(Aaronix)(TW)[AKA Motuo Che You Meiguo].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]zippy race (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 16856425e0bcc3ab475f46f7cfd00402
+[i]CRC32 Checksum:[/i] BCF441A5
+
+[b]Zoom 909 (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Zoom 909 (J) (SG-1000) [!].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Zoom 909 (1985)(Sega)(JP)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]zoom 909 (japan).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 4e457a6c5b4b613f2aac3472f6827a89
+[i]CRC32 Checksum:[/i] 093830D8
+
+[b]Zoom 909 (Taiwan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Zoom 909 (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Huo Hu Li (1985)(Aaronix)(TW)[AKA Zoom 909].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]zoom 909 (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] d99925f7b3fa1961906f169b61f1a492
+[i]CRC32 Checksum:[/i] 9943FC2B
+
+[b][BIOS] Othello Multivision (Japan).sg [img=https://retroachievements.org/Images/labels/nointro.png] [/b]
+[b]Othello Multivision BIOS (MV).mv [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[i]RA Checksum:[/i] cba9c69675bb921aa07050fd2a2dbecb
+[i]CRC32 Checksum:[/i] C5A67B95
+
+[b]Black Onyx, The (J) (SG-1000) [T+Eng1.0Enhanced_Bruce Tomlin,S.Seehorn].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[i]RA Checksum:[/i] e2fca5d8609135caf5f4e2a88e38eabb
+[i]CRC32 Checksum:[/i] 3003D9BD
+
+[b]Black Onyx, The (J) (SG-1000) [T+Eng1.0_Bruce Tomlin,S.Seehorn].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[i]RA Checksum:[/i] 1da64bab6808f8b6df159c912d3b4072
+[i]CRC32 Checksum:[/i] 626E30CC
+
+[b]Bomb Jack (English Logo) (K) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Bomb Jack (198x)(Boram - Sega - Tehkan)(KR)(en)[a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]bomb jack [english logo] (kr).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 20545caa00c6a8512ccd767e4911575a
+[i]CRC32 Checksum:[/i] 0C69D837
+
+[b]Bomb Jack (Korean Logo) (K) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Bomb Jack (198x)(Boram - Sega - Tehkan)(KR)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]bomb jack [korean logo] (kr).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 9cdd1462ddeaef610d15dba01bd926f0
+[i]CRC32 Checksum:[/i] B0C7B310
+
+[b]Cabbage Patch Kids (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Cabbage Patch Kids (198x)(-)(TW)(en)[p].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]cabbage patch kids (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 1c2c5851deb0e9142b5ff19e8dcd8442
+[i]CRC32 Checksum:[/i] 9D91AB78
+
+[b]Chack'n Pop (J) (SG-1000) [T+Eng1.02_Goldenband].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[i]RA Checksum:[/i] fb5c6e4d23b192cf36d87192289444e2
+[i]CRC32 Checksum:[/i] C106C923
+
+[b]Champion Golf (K) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Golf (198x)(Samsung)(KR)[cart].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]champion golf (kr).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 6a865bf09faab7fabacb95eb70e3fc9d
+[i]CRC32 Checksum:[/i] 35AF42AD
+
+[b]Champion Ice Hockey (K) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Champion Ice Hockey (198x)(Samsung)(KR).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]champion ice hockey (kr).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] ac3dd2d12e2bdfc7804cb2ef2c213162
+[i]CRC32 Checksum:[/i] EC0B862C
+
+[b]Circus Charlie (K) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Circus Charlie (198x)(-)(KR)(en)[p].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]circus charlie (kr).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 05940e2d44f81e163dab4a5a6f29645e
+[i]CRC32 Checksum:[/i] 7F7F009D
+
+[b]Circus Charlie (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Circus Charlie (198x)(-)(TW)(en)[p].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]circus charlie (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 46b1f9c6693ed7d1d0c5a6d72872398a
+[i]CRC32 Checksum:[/i] 3404FCE4
+
+[b]Congo Bongo (J) (SG-1000) (V1.0) [b1].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Congo Bongo (1983)(Sega).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 74fc3c383b59ca0dc12bc299edf0bb22
+[i]CRC32 Checksum:[/i] DC4383CC
+
+[b]Congo Bongo (J) (SG-1000) (V1.0) [b2].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Congo Bongo (1983)(Sega)[a].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] b9ae730672ade71c6fce5527c2b1b42e
+[i]CRC32 Checksum:[/i] B09E2E6D
+
+[b]Congo Bongo (T) (SG-1000) (V1.1).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Congo Bongo v1 (19xx)(-)(TW)[AKA Da Jin Gang].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]congo bongo (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 499fe90988a60a6325465606695e7754
+[i]CRC32 Checksum:[/i] F7EB94C5
+
+[b]Doki Doki Penguin Land (J) (SG-1000) [b1].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Doki Doki Penguin Land (1985)(Sega)(JP)(en-ja)[b].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 1c879b9a70ff317e9ac704a93425e4da
+[i]CRC32 Checksum:[/i] AC7F95B4
+
+[b]Doki Doki Penguin Land (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Doki Doki Penguin Land (19xx)(Chia-Ling Corp - Sega)(TW)(en-zh).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]doki doki penguin land (19xx)(-)(tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] c9412b2aa1de5070734297573dba7132
+[i]CRC32 Checksum:[/i] FDC095BC
+
+[b]Drol (K) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Drol (198x)(Samsung)(KR).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]drol (kr).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 0facbc1668dedbcb579d08df4e232699
+[i]CRC32 Checksum:[/i] 1D7C53BB
+
+[b]Exerion (K) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Exerion (198x)(Samsung)(KR).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]exerion (kr).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] eb3f8f679f32e6bcc4489280df7be7f3
+[i]CRC32 Checksum:[/i] FC628D0D
+
+[b]Flicky (J) (SG-1000) (V1.0) [b1].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Flicky Rev 0 (1984)(Sega)(JP)(en)[b].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 94e154dd79de3f79762a51d03ec49d38
+[i]CRC32 Checksum:[/i] D4C8C6D7
+
+[b]FudeBrowser - BrMSX (SG-1000) (PD).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Fudebrowser - BrMSX Manual (2000)(Bittencourt, Ricardo)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 1cd4f898c25fa7af4698182708581815
+[i]CRC32 Checksum:[/i] DDA01774
+
+[b]FudeBrowser - BrSMS (SG-1000) (PD).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Fudebrowser - BrSMS Manual (2000)(Bittencourt, Ricardo)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 419659970e4866fee468d9fcb86a0c55
+[i]CRC32 Checksum:[/i] 4A696389
+
+[b]FudeBrowser - Chrissy M Picture by Newo (SG-1000) (PD).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Fudebrowser - Chrissy Moran Picture (2003)(Newo)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] e45dd218a0a015bf05eb1342c8c5be0b
+[i]CRC32 Checksum:[/i] 697925EC
+
+[b]FudeBrowser - Expo SALT Logo (SG-1000) (PD).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Fudebrowser - ExpoSALT Logo (2000)(Bittencourt, Ricardo)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 5809f6f87207ea03fe2ed37852d8b149
+[i]CRC32 Checksum:[/i] DE6CC6E6
+
+[b]FudeBrowser - Goatse Picture by Newo (SG-1000) (PD).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Fudebrowser - Goatse Picture (2003)(Newo)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] f98af84d0f13c7182c87c330b565674f
+[i]CRC32 Checksum:[/i] DDA0619B
+
+[b]FudeBrowser - How Do They Do That With HTML (SG-1000) (PD).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Fudebrowser - How Do They Do That with HTML (2000)(Bittencourt, Ricardo)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 9978a408897e0f97ac21f080ae5e9077
+[i]CRC32 Checksum:[/i] C9A6217A
+
+[b]FudeBrowser - Jiraiya (SG-1000) (PD).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Fudebrowser - Jiraiya Picture (2000)(Bittencourt, Ricardo)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] ebaf88687ba5f7fd4606216de76982b7
+[i]CRC32 Checksum:[/i] 4F95660E
+
+[b]FudeBrowser - Never (SG-1000) (PD).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Fudebrowser - Sobre as Vidas do Coelho da Pascoa que se Transformaram em Moinhos (2000)(Bittencourt, Ricardo)(pt)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 218bd2449896c89c8cdb3f31b3d23c73
+[i]CRC32 Checksum:[/i] 2AEF0693
+
+[b]FudeBrowser - Newo (SG-1000) (PD).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Fudebrowser - I Am Newo (2000)(Newo)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] deff08482028ae6dcdfc58ec5c96302d
+[i]CRC32 Checksum:[/i] 0F8A5A2A
+
+[b]FudeBrowser - Sandy Style Picture by Newo (SG-1000) (PD).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Fudebrowser - Sandy Style Picture (2003)(Newo)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 387a4aa27cfb05ceb13fdd5d6594dc8c
+[i]CRC32 Checksum:[/i] 6FBE54B1
+
+[b]FudeBrowser - Shurato (SG-1000) (PD).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Fudebrowser - Shurato Picture (2000)(Bittencourt, Ricardo)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] e8c061c06b3e02acf72b35bdd31ba6c4
+[i]CRC32 Checksum:[/i] 16695BA9
+
+[b]FudeBrowser - Skybaby's SMS List (SG-1000) (PD).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Fudebrowser - SkyBaby's SMSList (2000)(SkyBaby)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 4c837da70f4552491de098c52603ddb8
+[i]CRC32 Checksum:[/i] 280876DC
+
+[b]FudeBrowser - Winnie Cooper (SG-1000) (PD).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Fudebrowser - Winnie Cooper Gallery (2000)(Bittencourt, Ricardo)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 3678da95a0556aef98287c595bc2f335
+[i]CRC32 Checksum:[/i] 5D9AA9A7
+
+[b]Gulkave (K) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Gulkave (1989)(Samsung - Sega)(KR)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]gulkave (kr).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 33902566e0070ef7c53f2afa97ec9968
+[i]CRC32 Checksum:[/i] DDCB708B
+
+[b]Hyper Sports (K) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Hyper Sports (198x)(Samsung)(KR).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]hyper sports (kr).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] c40aecc0fc766bb26c76b6855bbe4fad
+[i]CRC32 Checksum:[/i] 3157EF9C
+
+[b]Hyper Sports 2 (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Hyper Sports 2 (198x)(-)(TW)(en)[p].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]hyper sports 2 (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] e329ee584187d4b156e26faf3ef1a960
+[i]CRC32 Checksum:[/i] B0234E12
+
+[b]Lode Runner I (K) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Lode Runner (19xx)(Sega)(TW)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]lode runner (kr).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 5146c83814c930be839f123dcd3b591d
+[i]CRC32 Checksum:[/i] E68BC7D6
+
+[b]Magical Tree (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Magical Tree (198x)(-)(TW)(en)[p].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]magical tree (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 014f702585a68399afe55ea63ba0f7de
+[i]CRC32 Checksum:[/i] B3A8291A
+
+[b]Monaco GP (J) (SG-1000) (V1.0) (40K) [b1].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Monaco GP (1983)(Sega)[b].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 236e3f1d2342bac175d68ecdb75234a2
+[i]CRC32 Checksum:[/i] 72542786
+
+[b]Ninja Princess (JA) (SG-1000) [T+Eng1.0_Goldenband].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[i]RA Checksum:[/i] 88f09e8525267c7c5cb18a6011fe1598
+[i]CRC32 Checksum:[/i] BDB6CF0E
+
+[b]Omikuji by Maechiko (SG-1000) (PD).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Omikuji (1998)(Maechiko)(ja)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 411ccb871af9c3a5c20323c9f6842d74
+[i]CRC32 Checksum:[/i] 56ABC493
+
+[b]Ping Pong (Konami's) (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Ping Pong (1985)(Aaronix)(TW)[AKA Pingpang Qiu].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]ping pong (konami's) (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 97f8b798ad727563b1ee42cf41697fed
+[i]CRC32 Checksum:[/i] 4D972A9E
+
+[b]Shinnyushain Tooru Kun (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Shinnyushain Tooru Kun (19xx)(-)(TW)[AKA Xin Guo Si Fu].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]shinnyushain tooru kun (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] ff6c07ce43d99b4ef732b5df7e73a5a7
+[i]CRC32 Checksum:[/i] 33FC5CF6
+
+[b]Sindbad Mystery (JE) (SG-1000) [b1].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Sindbad Mystery (1983)(Sega)[b].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] d94dddfbe1dd8fcee7b21ac5381726eb
+[i]CRC32 Checksum:[/i] 54D5BEC3
+
+[b]Snake by Rick Skrbina v1.0 (SG-1000) (PD).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[i]RA Checksum:[/i] 3bec2aa3d11a1d1e9b1de9dbef6b513c
+[i]CRC32 Checksum:[/i] AF29BBA8
+
+[b]Soukoban (K) (SG-1000) (IQ Logo).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]I.Q. (1985)(-)(KR)[AKA Soukoban].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]soukoban [iq logo] (kr).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 9334ef849d22ae49f1d816ea068bf055
+[i]CRC32 Checksum:[/i] 89BAFEC5
+
+[b]Soukoban (K) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Soukoban (1985)(-)(KR)[AKA Changgo Jigi].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]soukoban (kr).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] cbd4d466882ba81d5eb63e849797fd4c
+[i]CRC32 Checksum:[/i] 148EA752
+
+[b]Space Invaders (J) (SG-1000) [T+Bra_Wolfwood].sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[i]RA Checksum:[/i] 0e038e47953d51c8ed5e6621403e9859
+[i]CRC32 Checksum:[/i] 3DCEE02D
+
+[b]Super Tank (K) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Super Tank (198x)(Samsung - Sega)(KR)(en).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]super tank (kr).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] e4b0859bd9cb372e41f81e593c67f225
+[i]CRC32 Checksum:[/i] 4C48B7AC
+
+[b]S_Sniper by Maechiko (SG-1000) (PD).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]S_Sniper (1998)(Maechiko)(ja)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] df556281f7936e023d9a0f89c3b2c908
+[i]CRC32 Checksum:[/i] B1CBEC5A
+
+[b]Winnie Cooper (SG-1000) (PD).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Fudebrowser - Winnie Cooper Picture (2000)(Bittencourt, Ricardo)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] ed135176deaf3092a10b701bbcf0506e
+[i]CRC32 Checksum:[/i] C2FEE1E4
+
+[b]Yie Ar Kung-Fu (T) (SG-1000).sg [img=https://retroachievements.org/Images/labels/goodtools.png] [/b]
+[b]Yie Ar Kung-Fu (1985)(Aaronix)(TW)[AKA Gongfu].bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[b]yie ar kung-fu (tw).bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] b14852ce157619fd60666a6474936d69
+[i]CRC32 Checksum:[/i] BB0F1930
+
+[b]Music Station v1.6 (2000)(Bittencourt, Ricardo)(PD).bin [img=https://retroachievements.org/Images/labels/tosec.png] [/b]
+[i]RA Checksum:[/i] 09b1723ed5fe15529779058d38452650
+[i]CRC32 Checksum:[/i] F40FA5D6
+
+[b]bitz80.sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 691e10b119dd1a78ed0cc67e226cddb9
+[i]CRC32 Checksum:[/i] 902683E3
+
+[b]Black Onyx, The.sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] bda77f96a2a5a7f3544c52137b154bdb
+[i]CRC32 Checksum:[/i] 03C3A0F6
+
+[b]CMJN-SG-2014.06.16.sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 8f7fdeb10735a95525fff482ad14c8a7
+[i]CRC32 Checksum:[/i] 96352B31
+
+[b]Congo Bongo (SG-1000) [T-BR] [T-Patryck G-Nenhum] [V-1.0 A-2016].sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 6c2a5ce3b7b21edc461c0faf1528c38c
+[i]CRC32 Checksum:[/i] E63B1554
+
+[b]Dragon Wang (Japan) [tr Fr Traf 1.0].sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 1e182457248815f6b7256df93bd53736
+[i]CRC32 Checksum:[/i] ED866BAE
+
+[b]Flicky (SG-1000) [T-BR] [T-Patryck G-Nenhum] [V-1.0 A-2016].sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 4ff6249245fc8b2d49c4ac6c813d73fd
+[i]CRC32 Checksum:[/i] 7B69CBC1
+
+[b]Girl's Garden (SG-1000) [T-BR] [T-Patryck G-Nenhum] [A-2016].sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 330de2787444353eeaf8eb3abf5124cc
+[i]CRC32 Checksum:[/i] A065AF7F
+
+[b]Hang-On 2 (Japan) [T-BR] [T-Fridilipi G-Nenhum] [V-FINAL A-2011].sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] f80f21718d167e1439bff0455bab7e46
+[i]CRC32 Checksum:[/i] 9ED14861
+
+[b]libreway140616.sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 66192a925bcf6e76c63667126709e97b
+[i]CRC32 Checksum:[/i] 2453064D
+
+[b]Lode Runner (Japan, Europe) [T-BR] [T-Patryck] [V-1.0 A-2016].sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 76fa81a06be15517abc4cbcc44ff0a47
+[i]CRC32 Checksum:[/i] 08840700
+
+[b]mojon-twins--super-uwol.sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] 36e35c0cf1596a906e02b102fc7e4f9d
+[i]CRC32 Checksum:[/i] 5836B02B
+
+[b]Soukoban (English Version 1.0 by mk1995 'SMS Power!' on 14 Dec 2012).sg [img=https://retroachievements.org/Images/labels/nongood.png] [/b]
+[i]RA Checksum:[/i] a696a150be04dde593779373fd5638df
+[i]CRC32 Checksum:[/i] 467ACB8F
+
+[b]link world.bin [img=https://retroachievements.org/Images/labels/mamesl.png] [/b]
+[i]RA Checksum:[/i] 5e38ab4ebb38195ba852ba7ed12750a4
+[i]CRC32 Checksum:[/i] D5E919C1
