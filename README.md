@@ -1,5 +1,5 @@
 # RAHashes
-Definitive lists of RetroAchievement ROM hashes
+RetroAchievement ROM hashes
 <br>
 <br>
 
