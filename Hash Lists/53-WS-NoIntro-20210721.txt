@@ -1,0 +1,137 @@
+54B915694731CC22E07D3FB8A00EE2DB	[BIOS] WonderSwan Boot ROM (Japan) (En).ws
+7528A5DE5924896D152920B1EAF8FD5D	Anchorz Field (Japan).ws
+9587C46E7A2D4D8C2E5DDC971B7325FD	Armored Unit (Japan).ws
+C53A5D8C189A23B16C444C4E8EF581AF	Bakusou Dekotora Densetsu for WonderSwan (Japan).ws
+D3F378D4FC706723EBDC22D991E67D40	BANDAI Default Splash Screen (Japan) (Program).ws
+B814E71EB1D079466A9535566D605280	beat mania for WonderSwan (Japan).ws
+9B15B2236CAE605F7BC3BEA3859FDD36	Buffers Evolution (Japan).ws
+BB9F130931B2B7D1F646F44D1667AD63	Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan).ws
+F647A51827915109D1BC6A05C076EDA4	Chaos Gear - Michibikareshi Mono (Japan).ws
+EDBC77AB0D585447D927318A6EB66C9B	Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2).ws
+6D7D60C65E5A5CC92F83A62C434577B5	Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1).ws
+03B416E7326A34C9546E8336F7D50BF2	Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 3).ws
+24FD819C4F4866D7C5C340D0273ACBF9	Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4).ws
+5432D188664BC4E5DAE0FC859580CDA1	Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3).ws
+8F0BA3401662A40E8DA5EBCFE7B85E81	Clock Tower for WonderSwan (Japan) (Rev 1).ws
+0ED3A08A3A9858F65D1487889645DC55	Crazy Climber (Japan).ws
+E39E90944A683B9D4A996A53804826F0	D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).ws
+7B2180E38B4720CE711768A73C33C9DF	Densha de Go! (Japan) (Rev 1).ws
+EEC79AD5BB634A90B9D020415046E921	Densha de Go! 2 (Japan).ws
+D5F7FBF06C57AA50F08C14E64D2E02A2	Digimon - Ver. WonderSwan (Hong Kong).ws
+BA249EE5C5CCB1512E0FB6AF200A361A	Digimon Adventure - Anode Tamer (Japan) (Rev 1).ws
+DB33DF2754FB51CE740006CF9176049F	Digimon Adventure - Anode Tamer (Japan).ws
+10F50D5B44A7B8B1F308C1BEA8263823	Digimon Adventure - Cathode Tamer (Japan).ws
+2CB264BA76B88452D7576992F2B90DBF	Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1).ws
+0AE28388D68FB56BEE38CC96FAF37F90	Digimon Adventure 02 - Tag Tamers (Japan).ws
+DEB2C37BAEA996386B2AF10BDD0CA3B1	Digital Monster - Ver. WonderSwan (Japan) (Rev 1).ws
+768B8F5722F0B07BE4E8AC356E90ACF2	Digital Partner (Japan).ws
+DA17DB6B7F491510E4B284996FF0EEBF	Dokodemo Hamster (Japan).ws
+3584E4A63A6AE9FA546722A349F88573	Engacho! for WonderSwan (Japan).ws
+AE2E0E9DA1F25119CB4AD24A821446BA	Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan).ws
+A466797B353D610F43A0F030CEC721C1	Final Lap 2000 (Japan).ws
+DD9BE38CD66FFD3B526D3388C6B99B8E	Fire Pro Wrestling for WonderSwan (Japan) (Rev 5).ws
+EB3F161EA3DB4EBD759C9B1346032D4F	Fishing Freaks - Bass Rise for WonderSwan (Japan).ws
+FE30867E698C071F6BE94CCE24B095EE	From TV Animation One Piece - Mezase Kaizoku Ou! (Japan).ws
+6F09FC64352BA0051E724C4AE58402F4	Ganso Jajamaru-kun (Japan).ws
+21744E51668AB1FCA63E5B2A204C194D	Glocal Hexcite (Japan).ws
+3AB76903152993AEEE1118818BFAD8F7	Gomoku Narabe &amp; Reversi - Touryuumon (Japan).ws
+1ADACF9CB5AA3EB5839A9E2C94933348	Goraku Ou Tango! (Japan) (Rev 2).ws
+816C81B156146BE62A45EDD7D7D49FC6	GunPey (Japan).ws
+2E26E037CB01F70A6454A61C2955E8B1	Hanafuda Shiyouyo (Japan).ws
+0EB951B486FE25F37371835BE81EED75	Harobots (Japan).ws
+B9020CFAE65FE791BD52723CBFF31707	Harobots (Japan) (Rev 1).ws
+FD2165DE8C6BB617166F6BB34447E70D	Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2).ws
+CC9D1519E1ABA4A0F48F2052AF031671	Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 1).ws
+8BE5ABFAEF7AD77D14F92F10B2460098	Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).ws
+5E907DD88B3CFB2855A18FB1BF689860	Kaze no Klonoa - Moonlight Museum (Japan).ws
+840BE356BD48676BD4E39F1E3D54C3B3	Keiba Yosou Shien Soft - Yosou Shinkaron (Japan).ws
+611D42816A979ECE34DD8221D3023C9C	Kiss Yori... - Seaside Serenade (Japan) (Rev 2).ws
+A5E1CF7E43E991592890D916369BCF88	Kosodate Quiz - Dokodemo My Angel (Japan).ws
+442E0025AEDA0AD8DF502696AA97C499	Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1).ws
+0E4369D3F611377433272B3563325CA2	Langrisser Millennium WS - The Last Century (Japan) (Rev 1).ws
+CF7EE109AA551FDEBAADD5BFBE344FD7	Last Stand (Japan).ws
+C7445937D6FBC462256BD2EBCDBF3C25	Lode Runner for WonderSwan (Japan).ws
+694042E6F8EAA2423693C0A9BBA8AEF0	Macross - True Love Song (Japan).ws
+F98CBEBF4A06794AA74636E7A6285ACE	Magical Drop for WonderSwan (Japan).ws
+7EDD59281EC08FDB2DAAF45E58085E7E	Mahjong Touryuumon (Japan) (Rev 3).ws
+60AD41D50A0B9DD55B0161B1853B824C	Mahjong Touryuumon (Japan) (Rev 1).ws
+F06BEAFF2703728BAA8DDDC0DDEB7094	Makaimura for WonderSwan (Japan).ws
+893AC7863337A65C919780B41BC52406	Medarot Perfect Edition - Kabuto Version (Japan).ws
+D8A29D331E9BA86609C75A4AEDF9C269	Medarot Perfect Edition - Kuwagata Version (Japan).ws
+98E88544D8B7DF359E37BF2C17DD0641	Meitantei Conan - Majutsushi no Chousenjou! (Japan).ws
+1990A2C04395B08DF6181F6C8BE2A953	Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan).ws
+A9C86AF9DB3743595186274B65C93F90	Metakomi Theraphy - Nee Kiite! (Japan).ws
+555BEE0C37A0726D8E8646A290DE137F	Mingle Magnet (Japan) (En,Ja) (Rev 1).ws
+3AD90F3B8FDB3F2F5A7769E42EBC0792	Mobile Suit Gundam MSVS (Japan).ws
+B1B20BB24BE3767AB5BFCFCA54B51C54	MobileWonderGate (Japan) (Rev 1).ws
+FF73A924C6E7D5190BE8A9C749B4C9FD	Moero!! Pro Yakyuu Rookies (Japan).ws
+9472518275EAF9F3DEDCA8B59E2FA97F	Morita Shougi for WonderSwan (Japan).ws
+5E06AD2F0C65D68A124542DDFFFDFF37	Nazo Ou Pocket (Japan).ws
+0215C4B8A395F6FCF8F5B07605EAE08B	Neon Genesis Evangelion - Shito Ikusei (Japan).ws
+4B33B1F24F05300C1504F1D9B92D4361	Nice On (Japan) (Rev 1).ws
+4AA43895710A9FA5A96B9CD1DA46348F	Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2).ws
+D8BB5304F1A68A07E0ACA535555171D5	Nobunaga no Yabou for WonderSwan (Japan).ws
+5E92E316CE0998EDBEC00B31A6F2E112	Ou-chan no Oekaki Logic (Japan).ws
+E79DDDC7DB77AD96C52B0B7690F8C1B1	Pocket Fighter (Japan).ws
+A2E4F77F749FB0A95DB697903D42E718	Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1).ws
+E5394D336231C99E9C93F1F41E80A401	Puyo Puyo Tsuu (Japan).ws
+CF5E9F022BAADD1ED9B0A9E88B503E95	Puzzle Bobble (Japan).ws
+854BD4105D726BF7E76FEF8393D6EAD0	Rainbow Islands - Putty's Party (Japan).ws
+FFEE38C08B4E76CF68420F2E22973284	Ring Infinity (Japan).ws
+6CA5DFF7D8A86279591FBB14324E7C3D	Robot Works (Japan).ws
+DBAFF79D3A241FBA6AF06CF5B7C935B8	Robot Works (Hong Kong) (En,Ja) (Rev 1).ws
+523004D48E9D606E1557C2C57AF6790B	Rockman &amp; Forte - Mirai Kara no Chousensha (Japan).ws
+9434714E17547EBF3A67BAF63C8A6D04	Sangokushi for WonderSwan (Japan).ws
+263E4218454F7350839EC257441BED85	Sangokushi II for WonderSwan (Japan).ws
+6620592B79B06D1857B449508FE1D557	SD Gundam - Emotional Jam (Japan) (Rev 3).ws
+C38AC44EF65779506DABD0F6DB59748C	SD Gundam - Emotional Jam (Japan) (Rev 2).ws
+39A4626BA187933297B3155180147778	SD Gundam G Generation - Gather Beat (Japan).ws
+AFF7A473A087E38A1A1A7D5F71FFC426	SD Gundam Gashapon Senki - Episode 1 (Japan).ws
+C30A3FACEBC27AC58C359DEDCA66CCE1	SD Gundam Gashapon Senki - Episode 1 (Japan) (Alt).ws
+0230C5ED802E72A9C6BB690E262A302B	Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan).ws
+E12DB3065B59E51BAE7BF86053DD5782	Sennou Millennium (Japan).ws
+37772A59D2FC13B07BA6260B3C4299DA	Shanghai Pocket (Japan).ws
+91896B3EE0975F58A8CF322A59DA85F2	Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1).ws
+F95259C0C48527DB0F8A63CB3E9B0527	Shougi Touryuumon (Japan).ws
+496100BCD73FBFA39E473C6DDEE190B2	Side Pocket for WonderSwan (Japan).ws
+D422D16A28390D395F4C0878C555E52C	Slither Link (Japan).ws
+5D0EF57B85182DCBE630EDDA46064CFB	Soccer Yarou! - Challenge the World (Japan).ws
+2030AE7DDC9F47307165859D75026F13	Sotsugyou for WonderSwan (Japan) (Rev 1).ws
+5558B39B21CC90B0B2F0A4358C043EEC	Space Invaders (Japan).ws
+BD6D4CB18DBD098A797D6C09FAD23CCD	Super Robot Taisen Compact (Japan) (Rev 2).ws
+4F678EF6DD98BD4C0EBAD56271528857	Super Robot Taisen Compact (Japan).ws
+5C4C57FBC68C5248CACE4CB325236A83	Super Robot Taisen Compact (Japan) (Rev 1).ws
+AF355ADEC937A9DB1D447980BF85AA2E	Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan).ws
+BB1CF0D7237D7AE2C8AAC562FC62906D	Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4).ws
+44F63DCB11C916DF900A128A6F2E3839	Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2).ws
+E7620CDFF223BF81DDAC14B862B5465C	Taikyoku Igo - Heisei Kiin (Japan).ws
+C80AB865BC9A93E946354F41815E93C4	Tanjou Debut for WonderSwan (Japan) (Rev 1).ws
+C21571F057D05BB01DB2ECE8517B121D	Tare Panda no GunPey (Japan).ws
+1E8BCA5C31F62A9DD1121884351A2885	Tekken Card Challenge (Japan).ws
+8B5C2993D6ECCF6A03F377F9C99D5A92	Tenori-on (Japan) (En).ws
+B03441B7B71AF24450DA7F06B4AAC718	Terrors (Japan).ws
+8B8EA655DBEA4A3152B300126556404C	Tetsujin 28 Gou (Japan).ws
+9A41ED23B82A090EC4508D3725E19F9B	Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan).ws
+A002E1AF08611506555E9A2FE559EDDC	Tokyo Majin Gakuen - Fuju Houroku (Japan).ws
+C1C2FC60D813556480226D45D62121A1	Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1).ws
+523DA6FD9E07E6E1D1BEE62BE04D7B1E	Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1).ws
+144B29A9997C016FB4B2BB05E3965CFE	Turntablist - DJ Battle (Japan).ws
+BCE82B55B44A7D9B8EEB06CDCC884968	Umizuri ni Ikou! (Japan).ws
+EACB689DE3482CF6E6DA8BEFC7DA65B2	Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4).ws
+C329CC51ABF1F9F85C33CA28D5A26F0C	Uzumaki - Noroi Simulation (Japan).ws
+49A2932821583FA7D3ED07312B47AB32	Vaitz Blade (Japan) (Rev 1).ws
+DA0EB7A02B6A5250047EEF22DEBA5C39	Wasabi Produce - Street Dancer (Japan).ws
+56C33436C90F652E02092D064287B5CE	Wonder Stadium (Japan).ws
+CBD1F30650653D8AC845915BC2AEA608	Wonder Stadium '99 (Japan).ws
+5DB558122EABE25B930D57C8E5FB05D8	WonderSwan Handy Sonar (Japan) (Rev 1).ws
+74562136E58960870694C8B6BC913CD2	WonderSwan Handy Sonar (Japan) (Rev 2).ws
+C0FE5CDC311F91AEAA350CDA5A8CB31C	WonderWitch (Japan) (FreyaOS 1.0.0) (Program).ws
+5670B16583073B43DC1B486EBEE87660	WonderWitch (Japan) (FreyaOS 1.2.0) (Program).ws
+DCC8EA5CCB5815F41692467775789770	WonderWitch (Japan) (FreyaOS 1.1.5) (Program).ws
+375E9AD8EE04587BA92C3ADEECD429B5	WonderWitch (Japan) (FreyaOS 1.0.2) (Program).ws
+8C4A28687CA4D042BEA7DF0AA20AD894	WonderWitch (Japan) (FreyaOS 1.0.3) (Program).ws
+E1AFD5588561655121D97D94C20DB1F9	WonderWitch (Japan) (FreyaOS 1.1.1) (Program).ws
+13566913CD2C8D529869EA03342F5249	WonderWitch (Japan) (FreyaOS 1.1.2) (Program).ws
+F7BC604ABA650F56C06174BC0F31FBBC	WonderWitch (Japan) (FreyaOS 1.1.3) (Program).ws
+75A68A0739C137A4CED5BDED8214C733	WonderWitch (Japan) (FreyaOS 1.1.4) (Program).ws
+08EC42043BF68583B830D4E9C2FD3E48	WonderWitch (Japan) (FreyaOS 1.1.6) (Program).ws

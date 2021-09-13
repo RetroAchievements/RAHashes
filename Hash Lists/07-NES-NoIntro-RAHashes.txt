@@ -11,7 +11,7 @@ f3a8822ec4ad196348d6c959289d34e1	1943 - The Battle of Valhalla (Japan).nes
 d3ca1be9e919a25c6a6b023f12a10099	1991 Du Ma Racing (Asia) (Ja) (Micro Genius) (Unl).nes
 988dd282d308a5e979a53a782f1c8326	1999 - Hore, Mitakotoka! Seikimatsu (Japan).nes
 0050570a82fc31b0cd236f9098f80af9	2010 Street Fighter (Japan).nes
-b78ead9a1dee3d8bd5bc4104c984e8d8	3D Block (Asia) (Ja) (Hwang Shinwei) (Unl).nes
+c679949f7e8e997be630df9eb85e0738	3D Block (Asia) (En) (Hwang Shinwei) (Unl).nes
 169e7469ccb1c0d2afaa8c2e7279bd8b	3D Block (Asia) (Ja) (RCM Group) (Unl).nes
 29e5e1a5f8b400773ef9d959044456b2	3-D WorldRunner (USA).nes
 b14f1367d9f27f114f296bd2452737ac	3 in 1 Supergun (Asia) (Ja) (Unl).nes
@@ -138,13 +138,14 @@ f2b2be3dfc30ee297fb62ee68fc56893	Arch Rivals - A Basketbrawl! (USA).nes
 2b095919a6bcab99938c11b7c48e9bb6	A Ressha de Ikou (Japan).nes
 98972693babad6f93782cfaffc031c84	Argos no Senshi - Hachamecha Daishingeki (Japan).nes
 c9909d0343bdc7221e874a2aba379db8	Argus (Japan).nes
-3b146b9c75ea4ce24887d73c6b2271c2	Arkanoid II (Japan) (Beta).nes
-83a6e0d589d5c9490f757b5a115e8c06	Arkanoid II (Japan).nes
-a930f9d4c59d8ab1dee39825db1f5555	Arkanoid (Japan).nes
+3b146b9c75ea4ce24887d73c6b2271c2	Arkanoid II (Japan) (En) (Beta).nes
+83a6e0d589d5c9490f757b5a115e8c06	Arkanoid II (Japan) (En).nes
+a930f9d4c59d8ab1dee39825db1f5555	Arkanoid (Japan) (En).nes
 0ccc1a2fe5214354c3fd75a6c81550cc	Arkanoid (USA).nes
 797383138b0590ce00ed0f6fdea14053	Arkista's Ring (USA).nes
 e96a5bb6910b542b8adbaefe25c0af40	Armadillo (Japan).nes
 41e5902e4417444f689468ead4865714	Artelius (Japan).nes
+4d8e0caf06e92bbef0ce0666f2ce0a44	Asder - 20 in 1 (USA) (Unl).nes
 eb3a7aa48ef40d8d5ee4e9b74d96b903	Asmik-kun Land (Japan).nes
 b8029400410a45d0029db57760a9625f	ASO - Armored Scrum Object (Japan) (En).nes
 229bbd859e15ad2c0e993d9fde1f58af	ASO - Armored Scrum Object (Japan) (En) (Sample).nes
@@ -170,13 +171,15 @@ f37637bf09c6b5ac363fb78e0ffdb43d	Auto-Upturn (Asia) (Ja) (PAL) (Unl).nes
 43b6246a6fe933e3ee7736a1053d5ee2	AV Kyuukyoku Mahjong 2 (Asia) (Ja) (Ge De) (Unl).nes
 a435cb272d776cddaf3e5ca8749eb719	AV Kyuukyoku Mahjong 2 (Asia) (Ja) (Ka Sheng) (Unl).nes
 f2d588b69a5b6101777ff78929b73733	AV Mahjong Club (Asia) (Ja) (Unl).nes
+16c8c057eb2697e44f26e759c676cfe1	AV Mahjong Club (Japan) (Alt) (Unl).nes
 078a8cf0740ec12cf111ddcf4df83511	AV Mahjong Club (Japan) (Unl).nes
-d200a8d08c9ffaa9b860ee91cc840d99	AV Mei Shao Nv Zhan Shi (Asia) (Unl).nes
+d07b996329b9fffb52535100c82e0916	AV Mei Shao Nv Zhan Shi (Asia) (Unl).nes
 59501e71fde8b81fb3925f850e3eef52	AV Pachi-Slot (Asia) (Ja) (Unl).nes
 d4df05c7b7e6ad8ba369577f6ba0b42d	AV Pachi-Slot (Japan) (Unl).nes
-85137315b406729cf261b264720bbc2c	AV Poker (Japan) (Unl).nes
+4d5af84761ed723037744c00b80f5b9d	AV Poker (Japan) (Unl).nes
 d3a07afdcb48f84f97adf5570e5218e1	AV Soccer (Japan) (Unl).nes
 519fe3e60059c972ff398df013cd881c	AV Super Real Pachinko (Japan) (Unl).nes
+54a5543c660b4c0252380d2408026b75	Babel no Tou (Japan) (Namcot Collection).nes
 8c8f77e2931dacd577642031772d20fa	Babel no Tou (Japan).nes
 15e05b3318f7681e73fbb7969c53f81d	Baby Boomer (Korea) (Unl).nes
 06d42e38b367823f7a44b18ec449e172	Baby Boomer (USA) (Unl).nes
@@ -207,7 +210,7 @@ f16047cdd27fb81571b453a29af0004e	Bananan Ouji no Daibouken (Japan).nes
 5a16b55ea933fe0cd1aa5f8ec823152e	Banana Prince (Germany).nes
 1eb9657e9573a4e6f79575657dd2aca1	Bandai Golf - Challenge Pebble Beach (USA).nes
 65996893809d136cd6935252dece148b	Bandit Kings of Ancient China (USA).nes
-6b622f38ccab3630ee0f16c208f73916	Bao Xiao San Guo (Asia) (Unl).nes
+6b622f38ccab3630ee0f16c208f73916	Bao Xiao San Guo (Asia) (Unl) [b].nes
 9171bad743a22af653de81ef1503f018	Barbie (Europe).nes
 682f1344778ee49fd77189cde5747f9f	Barbie (USA).nes
 d09ff4d1649e9e1f048d4b82fe265d1a	Barbie (USA) (Rev 1).nes
@@ -252,6 +255,7 @@ fbc46d607ee554c8388d2903138ce7ee	Batsu & Terry - Makyou no Tetsujin Race (Japan)
 3bbcc229a6ff6cdc5d5a123f71fb0e84	Battle Baseball (Japan).nes
 8a67c9a6da2a20e6808a7c82a4839474	Battle Chess (USA).nes
 a41a8a46771160e97ee5967365c07c83	BattleCity (Japan).nes
+7a93a3c417dd3275e3e7392397f64c90	BattleCity (World) (Ja) (Namcot Collection, Namco Museum Archives Vol 2).nes
 f3cb6e1a6022e503498c10dc463cfe95	Battle Fleet (Japan).nes
 0d593c62d60e59170927d629aa9c389a	Battle Formula (Japan).nes
 abf97d9e3e1c97efd93fb90be6824e89	Battle of Olympus, The (Europe).nes
@@ -334,12 +338,13 @@ cd9f05e9dde9569514cb479363ff68ef	Bloque Magico, El (Spain) (Gluk Video) (Unl).ne
 3f41df081c7799a6b33f3eb7ac1dec70	Bo Jackson Baseball (USA).nes
 d6bc9ee65276001c46e3693660d0da42	Bokosuka Wars (Japan).nes
 9b68f9b4ca2bb44009acf10bdb147eec	Bomber King (Japan).nes
-e8dd578e17c4326d5e6e9c916b2328a1	Bomber Man II (Japan).nes
+e8dd578e17c4326d5e6e9c916b2328a1	Bomberman II (Japan).nes
 ffcc592a3f063c1dcc87cb5e0f81c8af	Bomberman II (USA).nes
-3ae07fd3a5ffa14223e9c4dd3d28a1a3	Bomber Man (Japan).nes
+3ae07fd3a5ffa14223e9c4dd3d28a1a3	Bomberman (Japan).nes
 0f9c8d3d3099c70368411f6df9ef49c1	Bomberman (USA).nes
 a5f808c245dc1a5e869bfd06e98d1b6f	Bonk's Adventure (USA).nes
 bb1e51539ebd4adf9652eff031c3e98c	Booby Kids (Japan).nes
+c5ced3aa489ca59703ef886f22c9c191	Booky Man (Brazil) (CCE) (Unl).nes
 1c9fcc7283074d45e36b7d9185b9fda7	Booky Man (Spain) (Gluk Video) (Unl).nes
 0dd3f6b42ce67f5e66acad3768275eb2	Boulder Dash (Europe).nes
 ac7c5d28e9bcb3851b9914b0bd0940dd	Boulder Dash (Japan).nes
@@ -451,7 +456,6 @@ c9fbc883e26abf106c01509ffe3fe1b3	Chess Academy (Asia) (Ja) (NTSC) (Unl).nes
 f9c75f288f83fc289ead5d9ac1287d1b	Chevaliers du Zodiaque, Les - La Legende d'Or (France).nes
 b92ef2986cee5de82fdc8ffd1e565e2e	Chibi Maruko-chan - Uki Uki Shopping (Japan).nes
 34fbbdcea8d733c67603570693cc916d	Chiisana Obake - Acchi Socchi Kocchi (Japan).nes
-5245738b774fb01a72acc1af3cf97553	Chik Bik Ji Jin - Saam Gwok Ji (Asia) (Ja) (Unl).nes
 3c60041483d39581d4146aa63c6e4307	Chiki Chiki Machine Mou Race (Japan).nes
 52976be77d35c6a910246f2cff3c2e3f	Chiller (Australia) (Unl).nes
 44123d8f2a9b4555e5021fb0fb699971	Chiller (USA) (Unl).nes
@@ -483,7 +487,6 @@ d94ac9b762c4aa4dc05cc09c904655d8	Chris Evert & Ivan Lendl in Top Players' Tennis
 bb17d987d3fe683b9a3cb03ec2dac8c1	Chuck Yeager's Fighter Combat (USA) (Proto).nes
 4df01883ed1a888e6f63462efcf6258b	Chuugoku Janshi Story - Tonfuu (Japan).nes
 af09f8d663dfff51a4b4ffdf9a8a7f23	Chuugoku Senseijutsu (Japan).nes
-13aae491bd84746e1adc5465baaafee7	Chuugoku Taitei (Asia) (Ja) (Unl).nes
 7f3ef0c467842040379a2e12407d66da	Chuuka Taisen (Japan).nes
 307f71a14ecf78ae7c2bf5a1489a5ef5	Circus Caper (USA).nes
 67342016dafc69887d0ff24ed2a7aeff	Circus Charlie (Japan).nes
@@ -508,7 +511,7 @@ f753dc8fcbd92c25687dafdcaedc6862	Cocoron (Japan).nes
 eb0e97837dcf162772934fc64a42b2f8	Code Name - Viper (USA).nes
 132c970e244a375426742f9e6f5480f4	Color a Dinosaur (USA) (Beta).nes
 99dd1d23a46e68b7163dbc5bb69b9929	Color a Dinosaur (USA).nes
-a4d5a9c4913fb6e8f7ef3db44efce769	Colorful Dragon (Asia) (Ja) (PAL) (Unl).nes
+a4d5a9c4913fb6e8f7ef3db44efce769	Colorful Dragon (Asia) (Ja) (Unl).nes
 98f4cb0db063c921875563dfde1dbcb8	Columbus - Ougon no Yoake (Japan).nes
 31117a2528a0013a15b06dafeb600fac	Columbus - Ougon no Yoake (Japan) (Sample).nes
 7667cebf11c3d7a39575af91606bf412	Commando (USA).nes
@@ -543,6 +546,7 @@ b9ea545b83dea993a15ad20ff3af65f0	Crisis Force (Japan) (Sample).nes
 e7e9a927fcf8c51ee3bafb04d0ffba1f	CrossFire (Japan).nes
 841922d5339428b3e87cd6c6dfe68e2c	CrossFire (USA) (Proto).nes
 a4dcbf3b421424174b327c584e360f51	Crystalis (USA) (Beta).nes
+235934f9b4603ad336968ec667f0ad44	Crystalis (USA, Europe) (SNK 40th Anniversary Collection).nes
 dda34025966a23ae854d7947a3177f57	Crystalis (USA).nes
 d3e3fe5d40adf9c6142dc78cf870881f	Crystal Mines (Korea) (Unl).nes
 6477c54b7340d77c25aa012480c0b321	Crystal Mines (USA) (Unl).nes
@@ -561,7 +565,7 @@ a39c9c13e5a32138ba5aec87a5bb6955	Daisenryaku (Japan).nes
 7211ef70810cbbcea8e93e2783a9adf2	Dancing Blocks (Asia) (Ja) (PAL) (Unl).nes
 4619fe2128e9cacf710f1a2b599f2af8	Danny Sullivan's Indy Heat (Europe).nes
 f1781f33dc3e5a9fea34b7e3b890a5ac	Danny Sullivan's Indy Heat (USA).nes
-5b236c763348f020529a957d84c3e287	Dao Shuai (Asia) (Ja) (Unl).nes
+5b236c763348f020529a957d84c3e287	Dao Shuai (Asia) (Unl).nes
 feaac8aefe1d953040b85c0ba78aa3fe	Dark Lord (Japan).nes
 23214400222f2fc946b8aca148268a32	Darkman (Europe).nes
 1af3892e97a8253784778e0d3a190d83	Darkman (USA).nes
@@ -585,6 +589,7 @@ f182863a759f547e59fe98b2142f1b37	David Crane's A Boy and His Blob - Trouble on B
 119c456602da16e91df5c574c929a2f3	Day Dreamin' Davey (USA).nes
 3ddd6f49d6ef6afda9199e00b1cc5044	Days of Thunder (Europe).nes
 dd43d6ac1ce78b0162cc5bd2fd17087b	Days of Thunder (USA).nes
+90f0516d372eca5678d3a7fbd81f6397	Days of Thunder (USA) (Proto).nes
 05043f92ba4dafdb912422c6751492c4	Dead Fox (Japan).nes
 88e7f524dbcb89c76f1b80f40571f718	Deadly Towers (USA).nes
 b8430825f5b8315d127cd84ecbb4df63	Deathbots (USA) (Rev 1) (Unl).nes
@@ -610,6 +615,7 @@ e74cb6e28a451159f00af2518b2f7168	Derby Stallion - Zenkoku Ban (Japan).nes
 b780fefbbd3c85cbe65fcc05dab7c1d6	Desert Commander (USA).nes
 73dd180f1605960c7da2225d9e8ec12a	Destination Earthstar (USA).nes
 516136715d9e29e889f3c9d7c7d12a42	Destiny of an Emperor (USA).nes
+14b849f4188b0d2e599bd4a08c4eba77	Destroyer (Asia) (En) (Mega Soft) (Unl).nes
 29c357713691168d1334e24dec2b74bd	Destructor, El (Spain) (Gluk Video) (Unl).nes
 dd8beae43dd3c25ed158c010d679f818	Devil Man (Japan).nes
 2f9c8345d73ec94d6dcd7220fb7b9e85	Devil World (Europe).nes
@@ -622,12 +628,14 @@ f09f190eb8c84762ff8fe4da691e9a42	Die Hard (Europe).nes
 6062b22d2d55e41dee50d29a6650956e	Dig Dug II (Japan).nes
 d62e3a8de9682fe5866df8d99f534bb2	Dig Dug II - Trouble in Paradise (USA, Europe) (Virtual Console).nes
 328b2c34d156e1c310495aebb7bf987c	Dig Dug II - Trouble in Paradise (USA).nes
+b088093308c6ca0422a3ec825cc97b78	Dig Dug II (USA, Europe) (Namco Museum Archives Vol 2).nes
 6e5a474e52813c353a78d93630c27730	Dig Dug (Japan).nes
-f379611982a7bb9a3142089d1b381d29	Dig Dug (USA, Europe) (Namco Museum Archives Vol 1).NES
+f379611982a7bb9a3142089d1b381d29	Dig Dug (World) (Namcot Collection, Namco Museum Archives Vol 1).nes
 57eafb0d2ee63e4dbb3a66282d9e1221	Digger - The Legend of the Lost City (USA).nes
 aeab719188297fd62fe0227db2161a22	Digger T. Rock - The Legend of the Lost City (Europe).nes
 f065998ee5ff631d9a48b4fdae48ac94	Digital Devil Story - Megami Tensei II (Japan).nes
 7e071c44b548c28a85080023473af872	Digital Devil Story - Megami Tensei II (Japan) (Rev A).nes
+b1f7fae37607481cc423b7e5df55447a	Digital Devil Story - Megami Tensei (Japan) (Namcot Collection).nes
 d99bdc0b1e6d146d593e933f74bbe4d3	Digital Devil Story - Megami Tensei (Japan).nes
 b73cb730493120e01924970dbc697c3d	Dino Hockey (USA) (Proto 1).nes
 ccec6d6260a647c3c610d9fd0a59e319	Dino Hockey (USA) (Proto 2).nes
@@ -640,7 +648,7 @@ ccec6d6260a647c3c610d9fd0a59e319	Dino Hockey (USA) (Proto 2).nes
 4eef74d1e3d13e7cd0a22be484d7088a	Don Doko Don 2 (Japan).nes
 b8f26746fc437f677b986e7dcd5c65f5	Don Doko Don (Japan).nes
 ad50e58b59bdfc393462e1fc8c18f54e	Dong Dong Nao 1 (Asia) (Ja) (Unl).nes
-23a6b72f5aacb9672a0da1bfb589edc8	Dong Dong Nao II - Guo Zhong Ying Wen (Yi) (Asia) (Ja) (Unl).nes
+7c417eb5ae5c1c00c087124c5250bbbc	Dong Dong Nao II - Guo Zhong Ying Wen (Yi) (Asia) (Ja) (Unl).nes
 d8d53431a07e504ddd48c3809722a7c3	Donkey Kong 3 (World) (GameCube Edition).nes
 a2b5bddb4c7a5a39c8fac13e64494c9a	Donkey Kong 3 (World).nes
 0994ea979d8e06dfcb599389c8364787	Donkey Kong Classics (USA, Europe).nes
@@ -653,7 +661,7 @@ e63be27e2c927070512dea25c18cdf38	Donkey Kong Jr. + Jr. Lesson (Japan).nes
 6631ceac1aaef8efb063a34da86bacb1	Donkey Kong Jr. (World) (Rev 1) (GameCube Edition).nes
 8b7c1e5b55a9e5fa23e895df2d682914	Donkey Kong Jr. (World) (Rev 1).nes
 d67adc0d78f9961fb43b6b6103c56e55	Donkey Kong - Original Edition (Europe) (Virtual Console) (NTSC).nes
-c50d0ddb64ad3c74e8b235cbd4b1f35e	Donkey Kong - Original Edition (USA) (3DS Virtual Console).nes
+c50d0ddb64ad3c74e8b235cbd4b1f35e	Donkey Kong - Original Edition (USA) (Virtual Console).nes
 0dd95c3047bb0336823c39fefb7639c3	Donkey Kong (World) (Rev 1) (GameCube Edition).nes
 6d4a94c344463e562344249e18e9b99f	Donkey Kong (World) (Rev 1).nes
 01160ed35dde57d348cc38edb0ac5689	Dooly Bravo Land (Korea) (Unl).nes
@@ -696,9 +704,10 @@ b1bbdbb2a7f9dddd50d6cda1dbe876d6	Dragon Ball Z II - Gekishin Freeza!! (Japan).ne
 897f47fd270dea2b444f4ceff6ec3e30	Dragon Ball Z III - Ressen Jinzou Ningen (Japan).nes
 efe4220028f9159b9c751033d0fe983a	Dragon Ball Z - Kyoushuu! Saiya Jin (Japan).nes
 0887bc2bc717cfae22e1de8b3c4b4ae7	Dragon Buster II - Yami no Fuuin (Japan).nes
+781116a0c9d7828fcac927d3117f9452	Dragon Buster II - Yami no Fuuin (USA, Europe) (Namco Museum Archives Vol 2).nes
 f389b9365bf239366ea117e46ab1acab	Dragon Buster (Japan).nes
 68200e47eb647d4e36754163250382d4	Dragon Buster (Japan) (Virtual Console).nes
-e10800d13400b36a577f50a248a872ed	Dragon Buster (USA, Europe) (Namco Museum Archives Vol 1).NES
+e10800d13400b36a577f50a248a872ed	Dragon Buster (World) (Namcot Collection, Namco Museum Archives Vol 1).nes
 b3917b556c78ae7998274a1bfd753653	Dragon Fighter (Japan).nes
 16bd158913f423f1812149951490e1d5	Dragon Fighter (USA).nes
 f8fe57c05f67653ad9bef95ce8e43091	Dragon Ninja (Japan).nes
@@ -715,8 +724,9 @@ f92bd9ade4753cba85e4f5ad6e210446	Dragon's Lair (Europe).nes
 e310e8e2a625cd71a698540cb529e2bc	Dragon's Lair (Japan).nes
 7bb417bc023f48cf6184d9bc6b7e87f5	Dragon's Lair (USA).nes
 cf3db55cdad3d58426c5589cf08da750	Dragon Slayer IV - Drasle Family (Japan).nes
+f32b78baecb335c5afa947adcc6bdeaa	Dragon Spirit - Aratanaru Densetsu (Japan) (Namcot Collection).nes
 6a3c632ab5e085f81dbfff0ef7f1f2e7	Dragon Spirit - Aratanaru Densetsu (Japan).nes
-08619e0943193efae055377b9192590b	Dragon Spirit - The New Legend (USA, Europe) (Namco Museum Archives Vol 1).NES
+08619e0943193efae055377b9192590b	Dragon Spirit - The New Legend (USA, Europe) (Namco Museum Archives Vol 1).nes
 3d012f801c162c7f0ca97d516c25bcd6	Dragon Spirit - The New Legend (USA).nes
 2609b06d64d0ee6736a3f401b35b80a8	Dragon Unit (Japan).nes
 16a03048ce659d3d733026b6b72f2470	Dragon Warrior III (USA).nes
@@ -738,8 +748,7 @@ cb5e388f674f9fffa17930214fe3687f	Dr. Jekyll and Mr. Hyde (USA).nes
 eacef8aa54c1762cc83ab1643e70e52c	Dr. Mario (USA) (Beta) (After 1990-04-27).nes
 3b420844b0714dd28a1066a471098432	Dropzone (Europe).nes
 cb9df087de3200d3721c60e3bfc4c43a	Druaga no Tou (Japan).nes
-cc59b7b4df78dfa9cde8b8a1db69aa3b	Druaga no Tou (USA, Europe) (Namco Museum Archives Vol 1).NES
-578b40a1ccd2837afc4ca07a1b91b250	Duck (Asia) (En) (Rev 1) (Unl).nes
+cc59b7b4df78dfa9cde8b8a1db69aa3b	Druaga no Tou (World) (Namcot Collection, Namco Museum Archives Vol 1).nes
 6b3790a0b96b66df20c57da028d6e022	Duck (Asia) (En) (Unl).nes
 fa382374eb4a93a719064ca6c5a4e78c	Duck Hunt (World).nes
 0e4c59e471023be688c5dfc645dbc372	Duck Maze (Australia) (Unl).nes
@@ -750,6 +759,7 @@ fd8063c49ca47b41df2e0e5017a68c70	DuckTales 2 (France).nes
 1c934227cce06d04d68da344e77a1c29	DuckTales 2 (Japan).nes
 b8592879590cddec02fe077217562d00	DuckTales 2 (USA).nes
 9b2ced323c57547145f516c66850d8d1	DuckTales (Europe).nes
+14fb0a5583365ada7e8319c5478f84e3	DuckTales (USA) (Beta) (1989-02-05).nes
 21bfbe18ffffc0631a64831e9faca57b	DuckTales (USA) (Beta) (1989-05-25).nes
 b480855fff883b20ba403a2009a7f13c	DuckTales (USA).nes
 cf36e9f6ec49b7b428eb5c4ab610d8ba	Dudes with Attitude (USA) (Rev 1) (Unl).nes
@@ -761,7 +771,7 @@ cf36e9f6ec49b7b428eb5c4ab610d8ba	Dudes with Attitude (USA) (Rev 1) (Unl).nes
 3a8982c987a93b2f7c7eb7de2c102192	Dynablaster (Europe).nes
 b98a6651e2ec7797bd124257217baf1f	Dynamite Batman (Japan).nes
 c5d7d9c3883baa6efdafa2d2d59d9735	Dynamite Bowl (Japan).nes
-35d9a27720872ff2a562ecc3e77962d4	Dynamite Bowl (Japan) (Rev A).nes
+35d9a27720872ff2a562ecc3e77962d4	Dynamite Bowl (Japan) (Rev 1).nes
 9539cd44013c3a2a5fd6982c59e9bba8	Dynowarz - The Destruction of Spondylus (USA).nes
 84e8fed10d7c339f726d52cb152078e1	EarthBound Beginnings (USA, Europe) (Virtual Console).nes
 029528667964107796565354b42f8721	Eggerland - Meikyuu no Fukkatsu (Japan).nes
@@ -792,6 +802,7 @@ b08d041b0d0962c6fedca901e6046dec	Excitebike (Europe) (Virtual Console).nes
 2bf3976d15ec25a756846465a16b064c	Excitebike (Japan, USA) (GameCube Edition).nes
 9b0727e0adb0a7b4f94e072b7cf28a5a	Excitebike (Japan, USA).nes
 c73d271317f1613a3b568c145891ad7e	Excitebike (Japan, USA) (Virtual Console).nes
+15e2782419fe3390bcf49a983a93cbe8	Excitebike (World) (Switch Online).nes
 dfd046719b25fb2424f0d2b528a6e41b	Exciting Boxing (Japan).nes
 c7e189a80f0e0d49062d6097c8040b94	Exciting Rally - World Rally Championship (Japan).nes
 011bfcf2aa3685cbba2cee44d46695d1	Exerion (Japan) (En).nes
@@ -827,20 +838,23 @@ e1fa96f786194f68f3393248bc2aef6e	Famicom Shougi - Ryuuousen (Japan).nes
 922f4f86c8719d1ceb9b7773600348ac	Famicom Wars (Japan).nes
 35e5b82125cb1af4ea5418cc2df97947	Famicom Wars (Japan) (Virtual Console).nes
 d354585b310e084b64aadc61c71a5ee6	Famicom Yakyuu Ban (Japan).nes
+e4585ca3f21a070373516182ed998fb5	Family BASIC (Japan).nes
 d3c8e43e2808cfce8285d1442438fb7f	Family BASIC (Japan) (Rev 1).nes
 3c16a795a37046302cb0738282247567	Family BASIC (Japan) (Rev 2).nes
-e4585ca3f21a070373516182ed998fb5	Family BASIC (Japan) (v1.0).nes
-06d3fd2b1688a4648c457db2c2c6b114	Family BASIC (Japan) (v3.0).nes
+06d3fd2b1688a4648c457db2c2c6b114	Family BASIC V3 (Japan).nes
 d2479a64720500a9f9f5792790d4e902	Family Block (Japan).nes
 683d0e36b334438cab189889d98de094	Family Boxing (Japan).nes
 3b164772bed2c7f0a46dd9bc2b027def	Family Circuit '91 (Japan) (En).nes
+9b245f9efd04f2d5b9aafe21d8b2b91e	Family Circuit (Japan) (Namcot Collection).nes
 769cfed947c7714bc5a5fa4f18f6ea17	Family Circuit (Japan).nes
 e2297d6fbd42a09b162e84507acf4c04	Family Feud (USA).nes
+fb9879d7bc1209a3c4fc0e6de344103a	Family Jockey (Japan) (Namcot Collection).nes
 28dd4683bd206046a3e97ecd1abbd464	Family Jockey (Japan).nes
 09788949e0636d9f003d22ab4c53bbc9	Family Mahjong II - Shanghai e no Michi (Japan).nes
 9430962b99eaec0f191f76cf1618bc06	Family Mahjong (Japan).nes
 97400ffa7cc140e028e2c49177689c33	Family Mahjong (Japan) (Rev A).nes
 203c7adc9bc95cccf31f8646960d22bc	Family Noraebang (Korea) (Unl).nes
+587b3fdd5e91ea831444edceda781b28	Family Pinball (Japan) (Namcot Collection).nes
 9e4976a3357492471a303e9c35bf6a73	Family Pinball (Japan).nes
 971ebdba8bda382c6eeb00b04d1da61d	Family Quiz - 4-nin wa Rival (Japan).nes
 ccd80d3ad9e1bd4ed9ff08db0bbfb61d	Family School (Japan).nes
@@ -906,6 +920,7 @@ b65ddf898009b7517a74f6e91bb1bfca	Final Fantasy II (Japan) (3DS Virtual Console).
 697a5dd2b2cd36e63c43ca4bdee28deb	Final Fantasy (Japan) (Rev 1) (3DS Virtual Console).nes
 4dd4c6f2ff32da4d75dcd139f75150ec	Final Fantasy (Japan) (Rev 1).nes
 56fe20be1d06ce6bea78d931146bf11c	Final Fantasy (Japan) (Rev 1) (Wii and Wii U Virtual Console).nes
+dc8a4d5edfb75856e2db35ff517d8494	Final Fantasy (USA) (Beta).nes
 24ae5edf8375162f91a6846d3202e3d6	Final Fantasy (USA).nes
 1388bcc7777e55ae7e128e997a62b74b	Final Fantasy (USA) (Virtual Console).nes
 a35b42b02d58f63473f4b2fbcfc0fe83	Final Lap (Japan).nes
@@ -962,9 +977,10 @@ fcf9d3c8a05bb642eb37be66233ec717	Fushigi na Blobby - Blobania no Kiki (Japan).ne
 52485ad0d6aaca08be2c1bd4c855a080	Galaga - Demons of Death (USA).nes
 7810f70fc3c17226a5365ef64283df0d	Galaga (Europe).nes
 c90d652840d02c8eca799b3799bad6f7	Galaga (Japan).nes
+41e7df3c534c1a952b08397b11bf94fc	Galaga (World) (Namcot Collection, Namco Museum Archives Vol 2).nes
 01c1f123f436943527f50eb585025b99	Galaxian (Japan).nes
 7ea72482234ac1b3754153a559213367	Galaxian (Japan) (Rev A).nes
-32d3930fb6c03965edc9223fa2202048	Galaxian (USA, Europe) (Namco Museum Archives Vol 1).NES
+32d3930fb6c03965edc9223fa2202048	Galaxian (World) (Namcot Collection, Namco Museum Archives Vol 1).nes
 e0dc0f6b60fcfdf59f86ce668dbbcf48	Galaxy 5000 - Racing in the 51st Century (Europe).nes
 b2500cf6125178a6021975f74b91bb8d	Galaxy 5000 - Racing in the 51st Century (USA).nes
 afaf9408f0092100b52bd07cdf7925f0	Gambler Jiko Chuushinha 2 (Japan).nes
@@ -984,10 +1000,11 @@ f325ff01348fd20a00138f7eaafb9a0e	Ganbare Goemon Gaiden - Kieta Ougon Kiseru (Jap
 f4476d00fbb0d293be7511e740c59ad0	Ganbare Goemon! - Karakuri Douchuu (Japan) (Virtual Console).nes
 637956aef4283a9c64dd292935f57914	Ganbare Pennant Race! (Japan).nes
 f46b10f94fb07140e1c0b624d20257b2	Ganso Saiyuuki - Super Monkey Daibouken (Japan).nes
+831ea189e6ed48607b5ef5102de3b5d8	Gaplus (World) (Namcot Collection, Namco Museum Archives Vol 2) (Aftermarket).nes
 45c48919122e657d56a4c37c8f9de85f	Gardman (Asia) (Unl).nes
-d5e68c6b1b8201b6216ee7772c45d0f3	Garfield no Isshukan (Japan) (Beta 1).nes
-1a555405ad16564c102c4857ee4054c3	Garfield no Isshukan (Japan) (Beta 2).nes
-48f36fe01dd20b84c7db17ca33ba03b8	Garfield no Isshukan (Japan).nes
+d5e68c6b1b8201b6216ee7772c45d0f3	Garfield no Isshukan (Japan) (En) (Beta 1).nes
+1a555405ad16564c102c4857ee4054c3	Garfield no Isshukan (Japan) (En) (Beta 2).nes
+48f36fe01dd20b84c7db17ca33ba03b8	Garfield no Isshukan (Japan) (En).nes
 23db13aa5b926f4491db060967229c04	Gargoyle's Quest II (Europe).nes
 8645942fbed0a79192543abf3840e508	Gargoyle's Quest II (USA).nes
 b8d3640437779169bb1b5346397791db	Garry Kitchen's Battletank (USA).nes
@@ -1036,6 +1053,7 @@ e8a6e40c2e93668895bbc0b58f208e50	Goal! Two (USA).nes
 a58ee614f9bc3f59393180bb52689ddc	Goal! (USA).nes
 120e386fa1f1ca9040014b651d06254e	Go! Benny! (Asia) (En) (Unl).nes
 957f8e9ab4d44c83dc2d1fe271a5f0d7	God Slayer - Haruka Tenkuu no Sonata (Japan).nes
+05abca05cff33262e025a2f5f1f53aad	God Slayer - Haruka Tenkuu no Sonata (Japan) (SNK 40th Anniversary Collection).nes
 a54163ab8b1fe40c0cd81638357cc0d4	Godzilla 2 - War of the Monsters (USA).nes
 cad1f1e422a087586afcd1bd4f97c66b	Godzilla - Monster of Monsters! (Europe).nes
 ceed379ad9dbcc75ccae5db3268c3d84	Godzilla - Monster of Monsters! (USA).nes
@@ -1075,6 +1093,7 @@ f060c83c6022ab8ecbcf67e640e00109	Great Battle Cyber (Japan).nes
 bbe3f1f0dc7a7b5ace6913cc3e6a6ded	Great Boxing - Rush Up (Japan).nes
 611f78e7e53981fa9545d2f9a1f3c980	Great Deal (Japan).nes
 48ba7ccc5e525d19ccbe698a45a2c772	Great Tank (Japan).nes
+8b67df70da6c5c87441458231160a166	Great Tank (Japan) (SNK 40th Anniversary Collection).nes
 6c65adcc168c838238b2189db61a2ba9	Great Waldo Search, The (USA).nes
 da05295f779b882a113b04e445b166f9	Great Wall, The (Asia) (Ja) (PAL) (Unl).nes
 da2649e1060d28d1fd33b9cec1d2d87f	Greg Norman's Golf Power (USA).nes
@@ -1102,7 +1121,7 @@ bb2c633a3cd0f7588688e1ffc0f2f1e9	Gyrodine (Japan).nes
 1b994bda62ba9a8bf0893133fa012831	Gyruss (USA).nes
 7757552a861c5de3f7752e1c073e05de	Haja no Fuuin (Japan).nes
 059d645d85934b82392fca72574d7b5e	Hammerin' Harry (Europe).nes
-7298c085b27931255a906f03dda475f9	Hanafuda Yuukyou Den - Nagarebana Oryuu (Japan) (Unl).nes
+1583b27023ba07b18edfae3ab5de4fe0	Hanafuda Yuukyou Den - Nagarebana Oryuu (Japan) (Unl).nes
 d41d8f78cca34da42a5d1c6d3bc14df6	Hana no Star Kaidou (Japan).nes
 d66855956681f72a988e28492dbc914c	Hanjuku Hero (Japan).nes
 26e411f3d5c998bd55e9e53d01299f7d	Hanjuku Hero (Japan) (Virtual Console).nes
@@ -1154,7 +1173,7 @@ c3fd72580c5ca25bcf5cd73674695e27	Hitler no Fukkatsu - Top Secret (Japan).nes
 dee8757582e0575c5f729aae60b1dcbb	Hogan's Alley (World).nes
 65aee6b1e5d8fa575eca1fa41662f4ad	Hokkaidou Rensa Satsujin - Okhotsk ni Kiyu (Japan).nes
 4b1d0b67638c81551c111759914a8973	Hokuto no Ken 2 (Japan).nes
-e402788cc7aa56a74c7534d594b8ce51	Hokuto no Ken 3 - Shin Seiki Souzou Seiken Restuden (Japan).nes
+e402788cc7aa56a74c7534d594b8ce51	Hokuto no Ken 3 - Shin Seiki Souzou Seiken Retsuden (Japan).nes
 5ac27d26e71882d1b6b083a2b4a8085d	Hokuto no Ken 4 - Shichisei Haken Den - Hokuto Shinken no Kanata e (Japan).nes
 7768d3a32e9c2ef361544dde72f9aa1b	Hokuto no Ken (Japan) (Beta).nes
 7921f1b2a6afadd443ba3a85a86e1c95	Hokuto no Ken (Japan).nes
@@ -1204,7 +1223,7 @@ c9c94df2ebb19bd6d717b2cfbf977574	Ice Climber (USA, Europe, Korea).nes
 343862c5632451236cce9cdec22a4845	Ice Hockey (Europe).nes
 7ce76e6cfe3d97ea55cc8e5a5390e94a	Ice Hockey (Europe) (Virtual Console).nes
 51be3c0db685f71f4a69c573345310a2	Ice Hockey (USA).nes
-28a1caebf5cd152a50df8c7fed28be5e	Idemitsu - Space College - Kikenbutsu no Yasashii Butsuri to Kagaku (Japan).nes
+95e0226a91e394681a36ffaefba701c6	Idemitsu - Space College - Kikenbutsu no Yasashii Butsuri to Kagaku (Japan).nes
 6b5fb5653eeac566eeac341f067bbca1	Ide Yousuke Meijin no Jissen Mahjong II (Japan).nes
 cef07181389059709cba75be3d98baca	Ide Yousuke Meijin no Jissen Mahjong (Japan).nes
 4774ab9aa61e59c6d1b8721a68346ff7	Ide Yousuke Meijin no Jissen Mahjong (Japan) (Rev 1).nes
@@ -1234,7 +1253,7 @@ e02c7c510e0e37b1f2711103fff9e58a	Ikinari Musician (Japan).nes
 2e809b87455c6ed8239d289ca8cce2d4	Image Fight (USA).nes
 4c08787cbfcd8341d1d78d150b8a03d1	Immortal, The (USA).nes
 0ce6e1e3c950e25ea8969991479e88d6	Impossible Mission II (USA) (Unl).nes
-0d689e530660359228a7a686fa359617	Incantation (Asia) (Ja) (Unl).nes
+0d689e530660359228a7a686fa359617	Incantation (Asia) (Unl) [b].nes
 f82bf7439cba1b7a987cdb695da47000	Incredible Crash Dummies, The (Europe).nes
 b9c932f97c2f17034dfa29ff73accbef	Incredible Crash Dummies, The (USA).nes
 2a9e8c3781bc6e37fb1af4ec0c17abda	Indiana Jones and the Last Crusade (Europe).nes
@@ -1307,13 +1326,14 @@ c6f5fb33df295d57285ee940832e55f0	Jovial Race (Asia) (En) (Unl).nes
 d095a313fd6e95207ba8e85932f18b70	Jovial Race (Asia) (Ja) (PAL) (Unl).nes
 19a27b8211feb72685d7225a8a25d35f	Joy Mech Fight (Japan).nes
 d098462146c0bcdfc5ec38b4a649b669	Joy Mech Fight (Japan) (Virtual Console).nes
+90e2b479a3a9c6ba3a41d60fe1e3f99f	JRA-PAT (Japan) (Famicom Network System).nes
 de34735e04a6ec2101c4ddae79546e78	JuJu Densetsu (Japan).nes
 cec50812b5873417cc250261d588d63a	Jumbo Ozaki no Hole in One Professional (Japan).nes
 cc11baa85b993f032210d8d5fed234c5	Jumpin' Kid - Jack to Mame no Ki Monogatari (Japan).nes
 e06129a966aa07fcdf9b6b03b50b9698	Jungle Book, The (Europe).nes
 36108cbd6c4bc09aa39f6eb9dc72150a	Jungle Book, The (USA).nes
 05b390a30fd49df561e3973b9843523a	Jurassic Boy (Asia) (Ja) (Unl).nes
-0bda46ab6243a07fb256bc866354e5bd	Jurassic Park (Europe).nes
+0bda46ab6243a07fb256bc866354e5bd	Jurassic Park (Europe) (En,Fr,De,Es).nes
 b7ad9b9236eb92c85ca01aed6f883684	Jurassic Park (USA).nes
 c138b82de57f616cebbce5a54cf3ecc0	Just Breed (Japan).nes
 28b8ffd403e7917e63cf2d8d0fb90754	Juuouki (Japan).nes
@@ -1328,6 +1348,7 @@ e8493d946912655e3ea6819204a23245	Kage no Densetsu (Japan).nes
 0770fe76f565209cc166b63c8e2ca7cf	Kage no Densetsu (Japan) (Virtual Console).nes
 95f293bbd42cfea1b7a9b2438b1dcd03	Kagerou Densetsu (Japan).nes
 3144e68f4c3cfc342da7352f79bd1027	Kaguya Hime Densetsu (Japan).nes
+321fa75dbf26a311d4046f52535cf600	Kaijuu Monogatari (Japan) (Namcot Collection).nes
 c064782f5729f32e6a858da551ba239e	Kaijuu Monogatari (Japan).nes
 be8808b4a5670e344689ef9ccd678f94	Kaiketsu Yancha Maru 2 - Karakuri Land (Japan).nes
 4e7a2a1b2ec9606a35d77da78890152f	Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen (Japan).nes
@@ -1378,6 +1399,7 @@ ca0cc2cafaeeaa394a1a6d8093da7235	Kid Kool and the Quest for the Seven Wonder Her
 d9080eb8c48b15fac78400e36997c9d4	King Kong 2 - Ikari no Megaton Punch (Japan).nes
 afc41e2419125768f1bf7ceadf5a3db5	King Neptune's Adventure (USA) (Beta) (Unl).nes
 c0dfe24dedeb3c704a51d3688a2e161d	King Neptune's Adventure (USA) (Unl).nes
+4180b0ab9070e6140b851528648797f1	King of Kings (Japan) (Namcot Collection).nes
 b86da9fffe656105e34ce8df4cd5e9d9	King of Kings (Japan).nes
 9ae759c2b8b048bda8cc1ee6a6354a15	King of Kings, The - The Early Years (USA) (v1.1) (Unl).nes
 b72e4641265ac6c1683f0423c7bb3935	King of Kings, The - The Early Years (USA) (v1.2) (Unl).nes
@@ -1391,6 +1413,7 @@ cfe46067700a192553331aa593801641	King's Knight (USA) (Virtual Console).nes
 7b1016f649a7f21e6c27f3f69904218d	King's Quest V (USA).nes
 5bd5aeac6a4f3023afd9516d4c8ed050	Kinnikuman - Muscle Tag Match (Japan).nes
 788df0aa89798f6da393352bc77639b5	Kinnikuman - Muscle Tag Match (Japan) (Rev 1).nes
+2659d2ebe315aef0415106d0ea5ecddf	Ki no Bouken - The Quest of Ki (Japan) (Namcot Collection).nes
 6bd900b4f8f7fd41164b2ee14c088605	Ki no Bouken - The Quest of Ki (Japan).nes
 f397d53818b0697e6a80ee5cc30d2a23	Kirby's Adventure (Canada).nes
 09e21386297efe7e4bfd717b9c6a697d	Kirby's Adventure (Europe).nes
@@ -1453,6 +1476,7 @@ e0fea66a9e59fb53ec624ede1f5d1c99	Law of the West (Japan).nes
 e2ac6ab2c2622c61eac58a5174f1c874	Layla (Japan).nes
 9129bbf87db0078b5ed37cb20f6a5332	Lee Trevino's Fighting Golf (Europe).nes
 c3e5d566b7f02a790d03965165b1a53c	Lee Trevino's Fighting Golf (USA).nes
+c5df806ef1786d9490dbbc56f208931f	Legacy of the Wizard (USA, Europe) (Namco Museum Archives Vol 2).nes
 7f5b89eaf076618cff6bb3132bff6d11	Legacy of the Wizard (USA).nes
 e64e20f904ac990c584f1b83cb8d531f	Legendary Wings (USA).nes
 716ecb8f3af4acd9ab3b6838b1e97a81	Legend of Kage, The (USA).nes
@@ -1476,13 +1500,12 @@ e9827b209a9fbf02265672dd9ed27001	Lethal Weapon (USA).nes
 094c4bd4016b6bec13a37e77580fa31b	Life Force - Salamander (Europe).nes
 c38326ee583886dbc90f7086bce8e43f	Life Force - Salamander (Europe) (Virtual Console).nes
 99bfd6d0ff53d78e5126d274a0605d30	Life Force (USA).nes
-8937de8b0357f51450916d41ae80b86b	Life Force (USA) (Virtual Console).nes
+8937de8b0357f51450916d41ae80b86b	Life Force (USA) (Rev 1).nes
 e9d6c8512f956768223add68692a3cb4	Lightgun Game 2 in 1 - Cosmocop + Cyber Monster (Asia) (Ja) (Unl).nes
 3ec0cf64e67765d2e1b909ffd7f68b8b	Lightgun Game 2 in 1 - Tough Cop + Super Tough Cop (Asia) (Ja) (Unl).nes
 2fadc729157eb5e282abc59d1ced75ce	Linus Spacehead's Cosmic Crusade (USA) (En,Fr,De,Es) (Unl).nes
 c4934ade63b3a8cde11a7e1bd1cbdec9	Lin Ze Xu Jin Yan (Asia) (Unl).nes
 ed44d9bd086c277149e713889fd537dc	Lion King, The (Europe).nes
-f7464b2be4b9e49f425279bed15f2345	Lipple Island (Japan).nes
 13e192db2d2a05cebef74cf483539a26	Little League Baseball - Championship Series (USA).nes
 f812ca47aca899f5832bd33636d1f9d4	Little Magic (Japan).nes
 8837965a9d6d7e68f78962334f88ad71	Little Mermaid - Ningyo Hime (Japan) (Beta).nes
@@ -1594,9 +1617,10 @@ bc78cb176b6bd1eb6eea2c50069a9699	Maniac Mansion (USA) (Beta).nes
 87ecd2cc23de21ffd69439db9a1ca778	Mappy (Japan).nes
 a20a7432482e98f165833a9280b2754d	Mappy Kids (Japan).nes
 1e1b063e1fc7ebd648bc687dfd0709a3	Mappy-Land (Japan).nes
+a73b1b704e42969aa2e95a898a5023e8	Mappy-Land (USA, Europe) (Namco Museum Archives Vol 2).nes
 6e3d02aa5ea9e1dc02caaabfd789e98f	Mappy-Land (USA, Europe) (Virtual Console).nes
 c6e0793a6053685e2af1934588268bae	Mappy-Land (USA).nes
-d4659a19e29fe64041bf9305078c82cc	Mappy (USA, Europe) (Namco Museum Archives Vol 1).NES
+d4659a19e29fe64041bf9305078c82cc	Mappy (World) (Namcot Collection, Namco Museum Archives Vol 1).nes
 5d50d8f9cf3d6d311a2ac7f010d83be0	Marble Madness (Europe).nes
 81706abdae6d1d11b0c8986fc4383ec0	Marble Madness (USA).nes
 ebe4e0b2bb6194bb3ced8b23b38c896b	Mario Bros. (Europe) (PAL-MA-0).nes
@@ -1670,6 +1694,7 @@ abe5c136ccb1869fee73b86e49c29c66	Meikyuu-jima (Japan).nes
 b791f574b669ecf0f0bdc452f9f5b14f	Meitantei Holmes - Kiri no London Satsujin Jiken (Japan).nes
 c63323f48713697b04282dd9fc4d4ddc	Meitantei Holmes - M kara no Chousenjou (Japan).nes
 75d89a951ee0ad90c7238992ae4b1850	Menace Beach (USA) (Unl).nes
+db16b70ef927f24567e9762286d00bf6	Mendel Palace (USA, Europe) (Namco Museum Archives Vol 2).nes
 b7b3bb47d15de9d4a26eb431ee399ae2	Mendel Palace (USA).nes
 50101d10b79230a3293e6ddfb2bd73fc	Meng Huan - Xiang Shuai Chuan Qi Zhi Xue Hai Piao Ling (Asia) (Unl).nes
 58b161263b44617c92b85ae680782c58	Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Unl).nes
@@ -1687,6 +1712,7 @@ f458676f51302d6aab2f7a3adce97d6a	Metal Max (Japan).nes
 76313f6df0fecc55ee19f761b391da94	Metal Slader Glory (Japan).nes
 dbb9bff88324d80213d871de165f6e8a	Metal Slader Glory (Japan) (Virtual Console).nes
 bd7da02aa57f292cfd3902f6a5b73a59	Metal Storm (USA).nes
+8f25e99264789ff13559cb0a5069dd9a	Metro-Cross (Japan) (Namcot Collection).nes
 107d74939c40ebeb2823f96277792b8e	Metro-Cross (Japan).nes
 51ab2ffd8583eaea3a92f6ff67d9e6ac	Metroid (Europe).nes
 dcfd55a64ddf58fc9d90db2cfdc84ec2	Metroid (Europe) (Virtual Console).nes
@@ -1710,13 +1736,14 @@ dd1845b3b0da808d193b05f8d6792eb6	Mick & Mack as the Global Gladiators (USA) (Pro
 544d3812ac8510c919552b8ae3ba32f3	Micro Machines (Europe) (Unl).nes
 1a9dd4d395d4cae369c586bfd4afff82	Micro Machines (USA) (Aladdin Compact Cartridge) (Unl).nes
 46a92436a4899fd3adc2f5097cdaa5dd	Micro Machines (USA) (Unl).nes
+d41d114a45fa20eb5519fded279020be	Micro Mages (World) (Aftermarket) (Unl).nes
 23c12009bbd32e33f3524e302f53e7f3	MiG 29 - Soviet Fighter (USA) (Unl).nes
 4c90b56953bbb3aecf6a150f633cc0dc	Might and Magic - Book One - Secret of the Inner Sanctum (Japan).nes
 db90d490fac141a6940afb6f2f7b0f72	Might & Magic - Secret of the Inner Sanctum (USA).nes
 337422e3f827763cd03b59caba401c36	Mighty Bomb Jack (Europe).nes
 58a933d89d31e68b66448971d10c5522	Mighty Bomb Jack (Japan).nes
+375cc99a310cb6fe77d984cd15e023fb	Mighty Bomb Jack (Japan) (Rev 1).nes
 ff5bc5b4376b9cca7098a53653bd2f86	Mighty Bomb Jack (Japan) (Rev 1) (Virtual Console).nes
-375cc99a310cb6fe77d984cd15e023fb	Mighty Bomb Jack (Japan) (Rev A).nes
 afa6d274a86d33cfb519515061704af3	Mighty Bomb Jack (USA).nes
 423854f5f4cfa9bdd429e1313eec9bdd	Mighty Final Fight (Europe).nes
 eff2d999a9a379f1ab52037188ac3404	Mighty Final Fight (Japan).nes
@@ -1815,6 +1842,7 @@ a29f43dfc8897a766fc34225f0072f73	Nagagutsu o Haita Neko - Sekai Isshuu 80 Nichi 
 89305006bc5e76876884e95d6ed7d797	Nakajima Satoru - F-1 Hero (Japan).nes
 c1af6bb2382aa8c581d9f31d533c619d	Nakajima Satoru Kanshuu - F-1 Hero 2 (Japan).nes
 6435d290673bf8dfbdf7fa2827a92cbc	Nakayoshi to Issho (Japan).nes
+cbf7c562e02d6a2fbe056d97836bb6f4	Namco Classic II (Japan) (Namcot Collection).nes
 7fe97fc2f596222eba5879264f8e60ba	Namco Classic II (Japan).nes
 00a4cd4d55ba9340c20746bb2b616240	Namco Classic (Japan).nes
 a48cf0a6347ced40226378ee947d09e5	Namco Prism Zone - Dream Master (Japan).nes
@@ -1847,9 +1875,9 @@ cd362a57505fcb67bfc6ecdfe4cdf454	NES Play Action Football (USA) (Virtual Console
 89eed34ca4a758a5e6c1187907638957	New York Nyankies (Japan).nes
 5ed2f332b4fea928a62502a49f2d906a	NewZealand Story, The (Europe).nes
 ad4cbfbea40fdaab552fad21960628d0	NFL (USA).nes
-d91560dd25d2a16ef569f22cd8e0342e	NHK Gakuen - Space School - Sansu 5 Nen (Jou) (Japan).nes
-ac0af1b0b03179f63d39d489b4cc50bc	NHK Gakuen - Space School - Sansu 6 Nen (Ge) (Japan).nes
-67d3c49be7690958ac53553fb2526cc6	NHK Gakuen - Space School - Sansu 6 Nen (Jou) (Japan).nes
+29dafb02643acefbff5481451d2b683a	NHK Gakuen - Space School - Sansu 5 Nen (Jou) (Japan).nes
+2e43eb03389785c251f90c0dd8d45c83	NHK Gakuen - Space School - Sansu 6 Nen (Ge) (Japan).nes
+69aab6d933f6faccd088233082d2dfe7	NHK Gakuen - Space School - Sansu 6 Nen (Jou) (Japan).nes
 b29d200c245fd74a407d4e36c826bfd8	Nichibutsu Mahjong III - Mahjong G Men (Japan).nes
 c48ac511754dcbee6b8ef7488772930a	Nigel Mansell's World Championship (Europe) (En,Fr,De,Es,It).nes
 eef24952a8552ed36efa4b17cadb6c20	Nigel Mansell's World Championship Racing (USA).nes
@@ -1900,7 +1928,7 @@ d16b0853d1ccfbe40f6e6c995db54c4d	Nishimura Kyoutarou Mystery - Blue Train Satsuj
 82bef97bfad8290d7f6f30a77e9e60c8	Nishimura Kyoutarou Mystery - Super Express Satsujin Jiken (Japan).nes
 dbabb9778617cd48f3b43704ea56d984	Noah's Ark (Europe).nes
 2507a4b9a346b012f91bab66ffa21159	Nobunaga no Yabou - Bushou Fuuun Roku (Japan).nes
-ecfe82db14f10bc99d8675bb969f8f31	Nobunaga no Yabou - Bushou Fuuun Roku (Japan) (Rev A).nes
+ecfe82db14f10bc99d8675bb969f8f31	Nobunaga no Yabou - Bushou Fuuun Roku (Japan) (Rev 1).nes
 5c302d1433a068673d453a460418ae41	Nobunaga no Yabou - Sengoku Gunyuuden (Japan).nes
 369bb5296fdbe5c2f06594071ef83f12	Nobunaga no Yabou - Sengoku Gunyuuden (Japan) (Rev 1).nes
 27ea56f52aece329db535285c295d5b8	Nobunaga no Yabou - Zenkoku Ban (Japan).nes
@@ -1918,6 +1946,7 @@ ae39475266898fc25c5b22f493f8a0b0	Oeka Kids - Anpanman no Hiragana Daisuki (Japan
 e94d6314d43905a6c5beaad3ea3f7130	Oishinbo - Kyuukyoku no Menu Sanbon Shoubu (Japan).nes
 06b99a61255c4131aa3f867f4b9f1ebf	Okkotoshi Puzzle - Tonjan! (Japan).nes
 69169572c387f589d4adcf114736eae4	Olympic IQ (Asia) (Ja) (PAL) (Unl).nes
+734528d97213bb5417660c6c85d58856	Olympic I.Q. (Korea) (Unl).nes
 89a08d3b51f8576c213316d7eabadcb6	Olympus no Tatakai (Japan).nes
 528dfee94db72af37d6e094bab6b2047	Onyanko Town (Japan).nes
 f79284193d8333bdc1a51ac2a1cffc4e	Operation Secret Storm (USA) (Unl).nes
@@ -1939,23 +1968,25 @@ aa67d215ade8d289941aa896a8acc9a0	Over Horizon (Japan).nes
 82705bc6ecee3ca93c7f71252fe7ad88	Pachinko Daisakusen (Japan).nes
 5dd53ca7ce6119a7c267bb6ca64bebe1	Pachio-kun 2 (Japan).nes
 8cc255dedfdc7c9a5fb2b7ad5ad096f2	Pachio-kun 3 (Japan).nes
-33891bbdc006adb4724760230356567b	Pachio-kun 3 (Japan) (Rev A).nes
+33891bbdc006adb4724760230356567b	Pachio-kun 3 (Japan) (Rev 1).nes
 c9f2ef4fd13d8a711033a84f277ee953	Pachio-kun 4 (Japan).nes
 769d0dd012aa6162376f71ce8eb8ab23	Pachio-kun 5 (Japan).nes
 59a09bca8ba1879f2a41a5877554e1d2	Pachi-Slot Adventure 2 - Sorotta-kun no Pachi-Slot Tanteidan (Japan).nes
 c731e2712f055ea6d15217dd4cf651b7	Pachi-Slot Adventure 3 - Bitaoshii 7 Kenzan! (Japan).nes
 b130cc246048ab187bd6112826094ede	Pac-Land (Japan).nes
-ee8bc8baed5b9c5299e84e80e6490de6	Pac-Man Championship Edition (USA, Europe) (Namco Museum Archives Vol 1).nes
+063511a533e1e627cbbae7addf85f7ad	Pac-Land (World) (Namcot Collection, Namco Museum Archives Vol 2).nes
+3ce1e6feec9c95e81e57e0b3d2a4619d	Pac-Man Championship Edition (Japan) (En) (Namcot Collection) (Aftermarket).nes
+ee8bc8baed5b9c5299e84e80e6490de6	Pac-Man Championship Edition (USA, Europe) (Namco Museum Archives Vol 1) (Aftermarket).nes
 397164fddfbb1ba87734f6f56887dfab	Pac-Man (Europe).nes
 d68df697de93f84f45a85a0e5dbd1b1e	Pac-Mania (USA) (Unl).nes
 991118f99cde0ad3fb2bf452d038e93b	Pac-Man (Japan) (En).nes
 e4cc2e365fe5d0a43bb538981ab37bfd	Pac-Man (Japan) (En) (Rev A).nes
 10a12b5840a13e8f3a61885c44bf3b8d	Pac-Man (Japan) (En) (Rev B).nes
-a9cbf8f3becf919a0228abb8b88ecf9c	Pac-Man (USA, Europe) (Namco Museum Archives Vol 1).NES
 ca606bd8a875a396d52735c3bb84fa67	Pac-Man (USA) (Namco).nes
 c4ae6cc4e981a8316429572409018dc8	Pac-Man (USA) (Tengen).nes
 1a860b28ad960dfd700b066924341edb	Pac-Man (USA) (Tengen) (Unl).nes
 bf3a94cd5fc5a8a5733fb5776831fb62	Pac-Man (USA) (Virtual Console).nes
+a9cbf8f3becf919a0228abb8b88ecf9c	Pac-Man (World) (Rev A) (Namcot Collection, Namco Museum Archives Vol 1).nes
 eaa13aaccf8a1475aa9ce75fed61933d	Pajama Hero - Nemo (Japan).nes
 d7eb466a8ce17b2fc757b80a7a23f289	Palamedes II - Star Twinkle, Hoshi no Mabataki (Japan).nes
 4467f93e6b81a51a662462177dbaee4a	Palamedes (Japan).nes
@@ -2001,8 +2032,7 @@ ad809323fe92d0e083bf77ccecae462e	Pinball (Japan, USA).nes
 3aee10e4706ef3515a97b4dfddd619f0	Pin Bot (Europe).nes
 6e5ad2ccba578b7060713512e36fc221	Pin Bot (USA).nes
 6ff5c5da9f7ff2600e18f0f168cd8389	Pipe Dream (USA).nes
-d93744516d36a6f238edbc9778d31040	Pipemania (Australia) (HES) (Unl).nes
-57eb67ab85b13631b7ea6bc9623c64d7	Pipe V (Asia) (Ja) (Unl).nes
+d93744516d36a6f238edbc9778d31040	Pipe V ~ Pipemania (Asia, Australia) (Unl).nes
 c80b5ef31224cd2756ca5551cbdb8ac7	Pirates! (Europe).nes
 1415319a681d9fcb254cdf5e8f4158c7	Pirates! (Germany).nes
 f730d2bf5c3e6b56b4630440757e7334	Pirates! (USA).nes
@@ -2014,9 +2044,7 @@ ef20075d2e201bf010cdf9f33301ce08	Playbox BASIC (Japan) (v0.0) (Beta).nes
 ab6d6738f3c1d9f72659c8d17eb9b9cf	Pocket Zaurus - Juu Ouken no Nazo (Japan).nes
 377d7b998756939523efd67176810c17	Poke Block (Asia) (Ja) (Unl).nes
 3a8d2aa7a700cb9755fb9d265c36b912	Poker II (Asia) (Ja) (Unl).nes
-7aea6d4a5b81b772ecae5a85d540f761	Poker III (Asia) (Ja) (Alt 1) (Unl).nes
-968359a332d91fb56a113383ea8ba32b	Poker III (Asia) (Ja) (Alt 2) (Unl).nes
-2b49c714e4cc4f1d29ade52ca003fe41	Poker III (Asia) (Ja) (Unl).nes
+968359a332d91fb56a113383ea8ba32b	Poker III (Asia) (Ja) (Unl).nes
 003b6f60f45ea586117f7c7cfb811837	Poker Mahjong - Pu Ke Mao Que (Asia) (Ja) (Unl).nes
 7c83b2202fa70dfdfe353cc1dc7bbcaf	Policeman (Spain) (Gluk Video) (Unl).nes
 5b1248b99bf3113f5bee30501e8a7e15	Pooyan (Japan).nes
@@ -2093,6 +2121,7 @@ b26d345f3c80f9318bc154703f086dad	Qi Wang - Chinese Chess (Asia) (Ja) (Unl).nes
 c4afb62469145c5af016db8cdabf60aa	Quattro Adventure (USA) (Unl).nes
 0a51c89f776712fe75839c5a1473ffd4	Quattro Arcade (USA) (Unl).nes
 23730812172fe70e4bef3509285ae9ae	Quattro Sports (USA) (Unl).nes
+1b89c60bc5ab9c7a9bb390b2bc5d05db	Quinty (Japan) (Namcot Collection).nes
 c8f37bd24fbed6395eb834daecbdcf50	Quinty (Japan).nes
 181d78fe4cfd83deb01db4888f625ce6	Racermate Challenge II (USA, Australia) (v3.12.027) (Unl).nes
 4886e501ad27603cecf83039699e1245	Racermate Challenge II (USA) (v3.11.088) (Unl).nes
@@ -2150,6 +2179,7 @@ f7710e3211d40ac044bdc23d7537465c	Ren & Stimpy Show, The - Buckeroo$! (USA).nes
 332c4a179291f951888d4c48419b8639	Rescue - The Embassy Mission (USA) (Beta).nes
 0c3052f71a7be0319ba2f4846d310d93	Rescue - The Embassy Mission (USA).nes
 95de4c5a5b6de6df4268406803edcbff	Ring King (USA).nes
+f7464b2be4b9e49f425279bed15f2345	Ripple Island (Japan).nes
 439a3420552a300089ddef13b7e83765	River City Ransom (USA).nes
 12b5c22ed4fe2761e376dc86b157d469	RoadBlasters (Europe).nes
 4706d5c09acab9b0fe009ccaf4b8bfb6	RoadBlasters (USA).nes
@@ -2189,7 +2219,7 @@ f013c4b2c8b493a9b58346fec390730b	Rockman 2 - Dr. Wily no Nazo (Japan) (Virtual C
 4f168c40ef35e5a0f4256d707067526f	Rockman 3 - Dr. Wily no Saigo! (Japan).nes
 5121aac71508b1f453fc49ea28c4b7bd	Rockman 3 - Dr. Wily no Saigo! (Japan) (Virtual Console).nes
 9de64e4c39deafcdd2c186b6327e4f61	Rockman 4 - Aratanaru Yabou!! (Japan).nes
-37c3d522527193928a2c4a9b85ab6c27	Rockman 4 - Aratanaru Yabou!! (Japan) (Rev A).nes
+37c3d522527193928a2c4a9b85ab6c27	Rockman 4 - Aratanaru Yabou!! (Japan) (Rev 1).nes
 c5bb05d28b00d1fda232d8877fcc05d0	Rockman 4 - Aratanaru Yabou!! (Japan) (Virtual Console).nes
 328f55e3beff0b28a0df4d5ab7cfcd3a	Rockman 5 - Blues no Wana! (Japan).nes
 40d913ac6aaa4da78749ab6cfb2db4ff	Rockman 5 - Blues no Wana! (Japan) (Virtual Console).nes
@@ -2210,6 +2240,7 @@ e15197f82c856a8f6b7e08cd6caf4578	Rollerblade Racer (USA).nes
 fc6a9ae75920ed499ff69587cd091ca5	Rollergames (USA).nes
 ced3afbb1bf7fa240dd285be3150ecb8	Rolling Thunder (Japan).nes
 22539b96c810eddd4c252e1e90bcd5bf	Rolling Thunder (USA) (Unl).nes
+712d69da2bdc39ef885e9dcc2a7e9711	Rolling Thunder (World) (Namcot Collection, Namco Museum Archives Vol 2).nes
 e5eaa4ac9bfd692c135fc1df58f0f271	Romance of the Three Kingdoms II (USA).nes
 426a244048677f5179f714e138c104f0	Romance of the Three Kingdoms (USA).nes
 a8ce434a290b5995a7e7a126586f4093	Romancia (Japan).nes
@@ -2242,6 +2273,7 @@ d5899e1d18712f4c0ed11abfa2bdae67	Sangokushi II (Japan) (Rev 1).nes
 5fb2af97cb4643b5e40cbf97388a3b64	Sangokushi (Japan).nes
 8902eea254f33850c307bbe2303a079d	Sangokushi (Japan) (Rev 1).nes
 d6b8cb58fc41f8762924200b072479ed	Sanguo Chunqiu - Sichuan Sheng (Asia) (Unl).nes
+5245738b774fb01a72acc1af3cf97553	Sanguozhi - Chibi zhi Zhan (Asia) (Unl).nes
 21025b4d3966e84c372f9c2dd49a3ca3	San Guo Zhi - Qun Xiong Zheng Ba (Asia) (Ja) (Unl).nes
 04766d9881ececa135501414fc4ca867	San Guo Zhong Lie Zhuan (Asia) (Unl).nes
 3b8e5a12a73c486f2321f040471e87c9	Sanma no Meitantei (Japan).nes
@@ -2306,7 +2338,6 @@ e11377293fff45358d99aee90f98cbd6	Sesame Street - Big Bird's Hide & Speak (USA).n
 a0a3ad20b7dc3384b7e9fe55fdad7131	Shadow Warriors II - Ninja Gaiden II (Europe).nes
 60e2600fa999530ea5b3964d1048e143	Shadow Warriors - Ninja Gaiden (Europe).nes
 8231d6f80497f929815dc02687d88f65	Shadow Warriors - Ninja Gaiden (Europe) (Virtual Console).nes
-388b4cb2c77ccb29deaa09930d43ec35	Shaffle Fight (Japan).nes
 e278671680955392435e67f3cd386ff8	Shang Gu Shen Jian (Asia) (Unl).nes
 b822f7fcaa99bcabbf85926211e676a2	Shanghai II (Japan).nes
 3a7dcfe94ddda96287a535d46bcf0034	Shanghai (Japan).nes
@@ -2337,12 +2368,13 @@ e9e10925cb26defc6463696884f73d2c	Shoukoushi Ceddie (Japan).nes
 181f9ac93dcb60e7b03fee2b8b6e1726	Shounen Ashibe - Nepal Daibouken no Maki (Japan).nes
 ebb7d13cd825e5edac5e16502f1eefba	Shuang Xiang Pao (Asia) (Ja) (Unl).nes
 3063dc297cce1836f09094e8bad9ed31	Shuang Ying (Asia) (Ja) (Unl).nes
+388b4cb2c77ccb29deaa09930d43ec35	Shuffle Fight (Japan).nes
 9138cd2210fc8a7e31943efa35e6a46a	Shufflepuck Cafe (Japan).nes
 a8afd9baa340c2c4978ed583f46449c3	Shui Guo Li (Asia) (Unl).nes
 6bdfae452ac51c8f7118b5789d1fb1b7	Side Pocket (Europe).nes
 b637dff4645cc946dc46245d59ce1d33	Side Pocket (Japan).nes
 b2e9418c80a3561cb182bfcd13174edb	Side Pocket (USA).nes
-75da1bf05635f2a7f0ffaee213ec2b09	Sidewinder (Asia) (Ja) (PAL) (Unl).nes
+75da1bf05635f2a7f0ffaee213ec2b09	Sidewinder (Asia) (Ja) (Unl).nes
 240302af153103e9136269933d696daf	Sidewinder (Australia) (Unl).nes
 7bdb0741731d691f62385558b0040a7c	Silent Assault (Asia) (Ja) (PAL) (Unl).nes
 74217ac0810e744d53a389987fe47cfa	Silent Assault (USA) (Unl).nes
@@ -2373,9 +2405,10 @@ ae3b6cb2110ccb433f3a3ed716a00622	Skull & Crossbones (Korea) (Unl).nes
 e5eab2edf05eb6dba7c7010a6633759b	Sky Destroyer (Japan).nes
 15dd0c7a71697a01479776862a8a2e55	Sky Kid (Japan).nes
 94262ecf258c01d28e8d91eba8eb55ea	Sky Kid (Japan) (Virtual Console).nes
-25d14c40cf3a6438e8db7946e4912243	Sky Kid (USA, Europe) (Namco Museum Archives Vol 1).NES
 37ed0da809b7d115458709e9e0749976	Sky Kid (USA).nes
+25d14c40cf3a6438e8db7946e4912243	Sky Kid (World) (Namcot Collection, Namco Museum Archives Vol 1).nes
 e38ca930c8cd0495437aa0ee1af53108	Sky Shark (USA).nes
+18b952407c404b85762cef975705d402	Sky Shark (USA) (Rev 1).nes
 c3410645b5a94b8cce90afd14d3532dc	Slalom (Europe).nes
 4d9a6662fd870a684b327046d0f13c60	Slalom (USA).nes
 a9feec5996031eb98c0f99a525256f62	Smash T.V. (Europe).nes
@@ -2433,7 +2466,7 @@ c89cc4a69eb2e5f10a2f26f39a983de6	Spiritual Warfare (USA) (v5.1) (Unl).nes
 2d2c9630c5c32a0846ab06f5d1135dd0	Spiritual Warfare (USA) (v6.0) (Unl).nes
 c814085085e65fd6b478d2b1c24a7831	Spiritual Warfare (USA) (v6.1) (Unl).nes
 d48f63a48cf051a1f3261a29549ba173	Splatterhouse - Wanpaku Graffiti (Japan).nes
-7ab249168f3f943424837060991fa4d9	Splatterhouse - Wanpaku Graffiti (USA, Europe) (Namco Museum Archives Vol 1).NES
+7ab249168f3f943424837060991fa4d9	Splatterhouse - Wanpaku Graffiti (World) (Namcot Collection, Namco Museum Archives Vol 1).nes
 e12f3fd85f96f9a61fe38626a1b5cefa	Spot (Japan).nes
 44f5b716cf5ee0164c151106d0e68dce	Spot - The Video Game (USA).nes
 ac55003f1de6b36204f2d0e53d6b8058	Spy Hunter (USA).nes
@@ -2455,6 +2488,7 @@ e5b39591dafbac1ee1de2d10fd2a32c2	Star Force (Japan).nes
 06834b3dc9f2065d140fe531098fdbaa	Star Force (USA) (Beta).nes
 db9a2c5492bd793d7091cd656c7f28cd	Star Force (USA).nes
 0909a5ce598384fc2c547f0dc319a91c	Star Gate (Japan).nes
+408423d59e46dd07871f243623f44c9b	Star Luster (Japan) (Namcot Collection).nes
 69a18f44736e7160d34f3a610f3a9c3c	Star Luster (Japan).nes
 b50657267d67c5f46fd77737b0d5bdd5	Star Luster (Japan) (Virtual Console).nes
 31c70b49933f43150227afe00de13ede	Starship Hector (USA).nes
@@ -2504,7 +2538,7 @@ f32b8a01f66315f8f3229756d3a748e9	Suikoden - Tenmei no Chikai (Japan).nes
 86e917c37515ace20d3b50dca4551f3b	Summer Carnival '92 - Recca (Japan).nes
 8224636a1656365c0d2b10a104155149	Sunday Funday - The Ride (USA) (Unl).nes
 c897a30c30f84ac144b29f8de9f5b480	Sunman (Europe) (Proto).nes
-8dc98fb6af365fefa2d9fc5ea73adca1	Super 190-in-1 (Unknown) (Unl) (Pirate).nes
+8dc98fb6af365fefa2d9fc5ea73adca1	Super 190-in-1 (Asia) (En) (Unl) (Pirate).nes
 e77e4ecb23156769877b797b6989aeeb	Super Adventure Quests (Europe) (Unl).nes
 50a29fad971f429d605765485f881eee	Super Arabian (Japan).nes
 01cdc80af187de0be6641bd218afc328	Super Black Onyx (Japan).nes
@@ -2554,10 +2588,11 @@ cfdb8c306f3f78dceee6adf8e7fb9785	Super Mario Bros. + Duck Hunt (Europe).nes
 d821fb982ce47299fdb08a027ec0b8be	Super Mario Bros. + Duck Hunt (USA).nes
 16aed4ec9dc1826e925b7fbe797fbe1b	Super Mario Bros. + Duck Hunt + World Class Track Meet (USA).nes
 5f11fc50bfc5d164188cae495f59eb65	Super Mario Bros. + Duck Hunt + World Class Track Meet (USA) (Rev 1).nes
-ba39dde63ab209b1bc751e0535e72b18	Super Mario Bros. (Europe) (PAL-SM).nes
+ba39dde63ab209b1bc751e0535e72b18	Super Mario Bros. (Europe).nes
 82fe72b2437d871ba4057e574307d204	Super Mario Bros. + Tetris + Nintendo World Cup (Europe).nes
 690ef25921a067c03218e473c3ba05f6	Super Mario Bros. + Tetris + Nintendo World Cup (Europe) (Rev 1).nes
-8e3630186e35d477231bf8fd50e54cdd	Super Mario Bros. (World) (HVC-SM).nes
+8e3630186e35d477231bf8fd50e54cdd	Super Mario Bros. (World).nes
+41270c17731e10c9fb7b7ce8a7ecdb38	Super Mario Club (Japan) (FCN000-09) (Famicom Network System).nes
 b1046a4efbb22aae7aa82dda552d8efe	Super Mario USA (Japan).nes
 4b09e284a6db579c117629e76684f488	Super Mogura Tataki!! - Pokkun Mogurar (Japan).nes
 f1e5a1b34635797f435de7881f757371	Super Momotarou Dentetsu (Japan).nes
@@ -2575,7 +2610,7 @@ b8f1d67056244f55daf6f553035e2943	Super Rugby (Japan).nes
 17c68997fbe55f42a8db4581d82f0949	Super Spike V'Ball (USA).nes
 b3b712d9dd385002b9d1a9ab76d8be63	Super Sports Challenge (Europe) (Plug-Thru Cart) (Unl).nes
 e280090f6e955593b258fd6f0b8ed861	Super Sports Challenge (Europe) (Unl).nes
-4a696f14585786de8ce0724ed78070fc	Super Sprint (Japan).nes
+4a696f14585786de8ce0724ed78070fc	Super Sprint (Japan) (En).nes
 4e64ee43d2ac827f43e5765e82f65037	Super Sprint (USA) (Unl).nes
 ca1b406528cc17e874f1bb82a3367009	Super Spy Hunter (Europe).nes
 ad616c52049f2a5ebb218495198b085a	Super Spy Hunter (USA).nes
@@ -2584,6 +2619,7 @@ ad616c52049f2a5ebb218495198b085a	Super Spy Hunter (USA).nes
 f71b26b141d56a24b0efea9495b4076e	Super Team Games (USA).nes
 eaf108f829cf64ffa7f944e5ae420676	Super Turrican (Europe).nes
 344aa46ffad91fcae2bdf6d13825aa51	Super Xevious - Gump no Nazo (Japan).nes
+8d7c9d3fe43297d5b078ba46a555b0d8	Super Xevious - Gump no Nazo (USA, Europe) (Namco Museum Archives Vol 2).nes
 5ee0856ec2dd755bd3f0411f10045d83	Swamp Thing (Europe).nes
 6ab3cda998870d5384d3548d70e86cb6	Swamp Thing (USA).nes
 d1f7a06784904b6fc6c8028d0a6201ec	SWAT - Special Weapons and Tactics (Japan).nes
@@ -2595,7 +2631,6 @@ d1a2eb1c5f6cb93773360474b4492d75	Sword Master (USA).nes
 1933d6359e57fb85aa9c653d29376bc3	Swords and Serpents (Europe).nes
 13e2459ea4b721669cfaf94e6985ad8a	Swords and Serpents (France).nes
 6781b8334da2ee5477d2eb7d8c8e2e8f	Swords and Serpents (USA).nes
-999bfa0131f839cdaf8dfce742f99955	Taan Hak Fung Wan - King Tank (Asia) (Unl).nes
 4a9f9a808d6d7127a2dd4caa5e6aebb6	Taboo - The Sixth Sense (USA).nes
 334936fce3f4d7d0e028bc4589e2b81b	Taboo - The Sixth Sense (USA) (Rev 1).nes
 c4bfc3fdec05be0dffe68beed760dfc0	Tagin' Dragon (USA) (Unl).nes
@@ -2628,6 +2663,7 @@ fac221069916be1226b6403c1e2f73b6	Tamura Koushou Mahjong Seminar (Japan).nes
 be02305b2c33f55190dfde4920a44aef	Tanigawa Kouji no Shougi Shinan II (Japan).nes
 cc77b7e89a48cac0b26d07eaeceb7c3e	Tank (Asia) (En) (Asder) (Unl).nes
 979d4534684f85611cb16f73e29f11b4	Tank (Asia) (En) (Caltron) (Unl).nes
+999bfa0131f839cdaf8dfce742f99955	Tank Fengyun - King Tank (Asia) (Unl).nes
 8c12e63531158158b286e188a0178dfe	Tanque (Spain) (Gluk Video) (Unl).nes
 f0a560c5702de293b94f2b65addcf087	Tantei Jinguuji Saburou - Toki no Sugiyuku Mama ni (Japan).nes
 2dada98966f824416be887a438a7846c	Tantei Jinguuji Saburou - Yokohamakou Renzoku Satsujin Jiken (Japan).nes
@@ -2677,9 +2713,10 @@ e8efd6bdfa09746dbb31dc52346d9df9	Teenage Mutant Ninja Turtles (USA) (Beta).nes
 2dddc2cae0a7fe890235aef72a9a86ae	Teenage Mutant Ninja Turtles (USA).nes
 e39e6c202b7a904b8de9fab351682361	Teenage Mutant Ninja Turtles (USA) (Virtual Console).nes
 3dc2c67c5d3ac57e78314afc4e56abbb	Tenchi o Kurau II - Shokatsu Koumei Den (Japan).nes
-afe5be8b32cf568faa424f127b85ff96	Tenchi o Kurau II - Shokatsu Koumei Den (Japan) (Rev A).nes
+afe5be8b32cf568faa424f127b85ff96	Tenchi o Kurau II - Shokatsu Koumei Den (Japan) (Rev 1).nes
 4d1c80552d0d0f281b1888fe843a57f8	Tenchi o Kurau (Japan).nes
-03a00ca579783adeaaa7d433ae032e9b	Tenchi o Kurau (Japan) (Rev A).nes
+03a00ca579783adeaaa7d433ae032e9b	Tenchi o Kurau (Japan) (Rev 1).nes
+6985ed082ebb14035889b5aae20a85ea	Tenkaichi Bushi - Keru Naguuru (Japan) (Namcot Collection).nes
 1216b9c8c21d64c547181259534171b0	Tenkaichi Bushi - Keru Naguuru (Japan).nes
 b7bdf89533e075fa5a8206b8147fffdd	Tenka no Goikenban - Mito Koumon (Japan).nes
 492a13fd1cb8e4333bc249f223351d5e	Tennis (Europe).nes
@@ -2781,7 +2818,7 @@ f8692de795791be59cd22b421c200954	Tower of Radia (USA) (Proto).nes
 3268089218c08d38d77b6fdfa5a2092b	Toxic Crusaders (USA).nes
 ae233a5ff570e664adfbba502c67488e	Track & Field II (Europe).nes
 4621bb73db9d6fa48d9edf9e806d7555	Track & Field II (USA).nes
-3b0a18329c99345e62a2442a4cb102ba	Track & Field II (USA) (Rev A).nes
+3b0a18329c99345e62a2442a4cb102ba	Track & Field II (USA) (Rev 1).nes
 aa343bbf4386fe14283c46d9ef3ade84	Track & Field in Barcelona (Europe).nes
 7def939a80cb14d296da855eb40eb722	Track & Field (USA).nes
 3ecce238af49ae27804d17e71a4aa958	Treasure Master (USA).nes
@@ -2848,12 +2885,13 @@ d49344c12514bcd5660dc7e9baa9f910	U.S. Championship V'Ball (Japan) (Sample).nes
 99552570212d49ef461037d1a5d46411	Ushio to Tora - Shinen no Taiyou (Japan).nes
 357727c5a29b2a801382b4d744080fc3	Utsurun Desu - Kawauso Hawaii e Iku (Japan).nes
 a1c431dba9b91420ba733c362bdb0eea	UWC (USA) (Proto).nes
+d0803f9864accc714c05595feb601d17	Valkyrie no Bouken - Toki no Kagi Densetsu (Japan) (Namcot Collection).nes
 6d7f0b19c764a04d2af762a4791b096c	Valkyrie no Bouken - Toki no Kagi Densetsu (Japan).nes
 9d56b1d2ec345a41ddcb008989c619f4	Valkyrie no Bouken - Toki no Kagi Densetsu (Japan) (Virtual Console).nes
 46eb603a83a02dacf3deba6e546c5067	Vegas Connection - Casino kara Ai o Komete (Japan).nes
 c6e44ae491905e4a7c3ab8e5ba3504a3	Vegas Dream (USA).nes
-9c7febec082e4e96df38392a59ea7db4	Venice Beach Volleyball (Asia) (Ja) (Idea-Tek) (Unl).nes
-eb03e843f0566fd11bd9b327d4384e74	Venice Beach Volleyball (Asia) (Ja) (Super Mega) (Unl).nes
+9c7febec082e4e96df38392a59ea7db4	Venice Beach Volleyball (Asia) (En) (Idea-Tek) (Unl).nes
+695d2d582c3c45dfa33c21fa2374c35f	Venice Beach Volleyball (Asia) (En) (Super Mega) (Unl).nes
 ae8103c0c8253d1fb15b8fdf6c2fc4a3	Venice Beach Volleyball (USA) (Beta) (Unl).nes
 4608e72c37168a59e30abf045c0807c7	Venice Beach Volleyball (USA) (Unl).nes
 02bd507311ce4188e87bf8da70c5dd70	Venus Senki - Back the City (Japan).nes
@@ -2872,6 +2910,7 @@ edc58fc83077a0e8713e2c2c73ef7306	Volleyball (USA, Europe) (Virtual Console).nes
 4238f0a8612ea6b4bcbd39c416a64321	Wagyan Land 2 (Japan).nes
 ee219ebb5b48c88582bd0580753f7a98	Wagyan Land 2 (Japan) (Virtual Console).nes
 9162786a869b583b0726669919840449	Wagyan Land 3 (Japan).nes
+4d78c2f8b5b61e49c31e7e3188408750	Wagyan Land (Japan) (Namcot Collection).nes
 60d03e838fc7c90cdf35c68cd265a0fa	Wagyan Land (Japan).nes
 2de8d9bfa4dfbd40cf0fb3bb1ed0f47b	Wait and See! (Asia) (En) (Unl).nes
 2a34bc509950f95c1d80def607390a05	Wai Wai World 2 - SOS!! Paseri Jou (Japan).nes
@@ -2889,11 +2928,12 @@ b2990a023217d5a26e89b554c9617954	War in the Gulf ~ Guerra del Golfo, La (Brazil,
 04e683b752e2768d4ca2f66550da2fd2	Wario's Woods (Europe).nes
 bec7fa447c1c8e13a87bd4a5685ce563	Wario's Woods (USA).nes
 867908545370f25cbf420ee99c5417b3	War on Wheels (USA) (Proto).nes
+66f87c4452dc5f9e1310d9639f19b994	Warpman (Japan) (Namcot Collection).nes
 ddda8653ebc615881fdc67ef8d82169f	Warpman (Japan).nes
 4f12bafb1f5457ede7aafcb77958f51d	Wayne Gretzky Hockey (USA).nes
 eabf71159fd071cfc36158cc983d2088	Wayne's World (USA).nes
 7f43974f12a0398be95a423fd2951ac4	WCW World Championship Wrestling (USA).nes
-669eb647103a9a80e114ec878debf665	Wei Lai Xiao Zi (Asia) (Ja) (Unl).nes
+669eb647103a9a80e114ec878debf665	Wei Lai Xiao Zi - Joy Van Kid (Asia) (En) (Unl).nes
 8fc182dc7847bf0b2c5dbf4da47146b1	Werewolf - The Last Warrior (Europe).nes
 eb0030981c6ce9066ae9735d9a3b7273	Werewolf - The Last Warrior (USA).nes
 1f036597a6f8e55981d0fe0fb62d7121	Western Kids (Japan).nes
@@ -2961,7 +3001,7 @@ c992bd209a931d79f3e1ece5a13ac759	Xevious (Europe).nes
 8df1706c635f745a10d051e6063b310f	Xevious (Japan) (En).nes
 5729506cd87f3abf093c44dd6b5a6619	Xevious (Japan) (En) (Rev 1).nes
 7a528fa727623ba7704fdbb519f3419f	Xevious - The Avenger (USA).nes
-04c1cf84a3b9fbb012cd34e331b4cfac	Xevious (USA, Europe) (Namco Museum Archives Vol 1).NES
+04c1cf84a3b9fbb012cd34e331b4cfac	Xevious (World) (Namcot Collection, Namco Museum Archives Vol 1).nes
 b37f322f3f1b42f21d0d41483f79f403	Xexyz (USA).nes
 5efd89570173d80db2be1c6639d5a316	Xiao Ma Li (Asia) (Idea-Tek) (Unl).nes
 648a61aee6f452d56a6b30895c4bedd3	Xiao Ma Li (Asia) (Nei-Hu) (Unl).nes
@@ -2975,7 +3015,7 @@ bc8307272ac10d02fc57654fb683437a	Xing Zhan Qing Yuan (Asia) (Unl).nes
 e035b66df685b4c5a59d66e4bc491b3a	Yie Ar Kung-Fu (Japan) (Rev 1.2).nes
 3c811b8b45949925cb02cc90befbfa35	Yie Ar Kung-Fu (Japan) (Rev 1.4).nes
 73555acd98b03387c3a2c6cbad76af9b	Ying Lie Qun Xia Zhuan (Asia) (Unl).nes
-c92e116f0e7a02f9de5fb6cb65446eda	Ying Xiong Yuan Yi Jing Chuan Qi (Asia) (Unl).nes
+c92e116f0e7a02f9de5fb6cb65446eda	Ying Xiong Yuan Yi Jing Chuan Qi (Asia) (Unl) (Pirate).nes
 c91cb324cf0575d550a1361645311ca0	Yo! Noid (USA) (Beta).nes
 9f6699315a98a17f953eef92f179992b	Yo! Noid (USA).nes
 8bfee9278d3edce7ff1b0686d87be7f9	Yoshi no Cookie (Japan).nes
@@ -2986,6 +3026,7 @@ ed3dc4465e4053bdfe42cc33e4e6a956	Yoshi's Cookie (USA).nes
 29bff961fde22d3675694e0fd4811289	Yoshi's Cookie (USA) (Virtual Console).nes
 7475cb5f648d86da02d3f6e4197c974c	Yoshi (USA).nes
 ab6a36e6cb684561ff64906a65077986	Youkai Club (Japan).nes
+7ecfb7cc82cd3c64a33982f7b1518899	Youkai Douchuuki (Japan) (Namcot Collection).nes
 3b8405f971329a37d70fa1fd82da9034	Youkai Douchuuki (Japan).nes
 fd7fe2ed2ec796dc706e4b000924018f	Youkai Douchuuki (Japan) (Virtual Console).nes
 f63a073edcdbb1c5fce1c6e9f73c7a18	You Ling Xing Dong (Asia) (Unl).nes
@@ -3008,9 +3049,10 @@ b26b4ac0123c28fb52cc1d1ed7ede41f	Zenbei Pro Basket (Japan).nes
 ec0cebca9fd2c95d7bde82a442bc3007	Zen - Intergalactic Ninja (Europe).nes
 b1632c2ac1a75882eb0423906d06f0d9	Zen - Intergalactic Ninja (USA).nes
 a0f73a764c05c72530d41d820ea3bfb0	Zhan Guo Si Chuan Sheng (Asia) (C&E) (Unl).nes
-6096934190985da3a430df74db6e6c62	Zhan Guo Si Chuan Sheng (Asia) (Nei-Hu) (Unl).nes
+6096934190985da3a430df74db6e6c62	Zhan Guo Si Chuan Sheng (Asia) (Idea-Tek) (Unl).nes
 13aa7468df694cbf537fb98bfcc9d57b	Zhen Ben Xi You Ji (Asia) (Ja) (Unl).nes
 cb0f23e34c5cbe80248e642e520d7afe	Zhi Li Xiao Zhuang Yuan (Asia) (Unl).nes
+13aae491bd84746e1adc5465baaafee7	Zhongguo Daheng (Asia) (Unl).nes
 5f4872f747ca7880ab110bf9288c3bad	Zhong Guo Mahjong (Asia) (Unl).nes
 9540143fd68832fa1f90714be28e3d40	Zhong Guo Xiang Qi - Chinese Chese (Asia) (Ja) (Unl).nes
 fd6756ad2e51aee67a8fc85b877360ba	Zhuang Qiu Chuan Shuo Hua Zhuang II - Ball Story (Asia) (Unl).nes

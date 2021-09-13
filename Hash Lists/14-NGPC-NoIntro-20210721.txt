@@ -1,0 +1,119 @@
+3655AACEBB43A963607D4CF821FC1301	[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja).ngp
+2C7076BD626B8360F8D3834384323F30	Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).ngc
+F2F296F4BE215E826FAC519FBA96609B	Baseball Stars Color - Pocket Sports Series (World) (En,Ja).ngc
+F384FF31B5B27903383E3C597654A9D5	Big Bang Pro Wrestling (Japan) (En,Ja).ngc
+CA3E26E2F539DBD35092FA9D7F561AFF	Bikkuriman 2000 - Viva! Pocket Festival! (Japan).ngc
+570086C0C471392E8058A913D5C7AE21	Biomotor Unitron (Japan).ngc
+F4BBE8CF42074B75C8A911BF7B0562D5	Biomotor Unitron (USA, Europe).ngc
+4E9E47682CDB5BC314131548A4FB1A95	Biomotor Unitron (Japan) (Demo).ngc
+1AFB182567C6030C6D68F257E6245184	Bust-A-Move Pocket (USA).ngc
+29A8A310B704E8DAFEE71CEA0AD53DF0	Bust-A-Move Pocket (USA) (Beta).ngc
+DC8FA0CEDEF94FE22A219F2EECA43DC0	Cool Boarders Pocket (Japan, Europe) (En,Ja).ngc
+F367E3BD61C308966A4815200FAFB6A6	Cool Cool Jam (Japan).ngc
+CA88E3D6291C5CDF7B518D43DF5D0D98	Cool Cool Jam (USA) (Proto).ngc
+100F6086BBCD6BCCD2AC6F79242F5A87	Crush Roller (World) (En,Ja).ngc
+FE0E58D34D650AE5174CA03D3EFC67B0	Dark Arms - Beast Buster 1999 (World) (En,Ja).ngc
+D4651757A3DB5A8E5A5A64C337C6002F	Delta Warp (Japan) (En,Ja).ngc
+415E33891C1EFF49CADD35D400D350CE	Delta Warp (Japan) (Beta).ngc
+26D0557D8A465AA8F430D5E4D94C679A	Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).ngc
+C79DD020410D1D80C2709CB6AF4CF64A	Densha de Go! 2 on Neo Geo Pocket (Japan).ngc
+13F0584AEAB81FDBCDB09BC89367BD89	Densha de Go! 2 on Neo Geo Pocket (Japan) (Beta).ngc
+C148B30103DE704EEED63DFE7A7D6100	Dive Alert - Becky's Version (USA, Europe).ngc
+B149CB1F866942ECA70DF78BB25351CF	Dive Alert - Burn Hen (Japan).ngc
+D96C97BD9C0675B9B81348B06977B60F	Dive Alert - Burn Hen (Japan) (Beta).ngc
+0C38B2D5D1A2BE15D6C15C6B16B7BC98	Dive Alert - Matt's Version (USA, Europe).ngc
+B26C96EE636795787CF58E2D5DB56C4A	Dive Alert - Rebecca Hen (Japan).ngc
+66885D788F8474295FCCBEBA107F2421	Dokodemo Mahjong (Japan).ngc
+C84F675A617DF14B1A1BF06F02BE773D	Dynamite Slugger (Japan, Europe) (En,Ja).ngc
+9C9C2D533BE340600EF9F92ED1253DD9	Evolution - Eternal Dungeons (Europe).ngc
+5A2A155706A201A1C0227C7FE671256F	Fantastic Night Dreams - Cotton (Europe).ngc
+F6C0C5D77EAE342FCDD6CFFABF783226	Fantastic Night Dreams - Cotton (Japan).ngc
+F580078164DC2B8DFFB9F38EEEC1035D	Faselei! (USA, Europe).ngc
+08B5385BD6D1FDCFED39BDB411FABD85	Faselei! (Japan).ngc
+690A3397F20E31B2C4A2833F51670245	Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).ngc
+99ED127490F9D5D6482D20CC6ABC8056	Ganbare Neo Poke-kun (Kari) (Japan).ngc
+4BDA8B3669C5BBD72266853940D626CB	Infinity Cure (Japan).ngc
+9827FE3F592BD73CE1603E516C5E0532	Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).ngc
+B361ED78F6126F94179DC69FE4C58781	King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).ngc
+FF89D298A437D6D442A3EFDFD8820888	King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja) (Demo).ngc
+A0290F929C2B1970832002BA0505A644	King of Fighters R-2 Version 2 - Pocket Fighting Series (Japan) (En,Ja) (Beta).ngc
+362E9C04EC255225EEB0A9DEE8FCAC1B	King of Fighters, The - Battle de Paradise (Japan).ngc
+05AB35ED7BE398072CAE34783AA6751A	Koi Koi Mahjong (Japan).ngc
+83FA4CB3C629AA57C12F9CEC52C5A53D	Last Blade, The - Beyond the Destiny (USA, Europe).ngc
+AE92CD3536577BD18F03F34B475C26D6	Magical Drop Pocket (Japan).ngc
+6ACFEF5FE57D592EA7321E0E440C4ECF	Magical Drop Pocket (USA, Europe).ngc
+DA3DA8E3B77700249DDA2052975CAD5C	Magical Drop Pocket (Japan) (Beta).ngc
+2E518837DFEBD4CB10AC117A339C5854	Memories Off - Pure (Japan).ngc
+4D3EFEF436C67D4F4E031951B97D64C8	Metal Slug - 1st Mission (World) (En,Ja).ngc
+A58F7C41CD9E6C96CD5B4B477F022570	Metal Slug - 2nd Mission (World) (En,Ja).ngc
+3E46EFDD356157E9D41056CA0885AB65	Metal Slug - 2nd Mission (World) (En,Ja) (Demo).ngc
+2FD2FFA3E15E05FC4512A10D98FBDD95	Mezase! Kanji Ou (Japan).ngc
+89B605A1FC6DB5855B432CCC62F9E6E3	Mizuki Shigeru no Youkai Shashinkan (Japan).ngc
+0865F375EAD2FEBBC86AB3FB9274B9B7	Neo 21 - Pocket Casino Series (World).ngc
+1018F765F460588D975C9B4E9385A547	Neo Baccarat - Pocket Casino Series (Japan, Europe).ngc
+2685AD9EBA4E9C86E1055E39917DC3ED	Neo Baccarat - Pocket Casino Series (Japan, Europe) (Beta).ngc
+B94513B88F622A9C4D3142D2BB7A442E	Neo Baccarat - Pocket Casino Series (Japan, Europe) (v1.1).ngc
+7992904F8C4040AEE0CDE040AFBF757D	Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).ngc
+27BEA85082CDE31600B01DC27A99B82A	Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Beta).ngc
+CD5C1EB7CB2E83D6B6D64918574C8CDB	Neo Derby Champ Daiyosou (Japan).ngc
+F0FDD57F4D1A1470B826082586EAD479	Neo Dragon's Wild - Pocket Casino Series (World) (En,Ja).ngc
+C0CED1D22506E46C4667BC0E926D921E	Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (Beta).ngc
+CEF050E2591435A5C41FF851AFA55A82	Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).ngc
+93D3810AE176507EBAAE782A612C930B	Neo Poke Pro Yakyuu (Japan).ngc
+2EC7EB7D83456CEAEA0A41C2BEBCAF98	Neo Poke Pro Yakyuu (Japan) (v1.1).ngc
+E055837BB0E227C1DDC3E68B0AA89AE9	Neo Turf Masters (World) (En,Ja).ngc
+F78476C51C398B28E1D2257299D14758	Neo Turf Masters (World) (En,Ja) (Demo).ngc
+A6C3369F28558E4A9719DC54D50BE713	NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).ngc
+9C73091689138179323FF48B279F8B1E	Nige-ron-pa (Japan).ngc
+883056ABBB872DE893CDB1F4F697DBF8	Oekaki Puzzle (Japan).ngc
+AC5AD76D5E6614AE576C2C837F0FAB1D	Pac-Man (World) (En,Ja).ngc
+BE22A7192D8AC3BB9356D7ADD54F8302	Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan).ngc
+1CBB6692DB2357F80691BC7462ED4EAE	Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan).ngc
+59C600D2FFE3A44E8CFA96824DC90C8E	Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan).ngc
+0DBEBA28E62ECE2E9B08C62890650FF5	Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan).ngc
+888A2BBDE70D6F67B1C776ABC12C5AF8	Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (Beta).ngc
+B3EDF9AD99CBD433C8E62836F32092EC	Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan).ngc
+3C340FE221635BA52AAE8ADCC8E43758	Pachi-Slot Aruze Oukoku Pocket - Ohhanabi (Japan).ngc
+8EFD3C40988452782E55548F7369A050	Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (Japan).ngc
+DA41C689C64815AD2B374A7FF52E819B	Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan).ngc
+299761888BB026D76B698B9745BD8D27	Pachinko Hisshou Guide - Pocket Parlor (Japan).ngc
+C86E826C8413C0DC3AD19A63BA6D4D97	Party Mail (Japan).ngc
+F60EA82FE428E83355CE870BF5CFF5D5	Party Mail (Japan) (Beta).ngc
+81D3C10271AD5B09032DD00321B41AA0	Picture Puzzle (Europe).ngc
+62347264D918559A95034BE7CEA8756D	Pocket Love - if (Japan).ngc
+50DB2D67493CC92FA382A3F9CB16905C	Pocket Reversi (Europe).ngc
+C1427EF852912D672BE49622DEAC5EC2	Pocket Reversi (Japan).ngc
+C7BFC59B4CB593409541D4CCFFE083B4	Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).ngc
+806778D680BB9F41A3E610499E318F85	PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan).ngc
+7FF625DC216783B034B011351C98255F	Puyo Pop (World) (En,Ja) (Beta).ngc
+D40DC57B9CC3A30A2400F8CFD8724578	Puyo Pop (World) (En,Ja).ngc
+94537FD169751658F3A50A3B7A80CEF2	Puzzle Bobble Mini (Japan, Europe).ngc
+D69F1C4B9A015666184580737C6B2024	Puzzle Bobble Mini (Japan, Europe) (En,Ja) (Beta).ngc
+DF694E1F69DED1DF68A4AC52A13FB44A	Puzzle Link (USA, Europe).ngc
+9B30216DA76C9DE87CAEA93F13977396	Puzzle Link 2 (USA, Europe).ngc
+72119F96AA1EBD5A01562B0395089BCF	Renketsu Puzzle Tsunagete Pon! Color (Japan).ngc
+C71AF75C76778B8A2D32A0C6F170736E	Rockman - Battle &amp; Fighters (Japan).ngc
+62EC0E37ACFE58CC41EBA8BD8A5F14A2	Rockman - Battle &amp; Fighters (Japan) (Beta).ngc
+8D6A36ACD3B171970D87D2FCA6796A4A	Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc
+7C262A2C6390445170D0BF83290C939C	Shanghai Mini (World) (En,Ja).ngc
+100760E5F548ABFF92A36761FCF6EE14	Shanghai Mini (World) (En,Ja) (Beta 1).ngc
+F547E657F717223C8A286E51AA159F86	Shanghai Mini (World) (En,Ja) (Beta 2).ngc
+3AB7276071D35CD11F316B6B936CEE38	Shinki Sekai Evolution - Hateshinai Dungeon (Japan).ngc
+A874C1D95BADE2143C0712D22DDBD452	Shougi no Tatsujin Color (Japan).ngc
+3540951DFDBA4697EE5F9D8B9356C18B	SNK Gals' Fighters (Japan).ngc
+08922D2BDC6C80D56DDF50836CCAD77C	SNK Gals' Fighters (USA, Europe).ngc
+EBC0E8C33D1A5E5BE5457AD988233FEB	SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).ngc
+3BCC1C9EF59A75E3C2E6B49BE6B84BAB	SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).ngc
+74E8381E94565E21A3197449BB4423BF	SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc
+E8292BF000355E30C09EB64A3D381243	SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo).ngc
+E99AC2011126B8B617E77CAFF032D744	SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).ngc
+6CF60C8E14D7CAACCA38FF13963F5A32	SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).ngc
+748F76D010B83C3D3C95FCA28B4D080F	SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Beta).ngc
+DFEA3AD9AF4A631DE6F97D86589B971E	SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc
+B8A899AE2B0F1DFA0DB5417DE745A51E	Sonic The Hedgehog - Pocket Adventure (World).ngc
+67A4B4C481625860D1C33978B28959B1	Sonic The Hedgehog - Pocket Adventure (World) (Demo).ngc
+69C5D58770F111037F565EFBCC366B53	Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).ngc
+8B12FEC8E96DAD41380AB419A216AD08	Soreike!! Hanafuda Doujou (Japan).ngc
+07873A332EF8AC5CB5177EE3C304FF2B	Super Real Mahjong - Premium Collection (Japan).ngc
+2A8F9CB76E56000769E08200D8B25182	Tsunagete Pon! 2 (Japan).ngc
+95BD72B9E9081CB8AD8FC32BF7FF37B7	Wrestling Madness (Japan) (En) (Beta).ngc
