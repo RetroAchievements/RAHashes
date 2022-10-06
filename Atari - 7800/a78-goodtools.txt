@@ -1,0 +1,925 @@
+864efb6b43e36bef50d01d381ca7bd83	3D Asteroids (1987) (Atari) (Prototype).a78
+e67a169b3a6432342ac9cbf9e6f95873	3D Asteroids (1987) (Atari) (Prototype-NTSC).a78
+f53014537dbb8db81ecd4c24fa2d4658	78scroll (PD).a78
+46db223d11213986399ee9a83b6f2dfc	320btest by Schmutzpuppe (PD).a78
+93ad29390482767123d73ae74663b90f	7800 Birthday by Mark Ball (V1.13).a78
+2c07adb05159d993d835611385f065aa	7800 Birthday by Mark Ball (V1.14).a78
+11f3de7c18dc80d0b02abee7dce1567c	7800 Birthday by Mark Ball (V1.15).a78
+ca9f77e1765b13594dce49b575e3052e	7800 DEV OS BIOS (PD).a78
+2de310714c3d8c2fe49e5aec26eb28e3	7800 Kern Demo by Christopher Tumber (2004).a78
+9eb5738e0e6c9b2aa06922a5bf8f67f8	7800 Sprite Sample by Dan Boris (PD).a78
+c31759d77154966654d414eaf1f5283c	Ace of Aces (1988) (Atari) (PAL).a78
+4dd96d99c1228bb1fcae8c1b5c239197	Ace of Aces (1988) (Atari).a78
+49c139d7a46f056b747314deb4eafc39	Adapter by RSS Bot (V20111004) (PD).a78
+08b9e44aab53e3e668c61bbf609947d5	Adapter by RSS Bot (V20111008) (PD).a78
+40829e0890f33320958cbce46948612f	Adapter by RSS Bot (V20111009) (PD).a78
+fe138f8737e2fa172556ba8466a7a5b1	Aim Demo Source (V20150731) (PD).a78
+6a90c2cd223e239fb0e380b99e21d7c9	Alien Brigade (1990) (Atari) (PAL) [f1] (CC2).a78
+4e5826f8bcdecaae3258cce2da57c569	Alien Brigade (1990) (Atari) (PAL).a78
+8bf5f92ed9a276c82139c47c9875fd17	Alien Brigade (1990) (Atari) [!].a78
+dce45e9bf3a7733cd20da9ce6970ad17	Alien Brigade (1990) (Atari) [b1].a78
+dee36107de0526ad23466735504ce729	Alien Brigade (1990) (Atari) [f1] (CC2).a78
+f286263f97bf49ffbde1f9ee000c77ab	Alpha Race for Atari 7800 (V20150911) (PD).a78
+4d45fa7989bb3c026187e5650529df54	Alpha Race for Atari 7800 (V20150920) (PD).a78
+4a240322fe23d9c19bb5ffb08cd68da7	Animation (V20091113) (PD).a78
+0dda59636e3a0c9ee14385da7d03346f	Apple Snaffle by Mark Ball (V1.21_2009100907).a78
+bc088adca9379f6884b1691b02c6c42e	Apple Snaffle by Mark Ball (V1.23_2009160907).a78
+a7d9225770df90bab474e653d8185ca0	Apple Snaffle by Mark Ball (V1.24_2009180907).a78
+156410fcddde8d28531d222e76408834	Apple Snaffle by Mark Ball (V1.25_2009180907).a78
+9f231c3bc7344d423caaeb4a320b0d4e	Apple Snaffle by Mark Ball (V1.26_2009200907).a78
+4422f90169608cee33757c7fb2d2c395	Apple Snaffle by Mark Ball (V1.27_20090723).a78
+72b811415a58ea7248101144f4e18282	Apple Snaffle by Mark Ball (V1.30_20090723).a78
+5ac263923179ce83cd408fb4511c572d	Arkanoid by John K. Harvey (V20091201).a78
+eba7e35009f3e433add50c6566371e77	Arkanoid by John K. Harvey (V20091203).a78
+53c1a6b4c95272c6141fcc7065158f6e	Arkanoid by John K. Harvey (V20091204).a78
+60dbaf458d80fcf02221af3e857b5b89	Arkanoid by John K. Harvey (V20091205_fun).a78
+78bce592db2a416bcc71b75b88f62342	Arkanoid by John K. Harvey (V20091205_test).a78
+d274a8646637a7e444dd0f4123ec8784	Arkanoid by John K. Harvey (V20091206).a78
+558eb81e344e99a7423bd1364c8a5e7d	Arkanoid by John K. Harvey (V20091207).a78
+8fd4e29fc16022eb88e48528aa45fc2b	Arkanoid by John K. Harvey (V20091207b).a78
+d9f5f21b25118e46f78a5ac525534970	Arkanoid by John K. Harvey (V20091208).a78
+a234067dee07647178afc5592569905c	Arkanoid by John K. Harvey (V20091210).a78
+14b7babfc6f9b98e6153fba19ef84c25	Arkanoid by John K. Harvey (V20091211).a78
+b4556d2d086718b05554d74383d5102c	Arkanoid by John K. Harvey (V20091215).a78
+76bcc978608c0113431460e6e2f7bb8c	Arkanoid by John K. Harvey (V20091216).a78
+dddf325a517809641654395582ba04b2	Arkanoid by John K. Harvey (V20100101).a78
+0b48acff0eb140c0d8ab283230ed062e	Arkanoid by John K. Harvey (V20110826).a78
+9c2c01661175a6b0fd0a1cb903545b2d	Arkanoid by John K. Harvey (V20110911).a78
+104fa3827149b978a33e163f4bdaaff8	Armor Attack II by Blue Azure (V20130407_NTSC) (Armor Attack II Hack) [t1] (99 Lives).a78
+44a9dff9c8962e9d99198d9fdca43a6d	Armor Attack II by Bob DeCrescenzo (V20130402_NTSC).a78
+87ec1a2b21a8a45f75cb338bc98b5c04	Armor Attack II by Bob DeCrescenzo (V20130402_PAL).a78
+fe4d95ca3fa671b62c9e95207fe4daf4	Armor Attack II by Bob DeCrescenzo (V20130403).a78
+9dd9655ff8e32e34230bf43b5c56a512	Armor Attack II by Bob DeCrescenzo (V20130404).a78
+068716edf317c203484ab515eb29ce48	Armor Attack II by Bob DeCrescenzo (V20130404_RC1).a78
+dbfeac50090fdf5a89660df8cc2fa444	Armor Attack II by Bob DeCrescenzo (V20130405).a78
+36b1064d295f81782215e085b0bfe47b	Armor Attack II by Bob DeCrescenzo (V20130405_RC2).a78
+549f3e1c5c9edb04c9de627beb8f9a3a	Armor Attack II by Bob DeCrescenzo (V20130406_newer)007.a78
+a3b79364b3da85c0c019f1047d5df049	Armor Attack II by Bob DeCrescenzo (V20130406_RC3).a78
+fd58b9c66bebf63cf6ed45657b2b6492	Armor Attack II by Bob DeCrescenzo (V20130407_RC4).a78
+33ae727d384ed5377d0b8147f47420c4	Armor Attack II by Bob DeCrescenzo (V20130408).a78
+f2394a32ba11bd3c1f03ff5d49785db6	Armor Attack II by Bob DeCrescenzo (V20130410_RC5).a78
+9cbf3ca8ddcc7b6248d735aaf1d6261e	Armor Attack II by Bob DeCrescenzo (V20130411_RC6).a78
+17f45cc7db74581497d258d7b307a7d8	Armor Attack II by Bob DeCrescenzo (V20130412_RC7).a78
+aaaeffc226a7cc375bd7a26c46dac4fe	Armor Attack II by Bob DeCrescenzo (V20130412_RC7_Fixed).a78
+8228dedf09de96a683c3f6b5ad716fb1	Armor Attack II by Bob DeCrescenzo (V20130413_Final).a78
+938b0829f109a6cce435f1587fce936d	Armor Attack II by Bob DeCrescenzo (V20130416_Final).a78
+31801a5b06ca5c8000fc20f21c6beaf4	Asteroids - VE (Vector Edition) by Bob DeCrescenzo (V20050723) (PD).a78
+e84b102ce70f1cbbff18408037e974ed	Asteroids - VE (Vector Edition) by Bob DeCrescenzo (V20050724) (PD).a78
+544841fa909a70ed484effb3ea15088a	Asteroids (1987) (Atari) (Prototype).a78
+85b5587c5a9406ddd079aa6879093cf7	Asteroids (1987) (Atari).a78
+3f779648144004806e9266131d5b1bfa	Asteroids Deluxe by Bob DeCrescenzo (V_RC2).a78
+97c09c53966717b34ed64779e364673c	Asteroids Deluxe by Bob DeCrescenzo (V2007xxxx) [a1].a78
+d71f15c0d6676975b43604090989e710	Asteroids Deluxe by Bob DeCrescenzo (V2007xxxx) [a2].a78
+a92575045dc6b4d249f397169dec52cf	Asteroids Deluxe by Bob DeCrescenzo (V2007xxxx).a78
+245c582e77c6be151b651ebb3dfc38c4	Asteroids Deluxe by Bob DeCrescenzo (V2007xxxxNTSC).a78
+6161241275a3a2470844b70cddb75ec9	Asteroids Deluxe by Bob DeCrescenzo (V2007xxxxPAL).a78
+b7fd97f64cf5939c205e046260c0d658	Asteroids Deluxe by Bob DeCrescenzo (V20070627).a78
+b85eec5e7f48c078e64349127862b9b6	Asteroids Deluxe by Bob DeCrescenzo (V20070629).a78
+96cca35f8afc11a07509be2697f48b7b	Asteroids Deluxe by Bob DeCrescenzo (V20070701).a78
+8f818487896f12a5849aa6e9b18e6ecb	Asteroids Deluxe by Bob DeCrescenzo (V20070705).a78
+942b77dc5c16592f3047a639e6397261	Asteroids Deluxe by Bob DeCrescenzo (V20070707).a78
+929d7e0022913791d76eedeea187814f	Asteroids Deluxe by Bob DeCrescenzo (V20070828).a78
+7b21b37d667987eae49da470f109abde	Asteroids Deluxe by Bob DeCrescenzo (V20070828older).a78
+2a34fae32ed4b7cc5e631c2831cdac0f	Asteroids Deluxe by Bob DeCrescenzo (V20070913).a78
+f0f8e3a681ff3b37f2273ed9fb96b9fd	Asteroids Deluxe by Bob DeCrescenzo (VUnknown).a78
+a717ee7987e2e1f6aaa9beebf09608cd	Atarexp by The Usotsuki (PD).a78
+69ce448b1b0334248bcc9d72a11d5178	Atlas 7800 by Simone Serra (V20111016).a78
+e2e5ada5adf1db65703e5e01552197f8	Atlas 7800 by Simone Serra (V20111023).a78
+dfe25b18d261b7819c345a91319b9216	Baby Pac-Man by Justin De Lucia (V0.01) (Ms. Pac-Man Hack).a78
+3f1df91f4f02de2059851516b89d9bae	Baby Pac-Man by Justin De Lucia (V0.02) (Ms. Pac-Man Hack) [t1] (Fast,Invincible).a78
+66ce3fe2b43098c16a0408744bf6609b	Baby Pac-Man by Justin De Lucia (V0.02) (Ms. Pac-Man Hack) [t2] (Invincible).a78
+c99d75f955c174e46cfb8af3d9031997	Baby Pac-Man by Justin De Lucia (V0.02) (Ms. Pac-Man Hack).a78
+50e149ae84e24b6ddffc31ce37d4173d	Baby Pac-Man by Justin De Lucia (Vx.xx) (Ms. Pac-Man Hack) [a1].a78
+a1763355da71e1a0d74700f424f59c04	Baby Pac-Man by Justin De Lucia (Vx.xx) (Ms. Pac-Man Hack) [a2].a78
+3ce51ffa8dea7542e175c922ee72b3b8	Baby Pac-Man by Justin De Lucia (Vx.xx) (Ms. Pac-Man Hack).a78
+554004ca435ca02eb519086f45e44033	Ballblazer (1987) (Atari-Lucasfilm) (PAL).a78
+a6659fcf536d601948f57767aef65741	Ballblazer (1987) (Atari-Lucasfilm).a78
+138559499462d88d390d7cf93b344f5f	Barnyard Blaster (1988) (Atari) (PAL) [!].a78
+98477839e00a9f617a97a0e91a6ff0b1	Barnyard Blaster (1988) (Atari) [!].a78
+7da7af81921b61d2757d796a9ff3814c	Basketbrawl (1990) (Atari) (PAL).a78
+43b0a082f353919f83e4b37203af280f	Basketbrawl (1990) (Atari).a78
+b0761af9b9164495c45256f3f42d532b	Beebx (Tempest) by Mark Ball (V1.00).a78
+4b17eb577a18a3b07a75092dc4f7e1f2	Beebx (Tempest) by Mark Ball (V1.02).a78
+2e7bc06e1d27139480ff6c263f3fbeee	Beebx (Tempest) by Mark Ball (V1.03).a78
+77aa81b53519a18b0cf170af8b01e54d	Beebx (Tempest) by Mark Ball (V1.04).a78
+0330da8915ecf4d00caff5e43bbe96b2	Beef Drop 7800 by Ken Siders (V20041019-Rev01).a78
+a62fdb6082a13e314fe7ae7983898e14	Beef Drop 7800 by Ken Siders (V20041019-Rev02).a78
+7183521799d21075803bd9e944b4d0fc	Beef Drop 7800 by Ken Siders (V20041020-Rev03).a78
+dbb91e04e3fe86c580c48272c9c417a8	Beef Drop 7800 by Ken Siders (V20041022-Rev04).a78
+d4f0179a29186021f7bcb07a25e0c7cf	Beef Drop 7800 by Ken Siders (V20041026-Rev05) [a1].a78
+0edc0bf135f88df3faa37170e02b925c	Beef Drop 7800 by Ken Siders (V20041026-Rev05).a78
+5b470d4c3f040ac58cb607dcf0a80f79	Beef Drop 7800 by Ken Siders (V20041028-Rev06).a78
+2a94d244b6dcc2bb195794a30723374b	Beef Drop 7800 by Ken Siders (V20041029-Rev07).a78
+f92dbbca3e50a74ca8b851be02f94ecb	Beef Drop 7800 by Ken Siders (V20041030-Rev08_CC2).a78
+fa500c7d03c671889256aa0118969702	Beef Drop 7800 by Ken Siders (V20041103-Rev09).a78
+ca0b3b2da0b0e222fbd17bd393b0bb7d	Beef Drop 7800 by Ken Siders (V20041104-Rev10).a78
+5a92eb1ebfd1eecfa5cf46139fafbdd0	Beef Drop 7800 by Ken Siders (V20041105-Rev11).a78
+6a59c93ccb30416f77598c60cbbd3a43	Beef Drop 7800 by Ken Siders (V20041105-Rev12).a78
+ca97af40fc1ee7d8ff588fd9e20eb6ce	Beef Drop 7800 by Ken Siders (V20041106-Rev13).a78
+2eb44fcd9b4246e05ae5dbae633f9f5f	Beef Drop 7800 by Ken Siders (V20041109-Rev14).a78
+03a58c50810a166bb1b753e908ebf635	Beef Drop 7800 by Ken Siders (V20041110-Rev15).a78
+36ece8d296d6ee81477ef4fa7d14e91b	Beef Drop 7800 by Ken Siders (V20041111-Rev16).a78
+ea412e0d453df8ed166817228571e935	Beef Drop 7800 by Ken Siders (V20041116-Rev17).a78
+71134ef1a0320b23671a77e8f196c20d	Beef Drop 7800 by Ken Siders (V20041117-Rev18).a78
+a8aa9ddbdd38b3e7025427eedc0756f2	Beef Drop 7800 by Ken Siders (V20041119-Rev19).a78
+f3ba27379e889cc59ac433f75c13bdcd	Beef Drop 7800 by Ken Siders (V20041119-Rev20).a78
+c14870ef63aeb30eb3a23f1527420fc6	Beef Drop 7800 by Ken Siders (V20041123-Rev21).a78
+6943b1fd3c402e9ae028bac182b1b43b	Beef Drop 7800 by Ken Siders (V20041130-Rev22).a78
+07fc69574587dcdfc3cc28a0f19a17c7	Beef Drop 7800 by Ken Siders (V20041204-Rev23).a78
+4b1ca1129b221d633847ad7629bf3e7a	Beef Drop 7800 by Ken Siders (V20041205-Rev24).a78
+0c00f967a461b17f31a93797f3bd6b5e	Beef Drop 7800 by Ken Siders (V20041207-Rev25).a78
+5051541e52ed11880b985b52e946f437	Beef Drop 7800 by Ken Siders (V20041207-Rev26).a78
+95a1f156e9c1060395f49bea165a066c	Beef Drop 7800 by Ken Siders (V20041209-Rev27).a78
+8304f72e8371b6beda0e70ab9997f993	Beef Drop 7800 by Ken Siders (V20041210-Rev28).a78
+602ce9b8e7b8b7902aa7aecd94d89f39	Beef Drop 7800 by Ken Siders (V20041222-Rev29).a78
+d6e22f54eebf054a20073e585dab4e64	Beef Drop 7800 by Ken Siders (V20050101-Revxx_Nopo).a78
+4a691d394cf2ecfc40d884705af72967	Beef Drop 7800 by Ken Siders (V20050103-Rev30).a78
+27cd5335a9d73718a4ecdb9fbdb895bc	Beef Drop 7800 by Ken Siders (V20050105-Rev31).a78
+729af055d2d0ba06e6acb90777240e78	Beef Drop 7800 by Ken Siders (V20050105-Rev32).a78
+5789edbfa398d49ca88ea4485ba7c158	Beef Drop 7800 by Ken Siders (V20050108-Rev33).a78
+8ef6ec5639c6fe7059f4a840bb13a18a	Beef Drop 7800 by Ken Siders (V20050108-Rev33_POKEY OFF).a78
+115d9e6ba3a63a1497d19bec2b8c6bd2	Beef Drop 7800 by Ken Siders (V20050108-Rev33_POKEY ON).a78
+4c83018f3d7f8a71287483e4f698cb60	Beef Drop 7800 by Ken Siders (V20050108-Rev34).a78
+166b89829b141fefed301f5987e70bbe	Beef Drop 7800 by Ken Siders (V20050108-Rev34_POKEY OFF).a78
+3bb5481ff1d0451993cd6c299844aff0	Beef Drop 7800 by Ken Siders (V20050108-Rev34_POKEY ON).a78
+27dcc145d1c4176e57a655f15dbcdaaa	Beef Drop 7800 by Ken Siders (V20050110-Rev35).a78
+d7eba3c20d84287fef436ab41c10e6e8	Beef Drop 7800 by Ken Siders (V20050110-Rev35_POKEY ON).a78
+4ae38750870850d3829fb6f913352037	Beef Drop 7800 by Ken Siders (V20050223-Rev36).a78
+4d18c54e641126473a9161e1c370af99	Beef Drop 7800 by Ken Siders (V20050223-Rev37).a78
+4433875a6cd9f076e5298256a45c7bb4	Beef Drop 7800 by Ken Siders (V20050224-Rev38).a78
+109238ee5ac84913aad57ac6468d0ea6	Beef Drop 7800 by Ken Siders (V20050225-Rev39).a78
+1c7201ccc941d3441015d130bd493a69	Beef Drop 7800 by Ken Siders (V20050308-Rev40).a78
+9c528bfb4363887b0f543e68d4b8fe07	Beef Drop 7800 by Ken Siders (V20060629_new 2).a78
+37569def8e80f1dd62cb901dde094c51	Beef Drop 7800 by Ken Siders (V20060703).a78
+dca5519ab4c6ea1bf065a1022411e976	Beef Drop 7800 by Ken Siders (V20060704).a78
+ba35ecae33d0602982695077efb6ff46	Beef Drop 7800 by Ken Siders (V20060718_final_version).a78
+679c90523ae4742eaa5b2b67e2e7427d	Beef Drop 7800 by Ken Siders (V20061015).a78
+6d4a5ccd705a8ee8891e8ed30f5abc91	Beef Drop 7800 Demo by Ken Siders (V20060108) [a1].a78
+4413a9e8523f8756e44da1a1568bd984	Beef Drop 7800 Demo by Ken Siders (V20060108).a78
+7914221a1c0b2c9fd26e068354389799	Beef Drop 7800 Demo by Ken Siders (V20060629).a78
+768433a5a3829a744f0954c86469b982	Beef Drop 7800 Demo by Ken Siders (V20060701_new1).a78
+363125e0261f3a02a322d0d672429e05	Beef Drop 7800 Demo by Ken Siders (V20060701_new2).a78
+73fd6ae0d9905e8665c5c0742ff9cf8f	Beef Drop 7800 Demo by Ken Siders (V20060702).a78
+c01fafe0073c765777973c5562c99301	Beef Drop 7800 Demo by Ken Siders (V20060704_new1).a78
+30292f8c3cefcf4dd624e36eb02efcbb	Beef Drop 7800 Demo by Ken Siders (V20060704_new2).a78
+8f1f17d6ad6e28f56f6bc30944dec5bc	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V2002xxxx) (Original View).a78
+e4c03cff7bd3ed07a8762a0ad299fd5b	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120626).a78
+75af8db7522ec82a96f25d3dad25a77f	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120626_PAL).a78
+edc50131e2a54bbd55b2cd5e539c03df	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120708).a78
+72c70ed2dd7d03527455f23e15750276	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120708_PAL).a78
+a0de2f71266319c54e35e4973570fe22	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120714).a78
+8eeeeab0bbb34bc8ef03f3059428cbd5	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120714_PAL).a78
+0692ff4bef16c4cfad8f3780d020427e	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120922).a78
+81a6cdc7c742580fc79871af9b7f2184	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120922_PAL).a78
+3139071ede96ea5652cdb46c2ec94803	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120929).a78
+d43c513f1b7df85b9ca0ad8cad4a3a67	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120929_PAL).a78
+2ff950a8d72899c7bd58ba0a17316352	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130105).a78
+cddc5456053f336a8dce6195b0b27005	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130105_PAL).a78
+d3af2571fbe561386e003b1c3b14ef99	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130113).a78
+44c4a18f5d049b9b3e1fa4686f30000a	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130113_PAL).a78
+1e9cbdace118e6ad7ee2dba4dd0466e5	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130120).a78
+1ae8b44d7745361d816bacb8fd22a25c	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130120_PAL).a78
+58d7c4d46469217834c97ec8c4dc1eed	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130123).a78
+eaa41568af7e701862de700b0205e1c3	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130123_PAL).a78
+03b0e4df78b085bdbaeefa9f62e3540f	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130131).a78
+dd5b70141395553d22270fc9ef7b5dfa	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130131_PAL).a78
+0c4c387ce8f6d6e12252db2edb97f6e3	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130201).a78
+7405147aa9530ed6d1cb76a97fd4012b	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130201_PAL).a78
+d4013f6fc42abc96f5fe96cea865102c	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130205).a78
+b77ab71573e466b26c6f32491db833b6	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130624RC1).a78
+cbb60b1b811b6b781fc112910a71cf37	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130624RC1_PAL).a78
+30a4d92067c0ce8be68d61a644fe59ed	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130626_MESS).a78
+ba84bed24a40988a54cca9e2dbc93f47	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130701RC2).a78
+da42ccb0343ebe1643966ed3acba8d13	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130701RC2_PAL).a78
+2f4c807a3a6c0919c5e1cf4f71445a02	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130713RC3).a78
+3b538e13c372d4690bb9cda2d3a2f9de	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130713RC3_PAL).a78
+2bb2d89e5c4d84d8bbf020cc109d9731	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130714_PAL).a78
+38f394c0750d62f0b83fa6d064617e16	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130714RC4).a78
+f639e03d9b1c5ef045c78976d6d15164	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130718RC5).a78
+a6891156739f3e06851deaa58cc61248	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130718RC5_PAL).a78
+0b43bcd45a29e863348af21b54d9d605	Bentley Bear by Bob DeCrescenzo (V20130205_PAL).a78
+e9062f3124ff877f8bfa6fb9d4326d95	Bero Test B&W (2005) (PD).a78
+b8045eda1f896cb303c41344a62dfb75	Bero Test Color (2005) (PD).a78
+83fb1103c63713a861e5eb8960cbe784	Bleach Pac-Man (Hack).a78
+8592933e232ecf0b0407b09e961fced7	Blocdrop by Ken Siders (V20121126)(PD).a78
+7dbb020f2a0c207b5eda066f9c8495fb	Blocdrop by Ken Siders (V20130306) (PD).a78
+c79ba1fdac372a7a4e972495ca4bc1ed	Blocdrop by Ken Siders (V20130310) (PD).a78
+a09303b4c667015618a6418923e33b15	bonQ by Ken Siders (V200xxxxx).a78
+67b8ce7994894089f0f20cece96e4dc5	bonQ by Ken Siders (V20060722).a78
+12e5dfec7b66b68799a3698c37fba1c2	bonQ by Ken Siders (V20060812).a78
+e44c8b6c5c1386c46c5e3d280a13cb47	bonQ by Ken Siders (V20060813).a78
+d6b57b43c6bc4d0ac59ac0f2ea4088dc	bonQ by Ken Siders (V20060815).a78
+e42b26251c331ed8cffc698408d66077	bonQ by Ken Siders (V20060818).a78
+3920bc4b2034f7e7e4a68144af30a547	bonQ by Ken Siders (V20060826).a78
+86c73a2698379f6902f43fe7ac62232a	bonQ by Ken Siders (V20061031).a78
+c1c8a440332fe9fc388e655770494e9e	bonQ by Ken Siders (V20070521).a78
+7ba3e43467603413c234518918d9fb76	bonQ by Ken Siders (V20070616).a78
+d1fcfe52a60a50e41dabd3fba74ee133	bonQ Demo by Ken Siders (V20080205).a78
+2df3a9e21b37692d9d45beacc025a904	Bouncing Balls Demo 2 by Eric Ball (2007) (PD).a78
+82b04ce8599d08a51fb1d94309f86444	Bouncing Balls Demo by Eric Ball (2004) (PD) [a1].a78
+e89aee0269b0556ce170a274dd7b6d40	Bouncing Balls Demo by Eric Ball (2004) (PD).a78
+63afcddb035101dbb84573f6aeac0fb0	Breaker (V20111019).a78
+85cded93f6119e1fa208cd4ebd8beb45	Castlevania Demo (PD).a78
+57ef570b8595bcdf0e26bc9b5b109b41	Centipede (1987) (Atari) (PAL).a78
+7612b1bb30320d37d79b7f48b16430b2	Centipede (1987) (Atari).a78
+3cdb724756af200e874b7aad0887c10b	Centipede Plus by Blue Azure (Hack) [f1] (PAL).a78
+9ed18e55e3713b4a937edb5413856784	Centipede Plus by Blue Azure (Hack) [t1] (Lives).a78
+fa118799503cc4ad3cae1d111cadc65c	Centipede Plus by Blue Azure (Hack) [t1][f1] (Trackball).a78
+372f6e733e22fd34f06cd996ff677868	Centipede PMI by Blue Azure (V20150927) (Hack) (PAL).a78
+32a0c109752b51f8136f43097999d90c	Centipede PMI by Blue Azure (V20150927) (Hack) [f1] (Trackball).a78
+300f8ff3f367ea026e66f8c8ea453020	Centipede PMI by Blue Azure (V20150927) (Hack).a78
+01a338d706645ba66ca6b39f12565854	Choplifter - Edit (Hack) [a1].a78
+a72021bab3738e6f83547ca9b52f551f	Choplifter - Edit (Hack) [a2].a78
+82fa71453aad501a35075c9c069f3614	Choplifter - Edit (Hack).a78
+4febd2622c4cdcd95602540c21a1eb10	Choplifter - Editv2 (Hack).a78
+fee908d4d81309297305986784e9a31c	Choplifter - Editv3 (Hack).a78
+a0c1c14a482de6d88c804ba20786b719	Choplifter - HUD (Hack) [a1].a78
+65c75a9ba761357345d472d78fabf321	Choplifter - HUD (Hack).a78
+6da500b54e2b1f97dc780e404c73fa3b	Choplifter - HUD Green (Hack).a78
+378933ceee96cec9be882f1047bb6b19	Choplifter - HUD2 (Hack).a78
+2a755f80b66305b06dabb29d4649e48a	Choplifter - HUD3 (Hack).a78
+28618ffa091e1bac8df3527cce8edaca	Choplifter - Wings (Hack).a78
+028c6757a2528219ea39b26c35b953dc	Choplifter (1987) (Atari) (PAL).a78
+0826515be7d9bc1fea26a7d6063667c1	Choplifter (1987) (Atari).a78
+49dfcb4942ae05c7d595ff71150b8e8c	Christ 2020 eCard Demo by Mark Ball (PD).a78
+679409b36264269edd44f87f3e07736d	Code1 Example (PD) [a1].a78
+291887f3932cfebbe743e611657c7776	Code1 Example (PD).a78
+ae28c219be44b410532f085561ca5f4b	Color Grid by Eric Ball (PD) [a1].a78
+45546beca1155a0f8f1c18fa88ae422b	Color Grid by Eric Ball (PD).a78
+51b1b519e9ff6cf2d43d135cb91cc15b	Color Selector Demo (2003) (PD).a78
+c4fd615e7a1038cc7032a51bed2492a6	Color01 (V20010804) (PD).a78
+f9ac06c700bb9566c98a95ead35b4dcc	Colour Picker (V1.00_20100113) (PD).a78
+e128ffbbc919959c82164b7e67da9a74	Commando (1988) (Atari) (Prototype 4-29-88).a78
+d59edcc53c3b1e4e565ff7234a5d37a6	Commando (1989) (Atari) (PAL).a78
+95d5eac7b804f3cb1950e0d19a03afe7	Commando (1989) (Atari).a78
+911049690a04e272d28ee80d12329bc9	Crack'ed (1988) (Atari) (PAL).a78
+5a8344478c246200d0ef987557aae3cd	Crack'ed (1988) (Atari).a78
+eb183200e5cc7a7978a4ac97942c17a3	Crazy Bricks by Bob DeCrescenzo (V20111029).a78
+d12de9c9f8ff020f67324c793fc38130	Crazy Bricks by Bob DeCrescenzo (V20111029PAL).a78
+c015649fadaba26e1bfd8d6adabeb32f	Crazy Bricks by Bob DeCrescenzo (V20111029PAL_RC1).a78
+07d490bb3911d4a68d67964c566eefdc	Crazy Bricks by Bob DeCrescenzo (V20111029PAL_RC2).a78
+482a8f64d0c894598250b5a649a5b211	Crazy Bricks by Bob DeCrescenzo (V20111029RC1).a78
+15dc5ca948a5b8a9c7d4f0a17586c417	Crazy Bricks by Bob DeCrescenzo (V20111029RC2).a78
+952fb988b75678d13ce04e976a8cda76	Crazy Bricks by Bob DeCrescenzo (V20111029RC3).a78
+76d22261a87f52b94c71c03f0b19a9e0	Crazy Bricks by Bob DeCrescenzo (V20111030PAL_RC3).a78
+6bf6fa97616d7b887ee033feeb4f6300	Crazy Bricks by Bob DeCrescenzo (V20111031PAL_RC4).a78
+b5a7739f1c73d6c164fb0084d0a3cb20	Crazy Bricks by Bob DeCrescenzo (V20111031RC4).a78
+e6f144cc280545f289a0fc6e0a6a6bb2	Crazy Bricks by Bob DeCrescenzo (V20111111).a78
+2ed3c4c19808c43775b4ac4274365c72	Crazy Bricks by Bob DeCrescenzo (V20111111PAL).a78
+d9bcc762305a4905b4432d50203eb5fc	Crazy Otto by Bob DeCrescenzo (Hack) (PAL).a78
+8093916f93d7c75289742bb7dc3a1710	Crazy Otto by Bob DeCrescenzo (Hack) [a1].a78
+16936e443bf2f62f60b422c49f2f7fa9	Crazy Otto by Bob DeCrescenzo (Hack).a78
+6ea7e9c84a577d1669300df5e9510809	Crossbow (1988) (Atari) (PAL) [f1] (CC2).a78
+ff49656b248dd277f9d75dcca0a30116	Crossbow (1988) (Atari) (PAL).a78
+5c2f7e71a6ad7be11597e393a45bfa2f	Crossbow (1988) (Atari) (Prototype 4-18-88).a78
+2bead01484a313e97c9ac1d6819e9f5c	Crossbow (1988) (Atari) [f1] (CC2).a78
+68ae796ad700df322628ce9dfc82e802	Crossbow (1988) (Atari).a78
+26036ccf66b2747fd00d3884a528614c	Dark Chambers (1988) (Atari) (PAL).a78
+b94b39a2ece024bc79ad350914219a72	Dark Chambers (1988) (Atari).a78
+2fa405ad8d02b83cc971551c99351d72	Demox by Mark Ball (PD).a78
+7f341ec3aba11b789de8e27b76cca9c6	Desert Falcon (1987) (Atari) (PAL) [t1] (Invincible).a78
+a1e78ca5dd1b84ce5a96ab1590abfef1	Desert Falcon (1987) (Atari) (PAL).a78
+5160a951e8f67d8d60059c8af30c4b61	Desert Falcon (1987) (Atari) [a1][h1] (HSC).a78
+569a518628e655efa96e722b01ca16af	Desert Falcon (1987) (Atari) [h1] (HSC).a78
+8e2ee1a49756760402ca07d6cb9bfa61	Desert Falcon (1987) (Atari) [t1] (Invincible).a78
+ec1f38ae5b5e638e1ac84016ee1c0019	Desert Falcon (1987) (Atari).a78
+ffef54caa9a6da1387105bfab1a1a8ef	Diagnostic Cartridge ROM by John K Harvey (PD).a78
+2297775a913d8e0a58edddba762b00cb	Diagnostic Test Cartridge (1984) (Atari) (Prototype).a78
+8df5c10517da1c001072fd5526e4a683	Diagnostic Test Cartridge (1984) (Atari) [!].a78
+fa3279ef84d3f6a9df151ff578fcffe5	Dig Dug (1987) (Atari) (PAL).a78
+3976abf29e9d6aa000bff8268c0d534e	Dig Dug (1987) (Atari).a78
+b69009124d6468cdb7fb9629894bf68e	DllTemplate by Bob DeCrescenzo (PD).a78
+124a82890e7723ca9af7c8c063c503ab	Donkey Kong (1988) (Atari) (PAL).a78
+35eabe5b952a4f733b904f73511f884d	Donkey Kong (1988) (Atari).a78
+c921a3c7028f03ec2469b92fa4b08d42	Donkey Kong Jr (1988) (Atari) (PAL).a78
+c4940b2652d6a654cbbecfb59495ba24	Donkey Kong Jr (1988) (Atari).a78
+0546fb62dd2e9af5da5639265e14015a	Donkey Kong with Pokey Sound by tep392 (Hack) [a1].a78
+ec72f71378313702531f7986210c8470	Donkey Kong with Pokey Sound by tep392 (Hack) [a2].a78
+c633347025ef34c846ad289e72c95b36	Donkey Kong with Pokey Sound by tep392 (Hack) [a3].a78
+ea8bbe7955bf04d576311fd648bf755b	Donkey Kong with Pokey Sound by tep392 (Hack) [a4].a78
+f66e1285fca744b8c268bee0d354383b	Donkey Kong with Pokey Sound by tep392 (Hack) [a5].a78
+5ebe925dbb9352d8621f24e304f9c00d	Donkey Kong with Pokey Sound by tep392 (Hack) [a6].a78
+f42ad0e07ece6dc26263e6559dbfcf07	Donkey Kong with Pokey Sound by tep392 (Hack).a78
+444c2f382b35068699f44bfb010c5894	Donkey Kong XM Demo by tep392 (NTSC).a78
+d10fafc654629a05ccf561d69731c34b	Donkey Kong XM Demo by tep392 (PAL).a78
+5319556e712d726d1a86fa2536decec1	Donkey Kong XM Final Demo by tep392 (NTSC).a78
+c1f360b839b0b11335b99cdc3494497e	Donkey Kong XM Final Demo by tep392 (PAL).a78
+3efa789ceefcbd3c1d5853b5b4155d7f	Donkey Kong XM Final Demo HSC by tep392 (NTSC).a78
+2d22ff441ae39f7c202240752571a155	Donkey Kong XM Final Demo HSC by tep392 (PAL).a78
+994efa37ac630a7120b9a86629c8a613	Double Dragon (1989) (Activision) (PAL).a78
+a8efd6286f5633bc1d5070d4b821f34b	Double Dragon (1989) (Activision) [!].a78
+011928334123046b0f5f621956837e9c	Double Dragon (1989) (Activision) [b1].a78
+96e6346b3bcd556272a9b8916763fe26	Draker Quest Alpha Test5 (PD).a78
+3bf29924fb0e64df77523f7a077d70fb	Dual Pac-Man by Bob DeCrescenzo (V.1) (2005) (PD).a78
+63a9e8484b4b73c4cad6abc7b5c055fc	Dual Pac-Man by Bob DeCrescenzo (V.2) (2005) (PD).a78
+fa81cefd1a446d4de0ced10da0926bca	Dual Pac-Man by Bob DeCrescenzo (V.3) (2005) (PD).a78
+a077f5d0d3f9b2b3c39dbe97157332be	Expensive Planetarium 7800 by Eric Ball (V20070308).a78
+815050b9dd0321e024d8dc62571f169c	Expensive Planetarium 7800 by Eric Ball (V20070309).a78
+c6fc151be9ae0b7bb5bdfa724f7b1bcd	Expensive Planetarium 7800 by Eric Ball (V20070315).a78
+4f6d09b0221636b56014e4756f4a9b17	F-18 Hornet (1988) (Absolute) (PAL).a78
+c6c2777ffbbb76232f456acca4c1cd45	F-18 Hornet (1988) (Absolute) [!].a78
+2ba340df68292ff2cb20773ace47b749	F-18 Hornet (1988) (Absolute) [b1].a78
+f80f02445676f6d26cb77583d189aa0a	F-18 Hornet (1988) (Absolute) [b2].a78
+da07c304b4da6a307a2fd955f8358702	FailSafe by Bob DeCrescenzo (V20091129).a78
+c551155b3ee77b9faf98b24230b4e536	FailSafe by Bob DeCrescenzo (V20091202).a78
+755b55bd0ca3e80d0d21df29541836d4	FailSafe by Bob DeCrescenzo (V20091206_NTSC).a78
+56d28eb438288e68d4f61c5a3d80ed59	FailSafe by Bob DeCrescenzo (V20091206_PAL).a78
+da4a0b6359deb3519b3f5b095d2006f2	FailSafe by Bob DeCrescenzo (V20091207_RC1_NTSC).a78
+79097ba91492b92f88b615ee7718331d	FailSafe by Bob DeCrescenzo (V20091207_RC1_PAL).a78
+0e77323b2dc8df831825b640fb274a02	FailSafe by Bob DeCrescenzo (V20091209_RC2_NTSC).a78
+2b44999e51b42fc57c6610178fdc746e	FailSafe by Bob DeCrescenzo (V20091209_RC2_PAL).a78
+956781f1a434808c597173e21da1f531	FailSafe by Bob DeCrescenzo (V20091209_RC3_NTSC).a78
+f71456269886f60c35d68f3222bff3d2	FailSafe by Bob DeCrescenzo (V20091209_RC3_PAL).a78
+4f6bae07f5d904173d862d4eb9f3ef4d	FailSafe by Bob DeCrescenzo (V20091212_RC4_NTSC).a78
+61cb515b4a6c2cd9836e3bfef16257a0	FailSafe by Bob DeCrescenzo (V20091212_RC4_PAL).a78
+0a1324eaa927a9d7f9635e523b2e4619	FailSafe by Bob DeCrescenzo (V20091212_RC5_NTSC).a78
+408dcc43209fa3455eaeea1d4c0faf2e	FailSafe by Bob DeCrescenzo (V20091212_RC5_PAL).a78
+2d63de2294914d00824b89663c8a833a	FailSafe by Bob DeCrescenzo (V20091221_RC6_NTSC).a78
+e127358fdec66a695b9315adbca140c3	FailSafe by Bob DeCrescenzo (V20091221_RC6_PAL).a78
+b6e078da33f9d3355be80788d260372c	FailSafe by Bob DeCrescenzo (V20091226_RC7_NTSC).a78
+650b87ccdaaaa3ba4644d4a93d722133	FailSafe by Bob DeCrescenzo (V20091226_RC7_PAL).a78
+b01576817b14a870dafa8771cb2e92b1	FailSafe by Bob DeCrescenzo (V20091226_RC8_NTSC).a78
+74424241a411ed5131746dff4750ea53	FailSafe by Bob DeCrescenzo (V20091226_RC8_PAL).a78
+08036b741bce638891c5a673a18b29a8	FailSafe by Bob DeCrescenzo (V20100106_RC10_NTSC).a78
+540cda2051c3b5f062eedd673edcae8d	FailSafe by Bob DeCrescenzo (V20100106_RC10_PAL).a78
+ea1f59e86ebe33187d2c7e41125430f5	FailSafe by Bob DeCrescenzo (V20100110_RC9_NTSC).a78
+4f59c4de94a16e49359bbe93b6c41ea0	FailSafe by Bob DeCrescenzo (V20100110_RC9_PAL).a78
+bcaba6ac2b01cdef61d36c89da3e0c9e	FailSafe by Bob DeCrescenzo (V20100110_RC11_NTSC).a78
+be9d1977cbf8e96281ca8a3e8fa24151	FailSafe by Bob DeCrescenzo (V20100110_RC11_PAL).a78
+e1cf01def7cb68f12d37edd92b313790	FailSafe by Bob DeCrescenzo (V20100214_NTSC).a78
+914a97a65489931d1458dcbcd87d6ef4	FailSafe by Bob DeCrescenzo (V20100214_PAL).a78
+eaba577e1c359385f47cc80e1d1b4ed1	FailSafe by Bob DeCrescenzo (V20100216_NTSC).a78
+8d4f1392cca06468e85521023296f434	FailSafe by Bob DeCrescenzo (V20100216_PAL).a78
+6579dffb415f4dc5286997eac29abd5a	FailSafe by Bob DeCrescenzo (V20100226_NTSC).a78
+198bb1c9aa35e87272f363eece7839fc	FailSafe by Bob DeCrescenzo (V20100226_PAL).a78
+4113aafb68de755ceeef6214b6fc5fc6	FailSafe by Bob DeCrescenzo (VUnknown_NTSC).a78
+cbc0ff580468765ef0cd53b292937b78	FailSafe by Bob DeCrescenzo (VUnknown_PAL).a78
+940735ca7d9db710858aa43b743bc456	Falling Demo (V20020721) (PD).a78
+c9551260a5a8e79e38acd8294c791f5a	Fatal Run (1990) (Atari) (PAL).a78
+fb28cd747d102114858010f6eb16ab35	Fatal Run (1990) (Atari).a78
+57109e6e4e2852c23440300ad27ce3cb	Fight Night (1988) (Atari) (PAL).a78
+c64fb1c181e2d8b807181bb3c0fffbe9	Fight Night (1988) (Atari).a78
+68a62e30225431f4a789dbc957bc28ff	Food Fight (1987) (Atari) (PAL).a78
+60b235916d840f20d987ab0898de923c	Food Fight (1987) (Atari) (Prototype).a78
+9a3819eef58dddb550fe997e7e6abee2	Food Fight (1987) (Atari).a78
+85eea82440424b6bdae8774062e3eb0e	Food Fight X (Hack).a78
+1c0bdc6ea566be06e1b0e062f5adaf89	Food Fight X (V_PAL) (Hack).a78
+6a10e86180f45b13816265ae3564bd3e	Frenzy by Bob DeCrescenzo (V2013xxxx).a78
+94d36ebd46fa054833bcea34e5348732	Frenzy by Bob DeCrescenzo (V20130810).a78
+9c1333e1a08f282d482366a00d5a939b	Frenzy by Bob DeCrescenzo (V20130818).a78
+5714d109c31b269eccc5fcc296b2255d	Frenzy by Bob DeCrescenzo (V20130821).a78
+4b9f6e0c6df145f41b0be7b8dd265bd2	Frenzy by Bob DeCrescenzo (V20130901).a78
+3dfa3f4d60c1b0721a5586df6bec0600	Frenzy by Bob DeCrescenzo (V20130904).a78
+63a7c1bff339af953f18ed57c7ecbada	Frenzy by Bob DeCrescenzo (V20130923RC1).a78
+9c1eb9868d6079b02defd3659ef8b648	Frenzy by Bob DeCrescenzo (V20130927RC2).a78
+077617e9e2a0ec33b3e950cc0f42193c	Frenzy by Bob DeCrescenzo (V20130927RC3).a78
+a4f0897177ac18c3c266f1104a693f06	Frenzy by Bob DeCrescenzo (V20130928RC4).a78
+610ff52a3e43de9e1499fe652eb53e50	Frenzy by Bob DeCrescenzo (V20130929RC5).a78
+f99a7316db33795d722365e96ea673d7	Frenzy by Bob DeCrescenzo (V20131217final).a78
+6b68dab6da6d855375278098d5421496	Frogger (V20030101_nosound).a78
+26f0387e457d0c46c7d8dd7d325ad1f1	Frogger by Matthias Luedtke (V20050713) (PD).a78
+c8acc128d0b5eb3816a0959fa95c6de6	Frogger by Matthias Luedtke (V20061002_TIA) (PD).a78
+7812c2f1b876e47aa71c93fa4b03c260	Frogger by Matthias Luedtke (V20061126_POKEY) (PD).a78
+4ea58caa1faadcb32388b25072343368	Frogger by Matthias Luedtke (V20070606) (PD).a78
+03208abc9665286c9f209219c742ceab	Frogger Demo by Matthias Luedtke (V2005xxxx) (PD).a78
+6a89c5f6ece340e4a9973e13b34ac4f9	Frogger Demo by Matthias Luedtke (V20050504) (PD).a78
+c4e04ef313ec050089d361ff8832c347	Frogger Demo by Matthias Luedtke (V20050505) (PD).a78
+28083f232ac4acdbdaece07d1561fbed	Frogger Demo by Matthias Luedtke (V20050524) (PD).a78
+962f7025fa660d5987bce377ba0bc37b	Frogger Demo by Matthias Luedtke (V20050813) (PD).a78
+9744ccef367004cf89c025cb686ba476	Frogger Demo by Matthias Luedtke (V20051003) (PD).a78
+c7c347c797e12b397a72191bac3901ab	Frogger Demo by Matthias Luedtke (V20051008) (PD) [a1].a78
+6dbd2cef9a15bcf8a809c80ada2a4c5c	Frogger Demo by Matthias Luedtke (V20051008) (PD).a78
+4e1feafe30edbef38097d672574d538c	Froggie by Matthias Luedtke (V20060417) (PD).a78
+97ede3b91072bddaa1863981b025074c	Froggie by Matthias Luedtke (V20060417older) (PD).a78
+54818d157b3fd49cd967f02b4fe8c9f8	Froggie by Matthias Luedtke (V20060604) (PD).a78
+61ceb5a94eb57bf21d4fa90fa4edf9d3	Froggie by Matthias Luedtke (V20061126_TIA) (PD).a78
+e8cbb763b8f69ab41d60ea6415b2484b	Froggie by Matthias Luedtke (V20061231_POKEY) (PD).a78
+d71657e2303b06c66aaec1b0c4589db0	Froggie by Matthias Luedtke (V20070107) (PD).a78
+af9ac7a1370a5274f62723c6327ad7af	G2FSlideshow (V1.00_100602) (PD).a78
+401c3b25170e03c5316ec8c4320000d3	Galaga - Ship Edit by KevinMO3 (Hack).a78
+caef66c2c312960982c44aa2ef0d0353	Galaga (1984) (Atari) (Prototype).a78
+07f11ddb1250ada7cb1ede8649e06cd8	Galaga (1987) (Atari) (PAL) [t1] (14 Lives by Blue Azure).a78
+712225bf32f418848375012c91bb8554	Galaga (1987) (Atari) (PAL).a78
+f6bff786ef4f94f336f1912bc91e7305	Galaga (1987) (Atari) [t1] (14 Lives by Blue Azure).a78
+f6bb1269e55854c61cb6bd3360071c79	Galaga (1987) (Atari) [t1] (Fast Fire+14 Lives by Blue Azure).a78
+8a6b4e73d982d705eadf39eeb2c71b5d	Galaga (1987) (Atari) [t1] (Infinite Play by Blue Azure).a78
+1dd27b0caf03d6e3948d3be16ac30792	Galaga (1987) (Atari).a78
+439dce86ad3cbb255fb687008e3c3aa4	Galaga Demo (PD).a78
+afd305f9d90635c6372b51f057b0401e	Gato (1987) (Atari) (Prototype) [a1].a78
+aaedfb74499253df5216eebbc5f75f22	Gato (1987) (Atari) (Prototype) [a2].a78
+f95af33c24798aeea0a2e4497bf97197	Gato (1987) (Atari) (Prototype).a78
+fb1caed24cfc3d956147f1a0674dcc1f	Gato (1987) (Atari) (Prototype-B-Nov) (Unsigned).a78
+202fbfb9fa763aaee3369e4943b6d526	Gato (1987) (Atari) (Prototype-B-Nov).a78
+1736a4abec8803c5c614dcb5319fba06	Gato (1987) (Atari) (Prototype-Dec) (Unsigned).a78
+f3457c219282f39f183daab3c6b3bf43	Gato (1987) (Atari) (Prototype-Dec).a78
+19bec1ebb89e2173ec89bd05a0535431	Gato (1987) (Atari) (Prototype-Jul27).a78
+ba48ccc7b05aec33f1b9111b9a42b160	Gato (1987) (Atari) (Prototype-Jun11).a78
+d4b7487b9494380b3bd22647373f61d8	Gato (1987) (Atari) (Prototype-Jun23).a78
+20e3e3e0de2b3c65286d3b337d0f5378	Gato (1987) (Atari) (Prototype-Nov).a78
+d4a380b7173bd5295340b03e89a55a0e	Gato (1988) (Atari) (Prototype-Jan).a78
+cd450255419887ea2e05a5efa5b20a0f	Get Lost! by John K. Harvey (V20120629).a78
+7b62bbc4a6068d60a0d39a00f4c82647	Get Lost! by John K. Harvey (V20130126).a78
+471f55d66e53ecc548fcc27d69799aa3	Get Lost! by John K. Harvey (V20130127).a78
+3df6d4f0aeeca42244db2f847dd3b3a6	Get Lost! by John K. Harvey (V20130202).a78
+36e8f59492e0c5ea6b3898d849e8d14c	Get Lost! by John K. Harvey (V20130202_newer).a78
+715b8439df96f13b7da443672f19c0a3	Gorf by Steve Scavone (PD).a78
+b2b0a842125760969a43c6d194f6458a	Griffey The Dog (Ms. Pac-Man Hack) [t1] (Fast).a78
+5285ce5a9389e6203b84a3f7a1e92b56	Griffey The Dog (Ms. Pac-Man Hack).a78
+59c1f523f2e01e745f853fee485d8d55	Halloween Griffey The Dog (Ms. Pac-Man Hack).a78
+85e073620a06629064e7f57306c9b6c0	Hangly-Man by Bob DeCrescenzo (V20050530).a78
+46621861ce5431d1806b781893187a90	Hangly-Man by Bob DeCrescenzo (V20050531).a78
+012e5512c2dd71a9b1123ac1cefa0f74	Hangly-Man by Bob DeCrescenzo (V20050531_HSC_FIX).a78
+8f1539595013ad832e96256c4e15cda9	Happy Halloween 7800 by Walter Lauer (V20120809) [h1] (No Date).a78
+e64e34b69eca1b525db3312851254495	Happy Halloween 7800 by Walter Lauer (Vfinal) (PD).a78
+8937b2b6f11eed91f5b7837ce1fd1e25	Harry's Hen House by Mark Ball (V1.03_20099414).a78
+4138ff4215d10e6de8442d46ff2fd412	Harry's Hen House by Mark Ball (V1.04_20090415).a78
+f75709bb8a786ab21817daca8d5d7b84	Harry's Hen House by Mark Ball (V1.06_20100116).a78
+08e1941196b041d05b02b2a6caadbff9	Harry's Hen House by Mark Ball (V1.07_20100117).a78
+f7bf702bd6995df5ec7e377fd17b2689	Hat Trick (1987) (Atari) (PAL).a78
+e3009bea70564f42dea651aa6fb89bd2	Hat Trick (1987) (Atari).a78
+39c51612af680f830481aec60256fe06	Haunted Demo (PD).a78
+4172c4d94a30d287ded0c2b4499f91bb	Hello World (V20010525) (PD).a78
+605b8fe25fcd5a8166f858f48bd3e454	Ikari Warriors (1989) (Atari) (PAL).a78
+09ab678572f2c2953a7dda3cc3cda0df	Ikari Warriors (1989) (Atari).a78
+9452dba0dc47a7f2979fa8f762454cb7	Impossible Mission - Blue (Hack).a78
+922a77691993dd10416f7d2904a73859	Impossible Mission - C64 (Hack).a78
+d90e5a8519741ec227f3ecf62fef64de	Impossible Mission - Eyes Blue (Hack).a78
+52c0599ef6ca857bce9c075fee9167f9	Impossible Mission - Eyes Green (Hack).a78
+db5d0ef62fe53c4da48feea9c115abb2	Impossible Mission - Eyes Red (Hack).a78
+eee5a51ef72cd49d40357a84cfb13dc8	Impossible Mission - Fixed New PDA - Alt Head (Hack).a78
+4b489b40820d6778e3620e2beda2ee9d	Impossible Mission - Fixed New PDA (Hack).a78
+a4dcc364f9c2c4331aa2674204c32739	Impossible Mission - Green (Hack).a78
+43d0f8991e94c2576a151dbf0353fc34	Impossible Mission - More Hair - Small Chest (Hack).a78
+ba3fe2cf88418ff17ed139229ee2a32c	Impossible Mission - More Hair (Hack).a78
+1cfa1ac8a05e15686951b1350caf4167	Impossible Mission - New Blue (Hack).a78
+1dc384b6c12427ecb51d44c483018609	Impossible Mission - New Green (Hack).a78
+9e49e981263432385fb47592d5015ebe	Impossible Mission - New Red (Hack).a78
+fb1c3bf603d2fbeb3f19c25d0c354dc3	Impossible Mission - New Win Blue (Hack) [a1].a78
+2cf5d90b383a7114e89ea2f4aa389cdc	Impossible Mission - New Win Blue (Hack).a78
+2c63f63f8fbe677ae9375b910bae50f2	Impossible Mission - New Win Green (Hack) [a1].a78
+a83ad770d2fc067486bfe1eaf15c70a0	Impossible Mission - New Win Green (Hack).a78
+3f0e128768b52047d5a13c9fe77910c5	Impossible Mission - New Win Red (Hack) [a1].a78
+716c88d681752dd3c66064d44f366b0f	Impossible Mission - New Win Red (Hack).a78
+af6209bca4f93b0498d0c78e5055f9a8	Impossible Mission - Red (Hack).a78
+2b8344da10eae5d16650a1623e178060	Impossible Mission - Small Chest (Hack).a78
+3eb3e2093a5ecceffaeba3097699b4e3	Impossible Mission - Stance Edit (Hack).a78
+ec0bcc5790622c3aae8357fb64f2d48a	Impossible Mission - Win New - Alt Head (Hack).a78
+6e9f0e5d711a63f72e8bd9176949f275	Impossible Mission - Win New (Hack).a78
+f9b53a96ad0a408d37fa1f1e745ac2df	Impossible Mission (1987) (Atari) (PAL).a78
+f21c1ff483f33a3162dde303684afe45	Impossible Mission (1987) (Atari) [!].a78
+409863dd85d21c9ee6157edeaf73861f	Impossible Mission (1987) (Atari) [a1].a78
+a84f57a6b964deaf031dcf90dfce47a7	Impossible Mission (1987) (Atari) [f1] (NTSC).a78
+7925a540f3356b686e9ea89f920d5522	Impossible Mission (1987) (Atari) [f1].a78
+17f689b8904214ea34b8739b2fbd5707	International Karate Plus Demo (PD).a78
+d4f39594b9463c4469f8ab565cef8421	Invisible Pac-Man (Hack).a78
+22dc0a6851bf21023bf136ac8e1f7b35	Java Ms. Pac-Man by Justin De Lucia (Hack) [a1].a78
+282bca70d008b8143bd1ea33ee2ddbf4	Java Ms. Pac-Man by Justin De Lucia (Hack).a78
+93630d3b32690f4127edde9993163cba	Jinks (1989) (Atari) (PAL).a78
+f4eaa88fa34b608c5b521ddf821173c4	Jinks (1989) (Atari).a78
+1cc643e4ef4015ca8b4cac53ac9f8d72	Joust (1987) (Atari) (PAL).a78
+6acb6db87bd24ab7eecdbef2f206b384	Joust (1987) (Atari).a78
+e03f164b0728f5e83b2a56d30f1fde74	Joust X (Hack) (PAL).a78
+c354c6a454c8ad0f731ef8003871fd99	Joust X (Hack).a78
+f48cc972b7f1a05bbe89f778cf4c5849	Jr. Pac-Man 7800 by Bob DeCrescenzo (V200xxxxx) [a1].a78
+0b232c181befd934bde37e627fecfb30	Jr. Pac-Man 7800 by Bob DeCrescenzo (V200xxxxx) [a2].a78
+a303b9d03718c81401be4906aa6a3a20	Jr. Pac-Man 7800 by Bob DeCrescenzo (V200xxxxx) [a3].a78
+d390dfc0f7ab8bb66f62d27c2579dadd	Jr. Pac-Man 7800 by Bob DeCrescenzo (V200xxxxx) [a4].a78
+ff7d9dca2421681a6d0487aa5b56abe4	Jr. Pac-Man 7800 by Bob DeCrescenzo (V200xxxxx) [t1] (Fast).a78
+07953f995f2f10699604efb7012b5c38	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090401).a78
+b9eab17904b7f804d84d42cde324557c	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090411RC1).a78
+8a1e81cc91fdd2212e1bf3351807a99c	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090412RC2).a78
+00a239fd23a08c270c6ad557294506df	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090415RC3).a78
+4c2ef766d30dc55e403e8f90e06aba48	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090416RC4).a78
+1bbe0ee50e663873f339660ca7f53533	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090417).a78
+ec733da0495f7eab3beeb282f3613622	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090417RC5).a78
+57276084aa13ba83dca7710675b7c5b9	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090419RC7).a78
+7a1dfb92064f197d9bd5a1cb856e4254	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090501).a78
+013cce1aa059022fc4fedecdb2e3b3a4	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090924).a78
+259ef5c1a98ea6bcd0bf5a922828231d	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20120924PAL).a78
+063aa7bfd90929a29c36f46b8553a585	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20190401update).a78
+17bfbeacab447377e9639043e6964839	Jr. Pac-Man 7800 by Bob DeCrescenzo (VWIP8).a78
+36dfd705194d331ff828866b7e8ca0ef	Karateka (1987) (Atari) (PAL).a78
+a58e0790cf2940e33343daacee0bc864	Karateka (1987) (Atari).a78
+a98083f481cd3005459a79caff5e6a7d	KDEMO by Ken Siders (V20021013) (PD).a78
+cf0fc7235ff023a347577f8e07f7ff1e	Klax - Impossible Level 1 (Hack).a78
+e5c11761c9c5f7f26b7f454d60e67325	Klax - Impossible Level 2 (Hack).a78
+a49adfc690686ff53e4913b6804dee8f	Klax - Impossible Level 3 (Hack).a78
+62ac9b6a93308bb65ca8158b2100ff34	Klax (1992) (Atari) (Prototype) [a1].a78
+4f0711ba6064d1dfbc5996d38b689576	Klax (1992) (Atari) (Prototype) [f1].a78
+3fa3bf48510bd3c3464e6cc18864b8d8	Klax (1992) (Atari) (Prototype).a78
+8c92c54ca423f866886a7955bc5d6996	Kung Fu Master (1989) (Absolute) (PAL).a78
+1d9513a8d2a837caca7bb4e9884a87cb	Kung Fu Master (1989) (Absolute) [!].a78
+4b983cf73cbe83d319cd7d56364a1fd5	Kung-Fu Master - Edited (Hack).a78
+15981e21e9af19f182950540cadc1374	Kung-Fu Master - New Sprites (Hack).a78
+6108a8c1976882ffb38e08ab6f2d44fc	Kung-Fu Master (V20130113) (Hack).a78
+1ee79608633a7fedfa8bc55395d947ee	Kung-Fu Master (V20130116) (Hack).a78
+09d372a1f80efe8b56b319a2bf661c1d	Kung-Fu Master (V20130622) (Hack).a78
+9281960b69d111afdb5896d6f1b032b2	Ladders 2 Demo (V20091123) (PD).a78
+47378ad20b7dd050ce905f57ab86e9a7	Ladders 3 Demo (V20091123) (PD).a78
+a7f724c262c9616c20b99bb06d19a488	Ladders Demo (V20091121) (PD).a78
+8ea3688791398da1a709407b501c7890	Lores Kernel Test 7800 (PD).a78
+fc806b64f8a6693d5b845eef69603188	Mario Brothers (1988) (Atari) (PAL).a78
+4e1151e58e14ffca2a445d46981dab65	Mario Brothers (1988) (Atari).a78
+d5cbbe02760e0f13aacf2fb0808d968a	Mat Mania Challenge (1989) (Atari) (PAL).a78
+b34fec30a281a066c4098c44709f30ae	Mat Mania Challenge (1989) (Atari).a78
+a5a0f6297c29146162bcd6db7d30790e	Mean 18 Golf (1988) (Atari) (PAL).a78
+a2467a3c756505010a37e9a687de57d5	Mean 18 Golf (1988) (Atari) [!].a78
+56ba37a817e0f434bbec9e9274b84d36	Meltdown (1990) (Atari) (PAL).a78
+548c743c32058950d507861d7993d425	Meltdown (1990) (Atari).a78
+04305220289a8041f2af251b41272e0c	Mestor and Polax (Pac-Man Hack).a78
+21d1caaeca24e023fad3df23b452b93a	Meteor Shower by Bob DeCrescenzo (V2001xxxx).a78
+9939d7172855e9bac28f880f233b9926	Meteor Shower by Bob DeCrescenzo (V2011xxxx_PAL).a78
+a7ce59556d745c64b1d33d7aa9b24643	Meteor Shower by Bob DeCrescenzo (V20110520).a78
+f7ddd9ffd626cd1622dae826f72dcf4f	Meteor Shower by Bob DeCrescenzo (V20110521).a78
+c46a4c336dd425a1971823b892507d93	Meteor Shower by Bob DeCrescenzo (V20110522).a78
+2ef2bd44babd45f31dd3530566959b5b	Meteor Shower by Bob DeCrescenzo (V20110522_PAL).a78
+aad0759b13a31a004fa025ff8f8d198e	Meteor Shower by Bob DeCrescenzo (V20110523).a78
+0487eed956d62ec1aac514970a710122	Meteor Shower by Bob DeCrescenzo (V20110523_PAL).a78
+8e4056a2129e9411292ff927487c6d41	Meteor Shower by Bob DeCrescenzo (V20110524).a78
+a5434ef6e97ed28f3a0116287cd67df7	Meteor Shower by Bob DeCrescenzo (V20110524_PAL).a78
+60aa3cf88c3fb6f2ab4b70092f8608ee	Meteor Shower by Bob DeCrescenzo (V20110525).a78
+a05d910566c89c6fee762e9d5148adaf	Meteor Shower by Bob DeCrescenzo (V20110525_PAL).a78
+917283b094325a1bb3d18f6d9b9c630f	Meteor Shower by Bob DeCrescenzo (V20110527_final).a78
+f827b6c29832d75f344313432d4038d9	Meteor Shower by Bob DeCrescenzo (V20110527_final_PAL).a78
+6367b42ce5db0d97f8ff994225254e35	Midnight Mutants (1990) (Atari) (PAL).a78
+b09c17d707e68d13bf3e950e87284834	Midnight Mutants (1990) (Atari) (Prototype).a78
+e0cc5168d910557c01d3c95173ec7d0a	Midnight Mutants (1990) (Atari).a78
+8367189262d09043e82e0e7e0bfe939a	Miss Pac Attack by Bob DeCrescenzo (Final Version for HSC) (Hack).a78
+e6c103619d936dda15f4c578eafeb65b	Miss Pac Attack by Bob DeCrescenzo (Final Version) (Hack).a78
+a7118490deaa85e5ead32f33924982d2	Miss Pac Attack by Bob DeCrescenzo (Hack) [t1] (Fast).a78
+163bf60ca614970dd11cb3e41c2030ce	Miss Pac Attack by Bob DeCrescenzo (V20050527) (Hack).a78
+c0eeb12d0bf56cfe7dd0065cd1354340	Miss Pac Attack by Bob DeCrescenzo (V20050527_new) (Hack).a78
+2a1ef4a106f61826b39869edbc352664	Miss Pac Attack by Bob DeCrescenzo (V20050927) (Hack) [t1] (Fast).a78
+a4741ba8f3569fdf1c49a3ce4baa0b69	Missing in Action (Prototype-NTSC) (TNT Games).a78
+51893a2ce7683515c7b4f141769bebb3	Moon Cresta by Bob DeCrescenzo (V20110726).a78
+8cee3d59fe1ba4f0c079bdb0eeb253a8	Moon Cresta by Bob DeCrescenzo (V20110827).a78
+0a71a19317578ca54f0b40ed74f58288	Moon Cresta by Bob DeCrescenzo (V20110903).a78
+ef29ec10e2f4cf9c3954561c2218c8d6	Moon Cresta by Bob DeCrescenzo (V20110903_PAL).a78
+85c91deac457fe59a09c04bee1f7f385	Moon Cresta by Bob DeCrescenzo (V20110910).a78
+d0a2a44b8f8ae8ef7e76f9c0ac5e9e42	Moon Cresta by Bob DeCrescenzo (V20110910_PAL).a78
+a5e466e0f4d3ecfc07c833be344b8818	Moon Cresta by Bob DeCrescenzo (V20110914).a78
+31e4e61224a7f9b05bb1e47acbac6f55	Moon Cresta by Bob DeCrescenzo (V20110914_PAL).a78
+b514772cce441f9caee5458057936878	Moon Cresta by Bob DeCrescenzo (V20111006).a78
+97605d09064265fb877bdc9db55724d6	Moon Cresta by Bob DeCrescenzo (V20111006_PAL).a78
+93b25ba7e77f2bdf3926c2835c3d4ccc	Moon Cresta by Bob DeCrescenzo (V20111006updated).a78
+36c25059b4f495c71e8dcd8158554420	Moon Cresta by Bob DeCrescenzo (V20111010RC1).a78
+2d8e4aa336cebb48bd7775cdecd328c4	Moon Cresta by Bob DeCrescenzo (V20111010RC1_PAL).a78
+6ca40318e63e232b056d4c94cf3d3407	Moon Cresta by Bob DeCrescenzo (V20111010RC3).a78
+eccef44e862e634803ca3b88d6cd33fc	Moon Cresta by Bob DeCrescenzo (V20111010RC3_PAL).a78
+8076d38864590bb08a72dfc9115b61e8	Moon Cresta by Bob DeCrescenzo (V20111011RC4).a78
+d8212a22816930533491f20f5e6a5353	Moon Cresta by Bob DeCrescenzo (V20111011RC4_PAL).a78
+09520d43cd8e35a5c68df16e5a7f7ed2	Moon Cresta by Bob DeCrescenzo (V20111115).a78
+cc955f2a953f30aa16f181763468db88	Moon Cresta by Bob DeCrescenzo (V20111115_PAL).a78
+8e149f430643ea50c4b9698a5422ec86	More Beef Drop (Hack).a78
+42faf283fee9fd61acf0691f349e929e	Motor Psycho (1990) (Atari) (PAL).a78
+06b27077568fe7529d2d0bdfdd974854	Motor Psycho (1990) (Atari).a78
+251b58d7dbf5e57294ab3073eeffec71	Ms. Fruit-Man by Justin De Lucia (Ms. Pac-Man Hack).a78
+eca91b89512cde070b40bdf54c4a7a13	Ms. Pac-Man (1987) (Atari) (PAL) [t1] (Invincible).a78
+e8b485874694bf2dac3d5ba2b2b4ff8f	Ms. Pac-Man (1987) (Atari) (PAL) [t2] (Fast,Invincible).a78
+91b24c1e13b39b649d80efe1d9b742ae	Ms. Pac-Man (1987) (Atari) (PAL).a78
+2d3dc903fb263f616b8a3a0d7a724e25	Ms. Pac-Man (1987) (Atari) (Prototype).a78
+37163e81674b6b1c8c2c41a052b0fa19	Ms. Pac-Man (1987) (Atari) [h1].a78
+76df8751065b8c001b757075e1223b55	Ms. Pac-Man (1987) (Atari) [t1] (Invincible).a78
+5b305ddce7078c72b29ccb882c3bc85b	Ms. Pac-Man (1987) (Atari) [t2] (Fast,Invincible).a78
+12a6483c57d2060d1d07eed2f4cb63dd	Ms. Pac-Man (1987) (Atari).a78
+9fb643fb53394e41f28a0edf4f085f12	Ms. Pac-Man 320Mode (Hack) (PAL).a78
+7788661b81a6d85cd80269ef3504e0e2	Ms. Pac-Man 320Mode (Hack).a78
+98d226e606b38b680c03fd20edaa4a23	Ms. Pac-Man 320Mode+Pokey (Hack) [t1] (Fast,Invincible).a78
+76f039d10d07faea097a895f37d2786e	Ms. Pac-Man 320Mode+Pokey (Hack) [t1] (Invincible).a78
+96e7c3856aee023e5e2ce8aadb620ab3	Ms. Pac-Man 320Mode+Pokey (Hack).a78
+0915d25c3692335672efe9e4996dc059	Ms. Pac-Man 2600 WIP (Hack).a78
+6cad07de3c5f6e485edbcc31128f8e33	Ms. Pac-Man by Bob DeCrescenzo (Arcade Graphics) (Hack).a78
+24fbaa374d4142b7cd3c5655b9f79b4d	Ms. Pac-Man by Bob DeCrescenzo (Arcade Graphics+bugfix) (Hack).a78
+907f73bf5bed62cdd68a27a6c99a497b	Ms. Pac-Man by Bob DeCrescenzo (V20090421) (Hack).a78
+6f3738dad59f069c2a9c80c5f6ad0658	Ms. Pac-Man by Bob DeCrescenzo (V20090427) (Hack).a78
+f5ecfb9be87f6171bb74fc7ed6e20516	Ms. Pac-Man by Bob DeCrescenzo (V20090428) (Hack).a78
+31bc9f37c6011c9e4c6b3b4a9b82cf8b	Ms. Pac-Man by Bob DeCrescenzo (V20090429) (Hack).a78
+c196412406a719deb3df5117191c0385	Ms. Pac-Man by Bob DeCrescenzo (V20090501) (Hack).a78
+e84cde56b2e23099e76e5fe336b52a5b	New Ms. Pac-Man by Bob DeCrescenzo (New Ghost Graphics) (Hack).a78
+2376f769c6183f80bf4b791a57dc1554	Ninja Golf (1990) (Atari) (PAL).a78
+bb551483d114dcc5bae7aaa892ee856a	Ninja Golf (1990) (Atari).a78
+17dbeb6eb0b0cb82ed1d66e855d02c5a	NTSC Encryption Backdoor Test (2000) (PD).a78
+eb01b649ff278fb0e52eb0e3d843cd8d	Nyan Cat 7800 by Moerder (PD).a78
+c6c901171fda11e1deba32ccff1a218d	One-on-One Basketball (1987) (Atari) (PAL).a78
+485478092c2f192eaf29ca199b753d16	One-on-One Basketball (1987) (Atari).a78
+191d498554f5e6b2c4b1f5ca1803ecf9	Pac Nestor (Ms. Pac-Man Hack).a78
+7a84121d7482b036d31e8e28309a0d5c	Pac_snd_hack by tep392 (Pac-Man Collection Hack).a78
+d989a7503c01cc6b213ca6f963776cab	Pac-Handheld-Lynx by Justin De Lucia (Hack).a78
+8545c403f4a67b86a9bd6b48c47d44f5	Pac-Jason by Walter Lauer (Hack) [a1].a78
+e01d89e056c32eba237e9c885f1b35ec	Pac-Jason by Walter Lauer (Hack).a78
+7bbbced19c6f791a6f4ddc3b0eaed2c7	Pac-Maine by Justin De Lucia (Ms. Pac-Man Hack).a78
+d89c55181b45c06e8197db49c5d8db6b	Pac-Man 7800 by Bob DeCrescenzo (V0.1signed).a78
+883a6388f06d1fab0a0ce05716faae54	Pac-Man 7800 by Bob DeCrescenzo (V0.2).a78
+80efbc47643d7b6def0fca394327aa7d	Pac-Man 7800 by Bob DeCrescenzo (V0.3).a78
+5eea41b63a683ac989af4466a399571b	Pac-Man 7800 by Bob DeCrescenzo (V0.4).a78
+090e186964dd7516a2ddd8fbbfcba2de	Pac-Man 7800 by Bob DeCrescenzo (V0.5).a78
+88223a79ffdee93cc46feb088004ed6b	Pac-Man 7800 by Bob DeCrescenzo (V0.6).a78
+da9f92996d6e67771a8473fe4018bbe8	Pac-Man 7800 by Bob DeCrescenzo (V0.7).a78
+3760258b85f0f06cdd62d6b77e8f0174	Pac-Man 7800 by Bob DeCrescenzo (V0.7dot delay test).a78
+9ac07ca5cf852016c520d9fe32dc46d9	Pac-Man 7800 by Bob DeCrescenzo (V0.8).a78
+050223d7e87a1d76f193bbe58f9634b0	Pac-Man 7800 by Bob DeCrescenzo (V0.9).a78
+93ffc5151a78fc4eeb4d79923ea7c7f2	Pac-Man 7800 by Bob DeCrescenzo (V1.0).a78
+e1d9a4cac413aacc0b05f32b422f12ee	Pac-Man 7800 by Bob DeCrescenzo (V1.0a).a78
+16f7bda261ff8d045b9758438610bb53	Pac-Man 7800 by Bob DeCrescenzo (Vx.x) [t1] (Fast).a78
+10de936067ef07f8f03e8af9ba0f6c92	Pac-Man Arcade by Bob DeCrescenzo (V20110721).a78
+fae8a4febf8f7b9be208db49c626a9e7	Pac-Man Arcade by Bob DeCrescenzo (V20110721_PAL).a78
+1938c984920f550cfbb05f7d70760c48	Pac-Man Arcade by Bob DeCrescenzo (V20110721POKEY).a78
+99418796a9a409d13cdaee662bfdc8bc	Pac-Man Arcade by Bob DeCrescenzo (V20110723POKEY).a78
+87282c7f50c7af7b85222676e4b77146	Pac-Man Arcade by Bob DeCrescenzo (V20110810).a78
+bce39849fe488f06f4b28988acf55c4c	Pac-Man Arcade by Bob DeCrescenzo (V20110810_PAL).a78
+5798869b0c169406962122232f19c4dd	Pac-Man Arcade by Bob DeCrescenzo (V20110810POKEY).a78
+21437d5fb58b9e4dae8cfca5526a244b	Pac-Man Collection Arcade by Bob DeCrescenzo (Pokey) (V1).a78
+b49c127c1cef1e9f6d90ae83aa044df6	Pac-Man Collection Arcade by Bob DeCrescenzo (Pokey) (V2).a78
+f262a7c868d184e39efec9ea9eaa0087	Pac-Man Collection Arcade by Bob DeCrescenzo (Pokey) (V3).a78
+f75914a1ac91d49a58b265fce3a12eb7	Pac-Man Collection by Bob DeCrescenzo (V.01_32K).a78
+3dd5af596ba92792b20b3e38f184d3fc	Pac-Man Collection by Bob DeCrescenzo (V.02_32K).a78
+13817593f937009536507efdcbf3ae83	Pac-Man Collection by Bob DeCrescenzo (V.03_32K).a78
+71fe3fc5361a0b1bc90e196f0567bd89	Pac-Man Collection by Bob DeCrescenzo (V.04_32K).a78
+2023aba1fbe8cb21e7e0df31563ca9cd	Pac-Man Collection by Bob DeCrescenzo (V8).a78
+f408db9ad7e2d9428f5130dcdd6edec2	Pac-Man Collection by Bob DeCrescenzo (V8_protomaze).a78
+bdfa742d622296cdf60ddc70f3f0b17b	Pac-Man Collection by Bob DeCrescenzo (V9) [a1].a78
+5f4012e9e9df86e86b2b46a563cc5c2a	Pac-Man Collection by Bob DeCrescenzo (V9).a78
+35b5111fb45a9b8ac2e4b20bc033948d	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) (PAL).a78
+8257d90a71d7b7a726c1a69403b1bdef	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) (Pokey).a78
+9f22a097753dc10b1ce200bcdc6df23a	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a1].a78
+6957ba514284e221342da59f940dd1f1	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a2].a78
+474d79de45fb65faef694c0bf0312928	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a3].a78
+a4b656bfa4a5ff22c8c5019641e8ddd6	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a4].a78
+8e971c213c0b12072d095c95915834c5	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a5].a78
+778c2f1d7a55ec7da9f6bc78b96014ee	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a6].a78
+2cf8b526eff28889160755e0ffb5c178	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a7].a78
+116828384ef3aed84230dc3c8af67041	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a8].a78
+9744d64f66602f5d9c7a3fb886e431a9	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a9].a78
+386bf8d500bcf80d3dcc69160082789c	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx).a78
+46938ea58c9c4e6daf8ea1b58e16f5e9	Pac-Man Collection by Bob DeCrescenzo (V20061107).a78
+8c5ea56402dd264cf2abc8e30d0e2db3	Pac-Man Collection by Bob DeCrescenzo (V20061109_new).a78
+4aa93f7473ef0323e6d0f0ea59092326	Pac-Man Collection by Bob DeCrescenzo (V20061109_old).a78
+d3cde4d0ddc310522d9c8997276fd375	Pac-Man Collection by Bob DeCrescenzo (V20061119).a78
+0a33972a4a9c128ed42350188c8426a2	Pac-Man Collection by Bob DeCrescenzo (V20070828_PAL).a78
+e0473a1c85230b9ae0e1ae392747589e	Pac-Man Collection by Bob DeCrescenzo (V20070829).a78
+cc9e7fcd76f82abc7587ba59c1f1a3de	Pac-Man Improvment (Hack).a78
+5b412a6ccebb0fde5862fc73e06d1da7	Pac-Man Pirahna (Hack) [t1] (Invincible).a78
+8a548b9a5597dec5f1b404baa24369c9	Pac-Man Plus 7800 by Bob DeCrescenzo (V20050530).a78
+25fec1f3f263077087a64d38d1cf9413	Pac-Man Plus 7800 by Bob DeCrescenzo (V20050602).a78
+622ac52cee0fa3a1fb8861301f8fdb62	Pac-Man Remix NES by Justin De Lucia (Hack).a78
+e74baff713bb8c7b67f541a3219326e8	Pac-Prototype by Justin De Lucia (Hack) [a1].a78
+37d619f16a5954bec16c5f75463f9d0e	Pac-Prototype by Justin De Lucia (Hack).a78
+9416dedf005b83d4233794b5a6db5865	Papasmurf in Pacland by Jeff Wierer (Ms. Pac-Man Hack).a78
+4aed2778bb1b1107d1e0870a1f4e0566	Papasmurf in Pacland II by Jeff Wierer (Ms. Pac-Man Hack).a78
+4464cf23fcd2abbf26c4289bc3ee53e8	Pc-Man 7800 (Hack).a78
+3c882503c71027f64e7ee7630e765aa9	Pete Rose Baseball (1989) (Absolute) (PAL) [b1].a78
+3ddfb8fe20b38500acdbcf158cdba11a	Pete Rose Baseball (1989) (Absolute) (PAL).a78
+e749db4d81db283c1b6628181504b1b8	Pete Rose Baseball (1989) (Absolute) [!].a78
+263a783265ee519e780890dd7a3f4c8d	Pete Rose Baseball (1989) (Absolute) [o1].a78
+0d06d0f107b41bf83733031059835c2c	Pit Fighter (1992) (Atari) (Prototype) [a1].a78
+7152e5c43f700b253480d324affb6792	Pit Fighter (1992) (Atari) (Prototype) [a2].a78
+b22ee90919dbbceb1cefaf0f83179a4d	Pit Fighter (1992) (Atari) (Prototype).a78
+dd2428f9f032fc8eed7e2047820b41a3	Planet Smashers (1990) (Atari) (PAL).a78
+923ee9602e0af45fe5d2131dfd78214c	Planet Smashers (1990) (Atari).a78
+80b81a4caf03cd6c4af6d37604037da8	Plutos (Tynesoft) (Prototype-NTSC).a78
+a0f09999a960c4df88ebbe652b286c2e	Pole Position II (1987) (Atari) (PAL).a78
+8a4f2f898ee79593e2fc30061526ca08	Pole Position II (1987) (Atari).a78
+8a9ae0a87d817235158972c6e74704fd	Possible Mission by John K Harvey (Impossible Mission Hack).a78
+e129f1878aef31bfa11b19e866a25d31	Project1 Demo by Bob DeCrescenzo (PD).a78
+9d8b32e7421081ae60cd0c005ab1a477	Purple Pants (V20030728).a78
+dfa6390d174271b333fd1ea817bf0777	Q-bert by Ken Siders (V20050401).a78
+a8818c4c289fc0af24a0e4334677c3d0	Q-bert by Ken Siders (V20050417).a78
+24e19496466fbd3ef68d521b2743697c	Q-bert by Ken Siders (V20050426).a78
+69a45b4f5b4dea3cfd1ff316c5d55518	Q-bert by Ken Siders (V20050428).a78
+9d6a5ce0cfc357a0755b6b8f3f07a6bf	Q-bert by Ken Siders (V20050428_AtarivoxSupport).a78
+8dd636de7b4e9afd123c4827135b4ebd	Q-bert by Ken Siders (V20050510).a78
+6f7781b399827b0ed5e40939dcaf8b25	Q-bert by Ken Siders (V20050511).a78
+2ccdb8ec0ed89c9f5347323b02ba5f98	Q-bert by Ken Siders (V20050513).a78
+b0610d94f994ab0fc08440b7bbeeeeb7	Q-bert by Ken Siders (V20050518).a78
+439a696e6018434eef0d355f2dc23814	Q-bert by Ken Siders (V20050523).a78
+de4e0eb7054e0200f5e1abc9378cd763	Q-bert by Ken Siders (V20050524).a78
+7da03e632bf96c0d613fc9ce7deb2668	Q-bert by Ken Siders (V20050529).a78
+56a07fc4cc9f2939692b4430e15922cf	Q-bert by Ken Siders (V20050530) [t1].a78
+ed29db81dbf83014cefb3eb581447a31	Q-bert by Ken Siders (V20050608).a78
+44809d530d209c840424223ce03336dc	Q-bert by Ken Siders (V20050608older).a78
+96dea253a50050b01af806805a5d83da	Q-bert by Ken Siders (V20050614).a78
+f607d32494cd42bbc7ff53db68608c82	Q-bert by Ken Siders (V20050614older).a78
+794bf1dfa404faaa24f167705ed27293	Q-bert by Ken Siders (V20050615).a78
+ac7d9f54f33cebbe4aaf8d36c27ee6eb	Q-bert by Ken Siders (V20050615older).a78
+913460ab09b3ed7ab745db479acca204	Q-bert by Ken Siders (V20050617).a78
+3718b7baedeb9b63071d1bc33f39e94d	Q-bert by Ken Siders (V20050618).a78
+56d822e82d9f927124ff6f461b5e89d6	Q-bert by Ken Siders (V20050620).a78
+aae0581c65cf47d86827d7813dc67bb7	Q-bert by Ken Siders (V20060530).a78
+589dcdb671b963f40eff6caece3a6ad3	Q-bert Demo by Ken Siders (V20021109) (PD).a78
+f169479043a09812bae06c866c39a6ad	Rampage (1989) (Activision) [!].a78
+572969c779916208add09d31b7e2f1af	Rampage (1989) (Activision) [b1].a78
+47fd957364b14afb4a95e9c670377d77	Rampage (1989) (Activision) [b1][o1].a78
+ff265720384857524048270f05339817	Rampart (19xx) (Atari) (Prototype-NTSC).a78
+95e966ef140978351c21d0fe0b0e9216	Raster Music Tracker (PD).a78
+f39b3664545d1a13af40a9656c463bfe	RealSports Baseball (1988) (Atari) [o1].a78
+83a91c157d4feb13c3513b158d6c825f	RealSports Baseball (1988) (Atari).a78
+a890de25415c86a584613a9e27cbdc47	Rescue on Fractalus (1984) (Atari) (Prototype) (CC2 Hack).a78
+ae7dfd2a9d6b3291b04a70f02cd07d7b	Rescue on Fractalus (1984) (Atari) (Prototype).a78
+d6c91d3a5b7ac58f4d3d974c1611a676	Robot Finds Kitten 7800 (V20040320) (PD).a78
+3525de942c18269a5ad1a1d0271d3f32	Robot Finds Kitten 7800 (V20050619) (PD).a78
+5ac3aa823da1a7a9738c208161fbca57	Robotron 2084 (1987) (Atari).a78
+9c5598505f12b4ab68038465e683f7a9	Robotron X (Hack).a78
+bbf4c69a9c1c28b0d4ce995be2aa89f4	Rowdytron (Hack).a78
+15141059b08506ce5e690acf79066f7b	S1k by vdub_bobby (V20080408) (PD).a78
+7baa025e5f443f1185cf3ea5fb7ef21f	S1k by vdub_bobby (V20080409) (PD).a78
+15b2dffd61565114f71b428811f06599	S1k by vdub_bobby (V20080410) (PD).a78
+31404419fd85e910bc169f6b9b1eb103	S1k by vdub_bobby (V20080410fixed) (PD).a78
+a4390ff7948e9343a9ee7e5a58a4fa64	S1k by vdub_bobby (V20080411) (PD).a78
+8ff1ef4d3b55fd7873a6e35905cf6364	S1k by vdub_bobby (V20080413) (PD).a78
+b55838f463f8e577f4a46602822b4095	S1k by vdub_bobby (V20080414) (PD).a78
+1da59ed97b128a3ff36a2a4116625d8b	S1k by vdub_bobby (V20080417) (PD).a78
+4d6f2bc4ee9e6333d677078c8a648d4c	S1k by vdub_bobby (V20080418) (PD).a78
+c99e977556a45a99d41d8814b11d33e7	S1k by vdub_bobby (V20080420) (PD).a78
+51a366969bed1664a6bc96586dd54d23	S1k by vdub_bobby (V20080422) (PD).a78
+fe34c434ace70a174e7e66c694171398	S1k by vdub_bobby (V20080422fixed) (PD).a78
+1a980d15e132764936005ad3d65c3a04	S1k by vdub_bobby (V20080510) (PD).a78
+c1f23c330d36318cae0617beedcb28f5	Santa Simon by Matthias Luedtke (2006).a78
+7f2c874c9d4c7500bfa68db4d33b537e	Scramble by Bob DeCrescenzo (V20120101).a78
+b30b29f481c2ed5d12c7dc673e8bfb6a	Scramble by Bob DeCrescenzo (V20120101PAL).a78
+2079dc10f6c23fb975e1d9bf609940d4	Scramble by Bob DeCrescenzo (V20120102).a78
+1dfa94c266ccfaf962c4e72f69002162	Scramble by Bob DeCrescenzo (V20120102PAL).a78
+902426cdaa1cc060d388258adfd9d172	Scramble by Bob DeCrescenzo (V20120104).a78
+21e67486513a289c0dac26374d2309c8	Scramble by Bob DeCrescenzo (V20120104PAL).a78
+07a295327d809fece3fc9ea31f7c20bc	Scramble by Bob DeCrescenzo (V20120105).a78
+34b6bfa55b344e8b31a3d26fb9196a97	Scramble by Bob DeCrescenzo (V20120105PAL).a78
+2bfc0d99cb7f6f18e9f1b9b179cc32ec	Scramble by Bob DeCrescenzo (V20120106).a78
+ea0fa3d740c39dee0efd30fbaf048948	Scramble by Bob DeCrescenzo (V20120106PAL).a78
+6e46b05d94f2bc0006872c90b79193a6	Scramble by Bob DeCrescenzo (V20120107).a78
+633e872c0cf7792f974e0152e08bbbe7	Scramble by Bob DeCrescenzo (V20120107_rev1).a78
+abdb1074492b0ffedd4d1e22ce9ecd67	Scramble by Bob DeCrescenzo (V20120107_rev1_PAL).a78
+6b0c176d72069d3c56bffcc0187bd237	Scramble by Bob DeCrescenzo (V20120107_rev2).a78
+75b2d5442cb754bfdaae2fde2440fb56	Scramble by Bob DeCrescenzo (V20120107_rev2_PAL).a78
+e5ae12aa4386ae26394a5ebd5cad1d66	Scramble by Bob DeCrescenzo (V20120107PAL).a78
+e5a4c367160af245614b78e45c93ffa3	Scramble by Bob DeCrescenzo (V20120108).a78
+ee5088d86c8d702279a9a4caf2d619c0	Scramble by Bob DeCrescenzo (V20120108_rev1).a78
+23461a32d813fe8d3ea63bba69c99a79	Scramble by Bob DeCrescenzo (V20120108_rev1_PAL).a78
+420b5daf5f4c991a6b7107c95fc035e5	Scramble by Bob DeCrescenzo (V20120108PAL).a78
+3729af6899a9be48f104ab8d894483af	Scramble by Bob DeCrescenzo (V20120109).a78
+640e264d576702d4e6e8924a0d022f32	Scramble by Bob DeCrescenzo (V20120109_rev1).a78
+1f42569e9b0e159449c3baeb5cc37db9	Scramble by Bob DeCrescenzo (V20120109_rev1_PAL).a78
+2e018132b1411d2ec40ec490c14eea33	Scramble by Bob DeCrescenzo (V20120109PAL).a78
+12d9676f3af920178564a81aa8e46fda	Scramble by Bob DeCrescenzo (V20120110).a78
+a3a0486222bcfa5669c1f62d221bb097	Scramble by Bob DeCrescenzo (V20120110_rev1).a78
+6cc4fc441b9f571ea14853a501c66b2a	Scramble by Bob DeCrescenzo (V20120110_rev1_PAL).a78
+37cdf44ef4bbbc65706a8fa1cd0c5295	Scramble by Bob DeCrescenzo (V20120110PAL).a78
+0c079bf3ad95684957a5f0800267d7e3	Scramble by Bob DeCrescenzo (V20120114).a78
+c928b53dfe5c977e39ba12a4ad736f84	Scramble by Bob DeCrescenzo (V20120114PAL).a78
+8ac39665c208638850a29952c630ddc1	Scramble by Bob DeCrescenzo (V20120218headerfix).a78
+70fbc19bf5cc8a973a7c2f18b571bf40	Scramble by Bob DeCrescenzo (V20120218headerfix_PAL).a78
+a33dba47cde0e8904b90b7f5ed6d1639	Scramble Demo by Bob DeCrescenzo (PD).a78
+c3b2f0f462dbbf66d0c8c5c6e457d603	Scrapyard Dog (1990) (Atari) (PAL).a78
+eb1a0b793c58b2e2cacc01b843aebfed	Scrapyard Dog (1990) (Atari).a78
+23e1d22e4d1159c62ad60de0a02bddd4	Scroll Demo (PD).a78
+0f6b37f41cdbebff61ace8f4466aea28	Scroll Demo (V20091102) (PD).a78
+95aab3a67eec47e3346a3d34d72e2312	Senso 7800 DX2 by Karolj Nadj (2001) (PD).a78
+0d6f4776131a4afdebdeb072570cea62	Senso 7800 DX3 by Karolj Nadj (2003) (PD).a78
+89ae1db3edc1b9c8d7aff8af593528ad	Senso 7800 DX4 by Karolj Nadj (2003) (PD).a78
+6d2463f2e101960c29aef1ef9d2de0be	Senso 7800 Test 5 by Karolj Nadj (2001) (PD).a78
+a3d62d98dbd93d43d3ac04fbb35ef1f9	Sentinel (1988) (Atari) [!].a78
+967d09d8c03983cf92df73cabbeeea0e	Sentinel (1991) (Atari) (PAL) [!].a78
+ca5e2287229037b0de7f8dd5a6f0514f	Sirius (Tynesoft) (Prototype-NTSC).a78
+c070ed9085976b48a15fe47932da71ff	Small Sprite Demo 2 - Animations by Heaven_TQA (V20040117) (PD).a78
+152fcfad73485c51b76edec7e1eb5733	Small Sprite Demo by Heaven_TQA (V20040117) (PD).a78
+c559c1460ada8478adf85ce626a5017d	Snow Day (Jr. Pac-Man Hack) [a1].a78
+81da091421173cfc96c84ddd7be34f89	Snow Day (Jr. Pac-Man Hack).a78
+0214f6dcab98ea7a02646d9edb256e28	Space Duel (V20070826).a78
+05f30876bf9b69fc02533ac586dbf88f	Space Duel (V20070903).a78
+c271c7c666db057c1c90952667fbde67	Space Duel (V20070903_old).a78
+513e984e86aa8789cec8fb7b7ec35f1f	Space Duel (V20070926).a78
+68f71c2d25ef32761275fae2dbe35d65	Space Duel (V20071004).a78
+e2cf8478898e8dd87ecfcbfad9701c3d	Space Duel (V20071009).a78
+f35322f1cbf9b424a7d22c4a76b696f4	Space Duel (V20071011).a78
+1c34906d1d52d2f517c602d803b24032	Space Duel (VFinal_NTSC).a78
+560e3acf0a07bfa63f57be753c5fc5f2	Space Duel (VFinal_PAL).a78
+5a24e614342bd393b3a7efc4264f252c	Space Duel (VWIP1).a78
+0655e4270890c9e70c1ca76aefb03630	Space Duel (VWIP2).a78
+8cffcb32e7f082ed6400a15d6e8f83b8	Space Invaders 7800 by Bob DeCrescenzo (NTSC) [t1] (99 Lives).a78
+b5366eb491ff9c13f9c43b7e07261306	Space Invaders 7800 by Bob DeCrescenzo (PAL) [t1] (99 Lives).a78
+b8a0ff984ccf7e79edad9b3cc221daae	Space Invaders 7800 by Bob DeCrescenzo (VFinal_Fixed_NTSC).a78
+d751f0a93c7658793842a2b3d3cb548c	Space Invaders 7800 by Bob DeCrescenzo (VFinal_Fixed_PAL).a78
+b29c100b798aae37af906ddf440033d0	Space Invaders 7800 by Bob DeCrescenzo (VFinal_NTSC).a78
+40f198c99a310327a095a4fbfe828c19	Space Invaders 7800 by Bob DeCrescenzo (VFinal_PAL).a78
+45bdb40a4a1eeddd87ff64092ad80977	Space Invaders 7800 by Bob DeCrescenzo (Vunknown).a78
+4c9849011d6de502daf682dcfe79a427	Space Invincivaders (Hack) (PAL).a78
+18dbe47a4fd314fbd584aacca3f3670b	Space Invincivaders (Hack).a78
+2c1a97e352465c7444643e099fa4892e	Space War by Eric Ball (V20030930) (PD).a78
+5f6563a3c44b7e4b88eaac5259740a5e	Space War by Eric Ball (V20031018) (PD) [a1].a78
+75f05d48b36f34144c070852e1af261b	Space War by Eric Ball (V20031018) (PD).a78
+4d3a79f0e9cf834065aaef55382fe5c9	Space War by Eric Ball (V20040318) (PD) [a1].a78
+45af8572859c3f883bc41a9a004ad8c8	Space War by Eric Ball (V20040318) (PD).a78
+5b0a3d8d4624cbf9f15a8f28fe894e43	Space War by Eric Ball (V20070319) (PD).a78
+f3b27f2bd7cb1feee1f35ebd65791fa1	Space War by Eric Ball (V20070321) (PD).a78
+6c4727e117aca1fe15e291bb5c1c5093	Spikes Added (V20091118).a78
+3c7a2f36afe19ca0ee08bb2dfee1be15	Star Wars X (Xevious Hack).a78
+559e0a7566616b83644718f6f501e7a8	Summer Games (1987) (Atari) [!].a78
+bb7573d5d828ac8ecb0e212298605f49	Super Circus AtariAge by Bob DeCrescenzo (NTSC).a78
+651b99e9cf75002f450a79be3fcf1c82	Super Circus AtariAge by Bob DeCrescenzo (PAL).a78
+38ca78bccd3f181b3a833e2bcecd921f	Super Huey UH-IX (1989) (Atari) (PAL).a78
+81b81dd6239255be35c1d9bd2ce701c6	Super Huey UH-IX (1989) (Atari).a78
+4e424b43ed2aa588f804bc35f21e7236	Super Pac-Man by Bob DeCrescenzo (V2008xxxx).a78
+db13362052f0614a22381fbb6d257343	Super Pac-Man by Bob DeCrescenzo (V2008xxxx_PAL).a78
+363c6c12f1df2d4bc556e9d06a9d5b6e	Super Pac-Man by Bob DeCrescenzo (V20081031WIP).a78
+a4c8456c63692075ef65827876978693	Super Pac-Man by Bob DeCrescenzo (V20081031WIP_PAL).a78
+bbc4b9d8e81d46a56ffb9b94fa4e4848	Super Skateboardin' (1989) (Absolute) (PAL).a78
+1203a779363886f017e1424a1d90481a	Super Skateboardin' (1989) (Absolute) [!].a78
+adcaad6e6ad295844334395d70a52ea6	Super Skateboardin' (1989) (Absolute) [o1].a78
+de35e91830a85714bab7f139752a1bcd	Super Stunt Cycle (V19881118).a78
+007d7002deb03c65665f2e5909d82401	Swing1 Demo (PD).a78
+350ef75bd8faef02b3758dd4cfa73880	Swing1 Demo (V20040112) (PD).a78
+4b6c8de8af386a8d97c730ead43d6d0a	Symbolic Debugger & Downloader (1988) (Atari) (Crypt Hack).a78
+019e0e83252d54f6db71b5b4f0e9a710	Symbolic Debugger & Downloader (1988) (Atari).a78
+1133f7f4fd84abf644df7fc713fabbcf	Tank Command - Box 32K by KevinMos3 (Hack).a78
+de1303518a3f148ac744b3217dccf646	Tank Command - Color Edit 128K by KevinMos3 (Hack).a78
+8845b9bb7c6c702fc0d6f27b395e42b6	Tank Command - Color+Sprite Edit 64K by KevinMos3 (Hack).a78
+9a17792cbe288907013b0a8b59f62bcb	Tank Command - Color+Sprite+Title Edit 64K by KevinMos3 (V20141221) (Hack).a78
+706f75ad8571d53086acf49c7a3aec44	Tank Command - Color+Sprite+Title Edit 128K by KevinMos3 (V20141221) (Hack).a78
+dca76ff66f98eaf8f39377c08b0727f4	Tank Command - Explosions 32K by KevinMos3 (Hack).a78
+63fb885db8c3fc53b152954cc0db2d6f	Tank Command - Explosions1 32K by KevinMos3 (Hack).a78
+e55ac0a2696464eb96637e29a43a4733	Tank Command - Midnight Run 32K by KevinMos3 (Hack).a78
+d146400a76cfa442c4b688ded2b84385	Tank Command - Midnight Run 128K by KevinMos3 (Hack) [f1] (MESS).a78
+ff1fc990bc65063f66a18e6e36076804	Tank Command - Midnight Run 128K by KevinMos3 (Hack).a78
+7bfafbee3eff774461f5cbc99adafe64	Tank Command - Midnight Run by KevinMos3 (V29141221) [f1] (MESS).a78
+ac1537d22bb96985ef122d84c35e191d	Tank Command - Scheme 1 32K by KevinMos3 (Hack).a78
+2ca9d9df8828c75ab44d5fd49fa514da	Tank Command - Scheme 1 128K by KevinMos3 (Hack).a78
+8fdb8de56247232182f013a411911dc3	Tank Command - Scheme 2 32K by KevinMos3 (Hack).a78
+43ae7710be54ba79c854ac9f9279d8cd	Tank Command - Scheme 2 128K by KevinMos3 (Hack).a78
+0fea855e3313a15d7e77d785306285d0	Tank Command - Scheme 3 32K by KevinMos3 (Hack).a78
+1ee69696f47c3554005860c87fd1702d	Tank Command - Scheme 3 128K by KevinMos3 (Hack).a78
+6634e176facc9661415bbe0d041ae58f	Tank Command - Scheme 4 32K by KevinMos3 (Hack).a78
+4020d85f6f168198e750da6eddd16aca	Tank Command - Scheme 7 32K by KevinMos3 (Hack).a78
+d92c18c023614aee862616393e04107d	Tank Command - Scheme 8 32K by KevinMos3 (Hack).a78
+66f904276dabed87fe79f18f794c6dd0	Tank Command (1988) (Froggo) [!].a78
+b8c777d263625dd1135c215f27b92fcc	Tank Command (1988) (Froggo) [b1].a78
+43accd17517c001b8183c8ec12882ec6	Tank Command (1988) (Froggo) [o1].a78
+880827efefcd5492ea4cbf143ee5c0af	Titan-Man by Justin De Lucia (Ms. Pac-Man Hack).a78
+777646d3852f4232b43fe22f77063e1b	Title Match Pro Wrestling (1989) (Absolute) (PAL).a78
+574b71c7cc5b0bc7746719cc8ffcf8ef	Title Match Pro Wrestling (1989) (Absolute) [!].a78
+1327ec05f9e7e95296e078d1ca82e322	Title Match Pro Wrestling (1989) (Absolute) [o1].a78
+6bf9d6748a220cb6ff150f575b24aa14	Tomcat - The F-14 (1989) (Absolute) (PAL).a78
+176e6378f1d0e769dc6145fdde0a5081	Tomcat - The F-14 (1989) (Absolute) [!].a78
+d257805d290cc03ab750fae960ca74d7	Touchdown Football (1988) (Atari).a78
+36575046957046486396e943d10fef9f	Tower Toppler (1988) (Atari) (PAL).a78
+252515a9fea1976a99167a40df1e77a3	Tower Toppler (1988) (Atari) [!].a78
+55c33c7aac3b31936312a1697b0263b3	Tower Toppler (1988) (Atari) [o1].a78
+38b0cd4a399379396c3231cd054c70d3	Trapper by RSS Bot (V20111021).a78
+b0e2d3d85dc2275befa7ad530d395e81	Tubes by Bruce Tomlin (V2004) (PD).a78
+b0062557d5eb68999d93e42db6fce574	Tubes by Bruce Tomlin (V20041103) (PD).a78
+54f297e885f70a73e46d714fa139d552	Tubes by Bruce Tomlin (V20041103_Signed) (PD).a78
+2c5f516d1049caa0d26fc2e1957c1f4e	Tubes by Bruce Tomlin (V20050405) (PD).a78
+57c0bf3819e03ce277067d40762092f3	Tubes by Bruce Tomlin (V20050807) (PD).a78
+24aed1749b1b6193134c0d40213c1703	Tubes by Bruce Tomlin (V20050809) (PD).a78
+fcc7552c732b5827ebf8f4bb1162ab3c	UFO Invaders (Hack) (PAL).a78
+f143d4d80908bd6747941de4334b8363	UFO Invaders (Hack).a78
+c068e700e510f6869d601bea6fc4760b	UFO! by Steve Scavone (PD).a78
+c6de16969b34e471befea65a6b8dfa6f	Ultra Pacman by Bob DeCrescenzo (Older) (PD) [t1] (Fast).a78
+97e67803d29b0a81e82effad0f9eefa0	Ultra Pacman by Bob DeCrescenzo (PD) [t1] (Fast).a78
+b19f833a6b03fbecf289c97bca3dff80	Ultra Pacman by Bob DeCrescenzo (PD).a78
+f99572573aa7c623139f8ad1bc85489a	Visage - Mind of a Toy (Music) (PD).a78
+5e70a87a152a33f3c03c3e94661366e0	WarBirds by Steve Scavone (PD).a78
+9f1fda4d8cc724be25a6f4359799f338	Wasp! by Mark Ball (V20090402_1.01) (PD).a78
+2e5ebef1985ba50ebad73bf8ae809702	Wasp! by Mark Ball (V20090404_1.02) (PD).a78
+3666f7ac7c6a329b9993ae70cce5bfba	Wasp! by Mark Ball (V20090404_1.03) (PD).a78
+33a1c1985961be7dd87b1beb762fb893	Wasp! by Mark Ball (V20090405_1.04) (PD).a78
+a4196981ab6a1618337265505f57f454	Wasp! by Mark Ball (V20090407_1.05) (PD).a78
+2c50134d55fe9ca98280f90a33709009	Wasp! Standard Edition by Mark Ball (PD).a78
+70df05fa0f92c39259c0667cbd27baf4	Water Ski (1988) (Froggo) [b1].a78
+b80c718aca6b9d087bbd5d42d6925967	Water Ski (1988) (Froggo) [o1].a78
+a413c03945cb0627b7f5515dd6e9ea41	Water Ski (1988) (Froggo).a78
+62fb62e6943d5ea2ea206f95f144ff03	Water Ski (Color Edit 64k) (Hack).a78
+ec9a1b4b476d725bc005f4f5121e6398	Water Ski (Color Edit 128k) (Hack) [t1].a78
+2422e091dd2b5d0ceecbafa9df8cd452	Water Ski (Color Edit 128K) (Hack).a78
+76f7ab8d754aa56bbd887eed14923c3e	Water Ski (Title+Color+Realign 64k) (Hack).a78
+f64d4669a8f6df87f118ab48ebebabc5	Water Ski (Title+Color+Realign 128k) (Hack) [t1].a78
+75811b1e51f513e973541d9a98dddb6f	Water Ski (Title+Color+Realign 128k) (Hack).a78
+2c672efdb4f5eafd1b2ef10ea1ec4185	Winter Games (1987) (Atari) [!].a78
+ce35a06ef4de2cde5fc325a9fae93403	Winter Games (1987) (Atari) [a1] (Less Sounds).a78
+6ebc6f732a33754393f1438a76185831	Worm! by Mark Ball (V1.09_20100220).a78
+83348d4885fab42e89a758fd71dc9f06	Worm! by Mark Ball (V1.11_20100224).a78
+986c6ca08f46ba2c96dc549c6b0cbc1b	Worm! by Mark Ball (V1.12_20100225).a78
+931d345e48df8eccc963be7e5a49902c	Worm! by Mark Ball (V1.14_20100226).a78
+2dcb1c2c86afc7a7b67baa12f21fc482	Worm! by Mark Ball (V1.15_20100302).a78
+407d8305ee6604c2dc727bd774982c35	Worm! by Mark Ball (V1.16_20100307).a78
+9537ac90bcf99cd410baf3a6f76582a7	WWE Title Match (Alt Colors) (Hack).a78
+2b3b2f178feebf7f68222d54ff6ef890	WWE Title Match (Hack).a78
+c6c6051f7005c05820065426907f5390	Xenophobe (1989) (Atari) (PAL).a78
+46a7909d1fb1dd8ad4a6ae1c251cef33	Xenophobe (1989) (Atari) [!].a78
+099831e6a03d7d544a47fd9aea12e3e5	Xevious - Title Edit (Hack) [t1].a78
+a0566b022d29c38eb490ac768f2d8a11	Xevious - Title+Color Edit (Hack) [a1].a78
+81c9148d740171ee1462557bbf687627	Xevious - Title+Color Edit (Hack) [a2].a78
+f05d61b9745e1bc7dbfe6cdd00e01dbd	Xevious - Title+Color Edit (Hack).a78
+a9b3fbc9abadad89fa62a28702adcba0	Xevious (1987) (Atari) (PAL).a78
+ee9ffef28eeab53dc3c2fa29c3ecba62	Xevious (1987) (Atari) (Prototype).a78
+6fa5ece1f97f65c207b8c252ee49f97c	Xevious (1987) (Atari).a78
+77c6903c9fbec4eeb5b4b5a04dc8140a	Xevious Insane (V20061120) (Hack).a78
+d42e13b21c2989c70e30942ab304b012	Xevious Insane (V20061126) (Hack).a78
+be26ce5453ef9ac797b47f1a1748db84	Xevious Insane (V20061220) (Hack).a78
+cd2a9176220761dc5720a43cdfd2de69	Xevious Insane (V20070102) (Hack).a78
+ecedb25a6fff59933e7f6373f865a5c7	Xevious Insane (V20070102old) (Hack).a78
+5bc151b640942011309c596310a48757	Xevious X (Hack) (PAL).a78
+059de2456e6a7470c99600d47c67da47	Xevious X (Hack).a78
+6da79ab30b874f5e3905001cea74a4bf	XmasTime (V20061225) (Beef Drop Hack).a78
+a4d5fcbe35fa701e6be73d70bea30dac	Zelda Demo (V20020623).a78
+54597c480b746388d75aa88a7c0b5ed0	Zevious (V20130310) (Xevious Hack).a78
+5fa3eb9249a9c0f88fa2ebd9c2e704e5	Zevious (V20130311) (Xevious Hack).a78
+000c320cd9286182a8cfb393bbe5bfe2	Zevious (V20130321) (Xevious Hack).a78
+d8a8cb80148d6f66352b2dc74fcf5114	Zevious (V20130326) (Xevious Hack).a78
