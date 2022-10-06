@@ -1,0 +1,471 @@
+9fb4934c1542f6d5ace1eac4f543dcf9	19yy.7z <19YY (Neo CD conversion, ADK World)>
+5abdadf3ed47716f0ff7bbb44fd412ae	2020bb.7z <2020 Super Baseball (set 1)>
+8225c652a9b3dccdf46fe521b9b288e7	2020bba.7z <2020 Super Baseball (set 2)>
+b92314f3ee7bec96b3d832efef9a4095	2020bbh.7z <2020 Super Baseball (set 3)>
+73b17e9bb51c3eb81df06faacbd57c7c	3countb.7z <3 Count Bout / Fire Suplex (NGM-043)(NGH-043)>
+be435530bf758d7db5f7efe6ab109d08	3countba.7z <3 Count Bout / Fire Suplex (NGM-043)>
+6501dd9a899a211a4bfbf69c1cf70157	4play.7z <4 player input test>
+7c13e7edb880e027dffd83dcf522730a	alpham2.7z <Alpha Mission II / ASO II - Last Guardian (NGM-007)(NGH-007)>
+f6e6ccb22ebbe8fb1dd9d50a6ee063d1	alpham2p.7z <Alpha Mission II / ASO II - Last Guardian (prototype)>
+72c1c347e5892efbf0c9e3fcf8e9e971	androdun.7z <Andro Dunos (NGM-049)(NGH-049)>
+2d9ef810ba5929dcefccb9b9c71b406c	aodk.7z <Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku (ADM-008)(ADH-008)>
+193e47e4c332a32fada099d99d40f32b	aof2.7z <Art of Fighting 2 / Ryuuko no Ken 2 (NGM-056)>
+d297c3136b7131586b65b63b53e62b91	aof2a.7z <Art of Fighting 2 / Ryuuko no Ken 2 (NGH-056)>
+e9513037c51a9fe93e871becf4d36593	aof2bh.7z <Art of Fighting 2 / Ryuuko no Ken 2 (Enable hidden characters V2)>
+6311bda4830fadfb4cb19bb64e0aaabc	aof3.7z <Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden>
+c94be23e7c3b661f1b5a400f075282d1	aof3bh.7z <Art of Fighting 3 - The Path of the Warrior / Art of Fighting - Ryuuko no Ken Gaiden (Enable Hidden Characters V2)>
+ae5768415c99c9fe3abc054d99bbc28f	aof3k.7z <Art of Fighting 3 - The Path of the Warrior (Korean release)>
+df4a8b32238c36921a260ed6ab784850	aof.7z <Art of Fighting / Ryuuko no Ken (NGM-044)(NGH-044)>
+fc7020775a7cdf161ab5267985c54601	b2b.7z <Bang Bang Busters (2010 NCI release)>
+363675d5c0a5a020f2fb51157347f998	badapple.7z <Bad Apple (Tech-Demo)>
+9827892eb6457a4cffd77014f44f8acc	bakatono.7z <Bakatonosama Mahjong Manyuuki (MOM-002)(MOH-002)>
+f19f4133f3a29af99d6f8bd028dd4fc3	bangbead.7z <Bang Bead>
+d0e41d62849cd649840bd554013be3eb	bangbedp.7z <Bang Bead (Prototype?)>
+b878bc127cdb631d4fea3580fccceaa0	beast.7z <Shadow of the Beast (Neo Geo demo)>
+98a59e2482e9e4779ed2e2f36c37e462	bjourney.7z <Blue's Journey / Raguy (ALM-001)(ALH-001)>
+42db6408e1b36d120058548dc61840fc	bjourneyh.7z <Blue's Journey / Raguy (ALH-001)>
+edb0c9707493e999cf61ae4e6a335f91	blazstar.7z <Blazing Star>
+c018374054b4977f84a4c2d3ad148383	blazstarcm.7z <Blazing Star (Stage Select Hack)>
+4af3f971f26f1e78fa672da2312bb861	breakers.7z <Breakers>
+a416af718d16d91a017f185007e0466a	breakrev.7z <Breakers Revenge>
+178b4460e0b8f72065dbb9d240c9a488	breakrevbh.7z <Breakers Revenge (Boss Hack)>
+47796fb3d5f63105059210bd80835ce9	brkrevext.7z <Breakers Revenge - Extra Mode (Hack)>
+f0235aca225c29b7b47409be3db976b7	bstars2.7z <Baseball Stars 2>
+065735c18db7f1da363764d7cfce5593	bstars.7z <Baseball Stars Professional (NGM-002)>
+a1df7525b7f288d5a3cc2b6df0f347dc	bstarsh.7z <Baseball Stars Professional (NGH-002)>
+504d6fc6bb4a767eca363474d9bb644d	burningf.7z <Burning Fight (NGM-018)(NGH-018)>
+5d43cd3332f65ceb9f9a9f780408f730	burningfh.7z <Burning Fight (NGH-018)(US)>
+62726b181c25c497d2f2a9f28ed125cc	burningfp.7z <Burning Fight (prototype, older)>
+80252956725fdad94a2133d7b60d977a	burningfpa.7z <Burning Fight (prototype, near final, ver 23.3, 910326)>
+348b335de20b314996a29361cc437154	burningfpb.7z <Burning Fight (prototype, newer, V07)>
+59d195568fe673f4af649b61d5117f46	cabalng.7z <Cabal (Neo-Geo Conversion)>
+95074628f0897cacb8eab25329076fa9	cakefght.7z <Cake Fighter (hack of Twinkle Star Sprites)>
+19a1a92418ff487ea45097292a7d7017	cnbe2018.7z <Codename - Blut Engel (2018-09-05)>
+aee48324af34a5d65d6393e62251218f	cnbe.7z <Codename - Blut Engel (2006-01-19)>
+e90c56dd37f02336212bdbd666f0d182	cndi.7z <Chip n Dale (FMV Demo)>
+84a6d59ce5b0c859a76f59ee4b97cf34	columnsn.7z <Columns (Neo Geo)>
+df92411309f72d5acfa55565ab2eba1e	cphd.7z <Crouching Poney Hidden Dragon (DEMO)>
+7549a0cf206fcdfe53b18581a51a3d74	crswd2bl.7z <Crossed Swords 2 (bootleg CD to cartridge conversion)>
+aa6be49ade69ca2a4f6de97eb71150b5	crsword.7z <Crossed Swords (ALM-002)(ALH-002)>
+84b98c1107e147cfa08a15253dec9c2a	ct2k3sa.7z <Crouching Tiger Hidden Dragon 2003 Super Plus alternate>
+bfe086010f1fdc40d457ada356d0da7e	ct2k3sp.7z <Crouching Tiger Hidden Dragon 2003 Super Plus>
+f0a3c64e9c434c517ba4b64bd00ff854	cthd2003.7z <Crouching Tiger Hidden Dragon 2003 (set 1)>
+e0d76a3cc4b2bcfdc1520ed1ee461da1	cthd2k3a.7z <Crouching Tiger Hidden Dragon 2003 (set 2)>
+b827d78fe69cd5afa3b5993d5d540bb6	ctomaday.7z <Captain Tomaday>
+db42d9fb2f27e14ea4d97a0bd5aa2c67	cyberlip.7z <Cyber-Lip (NGM-010)>
+4c52919171d4b3b9d3c220230fa5d506	diggerma.7z <Digger Man>
+c195a4aab39ed2ce2cd7011356a15f29	doubledr.7z <Double Dragon (Neo-Geo)>
+1240ce55e87280696e3ac46e68f73eca	doubledrbh.7z <Double Dragon (Boss hack)>
+f5f2334e1034df4d1334005e7d921233	doubledrsp.7z <Double Dragon (Special 2017, hack)>
+225a2aa9fb987121589a783e4265c9b1	dragonsh.7z <Dragon's Heaven (development board)>
+685ed76079fd1909e19f90a958c76e67	ducki.7z <Duck Tales (FMV Demo)>
+7aa2602c588c05a93baf10128861aeb9	dwi.7z <DarkWing Duck (FMV Demo)>
+ef98119027c150584954153952d67da5	dwia.7z <DarkWing Duck (FMV Demo, alt)>
+5e38e0ffa34dafe5053110568dc0cd3f	eightman.7z <Eight Man (NGM-025)(NGH-025)>
+3020ffcb129267e20384fe60aa59f355	fatfursp.7z <Fatal Fury Special / Garou Densetsu Special (set 1)(NGM-058)(NGH-058)>
+b6e6d63bb0fd46c5e0345323f8126b6a	fatfurspa.7z <Fatal Fury Special / Garou Densetsu Special (set 2)(NGM-058)(NGH-058)>
+b46330981d9fd5dd67bdfe6bc101eefd	fatfurspbs.7z <Fatal Fury Special / Garou Densetsu Special (Optional Hidden Character Third Edition)>
+715b50388fc01b4e356b7227aec29722	fatfury1.7z <Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai (NGM-033)(NGH-033)>
+0464bf7214541df5e109935f4ab82e54	fatfury1bh.7z <Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai (Boss Hack by Yumeji)>
+960a8c064f1d7f5a316d420bbe36cae7	fatfury2.7z <Fatal Fury 2 / Garou Densetsu 2 - arata-naru tatakai (NGM-047)(NGH-047)>
+5feaa161b70354b978b01b2d103f825a	fatfury2a.7z <Fatal Fury 2 / Garou Densetsu 2 - arata-naru tatakai (NGM-047)>
+6c85b5d3bc968b68634bf17e1e09065c	fatfury3.7z <Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai (NGM-069)(NGH-069)>
+0b9553b7796c3eddc63c17f6ca654263	fatfury3a.7z <Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai (NGM-069)(NGH-069) (alternate set)>
+c86192659483719b4e2d611b2d15a6c7	fatfury3bh.7z <Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai (Ancient Battles Resurgence 2015-03-13)>
+62f8167c16b6fbe3968cc368f409f52c	fbfrenzy.7z <Football Frenzy (NGM-034)(NGH-034)>
+418956704b33d32b30a14783dab88ed6	fightfev.7z <Fight Fever (set 1)>
+ddac630cd51de5668e79d65d45885c9a	fightfeva.7z <Fight Fever (set 2)>
+436f184bb9321f24d1e97a8b972b8f6b	flipshot.7z <Battle Flip Shot>
+779e04aa7246983056756f617e342a1a	froman2b.7z <Idol Mahjong - final romance 2 (Neo CD Conversion)>
+6b854f2a57cdbabc9e43e7d201841dc3	fswords.7z <Fighters Swords (Korean release of Samurai Shodown III)>
+abb7d5e98313243a659518c407f0c59a	galaxyfg.7z <Galaxy Fight - Universal Warriors>
+1af6c152fe011df3ec1301b9b07518df	ganryu.7z <Ganryu / Musashi Ganryuki>
+577029dbc6e6bb60afdb832cef943eb1	garou.7z <Garou - Mark of the Wolves (NGM-2530)>
+eda7127c7405edc5b91627bbe5040e57	garoub.7z <Garou - Mark of the Wolves (Enable hidden characters)>
+d05f42d76f549bf640d3de1ba8b4b828	garoubl.7z <Garou - Mark of the Wolves (bootleg)>
+a217ea37cc5e2f5a6057daaac1ead62d	garouh.7z <Garou - Mark of the Wolves (NGM-2530) (NGH-2530)>
+3883196742b7e650744cdfe58192674f	garouha.7z <Garou - Mark of the Wolves (NGH-2530)>
+230d7a322ba66c513b3e7f37463ffbf1	garoup.7z <Garou - Mark of the Wolves (prototype)>
+4a5ef537b63786881151799d87aef306	ghostbi.7z <Ghost Busters (FMV Demo)>
+0911c6a903e0c11c01a1422afa4682a7	ghostlop.7z <Ghostlop (prototype)>
+cbba5a255ac88f685bdd8f37248e08cb	goalx3.7z <Goal! Goal! Goal!>
+5360821b77ffc0309f95ac24ec877cb0	gowcaizr.7z <Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer>
+6d3c7153a85a30717da03786217d4abe	gpilots.7z <Ghost Pilots (NGM-020)(NGH-020)>
+16fe9c9d1350297c299034812394ebdb	gpilotsh.7z <Ghost Pilots (NGH-020)(US)>
+de722abaf92b23f2e1e5d0e960693477	gpilotsp.7z <Ghost Pilots (prototype)>
+6b602ad38d91765e473f4b3fbeb6809b	gururin.7z <Gururin>
+381f040f790db301f151000d5abe9ef6	hypernoid.7z <Hypernoid (Ver. 20211128)>
+85165a738938659898613fc54ba7b485	ironclad.7z <Choutetsu Brikin'ger - Iron clad (Prototype)>
+6249ee6b8e4f1751e48968ae2f8d20fb	ironclado.7z <Choutetsu Brikin'ger - Iron clad (Prototype, older)>
+b73c99fc25257f76db1acc1f78dbec8b	irrmaze.7z <The Irritating Maze / Ultra Denryu Iraira Bou>
+d4e4aa2cd73109bb2b379739857b0cde	janshin.7z <Jyanshin Densetsu - Quest of Jongmaster>
+95c9efe220958a95106afaffe92c1fdd	jockeygp.7z <Jockey Grand Prix (set 1)>
+20d50380bd43af17c2e37e1ddd13167d	jockeygpa.7z <Jockey Grand Prix (set 2)>
+2abb21d7a93e938ae27c6fd6d668cace	joyjoy.7z <Puzzled / Joy Joy Kid (NGM-021)(NGH-021)>
+fbfe71c6e74ab201017b28d5c4e0a636	kabukikl.7z <Far East of Eden - Kabuki Klash / Tengai Makyou - Shin Den>
+0d8192090cc5e4c022f80af12a297e3e	kabukiklb.7z <Far East of Eden - Kabuki Klash / Tengai Makyou - Shin Den (Add hidden characters)>
+b853bc7ea4064d08d570819b42594034	karnovr.7z <Karnov's Revenge / Fighter's History Dynamite>
+2213f53b1c3cbd5e9f4f37d4e1f8fa45	kf10thep.7z <The King of Fighters 10th Anniversary Extra Plus (bootleg)>
+5468e3e33891ea105f437df0dbdc5339	kf2k1pa.7z <The King of Fighters 2001 Plus (set 2, bootleg / hack)>
+4ab069e040b5b91a7c69398fa7daeb82	kf2k1pkz.7z <The King of Fighters 2001 (PS2 Krizalid Edition)>
+16b29fb0543e855e09049ade76424f85	kf2k1pls.7z <The King of Fighters 2001 Plus (set 1, bootleg / hack)>
+7872d66b585bf895b402db39dc99dbba	kf2k23rd.7z <The King of Fighters 2002 - 3rd Strike of Orochi (Hack by EGCG/EGHT)>
+45993c7ce69179f7086abc11ca414639	kf2k2mp2.7z <The King of Fighters 2002 Magic Plus II (bootleg)>
+7e6ef7a618ec564fdca238d2e91e479c	kf2k2mp.7z <The King of Fighters 2002 Magic Plus (bootleg)>
+cf76f416e6d5964986290ef16a8afc7b	kf2k2pla.7z <The King of Fighters 2002 Plus (bootleg set 2)>
+05619ca91ab403e239e485f68e59baf8	kf2k2plb.7z <The King of Fighters 2002 Plus (bootleg set 3)>
+60380d10f194f718a94624e397c75b25	kf2k2plc.7z <The King of Fighters 2002 Super (bootleg)>
+103c32f2f95ae8fd10c256d41895e5f4	kf2k2pls.7z <The King of Fighters 2002 Plus (bootleg set 1)>
+cbae904becf1beb9011431750e92b6a7	kf2k2ps2.7z <The King of Fighters 2002 (PlayStation 2 ver 0.4, EGHT hack)>
+0903c31fb9622da4bd6304fd7f8b2226	kf2k2ps2re.7z <The King of Fighters 2002 (PlayStation 2 v1.0 Public Beta)>
+2c0c2f1e30e8d5b383a1b6ddc8769d05	kf2k2ru35.7z <The King of Fighters 2002 Remix Ultra 3.5 (Hack By FCHT)>
+baf44c1b87c7954f6d971271601a1b8e	kf2k3bl.7z <The King of Fighters 2003 (bootleg set 1)>
+b7b5234fa33e1913cd76e9d2ce505972	kf2k3bla.7z <The King of Fighters 2003 (bootleg set 2)>
+8ef8c30ea57b67e045d3ebf36e3cd380	kf2k3pl.7z <The King of Fighters 2004 Plus / Hero (bootleg)>
+e68793a18b75d67fe316688a8206529a	kf2k3ps2.7z <The King of Fighters 2003 PlayStation 2 (Hack By EGCG)>
+52f9af5535f7cf3cc9a594c050763b7d	kf2k3ps2sp.7z <The King of Fighters 2003 - PS2 Style Portraits (Hack By 0 Day-S, Eddids, Hiker)>
+f78a55ca02d7ca38aa8446d72bab7b74	kf2k3upl.7z <The King of Fighters 2004 Ultra Plus (bootleg)>
+fe3b3032d07f08aae8b0bbf3e67c30e4	kf2k4pls.7z <The King of Fighters Special Edition 2004 Plus (bootleg)>
+9fc00f7ef215390e20242e8341280b84	kf2k5uni.7z <The King of Fighters 10th Anniversary 2005 Unique (bootleg)>
+e684b7d87e24e163ca6d63f44cb2b1e2	kizuna.7z <Kizuna Encounter - Super Tag Battle / Fu'un Super Tag Battle>
+ff99a153a87518f5faacd69006c2e764	kof10th.7z <The King of Fighters 10th Anniversary (bootleg)>
+5a9831bd80d494468cf82a0b7d3ead0e	kof10thd.7z <The King of Fighters 10th Anniversary (The King of Fighters 2002 bootleg / Fully Decrypted)>
+e0f72f68ae69374c11584f41398c2e35	kof10thuo.7z <The King of Fighters 10th Anniversary 2020 (Optimized version 2020)>
+eee9ad69cc7b25a4ce0f0392eaaf2f94	kof2000.7z <The King of Fighters 2000 (NGM-2570) (NGH-2570)>
+69fa9fb02b9fe054c98d9dee8729ce92	kof2000n.7z <The King of Fighters 2000 (not encrypted)>
+9fce0fc0001445ba5f0280283613cd04	kof2000otc.7z <The King of Fighters 2000 (OTC, hack)>
+27c4ff95ed9fc93d3597955cc330566b	kof2000ps2.7z <The King of Fighters 2000 (Playstation 2 ver. , EGHT hack)>
+330c39e76cb40cf44225705078ecd2ff	kof2000sp.7z <The King of Fighters 2000 - Special Edition (Final Version, Hack)>
+f7277a0e31d0f52ba6a9423a971def7b	kof2001.7z <The King of Fighters 2001 (NGM-262?)>
+68c49e3c1c365e44323e50ea159a6e6f	kof2001h.7z <The King of Fighters 2001 (NGH-2621)>
+f9674da32eef595f78bcada1d71d81bc	kof2001ru.7z <The King of Fighters 2001 Remix Ultra 2.3 (Hack By Jason FGCH)>
+bcdeb242322af6d883799bd46d874d62	kof2002.7z <The King of Fighters 2002 (NGM-2650)(NGH-2650)>
+fe58f7643c1e02eed70081fbe93b420b	kof2002b.7z <The King of Fighters 2002 (bootleg)>
+d6e95ae7d4eaffd2c1b0b0c0768523bb	kof2002ps2.7z <The King of Fighters 2002 (PlayStation 2, Hack)>
+904f07b8b684e7914977b4f127b84f53	kof2003.7z <The King of Fighters 2003 (NGM-2710)>
+ccec478698513cd9bc8c7dd6d33d58d6	kof2003h.7z <The King of Fighters 2003 (NGH-2710)>
+7b01c9c79467279355aeb59f821e0f9e	kof2k1rp.7z <The King of Fighters 2001 Remix Pro v1.02 Final (Hack By Jason, Kim &amp; Raymonose)>
+365ccffd1a5a2697b6982c4b02f7b06e	kof2k2omg.7z <The King of Fighters 2002 (Omega v.0?)>
+6dab5d5487e9b28ede601263d3334924	kof2k2omg8.7z <The King of Fighters 2002 (Omega v0.8)>
+ae5280d9e8d461c0bb99274f70e9d20a	kof2k2omg9.7z <The King of Fighters 2002 (Omega v0.9)>
+9d305c7eafe8f3f88d34b628d9cdd9cd	kof2k2omg9b.7z <The King of Fighters 2002 (Omega v0.9 beta)>
+9cae8dbc21dcd2d40b65152b35536956	kof2k2plus.7z <The King of Fighters 2002 (Plus 2017)>
+4aba272f31923f7186ba2d7b19184056	kof2k4se.7z <The King of Fighters Special Edition 2004 (bootleg)>
+22cb0e57d10a207506973ad72b274da8	kof2kxxx.7z <The King of Fighters 2000 SP XXX (Hack, Ver. 2016-01-04)>
+ed81921e0d069f9a7ead349333a96efa	kof94.7z <The King of Fighters '94 (NGM-055)(NGH-055)>
+59d318ffc0699e3d4a5c27a52ffdc7e3	kof94br.7z <The King of Fighters '94 (Portuguese edition Hack)>
+a6e31fd62c5491c2df008c408bedaec5	kof94rz.7z <The King of Fighters '94 (Hack Boss Remixed)>
+ae9a0b2abd7445537a8cc3cc20cb27a0	kof95.7z <The King of Fighters '95 (NGM-084)>
+3e84659fb8b908797b885e242de72b94	kof95a.7z <The King of Fighters '95 (NGH-084, alternate board)>
+09221298b296f10880fd62e36bb94fec	kof95b.7z <The King of Fighters '95 (Enable Hidden Characters V.[?])>
+4d5461831c4dd34763c989772f5b6053	kof95h.7z <The King of Fighters '95 (NGH-084)>
+b7875da0efea09cc0f7ff7e1be7a84b8	kof95sp.7z <The King of Fighters '95 (Special 2017, hack)>
+3cfc8c16d865610ec01beb115c307874	kof96.7z <The King of Fighters '96 (NGM-214)>
+7f8dcca345a1b5f4e69d16b965c4d37f	kof96a.7z <The King of Fighters '96 (NGM-214, alternate board)>
+a34e84842621f495b2407ca392699d98	kof96ae20.7z <The King of Fighters '96 (The Anniversary Edition 2.0, Build 2.3.0320)>
+991d1e636d92b7694e253a4e8085cd71	kof96ae.7z <The King of Fighters '96 (Anniversary Edition, EGHT hack)>
+206e7475bfb3dd3c59426ba6793d2c9a	kof96cn.7z <The King of Fighters '96 (Chinese Edition ver 1.0, hack)>
+9bd0029f92a2ad9faa1dbd87eb1079ed	kof96ep.7z <The King of Fighters '96 (bootleg / hack)>
+23438b2c55800e5b4e8ab86f525b379c	kof96h.7z <The King of Fighters '96 (NGH-214)>
+1ddeb45b5b2c864806bac8de7bfd6bce	kof96rp08sp.7z <The King of Fighters '96 - Remix Plus 08 SP (hack)>
+5bf98ad5e7c70133d8e41bdc36172a24	kof97.7z <The King of Fighters '97 (NGM-2320)>
+ce99beb8569e417d5a1018377027d0be	kof97ae.7z <The King of Fighters '97 - Anniversary Edition (Build 2.1.0212)>
+0d9353ded0206ac5cffa47f9ff549601	kof97aef.7z <The King of Fighters '97 - Anniversary Edition (Build 2.1.1811)>
+964940360a25cb5d010c1e7dfda7f005	kof97cbt.7z <The King of Fighters '97 - Combo Training (Hack, Ver. 2018)>
+a28461d829578249030571520f7b962b	kof97cn.7z <The King of Fighters '97 (10th Anniversary Chinese Edition, EGHT hack)>
+7e950909d250e360570c83052824ffbe	kof97h.7z <The King of Fighters '97 (NGH-2320)>
+12509b52ea68a4d3170e177eaf46266e	kof97ip.7z <The King of Fighters '97 (Invincible Plus! B2.1.2107)>
+cc4859439b96cad014423c432484f1fe	kof97k.7z <The King of Fighters '97 (Korean release)>
+94003f2519edbaf151bfbeed5d6b20ea	kof97oro.7z <The King of Fighters '97 oroshi plus 2003>
+c9a533ba168e9fa8086c604790479932	kof97pla.7z <The King of Fighters '97 Plus 2003 (bootleg / hack)>
+de5accc436a9a8fc925aa203d07d6cdd	kof97pls.7z <The King of Fighters '97 Plus (bootleg)>
+41696af24fbacad34d1c9bd451e72f2f	kof97pm.7z <The King of Fighters '97 (Practice Mode)>
+4749fba0161e7b69df1c453088bcb68d	kof97ps.7z <The King of Fighters '97 (Imitation Playstation final improved version 2016-10-29)>
+d57be4d7188cacc24b531e3250471529	kof97rc.7z <The King of Fighters '97 - Random Combo (Hack, Ver. 2010)>
+7d6d5ccf08cc48c877fdd6f7421b47f3	kof97sp.7z <The King of Fighters '97 Special Edition (hack)>
+389716e713a8365214e99fc7824f64d0	kof97t.7z <The King of Fighters '97 (Optimized Edition)>
+7cc148065caaa07f52c8e93bc6109f3c	kof97tp.7z <The King of Fighters '97 (Optimised Edition 2020)>
+ee7ddcd69536fc8328f4014d194ffe1f	kof97xt.7z <The King of Fighters '97 - Final Battle (hack)>
+c0959b94e46f1811952055be7f59cba6	kof98.7z <The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (NGM-2420)>
+28bf131945d07b8709e07645ce6bada5	kof98a.7z <The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (NGM-2420, alternate board)>
+24edc1496150c9b7fc9a1fe99edcf112	kof98ae2016.7z <The King of Fighters '98 (Anniversary Edition build 1.2.0827)>
+e631249cf3eaeb0c4e6d7201bafd143c	kof98ae.7z <The King of Fighters '98 (Anniversary Edition, EGHT hack)>
+5b3836d22771885be5da8a816f811adc	kof98bc2nd.7z <The King of Fighters '98 BC 2nd Impact Edition (Hack, Ver.2020-07-29)>
+d1b5fc068cea19e06e075fa0e2431643	kof98cb.7z <The King of Fighters '98 (Combo, hack)>
+1f1a2d5cae4ff0792cd2142cfebc2c41	kof98cp.7z <The King of Fighters '98 (Combo Plus)>
+311e4c914335977a6b594b5d36f9fd3a	kof98eckg.7z <The King of Fighters '98 Easy Combo King (GOTVG Version, Hack)>
+e4cd6e32ba9ac846dd56b1584e7e9e3c	kof98ecky.7z <The King of Fighters '98 Easy Combo King (YZKOF Version, Hack)>
+f1afe8fcd96d1e72afc826d4a1b4cd62	kof98h.7z <The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (NGH-2420)>
+13e4ced9b848a542cdee1ec31a150a1a	kof98k.7z <The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (Korean board, set 1)>
+a33726f35cbcf7fc44b0fecc2e4c3d2f	kof98ka.7z <The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends (Korean board, set 2)>
+46b3288ab516b7149704b50392279798	kof98mix.7z <The King of Fighters '98 Mix (2015-12-29)>
+11da7f5e72932b4d7e8873c2e7465fbe	kof98pfe.7z <The King of Fighters '98 (Plus Final Edition 2017-07-23)>
+b25705d050d1d88bbe8aa2608a67331d	kof98ratio.7z <The King of Fighters '98 (Ratio hack)>
+1e77163b168e928ba9745cb14b7ed94f	kof98ult.7z <The King of Fighters '98 (Ultimate Match)>
+31de2d3eeb556034f322aa06453cf0d1	kof99.7z <The King of Fighters '99 - Millennium Battle (NGM-2510)>
+692eb761c012d9bded45de479d1b899d	kof99ae.7z <The King of Fighters '99 Anniversary Edition (hack)>
+2d26b8b623939bedaa900815f96ed754	kof99e.7z <The King of Fighters '99 - Millennium Battle (earlier)>
+411c3e01226d673a8e43556c97634dd2	kof99eur2.7z <The King of Fighters '99 Evolution Ultra Remix 2015 (Hack)>
+890fa4a34942b2773c3a5bdd73b082e0	kof99eur.7z <The King of Fighters '99 Evolution Ultra Remix (Hack By Yashional)>
+1653c67c602403333d94dd921737ce8e	kof99h.7z <The King of Fighters '99 - Millennium Battle (NGH-2510)>
+e87b698e832c63426fef11db6fedc88c	kof99k.7z <The King of Fighters '99 - Millennium Battle (Korean release)>
+5dbfbe8dfb77f1fb34ec0eb3412cd461	kof99ka.7z <The King of Fighters '99 - Millennium Battle (Korean release, non-encrypted program)>
+4d624b106a1a6e6926a50cba3c900bd7	kof99p.7z <The King of Fighters '99 - Millennium Battle (prototype)>
+c881d155d34622d4effd639ff4e9394b	kof99rp.7z <The King of Fighters '99 Remix Pro (v2.01 Final)>
+173c27cc7535fa572b4679f1ab674f7f	kof99sr.7z <The King of Fighters '99 Summer Revolution (Hack By FCHT)>
+d464bc738ebbf343810a19f8f7ea04a6	kog.7z <King of Gladiator (The King of Fighters '97 bootleg)>
+cb1a107fe8ceae2ac92b1c7f9f29b977	kogplus.7z <King of Gladiator Plus (The King of Fighters '97 bootleg)>
+c1f945cb2b54b9df0e71afb2147bdb8f	kotm2.7z <King of the Monsters 2 - The Next Thing (NGM-039)(NGH-039)>
+e1c1bafd01b4068807fe509cbb974fb7	kotm2a.7z <King of the Monsters 2 - The Next Thing (older)>
+45c0555a27de925658bee12740326ba9	kotm2p.7z <King of the Monsters 2 - The Next Thing (prototype)>
+057827b74ba1259423d9c00de10b4300	kotm.7z <King of the Monsters (set 1)>
+f9d2719b2430d598bc155a58b4be0e3c	kotmh.7z <King of the Monsters (set 2)>
+2b2d8371eac9d97895231dd472f679ba	lans2004.7z <Lansquenet 2004 (Shock Troopers - 2nd Squad bootleg)>
+99f1459f643a1abb0fd8b1c2e806aaa8	lastblad.7z <The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340)>
+a70d170934874ba157ef5d9ba73fe667	lastblada.7z <The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340, alternate board)>
+b0847f82445c776a8f95346976ed3a34	lastbladh.7z <The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGH-2340)>
+94f449889feb4ae33d1e3f424cdf165d	lastbladsp.7z <The Last Blade / Bakumatsu Roman - Gekka no Kenshi (Special 2017, hack)>
+5c14f94978dfad8ffb95cd5b405abfd8	lastbld2.7z <The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi (NGM-2430)(NGH-2430)>
+854fe0ee8f483375b2104cc6aef69614	lastbld2eh.7z <The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi (Enhanced Hack)>
+3ad8d4821fb46b56d06a5aa47ec2d21f	lastbld2te.7z <The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi (Team Edition Hack)>
+f15ada4c42f934eea105b4a7ccc3707b	lasthope.7z <Last Hope (bootleg AES to MVS conversion, no coin support)>
+a5be664f44cc631c53930b4fefdf4b10	lastsold.7z <The Last Soldier (Korean release of The Last Blade)>
+1709866b3229905b30080d4e8f59c582	lb2b.7z <The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekka no Kenshi (Enable Hidden Characters V4)>
+cee8c9264320a0b32eb4efb1496e5c2b	lbowling.7z <League Bowling (NGM-019)(NGH-019)>
+ebd3cddeb83c929ca8c65fc76525e9d7	legendos.7z <Legend of Success Joe / Ashitano Joe Densetsu>
+8ad53bd6f421aa0fe09c1123c03ff1fa	lhcdb.7z <Last Hope CD Beta (Neo CD conversion)>
+72a752fbb2a208dc6740acbd82238a1e	looptris.7z <Looptris (v.2021-12-26)>
+deff1024b8ce1c7f02c4ea5fe26c95bb	lresort.7z <Last Resort>
+6fce0b952d5398f99ddb040344310f65	lresortp.7z <Last Resort (prototype)>
+7160fd77a62d713fe4530528e6eff55d	ltorb.7z <Jonas Indiana and the Lost Temple of RA (20050717)>
+522314f93c7d9827bc1aa1b2dae0f1ed	magdrop2.7z <Magical Drop II>
+dac0036db4cdfeab8d77e855105fb896	magdrop3.7z <Magical Drop III>
+a0951884a587ae95f4f4ef2e96bbbe2a	magdrop3bh.7z <Magical Drop III (Secret Character Hack)>
+971705f069ac6aeb7efe0a6fb7315f95	magdrop3te.7z <Magical Drop III Tournament Edition>
+14ebcd8fa440a279fae066617a13cabc	maglord.7z <Magician Lord (NGM-005)>
+a6d3d9e652596888cef11a0083d577f6	maglordh.7z <Magician Lord (NGH-005)>
+cf9a5cce2df11cfc46680bfd7549bd12	mahretsu.7z <Mahjong Kyo Retsuden (NGM-004)(NGH-004)>
+f82f6ff7b1d3ced56ed4e633fd760abd	marukodq.7z <Chibi Marukochan Deluxe Quiz>
+4bf46d93cdc05b1235a08a287ee9174b	matrim.7z <Matrimelee / Shin Gouketsuji Ichizoku Toukon (NGM-2660) (NGH-2660)>
+2b01f0c4572ae6ecb8502dc1cb9832fd	matrimbh.7z <Matrimelee / Shin Gouketsuji Ichizoku Toukon (Enable Hidden Characters V2)>
+427d278f333bd1d25e66c4a015f16bff	matrimbl.7z <Matrimelee / Shin Gouketsuji Ichizoku Toukon (bootleg)>
+d2b5db2b9c36e4caa37ed7eea04ecdf9	miexchng.7z <Money Puzzle Exchanger / Money Idol Exchanger>
+1c028fc6329ef86816206c783fcf8987	minasan.7z <Minasanno Okagesamadesu! Daisugorokutaikai (MOM-001)(MOH-001)>
+105620183d6708fe7024bfc9e4c1b990	moshougi.7z <Syougi No Tatsujin - Master of Shougi>
+809927409225b806cd8b40fd0b568d0a	ms4plus.7z <Metal Slug 4 Plus (bootleg)>
+b8f1be8da300b8cce8af2732664e7be9	ms5plus.7z <Metal Slug 5 Plus (bootleg)>
+b1475b391ad385c16feae3a2bfbfc2a0	mslug2.7z <Metal Slug 2 - Super Vehicle-001/II (NGM-2410) (NGH-2410)>
+0174e4db6aa9f46a5beabf510e092624	mslug2ct.7z <Metal Slug 2 - Super Vehicle-001/II (Survival, Hack)>
+890a06e4a33b35e67b5e8492cc67f06f	mslug2dg.7z <Metal Slug 2 - Super Vehicle-001/II (Multifunction Hack, 20170509)>
+88cdc57429b2d2be325de08d892b5a36	mslug2fm.7z <Metal Slug 2 - Super Vehicle-001/II (Friendly Fire FC2 Ver.2 20210415, hack by CZXINc)>
+0172e737c499e50d0b31dc694b9083b0	mslug2r.7z <Metal Slug 2 - Super Vehicle-001/II (Enemies Reset, Hack)>
+f087f651195daea0e84cf6644a76ff4b	mslug2t.7z <Metal Slug 2 - Super Vehicle-001/II (Turbo)>
+741ea323ed0d82e73cc8a9436d4d2d6d	mslug2unity.7z <Metal Slug 2 - Super Vehicle-001/II Unity (Added Timer Ver. 2021-01-22)>
+f69dc77532431c03d1dfbd31835bc4dd	mslug3.7z <Metal Slug 3 (NGM-2560)>
+3bcf02a548ddca5b7c753c5350f3b0ef	mslug3a.7z <Metal Slug 3 (NGM-2560, earlier)>
+c289222d018b453c918b09f454639389	mslug3b6.7z <Metal Slug 6 (Metal Slug 3 bootleg)>
+ea41f0b276979fe7b38650366c3c577e	mslug3c.7z <Metal Slug 3 (Enemies Reset, Hack)>
+37ab1d1abd667d7ec1d9c2f4e6d8fd26	mslug3eb.7z <Metal Slug 3 (Green Blue, Hack)>
+965440288b54f58ee25785002461bb54	mslug3g.7z <Metal Slug 3 (Multifunction Hack, 20190119)>
+02c4e34a3d71fb9d040a574b14a011e7	mslug3h.7z <Metal Slug 3 (NGH-2560)>
+a317c7ab1fb3297dfb74504681b402ed	mslug3lw.7z <Metal Slug 3 (Last Bullet Remix, Hack)>
+92a48d82b69cb5bca9251cd661fe6bd4	mslug3unity.7z <Metal Slug 3 Unity (Added Timer Ver. 2021-02-13)>
+36bd052c9bf46cd8628a7895c7f72cbc	mslug3v.7z <Metal Slug 3 (NGH-2560) (Enhanced Violence Version, hack by EEZEZY)>
+e4e4c3dfc6d20d77075752c002e1228f	mslug3x.7z <Metal Slug 3 (X, Homebrew, 20220203)>
+d5d7199eda7492cd9ee24173357e781b	mslug4.7z <Metal Slug 4 (NGM-2630)>
+09d2e0d8ed35aa264ba1d69b2c2cb16a	mslug4a.7z <Metal Slug 4 (20th Anniversary)>
+d3a95b7cafb75d7cc3500c404339469e	mslug4ar.7z <Metal Slug 4 (Enemies Reset Fusion 20th Anniversary, Hack)>
+f21d0ea391ab0bbf81f2fb81a01f3cc3	mslug4c.7z <Metal Slug 4 (Enemies Reset, Hack)>
+2f287c948d5af055ebf9470f692aa6b7	mslug4dg.7z <Metal Slug 4 (Multifunction Hack, 20171225)>
+902b5ff77fbac7131bcb4ff40e78e881	mslug4h.7z <Metal Slug 4 (NGH-2630)>
+6eab1c38b19089ff19d3f57f49c8be58	mslug4lw.7z <Metal Slug 4 (Last Bullet Remix Hack)>
+080d6a0de8085c96279b4d901f30d5e5	mslug4unity.7z <Metal Slug 4 Unity (Added Timer Ver. 2021-01-30)>
+024e350be5736b014d80c32330f03e2a	mslug5.7z <Metal Slug 5 (NGM-2680)>
+5a61893183c78c3c0e0b87d7caad6b4d	mslug5b2.7z <Metal Slug 5 (bootleg, set 2)>
+98c98de2fd5c1e292fd6f01c624c7a37	mslug5b.7z <Metal Slug 5 (bootleg, set 1)>
+43f8c6f8ee39c3c21e1294c79ff3c1c3	mslug5c.7z <Metal Slug 5 (Enemies Reset, Hack)>
+c717555a22a4196ee1dd6c6f79fd5792	mslug5d.7z <Metal Slug 5 (Multifunction Hack, 20170523)>
+ac81f93f04be5d5a385f8e97ea595dbc	mslug5h.7z <Metal Slug 5 (NGH-2680)>
+b43411421b438e4d29a798527b492682	mslug5mg.7z <Metal Slug 5 (Enemy Demons, Hack)>
+be3c0a26630d1f1c62066758a491c9b9	mslug5sgf.7z <Metal Slug 5 (Remake Final FC2 Version, Hack)>
+b76b81a01a7e209381dcce0cded594e2	mslug5unity.7z <Metal Slug 5 Unity (Added Timer Ver. 2021-04-23)>
+805a490f5c6847df5ea9b23422845864	mslug5w.7z <Metal Slug 5 (The New War, Hack)>
+f429b96d0c8eaf171d4776800befbc68	mslug5x.7z <Metal Slug 5 (X Final Ver, Hack, 20220606)>
+b43c8b4ec999588c04dad79bb8bcc745	mslug.7z <Metal Slug - Super Vehicle-001>
+c468663f75169099f8742d4180ca0bd9	mslugdg.7z <Metal Slug (Multifunction Hack, 20180430)>
+0739a1e3f68c21c2aa706f12f359a47e	mslugunity.7z <Metal Slug Unity (Added Timer Ver. 2021-02-05)>
+320a36c48c06dce51438108df9defb90	mslugx.7z <Metal Slug X - Super Vehicle-001 (NGM-2500)(NGH-2500)>
+8e81dfbf4a8d01a936f110725d1eac2c	mslugxc2.7z <Metal Slug X - Super Vehicle-001 (Enemies Reset, Hack)>
+a5872a13127e1c104e51dcc933c57d70	mslugxeb.7z <Metal Slug X - Super Vehicle-001 (Green Blue, Hack)>
+250d4ac4410572cc6c11425ed40e2b1f	mslugxlb.7z <Metal Slug X - Super Vehicle-001 (Extreme Zone, Hack)>
+3d41453e8ca171992176b733d3401c5c	mslugxsrf.7z <Metal Slug X - Super Vehicle-001 (AzStar Soda Remix FC2 Version, hack)>
+3bdcd6c13a32d96397622df78612562f	mslugxunity.7z <Metal Slug X - Super Vehicle-001 Unity (Added Timer Ver. 2021-01-23)>
+3160045ee842fc9ab77b96e32e98fa34	mutnat.7z <Mutation Nation (NGM-014)(NGH-014)>
+4087b322e11ed40d6566bda0a1be11fe	nam1975.7z <NAM-1975 (NGM-001)(NGH-001)>
+998c68e63dddcfffbb4d6f63216adc24	nblktiger.7z <Neo Black Tiger (Demo)>
+039dc12553654c56e3c78f321ad6e620	ncombat.7z <Ninja Combat (NGM-009)>
+77401c41d6adf4e2ae03f0ddbf3c7d44	ncombath.7z <Ninja Combat (NGH-009)>
+cc87ec28ee9628b09587b1e62bedf289	ncommand.7z <Ninja Commando>
+3ef38c07ef27613a8216da8c05b9ca7d	neo2500.7z <Neo 2500 Demo>
+d6dae4dc5bfd5250d166b3a4182a4c65	neo3ddmo.7z <NeoGeo 3D! Demo>
+1380a4e5e4e91a812a86b9f925fa6581	neobombe.7z <Neo Bomberman>
+a1611c9d5bc3d57d90076cafdf39db6b	neocstlv.7z <Neo CastleVania Demo>
+edb22f6f4662763b65fa34b6782a4046	neocup98.7z <Neo-Geo Cup '98 - The Road to the Victory>
+94a2591d55a16475aba4b7ffd5919b89	neodemo.7z <Chaos Demo (Neo Geo)>
+49608f90881c51825b3bd2c414f21fba	neodrift.7z <Neo Drift Out - New Technology>
+7fd2f8c01317cd47f5797923b3ec88b0	neogalag.7z <Galaga Demo (set 1)>
+8fc1d2b5c5b682dc4797223eba2d1e1c	neogalaga.7z <Galaga Demo (set 2)>
+43ad6c6f19d8bc9d74b87b0408d74fc6	neogeo.7z <Neo Geo>
+dd53691a8b5423224e5f97ff08d1704b	neomrdo.7z <Neo Mr. Do!>
+28bacbc9cd1848f73bdb3954e2dda8c0	neonopon.7z <Neo No Panepon (beta)>
+16a4df771b06c9d6f6dc37cfe5402fab	neopang.7z <Neo Pang>
+85671418f55c1b176674c41bb26fd256	neopong.7z <Neo Pong (ver 1.1)>
+5ccc868b57d3ba442f2eeb71dd163c33	neoponga.7z <Neo Pong (ver 1.0)>
+6d6e6a1eaa3a7754e2665e2fec2159c1	neoprimo.7z <Primo Demo>
+4cebd98a1b9678cb23d1f90db84dcb68	neotet.7z <NeoGeo 2-Player Tetris>
+376dddefb1074e58764826492adb46b5	neothndr.7z <Neo Thunder>
+ed650ad3ff23407fd3144aec904fcc1c	neotris.7z <NeoTRIS (Free Beta 2, Ver. 202009)>
+014170aa156ec59c44976c01495b1ec1	neoww2.7z <WW2 (Demo) - Arcade Development Project>
+5fc5ca62a9677ad238c927f758aa101a	ngem2k.7z <NGEM2K (beta 2006-01-18)>
+28df1ab723fbdd2cb483f289a71f23c1	ngfrog.7z <Frog Feast (Neo Geo)>
+a10891a875e766a1fedfb97f87ea8f34	ngftdemo.7z <NGF Transparency Demo>
+247d7dc079da278eceafc4a0569268a1	ninjamas.7z <Ninja Master's - haoh-ninpo-cho>
+5f842deb2a79a191a4de39d06401a426	ninjamasha.7z <Ninja Master's - haoh-ninpo-cho (Plus)>
+c49db6febda650eb59149c52852df9e5	nitd.7z <Nightmare in the Dark>
+93e4f7fbb76101b069b7bf14b08837ee	nitdbl.7z <Nightmare in the Dark (bootleg)>
+cf02736252108a31f3771dbc90f288a8	nsmb.7z <Neo Super Mario Bros (Demo, v0.01)>
+875c9d92832d5cd76c418c9edb3d473c	overtop.7z <Over Top>
+ae4f680157ee1278871eb68a4773115b	panicbom.7z <Panic Bomber>
+e0d17d88ad08e13d3a2cd4ef38f7c4d5	pbobbl2n.7z <Puzzle Bobble 2 / Bust-A-Move Again (Neo-Geo)>
+0bef9fa16cd52606f5c7b4363e726085	pbobblen.7z <Puzzle Bobble / Bust-A-Move (Neo-Geo) (NGM-083)>
+9fac3d6c6cfa18064e8dee6f18a3a4e3	pbobblenb.7z <Puzzle Bobble / Bust-A-Move (Neo-Geo) (bootleg)>
+e0cbbfb00f2cb49838e2ab1b23cf2392	pgoal.7z <Pleasure Goal / Futsal - 5 on 5 Mini Soccer (NGM-219)>
+6a956819ea499a93296a233cc7504a64	pnyaa.7z <Pochi and Nyaa (Ver 2.02)>
+2f9d0835a36b0efd6b65401fa2247462	pnyaaa.7z <Pochi and Nyaa (Ver 2.00)>
+d8e670759ee13bc6334807c7441b899c	poknight.7z <Poker Night>
+0f462776370446d8e78a8fa2785c62f5	popbounc.7z <Pop 'n Bounce / Gapporin>
+b693a2560b6f671f495b11c357853a16	preisle2.7z <Prehistoric Isle 2>
+239680fa6cfaa6df18140c9642f4df2d	proneon.7z <Project Neon (Caravan Edition, prealpha v0.4.19)>
+37eb48a2bdafb4226e8d3982fe9f1c4c	pspikes2.7z <Power Spikes II (NGM-068)>
+bb8be21788196f32b3771e2bc0561e60	pulstar.7z <Pulstar>
+e0ac2e3b64cefa8cd44677fba05b2b68	puzzldpr.7z <Puzzle De Pon! R!>
+e107490264977f502e2920824323367a	puzzledp.7z <Puzzle De Pon!>
+1b5dd9233ad7a0407f6d59f134875288	quizdai2.7z <Quiz Meitantei Neo &amp; Geo - Quiz Daisousa Sen part 2 (NGM-042)(NGH-042)>
+e054310488ca872ffd7079b6eaf3f423	quizdais.7z <Quiz Daisousa Sen - The Last Count Down (NGM-023)(NGH-023)>
+8863bc0bef621333910e77cc8d72eabd	quizdaisk.7z <Quiz Daisousa Sen - The Last Count Down (Korean release)>
+8ab3a1633fc7b8bceb61871832a8d345	quizkof.7z <Quiz King of Fighters (SAM-080)(SAH-080)>
+d3d6da816a7b379160e221751cdd87cc	quizkofk.7z <Quiz King of Fighters (Korean release)>
+f40def4ca97a9decac94118fdec08ef0	ragnagrd.7z <Ragnagard / Shin-Oh-Ken>
+c536ab83917a1c7d626ed5be7cd312b7	rbff1.7z <Real Bout Fatal Fury / Real Bout Garou Densetsu (NGM-095)(NGH-095)>
+cf35c51033f912220440deb5d4c88dd1	rbff1a.7z <Real Bout Fatal Fury / Real Bout Garou Densetsu (bug fix revision)>
+0b188fbc906df16bc91705ada0a0b8d1	rbff1k.7z <Real Bout Fatal Fury / Real Bout Garou Densetsu (Korean release)>
+47b7e10e801eaab3f329f2d96d5f7242	rbff1ka.7z <Real Bout Fatal Fury / Real Bout Garou Densetsu (Korean release, bug fix revision)>
+13e11e70ad7adebe942bc00fd3c6e892	rbff2.7z <Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (NGM-2400)>
+1ed91590b5a05389a93cd4bf6883a684	rbff2bh.7z <Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (Secret Character Hack)>
+8c26072bf9819a2ffd819fef949d2836	rbff2h.7z <Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers (NGH-2400)>
+b993b1700f70d4712647b17e282a44e4	rbff2k.7z <Real Bout Fatal Fury 2 - The Newcomers (Korean release)>
+bd1af117211d95e90ebad146bdc2c573	rbffspbh.7z <Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special (Boss Hack)>
+78883dde65ba8ffb3b7801aab9fefea7	rbffspec.7z <Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special>
+401fa29e9f7cb9ffb490f9984ba7086b	rbffspeck.7z <Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special (Korean release)>
+212a09381bef3e8948890da8ec52f2db	ridhero.7z <Riding Hero (NGM-006)(NGH-006)>
+47d06a81458ff7282610a34c0eeafe61	ridheroh.7z <Riding Hero (set 2)>
+13b4d77d6491b9bfb59d7841986d5ea4	roboarmy.7z <Robo Army (set 1)>
+1698eef3763cb81425a153c0d24937c4	roboarmya.7z <Robo Army (set 2)>
+6ec166dc46a4bbe6abd5d9beb425939a	robocopi.7z <Robocop (FMV Demo)>
+6a8f93c8604f7ce5feb3598abfda4a03	rotd.7z <Rage of the Dragons (NGM-264?)>
+d2be308571eac8b93dc65c3db94c2e67	rotdh.7z <Rage of the Dragons (NGH-2640)>
+918c2529a2487205b3fe9f575fa8b036	s1945p.7z <Strikers 1945 Plus>
+b360e080089243b9ebeb61c13520a7a6	samsh5fe.7z <Samurai Shodown V Special / Samurai Spirits Zero Special (NGM-272) (NGH-272) (Final Edition, location test version)>
+e53c862c658272d58708974fe1c648b5	samsh5pf.7z <Samurai Shodown V Perfect / Samurai Spirits Zero Perfect (bootleg, hack)>
+d585df49cbc106b84e3c6cb4d0ef22b7	samsh5sp.7z <Samurai Shodown V Special / Samurai Spirits Zero Special (NGM-2720)>
+221e5a098498c89ad1296b07632c98a0	samsh5sph.7z <Samurai Shodown V Special / Samurai Spirits Zero Special (NGH-2720) (2nd release, less censored)>
+efd272d9b8d012e85bd20808b811be6f	samsh5spho.7z <Samurai Shodown V Special / Samurai Spirits Zero Special (NGH-2720) (1st release, censored)>
+f1170bcbe7bc8fffdb76dc390052aed1	samsho2.7z <Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (NGM-063)(NGH-063)>
+d32b94ad2780e0de66615bb2effae910	samsho2k.7z <Saulabi Spirits / Jin Saulabi Tu Hon (Korean release of Samurai Shodown II)>
+d946e070ea1a49ae246c8abc169e6a9c	samsho2ka.7z <Saulabi Spirits / Jin Saulabi Tu Hon (Korean release of Samurai Shodown II, set 2)>
+faf71e76efe0210274be5bd5c11a813e	samsho2sp.7z <Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen (Special 2017, hack)>
+42557655bd7484156c2d1287392374b0	samsho3.7z <Samurai Shodown III / Samurai Spirits - Zankurou Musouken (NGM-087)>
+eda3599af1b0e1ba961fe63f90d73a02	samsho3h.7z <Samurai Shodown III / Samurai Spirits - Zankurou Musouken (NGH-087)>
+f1b0e1dd18eb6df18ddbe5db53e1d8b2	samsho4.7z <Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin (NGM-222)(NGH-222)>
+7d5a57459445a7a53fd8bed210d386fc	samsho4k.7z <Pae Wang Jeon Seol / Legend of a Warrior (Korean censored Samurai Shodown IV)>
+90f738edbbc7f30a7ccc24d388514af3	samsho4sp.7z <Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin (Special 2017, hack)>
+9df8439ed5c3deb218681beaad70d07a	samsho5.7z <Samurai Shodown V / Samurai Spirits Zero (NGM-2700, set 1)>
+20377b09412cd263816c0ed1e5656210	samsho5a.7z <Samurai Shodown V / Samurai Spirits Zero (NGM-2700, set 2)>
+59d152b6cb26246a22ffb8d51a62470a	samsho5b.7z <Samurai Shodown V / Samurai Spirits Zero (bootleg)>
+f9aed7c06e0195344dde1572f11d0f50	samsho5h.7z <Samurai Shodown V / Samurai Spirits Zero (NGH-2700)>
+c95034f680d887eeca13a5fe4a471100	samsho5x.7z <Samurai Shodown V / Samurai Spirits Zero (hack of XBOX version)>
+71584ce454046d8b5c63ce863e8b6a42	samsho.7z <Samurai Shodown / Samurai Spirits (NGM-045)>
+f691207aefcfb3f52aecf0ceb9564c75	samshoa.7z <Samurai Shodown / Samurai Spirits (NGM-045, alternate board)>
+f39ab67bb4de0ca120e7ecd5117b2396	samshoh.7z <Samurai Shodown / Samurai Spirits (NGH-045)>
+514154f31e1aef911b53ee3d60a489dc	savagere.7z <Savage Reign / Fu'un Mokushiroku - kakutou sousei>
+770a4e0cda5e43aaca1bac8f68319484	savagereb.7z <Savage Reign / Fu'un Mokushiroku - kakutou sousei (Boss Hack)>
+189f40693751c03b39f3b219b8dc5ed9	sbp.7z <Super Bubble Pop>
+41e9682236bba4b6ffa257aedc8fbac5	sdodgeb.7z <Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu>
+e8028053ea964d4f2759b3246c654259	sdodgebh.7z <Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu (Secret Character Hack)>
+d0479c49e9cdaf32d9cd6cf39f8883fd	sengoku2.7z <Sengoku 2 / Sengoku Denshou 2>
+f02ef978fd0ec8736cbb7e2b3c9d96b9	sengoku3.7z <Sengoku 3 / Sengoku Densho 2001 (set 1)>
+5c6d120357a16b0174112f6aa4cce552	sengoku3a.7z <Sengoku 3 / Sengoku Densho 2001 (Set 2)>
+b537c0beff821a28f3da325108d6bec8	sengoku3eb.7z <Sengoku 3 / Sengoku Densho 2001 (Qing Edition)>
+5099aed9143af307e4003e314ed31c06	sengoku3fs.7z <Sengoku 3 / Sengoku Densho 2001 (Feng Shen Edition)>
+f05906bc0d38e8b2955edf2245325010	sengoku3s.7z <Sengoku 3 / Sengoku Densho 2001 (Evolution 1.0, FCHT hack)>
+bf7fc60c84ec40db9d48fdc43c93865b	sengoku.7z <Sengoku / Sengoku Denshou (NGM-017)(NGH-017)>
+65757f769436bffe9924001f4fc01481	sengokuh.7z <Sengoku / Sengoku Denshou (NGH-017)(US)>
+4af54168a800f0ff32f7f9377d5329a9	shocktr2.7z <Shock Troopers - 2nd Squad>
+066ab7af0557bd4280c94dcf1e56d551	shocktro.7z <Shock Troopers (set 1)>
+1849c701487ab5b67cecfb1aac0e5cf2	shocktroa.7z <Shock Troopers (set 2)>
+4c56ad041c708f398cf553591d81caa1	socbrawl.7z <Soccer Brawl (NGM-031)>
+39a754c03464c2d58a8dd815cad61962	socbrawlh.7z <Soccer Brawl (NGH-031)>
+34c37a308e48622cde50f3da39687796	sonicwi2.7z <Aero Fighters 2 / Sonic Wings 2>
+c52cfe7543f7cca1ec21e873c1e9746b	sonicwi3.7z <Aero Fighters 3 / Sonic Wings 3>
+72a5d16e1269868b2ed2086c06f82b36	spidermi.7z <Spiderman (FMV Demo)>
+44d6eb63bfac741a7f3c987f75b85bbe	spinmast.7z <Spin Master / Miracle Adventure>
+6a3e4ce1faaf6448cd8b11cfdb930065	ssideki2.7z <Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - real fight football (NGM-061)(NGH-061)>
+2f2de150d937ca7de1ecae79957c5281	ssideki3.7z <Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - eikou e no michi>
+6b89753c86a69cd24be4860080730f52	ssideki4.7z <The Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero>
+ac7d99cf47f52c189c2377acba9c4b5f	ssideki.7z <Super Sidekicks / Tokuten Ou>
+ddfbfabd2d5b6b13f339bd97a1777b17	stakwin2.7z <Stakes Winner 2>
+cc7d39b1ffe850ce8aa1f7842a6ee1e6	stakwin.7z <Stakes Winner / Stakes Winner - GI kinzen seiha e no michi>
+be1f31fdff3181c516bf2fd92b1fa665	strhoop.7z <Street Hoop / Street Slam / Dunk Dream (DEM-004) (DEH-004)>
+15ee8628e38b973f0eb9a9df7677429c	superspy.7z <The Super Spy (NGM-011)(NGH-011)>
+961e38b5146c0b07d078f53dec9b699a	svc.7z <SNK vs. Capcom - SVC Chaos (NGM-2690)(NGH-2690)>
+53022b156bd97d225269bfb9fc4aea13	svcboot.7z <SNK vs. Capcom - SVC Chaos (bootleg)>
+80d0b408ee1e268690ecbcb8e7f4a65a	svcplus.7z <SNK vs. Capcom - SVC Chaos Plus (bootleg set 1)>
+5203592afd0da01f9d7c8d7c802ae77d	svcplusa.7z <SNK vs. Capcom - SVC Chaos Plus (bootleg set 2)>
+ba2484bf7a03538d3e610aca5c7b5359	svcsplus.7z <SNK vs. Capcom - SVC Chaos Super Plus (bootleg)>
+fda6cd988ae92692f174df7753ae5649	syscheck.7z <Neo System Check (ver 1.0b)>
+678399e216e09bd02744f730ad1ac0a3	teot.7z <The Eye of Typhoon (Beta 7 Version)>
+9e193f1b4a825cf02ff4fa11e2037fb3	timesup.7z <Time's UP!>
+b684d67d433b5c2781e956a3000322ad	timesupd.7z <Time's UP! (Demo)>
+c0548281131371b93930d721f722f2e7	tmnti.7z <Teenage Mutant Ninja Turtles (FMV Demo)>
+afbecbaf162a89e030da0d4aaaa3a987	tmntia.7z <Teenage Mutant Ninja Turtles (FMV Demo, alt)>
+2aaf6f0e71b1a23582f46f9983272d33	tophuntr.7z <Top Hunter - Roddy &amp; Cathy (NGM-046)>
+4903736a3055e7537769e128c7ec5790	tophuntrh.7z <Top Hunter - Roddy &amp; Cathy (NGH-046)>
+ba24d06d874976d59b64fb2867f29b9a	totc.7z <Treasure of the Caribbean>
+cda588c3271a7243fa87e4f624e614c7	tpgolf.7z <Top Player's Golf (NGM-003)(NGH-003)>
+95bb32e6e94bd6d8e802fde53718ac18	trally.7z <Thrash Rally (ALM-003)(ALH-003)>
+86a5e87842b12616c52f467f5693348f	turfmast.7z <Neo Turf Masters / Big Tournament Golf>
+6f13e19b0d250d851595808b8215a755	twinspri.7z <Twinkle Star Sprites>
+fc0383cda762a2e88386ff861c52b160	twsoc96.7z <Tecmo World Soccer '96>
+333b300098a4e424071b500ce1cb4e05	viewpoin.7z <Viewpoint>
+3441456a1ca9fbd24409127b449ab8b7	viewpoinp.7z <Viewpoint (prototype)>
+58f982fe6a19b98a11579acadbc26436	vliner53.7z <V-Liner (v0.53)>
+4e903372e010329396a692d971ab5c2d	vliner54.7z <V-Liner (v0.54)>
+382b8bfa834a032ef721a3238a8c2d90	vliner6e.7z <V-Liner (v0.6e)>
+f055afccae1030869f1a430e74d8a6df	vliner7e.7z <V-Liner (v0.7e)>
+8e7169bd79c24afac77ac2cfb1c6b35c	vliner.7z <V-Liner (v0.7a)>
+b7e62952de4c640b526a79338d631bd6	wakuwak7.7z <Waku Waku 7>
+3f51de321138a062a0d3d1b4ae094c2b	wakuwak7bh.7z <Waku Waku 7 (Boss Hack)>
+d93438a68e424bcfc3460d73a90bf95c	wh1.7z <World Heroes (ALM-005)>
+85b76e0a36e69b60a0a7c483d497dfff	wh1h.7z <World Heroes (ALH-005)>
+d867413f6b90869e38eccc72a0b92fda	wh1ha.7z <World Heroes (set 3)>
+a98803cefc6d2d9e48cdf2fd827b3817	wh2.7z <World Heroes 2 (ALM-006)(ALH-006)>
+83b8c4c54c1128c01f63cbca7dc93142	wh2h.7z <World Heroes 2 (ALH-006)>
+dae39a7c687a24b581717789c0cd80ae	wh2j.7z <World Heroes 2 Jet (ADM-007)(ADH-007)>
+3c7ab57428c7b5da7688152b9a06b713	wh2ja.7z <World Heroes 2 Jet (ADM-007)>
+35b43f65caf0f38daaa9af61658f8c92	whp.7z <World Heroes Perfect>
+c9a5750db3e5f76e917e153dc097e738	wjammers.7z <Windjammers / Flying Power Disc>
+7bb2f8c57626a7198cd45c9200ba616e	xenocrisis.7z <Xeno Crisis (NGM-BB01) (NGH-BB01)>
+ad7690ec619673225f1e0f7f265d5fa8	zedblade.7z <Zed Blade / Operation Ragnarok>
+43ffb287cf1c80add8839e53593c8ccc	zintrckb.7z <Zintrick / Oshidashi Zentrix (hack / bootleg)>
+a3bf2026c4aadc7c9b4d52323cef15b3	zintrkcd.7z <Zintrick / Oshidashi Zentrix (Neo CD conversion)>
+49b6a83d2f5a22f82fbd531a4a94af7b	zupapa.7z <Zupapa!>
