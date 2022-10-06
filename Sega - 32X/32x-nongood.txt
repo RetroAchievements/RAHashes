@@ -1,0 +1,51 @@
+6a040dbd1539074d69b70868359babbd	After Burner Complete (32X) (E) [!] [T-BR] [T-Carlson G-Nenhum] [V-1.1 A-2010].32x
+51394feba4165bc92bc5071137bf2c4e	After Burner Complete (32X).32x
+563f56818855486c86efcde04a5812c3	BC Racers (32X) (W) [c][!] [T-BR] [T-Carlson G-Nenhum] [V-1.1 A-2010].32x
+70a033bc8f5c1016f381d2b14bbf2d9d	BLAZE DOOM AVENTURE 32X v1.0.32x
+5f874b505997ef3e657ce5ca6d9e1ff5	BLAZE DOOM AVENTURE 32X v1.2.32x
+f84bf9587c94773c498663478fc1b2e0	BLAZE DOOM AVENTURE 32X v1.3.32x
+42d9f2c97cd9dabfb250cf32a3945037	BLAZE DOOM AVENTURE 32X V1.4.32x
+76b4e1d954fd32c997db64a0aba93e66	BLAZE DOOM AVENTURE 32X V1.55.32x
+75e447bfc021fc7217ff174e6b655baf	Darxide (Region-Free) (M4) (32X) [!].32x
+e46b8788849a5dc3d4172123013b3c52	Doom (Japan, USA) [Music Sonic Spinbal] [H-Saxman] [V-1.0 A-2010].32x
+919dd6eabd74db2550c4b0c2ff178037	Doom 64 32X.32x
+2e0fab60c68a5ba8f42f7f896c10c3f8	Doom.32x
+31e589501650ba48fe460a422f8ef1b1	Doom64x_US.32x
+a3c7187c4e56c53b1d5a4946a9e4e3bc	eight queens.32x
+3aff2943a9b88804d20530231e6c2220	Knuckles' Chaotix (Special hack by Heran Bago).32x
+93d852e07c0586c4d816db2e36a13899	Kolibri (32X) (W) [!] [T-BR] [T-Carlson G-Nenhum] [V-1.2 A-2010].32x
+9e9a3eb721ae4d726b866e721d864df1	LuSID Dreams.32x
+772c36f62837c15ded91439443e84a10	MIAA Women's Hockey 20I5 ~ Volume 0I; The Mass Tour (JUE) [!] (Revision 00a).32x
+1501c0824618d603bf99e3a200a9dd80	MIAA Women's Hockey 20I5 ~ Volume 0I; The Mass Tour (JUE) [!] (Revision 00b).32x
+11ca36569b414d5dfa3186c00324ab36	MIC_LUSID_DREAM.32x
+86fdbabca5aaef396c70b8318fc10f03	NBA Jam Tournament Edition (EverDrive Patched).32x
+2ee6990a05235ee919afe52b85e09d37	NFL Quarterback Club (World) EverDrive Patched.32x
+498655c8304f5dd3e8e8181f0e688275	ninja fighter 2d_v0.32x
+d14d7a43c855aea969688e592ac6e331	ninjafighter2d_v3.32x
+083631e90223592c1576fa00d77043de	Pitfall (32X).32x
+625e9e1ea72ca7e4fd1f50c29d3163fe	SHYMMER.32x
+31cb0d5b383396bcfa6a2ffb7485b5d3	sidplay32x.32x
+a595fd9356aee52036795f245c5fea1d	Sonic Robo Blast 32X (U) v0.2.32x
+574af49a22145205c82d01fb8d9d23f5	Sonic_4_Cybernetic_Outbreak_(VarionIcaria)_(SHC2015).32x
+c71bc47c7eb2eb81a3d67792f8037829	Sonic2r3.32x
+afd58c0fc3f420feb429c483baa6c838	Space Harrier (32X) (JU) [!] [T-BR] [T-Carlson G-Nenhum] [V-1.1 P-90% A-2011].32x
+25914ceffef146b7d11c22f065f4e859	Spear Of Destiny.32x
+dbb4f8bd1723e830b8f5c0ae6aa7fddb	SpearOfDestiny-20120222.32x
+a2035f00194b033722160797b63d4fe2	SpearOfDestiny-20140710.32x
+1c18cd34f875d8510fea8b6cb2827fc9	SpearOfDestiny-20140711.32x
+41fb46d6cc214100f15e3e992d88579d	SpearOfDestiny-20140712.32x
+a1b848f042a9812467883d64b1480432	Spider-Man - Web of Fire (32X).32x
+f7cee523983d7530b4622911f22afe76	startup code for 32x.32x
+a0c24e212e19724f97227cd5c18d33eb	test_aplib.32x
+92c79a30ba3474f851b0332d2c23dfea	test_lzss.32x
+4f4efdf3705424d05e05bf40a85e065a	test_packfire.32x
+306ef32f5faf434f2438481df1d47b18	test_rle.32x
+011ed7086107cea102b05e543a59d029	Unlucky Pony 32x v0.4.32x
+c07d114e15ce13126fca3c7072ea1097	Unlucky Pony 32x v0.8.32x
+7000c72874547b67534f82b54660f67c	Wolfenstein 3D Shareware 32X.32x
+3d270396158d3878225a56fc12929f66	Wolfenstein3D.32x
+bb6097d43e5b7a889f78e01ac59bf13c	Wolfenstein3D-20140710.32x
+ce1783c956f24c3132ac46e88f85e2c0	Wolfenstein3D-20140711.32x
+1603f5967963e039db296017e3e0c01d	Wolfenstein3D-20140712.32x
+dcbc00dfeeba050949a5c318904b9560	YETI3D (32X) (PD) (Sound) (160 Lines).32x
+6f58a168224909c562545b6201de31cb	YMERX-mic.32x
