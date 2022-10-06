@@ -1,0 +1,1035 @@
+f043eda2cea337cda7eb00e809b084f6	[BAD] NUD-DKKJ-JPN [BAD].bin
+5bad8376c15d3e8171191911e11aedf9	[BAD] Yoshi's Story 64 (U) [BAD].z64
+9453303360db5b41ee5ea80a207145d9	000_idx.z64
+a56b15faf24389dd375e7afb03a7d3c1	007 - GoldFinger (U) [!].z64
+d41e25caef2ef662f0e0c78f6ce16bfb	60fps.z64
+94dba2d79615deed567aa85f4cf74162	64DD_IPL_cart_acey.z64
+c080d62ae6f636e96b907d9963005ea6	64ddblkviewer_04r.z64
+53ee4d138e407ea2d52d8467756ac167	64dddump53g.z64
+5f9e12bc1fdd6533abb620a4fb508b7b	64dddump55.z64
+8400e5ff9e1d8e77e18665d6bb9c753c	64dddump56.z64
+905afe7263677a44e29c9f6bae11120e	64drive Menu v1.05 [a].z64
+f8a8c5470a34888eb9e93dfca996822a	64drive Menu v1.05.z64
+3cba7599d09b08656704509716f6d360	64drive Menu v1.08 [a].z64
+17f7eb1a0db569c139305df4ba61c84b	64drive Menu v1.08.z64
+e9595f427c10d640cb23e82b86589c4e	64drive Menu v1.09 [a].z64
+a70bbed7c9bb3e9615d4019b1bb56007	64drive Menu v1.09.z64
+daa6806e107c75650c94dda61290cf69	64drive Menu v1.10.z64
+a952118a4e1e0597b7593ef63576382d	64drive Menu v1.11b.z64
+8e679f060fef58ad12bf0528c783435d	64drive Menu v1.11c.z64
+0f8784c6a16dc2398c60fb34f6247d4c	64drive Menu v1.12.z64
+c353d8fffd028629d5752c443ea767ad	64drive Menu v1.12a.z64
+d3083f6d2247db7dd9841c5e851a38d9	64drive Menu v1.12c.z64
+08aba9a4f1f08368c8e0f61582c97475	64drive Menu v1.12e.z64
+5f427cd08888214293a7fc9d082d9207	64gb checker v1.05.z64
+73380fb05e1145362290853957a8c20f	74EE Ghostrace 32MB.z64
+d905fa5e7ac1fb6c15d9ba61f7316bcb	Aero Fighters Assualt.z64
+4401e4d154cab98e0e62ad5fd31ac165	All Star Tennis 99 (U) (T-BR) (T-Guto G-Guto Traducoes) (2005).z64
+b760b8d42d942992372197a36b4de681	ALLAHU ACKBAR.z64
+719d05ace52b7c565a5506f5f1ba6068	Army Men - Sarge's Heroes (U) [t2].z64
+3dd0bcee88c34c8ccf79067864e20139	asmprog.z64
+786124acbcdf0802ae94fe5cd6f5c2b3	AsteroidShooterV1 [gbrown5].z64
+fb25d54d5c202b157d68db9e1733d48e	Autofill.z64
+05c3ba288b88e1ddc7e80df70f44094d	Automobile Lamborghini.z64
+0a13657ed9209f0b51bcf7f15289cbaf	Banjo-Kazooie - Snowglow Village (demo).z64
+fc97c2cee0991973b5a740e807b6a1a4	Banjo-Kazooie (E) (M3) [!].z64
+22bcaa07be087e79b28e8a26b6fb3dca	Banjo-Kazooie (Europe) [tr Ru chiefnet v0.99.9].z64
+457303dd7a143c96d91c86a2d820d0ea	Banjo-Kazooie [tr Ru KenshinX 0.97.01].z64
+3ae1a512c9c3a49c5d4607c048e2123f	Bass Rush ECOGEAR (JAPAN)[ind].z64
+a2f6089572defe2ee1b4640f5985161d	Batman of the Future - Return of the Joker (2000)(Ubisoft)(EU)(M3)[h].z64
+56ecabf5b298c1ff770867fe06e41c46	Battle Royale.z64
+70e9eb9bf2f7bc76ca38ce450ba01c2e	bfd_ntsc_debug_DC.z64
+c7a378652b5ab1998bd5ee21c9f172ff	Big F-ZERO X (Hack).z64
+004d2362c47896cc263ad53c75a9da18	BlockMonkey.z64
+aaa6f3fa028924b9a3901bfe6a91f2a6	Bomberman 64 - Arcade Edition (E).z64
+98e76aab22025d71b78c38b534d2125b	Bomberman 64.z64
+61dbbe4ccc769cfeabb00b337876fbd7	Bomberman Hero (U) [!].z64
+10ea23ce495752bddc81a033e70b4699	bootloader-v3.edb.z64
+959c91d3c927f5506d140f96faf1be0b	Bowser's Castle Outside (SM64 Hack by VenusFeuerFalle).z64
+b86e036ade0eea4b1d00e328e180d1cf	Bowser's Dank Rave 2 - Return of the Illuminati's Dubstep Party (SM64 Hack by SM64SS).z64
+bc65ceafae17f7628fb7cf362d594e18	Bowser's Dank Rave 3 - Toadette's MLG Expansion - TRP (SM64 Hack by SM64SS).z64
+f7ce283e99fc1a64ced7ba675a797dc0	Bowser's Dank Rave 64 (SM64 Hack by SM64SS).z64
+adb7d6991b6d9a06a9412c79650abf63	Brutal Mario 64.z64
+2a3cc0628a96969b83a2e6814e6ddd78	bumpmap.z64
+93a9b4d928129c00ea44e4d42889e7d3	Bust-a-Move 3D.z64
+6c21d2e83497ed99290f7337ed75ab55	Butterfly 64 (SM64 Hack by Skelux).z64
+ef8bd54a68b15a508a4020fc3c4dbfca	Captain Toad 64 (2015-09-25) (SM64 Hack by Kaze).z64
+f2432c61b685fb3977dfbffdce63a0c6	Captain Toad 64 (SM64 Hack by Kaze).z64
+785d7905ff24f38b9297dad48e8ae180	Cass' Gueule 64v1.z64
+2a5ddc850d4de872cc0088a3501fd962	Castlevania - Legacy of Darkness (U) [t1].z64
+ce71d1ce0a2b6d597f72cb4fc08f5844	Castlevania (USA) (Rev A).z64
+443f23ea81c635531af03b03dd62bb9f	Chameleon Twist (J) T+Eng v1 Zoinkity.z64
+d8a88acfcd89df7a59d9a1b050fda740	Chameleon Twist (USA) (Rev A).z64
+1ecae80c4e468cec7f044513b56a5154	Charlie's Blast Territory.z64
+4975a1a8870e0f39f272e7fd20690c84	Chip8.z64
+9f5fad79a6765a7316067fa697ef9aee	Christmas Special (2015-12-24) (SM64 Hack by Kaze & BroDute).z64
+91bfc31b47fb555eab2e88cc1a4f5970	CI8Bit_FrameBuffer.z64
+13ecbaeef7111d5343d73a80e03e353a	conker_bfd_ects_DC.z64
+613dbaf8cdfcb040b4db923f00a4d11a	Conker's Bad Fur Day (U) (V_ECTS_Encrypted) (Prototype).z64
+b1a8eea5e9460d171a868739360debbc	Conker's Bad Fur Day (USA) (Demo) (ECTS) (Encrypted).z64
+544a4eec38961d38e07d02f445927dfd	Conker's Bad Fur Day (USA) (Proto) (Debug Edition) (Decrypted).z64
+05f8118a3d1cb09f0a594c8f856de755	Conker's Bad Fur Day (USA) (Proto) (Debug Edition) (Encrypted).z64
+55c0e82531ccc4d989e3ccc8f56ad677	Conker's Bad Fur Day (USA) (Proto) (ECTS) (Decrypted).z64
+416da5322a89ccaa350489905660ff6d	Conkers BFD Debug_EC.z64
+2d08b13892a4e69e59b6339de1ec112a	Conkers BFD ECTS Demo_EC.z64
+11240f60149b68acac2afea75ee2fe3b	controllertest.z64
+0a03999267c2b808c23b7059f8ea82d5	Cruis'n World (USA) Arcade Speed hack.z64
+4f8bb1a9756c4910611c0080a3319d3b	Cruis'n World (USA) Fuchsia Starting girl hack.z64
+496de64f65f295f00d277da9b30065cd	Cruis'n World (USA) Multi Trophy Girl hack.z64
+c83f50e14382a72498c35fba43e1b8f5	Cruis'n World (USA) Troppo Facile hack.z64
+866e679c48444214d9246be3885e1f81	Custom Robo (J)[T+Eng].z64
+55e9b75eac7aa9a607ff6d89ed167d48	Custom Stage 1 (SM64 Hack by Ploggy).z64
+0fff257d412421a12b2454b8dad29fdb	Daredevil 64.z64
+a03ea5ec2d57580b62d7bf0e3e74b9f6	Dein SM64 Hack.z64
+ae376e7350c016c41bc4e65384a76856	Dein Super Mario 64 Hack - Pilzinsel64 - 2. Level - Gruninsel von Rockborkbuck (Mario).z64
+0a956140c9bb729ed7f5177ebedbdc9d	Dein Super Mario 64 Hack - Pilzinsel64 - 3. Level - Winter in Konkrastadt (Mario).z64
+766757ef5dfcdc9dd96d0aefa5f8e45f	Dein Super Mario 64 Hack [a].z64
+c3d0bf75976fe502bffac687fff08b6b	Dein Super Mario 64 Hack.z64
+8932d32f455ca4f5251ec43e88a5d540	DetailMap.z64
+c229888693bceb66bd2f4601223e9365	Dezaemon 3D (J) (Hack DD Expansion).z64
+99a67674130f271f150db75c02d14f0a	Dezaemon 3D (Unreleased).ddd
+c3c5fbd4430865e0f9a2ec63477d90d1	Diddy Kong Racing - Big Donut (hack) SubDrag Zoinkity 2015926.z64
+298b47228086114959d13a0e0ab091f7	Diddy Kong Racing - Moon-Station (hack) SubDrag 2015925.z64
+3a959f1fb361c7369a2dbd48616e1471	Diddy Kong Racing .z64
+5a3713500b130f1d9348393ad53d75ed	Die Bullyfestung.z64
+d660da9471cb751343e786bc99d6e0d5	Die Rom SM64 hack.z64
+820929ebbe6fd332ac1720f94b745a8b	Die_Hard_64_(Mar_15,_2000_02.32_prototype).z64
+3d1e03b097f2124f8f713013d8219291	Die_Hard_64_(Mar_15,_2000_02.36_prototype).z64
+1b28c4ca21648d318bc6dd3ef27bb1fa	Die_Hard_64_(Mar_15,_2000_02.43_prototype).z64
+8b5f34cdd4b44849d19644beed8ef017	Doctor V64 BIOS V1.30 (Blue).z64
+48e3d77e5bc954e06703f7e0c77f35d5	Doki Doki Mario 64.z64
+771f5e7e20ccd299015e6c2e1a335448	Donkey Kong 64.ext ED.z64
+84fe83294b5613b35171d1e0a898bcdf	Donkey Kong 64.ext.z64
+91ac4c465e969f591b8408d7cbc6e93b	dontbesquare.z64
+4776fad56042adacbada9c0464869d79	Doom 2 (Doom PC Port).z64
+ae2dd670fe120caa0618d7704e9b9a1f	Doom Plutonia (Doom PC Port).z64
+e698e888e0c488d376fda84daeec3baa	Doom TNT (Doom PC Port).z64
+0cd69e8b214f29e86156b553d7c0215d	doom_sound.z64
+e5f84477893f9a12c14a171c3c985f30	doom.z64
+8a170c3d75c4a58a43649471e693afe9	doom1_shareware_3.z64
+da34d73a350da53c8e270100f26a9214	doom2.z64
+092a3d78d7d55a4edb9e02227421a83c	Doraemon2-JAP.z64
+f827d11ee513d5edde44a3a9598f0934	Doubutsu no Mori (J) [T-Eng0.5].z64
+7ddbca3f642cb4caa780e81733c94037	Doubutsu no Mori (J) [T-Eng90%].z64
+64011dd56ff84cf9eb46153e7aeccd26	Dragon Sword 64 Prototype (earlier version) - DragonSwordNTSC.z64
+44d42113c3e7cbf2a3cd6c96b8578b68	dragon-sword-64.z64
+318dd0edcd56745580daba2ce0740267	dragonfsdemo.z64
+b27194cb4dec151cbd1d96d6e8ffea12	DSM64H BestOf 1.3 (V1.1) (SM64 Hack by Pilzinsel64).z64
+bb2472b3f8a41fbf3aec3ccef7ea8c78	Duke Nukem 64 (Europe) (Beta).z64
+cae531ceadaf20f5338cde405805dd05	Duke Nukem 64.z64
+f3d32702972741f33aacd67eff2506bf	Earthworm Jim 3D (U) [t1].z64
+a16ce3486dfadab41aa00a4ddbb13025	Eis Lagune (Ger) (SM64 Hack by Pilzinsel64).z64
+e4bfc73d400a4beee1c847fae39430e4	Evi Australians (PD) v1 gameblabla.z64
+a674665131ab6bca2b1c6a3d7d208aee	eviltest-demo1v2.z64
+6e845b23e600cf0dd106d51fc29c203e	Excitebike 64 (U) [f2] (Save).z64
+21954e4e404d9e87dbdb87dd309f3e94	Excitebike 64 (USA) (V1.1).z64
+72251dd463c28684729e19d8cabf68d5	Experimental Platform Battlefield (v0.2) (SM64 Hack by Frauber) ED.z64
+7d6112e5e6664689ea6dbba102bc620a	Experimental Platform Battlefield (v0.4) (SM64 Hack by Frauber).z64
+229fdbe4e736a1a5b67a89dc83ed670c	Extreme-G XG2 (U) [t1].z64
+ae30e050b8961a1c08be8f73f27e5959	F-Zero CXR Ultimate Rush (Hack by customracer209).z64
+3cba68d73f32d5b7504632a9fb0b10b8	F-ZERO GX 64 - Part 1 (Hack by adel).z64
+6b9a842543e6b78ecd82da65d47d473d	F-ZERO GX 64 - Part 2 (Hack by adel).z64
+413b468eb8e3bf22c33c36b6047ac7e2	F-ZERO LXK (Hack by lucariokiddos).z64
+af89e664c8592bc589b18361d946602e	F-ZERO PXB - Part 1 (Hack by Philippe Brodier).z64
+49df1078b20806e3b4225433a8e57985	F-ZERO PXB - Part 2 - RR & DD Tracks (Hack by Philippe Brodier).z64
+6f2ecc8283413efdf88afed68b22c8de	F-ZERO PXB 2 (Hack by Philippe Brodier).z64
+3942f255eb0e3617a3b382a83759b15e	F-ZERO PXB 3 (Hack by Philippe Brodier).z64
+e4178b67ea48e84ce23dc73acd2894c3	F-ZERO PXB Dashes Power (Hack by Philippe Brodier).z64
+ebdb19dc370f6ea3b6e227ba4f106d1c	F-ZERO PXB DT (Hack by Philippe Brodier) [a1].z64
+9b40928ec85a13539b28834e5005f57f	F-ZERO PXB DT (Hack by Philippe Brodier).z64
+09a7554f0bc3cb25aa73d673c1b7ea3e	F-ZERO PXB Series (Hack by Philippe Brodier).z64
+60160ed265859d17d891e8203a5b6ddb	F-ZERO PXB Various Tracks (Hack by Philippe Brodier).z64
+cc600906a4eaaf841dad45e7e6954b6d	F-ZERO X - 10th Anniversary (Hack by Philippe Brodier).z64
+f773bc8167eea7daf67adeaeb868dd1c	F-ZERO X - 2nd Boost (Hack by Relm).z64
+913d7c213cf147dcdb331b6e78c3df27	F-ZERO X - 8eta (Hack).z64
+f4ae58db226a56801cfc33192a3d38a6	F-ZERO X - Climax (Jp) by Brod.z64
+1772a554c4483a0d7e992673fe3c9dc4	F-ZERO X - Climax (U) by Brod.z64
+62a4b480322d353fcb86cfdc151329c3	F-ZERO X - Expansion Pack (Hack by Philippe Brodier).z64
+826ead694e46b40c1f3b5782fcb485c1	F-ZERO X - Inverted Tracks (Hack).z64
+6b5ffda9fafd2e4e7ecdca04585d35aa	F-ZERO X - Mirror Tracks (Hack).z64
+ec795795102cef9a9bfc90966bdbee82	F-ZERO X - New Lap (Hack by Relm).z64
+540d2e68c9f8cc998881ca68e1f9b965	F-ZERO X - Reverse Tracks (Hack).z64
+25878b39825fabac808900e77fd918ab	F-ZERO X - Saphire GP (Unknow).z64
+0249f838c33b6e69cbf6ecf44f3dd16b	F-ZERO X - Tremendous City (unknow 1).z64
+ba36347c99971ab37ef951ff92ddf1d7	F-ZERO X - Tremendous City (unknow 2).z64
+0624b8c97debadb9f991577c15de59c1	F-ZERO X - UchiX ~Side A~ (Hack by UchihaSDA).z64
+51d425bf73fff82973ee93171800a7df	F-ZERO X - UchiX ~Side B~ (Hack by UchihaSDA).z64
+8df55f16851ec720f9ff07a46d573faa	F-ZERO X (Capitan Falcon's Hack Expansion Pack).z64
+a372d50efa3a537b03c87dc86ad4081c	F-ZERO X (DJAisBack's Custom Tracks).z64
+73caf0e0e3aefb32941fab02e0e7708b	F-ZERO X (Fzeroman's Misc1).z64
+b4ba931bea588f2a39ec3ab4afb63530	F-ZERO X (Fzeroman's Misc2).z64
+955823e338f114cf8ebef1f3897f1c98	F-ZERO X (Fzeroman's Misc3).z64
+df60cfa980de7b680d71e534233f70fc	F-ZERO X (Hack Expansion Kit).z64
+e6714b5a7935eb1978b8404ef8eee3ef	F-ZERO X (Lazlo's Custom Tracks).z64
+260dc499fc5c3eeb6482c04f4f524b20	F-ZERO X (Statix & Jayray's Custom Tracks).z64
+3d61731092ef16cb5389e2f8338fc0bd	F-ZERO X (UchihaSDA's Misc1).z64
+93f28306668b1f5a685956fba33f79f5	F-ZERO X (UchihaSDA's Misc2).z64
+0b3db4bcbc691246ebd41485bd550570	F-ZERO X (UchihaSDA's Misc3).z64
+c1883d7169c62c9e5c00c659ce92cb14	F-Zero X DXP (USA).z64
+5932d07d6aaa84b7d74f5251d8942c91	F-Zero X Expansion Kit - English (J) v1.1 NESWorld.z64
+283713ec9e15b63b7b605c3576b2faf4	F-Zero X Expansion Kit mod hack.ndd
+ab1e65be4a0aea761597ca9f72e6eb1b	F-ZERO X GPT (Hack by Effendi).z64
+9128e76b4225b77f38530f60adc56a5f	F-Zero X Hack Expansion Kit.z64
+a10401b27fba196f96f4608d3011f7b6	F-ZERO X Hyper Speed Circuits (Hack by DJ_Omnimaga).z64
+c2d6b1f9a1d357e7bf7c706659cc24ae	F1 2010 EXPANSION PACKET (FZEROX Hack by 2000kmporhora).z64
+9c323100173b5f708a3423c3eafbf610	F2DEx Sample.z64
+ba3dacca397395345f4a1a573bbee7be	First Person SM64 mode.z64
+a9e1649455614160bdcc0d4be3241729	First_Person_SM64_mode_playable.z64
+ed33803c4f9658cfd9b54fb55bf2119c	Flat Lava Land (v0.2b) (Test) (SM64 Hack by Frauber) ED.z64
+e54eb7024d1e58ffb6b3172338e1a89b	Flat Lava Land (v0.2b) (Test) (SM64 Hack by Frauber).z64
+9f1afbd490dfdbc62c19ea3ffda833a5	FogWorld.z64
+54dfebf5028329c963cdcc9692f9aeeb	Frosty Village SM64.z64
+702138d8ee263748d4973e785bba51a4	Galaxy Cursor_zoomed out lakitu cam.z64
+f3caea692c23b53f82a0e12af8a849f9	Garten der Hoffnung (SM64 Hack by Progamer Bob).z64
+11861a18adf197f4350c294e9c8e1d50	Glover (U).z64
+5d47919ecbd2d2af29972e6f53553be5	Glover 2 (Modified).z64
+4e15d92cca23e1a01bb65246431b5c5a	Glover 2 (USA) (Proto) (early).z64
+f2a3d5dd377c65cd3ddf7dad1d85d565	gnuboy64_1.0.z64
+3b566d160705de8272fd6cc3922bb6a8	gnuboy64_svn_r7.z64
+bfc90311cd1ea85da3728b737db42302	GoldenEye 007 - Grid.z64
+6959ff0265509396c0d628dce880af1c	GoldenEye 007 - Launch Station (hack) Rey 20151031.z64
+b43fc20b973838616111171dc48853fc	GoldenEye 007 - NGPA Block Fort (Hack).z64
+213ac4da6cafca243612ae82ca803e85	GoldenEye 007 - NGPA Edition V1.0.z64
+e63cadc1cb12ad6e367cdc7e0d7983ee	GoldenEye 007 - Project GoldenEye v2.1 (hack).z64
+6e23e6bad28f8ac5c07344dcb0c266b8	GoldenEye 007 (E) [!][TSpa2.0 Sogun].z64
+6b102d4c91029e893bd20195c7c1e90c	GoldenEye 007 (U) (Upper Stacks Hack).z64
+78f83525e0cc98641aeace37e3ff7f16	GoldenEye 007 (U) [!][TSpa2.0 Sogun].z64
+a218a681b0de82eb3d1a465f0dbcd837	GoldenEye 007 (U) [T-Spa1.0_Sogun].z64
+3c76270cbe0337d37ee4dd5bc80dd4ce	GoldenEye 007 (U) [T+Ger1.0_DF_Ank1].z64
+53ca2c4b529a5856a9b1b720902a581a	GoldenEye 007 (U) [T+Spa1.1_Sogun].z64
+14cc75d826a163cdd66369b3293d24c2	GoldenEye 007 Classic Nintendo Maps v4.0 [console version].z64
+7c54f84d5a60cab2df66ae7a4fc2f9ce	GoldenEye 007 Classic Nintendo Maps v4.0 [emulator version].z64
+8ffc4cc5916a488e19d214f484556945	Goldeneye Multiplayer Level - Peach's Castle.z64
+67f2e18ed18a5f0ea3fe2d913e3f1786	GoldenEye X (Perfect Dark Based) v5e Clouds - GoldenEye Vault.z64
+e62a7e6e5c038c9b6e3aa4095c54e1f8	GoldenEye X_5c-i_03-11-14_Cloudless.z64
+f1ac0ea88faff02dbbe8690789c37d51	GoldenEye X_5c-i_03-11-14_Clouds.z64
+24bf8877ed0c730524bd19548c2d8b73	Goombas Easter Egg Hunt - Easter Special! (SM64 Hack by Kaze).z64
+6f117027ff05c237d3d0a6af5de43474	Ground.z64
+133f4a5d43b4f57c2bcdcd2c8790f78a	HallowCrash - SPOOKY (SM64 Hack by MarioCrash64).z64
+91729bf74226f30a1bb40ab301aa762a	Hallowoomy 64 - Hallowoomy on Spoopy Island (SM64 Hack by BroDute).z64
+9521f2d6f1f633e308ac768772dabfec	Hi Pai Paradise (Aleck 64) EverDrive Patched.z64
+8d5d5594367050f702697830c849e807	Ide Yosuke no Mahjong (JAPAN)[ind].z64
+63d7ab29ba3dfc5d5b12c1d9c5832355	Indiana Jones and the Infernal Machine - Unreleased PAL Version - Carrot.z64
+50d2fb7a8843789c8771fb88f3a2f2ba	intro.z64
+20df868f351dd794bf41b03b64fae9b7	ipl_dump.z64
+396f3a8cc33d31ea85946b46580fc3cd	It's A Crash (DE).z64
+b72ebe6994c2557a3b371305bcafc819	Izou Zelda patch one.z64
+4ac0955da88cee63c2dc822ec9220f77	Jet Force Gemini (U) [f1].z64
+9399a1ca0ea12fd5bb98df0e6f4292c2	Kaizo Mario 64 (SM64 Hack by OmegaEdge29).z64
+5de8131c7623d6fecbf9ea0e99d058f2	Kaizo Mario 64 ED.z64
+82be259869b436442bcf51e685dcb7e5	Kaizo Mario 64.z64
+52c46955a8c49c22859ba655c1a1372c	Kaizo Paper Mario.z64
+c22ec43db45e6bf1ea6fc329c29750d0	Kazes Warmup by Kaze Emanuar [2014-09-11] (SM64 Hack).z64
+11350ead09d28e1ed1e3f8b55975edfc	Killer Instinct Gold.z64
+429135efbe7b03ece1e2911c41779b1a	Kirby 64 - The Crystal Shards (U) [t1].z64
+92f38d156e77d5c1c7c156723c2e5106	Komisches Level fur Rouven.z64
+2f186bc96ada1a4e582811c6f1fd9a5d	Legend of Zelda - Voyager of Time.z64
+be2af406b3149dd629745f3c9abee34a	Legend of Zelda Mujura no Kamen (100% Chinese text).z64
+85e06ffaea6c589ef4faf32bbae9cadb	Legend of Zelda The - Ocarina of Time Chaos by Kaze Emanuar (Hack).z64
+9dc5ed87adf6e859391751ae124b44f5	Legend of Zelda Zeldas Birth Day.z64
+623c94394070c7ffba6ec879a8ce0b91	Legend of Zelda, The - Majora's Mask (E) (M4) (V1.0) [T-Bra1.1_Vinicius_Schulz].z64
+1f7703891ca8eee31fec3bdc98b4474d	Legend of Zelda, The - Majora's Mask (U) [f1].z64
+508a22e9bb14ab8d9a1a936c2a120210	Legend of Zelda, The - Ocarina of Time - Master Quest (E) (GC Version) [T-Spa].z64
+9040b5a1a6cdd1dbe9eed03e93142b71	Legend of Zelda, The - Ocarina of Time - Master Quest (E) [h1C] [T+Spa2007_Jairo].z64
+a2ba32749f0c86492e2ad538b128c52e	Legend of Zelda, The - Ocarina of Time - Master Quest (U) (Debug Fixed Version).z64
+39c5ed43ae2d39fc03956300d3fcdfb5	Legend of Zelda, The - Ocarina of Time - Master Quest (U) (Debug Version 119 y 122).z64
+88beb74528d9e4c1a28f87b4540bb9f9	Legend of Zelda, The - Ocarina of Time - Master Quest (U) (Debug Version) (Fixed v1.0 by ChriisTiian).z64
+048d7a08e3dc20363611925f76db3743	Legend of Zelda, The - Ocarina of Time - Master Quest (U) (Debug Version) (Fixed v2.0 by ChriisTiian).z64
+7e1d41b75aff776d5d4e42d563a9b585	Legend of Zelda, The - Ocarina of Time - Master Quest Zelda Birthday v1.5 (USA) (Debug Edition) [BAD].z64
+a6c6322382d1f51e0e16629d1c907be9	Legend of Zelda, The - Ocarina of Time - Master Quest Zelda Birthday v1.5 (USA) (Debug Edition).z64
+3814e770a747e62ad27ff3836ea5bcc4	Legend of Zelda, The - Ocarina of Time - Nightmare Mod 'Proving Grounds' Demo (Overall v0.1) (TLoZ OoT Debug Rom Hack by xdaniel).z64
+623169acb8f3fa9b6cf23d73baf9aca8	Legend of Zelda, The - Ocarina of Time - Nightmare Mod (v4.0f test2) (TLoZ OoT Debug Rom Hack by xdaniel).z64
+9b9b6301076c2f724dc38b6668df02e8	Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev A) [tr Arabic megamanz].z64
+6ca645a527feaa1bd0dce90377eb38df	Legend of Zelda, The - Ocarina of Time (U) (V1.0) [f2].z64
+f98ebdba6ee377bf91c961df001f4543	Legend of Zelda, The - Ocarina of Time (U) (V1.0) [hX] (play as Mario).z64
+af27177927468d885e49a0fcd0636768	Legend of Zelda, The - Ocarina of Time (U) (V1.0) [T-Spa2.0_eduardo_a2j] [a1].z64
+2423a16453a5bb10f2edd9a397188490	Legend of Zelda, The - Ocarina of Time (U) (V1.0) [T-Spa2.1_eduardo_a2j].z64
+cb9bce78ea74df3cf6fe863f16ed7ee8	Legend of Zelda, The - Ocarina of Time (U) (V1.0) [T+Ita001_Cattivik66].z64
+23acd7526bc7b95b4511946cc94154c4	Legend of Zelda, The - Ocarina of Time (U) (V1.0) [T+Rus2.1_EXP].z64
+155ecf879cb18f046624f61a0a7d88a1	Legend of Zelda, The - Ocarina of Time (US) [tr+Rus_Zelda64RUS v2.32].z64
+2af855fb03afebca8715ac91cb067501	letters.z64
+7a076f48085611b5b75de0260fcb31f6	Little F-ZERO X (Hack).z64
+dfce22aceb1c9434ec30652910ba1054	LoZ - Majora's Mask Item Randomizer (U) 2013-10-25.z64
+2f4fde0a70cb4e00f5f1f2481bb48e05	LoZ Majora's Mask GameCube Edition (USA) Aroenai 11-2016.z64
+81b714aa8fb59991da5999544db17073	LoZ Ocarina of Time (USA) GameCube Edition Aroenai 11-2016.z64
+37b811fdb20de3bdb4057fb1db6cf9e0	LoZ Ocarina of Time Master Quest (U) Gamecube Ozidual Fix v1.z64
+c392472855ac917125c9db0181e282dd	LoZ Ocarina of Time Master Quest (USA) Aroenai 11-2016.z64
+efe3d84862318bc892eb5236640e63ba	LoZ Ocarina of Time Master Quest (USA) Debug EditionAroenai 11-2016.z64
+3e63f5b4edaa79615f633ec1abc83453	LoZ Petries Challenge (hack) petrie911.z64
+9da9da08804822ddf130f221a1405f86	Luigi and the Forest Ruins (Revision 1) (SM64 Hack by TheGael95).z64
+f8bb75f0bf12b36c1fcdf4c76f3b556d	Luigi Mansion 64 v0.41 (SM64 Hack).z64
+62223a70ed4c9cc2504ef093b94a7e4d	Luigi?s Mansion 64 (Demo 1) (SM64 Hack by Hacker Marce).z64
+81d3cf4a220da97af2f58117b9ad9de5	Luigi?s Mansion 64 (Demo 2) (SM64 Hack by Hacker Marce).z64
+44905f5bb74df2d4f9f5981483639e98	Luigi?s Mansion 64 (Demo 3) (SM64 Hack by Hacker Marce).z64
+6488f01917510fd561e61b8d6b2d2d3f	Luigi's Mansion 64 (alpha).z64
+c3707316baebcfb1ad6e7ffc01bcebf9	Luigi's Mansion 64.5.z64
+3c460e17dd8dbb0a70e04200773d44d6	Luigi's Mansion 64.z64
+1aac7cb57ad9f8ea01e513885a472c96	Luigis Mansion 64 Alpha.z64
+818d3c693a3ad198209e73ef7db7626f	Luigis Mansion 64.z64
+28b826bad333561c7788fd0444443f4c	Machinima Peach's Castle Extreme Makeover (SM64 Hack by The Ankle Destroyer).z64
+788300fc9e61a918a45092a74520a35a	Madden 64.z64
+4beec9e600fa61e8f220eab2b2c50ac5	Magical Tetris Challenge (Aleck 64) EverDrive Patched.z64
+24938bc79eb7a7eb7a9fb8f36ed1fbcb	Mario 64 beta 4.z64
+232eb4b09bf3230f6dafa2cd27334e50	Mario 64 Level 1 Block City.z64
+602b7178bc7339cde6766170752200c0	Mario and the Magic Wand (demo).z64
+03b77373185c9b8349410acdfd13658a	Mario and the Magic Wand.z64
+a08c9a9b9520dabefcb2363d12ce016a	Mario Artist - Paint Studio [Tr Eng v1.0 LuigiBlood].ndd
+1db7f804133e7d1958e7794547af2555	Mario Artist - Talent Studio [Tr Eng v1.0 LuigiBlood][NDD].ndd
+336ae63bd1ebacc64d9d92370b555537	Mario Artist - Talent Studio [Tr Eng v1.0 LuigiBlood][Z64].z64
+bbc320d0108e7826c8bc0e756869b9c9	Mario Artist - Talent Studio [Tr Eng v2.0 LuigiBlood][NDD].ndd
+e811554e6c6a61be750a1ed315909840	Mario Artist - Talent Studio [Tr Eng v2.0 LuigiBlood][Z64].z64
+f77c660caf502e9e3ad3aa0935187295	Mario Artist Communication Kit.z64
+f30e9077bbe3ab7761fcbd55b499f919	Mario Artist Paint Studio.z64
+2feac1ca3eea6bfc05fbf0887098762f	Mario Artist Polygon Studio.z64
+a95157806b2520088f2ae2540d112ba0	Mario Artist Talent Studio mod hack.ndd
+1ef653a47a69006357b09285c66f827c	Mario Artist Talent Studio.z64
+9deca38f98436552b87e1a97cb39d5d2	Mario Christmas 64.z64
+300ab104c4ece3f4f352210d4ad86688	Mario DDR 64 (V0.2) (SM64 Hack by Skelux).z64
+002f14b91ba1bec1433822198e860b75	Mario Escape from the Jail (v1.0) (TheGael95).z64
+17bd7cb4996ec44c23b51bbad9848975	Mario Escape from the Jail (v1.1) (TheGael95).z64
+10246bf3653134bbe807780a1cf3b02c	Mario Escape from the Jail (v1.1a) (TheGael95).z64
+5effdcd8cf8062740935bd938f22c54c	Mario Kart 64 - Starlight (v1.0) (Hack by HyperHacker).z64
+a43fb666a19d0823f866cd7653b3c3a5	Mario Kart 64 (U) [T-Bra2005_Dr_X].z64
+821a1cbb2dd287fd52fb3d094efd5846	Mario no Photopi (J) (Cardless Hack).z64
+81e041eb3375de335eb60b5c15273e01	Mario on An Saoire 64.z64
+1eac55826a435fd1c0e0feefe89fac15	Mario Party (E) (M3) [T+Spa1.0_PacoChan].z64
+3004e4bc8bd09231cb14ddf738b3a686	Mario Vs. Bowser.z64
+e914fb75a42b016255ce57522449fc37	Mario_Artist_Paint_Studio.z64
+b9d4fb1265600da46153fe89b113bd6c	Mario's Little Odyssey.z64
+f122114ccc64d0cd270bd06e5dfcdf43	Mario's Lonely Holidays 64.z64
+770f82050c76d548b72067be1a2630ed	Mario's Mansion.z64
+9c0f45972df6a31819242630cbbd00d7	Mario's Nightmare 64 (POSSIBLE v1.0) [T+Eng_Eggs6131] (SM64 Hack by Apioeus).z64
+c07e7331adf042e0616d9e91cb2da088	Mario's Nightmare 64 (v1.1).z64
+11d3c5224bd2a2e7fa41205f603c9e0d	Mario's Nightmare 64 (v1.2) (Ger) (SM64 Hack by Apioeus) (Updated by MarioCrash64).z64
+780121f33feb873ac8f35e731851ef6c	Marios new Gauntlet.z64
+53febb224967f6b29225f038ed6166c4	Marios_Nightmare_64_v1.02_EN_(Apioeus).z64
+a5d2cc7226d6d166b7efe1dffb125544	Mayjinsen 3 (Aleck 64) EverDrive Patched.z64
+8edea47c47998856b4797c2b5c321d33	Mega Man 64 (U) [t1][f1] (PAL-NTSC).z64
+cd0824e9405185af434837ba1c8c0cd5	Megaman 64 (Prototype Debug).z64
+14a5a59006d340a8cb613a666af5a0ce	Meme Run 64.z64
+f0e17d721e450da0bf74a7b52dd7c453	Metal Gear MSX (U).z64
+91391cb58872f1af42856c431bfbae9a	Midway's Greatest Arcade Hits Volume 1 (U) [o1][t1].z64
+cd3d0d68f71902ed70e3260f9809280e	Mini F-ZERO X (Hack).z64
+031227a3bcbadcc178dc80c7cbb76be0	Mini Racers (Unreleased) [Fix Beta 1].z64
+3a0d71a383bf51d6bd60b9271a3e814f	MipMap Sample.z64
+5ee1a0abc228f672e2f82e3f396bd322	Mischief Makers (USA) (Rev A).z64
+529d11bbd7174f2f98c57e18dd771b97	MJ's Touchy Fortress (SM64 Hack by Okikurume).z64
+11cd3a7ca009f849dbd27a95116fa064	Monochrome Mario 64 hack C3 2011.z64
+3a45b4c883b49fc3317ddd758dedf123	morphdemo.z64
+e94c321bff0e018dc211b9f3d003171e	morphfaces.z64
+97f7a055dd76fcec82511ec0a6387e76	MotorTest.z64
+dc129f1678a1fa067de743be5ca815a3	Mountain Valley (U) [!].z64
+1023f8064fb7163df69157ae3518aaf7	Mr. Backup Z64 BIOS v2.17 (1999)(Mr. Backup)[h10].z64
+cfeb05a9340271583af9e045bf9b59f4	Mr. Backup Z64 BIOS v2.17 (1999)(Mr. Backup)[h9].z64
+b5ebc3c32f384bbda578510ac51ad817	Mr.M 64 (U) [!].ext ED.z64
+3ffe43ff0164eb76943d09923c2b47cc	Mr.M 64 (U) [!].ext.z64
+43cefa1b8a46518fc3b37f5d3ad65f48	Mushroom Kingdom Stadium 64 (SM64 Hack by Skelux).z64
+cf4c70d56c011510ea4a604b01fb8ab3	N64 Myth GNUBOY64 1.1.z64
+caf29ba00cefa5669a70c49701c37bb8	Namco Museum 64 (U) [t1].z64
+fab4ce272c6af3950411f0827e146275	Neon64 1.2a+(nes).z64
+99c3ebf74b348d12a7be44f632707ba5	NeoN64Menu-2.6b1-PAL.z64
+749da653a9e1e069c1235e22507553b2	NeoN64Menu-2.6b1.z64
+eadacfda91072bd20f38d907b531552e	NeoN64Menu-2.6b1MF-PAL.z64
+953d8350acf9932fccd26883404f55a4	NeoN64Menu-2.6b1MF.z64
+d09c3e19670d4196f58a3bc326e19291	NeoN64Menu-2.6b1SD-PAL.z64
+7fdf6012ad314335f50274742e90165c	NeoN64Menu-2.6b1SD.z64
+908a1660532e9a9d49dced88de519eb5	NHL Blades of Steel '99.z64
+ed535080023b2bf406d44e5290587cdd	NUD-4567-JPN_zoin.ndd
+86be4c518df47dd83e70d398bdd475a8	NUD-DKDJ-JPN_clean.ndd
+1424518e956a23d189b12574f6f67247	NUD-DKDJ-JPN.ndd
+afe059ae1210751b6c849cfb482c99dd	NUD-DKIJ-JPN.ndd
+be2844b8004e2f6e0180e513aa9bc55a	NUD-DKKJ-JPN_clean.ndd
+456c68195e18d2f56a5c8b259dc88e60	NUD-DKKJ-JPN_jimmy [!].ndd
+93e224278066af796a14d18dac5a5582	NUD-DMBJ-JPN.ndd
+64bb2fac6e8d375872dfbe64428b573a	NUD-DMGJ-JPN.ndd
+58dc4c50b079f237ce6dcf804987f238	NUD-DMPJ-JPN.ndd
+29c956ba6b5f2bc5ca949a6a4e618f39	NUD-DMTJ-JPN.ndd
+a41c77ba3136207bfeb3570335224f92	NUD-DPGJ-JPN_clean.ndd
+9f797a9c704b5ebd04d6a2b036309af2	NUD-DPGJ-JPN.ndd
+26087e0750fc6da0f3de2a431e34bddf	NUD-DRDJ-JPN.ndd
+cdd6a52f4affaddcba4f8b6d8a7e3948	NUD-DSCJ-JPN_clean.ndd
+fa0a57d08faae35144b7aaa7aa7c8616	NUD-DSCJ-JPN.ndd
+96ba30d9dce9cdd5bf9107bd59c0fd8b	NUD-EFZJ-JPN.ndd
+7630650c7fc16e199911269647186e79	NUD-JPN-1 (C9747-34011A) [deviplcart v1.1].z64
+7d8e0ea861d1cf3a1df0fb1e79f14bee	NUS-16F32SB-128M-256K-BM2J.z64
+a4b658350778ba9d3f4db770742f9c51	nus-zhaj.u3.bin.z64
+0ed8679807093bc6ba6976f895a8db78	OblivionWalkers Kaizo Trap no Slidekicks.z64
+bdf692f4de6a7c40b1fdd86737a474db	onetri.z64
+0076474c4bb00d8cd5fc99f84c0815da	oot Master Knuckle.z64
+711481ec3cb91687a827d5e292d328e9	OS64 [a2].z64
+b38cae0f98f59cf03ac18e81a3cb7fae	OS64 v2.00.z64
+7023eb287602bfa54f541df78dd5d83a	OS64 v2.01.z64
+f0c6fb1daf090a57e04d52dcabf032a8	OS64 v2.02.z64
+474034cf688e5a2ab80a5c2a95c99370	OS64 v2.03.z64
+ab8728bef74b4536b227d4e6dc4c0f3f	OS64 v2.04.z64
+e93e6469dca2322a6b63c4fc7d63d278	OS64_1.00.z64
+97ea882570319327531b9d23b1ad036d	OS64_1.01.z64
+fb3ab9ef86c172fe48f29395338a421b	OS64_1.02.z64
+6893d182a319b72f63b33dd90ad200d0	OS64_1.11NTSC.z64
+827a3193ef6c5715cff99c72c01ad143	OS64_1.11PAL.z64
+8c7b793cac23a868f5a027fa90abc021	OS64_1.12NTSC.z64
+0f1779fdcc04cc81f619cab688997e93	OS64_1.12PAL.z64
+aa48189bc249871e8e1a7754dade64ea	OS64_1.13NTSC.z64
+edbf87f4f414632d0465a7240f1bd042	OS64_1.13PAL.z64
+1ea034a64db1173ba335725967c296bd	OS64_1.20.z64
+87f990069e10ceac00e13ab700636413	OS64_1.21.z64
+a9f19e1eebe2ec0f2ac7d02d65390e8c	OS64_1.22.z64
+12f788ac43c5334de8d4ab20bb934874	OS64_1.23.z64
+10d7bafa676d2086f8beb7a1303f82a6	OS64_1.25.z64
+88d7d563f206ca5f24ee73d59a4654e0	OS64_1.26.z64
+e7075cf46c85a39a2b9d1b1821550d1e	OS64_1.27.z64
+2ff87507e5cdbb74632d582357739483	OS64_1.28.z64
+95a1c799f2352d5e48d8c5d478dd7be1	OS64_1.29.z64
+10037fb03a622dab86d13ad931300c81	OS64_25.z64
+e0db8bef33222af92e8296825e96685f	OS64.z64
+843419e080044748db62d7e7439c698f	OS64(1).z64
+6ee96bb1dad46418db5108eb1894c46a	OS64(2).z64
+b881605848c2e012e1f564b3b317b345	OS64(3).z64
+2862494841a52b226e447537dd303ffa	OS64(4).z64
+a041a8a8c5763b85c067588423e133ba	OS64(5).z64
+77cbdc30a272ec6f8bd72803b4905d45	overlay.z64
+1313a0256b330215eb43c215c2f5b5a1	Paper Mario (U) [h1] (Hard Mode by Skelux).z64
+aa93f4df16fceada399a749f5ad2f273	pd_ntsc_debug_DC.z64
+53688a3f12ab877c3d2e912266643032	Peach V2.1 Normal.z64
+506f4f60b3797de3d3c7c2234ed2c216	Peach's Christmas Invitation by Kaze Emanuar [2014-11-01] (SM64 Hack).z64
+acc6a8a84f3824cb603e19a08940e9b4	Perfect Dark - 2xWeapons and MP Stack Level (hack).z64
+ad2de210a3455ba5ec541f0c78d91444	Perfect Dark EUR Debug.z64
+2a1db9e1254765dfd96824edc760a38c	Perfect Dark NTSC Debug_EC.z64
+c418de74afb8ef75e9825e1451722656	pfs_PakEdit.z64
+1c3ca2ab45768aa375eddb5dd8820d62	photo viewer.z64
+4203869d677a950c0628372543aeb8d5	Pidi64s Adventures 64 - A Slippery Day (V1.0).z64
+2092672334710b0244418810c8a98cc0	Pinkgold Peach..z64
+2f2367c3bf723ca3c855183680cf1cc6	Planet Console intro.z64
+0e8269676231b3a89b95ae56d7f77ec8	Play as Sonic (without physics) by Flotonic (SM64).z64
+778f66df6e23425ecf31bc1cb090863f	Play as Young Hero of Light in OoT - (Toki no Ocarina MQ Debug Version Hack).z64
+88c0aa18e75d5ddaf1beff3a2fa246b4	playseq.z64
+40e03eda831c01e0a12294287fd240e2	Pokemon Stadium (USA) (Rev A).z64
+97bd1f84fffb9b80a2f461ffeadc4c7f	Polylines.z64
+4bde2119b26e178995144cee5907e7d8	Portal Mario 64.z64
+f0c52c1ba2e7de713ed33ddb21bc0c59	Portal3.z64
+409951c35d06e6244ef0d22b477f02c0	Quest 64 (U) [T-Pol001].z64
+f770e5de676b96acce7d002fd2a903ec	Rakuga Kids Region-Free (Hack) v1 Zoinkity.z64
+7f65d31156b1a0430696b47f133c25a6	Rally '99 (JAPAN)[venom].z64
+50f819ba4e20c5682071a209c176226e	Releasio 3.z64
+9705186ece55e836cc881eafbb98760a	ReNdErMaN HSintro.z64
+1ab0ad83fb071db55b21a8603a310455	Resident Evil 2 (U) [!].z64
+a9eec0165aae1b16d1c9993aff4d010c	Return to Retroland.z64
+8e4fcbaddca266a68481a2411ce43f5d	Riesenhaus64.z64
+0a0337493e9bda7b895e46507fd5077b	Robot Mario 64.ext ED.z64
+c13fda55a6bc95e5114132148b8c6143	Rosalina.z64
+0e2bcc699c7ec67ccb28b1ce6ef02342	Sailor Moon 74_Beta v1.2.1.0.z64
+5b127e6b090a0b3f68a114d4d89323d4	San Francisco Rush Extreme Racing v1.1 - USA - CARROT.z64
+d60c8a7e049b9451bc3b5e2af63c5205	San Francisco Rush.z64
+d101c0de9eebea6ede9c2dee1df977d6	Sanic 64 - Sonic in Mushroom Kingdom 64 (SM64 Hack by TheGael95).z64
+d58b2d73c901500e6c856d874b9bc25e	Scrooge 64.z64
+0da1981fa1cd53669bd20581a51229d4	scummvm-1.3.1-n64_scummvm-agi.z64
+1691d8b3704523a781c6070962bdae66	scummvm-1.3.1-n64_scummvm-agos.z64
+b190feff3fa0079e7ecb2f3f50782e71	scummvm-1.3.1-n64_scummvm-cine.z64
+d3e2538de48c104dfcf04add55356dc3	scummvm-1.3.1-n64_scummvm-gob.z64
+08055fc9a30c0be8fe64f20060f65256	scummvm-1.3.1-n64_scummvm-kyra.z64
+33e4629052da1bab27b4f4c81cb94544	scummvm-1.3.1-n64_scummvm-lure.z64
+aba25c352c418a0acc4ae61667ead624	scummvm-1.3.1-n64_scummvm-made.z64
+5c7138d2099417719457ee1298c57430	scummvm-1.3.1-n64_scummvm-parallaction.z64
+f0b289c29a8f32452cf05bad185b3756	scummvm-1.3.1-n64_scummvm-queen.z64
+15074ed60088e10fafececef03e05fb8	scummvm-1.3.1-n64_scummvm-sci.z64
+1597fe668475faa3bc8de127bd92a31d	scummvm-1.3.1-n64_scummvm-scumm.z64
+86b7fb7f10c498a044e20c0887ed0986	scummvm-1.3.1-n64_scummvm-sky.z64
+8393c0589a7576545700b28d5e5ad729	scummvm-1.3.1-n64_scummvm-teenagent.z64
+b5e7b792d9902b9b766d4713323e49c7	scummvm-1.4.1-n64_scummvm-agi.z64
+be2b7bb438aab02d5272de6347906f6e	scummvm-1.4.1-n64_scummvm-agos.z64
+cf326f6543092df513b908a194b285c9	scummvm-1.4.1-n64_scummvm-cine.z64
+ac832a1102d57f999db25eedb5270b9c	scummvm-1.4.1-n64_scummvm-gob.z64
+1adf95dada728c33545f9e70a8afb0e9	scummvm-1.4.1-n64_scummvm-kyra.z64
+7fa933b1c665cd7a42604e1c576edfdb	scummvm-1.4.1-n64_scummvm-lure.z64
+79920da2ba4ba772e5bb1f4c4e874eb5	scummvm-1.4.1-n64_scummvm-made.z64
+bf67d45975623d48be35c51ecaf10681	scummvm-1.4.1-n64_scummvm-parallaction.z64
+7d543960a600166f084a4627d0b66d13	scummvm-1.4.1-n64_scummvm-queen.z64
+4ed02fa9a9356f88fa48b61ee5c241be	scummvm-1.4.1-n64_scummvm-sci.z64
+f4859551a82b8bc7ed4a42cf3977142f	scummvm-1.4.1-n64_scummvm-scumm.z64
+c4c745974bb939aca203b418be3ec6a5	scummvm-1.4.1-n64_scummvm-sky.z64
+e46e006661fcf721ad8ce654b7b6edca	scummvm-1.4.1-n64_scummvm-teenagent.z64
+919550415ab8a769e1605ec581b8c5aa	scummvm-1.5.0-agi.z64
+7f0993bd1e56c16daf98e3c4992e15e0	scummvm-1.5.0-agos.z64
+ddd145467bed455659d028e0d5aeb581	scummvm-1.5.0-cine.z64
+92a7eac36cb29b075d72b65f487caa15	scummvm-1.5.0-dreamweb.z64
+558db96248adb8074739179b1deb86ee	scummvm-1.5.0-gob.z64
+8ea9abbc8209571f084ef87767ebafee	scummvm-1.5.0-kyra.z64
+5d63eb2fce46c73f8bfbf940c9710e34	scummvm-1.5.0-lure.z64
+cc95d8d5b9bcdeaadeded88b68c051bc	scummvm-1.5.0-made.z64
+2114acb7b0ef98a14f628fa0cfe9fb26	scummvm-1.5.0-parallaction.z64
+f29cf43d60517dd394ee9091ce0fc077	scummvm-1.5.0-queen.z64
+6395cab11960e9e6c9cce09d1085b061	scummvm-1.5.0-sci.z64
+9d7c1995c1a2959ee1400b0e2cd8c23d	scummvm-1.5.0-scumm.z64
+c6a0c2248399588e7197ca38cbdc522e	scummvm-1.5.0-sky.z64
+8eefcf42dd3186307cb1230e1b1ee4f2	scummvm-1.5.0-teenagent.z64
+61126d480c97282410fd82ff2d18ea1e	scummvm-1.6.0-n64-agi.z64
+258bbe5f612b63e4a32c7aa0ab326664	scummvm-1.6.0-n64-agos.z64
+7e9fcd9b357f80c3fcfb9beff87938cd	scummvm-1.6.0-n64-cine.z64
+ead55ae507cce750a268e1cfb01b6ca0	scummvm-1.6.0-n64-dreamweb.z64
+7e707e5e6c1e8a1dad6062fb402453ff	scummvm-1.6.0-n64-gob.z64
+929143ee94c640426dab7f49930c4795	scummvm-1.6.0-n64-kyra.z64
+dda32c059eb97495286e45c5b004a248	scummvm-1.6.0-n64-lure.z64
+d7789f845b6d30baf992195aebb92229	scummvm-1.6.0-n64-made.z64
+f048ff29c58b59f1854288e88d5f41e1	scummvm-1.6.0-n64-parallaction.z64
+2f6822cf17a190e4d5ec4cf4f0d0c9e2	scummvm-1.6.0-n64-queen.z64
+ae4f2db2e76b20bd75f71ba1556bf40c	scummvm-1.6.0-n64-sci.z64
+0b397dd0bdfa42d9d3baf2982598280b	scummvm-1.6.0-n64-scumm.z64
+2808e4e41926821fbfc6ee50136764ae	scummvm-1.6.0-n64-sky.z64
+beb78d13708595523f1f2c384a46e62e	scummvm-1.6.0-n64-teenagent.z64
+9c22ce04316440e156af20bf7235b65c	Seaside Town.z64
+bc2cb83ddcd3108a7ceec9d80c4f94aa	Shining Stars 3 Sanctuary of the Star Comet DEMO.z64
+d8ca177737b9fa5c1b048113ea80aa42	Silent Hill (SM64 Hack by Apioeus).z64
+d3e66e4981a42e4d12f19dd780b0a596	Sim City 64 (J) English PeterLemon 2-2016.z64
+688078a7cf32b6d0d1b2a69a1f5787a7	Sim City 64 mod hack.ndd
+79bd05a97e50ac63a638e4e90ab9588b	Sin and Punishment (J) Spanish Subtitles T-Spa v1.0b Tio VÌctor.z64
+5fddb8600ec4d388bc05ea5138526599	Sir Rouven1003 SM64 hack.z64
+b99558d3f06f14aa3addfc6fe86d999b	SirRouven1003 (U) [!].z64
+f86262c68839444c444fa308f374b523	Skyshroom Garden (v1.0) (SM64 Hack by Ottowillem).z64
+16b7ce0884c3df5983f797794c6f84ae	Slask's Adventure Demo 1.6.2.z64
+7eff4a383ed7318a6be2cbd1d97678db	Slide Battlefield (SM64 Hack by Frauber) ED.z64
+1a9d06248c4add648f582bef4d2deda7	SM_Nightmare_64_DEMO_v0.37.1_DE_(Apioeus).z64
+c27b2d55589b0cde62dbe1b632c08576	SM_Nightmare_64_v0.37_DEMO_DE [BAD].z64
+dcfa1e9bc9b33de9491cb8a8c0c57e28	SM128.z64
+9f7c028c38e88b7f65ff9b2599336fd4	SM54 All or Nothing Demo.z64
+afa252df74b0b6efdbd618cc50955b1c	SM64 - Chill dein Leben 2 (Ger) (SM64 Hack by Blackshadowdrybones).z64
+ae9dda9a23b8386977197b4de3b0d2d4	SM64 - Christmas Carnival Special (Skelux).z64
+45bbd5f2c8bfe90975f6043ba65eba4c	SM64 - Insane Edition (Demo) (SM64 Hack by Rapitor).z64
+a81704924a0e847476da40baa1d3d9ad	SM64 - Jodie Edition (Alpha) (SM64 Hack by Marcelxbla2).z64
+24dc0f78ee36019ded8c881ece9f10be	SM64 - Pirate's Grotto (SM64 Hack by SirRouven1003).z64
+9a381159ffc9db3c076e1ef8eb68db68	SM64 - Sky Stories (hack).z64
+f2847e5cfd3b0e5b215da73b64de9db0	SM64 - Super Mario 74 Extreme Edition (hack).z64
+cfae7d725fc7086449ac6bf327fb133e	SM64 - The Final Star 2 v1.1.z64
+c7d892ca4b060edc55cef108ac19e100	SM64 - The Final Star.z64
+f6ea9ae1ab59168c0b44eb1c795b9443	SM64 - Tower of Eating (WIP) (SM64 Hack by Vileshaff Conker).z64
+0a2442748fe69702b9e5df3ccb0beb99	SM64 - Twisted Adventures (hack).z64
+1516ad037ef257b3948371fc4a5e62e2	SM64 - Twisted Adventures 2.0 (hack).z64
+f8ba4ad9c89c216355c0ed84e1b1b4a8	SM64 2 Bowser's Revenge (Preview 2 DEMO).z64
+2803f6131510eb23c04f26a74ac07951	SM64 2 Bowser's Revenge DEMO #2 - For Machinimas and other SM64 videos (SM64 Hack by StupidMarioBros1Fan).z64
+0458706d60431f424f694bad36aa3cb5	SM64 2 Bowser's Revenge DEMO #2 - For Machinimas and other SM64 videos.z64
+d82d9dbb2e51695abcc84d5b58fc06e3	SM64 2 Bowser's Revenge DEMO #2 - Luigi (SM64 Hack by StupidMarioBros1Fan).z64
+0c7ae41a43998bae911f12f3524b44f8	SM64 2 Bowser's Revenge DEMO #2 - Luigi.z64
+d88045a931a6acec333892d6a6310989	SM64 2 Bowser's Revenge DEMO #2 - Mario (SM64 Hack by StupidMarioBros1Fan).z64
+70f4f854790a3b9e7444b73feb586ba5	SM64 2 Bowser's Revenge DEMO #2 - Mario.z64
+aad7c2aced9b6a2c94b9e692e842e1b5	SM64 Astral.z64
+d59e554bc9cb7580f0e3de4792f8c5fb	SM64 Boonster's Peril.z64
+6080ad58b5d1f85645c8c738e836dd49	SM64 Bowsers Hinterhof.z64
+58a7ffd51e0640dee127d8ae71051346	SM64 Butterfly Edition.z64
+f385619a1b6a1f29a552ff78e21d798b	SM64 Contest1.3.z64
+e84975bd9689c6e2704d934ca7032d50	SM64 Cypher Edition.z64.z64
+11455a356e580cbee7eab7ad759a2286	SM64 Der Schulhof.ext.z64
+2574bb426e5e3aa8ca6c4aca21ad2c48	SM64 Ghost Race 1.2.z64
+5ad72d0628e0f86980526b98ae43e1f8	SM64 Ghost Race 1.3.z64
+31b85a2fa576a8c6078634acca14ebfd	SM64 Ghost Race 1.4 - 32MB.z64
+e46a42aea48012df1ca79a8d6a2f7a69	SM64 Ghost Race 1.4.z64
+5c3322db091ea82672dfcd6584eec86c	SM64 Ghost Race 11.z64
+52662cb0a1d7cf5d74598dc2c1dff9a5	SM64 Ghost Race full game.z64
+4d04cb84d69c12f3fc8f736f12905ba5	SM64 Grand Star Demo 1 (Hack by MarioGame2222).z64
+89f4d2b5c81257c8afc0afaa86c0c38a	SM64 Hack 8 Stars by LordHack28.z64
+23b3b3d8baa4e0be276fd360e4989647	SM64 HD Bob Omb Battlefield.z64
+95da1be02bddd2414ffeef7142096ab0	SM64 Hidden Stars (SM64 Hack by MarvMario).z64
+1068e7265c738d3754cebcbe35200226	SM64 Jodie Edition [BETA].z64
+0a7e132794c3ba6663229d443843f014	SM64 Last Impact (widescreen).z64
+6af2990446cb3e0ca36a63403bd5e192	SM64 Last Impact by Kaze Emanuar (SM64 Hack).z64
+5aa79bfbfc612471a1e8810f8c2b7c39	SM64 Last Impact demo.z64
+70059d4d7ba7ac0f0741b44aec8b44dc	SM64 Last Impact V1.2.z64
+da8f60e00aaecd268701ad3d91359c31	SM64 Level1.z64
+7ab609ed03f525c24170db5618e91bad	SM64 MADNESS (SM64 Hack by Kaze).z64
+9643a48ecacb3c2a879d50cb9ffe6459	SM64 Multiplayer v1.0.z64
+b9189bd798fff3d86813dc60c6cbf354	SM64 Multiplayer v1.1.z64
+c7d019640fe1535f43839678fcbfe989	SM64 New Generation 0.1.0 (DE) (by ThefastNero).z64
+32a61013d4f554e36f12f53fa101866f	SM64 New Generation 0.1.0 (English) (by ThefastNero).z64
+fdd9ee13dae06cfbcf461f053cc490ff	SM64 New Generation 0.1.0 (Francais) (by ThefastNero).z64
+b5490ac87a3467b11baa2b586a310f4d	SM64 Ocarina of Time.z64
+160bc6c253c44831bc5741955e4eb44b	sm64 relaxing is over.extended rom.z64
+1214a5f27baf310e7e9ecf237b94734b	SM64 Rot ist Tot.z64
+97038bf3a60441adfdfe6da699c0a133	SM64 Second Sun.z64
+b165d10fb207ebdb2c73633aab102030	SM64 Shining Stars 4final.z64
+b1de2124c8aab465c807f24649232b51	SM64 Sir Rouven 1003.z64
+3f53a006c64480aac3ea4cde707eee86	SM64 StarRevenge (Demo1) (SM64 Hack by BroDute).z64
+cc4054b1e444d7b1c6abaad82ce280da	SM64 StarRevenge 4 - The Kedama Takeover 64 - Rewritten - Sanae Valley (Ger) (SM64 Hack by BroDute).z64
+105ae6c73c73129c067458bb57974112	SM64 StarRevenge 6.9 - Luigi lost in Time (SM64 Hack by BroDute).z64
+a9d603765b0f6ccc797c6eb9a5559cf0	SM64 StarRevenge 8 - Scepter of Hope (SM64 Hack by BroDute) [f1] (Couse 5).z64
+6b4204ed140f9c762967d7ed82ae3524	SM64 StarRevenge 8 - Scepter of Hope (SM64 Hack by BroDute).z64
+8c2ad1d80509298e12bfac755e9d225c	SM64 StarRevenge 8 - Scepter of Hope (v1.1) (SM64 Hack by BroDute).z64
+34511e5e5c5870942981c2cfddc93c92	SM64 StarRevenge Demo 2.1 (Hack by BroDute).z64
+bf5c8ab0abfbe13e7e60df20c4a795ec	SM64 StarRevenge Night of Doom (Deu) (SM64 Hack by BroDute).z64
+21626e519b662a2084adc6393ad3d7c9	SM64 StarRevenge Night of Doom 2.0 [Night of Troll Edition] (Eng) (SM64 Hack by BroDute).z64
+2434157f9e8f822d4b6b60d5cf41b062	SM64 StarRevenge Redone (Deu) (SM64 Hack by BroDute).z64
+474a07778bf373425a8f42cc91bd6f28	SM64 StarRevenge Redone (Eng) (SM64 Hack by BroDute).z64
+d3e64b743a8bf84779ee98437b7268bc	SM64 StarRevenge Redone (V1.3) (Deu) (SM64 Hack by BroDute).z64
+9c3c97e37fa6d25d3873ebd6b890de1f	SM64 StarRevenge Redone (v2.0.0) (SM64 Hack by BroDute).z64
+f9cf2fa34cb53cff530027e0489a4aa4	SM64 StarRevenge Redone (v2.0.1) (SM64 Hack by BroDute) - Multiplayer (v1.2) by TheGael95.z64
+86ef8be089b3a38e11965a09338324c7	SM64 StarRevenge Redone (v2.0.2) (SM64 Hack by BroDute).z64
+67ae3d958e807e04e1844058435b5fdf	SM64 StarRevenge v1.1 (Deutsch) (Hack by BroDute).z64
+cda13697230873b048fe86ea1febe8e6	SM64 StarRevenge v1.1 (English) (Hack by BroDute).z64
+6b2886a3ffad7bb17fa080fbc83b50c8	SM64 StarRevenge2 - To the Moon - Demo 1.11 (Hack by BroDute).z64
+b2a1e47e68120fc7320ceecc7dd69fe3	SM64 StarRevenge2 - to the Moon (Demo1) (SM64 Hack by BroDute).z64
+b30e0c300b9dc9adb2983b863757b4ea	SM64 StarRevenge6.5 - Wrath of the Dim. Flower (SM64 Hack by BroDute).z64
+12af877be362a0fa27e87e1c412aa229	SM64 Test Worlds (v1.0) (German) (SM64 Hack by Apioeus).z64
+bc81481b44435f47e176990890a95d0e	SM64 Test Worlds I (v1.1) (German) (SM64 Hack by Apioeus).z64
+08281bc1205374e55412386564f5641d	SM64 The Green Stars (v1.1) (SM64 Hack by Kampel125).z64
+f421db4744a10ee2819c73ba93329ad1	SM64 The Green Stars (v1.2) (SM64 Hack by Kampel125).z64
+855666b2db4aa351faac403b2e9ae778	SM64 The Green Stars (v1.3) (SM64 Hack by Kampel125).z64
+4f2250b0fd7fc96e6aaea91460292fff	SM64 Treibsand_Wuste.z64
+5cf9c677a29fad48e121c25f2172903b	SM64 Verlassene Ruinen.z64
+8c23bc190cf9454d59e55b352c8be10a	SM64 VerstrahlteFabrik.z64
+5b43eba944a980037244edc9118b33c7	SM64 Wacky Worlds v2 (Demo) (Dudaw).z64
+dad91ec176b4ba51859775bf0e381797	SM64_Chaos_Edition_V2.0.z64
+5c8618507ec678308d0c308304978635	SM64_Ghost_Race_2.z64
+f499cac33b026efa2a1754a4a525874c	sm64_old_luigi (dudaw).z64
+667b79732887523125e5ec564a9a674c	SM64_Pro_Skater.z64
+e55b835543b5f9623ad8e4b4d106671a	SM64BB DEMO FR.z64
+a612c69548c9e3f74929fcded30578bb	SM64BB DEMO.z64
+d9ea905727b44f2774926cb03c2300a7	SM64Disk.ndd
+f2e9d6e95e451ea62d74b12efe68aabc	SM64SSV.z64
+c48ec3f82aa9cb6a76c75512a35638cd	SM74 Ghost Race 32MB.z64
+e2fffc5f02f87f0d198a88cc636af53e	SMarios_Nightmare_64_v1.0_DE_(Apioeus).z64
+214682d8da9174fa4473d0e4f2e4f317	SMB 1-1 accurate recreation in SM64 by Kaze Emanuar (SM64 Hack).z64
+6c91472b5b0f8ab499eebfb67e2b12f3	SMB64.z64
+80a18accf7c7e78a7f988cda04e07a16	SMS in SM64.z64
+b819920d865d9fd5fa20c3f2ea31ea05	Sonic Adventure 64 (C3 Demo) (v2.0) (Eng) (SM64 Hack by Megaman511again).z64
+0ffe57a4ee5600856dc8fd9e6cd79a2d	Sonic Adventure 64 (C3 Demo) (v2.0) (Ger) (SM64 Hack by Megaman511again).z64
+ec5965b060f02053318714af05968f92	Sonic Adventure 64 [C3 Demo].z64
+80ca7dd9c41d6e3d6b8df2674c9bbaa6	soundmonkey.z64
+c54536dada56b027b27e1bbd2453da5e	SPECIAL FOR YOU (SM64 Hack by Frike The Dragon).z64
+72a9ea0589a6e2ab6ffd9899be773913	spgame.z64
+8570e14c81aa516547040b02fa178476	SpriteMonkey.z64
+83a1afb442d6ca6f28b5ee13e9e9bc49	SpriteMonkeyEx.z64
+dd5d2f4064b2e597b42dff0f3df43d2a	Star Legend 64 BETA (V0.3) (SM64 Hack by Skelux).z64
+6160523e38f6952170b4d1fb39c3165f	Star Revenge 2.5 Remnant of Doom.z64
+9267081e0d61eb10801c41d821c14a2b	Star Revenge 5 Neo Blue Realm v1.1.z64
+012fe1b9ecbdfcdf507b4d9e45bcb107	Star Revenge 5 Neo Blue Realm.z64
+d05a0bceefb3e8e1b2c2f4608303a281	Star Revenge 6.5 Wrath of the Dim. Flower 1.z64
+6d06927ddb53e60c7dd7d301c4493f24	Star Revenge 8 Scepter of Hope v1.2.z64
+a1d6f66cf59937e161dd0017b72a4a37	Star Revenge Redone v2.0.1.z64
+4076973cfda277fc876e9f066cc73deb	Star Wars - Shadows of the Empire (USA) (Beta).z64
+dbb7ca1e2f08201128910cbdfcc226f1	Star Wars Episode I - Battle for Naboo (U) [t1].z64
+05b266eca375a88598e61476cf744b4c	Star Wars Episode I - Racer (U) [t2].z64
+1b1063f68713340e9cc217b6cd2ca7f8	StarRevenge (Demo1.2B) (Deu) (SM64 Hack by BroDute).z64
+d631fd5af47eafaa82e1da0ae934c1cd	StarRevenge (Demo1.2B) (Eng) (SM64 Hack by BroDute).z64
+b889ad4ba66256066c8331405b896ea1	StarRevenge0.5 DE.z64
+c28d7e3c23d79a40620525ce30e66ff4	StarRevenge0.5.z64
+26e49faa8a8763c0f2290c2897521200	Stuff SM64 hack.z64
+3bc71dedc45559fab1a42067b3fe83df	Super ADHD 64.z64
+b8832e9e58659912cf03795fbbcf398c	Super Banjo Tooie 64 [German] by Kaze Emanuar & UED.z64
+7798106c8981a0ab07fd60f41ee37b6f	Super Banjo Tooie 64.z64
+afdf8695a318ea755d451bfe7f0f6a56	Super Banjo-Kazooie 64 (Beta) (English) (SM64 Hack by UED).z64
+850a8f06972df6a8b5a262d0e0c5bc78	Super Banjo-Kazooie 64 (Beta) (Germany) (SM64 Hack by UED).z64
+f170cfcc9ea0db1cbf890fa87cde41f1	Super Banjo-Kazooie 64 (Demo) (Hack by UED).z64
+173634d85ef6d4221c7e225796100bad	Super Bowsette 64.z64
+996def9e6c4ea914da216f125393d5a5	Super Chrizz 64 Mario VS Bowser Teil 2 Neu !!!.ext.z64
+603a93a18f6ef507f07b30ae1684d404	Super Cunt 420.z64
+ee3091cdeedbbb45ae2f4431c9239648	Super Cunt 69.z64
+78232b3f0d46450dd05330a8282c4094	Super Daisy 64.z64
+b135c42aa748a881c66d32720f8fc052	Super Dario 64 (final).z64
+2ccf5e5794ddce670b2ffb828edca4dc	Super DK 64 .ext ED.z64
+a88d3a9dc474dd2661043ec68d6f6d1d	Super DK 64 .ext.z64
+82230a51a2e3102d210e4a20ee051330	Super Donkey Kong 64 (v1.0) (SM64 Hach by Kaze).z64
+732556723f46102eaa62958da4995af4	Super Donkey Kong 64 (v1.2) (SM64 Hach by Kaze).z64
+f8fc0187de6427a37f91940e741c3a92	Super Duper Mario 64 ED.z64
+46884aac4de001a48a4a6497ef9b50ac	Super Duper Mario 64.z64
+a2958f7238cd0d28e2cb5b2e1f491387	Super Gay 64.ext ED.z64
+492df73f759490f30b56cd0f969b0cac	Super Gay 64.ext.z64
+abb12f29f942503c695596f4f095d27a	Super Luigi - Majora 's 64.z64
+f1860744faa5d5cbe76a39b8951be7f7	Super Luigi 64 - The Texture Stars.z64
+b0c157f40c0a599dcdc940c6aa3800ee	Super Luigi 64 (Multiplayer) (SM64 Hack by JoelELPROXD5).z64
+88e137f9db365f8f805d324168bccc3e	Super Luigi 64 (SM64 Hack by JoelELPROXD5).z64
+d329bebd8b58d9517d5669221493216f	Super Luigi 64 (SM64 Hack).z64
+7a4a33d395a2b3bd24c4f99c3664f9f3	Super Luigi 64 Bowsers Plan (U) [!].z64
+33ec78e9aa3d2a8d841e84bb702e2c55	Super Luigi 64 made by Green Star.z64
+a8e53df807a47bc603bdbb38e582aae4	Super Luigi 64 Pro Espa√±ol.z64
+19ae7e5056c25477e94c060d55ae0dda	Super Luigi 64.z64
+ada0321b57b3874cfb93762e5c3eb904	Super Luigi Galaxy 64.z64
+3577c29de41cad9687de7b61aa021d40	Super Mario - Cyclone Fighter (v1.0.1b) (SM64 Hack by TheGael95).z64
+5a0bdf4607b09e5fb0da0b8f787eba2d	Super Mario - Cyclone Fighter (v1.0.2a) (Eng) (SM64 Hack by TheGael95).z64
+b4f9ac60b33e56641a71cda52c1c00aa	Super Mario - Cyclone Fighter (v1.0.2a) (Fre) (SM64 Hack by TheGael95).z64
+2288e585cc83827ae65288b2f89f958b	Super Mario - Cyclone Fighter (v1.0.2b) (Eng) (SM64 Hack by TheGael95).z64
+65043e4d7075493febbfdbc4d1dbbe8f	Super Mario - Cyclone Fighter (v1.0) (SM64 Hack by TheGael95).z64
+5b5396190e4afbb4d2d358a699522cb0	Super Mario - Star Road (Final).z64
+3a52b260a34b765653a751f5453981ec	Super Mario - The Halloween Star (SM64 Hack by Fares242).z64
+e68ab6c50506491e96caf0142fbff12b	Super Mario - The Power Star (Christmas Special).z64
+283d769d5bb4e826aa27de0865cac002	Super Mario - The Power Star Journey (Beta) (04-05-2012) (SM64 Hack by Fares242).z64
+102a6884fcc26478b4869fc1ee4dc277	Super Mario & Planet Stardust's Rampage (v1.0) (SM64 Hack by Fares242).z64
+5cd65c46ee099ce338baab56cac535ce	Super Mario & Planet Stardust's Rampage (v1.0).z64
+aa8b46ea954de89ee225d98a12b9bc36	Super Mario & Planet Stardust's Rampage (v1.1) [non-published update] (SM64 Hack by Fares242).z64
+c67d4b452ca74915161d94cf0ff2cbdd	Super Mario & Planet Stardust's Rampage (v1.2) [non-published update] (SM64 Hack by Fares242).z64
+beaf6363d4a0de5d3aa27623db1e0ebb	Super Mario & Planet Stardust's Rampage (v2.0).z64
+e7ada8c4e9b02226dfa10f78d7776b9d	Super Mario & The Big Power Star Hunt.z64
+8ac3364377219a289a2316067ab35e48	Super Mario & the missing memories DEMO.z64
+b5650f1800397e75e30a955c3257fe88	Super Mario 128.z64
+1dadbea3682ae995b707d386393f1981	Super Mario 22 v1.z64
+f3c84c47c2dd652dbe1e8a85ad774b9a	Super Mario 22 v2.z64
+f696b0f77e78a14cd67ec059d4e2c865	Super Mario 22.z64
+c44f551f11f9d588f8e2d3a577941831	Super Mario 420 ED.z64
+bb21da46ad17c9c87f9e374f1a5eb3b9	Super Mario 64 - 2nd Beta Revival WF Hack (Level 24 Mountain) (SM64 Hack by Beccabeta64 & Dudaw).z64
+483d020aa62e3ee0cc062bd6f5ebfc22	Super Mario 64 - 4th Of July 64 (SM64 Hack by FireMario74).z64
+cc839af32a175888b988db5c2bc622ab	Super Mario 64 - A New Adventure - Beta Worlds (Demo) (SM64 Hack by lezg_g).z64
+ad0158f45b32530222cfbb32fb3c8ef7	Super Mario 64 - All or Nothing.z64
+373274636a6885f46c78425b980e7546	Super Mario 64 - Bob-Omb Richard's Master Test.z64
+7b5de2ac00f8ac515138daf33bb9b2b4	Super Mario 64 - Boonsters Peril (C3 DEMO).z64
+478e1fc0a3fda9aaf23be260128820b9	Super Mario 64 - Chaos Edition - V1.1.z64
+0b034a01fb840735cbb6a80652800728	Super Mario 64 - Christmas 2012.z64
+eae0f433de037f76cdb2db9ab569caa8	Super Mario 64 - Christmas Land.z64
+6e643532cf376194ec518ec55d70d35f	Super Mario 64 - Christmas Special.z64
+01b2ad39d8e4fbd1254972219baa814b	Super Mario 64 - Curling (Eng) (SM64 Hack by FrittenFriseurLPs).z64
+eef1b384f5c4e95ce6a86d0676b7776c	Super Mario 64 - Curling (Ger) (SM64 Hack by FrittenFriseurLPs).z64
+5ce499c445cb49b84456eca9629e0c85	Super Mario 64 - Custom Expert Stages 1 - Chomp Island (Hack by Doopliss).z64
+38de4890e0bead391d6d85ac46462db2	Super Mario 64 - Custom Level - Christmas Machinima Map (SM64 Hack by Bronzed_Mario3).z64
+e20b0a3cdb463482ebf9dfa5e91a6dbc	Super Mario 64 - Custom Level - Dead Mans Dungeon (SM64 Hack by codgod66).z64
+4666420ac4e4009a9133ad7ff797fa10	Super Mario 64 - Custom Level - Floating Island (SM64 Hack by codgod66).z64
+475627165a0217c66454dfab7a5451a0	Super Mario 64 - Custom Level - Invasion Gumba (Ger) (SM64 Hack by Gamelefant).z64
+e83ccab14432042b4ee32eae3005cf9f	Super Mario 64 - Custom Level - Mystic Mountain (Hack by codgod66).z64
+ea6a322b87f3eec6de4de451f41c2a04	Super Mario 64 - Custom Level - Nickerwuste (SM64 Hack by Nico).z64
+72047ec53c9845482d581ce7753ab9e2	Super Mario 64 - Custom Level - Paper Mario House (Happy Birthday SMG4 2016) (SM64 Hack by StupidMarioBros1Fan).z64
+64566c7eebb530504cb6e2d5adab354d	Super Mario 64 - Custom Level - Silbernes Himmelsschloss (Ger) (SM64 Hack by 22neptun).z64
+5104433a64001fc323fcf68a2712230b	Super Mario 64 - Custom Level - Sky Level (1st Custom) (SM64 Hack by Camden1101).z64
+2584e6df0a89346aa05094162695b804	Super Mario 64 - Custom Level - Star Brigde (SM64 Hack by Jamelle Cullens).z64
+f7315a9cef6c500fa2d2f110c1165861	Super Mario 64 - Custom Level - Verlassener Canyon - Poket Edition (Deu) (SM64 Hack by chEddy091).z64
+cf091ed67f362486137ab3e4285b51fa	Super Mario 64 - Custom Level - Volcano Island (SM64 Hack by Camden1101).z64
+ecb04991075cdabfe05d49d942bf49b0	Super Mario 64 - Custom Level - Wild, Wild West (Test) (Hack by porcellusstudios).z64
+630b85bb696c765bcbb58e2ebfc4745f	Super Mario 64 - Custom Level (SM64 Hack by HatchetMinecrafter).z64
+4de9ed7783f4abf44153b7cba3e7eea2	Super Mario 64 - Die Rache der Anderen - Teil 1 (Eng) (SM64 Hack by FrittenFriseurLPs).z64
+a1423434344415be56739fd4c6d24689	Super Mario 64 - Die Rache der Anderen - Teil 1 (Ger) (SM64 Hack by FrittenFriseurLPs).z64
+ecdca2f965965e8c43f9796e247880c4	Super Mario 64 - Easy Worlds (V1.0) - Chaos Edition (V1.1) (SM64 Hack by Pilzinsel64).z64
+10c6f4a37d8e0655b4f788577f17519d	Super Mario 64 - Easy Worlds (V1.0) (Chaos Edition) (SM64 Hack by Pilzinsel64).z64
+b4e21def21227b4fef0211b07140d2e5	Super Mario 64 - Easy Worlds (V1.0) (SM64 Hack by Pilzinsel64).z64
+4c257b666cfb4a613c032309e9524fea	Super Mario 64 - End of Days (U) [!].z64
+d5e024907b320d0005d2dcc371ac87e3	Super Mario 64 - Extreme Edition.z64
+8628e441840616dcd2ea08b3fc1508d8	Super Mario 64 - Forever BLJ Control (Hack by Tomatobird8).z64
+6c56689ffc15791820e02a8bc4736f13	Super Mario 64 - Goomba Skylands (Hack by Tomatobird8).z64
+f641c5a28fb214dbc0ace40c4a6c19d6	Super Mario 64 - Imprisoned Stars (DEMO) (SM64 Hack by SizzlingMario).z64
+b21aeed871ae17647f3a2b5db60ac51b	Super Mario 64 - It 's A Crash.z64
+17d7e5167c45d957f3899f0647018f0f	Super Mario 64 - Kirby Edition v1.1 (Dudaw).z64
+88efc39a5ed937488b1a4143700fea56	Super Mario 64 - Legend of the 70 Power Stars.z64
+69a95b5f3efb9583864e0fd102aefa40	Super Mario 64 - Light or Dark (v1.0) (Super Mario 64 Hack).z64
+dce16a17b3d40521142e6acd45fa0cd7	Super Mario 64 - Mario 's Future (demo).z64
+dfd21f97bc7836cc57348d4e71ca12a7	Super Mario 64 - Mario's Dream.z64
+b9e3ec84de2156fc53c143e8abb61de2	Super Mario 64 - Marios house (v1.0) (Hack by Tomatobird8).z64
+bb5cb5ad2ec680d5a9821fe8bbff01b1	Super Mario 64 - Multiplayer v1.2.z64
+5fa61c4dc41732506ec387ad5c72d555	Super Mario 64 - Multiplayer v1.3.z64
+0b294b6a95d459efae1fbc28349a9f2c	Super Mario 64 - Openworld Edition (v1.0) (SM64 Hack by TheGael95 & The Ankle Destroyer).z64
+04fc4a63090e41239b1d43719f519c46	Super Mario 64 - Openworld Edition (v1.1a) (SM64 Hack by TheGael95 & The Ankle Destroyer).z64
+0e58140eb2b61e8415ad61b668ecb8aa	Super Mario 64 - Openworld Edition (v1.2) (SM64 Hack by TheGael95 & The Ankle Destroyer).z64
+fa6ba4edeedc7d24e16d767c7eb37d5c	Super Mario 64 - Openworld Quest (SM64 Hack by MarioCrash64).z64
+bb025fd8c4947f102923c1d5a85621a2	Super Mario 64 - Organ of Matrias [complete].z64
+772093aa73efbe96d2285cbd80c06d91	Super Mario 64 - Partner's in Time - Yoob's Belly (v1.1) (C3 Demo) (SM64 Hack by Megaman511again).z64
+436439db2b78a5c371d1e4bc49b570bb	Super Mario 64 - Peach's Christmas Invitation.z64
+809a52b17c4387aafa53dbd86013df0e	Super Mario 64 - Relax Your Life (Deu) [T+Eng] (SM64 Hack by Blackshadowdrybones).z64
+8949572b9acf5f5a8785a5e0af3ad86a	Super Mario 64 - Return to Retroland (SM64 Hack).z64
+06730b253e6d72327d0d9421a51b6773	Super Mario 64 - Revenge of the Shy Guys.z64
+b2121a6e348e1fba06cba5354a6ae462	Super Mario 64 - Rode Hack v2 (SM64 Hack by Daioh33).z64
+fb7b01fd016c676a3b403aab57db733f	Super Mario 64 - Rot ist Tot (Red is Dead) - Extreme Edition - Play as Banjo (Ger) (SM64 Hack by Blackshadowdrybones).z64
+db1ce516874e89d2fd6fe943c0efff47	Super Mario 64 - Rot ist Tot (Red is Dead) - Extreme Edition - Play as Ed (Ger) (SM64 Hack by Blackshadowdrybones).z64
+7b2366eb8397901c6b74c49728d904c3	Super Mario 64 - Rot ist Tot (Red is Dead) - Extreme Edition - Play as Glover (Ger) (SM64 Hack by Blackshadowdrybones).z64
+147ee773cd5987e750cc0768334daf70	Super Mario 64 - Rot ist Tot (Red is Dead) - Extreme Edition - Play as Waluigi (Ger) (SM64 Hack by Blackshadowdrybones).z64
+9df0a640a7c821b7467aebab6314b568	Super Mario 64 - Rot ist Tot (Red is Dead) - Extreme Edition - Play as Wario (Ger) (SM64 Hack by Blackshadowdrybones).z64
+b7e3963ee309bde4a0b55e61774c9fe6	Super Mario 64 - Rot ist Tot (Red is Dead) - Extreme Edition (Ger) (SM64 Hack by Blackshadowdrybones).z64
+19dd2dcb65acd411180eb5d9baddb689	Super Mario 64 - Schlimme Hoehen.z64
+e5dd636ebfdac120ed81ad4191e5f04c	Super Mario 64 - Shining Stars (demo).z64
+322c27be591714c31e34640eb9e6e22d	Super Mario 64 - Shining Stars 2 - Mirror Madness.z64
+7bd04aba12f5150ef9066237f7434f98	Super Mario 64 - Shy Guy Invasion (Dudaw).z64
+c3ae73f60a9f3ae1e2c770ef426349ce	Super Mario 64 - Sky Stories (Hack by The64MarioMan).z64
+479f1e7ed8da3dc35256e517360e00a9	Super Mario 64 - Star Revenge 7.5 Kedowser's Return.z64
+c96b97fc4f300717ca9a98852b3d325b	Super Mario 64 - Star Road (U).z64
+9d952252f87375680bad81f369249660	Super Mario 64 - Super Duber Mountain (Hack by Tomatobird8).z64
+583bf5c058fde34ef3091f26ee3ba80e	Super Mario 64 - Superstar Saga [C3 2014 Demo].z64
+db48dec8be427b4335aef0ac6fcf3a08	Super Mario 64 - Temple Explorer.z64
+fe0af9836c4443acd99c029578503c64	Super Mario 64 - Test Worlds.z64
+651f717259a65eb93867e93946bb5d95	Super Mario 64 - The 10 Lost Stars (v1.0) (Hack by Tomatobird8).z64
+4ebb93f61f3a00ca6a8c06f82bbb9967	Super Mario 64 - The 10 Lost Stars.z64
+2594eb00366410979c3ba3149d4b8a30	Super Mario 64 - The Green Stars (v2.0).z64
+07274b65069b97f99d40c45cdde82198	Super Mario 64 - The Missing Stars (v1.2) (SM64 Hack by Frauber).z64
+c83ab7b6c8f3b2b77912ab10bd011f38	Super Mario 64 - The Secret Stars (SM64 Hack by 9Redfly & TheFurte).z64
+c1b8bde3717e7cce52fff7cc32bca928	Super Mario 64 - Thwomp's Easter Egg Hunt.z64
+6f8c4910f2a8e1f43e07ea009f3fc817	Super Mario 64 - Time Machine (demo).z64
+3580b6eb0e26f89f9d89a615ef1663c4	Super mario 64 - TsucnenT's Treasures (SM64 Hack by Yorozuyakun-Pocket).z64
+2d0e8090ef236fca175c1fcc44b2732c	Super Mario 64 - TsucnenT's Treasures 2 (SM64 Hack by Yorozuyakun-Pocket).z64
+7c93edf08954f2fa2c5e6bfb370659f9	Super Mario 64 - Twisted Adventures (Hack by Mrivan97).z64
+81f0c5759dd1a3ec128a13272fb9a5e2	Super Mario 64 - Twisted Adventures (v1.1) (Hack by Mrivan97).z64
+a0265d51a11af43b2611e6124271a6fa	Super Mario 64 - Twisted Adventures 2.0 (Mariocrash).z64
+99a420ec92d749d7cf9659a7c53e231a	Super Mario 64 - Twisted Adventures 2.1.z64
+47df277443059fa2d75b81f4f00b1139	Super Mario 64 - Wacky Worlds (v1.0).z64
+55a0b62380cefeac768764b41dc734ef	Super Mario 64 - Wacky Worlds (v1.1).z64
+69f7a3bdd18650cba932bc123b2eda29	Super Mario 64 - Year of the Plumber (Beta1) (07-21-2013) (SM64 Hack by Meltfire).z64
+8c290c3c2b30fe0ccc2611ee68407c6d	Super Mario 64 - Year of the Plumber (c3 demo).z64
+7885d075c76868163d69cb68d7a592ad	Super Mario 64 - Ztar Attack (1.5) (C3 DEMO).z64
+2fa9440627b3168e222ed455e530b414	Super Mario 64 (Adventure - Legenda de Mini Mario).z64
+7faad64537796d976d99b4ab2e412b2d	Super Mario 64 (Alpha) (SM64 Hack by Gehle Chris).z64
+3b0eefd274662176f3603ee083fb685a	Super Mario 64 (Beta Replica v1.0b).z64
+e8ad88c1efa396a422aabf1bcb1627ba	Super Mario 64 (Beta).z64
+60d59df81e57d3df8282ee0d5dc7021f	Super Mario 64 (Bowser's Return Part 2 Easy).z64
+17db7f62d09a54ab9afc6fae48614ac1	Super Mario 64 (Bowser's Return Part 2 Normal).z64
+773e740a2348ec143c90ffdd14af181a	Super Mario 64 (Castle Bleck Preview).z64
+9bdef07e0788b37a75bcb4625096fcd6	Super Mario 64 (Custom Title Screen hack).z64
+509cdcbc8eedcab22f20495a4496e96e	Super Mario 64 (Mushroom Kingdom Stadium v0.4 beta).z64
+9e951343f1b380fef2e4aac908856e7e	Super Mario 64 (Shadow Lazer v3.1 alpha).z64
+dbef07614740c42b732cab3e8d6939fe	Super Mario 64 (Sixtyforce v1.2).z64
+47975e3e3366d6a128b59dc1b6edfd15	Super Mario 64 (Special v1.0 hack by J.Seigal).z64
+0bfdff42313d603a7551623756a6c0d0	Super Mario 64 (Star Legend v0.3 beta).z64
+161763f5d0b93f4c2062b181074cd263	Super Mario 64 (U) (Hack Multiplayer 1.0 by Skelux).z64
+3d20a1ba1da4b5156208afb5490f8950	Super Mario 64 (U) [!].ext - Kopie.z64
+3692c51e992dd5821d640bfe4de1fffd	Super Mario 64 (U) [!].ext.z64
+240eaa04c7ffce3c009a6ba60dc05cab	Super Mario 64 (U) [hack1].z64
+7e3e6ebcf47810f772e0c344daaa49c1	Super Mario 64 (U) [hack2].z64
+fe9499c9642fa52759773671c1caf37b	Super Mario 64 (U) [hack3].z64
+c6b7ca4a9eb94b886a7512a819be9ef2	Super Mario 64 (U) [T-Spa_Unknow].z64
+264533287774edc2a3537316ed3e3517	Super Mario 64 (Unknow name, unknow author).z64
+92227820da329261e6b45b5d4b0be208	Super Mario 64 (USA) [tr Es 0.90 Sogun].z64
+b6d756253338f7a28f460bf3bb929314	Super Mario 64 (USA).ext.z64
+a360ed688615fbcc18d2df1de26498fb	Super Mario 64 [T+Rus_Shedevr].z64
+70856747d7c9e0e2e7ea498ed6a190f7	Super Mario 64 2nd Beta Revival (Beta1) (SM64 Hack by Dudaw) ED.z64
+789418abf67499f5f5d63c5875101b6b	Super Mario 64 2nd Beta Revival (Beta1) (SM64 Hack by Dudaw).z64
+94c1ea3139de61ba479754f09ee24332	Super Mario 64 Adventure in Hellt.z64
+fb2935add4cffa8d8821d5a50ce448a5	Super Mario 64 and the Colorless Kingdom! (U) [!].ext ED.z64
+cdcb35f9672f86a9e2c453af6c6c1428	Super Mario 64 and the Colorless Kingdom.z64
+f58913269e84534ccd9e97a1e6d009a4	Super Mario 64 Beta by Dudaw12.z64
+1d6a27524fa12d24f9d540b002f96296	Super Mario 64 Beta Revival (Alpha-Test) (SM64 Hack by Mrlsan1).z64
+d5dee63a126a79ea9b6e4f2e33d3d145	Super Mario 64 Beta WF.z64
+b756e7adf69316e3aa647ceeb3298853	Super Mario 64 Bowsers Plan (U) [!].z64
+4d29917be52de2a60bcf4bc271be3543	Super Mario 64 Chaos Edition v1.2 by Kaze Emanuar (SM64 Hack).z64
+8981bfe8eba67deff7df8c9e4cceae5d	Super Mario 64 Dark Dawn ED.z64
+554ee68d08aafce91dffd5288a34b8d1	Super Mario 64 Dark Dawn.z64
+8f50aff0691ed749c84ee3ebd2bf49e8	Super Mario 64 Dream Kindom Very small Village.z64
+cdf864de7309ba5f5ab1b88d45469cd6	Super Mario 64 extreme.ext - Kopie.z64
+db5cf5f2284cb5a0f98087620cb60f47	Super Mario 64 Fallen Stars Demo (SM64 Hack).z64
+a54d69ae4995713c3c02c0b7cec847d4	Super Mario 64 Frozen World (Demo) (Deu) (SM64 Hack by Javier Jafuenf).z64
+9d32f8c43189f139ce5ddda971304158	Super Mario 64 Gameboy Edition.z64
+728c5f439fb66896ade488b431c582b1	Super Mario 64 GP64 (Test) (SM64 Hack by GameProfi64).z64
+722180f8074abf9e9c0d9c7364efaaed	Super Mario 64 Hack (SM64 Hack by Linky628).z64
+2f85009c9cd0de69e0fd96fa73d46514	Super Mario 64 Hack (SM64 Hack by Xane).z64
+1a0db745b64db5fb5c839e19cd03ef81	Super Mario 64 Halloween Mayhem by Kaze Emanuar [2014-10-30] (SM64 Hack).z64
+6994a563ea79a20a6ada2fcd49dd4115	Super Mario 64 ImportTest.z64
+9a23686c29d2977ba2af5d6ef4c50e07	Super Mario 64 King Boo's Revenge.z64
+a2e1af8da24a7c9493fa047648c735df	Super Mario 64 Kirby Edition.z64
+5e02e5d26810337c51e6ed834e72ff16	Super Mario 64 LentiLevels (Hack by SomeRussianMarioDude).z64
+1ea5a4950f6eac14a637978815a71193	Super Mario 64 LentiLevels (Possible Demo 2) (SM64 Hack by TheLentiLP).z64
+44fbffbe19bb2fb108958794137e629b	Super Mario 64 Machinima ROM (Green Screen ROM).z64
+ce6f6047392a94bf9e4f40eafbb6e840	Super Mario 64 Machinima ROM (No Logo).z64
+c6ee872fab260058664ea8aae9f23ebf	Super Mario 64 Madness.z64
+312da219273a7b0af84d913f283e1b21	Super Mario 64 Maker v1.2c.z64
+054d2bfae54394e188b590df3b0066b2	Super Mario 64 Maker v1.3c.z64
+87f1ad9e0bbc9e37f30f517b2c9517ed	Super Mario 64 Multiplayer v1.1.z64
+84a07db8947fe8cc53a09f7044ec4932	Super Mario 64 Requiem ED.z64
+992f5f30f6687f950824d9c8886aaf88	Super Mario 64 Requiem.z64
+d8fe7d47e4c1b516291b0897c04a6bc6	Super Mario 64 Revenge Of The Shy Guys! V1.0 (U) [!].ext ED.z64
+4287e8e8700e08af05c31c1d10829cf2	Super Mario 64 Revenge Of The Shy Guys! V1.0 (U) [!].ext.z64
+3f3ade2a526b383fdf457487542eaaac	Super Mario 64 Scaling Test (SM64 hack).z64
+9f43e2833d0e998a9437eede06253b3b	Super Mario 64 Star Road beta r5.z64
+e9ed6af43682ffa7bf893c32311e6017	Super Mario 64 StarRevenge - Night of Doom (demo).z64
+650a756b6646f5c3f0f4dfd43f2a45ed	Super Mario 64 StarRevenge - Night of Doom (E).z64
+604824ba4f24fdefa36c412785e8171c	Super Mario 64 StarRevenge - Redone (v1.3).z64
+8ce87c9f969bfd17c11c2c97abedbfd7	Super Mario 64 StarRevenge - Redone.z64
+3a544814386dacd4046555b93e08ab04	Super Mario 64 StarRevenge 6 - Luigi 's Adventure - 7 free plays remaining.z64
+7b466ea1f28a0cd353fc97f64fa0a699	Super Mario 64 StarRevenge.z64
+f7d423247d61e63fdcd92847fa63a0a1	Super Mario 64 The Cake Challenge V1.3.z64
+cb2e2a5b63b07bc9fd4aa9df57eb04dc	Super Mario 64 the final star v1.0.ext.z64
+2292bfe39e92c7da03d57c06d603f2f9	Super Mario 64 Title Screen Patch by Kaze Emanuar (SM64 Hack).z64
+512a03c7c76c6c9e051613c33120fe3b	Super Mario 64 Treasure World Demo.z64
+27b56ca162911208b4ade03aeb467c2e	Super Mario 64 Twisted Adventures - Intense Challenge.z64
+126a95c2edfcf4d8b54d6b8f7a1b5ab2	Super Mario 64 Year of the Plumber.z64
+4ec4f5ed73fbffef24c8876fe2da505a	Super Mario 64-Mario Dream V1.0.ext ED.z64
+a629b7f4f9bb67d707a0725214ac13a4	Super Mario 64.ext.z64
+fb04bff4785df6dabc0218ac739c5118	Super Mario 64.ext.z64
+0678baeb4ab4b81c5698474e88a1058a	Super Mario 65 - Happy Birthday of Peach - DEMO (SM64 Hack by Skelenio).z64
+ac80c98f785bf2ba185b581d8db3c6c2	Super Mario 65 - Peach Birthday (2015-11-22) (Demo1) (SM64 Hack by Skelenio - GameprofitZ).z64
+c52b9eda3500880c7d85a0c036ffee7f	Super Mario 65 - Peach Birthday (2015-11-27) (Demo1) (SM64 Hack by Skelenio - GameprofitZ).z64
+10e0786dd64102fe2808ff35d2475d57	Super Mario 65 - Peach Birthday (Demo) (SM64 Hack by Skelenio).z64
+2c56bc65dfe243a88d9181e447dd9507	Super Mario 65 - The Rainbow Stars (Demo) (SM64 Hack by Skelenio).z64
+f79e7424194442db9a1ecc65c922dcb7	Super Mario 65 - The Rainbow Stars (SM64 Hack by SKELENIO).z64
+e9a2841c5e5e4b89e7a453c82e2bc22f	Super Mario 65.z64
+8d538bcdef5c68316cc4557575381852	Super Mario 74 - Extreme Edition (Deutsch) (SM64 Hack by Lugmillord).z64
+ee7673685f78ab9a6990b4f36eea1df3	Super Mario 74 - Extreme Edition (English) (SM64 Hack by Lugmillord).z64
+9151e55f13e30592f9d729835fff17d5	Super Mario 74 (U) [!].ext.z64
+270897f494f0cedd27c3b65b58c00a27	Super Mario 74 (V1.4) (Deutsch) (Hack by Lugmillord).z64
+c6f07e91ca68261715866a25b0ff68fa	Super Mario 74 Demo 2 (English Version)_(Lugmillord).z64
+15d688de0d23bb437d95c358c635465f	Super Mario 74.z64
+8e6813003c871644c476e6b3b2504a34	Super Mario 74E Beta2 (Hack by Lugmillord).z64
+a04e7d4f67fed34d13beb420cae32daa	Super Mario 88.z64
+06e3ad03d20943afb996d34ce61fe7ae	Super Mario and the Marvel Adventure (v1.0) (SM64 Hack by Kampel125).z64
+3b0fda772f58d5f234dba2192d930f86	Super Mario and the Marvel Adventure (v1.1) (SM64 Hack by Kampel125).z64
+e0d4ab44aba40fc297b92434902b912d	Super Mario Blast Off! (Demo) (v2.0) (Whomp Swamp Revision) (SM64 Hack by 55SuperShadow & Bigboo32).z64
+ae36607f4baf19bbfe45186f8e46776a	Super Mario Blast Off! (Demo).z64
+cd3a85daa62afcc91c96b1641607b908	Super Mario Boonster's Peril (2015-07-14) (SM64 Hack by MarioCrash64).z64
+4ac3b8b82994c2b2c3e71a97d708a48c	Super Mario Bros 3D (v1.1a) (SM64 Hack by Kaze).z64
+959dad439d0761677ea3b2adb572227d	Super Mario Bros 3D (v1.1b) (SM64 Hack by Kaze).z64
+7153df169b17310e81268f1aedbbb8f6	Super Mario Bros 3D v1.1b by Kaze Emanuar (SM64 Hack).z64
+07ce89e75e2d731b91c5475a51b64417	Super Mario Bros 3D.z64
+f84a269b5c325fc53f3bf83f8d012bfc	Super Mario Bros 64 v02a (Hack by Tamkis).z64
+0fd713758f37c50184e773f832c4cae1	Super Mario Bungle Trouble Demo.z64
+2f9d9399f992ddc0511aeecabce7b527	Super Mario Fallen Stars.z64
+cc1696ce2b415c492582d88563707438	Super Mario Galaxy 2 64 ED.z64
+1141e85bc5c85bd7bfd9814ee3ef2af8	Super Mario Galaxy 2 64.z64
+93c47a6e5d36edfa70ce7eddca7efae9	Super Mario Galaxy 64 (beta).z64
+71267ff2bc2ad5bfca72c1e33039f83d	Super Mario Galaxy 64 (USA).ext - Copy.z64
+dfbe9b84c87f918b6024ee5f22f33fae	Super Mario Green Stars 2.01.z64
+5565429b706560b54d66e98c5d512607	Super Mario h9.ext.z64
+55b9ac61671d54e2b4ddeff8b862a8ed	Super Mario King Bob-omb's Revenge (SM64 Hack by Fares242).z64
+b8088ee65f2c571b2b43e5843ae6c01a	Super Mario Mystic Isles.z64
+dcd04f6df4d4b18bea88f2aa2aeccf23	Super Mario New Star (EN).z64
+9e3ea1d7e4f129b36cd2e786fafa62d2	Super Mario New Star (FR).z64
+fac437a243384af1bb2b905c0930c920	Super Mario Nightmare 64 (v1.1) (Deu) (SM64 Hack by Apioeus).z64
+c54e4f586264c3b9a020127626368a16	Super Mario Oddysey 64 v3.0 multiplayers.z64
+fa4d81fed4f3f8006535c40024f3a8a2	Super Mario Odyssey 64 v1.0.z64
+249a05d5f1229414fb5fc6ca0c4a12e1	Super Mario Odyssey 64 V2.z64
+034285074e6066d7c8c36d7bc00b5081	Super Mario Odyssey 64 V3.z64
+a578c1af8bfce689265a3de6106d19bb	Super Mario Odyssey 64 V5.z64
+52e854f080c3fb740ece6f21d62e2c5c	Super Mario Parallel Stars.z64
+0b25a3f7246d58719c03c23f07b24e4e	Super Mario Pipe Palace (Camden1101).z64
+fc601ee7cc2c87836802ffbd5831f4c1	Super Mario Rainbow Road (Hack by Skilllux).z64
+60e26385e041f1cc58604aac3c379ed0	Super Mario Rainbow Road Deluxe.z64
+7000a0951b6869635acd2db75a53ff68	Super Mario Rainbow Road Plus (Hack by Skilllux).z64
+cfeebd64ac9b96dac0662f2ab12c53da	Super Mario Random Road (SMSW c Editon v1.3).z64
+258d5dec1402cf6020d60fb8114c5d14	Super Mario Run 64 (SM64 Hack).z64
+ff5faf62ce4b9a3bc4fc921c36d376cd	Super Mario Sacred Castle - Top Of The Honey Falls (Demo 1) (SM64 Hack by FireMario74).z64
+dd317d7dda97209c2743b33c15fac17d	Super Mario Sacred Castle - Top Of The Honey Falls (Demo 2) (SM64 Hack by FireMario74).z64
+8d55c112a64c885a4f215444f30ec8ed	Super Mario Sacred Castle - Top Of The Honey Falls (Demo 3 - Final) (SM64 Hack by FireMario74).z64
+e87dbc77934aeef779998ec7287a63da	Super Mario Scared Castle.z64
+90a924f127a1bcb4da660f49dc0727df	Super Mario Secret Galaxy.z64
+beea9488b8f15a670d824511207225b0	Super Mario Shining Stars 2 - Mirror Madness (Demo).z64
+51f270673b474abea8e6c1be9b327b60	Super Mario Sixtyfourtnite.z64
+fe0b61914af5c337338c3d0d0ced41ea	Super Mario Star (Hack by Misubushi).z64
+418c3567528283b64268ddb08f02dfef	Super Mario Star Road - Deluxe Edition (Hack by Skelux).z64
+08ed34797ee263b753ebc76c19f42192	Super Mario Star Road - Light Edition (v0.1) (Hack by Skelux).z64
+baa9bccc3237b35351c04bc0f6405886	Super Mario Star Road - Multiplayer (v1.0) (SM64 Hack by Skelux).z64
+66d68c94762672e166e2a387fa01b387	Super Mario Star Road - Multiplayer Edition (v1.2.1) (SM64 Hack by Skelux).z64
+1d53686fc36d1b2bfcbe3585b080b839	Super Mario Star Road - Multiplayer Edition (v1.2) (SM64 Hack by Skelux).z64
+be105827afe3bf512bafb2c21dafb6df	Super Mario Star Road - Multiplayer v1.1.z64
+734bd8a34d6fffb856d5c5b0ae53802e	Super Mario Star Road - Peril Mode (SM64 Hack by Skelux).z64
+dc25c74081244916a31472092d78a64d	Super Mario Star Road (Pre-Patched Version + Bug Patch 0.8.1).z64
+c5df6120fce40b4720a10c894fdd863a	Super Mario Star Road [f1 v0.1] (Hack by Skelux).z64
+aea11568704c8009b78c48ee8f4461cd	Super Mario Star Road [f2 v0.4] (Hack by Skelux).z64
+2322c383830ee8af61e01053604a0e4d	Super Mario Star Road [f3 v0.6] (Hack by Skelux).z64
+2578dad5ca12c68c3c9df00a71861e20	Super Mario Star Road [f5 v0.8] (Hack by Skelux).z64
+c9c3668b75c50d9ef3f04fc38efaa16d	Super Mario Star Road [f7 v0.9] (Hack by Skelux).z64
+59214417a808182c7d010ed5526580c3	Super Mario Star Road 1.0.z64
+e7038e631b0680ed0aea983c586a6cd6	Super Mario Star Road Deluxe.z64
+80e5019c9dd12648f909b3a5715ed580	Super Mario Star Road Final - Deluxe Edition (Hack by Skelux).z64
+a12c5f46415894ab05274007af0bc504	Super Mario StarRevenge 0.5 - Unused Levels [v1.0.1b].z64
+7b65ea00ef5b5bc4bf3e3334833274fe	Super Mario StarRevenge 7 - Park of Time.z64
+7640e4cbfe2136dea108d94276f5584d	Super Mario Sunshine 64 (retextured).z64
+9826962bc624f01e5e93a58feaf1f6a3	Super Mario Sunshine 64 2.0.z64
+651b2c3045038a158441700e54a12984	Super Mario Temple Quest DEMO.z64
+15c35494cb55e0e78c84e3d5c027c8d9	Super Mario The Battle Storm v1 (Fares242).z64
+3a9aea6a55af3f82225e8c71650c5da7	Super Mario The Battle Storm.z64
+55ce0a94a25d07443b9b14458e4cb0ff	Super Mario the Collapsing World.z64
+b513f6e7cabdbe29932a4bec8a7687a0	Super Mario The Galactic Journey v1.2.z64
+e68790eff8c1b1459812c9188e412685	Super Mario The Power Star Journey (Hack by Fares242).z64
+37c96645b4c5c2c6a15cd2d5ed0f3281	Super Mario Volcano Island.z64
+40d49f559ca7c7e4b2603cc78f9d0833	Super Mario Warp (TheLegendOfPianist.z64
+982c4cc3cd11d5cc27de8151bbd6c4da	Super Mario Warp Zone - Secret Star Zone.z64
+0ab75921a73d217d8a39c6adbf6bcd41	Super Mario Warp Zone (2011-09-14) (SM64 Hack by Fares242).z64
+47865f95e9b83eb2912fa34570a34692	Super Mario Warp Zone (2011-09-20) (SM64 Hack by Fares242).z64
+ab79105aeba827b79e854ac3256156b2	Super Mario Warp Zone 2 (2015-09-09) (SM64 Hack by Fares242).z64
+746e1da5778332e1816432f4fb9ec30c	Super Mario Warp Zone 2 (2015-09-15) (SM64 Hack by Fares242).z64
+d8305f21ceafa9ae80dc307d5a4e05d0	Super Mario Warp Zone.z64
+a4676b5c3208b545311855349eb4d373	Super Mario XD (SM64 Hack by Kaze).z64
+c2a7dd35ce895f7931a1e52d70636116	Super Marionose1 64.z64
+f17e2f4108d712850183d71d283f8e59	Super Memio 64.z64
+ac337506e55b899d8ec7fcc744470535	Super Monkey 64.z64
+38b7b4164c960e62e59c9a0642ab9c9b	Super Nightmare 64 (SM64 Hack by FireMario74).z64
+cc00704e40b9bc5050fb2d4b71953cf9	Super Pantufa Deux 1-1 in Mario 64.z64
+b820fe991e6fd734a9567fb5db1999a1	Super Portal 64.z64
+afcd9045f65a9f0535f99714532c04a0	Super Real Mahjong VS (Aleck 64) EverDrive Patched.z64
+6c3051c8ecd645fa5924ffc25d1a67f1	Super Releasio 64.z64
+f2cb476380ff5e05717ee21c647b48e9	Super Robot Mario 64.z64
+6455855f9d26879b719f743049a3133c	Super Simple Flips 64 (SM64 Hack by FireMario74).z64
+50ab17facb0e4bb9702ab6f45e7747cf	Super Smash Bros Plus. (U) (SSB Hack).z64
+9c2850d5d3b91eb4190a45cfcfa9a0b6	Super Smash Bros. (U) (Hack by Dark).z64
+8a44a932caa86b0e3e92f0c4f3293e1e	Super Smash Bros. 3D R1.z64
+14085a414617718f136957c1e4f98136	Super Sonic the  hedgehog 64.z64
+2d70a0ae68af5ec268c73fda532a0c64	Super Stupid Daisy Shy Guy World.z64
+f209d54f5e6487c8248d29a0ddd2f35a	Super toad 64 multiplayer.z64
+e7df5f30c353f3d15be135e2e563ea1e	Super Trash 64 (SM64 Hack by Chrizzy Gehle, Kaze, Pidi 64, UED).z64
+ab39de318d6ec0a17a4f5ad4ec70f971	Super Trash 64 2 - Michael Jackson's Paper Hunt (Beta) (SM64 Hack by Kaze).z64
+e925f945e6c201a00300eb7abb21eeef	Super Trash 64.z64
+ad70c2182c48576f609f9684d940d44f	Super Trump 64.z64
+d9e5ae0fdd7cc1b615b59dd7519cacce	Super Ultra Kaizo Memeio Road 128 Stars Extreme Edition Revenge Deluxe.z64
+bcc667d5b616d705b45b6564a4df3574	Super Unnamed Hack 64.z64
+4284569c60cef2e6c1ae9919aa54a0d3	Super W O A H.z64
+e099a10128b1453f6a3a253ec8ae8572	Super Waluigi 64 1.0.z64
+2a99df604b735dbaaa8432a630748f2b	Super Waluigi 64 1.1.z64
+4b046ef374f43b0d2068307d3b04a28b	Super Wario 64.z64
+bccc8c7b2feb8842eb7e5df83ec196e4	Super Weed 64.z64
+cf0a9a0ba8389d92cc93cd2f8e088ccf	Super_Mario_64_2_v1_1 (Luigi Edition!).z64
+e72ba07117be7ed1134e29b3864214bf	Super_Mario_64_2_v1_8 (Luigi Edition!).z64
+02bbbc56ac009cb1165919a10992098e	Super_Mario_64_beta_replica_INACCURATE (Dudaw) [o].z64
+84cd7269a9d921cda686ff0ca9b4c8ab	Super_Mario_64_beta_replica_INACCURATE (Dudaw).z64
+59c0b604042e46db56e9e18f0933d466	Super_Mario_64_wackyworlds_proto_beta_Dudaw12.z64
+8ef4fbfc406ddae9873eafa8ae3ba3cd	Super_Mario_64_wackyworlds_proto_v1_1_Dudaw12.z64
+19c9491dd517603be2fa3020c2f2deb2	superman64_prototype_raw.z64
+1170033980adc1981505cf958f35f1eb	superman64_prototype_resized.z64
+2de1417df8363aec168fcebeea43c4ed	teapot.z64
+6da71dc8bceef60d12a6b4ec6cb38e07	Temple Explorer 64.z64
+05701163508261e916b576e5933837a8	Termina Field (TheGael95).z64
+3ea7d7fb3d2b233c2ac4712609c93df8	Terrain.z64
+9485d5ba6494af7d5b5a1806b738968f	test64-rom.z64
+74db17fcf3db4fe4e8d5a5f479ca2e23	TexLight.z64
+2cbc82a98a732beae237d5ef65c6c6e2	The 7th Journey First Two Levels.z64
+0a9e68fe5c340c95d47ee15689472c53	The Forgotten Stars.z64
+b8a56bb38e072df195eea46bde6cf45a	The Legend of Zelda - Ocarina of Time - Zelda's Birthday (Version 1.5).z64
+6e0f888da4998a25a96580464bfed4da	The Legend of Zelda Hero of Hyrule by Shakem Beckford (2015-04-04) (Demo Dungeon) (OoT Debug Hack).z64
+893fc15fd20af2312eb47aa729bc9f8e	The Missing Stars.z64
+8e315cf7f79f6b940b516bd7f64257e0	The Wonderous Worlds (SM64 Hack).z64
+196297662d852dd33cb6a077405741ca	The Wonderous Worlds.z64
+6993d1a218a24ce4f6fe8186f5860b4e	TinyHuge Mario 64.z64
+7edb4cbe709a265c477fe773d6bb6dd4	TKT64-Pink.z64
+7572ffdaa30004c211d4958274772597	TKT64-Purple.z64
+5e50260b812c1323fe46fd719b441355	TKT64-Yellow.z64
+65b49cbd7e5d4a8045f493030ce93a56	TKT64.z64
+3d13954755edb09e15c9e6e8bc182042	Toad-Mageddon.z64
+0f13c074da1c7bb3cb9971fdece840bb	Toaster's Miscellaneous Misadventures 1.0.z64
+9161e7f9b4b75a923d9e8a4da32aa139	Tomatobird8's Single Star Speedruns.z64
+4dd10ccdf40cbd8771258fb2fa3e76d9	topgun.z64
+cd61a7fdbd7297733b246204e8360d83	ToyStory2.NTHE.z64
+db241dac800fa6612ab62253b524900f	Traumatic Tick Tock Tower.z64
+ea83f713d1e63280eca1abb31bbea4cc	Tricky Towerislands (SM64 Hack by Tomatobird8).z64
+d8cff0374734352e96b0e8e19ab13c9d	tron.z64
+5c71cec59736d53a060f5ab68d5bd9a2	TsucnenT Boss Battle TesT.z64
+05c69c84f4e0fd850ed5f3e3b8220daa	TsucnenTs SM Treasure World (Demo).z64
+a91bbc424f6465667d611bf33e78c58d	TsucnenTs SM Treasure World [v1.0].z64
+f15d14c5ef263efc685ae09bc4a54d81	TsucnenTs SM Treasure World [v1.2.1].z64
+103e16bf7fcfb4d713d2ebe19dcb5311	Tsumi to Batsu - Chikyuu no Keishousha (Japan) (Dub) [T+ESP] [T-Traducciones del TÌo VÌctor] [V1.0b A-2015].z64
+6e51b140a9b0c30d6f55ca7942a969fc	Tsumi to Batsu - Hoshi no Keishousha Hardcoded English Translation v1.0 Zoinkity.z64
+bf133747590a7a9a4a8e3a96e5a43dab	Turok 2 - Seeds of Evil (U) [t2].z64
+03d17aa3dc7663502017d3cc5a19aa8b	Turok 3 - Shadow of Oblivion (USA) (2000-05-31) (Beta) (N64) Original Dump.z64
+471bc81dd06c8518bae89795e193a309	Twhomp Sumpf (Ger) (SM64 Hack by Progamer Bob).z64
+99e5ddff44f1b3a7c1a795cd1c209d80	Twisted Adventures (OG) (SomeRussianMarioDude).z64
+52a6bf9c93f4714d247782d2aee8387c	u64 demo.z64
+6d5a72281e28ede2880278637d669759	Ultimate Doom (Doom PC Port).z64
+f01df0670b555e6baff9ee04a9a2d951	UltraCIC II Test Rom (PD) saturnu 2016.z64
+fd196bfef883f205670aec9fe4e3b1fc	unknown test.z64
+e9fc44c661715ad056a5d30922d5728c	UpdatedRuedigerEditionV1.2.z64
+5674e7f3eb91c8aebbba7bc7204d06df	Visible Parallel Universes.z64
+4d490aa9d5ffae21f984d050d402e638	Volcano Island (Vinnyboiler).z64
+fc94aa8d921ec4ed19ef4be7e280e22d	W O A H.z64
+02ab00a131d6561c4dc71af9baee0269	Wacky Worlds.z64
+12aa5a784876f7d7d5a7ac7827440ddc	WaLUIGI 64 (SM64 hack).z64
+065ade773fea6ace14e1ee38ed79d8e7	Waluigi 64.ext SM64 hack.z64
+e9013937e0025d305d35dbc259e54de1	Waluigi's Taco Stand.z64
+216f6a6dfd1f437703c8404d3d07c9b7	War Gods.z64
+716c82e2e73eb875529b092e1466fac1	Wario vs. MD [FrittenFriseurLPs].z64
+a3ad2f19b55b56ce5a5c1630e10b15ae	Warp Zone DX Demo (SM64 Hack by MarioCrash64).z64
+dcf8175677e75eaf202de7ce15ef9590	Watch 4 AI Bots by SubDrag (007 TWINE (E) Hack).z64
+938d3eefd77d46f8eaca091759ef0b78	Watch 4 AI Bots by SubDrag (007 TWINE (U) Hack).z64
+d66cef75dee986f0b51a1773145dcb22	Wayne Gretzky Hockey 98.z64
+b48d602360ebb9b9441c9294130d1a0e	WCW vs NWO.z64
+c7af007acbf98836cf1af58df9636249	WenteroLPs SM64 Hack .z64
+b15836275de8b970e169f9f413cc9f21	Wheel of Fortune.z64
+330cc1e64f7d541df1ddbe48e7505100	WheresDerpy_N64v1.z64
+15bb2006fc0afffd7ebbb18c3299a973	Wii64 (PD).z64
+7260da1cecd0d8844c5e29aa63476def	Wipeout 64 (Europe) (Proto).z64
+72b1edfa4b6d3bfd2aea398e07ec6481	World Driver Championship.z64
+cb79e2129ed9e0e2a52e5e9af71a3966	Wurmis Paper Adventure 64 Demo1.z64
+3c7598c1f69d0eba00c050239b35d83a	Wurmis Paper Adventure 64 Demo2.z64
+516e41afbb63c049b966e475a45c22e9	Wurmis Paper Adventure 64 Final version.z64
+9778ff1b5a078e921ff90b24efc5ea1a	WWF No Mercy (U) [t1].z64
+bd2b39dacdad7541148d3b26cdf60f1d	Yeti3D_Pro (17-08-2004).z64
+744e007cb5bee8029a006867e87441b8	Yoshi's Adventure 64 v1.2.z64
+875f187a2b8bcc9212f85535d274f75e	Yoshi's Island.z64
+30e9434d818732c60020e62be4091ba1	Zelda 64 - Multiplayer Hack.z64
+15cfa9a7265cf1e2bb16c73e3d8af4cf	ZELDA OOT DEKU TREE HACKED 1.1 by GCTK24 2014-11-21.z64
+f4fd262f0bbd8f8e29214c4b5c063b2d	Zelda SM64 Alpha.z64
+1395d3887284081879992bd499c0bfba	zelootma v2.z64
+233723e5eb15cf81082ec484d9417760	ZELOOTMA.z64
+101213482de7a991984536184593e03e	ZethN64 Restoration.z64
+8ac60638d712ded610e2e98b6bac9610	ZZZ_UNK_Dragon Sword (Alpha).z64
