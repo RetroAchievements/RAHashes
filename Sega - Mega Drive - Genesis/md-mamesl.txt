@@ -1,0 +1,2497 @@
+5eccf8b581dc63dd2031345fe1b7a7c9	12-in-1 (unl).bin
+42303b4e8c929e379ba5f328469f5286	13 mahjong 98 (unl).bin
+eb73019e35862ba47adef684d60cba56	16 zhang ma jiang (chi) (unl).bin
+bfb1d9117c821e4f798a3dedf6723b48	16 tiles mahjong ii (unl).bin
+325965a3a8c6a47ee8efd59e4abfc25f	16 ton (jpn) (sn).bin
+15361874deab5a8c3a7611a81f041131	16 ton (jpn) (gnk).bin
+ff340542ec290b92e03aa5115ea19c78	super 2020 super02.u1
+7a07e37da58c5e8c2750ec7a4c1b37e9	2020 toshi super baseball (jpn).bin
+25a0a451f0170aef337cb1e655559044	cosmic spacehead md mdcs e4f7.u1
+2b3655b2935c727ee6400721fb5b4451	fantastic dizzy md mdfd bb07.u2
+aee593260dc6d484534b30914bba1768	mdmm acd3.bin
+9712e35060274df553ab793b0cf71fdc	mdppf821.bin
+fd767c6430012357812681c45f638453	3-in-1 flashback - world champ. soccer - tecmo world cup 92 (pirate).bin
+5f6f9129e2087739d88689ead0fa9c72	3-in-1 road rash - ms. pac-man - block out (pirate).bin
+df666774c0b73e112739b68c8841658b	3 ninjas kick back (usa).bin
+da2febe0247983fa852dd3c99d438d2d	4-in-1 (pirate).bin
+7a43a9b9a1fd951ada76d0baf2f8ff26	mpr-13956-f.u1
+c19ccca8c2b87235cc3668d877ef0398	mpr-18212-mx.ic1
+f376c5e999040483abbd37efedfa3cf9	mpr-18213-mx.ic2
+692c8ae1698c12ae160b466a796653e2	mpr-18558-u.ic1
+9f54481697efc9e6b96fcd054883ae70	aaahh!!! real monsters (usa).bin
+3bb25145591e429ffe2c22a933841613	killertomatoes.5b74.bin
+009c279b77b890c7b197667d254cc362	aa harimanada (jpn).bin
+5377f8f1c83c521ccfb96457be9b2c78	mpr-13846 w53.ic1
+75458e38c278f61c06dabacc744b5fe1	mpr-13261-h.ic1
+bcb26dc14405b4c909d46626f9eec01f	mpr-12941.bin
+4adf124ff9d111cb3946a65020918d5e	action 52 (usa) (unl).bin
+7db63c82f6840bc7f89c0e8f538b6858	action 52 (usa) (alt) (unl).bin
+eba5f964addea18b70336d292a08698d	mpr-16147-f.u1
+f734e0d527d77396ceec2ef754338642	addams family, the (usa) (beta).bin
+072afca47f208fc29a3c7d83b5b3bdd8	addams family, the (usa) (beta) (alt).bin
+e33d811ef2ad7c6c826b2668415ab678	mpr-17991 r60.ic1
+b8f8b29cd48645d09340e4a4cd4b51e0	mpr-18019-u.ic1
+35252a13f24bd776b26c6f24e6572f90	adventures of batman & robin, the (prototype - may 01, 1995).bin
+be190588d8dcee5fdac69ace889146af	adventures of batman & robin, the (prototype - apr 28, 1995).bin
+98c5385580a6967a6aa9c53efa58e1b4	adventures of batman & robin, the (prototype - apr 27, 1995).bin
+0979d3dca105909089ee309bcc71ab2a	adventures of batman & robin, the (prototype - apr 26, 1995).bin
+b5ef867544dd0faa22d00e4847a1698d	adventures of batman & robin, the (prototype - apr 24, 1995).bin
+a2fef821af1841a082579e7602eaa53c	adventures of batman & robin, the (prototype - apr 22, 1995).bin
+4b90d0ff89a5640e50e90436dedfb26b	adventures of batman & robin, the (prototype - apr 21, 1995).bin
+d09c4d3103a6aa5759b6127b1ed8e2ad	adventures of batman & robin, the (prototype - apr 19, 1995).bin
+853fd2cc1e8c535480f249733c749ee5	adventures of batman & robin, the (prototype - apr 18, 1995).bin
+d544b5313e1e68815e866677f09bc26f	adventures of batman & robin, the (prototype - apr 11, 1995).bin
+05c161ca53b6ad17637164fac86d26eb	adventures of batman & robin, the (prototype - apr 10, 1995).bin
+253022c18c3ab3812bfbaf8f4bd2498c	adventures of batman & robin, the (prototype - apr 06, 1995).bin
+5b1bcb3793262d2d0282b49e0c2ee053	adventures of batman & robin, the (usa).bin
+d1c8b8474a9c47c5a2457b9549dee728	mpr-13842a.bin
+f497a6eb25c8bb08a12b85721b997b03	advanced daisenryaku - deutsch dengeki sakusen (mar 7, 1991 prototype).bin
+c277b15c9a7a3050e4b0bbcb796e27cc	adventurous boy - mao xian xiao zi (chi) (unl).bin
+dcab366c82c65fe8c463aac9f5c7a469	mpr-16603-mx.u1
+a5197857252c9c58fea12b36337d5673	mpr-17303.ic1
+7b8cdc053e9e12168ee8fb1da316a77c	aero the acro-bat 2 (usa).bin
+d111e3b10e610d54c97ce445fdfcdefe	aerobiz (usa).bin
+1269f44e846a88a2de945de082428b39	aerobiz supersonic (usa).bin
+401a31b3db4f14820e639c7a3efbb3e6	aero blasters (jpn).bin
+4e6f3e3db882f24a377c44c64cf30564	aero the acro-bat (beta).bin
+50f04f5c4c10158b757856f3d6845858	aero the acro-bat (usa).bin
+0d3186e5319dc2d21b14a7a2a59581ee	mpr-15488-f.ic1
+047d17cfd2c2b4528869da29a40f34af	andre agassi tennis (usa).bin
+cf1f25d730fc620fe8f1cd12a3b5a276	andre agassi tennis (usa) (beta).bin
+972f4f683356e33b1a4a832f41a34b87	mpr-13681 s98.ic1
+ac08a4c65e1d8d3b307ebd5331a1c285	air diver (usa).bin
+924e3ee7dc14644200c817acecc2d899	mpr-12893 r98.ic1
+60fb79cac46aced5e929aa8274884e6d	air management - oozora ni kakeru (jpn).bin
+461d82d8c84d61738c8de2dbbb543ccd	air management ii - koukuuou o mezase (jpn).bin
+3453bcc79345872034845cc5a7a1b15f	akumajou dracula - vampire killer (jpn).bin
+9fbca26577b356e31c93ec55422697aa	mpr-15939-h.ic1
+757fc895aa53ccfa2043c88b58b63855	aladdin ii (unl).bin
+6277640e7e0ca6c97afc400fdc9ad298	mpr-15959 t66.ic1
+bc3c35c79fe0bd1670aa34a3507929c2	mpr-15960 t67.ic2
+d20edfb6060bd750de56f2887356f59b	mpr-16069-s.ic1
+2c7aa9230da1e5a30dc7ba9172b17592	aladdin (jul 31, 1993 prototype).bin
+a6fc42bd5d19e36e5d8a2d8c4f4e9d23	mpr-15750-s.ic1
+77cab03485ccda68999822813a3beafd	aladdin (usa) (beta).bin
+cdcabca95b071e06eb278f67d700557c	mpr-12608a-s.ic1
+7945e04cf746a8ddfd58446517070272	alex kidd in the enchanted castle (euro).bin
+fdfc9df027de832b93d6f88e8bb2f819	alex kidd - tenkuu majou (jpn).bin
+088bdda3f56e794f06c02eeea1c033b6	alex kidd - cheongong maseong (kor).bin
+6dee3627fa7a28267efd07c51a467ad6	alex kidd in the enchanted castle (usa).bin
+793b92cd4a66921db6ca4f582a690db5	mpr-15061a.bin
+f9e32be60028206b3716f64f2ba0ab00	mpr-15061-f.ic1
+32aeea27591d0cb88dc571baa738804e	mpr-17867-h.ic1
+fd04c4616bb559e646937effdd343a09	alien soldier (jpn).bin
+0028a8f30e471dd14a20bf3e18f7529b	mpr-14680-f.u1
+87f6aeedef313d6d9d5126e55514d812	alisia dragoon (jpn).bin
+77be06102101759f30b416d80872c8da	alisia dragoon (usa).bin
+2ed5293e46abe1e74edeb96da0e7a618	mpr-12538f.ic1
+56f645c551c89c44b5ac2261e7d743e1	david crane's amazing tennis (usa).bin
+8603fdc3636eed216760d7a68b3f4a02	american gladiators (usa).bin
+df1549705afd667214bab80cda51437c	mario andretti racing (euro, usa).bin
+85b4c7b4b839e5b3614ae7b218129e12	fx014a1.u1
+ce0a42a75a9e374cf5092f34bf6927b7	animaniacs (usa).bin
+8cc928edf09159401618e273028216ea	mpr-15498-h.u1
+e81c004b80d1b39690ecf301dc24e0dc	mpr-16597-f.ic1
+4b7751c9fc162a1822e94e08b88c378e	art of fighting (prototype - jul 11, 1994).bin
+3b878b854302596cb197602878d0cf07	mpr-16830-t.ic1
+3cc6df243e714097f1599cf618f94d0b	aq renkan awa (chi) (unl).bin
+0eec7f8771ca70ad5ace3d46cb4be9d4	aquatic aqua01.u1
+a0028b3043f9d59ceeb03da5b073b30d	action replay (euro).bin
+1c0b65d3cc82f56f7ad05ce63dc4d097	mpr-18815-sm.ic1
+c8f4f5adc64fb344ca091982b60334af	20961p-t9712650.u1
+0e1cbc28671b781b174693d234a5a446	t97126-20961.u1
+d97ddf989c558f01a1da1f23e728f935	mpr-14764 w66.ic1
+0cb745c9304423250a418552bc871e64	arcus odyssey (usa).bin
+607de52681638c39c080966b3c7d7f51	arcus odyssey (jpn).bin
+a4e3e5bd68f166c1ef2aa0baf0f9d7e2	a ressha de ikou md (jpn).bin
+4916ade6b213b1f56864239db56fef0d	mpr-15153 w98.ic1
+fc2500f8a436e84a063e2b32707db1e3	ariel the little mermaid (oct 10, 1992 build).bin
+c77d184d22c4e6a5a365e99a0721aebb	mpr-12645f.ic1
+bca822ac1361480ed4474444eafb78d5	arnold palmer tournament golf (mar 22, 1990 prototype).bin
+cc6c03def1e6ca137ee4814d4920fa7d	mpr-13396-h.ic1
+7f8f0a581158a00b6799204c9afe646b	arrowflash.a04c.bin
+a53f365fb6997a537dff807344995c51	mpr-14384-t.u1
+ab647405bd156fbb8d3602f2c55fb1b4	art alive (sep 20, 1991 build).bin
+19a6e458c04c6e4d6b37ccc09627a211	arttool.bin
+30aab92d3fac54937e944a85ebefd850	assassins creed (unl).bin
+9aad38cfe5a2df30a85d8f9de1138bf4	mpr-15963-f.ic1
+2c2298760f7b9d1fda6c19e596c2e7d7	mpr-15961-f.ic1
+666a6ba7d982fa43c2599837de929d73	mpr-15962-f.ic2
+b93b38d6b5b2280bed4797c882b7ab3b	asterix and the great rescue (usa).bin
+02c6bf2683853e435f146ff2d65b212f	mpr-17719-h.ic1
+738885d494f40de7b09a7bd8903533e1	asterix and the power of the gods (euro) (beta).bin
+b63052973d5d550087d6b36ce8487fb1	mpr-13941-sm.ic1
+1742442f5472eb25bf202e85c481c50e	atomic robo-kid (usa).bin
+ddf044117b485dd51119ccbff1269953	mpr-13483.bin
+b953ab20d7bd508bd15d369339c67256	mpr-15286-h.u1
+6ddf32102f20c6f91b0d97bb5da5caad	atomic runner (usa).bin
+2dbad2e514d043d27340d640d9b138ac	mpr-17593-h.ic1
+6dd226b617349ef63d22228b79956811	atp tour championship tennis (prototype - sep 08, 1994).bin
+e193a0c2afc80e1c51c3fb4f410fe48f	atp tour championship tennis (prototype - aug 08, 1994).bin
+6e2d3bee800b1b863feb4a319c6d4ea7	atp tour championship tennis (prototype - aug 05, 1994).bin
+a5108f9111f61e37fb815bd41b72f9d9	atp tour championship tennis (prototype - aug 02, 1994).bin
+da9d12956727ef6c229be06edd330c42	atp tour championship tennis (prototype - jul 23, 1994).bin
+2be3d6ea85eae14a75f219d7de133439	atp tour championship tennis (prototype - jul 19, 1994).bin
+7dcbb3a816ecaa220ce54c215ecc16ac	atp tour championship tennis (prototype - may 09, 1994).bin
+723db55d679ef169b8210764a5f76c4d	atp tour championship tennis (usa).bin
+29d948108a1c768c20af6796ab9ffc47	australian rugby league (euro).bin
+39e714e70de9cb3c5200d344de804e51	avatar.bin
+3ad4ffc5046a21b6a7d7f5589c39dd76	awesome possum (usa).bin
+34c5206f16d805873cea0907cd1d5913	awesome possum (japan).bin
+3d2e30dc3065ac1f2c7fcb3f03440091	awesome possum (usa) (beta).bin
+69d0aa0d80988706215e015386a11fb4	aworg (jpn) (sn).bin
+3aba3d30118d7ff24f7dc4041247efd6	aws pro moves soccer (usa).bin
+2dc49f8d7f371cdc003a296f379907a0	baby boom (prototype - aug 11, 1994).bin
+3e5176ccdd2849fc2cd28d7a14978eee	baby boom (prototype - jun 03, 1994).bin
+5d768a29192443b67e21c01d03aee1d9	baby boom (prototype - jun 06, 1994).bin
+4414423f27efd460b578833a270ee04c	baby's day out (usa) (prototype).bin
+1412b2ee0dcc0cd191edf1cc3c3631f6	baby's day out (usa) (prototype) (earlier).bin
+412167642219d26ffc5994d07e31c561	mpr-14328-f.ic1
+165288c22589ef8c1a41e31215b52c34	back to the future part iii (usa).bin
+81b14012e083985135ca8f1420074d0e	bad omen (jpn, kor).bin
+e67c277cc6cbc821c3e0c1898a635daf	mpr-13677.bin
+4e1dea42312f072440322da246e8bbdf	lrog454-mbj 93112
+339a8c9a96fcdedb2922b04bcc34f0d2	ballz 3d - fighting at its ballziest (euro, usa).bin
+3e06ff4b7344ee11dc9cd15f307be6e3	bao.bin
+57705b055973733e8b9c25373a80f28c	barbie super model (usa).bin
+ec12d3cc11daaab593c0a24595e5a078	barbie.0000.bin
+8befaee319db7aa82ce1635184084d4c	barbie vacation adventure (usa) (prototype).bin
+2b27a61cdae4492044bd273c5807de75	9406 lhr acbbsg.ic1
+952e40844509c5739f1e84ea7f9dfd90	barkley shut up and jam! 2 (usa).bin
+3cd93f58822151c27bb9f7a7d3190396	barkley shut up and jam! 2 (usa) (beta).bin
+644dcd9ae972b6b63fce63c17d12620d	barney's hide & seek game (usa).bin
+434fbd3020f98201cea85d7e602b5212	barney's hide & seek game (sep 18, 1993 build).bin
+f720f63e5eb7e29efa8e652a1652f223	mpr-15762 t53.u1
+b87cb990d9238f252a4dd89077aa180e	mpr-14759a-h.ic1
+447ecc45d56903738fb21c0fdce477ab	mpr-14759-f.ic1
+7e0add665a16ce7d9965d8858c4c0ec4	barver battle saga - tai kong zhan shi (chi) (unl).bin
+c026339973fb54ec4a54078d2994dd48	bass masters classic (usa).bin
+622e303c560db177fe386229243ab7b6	bass masters classic - pro edition (usa).bin
+c4bc694fcc7ee608bd4b857a5ad49f86	mpr-14561-t.ic1
+49c9588affa2b64e3bc94cd5c1b5d38b	batman forever.u1
+b5b72e1157ace90aa9d0623a5687ecbc	batman (jpn).bin
+6c31495e2f75c4643837558488b03947	batman - revenge of the joker (usa).bin
+ae267331cfe46a61f65f3cbd5abcbe72	mpr-14998 t02.u1
+5ae78355da64cf17755175e9cfe48405	batman (usa).bin
+52d741f606e1b783443bdecf6185c111	battlemaster (usa).bin
+b5b815ef99b943fe0bad48dc13239b35	battle squadron u1 bat01.u1
+ec695773efefc2efb28d0fe687eedd60	battle squadron (jan 18, 1991 prototype).bin
+8cfd0e5a169193cf9c66e6d237a45d77	battle golfer yui (jpn).bin
+ba07d4050b453d68cb2bd7e28fc8f74c	shadow sha01.u1
+596c1dda590f4b6611132206c9184970	shadow of the beast ii (euro, usa).bin
+15af490814261081b6885f5bc1d9e187	beast ball.bin
+9cd4a754fcb6793d7470a6fa63903025	shadow of the beast - mashou no okite (jpn).bin
+7f4d8c08c1841e71c0d5222791d746ad	beast wrestler (usa).bin
+04a45f4f54f2d953a9a1977eee2ca15e	beast warriors (jpn).bin
+384c16a78639f0da26017ae07f0d271c	beast wrestler (sep 13, 1991 prototype).bin
+c86c3f1e23e09714ada725e69c81c46c	beauty and the beast - belle's quest (usa).bin
+a1ad9ddac033d6ea7d6ff1fe34aff627	beauty and the beast - roar of the beast (usa).bin
+428f3fd85102f22fc014bc98d32d7851	mpr-17425-mx.ic1
+8e4d7397374cb03528f4c886120dc3e9	beavis and butt-head (usa).bin
+969ef55c45dd21b6c3dc2222cd0c912c	beavis and butt-head (usa) (beta).bin
+b5616628e9ff5d6861201388d018b8bc	beggar prince (unl).bin
+08cdbf927351146e48a84aa2f3871855	ben 10 (unl)[rus].bin
+9c60d0a0dc49a0e9f076b7e6ed922c2f	berenstain bears' camping adventure, the (usa).bin
+e99984963bd33e58b05aaeedfa6cfebd	berenstain bears' camping adventure, the (prototype - aug 08, 1994).bin
+d32875091fa48c81a484533424a32c16	berenstain bears' camping adventure, the (prototype - aug 05, 1994).bin
+137106af307d8a3e9e4c8d75624dccf6	berenstain bears' camping adventure, the (prototype - aug 03, 1994).bin
+decb40cea8dc02b111627398d8808553	berenstain bears' camping adventure, the (prototype - aug 02, 1994).bin
+f2e8e3d932bebddfe3ef15b350cdda54	berenstain bears' camping adventure, the (prototype - aug 01, 1994).bin
+12e4ca9d0efb660382e555562316b7f8	berenstain bears' camping adventure, the (prototype - jul 20, 1994).bin
+69794eb109b27880a2703a87959bed06	berenstain bears' camping adventure, the (prototype - jul 16, 1994).bin
+5d705ca84a5a5f060311382c08171937	berenstain bears' camping adventure, the (prototype - jul 09, 1994).bin
+4ea9de352021cadc2862dd2628206378	berenstain bears' camping adventure, the (prototype - jun 10, 1994).bin
+671d0cb54b782ab80d21da287f06f115	berenstain bears' camping adventure, the (prototype - jun 02, 1994).bin
+eae425fb439971b17cfcdd2b40cb4907	berenstain bears' camping adventure, the (prototype - may 30, 1994).bin
+bc859868a13b0e8f615d16b382e63758	berenstain bears' camping adventure, the (prototype - may 26, 1994).bin
+132adbcbd7b50d750e0c66f1bf5b50c3	berenstain bears' camping adventure, the (prototype - may 23, 1994).bin
+4fa7ae2f11e38bd41bcf4f7f11b5c6b1	berenstain bears' camping adventure, the (prototype - may 19, 1994).bin
+6fbd84ea6b52ca7329087e1ffd24a593	berenstain bears' camping adventure, the (prototype - may 17, 1994).bin
+091e7287b99d390c0ae167a4575200fb	berenstain bears' camping adventure, the (prototype - may 11, 1994).bin
+62c500ff277a7606625a29e7527382ff	berenstain bears' camping adventure, the (prototype - may 06, 1994).bin
+23ed5305a534f3232016fcc304a2e9c3	berenstain bears' camping adventure, the (prototype - apr 29, 1994).bin
+b7106bdf02784dbc220162b244070f84	berenstain bears' camping adventure, the (prototype - apr 28, 1994).bin
+518929a12120e3b95a1c4f43aee5acb0	berenstain bears' camping adventure, the (prototype - mar 23, 1994).bin
+6f94c4d0e8591f11f03fd8710124fbab	best of the best - championship karate (usa).bin
+cf51fc9636aeef801b918f2d98831219	best of the best - championship karate (euro) (beta).bin
+5a79de198ed6b1ece2518574fe78d962	beyond oasis (usa).bin
+568c6351fbf0a0a98800fc10f6f09163	beyond oasis (prototype - nov 01, 1994).bin
+6e89c8eb5aae7e1adee3d1e8c3e4b0e3	beyond zero tolerance (usa) (prototype).bin
+8b7c5791d5b9c17c8ff1d33c2fa95490	bible adventures (usa) (unl).bin
+970b8c413f9dd8562f8979df1ffd4a84	frank thomas big hurt baseball (euro, usa).bin
+585030d462ab6de4c79dc434141d16e2	bill walsh college football 95 (usa).bin
+1d51bbd116b76c6fdd6b7dd4c80e4957	college foot bwcf01.u1
+74a18ab419737e7b32961377a5acbc92	bimini run (usa).bin
+972417a2c164de6bc5b44fa5c7da081f	biohazard 3 sars war.bin
+2d6764f7a96bb8b640a0d18102756ed2	mpr-15204 w97.u1
+e5d861fb4ce7560978b0d1aa5fbfb967	bio hazard battle (usa) (beta).bin
+bbe27f5a43be4bb2a11d119b3c1c70e1	bare knuckle ii (jpn) (beta).bin
+f1cb9e887bf4bc512d9535c89e420df7	bare knuckle iii (jpn).bin
+8dfd2e27faf766991bd4be258619a3ed	bare knuckle iii (jpn) (beta).bin
+0ef8cf31e77cf8fab03bd7540a4751c0	blades of vengeance (euro, usa).bin
+cbdce2630a531ab2c78a38ba62baece6	blockbuster world video game championship ii (usa).bin
+07bc4dfe3b29f792e548c3346f55357b	bloc-u1 blo03.u1
+d7ce4b537de0438e006afb785f1d0b07	bloc-u2 blo03.u2
+c324d9a3cbfa530996b6ad202686627b	mpr-14247-t.u1
+018dfe74603334a17296505ac3c6e599	bloodshot-battle frenzy.u1
+9679ee2799bf61dd97aaba0799e802ab	blue almanac (jpn).bin
+dd38021ff9cb67cfc24a1ad7447e4e3e	blaster master 2 (usa).bin
+c20ce14fdebdbdc8eeaa075edf684376	blaster master 2 (usa) (beta).bin
+dc3847b07cd94a15b1b9e0fb2ff5db11	mpr-13905b-f.ic1
+acf4aa6aea84be72afaa1a86954b85cb	mpr-13905a.bin
+9c6b56e9916aadee638f93c7f4bb1e20	bonanza bros. (euro, jpn).bin
+6dd99077ae4e896155a88363b0649080	b.o.b. (euro, usa).bin
+ac007195a983cf2c8057f144e3c58206	b.o.b. (usa) (beta).bin
+5128015e3441f5bbc9f8a59d9cfbe76b	body count (euro).bin
+6251cf2d9e84f5f2407fefb1e933b27a	mpr-16252 w51.ic1
+e64db3d4c2ccc0b0b3a24b54bc425ec3	body count (euro) (beta).bin
+7a0af89e2903e2aeaf163f97b0af8e3e	body count (prototype - mar 08, 1994).bin
+09ff6549ce8d3b950f1de2ab10eddccb	body count (prototype - mar 03, 1994).bin
+226654e9b049306b2167014660cbad7b	body count (prototype - feb 08, 1994).bin
+3bc0937881c6084925cdf92595843d6b	body count (prototype - jan 27, 1994).bin
+fd36dc99f8915416005880427fdae2d9	bomber [!].bin
+c5816740d93932870c5c466ea2931a4f	bomboy (unl).bin
+9b7b171a649415d2750e81337d641ad3	mpr-17070-t.u1
+9013785f9bed31b1ea6ba0d08cb21bbd	bonkers (prototype - oct 29, 1994).bin
+9f379dad60b5ec11956c117d61d0e54b	bonkers (prototype - oct 25, 1994).bin
+1ad94d276c11e7fddda671c781fc8d6b	bonkers (prototype - oct 04, 1994).bin
+a07d6ca02db650f699a2a46255720ef8	bonkers (prototype - may 03, 1994).bin
+b0ee3de606b980a99328da7bdb1e4c7e	bonkers (prototype - mar 28, 1994).bin
+37e028ebe6221a8c32ca4c60faab21d7	mpr-17344-sm.ic1
+77efb7aac4240f8736f50c1a6ac10348	mpr-17345-sm.ic2
+265a10bf2ea2d1ee30e6cde631d54474	boogerman - a pick and flick adventure (usa).bin
+ee802b11dcb833e0e8e4bca22a5fcd86	boogie woogie bowling (jpn).bin
+078031c74d8882d78f4638483394d3ca	boxing legends of the ring (usa).bin
+28fc33d71f9b55c5f8aa882b7aa006bb	brett hull hockey '95 (usa).bin
+10124f2ccf645d21af8f4a745f0905ec	brian lara cricket 96 (euro) (april 1996).bin
+50407b85bbc21a6647e2b649cbfe40aa	mdbl_9844.bin
+c55721a38b05b969b87f35a9608df887	brian lara cricket (euro) (june 1995).bin
+0d5ebd2b9eef80efdd811df85de96f21	brian lara cricket (euro) (march 1995).bin
+4c261cd950ad2ec2740a55ac5b3c64fc	mpr-17327-h.ic1
+00da204408d65c6d8890cf46a6de22c6	brutal - paws of fury (usa).bin
+40c5cfaf3bf17d525fa82a8f5a3ba4c1	tecmo cup (jpn) (pirate).bin
+0e086b6f7a4e98ba909c2c7e6ae8fa80	battletech - a game of armored combat (usa).bin
+eb93d57a82006dbfc865a2c51ce343f3	chinese battle chess.rom
+2857b7730fb7dbc5f7c1ec1a4ba1b0ee	battle mania (jpn).bin
+4ed295fa55e62ded8333981ccb7a31a6	battle mania (may 28, 1991 prototype).bin
+1ffe5b490cddeb691e3add6947024f83	battle mania daiginjou (jpn, kor).bin
+f1e299d6eb40e3ecec6460d96e1e4dc9	mpr-15395-f.ic1
+78f3ea32bcb4f627e4f9bc9711e017b8	battletoads & double dragon (usa).bin
+8e1f13ad0742e7b4309ac785f951fb93	billstomatogame.940e.bin
+444142cbf4012abe02d0d9420a2698e1	mpr-16678 w53.u1
+4395dfa22ed8e25a5bf26decb9392655	bubba'n'stix (euro) (beta).bin
+7f6f2774da5fb57435c31708a52d8738	bubba'n'stix - a strategy adventure (usa).bin
+e82e2cb58886f0d62f6fb71ea786fef6	bubble and squeak (euro).bin
+316c4eec04d89235978d17d06da33bba	bubble and squeak (usa).bin
+a603f331d2d8700543a67c60342e38f7	9330 lhr acbusg.u1
+87352883152efc168d1950cc0bbc73ab	bu2sg 7500-00032 b.ic1
+f768fbba021636fff3682b9ae116076a	buck rodgers buc05.u1
+4942999ca5961c0d94e2450e33729f09	budokan u1 s0015.u1
+4d247a5fc611e66dbe46f960292e3656	budokan - the martial spirit (usa).bin
+14e3eca30411f3f7b962f5f9c305cc38	budokan - the martial spirit (sep 25, 1990 prototype).bin
+e8336804126e38e118be63262c6aa763	mpr-18887-u.ic1
+3d6dc43a998301c6a9ed2fc1a7e8db40	bugs bunny in double trouble (usa).bin
+fff8006af9f09aae3f9b8570944ca1a7	bug's life, a (unl).bin
+6f3b4f61ffc291ca4cd5278cf12cc5c3	bug's life (unl).bin
+828f0c64662dec4cad1d973c79ad5823	bulls versus blazers and the nba playoffs (euro, usa).bin
+97e07d6d00662e1d688229233ececddd	EM20017.bin
+098130202a5ecea552a8714e656bb385	nba playoffs - bulls vs blazers (jpn) (alt).bin
+db1441972367b4cb708351fcb0736887	bulls 7099 bul04.u1
+87d3a0872dc08f07079de4702a21b27d	em20012.u1
+623b2c54f05869ffb3aac936f4a4182a	lrog4502-ebu 91372
+62e665f85281a33fb17cecd27674684a	mbu mb98570-001.bin
+da536d20ac0f0e3a62d9709078690032	namco gbu.ic1
+c9b85d5f6880e7734112887675115220	mpr-14761-sm.ic1
+40ff356c1fa5dc6c10a17c7868867042	caesar no yabou (jpn).bin
+7d24825ec576fea887989b48338877e3	caesar no yabou ii (jpn).bin
+aa6a145ddac88c7376939ec1e39469d1	caesars palace (usa).bin
+71a8c01301fe029f01f2f0b17f94d414	mpr-14337-h.u1
+6cb2871511f53a30996963f30839de75	mpr-14372-sm.ic1
+05f26229fc0bb0ce0e4b6bfe32952c45	cal ripken jr. baseball (usa).bin
+60f06161f62e0c11d2de317ceed3c24e	mpr-15499.u1
+1dc96693afd74e7b0623a6e06fbdcf87	captain america and the avengers (usa).bin
+39b52537d5e9ee1420b299930168af52	captain america and the avengers (usa) (beta).bin
+c2aa79a9bdfccf691ff07b9fc0e34355	captain lang (japan).bin
+4f95573c08f905466e01cf8e1bc59a73	mpr-15339 t08.ic1
+0edcef2bc04f338a5c7362f3007be037	captain planet and the planeteers (usa).bin
+f7f6f16a56a5fad6c7a458b9a7822d77	where in time is carmen sandiego (euro, usa).bin
+f3a7f38fc5516e1de23e294137475564	where in time is carmen sandiego (bra).bin
+73b10dc65ef1e21e9aaf2b34d74dc7b2	carmen world cwor01.u1
+74b8fb79ad7b5e3a8c6d39d687fa5a88	where in the world is carmen sandiego (bra).bin
+0858b912cec9913a3b21fca0fdae65bc	disney's cars (r).bin
+f4b600038306fcb9da30892936c6d258	cars 2 (unl).bin
+24863151abd5baf28c9386d49ffe3c09	mpr-13491 s82.ic1
+4995ed01f27b27b650a69390cee33a1b	mpr-13498-h.ic1
+a746211047bae10c2555d9d34c737279	centurion u1 cen03.u1
+0553bddd159175de2913c55c1f07a3af	centurion u3 cen03.u2
+80c93623c29ab70da823860a5f46e70c	mpr-17322-h.ic1
+8844a97b65994de94cf398cf4a3217c3	mpr-15274-f.u1
+872395592368d210ae55c7fd5d7077f7	chakan - the forever man (oct 6, 1992 build).bin
+5923b70dc6740d046ee97cd9e140adf0	championship bowling (usa).bin
+d1b3c5d7f2c35ed7fb522453c6dd5bb0	championship pool (usa).bin
+c54221bede5aef9e1cbba5b851e0ebdf	soccer 9417 s357.ic1
+a018893d4c91ee0c10338ff9870cf805	chaos engine 2, the (euro) (prototype).bin
+4227f1e8568dbb8582f91d90517fda8d	chaos engine, the (euro).bin
+93cacc2d10b6176afa16e4d08ab6ee1c	chase h.q. ii (usa).bin
+bc1b34b3915683d4e28afccda241ee5a	chavez ii (usa).bin
+a0a6cd7f82d2215ee51baec4bda150c6	cheese cat-astrophe starring speedy gonzales (euro).bin
+d769a45255a31638e336f77f33aba822	chelnov (jpn).bin
+102947ce4e33e4a90b3d45b58af8015e	chess (unl).bin
+ae5ee53f3f5fac58863cbd5111893127	chess (unl) [rus].bin
+2ff67d0b3eb089f25b7a9ad2c86f40a2	chess (unl) [rus v1.05].bin
+3ede93eaa945e70840631a2ad1f71bf6	chester cheetah - too cool to fool (usa).bin
+e4a419078b558efedb838dc581365bf1	chester cheetah - wild wild quest (usa).bin
+cc87eb04b44b13c5f37899835ba2eebb	chibi maruko-chan - wakuwaku shopping (jpn).bin
+e1c1be957c542f2e04153b305e7515c5	chi chi's pro challenge golf (usa).bin
+b89406ff3537d74f77a4f7e5e71b25b7	mpr-15310-f.u1
+e91cc2771c7801e8669117a0c2e06e40	chiki chiki boys (jpn, kor).bin
+eae446341ffc7e825c2d7c79222fedc1	chinese chess (unl).bin
+aa196bb3731b1fdbb065c42a30591543	chinese fighter iii (unl).bin
+14f05928d9539e6eaf31a7a0a64866d1	chinese fighter iii (unl, alt).bin
+20c6bdf4a3ebf59bdd52c09f5f020243	chip and dale rescue rangers (unl).bin
+aa046bcdc99e9ff53f27fed9f7b01539	chip and dale rescue rangers 2 (unl).bin
+252f8da6fde4d425836a66c0fdc73bf2	mpr-14833 w48.u1
+efd1546c7f4c8c76f36d6b3eeb9f5331	mpr-14772 w44.u1
+734cb71e8c88ef9c0560a233d2cbd19a	mpr-15715 t58.u1
+079305b34fb76a2198d5841b7148ab39	chuck rock ii (jpn).bin
+a9e607aed6b743ee42f9f9d25a49c881	chuck rock ii - son of chuck (usa).bin
+c4edd52da8f5bbde829008bfb6f9e272	chuck rock ii - son of chuck (usa) (beta).bin
+d2addc694146548fcbfe22674d25962c	chao ji da fu weng (chi) (unl).bin
+495a213c8de97512cdd858a20e822831	supermajonclubvers0000.bin
+7a8327df65336f3ae7c96c1b8d03c1bd	mpr-19299-mx.ic1
+98191aadab9bf8d02e8a6e3be1f73a36	mpr-17510.bin
+c7a12f405a2120594254fce61ea0c516	clay fighter (usa).bin
+869dd1fd5b1810ddfaef4123bfb2f3db	cliffhanger (euro).bin
+80a9ae4fcf1fbe626efa38a654f4e926	mpr-16262 w11.u1
+b4623e7baddc1ede96b58e3702816ca8	cliffhanger (beta).bin
+7deb4b6859c115e0c9ad816476237465	cliffhanger (usa).bin
+b570c484099ee0cb5ade264a4ea45db5	mpr-15228-s.ic1
+ae49a2f750e88c4dfc2b735a29b65185	command & conquer (beta).bin
+ac51f4585a42cba91d04f667dd1fd60a	coach k college basketball (usa).bin
+f54889e7ce17227d398669f9f4e7881d	college football usa 96 (usa).bin
+dcb35bb9064171f07bb8b49d43c24d5b	college football usa 97 (usa).bin
+76aab0e8bc8e670a347676aaf0a0aea3	college football's national championship (usa).bin
+d608a160eda8597113b3cdf92941a048	mpr-18308-f.ic1
+eeccdf938647966faf96e9fc827ba1b6	college football's national championship (prototype - jun 20, 1994).bin
+8a91da0f93335d5119178c7811a40096	college football's national championship (prototype - jun 18, 1994).bin
+dac302aedead02d200def333f8c2c5e1	college football's national championship (prototype - jun 15, 1994).bin
+3ee4085546c752920d2d22b1412632ec	college football's national championship (prototype - jun 14, 1994).bin
+b050aac40cb7c519d3eb1ff687f0a196	college football's national championship (prototype - jun 08, 1994).bin
+9eb1775d166a6938354acb4b80e54f11	college football's national championship (prototype - jun 07, 1994).bin
+6c5544db749df98fc17a00882b49900a	college football's national championship (prototype - jun 03, 1994).bin
+301feb771cecf210103b2f7052a004b8	college football's national championship (prototype - jun 01, 1994).bin
+b0d346e06238767aa96d0b795035d0f7	college football's national championship (prototype - may 31, 1994).bin
+2854371d8cd2be57835ae2e7eae5bbc1	college football's national championship (prototype - may 25, 1994).bin
+7eca51b63b839724d56216449a2e8c67	college football's national championship (prototype - may 20, 1994).bin
+8518e388de65856c0f7922cf4efc1e00	college football's national championship (prototype - may 17, 1994 - a).bin
+5a6786aa9f3bb94bde9e05d26c2b5e64	college football's national championship (prototype - may 11, 1994 - a).bin
+45921b29b5331aa154f52af17707ec6d	college football's national championship (prototype - may 06, 1994).bin
+e2cf97fb33951cfdf8ba69e5af153670	college football's national championship (prototype - may 03, 1994).bin
+ca3afcd0fb30a95d83597865a9b8f3aa	college football's national championship (prototype - apr 29, 1994).bin
+e2dcaa42e83489aa19e663a62a04dc48	college football's national championship (prototype - apr 19, 1994).bin
+3b5e9f7813ef189537ec92bf04b2076d	college football's national championship (prototype - apr 18, 1994).bin
+e5865753eb44bf2cfcb70af853521e65	college football's national championship (prototype - apr 13, 1994).bin
+5481f0cbab22ca071dad31dd3ca4f884	college slam genesis.u1
+b92d1477992ca143e02bf90ab2e2a118	mpr-13286-t.u1
+2ac307fcd67ab5fc1cbd29bb245196a3	mpr-13193-t.ic1
+441b7e9c9811e22458660eb73975569c	columns iii - revenge of columns (usa).bin
+eeb557cd38ad00d6b4df48585098269a	columns iii - taiketsu! columns world (jpn, kor).bin
+94b2079afe2a55e20135618bc5a947a9	columns (jun 21, 1990 build).bin
+4f4d0a9f44846e4d8a2548e1d33f3309	combat aces (beta).bin
+d951bf2f27fcfd5641261f82dc3c7c47	accarsg.ic1
+90a9a99f853eb1853be2b725dab758c9	mpr-18301-u.ic1
+d92ccdfd14118af824b98997ab639bb7	comix zone (jpn).bin
+9bfbbf751196b934dc159cb34fa3494f	comix zone (kor) (prototype - jun 09, 1995).bin
+7c03c9d77ecfe04414bbc2b446dd5ce9	comix zone (euro) (prototype - jun 28, 1995).bin
+262f58a1cb1e12393547eafc9ed5ad41	comix zone (sega channel) (prototype - jun 12, 1995).bin
+7078e8018ded17f3ce4c70cc8bf74afc	mpr-18005-mx.ic1
+e68281bee6a4e9620d306b197860a506	comix zone (usa) (beta).bin
+126c0243a5daf296e3677af3537100bc	comix zone (prototype - jul 12, 1995).bin
+1e042423d5c4de6305f5fe8db8bc9e73	comix zone (prototype - jun 03, 1995).bin
+c2e719791369fdb4782710a366683d7e	comix zone (prototype - jun 02, 1995).bin
+af84f854f1b8786de2f9a3d2d63c98df	comix zone (prototype - jun 02, 1995 - b).bin
+c531c9eb84363b1f27b3733808bf265d	comix zone (prototype - jun 01, 1995).bin
+2de83c5f995d0ae8f02f164872e3bacb	comix zone (prototype - jun 01, 1995 - d).bin
+e0e12c8fc66e81cbfccfd2e0513026c6	comix zone (prototype - jun 01, 1995 - c).bin
+af19d9cdbd2afa549df1ac30ddacce5b	comix zone (prototype - jun 01, 1995 - b).bin
+194ab49fd071f8e473b8ea36e5d769f7	comix zone (prototype - may 30, 1995).bin
+ae79228ad03000287fdbec7d5b7a8a10	comix zone (prototype - may 26, 1995).bin
+2de1202ed1d50254d4e3c75147ffaa14	commandos.bin
+be5b3fe839d98e574865c82a63a53026	congo (unknown) (prototype).bin
+2bd30479556da5c310d8f2a1fe66e8fa	fv010a1.u1
+3d94f57af4258416e65197a9da854219	contra - the hard corps (jpn).bin
+fe5d4230dde728a3f7e0da5cb6c17bc3	mpr-15477 t34.u1
+202349abae72c5328b46f75ab0e65d0a	cool spot (jpn, kor).bin
+5a5aa3643c700abdfaddc4fc70182535	Cool Spot Sega Mega Drive EP ROM 0 of 4.ic1
+767281110e947b12ed8a31e1fd32bc1f	Cool Spot Sega Mega Drive EP ROM 1 of 4.ic2
+a6082be0844d4686fa42263ab9426de6	Cool Spot Sega Mega Drive EP ROM 2 of 4.ic3
+fc4948ea9b6a3543d871c80fe5890120	Cool Spot Sega Mega Drive EP ROM 3 of 4.ic4
+74aeac0e83d75842ebee4cb86a89acd1	mpr-15476 w09.u1
+6b78857672b5cb69e04448adf2569e41	cool spot (usa) (beta).bin
+62f68ff2a01035f415f0911d9afb28f6	mpr-15065-sm.u1
+c35216ef28caf9615fdb8073cbe06225	cosmic spacehead mdcs 2d2e.u1
+3565daea22cc305dac5950d2c707971e	championship pro-am (usa).bin
+6c8f699d67c1dd8baade66b69cc771db	crash bandicoot.bin
+331d1bd3baf81feb8edaa1a56cab48f1	mpr-16259-s.u1
+917e91530179d1751c8759ac835ccf01	incredible crash dummies, the (usa) (beta).bin
+0fff02bda60e40504cdede461298806d	crayon shin-chan - arashi o yobu enji (jpn).bin
+d8da9b0ac3f479a339677b2b5a02be8e	mpr-13578a-s.ic1
+45479878d32cd32af5ffa29a6263605c	mpr-13578 s85.ic1
+f0a0a4e19e9f962afb304fbcadd8f101	crack down (usa).bin
+1b9cc19019765050293fad86215bead7	crude buster (jpn).bin
+d062b85cbbd54f57de313d09e5c0bfec	crue ball crue06.u1
+3f88fd60605c273538fc47ebfc46559f	crue ball (jpn).bin
+4ead1c30202dbc10ad3e327f69770570	crusader of centy (usa).bin
+c54dc959882622dc6e6cc92b03dd03b9	crying - aseimei sensou (jpn).bin
+35f24197067a98e82a426631a4e0cfe6	crystal's pony tale (usa).bin
+9ba10b3b30d5545eb3a4bb95c7af28c6	crystal's pony tale (prototype - jul 13, 1994).bin
+0e2124808a52c48665d693740094d625	crystal's pony tale (prototype - jul 12, 1994).bin
+b7ae6f8122a2967eb9a83cfbada6c82a	crystal's pony tale (prototype - jul 12, 1994 - b).bin
+d1a13afa41183ad06b00401bbddff13c	crystal's pony tale (prototype - jul 03, 1994).bin
+fe99841fd103114ccba7628538ee38c1	crystal's pony tale (prototype - jul 02, 1994).bin
+4e2baa899e7f7d9ec3ad5124408372c6	crystal's pony tale (prototype - jul 01, 1994).bin
+12d574f2e7e5201176a18982cecea292	crystal's pony tale (prototype - jun 30, 1994).bin
+778a113bda7fe14ec3bb2638842cfd3a	crystal's pony tale (prototype - jun 28, 1994).bin
+04426061b8cc5061cc6b5969b22ba44c	crystal's pony tale (prototype - jun 23, 1994).bin
+9917ea809359d75bc67671f2839138b8	crystal's pony tale (prototype - jun 10, 1994).bin
+f82ce686ce7a29bcdc12dec0950cca6a	crystal's pony tale (prototype - jun 06, 1994).bin
+793141a7e727056acb7b2affb7b43133	crystal's pony tale (prototype - jun 01, 1994).bin
+750d10f8907f3b21ea1b3d32fe21a471	crystal's pony tale (prototype - may 26, 1994).bin
+9a22b7882cb05bb23ec2974b6f98799c	crystal's pony tale (prototype - may 19, 1994).bin
+43a35dd73d60d4dc76894fb9e39234d8	crystal's pony tale (prototype - may 11, 1994).bin
+b86976b5b0bcd77a6b8ab9e0c745beec	counter strike.bin
+513c1a3f2ddd5b8bf705215f820ada72	curse (jpn).bin
+9cb8328ffa3cb8b932bbcdd4198ce50b	curse (jun 26, 1990 prototype).bin
+880181f9ade316969f0472b234f00978	cutie suzuki no ringside angel (jpn).bin
+f1e6ec5e3bf9c04670d10fbc89fb549c	cutthroat island (euro, usa).bin
+8661001147d09a5570796127b4143a78	cipreview.bin
+10d2e8576380e5c22d8771f470747c98	mpr-16378-f.1p
+b7ab3ef9d51d2ed9228deaad0203adce	castlevania - the new generation (euro) (beta).bin
+0f04fc1b5bf8c9a887abcf14ce96b0cd	mpr-16380 w42.u1
+e19be4bcb50e4908c5b9af3bd69caa39	mpr-13201-h.ic1
+0d4d655d51f1e2343c655bb1e95d6654	cyber-cop (usa).bin
+d2d8c19c67e14a0d509a454bd880bbdd	mpr-15468 t05.ic1
+06659b07be10429f2be6a57d83dea2cd	cyborg justice (beta).bin
+ad08cffbc0c443086dff8ab4414f18c3	mpr-17594-h.ic1
+46c556b4f5eafc2c880fda891820b44b	daffy duck in hollywood (euro) (beta).bin
+731b77ec3acab4aaf3b76cd3c8d82a41	dahna megami tanjou (jpn).bin
+d2c013ff76bf6672e54d0a726a82541e	mpr-14636.u1
+9a83cd8859e942816cc138e6165af0be	daikoukai jidai ii (jpn).bin
+113d3425757c0719660b885c4d66f5e3	daikoukai jidai (jpn).bin
+203213c107fc17731dc7953343b5ffab	dai makaimura (jpn).bin
+f7125fcd53073459a6b9b4e57ff71257	dangerous seed (jpn).bin
+4ab80160ba6811a48e0482c402941062	darius ii (jpn).bin
+56965eb7dde9bc22d16ffa72331c0e09	dark castle (euro, usa).bin
+f245ce06fdb2637dc346aa5cd47cf212	darkwing duck (unl).bin
+70b6289a3857f411361ef8cfd4bba4bf	darwin 4081 (jpn, kor).bin
+30b8d95e8d11baa846b97442d3f755dd	darwin 4081 (feb 21, 1990 prototype).bin
+e57518fc56217d300c0d3a49271991c3	dashin' desperadoes (usa).bin
+b1225f6afcb23597e665b32a2c463ed0	dashin' desperadoes (usa) (beta).bin
+26894597f09e8badaf4e527670c932d6	dashin' desperadoes (beta).bin
+d50db4bc4dfa14e7ec0fa8cf2bb718e9	davis cup world tour tennis 2 (beta 1).bin
+c2789976bfa41f1e617589db9043e3a2	davis cup ii (usa) (prototype).bin
+d1acc657850f56f19d0a027e8ea54a75	mpr-15925-t.ic1
+a9b4642a5b5d22f565222d2d8a4e04f9	davis cup world tour (euro, usa) (june 1993).bin
+f9e896decfe685123b1c22839807fbf3	daviscuptennis.5848.bin
+334d109c48ed477ad00eaaf7e38c6813	daze before christmas (aus).bin
+cc52c1838eb1a7e2bb968e6ff619e6ce	daze before christmas (aus) (beta).bin
+7bc51ab5bdb1016445b6850dd80b89de	dragon ball final bout (unl).bin
+ae9347eeea41c1a02565a187a4bf28f7	dragon ball z - buyuu retsuden (jpn).bin
+9386f82fc9ab95294ca35961db80d0b9	mpr-16675-f.ic1
+9b2d173d8f9f666886d62639ead35b4e	mpr-14856.bin
+6c34e2fd2b6800194dfad16fadaef820	double dragon (euro, usa).bin
+57169954f90bfef473f4952b9633e57a	double dragon ii - the revenge (jpn).bin
+97290f63b8c41c59813561679dadeb8a	double dragon ii - the revenge (oct 18, 1991 prototype).bin
+783a70fd1a6339d947a2ba8556bd7bba	mpr-15321a-f.u1
+0b2d342a98a3436faceaf539cbedf698	double dragon v - the shadow falls (usa).bin
+a2b23303055f28e68afce7b7e2ea9edf	double dribble - the playoff edition (usa).bin
+4f5f970a5fe5936c897bae017d88921e	mpr-14932 w46.ic1
+208652cf1e1f77405cf3e854f009d2b8	deadly moves (usa).bin
+bad983f37f654810f367bb2d659b19ff	death caliber.bin
+2bd0bcddda80b6dac8be82dc7e3a3d76	death duel (usa).bin
+d74e4a4218a5357808a43d94ba495c63	death duel (may 6, 1992 prototype).bin
+960a409245913c8adf10c4b3ed23ab04	death and return of superman, the (usa).bin
+283c180cede3352dabec75fff677052e	mpr-14249 w38.ic1
+e8283b24cd551a420414c16733d286d5	deer hunter.bin
+a7d8154ebc55d4d680d35c359ec1e0bc	demolition man.u1
+95bb9db45817400b60b010ad77b49ea0	demolition man (usa) (beta).bin
+5372cdde9efb9f1009810663d62d0050	mpr-17703-f.ic1
+e4416787ed2258103f68cfded85b4883	desert demolition (prototype - dec 19, 1994).bin
+eb5d701f3022340157f0026a995d08d4	desert demolition (prototype - dec 16, 1994).bin
+a243d22093e3ded04ac9a32e6587f96f	desert demolition (prototype - dec 15, 1994).bin
+c71e29afcc8bec7a9952656d1a85c083	desert demolition (prototype - dec 14, 1994).bin
+6716a1f018aaa5292ef0c772c9ad346d	desert demolition (prototype - dec 13, 1994).bin
+7ea6cada4b6f8216c9f7273c15d42f84	desert demolition (prototype - dec 12, 1994).bin
+36a69270e3bdf2ca18d234fa2bde21c4	desert demolition (prototype - dec 12, 1994 - b).bin
+d3a3fe7ee633f7d0d455116f0d42fd74	desert demolition (prototype - dec 08, 1994).bin
+2db2387fdae191fbfed286da5ebdc509	desert demolition (prototype - dec 06, 1994).bin
+6fa7cd092a175c9040b318d289ffff93	mpr-14669-s.ic1
+55478f7c52fdd4839296cd9660a89370	devilish (jan 16, 1992 prototype).bin
+f93c0545385edce6ccef288ac767c670	devil crash md (jpn).bin
+5fabe199a9dbc28df33598944140e1db	mpr-14931-sm.ic1
+d11ec9b230e88403cd75ef186a884c97	mpr-16990-u.ic1
+cdb36911439289d3453060f58682057c	dynamite headdy (jpn).bin
+57199a5663f2092186f10f7df3e38dc3	dynamite headdy (jpn) (beta).bin
+03e805f8b296124ea440179031c6154f	dynamite headdy (prototype - jun 22, 1994).bin
+be6ea06db12827c2b2d2b3fdd881d5a0	dynamite headdy (prototype - jun 16, 1994).bin
+038f4e2a70d923fe67b4b6c4815d16cb	dynamite headdy (prototype - jun 14, 1994 - cabeza).bin
+a9824750f4408d05e8ee2d91e5e05aa6	diablo.bin
+1807ac766310c0e705ca7442ba9012fa	dial q o mawase! (jpn) (unl).bin
+aed96d0a6c77759931d771ef0f6b0778	mpr-13661-s.ic1
+441c32abf70cf3587096fb4819205b80	dick vitale's 'awesome, baby!' college hoops (usa).bin
+d4d87c02660059a232773add892c2592	ronaldinho 98 (pirate).bin
+6a492e2983b2bc306eec905411ee24a8	mpr-17097.ic1
+e4c6cbf1a2ea36404fb69667cd080b4f	dinosaurs for hire (usa).bin
+c6d15f7e64341c1a12fd093108231b1a	dinosaurs for hire (prototype - may 02, 1993).bin
+2c64241c31024f877d30307f0d28f21d	dinosaurs for hire (prototype - apr 27, 1993).bin
+7b38a12a0673b86c542d9d601f3bf6f9	dinosaurs for hire (prototype - apr 26, 1993).bin
+804c5c0644d9318ba294ee6ef6503933	dino land (usa).bin
+3ec32aa6a689f562e0dad40a10f2f844	chou touryuu retsuden - dino land (jpn).bin
+122f44df25f3dd6a7f74f0f125905257	dinosaur's tale, a (usa).bin
+bf36ba0ef9f711d812c224b99cf0542f	mpr-19075-u.u1
+0df01daf6765a1c38377210e7957955d	mike ditka power football (euro, usa).bin
+60d51185c2a016223139e8e6ed8551ef	mike ditka power football (euro, usa) (alt).bin
+f02f44feeaf7222145fcb716a59c6e20	divine sealing (jpn) (unl).bin
+99334237bb08083ee70120f54f6973ef	mpr-14560-f.ic1
+ad9540bec43c7584508c14ffdd1ce690	mpr-13117-h.ic1
+6aef0333e2b1a495c867577ccf037493	mpr-13313-sy.ic1
+8edba746c8a5881714ce3c6dad6c3bc9	dragon's lair (usa, prototype).bin
+4f355e4928fef26e50179b0e11752aa4	ikazuse! koi no doki doki penguin land md (jpn) (sn).bin
+10e1a283689b071f668d83b27dec0e3a	ikazuse! koi no doki doki penguin land md (jpn) (gnk).bin
+9a7ecef8a6cfa430c454f59902e6fdc0	domino (unl).bin
+ea3030f3f793537c1d46ab1ddb4724b2	dominus (usa) (prototype).bin
+9565c34a058fb301a4691174d2151858	dong gu ri te chi jak jeon (kor).bin
+5641bc53143ece5de5d9dbd4e2083dc7	doom troopers - the mutant chronicles (usa).bin
+c78423b48acc46f4cb927665cd9f36c6	doraemon - yume dorobou to 7-nin no gozans (jpn).bin
+6f281d1e7aef0b9fd3f38369be7ee1a7	mpr-15589-s.ic1
+7615423545410607fea545e8463d3169	mpr-15828-f.u1
+8b10e54ddf8efac9a4753b4da089b39e	bram stoker's dracula (usa).bin
+f2b7d96aae4b5fdc6a1eac5a045e66c4	mpr-16078 r03.ic1
+ba91bc7a28e50fdd14f3c3fb87cdc4b5	dragon's revenge (japan).bin
+a279a2fa2317f9081ba02226cce6b1ed	mpr-17028 w87.ic1
+94ebb9a19bbb7b5749bf07ab3ce8fbb9	dragon - the bruce lee story (usa).bin
+32c09d5fe55a2f484d8b75d8b7833e8e	jashin draxos (jpn, kor).bin
+af092db5ba7221fc207865448ada05b4	dream team usa (jpn).bin
+900edd585f9716cd2f8000791dc2b096	mpr-16172-mx.u1
+4d6bdac51d2f5969a91496142ea53232	dr. robotnik's mean bean machine (usa).bin
+5b6e55ccc0daabf1c2a8cead5d6cdacf	dr. robotnik's mean bean machine (usa) (beta).bin
+c847158a1bf66bd5698b980651518247	mpr-14835 w67.ic1
+554ed898ebb4a6ecafbc22a3bd9c1160	david robinson basketball (jpn).bin
+33071ce7e02494c50cdfc5ab9b7548f9	david robinson's supreme court (apr 15, 1992 prototype).bin
+442792d738d31b3b7f512ff30b701ba9	dragon slayer - eiyuu densetsu (jpn).bin
+4c1a1583bd29071300fd1488aa7d0cc1	dragon slayer - eiyuu densetsu ii (jpn).bin
+6f37f036c8de2bf78d11079cd2424370	desert des08.u1
+414a548a2ab68a8e4840359c08b24ab9	desert strike (jpn, kor).bin
+5093ad6641abb0c3757d24da094a51e6	duke nukem 3d (bra).bin
+a0797d35cfb48d68ebb8b977d057ba3e	mpr-16619-f.u1
+ddce15e5d196d785fc6430c7ac056f53	mpr-16838-f.u1
+d4df66f77d52718798ec07d350d3a3cd	dune - the battle for arrakis (usa).bin
+909e835620e1ee74862b759a3bf81ff6	dyna brothers (jpn).bin
+1026ca6fd47327baa2aef68e047dfd55	dyna brothers 2 (jpn).bin
+53f0bcf292f2b7a01d11b2061abb92e7	dyna brothers 2 - sega channel special (jpn).bin
+a940f0dd681f23e7859fdcf4d4a7917c	mpr-13438a-f.ic1
+f9fa610acdb525e08f73b160eb014557	mpr-13438.bin
+6585dae73507f0dd1139b81d5b40d858	dynamite duke (jun 21, 1990 prototype).bin
+be8b51f8186f9d73f7d3971dd26417ee	dyno blaze (proto).bin
+0c268896412f3942a66a6fbfd83451fc	titan-overdrivemegademo.bin
+87418260d7324f109f44d2b08a007c41	titan-overdrivemegademo.nfo
+83438dd7173bd5733d73496bef85cf12	titan-overdrivemegademo_inlay.pdf
+3e653c49a496dd1b5c249f0623ea6d18	titan-overdrivemegademo_label.pdf
+a93790209c0c32a9d2ba90338f55aeeb	titan-overdrivemegademo_poster.png
+000b06c7cba4588c3cea15d6a9fc6478	ea hockey u1 eaj01.u1
+48b3ed36d0966f9acc290524527887f0	ea hockey (jpn).bin
+6a2d2ac410a424fcb66a72ec0dff9484	earnest evans (usa).bin
+88e130fe3401078d64feb4199be44656	earnest evans (apr 19, 1994 prototype).bin
+48aa49720a75068b6e2a1b0f2c6e73b2	earth defense (usa) (unl).bin
+0d2bfec1a1f25cad32bf4e9ba2d7587c	ea sports eas04.u1
+18b49fe6ad55975b6021b40b193035f5	mpr-15265-sm.u1
+e138c4df98a14625b64aff0f0f435801	mpr-17064-h.ic1
+0a18051c31d44d61cbf7a27dfc2a8d32	mpr-16996.bin
+267e4ca8fa4303e6ae49f6251ec949f2	ecco - the tides of time (beta).bin
+c5f2888a66490430ff71ff960c9e6aee	ecco - the tides of time (beta, alt).bin
+f65406eb4961c0e4d7fad24ef7fb90b2	ecco ii - the tides of time (prototype - apr 29, 1994).bin
+207aac421f6e9fda4a28b41a452d6e71	ecco - the tides of time (prototype x11 - apr 13, 1994).bin
+3b28a4ddddb6ff6ea3bfb3c8b117522a	ecco - the tides of time (usa).bin
+fdfc181b6f949788f336662dbabf5929	mpr-15702.bin
+ca7fa198e67d77b348111d57a6ad9df1	ecco jr. (usa, aus) (february 1995).bin
+ca8c0a6917554496bf6a08d8f00fb317	ecco jr. (usa, aus) (march 1995).bin
+f0f132f87e9d991c58399e6ac36467ba	mpr-17118-h.ic1
+6bc47e31cf248220de6a2b75948448c7	mpr-17119-sm.ic2
+cf993cb524bb082d3c5ce9410d33872d	mpr-18589-mx.ic1
+5919e21f2f403e26a06f2ea63aeb965e	mpr-18677-mx.ic2
+2ed39b147fa5fa67d6d0707f54a5a078	earthworm jim 2 (usa).bin
+074dcf012f3fd11a4c7e624474944d81	earthworm jim (usa).bin
+9b04970a603ace521c7cca2acaf69804	elemental master (usa).bin
+32e1a15161ef1f070b023738353bde51	elemental master (jpn).bin
+06aa841b8773de52cd7ccc9d4f907468	eliminate down (jpn).bin
+64c2a99aba71e7796fd12546071592cc	swedish swed9584.u1
+add607e0dd5b9f294bb5a246d8946aed	elitserien 96 (sweden).bin
+6ddf640c2c5f91f12487d813b6257114	mpr-14336.bin
+150e774ff1c31a76095a8bddf9975456	el viento (jpn).bin
+65585e683767e2255fbcc0103130b313	mpr-15046-f.u1
+a2a3b340e9b6bdd3d7b8fd4ff37419b1	espn baseball tonight (usa).bin
+22db8020749dd63b14c382b198ee1422	espn national hockey night (usa).bin
+207a678c269c03c0a6ed68ceedebc0e4	espn national hockey night (usa) (beta).bin
+91f55de8b732d69cbada25528cc0ee90	espn sunday night nfl (usa).bin
+fc67b269761a64d09efecf27de333601	u1.bin
+fd6fd7c9baf33386f957d82d5f21cd30	u2.bin
+253367c7360dc9725537d74266c1d534	u4.bin
+e948a4f7397fd3a7b4b0a1724ff72bed	u5.bin
+20e80d5615deecd667862cba911b335e	espn speed world (usa).bin
+63fa9e067f47d2d355047c2d3348e10c	u1.bin
+9e25c48f6fe2d994aeef35a84847da7e	u2.bin
+57c03864ca8183be0c290ee92414b45f	u4.bin
+d477c35a7b3e8c1002df457a80a44077	u5.bin
+264d8c7c7b1f476fe6ea98411e3cde35	mpr-13192a s69.ic1
+79d155b41da306f95d3dc39f0e8e189c	mpr-13192.bin
+ac54002b27def9f606ddc60142dc91f9	mpr-16212-sm.ic1
+d035ea92fce919d26fb3f5e9361f7884	mpr-16213-sm.ic2
+9f72a583823d839d6e2d68a8d418fc5f	eternal champions (jpn, kor).bin
+b61eab3ef7055625e5dcbc1ecb12b8b3	eternal champions (jpn) (prototype - nov 17, 1993).bin
+1f6621e0892cbd3705e8d2157013b69b	eternal champions (euro) (beta).bin
+e634e9a5528ef3de3df4d6cc46468132	mpr-16047-t.ic1
+81f1b2bf8136de61033518f9e42fc857	mpr-16048 t98.ic2
+150e6205d8acb22bd4034f90eeda0229	mpr-14776-h.ic1
+be41641e9045d8ae4f07c68874a57510	european club soccer (oct 25, 1991 prototype).bin
+4f956308a08635f1be2c0839c50f5ca0	europa sensen (jpn).bin
+91f8f3ef27055687a12015b0123cc067	mpr-14860-t.ic1
+a863312ca2e6097208f3e1d2f3fbfc43	chuck's excellent art tool animator (usa) (unl).bin
+5fe9ab5d615e3351302f47180de27f5e	exile (usa).bin
+2cda6d2f8dfe3caab1683dd7849b6ba3	exile - toki no hazama e (jpn).bin
+d1ed5ace0e30fb854875cf11ad439662	exile (dec 13, 1991 build).bin
+699fdbc714dd0f1c65b91505b6e3c1d4	mpr-15225-t.u1
+2680589a66365b787c36141401a2cbfb	exodus - journey to the promised land (usa) (unl).bin
+d3b8d025b4273f7c9e8b81c11d5bcd93	exo squad (euro).bin
+3297aed1b8bb83cca67bc2e24f84414a	mpr-17992-f.ic1
+4a0b235e1dae98939698ccf7d5dd6876	exo squad (usa) (beta).bin
+604453e2dda349306d573adfba6e6fb7	mpr-15585.bin
+d47e977300ed8014428974d19e1e39db	ex-ranza (jpn) (beta).bin
+b065e4a01adcfd6af4c96b950b832100	mpr-15834-mx.ic1
+36074c70a52f1dd2569ad309c6f7bc5b	f-117 night storm (euro, usa).bin
+d89c8068197892bf9e8abd5fa9d8c61b	f-117 stealth - operation night storm (jpn).bin
+50cb0da45ed2232c11713bac513687be	mpr-15756-mx.u1
+c6eeffdfed136ef2d76cd3b5e503c4f1	mpr-15919-mx.u1
+e0cf5e97a3ddaac1f691de0f1b4e39be	f-15 strike eagle ii (usa) (beta).bin
+1cdf545ab88c06d2d7e4613e898274a5	f-15strikeeagleii.0f82.bin
+211d119a11102a8feccc78e2231a54b5	f1 circus md (jpn).bin
+5428986be40a0256182077ae796d169e	f1 circus md (dec 28, 1991 prototype).bin
+5c6f03e7b8fdca34705b16f587d61811	nakajima satoru kanshuu f1 hero md (jpn).bin
+b274adf5abc70d75f918331bf682cdc0	f1 world champ edition.u1
+df88ecba9c5b49002e6372cab7b27535	f1 - world championship edition (euro) (beta).bin
+8cf27af9094fc7bbe067b296292f2ffe	f1 champion edtn mdrive rom0 eval only.bin
+cdd54938b24a4e0c5a763fbe1ae42ee7	f1 champion edtn mdrive rom1 eval only.bin
+d7a935774927489738db2511a6ca3ea2	f1 champion edtn mdrive rom2 eval only.bin
+f90f591b8e4c4369754b70316c73bf4d	f1 champion edtn mdrive rom3 eval only.bin
+565a9fb0c7796c5443901e3d27c27d67	f-22 interceptor (euro, usa) (june 1992).bin
+77f42952e6bf8766d9a811f34c6d7ed5	f-22 intercept f-202-1.u3
+ce7859b0fd865acbf73c811748001e9b	f-22 intercept f-202-4.u1
+b89f6bc7f4983ab197d90b24fdcec4dc	em20007.u1
+b93408e73d5331078b93ab773420b7d8	f-22 interceptor (euro, usa) (beta).bin
+a8b52e44cd74ae947eede94b85b87d07	f-22 interceptor (sep 17, 1991 build).bin
+135e1eb555ef5cf661b8c9ae953985c3	faery tale adventure, the (euro, usa).bin
+8b90d8159990d0c8611b1c9023d1dd7a	family feud (usa).bin
+b0ecd4849a231fe70fe87532ff19913f	mpr-14028a-h.ic1
+69c60599bcff0eb53a49dbaf09dbfc02	mpr-14028 p25.ic1
+2b3655b2935c727ee6400721fb5b4451	fantastic dizzy (euro, usa).bin
+048e7bdefb046f83ea79950bc9f1d718	fantastic dizzy (euro, usa) (alt).bin
+691ce650c029476956b413481a584ff1	mpr-13938-sy.ic1
+17acc5a8b52df3c7858d42bc01814781	fast and the furious 5 (unl).bin
+f4550e6ca0b6c8a9de2376f85bdc6a8a	mpr-13705-t.u1
+ea45e8065ff64c4e5e41ce933828c854	fatal rewind fat04.u1
+348975e11a187025556b8d18194e502a	killing game show kil03.u1
+e0d332e04a19012c50194ebff346c51e	mpr-15418-h.ic1
+e5a4bbe296224c2d6e71079807dfd183	fatal fury 2 (usa, kor).bin
+50b786ef151697dde208a3a72ed81b47	mpr-15404 t17.ic1
+25737341f765e795e4fd29d9e0bf3f65	mpr-15409-f.ic2
+20870a554b4bdcf2e2891bd541bd2e2a	fatman (jpn).bin
+c15742f528a7ca1e6a51be6df5f17afd	felix the cat (unl).bin
+0ed5d84097c10a400dde8d303308945d	insane paradise (ch) [a2].bin
+53ffa5d28b14207709ee917edc91f85e	feng kuang tao hua yuan (chi) (unl).bin
+a57832174441c85a41e27b2e01a9a43b	feng shen ying jie chuan (chi) (unl).bin
+6f4a64f9be8207ebe83c2ebdc479acfe	unknown chinese game 1 (chi).bin
+b76d3a24e7cff4c1d6396e263953322e	ferias frustradas do pica-pau (bra).bin
+f5cf4a91e074640f45c6396948085ccc	mpr-14770a-h.u1
+a53ff4190607f35d61a9c7eea21603a8	ferrari grand prix challenge (beta).bin
+60b0ef8eb30d5f455f2131f27cd18f46	ferrari grand prix challenge (usa).bin
+a4a4e29f3540d3a11cdd8ee391069841	mpr-18008-u.ic1
+4d2d46c94343eb18029bb2dcbb4dbd52	fido dido (usa) (prototype).bin
+8a53e4db0da7ee312c1e89d449eb7b1e	fifa soccer10.u1
+59c86710c566c09c7471d8b3e03fb7bc	fifa soccer 2000 gold edition (pirate) (unl).bin
+c4d012d48a6ea84a54b885eb31a9e61c	fifa 2010 (unl).bin
+371ca05947263da404ab8a7786ce3b0e	fifa world cup 2002 (unl).bin
+a4f7b31be452ba9e1fa6bd09ce6eeed3	fifa 2003 (unl).bin
+892ce14271157a3ca3499ba7bfc3be3d	fifa 2005.bin
+7aadff701603b01a3f5dd25088494440	fifa 2006.bin
+26ac4f884df64349dcf46344db85812b	fifa95b1 soccer.u1
+698a2fcf165e8c9bc5166aecf23771d2	lh5370hd.u1
+545b07c1c599f49ea93a4b7b2c7c3782	soccer fifa01.u1
+1daf37e626f1b258b2cb1fbcab84f059	fifa 97 b1.u1
+3c7380bea3c1d479e5604006eab86961	fifa 98 - road to world cup (euro).bin
+b91a6715f7b382c7550bbbc1c6445362	fifa soccer 99 (pirate) (unl).bin
+b6813ec7475012936d017c3c93412282	fighting masters (usa).bin
+baf3777249a1bbb03efb3dd419e4d589	fighting masters (jpn, kor).bin
+f2c1ca2b1ab0febcf6d244785d477a50	final blow (jpn).bin
+46832fb41605671ef4574a26c09ee854	final blow (jan 16, 1990 prototype).bin
+93bf1aeebf5ab3c1a6ff204208d4518b	fire mustang (jpn).bin
+de1cab62facb121904d0cb1da9cc00a8	mpr-14341-h.ic1
+dc1fa82af5d70b5a35e06b7f10f9bbcb	fire shark (usa).bin
+c00981929f3eca882d123809e81185df	fire shark (usa) (alt).bin
+afe56361b8bbe014dee830baffa8257d	mpr-15410a-sm.ic1
+9a445d5b0d1cd873ce743743b8faec31	flashback (jpn).bin
+385e4e66174a76fd4a05639f24b54562	mpr-15463-t.ic1
+55977f8786715847ba2061708e49beeb	flashback - the quest for identity (usa) (alt).bin
+2f8eaa20117c78aec03fd63de3869dec	flash point (japan) (proto).bin
+805cc0b3724f041126a57a4d956fd251	mpr-13839-t.u1
+4b6da602b30589b18be136f60b8000b2	flink (euro).bin
+cdccd5fe37bea01b51a4dc15ade35167	mpr-15583-f.ic1
+a161b33377258252018326c91cf8b7ed	flintstone (jpn).bin
+60ea3535c8a939d26ded83bde0f4809d	mpr-15415-f.ic1
+81d25e0595200ffee560e5f0966a4088	flux (euro).bin
+e3ca687bfb8075581ea6ef161b63abdb	foreman for real (world).bin
+c4b93e3420db39c312c2b4ba2b2a493f	mpr-12672a-f.ic1
+c526426ebe919d4cd8fbb86157c0293e	mpr-12672.bin
+7247829ab401477e4141e5f5b3077f0c	mpr-15987-sm.u1
+98f3846dc91ffda67929beeaf920f106	mary shelley's frankenstein (usa).bin
+897e3e70aa008dc56de583f320ec7bb7	froggy.bin
+a5ef16bf634e12cb959da662858bae94	frogger.ic1
+89da855d92a6f35611cee5ddb843e702	fun car rally (usa) (prototype).bin
+2ac550b740f6eaa186f8281bcce15db2	mpr-17016 t69.u1
+61137a2922642fd9c7e4b3ae96a4e3d3	fun 'n' games (usa).bin
+5adb68ad7e42b62690d084a9e71629a4	funny world & balloon boy (usa) (unl).bin
+82963d20e0e85e5e9dbd6119a9c37f18	futbol argentino 98 - pasion de multitudes (unl).bin
+0cbb16c044d7c8e7366d954b5e844d1a	final zone -- fz senki axis (usa, jpn).bin
+6d588eec80c083ee60d06e2bde3ed488	gadget twins (usa).bin
+47e140ae1e70984e6cd638e6e8f8485f	gaiares (usa, jpn).bin
+536e5a1ffb50d33632a9978b35db5df6	galahad gal01.bin
+86fb848b069890ad3337fd66a75f86e7	gambler jiko chuushinha - katayama masayuki no mahjong doujou (jpn).bin
+90e13e67e0f8d7b16c567248576ca938	game no kandume otokuyou (jpn).bin
+63d1c64e1f3363171b63a75ce67b1f60	mpr-12750a-t.ic1
+b8591488ca46b51c1d39b6869fa23006	mpr-18452-u.ic1
+182b253e376b3ed4c51be1f87a95aa29	gargoyles (usa).bin
+204ae6f8f97293e877ffb51c0904dd7c	garou densetsu - shukumei no tatakai (jpn).bin
+700616115a3709ac4c9868eb2179d52a	mpr-16704+mpr-16710.bin
+5e8ec4c047ef4af15027e93b5358858f	gauntlet iv (euro, usa) (september 1993).bin
+840f9f6fd4f22686b89cfd9a9ade105a	gauntlet iv (euro, usa) (august 1993).bin
+9aad96cc5364d2289f470b75c59907a5	gauntlet (jpn).bin
+952ad745fb759b48bfa73a04ec37bb71	gemfire (usa).bin
+5834f5c7a618adc80a98b6350a9ece8f	gems.bin
+955622a63dc3b06c13823fb352f50912	gen chaos gench02.u1
+9ff0afe64a5765a1e2bc1f40bcd2e554	general chaos daikonsen (jpn).bin
+9111580bdb40e4ac83a4c3f023b17628	aoki ookami to shiroki meshika - genchou hishi (jpn).bin
+e91d85e82c9ab9770d86e00dbc78f7c5	generations lost (euro, usa).bin
+cf67700c0ef63427307634d2404901fc	genghis khan ii - clan of the gray wolf (usa).bin
+3d4d833f4bddc33ef0483c8b9e9c1cc8	mpr-15390 t24.u1
+901918b93f0286a4c961ae60ab72d360	george foreman's ko boxing (usa).bin
+9fa0649fcb53963a432812254ccb4f02	mpr-14248b-f.u1
+00f475ac5e7a5c2f753bb14ef62a9d98	galaxy force ii (world).bin
+e8af7fe115a75c849f6aab3701e7799b	sgr001-a+sgr002-a.bin
+b5d5ff1147036b06944b4d2cac2dd1e1	sgr001+sgr002.bin
+250033f6c91fbb7714782cd66fcece82	mpr-13642a-f.ic1
+3b0ad9167e152ed3719ae0d45e50db6a	mpr-13642 s87.ic1
+fa43881a792fadf1ab737294fff1bcc3	gainground.a760.bin
+08d98b0ee5111e72ba73e753dc76ac1c	gain ground (jul 27, 1990 prototype).bin
+d73f3b9feac4734e9a391aa211a88159	mpr-13203 s50.ic1
+270637399377cfe1b926ec5f664471f0	mpr-13191 s48.ic1
+82a7ff0c2308b00e1919fb959a3e4b58	ghostbusters (may 1, 1990 prototype).bin
+00fbe138f70c4a83c63734d3c892a44b	mpr-12605a t04.ic1
+7d6f26003f60c96b2d91d7943f73624d	mpr-12606a w57.ic2
+56ad6fa1744438c711d0b2ba4433fae6	mpr-12605 t02.ic1
+17dcfc9c79c9fe4ff965cc43860a80b6	mpr-12606 r32.ic2
+1b877b9ce4e46722e4a3a59719f579ba	ghouls 'n ghosts (jun 22, 1989 build).bin
+6ba9e256579f0cbfa18abb96acc5b24d	mpr-16211-sm.ic1
+8662fc03ecb681fb5a463a2e9bb2ae41	greatest heavyweights (jpn).bin
+a2319592a31d22d9ec4501ce4c188152	mpr-15754 w41.ic1
+8bd4a97783cda077c342173df0a9b51e	advanced busterhawk gleylancer (jpn).bin
+59b8fcc1e0c2113d841025e7ee0d152f	mpr-15326-f.u1
+6398a354781f5872eb9e846824a1602a	g-loc air battle (world) (beta).bin
+b4b855462eba7076407a7fa6265b61e4	acgosg.ic1
+020bf924cf6073e52f9df6e70eeaa800	gods (jpn).bin
+7c3fcd8a86e01e5b542434fd37a49002	gods (usa).bin
+8d08d9aa97bd912870cfe13f9995a25d	gods (usa) (beta).bin
+dfdc2c0dc2cde9b3bf2906088c394399	golden 10-in-1 (bad dump).bin
+2cd3573172961fa52f622f14ccff4e1a	mpr-14272 w39.ic1
+b27a54c8ac3671e72e853875ef6073eb	golden axe ii (world) (beta).bin
+7d9f963c9c2e22b542516edd03ada6f6	golden axe iii (jpn).bin
+e4263c39487f0b55e8f33cbd5acd9b93	mpr-12806a s33.ic1
+04d2c7da9aac3fbeadf6bb8ccd27b560	mpr-12806.bin
+0dd362213fc29a54ab08527a98686cdd	golden axe (nov 22, 1989 prototype).bin
+2bd7578ddcbd3931e76f706cc0d72429	uchuu senkan gomora (jpn).bin
+a4d00b8119cf3a71634ac3396537814e	go-net (japan).bin
+426471b87024c7b1e688fa8474390624	goofy's hysterical history tour (usa).bin
+18ff626a183c188f789d71f17dd739d5	gouketsuji ichizoku (jpn).bin
+93a809c145d5dacc8d8e33a27fdcfb9a	granada (usa, jpn) (v1.1).bin
+9e215cea722159b321a2eac544573f0d	granada (usa, jpn).bin
+e13cf127daf804edd2bb82a1b3410fd4	mpr-15208-f.ic1
+e2a0c5f54432464d7179304c0d5901dc	grandslam - the tennis tournament '92 (jpn).bin
+6ee9350e11ba6a5ac14f6ef9094f68b4	great circus mystery - mickey to minnie magical adventure 2 (jpn).bin
+12199da6628b92c9bbd59460ae602a8c	mpr-14993 w77.ic1
+0b11fadd7c858144c5b9f890b711b77d	grind stormer (usa).bin
+3152ebc067925b0ca35d20290de0985a	mpr-14338-sm.ic1
+0f6115db9cee69227fb9b14799d444fb	growl (aug 26, 1991 prototype).bin
+0820cdabece7df7feeedea563c229617	gran turismo 5 (unl).bin
+59f90424a125bfcb7ff8a363d9f694fc	mpr-16246-f.ic1
+eb7b099d668686ce4246410dbf4c0b6e	mpr-16247-f.ic2
+3fb8a8dfd2cfea48ae3d378918691ee7	gunstar heroes (euro).bin
+bc578767a82f008cd2d3f4226a98ec32	gunstar heroes (jpn).bin
+b424a225fcc5bcd9caea0ae48a5d07ec	gunstar heroes (jpn) (sample).bin
+9a369cfc6355db48677771e345421e0e	mpr-15813 t59.u1
+fa0609181242f4b5fd59598273f138ec	mpr-14439-sm.ic1
+fa49fa5c1eec5bfae59fb87f310c0852	gynoug (jpn).bin
+6263d2270f97cc7e16bb380f1af28c0f	hardball iii (usa).bin
+93a1aa8830c0a5bc53716a3a61da1bed	achbsg491 w40.ic1
+5cc105549176d6d56e7e8899dc27647a	ach94sg 7500-00027.u1
+e5b12f2b4e4ff18a838bfec88ec0a601	hardball '95 (usa).bin
+2c1cd69c1c3ff24d5f4cb617fc0d5309	mpr-14393-sm.ic1
+3f18b4cfc9d286df11db970f2e894392	haunting hntb07.u1
+232874913a8c74deecb24145d60917aa	mdch 9642.bin
+5479601228fd14fefbd1d1fd5fceebed	high seas havoc (usa).bin
+fb303d5d08b2ea748fe7aced9c0100fd	head-on soccer (usa).bin
+74bb344107592feae3372c27e1dc1841	heavy nova (usa).bin
+92e07eaa7e71674de83c1a4b3403df6c	hei tao 2 - super big 2 (chi) (unl).bin
+26f695adeabca0e2a31eee07ae2057c2	mpr-14430-sm.ic1
+1e1950f384b6c2320e6d17c381c39d62	mpr-13251-h.ic1
+dbdc25c40b85e488a1e817557e3e375c	hellfire (usa).bin
+bf28a404187ac4c101031c94a64c73cf	hercules (unl).bin
+dda09e080c81e15943391ace5fedc665	hercules 2 (unl).bin
+e812002daafb264fc2ab1dff9bd06ac2	mpr-12929 s19.ic1
+cf5984ce943babe3e8551ee0e9b771a8	herzog zwei (jpn).bin
+3029a8f36f18414a42e6b4812747dec9	hit the ice (usa).bin
+f5e327aa603b334fd5713fda10464748	hokuto no ken - shin seikimatsu kyuuseishu densetsu (jpn).bin
+089771a4c22d69f039e5c18bf4b2d84a	mpr-14996-t.ic1
+9ccafedaed5426819fefc3ae17a04fd2	home alone 2 - lost in new york (usa).bin
+256274df9b7068a48863b2980e981ec5	home alone 2 - lost in new york (sep 29, 1993 build).bin
+780ecbc9aa3d2acdb782e36d24d26c57	home alone (usa) (beta).bin
+0206e412933f236f0ab9ba20973bd74e	mpr-15773-t.u1
+70b7314bb4f542cedc0ca9422808f269	hook (usa).bin
+d33b0804d8ec7c82bd4d6128c74a652d	harry potter.bin
+bb4ced1c698b3ef7ceb0b081a632f7ad	harry potter 2.bin
+e0993ecf100ae0dfee28da9bc922b98f	huan le tao qi shu - smart mouse (chi) (unl).bin
+9990ea46fa6ca7c2e6aa122991d81167	mpr-16820-mx.ic1
+f9d308023ece50b2776bf5809db1723f	humans, the (usa).bin
+dd09e0d16f81167cf187b13bf11a9564	mpr-17498-t.ic1
+6b60e70252280b1cc22d80cb4c70d54a	heavy unit - mega drive special (jpn).bin
+28a72c6a6840088c4a97670139cae085	hybrid front, the (jpn).bin
+98115840ef962964278aca1f7c09426c	hybrid front, the (jpn) (beta).bin
+f9cb4b00137b533bc137a89d5261f23f	hyokkori hyoutanjima - daitouryou o mezase! (jpn).bin
+8bc39c10ed8d26d53a0f24f5daca81c8	fx009a1.u1
+008bcd6a3fc35015df0851e996ce80b4	fz009a1.bin
+139b7670f0e585ffcbe4bf9e987ec652	hyper dunk - the playoff edition (jpn) (beta).bin
+74eee7f1e3bd336bf684e46622b61212	hyper marbles (jpn) (sn).bin
+570f91b5c425e3527ec0077c186adaa4	hyper marbles (jpn) (gnk).bin
+1de0efb69eb5d41daf7c381fa453a063	ice age.bin
+291b1bdabdceddb49f3170130cfd59a1	ice age 3 (unl).bin
+aa3589c99bdc75b5ab39eecfa573c7ae	ice age 4 (unl).bin
+a0003ccd281f9cc74aa2ef97fe23c2fc	puzzle & action - ichidanto-r (jpn).bin
+f0ecb410ac43c503f1321098e4203785	tennis tenn03.u1
+469c2c852005972bbcd2b51fdf9d1220	immortal im002.u1
+91135a34a56bff6a502dba1e529c0280	wizard of the immortal (jpn).bin
+a5c92e5e0448433d2e6854c630879fcb	the incredibles (unl).bin
+bc40ee0ea033ba893f4f2ee17368f2b6	mpr-15207-s.u1
+e927417e67f1ff3170cc027ff1e96726	mpr-15235-t.u1
+fae3cf7dc35ff5d4dbe2b85375317359	indiana jones - corridors of time (unl).bin
+77574085187602bf50dd1167da389f60	insector x (usa).bin
+ae4322417c5827364837d04a2952facb	insector x (jpn, kor).bin
+94149f13114eb4084f82e4a01dca7857	instruments of chaos starring young indiana jones (usa).bin
+100a8923c724b23fac53816730b81db8	instruments of chaos starring young indiana jones (usa) (beta).bin
+a8865df89f7edebb0ba47510be246305	instruments of chaos starring young indiana jones (prototype - dec 29, 1994).bin
+a3b7de5e6c1d31c69829c009dcb70763	instruments of chaos starring young indiana jones (prototype - dec 28, 1994 - a).bin
+242315932a430ce96ea1472c7f9d3c4f	instruments of chaos starring young indiana jones (prototype - sep 23, 1994 - a).bin
+b213f0afdeb0c8492d9d117432545b5e	instruments of chaos starring young indiana jones (prototype - jan 27, 1994).bin
+4f3479a27ee989f32ed51bd7753c9955	instruments of chaos starring young indiana jones (prototype - jan 26, 1994).bin
+1a54b8855aaff03d72bc3a0b6a797df5	instruments of chaos starring young indiana jones (prototype - jan 03, 1994).bin
+313b6b873deef36947f0e4c077c1b5cd	instruments of chaos starring young indiana jones (prototype - jan 01, 1994).bin
+5f805ee99778ff18a47f794530a72bdf	instruments of chaos starring young indiana jones (prototype - dec 28, 1993).bin
+5cd673ef51cf9326667723ca6a571429	mpr-15829 t12.ic1
+77df74707b77e3e53982d485d73a611e	iraq war 2003 (unl).bin
+b0002ea7f23158f23e0fb1576ae0b795	iraq war 2003 (alt) (unl).bin
+30ee5ae0e2a4b2995a79173f67278c69	mb834200a.ic1
+494d00e7c0a3ee5448e6b82fa091bac8	fx016a1.u1
+7dec575a0370920b4f96a779b462ceb1	it came from the desert (usa).bin
+64f51f149825ee44aa36bcbaea55e961	itchy and scratchy game, the (usa) (prototype).bin
+012e2512633c6c1b5ca8dcfbf0e878f7	mpr-17875-u.ic1
+946d261192111ed5baaae7c7d917d1be	jammit (usa).bin
+7d4a52519b699a85892253b4c873adc9	janou touryuumon (jpn).bin
+576deb909f11bcc8703a91dd049f5960	jantei monogatari (jpn).bin
+4b922a5aff9a0864c1cffe56da578c7e	mpr-15312a t02.ic1
+83bddf31e7571aefc6add5d00707df9e	007 shitou - the duel (jpn).bin
+d7937eee5a0fa4fabb035a2862bcd78d	james bond 007 - the duel (usa).bin
+9635abe009beffdff9954c4214e8cc8d	mpr-13262.u1
+2ef10c0e326f830d9f1fd61de928f958	judge dredd the movie.u1
+e99630f4ff63cca1ad99e278e4c8fc75	judge dredd (usa) (beta).bin
+a3fedae435132648ec22fb72ace757cd	judge dredd (usa) (beta) (alt).bin
+82d43fe67f4beae110ec3e9b90ea1957	jelly boy (euro) (prototype).bin
+ea494b132b8efdd4bceac47546835686	mpr-15055 w87.ic1
+2cb0aa5c63727cd36ae861c02b93ab64	jeopardy! deluxe (usa).bin
+bf90809f22e6be0ce0c693613d488bb0	jeopardy! sports edition (usa).bin
+52cfd0dbafdf1516defb25dddb1ee72e	jeopardy! (usa).bin
+45146951c9643897cea7303b19ba522f	jesse 'the body' ventura wrestling superstars (mar 2, 1992 prototype).bin
+42ec7e0894625345be8021f9d5f5d52f	mpr-14118a-f.ic1
+cbc5b61a39963d4ce24d874034caaf08	jewel master (jpn).bin
+7643bf8341cd0b447da1f5b9284741f7	mpr-17299-f.ic1
+4ac093ab296ad0bff229431eb2bc6ea6	jim power - the arcade game (usa) (prototype) (bad dump).bin
+964d411b692e0788063ec8b0896f87b9	jiu ji ma jiang ii - ye yan bian (chi) (unl).bin
+b35d0a4ed54efa6a5c3ef4975aadcd35	j. league champion soccer (jpn).bin
+32cc1d869d4cc50c303388b06ef0cefd	justice league task force.u1
+f5f52249a5dc851864254935e185ea72	mpr-15554a w13.ic1
+ada241db25d7832866b1e58af2038bc6	mpr-16857.bin
+dea9dd7a01d774ccdfe68c835fe55a8a	j. league pro striker (jpn) (v1.0).bin
+a7046120d2a4b40949994c71177aec3c	mpr-16267.bin
+9800244038a6235c6d437582aa75f52f	joe & mac (usa).bin
+f80d0fb38db6e4cb0f1218130d934887	mpr-13654 s88.ic1
+853ca91d72d5ed10212cbc725dfb914f	mpr-14356a.bin
+00820ca4790d5a9de2c441f895f915ce	mpr-14356-f.u1
+0b37c95079a0c8e64230df35eb3888c2	jordan vs bird (euro, usa) (v1.1).bin
+ccd6d37edf46f4cbcd13f5677fa8e7a0	jord vs bird jor05 7051.u1
+bb9bcdfb8f8665b69b60200108261d37	jordan vs bird - one on one (jpn).bin
+c3b02c8bfcfc274cc222378547308a8b	joshua & the battle of jericho (usa) (unl).bin
+d60d4f1a43f4beb1e5a108a8611e560e	mpr-15679-u.ic1
+161b4f3d69d02e9ca4a1937595d2d1ba	mpr-15767 w36.ic1
+39cefbb0b13c0265bc6a7c60801c67b3	jurassic park (jun 14, 1993 prototype).bin
+67c489b34827bb4fae2ba93e8d2a919e	mpr-17069-mx.ic1
+946839ac8c501ec4c4ed085e9083a0b8	jurassic park - rampage edition (prototype - jul 18, 1994).bin
+2bf562c58817845df52fd173ea56316a	jurassic park - rampage edition (prototype - jul 17, 1994).bin
+3ee2bb717910f78b684ce3068babb7a5	jurassic park - rampage edition (prototype - jul 15, 1994).bin
+c0c3794cc57cca89ddc1195c4040bc5d	jurassic park - rampage edition (prototype - jul 14, 1994).bin
+0eb688352dd380dfcd60cbb8232aef1e	jurassic park - rampage edition (prototype - jul 13, 1994).bin
+44e42a0dff1cb49d3a7f67d4d697bd77	jurassic park - rampage edition (prototype - jul 08, 1994).bin
+14d7fbdaf5f734079b10c1208e5fd8a6	jurassic park - rampage edition (prototype - jun 30, 1994).bin
+d51ce6640c0073ef88fe2412d685b7ba	jurassic park - rampage edition (prototype - jun 22, 1994).bin
+c7ef6252266d19b61019714d066f8b20	jurassic park - rampage edition (prototype - jun 20, 1994).bin
+fee5032759c495abc72e405c63c90e1f	mpr-15656-sm.ic1
+5baa7d4047ad269043a85090ff44c611	jurassic park (usa) (beta).bin
+af1a954438afa382ff2325ce1a886fc3	jurassic park (may 26, 1993 build).bin
+aacf7533fd8e45b95321a57b01fb3ac8	james pond u1 jam03.u1
+0a72b5846ff1766662809318cf000c22	jpond3 jp3b36.u1
+3164c16bab8088a7991857750edaecb6	jstrike jsb06.u1
+88beb2a76ca723a42fecdf586d90b9c8	jungle strike - uketsugareta kyouki (jpn).bin
+3fe418d2e1814af8d830f1cb74493fc2	jungle strike (usa) (beta).bin
+118ab63f1dcd85e76e85ab1c3ef1bde2	pretty girl mahjongg (Ch).bin
+6d8a871ce4b1e88aecd4d0d50a137e99	junction (usa, jpn).bin
+03a83c6c7392549b47b006c6e9c38fe0	mpr-16843-u.ic1
+2e1c1f784c9463152cd1a772f87677af	mpr-16923-mx.ic1
+021d5ec551553eabca22eb2b3291e4b6	junker's high (jpn) (beta) (bad dump).bin
+1351733931c06014e45f091d25a92e29	juuouki (jpn) (v1.1).bin
+f7c86af04ad73edfa931f2e35cab3d93	juuouki (jpn).bin
+31ca6dabd0443625f0c7ce3c1a6229c6	ka-ge-ki - fists of steel (usa).bin
+1e593b65ce45c68692d4d49b266a1727	ka-ge-ki (jpn).bin
+159dd6bef1cf7df913fd4ac98138d9e7	335069-1050.ic1
+29da0d26615fc89885ef201b03bf1355	kawasaki superbike challenge (usa) (beta).bin
+1bb8e1e5d41bbeff2e452935bddd9883	king's bounty - the conqueror's quest (euro, usa).bin
+076d2658ac67e5f07a8415c1a63d42d8	kung fu panda 2 (unl).bin
+bb98f63238f108c1aedda815493c44c6	mpr-15333.bin
+640b900fc064c6962dc6160b8a033bf8	mpr-17359-f.u1
+756e603b6cf9b3ebbb1b0f79d9447e43	mpr-14557 w29.u1
+2c1bee0580a7a875cb7fd4ee497b5bfe	chameleon kid (jpn).bin
+302f88a7c366a840422511c69037d36e	kid chameleon (dec 19, 1991 prototype).bin
+c2aaf9fe67d8b70108b01af37e55b05a	killing game show, the (jpn).bin
+7e6b1144fe4f929dff15fd6dca89fc37	mpr-14929.bin
+0423ebd4abb1da95f758dba60231a00f	king salmon - the big catch (usa).bin
+2dc2cfd8db571f7edfb1d7ac1281fbc7	king salmon (jpn).bin
+02fe0ed289a6cc0bd64d383e805b9471	kishi densetsu (jpn).bin
+75aa195d4bf663e93f3f6e9548f59441	kiss shot (jpn) (sn).bin
+3dfce8def728e2e249917307b8e38ca5	mpr-13300-s.ic1
+96ad3cb020f4389a5f2a36884e7344c4	klax (jpn).bin
+d7326d17c87d94e434ac5b27283ae830	klax (jun 21, 1990 prototype).bin
+980d3256aeb3c2e76a7b2bc566f89852	knuckles in sonic 2 (prototype 0524 - may 27, 1994, 10.46).bin
+6c4c7d887420d8e6e2308be53aaf9596	king of fighters 2000 (unl).bin
+17db8952afe2accfe9699fcb0dc0d944	king of fighters '98, the (unl).bin
+a085d367da06f05662ad7e76e63776f0	king of fighters '98, the (unl) (pirate).bin
+6091677ac2dadabc1d1ad8c5594dbe14	the king of fighters 99 (unl).bin
+ab286ef8012fe4a853b2d484589df96d	king of fighters 99 (unl).bin
+2e9109069b87d0332ec65ffe3152bc69	kolobok.bin
+fb185d5bd814d7d51d3f15c6f20e75f3	koutetsu teikoku (jpn).bin
+11e05717321fa42f7c66d20613c1d51d	mpr-15556-sm.u1
+65ee5a29e73a4c5c62da5da6920ed4d8	king of the monsters 2 (usa).bin
+69f1b273f695032f0b542421928e8e9a	mpr-15677-t.u1
+f3bc95d05f6290a3dceea499b3bba094	mpr-15485 t33.u1
+8bd4d2f51f08380a1ba9ac6cd2070585	mpr-14765a w86.ic1
+59ee29408ff043dd4e0a7289f387ec89	mpr-14765-h.ic1
+c7a3369029237556a342532ffc786a18	kyuukyoku tiger (jpn).bin
+1a42a8226c2581ec4948505c3eef9879	kujaku ou 2 - geneijou (jpn).bin
+225bd87db2600496720424fe73908099	kuuga - operation code 'vapor trail' (jpn).bin
+36da21df6efdc91ba7aee98976f47f0d	agent hugo - environment at risk (unl).bin
+554b3afd2a48c8ceffec187e42005056	agent hugo - in the world of dinosaurs (unl).bin
+5407fbb67cc8664760d073c72c04f392	kyuukai douchuuki (jpn).bin
+6e277f8fbd78ecd48ec6a91db9b22cf5	shi no meikyuu - labyrinth of death (jpn) (sn).bin
+dc33589a54bce1aea844daba9c9bd547	shi no meikyuu - labyrinth of death (jpn) (gnk).bin
+1c224caf835ad4c19f9477dc5d1e9086	lakers versus celtics and the nba playoffs (usa).bin
+6397f7029f90f59881bdc4174eafb52f	landstalker - the treasures of king nole (euro).bin
+0bee733207842672479cc0f2775290ba	mpr-15976-s.ic1
+2b6ee5677a6233fd98f0b90b51684991	mpr-15977-f.ic1
+d9a7922681a126653dc16a0d907d7f32	landstalker - koutei no zaihou (jpn).bin
+04ae2b65f3a11a7504339e60735beed8	landstalker (usa).bin
+8411ed74c77f2282bb0cd9398027cdee	landstalker (usa) (beta).bin
+ff2dec1b3e41e5012a2fbe0cf0eaa9e0	landstalker (jul 13, 1993 build).bin
+a5de915f62156feb8680f9cf34017dbd	langrisser ii (jpn) (v1.2).bin
+3de30d43a6433e91429535c3496f07da	langrisser ii (jpn) (v1.1).bin
+9be7bdb4892eb716ea80bb1de4d660e4	langrisser ii (jpn).bin
+4759f8db3ee29d85f7087886d813c04b	mpr-13845.bin
+cf08b9bc626cc9da0a3b8debd28ed290	la russa baseball 95 (usa, aus).bin
+d595b465412a92100dc52aa105196835	tony la russa baseball (usa, aus).bin
+9edf4e2024d5bba29748b580930a1ea4	mpr-12706.bin
+1d4e55cb51b89942e12d27f9794122c2	tommy lasorda baseball (apr 30, 1989 prototype).bin
+960d31f44cc668d331d2711dd7def19d	last action hero (euro, usa).bin
+1164d4b9e1c69c914f68a3f0e126039b	mpr-12578f.ic1
+a82335504728f3e160f2ea9fe8e0e969	335095-1050.ic1
+dcc6c7a80292cfb2ac6700d9f750f77f	lethal enforcers ii - gun fighters (euro).bin
+6847fb802bd0cb9500af865a493896df	lethal enforcers ii - gun fighters (usa).bin
+be93aaaaa9911651befda50cb916d6b9	mpr-17026-sm.ic1
+95bc829e8a054853ca2f953a68dc531d	lemmings 2 - the tribes (usa).bin
+0b00509e9857cb97243e9f2741e90de1	mpr-15233-f.u1
+03af74df7f90f5bd7286ef3b48f0a6ae	sunsoft lem8 j.bin
+b87773c8f0e20490bc601c02ce85da60	lemmings (usa, jpn).bin
+b837e85dc4a002a511ca4f2a33f4e1be	lethal enforcers (euro).bin
+63038691ac82a02290404745bce53b13	fz008.bin
+849d73aedfd102fae1adc762bfbb6dcd	fv008a1.u1
+d66b3c6eb5f4f4aceb58e62696a2b29a	lethalenforcers00.eadd.bin
+ea778ca85d7a5d0d1b69ae0c44c54204	assault suit leynos (jpn).bin
+605cf449c578869cb229cd38c0499da5	lhx attack ch lhx04.u1
+98522160b9f62470bf2597d98f5e6964	lhx attack chopper (jpn).bin
+8ce95e5651cb94755a42986de74e0f65	liberty or death (usa).bin
+20269e49021b8f5d85073453b2e8349e	mpr-18090 r25.ic1
+53673755ae0c01f8443293e3d846e910	light crusader (jpn).bin
+8d4fa22fdf9ad5515e37f690c8490152	light crusader (kor).bin
+07f0620dd8ad5d278b7981607da9f504	light crusader (prototype - jun 08, 1995).bin
+2869e0d4ad512a1fbd9b79d6937d9446	light crusader (usa).bin
+bb6b10927e6238206e9a7ba8c7d91a14	mpr-15210-s.u1
+dbfa3ac3c752d83b73540c177ced0cab	link dragon (unl).bin
+a336913f4325c18e22ece1d680a41bbb	shi zi wang ii - the lion king ii, the (chi) (unl).bin
+477be56152ba1d3fd605d7e6986ddcd5	shi zi wang ii - the lion king ii, the (chi) (unl) (pirate).bin
+ecd707daec1c307269d5f6a5f9f69657	shi zi wang 3 - the lion king 3 (chi) (unl).bin
+25f80dd5d4e1f9795e7ad51dd65cf071	lion_king_3.bin
+da2c73b28fb22e17a313e4646aec4720	lion king 3 (unl).bin
+1bac4a2740721eb23ec21fdf18aa81a3	mpr-17270.ic1
+45905205cffaa4af04b00e42c77ba956	mpr-17274.ic2
+0a9cc02ee4ee9f0d8d1009b3de989db1	lobo (usa) (prototype).bin
+5e06d2de451ecc57a9a91577bb0dc59c	lord monarch - tokoton sentou densetsu (jpn).bin
+44752b050421c4e51d1bee96b3fed44e	mpr-16361 w49.u1
+d23c534b8056b3775cadcd8b5cdc5e04	lost vikings, the (euro) (beta).bin
+a8dcb5476855a83702e2f49ebd4e2d57	lost vikings, the (usa).bin
+faa6c4be300016843000cbbed8e94553	mpr-19768-mx.ic1
+e23397347b07999b84829177f3323c36	lord of the rings (unl).bin
+a260864a5fcbb8f64cb7280dac6c0633	lord of the rings (unl).bin
+eb825f40e664c4b948e13b3025aa855d	lotus lot205.u1
+8496a55f720e45811f0c815c2d499640	lotus ii (usa) (beta).bin
+9d8be607eacf4ce55148c3f06474faa8	lotus turbo lot03.u1
+3afa94c8f33a235e94645e6d1b442829	lufia01.bin
+12e72c2607b170db4476b0e154883a2e	lufia02.bin
+09a1d434dbd7197e7c3af8a7c28ca38b	lufia03.bin
+09a1d434dbd7197e7c3af8a7c28ca38b	lufia04.bin
+f245470a6843f4176c57a69dee392db7	madagascar.bin
+74a99c62504df8aef5beee3e1868126c	madagascar 3 (unl).bin
+0fca001847700bfc51f52062c9f05b84	john madden football '93 - championship edition (usa).bin
+6c2b1deff4ad246d5ac0962591e1f974	football u1 s0021.u1
+b1935fa5d19abf16029fa2e9d4024343	madden ii mii05.u1
+5046a4926046bcd2df4ff64b9cabb155	madden 93 jmf302.u1
+9ca0c88961d110eaef383a0d8e3f22f6	nfl 94 mnfl9402.u1
+52b7e1ce6ae02a5b5c178d4df865b1dd	madden nfl 95 (euro, usa).bin
+f997e2088e3728941cbe3bf491b3496e	madden nfl 96 (euro, usa).bin
+c5e4b901ca41524c182e576bedb13981	madden nfl 97 (euro, usa).bin
+e3044f5de786cfa13f2d689e427f62e3	madden nfl 98 (usa).bin
+27c9f20efbe9cb4fc2156f2490fe07a2	john madden football - pro football (jpn).bin
+14ad9d36ad7ee100a383105b9f1c08f3	john madden football (nov 7, 1990 prototype).bin
+41b8ba3569e3f4f98155dea64318d223	madou monogatari i (jpn).bin
+457518ab71f02a074be08dc5bc2ee73e	mafia (unl).bin
+d3bfc88e31c01a89b1660c514baab7f2	magical hat no buttobi turbo! daibouken (jpn).bin
+619039ae5d3de883949227a1c4723789	magistr 16.bin
+7c4de0eca81e799768908c4fd6a4a9c3	mahjong cop ryuu - shiro ookami no yabou (jpn).bin
+b37a99a48e93a4e6d883c651fdef0a8c	ma jiang qing ren - ji ma jiang zhi (chi) (unl).bin
+586ee32737278c74043bb946e9d4993d	mahjong lover (unl).bin
+e5df696dcfbc46e2b664dedf1dc0be52	mamono hunter youko - dai 7 no keishou (jpn).bin
+ae6c1618e6f98d3101b1b91d3835ebac	mdss12c4.bin
+de95e934446f5617e09a95fc758afa50	fx015a1.u1
+53bae19b3db06e8d1a4de105fe88cbf5	nigel mansell's world championship racing (usa).bin
+b68370715402c795fbeef307cd70f2a5	maou renjishi (jpn).bin
+b6ce4e32558f71766b662cb741cd4570	ma qiao e mo ta - devilish mahjong tower (chi) (unl).bin
+ab99c73cffd808ddd93c43e2f52cc92d	marble mar01 7089.u1
+23d2c1d23612890ffd137f56e0d37f30	marble madness (japan).bin
+9c0f447146eca3c573e7129b808b635c	mario 3 (unl)[a1].bin
+c23f3fbf7775fb1836bca55091b6e467	mario 3 (unl).bin
+fbc5a7bb3c581098e130ed019a06ac28	mario 4 (unl).bin
+84e09489bcf97ab325908e449bc9efc5	mpr-14376-h.ic1
+62854ed2fcf40402785eb9e3a6aa0137	mpr-16825-u.ic1
+dc6d5e720794bcdc98852184cac9c268	marko's magic football (euro) (beta).bin
+74e2d605309f3d23174d6ac15d7c9608	marko's magic football (usa).bin
+7914adf64ff1156c767ae550334c44b5	mpr-18430-u.ic1
+9cf141681e68407d1e5279f7a35d6d53	marsupilami (usa).bin
+ac2b187f80174678c8e9941d75f55b52	marvel land (usa).bin
+0e49ee0eae1094e710c4bd58bee8a6a0	lrog452-mml.bin
+6fd2ba6b00c102debe3dcbe6257656c1	master of monsters (usa).bin
+1b6e81696b813d5dfe3528df043f86ba	mpr-14120.bin
+2abec974405f7c6ab4cb46f370fc910e	master of monsters (apr 26, 1991 prototype).bin
+e1bd8ccb5c427b4f95f65a4ea771b345	maten no soumetsu (jpn).bin
+84873c9aef8ad04e4a2b6a113bd68015	math blaster - episode 1 (usa).bin
+989ae9c548dbf6ce7243fc27619b67cb	mpr-18563a-s.ic1
+7a17da2e87bbe67eb9b8359ce99fd14e	mpr-19625-u.ic1
+a9979ae2dd33c6db2c2bd87a28d5ebde	mazin saga (asia).bin
+f3ae6147d9ad2d40e781a49c7263f746	mazin saga (jpn, kor).bin
+f978463dca8bc6f44f28c665b59965f6	mazin saga - mutant fighter (usa).bin
+f1b8477c6f20e4a4491f01dbc4d869ec	mpr-15661-s.u1
+c6a8ee07c4c7f161c3fc7b18d31b7691	magic_bubble.bin
+2aa4836fb5e526733aad998fa32e0875	magic bubble [a1].bin
+114fa05e09fb388e5b9e42f77eef27c8	mpr-15803 w48.u1
+a4c53fe9e340caa1380efb06e2244f02	mcdonald's treasure land adventure (jpn).bin
+eb082494a52b859fef977c81ab1250a6	mcdonald's treasure land adventure (jpn) (beta).bin
+2346c99595a4f341e39e6ec75fe19908	mcdonald's treasure land adventure (usa).bin
+8be07f540b64f5acd7bc2c756c88ad51	medal city (jpn) (sn).bin
+36cfe519c50a76f75664c709d9ae050a	mega bomberman - 8 player demo (unl).bin
+5a94b1e8792bb3572db92c2019d99377	mpr-17108-f.u1
+514f6cad98f5f632d680983a050fffc4	mega bomberman (usa).bin
+6d581c3457366bfe9eadc3d83c270e78	MPR-15009 W50.u1
+0d1c2d48509985f2d79b0fc3c8fe213a	mega games 10 (bra).bin
+322d478c2ef799b9aa8f28b419a52866	mpr-15964-f.ic1
+6573b69e45760e08c5a3e4d9afd92659	mpr-15965-f.ic2
+b03cfa8f4b28f90a204f336e1f8880b4	mpr-15649-sm.ic1
+509e5a476d07aba79dc461c29f71fc69	mpr-18002+mpr18003.bin
+d9ae6e21453e27e0ca89cada10f2db8a	mpr-18176-u.ic1
+de083d09f61701120292502cbcab28ff	mpr-18177-u.ic2
+7a87e2e7bb4535603d1f07240b47cd0d	mpr-18871-mx.ic1
+a4561b736011c91e43c18aa8971cdead	mega-lo-mania (euro) (v1.1).bin
+e622bc3c4a61aacc2efc1fe4c580987f	mpr-15230-h.u1
+1b06184a4c719b8435f574acdab0183d	mpr-15330-h.u1
+6d294b1a2c901ae61774754f6f533a34	mega-lo-mania (jpn).bin
+bb891aec8a7dfe6164033f57af2025bd	mpr-17776-f.ic1
+08a419f456adfc71205a0e723988aaa8	megamind (jpn) (sn).bin
+170b24f2fdb1f3dcb59c4197afeff7dd	meganet (bra).bin
+48577e9f9a9c12499838ca3fa1d396e7	mega anser (jpn).bin
+e38549b6eb3e260e458c6de91059ceeb	lrog4511-mmg 90436.bin
+1e29842b5721eb1845bb55e0a2e31cef	335049-1050.ic1
+da8e11c23bbc866d6227f19c4be6530f	mega swiv (euro) (pirate).bin
+714dde65fbc29189f18a58c4556c8441	megatrax (jpn).bin
+de3c63abb34a54d264f8d5ea1bcb40d9	mpr-17346-f.u1
+8d73db292f0f4c838e72086fb3d5896b	mpr-16388-h.u1
+87bf5af19eb663526ad00ecf7b0b923b	mpr-15075-f.u1
+8ef5880ad7df2d37ca6b7333b240f5e3	meng huan shui guo pan - 777 casino (chi) (unl).bin
+4643f5da530463356ce56fae5c346ddc	mpr-14242-h.u1
+2e54c5d255ff54027741a2cbbd699cfc	metal fangs (jpn).bin
+ba0d92682de268f7ac833e572d27dbd8	minnesota fats - pool legend (usa).bin
+e03cdad3abf046d9de139bc421435293	metal gear solid (unl).bin
+2adca8888f29ecff85f8924386750b20	super majon club (unl).bin
+b51204d15148b5856d41eb29d23d242c	mam-gs-1.ic1
+34b498ba6ea5caf365cbaf6dd8c7be65	mickey's ultimate challenge (usa).bin
+f3041b5359d452ce2c5366a03b2d91c7	mpr-15237-f.u1
+c39fe061955784a4625255f4d04084c6	mick & mack as the global gladiators (usa).bin
+c18e9f1725a7b09f2f32274525a8376b	mick & mack as the global gladiators (usa) (beta).bin
+618a52d7fbd8bfaa5e61d2129c8b8790	m-machines 96mm96mdeddb.u1
+3af236e164e601cfeb6d8bf5461561b2	mm96md7cc3.bin
+aee593260dc6d484534b30914bba1768	mdmmacd3.bin
+096a90957fe6945593ccdc9e34894daa	micro machines (euro, usa) (alt).bin
+bdd8341f55f01202a48fcddf5bf80ff7	micro machines (euro, usa) (alt2).bin
+a3e8d48a5ffc999a3eecab8788765352	micro machines (canada).bin
+a145194b26c433c8a7159a00bafaba06	micro machines2 mdm 2bead.u1
+37a2f11d27e7e51e62e98626c88b9094	micro machines 2 - turbo tournament (euro) (j-cart) (alt).bin
+d2b796a42fe1778aac17deab6328daf4	micro machines military (euro) (j-cart).bin
+809534b635e726f57bf1d95f3e6d7468	mpr 13895 w36.u1
+f02a5c603dd2f07864d5c85d21268d74	midnight resistance (jpn).bin
+84fd44b42aa725c3a3132bca77b0a049	mpr-15659 t47.u1
+db69170eaa55e68ca07933ceb308f0d0	mig-29 fighter pilot (jpn).bin
+e7ab4977ef73dd022efb810f5eaa75a1	mig-29 fighter pilot (usa).bin
+3238047522caa4e27be2720da924777e	might and magic - gates to another world (euro, usa).bin
+fc296926083a902b0a6eafdf44e651d3	mpr-17434-u.u1
+5a0d9a3c53c0aa7c5b3d67387ab90cd6	adventures of mighty max, the (usa).bin
+aff745871eb8474342bfcad745449f64	might and magic iii - isles of terra (usa) (prototype).bin
+b725f5bef5b1f774cae00a03893186b0	chou kyuukai miracle nine (jpn).bin
+72b4e2c76751a91726f5e1fb2e8e129f	miracle piano teaching system, the (usa).bin
+e0bb4d00ea95b75aac52851fb4d8ee47	mortal kombat (world) (v1.1).bin
+c8e887ca9cdde7bde85f324f66d34b2d	s376-u2.1+s382-u1.1.bin
+37bc95d82b0c4550e4c28cd3c7a6190b	mortal kombat 3 pal.u1
+4cca5c00ad312409791123258967d216	mortal kombat 3 (usa).bin
+5ad8f8ad871f8c2a4d669cac6759090c	mk 5 - mortal combat - subzero (unl).bin
+375f99ebedb7601db9b1230798ab6ae2	mk 5 - mortal combat - subzero (unl) (pirate).bin
+a1dd8a3e4b8c98dee49d5e90d6b87903	mortal kombat ver 1.00 s220.ic1
+87fd7645d1d8f2539a341285fc697aa7	mlbpa baseball (usa).bin
+4f5f65fe5f8219d791e7ddeb31a635ab	mutant league mlf03.u1
+d77a15e6bf146e064b1543e08a32fb5c	mutant league football (jpn).bin
+6a685a81ae70e8724c376779e3a812e4	mutant league hockey (euro, usa).bin
+118727b2aa80b040c04ecb5be651a137	mpr-17089-h.ic1
+b7f2cb46e00e6eeec726646565d850a7	mickey mania - the timeless adventures of mickey mouse (jpn).bin
+965536e24760755413ae316d935710b1	mpr-17086-u.ic1
+9c0038c8184a8f6ab7e72ea0fa3ba319	mickey mania - the timeless adventures of mickey mouse (usa) (beta).bin
+822ad49995f8958d32f46948885f1564	mighty morphin power rangers (euro).bin
+83102ab0c532d176d0d4a7d9a1b31f07	mighty morphin power ranger - the fighting edition (unl).bin
+7d800e5a1426e91b168c5ac049e048fc	mighty morphin power rangers (prototype - aug 10, 1994).bin
+c71f72a8dfda92c9ffe90c9c94d55570	mighty morphin power rangers (prototype - aug 09, 1994).bin
+e15e457bf701e1915726d01f5c25e1ed	mighty morphin power rangers (prototype - aug 08, 1994).bin
+a29f4f9903a0840e59191d12c6804503	mighty morphin power rangers (prototype - aug 04, 1994).bin
+42d5befe14d354b364859b8e83d4b410	mighty morphin power rangers (prototype - jul 18, 1994).bin
+51c72d8d2858e4f4bd517fa438014f1f	mighty morphin power rangers (prototype - jul 08, 1994).bin
+26fc4c87e79f3c30893012418df74a2d	mpr-18469-u.ic1
+5ff5ece053c19c3611426567403e8d61	mighty morphin power rangers - the movie (prototype - jul 24, 1995).bin
+0e3c6f85e7406a31dd8f48aae407069a	mighty morphin power rangers - the movie (prototype - jul 22, 1995).bin
+d5bb474e4938064a3bdb999f2db93614	mighty morphin power rangers - the movie (prototype - jul 17, 1995).bin
+38caec28e34d73c7e4f8ebccd38f548a	mighty morphin power rangers - the movie (prototype - jul 13, 1995).bin
+bbf3c7bfad1e2110da1469c711949709	mighty morphin power rangers - the movie (usa).bin
+cdcfb24231942f535a18d2097ab5b68e	mighty morphin power rangers (usa).bin
+313949538eb777c6e9725df2681672ea	mondu's fight palace (jul 3, 1990 prototype).bin
+40794bbfc3f9a73df5255fe6d10b5107	monopoly (usa).bin
+32ca66e6a43413fbfded7848d876384f	monopoly (usa) (beta).bin
+a9299665d94f428328e06ea2f8291d05	monsters inc. (unl).bin
+00ee0a02b8794b32584ea1aabadd4580	mpr-17314-t.u1
+a43ef53f2131cd88e7620cdbf724ef84	mr. nutz - hoppin' mad (proto).bin
+94d23b8065e21eaace875d00972f1844	magic school bus, the (usa).bin
+4ba6a3750244625beee9894e115dc24a	magic school bus, the (prototype - may 05, 1995).bin
+3d17f250de4126758f038d0bee7d88b3	magic school bus, the (prototype - apr 28, 1995).bin
+b6317791c4f2ca3fc6dce72942242ec8	magic school bus, the (prototype - apr 25, 1995).bin
+1634e33a10ab6e53ecfd7e609275bee8	magic school bus, the (prototype - apr 21, 1995).bin
+0b9c83bc5c3bdd732cd8a9e4c04cde77	magic school bus, the (prototype - apr 11, 1995).bin
+76e7f86ca268cd6f6b0b26af25aba8d2	magic school bus, the (prototype - mar 31, 1995).bin
+d080b4dd7dd3c3256bfb1957cc575e27	magic school bus, the (prototype - mar 27, 1995).bin
+7053a575f9aec088c0bf59ce014c0e00	magic school bus, the (prototype - mar 14, 1995).bin
+72dc0421b3b94638306d5d9dbc3db470	magic school bus, the (prototype - mar 07, 1995).bin
+6b38d386658847b58ad2a987ae94dbca	magic school bus, the (prototype - feb 17, 1995).bin
+816e52df3c5b86c068af27ad22cfcd42	magic school bus, the (prototype - feb 02, 1995).bin
+b560feeb823e4b62b8b91512986b3639	magic school bus, the (prototype - jan 12, 1995).bin
+cfe7f3023b21bcf697bcf5e1be461ee7	mpr-14178-t.u1
+38357529d189dd64e34d39e8d7047719	ms. pac-man (usa) (pirate).bin
+f676dfdd836199352f105465905c25de	magical taruruuto-kun (jpn).bin
+e484ab1651569c2aae836af60beeaca1	mpr-15507-s.u1
+8f62e23a55efdc026232c9afaff1d2cd	mpr-15323-f.u1
+985c78dd2d5ccc5a34b39edbac7d38e7	muhammad ali heavyweight boxing (usa) (beta).bin
+55d2c8b96b055d217f8d309ffb809062	hua mu lan - mulan (chi) (unl).bin
+d5ced66ba18ec2b8eb69b8b1a6baf0d0	musha - metallic uniframe super hybrid armor (usa).bin
+8e147874de78d95634a807f917b270c5	musha aleste - full metal fighter ellinor (jpn).bin
+a239fd7609f4da6ab8c0795409358c8d	roger clements mvp baseball (usa).bin
+73b63cac3f15bfe4a7bad170654878a9	mpr-13285a-f.ic1
+7baf9fb775ee130bd7a4a779cb3bb612	mpr-13285.bin
+6d28b0c2d6cf454328a8dcd24b5afc0d	master of weapon (jpn).bin
+4bbdae4e4c1e0ae2de3c49dc34f61d5c	monster world iv (jpn).bin
+780baa7dd2f030f0b1c64897b5d4cc10	mpr-12707a s39.ic1
+2a3742ce7a8e5d86bdc52b9d47a82788	mpr-12707.bin
+47fb52e6716557cab025fa2456c0c01b	mystic defender (sep 14, 1989 prototype).bin
+733ba7d7e9f0c81cd1cabcdcbd087a9e	mystical fighter (usa).bin
+91d104e111acc53206df5f816e4813fe	mpr-16076.bin
+7d08c574b564530571f2dee488ae40a9	new 3d golf simulation devil's course (jpn).bin
+14b6024eaa8cc09dd909ae6a957eedac	new 3d golf simulation pebble beach no hatou (jpn).bin
+c9a1b540491c5a6cf360c7285ae592ae	new 3d golf simulation waialae no kiseki (jpn).bin
+72a68c9a735ce36a83a74e5b3c33554c	namcot mfn mb838200-20.bin
+8b2e7224fab19b6a417ce983372a6e88	nakajima satoru kanshuu f1 grand prix (jpn).bin
+aea1ff0445fa53b661ee6a5712ac72fe	nakajima satoru kanshuu f1 super license (jpn).bin
+ae8f74818bcd0caf5d5c87c7987641e0	narnia 3 (unl).bin
+cd0d4eacb6ff79f75389f47f9768c796	naruto (unl).bin
+6155f59e69233a1340817b5dfbbd115e	nba 2000 (unl).bin
+67a889bcd456ed1f856add2cc5d0a263	nba 2005 (unl).bin
+b3ed61c2da404c31d2a5b6f6ada7b7ff	nba action (usa).bin
+dc9117965c0c3fcb9d28eb826082b223	mpr-17443-u.ic1
+3551206d9158d23c0327ec0a45200d06	nba action '95 (prototype - feb 2, 1995).bin
+e821fa9df1126f005861c743b2c9ae20	nba action '95 (prototype - feb 1, 1995).bin
+91204a15632c18d3a4e562066f7a5502	nba action '95 (prototype - feb 01, 1995).bin
+806e5402bc3adb0cf8a6c7439b8c828f	nba action '95 (prototype - jan 30, 1995).bin
+eaa221fe7738ee776f1635e650c66175	nba action '95 (prototype - jan 28, 1995).bin
+57315b5c28ae0c0ab9d3f47de19b7864	nba action '95 (prototype - jan 28, 1995 - a).bin
+c97a45d040fc1e91b4e5372ed11ad332	nba action '95 (prototype - jan 27, 1995 - b).bin
+d13153f2d3e37f755c0f77f220f0ef45	nba action '95 (prototype - jan 27, 1995 - a).bin
+f7faf1f70f184e26e0fc567b17239481	nba action '95 (prototype - jan 24, 1995 - b).bin
+533c8e188658fba86da82558406130b0	nba action '95 (prototype - jan 22, 1995 - b).bin
+f7b2f7865a1275ae599fdc3509ed9a30	nba action '95 (prototype - jan 21, 1995).bin
+4a71697a683edf8e65fc0ff16d284186	nba action '95 (prototype - jan 15, 1995 - a).bin
+2e3832e06af04564f97ceee65ad16350	nba action '95 (prototype - jan 12, 1995).bin
+a02568dde8a750430e4eed11c3f84d7a	nba action '95 (prototype - jan 08, 1995).bin
+19e61c5ae77f1ac26f9d432dac54c6d0	nba action '95 (prototype - jan 03, 1995).bin
+6f8485c1841e7d75f67bd5bc4205fca9	nba action '95 (prototype - dec 31, 1994).bin
+8884fd37a601d2f9d79a039f2496904a	nba action '95 (prototype - dec 30, 1994).bin
+41754e2101376758ff26d8de99400168	nba action '95 (prototype - dec 29, 1994).bin
+075c0d96aaead2902f98cceafa8960e7	nba action '95 (prototype - dec 24, 1994 - a).bin
+df1cabd7f1d6907d87012ad8e7cf547c	nba action '95 (prototype - dec 22, 1994 - a).bin
+7d6f714c25d9bcbf469f1631855a3ad9	nba action '95 (prototype - dec 15, 1994).bin
+b53a0250741a2e44dbee52504da7bb4f	nba action '95 (prototype - dec 09, 1994).bin
+357f535dd518289291e5f2fe2311226b	nba action '95 (prototype - dec 02, 1994 - b).bin
+0a23eff4f6fd0a1156b4615bfaa2981e	nba action '95 (prototype - nov 23, 1994 - a).bin
+c420768e480b07d73af7660b06152b9d	nba action '95 (prototype - nov 18, 1994).bin
+f62e97e30edd521d5c819e88a1fbd76b	nba action (prototype - jan 27, 1994) (broken - c08 missing).bin
+a23dd8070c5227246931b0caa52f5156	nba action (prototype - jan 16, 1994).bin
+3cd64b69e1f837d18c57f9c7b33d8ca2	nba action (prototype - jan 04, 1994).bin
+87a599c96e0775141527f0db04b6a619	mpr-15337 t16.ic1
+f9a4e85931dcaaceded19c0c2a7aace1	nba hang time (euro).bin
+a2dddb13539df45f45ff4061cd6caacd	nba hang time (usa).bin
+234bf02f7f7b6fdad65890424d3a8a8f	nba jam (euro, usa) (v1.1).bin
+338b8ed45e02d96f1ed31eaab59eaf43	nba jam gen ver 1.00.u1
+d72f13bc94ad76c90deef86d5a138ff6	nba jam (jpn).bin
+5b256e5503dd79e6363796e348905d9a	jamev0.ic2
+66f8afce5d0d60a5737865b4bebb1de9	jamev1.ic4
+2f5cb65f213eee27cf311a11fbda3f9e	jamod0.ic1
+a0093c286f6440c95c1598032549b5b8	jamod1.ic3
+be246bbe68019277ada67e3b88fe934c	u1 nba jam te.u1
+2c1000d50b73c1a3ea3f0c27f720d32a	u2 nba jam te.u2
+4d3391ee6f3df2b3a77d687db868764b	nba jam tournament edition (world) (fixed).bin
+c997ae89f3417f5b3e702c84cf1275c4	nba95b6 basketball.u1
+dbe3cb8f486debb2efb94b51ab33ae58	lh5370hc.bin
+3a3399aba2f0c9eb693e9d2acc4f673b	nba96 nba9604.u1
+2c11f642effca640c92a3031f6c2cbb1	nba 97 b2.u1
+3817138d9054d91675f7378684744a4d	nba live 98 (usa).bin
+b465081da2e268a1c045c1b0615bed75	nba pro basketball '94 (jpn).bin
+9c3aeaa26c74dfae329602ee27d0c1f9	nba94 show06.u1
+f3e71ad6cbca7a0d5794455b515a7715	nba showdown '94 (usa) (beta).bin
+3d3c4c2dcc8631373b73cf11170dd4d7	ncaa final four basketball (usa).bin
+6e38acfb80ed7e0b1343fa4ffdc6477d	ncaa football (usa).bin
+697fe71f7c6601b80ff486297124d301	nightmare circus (bra).bin
+6e325bc3fe03b2bbcd39e667cf0b567a	nightmare circus (bra) (alt).bin
+9d8869bf8dec6223440aaed3af202fa7	nightmare circus (prototype).bin
+ff7a9a6fb74a640f40f10dff53e9cf4d	nekketsu koukou dodgeball bu - soccer hen md (jpn).bin
+f868a8e5205b41eabcafe6d0412bfeef	finding nemo.bin
+9ec6ceb468baee52cdede2595adc0f47	uncharted waters - new horizons (usa).bin
+659f0fa8470088c56cd19ccb1946e31d	nigel mansell.u1
+0110f6b03e6dd7796b74e8551bb8dce8	mpr-16052-u.ic1
+2a8f14351758e70f46774136879adcbb	nfl football '94 (jpn).bin
+bb610873a9d08a50fe8de19d2de13579	nfl football '94 (nov 4, 1993 build).bin
+035283320f792caa2b55129db21f0265	nfl '95 (euro, usa).bin
+7098f8582b1f6b4b96803974f387a496	nfl '95 (prototype - sep 11, 1994).bin
+e2ca4ae1286770e43729091e5e612d2b	nfl '95 (prototype - sep 11, 1994 - b).bin
+388e17f99eec45e1f6e256339524e758	nfl '95 (prototype - sep 09, 1994).bin
+64d390ea340b06ddfb47f4a864003b1c	nfl '95 (prototype - sep 08, 1994).bin
+ea79b36c1a32d700633054637627f298	nfl '95 (prototype - sep 07, 1994).bin
+6737a04fa66cbe59fea64fd425c78010	nfl '95 (prototype - sep 06, 1994).bin
+168075cd67511bd917436e36a7271457	nfl '95 (prototype - sep 05, 1994).bin
+fd4f4b764269198d13634d557deb15ab	nfl '95 (prototype - sep 05, 1994 - b).bin
+530a37067c63b143f22185cef034fd23	nfl '95 (prototype - sep 04, 1994).bin
+a60586180259e7613287810bd46d2fec	nfl '95 (prototype - sep 02, 1994).bin
+381c177b1c4d14eae7608ee5360db63b	nfl '95 (prototype - sep 01, 1994).bin
+ceb17a387a1fcda3a326b9c5f4373e04	nfl '95 (prototype - aug 31, 1994).bin
+52199022af67cc7dea27c58b3cb195d3	nfl '95 (prototype - aug 30, 1994).bin
+c06a17cc16219f465060a923fd6cdb6b	nfl '95 (prototype - aug 22, 1994).bin
+63e6b3f037dbdde62376e6e04e26b0ae	nfl '95 (prototype - aug 17, 1994).bin
+121aef3ca0beda1ed54039d46678ea14	nfl '95 (prototype - aug 17, 1994 - b).bin
+86e9d8258f1c01f36ff7ec183218d556	nfl '95 (prototype - aug 12, 1994 - b).bin
+2e7430fba4c9190d875d64b4c4d8a2b1	nfl '95 (prototype - aug 12, 1994).bin
+e7cdd282a0fb48c805f3c2f62f5a42d2	nfl '95 (prototype - aug 10, 1994).bin
+390e19d406569d37c1c79d06490c95a8	nfl '95 (prototype - aug 05, 1994).bin
+f4639aa0ec4f4b7bc1dbb3078d3bbf1a	nfl '95 (prototype - aug 01, 1994).bin
+80652330e1b3e2892785e27413691e4e	mpr-20078-mx.ic1
+d2f0785648c34bfa36012d76c6af4cdb	nfl qbc.u1
+8b99a84e9e661dccf4f79dbd7b149953	nfl quarterback club 96 (euro, usa).bin
+6c7a685f85b14db93cd7bdc38d5eaf7e	mpr-15005-sm.ic1
+7f8534de3b02d818884518e9ad50c4e2	mpr-15006 w88.ic2
+3222386fd79672935a20ef7fce546b1f	need for speed undercover (unl).bin
+148e0a46b6214d5228244c1596041a22	ninja gaiden (jpn) (prototype) (bad dump).bin
+ce9185671cd9a03b712ed152010d2cf2	nhk taiga drama - taiheiki (jpn).bin
+1eb65c531d702935d7d70e070ad2df18	nhl hockey (usa).bin
+a80462034415b24cc3617676f3fddc88	nhl94 hl9402.u1
+94d3518a8e592563c78cf4da84d163c8	nhl 95 (euro, usa).bin
+89e7e0fbe8db82b1f2dd7beafcc4e7fb	nhl 96 (euro, usa).bin
+4ddc912038388de3818623c046890606	nhl 97 b3.u1
+a2c92c09d420cf7c2d2e55e8777f3a31	nhl 98 (usa).bin
+81618c9828ac51f9c34f9b439131c246	mpr-17287-u.ic1
+e29406f3a2008556fb612faca3b42da5	nhl all-star hockey '95 (prototype - dec 02, 1994).bin
+f8c0da0f24843364d4abae4092863f49	nhl all-star hockey '95 (prototype - dec 01, 1994).bin
+0434b5033fa6922e3021312f1c2dde39	nhl all-star hockey '95 (prototype - dec 01, 1994 - b).bin
+2a123bd154c8d24be0a1a67bdfb12747	nhl all-star hockey '95 (prototype - nov 29, 1994).bin
+e811c749ad87e9dad8b76722512763fb	nhl all-star hockey '95 (prototype - nov 28, 1994).bin
+01597166f8ca58e37c525e2602894bef	nhl all-star hockey '95 (prototype - nov 27, 1994).bin
+273b7c5addfd604c8b26328d9299538f	nhl all-star hockey '95 (prototype - nov 23, 1994).bin
+f80c2b2d8a4390dd396578e7b16ed147	nhl all-star hockey '95 (prototype - nov 22, 1994).bin
+69f2a3a6a09b9ecbaaf8244593fe13a0	nhl all-star hockey '95 (prototype - nov 21, 1994).bin
+cb8abeb2983cd1f28e0a6e026990cb4d	nhl all-star hockey '95 (prototype - nov 19, 1994).bin
+475b4acce34db203cd2257c1ffe84755	nhl all-star hockey '95 (prototype - nov 09, 1994).bin
+d9bc1a6d8054320ec13209ab9e6e06d2	nhl all-star hockey '95 (prototype - nov 07, 1994).bin
+48401ef608bb50e1f862904a9ece747e	nhl all-star hockey '95 (prototype - oct 21, 1994).bin
+bb80c2493a1ce8b4f0dbe749542e8783	nhl all-star hockey '95 (prototype - oct 01, 1994).bin
+199ebdc7f2d7a93341693b6c3e7f6b05	nhl all-star hockey '95 (prototype - sep 29, 1994).bin
+bec59c7f152581db08b43a2f5712bde9	nhl all-star hockey '95 (prototype - sep 14, 1994).bin
+bfa18cb579ee0133c6cbaa5a68b47951	nhlpa 2003 (unl).bin
+b6fb2ce20122b319631af6b697e64082	nhlpa93 h9306.u1
+cb3a005adab1cb99f24a7f8b8e420328	nhlpa93 h9306 (alt).u1
+6d607c3e7b9ff4801d568763328613ce	9323 lhr acjvsg.u1
+6e983590637a029647c2ac643badbc47	nikkan sports pro yakyuu van (jpn).bin
+d1263fb5efd1af669a0df2a45689c3f5	ninja burai densetsu (jpn).bin
+cf1e43413cea0a0dbedaa814a4afe1ec	ninja burai densetsu (may 28, 1991 prototype).bin
+ce78da1bf01f315899deb913beba757a	nobunaga's ambition (usa).bin
+8946b6cf04b077fb81c725d037b7ed4e	mpr-14456.bin
+9f0097bdbda1dcfc09af8a505757e741	nobunaga no yabou - haouden (jpn).bin
+f3a0dd8cccea899cc42de227805eda9b	nobunaga no yabou - zenkoku ban (jpn).bin
+c4d5c13d6ef3184fd5e123668f035fae	no escape (usa).bin
+62146cdc28437a346fb4816877e56a91	normy's beach babe-o-rama (euro, usa).bin
+c97812258bbfa2567e58dcb2073e1f4a	omg.bin
+174187dc9772ec276fc1a69fc2fe2665	mpr-14753-f.ic1
+202b6acedd4070df596eb32f4bd5e17b	mpr-14858a-t.ic1
+f21316a9608b25ae8a9e32c39b23a325	olympic gold (usa).bin
+6342fe06a50c9ef31db0988556cd5db9	olympic gold (usa) (alt).bin
+2581e62fdd918aa3f79f785508be6bf1	olympic summer games (euro, usa).bin
+c64b982b20075dce0bf6c804dffe983d	on dal jang goon (kor).bin
+455e836ca5dd9cb782e7455e584cf65a	onslaught (euro, usa).bin
+74ca1efe444d9c0739fffb68334fff46	mpr-15497-f.u1
+57311bf4206cbbaa5b6183f1a5b8080f	out of this world (beta).bin
+cfeed2515b26497e3f172f19f396e755	ooze, the (euro).bin
+9a56d0dabe7b7359436923e2b33996ef	ooze, the (usa, jpn).bin
+b1fd0a9eabda1ed5fe806ae98e9453b5	ooze, the (euro) (prototype - jul 28, 1995).bin
+6deb6d694df9c41f9c3cb3ed54949186	ooze, the (prototype - jun 29, 1995).bin
+5dc9a102d8ba0ae12f0cae3373760e61	ooze, the (prototype - jun 29, 1995 - b).bin
+d81b29eb89231a06ce4254fac2be9a6b	ooze, the (prototype 112 - jun 26, 1995).bin
+612b9b48f47fd6ab568115ad3cd72b08	ooze, the (prototype 104 - jun 22, 1995).bin
+fb0a885b7f218e1a38ece1040f89a6ce	ooze, the (prototype - jun 19, 1995).bin
+ea995d54277c9d14ea7ac6381d2e977e	ooze, the (prototype - jun 15, 1995).bin
+b09daed1d6e5525669b71513d2a540ac	open season (unl).bin
+de2880faba6212e8c7edd3d3cb69081c	hunting season 3 (unl).bin
+347c270e2a50ca62777dae5a01aa693e	operation europe - path to victory 1939-45 (usa).bin
+dad0322e38b9efaa5551c0aa881fd633	outrunners (usa).bin
+c1024e8e850cfc1c0894b394bf863520	outrunners (jpn).bin
+b415c3b6feeed744be6508ba4f62890f	osomatsu-kun hachamecha gekijou (jpn).bin
+651d4307d7feae3e7342ee2f3d824ef8	mpr-16214 r04.u1
+92c37e268b00bc8b3c5f5c7630c72874	ottifants, the (germany) (beta).bin
+34dcdc7f7c33ce7ef58687a43c5c548f	outlander (euro).bin
+e8c7b444a1cbb0c12683ff2fe22e2b20	outlander (usa).bin
+df66b228101eeb987734fe9f547cefb5	mpr-15482-sm.u1
+f9e6d205c1a4d8b8e8f9ede5d4de9677	outrun 2019 (jpn).bin
+402a6b80a138eefc426b27c24d4aa3f5	outrun 2019 (usa).bin
+f195611a11ab32096a0014c04cc7d1c0	outrun 2019 (usa) (beta).bin
+2c93e520772d4cdc1cf4ad54d2fcb406	mpr-14171a w01.u1
+66eb83db18506107e3fc8dfeaf7bb031	mpr-14171 w30.u1
+6cb9c5364784cd18974f81780edb3ada	pac-attack (usa).bin
+b6eb8070b6f454eecfefc3663576eac5	pachinko kuunyan (jpn).bin
+b5ba9f464d3efced0354b9fe2f221125	pac-man 2 - the new adventures (usa).bin
+2256f31ff48f93a5e2f1d03f13c0f024	mpr-14392-sm.ic1
+fcc0d8fe72a708545d7947dc532b7da5	mpr-18484 t58.u1
+0353bceb7f49b4fe9663e51ec9b8f9ae	paddle fighter (jpn) (sn).bin
+72b727d573e99a3916943075a4bca780	paddle fighter (jpn) (gnk).bin
+46b265c3ea4e739656363e5232c8c56b	mpr-17316-u.ic1
+aafa1208e6c1f0850d091d6b20ede002	pagemaster, the (usa).bin
+91c262a0d0c4072286b4c0fe861cbc1c	pagemaster, the (usa) (beta).bin
+93a22de4e043056ead9f3bd4a7f659e0	mpr-15320 t15.u1
+f185e7700fe58f34d1c2968074760cdc	mpr-14517-sm.ic1
+6e3424093e687ccfca125ef5d34242d0	mpr-14774.bin
+c44efbfd7acbffdc75e377df607ffd29	paperboy (oct 28, 1991 prototype).bin
+f22a923dc18bea0f7b9646e41886fcc4	pro action replay (euro).bin
+9bce44313081346c5ac90550964af76d	pro action replay 2 (euro).bin
+0bad596e96546d9adfe768439a5663db	pro action replay 2 (euro) (alt).bin
+b21b69f718115b502d10481e1f6ecc0b	party quiz mega q (jpn).bin
+aa5d301d95d38b4845fc0a160fd43d29	kidou keisatsu patlabor - 98-shiki kidou seyo! (jpn).bin
+4450ae3c9d7fc290daa6dcaab8d68644	mpr-13288-h.ic1
+b4e1b92d38eb5ccf6951d6c4b559f27f	pat riley basketball (jun 14, 1990 prototype).bin
+bdf4797b01e2f2a82489dc606dd81481	pirates of the caribbean (unl).bin
+49898d849c9bafe842db8550cf3078eb	pirates of the caribbean - on stranger tides (unl).bin
+422a285546a9755df77da2840fb2c817	panorama cotton (jpn).bin
+7988fd0d0d2abe47ada250af652efff0	flying.bin
+1932eab601f3b15f259dc0961e468bcc	mpr-17421-t.u1
+33ba556c98d908da0481c0a18cd4f7df	mpr-16281-f.ic1
+6e0a90f45aa7c14662f2a8ee4ba55cdc	pebble beach golf links (feb 14, 1994 prototype).bin
+5d00e3e55b83ad10d4021c75b0030c88	pebble beach golf links (usa).bin
+0b71940ba552e76ff16ac6e9cf619f0d	pele! (euro, usa).bin
+0faab2309047b85de82a62e0230ec9f4	pele ii - world tournament soccer (euro, usa).bin
+50b00d9ac86fb44aeb9c71882c92da4a	pga i u1 pga09.u1
+adb33c74e368ef21b04903eadc6244cf	pga tour golf ii (euro, usa) (v1.1).bin
+2ea08299cdfc499fab5b75ada77dcbae	pga tour golf pgt04.u1
+2fbdef7aaec61d9b57b425e6a2068295	pga tour golf ii (jpn).bin
+96b3768461d6fef3c6ffa0a59e8de7b0	pga3 pga3b2.u1
+f65dc2d83128232e2da5cf569669083b	pga tour 96 pga9601.u1
+b40a7bff341839b9d8d31cc9d37d944b	pga i u1 pga07.u1
+d8575831aa3a753221a43aa574dd473b	euro euro03.u1
+46c86c8c4ab3dfd5db09fb23e2023b7b	mpr-18332-u.ic1
+f2c111cae725e5b31775d04dd4c7b546	phantom 2040 (usa).bin
+049dd9663d4a19d241e78e7eaffc8b2b	lrog4503-eps 91375
+9de042308ba18ecbc622556f5b9b81a0	namcot mps.ic1
+ab720f3ec45423c794403e9830a00032	phelios (usa).bin
+de6153f3bb6a8888cbcb05fb56824c9c	jerry glanville's pigskin footbrawl (usa).bin
+d05bb061ee9f5880bbbe330843bb4079	mpr-16065-h.u1
+be4a64e914cd345268b005e7c11d378c	pink goes to hollywood (usa) (beta).bin
+99fa6ab3d399e4cff74bb6ff79727efe	mpr-18872-mx.ic1
+bace0d15220dcfc8b8a3efb6668e45ba	pinocchio (usa).bin
+625aa64dbb0133e4c6f8fc453941ce75	pirates of dark water, the (usa) (january 1994).bin
+eb0eda9027dd52008594b2755066df86	pirates of dark water, the (euro, usa) (may 1994).bin
+8689ffd6edad02bad1f74fe19fe25c9d	mpr-15970-f.ic1
+1fd127cb613c41b4f919a60931992faf	pirates! gold (usa) (beta).bin
+afb791f94ddec643f4d351530fdf36f0	mpr-17331-t.ic1
+6a80d2d34cdfafd03703b0fe76d10399	pitfall - the mayan adventure (usa).bin
+9af02a38fd858a7d4d54a6bc3b8cb75a	mpr-14320a-f.u1
+d3794fd2a601aab217dae8928ef94438	pit-fighter (world).bin
+7707910c826bdb7c3f3bae371e8c98c2	plants vs zombies (rus).bin
+72db40c6dd4046e02fa068ccce6f21b1	powermonger pm14.u1
+4096d4e55de03b6999e1663a91b89b74	power monger (jpn, kor).bin
+a5faf69431de60792d7bc478d4d0f6fa	mpr-19084-mx.ic1
+4bb5e269940b9a8b16115fcf407fa1fc	mpr-19085-mx.ic2
+04d546c82591ce29d7135c0e0fc5fdd2	pocahontas (usa).bin
+45f55ddd3add2630b7cc52dd07913515	pokemon crazy drummer (unl).bin
+aa66d1e247d3c9d635f4ddef09c7f9a9	pokemon crazy drummer (unl) [a].bin
+12697169ad1b33753a856a4077010d13	pokemon ii (unl).bin
+e2be9447b4665f2f9a0683c56615ee5d	pocket monsters (unl).bin
+6a17b0713f1fa41e16c626de408b91d4	pocket monsters 2 (unl).bin
+3d7dc94775654d029845ef8b5f39b2f6	pocket monsters (unl) (alt).bin
+984511c98143e3ed4c4301d8cb508cd8	pokemon stadium (unl).bin
+ac95a7a539f4fcb5cd6ca01e0edf2e28	populous (euro).bin
+4c960f022be09f667e3b2d21be21a018	populous (jpn).bin
+23495b29851e9d495939a88b627ce2cd	populous (usa).bin
+2391922125eed997b77a015135454ebb	power athlete (jpn, kor).bin
+76d1381bbf7e02b8607482ecd23a7dab	namco gpb.ic1
+6f8cddb3775b588b49d13e7c62d08e86	pepenga pengo (jpn).bin
+bb8dede1a266d8c48a8f2ea1e4d12e58	mpr-16445 w86.u1
+dc580653e3edc6c6b01cb1bfacc947b4	prince of persia 2 - the shadow and the flame (euro) (prototype).bin
+961d60986c98f6ccd4b19a75d85b8854	prince of persia (beta).bin
+fe2be04df0ce13ae11863eaae5dca9c5	prince of persia (beta) (earlier).bin
+a942e336b5d2e9f962b289fc08b890c6	prince of persia (usa).bin
+6413bc568d7750b308fe06a3c85e6ec8	mpr-15069 w71.ic1
+46d2603fd5da144589c6d5cc45a16532	twi 1995 335108-1050.ic1
+06abd77c19738d54dccf8d0da9d6d876	twi 1995 335108-1050a.ic2
+15a8114b96afcabcb2bd08acbc7a11c0	prime time nfl starring deion sanders (usa).bin
+2f002d22d3051a8a9ec375e85740d8aa	premier manager 2005.bin
+69f31849f904350bbf05c9b453528643	mpr-19098-mx.ic1
+04f0d76fb267c53f65eae7b2ea2e5a47	mpr-18473-u.ic1
+22289fe42b00a5fe5df3299747480fc0	fx010a1.u1
+79f5ec87fa555fc89e8f96e9154ce37b	pro quarterback (usa).bin
+1f8e7897522b6e645f4b8123bff23654	j. league pro striker final stage (jpn).bin
+a70348b2fb13c4f1527cc04c42bbcfc4	pro yakyuu super league '91 (jpn).bin
+76cb3b2ec8b827ec9288d28bc8d0cd3b	phantasy star ii - amia's adventure (jpn) (sn).bin
+10195dfcde401acafd406f2640e384de	phantasy star ii - anne's adventure (jpn) (sn).bin
+4efb0bc21c9df35ff39eb1862f972c47	phantasy star ii - huey's adventure (jpn) (sn).bin
+dbe39f02548beaae0aa652dc4874c09e	phantasy star ii - kinds's adventure (jpn) (sn).bin
+d60bc80b482dfc1b31cb6c383f3fd88c	phantasy star ii - nei's adventure (jpn) (sn).bin
+8ce3458a47e1dcb75982403e8b3cbf3f	phantasy star ii - rudger's adventure (jpn) (sn).bin
+5abe74899da838cc9dc7cabfb4d8f816	phantasy star ii - shilka's adventure (jpn) (sn).bin
+83f22a27147bdfd85d405daf111fde92	phantasy star ii - yushis's adventure (jpn) (sn).bin
+d46adb8a47f2ba6921409f71f57568fc	pier solar and the great architects (world) (en,es,pt) (rev c) (unl).bin
+a9e1c602105aaeb9df2ab82a1ea9a832	pier solar and the great architects (world) (en,fr,de) (rev b) (unl).bin
+e9c76d40d733165b5e499f43d4032e13	pier solar and the great architects (world) (en,fr,de) (rev a) (unl).bin
+814073e66a3be78c91219b0ee9978b5a	pier solar and the great architects (world) (beta) (unl).bin
+1181a2a36ed5d6876f211c5568e5f020	mpr-12851a s40.ic1
+6c19bd09ac28b3bdde29f9c67d23cd04	mpr-12852a-s.ic2
+75ea42b49a65ceb0395480126f426c6a	phantasy star ii (euro, usa).bin
+f2d46a63b34cf6e5a2c8264fb59c06e7	phantasy star ii (bra).bin
+ad692c895d5c2cab7b616df2135ea3b4	mpr-12140+mpr-12181+mpr-12182.bin
+c620dbe2bd0bed5059ca7913dedabfe0	phantasy star ii (jul 28, 1989 prototype).bin
+82c7bc027685cc8fc6c9e077beb1a75a	phantasy star iii - generations of doom (euro, usa, kor).bin
+43b322e74938969b6736c620f9fa6fc3	phantasy star iii - generations of doom (bra).bin
+359958755d967864711bb503a125ccc7	phantasy star iii - toki no keishousha (jpn).bin
+58646828bbe100f37df663ccdc3ace0e	phantasy star iv (euro).bin
+8d72fa4371e4084b645637ec9e5188de	phantasy star - sennenki no owari ni (jpn).bin
+7bd2c6584501593d399ce2b943543b54	phantasy star iv (prototype - nov 07, 1994).bin
+275d54c3579ed3649eb21e4dc1024a47	phantasy star iv (prototype - oct 27, 1994).bin
+2981c138fbfbbf54d2b073bf74490c22	phantasy star iv (prototype - aug 15, 1994).bin
+813c81169353044d2050bf0b6424df47	phantasy star iv (prototype - jun 08, 1994).bin
+35649ae4a2b8a282cafd53c8b5af62cf	phantasy star iv (prototype - may 30, 1994).bin
+84cbd0ff47f3c8e9d21d2c2fc39185fa	phantasy star iv (usa).bin
+9712e35060274df553ab793b0cf71fdc	mdppf821.bin
+0eccde610ac934ce95cd5f10e11d0bc9	codemasters psycho pinball mdpp021f.u1
+d4e9c54c5dfa5ecfcb4177be7d3934f8	psy-o-blade (jpn).bin
+885b907e33244c9b7c72f00e47291812	pacific theater of operations (usa).bin
+01db4442a585c0cdb7737f53723167c4	mpr-15678-f.u1
+5015bfe98dddd59015e3557d2f5769f3	puggsy (beta).bin
+2a7290076430f4c735feaf8a46d9bfe6	puggsy (usa).bin
+b0952bec44386411651ad944c67cf86c	pulseman (jpn).bin
+e4361688368d9da9550b7e2443377232	punisher, the (euro).bin
+0711541847d139a7dae88958b68f92ee	pun-gs-1.ic1
+2fed39c0cc048a5ecd2a91495975b002	putter golf (jpn) (sn).bin
+925897f4f14d614bca1007c56f0f543e	putter golf (jpn) (gnk).bin
+59ba4979fa766ed6a765c7064c6265dd	PS-md.BIN
+92c7414e216a3c63c50125349f67ddee	puyo puyo 2 (jpn) (v1.1).bin
+2aff4f06a67067aa2fa2bd5b2425594a	puyo puyo 2 (jpn).bin
+c723d1079157ab78e160b26ac5091d74	puyo puyo (jpn).bin
+3d8ade1cf3849e8d54da4f92e3de4edd	pyramid magic (jpn) (sn).bin
+59517c81d495dff2c333ee0eed217423	pyramid magic ii (jpn) (sn).bin
+22dc468dfc6a0ff657f52aff8a107f93	pyramid magic iii (jpn) (sn).bin
+b192974db87469b3966e819836d1b098	pyramid magic (jpn) (gnk).bin
+b375e7f8a10279a3835c633b7c0ac0b6	pyramid magic special (jpn) (sn).bin
+fb2f67d2f981a1802ae408e6a704b460	poker club (sachen).bin
+ade4e47b0fbd329acaf36efc4f8d637d	mpr-14371-f.ic1
+a184d044b122b73026b8f4f8fb6bc528	mpr-14354 w44.ic1
+9059e6c9ee0fc3fb80975e6f7c3a935b	quad challenge (usa).bin
+3f575aa9a9afb293a91a4606a297d69b	mpr-16020-f.ic1
+a5f4dd1f543eca1c435de22d9e9bc5fc	radicasf.bin
+84dac9962d2064a2a1f875b8082b6aca	radicav1.bin
+3873eff5958db95da3fcc64e9ab1151a	radical rex (euro).bin
+41b34e2f22ca4cfffb2d6190fad878e4	radical rex (usa).bin
+d7b8e2b170dcf2bada5a6133973f2daa	shin souseiki ragnacenty (jpn).bin
+3314e363260d38cb1e4303e0bea84aba	ragnacenty (kor).bin
+64650a44360d558a710fb05813885174	shin souseiki ragnacenty (jpn) (beta).bin
+af6b6c2e4870a46e61b90bd6d662e7fa	mpr-14030 w14.u1
+d0140fde92f051cde0b986b854f28e99	mpr-12651a.ic1
+a5904e2515d2d0a402a83de41bcb4c26	mpr-12651.bin
+d55d86586e11cfe139df6212d42dd2b6	mpr-15125 335026-1050.ic1
+5da90e74fafadf44d628848661e5d68d	rampart (jpn, kor).bin
+5f78d072f7e67972227d992d966a4879	ranger-x (euro).bin
+4e8a318ba7f70b42816fbdafd2624bef	mpr-15759 t54.u1
+c7b87805a851acb069ae2fbf7fe1a504	ransei no hasha (jpn).bin
+c96b3cdf4525f7fba802d2804fed6a33	rastan saga ii (usa).bin
+40337096cb6d3d00a559471b7ddc56e5	rastan saga ii (jpn).bin
+b013041aba1a4ccbae7fd1e7f6c4739b	mpr-14340-sy.ic1
+23f6d1b0dbdcc72df44781f19fc619b1	r.b.i. baseball 3 (jul 18, 1991 prototype).bin
+ea128e0d71ee2884fbdb0d24bb30e51f	r.b.i. baseball 4 (usa).bin
+544f6ca30c8fb9ca41778632f811abfc	r.b.i. baseball 4 (jpn).bin
+78d0e912e8f259bc0c3d4ac3d7857ec0	r.b.i. baseball 4 (beta).bin
+88f9eeeae1928a64a9f7a7ee221b30f7	r.b.i. baseball '93 (usa).bin
+aed0ed1189bb7c0379ae1ac9278950b7	mpr-16594-mx.ic1
+30682a233a4afba0b0065d0e98b5c6cc	rainbow islands extra (jpn).bin
+90b905b88c10d2f80d269a0c5838cdd6	the battle of red cliffs - romance of the three kingdoms (unl).bin
+4df88f0ef789a172c2c329ba931f25f0	the battle of red cliffs (unl).bin
+b351a24e0873756de1fa22282cf81ec0	twi 1994 335079-1050.ic1
+5fc7887bfeeb3b9678a69c57386b68ba	mpr-16251 w85.u1
+886ec763da1e6d9fc9984b0e42e81b9b	ren & stimpy - stimpy's invention (dec 9, 1993 build).bin
+f50133162dad167e273bdb906c11a38b	ren & stimpy show presents stimpy's invention, the (usa).bin
+5c8a411c32a09a87b9359cb3cae17685	ren & stimpy show presents stimpy's invention, the (usa) (beta).bin
+baa47b5e85264ac958072ed0f0037525	mpr-14187.bin
+cb08de736dcb0d2baf14dc728a792644	resq (euro) (prototype).bin
+67e1e031cbeb4c6439a2d2b7e6b3eb90	mpr-12930b-s.ic1
+84906f06b302216a6db943ee52a8956c	mpr-12930a s34.ic1
+b7eeed1bd8420ce1d895b2ca46a0643a	revenge of shinobi, the (euro, usa).bin
+0b4285d853d5d6e634a4c60be3da9e3a	the revenge of shinobi (aug 21, 1989 prototype).bin
+c1db0e198557ecab3ed80e0f8775c50e	the revenge of shinobi (feb 1, 1990 prototype).bin
+3400c50082029ed7b3a8fbafe6b42363	revolution x u1.u1
+93f24b2d7d8810f40d06b8eb419b7eec	revolution x u2.u2
+819b80fd2b52d00fb63e5855f9c19f21	rhl 2000 (unl).bin
+43bad22212aa9177f8aa0e1666530a5c	rick dangerous (unl).bin
+96ea10d75382eecd6eb8a10be86fd7ea	riddle wired (jpn) (sn).bin
+30c18fdbe2183f64702ae9f1a45d63f9	rings of power rin09.u1
+25fa268daa022229ffa3ffd8f19c0d7d	es133-1 rise of the robots.u1
+6947747c2d2855fd422cb1d05d34828d	es133-2 rise of the robots.u2
+7a1ef516a2a741aefdaa543c3a7c472a	risk (usa).bin
+7034bdcc1a0cb38e4d8fc3e44ace6c20	risky ris18.u1
+ecf9d0bac130fed7b6a54a67d7b27df7	mpr-17288-f.ic1
+62e40b8c8012d02df4fac1c68f10eb16	ristar (euro, usa) (august 1994).bin
+376f344f8ef5a4f8365867c9e94efb3e	ristar - the shooting star (jpn, kor).bin
+0cdf27d24a6b65e255e0d660a47eda53	ristar (prototype - aug 26, 1994).bin
+bcd30ad949ac4fb71bd74cf6ed96ea9a	ristar (prototype - aug 12, 1994).bin
+1a85211604a4ad278fdc511e20534a0d	ristar (prototype - jul 18, 1994).bin
+ed51ed819a7521f512c38146ebf0c30f	ristar (prototype - jul 01, 1994).bin
+c0e18a6fbf4e6debd51d0e4d05cca73e	mpr-17427-sm.u1
+530c58317b5626fa15b77adab0aacc9d	rock n' roll racing (usa).bin
+4e3a0867656de0c1a6ede6fb0b962aef	335032-1050.ic1
+9da9f6396e9f2eb34eff3a6dbe573ba4	roadblasters (jpn).bin
+2bf4c58157d0fdb8610e08df308d39e1	roadblasters (jun 27, 1991 prototype).bin
+7cfd4fe940f783105fc37fe603614c38	road rash u1 roa03-4.u1
+22d2bcceb8074fab4f61c87785061046	road rash u3 roa03-1.u3
+3428cf3bdb5aab0ebfcf0e380d4d1c5d	road rash (japan).bin
+ad5d2098fb34a6978c5fe5a8ba74a8ed	pond ii robocod rob02.u1
+3f371946ef10d5b1b3518b73494d0800	james pond ii - codename robocod (jpn, kor).bin
+e1c98a74abc694c39c577f1cc4e7a2b6	robocop 3 ver 1.00.ic1
+240e3b3dbf7a36047a5eec74ed422d9d	robot battler (jpn) (sn).bin
+9d54461f3b0ad92c24dabae0c877cfce	mpr-16027-sm.ic1
+06f90c41aa7cdae56635fdd11da6c0c7	robocop versus the terminator (jpn, kor).bin
+968d300afc92f858575f2a99fee8f0ec	robocop versus the terminator (beta).bin
+c0ec93faf3415b23fd6863861b0f1520	robocop versus the terminator (beta) (alt).bin
+cfc3568cc985f7b73dd5afa69c9f28a4	mpr-16019-u.ic1
+e0082a890feeca3fb7733a85455a3c17	robot wreckage (usa) (prototype).bin
+baf6d595dcdfd388f57c781e60160997	fx004.u1
+6f0df6d8e82f0e05be3aec1d43b34b32	rocket knight adventures (jpn).bin
+ce0fde21d2c418b24c3d904e57df466e	rocket knight adventures (usa).bin
+eba69cf9ce2211911ae0d0a78e606087	rocketknightadventcdfb.bin
+7a25e5249c0a406f20f76bef45dc3202	rockman mega world (jpn).bin
+520d081a450b5e9f127369e6ec1be43e	rockman mega world (jpn) (alt).bin
+182898fb5913e2c4397a12008637dcea	rockman x3 (unl).bin
+b0bb53272343651cdf177e140baeca04	xxx3.bin
+bbe09e07009bf4e24e9300b02e05a6c5	adventures of rocky and bullwinkle and friends, the (usa).bin
+46f0c65ea34800bd53c14712ad57eeff	rolo to the rescue (euro, usa).bin
+e2bc92714f45c1e2b168a41ca09cc7f4	romance of the three kingdoms ii (usa).bin
+f2623070eb80dcb99f08e0ef37ba114e	romance of the three kingdoms iii - dragon of destiny (usa).bin
+69f4c1571e21499007fecf4de5d741e3	royal blood (jpn).bin
+062ed2f4e698bd8c61ebb1ee74a08d2b	road rash 2 rr206.bin
+c04a309f607aaf59f55eb8dad6affa73	road rash 2 rr205.bin
+98196408705f4520213ba1e43bef67f2	road rash ii (jpn).bin
+dce9b99a3d692cb4463f9f35d278659b	road rash3 rr3b3.u1
+e4b400ed10d7573d6e4447492ab8ae2e	road rash 3 (usa) (alpha).bin
+06ddc929a7bf834c40344ac83a4acc97	richard scarry's busytown (usa).bin
+de96b49550908ffb5a942355a266466e	richard scarry's busytown (prototype - aug 26, 1994).bin
+775fdd6db6f9cde88b11f968599bbf07	richard scarry's busytown (prototype - aug 25, 1994).bin
+724489aaf70a764bd3f7ab26b7ee8629	richard scarry's busytown (prototype - aug 17, 1994).bin
+b75d0fb8fbb00f7274e9a733941b7017	richard scarry's busytown (prototype - aug 16, 1994 - b).bin
+392624b3b117207706a522954ae98440	richard scarry's busytown (prototype - aug 15, 1994).bin
+3fbb6f366e3a1c092d8e9c9d27ed940b	richard scarry's busytown (prototype - aug 09, 1994).bin
+0b047df3f5cb4d3019314cef7e0ba64a	richard scarry's busytown (prototype - jul 21, 1994).bin
+be1185a2620c2d64d75e8827e00e8b3d	lrog4532-ert 92452
+0a8fa7fc184a55b522e728e395699ec4	rolling thunder 2 (jpn).bin
+3753ae738edf6f37203763f3a8a6e406	namco grt.u1
+a1e062e71e091793ebb09edd4511da77	rolling thunder 3 (usa).bin
+639c7a9083aba418f6cd38d7d68eddf0	rugby rugbyb21.u1
+5a41a9e23515f2a6097fcb279e345ba8	runark (jpn, kor).bin
+05dc6075c0fa4dc5779b575b594d2947	ryuuko no ken (jpn).bin
+de20824d501aea9d2a60de790661ed49	super 15-in-1 (pirate).bin
+6100476f9a0b726e249c15857d7c50e1	super 19-in-1 (pirate).bin
+c9ab9dd499c7d56772fccbd2ec2ae465	sagaia (usa).bin
+b5365025a46a2781c63e254345268bf1	bishoujo senshi sailor moon (jpn).bin
+9b399dee13e33613a4bed61b76d0233d	mpr-13301.bin
+bbb6f58eae06f574fcdfb010cc1e3c22	same! same! same! (jul 30, 1990 prototype).bin
+b784b4b8b3ea0390f6a5e7f026a95edf	sampras tennis 96 (euro) (j-cart).bin
+87167082399c3f8fe676ee85bfc40aaf	sampras tennis mdst6636.u1
+2b8db39a10f0097bfece760bef619f24	mdstee_13.bin
+734535160fb214c69405c90eb58a93be	pete sampras tennis (euro, usa) (j-cart).bin
+24d7c41e8429aa8d7b8118983fe1f6f2	mpr-17608-u.ic1
+a2b7583f0aed17b2f9ec31a4de731af9	mpr-17609-u.ic2
+5fbf5df5899e4bc1207cff1417375278	mpr-17501-sm.ic1
+96fad2f1f00b761b0359ea8c53acb956	mpr-17502-sm.ic2
+bbca32ba74536e859db9eda1a046fbd7	samurai spirits (jpn).bin
+f42d80ed896d10a15ad04610fe4d3661	samurai spirits ii (unl).bin
+aa5fbde7b9bc958fb3fe4837e741d612	mpr-14455.bin
+b0e87b97d9d4c4f5a1de0fbc2834bf86	sangokushi iii (jpn).bin
+fb743154895c42cbc97edf1f9f5839a5	sangokushi retsuden - ransei no eiyuutachi (jpn).bin
+08e8d635d5fca1971318917d6de3a487	san guo zhi lie zhuan - luan shi qun ying (chi).bin
+e0128f3ac29e28ed4969654e977e833b	san guo zhi v (chi) (unl).bin
+13d52a1991a6569edb71cfb939318949	san san (japan).bin
+3d4dfcb2f3c8b9835e7cf8dcb1a97a71	super battleship (usa).bin
+6bb84cefe5cbb94050fd6dc345cfecca	mpr-15273 w95.ic1
+f27ea503631e67c05860926099d97f7a	scooby doo mystery (usa).bin
+c21b92ef781aa60779dde6e38c474090	scrabble (euro) (prototype).bin
+f9d87064d48d99ebbd425e8334de4beb	sonic crackers (jpn) (prototype).bin
+55a77ea5ce11f36da4873f90d85c1fdb	super donkey kong 99 (unl) (protected).bin
+89811778fcce3ecab72495d31254d1e3	super donkey kong 99 (unl).bin
+06942fbf9e1c021bb6ce4787fefd5364	show do milhao volume 2 (bra).bin
+935174c0d128fc7b980952b0d5f5ff42	show do milhao volume 2 (bra) (alt).bin
+c4412773f166b3d75f14fed985bd2239	show do milhao (bra).bin
+2cf04c3c4e8504a48136112caf9d51ae	sd valis (jpn).bin
+826dc4fb0765497e63139c346125a48f	mpr-17981-f.ic1
+fcb2705a0d98e06b3aa46b72484ced43	seaquest dsv (usa).bin
+333f15e8bc4ecacf168b399a988fe1e7	mpr-17326-f.u1
+a45842e6f4ba3441a67077a0416ddde3	sega channel demo (usa).bin
+3b42e87aac4e91a334329bac1bd79ebd	bb40010501.bin
+2e78a7b5dfd76df1d292fa810f64c636	bb40002456.bin
+1cf54fc6a7dd4dbc33a37f3aad703d42	sega channel (usa).bin
+e2b2075cd7aa405a8745bda2e4d9c115	sega channel (general instruments) (usa).bin
+e405a24febc59efb241ed5f0a71666b6	mpr-17323-f.ic1
+3c6723f32e68d3782afc4c4ce1dabc49	mpr-17328-f.ic2
+4e939c29d924b05a14ef46e90f5cd1c3	sega top five (bra).bin
+403ceb23b4cf27d3d9c8965409960bb4	mpr-16014-f.ic1
+f6fcf5843786bd44f8df6b648661a437	mpr-16014 t20.ic1
+81c58cc091350a14e0e94fcf8e970a5b	sensible soccer (beta).bin
+36b04381309d06508ee0f19f58fd2c8c	sesame street counting cafe (usa).bin
+fa045abbf8914f49310ab99159c6c878	mpr-15910 w39.ic1
+d508e941190dae142eb81e685b258b4a	mpr-15911 t65.ic2
+8828f4691cfbb4b9f2448ee4ca9c2755	street fighter ii' plus (jpn, asia, kor).bin
+d4a5f1e788db53f2f1c7ffb6c55da973	street fighter ii' turbo (pirate).bin
+83fe997dfb7ae4e5b5e9434a517d7a0c	sf2p-gs-1.ic1
+b8e3707151e9f73dc178c6d2f689dc1a	street fighter iii 18 person (street fighter ii' turbo hack).bin
+bd52a3c0097986a473f42dd58279408e	mpr-15124-h.u1
+f5683f3b2c24cdd7bc6771ea87efeacf	super fantasy zone (jpn).bin
+3593e0995aa5ac87bf54e54da56e4631	shadow blasters (usa).bin
+53090bcd67a0b6262f71ef7c5838c02b	shadowrun (usa).bin
+e1c549eb7a842594a99ab8993d01b427	shadowrun (jpn).bin
+a02b249b5e7ac40342107524a81be6e9	shadowrun (prototype - jan 25, 1994).bin
+ad9f56a5585fa61e827478208648d740	shadowrun (prototype - jan 25, 1994 - c).bin
+87d2724ded5aa9c9179d793cc3d97bd2	shadowrun (prototype - dec 31, 1993).bin
+90efddf5c0e68e4202e2d5da5ad6820a	shadowrun (prototype - dec 28, 1993).bin
+af952d8625ef75ddca524074fd4b772a	shane warne cricket (aus).bin
+13d128c626d9024f40390ad2bb7ab3cc	mpr-16425 w26.ic1
+12466c6e0928a3c5583b2e787d7e26aa	shanghai ii - dragon's eye (beta).bin
+5b8da8aaa6a03d2cd6401bd9dd4e6db1	shanghai ii - dragon's eye (beta) (alt).bin
+3e92d413ca258268cc138e545cea52b1	dragon's eye plus - shanghai iii (jpn).bin
+9b5d500a7ce1de56fba9c554bbf9a0b2	mpr-12640a-f.ic1
+ff59ca57c4f2a6987042d4f53b5a20a4	mpr-12640 r43.ic1
+8128e0c411b702a907ff29a33d28b6a5	super hang-on (aug 18, 1989 build).bin
+894217611cca6a8e5d86a0d9fd8f1247	u1 shaq fu sfb2.u1
+fb05111840e767e2569af65a9d97b489	u2 shaq fu sfb2.u2
+2864c05f9bf67f92af830f2fa7de1d61	mpr-12355-h.ic1
+7954ee34b566ed50465359d1e3a4f704	mpr-11934.bin
+1f2a9f322e770be0a3cc2aabdf8bc575	mpr-13571-s.ic1
+dc0b31209961d401f453918604d7dbc6	shadow dancer - the secret of shinobi (oct 2, 1990 prototype).bin
+4abb0405b270695261494720a2af0783	shi jie zhi bang zheng ba zhan - world pro baseball 94 (chi) (unl).bin
+9aafd1b8a5eafa81a9d573cb80fb7500	shikinjoh (jpn).bin
+a4664d206773778758676540f3b4da02	super high impact (usa).bin
+522b689a1b2f0ea8578fa9d888554b82	mpr-14230 w32.ic1
+5bdb8286d071ec744df1ef92529156d5	shining in the darkness (bra).bin
+380741cee5ff1c89498270d45af7521a	mpr-13807.bin
+7b17318e42b908e90ab20dd795825d73	mpr-16933-h.ic1
+3ba871d87f35feefcadfa9d4a2c06d13	shining force ii - koe no fuuin (jpn).bin
+610a9531f384804b4759003ec8b9f4ac	shining force ii (prototype - jun 07, 1994).bin
+ab2ff62e395effc492b88ebbb25576bd	shining force ii (prototype - apr 04, 1994).bin
+6473b1505334ef5620d13191c18251fe	shining force ii (usa).bin
+7e0258c690ae3f196bd71babc54bd0e9	mpr-15669-s.ic1
+72ab457fd395da1879ed4f6d29b09af1	shining force - kamigami no isan (jpn).bin
+4b4acbe75ff7aaeb534ab78ed95910d1	shining force (usa).bin
+f010071423a7b174251df9db823677fa	shining force (usa) (beta).bin
+5a8f7c6437d239690b4a15287d841c26	mpr-15798 t57.u1
+691eeff9c5741724a8751ec0fa9cfbf0	mpr-15674-f.u1
+26e5eab89da62190733ffa83d939f874	shinobi iii - return of the ninja master (jun 29, 1993 prototype).bin
+c63eb0b42c60f25fe1aa108debf0c8b4	ship (prototype).bin
+db917818b7f82a0bf6dd5aeee7bf5a1a	shiten myouou (jpn).bin
+f523b8886dc72ea54f639baa25423bd6	shougi no hoshi (jpn).bin
+2c6a960f66d1c87855424e6528d6eac6	shove it! ...the warehouse game (usa).bin
+9058176c3f6c8a46e063d1a2b8daecac	shrek (unl).bin
+e825c4c8a947265512f858c64de88306	shrek 2 (unl).bin
+171d1381a9650572f9f13627976f397a	shui hu - feng yun zhuan (chi) (unl).bin
+215538e184f70c8e0925f21a2f76ffa7	shui hu zhuan (chi) (unl).bin
+1290928fba665ced3ac5653b0f16eac7	shura no mon (jpn).bin
+49c78f9e16ea62931ecb770a32b393dd	mpr-15290-t.u1
+213899f86e17e95f41498c0b54d702b0	side pocket (jpn).bin
+469e1360eb70879b1039a686be9dfc3a	mpr-15008-f.u1
+9b77f861e9a75bfd2eb5b27137f17e3b	space invaders 90 (jpn).bin
+b12002f1e35c5116dc4a2a8d64b4687e	space invaders 91 (usa).bin
+4ea493ea4e9f6c9ebfccbdb15110367e	mpr-16910-u.ic1
+b4e76e416b887f4e7413ba76fa735f16	mpr-16911-s.ic2
+7ded2700acc1715153f630fa266e0e89	mpr-17922-mx.ic1
+7e9a79a887c4edf56574d7a1cd72c5fd	skeleton krew (usa).bin
+0bdcdb42cc43d160756ebe7c2d94585b	mpr-15420-f.ic1
+619106321a4317fb38a3baced692d30f	skitchin skit09.bin
+ecf7a986266818933022fd370bb30943	super king kong 99 (unl).bin
+65a8ad3222bbdb54534ddcd6836d46b1	sonic & knuckles (prototype 0619 - jun 19, 1994, 08.18).bin
+a9210c75f8b36b8ea27067e5f54bab22	sonic & knuckles (prototype 0618 - jun 18, 1994, 09.15).bin
+338aa7c29911bfef133dd2d072da2cbb	sonic & knuckles (prototype 0612 - jun 12, 1994, 18.27).bin
+61f82f088033b601bf799471e1cf153e	sonic & knuckles (s2k chip) (prototype 0612 - jun 12, 1994, 18.18).bin
+b98e7a31cb5023ac51898f15f43a3bd0	sonic & knuckles (prototype 0610 - jun 10, 1994, 07.49).bin
+f9738b8730e29539e4c4b9ddca0c0cf7	sonic & knuckles (s2k chip) (prototype 0610 - jun 10, 1994, 03.11).bin
+42c804977cd4beae2273dd9455608fd5	sonic & knuckles (prototype 0608 - jun 08, 1994, 05.03).bin
+ee125658c9239365b39fda85940cbeb9	sonic & knuckles (s2k chip) (prototype 0608 - jun 08, 1994, 03.35).bin
+58fa2355c62fb2a006cedd14939afbe2	sonic & knuckles (prototype 0606 - jun 06, 1994, 10.02).bin
+3357728ac5c3b4af65eb7ce16b57a864	sonic & knuckles (s2k chip) (prototype 0606 - jun 05, 1994, 22.25).bin
+75a45f805fb3d49cdb19a8b88ea44fed	sonic & knuckles (prototype 0525 - may 25, 1994, 15.28).bin
+817fceb36d9a454c59253be990779f99	from tv animation slam dunk - kyougou makkou taiketsu! (jpn).bin
+7f0d577724cceed64dd7557d1ff14605	mpr-17902-f.ic1
+c810330df1da672a88a8fb6b16592560	mpr-17903-f.ic2
+604be500685bc038d8c38209afb0b0ea	slm-gs-1.ic1
+4de048cc1b35f5fd6af7e1ea9461b826	slam - shaq vs. the legends (prototype).bin
+989f8effd6fbbd93dcabd0be8fd41f8a	slap fight md (jpn).bin
+998dcdf117ea63ba64ff37335a0719a4	slaughter sport (usa).bin
+d613b6d009784f459812e7b5a3a65d46	slaughter sport (sep 27, 1991 build).bin
+0ff81c6ec1c1c92a4bce8e29c5db2291	todd's adventures in slime world (usa).bin
+e091a9c36be441ef0ad2fb6dc690255b	slime world (jpn).bin
+05bd738e1cfa96a140ae74ef40588307	super mario 2 1998 (unl).bin
+73c71cce9e271a897397925c9b51c0a2	super_mario_2.bin
+da0c9622e14da9c9aa9a45a99fc9e791	naomichi ozaki no super masters (jpn).bin
+ae3a771166c86278feec5fc3723283e8	super mario bros. (unl).bin
+3b5680ea1e383b5c6d90338fc4b4b4b7	super mario world (unl).bin
+28eb0df1a1a43e727c97203c5c0870c9	super mario world (unl) (pirate).bin
+59c26bb0db78302fe1b8b45b4d0aae08	mario & battle city (unl).bin
+7c343c0b33f8af9f4719ead8cee7b201	mpr-13250a-f.ic1
+7c31d87425e486b54ee972f7525e6c34	mpr-14861 w45.ic1
+fad33d8300f3af2e1c81d74e2f37b688	mpr-14866 w49.ic1
+ded2b235f625424f353c13c4d3a2cf89	super monaco gp (euro, jpn).bin
+c53dbf0f7172556d08a37cc590bddf8a	mpr-13215.bin
+0948aa1acc9f21a966b052a8ee385884	super monaco gp (usa).bin
+4206c52e6e96b6fa301e890e6a9d3337	mpr-17019a-f.u1
+2c6b31e67e9310a9a6fffc5408f85d9c	smurfs travel the world, the (euro).bin
+394783b469e8dd48f14a0063257b51a9	super mario world 64 (unl).bin
+07c019dd98033e0402309f1f484f217c	mpr-15914-f.ic1
+d794c0a21fd26482aaf57018a90628d2	sndtool.bin
+a789eb6986d902fde2308a7b02a79b9d	snow queen (unl).bin
+bc5d2dadfa64e26d851af8c294c38436	snow bros. - nick & tom (jpn).bin
+9df8251cbfe05a47a5ff8fd9cf328b32	socket (usa).bin
+110d17485c49a022cd280cf5194e7d74	shijou saidai no soukoban (jpn).bin
+46250bf62ede204cd72cee92dd211d71	sol-deace (usa).bin
+e848b033a7339ebd405781a5efd0603a	sol-deace (feb 3, 1992 prototype).bin
+b90ff517cba6492377e02d23fcda4b80	soldiers of fortune (usa).bin
+49e6bf1adf3dd64dbd984250f340cfee	mpr-17499.bin
+3e52fb2e8fc33f3a7d4942d3ff718465	mpr-17513.ic1
+c61bf2d959a4f6614554aa85945cb94c	mpr-17514.ic1
+6cbbb5d870ca386075a96bc727068ec2	mpr-17512-u.ic1
+1bc674be034e43c96b86487ac69d9293	MPR-13913-F.ic1
+9feeb724052c39982d432a7851c98d3e	mpr-15000a w99.u1
+8e2c29a1e65111fe2078359e685e7943	sonic the hedgehog 2 (world).bin
+2a4cc74873d3117629e454666e39e654	sonic the hedgehog 2 (world) (rev 01a).bin
+da75878c193293c2e0801a61ea4ce8c0	sonic the hedgehog 2 (world) (rev sc02).bin
+a460bf633579a80eebbc09d6809e1b09	sonic the hedgehog 2 (world) (beta).bin
+51c1eee9dd79db9ef0d8b0aa36957b16	sonic the hedgehog 2 (prototype).bin
+0cc77d8f87bc9e6dc990bbe126b4701e	sonic the hedgehog 2 (beta 8 - sep 24, 1992, 19.27).bin
+d39416089539e379f4c8ee7900f636b8	sonic the hedgehog 2 (beta 7 - sep 24, 1992, 09.26).bin
+0ad4b54b426eb0b0d0360d0453233a0a	sonic the hedgehog 2 (beta 6 - sep 22, 1992, 19.42).bin
+7640c831369b8c8f52880b3fe5506bbf	sonic the hedgehog 2 (beta 6 - sep 22, 1992, 18.47).bin
+df7d6c4fa1899d45405654b1250b4330	sonic the hedgehog 2 (beta 5 - sep 21, 1992, 12.06).bin
+87dfce45e665fa34104067cae1a74d5e	sonic the hedgehog 2 (beta 4 - sep 18, 1992, 16.26).bin
+ab74fc7f42ce9b4a8f760d12cae69a2a	mpr-16342-s.ic1
+332e7f919b3f49c05b0a977b25af6c26	sonic 3c (prototype 0408 - apr 08, 1994, 17.29).bin
+07b35dcc19166dad91e9487031bfac88	sonic 3c (prototype 0517 - may 17, 1994, 17.08).bin
+dafe03d06f129b4a0338a9675ef3e952	mpr-19101-mx.ic1
+972a69a5f3ff25c2671fa1ccf5702b12	mpr-19102-mx.ic2
+f4c6a1ea43fd700b93e514e86742621f	sonic 3d blast (usa) (beta).bin
+ceb2ce0267a8803c55e3bceaa2312d9c	sonic 3d blast (prototype 94 - sep 04, 1996, 12.01).bin
+41ab84e532725d9753af5ea03447f851	sonic 3d blast (prototype 831 - sep 03, 1996, 10.07).bin
+8bb7afc833254fc5a1c23b8f40e97e09	sonic 3d blast (prototype 830 - aug 31, 1996, 08.19).bin
+d04a109e1cb0be8a7268e8f20c1f95b3	sonic 3d blast (prototype 825 - aug 26, 1996, 15.46).bin
+7a676b50e4e5f89ba51e08bb3c678abc	sonic 3d blast (prototype 819 - aug 19, 1996, 19.49).bin
+eb8d295605fa8647047cba2907b8b90c	sonic 3d blast (prototype 814 - aug 15, 1996, 07.55).bin
+8cb84ea6f747357ee5384f7bb59566bc	sonic 3d blast (prototype 73 - jul 03, 1996, 13.58).bin
+eaa77c15fbb36099ee6e6d6015ded368	mpr-16343.ic1
+8e1965beee0d192ae10f1769592d977f	sonic the hedgehog 3 (pirate).bin
+d724ea4dd417fe330c9dcfd955c596b2	mpr-16263 w43.ic1
+d912b4042e29b96fe62ffb08a2fe1174	sonic the hedgehog 3 (nov 20, 1993 build).bin
+4f047af775a6a84e393410bc3d9fb7a6	mpr-19693-mx.ic1
+ac2c3ae3a39637ffbfc77470ec34f97a	mpr-18203-mx.ic1
+af823339e55952acae065061d3201db2	mpr-18204-mx.ic2
+ff65f5666f84f0b2d9d6b535188bcd14	sonic eraser (jpn) (sn).bin
+09dadb5071eb35050067a32462e39c5f	mpr-13933 w33.ic1
+601dbecadde306ab238443193c76c918	sonic jam 6 (unl) (pirate).bin
+414a09a1f82100ed4d4b792de1c3bb23	sonic jam 6 (unl).bin
+217de3a3c63b04dd839289d46c924907	sonic_6.bin
+e5e4eea000240b7bc675cf148b5b897b	sonic the hedgehog (euro, usa) (pirate).bin
+59a3b22a1899461dceba50d1ade88d3a	mpr-14125a-sm.ic1
+c53faea21ca58de2282a8f1a210527ba	mpr-15309-m.ic1
+cb75d5a6919b61efe917bea5762c1cb7	streets of rage 2 (usa).bin
+7c9592eae89d47f5f2bcaecd1d216fa4	mpr-16834-mx.ic1
+c440acac8b40e1431bddfd0f36896d09	mpr-16835-mx.ic2
+3ea974f31dc8739aa2624c9cdc9c4416	streets of rage 3 (kor).bin
+15b4b1ac90295f153e4f5b860c355fa9	streets of rage 3 (euro) (prototype - apr 25, 1994).bin
+73ec6182bcceb9fb268fe3a673e1fe5d	streets of rage 3 (euro) (prototype - apr 20, 1994).bin
+bad0129ee7af725afbbee72e015938c6	streets of rage 3 (euro) (prototype - apr 15, 1994).bin
+e335b14b9d40528fae680e726daad661	streets of rage 3 (euro) (prototype - apr 13, 1994).bin
+8c14f44383249e77bcebd93da1a2b456	streets of rage 3 (euro) (prototype - apr 12, 1994).bin
+2d0b0c8f10edf76131708e874e8d1ee4	streets of rage 3 (usa).bin
+5bb6319b087452d46e592e3255655aab	streets of rage 3 (prototype - apr 13, 1994).bin
+5a1088bf3a09d673cb0117280cb2aca7	streets of rage 3 (prototype - apr 12, 1994).bin
+5cac742035bcf0926627c68266d2e6d7	streets of rage 3 (prototype - apr 11, 1994).bin
+defdbfc9d99794e913c80b0ee0d488f8	streets of rage 3 (prototype - apr 08, 1994).bin
+06f36bb6bd5922cfdd9e3290bd061834	streets of rage 3 (prototype - apr 04, 1994).bin
+59cc642481d4e2740dc65eb2e830a3f5	streets of rage 3 (prototype - apr 01, 1994).bin
+7872e519011398d5f0df424d1e72a598	streets of rage 3 (prototype - mar 28, 1994).bin
+d24c465551f53c4c8752146b0672a39e	streets of rage 3 (prototype - mar 18, 1994).bin
+ea8a3137b72e407edd959c5ca20dfb89	streets of rage 3 (prototype - mar 17, 1994).bin
+86f066c810339e65dceea6ecd734f184	streets of rage 3 (prototype - mar 08, 1994).bin
+569cfec15813294a8f0cf88cccc8c151	mpr-14125 w35.ic1
+7bfc9a076f70ab4e3ca46f7af14376da	mpr-12906.bin
+587c51be6c60b82514e928f951e730b1	sorcerer's kingdom (usa) (v1.1).bin
+8ab847680c35b89e4f7883cb216efdd6	sorcerer's kingdom (usa).bin
+c5290a39f86cff65ddf10f9913e94d4a	sorcer kingdom (jpn).bin
+0b1cc08ca6020c00bafbf623b7c79d23	sorcer kingdom (nov 8, 1991 prototype).bin
+6bb3182f432671f5e3820b0d33285779	soul blade (unl).bin
+b302ca53911a7e185105fbdb63629338	soul blade (unl)[p].bin
+eee05ac790c9384790ed01a752b9f028	soul edge vs samurai spirits (unl).bin
+a03e71d89b68b7720d979a35143073ba	soul edge vs samurai spirits (unl)[f1].bin
+26b5f14afbacb91fec2c461298ad2e86	space funky b.o.b. (jpn).bin
+1d68100365d9c73bb6c162b9165b5147	fx011a1.u1
+210143f754a8ead99373061bd316de09	sparkster - rocket knight adventures 2 (jpn).bin
+d3ddbc9a45653aa790bb922c7b68ce44	sparkster (usa).bin
+8a9e5724ad9e79b70dca3e7cb81c41ce	mpr-14990-t.ic1
+9abbd5b0eb5998c758ed5dc603420e23	speedball 2 (jpn).bin
+ae982c9a1de304ada59b089603c7bd9c	speedball 2 - brutal deluxe (usa).bin
+ba6c09a3dc87d54e8d4234de4e847cff	speedball 2 - brutal deluxe (jun 7, 1991 prototype).bin
+af2a9fdd4a378593e47289eb8068164d	spider-man (euro, usa) (acclaim).bin
+3ba9d0a9e4b65942ac9514e710d8c2c0	spider-man (usa) (acclaim) (beta).bin
+718248499f9bfab11fbb2485cbe3ec78	spider-man (usa) (acclaim) (beta) (earlier).bin
+084403af61869de5c98cb00f59072abb	mpr-14027-sm.ic1
+75af3f1e3b16d725cac258bfafaaea8a	spider-man and venom - maximum carnage (world).bin
+16205f67804ec434085121f3c4a81bf5	mpr-15709-s.u1
+2109509e04ffbb2aac870cf06321aee8	spiritual warfare (usa) (unl).bin
+3f16601ded16840139d81068066bf504	mpr-18010-u.u1
+e82c84434552a2f4d0db073b23cf669c	splatterhouse 2 (euro).bin
+a0940bef6d194149d06a856c474e7fe6	sh2j
+d0d14e031b6a62c733414e1039a51df3	splatterhouse 2 (usa).bin
+8c2a9b15ba24b611c895efd49c175ebe	lrog456-gsh3 93364.bin
+7277b3202363800a03e6790d3810f362	splatterhouse part 3 (jpn, kor).bin
+88dd0bcc7b5b82de496da37c34c40188	sponge bob.bin
+09f55cc9acc04d3eb631de5c15fe9f33	mpr-19945-mx.ic1
+dda511735e821d69c58ab19c4c9e5465	mpr-14676 w30.ic1
+dd71ff588dbf89c11d7e885cf511d717	mpr-18680+mpr-18681.bin
+f3c5a2a9eae5cffbdc9f87c20fb492fc	spot goes to hollywood (usa).bin
+5b49bb3149f4c46e68ad403ea75e929c	spy kids 4.bin
+31e9f99f5eb30d7f499096f9018f6547	squirrel king (chi) (unl).bin
+c2967c23e72387743911bb28beb6f144	mpr-17987-f.u1
+877df60e0d09958b2e3e28df9773e8af	mpr-13432-s.ic1
+50576153aa8102d02b122210ffaff07f	mpr-12904f.ic1
+1a5bbeb8fc4f81283503f0072161932f	super robot wars (unl).bin
+4890fe7dbbed12d7db1ef029ca7d930a	super street fighter ii - the new challengers (euro).bin
+825e67797bfcf3c27754d59b4f668493	super street fighter ii - the new challengers (jpn).bin
+75950e3aa9357a21715ffe2fa51a454c	super street fighter ii - the new challengers (usa).bin
+533b890ed1113547691f36ad1c59e346	super skidmarks (euro) (j-cart).bin
+7a8702d91641871bdc159a88a11208b6	super skidmarks (euro) (beta).bin
+7a926aaea9e526066a75c253738b633c	street smart (usa, jpn).bin
+1e439309c5cced355fb7e94454c82f41	street smart (jun 29, 1990 prototype).bin
+6858c543dd27b9f1d5aa260a25ab1b83	mpr-15040-s.ic1
+800c7c12bc1eae7ddb61186875b29733	mpr-16077 w08.u1
+3a12dc6b4f41681e0dc0ae3b2f894b4f	sonic spinball (jpn).bin
+693395f3acb238994641ae09562e8fee	sonic spinball (beta).bin
+3597c4d816515e406bbbad090114577b	sonic the hedgehog spinball (sep 22, 1993 build).bin
+841e347b30a6e298ee2b0c722f19fe74	mpr-15753 t71.u1
+3fb84c8a3dcc64af079e4c37cd2ec8e0	sonic spinball (usa) (alt).bin
+cc60b5cd7295df626d81a3ecd30c4133	mpr-15305.u1
+19cdf861c543f9c9cd9c8b6b70adeb1c	fv002a1 056194.u1
+43db94e560fa38ede534f4c6537283ac	saint sword (usa).bin
+442556951f840e5774a13f38761269f1	saint sword (jpn).bin
+c377f9f5aab0c99e1a1ae0c1d5c1b8ed	star cruiser (jpn).bin
+de54c1ae7099b15d6c6ccb31932927b3	star control (usa).bin
+f7fb96468113cbfc41ed68e31689ac83	starflight (euro, usa) (v1.1).bin
+b95b8da835e866c90e6c6520def207b2	starflight (euro, usa).bin
+b78fa5e007f119440cacc063493b5084	stargate tm.u1
+dc6036850f7ff8c568f2b29a58dee32d	stargate (euro) (beta).bin
+5c1856bdac58e3996737260764038047	stargate.98dc.bin
+f8c063087ee7bbff1d61018df2c7113d	star wars jedi (unl).bin
+2f1090251c3178c9136de360a13dfa1b	star odyssey (world) (unl).bin
+7fa5036db387a874e399e44659a28f96	star odyssey (jan 16, 1992 prototype).bin
+03c1b832798ccbe85e03eb495605f689	star wars (unl).bin
+04da37f2a95340243bff72c82d4c7b73	mpr-12354 w54.ic1
+15268ba530efea609e201df49e9514e2	mpr-11996.bin
+5dcb09015901816267bb8d06e966e33a	mpr-12005 t12.u1
+96efa2b3d4880a76f56554e5fec54f9b	mpr-12006 t13.u2
+994671ca4d4a2bde25042ed3eb7ffb0b	mpr-18486-u.u1
+0eec35fa119138eb472f81b1f227283c	star trek - deep space nine - crossroads of time (usa).bin
+9105a05e3e2e0ae261789fdafca676a2	steel empire (usa).bin
+ae43c175914d53406aec1361caf810db	steel empire (mar 13, 1992 build).bin
+4523a96042e40b0d1ad24cc80be72c37	mpr-15167.ic1
+edfa7b1d6ce95725d2803b8f82e01b90	steel talons (jpn, kor).bin
+8821e3b3bb6c1bda06f419527b3ef820	steel talons (usa) (beta).bin
+82dd4abca945d4205e6774889d808380	stone protectors.bin
+fcab622a6e56f7e9b1e0907ab5a630df	mpr-13487-h.u1
+479ce05afb9d7491702be248d0bd20f3	mpr-15470-h.u1
+62ccc620d3a721c9040d85aa5d540f86	strider returns - journey from darkness (usa).bin
+46ab937c360932b8ad31a866fb9a2c7a	strider hiryuu (jpn, kor).bin
+adb802ff17d95919ed89111a1ec44be5	mpr-17612 w64.ic1
+ee4962aab6e1a6e5d4c5681bcb560dd8	striker (euro) (beta).bin
+73070170122193915b7f8af945ef426c	stormlord (usa).bin
+689634797f5da35d026593fb240f5fe0	stormlord (jpn).bin
+c829ae57c252fc1a5e49efedc0c6c11c	star trek - the next generation - echoes from the past (usa) (v1.1).bin
+ee813bdb98573ed8de080773e2cc7355	star trek - the next generation - echoes from the past (usa).bin
+3754c9cbeafa26f7dd04a6a88bb6b81e	star trek - the next generation - echoes from the past (prototype - jan 25, 1994).bin
+b4060015d45627d76d27cfc79b8ab397	star trek - the next generation - echoes from the past (prototype - jan 18, 1994).bin
+9b9078a1d131488356dfa1a31d9a644a	star trek - the next generation - echoes from the past (prototype - jan 10, 1994).bin
+1cd6e41c96854e725c8f43d9a748894c	star trek - the next generation - echoes from the past (prototype - jan 03, 1994).bin
+e03791feb953a36ea71b7ba21f88975e	star trek - the next generation - echoes from the past (prototype - dec 29, 1994).bin
+67a11e541cfa471fccb15a7dadba7246	star trek - the next generation - echoes from the past (prototype - dec 28, 1994).bin
+19d202d3dc41b74372cf6810989589ac	mpr-16627-t.ic1
+160a5c43041904415aef38ba90838cc7	subterrania (jpn).bin
+70a1ab4156874bab69573b05b914dbff	subterrania (beta).bin
+58396741c6c704e8b74cf63606384c0c	subterrania (beta) (earlier).bin
+6e241867ffd0f5ccf1451cff3a97ac58	subterrania (prototype - feb 02, 1994).bin
+d3bd3dc31b1903148c0ce92a98a6869a	subterrania (usa).bin
+be33b158669ede37328255c84df027d7	summer challenge (euro, usa).bin
+0fd4f2492a5c550d47a143546bae6e92	mpr-12477a-h.ic1
+91d40557943ca9a2dd085292fc40e03a	mpr-12477.ic1
+84d0afc448834b369908e3b22ca6d9c2	mpr-13814.bin
+1801efc4655e4523f1b7221d6b169ec9	super h.q. (jpn).bin
+6e3f8fa3e7e3d1d42283f2561fecf152	mpr-15327-t.u1
+115aa2b70eabc255e7d06cd2a454a091	superman (usa) (beta).bin
+d7abe5e449f7fa966d0f6b158eea8ee9	superman (usa).bin
+539e2797cf613f39115cc86ae005d705	acorsg.u1
+6ba8d8f9d7bbdd3064bc093f22aa7c0a	mpr-14487-h.ic1
+9c86376aabd8035036c9c7c416a9ec75	mpr-12632.bin
+bc8ffce6de6406116d49f8b5e3ed77ab	super hydlide (usa).bin
+ab49404369e1ff4f9be5b90411af90eb	super hydlide (oct 16, 1989 prototype).bin
+2c22394ea148fcf46b1531784b56d7c9	elf wor (chi) (unl).bin
+0a31a48abb18fe134849d062c2a1e091	cha oji pu ke - super poker (ch).bin
+c7c688e2fe6453968219c0109a284ed6	super bubble bobble (chi) (unl).bin
+fe966e29f7dda9084261fdfd648c3f50	mpr-13238-s.ic1
+5d7135c8a19aa19a4a4ced0bfcb107ce	mpr-12406 t25.u1
+63eba28f5051cb800e29771b7d358bb5	mpr-12407 t26.u2
+c296021f74ab1192ed7e1865cdebc972	mpr-12675.bin
+6ce59f3e7ee52dc8c6df7b4d8a166826	super shinobi ii, the (jpn, kor).bin
+71429f5fb394a1f28caf4784340e185f	super shinobi ii, the (jpn) (beta).bin
+fa66434d9e99e5108459f4ecec0950b1	super shinobi ii, the (jpn) (beta) (earlier).bin
+fd630f3dd0d60fb68574ec12c0a6ffbd	surging aura (jpn).bin
+3900aeb86424891fdc9de48aba94d933	super volley ball (usa).bin
+b2007f23346c87e12f54e04aebd55f52	super volley ball (usa) (alt).bin
+52a44b85c2eda20d150e2e4d742ddc66	super volley ball (jpn).bin
+89fb9ae64bca631e504f0d8e620ff44e	swamp thing proto.bin
+7b5c722bccce6f5301dd90b6d6b17f01	sword of sodan (euro, usa).bin
+5d5d8d4bfcde93737cdd0bad207a0550	sword of sodan (jpn).bin
+a81d327574d49aab69c2a6fe4cdc893a	syd of valis (usa).bin
+bbf74e8f5eda63631ce7617370d1f747	mpr-16997 w75.ic1
+c215bb67fb8d0f9eba7c4aa5d7feab42	sylvester and tweety in cagey capers (usa).bin
+f8dbf7f08131243c18ed3626b10d2d55	syndicate syndb14.u1
+3c2666bcc3c42a4218e46c5aba2bca15	mpr-15238 t03.ic1
+a8116b3d4cb98089cfa78fe4a7f9e5bb	t2 - the arcade game (jpn).bin
+eac97bb10a17764668a35598fe41de26	t2 - the arcade game (usa) (beta).bin
+c6e68d0348f21b37a46a940b1fb56496	t3 - the arcade game (unl).bin
+ef127d6c09f56274822771e83487be37	taikou risshiden (jpn).bin
+3d655ff935e30fa12a18fda9dd6fa695	taiwan daheng (chi) (unl).bin
+2ac0d4208641095358d663b3eb17b397	mpr-15058-f.ic1
+fe73ff9498cfb35b2e898e6d9d5389c9	lrog453-eta 92305
+3c8dbb2d8944524d4abd44c40365ec90	tank 2011 (unl).bin
+11382e11a4ed5834e80e30d1d95ca006	super tank war (unlicensed) [raw dump].bin
+16b0f48a07baf1fa0df27453b7f008d4	puzzle & action - tanto-r (jpn).bin
+d5b0add1252ac8fd1ecec8b02cf51718	task force harrier ex (usa).bin
+c8d5dda49171c0514b8260122f6f688c	task force harrier ex (jpn).bin
+659550d4c9588ff594a927eb173877d2	mpr-14838-h.ic1
+0cca15206dd1e2eb619d699f2e3f32b5	mpr-17063-sm.ic1
+7a40205b30d8780d3d95ea66dffcdc34	taz in escape from mars (prototype - jun 20, 1994).bin
+b20af36143737133b6a37b7aeb07192f	taz in escape from mars (prototype - jun 18, 1994 - a).bin
+1292d0784a3f521602ae8d6e26c5add8	taz in escape from mars (prototype - jun 14, 1994).bin
+6ae1f1568fa438a4d3aaf890cc9701a7	taz in escape from mars (prototype - jun 10, 1994).bin
+8e5b5bbbfefe97a34bf4c2737ee37e94	taz in escape from mars (prototype - jun 07, 1994).bin
+b5ebc410e529697d4f3d3fe0c50d29ea	taz in escape from mars (prototype - jun 02, 1994).bin
+6f3b47b1a5e65f4764006901e4c09d0d	taz in escape from mars (prototype - may 23, 1994).bin
+8f5cf9d95f7d12bbc5013b10e64b4635	taz in escape from mars (prototype - may 18, 1994).bin
+996845de9bc4cbe6dfb5c545baea2af9	taz in escape from mars (prototype - may 09, 1994).bin
+2488886aac3803fd65d802ad22274bc5	taz in escape from mars (prototype - apr 18, 1994).bin
+0bc8a4f411dfd142799fe3c4a8c1771b	taz in escape from mars (prototype - mar 09, 1994).bin
+6f8c3ca5a9c937eec69784c133d84e1d	mpr-16913-f.ic1
+76f379cbf820391cf62c55103954b496	thunderbolt ii.bin
+32783dfc83e995c47fef664163dbfc2c	tc2000.bin
+6995faa82bbb2ff6a985a1505d1092d8	test drive ii - the duel (euro, usa).bin
+e76e5159921402923bf4b16462e9c261	team usa tea03.u1
+4cd30f3ad42b0354659d128bdcd61a6c	technoclash technocl02.u1
+c80226c339708c9375e7c207a2b3a9ab	tecmo super baseball (usa).bin
+dc720f3217bf6897ac5ebb0d45eb4b6a	tecmo cup (jpn) (prototype maybe) (bad dump).bin
+c68728f300bf7ea31dacb9b1bb95440d	tecmo super hockey (usa).bin
+d6de12d1e1a2c21a93367a041a3b3f4b	tecmo super nba basketball (usa).bin
+6c4dc1b2efcbeb1216f3a002a5a15b46	tecmo super nba basketball (jpn).bin
+b8e1a73da8e21b47049149ebb0b55de4	tecmo super bowl ii - special edition (usa).bin
+9397e3b6ba68933c7450b269ca6ecca8	tecmo super bowl ii - special edition (jpn).bin
+c94397c4255bef131843b95ea6d641dc	tecmo super bowl iii - final edition (usa).bin
+27848f777d10f5078bff07c14fda8ed1	tecmo super bowl (usa) (october 1993).bin
+bd662438c1fd5f9192772392e141cb65	tecmo super bowl (usa) (september 1993).bin
+c35e1769408e09f200769300ca8da941	tecmo super bowl (jpn).bin
+790dacf5df7302f93011e5a8e0f549de	tecmo world cup '92 (jpn).bin
+246a2c8520d29afa798522fdb332e9fb	tecmo world cup (usa).bin
+863f39866dde86d1ee5cc5ce743ffc7c	technocop (usa).bin
+98979f44a6ada5dec772930be0a10fa2	technocop (prototype).bin
+f170cff2388c2f2439a48991906a662e	technocop (sep 12, 1990 prototype).bin
+b6dd8b6470348530d0c5dbd2a1eaa858	teddy boy blues (jpn) (sn).bin
+6029e93a3d8a1507de330eb6d10caf69	teitoku no ketsudan (jpn).bin
+bd9b381bebfdff7ca86b8d01880f806d	tekken special (unl).bin
+9bf2174a30c137e589ce8e93c7392cef	tekken 3 special (unl).bin
+aa465b9d9aa4367c5d48219f42c6f73a	telebradesco residencia (bra).bin
+5f79e30f35605c9bd513d8565c98d936	tel-tel mahjong (jpn).bin
+10de73887a8f42561e9966bdeadf7ad4	md-tsd.bin
+32f931827159663d6bf27c12949b1875	terminator 2 judgement day.ic1
+677b0afb84b0828a7c304784d73983a9	mpr-14925 w47.u1
+c8617114519ce73d3deb182c15c37734	the terminator (apr 15, 1992 prototype).bin
+de0e4f5e3c45a42959defc1de97a79ff	mpr-14828-f.u1
+ab307f2a1d9f7b42a49f27445f711ba3	mpr-12356+mpr-12357.bin
+c35d02a6a7d02ca15c71035e2c651461	tetris.bin
+2cd56a01eef20b74ab7ea532f9b25a94	mpr-12559 t87.ic1
+5b134b597779c5d6c2783fe3ee401766	thunder force ii md (jpn).bin
+64766dae889d039eb391bc5bf2973f5d	mpr-13143-f.ic1
+5d694df1dbe9648ea6533871a6a07c3e	thunder force iii (aug 1, 1990 prototype).bin
+66cac77bb663a6951c942b0722232a03	mpr-15209-sm.u1
+c0c59e835ca2cfba29f4c0f5293986f6	thunder force iv (jpn).bin
+ca6f52b094db8bb2c5a4deaebe6b56ce	thunder fox (usa).bin
+8431e1a6744b8994f366a91c9e47377d	thunder fox (jpn).bin
+8d30e89b4e56c4abb412b575d4078a47	tpb10 theme park.u1
+7fe316725b118fdf0919c5aede58d92f	thomas the tank engine & friends (usa).bin
+475519d9cbdeb91db301780bff83d81e	mpr-17588+mpr-17606.bin
+e5a3bcfdd75214e90563eba535babf2f	mpr-17720-sm.ic1
+c3330ed5d2f628e29e5883b0ff47434e	mpr-17721-sm.ic2
+cdf86f0b16a6ace5fec68762e2719a91	story of thor, the (germany).bin
+3285ef5a23fdb908d77da525e694af03	story of thor, the - hikari o tsugumono (jpn).bin
+3a219f08b7ab4cc29489ba15210636ff	story of thor, the (jpn) (beta) (bad dump).bin
+492833310cf6106bc3db3a0167cce79a	story of thor, the (kor).bin
+987df3046f62d9b6c2140b688e3ef559	story of thor, the (prototype - oct 17, 1994).bin
+b8c4377a4dea436fda90bd942201b380	story of thor, the (prototype - oct 04, 1994).bin
+2d860cc07bc8a6bbdb0d73a09678c279	story of thor, the (spain).bin
+9927d1daf990e0014846d63559642d82	tick, the (usa).bin
+5f43a98bcf064fd5789c188bba85b34f	time dominator 1st (jpn, kor).bin
+62339a81ea163378d488c6c18d9d609f	time killers (euro).bin
+54c4482886c06d78c4a1356168d47c71	time killers (usa).bin
+d45f98bea74f605640fd8e9e9eb578ce	time trax (usa) (proto).bin
+18763de130d8fa52a8dabbcafa8e7185	tinhead (usa).bin
+4e436136d6734d6933b95178c5649165	tintin au tibet (euro).bin
+d55083fb5a014db1c8692e1545309fc7	mpr-15289.u1
+4a123a906db13ac79e881bb35c7a1a0c	mpr-16017-sm.u1
+3613d116847a35dcd4b1ec989a7121e3	fv001a1.u1
+0d7d46d63a371cae49294e48bbc7127f	tmnt (unl).bin
+8d30e09b0988709472e6750bfd1744ee	teenage mutant ninja turtles - return of the shredder (jpn).bin
+1a72e14977672c6fb1cdbc5a50d8c4a2	teenage mutant ninja turtles - tournament fighters (jpn).bin
+4cabf79a9e4783ff4e5c1294bcb6129c	mpr-16018-u.u1
+92918afc6e6e5a96ff6f34e6d3d37329	tnn bass tournament of champions (usa).bin
+d6315eddc8d86f858d894b353d0e585d	tnn outdoors bass tournament '96 (usa).bin
+4738aa21d4c239fbbd01a25d378b91d3	new zealand story, the (jpn).bin
+72dc91fd2c5528b384f082a38db9ddda	mpr-14236a-h.u1
+4a8ed7605e644b5bf19603ae0e376ed2	mpr-16179-mx.ic1
+cd1d837e8532f3a6be292db9f2a4dfce	mpr-16363-s.ic1
+07195d7d9d9ec075581599b0674a49bb	toe jam & earl in panic on funkotron (jpn).bin
+049084737b7bdcbc1b11d3b3ed5a5468	toejam&earl.58bd.bin
+0177a7ec7ef049b41f4c62e2c9cf2aa8	toejam & earl in panic on funkotron (sep 11, 1993 build).bin
+7ee9f6a3d28a94d7298bb9813478e504	mpr-16112-h.ic1
+0a6af20d9c5b3ec4e23c683f083b92cd	mpr-14236-f.ic1
+56ba94382fe6f06d05baf77261644ad4	mpr-14464a.bin
+051de9d4ce9da17032bfe5db6e9c54c6	toki - going ape spit -- juju densetsu (world).bin
+9702004047747973532c83dd0b2129af	tom clown (unl).bin
+104fa78c21ca6cdae5c5bb8f697dfa53	tom and jerry - frantic antics (usa) (1993).bin
+61246a57e46da52d32d934edea7b628f	tom and jerry - frantic antics (usa) (1994).bin
+f9ba25f978dac5d0bae9170d0ef6fc15	tom and jerry - frantic antics (jpn).bin
+5bdf0b1c03805200ffbc24e7941820eb	top fighter 2005 (unl).bin
+c82275adf76200d0952272dd6a7ca453	top fighter 2000 mk viii (unl).bin
+c1d154862f292bd48114b2b6c3265d7a	mpr-17297-sm.u1
+e49d25135eff2c4d3603e8e8125998d0	mpr-14853.bin
+7ce3f395b274e6796e41cd8c5034fe0a	top pro golf 2 (jpn).bin
+6bbf7668e1290550942d514ad473d743	total football.u1
+cff03b9f1413dcf3c339f1e31e09d008	tmb2 u1.u1
+c2f51cbb237acb37ce684649875bd94c	tmb2 u2.u2
+32fb1f12205e350cfe2bb66616043b59	mpr-14674 w52.ic1
+2dfece94b43477a87b2c3ac0e74b5cfa	turbo outrun (dec 9, 1991 prototype).bin
+a926370d03e278f76c26c868b909fd36	toxic crusaders (usa).bin
+608e9d0f19b33749865f809bbe4b9f5c	mpr-15574.bin
+5992b6171bcbb7d7210b8a67db22f1cd	mpr-18848-u.ic1
+f61a31259e41a28aa5946d2a0e3e3bbf	executedemo1.9f79.bin
+23dc9770c2044a05c7351cf83a139d74	mpr-18552-u.ic1
+a214cbc398eb4e6962186bbd69144d9e	triple play '96 (usa).bin
+12ba891983dab9749bdaeb7dc8491de8	triple play gold (usa).bin
+8d3936894373876267a9de4c196b8b17	triple play gold (usa) (alt).bin
+b3a6322647260b29dbd584bc528f05e5	mpr-14675.bin
+c4d2c80b3f21748325470667c1caf574	trampoline terror! (usa).bin
+60f785674dd11b79e87f70715b8ab1dd	transformers 3 (unl).bin
+98d97dcf65dc2e9489539b9c74ac1af4	traysia (usa).bin
+75d911e5dc04c429c2f6d64332021b2b	minato no traysia (jpn).bin
+ba86aa750145ca451ed34a8d5a0e284a	traysia (jan 22, 1992 prototype).bin
+ae816c5017578267060fd4733586cba7	mpr-13142-f.ic1
+29ed0a6f1f9d93882652b1a649daa53c	target earth (feb 16, 1990 prototype).bin
+f29c5049a48f37a37b811a22dc731e3c	trouble shooter (usa).bin
+a2d9f8c669a59fe39acb8e23d24e6344	trouble shooter (sep 12, 1991 prototype).bin
+204685a5dce7d9c97b072bd900f63e2f	troy aikman nfl football (usa).bin
+0d2391f612147c31cbae974c7264adf3	truco96.bin
+2fee5ef253faebaff73c017a7bda1cff	true lies.u1
+75a42b19e5503c72b21018699314db0b	mpr-12752 r87.ic1
+abddd42b2548e9b708991f689d726c9a	mpr-17066-f.u1
+1def1d7dbe4ab6b9e1fc90093292de6a	tiny toon adventures - acme all-stars (usa, kor).bin
+e5d4f143fce5c6833e1fed18f830f1c6	tiny toon adventures 3 (unl).bin
+f34b286c0abd5eaab6a2e98a1c4c5176	mpr-15406.u1
+c1e16666cac05be073583ce0c4869dc9	tiny toon adventures (kor).bin
+4831cb1b067887a086467ec51653af48	mpr-15405.u1
+88f19e23af14c35152d4964f426529e1	tun shi tian di iii (chi) (simple chinese) (unl).bin
+0fd2eb3dddced1d42c371220aa5b0359	tun shi tian di iii (chi) (unl).bin
+fc0671e09a03e6ca6481f34eb5e2114e	turma da monica na terra dos monstros (bra).bin
+ca0e4bd18f573d4f1166c5067c47594a	actusg591.u1
+36040824b8acd9c21c661a0673c74029	mpr-13935-t.ic1
+63784fb6307b9be9b68964e542a50fe2	mpr-13936-f.ic2
+ebd5c5829e6992542770773e276ebac3	mpr-13177-f.ic1
+b69c08081e2744d043600d57ea773051	twin hawk (apr 6, 1990 prototype).bin
+809887a9535753ee7a13c8a2d365f0eb	twinkle tale (jpn).bin
+2e599a6016eb21b875507c480a716845	twisted flipper (usa) (beta).bin
+716c52cde8c209d3c3abd54b9d00d132	mpr-15319-f.u1
+4528ab579d527c36dedac7b738db4aa3	two crude dudes (nov 24, 1991 prototype).bin
+36f90726fa2158885d5265bb4b50c8ee	mpr-14559 w23.u1
+a73f2484d4e91c81ca768379aac11168	mpr-15652-s.u1
+b090d74241cd56820b568c319799412b	mpr-15284-f.u1
+2de20c45e4d643b7eb96cfba59626a04	ultimate qix (usa).bin
+8952cf5509449e3c2ce61424d4807161	ultraman (jpn).bin
+3426fc8802e1a385dc227b9dde59cbe4	mpr-15819-s.u1
+6912373a911d907968a99650537f3d73	world soccer (prototype).bin
+3dcf09e58870a2cf850f9788078684be	pal ultimate mk3.u1
+5a129779699f8b388e97c9c0d703d503	t-97146.u1
+ea5d0387e848f2e0203b8d7da8c57038	uncharted waters (usa).bin
+f7e2e19770ff41441f79d014bc963122	undead line (jpn).bin
+1546f822e7fe5b5d7fa54067968628dd	universal soldier (euro, usa).bin
+f314fe624d288b4e1228ae759bae1d86	unnecessary roughness 95 (usa).bin
+0f0be2db4084822d5514f8e34a0d1488	urban strike urban02.u1
+7a3e28e8befbc5134cc0e61614b2023b	uzu keobukseon (kor).bin
+da1638baec999b2203ac5e5fec31c744	valis (usa).bin
+a50202da29099f2c9d8b1c629653a718	valis iii (usa).bin
+f22adcdb3907b108f4ae96cb65069ca7	valis iii (jpn) (rev a).bin
+dcf5a4f9439704d8599457d52af5d0fe	mugen senshi valis (jpn).bin
+bf2aaf867d3201355a1168637a9ba475	valis (oct 25, 1991 prototype).bin
+cff6076504b1097bb89848c0698ef2a2	vapor trail (usa).bin
+4e69f2ecbfb967d3c1304bc0f337f059	vapor trail (may 26, 1991 prototype).bin
+7f3de83f6406cd4ff0894b7d02c73d71	virtual bart (world).bin
+d7171a867739c8ec325aa65b175b0c49	mpr-18330-u.ic1
+9666d682cc7c69b26b834b4d8a949277	mpr-19092-u.ic1
+f53cad7d85409ade54fb21234f28579a	vectorman 2 (beta).bin
+b95705a2b30070467b929dc80afe319d	vectorman 2 (prototype - aug 27, 1996).bin
+662dab0549e8bcc65d6380afb64ee676	vectorman 2 (prototype - aug 26, 1996).bin
+86d34235fb40c7066e05b13790c66ac5	vectorman 2 (prototype - aug 19, 1996).bin
+fbd46061a158f44e4ad33f7d53592d7d	vectorman 2 (prototype - aug 16, 1996).bin
+a61f63c50241ead41a3fc85a74e0428e	vectorman 2 (prototype - aug 15, 1996).bin
+90f9163382f6f9bac78d462dd738c14b	vectorman (beta).bin
+8c9e5e67cc9a04e328423e71932d6fa7	vectorman (beta) (alt).bin
+4399f6b387c85836bdb813f125a7ac56	vectorman (prototype - jul 24, 1995).bin
+41d79267b01e983c0956151de10d9646	spider-man and venom - separation anxiety (euro, usa).bin
+7c76214d8b03b469e82a684e55a2b9cc	mpr-13430-t.ic1
+759a110c37f87c909347e9a5607764b2	mpr-13431-h.ic2
+e2ca418b1a370894f407de606462fa7e	mpr-12708-t.ic1
+74f3f1174137a1731044a6e90b6f9c43	mpr-12709-s.ic2
+a8cf66d11fe76da86181d7e8f7f9c759	sword of vermilion (nov 18, 1993 build).bin
+8ba242496a1d006af6cf4af6c93f5a1c	verytex (jpn).bin
+61b922208e0518a2e127939d374a43cb	mpr-19093-u.ic1
+57ce4ca42617f1cdb7f88de3710f766c	mpr-19107-mx.ic1
+311bdf373a77ab49dbd7ff47a92aa9fd	mpr-19108-mx.ic2
+ad3fb9946f0bf18c73413d0e4d57ddbf	mpr-19369-u.ic1
+04d9a61224da48a015a760ba4309294a	virtua fighter 2 (prototype - sep 27, 1996).bin
+d5888a5762d21f4c7b2fafb840aad86d	virtua fighter 2 (prototype - sep 20, 1996).bin
+95dd47fc67df25d665ba5e48133d6146	virtua fighter 2 (prototype - sep 13, 1996).bin
+f61843c457cd2cb8b8ec8158c0264312	virtua fighter 2 (prototype - aug 30, 1996).bin
+22e5fc66e56aca303c0bb3708026d130	virtua fighter 2 (prototype - aug 19, 1996).bin
+c9d258c650a5f1f44ee2a362ab329291	virtua fighter 2 vs tekken 2 (unl).bin
+af4bdc10f0eda16eda979d1353faa04b	v-v (jpn).bin
+8cd197ae13fa8b4e93cc109502db957b	mpr-17357-sm.ic1
+a7954fed5a3258d5a656d63582e707be	viewpoint (usa) (beta).bin
+b6988d9538f46966d1be08dc5da72942	voina_irak.bin
+4ad9e56271eb9f5aee6c7c6d05e498b4	vixen 357 (jpn).bin
+9746b03a917b3e26f054992c8babc940	volfied (jpn).bin
+5a100639ee92435eab75105a7568f15d	pinball vpball03.u1
+f77b8ea51b161c0e2fa9a9caef3ea491	mpr-16420-t.ic2
+ca12f83dbeb44a134062a1f444e4a90a	mpr-16389-h.ic2
+674216dccb221b14c3df1007bd2e4388	mpr-18435-u.ic1
+3d4e16e2743d453f206b1c305b12cd27	mpr-16419-t.ic2
+cac7180bd723cdb4056df77a951d7dbd	wacky races (usa) (prototype).bin
+d568aaed8e044287e5e1fcc0ffe02676	great waldo search, the (usa).bin
+9f4607f95a1e995ea5867decf429e1a3	wani wani world (jpn).bin
+03fcaef50c6a5e889690a25b1433499a	wardner (usa).bin
+473332d97eb0bf9b16490379c57a1ada	wardner no mori special (jpn).bin
+c26f8916a3fe4c82943323db31608753	wario land 3 (unl).bin
+dadf4e342963216f602b85e6271789db	warlock.u1
+30ad308fbb8d73deeda5197a1a2e6f0c	warlock (usa) (beta).bin
+aecd57c6d3d2a71d759573a4ca853cf0	warpspeed (usa).bin
+bcf98c92d475c94a451442f3df55ec51	warrior of rome (usa).bin
+8ab12498223286f3a4e519ce34f93e49	warrior of rome ii (usa).bin
+146996a42ef0cca2578f4d56da2c4206	warsong (usa).bin
+224729c46eb827aaecede2365bf45c56	warsong (oct 1, 1991 prototype).bin
+1b578a6a735966aa8ccfd677eaa3812a	waterworld (euro) (prototype).bin
+7841791f8e0d6cb6d776f7fcb338377f	twi 1995 335089-1050.ic1
+f0e8150da96d61f7364a020d6c1df07c	wayne's world (usa).bin
+17f53791945ce7ccd83a4e812e3705e4	mpr-13619 s86.ic1
+e25afc5b755555397e4047061050ae05	wonder boy v - monster world iii (jpn, kor).bin
+419668e422d0956b01556fef16721b66	wonder boy v - monster world iii (jul 25, 1991 prototype).bin
+945335637611a0951595fae0994f4303	mpr-14556-h.ic1
+d42d8ffe2d83439a41c8606e7eef719c	mpr-15278-f.ic1
+234b983449adfc4368ecdbdaea4e4928	world class leaderboard golf (usa).bin
+a1647bee0108acba9e2f99daab336c18	mpr-12607b.ic1
+8be67519c2417d36ca51576ff1ab043b	mpr-16930-f.u1
+d45cb7e3cdfd96b1843ddac20a0111cd	world championship soccer ii (prototype - mar 30, 1994).bin
+5412a8800c1cebf58d37a4f07106235b	world championship soccer ii (prototype - mar 29, 1994).bin
+7aff13523668d88efb76f180cbf88aa8	world championship soccer ii (prototype - mar 29, 1994 - b).bin
+bee8f9aa743000abd77e787fed1263ac	world championship soccer ii (prototype - mar 27, 1994).bin
+cbabb5b75529d19fdf749b7665165f98	world championship soccer ii (prototype - mar 26, 1994).bin
+2e856af61f089c4fe20f724bb100bccc	world championship soccer ii (prototype - mar 25, 1994).bin
+31da1d66ee4f4c6a0c207b38b9f24ad5	world championship soccer ii (prototype - mar 24, 1994).bin
+7fea2a5be81a7e1e106211797fbbdef4	world championship soccer ii (prototype - mar 23, 1994).bin
+dc1554cbb0a58b0debfb7d1711af39db	world championship soccer ii (prototype y - mar 18, 1994).bin
+c6bedc3d43226a774538c5740eed9a20	world championship soccer ii (prototype u - mar 14, 1994).bin
+cbdbfa92ddd3b59693df343b8a36f75f	world championship soccer ii (prototype r - mar 09, 1994).bin
+d740d0940aa6f18e747aa7ab83de0de3	world championship soccer ii (prototype - mar 09, 1994).bin
+c00e1c47d1febcaec239485f76a49b32	world championship soccer ii (prototype p - mar 04, 1994).bin
+c5486aac9359d4b6fe6fde87d54dbad3	world championship soccer ii (prototype o - mar 03, 1994).bin
+ce2e69b43fd83ac2251c89208e63720c	world championship soccer ii (prototype n - mar 03, 1994).bin
+bdd88ccb91c7106753810c392f33bb63	world championship soccer ii (prototype j - feb 28, 1994).bin
+fbdff45d0f138ebbcded1357e5eaa5a7	world championship soccer ii (prototype - feb 23, 1994).bin
+e288fd2b042baffc5fb678a96ceacf6d	world championship soccer ii (prototype g - feb 22, 1994).bin
+d0686cf7c1851ebc960c08c9f9908a31	world championship soccer ii (usa).bin
+39e4c68053de6bda40ffee3dc271cdb8	world championship soccer ii (usa) (beta).bin
+34d356930dcb13fe02a3ec42b3d8d70e	world cup soccer -- world championship soccer (usa, jpn) (v1.2).bin
+9ef694ab80344a7cced0d33f9c84a1b5	mpr-12589 w89.ic1
+11e4635d58198b873fdafc65fb6d1229	mpr-13239-s.ic1
+d97666f8f935e50284026d442d9c5e6e	mpr-16683-f.ic1
+a6c278bd20a91b98cbbda5ec19bb1f5e	weaponlord (usa).bin
+6e177a1d74b0648c0b4afe311171cf27	world heroes (usa).bin
+7d20d74e81524773409f4f89e944cfaa	whac-a-critter (usa) (unl).bin
+98ea706cf962844253ebb9863a3213c8	wheel of fortune (usa).bin
+85ec5e2358cc4e8041206bec66d47fe9	whip rush (usa).bin
+d0325f369183f1153e0ce825283e6d7a	whip rush - wakusei voltegas no nazo (jpn).bin
+c89f68a8fdfbc6523091784c9a0afd9f	whip rush (jan 29, 1990 prototype).bin
+cb51f914152982d4d05fb7b321defcfe	world heroes (jpn).bin
+d5154bda55b5de37027c5cc883ddfe75	world heroes (jpn) (prototype - apr 20, 1994) (broken - c05 missing).bin
+833fd0336aefb23c6abdeb02d8a0e639	world heroes (jpn) (prototype - apr 20, 1994 - b).bin
+ecb449de22566b1640d333c849d517cf	world heroes (jpn) (prototype - apr 15, 1994).bin
+f531597c1b374fea4bec45635cbeb1d3	world heroes (jpn) (prototype - apr 08, 1994).bin
+727f3bf4e2dfd7c85a63d75ae9115f63	world heroes (jpn) (prototype - mar 30, 1994).bin
+3879538425eee4752658c39f9f8d96bc	world heroes (euro) (prototype - mar 31, 1994).bin
+a8430d1d3e966a8e7d657ecccb8fcfe8	world heroes (euro) (prototype - mar 31, 1994 - b).bin
+7f40d3eff59b6af04c9d129a91c4d616	world heroes (usa) (prototype - mar 30, 1994).bin
+1afe8bd2d178ba200a5aeff76743728e	world heroes (usa) (prototype - mar 24, 1994).bin
+e520bbdb586f5a78f181a97eaaecc737	world heroes (usa) (prototype - mar 23, 1994).bin
+0cb403e88aadca0addbcda89cd2ff9ba	world heroes (usa) (prototype - mar 22, 1994) (broken - c07 missing).bin
+9f2e04dc0d9aadcd0cc00cdb93104e90	world heroes (usa) (prototype - mar 18, 1994).bin
+d07fb7957e80a3800b43bc9511afc738	world heroes (usa) (prototype - mar 16, 1994).bin
+4ff6f1a15f9fb87fba5fb711022a74c8	world heroes (usa) (prototype - mar 15, 1994).bin
+f4186117d2f1b873b8daf32975fef60e	world heroes (usa) (prototype - mar 09, 1994).bin
+618e71443c72f443fba80d8ec7cf91b3	world heroes (usa) (prototype - mar 07, 1994).bin
+13c50fade7ce9c5e3b1c54bfd047f2ca	world heroes (usa) (prototype - mar 03, 1994).bin
+342462d4d2d58347843a43742d59e988	world heroes (usa) (prototype - feb 23, 1994).bin
+78761c483b557886dc7e6cef754ea765	wild snake (usa) (prototype).bin
+85af0afa9cd9deeb3a07bd199032843c	mpr-15966-f.ic1
+c6eea98cf082bbe42b73f55fc68f4f61	mpr-15967-f.ic2
+dd43c4cfd5958baeb9b4ddd5619f7255	wimbledon championship tennis (jpn).bin
+7978bb18dc7c6269f6b5c2178b93b407	wimbledon championship tennis (usa).bin
+3ae5317fa28ff2b5aed7dd6e8d5eba2f	wimbledon championship tennis (usa) (beta).bin
+911ef3d3909b19609f76f0d70a017d85	wings of wor (usa).bin
+882565088f39ff017d1ff7005784c9c4	9341 1-92 acwcsg-1.u1
+014503085db19eaf93e586e803d473d8	9153 12-91 acwcsg.u1
+3c678432c6cf19b389b1b52f7356e6d5	winter challenge (beta).bin
+b8aac09c5d011c15ff3b32f45b04af87	lrog4621 93501
+39f01609531a8bd256f44a17b2dfcad8	winter olympics (jpn).bin
+fbdd0aecdee18be64b1e7dd93b31821a	winter olympic games (usa).bin
+79db23c0007233f519c293b90bdca2e9	winx (rus).bin
+b9ea98650fe02557dfc6777b3b8f1d0b	winx 3d (unl).bin
+8c0a97a07867e5a9406d45e682d0cde8	mpr-15968-s.u1
+01c9742b0a83a7c135f9ed6948dc7576	wiz'n'liz (usa).bin
+b2edbcc663643eab07d9101a855fd9e4	wolfchild (usa).bin
+edcab9581877ad444db121e1badd45f9	wolverine.u1
+b772f18dd3fff8b61a6dc801aa74ed07	wonder library (jpn).bin
+c6ba2aa696d90bbcc21aec786877fcee	mpr-15271-f.u1
+edb74bc08734149bf11b7f5b1a184741	mpr-15283-f.u1
+541367d403fee99c53aab4d4ecd9f866	world of illusion - fushigi na magic box (jpn) (beta).bin
+c2c5a4b990ce72f98b7b7f236e66c022	world of illusion starring mickey mouse and donald duck (usa, kor).bin
+dbf5f8e9346a4bd2eb84dc5dd2dd1ea8	mpr-15052.ic1
+0d53ce8f8d060900805b798a1d9d2579	worms (euro).bin
+e56d724a1423ba8cce333c598b320c6d	worms (euro) (beta).bin
+340744f4f5bf0a6b27b6d58c08848e28	world of tanks (rus).bin
+276250d5d7309a80973df869e8700e46	mpr-14025-f.ic1
+4f25842f29135ddda34ebd09cfee81f9	wrestle war (jpn) (beta).bin
+96ed17f1ecdb413c319d06ee58e3be8d	wrestleball (jpn).bin
+74c8f38a84ee82c9cd3edcdb710e82cd	world series baseball (usa).bin
+0a352ba83e9e63380df2dd0bcb01044b	world series baseball '95 (usa).bin
+bc5f3ea887ebabaa51bb4e3cb6e879d6	world series baseball '95 (prototype - feb 14, 1995).bin
+501c70f238f98ef977de51d0fa32cdb2	world series baseball '95 (prototype - feb 13, 1995).bin
+4b7714fc7566e7d7fb73f097195e0e8f	world series baseball '95 (prototype - feb 12, 1995).bin
+11b46af6bb269513950fe3ca8d7c3535	world series baseball '95 (prototype - feb 11, 1995).bin
+94d944421f3be02ce142c18edc784737	world series baseball '95 (prototype - feb 09, 1995).bin
+aaca579ba3cd7da928b05881e613d270	world series baseball '95 (prototype - feb 09, 1995 - b).bin
+dcccd049f2e810b9948cf46ab6b6426f	world series baseball '95 (prototype - feb 07, 1995).bin
+445a7a279271cc177f28c447dbd0a0d6	world series baseball '95 (prototype - feb 03, 1995).bin
+838fd68781019b6ef39ca958a9daa0ca	world series baseball '95 (prototype - feb 02, 1995).bin
+2d740f4a88e609f42821d255a85100e9	world series baseball '95 (prototype - jan 30, 1995).bin
+aa91805928fe7b340f7514b65bfcbf39	world series baseball '95 (prototype - jan 25, 1995).bin
+c10ef25cb2d423fd54e6acc0d3dbeb70	world series baseball '95 (prototype - jan 20, 1995).bin
+05a8efa799183bf1ae3792cd1b02a152	world series baseball '95 (prototype - jan 18, 1995 - rm).bin
+16401aa392d6680bd009e145620f7b50	world series baseball '95 (prototype - jan 16, 1995).bin
+b69d88a4e8aedf3d404c664e62773b7d	world series baseball '95 (prototype - jan 14, 1995 - rm).bin
+691c54731cfe16918c65d95774ef1b5b	world series baseball '95 (prototype - jan 10, 1995).bin
+6a3ae126c5d2eef412a1d2328a779fc2	world series baseball '95 (prototype - jan 09, 1995 - tst).bin
+33f17cbad17e17d4eb92a8fe4a27e4c1	world series baseball '95 (prototype - jan 05, 1995).bin
+48bd7a15df1625d629e633c701cbd8bb	world series baseball '95 (prototype - jan 03, 1995 - tst).bin
+044333f9f9a581568c0b7337f5b069da	world series baseball '95 (prototype - jan 01, 1995 - tst).bin
+9e03e6bbf3559942da62f856d8b26450	world series baseball '95 (prototype - dec 28, 1994 - sb).bin
+bff990cc2114f72cd80aafa38eccb849	world series baseball '95 (prototype - dec 14, 1994).bin
+980c172abf3b5e04cd9d0bde44cd17e3	world series baseball '95 (prototype - dec 08, 1994).bin
+c72fa1e851cc03077a31cb10f6480b5d	world series baseball '96 (usa).bin
+b3d36d17c5110df53629217cb91884dd	mpr-19766-mx.ic1
+5973f9485e06fedb8baf50deb7d3a73e	mpr-19767-mx.ic2
+56e5e9a25dae98c31021f01d3e21b98d	world series baseball (prototype - may 27, 1994).bin
+2d026120bc5a8ef4a5a7fd6e7c634e86	world series baseball (prototype - mar 04, 1994).bin
+1ead3690321a94cc3b63000b2e209732	world series baseball (prototype - feb 18, 1994).bin
+4d6c35c52c1174916f4556bff538cb7e	world series baseball (prototype - jan 16, 1994).bin
+847803a44cf2c0f0d09283c24a74525b	world series baseball (prototype - jan 06, 1994).bin
+4aec75f38cf27d449ef4fb51b14a41d5	world series baseball (prototype - jan 03, 1994).bin
+67dc06646923d609abf53293f5777a80	world series baseball (prototype - dec 29, 1993).bin
+4d64bd8aac1a37f62974a6b97766f306	world series baseball (prototype - dec 26, 1993).bin
+c209b0970c5fec1ab52dd13b9cfe6710	world series baseball (prototype - dec 22, 1993).bin
+23e579c92ba9d4c2d513f8ace81e956b	world series baseball (prototype - oct 01, 1993).bin
+b9ef0bf2c788fd80ac8affcedc13cb35	legend of wukong (unl).bin
+2982732d367be2d1d29673ba74585aac	wu kong wai zhuan (chi) [a4].bin
+9d51b121ebf442a1f7c65a92e3ec1109	wu kong wai zhuan (chi) (unl).bin
+72a02a9eb90740ef618f8fce968c4a1b	9539d+9540d.bin
+31a85dffa93dc8f2db6934fc43b38615	wwf wrestlemania - the arcade game (usa) (alpha).bin
+3b32cc6423b20288c83b680abd068a1d	wwf raw.u1
+218601725d88e546375f2b90a9da20dd	wwfrr-gen hi ver 1.00.ic2
+023f9491a02db142636dfc9339a8e4f6	wwfrr-gen lo ver 1.00.ic1
+8d83131da5dfe5a1e83e4390e7777064	mpr-15935-sm.ic1
+fc412a1d0487cef78c5f9e0fe90faa2b	mpr-15215.ic1
+def151887d5fd58b778df4ee077192c6	wacky worlds (usa).bin
+b6b59479110fd8774529685dc4c7f784	wacky worlds (prototype - aug 19, 1994).bin
+fd74f485ef1569ec4822e919167de03f	wacky worlds (prototype - aug 17, 1994).bin
+6cd70dedfe8e9578e5922ba37e360dd8	wacky worlds (prototype - aug 08, 1994).bin
+1d37d9209251feb175ffcf129eaa0131	xdr - x dazedly ray (jpn).bin
+3d1d9912136bf271332eac1c6e56fa2b	mpr-15064-h.ic1
+8072f5025e9f874c0ccf0341c2081c74	cross fire (usa).bin
+d3cc36984a31ed76c0d54df348677c47	crossfire-gen-beta.bin
+86deafcc9b0369fb970f47657859768b	xiao monv - magic girl (chi) (unl).bin
+528e171264ebfd90e53fd9667d1c61d1	xin qi gai wang zi (chi) (unl).bin
+8094c9a1c0cf82b26621a382d3ee4724	xin qi gai wang zi (chi) (alt) (unl).bin
+26c49c46b8e2574dde481132bbd34fd4	mpr-15505-sm.u1
+b687660446f6e49dfd465cd0ef9f0bc3	mpr-17444-f.ic1
+ba21706d2d24dc321ee210d4ce1240c7	x-men 2 - clone wars (prototype - dec 16, 1994).bin
+025f4fae50e83b8fef839dde8c928f31	x-men 2 - clone wars (prototype - dec 15, 1994).bin
+0d436182810e1fbac69a328bf8f3b948	x-men 2 - clone wars (prototype - dec 14, 1994).bin
+169e3685e8960dd6786b40d4bd7c8a09	x-men 2 - clone wars (prototype - dec 11, 1994).bin
+87f2f7e0a7900b6c804bb82ce59d6559	x-men 2 - clone wars (prototype - dec 11, 1994 - a).bin
+3f45a2d47230eabc74724ed22bdcd746	x-men 2 - clone wars (prototype - dec 10, 1994).bin
+4828cf34725396661f7c6cbb4bc42588	x-men 2 - clone wars (prototype - dec 09, 1994).bin
+82c3a00ca08302f808bd47ee9d1248dd	x-men 2 - clone wars (prototype - dec 08, 1994).bin
+3c65ad87346eb75e6bc2cf6069297c22	x-men 2 - clone wars (prototype - dec 07, 1994).bin
+a61c0faa1d694667c756ad693d90f9da	x-men 2 - clone wars (prototype - dec 06, 1994).bin
+a2f2b3f335176ed311f97173b9e8cda4	x-men 2 - clone wars (prototype - dec 03, 1994).bin
+c09028d4a3fba768018cdd09494ecb7c	x-men 2 - clone wars (prototype - dec 02, 1994).bin
+9b454bc521070738a99a2a05f4f9e218	x-men 2 - clone wars (prototype - nov 30, 1994).bin
+0863f51fb3b4fadcb7a91db19d7bf6e2	x-men 2 - clone wars (prototype - nov 28, 1994).bin
+83c43dd662690bc38d82efc42a7d3a01	x-men 2 - clone wars (prototype - nov 23, 1994).bin
+0c78d7b738f0a25432cdb1643eb5f01a	x-men 2 - clone wars (prototype - nov 17, 1994).bin
+53b0c91797d3d84d83ef089051a11f4c	x-men 2 - clone wars (prototype - oct 18, 1994).bin
+8e6c99c2f0e8c4275fefcc6e7b857ec9	x-men 2 - clone wars (prototype - may 10, 1994).bin
+a34cbd0b50c64bb4b85e3b756ded5c80	x-men 2 - clone wars (prototype - may 06, 1994).bin
+63274bdd105d2abf265aa2d2934635c5	x-men (usa).bin
+281f94eebb57f5db0d299155bcc56f4e	x-perts (usa).bin
+6fe621a37629a0f41d1f4c032a0843a2	x-perts (prototype).bin
+b29476faa932165d616a2822e92dec8f	yang jia jiang - yang warrior family (chi) (unl).bin
+959109050fe0e9b3cfc2ba30b6b60975	ya se chuan shuo (chi) (unl).bin
+ded915ceb879681492b069c4cec0cb5e	mpr-17424-f.u1
+ec889336c50f215a0a248f09ee0df686	young indiana jones chronicles, the (usa) (prototype).bin
+fc016fc52d0d6baacda12df3a89d5b06	ys iii (usa).bin
+bb632143831215d57f45765b5dccea58	ys - wanderers from ys (jpn).bin
+b73adce079985c1e68cefae35801f873	ys iii - wanderers from ys (aug 28, 1991 prototype).bin
+a339561a0d46fee4c2569de0b237a02b	yuu yuu hakusho gaiden (jpn).bin
+8130283788f82677ec583b7f627dbf0c	yuu yuu hakusho - makyou toitsusen (jpn).bin
+2a2165b2be91810f5b97e8d7d2f76ad5	yuu yuu hakusho - sunset fighters (bra).bin
+13dd1f56c92209bfe200d93d98c7b36a	zan yasha enbukyoku (jpn).bin
+e389d35d584f1db39d6abf9d5b21162e	zany u1 zan04.u1
+6a23d5585b4fe6532d10f440f78af19a	zany golf (euro, usa).bin
+cc4451d56d92c4a7a1c1462ac07c1296	zero the kamikaze squirrel (euro).bin
+7d85c98d9b23fbf8a240ffd708a0aa96	zetsg hi 7500-00033a.u1
+d2545e1b1d2978bac9c9588cdee58c32	zetsg lo 7500-00034a.u2
+4e18827f7dd6ca39970a2ef0e0fa21d0	zero the kamikaze squirrel (usa).bin
+5f4f2fb8c7b8c50efbc6eed57ce3dae3	mpr-14463-sm.u1
+9647d8ec9183f3ec9f944d5ea49a99a9	mpr-13904-h.u1
+4cfa0256c3deb52a75c20e10b44574c6	zhuo gui da shi - ghost hunter (chi) (unl).bin
+9937c7698d62672f7ab46d3fc09f0f2b	zombie high (usa) (prototype).bin
+f34c4d65295980bbf7c1c0dde433b154	fx005.u1
+de13c6ca3789b58f19df059f2d1a8425	fv005.u1
+98a9c42c965a336c2c3e6dca5319d031	zool zool04.u1
+2d28ddb5be02a3b3612ba73ca064edb5	zool - ninja of the 'nth' dimension (usa).bin
+dcb24422572d9acf8dc158aa734ebb79	mpr-12807 t05.ic1
+ffee23596eed8b6a50138c6c63349ecc	mpr-18564-f.u1
+c4c9fe0959ee29953cf23c095981ca81	mpr-18431-f.u1
+685facf5f572d2113187ecc40b0341bf	zou! zou! zou! rescue daisakusen (jpn).bin
