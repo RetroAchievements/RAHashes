@@ -1,0 +1,57 @@
+66d1285e85dc911fe858fec52bafe8af	Air-Sea Battle (Europe) (Unknown).bin
+62189ca0a1541840ab09c41210968bfb	Air-Sea Battle (Europe).bin
+a97bf77d95589fd45bad246f593a3216	Backgammon (Europe).bin
+a298fdb9ada3e297c9454204c7622fb9	Blackjack (Europe).bin
+b9f0c9da87c892f06b5e552d5e2f536c	Bowling - Ninepins (Europe).bin
+558de3fea3b956edd6bfc146bcd8a627	Boxing Match (Europe) (Unknown).bin
+c9ff3f14d11543551f79f2bd90f4a17d	Boxing Match (Europe).bin
+8676fd26de370e88a71368be41b6a0a0	Car Races (Europe).BIN
+485c7e91e79a88c76c3bea9df2e68c9b	Casino (Europe).bin
+c44b247e6c33ff3d5593e1112ca6c800	Chess (Europe).bin
+1e2d754a6d78257715a458c03e437440	Chess II (Europe).bin
+7f3916bb403c86b40f12847362ef3904	Circus (Europe).bin
+d329379e2763121a83413f17b646901d	Cockpit (Europe).bin
+e3fc6069cfc0307e33fd1f506de1721f	Draughts (Europe).bin
+095a5a904d18ec38e158b4b99c32ce11	Electronic Pinball (Europe).bin
+f3c75e2f544603691b5f3a126c360c68	Four in a Row (Europe) (Unknown).bin
+9f513213f1ee6c6867dcf959a6dc03c9	Four in a Row (Europe).bin
+1923a420b01d27b1cad75e18aac1edeb	Golf (Europe) (Unknown).bin
+4ff7209dd64f98e6adbbf94888871026	Golf (Europe).bin
+baf6abcbb508f187c5bd3293750021c7	Head On (Europe).BIN
+cd91c5af421af33bd5e447c07324ef76	Hippodrome (Europe) (Unknown).bin
+bfbd5ee9d94d19e7919ade9325b186f4	Hippodrome (Europe).bin
+e7caa127eb5f4f1ebaf0c1a221b8caf8	Hunting (Europe).bin
+7f5f2b802bec9e34e5b672f5828987eb	Hyperspace (Europe).bin
+679f5e747b2c4e1a12538234adb1d9b1	Invaders (Europe) (Fountain).bin
+5864620260e0ee714e824b91a1ddc853	Invaders (Europe) (Interton).bin
+cee762d329819b3f2ad2ec3fd4d46a81	Labyrinth (Europe) (Unknown).bin
+c303fe548504fb0029f764875a15ca99	Labyrinth (Europe).bin
+a930eab9460987887bf42d3183c95e52	Laser Attack (Europe).bin
+455c82e043a886ee3f421ae117a4b266	Mastermind (Europe).bin
+42799480593a8a096d307d1709d9ebd8	Mathematics I (Europe) (Unknown).bin
+87f1a3463d91d74927195e9cd43c4631	Mathematics I (Europe).bin
+291e0cdd32528d2d34ae4dd145080d9e	Mathematics II (Europe).bin
+4defcd82f76080b9b59ef71d80811777	Melody - Simon (Europe).bin
+f57e7904203e509f54a008c8b363579d	Memory I - Flag Capture (Europe).bin
+a591afbf4eb4ac48bb913705e7dd0357	Metropolis - Hangman (Europe).bin
+f4cdc88937b255128d764befc6c590b5	Monster Man (Europe) (Unknown).bin
+5b1aa2c45e08cfe60ceb06e55854e7cf	Monster Man (Europe).bin
+5db7f6dbe12525f8371556522420b601	Motocross (Europe).bin
+ec114ff131e5cf48ec3e15afa069e65a	Outer Space Combat (Europe).bin
+bb930633d24019b7a25dc7fde0036db4	Paddle Games (Europe).bin
+475043174a72e31506c0591b7400e791	Pinball (Europe).bin
+802550e1879d4c59876beb1742f9467f	Planet Defender (Europe).bin
+cee762d329819b3f2ad2ec3fd4d46a81	Reversi (Europe) (Unknown).bin
+99a7dba888bf49be0694abb33ba67d76	Reversi (Europe).bin
+8c7fe7dba72889dc48e58a1f908bdbd1	Road Race (Europe).bin
+7a2a2622b952b0785e052e01fa6e0a2e	Shoot Out (Europe).BIN
+cd6cf9b9e2819eac68ebd3bab7f662b1	Shooting Gallery (Europe).bin
+863cce867a5da9402f601bcb71fa6666	Soccer (Europe) (Fountain).bin
+a34600ad9f10d2f094e10636e3cb7356	Soccer (Europe) (Interton).bin
+0b76cfa96c0b39f7493c1683f3b44f3b	Solitaire (Europe).bin
+abe04a2aae5756bffd5faa152a46324b	Super Knockout (Europe) (Unknown).bin
+d26cbea2b3e9cdd124c0ceea57a4cb9c	Super-Space (Europe).BIN
+cc39997c77eb9c1c3c0007a15c05371a	superinv.bin
+155ecfc3bd8bdf0b419626b8728d0e31	Tank-Plane Battle (Europe).bin
+b87063b5be3c15fb2705a20e92a20388	tbattle.bin
+855b92759ed3b60d113454037f62c588	Winter Sports (Europe).bin

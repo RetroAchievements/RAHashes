@@ -1,0 +1,246 @@
+deaa6e9f7bef3a7af55c6e899967bf79	007 James Bond (Japan) (Othello Multivision) (Alt).sg
+b2ac0c7755e0d6ba0a737861ee190a53	007 James Bond (Japan) (Othello Multivision).sg
+019ccca4d5ca138719497c510dea926b	007 James Bond (Taiwan) (Othello Multivision) (Unl).sg
+4316cd23c96f6c662b9df5ab1de8963c	Arno Dash (World) (v1.00) (Aftermarket) (Homebrew).sg
+8e40507a386a676cc44827d6ec3f9e28	Arno Dash (World) (v1.03) (Aftermarket) (Homebrew).sg
+47cd2d0bbcb879302f83f2f7058f49d4	Bank Panic (Japan).sg
+11a5694d472766fed9c6eb1e09a851bf	Bank Panic (Taiwan) (Unl).sg
+28dd0578a6e3e3e64f8e4168b3a62e7e	BASIC Level II (Japan) (SC-3000) (Program).sc
+fda6619ba96bf00b849192f5e7460622	BASIC Level III (Europe, Australia, New Zealand) (SC-3000) (Program).sc
+a992690a81e1e8a20388aed9c31cf3fc	BASIC Level III (Japan) (SC-3000) (Program).sc
+d2b0524a2cf5754c0fa1c900e9ecb06b	Black Onyx, The (Japan).sg
+0bf5b6959fc1b58d8e37f9647f47a0b3	Bomb Jack (Japan, Australia) (Ja).sg
+20545caa00c6a8512ccd767e4911575a	Bomb Jack (Korea) (En) (English Logo) (Unl).sg
+9cdd1462ddeaef610d15dba01bd926f0	Bomb Jack (Korea) (En) (Korean Logo) (Unl).sg
+a50378abe2636c5c47966b74a14dd127	Bomb Jack (Taiwan) (Chinese Logo) (Unl).sg
+8db486c33c7d688bd5c0e9a81dee2d29	Bomb Jack (Taiwan) (English Logo) (Unl).sg
+cd87c1a8cd8bc137673a7fb057e2142e	Bomberman Special (Taiwan) (Chinese Logo) (Unl).sg
+25044d56bc18ad8b66a726c2f9d0b26b	Bomberman Special (Taiwan) (English Logo) (Unl).sg
+25c742e43bc9f1329f3f26502fefb10a	Borderline (Japan, Europe, Australia, New Zealand) (En).sg
+1c2c5851deb0e9142b5ff19e8dcd8442	Cabbage Patch Kids (Taiwan) (Unl).sg
+d047c10d6b27cf34ccb66340a089523a	Castle, The (Japan).sg
+a85ec287bb4151875446c245750fb8c0	Castle, The (Taiwan) (Unl).sg
+286ba24b335a1600dfc611a0a9fe7875	Chack'n Pop (Japan).sg
+64c1a50fb9f0293d7143d53579e2e62f	Chack'n Pop (Taiwan) (Unl).sg
+5fac8915a1c8a84bdfcdbe4611f4652d	Challenge Derby (Japan) (Othello Multivision).sg
+c992629aced299a29d65026178a582d8	Challenge Derby (Japan) (Rev 1) (Othello Multivision) (Alt).sg
+e8698b111a3548088932fd4528316a1d	Challenge Derby (Japan) (Rev 1) (Othello Multivision).sg
+f70d4bcf91d3ad9313f9800f35b49536	Champion Baseball (Japan).sg
+308e337a863bb9fa952426ef99180aa7	Champion Baseball (Japan, Australia, New Zealand) (Ja).sg
+ec2d21452b4cbb6b302e9319fdab7e39	Champion Baseball (Taiwan) (Unl).sg
+71c32b1cf1e85d217421068ac8ccc655	Champion Billiards (Japan).sg
+256a6d4bd6dbbe7aa99de513eac6ba2f	Champion Billiards (Taiwan) (Unl).sg
+7527098abb9df1db29ba9f495b06998a	Champion Boxing (Japan) (Rev 1).sg
+3f54756fd73c3fbe33b56d7954d12f31	Champion Boxing (Japan, New Zealand) (Ja).sg
+3e346c6137cab263643e42411f64a74d	Champion Boxing (Taiwan) (Unl).sg
+3c01bb2a4414989378c252f45a4e5050	Champion Golf (Japan) (Rev 1).sg
+1d87490269964239b64244fcabd18fe1	Champion Golf (Japan, Europe, Australia, New Zealand) (Ja).sg
+6a865bf09faab7fabacb95eb70e3fc9d	Champion Golf (Korea) (En) (Unl).sg
+b3af58c60e62bb85522ddc29096cef60	Champion Ice Hockey (Japan).sg
+ac3dd2d12e2bdfc7804cb2ef2c213162	Champion Ice Hockey (Korea) (En) (Unl).sg
+1b4badba14b7cca71f159f1ce9fba29e	Champion Ice Hockey (Taiwan) (Unl).sg
+ed6e4e8e081b56be488f57abcb51a7e5	Champion Kendou (Japan).sg
+c19ccd8e05e8230d91a8d2c8430d23bc	Champion Kendou (Taiwan) (Unl).sg
+da9a4589303370e8a751c16b2cbfa628	Champion Pro Wrestling (Japan).sg
+810064687e1614b6a7fb985b82806d31	Champion Soccer (Japan, Europe) (Ja).sg
+f29b59c3588e3b952e1ad79c1e1dc8a0	Champion Soccer (Taiwan) (Unl).sg
+79e8f456fae5d3719731e960c9b4c612	Champion Tennis (Japan, Europe, Australia, New Zealand) (Ja).sg
+f49d9ea611ccb9289994774406f20d06	Championship Lode Runner (Japan, Australia) (Ja).sg
+9b1cc0bdbdf3aeffc655a965dec4aa94	Championship Lode Runner (Taiwan) (Unl).sg
+efcb8ebd3604d682d7a97c5585f8ee27	Cheril Perils Classic (Europe) (Aftermarket) (Homebrew).sg
+dea9e4e5891fbdcd3e0df16fc840afbe	Cheril Perils Classic (USA) (Aftermarket) (Homebrew).sg
+0500fe7f7cbda7a9ec19be1094aa67dd	Choplifter (Japan, Australia) (Ja) (Beta).sg
+ee557c7811f03c44965a56b80801a3b9	Choplifter (Japan, Australia) (Ja).sg
+1ef268192df49e92d1f074e1bc3200dd	Choplifter (Korea) (En) (Unl).sg
+ab4105fd66e149e2bfbd5e5566e6aa76	Choplifter (Taiwan) (Chinese Logo) (Unl).sg
+dac1f7d97039682793378fdba7ee2d8e	Choplifter (Taiwan) (English Logo) (Unl).sg
+3427ae928bce91b314e62be92dbf8446	Choplifter (Taiwan) (No Logo) (Unl).sg
+9c83442fcefbef11bad9d6e35363be0c	Chuugaku Hisshuu Eibunpou - Chuugaku 1-Nen (Japan) (SC-3000) (Program).sc
+800431864400c33ac40a1f1b88c1afb9	Chuugaku Hisshuu Eibunpou - Chuugaku 2-Nen (Japan) (SC-3000) (Program).sc
+b8c0c4c3c05699374d7707688e0fdfb1	Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program) (Alt).sc
+772e1bace3a92c45aa266ba407b3a0b3	Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program).sc
+b23a6d9bafe9b2883119a943778a0503	Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program) (Alt).sc
+1041cb5d0498a469ff7355888e1fa91d	Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program).sc
+ef11524a58bb18415856d625a0ebeb9a	Chuugaku Hisshuu Eitango - Chuugaku 1-Nen (Japan) (SC-3000) (Program).sc
+477da1d7693a05b7a62100663cced631	Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program) (Alt).sc
+7b5c610ed285ef4e1c62521df9533806	Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program).sc
+05940e2d44f81e163dab4a5a6f29645e	Circus Charlie (Korea) (Unl).sg
+46b1f9c6693ed7d1d0c5a6d72872398a	Circus Charlie (Taiwan) (Unl).sg
+94bc20eabd0674e4f7b30762359c66c1	Complete Arcade Pack Collection, The (New Zealand) (SF-7000).sf
+35aa60be1827402f86065e226888fb44	Congo Bongo (Japan).sg
+a0620fb61aa7d023ca52c5eee559832f	Congo Bongo (Japan, Europe) (Ja) (Rev 1) (Alt).sg
+5f4d3c629e37e83794233b3cffc4cc0e	Congo Bongo (Japan, Europe, Australia, New Zealand) (En) (Rev 1).sg
+499fe90988a60a6325465606695e7754	Congo Bongo (Taiwan) (Unl).sg
+d87daad7de33105d703b613052ccc2dd	C_So! (Japan).sg
+25ac91afc22f7a09ff4543af653cd281	C_So! (Taiwan) (Unl).sg
+b8791c6979086cf01a808008b4df0b08	Disk BASIC & Yeno Demo (Japan) (SF-7000) (Program).sf
+8de8d82ed983f76a93a478cc7b15104e	Disk BASIC (Japan) (Rev 1) (SF-7000) (Program).sf
+ef06fb2c00e669ff959db4965a06f8b4	Disk BASIC (Japan) (SF-7000) (Program).sf
+79f15598828e697e75c65130262d8d94	Doki Doki Penguin Land (Japan).sg
+c9412b2aa1de5070734297573dba7132	Doki Doki Penguin Land (Taiwan) (Unl).sg
+64d3cc8117292f6d5af8e1aad95bcb90	Dragon Wang (Japan) (Rev 1).sg
+0528eed7e7ae46ec8298098f1a22d18f	Dragon Wang (Japan).sg
+ea0c028dabd39961eb2db8f2f17c107d	Dragon Wang (Taiwan) (Chinese Logo) (Unl).sg
+0dc1cde8eea986eee30c038f18a996d7	Dragon Wang (Taiwan) (English Logo) (Unl).sg
+8eb2ab42d2bc3f3568e85cba2b46a251	Drol (Japan, Australia) (Ja).sg
+0facbc1668dedbcb579d08df4e232699	Drol (Korea) (Unl).sg
+0423892eefd3d09a7102651f8980cc39	Drol (Taiwan) (Unl).sg
+11e642419b3e345db99d2fac07467386	Electronic Salesman (Japan) (Proto) (SC-3000) (Program).sc
+23c751fe6bb8bd4f8c0cd9b0d39adecd	Elevator Action (Japan).sg
+3787826f22b244b48933f177306706b0	Elevator Action (Taiwan) (Unl).sg
+7f0ae039dd072d825ebfd2d3bf02a2a0	Exerion (Japan, Europe, Australia, New Zealand) (En).sg
+eb3f8f679f32e6bcc4489280df7be7f3	Exerion (Korea) (Unl).sg
+c8519ef63183e8398dde0bd3e7e2641e	Exerion (Taiwan) (Unl).sg
+0bb6d2a43b340f56366edabd7e21fed4	Flicky (Japan) (Rev 1).sg
+b52e308e1c0005bc1dba2ba900ad44d0	Flicky (Japan, New Zealand) (Ja).sg
+5d4c4c65e668196a3d0eadcd260a0bf6	Flicky (Taiwan) (Unl).sg
+ac95c0655360f667e3ad705e2eb7367a	Girl's Garden (Japan, Australia) (Ja).sg
+83065f5045611f3d6d7b67382357dcc6	Girl's Garden (Taiwan) (Unl).sg
+cb25a12e86c729f6a51ba3dea91c1547	Golgo 13 (Japan).sg
+19707d73ce1a664cba608e9c72e334c2	GP World (Japan) (Rev 1).sg
+4d9cc3764321b668d1fc238e19794312	GP World (Japan).sg
+5a533ddf9c0c72c57376ea151ece1c03	GP World (Taiwan) (Unl).sg
+43c23a134aec3ab424405780ff729d54	Gulkave (Japan).sg
+33902566e0070ef7c53f2afa97ec9968	Gulkave (Korea) (Unl).sg
+f3f1042745e96e29bfdf920d031b8cd5	Guzzler (Japan) (Othello Multivision).sg
+36548be02803aa49fe0e918626e240c1	Guzzler (Taiwan) (Othello Multivision) (Unl).sg
+d10f38c614113cb34bbf4a19b487e1fb	H.E.R.O. (Japan).sg
+6136e2e6dda483cb311c72843c2ee5cd	H.E.R.O. (Taiwan) (Chinese Logo) (Unl).sg
+89be9de818fa13dca0ececd6575af06a	H.E.R.O. (Taiwan) (English Logo) (Unl).sg
+314c865decbe6f578d9bfa23f27a08e6	Hang On II (Japan, Australia) (Ja).sg
+21b077d68d38be01837d534b0c1be2e9	Hang On II (Taiwan) (Chinese Logo) (Unl).sg
+ebe4433a6250abd81be69f15b41c566c	Hang On II (Taiwan) (English Logo) (Unl).sg
+cb724ebeaec9619281a906671c98a952	Home BASIC (Japan) (SC-3000) (Program).sc
+33c4b489f61086c10e9f713519ddc7bc	Home Mahjong (Japan) (Rev 1).sg
+d7322428a4fb49ac593f80f30d3c7bd3	Home Mahjong (Japan).sg
+8fab99c3cc9a7a98d8873eaf215a5fa0	Home Mahjong (Taiwan) (Unl).sg
+8be690d357a99abd26ebb5378e9c0153	Hustle Chumy (Japan).sg
+c06fa11763d119620f6a908516c1e8ad	Hustle Chumy (Taiwan) (Unl).sg
+d8e6d89d520c91a9ea219291b55284bb	Hyper Sports (Japan).sg
+c40aecc0fc766bb26c76b6855bbe4fad	Hyper Sports (Korea) (Unl).sg
+f72f3def79ffd82fe2224f4732b2b994	Hyper Sports (Taiwan) (Unl).sg
+e329ee584187d4b156e26faf3ef1a960	Hyper Sports 2 (Taiwan) (Unl).sg
+9334ef849d22ae49f1d816ea068bf055	I.Q. (Korea) (Unl).sg
+4eac394fb2f19fecca410c6136a6ef00	Kagaku (Gensokigou Master) (Japan) (SC-3000) (Program).sc
+91b5846daac5dffc5f1b72c0378e98d7	Kamikaze (France) (En) (SF-7000) (Unl).sf
+ff28e684eb3952ae3f7cf3e3d1c507ef	King's Valley (Taiwan) (Unl).sg
+e0321cd713ec1b48ff88f7df13e3ce28	Knightmare (Taiwan) (Unl).sg
+cfc8e61f51388609421ffe87539cad44	Legend of Kage, The (Taiwan) (Unl).sg
+5e38ab4ebb38195ba852ba7ed12750a4	LinkWord (Japan) (Proto) (SC3000) (Program).sg
+4b4f02eb3cf7d5f9dcd1311d72e6d742	Lode Runner (Japan, Europe, Australia) (En).sg
+5146c83814c930be839f123dcd3b591d	Lode Runner (Korea) (Unl).sg
+2bea9ee88e177a13d7961017dd4f6120	Lode Runner (Taiwan) (Unl).sg
+c12474e0a2556adb2478bc4d99faba51	Magical Kid Wiz (Taiwan) (Unl).sg
+014f702585a68399afe55ea63ba0f7de	Magical Tree (Taiwan) (Unl).sg
+1dbb5c85962c2110ffe35ec536f96329	Mahjong (Japan) (Rev 1).sg
+d9da8a32bd3b18881dfa2b469c85944e	Mahjong (Japan).sg
+bb8da563cb6a38611b736c4973b56e1e	Mahjong (Taiwan) (Unl).sg
+74121fd6f1024ee3d3f5d1db29956d7d	Monaco GP (Japan) (Rev 1).sg
+cda3731948a50bb396b380f7fc82ec12	Monaco GP (Japan, Europe) (Ja) (Rev 2).sg
+943bca1e51476b646f19c17a9d9ab42c	Monaco GP (Japan, Europe, Australia, New Zealand) (Ja).sg
+d7ab64f92c3d146565e4f9d771fec7c9	Monaco GP (Taiwan) (Unl).sg
+a6114c163b4fd8b954ab6afc99466ac0	Music Editor (Europe, Australia, New Zealand) (SC-3000) (Program).sc
+832b5ec426da0d70c0bcd58a79ed8ae2	Music Editor (Japan) (SC-3000) (Program).sc
+cfced1ba39adee6a75dc830ed9c12f73	N-Sub (Japan) (Alt).sg
+56c559d0d82a3e6fb2e87230d39f32f4	N-Sub (Japan, Europe, Australia, New Zealand) (Ja).sg
+1a800abac4c55948528d2a62771c10a9	N-Sub (Taiwan) (Unl).sg
+1d17adcdeef7e827b7493631719adf4e	Nihonshi Nenpyou (Japan) (SC-3000) (Program).sc
+28d83150c298bcdae6aec51cc2c6975a	Ninja Princess (Japan, Australia) (Ja).sg
+96c1dc438a7b4269ee0d5414a6f13dc2	Ninja Princess (Taiwan) (Unl).sg
+07ca24bef805f15d13d3123c765c3039	Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision).sg
+0195c955df38b55f6f12694179503f10	Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision).sg
+009a804fb1d28775519312ffdf3c8d70	Okamoto Ayako no Match Play Golf (Taiwan) (Othello Multivision) (Unl).sg
+0f45fa8e9b985fd5c6545645462b9400	Orguss (Japan, Europe, Australia, New Zealand) (En).sg
+3f429704761d34d7793e7123a183d7f6	Othello (Japan).sg
+aa741b3264ee312c291b2c8ab0d73a04	Othello (Taiwan) (Unl).sg
+c672bc2409443cc5bca35abd041d11e0	Pacar (Japan) (Alt).sg
+8f46800e6fc7d5a40716045f6d739932	Pacar (Japan, Europe, Australia, New Zealand) (En).sg
+722da0d7454c99ba46d432ee3d003464	Pacar (Taiwan) (Unl).sg
+37f5e516d9fbce05052204b67379a6da	Pachinko (Japan).sg
+eadae13ff73047a47f354e258c12619e	Pachinko II (Japan).sg
+a3409283bf8c808a15095cc005a74975	Pachinko II (Taiwan) (Unl).sg
+97f8b798ad727563b1ee42cf41697fed	Ping Pong (Taiwan) (Unl).sg
+2b99db5c8a7a9a45c174088bab310803	Pippols (Taiwan) (Unl).sg
+030363fabd71be3c077168918fcbb51d	Pitfall II (Taiwan) (Chinese Logo) (Unl).sg
+7f2026d17c336942756ffb77ad9942c5	Pitfall II (Taiwan) (English Logo) (Unl).sg
+38ae610eb6266d4db8bc6d3dcb8fcd4a	Pitfall II - The Lost Caverns (Japan) (Rev 1).sg
+c34260b61c6a45bbdd074df3f3e72c46	Pitfall II - The Lost Caverns (Japan).sg
+7f841aa0c225662e26ca7a8df20b2eb8	Pop Flamer (Japan, Europe, Australia, New Zealand) (En).sg
+e5082018ff7cbac17db003f159ab2dfb	Pop Flamer (Taiwan) (Unl).sg
+180fee8dc10c0949d86ae2eec20751f0	Poseidon Wars + Space Panic + Rambo (France) (En) (SF-7000) (Unl).sf
+a768a8ae921126300e98f9d918a4a0c9	Q-bert (Japan) (Othello Multivision).sg
+3071f939aaa0911fc0907aae5daaa160	Rally-X (Taiwan) (Chinese Logo) (Unl).sg
+42f2844dcc4b3979b7f538ef9f52e4a5	Rally-X (Taiwan) (English Logo) (Unl).sg
+e872bbe06fcee32e53fb9e11b61fe762	Road Fighter (Taiwan) (Chinese Logo) (Unl).sg
+be975a2510125ff4b545bb162826ef26	Road Fighter (Taiwan) (English Logo) (Unl).sg
+108ffe4ba5c2c8c5e0459cb7f0cfac0e	Rock n' Bolt (Japan).sg
+f05b48934a7d29ab2719273cbdc45b28	Rock n' Bolt (Taiwan) (Chinese Logo) (Unl).sg
+0cbbd9fafc39cccefd8d0b8fca3b3d33	Rock n' Bolt (Taiwan) (English Logo) (Unl).sg
+f77826f62d943c4a24f7fb9c3bb4a5f9	Safari Hunting (Japan, Europe, Australia, New Zealand) (Ja).sg
+48185bc0b8ed743c6a44f2759219b955	Safari Hunting (Taiwan) (Unl).sg
+8384956e456a91ca59f9c5e72f1cb1c4	Safari Race (Japan, Europe, Australia, New Zealand) (Ja).sg
+eac09096175cbb2fb49468d475fdec88	Safari Race (Taiwan) (Unl).sg
+6cd591be7b3aa4ed9c1f7038c581106a	San-nin Mahjong (Japan) (Othello Multivision) (Alt).sg
+cf02277eacdf348dbde960769a0b0d55	San-nin Mahjong (Japan) (Othello Multivision).sg
+fe641daee46a4f55aa79dcb23114971c	San-nin Mahjong (Taiwan) (Othello Multivision) (Unl).sg
+49c7c14879a437e60730b62a7550cdf6	Sega Flipper (Japan) (Alt).sg
+3f2acc9de65c8496c3d8470ef12dc210	Sega Flipper (Japan, Europe, Australia, New Zealand) (En).sg
+3cfec6aa7bfdf81b40b7ee6d630f5c03	Sega Flipper (Taiwan) (Unl).sg
+69f373bfc4ba492a9c12979d62fd2371	Sega Logo (Japan) (SF-7000) (Program).sf
+7f7e1d564448fdce96d239ad9ebf37d6	Sega-Galaga (Japan).sg
+e2619cf7c307ac1916c534519f6043d9	Sega-Galaga (Japan, Australia) (Ja).sg
+7e31ffe1446d6b792d0debf87bcc3f75	Sega-Galaga (Taiwan) (Unl).sg
+e2ac39e87f9a7ddb0be8cb6f6d2c0737	Sekaishi Nenpyou (Japan) (SC-3000) (Program).sc
+63713feb1c8b8da77bd2e8cf03fe0a4c	Serizawa Hachidan no Tsumeshougi (Japan).sg
+c958ae8d0ad245ce65db5bb06b1c2c0e	SG-1000 M2 Test Cartridge (Japan).sg
+a8094de8e2c72e9490e421f66ba2777b	Shinnyushain Tooru-kun (Japan).sg
+ff6c07ce43d99b4ef732b5df7e73a5a7	Shinnyushain Tooru-kun (Taiwan) (Unl).sg
+7b0f2be3588337df59959ababbefe505	Sindbad Mystery (Japan, Europe, Australia, New Zealand) (En).sg
+db6b5ff4d8c8cef6d0c9f2d004f56bf6	Sindbad Mystery (Taiwan) (Unl).sg
+6cae3b6286041e742020aeb3cd2bdf52	Soukoban (Japan, Australia) (Ja).sg
+cbd4d466882ba81d5eb63e849797fd4c	Soukoban (Korea) (Unl).sg
+417368339f45d0ede7df03c9a6f96b27	Soukoban (Taiwan) (Unl).sg
+49587defd7dd2e6fd87e01e7f48d132f	Space Armor (Japan) (Othello Multivision) (Alt).sg
+16a9d6fc4a959c84db189c59fdf39d22	Space Armor (Japan) (Othello Multivision).sg
+b6aff368af8c8e1f0ae257c519d96ca8	Space Armor (Japan) (Rev 1) (Othello Multivision).sg
+87a97b049ec01b1803b93f06d0407586	Space Invaders (Japan).sg
+47359548b666e9e1b6287df5688e2fd2	Space Invaders (Taiwan) (Unl).sg
+2321b2a684b83d58489fda2df66ab6fb	Space Mountain (Japan) (Othello Multivision).sg
+c04dc7fb9d27629735edb1570ec39f00	Space Slalom (Japan).sg
+2cbd1f9f4927f9618390340f56f116a6	Star Force (Japan, Australia) (Ja).sg
+19649d51aee49a9fef103de6b1a7a17b	Star Force (Taiwan) (Unl) (Alt).sg
+3011655195d3a299f3a53255e0d7939a	Star Force (Taiwan) (Unl).sg
+eccad04698782862f3785ff9708f73e8	Star Jacker (Japan).sg
+22200ef1461212cacdc58f6636d759fd	Star Jacker (Japan, Europe) (En) (Rev 2).sg
+658ede490eae6af2b0f61dd136761d95	Star Jacker (Japan, Europe, Australia, New Zealand) (En) (Rev 1).sg
+0104171ade3cfeaf10c92926869e2a52	Star Jacker (Taiwan) (Unl).sg
+cb95017c8d13d95c91129f9b3b1f6798	Star Soldier (Taiwan) (Unl).sg
+59d01bf1093a65e9ec08e533cfbbc5ff	Super Tank (Japan).sg
+e4b0859bd9cb372e41f81e593c67f225	Super Tank (Korea) (Unl).sg
+bcb549a442584255601dc7938accd2d6	Super Tank (Taiwan) (Unl).sg
+dada9d76f7743089811dcc8ec1543076	Tank Battalion (Taiwan) (Unl).sg
+c07d87577918eee0327bf67538b6f5cc	Tanoshii Sansuu - Shougaku 4-Nen Ge (Japan) (SC-3000) (Program).sc
+793bc3ca1b2cb0997cbe3457eafb15f7	Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program) (Alt).sc
+a3e3d2b2f9250875f2d30a4b2c7197ae	Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program).sc
+64280bd1e75ef922fe368dba2fe7fbcf	Tanoshii Sansuu - Shougaku 5-Nen Ge (Japan) (SC-3000) (Program).sc
+b4c2518922f99c4fd6a5fa89cb24385c	Tanoshii Sansuu - Shougaku 5-Nen Jou (Japan) (SC-3000) (Program).sc
+f250e5b2ddd3928211174f9992e749c5	Tanoshii Sansuu - Shougaku 6-Nen Ge (Japan) (SC-3000) (Program).sc
+b8fc10dd1cf58e342f045128c2614c3c	Tanoshii Sansuu - Shougaku 6-Nen Jou (Japan) (SC-3000) (Program).sc
+be31a84bfa537117a62eaeb8c0a07bf9	Terebi Oekaki (Japan) (Program).sg
+8c2c0d7e8415ae7b0c577cf947e89e78	TwinBee (Taiwan) (Unl).sg
+6dbcbfcd15bd206aca31dd2557f4e44d	Uranai Angel Cutie (Japan) (SC-3000) (Program).sc
+d26fabfe84ad40ae04a2cd3dc6cf75df	Wonder Boy (Japan) (Rev 1).sg
+76f29fee0cd3af921e488a276dace636	Wonder Boy (Japan, Australia) (Ja).sg
+d6fab98601ade59cf90a500c05446163	Wonder Boy (Taiwan) (Unl).sg
+653d415ed202c09c08207c83f9e311eb	Yamato (Japan) (Alt).sg
+0dd197a0e1f43c0684f98b52514fce59	Yamato (Japan, Europe, Australia, New Zealand) (En).sg
+9c751fb92d2280d89ee9c273f3c6785a	Yamato (Taiwan) (Unl).sg
+b14852ce157619fd60666a6474936d69	Yie Ar Kung-Fu (Taiwan) (Unl).sg
+c1f51f5dbfb859b1204a812d9c08ffd3	Yie Ar Kung-Fu II (Taiwan) (Unl).sg
+52bbf5336c190610a0fb1ab0bdaca455	Zaxxon (Japan).sg
+bb1c5b1071d5b9224b7733d60465e769	Zaxxon (Taiwan) (Unl).sg
+0eda34ba313d3bb34558fd5939b19794	Zippy Race (Japan, Australia) (Ja).sg
+16856425e0bcc3ab475f46f7cfd00402	Zippy Race (Taiwan) (Unl).sg
+4e457a6c5b4b613f2aac3472f6827a89	Zoom 909 (Japan).sg
+d99925f7b3fa1961906f169b61f1a492	Zoom 909 (Taiwan) (Unl).sg
+cba9c69675bb921aa07050fd2a2dbecb	[BIOS] Othello Multivision (Japan).sg

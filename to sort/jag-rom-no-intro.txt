@@ -1,0 +1,105 @@
+1d6942892f80f7c369236e96979ca12a	Aircars (USA) (Beta) (1994-11-14).rom
+0d6a65c6c0d108afcfdb22bb1d2b55cb	Aircars (USA).rom
+bbb8efdd570d268f86a14e0893ba3e5f	Alien vs Predator (World) (Beta) (1993-08-18).rom
+8bdfc02f6542d95e3582db6757e33474	Alien vs Predator (World) (Beta) (1993-10-13).rom
+2b299e92e82031a31235da74850670cf	Alien vs Predator (World) (Beta) (1994-04-08).rom
+15d9864ce22a8786151928f5bf613b7b	Alien vs Predator (World).rom
+7b9c10dcb2364ad8a11c18fc8be5c92f	Arena Football '95 (World).rom
+deae794870cb3387fe1511799b3a1fcb	Atari Karts (World) (Beta).rom
+33bb6d4d2aa39989e9aa650e4cbeee88	Atari Karts (World).rom
+dbba0926aa87529bd6007fe8b4a7282a	Attack of the Mutant Penguins (World).rom
+5f884a5052a4dde4c896449b392ad4bf	Barkley Shut Up and Jam (World) (Beta).rom
+b5c70890e32375ea7f91cf1db388d298	Barkley Shut Up and Jam (World).rom
+6562144944b6fb86744757a5b99ae506	Battle Sphere (World).rom
+5c0b84a1a64ddbb4d3d2083958754ca5	Battle Sphere Gold (World).rom
+d1b1bfb5845a09467b7601ad103734ce	Breakout 2000 (USA, Europe) (Beta).rom
+a4b4003c11b55d0b28aa34bb113bbde4	Breakout 2000 (USA, Europe).rom
+e294d0251879e7e81291e3ac018261d1	Brett Hull Hockey (World).rom
+dc5808fe55f9105fd6fb6fd220a35515	Brutal Sports Football (World).rom
+fe2751ca61154ecfa4f0ad4299a5dc54	Bubsy in Fractured Furry Tales (World).rom
+460a0b1e5aa3d2d4d48d072e01343cdd	Cannon Fodder (World).rom
+d0a0a6f9c9c2f3023e28645bad8dc74d	Checkered Flag (World) (Beta) (CES 1993).rom
+b45c964faa34ab254ab5a5121f9432e3	Checkered Flag (World).rom
+c52705cdd18be2c96cbb07abd65845dd	Club Drive (World) (Beta).rom
+820866734a06f96e632151f2d9654dc6	Club Drive (World).rom
+f7ccc865e2a84b2eb941209a86676bd6	Cybermorph (World) (Beta) (1993-08-23).rom
+63e7e435f13a5a20ca8a2bf6e40ac27b	Cybermorph (World) (Rev A).rom
+a2762624a57ea85875b7700aac07a61b	Cybermorph (World) (Rev B).rom
+e6e1a56794302b4bcd6f1ae77a996531	Defender 2000 (World) (Beta).rom
+673a6f954126b22fd0d9759dd56c6650	Defender 2000 (World).rom
+1e3b7dfe15e4911bb7331f352eed3c33	Doom (World).rom
+3bfff844b20ba2aea910bbd824c1eb9e	Double Dragon V - The Shadow Falls (World).rom
+24678221c704f39bae5f3bb5e643c5de	Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26).rom
+2e7b0f2b31ac7d17a191c7fe700cf350	Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06).rom
+f722d9fadd650c7f9bb79f7fa1e4ea8d	Dragon - The Bruce Lee Story (World).rom
+42cb86ba9b15da4d4bb7cb782feb9299	Evolution - Dino Dudes (World).rom
+02829e8bef858dbe61faf4854945e8d3	Fever Pitch Soccer (World) (En,Fr,De,Es,It).rom
+d8bc12c215f317f7cd2bfb4ddd9e9744	Fight for Life (USA, Europe) (Beta) (1995-03-22).rom
+2c9bd7e404b1e30f01a8ee9a9fb11e29	Fight for Life (USA, Europe) (Beta) (1995-09-07).rom
+a02a1faebc007010764ccda55019d0a4	Fight for Life (USA, Europe).rom
+a6e4c531394dbb96d033660a6c9e1ef2	Flashback - The Quest for Identity (World) (En,Fr).rom
+aca3200eb333cd9137d0a88673799f83	Flip Out! (World).rom
+42ec7592035204e846d74521c3aebdd1	Frog Feast (World).rom
+2d12b73af94ac1213281653b0f6d313c	High Voltage C Maze (USA) (Demo).rom
+545b4f36992de772d48a9f13491fb894	Hover Strike (World).rom
+76cca318a6e714816c0334dad18cb64f	Hyper Force (World).rom
+a5d13bdbce3097f07121f444c430559b	I-War (USA, Europe).rom
+01c61fa627f1bd63710e5cb9c9a31c77	International Sensible Soccer (World).rom
+c9a25d6aaa39972388b41d5509e630fb	Iron Soldier (World).rom
+1b3678e369f9ecf8d75c9bfe7df75fbf	Iron Soldier 2 (USA, Europe).rom
+2b543d378f677737c5f674b9cb160110	Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-13).rom
+fdc7a5a7f6ccc72c99014a3a7175ba81	Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-16).rom
+775f6e2066d6a94ed51b6cc67ed7cef0	Jack Nicklaus Cyber Golf (USA) (Proto) (1994-07-04).rom
+95447925e8211a74bc44bec3baabda59	Kasumi Ninja (World) (Demo).rom
+079b8059f4fc99a0e7a4c929c13f0f00	Kasumi Ninja (World).rom
+e50d123659dc2b56b23ac4d0be9e5e01	Missile Command 3D (World).rom
+bc2d97b8c05bff411c008dd5b578fe0f	Missile Command VR (World) (Beta) (1995-07-05).rom
+0ea7bf8d43fb95407a6b16766d6ce5d3	Native (USA) (Proto).rom
+b56b6cab16dc4e70f356dd0e0cb192c7	NBA Jam - Tournament Edition (USA, Europe).rom
+accb91258c5a03a3afe98cb73aa27811	Phase Zero (World).rom
+c9febc453fddcb5e277d2a7daba9fbe8	Pinball Fantasies (World).rom
+b40195d569457a8453364e7b5e248237	Pitfall - The Mayan Adventure (USA, Europe).rom
+979642e91143d8beb361f61f329411cc	Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28).rom
+697dbf1fc7d4b1a693d64885a422efc8	Power Drive Rally (World).rom
+56ee76358738e1b2804d095d2999670a	Protector (World).rom
+d318f0d9bb8ac24d581c8f840f8ffc86	Protector - Special Edition (World).rom
+e75708807140b0ed5022ee14d4de03a2	Raiden (World) (Rev A).rom
+010f3eadbb8215490a7cf1505ec41276	Raiden (World).rom
+0a5372fd4da20a0b9286213185f1f5a8	Rayman (World) (Beta 1).rom
+843d1c5e6885674ba1b4b189e12d6f9f	Rayman (World) (Beta 2).rom
+8dc681817983a3d7bd889e22c40e0278	Rayman (World).rom
+60b7ae4d465e8577a3134f3c35929cef	Ruiner Pinball (USA, Europe).rom
+c8a4a2905c304378918780bd7b5e34d9	Skyhammer (World).rom
+2e43619bb54e43c3acdd63f4a86c79cd	Slam Racer (USA) (Proto).rom
+de65e7dff80f0e8197223d63947bfca5	Soccer Kid (World) (Beta).rom
+d9a95d736d7aaa161bcbb5f693ebf247	Soccer Kid (World).rom
+c9cde67aad343469df9fb1bfc0405408	Space War 2000 (World).rom
+0146cbf5ad32b2a4f83bccba22d1aa5c	Speedster II (USA) (Proto).rom
+56b13e2ec84d1933ba07421f1566562c	Super Burnout (World) (Demo) (WCES 1995).rom
+7445b031fbe1c6764451c842b9d02cc7	Super Burnout (World).rom
+bc28c6f5b48607febcfa1737451d2670	Supercross 3D (USA, Europe).rom
+69664d59a1f0ef3aaf924ff6a17e35ab	Syndicate (World).rom
+59acf9110ba6a047abb872970a33ce68	Tempest 2000 (World).rom
+bf529c618bed9ff83eded641cd12044f	Thea Realm Fighters (USA) (Proto 1).rom
+beae3851768ab46d154bd97bf0892cb8	Thea Realm Fighters (USA) (Proto 2).rom
+b132c2b4e230874788421f8606286ebe	Theme Park (World).rom
+eb5f125cb10968977a58992d48647bcf	Tiny Toon Adventures (USA) (Proto).rom
+bcbeb0ca8a295cac5a3afd013b12cf1d	Total Carnage (World) (Beta).rom
+6a49fe73b5855c374fe6102dc972d22b	Total Carnage (World).rom
+e630a0077066b1065aabe357d618629c	Towers II - Plight of the Stargazer (USA, Europe).rom
+63ff8abf6bfcac1ccbfa504b235568c5	Trevor McFur in the Crescent Galaxy (World) (Beta).rom
+c6d92d3bd839c6aa301692b10d9efe76	Trevor McFur in the Crescent Galaxy (World) (Rev A).rom
+84bfe188dd5424a709d217b2a13ce082	Trevor McFur in the Crescent Galaxy (World).rom
+9db7dd4a07d76dd094d461f1b07dd9d7	Troy Aikman NFL Football (World).rom
+f9a4fbd00e98543a265d96e338f880ee	Ultra Vortek (World).rom
+5930069d4ad566d63a028aa6ebb71435	Ultra Vortex (World) (Beta) (1995-03-20).rom
+d431e38bfbe341d45a67ac5c28a6edc3	Val d'Isere Skiing and Snowboarding (World).rom
+6035c923581671588d37e1fd30ba187c	Virtual VCS (USA) (Proto).rom
+40ace17cbaa79d02646c7b575217946c	White Men Can't Jump (USA, Europe).rom
+e95a5d4d625640c15c1ec376eba2abee	Wolfenstein 3D (World).rom
+2170a7d9e7fd2bf237f58b5afcaf4723	Worms (USA, Europe).rom
+ff6b832951e21254374fbc63ad81136e	Zero 5 (USA, Europe) (Beta).rom
+0dfcfdebc54dee4164f5b747d9dcbe7a	Zero 5 (USA, Europe).rom
+fbe1cd9391289847c5081193308ff5ac	Zool 2 (World).rom
+b3821b3eba08ae049b6d994b8f0791ad	Zoop (USA, Europe).rom
+c6148e0ec86f4c496e7cc19f9249a2c9	Zzyorxx II (USA) (Demo).rom
