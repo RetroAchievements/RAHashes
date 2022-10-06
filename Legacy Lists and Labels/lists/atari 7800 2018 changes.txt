@@ -1,9 +1,0 @@
-Changed hashes now match Gooddump. Most atari 7800 remain unchanged in 2018.
-
-a8efd6286f5633bc1d5070d4b821f34b	Double Dragon (USA).a78
-c6c2777ffbbb76232f456acca4c1cd45	F-18 Hornet (USA).a78
-f21c1ff483f33a3162dde303684afe45	Impossible Mission (USA).a78
-f169479043a09812bae06c866c39a6ad	Rampage (USA).a78
-ae7dfd2a9d6b3291b04a70f02cd07d7b	Rescue on Fractalus (USA) (Proto).a78
-a3d62d98dbd93d43d3ac04fbb35ef1f9	Sentinel (USA) (Proto).a78
-81b81dd6239255be35c1d9bd2ce701c6	Super Huey UH-IX (USA).a78

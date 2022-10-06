@@ -1,1 +1,0 @@
-Hash lists without "Table" in the filename have tab-separated values. It's best to just copy and paste them into a spreadsheet; they'll format themselves automatically.
