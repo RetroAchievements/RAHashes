@@ -1,0 +1,84 @@
+87a72d8a9f3011781a8f6e5475467990	[UNIF] 4-in-1 (811120-c,411120-c) [p4][u].unif
+74fe84eb47797105d218db714a594804	[UNIF] 4-in-1 [ET40, 821243c] [p1] (U) [!].unif
+dd41f75575d6669a99bc972fa0e6148b	[UNIF] 4-in-1 [GG1, 820916c, 3967, CK-001, Alt_ Dump] [p1] (U) [!].unif
+22e890b4237c7220abe8ad391d258e9a	[UNIF] 6-in-1 (mario_world_8_patched).unif
+4af30ccc13e6857d214498dc0df07682	[UNIF] 6-in-1 [ET40, 840726c, 43-203] [p1] (U) [!].unif
+bccb1a5424fa74cdc2ea397a9fea9011	[UNIF] 6-in-1 [MGC-023] (Unl) (U) [!].unif
+724832a401c278ed2e623026b372f241	[UNIF] 6-in-1.unif
+dfc7442b358966f0801e3bfc954bb612	[UNIF] 7-in-1 (JC_016_2) (Unl).unif
+79c9950dcc4e7bb21f02dcbd60a6d447	[UNIF] 8-in-1 (a009) (unl).unif
+a3a992acb85a8deac5ca43f8208bb173	[UNIF] 8-in-1 (a010) (unl).unif
+323f6ebee563c4da93f930982b86d9dc	[UNIF] 8-in-1 (a015) (unl).unif
+355ac75f7b137d5492e638de4e266b6f	[UNIF] 8-in-1 [ET40, 821242c] [p1] (U) [!].unif
+8ab382ff09955797779919bd27695256	[UNIF] 19-in-1 (k-3088) (810849-c) (unl).unif
+bc2e9601bb61f8850f7bfd52eaf5f119	[UNIF] 35-in-1 (k-3033) (6-15-c) (unl).unif
+347625ba2b8c70bdb4dcfeba22b3adc3	[UNIF] 120-in-1 (M2500P-VT09)(Unl)[U][!].unif
+33b8dbbf5e70db31e0925efac16ab537	[UNIF] 120-in-1 (Unl)[U].unif
+3d3d5be806bfe175d66585cfde67fbb6	[UNIF] 138-in-1 CoolBaby (CoolBoy RS-5, PCB060-10009011V1.3)(Unl)[!].unif
+c1af555050452d0212c8d217154cb0ea	[UNIF] 150-in-1 Unchained Melody (FIGHT 150 ver LOVE)[p1][U][!].unif
+3f13185b14024955a7eb5dbdd0b879f8	[UNIF] 200-in-1 - Elfland (Unl)[U][!][t1].unif
+e0b658f430cec72f82984136af0fc728	[UNIF] 700-in-1.unif
+3a2c366bef2d8c848f80f4effb1f4811	[UNIF] 1994 Super HIK 14-in-1 [G-136] [p1] (U) [!].unif
+12b3f0e03bfae902745a4b863aa97f46	[UNIF] 777777-in-1 (8 bit Slim Station, NEWPXP-DVT22-A PCB)(Unl)[U][!].unif
+ea5791740655c90386bbd7beaf4da133	[UNIF] 888888-in-1 (8 bit Slim Station, NEWPXP-DVT22-A PCB)(Unl)[U][!].unif
+fadce939f29e73a1469b45670cf97891	[UNIF] 888888-in-1 [CoolBoy AEF-390 8bit Console, B8VPCBVer03 20130703 0401E2015897A] (Unl) (U) [!].unif
+d753314b7aad5307957b8e012e30ca17	[UNIF] 999999-in-1 (8 bit Slim Station, NEWPXP-DVT22-A PCB)(Unl)[U][!].unif
+7ac9d942485c09bc307c20336a06d823	[UNIF] ai senshi nicol (fds conversion,whirlwind manu)[u][!].unif
+725250c9bcf100260859bdcda6b4d2ec	[UNIF] Almana no Kiseki (FDS Conversion)(Whirlwind Manu, Kaiser's KISS hack)[U].unif
+99b2ae9f392e01dafe7f750f907d7139	[UNIF] Batman (J) [p1].unif
+ecc471c27b065b6bdf9b38f4e0ec485a	[UNIF] Blood Of Jurassic (GD-98)(Unl)[U][!].unif
+7f4b3d37866201ece56432494040bc68	[UNIF] Boogerman II (Rex-Soft) [U][!][t1].unif
+7eac4b6ee0e38fb742af0fa496741012	[UNIF] CoolBoy 400-in-1 (Alt Version, 403 games)(Unl)[!].unif
+e9e66aad57c2d5bae9e2cbf3d6efcbd2	[UNIF] CoolBoy 400-in-1 (Unl)[U][!].unif
+37b3f02dde6457f6d84da69e4cfbbc13	[UNIF] CoolBoy 400-in-1 Real Game (Alt Verison).unif
+7d24d54e1acdfed7f17e7a8b845c34bc	[UNIF] CoolBoy 400-in-1 Real Game.unif
+442cf47ec7af15a0eb8da403ad10303c	[UNIF] COOLBOY MIRROR.unif
+799491a0230d41483db3c4a67890beea	[UNIF] Dance 2000 12-in-1 (Unl) (U) [!].unif
+434c3e350efa4da82784d17bc81cbbe1	[UNIF] Dr. Mario II (Fangkuai Zongdongyuan) (Unl)[U][!].unif
+76e1c6d80f06d5abd478bd4b8171ebec	[UNIF] Dr. Mario II (Unl)[U][!].unif
+5782aaef898e931a8584928b342868df	[UNIF] dracula ii - noroi no fuuin (fds conversion)[!].unif
+57a61c9d6286b69a09df3023ffb974e1	[UNIF] dracula ii - noroi no fuuin (fds conversion)[u][!].unif
+5002616a06fd396fe9ac869d32a7a2b0	[UNIF] Dragon Fighter (Unl)[U][!].unif
+594216632edb4a27431c2c89bfc4b4b0	[UNIF] DreamGEAR 101-in-1 (Unl) (U) [!].unif
+ff92de9cea7ee695d0bc067af9b1a7cd	[UNIF] Exciting Basket (FDS Conversion)[U][!].unif
+624aaca7f2b3880b94ea754e584d8e31	[UNIF] farid slrom 8- in-1 (unl).unif
+8348d48445d3e56781e0db9c0b5f6c4b	[UNIF] Final Combat (Sachen-USA) [U][!][t1].unif
+d57f180ed4d38858fe433b1298203afc	[UNIF] Green Beret (FDS Conversion, LH09) (Unl) [U][!][t1].unif
+a6b9f00db7dbd9bff6e351871575b28c	[UNIF] Green Beret [FDS Conversion, Kaiser] (U) [!].unif
+c5fb3e3b9057e10efd52d861d954ce65	[UNIF] Mario Series 4in1 (Unl) [JY-013].unif
+44c2c332f8f6ef4b7e7590b6602d10d2	[UNIF] MENU (unl).unif
+3b2902ec654a50fafa9341c12bc88087	[UNIF] Metroid - Jin Ji Zhi Ling (FDS Conversion)(Kaiser)(KS7037)[U][!].unif
+3288b0cf3c9fda8fcd6870a9587fe74f	[UNIF] Mortal Kombat 3 (18People) (YH2001) (rus).unif
+4c73a251e911c7b5125a43962fd755f7	[UNIF] Mortal Kombat II (YOKO) (rus).unif
+39e19efeb7fb2434c64240d88e1f8e97	[UNIF] Mortal Kombat Trilogy - MK5 (8player) (rus).unif
+e1407884d380c88905c52b72c4adb1f6	[UNIF] Mortal Kombat V Pro (rus).unif
+738955a11f6706970bb867877d2b2703	[UNIF] nesbbs slrom 8- in-1 (unl).unif
+ce7ab5423c9896d5b4a5580b6ee5e82f	[UNIF] PEC-586 computer & game (c) [pyramid].unif
+ff12fe8f93c077e228891df010c4be25	[UNIF] PEC-586 computer & game (c)_notapeout [pyramid].unif
+e5d1bb112449593d896d954f3ac8f786	[UNIF] PEC-586 Pyramid Education Computer (Unl) (U) [!].unif
+4e559bba845e194465f7a5836523402c	[UNIF] PocketGames 150-in-1(CoolBoy) (Unl)[U][!].unif
+cf9dc6f0c5f13915b1833f080589a633	[UNIF] Prima Soft 9999999-in-1 (02 8807870-3)(Unl)[U][!].unif
+0bd84ff7f0b275b34d38fa878dfa5cd7	[UNIF] Rockball (Sachen) [U][!][t1].unif
+94bf081e41778f6952801e2d14b4293c	[UNIF] sgz2-bawangdedalu-unfv1.2-g.unif
+044cacc22becb6963fc799249a36fe3a	[UNIF] Shu Du 4-in-1 (C).unif
+0aa2fe64212f6fd2e3fb64c71b63a2f9	[UNIF] street fighter ii game 4-in-1 (unl)[p1].unif
+4b449208f1f8d2bc808122ee3900da22	[UNIF] Super 8-in-1 (with Rockin' Kats)(Unl)[U][!].unif
+0b00e04dc7c5ccef029cb1d38dca8d78	[UNIF] Super game 3-in-1 (yh-3133) (unl).unif
+71e1d2f21b716d4694b1051af02938b4	[UNIF] Super game 3-in-1 (yh-3135) (unl).unif
+d2939691642319caa3ffe0574f019cea	[UNIF] super game 4-in-1 (yh-417) (unl).unif
+7886ad66a78dd49963e646ca61ba21e3	[UNIF] Super game 4-in-1 (yh-4126) (unl).unif
+36cb31d873aa89c52107de28fcb0793d	[UNIF] Super game 4-in-1 4255 (kt-8404) (unl).unif
+a6a8c452e2243bc82ea58534e477a7b9	[UNIF] Super Game 218-in-1 (Unl) [!].unif
+0b5b3c7c684c13c033e228f452199467	[UNIF] Super Game 360-in-1 (Unl).unif
+ba466cc3ec8743a77fd1cf3470313494	[UNIF] Super Hik 6-in-1 A-030 (Unl).unif
+868cfde9496103ac610e558eaab278b9	[UNIF] Super Mali Splash Bomb (Unl) (U) [!].unif
+e5a61134a9753790e57a523dba423a3b	[UNIF] Super Mario Bros 2j (Alt)(Unl)[U] 9e26,25f9 [Stay big].unif
+9b1c6e26a33489f6a362f5937442cb2e	[UNIF] Super Mario Bros. 2j (Alt) (Unl) (U) [!].unif
+b8125b7b32debb6a0dd847173580fe96	[UNIF] SuperArcade 110 (8-bit part 90-in-1 080-9603012 2009.09.25 Ver)(Unl)[U][!].unif
+b2ebe9ba169d35e04c6c7a0b993db4bf	[UNIF] Tasac (Unl) [T+Rus1.1 PSCD (17.03.2016)].unif
+45f1744967394d222beb5c8af72171a4	[UNIF] Test Ver. 1.01 Dlya Proverki TV Pristavok (RT-01, by SS aka Snake)(Unl)[U][!].unif
+8209a57ea0337b1cc819bfb8f6de3c7f	[UNIF] tin choi ma li (genius merio bros) (jmh mtv corp) (ch) [u].unif
+449fb6dc02385d3617961d06cefdbb10	[UNIF] unrom 8-in-1 (unl).unif
+052e00cff980f40009b86ca28972692d	[UNIF] Zanac [FDS Conversion, Whirlwind Manu] (Unl) (U) [!].unif
+1a1b808245017d8d598fbfff654a8811	MNOGOIGROVOChKA-spaces.ru.unif
+75721c0e48d33aee34b0524f456e3494	Super Rockman 6-in-1 (861234C Hack).unif
