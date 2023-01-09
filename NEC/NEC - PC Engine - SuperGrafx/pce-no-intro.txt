@@ -99,6 +99,7 @@ f677b6d9475fca8a07b66068ead12c24	Devil Crash - Naxat Pinball (Japan).pce
 469d79940731a034d26b3899ee434bbb	Devil's Crush (USA, Europe) (Wii U Virtual Console).pce
 7dd298a6e9f2abce6f85d262ec37f483	Die Hard (Japan).pce
 ac5290f448ee230ff9337b437557af52	Digital Champ (Japan).pce
+649d21db47c5aca68687793cd97f4cc2	Dinoforce (World) (Aftermarket) (Homebrew).pce
 5d27b090b2e630a30b60341cb47606a7	Don Doko Don! (Japan).pce
 77cf3e53c5e4fbef73087893cdeec84f	Doraemon - Meikyuu Daisakusen (Japan).pce
 14813eff2b436fa5eb1c3e95e99993a9	Doraemon - Nobita no Dorabian Night (Japan).pce
