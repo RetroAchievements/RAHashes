@@ -1,3 +1,16 @@
+91b4d4db66e30f2b5ce7f7c2541ee897	[BIOS] Alex Kidd in Miracle World (BIOS Version) (World) (Sega Ages).sms
+e49e63328c78fe3d24ae32bf903583e0	[BIOS] Alex Kidd in Miracle World (Korea) (Unl).sms
+e8b26871629b938887757a64798df6dc	[BIOS] Alex Kidd in Miracle World (USA, Europe).sms
+5cd8f62cd8786af0226e6d2248279338	[BIOS] Hang On (USA, Europe) (v3.4).sms
+02cbb2e348945c9ac41e37502a58ca76	[BIOS] Hang On & Safari Hunt (USA, Europe, Brazil) (En) (v2.4).sms
+08b81aa6be18b92daef1b875deecf824	[BIOS] Missile Defense 3-D (USA, Europe) (v4.4).sms
+bdb34f2c471e5d0c358eeec621f9d029	[BIOS] Sega Master System (Europe) (v2.0).sms
+24a519c53f67b00640d0048ef7089105	[BIOS] Sega Master System (Japan) (v2.1).sms
+840481177270d5642a14ca71ee72844c	[BIOS] Sega Master System (USA, Europe) (v1.3).sms
+3153447d155fb8bfc66a4d1c41e399b9	[BIOS] Sega Master System (USA) (M404) (Proto).sms
+b264bef9bda264ffe83afcebac21b81f	[BIOS] Sega Master System (USA) (Store Display Unit).sms
+626b3453613e43d5a47908a8944ba583	[BIOS] Sega Master System (USA) (v1.0) (Proto).sms
+4187d96beaf36385e681a3cf3bd1663d	[BIOS] Sonic The Hedgehog (Europe).sms
 91a9dcd4f59c29db72c931be2fe60b51	20 em 1 (Brazil).sms
 bf7609929bcc2856a92bf35a5a480225	3 in 1 - The Best Game Collection (A) (Korea) (En) (Unl).sms
 2949e35216ce3b36ce26af35b80db73a	3 in 1 - The Best Game Collection (B) (Korea) (En) (Unl).sms
@@ -30,13 +43,15 @@ e3f60072028eb6f02c2b0558804aed83	Aladdin (Europe, Brazil) (En).sms
 a4b2c85d9a2cd659b6e7917581f1b0a7	Alex Kidd - High-Tech World (USA, Europe, Brazil) (En) (Beta).sms
 0f6ebfa2b24bb99dbea1142312fd33c9	Alex Kidd - High-Tech World (USA, Europe, Brazil) (En).sms
 ea50dcdd1241667f32d39d606a9f7083	Alex Kidd - The Lost Stars (World).sms
-ad971958b58f6c40797bd6a87fa143eb	Alex Kidd 3 - Curse in Miracle World (France) (Aftermarket) (Homebrew).sms
-76e6ecb5a9ecc3365ef38bad00113c92	Alex Kidd 3 - Curse in Miracle World (Germany) (Aftermarket) (Homebrew).sms
-7c8909766ceffe4cb2c823a165f27ceb	Alex Kidd 3 - Curse in Miracle World (Portugal) (Aftermarket) (Homebrew).sms
-7b8297ebee031bd6ec6bf245c6c33b1c	Alex Kidd 3 - Curse in Miracle World (Spain) (Aftermarket) (Homebrew).sms
-39ff2e03c88a57cc284a01760bccb36c	Alex Kidd 3 - Curse in Miracle World (World) (v1.1) (Aftermarket) (Homebrew).sms
-3d9a8d5c2d6d3f8ff63a8f7c77ffa983	Alex Kidd in Miracle World (USA, Europe).sms
+15b3313883336c0fb5a5dde331f1f4a6	Alex Kidd 3 - Curse in Miracle World (Unknown) (De) (v1.1) (Aftermarket) (Homebrew).sms
+76e6ecb5a9ecc3365ef38bad00113c92	Alex Kidd 3 - Curse in Miracle World (Unknown) (De) (v1.2) (Aftermarket) (Homebrew).sms
+39ff2e03c88a57cc284a01760bccb36c	Alex Kidd 3 - Curse in Miracle World (Unknown) (En) (v1.1) (Aftermarket) (Homebrew).sms
+7b8297ebee031bd6ec6bf245c6c33b1c	Alex Kidd 3 - Curse in Miracle World (Unknown) (Es) (v1.1) (Aftermarket) (Homebrew).sms
+ad971958b58f6c40797bd6a87fa143eb	Alex Kidd 3 - Curse in Miracle World (Unknown) (Fr) (v1.1) (Aftermarket) (Homebrew).sms
+8e1e55c83582a152ae80a7c030f8c38b	Alex Kidd 3 - Curse in Miracle World (Unknown) (It) (v1.0) (Aftermarket) (Homebrew).sms
+7c8909766ceffe4cb2c823a165f27ceb	Alex Kidd 3 - Curse in Miracle World (Unknown) (Pt) (v1.1) (Aftermarket) (Homebrew).sms
 f43e74ffec58ddf62f0b8667d31f22c0	Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1).sms
+3d9a8d5c2d6d3f8ff63a8f7c77ffa983	Alex Kidd in Miracle World (USA, Europe).sms
 bd8016f2dccd89de716918da79359ff6	Alex Kidd in Miracle World (World) (Ja) (Sega Ages).sms
 89da0a1c14b660741680104024aa5942	Alex Kidd in Miracle World (World) (Sega Ages).sms
 e9b53d893bf8fc94015de722f610c7eb	Alex Kidd in Miracle World 2 (World) (Unl).sms
@@ -69,9 +84,9 @@ b13632f6e0e0b495aae726aec9ba66d0	Assault City (Europe) (Joypad).sms
 7cc8be20b0a2ee3941c9846026c287ae	Asterix and the Secret Mission (Europe, Brazil) (En,Fr,De).sms
 fa0fe47e5a6b711b00052ab4def0b8f7	Astro Adventure (Taiwan) (En) (Unl).sms
 a7462d79844a12a92941174252c9ca6e	Astro Flash (Japan).sms
+e645faa5628caab5129383fdbf4df090	Astro Warrior (Japan, USA, Brazil) (En).sms
 53e2ddbb65d2ed44afcb5c05ea3f2bfc	Astro Warrior & Pit Pot (Europe) (Sample).sms
 8712366da97ab80f4cd2aa36203a5885	Astro Warrior & Pit Pot (Europe).sms
-e645faa5628caab5129383fdbf4df090	Astro Warrior (Japan, USA, Brazil) (En).sms
 8020584caadb664a5924e940b6a9c5bc	Aventuras da TV Colosso, As (Brazil).sms
 04abc524a3b7f7e2e96eb910490e77ec	Ayrton Senna's Super Monaco GP II (Europe, Brazil) (En).sms
 12ce04ff557a96add46f04b12b0d47cc	Aztec Adventure (World).sms
@@ -79,6 +94,7 @@ f2535df9bdc3a84221303fa62d61ad6e	Back to the Future Part II (Europe, Brazil) (En
 3d24a52e98e6c85d7c059386451ce749	Back to the Future Part III (Europe).sms
 8a94ded3d95aa46dae8800b92e66d3ee	Baku Baku (Brazil) (En).sms
 7a5d3b9963e316cb7f73bbdc2a7311c6	Bank Panic (Europe, Brazil) (En).sms
+0e891e5b8216fd99874e786e19293926	Bara Buru (Unknown) (En) (Aftermarket) (Homebrew).sms
 062e66173db45eaacec1225670a65731	Basketball Nightmare (Europe, Brazil) (En) (Beta 1).sms
 ae0c7f26ca642614da70b779cb067fdc	Basketball Nightmare (Europe, Brazil) (En) (Beta 2).sms
 0069b1bd9c5b6b88ace6324d7e61539f	Basketball Nightmare (Europe, Brazil) (En).sms
@@ -101,22 +117,23 @@ e58f6f374b3405fd2a5e5b80e639a980	Bonanza Bros. (Europe, Brazil) (En).sms
 828339676ce1ef59442b09e3324c5962	Bread and Butter (World) (v1.026) (Aftermarket) (Homebrew).sms
 ca405db9c6e523e86865390c6f6ae386	Bread and Butter (World) (v1.032) (Aftermarket) (Homebrew).sms
 2696045e307990aa896959a66f9e6ae6	Bread and Butter World (World) (Aftermarket) (Homebrew).sms
-2b2e16caab7b2f7c3accd55386ccaa65	Bruce Lee (World) (v0.052) (Aftermarket) (Homebrew).sms
-f3d74ce1507a708f0473d9adbf921664	Bruce Lee (World) (v0.20) (Aftermarket) (Homebrew).sms
-abcf82484ec632ce086f5d824496562f	Bruce Lee (World) (v0.21) (Aftermarket) (Homebrew).sms
-04e6b5848bdb84b0d1c3737d246e55b6	Bruce Lee (World) (v0.22) (Aftermarket) (Homebrew).sms
-92f37b2ddf288469eb724b348cac7695	Bruce Lee (World) (v0.50) (Aftermarket) (Homebrew).sms
-f503d28149d03c858069781a0a9c1a2c	Bruce Lee (World) (v0.51) (Aftermarket) (Homebrew).sms
-1a39f9e9c82b086ae99e0f38f7dcf5a6	Bruce Lee (World) (v0.75) (Aftermarket) (Homebrew).sms
-6d68c6fdff41aff161b45af42cbfe390	Bruce Lee (World) (v1.00) (Aftermarket) (Homebrew).sms
-cbd823af4683847a317ebf5e3da2a0c3	Bruce Lee (World) (v1.00) (Tech Demo) (Aftermarket) (Homebrew).sms
-9fef58be1dda7971fc3411ee6bfc905a	Bruce Lee (World) (v1.01) (Tech Demo) (Aftermarket) (Homebrew).sms
-8c539cab774e1959befb276e6a063eea	Bruce Lee (World) (v1.02) (Tech Demo) (Aftermarket) (Homebrew).sms
-b4d1871011d320a370258172707b6be0	Bruce Lee (World) (v1.04) (Tech Demo) (Aftermarket) (Homebrew).sms
-416e2cfdca11a53dca815b4cf9e6864b	Bruce Lee (World) (v1.05) (Tech Demo) (Aftermarket) (Homebrew).sms
+f3d74ce1507a708f0473d9adbf921664	Bruce Lee (Unknown) (v0.20) (Aftermarket) (Homebrew).sms
+abcf82484ec632ce086f5d824496562f	Bruce Lee (Unknown) (v0.21) (Aftermarket) (Homebrew).sms
+04e6b5848bdb84b0d1c3737d246e55b6	Bruce Lee (Unknown) (v0.22) (Aftermarket) (Homebrew).sms
+92f37b2ddf288469eb724b348cac7695	Bruce Lee (Unknown) (v0.50) (Aftermarket) (Homebrew).sms
+f503d28149d03c858069781a0a9c1a2c	Bruce Lee (Unknown) (v0.51) (Aftermarket) (Homebrew).sms
+2b2e16caab7b2f7c3accd55386ccaa65	Bruce Lee (Unknown) (v0.52) (Aftermarket) (Homebrew).sms
+1a39f9e9c82b086ae99e0f38f7dcf5a6	Bruce Lee (Unknown) (v0.75) (Aftermarket) (Homebrew).sms
+6d68c6fdff41aff161b45af42cbfe390	Bruce Lee (Unknown) (v1.00) (Aftermarket) (Homebrew).sms
+cbd823af4683847a317ebf5e3da2a0c3	Bruce Lee (Unknown) (v1.00) (Tech Demo) (Aftermarket) (Homebrew).sms
+9fef58be1dda7971fc3411ee6bfc905a	Bruce Lee (Unknown) (v1.01) (Tech Demo) (Aftermarket) (Homebrew).sms
+8c539cab774e1959befb276e6a063eea	Bruce Lee (Unknown) (v1.02) (Tech Demo) (Aftermarket) (Homebrew).sms
+b4d1871011d320a370258172707b6be0	Bruce Lee (Unknown) (v1.04) (Tech Demo) (Aftermarket) (Homebrew).sms
+416e2cfdca11a53dca815b4cf9e6864b	Bruce Lee (Unknown) (v1.05) (Tech Demo) (Aftermarket) (Homebrew).sms
 d79c186a74550876691e97ca830c66c7	Bubble Bobble (Europe, Brazil) (En).sms
 11b0521d236530f68bcabfcc95f4d119	Bubble Bobble (Taiwan) (En) (Unl).sms
 db41b17f3268d9076e0928911a2791e0	Buggy Run (Europe, Brazil) (En).sms
+dd0b6a4f11018ff3d2e6a2b9d9888576	C_So! (Korea) (Unl).sms
 182b179a1226fb5b1e1cf6bb2f351c50	California Games (USA, Europe, Brazil) (En).sms
 5ac58b3a7fda23161ab1185b3ee797ac	California Games II (Europe).sms
 ccb76c009e52e32e2dcc528481f0e039	Captain Silver (Japan, Europe, Brazil) (En).sms
@@ -155,7 +172,6 @@ b4c33bdba2472003f87ed193e51b2c9b	Cool Spot (Europe).sms
 d2f26a0eb02c78b2505846ba5de90889	Cyborg Hunter (USA, Europe, Brazil) (En) (Sample) (1988-09-12).sms
 ac90d79743cac1afcd7049f7b4e73bc4	Cyborg Hunter (USA, Europe, Brazil) (En).sms
 0027ab3b7479cb1385e43d1f41bcddd6	Cyborg Z (Korea) (Unl).sms
-dd0b6a4f11018ff3d2e6a2b9d9888576	C_So! (Korea) (Unl).sms
 75955b8a2d2a2256523fb26dac62a5e2	Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It).sms
 3ad7b3e23400ee10b7239e22d45aca4e	Dallyeora Pigu-Wang (Korea) (Unl).sms
 6b0fc60aa886c060bf1a16ea97b4f441	Danan - The Jungle Fighter (Europe, Brazil) (En).sms
@@ -204,13 +220,13 @@ b88767b3386073fa775a8391b8912010	F-16 Fighter (USA, Europe, Brazil) (En).sms
 f3d0d07a2eea23175d9a8d2b428151e8	FA Tetris (Korea) (Unl).sms
 03552187d613c1b2a22a8e32476c5254	Family Games (Japan).sms
 b8eb0cb6a9d16cfd08d9c03297fcd445	Fantastic Dizzy (Europe) (En,Fr,De,Es,It).sms
+d37f86c678b2ad0018518ea7278db24b	Fantasy Zone - The Maze (USA, Europe, Brazil) (En).sms
 3a1dfad2cea111d0dbfb4a545bf3f87e	Fantasy Zone (Japan).sms
 e4497d344386a9fe0826e6d166e0f2b3	Fantasy Zone (Taiwan) (Unl).sms
 59a7ce6a0fabc2e4182bc9313f12367a	Fantasy Zone (World) (Beta).sms
 fed8690ee5fb895c09caa8e2b879ebd6	Fantasy Zone (World) (Rev 1).sms
-d37f86c678b2ad0018518ea7278db24b	Fantasy Zone - The Maze (USA, Europe, Brazil) (En).sms
-481a01c4e768c535ee18d6d78815fc89	Fantasy Zone II (USA, Europe, Brazil) (En).sms
 f898539f72db2271fc3385a5eb51a06f	Fantasy Zone II - Opa-Opa no Namida (Japan).sms
+481a01c4e768c535ee18d6d78815fc89	Fantasy Zone II (USA, Europe, Brazil) (En).sms
 3706d53f47e3e0294a778bc9b732f414	Ferias Frustradas do Pica Pau (Brazil).sms
 907bc842dece97cef44afff0c9ada770	FIFA International Soccer (Brazil) (En,Es,Pt).sms
 3573a65921b0506f7124f1f9ffb30974	Final Bubble Bobble (Japan).sms
@@ -218,9 +234,9 @@ d27d8fee8f711db361a71817864bd139	Fire & Forget II (Europe).sms
 85acf93edba54485466aeb840966082b	Fire & Ice (Brazil) (En).sms
 a96908fab5f599b11fe8107c3f93b6b1	Flash, The (Europe, Brazil) (En).sms
 e74328c8cdd71af02ed99b17139126cd	Flashpoint (Korea) (Unl).sms
-dd0ca0eb90cb15516b2809ea26e58b04	Flight of Pigarus (World) (v1.00) (Aftermarket) (Homebrew).sms
-ac3272b18b104aff30d497d6e3aedd07	Flight of Pigarus (World) (v1.10) (Aftermarket) (Homebrew).sms
-42b79384a1352b47b9ea32d6d3ec6849	Flight of Pigarus (World) (v1.11) (Aftermarket) (Homebrew).sms
+dd0ca0eb90cb15516b2809ea26e58b04	Flight of Pigarus (Unknown) (v1.00) (Aftermarket) (Homebrew).sms
+ac3272b18b104aff30d497d6e3aedd07	Flight of Pigarus (Unknown) (v1.10) (Aftermarket) (Homebrew).sms
+42b79384a1352b47b9ea32d6d3ec6849	Flight of Pigarus (Unknown) (v1.11) (Aftermarket) (Homebrew).sms
 23a5a42c0a4a4bceffbd1869192f329d	Flintstones, The (Europe, Brazil) (En).sms
 68cc1711bb89921da1f215f323f3bb2d	Forgotten Worlds (Europe, Brazil) (En).sms
 6d41f5b5226216aaac651aa40a30f735	Forgotten Worlds (Taiwan) (En) (Unl).sms
@@ -254,16 +270,18 @@ af279b5092b60a3fdf5eb12d54752142	Global Defense (USA, Europe, Brazil) (En) (Beta
 f78d0ac93633c0478997d02ef38b6eea	Golden Axe (USA, Europe, Brazil) (En) (Demo).sms
 b4911ad6a9d2ba56497cd5b01da3938a	Golden Axe (USA, Europe, Brazil) (En).sms
 d46e40bbb729ba233f171ad7bf6169f5	Golden Axe Warrior (USA, Europe, Brazil) (En).sms
-1fa330a17df19820f4c8e0230d3cfbe2	Golfamania (Europe) (Beta).sms
 5554f9f67103e0d5b1a4075a2d26d15b	Golfamania (Europe, Brazil) (En).sms
+1fa330a17df19820f4c8e0230d3cfbe2	Golfamania (Europe) (Beta).sms
 2101295c258cb6b845bdb72be617691d	Golvellius - Valley of Doom (USA, Europe, Brazil) (En).sms
-ac09b6d73f43b61dc128ecf02746ce3c	Gotris (Europe) (v0.7) (Aftermarket) (Homebrew).sms
-3064d5ba38ba19a4cafd00eb80f32a0b	Gotris (Europe) (v0.8) (Aftermarket) (Homebrew).sms
-f174aa6c81b334798ee912a76675c7a7	Gotris (USA) (v0.7) (Aftermarket) (Homebrew).sms
-1e2df45f38f2cfa0b724e9613c2d9ffb	Gotris (USA) (v0.8) (Aftermarket) (Homebrew).sms
+04c70d0d59e5939621a1afb7dc55e052	Gotris (Unknown) (v0.6) (Aftermarket) (Homebrew).sms
+f174aa6c81b334798ee912a76675c7a7	Gotris (Unknown) (v0.7) (NTSC) (Aftermarket) (Homebrew).sms
+ac09b6d73f43b61dc128ecf02746ce3c	Gotris (Unknown) (v0.7) (PAL) (Aftermarket) (Homebrew).sms
+1e2df45f38f2cfa0b724e9613c2d9ffb	Gotris (Unknown) (v0.8) (NTSC) (Aftermarket) (Homebrew).sms
+3064d5ba38ba19a4cafd00eb80f32a0b	Gotris (Unknown) (v0.8) (PAL) (Aftermarket) (Homebrew).sms
+2222050bb21af79ea8b40788fe33d83c	Gotris (Unknown) (v1.2p) (Aftermarket) (Homebrew).sms
+83adab1f0d33d7e8791b4971afac3c36	Gotris (Unknown) (v1.3p) (NTSC) (Aftermarket) (Homebrew).sms
+2a6685ed4a9f01ae3c32974d6640ad50	Gotris (Unknown) (v1.3p) (PAL) (Aftermarket) (Homebrew).sms
 b5299de36e7fab848c1d46e9a19404b8	Gotris (World) (v0.5) (Aftermarket) (Homebrew).sms
-04c70d0d59e5939621a1afb7dc55e052	Gotris (World) (v0.6) (Aftermarket) (Homebrew).sms
-2222050bb21af79ea8b40788fe33d83c	Gotris (World) (v1.2p) (Aftermarket) (Homebrew).sms
 1af1cdf8d40c305f936e72b51cb4740d	GP Rider (Europe, Brazil) (En).sms
 94ca79d4eb2709ad98b850d33728a045	Great Baseball (Japan).sms
 1d126c6ac8e4d7b612e9db3d56d9e78e	Great Baseball (USA, Europe).sms
@@ -282,12 +300,12 @@ be6eac7ce416c86a818ff13b228b39c5	Great Tennis (Japan).sms
 382b627efa06c958b8ec5c85e964bf10	Great Volleyball (USA, Europe, Brazil) (En).sms
 0feb4d1c2483baf591dea34da58ff9c6	Gun.Smoke (Korea) (En) (Unl).sms
 b54989c58520516f4c10ce4e7a446725	Haja no Fuuin (Japan).sms
-3701cb59dfd137246d163462d18e8dd4	Hang On & Astro Warrior (USA).sms
-16d870bf1a5a23a9f2993d8786f5bc74	Hang On & Safari Hunt (USA) (Beta).sms
-84284c327b07c200c16f4e13b2e8de79	Hang On & Safari Hunt (USA).sms
 9d07e037338bd71ebf6b39e2014d3472	Hang On (Europe) (Beta).sms
 2864be0d35269c5030a7f297f70e3ac3	Hang On (Europe).sms
 67849e734a1304799606ba5a22f840d2	Hang On (Japan).sms
+3701cb59dfd137246d163462d18e8dd4	Hang On & Astro Warrior (USA).sms
+16d870bf1a5a23a9f2993d8786f5bc74	Hang On & Safari Hunt (USA) (Beta).sms
+84284c327b07c200c16f4e13b2e8de79	Hang On & Safari Hunt (USA).sms
 08431e57a5ecf6cbfb1fdb757d496541	Heavyweight Champ (Europe, Brazil) (En).sms
 eb7913db8b1db1b1ffd6809a2372f601	Heroes of the Lance (Europe, Brazil) (En) (Beta).sms
 1dcacb5969fb4a0d4e9c7fec67227cce	Heroes of the Lance (Europe, Brazil) (En).sms
@@ -320,7 +338,8 @@ b05014defe8d0c3d0ad6f67851ca15d7	Jurassic Park (Europe, Brazil) (En).sms
 f4c3327b0f92e09b21f59e90fd273c2f	Kenseiden (Japan).sms
 6ae8f011701608ae8b765a26eb0b7ce1	Kenseiden (USA, Europe, Brazil) (En).sms
 ea0f3ee7d540d92845cad40d5bc53ef9	King & Balloon (Korea) (En) (Unl).sms
-8666d9a13fbd8c5a761fab15e15d3db0	King's Quest - Quest for the Crown (USA) (Beta).sms
+fdb8daaebd35d31353b7523c09b7f0bb	King's Quest - Quest for the Crown (USA) (Beta 1).sms
+8666d9a13fbd8c5a761fab15e15d3db0	King's Quest - Quest for the Crown (USA) (Beta 2).sms
 2f579f5a3216dfc77aea636930376ba7	King's Quest - Quest for the Crown (USA).sms
 dcea71eda85687d1835bed5c493f81a2	KLAX (Europe).sms
 09d622effa934695566e47f1fb1d4b77	Knightmare II - The Maze of Galious (Korea) (Unl).sms
@@ -331,8 +350,8 @@ d8788e907f76419d55bcc447e76de6ad	Kujaku Ou (Japan).sms
 07fac1d61bc20cf6eb298f66ec2ffe49	Land of Illusion Starring Mickey Mouse (Europe, Brazil) (En).sms
 17f9c50c444dc94e08ba173ab306608b	Laser Ghost (Europe).sms
 4a69a56a8efff7863feca11f1d6547e3	Legend of Illusion Starring Mickey Mouse (Brazil) (En).sms
-5dba0a0dd0eeb52fe6d94dce47335a34	Lemmings (Europe) (Beta).sms
 b190f17a46ba9cc66676e7174209c24e	Lemmings (Europe, Brazil) (En).sms
+5dba0a0dd0eeb52fe6d94dce47335a34	Lemmings (Europe) (Beta).sms
 3da5f5122f3d94360de61bcb8478e169	Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04).sms
 1597ad705990a66e90262ef7b1141b64	Line of Fire (Europe, Brazil) (En).sms
 e50336c0d146e8a341c7ae198a016527	Lion King, The (Europe, Brazil) (En).sms
@@ -342,16 +361,16 @@ b80f87887881343e5705ff3cce93c5f1	Lord of the Sword (USA, Europe, Brazil) (En).sm
 8dcdd83e58be634a3735911a1af05bb3	Loretta no Shouzou - Sherlock Holmes (Japan).sms
 7de03b7f1cdc1f931b3a4746d9350033	Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En) (Beta).sms
 653f10042a5ee5854ccf971456641a4d	Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En).sms
-ca2177f94ce617cbd3cbb1df55810d06	Lucky Penguin (World) (v1.0) (Aftermarket) (Homebrew).sms
-79def75be0b980752dec8526f84cd2b8	Lucky Penguin (World) (v1.1) (Aftermarket) (Homebrew).sms
-19db67f87bb3d1d8efead0542de30cd1	Mahjong Sengoku Jidai (Japan) (Beta).sms
+ca2177f94ce617cbd3cbb1df55810d06	Lucky Penguin (Unknown) (v1.0) (Aftermarket) (Homebrew).sms
+79def75be0b980752dec8526f84cd2b8	Lucky Penguin (Unknown) (v1.1) (Aftermarket) (Homebrew).sms
 ae37b27f37a25c5230f50e8b8d58eba2	Mahjong Sengoku Jidai (Japan, Hong Kong) (Ja).sms
+19db67f87bb3d1d8efead0542de30cd1	Mahjong Sengoku Jidai (Japan) (Beta).sms
 f4a3116fe2be83eafd4cc278812be9b4	Makai Retsuden (Japan).sms
 b2cf7c01fa99d5aef7bf3a4d9f4c6917	Maou Golvellius (Japan) (Beta).sms
 6bd9879af39e248d149761014ebf5639	Maou Golvellius (Japan).sms
 97832999dd6d2ba467b5625006b018a0	Marble Madness (Europe).sms
-bf7ea79ac0df3ebe7256da6331b21c34	Marksman Shooting & Trap Shooting & Safari Hunt (Europe).sms
 0a28cfd7b151531fb7a43181c24e1d3d	Marksman Shooting & Trap Shooting (USA, Brazil) (En).sms
+bf7ea79ac0df3ebe7256da6331b21c34	Marksman Shooting & Trap Shooting & Safari Hunt (Europe).sms
 8354932a7f20e84a808471b3724a56f8	Master of Darkness (Europe, Brazil) (En).sms
 7f4c7a57ae46837f01ef9a0c85065250	Masters of Combat (Europe, Brazil) (En).sms
 2349ee42a09088a4a590e2c65474cdaf	Maze Hunter 3-D (USA, Europe, Brazil) (En).sms
@@ -363,13 +382,14 @@ aa3bc8467e80a6aaab02051818ecb035	Michael Jackson's Moonwalker (USA, Europe, Braz
 7ffa8a70ce7bfc8aabfe10e206df2c29	Mickey's Ultimate Challenge (Brazil) (En).sms
 a90cf8d68fa8b1f0ba00f0ddb9d547b7	Micro Machines (Europe).sms
 4d5815d1b0c7b371237bb0e98281d5f3	Micro Xevious, The (Korea) (Unl).sms
-3f5d2ca45ccc205d18c8e3d1d9969f00	Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta).sms
+3f5d2ca45ccc205d18c8e3d1d9969f00	Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta) (1988-02-25).sms
 e0a9cf889c27f3cb14903288f646d183	Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En).sms
 6c3d54e1338112fd39418ca8da672994	Missile Defense 3-D (USA, Europe, Brazil) (En) (Sample).sms
 b17ca24555cc79c5f7d89f156b99e452	Missile Defense 3-D (USA, Europe, Brazil) (En).sms
 d649ce52d05d88efdaca81d2ccc57d2d	Monica no Castelo do Dragao (Brazil).sms
 f2d360f60acd4ca1e50ab301e20de581	Monopoly (Europe) (Rev A).sms
-19e6167c6bad839603240adeda122ac7	Monopoly (USA) (Beta).sms
+19e6167c6bad839603240adeda122ac7	Monopoly (USA, Europe) (Beta 1).sms
+c7b4aa45ded97242b9e20f7a76c6fbd2	Monopoly (USA, Europe) (Beta 2).sms
 b887836983fccb5ec706630cf835939f	Monopoly (USA, Europe).sms
 3ecff4b5ef40705615b208d60403f276	Montezuma's Revenge - Featuring PANAMA JOE (USA) (Beta).sms
 fe20d983d1b18ff1986c376489843f32	Montezuma's Revenge - Featuring PANAMA JOE (USA).sms
@@ -482,8 +502,8 @@ db2cbd4cee97aeb28d2e1af6ee79db75	Scramble Spirits (Taiwan) (En) (Unl).sms
 f9c526afcacc727e45e722a9d8075109	Sega World Tournament Golf (Europe, Brazil) (En).sms
 fb2ad2524646bd069e3ec1b51fd7eb39	Seishun Scandal (Japan).sms
 5ca0a2b33db8eedcddb1d5aeaa8ea5a4	Sensible Soccer (Europe).sms
-0884e52534568d8090565e2a02d6a4e3	Shadow Dancer (Taiwan) (En) (Unl).sms
 c2055d5c66dd3944b99642c18032ebc4	Shadow Dancer - The Secret of Shinobi (Europe, Brazil) (En).sms
+0884e52534568d8090565e2a02d6a4e3	Shadow Dancer (Taiwan) (En) (Unl).sms
 abc8a9e43c588c7d0535cc8305bdbf94	Shadow of the Beast (Europe, Brazil) (En).sms
 ce2e1cb88648e27323b6ded5f4109a18	Shadow of the Beast (Taiwan) (En) (Unl).sms
 802d1525499492580de31ca62bca3c40	Shanghai (USA, Europe) (Beta).sms
@@ -492,12 +512,14 @@ f0595fbd334cb8e95c0486a588a24f7b	Shanghai (USA, Europe).sms
 789b285290688cbd0a786f888f9dada1	Shinobi (Japan, Brazil) (Ja).sms
 3dd2c025185e19ac9bf1ed16b695c629	Shinobi (USA, Europe, Brazil) (En) (Rev 1).sms
 f8ea8b8e641cabff32210ea6583f9f94	Shooting Gallery (USA, Europe, Brazil) (En).sms
-258d62140cfa3fb55280c4386dbe5ddb	Simpsons Trivia (World) (v1.00) (Aftermarket) (Homebrew).sms
-d628cea1c931c9db41c61b2e02d95538	Simpsons Trivia (World) (v1.01) (Aftermarket) (Homebrew).sms
-ea829c4a6e9c4f05362979c9b1f3d7be	Simpsons Trivia (World) (v1.02) (Aftermarket) (Homebrew).sms
+258d62140cfa3fb55280c4386dbe5ddb	Simpsons Trivia (Unknown) (v1.00) (Aftermarket) (Homebrew).sms
+d628cea1c931c9db41c61b2e02d95538	Simpsons Trivia (Unknown) (v1.01) (Aftermarket) (Homebrew).sms
+ea829c4a6e9c4f05362979c9b1f3d7be	Simpsons Trivia (Unknown) (v1.02) (Aftermarket) (Homebrew).sms
+b28a8d4a33f7c88f80e1543df72a1f3a	Simpsons Trivia (Unknown) (v2.0) (Aftermarket) (Homebrew).sms
 26df4404950cb8da47235833c0c101c6	Simpsons, The - Bart vs. The Space Mutants (Europe, Brazil) (En).sms
 cba2ec2940619956359801618e7aab17	Simpsons, The - Bart vs. The World (Europe, Brazil) (En).sms
 85ea52a2cbcae078dc3a04f8db1304a9	Sitio do Picapau Amarelo (Brazil).sms
+667f906de8cbb633ed048f615d69ba3e	Skazka (Unknown) (v2.0) (Aftermarket) (Homebrew).sms
 5c6d01e7534726e02f27664c44c491d6	Sky Fighter (Korea) (En) (Unl).sms
 19a825bd9210ce0ff84cb883c750e7fc	Sky Jaguar (Korea) (Clover) (Unl).sms
 836d0b4c9ab9296cc78a5f8e2cb375d7	Sky Jaguar (Korea) (Unl).sms
@@ -528,8 +550,8 @@ ae579fba63e0da9cb969980ac172a600	Speedball (Europe) (Rev 1).sms
 ccbb21ff7484d5569bc823168edc8628	Speedball (Europe).sms
 b37e0c8177c4792594356b11757f9ac5	Speedball 2 (Europe).sms
 0e1449dd7df4fd0995ccf802bb74cba0	SpellCaster (USA, Europe, Brazil) (En).sms
-fa10ee70e43385e88e5d1a008716668b	Spider-Man (USA, Europe, Brazil) (En).sms
 094628b6dd0342253594b0adb0777c7b	Spider-Man - Return of the Sinister Six (Europe, Brazil) (En).sms
+fa10ee70e43385e88e5d1a008716668b	Spider-Man (USA, Europe, Brazil) (En).sms
 3317f644f36159e2dc63aea9b75c927d	Sports Pad Football (USA).sms
 4cc5ba7ef736508a8afc1ed7ec640c3e	Sports Pad Soccer (Japan).sms
 2a6ee78e2617886fe540dcb8a1500e90	Spy vs Spy (Japan).sms
@@ -565,7 +587,8 @@ ca1e0e7bdd2a0be70129b1de97746e40	Super Boy III (Korea) (En) (Unl).sms
 6c203c7aa7003a880b80a90d96fc4a33	Super Kick Off (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).sms
 d18f1c389ed75efabc44e24b128da95d	Super Monaco GP (Europe, Brazil) (En) (Beta).sms
 efb0fb59074eab11816c8843b4135a0c	Super Monaco GP (Europe, Brazil) (En).sms
-d399c273c48bcee0b535690c1aaefb26	Super Monaco GP (USA) (Beta).sms
+d399c273c48bcee0b535690c1aaefb26	Super Monaco GP (USA) (Beta 1).sms
+7f7f20393d157eb01b7001f70d2726cc	Super Monaco GP (USA) (Beta 2).sms
 aed300f323aae6d00878eb6ba21c2eb7	Super Monaco GP (USA).sms
 153c958dad2e3eb6f7b463739b1b17f6	Super Off Road (Europe) (Beta).sms
 e3d3dfde69345e1f62cce512e9010bf8	Super Off Road (Europe).sms
@@ -614,7 +637,7 @@ c2c9a7942adb055ef08671c03648ed06	Ultimate Soccer (Europe, Brazil) (En,Fr,De,Es,I
 fdc90edb44d2a2236ab9c29d2f073d3c	Virtua Fighter Animation (Brazil) (En).sms
 5d292f9c2fa5893fa520c8145b437a28	Walter Payton Football (USA).sms
 0070737ddb0a2e5e822f1d8f46437b07	Wanted (USA, Europe, Brazil) (En).sms
-9016f905fb0e3023305ed4f667ee05ec	Waternet (World) (Aftermarket) (Homebrew).sms
+9016f905fb0e3023305ed4f667ee05ec	Waternet (Unknown) (Aftermarket) (Homebrew).sms
 551e85dc05f12557a56a6528aab6421a	Where in the World is Carmen Sandiego (Brazil) (En).sms
 29dcfcf773ceb9ef29b524183ad89d8c	Where in the World is Carmen Sandiego (USA).sms
 9b737af0a0782e97d82291d4d4e4f7b8	Wimbledon (Brazil) (En).sms
@@ -648,9 +671,9 @@ af5be770da3f73e01847c44ad97226d3	World Games (Europe, Brazil) (En) (Beta).sms
 27fba4b7db989c663dda11c255cf49f3	Xenon 2 - Megablast (Europe) (Rev 1).sms
 1f1ce1d74c416f2b85cc3f24d316f9e3	Xenon 2 - Megablast (Europe).sms
 21b563031bb035f117d15dc53f406c2d	Xyzolog (Korea) (En) (Unl).sms
-17364162da3ccee847850dd9b403765c	Ys (Japan).sms
-1fb26de7fe25803778cdc0391c7fb66f	Ys - The Vanished Omens (USA, Europe) (Ja) (Demo).sms
 77d2ff054429f7970134e67800539a78	Ys - The Vanished Omens (USA, Europe, Brazil) (En).sms
+1fb26de7fe25803778cdc0391c7fb66f	Ys - The Vanished Omens (USA, Europe) (Ja) (Demo).sms
+17364162da3ccee847850dd9b403765c	Ys (Japan).sms
 5d4a6cd8db303b9dc07ee8be4fe72309	Yuyryeong-ui Jip (Korea) (Unl).sms
 177eaaa2cab1df16a6b9a372d7d4846a	Zaxxon 3-D (World) (Beta).sms
 882dc10b0792be579a745c3f38010642	Zaxxon 3-D (World).sms
@@ -660,16 +683,3 @@ d4bf9e7bcf9a48da53785d2ae7bc4270	Zillion (USA, Europe) (Rev 1).sms
 281eb7a9dfabe6ca444398a295440ed2	Zillion II - The Tri Formation (World) (Beta).sms
 605b0c360075876b4a0be479679d1075	Zillion II - The Tri Formation (World).sms
 42fb44c9a2c82b8c4aef8191c1b5676f	Zool - Ninja of the 'Nth' Dimension (Europe).sms
-91b4d4db66e30f2b5ce7f7c2541ee897	[BIOS] Alex Kidd in Miracle World (BIOS Version) (World) (Sega Ages).sms
-e49e63328c78fe3d24ae32bf903583e0	[BIOS] Alex Kidd in Miracle World (Korea) (Unl).sms
-e8b26871629b938887757a64798df6dc	[BIOS] Alex Kidd in Miracle World (USA, Europe).sms
-02cbb2e348945c9ac41e37502a58ca76	[BIOS] Hang On & Safari Hunt (USA, Europe, Brazil) (En) (v2.4).sms
-5cd8f62cd8786af0226e6d2248279338	[BIOS] Hang On (USA, Europe) (v3.4).sms
-08b81aa6be18b92daef1b875deecf824	[BIOS] Missile Defense 3-D (USA, Europe) (v4.4).sms
-bdb34f2c471e5d0c358eeec621f9d029	[BIOS] Sega Master System (Europe) (v2.0).sms
-24a519c53f67b00640d0048ef7089105	[BIOS] Sega Master System (Japan) (v2.1).sms
-3153447d155fb8bfc66a4d1c41e399b9	[BIOS] Sega Master System (USA) (M404) (Proto).sms
-b264bef9bda264ffe83afcebac21b81f	[BIOS] Sega Master System (USA) (Store Display Unit).sms
-626b3453613e43d5a47908a8944ba583	[BIOS] Sega Master System (USA) (v1.0) (Proto).sms
-840481177270d5642a14ca71ee72844c	[BIOS] Sega Master System (USA, Europe) (v1.3).sms
-4187d96beaf36385e681a3cf3bd1663d	[BIOS] Sonic The Hedgehog (Europe).sms
