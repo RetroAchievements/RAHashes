@@ -1,9 +1,12 @@
-3369347f7663b133ce445c15200a5afa	'96 Zenkoku Koukou Soccer Senshuken (Japan).sfc
+865d9f3208dd32d8ccf8f5d85b3e18bc	[BIOS] Super NES CD-ROM - Boot ROM (Japan) (En) (v0.95) (Proto).sfc
+1feb26ae4ab5adfe7acb6847007d4b84	16 BIT XMAS 2011 - Christmas Craze (World) (Aftermarket) (Homebrew) (Alt).sfc
+0829ebfde80e7a9673fe9966a8d47b0f	16 BIT XMAS 2011 - Christmas Craze (World) (Homebrew).sfc
+a3fb44ee8547ecc51b5d5fb890ce0eef	16 BIT XMAS 2012 - Snowball Fight (World) (Aftermarket) (Homebrew).sfc
 c9027b03a719a547cb2d9bcf9a9a6cbb	2020 Super Baseball (Japan).sfc
-b55a5feb2e5f3890b83edec46d2a685f	240p Test Suite (World) (v1.03) (NTSC) (Program) (Homebrew).sfc
-ffd24d959f866013861a9deb2630a101	240p Test Suite (World) (v1.03) (PAL) (Program) (Homebrew).sfc
-9cd31ade2e830f5f7c96f837cd392270	240p Test Suite (World) (v1.061) (NTSC) (Program) (Homebrew).sfc
-3c5447d40bbde9f1a7ea6fb37d1a8f77	240p Test Suite (World) (v1.061) (PAL) (Program) (Homebrew).sfc
+b55a5feb2e5f3890b83edec46d2a685f	240p Test Suite (World) (v1.03) (NTSC) (Program) (Aftermarket) (Homebrew).sfc
+ffd24d959f866013861a9deb2630a101	240p Test Suite (World) (v1.03) (PAL) (Program) (Aftermarket) (Homebrew).sfc
+9cd31ade2e830f5f7c96f837cd392270	240p Test Suite (World) (v1.061) (NTSC) (Program) (Aftermarket) (Homebrew).sfc
+3c5447d40bbde9f1a7ea6fb37d1a8f77	240p Test Suite (World) (v1.061) (PAL) (Program) (Aftermarket) (Homebrew).sfc
 c638c1175840c6640d897951daa73637	3 Ninjas Kick Back (USA).sfc
 56f5c0f9559ae498e5c1fc0af59a6c97	3-jigen Kakutou Ballz (Japan) (Sample).sfc
 5403a00958bcb9a3d3fd714c48115e7e	3-jigen Kakutou Ballz (Japan).sfc
@@ -14,6 +17,7 @@ e9140405887a1d5f32aa009f1e2cd0da	3x3 Eyes - Seima Kourinden (Japan).sfc
 a42772a0beaf71f9256a8e1998bfe6e3	7th Saga, The (USA).sfc
 d454032507d36283be629d6cddcbb19f	90 Minutes - European Prime Goal (Europe) (Beta).sfc
 305d00418b1302139fa01fb1640e2c65	90 Minutes - European Prime Goal (Europe).sfc
+3369347f7663b133ce445c15200a5afa	96 Zenkoku Koukou Soccer Senshuken (Japan).sfc
 ba031908e769425e737ce35700f818f5	A.S.P. - Air Strike Patrol (USA).sfc
 7c688bf357106d21ce61f528979eb90e	Aaahh!!! Real Monsters (Europe).sfc
 e4e77b581700a6cd58e711ee02b1a61f	Aaahh!!! Real Monsters (USA).sfc
@@ -32,19 +36,19 @@ fd56459aba757c35b9892aede9d24304	ActRaiser (Germany).sfc
 3cb1a7ae9fd34a56015f752fd138070e	Actraiser (Japan).sfc
 e455726b8c2e237bbcfa81e68fb59599	ActRaiser (USA) (Arcade).sfc
 635d5d7dd2aad4768412fbae4a32fd6e	ActRaiser (USA).sfc
+9698ac310bc4a2a35999638afd2d23b8	ActRaiser 2 - Chinmoku e no Seisen (Japan).sfc
 177c67125038a6b0af1d5b47c9865e7e	Actraiser 2 (Europe) (En,Fr,De).sfc
 32cfe65f6dd6e4b58839729a3b1dbd60	ActRaiser 2 (USA).sfc
-9698ac310bc4a2a35999638afd2d23b8	ActRaiser 2 - Chinmoku e no Seisen (Japan).sfc
 4a34ab48cc89b871d7b3e4c15fedf2b6	Addams Family Values (Europe) (En,Fr,De).sfc
 c4e6fc322eeb843ebbd7ebcc5c8b6351	Addams Family Values (USA) (Beta).sfc
 7e52067e9cb3e6a190272a9d1d75a9af	Addams Family Values (USA) (En,Fr,De).sfc
+7a48ec4a72e15dc7851677531490fa2c	Addams Family, The - Pugsley's Scavenger Hunt (Europe).sfc
+def63020a0118bd4a49f8367262d6a27	Addams Family, The - Pugsley's Scavenger Hunt (USA) (Beta).sfc
+2dc248f730b474e24452eba7971dfbd9	Addams Family, The - Pugsley's Scavenger Hunt (USA).sfc
 1687307b1e71aedfebcf60810ca93da6	Addams Family, The (Europe) (En,Fr,De).sfc
 9523a150ecd1203152304fcb49de9b7c	Addams Family, The (Japan).sfc
 36c042bee23c6326b034feb005fc5a2e	Addams Family, The (USA) (Arcade).sfc
 278a88adb028a8e4c279b9b468b592ed	Addams Family, The (USA).sfc
-7a48ec4a72e15dc7851677531490fa2c	Addams Family, The - Pugsley's Scavenger Hunt (Europe).sfc
-def63020a0118bd4a49f8367262d6a27	Addams Family, The - Pugsley's Scavenger Hunt (USA) (Beta).sfc
-2dc248f730b474e24452eba7971dfbd9	Addams Family, The - Pugsley's Scavenger Hunt (USA).sfc
 37c38e3fc469d69e8432e69982537de3	Advanced Dungeons & Dragons - Eye of the Beholder (USA).sfc
 49775f5e46be05c1e245b26a70b6f756	Adventures of Batman & Robin, The (Europe).sfc
 517a88892164b47c2821c0708ad08b58	Adventures of Batman & Robin, The (USA).sfc
@@ -90,7 +94,7 @@ f086b3c1c0b2dde6963d254f4cdf7ef2	Al Unser Jr.'s Road to the Top (Europe).sfc
 2cc20404e20fab848612fff369e5c3c7	Aladdin (USA) (Beta).sfc
 8e00910312b30663768d907114d301c2	Aladdin (USA).sfc
 96d395b194695181fa249b88fa410412	Aladdin (World) (Disney Classic Games).sfc
-92b75bed7f7a539e7df5a8c4e703b3a1	Aladdin 2000 (World) (Pirate).sfc
+92b75bed7f7a539e7df5a8c4e703b3a1	Aladdin 2000 (USA) (Pirate).sfc
 0b34ddd5c3426ef7113841b130910cc4	Albert Odyssey (Japan) (Rev 1).sfc
 8822eb60ec69ede557c3294bae005b32	Albert Odyssey (Japan).sfc
 17ee32db6de1524535d2f2e995380f70	Albert Odyssey 2 - Jashin no Taidou (Japan).sfc
@@ -118,9 +122,9 @@ a2aabe7064ff072de65450d50d50ba93	American Tail, An - Fievel Goes West (USA).sfc
 decbc035448e68dc899a1db456e77afd	Ancient Magic - Bazoe! Mahou Sekai (Japan).sfc
 16607ea102e62021f127d081d97cf24b	Andre Agassi Tennis (Japan) (En).sfc
 9ebdfa25aa896e5e3d3aec1dd8d9db07	Andre Agassi Tennis (USA).sfc
+dbe906d3970e74caba0a210331e6ad73	Angelique - Voice Fantasy (Japan).sfc
 db49dd09a12d1ca5af211d242fb5c280	Angelique (Japan) (Premium Box).sfc
 2df6243223f89ec161b5e015b085f7a0	Angelique (Japan).sfc
-dbe906d3970e74caba0a210331e6ad73	Angelique - Voice Fantasy (Japan).sfc
 99c3ebfb50bc017d7384568619937c6b	Animal Buranden - Brutal (Japan).sfc
 ce41fb926db8fcaad4665774f3731b7a	Animaniacs (Europe).sfc
 7abe23225ca0ddc5ee93333ce3bb9137	Animaniacs (Japan).sfc
@@ -155,18 +159,18 @@ ddf4920ae09530da94eae230fdffd3c4	Aretha (Japan).sfc
 85265435ddcc6358a587895e0aac8915	Aretha II - Ariel no Fushigi na Tabi (Japan) (Beta 1).sfc
 70563c47fa4afe306a2e110998005753	Aretha II - Ariel no Fushigi na Tabi (Japan) (Beta 2).sfc
 0ee181fd933be14cfa6d323fae03aae3	Aretha II - Ariel no Fushigi na Tabi (Japan).sfc
-06effcf7fd688f89e63e83ae2369d1c5	Arkanoid (Europe).sfc
 2cdba2ea2369bfe29e9b5c59a04c8f8e	Arkanoid - Doh It Again (Japan) (En).sfc
 03d30ca9aaa89738640cf14532ddfe6c	Arkanoid - Doh It Again (USA).sfc
+06effcf7fd688f89e63e83ae2369d1c5	Arkanoid (Europe).sfc
 a29c0a3e8a340aaa7672b00b190be396	Art of Fighting (Europe).sfc
 9e379f323acc381163edb6c6a24f9c1a	Art of Fighting (USA).sfc
 03c868ab217e6e676f965a2319871a5c	Aryol (Japan).sfc
 3d3c735ad372dbbbb7cafb809c60678b	Asahi Shinbun Rensai - Katou Hifumi Kudan Shougi - Shingiryuu (Japan).sfc
 a7cf8b4a9da276955118aef0df61987c	Asameshimae Nyanko (Japan).sfc
 c7f80eb13ad9ee5fb5598b24002b6113	Ashita no Joe (Japan).sfc
-77bf37a9a6779a1d7e109bc1a707ecd1	Asterix & Obelix (Europe) (En,Fr,De,Es).sfc
 58129a1863363a139ddcec9c4d052726	Asterix (Europe) (En,Fr,De,Es) (Beta) (1993-03-11).sfc
 b4fc60315646bfb9280d7edc4e59b5cc	Asterix (Europe) (En,Fr,De,Es).sfc
+77bf37a9a6779a1d7e109bc1a707ecd1	Asterix & Obelix (Europe) (En,Fr,De,Es).sfc
 9c978bf1c4583e406ec68ba5b14ca126	Atlas, The - Renaissance Voyager (Japan) (Rev 1) (NP).sfc
 2e90e35bcfa4945a9a914191debe2b61	Atlas, The - Renaissance Voyager (Japan).sfc
 0c50fc6fa2929a3de6a2625fe6d8a375	Atmosfear (USA) (Proto) (1994-07-12).sfc
@@ -185,21 +189,21 @@ d8923c1534106ee90cf6b1e2cce00c9c	Bakumatsu Kourinden Oni (Japan).sfc
 b22871e35d219853d268f2297e6937e7	Ball Bullet Gun (Japan).sfc
 68a1a5007175efe65697815c660b77f0	Ballz 3D - Fighting at Its Ballziest (USA) (Beta).sfc
 b61efd28676ea1f9ca650888753df2dc	Ballz 3D - Fighting at Its Ballziest (USA).sfc
-38bace8688b9962e2f90b294e0e4956b	Bananas de Pijamas (World) (Pirate).sfc
+38bace8688b9962e2f90b294e0e4956b	Bananas de Pijamas (USA) (Pirate).sfc
 d349f2853c8795c46fa2cd82268d0c18	Barbarossa (Japan).sfc
 fdecc2c3cb3c351dad5d54da7999d3c0	Barbie Super Model (USA).sfc
 e0d0b07b27a2703cc69fbb3db4ccbf13	Barbie Vacation Adventure (USA) (Proto).sfc
 3cbbb9e3abd7d472c640e48ff5e1a2a2	Barkley no Power Dunk (Japan) (En).sfc
 7537f4b1bb522c1b65b2a623bbe3982a	Barkley Shut Up and Jam! (Europe).sfc
 c153b93d685c7f9afabcde953b97b211	Barkley Shut Up and Jam! (USA).sfc
-1141024d45857a4570bd860f4d67b878	BASS Masters Classic (Japan).sfc
-74bbb1aa480a01f53e7b8764d0750e23	BASS Masters Classic (USA).sfc
 d7ff8ef321ab2b1d043d0577b9c2eec2	BASS Masters Classic - Pro Edition (Europe).sfc
 7200b3e05b334201b33e174f487ff021	BASS Masters Classic - Pro Edition (USA).sfc
+1141024d45857a4570bd860f4d67b878	BASS Masters Classic (Japan).sfc
+74bbb1aa480a01f53e7b8764d0750e23	BASS Masters Classic (USA).sfc
 043cf610d2cf595329499a0fbb5cb459	Bassin's Black Bass (USA).sfc
 2d11339b1a2dd1fe166ab1aaac8aad7d	Bastard!! - Ankoku no Hakaishin (Japan).sfc
-c3ec465614c09d36eda96749ab3cba7a	Batman (USA) (Proto).sfc
 ac85c4f7a23eb02b87a9900e6538b84c	Batman - Revenge of the Joker (USA) (Proto).sfc
+c3ec465614c09d36eda96749ab3cba7a	Batman (USA) (Proto).sfc
 8e1fdfcf4b3764499006e3677fd67b86	Batman Forever (Europe).sfc
 2c21aec680b2b4ed7e0f03f65d4d4365	Batman Forever (Japan) (En) (Beta 1).sfc
 95bb98cedd991544c6d06fe41be89744	Batman Forever (Japan) (En) (Beta 2).sfc
@@ -273,6 +277,7 @@ a5b7310f99982a66a13968ed22811d1d	Bijo to Yajuu (Japan).sfc
 a1f47d45a9e5f93b3f10057d1d0e1469	Biker Mice from Mars (USA).sfc
 24879e6fb99d030fed75303234ebd958	Bill Laimbeer's Combat Basketball (USA).sfc
 8ee34ea0392d7f637fe96d82e034270d	Bill Walsh College Football (USA).sfc
+28939d1a1daa163e529363ffd16ee2a9	Bing Bing! Bingo (Japan) (Beta).sfc
 3eb6e19c0ddd27bd6e7d52b360770d92	Bing Bing! Bingo (Japan).sfc
 43d393d1e6aeae259509dfea907dfb50	BioMetal (Europe).sfc
 fd4cc301d2b5853091a84f2c6354bb23	BioMetal (Japan) (En).sfc
@@ -280,8 +285,8 @@ fd4cc301d2b5853091a84f2c6354bb23	BioMetal (Japan) (En).sfc
 590dd09ec3da21ee9b7417ff4d70fb76	Bishin Densetsu Zoku (Japan).sfc
 ef9b2dd5575383c999c240e17b484561	Bishoujo Janshi Suchie-Pai (Japan) (Rev 1).sfc
 d54e6670c2b1db0016f4577afda8f5b9	Bishoujo Janshi Suchie-Pai (Japan).sfc
-6c6e750e419d6c3db27a708d240d32b1	Bishoujo Senshi Sailor Moon (Japan).sfc
 5f776488e366b6d6b44f6e8a01d9953d	Bishoujo Senshi Sailor Moon - Another Story (Japan).sfc
+6c6e750e419d6c3db27a708d240d32b1	Bishoujo Senshi Sailor Moon (Japan).sfc
 39b1e06fae0d6176c6ec4bb98f842eb7	Bishoujo Senshi Sailor Moon R (Japan).sfc
 bfac50cdae38c51dff55d15edec85451	Bishoujo Senshi Sailor Moon S - Jougai Rantou! Shuyaku Soudatsusen (Japan).sfc
 60e054a73bcab9c73a73c05c5e17dcd1	Bishoujo Senshi Sailor Moon S - Kondo wa Puzzle de Oshioki yo! (Japan).sfc
@@ -290,13 +295,13 @@ bfac50cdae38c51dff55d15edec85451	Bishoujo Senshi Sailor Moon S - Jougai Rantou! 
 89c3d0a6ecef80bd3e8e9af650897626	Bishoujo Senshi Sailor Moon SuperS - Zenin Sanka!! Shuyaku Soudatsusen (Japan).sfc
 992f432206bae204a240f70e541bcb9f	Bishoujo Wrestler Retsuden - Blizzard Yuki Rannyuu!! (Japan).sfc
 0500e7dff0acb5b86e4909b7ddd41a76	Blackhawk (Europe) (En,Fr,De).sfc
+30729d81a5b1f83ce26631918062eb82	Blackthorne - Fukushuu no Kuroki Toge (Japan).sfc
 a28203d6b4c63c26508acfa269b5225e	Blackthorne (USA) (Beta) (CES).sfc
 49715a9bced9dba4e6aaa1dab639e743	Blackthorne (USA) (Beta).sfc
 ee33097d436b4901a71f7e4c9a5cb409	Blackthorne (USA).sfc
-30729d81a5b1f83ce26631918062eb82	Blackthorne - Fukushuu no Kuroki Toge (Japan).sfc
 92fe34e7f0101296325354be2d67af2f	Blanco World Class Rugby (France) (En).sfc
-738bda0d92dd3dcd6c4b0d65a957e01e	BlaZeon (Japan) (En).sfc
 0fc1dd2c3ac2ec5baed77b3a32590ba4	BlaZeon - The Bio-Cyborg Challenge (USA).sfc
+738bda0d92dd3dcd6c4b0d65a957e01e	BlaZeon (Japan) (En).sfc
 37a3400b6c9ddb34d8b47301817de59e	Blazing Skies (Europe).sfc
 0289033cb1a8a60ba12c3116e94c7728	Block Kuzushi (Japan).sfc
 a8fe07895a4d7651e99a39b9eb5a3539	Blue Crystalrod, The (Japan).sfc
@@ -309,8 +314,8 @@ c469e7a892c647a2f0284ae6863f6af6	Bokujou Monogatari (Japan) (Rev 1).sfc
 e5f9703591fee2644f32f61bc1663129	Bokujou Monogatari (Japan).sfc
 d66e6ecc1e56820f7bcb2ac68bb26c21	Bomberman B-Daman (Japan).sfc
 29e628ecced08d4269fcf44a4abfd452	Bombuzal (Japan).sfc
-186d7d1585dc6a0e9ad96a5740a1a03a	Bonkers (USA).sfc
 783a0c32f9fa04218d2bb866f1d89352	Bonkers - Hollywood Daisakusen! (Japan).sfc
+186d7d1585dc6a0e9ad96a5740a1a03a	Bonkers (USA).sfc
 8b37076e92b5c9f7a3055998c67b3807	Boogerman - A Pick and Flick Adventure (Europe).sfc
 148dbe529816bb0721190b1d4b7af4f4	Boogerman - A Pick and Flick Adventure (USA).sfc
 52a0a166673ecc8d5515ebb205cdb175	Bounty Sword (Japan) (Beta) (1995-05-16).sfc
@@ -329,21 +334,21 @@ ff05759eb3273f4c9df6abbfbd813254	Bram Stoker's Dracula (Europe).sfc
 90bb70c75f0000492f99725de54c264f	Brandish (USA).sfc
 3e649d0b0fa80578bc25f7d225556061	Brandish 2 - Expert (Japan).sfc
 16647a6edc60975425d52c255c4c8523	Brandish 2 - The Planet Buster (Japan).sfc
-96c2f98baf38dd63c6a466688d7099f1	Brawl Brothers (USA).sfc
 2136eff1aae62a8a6672f24f3a0eb0ea	Brawl Brothers - Rival Turf! 2 (Europe).sfc
+96c2f98baf38dd63c6a466688d7099f1	Brawl Brothers (USA).sfc
 269025c5eb1c97f7effc613762ee06cf	BreakThru! (USA).sfc
-cdef890e99a0fb62c4d449d867c4244a	Breath of Fire (USA).sfc
-918732fe0d7b7349b7d75ad8878125d5	Breath of Fire (USA, Europe) (Switch Online).sfc
 b69adcac286be09ba10e7fca4693b87d	Breath of Fire - Ryuu no Senshi (Japan) (Rev 1) (Switch Online).sfc
 a8421d749da1510df9a37fed5909e129	Breath of Fire - Ryuu no Senshi (Japan) (Rev 1).sfc
 8396dbb5c335b76e3578ec95e1e8e3b4	Breath of Fire - Ryuu no Senshi (Japan).sfc
-fe075d38db46d0f9f5a575a021efe86f	Breath of Fire II (Europe).sfc
-8404de3ffb504407b54f6603ee4058c8	Breath of Fire II (USA) (Beta).sfc
-e1ff1ed4ad5dbdbe86774920dfb5e9d4	Breath of Fire II (USA).sfc
-7933cac3ca64de83d6addfe1a9d19159	Breath of Fire II (USA, Europe) (Virtual Console, Switch Online).sfc
+918732fe0d7b7349b7d75ad8878125d5	Breath of Fire (USA, Europe) (Switch Online).sfc
+cdef890e99a0fb62c4d449d867c4244a	Breath of Fire (USA).sfc
 8690a2e361106de5fa21222f127774eb	Breath of Fire II - Shimei no Ko (Japan) (Rev 1) (Virtual Console, Switch Online).sfc
 9cfbb811463c24cbfb834941d1a73fff	Breath of Fire II - Shimei no Ko (Japan) (Rev 1).sfc
 0ea349408473e47006fa2ad4471f4108	Breath of Fire II - Shimei no Ko (Japan).sfc
+fe075d38db46d0f9f5a575a021efe86f	Breath of Fire II (Europe).sfc
+7933cac3ca64de83d6addfe1a9d19159	Breath of Fire II (USA, Europe) (Virtual Console, Switch Online).sfc
+8404de3ffb504407b54f6603ee4058c8	Breath of Fire II (USA) (Beta).sfc
+e1ff1ed4ad5dbdbe86774920dfb5e9d4	Breath of Fire II (USA).sfc
 5b91f0824fa43aab8cc9b5c894150e41	Brett Hull Hockey (Europe).sfc
 fbc71d587c4926dd85077848b46f3048	Brett Hull Hockey (USA).sfc
 0d280a8b8ab999ccf3ddc7296c021ab7	Brett Hull Hockey 95 (USA).sfc
@@ -361,7 +366,7 @@ fd412f4c8aa847c61a8f0304f97881b6	Bubsy in - Claws Encounters of the Furred Kind 
 382eb66dbfd43154813f0fa9a7ace54a	Bubsy in Claws Encounters of the Furred Kind (USA) (Beta 1).sfc
 973c16e278b09be01e65d4f87afd130e	Bubsy in Claws Encounters of the Furred Kind (USA) (Beta 2).sfc
 794bebd8644f087233267ca2d170eea1	Buck Rogers - The Arcade Game (USA) (Beta).sfc
-0726f74c1173cb59bb3908385a148cb2	Bug's Life, A (World) (Pirate).sfc
+0726f74c1173cb59bb3908385a148cb2	Bug's Life, A (USA) (Pirate).sfc
 b924f56414b24a507dab4762c4b8c494	Bugs Bunny - Hachamecha Daibouken (Japan).sfc
 6958fcf24a2c287889c617614ab51fa3	Bugs Bunny - Rabbit Rampage (Europe).sfc
 8c78204ddbc95caba8aa7ad0e81eb654	Bugs Bunny - Rabbit Rampage (USA).sfc
@@ -432,11 +437,12 @@ b1143f5577bf8a872e58010202d371c8	Chibi Maruko-chan - Harikiri 365-nichi no Maki 
 8d594e0dd7e6c90e062d3f961d14c89f	Chibi Maruko-chan - Mezase! Minami no Island!! (Japan) (Beta).sfc
 6260edbf892cb17fa58a0a1f0557eb32	Chibi Maruko-chan - Mezase! Minami no Island!! (Japan).sfc
 6e808945b6b6ded16d59ea7ff2296af2	Chinhai (Japan).sfc
-768bb8313aef9484172e18ab3cb5960b	Choplifter III (Europe).sfc
+42a3062f6b86844dc5cc497957fc1e03	Chip's Challenge (USA) (Aftermarket) (Unl).sfc
 e084ffec81b78b8962caa8343b66fb34	Choplifter III - Rescue-Survive (Japan) (En).sfc
 8d8bc7bd06507dc7bbb55ce6b57bbb1b	Choplifter III - Rescue-Survive (USA) (Beta 1).sfc
 860e564253986bad1c5fc4102fc51120	Choplifter III - Rescue-Survive (USA) (Beta 2).sfc
 c8cde268069b410a72ec4d012cff1695	Choplifter III - Rescue-Survive (USA).sfc
+768bb8313aef9484172e18ab3cb5960b	Choplifter III (Europe).sfc
 a110a863dd8440806956667c83179b72	Chou Aniki - Bakuretsu Rantou Hen (Japan).sfc
 8947be18e35210e60e8c24d6fc7666aa	Chou Gojira - Super Godzilla (Japan) (Rev 1).sfc
 c2b4b00b0999cc80e9ad5401792af1bd	Chou Gojira - Super Godzilla (Japan).sfc
@@ -448,7 +454,6 @@ c8f29c0dd80657da7bdb214498f17fb5	Chou Makaimura (Japan) (Beta) (1991-06-26).sfc
 3e049d7632b49ca2d1cd231fa805a9a6	Chou Makaimura (Japan).sfc
 e11c1d923ea1b2f6a00e5886aa6b6202	Choujikuu Yousai Macross - Scrambled Valkyrie (Japan) (En).sfc
 6155c5fa196e06660c2ecf66ebb63d43	Choukou Gasshin Xardion (Japan).sfc
-0829ebfde80e7a9673fe9966a8d47b0f	Christmas Craze (World) (Homebrew).sfc
 274fb504a107768206f4acceba0c23fb	Chrono Trigger (Japan) (Sample).sfc
 9d56fb54af198d43dcd62550767999df	Chrono Trigger (Japan).sfc
 a2bc447961e52fd2227baed164f729dc	Chrono Trigger (USA).sfc
@@ -457,13 +462,16 @@ d6c5526dd544366bdc5519fb23476729	Chuck Rock (USA) (Beta).sfc
 b6117d7ae13c9afc785d5b6b0afd8bae	Chuck Rock (USA).sfc
 8de0dafb21a7b1b92d13e956bfcab124	Circuit USA (Japan) (En).sfc
 e90e62287c85eb0a0cd975a941ef47e5	Civilization - Sekai Shichi Daibunmei (Japan).sfc
+248e86c8ea3d24c5a7ef26b7ad680321	Classic Kong (World) (Aftermarket) (Homebrew).sfc
+711828dff9641140f57d23ea82799af4	Classic Kong Complete (World) (v2.0) (Aftermarket) (Homebrew).sfc
+34109a821497c892b2bba264acee2045	Classic Kong Complete (World) (v2.01) (Aftermarket) (Homebrew).sfc
 b9d8915813e09f426d8be21bb73ceaa7	Classic Road (Japan).sfc
 e2b5e014d8e96e08bcc3818dd6e8716e	Classic Road II (Japan).sfc
+a6637ccb145e42bbce94fbce3a1bb5e7	Clay Fighter - Tournament Edition (USA).sfc
 5d281dedab8bcb63624810b333da261a	Clay Fighter (Europe).sfc
 1cc33f34ba487f4afe8ac007da37df78	Clay Fighter (USA) (Beta) (1993-09-28) [b].sfc
 975b2d29b6f6777b0b411d80954a53f4	Clay Fighter (USA) (Beta).sfc
 90e90f2aae4770ee98130580a594e2bb	Clay Fighter (USA).sfc
-a6637ccb145e42bbce94fbce3a1bb5e7	Clay Fighter - Tournament Edition (USA).sfc
 50909f84102dc99af61e9532dccc8cc7	Clay Fighter 2 - Judgment Clay (Europe).sfc
 eb7d8986545e2e54f915e621f088ab31	Clay Fighter 2 - Judgment Clay (USA).sfc
 627cd806204f77578889cc6774371662	Claymates (Europe) (Beta) (Alt).sfc
@@ -513,9 +521,11 @@ d415351f34839a697d4ce423715be525	Cosmo Police Galivan II - Arrow of Justice (Jap
 ecb903b1cd2358ae4c6886ebf371c595	Crash Dummy - Dr. Zabu o Sukuidase (Japan).sfc
 678218d7e6e1f4721501362d0859a362	Crayon Shin-chan - Arashi o Yobu Enji (Japan).sfc
 37176c6f2e1accde7ebe6ce3f8059853	Crayon Shin-chan 2 - Daimaou no Gyakushuu (Japan).sfc
-cefa0ac385efa80e6e842b51c7e77b5f	Creepy Bird (USA) (Unl).sfc
+cefa0ac385efa80e6e842b51c7e77b5f	Creepy Bird (World) (Aftermarket) (Homebrew).sfc
+e8efb980e592024bae1ed10a50b94041	Creepy Bird (World) (Aftermarket) (Unl).sfc
 18c356623ae0407119ceae8c06edfa7a	Crystal Beans from Dungeon Explorer (Japan).sfc
 792676437c5a448fc6393cf06ecb50d0	Cu-On-Pa SFC (Japan).sfc
+01ecd804d6e7b4384a2ef2af221e552f	Cult of Remute, The (World) (Aftermarket) (Unl).sfc
 0f9f6529750accd0aa3705af863a4ea7	CutThroat Island (Europe).sfc
 5247fa439644b3cc93fc4154a10dabe7	CutThroat Island (USA) (Beta).sfc
 669f9147ab96a16f07e93ca9f18ef779	CutThroat Island (USA).sfc
@@ -538,11 +548,11 @@ e207d0f97c8d8476bd7b58d81f78864d	Dai-3-ji Super Robot Taisen (Japan) (Rev 2).sfc
 b5974f5306e8daee96d5fc625e960f0a	Dai-3-ji Super Robot Taisen (Japan).sfc
 2254b2224ce90ce08cf9f9863168865d	Dai-4-ji Super Robot Taisen (Japan) (Rev 1).sfc
 fbe42000fe3a8bd0cfab52cbdacc691b	Dai-4-ji Super Robot Taisen (Japan).sfc
-ad916c082ccac3437bdfc45b83167fdd	Daibakushou Jinsei Gekijou (Japan).sfc
 05b51c92f18a2cdd71d0bc30d915855d	Daibakushou Jinsei Gekijou - Dokidoki Seishun Hen (Japan).sfc
 b1b5f5eb7778afabb4518a5406269b68	Daibakushou Jinsei Gekijou - Ooedo Nikki (Japan).sfc
 78f06322b6d9b3550de2d05b799f71ed	Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen (Japan) (Rev 1) (NP).sfc
 8cd94d65c42b7770509a5f265fd91758	Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen (Japan).sfc
+ad916c082ccac3437bdfc45b83167fdd	Daibakushou Jinsei Gekijou (Japan).sfc
 f60d3ede1e4bf7f9df1fa8f375317f54	Daikaijuu Monogatari (Japan) (Rev 1).sfc
 a3d2f5cb1f2d47d6ed7b0dd822e3d13b	Daikaijuu Monogatari (Japan).sfc
 a356461694f781eb64ee75a29aa984ff	Daikaijuu Monogatari II (Japan).sfc
@@ -582,13 +592,14 @@ fd2d5e97642fdd833902468ce9fc31de	Dekitate High School (Japan).sfc
 c7c35d8d470e9593614e28fa396d637b	Demon's Blazon - Makaimura Monshou Hen (Japan) (Switch Online).sfc
 98a7294710502951f4a4bc92a703acd8	Demon's Blazon - Makaimura Monshou Hen (Japan).sfc
 d8470882550b0d229039a02f691949fb	Demon's Crest (Europe).sfc
-e990ae600a8326eda25489bdddffca55	Demon's Crest (USA).sfc
 1a2f726d3d1d906ff8856df51a023494	Demon's Crest (USA, Europe) (Switch Online).sfc
+e990ae600a8326eda25489bdddffca55	Demon's Crest (USA).sfc
 86895d65a2c7cdb1866abb8db31fa530	Den'z Traffic Panic (Japan) (Beta).sfc
 f7b44a729385c61084681f3f086ffda1	Dennis (Europe).sfc
 b0950b9de6a1c5a700a02b362eabb556	Dennis the Menace (USA) (Beta) (1993-03-03).sfc
 0ef71b727646941dfa63b8e4c259038f	Dennis the Menace (USA).sfc
 f3ab58809b82d1c36d988159ae6cbefa	Densetsu no Ogre Battle - The March of the Black Queen (Japan) (NP).sfc
+9b5880dc484e451597fea77c4faea5d6	Densetsu no Ogre Battle - The March of the Black Queen (Japan) (Sample).sfc
 7a64cc8d342f443402a3bf5605f2ad49	Densetsu no Ogre Battle - The March of the Black Queen (Japan).sfc
 87150ff3e13bfa13e021d40d7ae355aa	Derby Jockey - Kishu Ou e no Michi (Japan) (Rev 1).sfc
 484d35828bd8a51e4876772891662b6f	Derby Jockey - Kishu Ou e no Michi (Japan).sfc
@@ -601,16 +612,16 @@ db0cf9ef260c166879e54efc78abacb0	Derby Stallion III (Japan) (Rev 1).sfc
 21b6046684a33b429e8fe5a43e364301	Derby Stallion III (Japan) (Rev 2).sfc
 2c1fe9138b17e386df8f722479c3ad3e	Derby Stallion III (Japan) (Rev 3).sfc
 be1714ed558d2d2d2095fbf18e73317b	Derby Stallion III (Japan).sfc
+065e9ec7ce5b41203d8a8bae78de7e7a	Desert Fighter - Suna no Arashi Sakusen (Japan).sfc
 c2e98ca2492b411d2a13db5938601bbf	Desert Fighter (Europe) (Beta).sfc
 1996649f7e8dcd02e733d7af6a0b083f	Desert Fighter (Europe).sfc
-065e9ec7ce5b41203d8a8bae78de7e7a	Desert Fighter - Suna no Arashi Sakusen (Japan).sfc
 bdb5b1ba9afe27a7f1d3fe483253566b	Desert Strike - Return to the Gulf (Europe).sfc
 73d7d5b5088b67de482cfcea40640d40	Desert Strike - Return to the Gulf (USA).sfc
 f1755f08db760b3136d9d9ac962cb05a	Desert Strike - Wangan Sakusen (Japan).sfc
 dad772810b232ccf10053cb24e13d850	Destructive (Japan).sfc
 646d795f3244d780f32cb27f34daa7c8	Dharma Doujou (Japan).sfc
 103a6ac107c8b9e5251e7e7daff3a568	Dig & Spike Volleyball (USA).sfc
-85f2e975d484f3735012ad7eab4bca51	Digimon Adventure (World) (Pirate).sfc
+85f2e975d484f3735012ad7eab4bca51	Digimon Adventure (USA) (Pirate).sfc
 c5c1fa9e0f1f3634dba100ed82311fe7	Dimension-Force (Japan) (En).sfc
 eef0f5d6606b40819a5623df2ca4955a	Dino Dini's Soccer! (Europe) (En,Fr,De).sfc
 beba697f6b24ed4cf82fede9565f580d	DinoCity (Europe).sfc
@@ -629,22 +640,22 @@ bc140d7c704430ab24f8285c4386cc5f	Dolucky no Kusayakiu (Japan).sfc
 c7cf4c193dc8600d8c2a02ee728023f4	Donald Duck no Mahou no Boushi (Japan).sfc
 70e48393a4d85125d29da2f0e49d4881	Donald Duck no Maui Mallard (Japan).sfc
 dc886eda4c45ae4c7fde88e2b4b8cfc1	Donald in Maui Mallard (Europe).sfc
+45e938a3adde7dc91968793d115c8057	Donkey Kong Country - Competition Cartridge (USA).sfc
 00f0ba49b5b2f140b307afbed33c7997	Donkey Kong Country (Europe) (En,Fr,De) (Rev 1).sfc
 cd502daddcc7ea3fb2e86c1f0f8b93c8	Donkey Kong Country (Europe) (En,Fr,De).sfc
+0cb7bb0387e0464ec0cfce6355be3511	Donkey Kong Country (USA, Europe) (Rev 2) (Virtual Console, Classic Mini, Switch Online).sfc
 323a37ccba32104beef7ff7dfc7ce894	Donkey Kong Country (USA) (Rev 1).sfc
 2e604bc12fb8f9467765c807c24877fa	Donkey Kong Country (USA) (Rev 2).sfc
 30c5f292ff4cbbfcc00fd8fa96c2de3b	Donkey Kong Country (USA).sfc
-0cb7bb0387e0464ec0cfce6355be3511	Donkey Kong Country (USA, Europe) (Rev 2) (Virtual Console, Classic Mini, Switch Online).sfc
-45e938a3adde7dc91968793d115c8057	Donkey Kong Country - Competition Cartridge (USA).sfc
 61b65de87c7be898f7344e09bad298bf	Donkey Kong Country 2 - Diddy's Kong Quest (Europe) (En,Fr) (Rev 1) (Virtual Console).sfc
 6ff526f388a179ec6eba9907eb8e3254	Donkey Kong Country 2 - Diddy's Kong Quest (Europe) (En,Fr) (Rev 1).sfc
 3a91e7fe961b8ca447a30f80d0a37ebf	Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De) (Rev 1) (Virtual Console).sfc
 2ae8161cb714f2dad38f845674553a4b	Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De) (Rev 1).sfc
 f39d026f5bb47b1e8c72b36dca524849	Donkey Kong Country 2 - Diddy's Kong Quest (Germany) (En,De).sfc
+cfc251c8e59c25916a706e035df1818d	Donkey Kong Country 2 - Diddy's Kong Quest (USA, Europe) (En,Fr) (Rev 1) (Switch Online).sfc
 8ba547e9d87b61d1dde94ad3dd0de664	Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1) (Virtual Console).sfc
 d323e6bb4ccc85fd7b416f58350bc1a2	Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1).sfc
 98458530599b9dff8a7414a7f20b777a	Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr).sfc
-cfc251c8e59c25916a706e035df1818d	Donkey Kong Country 2 - Diddy's Kong Quest (USA, Europe) (En,Fr) (Rev 1) (Switch Online).sfc
 fc3333af2f93d7dd0a4190a01d49a69e	Donkey Kong Country 3 - Dixie Kong's Double Trouble! (Europe) (En,Fr,De).sfc
 120abf304f0c40fe059f6a192ed4f947	Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).sfc
 e5c40a329e355486b6971494687fe41d	Doom (Europe).sfc
@@ -664,7 +675,7 @@ c404ab597eb5db701c2bd503c33ed089	Dorke & Ymp (World) (Aftermarket) (Unl).sfc
 3d311d4f90217f4888ba3b911a3e2fb9	Dorque & Imp (Europe) (Proto) (Palace Level).sfc
 ba1ca53e6bac4a1ddbb62f3ec4485489	Dorque & Imp (Europe) (Proto) (Woods Level).sfc
 663fbb07dcd22c366cf940bbb9a5db85	Dossun! Ganseki Battle (Japan).sfc
-90bd580db8b208798013b373bf1425a6	Dottie - Dreads Nought (World) (v1.1) (Homebrew).sfc
+90bd580db8b208798013b373bf1425a6	Dottie - Dreads Nought (World) (v1.1) (Aftermarket) (Homebrew).sfc
 43adb401c1003499df8665fa2cad3e85	Double Dragon V - The Shadow Falls (Europe).sfc
 306fe638317aee4843fdc8ede55f1c6f	Double Dragon V - The Shadow Falls (USA).sfc
 f48d823cf1c1536910efa30b5bf3be0f	Doukyuusei 2 (Japan) (NP).sfc
@@ -676,6 +687,7 @@ dd6661bd75ad233c0778477ad82e19fc	Dr. Mario (Japan) (En) (NP).sfc
 2f7db74c66532e1ef33a082a90cb8046	Dragon - The Bruce Lee Story (USA) (Beta) (1993-04-23).sfc
 103152554973d6db6e53013eb10c383f	Dragon - The Bruce Lee Story (USA).sfc
 4d0df715906919ab864427884d043d35	Dragon Ball Z - Chomutujeon (Korea).sfc
+6025f7a0a4e6b7fd3059feda38fb8812	Dragon Ball Z - Final Bout (USA) (Pirate).sfc
 ab22f03f34fd2ae041d48f8bc92e8880	Dragon Ball Z - Hyper Dimension (France).sfc
 ed18b3c3b148bcafdbe228e27e89bd2d	Dragon Ball Z - Hyper Dimension (Japan).sfc
 36e1391f0b1f29f16ef5d4eb83c3725b	Dragon Ball Z - La Legende Saien (France).sfc
@@ -722,6 +734,7 @@ a33cd61e05671df8529fbfa70da007d1	Dream T.V. (USA).sfc
 9ebbdcec67c0c01d5a0593d3cf167c9e	DSP2 (World) (Enhancement Chip).bin
 484908d68405d44e2be757b4e1e75d15	DSP3 (Japan) (Enhancement Chip).bin
 f229fda2d7b33c5a218cba28147ab9b8	DSP4 (World) (Enhancement Chip).bin
+0d022b3d8558307ff2ba75ff489c7cc0	Dual Orb - Seirei Tama Densetsu (Japan) (Beta) (1992-11-25).sfc
 ba4b6f2c3195df69497f1f32fe697746	Dual Orb - Seirei Tama Densetsu (Japan).sfc
 eb42510c01054711bcf04346aba7ed2f	Dual Orb II (Japan).sfc
 94446e742f5fefd2905c70a2a891b2dc	Duel, The - Test Drive II (Europe).sfc
@@ -736,10 +749,10 @@ b4377bce46a521b566e2f0df5aaa9009	Dynamaite - The Las Vegas (Japan).sfc
 2a41d00e04f6b3d785320867ed63f351	Dynamic Stadium (Japan).sfc
 2ffd5027d32f0ec5326981ee1be1ca32	E.V.O. - Search for Eden (USA).sfc
 769b3b85a3f6ede9c0ab962e39c45c89	Earth Defense Force (Europe).sfc
-c0e5d653d0bec492117fa4f53cfcb619	Earth Defense Force (USA).sfc
 d5668ebe58af9aa9b9341c1f893494a7	Earth Defense Force (USA, Europe) (Switch Online).sfc
-bcb80442d8e9da39b0d9bc2e7559b40d	Earth Light (Japan).sfc
+c0e5d653d0bec492117fa4f53cfcb619	Earth Defense Force (USA).sfc
 54b010daff0d9bf1dae091d7dc75c383	Earth Light - Luna Strike (Japan).sfc
+bcb80442d8e9da39b0d9bc2e7559b40d	Earth Light (Japan).sfc
 84d6d2e3806efee14da8fec46fd0cf69	EarthBound (USA) (Beta).sfc
 a864b2e5c141d2dec1c4cbed75a42a85	EarthBound (USA).sfc
 5c94254c9541e600c1c4cdf254e7cbaf	Earthworm Jim (Europe) (Beta) (1994-08-04).sfc
@@ -756,6 +769,7 @@ c3ff5fd4e3f46653fec94ba60d70281d	Earthworm Jim 2 (USA).sfc
 af7367f02a1aaff00816b7a833e59624	Eek! The Cat (Europe).sfc
 93051005958b352dd3ebd2d0545df15e	Eek! The Cat (USA).sfc
 50de817422dec36b9266cc6aacf9e44e	Eien no Filerna (Japan).sfc
+54bb87e2c87e0eaa873ece5c9f9de93f	Elfaria - The Isle of the Blest (Japan) (Beta).sfc
 61c0652bf7d3b21735da9263849d0d4f	Elfaria - The Isle of the Blest (Japan).sfc
 b240ad406aea9c7aab9728372fa525f4	Elfaria II - The Quest of the Meld (Japan).sfc
 4db096b5d157e41b5d26acb6e6cf8420	Elite Soccer (USA).sfc
@@ -786,23 +800,23 @@ a395a6664a1a0579d1cde0f16fe8ed49	Estpolis Denki (Japan).sfc
 57b9fca31cfd1d27061f7890da3b7ee6	Euro Football Champ (Europe).sfc
 705e98147e6be59263fdb5dcc517286b	Europe Sensen (Japan).sfc
 3d5a692ea10331173f55d68e029aa5b2	Exertainment Mountain Bike Rally (USA).sfc
-8618fe6cded4580b438887de8e3e4407	Exertainment Mountain Bike Rally + Speed Racer (Europe) (En,Fr,De,Es,Nl) (Proto).sfc
+8618fe6cded4580b438887de8e3e4407	Exertainment Mountain Bike Rally + Speed Racer (Europe) (En,Fr,De,Es,Nl).sfc
 9b3a17d9e27b10d15aab32cf7b8c82a7	Exertainment Mountain Bike Rally + Speed Racer (USA).sfc
 4e0b85bc923d71205c903f7e2ec5c7ed	Exhaust Heat (Europe).sfc
 c54c7d62548698620e779aeaabf1a164	Exhaust Heat (Japan) (En).sfc
 9b0dffe0222a9b7b7c8dcb98cc8ca058	Exhaust Heat II - F1 Driver e no Michi (Japan).sfc
 fdd79a12745f3ac260e54c5e5fe98803	Extra Innings (USA).sfc
 07d338443b79fb245ded023bafbde699	Eye of the Beholder (Japan).sfc
-a36bf7f4daabcc33117652056e160777	F-1 Grand Prix (Japan).sfc
 81e9351fb973347eda644ec5a30b1a1e	F-1 Grand Prix - Part II (Japan).sfc
 a803e42b34fb1a76731c2df802c88ba6	F-1 Grand Prix - Part III (Japan).sfc
+a36bf7f4daabcc33117652056e160777	F-1 Grand Prix (Japan).sfc
 ec79afdcc3b7b87115b5216e1eb4a2d8	F-15 Super Strike Eagle (Japan) (En).sfc
 13808b9b12b0627f7f1e29c6cb303911	F-Zero (Europe).sfc
 9e2ee711c8faddcb2eb4ac2d63e18b5f	F-Zero (Japan) (En) (Virtual Console, Switch Online).sfc
 2656d9781a90440e2c5be39f512a80c4	F-Zero (Japan) (En).sfc
+2083a0e260b052ddca7a5d4382a9ca0d	F-Zero (USA, Europe) (Virtual Console, Classic Mini, Switch Online).sfc
 293fbca5dcd811d206e8de49ad54a8e4	F-Zero (USA) (Beta) (1991-05-13).sfc
 6f334790120e1fe1a972ff184d2cfc50	F-Zero (USA).sfc
-2083a0e260b052ddca7a5d4382a9ca0d	F-Zero (USA, Europe) (Virtual Console, Classic Mini, Switch Online).sfc
 3a813107c0b95a2ea503bd1bd928bac9	F1 Pole Position (Europe).sfc
 e67baf8c1f2875ae82eba5eb99b790ba	F1 Pole Position (USA) (Beta).sfc
 f5d6de2eee13052edf75d9ac84f9b537	F1 Pole Position (USA).sfc
@@ -844,23 +858,23 @@ ad986d7bcf92de548441e03fc60b4ee7	FIFA International Soccer (USA).sfc
 ee9652bef0f7930ba02ec06028dd5bd2	FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).sfc
 8b3448cce7440268d34fa7b4c46c5966	FIFA Soccer 96 (USA) (En,Fr,De,Es,It,Sv).sfc
 c4b3ea8ce3780425ef7d8ce2f5951400	FIFA Soccer 97 (USA) (En,Fr,De,Es,It,Sv).sfc
+6c3bf666a198666b3632f2786d5e5ce0	Fighter's History - Mizoguchi Kikiippatsu!! (Japan).sfc
 cc9bab1cdbd27348cb591c3b88bafcc6	Fighter's History (Japan).sfc
 d356548ba230a119ed41ea3a4272cddc	Fighter's History (USA) (Beta).sfc
 4181e243ae146d471dc5c292dce772ac	Fighter's History (USA) (Rev 1).sfc
-6c3bf666a198666b3632f2786d5e5ce0	Fighter's History - Mizoguchi Kikiippatsu!! (Japan).sfc
 9da7ca59e6ab1215c704a968945975ef	Fighting Baseball (Japan).sfc
 f7faeae5a847c098d677070920769ca2	Final Fantasy - Mystic Quest (USA) (Rev 1).sfc
 da08f0559fade06f37d5fdf1b6a6d92e	Final Fantasy - Mystic Quest (USA).sfc
+6ee1bfa6ac945590197c3925ee94b8dd	Final Fantasy II (USA, Europe) (Rev 1) (Virtual Console).sfc
 27d02a4f03e172e029c9b82ac3db79f7	Final Fantasy II (USA) (Rev 1).sfc
 4fa9e542b954dcb954d5ce38188d9d41	Final Fantasy II (USA).sfc
-6ee1bfa6ac945590197c3925ee94b8dd	Final Fantasy II (USA, Europe) (Rev 1) (Virtual Console).sfc
 7eb6d69d33148336896d43d11ea25036	Final Fantasy III (USA) (Beta).sfc
 544311e104805e926083acf29ec664da	Final Fantasy III (USA) (Rev 1).sfc
 e986575b98300f721ce27c180264d890	Final Fantasy III (USA).sfc
+87ad91e3000895ba53956b3bd021717d	Final Fantasy IV - Easy Type (Japan).sfc
 ed88ce12ed821bb91f5e1626eff0ce58	Final Fantasy IV (Japan) (Rev 1) (Virtual Console).sfc
 a2959ad8c1ff5f2719264ab4c7e40464	Final Fantasy IV (Japan) (Rev 1).sfc
 5cdc56ba9f5f23e412af09f11ed47f83	Final Fantasy IV (Japan).sfc
-87ad91e3000895ba53956b3bd021717d	Final Fantasy IV - Easy Type (Japan).sfc
 5164060bd3350d7a6325ec8ae80bba54	Final Fantasy USA - Mystic Quest (Japan).sfc
 d69b2115e17d1cf2cb3590d3f75febb9	Final Fantasy V (Japan).sfc
 97bf78e916b80f47cf35edf502be34dc	Final Fantasy VI (Japan).sfc
@@ -911,18 +925,18 @@ e5400fd97a513b5a42f815a1715750d4	First Samurai (Europe) (Beta).sfc
 8a72b499041f58ee065d314f445a67a3	First Samurai (USA).sfc
 7648be5380826fe30d1dd705020cc74b	First Samurai (World) (Aftermarket) (Unl).sfc
 43b714dd30b5bc6a6aabf1991ad36835	Fishing Koushien (Japan).sfc
-32ce7610b08259d637e9aa62a4858599	Flashback (Europe) (En,Fr) (Beta).sfc
-49930c477f99a4fe1e30151c9abad663	Flashback (Europe) (En,Fr,De).sfc
-b41c0120bf96051d2a3ca3502a7d9823	Flashback (Japan).sfc
 1321b154c39e894ffb25ecbe13455544	Flashback - The Quest for Identity (USA) (En,Fr,De).sfc
-3865edfc31b72c287dc202a404b381c0	Flintstones, The (Europe) (En,Fr,De,Es,It) (Beta).sfc
-5bff107357bede12a3d2d4d2ca9b7488	Flintstones, The (Europe) (En,Fr,De,Es,It).sfc
-9fcbfd8b72b9a2d1a25916bb443be657	Flintstones, The (USA) (Beta).sfc
-c012d50635485789b5a31b1fa0d51af6	Flintstones, The (USA) (En,Fr,De,Es,It).sfc
+49930c477f99a4fe1e30151c9abad663	Flashback (Europe) (En,Fr,De).sfc
+32ce7610b08259d637e9aa62a4858599	Flashback (Europe) (En,Fr) (Beta).sfc
+b41c0120bf96051d2a3ca3502a7d9823	Flashback (Japan).sfc
 4af381c7fc97fe63feb5b005efb53b76	Flintstones, The - The Treasure of Sierra Madrock (Europe).sfc
 1f4035249a43573f3b65a6fd0d047c35	Flintstones, The - The Treasure of Sierra Madrock (Japan).sfc
 cea8f212e29993220e570977fea07e24	Flintstones, The - The Treasure of Sierra Madrock (USA) (Beta).sfc
 c7db2a255421554ba940099caad060ee	Flintstones, The - The Treasure of Sierra Madrock (USA).sfc
+3865edfc31b72c287dc202a404b381c0	Flintstones, The (Europe) (En,Fr,De,Es,It) (Beta).sfc
+5bff107357bede12a3d2d4d2ca9b7488	Flintstones, The (Europe) (En,Fr,De,Es,It).sfc
+9fcbfd8b72b9a2d1a25916bb443be657	Flintstones, The (USA) (Beta).sfc
+c012d50635485789b5a31b1fa0d51af6	Flintstones, The (USA) (En,Fr,De,Es,It).sfc
 150f83e84f913230b8d1f2230e72b041	Flying Hero - Bugyuru no Daibouken (Japan).sfc
 c16cd8a812807a036e02623e8a2351c9	Football Fury (USA).sfc
 b92066b5a3bf1504836aac5ffa3421f2	Foreman for Real (Europe).sfc
@@ -938,7 +952,7 @@ cea1c1f391252d67bee0934b07c87267	Fortune Quest - Dice o Korogase (Japan).sfc
 0eff399b3e236585c9d962e2ab8433ce	Frantic Flea (USA).sfc
 b51604def7401af4b71cbaa501b2f00e	Frogger (USA).sfc
 665fc614ef687fd2158e738cc1fd710d	From TV Animation Slam Dunk - SD Heat Up!! (Japan).sfc
-4716bcc084df44fe01fbfc1222bd5c95	From TV Animation Slam Dunk - Shuueisha Limited (Japan) (Possible Proto).sfc
+4716bcc084df44fe01fbfc1222bd5c95	From TV Animation Slam Dunk - Shuueisha Limited (Japan).sfc
 f91a1a1acc01d35779c0225b2fa947a4	From TV Animation Slam Dunk - Yonkyou Gekitotsu!! (Japan) (Rev 1).sfc
 26ac79c18c80beddf753ccfea16393c3	From TV Animation Slam Dunk - Yonkyou Gekitotsu!! (Japan).sfc
 a2a7611e27201748883626b0cae094e6	From TV Animation Slam Dunk 2 - IH Yosen Kanzen Ban!! (Japan).sfc
@@ -996,14 +1010,15 @@ c82666233f216db472c77f8fd611da6b	Gangan Gan-chan (Japan).sfc
 c79ca7c76d169fd42524fa7dba2317f7	Ganpuru - Gunman's Proof (Japan).sfc
 7752eaa11f5b8b63c42c8b38e6611181	Ganso Pachi-Slot Nihonichi (Japan).sfc
 5d449f0cd4402138466476b0882398a6	Ganso Pachinko Ou (Japan).sfc
+ad4d6c817077fcbd2cb64218b17c5b89	Gargoyles (USA) (Proto) (1994-07-19).sfc
 921f3b70f4d61b8f30e470c684d66015	Garou Densetsu - Shukumei no Tatakai (Japan) (Rev 1).sfc
 5e6e7690741a306a76287a99bdf98f12	Garou Densetsu - Shukumei no Tatakai (Japan).sfc
 490d3d56d05eabfb38c6ed3954efc272	Garou Densetsu 2 - Aratanaru Tatakai (Japan) (Rev 1).sfc
 792da145e618a034de1a4caf4ee2e612	Garou Densetsu 2 - Aratanaru Tatakai (Japan).sfc
 906a3da585415529b20bd0708fd91486	Garou Densetsu Special (Japan).sfc
-603dfc96eb23f6f07f01cf03d210d252	Garry Kitchen's Super Battletank (Europe).sfc
 7bf610f0e0f5a6867696424715853fcb	Garry Kitchen's Super Battletank - War in the Gulf (USA) (Rev 1).sfc
 87b3518e0e3a15655d2d8d4cba0bdf9a	Garry Kitchen's Super Battletank - War in the Gulf (USA).sfc
+603dfc96eb23f6f07f01cf03d210d252	Garry Kitchen's Super Battletank (Europe).sfc
 06c360e481287d9b79b2abc9fc7fa713	Gdleen (Japan) (Rev 1).sfc
 8ceb98c7faa02fe0e254dc11689c32d6	Gdleen (Japan).sfc
 8d3cda486dc901ebc546c57513131323	Gegege no Kitarou - Fukkatsu! Tenma Daiou (Japan).sfc
@@ -1056,10 +1071,10 @@ bb6a1198e291c8ae58e9581a4296ed4d	Goof Troop (USA).sfc
 b29ea2c67d6ecabf99c22829058f710b	Gourmet Sentai Barayarou (Japan).sfc
 28a00d931075150c46a1129e5cdea922	Gourmet Warriors (USA) (Aftermarket) (Unl).sfc
 feeb6110b7bb3040fe542cf2a2104555	Gousou Jinrai Densetsu - Musha (Japan).sfc
+f7c3b2a7b3b386ad908c2a3169176400	GP-1 - Part II (USA).sfc
 a9eb00d00a4e94d79baf284c780241bb	GP-1 (Europe).sfc
 3f110d28949c912994cf925a3f5ea327	GP-1 (Japan) (En).sfc
 757036faf4f3403a88c7ac1191ad5e47	GP-1 (USA).sfc
-f7c3b2a7b3b386ad908c2a3169176400	GP-1 - Part II (USA).sfc
 85f1f77fc5b350f228370ff94419d8a9	GP-1 RS - Rapid Stream (Japan) (En).sfc
 059c8d6b72d95edb9fc619bee864ef3e	Gradius III (Japan) (En).sfc
 ea30c4f341f6b7a6e290699460ba6c51	Gradius III (USA).sfc
@@ -1078,21 +1093,21 @@ a4d68c20ac1567834403cde9d590357f	Great Circus Mystery Starring Mickey & Minnie, 
 65c83da1d740214a3b663c369033a36d	Great Waldo Search, The (USA).sfc
 388cffcebcd3155cae2f2c5cec1f92c1	GS Mikami - Joreishi wa Nice Body (Japan).sfc
 d6d788471b2be53629aa257686893abb	GT Racing (Japan).sfc
+052bba7ae0ffd1dc5796aa7665843cdc	GunForce - Battle Fire Engulfed Terror Island (Europe) (Proto).sfc
 f026a8e4f069513e74895f3e2b627de1	GunForce (Japan) (En).sfc
 c77b2f22f465bcb8fd1e6c779d21f2e1	GunForce (USA).sfc
-052bba7ae0ffd1dc5796aa7665843cdc	GunForce - Battle Fire Engulfed Terror Island (Europe) (Proto).sfc
 6eb52a917882b8782cf5d5860e2299cf	Habu Meijin no Omoshiro Shougi (Japan).sfc
-025890274f11742a8ac765d130739223	Hagane (Japan) (Beta) [b].sfc
-e589bc57614b0f70e833a89c15c2bb09	Hagane (Japan).sfc
 36b0ef888d3e7352eeee792e173426dc	Hagane - The Final Conflict (Europe).sfc
 44cb6bbbb233bc5d602d54fd418232f1	Hagane - The Final Conflict (USA).sfc
+025890274f11742a8ac765d130739223	Hagane (Japan) (Beta) [b].sfc
+e589bc57614b0f70e833a89c15c2bb09	Hagane (Japan).sfc
 e550f158f2ccda961ed0c624341b4228	Haisei Mahjong - Ryouga (Japan).sfc
+cfdbc8777ead69b628263f7d70ff57f4	Hakunetsu Pro Yakyuu - Ganba League (Japan) (Rev 1).sfc
+ad08a1a6a59b98a363b73195aa6e789a	Hakunetsu Pro Yakyuu - Ganba League (Japan).sfc
 159311184b3e6ebb0e63c93108f77137	Hakunetsu Pro Yakyuu '93 - Ganba League (Japan) (Beta).sfc
 c3c8ae410c2802f2ce50941b1f646fa8	Hakunetsu Pro Yakyuu '93 - Ganba League (Japan).sfc
 80d2b8a291ea96c334e5b6d1a74fbb0a	Hakunetsu Pro Yakyuu '94 - Ganba League 3 (Japan) (Beta).sfc
 78dfa978eece514649ac1f16e3024704	Hakunetsu Pro Yakyuu '94 - Ganba League 3 (Japan).sfc
-cfdbc8777ead69b628263f7d70ff57f4	Hakunetsu Pro Yakyuu - Ganba League (Japan) (Rev 1).sfc
-ad08a1a6a59b98a363b73195aa6e789a	Hakunetsu Pro Yakyuu - Ganba League (Japan).sfc
 fac9826d4f59d6c530a705e8db25e2a7	HAL's Hole in One Golf (Europe).sfc
 e64a9a001fc38a9fef507734d2e1aaef	HAL's Hole in One Golf (USA).sfc
 5b042f9443d8338e0eb7e2604f9a3363	Hameln no Violin Hiki (Japan).sfc
@@ -1140,6 +1155,7 @@ e4019884b7e482416c907f474244ccc4	Heiwa Pachinko World 3 (Japan).sfc
 c610614b9528f338c169984b96fcbc0a	Heracles no Eikou III - Kamigami no Chinmoku (Japan).sfc
 4efaa0278129bd61753b15ae6f32b8d6	Heracles no Eikou IV - Kamigami kara no Okurimono (Japan) (Virtual Console).sfc
 f685eaf034d3cf6afea7b6040da2131f	Heracles no Eikou IV - Kamigami kara no Okurimono (Japan).sfc
+ca0b233e0b944c0ecd9d7cf223b74322	Hercules (USA) (Pirate).sfc
 4db71054142a1dbe0d3dcceeb4e5c7bb	Hero Senki - Project Olympus (Japan).sfc
 346926e5b753679b0f149991cad8e095	Hi no Ouji - Yamato Takeru (Japan).sfc
 e87810d478f3175ec97866c3b366490e	Higashio Osamu Kanshuu Super Pro Yakyuu Stadium (Japan).sfc
@@ -1227,6 +1243,7 @@ a9d5368f701016d00003118a9616f1ce	Illusion of Time (Europe).sfc
 da83e132213271fe3107bf4dbac7b939	Illusion of Time (Germany) (Rev 1).sfc
 68e1492bddea04d457d77705c77c74e1	Illusion of Time (Germany).sfc
 faf4d7c79daf445d2ca286d8b2f81cab	Illusion of Time (Spain).sfc
+c2ba60d99413cf97b0b1530e5d506820	Illvanian no Shiro (Japan) (Beta) (1994-08-23).sfc
 3431098aee5ccbb4586a9627a38b6299	Illvanian no Shiro (Japan).sfc
 5def1a9cdcf4fa129364fe5d2c13e2c3	Imperium (USA) (Beta).sfc
 c98c3f1b998dfbe2fa17fbc7e69834c9	Imperium (USA).sfc
@@ -1256,9 +1273,9 @@ fdde87998de6c0df925fafeb39f4d2d9	International Superstar Soccer Deluxe (Europe) 
 0a481dbde3f3e633c30b77e4ef059ef4	Ippatsu Gyakuten (Japan).sfc
 a914951bdb5ff0daa55ffa91f14d8c6a	Irem Skins Game, The (USA) (Arcade).sfc
 d07c40904845786944d8dac3ec327e3b	Irem Skins Game, The (USA).sfc
+c656e7408b5ef8a774ea8b354bf47779	Iron Commando - Koutetsu no Senshi (Japan).sfc
 2803701e6d526f5695adcb2b93575124	Iron Commando (Europe) (Aftermarket) (Unl).sfc
 8a64df7014c099c8847872d531d6dfcc	Iron Commando (Europe) (Proto).sfc
-c656e7408b5ef8a774ea8b354bf47779	Iron Commando - Koutetsu no Senshi (Japan).sfc
 ae62407336cae6e9e15a20a5b186645d	Isozuri - Ritou Hen (Japan).sfc
 b5300c59ccd975b473d50b973ba89d51	Itadaki Street 2 - Neon Sign wa Barairo ni (Japan) (Beta) (1993-12-20).sfc
 c4a1a27f58f87786d403a8d133593957	Itadaki Street 2 - Neon Sign wa Barairo ni (Japan).sfc
@@ -1302,28 +1319,28 @@ d79c675d6b5dfc6f4bc28cd1269dfdfa	Jelly Boy (Europe) (Beta 1).sfc
 09e8e170f60bddfe113554867ac6d950	Jelly Boy (Europe) (Beta 2).sfc
 c6ce4362e71935aa9b9af2820bb5630a	Jelly Boy (Europe).sfc
 9da4e7cb3815962583ae5dea60593d04	Jelly Boy 2 (Japan) (Proto).sfc
-af5aaf6fec949aeab8e2ca1a7de96721	Jeopardy! (USA).sfc
 5f904b8c2c346c3aefbbe7f9781998a9	Jeopardy! - Deluxe Edition (USA).sfc
 80eed41a2ea019ad32cffec4642c217a	Jeopardy! - Sports Edition (USA).sfc
+af5aaf6fec949aeab8e2ca1a7de96721	Jeopardy! (USA).sfc
 f487330132177f2182b17bf6ef617a13	Jerry Boy (Japan).sfc
-3cc707a5072ce9409f788e9fb905cb20	Jet Pilot Rising (Germany) (Homebrew).sfc
-8e36483b61776951834d6738912cdded	Jet Pilot Rising (Germany) (v1.1) (Homebrew).sfc
+3cc707a5072ce9409f788e9fb905cb20	Jet Pilot Rising (Germany) (Aftermarket) (Unl).sfc
+8e36483b61776951834d6738912cdded	Jet Pilot Rising (Germany) (v1.1) (Aftermarket) (Homebrew).sfc
 76d93ffebb00ddaf4cf23222ab28b962	Jetsons, The - Invasion of the Planet Pirates (USA).sfc
 3f54273940292e55c4b07317c4694c68	Jigsaw Party (Japan) (Beta) (1994-03-25).sfc
 52e1cb037d122b5651fc514e1c233fdb	Jigsaw Party (Japan).sfc
 83bff16d6c17f3e965e40bb56af80a90	Jikkyou Oshaberi Parodius (Japan).sfc
 1eab10a5ce91e2e27e407d949c28b032	Jikkyou Power Pro Wrestling '96 - Max Voltage (Japan).sfc
+5bdb362294085f3dc1ccda98f78edc37	Jikkyou Powerful Pro Yakyuu - Basic Ban '98 (Japan).sfc
 899897245590a8f4ec212ecb7d3d6d91	Jikkyou Powerful Pro Yakyuu '94 (Japan).sfc
 153e3a8a9dd84edc8f6c780f553291c7	Jikkyou Powerful Pro Yakyuu '96 - Kaimaku Ban (Japan) (Rev 1).sfc
 e2b12838cf7167bd108be550faec0780	Jikkyou Powerful Pro Yakyuu '96 - Kaimaku Ban (Japan).sfc
-5bdb362294085f3dc1ccda98f78edc37	Jikkyou Powerful Pro Yakyuu - Basic Ban '98 (Japan).sfc
 763aa15211f03419942e7a230ae051b1	Jikkyou Powerful Pro Yakyuu 2 (Japan) (Rev 1).sfc
 cc7ef53c1f25407fee6dc9f8d700ac67	Jikkyou Powerful Pro Yakyuu 2 (Japan) (Rev 2).sfc
 4e5c42e249462bb673b7d90ac010d38e	Jikkyou Powerful Pro Yakyuu 2 (Japan).sfc
-7c577622fbab0271ef7ed2d3372ebe8b	Jikkyou Powerful Pro Yakyuu 3 (Japan) (Rev 1).sfc
-aec592d80c6b11fc4852c3dfc919684f	Jikkyou Powerful Pro Yakyuu 3 (Japan).sfc
 99081cf4446c794f36d37d22893856dc	Jikkyou Powerful Pro Yakyuu 3 - '97 Haru (Japan) (Rev 1).sfc
 f76efaa6d87216e1d4d7d14651945a5b	Jikkyou Powerful Pro Yakyuu 3 - '97 Haru (Japan).sfc
+7c577622fbab0271ef7ed2d3372ebe8b	Jikkyou Powerful Pro Yakyuu 3 (Japan) (Rev 1).sfc
+aec592d80c6b11fc4852c3dfc919684f	Jikkyou Powerful Pro Yakyuu 3 (Japan).sfc
 b24eed23afede94fc1ecaced9f5b9b36	Jikkyou World Soccer - Perfect Eleven (Japan) (Rev 1).sfc
 88e7c70cd7846bdfe87c3ab9f51cb8d5	Jikkyou World Soccer - Perfect Eleven (Japan).sfc
 b4a9fdbe7cffa3e10e4ffa98df278361	Jikkyou World Soccer 2 - Fighting Eleven (Japan) (Beta).sfc
@@ -1352,10 +1369,11 @@ aeeb57cc70daa17cb12fa094fffe66e3	Jissen! Pachi-Slot Hisshouhou! (Japan).sfc
 228fe35c32bbe92344bf973e51fce958	Jissen! Pachi-Slot Hisshouhou! 2 (Japan).sfc
 a055a68ac785fbe3b562ea0a29ea0c0d	Jissen! Pachi-Slot Hisshouhou! Classic (Japan).sfc
 8d0a9df2feef455eda5795e1258b58d3	Jissen! Pachi-Slot Hisshouhou! Yamasa Densetsu (Japan).sfc
-cc902de2efa54df4d2c27acd7f4a6bf4	Joe & Mac (USA).sfc
 ffc2b7ad2127e8cd84a9b732e877626f	Joe & Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl) (Beta).sfc
 dca9b3fcc00e3f7b1868c4207dabec7b	Joe & Mac - Caveman Ninja (Europe) (En,Fr,De,Es,It,Nl).sfc
 332535d792c3eb3b5c865d3d96587b6e	Joe & Mac - Tatakae Genshijin (Japan).sfc
+b916f65355a15eccd0012d4b568e4ae5	Joe & Mac - Ultimate Caveman Collection (Europe) (Aftermarket) (Unl).sfc
+cc902de2efa54df4d2c27acd7f4a6bf4	Joe & Mac (USA).sfc
 28a61b29e526c1fe12c253bd5bc17148	Joe & Mac 2 - Lost in the Tropics (USA) (Beta 1).sfc
 7f620bc16a2d0f56c5b126c9fbf516ae	Joe & Mac 2 - Lost in the Tropics (USA) (Beta 2).sfc
 1e5fa71516afa912e0db1dd6ff07d2bc	Joe & Mac 2 - Lost in the Tropics (USA).sfc
@@ -1367,11 +1385,11 @@ f76242bd88a5e669e765308961791f70	John Madden Football '93 (USA).sfc
 2171fdda7427a13be73a72e3c95b0ef5	John Madden Football (USA).sfc
 cd17d26a8c27b57e0a50043a686923b4	JoJo no Kimyou na Bouken (Japan).sfc
 a859f13ed1a497e34f94d80e49861fa4	Joushou Mahjong Tenpai (Japan).sfc
+f8e661954bf8f574d4a4c9944452c197	JRA PAT - Wide Taiouban (Japan) (TJDJ).sfc
+5595a1051d085f7d88713b625b5111f0	JRA PAT - Wide Taiouban (Japan) (TJEJ).sfc
 597a48aa0a7b0a27e8da856dc4c4e772	JRA PAT (Japan) (TJAJ).sfc
 25a90e6090de6309beb46c330a1ce8d4	JRA PAT (Japan) (TJBJ).sfc
 604824109beef87781fcacd68c024eea	JRA PAT (Japan) (TJCJ).sfc
-f8e661954bf8f574d4a4c9944452c197	JRA PAT - Wide Taiouban (Japan) (TJDJ).sfc
-5595a1051d085f7d88713b625b5111f0	JRA PAT - Wide Taiouban (Japan) (TJEJ).sfc
 b4d347a526c7839bb8136b6c5ffd868c	Judge Dredd (Europe).sfc
 afe686fecff3888e2fc9dd22e0cb37db	Judge Dredd (Japan) (En).sfc
 40ae099f8a4eb6024f53dd79fc412c0a	Judge Dredd (USA) (Sample).sfc
@@ -1384,9 +1402,9 @@ ec8bb481b2625e63191f069851de064d	Jungle Book, The (USA) (Beta).sfc
 cf539bef183bcb97c192562bb1cb29ec	Jungle Book, The (USA).sfc
 342847114beba981a83746a8c1aedb29	Jungle Book, The (World) (Disney Classic Games).sfc
 bd9dbcd497764d2bd56992c698351d63	Jungle no Ouja Tar-chan - Sekaimanyuu Daikakutou no Maki (Japan).sfc
+258ea18705ce692e28289346f4993598	Jungle Strike - Uketsugareta Kyouki (Japan).sfc
 555b87d479701e22a3f88e4969b5c877	Jungle Strike (Europe).sfc
 ff1044ad900a70dc2fd91abdd67ce1c6	Jungle Strike (USA).sfc
-258ea18705ce692e28289346f4993598	Jungle Strike - Uketsugareta Kyouki (Japan).sfc
 eb00d4ddcdca32644c2058ff2c71b81b	Jungle Wars 2 - Kodai Mahou Atimos no Nazo (Japan).sfc
 6bff17d84112631c53badcdcba956142	Jurassic Park (Europe) (Beta).sfc
 fa583b9d1a2dcc270a8fc91259b89c96	Jurassic Park (Europe).sfc
@@ -1443,6 +1461,8 @@ d3598c2a13c17b9a376d2ea7918780ac	Kentou Ou World Champion (Japan).sfc
 3ccb28a1fb565d47ad3b2cf83952fbbc	Kenyuu Densetsu Yaiba (Japan) (Beta).sfc
 4e09584e02a88dccb7475831e7890511	Kenyuu Densetsu Yaiba (Japan).sfc
 bc88756cccb0feef741b62c6f9327533	Kero Kero Keroppi no Bouken Nikki - Nemureru Mori no Keroleen (Japan).sfc
+f18637f5e4c4875b38fc7ff344273460	Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (Beta) (v.07.315).sfc
+fd570a8fcedab210e0008cee73f6a1c2	Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan) (Beta) (v.07.431).sfc
 b802169e9dbd17c9e04b5872135d56eb	Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan).sfc
 8ec6295e97fcefe45b6e045e1281c692	Kevin Keegan's Player Manager (Europe) (Sample).sfc
 1c0d34fbc486fc9b9248b2bcfa02e962	Kevin Keegan's Player Manager (Europe).sfc
@@ -1451,6 +1471,7 @@ b802169e9dbd17c9e04b5872135d56eb	Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-
 211e9589db9c1c007771e25bab81198c	Kick Off 3 - European Challenge (Europe) (En,Fr,De,Es,It).sfc
 5a89fb48e20603ca989a8b8bee4c5299	Kid Klown in Crazy Chase (Europe).sfc
 441c07273d2ae4baa262af1e88cbc224	Kid Klown in Crazy Chase (USA) (Beta) (1994-06-13).sfc
+2c9f3754c124e881b32de86fd6791712	Kid Klown in Crazy Chase (USA) (Beta) (Earlier).sfc
 572fd9201f8c000abd16c4c84d9ddf98	Kid Klown in Crazy Chase (USA).sfc
 4af3a97b0e9742e7aad202cd2e33bdad	Kid Klown no Crazy Chase (Japan).sfc
 b226578d92e09d16a08f49a8adcb4953	Kidou Butouden G Gundam (Japan).sfc
@@ -1480,14 +1501,15 @@ d91618ae13a2272fab67296d72dc69d5	Kindai Mahjong Special (Japan).sfc
 11f55eea6b817c9ccfb6151f8c707c7e	King of Dragons (Europe).sfc
 1ca6d04fce9ffde7de781398a18da88c	King of Dragons (USA).sfc
 d1e78775d72e96fb3404566d2871a795	King of Dragons, The (Japan).sfc
-4546f1ae84cebdafc86b9487d01d319e	King of Fighters 2000, The (World) (Pirate).sfc
+7769f94a6393c023c4e9c25328acd294	King of Fighters '98, The (USA) (Pirate).sfc
+4546f1ae84cebdafc86b9487d01d319e	King of Fighters 2000, The (USA) (Pirate).sfc
 8077bfad626c2fa6c98dd7c5f9d63590	King of Rally, The - Paris-Moscow-Beijing (Japan).sfc
 5cd22310c303a7440a3f456d91ee8fc2	King of the Monsters (Europe).sfc
 014ddd12b6bd169038cfec3c81c4684c	King of the Monsters (Japan).sfc
 0114bcf4facaa50808d665185f427d75	King of the Monsters (USA).sfc
+46829f5c062db231731ee33258c54ded	King of the Monsters 2 - Next Thing (Japan).sfc
 4a1012a7338e303d0b7cf5092fb82341	King of the Monsters 2 (USA) (Beta).sfc
 6682d57546fa6cb29109f76645d7c93c	King of the Monsters 2 (USA).sfc
-46829f5c062db231731ee33258c54ded	King of the Monsters 2 - Next Thing (Japan).sfc
 36a901ef2e35b960bd475de115f87e98	Kingyo Chuuihou! - Tobidase! Game Gakuen (Japan).sfc
 0d88029cc15252b3a8c91ff99a44c796	Kinnikuman - Dirty Challenger (Japan).sfc
 2219c6ae18e4a3ccb419336fc692f61e	Kirby Bowl (Japan) (Virtual Console, Switch Online).sfc
@@ -1497,8 +1519,8 @@ cb76ea8ac989e71210c89102d91c6c57	Kirby Super Star (USA).sfc
 bddd943215857ad77ea48d2a1a138ec8	Kirby's Avalanche (USA).sfc
 19210650d363b30fb11c0a679826a619	Kirby's Dream Course (Europe) (Virtual Console).sfc
 b757f3031fb7698925cf9eb8d3b343a1	Kirby's Dream Course (Europe).sfc
-3f2ee922cd23c9c211777be1d26ea2a8	Kirby's Dream Course (USA).sfc
 fcca9e2e13c959075badb1e8f6ddff46	Kirby's Dream Course (USA, Europe) (Virtual Console, Switch Online).sfc
+3f2ee922cd23c9c211777be1d26ea2a8	Kirby's Dream Course (USA).sfc
 201e7658f6194458a3869dde36bf8ec2	Kirby's Dream Land 3 (USA).sfc
 88d635f8181ef5155cc34498584620a6	Kirby's Fun Pak (Europe).sfc
 e872aaa6d946118a1a65aa7df08dc3f6	Kirby's Ghost Trap (Europe).sfc
@@ -1528,9 +1550,10 @@ e25986058e67ad699032d62cb1633f05	Koutetsu no Kishi 3 - Gekitotsu Europe Sensen (
 9c4bf518b07a2914e1e12794289eb264	Krusty's Super Fun House (Europe).sfc
 1b977c1e3af2666a1d348cc0b9cc4a94	Krusty's Super Fun House (USA) (Rev 1).sfc
 46c90dcb8efc0e1c89bcdcdb969146f3	Krusty's Super Fun House (USA).sfc
+261cb5f831063670936713945e377626	Kunio no Oden (Japan) (Beta).sfc
 8a07445ca86a337d8eed7d7faa3cb375	Kunio no Oden (Japan).sfc
-569936c3595514a594fe4f13d8bef24a	Kunio-kun no Dodge Ball Da yo Zenin Shuugou! (Japan).sfc
 75efa03e7275357a0979c91ab2aaa4c0	Kunio-kun no Dodge Ball Da yo Zenin Shuugou! - Tournament Special (Japan).sfc
+569936c3595514a594fe4f13d8bef24a	Kunio-kun no Dodge Ball Da yo Zenin Shuugou! (Japan).sfc
 26be7c4b848871ea38fafcf0bd4980e0	Kuusou Kagaku Sekai Gulliver Boy (Japan).sfc
 aba471475bfce2021e948a7d4950b744	Kyle Petty's No Fear Racing (USA).sfc
 8c3ca42a82f451dfecd591bc907f4fdf	Kyuuyaku Megami Tensei (Japan) (Rev 1).sfc
@@ -1551,8 +1574,10 @@ d7b05e982c6c881dc62931e5184770a0	Larry Nixon's Super Bass Fishing (Japan).sfc
 9fc9439aec3b423a65d4d971b3c5db4d	Las Vegas Dream in Golden Paradise (Japan).sfc
 d808e9e8d2577d6088a78bfb5484eb18	Last Action Hero (Europe).sfc
 2c22830019d300eef94e52a31f7b9a4a	Last Action Hero (USA).sfc
+e3cdff850beb3d9afc19a0dd89f28133	Last Battle, The (Japan) (Beta).sfc
 3c9f29d6e1c457156005f90bd9ea2b10	Last Battle, The (Japan).sfc
 4c836f4924544f8160dab3260f43a732	Last Bible III (Japan).sfc
+8c46213970ef6c38d34774c6381fa9d6	Last Super, The (World) (Aftermarket) (Homebrew).sfc
 c8a0016e08b1f233e19fd128bf375c44	Lawnmower Man, The (Europe).sfc
 e9d94867a730023d5d2288d8c17662b4	Lawnmower Man, The (USA) (Beta).sfc
 c72a0d2030b6b9cdfe94d64b75753dd7	Lawnmower Man, The (USA).sfc
@@ -1572,8 +1597,8 @@ bf6da6f13729c8925d8725d7dd25b420	Legend of the Mystical Ninja, The (USA).sfc
 ecfb3bd489a15cdda12066100bde0378	Legend of Zelda, The - A Link to the Past (Europe).sfc
 3f3730f9bfb6ab74085801af16b155a9	Legend of Zelda, The - A Link to the Past (France).sfc
 9bcd78c38f4d999087718881703b3e9b	Legend of Zelda, The - A Link to the Past (Germany).sfc
-608c22b8ff930c62dc2de54bcd6eba72	Legend of Zelda, The - A Link to the Past (USA).sfc
 863cf13d990b1d39229ad11e21ba9991	Legend of Zelda, The - A Link to the Past (USA, Europe) (Switch Online).sfc
+608c22b8ff930c62dc2de54bcd6eba72	Legend of Zelda, The - A Link to the Past (USA).sfc
 a702074d3315bbc5081eccba932ecad1	Lemmings (Europe).sfc
 aff500ae36d63bb253fd36e8300cc812	Lemmings (Japan) (En).sfc
 ecf0db12f88db32c4a129ff11af7f73d	Lemmings (USA) (Rev 1).sfc
@@ -1607,9 +1632,11 @@ fd2f923abb68e32350694ec5ae159289	Little Magic (Japan) (Beta).sfc
 0c0fe140c1851b2d80148118f1de9b02	Little Magic (Japan).sfc
 d828dd07de76e76b8bdd8360caa5c16d	Little Master - Nijiiro no Maseki (Japan) (Beta).sfc
 74b01cb4ec81821ee254d2f2e9025d47	Little Master - Nijiiro no Maseki (Japan).sfc
-60837e8dc8b01f36c1277c194d4b9cab	Little Medusa (World) (Aftermarket) (Unl).sfc
-44d7aa6f5ba91ae1287ef3c4a568d62b	Little Medusa (World) (Demo) (Aftermarket) (Unl).sfc
+60837e8dc8b01f36c1277c194d4b9cab	Little Medusa (USA) (Aftermarket) (Unl).sfc
+44d7aa6f5ba91ae1287ef3c4a568d62b	Little Medusa (USA) (Demo) (Aftermarket) (Unl).sfc
 c223de99d22665b62c91e02727963bd4	Live A Live (Japan).sfc
+057dbfc351fd75796739f00f607a9747	Lizard (World) (Aftermarket) (Unl).sfc
+944f07912de7e2905c37bc6d4fb506f7	Lizard (World) (Demo) (Aftermarket) (Unl).sfc
 a3705f0c8e23167994c72e6a411d75dd	Lobo (USA) (Proto).sfc
 76a5cf0ba713446cbec55d072e20528b	Lock On (USA).sfc
 d03a4aad95c75a133564fe754ceed39b	Lode Runner Twin - Justy to Liberty no Daibouken (Japan).sfc
@@ -1635,12 +1662,12 @@ a1d071360d38456e26849e2742d9ae72	Lost Vikings, The (USA) (Beta 1).sfc
 afc11b5034b065ce866db40ec1eb5a1f	Love Quest (Japan).sfc
 c783d867a5c2d91cec4884429b5c606e	Lucky Luke (Europe) (En,Fr,De,Es) (Beta).sfc
 466940840196f36a855668fcf84fb94b	Lucky Luke (Europe) (En,Fr,De,Es).sfc
-306bc6ccc971eafbec70af68d94483d3	Lufia & the Fortress of Doom (USA) (Beta).sfc
-4bbaad6abdfc9f05d2d8dde47df8b15d	Lufia & the Fortress of Doom (USA).sfc
 0be6b99c33cfdcc4f0ca6172afb7683d	Lufia (Europe).sfc
 8607561b2d3175b949ebd899aa12052b	Lufia (Germany).sfc
 e5ba6b230aa1e4986b7cd3906c63b170	Lufia (Netherlands).sfc
 35505a978cf25e99c38806b634ff4bd0	Lufia (Spain).sfc
+306bc6ccc971eafbec70af68d94483d3	Lufia & the Fortress of Doom (USA) (Beta).sfc
+4bbaad6abdfc9f05d2d8dde47df8b15d	Lufia & the Fortress of Doom (USA).sfc
 6efc477d6203ed2b3b9133c1cd9e9c5d	Lufia II - Rise of the Sinistrals (USA).sfc
 e5b0cfce81837d97a215da82cb02a273	Lupin Sansei - Densetsu no Hihou o Oe! (Japan).sfc
 eeccc95c602695265bff04d461b0aedc	MACS Basic Rifle Marksmanship (USA) [b].sfc
@@ -1654,6 +1681,7 @@ f8d8d5d48bb35286ade572fe1e57417c	Madden NFL 96 (USA) (Sample).sfc
 3a361826ad0eb7c4ab3e295aecdd3f64	Madden NFL 98 (USA).sfc
 11b40949b167ee0ed6d7abb9ea32a81f	Madou Monogatari - Hanamaru Daiyouchienji (Japan).sfc
 1fe3a19e5b6c023637930baec6f47ecc	Maerchen Adventure Cotton 100% (Japan).sfc
+29bece2c49679704244a070ebb902a0a	Maerchen Adventure Cotton 100% (USA) (Aftermarket) (Unl).sfc
 311448b02774f68d3e17b65c3dba25d6	Magic Boy (Europe).sfc
 cfadc765f295dc2d27c19ab8a0d230e9	Magic Boy (USA) (Beta) (1993-03-03).sfc
 fd2313f2b0ad28e8de1c6523fa363bd0	Magic Boy (USA).sfc
@@ -1730,6 +1758,7 @@ a911c65ec01afc2a240f28a91f5fafc6	Marvel Super Heroes - War of the Gems (Japan).s
 371801eaa887310336742007a5157175	Marvel Super Heroes - War of the Gems (USA) (Beta).sfc
 4d2a07eda0727b2afec957a3d32741e9	Marvel Super Heroes in War of the Gems (Europe).sfc
 d3c46f884c50f50236639c5f6303eef7	Marvel Super Heroes in War of the Gems (USA).sfc
+37999a9c8f5fbd9e971860de830f50f1	Marvel Super Heroes vs. Street Fighter (USA) (Pirate).sfc
 b9b77e5f378b871ece75caba82718a8e	Marvelous - Mouhitotsu no Takara-jima (Japan).sfc
 7f30127f0b03c2accf5f547757678d8b	Mary Shelley's Frankenstein (USA) (Beta).sfc
 623e2961454d44a07d7d5270ca9d6400	Mary Shelley's Frankenstein (USA).sfc
@@ -1746,8 +1775,8 @@ b02dc604826edef6e4d8e54c7b04e060	Masters New - Harukanaru Augusta 3 (Japan).sfc
 bad5eb75209ce0c3e328766aefee148a	Matsumura Kunihiro Den - Saikyou no Rekishi o Nurikaero! (Japan) (Beta).sfc
 4e42dd304c9d364729a15381b30a6c12	Matsumura Kunihiro Den - Saikyou no Rekishi o Nurikaero! (Japan).sfc
 5ece56f9a92f4c243ae9311b9e1965f0	Maui Mallard in Cold Shadow (USA).sfc
-68dbcea87801c7ebdde961668f5b5ea1	MazezaM (Europe) (v2.1) (Aftermarket) (Homebrew).sfc
-f0d5dbe570dce081a12cb323a244a68c	MazezaM (USA) (v2.1) (Aftermarket) (Homebrew).sfc
+f0d5dbe570dce081a12cb323a244a68c	MazezaM (World) (En,Fr) (v2.1) (NTSC) (Aftermarket) (Homebrew).sfc
+68dbcea87801c7ebdde961668f5b5ea1	MazezaM (World) (En,Fr) (v2.1) (PAL) (Aftermarket) (Homebrew).sfc
 06ade9afea07422b88d9d8c888c9a638	Mazinger Z (Japan) (Beta).sfc
 f0924faefd554e42e9da163ffadd0b07	Mazinger Z (Japan).sfc
 d75f476b1ebf207aa939f7322d53dc36	Mecarobot Golf (USA).sfc
@@ -1761,8 +1790,8 @@ e33ae4fe5c4d2b7a9b23d62686ffa9cd	MechWarrior (USA) (Beta 1).sfc
 71516a3b67963cf91055a6c78566a1ba	MechWarrior (USA).sfc
 b2c93e20065b90873d10949e810da5e5	MechWarrior 3050 (Europe).sfc
 eacf64068aa69a47a82d110f074ff4c6	MechWarrior 3050 (USA).sfc
-c4f00590c3f40736a13739b5785c2ff4	Mega lo Mania (Europe) (En,Fr,De) (Beta).sfc
 34d8995fe25908757ad225b4d7a17581	Mega lo Mania - Jikuu Daisenryaku (Japan).sfc
+c4f00590c3f40736a13739b5785c2ff4	Mega lo Mania (Europe) (En,Fr,De) (Beta).sfc
 c533c4ef3d086acec510a6e3b55b3af3	Mega Man 7 (Europe).sfc
 301d8c4f1b5de2cd10b68686b17b281a	Mega Man 7 (USA).sfc
 9e886f686da276b00c4671967d396a79	Mega Man Soccer (USA).sfc
@@ -1791,15 +1820,16 @@ c935c0d7aafb53d86bc519a756695e6f	Metal Morph (USA).sfc
 1f353927e2990450e870bc3182de84ad	Metal Slader Glory - Director's Cut (Japan) (NP).sfc
 1b1282421d39a473f634958c28dca0d4	Metal Warriors (USA).sfc
 2484f41a03392dee2116afb9c7d7bdc6	Michael Andretti's Indy Car Challenge (Japan).sfc
+f10f2d510998a477f4650e051cf168d2	Michael Andretti's Indy Car Challenge (USA) (Sample).sfc
 8874a87e4e0ccfa742e244017b6c544c	Michael Andretti's Indy Car Challenge (USA).sfc
 1a1bd0a7652a2b7b025e9e5132831a81	Michael Jordan - Chaos in the Windy City (Europe).sfc
 d484b197aeef6981e49772adc6866990	Michael Jordan - Chaos in the Windy City (USA).sfc
 fa5bfb92d0f9bd9c27190e4c5b36db9d	Mick & Mack as the Global Gladiators (USA) (Proto) [b].sfc
-25079ae8cf72ed2138e6ca781a2210e9	Mickey Mania (Europe).sfc
 dd7a818144d4e668b97f7bfbd684e88f	Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan) (Beta).sfc
 ac416a3a1d727895c404aeebd9633f32	Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan).sfc
 fe22402478e92908ece759b5219fa77f	Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta) (1994-07-18).sfc
 e3f9cc6d8321fa661a30cabe5dce141a	Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).sfc
+25079ae8cf72ed2138e6ca781a2210e9	Mickey Mania (Europe).sfc
 2f50d8ee4e98e846da5852268f44888b	Mickey no Magical Adventure (Japan) (Rev 1).sfc
 0545cfe93c0cfa3a721b65d928e5aecd	Mickey no Magical Adventure (Japan).sfc
 3f26c6bfad366d6fc84666d7d5e22c2f	Mickey no Tokyo Disneyland Daibouken (Japan).sfc
@@ -1822,12 +1852,12 @@ d1eafd8e9569ca325d6ef29833224eea	Might and Magic III - Isles of Terra (USA) (Bet
 e8a2e6b3419fbc98d850dfc5e235eeb7	Mighty Max (USA) (Beta).sfc
 4a9dafe9c23b5a92da1d8bd983177880	Mighty Max (USA) (Demo).sfc
 ef03535ce894aedabe6c098f6b858d87	Mighty Max (USA).sfc
-6fc7d9663c350799d8f0b6168691385a	Mighty Morphin Power Rangers (Japan) (En).sfc
-c0a6ae7a3cff034232cb23d765bcb36d	Mighty Morphin Power Rangers (USA).sfc
 7b8cd363202126c944147c3c5e1ca54a	Mighty Morphin Power Rangers - The Fighting Edition (Europe).sfc
 bdfcd02f353bc9745dda4556fb7db08a	Mighty Morphin Power Rangers - The Fighting Edition (USA).sfc
 6312f48f6fd194b7eeb1f948b1ece8c3	Mighty Morphin Power Rangers - The Movie (Europe).sfc
 f184e696c1fb1c984e530f504eebd234	Mighty Morphin Power Rangers - The Movie (USA).sfc
+6fc7d9663c350799d8f0b6168691385a	Mighty Morphin Power Rangers (Japan) (En).sfc
+c0a6ae7a3cff034232cb23d765bcb36d	Mighty Morphin Power Rangers (USA).sfc
 920b35893be78e327bc8ce57b98836d5	Milandra (Japan).sfc
 71cb6c17808d9f8babbbfaa37dc6f1dc	Militia (Japan).sfc
 acdeb2ee6ef7b460c5dfed6957f8581a	Mini Yonku Let's & Go!! - Power WGP 2 (Japan).sfc
@@ -1849,23 +1879,24 @@ c31b895cf55e197d2ce56d2856861f5b	Monopoly Game 2, The (Japan) (Rev 1).sfc
 6dfdb138abeb84899c4143342e1901ea	Monstania (Japan).sfc
 92c04c8db939a53bde5808e66e54ed10	Monster Maker III - Hikari no Majutsushi (Japan).sfc
 cb6724950254429215544d48c12e15e4	Monster Maker Kids - Ousama ni Naritai (Japan).sfc
+d0527e4391603a2a90713cdf23bd8fbb	Mortal Kombat - Shinken Kourin Densetsu (Japan) (En).sfc
+d4098651b6cc8ebd6e8ac2b38c0013ce	Mortal Kombat (Europe) (Rev 1) (Patch ROM).bin
 1d348d1af28db657195f926cc0207796	Mortal Kombat (Europe) (Rev 1).sfc
 bcf52b016559d371eefcd216781f40cd	Mortal Kombat (Europe).sfc
 0699d70285ff8b309ed86744b7f67e9a	Mortal Kombat (USA) (Beta).sfc
 3ca4ba9c14827abfa0d047151bc86634	Mortal Kombat (USA) (Rev 1).sfc
 0934878bb5ef33f25c1fcaba18a1105b	Mortal Kombat (USA).sfc
-d0527e4391603a2a90713cdf23bd8fbb	Mortal Kombat - Shinken Kourin Densetsu (Japan) (En).sfc
 e61ab7a7bf3760f03bab5e7383228040	Mortal Kombat 3 (Europe) (Beta).sfc
 afa64dd1c92d2138b2d723d136b1eb76	Mortal Kombat 3 (Europe).sfc
 ecc2dd9ed4d0988deec85f31db3f94a3	Mortal Kombat 3 (USA) (Beta 1) (1995-07-13).sfc
 f425e9f251a325723d2211fd40be7043	Mortal Kombat 3 (USA) (Beta 2) (1995-08-01).sfc
 ec6fa27bfc201dd0ef0000f4c65fb57a	Mortal Kombat 3 (USA).sfc
+3d166efee520aa0013c0846c3ac4d417	Mortal Kombat II - Kyuukyoku Shinken (Japan) (En).sfc
 efb7c2ff3a042cef9653388a12075e68	Mortal Kombat II (Europe) (Rev 1).sfc
 cec1c21cdce0579d18b78a5caf517032	Mortal Kombat II (Europe).sfc
 5bcd66c569b62ee27a84dcd24efea2a1	Mortal Kombat II (USA) (Beta).sfc
 a0b9bebbc80958e36292abd9b8fb758e	Mortal Kombat II (USA) (Rev 1).sfc
 9873c45bf77eb06262e9b8d8c4b841b4	Mortal Kombat II (USA).sfc
-3d166efee520aa0013c0846c3ac4d417	Mortal Kombat II - Kyuukyoku Shinken (Japan) (En).sfc
 1858a50761b499f4ec4b1ba87f9df2cf	Mother 2 - Gyiyg no Gyakushuu (Japan) (Virtual Console).sfc
 a086f6648288c2858329b1c9c6e49d82	Mother 2 - Gyiyg no Gyakushuu (Japan).sfc
 ae83f7bb3966cc887fa210aebb5422b0	Motoko-chan no Wonder Kitchen (Japan).sfc
@@ -1884,9 +1915,9 @@ d56a5b300959ab7109e7d854c916fa49	Mr. Do! (USA).sfc
 2db1bb70228dd386e771567988f440c0	Mr. Nutz (USA) (Beta 1) (1993-06-10).sfc
 99ebebac8c1bdf109cbbf0d571b6e815	Mr. Nutz (USA) (En,Fr) (Beta 2).sfc
 f5889db38b2152fde80258c3a89f6a83	Mr. Nutz (USA) (En,Fr).sfc
+5f83cdc179b9d0220dc2867b8e7fdaa7	Mr. Tuff (Europe) (En,Fr,De,Es,It) (Proto) (1994-12-05).sfc
 8f9e046ef10eb6cfd04cc4a04375e454	Mr. Tuff (Europe) (En,Fr,De) (Proto) (1994-06-21).sfc
 01180ec2e6f2157fa49127e1371ab687	Mr. Tuff (Europe) (En,Fr,De) (Proto) (1994-07-12).sfc
-5f83cdc179b9d0220dc2867b8e7fdaa7	Mr. Tuff (Europe) (En,Fr,De,Es,It) (Proto) (1994-12-05).sfc
 a9f9eb32292e38598c3e2068a304a482	Ms. Pac-Man (Europe).sfc
 831a79e371ccaaa46feda052d98f8859	Ms. Pac-Man (USA) (Beta) (1996-06-18).sfc
 f62625b0f5b12482d31f2fc5e7097410	Ms. Pac-Man (USA).sfc
@@ -1922,17 +1953,17 @@ b3695a686e32089d4555466a8c4bbb34	NBA All-Star Challenge (Europe).sfc
 5b6433c5c709d9f054f06f4e90485d06	NBA Give 'n Go (USA).sfc
 abc44359e784588692f6ed0bc5ef1f61	NBA Hang Time (Europe).sfc
 e9a46430216ca4cbcc3d58dadb4e3ff1	NBA Hang Time (USA).sfc
-81dcfbbaa66f8bed4c0ab0e2b6d3e053	NBA Jam (Europe) (Rev 1).sfc
-5a7bb097ed50ed69f852d2b4a148d450	NBA Jam (Europe).sfc
-cbc2a1c18973474945c830d54a3cc420	NBA Jam (Japan) (En) (Beta).sfc
-d9d67a64841f05fcd4f567415f1c7e25	NBA Jam (Japan) (En).sfc
-5249645bac2564fe08d2f6ea4df680c0	NBA Jam (USA) (Beta 2).sfc
-6ee56e3fdfa9543ef7755a08897767ec	NBA Jam (USA) (Rev 1).sfc
-808b6d01ca9c7e1938541f55eb71f73c	NBA Jam (USA).sfc
 fd9cccc7d07699e79d6f634bd5c3e0d5	NBA Jam - Tournament Edition (Europe).sfc
 c9c9ea0e0855c282c27fecd491cd4365	NBA Jam - Tournament Edition (Japan) (En).sfc
 7026b4fb575b014d89e159f7623848ee	NBA Jam - Tournament Edition (USA) (Beta).sfc
 503965fc09952186f79dd89d730d8d7f	NBA Jam - Tournament Edition (USA).sfc
+81dcfbbaa66f8bed4c0ab0e2b6d3e053	NBA Jam (Europe) (Rev 1).sfc
+5a7bb097ed50ed69f852d2b4a148d450	NBA Jam (Europe).sfc
+cbc2a1c18973474945c830d54a3cc420	NBA Jam (Japan) (En) (Beta).sfc
+d9d67a64841f05fcd4f567415f1c7e25	NBA Jam (Japan) (En).sfc
+5249645bac2564fe08d2f6ea4df680c0	NBA Jam (USA) (Beta).sfc
+6ee56e3fdfa9543ef7755a08897767ec	NBA Jam (USA) (Rev 1).sfc
+808b6d01ca9c7e1938541f55eb71f73c	NBA Jam (USA).sfc
 16a0200371580df2204884b35ce1f30d	NBA Jam XXXX (USA) (Proto).sfc
 a0878d1e96535ccf202a36159adb54db	NBA Jikkyou Basket - Winning Dunk (Japan).sfc
 32fb4e765c4bfe354403154c92b70db7	NBA Live 95 (Europe).sfc
@@ -1944,8 +1975,8 @@ a0878d1e96535ccf202a36159adb54db	NBA Jikkyou Basket - Winning Dunk (Japan).sfc
 f3e65350ae692d7f2a54542643a110c2	NBA Live 97 (USA) (Beta) (1996-09-20).sfc
 362c3bfba31038172dba396cce3c1eec	NBA Live 97 (USA).sfc
 fbbc69e91c2aa544b37c97395c67486f	NBA Live 98 (USA).sfc
-0f39f63cf133fc52a5c33620e3333e96	NBA Pro Basketball '94 - Bulls vs Suns (Japan).sfc
 d855d0eb050425258a662656bb484b6a	NBA Pro Basketball - Bulls vs Blazers and the NBA Playoffs (Japan).sfc
+0f39f63cf133fc52a5c33620e3333e96	NBA Pro Basketball '94 - Bulls vs Suns (Japan).sfc
 9f709b2b869caff15782e4b43a65055c	NBA Showdown (USA) (Beta).sfc
 c89d5fbc1047dfae5c256410c4056b3b	NBA Showdown (USA).sfc
 7d2242f7e531fd337fcf451319c55dac	NCAA Basketball (USA) (Arcade).sfc
@@ -1957,7 +1988,7 @@ ef9cf28bbcfaa830982a27467da8064b	NCAA Final Four Basketball (USA) (Beta).sfc
 2ae8390a41f010a5c97a16c28839a76c	NCAA Football (USA).sfc
 900ecfb892e63d89e3a46eb2c4a8dc8e	Nekketsu Tairiku - Burning Heroes (Japan).sfc
 291a587292385eb4755bef7b1d8fcfc6	Nekotako (Japan) (Aftermarket) (Unl).sfc
-59eef731bd76bad3f849663b2a885376	Nekotako (Japan) (Demo) (Aftermarket) (Unl).sfc
+59eef731bd76bad3f849663b2a885376	Nekotako (Japan) (Demo) (Aftermarket) (Homebrew).sfc
 d7289c3133e50cb6a3738d9fbc69769e	Neugier - Umi to Kaze no Kodou (Japan).sfc
 c565ea5042b5f2500217e8ab3221636d	New 3D Golf Simulation - Devil's Course (Japan) (Sample).sfc
 c05fc3328007b478495eb0bb5f23eaa8	New 3D Golf Simulation - Devil's Course (Japan).sfc
@@ -2020,11 +2051,11 @@ e5ab2f72c3704132944f47fc427d222c	Nigel Mansell's World Championship Racing (Germ
 eaeadf3718805132ac2348c6bc093563	Nigel Mansell's World Championship Racing (USA).sfc
 0f7b839fe94ec9542b4b3f1b8fb72421	Nightmare Busters (Europe) (Proto 1) (1994-04-09).sfc
 4306235aa81667c655b68aefd7af6e9b	Nightmare Busters (Europe) (Proto 2).sfc
-5b78a0d25cf6e12bdf20c8f6f6b0cdaf	Nightmare Busters (USA) (Unl).sfc
+5b78a0d25cf6e12bdf20c8f6f6b0cdaf	Nightmare Busters (World) (Unl).sfc
 a641a33a829154f656ca00ab1ef35500	Ninja Gaiden Trilogy (USA).sfc
 bd4759afcffd0bd51354f4b620b87457	Ninja Ryuuken Den Tomoe (Japan).sfc
-a8711c9185c7a6c52b863567b188ce1e	Ninjawarriors (USA).sfc
 2f06312fb386fc34572df8b73abcd8ae	Ninjawarriors - The New Generation (Europe).sfc
+a8711c9185c7a6c52b863567b188ce1e	Ninjawarriors (USA).sfc
 c86c99d1454426b908c89fd1caa858dc	Ninjawarriors Again, The (Japan).sfc
 e0783ca08448a0c49b31ee22c50273e1	Nintama Rantarou (Japan).sfc
 c20298abcf7890dac0399c88eece767d	Nintama Rantarou 2 (Japan).sfc
@@ -2046,6 +2077,7 @@ e4d7ca6333e7a05acfd409b169f1a1c2	Nobunaga's Ambition (USA).sfc
 4810fbcde1039c3f3dc674c08dc8017e	Nolan Ryan's Baseball (USA).sfc
 27fc4cf85de77300afedd1de0921d911	Nomark Baku Haitou - Shijou Saikyou no Janshi-tachi (Japan).sfc
 abd1b7abfdb05162688e5abd2879a9f3	Nontan to Issho - Kurukuru Puzzle (Japan).sfc
+163b901fb2e998a6e07570b0d7bc1d5c	Nosferatu (Japan) (Beta) (1994-06-25).sfc
 61413693c0e62e67996f4818421343b3	Nosferatu (Japan).sfc
 42647bf6fd9c3e28a2542b88c09d2893	Nosferatu (USA).sfc
 62117e19532e9a561d17c90c4e60cf8b	Numbers Paradise (Japan) (Rev 1).sfc
@@ -2055,10 +2087,10 @@ a8d00feecb22269f8330206d54b12603	Obitus (USA).sfc
 8b915a1115b4b1e0fc588173341ee83a	Odekake Lester - Lelele no Le (^^; (Japan).sfc
 1746f6188ced148fcc59b3c31d165496	Oekaki Logic (Japan) (NP).sfc
 500f024b10b8af520bd2229c3add874e	Oekaki Logic 2 (Japan) (NP).sfc
-64a824be35bfbb7797e8cfe6cccc5dec	Ogre Battle - The March of the Black Queen (USA).sfc
 a8de9bb235319ef9b6b96b26f1296783	Ogre Battle - The March of the Black Queen (USA, Europe) (Virtual Console).sfc
+64a824be35bfbb7797e8cfe6cccc5dec	Ogre Battle - The March of the Black Queen (USA).sfc
 e546b24c109a7807f50d5311cce9f45d	Okamoto Ayako to Match Play Golf - Ko Olina Golf Club in Hawaii (Japan).sfc
-1f43b734161eec63612444ce1ad355c6	Old Towers (USA) (Homebrew).sfc
+1f43b734161eec63612444ce1ad355c6	Old Towers (USA) (Aftermarket) (Unl).sfc
 fd5996240dd8a2ec6565f6d269153c02	Olivia no Mystery (Japan).sfc
 393d7aeffa667255cf4f592ac92c222a	Olympic Summer Games (Europe) (Beta).sfc
 8ab1fe6f37d3c826b01a09be6c36933b	Olympic Summer Games (Europe).sfc
@@ -2171,14 +2203,14 @@ dfa7fbca475c837b75906a4dcb46356a	PGA Tour 96 (USA).sfc
 f6d10d83b5c66f695b5e16ae26411152	PGA Tour Golf (Japan) (En).sfc
 964e0cd05014c2ff700dc53bb5b5ab3c	PGA Tour Golf (USA) (Rev 1).sfc
 728e75a9e18aacda7a092682a2d9f1f3	PGA Tour Golf (USA).sfc
-0630d7d38baee90a849a77722d54c395	Phalanx (Europe).sfc
-6261db3e834e245f99fb2072fc97fde7	Phalanx (USA).sfc
 de72da17081cafe62a9f035f7e71c8e5	Phalanx - The Enforce Fighter A-144 (Japan) (En).sfc
 0add8eefe5f4549e07faa4546f87fa2d	Phalanx - The Enforce Fighter A-144 (USA) (Beta).sfc
+0630d7d38baee90a849a77722d54c395	Phalanx (Europe).sfc
+6261db3e834e245f99fb2072fc97fde7	Phalanx (USA).sfc
 2269ae07aa776624792fe4cac8be1a24	Phantom 2040 (Europe) (En,Fr,De).sfc
 482444be86f2ebe5b0730f538b8e9ba3	Phantom 2040 (USA) (Beta).sfc
 4bee856ae5344291c10a10da2bea8d8d	Phantom 2040 (USA).sfc
-21a22272f3d2961d5004e224fd1b969f	Picachu ~ Pocket Monsters (World) (Pirate).sfc
+21a22272f3d2961d5004e224fd1b969f	Picachu - Pocket Monsters (USA) (Pirate).sfc
 25e9c4f973f67edf48a69e9211e78e28	Picross NP Vol. 1 (Japan) (NP).sfc
 5d103c68ede69ea754701e26ff2350e0	Picross NP Vol. 1 (Japan) (Rev 1) (NP).sfc
 7ccd3d8fc102f5898f60e85d3a58344c	Picross NP Vol. 2 (Japan) (NP).sfc
@@ -2247,21 +2279,21 @@ cb12e4fc8f2f0d3e2407284190ae39a0	Plok (Europe).sfc
 82f57aa2348fed1eab3377db42b2f3bb	Plok! (Japan).sfc
 27c768fa67fc417847ec1ac591f7c909	Pocky & Rocky (Europe) (Sample).sfc
 be3e7907aebc9da95c061b9f45cfab59	Pocky & Rocky (Europe).sfc
-b7cb56389dd83e9b440b61f677464aed	Pocky & Rocky (USA) (Sample).sfc
+b7cb56389dd83e9b440b61f677464aed	Pocky & Rocky (USA) (Sample) (1992-11-24).sfc
 e74e067787723bc54093a9c03f290e5d	Pocky & Rocky (USA).sfc
 05d1da17d64cc727e5efaa4ecc72b4b3	Pocky & Rocky 2 (Europe).sfc
 86a2336880d00ccadd149061b12a79e7	Pocky & Rocky 2 (USA) (Beta).sfc
 3cfa988d8b0bab8c04af70f24fb7ee90	Pocky & Rocky 2 (USA).sfc
-0a36948bb2aee077113f75b0b3f9e773	Pokemon Gold & Silver (World) (Pirate).sfc
-d705272112ca6f1fd0f8c93dfd0e5d0c	Pokemon Stadium (World) (Pirate).sfc
+0a36948bb2aee077113f75b0b3f9e773	Pokemon Gold & Silver (USA) (Pirate).sfc
+d705272112ca6f1fd0f8c93dfd0e5d0c	Pokemon Stadium (USA) (Pirate).sfc
 8379d0277138024063110c1db828cad6	Pokonyan! - Henpokorin Adventure (Japan).sfc
+aa8d6780655a77652ca6e65c89befea3	Pop'n TwinBee - Rainbow Bell Adventures (Europe).sfc
+ae9fa79542609dd1561de3f44a9b997b	Pop'n TwinBee - Rainbow Bell Adventures (Germany) (En).sfc
 ed9c32231cd480448f355c4ed54b1bae	Pop'n TwinBee (Europe).sfc
 31cb3860a435a155d8adaa4a31314180	Pop'n TwinBee (Japan) (Beta 1).sfc
 ec230fb58a8e8db96082255af7d3035a	Pop'n TwinBee (Japan) (Beta 2).sfc
 38888b0cb0609e19b09abc2a1adfbfef	Pop'n TwinBee (Japan).sfc
 10af6ccea28eeb16c0d8abd7c2a265db	Pop'n TwinBee (USA, Europe) (Switch Online).sfc
-aa8d6780655a77652ca6e65c89befea3	Pop'n TwinBee - Rainbow Bell Adventures (Europe).sfc
-ae9fa79542609dd1561de3f44a9b997b	Pop'n TwinBee - Rainbow Bell Adventures (Germany) (En).sfc
 e07fb3c8af18dd87260c0569e8588c31	Popeye - Ijiwaru Majo Sea Hag no Maki (Japan).sfc
 cf24fa170286d8589397cada04ec71ad	Popful Mail (Japan).sfc
 3b6665573fc2c72d11dee5a3d33c70d9	Popoitto Hebereke (Japan).sfc
@@ -2272,7 +2304,8 @@ cf24fa170286d8589397cada04ec71ad	Popful Mail (Japan).sfc
 7b93c4a184cd4d360c2cf7c9411f3644	Populous II - Trials of the Olympian Gods (Germany).sfc
 83b543020e09bf69dfc1d4ad41da1f2d	Populous II - Trials of the Olympian Gods (Japan).sfc
 76aebca9b2fbb20a72401f8529088793	Porky Pig's Haunted Holiday (Europe).sfc
-1179a5dc611b731d8e5a53c0a322979c	Porky Pig's Haunted Holiday (USA) (Beta).sfc
+1179a5dc611b731d8e5a53c0a322979c	Porky Pig's Haunted Holiday (USA) (Beta) (1995-01-26).sfc
+9aa3ffbc26ebd9eb3c4fe2ef6135e94c	Porky Pig's Haunted Holiday (USA) (Beta) (1995-08-07).sfc
 c2d261ebd5de2021f272023700ae8bbf	Porky Pig's Haunted Holiday (USA).sfc
 c5363dbc9f42569af92f5536c175792a	Power Athlete (Japan) (En).sfc
 710893291c4848eacc054b020aadb8ef	Power Drive (Europe) (En,Fr,De,Es,Pt).sfc
@@ -2291,10 +2324,10 @@ e19ba660e4d6c744234137a6faaa0cda	Power Rangers Zeo - Battle Racers (Europe).sfc
 abd8381a8e4693fa8c04caa91f790e07	Power Slide (Europe) (Proto) (1994-04-12).sfc
 eb9174301c3d2ff6871cc5aef8b9eb4a	Power Soukoban (Japan).sfc
 b1ef1d37a1b9649bfc6da5e9abec7a5b	PowerFest 94 (USA).sfc
-cc6ebda0842675456a8d6a5372e19683	PowerMonger (Europe).sfc
 82eae959ae51b041489f7c1c2a1fef11	PowerMonger - Mashou no Bouryaku (Japan).sfc
-90c3bfef7e6d3c54b23521250d514c69	Prehistorik Man (Europe) (En,Fr,De).sfc
+cc6ebda0842675456a8d6a5372e19683	PowerMonger (Europe).sfc
 d7236afcd606c88ad93914078958605b	Prehistorik Man (Europe) (En,Fr,De,Es) (Beta).sfc
+90c3bfef7e6d3c54b23521250d514c69	Prehistorik Man (Europe) (En,Fr,De).sfc
 fbe14d670f28fa5c67c00dc551204838	Prehistorik Man (USA) (En,Fr,Es).sfc
 113e1140e2a8ab346e481857d74ecbd8	Primal Rage (Europe).sfc
 08e70b3f81b56955744a2507822e5004	Primal Rage (USA) (Beta).sfc
@@ -2304,9 +2337,9 @@ ae497494baf8a03069b8415846dc1ab7	Prince of Persia (Europe).sfc
 6f49df735cd2cf9d351d549f1cbfdaa9	Prince of Persia (Japan).sfc
 7f595b5c675f8a626049dccc0a215f9b	Prince of Persia (USA) (Beta).sfc
 8ffc8d34bc75bc049122894b4292eb85	Prince of Persia (USA).sfc
+a663bacb1a218907f9e883297819dce6	Prince of Persia 2 - The Shadow & the Flame (USA) (Beta).sfc
 e16cb90295703d01771a87ea51f29ea0	Prince of Persia 2 (Europe).sfc
 8eb86c3a88c4faa2cb17e53854f665e2	Prince of Persia 2 (USA).sfc
-a663bacb1a218907f9e883297819dce6	Prince of Persia 2 - The Shadow & the Flame (USA) (Beta).sfc
 135ad0c718e88aaa9de9ce848b47753a	Princess Maker - Legend of Another World (Japan).sfc
 87ed5084bcc4130099543b467e0ee54f	Princess Minerva (Japan).sfc
 2865883f57cc1b3437a8bc799a2c67f0	Pro Action Replay (Europe) (27c256) (Unl).sfc
@@ -2338,21 +2371,21 @@ a2eaa3a65d1a82ad837274980c105278	Push-Over (USA).sfc
 9fcb6fd1ac113c5038626b0dd20be0c6	Putty Moon (Japan) (En).sfc
 a10ba42b909fe0cd46d5606f3538e310	Putty Squad (Europe) (Beta).sfc
 27a26ed8b125a68508af6549be26cd0e	Putty Squad (Europe).sfc
-eb658023bf0146062ed1e157bd12f867	Puzzle Bobble (Japan).sfc
 a91c8198c0e7a32b303f77df1d2d68b8	Puzzle Bobble - Bust-A-Move (Europe) (Rev 1).sfc
 e15327d4e73cdbe3440d55da0d69d84d	Puzzle Bobble - Bust-A-Move (Europe).sfc
+eb658023bf0146062ed1e157bd12f867	Puzzle Bobble (Japan).sfc
 18bc66c21ac549600384a911a6b75792	Puzzle Nintama Rantarou - Ninjutsu Gakuen Puzzle Taikai no Dan (Japan).sfc
 e8ac9546c334f910b36aa1c202edc86a	Puzzle'n Desu! (Japan).sfc
 37efb68b59c9259b38db72aa90bf96cc	Q-bert 3 (Japan).sfc
 e926be5b5c41c5bc1d001daf948f27ef	Q-bert 3 (USA).sfc
 6e02b3929e63007b2be4a40ebd7fb851	Quik the Thunder Rabbit (Europe) (Proto).sfc
+8dd2247e9f98284c800468d9bdb99c23	R-Type III - The Third Lightning (Europe) (Beta).sfc
+6ac566248ad240b18d745e949b256cae	R-Type III - The Third Lightning (Japan) (En) (Virtual Console).sfc
+e5cb261f53bca5a8bf70ec05c2a9e3db	R-Type III - The Third Lightning (Japan) (En).sfc
 a27610a42e2418805c86bb6b79a33b20	R-Type III (Europe) (Virtual Console).sfc
 cfbc0862e180bd09c7bcb155b8158992	R-Type III (Europe).sfc
 21406b3506f773eb2874528eab8c08c5	R-Type III (USA) (Virtual Console).sfc
 cb4a282e8a7bde5e16103c4136f9491e	R-Type III (USA).sfc
-8dd2247e9f98284c800468d9bdb99c23	R-Type III - The Third Lightning (Europe) (Beta).sfc
-6ac566248ad240b18d745e949b256cae	R-Type III - The Third Lightning (Japan) (En) (Virtual Console).sfc
-e5cb261f53bca5a8bf70ec05c2a9e3db	R-Type III - The Third Lightning (Japan) (En).sfc
 6905ba46d6d5757cb4eabb92b789bbdb	R.P.M. Racing (Japan) (En).sfc
 87d324a718383b7edb6b651529be2c62	Race Drivin' (Europe).sfc
 ac6bf6f46dfd84c0721c7f18ec7fcf3c	Race Drivin' (USA) (Beta).sfc
@@ -2369,15 +2402,15 @@ be9b8dbdee50b1c94f521d9c3c3fa49a	Raiden Trad (USA) (Beta).sfc
 f56c034933fe0613dba01c3a8b7aa1a5	Rally - The Final Round of the World Rally Championship (USA) (Proto).sfc
 1333fa2bc1d80b413418d87e7b27fa66	Ramos Ruy no World Wide Soccer (Japan) (En).sfc
 f7fe3d7b170cd85d4b008e6338b23fe9	Rampart (USA).sfc
-be7fb6b1483b6a251e35b47ecd43666a	Ranma 1-2 (Europe) (Beta).sfc
-00b4680caf2bc5c73d12466cecffad27	Ranma 1-2 (Europe).sfc
-0d4d5ed54ae085bd4e785cfa152fa0c9	Ranma 1-2 (France).sfc
 9cb721e6323e8b0560d8284a70bc871d	Ranma 1-2 - Akanekodan Teki Hihou (Japan).sfc
 1674da9647562520cc36bb11ec203d71	Ranma 1-2 - Bakuretsu Rantou Hen (Japan).sfc
 8c7dfc3dc5d13b145fc116dbcb84521b	Ranma 1-2 - Chougi Ranbu Hen (Japan).sfc
 31e5dd5d182d4e82455fd0160f5f4017	Ranma 1-2 - Chounai Gekitou Hen (Japan).sfc
 070582bb3cb2c3501738d91db530e2b8	Ranma 1-2 - Hard Battle (USA).sfc
 afde99960f1b2ec92d0dac97ecf5a5a7	Ranma 1-2 - Ougi Jaanken (Japan).sfc
+be7fb6b1483b6a251e35b47ecd43666a	Ranma 1-2 (Europe) (Beta).sfc
+00b4680caf2bc5c73d12466cecffad27	Ranma 1-2 (Europe).sfc
+0d4d5ed54ae085bd4e785cfa152fa0c9	Ranma 1-2 (France).sfc
 5c58b54bf19ffee86f5b6d53aacee255	Rap Basketball (USA) (Proto).sfc
 bc4b5b11b75e0d701c8275a6d93574e2	Rap Jam - Volume One (USA) (En,Fr,Es).sfc
 d613e071ddd175a39d674c07579dcd4d	Rayman (USA) (Proto).sfc
@@ -2390,6 +2423,7 @@ f8faa664c096fcbc3ab853bbaa30ec7d	Redline F-1 Racer (USA).sfc
 448dc6e365739c8166166609782d54ba	Rejoice - Aretha Oukoku no Kanata (Japan).sfc
 abe4fabf85388b195cafcfe444603e46	Relief Pitcher (USA) (Beta).sfc
 714a7b313164ff476e4e5dd425a41230	Relief Pitcher (USA).sfc
+5a1240f829022ebaf72760f0d9c26622	REM (World) (Demo) (Aftermarket) (Homebrew).sfc
 f5a980da5fccdaacade484744fb6c8a7	Ren & Stimpy Show, The - Buckeroo$! (USA).sfc
 79d5478811af9e29744ff3366f6a4e32	Ren & Stimpy Show, The - Fire Dogs (USA).sfc
 e7ee7307273b241f010f31a9fd9e8b90	Ren & Stimpy Show, The - Time Warp (Europe).sfc
@@ -2417,6 +2451,18 @@ a107a7d1313ee5c19f5e28da009e47f2	Rise of the Robots (Japan) (En).sfc
 db35a37e7b84d4168171c49e6cb9d827	Rise of the Robots (USA).sfc
 923fe6193f10718734f9374596b20ace	Rival Turf (Europe).sfc
 e061f15d6f87cd47e27f5b9f11fe1b7e	Rival Turf! (USA).sfc
+951d4286a5c2d561e5a8bb4d7285ed03	River City Girls Zero (USA) (De) (Aftermarket) (Unl).sfc
+85b1003cbb64e7af7c96426316da3f70	River City Girls Zero (USA) (Es) (Aftermarket) (Unl).sfc
+71004ce8b55f0fbe42a6393b0dd8635a	River City Girls Zero (USA) (Fr) (Aftermarket) (Unl).sfc
+462c0a9a43a236fa38f667eee68376d2	River City Girls Zero (USA) (It) (Aftermarket) (Unl).sfc
+477a3cf7c2d67d85d68f5f76937ea930	River City Girls Zero (USA) (Ja) (Aftermarket) (Unl).sfc
+85e4285eec82b3ceb06d9e786e859499	River City Girls Zero (USA) (Ko) (Aftermarket) (Unl).sfc
+3acf4d6e8045f89c9a3898d4a73416a9	River City Girls Zero (USA) (Original Translation) (Aftermarket) (Unl).sfc
+ced44a078b12cd3d659874c4de2fa2d4	River City Girls Zero (USA) (RCG Translation) (Aftermarket) (Unl).sfc
+8a36bd3dd4cde9527fac6f25567eb33f	River City Girls Zero (USA) (Zh-Hans) (Steam Release) (Aftermarket) (Unl).sfc
+57206f565fb11014e938d9e6df395699	River City Girls Zero (USA) (Zh-Hans) (Switch Release) (Aftermarket) (Unl).sfc
+7c258f8e4c73d9d575025004b144c047	River City Girls Zero (USA) (Zh-Hant) (Steam Release) (Aftermarket) (Unl).sfc
+3ca02401097e010909874f300d435ca4	River City Girls Zero (USA) (Zh-Hant) (Switch Release) (Aftermarket) (Unl).sfc
 b432bf3fafbad88cab13b62b120f0179	Road Riot 4WD (Europe).sfc
 ca29b2c092863c1e975048ed474cfc70	Road Riot 4WD (USA) (Beta).sfc
 f9f9dda0c2fa908e2ed377c8549b1674	Road Riot 4WD (USA).sfc
@@ -2428,9 +2474,9 @@ cfbd78608d84c42bbc6b7d553dd858a0	RoboCop 3 (USA).sfc
 2ad4d6968d6be1727f198475497e8069	RoboCop versus The Terminator (Europe).sfc
 3683319beeba73ad6deb851ef72bf3d3	RoboCop versus The Terminator (USA).sfc
 e85702f5d32e03a7cbae1154ee5083ce	Robotrek (USA).sfc
-a6f50587b5e23333af034535b2a23a93	Rock & Roll Racing (Europe) (Beta).sfc
 ea99d9924329380fe4a0d523caf9d2e2	Rock 'N' Roll Racing (Europe).sfc
 da9d4f7da1fc572ffa4265f5aa2f03a7	Rock 'N' Roll Racing (USA) (Demo) (Battle.net).sfc
+a6f50587b5e23333af034535b2a23a93	Rock & Roll Racing (Europe) (Beta).sfc
 c8b23ec6e96472ee45828efbf287c903	Rock N' Roll Racing (Japan).sfc
 9c4e9315a893172a769a85621d293c53	Rock N' Roll Racing (USA) (Beta 1).sfc
 58d61a24b98e24310478066cb789155e	Rock N' Roll Racing (USA) (Beta 2).sfc
@@ -2487,7 +2533,7 @@ d3e5ad143b6d4e0af5ceeb3178f88381	Ryuukiheidan Dunzarv (Japan).sfc
 9020cf6a7126e8bc7f1f59a2e76dbf2b	Ryuuko no Ken 2 (Japan).sfc
 a21fd960d4a729175e0129e3aef1a046	S.O.S - Sink or Swim (Europe).sfc
 0544fe7544b823f3f4886622c06b1021	S.O.S - Sink or Swim (USA).sfc
-cf62b6d186954e6f5d9feec3adc8ffbc	SA-1 Speed Test (World) (v5.1) (Program) (Homebrew).sfc
+cf62b6d186954e6f5d9feec3adc8ffbc	SA-1 Speed Test (World) (v5.1) (Program) (Aftermarket) (Homebrew).sfc
 e383efe58d3ab9a7db9472dfe842e765	SA1 Demonstration Program (Unknown).sfc
 a9a2f5ed772002b743f2cc01eac6ae7b	Saibara Rieko no Mahjong Hourouki (Japan).sfc
 9c5753b2dbea0a0b4ad5e5877296bc2c	Saikousoku Shikou Shougi Mahjong (Japan).sfc
@@ -2499,7 +2545,6 @@ ea56bacedc6057b0cedab067f4bb1485	Samsara Naga 2 (Japan).sfc
 a09ebc96aac1680fd36029b768002d92	Samurai Shodown (Europe).sfc
 54d054b5a08c80e8e1192729a8f3a4c8	Samurai Shodown (USA) (Beta).sfc
 f64e2b3eb9ee5b92f267bd420b294efc	Samurai Shodown (USA).sfc
-3e942c28552d8b8673fe80979b3c1f73	Samurai Shodown vs Soul Blade ~ Soul Edge vs Samurai (World) (Pirate).sfc
 4a2bcdaef8a796c0110ab45e99a6e780	Samurai Spirits (Japan) (Beta).sfc
 30e4e3f158da9a96232efba138196e89	Samurai Spirits (Japan).sfc
 095bc90d5a35570b7ad74eac6d24ca37	Sangokushi Eiketsuden (Japan) (Rev 1).sfc
@@ -2544,8 +2589,8 @@ f1e55a334823483f387f7441782e930a	Secret of Evermore (Unknown) (Beta) (Non-workin
 5e1602019d4e337b9c6a714a6224ba1d	Secret of Mana (France) (Rev 1).sfc
 35afb723a7a1166d894549519d78622c	Secret of Mana (France).sfc
 b57303407986c0d28f2d78f931efc59c	Secret of Mana (Germany).sfc
-0194f74c93b0edf3e4a7672a448572ad	Secret of Mana (United Kingdom).sfc
 d273dd449b204a6eb90f611e5a72f80c	Secret of Mana (United Kingdom, Australia) (Rev 1).sfc
+0194f74c93b0edf3e4a7672a448572ad	Secret of Mana (United Kingdom).sfc
 1d2c4c03366af008eacb32de98a7f5c1	Secret of Mana (USA) (Virtual Console).sfc
 10a894199a9adc50ff88815fd9853e19	Secret of Mana (USA).sfc
 ff5790e984d6ab8109963c7b2f8a2a97	Secret of Mana (World) (De) (Collection of Mana).sfc
@@ -2645,9 +2690,9 @@ faa2d43f507e35caebbea263a36dc6bf	Sid Meier's Civilization (USA).sfc
 795dea95b245cbdf063cf536b0facb2e	Side Pocket (Japan) (En).sfc
 10e339039df1185206e2b8a236af9248	Side Pocket (USA).sfc
 dcec11fcf8c2355f07f6ee4144e70a85	Silva Saga II - The Legend of Light and Darkness (Japan).sfc
+330f18b975341a10ee1d36f7a626330c	SimAnt - The Electronic Ant Colony (USA).sfc
 8646848425c8d218a711f440bcafde3b	SimAnt (Japan).sfc
 1662e41dec5c6976987b482cdceedd2e	SimAnt (USA) (Beta).sfc
-330f18b975341a10ee1d36f7a626330c	SimAnt - The Electronic Ant Colony (USA).sfc
 13cc9509758072502ecd8721f5f09fcb	SimCity (Europe).sfc
 2f1c1a70f2268b4c37e2a095a9be0058	SimCity (France).sfc
 d0142f63a3dee58f97c21d939b6dbd60	SimCity (Germany).sfc
@@ -2676,16 +2721,16 @@ eea1d6e9c25d39d0ba92be05e61f75f5	Slap Stick (Japan).sfc
 c5de54195aeceef0a4cbad20f92056aa	Slap Stick (USA) (Beta).sfc
 1b7b9b3eabe1008bad9dc19dcad9142f	Slayers (Japan).sfc
 5718ea0c2d8a057ee3cda70b5883f9b7	Sleep (Japan) (Proto).sfc
-0d62288e3b1dcadd65b73b8a8c90b3f0	SM Choukyoushi Hitomi (Japan) (Beta) (Unl) [b].sfc
-24f820dff56531a87da4ca003caef6ca	SM Choukyoushi Hitomi (Japan) (Unl).sfc
 6f7caba4d1925ea45f1d48a2f2ce28fd	SM Choukyoushi Hitomi - Bangai Hen (Japan) (Unl).sfc
 376a0db1cc2b5b551072c7cd30a75f66	SM Choukyoushi Hitomi - Bangai Hen 2 - Maki no Love Love Panic (Japan) (Unl).sfc
-673dcd7cdd476a2a40dee80f1c09fa69	SM Choukyoushi Hitomi Vol. 2 (Japan) (Unl).sfc
+0d62288e3b1dcadd65b73b8a8c90b3f0	SM Choukyoushi Hitomi (Japan) (Beta) (Unl) [b].sfc
+24f820dff56531a87da4ca003caef6ca	SM Choukyoushi Hitomi (Japan) (Unl).sfc
 812ecc989f32de688e57f94fd06e8f4c	SM Choukyoushi Hitomi Vol. 2 - Trial Version (Japan) (Unl).sfc
+673dcd7cdd476a2a40dee80f1c09fa69	SM Choukyoushi Hitomi Vol. 2 (Japan) (Unl).sfc
 5bc7b0ad93a84c1f9539d87ef49e4838	SM Choukyoushi Hitomi Vol. 2 Remix (Japan) (Unl).sfc
+d3ef866911b940592be828bcec5b7321	SM Choukyoushi Hitomi Vol. 3 - Test Version (Japan) (Unl).sfc
 772ae04431ddf99122453aaa09023698	SM Choukyoushi Hitomi Vol. 3 (Japan) (Unl) (Alt) [b].sfc
 3a0314ef50fd2976df3c7cb92ec4395f	SM Choukyoushi Hitomi Vol. 3 (Japan) (Unl) [b].sfc
-d3ef866911b940592be828bcec5b7321	SM Choukyoushi Hitomi Vol. 3 - Test Version (Japan) (Unl).sfc
 e2b833084a3016313b61e113828f0b18	Smart Ball (USA).sfc
 eaf7f6e246c04b0874854f30709ac705	Smash T.V. (Japan) (En).sfc
 b9501bb47074288b8e83615ec83e6f2b	Smash Tennis (Europe) (Beta).sfc
@@ -2720,12 +2765,13 @@ b64318f7f3dad7a72b6b0191a2cb03af	Sougou Kakutougi - Astral Bout 2 - The Total Fi
 e2673bc3cc34173b90ad6d50216f842b	Sougou Kakutougi Rings - Astral Bout 3 (Japan).sfc
 026143f279d0936ce1372214450056a9	Soukou Kihei Votoms - The Battling Road (Japan).sfc
 32f1bca9ae10bed26c7fd4915bb5abfe	Soul & Sword (Japan).sfc
-3dfe9582fc493ef793cfa7cf3ed2acec	Soul Blade (World) (Pirate).sfc
+3dfe9582fc493ef793cfa7cf3ed2acec	Soul Blade (USA) (Pirate).sfc
 55a1d7082bd88b7c59a09a7960800474	Soul Blader (Japan).sfc
 47711f0773ac31490eb52f1ad5ae2683	Soul Blazer (France).sfc
 5421e92fa9a070a2207d38832d07bd4f	Soul Blazer (Germany).sfc
 646266b49957fdd51d19fa9496e6480b	Soul Blazer (Scandinavia) (En).sfc
 83cf41d53a1b94aeea1a645037a24004	Soul Blazer (USA).sfc
+3e942c28552d8b8673fe80979b3c1f73	Soul Edge vs Samurai (USA) (Pirate).sfc
 5ae643072832047b09462f111099b4f5	Sound Factory (Japan) (En) (Proto) (1993-08-22).sfc
 92504988268c3888f0e7041a1f9567ae	Sound Novel Tsukuru (Japan).sfc
 364e90ef9f7c00e203204357c8e1d289	Space Ace (Europe).sfc
@@ -2735,9 +2781,9 @@ bfb35aa992b217264bbaaee76444aa4a	Space Ace (Japan) (En).sfc
 0e59675372ca0ca16c7a7158b5597f2c	Space Bazooka (Japan).sfc
 40a24b9a38645950f83a4f263a44aae5	Space Football - One on One (USA).sfc
 8238a753738724820ba52db3a56b7183	Space Funky B.O.B. (Japan).sfc
+f0789172fcc8941bc37e65e451d53318	Space Invaders - The Original Game (Japan).sfc
 a201dacb210cb8e85ae205dd2458d8e1	Space Invaders (Australia).sfc
 925b7c04455633503842e524940a3676	Space Invaders (USA).sfc
-f0789172fcc8941bc37e65e451d53318	Space Invaders - The Original Game (Japan).sfc
 9725ec19683f2148c18081c433df4ae7	Space Megaforce (USA).sfc
 c9c1dc8561c8caeaef0e049d39e4d098	Spanky's Quest (Europe).sfc
 f1eedeb77a77d59476f33847f3275fc9	Spanky's Quest (USA).sfc
@@ -2758,14 +2804,14 @@ d834a59e8f07261b8a731600e8fb1ef3	Speedy Gonzales in Los Gatos Bandidos (Europe) 
 7376a288b1b44f604e38af801444cf6f	Speedy Gonzales in Los Gatos Bandidos (USA) (Beta 1).sfc
 d3ea405167a0ecf5206bf7360569f8d3	Speedy Gonzales in Los Gatos Bandidos (USA) (Beta 2).sfc
 88fbe1d0108b212e4a5e05659f68ee2e	SpellCraft - Aspects of Valor (USA) (Proto).sfc
-83b92fbb05fc2418266365f891e8fb57	Spider-Man (Europe).sfc
-65c79622f1dab31859a905cf4550a1c7	Spider-Man (USA) (Beta).sfc
-73199b27fe52caa56b12e42122df1fc8	Spider-Man (USA).sfc
 39ab2a192402a284e3ca8593f6743aca	Spider-Man - Venom - Maximum Carnage (Europe) (Sample).sfc
 903287991e5215e66f403e5db6ed7b8a	Spider-Man - Venom - Maximum Carnage (Europe).sfc
 c4f2fe9b3ec4fc5c9c5d1b8ae1bd8054	Spider-Man - Venom - Maximum Carnage (USA).sfc
 251873d26feda1e9b99c61271cd79d64	Spider-Man - X-Men - Arcade's Revenge (Europe).sfc
 9d59f3def2b1a8d87f7e97cef41a04c0	Spider-Man - X-Men - Arcade's Revenge (USA).sfc
+83b92fbb05fc2418266365f891e8fb57	Spider-Man (Europe).sfc
+65c79622f1dab31859a905cf4550a1c7	Spider-Man (USA) (Beta).sfc
+73199b27fe52caa56b12e42122df1fc8	Spider-Man (USA).sfc
 abf6c56882d13f3f7d337d114603eb76	Spider-Man and the X-Men in Arcade's Revenge (USA) (Beta).sfc
 038ef30004f4d6fc77576878b1743bf8	Spindizzy Worlds (Europe).sfc
 21424083a20b1ae441efc10e3f6bfb42	Spindizzy Worlds (Japan) (En).sfc
@@ -2781,6 +2827,7 @@ cd28fff9d9c9bb79886ca99451c403bc	Spot Goes to Hollywood (USA) (Proto) (1995-03-0
 06940ef9bb2ed5340a37951831323468	Spriggan Powered (Japan).sfc
 fbd5f3c8bcaa5fb2065b4b3467282f5e	Sprinter Monogatari - Mezase!! Ikkakusenkin (Japan).sfc
 092bb8bfc605c1717d9d815bf949ee28	Squaresoft Mode 7 Demo (USA) (Demo).sfc
+b846ff852409ad266fde7ba4b44fa15a	Squirrel (USA) (Pirate).sfc
 b9ae6796818431fa8185c9fc89f1e586	St. Andrews - Eikou to Rekishi no Old Course (Japan).sfc
 636093910fbaff60c8b327be00aefbd9	ST010 (Japan, USA) (Enhancement Chip).bin
 5c209ce0283632b6574ad835bf862bee	ST011 (Japan) (Enhancement Chip).bin
@@ -2806,9 +2853,9 @@ bd94cf98c7d640d121fb43d7dacddc04	Star Fox 2 (Japan) (Beta) (1995-09-12).sfc
 0b77282fc24f4d312acedc9df78def5a	Star Fox 2 (Japan) (Beta) (1995-09-13).sfc
 91d7366020df978b280020fcdc81ee2c	Star Fox 2 (Japan) (Beta) (1995-09-20) (DEBUG).sfc
 e7de4068dd0577ec5567783739839a76	Star Fox 2 (Japan) (Classic Mini, Switch Online).sfc
+7d66769f53cb3fb7f5c73044876db240	Star Fox 2 (USA, Europe).sfc
 43da32262e39b7a9f665901bfe3ade7f	Star Fox 2 (USA) (Beta) (1995-09-12).sfc
 dcc9db2c65b8a94f43b6a9a4a002259c	Star Fox 2 (USA) (Beta) (1995-09-13).sfc
-7d66769f53cb3fb7f5c73044876db240	Star Fox 2 (USA, Europe).sfc
 e9add0763f743fc634b839955f56022b	Star Glider (Japan) (Beta) (1992-09-23).sfc
 d686ba6df942084216393ada009126dc	Star Ocean (Japan).sfc
 485635b7bf2b4f337bcf2b654690763d	Star Trek - Deep Space Nine - Crossroads of Time (Europe).sfc
@@ -2825,12 +2872,12 @@ ee04e40432b2e60068eac344e790eea7	Star Trek - Starfleet Academy - Starship Bridge
 6ccb5974e77e47959fd13056d8b92f2f	Stargate (Japan).sfc
 04ea82e20d54642a5fee7f9bd92630eb	Stargate (USA) (Beta).sfc
 8d4249cf09bb6e63a7ef4b80d05da2ad	Stargate (USA).sfc
+01633ba7e39e0ded24bdc23e8ad80320	Starwing - Competition (Europe).sfc
+9a668dce0a5589e7209949f441f0180e	Starwing - Competition (Germany).sfc
 e28e24f1d82d8e8392561571a000d2c2	Starwing (Europe) (Rev 1).sfc
 7fd753db14083bbd07282b4779cf30ae	Starwing (Europe).sfc
 fc65c386a3bba4237a0cfe93dcedeff9	Starwing (Germany) (Beta).sfc
 f3daa875b6e20b01690617c9b8f6e843	Starwing (Germany).sfc
-01633ba7e39e0ded24bdc23e8ad80320	Starwing - Competition (Europe).sfc
-9a668dce0a5589e7209949f441f0180e	Starwing - Competition (Germany).sfc
 4cbf4adbcdca301152c8dfbd76f24c6d	Stealth (Japan).sfc
 e290d802c7ca9138553b03a886713062	Steel Talons (USA).sfc
 88e1ba3bee88da20fe3c427e4ac98bfe	Sterling Sharpe - End 2 End (USA).sfc
@@ -2842,7 +2889,7 @@ e1440114f798fa93234abd452f0e29b6	Stone Protectors (USA).sfc
 15ad65e39686a928793dbf2d482164c1	Street Combat (USA).sfc
 dd7cb317bc987c2fd52de2a764a2250b	Street Fighter Alpha 2 (Europe).sfc
 aa3c90fa7d89eb3dc3389a9436bd0cf8	Street Fighter Alpha 2 (USA).sfc
-852ecf00f608c53db8ad6d3208ac25b1	Street Fighter EX (World) (Pirate).sfc
+852ecf00f608c53db8ad6d3208ac25b1	Street Fighter EX Plus Alpha (USA) (Pirate).sfc
 8948c29da76fd031b5b4dfa0fc7af585	Street Fighter II (Europe) (Virtual Console).sfc
 a5adb1ab3daa665a58ad6ad1111d8f5b	Street Fighter II (Europe).sfc
 399a8607ccf27dc20cc7dc835e0aeb75	Street Fighter II (Japan) (Virtual Console).sfc
@@ -2932,11 +2979,11 @@ cfa43ff6832af233a9fbd0a9b3ee280b	Super Birdie Rush (Japan).sfc
 4587317a6c91b4c62a2fb1da67c65d36	Super Black Bass 2 (Japan).sfc
 eb4eee0e4a9abf9d1567ad6135e3f520	Super Black Bass 3 (Japan) (Rev 1).sfc
 f251867b759ec5450d70ef63365a91b9	Super Black Bass 3 (Japan).sfc
+cc9c8195b55b94e075c771ca1628cbc8	Super Bomberman - Panic Bomber W (Japan).sfc
 ddee4ddff2f3b6e31b8f73d0cb597ef1	Super Bomberman (Europe).sfc
 cbef5f02304a2b821a0e1642a6307564	Super Bomberman (Japan).sfc
 d67a1a2b0fac0564d950f8cd45fee3c2	Super Bomberman (USA) (Beta) (1993-05-11).sfc
 d83699a009a62480a7e7e9f1bb5bff6e	Super Bomberman (USA).sfc
-cc9c8195b55b94e075c771ca1628cbc8	Super Bomberman - Panic Bomber W (Japan).sfc
 084a8595dd56c37358f80edf6427938c	Super Bomberman 2 (Europe).sfc
 7dd89c3f953b4e507274e428b1250ecb	Super Bomberman 2 (Japan) (Caravan You Taikenban).sfc
 3e0481ede2ce82e5faf297cc501e8b7d	Super Bomberman 2 (Japan) (En).sfc
@@ -2950,7 +2997,8 @@ df33e261104efee409de8f294d80ad6e	Super Bomberman 4 (Japan).sfc
 3103de24bd9b46aad3e211574e5a0621	Super Bomberman 5 (Japan).sfc
 e195d69e284590cef196af9bcc72fc0a	Super Bombliss (Japan) (En).sfc
 8f5daeaf2b698f56e01b52b4e5afafce	Super Bonk (USA).sfc
-99a5ebfdf38faf4e194bfac535aa936b	Super Boss Gaiden (Japan) (En) (v1.2) (Aftermarket).sfc
+73abcd4808657a6d546652cfac4683b5	Super Boss Gaiden (World) (Aftermarket) (Homebrew).sfc
+99a5ebfdf38faf4e194bfac535aa936b	Super Boss Gaiden (World) (v1.2) (Aftermarket) (Homebrew).sfc
 2f3f6d8461ebb57cb33f031b7d4ea085	Super Bowling (Japan) (En).sfc
 50a1a66163020c19cde18685a928a556	Super Bowling (USA).sfc
 e2ee6c2657249d712b837ca1c4bcc477	Super Buster Bros. (USA) (Rev 1) (Beta).sfc
@@ -2985,7 +3033,7 @@ aa4317705e8fd0b958378c9b8faa9893	Super Daikoukai Jidai (Japan).sfc
 a38622c10605e90ff478e555065dd0dd	Super Dany (France) (Beta).sfc
 6b8b709dfddff8ceb5c729d43cc40c77	Super Dany (France).sfc
 56bc448e273b377984456ee282203da5	Super Dogfight (Japan).sfc
-459a2ced874b250e660867bed6ad16b9	Super Donkey (Japan) (En) (Proto 1).sfc
+459a2ced874b250e660867bed6ad16b9	Super Donkey (Japan) (En) (Proto 1) (Zelda no Densetsu - Kamigami no Triforce leftover data).sfc
 86735a7846fe06cd39df9c91f615427f	Super Donkey (Japan) (En) (Proto 2).sfc
 e07b40854a1947ef38951d8e2ceac3bd	Super Donkey Kong (Japan) (Rev 1) (Virtual Console, Classic Mini, Switch Online).sfc
 5d4890ace4f1ace435cbe9b74b0b16cd	Super Donkey Kong (Japan) (Rev 1).sfc
@@ -3024,8 +3072,8 @@ be9549b8e4091a9c3edbc0a8bdca72ea	Super Famista 4 (Japan) (Rev 1).sfc
 0f60e8f44b47fd2993c1f40279471c12	Super Famista 4 (Japan).sfc
 c9a6f2140490fbcba02ddecfd5409ea5	Super Famista 5 (Japan).sfc
 84fd0b42b13c90de42993edc69871c34	Super Final Match Tennis (Japan).sfc
-e564f1024f14ec93b2d7109df08bc483	Super Fire Pro Wrestling (Japan).sfc
 868c5612612444e545ee610245990fc0	Super Fire Pro Wrestling - Queen's Special (Japan).sfc
+e564f1024f14ec93b2d7109df08bc483	Super Fire Pro Wrestling (Japan).sfc
 04eaa42826543706cf6b9db9db527766	Super Fire Pro Wrestling 2 (Japan) (Beta).sfc
 4c517f4a68fdbc876b9a70eaed1fcba7	Super Fire Pro Wrestling 2 (Japan).sfc
 35e38cee31156d39c149cd8374ee65d1	Super Fire Pro Wrestling 3 (Japan) (Demo).sfc
@@ -3045,9 +3093,9 @@ df71b6ca861ebf02ac73a6e335718f79	Super Fire Pro Wrestling Special (Japan).sfc
 c645d7275de38d747885a7295f0e8fb8	Super Formation Soccer 96 - World Club Edition (Japan).sfc
 f53baa0c5ecd0b3942c22260a569562e	Super Formation Soccer II (Japan).sfc
 594d25ab061e52409723f519d584c732	Super Full Metal (Europe) (It,Sv) (Proto).sfc
-be2c0729a162c4b0e7706351258269f0	Super Full Metal Planet (Europe) (En) (Proto).sfc
 6661f7247684ad067769169d748286f8	Super Full Metal Planet (Europe) (En,It) (Proto 1).sfc
 ecfe697dddb9a23654ce1d0af205b850	Super Full Metal Planet (Europe) (En,It) (Proto 2).sfc
+be2c0729a162c4b0e7706351258269f0	Super Full Metal Planet (Europe) (En) (Proto).sfc
 7803710e1b59f8b12219b64de39dea61	Super Gachapon World - SD Gundam X (Japan).sfc
 f05798e84dc37c9d9ca250376a3b9fb4	Super Game Boy (Japan, USA) (En) (Rev 1) (Beta) (1994-03-23).sfc
 a4d4d35c827aedbda3eece1af0b57902	Super Game Boy (Japan, USA) (En) (Rev 1).sfc
@@ -3059,9 +3107,9 @@ d574d4f9c12f305074798f54c091a8b4	Super Game Boy SGB-CPU (World) (Enhancement Chi
 dad067eca05d2c0b104bf7e603eb3b07	Super Genjin (Japan).sfc
 3c0bc4cdba0d5b45af98a3ec1831e481	Super Genjin 2 (Japan).sfc
 18d84019bf24eb0b33221a7236e10d09	Super Ghouls 'N Ghosts (Europe).sfc
+13cc01659e28c2c23f5fe9fefde54d05	Super Ghouls 'N Ghosts (USA, Europe) (Virtual Console, Classic Mini, Switch Online).sfc
 cd011399ae520b2a7e294e3ef3cda24c	Super Ghouls 'N Ghosts (USA) (Beta).sfc
 19b2d7a555ecef4c453a819e67e61574	Super Ghouls 'N Ghosts (USA).sfc
-13cc01659e28c2c23f5fe9fefde54d05	Super Ghouls 'N Ghosts (USA, Europe) (Virtual Console, Classic Mini, Switch Online).sfc
 74aaa0f11cfad1d372ac450acbb65067	Super Goal! (Europe).sfc
 09d08c7f6252c64fdd3a39c82667f5f1	Super Goal! 2 (USA).sfc
 403ea414c177884749fe9536d76fdf05	Super Godzilla (USA).sfc
@@ -3134,9 +3182,9 @@ c464855c3ee3cd6652dc42fc4bb2be38	Super Mario - Yoshi Island (Japan) (Rev 2).sfc
 05f0b393e491ae879cd1e729341c9430	Super Mario - Yoshi Island (Japan).sfc
 fd55a9ca1726f5cdcc699d9196d42158	Super Mario All-Stars (Europe) (Wii).sfc
 669efc8aa7365b5854d3653ab5598dc9	Super Mario All-Stars (Europe).sfc
+d9e7d0f3c0a220f5b655c84e324bd219	Super Mario All-Stars (USA, Europe) (Switch Online).sfc
 798aa6bd6739bd10c9fa345d3a112597	Super Mario All-Stars (USA) (Wii).sfc
 53c038150ba00d5f8d8574b4d36283f2	Super Mario All-Stars (USA).sfc
-d9e7d0f3c0a220f5b655c84e324bd219	Super Mario All-Stars (USA, Europe) (Switch Online).sfc
 7ecaf3e2e021c8a836041c85886f4594	Super Mario All-Stars + Super Mario World (USA).sfc
 4941387e96ed2841ee3c2de6d1899509	Super Mario All-Stars and Super Mario World (Europe).sfc
 188b9ebeae451a5f78c229515f5326f4	Super Mario Collection (Japan) (Rev 1) (Switch Online).sfc
@@ -3150,25 +3198,26 @@ b892c0000fc76ec9b516e8dd9303b5f1	Super Mario Kart (Japan) (Beta) (1992-04-13).sf
 f7afa112d7ec1d532636703e4b02700a	Super Mario Kart (Japan).sfc
 3eca3cad68d143f7b52bca866f93d5e0	Super Mario Kart (USA) (Beta) (1992-08-06).sfc
 7f25ce5a283d902694c52fb1152fa61a	Super Mario Kart (USA).sfc
+597823e50e531fbd300c0c7f334b34aa	Super Mario RPG - Legend of the Seven Stars (USA, Europe) (Virtual Console).sfc
+d0b68d68d9efc0558242f5476d1c5b81	Super Mario RPG - Legend of the Seven Stars (USA).sfc
 b252cc16c8b96675103dbe5d56ec37f9	Super Mario RPG (Japan) (Virtual Console).sfc
 59483feb9eb20207e3241e005fbdde7e	Super Mario RPG (Japan).sfc
-d0b68d68d9efc0558242f5476d1c5b81	Super Mario RPG - Legend of the Seven Stars (USA).sfc
-597823e50e531fbd300c0c7f334b34aa	Super Mario RPG - Legend of the Seven Stars (USA, Europe) (Virtual Console).sfc
+0a5c7f7ef18af0f3fa633a4adea463a2	Super Mario World - Super Mario Bros. 4 (Japan) (Classic Mini, Switch Online).sfc
+4e4f8f4cfdaabffdde20c8053202d4f0	Super Mario World - Super Mario Bros. 4 (Japan).sfc
 7bb0487eacdb78d6635e89d797e5ab74	Super Mario World (Europe) (Rev 1).sfc
 4f17a1a17a098d0a5312703b55ad134b	Super Mario World (Europe).sfc
 a5c6e868467ac0d5192373ff0372ee44	Super Mario World (Japan) (En) (Arcade) [b].sfc
-cdd3c8c37322978ca8669b34bc89c804	Super Mario World (USA).sfc
 c4d3cc5200f9b59dcc9444b69ff7d0ff	Super Mario World (USA, Europe) (Virtual Console, Classic Mini, Switch Online).sfc
-0a5c7f7ef18af0f3fa633a4adea463a2	Super Mario World - Super Mario Bros. 4 (Japan) (Classic Mini, Switch Online).sfc
-4e4f8f4cfdaabffdde20c8053202d4f0	Super Mario World - Super Mario Bros. 4 (Japan).sfc
+62a0803ae6e5deced9046d0db563590f	Super Mario World (USA) (Beta) (1990-10-25).sfc
+cdd3c8c37322978ca8669b34bc89c804	Super Mario World (USA).sfc
 9f235e4c17cf9762a49b83e82794d278	Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De) (Rev 1).sfc
 8de2ee0b0bdbdde16aefedecfb837971	Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De) (Rev 2).sfc
 cef1055e9b4a2be56ea7810c07976c17	Super Mario World 2 - Yoshi's Island (Europe) (En,Fr,De).sfc
 ce1e3e33b6e39d37b43d7de599f9e785	Super Mario World 2 - Yoshi's Island (USA) (Rev 1).sfc
 cb472164c5a71ccd3739963390ec6a50	Super Mario World 2 - Yoshi's Island (USA).sfc
 3d64f89499a403d17d530388854a7da5	Super Metroid (Europe) (En,Fr,De).sfc
-a70df9a82b0d5f3bde11090dc27e1504	Super Metroid (Japan) (En,Ja) (Virtual Console, Switch Online).sfc
 21f3e98df4780ee1c667b84e57d88675	Super Metroid (Japan, USA) (En,Ja).sfc
+a70df9a82b0d5f3bde11090dc27e1504	Super Metroid (Japan) (En,Ja) (Virtual Console, Switch Online).sfc
 6db92bfd8f039c847f584a437322db4a	Super Metroid (USA, Europe) (En,Ja) (Virtual Console, Classic Mini, Switch Online).sfc
 6691f4d34fb7d0f665d357b6c6649156	Super MIDI Pak (World) (Aftermarket) (Unl).sfc
 1c129ba1320dcfcf278fa9552e2653c5	Super Moero!! Pro Yakyuu (Japan).sfc
@@ -3180,6 +3229,7 @@ ad9b1606dad5c75f418ca79304720de8	Super Momotarou Dentetsu DX (Japan).sfc
 edff6c0a924f42c0f4790f3cf9d20e5a	Super Momotarou Dentetsu III (Japan).sfc
 5afbba346d499fa38552c500478df101	Super Morph (Europe).sfc
 9a111e14cc660863ef994fc5d01a803a	Super Naxat Open - Golf de Shoubu da Dorabocchan (Japan).sfc
+af806d095c5cf01dc850dbfe1d5c5113	Super Nazo Puyo - Rulue no Roux (Japan) (Beta).sfc
 bf4658e6ab66ec4f5388e17d63b33157	Super Nazo Puyo - Rulue no Roux (Japan).sfc
 43d9acf540aee0036f5da994b572dcd9	Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan) (Sample) (1996-06-26) ('96 Tokyo Omocha Show).sfc
 68a7f453ddee511365ccbb62c25a125f	Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan).sfc
@@ -3198,11 +3248,11 @@ cd136941a7924423388cb982c9ae5431	Super Nintendo Campus Challenge 1992 (Japan) (E
 12a8b93c8e3bc5e62c63d6572e014f10	Super Nobunaga no Yabou - Zenkoku Ban (Japan).sfc
 ab2513c8d1388d2fd9fe07496ed24d3a	Super Nova (USA) (Beta).sfc
 46fe82f2b73b4cfbc517cde1bd367693	Super Nova (USA).sfc
+e5f796e5c6997fc79ea432f378d7ad3f	Super Off Road - The Baja (USA) (Beta).sfc
+71823bed4e03f2b9175f38af26ad8871	Super Off Road - The Baja (USA).sfc
 8fd2d0b42286b001e3ea5e779426cccf	Super Off Road (Europe).sfc
 eda0d8e860d9fd89744aa927c3f52adf	Super Off Road (Japan) (En).sfc
 0c1cc5369a31c988858a087598bab9c3	Super Off Road (USA).sfc
-e5f796e5c6997fc79ea432f378d7ad3f	Super Off Road - The Baja (USA) (Beta).sfc
-71823bed4e03f2b9175f38af26ad8871	Super Off Road - The Baja (USA).sfc
 471b32bed8a1b45ae295a7aa944d18a8	Super Okumanchouja Game (Japan) (Rev 1).sfc
 864fea76885e76577e56378b56f47012	Super Okumanchouja Game (Japan).sfc
 929f0407b69e39fa0988ea7423b6a62a	Super Oozumou - Nessen Ooichiban (Japan) (Beta) (1992-10-10).sfc
@@ -3229,6 +3279,7 @@ b2b6349c1a60eeacf35d6780b025e217	Super Probotector - Alien Rebels (Europe).sfc
 797aab4e5ef7f61ac59334c16a4f0804	Super Probotector - Alien Rebels (World) (Contra Anniversary Collection).sfc
 a05f255c80e4374a2078c4a1c51624c5	Super Professional Baseball (Japan).sfc
 751556f9a4fe02132077e27ade1d6cb2	Super Professional Baseball II (Japan).sfc
+dc1375e9961217ffa35d51e413b23431	Super Punch-Out!! (Europe) (Beta).sfc
 49d619c689c21a6e41e2b98c31f5838a	Super Punch-Out!! (Europe).sfc
 bbb741d5844bd1c29531f42967369d9a	Super Punch-Out!! (Japan) (NP).sfc
 97fe7d7d2a1017f8480e60a365a373f0	Super Punch-Out!! (USA).sfc
@@ -3279,14 +3330,6 @@ bbc469d1aaaad8b0bd736cd383b23f9c	Super Soccer Champ (USA).sfc
 51c520d15881538d67398ba63f56e0ba	Super Soukoban (Japan).sfc
 511be47f77efc062f61256fec8cf62ea	Super Stadium (Japan).sfc
 700f0a4b0d161669ea4a7e7385c6c16f	Super Star Fox Weekend (USA).sfc
-676638e83ea0fd79ebde24674fcb948e	Super Star Wars (Europe) (Rev 1).sfc
-32fcfb6358da10ebcea6bb9fc99e4c8b	Super Star Wars (Europe).sfc
-f306742346c40c741e4dc045119483d3	Super Star Wars (Japan).sfc
-1424730ac110dd727eda5dfac9cceab9	Super Star Wars (USA) (Beta 1) (1992-07-10).sfc
-3adfdd751dd9e853530af2b2f5887211	Super Star Wars (USA) (Beta 2) (1992-07-17).sfc
-ab1c2cea41007ea28e7c461781a2d173	Super Star Wars (USA) (Beta 3) (1992-07-21).sfc
-744b9d1a382adfabf0515d6d0e5dfed7	Super Star Wars (USA) (Rev 1).sfc
-ea840d3722f90dee824f5064e171e510	Super Star Wars (USA).sfc
 65b9c64e817bb2e23a1e0b6b2ca5727e	Super Star Wars - Jedi no Fukushuu (Japan).sfc
 f005fb733b8b2d3c1c30435b8266465a	Super Star Wars - Return of the Jedi (Europe) (Beta).sfc
 33ae54bd306d290f259d2778f520859f	Super Star Wars - Return of the Jedi (Europe) (Rev 1).sfc
@@ -3299,6 +3342,16 @@ cd2f7caf038ba5f61ed27602df500d35	Super Star Wars - The Empire Strikes Back (Euro
 c2952fb60c0b269c19972bed8fcbcff6	Super Star Wars - The Empire Strikes Back (Europe).sfc
 61003f39100168a2ace6ff952c72689d	Super Star Wars - The Empire Strikes Back (USA) (Rev 1).sfc
 9e9286f8971abe77f34b0fcda8391e8f	Super Star Wars - The Empire Strikes Back (USA).sfc
+676638e83ea0fd79ebde24674fcb948e	Super Star Wars (Europe) (Rev 1).sfc
+32fcfb6358da10ebcea6bb9fc99e4c8b	Super Star Wars (Europe).sfc
+f306742346c40c741e4dc045119483d3	Super Star Wars (Japan).sfc
+1424730ac110dd727eda5dfac9cceab9	Super Star Wars (USA) (Beta 1) (1992-07-10).sfc
+3adfdd751dd9e853530af2b2f5887211	Super Star Wars (USA) (Beta 2) (1992-07-17).sfc
+ab1c2cea41007ea28e7c461781a2d173	Super Star Wars (USA) (Beta 3) (1992-07-21).sfc
+744b9d1a382adfabf0515d6d0e5dfed7	Super Star Wars (USA) (Rev 1).sfc
+ea840d3722f90dee824f5064e171e510	Super Star Wars (USA).sfc
+1c15189e9b9fb2e0d545e549bcc705d3	Super Street Fighter II - The New Challengers (Japan) (Virtual Console).sfc
+3a3ee93db76e2c5ca85df45564f9a9b0	Super Street Fighter II - The New Challengers (Japan).sfc
 ed03e331318aa91bb92102a8d1b2e99c	Super Street Fighter II (Europe) (Virtual Console).sfc
 68f9192f7d9553327a976662af9c331d	Super Street Fighter II (Europe).sfc
 d6dacfe8f4a2d229b22814898ab5f763	Super Street Fighter II (USA) (Beta 1).sfc
@@ -3306,8 +3359,6 @@ d6dacfe8f4a2d229b22814898ab5f763	Super Street Fighter II (USA) (Beta 1).sfc
 66d91c908712e023079a2b75f5b7b0fe	Super Street Fighter II (USA) (Rev 1) (Virtual Console).sfc
 884324d4a0ae66bc474bf9e2de5e77b0	Super Street Fighter II (USA) (Rev 1).sfc
 02c9c7e7914f9808487704e122554d4c	Super Street Fighter II (USA).sfc
-1c15189e9b9fb2e0d545e549bcc705d3	Super Street Fighter II - The New Challengers (Japan) (Virtual Console).sfc
-3a3ee93db76e2c5ca85df45564f9a9b0	Super Street Fighter II - The New Challengers (Japan).sfc
 29e13cc64a8a5ce0306715fc13f06310	Super Strike Eagle (Europe) (En,Fr,De,Es,It).sfc
 c0b915890406970a39cd2245cbb82633	Super Strike Eagle (USA).sfc
 1e436ff6f74aa0beab11b19d3b8163aa	Super Strike Gunner (Europe).sfc
@@ -3316,20 +3367,20 @@ d9b22466b44c0b573917471b26d7c7ac	Super SWIV (Europe).sfc
 b8fa47368395eac5405d35cfed842a86	Super SWIV (Japan) (En) (Beta 2).sfc
 e1140db6e8558b2a5592cfb9e2ef3cc7	Super SWIV (Japan) (En).sfc
 96c38a14f55c58b51435e9bdb0235998	Super Tekkyuu Fight! (Japan).sfc
+626860305219bb5b9b94b6d9f9980922	Super Tennis - World Circuit (Japan) (En).sfc
 c09b97c956bc42e3b942f9d8a3196686	Super Tennis (Europe) (Rev 1).sfc
 122ac9afc134df090bfbde77d5377a13	Super Tennis (Europe).sfc
 47f2a13e308c230140963c7cbacb2551	Super Tennis (USA) (Arcade).sfc
 17accf8a0b3d514561cadbdb03715a71	Super Tennis (USA).sfc
-626860305219bb5b9b94b6d9f9980922	Super Tennis - World Circuit (Japan) (En).sfc
 dad417dc031d7515d878fafdbe8b737b	Super Tetris 2 + Bombliss (Japan) (En) (Rev 1).sfc
 e1c86d4289ef84f5151f341f62876ef0	Super Tetris 2 + Bombliss (Japan) (En).sfc
 3a90852e4b43ac17a9b34f45980e4637	Super Tetris 2 + Bombliss Genteiban (Japan) (En).sfc
 f912c443a57a5ae1687eeaf6f2da49fc	Super Tetris 3 (Japan) (En).sfc
 9d614b0a2dcea723d50b12e1b437546f	Super Thor Quest (World) (Aftermarket) (Unl).sfc
+064da21cb7141dc16704bacd30d7da69	Super Troll Islands - Shiawase o Ageru (Japan).sfc
 ce48a03f3c521e07beac2caa5517a605	Super Troll Islands (Europe).sfc
 438fa265411aed4d6f95200ea9549c52	Super Troll Islands (USA) (Beta).sfc
 c8e1660e62581092da3b2e85c62c7537	Super Troll Islands (USA).sfc
-064da21cb7141dc16704bacd30d7da69	Super Troll Islands - Shiawase o Ageru (Japan).sfc
 4e068427171d650600d01209951a4dcb	Super Trump Collection (Japan).sfc
 e991dc51c1bd71c9e45b304584930fb9	Super Trump Collection 2 (Japan).sfc
 5e991d3a42686a716b92a8b802cc6d85	Super Tsumeshougi 1000 (Japan).sfc
@@ -3365,13 +3416,16 @@ e64922179311fddcbd95ca20a5507808	Super Yakyuudou (Japan).sfc
 1dc3708e81b8438e04d8bcde1070f26b	Super Zugan - Hakotenjou kara no Shoutaijou (Japan).sfc
 dc95fc8263a7a6865d70f91cfdb1ccc0	Super Zugan 2 - Tsukanpo Fighter (Japan).sfc
 2305598dae517e95d727c54a9b376117	Super!! Pachinko (Japan).sfc
+cabf7a303d2cf73a8de559372581a2e2	Supercooked! (World) (Aftermarket) (Homebrew).sfc
+d7542606d0645a5137d466a842d4fde7	Supercooked! (World) (v1.1) (Aftermarket) (Homebrew).sfc
+34c8e693445cde7ca1c39e8f7815c55e	Supercooked! (World) (v1.2) (Aftermarket) (Homebrew).sfc
 f5f5da8353fa71bbefa040f97b986154	Superman (USA) (Demo) (1992-05-25).sfc
-aae080871209150797e19f7e7be7db31	Sure Instinct (World) (v1.0) (NTSC) (Aftermarket) (Homebrew).sfc
-cc5d0bddb5b005d54622286c36fbbe6a	Sure Instinct (World) (v1.0) (PAL) (Aftermarket) (Homebrew).sfc
 30e80082761dabfc9c596f6b952be49c	Sure Instinct (World) (v1.0.1) (NTSC) (Aftermarket) (Homebrew).sfc
 47432f0ba95abdc677ebae453eca2e84	Sure Instinct (World) (v1.0.1) (PAL) (Aftermarket) (Homebrew).sfc
 67fd0fe365a6b7ad5e4c39aaa4ca5288	Sure Instinct (World) (v1.0.2) (NTSC) (Aftermarket) (Homebrew).sfc
 3d19ca20e3bfc4df2ec594108a5c7c0a	Sure Instinct (World) (v1.0.2) (PAL) (Aftermarket) (Homebrew).sfc
+aae080871209150797e19f7e7be7db31	Sure Instinct (World) (v1.0) (NTSC) (Aftermarket) (Homebrew).sfc
+cc5d0bddb5b005d54622286c36fbbe6a	Sure Instinct (World) (v1.0) (PAL) (Aftermarket) (Homebrew).sfc
 b3612a5c6e4c7798f45bbf5b37857f20	Sutobasu Yarou Show (Japan).sfc
 0d3595a81c50d5dda714cd2fd66164b2	Sutte Hakkun (Japan).sfc
 81cee1957fa875efbedaff130848ba9e	Suzuka 8 Hours (Japan) (En).sfc
@@ -3448,12 +3502,16 @@ b496e5f78ec53c3222b58535617e108b	Tecmo Super NBA Basketball (USA) (SNS-NA).sfc
 762557921081e2ade5d3f1ec599892e5	Tecmo Super NBA Basketball (USA) (SNS-XM).sfc
 f009f85c09b421748c8944957f7efeb7	Teenage Mutant Hero Turtles - Tournament Fighters (Europe).sfc
 d61a2b7f57a1c944d5b6b7deebf90131	Teenage Mutant Hero Turtles IV - Turtles in Time (Europe).sfc
+2f034a054165d575886216cabb26dbcd	Teenage Mutant Ninja Turtles - Mutant Warriors (Japan) (Aftermarket) (Homebrew).bin
 1b7851989f649bcfaa3257b78bd3b1a2	Teenage Mutant Ninja Turtles - Mutant Warriors (Japan).sfc
 2534450c6cc3bf67b964a28c0502e932	Teenage Mutant Ninja Turtles - Tournament Fighters (Australia).sfc
+a5af3b538c7ef7f0dadae918c09228e7	Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (Aftermarket) (Homebrew).bin
 9e0ab707d7133d78219b75426f3abc5b	Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (Beta).sfc
 878e95bca6b94b3fa0e72fef1867434c	Teenage Mutant Ninja Turtles - Tournament Fighters (USA).sfc
+492c168e243685c6a7ba67096ac25eb2	Teenage Mutant Ninja Turtles - Turtles in Time (Japan) (Aftermarket) (Homebrew).bin
 d5863df08bbb62fdc5fae32a07ed580b	Teenage Mutant Ninja Turtles - Turtles in Time (Japan).sfc
 1481a235fb9a9cc6de00d85fa22505c4	Teenage Mutant Ninja Turtles IV - Turtles in Time (Australia).sfc
+c614d003dccfe3c058a2c018a40a34fe	Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (Aftermarket) (Homebrew).bin
 5b0099e2b44a9ee1a5db684653ffed73	Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (Beta 1).sfc
 48393a751626e851351f7e08c4e1b73e	Teenage Mutant Ninja Turtles IV - Turtles in Time (USA) (Beta 2).sfc
 807009d25eb31559974daa3e39eeccd7	Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).sfc
@@ -3462,7 +3520,7 @@ d5863df08bbb62fdc5fae32a07ed580b	Teenage Mutant Ninja Turtles - Turtles in Time 
 e3465e0eacd7e74b274c1347cab58af3	Teitoku no Ketsudan II (Japan) (Rev 1).sfc
 99de0f32588960906b3f5305ef3c04d5	Teitoku no Ketsudan II (Japan).sfc
 65560f43dc2aafc6093c6e992409f75e	Tekichuu Keiba Juku (Japan).sfc
-5513579a778a6045ceabca1e3cc988e8	Tekken 2 (World) (Pirate).sfc
+5513579a778a6045ceabca1e3cc988e8	Tekken 2 (USA) (Pirate).sfc
 7bf8df438a1bdb89840dc5b5a26e6833	Tenchi Muyou! - Game Hen (Japan) (Sample).sfc
 2402f5886f141c8c81ad863b1f603975	Tenchi Muyou! - Game Hen (Japan).sfc
 81e3d2dbadbb7e886cebb9ff2f8f8064	Tenchi o Kurau - Sangokushi Gunyuuden (Japan).sfc
@@ -3490,6 +3548,7 @@ db2c468aa5888bb669938724abee691d	Tetris 2 (USA) (Rev 1).sfc
 3a8bced70aa5afc873f0de1b2e2d388a	Tetris 2 (USA).sfc
 90854fcf608034c654745ae24411ef7a	Tetris Attack (Europe) (En,Ja).sfc
 44bb94606356f1c0965e12bbc50866b3	Tetris Attack (USA) (En,Ja).sfc
+70719aae2f31d95265348fb625af823b	Tetris Battle Gaiden (Japan) (Beta).sfc
 f21e1fefcb3187877060b3fafb53abd2	Tetris Battle Gaiden (Japan).sfc
 77865ee0e03a2e1a05afdb93c5126c47	Tetris Flash (Japan) (En).sfc
 053e92d49e0586f2768d6fb245a4afc2	Tetsuwan Atom (Japan).sfc
@@ -3520,8 +3579,6 @@ b24bcd646a121c3f031640de5ad393cb	Timeslip (Europe).sfc
 beb9fd851586af3ad5172d07ae1a9103	Tintin - Prisoners of the Sun (Europe) (En,Fr,De,Es).sfc
 e406f7225927ddce1b25aa0f1ab6e043	Tintin in Tibet (Europe) (En,Es,Sv).sfc
 5d6716d6793e9f9c456265d18cf763bc	Tintin in Tibet (Europe) (En,Fr,De,Nl).sfc
-e09d7a243ff5e944f058dafbaa60f107	Tiny Toon Adventures (Japan) (Rev 1).sfc
-19a1e55f30354ff715d9e2bba705efc8	Tiny Toon Adventures (Japan).sfc
 634a1209c90063589551349717ca1ef0	Tiny Toon Adventures - Buster Busts Loose! (Europe).sfc
 c8ebc624d2bccbf3eb3f46c434a24cb8	Tiny Toon Adventures - Buster Busts Loose! (Spain).sfc
 c7a4a2e9b545a88c1caf495810de6022	Tiny Toon Adventures - Buster Busts Loose! (USA) (Beta).sfc
@@ -3531,6 +3588,8 @@ c7a4a2e9b545a88c1caf495810de6022	Tiny Toon Adventures - Buster Busts Loose! (USA
 047684cd1c2d6cb158bef2e3176a048b	Tiny Toon Adventures - Wild & Wacky Sports (Europe) (Beta).sfc
 513443cbeb457a436350226d8e40ff08	Tiny Toon Adventures - Wild & Wacky Sports (Europe) (Rev 1).sfc
 b4c4d7760020444ae63dbe794e154aa1	Tiny Toon Adventures - Wild & Wacky Sports (Europe).sfc
+e09d7a243ff5e944f058dafbaa60f107	Tiny Toon Adventures (Japan) (Rev 1).sfc
+19a1e55f30354ff715d9e2bba705efc8	Tiny Toon Adventures (Japan).sfc
 64ce2b4355bc57aa2dd0db73882ac87b	TKO Super Championship Boxing (Europe).sfc
 cfdcd6a8ede7eeb243b2facf6344aaa8	TKO Super Championship Boxing (USA) (Sample) (August, 1992).sfc
 ce4c0781255c881e57fa370ecffb776f	TKO Super Championship Boxing (USA).sfc
@@ -3616,8 +3675,8 @@ a6b1afe394b84e6775fbd31e6021667e	Tsukikomori (Japan) (Rev 1) (NP).sfc
 0c5db1d1288f76e3f26f433805903efe	Tsuppari Oozumou - Risshinshusse Hen (Japan).sfc
 427057a9f665735fd086efd33a889158	Tsuri Tarou (Japan).sfc
 bc657de4869d156eea79a60d9707753e	Tsuyoshi Shikkari Shinasai - Taisen Puzzle Dama (Japan).sfc
+d442a95e842a44f89248a9132c870b2e	Tuff E Nuff (Europe).sfc
 050d9d0cfc04dce72d96c75ee15330f5	Tuff E Nuff (USA).sfc
-d442a95e842a44f89248a9132c870b2e	Tuff E Nuff ~ Fighting Spirit - Tuff E Nuff (Europe).sfc
 3dfd2c576e5ad135a58d12e8197f1254	Turbo Toons (Europe).sfc
 22399656483ec9a37281d93ec538ff70	Turbo Toons (USA) (Proto).sfc
 f215b8eca62c7f8c48753a476419f82c	Turf Hero (Japan).sfc
@@ -3650,6 +3709,7 @@ fcc16838355a306851685e87ea5291e1	Ultimate Fighter (USA).sfc
 8085eeea42c0f7da8f91a37fdf683769	Ultimate Mortal Kombat 3 (Europe).sfc
 0644da71f79d405a22934daa1474cefc	Ultimate Mortal Kombat 3 (USA).sfc
 f3e68216832bf359d57754169e2c8c5c	Ultra Baseball Jitsumei Ban (Japan).sfc
+68ab0ab25b27d3a4b1bc8d5567ca703e	Ultra Baseball Jitsumei Ban 2 (Japan) (Beta).sfc
 b03f6535a9030cb74ad8f066430c2a21	Ultra Baseball Jitsumei Ban 2 (Japan).sfc
 53ba51fbfdf8f90649e8fc6a4fc252af	Ultra Baseball Jitsumei Ban 3 (Japan).sfc
 a78ec64d1a77628599585f4ea48866e6	Ultra League - Moero! Soccer Daikessen!! (Japan).sfc
@@ -3670,6 +3730,7 @@ e7a8d61520fd7d53979e68f53ab2dd8c	Undercover Cops (USA) (Aftermarket) (Unl).sfc
 2e60fe37d3cb806483c825118b4f55a6	Unholy Night - The Darkness Hunter (Japan) (En) (Unl).sfc
 f576939ea198dd4efd11f23a358f1e24	Unholy Night - The Darkness Hunter (USA) (Unl).sfc
 1066cfd0c6be4dbdfede796751e801c5	Uniracers (USA).sfc
+dad6658fba469309db2a8d0ed86551f5	Unirally (Europe) (Beta) (1994-11-29).sfc
 2209427113f6535329c8b17ebab8a2e5	Unirally (Europe).sfc
 0a389e9a974727c7da165bf030ea9ffb	Universal Soldier (USA) (Proto).sfc
 898ad86d5dbc153e8ec2e02983805b82	Untitled Racing Game (Unknown) (Proto).sfc
@@ -3679,12 +3740,12 @@ ba062180af345b7d546b38e21c38e982	Urban Strike (Europe).sfc
 bd9bba9b7948cf5d746ace701b606b54	USA Ice Hockey (Japan) (En) (Rev 1).sfc
 61df2fa790b7b4e0369e8739e6a09a7f	USA Ice Hockey (Japan) (En).sfc
 56eb2efae78362a61a06067199029155	Ushio to Tora (Japan).sfc
-45ce898bf6d5d2e6985c09ade904b1f7	Utopia (Germany).sfc
-4ec1f4febe8e9f33d87a57dc04c5a086	Utopia (Japan).sfc
 69b3902862e87ced1efe9c10f1a7fe08	Utopia - The Creation of a Nation (Europe).sfc
 5bb4f9f013b8cd61e65fb6f0e07ff4f5	Utopia - The Creation of a Nation (USA) (Beta 1).sfc
 b134e9d0ea72cab8bcd33b7474c95089	Utopia - The Creation of a Nation (USA) (Beta 2).sfc
 b8b521a743405aea9e9c2ca9a5c77f9f	Utopia - The Creation of a Nation (USA).sfc
+45ce898bf6d5d2e6985c09ade904b1f7	Utopia (Germany).sfc
+4ec1f4febe8e9f33d87a57dc04c5a086	Utopia (Japan).sfc
 13f182e32ce9d216883931e684518750	Val d'Isere Championship (Europe) (Beta) (1993-10-27).sfc
 71d70b2395f6200f08a4dbcc7ff1c73d	Val d'Isere Championship (Europe) (Rev 1).sfc
 c9e6044768e8d0d903a621d71d6687f9	Val d'Isere Championship (Europe).sfc
@@ -3737,8 +3798,8 @@ b1cf44cac54fd4ec14b040d10d20a544	We're Back! - A Dinosaur's Story (USA) (Beta).s
 8bbf9641d30c13012cf747e91c2565ab	WeaponLord (Europe).sfc
 71213da150ae5e01641dc4035565c6f2	WeaponLord (USA).sfc
 026314480d07c1670197d34fcca725b1	Wedding Peach (Japan).sfc
-a441ca7c8065711ff48417c094b888db	Wheel of Fortune (USA).sfc
 674c9ce830025b4700928359b52f902c	Wheel of Fortune - Deluxe Edition (USA).sfc
+a441ca7c8065711ff48417c094b888db	Wheel of Fortune (USA).sfc
 0f8be220e192be92be08fe0a6cffabc7	Where in the World Is Carmen Sandiego (Europe) (En,Fr,De,Es,It).sfc
 dfccfa0a4411bb0bfb29f777cac53858	Where in the World Is Carmen Sandiego (USA) (En,Fr,De,Es,It).sfc
 23c8b0aea8bc0dd0c03b252eaa98f8c6	Where in Time Is Carmen Sandiego (USA) (En,Fr,De,Es,It).sfc
@@ -3755,21 +3816,21 @@ d19a9d632845e4a654d803d0d4abd670	Wild Guns (Europe).sfc
 38a956a46522869abbe0608d55fa346f	Wile E's Revenge (Europe) (Proto).sfc
 15af581af35fa1bbae2cee3de57a1662	Williams Arcade's Greatest Hits (Europe).sfc
 67f764afb3cd56cf3d96fb328353d511	Williams Arcade's Greatest Hits (USA).sfc
+23eacdcfa2307d23a707da23d8a66d0b	Wing Commander - The Secret Missions (Europe) (Beta).sfc
+a11e2603d29b3af2554cb95a8c390386	Wing Commander - The Secret Missions (Europe).sfc
+e55cb77e878115fd5c224134450047c6	Wing Commander - The Secret Missions (USA).sfc
 a8f7acbe9dfee7efc3e581a445238c50	Wing Commander (Europe).sfc
 a1b7c3a1f75ea9b385263b181117770c	Wing Commander (Germany) (Rev 1).sfc
 dfbc169b9927f0e8881857889ec9811e	Wing Commander (Germany).sfc
 0a8c257612b2e42624dc81ac8fbaf03e	Wing Commander (Japan).sfc
 19c9a9f9e6835bd2879d8c9bad3830ad	Wing Commander (USA).sfc
-23eacdcfa2307d23a707da23d8a66d0b	Wing Commander - The Secret Missions (Europe) (Beta).sfc
-a11e2603d29b3af2554cb95a8c390386	Wing Commander - The Secret Missions (Europe).sfc
-e55cb77e878115fd5c224134450047c6	Wing Commander - The Secret Missions (USA).sfc
 24af413b6b630d81a8225e0756278ef0	Wings 2 - Aces High (USA) (Beta).sfc
 14f3e38280bd12c6fbf90fd3a77c375f	Wings 2 - Aces High (USA).sfc
 a3865d95ae478b4a6077a58431f9c7d0	Winning Post (Japan) (Rev 1).sfc
 e60d13827b094f7399f24902d46b1d90	Winning Post (Japan).sfc
-4bdb57833b26a5b246b7c6c7164a408f	Winning Post 2 (Japan).sfc
 586e2566263265fea283e02dcc8fd715	Winning Post 2 - Program '96 (Japan) (Rev 1).sfc
 b6bdf612e5d7997f980c139598d429d4	Winning Post 2 - Program '96 (Japan).sfc
+4bdb57833b26a5b246b7c6c7164a408f	Winning Post 2 (Japan).sfc
 5794995d6d7bb06bfc87fec2f40ccc80	Winter Gold (Europe).sfc
 c895fd98f59546c54c2a5c015a9dd2bc	Winter Olympic Games - Lillehammer '94 (USA) (En,Fr,De,Es,It,Pt,Sv,No).sfc
 f99d2871eb40f06c6c62139bcc926775	Winter Olympics - Lillehammer '94 (Europe) (En,Fr,De,Es,It,Pt,Sv,No).sfc
@@ -3784,14 +3845,14 @@ f99d2871eb40f06c6c62139bcc926775	Winter Olympics - Lillehammer '94 (Europe) (En,
 f5ae0c2811ac905f798c70a972184f43	Wizardry VI - Kindan no Mahitsu (Japan).sfc
 a7541f6554a7fa1aab250039ce24bcd8	Wolfchild (USA).sfc
 418034d574ebdaea7659b3a90eebef58	Wolfenstein 3-D (USA).sfc
+37571f2b864572facc0c8c67079c0ba3	Wolfenstein 3D - The Claw of Eisenfaust (Japan).sfc
 e807372e95281d5268579283ec3d115f	Wolfenstein 3D (Europe).sfc
 1ba48c769e64413f4456accb00b918c6	Wolfenstein 3D (USA) (Beta 1).sfc
 d2761bb77bdda42f53f57e9c0043b710	Wolfenstein 3D (USA) (Beta 2).sfc
-37571f2b864572facc0c8c67079c0ba3	Wolfenstein 3D - The Claw of Eisenfaust (Japan).sfc
-5629862516b201ae74adba025dd5e228	Wolverine (Japan) (En).sfc
 b34d1223d4756aa1074069dd807a237f	Wolverine - Adamantium Rage (Europe).sfc
 aaaecee1fa991d3c5e66667ecf6dd84f	Wolverine - Adamantium Rage (USA) (Beta).sfc
 8d2cfb56c792e03df5b423e73b86fec0	Wolverine - Adamantium Rage (USA).sfc
+5629862516b201ae74adba025dd5e228	Wolverine (Japan) (En).sfc
 42e9be5f98bb5ece06da79b3dbf26fa9	Wonder Project J - Kikai no Shounen Pino (Japan).sfc
 4e8b9004605aecccd2f6f93217e6a21b	Wondrous Magic (Japan).sfc
 064890308850724bc7f1418fb201893c	Wordtris (USA).sfc
@@ -3844,7 +3905,7 @@ babbdcd3be4f6b4806e129e0740aefce	X-Kaliber 2097 (USA).sfc
 20ef356938af10ead37a3ab5105a7a67	X-Men - Mutant Apocalypse (Europe).sfc
 630be0968ab1c7da7ec78725873ea20e	X-Men - Mutant Apocalypse (Japan).sfc
 0c8d8fd7e695499b86d39cc75e166671	X-Men - Mutant Apocalypse (USA).sfc
-740e48a66f1de6135c818433daaafc55	X-Men vs. Street Fighter (World) (Pirate).sfc
+740e48a66f1de6135c818433daaafc55	X-Men vs. Street Fighter (USA) (Pirate).sfc
 1e6d224dd2a2bc8678b7aa5817c7db96	Xak - The Art of Visual Stage (Japan).sfc
 c9635c92b61ed95153f4088bbbc67df6	Xandra no Daibouken - Valkyrie to no Deai (Japan).sfc
 4369249d5f53fb9d70b1915cf533af03	Xardion (USA).sfc
@@ -3864,8 +3925,8 @@ e96ddc274b009e061cd0d579eb7be987	Yokoyama Mitsuteru Sangokushi 2 (Japan).sfc
 1019ec986177c949f715685b52b2e7bd	Yokoyama Mitsuteru Sangokushi Bangi - Sugoroku Eiyuu-ki (Japan).sfc
 c8927f39f090349439a35576b7e1be1b	Yokozuna Monogatari (Japan) (Rev 1).sfc
 d036603e5f9696bc4970e3bcb15c8b74	Yokozuna Monogatari (Japan).sfc
-0e9793c6be37b4762e9f91bdd9ad5271	Yoshi no Cookie (Japan) (En).sfc
 3caa81141b1404dcce0b6b761b58b537	Yoshi no Cookie - Kuruppon Oven de Cookie (Japan).sfc
+0e9793c6be37b4762e9f91bdd9ad5271	Yoshi no Cookie (Japan) (En).sfc
 ad04758596f502576972ea3b163e8f13	Yoshi no Road Hunting (Japan).sfc
 79b7787c762f65a959ec6f219eb623b5	Yoshi's Cookie (Europe).sfc
 d87b90a210252ba42992e9509337e639	Yoshi's Cookie (USA) (Beta) (1993-01-19).sfc
@@ -3883,8 +3944,8 @@ c8236962fd9f85f6d1961934166d6bd5	Ys III - Wanderers from Ys (USA).sfc
 a4e5ed2dbd1e3612917b91ab58e6feea	Ys IV - Mask of the Sun (Japan).sfc
 7751f78e4487baffef4bba7984a8d266	Ys V - Expert (Japan).sfc
 f630c6e0f11fd53d112f3dd004ea7184	Ys V - Ushinawareta Suna no Miyako Kefin (Japan).sfc
-7c1b4a78dca0a2cd3acd23b419213601	Yu Yu Hakusho (Japan).sfc
 4442fa1537a32909dd1c6d914a12c246	Yu Yu Hakusho - Tokubetsu Hen (Japan).sfc
+7c1b4a78dca0a2cd3acd23b419213601	Yu Yu Hakusho (Japan).sfc
 d5f4d1a52de393e6ef10d707e92fd2cb	Yu Yu Hakusho 2 - Kakutou no Shou (Japan).sfc
 49812bd8fc347c5c4d0d5207933cfd71	Yu Yu Hakusho Final - Makai Saikyou Retsuden (Japan).sfc
 0c7569c7858ab033a5120c47ea134ddb	Yumemaboroshi no Gotoku (Japan).sfc
@@ -3902,8 +3963,8 @@ dfee511eea1494cac72f9b1988bc3474	Zelda no Densetsu - Kamigami no Triforce (Japan
 2947bd08df041aa116f908448e8d914e	Zelda no Densetsu - Kamigami no Triforce (Japan) (Rev 2).sfc
 03a63945398191337e896e5771f77173	Zelda no Densetsu - Kamigami no Triforce (Japan).sfc
 ca0ad8e4c09a8e8cb02cc92eab44c173	Zen-Nihon GT Senshuken (Japan).sfc
-aa9f1998ddbdeaf0ffb2385d88ba17b6	Zen-Nihon Pro Wres (Japan).sfc
 97599530546821bfdefae6a658760170	Zen-Nihon Pro Wres - Fight da Pon! (Japan).sfc
+aa9f1998ddbdeaf0ffb2385d88ba17b6	Zen-Nihon Pro Wres (Japan).sfc
 78b0baeb0c63cd5447bbc6f1fca90805	Zen-Nihon Pro Wres 2 - 3-4 Budoukan (Japan).sfc
 51cbb35d6c1d4aed81d895e578761710	Zen-Nihon Pro Wres' - Sekai Saikyou Tag (Japan).sfc
 304b1ce0e8b693a225dd2522a1e1f49b	Zenkoku Juudan Ultra Shinri Game (Japan).sfc
@@ -3922,13 +3983,12 @@ a4972f90602c0a86855a861df59afb22	Zombies (Europe) (Virtual Console).sfc
 8b1d78752f37754726595b677211fc47	Zombies (Europe).sfc
 5b1909dcfbdeb26fc33fb555bfc4d183	Zombies Ate My Neighbors (USA) (Virtual Console).sfc
 23c2af7897d9384c4791189b68c142eb	Zombies Ate My Neighbors (USA).sfc
-9e04628f95062d5434f644f30c79e404	Zool (USA) (Beta).sfc
 201d393b3f19976f2647760885a06e92	Zool - Ninja of the 'Nth' Dimension (Europe).sfc
 c6990eb9e957568112e41439f054f0e3	Zool - Ninja of the 'Nth' Dimension (USA).sfc
+9e04628f95062d5434f644f30c79e404	Zool (USA) (Beta).sfc
 720de2f44de00c8677094a6cfb780709	Zool no Yume Bouken (Japan) (En).sfc
 45c4ea9f916ecb36b123f53f4bd7aa62	Zoop (Europe).sfc
 9b3c1ffb0e4ffeb56d07ebed5f64bf01	Zoop (USA) (Beta).sfc
 0b7a524e5470eca3ed29b75e427a7cf4	Zoop (USA).sfc
 a990ae4416dd75f7c68c5db06425d648	Zootto Mahjong! (Japan) (NP).sfc
 c61dfcd839b71b76d2fa773a9d519476	Zootto Mahjong! (Japan) (Rev 1) (NP).sfc
-865d9f3208dd32d8ccf8f5d85b3e18bc	[BIOS] Super NES CD-ROM - Boot ROM (Japan) (En) (v0.95) (Proto).sfc

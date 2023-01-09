@@ -1,9 +1,8 @@
-4187a797e33bc96a96993220da6f09f7	89 Dennou Kyuusei Uranai (Japan).nes
 42654307559f11fb32f4f513c9f535b1	[BIOS] Demo Vision (USA) (Rev 2) (Program).nes
 38c3308ef803392218c6ba2f3bd91c97	[BIOS] Sharp Famicom Titler (Japan).nes
 2165d3042c9caad204b941845e7eb0f2	[BIOS] Sharp My Computer TV C1 (Japan).nes
 bb2d60addde395320424adfe49ca0432	[BIOS] Wide Boy (World) (Rev 1).nes
-777f14c2fd9a5ee5a9d0eb7e0cc7f424	[BIOS] Wide Boy-3 (Unknown).nes
+777f14c2fd9a5ee5a9d0eb7e0cc7f424	[BIOS] Wide Boy-3 (Japan).nes
 7eeb1e334f18ee96ba8f7a0c28d3b0c1	[Welcome To] Eville (USA) (Aftermarket) (Homebrew).nes
 96661887a962230758ef0507d5a8c258	0-to-X (USA) (Numbered Edition) (Aftermarket) (Unl).nes
 6754ebb9cebded951ed3dc7bc7fce086	0-to-X (World) (Demo) (Aftermarket) (Unl).nes
@@ -11,8 +10,11 @@ bb2d60addde395320424adfe49ca0432	[BIOS] Wide Boy (World) (Rev 1).nes
 7f7a89ef806464338b1722c120648e7d	10-Yard Fight (Japan).nes
 bd2c15391b0641d43a35e83f5fce073a	10-Yard Fight (USA, Europe).nes
 1a273757a4775b2a5fca0b3d8af0136f	100 Man Dollar Kid - Maboroshi no Teiou Hen (Japan).nes
+570230678583bef407dd0e980de4a270	100-in-1 Contra Function 16 (Asia) (En) (Pirate).nes
 6f6150bfbf6ff205bfe21eb7c7800155	1007 Bolts (World) (Aftermarket) (Homebrew).nes
 291c495087be358a1d6296d7350216b2	110 in 1 (Asia) (En) (Pirate).nes
+691c3839150dc79c229e826a96012273	168-in-1 (Asia) (En,Ja) (AB CARD-15) (Aftermarket) (Pirate).nes
+35e14cc860b28d03045f2757467cd312	18-in-1 (Asia) (En) (Pirate).nes
 0b66fdf88964235c434daff62837af60	1942 (Japan, USA) (En).nes
 9315b733fd8d1cdf4339eaa587f39eca	1943 - The Battle of Midway (Japan) (Beta).nes
 190d10a3685f87ba32135ac595283f36	1943 - The Battle of Midway (USA).nes
@@ -20,10 +22,13 @@ f3a8822ec4ad196348d6c959289d34e1	1943 - The Battle of Valhalla (Japan).nes
 83c05ff2c355c6ccde2e6c9183570e9c	1943 (Japan) (FamicomBox).nes
 5204e9eed591bd03a0b0665a46730bf1	1991 Du Ma Racing (Asia) (Ja) (Idea-Tek) (Unl).nes
 d3ca1be9e919a25c6a6b023f12a10099	1991 Du Ma Racing (Asia) (Ja) (Micro Genius) (Unl).nes
+88a111a109d98bedfc6bbd3b05612886	1992 Gaishi 190-in-1 Hua Mian Xuan Guan (Asia) (En) (Pirate).nes
 988dd282d308a5e979a53a782f1c8326	1999 - Hore, Mitakotoka! Seikimatsu (Japan).nes
 6d5bf42aa800533d4797a6e3dedfbdf4	2 in 1 Geminim-Siamond (World) (Aftermarket) (Unl).nes
+ca162b3354a902c47d97efe84479f945	2-in-1 - Conan & Rygar (Asia) (En) (RC58) (Pirate).nes
 0050570a82fc31b0cd236f9098f80af9	2010 Street Fighter (Japan).nes
 be1063151f68c58d712138c568c73c8b	2048 (World) (Rev 5) (Aftermarket) (Homebrew).nes
+592e4964a6b39cedc81e282d2cd6b3d3	23-in-1 Super Game (Greece) (En) (K23-001) (Pirate).nes
 3aae1dc549700fc55ddd595ccec0eba2	240p Test Suite (World) (v0.01) (Program) (Aftermarket) (Homebrew).nes
 281c6a3befdf27e79723023222d53c0f	240p Test Suite (World) (v0.02) (Program) (Aftermarket) (Homebrew).nes
 0cd3f4700db8b8116e2e78cd1b673fba	240p Test Suite (World) (v0.03) (Program) (Aftermarket) (Homebrew).nes
@@ -61,6 +66,7 @@ b87587702e2af119f6b34305184e9ae0	240p Test Suite (World) (v0.20) (Program) (Afte
 1ccb7681d6a2541577a89fd9d7671d3c	240p Test Suite (World) (v0.21) (Program) (Aftermarket) (Homebrew).nes
 a3568c52486d2ee181e382819c23c1da	240p Test Suite (World) (v0.22) (Program) (Aftermarket) (Homebrew) (Alt).nes
 b88b224eac4554b5f3e5705147ca3bd9	240p Test Suite (World) (v0.22) (Program) (Aftermarket) (Homebrew).nes
+dca94bb105875b82b6b3239d2bba9d2f	24K 4-in-1 Baozheng Zhen Ka Quanji (Asia) (En) (Pirate).nes
 a05636ff0cb8c105bf6147517dc2cf32	2600 AD (World) (Demo) (Aftermarket) (Homebrew).nes
 704cdd0cee6e5a0edb70850af30ecaa4	2A03 Puritans (World) (Aftermarket) (Unl).nes
 b14f1367d9f27f114f296bd2452737ac	3 in 1 Supergun (Asia) (En) (Unl).nes
@@ -69,15 +75,22 @@ b14f1367d9f27f114f296bd2452737ac	3 in 1 Supergun (Asia) (En) (Unl).nes
 a03a8a2695c2bb058ea7a47c6c447111	3-in-1 2p Pak (World) (Rob Bryant's) (Aftermarket) (Homebrew).nes
 766cd20be1ebc216da3b1e794b14a295	3-in-1 2p Pak (World) (Sly Dog Studios) (Aftermarket) (Homebrew).nes
 b2ab4527b03c89e8d85c1765aa0522df	31-in-1 (Asia) (En) (Pirate).nes
+8c4bb5a58d554b4162266d28292dc2a2	32-in-1 (Asia) (En) (Pirate).nes
 c679949f7e8e997be630df9eb85e0738	3D Block (Asia) (En) (Hwang Shinwei) (Unl).nes
 169e7469ccb1c0d2afaa8c2e7279bd8b	3D Block (Asia) (Ja) (RCM Group) (Unl).nes
 b6a80df3985843b31b55f7af6d1d4546	4 Nin Uchi Mahjong (Japan) (Rev 1).nes
 32eecc96b3e1eeecde1c079869dba63a	4 Nin Uchi Mahjong (Japan).nes
+a8bae9d559b4be7545f48aa33922e3b4	4-in-1 (NC-80) (Asia) (En) (Pirate).nes
+eacbefbf670aa2b39b51e111209acace	4-in-1 (SN 406) (Asia) (En) (Pirate).nes
+3663ea5ca8162aff2f3f63b7cc5b1963	58-in-1 (Asia) (En,Zh) (FL-58) (Pirate).nes
 2afb0f67ec0cc9a8a2ccaeb5e6a3e568	64-in-1 (Asia) (En) (Pirate).nes
+657150b4586202bf9a9653c626a9f068	68-in-1 (Asia) (En) (WQ2006 D) (Pirate).nes
 bb9f640237a953b4753df9d2a8dc31b3	720 Degrees (USA).nes
+73faab2c36f87e34c9e6b114aa8751d3	77-in-1 (Asia) (En) (WQ1806 E) (Aftermarket) (Pirate).nes
 22b180b6060d45244a007f73da42d370	8 Eyes (Japan).nes
 b1680d0aa5416fc14cd256907f8add1f	8 Eyes (USA).nes
 b6d731ee3ff34e8b0b9f776329535c4d	8 Eyes (World) (Aftermarket) (Unl).nes
+66e7c92302824d289c8f65acf7770b99	8 Eyes (World) (Pixel Heart) (Aftermarket) (Unl).nes
 694adbf6a69e89370a614084c5bcbdea	8-BIT ADV STEINS;GATE (USA) (Nintendo Switch).nes
 db232fecbfa4174aa7c8422095adefc9	8-Bit Hero Trainer (World) (Aftermarket) (Unl).nes
 5d672b833f29aaeff1d8c66fc518ccd1	8-BIT XMAS 2008 (World) (Demo) (Aftermarket) (Unl).nes
@@ -99,12 +112,17 @@ da5197a83474cb61ab7ac77708a86af2	8-BIT XMAS 2018 (World) (Aftermarket) (Unl).nes
 2c77320637188297a362a24a89c5e4a8	8-BIT XMAS 2019 (World) (Aftermarket) (Unl).nes
 9c73fdb2729d545dc16fa869773b87de	8-BIT XMAS 2020 (World) (Aftermarket) (Unl).nes
 00cdca65e0825784099a138d610fd68f	8-BIT XMAS 2021 (World) (Aftermarket) (Unl).nes
+9b7257234ede596c9bf4217b6e6c3d3a	8-BIT XMAS 2022 (World) (Aftermarket) (Pirate).nes
+4495a2498d6fd02f92ab283e418ad473	8-BIT XMAS 2022 (World) (Demo) (Aftermarket) (Pirate).nes
+4187a797e33bc96a96993220da6f09f7	89 Dennou Kyuusei Uranai (Japan).nes
 c58e565af73d4c51ba06f17591765ef3	8BIT MUSIC POWER (Japan) (En) (Aftermarket) (Unl).nes
 b0a199a22703a1e259c36cc302198a15	8BIT MUSIC POWER ENCORE (Japan) (En) (Aftermarket) (Unl).nes
 aec9e783bb7a68efa3150bdbbebbb29b	8BIT MUSIC POWER FINAL (Japan) (En) (Aftermarket) (Unl).nes
 7015dc289e5448b39407fa3e05e00a82	8BIT MUSIC POWER FINAL (Japan) (En) (Rev 1) (Aftermarket) (Unl).nes
 e1ca4cb7e735501e17396b5617ba85ff	8BIT Rhythm Land (World) (Aftermarket) (Unl).nes
 5f1e02a92efd1b6c93a7c490c6643b48	8Bit RIKI Illustrations (World) (Aftermarket) (Unl).nes
+fa71f310384fafb2042c301cbf93d175	999-in-1 - Duck Hunt + Mario Bros. (Asia) (En) (Aftermarket) (Pirate).nes
+cd756427289d86796dca6f8b470e221f	9999999-in-1 (Asia) (En) (Aftermarket) (Pirate).nes
 2b095919a6bcab99938c11b7c48e9bb6	A Ressha de Ikou (Japan).nes
 8f2cd810c1b19c75d8b69b248462a8d3	Aa Yakyuu Jinsei Icchokusen (Japan).nes
 84f06d39c96d4b875ba558654cd1b464	Abadox - The Deadly Inner War (USA).nes
@@ -113,16 +131,17 @@ b8869bf2bc256c521787b8851b5a2458	Abarenbou Tengu (Japan).nes
 e7c452e6b5bb11eb08b0a8796613bcdd	Aces - Iron Eagle III (Japan).nes
 fb292af0e15cc20298dbce5caa40d075	Action 52 (USA) (Rev A) (Unl).nes
 233cddd94c3f3d5b9a9f4670a914e74d	Action 52 (USA) (Unl).nes
-a9bba8bb21bd51370b32979560983e58	Action 53 Function 16 Volume One (World) (Aftermarket) (Homebrew).nes
-23ba95b11be67e5759a52bc1a1d3bf52	Action 53 Vol. 3 - Revenge of the Twins (World) (2018-03-06) (Aftermarket) (Homebrew).nes
-dab114a10f47ab2e39f300c2e18e2baa	Action 53 Vol. 3 - Revenge of the Twins (World) (Aftermarket) (Homebrew).nes
-ed66726db3ab5f2631246e0245714afd	Action 53 Vol. 3 - Revenge of the Twins (World) (Disk 1) (Aftermarket) (Homebrew).nes
-6335b197b393be9cb8f28dffbdde445f	Action 53 Vol. 3 - Revenge of the Twins (World) (Disk 2) (Aftermarket) (Homebrew).nes
-297c6c12a5391003c0ab6bd58a5ab188	Action 53 Vol. 4 - Actually 54 (World) (Aftermarket) (Homebrew).nes
-38dfcba7aca242c24c2e404939bb3866	Action 53 Vol. 4 - Actually 54 (World) (Disk 1) (Aftermarket) (Homebrew).nes
-1e07e50f18f1501428a2dfa98ddcc8c9	Action 53 Vol. 4 - Actually 54 (World) (Disk 2) (Aftermarket) (Homebrew).nes
-e5ab8243a1fbe9fb868aba8b1d56ec2f	Action 53 Vol. 4 - Actually 54 (World) (Disk 3) (Aftermarket) (Homebrew).nes
-70cf49d9b26dbf9ed6f8c1821410164e	Action 53 Vol. 4 - Actually 54 (World) (Disk 4) (Aftermarket) (Homebrew).nes
+a9bba8bb21bd51370b32979560983e58	Action 53 Function 16 - Volume One (World) (Aftermarket) (Homebrew).nes
+72742ee16ef939dad12b425547d796ee	Action 53 Vol. 3 - Revenge of the Twins (USA) (Limited Edition) (Aftermarket) (Unl).nes
+23ba95b11be67e5759a52bc1a1d3bf52	Action 53 Vol. 3 - Revenge of the Twins (World) (v1.3) (Aftermarket) (Unl).nes
+dab114a10f47ab2e39f300c2e18e2baa	Action 53 Vol. 3 - Revenge of the Twins (World) (v1.5) (Aftermarket) (Unl).nes
+ed66726db3ab5f2631246e0245714afd	Action 53 Vol. 3 - Revenge of the Twins (World) (v1.5) (Disk 1) (Aftermarket) (Unl).nes
+6335b197b393be9cb8f28dffbdde445f	Action 53 Vol. 3 - Revenge of the Twins (World) (v1.5) (Disk 2) (Aftermarket) (Unl).nes
+297c6c12a5391003c0ab6bd58a5ab188	Action 53 Vol. 4 - Actually 54 (World) (Aftermarket) (Unl).nes
+38dfcba7aca242c24c2e404939bb3866	Action 53 Vol. 4 - Actually 54 (World) (Disk 1) (Aftermarket) (Unl).nes
+1e07e50f18f1501428a2dfa98ddcc8c9	Action 53 Vol. 4 - Actually 54 (World) (Disk 2) (Aftermarket) (Unl).nes
+e5ab8243a1fbe9fb868aba8b1d56ec2f	Action 53 Vol. 4 - Actually 54 (World) (Disk 3) (Aftermarket) (Unl).nes
+70cf49d9b26dbf9ed6f8c1821410164e	Action 53 Vol. 4 - Actually 54 (World) (Disk 4) (Aftermarket) (Unl).nes
 71903b9937bff305b7a1c8e0077be2a6	Action in New York (Europe).nes
 1e3999dfd989d9277dbd1863c27c047e	Adam & Eve (Asia) (En) (Mega Soft) (Unl).nes
 cda7bebd460df7569db0740bdd843a28	Adan y Eva (Spain) (En) (Gluk Video) (Unl).nes
@@ -142,6 +161,7 @@ d3a9d364721512fd0300a66ce9cffaa6	Advanced Dungeons & Dragons - Heroes of the Lan
 b1c2df446373777bb72ee2337ced5792	Advanced Dungeons & Dragons - Hillsfar (USA).nes
 3ca38a30f1ec411073fc369c9ee41e2e	Advanced Dungeons & Dragons - Pool of Radiance (Japan).nes
 859542620628afcc2b7103b7a27bd72f	Advanced Dungeons & Dragons - Pool of Radiance (USA).nes
+fe972b325e99e714d9dde3cfbf37bd68	Adventure (USA) (Aftermarket) (Unl).nes
 248ba1acbfed28be4e6839a858a5c60a	Adventure Island (USA).nes
 c517ca2fd6199fde0ba4b3847d9bbecf	Adventure Island 3 (USA).nes
 8b82c004ed7429322621e0f745ef802e	Adventure Island Classic (Europe).nes
@@ -192,6 +212,7 @@ b16e9c3bde321f6807c90b6e559b7ffe	Ai Sensei no Oshiete - Watashi no Hoshi (Japan)
 a04148430a195947bffe83bbfd440495	Air Fortress (Europe).nes
 1d7332a67a6e986df16e79689965904b	Air Fortress (Japan).nes
 30a0b2dfbc6018e4abcc9a89d5107b83	Air Fortress (USA).nes
+ead5ee71e8143cff93146729d3cd4f45	Air Sea Battle (USA) (Aftermarket) (Unl).nes
 3ec30d289578911e06d205c04537102e	Airball (USA) (Aftermarket) (Unl).nes
 41e38a155b9b8a73bf07f9b3428c1580	Airball (USA) (Proto 1).nes
 1c6d4e6c1051580dc836ae6c32e2c5f4	Airball (USA) (Proto 2).nes
@@ -215,16 +236,18 @@ fd4de07059ee75677b1d905a56db2b51	Alex DeMeo's Race America (USA).nes
 9061695deef8fe45da52e957f09f3348	Alex Islands (World) (Aftermarket) (Homebrew).nes
 00a00114462675e4596d33db870acc91	Alfombra Magica, La (Spain) (En) (Gluk Video) (Unl).nes
 c7ed7087af206980af19216139edb441	Alfombra Magica, La (Spain) (En) (Rev 1) (Gluk Video) (Unl).nes
-ac7587b24731a164b5f5cc7cb6ae2d4d	Alfonzo Game, The (World) (Aftermarket) (Homebrew).nes
+ac7587b24731a164b5f5cc7cb6ae2d4d	Alfonzo Game, The (World) (Demo 1) (Aftermarket) (Unl).nes
+6edd31e870813fed8ad35ab0e552abfb	Alfonzo Game, The (World) (Demo 2) (NESDev 2017) (Aftermarket) (Unl).nes
 8e146e19a749810581c502d586e0c9c4	Alfonzo Melee! (World) (Demo) (Aftermarket) (Homebrew).nes
 b6aebcb86b10bb8c46935069a760a62b	Alfonzo's Arctic Adventure (World) (2020-03-16) (Aftermarket) (Homebrew).nes
 a5395e49dc21ffeb5035926a56130856	Alfonzo's Arctic Adventure (World) (2021-08-03) (Aftermarket) (Homebrew) (Alt).nes
 abce95ff2d3005899d0b04eacacdf9b1	Alfonzo's Arctic Adventure (World) (2021-08-03) (Aftermarket) (Homebrew).nes
-f148a22e6f3b82a6940dbd712b759a98	Alfonzo's Arctic Adventure (World) (Aftermarket) (Homebrew).nes
+f148a22e6f3b82a6940dbd712b759a98	Alfonzo's Arctic Adventure (World) (Aftermarket) (Unl).nes
 858568d95e563965552e7b8bf50b0834	Alfonzo's Arctic Adventure (World) (Demo) (Aftermarket) (Homebrew).nes
 a10682ecc208e5661a44518b4bda1bd2	Alfonzo's Arctic Adventure (World) (Rev 1) (Aftermarket) (Homebrew).nes
 9c2219c6f5a19be8392c11e98f542ac7	Alfred Chicken (Europe).nes
 2eecae9e49165a67f2015cbe946dcc98	Alfred Chicken (USA).nes
+5f75880a2a9b1242807e82b4a4262166	Alien 3 (Asia) (En) (Pirate).nes
 7209ec7a29818e8bd48ad1c5670acae8	Alien 3 (Europe).nes
 76e7bc449ae572c68a9fc4f397901924	Alien 3 (USA).nes
 e91b3e0ad255eeae1823d2372a4b21da	Alien Syndrome (Japan).nes
@@ -233,6 +256,7 @@ e91b3e0ad255eeae1823d2372a4b21da	Alien Syndrome (Japan).nes
 143b8ee48b9217b828d483c413786949	Allison Of Astra - Allison Doesn't Go Hawaiian (World) (Aftermarket) (Homebrew).nes
 820bf589adf4d276a5acbb983716de24	Allison Of Astra - Allison's Booty Quest (World) (Aftermarket) (Homebrew).nes
 1181ccab86304d7627ae2565abe4a1cd	Allison Of Astra - Allison's Scribble Quest (World) (Aftermarket) (Homebrew).nes
+254a9e18d1ed1e4ec9a91c2f96c4595c	Allison Of Astra - Dodgeball RPG (World) (Demo) (Aftermarket) (Homebrew).nes
 c7dd14e57a542e4a371a7f0cd327d40a	Allison Of Astra - Finity Train (World) (Aftermarket) (Homebrew).nes
 aba36ae984754e69d4290133582a4ef3	Allison Of Astra - Margarita (World) (Aftermarket) (Homebrew).nes
 f376d62878f45fb1fb1233d2df745425	Allison Of Astra - Margarita Mix (World) (Aftermarket) (Homebrew).nes
@@ -242,12 +266,12 @@ a050df6db5be186a1ea184bf11420cb0	Almika The Star Rider Densetsu Gaiden (World) (
 3cea313cc4cbfd14c0f61e32e40aa635	Almost Hero (USA, Europe) (Aftermarket) (Unl).nes
 1dfa56ebc412f33f161d16207ceced06	Alpha Mission (Europe).nes
 6307b2766d33a38ae68c639019dc8890	Alpha Mission (USA).nes
+baf72625249378213dd2c0abafd1309a	Alter Ego (World) (2011-07-23) (Aftermarket) (Homebrew).nes
 32bff38b91f5eb2cb523d4266b74f7b2	Alter Ego (World) (2011-12-16) (Aftermarket) (Homebrew).nes
 f97959e12207dfb338169af11982fa1b	Alter Ego (World) (Aftermarket) (Homebrew) (Alt).nes
-baf72625249378213dd2c0abafd1309a	Alter Ego (World) (Aftermarket) (Homebrew).nes
 f3b59e50f19ba4b3ff1ad387b3a73c86	Altercation (World) (Aftermarket) (Homebrew).nes
 b533fd34ad3173d7b5c299361432c54a	Alwa's Awakening (World) (Aftermarket) (Unl).nes
-d8fb50cb38ce3974407ce365c76e9cc7	Alwa's Awakening (World) (Proto) (Aftermarket) (Unl).nes
+d8fb50cb38ce3974407ce365c76e9cc7	Alwa's Awakening (World) (Beta) (Aftermarket) (Unl).nes
 367a5f4e41d58267c7a3b737095626c4	Alwa's Awakening Soundtrack (World) (Aftermarket) (Unl).nes
 d8bd241e27f2c1812751e4e92c7ec68e	Amagon (USA).nes
 8c2475c030e5393e94ad5cd7c977caec	America Daitouryou Senkyo (Japan).nes
@@ -257,18 +281,22 @@ eda486aeddb710c9ae07f58138ae00ab	America Oudan Ultra Quiz - Shijou Saidai no Tat
 4c4309433ae89d9b3efe10aff8e5a9db	American Football - Touchdown Fever (Japan).nes
 d696e93ca35b59e2af943c2a3a526488	American Gladiators (USA).nes
 afd08feb5b1cd3594c4f2b7b2e669b61	Angry Birds (Europe, Asia) (En) (Aftermarket) (Pirate).nes
-9900c9637eae150fe6bc844cd034472e	Anguna - Scourge of the Goblin King (USA, Europe) (Aftermarket) (Homebrew).nes
-1a131f0090c804ba8b58e300f7e0b27d	Anguna - Scourge of the Goblin King (USA, Europe) (Limited Edition) (Aftermarket) (Homebrew).nes
-958191bfa3ee75bc632030610e1f65ef	Anguna - Scourge of the Goblin King (USA) (Beta) (Aftermarket) (Homebrew).nes
-73b4898e3dd3ddad44d4af75d20bbefd	Anguna - Scourge of the Goblin King (USA) (Patreon Demo 0320) (Aftermarket) (Homebrew).nes
-bccccf762a113e42923a20f592ff12fc	Anguna - Scourge of the Goblin King (World) (Rev 1) (Aftermarket) (Homebrew).nes
+1e09f7eb45b2e19db442978b542fa2e5	AngstMan Rebooted (World) (Demo) (Aftermarket) (Homebrew).nes
+9900c9637eae150fe6bc844cd034472e	Anguna - Scourge of the Goblin King (USA, Europe) (Aftermarket) (Unl).nes
+1a131f0090c804ba8b58e300f7e0b27d	Anguna - Scourge of the Goblin King (USA, Europe) (Limited Edition) (Aftermarket) (Unl).nes
+958191bfa3ee75bc632030610e1f65ef	Anguna - Scourge of the Goblin King (USA) (Beta) (Aftermarket) (Unl).nes
+73b4898e3dd3ddad44d4af75d20bbefd	Anguna - Scourge of the Goblin King (USA) (Patreon Demo 0320) (Aftermarket) (Unl).nes
+bccccf762a113e42923a20f592ff12fc	Anguna - Scourge of the Goblin King (World) (Rev 1) (Aftermarket) (Unl).nes
 14812b82225a82d2ebf452b7d518c62f	Animal Clipper (World) (Aftermarket) (Homebrew).nes
 a22ead8b3a732c102f17f1932a5c0d40	Animalia Dreamland (World) (Aftermarket) (Homebrew).nes
 53602b8484c73d345d8e2aaa4b607c4d	Ankoku Shinwa - Yamato Takeru Densetsu (Japan).nes
 3daeb72361ab960407b4f648e709c552	Ankoro Mochi Manufacturing Factory (World) (Ja) (Aftermarket) (Homebrew).nes
 78a834567832dd2e7d92306f726e6bdd	ANNA (World) (Demo 1) (Aftermarket) (Homebrew).nes
 8f42568fe3fa9b1b24670247406ae8bc	ANNA (World) (Demo 2) (Aftermarket) (Homebrew).nes
-1ad302c73ab4983bdfd6e2f3b0409815	Another World (USA) (Aftermarket) (Homebrew).nes
+1ad302c73ab4983bdfd6e2f3b0409815	Another World (USA) (Aftermarket) (Unl).nes
+039d5dab09dde34f0e5fedda6e2802c1	Another World (World) (Alpha) (Aftermarket) (Unl).nes
+15dc17e2452653307efab15b5a1b496a	Another World (World) (Digital Release) (Aftermarket) (Unl).nes
+cca9e36910f10e3237bd48b834878557	Another World (World) (Glitchcore Version) (Aftermarket) (Unl).nes
 1dd75666a659e11424b2f57b56f5732a	Antenna Antics (World) (Aftermarket) (Homebrew).nes
 a51090f9622c4665b82937201c90d261	Anticipation (Europe).nes
 b6d2c6c3196dca33a689df4f02c9832e	Anticipation (USA).nes
@@ -292,6 +320,7 @@ c9909d0343bdc7221e874a2aba379db8	Argus (Japan).nes
 12757f7a4e0abcac7fd469e07efcab72	Arkade Rush (World) (Aftermarket) (Homebrew) (Alt).nes
 39c83833232bc70a9ca81ba30707ca81	Arkade Rush (World) (Aftermarket) (Homebrew).nes
 7005ed7df4d3f819e0db76887c41ba1b	Arkade Rush (World) (NESDev 2020) (Aftermarket) (Homebrew).nes
+3bfabc7b8bf5378f1e646ca6fa022d3e	Arkanoid (Asia) (En) (LC10) (Pirate).nes
 a930f9d4c59d8ab1dee39825db1f5555	Arkanoid (Japan) (En).nes
 0ccc1a2fe5214354c3fd75a6c81550cc	Arkanoid (USA).nes
 3b146b9c75ea4ce24887d73c6b2271c2	Arkanoid II (Japan) (En) (Beta).nes
@@ -329,10 +358,13 @@ b8029400410a45d0029db57760a9625f	ASO - Armored Scrum Object (Japan) (En).nes
 fa1f8f853539797cc036a07aa6af5aba	Assimilate (USA) (RetroUSB) (Aftermarket) (Homebrew).nes
 53494be3375507e4a6c2f008746fc098	Assimilate (World) (Nessylum Games) (Aftermarket) (Homebrew).nes
 87cf2dbd01609ed6fff6a1a022f41c72	Asterix (Europe) (En,Fr,De,Es,It).nes
+aa90dc1c6b32b98b5258bd13e3e6a07f	Asteroids (USA) (Aftermarket) (Unl).nes
 3f8b65930ea2cc7844ad7dabc5f41200	Astro Fang - Super Machine (Japan).nes
 2a4690d1949326e1eed462c67bdfe2ea	Astro Ninja Man (Japan) (Aftermarket) (Unl).nes
 59587f5cf20a0cc687aae0b0fee9cbb4	Astro Ninja Man DX (Japan) (En) (Aftermarket) (Unl).nes
 27a89f079bca542e3aa36108a390a681	Astro Robo Sasa (Japan).nes
+d597d1d8e7ff63f54e236acc2458023a	Astro Smash 'n' Blast! (World) (v1.3) (Aftermarket) (Homebrew).nes
+20c2da076b5adfddc57ec4af2c484165	Astrosmash (USA) (Aftermarket) (Unl).nes
 631df04b0dba04e7d469ee5f0e91a3de	Astyanax (Europe).nes
 2fe97269d98d064da28dc20b5c2a9533	Astyanax (USA) (Beta).nes
 94eafd1d52c7296cd5b9dad6316e5976	Astyanax (USA).nes
@@ -347,6 +379,7 @@ b905522a81d86558cef6bb02e0d77e5a	Atlantis no Nazo (Japan) (Virtual Console, Swit
 13e451bcf72a98ebbacdc9eee8d95948	Attack Animal Gakuen (Japan).nes
 4dfe00d3cd3cab80d1603eb859ca28e2	Attack of the Killer Tomatoes (Europe).nes
 5e0407d7e35334cccb2ac15aa71162d1	Attack of the Killer Tomatoes (USA).nes
+c09a62c256942b814db1e38a2376c5f4	Auge (World) (Aftermarket) (Homebrew).nes
 9c283fed43a9103bfdbd41a7ed8619ce	Aussie Rules Footy (Australia).nes
 f37637bf09c6b5ac363fb78e0ffdb43d	Auto-Upturn (Asia) (Ja) (PAL) (Unl).nes
 9cc2a3caf9d99e8f4abf76b4bd7fd202	AV Hanafuda Club (Japan) (Unl).nes
@@ -392,6 +425,7 @@ bac639db86f4bcac7672123575cc26da	Balloon Fight (Europe) (Virtual Console).nes
 1457475741846a01399dc663135a60c1	Balloon Fight (Japan) (En).nes
 ff8e9f3d8df4e728bbad11fd4d6e44fc	Balloon Fight (USA) (e-Reader Edition).nes
 70c309cb6b9ead20c06d554cf48b3993	Balloon Fight (USA).nes
+78762c1c40928df99af0f7ca4b7f71e8	Balloon Stand (World) (Aftermarket) (Homebrew).nes
 c18074c3e9b7357e1abcceed45fc6215	Baltron (Japan) (Beta).nes
 332a5f6589b9930e79b224848493fadb	Baltron (Japan).nes
 bd112d6423e4107d30793019422cb2ef	Banana (Japan) (Beta) (1986-06-30).nes
@@ -422,6 +456,7 @@ dbdb425c059be472dfce6826400926b0	Baseball (Japan) (En) (GameCube Edition).nes
 e7ad2eec634820b0ce3fd11bc76e64c4	Baseball (Japan) (En).nes
 108fea367dc5ba9a691b3500fc1464b4	Baseball (USA, Europe) (GameCube Edition).nes
 576ab245b4f04c670ac312ab0d441697	Baseball (USA, Europe).nes
+55bea58adf412578d2fbc16cbab916f1	Baseball (USA) (Aftermarket) (Unl).nes
 4ec67ea5901b457b3f5b1d3bacc0441d	Baseball (USA) (e-Reader Edition).nes
 e755ada8a06dc558290fe52efaf12681	Baseball Fighter (Japan).nes
 0e2b7f9ee2bf1278b447438f0236f9e3	Baseball Simulator 1.000 (USA) (Virtual Console).nes
@@ -439,6 +474,7 @@ ce94302108c1288fd5bb8278de49212f	Bashi Bazook - Morphoid Masher (USA) (Proto) (1
 d00af0778b6293f02f1b5a215ad01a0a	Basic Championship Wrestling (World) (Aftermarket) (Homebrew).nes
 ab484e3e891e0df4d40ce2fda22e9de4	Basse Def Adventures (USA, Europe) (Fr) (Aftermarket) (Homebrew).nes
 a5025dc382188acb614730ad957dc609	Bat Lizard Bonanza (World) (Aftermarket) (Homebrew).nes
+8932be8e9d7022f1dfd14e797cdb1b7a	Bat Lizard Bonanza (World) (Kickstarter Version) (Aftermarket) (Unl).nes
 6f8b376c96e904c2959951cc813ac78b	Batman - Return of the Joker (Europe).nes
 e47cf9891071441d96ec59a32e1bf93e	Batman - Return of the Joker (USA) (Beta).nes
 830111df30b8511562d4faca6aeb792d	Batman - Return of the Joker (USA).nes
@@ -447,6 +483,7 @@ fbac031d8c0e38742dccd1baae70bdd1	Batman - The Video Game (USA) (Beta 1).nes
 5e46ef711bc3660299f5290a6fa4cde4	Batman - The Video Game (USA) (Beta 2).nes
 341f6fd28fcdc7e246ded2750dd1c1e9	Batman - The Video Game (USA).nes
 8d62789736881122e00fe876fedc4a4c	Batman (Japan).nes
+51058c45d6c09774dfa08cae9c9ec3e1	Batman III (Asia) (En) (Aftermarket) (Pirate).nes
 0e898e4ae3f56c5921cd831256c8be43	Batman Returns (Europe) (Beta).nes
 31c34ae734b7737e77518af288175303	Batman Returns (Europe).nes
 077aef22bae04dbf287ebbc03806da3c	Batman Returns (USA).nes
@@ -458,7 +495,7 @@ f3cb6e1a6022e503498c10dc463cfe95	Battle Fleet (Japan).nes
 3717cf460f2970cedff65aa21b13c238	Battle Kid - Fortress of Peril (Japan) (En,Ja) (V2.000) (Aftermarket) (Unl).nes
 6d0a270a6b8a752a2597810762f66005	Battle Kid - Fortress of Peril (USA) (V1.000) (Aftermarket) (Unl).nes
 3e66f0771381a31e5b4e93ae8345d281	Battle Kid - Fortress of Peril (USA) (V1.100) (Aftermarket) (Unl).nes
-1dfe9083d5c9d54840c6e64c11cb9924	Battle Kid - Fortress of Peril (World) (v2.100) (Aftermarket) (Homebrew).nes
+1dfe9083d5c9d54840c6e64c11cb9924	Battle Kid - Fortress of Peril (World) (v2.100) (Aftermarket) (Unl).nes
 630871a5088f02894a743526231fa6a8	Battle Kid 2 - Mountain of Torment (USA) (V1.000) (Aftermarket) (Unl).nes
 abf97d9e3e1c97efd93fb90be6824e89	Battle of Olympus, The (Europe).nes
 fd643d07b01072a1376353bd37b1f8c6	Battle of Olympus, The (USA).nes
@@ -474,9 +511,11 @@ ad59f0cb2d5039f776ba1a7df287192f	Battletoads (Japan) (Aftermarket) (Unl).nes
 eefac97ac3b85048f3685e1623210efb	Battletoads (USA).nes
 9d82467a5c2a3138451f6dfe67f6848c	Battletoads-Double Dragon (Europe).nes
 728a4c80306dd3debb8ba90868376255	Battletoads-Double Dragon (USA).nes
+888989abdb422a8a840a8e0ec22526fe	Battlezone (USA) (Aftermarket) (Unl).nes
 d8ca1531f63184bba7049522b802e405	BB Car (Asia) (En) (Unl).nes
 853dc4f7b9fa8b99cfef7c44f0c626c5	Be A Pirate (World) (Proto) (04-22-2022) (Aftermarket) (Homebrew).nes
 dc9fc81e5bc2f868d0889b65d11f19ea	Be-Bop-Highschool - Koukousei Gokuraku Densetsu (Japan).nes
+6a57c68caa42ea5a7c8f58f15526a4d0	Beat 'n Box (Korea) (Aftermarket) (Unl).nes
 60e6b50e35f1dafb5029cd835f3035f0	Beat'em & Eat'em (World) (Aftermarket) (Homebrew).nes
 940af1f642fa307094d787cc4420c48e	Beat'em & Eat'em (World) (Beta 1) (Aftermarket) (Homebrew).nes
 827450c762f56d9d25c38d35c334c0c4	Beat'em & Eat'em (World) (Beta 2) (Aftermarket) (Homebrew).nes
@@ -504,6 +543,7 @@ a73ae8eccd06a5030ac48c4c03bbd774	Bible Adventures (USA) (v1.3) (Unl).nes
 aa7d0c04976a94b8ad4ae9e26ee42bb8	Bible Adventures (USA) (v1.4) (Unl).nes
 63aa9b27a762746da68cba86873adc59	Bible Adventures (USA) (v1.5) (Unl).nes
 5d718486bd294124be7ba4905ecc112d	Bible Buffet (USA) (v6.0) (Unl).nes
+09e2ffac52b354e64b72907e57db8c93	Big City Slider Blaster (World) (NESDev 2014) (Aftermarket) (Homebrew).nes
 08e3988842b3dc6227f1745d7fd5e76c	Big City Sliding Blaster (World) (2014-06-02) (Aftermarket) (Homebrew).nes
 8347916f86e4d9ff0b1a1fdb22b57601	Big City Sliding Blaster (World) (Aftermarket) (Homebrew).nes
 357f0ed5b3bf45741a8edcaa884358a8	Big Nose and the Witchdoctor (USA) (Beta) (Unl).nes
@@ -523,6 +563,8 @@ d47defc73ba17b961d5d437024eb5f73	Bingo 75 (Asia) (Ja) (Unl).nes
 4fc95ca9dac9f60545513288de915826	BinGuo 75 (Asia) (Ja) (Unl).nes
 35f35a5e574ccdf6ab75df91114f992f	Bio Force Ape (Japan) (En) (Proto).nes
 f8d9a7fc859edced2cfeb96a24fbed57	Bio Force Ape (USA) (Proto).nes
+0a4e0f911f5f96b8961f604479cdef58	Bio Hazard (China) (200314121) (Aftermarket) (Pirate).nes
+619ad7bef3384be3493f3b388c0d00f6	Bio Hazard (China) (2003SR7416) (Aftermarket) (Pirate).nes
 42442fbe3a99fbaa25425611f5f4a090	Bio Miracle Bokutte Upa (Japan).nes
 5be96d2844314a037d2d639b397b8034	Bio Senshi Dan - Increaser Tono Tatakai (Japan).nes
 47025357fd8138fafc8d35d8721414c8	Biocats (World) (v1.04) (Aftermarket) (Homebrew).nes
@@ -563,11 +605,16 @@ ebf807a599509dce10a0f414692dd83d	Blaster Master (Japan) (Virtual Console).nes
 4108dcf084215dd20b4e59c95f05df3f	Blaster Master (USA) (Beta) (1988-05-20).nes
 12b0dbc4f2b22a50d0bb53c4929217f0	Blaster Master (USA).nes
 06a5a16a8b2d445748fb948a1447649c	Blazing Rangers (World) (Demo) (Aftermarket) (Homebrew).nes
+60e3246eff1d5fffda955051e29ba64f	Blazing Rangers (World) (NTSC) (Aftermarket) (Unl).nes
+284a0d6c2f3afc604232eaa649b0c023	Blazing Rangers (World) (PAL) (Aftermarket) (Unl).nes
 2c58bb11b7e3d661fb1da72b7cbf3ae3	Blob Land (World) (Aftermarket) (Homebrew).nes
 f5e03f57f66c627ce00d168642b16cb3	Blobert (World) (Aftermarket) (Homebrew).nes
+66a56d18f8435d1e4c885cfbc6d988c2	Block Dude (World) (NESDev 2018) (Aftermarket) (Homebrew).nes
 ae3629d17fee770ee5e2d9afa7b683c0	Block Out (USA) (Proto).nes
 2be825e0a20b52a3895dc9d7e5f56b5d	Blockage (World) (Aftermarket) (Homebrew).nes
+008454c8e5d4d25a86508fb94992f35e	Blockage (World) (v0.3.1) (NESDev 2019) (Aftermarket) (Homebrew).nes
 2c5838d0ecf499b8c56462db10afad3d	Blodia Land - Puzzle Quest (Japan).nes
+ae7fceabfc73d9cfececf8070dcb2888	Bloodfall (World) (Aftermarket) (Homebrew).nes
 4a8aef5781bbbccb9e87b95c993fe2b7	Bloody Warriors - Shan-Go no Gyakushuu (Japan).nes
 cd9f05e9dde9569514cb479363ff68ef	Bloque Magico, El (Spain) (En) (Gluk Video) (Unl).nes
 62c93985d57be70a5c5484d14a747b5f	Blow'em Out (USA) (Second Dimension) (Aftermarket) (Unl).nes
@@ -581,6 +628,9 @@ f2b7cec1bc438d18976576e80ee4099d	Blurred Lines 2048 (World) (Aftermarket) (Homeb
 552ec6cd6848806c5326383dd7fb14f6	BMX Simulator (Asia) (En) (Unl).nes
 3ccd0b9ae77aea8a894cff0fbced0178	BMX Simulator (World) (Unl).nes
 3f41df081c7799a6b33f3eb7ac1dec70	Bo Jackson Baseball (USA).nes
+af352e6251e611d7272b32b32874efcf	Bobby Six Seven (World) (Aftermarket) (Homebrew).nes
+daeb9fe9802688c3346c1adf8dff93aa	Bobby Six Seven (World) (Rev 1) (Aftermarket) (Homebrew).nes
+6da8f461e2128cb5f7f2a5cbe9169d91	Bobby Six Seven (World) (Rev 2) (Aftermarket) (Homebrew).nes
 441374705d35c7a11fc73f4acf645df1	Bobl (World) (Aftermarket) (Homebrew).nes
 08df375013fa1c3fa6d0d12e89c744ed	Bobl (World) (v1.1) (Aftermarket) (Homebrew).nes
 a49d6f153d642026643a162b6df7af99	Bobl (World) (v1.2) (Aftermarket) (Homebrew).nes
@@ -605,12 +655,14 @@ ac7c5d28e9bcb3851b9914b0bd0940dd	Boulder Dash (Japan).nes
 fa2763fbcedd6efcea9fa40d083be692	Box Boy (World) (Aftermarket) (Homebrew).nes
 9d73a7e6fcf64dd103f27895409d0f3a	Bram Stoker's Dracula (Europe).nes
 d8c7ed973232990fa1b7542e6876bd3c	Bram Stoker's Dracula (USA).nes
+c70ae5681286521a62b5fab5f5b9b6e0	Brandon, You're Going To HELL! (World) (Aftermarket) (Homebrew).nes
 767b7c38546bb2cde47c73571ac8b32f	Break Time - The National Pool Tour (USA).nes
+ed86cd497bf0539e8b6a506f068cf39e	Breakout (USA) (Aftermarket) (Unl).nes
 d38afb9f11346fa8a6a7860e6603aff0	BreakThru (USA).nes
 3848f3b526d6e3732af159dbef1a502d	Brilliant Com Cocoma Pack 1 (Korea) (Unl).nes
 37cd540156f3623878aded1ad6dda61d	Brilliant Com Cocoma Pack 2 (Korea) (Unl).nes
 29fb39b62bd9f7fa8419854aab9abc8f	Brilliant Pebbles (USA) (Aftermarket) (Unl).nes
-b8c0e2204d76d3c1ed732e1f3af1e3cb	Brony Blaster (World) (Prototype) (Aftermarket) (Homebrew).nes
+b8c0e2204d76d3c1ed732e1f3af1e3cb	Brony Blaster (World) (Proto) (Aftermarket) (Homebrew).nes
 5fb42111dad880fb6835fcb134ff99c1	Brush Roller (Asia) (Ja) (Unl).nes
 9facecc44cfd8be8ad8f3bab1eb27cb6	Bubble Bath Babes (USA) (Unl).nes
 d36541228117597a10c7239ec6f9f4d9	Bubble Bobble (Europe) (Virtual Console).nes
@@ -655,6 +707,7 @@ b493ed87c2d6956e2ce4886b3b4bbb72	Caltron - 6 in 1 (USA) (Unl).nes
 891e82988ca30ab19e642a9acb9f4e1f	Caltron - 9 in 1 (USA) (Proto) (Unl).nes
 30fd11d57127803f8da3a8892b40ddda	Candelabra - Estoscerro (World) (Aftermarket) (Homebrew).nes
 e6381bf33f9779884de72a8c055f89e3	Candelabra - Estoscerro (World) (Demo) (Aftermarket) (Homebrew).nes
+9536917c034243fa3e04ccf860bcc5f3	Canyon Bomber (USA) (Aftermarket) (Unl).nes
 9d964f694704b54867421d0d7599a6d1	Capcom Barcelona '92 (Japan).nes
 5f9b9772345b605abc3863594bd3d383	Capcom's Gold Medal Challenge '92 (Europe).nes
 368114ac21f3f867b42145198a4a0ba2	Capcom's Gold Medal Challenge '92 (USA).nes
@@ -662,6 +715,7 @@ a416a24e9f590d15f55e2646a6bc1a68	Captain America and the Avengers (Australia).ne
 f5d6c0ccc98ceba73d680b5fd1de8ab2	Captain America and the Avengers (USA).nes
 bb744b1500da4c97d1588b5fff5ecc86	Captain Comic - The Adventure (USA) (Unl).nes
 6917413cde843241ff32537e8d3efc92	Captain ED (Japan).nes
+41980ccc23aea6e0d4e19a4f9ae0ddc5	Captain Planet and the Planeteers (Asia) (En) (Pirate).nes
 21931566ca1b2e5541ac1c60d381f535	Captain Planet and the Planeteers (Europe).nes
 cb6933da55479c5ba077177dd283c90c	Captain Planet and the Planeteers (USA).nes
 329c1026063bcd496714deabe091af91	Captain Saver (Japan).nes
@@ -703,6 +757,7 @@ d909ecf9d6deb7a35263e6aa6b2f0cfe	Cat Ninden Teyandee (Japan).nes
 a040ebb68277e54e9d8c9b90bb66dd5b	Cave Driller (World) (v2.0) (Aftermarket) (Homebrew).nes
 58b2aa2e4382267b34e229615df72b4a	Cave Driller (World) (v2.2) (Aftermarket) (Homebrew).nes
 5042f7646e7cf01a4a44543c13faacff	Caveman Games (USA).nes
+17dba9ed271401c30f898d100f45070c	Centipede (USA) (Aftermarket) (Unl).nes
 a4fb8a298e89f6b8d05c84bc60c2f834	Chack'n Pop (Japan).nes
 41127a3387b8a350bcfb0fc81aa0627d	Challenge of the Dragon (Asia) (Ja) (Sachen) (Unl).nes
 c76e0754aaf151f9e8c25ed3769e2874	Challenge of the Dragon (USA) (Color Dreams) (Unl).nes
@@ -712,6 +767,8 @@ c76e0754aaf151f9e8c25ed3769e2874	Challenge of the Dragon (USA) (Color Dreams) (U
 e9127fa09b26138d70a4638d99e14429	Championship Lode Runner (Japan).nes
 72f6fe5d2cde57f0b3705e9d35a6f217	Championship Pool (USA).nes
 8fec068adeabec6a5db2e07564ec2f19	Championship Rally (Europe).nes
+d1714ff57ecf76dc5b8cf7aae547e78e	Chaos Between Worlds (World) (v0.0) (ByteOff Demo) (Homebrew).nes
+f3f7bd63754f5ed9993a6b7eccea0591	Chaos Between Worlds (World) (v0.1) (ByteOff Demo) (Homebrew).nes
 642c363b47ab155a0f629e21521d8e79	Chaos World (Japan).nes
 3b4e6e9907514b8d7cbe28af1c13ce88	Chase (World) (Aftermarket) (Homebrew).nes
 674932be26525ffd0f12817042dbad48	CHE-MAN (World) (Aftermarket) (Homebrew).nes
@@ -734,6 +791,7 @@ c9fbc883e26abf106c01509ffe3fe1b3	Chess Academy (Asia) (Ja) (NTSC) (Unl).nes
 f9c75f288f83fc289ead5d9ac1287d1b	Chevaliers du Zodiaque, Les - La Legende d'Or (France).nes
 b92ef2986cee5de82fdc8ffd1e565e2e	Chibi Maruko-chan - Uki Uki Shopping (Japan).nes
 a4ef37dacbfdcf3f9b2f9247fb3b37a0	Chibi Monster Br4wl (World) (Demo) (Aftermarket) (Homebrew).nes
+20224b0fc4d6514ffa73b499fd0af3c8	Chicken of the Farm (World) (Aftermarket) (Homebrew).nes
 34fbbdcea8d733c67603570693cc916d	Chiisana Obake - Acchi Socchi Kocchi (Japan).nes
 3c60041483d39581d4146aa63c6e4307	Chiki Chiki Machine Mou Race (Japan).nes
 52976be77d35c6a910246f2cff3c2e3f	Chiller (Australia) (Unl).nes
@@ -749,6 +807,7 @@ b54598fcaf36221c4543922df5cb5213	Chip 'n Dale - Rescue Rangers (World) (The Disn
 1a2d7411858e4ddb296396a44648d4a3	Chip 'n Dale - Rescue Rangers 2 (USA) (Beta).nes
 71e7ef754a716ced5b306a1e5b6e93c1	Chip 'n Dale - Rescue Rangers 2 (USA).nes
 0f309da00047b4036a9ac93b723d407e	Chip 'n Dale - Rescue Rangers 2 (World) (The Disney Afternoon Collection) (Aftermarket) (Unl).nes
+1755016bb77e206ab63c93522826fd3c	Chip 'n Dale 3 (Asia) (En) (Aftermarket) (Pirate).nes
 11d1a7e954105317f19cfb113a6314d9	Chip to Dale no Daisakusen (Japan).nes
 7e69985bb43db4686ba59c08406c716c	Chip to Dale no Daisakusen 2 (Japan).nes
 3657479c166707152169777570dd4e32	Chip's Challenge (USA) (v0.924B) (Proto).nes
@@ -823,12 +882,14 @@ d306c54ccfdf5cb4f8ec588f19b3e33d	Contra (Japan).nes
 76e80217f3ced2afabbaa2b54b9cc655	Contra (World) (Contra Anniversary Collection).nes
 7a961ae16a02f965f641fff906661e9f	Contra (World) (Ja) (Contra Anniversary Collection).nes
 f31af184da6dd2dd22b37118085fa9c3	Contra (World) (Konami Collector's Series) (Unl).nes
+fdc1f1d58edc47a8a06adf344d150014	Contra Fighter (Asia) (En) (Pirate).nes
 2f2cb4ec9936d23f370f9991e84cce98	Contra Force (USA).nes
 ac519295281e4a1da2e273a24cf41349	ConTroll (World) (Aftermarket) (Homebrew).nes
-4e647b4919f96be42cc5803698a796f6	Controller Test Program (Japan) (En) (Test Program).nes
+ed6ccc2b244c42e748475bab1d207822	Controller Test Program (Japan) (En) (Test Program).nes
 f5198f3a80278d2a14b61c8c7f4d17b9	Convention Quest (USA) (Aftermarket) (Unl).nes
 b1ba60845163ae84afc3bc5165558202	Cookie Clicker (World) (Proto) (Aftermarket) (Homebrew).nes
 87fdb31c0918a9907121032c950f1267	Cool World (USA).nes
+890c84313000faf1ab650848ab691f34	Copper Jacket (USA, Europe) (Unl).nes
 313cb592bbd0a5ff16b8d8c09a47e86e	Copper Jacket (World) (Demo 1) (Aftermarket) (Homebrew).nes
 87e2022fa35db75ed7e67aa86b32b94e	Copper Jacket (World) (Demo 2) (Aftermarket) (Homebrew).nes
 84f336d92932be85db72ac63b0791e0a	CORGS Simulator (World) (Aftermarket) (Homebrew) (Alt).nes
@@ -861,22 +922,30 @@ ec9ba98c9144e454e466dbac8ac1630d	Creepy Brawlers (World) (Demo) (Aftermarket) (H
 5cd7dd58a121660dacc5426704b7ec2d	Crime Busters (Brazil) (En) (Unl).nes
 b9ea545b83dea993a15ad20ff3af65f0	Crisis Force (Japan) (Sample).nes
 836b1dcd4b31889d0eab3081329b7529	Crisis Force (Japan).nes
+58568291970e5feeb8f11a98930471d6	Critical Match (World) (Aftermarket) (Homebrew).nes
 dc23eb8243a239572cde4ce31ef2d7f8	Cross-Strait Independence (Taiwan) (En) (Aftermarket) (Homebrew).nes
 e7e9a927fcf8c51ee3bafb04d0ffba1f	CrossFire (Japan).nes
 841922d5339428b3e87cd6c6dfe68e2c	CrossFire (USA) (Proto).nes
 1aabd21945694428043e5b3eb2f0e400	CrossPaint (World) (v0.45) (Demo) (Aftermarket) (Homebrew).nes
 800c2d356ea95ec4d958c2fe1c26eb95	CrossPaint (World) (v0.46) (Demo) (Aftermarket) (Homebrew).nes
 86b42a8334f72f169f3a01a2ea6d1cc2	CrossPaint (World) (v0.47) (Demo) (Aftermarket) (Homebrew).nes
+11e006204ce0ab08e34e99245b036f36	Crowborg (World) (v0.00001) (Proto) (Aftermarket) (Homebrew).nes
 57922556e796de844d964ff803901504	Crypto (World) (Beta) (GGJ 2016) (Aftermarket) (Homebrew).nes
 471a5757c578a26da59e46d5036f52f2	Crypto (World) (v1.12) (Aftermarket) (Homebrew).nes
 3f6fcf708393e6a3fd214e261e99471a	Crypto-Fascist (World) (Aftermarket) (Homebrew).nes
+d7ab46959be38611e45bfb8bdefcd9f7	Crystal Castles (USA) (Aftermarket) (Unl).nes
 d3e3fe5d40adf9c6142dc78cf870881f	Crystal Mines (Korea) (Unl).nes
 6477c54b7340d77c25aa012480c0b321	Crystal Mines (USA) (Unl).nes
 235934f9b4603ad336968ec667f0ad44	Crystalis (USA, Europe) (SNK 40th Anniversary Collection).nes
 a4dcbf3b421424174b327c584e360f51	Crystalis (USA) (Beta).nes
 dda34025966a23ae854d7947a3177f57	Crystalis (USA).nes
+95a9932107d2d6db335ddbd7d7f48297	CUBE (World) (v1.04) (Aftermarket) (Homebrew).nes
+def6f146a74e25d40f2ec6d604f2201b	CUBE (World) (v1.05) (Aftermarket) (Homebrew).nes
+21078367c7ecaee1262789e503617b22	CUBE (World) (v1.06) (Aftermarket) (Homebrew).nes
+f29034908041b0ff07898d95d547b905	CUBE (World) (v1.07.3) (Aftermarket) (Homebrew).nes
 c6f4d04f074019db52cb7ffe03f16dca	Cyber Stadium Series - Base Wars (USA).nes
 8332b0e583bb080cc67af04d55f096ea	Cyberball (USA).nes
+482c1b3c212ccb5fc8076bb804e9e4a1	Cyberblade (World) (Demo) (Aftermarket) (Homebrew).nes
 5db8bc3bd36484bb164eea6097a1e313	Cybernoid - The Fighting Machine (USA).nes
 04f89d2ef3fb62ebab3b06dae3ea505d	Cycle Race - Road Man (Japan).nes
 bbe0dbd0c91a0e22bee67675830f5df4	CYO (World) (Aftermarket) (Homebrew).nes
@@ -886,6 +955,7 @@ f86ae8bf771b96bc1d6493c387a5fc9b	D+Pad Hero II (USA) (Aftermarket) (Unl).nes
 01d40ea90fba56dbcc5a06e797194a3b	DABG - Double Action Blaster Guys (World) (Action 53 Version) (Aftermarket) (Homebrew).nes
 2e035f341b4abdaf9bfbee005f4000a0	DABG - Double Action Blaster Guys (World) (Aftermarket) (Homebrew) (Alt).nes
 e782b25cfd5d5892aa66095b4155b754	DABG - Double Action Blaster Guys (World) (Aftermarket) (Homebrew).nes
+5f80f2196f43ebc241cec34bac2c53c2	DABG - Double Action Blaster Guys (World) (NESDev 2014) (Aftermarket) (Homebrew).nes
 7cf35052a10691df1134a581eab2a862	DABG - Double Action Blaster Guys (World) (Rev A) (Action 53 Version) (Aftermarket) (Homebrew).nes
 e26ffe52de7a0ae6470724ec7f269808	Dai-2-ji Super Robot Taisen (Japan).nes
 52c1ce5616a04f43a4b9df63e3d93a00	Daikaijuu Deburas (Japan).nes
@@ -896,10 +966,11 @@ a39c9c13e5a32138ba5aec87a5bb6955	Daisenryaku (Japan).nes
 83dc1e526283affc136e6675931aee7a	Daiva - Imperial of Nirsartia (Japan).nes
 22b99b7be402e6227dc2f2b238601349	Dance Aerobics (USA).nes
 7211ef70810cbbcea8e93e2783a9adf2	Dancing Blocks (Asia) (Ja) (PAL) (Unl).nes
+0898fdcb03cb3f6dad4136b32ede59d4	Dangeon (World) (Aftermarket) (Homebrew).nes
 4619fe2128e9cacf710f1a2b599f2af8	Danny Sullivan's Indy Heat (Europe).nes
 f1781f33dc3e5a9fea34b7e3b890a5ac	Danny Sullivan's Indy Heat (USA).nes
 5b236c763348f020529a957d84c3e287	Dao Shuai (Asia) (Unl).nes
-6b5520843d26614a8d665b47b977f26a	Dark (Japan) (En) (Family BASIC) (Homebrew).nes
+6b5520843d26614a8d665b47b977f26a	Dark (Japan) (En) (Family BASIC) (Unl).nes
 feaac8aefe1d953040b85c0ba78aa3fe	Dark Lord (Japan).nes
 23214400222f2fc946b8aca148268a32	Darkman (Europe).nes
 1af3892e97a8253784778e0d3a190d83	Darkman (USA).nes
@@ -944,10 +1015,10 @@ e36bc14876da0e25c4ee2bba193002c4	Defender II (USA).nes
 6a63c8fbf5e574dc180bca95077e20a2	Defenders of Dynatron City (USA).nes
 d4dd255f241437c36476cf7ef5be5f15	Deja Vu - A Nightmare Comes True!! (Japan).nes
 40167b2a4866d44fdad1e491ce8d50d1	Deja Vu (Sweden).nes
-4a3138894f5fbddd120e608b64e36067	Deja Vu (USA) (1990-04-28) (Beta).nes
-ac4bbb8eb76c0107f911bdc8be0e2546	Deja Vu (USA) (1990-05-08) (Beta).nes
-5f50bae2af61414208c11f85c6ab0891	Deja Vu (USA) (1990-05-15) (Beta).nes
-9fe851b65e8afab2b3dadd0bcefbbfd4	Deja Vu (USA) (1990-07-03) (Beta).nes
+00245c3e9df7e0a7501ba6578e12cbea	Deja Vu (USA) (1990-04-28) (Beta).nes
+4d075f13240994403ae9f808ccc959b3	Deja Vu (USA) (1990-05-08) (Beta).nes
+ea04f1c2ea1425ffce24955d84ecd707	Deja Vu (USA) (1990-05-15) (Beta).nes
+f52d44483208ee39a0be67af60cef2f3	Deja Vu (USA) (1990-07-03) (Beta).nes
 ed0a5c2ad1b301f1e29bf76223ec1053	Deja Vu (USA).nes
 e734ad3125a2dc0d1d1f07becd2b6478	Demon Sword (USA).nes
 fad66bb1b90c4d35757f4bf2e3b2113f	DENDYcompoII (World) (NTSC) (Aftermarket) (Homebrew).nes
@@ -959,6 +1030,7 @@ b686ea79f85889eaa8c7e4858f198b49	Depths (World) (Ludum Dare 44 Version) (Afterma
 538d1e4e227ca5861ce74a6224da5ad1	Depths (World) (v2.0) (Aftermarket) (Homebrew).nes
 e74cb6e28a451159f00af2518b2f7168	Derby Stallion - Zenkoku Ban (Japan).nes
 b780fefbbd3c85cbe65fcc05dab7c1d6	Desert Commander (USA).nes
+616670a7e87dfb30d846416db2828892	Desert Falcon (USA) (Aftermarket) (Unl).nes
 73dd180f1605960c7da2225d9e8ec12a	Destination Earthstar (USA).nes
 516136715d9e29e889f3c9d7c7d12a42	Destiny of an Emperor (USA).nes
 14b849f4188b0d2e599bd4a08c4eba77	Destroyer (Asia) (En) (Mega Soft) (Unl).nes
@@ -969,6 +1041,7 @@ dd8beae43dd3c25ed158c010d679f818	Devil Man (Japan).nes
 7bc1f99bf64ae561ec71f5564c1e321f	Devil World (Japan) (Rev 1).nes
 7a6c790514130eec0fb368f74b07ad74	Devil World (Japan).nes
 2f9c8345d73ec94d6dcd7220fb7b9e85	Devil World (Scandinavia) (En).nes
+4ebf65376a19b7bad59149725f713fd9	Diablo (China) (Aftermarket) (Pirate).nes
 c730e42bd60ba9bd0bcb196ce1fc3cfe	Dick Tracy (USA).nes
 f09f190eb8c84762ff8fe4da691e9a42	Die Hard (Europe).nes
 873d6e126bd4dcad94a375d2cc60998c	Die Hard (Japan).nes
@@ -979,17 +1052,18 @@ d62e3a8de9682fe5866df8d99f534bb2	Dig Dug II - Trouble in Paradise (USA, Europe) 
 328b2c34d156e1c310495aebb7bf987c	Dig Dug II - Trouble in Paradise (USA).nes
 6062b22d2d55e41dee50d29a6650956e	Dig Dug II (Japan).nes
 b088093308c6ca0422a3ec825cc97b78	Dig Dug II (USA, Europe) (Namco Museum Archives Vol 2).nes
-57eafb0d2ee63e4dbb3a66282d9e1221	Digger - The Legend of the Lost City (USA).nes
 aeab719188297fd62fe0227db2161a22	Digger T. Rock - The Legend of the Lost City (Europe).nes
+57eafb0d2ee63e4dbb3a66282d9e1221	Digger T. Rock - The Legend of the Lost City (USA).nes
 b1f7fae37607481cc423b7e5df55447a	Digital Devil Story - Megami Tensei (Japan) (Namcot Collection).nes
 d99bdc0b1e6d146d593e933f74bbe4d3	Digital Devil Story - Megami Tensei (Japan).nes
-7e071c44b548c28a85080023473af872	Digital Devil Story - Megami Tensei II (Japan) (Rev A).nes
+7e071c44b548c28a85080023473af872	Digital Devil Story - Megami Tensei II (Japan) (Rev 1).nes
 f065998ee5ff631d9a48b4fdae48ac94	Digital Devil Story - Megami Tensei II (Japan).nes
-1852c66e27a037e9f476553a4de0e754	Dikki Paingun in - TKO for the Third Reich (World) (Aftermarket) (Unl).nes
+1852c66e27a037e9f476553a4de0e754	Dikki Painguin in - TKO for the Third Reich (World) (Aftermarket) (Unl).nes
 28adacee737d3de3430c1fd251d21691	Dimension Shift (World) (Proto) (Aftermarket) (Homebrew).nes
 b73cb730493120e01924970dbc697c3d	Dino Hockey (USA) (Proto 1).nes
 ccec6d6260a647c3c610d9fd0a59e319	Dino Hockey (USA) (Proto 2).nes
 189afd9f1613014aace921d51c2e822f	Dirty Harry (USA).nes
+0e64768ae48b4106d9597eb10bc8cc38	Disk Writer EEPROM Pak (Japan) (En) (Program) [b].bin
 57aee845e159b643b3a0b8400a31de42	Dizzy Sheep Disaster (World) (Aftermarket) (Homebrew).nes
 5d7333dbbdd9a3140c9d060dbdc2b820	Dizzy the Adventurer (USA) (Aladdin Compact Cartridge) (Unl).nes
 8844e3d93e6bbe1abd973fe65e1781b6	Doki! Doki! Yuuenchi - Crazy Land Daisakusen (Japan).nes
@@ -1026,10 +1100,12 @@ e63be27e2c927070512dea25c18cdf38	Donkey Kong Jr. + Jr. Lesson (Japan).nes
 01160ed35dde57d348cc38edb0ac5689	Dooly Bravo Land (Korea) (Unl).nes
 3c07d3fcac36e9f53b0982b93e6cabd5	Door Door (Japan).nes
 e5a3480a4e57192757e763da9c75479e	Doraemon - Giga Zombie no Gyakushuu (Japan).nes
-4c56843db70cddec8bc5e63ba8b8bed4	Doraemon (Japan) (Rev A).nes
+4c56843db70cddec8bc5e63ba8b8bed4	Doraemon (Japan) (Rev 1).nes
 add4e9f5ed4391a6b3fdfc5f0e300e71	Doraemon (Japan).nes
 b6c28166173e43ec66fdf4c609880072	Dou Zhi Pin Pan - Wisdom Boy (Asia) (Unl).nes
-cdaff97c9dac89eec82f8559c26c0d00	Double Action 53 - Volume 2 (World) (Aftermarket) (Homebrew).nes
+54ae9bcffc6ad1a888242db1573fc5a5	Double Action 53 - Volume 2 (USA) (Aftermarket) (Unl).nes
+cdaff97c9dac89eec82f8559c26c0d00	Double Action 53 - Volume 2 (World) (2014-11-22) (Beta) (Aftermarket) (Unl).nes
+91294a7e6a5b1791dd815a3752f15bb7	Double Action 53 - Volume 2 (World) (2015-05-27) (Beta) (Aftermarket) (Unl).nes
 6f3f8f13e556e98dd641bdeffe652497	Double Dare (USA).nes
 42e1fffd194a653ba1b4837eefe51732	Double Dragon - Sou Setsu Ryuu (Japan).nes
 80d7a05bead43ffe0b6e1233a48ef276	Double Dragon (Europe) (Virtual Console).nes
@@ -1082,7 +1158,7 @@ b3917b556c78ae7998274a1bfd753653	Dragon Fighter (Japan).nes
 16bd158913f423f1812149951490e1d5	Dragon Fighter (USA).nes
 5347b8b466a726aae83ff6adfc797fee	Dragon Leap (USA) (v1.0) (Aftermarket) (Unl).nes
 9b48c71613bbb0572ca2d27c03635dcb	Dragon Leap (USA) (v2.0) (Aftermarket) (Unl).nes
-8c3549fc7bebeb3243b9027c1a620c7f	Dragon Ninja (Japan) (Rev A).nes
+8c3549fc7bebeb3243b9027c1a620c7f	Dragon Ninja (Japan) (Rev 1).nes
 f8fe57c05f67653ad9bef95ce8e43091	Dragon Ninja (Japan).nes
 4e9d128c63a41c8cc20ff1114a67a2dd	Dragon Power (USA).nes
 77b5548ac3aa59fe11f8cfac750faede	Dragon Quest (Japan).nes
@@ -1118,6 +1194,9 @@ b0e11dbb118974570aac8c6cbea5961f	Dreamworld Pogie (Unknown) (Proto 2) (2016-xx-x
 27948dd484177fa4502e9c87afc897f3	Dreamworld Pogie (World) (Aftermarket) (Homebrew).nes
 ac6adbbc2f43faa64a86463c1a594aee	Driar (World) (Aftermarket) (Homebrew).nes
 c00c441168e942787ce0a5b33e80e098	Drift Trial (World) (v0.01) (Aftermarket) (Homebrew).nes
+0c5c901f2abb3ed977a85e8ae2c78dfd	Drip (World) (Proto) (2009-06-26) (Homebrew).nes
+47935a92bf9f27d8455fd27b9215461f	Drip (World) (Proto) (2016-06-01) (Homebrew).nes
+e7f326078ef8c5090a8694af6e0c98f2	Drip (World) (Proto) (2021-05-25) (Homebrew).nes
 3b420844b0714dd28a1066a471098432	Dropzone (Europe).nes
 cb9df087de3200d3721c60e3bfc4c43a	Druaga no Tou (Japan).nes
 cc59b7b4df78dfa9cde8b8a1db69aa3b	Druaga no Tou (World) (Namcot Collection, Namco Museum Archives Vol 1).nes
@@ -1156,11 +1235,12 @@ b98a6651e2ec7797bd124257217baf1f	Dynamite Batman (Japan).nes
 35d9a27720872ff2a562ecc3e77962d4	Dynamite Bowl (Japan) (Rev 1).nes
 c5d7d9c3883baa6efdafa2d2d59d9735	Dynamite Bowl (Japan).nes
 9539cd44013c3a2a5fd6982c59e9bba8	Dynowarz - The Destruction of Spondylus (USA).nes
+e60b99e76c3cd11b6e12dd1a59f899ea	E.T. - The Extra Terrestrial (USA) (Aftermarket) (Unl) (Alt).nes
 d6b31d677dee46b922a37deb8d059dc3	E.T. - The Extra Terrestrial (USA) (Aftermarket) (Unl).nes
-e60b99e76c3cd11b6e12dd1a59f899ea	E.T. - The Extra Terrestrial (USA) (Alt) (Aftermarket) (Unl).nes
 84e8fed10d7c339f726d52cb152078e1	EarthBound Beginnings (USA, Europe) (Virtual Console).nes
 1b3abb20a8d2b7cffdc6b40f0583481e	Earthworm Jim 2 (Europe, Asia) (En) (Super Game) (Aftermarket) (Pirate).nes
 af0900fcb1b5026be76bbcbff2d5f26a	Earthworm Jim 3 (Asia) (En) (Aftermarket) (Pirate).nes
+fab80621095c3f8b32dd722b0cd7d317	Educational Computer 2000 - 48 in 1 (Unknown) (Es) (Aftermarket) (Pirate).nes
 d17476606c967674f13d9b6a14395cc1	Eelectric (World) (Aftermarket) (Homebrew).nes
 029528667964107796565354b42f8721	Eggerland - Meikyuu no Fukkatsu (Japan).nes
 8d6f9fe0496336a0188f237a58cdc678	Egypt (Japan).nes
@@ -1188,16 +1268,19 @@ e9393cf6e90f5a59bedf4232e81cea60	Erika to Satoru no Yume Bouken (Japan).nes
 c5ffeae3393107de5dec7852e5f02e6b	Escape From Atlantis (USA) (Piko Interactive) (Aftermarket) (Unl).nes
 4c58c5403c0f3bb5eb9e4a130f4ad9ad	Escape from Atlantis, The (USA) (Proto 1) (Unl).nes
 473039c69061a1b5fca5c277c4a0622e	Escape from Atlantis, The (USA) (Proto 2) (Unl).nes
-1b3dfa134813ee2a67e36985493e5f9a	Eskimo Bob Starring Alfonzo - Deluxe Edition (World) (2019-11-01) (Aftermarket) (Homebrew).nes
-18e39242a4e2b0a39b87b88961bffa2b	Eskimo Bob Starring Alfonzo - Deluxe Edition (World) (Aftermarket) (Homebrew).nes
-9b8014a86e4284d8ee95841b023c68fa	Eskimo Bob Starring Alfonzo - Deluxe Edition (World) (Rev 1) (Aftermarket) (Homebrew).nes
-227e8c99e8be8ac2f0322a92e042d414	Eskimo Bob Starring Alfonzo (World) (Demo) (Aftermarket) (Homebrew).nes
+1b3dfa134813ee2a67e36985493e5f9a	Eskimo Bob Starring Alfonzo - Deluxe Edition (World) (2019-11-01) (Aftermarket) (Unl).nes
+18e39242a4e2b0a39b87b88961bffa2b	Eskimo Bob Starring Alfonzo - Deluxe Edition (World) (Aftermarket) (Unl).nes
+9b8014a86e4284d8ee95841b023c68fa	Eskimo Bob Starring Alfonzo - Deluxe Edition (World) (Rev 1) (2022-03-07) (Aftermarket) (Unl).nes
+227e8c99e8be8ac2f0322a92e042d414	Eskimo Bob Starring Alfonzo (World) (Demo) (Aftermarket) (Unl).nes
 4fd1d5a4d8399681fe80d2ac10f7d29f	Esper Bouken Tai (Japan).nes
 def4b50fcf7da9e0d766bab3d139ad41	Esper Dream 2 - Aratanaru Tatakai (Japan).nes
+d05fd2f7a9985ef1358be8f7adfcfac3	Espitene (World) (Aftermarket) (Homebrew).nes
 339554be8bc8b4a1154e273bba416657	Espitenen und Herr Pimponen (World) (Aftermarket) (Homebrew).nes
 031856d0d0a86982717efa877b9c2da1	Espitenen und Herr Pimponen (World) (Es) (Aftermarket) (Homebrew).nes
 43f18f9213d96b1876f1a86eed1ab593	Eternal GladNES (World) (Aftermarket) (Homebrew).nes
 7df982e438db67c206e229d4bc05f717	Euchre (World) (Aftermarket) (Homebrew).nes
+62a535bf01fc2f58c3d1310ffef86723	Euchre (World) (NESDev 2018) (Aftermarket) (Homebrew).nes
+127ffb232c7f4f63965b8a8cdf2eaf7c	Excitebike (Asia) (En) (LA21) (Pirate).nes
 b08d041b0d0962c6fedca901e6046dec	Excitebike (Europe) (Virtual Console).nes
 16c66d6ee6827ff49e3a2efbf4b66c5a	Excitebike (Europe).nes
 2bf3976d15ec25a756846465a16b064c	Excitebike (Japan, USA) (En) (GameCube Edition).nes
@@ -1219,7 +1302,7 @@ c7e189a80f0e0d49062d6097c8040b94	Exciting Rally - World Rally Championship (Japa
 f6273b1cbba8a6e803b68c8275687280	Eyra, The Crow Maiden (World) (Aftermarket) (Unl).nes
 c00eaa3139dc1d750250203738326d8f	Eyra, The Crow Maiden (World) (Demo) (Aftermarket) (Unl).nes
 039f761b3375bc576877ea5471bc7e1f	F-1 Race (Japan) (Beta).nes
-20fbb12b4c5566dee7e56b8ef7d1521b	F-1 Sensation (Japan).nes
+20fbb12b4c5566dee7e56b8ef7d1521b	F-1 Sensation (Japan) (En).nes
 dd5ef6ea48f538be7ec0ec40b217e611	F-117A Stealth Fighter (USA).nes
 82945833731a3fc9436ab0a637f09004	F-15 City War (Asia) (En) (Idea-Tek) (Unl).nes
 2469693f0ecc8f9fac5e07bca49e97d4	F-15 City War (Spain) (En) (Gluk Video) (Unl).nes
@@ -1239,6 +1322,7 @@ fe6e13d1382f94dc0a5391053c4096bc	F1 Race (Japan).nes
 b30b07cf2dd1e812143d636be4fe7143	Falling (World) (v1.0) (Aftermarket) (Homebrew).nes
 a852a1d91290454f1121728f35254886	Falling (World) (v1.01) (Aftermarket) (Homebrew).nes
 1229d51277be89d2f9c8ba2024021d0e	Falling (World) (v1.1) (Aftermarket) (Homebrew).nes
+bc81994486d218c7913b5257ac9360bc	Falling Tiles (World) (NESDev 2019) (Aftermarket) (Homebrew).nes
 11d5d38413af4f4c1eadbd147f9a16e0	Famicom de Pon (World) (Aftermarket) (Homebrew).nes
 47b8a8069544bf478ebe61528cd3aadb	Famicom Doubutsu Seitai Zukan! - Katte ni Shirokuma - Mori o Sukue no Maki! (Japan).nes
 b580ab0254c77f1b9d910a4f3eeb09a1	Famicom Igo Nyuumon (Japan).nes
@@ -1246,6 +1330,7 @@ b580ab0254c77f1b9d910a4f3eeb09a1	Famicom Igo Nyuumon (Japan).nes
 de69ef7e7afc11b70f8d9a40df6a751f	Famicom Jump II - Saikyou no 7 Nin (Japan).nes
 cdde1b2ad45c15ebce38192de5de1413	Famicom Meijin Sen (Japan) (Rev 1).nes
 7fe882bca84ac9353a910990fa38a2e7	Famicom Meijin Sen (Japan).nes
+2e17feaa0a33bc0e508515a2b7102fe8	Famicom Rocky Theme (Japan) (Aftermarket) (Unl).nes
 63069b45dc9da57af9a4a9570a3e12e5	Famicom Shougi - Ryuuousen (Japan) (Beta).nes
 e1fa96f786194f68f3393248bc2aef6e	Famicom Shougi - Ryuuousen (Japan).nes
 7b874b9ed3b6e223bc432f0085f6667e	Famicom Top Management (Japan).nes
@@ -1269,7 +1354,7 @@ d2479a64720500a9f9f5792790d4e902	Family Block (Japan).nes
 e2297d6fbd42a09b162e84507acf4c04	Family Feud (USA).nes
 fb9879d7bc1209a3c4fc0e6de344103a	Family Jockey (Japan) (Namcot Collection).nes
 28dd4683bd206046a3e97ecd1abbd464	Family Jockey (Japan).nes
-97400ffa7cc140e028e2c49177689c33	Family Mahjong (Japan) (Rev A).nes
+97400ffa7cc140e028e2c49177689c33	Family Mahjong (Japan) (Rev 1).nes
 9430962b99eaec0f191f76cf1618bc06	Family Mahjong (Japan).nes
 09788949e0636d9f003d22ab4c53bbc9	Family Mahjong II - Shanghai e no Michi (Japan).nes
 203c7adc9bc95cccf31f8646960d22bc	Family Noraebang (Korea) (Unl).nes
@@ -1307,6 +1392,9 @@ fa5dcc5882d8bb1c209f7c75d23c50c9	Fantasy Zone (USA) (Tengen) (Unl).nes
 7a01e068ab53e51b8da46db592a1fcf4	Faria - A World of Mystery & Danger! (USA).nes
 4f17d28ef72c5e2f2adc754e9644d432	Faria - Fuuin no Tsurugi (Japan).nes
 7a9e63e16e1f9aca659b1f0882c31414	Farming Mushrooms in LOWAS (World) (Aftermarket) (Homebrew).nes
+e985703841b87f5111c9ec8871726ec4	Farpoint - Toys Matter (World) (v1.0) (Demo) (Aftermarket) (Homebrew).nes
+6608258af42017eea216edd9e48a6747	Farpoint - Toys Matter (World) (v1.2) (Demo) (Aftermarket) (Homebrew).nes
+c7229ea3be2962d7fd373b09eeea02a7	Farpoint - Toys Matter (World) (v1.3) (Demo) (Aftermarket) (Homebrew).nes
 da0dae68ce4220d669fd032dbf5937a6	Faxanadu (Europe).nes
 80df264c2b4c0bfb69003935aad8f587	Faxanadu (Japan).nes
 28eb470f84bcd54320fa890003d26402	Faxanadu (USA) (Rev 1).nes
@@ -1330,6 +1418,8 @@ eb3db185cac18067d308e81ce73997ba	Fighting Golf (Japan) (FamicomBox).nes
 688b570982c319ab449e177f033978cf	Fighting Road (Japan).nes
 5b9df8637bff2b22ae0c64db2099e335	Fighting Simulator - World Champ (USA) (Proto).nes
 2aa7930efc6bf1c7e5b41b66acc9a4bd	File Fixers (World) (Aftermarket) (Homebrew).nes
+e3172d7217a5da161618e1bd30034331	Filthy Kitchen (World) (Aftermarket) (Homebrew) (Alt).nes
+857ebc9a634932a4ae4bf799f734f6e5	Filthy Kitchen (World) (Aftermarket) (Homebrew).nes
 09ebff73d014a70c96956608f8caa816	Final Combat (Asia) (Ja) (NTSC) (Unl).nes
 da67a017aece2299b4c1a5dba5905049	Final Combat (Asia) (Ja) (PAL) (Unl).nes
 697a5dd2b2cd36e63c43ca4bdee28deb	Final Fantasy (Japan) (Rev 1) (3DS Virtual Console).nes
@@ -1354,6 +1444,7 @@ a35b42b02d58f63473f4b2fbcfc0fe83	Final Lap (Japan).nes
 6ce5705ffa2b1fd74e77a861506b8768	Final Mission (Japan).nes
 d2181fab244df1e472c21acde28bab2f	Fire 'n Ice (USA).nes
 1cd56e0165af1895a0f93eba7117cb36	Fire and Rescue (USA) (v1.1) (Aftermarket) (Unl).nes
+87b974645e3ae3bd9d22d45f5a7909da	Fire and Rescue (World) (v2.0) (Aftermarket) (Unl).nes
 c2a6753b7a30fecafa1a8a302097727c	Fire Dragon (Asia) (En) (Unl).nes
 31b08c81f13e76247f052e80669e8c41	Fire Emblem - Ankoku Ryuu to Hikari no Tsurugi (Japan).nes
 db8cb18ee0a3f0fe9cdb9c069732e664	Fire Emblem Gaiden (Japan) (Virtual Console).nes
@@ -1364,19 +1455,20 @@ e5824ea066127192c9ea43b63b7e3ea5	Firehawk (USA) (Unl).nes
 8828edfcf54e4b05827b0ff1b0831a4a	Fisher-Price - Firehouse Rescue (USA).nes
 cda9b5267e3241ddeeac4458e62fc945	Fisher-Price - I Can Remember (USA).nes
 1363f9ad05d018a05e5be8eb376cd6fd	Fisher-Price - Perfect Fit (USA).nes
-ef7136e3762e84f740fdb0e156ea266d	Fisraduth - Castle of Tyramis (Japan) (Easy Version) (Family BASIC) (Homebrew).nes
-dd2a875173a5a5eee3c6f0e474e162e6	Fisraduth - Castle of Tyramis (Japan) (Family BASIC) (Homebrew).nes
-e33f68f13f164c21a9db21418c3d93f1	Fisraduth - Castle of Tyramis (Japan) (Very Easy Version) (Family BASIC) (Homebrew).nes
+ef7136e3762e84f740fdb0e156ea266d	Fisraduth - Castle of Tyramis (Japan) (Easy Version) (Family BASIC) (Unl).nes
+dd2a875173a5a5eee3c6f0e474e162e6	Fisraduth - Castle of Tyramis (Japan) (Family BASIC) (Unl).nes
+e33f68f13f164c21a9db21418c3d93f1	Fisraduth - Castle of Tyramis (Japan) (Very Easy Version) (Family BASIC) (Unl).nes
 5560ab6bd04c8738728f55bbc23c992d	Fist of the North Star (USA).nes
 e303a24f093bf17c426990f5796e90d5	Flappy (Japan).nes
 bc940d9c3251691b0ffd45fa966352b6	Flappy Bird (World) (Aftermarket) (Homebrew).nes
 c028002a0d2c2b7705388b3b5e391636	Flappy Bird (World) (Easier) (Aftermarket) (Homebrew).nes
+a415c13f09c33709d425acc40f175321	Flappy Jack (World) (Aftermarket) (Homebrew).nes
 ace26f512b1cd981f814975c92881415	Flea! (World) (2020-02-23) (Demo) (Aftermarket) (Unl).nes
 5fa49d8eddeda0e4c96bc25c58530990	Flea! (World) (2020-09-19) (Demo) (Aftermarket) (Unl).nes
 6e0149e890164b0a467a847514ea11ce	Flea! (World) (Aftermarket) (Unl).nes
 da9e6929560bbc6cb7e3d675bf1145f7	Flea! (World) (Switch) (Aftermarket) (Unl).nes
 8e2221e5bdb3699b79ac23a4fd4b52cb	Fleet Commander (Japan).nes
-c0efca4fa67724cd3f21b869e6f6c106	Flies (Japan) (En) (Family BASIC) (Homebrew).nes
+c0efca4fa67724cd3f21b869e6f6c106	Flies (Japan) (En) (Family BASIC) (Unl).nes
 d618405fa472c1f1c0c8e3754a498c4c	Flight of the Intruder (USA).nes
 3cc1cc72497cbf67aa00482e02d2acac	Flintstones, The - The Rescue of Dino & Hoppy (Europe).nes
 70a18ffd76da0c22abc9706714d4cbac	Flintstones, The - The Rescue of Dino & Hoppy (Japan).nes
@@ -1392,9 +1484,10 @@ f2c7d5583b87451825c977ade0ed2b16	Flying Dragon - The Secret Scroll (USA).nes
 b5831ddeb99e42bc1a9dfedf3bbb0fd8	Flying Warriors (USA) (Beta).nes
 87b4f733ed1384e4f319dcbc0c55a5db	Flying Warriors (USA) (Virtual Console).nes
 cb654601a4059c67177c0cb6414603cf	Flying Warriors (USA).nes
+b627c26040a7526e36f18bd7b31d1dc4	Food Fight (USA) (Aftermarket) (Unl).nes
 44c4395ca92172ba9919e532c8300dc4	Forehead Block Guy (World) (2011-05-26) (Aftermarket) (Homebrew).nes
-6dc623953766b01fa684cd79d0a53053	Formation Z (Japan) (Rev A) (Virtual Console).nes
-5f79c64d8e73b51149ec8a29b160a7a6	Formation Z (Japan) (Rev A).nes
+6dc623953766b01fa684cd79d0a53053	Formation Z (Japan) (Rev 1) (Virtual Console).nes
+5f79c64d8e73b51149ec8a29b160a7a6	Formation Z (Japan) (Rev 1).nes
 3a5922efb5f9f6ee8b1a36e136e254e9	Formation Z (Japan).nes
 d1d8b7da8c3c529e57de0b573125de32	Formula 1 Sensation (Europe).nes
 79348bbb6ab1952c1c823bfb6b6eca76	Formula One - Built to Win (USA).nes
@@ -1405,14 +1498,17 @@ c5b8631bc83ffd1f30c85c355ed592ab	Frankenstein - The Monster Returns (USA).nes
 8be2139571121022ab013a260bd9421b	Freedom Force (USA) (Beta).nes
 ab42d46ac83de2ad2d6c74c155c6d67f	Freedom Force (USA).nes
 f76da5eaf86982ea60ba3f9f3a8c0dc8	Frenzy (World) (Aftermarket) (Unl).nes
+90731ca48f3f49ad3edd4e8564c28c95	Friday The 13th - Return To Camp Blood (World) (v1.52) (Aftermarket) (Homebrew).nes
 7b1f3ead3e05455f14babc5c6e9ff3a4	Friday the 13th (USA).nes
 9581c0bf551173803fba028d42733119	Frog (World) (Aftermarket) (Homebrew).nes
 2d79d5fe1ee330c78db555f0bb164996	From Below (USA) (Aftermarket) (Unl).nes
 5688fb95770dae0fb2006e32b18253ab	Front Line (Japan).nes
 de502faeda1a9b031ccea56d39c671f2	Fudou Myouou Den (Japan).nes
 ceba3dbd7ef0c55a40257df86e7943a7	Full Quiet (Backer Test Cartridge) (USA) (Proto) (Aftermarket) (Unl).nes
+5a7f85e6174ef80a60565298823a448f	Full Quiet (USA, Europe) (Aftermarket) (Unl).nes
 1772bcc6eec66e422394c3e8787646fa	Fun House (USA).nes
 3459f6d3214774167ce94bfe6d3730e6	Funblaster Pak (Australia) (Unl).nes
+9221444ab2d39069ecd98d383d3b5d82	Function (World) (Aftermarket) (Homebrew).nes
 fcf9d3c8a05bb642eb37be66233ec717	Fushigi na Blobby - Blobania no Kiki (Japan).nes
 035d286967205552407fd8a15e3ea34c	Fushigi no Umi no Nadia (Japan).nes
 63f559518dfa8d57621cc6bb0d87a928	Futebol (Brazil) (Unl).nes
@@ -1429,7 +1525,7 @@ fcb354cbdc180abc990da9317d619629	G.I. Joe - A Real American Hero (USA).nes
 7810f70fc3c17226a5365ef64283df0d	Galaga (Europe).nes
 c90d652840d02c8eca799b3799bad6f7	Galaga (Japan).nes
 41e7df3c534c1a952b08397b11bf94fc	Galaga (World) (Namcot Collection, Namco Museum Archives Vol 2).nes
-7ea72482234ac1b3754153a559213367	Galaxian (Japan) (Rev A).nes
+7ea72482234ac1b3754153a559213367	Galaxian (Japan) (Rev 1).nes
 01c1f123f436943527f50eb585025b99	Galaxian (Japan).nes
 32d3930fb6c03965edc9223fa2202048	Galaxian (World) (Namcot Collection, Namco Museum Archives Vol 1).nes
 678b5252661e4b9c9bb651dee3d5ac53	Galaxxon - The Third War (World) (Aftermarket) (Homebrew).nes
@@ -1442,8 +1538,8 @@ afaf9408f0092100b52bd07cdf7925f0	Gambler Jiko Chuushinha 2 (Japan).nes
 15ac8468cd7259a2b267ced7eaf27771	Game Designer Yousei Soft - Dezaemon (Japan).nes
 290fe14b0ec9527406c0d7de8575a77a	Game Genie (USA) (Unl).nes
 7c41a1291a752395e8bc664434ed71de	Game Gyaru EX (World) (Aftermarket) (Homebrew).nes
-2574a379bf7c2cb0a6ae096a165d7edf	Game Master Kid (Unknown) (Proto) (RAM) (Unl).nes
-4c5b210a3d960bf48621c54ded5a2f75	Game Master Kid (Unknown) (Proto) (Unl).nes
+2574a379bf7c2cb0a6ae096a165d7edf	Game Master Kid (Unknown) (Proto) (RAM) (Unl).bin
+4c5b210a3d960bf48621c54ded5a2f75	Game Master Kid (Unknown) (Proto) (Unl).bin
 95796671ba31d8abcc6288daf0640e60	Game Party (Japan).nes
 c3ac9b7d16a9070cc201b942c1b02808	Ganbare Goemon 2 (Japan) (Virtual Console).nes
 de9de5e4032f03ef63f9d3ef0ee131d3	Ganbare Goemon 2 (Japan).nes
@@ -1456,6 +1552,7 @@ f4476d00fbb0d293be7511e740c59ad0	Ganbare Goemon! - Karakuri Douchuu (Japan) (Vir
 637956aef4283a9c64dd292935f57914	Ganbare Pennant Race! (Japan).nes
 f46b10f94fb07140e1c0b624d20257b2	Ganso Saiyuuki - Super Monkey Daibouken (Japan).nes
 831ea189e6ed48607b5ef5102de3b5d8	Gaplus (World) (Namcot Collection, Namco Museum Archives Vol 2) (Aftermarket).nes
+b10b2fd9855be025b16289677f685932	Garbage Pail Kids - Mad Mike and the Quest for Stale Gum (World) (Aftermarket) (Unl).nes
 45c48919122e657d56a4c37c8f9de85f	Gardman (Asia) (Unl).nes
 d5e68c6b1b8201b6216ee7772c45d0f3	Garfield no Isshukan (Japan) (En) (Beta 1).nes
 1a555405ad16564c102c4857ee4054c3	Garfield no Isshukan (Japan) (En) (Beta 2).nes
@@ -1512,15 +1609,19 @@ f73b43b9d88240e371a9ca9042cfcd46	Ghoul Grind - Night of the Necromancer (World) 
 75531a0b844a5b2153d7d32c546be6fc	Gift (World) (Pt-BR) (Aftermarket) (Homebrew).nes
 73295faab17a31aebbd115eabeed0251	Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen (Japan).nes
 e56fccc159129d14fc981739c89f747f	Gimmi a Break - Shijou Saikyou no Quiz Ou Ketteisen 2 (Japan).nes
+f3946712d47d55c4c0f691c7c74443e7	Gimmick! (Asia) (En) (Pirate).nes
 55828e2d6845ddc9a00077119a4f9cea	Gimmick! (Japan) (Beta).nes
 a46b4a632770b57f13d0327b346f4213	Gimmick! (Japan).nes
 0e78d5b358e0a226101c57b851a01110	Ginga Eiyuu Densetsu (Japan).nes
 477eb23c03e46b949e3952e6656477d4	Ginga no Sannin (Japan).nes
+e96b5732068c6df7228d355585f1ef3f	Glider - Mad House (USA, Europe) (Aftermarket) (Unl).nes
+accb5ad5b0cc1e2b5377a8b3aa5f2a42	Glider - Pluto's Bath House (USA, Europe) (Aftermarket) (Unl).nes
 f5e06c736f0821f155049eb4badd0d46	Glider (USA) (Aftermarket) (Unl).nes
 04b10edf53d36ab12b07bce974021a25	glitchNES (World) (v0.1) (Program) (Aftermarket) (Homebrew).nes
 65f8a91d99d4462afec5922964f95f80	glitchNES (World) (v0.15) (Program) (Aftermarket) (Homebrew).nes
 fcd979525251f1f9e0467459c792e5a4	glitchNES (World) (v0.2) (Program) (Aftermarket) (Homebrew).nes
 84285ba2db39416fe0a5965418c30c03	glitchNES 2022 (USA) (Program) (Aftermarket) (Homebrew).nes
+3be2b9f0c974bb3393c9ac5840a1d34e	GLK Dance (Asia) (En) (Unl).nes
 f0592a4fe76b3ea98876a7c68c43c958	Gluk the Thunder Warrior (Spain) (En) (Gluk Video) (Unl).nes
 120e386fa1f1ca9040014b651d06254e	Go! Benny! (Asia) (En) (Unl).nes
 24c6f79a2dc8eed04d6a864567f199f7	Go! Dizzy Go! (World) (Unl).nes
@@ -1539,6 +1640,10 @@ a54163ab8b1fe40c0cd81638357cc0d4	Godzilla 2 - War of the Monsters (USA).nes
 18f0779ada90c785826c1dd427880137	Gojira (Japan).nes
 dbd6778a029b0c135499860c511228fd	Gold Guardian Gun Girl (Japan) (En) (Aftermarket) (Unl).nes
 a147c226cc27b874b5601a19197e5107	Gold Guardian Gun Girl (World) (Trial Version) (Aftermarket) (Homebrew).nes
+669a7b7ab3e50e9b96c6b8f0e824b510	Golden Game 100-in-1 (Asia) (En) (Pirate).nes
+79790e42309c7ac013367b854fb98b81	Golden Game 150-in-1 (Asia) (En) (Pirate).nes
+5a77c03df985812de068dafed1edd8be	Golden Game 210-in-1 (Asia) (En) (Pirate).nes
+e219b098e0d5deeab16df04e8306dc79	Golden Game 260-in-1 (Asia) (En) (Pirate).nes
 08021be248572be47b3f00878d485f14	Golf '92, The (Japan).nes
 269c6569e703a65c00611cdf5752e7d0	Golf (Europe) (GameCube Edition).nes
 9e7755aede0e78954d83d03a87274ccd	Golf (Europe).nes
@@ -1566,23 +1671,24 @@ e8da6f8e7de9ea1e888f86c1bd638962	Goonies II, The - Fratelli Saigo no Chousen (Ja
 04001b9e6260ff23072671469d321b59	Gorilla Man, The (Japan).nes
 b2c30d47953df74cb3b60e4fed5c30da	Gotcha! - The Sport! (USA).nes
 47591d79cda1a0ae062a7bb05612bbff	Gotta Protectors - Amazon's Running Diet (World) (Aftermarket) (Unl).nes
-b689e9039927cdea585a69858d802a76	Gotta Protectors - Amazon's Running Diet (World) (Ja) (Aftermarket) (Unl).nes
 4f1a84046f5dc12e6a9edf53a2b14556	Gozonji - Yaji Kita Chin Douchuu (Japan).nes
 cd8cf02f03eaf13fd61ed3cef9a7ebd6	Gradius (Europe).nes
 40c601ffc9b78ac8bb1b25dc6ed45ef1	Gradius (Japan) (ArchiMENdes Hen).nes
 0fcb7a26b30f597f4a279e06242c6ccf	Gradius (Japan) (FamicomBox).nes
 dce09b5052897b78ca7f9370568cb0c2	Gradius (Japan).nes
 49c0ffbd6fca692e7c567b4d72ae0847	Gradius (USA).nes
-148f4d81c1b833fd16f8ea51152ad3a9	Gradius II (Japan).nes
+148f4d81c1b833fd16f8ea51152ad3a9	Gradius II (Japan) (En).nes
 fac1fc74aec2dc99e8cb7e5a810fafaa	Gran Aventura Submarina, La (Spain) (En) (Gluk Video) (Unl).nes
 730eba9a9f5c23c01b97f9aaa0cd39e0	Grand Master (Japan).nes
+b84d699c2c83a64a349e5ced0c28365e	Gravedigger (World) (Aftermarket) (Homebrew).nes
 e7d65739166d7975b052c5711e66cbb5	GRAVEYARD DUDE (World) (2022-06-06) (Demo) (Aftermarket) (Homebrew).nes
 1d8ce7883757353aad6957500099b09d	GRAVEYARD DUDE (World) (2022-07-28) (Aftermarket) (Homebrew).nes
 11077905e35184af6e46bd1c274c4a12	GRAVEYARD DUDE (World) (Aftermarket) (Homebrew).nes
 eba231d3c133fe62b00a954dba498475	GRAVEYARD DUDE (World) (Demo) (Aftermarket) (Homebrew).nes
+ec1043934fbddc4668016234d72de4f6	Gravitar (USA) (Aftermarket) (Unl).nes
 f060c83c6022ab8ecbcf67e640e00109	Great Battle Cyber (Japan).nes
 bbe3f1f0dc7a7b5ace6913cc3e6a6ded	Great Boxing - Rush Up (Japan).nes
-611f78e7e53981fa9545d2f9a1f3c980	Great Deal (Japan).nes
+611f78e7e53981fa9545d2f9a1f3c980	Great Deal (Japan) (En).nes
 d83b827c5026c2e30e185c944306f31b	Great Gatsby, The (World) (Aftermarket) (Unl).nes
 8b67df70da6c5c87441458231160a166	Great Tank (Japan) (SNK 40th Anniversary Collection).nes
 48ba7ccc5e525d19ccbe698a45a2c772	Great Tank (Japan).nes
@@ -1594,13 +1700,14 @@ ec9167a5140a1b234ac3a925a7354d9b	Gremlins 2 - The New Batch (Europe) (Beta).nes
 404a7eedd0b9348eab4a06e412b49ead	Gremlins 2 - The New Batch (Europe).nes
 f532c4348acdd401f1b161371a52ceb9	Gremlins 2 - The New Batch (USA) (Beta).nes
 845dca95ab1008e045e2eb965e61556c	Gremlins 2 - The New Batch (USA).nes
-3eda95669c65bfbb82bc0ecea86e0262	Grind, The (USA) (Aftermarket) (Unl).nes
+3eda95669c65bfbb82bc0ecea86e0262	Grind, The (USA) (Aftermarket) (Homebrew).nes
 b864a056f76956db271f8886b21b574b	Grocery Warfare (World) (Aftermarket) (Homebrew).nes
 678c840dd26a65418a56ca0073e6679e	Gruniozerca (World) (Pl) (Aftermarket) (Homebrew).nes
 4247a0ea00fba1013fbe195482127858	Gruniozerca (World) (Pl) (Rev 1) (Aftermarket) (Homebrew).nes
 ae2859400fb79e6eb9a8f0939e345940	Gruniozerca 2 - The Great Cavy Rescue! (World) (En,Pl) (Aftermarket) (Homebrew).nes
 4511922d90dc0cde33ac495cf8e37bcb	Gruniozerca 2 (World) (En,Pl) (NESDev 2017) (Aftermarket) (Homebrew).nes
 5331a79e3980f589e706397976e5aad2	Gruniozerca 2 (World) (En,Pl) (Rev 1) (NESDev 2017) (Aftermarket) (Homebrew).nes
+e6eabba700c151cf97b18926c2531f5a	Gruniozerca 3 - The Great Cavy Clean Up! (World) (NESDev 2018) (Aftermarket) (Homebrew).nes
 0e65dd5010c2a4d1df3fbea00d9abee7	Gruniozerca 3 - The Great Cavy Clean-Up! (World) (En,Pl) (Aftermarket) (Homebrew).nes
 1678096a679478538d1838fcc37cc057	Guardian Legend, The (Europe).nes
 3fa50469878212f7feb8fa784404deac	Guardian Legend, The (USA).nes
@@ -1631,10 +1738,13 @@ b5bedbd3fe8d619aab10db378a8e0562	GunTner (World) (ax1147) (Beta) (Build 221) (Af
 0de52e74b225a452510bb538044fef59	GunTner (World) (ax1147) (Beta) (Build 239) (Aftermarket) (Homebrew).nes
 f0347f5298a080fcaff09424c3913a42	GunTner (World) (ax1147) (Beta) (Build 243) (Aftermarket) (Homebrew).nes
 a90898a20f540ff1075393546b918379	GunTner (World) (ax1147) (Beta) (Build 249) (Aftermarket) (Homebrew).nes
+c426b9cb52be3b6eab975ee1950ef98c	GunTner (World) (ax1147) (Beta) (Build 252) (Aftermarket) (Homebrew).nes
 6606fb75d5882d3455b3c845335e3511	GunTner (World) (Beta) (Build 132) (Aftermarket) (Homebrew).nes
 cd4c819bba353861f2ebb8d59a7b7be0	GunTner (World) (Beta) (Build 47) (Aftermarket) (Homebrew).nes
 3aebe97438ee0f7d99925cd0cc12b19c	GunTner (World) (Beta) (Build 53) (Aftermarket) (Homebrew).nes
 36c9ada8374b5a9c66a3592d4896fd3d	GunTner (World) (Beta) (Build 65) (Aftermarket) (Homebrew).nes
+4decc89867b1b3f87f3350ac3ced3024	GunTner (World) (Magfest 2023) (Aftermarket) (Unl).nes
+427900109050f1511fee32efbe91dd71	GunTneR (World) (v1.2) (Demo) (Aftermarket) (Homebrew).nes
 98d2004a340612eebdc41a13dac84ff6	GunTner (World) (v2.73) (Beta) (Build 132) (Aftermarket) (Homebrew).nes
 07ecdeaa3ffeb2d98688bf79faf0832a	GunTner (World) (v2.73) (Beta) (Build 141) (Aftermarket) (Homebrew).nes
 49397aa8a297270225f15f5f3a2e7c13	GunTner (World) (v2.73) (Beta) (Build 143) (Aftermarket) (Homebrew).nes
@@ -1647,9 +1757,11 @@ bb2c633a3cd0f7588688e1ffc0f2f1e9	Gyrodine (Japan).nes
 1b994bda62ba9a8bf0893133fa012831	Gyruss (USA).nes
 6832b4acee01e33e27d9f5c4c641417d	Hack-Match (USA, Europe) (NTSC) (Aftermarket) (Homebrew).nes
 a05c65b0bd5f5a2402254c5b19f88b7e	Hack-Match (USA, Europe) (PAL) (Aftermarket) (Homebrew).nes
+7ee3c54fc8db9f8e5dd4d25cae96df63	Hacker, The (China) (Aftermarket) (Pirate).nes
 7757552a861c5de3f7752e1c073e05de	Haja no Fuuin (Japan).nes
 fa6686d7d94d978fd5c395b31e9e645f	Halcyon (World) (Demo 2) (Aftermarket) (Homebrew).nes
 e30abb64ea3f2aef5cabb7782023f6e5	Halcyon (World) (v03a) (Demo) (Aftermarket) (Homebrew).nes
+cffaf275c2296bd297053e39ed8fa43b	Halloween - October 31st (World) (v0.02) (Aftermarket) (Homebrew).nes
 df4cb6c92dd422490e63c0b39c8de5dd	Halloween 2015 NA Scare Cart (USA) (Aftermarket) (Homebrew).nes
 1b1ae14fbd344efccf4304fc2b590a0e	Halloween 2016 NA Scare Cart (USA) (Aftermarket) (Homebrew).nes
 2518af551992d2bba3706986750c89a0	Halloween 2017 NA Scare Cart (USA) (Aftermarket) (Homebrew).nes
@@ -1672,7 +1784,7 @@ cc649755c982ec8bc0ca4894acf0e862	HappyNESs (World) (Aftermarket) (Homebrew).nes
 9dc37dfc093a0cb1dce34cf33eda1e39	Haradius Zero (USA) (Aftermarket) (Homebrew).nes
 51c6d04f295f6b017a81df79ab6e1814	Haratyler HG (Japan) (En) (Aftermarket) (Homebrew).nes
 1eb6d99fe34e78bc3aa4fd8b3783fa69	Haratyler MP (Japan) (En) (Aftermarket) (Homebrew) [b].nes
-c2eaddc124c8a44eed3e8d946651d10c	Harbinger 2 - Cunt Punch (USA) (Proto) (Aftermarket) (Unl).nes
+c2eaddc124c8a44eed3e8d946651d10c	Harbinger 2 - Cunt Punch (USA) (Proto) (Aftermarket) (Homebrew).nes
 37dd9403d0d3ad7e5305af7d6e9a8159	Hard Drivin' (USA) (Proto) (Unl).nes
 f3932a9606d81ca631a992b115694b43	Harlee, Barlee and Charlee in Whacky Water Wiles (World) (Aftermarket) (Homebrew).nes
 95dd60fa075d70cc1bd108cc8a2b1344	Harlem Globetrotters (USA).nes
@@ -1681,13 +1793,15 @@ c2a1a48ab27bb493a7d9eadc2c6b557c	Harry's Legend (Asia) (En) (Aftermarket) (Pirat
 62eb886dc16e79f2b98c2b27a8bcc58b	Hatris (Japan).nes
 0943e486b57d46ae00e7bb7ab67b1988	Hatris (USA).nes
 8e4b66ca5840605ef61e65717f6a4a69	Haunted - Halloween '85 (World) (Aftermarket) (Unl).nes
-1ca7302d0625d19dd4ada8d8e52d1e6b	Haunted - Halloween '86 (World) (Aftermarket) (Unl) (Alt).nes
-a3799d291b6649a330f6894bd0489664	Haunted - Halloween '86 (World) (Aftermarket) (Unl).nes
+1ca7302d0625d19dd4ada8d8e52d1e6b	Haunted - Halloween '86 (World) (Aftermarket) (Unl).nes
 28f5e4a65272e090483ef3191918ab82	Haunted - Halloween '86 (World) (Beta) (Aftermarket) (Unl).nes
-b103d7d2ef3c809064e964a85aa3a636	Haunted - Halloween '86 (World) (Remastered Onslaught Edition) (Aftermarket) (Unl).nes
-97c13a330f79148e46ffe754815710a9	Haunted - Halloween '86 (World) (Remastered Onslaught Edition) (Switch) (Aftermarket) (Unl).nes
+a3799d291b6649a330f6894bd0489664	Haunted - Halloween '86 (World) (Remastered Onslaught Edition) (Aftermarket) (Unl).nes
+b103d7d2ef3c809064e964a85aa3a636	Haunted - Halloween '86 (World) (v1.1) (Remastered Onslaught Edition) (Aftermarket) (Unl).nes
+97c13a330f79148e46ffe754815710a9	Haunted - Halloween '86 (World) (v1.1) (Remastered Onslaught Edition) (Switch) (Aftermarket) (Unl).nes
+9f613532650802a624c110286c31356d	Haunted House (USA) (Aftermarket) (Unl).nes
 d83f5b04324e97d730f08d605e22a9b0	Hayauchi Super Igo (Japan) (Rev 1).nes
 cc7f32123e02812a876918707c0a0ced	Hayauchi Super Igo (Japan).nes
+3506a97df864ae8ce82fc16ce54833fe	HBC Phutball (World) (Aftermarket) (Homebrew).nes
 2f310da1fbeee828a93f0cd0cce01fec	Heavy Barrel (Japan).nes
 0ae012c45606e0dcd6af51ec4dad20b5	Heavy Barrel (USA).nes
 e96c97915bf0326b15489bcf5e795f28	Heavy Shreddin' (USA) (Beta).nes
@@ -1696,6 +1810,7 @@ e96c97915bf0326b15489bcf5e795f28	Heavy Shreddin' (USA) (Beta).nes
 a65e9c06d97fc082fd6f0db5f7939be9	Hebereke (Japan).nes
 bfacb0221be4b735f1ae3ddb110d0bcc	Hector '87 (Japan).nes
 b1b94bbfddea3e2a40834919183c302d	Heisei Tensai Bakabon (Japan).nes
+2cb07251844f8d450b447f17d238d586	Heist (World) (Aftermarket) (Homebrew).nes
 16cac7b68063a31d1dc7d9c9ed48414f	Hell Fighter (Asia) (Ja) (PAL) (Unl).nes
 7c9f058a09a4dbd3172c9bb3fa2e0430	Hello Kitty no Ohanabatake (Japan).nes
 783924a53e172029792ceaeabef6093a	Hello Kitty World (Japan).nes
@@ -1738,7 +1853,8 @@ dee8757582e0575c5f729aae60b1dcbb	Hogan's Alley (World).nes
 4b1d0b67638c81551c111759914a8973	Hokuto no Ken 2 (Japan).nes
 e402788cc7aa56a74c7534d594b8ce51	Hokuto no Ken 3 - Shin Seiki Souzou Seiken Retsuden (Japan).nes
 5ac27d26e71882d1b6b083a2b4a8085d	Hokuto no Ken 4 - Shichisei Haken Den - Hokuto Shinken no Kanata e (Japan).nes
-4ce35a84255d2fd81d8cb6ac562e3ea7	Hole New World Soundtrack, A (USA) (Aftermarket) (Unl).nes
+3e794b7bc5c9b77b742a3ba734b7b0a1	Hole New World Soundtrack, A (USA) (Aftermarket) (Unl).nes
+efb6e09193fdd2d6326474d134e929aa	Hollow Knight - Grab Grub (World) (Homebrew).nes
 3f440c7068ea0d78139de1e596a5f3cc	Hollywood Squares (USA).nes
 6d71d45c282a7b923497fe59813035ec	Holy Diver (Japan).nes
 4967b732f01971742542e7ba1f7026e3	Holy Diver (USA, Europe) (Collector's Edition) (Aftermarket) (Unl).nes
@@ -1748,6 +1864,7 @@ b1759492f6c18682f43d465e831f1419	Home Alone (USA).nes
 69341dbb2715a3fa3de9a6209b536378	Home Alone 2 - Lost in New York (USA).nes
 55e6afe25c0d006498a18ecd688c6c98	Homebrew World Championships 2012 (USA) (Aftermarket) (Homebrew).nes
 ce83bdd242409da3f487189283cd1e07	Honey Peach (Asia) (Ja) (Unl).nes
+3c94b8b7ecada28e5b26b3139123ab72	Honoo no Rangerman (World) (Ja) (Aftermarket) (Unl).nes
 0a36dff0e8a30844c6038e81396a7e19	Honoo no Toukyuuji - Dodge Danpei (Japan).nes
 c5b41629fbf0ae4438ed9483242b252d	Honoo no Toukyuuji - Dodge Danpei 2 (Japan).nes
 4e23d764ce4f38d1f9a9e85a3ed86b29	Honshougi - Naitou 9 Dan Shougi Hiden (Japan).nes
@@ -1760,6 +1877,7 @@ cdaefdc6f0dcc7fc4a0db0f6cb5d92ff	Hoppin' Mad (USA) (Proto).nes
 4d22184ed99efec06bbec5cd7805cc56	Hoshi no Kirby - Yume no Izumi no Monogatari (Japan).nes
 f16e4b4516d190296095ab4f30e44c0d	Hoshi o Miru Hito (Japan).nes
 33222c3328a9d4702f0fd1a3293a3ba6	Hostages - The Embassy Mission (Japan).nes
+ed4f3ba6ef56dc1fdb27c2ea12f2db8b	Hot Dance 2020 (World) (Aftermarket) (Homebrew).nes
 d1a11c693007251b1e164d89a97a9257	Hot Seat Harry (World) (Aftermarket) (Homebrew).nes
 0efb45f773a13796c39aacfe753cfac9	Hot Slots (Asia) (Ja) (Unl).nes
 456f5378243b9da1cc38b102e46fbfc8	Hototogisu (Japan).nes
@@ -1770,6 +1888,7 @@ be218dbeec8b912e3907d03295b0b0e6	Hudson Hawk (Europe).nes
 a1d820dff01afd96d0f773b785007ac4	Hudson Hawk (Japan).nes
 34db58de82a102c28619f650014d7aec	Hudson Hawk (USA).nes
 43f79df3bb48830a7073cf570b67daf1	Huge Insect (Asia) (Ja) (Unl).nes
+197512e3568646a10ab2c0fe71a8d86e	Humbled (World) (v0.399) (Byte-Off III) (Aftermarket) (Homebrew).nes
 d9f3543a6c026edd76ce5e50d4dbc52a	Hunt for Red October, The (Europe).nes
 92a038cf1fca32b2dc286564d95352f6	Hunt for Red October, The (USA) (Rev 1).nes
 f78dcbafe5bfdee71261b21eb3f8440d	Hunt for Red October, The (USA).nes
@@ -1850,6 +1969,7 @@ bd41d222c606d22540c9c1f08495324a	International Cricket (Europe, Asia) (En) (Afte
 dae763df85b5f2746b0ce26fa2cebbcf	Iron Tank - The Invasion of Normandy (USA).nes
 d68d7250f9f927c3ae5c9eb9e538ebda	IronSword - Wizards & Warriors II (Europe).nes
 cd28188ca6b0a4d1e7c34fa47285bec9	IronSword - Wizards & Warriors II (USA).nes
+2ebf1481d28a5faa0f9f47aee07ed69a	Irritating Ship (World) (Aftermarket) (Homebrew).nes
 b4c4e5ab10620fc0f61e6cbeac36ee9e	Isaki Shuugorou no Keiba Hisshou Gaku (Japan).nes
 ada1dcf71adcd1f79045f8790a5de929	Ishin no Arashi (Japan).nes
 f7ab4e88a408250b1c0f6b334654e4bb	Isle Quest (World) (v0.1) (Alpha) (Aftermarket) (Homebrew).nes
@@ -1879,6 +1999,7 @@ e6b649085123443ad6ca16d27c792c9b	Jackal (World) (Konami Collector's Series) (Unl
 7829fa414b587d9eef1bb01c1a0d12ec	James Bond Jr (USA).nes
 5274807ee80acc0329d5eb0aa718470b	Jammin Honey (World) (Aftermarket) (Homebrew).nes
 5a9294a558563063e60a421b8140acc6	Jammin Honey (World) (NESDev 2017) (Aftermarket) (Homebrew).nes
+45eb947e23f6b1f07ac092d807731940	Jane Austen's 8-bit Adventure (World) (Demo) (Aftermarket) (Homebrew).nes
 5a23f3ff580253cb085b2a83384fcdb1	Janggun-ui Adeul (Korea) (En) (Unl).nes
 299404cf26d24c3d7d16ebc771ddb9d6	Jangou (Japan).nes
 6b123c87cc0769d95e22f7207ebfe096	Jarinko Chie - Bakudan Musume no Shiawase Sagashi (Japan).nes
@@ -1931,6 +2052,7 @@ cc11baa85b993f032210d8d5fed234c5	Jumpin' Kid - Jack to Mame no Ki Monogatari (Ja
 e06129a966aa07fcdf9b6b03b50b9698	Jungle Book, The (Europe).nes
 36108cbd6c4bc09aa39f6eb9dc72150a	Jungle Book, The (USA).nes
 b15dbe5fe43fe5f5567f3f8a648f44ee	Jungle Book, The (World) (Disney Classic Games).nes
+81691bad687560ef01b607129715df01	Jupiter Scope 2 - Operation Europa (World) (Aftermarket) (Homebrew).nes
 05b390a30fd49df561e3973b9843523a	Jurassic Boy (Asia) (Ja) (Unl).nes
 0bda46ab6243a07fb256bc866354e5bd	Jurassic Park (Europe) (En,Fr,De,Es).nes
 b7ad9b9236eb92c85ca01aed6f883684	Jurassic Park (USA).nes
@@ -1969,6 +2091,7 @@ a3f3c7f56b1c955c66fb71f95de830a1	Karaoke Studio Senyou Cassette - Top Hit 20 Vol
 1a9b1113969723920b9bcd43c9327894	Karaoke Studio Senyou Cassette - Top Hit 20 Vol. 2 (Japan).nes
 d89c774e0688b1baead6530e20638ea5	Karate Champ (USA) (Rev 1).nes
 a3797bdcd85ee2914ead0f116c86d528	Karate Champ (USA).nes
+deab971f7a545578d01d184d14abf301	Karate Kick (World) (Aftermarket) (Homebrew).nes
 eb15f4501bfca4b391ca0d4f0b36d670	Karate Kid, The (USA).nes
 89ce9721f44f62caf6e88cf872f083b3	Karateka (Japan) (Beta).nes
 5adc2eaf216646ccba59e0a5c317a7db	Karateka (Japan).nes
@@ -1976,6 +2099,10 @@ eb15f4501bfca4b391ca0d4f0b36d670	Karate Kid, The (USA).nes
 4d6d9e5f07895560bf8dcd46a9c29350	Karnov (Japan).nes
 f8827c14d1d0c489a8168a65aa9a19c5	Karnov (USA).nes
 7bd7396e3b3e927f59b8b1d6b70a1e4d	Kart Fighter (Asia) (En) (Pirate).nes
+14391e05be2cffca7f81a6c5c3ceff73	Kart Racer '86 (World) (2022-10-26) (Proto) (879cbea) (Aftermarket) (Homebrew).nes
+4112df98d652c44ba1b0eaee51040403	Kart Racer '86 (World) (2022-10-28) (Proto) (8d96be2) (Aftermarket) (Homebrew).nes
+fa0b0c0f7ba7098f83ab44b81306fade	Kart Racer '86 (World) (2022-10-31) (Proto) (aa9d5fd) (Aftermarket) (Homebrew).nes
+6f92160caa4d870a1bebac469e313208	Kart Racer '86 (World) (2022-10-31) (Proto) (cfcb276) (Aftermarket) (Homebrew).nes
 2e343422ad820a4ad381fcb27e1ad3dc	Kawa no Nushi Tsuri (Japan).nes
 3bbb4390020604b0386c7d3db633eb87	Kazama Jun to Asama Yuuko no AV Dragon Mahjong (Japan) (Unl).nes
 f882b1e123be4dc211932871ea17420a	Keiba Simulation - Honmei (Japan).nes
@@ -1994,6 +2121,7 @@ b8e4085be473decf227257ba3f6b55f5	Kick Off (Europe).nes
 b764dcf61b2b9b3bedb4a3e1bf0ebfe7	Kickle Cubicle (USA).nes
 9e727f762feebe4949c91d29fc5e19fa	KickMaster (USA).nes
 5631eae8bc0845bb3b6876ad95832b4f	Kid Dracula (World) (Castlevania Anniversary Collection).nes
+dce27edb434d238613f928daa5c50632	Kid Dracula (World) (Castlevania Anniversary Collection).sav
 751579010c5f87baaaf240c41cae5ff7	Kid Funky (World) (v1.1) (Aftermarket) (Homebrew).nes
 c79be75a09ffa95cbf4020ed3900d44d	Kid Icarus (USA, Europe) (Rev 1) (Virtual Console).nes
 8a27c5ab8108efcf3ee21f99daeadd52	Kid Icarus (USA, Europe) (Rev 1).nes
@@ -2008,6 +2136,8 @@ ca0cc2cafaeeaa394a1a6d8093da7235	Kid Kool and the Quest for the Seven Wonder Her
 d9080eb8c48b15fac78400e36997c9d4	King Kong 2 - Ikari no Megaton Punch (Japan).nes
 afc41e2419125768f1bf7ceadf5a3db5	King Neptune's Adventure (USA) (Beta) (Unl).nes
 c0dfe24dedeb3c704a51d3688a2e161d	King Neptune's Adventure (USA) (Unl).nes
+5638b3a85fd749178ff31724c2302677	King of Fighters '96, The (China) (En) (Aftermarket) (Pirate).nes
+47051e05d5b87519b649fccbde0910c1	King of Fighters 97 (Asia) (En) (Pirate).nes
 4180b0ab9070e6140b851528648797f1	King of Kings (Japan) (Namcot Collection).nes
 b86da9fffe656105e34ce8df4cd5e9d9	King of Kings (Japan).nes
 9ae759c2b8b048bda8cc1ee6a6354a15	King of Kings, The - The Early Years (USA) (v1.1) (Unl).nes
@@ -2020,14 +2150,17 @@ cfe46067700a192553331aa593801641	King's Knight (USA) (Virtual Console).nes
 2a9e90b76233cfd148fed0e8eb2ebcdc	King's Knight (USA).nes
 7b1016f649a7f21e6c27f3f69904218d	King's Quest V (USA).nes
 220e585e99c85547ad60e7c3a5eabff0	Kingdom Crisis (World) (Proto) (Aftermarket) (Homebrew).nes
+f1388ee933dc003a395ebfd6685d7be2	Kingdom Crisis (World) (v1.01) (Demo) (Aftermarket) (Homebrew).nes
+bcb85614f9d4c230de6769cd0e8225cb	Kingdom Crisis (World) (v1.02) (Demo) (Aftermarket) (Homebrew).nes
 477380c53ca9ec486eb0dc5dff0f2b1f	Kings of the Beach - Professional Beach Volleyball (USA).nes
 788df0aa89798f6da393352bc77639b5	Kinnikuman - Muscle Tag Match (Japan) (Rev 1).nes
 5bd5aeac6a4f3023afd9516d4c8ed050	Kinnikuman - Muscle Tag Match (Japan).nes
 71e4848ee1e52a222812c3a8bddd5c29	Kira Kira Star Night - Furusato Nouzei Fujimino-ban (Japan) (Disc) (Aftermarket) (Homebrew).nes
 b60618e8d82baefdebfea4fedacd46b9	Kira Kira Star Night (Japan) (En) (Aftermarket) (Unl).nes
 344acd7012ed2c928a5f71c1d4f4c0a7	Kira Kira Star Night AC (Japan) (En) (Aftermarket) (Unl).nes
+a8229160520f8e7e7d0401f062bda92c	Kira Kira Star Night DX - Tournament Edition (Japan) (En) (Aftermarket) (Unl).nes
 b065e24c79813b4a63c27df0ea3c0bcd	Kira Kira Star Night DX (Japan) (En) (Aftermarket) (Unl).nes
-a8229160520f8e7e7d0401f062bda92c	Kira Kira Star Night DX (Japan) (En) (Tournament Edition) (Aftermarket) (Unl).nes
+c67dc3b380109a6b0dfe986a9ee50b5b	Kira Kira Star Night DX (USA) (Aftermarket) (Unl).nes
 f397d53818b0697e6a80ee5cc30d2a23	Kirby's Adventure (Canada) (Fr).nes
 09e21386297efe7e4bfd717b9c6a697d	Kirby's Adventure (Europe).nes
 fdf4bbe03b31ae0f5faf376ee0153079	Kirby's Adventure (France).nes
@@ -2099,7 +2232,9 @@ c4316f6f1a8aac27db63b43eb75ae667	L'Abbaye des Morts (World) (En,Ja,Fr,Es,Pt) (Be
 70c37d76b23ce7404bb40f0e685bb353	Labyrinth (Japan).nes
 5184d4316f858a52b091869f46fe1a95	Lagrange Point (Japan).nes
 1e3f9155e5fb43344448e8a67b75ca26	Lala The Magical (World) (Aftermarket) (Homebrew).nes
+9d5077ebf295550a9365e4c8edeacbaf	LaLa the Magical (World) (NESDev 2016) (Aftermarket) (Homebrew).nes
 ba424a0e12f0790acb366cb000763b2f	LAN Master (World) (Aftermarket) (Homebrew).nes
+5513ca82e7e02d0d0deb07d9f49a4bba	LAN Master (World) (NESDev 2011) (Aftermarket) (Homebrew).nes
 ef66bb59b8d356b72ccd074075e7f3dd	Larry and the Long Look for a Luscious Lover (USA) (Aftermarket) (Unl).nes
 8cf1c1e0265a064f857497507705fba0	Larry and the Long Look for a Luscious Lover (USA) (Engagement Edition) (Aftermarket) (Unl).nes
 0883de74fb06723a64d3d28999599532	Lasalle Ishii no Child's Quest (Japan).nes
@@ -2135,8 +2270,9 @@ e64e20f904ac990c584f1b83cb8d531f	Legendary Wings (USA).nes
 6c4bd31e7652af846e62b122de7f4ab4	Legends of Owlia, The (World) (Aftermarket) (Unl).nes
 eb4a2375654a515b6c72311bc2b0499b	Legends of Owlia, The (World) (Demo) (Aftermarket) (Unl).nes
 b9f763ddce5f5a3e78c2e6f36086ef93	Legends of the Diamond - The Baseball Championship Game (USA).nes
+adb81fc8e90dcfee0558be651d28ce0a	Leggite Luta Livre (World) (2022-07-02) (Remastered) (Aftermarket) (Homebrew).nes
+2d73672a64c28fdbca9055311a568d20	Leggite Luta Livre (World) (2022-10-04) (Remastered) (Aftermarket) (Homebrew).nes
 578af52070dff81bc8caccace4b3520d	Leggite Luta Livre (World) (Aftermarket) (Homebrew).nes
-adb81fc8e90dcfee0558be651d28ce0a	Leggite Luta Livre (World) (Remastered) (Aftermarket) (Homebrew).nes
 724abe9558c3914748401c97f9bc92e6	Lei Dian II - Thunderbolt Fighting Plane (Asia) (En) (Unl).nes
 e6b128e9cfac2560652b993d45114163	Lemmings (Europe).nes
 10efb60b347ba59d0003fa35f076dd49	Lemmings (USA).nes
@@ -2153,6 +2289,7 @@ e9d6c8512f956768223add68692a3cb4	Lightgun Game 2 in 1 - Cosmocop + Cyber Monster
 3ec0cf64e67765d2e1b909ffd7f68b8b	Lightgun Game 2 in 1 - Tough Cop + Super Tough Cop (Asia) (Ja) (Unl).nes
 a0602513b2b48524a3db44b54024e84b	LIKO Study Cartridge 3-in-1 (Russia) (Subor Keyboard) (Aftermarket) (Unl).nes
 c4934ade63b3a8cde11a7e1bd1cbdec9	Lin Ze Xu Jin Yan (Asia) (Unl).nes
+92aa8e42e289165c567214bc58ae6497	Lines (Russia) (Unl).nes
 2fadc729157eb5e282abc59d1ced75ce	Linus Spacehead's Cosmic Crusade (USA) (En,Fr,De,Es) (Unl).nes
 2df2b6631e3f8d6a6552c288d6155ba8	Lion King III - Timon & Pumbaa, The (Asia) (En) (Aftermarket) (Pirate).nes
 ed44d9bd086c277149e713889fd537dc	Lion King, The (Europe).nes
@@ -2172,9 +2309,16 @@ a25f3cae44cabbbb4b4e36f07ff53645	Little Ninja Brothers (USA).nes
 05a7d49a3135274c152d5e16ff9abca4	Little Red Hood (Australia) (Unl).nes
 fc6b21f908a817a51740e4d07045f80f	Little Samson (Europe).nes
 89dc61628d31e48497cf2eb72bde44d8	Little Samson (USA).nes
-d47e2c42aeb6a9ac5e37a22c371b4915	Lizard (World) (Aftermarket) (Homebrew).nes
-aad0355cd4974cce8e1c2409396e7862	Lizard (World) (Demo) (Aftermarket) (Homebrew).nes
-36ef65bb582b929d095aa8fb4aa7a155	Lizard (World) (Proto) (Aftermarket) (Homebrew).nes
+0099d4dd894099d8fcff9131fd956838	Lizard (World) (2011) (Beta) (Aftermarket) (Unl).nes
+36ef65bb582b929d095aa8fb4aa7a155	Lizard (World) (2014-10-28) (Beta) (Aftermarket) (Unl).nes
+d47e2c42aeb6a9ac5e37a22c371b4915	Lizard (World) (Aftermarket) (Unl).nes
+5febf68bec6f6718d29f48c5e892cea5	Lizard (World) (De) (Aftermarket) (Unl).nes
+aad0355cd4974cce8e1c2409396e7862	Lizard (World) (Demo) (Aftermarket) (Unl).nes
+8539868065701e7c16d4f8b928c9302e	Lizard (World) (Es) (Aftermarket) (Unl).nes
+608c3fc9a62866420b19079aeaca345a	Lizard (World) (Fr) (4408128997369973563) (Aftermarket) (Unl).nes
+31211f09ee49676db7408f8163e31f57	Lizard (World) (Fr) (8592411765731207749) (Aftermarket) (Unl).nes
+84dd713c950510824f49bcd8a70c9b47	Lizard (World) (Ja) (Aftermarket) (Unl).nes
+feb26a5530bbfdc4f6b837075eb64520	Lizard (World) (Pt-BR) (Aftermarket) (Unl).nes
 12fcb6b67491ce3e140b98faa94edbde	Locksmith (Asia) (Ja) (PAL) (Unl).nes
 467f0d400ac98ab7b1200468adf76680	Lode Runner (Japan) (Virtual Console).nes
 f5b9a95dd243adf1477b1ea96d3a33d0	Lode Runner (Japan).nes
@@ -2187,6 +2331,7 @@ bb88f06b99b0598e5d4e9738511d981a	Lone Ranger, The (USA).nes
 b351f17c3df091d8bccd7efa0e7f455c	Lord of King, The (Japan).nes
 a436b6b0fd1819c7d643fcb2abdf49ea	Lost Word of Jenny - Ushinawareta Message (Japan).nes
 48083c5175d317227f7d0512ff35ad5b	Lot Lot (Japan).nes
+b92b0aa85a8b6ca74971091cac6830bd	Love Story (World) (Aftermarket) (Homebrew).nes
 e105a6f8cf47e5bed1d254adf2a326ca	Low G Man - The Low Gravity Man (Europe).nes
 34d59639a79fa576e2e7d86593261fe4	Low G Man - The Low Gravity Man (USA).nes
 fa0d1c375203b72bec7a7471366086c3	Lucky Bingo 777 (Asia) (Ja) (PAL) (Unl).nes
@@ -2330,7 +2475,8 @@ a27ba883a80f97bbfd216bdd59183dc6	Masuzoe Youichi - Asa Made Famicom (Japan).nes
 2fc412d290ad7c3f3ad65d7686d43dde	Matendouji (Japan).nes
 29ca6d426c0913f9033a936795de0ae6	Matsumoto Tooru no Kabushiki Hisshou Gaku - Part II (Japan).nes
 9a74ed7bbd997f523527345e0321b1bf	Matsumoto Tooru no Kabushiki Hisshou Gaku (Japan).nes
-0e0fb98fb3e15e11bece0edbfdafec1a	Mauri Mursu's Hangover (World) (Aftermarket) (Homebrew).nes
+0e0fb98fb3e15e11bece0edbfdafec1a	Mauri Mursu's Hangover (World) (2022-09-16) (Aftermarket) (Homebrew).nes
+4c59806dba898ebc87f4a0bb82b46524	Mauri Mursu's Hangover (World) (2022-09-28) (Aftermarket) (Homebrew).nes
 f8b1a91f2249aa65373175bdd8d40528	Mawthorne (World) (Aftermarket) (Homebrew).nes
 5a4771052e3edf99521cd9985eb00d28	Mawthorne (World) (Ja) (Aftermarket) (Homebrew).nes
 bb8ba24852186eca56db14b0763cf3e2	Max Warrior - Wakusei Kaigenrei (Japan).nes
@@ -2383,14 +2529,15 @@ abe5c136ccb1869fee73b86e49c29c66	Meikyuu-jima (Japan).nes
 4f15613a14de92442c098e06facada40	Meimon! Takonishi Ouendan - Kouha 6 Nin Shuu (Japan).nes
 b791f574b669ecf0f0bdc452f9f5b14f	Meitantei Holmes - Kiri no London Satsujin Jiken (Japan).nes
 c63323f48713697b04282dd9fc4d4ddc	Meitantei Holmes - M kara no Chousenjou (Japan).nes
+a2e4c88b25e244cd62a5cd0ba36ac408	Melo Jellos 2 (World) (Aftermarket) (Homebrew).nes
 75d89a951ee0ad90c7238992ae4b1850	Menace Beach (USA) (Unl).nes
 db16b70ef927f24567e9762286d00bf6	Mendel Palace (USA, Europe) (Namco Museum Archives Vol 2).nes
 b7b3bb47d15de9d4a26eb431ee399ae2	Mendel Palace (USA).nes
 50101d10b79230a3293e6ddfb2bd73fc	Meng Huan - Xiang Shuai Chuan Qi Zhi Xue Hai Piao Ling (Asia) (Unl).nes
 a6e6895eb87bb5c4e58fd5497e8cc0e6	Meribo (World) (Aftermarket) (Homebrew).nes
 58b161263b44617c92b85ae680782c58	Mermaids of Atlantis - The Riddle of the Magic Bubble (USA) (Unl).nes
-118ee245e49f59e10261bc257ebbd7d1	Metal Arms (Japan) (En) (Family BASIC) (Homebrew).nes
-45a5656338dc2e6ff38d7fab7aef1f5f	Metal Arms (Japan) (Family BASIC) (Ending Credits Program) (Homebrew).nes
+118ee245e49f59e10261bc257ebbd7d1	Metal Arms (Japan) (En) (Family BASIC) (Unl).nes
+45a5656338dc2e6ff38d7fab7aef1f5f	Metal Arms (Japan) (Family BASIC) (Ending Credits Program) (Unl).nes
 3ca3304155228c01bdfd747bcb50e4b5	Metal Fighter (Asia) (Ja) (Sachen) (Unl).nes
 2956b171112843033e608a152de6297b	Metal Fighter (USA) (Unl).nes
 28b14ac52636afe06ce3404e0e436c72	Metal Fighter Mu (Japan) (Unl).nes
@@ -2451,8 +2598,10 @@ eff2d999a9a379f1ab52037188ac3404	Mighty Final Fight (Japan).nes
 be4670792b17c74eecf3a0e7f37ecfe2	Mighty Final Fight (USA).nes
 9ddd40f11ffe90b4bac1c814be363d33	Mighty Morphin' Power Rangers III (Asia) (En) (Pirate).nes
 96059f6783178df559cd23463ab76489	Mighty Morphin' Power Rangers IV - The Movie (Asia) (En) (Pirate).nes
-a71f871cf2114f4ae2a1cd4499ad143a	Mike Ditka's Big Play Football (USA) (Aftermarket) (Unl).nes
+a71f871cf2114f4ae2a1cd4499ad143a	Mike Ditka's Big Play Football (USA) (Aftermarket) (Pirate).nes
 556899aa002133b3de5da801566f04e1	Mike Tyson's Intergalactic Power Punch (USA) (Beta).nes
+a97b45e0d7b4e6ffdd4c9b1a22a97736	Mike Tyson's Intergalactic Power Punch (USA) (NintendoAge Release) (Aftermarket) (Pirate).nes
+cee9349605b2f07fb5e5efd9b44cef7c	Mike Tyson's Punch-Out!! (Asia) (En) (Pirate).nes
 674d1f31be809615d4f352cb8c5f606b	Mike Tyson's Punch-Out!! (Europe) (Rev 1).nes
 bce8e3f4878beaf1315330696c1df808	Mike Tyson's Punch-Out!! (Europe).nes
 5bc7fac06e58fda15fd981fd03572c34	Mike Tyson's Punch-Out!! (Japan, USA) (En) (Rev 1).nes
@@ -2461,6 +2610,7 @@ ae66e5d870f74c1ded4dd00873ad0b7b	MilioNESy (World) (Aftermarket) (Homebrew).nes
 d289b296eaf9e56d5108eed59077108c	Millionaire (Asia) (Ja) (PAL) (Unl).nes
 23a61e1898062d82979c7a9a633e69bf	Millipede - Kyodai Konchuu no Gyakushuu (Japan).nes
 fe456620cc5821719746c6d52b3cced1	Millipede (Japan) (En) (Proto).nes
+d39eac07ff027de18ce171134d87527b	Millipede (USA) (Aftermarket) (Unl).nes
 f511c234f8b945ae885dada03228bcd6	Millipede (USA).nes
 17027e79ddabc9d90a02b52003c74731	Milon's Secret Castle (USA) (Virtual Console).nes
 c2cab313cc367d53c83149ba0df77cb1	Milon's Secret Castle (USA).nes
@@ -2468,14 +2618,18 @@ c2cab313cc367d53c83149ba0df77cb1	Milon's Secret Castle (USA).nes
 f2ef7e357127bfb0a40666740b7d22fe	Mindseeker (Japan).nes
 a440c6bb46482edd9f3e15a3e0ddb55e	Mine Mayhem (World) (Aftermarket) (Homebrew).nes
 9ec2762c9206b5c417b91c5e2ca5bc16	Mine Shaft (World) (Aftermarket) (Homebrew).nes
+b8e9961dab7897477e2bd6d408f0f4ac	Minekart Madness (World) (Aftermarket) (Homebrew).nes
 2e90d5a18dc3cf2229cdd061acb62c5f	Minelvaton Saga - Ragon no Fukkatsu (Japan).nes
+3a98146e72bb80552402a59f1d2c370c	Mini Brix Battle (World) (Aftermarket) (Homebrew).nes
 55b6f69acf334f0b98d3bd1b0357787c	Mini Games Anniversary Edition 620 in 1 (Asia) (En) (Aftermarket) (Pirate).nes
 3d113fce6ea729152d6cede14715d4ca	mini GETCHi (World) (Ja) (Aftermarket) (Homebrew).nes
 32ac2be032a7e7b342687f8ed9d49046	Mini-Putt (Japan).nes
 00b049a36318f81e4d449103648324c1	Minna no Taabou no Nakayoshi Daisakusen (Japan) (Rev 1).nes
 81115b54fca5e7574f0d395e6a19b654	Minna no Taabou no Nakayoshi Daisakusen (Japan).nes
+b689e9039927cdea585a69858d802a76	Minnade Mamotte Knight - Amazon's Running Diet (World) (Ja) (Aftermarket) (Unl).nes
 09bc5632ec55b176e79a830a9b79aad9	Miracle Piano Teaching System, The (France).nes
 a09120858773df99adc23fbc4f1a9aa4	Miracle Piano Teaching System, The (Germany).nes
+93ff47a074978fcf21f2be02cbebfdee	Miracle Piano Teaching System, The (United Kingdom).nes
 fa144048d6c9ce84024a54f7ae5d6360	Miracle Piano Teaching System, The (USA).nes
 5f0bffe627b11d1c3675b1104368fc0c	Miracle Ropit's - 2100 Nen no Daibouken (Japan).nes
 c9329c7401ce9b8a82000965f04a71bb	Mirai Shinwa Jarvas (Japan).nes
@@ -2485,7 +2639,7 @@ f2ce58ce718ba5d2676251e0eb152dca	Mission - Impossible (Europe).nes
 41f165cc87869e5467709b824b205fcb	Mission - Impossible (France).nes
 6b429a01f16f4a4c42ede60c8b1cbc7a	Mission - Impossible (USA).nes
 397424778c34871bb8ee24f9dcebe865	Mission Cobra (USA) (Unl).nes
-caeaaa15f0f1806499903df85eeff84b	Mississippi Satsujin Jiken (Japan) (Rev A).nes
+caeaaa15f0f1806499903df85eeff84b	Mississippi Satsujin Jiken (Japan) (Rev 1).nes
 f6e0211f2aba2b8f554cb9cb5e526914	Mississippi Satsujin Jiken (Japan).nes
 6533d646dc0bdca0c14563c2427ffb62	Mito Koumon - Sekai Manyuu Ki (Japan).nes
 e46b3344a28667be0c8028edff9631ce	Mitsume ga Tooru (Japan).nes
@@ -2540,7 +2694,7 @@ ffec8e159be007853e63acc41f1e17b4	Moon Crystal (Japan).nes
 afd9967d0e286e767d468b3837669e29	Moonfall - A Legend of Zelda Compilation (USA) (Aftermarket) (Homebrew).nes
 1fd169d614cd6f7c4a90509b093af593	More Glider (USA) (Aftermarket) (Homebrew).nes
 9e8fab33faf7e2415f26353bcc3fcc8f	Morita Shougi (Japan).nes
-a168cb94ec1d31ae323783d82db190d8	Morskoy Boy (Europe, Asia) (Ru) (Unl).nes
+a168cb94ec1d31ae323783d82db190d8	Morskoy Boy (Russia) (Unl).nes
 7b799d1c6eaa3ad4cefc98b047587793	Mortal Kombat 3 - Extra 60 (Taiwan) (En) (Aftermarket) (Pirate).nes
 3d4cce3185680dd9aaf61da776318af6	Mortal Kombat II (Asia) (En) (Rev A) (Aftermarket) (Pirate).nes
 1d607098e257e75eb2987326a119f4a3	Mortal Kombat II (Asia) (En) (Rev B) (Aftermarket) (Pirate).nes
@@ -2553,11 +2707,14 @@ f42c663ca8cf26107ee0b62ab6d0278d	Motocross Champion (Japan).nes
 bf8547a4b1eea2a7a7e6f3d94140e163	Mottomo Abunai Deka (Japan).nes
 0a57204b4715b32d5053681e95e7564c	Moulin Rouge Senki - Melville no Honoo (Japan).nes
 2d9bc331e80cb23977b811b2760104b9	Mouryou Senki Madara (Japan).nes
+44ff7e3faf0352a21e680d235d0562b2	Mr Mary (Asia) (En) (Pirate).nes
 9e6a162986db263cc0281a904818ee10	Mr. Assy - Momoco & Hanako (Asia) (Ja) (Proto) (Pirate).nes
 592cc41069fc872a625d2703d342a224	Mr. Gimmick (Scandinavia) (En).nes
 94d0cd2e9c652797ec2dd7ee1ffc1436	Mr. Gimmick (USA) (Proto).nes
-a4ee34d791f2baf496d3d3297cd4ef58	Mr. Maymunshine's Christmas Land (World) (Aftermarket) (Homebrew) (Alt).nes
 6ba84716d6479fa4c380a2d67ed59799	Mr. Maymunshine's Christmas Land (World) (Aftermarket) (Homebrew).nes
+a4ee34d791f2baf496d3d3297cd4ef58	Mr. Maymunshine's Christmas Land (World) (Rev 1) (Aftermarket) (Homebrew).nes
+32caa16e0c9194819e56c22365554853	Mr. Maymunshine's Christmas Land (World) (Rev 2) (Aftermarket) (Homebrew).nes
+6b881b9d3fa48428aa5d4e93aca457b7	Mr. Maymunshine's Christmas Land (World) (Rev 3) (Aftermarket) (Homebrew).nes
 abc02c3f2f014f79f02a79caf171e47f	Mr. Splash (France) (Omake Books Version) (Aftermarket) (Homebrew).nes
 2324eeff5e5fda4d26a09a75264ab49e	Mr. Splash (Japan) (En) (Columbia Version) (Aftermarket) (Homebrew).nes
 5df6a931c8de10e50f390dc425cc3e34	Mr. Splash (Japan) (En) (Mondo21 Version) (Aftermarket) (Homebrew).nes
@@ -2574,6 +2731,7 @@ f93efea1c237900373dd26b9bccb1595	Multidude (World) (Aftermarket) (Unl).nes
 23ab1c7cf9e7c09d8a2f09aec396011a	Mutant Virus, The - Crisis in a Computer World (USA).nes
 e2af4853d4cbd507f64109f45959cacf	My Friendly A.I. Assistant Robot (World) (Demo) (Aftermarket) (Homebrew).nes
 b5675ba8880a19f58d8ba9d44101e7e5	My Friendly A.I. Assistant Robot (World) (Rev A) (Demo) (Aftermarket) (Homebrew).nes
+b452aef08624ffbe983ad9118b0115f0	My Friendly A.I. Assistant Robot (World) (Rev B) (Demo) (Aftermarket) (Homebrew).nes
 1434cda9cd1097736c5883f4fbe15c30	My Life My Love - Boku no Yume - Watashi no Negai (Japan).nes
 074937a74687dbb52f0c586cbc34d9bf	Mystery Quest (USA).nes
 4a1b50751814ef77c76d6b961bf9c2c4	Mystery World Dizzy (World) (En,Pt,Pl) (Aftermarket) (Homebrew).nes
@@ -2589,7 +2747,8 @@ a29f43dfc8897a766fc34225f0072f73	Nagagutsu o Haita Neko - Sekai Isshuu 80 Nichi 
 89305006bc5e76876884e95d6ed7d797	Nakajima Satoru - F-1 Hero (Japan).nes
 c1af6bb2382aa8c581d9f31d533c619d	Nakajima Satoru Kanshuu - F-1 Hero 2 (Japan).nes
 6435d290673bf8dfbdf7fa2827a92cbc	Nakayoshi to Issho (Japan).nes
-584597f874cf9beed9e4b72c48a512f8	Nalleland (World) (v0.4.0) (Aftermarket) (Homebrew).nes
+4902ed2d4fea7a45c46e53608624bcc6	Nalle Land (World) (v0.3.4) (Aftermarket) (Homebrew).nes
+584597f874cf9beed9e4b72c48a512f8	Nalle Land (World) (v0.4.0) (Aftermarket) (Homebrew).nes
 00a4cd4d55ba9340c20746bb2b616240	Namco Classic (Japan).nes
 cbf7c562e02d6a2fbe056d97836bb6f4	Namco Classic II (Japan) (Namcot Collection).nes
 7fe97fc2f596222eba5879264f8e60ba	Namco Classic II (Japan).nes
@@ -2604,10 +2763,11 @@ c5c8511d78baadf2b927b7fe63e79546	Nantettatte!! Baseball + Nantettatte!! Baseball
 d46263402a860c5e05975e80ce3381a4	NARC (USA) (Beta).nes
 8fe1db994026ede8c0993b6f4b9af408	NARC (USA).nes
 0922d5e8157624df8c5c8dbf1016b440	Navy Blue (Japan).nes
-a22ded54ecf8bcec90af5ecf733a5f7d	Nebs 'n Debs (World) (Aftermarket) (Homebrew).nes
-4f556d6d3c5ec241f5ccb1541abefa72	Nebs 'n Debs (World) (Demo) (Aftermarket) (Homebrew).nes
-8bf14a0e3fd16ed8930a08f1b8d67935	Nebs 'n Debs (World) (Kaizo) (Aftermarket) (Homebrew).nes
-ba30a1cae15a2246a9a3b94f28741b16	Nebs 'n Debs (World) (Rev 1) (Aftermarket) (Homebrew).nes
+4f556d6d3c5ec241f5ccb1541abefa72	Nebs 'n Debs (World) (2018-08-14) (Demo) (Aftermarket) (Unl).nes
+a22ded54ecf8bcec90af5ecf733a5f7d	Nebs 'n Debs (World) (Aftermarket) (Unl).nes
+00580c21f4e8818d85747c38d2606fcb	Nebs 'n Debs (World) (Demo) (NESDev 2016) (Aftermarket) (Unl).nes
+8bf14a0e3fd16ed8930a08f1b8d67935	Nebs 'n Debs (World) (Kaizo) (Aftermarket) (Unl).nes
+ba30a1cae15a2246a9a3b94f28741b16	Nebs 'n Debs (World) (Rev 1) (Aftermarket) (Unl).nes
 73ac2d914ef33ecc430eb7801e88282b	Nekketsu Kakutou Densetsu (Japan).nes
 461452a648fe51662da7f622fc12557b	Nekketsu Kouha Kunio-kun (Japan) (Virtual Console).nes
 c7bfecb24884ca7d2599b8de7f39ea68	Nekketsu Kouha Kunio-kun (Japan).nes
@@ -2623,6 +2783,7 @@ b6556c3c797e0a416f054bcee5520b90	neMULEsis (World) (Demo) (Aftermarket) (Homebre
 307e1471a4d465dd9e10cc46c67afea4	Neotoxin (World) (2004-02-15) (Beta) (Aftermarket) (Homebrew).nes
 1b8b0c8d7fc31c78e5ed6a520c1a30ff	Neotoxin (World) (2005-01-09) (Beta) (Aftermarket) (Homebrew).nes
 d9fb47438a6873ce1138d8862a069608	Neotoxin (World) (Demo) (Aftermarket) (Homebrew).nes
+07fb4396afb008a491ac5dd42dfd23f0	Nerdle (World) (v1.01) (Aftermarket) (Homebrew).nes
 9aa78203a17b98c8538bf793072f0a05	NES Calculator (World) (Program) (Aftermarket) (Homebrew).nes
 d8ed0ee63c775c4689a9094729a0a0d0	NES Hangman (World) (Aftermarket) (Unl).nes
 fea914a7f962267e493036c1d66d5485	NES Open Tournament Golf (Europe) (Virtual Console).nes
@@ -2638,14 +2799,16 @@ aac1444ce6ecdcb7ad83aca9f5cbd7a3	NES Play Action Football (USA).nes
 eac19c35e89f5ec13cebc485499fe354	NES Virus Cleaner (World) (Non-Published Version) (Aftermarket) (Homebrew).nes
 8090c0696e29b91acd1c2664f4b92e3a	NES Virus Cleaner (World) (Second Dimension) (Aftermarket) (Homebrew).nes
 141f58c07a561001f4b833f59a437d56	NEScape! (USA) (Aftermarket) (Unl).nes
-833807e4b82742c88c73397bf3d2f1bd	NESDev '19 Compo Cart (World) (Aftermarket) (Homebrew).nes
+833807e4b82742c88c73397bf3d2f1bd	NESDev '19 Compo Cart (World) (Aftermarket) (Unl).nes
 ef5a70aef93b18b0651941aa80828802	NESert Golfing (World) (Aftermarket) (Homebrew).nes
+a924e35c01ecf05a36f714eeadabf0a6	NESert Golfing (World) (Rev A) (Aftermarket) (Homebrew).nes
 11337d60401b91624b58d772015db0ca	NESert Golfing (World) (Tournament Edition) (Aftermarket) (Homebrew).nes
 7a29ddb7254541bab4b938e7bd957574	NESertBus (World) (Aftermarket) (Homebrew).nes
 490acc466deaffc688da2fff784bfa53	Nesglovphone (World) (Music Program) (Aftermarket) (Homebrew).nes
 da19d809fdf503625d435da5846e5166	NESnake 2 (World) (v1.2) (NTSC) (Aftermarket) (Homebrew).nes
 3218a5845bc42f63a9d5cd0c7a9ee536	NESnake 2 (World) (v1.2) (PAL) (Aftermarket) (Homebrew).nes
 c177f230ba5f036e2366c9a18e964e66	NESnake 2 (World) (v1.3) (Aftermarket) (Homebrew).nes
+07520c140e6b17992724a3f149609e1c	NESOS (World) (En,Ja) (Program) (Aftermarket) (Homebrew).nes
 5ec9904fe3cca3a91a32579be2b39526	Nessy the NES Robot (World) (v1.30) (Aftermarket) (Homebrew).nes
 e2e4d61892cc274575a09beee06b7ce7	Nessy the NES Robot (World) (v1.30) (Demo) (Aftermarket) (Homebrew).nes
 3ea5f2b61796604c374349395a00aa5c	NESZIP (World) (Example) (Program) (Aftermarket) (Homebrew).nes
@@ -2664,6 +2827,7 @@ c22539bee8ce48ff2aec28c4351e1390	Nigel Mansell's World Championship Racing (USA)
 eef24952a8552ed36efa4b17cadb6c20	Nigel Mansell's World Championship Racing (USA).nes
 5cf0715a0326c60cdccb7826c4711b90	Nightman vs. Justice Incarnate (World) (Proto 2) (Aftermarket) (Unl).nes
 306d7099a3764bd3b570b70dbd6d5adb	Nightman vs. Justice Incarnate (World) (Proto) (Aftermarket) (Unl).nes
+b4b3588aec47be77fa34283ddc1b3d5d	Nightmare on Elm Street, A - Son of a Hundred Maniacs (World) (Aftermarket) (Homebrew).nes
 5f62fab71cf3f8e90ac3af2775c8d630	Nightmare on Elm Street, A (USA).nes
 9903087102a9bf59b0e33932d1098548	Nightshade (USA).nes
 7d27ae0672c4a8a5a30767ed804b2eeb	Nightshade (World) (Aftermarket) (Unl).nes
@@ -2673,6 +2837,7 @@ c2daeadbe7f8213b4c5b931dd2d953ab	Niji no Silk Road (Japan).nes
 16a18ae08ca4c32df14bfb224aa589ea	Nim & Nom (World) (Aftermarket) (Homebrew).nes
 f9df0e39bdf0903db8c22ca69ecb38d2	Nim & Nom (World) (v1.1) (Aftermarket) (Homebrew).nes
 7eedae5fd7fd931bcab75bb8cafe3896	Nim & Nom (World) (v1.2) (Aftermarket) (Homebrew).nes
+8748bd9c7e5a1dec2ed569df27677947	Nin Nin (World) (Aftermarket) (Homebrew).nes
 5b2efdb1da9a65fe66a48d216eda89e1	Ninja (USA) (Aftermarket) (Homebrew).nes
 7fa6ecf88c4fe3aabff4de248a9e7435	Ninja Cop Saizou (Japan).nes
 179ca28f89d7affd6bbcd73cb38fa21d	Ninja Crusaders - Ryuuga (Japan).nes
@@ -2703,6 +2868,7 @@ b0430c155e39e89cbba8f3d143027387	Ninja Ryuuken Den (Japan).nes
 63a2bf787d08cd72886091e630d72582	Ninja Ryuuken Den II - Ankoku no Jashin Ken (Japan).nes
 235e08c24589cc0d2634b20c7d3b860b	Ninja Ryuuken Den III - Yomi no Hakobune (Japan).nes
 ec9ea7109839175eb998ced0638907e2	Ninja Slapper (World) (Aftermarket) (Homebrew).nes
+0f4cda0700afdcee8d697a354e62a227	Ninja Teenz - The Revival (World) (Demo) (Aftermarket) (Homebrew).nes
 7107fa847a67c552f819cada9107d395	Ninja-kun - Ashura no Shou (Japan).nes
 115c251023bcef010c6c80abfab877a1	Ninja-kun - Majou no Bouken (Japan) (Rev 1).nes
 62b679c5f496051fec2f0830a539403f	Ninja-kun - Majou no Bouken (Japan).nes
@@ -2731,7 +2897,7 @@ d16b0853d1ccfbe40f6e6c995db54c4d	Nishimura Kyoutarou Mystery - Blue Train Satsuj
 56dfea8ca997831261001b381f33d11e	Nix - The Paradox Relic (World) (v1.91 NoFlash) (Aftermarket) (Homebrew).nes
 92abd7fe00ff30c3709ca26215ebf74a	NNNNNN (World) (Aftermarket) (Homebrew).nes
 dbabb9778617cd48f3b43704ea56d984	Noah's Ark (Europe).nes
-69bbe7d24d52a418d51783f38a0c9858	Noah's Ark (World) (Aftermarket) (Homebrew).nes
+69bbe7d24d52a418d51783f38a0c9858	Noah's Ark (World) (Aftermarket) (Unl).nes
 ecfe82db14f10bc99d8675bb969f8f31	Nobunaga no Yabou - Bushou Fuuun Roku (Japan) (Rev 1).nes
 2507a4b9a346b012f91bab66ffa21159	Nobunaga no Yabou - Bushou Fuuun Roku (Japan).nes
 369bb5296fdbe5c2f06594071ef83f12	Nobunaga no Yabou - Sengoku Gunyuuden (Japan) (Rev 1).nes
@@ -2745,6 +2911,7 @@ aad319732327bd12bc808d7d51c16554	Nobunaga's Ambition (USA).nes
 3e37e6a041075ac478c7e14fc8dacfac	Nomolos - Storming the CATsle (World) (V1.00D) (Demo) (Aftermarket) (Unl) (Alt).nes
 62b7950c128294845f1c299f7eb398a2	Nomolos - Storming the CATsle (World) (V1.00D) (Demo) (Aftermarket) (Unl).nes
 0b7f0e98947497ab3bc583faab64823e	Nomolos - Storming the CATsle (World) (v1.01) (Aftermarket) (Unl).nes
+554a8c50368f59f6c09f96b64d114b8d	NORDLE (World) (En,Fr) (Aftermarket) (Unl).nes
 fcb594cae5523ccede28e7294fcbf4ed	North & South - Wakuwaku Nanboku Sensou (Japan).nes
 544ad8da8787b641d2776fdaea04b3bc	North & South (Europe).nes
 1b33aa2d2abda7aeab09c98f7d7f19f4	North and South (USA).nes
@@ -2768,6 +2935,7 @@ ae39475266898fc25c5b22f493f8a0b0	Oeka Kids - Anpanman no Hiragana Daisuki (Japan
 e94d6314d43905a6c5beaad3ea3f7130	Oishinbo - Kyuukyoku no Menu Sanbon Shoubu (Japan).nes
 725b9c0c0d33da8b526e28fc27663aa4	Okkotoshi Puzzle - Tonjan! (Japan) (Beta).nes
 06b99a61255c4131aa3f867f4b9f1ebf	Okkotoshi Puzzle - Tonjan! (Japan).nes
+8cd750aa0a4bd8e5635062c6758b50a3	Olympic 2000 - 1000000-in-1 (Asia) (En) (Pirate).nes
 734528d97213bb5417660c6c85d58856	Olympic I.Q. (Korea) (En) (Unl).nes
 69169572c387f589d4adcf114736eae4	Olympic IQ (Asia) (Ja) (PAL) (Unl).nes
 89a08d3b51f8576c213316d7eabadcb6	Olympus no Tatakai (Japan).nes
@@ -2782,9 +2950,11 @@ e0217323f8cfdf68addf46b66afecf88	Operation Wolf (USA).nes
 a67dacd536fc9b02d33aaa321f79fb5f	Oratorio (World) (Beta) (Aftermarket) (Homebrew).nes
 b83efb44a35101986d6b2678a7c11a29	Oratorio (World) (Demo) (Aftermarket) (Homebrew).nes
 16ee1811bfdad088a1237e64cec3f4ce	Orb-3D (USA).nes
-2f7bbc93850e5e326f2a255f5451bd27	Orebody - Binder's Tale (World) (Aftermarket) (Homebrew).nes
 e7b0686a2d5b0635e72b1baa3c1d95f4	Orebody - Binder's Tale (World) (Demo 1) (Aftermarket) (Homebrew).nes
 6f3f3e2d906274d3beeb0ab91def0f2a	Orebody - Binder's Tale (World) (Demo 2) (Aftermarket) (Homebrew).nes
+dc07f68e4394df78916f81fc3f69d03d	Orebody - Binder's Tale (World) (Demo) (Special Steam Scream Demo) (Aftermarket) (Unl).nes
+784e305c05014ba88ca8548e6deeeed5	Orebody - Binder's Tale (World) (v1.0) (Aftermarket) (Homebrew).nes
+2f7bbc93850e5e326f2a255f5451bd27	Orebody - Binder's Tale (World) (v1.x) (Aftermarket) (Homebrew).nes
 624118c8fe63f24ff308837d7987a1ea	Orebody - Sand Ripples (World) (Aftermarket) (Homebrew).nes
 d65cb0ffe53b97b258095af6b4b2e0ec	Orebody - Sand Ripples (World) (Rev 1) (Aftermarket) (Homebrew).nes
 76c2d49e65587950642f15279d98533b	Orphea (World) (v1.1) (Aftermarket) (Homebrew).nes
@@ -2807,8 +2977,8 @@ e1cca0fb99bf26e5c70d310cb177c292	P.O.W. - Prisoners of War (Europe).nes
 b130cc246048ab187bd6112826094ede	Pac-Land (Japan).nes
 063511a533e1e627cbbae7addf85f7ad	Pac-Land (World) (Namcot Collection, Namco Museum Archives Vol 2).nes
 397164fddfbb1ba87734f6f56887dfab	Pac-Man (Europe).nes
-e4cc2e365fe5d0a43bb538981ab37bfd	Pac-Man (Japan) (En) (Rev A).nes
-10a12b5840a13e8f3a61885c44bf3b8d	Pac-Man (Japan) (En) (Rev B).nes
+e4cc2e365fe5d0a43bb538981ab37bfd	Pac-Man (Japan) (En) (Rev 1).nes
+10a12b5840a13e8f3a61885c44bf3b8d	Pac-Man (Japan) (En) (Rev 2).nes
 991118f99cde0ad3fb2bf452d038e93b	Pac-Man (Japan) (En).nes
 ca606bd8a875a396d52735c3bb84fa67	Pac-Man (USA) (Namco).nes
 1a860b28ad960dfd700b066924341edb	Pac-Man (USA) (Tengen) (Unl).nes
@@ -2836,6 +3006,8 @@ d7eb466a8ce17b2fc757b80a7a23f289	Palamedes II - Star Twinkle, Hoshi no Mabataki 
 f9fb9f00c9e56862d39fdb5350f5cfb2	Panic Restaurant (Europe).nes
 2becf8af763509ccfc9f515dbb503433	Panic Restaurant (USA).nes
 52d1736310a312ca076eb078a3445bc2	Panic! Dizzy (World) (Aftermarket) (Homebrew).nes
+6131fba78e8078f9990bb8a4edec4a20	Paper Plane in Subsoil, The (World) (v1) (Aftermarket) (Homebrew).nes
+7dbac703eb5312be76aa4ff4c71ac3aa	Paper Plane in Subsoil, The (World) (v2) (Aftermarket) (Homebrew).nes
 c187dac9b303545ff6678e5f40496450	Paperboy (Europe).nes
 19845b5314ebe58f001863e1fd999a39	Paperboy (Japan).nes
 ed0057504fe693d71a3e8a1a275ff7a2	Paperboy (USA).nes
@@ -2851,11 +3023,13 @@ c62f35a9ad197979c76028fc44a324bb	Paris-Dakar Rally Special (Japan).nes
 c3cc52213ede31a8b3f92aa39c2984dd	Parodius (Europe).nes
 828ce0baf9e358527420220c0e4f7631	Parodius Da! (Japan).nes
 790e26ca75507dab2b64d2a2d583f79d	Parody World - Monster Party (Japan) (Proto).nes
+b7cd7a3c98007f34baa7b9db91216cbd	Paths of Bridewell, The (World) (Aftermarket) (Homebrew).nes
+3e22d4b8f7ffda09c905904627ecd7f3	PCB Artist (World) (Program) (Aftermarket) (Homebrew).nes
 5dbe4f8550a5ed3b16a05e8f9a45a3df	Peek-A-Boo Poker (USA) (Unl).nes
 15446224589b041257cc769919b5a498	Peepar Time (Japan).nes
 e1e08aafe5494b899a362afd7cf067b9	Pegs (World) (Aftermarket) (Homebrew) (Alt).nes
 67e52b9286239a26d5be77b773f13937	Pegs (World) (Aftermarket) (Homebrew).nes
-946d96a14368feffa1bac3aa33af185c	Pen Pen (Japan) (En) (Family BASIC) (Homebrew).nes
+946d96a14368feffa1bac3aa33af185c	Pen Pen (Japan) (En) (Family BASIC) (Unl).nes
 e0208bfeb4351895b500ea1dd1249967	Penguin-kun Wars (Japan).nes
 b04cce792c30d1aab2cc58687f82e0e2	Pennant League, The - Home Run Nighter '90 (Japan).nes
 65c4f10e0417ae862dfe4068f8096f0f	Pennant League!! - Home Run Nighter (Japan).nes
@@ -2877,6 +3051,7 @@ bfab5f738adb919f1ba389f5c38deb67	Pinball (Japan, USA) (En) (GameCube Edition).ne
 ad809323fe92d0e083bf77ccecae462e	Pinball (Japan, USA) (En).nes
 438b82eeb85cfff7936ec83730da1ff0	Pinball (Japan) (En) (GameCube Edition).nes
 af0b15298bbee2946a8caf0028048a58	Pinball (USA) (e-Reader Edition).nes
+ec9a657c5056d2ff0d65f675308bb1eb	Pinball & Baseball (Asia) (En) (Aftermarket) (Pirate).nes
 737be18046dd10dffe5b0e3aa7e32e0b	Pinball Quest (Australia).nes
 066127313b2cfdc761d19eb496d8a9b2	Pinball Quest (Japan).nes
 131c36c33edac9248730dd8057e1c87d	Pinball Quest (USA).nes
@@ -2894,22 +3069,30 @@ a4e162c8fddd833263004f9f06627f77	Pixel Poops - Number Two (World) (Rev B) (After
 60129fb398428e60bab8149ad2aa3cf1	Pizza Party! (World) (Aftermarket) (Homebrew).nes
 6c9302e732860121f81ec0ced4a0ed82	Pizza Party! (World) (v1.1) (Aftermarket) (Homebrew).nes
 0ba3d131e367a44bb1a6ff416869d4f7	Pizza Pop! (Japan).nes
+16fd4d33a813723b1c4e8d6d6cd967dc	Planet Smashers (USA) (Aftermarket) (Unl).nes
 3875f3fdcc28aa57a152185b69249fb7	Planter (World) (Aftermarket) (Homebrew).nes
 978ee988f25ca846f30de08197d31451	Plasma Ball (Japan).nes
 7a14ee33709175e0c62007f218dbb7db	Platoon (USA) (Rev 1).nes
 7cc63e45bf43ef396e8b1ea5aeb52e17	Platoon (USA).nes
+2b4b3117e190cd075dce7a6d77febecb	PlayAccordion - Musical Quest (World) (Aftermarket) (Homebrew).nes
 ef20075d2e201bf010cdf9f33301ce08	Playbox BASIC (Japan) (v0.0) (Beta).nes
 453fd6f2f8a783b00af38790585d92ee	Playbox BASIC (Japan).nes
 8136e4c3368f7d3e2f9c05a82ef4d405	PLOID (World) (Switch) (Aftermarket) (Unl).nes
 e62eca2222178a3e938c6970fd419414	PLOID (World) (vX) (Aftermarket) (Unl).nes
 c799aa14928ec6318270cc2c359b302c	Plummet Challenge Game (World) (Aftermarket) (Homebrew).nes
+1185252e09d26a357fd6a4dabe948ab6	Pocket Monster (Taiwan) (En) (Pirate).nes
 ab6d6738f3c1d9f72659c8d17eb9b9cf	Pocket Zaurus - Juu Ouken no Nazo (Japan).nes
+62a3ca929d3aec4658de8a0a426b28d8	Pogo Cats (World) (Aftermarket) (Homebrew).nes
+7e06f541319ae2ae09a3a0093971b215	Pogo Cats (World) (Battery Save Version) (Aftermarket) (Homebrew).nes
 377d7b998756939523efd67176810c17	Poke Block (Asia) (Ja) (Unl).nes
 3a8d2aa7a700cb9755fb9d265c36b912	Poker II (Asia) (Ja) (Unl).nes
 968359a332d91fb56a113383ea8ba32b	Poker III (Asia) (Ja) (Unl).nes
 003b6f60f45ea586117f7c7cfb811837	Poker Mahjong - Pu Ke Mao Que (Asia) (Ja) (Unl).nes
+21f49c38315dade5ed8909a75d93e83a	Pole Tchudes (Russia) (Unl).nes
+7739062ac2992d73ae4f0bc5cfdb38a7	Pole Tchudes 2 (Russia) (Unl).nes
 7c83b2202fa70dfdfe353cc1dc7bbcaf	Policeman (Spain) (En) (Gluk Video) (Unl).nes
 34e6f9e3833009c4ef2d6e696b01e74c	Polygondwanaland - 2nd Edition (World) (Aftermarket) (Unl).nes
+c7769668f47e5643e79413a2117e6f69	Pong 198x (World) (Aftermarket) (Homebrew).nes
 3348f82ba20fe32d7fd075062209986d	Pong and Head Bounce (World) (Aftermarket) (Homebrew).nes
 5b1248b99bf3113f5bee30501e8a7e15	Pooyan (Japan).nes
 170adb71cbbaa754008345d623eb804c	Popeye (Japan).nes
@@ -2931,6 +3114,7 @@ cdcdf704e9096cb80f096eab01f7a747	Power Coloring (USA) (Aftermarket) (Homebrew).n
 ff2afdb01a4797006ec6ff2613b88471	Power Punch II (USA).nes
 3b441622c1d4568c12fa929720c0c824	Power Punch II (World) (Aftermarket) (Unl).nes
 0abbded1704d9855ac97629ce58ecfdc	Power Soccer (Japan).nes
+825c8ea27ec78583567d2a69f0d2b812	Powerful 255-in-1 (Asia) (En) (Pirate).nes
 d756537fef0fee85bac4abe8ac65e47f	PR8 (World) (v1.01) (Music Program) (Aftermarket) (Homebrew).nes
 108954931a684d040a2297c43c0c79b7	Predator (Australia).nes
 26fdf8379106900b74333404973d044f	Predator (Japan).nes
@@ -2938,6 +3122,8 @@ d756537fef0fee85bac4abe8ac65e47f	PR8 (World) (v1.01) (Music Program) (Aftermarke
 8eaf9f72aeb3fa37d611e0efa2ba90a1	President no Sentaku (Japan).nes
 3f426721c022221741c4c53963fb09d4	Press Start Again (World) (Proto) (Aftermarket) (Homebrew).nes
 792b458e150f439bb595fbc98979d8f1	Press Start Game (World) (Proto) (Aftermarket) (Homebrew).nes
+7a1d11bf87f9826aab69794317313e5f	Primitive (China) (Aftermarket) (Pirate).nes
+53ae2eb9fbac4854ab2fca8b37a8aece	Primitive II (China) (Aftermarket) (Pirate).nes
 1301601a5dd8685c7c0bc753741c0a60	Prince of Persia (Europe).nes
 34bb7924c53d11aa3b5862359920334d	Prince of Persia (France).nes
 8b4d4c8e6536b5c15c06a7000973c109	Prince of Persia (Germany).nes
@@ -2992,6 +3178,7 @@ d80522e605721420a93c7ae6ee3f225b	Punch-Out!! (Japan) (FamicomBox).nes
 4cf403f94afb8fa68b9f7321564b3a16	Punisher, The (USA).nes
 8084c9a58e5ed48e183e4008a5cc0d42	Purple Cape Man - Vigilante Ninja (World) (Aftermarket) (Homebrew).nes
 db9e5037a69c3f8e7c0d15b4c77b4400	Puss 'n Boots - Pero's Great Adventure (USA).nes
+c0c5a6eb72143aa5786651b259dc281f	Puteshestvie po Europe (Russia) (Unl).nes
 f79056d88c1d3d3443d9a12f76da60d9	Puyo Puyo (Japan).nes
 04de971fa984af0afa01bb503d53c90e	Puzslot (Japan).nes
 a2265d2b30774f91b476b4715db801d3	Puzzle (Asia) (En) (Idea-Tek) (Unl).nes
@@ -3001,6 +3188,7 @@ a2265d2b30774f91b476b4715db801d3	Puzzle (Asia) (En) (Idea-Tek) (Unl).nes
 bf759ffcf42490849819c223ac7fc204	Puzznic (Europe).nes
 beb2992cf5432635c0c85218e4297793	Puzznic (Japan).nes
 e267cb31c8da7264b842f54a19b27e88	Puzznic (USA).nes
+b38b51b1b4da6788f6156cb8788853dd	Pwn Adventure Z (World) (Aftermarket) (Homebrew).nes
 045e3579061b7fb4f9f892b8863761b8	Pyokotan no Daimeiro (Japan).nes
 42bccf87587a9f2f87109fca22f6f896	Pyramid - Cleopatra Kikiippatsu (Japan) (Unl).nes
 472e4f023b0dccedd343a046679710fe	Pyramid (USA) (Rev 1) (Unl).nes
@@ -3019,6 +3207,7 @@ c4afb62469145c5af016db8cdabf60aa	Quattro Adventure (USA) (Unl).nes
 0a51c89f776712fe75839c5a1473ffd4	Quattro Arcade (USA) (Unl).nes
 23730812172fe70e4bef3509285ae9ae	Quattro Sports (USA) (Unl).nes
 d5664de5d42736e1ff10d4aa4e75e3aa	Quest Forge - By Order of Kings (World) (Aftermarket) (Unl).nes
+7dfd06298cc6f30d7be3485a9e4a5c54	Quest Forge - By Order of Kings (World) (Pixel Heart) (Aftermarket) (Unl).nes
 9f34ac64ff1bf436a5631f64d3a92b6f	Quest-IONS (World) (Aftermarket) (Homebrew).nes
 7784bf60604ab2be6b2471ad8324ad70	Quiet (USA) (Aftermarket) (Homebrew).nes
 1b89c60bc5ab9c7a9bb390b2bc5d05db	Quinty (Japan) (Namcot Collection).nes
@@ -3033,6 +3222,7 @@ ec62c8fc614810e03864e90414fc419b	R.C. Pro-Am (Europe) (Rev 1).nes
 2178cc3772b01c9f3db5b2de328bb992	R.C. Pro-Am (USA).nes
 d2f59e542a3700ed0cda6dfd0074877a	R.C. Pro-Am II (Europe).nes
 9c90901268702b79510b4f742ff9d4c6	R.C. Pro-Am II (USA).nes
+89a7571bb2d2e50ef926303cd17ab289	Race-Car Guzzler (World) (Aftermarket) (Homebrew).nes
 885f3dca51fb20cc06b8fd2a1622494e	Racer Mini Yonku - Japan Cup (Japan).nes
 181d78fe4cfd83deb01db4888f625ce6	Racermate Challenge II (USA, Australia) (v3.12.027) (Unl).nes
 4886e501ad27603cecf83039699e1245	Racermate Challenge II (USA) (v3.11.088) (Unl).nes
@@ -3075,6 +3265,7 @@ ecbe58e2ce9b56192fbddcc694a050df	Rampart (Japan) (Konami).nes
 9bd7c1d3a14d546d9df19c527b309629	Rampart (USA) (Beta) (Jaleco).nes
 23a74004fa5058c337cc0c9c722d0e67	Rampart (USA) (Jaleco).nes
 44f68ca8ccface39f0bead2aa25c27f4	Randy in Sokobanland (World) (Aftermarket) (Homebrew).nes
+63827c9c80a45cf39d9cb90652c9eeb9	Raven's Gate (World) (Aftermarket) (Homebrew).nes
 40233ef526866485f16923ed998c1b4c	RC2 Rally (World) (v1.00) (Aftermarket) (Homebrew).nes
 06c9e0d3fb2065329a2fcea1a35addd7	RC2 Rally (World) (v1.01) (Aftermarket) (Homebrew).nes
 e790d695a4ca07325acbea87d35f07fd	Red Arremer II (Japan).nes
@@ -3083,6 +3274,7 @@ ef2850f730c167be4ba4de762dcf8dce	Reigen Doushi (Japan).nes
 9fb3be6358d84fdce8f351b08bb8f20d	Reknum - Souls Adventure (USA, Europe) (Aftermarket) (Unl).nes
 5e801aba7aa994f8dcb86f9db8ee08ec	Reknum - Souls Adventure (World) (Switch) (Aftermarket) (Unl).nes
 f3b764a4394730a281e438b8b0c7ab94	Reknum - The Awakening (World) (Aftermarket) (Homebrew).nes
+636c30eb053bd0673fd19fc1d8ce9833	REKT (USA) (Limited Edition) (Aftermarket) (Homebrew).nes
 9affb7c49f6738e74d4c5b7ed109ba7c	REKT (World) (Demo) (Aftermarket) (Homebrew).nes
 2301abaeec1b305f5956e3d7630d943b	Remote Control (USA).nes
 f7710e3211d40ac044bdc23d7537465c	Ren & Stimpy Show, The - Buckeroo$! (USA).nes
@@ -3126,6 +3318,7 @@ e129736dc7f1ec1c3f6f5d42c88503ee	Robin Hood - Prince of Thieves (Spain).nes
 0b88dccc1e3de9dfeda1ccc8fec5e0c1	Robo Warrior (Europe).nes
 e3be24fa260b8a18dac921671ef423e9	Robo Warrior (USA).nes
 cfffa856a43d03d18f6e7aaa93be7095	Robo-Ninja Climb (World) (Aftermarket) (Homebrew).nes
+69e8d540212d970d63f203c1f4ed2ae9	Robo-Ninja Climb (World) (NESDev 2017) (Aftermarket) (Homebrew).nes
 a2adf92e92add0d0cc3fb17f481896ea	Robocco Wars (Japan).nes
 6d7af07156398466e2a606509aa23baf	RoboCop (Europe).nes
 76856ec3fae50267b7ae86652ca38ee3	RoboCop (Japan).nes
@@ -3183,8 +3376,8 @@ c5566027ed62e87b636c6e4d992dce17	Rollie (World) (NTSC) (Aftermarket) (Homebrew).
 ced3afbb1bf7fa240dd285be3150ecb8	Rolling Thunder (Japan).nes
 22539b96c810eddd4c252e1e90bcd5bf	Rolling Thunder (USA) (Unl).nes
 712d69da2bdc39ef885e9dcc2a7e9711	Rolling Thunder (World) (Namcot Collection, Namco Museum Archives Vol 2).nes
-ff6e97a9de8b15ccf6a21e265c15fb97	ROM City Rampage (USA, Europe) (DX) (Prototype) (Unl).nes
-1f4eea01d35b6621b61568baece1ee8f	ROM City Rampage (USA, Europe) (Prototype) (Unl).nes
+ff6e97a9de8b15ccf6a21e265c15fb97	ROM City Rampage (USA, Europe) (DX) (Proto) (Aftermarket) (Homebrew).nes
+1f4eea01d35b6621b61568baece1ee8f	ROM City Rampage (USA, Europe) (Proto) (Aftermarket) (Homebrew).nes
 426a244048677f5179f714e138c104f0	Romance of the Three Kingdoms (USA).nes
 e5eaa4ac9bfd692c135fc1df58f0f271	Romance of the Three Kingdoms II (USA).nes
 7e041ded9459148fe652ea1a850c43d7	Romancia (Japan) (Rev 1) (Possible Proto).nes
@@ -3209,6 +3402,7 @@ fd57fe937af32dea6ecbe3491b6c30c4	S.C.A.T. - Special Cybernetic Attack Team (USA,
 5d35c408fc06e3d83db6584cece714dd	S.C.A.T. - Special Cybernetic Attack Team (USA) (Beta).nes
 5bd66e1f89dccca9f7e1679251826b9f	S.C.A.T. - Special Cybernetic Attack Team (USA).nes
 e51a014dd5f06b12512bebbdbd6fcd4d	S.T.I.N.G. (World) (Aftermarket) (Homebrew).nes
+e98faa4734eff332c791b93ca2493395	Saboteur (USA) (Aftermarket) (Unl).nes
 3842a654804620141bfbf3e148e0cf02	Saint Seiya - Ougon Densetsu (Japan).nes
 a50d09989e0ca309cf430d5e1f93dbfb	Saint Seiya - Ougon Densetsu Kanketsu Hen (Japan) (Beta).nes
 2c85dedefc8dd7b49b80774de9793506	Saint Seiya - Ougon Densetsu Kanketsu Hen (Japan).nes
@@ -3220,6 +3414,7 @@ e544f53a45405967b88d293a92062000	Salad no Kuni no Tomato Hime (Japan) (Virtual C
 5141b7a82866292203186a3022207294	Salad no Kuni no Tomato Hime (Japan).nes
 532b5ba0c407a9a92a53838fa8e08bab	Salamander (Japan).nes
 bc820754d48a4f26e2f082049dd63018	Samsara Naga (Japan).nes
+baa444b7b6ce4f03728ba68d4e76d1f9	Samurai Shodown III (China) (En) (Aftermarket) (Pirate).nes
 21025b4d3966e84c372f9c2dd49a3ca3	San Guo Zhi - Qun Xiong Zheng Ba (Asia) (Ja) (Unl).nes
 04766d9881ececa135501414fc4ca867	San Guo Zhong Lie Zhuan (Asia) (Unl).nes
 fd2a9db17c57b6ad9682b8e7baa55e2f	Sanada Juu Yuushi (Japan).nes
@@ -3243,10 +3438,12 @@ b2ff9f5cfbb345183034989f33e30554	Sansuu 2 Nen - Keisan Game (Japan).nes
 2ff51f09c4b2cebede91cd3d4ff9ca0b	Sansuu 5 & 6 Nen - Keisan Game (Japan) (Beta).nes
 102e8e67f5a3b7844b8db1ca82f4f398	Sansuu 5 & 6 Nen - Keisan Game (Japan).nes
 cf3c56020929c77afdc9d13ccf268d7a	Santa's Magical Christmas Sleigh (World) (Demo) (Aftermarket) (Homebrew).nes
+d59a4f0892d1f814bbf74ab2130f4c24	Sara Parker's Pool Challenge (USA) (Aftermarket) (Unl).nes
 ed68743f2021df2db1f2e898f7329e79	Satomi Hakkenden (Japan).nes
 6929753ffc70613b518ebcc8dad1bc4f	Satsui no Kaisou - Soft House Renzoku Satsujin Jiken (Japan).nes
 71159b9aeec9b3bbf2ea9e21c9a1dd5c	SaturdayMan (World) (Fr) (Demo) (Aftermarket) (Unl).nes
 a90498b5571adb609c810d40b3c692c4	Saturn Smash (World) (Aftermarket) (Homebrew).nes
+aca3ffc755e3e95f5c608bc7671c72d6	Save the Kuin (World) (Aftermarket) (Homebrew).nes
 4934ecec896f2ca874700b89556db92f	Scarabeus (USA) (Sample).nes
 05fca3714bd6c4ea56ffd232c5388410	Scramble (USA) (Aftermarket) (Homebrew).nes
 8e02f366e249490eab3b440da33069ef	scrollNES (World) (v0.1) (Program) (Aftermarket) (Homebrew).nes
@@ -3262,6 +3459,7 @@ ebca4b70fee0f0b24513273167a39de2	SD Gundam Gaiden - Knight Gundam Monogatari 3 -
 28547ed7d2a142c000f4063bcaa8fdee	SD Hero Soukessen - Taose! Aku no Gundan (Japan).nes
 78f5dbcb1b77ffe3a2f42cee464af2dd	SD Keiji - Blader (Japan).nes
 76cc3754f5defefb2d69e368a209f22d	SD Sengoku Bushou Retsuden (Japan).nes
+1ca504d1fe7e644bba9be98b8be62b47	Secret of NecroNancy, The (World) (Demo) (Aftermarket) (Homebrew).nes
 49ee9355b35cb5307a65bd21f89d9006	Secret Scout in the Temple of Demise (USA) (Beta) (Unl).nes
 c8637a485d987aadffd0be380f568187	Secret Scout in the Temple of Demise (USA) (Unl).nes
 b1be5852fc442bf021c4e0c8b9313383	Secret Ties (USA) (Proto).nes
@@ -3278,6 +3476,7 @@ a2290d65e13896457cc1fa0c3b7dfc27	Seicross (Japan).nes
 cfded0ad083dd00645bd2871a3e7aa9d	Sekiryuuou (Japan).nes
 c8a33d4d50e247105740a22bd0ecb814	Senjou no Ookami (Japan) (EPROM) (FamicomBox).nes
 bd3e40868c3aa06d4e3a8c1b290daa95	Senjou no Ookami (Japan).nes
+c931c19f93ac0fba43c13a88a7b4c17f	SENSELESS CITY (World) (Aftermarket) (Homebrew).nes
 0f3998aa1bcccf8fe07cb9b2ec593c78	Sensha Senryaku - Sabaku no Kitsune (Japan).nes
 3f071c7839c4b04200ad0a4ee73bf44c	Sesame Street - 123 (USA).nes
 80e32bc85e8eb415ad309dc2cb4fb2c2	Sesame Street - ABC (USA).nes
@@ -3285,6 +3484,7 @@ bd3e40868c3aa06d4e3a8c1b290daa95	Senjou no Ookami (Japan).nes
 e11377293fff45358d99aee90f98cbd6	Sesame Street - Big Bird's Hide & Speak (USA).nes
 6a611228d33a683fda3dc39cbe645bc6	Sesame Street - Countdown (USA) (Beta).nes
 7f0aa12ef5d1d71af69b06d22fbcbbf1	Sesame Street - Countdown (USA).nes
+625002ee635aef3de7fe49d79771ca39	SFX Editor (World) (Program) (Aftermarket) (Homebrew).nes
 01d2b41b081de98409bb63dc053c8e0a	Sgt. Helmet Training Day (World) (Aftermarket) (Homebrew).nes
 14fc80a4a25dfef00c189b9253665664	Shadow Animus (World) (Demo) (Aftermarket) (Homebrew).nes
 0f6705646dffb40fc6bfbcccfe7ae615	Shadow Brain (Japan).nes
@@ -3296,7 +3496,7 @@ a0a3ad20b7dc3384b7e9fe55fdad7131	Shadow Warriors II - Ninja Gaiden II (Europe).n
 7f809c8bb850d8dbb17f876344978713	Shadowgate (Europe).nes
 2d838f82d9225fa2ec6fc856183db74d	Shadowgate (France).nes
 3bb3ae8978cad86310f5f877fb0274a2	Shadowgate (Germany).nes
-26af93fb9dda7ec282dee193ab68d319	Shadowgate (Japan) (Beta) (1988-11).nes
+9e68c637770d41b3189fabd7d7eca839	Shadowgate (Japan) (Beta) (November, 1988).nes
 18008d82dfd04edf598059f8bc539668	Shadowgate (Japan).nes
 71b7941ace29af073e74dea8945658b1	Shadowgate (Sweden).nes
 95a9917bf732ea61a10d74f190651878	Shadowgate (USA).nes
@@ -3309,6 +3509,7 @@ d0bdc8e019093bed9c4b928abab07d06	Shatterhand (Europe).nes
 7cccc9ad7b1097143435fcc6afcdf157	Shatterhand (USA).nes
 8ca63edd6763ab4927a279ea59553036	Shen Tan Ke Nan (Asia) (Unl).nes
 f8764658f90c0afda7615e7520e2feb8	Sheng Huo Lie Zhuan (Asia) (Ja) (Unl).nes
+f22968193ed4aab7c08806d29b88c77e	Shera and the 40 Thieves - Definitive Edition (World) (Demo) (Aftermarket) (Homebrew).nes
 82b5e6bf218447e74c4131c387530c7b	Shera and the 40 Thieves (World) (Digital Version) (Aftermarket) (Homebrew).nes
 0ab6201ae5de837f2733bdecd6ee0ec6	Sherlock Holmes - Hakushaku Reijou Yuukai Jiken (Japan).nes
 27fd3ba457290496e95de79760cb4f5c	Shi Kong Zhi Lun (China) (Aftermarket) (Pirate).nes
@@ -3316,13 +3517,14 @@ f8764658f90c0afda7615e7520e2feb8	Sheng Huo Lie Zhuan (Asia) (Ja) (Unl).nes
 f39dd1891d5d291e012081d2b4558f46	Shin 4 Nin Uchi Mahjong - Yakuman Tengoku (Japan).nes
 28c0f9a44d1fa21fe7131acf639dcc6b	Shin Jinrui - The New Type (Japan).nes
 cbe90a4a0600b56ee477eb09ab92b99d	Shin Moero!! Pro Yakyuu (Japan).nes
+c7b0c632015578f1a14d6e2e6c1a1dec	Shin Samurai Spirits 2 - Haoumaru Jigoku Hen (China) (Aftermarket) (Pirate).nes
 2c19c7b4ab79fb98f6d1fb32199340e7	Shin Satomi Hakken-Den - Hikari to Yami no Tatakai (Japan).nes
 8b720d765d1e23d2c7b8c871a0a0f3f8	Shingen the Ruler (USA).nes
 3bc8f6e9e606e28f40655531cb5cc5ee	Shinobi (USA) (Unl).nes
 dc05ef8b9ca822729a0446f85f52da13	Shinsenden (Japan).nes
 9b6d0a8816f610c72e79b7eeac48e80a	Shisen Mahjong - Seifuku Hen (Japan) (Unl).nes
 bfa28aa4bf81df784f7c797d56d0f27b	Shisen Mahjong 2 (Asia) (Unl).nes
-7affc0f1417af62f9a528c1daefe1fcf	ShmupSpeed (World) (Program) (Aftermarket) (Homebrew).nes
+7affc0f1417af62f9a528c1daefe1fcf	ShmupSpeed (World) (Aftermarket) (Homebrew).nes
 0cdec2e8f512b0cffb847328573163f1	Shockwave (USA) (Unl).nes
 b27511acf0fc73f2121c0cd7647587c1	Shogun (Japan).nes
 bd1759ed8209a4414d3ab17c6fdad920	Shooting Range (USA).nes
@@ -3339,6 +3541,7 @@ a8afd9baa340c2c4978ed583f46449c3	Shui Guo Li (Asia) (Unl).nes
 68204c99245f7d5e30fdab10c48b3067	Siamond (World) (Beta) (Aftermarket) (Homebrew).nes
 1dea918d1f3d0b5ffa6724e61d390146	Siamond (World) (v0.950) (Aftermarket) (Homebrew).nes
 b5e44574fe4a6b7e82487d90d0bb07d8	Siamond (World) (v0.980) (Aftermarket) (Homebrew).nes
+e0d8d4772d71cd303e9197fadb85a0cc	Side Pocket (Asia) (En) (LG06) (Pirate).nes
 6bdfae452ac51c8f7118b5789d1fb1b7	Side Pocket (Europe).nes
 b637dff4645cc946dc46245d59ce1d33	Side Pocket (Japan).nes
 b2e9418c80a3561cb182bfcd13174edb	Side Pocket (USA).nes
@@ -3364,6 +3567,7 @@ c510177d6bde87f2aa00dfcc3de9f825	Simpsons, The - Bart vs. the World (USA).nes
 97384aabb2df0bfa7f9b66116edd0ef9	Simpsons, The - Bartman Meets Radioactive Man (Europe).nes
 5991ec668b8f43d96c8facaa04d5b84c	Simpsons, The - Bartman Meets Radioactive Man (USA) (Beta).nes
 394c0aa89801b02a1d0591412ed6d971	Simpsons, The - Bartman Meets Radioactive Man (USA).nes
+0ae6f0e1c093b621b69aedffe5ae9752	Sinking Feeling (World) (Aftermarket) (Homebrew).nes
 2406e40c0a0518978ff28d0dd16537e1	Sir Ababol (World) (Aftermarket) (Homebrew).nes
 3a25fbc8982bcf8324087fb5157e64d7	Sir Ababol (World) (Remastered) (Aftermarket) (Homebrew).nes
 e898c6724a8136af034b52d8cbb12020	Skate Boy (Spain) (En) (Gluk Video) (Unl).nes
@@ -3379,6 +3583,7 @@ baf62f8e6eaae46212a14501877f3cad	Ski or Die (USA).nes
 ae3b6cb2110ccb433f3a3ed716a00622	Skull & Crossbones (Korea) (En) (Unl).nes
 0a18e169ec9008028b3b1e514c166eb6	Skull & Crossbones (USA) (Unl).nes
 e5eab2edf05eb6dba7c7010a6633759b	Sky Destroyer (Japan).nes
+fdb039f2cf15f1e3a0c8d06b35b097a9	Sky Diver (USA) (Aftermarket) (Unl).nes
 94262ecf258c01d28e8d91eba8eb55ea	Sky Kid (Japan) (Virtual Console).nes
 15dd0c7a71697a01479776862a8a2e55	Sky Kid (Japan).nes
 37ed0da809b7d115458709e9e0749976	Sky Kid (USA).nes
@@ -3389,6 +3594,17 @@ c3410645b5a94b8cce90afd14d3532dc	Slalom (Europe).nes
 4d9a6662fd870a684b327046d0f13c60	Slalom (USA).nes
 4dd054933877ec161addbf94a73a82b7	Slappin' Bitches (USA) (First Edition) (Aftermarket) (Unl).nes
 0a2f1799d1ef5e670696d1be836cf63c	Slappin' Bitches (World) (Mass Market) (Aftermarket) (Unl).nes
+d0cf7ca93056a762b277263c19e82dbe	Slaughter (World) (Announcement Version) (Alpha) (Aftermarket) (Homebrew).nes
+e1231c0a65e1bff0d92c176245237b4f	Slaughter (World) (Just-in-Case) (Alpha) (Aftermarket) (Homebrew).nes
+c1af2d56f8fa661034675c96709f7e5c	Slaughter (World) (Just-in-Caser) (Alpha) (Aftermarket) (Homebrew).nes
+5622cb0f45cbab8970d0d4dc45f5a8e3	Slaughter (World) (Just-in-Casest) (Alpha) (Aftermarket) (Homebrew).nes
+d6d96128279b33e0ace6a8f75a745120	Slaughter (World) (Nearly Final) (Alpha) (Aftermarket) (Homebrew).nes
+96f9b55a7785aa9b73cb106bf813a9bd	Slaughter (World) (NESDev22 Compo Final) (Aftermarket) (Homebrew).nes
+9c3f75d2a38663f5130a602c874de704	Slaughter (World) (October) (Alpha) (Aftermarket) (Homebrew).nes
+10e16bfc9b2d4aec0612471b35cb73ba	Slaughter (World) (Tweaks) (Alpha) (Aftermarket) (Homebrew).nes
+8b67b1cbae797163ced3f9d51503a004	Slaughter (World) (Weapons Update) (Alpha) (Aftermarket) (Homebrew).nes
+3622401df64a5b16984884e56a21961b	Slice of Bread (World) (v0.11) (Aftermarket) (Homebrew).nes
+36ebe675b6d09e07bd501bb789aacbd3	Slice of Bread (World) (v0.12) (Aftermarket) (Homebrew).nes
 ad15429e7029319041e8fb3c1006b169	Slow Mole (World) (v1.2b) (Aftermarket) (Homebrew).nes
 a9feec5996031eb98c0f99a525256f62	Smash T.V. (Europe).nes
 b8d352880e586a779b142d340e17c5e9	Smash T.V. (USA).nes
@@ -3396,6 +3612,7 @@ b8d352880e586a779b142d340e17c5e9	Smash T.V. (USA).nes
 9279299a64f5328de80de2b4519ea0fd	Smurfs, The (Europe) (En,Fr,De,Es) (Beta).nes
 d1c50e5dac50f740cf81bd4ee41273a3	Smurfs, The (Europe) (En,Fr,De,Es).nes
 149ef0cd51c5fe3864d783badb41cacd	SnailNES (World) (v0.1.2) (Aftermarket) (Homebrew).nes
+bcf5f05c49d189f84bed72936a7747b4	Snake Off (World) (Aftermarket) (Homebrew).nes
 f97da510b23d2778fdb9621ff0d61001	Snake Rattle n Roll (Europe).nes
 7b8b76e5688c7d21d40fe3692861ce1e	Snake Rattle n Roll (USA).nes
 d95bd864cffa3cdb5dbe1c450e799506	Snake's Revenge (Europe).nes
@@ -3405,6 +3622,8 @@ fea3347d28d50f76dda36033d1a77616	Snoopy's Silly Sports Spectacular! (USA).nes
 b4180d139a98ed939e67ab0aae955ca2	Snow Bros. (Japan).nes
 c7a7be2231e861b0d142ac67f987cc0c	Snow Brothers (Europe).nes
 3d675e5adfa038f68598b9f4d1a37a80	Snow Brothers (USA).nes
+b28fa6f4750ec92cb59b79a1617153c3	Snowball Fight, The (World) (v1.01) (Aftermarket) (Homebrew).nes
+d19a4dad54f6b5d4cbd9906e06d269de	Snowball Fight, The (World) (v1.02) (Aftermarket) (Homebrew).nes
 ed8b9ca54bbb4cd7908cf4a0f9481feb	Snowboard Challenge (Europe).nes
 2e20fa88084510aeb952d907e9e2f88e	Soap Panic (Japan) (Unl).nes
 bf40369da6fefb904a087699d2283218	Soccer (Europe).nes
@@ -3421,6 +3640,7 @@ aa199fc1da9f6d9a6251da4b079a8cb8	Solar Jetman - Hunt for the Golden Warpship (Eu
 c0404f363dd9eb1af31671479a6a2a1f	Solar Wars (World) (v1) (Aftermarket) (Homebrew).nes
 201e5c041555b3599393999f721326e8	Solar Wars (World) (v2) (Aftermarket) (Homebrew).nes
 3aac7fe821a810a7facf971e0759c0c8	Solaris (USA) (Aftermarket) (Homebrew).nes
+0a3a77229d0e6f52c3da713379528bcf	Solaris (USA) (Aftermarket) (Unl).nes
 51d86a8d25beb53a3df7d0176765e018	Solitaire (USA) (Unl).nes
 67318a1d3a36bfd2b91e0520f4b6c7e1	Solomon no Kagi (Japan).nes
 aadba1c594c5c08fafd6bcc6f466b2b4	Solomon no Kagi 2 - Coolmintou Kyuushutsu Sakusen (Japan).nes
@@ -3455,6 +3675,7 @@ a2e5ee8130ab6abdcb70ecd45cddd4df	Space Shuttle Project (USA).nes
 ccd179afc238a08a086647b2f149d7de	Space Soviets (World) (Demo) (Aftermarket) (Homebrew).nes
 74481e55a350c4254ab3fe9a5e60b251	Spacey McRacey (World) (Aftermarket) (Homebrew).nes
 65ce4b700492ad9727d225dbef3ae98a	Spacey McRacey (World) (NESDev 2016) (Aftermarket) (Homebrew).nes
+2841fc1036878a46c69f9215bb8c7460	Spanky Gets Spooky! (World) (Aftermarket) (Homebrew).nes
 9ce004429a6066999ed272389773f086	Spartan X (Japan).nes
 9c460fde3896233ff9cb9b833d2fa78d	Spartan X 2 (Japan).nes
 dfadc9d6e1ff51ab4eaef62762922582	Spelunker (Japan) (Virtual Console).nes
@@ -3464,8 +3685,9 @@ d5c3481edf3d8356b28a4d92aedfa969	Spelunker (USA).nes
 f49fa32d46fde0234f81c5d7094f1ca6	Spelunker II - Yuusha e no Chousen (Japan).nes
 6f2a7fe93fb7f2e2e959d009babe49fd	Spider-Man - Return of the Sinister Six (Europe).nes
 a6eba31c39c78d30f34ac452a5904f41	Spider-Man - Return of the Sinister Six (USA).nes
+f8c0423ec716aa6e47b74ddb7ad9b167	Spin Master (USA) (Aftermarket) (Unl).nes
 5e90dbd1280f7e0551c75663ad7d3f4c	Spirit Impel (World) (Aftermarket) (Unl).nes
-722d3ff7662e0fb2a6ff01b9e134e5a7	Spirit of Satan, The (Japan) (En) (Family BASIC) (Homebrew).nes
+722d3ff7662e0fb2a6ff01b9e134e5a7	Spirit of Satan, The (Japan) (En) (Family BASIC) (Unl).nes
 241d58a37e1a1ff8beed436d08331c8b	Spiritual Warfare (USA) (Beta) (Unl).nes
 c89cc4a69eb2e5f10a2f26f39a983de6	Spiritual Warfare (USA) (v5.1) (Unl).nes
 2d2c9630c5c32a0846ab06f5d1135dd0	Spiritual Warfare (USA) (v6.0) (Unl).nes
@@ -3481,19 +3703,22 @@ d48f63a48cf051a1f3261a29549ba173	Splatterhouse - Wanpaku Graffiti (Japan).nes
 662ebe548d8221322a23fff6ea5b8f94	Split Second (World) (Aftermarket) (Homebrew).nes
 de578f9c6c7a394885480b8329633a44	Split Second (World) (NESDev 2018) (Aftermarket) (Homebrew).nes
 a02d60afbfa7905999729599e603fb60	Spook-o'-tron (USA) (Aftermarket) (Unl).nes
+28fd7f35a2211b1f37371a3ff52aeea7	Spooky Soccer (World) (Proto) (Aftermarket) (Homebrew).nes
 44f5b716cf5ee0164c151106d0e68dce	Spot - The Video Game (USA).nes
 e12f3fd85f96f9a61fe38626a1b5cefa	Spot (Japan).nes
 ac55003f1de6b36204f2d0e53d6b8058	Spy Hunter (USA).nes
 ca873cb4addab1aaeecfc77a73ceb21b	Spy vs Spy (Europe).nes
 e14481d175ffaebb244245260a7ed3ea	Spy vs Spy (Japan).nes
 5fe496319e7ed35875df71152f9c2593	Spy vs Spy (USA).nes
-327536961c4207afac0ce07297468dfc	Sqoon (Japan) (Rev A).nes
+327536961c4207afac0ce07297468dfc	Sqoon (Japan) (Rev 1).nes
 06b338db2f3cb88b2161506ef360ab28	Sqoon (Japan).nes
 96250e185ff5b8c596a210803484322e	Sqoon (USA).nes
 571fd52fc821f336630f760ef3a26915	Square Deal (Japan) (Sample).nes
 553208dafd458608cfb5edeb00a53f6b	Square no Tom Sawyer (Japan).nes
 7691660fb0ca63c7d4ca5e171a67e179	Squashed (USA) (Proto).nes
 7c1edadb066968dfecb559436ded2790	Squirell Chaser (World) (Aftermarket) (Homebrew).nes
+4e523ad816a82d5836af13ed9db828e9	Squirrel Domino (World) (Aftermarket) (Homebrew).nes
+9a7be6ec6df919d962e1c12d53e8be7f	Squish - The Bouncing Cat Ball (World) (Aftermarket) (Homebrew).nes
 80f94bbb851a5466bf773dbbc6d056f2	Stack-Up (World).nes
 3b4c79d2607594638f7ec8e3b2a3f438	Stadium Events (Europe).nes
 fca585e11f803c851b621de88fbbd324	Stadium Events (USA).nes
@@ -3512,6 +3737,7 @@ db9a2c5492bd793d7091cd656c7f28cd	Star Force (USA).nes
 408423d59e46dd07871f243623f44c9b	Star Luster (Japan) (Namcot Collection).nes
 b50657267d67c5f46fd77737b0d5bdd5	Star Luster (Japan) (Virtual Console).nes
 69a18f44736e7160d34f3a610f3a9c3c	Star Luster (Japan).nes
+2fcbe1026ac066d4eeffb0188614a3b8	Star Power (World) (Demo) (Aftermarket) (Homebrew).nes
 cd5e5106ac08153811fada3490c6f0ff	Star Soldier (Japan) (Sample).nes
 20962b69905fda108245df6c1825f2d2	Star Soldier (Japan).nes
 9e2ce130e8c4eab1d34df021751be407	Star Soldier (USA).nes
@@ -3532,6 +3758,7 @@ cbac315457a33d1f1577d958c89eb581	Star Wars - The Empire Strikes Back (World) (Af
 2ba8de5ffaa0521886b734599d428b70	Star Wars (USA) (Beta).nes
 25496df74d7e25bb0daff1adcc40cadc	Star Wars (USA).nes
 a4cf9a44aae3efe252bd297458cf58a6	Star Wars (World) (Aftermarket) (Unl).nes
+5b0680ea3bf5b3cd11fed4cf740b6068	Starfight (World) (Homebrew).nes
 31c70b49933f43150227afe00de13ede	Starship Hector (USA).nes
 4303bef7e0694850d868e73608244e43	StarTropics (Europe) (Virtual Console).nes
 154b53a8d58ed2e7a37d705000d2d7cf	StarTropics (Europe).nes
@@ -3540,6 +3767,7 @@ b1eddbb71994db079aa1dc16c05e7de5	StarTropics (USA).nes
 4083b05955fbde8d08a5c9d486408eb1	Stealth ATF (Europe).nes
 a4ac5c3c2c5ffdd767bb7cbfc082ba62	Stealth ATF (USA).nes
 6dee1d350b80d31ef06bab1eecf7e6ec	Sted - Iseki Wakusei no Yabou (Japan).nes
+9beaecaa45185c467107f5b53b041f05	Steel Moons (World) (Aftermarket) (Homebrew).nes
 84ac103718d69467b3b33c16790e482a	Stick Hunter - Exciting Ice Hockey (Japan).nes
 74b57cff4087f09f58aa2e7a99baeff2	Stinger (USA) (Virtual Console).nes
 810937940f2e94a2cd77795b30b5eb06	Stinger (USA).nes
@@ -3572,8 +3800,11 @@ f32b8a01f66315f8f3229756d3a748e9	Suikoden - Tenmei no Chikai (Japan).nes
 c897a30c30f84ac144b29f8de9f5b480	Sunman (Europe) (Proto).nes
 e1decb810dd71c5b81f6956726314db3	Sunset Land (World) (Demo) (Aftermarket) (Homebrew).nes
 8dc98fb6af365fefa2d9fc5ea73adca1	Super 190-in-1 (Asia) (En) (Pirate).nes
+279a8fee3b68fe14e35d2bbf2eefa426	Super 42-in-1 (Asia) (En) (Pirate).nes
 e0d119e03ea1918bdbe16367265b920b	Super 9999 in 1 (World) (Aftermarket) (Homebrew).nes
+5d523af08d075281fe32f4d0a5bf1a28	Super 9999999-in-1 (Asia) (En) (Pirate).nes
 e77e4ecb23156769877b797b6989aeeb	Super Adventure Quests (Europe) (Unl).nes
+9681562f16b739e423c6023e704ccbbf	Super Aladdin - The Return of Jafar (Asia) (Ja) (Aftermarket) (Pirate).nes
 50a29fad971f429d605765485f881eee	Super Arabian (Japan).nes
 0b83f342ee590ae4e6797c42a3ed0a6f	Super Bat Puncher (World) (Demo) (Aftermarket) (Unl).nes
 01cdc80af187de0be6641bd218afc328	Super Black Onyx (Japan).nes
@@ -3624,6 +3855,7 @@ d821fb982ce47299fdb08a027ec0b8be	Super Mario Bros. + Duck Hunt (USA).nes
 d72e2e5b1410bbb7d6efdc94fd6bc195	Super Mario Bros. 2 (USA) (Rev 1) (Virtual Console).nes
 a64dcbaf95980145d2351850be735461	Super Mario Bros. 2 (USA) (Rev 1).nes
 ccd25b4fa7acddef38d75212ae0e5432	Super Mario Bros. 2 (USA).nes
+4f9da812f7ee6b3befdc6e78a3f1b7b5	Super Mario Bros. 2j (USA) (RetroZone) (Aftermarket) (Pirate).nes
 edaa057f9eac63b8d5c0ac27b8194bd4	Super Mario Bros. 3 (Europe) (Virtual Console).nes
 bb8ab5b5bfd8da09d1872ca684001f4d	Super Mario Bros. 3 (Europe).nes
 d1424c7db4005ee04a556e25f48d5f2b	Super Mario Bros. 3 (Japan) (Rev 1) (Virtual Console).nes
@@ -3639,6 +3871,7 @@ b1046a4efbb22aae7aa82dda552d8efe	Super Mario USA (Japan).nes
 f1e5a1b34635797f435de7881f757371	Super Momotarou Dentetsu (Japan).nes
 b17bb3dc076ffecb4a231356cc1381ac	Super NeSnake 2 (USA) (Aftermarket) (Homebrew).nes
 cb325ebd740d1302834c69169f217400	Super NeSnake 2 (World) (Demo) (Aftermarket) (Homebrew).nes
+6a06bcc2c2df5034d8a8a4f653f8999e	Super Painter (USA) (Aftermarket) (Unl).nes
 b0e3185475d1ac10b1ebd82d2da93d06	Super Painter (World) (Aftermarket) (Unl).nes
 3b4bd1e6c527395e6ae12e21239c2688	Super Pang (Asia) (Ja) (PAL) (Unl).nes
 655c3c81ff2739166b63080bab394c96	Super Pang II (Asia) (Ja) (Unl).nes
@@ -3663,6 +3896,11 @@ ca1b406528cc17e874f1bb82a3367009	Super Spy Hunter (Europe).nes
 ad616c52049f2a5ebb218495198b085a	Super Spy Hunter (USA).nes
 68cc8b9ef3ebc61e987c316dc47915b4	Super Star Force (Japan).nes
 f71b26b141d56a24b0efea9495b4076e	Super Team Games (USA).nes
+504d6cfaa6c3c8f940165d15b6bf5837	Super Tilt Bro. (World) (NESDev 2016) (Aftermarket) (Homebrew).nes
+20d8350dfc0707a620988968250ed574	Super Tilt Bro. (World) (v2.0-beta1) (Aftermarket) (Homebrew).nes
+47b0fa4814af3bfbf4ae801e9d498b78	Super Tilt Bro. (World) (v2.0-beta2) (Aftermarket) (Homebrew).nes
+938ad33dab955fd38021431348dee35c	Super Tilt Bro. (World) (v2.0-beta3) (Aftermarket) (Homebrew).nes
+02b01e5397d17e42dc4a88fb35f4907c	Super Tilt Bro. (World) (v2.0-beta4) (Homebrew).nes
 7ad611175c829afb7b5883ffa76b3f34	Super Tilt Bro. (World) (v2.alpha-12) (Aftermarket) (Homebrew).nes
 eaf108f829cf64ffa7f944e5ae420676	Super Turrican (Europe).nes
 fcd187e399ed266a484411cb5d1f68b5	Super Uwol (World) (Aftermarket) (Homebrew).nes
@@ -3692,6 +3930,7 @@ b01aa74e0722b123a6ef4bd6310260b7	Sydney Hunter and the Mayan's Revenge (World) (
 624a2df90385e7535bec4058ca282817	T-Gun (World) (Web Version) (Aftermarket) (Homebrew).nes
 334936fce3f4d7d0e028bc4589e2b81b	Taboo - The Sixth Sense (USA) (Rev 1).nes
 4a9f9a808d6d7127a2dd4caa5e6aebb6	Taboo - The Sixth Sense (USA).nes
+e3a42bac7c6a5b7851d09a8f724ee6b7	Tactus (World) (Proto) (Aftermarket) (Homebrew).nes
 f17a2073f7b1f122ff7913ab33753509	Tag Team Pro-Wrestling (Japan).nes
 a040796f2e8e983c9a4ca3f7ccbe43dd	Tag Team Pro-Wrestling Special (Japan) (Not for Resale).nes
 fa57750ad33815e99c40986f26fc697e	Tag Team Wrestling (USA).nes
@@ -3734,9 +3973,9 @@ a9e7671cfa6e11496b369520a56d1b50	Tantei Jinguuji Saburou - Yokohamakou Renzoku S
 0cf30090eb3f1244180b7a4057623069	Tao (Japan).nes
 95cf5bb28935048236ca6eac82d7524e	TapeDump (World) (NTSC) (Program) (Aftermarket) (Homebrew).nes
 f85e879ad642c303a6f1540e8f06c316	TapeDump (World) (PAL) (Program) (Aftermarket) (Homebrew).nes
+9b21cadfea80986aa943dce47b2fb1b3	Tapeworm - Disco Puzzle (World) (Aftermarket) (Unl) (Alt).nes
 c11d16ac8b21ed460df566dcea260008	Tapeworm - Disco Puzzle (World) (Aftermarket) (Unl).nes
 850a5d7132679a06f96d9d1d36df06bb	Tapeworm - Disco Puzzle (World) (Demo) (Aftermarket) (Unl).nes
-9b21cadfea80986aa943dce47b2fb1b3	Tapeworm - Disco Puzzle (World) (Switch) (Aftermarket) (Unl).nes
 1713e526eeaefe4c8940c856b7e3e04e	Target - Renegade (USA).nes
 cca3d2c8731b9f7db3d7153b88ebdbb1	Taro's Quest (USA) (Proto).nes
 265817448658a8fcd44dc2496f7d6987	Tasac (Asia) (Ja) (Unl).nes
@@ -3772,7 +4011,7 @@ e5a8459528e33503df955b0df80cd465	Teenage Mutant Hero Turtles (Europe) (Virtual C
 e927929a16c43d53907f63119aabaae0	Teenage Mutant Hero Turtles II - The Arcade Game (Europe).nes
 fa123496abb747a8f0b760dd540ff31c	Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (The Cowabunga Collection) (Aftermarket).nes
 26f2c5d434a1a2aa2871ad56e73583c4	Teenage Mutant Ninja Turtles - Tournament Fighters (USA).nes
-c80868fc7c0d16c2ed76186e1783ece2	Teenage Mutant Ninja Turtles (Italy).nes
+c80868fc7c0d16c2ed76186e1783ece2	Teenage Mutant Ninja Turtles (Australia).nes
 9480817ea69870a345d9e4e85dd6a38b	Teenage Mutant Ninja Turtles (Japan) (En) (The Cowabunga Collection) (Aftermarket).nes
 ad72b2fe3cacc4a336a405e37ee3c320	Teenage Mutant Ninja Turtles (Japan).nes
 e8efd6bdfa09746dbb31dc52346d9df9	Teenage Mutant Ninja Turtles (USA) (Beta).nes
@@ -3782,7 +4021,8 @@ e39e6c202b7a904b8de9fab351682361	Teenage Mutant Ninja Turtles (USA) (Virtual Con
 9423b7ff8051fbae0238c4a0567a414d	Teenage Mutant Ninja Turtles 2 - The Manhattan Project (Japan) (The Cowabunga Collection) (Aftermarket).nes
 9fd8e7b96ba577536aa7af9a442f3da6	Teenage Mutant Ninja Turtles 2 - The Manhattan Project (Japan).nes
 34c895fcaf171ae58654e8244045da4f	Teenage Mutant Ninja Turtles II - The Arcade Game (Australia).nes
-b29c44916625b031f67d0412ada63252	Teenage Mutant Ninja Turtles II - The Arcade Game (USA) (Sample).nes
+b29c44916625b031f67d0412ada63252	Teenage Mutant Ninja Turtles II - The Arcade Game (USA) (Sample) (1990-08-02).nes
+a9826db568ba75dbf1bbbd525577664e	Teenage Mutant Ninja Turtles II - The Arcade Game (USA) (Sample) (1990-08-20).nes
 2caafa61e928e29146d701676753cab8	Teenage Mutant Ninja Turtles II - The Arcade Game (USA) (The Cowabunga Collection) (Aftermarket).nes
 d39b6d82cd08ccb83f26a66499277ddc	Teenage Mutant Ninja Turtles II - The Arcade Game (USA).nes
 749300015460c73625cea5dc694434a4	Teenage Mutant Ninja Turtles III - The Manhattan Project (USA) (The Cowabunga Collection) (Aftermarket).nes
@@ -3802,6 +4042,7 @@ b7bdf89533e075fa5a8206b8147fffdd	Tenka no Goikenban - Mito Koumon (Japan).nes
 cbb2c477a37b28517e330d1c562049f8	Tennis (Japan, USA) (En) (GameCube Edition).nes
 32a5e44b320ae588f560196e49ba13c6	Tennis (Japan, USA) (En).nes
 42b78931347bf28895a8758cf40f10f0	Tennis (USA) (e-Reader Edition).nes
+bdb805b3b9ef0a0ea63ef09a4c534131	Tense Conds (World) (Aftermarket) (Homebrew).nes
 d7389d8efbfc9b11be3e05bdeac05513	Terao no Dosukoi Oozumou (Japan).nes
 82a7ff6170af2ee2e146e0a3d74e0ba7	Terminator 2 - Judgment Day (Europe).nes
 90b0a089fc45d7db082fdb4f5a824368	Terminator 2 - Judgment Day (USA) (Beta).nes
@@ -3810,6 +4051,7 @@ fe78b86e0578748b3671c3aeb4ad3d6b	Terminator 2 - Judgment Day (USA).nes
 81bdec267b0a1793e2af6b4d9f236148	Terminator, The (USA, Europe).nes
 1f07276342128ac3e0ad1763fa2b403c	Terra Cresta (Japan).nes
 5f240c7ab89b7b45d14556b53a3863f8	Terra Cresta (USA).nes
+23799f17d6b6ba3caf5b9c2fcc77b0b0	Tesla Vs. Edison (World) (Aftermarket) (Homebrew).nes
 96e2dfcb17f1b04823f88e8855f8d245	Tetrastar - The Fighter (Japan).nes
 bb4adec1141efc90f9bc7c48d9bae8a6	Tetris (Bulletproof) (Japan) (Rev 1).nes
 127f9833ba881aa52a51c08409effa95	Tetris (Bulletproof) (Japan) (Rev 2).nes
@@ -3828,11 +4070,11 @@ d270d530a6287d3fc3055b613eb3f52a	Tetris 2 + Bombliss (Japan).nes
 2bd907bf34f87dbd3e3b0f90e4ee51c3	Tetris Flash (Japan).nes
 0c8965092e0001728c60697a43ff25b0	Tetsudou Ou - Famicom Boardgame (Japan).nes
 1408238a71f0020c289dad338bcb6ed6	Tetsuwan Atom (Japan).nes
-6131fba78e8078f9990bb8a4edec4a20	The Paper Plane in Subsoil (World) (v1) (Aftermarket) (Homebrew).nes
-7dbac703eb5312be76aa4ff4c71ac3aa	The Paper Plane in Subsoil (World) (v2) (Aftermarket) (Homebrew).nes
-1ca504d1fe7e644bba9be98b8be62b47	The Secret of NecroNancy (World) (Demo) (Aftermarket) (Homebrew).nes
-dd539bb74fa483ca3d727d9eb6ff8ca3	The Void (World) (Aftermarket) (Homebrew).nes
+e04fc73754dc886c8fb70c55d7837e79	Theremin (World) (Music Program) (Aftermarket) (Homebrew).nes
 da5ab2d850eb161477e4ceb2507a269f	Thexder (Japan).nes
+5e3add276049dd9df0cd777be81d5292	They Came To Wreak Hell (World) (NESDev 2022) (Aftermarket) (Homebrew).nes
+f60d5caba6a0c2005725993c220b0dc2	They Came To Wreak Hell (World) (v0.2.1) (Aftermarket) (Homebrew).nes
+b540fec0334e5faeca119b6e27ff4cc6	They Came To Wreak Hell (World) (v0.3a) (Aftermarket) (Homebrew).nes
 8095a12c1b6512e547e878d9e0ab3a95	Thomas the Tank Engine & Friends (USA) (Proto).nes
 9fa1c1420d8c9488ec06184865475986	Thornby (USA) (Aftermarket) (Homebrew).nes
 e5db0f535ac2deed95394321b0d95f58	Three Stooges, The (USA) (Beta) (1989-02-23).nes
@@ -3848,6 +4090,10 @@ b477e9932d59ce7d3bee5492157f732c	Thunder Warrior (Asia) (Ja) (Unl).nes
 a978dad4d7a2a16e89b9718a8dc9bfab	Thwaite (World) (v0.01) (Aftermarket) (Homebrew).nes
 a6adedb98e157b5dd7ff6fb35036b6db	Thwaite (World) (v0.03) (Aftermarket) (Homebrew).nes
 bd83bb09e87024175db1a00ebbf8e8dd	Thwaite (World) (v0.04) (Aftermarket) (Homebrew).nes
+059347bd1328b478c9afad51085249db	Tic-Tac XO (World) (Aftermarket) (Homebrew).nes
+a6a8a8e37bc80f619414f67fc63ac044	Tic-Tac XO (World) (Demo) (Aftermarket) (Homebrew).nes
+f9941423feb2f3f7382b826cae7cfadd	Tic-Tac XO (World) (Rob Bryant's) (Aftermarket) (Homebrew).nes
+215f47d42cf419d48c4e2238a57d0919	Tiger (Greece) (En) (FK-C4-33) (Aftermarket) (Pirate).nes
 1b42d292d81b87e1fe17963b115a3fe2	Tiger-Heli (Europe) (Rev 1).nes
 55fbf65662d16fac0e7add2be833e86e	Tiger-Heli (Europe).nes
 630f5c2d4ccfd00db2b4cfcf5932155c	Tiger-Heli (Japan).nes
@@ -3871,6 +4117,7 @@ a959641073d04d08cb40c6493b9b382c	Tiny Toon Adventures Cartoon Workshop (Europe).
 690aabe65dcb8bb52f4d974e837ebf33	Tiny Toon Adventures Cartoon Workshop (USA).nes
 e58716c9ab387572cff50503d55ef473	Titan (Japan).nes
 0b08cc59700973640e0c94b9668cf06a	Titan Warriors (USA) (Proto).nes
+c5b336ddb50969d8171306a6a773bdf9	Titenic (Unknown) (Aftermarket) (Pirate).nes
 2a35220514b368553da2332086f81eae	TM Network - Live in Power Bowl (Japan).nes
 11c1b98bfe1ee53501eefad912bebdc8	To the Earth (Europe).nes
 6e2a277a37c123d4279d2a9741847da4	To the Earth (USA).nes
@@ -3926,6 +4173,7 @@ c8c69cb628b48c4334081f4e290b91c2	Touhou Rououmu (World) (Ja) (v0.46) (Aftermarke
 e29d2860f73b96207fb0b7d89626e811	Touhou Rououmu (World) (Ja) (v0.81) (Aftermarket) (Homebrew).nes
 03347ea53bdd5bd37fb0a405c19129ad	Touhou Rououmu (World) (Ja) (v0.84) (Aftermarket) (Homebrew).nes
 bcfa3085537dc75339cb81b1c366d30a	Touhou Rououmu (World) (Ja) (v0.86) (Aftermarket) (Homebrew).nes
+dd074d62e29565c1fe9f4498a55f458d	Touhou Rououmu (World) (Ja) (v0.90) (Homebrew).nes
 c8e658a4cddb86165b38fe2b5a15eb0b	Toukon Club (Japan).nes
 ca2251ea6900d17a54e91871c93f09da	Toukyou Pachi-Slot Adventure (Japan) (Rev 1).nes
 8686539ba82cb9f5b7824b95282d32c6	Toukyou Pachi-Slot Adventure (Japan).nes
@@ -3936,6 +4184,7 @@ f8692de795791be59cd22b421c200954	Tower of Radia (USA) (Proto).nes
 1da4f3fa8f3041c441c04ccadbee7ea0	Town & Country Surf Designs - Thrilla's Surfari (USA).nes
 9f97ce5192b42eca6b22180a4e23718a	Town & Country Surf Designs - Wood & Water Rage (USA).nes
 3268089218c08d38d77b6fdfa5a2092b	Toxic Crusaders (USA).nes
+dce1a5168cd69996602b392e2110d62c	Toy Story (Asia) (En) (Aftermarket) (Pirate).nes
 7def939a80cb14d296da855eb40eb722	Track & Field (USA).nes
 ae233a5ff570e664adfbba502c67488e	Track & Field II (Europe).nes
 3b0a18329c99345e62a2442a4cb102ba	Track & Field II (USA) (Rev 1).nes
@@ -3943,7 +4192,7 @@ ae233a5ff570e664adfbba502c67488e	Track & Field II (Europe).nes
 aa343bbf4386fe14283c46d9ef3ade84	Track & Field in Barcelona (Europe).nes
 f33b280c333a7124c9f386e1c948149a	TRACK+FEEL II (World) (Aftermarket) (Homebrew).nes
 f1b45878226cd9b5ec88a4a84b914758	Tracy's NEScapades (World) (Aftermarket) (Homebrew).nes
-6337141b623209e9425260f1ea890711	Tragedy of Ryohyukan, The (Japan) (Family BASIC) (Homebrew).nes
+6337141b623209e9425260f1ea890711	Tragedy of Ryohyukan, The (Japan) (Family BASIC) (Unl).nes
 f7793bed513b701919fa83657f84d97c	Treasure Island Dizzy (World) (Unl).nes
 3ecce238af49ae27804d17e71a4aa958	Treasure Master (USA).nes
 374b8690c88dd25797cb3d51128520fb	Triathron, The (Japan).nes
@@ -3971,10 +4220,10 @@ d3e16b4cce2249b5584d5a2ee5265667	Turtle Paint - Volume 1 (World) (Aftermarket) (
 32559eec3a02efb1eb610a511a35f513	Turtle Rescue - Unwrapped Holiday Edition (World) (Aftermarket) (Homebrew).nes
 569ef08f4659b87ea2201be183ef6287	Twelve Seconds (USA) (Aftermarket) (Homebrew).nes
 6e801aa41e57c4ce982d79f8e77ea022	Twin Cobra (USA).nes
-cfe9d79d8628ca8f0251abcaf5bc0bcf	Twin Dragons (World) (Aftermarket) (Unl).nes
+cfe9d79d8628ca8f0251abcaf5bc0bcf	Twin Dragons (World) (Broke Studio) (Aftermarket) (Unl).nes
 1f4088bff272da5dea5fb9e730b48e03	Twin Dragons (World) (Demo) (2017-01-31) (Unl).nes
 ff1705fae6f89fbf17ef9e3844740c7f	Twin Dragons (World) (Demo) (2017-02-17) (Unl).nes
-1a95a0fa1d15a8117eb5757358e8c687	Twin Dragons (World) (Limited Edition) (Aftermarket) (Unl).nes
+1a95a0fa1d15a8117eb5757358e8c687	Twin Dragons (World) (Pixel Heart) (Aftermarket) (Unl).nes
 02a8a97d323b5775374737797ce56a25	Twin Eagle (Asia) (Ja) (PAL) (Unl).nes
 a4117f93c7fcf00416d534cd5c9fc364	Twin Eagle (Japan).nes
 3bb2e2224c4b8209634e59c1752faef3	Twin Eagle (USA).nes
@@ -4021,10 +4270,10 @@ ebd653fb0fa8b7f71d1b5273f0ff702d	Ultimate Stuntman, The (Asia) (En) (Unl).nes
 1c890ba198df5082fa320a362f04af5e	Uncanny X-Men, The (USA).nes
 7fd0ba36661e551886d4a106a6d559da	Uncharted Waters (USA).nes
 4148a30e7c1053604deba191153b65f4	Underground Adventure (World) (Aftermarket) (Homebrew).nes
-ec98c31343daca0b0d8113b94e4aded0	Uninvited (USA) (Beta) (1990-07-04).nes
-3896cd5a103812ab65c119d672777243	Uninvited (USA) (Beta) (1990-08-23).nes
+b36d4b5e191937347dd0d727dfa7f670	Uninvited (USA) (Beta) (1990-07-04).nes
+2793bb9d56e55cd207d688942bb1ba5e	Uninvited (USA) (Beta) (1990-08-23).nes
 1400436fa2748e3f1c0a3cf6695d3f34	Uninvited (USA) (Beta) (1990-08-30).nes
-e0d72cf73967c78a279b12c4a532adc4	Uninvited (USA) (Beta) (1990-09-10).nes
+4a8dd2f49552e72c9715b265147932b4	Uninvited (USA) (Beta) (1990-09-10).nes
 b58849a42ca5e7e980b884b2d8351900	Uninvited (USA).nes
 db9bcb179e13fbef4c19f4c64d504e7b	Universe Soldiers, The (Asia) (En) (Unl).nes
 c7b4f99944ead060a8c073e16f8a49a5	Unknown Soldier (World) (Aftermarket) (Homebrew).nes
@@ -4051,6 +4300,7 @@ d0803f9864accc714c05595feb601d17	Valkyrie no Bouken - Toki no Kagi Densetsu (Jap
 46eb603a83a02dacf3deba6e546c5067	Vegas Connection - Casino kara Ai o Komete (Japan).nes
 c6e44ae491905e4a7c3ab8e5ba3504a3	Vegas Dream (USA).nes
 5dd05981c1c4bf2a35f61db2a92985e4	Vegavox II (USA) (Aftermarket) (Homebrew).nes
+e486d47e038045c5bdcc3f4212e7f8ac	Veggie Invasion (World) (Aftermarket) (Homebrew).nes
 9c7febec082e4e96df38392a59ea7db4	Venice Beach Volleyball (Asia) (En) (Idea-Tek) (Unl).nes
 695d2d582c3c45dfa33c21fa2374c35f	Venice Beach Volleyball (Asia) (En) (Super Mega) (Unl).nes
 ae8103c0c8253d1fb15b8fdf6c2fc4a3	Venice Beach Volleyball (USA) (Beta) (Unl).nes
@@ -4065,6 +4315,7 @@ c6bd44fe9a5e270e2700fadba091ac8b	Vindicators (USA) (Unl).nes
 0da7c7ea9a12c80a92475e2117febebf	Virus (USA) (Beta) (1990-02-02).nes
 51d3143266c5c2553d4f03d461a4b708	Virus (USA) (Beta) (1990-03-xx).nes
 ddab51698bd2d4ce26312c19ce3f9d3a	Viva! Las Vegas (Japan).nes
+dd539bb74fa483ca3d727d9eb6ff8ca3	Void, The (World) (Aftermarket) (Homebrew).nes
 d2de07362289bc248aa81772d0c8f021	Volguard II (Japan).nes
 85fbf0ef35477a3d34ae82d311e0c53a	Volley Ball (Spain) (En) (Gluk Video) (Unl).nes
 5607158055b0e2c75c521fbea812d642	Volleyball (Japan) (FamicomBox).nes
@@ -4088,6 +4339,7 @@ fb00fb62c7dbf36b16032ff71e3db32a	Wally Bear and the No! Gang (USA) (Unl).nes
 c1c1ec33f8248c95239951ce59a05d62	Wampus DX (World) (2022-06-09) (Aftermarket) (Homebrew).nes
 ffce84e10b925336c3b99b80b54f8cfc	Wampus DX (World) (Aftermarket) (Homebrew) (Alt).nes
 1abe5f98800e1b2066983713f457ba40	Wampus DX (World) (Aftermarket) (Homebrew).nes
+9a387a54f739859e9ce88c3e1d266ca0	Wampus DX (World) (Kickstarter Version) (Aftermarket) (Unl).nes
 408ea0070ea6932119cb1ed550567d1f	Wang Zi Fu Chou Ji (Asia) (Unl).nes
 9c1acc80d4c770e8ad259329f0c7fbea	Wanpaku Duck Yume Bouken (Japan) (Beta).nes
 19a581bf9ea3f36f57777bbf635aaa38	Wanpaku Duck Yume Bouken (Japan).nes
@@ -4097,12 +4349,14 @@ b2990a023217d5a26e89b554c9617954	War in the Gulf (Brazil, Spain) (En) (CCE, Gluk
 2e33245e25340f079889ed0c6179cb5a	Wario no Mori (Japan) (En).nes
 04e683b752e2768d4ca2f66550da2fd2	Wario's Woods (Europe).nes
 bec7fa447c1c8e13a87bd4a5685ce563	Wario's Woods (USA).nes
+c138586c0fbd91e71611191fa3d69b35	Warlords (USA) (Aftermarket) (Unl).nes
 66f87c4452dc5f9e1310d9639f19b994	Warpman (Japan) (Namcot Collection).nes
 ddda8653ebc615881fdc67ef8d82169f	Warpman (Japan).nes
 a8ab344b027a22d3a880602152fb8c5c	Wart Worm Wingding! (World) (Aftermarket) (Homebrew).nes
 4f12bafb1f5457ede7aafcb77958f51d	Wayne Gretzky Hockey (USA).nes
 eabf71159fd071cfc36158cc983d2088	Wayne's World (USA).nes
 7f43974f12a0398be95a423fd2951ac4	WCW World Championship Wrestling (USA).nes
+80871851d8c59feb759c21a0bcdfa64b	we are hejickle (World) (Aftermarket) (Homebrew).nes
 420810d5b5f0223676c903c311459a43	Weed N'Stiff 2 - Bobson's Revenge (World) (Aftermarket) (Homebrew).nes
 5690ae716dcaec799ddc3026b75dfd87	Weed N'Stiff 2 - Bobson's Revenge (World) (v1F) (Aftermarket) (Homebrew).nes
 669eb647103a9a80e114ec878debf665	Wei Lai Xiao Zi - Joy Van Kid (Asia) (En) (Unl).nes
@@ -4129,7 +4383,7 @@ ab52a3e529f6017fe8678fbdb52c0b39	White Lion Densetsu - Pyramid no Kanata ni (Jap
 831d2e895fd5424ffa0db8ad2a009293	Willow (USA).nes
 d4f59a4481496972c55b38f88c5f2c78	Wily & Right no Rockboard - That's Paradise (Japan).nes
 34e80273409710fe007d87395f34430f	Win, Lose or Draw (USA).nes
-7e0a66f23c986e176f6ed14df40553ee	Winner Is You, A (World) (Aftermarket) (Unl).nes
+a0100e55c72f35e29101f054acad52c4	Winner Is You, A (World) (Aftermarket) (Unl).nes
 c3dc6fa0d09bf69a2f08b3a8d54c5bd5	Winter Games (USA) (Rev 1).nes
 2bfeb14969603ba4413ed270c09ab4cf	Winter Games (USA).nes
 24f97a313b03ba9a3bee578ad7015f19	Wit.nes, The (World) (Demo) (Aftermarket) (Homebrew).nes
@@ -4147,8 +4401,10 @@ fb95214d832068cbc84a60d5b5e3c958	Witch n' Wiz (World) (Beta) (Aftermarket) (Home
 29edebc9ed785d350158639e0c35aead	Wizards & Warriors III - Kuros...Visions of Power (Europe).nes
 183133512b214efd6d085f987c7b2fa5	Wizards & Warriors III - Kuros...Visions of Power (USA).nes
 732d4ea29ae2fa3090e1788a72dd647a	Wo xiang niao niao (World) (Aftermarket) (Homebrew).nes
+a8a360e86b5baba205cd3a1e27f216c0	Wo xiang niao niao (World) (NESDev 2016) (Aftermarket) (Homebrew).nes
 3e6151bf2ec0de5e81fbb1d39d825599	Wolf Spirit (World) (Demo) (Aftermarket) (Homebrew).nes
 d7dad0d5c807bb63836b3cae94601d64	Wolf Spirit (World) (v1.1) (Demo) (Aftermarket) (Homebrew).nes
+bd3878a5d10b46a3644149f904a129f5	Wolfling (World) (v1.1) (NESDev 2017) (Aftermarket) (Homebrew).nes
 ae1b9f4f5794a639c5345caac835f934	Wolfling (World) (v1.4) (Aftermarket) (Homebrew).nes
 5ea6bb7f2995a8fc47a105412b88ab76	Wolverine (USA).nes
 3a225c5eba8d72f7f822f94650c886ba	Wonderland Dizzy (Europe) (En,Fr,Es,Nl,Pt,Pl) (Proto) (1993-09-24) (Unl).nes
@@ -4168,6 +4424,7 @@ fa5753cbd1579ece147009dbe3dbb8da	World Class Track Meet (USA).nes
 b6f5c83d7f9611322fcc79fe0f4d2245	Wrath of the Black Manta (Europe).nes
 90b61fbb7cdbed8d51f7eceb9c484c56	Wrath of the Black Manta (USA) (Rev 1).nes
 fc433643a7d76ec2121453b0b0df8978	Wrath of the Black Manta (USA).nes
+fde9f7bebe538ed1f969b172cb3f1629	Wrecking Balls (World) (Proto) (NESDev 2016) (Aftermarket) (Homebrew).nes
 d56f69296bca96de2f8b80687b465eb4	Wrecking Crew (World) (Virtual Console).nes
 e7d7225dad044b624fbad9c9ca96e835	Wrecking Crew (World).nes
 fe31752bc70490473bf4cd05eb493088	Wumpus (World) (Aftermarket) (Homebrew).nes
@@ -4197,6 +4454,7 @@ bc8307272ac10d02fc57654fb683437a	Xing Zhan Qing Yuan (Asia) (Unl).nes
 b4ff56bd8e0403eedaed698c21ae7860	Yacht (World) (Aftermarket) (Homebrew).nes
 467250bf84852398aab532db2e62688d	Yamamura Misa Suspense Series - Kyoto Zai-Tech Satsujin Jiken (Japan).nes
 7d102af8d8fa4edcdfffda09dd0d03df	Yami no Shigotonin Kage (Japan).nes
+92c998606f962ed265772198fa32a307	Yar's Revenge (USA) (Aftermarket) (Unl).nes
 6f7c72a758037a16fd70b5d67c22b54b	Yasuda Fire & Marine - Safety Rally (Japan) (Not For Resale).nes
 afe9e3036dcdcdda5173fceea0d42016	Yeah Yeah Beebiss II (World) (Aftermarket) (Unl).nes
 71533482bbbdb36221cdb10a46e7179e	Yeah Yeah Beebiss II (World) (Colin and David) (Aftermarket) (Unl).nes
