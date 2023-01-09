@@ -1,3 +1,6 @@
+e60e599135009129b288988a1cba91df	[BIOS] Game Boy Advance (Japan) (Debug Version).gba
+672ea0bf0ffb91095c7a9ed4ee512aa2	[BIOS] Game Boy Advance (World) (GameCube).gba
+a860e8c0b6d573d191e4ec7db1b1e4f6	[BIOS] Game Boy Advance (World).gba
 55354d9e3bc9c1fa682b5110e5ed1544	007 - Everything or Nothing (Japan).gba
 b63b2244edc2385ae1eab9c8ee448c6f	007 - Everything or Nothing (USA, Europe) (En,Fr,De).gba
 71259fb2bf7adeb9b5d8c84619a2531e	007 - NightFire (USA, Europe) (En,Fr,De).gba
@@ -30,12 +33,12 @@ ec06f494be2a51170d7fd439bee5a057	2 Games in 1 - Dr. Mario + Puzzle League (Europ
 be0ec0dc899635edd6ad0c74574aa826	2 Games in 1 - Dragon Ball Z - The Legacy of Goku I & II (USA).gba
 82507fd4f17734ae8f48072cbd5ef4e2	2 Games in 1 - Findet Nemo + Die Unglaublichen (Germany).gba
 4ba18d1ebadb424b3b944ae75dd322f0	2 Games in 1 - Findet Nemo + Findet Nemo - Das Abenteuer Geht Weiter (Germany) (De+Fr,De,Nl).gba
+ce7a3a9fb7e863d58bb2c71ea2a7a0d5	2 Games in 1 - Finding Nemo - The Continuing Adventures + The Incredibles (USA).gba
 ee2d0ffd5ed6588537e7590540d5cf21	2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures (Europe) (En+En,Es,It,Sv,Da).gba
 2cede728164ea50342d41a554ef36a02	2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures (Europe) (Es,It+En,Es,It,Sv,Da).gba
 a217dda835c51021e8b2e68b773e1170	2 Games in 1 - Finding Nemo + Finding Nemo - The Continuing Adventures (Europe) (Fr,Nl+Fr,De,Nl).gba
 fe2f3e4d3b15c8776c45fd7ef060df89	2 Games in 1 - Finding Nemo + The Incredibles (Europe) (Fr,Nl).gba
 e46d84fc7d150d0e9a378b788a6b5c92	2 Games in 1 - Finding Nemo + The Incredibles (Europe).gba
-ce7a3a9fb7e863d58bb2c71ea2a7a0d5	2 Games in 1 - Finding Nemo - The Continuing Adventures + The Incredibles (USA).gba
 291c1aa5d30affeb56ecd802b9e8d012	2 Games in 1 - Golden Nugget Casino + Texas Hold 'em Poker (USA).gba
 b714f4fa916ca53e24434eb7dbfed73b	2 Games in 1 - Hot Wheels - Velocity X + Hot Wheels - World Race (Europe).gba
 9e95f7804e3b8011b89048f68e541db8	2 Games in 1 - Hot Wheels - Velocity X + Hot Wheels - World Race (USA).gba
@@ -89,15 +92,15 @@ eab287293bf4b62301119cfc3a9a9ccc	2 in 1 - Asterix & Obelix - Bash Them All! + As
 64ee9a205b96f5b2945e1594e8b6defd	2 in 1 - V-Rally 3 + Stuntman (Europe) (En,Fr,De,Es,It).gba
 60c622e488935541ee0d7295bde1ff85	2 in 1 Game Pack - Shrek 2 & Shark Tale (Europe) (En,Fr,De,Es,It,Sv+En,Fr,De,Es,It).gba
 48d89fe21745e62460d22354111ea6e0	2 in 1 Game Pack - Shrek 2 + Shark Tale (USA).gba
+2b5e0ffa2eb716e2600282842c915fc0	2 in 1 Game Pack - Spider-Man - Mysterio's Menace + X2 - Wolverine's Revenge (USA, Europe).gba
 9e19a3fa1d458c3e8be8bd6103937473	2 in 1 Game Pack - Spider-Man & Spider-Man 2 (Europe) (En,Fr,De+En,Fr,De,Es,It).gba
 8c91af1e9f60e7577219176f18cefb76	2 in 1 Game Pack - Spider-Man + Spider-Man 2 (USA) (En,Fr,De+En,Fr,De,Es).gba
-2b5e0ffa2eb716e2600282842c915fc0	2 in 1 Game Pack - Spider-Man - Mysterio's Menace + X2 - Wolverine's Revenge (USA, Europe).gba
 7cbfedc28a27fe3aee703b2444946946	2 in 1 Game Pack - Tony Hawk's Underground + Kelly Slater's Pro Surfer (USA, Europe).gba
 762e95819d0ea7039df160ae6e8c5635	2 Jeux en 1 - Titeuf - Ze Gag Machine + Titeuf - Mega Compet (France).gba
-0af8fb79e9986400fd05dacf0a4373e8	2-in-1 Fun Pack - Shrek 2 + Madagascar (Europe).gba
-a160e317dcbd117035214cb47f35c466	2-in-1 Fun Pack - Shrek 2 + Madagascar (USA).gba
 665cd847efecf2a893ee74a9c42c26eb	2-in-1 Fun Pack - Shrek 2 + Madagascar - Operation Penguin (Europe).gba
 00866e17ce947975d30efe48ad99628b	2-in-1 Fun Pack - Shrek 2 + Madagascar - Operation Penguin (USA).gba
+0af8fb79e9986400fd05dacf0a4373e8	2-in-1 Fun Pack - Shrek 2 + Madagascar (Europe).gba
+a160e317dcbd117035214cb47f35c466	2-in-1 Fun Pack - Shrek 2 + Madagascar (USA).gba
 bb87013ec30bebf3dd7cb07ab6786262	2006 FIFA World Cup - Germany 2006 (USA, Europe) (En,Fr,De,Es,It).gba
 d5cd7fb3f7bdecccddb431ddddbcc9f4	2K Sports - Major League Baseball 2K7 (USA) (Beta).gba
 873b5e4111c0cbbc5224b590e845ba21	2K Sports - Major League Baseball 2K7 (USA).gba
@@ -129,6 +132,9 @@ a4837934ffe072aa692d7bdb1100e34d	Action Replay (Europe) (En,Fr,De,It) (v3.3) (Un
 6667961aeaa0ea3e8211aa83cd1bcd11	Action Replay GBX (Europe) (En,Fr,De,It) (Unl).gba
 55440b63727ca5d2ba26e5fe240d97ad	Action Replay GBX (Europe) (En,Fr,De,It) (v3.1) (Unl).gba
 136d8ce4db69b232133585f3bac449be	Action Replay GBX (Europe) (Unl).gba
+1dbd789e9efc3aaacc48512872677f97	Action Replay GBX (France) (Unl).gba
+51f4450bcc65b30347805144b968c229	Action Replay GBX (Germany) (Unl).gba
+ee7a39890e4c30bb46d5067abc4ade9e	Action Replay GBX (Italy) (Unl).gba
 59f5cb9f76bbed3afcfa391943c17633	Action Replay MAX (Europe) (Unl).gba
 5f3567dd3487f600dd2962c2fe73844f	Activision Anthology (USA).gba
 b1ca40e6e5815da256890ecaab1b5d73	Advance GT2 (Japan) (En).gba
@@ -154,24 +160,27 @@ fcba36d00eb7347a5836f1cfb8b31cc1	Adventures of Jimmy Neutron Boy Genius vs. Jimm
 fce7adb1c33f9a75a03e1c425cb9930d	Adventures of Jimmy Neutron Boy Genius vs. Jimmy Negatron, The (USA, Europe).gba
 2c2e9b38c21fd511b4f1871b12183416	Adventures of Jimmy Neutron Boy Genius, The - Attack of the Twonkies (USA, Europe).gba
 be7b93fdeca8e23caf4b59b4490999ca	Adventures of Jimmy Neutron Boy Genius, The - Jet Fusion (USA, Europe).gba
-8b68e98da32fcee8c235c3c283c20a4c	Aero the Acro-Bat (USA) (Beta).gba
-a7763d58c7fd18307cefd9bcb6391d89	Aero the Acro-Bat - Rascal Rival Revenge (Europe) (Beta).gba
+37c496730495607e17c2ff73478c263f	Adventures of Mr. Bean (Europe) (Demo).gba
 2548856ed56765e0f8267175bc1ac171	Aero the Acro-Bat - Rascal Rival Revenge (Europe).gba
+a7763d58c7fd18307cefd9bcb6391d89	Aero the Acro-Bat - Rascal Rival Revenge (USA) (Beta 2) (2002-03-27).gba
 266e48e50827e202a9e74255bf29a554	Aero the Acro-Bat - Rascal Rival Revenge (USA).gba
+8b68e98da32fcee8c235c3c283c20a4c	Aero the Acro-Bat (USA) (Beta 1).gba
 d9ea8c0a5cb934ddc7801389faba43e2	Agassi Tennis Generation (Europe) (En,Fr,De,Es,It).gba
 4411d6ac05f6e818a16409894d1ec943	Agassi Tennis Generation (USA).gba
-79be6c775dd19c8e0a5e67473eae5970	AGB-Parallel Interface Cartridge (Unknown) (Program).gba
+79be6c775dd19c8e0a5e67473eae5970	AGB-Parallel Interface Cartridge (Japan) (En) (Program).gba
 02fe9812bc5022835d55ce2ddfee95d7	Agent Hugo - Roborumble (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).gba
 0c3521dc74150b501aba964d4c2a0fc3	Aggressive Inline (Europe) (En,Fr,De).gba
 4e8b17bb4b77cd5568b678596c55a8bb	Aggressive Inline (USA).gba
+9f74b2ad1d33e08e8a570ffe4564cbc3	AGS Aging Cartridge (World) (Rev 1, v7.0) (Test Program).gba
+c87a8c0c22fbfae9572abe0eda3dcf14	AGS Aging Cartridge (World) (Rev 3, v9.0) (Test Program).gba
 c29a4dde73b36a0936135a656f3c1024	AGS Aging Cartridge (World) (v10.0) (Test Program).gba
-9f74b2ad1d33e08e8a570ffe4564cbc3	AGS Aging Cartridge (World) (v7.0) (Test Program).gba
 1ca28a9463c67a0f18bb1b047993062f	AGS Aging Cartridge (World) (v7.1) (Test Program).gba
 dec3b16b1a70bca1b467654c01b486d3	Aigle de Guerre, L' (France).gba
 7109869b364d162a673b25b5604ebb57	AirForce Delta II (Japan) (En,Ja,Fr,De).gba
 3f729eba45634801650d0ca02e2ad0bf	AirForce Delta Storm (USA) (En,Ja,Fr,De).gba
 5b6370434292ee73812d4f10f51a0d9e	Aka-chan Doubutsuen (Japan) (Rev 1).gba
 a5c6b967e5d7c35d2aba50bbf4c5657c	Aka-chan Doubutsuen (Japan).gba
+cf8411a62dc864f79cf39467080a81ce	Akumajou Dracula - Circle of the Moon (China) (Unl).gba
 a7f1cc981555e953032a5444f2b2e0e6	Akumajou Dracula - Circle of the Moon (Japan) (Castlevania Advance Collection).gba
 4fe96ba189bc46167a95753e2f137b03	Akumajou Dracula - Circle of the Moon (Japan) (Virtual Console).gba
 8ddb166cf79606f116f6bdf3e4bdbbe2	Akumajou Dracula - Circle of the Moon (Japan).gba
@@ -179,7 +188,6 @@ a7f1cc981555e953032a5444f2b2e0e6	Akumajou Dracula - Circle of the Moon (Japan) (
 70245e4d52cfb1af2533fedc6191dcb5	Aladdin (Japan).gba
 4bda2a3e0249dfd09330dabc3aa20978	Aladdin (USA) (En,Fr,De,Es).gba
 70541c3e9c5d18b151a5d41c79134cc9	Aleck Bordon Adventure - Tower & Shaft Advance (Japan).gba
-e2e9ffe86da23d3cd278d78689bb1fe6	Alex Ferguson's Player Manager 2002 ~ Total Soccer Manager (Europe) (En,Fr,De,Es,It,Nl).gba
 864d9a4e885f1f32a9072a606c739006	Alex Rider - Stormbreaker (Europe) (En,Fr,De,Es).gba
 4b5aee04f0f61c5ef9343524bd2ac1d4	Alex Rider - Stormbreaker (USA).gba
 18ef4ec828a4bf14b6fd241230bb349a	Alien Hominid (Europe) (En,Fr,De,Es,It).gba
@@ -200,14 +208,16 @@ e140b67a8a610be8de419e4146940359	American Idol (USA).gba
 5054b1d5971b01a35e593048f5c43d49	Angel Collection - Mezase! Gakuen no Fashion Leader (Japan).gba
 436325c0208b757b2efd50e894d8d1c7	Angel Collection 2 - Pichimo ni Narou (Japan).gba
 978f10569b0a00b023016fb5f287c0b6	Angelique (Japan).gba
-9d3a663de5228414d7e6cda7244c5d91	Anguna - Warriors of Virtue (World) (Aftermarket) (Homebrew).gba
+4638c9c0c1234d70aeb4f75099b46e47	Anguna - Warriors of Virtue (World) (Patreon) (Aftermarket) (Homebrew).gba
+9d3a663de5228414d7e6cda7244c5d91	Anguna - Warriors of Virtue (World) (v0.95) (Homebrew).gba
 91410132c661fce4074eba939915d543	Animal Mania - Dokidoki Aishou Check (Japan).gba
 59efe4673056b6385379b83883b30e47	Animal Snap - Rescue Them 2 by 2 (Europe).gba
 8a65cc927274981d1b431bc005fe185d	Animal Snap - Rescue Them 2 by 2 (USA).gba
 7c90ce3ef159fd17feca4c0f25de13f2	Animal Yokochou - Doki Doki Kyuushutsu Daisakusen! no Maki (Japan).gba
 5055f42473ed3f2977288181a460b963	Animal Yokochou - Doki Doki Shinkyuu Shiken! no Maki (Japan).gba
 4075c0553f360e180cf9efc899b1d8bc	Animaniacs - Lights, Camera, Action! (Europe) (En,Fr,De,Es,It).gba
-9cef2ca9fba8a4532629f8c7e7c9ddf8	Another World (World) (En,Fr) (Unl).gba
+9cef2ca9fba8a4532629f8c7e7c9ddf8	Another World (Europe) (En,Fr) (v2.1) (Unl).gba
+3b4b6b130e527beffed75f5bfc66552b	Another World (Europe) (Fr) (v1.2) (Unl).gba
 b9d1da4a076ac3ff5f08fc3a2ab76fc9	Ant Bully, The (Europe) (En,Fr,De,Es,It).gba
 3a64d744d25a221e3f10099a5d55f155	Ant Bully, The (USA) (En,Fr).gba
 4f6338b585af7dd74fe5aad98e0ba176	Antz - Extreme Racing (Europe) (En,Fr,De,Es,It,Nl).gba
@@ -240,21 +250,21 @@ a3dd3b98ad5049503af18f80c84731fc	Atomic Betty (USA, Europe).gba
 b295f02a07f00f80669352767242268f	ATV - Quad Power Racing (USA, Europe).gba
 7a0a429dc61a06bbaf62d867910e50cb	ATV - Thunder Ridge Riders (Europe) (En,Fr,De,Es,It).gba
 c741f6e950240d0d66aeb60e81fae12d	ATV - Thunder Ridge Riders (USA).gba
-c19779d04914fae7268bfb8b47b8b048	Avatar - The Last Airbender (USA).gba
 068b542444b3ad28e75be4087a754b58	Avatar - The Last Airbender - The Burning Earth (USA).gba
-ef9198e16c58c4824efae668da1e7040	Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl).gba
+c19779d04914fae7268bfb8b47b8b048	Avatar - The Last Airbender (USA).gba
 50dc6c7ea18f906e0f1edad4dad8b442	Avatar - The Legend of Aang - The Burning Earth (Europe) (En,De).gba
+ef9198e16c58c4824efae668da1e7040	Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl).gba
 8d3004602c8c0cbb734c8aa781c425cd	Aventures de Jackie Chan, Les - La Legende de la Main Noire (France).gba
 34a82a7281e62fdf2051b95dc0df0488	Azumanga Daiou Advance (Japan).gba
 b97c2e5c0d2668ebb244d6afa0b1ad95	B-Densetsu! Battle B-Daman - Fire Spirits! (Japan).gba
 a479748cb20e4ed3d72a829dc5a870fd	B-Densetsu! Battle B-Daman - Moero! B-Damashii!! (Japan).gba
 7f92ca61a904f2902fa44b622ce2601a	Babar to the Rescue (Europe) (En,Fr,De,Da).gba
 91ba6a4571e20dd9c7604d685d134607	Babar to the Rescue (USA) (En,Fr,Es).gba
-51617256ac8453f10b9ed40e22a1aaf6	Back to Stone (Europe) (En,Fr).gba
 6cf0aca170ffe4141657c904f3924b9b	Back to Stone (Europe) (En,Fr,De) (Beta).gba
+51617256ac8453f10b9ed40e22a1aaf6	Back to Stone (Europe) (En,Fr).gba
 adc583b26cef3920fb9ffd152aeb98dd	Back to Stone (USA) (En,Fr).gba
 de6b60ee6f0de4f2f7a7fc7c8f4a1d9e	Back Track (USA, Europe).gba
-d372b41e2de75054dc70e30136e21a89	Backup LIB Sample (Unknown) (v1.04) (Program).gba
+6f2bf0decf2eae0c510ee12e4f3a2b95	Backup LIB Sample (Unknown) (v1.04) (Program).gba
 9512a725efaa6b4fb7c250e493f7850b	Backup Mem. Quick-Copy (Unknown) (v1.04) (Program).gba
 688caad7531ec6956aebbca88f07e857	Backyard Baseball (USA).gba
 4f34ee4d9014cd0b9c6ae52df1f72af2	Backyard Baseball 2006 (USA).gba
@@ -274,9 +284,9 @@ a3add916e37dc978a45853703d67d48d	Bakuten Shoot Beyblade 2002 - Gekisen! Team Bat
 b8151c67817f126b56eca07c0b6aec11	Baldur's Gate - Dark Alliance (Europe) (En,Fr,De,Es,It).gba
 13fd90ae7070ba25c2ce4223b8f51a1e	Baldur's Gate - Dark Alliance (USA).gba
 95abf2bd63a3758b6d86e278ee1fca6e	Ballistic - Ecks vs. Sever (USA).gba
+3b3cdb2583a22769fb80bae6b334dc81	Banjo-Kazooie - Grunty's Revenge (Europe) (Beta 1).gba
+43ccab5d3761e9964500a454fdf6776b	Banjo-Kazooie - Grunty's Revenge (Europe) (Beta 2).gba
 1e32d754b8a874d279086f98cf523dfd	Banjo-Kazooie - Grunty's Revenge (Europe) (En,Fr,De).gba
-3b3cdb2583a22769fb80bae6b334dc81	Banjo-Kazooie - Grunty's Revenge (Europe) (En,Fr,De,Es,It) (Beta 1).gba
-43ccab5d3761e9964500a454fdf6776b	Banjo-Kazooie - Grunty's Revenge (Europe) (En,Fr,De,Es,It) (Beta 2).gba
 4781a8e513de51ab90292c321ac34374	Banjo-Kazooie - Grunty's Revenge (USA, Europe).gba
 288280c929cde064b9363a7ad4548a76	Banjo-Kazooie - La Vendetta di Grunty (Italy).gba
 656b49e4db1a3ad6475b29c347a4fefc	Banjo-Kazooie - La Venganza de Grunty (Spain).gba
@@ -291,12 +301,12 @@ c0f3e785f1d4a48fcb2b945291a033ef	Barbie and the Magic of Pegasus (USA).gba
 fcab58352e45a97a7becbecc948ea076	Barbie as the Island Princess (USA).gba
 8e1c2672225640d441932424b5e11243	Barbie Diaries, The - High School Mystery (Europe).gba
 85bbf8a6f95b9d2d463d0a55f2b69d35	Barbie Diaries, The - High School Mystery (USA).gba
-44c77bcf2a866a1a76cf46bd979b64a4	Barbie Groovy Games (Europe) (En,Fr,De,Es,It).gba
-c1b8fbfc0f67a1f8e0c60543167b7dba	Barbie Groovy Games (USA).gba
-f7960bb4694205288a59556ab82c34e5	Barbie Horse Adventures (Europe) (En,Fr,De,Es,It,Nl).gba
 b0c8edeae511c647f9617b32ddc37594	Barbie Horse Adventures - Blue Ribbon Race (USA).gba
+f7960bb4694205288a59556ab82c34e5	Barbie Horse Adventures (Europe) (En,Fr,De,Es,It,Nl).gba
 11bfeb390128b3fa4af1e92399a9bd3f	Barbie in the 12 Dancing Princesses (Europe) (En,Fr,De,Es,It).gba
 6a06b7c152538ce846fbdf523902a000	Barbie in the 12 Dancing Princesses (USA).gba
+44c77bcf2a866a1a76cf46bd979b64a4	Barbie Software - Groovy Games (Europe) (En,Fr,De,Es,It).gba
+c1b8fbfc0f67a1f8e0c60543167b7dba	Barbie Software - Groovy Games (USA).gba
 f26abd577f7854c5f967ef5f0d1396ad	Barbie Superpack - Secret Agent + Groovy Games (Europe) (En,Fr,De,Es,It).gba
 50552a80c5d80210c941e4ad8230e814	Barbie Superpack - Secret Agent + Groovy Games (USA).gba
 02cae6ad10eb30da0f76cbd8ca994952	Barnyard (Europe) (En,Fr,De,Es,It,Nl).gba
@@ -307,19 +317,19 @@ ba5a3b9eb146dbd9d17b1279957dfd5a	Bass Tsuri Shiyouze! - Tournament wa Senryaku d
 fffe680eff483b4d4366964eb7a150d8	Batman - Vengeance (Europe) (En,Fr,De,Es,It,Nl).gba
 06a6d7cd07281747cfe0300700a960fd	Batman - Vengeance (USA) (En,Fr,Es).gba
 8c48059bf2c40a78b9739edf5ea411cb	Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl).gba
-2b6b408513302519fd0e3fa72a67444b	Battle B-Daman (USA).gba
 e1b689a5776e8e35840e3a676fa11853	Battle B-Daman - Fire Spirits! (USA).gba
-2c473ca8fb6b7a76777029d1eee066fc	Battle Network Rockman EXE (Japan) (Virtual Console).gba
-1e35207a805af5bafde2361df6721c60	Battle Network Rockman EXE (Japan).gba
-4773e33b53acafe58f37c7d095c519fa	Battle Network Rockman EXE 2 (Japan) (Rev 1) (Virtual Console).gba
-ae77f77fe5879abfa3a15d4422dac2db	Battle Network Rockman EXE 2 (Japan) (Rev 1).gba
-5c9a6664da79a4893895fd0c380fd020	Battle Network Rockman EXE 2 (Japan).gba
-0644bdce94af8ec7e33f0aee1830b497	Battle Network Rockman EXE 3 (Japan) (Rev 1) (Virtual Console).gba
-15b8647b2a4e1d62f779703a0a50154a	Battle Network Rockman EXE 3 (Japan) (Rev 1).gba
-ee0b14aab3ce1039857ad005636e07a4	Battle Network Rockman EXE 3 (Japan).gba
-0b57d3560459bd31c60667ad64843343	Battle Network Rockman EXE 3 - Black (Japan) (Promo).gba
-581a071396ac05540d7f25109e711480	Battle Network Rockman EXE 3 - Black (Japan) (Rev 1) (Virtual Console).gba
-ce9f58d790acd6260bd45ca4346fac74	Battle Network Rockman EXE 3 - Black (Japan) (Rev 1).gba
+2b6b408513302519fd0e3fa72a67444b	Battle B-Daman (USA).gba
+2c473ca8fb6b7a76777029d1eee066fc	Battle Network - Rockman EXE (Japan) (Virtual Console).gba
+1e35207a805af5bafde2361df6721c60	Battle Network - Rockman EXE (Japan).gba
+4773e33b53acafe58f37c7d095c519fa	Battle Network - Rockman EXE 2 (Japan) (Rev 1) (Virtual Console).gba
+ae77f77fe5879abfa3a15d4422dac2db	Battle Network - Rockman EXE 2 (Japan) (Rev 1).gba
+5c9a6664da79a4893895fd0c380fd020	Battle Network - Rockman EXE 2 (Japan).gba
+0b57d3560459bd31c60667ad64843343	Battle Network - Rockman EXE 3 - Black (Japan) (Promo).gba
+581a071396ac05540d7f25109e711480	Battle Network - Rockman EXE 3 - Black (Japan) (Rev 1) (Virtual Console).gba
+ce9f58d790acd6260bd45ca4346fac74	Battle Network - Rockman EXE 3 - Black (Japan) (Rev 1).gba
+0644bdce94af8ec7e33f0aee1830b497	Battle Network - Rockman EXE 3 (Japan) (Rev 1) (Virtual Console).gba
+15b8647b2a4e1d62f779703a0a50154a	Battle Network - Rockman EXE 3 (Japan) (Rev 1).gba
+ee0b14aab3ce1039857ad005636e07a4	Battle Network - Rockman EXE 3 (Japan).gba
 8537579863758cead65406c13ab40ec0	Battle X Battle - Kyodai Gyo Densetsu (Japan).gba
 d7897c2530deaa9d6abc224fe9026f50	BattleBots - Beyond the BattleBox (Europe) (En,Fr,De).gba
 4d5bd1475fb898e5be99b85aa45f77fa	BattleBots - Beyond the BattleBox (USA).gba
@@ -343,12 +353,12 @@ f50a0c3fbf3e206528a3e6f99c80820c	Bibi und Tina - Ferien auf dem Martinshof (Germ
 6e39bac68382b18dbfe5c7dd548c9a16	Biene Maja, Die - Klatschmohnwiese in Gefahr (Germany).gba
 34f00ecb5b316478806eeca84cf62e55	Big Mutha Truckers (Europe) (En,Fr,De,Es,It).gba
 f1be09ac4b8d6a9e2c955cab741669ef	Big Mutha Truckers (USA).gba
-2c60af1c2c17377c27b2d9aac79f0cea	Bionicle (Europe) (En,Fr,De,Da).gba
-1934b7380ba91e4966f12c2968451289	Bionicle (USA).gba
 ed573adeab96072232623aa7cff4f077	Bionicle - Matoran Adventures (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba
 3b4b980b9031056501cfbfb7f8064df8	Bionicle - Maze of Shadows (Europe) (En,De) (Rev 1).gba
 8364f53c818449f93687ec490cd90120	Bionicle - Maze of Shadows (Europe) (En,De).gba
 f4f51f42af0fcf96a1c33705f7f5ce08	Bionicle - Maze of Shadows (USA).gba
+2c60af1c2c17377c27b2d9aac79f0cea	Bionicle (Europe) (En,Fr,De,Da).gba
+1934b7380ba91e4966f12c2968451289	Bionicle (USA).gba
 729bf3ff498b73f09885ba38735a2858	Bionicle Heroes (Europe) (En,Fr,De,Es,It,Da).gba
 87d4626c1736b29a0e1f81cb6f3306a6	Bionicle Heroes (USA) (En,Fr,De,Es,It,Da).gba
 2845b893708a6b8705c6f799f45d6eb3	bit Generations - Boundish (Japan) (En).gba
@@ -366,11 +376,12 @@ d0bb79fb5a05702ce8b7d03320fcdf52	Blackthorne (USA).gba
 2164e4c57a166869961fa1b428fd6ded	Blades of Thunder (USA).gba
 a3827342698bd0ff407e2d805bfc27ad	Bleach Advance - Kurenai ni Somaru Soul Society (Japan).gba
 8aa4f88927f3c5bf1aaed1562742a64d	Blender Bros. (USA).gba
+9f6e382bc3600b9a27ba31fabcd78ac3	Blender Bros. (World) (Aftermarket) (Unl).gba
 63233c0e440c0b351ef902bfdbcf7b2e	Blue Angelo - Angels from the Shrine (Europe) (Proto 1).gba
 84fc5415c6a687b656ba79df90cfc6a7	Blue Angelo - Angels from the Shrine (Europe) (Proto 2).gba
 2b9a9998d870afaec5d7b0f1a2a477f4	BMX Trick Racer (USA).gba
-871133b4e4e8b172f7538b0250c9bb45	Board Game Classics (USA).gba
 1da8c2e3f6594c4287770171d145b7d3	Board Game Classics - Backgammon & Chess & Draughts (Europe) (En,Fr,De,Es,It).gba
+871133b4e4e8b172f7538b0250c9bb45	Board Game Classics (USA).gba
 9ef9715f14ae656bbc4a11f5d2cb7480	Boboboubo Boubobo - 9 Kyoku Senshi Gag Yuugou (Japan).gba
 c44fc33a49d116db3ba5248d877a52f5	Boboboubo Boubobo - Bakutou Hajike Taisen (Japan).gba
 6134d1e8b4794e073413657c98f8c82a	Boboboubo Boubobo - Maji de!! Shinken Battle (Japan).gba
@@ -405,8 +416,6 @@ d60c5ace24093283f3dc9c74f3ac2489	Bouken Yuuki Pluster World - Densetsu no Plust 
 8653d5731f4effd21e435b9a274023a4	Boulder Dash EX (USA).gba
 3d7ebddc227ba7f37bb6c3cf473afaf9	Bounty Hunter X (Europe) (Unl).gba
 2a43344ed8e9654f0cc95ce788371ba4	Boxing Fever (USA, Europe).gba
-accb22e06c37f68b55d8fa34853f885b	Bratz (Europe) (En,Fr,De,Es,It).gba
-8b809080a689886e7877ec89eb82ae99	Bratz (USA) (En,Fr,Es).gba
 a7b49de9ab6230d8077bbef4d906497b	Bratz - Babyz (Europe) (En,Es,It).gba
 33492e64f810fb02f6dff879b8e0182b	Bratz - Babyz (USA).gba
 016fe71584c04d4b8725aafd3cbdac9c	Bratz - Forever Diamondz (Europe) (En,Fr,Es,It).gba
@@ -420,13 +429,15 @@ bf585f54686e2b5f55d97d624a8a3e28	Bratz - The Movie (Europe) (Es,It).gba
 e192f69d5fe9098cc0ee4f85aeedb4eb	Bratz - The Movie (Europe).gba
 794c177c712c030bce32a85dda73cb36	Bratz - The Movie (Germany).gba
 33de786f427b47750aaed814c761c5b9	Bratz - The Movie (USA).gba
+accb22e06c37f68b55d8fa34853f885b	Bratz (Europe) (En,Fr,De,Es,It).gba
+8b809080a689886e7877ec89eb82ae99	Bratz (USA) (En,Fr,Es).gba
+15de8e3ed041332e0529c0b884d42d42	Breath of Fire - Ryuu no Senshi (Japan).gba
 a413cf9036c03eac937539a255ac6949	Breath of Fire (Europe) (En,Fr,De).gba
 1cb94e81dd0168c33e0eb8b070fddb6e	Breath of Fire (Europe).gba
 17a32cfa3d0a5c74f914281ef55c75cd	Breath of Fire (USA).gba
-15de8e3ed041332e0529c0b884d42d42	Breath of Fire - Ryuu no Senshi (Japan).gba
+45fb38af8d17edd3bd14171d5fe3ab0e	Breath of Fire II - Shimei no Ko (Japan).gba
 433ce4c6d525c74e3e60cdc197f6abfb	Breath of Fire II (Europe).gba
 2132b06357239d4e6a0716d963f46597	Breath of Fire II (USA).gba
-45fb38af8d17edd3bd14171d5fe3ab0e	Breath of Fire II - Shimei no Ko (Japan).gba
 9c6a3c4c14ff9d8ca6df08f3f251c63f	Britney's Dance Beat (Europe) (En,De).gba
 b9434c3f72e6e0d1b79eb7ab65634840	Britney's Dance Beat (Europe) (En,Fr).gba
 dcaf52240df58d7f9d6be95e918c7bb3	Britney's Dance Beat (Europe).gba
@@ -451,9 +462,9 @@ cb6451eb458a51ac7d1757d2f419dd3c	Bura Bura Donkey (Japan).gba
 37b681295390ef9f55ee3222c761c4c3	Butt-Ugly Martians - B.K.M. Battles (USA).gba
 25998f81ba65037dcde78250b7d2c28b	Cabbage Patch Kids - The Patch Puppy Rescue (Europe).gba
 f05560ae14f622de028308b372ab2fe3	Cabbage Patch Kids - The Patch Puppy Rescue (USA).gba
-b0a0c0fd729544c7fd786a6a4d4b419f	Cabela's Big Game Hunter (USA).gba
 d569ea9204f4683592ed49e47f6f9568	Cabela's Big Game Hunter - 2005 Adventures (USA, Europe).gba
-fb6512463e361b4a79bb4f62bfca86fd	Caesars Palace Advance - Millennium Gold Edition (USA) (Beta).gba
+b0a0c0fd729544c7fd786a6a4d4b419f	Cabela's Big Game Hunter (USA).gba
+fb6512463e361b4a79bb4f62bfca86fd	Caesars Palace Advance - Millennium Gold Edition (USA, Europe) (Beta).gba
 ce1b62b6673b0e4338fda5bcdd1e2366	Caesars Palace Advance - Millennium Gold Edition (USA, Europe).gba
 5c1230403a28121a7235d3cda810e96a	Calciobit (Japan).gba
 28a966d194d788bf9ef4b5751ceee872	Camp Lazlo - Leaky Lake Games (Europe).gba
@@ -467,25 +478,22 @@ b44aacbfe0a64d73b466f8f7bcca4577	Card e-Reader (Japan).gba
 0ab2602d06da0ee5d87ac319495a78f2	Cardcaptor Sakura - Sakura Card de Mini Game (Japan).gba
 80e5dcfab9437202bb6e745095e78c95	Cardcaptor Sakura - Sakura Card Hen - Sakura to Card to Otomodachi (Japan) (Rev 1).gba
 0a05b2762f053783d9e1d20ed10a6b4a	Cardcaptor Sakura - Sakura Card Hen - Sakura to Card to Otomodachi (Japan).gba
-ed307f6ea37b57eae6e7d32b76fddf7d	Care Bears - The Care Quests (Europe) (En,Fr,De,Es,It,Nl,Pt,Da).gba
-10d14cbd9d43d2c4d59da9a7ee64ba95	Care Bears - The Care Quests (USA) (En,Fr,Es).gba
+ed307f6ea37b57eae6e7d32b76fddf7d	Care Bears - The Care Quest (Europe) (En,Fr,De,Es,It,Nl,Pt,Da).gba
+10d14cbd9d43d2c4d59da9a7ee64ba95	Care Bears - The Care Quest (USA) (En,Fr,Es).gba
 d62d4e34e5db75a4b44db96752cc2f69	Carrera Power Slide (Europe) (En,Fr,De,Es,It,Nl).gba
+aaa5acb5b94fccc8f3de8fef3f1a22cb	Cars - Mater-National Championship (Europe) (En,Fr,De,Es,It,Nl).gba
+a9ed5e9ce8b27136133af666474fd42d	Cars - Mater-National Championship (USA) (En,Fr).gba
+7dde4a9d879bad9a898a3e32903d406c	Cars - Motori Ruggenti (Italy).gba
 0e9df95d854d56a7bed63b79bab40bc1	Cars (Europe) (Es,Pt).gba
 94cda1aa3381f457186908ac3fe82f24	Cars (Europe) (Fr,Nl).gba
 99581023cbb348a577d461e328646218	Cars (Europe) (Sv,No,Da,Fi).gba
 7031e05fea8257a2658683436b0e3db1	Cars (Germany).gba
 2dd75f1b7e8095ab41918fccdd64e1ae	Cars (Japan).gba
 214047ac78c08eb59e256f54df9522f2	Cars (USA, Europe).gba
-aaa5acb5b94fccc8f3de8fef3f1a22cb	Cars - Mater-National Championship (Europe) (En,Fr,De,Es,It,Nl).gba
-a9ed5e9ce8b27136133af666474fd42d	Cars - Mater-National Championship (USA) (En,Fr).gba
-7dde4a9d879bad9a898a3e32903d406c	Cars - Motori Ruggenti (Italy).gba
 fc244be5e2a8b811ea2b2e0101d64a6e	Cartoon Network Block Party (USA).gba
 b3f65540eea88983c63e454b34d3028e	Cartoon Network Speedway (USA).gba
 3bc985416f6229eb8c51457c51a64f6d	Casper (Europe) (En,Fr,De,Es,It,Nl,Pt).gba
 a6c803e0887f46db78bdf095628ed7de	Casper (USA) (En,Fr,Es).gba
-4081d5667d931445a0a26153100e9fc3	Castlevania (Europe) (Castlevania Advance Collection).gba
-4da06e60c419238f114ca2c632a094c5	Castlevania (Europe) (Virtual Console).gba
-b7b0e7a5f8e8bd22ac9f5766d1acef56	Castlevania (Europe).gba
 784b6d3c7eeb2c98078f5b7d7d637f75	Castlevania - Akatsuki no Minuet (Japan) (Castlevania Advance Collection).gba
 a7f1f118df6437e4dc1d2906dbb2109b	Castlevania - Akatsuki no Minuet (Japan) (Virtual Console).gba
 146ae198a3d42a66733b9e0ef3ec11eb	Castlevania - Akatsuki no Minuet (Japan).gba
@@ -504,6 +512,9 @@ cade47def03ad1cc02a1bd97b5ea4e9f	Castlevania - Byakuya no Concerto (Japan).gba
 e619f9dcd7ef3d4c6851834018b139bd	Castlevania - Harmony of Dissonance (Europe).gba
 35db4a2bacdec253672db68e73a41005	Castlevania - Harmony of Dissonance (USA) (Castlevania Advance Collection).gba
 ea589465486d15e91ba94165c8024b55	Castlevania - Harmony of Dissonance (USA).gba
+4081d5667d931445a0a26153100e9fc3	Castlevania (Europe) (Castlevania Advance Collection).gba
+4da06e60c419238f114ca2c632a094c5	Castlevania (Europe) (Virtual Console).gba
+b7b0e7a5f8e8bd22ac9f5766d1acef56	Castlevania (Europe).gba
 c9f99ccdf29fe8f9b5dc52c3a84e95a3	Castlevania Double Pack (Europe) (En,Fr,De).gba
 90d5887eaefd16478525478410155dec	Castlevania Double Pack (USA).gba
 f146baf10cf767d2313c4da94a5845eb	Castleween (Europe) (En,Fr,De,Es,It).gba
@@ -512,9 +523,9 @@ adf1ac69caf510176ee1028ecf6f7adf	Cat in the Hat, The (USA).gba
 041cd0228e12f003f9736fdad77cdbf0	Catwoman (USA, Europe) (En,Fr,De,Es,It,Nl).gba
 bd3938f9273373f99967ff831f9c86d6	Catz (Europe) (En,Fr,De,It).gba
 1851c34d41025d541b6ad76b9146cc6b	Catz (USA, Europe).gba
-d5b7c99707098401f12f6e4dfac87c9f	Celeste Classic (World) (v1.0) (Aftermarket) (Homebrew).gba
-3018514472c092f0603c4a77d3918304	Celeste Classic (World) (v1.1) (Aftermarket) (Homebrew).gba
-9bcd687293600451abdd0f181b2427e8	Celeste Classic (World) (v1.2) (Aftermarket) (Homebrew).gba
+d5b7c99707098401f12f6e4dfac87c9f	Celeste Classic (World) (v1.0) (Homebrew).gba
+3018514472c092f0603c4a77d3918304	Celeste Classic (World) (v1.1) (Homebrew).gba
+9bcd687293600451abdd0f181b2427e8	Celeste Classic (World) (v1.2) (Homebrew).gba
 a2589a40c3f92a539969124cecc9b828	Chaoji Maliou 2 (China).gba
 a6e8aa4c79ad8c68922c749ab7de7829	Chaoji Maliou DX (Taiwan) (Unl).gba
 96dbd1bef3587b60b612f0d30fc94415	Chaoji Maliou Shijie (China).gba
@@ -580,11 +591,11 @@ d96e8659db64595a5ee7234145ebdc66	Columns Crown (Europe).gba
 e0f566030c5ad91a20210476cd521d4e	Combo Pack - Sonic Advance + Sonic Pinball Party (USA) (En,Ja,Fr,De,Es+En,Ja,Fr,De,Es,It).gba
 f586b690746adce9fcaaef9d3d081117	Comix Zone (Europe) (En,Fr,De,Es,It).gba
 03c4c5409d77c03a5e35a8adaff70158	Commandos 2 (Japan) (Proto) (2002-11-28).gba
-7335165118ee0eb99c3a911bd2f73ce3	Contra Advance (USA) (Beta).gba
 3700b0ed17c59b333b19d2fbc7d37ef9	Contra Advance - The Alien Wars EX (Europe) (Virtual Console).gba
 7b279ff2f8f00274542386674384b1fc	Contra Advance - The Alien Wars EX (Europe).gba
 afa41ce5b29fae6464ca878691edb46b	Contra Advance - The Alien Wars EX (USA) (Virtual Console).gba
 78672ead9f35f00e467f8c7d308acdfc	Contra Advance - The Alien Wars EX (USA).gba
+7335165118ee0eb99c3a911bd2f73ce3	Contra Advance (USA) (Beta).gba
 f1d525b5a2f0d14e90c494317be072c7	Contra Hard Spirits (Japan) (En) (Virtual Console).gba
 d3f866c892022ec6fa89b4dbdbcb0efa	Contra Hard Spirits (Japan) (En).gba
 5e5295484bb4cff6c487ae06fa4c4c69	Corvette (USA) (En,Fr,De,Es,It).gba
@@ -598,8 +609,8 @@ b8dbbb2938a8dbf2b434ba4963e2b35e	Crash Advance IV (USA) (Unl).gba
 32d74527bfe723470c2c5406c325fb59	Crash Bandicoot - The Huge Adventure (USA).gba
 03beecd053b2ddf56341a6a981c561fc	Crash Bandicoot 2 - N-Tranced (Europe) (En,Fr,De,Es,It,Nl).gba
 617b2b2590e2925228dbdb162b05d6f6	Crash Bandicoot 2 - N-Tranced (USA).gba
-b7f7cbc994934461db0a94cb8b752873	Crash Bandicoot Advance (Japan).gba
 9cc426f1ccbb18f1e156f6f9ee28d2fc	Crash Bandicoot Advance - Wakuwaku Tomodachi Daisakusen! (Japan).gba
+b7f7cbc994934461db0a94cb8b752873	Crash Bandicoot Advance (Japan).gba
 3b11e4cef56904bbd309690a3ca4f79f	Crash Bandicoot Advance 2 - Guruguru Saimin Dai-panic! (Japan).gba
 10e701d275bb9b34b4c451bf8a611495	Crash Bandicoot Bakusou! Nitro Cart (Japan).gba
 15e37fb594c2dfe85b8b7ba3b7e565bd	Crash Bandicoot Fusion (Europe) (En,Fr,De,Es,It).gba
@@ -613,13 +624,13 @@ fdef312709444d6d901b8b7c619f5913	Crash of the Titans (USA) (En,Fr).gba
 3638075a07ad63a813dea97e6ad16d2c	Crash Superpack - Crash Bandicoot 2 - N-Tranced + Crash Nitro Kart (USA).gba
 e3b402ef6b72847594bce110fefa4139	Crayon Shin-chan - Arashi o Yobu Cinemaland no Daibouken! (Japan).gba
 7199c3bc2cc2d685ad7ecd9447e6d75f	Crayon Shin-chan - Densetsu o Yobu Omake no Miyako Shockgaan! (Japan).gba
-7fc96f1c2565f244c7dd561b6cbe43bf	Crazy Chase (Europe) (Beta).gba
 2670653630214cf574b16ed8a7c9ea9e	Crazy Chase (Europe) (En,Fr,De) (Beta).gba
 0a9938a6bb7b657a1fb2588b91900122	Crazy Chase (Europe) (En,Fr,De).gba
+7fc96f1c2565f244c7dd561b6cbe43bf	Crazy Chase (USA) (Beta).gba
 44a36f758c4328aa0ffc91ec118cf28d	Crazy Chase (USA).gba
 f341bab11f2bfd79b995554d40a61cba	Crazy Frog Racer (Europe) (En,Fr,De,Nl).gba
-77b95f886779b5c82c726679c498ce09	Crazy Taxi - Catch a Ride (Europe) (En,Fr,De,Es) (Beta).gba
 603470cb171bc53491b0a8643f1302ef	Crazy Taxi - Catch a Ride (Europe) (En,Fr,De,Es,It).gba
+77b95f886779b5c82c726679c498ce09	Crazy Taxi - Catch a Ride (Europe) (En,Fr,De,Es) (Beta).gba
 8bcf4e0da6be539f2099c683ff897b43	Crazy Taxi - Catch a Ride (USA).gba
 400ead5c0c15be96de3ebacda5eedda7	Creatures (Europe) (En,Es,It).gba
 63afe31b245c10c69e794e2a1d41366b	Creatures (Europe) (En,Fr,De).gba
@@ -631,21 +642,22 @@ e799d636498defe6ec44ed038193f366	Croket! Great - Toki no Boukensha (Japan).gba
 7df46d6dc76d9d84dbed120655d5f69e	Crouching Tiger, Hidden Dragon (Europe) (En,Fr,De,Es,It).gba
 6cb4dc8b610a4238a159a7037185540d	Crouching Tiger, Hidden Dragon (USA) (Beta).gba
 109b5dab2c9472d26e9b68cabfac0d4f	Crouching Tiger, Hidden Dragon (USA) (En,Fr,Es).gba
-6a0d1dd9bc181792f61f7c92262392c4	Cruis'n Velocity (USA) (Beta).gba
+6a0d1dd9bc181792f61f7c92262392c4	Cruis'n Velocity (USA, Europe) (Beta).gba
 987308f23cea98609a77629cc1bfb23a	Cruis'n Velocity (USA, Europe).gba
 09daae27c8d72f04ac2ea12d8a9cc89d	Crushed Baseball (USA).gba
+b2e1c0de1d83068b2daa90efc543bd29	CT Special Forces - Back to Hell (Europe) (En,Fr,De,Es,It,Nl).gba
 6dbd1f78af20f0034a05c396db83b86f	CT Special Forces (Europe) (En,Fr,De,Es,It,Nl) (Beta).gba
 81a78ebff4713c80857482ac6956f52f	CT Special Forces (Europe) (En,Fr,De,Es,It,Nl).gba
 bb8477087e3d927af99cd3263c66f7cf	CT Special Forces (USA) (En,Fr,De,Es,It,Nl).gba
-b2e1c0de1d83068b2daa90efc543bd29	CT Special Forces - Back to Hell (Europe) (En,Fr,De,Es,It,Nl).gba
-542c75b45890dca1f893a1f400b9824f	CT Special Forces - Bioterror (Europe) (En,Fr,De,Es,It,Nl).gba
 a827b6305c196589c0fa6ed2f9ec0e3b	CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl).gba
+542c75b45890dca1f893a1f400b9824f	CT Special Forces 3 - Bioterror (Europe) (En,Fr,De,Es,It,Nl).gba
 4a5a274a7c2514b21ebb43b2ceade091	Cubix - Robots for Everyone - Clash 'N Bash (USA).gba
 1f49d24ac42d1697a55a45a145b1dd39	Curious George (Europe) (En,Fr,De,Es,It,Sv,Da).gba
 b70a1cfd17b2194ad99b2abf558aadf2	Curious George (USA).gba
 ae35fb67a74c92a3f063408fd0bc4a29	Custom Robo GX (Japan).gba
 a267752542eea07127e53d6179db760d	Cyberdrive Zoids - Kijuu no Senshi Hyuu (Japan).gba
 30a4cd474af1b4b156dbee4cfeb4c0d3	Dai-mahjong. (Japan).gba
+f64db3c21b555235087ace7755f76c48	Daigassou! Band-Brothers - Request Selection (Japan) (DS Expansion Cartridge).gba
 47433c75ddd92985b8807002136e8e9d	Daisenryaku for Game Boy Advance (Japan).gba
 9636918db9f7489630bb8bff049f8ae3	Daisuki Teddy (Japan).gba
 5b3dc1a03011107cceccd102305d9083	Dan Doh!! Tobase Shouri no Smile Shot (Japan).gba
@@ -674,8 +686,8 @@ c66c7460875f2d6a42bd441dd8ed1f56	Davis Cup (USA) (En,Fr,De,Es,It).gba
 f22ca50c999fddb4feef6bcb32b9d94a	Dead to Rights (USA).gba
 3db6fe46ecc0f553ee9bcf9ed3eadb10	Deadly Skies (Europe) (En,Ja,Fr,De).gba
 7618d824c146a521ecaad69d4b8443ea	Deal or No Deal (USA).gba
-3ecb36c34b0a441bad7a628760575e0c	Defender (USA).gba
 60beefde1c43e81c95cc30c20d1e85c0	Defender - For All Mankind (Europe) (En,Fr,De,Es,It).gba
+3ecb36c34b0a441bad7a628760575e0c	Defender (USA).gba
 a6fe988a31724789a21bae6b65cd79b2	Defender of the Crown (Europe).gba
 7ba10bec1582dc62d0a1ac742af9ab7b	Defender of the Crown (USA).gba
 4a28daa8f0c619ad90ca97b3b941353d	DemiKids - Dark Version (USA).gba
@@ -718,9 +730,9 @@ bc1769f39636fca6e05efdf0b2431b35	Digimon Racing (Japan).gba
 bab43e61606514080129a179e931b2b6	Dinotopia - The Timestone Pirates (USA, Europe) (En,Fr,De,Es,It,Nl).gba
 2d88089549889aedec24798ca27a1528	Disney Cart (USA) (Unl) [b].gba
 282f4032daee65c2cbf421ece93e4a41	Disney Princesas (Spain).gba
-434af1b315a2a337313ac82c3de078ff	Disney Princess (USA, Europe).gba
 669fbbd100f67d864a2028be1217719d	Disney Princess - Royal Adventure (Europe) (En,Fr,De).gba
 76cdc3ec8b886f378ebc6de368399220	Disney Princess - Royal Adventure (USA).gba
+434af1b315a2a337313ac82c3de078ff	Disney Princess (USA, Europe).gba
 bbb91114b96a3b57bf40b15edfc12187	Disney Princesse (France).gba
 1cd1d918e2730ac739bf2bcf14373382	Disney Principesse (Italy).gba
 e6985222b701bd435ddb0a30e7fc4fb9	Disney Sports - American Football (Japan).gba
@@ -746,12 +758,14 @@ f575c8c844ae2ffad9adc7f91c886d54	Disneys Prinzessinnen (Germany).gba
 1d8b145985bb38f9de77405c9f1fa60b	DK - King of Swing (Europe) (En,Fr,De,Es,It).gba
 90d814291cc18d1e9e07378c42d67c2d	DK - King of Swing (USA) (Demo) (Kiosk).gba
 054223e916f9a4f543812ae795145cb5	DK - King of Swing (USA).gba
+68101b735cdaf42c9eb51118b7f0d339	Dog Trainer (Europe) (DS Cheat Cartridge) (Unl).gba
+6c03328f60bebf5b8444558c45a6eec3	Dog Trainer 2 (Europe) (DS Cheat Cartridge) (Unl).gba
+c3ad9a91e86b6195451fa0fcf695fb79	Dogz - Fashion (Europe).gba
+6c4adc19a909f934c7c01c4f889a12d9	Dogz - Fashion (USA).gba
 d97380d2fc4230738bf6f6080c577b94	Dogz (Europe) (En,Fr,De,It).gba
 75ec8b0b1bc187f559b3571a0f0dfa4d	Dogz (Europe).gba
 2a04b5eab350d2863809b3b516210d41	Dogz (France).gba
 3981044ebb25a3db6b6f5da9725e4f4e	Dogz (USA).gba
-c3ad9a91e86b6195451fa0fcf695fb79	Dogz - Fashion (Europe).gba
-6c4adc19a909f934c7c01c4f889a12d9	Dogz - Fashion (USA).gba
 839f44aec4456b2be03a1bdec90ae7f7	Dogz 2 (Europe) (En,Fr,De,It).gba
 fa99e7be703b7f204c33ab8ea7a69e67	Dogz 2 (Europe).gba
 426a1353d8ec1d3f2e11f1f0ee943fdc	Dogz 2 (USA) (Rev 1).gba
@@ -776,6 +790,7 @@ a1f160ee30ed36edea341a6f1c6a4efc	Donkey Kong Country 2 (USA).gba
 d7f41d490bcb72f0711b070de85a8c8b	Donkey Kong Country 3 (Europe) (En,Fr,De,Es,It).gba
 132ac906d53969643a2a117425a7bcb5	Donkey Kong Country 3 (USA) (Beta) (2005-05-06).gba
 f577a97d679e669f8063910eb060e864	Donkey Kong Country 3 (USA).gba
+55666fb3c6b7ef0c4a2ec3f77969110c	Donsol (World) (Unl).gba
 a4078f38dbb47ab22a9c74b725f3e481	Doom (USA, Europe).gba
 3df76eb314f21144d2d68758c11dea5f	Doom II (Europe).gba
 efefee9082a83fc6e49f87510746eac0	Doom II (USA).gba
@@ -853,7 +868,6 @@ d41cff4cf06a89d9a79df9e47f192d20	Droopy's Tennis Open (Europe) (En,Fr,De,Es,It,N
 ce3627afe4eda2a1c5e4674939e5f041	Droopy's Tennis Open (Europe) (En,Fr,De,Es,It,Nl).gba
 6f152b5eb5292f837b2d75b101ee9d55	Dual Blades (Japan).gba
 efa8473a8125181965f08156c95cc6bb	Dual Blades (USA).gba
-8158ab44dd56ea9fe8f1f1a582467e74	Duel Masters (Japan).gba
 d65302dfe91452a9dc01be44a8e55f98	Duel Masters - Kaijudo Showdown (Europe) (En,Fr,De,Es,It) (Beta).gba
 8d51b71a3ae3d1646c368725abd0b1ed	Duel Masters - Kaijudo Showdown (Europe) (En,Fr,De,Es,It).gba
 02f23bf2f90126574bc0de0752bed485	Duel Masters - Kaijudo Showdown (USA).gba
@@ -862,6 +876,7 @@ f453b825391590c47f4db6504d8f99e5	Duel Masters - Sempai Legends (Europe) (En,Fr,D
 2adeb64ff470fb08a472f3cb6f5d7d44	Duel Masters - Sempai Legends (USA).gba
 23aac6d60e04eef54cec26066fa2d4c3	Duel Masters - Shadow of the Code (Europe) (En,Fr,De,Es,It).gba
 7e4b22c8a115d33a30a3e130884cde5d	Duel Masters - Shadow of the Code (USA).gba
+8158ab44dd56ea9fe8f1f1a582467e74	Duel Masters (Japan).gba
 1f739df174644981268f67efbca5dab8	Duel Masters 2 - Invincible Advance (Japan).gba
 40124ea3efa3dbffe94ba752121375e1	Duel Masters 2 - Kirifuda Shoubu Ver. (Japan).gba
 9f06bd310c8d20249b745e38104067d9	Duel Masters 3 (Japan) (Rev 1).gba
@@ -887,8 +902,8 @@ e94540fb5d5e27d7a33c50076bd7628a	Ed, Edd n Eddy - Jawbreakers! (USA) (Rev 1).gba
 9e3c1af23ea83cc4852c632525bea1c5	Ed, Edd n Eddy - Jawbreakers! (USA).gba
 9ac5ddef9be27d933d366e224fba4163	Ed, Edd n Eddy - The Mis-Edventures (Europe) (En,Fr).gba
 0886eee57b5f9e97d2981a00134fd641	Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr).gba
-3b58275a454884b6fa70fa007544c998	Egg Mania (USA) (En,Fr,Es).gba
 5b2c0b980e224fef620f02437f3c9ff0	Egg Mania - Tsukande! Mawashite! Dossun Puzzle!! (Japan).gba
+3b58275a454884b6fa70fa007544c998	Egg Mania (USA) (En,Fr,Es).gba
 e8fb25970f5634b9b159edef8c719090	Eggo Mania (Europe) (En,Fr,De,Es,It,Nl) (Beta).gba
 882e200550d6addafdc0f9aa2b03deb1	Eggo Mania (Europe) (En,Fr,De,Es,It,Nl).gba
 f65e87d6867d2ae8561ffcd1ab9ed57b	Elemix! (Japan).gba
@@ -922,8 +937,8 @@ bef73fc45c449c4940c14767b0926264	Exciting Bass (Japan).gba
 8cbbfc4bac6a08f33e91d7cd6408a660	Extreme Ghostbusters - Code Ecto-1 (Europe) (En,Fr,De,Es,It,Pt).gba
 ca03360842a7c269f9a46de25d5e779f	Extreme Ghostbusters - Code Ecto-1 (USA).gba
 f2b1c6f30bd79859dc75ac2c8abee538	Extreme Skate Adventure (Europe) (Fr,De).gba
-4e4a6a088e9506b3535acde4a9f9e17d	Extreme Skate Adventure (USA) (Rev 1).gba
 08d2fe71572e3537f2e7d7c08dab5707	Extreme Skate Adventure (USA, Europe).gba
+4e4a6a088e9506b3535acde4a9f9e17d	Extreme Skate Adventure (USA) (Rev 1).gba
 0260c5c32bec282426882f5c127ed781	Eyeshield 21 - DevilBats DevilDays (Japan).gba
 6519cd2a2a4a4b35104502c3243279b2	EZ-Talk - Shokyuu Hen 1 (Japan).gba
 371e238e0398877bd758cc4cd4499ad0	EZ-Talk - Shokyuu Hen 2 (Japan).gba
@@ -993,16 +1008,16 @@ fda461b129b3630e13a9173a4ed5fd88	Famille Delajungle, La - Le Film (France).gba
 f5bdbf35d4ad87fae71ec94bb77c7a49	Famista Advance (Japan).gba
 669c6124171c3dd81b5663fecae2376c	Fancy Pocket (Japan).gba
 70a33b660d40faeb7b43766cea189030	Fanqiejiang Wangguo Da Maoxian (China) (Proto).gba
+2a48cfc3bf07c4f64cd267489d46dca8	Fantastic 4 - Flame On (Europe) (En,Fr,Es,It).gba
+098752d6f195ab8c34e0eebad3a0a779	Fantastic 4 - Flame On (USA).gba
 d5c9b6657e5d9fed85e5d25b79acb3de	Fantastic 4 (Europe) (Fr,De,Es,Nl).gba
 9cf2886c15142660da7f70954b182f1f	Fantastic 4 (Europe).gba
 04105c845973df1d717b2487227f0fb0	Fantastic 4 (USA).gba
-2a48cfc3bf07c4f64cd267489d46dca8	Fantastic 4 - Flame On (Europe) (En,Fr,Es,It).gba
-098752d6f195ab8c34e0eebad3a0a779	Fantastic 4 - Flame On (USA).gba
 43265d5f7709133927133a331b55c61b	Fantastic Children (Japan).gba
-5ac646626d2d311aeb585bf0dfd9fd91	Fantastic Maerchen - Cake-ya-san Monogatari (Japan).gba
+5ac646626d2d311aeb585bf0dfd9fd91	Fantastic Maerchen - Cake-ya-san Monogatari + Doubutsu Chara Navi Uranai - Kosei Shinri Gaku (Japan).gba
 5fcadb94eeb7dd0b0ba775d9cff2c886	Fantastici 4, I (Italy).gba
 8f57159b2046dc687bce6fef836cbd61	Farbe (Germany) (En) (Proto) (Test Program).gba
-63bc29511f80b9ea2e5cd6daa9e76970	Fear Factor Unleashed (USA).gba
+63bc29511f80b9ea2e5cd6daa9e76970	Fear Factor - Unleashed (USA).gba
 8aabd68732a738c01a07ae606e0eb3b6	Field of Nine - Digital Edition 2001 (Japan).gba
 13682a498effaef25aaaad9ac02cb4c0	FIFA Soccer 06 (USA, Europe) (En,Fr,De,Es,It,Nl).gba
 bf4a0f61e2e78a120ba1edd4cfa6a101	FIFA Soccer 07 (USA, Europe) (En,Fr,De,Es).gba
@@ -1044,21 +1059,15 @@ c6af74aeeabfd6d7ee2875e355f49af2	Final Fight One (USA).gba
 c4777d142e1a0427fb78b5167497d471	Final Fire Pro Wrestling - Yume no Dantai Unei! (Japan).gba
 03e4df3b3506eee9173dffd6e5db4fce	Findet Nemo (Germany) (Beta).gba
 c7262e8c52597d29c8858c1ea1eb0161	Findet Nemo (Germany).gba
-b7a094f8568555602158dcee3750179f	Finding Nemo (Europe) (Es,It).gba
-4c863f423cd8052bb3d780da001745b0	Finding Nemo (Europe) (Fr,Nl).gba
-c5ec72000373809a4d43bfee2911745f	Finding Nemo (Japan).gba
-c824e72aa57e94eea86343e107b0dca2	Finding Nemo (USA, Europe).gba
 4e17057f495446ea4ae146405a957309	Finding Nemo - Aratanaru Bouken (Japan).gba
 89c2af08fb993266d8cd79af28aabce2	Finding Nemo - The Continuing Adventures (Europe) (En,Es,It,Sv,Da).gba
 b7685a523a772e659d992e071aa2cd1e	Finding Nemo - The Continuing Adventures (Europe) (Fr,De,Nl).gba
 68500bcbb838a9d361272f34fa20ce1a	Finding Nemo - The Continuing Adventures (USA, Europe).gba
+b7a094f8568555602158dcee3750179f	Finding Nemo (Europe) (Es,It).gba
+4c863f423cd8052bb3d780da001745b0	Finding Nemo (Europe) (Fr,Nl).gba
+c5ec72000373809a4d43bfee2911745f	Finding Nemo (Japan).gba
+c824e72aa57e94eea86343e107b0dca2	Finding Nemo (USA, Europe).gba
 8e501d5abf552c71851b535f451ee663	Fire Eaters - Zero Bandits (Europe) (Demo).gba
-c69cdec6c30685b9ed3a91fe7aa84d8e	Fire Emblem (Europe) (En,Es,It) (Virtual Console).gba
-34b91944c89770903b4d04d40e3e8512	Fire Emblem (Europe) (En,Es,It).gba
-e196292ab09ed4c6f0b1e394d38cdaeb	Fire Emblem (Europe) (En,Fr,De) (Virtual Console).gba
-7b7a43f3ac4a3facc65aa6b616c0b887	Fire Emblem (Europe) (En,Fr,De).gba
-4a56abd9722a5767b493b7e9bdb45c28	Fire Emblem (USA) (Virtual Console).gba
-f1a1b9742fcd467a531dd4314c4e7d19	Fire Emblem (USA, Australia).gba
 319ae22870572aed14a1d7861e1c025f	Fire Emblem - Fuuin no Tsurugi (Japan) (Virtual Console).gba
 8643fe7632d4895dcaaca230475e70fb	Fire Emblem - Fuuin no Tsurugi (Japan).gba
 d9449bc62cc7cfffe5ca75de8beb27f4	Fire Emblem - Rekka no Ken (Japan) (Beta) (2003-02-06).gba
@@ -1070,8 +1079,14 @@ dc3829497236a88a3595561440230354	Fire Emblem - Rekka no Ken (Japan) (Virtual Con
 607e314dbe861a2dbe444052ba32c4b5	Fire Emblem - Seima no Kouseki (Japan).gba
 e80a4cbcfdf598b7efcf80be26c55f56	Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It) (Virtual Console).gba
 8f0dad780f01ce002331693f4733f27e	Fire Emblem - The Sacred Stones (Europe) (En,Fr,De,Es,It).gba
-84c0b60d9fb6c9d94e057a0f67c31cf6	Fire Emblem - The Sacred Stones (USA) (Virtual Console).gba
 005531fef9efbb642095fb8f64645236	Fire Emblem - The Sacred Stones (USA, Australia).gba
+84c0b60d9fb6c9d94e057a0f67c31cf6	Fire Emblem - The Sacred Stones (USA) (Virtual Console).gba
+c69cdec6c30685b9ed3a91fe7aa84d8e	Fire Emblem (Europe) (En,Es,It) (Virtual Console).gba
+34b91944c89770903b4d04d40e3e8512	Fire Emblem (Europe) (En,Es,It).gba
+e196292ab09ed4c6f0b1e394d38cdaeb	Fire Emblem (Europe) (En,Fr,De) (Virtual Console).gba
+7b7a43f3ac4a3facc65aa6b616c0b887	Fire Emblem (Europe) (En,Fr,De).gba
+f1a1b9742fcd467a531dd4314c4e7d19	Fire Emblem (USA, Australia).gba
+4a56abd9722a5767b493b7e9bdb45c28	Fire Emblem (USA) (Virtual Console).gba
 aacbdc2916c5941607b0b2d6d68512ed	Fire Pro Wrestling (USA, Europe).gba
 ae34e324b26f0d693ee73f6a4b8b995e	Fire Pro Wrestling 2 (USA).gba
 feec220b3324ec3bf48a6902a83b7206	Fire Pro Wrestling A (Japan).gba
@@ -1181,17 +1196,17 @@ fb0b9d0db44ec7de4a534c2849f8b756	Godzilla - Domination! (USA).gba
 842f50e8321d16d33566839d76635448	Goemon - New Age Shutsudou! (Japan).gba
 f05f356facb38a1c330fa3d80ff3bd28	Gojira - Kaijuu Dairantou Advance (Japan).gba
 4df2176d0f881b309b9077d18a422f00	Golden Nugget Casino (USA, Europe).gba
-6540572ab503358a399861c909ee2012	Golden Sun (France).gba
-da69e10feb7472cdfa7ed76f8183b6bd	Golden Sun (Germany).gba
-3210f30e13b7bf65d4e5ab42235ad663	Golden Sun (Italy).gba
-53d97150443e4449dc1959da641d1a8e	Golden Sun (Spain).gba
-1cdd7f33c9a27061201e1d1ce029a700	Golden Sun (USA, Europe).gba
 8b0fe9b5156781d1686b0add2a31b9b3	Golden Sun - Die Vergessene Epoche (Germany).gba
 9b067d0ee54caad2171a00c50e3c35cd	Golden Sun - L'Age Perdu (France).gba
 a1be57cb0f1acc812f46657bbfe5904b	Golden Sun - L'Era Perduta (Italy).gba
 370cc3b832f905a2b5511c1665e4a8bc	Golden Sun - La Edad Perdida (Spain).gba
 3730141d2551bea28ffeeded3996a62e	Golden Sun - The Lost Age (USA, Europe) (Virtual Console).gba
 8efe8b2aaed97149e897570cd123ff6e	Golden Sun - The Lost Age (USA, Europe).gba
+6540572ab503358a399861c909ee2012	Golden Sun (France).gba
+da69e10feb7472cdfa7ed76f8183b6bd	Golden Sun (Germany).gba
+3210f30e13b7bf65d4e5ab42235ad663	Golden Sun (Italy).gba
+53d97150443e4449dc1959da641d1a8e	Golden Sun (Spain).gba
+1cdd7f33c9a27061201e1d1ce029a700	Golden Sun (USA, Europe).gba
 b9e34ed53b8c74e23c55d1f60dcb7379	Goodboy Galaxy (World) (Ar) (Demo) (Aftermarket) (Unl).gba
 c94f9c68bdda0a027367e49d67becdd9	Goodboy Galaxy (World) (En) (Demo) (Aftermarket) (Unl).gba
 0281c499edb85107920a73f50e1a2412	Goodboy Galaxy (World) (Es) (Demo) (Aftermarket) (Unl).gba
@@ -1203,8 +1218,8 @@ bb03faf625c3fcfd8278513ce46448b4	GP-1 Racing (USA) (Proto).gba
 1227eebff87a8b9d5e713e20cddcb468	Gradius Advance (Europe).gba
 6f16195283a6f16fc73c95c69f131b68	Gradius Galaxies (USA).gba
 97fa8d3dec6cad0b75ea8063992be6a6	Gradius Generation (Japan).gba
-b4d933095f1be113f2b64f61e21b4055	Grand Theft Auto Advance (Europe) (En,Fr,De,Es,It).gba
-2c8ef9cce9f46b55247468ea449aeade	Grand Theft Auto Advance (USA).gba
+b4d933095f1be113f2b64f61e21b4055	Grand Theft Auto (Europe) (En,Fr,De,Es,It).gba
+2c8ef9cce9f46b55247468ea449aeade	Grand Theft Auto (USA).gba
 83c4994b6edb5ace03864f96ddeb54af	Greatest Nine (Japan).gba
 ebc7077768e9fc856480a80cb6be5b2c	Green Eggs and Ham by Dr. Seuss (USA).gba
 86dca228afc2d455e958c4e52787d91e	Greg Hastings' Tournament Paintball Max'd (USA).gba
@@ -1302,16 +1317,16 @@ f74baab7b2516b43119d23292033c735	Herbie - Fully Loaded (Europe) (En,Fr,De).gba
 3e96ed2991e696db50a279e2854c0be5	Hey Arnold! - The Movie (Europe) (En,Fr,De) (Beta).gba
 3023f8b53d90af1320f5b686f0f7b868	Hey Arnold! - The Movie (Europe) (En,Fr,De).gba
 a234f8b94fafc111ab29f235361baf50	Hey Arnold! - The Movie (USA).gba
-283969c5d1c1e46b94b565c6da5ecd5c	Hi Hi Puffy AmiYumi (Japan).gba
 fa70bac809f1801f26472a023330e1dc	Hi Hi Puffy AmiYumi - Kaznapped! (Europe) (En,De).gba
 80648fa0cb4fbf49a68c810fc64edaaa	Hi Hi Puffy AmiYumi - Kaznapped! (USA).gba
+283969c5d1c1e46b94b565c6da5ecd5c	Hi Hi Puffy AmiYumi (Japan).gba
 ccc940468bd911cb13e06f761d798126	Higanbana (Japan) (Rev 1).gba
 62b5ee4401a0eec948817a69011e71d7	High Heat Major League Baseball 2002 (USA, Europe).gba
 b433dca158d3bc3d73cb0ba6e831b258	High Heat Major League Baseball 2003 (Japan) (En).gba
 22d31d959de4e87160ba308c95386799	High Heat Major League Baseball 2003 (USA).gba
 e041a99eccf2d2b7360b6703ce73e169	High School Musical - Livin' the Dream (USA) (Beta).gba
 b940eae646950fc687e9ad29f8d43e0d	High School Musical - Livin' the Dream (USA).gba
-722c772a025767da32aaa02d5246cd8d	Hikaru no Go (Japan) (Demo) (Promo).gba
+722c772a025767da32aaa02d5246cd8d	Hikaru no Go - Taikenban (Japan) (Demo).gba
 a0451dbc9fabbd40a86b76c30e60794a	Hikaru no Go (Japan) (Rev 1).gba
 889fbc49115ce1f21e89490e0a2fe457	Hikaru no Go (Japan).gba
 3b7a7175d8bdd4a54c41e7d0be54c6db	Hikaru no Go 2 (Japan).gba
@@ -1326,8 +1341,8 @@ bc03898ada9ffdafca44c74c3dfeed8d	Home on the Range (Europe) (En,Fr,De,Es).gba
 39a7715143dcb10b6e56427bea2f7333	Home on the Range (USA) (En,Fr).gba
 2ae30f703add1843ab2c0299076f086d	Horsez (USA).gba
 c77f9deac4047b9844795b6c18e7a5c4	Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Demo) (Kiosk, GameCube).gba
+0f0382627e439cf2f308986e3e921a28	Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Rev 1) (Virtual Console).gba
 9937b1fd45c37eec09188c1516da4cea	Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Rev 1).gba
-0f0382627e439cf2f308986e3e921a28	Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Virtual Console).gba
 ea3f88e07ff1c9d6bbbad20e0c7efa8e	Hoshi no Kirby - Yume no Izumi Deluxe (Japan) (Virtual Console).gba
 b3f6ea2a0876d9b706ef7f79a0479a32	Hoshi no Kirby - Yume no Izumi Deluxe (Japan).gba
 c08873913df3c4e4739b648fa96128a4	Hot Potato! (Europe) (En,Fr,De).gba
@@ -1350,8 +1365,8 @@ b8fd606bc897f26ac47169ad3522ca0f	Hudson Best Collection Vol. 4 - Nazotoki Collec
 039975d2d1c2828a8b19b0ae0e679e3e	Hudson Best Collection Vol. 5 - Shooting Collection (Japan).gba
 48910413ebae82c218f847a78463fbae	Hudson Best Collection Vol. 6 - Bouken-jima Collection (Japan).gba
 0a9e96e8273142fc5ed60511a726a14f	Hugo - Bukkazoom! (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl).gba
-086490833184ca1c3f7db723c0a23995	Hugo - The Evil Mirror Advance (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl).gba
-bbb939c3839fc2d4864fc7be89b60cc4	Hugo - The Evil Mirror Advance (USA) (En,Fr,Es).gba
+086490833184ca1c3f7db723c0a23995	Hugo - The Evil Mirror (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl).gba
+bbb939c3839fc2d4864fc7be89b60cc4	Hugo - The Evil Mirror (USA) (En,Fr,Es).gba
 3c64ee4d89db9c12bc8f1cf329785cf8	Hugo 2 in 1 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl).gba
 38b0fa8bfd882b16813d166075b8f202	Hunter X Hunter - Minna Tomodachi Daisakusen!! (Japan) (Rev 1).gba
 80e03339cd076a4f89c8b89653b45d8c	Hunter X Hunter - Minna Tomodachi Daisakusen!! (Japan).gba
@@ -1365,21 +1380,21 @@ d0452572fdff4d290a3ff76fe0a07739	Ice Age 2 - The Meltdown (Europe) (En,Fr,De,Es,
 11cb293eb98b1d7bab027cda8777c98e	Ice Age 2 - The Meltdown (USA).gba
 b15b6cb642868b1b92031a10e5a68dd7	Ice Nine (USA, Europe) (En,Fr,De,Es,It).gba
 96ec0f9e34ce0a2c2d0a50f793b30c26	Ignition Collection - Volume 1 (Europe).gba
+f87c40e2be0e80ddb2c044df9fb97069	IK+ (Europe).gba
+cce22f4507ceab482392247b74a8b55a	IK+ (USA).gba
 bc80dc29fbdbb9c8ee9af46f11c59665	Incredibili, Gli - Una 'Normale' Famiglia di Supereroi (Italy).gba
 3f988d8651e3eb45c4f3b6f41d4373b4	Incredible Hulk, The (Europe) (En,Fr,De,Es,It).gba
 3b953c03dcc4276324b9bf95624f1c6e	Incredible Hulk, The (USA).gba
-30f5a0d49aa5672707ac5751ebd1996e	Incredibles, The (Europe) (Fr,Nl).gba
-97cc2aeb06142aedc38b672e90e04a11	Incredibles, The (USA, Europe).gba
 3908543e922f3185cd0b73cb774e0738	Incredibles, The - Rise of the Underminer (Europe) (En,Fr,De,Es,It,Nl,Pt).gba
 50d0ca20b90c0b2e46fe5a33d9ea6d8b	Incredibles, The - Rise of the Underminer (USA, Europe).gba
+30f5a0d49aa5672707ac5751ebd1996e	Incredibles, The (Europe) (Fr,Nl).gba
+97cc2aeb06142aedc38b672e90e04a11	Incredibles, The (USA, Europe).gba
 eddb8663171073186d122638d4b27f82	Increibles, Los (Spain).gba
 ead0c0d58712a968db6ff1c2c08f6946	Initial D - Another Stage (Japan).gba
 f291756b7731354c0d912e8d6337b7fe	Inspector Gadget - Advance Mission (Europe) (En,Fr,De,Es,It,Nl).gba
 881dd5c2d845a8fef7fc7badcf47d617	Inspector Gadget - Advance Mission (USA).gba
 c462c94704a3fa26d104282105ddd6ed	Inspector Gadget Racing (Europe) (En,Fr,De,Es,It,Nl).gba
 d1a6c9f1c78f0df5b1395e7e679a383a	International Karate Advanced (Europe).gba
-f87c40e2be0e80ddb2c044df9fb97069	International Karate Plus (Europe).gba
-cce22f4507ceab482392247b74a8b55a	International Karate Plus (USA).gba
 76ff83e819c83f27f02fd4d59af155d7	International Superstar Soccer (Europe).gba
 101b2628c6eabbb3caa36a5dd9a309e5	International Superstar Soccer Advance (Europe).gba
 fe1693b0d503ff222ebc090ac3dab920	Inukko Club (Japan).gba
@@ -1389,11 +1404,11 @@ c3caeece33e072b537cb07670b4610eb	Invincible Iron Man, The (USA, Europe).gba
 fb659da8c345e1c26227d345efc76c79	iQue Reader (China).gba
 66ee915843d7f71dc99419cf589e7ae1	iQue Video & Audio (China).gba
 f88df40fedb9d31a6e59dba4a9be1b2a	Iridion 3D (USA, Europe).gba
-c68975d3d2cf8aafb150a3b97d020a80	Iridion 3D (World) (Aftermarket) (Unl).gba
+c68975d3d2cf8aafb150a3b97d020a80	Iridion 3D (USA) (Aftermarket) (Unl).gba
 ba5048bbfb02ebe3874b8ce1b6318ce4	Iridion II (Europe) (En,Fr,De).gba
+2fe7335773e253b83068a017c9383ed6	Iridion II (USA) (Aftermarket) (Unl).gba
 a0f41d368e75924c642553e61311416d	Iridion II (USA) (Beta).gba
 553e8c9a80190617ec13fa2a06487f2d	Iridion II (USA).gba
-2fe7335773e253b83068a017c9383ed6	Iridion II (World) (Aftermarket) (Unl).gba
 6d7d6cd0d1bde4855b230ad510e16771	Iron Kid (Korea).gba
 081eb069af9e5cdc0cb7515a7249ba52	Island Xtreme Stunts (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba
 677bf7d4f8788fa5c505d5dd79309d69	Isseki Hatchou - Kore 1ppon de 8shurui! (Japan).gba
@@ -1415,8 +1430,8 @@ d4e09dc235ec13e6926c5338147e350c	JGTO Kounin Golf Master Mobile - Japan Golf Tou
 93cf91ff53f2b52f1da030902f74d208	Ji Xie Ren Da Zhan - Zhong Jie Ban (Taiwan) (Unl).gba
 8a8d50c9710ad287d2691546cf40348f	Jikkyou World Soccer Pocket (Japan).gba
 36663f8c81fc13e1f3eb739292af7941	Jikkyou World Soccer Pocket 2 (Japan).gba
-8002d7d8251f8a200a9d50f107d48ffd	Jimmy Neutron Boy Genius (Europe) (En,Fr,De,Es).gba
-2acd2b101e2f03a3fb95ed41b187d5ec	Jimmy Neutron Boy Genius (USA).gba
+8002d7d8251f8a200a9d50f107d48ffd	Jimmy Neutron - Boy Genius (Europe) (En,Fr,De,Es).gba
+2acd2b101e2f03a3fb95ed41b187d5ec	Jimmy Neutron - Boy Genius (USA).gba
 54d23b56027bf5555fdac1d11f3bb2c3	Jimmy Neutron un Garcon Genial - L'Attaque des Twonkies (France).gba
 451ad2324cce205bab6913abd02e5f1e	Jimmy Neutron vs. Jimmy Negatron (Germany) (Beta).gba
 859cb3dd653228060cc3aae3d1a39333	Jinsei Game Advance (Japan).gba
@@ -1486,10 +1501,10 @@ b106f85e2f6c3a460e8ca5cc2261c90b	Kill Switch (Europe) (En,Fr,De,Es,It).gba
 9f9e47a8b37fb27c2f387654797c95a3	Kill Switch (USA).gba
 e698ff3702ff76c42fc8d0bb80154d22	Killer 3D Pool (Europe) (En,Fr,De,Es,It).gba
 16bf8504460b72db612adc0e17831221	Killer 3D Pool (USA).gba
+cc2a04c4addcb14c30b0ced2a83c2d91	Kim Possible - Revenge of Monkey Fist (USA).gba
 09bc6ab258b83508be5e9a0eb11417d4	Kim Possible (Europe) (En,Fr,De,Es) (Rev 1).gba
 b6af8c28bcb17fb7564aa638eda471ef	Kim Possible (Europe) (En,Fr,De,Es).gba
 dc10ed7d9f86453ceb1303c9585bf8ff	Kim Possible (Japan).gba
-cc2a04c4addcb14c30b0ced2a83c2d91	Kim Possible - Revenge of Monkey Fist (USA).gba
 05da8d783575896e54f15104f1e87035	Kim Possible 2 - Drakken's Demise (Europe) (En,Fr,De,Es).gba
 5bec89f235c7a558f7f79d1760d648da	Kim Possible 2 - Drakken's Demise (USA) (En,Fr).gba
 3c629e441d4842ccb9d05e1c91853f80	Kim Possible 3 - Team Possible (USA) (En,Fr).gba
@@ -1510,14 +1525,14 @@ f7b81e3f3bb3b02d973fc6f145ad4416	Kingdom Hearts - Chain of Memories (USA).gba
 ceb711af3dd5861e9bf95c53d7443f42	Kinniku Banzuke - Kimero! Kiseki no Kanzen Seiha (Japan).gba
 e7939307d25e65cbecc764f55ad49e34	Kinniku Banzuke - Kongou-kun no Daibouken! (Japan).gba
 dccdc879eca4dc6c16fb93bdb072226d	Kinnikuman II-Sei - Seigi Choujin e no Michi (Japan).gba
-0c3d24b790a8212c779c85de3cde98a5	Kirby & The Amazing Mirror (Europe) (En,Fr,De,Es,It) (Virtual Console).gba
-1c759edf84a20174989588664bbbec55	Kirby & The Amazing Mirror (Europe) (En,Fr,De,Es,It).gba
-941590a0d3e5de3e46cd2e9242349f56	Kirby & The Amazing Mirror (USA) (Virtual Console).gba
-df5efe075b35859529ebf82a4d824458	Kirby & The Amazing Mirror (USA).gba
 b1c3362836665e8cbc70afbc258078ed	Kirby - Nightmare in Dream Land (Europe) (En,Fr,De,Es,It) (Virtual Console).gba
 6dd162a103fb55ddf99b6e688019354f	Kirby - Nightmare in Dream Land (Europe) (En,Fr,De,Es,It).gba
 c702f8da946f5a50df244151dd7f9e6a	Kirby - Nightmare in Dream Land (USA) (Virtual Console).gba
 35ae64b0f27e60107c14ab956f6cdf70	Kirby - Nightmare in Dream Land (USA).gba
+0c3d24b790a8212c779c85de3cde98a5	Kirby & The Amazing Mirror (Europe) (En,Fr,De,Es,It) (Virtual Console).gba
+1c759edf84a20174989588664bbbec55	Kirby & The Amazing Mirror (Europe) (En,Fr,De,Es,It).gba
+941590a0d3e5de3e46cd2e9242349f56	Kirby & The Amazing Mirror (USA) (Virtual Console).gba
+df5efe075b35859529ebf82a4d824458	Kirby & The Amazing Mirror (USA).gba
 d552538adba7bf2bc443822265bcfe20	Kisekko Gurumii - Chesty to Nuigurumi-tachi no Mahou no Bouken (Japan).gba
 ae1ab2aeeda397fb25536a6851f43fe1	Kiss x Kiss - Seirei Gakuen (Japan).gba
 02cd66823b6666b956e0baeeab7ba161	Kiwame Mahjong Deluxe - Mirai Senshi 21 (Japan).gba
@@ -1553,17 +1568,18 @@ c1ac1f6979a4cc6b66c1c5515c191bc1	Kong - The Animated Series (Europe) (En,Fr,De,E
 78141df5f1af636a7f8225d15b14fc31	Kong - The Animated Series (USA) (En,Fr,De,Es,It,Nl).gba
 40265e0ccea58b86fa17f010a7e4d91f	Konjiki no Gashbell!! - Makai no Bookmark (Japan).gba
 f22148e0a4298808ba05cd386d64d320	Konjiki no Gashbell!! - Unare! Yuujou no Zakeru (Japan).gba
+08934127e26fa137f2f03d3cce3953e7	Konjiki no Gashbell!! - Unare! Yuujou no Zakeru 2 (Japan) (Rev 1).gba
 26c1b5796bed6222c5b41c94996c380e	Konjiki no Gashbell!! - Unare! Yuujou no Zakeru 2 (Japan).gba
 f59054ea92eca5911aa6e3fc002fe545	Konjiki no Gashbell!! The Card Battle for GBA (Japan).gba
 e61314983c8438a7431b40564f8d6acb	Konjiki no Gashbell!! Yuujou no Zakeru - Dream Tag Tournament (Japan).gba
-f102be90875140f712a259a5bc533dd5	Koro Koro Puzzle - Happy Panechu! (Japan).gba
+f102be90875140f712a259a5bc533dd5	Korokoro Puzzle - Happy Panecchu! (Japan).gba
 9fee0cf88cb21f2009636b0581a3a502	Kotoba no Puzzle - Mojipittan Advance (Japan) (Virtual Console).gba
 25ead20d8d3cfedb35393740b3a36b74	Kotoba no Puzzle - Mojipittan Advance (Japan).gba
 34b0151cdc78a7a3b7cab3cda70bbc1d	Kouchuu Ouja Mushiking - Greatest Champion e no Michi (Japan).gba
 ccb5a95c335a6b3bb6113970b004a742	Koukou Juken Advance Series Eigo Koubun Hen - 26 Units Shuuroku (Japan).gba
 57918e55c3470bd8cdb885e7bb769e42	Koukou Juken Advance Series Eijukugo Hen - 650 Phrases Shuuroku (Japan).gba
 18929912972f945dffdb21ef5ee7c8b1	Koukou Juken Advance Series Eitango Hen - 2000 Words Shuuroku (Japan).gba
-2ed6310dac14f69f72002d9a9b6fab6b	Koutetsu Teikoku from HOT-B (Japan).gba
+2ed6310dac14f69f72002d9a9b6fab6b	Koutetsu Teikoku (Japan).gba
 1489b4d9defff4a8a993fa6017367c8f	Kunio-kun Nekketsu Collection 1 (Japan).gba
 913a49ea66a349fec2ac793a4eeb93b9	Kunio-kun Nekketsu Collection 2 (Japan).gba
 c0e8e0770977846c7a6124fb94285f4d	Kunio-kun Nekketsu Collection 3 (Japan).gba
@@ -1574,17 +1590,17 @@ db7d06d0be0b06c4a73bcf614e81c588	Kurukuru Kururin (Japan).gba
 b77c57c60fc0dcba3b2ddd3e2f1c5f86	Kururin Paradise (Japan).gba
 f4ac2d26605ebbb0d390e07810f12484	Lady Sia (Europe) (En,Fr,De,Es,It,Nl).gba
 94b847814fee8e4e5d9fdbf1d3d25107	Lady Sia (USA) (En,Fr,De,Es,It,Nl).gba
-f6d3840d1e185cb4829e8e9a9818d00d	Land Before Time, The (Europe) (En,Fr,De,Es,It).gba
-318fd3dec910d491bace987795397bb5	Land Before Time, The (USA) (En,Es).gba
 0cadd0fd31e704d01503d303b5da8341	Land Before Time, The - Into the Mysterious Beyond (Europe) (En,Fr,De,Es,It,Nl,Pt,Da).gba
 cc966f781b2c7d2b61c5111063aa3e47	Land Before Time, The - Into the Mysterious Beyond (USA) (En,Fr,Es).gba
+f6d3840d1e185cb4829e8e9a9818d00d	Land Before Time, The (Europe) (En,Fr,De,Es,It).gba
+318fd3dec910d491bace987795397bb5	Land Before Time, The (USA) (En,Es).gba
 d147f80b54cfb16b1df295aabaf4c90c	Lara Croft Tomb Raider - Legend (Europe) (En,Fr,De,Es,It).gba
 2f3f8e8d7874528acac3b7b89ccf98dd	Lara Croft Tomb Raider - Legend (USA) (En,Fr,De,Es,It).gba
 627fb1625974c4d04e9e38ced12795ce	Lara Croft Tomb Raider - The Prophecy (Europe) (En,Fr,De,Es,It).gba
 49e1af3afe0f16cd695def502120b380	Lara Croft Tomb Raider - The Prophecy (Japan).gba
 ba38712ad91c6c0287298d4c53ad48b1	Lara Croft Tomb Raider - The Prophecy (USA) (En,Fr,De,Es,It).gba
 0c3fe57084bbae258eac8830c90a0334	Lea - Passion Veterinaire (France) (En,Fr).gba
-35eb30c1013b72df8ec4a71a1fc1acff	Legend of Dynamic Goushouden - Houkai no Rondo (Japan).gba
+35eb30c1013b72df8ec4a71a1fc1acff	Legend of Dynamic - Goushouden - Houkai no Rondo (Japan).gba
 4445a111ace93ec2920a1eb1dd5accab	Legend of Spyro, The - A New Beginning (Europe) (En,Fr,De,Es,It,Nl).gba
 15fb7bb864e9876537890af774b43dbf	Legend of Spyro, The - A New Beginning (USA).gba
 fe87f3053a6579e3bcb3fef3332aabfa	Legend of Spyro, The - The Eternal Night (Europe) (En,Fr,De,Es,It,Nl).gba
@@ -1605,7 +1621,6 @@ ef13adffd0dc94ed7e417c253e78244d	LEGO Island 2 - The Brickster's Revenge (Europe
 d4633c1ba39d6ab290ce9c8044574906	LEGO Racers 2 (Europe) (Beta).gba
 39a754c5e3f4c7624a26e5fa97a2d178	LEGO Racers 2 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba
 35ca3b91976497cc24384f9367f16462	LEGO Racers 2 (USA) (En,Fr).gba
-3ff6f06de88f0646e8cf85181ca2e10d	LEGO Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba
 875112adceb14c80ef4e67fdb4d37826	LEGO Star Wars - The Video Game (Japan).gba
 caa2d80d5c14a76d1f482f7589281c22	LEGO Star Wars - The Video Game (USA, Europe) (En,Fr,De,Es,It,Nl,Da).gba
 b5296cda1c554337e684d880d7573b99	LEGO Star Wars II - The Original Trilogy (Europe) (En,Fr,De,Es,It,Da).gba
@@ -1624,8 +1639,8 @@ e7ead9536e55c3c6ff2448712cd77efb	Lilo & Stitch (Europe) (En,Fr,De,Es,It,Nl) (Rev
 3a1325d0afa9ec59246673fb01878a09	Lilo & Stitch (Europe) (En,Fr,De,Es,It,Nl).gba
 7e7015a37c1a5aa3d1b626b2255d0b01	Lilo & Stitch (Japan).gba
 d2d38d0ca1c3594c71213e3b5f6bd6ec	Lilo & Stitch (USA).gba
-e309212adc8da5280235f8765649858e	Lilo & Stitch 2 (Europe) (En,Fr,De,Es).gba
 3034c7101bceebdea95300ae9ecd7453	Lilo & Stitch 2 - Haemsterviel Havoc (USA).gba
+e309212adc8da5280235f8765649858e	Lilo & Stitch 2 (Europe) (En,Fr,De,Es).gba
 6a987dc5a8f0e87e1e055ee65f7e99c9	Lion King 1 1-2, The (USA).gba
 3f1cb5398649ff0c43673e73cad3010e	Lion King, The (Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba
 20447ef4715492164d65ebcdf26bd568	Little Buster Q (Japan).gba
@@ -1633,8 +1648,8 @@ e309212adc8da5280235f8765649858e	Lilo & Stitch 2 (Europe) (En,Fr,De,Es).gba
 1923216a92a9d7b4640c39a37b6a612b	Little League Baseball 2002 (USA) (En,Es).gba
 a05c86d8c5291049ebd22304ad9c2029	Little Mermaid, The - Magic in Two Kingdoms (USA, Europe) (En,Fr,De,Es,It).gba
 45743f2f955f66284775cb3c23cc46e8	Little Patissier - Cake no Oshiro (Japan).gba
-1de6184d96452bed659bc732915ecb0e	Lizzie McGuire (Europe) (En,Fr,De,Es).gba
 d6b12981296a8e3c67796f94e2d7aff3	Lizzie McGuire - On the Go! (USA).gba
+1de6184d96452bed659bc732915ecb0e	Lizzie McGuire (Europe) (En,Fr,De,Es).gba
 5f98ec175e2c67d3ba28504c1706dc07	Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr).gba
 aef559ca2b6f1ee37c423b46bb4ff909	Lizzie McGuire 3 - Homecoming Havoc (USA).gba
 704943bd18075740bc9157a34d8c612f	Lode Runner (Japan).gba
@@ -1648,8 +1663,8 @@ c7407014742f1f2ee538f9ec8458265f	Looney Tunes - Back in Action (USA, Europe) (En
 0d6241bf502d0cef1ca57870a1024e72	Lord of the Rings, The - The Fellowship of the Ring (Europe) (En,Fr,De,Es,It).gba
 fe2003b76cded94a19bc69fc44bfd525	Lord of the Rings, The - The Fellowship of the Ring (USA) (Rev 1).gba
 644712a277e801997624cece31b661a9	Lord of the Rings, The - The Fellowship of the Ring (USA).gba
-662a615941bc1299de3f4cac0a6bec2d	Lord of the Rings, The - The Return of the King (USA) (Unl).gba
 53dcb149b4593fba9955f842889445b4	Lord of the Rings, The - The Return of the King (USA, Europe) (En,Fr,De,Es,It).gba
+662a615941bc1299de3f4cac0a6bec2d	Lord of the Rings, The - The Return of the King (USA) (Unl).gba
 39d7f5579beafc2d3cfb0485c5be3bdf	Lord of the Rings, The - The Third Age (USA, Europe) (En,Fr,De,Es,It).gba
 e3bebb876bf45ca598800e3a90d6b2f0	Lord of the Rings, The - The Two Towers (USA, Europe) (En,Fr,De,Es,It,Nl).gba
 092721060c0261c13de6ade3e8c87854	Lost Vikings, The (Europe) (En,Fr,De,Es).gba
@@ -1662,6 +1677,11 @@ c5be1188d3ed703a50426c4d552b469f	Lu-Hai-Kong Dazhan (China) (Proto).gba
 ae5ee35f0aadf386cb6918a2d83f5a3b	Lunar Legend (USA).gba
 2ce9dc7e0e3af0be2b1d0d487555aa6a	M&M's - Blast! (USA).gba
 8c5c04d6559a700903c7186e0baee2fe	M&M's - Break' Em (USA) (Rev 1).gba
+85b9ee894ac4a5d21f3f9dd473edebdc	Madagascar - Operacion Pinguino (Spain).gba
+2da2e4acdc19c3fcc3e66f8f4cfd3606	Madagascar - Operation Penguin (Europe) (Fr,De).gba
+b038a9370b9a3924d38faa4eae6254d3	Madagascar - Operation Penguin (Europe) (It,Nl).gba
+9cc7dcf1d0f07687abeec84995c226b2	Madagascar - Operation Penguin (Europe).gba
+87da43aaad7b9fd2b8af57e8e3c71283	Madagascar - Operation Penguin (USA).gba
 b06f2e981aa7702e7a13602f8e5013d1	Madagascar (Europe) (Fr,De,Pt).gba
 11e59f830fec5702011173cac6c9c7d9	Madagascar (Europe).gba
 8cacc135e731b3b3e268676a8d2fc2fc	Madagascar (Italy).gba
@@ -1669,11 +1689,6 @@ b06f2e981aa7702e7a13602f8e5013d1	Madagascar (Europe) (Fr,De,Pt).gba
 12bfe2b37eb53eec924ca2a697fc9924	Madagascar (Netherlands).gba
 aa99d027561a92eb5a5af4e48f6e560c	Madagascar (Spain).gba
 97af9c00a5718832b7e5e46f9e434820	Madagascar (USA).gba
-85b9ee894ac4a5d21f3f9dd473edebdc	Madagascar - Operacion Pinguino (Spain).gba
-2da2e4acdc19c3fcc3e66f8f4cfd3606	Madagascar - Operation Penguin (Europe) (Fr,De).gba
-b038a9370b9a3924d38faa4eae6254d3	Madagascar - Operation Penguin (Europe) (It,Nl).gba
-9cc7dcf1d0f07687abeec84995c226b2	Madagascar - Operation Penguin (Europe).gba
-87da43aaad7b9fd2b8af57e8e3c71283	Madagascar - Operation Penguin (USA).gba
 37fe4eeab5274d244e5e6853881307ad	Madden NFL 06 (USA).gba
 7cb3748cbf790d4e8b50926b28299153	Madden NFL 07 (USA).gba
 d20405dfb7b446fbeb365a5cc11233c3	Madden NFL 2002 (USA).gba
@@ -1705,9 +1720,9 @@ eedd67a815e798e19159237a4d151d1a	Majesco's Sports Pack (USA).gba
 14c864da7a500ffc5ccc7139fb7ef053	Majokko Cream-chan no Gokko Series 2 - Kisekae Angel (Japan).gba
 54a1ea59c39ff418af3b009cd1ecc6d6	Maliou Kadingche - Chaoji Saidao (China) (Proto).gba
 54ac1def7820beed364a38edb65e22f0	Maliou Yu Luyiji RPG (China) (Proto).gba
-b2b2642e49ce5518aafc19f27aa2d8ec	Mandrake the Magician (Italy) (Proto).gba
-819c5498a8d6acfb847764e296ed9cdd	Manga-ka Debut Monogatari (Japan) (Rev 1).gba
-9c62897f2997c1fb8919533e7af3f1c5	Manga-ka Debut Monogatari (Japan).gba
+b2b2642e49ce5518aafc19f27aa2d8ec	Mandrake the Magician (Italy) (It) (Proto).gba
+819c5498a8d6acfb847764e296ed9cdd	Manga-ka Debut Monogatari - Akogare! Manga Ka Ikusei Game! (Japan) (Rev 1).gba
+9c62897f2997c1fb8919533e7af3f1c5	Manga-ka Debut Monogatari - Akogare! Manga Ka Ikusei Game! (Japan).gba
 38d7fc6d3804b6f80557096fa2aeb1fe	Maniac Racers Advance (Europe) (En,Fr,De,Es,It).gba
 db80a326a5825c196e2de77f319abd69	Manic Miner (Europe) (Beta).gba
 786fc5aff6a10efd3e3585ba10ebc863	Manic Miner (Europe) (En,Fr,De,Es,It).gba
@@ -1740,26 +1755,27 @@ f99fb545ac65126e9956a7718c30d6a3	Mario Kart - Super Circuit (Europe).gba
 b354078c54b943bdc6d2227e4686ea0f	Mario Kart Advance (Japan) (3DS Virtual Console).gba
 ffb9c2fe3dc23fd7796f71f7d54fe447	Mario Kart Advance (Japan) (Virtual Console).gba
 f35d2f567edd9c04e7f9647edb206995	Mario Kart Advance (Japan).gba
+766094925834dc617650cd0a5387c545	Mario Kart XXL (Europe) (Demo).gba
 af4d91a53dd51e98e6c5249502897904	Mario Party Advance (Europe) (En,Fr,De,Es,It) (Virtual Console).gba
 0acbc949fc02ec0abd9e1825c03b8973	Mario Party Advance (Europe) (En,Fr,De,Es,It).gba
 5e7f2849199ea37e6629b35948757d02	Mario Party Advance (Japan) (Virtual Console).gba
 e4e07fce7c412ecbb7117a58fa235409	Mario Party Advance (Japan).gba
 179ebcf3fa5934d89bdad8f970a391c9	Mario Party Advance (USA) (Virtual Console).gba
 9d0d27345bf88de8b025aa24d54d6bad	Mario Party Advance (USA).gba
+08c41541eb69a1d652937ed3f88824be	Mario Pinball Land (USA, Australia).gba
 16d337bbd90230ae5eed4cc1f5d72fd9	Mario Pinball Land (USA) (Kiosk, GameCube).gba
 0966c86597b2644a5e7c66ec59e9edb8	Mario Pinball Land (USA) (Virtual Console).gba
-08c41541eb69a1d652937ed3f88824be	Mario Pinball Land (USA, Australia).gba
 c414d73f6e76645aa202b5f5e516e494	Mario Power Tennis (Europe) (En,Fr,De,Es,It) (Virtual Console).gba
 f6c0a645317d6ed90abc4e04f7b33b46	Mario Power Tennis (Europe) (En,Fr,De,Es,It).gba
-d9adc18e11c3fea39b49a99abcdc41fc	Mario Tennis - Power Tour (USA) (En,Fr,De,Es,It) (Virtual Console).gba
 928c0bd4cf82b3fd6f34b53d4fd02e69	Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).gba
+d9adc18e11c3fea39b49a99abcdc41fc	Mario Tennis - Power Tour (USA) (En,Fr,De,Es,It) (Virtual Console).gba
 ca701c70d4e637f127421123a74615ed	Mario Tennis Advance (Japan) (Virtual Console).gba
 a3658157b02a6f5618866af93c9b771d	Mario Tennis Advance (Japan).gba
 a3dca1a3167cb855aacdca650c4ce39f	Mario vs. Donkey Kong (Europe) (En,Fr,De,Es,It).gba
 b5728a9493040c1d3697096c13ba1d13	Mario vs. Donkey Kong (Japan) (Demo) (Kiosk, GameCube).gba
 665f0fd0df241841961123ecf2ca73ba	Mario vs. Donkey Kong (Japan).gba
-cc77b8efa679cb57c129831fa6770ad7	Mario vs. Donkey Kong (USA) (Demo) (Kiosk, GameCube).gba
 ceda12928a686878795def3b413ccfc2	Mario vs. Donkey Kong (USA, Australia).gba
+cc77b8efa679cb57c129831fa6770ad7	Mario vs. Donkey Kong (USA) (Demo) (Kiosk, GameCube).gba
 d64c95901c720f6dbf7b6dab929e617f	Marvel - Ultimate Alliance (Europe) (En,It).gba
 1a9cc177b098fa1762b0e9872590916c	Marvel - Ultimate Alliance (USA).gba
 4c3f934ea0a5c9683a8c82fa57ff1c00	Mary-Kate and Ashley - Girls Night Out (USA, Europe).gba
@@ -1820,77 +1836,77 @@ c98531def6532b3ed048a5ebc0ab4c3c	Medarot Ni Core - Kabuto (Japan).gba
 55198b6049bbc81860889039e93b464e	Medarot Ni Core - Kuwagata (Japan).gba
 59aba4bba551aa20bf7726eba3af13fe	Meet the Robinsons (Europe) (En,Fr,De,Es,It,Nl).gba
 cfbf47949426a8f44ecdc832d06d09a9	Meet the Robinsons (USA).gba
-e6d2b51ebe0420817d16acad4f89bf7a	Mega Man & Bass (Europe) (Virtual Console).gba
-1ff9f0809c7766f72e67378cb14a430a	Mega Man & Bass (Europe).gba
-89c23bad78a30d9d1065262da512594f	Mega Man & Bass (USA) (Virtual Console).gba
-88792ae1fbc74f4a5425d0c6f0482023	Mega Man & Bass (USA).gba
-d2b0cab71d1c40aa38e94eeb2d1c8718	Mega Man Battle Chip Challenge (Europe) (Virtual Console).gba
-e42148c3e79f7d5f7a9f3b63939b68c2	Mega Man Battle Chip Challenge (Europe).gba
-55e2ee8dd7a4a6574a1c8545b7d53fb8	Mega Man Battle Chip Challenge (USA) (Virtual Console).gba
-d996f6cbb36eb15063b290d8f00ad654	Mega Man Battle Chip Challenge (USA).gba
-fd80c3ad287ca570ce26c425237d1902	Mega Man Battle Network (Europe) (Virtual Console).gba
-62e32a9ccf6c31850041555cb8151440	Mega Man Battle Network (Europe).gba
-dbe975f9dd8b09d76c73a6d18bdaa6fc	Mega Man Battle Network (USA) (Virtual Console).gba
-9ff40cf640575211202b7bda5487abbb	Mega Man Battle Network (USA).gba
-833e55b181ac9b4da56b6341c1f4e09a	Mega Man Battle Network 2 (Europe).gba
-710e4ecb8f411648fedad9102c7b3b93	Mega Man Battle Network 2 (USA) (Debug Version).gba
-39f8a42133df444eeb7bf0b2194d6286	Mega Man Battle Network 2 (USA).gba
-54d7f45ef822d7485b623d46a636f2e7	Mega Man Battle Network 2 (USA, Europe) (Virtual Console).gba
-e23c4d809417568bcbfb93172609c77e	Mega Man Battle Network 3 - Blue (Europe) (Virtual Console).gba
-c1f7ade0ebce39a97c6efcad33661e20	Mega Man Battle Network 3 - Blue (Europe).gba
-41fabd164c0e4102c0187329e9f52c5c	Mega Man Battle Network 3 - Blue Version (USA) (Virtual Console).gba
-6fe31df0144759b34ad666badaacc442	Mega Man Battle Network 3 - Blue Version (USA).gba
-5d9223837dc976e6756616324c5cd2cb	Mega Man Battle Network 3 - White (Europe) (Virtual Console).gba
-dea8cb17074798c5123422836024d4c8	Mega Man Battle Network 3 - White (Europe).gba
-3bb6b3f488281c23460a717b71faa366	Mega Man Battle Network 3 - White Version (USA) (Virtual Console).gba
-68817204a691449e655cba739dbb0165	Mega Man Battle Network 3 - White Version (USA).gba
-cd06fca8f11c9fbf1c89d067719cc7f6	Mega Man Battle Network 4 - Blue Moon (Europe) (Virtual Console).gba
-6c653de4749981579252e59fcae956d5	Mega Man Battle Network 4 - Blue Moon (Europe).gba
-333c21725d933d2bc0cc2209f70afd48	Mega Man Battle Network 4 - Blue Moon (USA) (Virtual Console).gba
-e9dfe02b283e29d67c224ab6f86c3b9c	Mega Man Battle Network 4 - Blue Moon (USA).gba
-5137fdf04021dc7817cb1be34b590adf	Mega Man Battle Network 4 - Red Sun (Europe) (Virtual Console).gba
-ac9b62069b180da5ddf1646d4e142d59	Mega Man Battle Network 4 - Red Sun (Europe).gba
-c055ae4f347bf3dfe626979c06133057	Mega Man Battle Network 4 - Red Sun (USA) (Virtual Console).gba
-d0dee5c06972cb072391cd968a248d52	Mega Man Battle Network 4 - Red Sun (USA).gba
-a32d78cb1d76eb097760417f232b4b76	Mega Man Battle Network 5 - Team Colonel (Europe) (Virtual Console).gba
-17ff0b3af041f31b6c6924726c2642b8	Mega Man Battle Network 5 - Team Colonel (Europe).gba
-759281beed4bfa975262fd49028efebb	Mega Man Battle Network 5 - Team Colonel (USA) (Virtual Console).gba
-68d79f7c8f41f7c8009f3b85119cb1c6	Mega Man Battle Network 5 - Team Colonel (USA).gba
-5405a66d7b053281e4d48afb1e31c270	Mega Man Battle Network 5 - Team Proto Man (Europe) (Virtual Console).gba
-b03e618d511a7ed9ec3adc43bd58aa96	Mega Man Battle Network 5 - Team Proto Man (USA) (Virtual Console).gba
-a1b8d71fa43915d37b955a2b1a0ed80a	Mega Man Battle Network 5 - Team Protoman (Europe).gba
-71b00ba406c522d3cec48311bd7bc760	Mega Man Battle Network 5 - Team Protoman (USA).gba
-0c1a0844349b59fca1de85b1992abdf5	Mega Man Battle Network 6 - Cybeast Falzar (Europe) (Virtual Console).gba
-56d29cad9e26f1d7465f803ed1d1426b	Mega Man Battle Network 6 - Cybeast Falzar (Europe).gba
-ce943b2fc1539a9d069b6a6746616d66	Mega Man Battle Network 6 - Cybeast Falzar (USA) (Virtual Console).gba
-1e8c774ba210d1c55113531c7360c737	Mega Man Battle Network 6 - Cybeast Falzar (USA).gba
-28587f7914842e2104c48da646ca0fd8	Mega Man Battle Network 6 - Cybeast Gregar (Europe) (Virtual Console).gba
-5383a0d8c214f3fa64e5d8f672f6c4aa	Mega Man Battle Network 6 - Cybeast Gregar (Europe).gba
-65295e47fa2bc35407211c331d8f6b7c	Mega Man Battle Network 6 - Cybeast Gregar (USA) (Virtual Console).gba
-5acc75848bb1ffd3d6d8705554ee333d	Mega Man Battle Network 6 - Cybeast Gregar (USA).gba
-c75988e7042168414e341c102dc7776c	Mega Man Zero (USA) (Virtual Console).gba
-b24a17d080a01a404cbf018ba42b9803	Mega Man Zero (USA, Europe).gba
-efb231cca7699e588d9e9c3977a04b17	Mega Man Zero 2 (Europe) (Virtual Console).gba
-55dcbe18e02f7d2934c537508de532b6	Mega Man Zero 2 (Europe).gba
-c0d76fd7a2b656fdec1802d62309c4a7	Mega Man Zero 2 (USA) (Virtual Console).gba
-182363b0698322e1864ced6e9eed7ead	Mega Man Zero 2 (USA).gba
-cad17987af79a57e44ff18a892d1aa70	Mega Man Zero 3 (Europe) (Virtual Console).gba
-9ce73ff9aa1473f250d103c1bdbbd738	Mega Man Zero 3 (Europe).gba
-d67692814d313e0f70637fb2157ab6cc	Mega Man Zero 3 (USA) (Virtual Console).gba
-aa1d5eeffcd5e4577db9ee6d9b1100f9	Mega Man Zero 3 (USA).gba
-0d221d3ad421c62da3fe6af1ecd67381	Mega Man Zero 4 (Europe) (Virtual Console).gba
-d3a76f1c92e3044b1a21f1aae84d21ab	Mega Man Zero 4 (Europe).gba
-fa34fc711555c60249603a4ebb718c8e	Mega Man Zero 4 (USA) (Virtual Console).gba
-0d1e88bdb09ff68adf9877a121325f9c	Mega Man Zero 4 (USA).gba
+d2b0cab71d1c40aa38e94eeb2d1c8718	Megaman - Battle Chip Challenge (Europe) (Virtual Console).gba
+e42148c3e79f7d5f7a9f3b63939b68c2	Megaman - Battle Chip Challenge (Europe).gba
+55e2ee8dd7a4a6574a1c8545b7d53fb8	Megaman - Battle Chip Challenge (USA) (Virtual Console).gba
+d996f6cbb36eb15063b290d8f00ad654	Megaman - Battle Chip Challenge (USA).gba
+fd80c3ad287ca570ce26c425237d1902	Megaman - Battle Network (Europe) (Virtual Console).gba
+62e32a9ccf6c31850041555cb8151440	Megaman - Battle Network (Europe).gba
+dbe975f9dd8b09d76c73a6d18bdaa6fc	Megaman - Battle Network (USA) (Virtual Console).gba
+9ff40cf640575211202b7bda5487abbb	Megaman - Battle Network (USA).gba
+833e55b181ac9b4da56b6341c1f4e09a	Megaman - Battle Network 2 (Europe).gba
+54d7f45ef822d7485b623d46a636f2e7	Megaman - Battle Network 2 (USA, Europe) (Virtual Console).gba
+62f96deebe82b3b3fddf29f0d433b006	Megaman - Battle Network 2 (USA) (Debug Version).gba
+39f8a42133df444eeb7bf0b2194d6286	Megaman - Battle Network 2 (USA).gba
+e23c4d809417568bcbfb93172609c77e	Megaman - Battle Network 3 - Blue Version (Europe) (Virtual Console).gba
+c1f7ade0ebce39a97c6efcad33661e20	Megaman - Battle Network 3 - Blue Version (Europe).gba
+41fabd164c0e4102c0187329e9f52c5c	Megaman - Battle Network 3 - Blue Version (USA) (Virtual Console).gba
+6fe31df0144759b34ad666badaacc442	Megaman - Battle Network 3 - Blue Version (USA).gba
+5d9223837dc976e6756616324c5cd2cb	Megaman - Battle Network 3 - White Version (Europe) (Virtual Console).gba
+dea8cb17074798c5123422836024d4c8	Megaman - Battle Network 3 - White Version (Europe).gba
+3bb6b3f488281c23460a717b71faa366	Megaman - Battle Network 3 - White Version (USA) (Virtual Console).gba
+68817204a691449e655cba739dbb0165	Megaman - Battle Network 3 - White Version (USA).gba
+cd06fca8f11c9fbf1c89d067719cc7f6	Megaman - Battle Network 4 - Blue Moon (Europe) (Virtual Console).gba
+6c653de4749981579252e59fcae956d5	Megaman - Battle Network 4 - Blue Moon (Europe).gba
+333c21725d933d2bc0cc2209f70afd48	Megaman - Battle Network 4 - Blue Moon (USA) (Virtual Console).gba
+e9dfe02b283e29d67c224ab6f86c3b9c	Megaman - Battle Network 4 - Blue Moon (USA).gba
+5137fdf04021dc7817cb1be34b590adf	Megaman - Battle Network 4 - Red Sun (Europe) (Virtual Console).gba
+ac9b62069b180da5ddf1646d4e142d59	Megaman - Battle Network 4 - Red Sun (Europe).gba
+c055ae4f347bf3dfe626979c06133057	Megaman - Battle Network 4 - Red Sun (USA) (Virtual Console).gba
+d0dee5c06972cb072391cd968a248d52	Megaman - Battle Network 4 - Red Sun (USA).gba
+a32d78cb1d76eb097760417f232b4b76	Megaman - Battle Network 5 - Team Colonel (Europe) (Virtual Console).gba
+17ff0b3af041f31b6c6924726c2642b8	Megaman - Battle Network 5 - Team Colonel (Europe).gba
+759281beed4bfa975262fd49028efebb	Megaman - Battle Network 5 - Team Colonel (USA) (Virtual Console).gba
+68d79f7c8f41f7c8009f3b85119cb1c6	Megaman - Battle Network 5 - Team Colonel (USA).gba
+5405a66d7b053281e4d48afb1e31c270	Megaman - Battle Network 5 - Team Protoman (Europe) (Virtual Console).gba
+a1b8d71fa43915d37b955a2b1a0ed80a	Megaman - Battle Network 5 - Team Protoman (Europe).gba
+b03e618d511a7ed9ec3adc43bd58aa96	Megaman - Battle Network 5 - Team Protoman (USA) (Virtual Console).gba
+71b00ba406c522d3cec48311bd7bc760	Megaman - Battle Network 5 - Team Protoman (USA).gba
+0c1a0844349b59fca1de85b1992abdf5	Megaman - Battle Network 6 - Cybeast Falzar (Europe) (Virtual Console).gba
+56d29cad9e26f1d7465f803ed1d1426b	Megaman - Battle Network 6 - Cybeast Falzar (Europe).gba
+ce943b2fc1539a9d069b6a6746616d66	Megaman - Battle Network 6 - Cybeast Falzar (USA) (Virtual Console).gba
+1e8c774ba210d1c55113531c7360c737	Megaman - Battle Network 6 - Cybeast Falzar (USA).gba
+28587f7914842e2104c48da646ca0fd8	Megaman - Battle Network 6 - Cybeast Gregar (Europe) (Virtual Console).gba
+5383a0d8c214f3fa64e5d8f672f6c4aa	Megaman - Battle Network 6 - Cybeast Gregar (Europe).gba
+65295e47fa2bc35407211c331d8f6b7c	Megaman - Battle Network 6 - Cybeast Gregar (USA) (Virtual Console).gba
+5acc75848bb1ffd3d6d8705554ee333d	Megaman - Battle Network 6 - Cybeast Gregar (USA).gba
+e6d2b51ebe0420817d16acad4f89bf7a	Megaman & Bass (Europe) (Virtual Console).gba
+1ff9f0809c7766f72e67378cb14a430a	Megaman & Bass (Europe).gba
+89c23bad78a30d9d1065262da512594f	Megaman & Bass (USA) (Virtual Console).gba
+88792ae1fbc74f4a5425d0c6f0482023	Megaman & Bass (USA).gba
+b24a17d080a01a404cbf018ba42b9803	Megaman Zero (USA, Europe).gba
+c75988e7042168414e341c102dc7776c	Megaman Zero (USA) (Virtual Console).gba
+efb231cca7699e588d9e9c3977a04b17	Megaman Zero 2 (Europe) (Virtual Console).gba
+55dcbe18e02f7d2934c537508de532b6	Megaman Zero 2 (Europe).gba
+c0d76fd7a2b656fdec1802d62309c4a7	Megaman Zero 2 (USA) (Virtual Console).gba
+182363b0698322e1864ced6e9eed7ead	Megaman Zero 2 (USA).gba
+cad17987af79a57e44ff18a892d1aa70	Megaman Zero 3 (Europe) (Virtual Console).gba
+9ce73ff9aa1473f250d103c1bdbbd738	Megaman Zero 3 (Europe).gba
+d67692814d313e0f70637fb2157ab6cc	Megaman Zero 3 (USA) (Virtual Console).gba
+aa1d5eeffcd5e4577db9ee6d9b1100f9	Megaman Zero 3 (USA).gba
+0d221d3ad421c62da3fe6af1ecd67381	Megaman Zero 4 (Europe) (Virtual Console).gba
+d3a76f1c92e3044b1a21f1aae84d21ab	Megaman Zero 4 (Europe).gba
+fa34fc711555c60249603a4ebb718c8e	Megaman Zero 4 (USA) (Virtual Console).gba
+0d1e88bdb09ff68adf9877a121325f9c	Megaman Zero 4 (USA).gba
 09467407b4d5e62508405f6ec518e6dd	Meine Tierarztpraxis (Germany) (En,De).gba
 c8896f5ae10cbdf9a1d4b98166ff13c0	Meine Tierpension (Germany) (En,De).gba
 b3c187c391a4a75c257ecc83abab30a8	Meitantei Conan - Akatsuki no Monument (Japan).gba
 9d419bfa53e1c4241e076686bf9646cc	Meitantei Conan - Nerawareta Tantei (Japan).gba
 59a449254974f537c73fb10ed5246cfa	Men in Black - The Series (Europe).gba
 7a7d4faca339a80bf99e96df67c9ff24	Men in Black - The Series (USA).gba
-dcfb3d652c77ba9574cf42ff18ee2f30	Mermaid Melody - Pichi Pichi Pitch (Japan).gba
 976bb334f76277357ceb33548d5e03df	Mermaid Melody - Pichi Pichi Pitch - Pichi Pichi Party (Japan).gba
 e5445bbb91fa514a63fd54bf1ce39cf8	Mermaid Melody - Pichi Pichi Pitch - Pichi Pichitto Live Start! (Japan).gba
+dcfb3d652c77ba9574cf42ff18ee2f30	Mermaid Melody - Pichi Pichi Pitch (Japan).gba
 728d2ba4fb710cc696e401f797ff1397	Metal Max 2 Kai (Japan) (Rev 1).gba
 4a7edee1aafebdcc97ee01909f14a7c7	Metal Max 2 Kai (Japan).gba
 7ab3a2b98ce6a85bfa23bc8bb6ecadef	Metal Slug - Super Vehicle-001 (Japan) (En) (Proto).gba
@@ -1932,6 +1948,7 @@ b47db8937426d5a23fba3c51acd5fe69	Mijn Dierenpraktijk (Netherlands) (En,Nl).gba
 d59d88a73622b4df76cf98d1554644e4	Minami no Umi no Odyssey (Japan).gba
 f9ab5e9200dfae863f30e9332d7fcd95	Mini Moni. - Mika no Happy Morning Chatty (Japan).gba
 02d54c3ed3daf9976f355c16fe8303fc	Mini Moni. - Onegai Ohoshi-sama! (Japan).gba
+5defefbbbb67bd8fbca428d3ad2c5031	Minicraft (World) (v1.0) (Aftermarket) (Homebrew).gba
 62e74f9b0928b578764e8f466dac412d	Minna de Puyo Puyo (Japan) (En,Ja).gba
 8f380c11bd958656afbeca39b80c83c9	Minna no Ouji-sama (Japan).gba
 eb3ad3925a39e6e36ec9cb0fc3f0d535	Minna no Shiiku Series - Boku no Kabuto, Kuwagata (Japan).gba
@@ -1950,12 +1967,12 @@ a005c0d182f08177f732f4e03f3eeb68	Minna no Soft Series - Shanghai (Japan) (Rev 1)
 ae89bfb0fe9892c92c061013be4619a2	Minna no Soft Series - Zooo (Japan).gba
 582ad48ed874c3707abbd0967a3cc6aa	Minority Report - Everybody Runs (USA, Europe).gba
 6c6910864be012d8afe00364d6ddaa05	Mirakuru! Panzou - 7-tsu no Hoshi no Uchuu Kaizoku (Japan).gba
-42fbeb32909935b02ce9f8826c86df03	Misfortune Advance (World) (Aftermarket) (Homebrew).gba
+42fbeb32909935b02ce9f8826c86df03	Misfortune Advance (World) (Homebrew).gba
 54068c4366ce9072837003184b361a68	Mission Impossible - Operation Surma (Europe) (En,Fr,De,Es,It).gba
 6ce6741e0a522351047b79851cd2d651	Mission Impossible - Operation Surma (USA) (En,Fr,Es).gba
 7c1ac3a3b9f0948bbcc6d5b2afac860c	Miteluode - Lingdian Renwu (China).gba
 0dc8a17af87706f54db5b78f02c5ad12	Miteluode Ronghe (China).gba
-3b4e5e2e7bea27f7f0089277670b7f2c	MLB SlugFest 20-04 (USA).gba
+3b4e5e2e7bea27f7f0089277670b7f2c	MLB SlugFest 2004 (USA).gba
 3507139cfb163b6df585bb5ef43388d7	Mo Jie Qibing (Taiwan) (Unl).gba
 85fa9b30552bcf2b5cffa86f669da0a1	Mobile Pro Yakyuu - Kantoku no Saihai (Japan).gba
 20bb7717258c3bd2e87b9b7617e95df2	Mobile Suit Gundam Seed - Battle Assault (USA).gba
@@ -1969,9 +1986,9 @@ bd1177f8f30bef242aba4714449092a3	Monster AG, Die (Germany).gba
 e44a2af9631df8d957a0f3925b4de3ba	Monster Farm Advance 2 (Japan).gba
 4e1b65a22eddc145fd7efecabff0282e	Monster Force (Europe) (En,Fr,De,Es,It).gba
 eed661599b926eddf6890c862c252112	Monster Force (USA).gba
+2c5221fbcbd75a985d68451cf7fa6c8e	Monster Gate - Ooinaru Dungeon - Fuuin no Orb (Japan).gba
 d0c7958ff085664e0b78e1378a85e39f	Monster Gate (Japan) (Rev 1).gba
 ba1f2cd7d4eb41792103bf0a95fc0c09	Monster Gate (Japan).gba
-2c5221fbcbd75a985d68451cf7fa6c8e	Monster Gate - Ooinaru Dungeon - Fuuin no Orb (Japan).gba
 a62155a1c3dd4bad9e260a2bf527b69f	Monster Guardians (Japan).gba
 1949b8e4a2f30f28be71e97b4d824b22	Monster House (Europe) (En,Fr,De,Es).gba
 252037e0c434428271dc322b122612aa	Monster House (Europe).gba
@@ -1993,7 +2010,10 @@ d3bc617082a50dcfa360c10f6ec5f845	Monsters, Inc. (Europe) (En,Es,Nl).gba
 03e0114f2ed087104a007594d36f70df	Monsters, Inc. (Europe) (En,Fr,It).gba
 d94b4031b5f5b39281075ae4e0ea76d6	Monsters, Inc. (Japan).gba
 3e4a2e644d21654e1e5c68baa9115df9	Monsters, Inc. (USA, Europe).gba
+c3d670914b052c6e7fafc5649b725afd	Mooncat's Trio (World) (Aftermarket) (Homebrew).gba
+53af7b05f0ec9c4770be9f74b8a232ac	Mooncat's Trio (World) (Beta) (Homebrew).gba
 ed9b2fe7068678fee67725ec96e98d1f	Moorhen 3 - The Chicken Chase! (Europe) (En,Fr,De,Es,It).gba
+09a4004a580a8fe679d227ce3cc70d8e	Moorhuhn Jagd (Europe) (Proto).gba
 d452b649e6c8f3455469030548478e81	Morita Shougi Advance (Japan).gba
 5f745975ca8b358d15d3aeedd432de56	Morning Adventure, The (Spain) (Promo).gba
 8e066c35a484308421c3eebcc45ec329	Mortal Kombat - Deadly Alliance (Europe) (En,Fr,De,Es,It).gba
@@ -2022,8 +2042,8 @@ ba2dc8d20da3971c342003c3c9468b17	Mr. Driller 2 (Japan) (Virtual Console).gba
 d7118be078b9a61284a99d3f1f7e972f	Mr. Driller 2 (USA).gba
 36697685f9c5d16af44b3d5172aa4187	Mr. Driller A - Fushigi na Pacteria (Japan) (Virtual Console).gba
 d7f4cb6aea9409acf23e2eae5a697c5e	Mr. Driller A - Fushigi na Pacteria (Japan).gba
-e5a317d1c71261baac40bbfb29453082	Mr. Incredible (Japan).gba
 19129e5f655be691894551b379ac6154	Mr. Incredible - Kyouteki Underminer Toujou (Japan).gba
+e5a317d1c71261baac40bbfb29453082	Mr. Incredible (Japan).gba
 2330d9d78363285a7a59a844cfe4e506	Ms. Pac-Man - Maze Madness (Europe) (En,Fr,De,Es,It).gba
 279af1b9d55efdcea19593a42f8ce23d	Ms. Pac-Man - Maze Madness (USA).gba
 0b4c94edc68ff0f0a18e09e5b11ed0df	Mucha Lucha! - Mascaritas of the Lost Code (USA) (En,Fr,Es).gba
@@ -2047,11 +2067,11 @@ ab6251b0f54cf6787fd4a6b5d5d4c5b6	Nakayoshi Pet Advance Series 3 - Kawaii Koneko 
 138f9df1c5d9c7cb0b28760f92a4698e	Nakayoshi Pet Advance Series 4 - Kawaii Koinu Mini - Wanko to Asobou!! Kogata-ken (Japan).gba
 ee7a6ac20bb48e1da9b39850ba181397	Nakayoshi Youchien - Sukoyaka Enji Ikusei Game (Japan) (Rev 1).gba
 d6d1aebc7605124b44f024f54d3be293	Nakayoshi Youchien - Sukoyaka Enji Ikusei Game (Japan).gba
+26c807fa46179e4820318ef8d7b460dc	Namco Museum - 50th Anniversary (Europe) (En,Fr,De,Es,It).gba
+65389f698fd274e4b9a6b799fb6fbd2b	Namco Museum - 50th Anniversary (USA).gba
 0e7e7ed17b4e8e4d09e166d3bd923b40	Namco Museum (Europe).gba
 e124a5cc941c7aba6a626f687c50fbf6	Namco Museum (Japan) (En).gba
 60ac7a006e8a00581b832ceb8a000305	Namco Museum (USA).gba
-26c807fa46179e4820318ef8d7b460dc	Namco Museum - 50th Anniversary (Europe) (En,Fr,De,Es,It).gba
-65389f698fd274e4b9a6b799fb6fbd2b	Namco Museum - 50th Anniversary (USA).gba
 f977a030aa9f5fa4c6013ae472f68b91	Nancy Drew - Message in a Haunted Mansion (USA).gba
 ed509e5168598ad8e4784a56d79bd6a1	Napoleon (Japan) (Virtual Console).gba
 4e9d8454de262002a97dbedbda524731	Napoleon (Japan).gba
@@ -2070,21 +2090,21 @@ edebadbee7e89aede8bdf6d245580085	Naruto RPG - Uketsugareshi Hi no Ishi (Japan).g
 2fb73b874bbf4119e5cbf17b8ceae9c1	NASCAR Heat 2002 (USA).gba
 22b1ec2ea8e0da29ef2810aa4ab7b5f5	Natural 2 - Duo (Japan).gba
 17ece80a2d8609e513776e67ef0ecb15	NBA Jam 2002 (USA, Europe).gba
+f6670d280e7b6dc85e6c20b89ef51691	Need for Speed - Carbon - Own the City (USA, Europe) (En,Fr,De,Es,It).gba
 0cd601f13be95043eb1bc10e3675f25a	Need for Speed - Most Wanted (USA, Europe) (En,Fr,De,It).gba
 c6a927c20fbb7b5b1570f9e6c804b54b	Need for Speed - Porsche Unleashed (Europe) (En,Fr,De,Es,It).gba
 7406c224589f1a2f57feff5eb3c177c3	Need for Speed - Porsche Unleashed (USA).gba
 0053467f8f43c893299c1c18a2e971d9	Need for Speed - Underground (USA, Europe) (En,Fr,De,It).gba
 b5509a24acd58ddcb3d2e251a074f494	Need for Speed - Underground 2 (USA, Europe) (En,Fr,De,It).gba
-f6670d280e7b6dc85e6c20b89ef51691	Need for Speed Carbon - Own the City (USA, Europe) (En,Fr,De,Es,It).gba
 e8369fd31c116822df2dedd99cb86790	Nekketsu Monogatari Advance (Japan) (Demo) (Aftermarket) (Unl).gba
 80afdbf1fb3a1287b7745f1a7aa473b9	Neoromance Game - Harukanaru Toki no Naka de (Japan) (Rev 1).gba
 2363306cb2927ee859a39ba2744d7f42	Neoromance Game - Harukanaru Toki no Naka de (Japan).gba
 e21509b91a56514bc1d0cdd0f303a670	NES Classics - Castlevania (Europe).gba
 76ff10072fbe28737918120c9021c741	Next Generation Tennis (Europe) (En,Fr,De,Es,It,Pt).gba
-7c9e0824a12cb0263330c43381791d64	NFL Blitz 20-02 (USA).gba
-cfa185aa9c5c11136e16ce519f96e3e9	NFL Blitz 20-03 (USA).gba
+7c9e0824a12cb0263330c43381791d64	NFL Blitz 2002 (USA).gba
+cfa185aa9c5c11136e16ce519f96e3e9	NFL Blitz 2003 (USA).gba
 ddac943bebcf4160fa6afe082e16513c	NHL 2002 (USA).gba
-e6b4bd3c5f5b3d57c2e29c4a9b377b26	NHL Hitz 20-03 (USA).gba
+e6b4bd3c5f5b3d57c2e29c4a9b377b26	NHL Hitz 2003 (USA).gba
 ace5dff7d63fb765515b43e6950a455c	Nicktoons - Attack of the Toybots (USA).gba
 07f3b7415eb3779ff11e51a38d0ad3f8	Nicktoons - Battle for Volcano Island (USA).gba
 7a710c9d170d28397cf36002cce4734d	Nicktoons - Freeze Frame Frenzy (USA).gba
@@ -2113,11 +2133,11 @@ b8b1bffea715392586d6a549ced8f0e2	Ochaken no Heya (Japan).gba
 4f5f2463f25b4ee75b948c11d6312b91	Ohanaya-san Monogatari GBA - Iyashikei Ohanaya-san Ikusei Game (Japan).gba
 fd1d6711a0cca4c15a627183aec0a854	Ojarumaru - Gekkouchou Sanpo de Ojaru (Japan).gba
 247ec2c581b6c5d9bafbda6c51d7c119	Okumanchouja Game - Nottori Daisakusen! (Japan).gba
-ce153a5ce176b608edd035e3b9a27dad	One Piece (USA).gba
 c939d218192e534472423557d6fb1571	One Piece - Dragon Dream (Japan).gba
 799a13e6df8c577e5e49fb1f0b217a0b	One Piece - Going Baseball - Haejeok Yaku (Korea).gba
 9bb9e68ca6d9a2f0c4bc9052321fbee8	One Piece - Going Baseball - Kaizoku Yakyuu (Japan).gba
 3c1304ad6651e0e2c2d6741d949e4a31	One Piece - Ilgop Seomui Debomool (Korea).gba
+ce153a5ce176b608edd035e3b9a27dad	One Piece (USA).gba
 1e0b41fbb6f338dc44932625446df20c	Onimusha Tactics (Europe).gba
 4ec9300d15c45cf476705af1869c444e	Onimusha Tactics (Japan).gba
 7c8e479f4c4e46f406b1da5e786358c0	Onimusha Tactics (USA).gba
@@ -2130,7 +2150,7 @@ c939d218192e534472423557d6fb1571	One Piece - Dragon Dream (Japan).gba
 9476b0a926165be6a5cb30378beece99	Oshaberi Inko Club (Japan) (Beta).gba
 e83c6421a55f4af4394fc8b5fb47efdd	Oshaberi Inko Club (Japan).gba
 1aa6a1651fa5ad8a002ca41e5ea9db30	Oshare Princess (Japan).gba
-38b69a345ed3a000e390645aaf6e51fc	Oshare Princess 2 (Japan).gba
+38b69a345ed3a000e390645aaf6e51fc	Oshare Princess 2 + Doubutsu Kyaranabi Uranai (Japan).gba
 cd26ad539926810e5812ccc1105732cc	Oshare Princess 3 (Japan).gba
 3433a199b6c8360c998de05f54fc25bf	Oshare Princess 5 (Japan).gba
 85eb280639d3c2bab9fa8444e861e461	Oshare Wanko (Japan).gba
@@ -2138,12 +2158,12 @@ c9afff5c7245894071c7191df4b1749f	Ottifanten Pinball (Germany).gba
 cf33e45e59b0ee3801b5cf18a9e58524	Ougon no Taiyou - Hirakareshi Fuuin (Japan).gba
 718285dfbe8b0f7278b024762b5899f7	Ougon no Taiyou - Ushinawareshi Toki (Japan) (Virtual Console).gba
 9d84ad590d1dffa33b1b1e2e1d64fb4d	Ougon no Taiyou - Ushinawareshi Toki (Japan).gba
-0f7f9dc0c967029f8686ece3b9385c71	Over the Hedge (Europe).gba
-123978146274e2c7711209aba22ee244	Over the Hedge (USA).gba
 369aac3167d1f83c70a671b8febc2751	Over the Hedge - Beesten bij de Buren (Netherlands).gba
 ec77810214f9b39fdc7fe1f2f1cf5cc3	Over the Hedge - Hammy Goes Nuts! (Europe) (En,Fr,De,Es,It,Nl).gba
 691ea58d7b3c1adb7c6e01792bd2d140	Over the Hedge - Hammy Goes Nuts! (USA).gba
-5ee1ad6dc6974ecfc9dc3cc93b17fbb0	Overstorm (Unknown) (Proto).gba
+0f7f9dc0c967029f8686ece3b9385c71	Over the Hedge (Europe).gba
+123978146274e2c7711209aba22ee244	Over the Hedge (USA).gba
+5ee1ad6dc6974ecfc9dc3cc93b17fbb0	Overstorm (Europe) (Proto).gba
 dfae85cbb4e9825bee214ff73ca9bbaa	Ozzy & Drix (USA).gba
 657823b16014bc265ab93757564e0be5	Paard & Pony - Mijn Manege (Netherlands) (En,Nl).gba
 6532702b7ed355f25f4ae6af3dc5ddea	Paard & Pony - Paard in Galop (Netherlands) (En,Nl).gba
@@ -2155,11 +2175,11 @@ a8af304d0a9a60911018847cdea41eb8	Pac-Man Collection (USA) (Virtual Console).gba
 ed4304cc4f5bac34adfaa750316784a8	Pac-Man Collection (USA).gba
 30e7a35f23b2259b65844a667191c556	Pac-Man Pinball Advance (Europe) (En,Fr,De,Es,It).gba
 4d7b955b9c19b13d1d776e35ce007f78	Pac-Man Pinball Advance (USA).gba
-db8327ce52ef65ebd4d0629b5febe178	Pac-Man World & Ms. Pac-Man - Maze Madness (Europe) (En,Fr,De,Es,It).gba
 83511ed734d5bf842b9062ebc574a434	Pac-Man World (Europe) (En,Fr,De,Es,It).gba
 3eda36856917a9ab80b9bb7a930be834	Pac-Man World (USA).gba
+db8327ce52ef65ebd4d0629b5febe178	Pac-Man World & Ms. Pac-Man - Maze Madness (Europe) (En,Fr,De,Es,It).gba
 3755c0a785a829114c543393ecf0cb4e	Pac-Man World 2 (Europe) (En,Fr,De,Es,It).gba
-f6c0c5a3ca383ec7769979aa69f551e1	Pac-Man World 2 (USA) (Beta).gba
+f6c0c5a3ca383ec7769979aa69f551e1	Pac-Man World 2 (USA) (Beta) (2005-04-15).gba
 86e6497272f39b19af6750d699569531	Pac-Man World 2 (USA).gba
 2b679f61361ad3040086d8684d58e8e7	Paws & Claws - Best Friends - Dogs & Cats (USA).gba
 b0118c3619b732c172ce9770393d8a06	Paws & Claws - Pet Resort (USA).gba
@@ -2180,13 +2200,13 @@ fc7542ef483c03eb22000837c38bfc1d	Peter Pan - The Motion Picture Event (USA).gba
 7d2e6bb7047468ed61f9c31c48c27eea	Pferd & Pony - Lass Uns Reiten 2 (Germany) (En,De).gba
 1cd1385407bfb06d4ee222650e633735	Pferd & Pony - Mein Gestuet (Germany) (En,De).gba
 40264b9c9eab1b8d1cdf834dbc05f16e	Pferd & Pony - Mein Pferdehof (Germany) (En,De).gba
-ba7f3c1078471eeed0d3ee39c092578a	Pferd & Pony 2 in 1 (Germany).gba
+ba7f3c1078471eeed0d3ee39c092578a	Pferd & Pony - Mein Pferdehof & Pferd and Pony - Lass Uns Reiten 2 (Germany).gba
 bc15f4e82a86854175442d32218e2b14	Phalanx (Europe) (En,Fr,De,Es,It,Nl).gba
 c79aa5315644d3463c91f2dd7fa08202	Phalanx (Japan).gba
 6e2fc7fc2915afb2c0f3a833c62f4c20	Phalanx (USA).gba
 6c36961dc125f8507c941888640a0272	Phantasy Star Collection (Europe).gba
 af7e218eb4a7f28f1887b3504647854e	Phantasy Star Collection (USA).gba
-b0c2d1eea6b076c167fd74ce79538d91	Phantom, The (Italy) (Proto).gba
+b0c2d1eea6b076c167fd74ce79538d91	Phantom, The (Italy) (It) (Proto).gba
 8dd015022218c0df89bdd4a1a1fc4e7b	Phil of the Future (USA).gba
 503df54ce026cb71b6f6665d3ec50074	Pia Carrot e Youkoso!! 3.3 (Japan).gba
 e524b9c64a98cdc79cf88cbdea5ee39a	Piglet's Big Game (Europe) (En,Fr,De,Es,It,Nl).gba
@@ -2203,8 +2223,8 @@ e0adff6ebe33cd13b57a7041f14599d8	Pinball Tycoon (USA).gba
 ba7746952e87a2c85927fa691e7230dd	Pink Panther - Pinkadelic Pursuit (USA).gba
 e7c65f9930b6e7580565ad3713c303b1	Pinky and the Brain - The Master Plan (Europe) (En,Fr,De,Es,It).gba
 cc73a1bba4cda50f818581db3dd7b661	Pinky Monkey Town (Japan).gba
-39bf2bbb87fb25e3c4df8475ee527199	Pinobee & Phoebee (Japan).gba
 211af14ac83a170a0e60fe8d0a48e37e	Pinobee - Wings of Adventure (USA, Europe).gba
+39bf2bbb87fb25e3c4df8475ee527199	Pinobee & Phoebee (Japan).gba
 ce194375c105dc51582f47e7435103d0	Pinobee no Daibouken (Japan).gba
 8d37b40ccbfed23e7a2b677ced5bde2f	Pippa Funnell - Stable Adventure (Europe) (En,Fr).gba
 48df7cdc6444d804cedf290a6edd048f	Pippa Funnell 2 (Europe) (En,Fr).gba
@@ -2263,24 +2283,24 @@ a40e90f68309ad1fd0b9efe33dcc6ba8	Pokemon - Edicion Zafiro (Spain) (Rev 1).gba
 cc87721bb3dfa680f15e875edcf0b4dd	Pokemon - Edicion Zafiro (Spain).gba
 605b89b67018abcea91e693a4dd25be3	Pokemon - Emerald Version (USA, Europe).gba
 6648a0484a56097ca75d6af87ebce225	Pokemon - Feuerrote Edition (Germany).gba
-e26ee0d44e809351c8ce2d73c7400cdd	Pokemon - FireRed Version (USA).gba
 51901a6e40661b3914aa333c802e24e8	Pokemon - FireRed Version (USA, Europe) (Rev 1).gba
+e26ee0d44e809351c8ce2d73c7400cdd	Pokemon - FireRed Version (USA, Europe).gba
 f12ac2c645c7984621e573a37d76c446	Pokemon - Leaf Green (USA) (Pirate).gba
-612ca9473451fa42b51d1711031ed5f6	Pokemon - LeafGreen Version (USA).gba
 9d33a02159e018d09073e700e1fd10fd	Pokemon - LeafGreen Version (USA, Europe) (Rev 1).gba
+612ca9473451fa42b51d1711031ed5f6	Pokemon - LeafGreen Version (USA, Europe).gba
 31aac9610e0d8a33469695e2c571be2e	Pokemon - Liechi Berry Glitch Fix & Shiny Zigzagoon Distribution (Europe) (Kiosk).gba
 a93c24b102f9ffbd5676e18f2e4cb33c	Pokemon - Rubin-Edition (Germany) (Debug Version).gba
 9aa6ac6fd369a686373a2e1bf8bb6aa3	Pokemon - Rubin-Edition (Germany) (Rev 1).gba
 1af28ea547d4116dc752c93f7f694239	Pokemon - Rubin-Edition (Germany).gba
-53d1a2027ab49df34a689faa1fb14726	Pokemon - Ruby Version (USA).gba
 e0503182a2e699678bcf25a6897a24d6	Pokemon - Ruby Version (USA, Europe) (Rev 1).gba
 3e1b2065b3837c14ffbd03fe205fdfd7	Pokemon - Ruby Version (USA, Europe) (Rev 2).gba
+53d1a2027ab49df34a689faa1fb14726	Pokemon - Ruby Version (USA, Europe).gba
 9d816b369343d39b94af9a8b0ce7f63b	Pokemon - Saphir-Edition (Germany) (Rev 1).gba
 43906c58afaf0760f62ec698ef10eafc	Pokemon - Saphir-Edition (Germany).gba
-f34e91399c719812e66e2c828a2e93d7	Pokemon - Sapphire Version (USA).gba
+2e421c417113247f1527731dd1420e6b	Pokemon - Sapphire Version - Gotta Catch 'em All! (USA) (Unl).gba
 3a32fd98b065283d09eeba1ce0542888	Pokemon - Sapphire Version (USA, Europe) (Rev 1).gba
 9bc2b765ca6997175fac51e6cdc29089	Pokemon - Sapphire Version (USA, Europe) (Rev 2).gba
-2e421c417113247f1527731dd1420e6b	Pokemon - Sapphire Version - Gotta Catch 'em All! (USA) (Unl).gba
+f34e91399c719812e66e2c828a2e93d7	Pokemon - Sapphire Version (USA, Europe).gba
 9589f5c6bd150e73a4b4427643b9f46d	Pokemon - Slot 2 Distribution (Japan) (En) (B5DJ).gba
 c0e4157a27292cac28987d0fbd8bc8e0	Pokemon - Slot 2 Distribution (Japan) (Proto).gba
 f793a854654b467211fc32c4062cb183	Pokemon - Smaragd-Edition (Germany).gba
@@ -2300,8 +2320,8 @@ b075dcf2b63a992e10204b553800ff40	Pokemon - Versione Zaffiro (Italy) (Rev 1).gba
 f42847fa81d5d1cf30d1dd5b64924561	Pokemon - Versione Zaffiro (Italy).gba
 f3647154d85d20f9c8ba66ed8f0a609e	Pokemon Fushigi no Dungeon - Aka no Kyuujotai (Japan).gba
 9837da1fdfe900c52f2109d9718d4e85	Pokemon Mystery Dungeon - Red Rescue Team (Europe) (En,Fr,De,Es,It).gba
-779a2a4435e0093a7846798270705c76	Pokemon Mystery Dungeon - Red Rescue Team (USA) (Demo) (Kiosk).gba
 2100cf6f17e12cd34f1513647dfa506b	Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia).gba
+779a2a4435e0093a7846798270705c76	Pokemon Mystery Dungeon - Red Rescue Team (USA) (Demo) (Kiosk).gba
 98b421421f79e774231b65df7b1b3c47	Pokemon Pinball - Ruby & Sapphire (Europe) (En,Fr,De,Es,It).gba
 be2ca0c6f898c5c453924d69732aabbb	Pokemon Pinball - Ruby & Sapphire (Japan) (Rev 1).gba
 3cebd1599fbc2cbea21bc940445e8f2c	Pokemon Pinball - Ruby & Sapphire (Japan).gba
@@ -2319,16 +2339,14 @@ b86876fdb1125cc3132dab1cc0d6eb74	Pop Idol (Europe).gba
 a5bf85cd40533d76a1fb2b0b2f8d5b19	Popeye - Rush for Spinach (USA, Europe) (En,Fr,De,Es,It).gba
 e682f89b0a9c991b5e16ceb188fa7e87	Postman Pat and the Greendale Rocket (Europe) (En,No,Da).gba
 527153ae575aefe5e48ed9ccc191ba66	Power Poke Dash (Japan).gba
-45ef3c56fb1d7e33144d3517133e1ced	Power Pro Kun Pocket 1, 2 (Japan) (Promo).gba
 1c71095f65234ad3649e6c685b1e61f4	Power Pro Kun Pocket 1, 2 (Japan).gba
 22b69c5c0108766be33ad23340f387e2	Power Pro Kun Pocket 3 (Japan) (Rev 1).gba
 d8635a000fffb777f91137993d439ee3	Power Pro Kun Pocket 3 (Japan).gba
 70a5faaf9b9bfe3bebd8ccff75a6155b	Power Pro Kun Pocket 4 (Japan) (Rev 1).gba
 4d5f240b6a56582f7743287726e6242b	Power Pro Kun Pocket 4 (Japan).gba
-f8282772301a8afc2c6979b447fa9c55	Power Pro Kun Pocket 5 (Japan) (Promo).gba
+f8282772301a8afc2c6979b447fa9c55	Power Pro Kun Pocket 5 (Japan) (Demo) (Kiosk).gba
 9a5d5ac7a142a38c31de819f8e059cca	Power Pro Kun Pocket 5 (Japan) (Rev 1).gba
 7cc95cffcb5835b1cde52c805be8461a	Power Pro Kun Pocket 5 (Japan).gba
-17d463e3e82827c38ee8fc301790d279	Power Pro Kun Pocket 6 (Japan) (Promo).gba
 128f71aa30e3435283df66b77a361672	Power Pro Kun Pocket 6 (Japan).gba
 845dc86c7d1869bbe0b984d19d9ba01f	Power Pro Kun Pocket 7 (Japan).gba
 d867844ad81a900aba625a5075275247	Power Rangers - Dino Thunder (Europe) (Fr,De).gba
@@ -2346,17 +2364,17 @@ a668a8f0847a99d34463661563b4fc0f	Powerpuff Girls, The - Him and Seek (Europe) (E
 e5911e8365d3fe871c7d58560a302938	Powerpuff Girls, The - Him and Seek (USA).gba
 59240da663c9537307a05e0a465da198	Powerpuff Girls, The - Mojo Jojo A-Go-Go (Europe) (En,Fr,De,Es,It,Nl).gba
 28a2b3e44952944e29a168e5f17b5696	Powerpuff Girls, The - Mojo Jojo A-Go-Go (USA) (En,Fr,De,Es,It,Nl).gba
-2a141847ee3dc1e13ada211a8c2537cc	Prehistorik Man (USA) (En,Fr,De,Es,It,Nl) (Beta).gba
+2a141847ee3dc1e13ada211a8c2537cc	Prehistorik Man (USA, Europe) (En,Fr,De,Es,It,Nl) (Beta).gba
 6ce9bb835428a17300fd191c7b9d8ece	Prehistorik Man (USA, Europe) (En,Fr,De,Es,It,Nl).gba
 8bac13cf55656a7d66ab32482fd7a323	Premier Action Soccer (Europe) (En,Fr,De,Es,It).gba
 479cb924baec02b8cb63a3f4838cdf17	Premier Manager 2003-04 (Europe) (En,Fr,De,It) (Rev 1).gba
 563f3b87205c05e7167de68a99a80c4d	Premier Manager 2003-04 (Europe) (En,Fr,De,It).gba
 729069ee00dad63007eb77cb892e4627	Premier Manager 2004-2005 (Europe) (En,Fr,De,It).gba
 3dd4126b95d3796201149ecde2eeeb9d	Premier Manager 2005-2006 (Europe) (En,Fr,De,It).gba
-3ec6b4cd475b62b2351a1b5ea6772311	Prince of Persia - The Sands of Time & Lara Croft Tomb Raider - The Prophecy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It).gba
 69a9f59169766cda7ebc29be820a78a3	Prince of Persia - The Sands of Time (Europe) (En,Fr,De,Es,It,Nl).gba
 6cff8b06c18dfafdc44a2c5725f6efe2	Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (Rev 1).gba
 6d820b583b6ab2cc5c901d56b43e38cb	Prince of Persia - The Sands of Time (USA) (En,Fr,Es).gba
+3ec6b4cd475b62b2351a1b5ea6772311	Prince of Persia - The Sands of Time & Lara Croft Tomb Raider - The Prophecy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It).gba
 5909daf13d2b2e2ec30723777e7654f4	Princess Natasha - Student, Secret Agent, Princess (Europe) (En,Fr,De,Es,It).gba
 f8435f531c69c258841a985ff1e8072f	Princess Natasha - Student, Secret Agent, Princess (USA).gba
 3d72e4064493e22aa7bd61a6e5b9e2dd	Pro Action Replay (Japan) (Unl).gba
@@ -2365,9 +2383,9 @@ f0507e4e45d9643b4749ec3854557872	Pro Beach Soccer (Europe) (En,Fr,De,Es,It,Pt).g
 4990745ba11881cf35a4c860faa7038d	Pro Tennis WTA Tour (Europe).gba
 50a4ec7cc71ea0620629610e6306f299	Pro Yakyuu Team o Tsukurou! Advance (Japan).gba
 487704c5d9978e88e8468d127561948c	Proud Family, The (USA).gba
-521d5e856a5420d69ff3b9752f106f7f	PukuPuku Tennen Kairanban (Japan).gba
 fa8d5832ed9ccad0fbcae7a147755ae9	PukuPuku Tennen Kairanban - Koi no Cupid Daisakusen (Japan).gba
 bee8f511abc2235061d9fdb2171c620c	PukuPuku Tennen Kairanban - Youkoso! Illusion Land he (Japan).gba
+521d5e856a5420d69ff3b9752f106f7f	PukuPuku Tennen Kairanban (Japan).gba
 06f7ff2db5abcbd59e4f4816b1890dd9	Punch King - Arcade Boxing (Europe) (En,Fr,Es).gba
 74d3fd11921e0cd02955a6b59fe75e0f	Punch King - Arcade Boxing (USA).gba
 f333b1026273dd9b49dad0f912510496	Puppy Luv - Spa and Resort (USA).gba
@@ -2385,9 +2403,11 @@ b10afb07357cb31ac7c77d431894ea61	Quake (USA) (Proto).gba
 2c464384922d5a145559c61ed8664113	Qwak (Europe) (En,Fr,De,Es,It) (Unl).gba
 fb85f8209fe4ea11e6578b11e8194546	R-Type III - The Third Lightning (Europe) (En,Fr,De,Es,It).gba
 188e4a01bf62230b7b50eaeb9355bd42	R-Type III - The Third Lightning (USA).gba
+d4a18392c43f57f57224132324b7acbb	R3D Demo (Europe) (Demo).gba
 f1040f25e06dd1f4b5fa2967a2996ffc	Racing Fever (Europe) (En,De,Es,It).gba
 edfdf49642c0cc0458e0584792f869c5	Racing Fever (France).gba
 072f378e3ae2d271f384b886be067031	Racing Gears Advance (Europe) (En,Fr,De,Es,It).gba
+b7562d8e37c2c2a0b22926f8080711db	Racing Gears Advance (USA) (Beta).gba
 1dac1484f1d66158b1cfae3da7c79af9	Racing Gears Advance (USA).gba
 580cc4c0a87dd4c40901ddadd90ca76f	Rampage - Puzzle Attack (USA, Europe).gba
 1a92e287f154d62c136ebe524e75c7f2	Rapala Pro Fishing (USA, Europe).gba
@@ -2426,6 +2446,7 @@ ac593798dfb4a39c4502ba3ea9092680	Recca no Honoo - The Game (Japan).gba
 241e85ad00eaf8cf43499eeb437cf009	Reign of Fire (Europe) (En,Fr,De,Es,It).gba
 97e46f72ce3ccdaa76bee1eb60342bc7	Reign of Fire (USA) (En,Fr,De,Es,It).gba
 6a52067a659df5e992f4323965c06c27	Relaxuma na Mainichi (Japan).gba
+c439084f641ea8d052afbba4e1b09b8a	Remute - Unity (World) (Aftermarket) (Unl).gba
 28cebf1c1138771d3c55beebf589fc52	Ren Zhe Shen Gui 2 (Taiwan) (Unl).gba
 4261ad698a20c73552ba8b75d184a4c9	Rescue Heroes - Billy Blazes! (USA).gba
 e9385f1a0876c563dc42a0ee9c8700ce	Resident Evil 2 (Unknown) (Proto).gba
@@ -2468,6 +2489,8 @@ acac2e3c7752f2407d787f084c0bf6f8	Rocket Power - Zero Gravity Zone (USA).gba
 8bb88f20d166d7f6c3806c0c761fb54d	Rockman & Crystal (USA) (Unl).gba
 080c58f12416fdf0d8b38ec61a976ca6	Rockman & Forte (Japan) (Virtual Console).gba
 93d1ba78096704c5dcfa993337469542	Rockman & Forte (Japan).gba
+2152c7ff7aea128267279e1a3c5db3ee	Rockman EXE - Battle Chip GP (Japan) (Virtual Console).gba
+e7970a74b423e6b4e842ec640eba3630	Rockman EXE - Battle Chip GP (Japan).gba
 157cec6ff0d7360e856b8e09508ec2e5	Rockman EXE 4 - Tournament Blue Moon (Japan) (Rev 1) (Virtual Console).gba
 73ddea9abd509f650addd4998e86976f	Rockman EXE 4 - Tournament Blue Moon (Japan).gba
 58ef389491ad50b30ac508319440f685	Rockman EXE 4 - Tournament Red Sun (Japan) (Rev 1) (Virtual Console).gba
@@ -2483,8 +2506,6 @@ a2492ca979c2c616ad38e81e5dc3e655	Rockman EXE 4 - Tournament Red Sun (Japan) (Rev
 0e3ed3a6cc2f201897c58cb31d43a35f	Rockman EXE 6 - Dennoujuu Falzar (Japan).gba
 de2f2ca8f0d03a8a2e14258dac2581fd	Rockman EXE 6 - Dennoujuu Gregar (Japan) (Virtual Console).gba
 053cf73404dcc39be7cbd77c8e833150	Rockman EXE 6 - Dennoujuu Gregar (Japan).gba
-2152c7ff7aea128267279e1a3c5db3ee	Rockman EXE Battle Chip GP (Japan) (Virtual Console).gba
-e7970a74b423e6b4e842ec640eba3630	Rockman EXE Battle Chip GP (Japan).gba
 7ab8dcd02c665b442b6ddf6b3556e4e4	Rockman Zero (Japan) (Virtual Console).gba
 a8110c3928caffb9a73b48a009f9044f	Rockman Zero (Japan).gba
 18d8c779e0b0c50be33b84374d1f57b8	Rockman Zero 2 (Japan) (Virtual Console).gba
@@ -2515,9 +2536,9 @@ bbe5c39533aaf3c912cf1b3ee9fee2ea	Samsara Naga 1x2 (Japan).gba
 9d01c59abe3149ca2a9c0900571e6914	Samurai Deeper Kyo (USA).gba
 b21148257d0aeadaf9c6cb35b857473e	Samurai Evolution - Oukoku Geist (Japan).gba
 473c1f5bd97f5f96a5b19f3e18121d81	Samurai Jack - The Amulet of Time (USA, Europe).gba
-10e33fd51bac0b0c3523eddbcd0eaf56	Sangokushi (Japan).gba
 76cccc133899422854687e672f335cbd	Sangokushi - Eiketsuden (Japan).gba
 4481174ebb5dc407f2bcb5fcb0c01bee	Sangokushi - Koumeiden (Japan).gba
+10e33fd51bac0b0c3523eddbcd0eaf56	Sangokushi (Japan).gba
 48822a0b1d0d90b842f6ee1c80ab08c1	Sanrio Puroland - All Characters (Japan).gba
 27d0a58227e4c5c6e8481faa4d541fc0	Santa Claus Jr. Advance (Europe) (Beta).gba
 c0dfc8c07f3aba36be5f40edb996f679	Santa Claus Jr. Advance (Europe).gba
@@ -2596,12 +2617,12 @@ fbad88c14dcedefe6c70b06adcd0a0db	Shin Bokura no Taiyou - Gyakushuu no Sabata (Ja
 0dbc85a954aba764a3bbae2e078d26f0	Shin chan - Aventuras en Cineland (Spain).gba
 8f3d9095c1d0b281ba12a4bac17c29d1	Shin chan contra los Munecos de Shock Gahn (Spain).gba
 055b47930ba47d234d91bdbf63dd974e	Shin Kisekae Monogatari (Japan).gba
+6207cb2c18a77cc408c6e42cc7f0cf10	Shin Megami Tensei - Devil Children - Honoo no Sho (Japan).gba
+625d77a12509cd5635e357d89aadfa02	Shin Megami Tensei - Devil Children - Koori no Sho (Japan).gba
+2761b40bd27082bd75b752b47cafacec	Shin Megami Tensei - Devil Children - Messiah Riser (Japan).gba
+1c04ff63c5d5b1a1eb62c1dca639e87f	Shin Megami Tensei - Devil Children - Puzzle de Call! (Japan).gba
 25b2d758e9abc435441414aab6d43431	Shin Megami Tensei (Japan).gba
 f69ced586dc3dfb4705b69f42ade2b06	Shin Megami Tensei Devil Children - Hikari no Sho (Japan).gba
-6207cb2c18a77cc408c6e42cc7f0cf10	Shin Megami Tensei Devil Children - Honoo no Sho (Japan).gba
-625d77a12509cd5635e357d89aadfa02	Shin Megami Tensei Devil Children - Koori no Sho (Japan).gba
-2761b40bd27082bd75b752b47cafacec	Shin Megami Tensei Devil Children - Messiah Riser (Japan).gba
-1c04ff63c5d5b1a1eb62c1dca639e87f	Shin Megami Tensei Devil Children - Puzzle de Call! (Japan).gba
 fab0e663d83fa071089cc626b84c92eb	Shin Megami Tensei Devil Children - Yami no Sho (Japan) (Beta).gba
 8a8dc5dc9bc9a49d35ba263e1ba9f4a7	Shin Megami Tensei Devil Children - Yami no Sho (Japan).gba
 57af4ca36d8036a483ae0d98c27bf544	Shin Megami Tensei II (Japan).gba
@@ -2633,12 +2654,12 @@ b7bd37b2b39b8aaad6f297423db2d2a2	Shrek - Smash n' Crash Racing (Europe) (En,Fr,D
 b13292b1d67976f9abf8a318743e88d5	Shrek - Smash n' Crash Racing (USA).gba
 ec43565bffb4d418164b85e007de7e17	Shrek - Super Slam (Europe) (En,Fr,De,Es,It,Nl).gba
 5578b19468ea4f4281e9d299d67777d8	Shrek - Super Slam (USA).gba
-ee34036bfcc29de83fdffa8adfa697c9	Shrek - Swamp Kart Speedway (USA) (En,Fr,De,Es,It,Nl) (Rev 1).gba
 be807a4d9dfe2f283760cee1ecd28a5b	Shrek - Swamp Kart Speedway (USA, Europe) (En,Fr,De,Es,It,Nl).gba
-2e9b5ec5bb6be065d2f52af20bf8aca3	Shrek 2 (Europe) (Fr,De,Es,It,Sv).gba
-9ef8e30824db751f3d42e048514a3624	Shrek 2 (USA, Europe).gba
+ee34036bfcc29de83fdffa8adfa697c9	Shrek - Swamp Kart Speedway (USA) (En,Fr,De,Es,It,Nl) (Rev 1).gba
 b81b9913a787699cf76b0b4807518956	Shrek 2 - Beg for Mercy (Europe) (Fr,De,Es,It).gba
 c8a0ce6010243c1b4a05458344c9fc31	Shrek 2 - Beg for Mercy (USA, Europe).gba
+2e9b5ec5bb6be065d2f52af20bf8aca3	Shrek 2 (Europe) (Fr,De,Es,It,Sv).gba
+9ef8e30824db751f3d42e048514a3624	Shrek 2 (USA, Europe).gba
 1a42ae26c4068ea87c2e8c476ecd0e26	Shrek Prezessin (Russia) (Unl).gba
 62a40ea4f49b7dfd192696732306fba9	Shrek the Third (Europe) (En,Fr,De,Es,It,Nl).gba
 968c5daa71e6b41c71143852b27ae0b5	Shrek the Third (USA).gba
@@ -2660,12 +2681,12 @@ ca3500bedd93475c210d4dd16a968d08	Simple 2960 Tomodachi Series Vol. 4 - The Trump
 57d3ac8d32b263592b600dc69939b973	Simple 2960 Tomodachi Series Vol. 4 - The Trump - Minna de Asoberu 12 Shurui no Trump Game (Japan).gba
 d3a5a53a283de179f8b65b0b5b90d413	Simpsons, The - Road Rage (Europe) (En,Fr,De,Es,It).gba
 8f0fdaeda361783ee74abd980b418388	Simpsons, The - Road Rage (USA, Europe).gba
-51455002b0daa27de8eaa5d9ad1afd6f	Sims 2, The (USA, Europe) (En,Fr,De,Es,It,Nl).gba
 58180e01eae5278b9a8dc355d80d21cd	Sims 2, The - Pets (Europe) (En,Fr,De,Es,It,Nl).gba
 1d1bb23346b8a9592316a63647c70d76	Sims 2, The - Pets (USA, Europe).gba
-2b05ef0af7a48729a665a86573ae70b4	Sims, The (Japan).gba
-eb73bdf597637bed97885296a68250df	Sims, The - Bustin' Out (USA) (En,Fr,De,Es,It,Nl) (Rev 1).gba
+51455002b0daa27de8eaa5d9ad1afd6f	Sims 2, The (USA, Europe) (En,Fr,De,Es,It,Nl).gba
 e429ce307fe06dbcd7724552ff0339d7	Sims, The - Bustin' Out (USA, Europe) (En,Fr,De,Es,It,Nl).gba
+eb73bdf597637bed97885296a68250df	Sims, The - Bustin' Out (USA) (En,Fr,De,Es,It,Nl) (Rev 1).gba
+2b05ef0af7a48729a665a86573ae70b4	Sims, The (Japan).gba
 9d4af1ce1b242538b52bdfdf30b5b257	Sister Princess - RePure (Japan).gba
 38856f86a30538cbb3e4164da96002a7	Sitafei De Chuanshuo (China) (Proto).gba
 8dc9eb3c6a76fe563bdd7b7d10f2b72c	Sitafei De Chuanshuo 2 (China) (Proto).gba
@@ -2688,17 +2709,19 @@ a9572991316ac2e105abfec80aaeb02e	Snood (Europe) (En,Fr,De,Es,It).gba
 1205d76449958f1d204f380499c7cfff	Snood 2 - On Vacation (Europe) (En,Fr,De,Es,It).gba
 1d15cd3454a3566dc51d9321563d8c12	Snood 2 - On Vacation (USA).gba
 dedc14eac17a4bb6e043f09d5b793f99	Soccer Kid (USA, Europe).gba
+3ff6f06de88f0646e8cf85181ca2e10d	Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba
 415ce33cab064fb6bb2961bb91ba26ea	Sonic 3 - Fighter Sonic (USA) (Unl).gba
 93a2f28339858e955e4f17060e038bcd	Sonic Advance (Europe) (En,Ja,Fr,De,Es).gba
-fca4c485f41412a4ddc05fbe105c3219	Sonic Advance (Japan) (Beta).gba
 d2bc5687ac40a62f74daf3fb219644e5	Sonic Advance (Japan) (En,Ja) (Rev 1) (Virtual Console).gba
 9e02f1c9f26f40905d43188b2bd2d98e	Sonic Advance (Japan) (En,Ja) (Rev 1).gba
 b62f11b1d014d5c5c2dd703676cb443d	Sonic Advance (Japan) (En,Ja).gba
+fca4c485f41412a4ddc05fbe105c3219	Sonic Advance (USA) (En,Ja) (Beta) (2001-10-31).gba
+fca4c485f41412a4ddc05fbe105c3219	Sonic Advance (USA) (En,Ja) (Beta) (2001-10-31).gba
 49ecc8ef1988e7ae81fbda1b4cf71eed	Sonic Advance (USA) (En,Ja).gba
 6664b43c51935ea8f06f5b37ce83feca	Sonic Advance 2 (Europe) (En,Ja,Fr,De,Es,It).gba
 9cdc062badfcb4d0993c4455a4cf3c52	Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It) (Virtual Console).gba
 a219b3042eb65899baafa5143c53560c	Sonic Advance 2 (Japan) (En,Ja,Fr,De,Es,It).gba
-bb5388a63c4ced0f72dca1ce62775eff	Sonic Advance 2 (USA) (Beta).gba
+f957455dad9133d9ef41af092a353973	Sonic Advance 2 (USA) (Beta) (2002-10-25).gba
 3fb865c5f142a8fc1f82105bfc6b8935	Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It).gba
 edd737aa42cbc7fa7d8b86c249f06ca1	Sonic Advance 3 (Europe) (En,Ja,Fr,De,Es,It) (Beta).gba
 e6b78109c11d82f621db846da70bc30a	Sonic Advance 3 (Europe) (En,Ja,Fr,De,Es,It).gba
@@ -2721,14 +2744,14 @@ b50707ad72a97b131f4d620483287f95	Space Channel 5 - Ulala's Cosmic Attack (USA).g
 581120b8e9bbe9b3409ff219ee3d1b78	Space Invaders (France).gba
 2ae83e668d4098f60a686962ae8ea71a	Space Invaders (USA, Europe).gba
 59facfa52dc4730f506a3fe41466f657	Space Invaders EX (Japan) (En).gba
-ef51d33fd8473d11c3b8083937e6cdf5	Speedball 2 - Brutal Deluxe (Europe) (En,Fr,De,Es,It).gba
-46e6cc0beebb0df7077540866ab98bf3	Spider-Man (France).gba
-7452f7a8e88435a3c4010262a78037e6	Spider-Man (Germany).gba
-6ea428eabf05d2c51ed21b5608c5db21	Spider-Man (USA, Europe).gba
+ef51d33fd8473d11c3b8083937e6cdf5	Speedball 2 (Europe) (En,Fr,De,Es,It).gba
 02a1d4f4efd3553d9a890cad60ad62c4	Spider-Man - Battle for New York (Europe) (En,Fr,De,Es,It).gba
 833c3fac4ba420d0a3e4ade9184e2bf0	Spider-Man - Battle for New York (USA).gba
 e2026eacc69f10684dd4d370c4abedec	Spider-Man - Mysterio no Kyoui (Japan).gba
 fbda16cbc7e3f81aa5b90da955d3e114	Spider-Man - Mysterio's Menace (USA, Europe).gba
+46e6cc0beebb0df7077540866ab98bf3	Spider-Man (France).gba
+7452f7a8e88435a3c4010262a78037e6	Spider-Man (Germany).gba
+6ea428eabf05d2c51ed21b5608c5db21	Spider-Man (USA, Europe).gba
 22695f0e188adebaa5f7b865c9719daa	Spider-Man 2 (Europe) (En,Fr,De,Es).gba
 ddd7ea535fbd95d05686186a4b15aef6	Spider-Man 2 (Italy).gba
 7914ea9bed5d6936cec9b1c240247bda	Spider-Man 2 (USA, Europe).gba
@@ -2752,11 +2775,11 @@ e84de432672187d3d0b8f4d4d654013b	SpongeBob SquarePants - Battle for Bikini Botto
 45e6e3088c5c9006175aaf045e8795e8	SpongeBob SquarePants - Creature from the Krusty Krab (USA).gba
 24a24025a5e3b15512d4b5858b07c662	SpongeBob SquarePants - Lights, Camera, Pants! (Europe) (En,Fr,De,Es,It,Nl,Sv).gba
 9a5a6c940bbf141d8c2838cf7c818080	SpongeBob SquarePants - Lights, Camera, Pants! (USA).gba
-f3f8de4d9497fde3be0a950a10bb2f5b	SpongeBob SquarePants - Revenge of the Flying Dutchman (USA) (Beta).gba
 0be6c13af62a0f75651bb2acbc397a56	SpongeBob SquarePants - Revenge of the Flying Dutchman (USA, Europe).gba
+f3f8de4d9497fde3be0a950a10bb2f5b	SpongeBob SquarePants - Revenge of the Flying Dutchman (USA) (Beta).gba
 1f7d87cd45e6105577670cab74961993	SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2000-11-28).gba
-64a2d8dd1cfb869d4ad52c506819576f	SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-01-08) (05-16).gba
-510747757a8d81422637656652be1c29	SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-01-08) (07-47).gba
+64a2d8dd1cfb869d4ad52c506819576f	SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-01-08T051624).gba
+510747757a8d81422637656652be1c29	SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-01-08T074756).gba
 1e04d15e21960028153dd09609103c63	SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-02-05).gba
 b85b495da78f807409dd55907d25d220	SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-02-15).gba
 57ee08bdf1400798318d5cfa699d6aed	SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-02-23).gba
@@ -2764,8 +2787,8 @@ b85b495da78f807409dd55907d25d220	SpongeBob SquarePants - SuperSponge (USA, Europ
 ad5bc8554ad143698f62be566789c519	SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-03-01).gba
 26cc5df15901f42782974643505e5159	SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-03-12).gba
 b5826ea94a5b01ab8362eb5b50aaec2c	SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-03-14).gba
-6ea76fbfa326b0b7fd31c5f6050f23ff	SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-06-06) (11-34).gba
-c6badb88a556c59dd89b16809a2529b3	SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-06-06) (11-39).gba
+6ea76fbfa326b0b7fd31c5f6050f23ff	SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-06-06T113400).gba
+c6badb88a556c59dd89b16809a2529b3	SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-06-06T113900).gba
 6745d2318412926b3e1118e83b8b1990	SpongeBob SquarePants - SuperSponge (USA, Europe) (Beta) (2001-07-31).gba
 c2bfa5c822f33eaed02ad2f94a0414b4	SpongeBob SquarePants - SuperSponge (USA, Europe).gba
 22ab0c3096981c511a4698e16d8e067b	SpongeBob SquarePants and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl).gba
@@ -2791,8 +2814,8 @@ c00051b2ff50552c66b31ebe3296031c	Sportsmans Pack 2 in 1 - Cabela's Big Game Hunt
 5e35371eaf3ad42844654216b28937a8	Spyro 2 - Season of Flame (Europe) (En,Fr,De,Es,It) (Beta).gba
 b7236bf34d66ead26ba5b6c1cb16c5f0	Spyro 2 - Season of Flame (Europe) (En,Fr,De,Es,It).gba
 8d9fbf8bde7941ca97dcba7757d60e81	Spyro 2 - Season of Flame (USA).gba
-976a59eb7378eb92ed184969ca428db2	Spyro Advance (Japan).gba
 4a6a7498b3be68b67c323b57fd8ac0d5	Spyro Advance - Wakuwaku Tomodachi Daisakusen! (Japan).gba
+976a59eb7378eb92ed184969ca428db2	Spyro Advance (Japan).gba
 36e7d6e276c0e4f56984a2f8491b9364	Spyro Adventure (Europe) (En,Fr,De,Es,It,Nl).gba
 44faf5ba9c3025ad59f53e82c8243631	Spyro Fusion (Europe) (En,Fr,De,Es,It).gba
 0cb99d064f970b580a8f0c1b87bd643b	Spyro Orange - The Cortex Conspiracy (USA) (Rev 1).gba
@@ -2818,14 +2841,13 @@ d02b4e547e916a20bc7cebcb41cba8ab	Star Wars Trilogy - Apprentice of the Force (Eu
 49dac3774e92dc924bd4fcee69f3f7e1	Star X (Europe) (En,Fr,De,Es,It,Nl).gba
 2c18d1fa4d943439ca17ceef984ea7d4	Star X (USA) (En,Fr,De,Es,It,Nl).gba
 47cdd40b09021b6a7283e37b94185979	Starsky & Hutch (Europe) (En,Fr,De,Es,It).gba
-177cbecf21922a3d5f19d160816c31c2	Starsky & Hutch (USA) (Beta).gba
+177cbecf21922a3d5f19d160816c31c2	Starsky & Hutch (USA) (Beta) (2003-02-11).gba
 7642f18e0d52aaa52245d20692827de9	Starsky & Hutch (USA).gba
 f39b607dc13c4d8c4353b7981f5f6cb6	Steel Empire (Europe).gba
-52c07da7db84b23b687cac98499a95a4	Steven Gerrard's Total Soccer 2002 (Europe) (En,Fr,De,Es,It,Nl).gba
 6b77b1be67aecdb8964b4528573bcfc5	Strawberry Shortcake - Ice Cream Island - Riding Camp (Europe) (En,Fr,De,Es,It,Nl,Pt,Da) (Rev 1).gba
 fb1e889cf258cd014fbb08e5f8554a35	Strawberry Shortcake - Ice Cream Island - Riding Camp (Europe) (En,Fr,De,Es,It,Nl,Pt,Da).gba
-71c5d8e089d0c1b15b4e376515bd4f18	Strawberry Shortcake - Summertime Adventure (USA).gba
 8dc907977f47486569f863f99b81f567	Strawberry Shortcake - Summertime Adventure - Special Edition (USA).gba
+71c5d8e089d0c1b15b4e376515bd4f18	Strawberry Shortcake - Summertime Adventure (USA).gba
 6889044339203f0bec9f20c478772079	Strawberry Shortcake - Sweet Dreams (USA).gba
 901d68257b8beda85240d55725529fe2	Street Fighter Alpha 3 (Europe).gba
 91d5986bcb918e636f17e99eb73b923b	Street Fighter Alpha 3 (USA).gba
@@ -2844,8 +2866,8 @@ dfd7387e205c01a4f044e3a1d4aaea68	Stuntman (Europe) (En,Fr,De,Es,It).gba
 37811411c46cf9a5ee91b418c6e67930	Suite Life of Zack & Cody, The - Tipton Caper (USA) (En,Fr).gba
 55eed735151b69ef84e673ef8dc42aab	Sum of All Fears, The (Europe) (En,Fr,De,Es,It).gba
 e2970509f5671dd267f1c5c5902710e3	Sum of All Fears, The (USA) (En,Fr,De,Es,It).gba
-54f4ee802df00b77617ed7e2e75c27c6	Summon Night - Craft Sword Monogatari (Japan).gba
 6d676a8cb2d528a647e62110653418a8	Summon Night - Craft Sword Monogatari - Hajimari no Ishi (Japan).gba
+54f4ee802df00b77617ed7e2e75c27c6	Summon Night - Craft Sword Monogatari (Japan).gba
 bb4423037d0dc62b5282e1d3ece2b592	Summon Night - Craft Sword Monogatari 2 (Japan).gba
 abfa372f860d0f10037bf28cc78de409	Summon Night - Swordcraft Story (USA).gba
 03eea2d57de9c16b5f10055e8e4e2893	Summon Night - Swordcraft Story 2 (USA).gba
@@ -2868,14 +2890,14 @@ ec9fdbf2ec32b7d5af4fbebe9aa60a56	Super Donkey Kong 2 (Japan).gba
 0c5d34497c80ce931a91238c54c7e668	Super Dropzone - Intergalactic Rescue Mission (Europe).gba
 82f6103c5fc2315e7f11128b9940602f	Super Dropzone - Intergalactic Rescue Mission (USA).gba
 f78dff6fa36f9bcf38cd9e4740ecc9c3	Super Duper Sumos (USA).gba
-10974dab2afea1b3d981568451fe60da	Super Ghouls'n Ghosts (USA) (Virtual Console).gba
 37ff7a1de0322b72a6b41dea0ba53673	Super Ghouls'n Ghosts (USA, Europe).gba
+10974dab2afea1b3d981568451fe60da	Super Ghouls'n Ghosts (USA) (Virtual Console).gba
 acce7ee3388d135aaa8c5ec88e568182	Super Hornet FA 18F (USA, Europe).gba
-7b0c63d4080f79396c0545a86cc1adba	Super Mario Advance (USA) (Demo) (Kiosk).gba
-14eb992bd01c4b6b3542ebd30d942726	Super Mario Advance (USA, Europe) (Virtual Console).gba
-ff6b0c48065389b888c7a78731d4b58d	Super Mario Advance (USA, Europe).gba
 a88efbbba70ec2bb2a9a82ea127a17d1	Super Mario Advance - Super Mario USA + Mario Brothers (Japan) (Virtual Console).gba
 c5240b871426f8bef985a540b9fcadfe	Super Mario Advance - Super Mario USA + Mario Brothers (Japan).gba
+14eb992bd01c4b6b3542ebd30d942726	Super Mario Advance (USA, Europe) (Virtual Console).gba
+ff6b0c48065389b888c7a78731d4b58d	Super Mario Advance (USA, Europe).gba
+7b0c63d4080f79396c0545a86cc1adba	Super Mario Advance (USA) (Demo) (Kiosk).gba
 f877b87f140945ad93cfce50411507c0	Super Mario Advance 2 - Super Mario World (Europe) (En,Fr,De,Es).gba
 2f660377581b7e48c06131f56c791b72	Super Mario Advance 2 - Super Mario World (USA, Australia).gba
 261baa7a487c97bcf1df6c2464f7e9e3	Super Mario Advance 2 - Super Mario World + Mario Brothers (Japan).gba
@@ -2892,9 +2914,9 @@ e559e292aa9d44287b052342d6469967	Super Mario Advance 4 - Super Mario 3 + Mario B
 733e976fd06d65e9f5635b836a14a81b	Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It) (Rev 1) (Virtual Console).gba
 ae8af6b539d509019bdd06565c10804a	Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It) (Rev 1).gba
 761668b5d01ee9b8e52174eadb5fd2cf	Super Mario Advance 4 - Super Mario Bros. 3 (Europe) (En,Fr,De,Es,It).gba
+605286b3aedeffba70bf46b834b120b1	Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1).gba
 e7a2792c5913a8420a419f2d01358487	Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console).gba
 4e5fde12dbd0441150a9c177e545f56f	Super Mario Advance 4 - Super Mario Bros. 3 (USA).gba
-605286b3aedeffba70bf46b834b120b1	Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1).gba
 8efd494b80bca668b4f19c5f3c0b9f13	Super Mario Ball (Europe) (Virtual Console).gba
 cdd0d1bc1b95577662dbf561c8e77f34	Super Mario Ball (Europe).gba
 93feb6b17d3d4f8acaf3c71c3533b068	Super Mario Ball (Japan) (Demo) (Kiosk, GameCube).gba
@@ -2971,9 +2993,9 @@ be0ec34001b26921491d630df83401f2	Tarzan - L'Appel de la Jungle (France).gba
 c9ce90b98c6cc2f60847d6f39ecf11c5	Teen Titans 2 (USA) (En,Fr).gba
 dc4ea1eb92d51b8c18b58611ad652ccc	Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It).gba
 660b52e20c76807f03bb97bf49e15aa1	Teenage Mutant Ninja Turtles (USA).gba
-bb6ef6cc7f6b162a1ace4428148d8f5d	Teenage Mutant Ninja Turtles 2 (USA) (Unl).gba
 eef855d3f529ad51a0ef8bb6f028f31d	Teenage Mutant Ninja Turtles 2 - Battle Nexus (Europe) (En,Fr,De,Es,It).gba
 da96ce67d0ddad72e032632c8fd9994a	Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA).gba
+bb6ef6cc7f6b162a1ace4428148d8f5d	Teenage Mutant Ninja Turtles 2 (USA) (Unl).gba
 c0dc262c0199f86e97eb6b1f4540eccc	Teenage Mutant Ninja Turtles Double Pack (Europe) (En,Fr,De,Es,It).gba
 f80cad97ed415aba1ec81d983fb4ae56	Teenage Mutant Ninja Turtles Double Pack (USA) (En,Fr,De,Es,It).gba
 6d9c1a92c3b43e833676e7a2fbc0c5fe	Tekken Advance (Europe).gba
@@ -2995,7 +3017,7 @@ afa8a9e3d7a2cd86c6ce8331532825b0	Terminator 3 - Rise of the Machines (USA).gba
 0c1605d8447bf69a74dbd715d5fbe70f	Tetris Worlds (Japan).gba
 0c4fd4cf211b2b712fd090ef1b95adfd	Tetris Worlds (USA).gba
 855cdf29fc72a4c55026aeaca8480bb9	Texas Hold 'em Poker (Europe) (Rev 1).gba
-07397d508982f2c340c296d2c057db8a	Texas Hold 'em Poker (USA, Europe).gba
+07397d508982f2c340c296d2c057db8a	Texas Hold 'em Poker (USA).gba
 5b8eb6080ae3de50d9734daacd6b92fe	TG Rally (Europe).gba
 6ff16e52b08129b6bb1a650f9adfd603	That's So Raven (USA).gba
 da7fa09ca99fa6c7e6462a29494d991e	That's So Raven 2 - Supernatural Style (USA) (En,Fr).gba
@@ -3005,8 +3027,8 @@ db41a36ee67abb52cdc7623f1763ef05	Three-in-One Pack - Risk + Battleship + Clue (U
 1cd909a6837e4175244b71b83d2fdd1f	Three-in-One Pack - Risk + Battleship + Clue (USA).gba
 74439cfebabb5616fbc00c8f7f9f747e	Three-in-One Pack - Sorry! + Aggravation + Scrabble Junior (USA).gba
 afcd7bcfdc31ae934333da25db6107c0	Thunder Alley (USA).gba
-bff321ba7052247f9a6936e3ed0c75da	Thunderbirds (USA, Europe).gba
 38cfa461202a2b32e2ccc92cb6178af6	Thunderbirds - International Rescue (Europe).gba
+bff321ba7052247f9a6936e3ed0c75da	Thunderbirds (USA, Europe).gba
 aa571c3f25128f4b1cbfac89a7ae5d99	Tiger Woods PGA Tour 2004 (USA, Europe).gba
 41a75032e074d588cd043cdd73bd9019	Tiger Woods PGA Tour Golf (Europe) (En,Fr,De,Es,It).gba
 1040f372f0d2ed64f01e582dffa6d89b	Tiger Woods PGA Tour Golf (USA, Europe).gba
@@ -3022,8 +3044,8 @@ a8d1fd87ad24b27327f3974881bfc193	Tir et But - Edition Champions du Monde (France
 8735e3aaab28d157cd5cb0b0c6666b0d	Titeuf - Mega Compet (France).gba
 6c09cbd11ae826b83fe54e3f99a17477	Titeuf - Ze Gag Machine (France).gba
 739dd0f3a4dc829600643fd2c00fc23c	Titi et les Bijoux Magiques (France).gba
-3dac0a2fb322eebbdad45ecc1ec8a943	TMNT (USA) (En,Fr,Es).gba
 164b2a21afa59d6dedad07117296c8e7	TMNT - Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It).gba
+3dac0a2fb322eebbdad45ecc1ec8a943	TMNT (USA) (En,Fr,Es).gba
 bcf9dcaca7c0bab4d75184d900d27d50	TOCA World Touring Cars (Europe).gba
 3ca08a13ed9bcd779bf5da07645f3e38	Tokimeki Yume Series 1 - Ohanaya-san ni Narou! (Japan).gba
 607cc417603b39c571e851eb4b498103	Tokyo Majin Gakuen - Fuju Houroku (Japan).gba
@@ -3037,11 +3059,11 @@ c63ea91402e560b3ede1242884d72f73	Tom and Jerry in Infurnal Escape (USA).gba
 37f0505935e85c9cf7eebdae533536ef	Tom and Jerry Tales (USA) (En,Fr,Es).gba
 e58339b1d1426d9b51ad0b8bad3e87c3	Tom Clancy's Rainbow Six - Rogue Spear (Europe) (En,Fr,De,Es,It).gba
 509e3a1fe6284a75c84315a64bd33f43	Tom Clancy's Rainbow Six - Rogue Spear (USA) (En,Fr,De,Es,It).gba
+5dd27560673dd339f43584f8301a7364	Tom Clancy's Splinter Cell - Pandora Tomorrow (Europe) (En,Fr,De,Es,It,Nl).gba
+f7b81f0a57db7206a0f2486491f8a99d	Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (En,Fr,Es).gba
 8c130964502931ba6c3d14e1f719a986	Tom Clancy's Splinter Cell (Europe) (En,Fr,De,Es,It,Nl) (Beta).gba
 ab7b66435bcecb60a786fd62a532e4ab	Tom Clancy's Splinter Cell (Europe) (En,Fr,De,Es,It,Nl).gba
 a980189cfb6200a8a092eca53c85af80	Tom Clancy's Splinter Cell (USA) (En,Fr,Es).gba
-5dd27560673dd339f43584f8301a7364	Tom Clancy's Splinter Cell - Pandora Tomorrow (Europe) (En,Fr,De,Es,It,Nl).gba
-f7b81f0a57db7206a0f2486491f8a99d	Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (En,Fr,Es).gba
 2ad022deb3d3575d98bcf639fb177683	Tomato Adventure (Japan) (Virtual Console).gba
 1d6c744dedc3741923850e47f9745418	Tomato Adventure (Japan).gba
 76e7dac53db04f2b4fbc792659954c7d	Tongqin Yi Bi (China) (Proto).gba
@@ -3070,7 +3092,9 @@ f9d40d7c6c31991f44527a236107acda	Top Gun - Combat Zones (USA) (En,Fr,De,Es,It).g
 248d9fa9903d27cd9890e6a08dbd97cf	Top Gun - Firestorm Advance (USA, Europe) (En,Fr,De,Es,It).gba
 db472400ad072dfb2be28c08468a7984	Top Spin 2 (Europe) (En,Fr,De,Es,It).gba
 94c6ec2dad53ef7d7ec44b7e438833b8	Top Spin 2 (USA) (En,Fr,De,Es,It).gba
+52c07da7db84b23b687cac98499a95a4	Total Soccer 2002 (Europe) (En,Fr,De,Es,It,Nl).gba
 5635c7e6414aaa49e323436b6313af3a	Total Soccer Advance (Japan).gba
+e2e9ffe86da23d3cd278d78689bb1fe6	Total Soccer Manager (Europe) (En,Fr,De,Es,It,Nl).gba
 39e615ddc9695deb0dab06dbd98b7841	Totally Spies! (Europe) (En,Fr,De,Es,It,Nl).gba
 0309e2dda3ec19ee11c2afb0c22ff3ef	Totally Spies! (USA).gba
 4ea72eaad58ce47c8c914e8a72b78867	Totally Spies! 2 - Undercover (Europe) (En,Fr,De,Es,It,Nl) (Beta).gba
@@ -3083,15 +3107,15 @@ e711f571ae5bdbacb4ed497c759d074d	Touhai Densetsu Akagi - Yami ni Mai Orita Tensa
 7bce16d42e091bf43cdaa01054db6757	Toukon Heat (Japan).gba
 a5b5b2b18363d37560f48a2fff83f471	Tower SP, The (Japan).gba
 8e825b6048a72649a9b672858bfc388c	Tower SP, The (USA).gba
-8e5b4bb736b5030cf13052634d01ef69	Toyrobo Force (Japan).gba
-6b0b7e5eea8bf6e981621da45d59163a	Travis Pastrana's Pro MotoX (USA, Europe) (Proto) (2002-12-12).gba
+8e5b4bb736b5030cf13052634d01ef69	Toy Robo Force (Japan).gba
+6b0b7e5eea8bf6e981621da45d59163a	Travis Pastrana's Pro MotoX (USA) (Proto) (2002-12-12).gba
 fa19435d7060761379f5583fd95e1d24	Treasure Planet (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).gba
 d90c08ee30985bf120d394bdd98e2693	Treasure Planet (Europe) (En,Fr,De,Es,It,Nl).gba
 2a47d9da2a8653f65f2a23d8052efe8c	Treasure Planet (USA).gba
-656bec5f7d0e8389d7e6cd9cd95f1deb	Tremblay Island (World) (Fr) (v.1.10) (Solid State Version) (Aftermarket) (Homebrew).gba
-a5618debdd650074cdebee32a2d58704	Tremblay Island (World) (Kickstarter Edition) (Aftermarket) (Homebrew).gba
-14f0f598534646ee02b48845bfb0b21e	Tremblay Island (World) (v.1.10) (Aftermarket) (Homebrew).gba
-6c8d2bdd88fd5778e3a84a51ef3f6c10	Tremblay Island (World) (v.1.10) (Solid State Version) (Aftermarket) (Homebrew).gba
+656bec5f7d0e8389d7e6cd9cd95f1deb	Tremblay Island (World) (Fr) (v.1.10) (Solid State Version) (Homebrew).gba
+a5618debdd650074cdebee32a2d58704	Tremblay Island (World) (Kickstarter Edition) (Homebrew).gba
+14f0f598534646ee02b48845bfb0b21e	Tremblay Island (World) (v.1.10) (Homebrew).gba
+6c8d2bdd88fd5778e3a84a51ef3f6c10	Tremblay Island (World) (v.1.10) (Solid State Version) (Homebrew).gba
 4bfccb544dc5f02581cc574859a82bcb	Trick Star (Europe) (En,Fr,De,Es,It).gba
 702adceec8c8ab1ee27917e75448bbf6	Tringo (Europe) (En,Fr,De,Es,It).gba
 e352bcea86303c8cd501beca590d2087	Tringo (USA).gba
@@ -3131,9 +3155,9 @@ d428b84dce8f74a485a3f6c8a20dc4b3	Ueki no Housoku - Jingi Sakuretsu! Nouryokusha 
 2f681730742c52625d237e610ce6de7e	Ultimate Arcade Games (USA).gba
 d14cf631928fc1523b49c9ae0a2cdd2f	Ultimate Beach Soccer (USA).gba
 ab1bb302ca8dbbb2066491e686f32d3e	Ultimate Brain Games (USA, Europe).gba
+05271b3c67aaa0a36fcdf723364a8c46	Ultimate Card Games (USA, Europe).gba
 7aa882a970083c9998f52bba98108d9a	Ultimate Card Games (USA) (Rev 1).gba
 7b32379f139798165e161623745b7451	Ultimate Card Games (USA) (Rev 2).gba
-05271b3c67aaa0a36fcdf723364a8c46	Ultimate Card Games (USA, Europe).gba
 a4e4230baf0e3b819c84eae58097cdb0	Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero (USA).gba
 1edb0b88ee507f5176900c419c52b570	Ultimate Puzzle Games (USA).gba
 0527c2edb2832e8d59baaa4c4fb7b1e7	Ultimate Spider-Man (Europe) (Fr,De,Es,It).gba
@@ -3144,10 +3168,10 @@ d4d5b7d5370be6cd8c695ec5483f676e	Ultra Keibitai - Monster Attack (Japan).gba
 d171531f05dacad10447971e6e14fb94	Ultraman - Confrontation Between Justice and Evil (Russia) (Unl).gba
 74ea809aea3e45d9638c2997bb5d0a3d	Unfabulous (USA).gba
 43d5d773bd64e23615c0b84a40a3d443	Unglaublichen, Die (Germany).gba
+214b56eca30b048860579598e935c06a	Uno - Free Fall (Europe) (En,Fr,De,Es,It).gba
+6ea2c5e69ef027c80c54a6b231706fab	Uno - Free Fall (USA).gba
 df60ea476f585692bfb05d77ea833342	Uno 52 (Europe) (En,Fr,De,Es,It).gba
 de44e3ae64659aba9824d0047c381981	Uno 52 (USA).gba
-214b56eca30b048860579598e935c06a	Uno Free Fall (Europe) (En,Fr,De,Es,It).gba
-6ea2c5e69ef027c80c54a6b231706fab	Uno Free Fall (USA).gba
 6f4148477f8d456c00c4099e990c2fb0	Urban Yeti! (USA, Europe).gba
 ff36188d91f68626d9d8b9dd9b3571e7	Urbz, The - Sims in the City (Japan).gba
 0821eea9bf87804ec1d700ec458a04e5	Urbz, The - Sims in the City (USA, Europe) (En,Fr,De,Es,It,Nl).gba
@@ -3158,11 +3182,11 @@ cf1673c920ef1d24c4f4b21effcc03f0	V-Rally 3 (USA) (En,Fr,Es).gba
 28ac2eef3f2d0470ec88fe6551b38322	V.I.P. (Europe) (En,Fr,De,Es,It,Nl).gba
 528d272ae33823d8596f6471ddc411fb	Van Helsing (Europe) (En,Fr,De,Es,It).gba
 1cf89b423893a12ee0bbc1c4e2868509	Van Helsing (USA).gba
-ac4f3b73a920ddaabc9f9e003c92e02b	Vattroller X (Japan).gba
 83ab5e19a8e5aba39192b28f1f5ebd5f	Vattroller X - Taikenban (Japan) (Demo) (Kiosk, GameCube).gba
+ac4f3b73a920ddaabc9f9e003c92e02b	Vattroller X (Japan).gba
 cec79164d58deace2122ba2e4a9cdd65	Vecinos Invasores (Spain).gba
 4462ba1869564537610250d522287815	VeggieTales - LarryBoy and the Bad Apple (USA).gba
-811767e87454552d0c8a82c410f70d96	Viewpoint (World) (Tech Demo).gba
+811767e87454552d0c8a82c410f70d96	Viewpoint (Europe) (Demo).gba
 820a03dcd47b4d8aec4b09b6d0f95d56	Virtua Tennis (Europe) (En,Fr,De,Es,It).gba
 bfb5a63fde75becb342f5d0e9a8e0da2	Virtua Tennis (USA).gba
 d4aa56b92749b7f395ca85a75616199f	Virtual Kasparov (Europe) (En,Fr,De,Es,It).gba
@@ -3188,7 +3212,7 @@ be5b6787b02bda5b6283185e643a9fcf	Wanwan Meitantei (Japan).gba
 5fe47355a33e3fabec2a1607af88a404	Wario Land 4 (USA, Europe).gba
 ffa917f29cb9b3c0b9d2594b7608beac	Wario Land Advance - Youki no Otakara (Japan) (Virtual Console).gba
 99c8ad779a16be513a9fdff502b6f5c2	Wario Land Advance - Youki no Otakara (Japan).gba
-89579f4dfe1ed24a7cd16a6a61a72a17	WarioWare - Twisted! (USA).gba
+89579f4dfe1ed24a7cd16a6a61a72a17	WarioWare - Twisted! (USA, Australia).gba
 5d6028dbcf8e0cebb7aac36b520d94dc	WarioWare, Inc. - Mega Microgame$! (USA) (Beta).gba
 212cd9b15124251d8b08602d607c7865	WarioWare, Inc. - Mega Microgame$! (USA) (Virtual Console).gba
 a2d26dc774cec9a0b47388a5dd727b03	WarioWare, Inc. - Mega Microgame$! (USA).gba
@@ -3198,9 +3222,9 @@ a2d26dc774cec9a0b47388a5dd727b03	WarioWare, Inc. - Mega Microgame$! (USA).gba
 105c79c9b8c04f2807a0ef1c1aaebf6a	Wer Wird Millionaer (Germany).gba
 6b611dc9657c75d06808c198c4b51aac	Whac-A-Mole (USA).gba
 76471b9410d123fe28bab047a4e4841e	Whistle! - Dai-37-kai Tokyo-to Chuugakkou Sougou Taiiku Soccer Taikai (Japan).gba
+8e2766a5595c4916decf99b300583d16	Who Wants to Be a Millionaire - 2nd Edition (Europe).gba
 164aed5ee87071fd14e908bf65f7a6e3	Who Wants to Be a Millionaire (Australia).gba
 204f81fba1f395db9e7966039ef48840	Who Wants to Be a Millionaire (Europe).gba
-8e2766a5595c4916decf99b300583d16	Who Wants to Be a Millionaire - 2nd Edition (Europe).gba
 94194788e55c1d3c256d816601ee7530	Who Wants to Be a Millionaire Junior (Europe).gba
 2af652bd8eaae10cac539bf9f2491e45	Wild Thornberrys Movie, The (USA, Europe) (Beta).gba
 2c278a2282ea14997ef4202d205f91bb	Wild Thornberrys Movie, The (USA, Europe).gba
@@ -3212,17 +3236,17 @@ d7d3e3edd9c161bd0094a17124142ead	Wilden Fussball-Kerle, Die - Entscheidung im Te
 054d89a31ca79c50638ee14e8d3185a7	Wing Commander - Prophecy (USA).gba
 aa78b66d1c1fd334587c0ebe7932d006	Wings (Europe).gba
 9003c10fd78cc0bb83c83cbbdbe03911	Wings (USA).gba
-c4430ced04082f7cb25750b9dcc610ea	Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3 (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).gba
 ee9880f52c3626749b943c91921f12ab	Winnie the Pooh's Rumbly Tumbly Adventure (Europe) (En,Fr,De,Es,It,Nl).gba
 5747df74932735205d090aa2ad1cfece	Winnie the Pooh's Rumbly Tumbly Adventure (USA) (En,Fr,Es).gba
+c4430ced04082f7cb25750b9dcc610ea	Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3 (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).gba
 725e49b6955589696462e8b65f62c2ef	Winning Post for Game Boy Advance (Japan) (Rev 1).gba
 e99d7bfa10920b0e5bca2bd235e2fa92	Winning Post for Game Boy Advance (Japan) (Rev 2).gba
 77d05464a1ac01ef466f784c701828fe	Winning Post for Game Boy Advance (Japan).gba
 46d567b74f28661ee1aeed38ff453285	Winter Sports (Europe) (En,Fr,De,Es,It).gba
-e43c1c1ccc83f1606ed3ee3996cc8322	WinX Club (Europe) (En,Fr,De,Es,It).gba
-80acbed66f2f7a2fc88357f9a2028458	WinX Club (USA).gba
 978e59b7362c79193131a35c277e07c0	WinX Club - Quest for the Codex (Europe) (En,Fr,De,Es,It).gba
 6b99728fa21d6c6442bd1ebe919affa7	WinX Club - Quest for the Codex (USA).gba
+e43c1c1ccc83f1606ed3ee3996cc8322	WinX Club (Europe) (En,Fr,De,Es,It).gba
+80acbed66f2f7a2fc88357f9a2028458	WinX Club (USA).gba
 0a17a5e983e3ae92e31d4661318271d6	Wizardry Summoner (Japan) (Rev 1).gba
 a72a1d999e9c607144fa7f3c2145eb75	Wizardry Summoner (Japan).gba
 d853b5ffa5ef88605a0823d3b4b2df08	Wolfenstein 3D (USA, Europe).gba
@@ -3235,13 +3259,13 @@ c6394e32b564c770fe1971fdf2b1e8f2	World Championship Poker (Europe) (En,Fr,De,Es,
 0d8f24fa168197a151eeb95fd29aef65	World Championship Poker (USA).gba
 18bfa442d857e038c8ef578b64df0ba2	World Poker Tour (Europe) (En,Fr,De).gba
 0c112fda9346a9851fa7cb72d80be501	World Poker Tour (USA).gba
+e958226d3b1dfc69e2523ddb19313eee	World Reborn (USA) (Aftermarket) (Unl).gba
 8ed216f4ec3342e7d27b420bfe3b4e53	World Reborn (USA) (Proto).gba
-e958226d3b1dfc69e2523ddb19313eee	World Reborn (World) (Aftermarket) (Unl).gba
 092dbb8125cfbc93d55342f25277b08f	World Tennis Stars (Europe).gba
 b705e04f4571cc9e8801900b4e0243fd	World Tennis Stars (USA).gba
+78724b3f7e5de9f1c931d5b196e7f19b	Worms - World Party (Europe) (En,Fr,De,Es,It).gba
+d81d39a2400a2651099a6d1aa2a461d5	Worms - World Party (USA) (En,Fr,De,Es,It).gba
 caf46477c33a49dacf2d08aed205909b	Worms Blast (Europe) (En,Fr,De,Es,It).gba
-78724b3f7e5de9f1c931d5b196e7f19b	Worms World Party (Europe) (En,Fr,De,Es,It).gba
-d81d39a2400a2651099a6d1aa2a461d5	Worms World Party (USA) (En,Fr,De,Es,It).gba
 b9f78309dbce23a4262dc32c1def62a2	WTA Tour Tennis (USA).gba
 e7e9e8948ff3a0de232bf0d8465da8fb	WTA Tour Tennis Pocket (Japan).gba
 0e66f9dc9c29a3a11f2a821bcc809251	WWE - Road to WrestleMania X8 (USA, Europe).gba
@@ -3265,9 +3289,9 @@ b5170bf7f64f0a75c33a17dc63d69a52	Xploder Advance (Europe) (Unl).gba
 59118d9b87b1809a1cb50b1d42035c7a	xXx (USA, Europe).gba
 064db81169e3cb761c5702260039ae28	Yaobai Senxigang (China) (Proto).gba
 1b7e12284e562915aa7acd260c06771d	Yaoxi Dao (China).gba
-8de0883bf7b60f0983f65313d3d15d9a	Yggdra Union (Japan).gba
 34469cbe444c6561a5a24c1159f0697e	Yggdra Union - We'll Never Fight Alone (Europe).gba
 1eac366817944faecf3bcd290d3f87cc	Yggdra Union - We'll Never Fight Alone (USA).gba
+8de0883bf7b60f0983f65313d3d15d9a	Yggdra Union (Japan).gba
 91e86d6adb495236293e75d5f0fa82b8	Yoshi no Banyuuinryoku (Japan).gba
 5b60a8135aa25e5f10578ebff120a9d8	Yoshi Sample (Japan) (En) (SDK 3.0) (Tech Demo).gba
 d4a4550a42646e58df0445756e004d8e	Yoshi Sample (Japan) (En) (Tech Demo).gba
@@ -3316,8 +3340,8 @@ f62c47cbe08e1e3bcfcf9f1b84841a76	Yu-Gi-Oh! GX - Duel Academy (USA).gba
 67a1411ea622631f469733ec01c89a01	Yuujou no Victory Goal 4v4 Arashi - Get the Goal!! (Japan).gba
 230bbfa7c06395868dfc17c514112c83	Yuureiyashiki no Nijuuyojikan (Japan).gba
 a1ece5ce4fe328f0c0240fc281de4f4b	Z.O.E. 2173 - Testament (Japan).gba
-eb7ba1c777b946bd9842b6238676f799	Zapper (Europe) (En,Fr,De,Es,It).gba
 9a83e6571c9543a1a4d658564f02be4c	Zapper - One Wicked Cricket! (USA).gba
+eb7ba1c777b946bd9842b6238676f799	Zapper (Europe) (En,Fr,De,Es,It).gba
 54f8b4748e5f0233bc28216a0188c968	Zatchbell! - Electric Arena (USA).gba
 8b4f9725e30c9feeb620e5cededcb449	Zelda no Densetsu - Fushigi no Boushi (Japan) (Demo) (Kiosk, GameCube).gba
 0b061059fd5e7f7b034f96932c86829c	Zelda no Densetsu - Fushigi no Boushi (Japan).gba
@@ -3333,12 +3357,12 @@ d1b92af267a24b56ccd00869fbc7303f	Zettaizetsumei Dangerous Jiisan 3 - Hateshinaki
 89bea97ec8d4f11274784afc125de6c8	Zettaizetsumei Dangerous Jiisan Tsuu - Ikari no Oshioki Blues (Japan).gba
 93539207be7d05e2ef8e3e9b44a82c2e	Zhuanzhuanbang (China) (Proto).gba
 43849ed3425271e56e183d6b6999dfb7	Zhuanzhuanbang Tiantang (China) (Proto).gba
-2585d9385617b38836884f90997dc985	Zidane Football Generation 2002 (Europe) (En,Fr,De,Es,It).gba
+2585d9385617b38836884f90997dc985	Zidane - Football Generation 2002 (Europe) (En,Fr,De,Es,It).gba
 f7c0a6bf412b6f78a0f0e096aa0fd07e	Zoey 101 (USA).gba
-220a6f1b9d8d63e7638248f24dbfa709	Zoids Legacy (USA).gba
+220a6f1b9d8d63e7638248f24dbfa709	Zoids - Legacy (USA).gba
+02fd4433f3dacbfd1c921a54909ac365	Zoids Saga - Fuzors (Japan).gba
 1793a537f75831900b1131b8bcaba63d	Zoids Saga (Japan) (Rev 1).gba
 36545c66bf7abdbced2b294a7dd8d419	Zoids Saga (Japan).gba
-02fd4433f3dacbfd1c921a54909ac365	Zoids Saga - Fuzors (Japan).gba
 f7bdd0eb9cd94d4c3bf924654998c514	Zoids Saga II (Japan).gba
 6449dc62cdf67c4d4d293febd38dcfda	Zoku Bokura no Taiyou - Taiyou Shounen Django (Japan) (Rev 1).gba
 f4e3dead5af182598623cf89f9a428f4	Zoku Bokura no Taiyou - Taiyou Shounen Django (Japan).gba
@@ -3349,6 +3373,3 @@ b9c0646696297fb21cfad315c434cc2a	Zone of the Enders - The Fist of Mars (USA).gba
 01457d05d4601ceff3f6d27a31606c18	ZooCube (USA).gba
 9f966d8f9f2865e96a42eed33a201cde	Zook Man ZX4 (Taiwan) (Unl).gba
 e0ec4f5cd24d2f7b93eac7f7d7b89398	Zooo - Action Puzzle Game (Europe) (En,Fr,De,Es,It).gba
-e60e599135009129b288988a1cba91df	[BIOS] Game Boy Advance (Japan) (Debug Version).gba
-672ea0bf0ffb91095c7a9ed4ee512aa2	[BIOS] Game Boy Advance (World) (GameCube).gba
-a860e8c0b6d573d191e4ec7db1b1e4f6	[BIOS] Game Boy Advance (World).gba
