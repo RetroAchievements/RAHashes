@@ -6,8 +6,8 @@
 fa27089c425dbab99f19245c5c997613	1080 Snowboarding (Japan, USA) (En,Ja).z64
 5901624099bbb8f73c6f9229260d18c7	3D Model RGB Test Program (USA) (Test Program).z64
 0a5acfea0c7cf68ae25202040d5ad1eb	40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07).z64
-b88c172ed14f4acb43c4a352d71cc640	40 Winks (USA) (Aftermarket) (Unl).z64
 8c3e4fe5f6b2d37c66a71097e8b1c72a	40 Winks (USA) (Proto) (2000-01-10).z64
+b88c172ed14f4acb43c4a352d71cc640	40 Winks (USA) (StoneAgeGamer Everdrive 64 ROM) (Aftermarket) (Unl).z64
 ea6a92de5a221a00814f7448bf6f1b31	64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan).z64
 66335f4dc6ab27034398bc26f263b897	64 Hanafuda - Tenshi no Yakusoku (Japan).z64
 2cf9edb51ada9de2ae7ad9fd5acc5580	64 Oozumou (Japan).z64
@@ -22,9 +22,12 @@ e970af3de25bb5ae1154010e26af776f	AeroGauge (Japan) (Demo) (Kiosk).z64
 0620c2d134a0430f4afa208ffeda67b8	AeroGauge (Japan) (Rev 1).z64
 72c7ffcea6c1430616867616f5e9d51a	AeroGauge (USA).z64
 4a5c509a20db7a429dc1dd4e219ad4a2	AI Shougi 3 (Japan).z64
+86fef7da7cb95d52d5980cd59eab31a5	Aidyn Chronicles - The First Mage (Europe) (Beta) (2001-03-02).z64
+76ae4afb0fdddb8f28856179a3f2cd59	Aidyn Chronicles - The First Mage (Europe) (Beta) (2001-04-10).z64
 54d0a39123c15f74aabb1ecc24d4d6a0	Aidyn Chronicles - The First Mage (Europe).z64
 cd24763becfa1d0053e5438b0ef5e75e	Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10).z64
 cc6eae9ed582044cc27945684fd396cd	Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09).z64
+1ac9dec95ad700412a7295da39237155	Aidyn Chronicles - The First Mage (USA) (Beta) (2000-12-05).z64
 e8cddf0c52b72453d52da385322dfe15	Aidyn Chronicles - The First Mage (USA) (Rev 1).z64
 af149336b3ddb899598e7be8740d7dc6	Aidyn Chronicles - The First Mage (USA).z64
 ccee2fcf38dc2200128d75d15db53283	Air Boarder 64 (Japan).z64
@@ -65,9 +68,9 @@ b29599651a13f681c9923d69354bf4a3	Banjo-Kazooie (USA).z64
 930c7f6e5863471dde1816d28a10eb88	Bassmasters 2000 (USA).z64
 a08676124b326b1035b202c83a97468f	Batman Beyond - Return of the Joker (USA).z64
 a5ee8a6c34863e3d0eb8c06ae8668b30	Batman of the Future - Return of the Joker (Europe) (En,Fr,De).z64
-3406a505c22bac2f40d9bfc6ff08cf86	BattleTanx (USA).z64
 d6e667fe10afe8f7116888efde98ae0e	BattleTanx - Global Assault (Europe) (En,Fr,De).z64
 654557c316f901a2ca6f7f4b43343147	BattleTanx - Global Assault (USA).z64
+3406a505c22bac2f40d9bfc6ff08cf86	BattleTanx (USA).z64
 266c0989ed0929df499389954779ea97	Battlezone - Rise of the Black Dogs (USA).z64
 a94135d163e6091c960adc918c1fb8a7	Beetle Adventure Racing! (Europe) (En,Fr,De).z64
 5ffd43089b7334072b2b74421618d973	Beetle Adventure Racing! (Japan).z64
@@ -89,13 +92,13 @@ b27fa5e9ad0cb47bb3a74ffac7bc8edf	Body Harvest (Europe) (En,Fr,De).z64
 e627b898a7692c08b595a8d2178e34a0	Bokujou Monogatari 2 (Japan) (Rev 1).z64
 24e3ee6a54278db65c463804f2bb6223	Bokujou Monogatari 2 (Japan) (Rev 2).z64
 1cf31e7f6e0deb2c18c39ddd4eed9e51	Bokujou Monogatari 2 (Japan).z64
+aec1fdb0f1caad86c9f457989a4ce482	Bomberman 64 - The Second Attack! (USA).z64
 b68f49aa8f6f7499184ac6b7b8570f2b	Bomberman 64 (Europe).z64
 d54fd7067bd774e32b57f9c2c0496899	Bomberman 64 (Japan).z64
 093058ece14c8cc1a887b2087eb5cfe9	Bomberman 64 (USA).z64
-aec1fdb0f1caad86c9f457989a4ce482	Bomberman 64 - The Second Attack! (USA).z64
+ee273763c7391458865ff26c7ea0c3f1	Bomberman Hero - Mirian Oujo o Sukue! (Japan).z64
 f79ef0813157880ffbad6199e07579be	Bomberman Hero (Europe).z64
 ef2453bff7ad0c4bfa9ab0bd6324ebf3	Bomberman Hero (USA).z64
-ee273763c7391458865ff26c7ea0c3f1	Bomberman Hero - Mirian Oujo o Sukue! (Japan).z64
 fb19afd5e8c49978e6e6ae3622e0498a	Bottom of the 9th (USA).z64
 62e92102d6fd1701a6e904da6ab58ae8	Brunswick Circuit Pro Bowling (USA).z64
 a2e4be02876cb0f0d1e925ff95090c96	Buck Bumble (Europe) (En,Fr,De,Es,It).z64
@@ -115,13 +118,13 @@ e3609fd12369c464e832c6d2a4d20790	Bug's Life, A (Italy).z64
 ca21467bde6b355e7a15b8f1ada7b24d	Carmageddon 64 (Europe) (En,Fr,De,Es).z64
 59eb5646fa079bcbd7a340d7a10196dd	Carmageddon 64 (Europe) (En,Fr,Es,It).z64
 31bb57c1fad0d47dc2353c1950b11886	Carmageddon 64 (USA).z64
-5ec878062e04855176526444fcaca602	Carnivale - Cenzo's Adventure (USA) (Proto).z64
+62a20938ea563ba5e79fb3799993d17b	Carnivale - Cenzo's Adventure (USA) (Proto) (2000-07-21).z64
+78d5f8a98a5ed21d0817856bcd2ad750	Castlevania - Legacy of Darkness (Europe) (En,Fr,De).z64
+25258460f98f567497b24844abe3a05b	Castlevania - Legacy of Darkness (USA).z64
 57146b6cd8ee7d96b01a811f98a1ac61	Castlevania (Europe) (En,Fr,De).z64
 ce71d1ce0a2b6d597f72cb4fc08f5844	Castlevania (USA) (Rev 1).z64
 06b58673f7d31c56f8fe8186e86f6bd6	Castlevania (USA) (Rev 2).z64
 1cc5cf3b4d29d8c3ade957648b529dc1	Castlevania (USA).z64
-78d5f8a98a5ed21d0817856bcd2ad750	Castlevania - Legacy of Darkness (Europe) (En,Fr,De).z64
-25258460f98f567497b24844abe3a05b	Castlevania - Legacy of Darkness (USA).z64
 31fb88048076ace4bd4205c5f40414ab	Centre Court Tennis (Europe).z64
 1cd90b13b7fd6afdcb838f801d807826	Chameleon Twist (Europe).z64
 c0eb519122d63a944a122437ec1b98ee	Chameleon Twist (Japan).z64
@@ -142,14 +145,14 @@ c37e8afb4f3ecc86d01ce7388ca59347	Chopper Attack (USA).z64
 2a0bf5a9a136d57af01d199b16899634	City-Tour GP - Zen-Nihon GT Senshuken (Japan).z64
 30e7e083b978408d5b7760d0ce4dc61d	Clay Fighter - Sculptor's Cut (USA).z64
 41965b533f3dd95663361d9df68b0c1f	Clay Fighter 63 1-3 (Europe).z64
-cbbeaff5a9074d1a5507cf46cd683d36	Clay Fighter 63 1-3 (USA) (Beta) (1997-08-21).z64
+cbbeaff5a9074d1a5507cf46cd683d36	Clay Fighter 63 1-3 (USA) (Beta).z64
 3207bf22e305c488109b09a03706f36f	Clay Fighter 63 1-3 (USA).z64
 42da4c7d040f9e7cd046a42ec3e68027	Command & Conquer (Europe) (En,Fr).z64
 1a9195662c89dcbea88bcfa99b096cde	Command & Conquer (Germany).z64
 b436f4717ac585b0d847756468fd6393	Command & Conquer (USA).z64
 05194d49c14e52055df72a54d40791e1	Conker's Bad Fur Day (Europe).z64
+13ecbaeef7111d5343d73a80e03e353a	Conker's Bad Fur Day (USA) (Beta) (2000-08-26) (ECTS 2000).z64
 70e9eb9bf2f7bc76ca38ce450ba01c2e	Conker's Bad Fur Day (USA) (Beta) (2000-10-25).z64
-13ecbaeef7111d5343d73a80e03e353a	Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26).z64
 00e2920665f2329b95797a7eaabc2390	Conker's Bad Fur Day (USA).z64
 ae76e243e554510f41f7d9afa05a4978	Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program).z64
 db7a03b77d44db81b8a3fcdfc4b72d8c	Cruis'n Exotica (USA).z64
@@ -175,6 +178,7 @@ c644e318b33c4ebd94695c0c3e1e80ff	Defi au Tetris Magique (France).z64
 1051e1402ee110f3c5e372c9e1c5b338	Derby Stallion 64 (Japan) (Beta) [b].z64
 7f57463856540104b21a5289312b626f	Derby Stallion 64 (Japan).z64
 bda717ecc8434f12f313342485828b58	Destruction Derby 64 (Europe) (En,Fr,De).z64
+749ac5bc4e7f2b17274f6966ddbf6872	Destruction Derby 64 (USA) (1998-07-31) (Beta).z64
 7fccb47498eec06e96ae9372247d1e90	Destruction Derby 64 (USA).z64
 54be265e7b2c28ab92bf1a4130acb5a2	Dezaemon 3D (Japan).z64
 6b2bafe540e0af052a78e85b992be999	Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1).z64
@@ -192,8 +196,10 @@ b31f8cca50f31acc9b999ed5b779d6ed	Diddy Kong Racing (USA) (En,Fr) (Rev 1).z64
 5b677f4bf93d6578252fcad2c8ceb637	Donkey Kong 64 (Japan).z64
 98a5836e3a5da7bd0b5819e7498acea2	Donkey Kong 64 (USA) (Demo) (Kiosk).z64
 9ec41abf2519fc386cadd0731f6e868c	Donkey Kong 64 (USA).z64
+3f345578242eb8c7f8f9710df6432abb	Donsol (World) (Unl).z64
 190ccca6526dc4a1f611e3b40f5131c0	Doom 64 (Europe).z64
 06f15ef2228c1b1147c41dccaa07d9de	Doom 64 (Japan).z64
+31a8efffe1be68bb1186efa89d9c8896	Doom 64 (USA) (Beta) (1996-12-10).z64
 1b1378bb9ee819f740550f566745af73	Doom 64 (USA) (Rev 1).z64
 b67748b64a2cc7efd2f3ad4504561e0e	Doom 64 (USA).z64
 c2166455e94e89e9e3ab612b4377c443	Doraemon - Nobita to 3tsu no Seireiseki (Japan).z64
@@ -203,7 +209,7 @@ a4a1d490ba67831775fc381b846e2168	Doraemon 3 - Nobita no Machi SOS! (Japan).z64
 a4f7c57c180297b2e7ba5a5feb44fe0b	Doubutsu no Mori (Japan).z64
 1a7936367413e5d6874abda6d623ad32	Dr. Mario 64 (USA).z64
 4d901e4e15f931fd09e803343017ebfe	Dragon Sword 64 (Europe) (Proto).z64
-942fc6737765ac718799a7f66202216c	Dragon Sword 64 (USA) (Proto) (1999-08-25).z64
+942fc6737765ac718799a7f66202216c	Dragon Sword 64 (USA) (1999-08-25) (Proto).z64
 f120fadb52b414eb4fb7d13092ac3cdb	Dual Heroes (Europe).z64
 e7652ed5ceceb5b1bc14495c58546d1c	Dual Heroes (Japan).z64
 923d65e69f51858c697e0e5759cd038b	Dual Heroes (USA).z64
@@ -211,6 +217,7 @@ e7652ed5ceceb5b1bc14495c58546d1c	Dual Heroes (Japan).z64
 02192b4b3797983bbe5e452336584208	Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es).z64
 86e98aaca0d90bf744da090539ba4ad8	Duke Nukem - Zero Hour (Europe).z64
 e2b73feb0843874ea831a2e0076fcb72	Duke Nukem - Zero Hour (France).z64
+73bbd95cd877d6c9c923547da1ba76bd	Duke Nukem - Zero Hour (USA) (Beta).z64
 026789d47db5fe202a76f89797b33ac7	Duke Nukem - Zero Hour (USA).z64
 bb2472b3f8a41fbf3aec3ccef7ea8c78	Duke Nukem 64 (Europe) (Beta).z64
 8657cba95c409b74c1f5632cbc36643f	Duke Nukem 64 (Europe).z64
@@ -244,7 +251,7 @@ a81b1de864df3f4bb0903760be673f21	F-1 World Grand Prix (USA).z64
 bc0fd2468ac7769a37c3c58cd5699585	F-1 World Grand Prix II (Europe) (En,Fr,De,Es).z64
 ee79a8fe287b5dcaea584439363342fc	F-Zero X (Europe).z64
 58d200d43620007314304f4e6c9e6528	F-Zero X (Japan).z64
-95bf2153aaad6faff3fb42fecd2f0200	F-Zero X (USA) (Beta) (The Legend of Zelda Ocarina of Time Overdump).z64
+95bf2153aaad6faff3fb42fecd2f0200	F-Zero X (USA) (Beta) (The Legend of Zelda - Ocarina of Time leftover data).z64
 753437d0d8ada1d12f3f9cf0f0a5171f	F-Zero X (USA).z64
 a6bd93ea576cdf8569f68171452f7e8a	F1 Pole Position 64 (Europe) (En,Fr,De).z64
 049db657f4223d949f56e9dc5b6a9180	F1 Pole Position 64 (USA) (En,Fr,De).z64
@@ -252,9 +259,9 @@ a6bd93ea576cdf8569f68171452f7e8a	F1 Pole Position 64 (Europe) (En,Fr,De).z64
 9581fc6ceac86dc8a2aee4053043e422	F1 Racing Championship (Europe) (En,Fr,De,Es,It).z64
 40246128052b0aa0fffc7a06a72930f2	F1 Racing Championship (USA) (Beta).z64
 d99b1a3f6d72defd76f3620959b94944	Famista 64 (Japan).z64
+3611779f29997267622cbc80e2d087cc	FIFA - Road to World Cup 98 - World Cup e no Michi (Japan).z64
 26b18d35984528ae2f90adbb2f2642f7	FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv).z64
 2c6d146a8473511cfcfbbe8518f49d71	FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).z64
-3611779f29997267622cbc80e2d087cc	FIFA - Road to World Cup 98 - World Cup e no Michi (Japan).z64
 9a7006212947ee7648ee1d13162e55e0	FIFA 64 (Europe) (En,Fr,De).z64
 6432c622c05ea9cd3217e280ac2ce37c	FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).z64
 148de3073727b9fd156f10afadd46864	FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv).z64
@@ -296,8 +303,8 @@ bbcde4966bee5602a80d9b8c1011dfa6	Fushigi no Dungeon - Fuurai no Shiren 2 - Oni S
 5bba457e286d250101ce274e0e58080d	Gex 64 - Enter the Gecko (Europe).z64
 47f9d900c97ece154bb40a9c6dccd3fd	Gex 64 - Enter the Gecko (USA).z64
 2f2163c53db135792331df00398b3f87	Glover (Europe) (En,Fr,De).z64
-43c3375bbd6496b6c51d08ec193bc8ed	Glover (USA) (Beta) (1998-07-16) [b].z64
-9cc14c73eb1202c3d19633ee05ad5fc4	Glover (USA) (Proto) (1998-09-04).z64
+43c3375bbd6496b6c51d08ec193bc8ed	Glover (USA) (1998-07-16) (Beta) [b].z64
+9cc14c73eb1202c3d19633ee05ad5fc4	Glover (USA) (1998-09-04) (Beta).z64
 87aa5740dff79291ee97832da1f86205	Glover (USA).z64
 f59e3a7ed3454124680f3a16d38fc42f	Glover 2 (USA) (Proto 1).z64
 d06713b543022414a1a09261f0be42a6	Glover 2 (USA) (Proto 2).z64
@@ -308,7 +315,7 @@ cff69b70a8ad674a0efe5558765855c9	GoldenEye 007 (Europe).z64
 1880da358f875c0740d4a6731e110109	GoldenEye 007 (Japan).z64
 70c525880240c1e838b8b1be35666c3b	GoldenEye 007 (USA).z64
 628aa3cd492559b705488f634797e045	GT 64 - Championship Edition (Europe) (En,Fr,De).z64
-4690cab33d0bc10b62d62cecdcaa50a1	GT 64 - Championship Edition (USA) (Beta) (1998-05-25).z64
+4690cab33d0bc10b62d62cecdcaa50a1	GT 64 - Championship Edition (USA) (1998-05-25) (Beta).z64
 fe81aa381719fada693d803bae7d5eb9	GT 64 - Championship Edition (USA).z64
 3d4c7b11076bafa4620bcc154c0eeef3	Hamster Monogatari 64 (Japan).z64
 a02a4fb4b93e9847348440652cef8d4d	Harukanaru Augusta - Masters '98 (Japan).z64
@@ -343,15 +350,15 @@ c47e95bb32ab132c41d67bd243f9e02a	Hybrid Heaven (USA).z64
 54f43e6b68782e98caabea5e7976b2be	Hydro Thunder (USA).z64
 d2f7b3ace75a2ce7a06beac929711d94	Hyper Olympics in Nagano 64 (Japan).z64
 92a6ffa1c8d537c7a97c5c613cae05c6	Ide Yosuke no Mahjong Juku (Japan).z64
+c70b0b680807f2b8c2c3d5dc495fa8c2	Iggy-kun no Bura Bura Poyon (Japan).z64
 25b297143e9e5ccbb4b80a7fb6af399b	Iggy's Reckin' Balls (Europe).z64
 464211abb602ee1005974d2d835a3bcf	Iggy's Reckin' Balls (USA).z64
-c70b0b680807f2b8c2c3d5dc495fa8c2	Iggy-kun no Bura Bura Poyon (Japan).z64
 bf3e84cdd01cac05987fd8da5191534b	In-Fisherman - Bass Hunter 64 (Europe).z64
 c605f40bf669e00a5e51baf0d00621ea	In-Fisherman - Bass Hunter 64 (USA).z64
 63d7ab29ba3dfc5d5b12c1d9c5832355	Indiana Jones and the Infernal Machine (Australia) (Proto).z64
 70de1eab508596b6bbefd168b5d07194	Indiana Jones and the Infernal Machine (USA).z64
 a7781d441af55c4ff8afc68ab3a59313	Indy Racing 2000 (USA).z64
-21ea0b80849b084ac3138fde780e5dbb	International Superstar Soccer '98 (Europe) (Beta) (1998-03-02).z64
+21ea0b80849b084ac3138fde780e5dbb	International Superstar Soccer '98 (Europe) (1998-03-02) (Beta).z64
 34489365b550f32c97337d86d52d8c84	International Superstar Soccer '98 (Europe).z64
 7dcc05b98e2fa690b478808ebbad5d1a	International Superstar Soccer '98 (USA).z64
 9f101b6f6bef4f267deb5c6c37a24b97	International Superstar Soccer 2000 (Europe) (En,De).z64
@@ -384,7 +391,7 @@ f13d0803885b73b4a6b35eddd40b9253	Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (J
 7fc933a64884a382aa07605ea7204ff5	Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan).z64
 b653c963ed8d3a749676810f07cfe4e5	Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev 1).z64
 23409668a6e6c4ece7b5fb0b7d0e8f2c	Jikkyou Powerful Pro Yakyuu 2000 (Japan).z64
-ada39573b25804610d8fafaff741b088	Jikkyou Powerful Pro Yakyuu 4 (Japan) (Beta) (1996-11-30).z64
+ada39573b25804610d8fafaff741b088	Jikkyou Powerful Pro Yakyuu 4 (Japan) (1996-11-30) (Beta).z64
 b454490eb44f0978f009fa41de8c478e	Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1).z64
 fda57f65eb159278223eb9d03267c27f	Jikkyou Powerful Pro Yakyuu 4 (Japan).z64
 6ef19bf8d8d6196390745f1b858ac16a	Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 1).z64
@@ -428,8 +435,11 @@ dbe9af0db46256e42b5c67902b696549	Legend of Zelda, The - Majora's Mask (Europe) (
 8f281800fba5ddcb1d2b377731fc0215	Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk).z64
 ac0751dbc23ab2ec0c3144203aca0003	Legend of Zelda, The - Majora's Mask (USA) (GameCube).z64
 2a0a8acb61538235bc1094d297fb6556	Legend of Zelda, The - Majora's Mask (USA).z64
+09ae099051bdf6377d482d1944171dfc	Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube) (Debug).z64
+1618403427e4344a57833043db5ce3c3	Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube).z64
+da35577fe54579f6a266931cc75f512d	Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube).z64
 ab1ca59d0039e3b34d82db650b54d7b9	Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube).z64
-3c10b67a76616ae2c162def7528724cf	Legend of Zelda, The - Ocarina of Time (Europe) (Debug) (GameCube).z64
+3c10b67a76616ae2c162def7528724cf	Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-21) (GameCube) (Debug).z64
 d714580dd74c2c033f5e1b6dc0aeac77	Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1).z64
 e040de91a74b61e3201db0e2323f768a	Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De).z64
 2c27b4e000e85fd78dbca551f1b1c965	Legend of Zelda, The - Ocarina of Time (Europe) (GameCube).z64
@@ -438,9 +448,6 @@ cd09029edcfb7c097ac01986a0f83d3f	Legend of Zelda, The - Ocarina of Time (USA) (G
 721fdcc6f5f34be55c43a807f2a16af4	Legend of Zelda, The - Ocarina of Time (USA) (Rev 1).z64
 57a9719ad547c516342e1a15d5c28c3d	Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).z64
 5bd1fe107bf8106b2ab6650abecd54d6	Legend of Zelda, The - Ocarina of Time (USA).z64
-09ae099051bdf6377d482d1944171dfc	Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (Debug) (GameCube).z64
-1618403427e4344a57833043db5ce3c3	Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube).z64
-da35577fe54579f6a266931cc75f512d	Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube).z64
 6310c7173385ed2b06020f3b90158e9e	LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).z64
 26b5eaa13dc5b5e35307fe8c0cf5b6ba	LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).z64
 aee5016e6d60d12ad768e9f6d10adde8	Let's Smash (Japan).z64
@@ -458,7 +465,7 @@ d038813541589f0b3f1f900f4fd22c9b	Lode Runner 3-D (USA).z64
 441fa65faa5c12339f89a0bb7db43c8f	Madden NFL 2001 (USA).z64
 ad0f2ec565d7575fb37512bc8df8a092	Madden NFL 2002 (USA).z64
 e7bf80861a0ab2a788959463d953b5d5	Madden NFL 99 (Europe).z64
-5f3d42d5f96191f3ce50d70e0e42127a	Madden NFL 99 (USA) (Beta) (1998-08-05).z64
+5f3d42d5f96191f3ce50d70e0e42127a	Madden NFL 99 (USA) (1998-08-05) (Beta).z64
 5ad80a8ef44dee1fdc456d66104165b4	Madden NFL 99 (USA) (Rev 1).z64
 507ceab72ef2a1bf145bf190f5ce1c80	Madden NFL 99 (USA).z64
 20e51b27e8098a9d101b44689014c281	Magical Tetris Challenge (Europe).z64
@@ -503,6 +510,7 @@ fff9b3e22abb9b60215dafb13ad5a4de	Mario Tennis (Europe).z64
 cd0824e9405185af434837ba1c8c0cd5	Mega Man 64 (USA) (Beta).z64
 3620674acb51e436d5150738ac1c0969	Mega Man 64 (USA).z64
 a4039368e0472c68e3072c02c7a80f94	Mia Hamm Soccer 64 (USA) (En,Es).z64
+033d72e91b2ad5c47835be02da38a6e4	Michael Owen's WLS 2000 (Europe) (En,Fr,De,Es,It) (Beta).z64
 892222cc4baf9958405d20bc492175bf	Michael Owen's WLS 2000 (Europe).z64
 288a514e98972bf9d329167aa29e66b6	Mickey no Racing Challenge USA (Japan).z64
 5ba3dc37860c08a209f24286b8dfec8c	Mickey's Speedway USA (Europe) (En,Fr,De,Es,It).z64
@@ -517,6 +525,7 @@ eb1908e51c8d10af8b9caf77797bfe00	Mike Piazza's Strike Zone (USA).z64
 eb3b078a74d4dc827e1e79791004dfbb	Mischief Makers (Europe).z64
 2ee917366f64a06472d7622a2a05990e	Mischief Makers (USA) (Rev 1).z64
 495a9bffd6620be43225db7133373fc5	Mischief Makers (USA).z64
+c1b7c20f64364206ac8525c797113754	Mission - Impossible (Europe) (Beta).z64
 599b5d40b51f53c2c9a909e0139702fc	Mission - Impossible (Europe).z64
 fd0c0e8c523437f9b6b630e369fdfc69	Mission - Impossible (France).z64
 4111482c92ee806484aaa2c210893a52	Mission - Impossible (Germany).z64
@@ -524,8 +533,8 @@ fd0c0e8c523437f9b6b630e369fdfc69	Mission - Impossible (France).z64
 16a3143dc0e5fe6639f49db7a51d24d4	Mission - Impossible (Spain) (Rev 1).z64
 d1ba3b1899576a4b67908abb6544d75a	Mission - Impossible (Spain).z64
 eebdfbd7cb57202d70cfffcaaf55e93e	Mission - Impossible (USA).z64
-4ff9589a3224aaa46e9877d6b25e68e3	Monaco Grand Prix (USA).z64
 c93a17d130b96fba27a0e959cab2a450	Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It).z64
+4ff9589a3224aaa46e9877d6b25e68e3	Monaco Grand Prix (USA).z64
 d51506edb0a941a00eb45850703b32cb	Monopoly (USA).z64
 e3b408997d7db91f8219f168c6d57d26	Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It).z64
 514d61d3b3d5e6326869783eb2e84a00	Monster Truck Madness 64 (USA).z64
@@ -535,7 +544,7 @@ c70b91430866300ce38b49098019ef9d	Mortal Kombat 4 (USA).z64
 38a82a56ae61a4d354c6a26e64d25e1c	Mortal Kombat Mythologies - Sub-Zero (Europe).z64
 deec4faec416f4e02d934c2e42c0caad	Mortal Kombat Mythologies - Sub-Zero (USA).z64
 7a558bbad8ce8828414a9cf3b044a87d	Mortal Kombat Trilogy (Europe).z64
-b6a7b85c123df4e0b9cc118578dbc9a2	Mortal Kombat Trilogy (USA) (Beta) (1996-05-13).z64
+b6a7b85c123df4e0b9cc118578dbc9a2	Mortal Kombat Trilogy (USA) (1996-05-13) (Beta).z64
 26129419799db01bfe79f279ec43b334	Mortal Kombat Trilogy (USA) (Rev 1).z64
 3dcb15043063bd656a0223c519218cfb	Mortal Kombat Trilogy (USA) (Rev 2).z64
 9b7f29aab911d6753f2011c48da752bf	Mortal Kombat Trilogy (USA).z64
@@ -575,8 +584,8 @@ c5ebbdd41eaea8bd02cf520640ccccdf	NBA Pro 99 (Europe).z64
 5e1940ca1236a76e8f2d15de0414ae55	Neon Genesis Evangelion (Japan).z64
 c4ecfec66eceea23f39632ab6753300f	New Tetris, The (Europe).z64
 7a28179b00734c9aa0f0609fafaafd5f	New Tetris, The (USA).z64
-7f6c5e71711dec81e77ccf71060f67ca	NFL Blitz (USA).z64
 7e856fa8f743900feba5a4e28c234af7	NFL Blitz - Special Edition (USA).z64
+7f6c5e71711dec81e77ccf71060f67ca	NFL Blitz (USA).z64
 dd96bb80e652cd1cf23ca4b8294ba7b5	NFL Blitz 2000 (USA) (Rev 1).z64
 ba49514441023722f02d41c62612f6c3	NFL Blitz 2000 (USA).z64
 e4edd73cb036c6b143cee9aeeed60341	NFL Blitz 2001 (USA).z64
@@ -600,21 +609,23 @@ b04957d052ef850c5edece69db7377b3	Nintama Rantarou 64 Game Gallery (Japan).z64
 6ebbbe58d717b3b41985be70a8dfe1be	Nintendo 64 Modem (Japan) (Add-on).z64
 66db457b130d31a286a23d6e4dd9726e	Nintendo All-Star! Dairantou Smash Brothers (Japan).z64
 710ba49ebd5c9a2b26653fae93bd667a	Nuclear Strike 64 (Europe) (En,Fr).z64
-aced6f89b3500c618afe47c04f0256e8	Nuclear Strike 64 (Germany) (Beta) (1999-11-17).z64
+aced6f89b3500c618afe47c04f0256e8	Nuclear Strike 64 (Germany) (1999-11-17) (Beta).z64
 ca996f7a126da8104b806d4c7bfa20b8	Nuclear Strike 64 (Germany).z64
+146e9b9f8ba71f202a89fa011fc7f2ce	Nuclear Strike 64 (USA) (1999-09-21) (Beta).z64
+db01748f770db0085a80d8c9d3d2efa2	Nuclear Strike 64 (USA) (Beta) (Earlier).z64
 ffc584040d0d052fbab4cb6c19245449	Nuclear Strike 64 (USA).z64
+eeb69597e42e2f5d2914070acf161b4f	Nushi Zuri 64 - Shiokaze ni Notte (Japan).z64
 d2af6993e4d657d00520c2cce741480e	Nushi Zuri 64 (Japan) (Rev 1).z64
 50c10082d0c077fdb5658ef5a6e3f54f	Nushi Zuri 64 (Japan).z64
-eeb69597e42e2f5d2914070acf161b4f	Nushi Zuri 64 - Shiokaze ni Notte (Japan).z64
 e2fb4f16a039a0e302d28aca94d5d928	O.D.T. (Europe) (En,Fr,De,Es,It) (Proto).z64
 4116e492168aafff1bd3100c7b0aa28f	O.D.T. (USA) (En,Fr,Es) (Proto).z64
 e96fecba52905db14addad7cfd61091f	Off Road Challenge (Europe).z64
 af7083fc0abcfd5a2c6a5e971453d831	Off Road Challenge (USA).z64
 55cd360f12be8063c9e7b6f59f268170	Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console).z64
 a45c39767d33ac21956a3d4e6c03cfa1	Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1).z64
+f04c8f511b678301b21c54a27cb08bb9	Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console).z64
 ebb4b4d2808df427aaa3085a41b8a954	Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1).z64
 f666e020218392e52662fddfa1ea4f21	Ogre Battle 64 - Person of Lordly Caliber (USA).z64
-f04c8f511b678301b21c54a27cb08bb9	Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console).z64
 465dfd27ddab4f5488f4dadc09b7f938	Olympic Hockey 98 (Europe) (En,Fr,De,Es).z64
 8a964671c5a4f4fc62787f1f25edd70d	Olympic Hockey 98 (Japan).z64
 9c99c6d9ea98a960056c531cb78eb35b	Olympic Hockey 98 (USA).z64
@@ -629,10 +640,10 @@ c4cbcb54b010a5a71fe5caa391e5c25f	Paperboy (USA).z64
 52f4f3320607f3e8dd1a16a2f1bfbdb0	PD Ultraman Battle Collection 64 (Japan).z64
 20da62ece553ede84d02283174becc8f	Penny Racers (Europe).z64
 518b14054a667a3b9e0b72d3bf784e41	Penny Racers (USA).z64
-ad2de210a3455ba5ec541f0c78d91444	Perfect Dark (Europe) (Debug Version) (2000-04-26).z64
+ad2de210a3455ba5ec541f0c78d91444	Perfect Dark (Europe) (2000-04-26) (Debug).z64
 d9b5cd305d228424891ce38e71bc9213	Perfect Dark (Europe) (En,Fr,De,Es,It).z64
 538d2b75945eae069b29c46193e74790	Perfect Dark (Japan).z64
-aa93f4df16fceada399a749f5ad2f273	Perfect Dark (USA) (Debug Version) (2000-03-22).z64
+aa93f4df16fceada399a749f5ad2f273	Perfect Dark (USA) (2000-03-22) (Debug).z64
 e03b088b6ac9e0080440efed07c1e40f	Perfect Dark (USA) (Rev 1).z64
 7f4171b0c8d17815be37913f535e4e93	Perfect Dark (USA).z64
 617ceca1d2beffce943ef832326898bf	PGA European Tour (USA).z64
@@ -681,6 +692,7 @@ bbdc4c4f1c474298189312008a1768c4	Polaris SnoCross (USA).z64
 8cc73c373016070647030dde492fdc8c	Power League 64 (Japan).z64
 92bb1bc5e6466f1944943d34d25f2daf	Power Rangers - Lightspeed Rescue (Europe).z64
 91d74621ddef6d37fb845b3bc7059a38	Power Rangers - Lightspeed Rescue (USA).z64
+11bd90afe31992f1f5e7e25433fe8d52	Powerpuff Girls, The - Chemical X-Traction (USA) (Beta) (2001-09-27).z64
 2991bb68eca54813d6b834adbbbacc4c	Powerpuff Girls, The - Chemical X-Traction (USA).z64
 25bafc84ba4d87854dc44df3ef8764ea	Premier Manager 64 (Europe).z64
 b42f62483f7ca2aac5af911175463db8	Pro Mahjong Kiwame 64 (Japan) (Rev 1).z64
@@ -689,14 +701,15 @@ f1a2e4dd22adf4f90da4bddca37d5f18	Pro Mahjong Tsuwamono 64 - Jansou Battle ni Cho
 faaa2094b04dca4c287af9334d22529d	Puyo Puyo Sun 64 (Japan).z64
 22b86ab3f320a607899a0516c90a24d0	Puyo Puyoon Party (Japan).z64
 b478d4af60d43c38ba81de9faea6e057	Puzzle Bobble 64 (Japan).z64
-250ad6be7e97306364bfd8f420204d8a	Pyoro 64 (Italy) (Aftermarket) (Homebrew).n64
-b98d8a94fe2f02384cb923fbb2f9d57e	Pyoro 64 (Unknown) (Aftermarket) (Homebrew).n64
-2ac0f88bea02d67896ffeae9e8ec72e7	Pyoro 64 (USA) (Aftermarket) (Homebrew).n64
+b98d8a94fe2f02384cb923fbb2f9d57e	Pyoro 64 (Unknown) (MPAL) (Aftermarket) (Homebrew).z64
+2ac0f88bea02d67896ffeae9e8ec72e7	Pyoro 64 (Unknown) (NTSC) (Aftermarket) (Homebrew).z64
+250ad6be7e97306364bfd8f420204d8a	Pyoro 64 (Unknown) (PAL) (Aftermarket) (Homebrew).z64
 592ce7718efdd1ff2f077c9b2b5275fb	Quake (Europe).z64
 097605021951024c3ecb2d502c0c2a9f	Quake (USA).z64
 673d4ba4f41a0fe23650f06af53eec50	Quake II (Europe).z64
 cc93c30c633ff461c29b54ceabefd701	Quake II (USA).z64
 ea552e33973468233a0712c251abdb6b	Quest 64 (USA).z64
+18856426d971617ab4cffb331763e797	R64 (World) (Aftermarket) (Homebrew).z64
 aa57d69867f53456f351a289eba08c3d	Racing Simulation 2 (Germany).z64
 167a3502f06cf0eef56758533f3d0e52	Rakugakids (Europe).z64
 813ad5c00bad7c4d41f8558cecedae51	Rakugakids (Japan).z64
@@ -714,14 +727,16 @@ f661889fdf65ddcd212e9fb53b2c8f50	Rat Attack! (USA) (En,Fr,De,Es,It,Nl).z64
 406b08987ab92d73d72b597ec6b11bd9	Razor Freestyle Scooter (USA).z64
 faa64abb0d222fcc0c6e2515d3805d9f	Re-Volt (Europe) (En,Fr,De,Es).z64
 3fc4d3187435443455f8355b2d3f8934	Re-Volt (USA).z64
+df4446a2b55c4d8d67e9c0c19e0fd9fb	Ready 2 Rumble Boxing - Round 2 (USA).z64
 adc95ae01855fa305b13f8b22427e597	Ready 2 Rumble Boxing (Europe) (En,Fr,De).z64
 a42f6f14f7ea10abeb3b55ffd42eb572	Ready 2 Rumble Boxing (USA).z64
-df4446a2b55c4d8d67e9c0c19e0fd9fb	Ready 2 Rumble Boxing - Round 2 (USA).z64
 b04f298721223a22e1150cebc712ee6a	Resident Evil 2 (Europe) (En,Fr).z64
 1add2c0217662b307cdfd876b35fbf7a	Resident Evil 2 (USA) (Rev 1).z64
 dd21150cbc21c05420304599ec57411c	Resident Evil 2 (USA).z64
 436f93c0d8b1650bc308ccf344c08c93	Road Rash 64 (Europe) (Beta) (1999-10-12).z64
 ad922dae446a301e1aafe1dfbad75a2e	Road Rash 64 (Europe).z64
+4d1d8b2bb146a98a66e23189b67ec12f	Road Rash 64 (USA) (Beta 1).z64
+4a2400af877b161fc7a265e46be53251	Road Rash 64 (USA) (Beta 2).z64
 28c2373f6d831eec81f6146a809e701b	Road Rash 64 (USA).z64
 41f67b5c8bb8daeffd989123846fc063	Roadsters (Europe) (En,Fr,De,Es,It,Nl).z64
 d3644b398c090528e0ed9eb3c140366e	Roadsters (USA) (En,Fr,Es).z64
@@ -739,6 +754,7 @@ c2907eb2f9a350793317ece878a3b8e3	Rocket - Robot on Wheels (USA).z64
 990f97d56456fc23e52bd263e709e21e	RR64 - Ridge Racer 64 (USA).z64
 a1082a6676455c040843fd75e92de1a3	RTL World League Soccer 2000 (Germany).z64
 dec4598a39728c28cd0ceba45a173ce1	Rugrats - Die grosse Schatzsuche (Germany).z64
+a0e5edf2e5841578325e91470e0b84df	Rugrats - Scavenger Hunt (USA) (Beta) (1999-04-02).z64
 8c432235a57d34bc4a9b8b290e21e01e	Rugrats - Scavenger Hunt (USA).z64
 55185016031cdc73c0fd471527c35706	Rugrats - Treasure Hunt (Europe).z64
 229089089661f517c863242d6bb77746	Rugrats in Paris - The Movie (Europe).z64
@@ -768,10 +784,12 @@ a06e757cf1930b29fa4c0b5c9f31335f	Shadowgate 64 - Trials of the Four Towers (Euro
 11169a32d449ec3a8903ca8a9d69a6aa	Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl).z64
 e8955c3b743fddfe403e52e769e9853f	Shadowgate 64 - Trials of the Four Towers (Europe).z64
 1960a3879fadf2c5eff5beb47e0e1441	Shadowgate 64 - Trials of the Four Towers (Japan).z64
+1cf28070533ff9e0006ee932d8b39fb9	Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta).z64
 407a1a18bd7dbe0485329296c3f84eb8	Shadowgate 64 - Trials of the Four Towers (USA) (En,Es).z64
 13d9514a4d208dc6c7b0c833f68114d2	Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan).z64
 113044b16b75f98792bf9c20c6b6282b	Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan).z64
 244bea64ea209990e9c69a830b507135	SimCity 2000 (Japan).z64
+3777ddb4a7494a0f39f78f25756890d1	SimCopter 64 (USA) (Proto).z64
 b8d4b92e66a312708626b3216de07a3a	Snobo Kids (Japan).z64
 f7e66da23c8bb8e59f641a636a9cae82	Snow Speeder (Japan).z64
 ab4382e583ae139eedbafce5fa87e4c8	Snowboard Kids (Europe, Australia).z64
@@ -779,14 +797,17 @@ eb31f4f9c1fe26a3a663f74e9790516e	Snowboard Kids (USA).z64
 47b5e3955d54f969941533f26691ab38	Snowboard Kids 2 (Australia).z64
 08e1152e9d9742e9bbf6c224b6958f2d	Snowboard Kids 2 (USA).z64
 7d47911b5c3d91a303ef19e764f3c02b	Sonic Wings Assault (Japan).z64
+f1ae48b778c8431a50c37eb1ed96b120	South Park - Chef's Luv Shack (Europe).z64
+6af573eb055648a8542aa82d9524fb2f	South Park - Chef's Luv Shack (USA).z64
 d313af5f8af4d19f732a1a2c4d4d66bb	South Park (Brazil).z64
 40cc2085a5c12456bef830b047068326	South Park (Europe) (En,Fr,Es).z64
 2c94a246e701d667ba807dab6c9771e2	South Park (Germany).z64
 1730119b0455ef89c4e495dec8e950a5	South Park (USA).z64
-f1ae48b778c8431a50c37eb1ed96b120	South Park - Chef's Luv Shack (Europe).z64
-6af573eb055648a8542aa82d9524fb2f	South Park - Chef's Luv Shack (USA).z64
-cdee4b0529b33405a293d51cb3765c57	South Park Rally (Europe) (Beta).z64
+cdee4b0529b33405a293d51cb3765c57	South Park Rally (Europe) (Beta) (2000-01-08).z64
+e3c1c713917bb39ab9e5278894229a84	South Park Rally (Europe) (Beta) (2000-01-17).z64
 c33fa02791077a71b0afe1cfed47c180	South Park Rally (Europe).z64
+a5b3b1d07af3c0bb51091e68304cce18	South Park Rally (USA) (Beta) (2000-01-14).z64
+1be2624e4c597b8094195a2348900514	South Park Rally (USA) (Beta) (2000-01-27).z64
 1c494719032ff99382b167c43fb11762	South Park Rally (USA).z64
 7f9cdbbb1aaaaf0983c64988ef9c58be	Space Dynamites (Japan).z64
 c72417e0f8f043f9f11851633c4b1a57	Space Invaders (USA).z64
@@ -807,18 +828,19 @@ a9dd498e6a28f55311ce4ef057e164b8	Star Wars - Rogue Squadron (Europe) (En,Fr,De) 
 2e458d7cc355d7918493b0e0362c9a20	Star Wars - Rogue Squadron (USA) (Rev 1).z64
 47cac4e2a6309458342f21a9018ffbf0	Star Wars - Rogue Squadron (USA).z64
 591cf8e672c9cc0fe9c871cc56dcc854	Star Wars - Shadows of the Empire (Europe).z64
+4e12b97690897465a27bdf0dda722826	Star Wars - Shadows of the Empire (USA) (Aftermarket) (Unl).z64
 4076973cfda277fc876e9f066cc73deb	Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15).z64
 fa635e837275d28fd5a24d5675ba42c8	Star Wars - Shadows of the Empire (USA) (Rev 1).z64
 c7b40352aad8d863d88d51672f9a0087	Star Wars - Shadows of the Empire (USA) (Rev 2).z64
-4e12b97690897465a27bdf0dda722826	Star Wars - Shadows of the Empire (USA) (Rev 3) (Aftermarket) (Unl).z64
 5cce8ad5f86e8a373a7525dc4c7e6705	Star Wars - Shadows of the Empire (USA).z64
 8603b180e70b2a72ef77d46c2bec2234	Star Wars - Shutsugeki! Rogue Chuutai (Japan).z64
 5b6b6b0c8c9a40286dcf61706b6a05cb	Star Wars - Teikoku no Kage (Japan).z64
 0bd1f7bb9f4b02520e4e9285c809f099	Star Wars Episode I - Battle for Naboo (Europe).z64
+88776081f0f92eef355cd451b9c6a819	Star Wars Episode I - Battle for Naboo (USA) (Beta).z64
 3cb88b934572e7520f35e5458798775b	Star Wars Episode I - Battle for Naboo (USA).z64
 6ef9fed309f28bd59b605f128869aa00	Star Wars Episode I - Racer (Europe) (En,Fr,De).z64
 7579ab0e79b1011479b88f2bf39d48e0	Star Wars Episode I - Racer (Japan).z64
-0b2b4d3c38426763059d68aa53b86fdf	Star Wars Episode I - Racer (USA) (Rev 1) (Aftermarket) (Unl).z64
+0b2b4d3c38426763059d68aa53b86fdf	Star Wars Episode I - Racer (USA) (Aftermarket) (Unl).z64
 1ee8800a4003e7f9688c5a35f929d01b	Star Wars Episode I - Racer (USA).z64
 72b60fac5ee257fa387b43c57632d50c	StarCraft 64 (Australia).z64
 356a5d3d59e0adef6efae6096fc20f77	StarCraft 64 (Germany) (Proto).z64
@@ -842,9 +864,9 @@ f7c52568a31aadf26e14dc2b6416b2ed	Super Smash Bros. (USA).z64
 6b5d93b3566e96147009d1ac4fb15c97	Super Speed Race 64 (Japan).z64
 6d58a01ef7a7a7c779d2a66315992c5f	Supercross 2000 (Europe) (En,Fr,De).z64
 60347200a1a7cabc0d849ee69ec51df7	Supercross 2000 (USA).z64
+3f64b4f72e61225ef3ae93976c9bfc7c	Superman - The New Superman Aventures (USA) (En,Fr,Es).z64
 5ab39f2d7a144e1ba243df059560e878	Superman (Europe) (En,Fr,De,Es,It,Nl).z64
 19c9491dd517603be2fa3020c2f2deb2	Superman (USA) (Beta) (1998-09-06).z64
-3f64b4f72e61225ef3ae93976c9bfc7c	Superman - The New Superman Aventures (USA) (En,Fr,Es).z64
 26f4ca20f7b9c88199ac046c57e282b4	Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan).z64
 fc32007ba03ff2510020e979c7bdad4f	Sydney 2000 (Europe) (Proto).z64
 2eea8d20bef26f88a5e82fdd39f87e75	Sydney 2000 (USA) (Proto).z64
@@ -856,6 +878,7 @@ eae7e0ee5328ed9f13b9cf9990189928	Tarzan (USA).z64
 192b715e8bc5972a4986df21dc8bf357	Taz Express (Europe) (En,Fr,De,Es,It,Nl).z64
 7a94f94485bd28f0d6d67257050b26d4	Taz Express (USA) (Proto) (2000-05-15).z64
 7f244aff8d729417e32b6a5b299afda5	Telefoot Soccer 2000 (France).z64
+faf80bdcce97ac96ca21704ab8795089	Telocation (World) (v1.2) (Aftermarket) (Homebrew).z64
 7c8efcf4fba28f9f5b5ea10a71283bf3	Tetris 64 (Japan) (En).z64
 765a330d5ce2dbe7120c6c8e18a1487d	Tetrisphere (Europe).z64
 3f88078e2d9dbf6c9372f6373cf9ae09	Tetrisphere (USA).z64
@@ -887,6 +910,7 @@ b60d26c2c2242bff61f76469fc272d2a	Top Gear Hyper-Bike (USA) (Beta).z64
 7258f4ab367b025c95a4f476c461e717	Top Gear Hyper-Bike (USA).z64
 6c65a252f227aef18df2dd3ce04cc821	Top Gear Overdrive (Europe).z64
 b5691794a851d8b603f0c741d44aa244	Top Gear Overdrive (Japan).z64
+975d01545d0803f20d1ee61385c28eed	Top Gear Overdrive (USA) (Beta).z64
 7818696426c0a429fbfccc4efe8d5570	Top Gear Overdrive (USA).z64
 50195216c8a37f9bd5b2105a40ee8d8f	Top Gear Rally (Asia) (En).z64
 1698508f521280d0a80e078ec981d4ac	Top Gear Rally (Europe).z64
@@ -895,6 +919,7 @@ b5691794a851d8b603f0c741d44aa244	Top Gear Overdrive (Japan).z64
 c33cd926e1e71f39f7238af7b9e0dc5c	Top Gear Rally 2 (Europe) (Beta) (1999-08-31).z64
 44c4566572dc0662d4299ab5b19043ae	Top Gear Rally 2 (Europe).z64
 b10d781ec625ca45713fd34e5096c24a	Top Gear Rally 2 (Japan).z64
+b468f0d00264950dd197f5f8fc7e3db7	Top Gear Rally 2 (USA) (Beta).z64
 1fa409fcac007ddeccc4cf439a0d8dae	Top Gear Rally 2 (USA).z64
 fa0f12c15b3655f9f56888c3249b1ced	Toy Story 2 - Buzz l'Eclair a la Rescousse! (France).z64
 5f2c9e5e39ab09311d96e6c751184b6b	Toy Story 2 - Buzz Lightyear to the Rescue! (Europe).z64
@@ -930,10 +955,14 @@ fad4da8e17ce12f68cdf29180cdd4a90	Turok 2 - Seeds of Evil (USA).z64
 03d17aa3dc7663502017d3cc5a19aa8b	Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-05-31).z64
 69ce88c46a7c829c6f54004de93efcef	Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-06-06) [b].z64
 c38acbae773cc3845ea354421e171998	Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-10) [b].z64
-3d64e47f1c0cba540ed00f816fa75e9d	Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16).z64
+3d64e47f1c0cba540ed00f816fa75e9d	Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16T211412).z64
+d44af456933062c4ebe103b6f23518ea	Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16T220245).z64
+ed64e19322382a86467666902760a76c	Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-18).z64
 279ec83bd60a3cce69a1db22b0a5c318	Turok 3 - Shadow of Oblivion (Europe).z64
+da557a2f10fb66bf966140fbb066772f	Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-05-03).z64
 f5738c4b804b0260b99ad39d49ddd43c	Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-06-26).z64
-9865a336b00e95601ed05a43a2422c23	Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-21).z64
+4ae7c142d09f850f6ac0320034d80fa5	Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-16).z64
+9865a336b00e95601ed05a43a2422c23	Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-18).z64
 1211c556d77b169d81a666a9661e1777	Turok 3 - Shadow of Oblivion (USA).z64
 9df6c2c97fa34a978ef3cb77631536fe	Twisted Edge - Extreme Snowboarding (USA).z64
 420c9fdbae15767c5e584070209ff253	Twisted Edge - Snowboarding (Europe).z64
@@ -942,12 +971,12 @@ dcac12eb5832d4a489188330eb9ec387	V-Rally Edition 99 (Europe) (En,Fr,De).z64
 8541d7a8737be09c52d4ec1274de2a91	V-Rally Edition 99 (Japan).z64
 0c3448a9d85300acb9c5556f27a84b23	V-Rally Edition 99 (USA).z64
 b7425d12935662e480268b48055f2e6c	Viewpoint 2064 (Japan) (Proto).z64
+47661ef1964524b6319b759913f08b62	Vigilante 8 - 2nd Offense (Europe).z64
+60cdf7445fad2aba05c958f46691501b	Vigilante 8 - 2nd Offense (USA).z64
 df011e19f41b1b19c21f1e77e13780b7	Vigilante 8 (Europe).z64
 ff9f85c50982dbdba9853a8915321d31	Vigilante 8 (France).z64
 37b430ee16167831c6c6292994f93277	Vigilante 8 (Germany).z64
 d616adf6441acbbd0e6bef023a8f6031	Vigilante 8 (USA).z64
-47661ef1964524b6319b759913f08b62	Vigilante 8 - 2nd Offense (Europe).z64
-60cdf7445fad2aba05c958f46691501b	Vigilante 8 - 2nd Offense (USA).z64
 c3005d76af42e929e5c67421a19f8235	Violence Killer - Turok New Generation (Japan).z64
 e790be1a5b883beba44bc0d2666c65f5	Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl).z64
 f8a35270279b277586d7210fd15134ff	Virtual Chess 64 (USA) (En,Fr,Es).z64
@@ -985,13 +1014,13 @@ c1384f3637d7a381b29341fed3ef3ceb	WCW-nWo Revenge (USA).z64
 a99e2cb6acef7a004961de5f6dfeeff0	Wetrix (Europe) (En,Fr,De,Es,It,Nl).z64
 e8997bf5662540b184fbf8277d260984	Wetrix (Japan).z64
 6e81d3056e409208e4af2d39a2ff0f03	Wetrix (USA) (En,Fr,De,Es,It,Nl).z64
-aab9c595a91b9f26e12cae2ff2649881	Whack 'n' Roll (USA) (Beta) (1998-02-05).z64
+aab9c595a91b9f26e12cae2ff2649881	Whack 'n' Roll (USA) (v0.8.2) (Beta) (1998-02-05).z64
 2abe36754e866b9b6c4bdcffc1d11abf	Wheel of Fortune (USA).z64
 f85f2a2b6ca64898f0add2a78ccdccf3	Wild Choppers (Japan).z64
-b867880c96c9e8d3130dde5526c95439	Wildwaters (USA) (Proto) (1999-06-15).z64
+b867880c96c9e8d3130dde5526c95439	Wildwaters (USA) (1999-06-15) (Proto).z64
+48da6cdcab838153caa2ecc3dd592a65	WinBack - Covert Operations (USA).z64
 9789a48e1d9e42c2f69c59964371089f	WinBack (Japan) (Rev 1).z64
 ee3d3550acc463ca57408bf14e541f68	WinBack (Japan).z64
-48da6cdcab838153caa2ecc3dd592a65	WinBack - Covert Operations (USA).z64
 7260da1cecd0d8844c5e29aa63476def	Wipeout 64 (Europe) (Beta).z64
 5783373634b11f81c86908c3d81ca988	Wipeout 64 (Europe).z64
 73c6d87dbe50f73f3b44e0f237a546d7	Wipeout 64 (USA).z64
@@ -1007,6 +1036,7 @@ b86ec8d19d7d1a50ea900ea10355a735	WWF Attitude (Germany).z64
 9faf514cb3dbb742c129deb395dca342	WWF Attitude (USA).z64
 400a14f132d993f5544f8b008ec136fa	WWF No Mercy (Europe) (Rev 1).z64
 d94a8f78178473d4ba4bed62fa8e2e66	WWF No Mercy (Europe).z64
+5ce490cf86cfeabf28c19b4c8afc3f24	WWF No Mercy (USA) (Beta).z64
 66b8ec24557a50514a814f15429bd559	WWF No Mercy (USA) (Rev 1).z64
 04c492be7f89fc6f425238bd67629544	WWF No Mercy (USA).z64
 ebc0cf55fc58845c6ee86cf8b2d87303	WWF War Zone (Europe).z64
