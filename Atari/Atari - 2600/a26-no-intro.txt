@@ -5,8 +5,8 @@ e3600be9eb98146adafdc12d91323d0f	3-D Tic-Tac-Toe (Europe).a26
 0db4f4150fecf77e4ce72ca4d04c052f	3-D Tic-Tac-Toe (USA).a26
 4f32b24869d8c1310fecf039c6424db6	3-D Zapper (USA) (Proto) (1982-12-15).a26
 50c7edc9f9dc0369abcdab3b4efeb5e9	3-D Zapper (USA) (Proto) (Earlier).a26
-291bcdb05f2b37cdf9452d2bf08e0321	32 in 1 Game Cartridge (Europe).a26
 90578a63441de4520be5324e8f015352	4 Game in One (Europe) (Bit Corporation).a26
+291bcdb05f2b37cdf9452d2bf08e0321	32 in 1 Game Cartridge (Europe).a26
 52385334ac9e9b713e13ffa4cc5cb940	Abre-te, Sesamo! (Brazil) (En) (Unl).a26
 17ee23e5da931be82f733917adcb6386	Acid Drop (Europe).a26
 b9f6fa399b8cd386c235983ec45e4355	Action Man - Action Force (Europe).a26
@@ -20,12 +20,12 @@ ca4f8c5b4d6fb9d608bb96bc7ebd26c7	Adventures of TRON (USA).a26
 35be55426c1fec32dfb503b4f0651572	Air Raid (USA).a26
 cf3a9ada2692bb42f81192897752b912	Air Raiders (Europe).a26
 a9cb638cd2cb2e8e0643d7a67db4281c	Air Raiders (USA).a26
-0c7926d660f903a2d6910c254660c32c	Air-Sea Battle (Europe).a26
-835967c3a2475d852286f04b1b8c62d9	Air-Sea Battle ~ Target Fun (Japan, USA) (En) (Atari Anthology).a26
-16cb43492987d2f32b423817cdaaf7c4	Air-Sea Battle ~ Target Fun (Japan, USA) (En).a26
 62899430338e0538ee93397867d85957	Airlock (Europe).a26
 8c7e5e2329f4f4e06cbcc994a30fd352	Airlock (USA) (Proto).a26
 4d77f291dca1518d7d8e47838695f54b	Airlock (USA).a26
+0c7926d660f903a2d6910c254660c32c	Air-Sea Battle (Europe).a26
+835967c3a2475d852286f04b1b8c62d9	Air-Sea Battle ~ Target Fun (Japan, USA) (En) (Atari Anthology).a26
+16cb43492987d2f32b423817cdaaf7c4	Air-Sea Battle ~ Target Fun (Japan, USA) (En).a26
 956496f81775de0b69a116a0d1ad41cc	Alien (Brazil) (En) (Unl).a26
 f1a0a23e6464d954e3a9579c4ccd01c8	Alien (USA).a26
 103f1756d9dc0dd2b16b53ad0f0f1859	Alien's Return (Europe).a26
@@ -36,6 +36,17 @@ f2d40c70cf3e1d03bc112796315888d9	Alpha Beam with Ernie (Europe).a26
 9e01f7f95cb8596765e03b9a36e8e33c	Alpha Beam with Ernie (Japan, USA) (En).a26
 056f5d886a4e7e6fdd83650554997d0d	Amidar (Europe).a26
 acb7750b4d0c4bd34969802a7deb2990	Amidar (USA).a26
+ebbbdf4a936732eba7c16523507b1111	Amoeba Jump (World) (NTSC) (Aftermarket) (Homebrew).a26
+ccdc570cd66b12d97755caa88a3667ea	Amoeba Jump (World) (PAL 50Hz) (Aftermarket) (Homebrew).a26
+ca0035430dad7dd4f9391f232091d216	Amoeba Jump (World) (PAL 60Hz) (Aftermarket) (Homebrew).a26
+7761418d46af069b8cd80c29fe6cd814	Amoeba Jump (World) (Retron 77 Version) (Aftermarket) (Homebrew).a26
+2649013b983ce353473168d2a0ce2bd3	Amoeba Jump (World) (v0.1) (Aftermarket) (Homebrew).a26
+3b395ae0cc96eddea898ff2da4332481	Amoeba Jump (World) (v1.1) (NTSC) (Aftermarket) (Homebrew).a26
+4d39a281703687b285a1f132690ef498	Amoeba Jump (World) (v1.1) (PAL) (Aftermarket) (Homebrew).a26
+03e976a52dbfb5ee03d92fd6c0e9a405	Amoeba Jump (World) (v1.2) (NTSC) (Aftermarket) (Homebrew).a26
+04bff96f7e878aaf4d65dce325c8645a	Amoeba Jump (World) (v1.2) (PAL) (Aftermarket) (Homebrew).a26
+539f3c42c4e15f450ed93cb96ce93af5	Amoeba Jump (World) (v1.3) (NTSC) (Aftermarket) (Homebrew).a26
+0c72cc3a6658c1abd4b735ef55fa72e4	Amoeba Jump (World) (v1.3) (PAL) (Aftermarket) (Homebrew).a26
 0866e22f6f56f92ea1a14c8d8d01d29c	AndroMan on the Moon (USA) (Proto).a26
 6a7e6fc102bf7459f89419c548a79e2c	Angry Video Game Nerd K.O. Boxing - NTSC (World) (Aftermarket) (Homebrew).a26
 27279303df0884b2423c2ed1fb7ddc92	Angry Video Game Nerd K.O. Boxing - PAL (World) (Aftermarket) (Homebrew).a26
@@ -185,8 +196,8 @@ a47e26096de6f6487bf5dd2d1cced294	Codebreaker (Europe).a26
 8946fbafac46158f020b7cb27993769e	Colours (USA, Europe) (Atari Anthology).a26
 e8aa36e3d49e9bfa654c25dcc19c74e6	Combat (Europe).a26
 0d213ac07d3be0d51d3084769bebac17	Combat (USA, Europe) (Atari Anthology).a26
-b0c9cf89a6d4e612524f4fd48b5bb562	Combat Two (USA) (Proto).a26
 4c8832ed387bbafc055320c05205bc08	Combat ~ Tank-Plus (USA).a26
+b0c9cf89a6d4e612524f4fd48b5bb562	Combat Two (USA) (Proto).a26
 de1e9fb700baf8d2e5ae242bffe2dbda	Commando (Europe).a26
 61631c2f96221527e7da9802b4704f93	Commando (USA) (Alt).a26
 5d2cc33ca798783dee435eb29debf6d6	Commando (USA).a26
@@ -302,6 +313,8 @@ c2b5c50ccb59816867036d7cf730bf75	Ghostbusters II (Europe).a26
 1c8c42d1aee5010b30e7f1992d69216e	Gigolo (USA).a26
 5e0c37f534ab5ccc4661768e2ddf0162	Glacier Patrol (USA).a26
 2d9e5d8d083b6367eda880e80dfdfaeb	Glib - Video Word Game (USA).a26
+787a2faebadc670a887a0e2483b8f034	Go Fish! (World) (NTSC) (Aftermarket) (Homebrew).a26
+1b64dbaba6bbc1d428e59f088e8018e7	Go Fish! (World) (PAL) (Aftermarket) (Homebrew).a26
 cfb83a3b0513acaf8be4cae1512281dc	Going-Up (USA) (Proto).a26
 2e663eaa0d6b723b645e643750b942fd	Golf (USA).a26
 32ae78abbb5e677e2aabae5cc86cec29	Good Luck, Charlie Brown (USA) (Proto).a26
@@ -317,6 +330,7 @@ c16c79aad6272baffb8aae9a7fff0864	Gopher (USA).a26
 b311ab95e85bc0162308390728a7361d	Gyruss (USA).a26
 fca4a5be1251927027f2c24774a02160	H.E.R.O. (USA).a26
 30516cfbaa1bc3b5335ee53ad811f17a	Halloween (USA).a26
+4afa7f377eae1cafb4265c68f73f2718	Halo 2600 (World) (Aftermarket) (Homebrew).a26
 f16c709df0a6c52f47ff52b9d95b7d8d	Hangman ~ Spelling (USA).a26
 700a786471c8a91ec09e2f8e47f14a04	Hard-Head (USA) (Proto).a26
 a34560841e0878c7b14cc65f79f6967d	Harem (USA) (Proto).a26
@@ -362,13 +376,6 @@ eed9eaf1a0b6a2b9bc4c8032cb43e3fb	Klax (Europe).a26
 534e23210dd1993c828d944c6ac4d9fb	Kool-Aid Man (USA).a26
 4baada22435320d185c95b7dd2bcdb24	Krull (USA).a26
 5b92a93b23523ff16e2789b820e2a4c5	Kung-Fu Master (USA).a26
-77b10df7d3e4796396e987e8f121bcc4	KVB1.WAV
-64fbcd99d2348cd6fdb1e04b9e275ed5	KVB2.WAV
-9752e8697aa944b7b34f78af8595e9da	KVB3.WAV
-4e265258451af7cc7946ae0e2486bfd1	KVS1.WAV
-abefa5b2a46efcb60400754cb2de6c7a	KVS2.WAV
-6a4f12a2ea946b35438f93478230e9ef	KVS3.WAV
-818525569cb66d481d9cd48c2b0f7360	KVSHARED.WAV
 b86552198f52cfce721bafb496363099	Kyphus (USA) (Proto).a26
 bce4c291d0007f16997faa5c4db0a6b8	Laaser Voley (Europe) (Pirate).a26
 95a89d1bf767d7cc9d0d5093d579ba61	Lady in Wading (USA).a26
@@ -542,7 +549,7 @@ b9b4612358a0b2c1b4d66bb146767306	Rush Hour (USA) (Proto).a26
 a4ecb54f877cd94515527b11e698608c	Saboteur (USA) (Proto).a26
 4d502d6fb5b992ee0591569144128f99	Save Mary! (USA) (Proto).a26
 01297d9b450455dd716db9658efb2fae	Save Our Ship (Europe).a26
-49571b26f46620a85f93448359324c28	Save our Ship (USA).a26
+49571b26f46620a85f93448359324c28	Save Our Ship (USA).a26
 e377c3af4f54a51b85efe37d4b7029e6	Save the Whales (USA) (Proto).a26
 ee681f566aad6c07c61bbbfc66d74a27	SCRMNN (USA) (Proto).a26
 1bc2427ac9b032a52fe527c7b26ce22c	Sea Battle (USA).a26
@@ -558,6 +565,7 @@ f3dfae774f3bd005a026e29894db40d3	See Saw (Europe).a26
 8debebc61916692e2d66f2edf4bed29c	Sheep It Up! - NTSC (World) (Aftermarket) (Homebrew).a26
 1f6267db16ffeb90ba48890d5f84ac9e	Sheep It Up! - PAL (World) (Aftermarket) (Homebrew).a26
 da3f54e89b54b0a2391d0513ab8c9861	Sheep It Up! - SECAM (World) (Aftermarket) (Homebrew).a26
+f20d393bdcc8a012d6277847e38b429f	Shootin' Gallery (Europe) (Proto).a26
 b5a1a189601a785bdb2f02a424080412	Shootin' Gallery (USA).a26
 15c11ab6e4502b2010b18366133fc322	Shooting Arcade (USA) (Proto).a26
 25b6dc012cdba63704ea9535c6987beb	Shuttle Orbiter (USA).a26
@@ -638,8 +646,8 @@ e10d2c785aadb42c06390fae0d92f282	Strawberry Shortcake - Musical Match-Ups (USA).
 7b3cf0256e1fa0fdc538caf3d5d86337	Stronghold (USA).a26
 c3bbc673acf2701b5275e85d9372facf	Stunt Cycle (USA) (Proto).a26
 ed0ab909cf7b30aff6fc28c3a4660b8e	Stunt Man (USA).a26
-5af9cd346266a1f2515e1fbc86f5186a	Sub-Scan (USA).a26
 f3f5f72bfdd67f3d0e45d097e11b8091	Submarine Commander (USA).a26
+5af9cd346266a1f2515e1fbc86f5186a	Sub-Scan (USA).a26
 93c52141d3c4e1b5574d072f1afde6cd	Subterranea (USA).a26
 e4c666ca0c36928b95b13d33474dbb44	Suicide Mission (USA).a26
 45027dde2be5bdd0cab522b80632717d	Summer Games (USA).a26
@@ -652,13 +660,13 @@ e275cbe7d4e11e62c3bfcfb38fca3d49	Super Challenge Football (USA).a26
 c29f8db680990cb45ef7fef6ab57a2c2	Super Cobra (USA).a26
 09abfe9a312ce7c9f661582fdf12eab6	Super Football (USA).a26
 5de8803a59c36725888346fdc6e7429d	Superman (USA).a26
-aec9b885d0e8b24e871925630884095c	Surf's Up (USA) (Proto).a26
 c20f15282a1aa8724d70c117e5c9709e	Surfer's Paradise - But Danger Below! (Europe).a26
+aec9b885d0e8b24e871925630884095c	Surf's Up (USA) (Proto).a26
 4d7517ae69f95cfbc053be01312b7dba	Surround ~ Chase (USA).a26
 045035f995272eb2deb8820111745a07	Survival Island (USA).a26
 59e53894b3899ee164c91cfa7842da66	Survival Run (USA) (Proto).a26
 85e564dae5687e431955056fbda10978	Survival Run (USA).a26
-e51c23389e43ab328ccfb05be7d451da	Sweat! The Decathalon Game (USA).a26
+e51c23389e43ab328ccfb05be7d451da	Sweat! The Decathlon Game (USA).a26
 528400fad9a77fd5ad7fc5fdc2b7d69d	Sword of Saros (USA).a26
 87662815bc4f3c3c86071dc994e3f30e	Swordfight (USA).a26
 5aea9974b975a6a844e6df10d2b861c4	SwordQuest - EarthWorld (USA).a26
@@ -719,6 +727,12 @@ e17699a54c90f3a56ae4820f779f72c4	Vogel Flieh (Europe).a26
 7ff53f6922708119e7bf478d7d618c86	Walker ~ Schussel, der Polizistenschreck (Europe).a26
 d3456b4cf1bd1a7b8fb907af1a80ee15	Wall Ball (USA).a26
 372bddf113d088bc572f94e98d8249f5	Wall Break (Europe).a26
+3c56c0c5f6f97850ed0aa7bcc2a4e30e	Wall Jump Ninja (World) (2015-01-15) (NTSC) (Aftermarket) (Homebrew).a26
+2489359c38551a1d96cbaa4e52d8bb30	Wall Jump Ninja (World) (2015-01-15) (PAL 60Hz) (Aftermarket) (Homebrew).a26
+195a8ddf9debcc1444a86aef82b9c26d	Wall Jump Ninja (World) (2015-01-15) (PAL) (Aftermarket) (Homebrew).a26
+eb56bef863bed75f203429e568c23d05	Wall Jump Ninja (World) (Aftermarket) (Homebrew).a26
+5da448a2e1a785d56bf4f04709678156	Wall Jump Ninja (World) (v1.1) (2016-05-08) (NTSC) (Aftermarket) (Homebrew).a26
+9490206ba47a11332488240f3b91c477	Wall Jump Ninja (World) (v1.1) (2016-05-08) (PAL) (Aftermarket) (Homebrew).a26
 03ff9e8a7af437f16447fe88cea3226c	Wall-Defender (USA).a26
 cbe5a166550a8129a5e6d374901dffad	Warlords (USA).a26
 679e910b27406c6a2072f9569ae35fc8	Warplock (USA).a26
@@ -732,12 +746,12 @@ ec3beb6d8b5689e867bafb5d5f507491	Word Zapper (USA).a26
 130c5742cd6cbe4877704d733d5b08ca	World End (Europe).a26
 e62e60a3e6cb5563f72982fcd83de25a	World End (USA).a26
 87f020daa98d0132e98e43db7d8fea7e	Worm War I (USA).a26
-5961d259115e99c30b64fe7058256bcf	X-Man (USA).a26
 eaf744185d5e8def899950ba7c6e7bb5	Xenophobe (USA).a26
 c6688781f4ab844852f4e3352772289b	Xevious (USA) (Proto) (1983-08-02).a26
 af6f3e9718bccfcd8afb421f96561a34	Xevious (USA) (Proto) (1984-01-18).a26
+5961d259115e99c30b64fe7058256bcf	X-Man (USA).a26
 c5930d0e8cdae3e037349bfa08e871be	Yars' Revenge (USA).a26
-c1e6e4e7ef5f146388a090f1c469a2fa	Z-Tack (USA).a26
 eea0da9b987d661264cce69a7c13c3bd	Zaxxon (USA).a26
 fb833ed50c865a9a505a125fc9d79a7e	Zoo Fun (USA).a26
 a336beac1f0a835614200ecd9c41fd70	Zoo Keeper Sounds (USA) (Proto).a26
+c1e6e4e7ef5f146388a090f1c469a2fa	Z-Tack (USA).a26

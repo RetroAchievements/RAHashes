@@ -1,8 +1,10 @@
+3655aacebb43a963607d4cf821fc1301	[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja).ngp
 d485fcdef8f9f4fb0de39849334aca66	Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).ngc
 6f9f680b659369448f01508501c5a709	Baseball Stars Color - Pocket Sports Series (World) (En,Ja).ngc
 f384ff31b5b27903383e3c597654a9d5	Big Bang Pro Wrestling (Japan) (En,Ja).ngc
 ca3e26e2f539dbd35092fa9d7f561aff	Bikkuriman 2000 - Viva! Pocket Festival! (Japan).ngc
-4e9e47682cdb5bc314131548a4fb1a95	Biomotor Unitron (Japan) (Demo).ngc
+4e9e47682cdb5bc314131548a4fb1a95	Biomotor Unitron (Japan) (Demo).ngc [Deprecated]
+cba3c133f77a3529a0c7578ce9d27fba	Biomotor Unitron (Japan) (Demo).ngc
 c98b2b19971effcedac7bf2abaf3d485	Biomotor Unitron (Japan).ngc
 f4bbe8cf42074b75c8a911bf7b0562d5	Biomotor Unitron (USA, Europe).ngc
 29a8a310b704e8dafee71cea0ad53df0	Bust-A-Move Pocket (USA) (Demo).ngc
@@ -90,7 +92,8 @@ c86e826c8413c0dc3ad19a63ba6d4d97	Party Mail (Japan).ngc
 62347264d918559a95034be7cea8756d	Pocket Love - if (Japan).ngc
 48b11e8772b752db938685639b667e2f	Pocket Reversi (Europe) (v03).ngc
 17e31ed811e4f55f4e258465f1f56fc4	Pocket Reversi (Europe) (vA1).ngc
-c1427ef852912d672be49622deac5ec2	Pocket Reversi (Japan).ngc
+c1427ef852912d672be49622deac5ec2	Pocket Reversi (Japan).ngc [Deprecated]
+68a35607e4bdc8ba132dd9d8581c95c2	Pocket Reversi (Japan).ngc
 8b7105aee46be795f1ee0a0f9efdb445	Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).ngc
 806778d680bb9f41a3e610499e318f85	PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan).ngc
 7ff625dc216783b034b011351c98255f	Puyo Pop (World) (En,Ja) (v05).ngc
@@ -121,9 +124,8 @@ e99ac2011126b8b617e77caff032d744	SNK vs. Capcom - Gekitotsu Card Fighters - Capc
 dd285dbdb0e46a1b0e8ea9a5d840e070	SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc
 69c5d58770f111037f565efbcc366b53	Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).ngc
 67bb8f5377e1673c0277e3222186435d	Sonic The Hedgehog - Pocket Adventure (World) (Demo).ngc
-6123e8a783b146bdcdc6a9fa95abb0bd	Sonic The Hedgehog - Pocket Adventure (World).ngc
+6123e8a783b146bdcdc6a9fa95abb0bd	Sonic The Hedgehog - Pocket Adventure (World) (En,Ja).ngc
 8b12fec8e96dad41380ab419a216ad08	Soreike!! Hanafuda Doujou (Japan).ngc
 07873a332ef8ac5cb5177ee3c304ff2b	Super Real Mahjong - Premium Collection (Japan).ngc
 2a8f9cb76e56000769e08200d8b25182	Tsunagete Pon! 2 (Japan).ngc
 95bd72b9e9081cb8ad8fc32bf7ff37b7	Wrestling Madness (Japan) (En) (Beta).ngc
-3655aacebb43a963607d4cf821fc1301	[BIOS] SNK Neo Geo Pocket Color (World) (En,Ja).ngp
