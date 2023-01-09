@@ -1,3 +1,10 @@
+bb3d567c4476a73151d88b1f42243fd5	[BIOS] Challenger GB (USA) (Unl).gbc
+bcb9bb36dbf9d1659ab37a926ce5c68b	[BIOS] Genius GB Backup Station (Taiwan) (Unl).gbc
+7c773f3c0b01cb73bca8e83227287b7f	[BIOS] Nintendo Game Boy Color Boot ROM (Japan) (En).gbc
+48991ee7b1813d0cba5b099df6578668	[BIOS] Nintendo Game Boy Color Boot ROM (World) (Beta) (Virtual Console).gbc
+99ef61da48d0d05b5337b237543bc1e8	[BIOS] Nintendo Game Boy Color Boot ROM (World) (Pokemon Stadium).gbc
+dbfce9db9deaa2567f6a84fde55f9680	[BIOS] Nintendo Game Boy Color Boot ROM (World) (Rev 1).gbc
+7eee78b22cde947bdf09005189bcf5f7	[BIOS] Touch Boy System ROM (Taiwan) (Unl).gbc
 1f1fb3cf8783f880bc796d667be60231	007 - The World Is Not Enough (USA, Europe).gbc
 85c0c028e6177cda40401f14d16699f4	10-Pin Bowling (Europe).gbc
 6b055c6d12e477fbfd7bed1b495d56f7	10-Pin Bowling (USA) (Rumble Version).gbc
@@ -13,6 +20,7 @@ a08b575b947d0249cdf214fc130706ce	31-in-1 Mighty Mix (Australia) (31B-001, Sachen
 9094e49551e838184d0c9290b1ef3694	36 in 1 (Taiwan) (SL36-0032) (Unl).gbc
 429e6da4b32d8caa22e78d92c0febd12	3D Pocket Pool (Europe) (En,Fr,De,Es,It,Nl).gbc
 4042d8319068186a02b3de972f6f4ed0	3D Pool Allstars (USA) (En,Fr,Es) (Proto).gbc
+23627de756d221f4093812a5e5f42623	3D Quasars (World) (Aftermarket) (Homebrew).gbc
 ba2f38d5c6b03aa44d892b56395a683b	4 in 1 + 8 in 1 (World) (4B-001, 4B-009, 8B-001, Sachen) (Unl).gbc
 37f4ad4a7baed1ed6eb62787734c00ae	4 in 1 + 8 in 1 (World) (4B-002, 4B-004, 8B-002, Sachen) (Unl).gbc
 cb2f61ea9d959f7270eec59a5eb51aff	4 in 1 + 8 in 1 (World) (4B-005, 4B-006, 8B-003, Sachen) (Unl).gbc
@@ -26,8 +34,8 @@ e718083d717d4262d3f26eba4040f8e4	Action Replay Online (Europe) (Unl).gbc
 361cb47dbb4af50b2d6d3de9c7d74a58	Action Replay Xtreme - Special Edition for Pokemon Crystal (Europe) (Unl).gbc
 7fb36e36e1ba06bd222c31163213c426	Adventure Digimon 7 2002 (Taiwan) (En) (Unl).gbc
 29deff80e9e8d734f77d8590ac5cdce9	Adventures of the Smurfs, The (Europe) (En,Fr,De,Es,It,Nl).gbc
-e6007f4f4d8d671d7c94390be47e6dfa	Agent B (World) (Aftermarket) (Homebrew).gbc
-670535d6b535a1dfddf9265016c22cb9	Agent B (World) (Demo) (Aftermarket) (Homebrew).gbc
+e6007f4f4d8d671d7c94390be47e6dfa	Agent B (World) (2021-12-29) (Aftermarket) (Homebrew).gbc
+670535d6b535a1dfddf9265016c22cb9	Agent B (World) (2021-12-29) (Demo) (Aftermarket) (Homebrew).gbc
 9d64f8607e9bc3e788f30fff123be448	AirForce Delta (Japan).gbc
 ee37c79e8df6475d90e99e527823f92f	AirForce Delta (USA).gbc
 bad95d30c38a92e7906feecb6d6bd272	Aladdin (Europe) (En,Fr,De,Es,It,Nl).gbc
@@ -61,22 +69,22 @@ b40dbe0f8ac98ede81f05c37dd0f67b1	Aqualife (Japan) (SGB Enhanced) (GB Compatible)
 9abaf0dfeb58b76d6b5cce4b42756c8e	Arle no Bouken - Mahou no Jewel (Japan) (SGB Enhanced) (GB Compatible).gbc
 43527e9aff69649306c749da2d3c72c0	Armada - FX Racers (USA).gbc
 0b2ab6c8ee77d7dc6856ebffcfeb9c43	Armorines - Project S.W.A.R.M. (USA, Europe) (En,De).gbc
-c75bf50b9fec4e89ced9a2bdfbeb4245	Army Men (USA, Europe) (En,Fr,De).gbc
 c48de261bb5111681bd77ca5f0d68a1b	Army Men - Air Combat (USA, Europe) (En,Fr,De).gbc
 3dc508d4da71f2e89ca63b42899741a4	Army Men - Sarge's Heroes 2 (USA, Europe) (En,Fr,De).gbc
+c75bf50b9fec4e89ced9a2bdfbeb4245	Army Men (USA, Europe) (En,Fr,De).gbc
 66a744231189d65db54aa4d670975c5a	Army Men 2 (USA, Europe) (En,Fr,De).gbc
 3d630cb2ff52e7fedfca6c938b82fa24	Arthur's Absolutely Fun Day! (USA).gbc
+1faa6e2a7ec92b95ce32fa2682038b9b	Asterix - Sur la Trace D'Idefix (Europe) (En,Fr,De,Es,It,Nl).gbc
 6efc4c27d06564f9000667c029ad02a3	Asterix & Obelix (Europe) (En,Fr,De,Es).gbc
 b7d6335b8d3a34b15ce0b631bb9731a2	Asterix & Obelix Contre Cesar (Europe) (En,Fr,De,Es,Nl) (GB Compatible).gbc
-1faa6e2a7ec92b95ce32fa2682038b9b	Asterix - Sur la Trace D'Idefix (Europe) (En,Fr,De,Es,It,Nl).gbc
 cfac8209d5119235f678303dfb3cc0f2	Asteroids (USA, Europe) (GB Compatible).gbc
 e24141ed6fc94b149bbf43b4bd9658e8	Atlantis - The Lost Empire (Europe) (En,Es,It).gbc
 c046f62bb3baf1f8398f5e3fb93dd82a	Atlantis - The Lost Empire (Europe) (Fr,De,Nl).gbc
 5aab47cf957c82c969bbc0a93232f883	Atlantis - The Lost Empire (USA, Europe).gbc
 c74c728ce3177a3a9abc5870b6762885	Atsumete Asobu Kuma no Pooh-san - Mori no Takaramono (Japan).gbc
+3426bfe0c82da4c6705f996891579a24	ATV Racing (Europe) (Unl).gbc
 6f0a4d09a4a40ca93a528f2409bb872c	ATV Racing & Karate Joe (Europe) (Unl) (Alt).gbc
 b702980f1562a0d66106ff8722675eb9	ATV Racing & Karate Joe (Europe) (Unl).gbc
-3426bfe0c82da4c6705f996891579a24	ATV Racing (Europe) (Unl).gbc
 1cdc49e8f8340c2ce27fd3f5cdd3d618	Austin Powers - Oh, Behave! (Europe) (En,Fr,De,Es,It).gbc
 2aba33e89caca45c9091b25a276dd4c6	Austin Powers - Oh, Behave! (USA).gbc
 93226ce541766d8b8b7d1f70866ad530	Austin Powers - Welcome to My Underground Lair! (Europe) (En,Fr,De,Es,It).gbc
@@ -135,8 +143,8 @@ fd1f17aa8c4b5c2963db8b0444673a3d	Battleship (USA, Europe) (GB Compatible).gbc
 89de6d072a545f21fb6390f3b9e007d9	Beach'n Ball (Europe) (En,Fr,De,Es,It) (Beta) (2000-11-21).gbc
 576e3a9d7da60439c8fb28c81b56fe5a	Beach'n Ball (Europe) (En,Fr,De,Es,It).gbc
 a1d7687a557dd2a3948c9f498703f4a3	Beast Fighter (Taiwan) (En) (Sachen) (Unl).gbc
-e7c022031cb882912e81970eb63d4f61	Beatmania GB (Japan) (SGB Enhanced) (GB Compatible).gbc
 490cf7b762f7b735f249c3a3107c3e55	Beatmania GB - Gotcha Mix 2 (Japan).gbc
+e7c022031cb882912e81970eb63d4f61	Beatmania GB (Japan) (SGB Enhanced) (GB Compatible).gbc
 25f20cdc0f6f70d0bc5430a9b0d48742	Beatmania GB 2 - Gotcha Mix (Japan) (SGB Enhanced) (GB Compatible).gbc
 6d51dcd9012c1140f73d7fd753698abf	Beauty and the Beast - A Board Game Adventure (Europe) (En,Fr,De,Es,It) (SGB Enhanced) (GB Compatible).gbc
 fa826469ab786988785b6ef36e902010	Beauty and the Beast - A Board Game Adventure (USA, Australia) (SGB Enhanced) (GB Compatible).gbc
@@ -190,14 +198,14 @@ b85fa198c52bb1aeb40358dd712800a5	Booty (World) (Aftermarket) (Homebrew).gbc
 49561c4082206a7e5d5ca2032be81eed	Buffy the Vampire Slayer (USA, Europe).gbc
 549b54077fd122943e076f4c2350be05	Bug's Life, A (Europe) (SGB Enhanced) (GB Compatible).gbc
 64d2d5df9d0e5035ef549a189fbdb475	Bug's Life, A (USA) (SGB Enhanced) (GB Compatible).gbc
-d5a558f3f63771ac1e40d53976e090ef	Bugs Bunny & Lola Bunny - Operation Carrot Patch (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible).gbc
 8d4e41eb71dda41ef945512eb3b53fb3	Bugs Bunny - Crazy Castle 3 (Japan) (GB Compatible).gbc
 2ebf6f830013d8702eebf93955db52d5	Bugs Bunny - Crazy Castle 3 (USA, Europe) (GB Compatible).gbc
 30567b9d1cf0881fee0e15cdfdc250da	Bugs Bunny - Crazy Castle 4 (Japan).gbc
+d5a558f3f63771ac1e40d53976e090ef	Bugs Bunny & Lola Bunny - Operation Carrot Patch (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible).gbc
 7fbbfa00a51547639750e69ff802fa76	Bugs Bunny et le Chateau des Catastrophes (France) (En).gbc
 c8fafcbb7a673765ade44b404b734a92	Bugs Bunny in - Crazy Castle 4 (Europe).gbc
 0877a4b1765287c5b50ea53a47a1d7ad	Bugs Bunny in - Crazy Castle 4 (USA).gbc
-5ec1bf9b053b191634c3d32638878132	Bulb! (World) (Aftermarket) (Homebrew).gbc
+5ec1bf9b053b191634c3d32638878132	Bulb! (World) (v2.5, 2022-05-19) (Aftermarket) (Homebrew).gbc
 1cfa8223f124f56cca9c8bc2c661a21d	Bundesliga Stars 2001 (Germany).gbc
 7bbd65416ced257da963faa58536cf84	Burai Senshi Color (Japan).gbc
 a9a4d4db13b2c35f0e260bf067087055	Burger Burger Pocket - Hamburger Simulation (Japan) (SGB Enhanced) (GB Compatible).gbc
@@ -222,8 +230,8 @@ bf02f5bfc27ef44ceb2878359c7a9e0e	Cardcaptor Sakura - Tomoeda Shougakkou Daiundou
 2a3a4d83902ee2af1890433c50d2809c	Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta).gbc
 67f1a15025b979833f4c5aa0ef561954	Carl Lewis Athletics 2000 (Europe) (En,Fr,De,Es,It,Nl).gbc
 4a58b26ef9624192afe5542f790cdb01	Carmageddon - Carpocalypse Now (Germany).gbc
-cca8749da97aae49def1132a6a72d047	Carmageddon - Carpocalypse Now (USA) (En,Es) (Beta).gbc
 f73c5cc4935ede64f5b2d62754c90262	Carmageddon - Carpocalypse Now (USA, Europe) (En,Fr,Es,It).gbc
+cca8749da97aae49def1132a6a72d047	Carmageddon - Carpocalypse Now (USA) (En,Es) (Beta).gbc
 02f25d1192d129ee73104c5bfc127a94	Carmageddon TDR 2000 (Europe) (En,Fr,De,Es,It) (Proto).gbc
 e6e14aa92b3969da7edd57abef060ba2	Carnivale (USA) (Proto).gbc
 620421795af2cb74429b9f2e30d9a38d	Carrera (Europe) (En,Fr,De) (Proto).gbc
@@ -237,6 +245,7 @@ e99687d3558fd7fc4af702ea1abd9957	Casper (USA).gbc
 2692494cef091b908b02c9046bdd876c	Catwoman (USA).gbc
 349aebf94c9ae3e1dce9d2a01894bae8	Catz (Europe).gbc
 695e4a82d1a97859365e3b5d5ba28e8c	Catz (USA).gbc
+137590affd2da2f275b87b412d6f0c7d	Cave Fighter (World) (Aftermarket) (Homebrew).gbc
 54f81e8d2232af2503e0e03eeeeb39ce	Centipede (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible).gbc
 6815ec13f522fd65637be46220371704	Centipede (USA) (GB Compatible).gbc
 656b6f47251d18c1606c41e53ef62119	CGB Test Cartridge (Japan) (En).gbc
@@ -298,8 +307,8 @@ ff69bcdedca5ac1325af47d8a1e4823f	Daikatana (USA) (Proto 1) (2000-04-19).gbc
 d7b5b58cec32e37c4d29336f4b7c61b7	Daikatana (USA) (Proto 2).gbc
 5f5535bf79444ec15502db9c81e58ced	Daikatana GB (Japan) (NP).gbc
 7455ea4fb9bc8ac752b4e43fd6864b7f	Daiku no Gen-san - Kachikachi no Tonkachi ga Kachi (Japan) (SGB Enhanced) (GB Compatible).gbc
-c7cf1e919682b3ee613dd155cc12a15a	Dance Dance Revolution GB (Japan).gbc
 dbada1fdfaba283bede36852843f5ed8	Dance Dance Revolution GB - Disney Mix (Japan).gbc
+c7cf1e919682b3ee613dd155cc12a15a	Dance Dance Revolution GB (Japan).gbc
 7f306f573ca9759fa2f7aa167ca2dd74	Dance Dance Revolution GB 2 (Japan).gbc
 3ced79ad60ab5195058d5d658550f04f	Dance Dance Revolution GB 3 (Japan).gbc
 ed517a9923865f4e4945ca4095313fe2	Dancing Furby (Japan) (GB Compatible).gbc
@@ -312,10 +321,10 @@ ed517a9923865f4e4945ca4095313fe2	Dancing Furby (Japan) (GB Compatible).gbc
 8e7298d92bd4eaec572a7f1bcb223200	Deadly Skies (Europe) (En,Fr,De).gbc
 793c57f58d4e9c92088c333b129d1c7e	Dear Daniel no Sweet Adventure - Kitty-chan o Sagashite (Japan) (SGB Enhanced) (GB Compatible).gbc
 11d3ca80ad24431babbec7a675d83bed	Deer Hunter (USA).gbc
-07876bd62abbe5fd8878a0363e23a42f	Deja Vu I & II (Japan).gbc
 e51c03fc9ed1a31a9e2be404f9e01068	Deja Vu I & II - The Casebooks of Ace Harding (Europe) (En,Fr).gbc
 497e32beeface0c5dac4bfe84a5964b6	Deja Vu I & II - The Casebooks of Ace Harding (Europe) (Fr,De).gbc
 d63504ea68f55d3c290cd01d71d4d1cc	Deja Vu I & II - The Casebooks of Ace Harding (USA).gbc
+07876bd62abbe5fd8878a0363e23a42f	Deja Vu I & II (Japan).gbc
 3b24fbc8e72140fab38a9874b587c479	Dejiko no Mahjong Party (Japan) (Rev 1) (Proto).gbc
 314fddcec1489efe4a4f959d353ee4db	Dejiko no Mahjong Party (Japan).gbc
 e4594f3d22fce6b71642a9f3049a6054	Denki Blocks! (Europe) (En,Fr,De,Es,It).gbc
@@ -339,10 +348,11 @@ acb10288f383c6b475e11e936aa56c70	Dino Breeder 3 - Gaia Fukkatsu (Japan) (SGB Enh
 d0c1449229a8208d0e6753fa05685df3	Dinosaur (USA) (Beta).gbc
 ddecba0a4e0d1373fad858316faf6f33	Dinosaur (USA).gbc
 b077f0acbb5d2ca07a2d9c035856e01e	Dinosaur'us (Europe) (En,Fr,De,Es,It,Nl).gbc
+b71d8408e211d4ae4daf7745af550b18	Diva Starz - Mall Mania (USA).gbc
 3ed4d88927e2ea0d4f75826f1b60d4a1	Diva Starz (Europe).gbc
 6bd1dea9af1ed4356c23043cb8af91ae	Diva Starz (France).gbc
 f012b129cebd445c8b63f4ddc475bb26	Diva Starz (Germany).gbc
-b71d8408e211d4ae4daf7745af550b18	Diva Starz - Mall Mania (USA).gbc
+7c18e0d153fc3a0ba7761da0ef35a783	Doc Cosmos - The Saga Begins (World) (Aftermarket) (Homebrew).gbc
 227444a8cc81dc579ba4fb76c9cb8b46	Dogz (Europe).gbc
 4040e7a81ee393909429f0bfcbeb1e47	Dogz (USA).gbc
 e7775efddf4d0a5e6a9e8534f5efc2ef	Dokapon! - Millennium Quest (Japan) (SGB Enhanced) (GB Compatible).gbc
@@ -353,8 +363,8 @@ cd4ca93b289aa0d7ef6a26b848e5e06a	Donald Duck - Daisy o Sukue! (Japan).gbc
 5315c21eaffde4a641a02d89f18e2a95	Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It).gbc
 ef2a181785cc591ac53e960c68e14216	Donkey Kong 2001 (Japan).gbc
 0132a38451021c3c9e8f5532fc888343	Donkey Kong 5 - The Journey of Over Time and Space (Taiwan) (En) (Unl).gbc
-56dd4b3626e8948fcc64d0fa4c3e6edd	Donkey Kong Country (USA) (En,Fr,De,Es,It) (Demo) (Kiosk).gbc
 dc94079146ee90d7dd7d72280a3faad5	Donkey Kong Country (USA, Europe) (En,Fr,De,Es,It).gbc
+56dd4b3626e8948fcc64d0fa4c3e6edd	Donkey Kong Country (USA) (En,Fr,De,Es,It) (Demo) (Kiosk).gbc
 22afe691095c65f34aeaba3c283b2a9c	Donkey Kong GB - Dinky Kong & Dixie Kong (Japan).gbc
 1dddf21bcc96c84a9294bdb411a49728	Doraemon - Aruke Aruke Labyrinth (Japan) (GB Compatible).gbc
 9bbe3cb922a017053d86d1355ee69794	Doraemon - Kimi to Pet no Monogatari (Japan) (GB Compatible).gbc
@@ -401,10 +411,10 @@ e027bb984964e07be2feeaa712715987	Dragon Dance (Europe) (Proto) (SGB Enhanced) (G
 0c6a0f2add131ca4afd24763fe3c3a04	Dragon Dance (USA) (SGB Enhanced) (GB Compatible).gbc
 5045139eb57b9d6cdfa1366f473a1e4c	Dragon Quest I & II (Japan) (SGB Enhanced) (GB Compatible).gbc
 729934ddb7aa39779a456523a81b4a45	Dragon Quest III - Soshite Densetsu e... (Japan).gbc
-08bca718c62e3c2870a2df107fc0a562	Dragon Quest Monsters (Germany) (SGB Enhanced) (GB Compatible).gbc
-b28c999d1b43e8e39998827ff39965cc	Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).gbc
 1ee701313c509947d7e9ce0e54a85cb3	Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP).gbc
+b28c999d1b43e8e39998827ff39965cc	Dragon Quest Monsters - Terry no Wonderland (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).gbc
 5254ea1935c43057358d2efba26c60c8	Dragon Quest Monsters - Terry no Wonderland (Japan) (SGB Enhanced) (GB Compatible).gbc
+08bca718c62e3c2870a2df107fc0a562	Dragon Quest Monsters (Germany) (SGB Enhanced) (GB Compatible).gbc
 f47edc51d53ae8f416898b80bd3022a1	Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Iru no Bouken (Japan) (SGB Enhanced) (GB Compatible).gbc
 b863839c61e45db5c6c6492d24688032	Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).gbc
 979eb4fd473c344cb2cfc6ea4211ca5a	Dragon Quest Monsters 2 - Maruta no Fushigi na Kagi - Ruka no Tabidachi (Japan) (SGB Enhanced) (GB Compatible).gbc
@@ -417,9 +427,9 @@ b74b6132326bafcd75e415ddcd9a2932	Dragon Warrior III (USA).gbc
 f71ac6ac4bb335f59bfd2b594d47ab49	Dragon Warrior Monsters 2 - Cobi's Journey (USA) (SGB Enhanced) (GB Compatible).gbc
 8e79dcdee0e15ef069b3f376a0fee37d	Dragon Warrior Monsters 2 - Tara's Adventure (USA) (SGB Enhanced) (GB Compatible).gbc
 947f96cfd5bab7a03ec2f3fc0ae9238d	Dragon's Lair (USA, Europe) (En,Ja,Fr,De,Es,Zh).gbc
+413e1acd7847d628364163eb2c97cecd	Driver - You Are the Wheelman (USA) (En,Fr,De,Es,It).gbc
 c4110ff080c6730fa39c290b2e02d8a7	Driver (Europe) (En,Fr,De,Es,It) (Beta).gbc
 faab6966e9ed5e80ff724cafde1e903d	Driver (Europe) (En,Fr,De,Es,It).gbc
-413e1acd7847d628364163eb2c97cecd	Driver - You Are the Wheelman (USA) (En,Fr,De,Es,It).gbc
 b3142aae557bc4e04e2f0f740fae9577	Dropzone (Europe) (GB Compatible).gbc
 ad945d22680a6b2a149079cb564a238e	DryMouth (USA) (Unl).gbc
 48b5fea61742d75e98782803d14871f3	DT - Lords of Genomes (Japan) (SGB Enhanced) (GB Compatible).gbc
@@ -490,6 +500,7 @@ be54c9b734c4d64fd4c22c6b9fc36651	Feng Zhi Gou II (Taiwan) (Unl).gbc
 dcc73cdf818a54657230bf552504abe1	Find Out (World) (Aftermarket) (Homebrew).gbc
 44bd656c1315621238cc57767e2e0e35	Finders Keepers (World) (Aftermarket) (Homebrew).gbc
 90f41034a9d4928bdf4b56d2e5c9b62c	Fire Ant (World) (Aftermarket) (Homebrew).gbc
+63073bf7cd416f5facbfe9e9d7d7e6c9	Fireman Fred (World) (Aftermarket) (Homebrew).gbc
 317f997c10602f100fa1231f72194505	Firemen (World) (Aftermarket) (Homebrew).gbc
 edf021b521a496fe7afc5e15949f5c80	Fish Files, The (Europe) (En,Fr,De,Es,It).gbc
 9f77adbb0a6af7bd85d21a8ef9fdea49	Fix & Foxi - Episode 1 - Lupo (Europe) (En,Fr,De).gbc
@@ -517,8 +528,8 @@ b883323e9ae3c85548169babe3f9b4f0	From TV Animation One Piece - Maboroshi no Gran
 da5586315ca857071d557a8fde26c108	From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (SGB Enhanced) (GB Compatible).gbc
 8c3bcd751ebc34abc02e666d8ff057c4	Front Line - The Next Mission (Japan).gbc
 579291571dac53916fd552ccea5b0bb9	Front Row (Japan).gbc
-ec1c9035be5c529795048546b1f35ca5	Full Time Soccer & Hang Time Basketball (Europe) (Unl).gbc
 991957a67a63f1e54bf34a3715402ca5	Full Time Soccer (Europe) (Unl).gbc
+ec1c9035be5c529795048546b1f35ca5	Full Time Soccer & Hang Time Basketball (Europe) (Unl).gbc
 9e3d4ff0ba3d6deec5080f6dbed4fef8	Fushigi no Dungeon - Fuurai no Shiren GB 2 - Sabaku no Majou (Japan) (AFMJ).gbc
 1ccfd8413570d63a3ed3fa9910a394b4	Fushigi no Dungeon - Fuurai no Shiren GB 2 - Sabaku no Majou (Japan) (BFWJ).gbc
 67a76a42def402617d23961b3827d156	G-Man (World) (Aftermarket) (Homebrew).gbc
@@ -573,10 +584,10 @@ d1b2c36def4b361645eae44f6a0c53ea	Gifty (Germany) (En).gbc
 a562bbe876b8467cc530213ec84eba0a	Gimmick Land (Japan) (Proto).gbc
 e019b0790ef6e7b2dd39afdbec8ba651	Glocal Hexcite (Japan) (SGB Enhanced) (GB Compatible).gbc
 ba1d07a8282202081af5ad985f0c31ad	Gobs of Games (USA) (En,Fr,De).gbc
-149073afd1cf8ae83783143a166592f7	Godzilla - The Series (Europe) (En,Fr,De) (GB Compatible).gbc
-7b4345daf8ebda416a84c5932bf817ec	Godzilla - The Series (USA) (En,Fr,De) (GB Compatible).gbc
 6f67b154450bd3d88924c179f8165721	Godzilla - The Series - Monster Wars (Europe) (En,Fr,De).gbc
 597bd5a8aa26af757cba57aff575eaa3	Godzilla - The Series - Monster Wars (USA) (En,Fr,De).gbc
+149073afd1cf8ae83783143a166592f7	Godzilla - The Series (Europe) (En,Fr,De) (GB Compatible).gbc
+7b4345daf8ebda416a84c5932bf817ec	Godzilla - The Series (USA) (En,Fr,De) (GB Compatible).gbc
 041b8a455b63beb718d70c8f89fac9d3	Gold and Glory - The Road to El Dorado (Europe) (En,Fr,De,Es,It,Nl).gbc
 7bf3b13931f2a50ebe071a18ea14f28b	Gold and Glory - The Road to El Dorado (USA).gbc
 51f21f61592f05e712b36a0bf10a34a6	Golden Goal (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible).gbc
@@ -618,9 +629,9 @@ c40cc786c254ebb58ff23054e3654635	Ha Li Xiao Zi Di Er Bu - Mi Shi De Mi (Taiwan) 
 09a76ffd0b430767ffe97e1ebd3a55aa	Hai Zhan Qi Bing (Taiwan) (Unl).gbc
 a6d93b1626f127adecc65bb675672cdb	Hajimari no Mori (Japan) (Proto).gbc
 2e20e9cbff75913f4e123242a404a2a9	Halloween Racer (Europe) (En,Fr,De,Es,It,Pt).gbc
-08261d984f5e0d103191d7bbae8fba50	Hamster Club (Japan) (GB Compatible).gbc
 7d78cacd5eee9569ebc1b85ff9f05c90	Hamster Club - Awasete Chuu (Japan).gbc
 c9146a0bf581d7f99aeeac0e8dfa04df	Hamster Club - Oshiema Chuu (Japan).gbc
+08261d984f5e0d103191d7bbae8fba50	Hamster Club (Japan) (GB Compatible).gbc
 d73b7f013ab9e347398683363f720ab7	Hamster Club 2 (Japan) (GB Compatible).gbc
 9c6a9c38b987e50001153ad12eb5fcc8	Hamster Monogatari GB + Magi Ham no Mahou Shoujo (Japan).gbc
 81f4cbffbed0638f59a16203c07e364b	Hamster Paradise (Japan) (SGB Enhanced) (GB Compatible).gbc
@@ -635,14 +646,15 @@ e1af297b7083e1958352bbc5655ef480	Hana Yori Dango - Another Love Story (Japan).gb
 500c3ad63568b78fe3df71782bdf8592	Hanasaka Tenshi Tenten-kun no Beat Breaker (Japan) (SGB Enhanced) (GB Compatible).gbc
 cecc79084e6515e9c59ce8d63d49eace	Hands of Time (USA, Europe) (En,Fr,De,Es,It,Nl).gbc
 008ede5b89c08375fe58d6597a15a21a	Hang Time Basketball (Europe) (Unl).gbc
+a4e6f256943c4b7f99a75b73bdd3a3e0	Harbour Attack (World) (Aftermarket) (Homebrew).gbc
 0ccc5cd15a646417efb5fa9ea920fce3	Harley-Davidson Motor Cycles - Race Across America (USA).gbc
 4034ac7df292643c15c10fa2406ad8c2	Harry Potter (Taiwan) (Unl).gbc
 0612746dccbd1d01c0e095767a9c5a89	Harry Potter 2 - The Black Art Wrestle Edition (USA) (Unl).gbc
-c680639fa687146d2d821bad6b7447d8	Harry Potter 3 (USA) (Unl).gbc
 dc1680ac734e67945bc4ce002b15d4da	Harry Potter 3 - Shen Qi Zhi Guang Lun (Taiwan) (Unl).gbc
+c680639fa687146d2d821bad6b7447d8	Harry Potter 3 (USA) (Unl).gbc
 439acae020bd073ecf7f41a881ccabda	Harry Potter 3 2003 (Taiwan) (Unl).gbc
 bc60280596bce42d050b764b647dc39b	Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Da).gbc
-ba85a2ae8aa5829c440eef2d5549506c	Harry Potter and the Sorcerer's Stone (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).gbc
+ba85a2ae8aa5829c440eef2d5549506c	Harry Potter and the Sorcerer's Stone (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).gbc
 cf27c9d0c3633d6b805c390f49b38642	Harry Potter II (USA) (Unl).gbc
 34d61c282c372f97b55f8dae1ef94fb7	Harry Potter to Kenja no Ishi (Japan).gbc
 74c9fe928dd97ae193e9f937ce340dcc	Harvest Moon 2 GBC (Europe) (SGB Enhanced) (GB Compatible).gbc
@@ -666,8 +678,8 @@ fbd15fa51a3bce25d9041cc522af7fb4	Hero Hero-kun (Japan).gbc
 14889eccdacd80ce70fc88a74a216fa6	Heroes of Might and Magic (USA) (En,Fr,De) (Rev 1) (Proto).gbc
 6a2a5ab0dc979f162cbfa4389d1cd71f	Heroes of Might and Magic (USA) (En,Fr,De).gbc
 ad37726c92f43ad7915225b7eaf94ffd	Heroes of Might and Magic II (USA) (En,Fr,De).gbc
-410677787033aa6a5e36fa57eb9a1262	Hexcite (Europe) (En,Fr,De) (Proto) (SGB Enhanced) (GB Compatible).gbc
 4b068708fb29fdabbee834114fe4a09d	Hexcite - The Shapes of Victory (USA, Europe) (SGB Enhanced) (GB Compatible).gbc
+410677787033aa6a5e36fa57eb9a1262	Hexcite (Europe) (En,Fr,De) (Proto) (SGB Enhanced) (GB Compatible).gbc
 6d7ec146b7c1a4a3bc1e948cd82abede	High Noon (World) (Aftermarket) (Homebrew).gbc
 5165faa424c006a72ccacdd62bf61726	Hiryuu no Ken - Retsuden GB (Japan).gbc
 ddc44d19f27100e9e9cf440820436152	Hissatsu Pachinko Boy - CR Monster House (Japan).gbc
@@ -682,9 +694,9 @@ efe18a36fc03264e23ccbb81fef2beba	Honkaku Hanafuda GB (Japan).gbc
 9a908fd85216b1b3a994ec75d2cf9318	Hot Wheels - Stunt Track Driver (USA, Europe) (SGB Enhanced) (GB Compatible).gbc
 83087e1a3fa7160a59ee7e4f0b5c3671	Hoyle Card Games (USA).gbc
 e0245d992101be481c355e3e2c2cbb83	Hoyle Casino (USA).gbc
-a767370eefdaad9831acb4c3c3258c44	Hugo (World) (Aftermarket) (Homebrew).gbc
 0762fc989c52652b2660f26be0830f20	Hugo - Black Diamond Fever (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).gbc
 18c5ddde4bcffd1ddcba490eb529f0d7	Hugo - The Evil Mirror (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).gbc
+a767370eefdaad9831acb4c3c3258c44	Hugo (World) (Aftermarket) (Homebrew).gbc
 f1a64423cc8cc50338ab69feee3199f6	Hugo 2 1-2 (Germany) (GB Compatible).gbc
 62922e55a0a4a4e9e90248ceb13b3c56	Hunter x Hunter - Hunter no Keifu (Japan).gbc
 8ac8f913b5f1e31582de191b367648a9	Hunter x Hunter - Kindan no Hihou (Japan).gbc
@@ -703,9 +715,9 @@ c202f380d697a36347aa1fb628e89c4b	International Superstar Soccer 2000 (Europe).gb
 344b42a5bf2f591c0ec86cae24238d6d	International Superstar Soccer 2000 (USA).gbc
 dd1505a3f4d7289b37107c6a98931eb4	International Superstar Soccer 99 (Europe) (SGB Enhanced) (GB Compatible).gbc
 36df5ebe75980ac4409dead125247bce	International Superstar Soccer 99 (USA) (SGB Enhanced) (GB Compatible).gbc
+b9795b5d6397d36c1666c3a0bada059f	International Track & Field - Summer Games (Europe).gbc
 c48ab40a864707e54688b9cf8db15faa	International Track & Field (Europe) (En,Fr,De,It) (SGB Enhanced) (GB Compatible).gbc
 f855638ad74a7b31cca5786a32bb8868	International Track & Field (USA) (SGB Enhanced) (GB Compatible).gbc
-b9795b5d6397d36c1666c3a0bada059f	International Track & Field - Summer Games (Europe).gbc
 ec3ef08bb6d73b1b57958322d1085dad	It's a World Rally (Japan) (SGB Enhanced) (GB Compatible).gbc
 d5b4fd7fd703b447bcb8e1f78865208f	Itsudemo Pachinko GB - CR Monster House (Japan).gbc
 064f9dc3a19e5b6e41f646943254674e	J.League Excite Stage GB (Japan).gbc
@@ -858,8 +870,8 @@ e79ce8c2b2e9ea0c0907cfbfadaa8744	LEGO Alpha Team (USA).gbc
 a2d07e7da188092c88ef6d9fd2e5eaa4	LEGO Racers (USA) (En,Fr,Es).gbc
 3d75b453859c2c6f1c84b68ca987adda	LEGO Stunt Rally (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).gbc
 c468c6d714a2d86e2f68bdcdbb40b658	LEGO Stunt Rally (USA).gbc
-0476c7220327d99e3d039faaa4cdde8f	Lemmings & Oh No! More Lemmings (USA).gbc
 37b3cf7650235536e14ec856b497fe61	Lemmings (Europe) (Proto).gbc
+0476c7220327d99e3d039faaa4cdde8f	Lemmings & Oh No! More Lemmings (USA).gbc
 dfc1c1fa9731807aa8bb5aa7d4849984	Lemmings VS (Japan).gbc
 d81945176908cc834d3be242528dde96	Liberator (World) (Aftermarket) (Homebrew).gbc
 17233eaf718e241f290d6590ef1b42a9	Lil' Monster (USA) (SGB Enhanced) (GB Compatible).gbc
@@ -870,14 +882,15 @@ f19153c5bc422a2b1b13a4b9ff5d7bd9	Little Mermaid II, The - Pinball Frenzy (Europe
 7f8c472f3c7bd1eec56a3bad10a2e94c	Little Mermaid II, The - Pinball Frenzy (USA) (En,Fr,De,Es,It) (Rumble Version).gbc
 246526c5a9dd42e6bf8d35708ca24ee9	Little Nicky (USA).gbc
 138add8906346eaf244e8e7ed79ec42a	LNF Stars 2001 (France).gbc
+dfd98373a954974a62043f85fc1e85ae	Loco-coco (World) (Aftermarket) (Homebrew).gbc
 7bcf428844d32b279b7c25fb98f98a73	Lode Runner - Domudomu Dan no Yabou (Japan) (GB Compatible).gbc
 b14bf550163b000a7d1ba3caa43ac508	Lodoss-tou Senki - Eiyuu Kishiden GB (Japan) (SGB Enhanced) (GB Compatible).gbc
 49b48529d5291796a96659468c41cc54	Logical (Europe).gbc
 eac27e6d4cd1d38d07f2a18ad8169af1	Logical (USA).gbc
-a539a0ae1b1ed8034fc3a4733b4298c3	Looney Tunes (Europe) (GB Compatible).gbc
-f687b51a0fab72e03766356b62261a49	Looney Tunes (USA) (GB Compatible).gbc
 b6c357bb1a544fb1f8731cbdc3046596	Looney Tunes - Carrot Crazy (USA) (En,Fr,Es) (GB Compatible).gbc
 1d31fa1e431ec840e5f769fdd019405f	Looney Tunes - Twouble! (USA) (En,Fr,Es) (GB Compatible).gbc
+a539a0ae1b1ed8034fc3a4733b4298c3	Looney Tunes (Europe) (GB Compatible).gbc
+f687b51a0fab72e03766356b62261a49	Looney Tunes (USA) (GB Compatible).gbc
 164c4fcfe733d89fff3ddc42b017c5ca	Looney Tunes Collector - Alert! (USA) (En,Fr,Es).gbc
 2759a17974aa716d3db2cc015cda3ab4	Looney Tunes Collector - Martian Alert! (Europe) (En,Fr,De,Es,It,Nl) (Beta 2).gbc
 9562a0aad16857f2f1a8e4169163c18a	Looney Tunes Collector - Martian Alert! (Europe) (En,Fr,De,Es,It,Nl).gbc
@@ -903,10 +916,10 @@ ba01289e8d646e1407f70275a50114b3	Love Hina Party (Japan).gbc
 2fe07f1adac3654ccd544b176f31d5cc	Love Hina Pocket (Japan) (Rev 1).gbc
 71a4659ae44b6594e75f98e013ce6853	Love Hina Pocket (Japan).gbc
 74a6b62520a30ff28d5a7d19a7108c27	Luca no Puzzle de Daibouken! (Japan) (SGB Enhanced) (GB Compatible).gbc
-eb76fda958f100fb791111b928ffe46f	Lucky Luke (Europe) (En,Fr,De,Es).gbc
-7cf3670a8f345344e4789e41503d7da6	Lucky Luke (USA) (En,Fr,De,Es).gbc
 ba0d9c7eec69cee04a7ff4faf91f2c4b	Lucky Luke - Desperado Train (Europe) (En,Fr,De,Es,It,Nl) (Beta).gbc
 31770f7197ea4a7ff99cad7cef5c58b8	Lucky Luke - Desperado Train (Europe) (En,Fr,De,Es,It,Nl).gbc
+eb76fda958f100fb791111b928ffe46f	Lucky Luke (Europe) (En,Fr,De,Es).gbc
+7cf3670a8f345344e4789e41503d7da6	Lucky Luke (USA) (En,Fr,De,Es).gbc
 1ff9b71a347a7deed87bcedeb7c5ea70	Lufia - The Legend Returns (Europe) (En,De).gbc
 a00012533e76649f4e7e1b7aa5a9ee07	Lufia - The Legend Returns (USA).gbc
 c194c03c9d31ec629fd126551f7364fe	Luke Yingxiong 2 - Zook Hero 2 (Taiwan) (Unl).gbc
@@ -919,6 +932,7 @@ f5bbcea31c08651a944a9f3ee8ee37b2	Luo Ke Ying Xiong EXE5 (Taiwan) (Unl).gbc
 c7bcdd8ace2dfac5fdce889880472f80	M&M's Minis Madness (USA).gbc
 74809aa80a43f1b3f0f4482ba357dfd4	Machine, The (USA) (Demo) (Aftermarket) (Homebrew).gbc
 950add06ce17e0986e8ae8e16ac587ef	Machine, The (USA) (v1.1) (Demo) (Aftermarket) (Homebrew).gbc
+ab53ef7ccb86b83fac22366979675acb	Machine, The (World) (Aftermarket) (Homebrew).gbc
 4fa0f6e7388f072c8bb76761f8068868	Macross 7 - Ginga no Heart o Furuwasero!! (Japan).gbc
 071ad15a9890f73890c4e0dedd07793e	Madden NFL 2000 (USA, Europe) (SGB Enhanced) (GB Compatible).gbc
 0d9dbb213db66cc0121a7f916181f612	Madden NFL 2001 (USA).gbc
@@ -955,13 +969,14 @@ a0ceaf6ebf640a48e2bf54478d2e4a63	Mask of Zorro, The (USA).gbc
 8bf8f9a1e0080d257820ec5506a3fc8f	Mat Hoffman's Pro BMX (USA, Europe).gbc
 b717e9a48b44a5d367e8bcb4a5e68535	Matchbox Emergency Patrol (USA, Europe).gbc
 a01026f30b0b0483f3c048b4eb2513ed	Matel Gear II (Taiwan) (En) (Unl).gbc
-f0691682463eb9d3ea942a2f60f29aa9	Maus, Die (Europe) (En,Fr,De,Es) (Beta).gbc
-f9be99d213760ba2e9525abea1de3cb6	Maus, Die (Europe) (En,Fr,De,Es).gbc
 809fd84f0c8f4ace455ad40930aff59e	Maus, Die - Verrueckte Olympiade (Germany) (Beta).gbc
 0cd10acb3c569faecd01b9ced51021b2	Maus, Die - Verrueckte Olympiade (Germany).gbc
+f0691682463eb9d3ea942a2f60f29aa9	Maus, Die (Europe) (En,Fr,De,Es) (Beta).gbc
+f9be99d213760ba2e9525abea1de3cb6	Maus, Die (Europe) (En,Fr,De,Es).gbc
 aeeb6c737c55d4a4d0691e27ec831eec	Max Steel - Covert Missions (USA) (En,Fr,De,Es) (Proto).gbc
-184f5d0fbb190ae2d7242e0a7ec4a407	Maya the Bee & Her Friends (Europe) (En,Fr,De) (GB Compatible).gbc
 45db77fb2f2923c33ff9d521d5eaecce	Maya the Bee - Garden Adventures (Europe) (En,Fr,De,Es).gbc
+184f5d0fbb190ae2d7242e0a7ec4a407	Maya the Bee & Her Friends (Europe) (En,Fr,De) (GB Compatible).gbc
+c22a900acae07be5aa036d569281adbb	Mayhem (World) (Aftermarket) (Homebrew).gbc
 e6009a3556e22fa2f42134999759d366	McDonald's Monogatari - Honobono Tenchou Ikusei Game (Japan).gbc
 c0fd19d90d3d876cc321074239c7334e	Medarot 2 - Kabuto Version (Japan) (SGB Enhanced) (GB Compatible).gbc
 44090e5f80e30abddf264b170c236a9e	Medarot 2 - Kuwagata Version (Japan) (SGB Enhanced) (GB Compatible).gbc
@@ -1133,6 +1148,8 @@ a67cb573673f041098f23f868a153019	Noddy and the Birthday Party (Europe) (En,Fr,De
 9017ebe4c004fd9597557e28d711316a	NSYNC - Get to the Show (USA).gbc
 5b40590960c204efd6303b2e89a0cc10	Nushi Tsuri Adventure - Kite no Bouken (Japan) (Rumble Version).gbc
 7cbe6832545e4bea48f8f93b51451273	Nuwang Gedou (Taiwan) (Unl).gbc
+a72a4d45b155f4a41bd2613d0bb3f5fa	Nyghtmare - The Ninth King - Alpha Demo (World) (v0.1.2) (Aftermarket) (Homebrew).gbc
+8632a46ba831eff50d1ac5fb00faab84	Nyghtmare - The Ninth King (World) (v0.2.6) (Aftermarket) (Homebrew).gbc
 b9a686e4dbc7241bdf72aca235f7f92f	NYR - New York Race (Europe) (En,Fr,De,Es,It,Pt).gbc
 7784ff1a16b15e8e55a6b43159cc1774	O'Leary Manager 2000 (Europe) (En,Fr,De,Es,It,Nl,Ca).gbc
 68715e0a2805e3fc019fec35a9cff0d4	Oddworld Adventures 2 (Europe) (En,Fr,De,Es,It) (GB Compatible).gbc
@@ -1215,13 +1232,13 @@ a456d96b9c3ed51cdf58369fc1f07880	Pocket Puyo Puyo-n (Japan) (Rev 1).gbc
 75b4f10c02a6797ab77a3a9a8f6ee237	Pocket Puyo Puyo-n (Japan) (Rev 2).gbc
 aef66e8a7c75323ae0981ff5a20722a4	Pocket Puyo Puyo-n (Japan).gbc
 b8be3a0807b09038d4feb48dc2ab1e70	Pocket Racing (Europe).gbc
-8f3a309320bceffbee2b430e5bb5de4f	Pocket Smash Out & Race Time (Europe) (Unl).gbc
 08855304ddb6b3ba9ac65401ef829746	Pocket Smash Out (Europe) (Unl).gbc
+8f3a309320bceffbee2b430e5bb5de4f	Pocket Smash Out & Race Time (Europe) (Unl).gbc
 03da498c5503d8747dc1eccf1101fce3	Pocket Soccer (Europe) (En,Fr,De,Es,It,Pt).gbc
 6181d450198ae4ec17f2aa86bbe2a1d1	Pogo Pete (World) (Aftermarket) (Homebrew).gbc
 8931758738e8a662c88910fd2d33d365	Pokemon - Crystal Version (Australia).gbc
-9f2922b235a5eeb78d65594e82ef5dde	Pokemon - Crystal Version (USA).gbc
 301899b8087289a6436b0a241fbbb474	Pokemon - Crystal Version (USA, Europe) (Rev 1).gbc
+9f2922b235a5eeb78d65594e82ef5dde	Pokemon - Crystal Version (USA).gbc
 8a626340f6b16ba45c1d4e07f2134875	Pokemon - Edicion Cristal (Spain).gbc
 9462bc81907e38c59acccd739690e6f9	Pokemon - Edicion Oro (Spain) (SGB Enhanced) (GB Compatible).gbc
 2d83fb454dd5687a802425c501854dc2	Pokemon - Edicion Plata (Spain) (SGB Enhanced) (GB Compatible).gbc
@@ -1264,15 +1281,15 @@ d0ca48aee3ffb5fd44fc4d4359c5d44b	Polaris SnoCross (USA) (Rumble Version).gbc
 0a3da06446d9a2c7e1ea8149c9026434	Pong - The Next Level (USA, Europe).gbc
 7a58b84e406bd4df6b3c3b8807493aa8	Pooh and Tigger's Hunny Safari (Europe) (En,Fr,De,Es,It,Nl).gbc
 5f872189d58f841b5672d4cb11ec3bbb	Pooh and Tigger's Hunny Safari (USA).gbc
-10e6dcd0a350076e28b9c598c278b6a2	Pop'n Music GB (Japan).gbc
 7e6d077d50879c57ff70891aaa312e80	Pop'n Music GB - Animation Melody (Japan).gbc
 92978c96b2368e4aebd84966af8bd06f	Pop'n Music GB - Disney Tunes (Japan).gbc
+10e6dcd0a350076e28b9c598c278b6a2	Pop'n Music GB (Japan).gbc
 a96e95e150e34db6080724c5eeec1348	Pop'n Pop (Europe).gbc
 33a1389fb8bdc2c4caa3859213140c79	Pop'n Pop (Japan).gbc
 8765ee1fe94c16e934ea0d004291e8b0	Portal Runner (USA).gbc
-c9c39627ee5049e47ce1acd67fff7b8a	Powa! (Europe).gbc
-79057202277940eb8a37257ebcb513c3	Powa! (Japan).gbc
-87749697d02aaa530974e3bf01784e2a	Powa! (Unknown) (Demo).gbc
+87749697d02aaa530974e3bf01784e2a	Powa! (Unknown) (Demo) (Aftermarket) (Homebrew).gbc
+c9c39627ee5049e47ce1acd67fff7b8a	Powa! (World) (Aftermarket) (Homebrew).gbc
+79057202277940eb8a37257ebcb513c3	Powa! (World) (Ja) (Aftermarket) (Homebrew).gbc
 38d51be26c98e1a89cace0d4f0684f72	Power Pro Kun Pocket (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).gbc
 5ab6b2a6f4c48aa8a1e77e31370cdcb3	Power Pro Kun Pocket (Japan) (SGB Enhanced) (GB Compatible).gbc
 2c03cc138be009ed83f036f919ff8f0a	Power Pro Kun Pocket 2 (Japan) (SGB Enhanced) (GB Compatible).gbc
@@ -1288,6 +1305,7 @@ c73b80f668e138c6828c9bcca13a13ba	Powerpuff Girls, The - Bad Mojo Jojo (USA) (Rev
 57bcde64a3005d4aad8df640f2b5f07c	Powerpuff Girls, The - Battle Him (USA) (Rev 1).gbc
 565b748f3ee16464bebde853770d39d2	Powerpuff Girls, The - Battle Him (USA).gbc
 fd5d1ad9fa778895fa24d1fe1eca52b7	Powerpuff Girls, The - Bulle Contre Lui (France).gbc
+b639c0dbb1ca57df4f77eac898ea5710	Powerpuff Girls, The - Il Terribile Mojo Jojo (Italy) (Proto).gbc
 663eed7079113b1d1e1d7d40e9871cc3	Powerpuff Girls, The - L'Affreux Mojo Jojo (France).gbc
 b3e8e32a3f8c3366cb12b4ea7b0a9169	Powerpuff Girls, The - Paint the Townsville Green (Europe) (BPTP).gbc
 a2500f1123909abfa0b0a4fa33ef2905	Powerpuff Girls, The - Paint the Townsville Green (Europe) (BPTX) (Proto).gbc
@@ -1314,6 +1332,7 @@ be7c823a2c6feba614afa32606edebe5	Puchi Carat (Europe) (SGB Enhanced) (GB Compati
 6d1682824a006ddbde77527a2e62622a	Puchi Carat (USA) (Proto) (SGB Enhanced) (GB Compatible).gbc
 fc327cdb1f787046dae8a17305f10261	Pumuckls Abenteuer bei den Piraten (Germany).gbc
 96d2795fd83f03986c5142ec288d384e	Pumuckls Abenteuer im Geisterschloss (Germany).gbc
+1487948f044a16e9ac9d8aa740f87827	Purple Turtles (World) (Aftermarket) (Homebrew).gbc
 ec0985bdad4b519c492f07f2d01f1613	Puyo Puyo Gaiden - Puyo Wars (Japan) (SGB Enhanced) (GB Compatible).gbc
 c4354362e13a4dcda40b063d96bd6580	Puzz Loop (Japan) (GB Compatible).gbc
 27881df91cfc52d1671e469f46475d8c	Puzzle Bobble 4 (Japan) (GB Compatible).gbc
@@ -1348,9 +1367,9 @@ f0bfbded7125dd312eaf36d16c1556a1	Rampage - World Tour (USA, Europe) (GB Compatib
 617dcfac99f28045b8f4c46b9d75b58e	Rampage 2 - Universal Tour (USA, Europe).gbc
 2acefe79c9813460f0cc80c45d73d0ff	Rampart (USA).gbc
 d240328faacf5583804a30b7003743b3	Rats! (USA) (En,Es) (GB Compatible).gbc
+df15cf120ba0db664adab8d52f0e4d57	Rayman - Mister Dark no Wana (Japan).gbc
 ea9f362f629124c9423a8d9ba933eced	Rayman (Europe) (En,Fr,De,Es,It,Nl).gbc
 b941941050fc32406eca4733926a3779	Rayman (USA) (En,Fr,De,Es,It,Nl).gbc
-df15cf120ba0db664adab8d52f0e4d57	Rayman - Mister Dark no Wana (Japan).gbc
 feb32471ea029a55d7bdea7e0bdc6961	Rayman 2 (USA) (En,Fr,De,Es,It).gbc
 31ddde6b4c72261181e428ac99103304	Rayman 2 Forever (Europe) (En,Fr,De,Es,It).gbc
 c569cda6ff220773ec5fce7ea38ef777	Razmoket a Paris, Les - Le Film (France).gbc
@@ -1416,6 +1435,7 @@ ac3dfc02635524fbb01dcacd2db3d066	RPG Tsukuru GB (Japan).gbc
 7545b127e8998e1e299289d79673ef63	Ruby & Rusty Save the Crows (World) (Beta 3) (Aftermarket) (Homebrew).gbc
 2b55508c1568411d22520fbed55d85f3	Ruby & Rusty Save the Crows (World) (v1.0) (Aftermarket) (Homebrew).gbc
 9896e3a34ae29d05dd0f5d2a298a75ad	Ruby & Rusty Save the Crows (World) (v2.0) (Aftermarket) (Homebrew).gbc
+f9feabe8eb6d7921a883fd74faf08bcc	Ruby & Rusty Save the Crows (World) (v2.6) (Aftermarket) (Homebrew).gbc
 069b01643e876ec91a5555450068f4ac	Rugrats - Time Travelers (USA, Europe) (GB Compatible).gbc
 80cf4b05b2a0388a804e54f433cdd126	Rugrats - Totally Angelica (USA, Europe).gbc
 b7d7a761d1666d4cf9832435c49eb14a	Rugrats - Typisch Angelica (Germany).gbc
@@ -1450,6 +1470,7 @@ ed5a1efc26ceb76f61c133303173ab31	Sanguozhi Wudai (Taiwan) (Unl).gbc
 0e31b2dcde31c590a0835b22f653fd2d	Scrabble (Europe).gbc
 919c330030214de201278fc6a232a661	SD Hiryuu no Ken EX (Japan) (SGB Enhanced) (GB Compatible).gbc
 44cc400d990e2284ae843545fe99402e	Sea-Doo HydroCross (USA) (Proto).gbc
+a7217c8338a2de76b9e50d09589f350a	Second Edition Harry Boy, The - The Secret of the Chamber of Secrets (USA) (Unl).gbc
 b138e131aeee6f969e45673821221b07	Sei Hai Densetsu (Japan) (SGB Enhanced) (GB Compatible).gbc
 90dfd51f7a508a4fac1608fb7a44317f	Seme COM Dungeon - Drururuaga (Japan) (GB Compatible).gbc
 496afc38447d1ddec45583f3df074b35	Senkai Ibunroku Juntei Taisen - TV Animation Senkaiden Houshin Engi Yori (Japan) (SGB Enhanced) (GB Compatible).gbc
@@ -1480,6 +1501,7 @@ afd4ae2f42da36ddb740fa6a5b06d74e	Shantae (USA) (Beta).gbc
 028c4262dbb49f4fc462a6eb3e514d72	Shantae (USA).gbc
 494fbe8f0770a06be11a4026829e2396	Shao Lin Shi San Gun - Ying Xiong Jiu Zhu (Taiwan) (Zh) (Unl).gbc
 bfc30d30c1d5aadcbc71be23e90f7b8d	Shaoling Legend - Hero, the Saver (Taiwan) (En) (Unl).gbc
+45e090a174fd41f2e78759477d5b3ea1	Shark Attack (World) (Aftermarket) (Homebrew).gbc
 3bcb284142a35a8d86550c2f34549dcc	Shaun Palmer's Pro Snowboarder (USA, Australia).gbc
 0fc64c4aee8aa7a11ed80c4e93f63f47	Shelly Club (Europe) (En,Fr,De,Es,It).gbc
 dc1ab5d860adc30b57fdadcaf04bf9ef	Sheng Shou Wu Yu - Shen Long Chuan Shuo (Taiwan) (Unl).gbc
@@ -1542,9 +1564,9 @@ a537394fbf3378116a27a57ca6d588b7	South Park (USA) (Proto).gbc
 dd818318641f6c81b8254bc9e04e99af	Space Baby (USA) (Unl).gbc
 46e0e199f58aebbb75b4ed16da5aae60	Space Invaders (USA, Europe) (GB Compatible).gbc
 a1304bdefa239600bd6116081bae2e23	Space Invaders X (Japan) (En) (GB Compatible).gbc
+3606f20c43c009075af22991766b2cc7	Space Invasion (Europe) (Unl).gbc
 866994b67b78c02b70573076b27d18fb	Space Invasion & Karate Joe (Europe) (Unl).gbc
 d6e59ad9058f410a56356accce0cb488	Space Invasion & Painter (Europe) (Unl).gbc
-3606f20c43c009075af22991766b2cc7	Space Invasion (Europe) (Unl).gbc
 5ee49eaf9a2c19623478215788c0bfdc	Space Marauder (USA).gbc
 062bfa5e5b52b5a4ace5b59c364fe2ff	Space-Net - Cosmo Blue (Japan).gbc
 906c78f13135691d300aa6d23dc58037	Space-Net - Cosmo Neo (Japan) (Proto).gbc
@@ -1619,8 +1641,8 @@ dc640627128579ee52c3fb0ff38a96f0	Supercross Freestyle (Europe) (En,Fr,De,Es,It).
 3ebd3d5cd2a0bbcb0ffa84cfcfb84b4a	Superman - Battle for Metropolis (Europe) (Proto) (2001-01-12) (GB Compatible).gbc
 f2be814c8bf513e8a709254d9b72d361	Supershot Golf Robot (USA) (Proto).gbc
 b9bc4621f069f59e22eee05eeb6503cd	Supreme Snowboarding (Europe) (En,Fr,De).gbc
-07d4df7a1c93f5bef617e5a90b9edee2	Survival Kids (USA) (SGB Enhanced) (GB Compatible).gbc
 37938c96f34c9be568095f868ff71d1c	Survival Kids - Kotou no Boukensha (Japan) (SGB Enhanced) (GB Compatible).gbc
+07d4df7a1c93f5bef617e5a90b9edee2	Survival Kids (USA) (SGB Enhanced) (GB Compatible).gbc
 0a67db463824f26a29e6fa130cd62ccc	Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (Rev 1) (SGB Enhanced, GB Compatible) (NP).gbc
 9d2f7e1ac30a46456a841c264963e5ea	Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced) (GB Compatible).gbc
 b542fbcf77dea9de05ceab312648af6d	Suske en Wiske - De Tijdtemmers ~ Bob et Bobette - Les Dompteurs du Temps (Europe) (Fr,Nl) (Beta 1).gbc
@@ -1648,6 +1670,7 @@ b59fa772b15a07f44110d5b7aa24b424	Taito Memorial - Bubble Bobble (Japan) (SGB Enh
 a11802247b7f38f508f71cb257ff76ab	Taito Memorial - Chase H.Q. - Secret Police (Japan) (SGB Enhanced) (GB Compatible).gbc
 a3c65d746e0e171843e9013e8d8e1021	Tales of Phantasia - Narikiri Dungeon (Japan) (SGB Enhanced) (GB Compatible).gbc
 e3edbfe8aba5dd198a9e2e0f0141785b	Tanimura Hitoshi Ryuu Pachinko Kouryaku Daisakusen - Don Quijote ga Iku (Japan) (SGB Enhanced) (GB Compatible).gbc
+0fe226f5b7a3da7d3f16b0ba42030b52	Tank Attack (World) (Aftermarket) (Homebrew).gbc
 410652f95c575ffde3312e24c754dd2a	Tarzan (France).gbc
 9d3e582f7a50cd50f37c848ba24ee382	Tarzan (Germany).gbc
 1473fa5d4a50760dbdb45cc1232c8b4b	Tarzan (Japan).gbc
@@ -1657,6 +1680,8 @@ e3edbfe8aba5dd198a9e2e0f0141785b	Tanimura Hitoshi Ryuu Pachinko Kouryaku Daisaku
 916042289eeb231324ccd9bc57c7c254	Taxi 2 (Europe) (En,Fr,De,Es,It,Nl) (Proto).gbc
 400d3090f58e68e3fc7d186c370c74be	Taxi 2 (France).gbc
 72b6216fe3094d7798a359b9a4cdf7ed	Taxi 3 (France).gbc
+cf0dd6ce83aa648a1aa1e6dc7c3846f8	Tazz (World) (2022-10-14) (Aftermarket) (Homebrew).gbc
+434dcfae5fdcf6f8f8ed466cdc88cc2f	Tazz (World) (2022-10-18) (Aftermarket) (Homebrew).gbc
 5130d3ec4a93acb84e3f2c3590a0e5a6	Tech Deck Skateboarding (USA, Europe).gbc
 9d3bcec616f238ed41146a2ce94ab562	Telefang - Power Version (Taiwan) (Unl).gbc
 a7a2c27cb6fc2c6cf67eb8af2b99c612	Terrifying 911 (China) (En) (Unl).gbc
@@ -1675,8 +1700,7 @@ ceb5c62dd116ab8e514fc3aab5449f8e	Tezhong Budui (Taiwan) (Unl) (Alt).gbc
 be091e7efda10e4c004eadc3a1a0f27d	Tezhong Budui (Taiwan) (Unl).gbc
 2547fcbdd97aa7acc4ad9eff8aa028f0	Tezhong Budui 2 - Jidi (Taiwan) (Unl).gbc
 ab38e871b66ee8ad1bb8ea7d92934fd1	TG Rally 2 (United Kingdom).gbc
-b639c0dbb1ca57df4f77eac898ea5710	The Powerpuff Girls - Il Terribile Mojo Jojo (Italy) (Proto).gbc
-a7217c8338a2de76b9e50d09589f350a	The Second Edition Harry Boy - The Secret of the Chamber of Secrets (USA) (Unl).gbc
+bd34182264a2f503d4e6982718d3bb6d	Three Lions (United Kingdom) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible).gbc
 bd34182264a2f503d4e6982718d3bb6d	Three Lions (United Kingdom) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible).gbc
 a9ee7c9fcfe647a75d9f0ce4dde1b64d	Thunder Blast Man (Europe) (Sachen) (Unl).gbc
 543fe119633338174899829b6d4c571f	Thunderbirds (Europe) (En,Fr,De,Es,It).gbc
@@ -1689,6 +1713,7 @@ c58361b88496e7ad0179b59122afd687	Tiger Woods PGA Tour 2000 (USA, Europe) (GB Com
 5a93ecb5781a3338c99e35bd06cc6127	Tiny Toon Adventures - Buster Saves the Day (USA).gbc
 f2f1e41f5843c54c35e731445d6a2beb	Tiny Toon Adventures - Dizzy's Candy Quest (Europe) (En,Fr,De,Es,It,Nl).gbc
 b53d2cbd2377cbadb4f55b03fe58cbac	Tiny Toon Adventures - Dizzy's Candy Quest (USA) (Proto).gbc
+171ccc606b9753de51e50c93f7c3a986	Tir Na Nog (World) (Aftermarket) (Homebrew).gbc
 d8595af2c6a3dbb2659acadbc9440515	Titi - Le Tour du Monde en 80 Chats (France).gbc
 3b2f918967698c3eef1f04ef7cd5601a	Titus the Fox (Europe) (GB Compatible).gbc
 3f45aaeb406c50d03fc6984908fcbfa5	Titus the Fox (USA) (GB Compatible).gbc
@@ -1699,18 +1724,18 @@ e1bf59102bcd5e3601f4b24b3e873fd2	Toki Tori (USA, Europe) (En,Ja,Fr,De,Es).gbc
 25ad12b8d2436d520057f12253f2d37d	Tokimeki Memorial Pocket - Culture Hen - Komorebi no Melody (Japan) (SGB Enhanced) (GB Compatible).gbc
 20b1ed1ae966b173c3a0f7f7f267e408	Tokimeki Memorial Pocket - Sport Hen - Koutei no Photograph (Japan) (SGB Enhanced) (GB Compatible).gbc
 2b77458ef761618d869eb1713d567aa4	Tokoro-san no Setagaya C.C. (Japan) (GB Compatible).gbc
-fac13870841c0f570fff95b0c53a6e24	Tom and Jerry (USA, Europe).gbc
 9b2d3dfd0f545b1ac8b10b25f9fbe56b	Tom and Jerry - Mouse Hunt (USA) (En,Fr,Es).gbc
 32b2cb72de47a85e07a22d6173459b07	Tom and Jerry - Mousehunt (Europe) (En,Fr,De,Es,It) (Rev 1).gbc
 57b59bc623b05385ab27a0d7e18295a1	Tom and Jerry - Mousehunt (Europe) (En,Fr,De,Es,It).gbc
+fac13870841c0f570fff95b0c53a6e24	Tom and Jerry (USA, Europe).gbc
 e43684f551fd471b7dd2d694748cdde1	Tom and Jerry in - Mouse Attacks! (Europe) (En,Fr,De,Es,It,Nl,Da).gbc
 2d0f5d19ea73ccb9cfec6398eb2f70b8	Tom and Jerry in - Mouse Attacks! (USA) (Rev 1).gbc
 7a826122ccc3818dce9a8e8db6d77edb	Tom and Jerry in - Mouse Attacks! (USA).gbc
 6e863b582bddb6126bb63633f41befd8	Tom Clancy's Rainbow Six (USA, Europe) (En,Fr,De).gbc
+a0b4538f687fc61bc88f7ee111170355	Tomb Raider - Curse of the Sword (USA, Europe).gbc
 b0849abcac5411fc88c90f28b3166bc2	Tomb Raider (Taiwan) (Unl).gbc
 545b4875c01233edbdc6c2cd001aec25	Tomb Raider (USA, Europe) (En,Fr,De,Es,It) (Beta).gbc
 74b9b221c2b32147422144b327bd5f30	Tomb Raider (USA, Europe) (En,Fr,De,Es,It).gbc
-a0b4538f687fc61bc88f7ee111170355	Tomb Raider - Curse of the Sword (USA, Europe).gbc
 6655dde446c2f043ab9eafb0e2215086	Tomb Raider 2 (Taiwan) (Unl).gbc
 b5f00d021a370663458b346fad6903cc	Tonic Trouble (Europe) (En,Fr,De,Es,It,Nl).gbc
 2adf26f87be3d5e56261d173e74ec4f5	Tonka Construction Site (USA) (Beta).gbc
@@ -1765,6 +1790,7 @@ d80951a01c8e329fd3ccc99f95808857	Turbo RC Racing (USA) (Proto).gbc
 1c146ce4743c94923843f6aa07a15a47	Turok 2 - Seeds of Evil (USA, Europe) (En,Fr,De,Es) (Beta) (GB Compatible).gbc
 28d6c613fdf608fe241fb3ce183aaae5	Turok 2 - Seeds of Evil (USA, Europe) (En,Fr,De,Es) (GB Compatible).gbc
 a9d2f36d6c2a334e0b2261c57c20f0d4	Turok 3 - Shadow of Oblivion (USA, Europe) (En,Fr,De,Es).gbc
+73fca5b16e5d4d746ecabb8a9489cf48	Tutti Frutti (World) (Aftermarket) (Homebrew).gbc
 b0d0b548a21729dc64aa40fda75f3027	Tutty (Europe) (Demo).gbc
 1ba7a470a32664d5f68f4310680d8426	Tweenies - Doodles' Bones (Europe) (En,De,Es,It).gbc
 6c34052ae5e516f8737982cb93a0845c	Tweenies - Doodles' Bones (Europe) (En,Nl,Sv,No,Da).gbc
@@ -1799,6 +1825,7 @@ cb5348c1b469d698eccddce99a16d384	Vigilante 8 (USA) (Rumble Version).gbc
 5962e70172bbe5a77ae507a409d12aa9	Visiteurs, Les (France) (GB Compatible).gbc
 8691333d9fd10c3bc65bc5577856a72b	VOX (World) (Aftermarket) (Homebrew).gbc
 e4cf23360373168bacf6a7e4925a27ef	VR Sports - Powerboat Racing (USA) (Proto).gbc
+10d0c091687c830645aad567d152b1d6	Wacky Painter (World) (Aftermarket) (Homebrew).gbc
 51356c19a22fcb871cbdd721e42fe201	Wacky Races (Europe) (En,Fr,De,Es,It,Nl).gbc
 716de1a7f4178fd941edf22d1a907624	Wacky Races (USA) (En,Fr,Es).gbc
 3ccf696ddc0e2ed66c26c2ff2cb9e12a	Walt Disney World Quest - Magical Racing Tour (Europe) (Fr,De,Es).gbc
@@ -1834,9 +1861,9 @@ b80371a8c851a4c0b9c944fd14b44d6e	Wings of Fury (Europe) (En,Fr,De) (GB Compatibl
 d05a3c8e6af26686166b5049f1438dff	Winnie the Pooh - Adventures in the 100 Acre Wood (Europe) (En,Fr,De,Es,It,Nl,Da).gbc
 c721161c0ee8b4731d71448b481c93ae	Winnie the Pooh - Adventures in the 100 Acre Wood (USA).gbc
 f8f8fedf07e783a97a50cd0e05544fc3	Wizard of Wor (World) (Aftermarket) (Homebrew).gbc
+fa8360094cae37a838fabcfd333ae300	Wizardry Empire - Fukkatsu no Tsue (Japan).gbc
 fcf910e4d2f27bab40244eb7bf4aa2d3	Wizardry Empire (Japan) (Rev 1).gbc
 ccb604ca00f176ae6ca40f4fc33d8c1a	Wizardry Empire (Japan).gbc
-fa8360094cae37a838fabcfd333ae300	Wizardry Empire - Fukkatsu no Tsue (Japan).gbc
 6b94c050291c68d6fb13c642c46873ab	Wizardry I - Proving Grounds of the Mad Overlord (Japan).gbc
 8d0a97cc2c5235656e722b0fb9627504	Wizardry II - Llylgamyn no Isan (Japan).gbc
 e81e4977a1380a6a0bac49bfd9e04671	Wizardry III - Diamond no Kishi (Japan).gbc
@@ -1876,6 +1903,7 @@ ae0a7c2524b627b354098078def54f18	Xtreme Wheels (Japan) (NP).gbc
 9f28e403eb338a7457f54dee7a6f443e	Xtreme Wheels (USA).gbc
 46c4958373216fbcf69a0c94946575f8	Yakouchuu GB (Japan).gbc
 1405c2c436255d0d5c901bf6d64f68a1	Yars' Revenge (USA, Europe) (GB Compatible).gbc
+59558bce6ef7774132a6109d1d0a0636	Year After, The (World) (Aftermarket) (Homebrew).gbc
 5328277fe9c9c4b1671c5f40424c34f1	Yin Ban Zhongwen RPG Zhanlve + Dongzuo + Yizhi 12 in 1 (Taiwan) (Unl).gbc
 bafeee7c09f44ff52570841a135f0f9e	Yingxiong Jian 2 (Taiwan) (Unl).gbc
 48b6a0ef5009a57d3976013bf42aa81d	Yingxiong Tianxia (Taiwan) (Zh) (Unl).gbc
@@ -1923,10 +1951,3 @@ e2f33aaf29750f1142b2b6017b454bd4	Zoids - Jashin Fukkatsu! Genobreaker Hen (Japan
 77836df2b2ce5284e4dda233e118b914	Zoids - Shirogane no Juukishin Liger Zero (Japan).gbc
 e4874674056451f1df22c2cbf7a25f93	Zok Zok Heroes (Japan).gbc
 6f77900a7f85480bd41c57d1c8ba1ce8	Zook Z (USA) (Unl).gbc
-bb3d567c4476a73151d88b1f42243fd5	[BIOS] Challenger GB (USA) (Unl).gbc
-bcb9bb36dbf9d1659ab37a926ce5c68b	[BIOS] Genius GB Backup Station (Taiwan) (Unl).gbc
-7c773f3c0b01cb73bca8e83227287b7f	[BIOS] Nintendo Game Boy Color Boot ROM (Japan) (En).gbc
-48991ee7b1813d0cba5b099df6578668	[BIOS] Nintendo Game Boy Color Boot ROM (World) (Beta) (Virtual Console).gbc
-99ef61da48d0d05b5337b237543bc1e8	[BIOS] Nintendo Game Boy Color Boot ROM (World) (Pokemon Stadium).gbc
-dbfce9db9deaa2567f6a84fde55f9680	[BIOS] Nintendo Game Boy Color Boot ROM (World) (Rev 1).gbc
-7eee78b22cde947bdf09005189bcf5f7	[BIOS] Touch Boy System ROM (Taiwan) (Unl).gbc
