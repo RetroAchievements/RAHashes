@@ -47,6 +47,8 @@ f29b59c3588e3b952e1ad79c1e1dc8a0	Champion Soccer (Taiwan) (Unl).sg
 79e8f456fae5d3719731e960c9b4c612	Champion Tennis (Japan, Europe, Australia, New Zealand) (Ja).sg
 f49d9ea611ccb9289994774406f20d06	Championship Lode Runner (Japan, Australia) (Ja).sg
 9b1cc0bdbdf3aeffc655a965dec4aa94	Championship Lode Runner (Taiwan) (Unl).sg
+dea9e4e5891fbdcd3e0df16fc840afbe	Cheril Perils Classic (World) (NTSC) (Aftermarket) (Homebrew).sg
+efcb8ebd3604d682d7a97c5585f8ee27	Cheril Perils Classic (World) (PAL) (Aftermarket) (Homebrew).sg
 efcb8ebd3604d682d7a97c5585f8ee27	Cheril Perils Classic (Europe) (Aftermarket) (Homebrew).sg
 dea9e4e5891fbdcd3e0df16fc840afbe	Cheril Perils Classic (USA) (Aftermarket) (Homebrew).sg
 0500fe7f7cbda7a9ec19be1094aa67dd	Choplifter (Japan, Australia) (Ja) (Beta).sg
