@@ -1,13 +1,45 @@
+7e85dd6ae3ecf51eac71cd6ced8fdc6d	[BIOS] Aiwa CSD-GM1 (Japan).md
+a5a2f9aae57d464bc66b80ee79c3da6e	[BIOS] LaserActive (Japan) (v1.02).md
+927df773f9a1c7de94a72420b2d538dd	[BIOS] LaserActive (Japan) (v1.05).md
+691c3fd368211280d268645c0efd2eff	[BIOS] LaserActive (USA) (v1.02).md
+0e7393cd0951d6dde818fcd4cd819466	[BIOS] LaserActive (USA) (v1.04).md
+bdeb4c47da613946d422d97d98b21cda	[BIOS] Mega-CD (Asia) (Ja) (Rev H).md
+e66fa1dc5820d254611fdcdba0662372	[BIOS] Mega-CD (Europe) (v1.00).md
+e99e30eeffee8201f9eb2c6e219b6fc2	[BIOS] Mega-CD (Japan) (Beta).md
+7882cb53ec33ba550c67dc1afa688cc5	[BIOS] Mega-CD (Japan) (Rev A).md
+bc6ae4e1db01a2f349d9af392bf7e2bd	[BIOS] Mega-CD (Japan) (Rev B).md
+29ad9ce848b49d0f9cefc294137f653c	[BIOS] Mega-CD (Japan) (Rev C).md
+cc049159d7e744c15eee080c241273b4	[BIOS] Mega-CD (Japan) (Rev D).md
+278a9397d192149e84e820ac621a8edd	[BIOS] Mega-CD (Japan) (Rev E).md
+a3ddcc8483b0368141adfd99d9a1e466	[BIOS] Mega-CD (Japan) (Rev H).md
+3dcb4e9924b0df8fa5d7252a9cd43f78	[BIOS] Mega-CD (Japan) (v1.11B).md
+b10c0a97abc57b758497d3fae6ab35a4	[BIOS] Mega-CD 2 (Europe) (Rev A).md
+2b57402ab187e156dc5f2f83b7b594b7	[BIOS] Mega-CD 2 (Europe) (v2.11).md
+9b562ebf2d095bf1dabadbc1881f519a	[BIOS] Mega-CD 2 (Europe).md
+683a8a9e273662561172468dfa2858eb	[BIOS] Mega-CD 2 (Japan).md
+d91b0fd488d29624c4ef2ee7b19efff0	[BIOS] Multi-Mega (Europe).md
+2efd74e3232ff260e371b99f84024f7f	[BIOS] Sega CD (USA) (Rev B).md
+96ea588d647f2ab1f291279fc691663c	[BIOS] Sega CD (USA) (v1.00).md
+854b9150240a198070150e4566ae1290	[BIOS] Sega CD 2 (USA) (Rev A).md
+310a9081d2edf2d316ab38813136725e	[BIOS] Sega CD 2 (USA).md
+ecc837c31d77b774c6e27e38f828aa9a	[BIOS] Sega CD 2A (USA).md
+baca1df271d7c11fe50087c0358f4eb5	[BIOS] Sega CDX (USA).md
+d3293ebaaa7f4eb2a6766b68a0fb4609	[BIOS] Sega Mega Drive - Genesis Boot ROM (World).md
+9f567d86705317eedd7d5bf2a729ff1b	[BIOS] Sega Teradrive - TMSS (Japan).md
+732b60960226caf33df6b487f376de69	[BIOS] WonderMega (Japan) (En).md
+d32f50fb7f4355c45d5db306a0d38fa4	[BIOS] WonderMega M2 (Japan).md
+82ce2363f7ddc620b9c255d35833118f	[BIOS] X'Eye (USA).md
 83bddf31e7571aefc6add5d00707df9e	007 Shitou - The Duel (Japan).md
 0d1c2d48509985f2d79b0fc3c8fe213a	10 Super Jogos (Brazil) (En).md
 eb73019e35862ba47adef684d60cba56	16 Zhang Mahjong (Taiwan) (Unl).md
 bfb1d9117c821e4f798a3dedf6723b48	16 Zhang Mahjong II (Taiwan) (Unl).md
 43d1341ba30dc3a19ecf8a3cd75245cb	16Bit Rhythm Land (Japan) (En) (Aftermarket) (Unl).md
 15361874deab5a8c3a7611a81f041131	16t (Japan) (Game no Kanzume Otokuyou).md
+0929ff7ef87a64185931166d66e56dc7	16t (Japan) (Game no Kanzume Vol. 2).md
 325965a3a8c6a47ee8efd59e4abfc25f	16t (Japan) (SegaNet).md
 7a07e37da58c5e8c2750ec7a4c1b37e9	2020 Nen Super Baseball (Japan).md
 df666774c0b73e112739b68c8841658b	3 Ninjas Kick Back (USA).md
-8eff2078a60dcb22f45ef7fd8dabfd88	30 Years of Nintendon't (World) (Aftermarket) (Homebrew).bin
+8eff2078a60dcb22f45ef7fd8dabfd88	30 Years of Nintendon't (World) (Aftermarket) (Homebrew).md
 f679801ad655e88e0f5aa0dc679c3b7e	6-Pak (USA).md
 7a43a9b9a1fd951ada76d0baf2f8ff26	688 Attack Sub (USA, Europe).md
 a4e3e5bd68f166c1ef2aa0baf0f9d7e2	A Ressha de Ikou MD (Japan).md
@@ -76,11 +108,11 @@ cdcabca95b071e06eb278f67d700557c	Alex Kidd in the Enchanted Castle (Europe).md
 2b0d53357e22ec60c11be750f4e84f85	Alice Sisters (World) (En,Ja) (Aftermarket) (Unl).md
 793b92cd4a66921db6ca4f582a690db5	Alien 3 (USA, Europe) (Rev A).md
 f9e32be60028206b3716f64f2ba0ab00	Alien 3 (USA, Europe).md
-04771de766efabe9bfea5251aff6df64	Alien Cat (World) (Demo) (Aftermarket) (Unl).md
+04771de766efabe9bfea5251aff6df64	Alien Cat (World) (Demo) (Aftermarket) (Homebrew).md
 32aeea27591d0cb88dc571baa738804e	Alien Soldier (Europe).md
 fd04c4616bb559e646937effdd343a09	Alien Soldier (Japan).md
-54d06fe70c75bf6828a503bb8ce806b0	Alien Soldier (USA) (Virtual Console).md
 64e55a0d84d37a1c4b40cefa6033868b	Alien Soldier (USA, Europe) (Switch Online).md
+54d06fe70c75bf6828a503bb8ce806b0	Alien Soldier (USA) (Virtual Console).md
 a7a4c8b3fee11badd96afa030b18b5c7	Alien Storm (World) (SEGA Classic Collection).md
 b63052973d5d550087d6b36ce8487fb1	Alien Storm (World).md
 0028a8f30e471dd14a20bf3e18f7529b	Alisia Dragoon (Europe).md
@@ -89,8 +121,8 @@ b63052973d5d550087d6b36ce8487fb1	Alien Storm (World).md
 651ba2f3cd428a9797da8314bdb5949b	Alisia Dragoon (USA) (Genesis Mini).md
 77be06102101759f30b416d80872c8da	Alisia Dragoon (USA).md
 2ed5293e46abe1e74edeb96da0e7a618	Altered Beast (USA, Europe).md
-41cc6e0bc68664c61cf343c3df61843c	AlterEgo (World) (Aftermarket) (Unl).md
-30c01f5a82b51fd7e23315dd070d5818	AlterEgo Remastered (World) (Aftermarket) (Unl).bin
+30c01f5a82b51fd7e23315dd070d5818	AlterEgo - Remastered (World) (Aftermarket) (Homebrew).md
+41cc6e0bc68664c61cf343c3df61843c	AlterEgo (USA) (Aftermarket) (Unl).md
 8603fdc3636eed216760d7a68b3f4a02	American Gladiators (USA).md
 0d3186e5319dc2d21b14a7a2a59581ee	Andre Agassi Tennis (Europe).md
 cf1f25d730fc620fe8f1cd12a3b5a276	Andre Agassi Tennis (USA) (Beta) (August, 1992).md
@@ -109,14 +141,14 @@ d97ddf989c558f01a1da1f23e728f935	Arch Rivals - The Arcade Game (USA, Europe).md
 0cb745c9304423250a418552bc871e64	Arcus Odyssey (USA).md
 fc2500f8a436e84a063e2b32707db1e3	Ariel the Little Mermaid (USA, Europe) (1992-10-10) (Sega Channel).md
 4916ade6b213b1f56864239db56fef0d	Ariel the Little Mermaid (USA, Europe).md
-cda2587284e1450974510b43c304f0bd	Arkagis Revolution (World) (En,Es) (Beta) (2019-07-29) (Aftermarket) (Unl).md
-c3d4c650c526ce245abc2a944d328584	Arkagis Revolution (World) (En,Es) (Beta) (2019-09-02) (Aftermarket) (Unl).md
-85112d7584215e671d20f3846617d916	Arkagis Revolution (World) (En,Es) (Beta) (2019-09-16) (Aftermarket) (Unl).md
-203a2eb149e6767c0f51021b0e8bb58a	Arkagis Revolution (World) (En,Fr,Es) (Beta) (2019-11-28) (Aftermarket) (Unl).md
-5cc63f41f9ef9d9f34bf4b0b5e0c18b6	Arkagis Revolution (World) (En,Fr,Es) (Beta) (2020-02-21) (Aftermarket) (Unl).md
+cda2587284e1450974510b43c304f0bd	Arkagis Revolution (World) (En,Es) (Beta) (2019-07-29) (Aftermarket) (Homebrew).md
+c3d4c650c526ce245abc2a944d328584	Arkagis Revolution (World) (En,Es) (Beta) (2019-09-02) (Aftermarket) (Homebrew).md
+85112d7584215e671d20f3846617d916	Arkagis Revolution (World) (En,Es) (Beta) (2019-09-16) (Aftermarket) (Homebrew).md
+203a2eb149e6767c0f51021b0e8bb58a	Arkagis Revolution (World) (En,Fr,Es) (Beta) (2019-11-28) (Aftermarket) (Homebrew).md
+5cc63f41f9ef9d9f34bf4b0b5e0c18b6	Arkagis Revolution (World) (En,Fr,Es) (Beta) (2020-02-21) (Aftermarket) (Homebrew).md
 22390c972b9672fbe3d61b984500ad24	Arkagis Revolution (World) (En,Fr,Es) (Beta) (2020-03-04) (Aftermarket) (Homebrew).md
-b9036c35924ee9c9e31a358ea8c86349	Arkagis Revolution (World) (En,Fr,Es) (Rev 1) (Aftermarket) (Unl).md
-6e229a171f4a4ee0050cdcd4eae8fd76	Arkagis Revolution Input Diagnostics ROM (World) (Aftermarket) (Homebrew).md
+b9036c35924ee9c9e31a358ea8c86349	Arkagis Revolution (World) (En,Fr,Es) (Aftermarket) (Unl).md
+6e229a171f4a4ee0050cdcd4eae8fd76	Arkagis Revolution - Input Diagnostics (World) (Aftermarket) (Homebrew).md
 bca822ac1361480ed4474444eafb78d5	Arnold Palmer Tournament Golf (USA, Europe) (Rev A) (Beta) (1990-03-22) (Sega Channel).md
 c77d184d22c4e6a5a365e99a0721aebb	Arnold Palmer Tournament Golf (USA, Europe).md
 cc6c03def1e6ca137ee4814d4920fa7d	Arrow Flash (Japan, Europe) (En).md
@@ -126,11 +158,11 @@ a53f365fb6997a537dff807344995c51	Art Alive (World).md
 e81c004b80d1b39690ecf301dc24e0dc	Art of Fighting (Europe).md
 4b7751c9fc162a1822e94e08b88c378e	Art of Fighting (USA) (Beta) (1994-07-11).md
 3b878b854302596cb197602878d0cf07	Art of Fighting (USA).md
-5aeecfa1bd53e485c9e2ae0b0a595a41	ASAP PLZ (World) (Aftermarket) (Homebrew).bin
+5aeecfa1bd53e485c9e2ae0b0a595a41	ASAP PLZ (World) (Aftermarket) (Homebrew).md
 9aad38cfe5a2df30a85d8f9de1138bf4	Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It).md
 b93b38d6b5b2280bed4797c882b7ab3b	Asterix and the Great Rescue (USA).md
-02c6bf2683853e435f146ff2d65b212f	Asterix and the Power of the Gods (Europe) (En,Fr,De,Es).md
 738885d494f40de7b09a7bd8903533e1	Asterix and the Power of the Gods (Europe) (En,Fr,De,Es,It) (Beta) (February, 1994).md
+02c6bf2683853e435f146ff2d65b212f	Asterix and the Power of the Gods (Europe) (En,Fr,De,Es).md
 ddf044117b485dd51119ccbff1269953	Atomic Robo-Kid (Japan).md
 1742442f5472eb25bf202e85c481c50e	Atomic Robo-Kid (USA).md
 b953ab20d7bd508bd15d369339c67256	Atomic Runner (Europe).md
@@ -144,7 +176,9 @@ a5108f9111f61e37fb815bd41b72f9d9	ATP Tour Championship Tennis (USA) (Beta) (1994
 e193a0c2afc80e1c51c3fb4f410fe48f	ATP Tour Championship Tennis (USA) (Beta) (1994-08-08).md
 6dd226b617349ef63d22228b79956811	ATP Tour Championship Tennis (USA) (Beta) (1994-09-08).md
 723db55d679ef169b8210764a5f76c4d	ATP Tour Championship Tennis (USA).md
-9b8020c054b03c48c7ef20fe43f4dec4	Attack of the Petscii Robots (World) (Aftermarket) (Unl).md
+4e99bb4bdcb8e5d35acef4d4e4a0e8bb	Attack of the Petscii Robots (USA) (Aftermarket) (Unl).md
+9b8020c054b03c48c7ef20fe43f4dec4	Attack of the Petscii Robots (World) (Aftermarket) (Unl).md (Deprecated)
+80df06b3f176838afb63fe770c002ae1	Attack of the Petscii Robots (World) (v1.2) (Demo) (Aftermarket) (Homebrew).md
 d7cb5b40e1b9b083c2506db9e4671764	Australian Rugby League (Europe) (Beta).md
 29d948108a1c768c20af6796ab9ffc47	Australian Rugby League (Europe).md
 34c5206f16d805873cea0907cd1d5913	Awesome Possum (Japan) (En).md
@@ -156,7 +190,7 @@ d7cb5b40e1b9b083c2506db9e4671764	Australian Rugby League (Europe) (Beta).md
 7c31d87425e486b54ee972f7525e6c34	Ayrton Senna's Super Monaco GP II (Japan, Europe) (En,Ja).md
 fad33d8300f3af2e1c81d74e2f37b688	Ayrton Senna's Super Monaco GP II (USA) (En,Ja).md
 ac007195a983cf2c8057f144e3c58206	B.O.B. (USA, Europe) (Beta).md
-6dd99077ae4e896155a88363b0649080	B.O.B. (USA, Europe) (Rev A).md
+6dd99077ae4e896155a88363b0649080	B.O.B. (USA, Europe).md
 3e5176ccdd2849fc2cd28d7a14978eee	Baby Boom (USA) (Proto) (1994-06-03).md
 5d768a29192443b67e21c01d03aee1d9	Baby Boom (USA) (Proto) (1994-06-06).md
 2dc49f8d7f371cdc003a296f379907a0	Baby Boom (USA) (Proto) (1994-08-11).md
@@ -167,19 +201,19 @@ ac007195a983cf2c8057f144e3c58206	B.O.B. (USA, Europe) (Beta).md
 81b14012e083985135ca8f1420074d0e	Bad Omen (Japan, Korea) (En).md
 e67c277cc6cbc821c3e0c1898a635daf	Bahamut Senki (Japan).md
 4e1dea42312f072440322da246e8bbdf	Ball Jacks (Japan, Europe) (En).md
-87b7a93daa4c29cd066c09810bd85532	Ballz 3D - Fighting at Its Ballziest ~ Ballz 3D - The Battle of the Ballz (USA, Europe) (Beta 1).md
-ea772f29e24cfa31fd9a1d9fcacc5432	Ballz 3D - Fighting at Its Ballziest ~ Ballz 3D - The Battle of the Ballz (USA, Europe) (Beta 2).md
-339a8c9a96fcdedb2922b04bcc34f0d2	Ballz 3D - Fighting at Its Ballziest ~ Ballz 3D - The Battle of the Ballz (USA, Europe).md
+87b7a93daa4c29cd066c09810bd85532	Ballz 3D - The Battle of the Ballz (USA, Europe) (Beta 1).md
+ea772f29e24cfa31fd9a1d9fcacc5432	Ballz 3D - The Battle of the Ballz (USA, Europe) (Beta 2).md
+339a8c9a96fcdedb2922b04bcc34f0d2	Ballz 3D - The Battle of the Ballz (USA, Europe).md
 3a128ffcb58d1e9c5a931eeb2802ad2f	Bao Xiao San Guo (Taiwan) (Unl) (Alt).md
 3e06ff4b7344ee11dc9cd15f307be6e3	Bao Xiao San Guo (Taiwan) (Unl).md
 7697d062888a14130a0cc70f004d35af	Barbarian (World) (Aftermarket) (Unl).md
 ec12d3cc11daaab593c0a24595e5a078	Barbie Super Model (USA) (Beta) (1993-06-30).md
 57705b055973733e8b9c25373a80f28c	Barbie Super Model (USA).md
 8befaee319db7aa82ce1635184084d4c	Barbie Vacation Adventure (USA) (Proto).md
-59a3b22a1899461dceba50d1ade88d3a	Bare Knuckle - Ikari no Tekken ~ Streets of Rage (World) (Rev A).md
-569cfec15813294a8f0cf88cccc8c151	Bare Knuckle - Ikari no Tekken ~ Streets of Rage (World).md
+59a3b22a1899461dceba50d1ade88d3a	Streets of Rage (World) (Rev A).md
+569cfec15813294a8f0cf88cccc8c151	Streets of Rage (World).md
+c53faea21ca58de2282a8f1a210527ba	Streets of Rage II (Japan, Europe) (En,Ja).md
 bbe27f5a43be4bb2a11d119b3c1c70e1	Bare Knuckle II (Japan) (Beta).md
-c53faea21ca58de2282a8f1a210527ba	Bare Knuckle II - Shitou e no Requiem ~ Streets of Rage II (Japan, Europe) (En,Ja).md
 8dfd2e27faf766991bd4be258619a3ed	Bare Knuckle III (Japan) (Beta).md
 f1cb9e887bf4bc512d9535c89e420df7	Bare Knuckle III (Japan).md
 3cd93f58822151c27bb9f7a7d3190396	Barkley Shut Up and Jam 2 (USA) (Beta).md
@@ -188,12 +222,12 @@ f1cb9e887bf4bc512d9535c89e420df7	Bare Knuckle III (Japan).md
 434fbd3020f98201cea85d7e602b5212	Barney's Hide & Seek Game (USA) (Beta) (1993-09-18).md
 644dcd9ae972b6b63fce63c17d12620d	Barney's Hide & Seek Game (USA).md
 7e0add665a16ce7d9965d8858c4c0ec4	Barver Battle Saga - Tai Kong Zhan Shi (Taiwan) (Unl).md
-c026339973fb54ec4a54078d2994dd48	Bass Masters Classic (USA).md
 622e303c560db177fe386229243ab7b6	Bass Masters Classic - Pro Edition (USA).md
-c4bc694fcc7ee608bd4b857a5ad49f86	Batman (Europe).md
-b5b72e1157ace90aa9d0623a5687ecbc	Batman (Japan).md
+c026339973fb54ec4a54078d2994dd48	Bass Masters Classic (USA).md
 6c31495e2f75c4643837558488b03947	Batman - Revenge of the Joker (USA).md
 5ae78355da64cf17755175e9cfe48405	Batman - The Video Game (USA).md
+c4bc694fcc7ee608bd4b857a5ad49f86	Batman (Europe).md
+b5b72e1157ace90aa9d0623a5687ecbc	Batman (Japan).md
 49c9588affa2b64e3bc94cd5c1b5d38b	Batman Forever (World).md
 ae267331cfe46a61f65f3cbd5abcbe72	Batman Returns (World).md
 8cfd0e5a169193cf9c66e6d237a45d77	Battle Golfer Yui (Japan).md
@@ -254,13 +288,14 @@ cf51fc9636aeef801b918f2d98831219	Best of the Best - Championship Karate (Europe)
 e5d861fb4ce7560978b0d1aa5fbfb967	Bio Hazard Battle (USA, Europe) (Beta 2) (August, 1992).md
 2d6764f7a96bb8b640a0d18102756ed2	Bio Hazard Battle (USA, Europe).md
 b5365025a46a2781c63e254345268bf1	Bishoujo Senshi Sailor Moon (Japan).md
+646f6ff52f0084db01687f41ce42f023	Black Jewel Reborn (World) (Proto) (Aftermarket) (Homebrew).md
 0ef8cf31e77cf8fab03bd7540a4751c0	Blades of Vengeance (USA, Europe).md
 c20ce14fdebdbdc8eeaa075edf684376	Blaster Master 2 (USA) (Beta).md
 dd38021ff9cb67cfc24a1ad7447e4e3e	Blaster Master 2 (USA).md
 cbdce2630a531ab2c78a38ba62baece6	Blockbuster World Video Game Championship II (USA).md
 c324d9a3cbfa530996b6ad202686627b	Blockout (World).md
 018dfe74603334a17296505ac3c6e599	Bloodshot (Europe) (En,Fr,De,Es).md
-86c721c946f7dc1eebf34a39a2d75f0a	Blow'em Out (World) (Aftermarket) (Unl).md
+86c721c946f7dc1eebf34a39a2d75f0a	Blow'em Out (USA) (Aftermarket) (Unl).md
 9679ee2799bf61dd97aaba0799e802ab	Blue Almanac (Japan).md
 3bc0937881c6084925cdf92595843d6b	Body Count (Brazil) (En) (Beta) (1994-01-27).md
 226654e9b049306b2167014660cbad7b	Body Count (Brazil) (En) (Beta) (1994-02-08).md
@@ -269,16 +304,16 @@ c324d9a3cbfa530996b6ad202686627b	Blockout (World).md
 6251cf2d9e84f5f2407fefb1e933b27a	Body Count (Brazil) (En).md
 e64db3d4c2ccc0b0b3a24b54bc425ec3	Body Count (Europe) (En,Fr,De,Es,It) (Beta).md
 5128015e3441f5bbc9f8a59d9cfbe76b	Body Count (Europe) (En,Fr,De,Es,It).md
-509f76d1ace8f33cddadf21adec7b559	Bomb on Basic City (World) (Aftermarket) (Homebrew).bin
-5b236987ed8dc71734f4abdfe824d5b7	Bomb on Basic City (World) (Demo) (Aftermarket) (Homebrew).md
-3c74617a4643304c7084afb9f167d646	Bomb on Basic City (World) (Special Edition) (Aftermarket) (Homebrew).bin
+3c74617a4643304c7084afb9f167d646	Bomb on Basic City - Special Edition + Papi Commando Tennis Demo (World) (En,Fr) (Aftermarket) (Homebrew).md
+509f76d1ace8f33cddadf21adec7b559	Bomb on Basic City (World) (En,Fr) (Aftermarket) (Homebrew).md
+5b236987ed8dc71734f4abdfe824d5b7	Bomb on Basic City (World) (En) (Demo) (Aftermarket) (Homebrew).md
 fd36dc99f8915416005880427fdae2d9	Bomber (Brazil) (En) (Unl).md
 c5816740d93932870c5c466ea2931a4f	Bomboy (Taiwan) (En) (Unl).md
 acf4aa6aea84be72afaa1a86954b85cb	Bonanza Bros. (Japan, Europe) (En) (Rev A).md
 9c6b56e9916aadee638f93c7f4bb1e20	Bonanza Bros. (Japan, Europe) (En).md
 dc3847b07cd94a15b1b9e0fb2ff5db11	Bonanza Bros. (USA, Europe, Korea) (En) (Rev B).md
-496ca33cf122c10431ef0a89087b1f82	Bone Marrow (World) (En,Ru) (Demo) (Aftermarket) (Unl).md
-f89860750991149d4d9151d04fb75e3a	Bone Marrow Rebirth (World) (En,Ru) (Demo) (Aftermarket) (Unl).md
+496ca33cf122c10431ef0a89087b1f82	Bone Marrow (World) (En,Ru) (Demo) (Aftermarket) (Homebrew).md
+f89860750991149d4d9151d04fb75e3a	Bone Marrow Rebirth (World) (En,Ru) (Demo) (Aftermarket) (Homebrew).md
 b0ee3de606b980a99328da7bdb1e4c7e	Bonkers (USA, Europe) (Beta) (1994-03-28).md
 a07d6ca02db650f699a2a46255720ef8	Bonkers (USA, Europe) (Beta) (1994-05-03).md
 1ad94d276c11e7fddda671c781fc8d6b	Bonkers (USA, Europe) (Beta) (1994-08-04).md
@@ -326,7 +361,7 @@ aa6a145ddac88c7376939ec1e39469d1	Caesars Palace (USA).md
 71a8c01301fe029f01f2f0b17f94d414	Caliber.50 (USA).md
 6cb2871511f53a30996963f30839de75	California Games (USA, Europe).md
 80c93623c29ab70da823860a5f46e70c	Cannon Fodder (Europe).md
-956c9f7da0f6ed6432b3ddf018533ba6	Canon - The Legend of the New Gods (World) (Aftermarket) (Unl).md
+956c9f7da0f6ed6432b3ddf018533ba6	Canon - The Legend of the New Gods (USA) (Aftermarket) (Unl).md
 60f06161f62e0c11d2de317ceed3c24e	Captain America and the Avengers (Europe).md
 39b52537d5e9ee1420b299930168af52	Captain America and the Avengers (USA) (Beta).md
 1dc96693afd74e7b0623a6e06fbdcf87	Captain America and the Avengers (USA).md
@@ -335,11 +370,11 @@ c2aa79a9bdfccf691ff07b9fc0e34355	Captain Lang (Japan) (En,Ja).md
 4f95573c08f905466e01cf8e1bc59a73	Captain Planet and the Planeteers (Europe).md
 4408176afb26e255014f0123ec03deb1	Cascade (World) (Aftermarket) (Unl).md
 24863151abd5baf28c9386d49ffe3c09	Castle of Illusion Starring Mickey Mouse (USA, Europe).md
+ea2a505ad668012dfdf72091d64f5a79	Castlevania - Bloodlines (USA, Europe) (Switch Online).md
 a2611f0a06d059afaa685e869e789951	Castlevania - Bloodlines (USA) (Beta) (1993-08-04).md
 9ff57bfc91102b513d7db8ba7c229d49	Castlevania - Bloodlines (USA) (Beta) (1993-10-07).md
 2ff7cc859cb2d09293d0ca53706ab3c9	Castlevania - Bloodlines (USA) (Castlevania Anniversary Collection).md
 0f04fc1b5bf8c9a887abcf14ce96b0cd	Castlevania - Bloodlines (USA).md
-ea2a505ad668012dfdf72091d64f5a79	Castlevania - Bloodlines (USA, Europe) (Switch Online).md
 7d54c9d48d5c72213fc63eb6eab34581	Castlevania - The New Generation (Europe) (Beta).md
 d6f1bdb9ca9a4137bcdb31611fb35bee	Castlevania - The New Generation (Europe) (Mega Drive Mini).md
 10d2e8576380e5c22d8771f470747c98	Castlevania - The New Generation (Europe).md
@@ -360,6 +395,7 @@ d2addc694146548fcbfe22674d25962c	Chao Ji Da Fu Weng (Taiwan) (Unl).md
 0a31a48abb18fe134849d062c2a1e091	Chao Ji Poker (Taiwan) (En) (Unl).md
 a018893d4c91ee0c10338ff9870cf805	Chaos Engine 2, The (Europe) (Proto).md
 af3fa0013696f82c0fa572f00e9e8e1d	Chaos Engine, The (Europe).md
+0b9955414c77211bfb2e00dc4cce72ea	Chaperon Violet, Le (World) (Fr) (Proto) (Aftermarket) (Homebrew).md
 93cacc2d10b6176afa16e4d08ab6ee1c	Chase H.Q. II (USA).md
 bc1b34b3915683d4e28afccda241ee5a	Chavez II (Mexico).md
 a0a6cd7f82d2215ee51baec4bda150c6	Cheese Cat-Astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es).md
@@ -375,11 +411,11 @@ b725f5bef5b1f774cae00a03893186b0	Chou Kyuukai Miracle Nine (Japan).md
 3ec32aa6a689f562e0dad40a10f2f844	Chou Touryuu Retsuden - Dino Land (Japan).md
 252f8da6fde4d425836a66c0fdc73bf2	Chuck Rock (Europe).md
 efd1546c7f4c8c76f36d6b3eeb9f5331	Chuck Rock (USA).md
-079305b34fb76a2198d5841b7148ab39	Chuck Rock II (Japan).md
 734cb71e8c88ef9c0560a233d2cbd19a	Chuck Rock II - Son of Chuck (Europe).md
 c4edd52da8f5bbde829008bfb6f9e272	Chuck Rock II - Son of Chuck (USA) (Beta).md
 a9e607aed6b743ee42f9f9d25a49c881	Chuck Rock II - Son of Chuck (USA).md
-b79c407c21427f92f27c5fc43de33e8b	Clan of Heroes - Generals of the Yang Family (World) (Aftermarket) (Unl).md
+079305b34fb76a2198d5841b7148ab39	Chuck Rock II (Japan).md
+b79c407c21427f92f27c5fc43de33e8b	Generals of the Yang Family - Clan of Heroes (USA) (Aftermarket) (Unl).md
 7a8327df65336f3ae7c96c1b8d03c1bd	Classic Collection (Europe).md
 98191aadab9bf8d02e8a6e3be1f73a36	ClayFighter (Europe).md
 c7a12f405a2120594254fce61ea0c516	ClayFighter (USA).md
@@ -389,7 +425,7 @@ b570c484099ee0cb5ade264a4ea45db5	Clue (USA).md
 ac51f4585a42cba91d04f667dd1fd60a	Coach K College Basketball (USA).md
 20d83107fe3f43109c219279ae5f9fca	Coffee Crisis (World) (Aftermarket) (Unl).md
 7f53ff6e5e11839b8540952ff768ef2f	Coffee Crisis (World) (Demo) (Aftermarket) (Unl).md
-dc1fc80ab39f9a5bfac841a816c656d4	Coffee Crisis (World) (Rev 1) (Aftermarket) (Unl).md
+dc1fc80ab39f9a5bfac841a816c656d4	Coffee Crisis (World) (Aftermarket) (Unl) (Alt).md
 0cb89f460eb735d2f9e08659c227157a	College Football USA 96 (USA) (Beta) (1995-06-21).md
 f54889e7ce17227d398669f9f4e7881d	College Football USA 96 (USA).md
 dcb35bb9064171f07bb8b49d43c24d5b	College Football USA 97 (USA).md
@@ -419,8 +455,8 @@ d608a160eda8597113b3cdf92941a048	College Football's National Championship II (US
 94b2079afe2a55e20135618bc5a947a9	Columns (USA, Europe) (1990-06-21) (Sega Channel).md
 b92d1477992ca143e02bf90ab2e2a118	Columns (USA, Europe).md
 7911c61746879d191497064ed7cda400	Columns (World) (Sega Ages).md
-441b7e9c9811e22458660eb73975569c	Columns III (USA).md
 eeb557cd38ad00d6b4df48585098269a	Columns III - Taiketsu! Columns World (Japan, Korea) (Ja).md
+441b7e9c9811e22458660eb73975569c	Columns III (USA).md
 4f4d0a9f44846e4d8a2548e1d33f3309	Combat Aces (USA) (Proto) (Unl).md
 d951bf2f27fcfd5641261f82dc3c7c47	Combat Cars (USA, Europe).md
 7c03c9d77ecfe04414bbc2b446dd5ce9	Comix Zone (Europe) (Beta) (1995-06-28).md
@@ -434,16 +470,16 @@ e0e12c8fc66e81cbfccfd2e0513026c6	Comix Zone (USA) (Beta) (1995-06-01) (Alt 2).md
 2de83c5f995d0ae8f02f164872e3bacb	Comix Zone (USA) (Beta) (1995-06-01) (Alt 3).md
 af19d9cdbd2afa549df1ac30ddacce5b	Comix Zone (USA) (Beta) (1995-06-01) (Alt).md
 c531c9eb84363b1f27b3733808bf265d	Comix Zone (USA) (Beta) (1995-06-01).md
-c2e719791369fdb4782710a366683d7e	Comix Zone (USA) (Beta) (1995-06-02) (Alt).md
-af84f854f1b8786de2f9a3d2d63c98df	Comix Zone (USA) (Beta) (1995-06-02).md
+c2e719791369fdb4782710a366683d7e	Comix Zone (USA) (Beta) (1995-06-02T025636).md
+af84f854f1b8786de2f9a3d2d63c98df	Comix Zone (USA) (Beta) (1995-06-02T125104).md
 1e042423d5c4de6305f5fe8db8bc9e73	Comix Zone (USA) (Beta) (1995-06-03).md
 262f58a1cb1e12393547eafc9ed5ad41	Comix Zone (USA) (Demo) (1995-06-12) (Sega Channel).md
 5cc88fa866c76cb24c50ec7019daee7e	Comix Zone (USA) (Sega Smash Pack 2).md
-9bfbbf751196b934dc159cb34fa3494f	Comix Zone (USA) (Virtual Console).md
+9bfbbf751196b934dc159cb34fa3494f	Comix Zone (USA) (1995-06-09) (Virtual Console).md
 7078e8018ded17f3ce4c70cc8bf74afc	Comix Zone (USA).md
 be5b3fe839d98e574865c82a63a53026	Congo - The Game (USA) (Proto).md
-b552ccce25afbafe61c4a9026e6b1190	Contra - Hard Corps (USA) (Genesis Mini).md
 2bd30479556da5c310d8f2a1fe66e8fa	Contra - Hard Corps (USA, Korea) (En).md
+b552ccce25afbafe61c4a9026e6b1190	Contra - Hard Corps (USA) (Genesis Mini).md
 04e4543a7c1d00fbba8d8365cbd18fa2	Contra - Hard Corps (World) (Contra Anniversary Collection).md
 18f0bcad4268865b67a4a907e68ab71a	Contra - The Hard Corps (Japan) (Mega Drive Mini).md
 3d94f57af4258416e65197a9da854219	Contra - The Hard Corps (Japan).md
@@ -462,8 +498,8 @@ f0a0a4e19e9f962afb304fbcadd8f101	Crack Down (USA).md
 d3cc36984a31ed76c0d54df348677c47	CrossFire (USA) (Sample).md
 8072f5025e9f874c0ccf0341c2081c74	CrossFire (USA).md
 1b9cc19019765050293fad86215bead7	Crude Buster (Japan).md
-3f88fd60605c273538fc47ebfc46559f	Crue Ball (Japan).md
 d062b85cbbd54f57de313d09e5c0bfec	Crue Ball - Heavy Metal Pinball (USA, Europe).md
+3f88fd60605c273538fc47ebfc46559f	Crue Ball (Japan).md
 4ead1c30202dbc10ad3e327f69770570	Crusader of Centy (USA).md
 c54dc959882622dc6e6cc92b03dd03b9	Crying - Aseimei Sensou (Japan).md
 43a35dd73d60d4dc76894fb9e39234d8	Crystal's Pony Tale (USA) (Beta) (1994-05-11).md
@@ -488,14 +524,14 @@ ef4ecc2e5cfdd5d94a2c71e55034ecf8	Curse of Illmoore Bay, The (World) (Aftermarket
 3250efc1f0e0d46ce89bcb64b4f2747d	Curse of Illmoore Bay, The (World) (Demo 1) (Aftermarket) (Unl).md
 568a4c24802f66b65b8f2ffc2545f797	Curse of Illmoore Bay, The (World) (Demo 2) (Aftermarket) (Unl).md
 237d0d2e58e5ced5f209e58ab3c573d0	Curse of Illmoore Bay, The (World) (Demo 3) (Aftermarket) (Unl).md
-b119d04de076a3cbe1b461fd47827811	Curse of Illmoore Bay, The (World) (Steam Version) (Aftermarket) (Unl).bin
-414de495107e20fb3f4439e03053e329	Cursed Knight, The (World) (En,Fr) (Aftermarket) (Unl).md
-3aa87695dae7cc21664bb6a57229801a	Cursed Knight, The (World) (v1.0) (Demo) (Aftermarket) (Unl).md
-6ea504ac59aa7753dfafe13f93c44ba4	Cursed Knight, The (World) (v1.1) (Demo) (Aftermarket) (Unl).md
-3b2651c721af40f0669e7a339418a81f	Cursed Knight, The (World) (v2.0) (Demo) (Aftermarket) (Unl).md
-f1e44654c08fcb17582f5dc930930271	Cursed Knight, The (World) (v2.1) (Demo) (Aftermarket) (Unl).md
-d9dfc000ba328c603b86db64deadcf70	Cursed Knight, The (World) (v3.0) (Demo) (Aftermarket) (Unl).md
-bfbb59be93153a52d1d7021c7ea6d1be	Custodian (World) (Aftermarket) (Unl).md
+b119d04de076a3cbe1b461fd47827811	Curse of Illmoore Bay, The (World) (Steam) (Aftermarket) (Unl).md
+414de495107e20fb3f4439e03053e329	Cursed Knight, The (World) (En,Fr) (Aftermarket) (Homebrew).md
+3aa87695dae7cc21664bb6a57229801a	Cursed Knight, The (World) (v1.0) (Demo) (Aftermarket) (Homebrew).md
+6ea504ac59aa7753dfafe13f93c44ba4	Cursed Knight, The (World) (v1.1) (Demo) (Aftermarket) (Homebrew).md
+3b2651c721af40f0669e7a339418a81f	Cursed Knight, The (World) (v2.0) (Demo) (Aftermarket) (Homebrew).md
+f1e44654c08fcb17582f5dc930930271	Cursed Knight, The (World) (v2.1) (Demo) (Aftermarket) (Homebrew).md
+d9dfc000ba328c603b86db64deadcf70	Cursed Knight, The (World) (v3.0) (Demo) (Aftermarket) (Homebrew).md
+bfbb59be93153a52d1d7021c7ea6d1be	Custodian (USA) (Aftermarket) (Unl).md
 880181f9ade316969f0472b234f00978	Cutie Suzuki no Ringside Angel (Japan).md
 8661001147d09a5570796127b4143a78	CutThroat Island (USA, Europe) (Beta).md
 f1e6ec5e3bf9c04670d10fbc89fb549c	CutThroat Island (USA, Europe).md
@@ -506,8 +542,8 @@ fcd83676eb392c53b71b76eb603a7767	Cyborg Justice (USA, Europe) (Beta).md
 d2d8c19c67e14a0d509a454bd880bbdd	Cyborg Justice (USA, Europe).md
 46c556b4f5eafc2c880fda891820b44b	Daffy Duck in Hollywood (Europe) (Beta) (August, 1994).md
 ad08cffbc0c443086dff8ab4414f18c3	Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It).md
-d2c013ff76bf6672e54d0a726a82541e	Dahna (Korea).md
 731b77ec3acab4aaf3b76cd3c8d82a41	Dahna - Megami Tanjou (Japan).md
+d2c013ff76bf6672e54d0a726a82541e	Dahna (Korea).md
 113d3425757c0719660b885c4d66f5e3	Daikoukai Jidai (Japan).md
 9a83cd8859e942816cc138e6165af0be	Daikoukai Jidai II (Japan).md
 203213c107fc17731dc7953343b5ffab	Daimakaimura (Japan).md
@@ -518,9 +554,9 @@ b69c08081e2744d043600d57ea773051	Daisenpuu ~ Twin Hawk (Japan, Europe) (En) (Bet
 ebd5c5829e6992542770773e276ebac3	Daisenpuu ~ Twin Hawk (Japan, Europe) (En).md
 f7125fcd53073459a6b9b4e57ff71257	Dangerous Seed (Japan).md
 bf9d1470f6e70c0885592b7bef25b3f8	Danny Sullivan's Indy Heat (USA) (Proto).md
+eb22d1e66e67507a959648bcd27a6611	Darius - Extra Version (Japan) (En) (Columbus Circle) (Aftermarket) (Unl).md
+768d0e58f14d96be7e6dd6ad0ad1c40a	Darius - Extra Version (USA, Europe) (Strictly Limited) (Aftermarket) (Unl).md
 05dac074b9f194d74c44848eb15ad53f	Darius (World) (Genesis Mini, Mega Drive Mini).md
-eb22d1e66e67507a959648bcd27a6611	Darius - Extra Version (World) (Columbus Circle Version) (Aftermarket) (Unl).md
-768d0e58f14d96be7e6dd6ad0ad1c40a	Darius - Extra Version (World) (Strictly Limited Version) (Aftermarket) (Unl).md
 4ab80160ba6811a48e0482c402941062	Darius II (Japan).md
 41857d72e4ff8a685ff3a50a5d06f2a5	Darius II (World) (Darius Cozmic Collection).md
 56965eb7dde9bc22d16ffa72331c0e09	Dark Castle (USA, Europe).md
@@ -545,15 +581,18 @@ d14f262f3d9d46df0ed1d9f2bb6c3442	Death and Return of Superman, The (Europe).md
 960a409245913c8adf10c4b3ed23ab04	Death and Return of Superman, The (USA).md
 d74e4a4218a5357808a43d94ba495c63	Death Duel (USA) (Beta) (1992-05-06).md
 2bd0bcddda80b6dac8be82dc7e3a3d76	Death Duel (USA).md
-3b8ec426cc324092771dbe69c4c7be48	Debtor (World) (Demo 4) (Aftermarket) (Unl).md
+3b8ec426cc324092771dbe69c4c7be48	Debtor (World) (Demo 4) (Aftermarket) (Homebrew).md
 283c180cede3352dabec75fff677052e	DEcapAttack (USA, Europe, Korea) (En).md
 95bb9db45817400b60b010ad77b49ea0	Demolition Man (USA, Europe) (Beta).md
 a7d8154ebc55d4d680d35c359ec1e0bc	Demolition Man (USA, Europe).md
-c1b65f0ecc256598f29716e85831d5dc	Demons of Asteborg (World) (Demo 1) (Aftermarket) (Unl).md
-94286ef831f89948c9c9219937a4b06d	Demons of Asteborg (World) (Demo 2) (Aftermarket) (Unl).md
-d4ead56f4b0259b7c23d57633842b33a	Demons of Asteborg (World) (En,Fr,De,Es,It,Pt) (v1.0) (Aftermarket) (Unl).md
+c1b65f0ecc256598f29716e85831d5dc	Demons of Asteborg (World) (v0.1) (Demo 1) (Aftermarket) (Unl).md
+94286ef831f89948c9c9219937a4b06d	Demons of Asteborg (World) (Demo 2) (2020-07-21) (Aftermarket) (Unl).md
+c7de4f12997bdffea4b96de1966eec58	Demons of Asteborg (World) (En,Fr,De,Es,It,Pt-BR) (v1.1) (Demo 4) (2021-09-03) (Aftermarket) (Unl).md
+0e1d5e0117a53daf319e6bff41f21fad	Demons of Asteborg (World) (En,Fr,De,Es,It,Pt-BR) (v1.1) (Demo 5) (2021-09-14) (Aftermarket) (Unl).md
+d4ead56f4b0259b7c23d57633842b33a	Demons of Asteborg (World) (En,Fr,De,Es,It,Pt) (Aftermarket) (Unl).md
 fb715e4da5c8d9d0875801b21c29ac09	Demons of Asteborg (World) (En,Fr,De,Es,It,Pt) (v1.1) (Aftermarket) (Unl).md
-1c28bffeb2d896f43c9753b97b3fb86b	Demons of Asteborg (World) (En,Fr,De,Es,It,Pt) (v1.1) (Demo 3) (Aftermarket) (Unl).md
+1c28bffeb2d896f43c9753b97b3fb86b	Demons of Asteborg (World) (En,Fr,De,Es,It,Pt-BR) (v1.1) (Demo 3) (2021-09-01) (Aftermarket) (Unl).md
+0b10afccfc9122c2dd4f972feabf54c2	Demons of Asteborg (World) (Fr) (v0.1) (Demo 1) (Aftermarket) (Unl).md
 2db2387fdae191fbfed286da5ebdc509	Desert Demolition (USA, Europe) (Beta) (1994-12-06).md
 d3a3fe7ee633f7d0d455116f0d42fd74	Desert Demolition (USA, Europe) (Beta) (1994-12-08).md
 7ea6cada4b6f8216c9f7273c15d42f84	Desert Demolition (USA, Europe) (Beta) (1994-12-12) (Alt).md
@@ -567,14 +606,14 @@ e4416787ed2258103f68cfded85b4883	Desert Demolition (USA, Europe) (Beta) (1994-12
 6f37f036c8de2bf78d11079cd2424370	Desert Strike - Return to the Gulf (USA, Europe).md
 414a548a2ab68a8e4840359c08b24ab9	Desert Strike - Wangan Sakusen ~ Desert Strike (Japan, Korea) (Ja).md
 f93c0545385edce6ccef288ac767c670	Devil Crash MD (Japan).md
-55478f7c52fdd4839296cd9660a89370	Devilish (USA) (Beta) (1992-01-16).md
 6fa7cd092a175c9040b318d289ffff93	Devilish - The Next Possession (USA).md
+55478f7c52fdd4839296cd9660a89370	Devilish (USA) (Beta) (1992-01-16).md
 21e86cd085f372437208a04d6474da78	Devwill Too (World) (Aftermarket) (Unl) (Alt).md
 b9cf2b15b2b727fb3b748cab56420ec1	Devwill Too (World) (Aftermarket) (Unl).md
-9e6cf84bbddec9660d328554df2cb3ce	Devwill Too (World) (Demo) (Aftermarket) (Homebrew).md
+9e6cf84bbddec9660d328554df2cb3ce	Devwill Too (World) (Demo 1) (Aftermarket) (Unl).md
 d09aa6dacc36825dcb4688475269ad11	Devwill Too (World) (Pt-BR) (Aftermarket) (Unl) (Alt).md
 2cccbc6fc354900aedc4c83a3c190f77	Devwill Too (World) (Pt-BR) (Aftermarket) (Unl).md
-e4312519174ab414c0058ce193d49e77	Devwill Too (World) (v2) (Demo) (Aftermarket) (Unl).md
+e4312519174ab414c0058ce193d49e77	Devwill Too (World) (Demo 2) (Aftermarket) (Unl).md
 bcd30ad949ac4fb71bd74cf6ed96ea9a	Dexstar (USA, Europe) (Beta) (1994-08-12).md
 0cdf27d24a6b65e255e0d660a47eda53	Dexstar (USA, Europe) (Beta) (1994-08-26).md
 1807ac766310c0e705ca7442ba9012fa	Dial Q o Mawase! (Japan) (Unl).md
@@ -620,7 +659,7 @@ ae9347eeea41c1a02565a187a4bf28f7	Dragon Ball Z - Buyuu Retsuden (Japan).md
 ba91bc7a28e50fdd14f3c3fb87cdc4b5	Dragon's Revenge (Japan) (En).md
 f2b7d96aae4b5fdc6a1eac5a045e66c4	Dragon's Revenge (USA, Europe).md
 af092db5ba7221fc207865448ada05b4	Dream Team USA (Japan).md
-dcac347ef1aee75f1cdfe4438bffe13e	Drunk as I Like (World) (Beta) (Aftermarket) (Homebrew).md
+dcac347ef1aee75f1cdfe4438bffe13e	Drunk as I Like (World) (Beta) (GitHub) (Aftermarket) (Homebrew).md
 8e6ba6e840df09c2be6a2fd821b48b40	Drunk as I Like (World) (GitHub) (Aftermarket) (Homebrew).md
 0e0c31d19894bcdcd5992ee0b9c7e62e	Drunk as I Like (World) (Itch.io) (Aftermarket) (Homebrew).md
 2adca8888f29ecff85f8924386750b20	Du Shen Zhi Meng Huan Poker (Taiwan) (Unl).md
@@ -681,8 +720,8 @@ fce6d8bd0d9f76fae2c26eb09159aae5	Elite (Unknown) (Tech Demo, Viewer).md
 64c2a99aba71e7796fd12546071592cc	Elitserien 95 (Sweden).md
 add607e0dd5b9f294bb5a246d8946aed	Elitserien 96 (Sweden).md
 65585e683767e2255fbcc0103130b313	Empire of Steel (Europe).md
-13ec03dfb4f82f04d462dbed3162d3b3	Escape 2042 - The Truth Defenders (World) (En,Ja,Fr,Es) (Aftermarket) (Unl).md
-2c31d62a0329d7ced5a0e14fb6ff6571	Escape 2042 - The Truth Defenders (World) (En,Ja,Fr,Es) (Preview) (Aftermarket) (Unl).md
+13ec03dfb4f82f04d462dbed3162d3b3	Escape 2042 - The Truth Defenders (Europe) (En,Ja,Fr,Es) (Aftermarket) (Unl).md
+2c31d62a0329d7ced5a0e14fb6ff6571	Escape 2042 - The Truth Defenders (World) (En,Ja,Fr,Es) (Aftermarket) (Homebrew).md
 0bc8a4f411dfd142799fe3c4a8c1771b	Escape from Mars Starring Taz (USA) (Beta) (1994-03-09).md
 2488886aac3803fd65d802ad22274bc5	Escape from Mars Starring Taz (USA) (Beta) (1994-04-18).md
 996845de9bc4cbe6dfb5c545baea2af9	Escape from Mars Starring Taz (USA) (Beta) (1994-05-09).md
@@ -715,9 +754,9 @@ be41641e9045d8ae4f07c68874a57510	European Club Soccer (Europe) (Beta) (1991-10-2
 699fdbc714dd0f1c65b91505b6e3c1d4	Ex-Mutants (USA, Europe).md
 d47e977300ed8014428974d19e1e39db	Ex-Ranza (Japan) (Beta).md
 604453e2dda349306d573adfba6e6fb7	Ex-Ranza (Japan).md
+2cda6d2f8dfe3caab1683dd7849b6ba3	Exile - Toki no Hazama he (Japan).md
 d1ed5ace0e30fb854875cf11ad439662	Exile (USA) (Sega Channel).md
 5fe9ab5d615e3351302f47180de27f5e	Exile (USA).md
-2cda6d2f8dfe3caab1683dd7849b6ba3	Exile - Toki no Hazama he (Japan).md
 d3b8d025b4273f7c9e8b81c11d5bcd93	Exo Squad (Europe).md
 4a0b235e1dae98939698ccf7d5dd6876	Exo Squad (USA) (Beta).md
 3297aed1b8bb83cca67bc2e24f84414a	Exo Squad (USA).md
@@ -730,16 +769,16 @@ d89c8068197892bf9e8abd5fa9d8c61b	F-117 Stealth - Operation - Night Storm (Japan)
 e0cf5e97a3ddaac1f691de0f1b4e39be	F-15 Strike Eagle II (USA) (Beta) (1992-07-13).md
 1cdf545ab88c06d2d7e4613e898274a5	F-15 Strike Eagle II (USA) (Sample).md
 c6eeffdfed136ef2d76cd3b5e503c4f1	F-15 Strike Eagle II (USA).md
+b89f6bc7f4983ab197d90b24fdcec4dc	F-22 Interceptor - Advanced Tactical Fighter (Japan).md
+be69f522d81e1ce89ba7842d4216be76	F-22 Interceptor - Advanced Tactical Fighter (USA, Europe) (F-202).md
+e9833cd1b7d9c1373b187871834c368e	F-22 Interceptor - Advanced Tactical Fighter (USA) (F-205).md
 a8b52e44cd74ae947eede94b85b87d07	F-22 Interceptor (USA) (1991-09-17) (Sega Channel).md
 b93408e73d5331078b93ab773420b7d8	F-22 Interceptor (USA) (Beta).md
-b89f6bc7f4983ab197d90b24fdcec4dc	F-22 Interceptor - Advanced Tactical Fighter (Japan).md
-e9833cd1b7d9c1373b187871834c368e	F-22 Interceptor - Advanced Tactical Fighter (USA) (F-205).md
-be69f522d81e1ce89ba7842d4216be76	F-22 Interceptor - Advanced Tactical Fighter (USA, Europe) (F-202).md
-b065e4a01adcfd6af4c96b950b832100	F1 (Europe).md
 df88ecba9c5b49002e6372cab7b27535	F1 - World Championship Edition (Europe) (Beta).md
 b274adf5abc70d75f918331bf682cdc0	F1 - World Championship Edition (Europe).md
 5620b7866f2db94824d8e0eebc00ffc8	F1 - World Championship Edition (USA) (Proto 1).md
 f222015550b9b02ffe7c2fb2c6fe5d57	F1 - World Championship Edition (USA) (Proto 2).md
+b065e4a01adcfd6af4c96b950b832100	F1 (Europe).md
 211d119a11102a8feccc78e2231a54b5	F1 Circus MD (Japan) (En).md
 5428986be40a0256182077ae796d169e	F1 Circus MD (USA) (Proto) (1991-12-28) (Sega Channel).md
 135e1eb555ef5cf661b8c9ae953985c3	Faery Tale Adventure, The (USA, Europe).md
@@ -774,7 +813,7 @@ a1546250206aafa61536b434e31cd568	FIFA International Soccer (Japan) (En,Ja).md
 545b07c1c599f49ea93a4b7b2c7c3782	FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es,It,Sv).md
 f4a8436b5218a201a08401bedbfcd065	FIFA Soccer 97 (USA, Europe) (En,Fr,De,Es,It,Sv).md
 b91a6715f7b382c7550bbbc1c6445362	FIFA Soccer 99 (Unknown) (Pirate).md
-c60371d6df1a40b2aa366b28bb8e3ac9	Fight for Vengeance (World) (Demo) (Aftermarket) (Unl).md
+c60371d6df1a40b2aa366b28bb8e3ac9	Fight for Vengeance (World) (Proto) (Aftermarket) (Unl).md
 baf3777249a1bbb03efb3dd419e4d589	Fighting Masters (Japan, Korea) (En).md
 b6813ec7475012936d017c3c93412282	Fighting Masters (USA).md
 46832fb41605671ef4574a26c09ee854	Final Blow (Japan) (En) (Beta) (1990-01-16).md
@@ -783,10 +822,10 @@ f2c1ca2b1ab0febcf6d244785d477a50	Final Blow (Japan) (En).md
 de1cab62facb121904d0cb1da9cc00a8	Fire Shark (Europe).md
 c00981929f3eca882d123809e81185df	Fire Shark (USA).md
 2f8eaa20117c78aec03fd63de3869dec	Flash Point (Japan) (En) (Proto).md
+385e4e66174a76fd4a05639f24b54562	Flashback - The Quest for Identity (USA) (En,Fr).md
 048c86fc053b8e3231d1644d744206b4	Flashback (Europe) (En,Fr) (Beta) (1992-09-18).md
 afe56361b8bbe014dee830baffa8257d	Flashback (Europe) (En,Fr).md
 9a445d5b0d1cd873ce743743b8faec31	Flashback (Japan).md
-385e4e66174a76fd4a05639f24b54562	Flashback - The Quest for Identity (USA) (En,Fr).md
 805cc0b3724f041126a57a4d956fd251	Flicky (USA, Europe).md
 e60a518d3e5c2a28433ed01173cdb465	Flink (Europe) (En,Fr,De) (Beta).md
 4b6da602b30589b18be136f60b8000b2	Flink (Europe) (En,Fr,De).md
@@ -837,6 +876,7 @@ e8af7fe115a75c849f6aab3701e7799b	Game Genie (USA, Europe) (Rev A) (Program).md
 63d1c64e1f3363171b63a75ce67b1f60	Game Toshokan (Japan) (Rev A) (Program).md
 e4213039a4a0781844ccefe1bf501852	Garfield - Caught in the Act (USA, Europe) (Beta) (1995-09-11).md
 b8591488ca46b51c1d39b6869fa23006	Garfield - Caught in the Act (USA, Europe).md
+a68fa5f6e61c4b1bec880ccc722dd0e8	Gargoyles (USA) (Beta) (1995-10-02).md
 182b253e376b3ed4c51be1f87a95aa29	Gargoyles (USA).md
 204ae6f8f97293e877ffb51c0904dd7c	Garou Densetsu - Shukumei no Tatakai (Japan).md
 700616115a3709ac4c9868eb2179d52a	Garou Densetsu 2 - Aratanaru Tatakai (Japan).md
@@ -846,7 +886,7 @@ b8591488ca46b51c1d39b6869fa23006	Garfield - Caught in the Act (USA, Europe).md
 5e8ec4c047ef4af15027e93b5358858f	Gauntlet IV (USA, Europe) (Beta).md
 840f9f6fd4f22686b89cfd9a9ade105a	Gauntlet IV (USA, Europe) (En,Ja).md
 952ad745fb759b48bfa73a04ec37bb71	Gemfire (USA).md
-5834f5c7a618adc80a98b6350a9ece8f	GEMS (USA) (v2.8) (Beta) (1994-06-04) (Program).md
+5834f5c7a618adc80a98b6350a9ece8f	GEMS (USA) (v2.8) (Proto) (1994-06-04) (Program).md
 955622a63dc3b06c13823fb352f50912	General Chaos (USA, Europe).md
 9ff0afe64a5765a1e2bc1f40bcd2e554	General Chaos Daikonsen (Japan).md
 e91d85e82c9ab9770d86e00dbc78f7c5	Generations Lost (USA, Europe).md
@@ -857,6 +897,7 @@ cf67700c0ef63427307634d2404901fc	Genghis Khan II - Clan of the Gray Wolf (USA).m
 270637399377cfe1b926ec5f664471f0	Ghostbusters (Japan).md
 82a7ff0c2308b00e1919fb959a3e4b58	Ghostbusters (USA, Europe) (Beta) (1990-05-01).md
 d73f3b9feac4734e9a391aa211a88159	Ghostbusters (USA, Europe).md
+d32d0f772ba8d8b51dd78fd1aa37ef9b	Gleylancer (Japan) (Aftermarket) (Unl).md
 8bd4a97783cda077c342173df0a9b51e	Gleylancer (Japan).md
 f3041b5359d452ce2c5366a03b2d91c7	Global Gladiators (Europe).md
 7855f06bed391e25cff67a84af480715	Gluf (World) (Aftermarket) (Unl).md
@@ -865,7 +906,7 @@ b4b855462eba7076407a7fa6265b61e4	Gods (Europe).md
 020bf924cf6073e52f9df6e70eeaa800	Gods (Japan).md
 8d08d9aa97bd912870cfe13f9995a25d	Gods (USA) (Beta).md
 7c3fcd8a86e01e5b542434fd37a49002	Gods (USA).md
-8dc17812d7f6bca0062c5e5217abc304	Gold Rush (World) (Aftermarket) (Homebrew).bin
+8dc17812d7f6bca0062c5e5217abc304	Gold Rush (World) (Aftermarket) (Homebrew).md
 25e93047f0ee89d8df2ead8f2e710a50	Golden Axe (World) (Beta) (1989-10-14).md
 0dd362213fc29a54ab08527a98686cdd	Golden Axe (World) (Beta) (1989-11-22).md
 e4263c39487f0b55e8f33cbd5acd9b93	Golden Axe (World) (Rev A).md
@@ -883,7 +924,7 @@ b27a54c8ac3671e72e853875ef6073eb	Golden Axe II (World) (Beta).md
 e2a0c5f54432464d7179304c0d5901dc	GrandSlam - The Tennis Tournament '92 (Japan).md
 e13cf127daf804edd2bb82a1b3410fd4	GrandSlam - The Tennis Tournament (Europe).md
 14b60c4b9ee6db2d04be4d1ed2ab278f	Gravibots (World) (Aftermarket) (Homebrew).md
-776ed9ac798e0f381b0096daf2ffefda	Gravibots (World) (DMA-SAFE) (Aftermarket) (Homebrew).bin
+776ed9ac798e0f381b0096daf2ffefda	Gravibots (World) (dmaSafe) (Aftermarket) (Homebrew).md
 6ee9350e11ba6a5ac14f6ef9094f68b4	Great Circus Mystery - Mickey to Minnie Magical Adventure 2 (Japan).md
 b51204d15148b5856d41eb29d23d242c	Great Circus Mystery Starring Mickey & Minnie, The (USA).md
 d568aaed8e044287e5e1fcc0ffe02676	Great Waldo Search, The (USA).md
@@ -902,7 +943,7 @@ bc578767a82f008cd2d3f4226a98ec32	Gunstar Heroes (Japan).md
 9a369cfc6355db48677771e345421e0e	Gunstar Heroes (USA).md
 fa0609181242f4b5fd59598273f138ec	Gynoug (Europe).md
 fa49fa5c1eec5bfae59fb87f310c0852	Gynoug (Japan).md
-bd7539a9f0b01a21eefadc1f474a57fc	Handy Harvy (World) (Aftermarket) (Unl).md
+bd7539a9f0b01a21eefadc1f474a57fc	Handy Harvy (USA, Europe) (Aftermarket) (Unl).md
 2c1cd69c1c3ff24d5f4cb617fc0d5309	Hard Drivin' (World).md
 5cc105549176d6d56e7e8899dc27647a	HardBall '94 (USA, Europe).md
 e5b12f2b4e4ff18a838bfec88ec0a601	HardBall '95 (USA).md
@@ -937,14 +978,16 @@ dd09e0d16f81167cf187b13bf11a9564	Hurricanes (Europe).md
 98115840ef962964278aca1f7c09426c	Hybrid Front, The (Japan) (Beta).md
 28a72c6a6840088c4a97670139cae085	Hybrid Front, The (Japan).md
 f9cb4b00137b533bc137a89d5261f23f	Hyokkori Hyoutan-jima - Daitouryou wo Mezase! (Japan).md
-8bc39c10ed8d26d53a0f24f5daca81c8	Hyper Dunk (Europe).md
 139b7670f0e585ffcbe4bf9e987ec652	Hyper Dunk - The Playoff Edition (Japan) (Beta) (February, 1994).md
 008bcd6a3fc35015df0851e996ce80b4	Hyper Dunk - The Playoff Edition (Japan).md
+8bc39c10ed8d26d53a0f24f5daca81c8	Hyper Dunk (Europe).md
 570f91b5c425e3527ec0077c186adaa4	Hyper Marbles (Japan) (Game no Kanzume Otokuyou).md
+49d2b186061c0d0082fae032fbfddacf	Hyper Marbles (Japan) (Game no Kanzume Vol. 1).md
 74eee7f1e3bd336bf684e46622b61212	Hyper Marbles (Japan) (SegaNet).md
 b44c84ad8ffd258d016538a4a6ce4b2a	I Love Mickey and Donald - Fushigi na Magic Box (Japan) (Rev 1).md
 edb74bc08734149bf11b7f5b1a184741	I Love Mickey and Donald - Fushigi na Magic Box (Japan).md
 4995ed01f27b27b650a69390cee33a1b	I Love Mickey Mouse - Fushigi no Oshiro Daibouken (Japan).md
+9a668f0a2f49927385efbcd6f3a9c471	IK+ Deluxe (World) (Aftermarket) (Homebrew).md
 10e1a283689b071f668d83b27dec0e3a	Ikasuze! Koi no Doki Doki Penguin Land MD (Japan) (Game no Kanzume Otokuyou).md
 4f355e4928fef26e50179b0e11752aa4	Ikasuze! Koi no Doki Doki Penguin Land MD (Japan) (SegaNet).md
 f0ecb410ac43c503f1321098e4203785	IMG International Tour Tennis (USA, Europe).md
@@ -954,6 +997,8 @@ f0ecb410ac43c503f1321098e4203785	IMG International Tour Tennis (USA, Europe).md
 9990ea46fa6ca7c2e6aa122991d81167	Incredible Hulk, The (USA, Europe).md
 bc40ee0ea033ba893f4f2ee17368f2b6	Indiana Jones and the Last Crusade (Europe).md
 e927417e67f1ff3170cc027ff1e96726	Indiana Jones and the Last Crusade (USA).md
+43b719d45be2b5f9aba397b7893a1342	Insane Pain (World) (Aftermarket) (Unl).md
+2a65d27a7f94373a060e93aefb61e4ac	Insane Pain (World) (Demo) (Aftermarket) (Unl).md
 ae4322417c5827364837d04a2952facb	Insector X (Japan, Korea) (Ja).md
 77574085187602bf50dd1167da389f60	Insector X (USA).md
 242315932a430ce96ea1472c7f9d3c4f	Instruments of Chaos Starring Young Indiana Jones (USA) (Beta) (1993-09-23).md
@@ -985,38 +1030,39 @@ b81db9e2ae0f50bfc484e03a2caac95c	James Bond 007 - The Duel (Europe).md
 d7937eee5a0fa4fabb035a2862bcd78d	James Bond 007 - The Duel (USA).md
 aacf7533fd8e45b95321a57b01fb3ac8	James Pond - Underwater Agent (USA, Europe).md
 0a72b5846ff1766662809318cf000c22	James Pond 3 (USA, Europe).md
-3f371946ef10d5b1b3518b73494d0800	James Pond II (Japan, Korea) (Ja).md
 bb689dd3822853a5417cdec4a3da114b	James Pond II - Codename - Robocod (USA, Europe).md
+3f371946ef10d5b1b3518b73494d0800	James Pond II (Japan, Korea) (Ja).md
 946d261192111ed5baaae7c7d917d1be	Jammit (USA).md
 7d4a52519b699a85892253b4c873adc9	Janou Touryuumon (Japan).md
 576deb909f11bcc8703a91dd049f5960	Jantei Monogatari (Japan).md
 32c09d5fe55a2f484d8b75d8b7833e8e	Jashin Draxos (Japan, Korea) (Ja).md
 82d43fe67f4beae110ec3e9b90ea1957	Jelly Boy (Europe) (Proto).md
 ea494b132b8efdd4bceac47546835686	Jennifer Capriati Tennis (USA).md
-52cfd0dbafdf1516defb25dddb1ee72e	Jeopardy! (USA).md
 2cb0aa5c63727cd36ae861c02b93ab64	Jeopardy! - Deluxe Edition (USA).md
 bf90809f22e6be0ce0c693613d488bb0	Jeopardy! - Sports Edition (USA).md
+52cfd0dbafdf1516defb25dddb1ee72e	Jeopardy! (USA).md
 de6153f3bb6a8888cbcb05fb56824c9c	Jerry Glanville's Pigskin Footbrawl (USA).md
 45146951c9643897cea7303b19ba522f	Jesse 'The Body' Ventura - Wrestling Superstars (USA) (Proto) (1992-03-02).md
+b5524977438ea5691741c1464655caaa	Jessie Jaeger in Cleopatra's Curse (World) (Demo) (Aftermarket) (Homebrew).md
 cbc5b61a39963d4ce24d874034caaf08	Jewel Master (Japan).md
 42ec7e0894625345be8021f9d5f5d52f	Jewel Master (USA, Europe).md
 4ac093ab296ad0bff229431eb2bc6ea6	Jim Power - The Arcade Game (USA) (Proto).md
-41a3e2f168651ca46697457453d9b5b8	Jim Power - The Lost Dimension in 3D (World) (Aftermarket) (Unl).md
+41a3e2f168651ca46697457453d9b5b8	Jim Power - The Lost Dimension (World) (Aftermarket) (Unl).md
 7643bf8341cd0b447da1f5b9284741f7	Jimmy White's Whirlwind Snooker (Europe).md
 964d411b692e0788063ec8b0896f87b9	Jiu Ji Ma Jiang II - Ye Yan Bian (Taiwan) (Unl).md
 9800244038a6235c6d437582aa75f52f	Joe & Mac (USA).md
 f80d0fb38db6e4cb0f1218130d934887	Joe Montana Football (World).md
 853ca91d72d5ed10212cbc725dfb914f	Joe Montana II - Sports Talk Football (World) (Rev A).md
 00820ca4790d5a9de2c441f895f915ce	Joe Montana II Sports Talk Football (World).md
+0fca001847700bfc51f52062c9f05b84	John Madden Football - Championship Edition (USA).md
+27c9f20efbe9cb4fc2156f2490fe07a2	John Madden Football - Pro Football (Japan).md
 b1935fa5d19abf16029fa2e9d4024343	John Madden Football '92 (USA, Europe).md
 5046a4926046bcd2df4ff64b9cabb155	John Madden Football '93 (USA, Europe).md
 14ad9d36ad7ee100a383105b9f1c08f3	John Madden Football (USA, Europe) (1990-11-07) (Sega Channel).md
 6c2b1deff4ad246d5ac0962591e1f974	John Madden Football (USA, Europe).md
-0fca001847700bfc51f52062c9f05b84	John Madden Football - Championship Edition (USA).md
-27c9f20efbe9cb4fc2156f2490fe07a2	John Madden Football - Pro Football (Japan).md
+bb9bcdfb8f8665b69b60200108261d37	Jordan vs Bird - One on One (Japan).md
 0b37c95079a0c8e64230df35eb3888c2	Jordan vs Bird (USA, Europe) (Rev A).md
 ccd6d37edf46f4cbcd13f5677fa8e7a0	Jordan vs Bird (USA, Europe).md
-bb9bcdfb8f8665b69b60200108261d37	Jordan vs Bird - One on One (Japan).md
 c3b02c8bfcfc274cc222378547308a8b	Joshua & the Battle of Jericho (USA) (Unl).md
 62ccc620d3a721c9040d85aa5d540f86	Journey from Darkness - Strider Returns (USA).md
 e99630f4ff63cca1ad99e278e4c8fc75	Judge Dredd (World) (Beta).md
@@ -1027,17 +1073,11 @@ e99630f4ff63cca1ad99e278e4c8fc75	Judge Dredd (World) (Beta).md
 03a83c6c7392549b47b006c6e9c38fe0	Jungle Book, The (Europe).md
 2e1c1f784c9463152cd1a772f87677af	Jungle Book, The (USA).md
 53f890e43080af23af86f91e1eea755b	Jungle Book, The (World) (Disney Classic Games).md
+88beb2a76ca723a42fecdf586d90b9c8	Jungle Strike - Uketsugareta Kyouki (Japan).md
 3fe418d2e1814af8d830f1cb74493fc2	Jungle Strike (USA, Europe) (Beta).md
 3164c16bab8088a7991857750edaecb6	Jungle Strike (USA, Europe).md
-88beb2a76ca723a42fecdf586d90b9c8	Jungle Strike - Uketsugareta Kyouki (Japan).md
 021d5ec551553eabca22eb2b3291e4b6	Junker's High (Japan) (En) (Beta 1).md
 d39b5933c1ab96200a10eb79f170217b	Junker's High (Japan) (En) (Beta 2).md
-39cefbb0b13c0265bc6a7c60801c67b3	Jurassic Park (Europe) (1993-06-14) (Sega Channel).md
-d60d4f1a43f4beb1e5a108a8611e560e	Jurassic Park (Europe).md
-161b4f3d69d02e9ca4a1937595d2d1ba	Jurassic Park (Japan).md
-af1a954438afa382ff2325ce1a886fc3	Jurassic Park (USA) (1993-05-26) (Sega Channel).md
-5baa7d4047ad269043a85090ff44c611	Jurassic Park (USA) (Beta) (June, 1993).md
-fee5032759c495abc72e405c63c90e1f	Jurassic Park (USA).md
 c7ef6252266d19b61019714d066f8b20	Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-06-20).md
 d51ce6640c0073ef88fe2412d685b7ba	Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-06-22).md
 14d7fbdaf5f734079b10c1208e5fd8a6	Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-06-30).md
@@ -1048,14 +1088,20 @@ c0c3794cc57cca89ddc1195c4040bc5d	Jurassic Park - Rampage Edition (USA, Europe) (
 2bf562c58817845df52fd173ea56316a	Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-07-17).md
 946839ac8c501ec4c4ed085e9083a0b8	Jurassic Park - Rampage Edition (USA, Europe) (Beta) (1994-07-18).md
 67c489b34827bb4fae2ba93e8d2a919e	Jurassic Park - Rampage Edition (USA, Europe).md
+39cefbb0b13c0265bc6a7c60801c67b3	Jurassic Park (Europe) (1993-06-14) (Sega Channel).md
+d60d4f1a43f4beb1e5a108a8611e560e	Jurassic Park (Europe).md
+161b4f3d69d02e9ca4a1937595d2d1ba	Jurassic Park (Japan).md
+af1a954438afa382ff2325ce1a886fc3	Jurassic Park (USA) (1993-05-26) (Sega Channel).md
+5baa7d4047ad269043a85090ff44c611	Jurassic Park (USA) (Beta) (June, 1993).md
+fee5032759c495abc72e405c63c90e1f	Jurassic Park (USA).md
 32cc1d869d4cc50c303388b06ef0cefd	Justice League Task Force (World).md
 1351733931c06014e45f091d25a92e29	Juuouki (Japan) (Rev A).md
 f7c86af04ad73edfa931f2e35cab3d93	Juuouki (Japan).md
 1d93a0b3b7c86b9957036677557c9efd	Juusou Kihei Leynos (Japan) (Switch Online).md
 72b17b0e8991bbe8c6bd2a8ca3b66683	Juusou Kihei Leynos (Japan) (Virtual Console).md
 ea778ca85d7a5d0d1b69ae0c44c54204	Juusou Kihei Leynos (Japan).md
-1e593b65ce45c68692d4d49b266a1727	Ka-Ge-Ki (Japan).md
 31ca6dabd0443625f0c7ce3c1a6229c6	Ka-Ge-Ki - Fists of Steel (USA).md
+1e593b65ce45c68692d4d49b266a1727	Ka-Ge-Ki (Japan).md
 29da0d26615fc89885ef201b03bf1355	Kawasaki Superbike Challenge (USA, Europe) (Beta).md
 159dd6bef1cf7df913fd4ac98138d9e7	Kawasaki Superbike Challenge (USA, Europe).md
 bb98f63238f108c1aedda815493c44c6	Kick Boxing, The (Japan, Korea) (En).md
@@ -1072,8 +1118,8 @@ ab286ef8012fe4a853b2d484589df96d	King of Fighters '99, The (Taiwan) (Unl).md
 69f1b273f695032f0b542421928e8e9a	King of the Monsters (Japan).md
 f3bc95d05f6290a3dceea499b3bba094	King of the Monsters (USA).md
 65ee5a29e73a4c5c62da5da6920ed4d8	King of the Monsters 2 (USA).md
-2dc2cfd8db571f7edfb1d7ac1281fbc7	King Salmon (Japan).md
 0423ebd4abb1da95f758dba60231a00f	King Salmon - The Big Catch (USA).md
+2dc2cfd8db571f7edfb1d7ac1281fbc7	King Salmon (Japan).md
 1bb8e1e5d41bbeff2e452935bddd9883	King's Bounty - The Conqueror's Quest (USA, Europe).md
 02fe0ed289a6cc0bd64d383e805b9471	Kishi Densetsu (Japan).md
 75aa195d4bf663e93f3f6e9548f59441	Kiss Shot (Japan) (SegaNet).md
@@ -1089,14 +1135,10 @@ fb185d5bd814d7d51d3f15c6f20e75f3	Koutetsu Teikoku (Japan).md
 7d6722c4813f4a8481346a6aa1472b6a	Kyuukai Douchuuki (Japan) (Rev 1) (Beta) (Sega Channel).md
 5407fbb67cc8664760d073c72c04f392	Kyuukai Douchuuki (Japan).md
 c7a3369029237556a342532ffc786a18	Kyuukyoku Tiger (Japan).md
-bc2e5590cc0e7b6e863b4275343839d4	L'Abbaye des Morts (World) (Aftermarket) (Unl).md
+bc2e5590cc0e7b6e863b4275343839d4	Abbaye des Morts, L' (World) (Aftermarket) (Homebrew).md
 cf08b9bc626cc9da0a3b8debd28ed290	La Russa Baseball 95 (USA, Australia).md
 f5f767662c8583fe124bc9a100d4db68	Lakers versus Celtics and the NBA Playoffs (USA, Europe) (Beta).md
 1c224caf835ad4c19f9477dc5d1e9086	Lakers versus Celtics and the NBA Playoffs (USA, Europe).md
-ff2dec1b3e41e5012a2fbe0cf0eaa9e0	Landstalker (USA) (1993-07-13) (Sega Channel).md
-8411ed74c77f2282bb0cd9398027cdee	Landstalker (USA) (Beta) (1993-02-24).md
-dbaa50ee8b061b573c33337e18329ecd	Landstalker (USA) (Genesis Mini).md
-04ae2b65f3a11a7504339e60735beed8	Landstalker (USA).md
 890171e3d0671b0ac49470e592f0ea99	Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini).md
 2b6ee5677a6233fd98f0b90b51684991	Landstalker - Die Schatze von Konig Nolo (Germany).md
 dcc153ec3ca6b4e84f987782038c82c0	Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini).md
@@ -1105,6 +1147,10 @@ a8e797ebaae6dc09020074b03b57ed75	Landstalker - Le Tresor du Roi Nole (France) (M
 0bee733207842672479cc0f2775290ba	Landstalker - Le Tresor du Roi Nole (France).md
 4feae5987b0c552b84620f3d48bd8c4b	Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini).md
 6397f7029f90f59881bdc4174eafb52f	Landstalker - The Treasures of King Nole (Europe).md
+ff2dec1b3e41e5012a2fbe0cf0eaa9e0	Landstalker (USA) (1993-07-13) (Sega Channel).md
+8411ed74c77f2282bb0cd9398027cdee	Landstalker (USA) (Beta) (1993-02-24).md
+dbaa50ee8b061b573c33337e18329ecd	Landstalker (USA) (Genesis Mini).md
+04ae2b65f3a11a7504339e60735beed8	Landstalker (USA).md
 4759f8db3ee29d85f7087886d813c04b	Langrisser (Japan).md
 3de30d43a6433e91429535c3496f07da	Langrisser II (Japan) (Rev A).md
 a5de915f62156feb8680f9cf34017dbd	Langrisser II (Japan) (Rev B).md
@@ -1146,18 +1192,39 @@ ecd707daec1c307269d5f6a5f9f69657	Lion King 3 (Taiwan) (En) (Unl).md
 a336913f4325c18e22ece1d680a41bbb	Lion King II (Taiwan) (En) (Unl).md
 81a801695c3712ab537bb5fe0fcd8329	Lion King, The (World) (Disney Classic Games).md
 e37bf6813648ec5e8bdbd2f7070010f8	Lion King, The (World).md
-be56b29c5279367e27dfb83d6edfbff8	Little Medusa (World) (Aftermarket) (Unl).md
-b0f545fc1e2ead78ea2e2ea8cecbfccb	Little Medusa (World) (Demo) (Aftermarket) (Unl).md
-3f0f3056f182101bcf60d29871fe18f6	LIZARDPAINT (World) (2021-08-21) (Beta) (Aftermarket) (Homebrew).md
-dcc916e9cbd4931e102bf94b5d9e45da	LIZARDPAINT (World) (2021-10-28) (Beta) (Aftermarket) (Homebrew).md
-999abf2b7a39df968a879a862d1fc726	LIZARDPAINT (World) (2021-11-14) (Beta) (Aftermarket) (Homebrew).md
-8831de58c996ae3369c3f41634cebc02	LIZARDPAINT (World) (2021-12-01) (Beta) (Aftermarket) (Homebrew).md
-efce47315a7bfc25fe021af462ec71d6	LIZARDPAINT (World) (2022-01-06) (Beta) (Aftermarket) (Homebrew).md
-c49149368119972ba896921dc294615a	LIZARDPAINT (World) (2022-01-29) (Beta) (Aftermarket) (Homebrew).md
-48d30d5a19436ba9293a68bd5c56a6b7	LIZARDPAINT (World) (2022-02-09) (Beta) (Aftermarket) (Homebrew).md
-688ccaeb0551a9a9d6465e3220b29ae0	LIZARDPAINT (World) (2022-02-19) (Beta) (Aftermarket) (Homebrew).md
-c3d65b17c700c90d17921789dd2af9b4	LIZARDPAINT (World) (v0.1) (Aftermarket) (Homebrew).md
-f5ab9b9ab9d0b07a3041d2d969039a7a	LIZARDPAINT (World) (v0.3) (Itch.io) (Aftermarket) (Homebrew).md
+10a5154c5c9047c1baa1f7d6f8a87932	Little Medusa (USA) (Aftermarket) (Unl).md
+be56b29c5279367e27dfb83d6edfbff8	Little Medusa (World) (Aftermarket) (Unl).md (Deprecated)
+b0f545fc1e2ead78ea2e2ea8cecbfccb	Little Medusa (USA) (Demo) (Aftermarket) (Unl).md
+3f0f3056f182101bcf60d29871fe18f6	LIZARDPAINT (World) (Beta) (2021-08-21) (Aftermarket) (Homebrew).md
+dcc916e9cbd4931e102bf94b5d9e45da	LIZARDPAINT (World) (Beta) (2021-10-28) (Aftermarket) (Homebrew).md
+999abf2b7a39df968a879a862d1fc726	LIZARDPAINT (World) (Beta) (2021-11-14) (Aftermarket) (Homebrew).md
+8831de58c996ae3369c3f41634cebc02	LIZARDPAINT (World) (Beta) (2021-12-01) (Aftermarket) (Homebrew).md
+efce47315a7bfc25fe021af462ec71d6	LIZARDPAINT (World) (Beta) (2022-01-06) (Aftermarket) (Homebrew).md
+c49149368119972ba896921dc294615a	LIZARDPAINT (World) (Beta) (2022-01-29) (Aftermarket) (Homebrew).md
+48d30d5a19436ba9293a68bd5c56a6b7	LIZARDPAINT (World) (Beta) (2022-02-09) (Aftermarket) (Homebrew).md
+688ccaeb0551a9a9d6465e3220b29ae0	LIZARDPAINT (World) (Beta) (2022-02-19) (Aftermarket) (Homebrew).md
+70418af16a8ee9260f744683919da31b	LIZARDPAINT (World) (Beta) (2022-02-27) (Aftermarket) (Homebrew).md
+6d3581b66b34de8808870dc42d7d4da4	LIZARDPAINT (World) (Beta) (2022-03-04) (Aftermarket) (Homebrew).md
+527841025887a69041c9cfba83b7e6f8	LIZARDPAINT (World) (Beta) (2022-03-12) (Aftermarket) (Homebrew).md
+44c7e43296c12c01b73fe93bed927f8b	LIZARDPAINT (World) (Beta) (2022-03-13) (Aftermarket) (Homebrew).md
+6558e51ab002483c4e0500054bd41a5d	LIZARDPAINT (World) (Beta) (2022-03-27) (Aftermarket) (Homebrew).md
+33e3e9ab096a8560e0473a47eb1b3789	LIZARDPAINT (World) (Beta) (2022-03-29) (Aftermarket) (Homebrew).md
+12e3d676ec2f842d09e9e574f23b5e42	LIZARDPAINT (World) (Beta) (2022-03-31) (Aftermarket) (Homebrew).md
+16bf57387bf2ea8fde5173979a2d17a3	LIZARDPAINT (World) (Beta) (2022-04-17) (Aftermarket) (Homebrew).md
+8149095b75cf835133e951c48c529995	LIZARDPAINT (World) (Beta) (2022-04-18) (Aftermarket) (Homebrew).md
+06cfcd070c4d257f4aa22f879620c2b1	LIZARDPAINT (World) (Beta) (2022-04-22) (Aftermarket) (Homebrew).md
+1d14f00914dd3d01e275b92f37cd72c5	LIZARDPAINT (World) (Beta) (2022-04-24) (Aftermarket) (Homebrew).md
+5545f7a513eabf68ce8dae14b21dad08	LIZARDPAINT (World) (Beta) (2022-04-28) (Aftermarket) (Homebrew).md
+61f36f5f39466d41aaca5ff62b22ab0b	LIZARDPAINT (World) (Beta) (2022-05-18) (Aftermarket) (Homebrew).md
+2d85209469fca740a9b7b34028a2ebce	LIZARDPAINT (World) (Beta) (2022-05-24) (Aftermarket) (Homebrew).md
+938fb6c42271c17083fb5cd1152eb952	LIZARDPAINT (World) (Beta) (2022-06-12) (Aftermarket) (Homebrew).md
+613b90312a1b1efe711d768da1e70f58	LIZARDPAINT (World) (Beta) (2022-06-16) (Aftermarket) (Homebrew).md
+d5659e972cb494d796daae1f8141ef77	LIZARDPAINT (World) (Beta) (2022-06-19) (Aftermarket) (Homebrew).md
+229b2a87b1e3c7068ce15582fd45d929	LIZARDPAINT (World) (Beta) (2022-07-31) (Aftermarket) (Homebrew).md
+73d8c5ae791456a047c23c7eec61e9be	LIZARDPAINT (World) (Beta) (2022-08-11) (Aftermarket) (Homebrew).md
+07f24ba589de99a8a33b3ccc479104e5	LIZARDPAINT (World) (Beta) (2022-10-22) (Aftermarket) (Homebrew).md
+c3d65b17c700c90d17921789dd2af9b4	LIZARDPAINT (World) (Beta) (2021-12-11) (Aftermarket) (Homebrew).md
+f5ab9b9ab9d0b07a3041d2d969039a7a	LIZARDPAINT (World) (Beta) (2022-05-01) (Aftermarket) (Homebrew).md
 b0091b0ec36782ef36ee0bd6205e337b	Lobo (USA) (Proto) (Alt).md
 0a9cc02ee4ee9f0d8d1009b3de989db1	Lobo (USA) (Proto).md
 5e06d2de451ecc57a9a91577bb0dc59c	Lord Monarch - Tokoton Sentou Densetsu (Japan).md
@@ -1173,7 +1240,8 @@ de307ec9370007eafb208703e48358c5	Lufia & the Fortress of Doom (USA) (Proto).md
 5377f8f1c83c521ccfb96457be9b2c78	M-1 Abrams Battle Tank (USA, Europe).md
 b37a99a48e93a4e6d883c651fdef0a8c	Ma Jiang Qing Ren - Ji Ma Jiang Zhi (Taiwan) (Unl).md
 b6ce4e32558f71766b662cb741cd4570	Ma Qiao E Mo Ta - Devilish Mahjong Tower (Taiwan) (Unl).md
-409dffabac473bfab882d9cdbfb9ba03	Mad Stalker - Full Metal Forth (World) (Aftermarket) (Unl).md
+984b50a8a940d39b9c7c93c946b61fe3	Mad Stalker - Full Metal Forth (USA, Europe) (Strictly Limited) (Aftermarket) (Unl).md
+409dffabac473bfab882d9cdbfb9ba03	Mad Stalker - Full Metal Forth (Japan) (En) (Columbus Circle) (Aftermarket) (Unl).md
 9ca0c88961d110eaef383a0d8e3f22f6	Madden NFL '94 (USA, Europe).md
 52b7e1ce6ae02a5b5c178d4df865b1dd	Madden NFL 95 (USA, Europe).md
 f997e2088e3728941cbe3bf491b3496e	Madden NFL 96 (USA, Europe).md
@@ -1182,7 +1250,7 @@ e3044f5de786cfa13f2d689e427f62e3	Madden NFL 98 (USA).md
 41b8ba3569e3f4f98155dea64318d223	Madou Monogatari I (Japan).md
 c6a8ee07c4c7f161c3fc7b18d31b7691	Magic Bubble (Taiwan) (En) (Unl).md
 d770152481b08d685025a1a13787f0d6	Magic Girl Featuring Ling Ling the Little Witch (World) (Aftermarket) (Unl).md
-21b5455c403a99a382af7a5ecb2ebb35	Magic Pockets (World) (Aftermarket) (Unl).md
+21b5455c403a99a382af7a5ecb2ebb35	Magic Pockets (USA, Europe) (Aftermarket) (Unl).md
 b560feeb823e4b62b8b91512986b3639	Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-01-12).md
 816e52df3c5b86c068af27ad22cfcd42	Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-02-02).md
 6b38d386658847b58ad2a987ae94dbca	Magic School Bus, The - Space Exploration Game (USA) (Beta) (1995-02-17).md
@@ -1221,23 +1289,23 @@ ac2b187f80174678c8e9941d75f55b52	Marvel Land (USA).md
 6d28b0c2d6cf454328a8dcd24b5afc0d	Master of Weapon (Japan).md
 e1bd8ccb5c427b4f95f65a4ea771b345	Maten no Soumetsu (Japan).md
 84873c9aef8ad04e4a2b6a113bd68015	Math Blaster - Episode 1 (USA).md
+f978463dca8bc6f44f28c665b59965f6	Mazin Saga - Mutant Fighter (USA).md
 a9979ae2dd33c6db2c2bd87a28d5ebde	Mazin Saga (Asia) (En).md
 f3ae6147d9ad2d40e781a49c7263f746	Mazin Saga (Japan, Korea) (Ja).md
-f978463dca8bc6f44f28c665b59965f6	Mazin Saga - Mutant Fighter (USA).md
 f1b8477c6f20e4a4491f01dbc4d869ec	Mazin Wars (Europe).md
 114fa05e09fb388e5b9e42f77eef27c8	McDonald's Treasure Land Adventure (Europe).md
 eb082494a52b859fef977c81ab1250a6	McDonald's Treasure Land Adventure (Japan) (Beta).md
 a4c53fe9e340caa1380efb06e2244f02	McDonald's Treasure Land Adventure (Japan).md
 2346c99595a4f341e39e6ec75fe19908	McDonald's Treasure Land Adventure (USA).md
-a9f6b6972b48c1c6f2b81ed017c7de0d	MD Soft Checker (World) (v0.30) (Unl).md
+a9f6b6972b48c1c6f2b81ed017c7de0d	MD Soft Checker (Unknown) (v0.30) (Proto) (Unl).md
 8be07f540b64f5acd7bc2c756c88ad51	Medal City (Japan) (SegaNet).md
-c332cf402e2198f4b1a18adf47df1d07	Mega 3D Noah's Ark (Unknown) (Aftermarket) (Unl).md
+c332cf402e2198f4b1a18adf47df1d07	Mega 3D Noah's Ark (USA) (Aftermarket) (Unl).md
 7a87e2e7bb4535603d1f07240b47cd0d	Mega 6 Vol. 3 (Europe).md
 48577e9f9a9c12499838ca3fa1d396e7	Mega Anser (Japan) (Program).md
+e4392bd5e77321e8ec6e76a142e9536b	Mega Bomberman - Special 8-Player-Demo (Europe) (Proto).md
 5a94b1e8792bb3572db92c2019d99377	Mega Bomberman (Europe, Korea) (En).md
 514f6cad98f5f632d680983a050fffc4	Mega Bomberman (USA).md
-e4392bd5e77321e8ec6e76a142e9536b	Mega Bomberman - Special 8-Player-Demo (Europe) (Proto).md
-a3d238453236b9c7cb6f64e3c55dfbe1	Mega Cheril Perils (World) (En,Es) (Aftermarket) (Unl).md
+a3d238453236b9c7cb6f64e3c55dfbe1	Mega Cheril Perils (World) (En,Es) (Aftermarket) (Homebrew).md
 d9e4ef8f23f3573557701e0e67cf1b34	Mega Games 2 (Europe).md
 b03cfa8f4b28f90a204f336e1f8880b4	Mega Games 3 (Europe, Asia) (En).md
 509e5a476d07aba79dc461c29f71fc69	Mega Games 6 (Europe).md
@@ -1249,11 +1317,11 @@ fb4fc95ce806265417bb44eec2aca488	Mega Man - The Wily Wars (USA) (Aftermarket) (U
 8e860e4f7c7ee5febad9134a56766112	Mega Man - The Wily Wars (USA) (Genesis Mini).md
 67f3770662b804ed25543d46a0f7b3e3	Mega Marble World (World) (Aftermarket) (Unl).md
 1e29842b5721eb1845bb55e0a2e31cef	Mega SWIV (Europe).md
+ef94581f72e2c46e8832f3d6fbb92815	Mega Turrican - Director's Cut (World) (Aftermarket) (Unl).md
 de3c63abb34a54d264f8d5ea1bcb40d9	Mega Turrican (Europe).md
 5878569bf3a7efde76fc7120fb3299de	Mega Turrican (Japan) (En) (Proto) (1993-05-18).md
-8d73db292f0f4c838e72086fb3d5896b	Mega Turrican (USA).md
 2a69cba305fc404f9e50b3ba1683d3a3	Mega Turrican (USA, Europe) (Virtual Console).md
-ef94581f72e2c46e8832f3d6fbb92815	Mega Turrican - Director's Cut (World) (Aftermarket) (Unl).md
+8d73db292f0f4c838e72086fb3d5896b	Mega Turrican (USA).md
 a4561b736011c91e43c18aa8971cdead	Mega-lo-Mania (Europe) (Beta).md
 e622bc3c4a61aacc2efc1fe4c580987f	Mega-lo-Mania (Europe).md
 1b06184a4c719b8435f574acdab0183d	Mega-lo-Mania (France).md
@@ -1263,29 +1331,31 @@ e38549b6eb3e260e458c6de91059ceeb	MegaPanel (Japan).md
 714dde65fbc29189f18a58c4556c8441	MegaTrax (Japan).md
 87bf5af19eb663526ad00ecf7b0b923b	Menacer - 6-Game Cartridge (USA, Europe).md
 8ef5880ad7df2d37ca6b7333b240f5e3	Meng Huan Shui Guo Pan - 777 Casino (Taiwan) (Unl).md
-f3652cb7cff14165347309cd07dbf3a8	Metal Blast 2277 (World) (Beta) (Aftermarket) (Unl).md
-5e8f955f9aafc7e9608158282be6b5b5	Metal Blast 2277 (World) (Rev 1) (Aftermarket) (Unl).md
+5e8f955f9aafc7e9608158282be6b5b5	Metal Blast 2277 (World) (Aftermarket) (Homebrew).md
+f3652cb7cff14165347309cd07dbf3a8	Metal Blast 2277 (World) (Demo) (Aftermarket) (Homebrew).md
+48a3f7c7eefaa92c0efc0cf7883f94e2	Metal Dragon (World) (Aftermarket) (Unl).md
+79bd3328fb3ca5ddf586e900580eb815	Metal Dragon (World) (v1.2) (Demo) (Aftermarket) (Homebrew).md
 2e54c5d255ff54027741a2cbbd699cfc	Metal Fangs (Japan).md
 a72e7aa20c5f5ad49e8f51a79a7e9db6	Michael Jackson's Moonwalker (Japan, USA) (En) (Beta) (1990-04-24).md
 7baf9fb775ee130bd7a4a779cb3bb612	Michael Jackson's Moonwalker (Japan, USA) (En).md
 73b63cac3f15bfe4a7bad170654878a9	Michael Jackson's Moonwalker (World) (Rev A).md
 c18e9f1725a7b09f2f32274525a8376b	Mick & Mack as the Global Gladiators (USA) (Beta).md
 c39fe061955784a4625255f4d04084c6	Mick & Mack as the Global Gladiators (USA).md
-118727b2aa80b040c04ecb5be651a137	Mickey Mania (Europe).md
 b7f2cb46e00e6eeec726646565d850a7	Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan).md
 9c0038c8184a8f6ab7e72ea0fa3ba319	Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta) (July, 1994).md
 d752591d162bb9ca29381907b5391151	Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Beta) (September, 1994).md
 965536e24760755413ae316d935710b1	Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).md
+118727b2aa80b040c04ecb5be651a137	Mickey Mania (Europe).md
 34b498ba6ea5caf365cbaf6dd8c7be65	Mickey's Ultimate Challenge (USA).md
+0ed4f381232e15cb3c211773cc07ff46	Micro Machines - Military (Europe) (Beta) (1995).md
+d2b796a42fe1778aac17deab6328daf4	Micro Machines - Military (Europe) (J-Cart).md
+3af236e164e601cfeb6d8bf5461561b2	Micro Machines - Turbo Tournament 96 (Europe) (J-Cart).md
+618a52d7fbd8bfaa5e61d2129c8b8790	Micro Machines - Turbo Tournament 96 (Europe) (Rev 1) (J-Cart).md
 aee593260dc6d484534b30914bba1768	Micro Machines (Europe) (Alt 2).md
 096a90957fe6945593ccdc9e34894daa	Micro Machines (Europe) (Alt).md
 bdd8341f55f01202a48fcddf5bf80ff7	Micro Machines (Europe).md
 a3e8d48a5ffc999a3eecab8788765352	Micro Machines (USA) (Rev 1).md
 ee7375a2a9e37f8b509a89a6bc894376	Micro Machines (USA).md
-0ed4f381232e15cb3c211773cc07ff46	Micro Machines - Military (Europe) (Beta) (1995).md
-d2b796a42fe1778aac17deab6328daf4	Micro Machines - Military (Europe) (J-Cart).md
-3af236e164e601cfeb6d8bf5461561b2	Micro Machines - Turbo Tournament 96 (Europe) (J-Cart).md
-618a52d7fbd8bfaa5e61d2129c8b8790	Micro Machines - Turbo Tournament 96 (Europe) (Rev 1) (J-Cart).md
 0980fec3d90834b4c7656b8a6f9bb394	Micro Machines 2 - Turbo Tournament (Europe) (Beta).md
 a145194b26c433c8a7159a00bafaba06	Micro Machines 2 - Turbo Tournament (Europe) (J-Cart).md
 37a2f11d27e7e51e62e98626c88b9094	Micro Machines 2 - Turbo Tournament (Europe).md
@@ -1297,6 +1367,13 @@ db69170eaa55e68ca07933ceb308f0d0	Mig-29 Fighter Pilot (Japan).md
 e7ab4977ef73dd022efb810f5eaa75a1	Mig-29 Fighter Pilot (USA).md
 3238047522caa4e27be2720da924777e	Might and Magic - Gates to Another World (USA, Europe).md
 aff745871eb8474342bfcad745449f64	Might and Magic III - Isles of Terra (USA) (Proto).md
+92d06b0670d46cdd6c876dcdbf03f684	Mighty Morphin Power Rangers - The Fighting Edition (Russia) (En) (Unl).md
+26fc4c87e79f3c30893012418df74a2d	Mighty Morphin Power Rangers - The Movie (Europe).md
+38caec28e34d73c7e4f8ebccd38f548a	Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-13).md
+d5bb474e4938064a3bdb999f2db93614	Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-17).md
+0e3c6f85e7406a31dd8f48aae407069a	Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-22).md
+5ff5ece053c19c3611426567403e8d61	Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-24).md
+bbf3c7bfad1e2110da1469c711949709	Mighty Morphin Power Rangers - The Movie (USA).md
 7d800e5a1426e91b168c5ac049e048fc	Mighty Morphin Power Rangers (Europe) (Beta) (1994-08-10).md
 822ad49995f8958d32f46948885f1564	Mighty Morphin Power Rangers (Europe).md
 51c72d8d2858e4f4bd517fa438014f1f	Mighty Morphin Power Rangers (USA) (Beta) (1994-07-08).md
@@ -1305,31 +1382,25 @@ a29f4f9903a0840e59191d12c6804503	Mighty Morphin Power Rangers (USA) (Beta) (1994
 e15e457bf701e1915726d01f5c25e1ed	Mighty Morphin Power Rangers (USA) (Beta) (1994-08-08).md
 c71f72a8dfda92c9ffe90c9c94d55570	Mighty Morphin Power Rangers (USA) (Beta) (1994-08-09).md
 cdcfb24231942f535a18d2097ab5b68e	Mighty Morphin Power Rangers (USA).md
-92d06b0670d46cdd6c876dcdbf03f684	Mighty Morphin Power Rangers - The Fighting Edition (Russia) (En) (Unl).md
-26fc4c87e79f3c30893012418df74a2d	Mighty Morphin Power Rangers - The Movie (Europe).md
-38caec28e34d73c7e4f8ebccd38f548a	Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-13).md
-d5bb474e4938064a3bdb999f2db93614	Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-17).md
-0e3c6f85e7406a31dd8f48aae407069a	Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-22).md
-5ff5ece053c19c3611426567403e8d61	Mighty Morphin Power Rangers - The Movie (USA) (Beta) (1995-07-24).md
-bbf3c7bfad1e2110da1469c711949709	Mighty Morphin Power Rangers - The Movie (USA).md
 60d51185c2a016223139e8e6ed8551ef	Mike Ditka Power Football (USA, Europe) (Unl) (Alt).md
 0df01daf6765a1c38377210e7957955d	Mike Ditka Power Football (USA, Europe) (Unl).md
 e4696cf8c27514b62c88609d0d9c6e6a	Mikeyeldey - The Album (World) (Aftermarket) (Homebrew).md
 75d911e5dc04c429c2f6d64332021b2b	Minato no Traysia (Japan).md
-3ec9c76756fd0cd2cde792ce5ae33afd	Miniplanets (World) (Rev 2) (Aftermarket) (Unl).md
-b9d6441165975395b689925ae95ec044	Miniplanets (World) (Rev 3) (Aftermarket) (Unl).md
+3ec9c76756fd0cd2cde792ce5ae33afd	Miniplanets (World) (v1.2) (Aftermarket) (Homebrew).md
+b9d6441165975395b689925ae95ec044	Miniplanets (World) (v1.3) (Aftermarket) (Homebrew).md
+6a74f11892413c71c3c91487a1e2ea2c	Miniplanets Remix (World) (Aftermarket) (Homebrew).md
 ba0d92682de268f7ac833e572d27dbd8	Minnesota Fats - Pool Legend (USA).md
 72b4e2c76751a91726f5e1fb2e8e129f	Miracle Piano Teaching System, The (USA).md
-329974a6315d191b7a9e7292f6a71133	Misplaced (Russia) (Aftermarket) (Unl).md
-4b1019bdf1e20b32278c913ce9602d65	Misplaced (World) (Aftermarket) (Unl).md
+4b1019bdf1e20b32278c913ce9602d65	Misplaced (World) (En) (Aftermarket) (Unl).md
+329974a6315d191b7a9e7292f6a71133	Misplaced (World) (Ru) (Aftermarket) (Unl).md
 5ad8f8ad871f8c2a4d669cac6759090c	MK5 - Mortal Kombat Mythologies - Sub-Zero (Taiwan) (En) (Unl).md
 87fd7645d1d8f2539a341285fc697aa7	MLBPA Baseball (USA).md
 313949538eb777c6e9725df2681672ea	Mondu's Fight Palace (USA) (Beta) (1990-07-03).md
 32ca66e6a43413fbfded7848d876384f	Monopoly (USA) (Beta).md
 40794bbfc3f9a73df5255fe6d10b5107	Monopoly (USA).md
 4bbdae4e4c1e0ae2de3c49dc34f61d5c	Monster World IV (Japan).md
-cf4f52d57063cd381977bc02d757737f	Monster World IV (USA) (Genesis Mini).md
 2640c0b879dd52db3e328c14c36095f0	Monster World IV (USA, Europe) (En,Ja) (Virtual Console).md
+cf4f52d57063cd381977bc02d757737f	Monster World IV (USA) (Genesis Mini).md
 e0bb4d00ea95b75aac52851fb4d8ee47	Mortal Kombat (USA, Europe) (Rev A) (Beta).md
 68c5004b8c3c6a8158f5060d86f84744	Mortal Kombat (World) (Beta).md
 a1dd8a3e4b8c98dee49d5e90d6b87903	Mortal Kombat (World).md
@@ -1337,8 +1408,8 @@ a1dd8a3e4b8c98dee49d5e90d6b87903	Mortal Kombat (World).md
 c7ed32a66bbc2ed2d0ab2da690b178f2	Mortal Kombat 3 (USA) (Beta).md
 4cca5c00ad312409791123258967d216	Mortal Kombat 3 (USA).md
 c8e887ca9cdde7bde85f324f66d34b2d	Mortal Kombat II (World).md
-00ee0a02b8794b32584ea1aabadd4580	Mr. Nutz (Europe).md
 a43ef53f2131cd88e7620cdbf724ef84	Mr. Nutz - Hoppin' Mad (Europe) (Proto).md
+00ee0a02b8794b32584ea1aabadd4580	Mr. Nutz (Europe).md
 cfe7f3023b21bcf697bcf5e1be461ee7	Ms. Pac-Man (USA, Europe).md
 dcf5a4f9439704d8599457d52af5d0fe	Mugen Senshi Valis (Japan).md
 e484ab1651569c2aae836af60beeaca1	Muhammad Ali Heavyweight Boxing (Europe).md
@@ -1346,8 +1417,8 @@ e484ab1651569c2aae836af60beeaca1	Muhammad Ali Heavyweight Boxing (Europe).md
 d196af5c44fde9b67d686e030c9f8d01	Muhammad Ali Heavyweight Boxing (USA) (Beta 2).md
 8f62e23a55efdc026232c9afaff1d2cd	Muhammad Ali Heavyweight Boxing (USA).md
 55d2c8b96b055d217f8d309ffb809062	Mulan (Taiwan) (Unl).md
-d5ced66ba18ec2b8eb69b8b1a6baf0d0	MUSHA - Metallic Uniframe Super Hybrid Armor (USA).md
 ff637ff16f31608375b0fc4b11c5c5b8	MUSHA - Metallic Uniframe Super Hybrid Armor (USA, Europe) (Switch Online).md
+d5ced66ba18ec2b8eb69b8b1a6baf0d0	MUSHA - Metallic Uniframe Super Hybrid Armor (USA).md
 587bf2b6522191bb880fd1b1ab48033f	Musha Aleste - Full Metal Fighter Ellinor (Japan) (Switch Online).md
 8e147874de78d95634a807f917b270c5	Musha Aleste - Full Metal Fighter Ellinor (Japan).md
 d77a15e6bf146e064b1543e08a32fb5c	Mutant League Football (Japan).md
@@ -1392,19 +1463,19 @@ dc9117965c0c3fcb9d28eb826082b223	NBA Action '95 Starring David Robinson (USA, Eu
 87a599c96e0775141527f0db04b6a619	NBA All-Star Challenge (USA, Europe).md
 f9a4e85931dcaaceded19c0c2a7aace1	NBA Hang Time (Europe).md
 a2dddb13539df45f45ff4061cd6caacd	NBA Hang Time (USA).md
+edeb01f0aa8aed3868db1179670db22f	NBA Jam - Tournament Edition (World).md
 d72f13bc94ad76c90deef86d5a138ff6	NBA Jam (Japan).md
 b39d40a0c6779c1fc999a983d811b7ee	NBA Jam (USA, Europe) (Beta) (April, 1993).md
 234bf02f7f7b6fdad65890424d3a8a8f	NBA Jam (USA, Europe) (Rev 1).md
 338b8ed45e02d96f1ed31eaab59eaf43	NBA Jam (USA, Europe).md
-edeb01f0aa8aed3868db1179670db22f	NBA Jam - Tournament Edition (World).md
 dbe3cb8f486debb2efb94b51ab33ae58	NBA Live 95 (Korea).md
 c997ae89f3417f5b3e702c84cf1275c4	NBA Live 95 (USA, Europe).md
 3a3399aba2f0c9eb693e9d2acc4f673b	NBA Live 96 (USA, Europe).md
 2c11f642effca640c92a3031f6c2cbb1	NBA Live 97 (USA, Europe).md
 3817138d9054d91675f7378684744a4d	NBA Live 98 (USA).md
 098130202a5ecea552a8714e656bb385	NBA Playoffs - Bulls vs Blazers (Japan).md
-b465081da2e268a1c045c1b0615bed75	NBA Pro Basketball '94 (Japan).md
 87d3a0872dc08f07079de4702a21b27d	NBA Pro Basketball - Bulls vs Lakers and the NBA Playoffs (Japan).md
+b465081da2e268a1c045c1b0615bed75	NBA Pro Basketball '94 (Japan).md
 9c3aeaa26c74dfae329602ee27d0c1f9	NBA Showdown '94 (USA, Europe).md
 3d3c4c2dcc8631373b73cf11170dd4d7	NCAA Final Four Basketball (USA).md
 6e38acfb80ed7e0b1343fa4ffdc6477d	NCAA Football (USA).md
@@ -1493,14 +1564,15 @@ ce78da1bf01f315899deb913beba757a	Nobunaga's Ambition (USA).md
 62146cdc28437a346fb4816877e56a91	Normy's Beach Babe-O-Rama (USA, Europe).md
 edd6792de71be35d3554f7b51e39cbda	Nuclear Rush (USA) (Proto) (1994-08-06).md
 3e3de31d011e55091943bb6b600846e3	Nyuushi Chokuzen Check - Nanmon Kimon Kiki Kaikai (Japan) (Sega Channel).md
-1adb727568e2b130c75213cf56f38fbe	Odeio Carros (World) (Aftermarket) (Homebrew).bin
+2a8f226b0f82c0e45b43018d2ef952de	Ocean Beach Volley (World) (Proto) (Aftermarket) (Homebrew).md
+1adb727568e2b130c75213cf56f38fbe	Odeio Carros (World) (Aftermarket) (Homebrew).md
 c97812258bbfa2567e58dcb2073e1f4a	Oh Mummy Genesis (World) (Aftermarket) (Unl).md
-29752fa42e9a5eaa58b058a9ea57bf2a	Old Towers (World) (Aftermarket) (Unl).md
-03872b3d97cf129edf3767cee0d559af	Old Towers (World) (v1.1) (Aftermarket) (Unl).md
-96216acdb9b8eb86f8fa7209a5cc5619	Old Towers (World) (v1.2) (Aftermarket) (Unl).md
+29752fa42e9a5eaa58b058a9ea57bf2a	Old Towers (USA) (Aftermarket) (Unl).md
+03872b3d97cf129edf3767cee0d559af	Old Towers (World) (v1.1) (Aftermarket) (Homebrew).md
+96216acdb9b8eb86f8fa7209a5cc5619	Old Towers (World) (v1.2) (Aftermarket) (Homebrew).md
 174187dc9772ec276fc1a69fc2fe2665	Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).md
-f21316a9608b25ae8a9e32c39b23a325	Olympic Gold (Japan, USA) (En,Fr,De,Es,It,Nl,Pt,Sv).md
 202b6acedd4070df596eb32f4bd5e17b	Olympic Gold (Japan, USA, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev A).md
+f21316a9608b25ae8a9e32c39b23a325	Olympic Gold (Japan, USA) (En,Fr,De,Es,It,Nl,Pt,Sv).md
 11dd8bbd7b9b806923dfb09d2702dfd8	Olympic Summer Games (Europe).md
 2581e62fdd918aa3f79f785508be6bf1	Olympic Summer Games (USA).md
 c64b982b20075dce0bf6c804dffe983d	On Dal Jang Goon (Korea).md
@@ -1547,17 +1619,18 @@ b6eb8070b6f454eecfefc3663576eac5	Pachinko Kuunyan (Japan).md
 aafa1208e6c1f0850d091d6b20ede002	Pagemaster, The (USA).md
 7988fd0d0d2abe47ada250af652efff0	Panorama Cotton (Japan) (Beta) (1993-11-27).md
 422a285546a9755df77da2840fb2c817	Panorama Cotton (Japan).md
+c35882e2b942535f73b594ee3dd68d4a	Panorama Cotton (USA) (Aftermarket) (Unl).md
 6e3424093e687ccfca125ef5d34242d0	Paperboy (Japan).md
 c44efbfd7acbffdc75e377df607ffd29	Paperboy (USA, Europe) (Beta) (1991-10-28).md
 f185e7700fe58f34d1c2968074760cdc	Paperboy (USA, Europe).md
 93a22de4e043056ead9f3bd4a7f659e0	Paperboy 2 (USA, Europe).md
-3cf06d951e5fffe410e2058200869342	Papi Commando (World) (Aftermarket) (Unl).md
-b073c7613d30c16463f9e17ce744b270	Papi Commando (World) (Demo) (Aftermarket) (Unl).md
-b0c5239485a991234e690f4e252b02e9	Papi Commando - Second Blood (World) (Demo) (Aftermarket) (Unl).md
-d6c097ffe065f04b010363adab11e207	Papi Commando Reload - TECTOY Demo (World) (Demo) (Aftermarket) (Unl).md
-8d5dca5f2dc11d75afe3f013bc65e3fe	Papi Commando Remix (World) (Aftermarket) (Unl).md
-4b5675629409040a4fd1da161db8146d	Papi Commando Remix Deluxe (World) (Aftermarket) (Unl).md
-f005aff5a9b84153440afe37898618b4	Papi Commando Remix Deluxe (World) (v1.1) (Aftermarket) (Unl).md
+b0c5239485a991234e690f4e252b02e9	Papi Commando - Second Blood (World) (Demo) (Aftermarket) (Homebrew).md
+3cf06d951e5fffe410e2058200869342	Papi Commando (World) (Aftermarket) (Homebrew).md
+b073c7613d30c16463f9e17ce744b270	Papi Commando (World) (Demo) (Aftermarket) (Homebrew).md
+d6c097ffe065f04b010363adab11e207	Papi Commando Reload - TECTOY Demo (World) (Demo) (Aftermarket) (Homebrew).md
+8d5dca5f2dc11d75afe3f013bc65e3fe	Papi Commando Remix (World) (Aftermarket) (Homebrew).md
+4b5675629409040a4fd1da161db8146d	Papi Commando Remix Deluxe (World) (Aftermarket) (Homebrew).md
+f005aff5a9b84153440afe37898618b4	Papi Commando Remix Deluxe (World) (v1.1) (Aftermarket) (Homebrew).md
 b21b69f718115b502d10481e1f6ecc0b	Party Quiz Mega Q (Japan).md
 b4e1b92d38eb5ccf6951d6c4b559f27f	Pat Riley Basketball (USA) (Beta) (1990-06-14).md
 4450ae3c9d7fc290daa6dcaab8d68644	Pat Riley Basketball (USA).md
@@ -1570,9 +1643,9 @@ d22339c2dd7e68665e2331e3618a5d23	Payne Stewart Pro Golf (USA) (Proto 2).md
 80b30c06742f931cafaf92d965aa6328	Pele! (USA, Europe) (Sample).md
 0b71940ba552e76ff16ac6e9cf619f0d	Pele! (USA, Europe).md
 6f8cddb3775b588b49d13e7c62d08e86	Pepenga Pengo (Japan).md
-86f461c3819e69dd5888defe20add12c	Perlin & Pinpin - The Robin Tower - Back to School (World) (Demo 1) (Aftermarket) (Unl).md
-d7d1461545c39277e318157f5ce0f975	Perlin & Pinpin - The Robin Tower - Back to School (World) (Demo 2) (Aftermarket) (Unl).md
-5697b7718d4b5201772bc028e5c10ed0	Perlin & Pinpin - The Robin Tower - Case Closed [somehow] (World) (Demo) (Aftermarket) (Unl).md
+86f461c3819e69dd5888defe20add12c	Perlin & Pinpin - The Robin Tower - Back to School (World) (Demo 1) (Aftermarket) (Homebrew).md
+d7d1461545c39277e318157f5ce0f975	Perlin & Pinpin - The Robin Tower - Back to School (World) (Demo 2) (Aftermarket) (Homebrew).md
+5697b7718d4b5201772bc028e5c10ed0	Perlin & Pinpin - The Robin Tower - Case Closed [somehow] (World) (Demo) (Aftermarket) (Homebrew).md
 2b8db39a10f0097bfece760bef619f24	Pete Sampras Tennis (Europe) (Rev 2) (MDSTEE13).md
 87167082399c3f8fe676ee85bfc40aaf	Pete Sampras Tennis (USA, Europe) (MDST6636) (J-Cart).md
 734535160fb214c69405c90eb58a93be	Pete Sampras Tennis (USA, Europe) (Rev 1) (MDST17FF) (J-Cart).md
@@ -1580,6 +1653,7 @@ d8575831aa3a753221a43aa574dd473b	PGA European Tour (USA, Europe).md
 f65dc2d83128232e2da5cf569669083b	PGA Tour 96 (USA, Europe).md
 b40a7bff341839b9d8d31cc9d37d944b	PGA Tour Golf (USA, Europe) (PGA07).md
 50b00d9ac86fb44aeb9c71882c92da4a	PGA Tour Golf (USA, Europe) (PGA09).md
+c0f0040844938b88b4ab5f318f6f5610	PGA Tour Golf (USA) (Beta).md
 2fbdef7aaec61d9b57b425e6a2068295	PGA Tour Golf II (Japan).md
 adb33c74e368ef21b04903eadc6244cf	PGA Tour Golf II (USA, Europe) (Rev A).md
 a8a4ac77c66d60e862a0dc3b65e2b14d	PGA Tour Golf II (USA, Europe).md
@@ -1588,24 +1662,28 @@ a8a4ac77c66d60e862a0dc3b65e2b14d	PGA Tour Golf II (USA, Europe).md
 eca2b3133b23e02f29a484d7ae02177e	Phantasy Star - Sennenki no Owari ni (Japan) (PC Rerelease).md
 8d72fa4371e4084b645637ec9e5188de	Phantasy Star - Sennenki no Owari ni (Japan).md
 14c59604768b33175362cc592cb75ead	Phantasy Star Fukkokuban (Japan).md
+7ab695a46f2f70b19101b0f58141b93c	Phantasy Star II - Amia's Adventure (Japan) (Game no Kanzume Vol. 1).md
+76cb3b2ec8b827ec9288d28bc8d0cd3b	Phantasy Star II - Amia's Adventure (Japan) (SegaNet).md
+98c51bccc17af7bac4ad7be85936f627	Phantasy Star II - Anne's Adventure (Japan) (Game no Kanzume Vol. 2).md
+10195dfcde401acafd406f2640e384de	Phantasy Star II - Anne's Adventure (Japan) (SegaNet).md
+f2e40667c514ade048945ea7d06b19b7	Phantasy Star II - Huey's Adventure (Japan) (Game no Kanzume Vol. 1).md
+4efb0bc21c9df35ff39eb1862f972c47	Phantasy Star II - Huey's Adventure (Japan) (SegaNet).md
+ad692c895d5c2cab7b616df2135ea3b4	Phantasy Star II - Kaerazaru Toki no Owari ni (Japan).md
+218b9b1c4a282a8d9fb402af836a1d02	Phantasy Star II - Kinds's Adventure (Japan) (Game no Kanzume Vol. 2).md
+dbe39f02548beaae0aa652dc4874c09e	Phantasy Star II - Kinds's Adventure (Japan) (SegaNet).md
+d60bc80b482dfc1b31cb6c383f3fd88c	Phantasy Star II - Nei's Adventure (Japan) (SegaNet).md
+8ce3458a47e1dcb75982403e8b3cbf3f	Phantasy Star II - Rudger's Adventure (Japan) (SegaNet).md
+5abe74899da838cc9dc7cabfb4d8f816	Phantasy Star II - Shilka's Adventure (Japan) (SegaNet).md
+83f22a27147bdfd85d405daf111fde92	Phantasy Star II - Yushis's Adventure (Japan) (SegaNet).md
 f2d46a63b34cf6e5a2c8264fb59c06e7	Phantasy Star II (Brazil) (En).md
 c620dbe2bd0bed5059ca7913dedabfe0	Phantasy Star II (USA, Europe) (Beta) (1989-07-28).md
 28e1ef5faa5968449b57d1bea39ea153	Phantasy Star II (USA, Europe) (Rev A) (PC Rerelease).md
 98e34f05f6e5fb55517b1f8990b734ff	Phantasy Star II (USA, Europe) (Rev A) (Virtual Console).md
 0fa38b12cf0ab0163d865600ac731a9a	Phantasy Star II (USA, Europe) (Rev A).md
 75ea42b49a65ceb0395480126f426c6a	Phantasy Star II (USA, Europe).md
-76cb3b2ec8b827ec9288d28bc8d0cd3b	Phantasy Star II - Amia's Adventure (Japan) (SegaNet).md
-10195dfcde401acafd406f2640e384de	Phantasy Star II - Anne's Adventure (Japan) (SegaNet).md
-4efb0bc21c9df35ff39eb1862f972c47	Phantasy Star II - Huey's Adventure (Japan) (SegaNet).md
-ad692c895d5c2cab7b616df2135ea3b4	Phantasy Star II - Kaerazaru Toki no Owari ni (Japan).md
-dbe39f02548beaae0aa652dc4874c09e	Phantasy Star II - Kinds's Adventure (Japan) (SegaNet).md
-d60bc80b482dfc1b31cb6c383f3fd88c	Phantasy Star II - Nei's Adventure (Japan) (SegaNet).md
-8ce3458a47e1dcb75982403e8b3cbf3f	Phantasy Star II - Rudger's Adventure (Japan) (SegaNet).md
-5abe74899da838cc9dc7cabfb4d8f816	Phantasy Star II - Shilka's Adventure (Japan) (SegaNet).md
-83f22a27147bdfd85d405daf111fde92	Phantasy Star II - Yushis's Adventure (Japan) (SegaNet).md
 43b322e74938969b6736c620f9fa6fc3	Phantasy Star III - Generations of Doom (Brazil) (En).md
-ea7f5732cc220f46960aa2b0f691aa4e	Phantasy Star III - Generations of Doom (USA, Europe) (PC Rerelease).md
 82c7bc027685cc8fc6c9e077beb1a75a	Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En).md
+ea7f5732cc220f46960aa2b0f691aa4e	Phantasy Star III - Generations of Doom (USA, Europe) (PC Rerelease).md
 58646828bbe100f37df663ccdc3ace0e	Phantasy Star IV (Europe).md
 35649ae4a2b8a282cafd53c8b5af62cf	Phantasy Star IV (USA) (Beta) (1994-05-30).md
 813c81169353044d2050bf0b6424df47	Phantasy Star IV (USA) (Beta) (1994-06-08).md
@@ -1617,6 +1695,16 @@ aaaf987b1ebbdc9dac578439b0aefc14	Phantasy Star IV (USA) (Sample).md
 84cbd0ff47f3c8e9d21d2c2fc39185fa	Phantasy Star IV (USA).md
 46c86c8c4ab3dfd5db09fb23e2023b7b	Phantom 2040 (Europe) (En,Fr,De).md
 f2c111cae725e5b31775d04dd4c7b546	Phantom 2040 (USA).md
+5f83abe50a6c8c9f73221493018fdcdf	Phantom Gear (World) (v0.17) (Demo) (Bits Rule Games) (Aftermarket) (Unl).md
+b277715f2ba4e765edbe8b8425e82aab	Phantom Gear (World) (v0.17) (Demo) (Mega Cat Studios) (Aftermarket) (Unl).md
+bb839e33ccd82027a433661a69968735	Phantom Gear (World) (v0.2) (Demo) (Aftermarket) (Unl).md
+be4f076c6565d9620ce25a3df6024a09	Phantom Gear (World) (v0.20) (Demo) (Aftermarket) (Unl).md
+82c044e8532ae08aadc5488fdc5e1a8a	Phantom Gear (World) (v0.21) (Demo) (Aftermarket) (Unl).md
+503ecdca1a6b8bd54bd8a60cc763dc9e	Phantom Gear (World) (v0.22) (Demo) (Aftermarket) (Unl).md
+0a7c32e34679af69bd35d2e494d09abf	Phantom Gear (World) (v0.25) (Demo) (Aftermarket) (Unl).md
+190d6ef5fe6e243427714334d385196f	Phantom Gear (World) (v0.5) (Demo) (Aftermarket) (Unl).md
+2d5a44e9bb820238a3246fbdb9439765	Phantom Gear (World) (v0.6) (Demo) (Aftermarket) (Unl).md
+4feb0f4e2e0a739dda4dce35c4502d65	Phantom Gear (World) (v0.9) (Demo) (Aftermarket) (Unl).md
 049dd9663d4a19d241e78e7eaffc8b2b	Phelios (Europe).md
 4984024f3d8059692a32ad0682031e65	Phelios (Japan) (Virtual Console).md
 9de042308ba18ecbc622556f5b9b81a0	Phelios (Japan).md
@@ -1657,10 +1745,10 @@ ac95a7a539f4fcb5cd6ca01e0edf2e28	Populous (Europe).md
 6413bc568d7750b308fe06a3c85e6ec8	Predator 2 (USA, Europe).md
 04f0d76fb267c53f65eae7b2ea2e5a47	Premier Manager (Europe).md
 69f31849f904350bbf05c9b453528643	Premier Manager 97 (Europe).md
-03d2bc53190b75bd0d6fd754002be288	Primal Rage (USA) (Beta).md
-2aed6bc896ef959030381eb8b33e8d87	Primal Rage (USA) (Demo) (1995-08-01) (Sega Channel) (Test Drive Version).md
-e7498342ae38367922770e82b6b1d433	Primal Rage (USA) (Demo) (1995-08-25) (Sega Channel) (Rental Version).md
 abc71fb6a198d36af856783ee94fee36	Primal Rage (USA, Europe).md
+03d2bc53190b75bd0d6fd754002be288	Primal Rage (USA, Europe) (Beta).md
+2aed6bc896ef959030381eb8b33e8d87	Primal Rage (USA) (Demo) (1995-08-01) (Sega Channel) (Test Drive).md
+e7498342ae38367922770e82b6b1d433	Primal Rage (USA) (Demo) (1995-08-25) (Sega Channel) (Rental).md
 2bff00cc158effc468d183fbdda38b68	Primal Rage Showdown (USA) (Demo) (1995-08-26) (Sega Channel).md
 15a8114b96afcabcb2bd08acbc7a11c0	Prime Time NFL Starring Deion Sanders (USA).md
 fe2be04df0ce13ae11863eaae5dca9c5	Prince of Persia (Europe) (Beta 1).md
@@ -1668,7 +1756,7 @@ fe2be04df0ce13ae11863eaae5dca9c5	Prince of Persia (Europe) (Beta 1).md
 bb8dede1a266d8c48a8f2ea1e4d12e58	Prince of Persia (Europe).md
 a942e336b5d2e9f962b289fc08b890c6	Prince of Persia (USA).md
 dc580653e3edc6c6b01cb1bfacc947b4	Prince of Persia 2 (Europe) (Proto) (1995-02-20).md
-43a12bdab31c98cb40c99af623cf9ba4	Pringles Game (World) (Aftermarket) (Homebrew).bin
+43a12bdab31c98cb40c99af623cf9ba4	Pringles Game (World) (Aftermarket) (Homebrew).md
 f22a923dc18bea0f7b9646e41886fcc4	Pro Action Replay (Europe) (Program) (Unl).md
 0bad596e96546d9adfe768439a5663db	Pro Action Replay 2 (Europe) (v2.1) (Program) (Unl) (Alt).md
 9bce44313081346c5ac90550964af76d	Pro Action Replay 2 (Europe) (v2.1) (Program) (Unl).md
@@ -1701,15 +1789,15 @@ c277f181cb129d1c0f1ce741170b9bc4	Puyo Puyo Tsuu (World) (Ja) (Rev A) (Virtual Co
 a0003ccd281f9cc74aa2ef97fe23c2fc	Puzzle & Action - Ichidanto-R (Japan).md
 15ee1db49894b798155ae60eaa2dd961	Puzzle & Action - Ichidanto-R (World) (Ja) (Sega Ages).md
 16b0f48a07baf1fa0df27453b7f008d4	Puzzle & Action - Tanto-R (Japan).md
-f7d4afa7802ca3905666be7ade333b5c	Puzzli (World) (v1.1) (Aftermarket) (Homebrew).bin
+f7d4afa7802ca3905666be7ade333b5c	Puzzli (World) (v1.1) (Aftermarket) (Homebrew).md
 b192974db87469b3966e819836d1b098	Pyramid Magic (Japan) (Game no Kanzume Otokuyou).md
 3d8ade1cf3849e8d54da4f92e3de4edd	Pyramid Magic (Japan) (SegaNet).md
 59517c81d495dff2c333ee0eed217423	Pyramid Magic II (Japan) (SegaNet).md
 22dc468dfc6a0ff657f52aff8a107f93	Pyramid Magic III (Japan) (SegaNet).md
 b375e7f8a10279a3835c633b7c0ac0b6	Pyramid Magic Special (Japan) (SegaNet).md
-2282f3810712a6b9acffe0e8e4651570	QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck - Guruzia Ou no Hihou (World) (Rev A) (Alt).md
-ade4e47b0fbd329acaf36efc4f8d637d	QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck - Guruzia Ou no Hihou (World) (Rev A).md
-a184d044b122b73026b8f4f8fb6bc528	QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck - Guruzia Ou no Hihou (World).md
+2282f3810712a6b9acffe0e8e4651570	QuackShot Starring Donald Duck (World) (Rev A) (Alt).md
+ade4e47b0fbd329acaf36efc4f8d637d	QuackShot Starring Donald Duck (World) (Rev A).md
+a184d044b122b73026b8f4f8fb6bc528	QuackShot Starring Donald Duck (World).md
 9059e6c9ee0fc3fb80975e6f7c3a935b	Quad Challenge (USA).md
 fb2f67d2f981a1802ae408e6a704b460	Queen of Poker Club (Taiwan) (Unl).md
 88f9eeeae1928a64a9f7a7ee221b30f7	R.B.I. Baseball '93 (USA).md
@@ -1745,6 +1833,7 @@ c247cef6e030377534ece7b2dc8fe90f	Reknum (World) (Demo 2) (Aftermarket) (Unl).md
 f50133162dad167e273bdb906c11a38b	Ren & Stimpy Show Presents, The - Stimpy's Invention (USA).md
 baa47b5e85264ac958072ed0f0037525	Rent a Hero (Japan).md
 cb08de736dcb0d2baf14dc728a792644	Resq (Europe) (Proto).md
+4b35c0cd40d54de84f452c781b09ca9e	Return to Genesis (World) (Aftermarket) (Homebrew).md
 c1db0e198557ecab3ed80e0f8775c50e	Revenge of Shinobi, The (USA, Europe) (Rev A) (Beta) (1990-02-01).md
 84906f06b302216a6db943ee52a8956c	Revenge of Shinobi, The (USA, Europe) (Rev A).md
 67e1e031cbeb4c6439a2d2b7e6b3eb90	Revenge of Shinobi, The (USA, Europe) (Rev B).md
@@ -1759,27 +1848,27 @@ ffc3b73dfe6f1f1817bbd5981a457385	Revolution X (USA, Europe).md
 de96b49550908ffb5a942355a266466e	Richard Scarry's Busytown (USA) (Beta) (1994-08-26) (Alt).md
 b75d0fb8fbb00f7274e9a733941b7017	Richard Scarry's Busytown (USA) (Beta) (1994-08-26).md
 06ddc929a7bf834c40344ac83a4acc97	Richard Scarry's Busytown (USA).md
-43bad22212aa9177f8aa0e1666530a5c	Rick Dangerous (Unknown).md
-511d9c63ddfe13695c82647798df2078	Rick Dangerous 2 (Unknown) (v1.1).md
+43bad22212aa9177f8aa0e1666530a5c	Rick Dangerous (World) (Aftermarket) (Homebrew).md
+511d9c63ddfe13695c82647798df2078	Rick Dangerous 2 (World) (v1.1) (Aftermarket) (Homebrew).md
 96ea10d75382eecd6eb8a10be86fd7ea	Riddle Wired (Japan) (SegaNet).md
 30c18fdbe2183f64702ae9f1a45d63f9	Rings of Power (USA, Europe).md
 e553d4ce75f106fbd75cf38a039566a3	Rise of the Robots (Europe).md
 7a1ef516a2a741aefdaa543c3a7c472a	Risk (USA).md
 7034bdcc1a0cb38e4d8fc3e44ace6c20	Risky Woods (USA, Europe).md
-62e40b8c8012d02df4fac1c68f10eb16	Ristar (USA, Europe) (Beta) (Later).md
-ecf9d0bac130fed7b6a54a67d7b27df7	Ristar (USA, Europe).md
+376f344f8ef5a4f8365867c9e94efb3e	Ristar - The Shooting Star (Japan, Korea) (Ja).md
 ed51ed819a7521f512c38146ebf0c30f	Ristar - The Shooting Star (Japan) (Beta) (1994-07-01).md
 1a85211604a4ad278fdc511e20534a0d	Ristar - The Shooting Star (Japan) (Beta) (1994-07-18).md
-376f344f8ef5a4f8365867c9e94efb3e	Ristar - The Shooting Star (Japan, Korea) (Ja).md
+62e40b8c8012d02df4fac1c68f10eb16	Ristar (USA, Europe) (Beta) (Later).md
+ecf9d0bac130fed7b6a54a67d7b27df7	Ristar (USA, Europe).md
 3428cf3bdb5aab0ebfcf0e380d4d1c5d	Road Rash (Japan).md
 543b64ccb26c18edc6c98c12b1302dc0	Road Rash (USA, Europe).md
 e4b400ed10d7573d6e4447492ab8ae2e	Road Rash 3 (USA, Europe) (Beta) (1994-11-19).md
 dce9b99a3d692cb4463f9f35d278659b	Road Rash 3 (USA, Europe).md
 d248cf93526141751a08d2b7e1097f0c	Road Rash II (Japan) (Mega Drive Mini).md
 98196408705f4520213ba1e43bef67f2	Road Rash II (Japan).md
-b67a30513aa0ba4bc5795815e4df3a7c	Road Rash II (USA) (Genesis Mini).md
 c04a309f607aaf59f55eb8dad6affa73	Road Rash II (USA, Europe) (RR205).md
 062ed2f4e698bd8c61ebb1ee74a08d2b	Road Rash II (USA, Europe) (RR206).md
+b67a30513aa0ba4bc5795815e4df3a7c	Road Rash II (USA) (Genesis Mini).md
 a50543ef16cd674ef9f6a0c8796c98a1	Road Riot 4WD (USA) (Proto).md
 9da9f6396e9f2eb34eff3a6dbe573ba4	RoadBlasters (Japan).md
 2bf4c58157d0fdb8610e08df308d39e1	RoadBlasters (USA) (Beta) (1991-06-27).md
@@ -1813,9 +1902,9 @@ d4d87c02660059a232773add892c2592	Ronaldinho 98 (Unknown) (Pt) (Pirate).md
 69f4c1571e21499007fecf4de5d741e3	Royal Blood (Japan).md
 639c7a9083aba418f6cd38d7d68eddf0	Rugby World Cup 95 (USA, Europe) (En,Fr,It).md
 5a41a9e23515f2a6097fcb279e345ba8	Runark (Japan, Korea) (En).md
-ea6864841c6a1db6c962629983ed7983	Runes (World) (Aftermarket) (Homebrew).bin
+ea6864841c6a1db6c962629983ed7983	Runes (World) (Aftermarket) (Homebrew).md
 05dc6075c0fa4dc5779b575b594d2947	Ryuuko no Ken (Japan).md
-0b729aad9a4409b9faa4556d35993f72	Sacred Line Genesis (World) (1.1.9) (Aftermarket) (Unl).md
+0b729aad9a4409b9faa4556d35993f72	Sacred Line Genesis (World) (1.1.9) (Aftermarket) (Homebrew).md
 6a816f5eecbcb3f6de22fd843bdc3742	Sacred Line Genesis (World) (Aftermarket) (Unl).md
 bf318e246e644f15a1aee4e4e658db22	Sacred Line Zero (World) (Proto) (Aftermarket) (Unl).md
 c9ab9dd499c7d56772fccbd2ec2ae465	Sagaia (USA).md
@@ -1851,11 +1940,12 @@ fcb2705a0d98e06b3aa46b72484ced43	seaQuest DSV (USA).md
 3b42e87aac4e91a334329bac1bd79ebd	Sega Channel (Japan) (v2.11) (Program).md
 e2b2075cd7aa405a8745bda2e4d9c115	Sega Channel (USA) (General Instrument) (Program).md
 1cf54fc6a7dd4dbc33a37f3aad703d42	Sega Channel (USA) (Scientific Atlanta) (Program).md
-a45842e6f4ba3441a67077a0416ddde3	Sega Channel Demo (USA) (Program).md
-448a6fdb763c6f28db480ec8ee4801e9	SEGA Master System Brawl (World) (Aftermarket) (Homebrew).bin
+a45842e6f4ba3441a67077a0416ddde3	Sega Channel (USA) (Demo) (1994-02-16) (Program).md
+448a6fdb763c6f28db480ec8ee4801e9	SEGA Master System Brawl (World) (Aftermarket) (Homebrew).md
 d794c0a21fd26482aaf57018a90628d2	Sega Sound Tool (USA) (v2.2) (Program).md
 61c6f43629f218f75e9e78ff2e59bf55	Sega Sports 1 (Europe).md
 4e939c29d924b05a14ef46e90f5cd1c3	Sega Top Five (Brazil) (En).md
+72b6095a290eb39183c602be6f1e2d20	Segapede (USA) (Proto).md
 4643f5da530463356ce56fae5c346ddc	Senjou no Ookami II ~ Mercs (World).md
 81c58cc091350a14e0e94fcf8e970a5b	Sensible Soccer (Europe) (En,Fr,De,It) (Beta).md
 f6fcf5843786bd44f8df6b648661a437	Sensible Soccer (Europe) (En,Fr,De,It).md
@@ -1864,8 +1954,8 @@ f6fcf5843786bd44f8df6b648661a437	Sensible Soccer (Europe) (En,Fr,De,It).md
 4bbe8b456f87a22062a98a0d50e41cd5	Shadow Dancer - The Secret of Shinobi (USA, Europe) (PC Rerelease).md
 dc0b31209961d401f453918604d7dbc6	Shadow Dancer - The Secret of Shinobi (World) (Beta) (1990-10-02).md
 1f2a9f322e770be0a3cc2aabdf8bc575	Shadow Dancer - The Secret of Shinobi (World).md
-ba07d4050b453d68cb2bd7e28fc8f74c	Shadow of the Beast (USA, Europe).md
 9cd4a754fcb6793d7470a6fa63903025	Shadow of the Beast - Mashou no Okite (Japan).md
+ba07d4050b453d68cb2bd7e28fc8f74c	Shadow of the Beast (USA, Europe).md
 596c1dda590f4b6611132206c9184970	Shadow of the Beast II (USA, Europe).md
 e1c549eb7a842594a99ab8993d01b427	Shadowrun (Asia) (En).md
 90efddf5c0e68e4202e2d5da5ad6820a	Shadowrun (USA) (Beta) (1993-12-28).md
@@ -1887,19 +1977,19 @@ dc33589a54bce1aea844daba9c9bd547	Shi no Meikyuu - Labyrinth of Death (Japan) (Ga
 64650a44360d558a710fb05813885174	Shin Souseiki Ragnacenty (Japan) (Beta).md
 d7b8e2b170dcf2bada5a6133973f2daa	Shin Souseiki Ragnacenty (Japan).md
 380741cee5ff1c89498270d45af7521a	Shining and the Darkness (Japan).md
+1c8b419c9b1b7fa60780ff1873a8a2e2	Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini).md
+72ab457fd395da1879ed4f6d29b09af1	Shining Force - Kamigami no Isan (Japan).md
 7e0258c690ae3f196bd71babc54bd0e9	Shining Force (Europe).md
 f010071423a7b174251df9db823677fa	Shining Force (USA) (Beta).md
 d5a3f42342db34f29d180d264da5cb66	Shining Force (USA) (Genesis Mini).md
 5111aa25931e6789ce4972bc6bafaa04	Shining Force (USA).md
-1c8b419c9b1b7fa60780ff1873a8a2e2	Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini).md
-72ab457fd395da1879ed4f6d29b09af1	Shining Force - Kamigami no Isan (Japan).md
+a467df6b37471ecb680c51ce82042106	Shining Force II - Inishie no Fuuin (Japan) (Switch Online).md
+3ba871d87f35feefcadfa9d4a2c06d13	Shining Force II - Inishie no Fuuin (Japan).md
 7b17318e42b908e90ab20dd795825d73	Shining Force II (Europe).md
+3456cd758988ffb5760ed89ac206cfdb	Shining Force II (USA, Europe) (Switch Online).md
 ab2ff62e395effc492b88ebbb25576bd	Shining Force II (USA) (Beta) (1994-04-04).md
 610a9531f384804b4759003ec8b9f4ac	Shining Force II (USA) (Beta) (1994-06-07).md
 6473b1505334ef5620d13191c18251fe	Shining Force II (USA).md
-3456cd758988ffb5760ed89ac206cfdb	Shining Force II (USA, Europe) (Switch Online).md
-a467df6b37471ecb680c51ce82042106	Shining Force II - Inishie no Fuuin (Japan) (Switch Online).md
-3ba871d87f35feefcadfa9d4a2c06d13	Shining Force II - Inishie no Fuuin (Japan).md
 5bdb8286d071ec744df1ef92529156d5	Shining in the Darkness (Brazil) (En).md
 522b689a1b2f0ea8578fa9d888554b82	Shining in the Darkness (USA, Europe).md
 5a8f7c6437d239690b4a15287d841c26	Shinobi III - Return of the Ninja Master (Europe).md
@@ -1950,11 +2040,18 @@ b98e7a31cb5023ac51898f15f43a3bd0	Sonic & Knuckles (World) (Beta) (1994-06-10).md
 338aa7c29911bfef133dd2d072da2cbb	Sonic & Knuckles (World) (Beta) (1994-06-12).md
 a9210c75f8b36b8ea27067e5f54bab22	Sonic & Knuckles (World) (Beta) (1994-06-18).md
 65a8ad3222bbdb54534ddcd6836d46b1	Sonic & Knuckles (World) (Beta) (1994-06-19).md
-b4e76e416b887f4e7413ba76fa735f16	Sonic & Knuckles (World) (Lock-on).bin
+b4e76e416b887f4e7413ba76fa735f16	Sonic & Knuckles (World) (Lock-on).md
 655b8fcdc0ee2112a347854dd339bfce	Sonic & Knuckles (World) (Sonic Classic Collection).md
 4ea493ea4e9f6c9ebfccbdb15110367e	Sonic & Knuckles (World).md
+7bd6d3708af3a36983107249a3ab5505	Sonic & Knuckles + Sonic The Hedgehog (Japan, Korea) (En).md
+17ffe04bb891253e7ac3fb0952bb2edb	Sonic & Knuckles + Sonic The Hedgehog (USA, Europe).md
 980d3256aeb3c2e76a7b2bc566f89852	Sonic & Knuckles + Sonic The Hedgehog 2 (World) (Beta) (1994-05-24).md
+638d6d49dadf6bad05e04a07b3a6b8a1	Sonic & Knuckles + Sonic The Hedgehog 2 + Sonic The Hedgehog 3 (World) (Virtual Console).md
+69de380d92f740fe94aa0a95a08581b3	Sonic & Knuckles + Sonic The Hedgehog 3 (Europe).md
+cfcc692427348e58682230a27d9e365d	Sonic & Knuckles + Sonic The Hedgehog 3 (Japan) (En) (Sonic Mega Collection).md
+c5b1c655c19f462ade0ac4e17a844d10	Sonic & Knuckles + Sonic The Hedgehog 3 (USA).md
 ab74fc7f42ce9b4a8f760d12cae69a2a	Sonic 3 (Europe).md
+742dd5c98d143ff6716800dee6a25dc5	Sonic 3D Blast - Director's Cut (World) (Unl).md
 8cb84ea6f747357ee5384f7bb59566bc	Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-07-03).md
 eb8d295605fa8647047cba2907b8b90c	Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-14).md
 7a676b50e4e5f89ba51e08bb3c678abc	Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-19).md
@@ -1962,13 +2059,12 @@ d04a109e1cb0be8a7268e8f20c1f95b3	Sonic 3D Blast (USA, Europe, Korea) (En) (Beta)
 8bb7afc833254fc5a1c23b8f40e97e09	Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-30).md
 41ab84e532725d9753af5ea03447f851	Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-08-31).md
 ceb2ce0267a8803c55e3bceaa2312d9c	Sonic 3D Blast (USA, Europe, Korea) (En) (Beta) (1996-09-04).md
-742dd5c98d143ff6716800dee6a25dc5	Sonic 3D Blast - Director's Cut (World) (Unl).md
-50acbea2461d179b2bf11460a1cc6409	Sonic 3D Blast ~ Sonic 3D Flickies' Island (USA, Europe, Korea) (En).md
+50acbea2461d179b2bf11460a1cc6409	Sonic 3D Blast (USA, Europe, Korea) (En).md
 1e8c38878d4184977718b8b3c90642b8	Sonic Compilation (Europe).md
 59a5029e58a43c40b715fb8906e6634f	Sonic Compilation ~ Sonic Classics (USA, Europe, Korea) (En) (Rev A).md
 f9d87064d48d99ebbd425e8334de4beb	Sonic Crackers (World) (Proto) (1994-07-xx).md
 ff65f5666f84f0b2d9d6b535188bcd14	Sonic Eraser (Japan) (SegaNet).md
-601dbecadde306ab238443193c76c918	Sonic Jam 6 (Taiwan) (En) (Unl).md
+601dbecadde306ab238443193c76c918	Sonic Jam 6 (Taiwan) (En) (Pirate).md
 5c8462f885aabd7c7921dc029ee62d49	Sonic Spinball (Europe) (Beta) (1993-09-17).md
 81b12228005b3af373574f89ab92fe66	Sonic Spinball (Europe) (Mega Drive Mini).md
 800c7c12bc1eae7ddb61186875b29733	Sonic Spinball (Europe).md
@@ -2018,18 +2114,18 @@ eee05ac790c9384790ed01a752b9f028	Soul Edge VS Samurai Spirits (Taiwan) (En) (Unl
 64b8e4599629ee5d4b7b86b883037b43	Space Hero (USA) (Proto).md
 b12002f1e35c5116dc4a2a8d64b4687e	Space Invaders '91 (USA).md
 9b77f861e9a75bfd2eb5b27137f17e3b	Space Invaders 90 (Japan).md
+210143f754a8ead99373061bd316de09	Sparkster - Rocket Knight Adventures 2 (Japan).md
 1d68100365d9c73bb6c162b9165b5147	Sparkster (Europe).md
 d3ddbc9a45653aa790bb922c7b68ce44	Sparkster (USA).md
-210143f754a8ead99373061bd316de09	Sparkster - Rocket Knight Adventures 2 (Japan).md
-8a9e5724ad9e79b70dca3e7cb81c41ce	Speedball 2 (Europe).md
-9abbd5b0eb5998c758ed5dc603420e23	Speedball 2 (Japan).md
 ba6c09a3dc87d54e8d4234de4e847cff	Speedball 2 - Brutal Deluxe (USA) (Beta) (1991-06-07).md
 ae982c9a1de304ada59b089603c7bd9c	Speedball 2 - Brutal Deluxe (USA).md
+8a9e5724ad9e79b70dca3e7cb81c41ce	Speedball 2 (Europe).md
+9abbd5b0eb5998c758ed5dc603420e23	Speedball 2 (Japan).md
+75af3f1e3b16d725cac258bfafaaea8a	Spider-Man . Venom - Maximum Carnage (World).md
 3ba9d0a9e4b65942ac9514e710d8c2c0	Spider-Man (USA, Europe) (Acclaim) (Beta) (1994-12-12).md
 718248499f9bfab11fbb2485cbe3ec78	Spider-Man (USA, Europe) (Acclaim) (Beta) (August, 1994).md
 af2a9fdd4a378593e47289eb8068164d	Spider-Man (USA, Europe) (Acclaim).md
 084403af61869de5c98cb00f59072abb	Spider-Man (World) (Sega).md
-75af3f1e3b16d725cac258bfafaaea8a	Spider-Man . Venom - Maximum Carnage (World).md
 144f9919f0e7372debe5e0c9b8bad3e9	Spider-Man X-Men - Arcade's Revenge (Europe).md
 16205f67804ec434085121f3c4a81bf5	Spider-Man X-Men - Arcade's Revenge (USA, Europe).md
 2109509e04ffbb2aac870cf06321aee8	Spiritual Warfare (USA) (Unl).md
@@ -2053,14 +2149,14 @@ c377f9f5aab0c99e1a1ae0c1d5c1b8ed	Star Cruiser (Japan).md
 2f1090251c3178c9136de360a13dfa1b	Star Odyssey (World) (Unl).md
 994671ca4d4a2bde25042ed3eb7ffb0b	Star Trek - Deep Space Nine - Crossroads of Time (Europe).md
 0eec35fa119138eb472f81b1f227283c	Star Trek - Deep Space Nine - Crossroads of Time (USA).md
+c829ae57c252fc1a5e49efedc0c6c11c	Star Trek - The Next Generation - Echoes from the Past (USA) (Rev A).md
+ee813bdb98573ed8de080773e2cc7355	Star Trek - The Next Generation - Echoes from the Past (USA).md
 67a11e541cfa471fccb15a7dadba7246	Star Trek - The Next Generation (USA) (Beta) (1993-12-28).md
 e03791feb953a36ea71b7ba21f88975e	Star Trek - The Next Generation (USA) (Beta) (1993-12-29).md
 1cd6e41c96854e725c8f43d9a748894c	Star Trek - The Next Generation (USA) (Beta) (1994-01-03).md
 9b9078a1d131488356dfa1a31d9a644a	Star Trek - The Next Generation (USA) (Beta) (1994-01-10).md
 b4060015d45627d76d27cfc79b8ab397	Star Trek - The Next Generation (USA) (Beta) (1994-01-18).md
 3754c9cbeafa26f7dd04a6a88bb6b81e	Star Trek - The Next Generation (USA) (Beta) (1994-01-25).md
-c829ae57c252fc1a5e49efedc0c6c11c	Star Trek - The Next Generation - Echoes from the Past (USA) (Rev A).md
-ee813bdb98573ed8de080773e2cc7355	Star Trek - The Next Generation - Echoes from the Past (USA).md
 1c5709f2919cd703fac29aa8bcf6a137	Star Wars (USA) (Proto) (1993-01-25).md
 f7fb96468113cbfc41ed68e31689ac83	Starflight (USA, Europe) (Rev A).md
 b95b8da835e866c90e6c6520def207b2	Starflight (USA, Europe).md
@@ -2070,13 +2166,14 @@ b78fa5e007f119440cacc063493b5084	Stargate (USA, Europe).md
 ae43c175914d53406aec1361caf810db	Steel Empire (USA) (1992-03-13) (Sega Channel).md
 9105a05e3e2e0ae261789fdafca676a2	Steel Empire (USA).md
 edfa7b1d6ce95725d2803b8f82e01b90	Steel Talons (Japan, Korea) (Ja).md
-bbb8530eb86b1ca2d06a94cbbd1a138b	Steel Talons (USA, Europe) (Beta) (Alt).md
-8821e3b3bb6c1bda06f419527b3ef820	Steel Talons (USA, Europe) (Beta).md
+bbb8530eb86b1ca2d06a94cbbd1a138b	Steel Talons (USA, Europe) (Beta 1).md
+8821e3b3bb6c1bda06f419527b3ef820	Steel Talons (USA, Europe) (Beta 2).md
 4523a96042e40b0d1ad24cc80be72c37	Steel Talons (USA, Europe).md
 82dd4abca945d4205e6774889d808380	Stone Protectors (USA) (Proto).md
-ba64de2d13d7e7a94abda12c26acf6b8	Stone Protectors (World) (Steam).md
+ba64de2d13d7e7a94abda12c26acf6b8	Stone Protectors (World) (Steam) (Aftermarket) (Unl).md
 689634797f5da35d026593fb240f5fe0	Stormlord (Japan).md
 73070170122193915b7f8af945ef426c	Stormlord (USA).md
+3285ef5a23fdb908d77da525e694af03	Story of Thor, The - Hikari o Tsugumono (Japan).md
 b8c4377a4dea436fda90bd942201b380	Story of Thor, The (Europe) (Beta) (1994-10-04).md
 987df3046f62d9b6c2140b688e3ef559	Story of Thor, The (Europe) (Beta) (1994-10-17).md
 3a219f08b7ab4cc29489ba15210636ff	Story of Thor, The (Europe) (Beta) (April, 1994).md
@@ -2087,15 +2184,14 @@ cdf86f0b16a6ace5fec68762e2719a91	Story of Thor, The (Germany).md
 492833310cf6106bc3db3a0167cce79a	Story of Thor, The (Korea).md
 9188fd192fb9c12d34395521be900aac	Story of Thor, The (Spain) (Mega Drive Mini).md
 2d860cc07bc8a6bbdb0d73a09678c279	Story of Thor, The (Spain).md
-3285ef5a23fdb908d77da525e694af03	Story of Thor, The - Hikari o Tsugumono (Japan).md
 1d2b70eb229480eb5d4bb79bfbd65e59	Street Fighter II' - Champion Edition (Europe) (Beta) (1993-03-25).md
 1797c118f0306efbccb420834a588482	Street Fighter II' - Champion Edition (USA) (Beta) (1993-07-30).md
 727d88b508e960db9433e81e97603ce1	Street Fighter II' - Special Champion Edition (Europe) (Virtual Console).md
 a04172760031920dd7c37c1080457fa0	Street Fighter II' - Special Champion Edition (Europe).md
 e3b495bfb3cce24a35baa0431d19c0bb	Street Fighter II' - Special Champion Edition (USA) (Virtual Console).md
 94c07e0d90ecb7a7745d5eec376b1d61	Street Fighter II' - Special Champion Edition (USA).md
-73e423b24b47abc3edfd6de4ede26541	Street Fighter II' Plus - Champion Edition (Japan) (Virtual Console).md
 8828f4691cfbb4b9f2448ee4ca9c2755	Street Fighter II' Plus - Champion Edition (Japan, Korea) (Ja).md
+73e423b24b47abc3edfd6de4ede26541	Street Fighter II' Plus - Champion Edition (Japan) (Virtual Console).md
 d240289db4df2ac27dfbc204652218c9	Street Racer (Europe) (Beta) (1995-03-21).md
 c2967c23e72387743911bb28beb6f144	Street Racer (Europe).md
 1e439309c5cced355fb7e94454c82f41	Street Smart (Japan, USA) (En) (Beta) (1990-06-29).md
@@ -2122,9 +2218,9 @@ defdbfc9d99794e913c80b0ee0d488f8	Streets of Rage 3 (USA) (Rev A) (Beta) (1994-04
 2d0b0c8f10edf76131708e874e8d1ee4	Streets of Rage 3 (USA).md
 1f7b353c9591c71aaf786d20d1cb43f5	Strider (USA, Europe) (Virtual Console).md
 fcab622a6e56f7e9b1e0907ab5a630df	Strider (USA, Europe).md
+46ab937c360932b8ad31a866fb9a2c7a	Strider Hiryuu (Japan, Korea) (Ja).md
 5e47dc4ed6fbfba39dcc6572ea17b410	Strider Hiryuu (Japan) (Rev A) (Mega Drive Mini).md
 6607372220b6785dc31c54bbb218ace5	Strider Hiryuu (Japan) (Rev A) (Virtual Console).md
-46ab937c360932b8ad31a866fb9a2c7a	Strider Hiryuu (Japan, Korea) (Ja).md
 479ce05afb9d7491702be248d0bd20f3	Strider II (Europe).md
 ee4962aab6e1a6e5d4c5681bcb560dd8	Striker (Europe) (Beta).md
 adb802ff17d95919ed89111a1ec44be5	Striker (Europe) (En,Fr,De,Es,It).md
@@ -2135,6 +2231,7 @@ adb802ff17d95919ed89111a1ec44be5	Striker (Europe) (En,Fr,De,Es,It).md
 70a1ab4156874bab69573b05b914dbff	Sub-Terrania (USA) (Beta 2) (October, 1993).md
 35aca51fa35e9a6131a4891bed718a8d	Sub-Terrania (USA) (Beta 3) (October, 1993).md
 d3bd3dc31b1903148c0ce92a98a6869a	Sub-Terrania (USA).md
+656212894b7804f81e5f3cf0cd5f27b0	Sukiya (World) (Proto) (Aftermarket) (Homebrew).md
 be33b158669ede37328255c84df027d7	Summer Challenge (USA, Europe) (Unl).md
 cc60b5cd7295df626d81a3ecd30c4133	Sunset Riders (Europe).md
 19cdf861c543f9c9cd9c8b6b70adeb1c	Sunset Riders (USA).md
@@ -2154,7 +2251,7 @@ ff59ca57c4f2a6987042d4f53b5a20a4	Super Hang-On (Japan, USA) (En,Ja).md
 8128e0c411b702a907ff29a33d28b6a5	Super Hang-On (World) (En,Ja) (Beta) (1989-08-18) (Sega Channel).md
 461c88b8dfde1469b8a5fee18d18a05b	Super Hang-On (World) (Sega Smash Pack 2).md
 90bad6828beef6b866f9dcf450c04aa9	Super Heavy Duty (World) (Aftermarket) (Unl).md
-8c44f831b94baf0051b3207ef8243672	Super Heavy Duty (World) (Demo) (2020-08-27) (Aftermarket) (Unl).md
+8c44f831b94baf0051b3207ef8243672	Super Heavy Duty (World) (Demo) (2020-08-27) (Aftermarket) (Homebrew).md
 a4664d206773778758676540f3b4da02	Super High Impact (USA).md
 6ba8d8f9d7bbdd3064bc093f22aa7c0a	Super Hydlide (Europe).md
 9c86376aabd8035036c9c7c416a9ec75	Super Hydlide (Japan).md
@@ -2164,7 +2261,7 @@ bc8ffce6de6406116d49f8b5e3ed77ab	Super Hydlide (USA).md
 ecf7a986266818933022fd370bb30943	Super King Kong 99 (Taiwan) (En) (Unl).md
 fe966e29f7dda9084261fdfd648c3f50	Super League (Europe).md
 731d1675352961fa7254a720432c0bbb	Super League (Japan).md
-05bd738e1cfa96a140ae74ef40588307	Super Mario 2 (Taiwan) (En) (Unl).md
+05bd738e1cfa96a140ae74ef40588307	Super Mario 2 (Taiwan) (En) (Pirate).md
 ae3a771166c86278feec5fc3723283e8	Super Mario Bros. (Taiwan) (En) (Unl).md
 3b5680ea1e383b5c6d90338fc4b4b4b7	Super Mario World (Taiwan) (En) (Unl).md
 394783b469e8dd48f14a0063257b51a9	Super Mario World 64 (Taiwan) (En) (Unl).md
@@ -2175,32 +2272,33 @@ ded2b235f625424f353c13c4d3a2cf89	Super Monaco GP (World) (En,Ja).md
 539e2797cf613f39115cc86ae005d705	Super Off Road (USA, Europe) (Unl).md
 877df60e0d09958b2e3e28df9773e8af	Super Real Basketball (Europe).md
 50576153aa8102d02b122210ffaff07f	Super Real Basketball (Japan, Korea) (Ja).md
+6ce59f3e7ee52dc8c6df7b4d8a166826	Super Shinobi II, The (Japan, Korea) (Ja).md
 fa66434d9e99e5108459f4ecec0950b1	Super Shinobi II, The (Japan) (Beta 1).md
 71429f5fb394a1f28caf4784340e185f	Super Shinobi II, The (Japan) (Beta 2).md
-6ce59f3e7ee52dc8c6df7b4d8a166826	Super Shinobi II, The (Japan, Korea) (Ja).md
 0b4285d853d5d6e634a4c60be3da9e3a	Super Shinobi, The (Japan) (En) (Beta) (1989-08-21) (Sega Channel).md
 51d5918492ee59ccfc1eca7dcd70e250	Super Shinobi, The (Japan) (En) (Beta) (1989-xx-xx) (Sega Smash Pack).md
 c296021f74ab1192ed7e1865cdebc972	Super Shinobi, The (Japan).md
 0ff3cb4877f3e4d9af165ad757805532	Super Skidmarks (Europe) (Beta) (1995-09-22).md
 533b890ed1113547691f36ad1c59e346	Super Skidmarks (Europe) (J-Cart).md
 6858c543dd27b9f1d5aa260a25ab1b83	Super Smash T.V. (USA, Europe).md
+eec1da08e45a34459e4942d56acff01d	Super Street Fighter II - The New Challengers (Japan) (Virtual Console).md
+825e67797bfcf3c27754d59b4f668493	Super Street Fighter II - The New Challengers (Japan).md
 e7d06643e2e1311520a0e5a6c6aa5fe1	Super Street Fighter II (Europe) (Virtual Console).md
 4890fe7dbbed12d7db1ef029ca7d930a	Super Street Fighter II (Europe).md
 af9df8b3ffe7fff3016e6541175d0a67	Super Street Fighter II (USA) (Virtual Console).md
 75950e3aa9357a21715ffe2fa51a454c	Super Street Fighter II (USA).md
-eec1da08e45a34459e4942d56acff01d	Super Street Fighter II - The New Challengers (Japan) (Virtual Console).md
-825e67797bfcf3c27754d59b4f668493	Super Street Fighter II - The New Challengers (Japan).md
 11382e11a4ed5834e80e30d1d95ca006	Super Tank War (Taiwan) (En) (Unl).md
 15268ba530efea609e201df49e9514e2	Super Thunder Blade (Japan) (Launch Cart).md
 04da37f2a95340243bff72c82d4c7b73	Super Thunder Blade (World).md
 52a44b85c2eda20d150e2e4d742ddc66	Super Volley Ball (Japan).md
 b2007f23346c87e12f54e04aebd55f52	Super Volleyball (USA).md
+6e3f8fa3e7e3d1d42283f2561fecf152	Superman - The Man of Steel (Europe).md
 115aa2b70eabc255e7d06cd2a454a091	Superman (USA) (Beta).md
 d7abe5e449f7fa966d0f6b158eea8ee9	Superman (USA).md
-6e3f8fa3e7e3d1d42283f2561fecf152	Superman - The Man of Steel (Europe).md
+ac780d9d141c7e68d9998bb4d59050a2	SupraKillminds! (World) (Aftermarket) (Homebrew).md
 fd630f3dd0d60fb68574ec12c0a6ffbd	Surging Aura (Japan).md
 25bde5599c0c3603c7e0dfc3f3ae5f29	Swamp Thing (USA) (Proto).md
-43ede395d029ec9f4779b28912e1ebb3	Sweetsdigger (World) (Aftermarket) (Homebrew).bin
+43ede395d029ec9f4779b28912e1ebb3	Sweetsdigger (World) (Aftermarket) (Homebrew).md
 382b6ac84821521759c6f6adb7829307	Switchblade (World) (Aftermarket) (Unl).md
 fcc986f5e11a17346a81c0634e25665f	Switchblade (World) (Demo) (Aftermarket) (Unl).md
 5d5d8d4bfcde93737cdd0bad207a0550	Sword of Sodan (Japan).md
@@ -2210,30 +2308,30 @@ a742836dc29ee51cf6d985191820ae4e	Sword of Vermilion (USA, Europe).md
 a81d327574d49aab69c2a6fe4cdc893a	Syd of Valis (USA).md
 c215bb67fb8d0f9eba7c4aa5d7feab42	Sylvester & Tweety in Cagey Capers (USA, Europe) (Beta 1).md
 4593587896caf2a22112b08b4c155734	Sylvester & Tweety in Cagey Capers (USA, Europe) (Beta 2).md
-bbf74e8f5eda63631ce7617370d1f747	Sylvester and Tweety in Cagey Capers ~ Sylvester & Tweety in Cagey Capers (USA, Europe).md
+bbf74e8f5eda63631ce7617370d1f747	Sylvester & Tweety in Cagey Capers (USA, Europe).md
 f8dbf7f08131243c18ed3626b10d2d55	Syndicate (USA, Europe) (En,Fr,De).md
 32f931827159663d6bf27c12949b1875	T2 - Terminator 2 - Judgment Day (USA, Europe).md
 a8116b3d4cb98089cfa78fe4a7f9e5bb	T2 - The Arcade Game (Japan).md
-eac97bb10a17764668a35598fe41de26	T2 - The Arcade Game (USA) (Beta) (August, 1992).md
 3c2666bcc3c42a4218e46c5aba2bca15	T2 - The Arcade Game (USA, Europe).md
+eac97bb10a17764668a35598fe41de26	T2 - The Arcade Game (USA) (Beta) (August, 1992).md
 ef127d6c09f56274822771e83487be37	Taikou Risshiden (Japan).md
 3d655ff935e30fa12a18fda9dd6fa695	Taiwan Daheng (Taiwan) (Unl).md
 7726d676edc7b39e05f08489fd3daa61	TaleSpin (USA, Europe) (Beta).md
 2ac0d4208641095358d663b3eb17b397	TaleSpin (USA, Europe).md
 fe73ff9498cfb35b2e898e6d9d5389c9	Talmit's Adventure (Europe).md
-b684990797358eb247bfc466ea606292	Tanglewood (World) (Aftermarket) (Homebrew).md
-c0daa1b0575d0fdfafb5deeb84e55147	Tanglewood (World) (Demo) (0.0.11) (Aftermarket) (Unl).md
-4310c7312ec4efb59609eb5081de0c97	Tanglewood (World) (Demo) (0.0.14) (Aftermarket) (Unl).md
-232258a621ea2255fe07f2ac15e269aa	Tanglewood (World) (Demo) (0.0.15) (Aftermarket) (Unl).md
-7ec4bfd9c600eb59f3d818b51e311d63	Tanglewood (World) (Demo) (0.1.04) (Aftermarket) (Unl).md
-ba8fc80b40d5305bfad96cd46f9a35e9	Tanglewood (World) (Demo) (0.8.01) (Aftermarket) (Unl).md
-39573c11e33a04ae67d8c1b3c3413942	Tanglewood (World) (Demo) (0.9.37) (Aftermarket) (Homebrew).md
+b684990797358eb247bfc466ea606292	Tanglewood (World) (GOG) (Aftermarket) (Unl).md
+c0daa1b0575d0fdfafb5deeb84e55147	Tanglewood (World) (v0.0.11) (Demo) (Aftermarket) (Unl).md
+4310c7312ec4efb59609eb5081de0c97	Tanglewood (World) (v0.0.14) (Demo) (Aftermarket) (Unl).md
+232258a621ea2255fe07f2ac15e269aa	Tanglewood (World) (v0.0.15) (Demo) (Aftermarket) (Unl).md
+7ec4bfd9c600eb59f3d818b51e311d63	Tanglewood (World) (v0.1.04) (Demo) (Aftermarket) (Unl).md
+ba8fc80b40d5305bfad96cd46f9a35e9	Tanglewood (World) (v0.8.01) (Demo) (Aftermarket) (Unl).md
+39573c11e33a04ae67d8c1b3c3413942	Tanglewood (World) (v0.9.37) (Demo) (Aftermarket) (Unl).md
 8f50069edeb5022f0003fa1461a89545	Tanglewood (World) (Rev 1) (Aftermarket) (Unl).md
-3a6effb7eb7e17a84957b7c2ba6c61ca	Tanzer (World) (1.83) (Aftermarket) (Unl).md
-5c5b6e0ece95f276c6d920e4ede899d2	Tanzer (World) (Demo) (Aftermarket) (Unl).md
+3a6effb7eb7e17a84957b7c2ba6c61ca	Tanzer (World) (Aftermarket) (Unl).md
+5c5b6e0ece95f276c6d920e4ede899d2	Tanzer (World) (Demo) (Aftermarket) (Homebrew).md
+109cec8f208a5a99f09b3f878c5d735d	Target Earth (USA, Europe) (Switch Online).md
 29ed0a6f1f9d93882652b1a649daa53c	Target Earth (USA) (Beta) (1990-02-16).md
 ae816c5017578267060fd4733586cba7	Target Earth (USA).md
-109cec8f208a5a99f09b3f878c5d735d	Target Earth (USA, Europe) (Switch Online).md
 c8d5dda49171c0514b8260122f6f688c	Task Force Harrier EX (Japan).md
 d5b0add1252ac8fd1ecec8b02cf51718	Task Force Harrier EX (USA).md
 75a42b19e5503c72b21018699314db0b	Tatsujin ~ Truxton (World).md
@@ -2264,17 +2362,21 @@ d6de12d1e1a2c21a93367a041a3b3f4b	Tecmo Super NBA Basketball (USA).md
 b6dd8b6470348530d0c5dbd2a1eaa858	Teddy Boy Blues (Japan) (SegaNet).md
 d55083fb5a014db1c8692e1545309fc7	Teenage Mutant Hero Turtles - The Hyperstone Heist (Europe).md
 4a123a906db13ac79e881bb35c7a1a0c	Teenage Mutant Hero Turtles - Tournament Fighters (Europe).md
+dafb45be71500cb486daea23c0d0fe94	Teenage Mutant Ninja Turtles - Return of the Shredder (Japan) (Aftermarket) (Homebrew).md
 8d30e09b0988709472e6750bfd1744ee	Teenage Mutant Ninja Turtles - Return of the Shredder (Japan).md
+b212833cd8dd8ba42c7ba069d6eb7b25	Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA) (Aftermarket) (Homebrew).md
 30ede62c8efe3e046e5409758b091eb6	Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).md
 0d7d46d63a371cae49294e48bbc7127f	Teenage Mutant Ninja Turtles - The Legend Returns (Russia) (Unl).md
+6eac1ced2225f9d496141d885c30cd08	Teenage Mutant Ninja Turtles - Tournament Fighters (Japan) (Aftermarket) (Homebrew).md
 1a72e14977672c6fb1cdbc5a50d8c4a2	Teenage Mutant Ninja Turtles - Tournament Fighters (Japan).md
+64feee462a59cf4af17304bc5a2f99be	Teenage Mutant Ninja Turtles - Tournament Fighters (USA) (Aftermarket) (Homebrew).md
 4cabf79a9e4783ff4e5c1294bcb6129c	Teenage Mutant Ninja Turtles - Tournament Fighters (USA).md
 6029e93a3d8a1507de330eb6d10caf69	Teitoku no Ketsudan (Japan).md
 bd9b381bebfdff7ca86b8d01880f806d	Tekken Special (Taiwan) (En) (Unl).md
 5f79e30f35605c9bd513d8565c98d936	Tel-Tel Mahjong (Japan).md
 10de73887a8f42561e9966bdeadf7ad4	Tel-Tel Stadium (Japan).md
 aa465b9d9aa4367c5d48219f42c6f73a	Telebradesco Residencia (Brazil) (En) (Program).md
-0776982f04859b0e3c7194804827d9f4	Telethugs (World) (Aftermarket) (Homebrew).bin
+0776982f04859b0e3c7194804827d9f4	Telethugs (World) (Aftermarket) (Homebrew).md
 aa196bb3731b1fdbb065c42a30591543	Tenchi o Kurau III - Sangoku Gaiden (Taiwan) (Unl).md
 677b0afb84b0828a7c304784d73983a9	Terminator, The (Europe).md
 c8617114519ce73d3deb182c15c37734	Terminator, The (USA) (Beta) (1992-04-14).md
@@ -2308,11 +2410,11 @@ d45f98bea74f605640fd8e9e9eb578ce	Time Trax (USA) (Proto).md
 d34ef4204796611afaf39ca1a4600d5a	Tinhead (USA) (Spectrum HoloByte) (October, 1995).md
 0df502e9f69d0774d505d7800a4c8c64	Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv) (Beta).md
 4e436136d6734d6933b95178c5649165	Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv).md
-c1e16666cac05be073583ce0c4869dc9	Tiny Toon Adventures (Korea) (En).md
 abddd42b2548e9b708991f689d726c9a	Tiny Toon Adventures - ACME All-Stars (Europe) (En,Fr,De).md
 1def1d7dbe4ab6b9e1fc90093292de6a	Tiny Toon Adventures - ACME All-Stars (USA, Korea) (En).md
 f34b286c0abd5eaab6a2e98a1c4c5176	Tiny Toon Adventures - Buster's Hidden Treasure (Europe).md
 4831cb1b067887a086467ec51653af48	Tiny Toon Adventures - Buster's Hidden Treasure (USA).md
+c1e16666cac05be073583ce0c4869dc9	Tiny Toon Adventures (Korea) (En).md
 e5d4f143fce5c6833e1fed18f830f1c6	Tiny Toon Adventures 3 (Taiwan) (En) (Unl).md
 92918afc6e6e5a96ff6f34e6d3d37329	TNN Bass Tournament of Champions (USA).md
 d6315eddc8d86f858d894b353d0e585d	TNN Outdoors Bass Tournament '96 (USA).md
@@ -2347,7 +2449,7 @@ e49d25135eff2c4d3603e8e8125998d0	Top Pro Golf (Japan).md
 6bbf7668e1290550942d514ad473d743	Total Football (Europe).md
 7a7538d5d2f66f4a15786f49cae0c382	Toughman Contest (USA, Europe).md
 7e6b1144fe4f929dff15fd6dca89fc37	Tougiou King Colossus (Japan).md
-c2cdbe3614511bf905b04d931785d050	Tourmaline (World) (Aftermarket) (Homebrew).bin
+c2cdbe3614511bf905b04d931785d050	Tourmaline (World) (Aftermarket) (Homebrew).md
 a926370d03e278f76c26c868b909fd36	Toxic Crusaders (USA).md
 5992b6171bcbb7d7210b8a67db22f1cd	Toy Story (Europe).md
 f61a31259e41a28aa5946d2a0e3e3bbf	Toy Story (USA) (Sample).md
@@ -2385,8 +2487,8 @@ b090d74241cd56820b568c319799412b	Tyrants - Fight Through Time (USA).md
 2de20c45e4d643b7eb96cfba59626a04	Ultimate QIX (USA).md
 6912373a911d907968a99650537f3d73	Ultimate Soccer (Europe) (En,Fr,De,Es,It) (Beta).md
 3426fc8802e1a385dc227b9dde59cbe4	Ultimate Soccer (Europe) (En,Fr,De,Es,It).md
-d3d42b4291066b9aadd4a363fc324235	Ultracore (Europe) (MD-1.0) (Aftermarket) (Unl).md
-9cfa000f071866f439c7acdcf0149fea	Ultracore (Europe) (V-1.0) (Aftermarket) (Unl).md
+d3d42b4291066b9aadd4a363fc324235	Ultracore (Europe) (Aftermarket) (Unl).md
+9cfa000f071866f439c7acdcf0149fea	Ultracore (USA, Europe) (Switch, PS Vita) (Aftermarket) (Unl).md
 42781a2d30441e259cec4b4a4ee10097	Ultracore (Japan) (En) (Aftermarket) (Unl).md
 fa1039ffa11bbe351ec33f6f8453bfd5	Ultracore (USA) (Aftermarket) (Unl).md
 8952cf5509449e3c2ce61424d4807161	Ultraman (Japan).md
@@ -2395,6 +2497,9 @@ f7e2e19770ff41441f79d014bc963122	Undead Line (Japan).md
 1546f822e7fe5b5d7fa54067968628dd	Universal Soldier (USA, Europe) (Unl).md
 f314fe624d288b4e1228ae759bae1d86	Unnecessary Roughness '95 (USA).md
 0f0be2db4084822d5514f8e34a0d1488	Urban Strike (USA, Europe).md
+a9b20c465e8bb8ce06ec0bb3940e45d3	UWOL - Quest for Money (World) (v1.0) (Aftermarket) (Homebrew).md
+59aa79dea213ecc0f44a537bc4ae7dd9	UWOL - Quest for Money (World) (v1.1) (Aftermarket) (Homebrew).md
+c1bb39180a8ef03683301dd2ac8403e5	UWOL - Quest for Money (World) (v1.2) (Aftermarket) (Homebrew).md
 7a3e28e8befbc5134cc0e61614b2023b	Uzu Keobukseon (Korea).md
 af4bdc10f0eda16eda979d1353faa04b	V-V (Japan).md
 bf2aaf867d3201355a1168637a9ba475	Valis (USA) (Beta) (1991-10-25).md
@@ -2406,12 +2511,12 @@ a50202da29099f2c9d8b1c629653a718	Valis III (USA).md
 3453bcc79345872034845cc5a7a1b15f	Vampire Killer (Japan).md
 4e69f2ecbfb967d3c1304bc0f337f059	Vapor Trail (USA) (Beta) (1991-05-26).md
 cff6076504b1097bb89848c0698ef2a2	Vapor Trail (USA).md
-d3aec81b37ec520f37edb910305ff829	Vectorman (USA) (Genesis Mini).md
 8c9e5e67cc9a04e328423e71932d6fa7	Vectorman (USA, Europe) (Beta 1).md
 90f9163382f6f9bac78d462dd738c14b	Vectorman (USA, Europe) (Beta 2).md
 4399f6b387c85836bdb813f125a7ac56	Vectorman (USA, Europe) (Beta 3) (1995-07-24).md
 275accce7f270d076434094e3510676d	Vectorman (USA, Europe) (Sega Smash Pack 2).md
 d7171a867739c8ec325aa65b175b0c49	Vectorman (USA, Europe).md
+d3aec81b37ec520f37edb910305ff829	Vectorman (USA) (Genesis Mini).md
 a61f63c50241ead41a3fc85a74e0428e	Vectorman 2 (USA) (Beta) (1996-08-15).md
 fbd46061a158f44e4ad33f7d53592d7d	Vectorman 2 (USA) (Beta) (1996-08-16).md
 86d34235fb40c7066e05b13790c66ac5	Vectorman 2 (USA) (Beta) (1996-08-19).md
@@ -2459,7 +2564,7 @@ bcf98c92d475c94a451442f3df55ec51	Warrior of Rome (USA).md
 8ab12498223286f3a4e519ce34f93e49	Warrior of Rome II (USA).md
 224729c46eb827aaecede2365bf45c56	Warsong (USA) (Beta) (1991-10-01).md
 146996a42ef0cca2578f4d56da2c4206	Warsong (USA).md
-3c8a26ee7bacf851ddcd8f4f6b9b17da	Water Margin - A Tale of Clouds and Wind (World) (Unl).md
+3c8a26ee7bacf851ddcd8f4f6b9b17da	Water Margin - A Tale of Clouds and Wind (USA) (Aftermarket) (Unl).md
 1b578a6a735966aa8ccfd677eaa3812a	Waterworld (Europe) (Proto).md
 2fc23c2ee4ec92583a1f4cb3dfd7cf68	Wayne Gretzky and the NHLPA All-Stars (USA, Europe) (Beta).md
 7841791f8e0d6cb6d776f7fcb338377f	Wayne Gretzky and the NHLPA All-Stars (USA, Europe).md
@@ -2470,9 +2575,9 @@ a6c278bd20a91b98cbbda5ec19bb1f5e	WeaponLord (USA).md
 73b10dc65ef1e21e9aaf2b34d74dc7b2	Where in the World Is Carmen Sandiego (USA, Europe) (En,Fr,De,Es,It).md
 f3a7f38fc5516e1de23e294137475564	Where in Time Is Carmen Sandiego (Brazil) (Es,Pt).md
 f7f6f16a56a5fad6c7a458b9a7822d77	Where in Time Is Carmen Sandiego (USA, Europe) (En,Fr,De,Es,It).md
+d0325f369183f1153e0ce825283e6d7a	Whip Rush - Wakusei Voltegas no Nazo (Japan).md
 c89f68a8fdfbc6523091784c9a0afd9f	Whip Rush (USA) (Beta) (1990-01-29).md
 85ec5e2358cc4e8041206bec66d47fe9	Whip Rush (USA).md
-d0325f369183f1153e0ce825283e6d7a	Whip Rush - Wakusei Voltegas no Nazo (Japan).md
 78761c483b557886dc7e6cef754ea765	Wild Snake (USA) (Proto).md
 0e1cbc28671b781b174693d234a5a446	Williams Arcade's Greatest Hits (USA).md
 7bb99ff11b04544600ffe56dc79d72b3	Wimbledon (Europe).md
@@ -2485,9 +2590,9 @@ dd43c4cfd5958baeb9b4ddd5619f7255	Wimbledon Championship Tennis (Japan).md
 fbdd0aecdee18be64b1e7dd93b31821a	Winter Olympic Games (USA) (En,Fr,De,Es,It,Pt,Sv,No).md
 b8aac09c5d011c15ff3b32f45b04af87	Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No).md
 39f01609531a8bd256f44a17b2dfcad8	Winter Olympics (Japan) (En,Fr,De,Es,It,Pt,Sv,No).md
-99e1e890a6c545c9869d16a7d54b41ae	Wisdom Tree Collection (World) (Aftermarket) (Unl).md
-01c9742b0a83a7c135f9ed6948dc7576	Wiz 'N' Liz (USA).md
+99e1e890a6c545c9869d16a7d54b41ae	Wisdom Tree Collection (USA) (Aftermarket) (Unl).md
 8c0a97a07867e5a9406d45e682d0cde8	Wiz 'n' Liz - The Frantic Wabbit Wescue (Europe).md
+01c9742b0a83a7c135f9ed6948dc7576	Wiz 'N' Liz (USA).md
 91135a34a56bff6a502dba1e529c0280	Wizard of the Immortal (Japan).md
 b2edbcc663643eab07d9101a855fd9e4	Wolfchild (USA).md
 edcab9581877ad444db121e1badd45f9	Wolverine - Adamantium Rage (USA, Europe).md
@@ -2631,14 +2736,14 @@ b687660446f6e49dfd465cd0ef9f0bc3	X-Men 2 - Clone Wars (USA, Europe).md
 63a46aacf69b287ed16cd15afef84ee7	Xin Qi Gai Wang Zi (Taiwan) (Beta) (Unl).md
 8094c9a1c0cf82b26621a382d3ee4724	Xin Qi Gai Wang Zi (Taiwan) (Unl) (Alt).md
 528e171264ebfd90e53fd9667d1c61d1	Xin Qi Gai Wang Zi (Taiwan) (Unl).md
-02bb7d7ea860220eddfd8f935632f270	Xump 2 - Back to Space (World) (v1.00) (Alternative Edition) (Aftermarket) (Homebrew).bin
-e099084aaeee5a7bfe2cec658f1fd022	Xump 2 - Back to Space (World) (v1.00) (Digital Edition) (Aftermarket) (Homebrew).bin
-5a480c7bfaa7f22c2eaf1fd109e6536a	Xump 2 - Back to Space (World) (v1.00) (Physical Edition) (Aftermarket) (Homebrew).bin
+02bb7d7ea860220eddfd8f935632f270	Xump 2 - Back to Space (World) (v1.00) (Alternative Edition) (Aftermarket) (Homebrew).md
+e099084aaeee5a7bfe2cec658f1fd022	Xump 2 - Back to Space (World) (v1.00) (Digital Edition) (Aftermarket) (Homebrew).md
+5a480c7bfaa7f22c2eaf1fd109e6536a	Xump 2 - Back to Space (World) (v1.00) (Physical Edition) (Aftermarket) (Homebrew).md
 f5df780293d4e518acda8a2c90e6b0fc	Ya Se Chuan Shuo (Taiwan) (Unl) (Alt).md
 959109050fe0e9b3cfc2ba30b6b60975	Ya Se Chuan Shuo (Taiwan) (Unl).md
-ae5c6b88c02b3e0c28fa1ee57b1ad88b	Yazzie (World) (Aftermarket) (Unl) (Alt).bin
-21d317c06e10ad52f50955bf7b672e70	Yazzie (World) (Aftermarket) (Unl).md
-458a9cc756a87180805f0d4788097747	Yazzie (World) (dmaSafe) (Aftermarket) (Unl) (Alt).bin
+21d317c06e10ad52f50955bf7b672e70	Yazzie (USA) (Aftermarket) (Unl).md
+ae5c6b88c02b3e0c28fa1ee57b1ad88b	Yazzie (World) (Aftermarket) (Homebrew).md
+458a9cc756a87180805f0d4788097747	Yazzie (World) (dmaSafe) (Aftermarket) (Homebrew).md
 b29476faa932165d616a2822e92dec8f	Yi Men Ying Lie - Yang Jia Jiang (Taiwan) (Unl).md
 ded915ceb879681492b069c4cec0cb5e	Yogi Bear - Cartoon Capers (Europe).md
 ec889336c50f215a0a248f09ee0df686	Young Indiana Jones Chronicles, The (USA) (Beta).md
@@ -2650,12 +2755,12 @@ fc016fc52d0d6baacda12df3a89d5b06	Ys III (USA).md
 a339561a0d46fee4c2569de0b237a02b	Yu Yu Hakusho Gaiden (Japan).md
 2a2165b2be91810f5b97e8d7d2f76ad5	YuYu Hakusho - Sunset Fighters (Brazil).md
 13dd1f56c92209bfe200d93d98c7b36a	Zan Yasha Enbukyoku (Japan).md
-6a23d5585b4fe6532d10f440f78af19a	Zany Golf (USA) (Unl).md
 e389d35d584f1db39d6abf9d5b21162e	Zany Golf (USA, Europe).md
+6a23d5585b4fe6532d10f440f78af19a	Zany Golf (USA) (Unl).md
 cc4451d56d92c4a7a1c1462ac07c1296	Zero the Kamikaze Squirrel (Europe).md
 4e18827f7dd6ca39970a2ef0e0fa21d0	Zero the Kamikaze Squirrel (USA).md
 54427136beee5a270232445bbfd0341f	Zero Tolerance (USA, Europe) (Rev A).md
-2bcdd81203ccfa70f08e9d0d3bf8a528	Zero Tolerance (World) (GOG) (Aftermarket) (Homebrew).bin
+2bcdd81203ccfa70f08e9d0d3bf8a528	Zero Tolerance (World) (GOG) (Aftermarket) (Homebrew).md
 5f4f2fb8c7b8c50efbc6eed57ce3dae3	Zero Wing (Europe).md
 9647d8ec9183f3ec9f944d5ea49a99a9	Zero Wing (Japan).md
 1e88ddbafd310eda65c506d0175f34d6	Zero Wing (USA) (Aftermarket) (Unl).md
@@ -2665,42 +2770,12 @@ eae446341ffc7e825c2d7c79222fedc1	Zhong Guo Xiang Qi (Taiwan) (Unl).md
 9937c7698d62672f7ab46d3fc09f0f2b	Zombie High (USA) (Proto) (1992-08-11).md
 f34c4d65295980bbf7c1c0dde433b154	Zombies (Europe).md
 de13c6ca3789b58f19df059f2d1a8425	Zombies Ate My Neighbors (USA).md
-9fa39c1b8e6d86022d7e4c98ac0186f0	Zool (Unknown) (Beta) [b].md
 98a9c42c965a336c2c3e6dca5319d031	Zool - Ninja of the 'Nth' Dimension (Europe).md
 2d28ddb5be02a3b3612ba73ca064edb5	Zool - Ninja of the 'Nth' Dimension (USA).md
+9fa39c1b8e6d86022d7e4c98ac0186f0	Zool (Unknown) (Beta) [b].md
 dcb24422572d9acf8dc158aa734ebb79	Zoom! (World).md
+1844f4eaace78ed4d653c199473a71fe	Zooming Secretary - Going Panic (World) (Aftermarket) (Homebrew).md
 ffee23596eed8b6a50138c6c63349ecc	Zoop (Europe).md
 756520442f022f3b6873ee8a4319c5ff	Zoop (USA) (Beta).md
 c4c9fe0959ee29953cf23c095981ca81	Zoop (USA).md
 685facf5f572d2113187ecc40b0341bf	Zou! Zou! Zou! Rescue Daisakusen (Japan).md
-7e85dd6ae3ecf51eac71cd6ced8fdc6d	[BIOS] Aiwa CSD-GM1 (Japan).md
-a5a2f9aae57d464bc66b80ee79c3da6e	[BIOS] LaserActive (Japan) (v1.02).md
-927df773f9a1c7de94a72420b2d538dd	[BIOS] LaserActive (Japan) (v1.05).md
-691c3fd368211280d268645c0efd2eff	[BIOS] LaserActive (USA) (v1.02).md
-0e7393cd0951d6dde818fcd4cd819466	[BIOS] LaserActive (USA) (v1.04).md
-bdeb4c47da613946d422d97d98b21cda	[BIOS] Mega-CD (Asia) (Ja) (Rev H).md
-e66fa1dc5820d254611fdcdba0662372	[BIOS] Mega-CD (Europe).md
-e99e30eeffee8201f9eb2c6e219b6fc2	[BIOS] Mega-CD (Japan) (Beta).md
-7882cb53ec33ba550c67dc1afa688cc5	[BIOS] Mega-CD (Japan) (Rev A).md
-bc6ae4e1db01a2f349d9af392bf7e2bd	[BIOS] Mega-CD (Japan) (Rev B).md
-29ad9ce848b49d0f9cefc294137f653c	[BIOS] Mega-CD (Japan) (Rev C).md
-cc049159d7e744c15eee080c241273b4	[BIOS] Mega-CD (Japan) (Rev D).md
-278a9397d192149e84e820ac621a8edd	[BIOS] Mega-CD (Japan) (Rev E).md
-a3ddcc8483b0368141adfd99d9a1e466	[BIOS] Mega-CD (Japan) (Rev H).md
-3dcb4e9924b0df8fa5d7252a9cd43f78	[BIOS] Mega-CD (Japan) (v1.11B).md
-b10c0a97abc57b758497d3fae6ab35a4	[BIOS] Mega-CD 2 (Europe) (Rev A).md
-2b57402ab187e156dc5f2f83b7b594b7	[BIOS] Mega-CD 2 (Europe) (v2.11).md
-9b562ebf2d095bf1dabadbc1881f519a	[BIOS] Mega-CD 2 (Europe).md
-683a8a9e273662561172468dfa2858eb	[BIOS] Mega-CD 2 (Japan).md
-d91b0fd488d29624c4ef2ee7b19efff0	[BIOS] Multi-Mega (Europe).md
-2efd74e3232ff260e371b99f84024f7f	[BIOS] Sega CD (USA) (Rev B).md
-96ea588d647f2ab1f291279fc691663c	[BIOS] Sega CD (USA) (v1.00).md
-854b9150240a198070150e4566ae1290	[BIOS] Sega CD 2 (USA) (Rev A).md
-310a9081d2edf2d316ab38813136725e	[BIOS] Sega CD 2 (USA).md
-ecc837c31d77b774c6e27e38f828aa9a	[BIOS] Sega CD 2A (USA).md
-baca1df271d7c11fe50087c0358f4eb5	[BIOS] Sega CDX (USA).md
-d3293ebaaa7f4eb2a6766b68a0fb4609	[BIOS] Sega Mega Drive - Genesis Boot ROM (World).md
-9f567d86705317eedd7d5bf2a729ff1b	[BIOS] Sega Teradrive - TMSS (Japan).md
-732b60960226caf33df6b487f376de69	[BIOS] WonderMega (Japan) (En).md
-d32f50fb7f4355c45d5db306a0d38fa4	[BIOS] WonderMega M2 (Japan).md
-82ce2363f7ddc620b9c255d35833118f	[BIOS] X'Eye (USA).md
