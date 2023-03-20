@@ -1,0 +1,520 @@
+0dfb83c1353481d297dfcc6123978533	2010 - The Graphic Action Game (1984)(Coleco).bin
+5a19ede183558b22bba0d3dd3e7b3122	2010 - The Graphic Action Game v54 (1984-09-11)(Coleco)(beta).bin
+087e65a78ad4ff1dbd302164222589eb	A.E. (1984)(Coleco)(US)(proto).bin
+69808d9e1879b8bafd729b465b64b701	Air Battle v0.4 (2000)(Bienvenu, Daniel)(PD).bin
+803914bbde6822ebf113d5b1d1cf7011	Alcazar - The Forgotten Fortress (1985)(Telegames).bin
+0022f03db208a79f00968e6709d0a150	Alcazar - The Forgotten Fortress (1985)(Telegames)[b2].bin
+48cf5b1ebbad828467eda47f2c5c5046	Alcazar - The Forgotten Fortress (1985)(Telegames)[b].bin
+0261934725db17b448fda837cb01a224	Amazing Snake (2000)(Tremblay, Serge-Eric)(PD).bin
+b6ae584b2ba8135176fcb89e61d837b3	Amazing Snake v0.4 (2000)(Tremblay, Serge-Eric)(PD).bin
+6752856c1228e49b8274a9614c126243	Amazing Snake v0.5 (2000)(Tremblay, Serge-Eric)(PD).bin
+1ea45edc04bc4df444a38e50f8a75d5d	Antarctic Adventure (1984)(Coleco - Konami).bin
+2aa54fb66f8764841be2e59d41fecb2d	Antarctic Adventure (1984)(Coleco - Konami)(beta).bin
+c152cd482635307598c465dfc3c97c54	Aquattack (1984)(Interphase).bin
+28f9a15d22e302ef1e293f8d9f65c7dd	Aquattack (1984)(Interphase)[b].bin
+fabbbf6dfcb0628fa33b476750a492f8	Artillery Duel (1983)(Xonox).bin
+4c0a35ec646d092ffbca54b8dac1e364	Artillery Duel (1983)(Xonox)[b].bin
+6243e6678d61528ec551c9b29f6a27e5	Bankruptcy Builder v20080515 (2008)(Krause, Philipp Klaus)(PD).bin
+b751c4a3a83db819b848db3bad740b34	Bankruptcy Builder v20080517 (2008)(Krause, Philipp Klaus)(PD).bin
+68dad1a4e995c6a390dc1c73f063de35	Bankruptcy Builder v20080518 (2008)(Krause, Philipp Klaus)(PD).bin
+1dd24cf3259af5f8fa44ca3a1266b51a	Bankruptcy Builder v20080520 (2008)(Krause, Philipp Klaus)(PD).bin
+737c5247b06a7af4f9c59f46791f3bc2	BC's Quest for Tires (1983)(Sierra On-Line - Sydney).bin
+a1fa161de97e6084691f3bc6f5f46f55	BC's Quest for Tires (1983)(Sierra On-Line - Sydney)(CA).bin
+b5f00edf8e8f58f9e2f607e013fb4396	BC's Quest for Tires (1983)(Sierra On-Line - Sydney)[b].bin
+a67908b20a85451a47154bdbcf0cd4fd	BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney).bin
+dcc316df4898d4836c1e430692fd9fd5	BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)(CA).bin
+735a95a53777cb2f83a4986feda78d69	BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)[b2].bin
+1451f43a27b7776dbfe7b43516ac6670	BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)[b3].bin
+511c6eea2b633f03641ba506dd81a732	BC's Quest for Tires II - Grog's Revenge (1984)(Coleco - Sydney)[b].bin
+b3949ef4ab2b65224d5011c49b755d96	Beamrider (1983)(Activision).bin
+05784ff95d122cb28eb8c37ec81a52a1	Beamrider (1983)(Activision)[b].bin
+d4de9cddf1ee32bea6f407ced643cbf7	Bejeweled! (2002)(Bienvenu, Daniel)(PD).bin
+2054feade750aab77e45dac93e872c12	Bejeweled! v2001 (2001)(Bienvenu, Daniel)(PD).bin
+53141087e6333d8191d7d2fcd8039df5	Bejeweled! v20020223 (2002)(Bienvenu, Daniel)(PD).bin
+0547376eb6ef6e9ac81b1439ea19cd6c	Bejeweled! v20020315 (2002)(Bienvenu, Daniel)(PD).bin
+d13b965a8be5c366e80b8c508f849cc5	Berenstain Bears, The (1984)(Coleco)(proto).bin
+28ed13aa720eee1e5e37131ef4f45b4a	Beyond Terra (2007)(Huggins, Scott)(PD).bin
+8130d22eacf15535613d21fae967808c	Black Onyx v001 (2007)(Tomlin, Bruce)(PD).bin
+0d6301521491929334b6bcf27b1493b9	Black Onyx v002 (2007)(Tomlin, Bruce)(PD).bin
+fb4676ead0b5e216f0d8d01a0c593b66	Black Onyx v003 (2007)(Tomlin, Bruce)(PD).bin
+50e6fefb6fe9e85d06b6f4d36275626c	Black Onyx v004 (2007)(Tomlin, Bruce)(PD).bin
+2a4eeaf3a150c2542ec57a34e5635e70	Black Onyx v005 (2007)(Tomlin, Bruce)(PD).bin
+c06caf966a417bce1b11ffc46e713548	Black Onyx v006 (2007)(Tomlin, Bruce)(PD).bin
+93d5326c54f1a92a18e843838aee441f	Blockade Runner (1984)(Interphase).bin
+108318eb89a2f11531086270970a5039	Blockade Runner (1984)(Interphase)[b].bin
+ceff12f5d453cc60b6f4441b9042eac0	Boulder Dash (1984)(Micro Lab)(beta).bin
+42ea621b2b56f99c25b17e2e6adb00af	Boulder Dash (1984)(Micro Lab)(beta)[h 50 Lives].bin
+30c06059438828a2a33034f9e110a9cc	Boulder Dash (1984)(Micro Lab)(beta)[h 9 Lives].bin
+ff055f329760980900bbe2f973a9ece6	Boulder Dash (1987)(Micro Lab - Telegames).bin
+5556e14cfd72dae9de4e9201d269e1cc	Breakout (1999)(Bienvenu, Daniel)(fr)(PD).bin
+175948d25c41d5239eb46cec89df1044	Breakout Paddle (2001)(Bienvenu, Daniel)(PD).bin
+d032d6e0a34d427f7885e88d308f8d92	Buck Rogers - Planet of Zoom (1983)(Coleco).bin
+f2065decc9dabc889c6c59d4cc536143	Buck Rogers - Planet of Zoom (1983)(Coleco)[b2].bin
+51148599610f40d9db2c534a72571696	Buck Rogers - Planet of Zoom (1983)(Coleco)[b].bin
+d365cf7b774679842a9f99953b97ab0a	Bump 'n' Jump (1984)(Coleco - Mattel).bin
+19098349768ea68a2c9f3d711369970a	Bump 'n' Jump (1984)(Coleco - Mattel)(beta).bin
+45548d960e081445560fa492a675e457	Bump 'n' Jump (1984)(Coleco - Mattel)[b].bin
+a7a0f0c82b04db1cc4315ea89b50ab53	Bunny (2007)(Bienvenu, Daniel)(PD).bin
+cb577e4798d1347804e95fdd80a1a2a4	Bunny (2007)(Bienvenu, Daniel)(PD)[a].bin
+45295e9ba099c8cae1dd893a1d5a380b	Burgertime (1983)(Coleco - Mattel)(beta).bin
+927ce5ba5bf3e0f6c8c5a115db51f264	Burgertime (1984)(Coleco - Mattel).bin
+49fcfab535485eaff189190d96aa4924	BUSTin Out v0 (2000)(Bienvenu, Daniel)(PD).bin
+ee4f66f31df68ece487b5a278c210fd7	BUSTin Out v0.5 (2000)(Bienvenu, Daniel)(PD).bin
+f1379a60d0f88df41b080532e86ed4f9	BUSTin Out v1 (2000)(Bienvenu, Daniel)(PD).bin
+51e907bd461ca44a6aa9e0df6f85c5a4	BUSTin Out v2 (2000)(Bienvenu, Daniel)(PD).bin
+387592f78bd62cc6e4351f34145e5580	BUSTin Out v3 (2000)(Bienvenu, Daniel)(PD).bin
+ade704f01e694fb539bd805d9e276c99	Cabbage Patch Kids - Adventures in the Park (1984)(Coleco)(beta).bin
+6f612e24b83a98096b67aaf6bb9083a3	Cabbage Patch Kids - Adventures in the Park (1984)(Konami - OAA).bin
+3ef9719a6345c1a322ae17836e414c9f	Cabbage Patch Kids - Adventures in the Park (1984)(Konami - OAA)[b2].bin
+4bf6a6143d8c0596ba4549c66eea9d67	Cabbage Patch Kids - Adventures in the Park (1984)(Konami - OAA)[b3].bin
+6d9fd51559988d77421f7fbfa0b692b7	Cabbage Patch Kids - Adventures in the Park (1984)(Konami - OAA)[b].bin
+a7f6a6bd45c7ebfc7f8fc0f11eeea000	Campaign '84 (1983)(Sunrise Software).bin
+debd9b275689e9e537e916673a9cd2d2	Campaign '84 (1983)(Sunrise Software)[b].bin
+3d24a888b790799d515b17cdfeb37448	Canadian Mini Games 1 (2003)(Bienvenu, Daniel)(PD).bin
+f44e87fd71785824ac2ffb9927337886	Carnival (1982)(Coleco).bin
+b12e3324df5fd0ecedb79cff3f177183	Carnival (1982)(Coleco)[b2].bin
+a24d3521b0a7ea1ae49223c45efd70c4	Carnival (1982)(Coleco)[b3].bin
+27cd8d5ffa2259baf007b8b91f15c43d	Carnival (1982)(Coleco)[b].bin
+7bf914ee3d7a66eb0fdb579b26ad1f25	Castelo (1985)(Splice Vision)(BR).bin
+25ef922aa95b246d6894f5c4c5b29c97	Centipede (1983)(Atari).bin
+a668ffaa1bde142126ca58d2118500ea	Chateau du Dragon, Le (2001)(Bienvenu, Daniel)(fr)(PD).bin
+b3719118e9cfcc1234cd01c1e3fb84cf	Choplifter! (1984)(Coleco).bin
+782ddbf40366269591205506f73906a1	Choplifter! (1984)(Coleco)[b].bin
+5a539c992ec8040b914098d0a9b23d09	Chuck Norris Superkicks (1983)(Xonox).bin
+cb8fd33a7d96c0b50968d354aa9cd8db	Chuck Norris Superkicks (1983)(Xonox)[b].bin
+679a33211f435d98e5a5ffffdbd782ea	Colored Gravity (2008)(Krause, Philipp Klaus)(PD).bin
+e16cdaca0009493b7738a50bcc56a5b2	Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a2].bin
+2312544786bc6c5153f06f4985040e0a	Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a3].bin
+f56e4d17741965a0040e77a11fc4b4ba	Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a4].bin
+085a58758ced53e79bbcbc6cc665267d	Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a5].bin
+4ad3c612af470502155d2c8e340767fb	Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a6].bin
+d97bc384aa242e88d85cb616b91fcdfa	Colored Gravity (2008)(Krause, Philipp Klaus)(PD)[a].bin
+1e5dc0f3a8b974b20340bdf8593b309b	Congo Bongo (1984)(Coleco).bin
+270a08c7708426722a6469e4bc39473b	Congo Bongo (1984)(Coleco)[b].bin
+cfbd4a478e7019422c306837444d2e46	Cosmic Avenger (1982)(Coleco).bin
+e2f58bbbe80a1c86a79e3aafabdcbb60	Cosmic Avenger (1982)(Coleco)[b].bin
+3ae1ddd596faaced37274dd407d5523c	Cosmic Crisis (1983)(Bit Corporation - Coleco)(EU).bin
+1cc8af23770172f2e9eff88fa0269b88	Cosmic Crisis (1983)(Bit Corporation - Coleco)(EU)[b2].bin
+f41c9e727c33e1e00fa00c599a40e845	Cosmic Crisis (1983)(Bit Corporation - Coleco)(EU)[b].bin
+3ce1d7ddf53632478613d4f4a9bc41f2	Cosmo Challenge (1997)(de Kogel, Marcel)(PD).bin
+cf3139be847e46d5957c4b00a1921db9	Cosmo Fighter 2 (1997)(Red Bullet)(PD).bin
+d212fbb05b5ebba3b63d7c607cfd71d2	Cosmo Fighter 3 (2001)(de Kogel, Marcel)(PD).bin
+455f444ff2500727fd181d0195f873ff	Cosmo Trainer (1997)(de Kogel, Marcel)(PD).bin
+4edf6dacbae959ee97df172aa4cad738	Cross Chase (2018-10-29)(Caruso, Fabrizio).bin
+054c747deea4d04267e8c94f63660454	Cross Chase (2020-04-02)(Caruso, Fabrizio).bin
+32a086ad795e3c9016bd396f28a333d5	Cross Chase (2021-05-13)(Caruso, Fabrizio).bin
+d02a5a8512d0a1d050f35333ebf93c19	Cross Horde (2021-04-16)(Caruso, Fabrizio).bin
+c0852d5b590287364e824c3549a8ef2a	Cross Horde (2021-04-25)(Caruso, Fabrizio).bin
+33f24c551e281616b82997d238b35ec4	Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio).bin
+5748f3e513dc0eef8884bce6d58f28bd	Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio).bin
+c451b78cbe4cab88261f83cde8fac45b	Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio).bin
+810c9ea13783eb1afea296c037b09c5d	Cye v0.1 (2007)(Krause, Philipp Klaus)(PD).bin
+93476f9db8f98305ca29d5f83efc065f	Cye v0.4 (2007)(Krause, Philipp Klaus)(PD).bin
+e6bee0dd2adf01ced8f79b7c71639bb9	Cye v0.8 (2007)(Krause, Philipp Klaus)(PD).bin
+ef4154fa766ec3e0369e5fa2488f10e0	Cye v1.0 (2007)(Krause, Philipp Klaus)(PD).bin
+3b5dc55e4ddb74d0ab61a44d69a3143d	Cye v1.2 (2013)(Krause, Philipp Klaus)(PD).bin
+296c2ba3e14a6ca9097152d924a3d52f	Dacman v20000712 (2000)(Bienvenu, Daniel)(PD).bin
+74aae0891d5b38b1ac285e60d99f1c3b	Dacman v20000716 (2000)(Bienvenu, Daniel)(PD).bin
+bfc77b665e87cc003c6a3e52951f1347	Dacman v20000717 (2000)(Bienvenu, Daniel)(PD).bin
+09224e027fc526dbd2671544f585e6c6	Dacman v20000718 (2000)(Bienvenu, Daniel)(PD).bin
+ce66c173e57626626c0cd52c89850280	Dacman v20000719 (2000)(Bienvenu, Daniel)(PD).bin
+67c46235c0a1a0b15e4127878edf2dab	Dacman v20000722 (2000)(Bienvenu, Daniel)(PD).bin
+e22357e2ace55f64872ef23741029bb0	Dacman v20000727 (2000)(Bienvenu, Daniel)(PD).bin
+eaa3cf63e4cc014c585df5ec1122685b	Dacman v20000728 (2000)(Bienvenu, Daniel)(PD).bin
+4e3e455b33d907ccd9f8ec83fdfaf2f5	Dacman v20000801 (2000)(Bienvenu, Daniel)(PD).bin
+ee8e1266396ff6bc7a609f1a72f1b2f9	Dacman v20000808 (2000)(Bienvenu, Daniel)(PD).bin
+121143a01aa0087b03483e2e50c17a15	Dacman v20000816 (2000)(Bienvenu, Daniel)(PD).bin
+d6e826d832e13c13073dfba3b26d899e	Dam Busters, The (1984)(Coleco - Sydney).bin
+dd01108c4b4a62d64b2da39424896b6a	Dam Busters, The (1984)(Coleco - Sydney)(CA).bin
+0da6db8fad154867e393514e4d88a88a	Death Race (2004)(Dav)(PD).bin
+db88c443599a57c1f436f146b632caa7	Decathlon (1983)(Activision).bin
+f1fa565352f9bfb760b1d80929955548	Decathlon (1983)(Activision)[b].bin
+00123e08f138b7094601ea8d13d5336d	Defender (1983)(Atari).bin
+a3362bbdfec2858f9a49c898a5003b7f	Defender (1983)(Atari)[b].bin
+ad5000952034853819769ce22b9cf788	Defender (1983)(Atari)[h].bin
+4c2bcb9edac30f8691ddec6cfd710bc6	Demon 2 (2001)(Proulx, Yannick)(PD).bin
+ec72a0e3bebe07ba631a8dcb750c1591	Destructor (1984)(Coleco).bin
+886280f92cc2855ef76d7aa0176a84d5	Diamond Dash (2004)(Bienvenu, Daniel)(PD).bin
+aa7be245dd7c8b5768467776b52679bb	Diamond Dash (2004)(Bienvenu, Daniel)(PD)[a].bin
+03f9c4cbf079385c549c784105bd0c38	Dig Dug (1984)(Atari)(proto).bin
+f1a24066770d7834c11d787a6fdfde50	Dig Dug (1984)(Atari)(proto)[b].bin
+613a3e457758e274a0e0819ff6aa2d43	Donkey Kong (1982)(Coleco).bin
+8c61804e1ad57ef3d415d1ba11395507	Donkey Kong (1982)(Coleco)(US).bin
+4fbba4261f2bce55ef5d6caa700aa9a4	Donkey Kong Arcade v20051017 (2005)(Mello, Eduardo)(PD).bin
+9b2a45e1480361299d8a32b2be789f0c	Donkey Kong Arcade v20051020 (2005)(Mello, Eduardo)(PD).bin
+151e119c26a1e3ac6925262b82bf86d1	Donkey Kong Arcade v20051021 (2005)(Mello, Eduardo)(PD).bin
+aebfb1bbcf07dc3453d14b87e2b42c2d	Donkey Kong Arcade v20051022 (2005)(Mello, Eduardo)(PD).bin
+e602e72072766ec2159cf13469e7ef15	Donkey Kong Arcade v20051025 (2005)(Mello, Eduardo)(PD).bin
+1eb2b9c2d1d113f3860f345a07baeb42	Donkey Kong Junior (1983)(Coleco).bin
+4cce98cd5eb829cac64535063e2aa416	Double Breakout v20010317 (2001)(Bienvenu, Daniel)(PD).bin
+61b24a7bc8239b1147a7a9d5ce83223a	Double Breakout v20010323 (2001)(Bienvenu, Daniel)(PD).bin
+a2e797efc1b754de8e16e6ca427900aa	Dragon's Lair (1984-04-16)(Coleco)(proto).bin
+37c56fabd85c91f365bf2f1152f59081	DragonFire (1984)(Imagic).bin
+dbd4f21702be17775e84b2fb6c534c94	Dukes of Hazzard, The (1984)(Coleco).bin
+abe178883b62a738c692a2656a03a77e	Escape from the Mind Master (1983)(Epyx)(proto).bin
+627d22dce35311aae18b0c085f1a3b21	Evolution (1983)(Coleco - Sydney)(CA).bin
+74b7a74c714c1be14d58124e6f9797ab	Evolution (1983)(Coleco - Sydney)(CA)[b].bin
+e0d1ff37974fa017a6c78c174925643a	Evolution (198x)(Sydney - Telegames).bin
+b4cf96a461b229bf8a25e4ec434d9e33	Explosion (200x)(Bienvenu, Daniel)(PD).bin
+bd905555983c05456ab81ea154a570b1	Fall Guy (1983)(Fox Video Games)(proto).bin
+b223d29c848061867c69399abb3a978e	Fall Guy (1983)(Fox Video Games)(proto)[b].bin
+43d37801db445b5411488ac399bbc20c	Fathom (1983)(Imagic).bin
+1431444f24d188c87e16e307ee56a5d9	Fathom (1983)(Imagic)[b].bin
+b8e8e3700d9a67192451c89452c8bc73	Fireman (1984)(Coleco)(EU)(proto).bin
+9cd9153748b24d0b5fd877686a3e5c67	Flipper Slipper (1983)(Spectravideo).bin
+677dc48bdaf746d48068d8ad0dff19de	Flipper Slipper (1983)(Spectravideo)[b].bin
+92771526eeb3814178c5c36d7babb934	Flipper Slipper (198x)(Spectravideo - Telegames).bin
+721b56f46c0b5714aebef48049c6ae80	Frantic Freddy (1983)(Spectravideo).bin
+4afbaaa881283e45740b87a8a227f63a	Frantic v20080404 (2008)(Huggins, Scott)(PD).bin
+3ff8080f344ed52ea819b3a88854947b	Frantic v20080809 (2008)(Huggins, Scott)(PD).bin
+ec8f7fea2f00df94ded932d49bd8a7f9	Frenzy (1983)(Coleco).bin
+8d5c95b98cdf917ca561b469b791d7d1	Frenzy (1983)(Coleco)[b2].bin
+4f463889b5379e75b970f3cdf0a8d435	Frenzy (1983)(Coleco)[b3].bin
+a0462d9a0a2c99eea1f50a15086bb3ea	Frenzy (1983)(Coleco)[b].bin
+12e7085ecf92eb0835c407a2dfd4a7dd	Frog Feast v20061021 (2006)(Mark2008)(PD).bin
+cd08096da41087d76981dc3ddf2aaf37	Frog Feast v20071205 (2006)(Mark2008)(PD).bin
+47c7504b1a50ec97f7d17d01d9f787a3	Frog Feast v20071213 (2006)(Mark2008)(PD).bin
+d1f6bad05ce1976478bdbe5fd5f30cd7	Frog Feast v20071216 (2006)(Mark2008)(PD).bin
+69333d19bdaad7c0af5b1f89a89137bb	Frog Feast v20071222 (2006)(Mark2008)(PD).bin
+8a5201c9dec68ed405f2d82287c746ae	Frog Feast v20071230 (2006)(Mark2008)(PD).bin
+b4d15dc2a2af2b28d6aa4ee5f600bba2	Frog Magi (2007)(Wick, Dale)(PD).bin
+ade03210d571409ecb18d5bfaefdad03	Frogger (1983)(Parker Brothers).bin
+6542a61237d7f2cb4364e0068c47fae7	Frogger (1983)(Parker Brothers)[b2].bin
+677b04037ded07b222d908e82f2ffa3d	Frogger (1983)(Parker Brothers)[b].bin
+48f68ea0446584dc330f8be85f660194	Frogger II - Threeedeep! (1984)(Parker Brothers).bin
+cef95fea1868929704d6b39ada5c91c0	Frogger II - Threeedeep! (1984)(Parker Brothers)[b].bin
+4520ee5d8d0fcf151a3332966f7ebda0	Frontline (1983)(Coleco).bin
+7debc2bb5b735e659fcc479c42d0c923	Frontline (1983)(Coleco)[b2].bin
+d145de191e3f694c7f0920787ccbda48	Frontline (1983)(Coleco)[b3].bin
+8aeba65de11578746f07234cb96cfd34	Frontline (1983)(Coleco)[b].bin
+26dff388cd543b79a4d35662064ddaf7	Galaxian (1983)(Atari).bin
+bf1ceac191875d28ca5b0f319ce9e852	Galaxian (1983)(Atari)[b2].bin
+15ce8221f4abdf721698b7575625c55d	Galaxian (1983)(Atari)[b3].bin
+d603ca63c6fa84385a93d285a0da4a52	Galaxian (1983)(Atari)[b4].bin
+4e978177fe178da1ff7bcdb039f4622c	Galaxian (1983)(Atari)[b5].bin
+83cd20c0aaa5cfc1993b63f6cca0cc6f	Galaxian (1983)(Atari)[b].bin
+ed37a57d2f21f6ed7b8e9bb61ae215ce	Game Pack v20020428 (2002)(Bienvenu, Daniel)(PD).bin
+6da05f60c67f8020e876f3077a866076	Game Pack v20020520 (2002)(Bienvenu, Daniel)(PD).bin
+3f103f934ae174159f2b7dd6f3a12c6a	Game Pack VIC-20 Demo (2003-06-18)(Bienvenu, Daniel)(PD).bin
+7262176bb5917af526243438f6c8d9e4	Gateway to Apshai (1984)(Epyx).bin
+d3772dcffd6a355330c221f7780035c0	Gateway to Apshai (1984)(Epyx)[b].bin
+48cd660a5b2461bac7a7ddcb32900808	Get Booty (2005)(Wick, Dale)(PD).bin
+71d2604def8b4e8e4601c0a0f2863fce	Ghost Trap (2009-04-27)(snorlaxnut)[p].bin
+b2f7031269769f6c64efc4c43866028e	Ghost Trap (2009-04-29)(Bienvenu, Daniel)[p].bin
+e751e5d60a2259334b80ce63d2b69c3a	Gorf (1983)(Coleco).bin
+9fd1130745753933f3481f465dd2dfad	Gorf (1983)(Coleco)[b].bin
+56275c8b5deb5890d9c794253b386872	Gulkave (2006)(Foster, Guy)(PD).bin
+c1c390a00802e041fbee750a33ac9030	Gust Buster (1983)(Sunrise Software).bin
+05c76213b0cabc7a2b6ded94bed25ccc	Gust Buster (1983)(Sunrise Software)[b].bin
+89219c0fbedcab47c5c32740874bcd20	Gyruss (1984)(Parker Bros)(US)(beta).bin
+fd499d2d7ed864f81c6f01a9ad4b4442	Gyruss (1984)(Parker Brothers).bin
+ab7bf4c079f2fca42928c0670c994cdd	Gyruss (1984)(Parker Brothers)[b].bin
+e39e7552b8681346aa107c1279911750	H.E.R.O. (1984)(Activision).bin
+ea2fdd64284179eb03f29c8d6f44d053	Happy Halloween (2001)(Bienvenu, Daniel)(PD).bin
+52572f8236cc6f31e15bf91f80b13cdf	Happy Halloween (2001)(Bienvenu, Daniel)(PD)[a].bin
+ad7d739299287f4dd72efb1f000b3352	Heist, The (1983)(Micro Fun).bin
+06e96d4b3f9e2e1cfbc006eead39d0b9	Heist, The (1983)(Micro Fun)[b2].bin
+c65f3db2efde3b0a33744909a297b1a6	Heist, The (1983)(Micro Fun)[b3].bin
+bb3b0d6ba95493de01797f2daada1de7	Heist, The (1983)(Micro Fun)[b].bin
+e7a2eb12c4a4ff78361a7551eb52dbf3	Heist, The (1983)(Micro Fun)[h 50 Lives].bin
+ab7320b4eefe5abb3b599425e4897fa7	Heist, The (1983)(Micro Fun)[h 8 Lives].bin
+675092072cd70cedf19b1fa7d4fb7cf3	Hustle v01 (2006-11-21)(Tomlin, Bruce)(PD).bin
+1735a0ad71d88e1a64c9148ed0ad3653	Hustle v02 (2006-11-21)(Tomlin, Bruce)(PD).bin
+369d9eccc683aaf56afec83a16d32ae3	Illusions (1984)(Coleco).bin
+fc0230f61994bb21630ffef1df922d11	Illusions (1984)(Coleco)[b].bin
+04e615b23f5d55aad821cb0adf4bba6e	Insane Pickin' Sticks VIII (2009-04-27)(Bienvenu, Daniel)(PD).bin
+f127f45209247a1f351eb2dbd2fb24db	It's Only Rock 'n' Roll (1984)(Xonox).bin
+9db30c861524528214186da7fdbaf0da	It's Only Rock 'n' Roll (1984)(Xonox)[b].bin
+fe445bb2dd1104ccc709b12332fc8332	Jack B. Quick (2008-01-12)(Mark2008)(PD).bin
+d6c263a445bbbd87d156ae40fc4b930b	James Bond 007 (1984)(Parker Brothers).bin
+c7ea91d9ac4d4a104d8e7832f8db3962	James Bond 007 (1984)(Parker Brothers)[b2].bin
+5540feb1d30a22901f881849188d85a4	James Bond 007 (1984)(Parker Brothers)[b].bin
+7eda9a3376d2c4a11b52931db90d2ddf	Jeepers Creepers (2007)(Bienvenu, Daniel)(PD).bin
+0aa540fa3b637ca1093b586a46e506fb	JetBoat! v30b (2007)(-)(PD).bin
+2e8febb0d8a5c43c4a3a414dd4ac89af	Jetpack v20060828 (2006)(deKleine, Harvey)(PD).bin
+b0a6ef607464623d2d71722925346fe8	Jetpack v20060831 (2006)(deKleine, Harvey)(PD).bin
+e8acbbcffe3094e57621a75b3e355b37	Joust (1983)(Atari)(proto).bin
+0c94d5be411d7724ec61464461a4fb7b	Jump or Die (2006)(Bienvenu, Daniel)(PD).bin
+cd318b2a5e3486dc5fa0b47cfe8085de	Jump or Die (2006)(Bienvenu, Daniel)(PD)[a].bin
+5454538f617f2ccf56cb7e0f5a45d11b	Jumpman Junior (1984)(Epyx).bin
+3e8b00c91098dc96664ba43c8904d34d	Jumpman Junior (1984)(Epyx)[b].bin
+b36dbdf6ba3eeda601580f4b696958e0	Jumpman Junior (1984)(Epyx)[h].bin
+d6f4df2726159c5aedae9efd21307f09	Jungle Hunt (1983)(Atari).bin
+e6b4bc4610bd159c4d5ba682d5bf4119	Jungle Hunt (1983)(Atari)[b].bin
+9266e9fac663332ed330b19a87841f0b	Ken Uston Blackjack-Poker (1983)(Coleco).bin
+18580bd730f4a38f695d2d83a08fc1a9	Ken Uston Blackjack-Poker (1983)(Coleco)[b].bin
+813c90067297a7a2de6568d3092ace99	Kevtris (1996)(CVRS)(PD).bin
+8b86660df35b91a42e6183abc14057ea	Kevtris (1996)(CVRS)(PD)[a].bin
+7fc266ca1e05305c7d0244f663495f7d	Keystone Kapers (1984)(Activision).bin
+3baeb48a8c0c2ff82b7222f3f88c1659	Keystone Kapers (1984)(Activision)[b].bin
+bccf24f5f47023b6135b71984e5e6a1a	Kick Gas! v20080608 (2008)(Dvik - Joyrex)(PD).bin
+efaaaf9076b2dd39acdf55e9d4202d81	Kick Gas! v20080611 (2008)(Dvik - Joyrex)(PD).bin
+064852f4e117aae89f485cafbab66401	Kill Barney in Tokyo (1997)(Bienvenu, Daniel)(PD).bin
+0a796ee58c1a61dc0b12f94721b997e8	Killer Instinct (1997)(Bienvenu, Daniel)(PD).bin
+4e1bc38c1cdb7cd26757c993b28cb290	Kobashi (2008)(Dvik - Joyrex)(PD).bin
+013cc5515769b0a099dd38506983f1ab	Lady Bug (1982)(Coleco).bin
+c4b08b67aec8b8835e8f0e6aeb85260c	Looping (1983)(Coleco).bin
+87e0da2aa0cbd406193d364e52f15b80	Looping (1983)(Coleco)[b].bin
+d5964ac4e7b1fd3ae91a8008ef57a3cc	Lord of the Dungeon (1983)(NAP Consumer Electronics)(US)(beta).bin
+7029bf20f4dee5049b0ddc61390b96e1	M.A.S.H. (1983)(Fox Video Games)(proto).bin
+39355f46ada88b0d50523c2f7f5c9362	Matt Patrol (1984)(Atari)(proto).bin
+8b1b5d34868ec53ddda5780eec94301e	Matt Patrol (1984)(Atari)(US)(proto)[a1].bin
+5833b958ecf1b72c3b11e75d79b7d875	Maze Maniac (2005-11)(Boyer, Mathieu)(PD).bin
+6cbc06cba388acf43d55572f11d0ed26	MazezaM v1.0 (199x)(Tzvetkov, Ventzislav)(PD).bin
+9820cb1c242257fe7aeba529affd10c1	MazezaM v1.1 (199x)(Tzvetkov, Ventzislav)(PD).bin
+8f1f9e8267b51d8b9b29fb62f0c050ec	Meteoric Shower (1983)(Bit Corporation)(EU).bin
+7be335b6b964b30ea7310172797005cf	Meteoric Shower (1983)(Bit Corporation)(EU)[b].bin
+626fc333194b13cb4f78d8577684685c	Meteoric Shower (1983)(Coleco - CBS)(EU).bin
+3a1ef8e754016c87ead2335d7641f27a	Miner 2049er (1983)(Micro Fun).bin
+124d464a25dbe7d94a95ffa96b24d7db	Miner 2049er (1983)(Micro Fun)[a].bin
+135582f9d1dd0c8a1691be7abb051033	Miner 2049er (1983)(Micro Fun)[b].bin
+27de111eea8975982476727412cc7db2	Miner 2049er (1983)(Micro Fun)[h 50 Lives].bin
+b922232a6e94f4ea6f01b98c8620b554	Miner 2049er (1983)(Micro Fun)[h 8 Lives].bin
+bde771689e52646d4b774e28a09f9169	Mist Maid v1.0 (2007)(Wick, Dale)(PD).bin
+7b46a7ebb2162aa8db781e91eb98bffb	Mist Maid v1.1 (2007)(Wick, Dale)(PD).bin
+f7f5da82e247df6f5097755deffde0ed	Montezuma's Revenge (1984)(Parker Brothers).bin
+fa0b387a588834dd121b3a34da303838	Montezuma's Revenge (1984)(Parker Brothers)[b].bin
+ed80593326cd4626446b34409f556acb	Moon Patrol (1984)(Atari)(proto)[b].bin
+0ef79248cab469e2ba4ce29be7a355ee	Moon Patrol (1984)(Atari)(proto)[h].bin
+42447cf41e7afb267c262e578f0f24b1	Moonsweeper (1983)(Imagic).bin
+e12d59dcb2f90e0a1392ef2e42c67064	Moonsweeper (1983)(Imagic)[b].bin
+08dbf281e89c73802da5b508960c08f4	Motocross Racer (1984)(Xonox).bin
+ffc377dd896c93a87c472ae9a594bb56	Motocross Racer (1984)(Xonox)[b].bin
+bb79207c51e772fd26276712cc4e6927	Mountain King (1984)(Sunrise Software).bin
+7817973f7c27c850ba27837c109b4e42	Mountain King (1984)(Sunrise Software)[b].bin
+c8f0d1ee5494dab146c82a4ebecaff4a	Mouse Trap (1982)(Coleco).bin
+975d4a1c4ade7c9348e89559661b81a1	Mouse Trap (1982)(Coleco)[b2].bin
+12cd8d4268a87d0c94137f596e79b171	Mouse Trap (1982)(Coleco)[b].bin
+5c2b1dc98901199371bab47cf42280a6	Mr Chin (2008)(CollectorVision)(PD).bin
+de0b1b1ec005bb1765e1ceffdfa3e92e	Mr. Do! (1983)(Coleco).bin
+1c03c0990893b7a9d17e270d7ee9c368	Mr. Do! (1983)(Coleco)[b].bin
+7eaa827c9976e24e47ef49e2b1e2f0f7	Mr. Do!'s Castle (1984)(Parker Brothers).bin
+60603e9b8740156f1250ca6f52ce8c43	Mr. Do!'s Castle (1984)(Parker Brothers)[b].bin
+b7249fe99ab0c02ff5be36ec425ed766	Ms. Space Fury (2001)(Digital Press)(PD).bin
+7de8f21a2f924753ee47d7336b8d6d70	Ms. Space Fury (2001)(Digital Press)(PD)[a].bin
+4baf705ea22449267f94626d9a0a610a	New (2000)(Bienvenu, Daniel)(PD).bin
+956455c6108fa2b009fb5797d0a19b5f	Nim (2000)(Bienvenu, Daniel)(PD).bin
+a350d6a2461692a76adf3e41b6b5c5d3	Nim (2000)(Bienvenu, Daniel)(PD)[b].bin
+745067096d2dda2c62874b60bab4f625	Nova Blast (1983)(Imagic).bin
+9db96b46ded8da28db01946d753830ff	Nova Blast (1983)(Imagic)[b2].bin
+62991e2e81564a310066dd4184bd0401	Nova Blast (1983)(Imagic)[b3].bin
+daba4037e3034b0ac3ab2ced264370e9	Nova Blast (1983)(Imagic)[b].bin
+52eab97fc46601595999bdb78ea1630e	Number Bumper (1984)(Sunrise)(proto).bin
+e7d10b763454692ea8a6da95fccdbd87	Oil's Well (1984)(Sierra On-Line).bin
+b382fa6186d21132dcc3552de8082f7a	Oil's Well (1984)(Sierra On-Line)[b].bin
+28ed941c2746d50e62dd3acd29c7675e	Omega Race (1983)(Coleco).bin
+e7af8dc8712a761c418e91598a5eee1c	Omega Race (1983)(Coleco)[b].bin
+0b70e3e59f72137a4a017f3761b24ff7	One-on-One (1984)(Micro Fun).bin
+45fec4406d06893e42856f0386ab3891	One-on-One (1984)(Micro Fun)[b].bin
+cc236e16f387816ce08d2e8915817c15	Orbit (1983)(Parker Bros)(proto).bin
+9e584590b45ad18c93054de43d3c4440	Ostrich Farmer v0.1 (2007-11-01)(hardhat)(PD).bin
+ba44fdf014a896e22c048cfdeab8efcf	Ostrich Farmer v0.2 (2007-11-01)(hardhat)(PD).bin
+70432c26c3e9ff2be98eff4401923e3c	Pac-Man (1983)(Atari)(proto).bin
+b498ba61fdaeb863ab85171c6cd9ec39	Pac-Man (1983)(Atari)(proto)[b].bin
+0021c6f3f52cc6a55a3c14bab8a6339e	Pac-Man Collection (2006)(Opcode)(PD).bin
+31634db6ab12659f426471484a91228b	Pac-Man Collection (2006)(Opcode)(PD)[a].bin
+679f02b1d1a7d68af42735d67cbccaff	Pepper II (1983)(Coleco).bin
+3569f9c05d1f35ecb7daffba5801451c	Pere Noel (2001)(Bienvenu, Daniel)(PD).bin
+9dc247f82da83e03c8d0592825f03d52	Pitfall II - Lost Caverns (1984)(Activision).bin
+40187a21b1243686c68fa2aa11efba41	Pitfall! (1983)(Activision).bin
+24b741bb9e0d0dca8e70d5a7df185949	Pitfall! (1983)(Activision)[b2].bin
+0cb633e61cc4715f52b6bd1e262687d8	Pitfall! (1983)(Activision)[b].bin
+871bc6498639031d782f84775cb3745c	Pitstop (1983)(Epyx - CBS Electronics).bin
+3b5cf3a345abbb2b23c68181953f4710	Pitstop (1983)(Epyx)(US).bin
+8d3a442647d8c11361dfb4d0d7e37f5e	Pitstop (1983)(Epyx)(US)[b].bin
+f5b08e31316806961e099121dc580942	Pong (2007)(Dioniso)(PD).bin
+a7773e1265e0089bc8f148527256a20e	Popeye (1983)(Parker Brothers).bin
+04d94acc4ee8639e8ebc619521f75f34	Popeye (1983)(Parker Brothers)[b].bin
+708ca6a994218696b1cc0dfbf8b9700c	Porky's (1983)(Fox Video Games)(proto).bin
+8c999d87686cb763875ba6e9dff8db5d	Power Lords - Quest for Volcan (1983)(Probe 2000)(proto).bin
+43149d3317eead1592a3a4a4fa524d2e	Power Lords - Quest for Volcan (1984)(Probe 2000)(US)(proto).bin
+e16ffc89b239a71f61e093dd8a86ce9e	Purple Dinosaur Massacre (1996)(Dondzila, John)(PD).bin
+9e72e4378debddae3ffe9bdc3282d674	Puzzle Panic (2001)(Bienvenu, Daniel)(PD).bin
+249e88fa4361edea2a98056954371c72	Qbert (1983)(Parker Brothers).bin
+cb421913528847e05d53f60e995d6d0d	Qbert (1983)(Parker Brothers)[b].bin
+14873ca8a77afe29dc66d06f70b27c9f	Qbert (1983)(Parker Brothers)[h].bin
+d6ef0832f3ff45b6358c445be645dc11	Qbert's QUBES (1984)(Parker Brothers).bin
+6eebb876e160a7d4af5d264856c9f609	Qbert's QUBES (1984)(Parker Brothers)[b2].bin
+39e841b8d643dfe9e68f71c3259100fc	Qbert's QUBES (1984)(Parker Brothers)[b].bin
+446256285c3b1dcf012d36b26f8fdb6b	Quest for Quintana Roo (1983)(Sunrise Software).bin
+53b59a72662fd7ffa6874816ee401fc2	Quest for Quintana Roo (1983)(Sunrise Software)[b].bin
+f6416b12174102dd600a9f27b190910c	Reversi (2001)(Bienvenu, Daniel)(PD).bin
+a0b9126957d857fa575e9be7740c91c9	Reversi (demo) (2001)(Bienvenu, Daniel)(PD).bin
+aebf917b911086bcf0b818d7b888d87d	River Raid (1984)(Activision).bin
+a3bb14317c4a3f1788d550859d4bbe9d	Robin Hood (1984)(Xonox).bin
+c9103aea67882b3aec97cacd1ca30418	Robin Hood (1984)(Xonox)[b].bin
+e2c60e37df1e7205eecba716dd3d5f84	Roc 'n Rope (1984)(Coleco).bin
+acca6a75781bf687350d207b74804739	Roc 'n Rope (1984)(Coleco)[b].bin
+ce4466aa6bc973c5021577578d881aed	Rock 'n Bolt (1984)(Telegames).bin
+e13ff5dd1d859dc8d1af1c810536aa91	Rock 'n Bolt (1984)(Telegames)[b].bin
+d35fdb81f4a733925b0a33dfb53d9d78	Rocky - Super Action Boxing (1983)(Coleco).bin
+d9b2c3dd1b40cca7aa6bd40b0f64fb67	Rocky - Super Action Boxing (1983)(Coleco)[b2].bin
+4c0391786acb7e7e22cf34f757388b6d	Rocky - Super Action Boxing (1983)(Coleco)[b].bin
+09b1fbd8e7b09d423894c155a24c569f	Rolloverture (1983)(Sunrise Software).bin
+3cd028c84f0a5ec849d87bef5516d080	Rolloverture (1983)(Sunrise Software)[b].bin
+8204c7a70a5139610c9211ae4bdae9ae	S.O.S. - Scheduled Oil Sampling Game (1983)(Caterpillar Tractor Co.)(US).bin
+78f37e95058f08c4995cf95598ee2a4f	Sammy Lightfoot (1983)(Sierra On-Line).bin
+7a70637bbc173a9dcefb2f1db6c7dc44	Sammy Lightfoot (1983)(Sierra On-Line)[b].bin
+f2996c825450ba8dccb1660ebdaf3ac2	Schlange CV (2006)(Krause, Philipp Klaus)(PD).bin
+2f96fac1c891af5f466764f897b665c8	Schlange CV (demo) (2006-05-08)(Krause, Philipp Klaus)(PD).bin
+75f248d717d812677a79a2d2b5e9eeae	Schlange CV (demo) (2006-06-02)(Krause, Philipp Klaus)(PD).bin
+d66162de5e6776ace21168650a403893	Schlange CV v0.10 (demo) (2005)(Krause, Philipp Klaus)(PD).bin
+36fb7f79a73694e62deb0a9df5725df4	Search for the Stolen Crown Jewels (2006-05-08)(Krause, Philipp Klaus)(PD).bin
+b5b0e56a6dcf2b3b73941f52a8364881	Search for the Stolen Crown Jewels (2006-06-01)(Krause, Philipp Klaus)(PD).bin
+48d484d9713b4fa76c0bf55b965c54a1	Search for the Stolen Crown Jewels (demo) (2005-09-19)(Krause, Philipp Klaus)(PD).bin
+ef3dff73d5b90c64dc4835308deef8ae	Search for the Stolen Crown Jewels (demo) (2005-09-26)(Krause, Philipp Klaus)(PD).bin
+d91655e3bb623508e75e3940efe246fe	Search for the Stolen Crown Jewels 2 (demo) (2007)(Krause, Philipp Klaus)(PD).bin
+95729e45bb11bc2f08b4e2569fafdcad	Search for the Stolen Crown Jewels 3 (demo) (2008)(Krause, Philipp Klaus)(PD).bin
+f09d1237396eb8a791b0bfe7652ef488	Search for the stolen Crown Jewels II (demo) (2007)(Krause, Philipp Klaus)(PD).bin
+27ebfa6562801321c23e637d37588bf7	Search for the stolen Crown Jewels II Beta (demo) (2007)(Krause, Philipp Klaus)(PD).bin
+debd29830d9dededd646ca969c224c0d	Search for the Stolen Crown Jewels v1.0 (demo) (2006)(Krause, Philipp Klaus)(PD).bin
+09bf95c028205bc218bbb67116cdf688	Sector Alpha (1983)(Spectravideo).bin
+ef0d530384330b112d6e43ca615f5167	Sector Alpha (1983)(Spectravideo)[b2].bin
+b8d4d493c26d7c61e3851828b4d83746	Sector Alpha (1983)(Spectravideo)[b3].bin
+ad1a4547f56b687ffe569f235df40dd9	Sector Alpha (1983)(Spectravideo)[b4].bin
+91068a05030e2eb8a953d983da4d864b	Sector Alpha (1983)(Spectravideo)[b].bin
+5de08cbdc916708999328e720ea2e703	Sewer Sam (1984)(Interphase).bin
+a7036e86e96835af621d1294cfe253e9	Sewer Sam (1984)(Interphase)[b].bin
+3cf7e73cf264897bb9b8abbee64351be	Shunting Puzzle (2009-06-08)(Krause, Philipp Klaus)(PD).bin
+ae936b4f13874715d5fbebee379febfb	Sir Lancelot (1983)(Xonox).bin
+535518cce43a9c0921179b840a704593	Sir Lancelot (1983)(Xonox)[b].bin
+a9e17aac9858dcc504879e45f50bd3ac	Skiing (1986)(Telegames).bin
+de48635d25e815bc20f770d194fa2ce1	Skiing (1986)(Telegames)[b].bin
+6e8636b8a57594e12d60c05b70486378	Sky Jaguar (2004)(Konami - Opcode)(PD).bin
+7cdc148dff40389fa1ad012d4734ceed	Slither (1983)(Coleco).bin
+da3b6f9c609285d5e75d38d54ae27555	Slither (1983)(Coleco)[b].bin
+5fac2d8e197b781b65a5a9aa6984d003	Slurpy (1984)(Xonox).bin
+1240edfec95508e1e0400cc5a557ab4b	Slurpy (1984)(Xonox)[b].bin
+0387a577061e159d3e4a721d2128f67f	Smash (2004)(Bienvenu, Daniel)(PD).bin
+22d403a4bb63dca5a62811270b6ada92	Smash (2004)(Bienvenu, Daniel)(PD)[a].bin
+c29e282c81ce9b40f39f493f51725d3c	Smurf Rescue in Gargamel's Castle (1982)(Coleco).bin
+b508f1e90544d8da73a09992fc03c973	Smurf Rescue in Gargamel's Castle (1982)(Coleco)[b].bin
+19fc5d292ecda24da34636de744ecfc2	Space Caverns (2004)(Huggins, Scott)(PD).bin
+f821cf20b7faa5c2cb738cd8aa90dc95	Space Fury (1983)(Sega).bin
+de25f1be4eb1893e8d0eb3d754b0d084	Space Fury (1983)(Sega)[b].bin
+fa366df3891b92e33187656ea9ea32dd	Space Hunter (2005)(Foster, Guy)(PD).bin
+9290e66d712afc32125d95d6fd2b22a4	Space Hunter (2005)(Foster, Guy)(PD)[a].bin
+b487163e5a463cee19b484d7afdad772	Space Invaders Collection Demo (2002)(Opcode)(PD).bin
+d424c8234c9d2df4999aed94ce4d81f6	Space Invaders Collection Demo (2002)(Opcode)(PD)[a].bin
+98474d00203e3c3d51fdf9612b98f6a2	Space Invasion (1998)(Dondzila, John)(PD).bin
+852fcda255c345c1459b19bfa19a546b	Space Invasion (demo) (1998)(Dondzila, John)(PD).bin
+2a1f023ee4798230e59bfa14cf6c497a	Space Panic (1983)(Coleco).bin
+cb9688ab785daa2456fa2a50a9e36db1	Space Trainer (2005)(Bienvenu, Daniel)(PD).bin
+399e6fe7e9fa95b73144606e8acc0a3d	Space Trainer (2005)(Bienvenu, Daniel)(PD)[a].bin
+70458aedf0daddf60fa0c3b3724e8c4b	Spaz Attak (2006)(Uman, Howard)(PD).bin
+36e07a870f24587999382e5e906fac7b	Spaz Attak v20090203 (2009)(Uman, Howard)(PD).bin
+92898edbbf9f99bf4279f7099e6a3329	Spaz Attak v20090205 (2009)(Uman, Howard)(PD).bin
+15355397d73e32a59e47a1fe205ceb01	Spaz Attak v20090208 (2009)(Uman, Howard)(PD).bin
+10ebafe2211e6ed71f169f6b9ee0c8da	Spaz Attak v20090209 (2009)(Uman, Howard)(PD).bin
+2b79ad323a09806231d05eca0b7d1022	Spaz Attak v20090210 (2009)(Uman, Howard)(PD).bin
+576a095bdfae51006da5bea658afe8e9	Spaz Attak v20090222 (2009)(Uman, Howard)(PD).bin
+ce19e6dc70a369d2217a1400fc81e36a	Spectank (2000)(Bienvenu, Daniel)(PD).bin
+cb7b1a5906a00c6b246de20c21aa646b	Spectron (1983)(Spectravideo).bin
+3c019541a005c393e2c949e2dd8de28a	Spectron (1983)(Spectravideo)[b].bin
+f96a21f920e889d1e21abbf00f4d381d	Spy Hunter (1984)(Coleco).bin
+f33a4fcc0dc21e89937715309d7fe977	Spy Hunter (1984)(Coleco)[b].bin
+7da9f2fda17e1e34a41b180d1ceb0c37	Spy Hunter v13 (1984)(Coleco)(beta).bin
+b68886ba4d6ee561d4aa8611933401c3	Spy Hunter v22 (1984-11-12)(Coleco)(beta).bin
+6201e47e4a3a87e9158cebb2f92eb276	Squares (2001-04-15)(deKleine, Harvey)(PD).bin
+cd5c3b3ee906b101a857f5260771696c	Squares! (demo) (2006)(deKleine, Harvey)(PD).bin
+4a7044863d65dee58385bab17712a128	Squares! 4K (2006)(deKleine, Harvey)(PD).bin
+fb7d5342724ab0662649a67625e48119	Squares! 4K v01 (2006)(deKleine, Harvey)(PD).bin
+93211d6ca62235846cc3802ba277abd4	Squares! 4K v02 (2006)(deKleine, Harvey)(PD).bin
+90e1b27110a1b89cb1ad3e225db20832	Squish'em Featuring Sam (1984)(Interphase).bin
+6db4f3854bccfe59dd628bbdd862420d	Squish'em Featuring Sam (1984)(Interphase)[b].bin
+d8d0e4e528b517639c9190b3b8c63fd0	St. Valentine's Day (2002)(Bienvenu, Daniel)(PD).bin
+446c0123b32cad57a1fc3ff0f8fa0cc4	St. Valentine's Day (2002)(Bienvenu, Daniel)(PD)[a].bin
+01358dd7ad8e8dd6fa46f4dd3af67246	Star Fortress (1997)(Dondzila, John)(PD).bin
+45006eaf52ee16ddcadd1dca68b265c8	Star Trek - Strategic Operations Simulator (1984)(Coleco).bin
+6769e9f77e3585d90409aaa2a0caa84e	Star Trek - Strategic Operations Simulator (1984)(Coleco)[b2].bin
+4aa070ceb9c6a42571d2aa8a969855fd	Star Trek - Strategic Operations Simulator (1984)(Coleco)[b].bin
+3addc2a93bcb803ac136801ab1b8695a	Star Wars - The Arcade Game (1984)(Parker Brothers).bin
+dc6745ff6132a3f646ca8aff7533cdb0	Steamroller (1984)(Activision)(proto).bin
+2425b11952e79c247f13e341297f48bf	Strike It! (1983)(Telegames).bin
+3dd107a4af5b34eae4056e55d69b038e	Strike It! (1983)(Telegames)[b].bin
+c8deb659a5c1de178bec97ff0b59ea5b	Stubby (2001)(Proulx, Yannick)(PD).bin
+3b72c516005528d24b40c1aecf948048	Stubby (2001)(Proulx, Yannick)(PD)[a].bin
+b86bcbbd27f9574d3f0c8dd3cdfba45d	Subroc (1983)(Coleco).bin
+d2680483097cbda37e53a61a256bee56	Subroc (1983)(Coleco)[b2].bin
+2abb3bdb3e18199ebad9a517739d03f9	Subroc (1983)(Coleco)[b3].bin
+bd7978d59d97c3aa19c04779b7c4667f	Subroc (1983)(Coleco)[b].bin
+94476e431aca0f9590964d6797d5dee9	Sudoku v01 (2008)(Miron, Luc)(PD).bin
+e34e775b40367815197dc4086aab2f89	Sudoku v02 (2008)(Miron, Luc)(PD).bin
+4c4b25a93301e59b86decb0df7a0ee51	Super Action Baseball (1983)(Coleco).bin
+a5ef28ac2f79e95647a4bc5db7e502b2	Super Action Baseball (1983)(Coleco)[b2].bin
+2e7b67ea29c096191c6645357020d929	Super Action Baseball (1983)(Coleco)[b3].bin
+861af62508c73873ca89d3e61f5d04ff	Super Action Baseball (1983)(Coleco)[b].bin
+8aabed060476fde3cc706c6463f02980	Super Action Football (1984)(CBS Electronics)(EU).bin
+bee90a110d14b29d2e64f0ff0f303bc6	Super Action Football (1984)(Coleco).bin
+9e794af1e39cf12145ec355940aec684	Super Action Football (1984)(Coleco)[b].bin
+6ded2b98aad9b15c975e85d722a069d4	Super Action Football (1984)(Coleco)[h].bin
+3f79a5be2f84d9856a99b9ae31f36ba1	Super Cobra (1983)(Parker Brothers).bin
+536a20f7a88b6bfd296e6542b79a2762	Super Cobra (1983)(Parker Brothers)[b].bin
+0d11de05821c895b9f34425291bbedad	Super Cobra (1983)(Parker Brothers)[h ADAM Fix].bin
+633d8d532b8c2435ec6635be1fff1391	Super Cross Force (1983)(Spectravideo).bin
+5c58aa003e92e65195ebfd8043392684	Super Cross Force (1983)(Spectravideo)[b2].bin
+b929679a7e8a098bd7a2b63e1fd658f6	Super Cross Force (1983)(Spectravideo)[b].bin
+c7743e456f5c042ee8aefd4488254ac9	Super DK! (1982)(Nintendo)(proto).bin
+7a736286fe72eb60e00b1ba28867cd16	Super DK! Junior (1983)(Nintendo)(proto).bin
+a46d20d65533ed979933fc1cfe6c0ad7	Super Sketch (1984)(Roubik, Steve)(PD).bin
+f1c771508b8f6de766d467cdcc480d6d	Super Space Acer (2009-12-27)(Ward, Mike)(PD).bin
+62860823d7b08ab3c72a41ac5b189e5f	Superpong (2000)(-)(PD).bin
+975be9f3bd5458443d886af61e8bbc61	Sword and the Sorcer (1983)(Coleco)(proto).bin
+3016b5b55ce162ae47f03af71fbb5c0d	Tank Wars (1983)(Bit Corporation)(EU).bin
+3289fc4df666c3391fc3f220e350449c	Tank Wars (1983)(Bit Corporation)(EU)[b2].bin
+414bdc650fe201e47e767914c86605b9	Tank Wars (1983)(Bit Corporation)(EU)[b].bin
+6cdb3a03f8d66bedbd29899895d83f94	Tapper (1984)(Coleco).bin
+a4cc73b0eb8d9c1d310796466ba9c4f2	Tapper (1984)(Coleco)[b].bin
+61a2cb023a393446d8e8b8b1147bec48	Tarzan (1984)(Coleco).bin
+4517b544c0f645e2083079327a64af47	Tarzan (1984)(Coleco)[b].bin
+f5e10008557adefcaff2037f06ee280e	Tennis (2008-01-20)(-)(PD).bin
+5855b9b09c5339c831a00ab8173850d8	Tennis (2008-01-22)(-)(PD).bin
+49c9b6fa9e6c24a5b89e2ba46d30f6d1	Terra Attack (2007-03-10)(Huggins, Scott)(PD).bin
+7783607a3ada4b3ad43937b08b19e960	Terra Attack (2007-03-17)(Huggins, Scott)(PD).bin
+764baa392af1bbfd2637f5e2003f2236	Terra Attack (2007-08-09)(Huggins, Scott)(PD).bin
+e932f6f176f98f5fe85ced5401c51750	Threshold (1983)(Sierra On-Line).bin
+c542316b4e912f7823db4239bdd9d5e5	Tic Tac Toe (1996)(Nithman, Norman)(PD).bin
+394812ef1bd415895b4caa55c4b1620c	Tic Tac Toe (1996)(Nithman, Norman)(PD)[a].bin
+91c7b5d4ea94092f6e18da4775656d4b	Time Pilot (1983)(Coleco).bin
+05bb27ab721b0cfd8ce5157102f73e39	TOMARC The Barbarian (1984)(Xonox).bin
+2e323730e31229c45412a1a81a734f09	TOMARC The Barbarian (1984)(Xonox)[b].bin
+b85e0c632b351c3d42a2be4198cfa663	Tournament Tennis (1984)(Imagic).bin
+a02d39cbca4e6ca89e0da21b14f63629	Tournament Tennis (1984)(Imagic)[b].bin
+6d306c6551393ba7c0b89db688c9aa0a	Tunnels & Trolls (1983)(Coleco)(beta).bin
+391c441c0fdd415c29bba84471efa43f	Tunnels & Trolls (1983)(Coleco)(beta)[a].bin
+02d0fe0088d00298b27953b6492f6d94	Tunnels & Trolls (1983)(Coleco)(beta)[b].bin
+6f146d9bd3f64bbc006a761f59e2a1cf	Turbo (1982)(Coleco).bin
+f042ba432716b58d2f5858abcce81b9f	Turbo (1982)(Coleco)[b].bin
+79db029b4e77bc2752ab97bd4df03428	Tutankham (1983)(Parker Brothers).bin
+480e7829ebbcb55e4aea0abfe5782a08	Tutankham (1983)(Parker Brothers)[b2].bin
+9a66cd7c393517799864a3c36e7d03f2	Tutankham (1983)(Parker Brothers)[b].bin
+90e261510765deecaeac8283aa88d815	Up'n Down (1984)(Sega).bin
+ad22023a11a3bcb107610d2af5a6be77	Venture (1982)(Coleco).bin
+f3ca3882d846f4bc31e6026e510343f0	Venture (1982)(Coleco)[b].bin
+bff9ad330f06bb9f4a6dfd6f70d5873c	Venture (1982)(Coleco)[h].bin
+a31facd8adc1134942d9f4102dd3fa9f	Victory (1983)(CBS Electronics)(EU).bin
+200aa603996bfd2734e353098ebe8dd5	Victory (1983)(Coleco)(US).bin
+e1522f2701f5f55580866d35e1794e5e	Victory (1983)(Coleco)(US)[b].bin
+5c92bb7b55a8b867f0ca666ca848be32	Video Hustler (1984)(Coleco - Konami)(proto).bin
+7f8bbd4a62aedab44e4cc115a6edc637	Video Hustler (1984)(Coleco - Konami)(proto)[a].bin
+95f8000444fd86ef02ee39ae265bdba0	Video Hustler (1984-07-27)(Coleco - Konami)(proto).bin
+0ca1e7b0135f669a51b39cea66a98c31	Vision 8 v1.0 (1997)(deKogel, Marcel)(PD).bin
+000c7331d4598b0fa414be5fb2a603b5	War Games (1984)(Coleco).bin
+a2b0ccd7ea648c3e5f3f750e9254f972	War Games (1984)(Coleco)[b].bin
+0d59da8c315d22f58909c73b851299ee	War Room (1983)(Probe 2000).bin
+2916b15f23f910056cf75142f220a5af	War Room (1983)(Probe 2000)[b2].bin
+87b0df17528e35b68fe0d839701132c3	War Room (1983)(Probe 2000)[b].bin
+62d2ae88b3c012211ff49555d464732b	Waterville Rescue (2009)(Ward, Mike)(PD).bin
+0516b52ffc9a2a0cc12ebdd7cd912697	Wild Western (2005)(Mello, Eduardo)(PD).bin
+70672a0737c4986d31589b1ed0108cb1	Wing War (1983)(Imagic).bin
+35f537368236774c2e9d05b3048de6ca	Wing War (1983)(Imagic)[b].bin
+de1782f1a2ab91adb5e85b8e015431da	Winky Trap (1997)(Dondzila, John)(PD).bin
+8148c6e4ea8e1e38e43a4f9576468ff5	Word Feud (1984)(Xonox).bin
+e8e11c2eb60cecbcfcc9547cf85003f7	Word Feud (1984)(Xonox)[b].bin
+352513b25d19fea031182e195311a54b	Wrong Way! v0.25 (2007-09-25)(5-11under)(PD).bin
+c10aaca46d063771339d3e5a0582baad	Yolks on You, The (1983)(Fox Video Games)(proto).bin
+7f55a676bd0a63f74a20bbb46987877a	Zap v0.1 (200x)(-)(PD).bin
+7c677f80c4ee957559d7abebd8ee1be1	Zaxxon (1982)(Coleco).bin
+1eeb86935d9b3d2cab58bd98df04ec71	Zaxxon (1982)(Coleco)[b].bin
+1206093901f2cfb36ac5442db264c9f9	Zaxxon (19xx)(Taiwan Cooper).bin
+5595dc8acc25f51aaed0d72bbb96e68b	Zenji (1984)(Activision).bin

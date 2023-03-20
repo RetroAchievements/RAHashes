@@ -1,0 +1,26 @@
+4d35d82d4d0d1c1a4709e39fa2015061	2nd Space (World).bin
+d446648d78544497d8a1f654ba19e423	Ant Soldiers (World).bin
+d9206a9aa8a80650dc14467f1c3a1e9e	Arctic Zone (World).bin
+ddd2e71a525be1ed6605e933b3f1a616	Armour Force (World).bin
+51a5520a1757aded4bb3baf5993b5dc8	Beast Fighter (World).bin
+19e82a8a681ffdbdb40b2d2308242830	Black Forest Tale (World).bin
+e07e5a8e3c65cb78d7dc39d905de8147	Bomb Disposer (World).bin
+97aedcfc742ba7e93d37d9c3096d565d	Captain Knick Knack (World).bin
+b9d32795ac1004892e7f75fbbabefcc6	Commin 5 in 1 (World).bin
+08056eec0bd9252dba8e138c886bafe5	Duck Adventures (World).bin
+0f1f07f00d2477bfaea726a00ef9874a	Magic Maze (World).bin
+fecedeed294a15226bf83f6bdb9bd874	Magical Tower (World).bin
+b69258fca964f04c09217318759a242b	Mega Duck 4 in 1 (World).bin
+475ef85a3329c9c7f79db9ea3ac74bd9	Pile Wonder (World).bin
+41f5481a13c8e52aafe8266db52e622f	Pile Wonder (World) (Alt).bin
+f2083d19412a8f1a688eedf3288d438b	Puppet Knight (World).bin
+c217738067267475f86eec9bc19f462b	Railway (World).bin
+0bd39f37e9589a4dec2b3ebf535ef7b7	Snake Roy (World).bin
+284b8c671a7fb408aaa601be44e1f0b5	Street Rider (World).bin
+343da38521cbfb60df79a5e4eb392cf8	Suleiman's Treasure (World).bin
+48170b7d77fc96d4f72adccb51299b87	The Brick Wall (World).bin
+ae12c30ad7b294c999c935bfcbb94600	Trap Turn (World).bin
+7a5162ecd0cbc020bd3d098b75af64de	Vex (World).bin
+34d48f05d6be1d64b22732fc03b19301	Waternet (World) (Aftermarket) (Homebrew).bin
+4b6abd84db818e1ca574f3af9ffcc2d5	Worm Visitor (World).bin
+60a0d647166971c5da6862d1db3916a2	Zipball (World).bin

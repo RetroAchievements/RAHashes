@@ -1,0 +1,276 @@
+a47fcb4eedab9418ea098bb431a407aa	A.E. (1982)(Atari)(US)(proto).bin
+8f13f7ce7a5af5f1ec750d6a0b44a222	Activision Decathlon, The (1983)(Activision)(US)[b][FC-008].bin
+45f8841269313736489180c8ec3e9588	Activision Decathlon, The (1983)(Activision)(US)[FC-008].bin
+fe840b0020003f111022eb45347baf38	Asteroids (1983)(Atari)(US)(proto)[CX5201].bin
+cf45e6e5d9b00ef3270488185bc1e4b5	Asteroids (1983)(Atari)(US)(proto)[o][CX5201].bin
+bae7c1e5eb04e19ef8d0d0b5ce134332	Astro Chase (1983)(Parker Brothers)(US)[9560].bin
+a485d4c20451aada7648c649937f18d6	Ballblazer (1986)(Atari - Lucasfilm)(US)[a][CX5255].bin
+f5cd178cbea0ae7d8cf65b30cfd04225	Ballblazer (1986)(Atari - Lucasfilm)(US)[CX5255].bin
+e3fbad9d967cec0d8756d9c07346a8fb	Barroom Baseball (1983)(Atari)(US)(proto).bin
+8576867c2cfc965cf152be0468f684a7	Battlezone (1983)(Atari)(US)(proto)[CX5239].bin
+452954af9b5e9df9fa70cd5cf9599a55	Beamrider (1983)(Activision)(US)[b][FZ-009].bin
+1913310b1e44ad7f3b90aeb16790a850	Beamrider (1983)(Activision)(US)[FZ-009].bin
+501a9e47a070e82acb284657bd137583	Beamrider (1983)(Activision)(US)[o][FZ-009].bin
+e3290ea26acc854ee20789d41d3588d6	Berzerk (1983)(Atari)(US)[b][CX5221].bin
+f8973db8dc272c2e5eb7b8dbb5c0cc3b	Berzerk (1983)(Atari)(US)[CX5221].bin
+e6cb66bd9add2427441433a0dbd60664	Berzerk (1983)(Atari)(US)[o][CX5221].bin
+428f76e23cb0a499b396824ce0ff70e7	Black Belt (1983-01-06)(Atari)(US)(proto)[CX5231].bin
+e0b47a17fa6cd9d6addc1961fca43414	Blaster (1984)(Atari)(US)(proto).bin
+8123393ae9635f6bc15ddc3380b04328	Blue Print (1983)(CBS Electronics - Bally Midway)(US)[80033].bin
+790ab08e8c347bff058de29b5089c635	Blue Print (1983)(CBS Electronics - Bally Midway)(US)[a][80033].bin
+79499e591b45c16965e68dc8a1020ea0	Blue Print (1983)(CBS Electronics - Bally Midway)(US)[b2][80033].bin
+99e3f362869ba5bc0b050d06416ae810	Blue Print (1983)(CBS Electronics - Bally Midway)(US)[b][80033].bin
+3c18c694c7567a71c66962fd6281aca6	Blue Print (1983)(CBS Electronics - Bally Midway)(US)[o2][a][80033].bin
+b983d987ffd2df2a01bf0a811c1c9c9a	Blue Print (1983)(CBS Electronics - Bally Midway)(US)[o][80033].bin
+989f61e2bc1d7a8512bb81c2c2d169bd	Blue Print (1983)(CBS Electronics - Bally Midway)(US)[o][a][80033].bin
+a470e6d3bacce17260f37097b2de88b1	Boogie (198x)(Atari)(US)(proto).bin
+b2f7e077212aafd8a221107da9a2bfd5	Boogie (198x)(Atari)(US)(proto)[o2].bin
+69ffa4707c786a67bcef8364da4777d6	Boogie (198x)(Atari)(US)(proto)[o].bin
+5d5a75ac53230915701bc918249f1055	Bounty Bob Strikes Back! (1984)(Big Five Software)(US).bin
+40b83a5eb8bca1ff6324e43d1b56fb37	Bounty Bob Strikes Back! (1984)(Big Five Software)(US)[a2].bin
+68cc90e6ea7b24176512c3bda97de1af	Bounty Bob Strikes Back! (1984)(Big Five Software)(US)[a3].bin
+81790daff7f7646a6c371c056622be9c	Bounty Bob Strikes Back! (1984)(Big Five Software)(US)[a4].bin
+398c145f63318bf4b8d11b904f7b94d0	Bounty Bob Strikes Back! (1984)(Big Five Software)(US)[a].bin
+a074a1ff0a16d1e034ee314b85fa41e9	Buck Rogers - Planet of Zoom (1983)(Sega)(US)[005-02].bin
+f345dd189879f8d13e4c8c5737279fa3	Buck Rogers - Planet of Zoom (1983)(Sega)(US)[a][005-02].bin
+dfbba861f0779787f2907672d6847c4f	Buck Rogers - Planet of Zoom (1983)(Sega)(US)[b2][005-02].bin
+412f15e32f54481bd8583a0239df4eef	Buck Rogers - Planet of Zoom (1983)(Sega)(US)[b][005-02].bin
+4965b4c8acca64c4fac39a7c0763f611	Castle Blast (2002)(Habot, Ronen)(US)[CX5280].bin
+a4634b06607c9d3bfd20ec611860bc69	Castle Blast (demo) (2002)(Habot, Ronen)(US)[CX5280].bin
+a01fd4d421a8df09342ea2643bbb47ce	Castle Blast v0.03 (demo) (2002)(Habot, Ronen)(US)[CX5280].bin
+8f4c07a9e0ef2ded720b403810220aaf	Castle Crisis (2004)(Edewaard, Bryan)(US).bin
+261702e8d9acbf45d44bb61fd8fa3e17	Centipede (1982)(Atari)(US)[CX5212].bin
+3ff7707e25359c9bcb2326a5d8539852	Choplifter! (1984)(Atari)(US)[CX5253].bin
+d7b386090a0568b4f3bd62662f71b330	Choplifter! (1984)(Atari)(US)[o][CX5253].bin
+5720423ebd7575941a1586466ba9beaf	Congo Bongo (1983)(Sega)(US)[006-02].bin
+88ea120ef17747d7b567ffa08b9fb578	Congo Bongo (1983)(Sega)(US)[a][006-02].bin
+4e859d63e63e2ba7a85687937088e74a	Congo Bongo (1983)(Sega)(US)[b2][006-02].bin
+36550cda6f5b9473d2fc7917f0578d5f	Congo Bongo (1983)(Sega)(US)[b][006-02].bin
+1a64edff521608f9f4fa9d7bdb355087	Countermeasure (1982)(Atari)(US)[CX5210].bin
+030d43703157fab023eadef6faba484c	Countermeasure (1982)(Atari)(US)[o][CX5210].bin
+d8436f0c8b4f6a5898c3be7188b03be1	Cross Bomber (2020-08-26)(Caruso, Fabrizio).bin
+2ae5e0f1d731358b9ece5a5e10d7700a	Cross Bomber (2021-05-13)(Caruso, Fabrizio).bin
+bd741d6ca8bfc61d63aee7a46c1a41bf	Cross Chase (2017-09-15)(Caruso, Fabrizio)[minimal].bin
+8879fa74c6d3d2719a7c3fe9549937ca	Cross Chase (2017-10-11)(Caruso, Fabrizio)[light].bin
+a2758afde9825fe71c02bd8540dd42a6	Cross Chase (2017-10-30)(Caruso, Fabrizio)[light].bin
+f16a0d2954c4114c2cb308a0b01c3ce6	Cross Chase (2017-12-10)(Caruso, Fabrizio)[full].bin
+6365c2934eb393a81586d62a50a85ef5	Cross Chase (2018-02-03)(Caruso, Fabrizio).bin
+17a035f27911b363ef4d650896f30908	Cross Chase (2018-04-15)(Caruso, Fabrizio).bin
+be0293e2952f72c92b79af136e6ea5d4	Cross Chase (2018-05-19)(Caruso, Fabrizio).bin
+ce3fa3fcaca062d8edd813140cf47198	Cross Chase (2018-07-19)(Caruso, Fabrizio).bin
+25f78caa12eeddc80d544cbadc3a69b4	Cross Chase (2018-08-04)(Caruso, Fabrizio).bin
+1f1e83fed02f26815421ec574a89d178	Cross Chase (2018-10-29)(Caruso, Fabrizio).bin
+b262fb5b6e4f44776d3dffcdb21540e2	Cross Chase (2020-04-02)(Caruso, Fabrizio).bin
+fc447f27e5f4d3e3843d8eacd46b447b	Cross Chase (2021-05-13)(Caruso, Fabrizio).bin
+99ebc76afe1bfe92b32fa051f8e16eb5	Cross Horde (2021-04-16)(Caruso, Fabrizio).bin
+6ba343b998abfdfd148292e6ff2fab1b	Cross Horde (2021-04-25)(Caruso, Fabrizio).bin
+e1d9d6c2737efc6098e1225869f812c0	Cross Horde v1.0 (2021-05-01)(Caruso, Fabrizio).bin
+c6155e68e843dbd86e5d9a7c56f02056	Cross Shoot (2020-07-03)(Caruso, Fabrizio).bin
+c6155e68e843dbd86e5d9a7c56f02056	Cross Shoot (2021-05-13)(Caruso, Fabrizio).bin
+b1ace3c5f7196eedd84f8ebbaa315263	Cross Snake Preview (2020-12-05)(Caruso, Fabrizio).bin
+4c02a6cb4f47a4981d59b7f16054ca2a	Cross Snake v1.0 (2020-12-12)(Caruso, Fabrizio).bin
+2e1195d677bd92d3ef6210c719e25041	Cross Snake v2.0 (2020-12-31)(Caruso, Fabrizio).bin
+7c27d225a13e178610babf331a0759c0	David Crane's Pitfall II - Lost Caverns (1984)(Activision)(US)[FZ-011].bin
+982ffda4449aa33cbf7d8a0b35dcacab	David Crane's Pitfall II - Lost Caverns (1984)(Activision)(US)[o][FZ-011].bin
+c38adbb9efdd80d5a9c44ad9274a7e79	Defender (1982)(Atari)(US)[b2][CX5218].bin
+bda68cd91fcdadce5fa225204271c048	Defender (1982)(Atari)(US)[b][CX5218].bin
+27d5f32b0d46d3d80773a2b505f95046	Defender (1982)(Atari)(US)[CX5218].bin
+6af0a3c0eeda144a6b3d11dbde1bcacb	Dig Dug (1983)(Atari)(US)[b][CX5211].bin
+3abd0c057474bad46e45f3d4e96eecee	Dig Dug (1983)(Atari)(US)[CX5211].bin
+159ccaa564fc2472afd1f06665ec6d19	Dreadnaught Factor, The (1983)(Activision)(US)[FZ-005].bin
+8877ecc1177feae4b67ead62c9e1263d	Dreadnaught Factor, The (1983)(Activision)(US)[o][FZ-005].bin
+2bb63d65efc8682bc4dfac0fd0a823be	Final Legacy (1984-02-23)(Atari)(US)(proto)[CX5256].bin
+14bd9a0423eafc3090333af916cfbce6	Frisky Tom (1982)(Atari)(US)(proto).bin
+2c89c9444f99fd7ac83f88278e6772c6	Frogger (1983)(Parker Brothers)(US)[9530].bin
+2f2c477fcbaa224765acb3ca3ce10af6	Frogger (1983)(Parker Brothers)(US)[a][9530].bin
+202b8238cf440013bfcc2877552c361a	Frogger (1983)(Parker Brothers)(US)[b2][9530].bin
+bd7e6aa528e2eb37d8af28e174220c2c	Frogger (1983)(Parker Brothers)(US)[b][9530].bin
+aa2faac82a525c9784927524964c7705	Frogger (1983)(Parker Brothers)(US)[o2][9530].bin
+90cbfae91445da8671a4a8e96b9e7ace	Frogger (1983)(Parker Brothers)(US)[o][9530].bin
+d8636222c993ca71ca0904c8d89c4411	Frogger II - Threeedeep! (1984)(Parker Brothers)(US)[9090].bin
+8e03034fc42ceaa5f7688af08c1f077c	Frogger II - Threeedeep! (1984)(Parker Brothers)(US)[a][9090].bin
+178e292e94e50398e8961438e4cb6cd7	Frogger II - Threeedeep! (1984)(Parker Brothers)(US)[b][9090].bin
+d1a3b6613b03716af6aefe21d1bfdf07	Frogger II - Threeedeep! (1984)(Parker Brothers)(US)[o2][a][9090].bin
+aca9d2702b129e20dbe3e5c9d3de2556	Frogger II - Threeedeep! (1984)(Parker Brothers)(US)[o][a][9090].bin
+52c035c87111752bc66309e7cc2f0fdc	Galaxian (1982)(Atari)(US)[b][CX5206].bin
+3ace7c591a88af22bac0c559bbb08f03	Galaxian (1982)(Atari)(US)[CX5206].bin
+7ef9f865f169b79e9d609886cb221d22	Galaxian (1982)(Atari)(US)[o2][CX5206].bin
+a61d916f5e510b516f04aa1259d36ae4	Galaxian (1982)(Atari)(US)[o][CX5206].bin
+85fe2492e2945015000272a9fefc06e3	Gorf (1983)(CBS Electronics - Bally Midway)(US)[80013].bin
+65a2c585d80ba363f22b5ab7309e71bc	Gorf (1983)(CBS Electronics - Bally Midway)[o][80013].bin
+8688d478799d51eeaec118a6666bb33d	Gremlins (1986)(Atari)(US)[b2][CX5257].bin
+345cde4732d8ee8f0ef75e5253c11bdb	Gremlins (1986)(Atari)(US)[b][CX5257].bin
+dc271e475b4766e80151f1da5b764e52	Gremlins (1986)(Atari)(US)[CX5257].bin
+dacc0a82e8ee0c086971f9d9bac14127	Gyruss (1984)(Parker Brothers)(US)[9080].bin
+60f63cac40fdd2d024f14d8c4e7863a7	H.E.R.O. (1984)(Activision)(US)[b][FZ-007].bin
+f8f0e0a6dc2ffee41b2a2dd736cba4cd	H.E.R.O. (1984)(Activision)(US)[FZ-007].bin
+7c6a0c5118f94a47018e00f2bf7dfeaf	H.E.R.O. (1984)(Activision)(US)[o][FZ-007].bin
+612c3ca4c2938bb36f2e45fc91c6e779	Intellidiscs (2021-05)(Witmer, Ryan)(NTSC)(GPL).bin
+936db7c08e6b4b902c585a529cb15fc5	James Bond 007 (1983)(Parker Brothers)(US)[9100].bin
+4be78902804240f64ebffa7672418a0d	James Bond 007 (1983)(Parker Brothers)(US)[b2][9100].bin
+85deb317dd6d5735dafe3a13a64bf66a	James Bond 007 (1983)(Parker Brothers)(US)[b][9100].bin
+1442319e10c920631d916c4e881b3d2a	Joust (1983)(Atari)(US)[b][CX5240].bin
+25cfdef5bf9b126166d5394ae74a32e7	Joust (1983)(Atari)(US)[CX5240].bin
+40f3fca978058da46cd3e63ea8d2412f	Jr. Pac-Man (1984)(Atari)(US)(proto)[a][CX5251].bin
+e0ffaca46eb2027b893ef1f93cfee36c	Jr. Pac-Man (1984)(Atari)(US)(proto)[b2][CX5251].bin
+729e20a9478d63a4377710c49a06706b	Jr. Pac-Man (1984)(Atari)(US)(proto)[b][CX5251].bin
+bc748804f35728e98847da6cdaf241a7	Jr. Pac-Man (1984)(Atari)(US)(proto)[CX5251].bin
+335dfee96d30c2959ea17fbc9a8c722f	Jum's Pong (2000)(Jum)(PD).bin
+497aa2c9a31ddaad70aa4cd7ca22b6bf	Jungle Hunt (1983)(Atari)(US)[b][CX5222].bin
+834067fdce5d09b86741e41e7e491d6c	Jungle Hunt (1983)(Atari)(US)[CX5222].bin
+b99f405de8e7700619bcd18524ba0e0e	K-Razy Shootout (1983)(CBS Electronics - Kay Enterprizes)(US)[80503].bin
+453015c519ae345a4ef8768f3d119056	K-Razy Shootout (1983)(CBS Electronics - Kay Enterprizes)(US)[o][80503].bin
+92fd2f43bc0adf2f704666b5244fadf1	Kaboom! (1983)(Activision)(US)[FZ-001].bin
+0ba8a628079155776bc044f214352b0d	Kaboom! (1983)(Activision)(US)[o][FZ-001].bin
+22097e3b37e4f1b68e86ad3787575cab	Kangaroo (1983)(Atari)(US)[b2][CX5229].bin
+affaaa081cc47aee3caca2f9b3f6787d	Kangaroo (1983)(Atari)(US)[b][CX5229].bin
+796d2c22f8205fb0ce8f1ee67c8eb2ca	Kangaroo (1983)(Atari)(US)[CX5229].bin
+c426b6bafc7ca98886c59637f20b0c8c	Kangaroo (1983)(Atari)(US)[o][CX5229].bin
+e3c51afc75eac45b04ee8dba0490c56d	Keystone Kapers (1984)(Activision)(US)[b][FZ-006].bin
+f25a084754ea4d37c2fb1dc8ca6dc51b	Keystone Kapers (1984)(Activision)(US)[FZ-006].bin
+60333145902506fa31e87f7d1b6bf36c	Keystone Kapers (1984)(Activision)(US)[o][FZ-006].bin
+3b03e3cda8e8aa3beed4c9617010b010	Koffi - Yellow Kopter (2002)(Lloyd, Ron)(US)[RL5201].bin
+2d581bf095158f0bf6476d2e08ca459e	Koffi - Yellow Kopter (demo) (2002)(Lloyd, Ron)(US)(PD)[RL5201].bin
+6d2296cada88c2f286bebe909559adcb	Last Starfighter, The (1984)(Atari)(US)(proto)[b][CX5260].bin
+46264c86edf30666e28553bd08369b83	Last Starfighter, The (1984)(Atari)(US)(proto)[CX5260].bin
+d0a1654625dbdf3c6b8480c1ed17137f	Looney Tunes Hotel (1983)(Atari)(US)(proto).bin
+cd18c5626c96fc8366c60cd439815acc	Looney Tunes Hotel (1983)(Atari)(US)(proto)[b2].bin
+89b498b040c5760f554dca6302581685	Looney Tunes Hotel (1983)(Atari)(US)(proto)[b3].bin
+e8f0a4a0262ddd8bb8826a2fb1287648	Looney Tunes Hotel (1983)(Atari)(US)(proto)[b].bin
+5789a45479d9769d4662a15f349d83ed	Magical Fairy Force (2020-10)(Witmer, Ryan)(NTSC)(GPL).bin
+0ad079027090c427e9d939bad318d846	Mario Bros. (1983)(Atari)(US)[a][CX5247].bin
+448b8df2f4e661bc247771e7edad5053	Mario Bros. (1983)(Atari)(US)[b][CX5247].bin
+d00dff571bfa57c7ff7880c3ce03b178	Mario Bros. (1983)(Atari)(US)[CX5247].bin
+bc33c07415b42646cc813845b979d85a	Meebzork (1983)(Atari)(US)(proto).bin
+ff785ce12ad6f4ca67f662598025c367	Megamania (1983)(Activision)(US)[FZ-003].bin
+673de7795b4de2d30860012f3188396b	Megamania (1983)(Activision)(US)[o][FZ-003].bin
+1cd67468d123219201702eadaffd0275	Meteorites (1983)(Electra Concepts)(US).bin
+6781b3d836693436e6fcd4ebc54085cd	Meteorites (1983)(Electra Concepts)(US)[o].bin
+24348dd9287f54574ccc40ee40d24a86	Micro-gammon SB (1983)(Atari)(US)(proto).bin
+7d9777a79634cf1c0d45c45b64375ac0	Micro-gammon SB (1983)(Atari)(US)(proto)[b].bin
+84d88bcdeffee1ab880a5575c6aca45e	Millipede (1984)(Atari)(US)(proto)[CX5248].bin
+5f187c5c79e93866c92289c2e595ad74	Millipede (1984)(Atari)(US)(proto)[o][CX5248].bin
+d859bff796625e980db1840f15dec4b5	Miner 2049er (1983)(Big Five Software)(US)[BF1912].bin
+2c7aa7edfbc5c21997991616f7f321a1	Miner 2049er (1983)(Big Five Software)(US)[o][BF1912].bin
+a95804c7c82726890971da5fb2828b43	Miniature Golf (1983)(Atari)(US)(proto)[b][CX5230].bin
+69d472a79f404e49ad2278df3c8a266e	Miniature Golf (1983)(Atari)(US)(proto)[CX5230].bin
+908898bbf914ef55905490b103a9a18d	Missile Command (1982)(Atari)(US)[b2][CX5202].bin
+2047901591d89f43dbba06e924f2b7ec	Missile Command (1982)(Atari)(US)[b3][CX5202].bin
+f6d68b4be33ff423f4a53b0e1d51acbd	Missile Command (1982)(Atari)(US)[b][CX5202].bin
+972b6c0dbf5501cacfdc6665e86a796c	Missile Command (1982)(Atari)(US)[CX5202].bin
+694897cc0d98fcf2f59eef788881f67d	Montezuma's Revenge (1984)(Parker Brothers)(US)[9460].bin
+3a570ffd0e1e0701a47b5d93d715e399	Montezuma's Revenge (1984)(Parker Brothers)(US)[b][9460].bin
+296e5a3a9efd4f89531e9cf0259c903d	Moon Patrol (1983)(Atari)(US)[CX5241].bin
+856db5fa3c33a4fdab0c1c6700bd925f	Moon Patrol (1983)(Atari)(US)[o][CX5241].bin
+618e3eb7ae2810768e1aefed1bfdcec4	Mountain King (1983)(CBS Electronics)(US)[80083].bin
+d69c7ef70a604aacc46ed29df0e0b0bc	Mountain King (1983)(CBS Electronics)(US)[o2][80083].bin
+b306e288bdb60ebe0e2e80ccfe2c54d7	Mountain King (1983)(CBS Electronics)(US)[o][80083].bin
+d1873645fee21e84b25dc5e939d93e9b	Mr. Do!'s Castle (1984)(Parker Brothers)(US)[9420].bin
+f9ded91ecc5124c64cf061ba634b22b8	Mr. Do!'s Castle (1984)(Parker Brothers)(US)[b2][9420].bin
+a6836be72b0d75f7a0c05f1bb567ca02	Mr. Do!'s Castle (1984)(Parker Brothers)(US)[b][9420].bin
+f817453412f39d7f8f4b2fd2848124c5	Mr. Do!'s Castle (1984)(Parker Brothers)(US)[o][9420].bin
+0a9020ec265198dd0ae5777e41655c8e	Ms. Pac-Man (1983)(Atari)(US)[b2][CX5243].bin
+c510002dccb798df1fa5523bb648b32f	Ms. Pac-Man (1983)(Atari)(US)[b][CX5243].bin
+ef9a920ffdf592546499738ee911fc1e	Ms. Pac-Man (1983)(Atari)(US)[CX5243].bin
+f4a027ff6c4a5abe9a6d5b851d5409c3	Pac-Man (1982)(Atari)(US)[b2][CX5208].bin
+c98ed8fe7c49744f0a139f5dc58bfcda	Pac-Man (1982)(Atari)(US)[b3][CX5208].bin
+3cc6c6bbbed5f055a43a04bdbdc7530f	Pac-Man (1982)(Atari)(US)[b][CX5208].bin
+f1a4d62d9ba965335fa13354a6264623	Pac-Man (1982)(Atari)(US)[CX5208].bin
+8b75950717b62c57d3415e0f2816fea3	Pengo (1983)(Atari)(US)[b][CX5236].bin
+a301a449fc20ad345b04932d3ca3ef54	Pengo (1983)(Atari)(US)[CX5236].bin
+ecbd6dd2ab105dd43f98476966bbf26c	Pitfall! (1984)(Activision)(US)[FZ-004].bin
+0a71537db5e0fcc59029e0ecfc3f6c2c	Pitfall! (1984)(Activision)(US)[o][FZ-004].bin
+fd0cbea6ad18194be0538844e3d7fdc9	Pole Position (1983)(Atari)(US)[CX5217].bin
+dd4ae6add63452aafe7d4fa752cd78ca	Popeye (1984)(Parker Brothers)(US)[9510].bin
+4360242a72b708031bd85b4fbc362132	Popeye (1984)(Parker Brothers)(US)[b][9510].bin
+ce44d14341fcc5e7e4fb7a04f77ffec9	Q-bert (1983)(Parker Brothers)(US)[9500].bin
+0e69406d1d48ac1652b28ebc9344f99a	Q-bert (1983)(Parker Brothers)(US)[b][9500].bin
+592cf6e409a90d6fda0276e85c254d55	Q-bert (1983)(Parker Brothers)(US)[o][9500].bin
+54d34a7926cffcd7778f38fc3fceb960	Qix (1982)(Atari)(US)[b2][CX5221].bin
+0f8abfc910b509cc60a0161ac795e8ec	Qix (1982)(Atari)(US)[b][CX5221].bin
+9b7d9d874a93332582f34d1420e0f574	Qix (1982)(Atari)(US)[CX5221].bin
+099706cedd068aced7313ffa371d7ec3	Quest for Quintana Roo (1984)(Sunrise)(US)[1603].bin
+1d75deb695cc73350f402c0092f70e87	Quest for Quintana Roo (1984)(Sunrise)(US)[o][1603].bin
+88fa71fc34e81e616bdffc30e013330b	RatCatcher (2016-06)(Witmer, Ryan)(NTSC)(GPL).bin
+2bb928d7516e451c6b0159ac413407de	RealSports Baseball (1983)(Atari)(US)[CX5209].bin
+303442c54d579185b1c82e80e8ce8362	RealSports Baseball (1983)(Atari)(US)[o][CX5209].bin
+a71bfb11676a4e4694af66e311721a1b	RealSports Basketball (1982-11-05)(Atari)(US)(proto)[CX5219].bin
+e056001d304db597bdd21b2968fcc3e6	RealSports Basketball (1983)(Atari)(US)[CX5219].bin
+2dca982ba4e479158a2d1a24a6257ec7	RealSports Basketball (1983-10-31)(Atari)(US)(proto)[a][CX5219].bin
+cfd05f2a0ea1068718d1149dbd1f19fa	RealSports Basketball (1983-10-31)(Atari)(US)(proto)[CX5219].bin
+80fb22baa0435258f16fc0e5156d87c7	RealSports Curling (2018-10)(Witmer, Ryan)(NTSC)(GPL).bin
+92efe3e0609550836d5ec21800971b48	RealSports Football (1982)(Atari)(US)[b][CX5207].bin
+022c47b525b058796841134bb5c75a18	RealSports Football (1982)(Atari)(US)[CX5207].bin
+3832950df7b057b02bd4c83642a75d17	RealSports Soccer (1983)(Atari)(US)[a][CX5213].bin
+fe1baf2b2c54890a1db3260cb7633436	RealSports Soccer (1983)(Atari)(US)[b2][CX5213].bin
+59ccd82910e6d4316d737a9b282ed851	RealSports Soccer (1983)(Atari)(US)[b][CX5213].bin
+3074fad290298d56c67f82e8588c5a8b	RealSports Soccer (1983)(Atari)(US)[CX5213].bin
+7e683e571cbe7c77f76a1648f906b932	RealSports Tennis (1986)(Atari)(US)[CX5214].bin
+0dc44c5bf0829649b7fec37cb0a8186b	Rescue on Fractalus (1986)(Atari - Lucasfilm)(US)[CX5254].bin
+16f3d0a5ea352afbd857ee918b70792a	River Raid (1983)(Activision)(US)[b2][FZ-002].bin
+2c061de9cdc57fcb801cd2b307100f41	River Raid (1983)(Activision)(US)[b][FZ-002].bin
+01b978c3faf5d516f300f98c00377532	River Raid (1983)(Activision)(US)[FZ-002].bin
+36db4a0787bdb8a25fa22a6ba4693eb8	River Raid (1983)(Activision)(US)[o][FZ-002].bin
+5048a304302deea79257a03f409bb8d5	Road Runner (1982)(Atari)(US)(proto)[b][CX5242].bin
+ddf7834a420f1eaae20a7a6255f80a99	Road Runner (1982)(Atari)(US)(proto)[CX5242].bin
+077e66d597ee2ddef735741edf2882fb	Robotron - 2084 (1983)(Atari)(US)[b][CX5225].bin
+5dba5b478b7da9fd2c617e41fb5ccd31	Robotron - 2084 (1983)(Atari)(US)[CX5225].bin
+36bfd7c52ffc566b5da8bd3a8bd99d5d	Robotron - 2084 (1983)(Atari)(US)[o2][CX5225].bin
+caa45f596596c1220bb5e02f490f238f	Robotron - 2084 (1983)(Atari)(US)[o][CX5225].bin
+be75afc33f5da12974900317d824f9b9	Sinistar (2010)(AtariAge).bin
+6e24e3519458c5cb95a7fd7711131f8d	Space Dungeon (1983)(Atari)(US)[CX5232].bin
+f1d62467730268c1ba3649d5529bf568	Space Invaders (1982)(Atari)(US)[b][CX5204].bin
+58430368d2c9190083f95ce923f4c996	Space Invaders (1982)(Atari)(US)[CX5204].bin
+5e5f9aa178579119afeb1be89672a1c8	Space Invaders (1982)(Atari)(US)[o2][CX5204].bin
+070a3827cb29379475b956111b1244f9	Space Invaders (1982)(Atari)(US)[o][CX5204].bin
+802a11dfcba6229cc2f93f0f3aaeb3aa	Space Shuttle - A Journey Into Space (1983)(Activision)(US)[FZ-012].bin
+092cd6e42bfa59da03fa2d75cf53d2c1	Space Shuttle - A Journey Into Space (1983)(Activision)(US)[o][FZ-012].bin
+cd1c3f732c3432c4a642732182b1ea30	Spitfire (1984)(Atari)(US)(proto).bin
+221d943b1043f5bdf2b0f25282183404	Spitfire (1984)(Atari)(US)(proto)[a].bin
+cafda13dd60048b5f4f8e3b78eb9b6fc	Sport Goofy (1983)(Atari)(US)(proto)[b2][CX5237].bin
+be29a1dd20330f9ee8f2445137abf125	Sport Goofy (1983)(Atari)(US)(proto)[b3][CX5237].bin
+9669f5e8d244605f85e6d7a9f63b9c6e	Sport Goofy (1983)(Atari)(US)(proto)[b][CX5237].bin
+993e3be7199ece5c3e03092e3b3c0d1d	Sport Goofy (1983)(Atari)(US)(proto)[CX5237].bin
+5b3a198a6ad4e90500861dac5bb35914	Star Raiders (1982)(Atari)(US)[b2][CX5202].bin
+cf7d395002c8a89ee0a450f424fd1d20	Star Raiders (1982)(Atari)(US)[b3][CX5202].bin
+afa5d998ad2a80379b510ea79ce79f7b	Star Raiders (1982)(Atari)(US)[b][CX5202].bin
+e2d3a3e52bb4e3f7e489acd9974d68e2	Star Raiders (1982)(Atari)(US)[CX5202].bin
+c959b65be720a03b5479650a3af5a511	Star Trek - Strategic Operations Simulator (1983)(Sega)(US)[004-02].bin
+6d4131b9f097812417bb0889c6ce8470	Star Trek - Strategic Operations Simulator (1983)(Sega)(US)[b][004-02].bin
+a2831487ab0b0b647aa590fb2b834dd9	Star Wars - Return of the Jedi - Death Star Battle (1983)(Parker Brothers)(US)[9060].bin
+1dee7cb5ae881520c6663c9fc8fce986	Star Wars - Return of the Jedi - Death Star Battle (1983)(Parker Brothers)(US)[b][9060].bin
+00beaa8405c7fb90d86be5bb1b01ea66	Star Wars - The Arcade Game (1984)(Parker Brothers)(US)[9040].bin
+6b76413ec7ed290ce05afef90d84f2ab	Stargate (1984)(Atari)(US)(proto)[b][CX5252].bin
+595703dc459cd51fed6e2a191c462969	Stargate (1984)(Atari)(US)(proto)[CX5252].bin
+6eac0861ca8a3b968fd10ece54f76a31	Super Breakout (1982)(Atari)(US)[b][CX5203].bin
+865570ff9052c1704f673e6222192336	Super Breakout (1982)(Atari)(US)[CX5203].bin
+159a0007cf433f525b27f724ed4f6ec5	Super Breakout (1982)(Atari)(US)[o2][CX5203].bin
+9002ffcfcbcc25e4d6e07925707427a6	Super Breakout (1982)(Atari)(US)[o][CX5203].bin
+dfcd77aec94b532728c3d1fef1da9d85	Super Cobra (1983)(Parker Brothers)(US)[9550].bin
+bbd19e5065e82c36962971fc6849ed28	Super Cobra (1983)(Parker Brothers)(US)[b][9550].bin
+a7e7ada8bc94938cce5de3cb73618ba7	Super Cobra (1983)(Parker Brothers)(US)[o2][9550].bin
+0058be79382ee15d216905366067f18f	Super Cobra (1983)(Parker Brothers)(US)[o][9550].bin
+7dab86351fe78c2f529010a1ac83a4cf	Super Pac-Man (1982)(Atari)(US)(proto).bin
+496b6a002bc7d749c02014f7ec6c303c	Tempest (1983)(Atari)(US)(proto)[CX5220].bin
+33053f432f9c4ad38b5d02d1b485b5bd	Track and Field (1984)(Atari)(US)(proto)[CX5258].bin
+afd990ccf51022be2c1e349982efec95	Track and Field (1984)(Atari)(US)(proto)[o][CX5258].bin
+cbff95fd082166a46a3e657f3e2c7a73	Vanguard (1983)(Atari)(US)[b][CX5216].bin
+556a66d6737f0f793821e702547bc051	Vanguard (1983)(Atari)(US)[CX5216].bin
+560b68b7f83077444a57ebe9f932905a	Wizard of Wor (1983)(CBS Electronics)(US)[80003].bin
+049c16411d1e7cf19ff58b84e1b9907b	Wizard of Wor (1983)(CBS Electronics)(US)[b][80003].bin
+fc71d2850be34f6a0404667e6af375af	Wizard of Wor (1983)(CBS Electronics)(US)[o][80003].bin
+4f6c58c28c41f31e3a1515fe1e5d15af	Xari Arena (1983)(Atari)(US)(proto).bin
+8013739a5d76b799c085aa90bd51bfee	Xari Arena (1983)(Atari)(US)(proto)[o][b2].bin
+53de0b2c9178c52d699ac778f79f1bda	Xari Arena (1983)(Atari)(US)(proto)[o][b].bin
+ef4c1071d3217dd8137df49f3877842d	Xevious (1984)(Atari)(US)(proto)[b][CX5246].bin
+53d0fa90d913084677212a240c5affbd	Xevious (1984)(Atari)(US)(proto)[CX5246].bin
+d01a259cc837db6962a08f9262f58f9b	Yellow Submarine (1982)(Atari)(US)(proto).bin
+3e7fc202eff6b1b5c767e854b6ae52f7	Yellow Submarine (1982)(Atari)(US)(proto)[o2].bin
+08355ef11e90509762a7a25a4b62ddca	Yellow Submarine (1982)(Atari)(US)(proto)[o].bin
+9fee054e7d4ba2392f4ba0cb73fc99a5	Zaxxon (1984)(Sega)(US)[008-02].bin
+12618566bf6a7e88ac9c147524b183a5	Zaxxon (1984)(Sega)(US)[b][008-02].bin
+878383981bb6965a7f9116da1a64d76f	Zenji (1984)(Activision)(US)[b][FZ-010].bin
+77beee345b4647563e20fd896231bd47	Zenji (1984)(Activision)(US)[FZ-010].bin
+26aadeccb7c527435f166df384a870b7	Zenji (1984)(Activision)(US)[o][FZ-010].bin
+dc45af8b0996cb6a94188b0be3be2e17	Zone Ranger (1984)(Activision)(US)[FZ-101].bin
+c3719d2aec887c6099dfba1ad16bf33f	Zone Ranger (1984)(Activision)(US)[o][FZ-101].bin

@@ -1,0 +1,1395 @@
+1862fca4f98e66f363308b859b5863af	128-in-1 Junior Console - Set 1 (1991)(Atari)(PAL)(AU).a26
+715dd9e0240638d441a3add49316c018	128-in-1 Junior Console - Set 2 (1991)(Atari)(PAL)(AU).a26
+0d6b974fe58a1bdd453600401c407856	128-in-1 Junior Console - Set 3 (1991)(Atari)(PAL)(AU).a26
+7f525b07bc98080cc8950f7284e52ede	128-in-1 Junior Console - Set 4 (1991)(Atari)(PAL)(AU).a26
+8c8a26ed57870daba8e13162d497bad1	2 Pak Special (Green) - Dolphin & Pigs 'N Wolf (1990)(HES)(PAL)(AU)[771-341].a26
+ab434f4c942d6472e75d5490cc4dd128	2 Pak Special (Light Green) - Hoppy & Alien Force (1992)(HES)(PAL)(AU)[773-875].a26
+5b9c2e0012fbfd29efd3306359bbfc4a	2 Pak Special (Light Green) - Hoppy & Alien Force (1992)(HES)(PAL)(AU)[a].a26
+7f430c33044e0354815392b53a9a772d	2 Pak Special (Magenta) - Cavern Blaster & City War (1992)(HES)(PAL)(AU)[773-867].a26
+a94b8ca630f467b574b614808d813919	2 Pak Special (Orange) - Space Voyage & Fire Alert (1992)(HES)(PAL)(AU)[773-883].a26
+2e842c2ee22e9dad9df16eed091315c4	2 Pak Special (Red) - Motocross & Boom Bang (1990)(HES)(PAL)(AU)[701-157].a26
+02a5fc90a0d183f870e8eebac1f16591	2 Pak Special (Yellow) - Star Warrior & Frogger (1990)(HES)(PAL)(AU)[771-422].a26
+4d2cef8f19cafeec72d142e34a1bbc03	2 Pak Special (Yellow) - Star Warrior & Frogger (1990)(HES)(PAL)(AU)[a].a26
+f19be4545bb6272f4cf8cc95dda80fe1	2 Pak Special (Yellow) - Star Warrior & Frogger (1990)(HES)(PAL)(AU)[b].a26
+7732e4e4cc2644f163d6650ddcc9d9df	2 Pak Special Black - Challenge & Surfing (1990)(HES)(PAL)(AU)[771-333].a26
+fd7464edaa8cc264b97ba0d13e7f0678	2 Pak Special Black - Challenge & Surfing (1990)(HES)(PAL)(AU)[a].a26
+94e3fbc19107a169909e274187247a9d	2-in-1 - Freeway & Tennis (19xx)(-)(PAL)(BR)[p].a26
+9c40bf810f761ffc9c1b69c4647a8b84	2-in-1 - Frostbite & River Raid (19xx)(Genus)(PAL)[b].a26
+0db4f4150fecf77e4ce72ca4d04c052f	3-D Tic-Tac-Toe (1978)(Atari - Sears)(NTSC)[CX2618, 49-75123].a26
+f3213a8a702b0646d2eaf9ee0722b51c	3-D Tic-Tac-Toe (1978)(Atari - Sears)(NTSC)[o].a26
+e3600be9eb98146adafdc12d91323d0f	3-D Tic-Tac-Toe (1978)(Atari)(PAL)[CX2618].a26
+854b68b93e7123a3be42b5a2a41f75d7	3-D Tic-Tac-Toe (1978)(Atari)(PAL)[o][b].a26
+402b1ca3c230a60fb279d4a2a10fa677	3-D Tic-Tac-Toe (1978)(Atari)(PAL)[p][o].a26
+6bb09bc915a7411fe160d0b2e4d66047	32-in-1 - 00 - UFO (1988)(Atari)(PAL)[b][aka Space Jockey].a26
+b290c2b139344fcff5b312c71b9ac3b2	32-in-1 - 00 - UFO (1988)(Atari)(PAL)[o][b][aka Space Jockey].a26
+ad42e3ca3144e2159e26be123471bffc	32-in-1 - 01 - Human Cannonball (1988)(Atari)(PAL)[aka Cannon Man].a26
+4bdae9246d6ee258c26665512c1c8de3	32-in-1 - 01 - Human Cannonball (1988)(Atari)(PAL)[o][aka Cannon Man].a26
+d816fea559b47f9a672604df06f9d2e3	32-in-1 - 02 - Fun with Numbers (1988)(Atari)(PAL).a26
+08989fa4ff537f5dbd611aff4019521a	32-in-1 - 02 - Fun with Numbers (1988)(Atari)(PAL)[o][b].a26
+7b5207e68ee85b16998bea861987c690	32-in-1 - 03 - 3-D Tic-Tac-Toe (1988)(Atari)(PAL).a26
+f5445b52999e229e3789c39e7ee99947	32-in-1 - 04 - Flag Capture (1988)(Atari)(PAL).a26
+b897f9e3f939b9f21566d56db812a84e	32-in-1 - 04 - Flag Capture (1988)(Atari)(PAL)[o].a26
+6468d744be9984f2a39ca9285443a2b2	32-in-1 - 05 - Reversi (1988)(Atari)(PAL).a26
+95351b46fa9c45471d852d28b9b4e00b	32-in-1 - 06 - Golf (1988)(Atari)(PAL).a26
+db5073bd75eb05f7d62a7268396d1e77	32-in-1 - 06 - Golf (1988)(Atari)(PAL)[o].a26
+a60598ad7ee9c5ccad42d5b0df1570a1	32-in-1 - 07 - Surround (1988)(Atari)(PAL).a26
+5c86e938e0845b9d61f458539e9a552b	32-in-1 - 07 - Surround (1988)(Atari)(PAL)[o].a26
+bce93984b920e9b56cf24064f740fe78	32-in-1 - 08 - Checkers (1988)(Atari)(PAL).a26
+499b612f6544ae71d4915aa63e403e10	32-in-1 - 08 - Checkers (1988)(Atari)(PAL)[o][b].a26
+ff7627207e8aa03730c35c735a82c26c	32-in-1 - 09 - Blackjack (1988)(Atari)(PAL).a26
+d726621c676552afa503b7942af5afa2	32-in-1 - 09 - Blackjack (1988)(Atari)(PAL)[o][b].a26
+481d20ec22e7a63e818d5ef9679d548b	32-in-1 - 10 - Freeway Rabbit (1988)(Atari)(PAL).a26
+060c865c782debb047e6fd101c8923fc	32-in-1 - 10 - Freeway Rabbit (1988)(Atari)(PAL)[o].a26
+73521c6b9fed6a243d9b7b161a0fb793	32-in-1 - 11 - Miniature Golf (1988)(Atari)(PAL).a26
+6979f30204149be3e227558cffe21c1d	32-in-1 - 11 - Miniature Golf (1988)(Atari)(PAL)[o].a26
+7608abdfd9b26f4a0ecec18b232bea54	32-in-1 - 12 - Football (1988)(Atari)(PAL).a26
+67c05ae94bf8b83a666c3ae2c4bc14de	32-in-1 - 12 - Football (1988)(Atari)(PAL)[o].a26
+d1d704a7146e95709b57b6d4cac3f788	32-in-1 - 13 - Slot Racers (1988)(Atari)(PAL).a26
+2517827950fee41a3b9de60275c8aa6a	32-in-1 - 14 - Fishing Derby - Crabs (1988)(Atari)(PAL)[b].a26
+f9967369943209b4788d4e92cefc0795	32-in-1 - 14 - Fishing Derby - Crabs (1988)(Atari)(PAL)[o][b2].a26
+d782543818b6320e4f60d77da2b596de	32-in-1 - 14 - Fishing Derby - Crabs (1988)(Atari)(PAL)[o][b].a26
+b702641d698c60bcdc922dbd8c9dd49c	32-in-1 - 15 - Space War (1988)(Atari)(PAL).a26
+6666c1ac4ff177e1255f83b0921c524c	32-in-1 - 15 - Space War (1988)(Atari)(PAL)[b].a26
+2c45c3eb819a797237820a1816c532eb	32-in-1 - 16 - Boxing (1988)(Atari)(PAL).a26
+b77468d586957d1b7fb4cccda2684f47	32-in-1 - 16 - Boxing (1988)(Atari)(PAL)[o][b].a26
+8aad33da907bed78b76b87fceaa838c1	32-in-1 - 17 - Air-Sea Battle (1988)(Atari)(PAL).a26
+605dcb73d22f4efdb90ef9da2f290f7c	32-in-1 - 17 - Air-Sea Battle (1988)(Atari)(PAL)[o].a26
+914a8feaf6d0a1bbed9eb61d33817679	32-in-1 - 18 - Freeway Chicken (1988)(Atari)(PAL)[aka Freeway].a26
+b7b1d3ce07e75976c43a2dca3866237e	32-in-1 - 18 - Freeway Chicken (1988)(Atari)(PAL)[o][aka Freeway].a26
+16e04823887c547dc24bc70dff693df4	32-in-1 - 19 - Tennis (1988)(Atari)(PAL).a26
+0ef64cdbecccb7049752a3de0b7ade14	32-in-1 - 20 - Combat (1988)(Atari)(PAL).a26
+e2eccbbe963f80f291cb1f18803bf557	32-in-1 - 20 - Combat (1988)(Atari)(PAL)[o].a26
+75ea128ba96ac6db8edf54b071027c4e	32-in-1 - 21 - Slot Machine (1988)(Atari)(PAL).a26
+1e272d09c0e55f5ef14fcb76a735f6d7	32-in-1 - 21 - Slot Machine (1988)(Atari)(PAL)[o].a26
+367411b78119299234772c08df10e134	32-in-1 - 22 - Skiing (1988)(Atari)(PAL).a26
+40b59249e05135bca33861e383735e9e	32-in-1 - 22 - Skiing (1988)(Atari)(PAL)[o].a26
+c9196e28367e46f8a55e04c27743148f	32-in-1 - 23 - Stampede (1988)(Atari)(PAL).a26
+f20675c8b98518367b9f5b8ee6f7c8ea	32-in-1 - 23 - Stampede (1988)(Atari)(PAL)[o].a26
+2e3728f3086dc3e71047ffd6b2d9f015	32-in-1 - 24 - Outlaw (1988)(Atari)(PAL).a26
+f661f129644f338b13d9f4510d816c03	32-in-1 - 24 - Outlaw (1988)(Atari)(PAL)[o].a26
+7628d3cadeee0fd2e41e68b3b8fbe229	32-in-1 - 25 - Fishing Derby (1988)(Atari)(PAL).a26
+616e310b1c057e33642735889c641bb5	32-in-1 - 25 - Fishing Derby (1998)(Atari)(PAL)[b2].a26
+a4fc5ff34f70a8a713e2d1af82f95476	32-in-1 - 25 - Fishing Derby (1998)(Atari)(PAL)[b].a26
+3f75a5da3e40d486b21dfc1c8517adc0	32-in-1 - 26 - Sky Diver (1988)(Atari)(PAL).a26
+f1fe06ebe2900eac4cdd17799389a102	32-in-1 - 26 - Sky Diver (1988)(Atari)(PAL)[o].a26
+0d1b3abf681a2fc9a6aa31a9b0e8b445	32-in-1 - 27 - Laser Blast (1988)(Atari)(PAL).a26
+1228c01cd3c4b9c477540c5adb306d2a	32-in-1 - 28 - Basketball (1988)(Atari)(PAL).a26
+32d1260ea682e1bb10850fa94c04ec5f	32-in-1 - 28 - Basketball (1988)(Atari)(PAL)[o].a26
+f4ab6bd5f80d8988141edde4c84b23b5	32-in-1 - 28 - Basketball (1988)(Atari)(PAL)[o][b].a26
+afe4eefc7d885c277fc0649507fbcd84	32-in-1 - 29 - Ant Party (1988)(Atari)(PAL)[aka Cosmic Swarm].a26
+f69bb58b815a6bdca548fa4d5e0d5a75	32-in-1 - 30 - Bowling (1988)(Atari)(PAL).a26
+4b71197153d651480830638cb6a03249	32-in-1 - 30 - Bowling (1988)(Atari)(PAL)[o].a26
+ca7aaebd861a9ef47967d31c5a6c4555	32-in-1 - 31 - Home Run (1988)(Atari)(PAL).a26
+63811ed69bdbc35c69d8aa7806c3d6e9	32-in-1 - 31 - Home Run (1988)(Atari)(PAL)[o].a26
+5f5db1fe2c77c02b5a12937b0b3ca16c	32-in-1 Game Cartridge (1988)(Atari)(PAL)[b].a26
+291bcdb05f2b37cdf9452d2bf08e0321	32-in-1 Game Cartridge (1988)(Atari)(PAL)[CX26163].a26
+2cefa695df2ed020899a7df7bb1e3a95	A-Team (2002)(Polik, Manuel - Zavagli, Fabrizio)(NTSC)[h][A-Team].a26
+dafc3945677ccc322ce323d1e9930beb	A-Team (2002)(Polik, Manuel - Zavagli, Fabrizio)(proto)(PAL)[h][A-Team].a26
+c02e1afa0671e438fd526055c556d231	A-Team (2002)(Polik, Manuel - Zavagli, Fabrizio)(proto)(PAL60)[h][A-Team].a26
+c00734a2233ef683d9b6e622ac97a5c8	A-Team, The (1984-03-30)(Atari)(NTSC)(proto)[aka Saboteur][CX26133].a26
+355b527d114c33952f62f9d4770d25fa	Ace (2003)(Rotschkar, Manuel)(NTSC)(PD)[h Driving Controller][Combat].a26
+09274c3fc1c43bf1e362fda436651fd8	Acid Drop (1992)(Salu)(NTSC)[f NTSC Jentzsch, Thomas].a26
+17ee23e5da931be82f733917adcb6386	Acid Drop (1992)(Salu)(PAL)[460758].a26
+5f17fef8a64d64d119f8e76c50238762	Acid Drop (1992)(Salu)(PAL)[b].a26
+d573089534ca596e64efef474be7b6bc	Action Force (1983)(Parker Bros)(PAL)[b].a26
+b9f6fa399b8cd386c235983ec45e4355	Action Force (1983)(Parker Bros)(PAL)[paddle][aka G.I. Joe - Cobra Strike][931511].a26
+157bddb7192754a45372be196797f284	Adventure (1978)(Atari - Sears)(NTSC)[CX2613, 49-75154].a26
+a5b7f420ca6cc1384da0fed523920d8e	Adventure (1978)(Atari)(NTSC)[h New Graphics].a26
+543b4b8ff1d616fa250c648be428a75c	Adventure (1978)(Atari)(NTSC)[t].a26
+4b27f5397c442d25f0c418ccdacf1926	Adventure (1978)(Atari)(PAL)[CX2613].a26
+171cd6b55267573e6a9c2921fb720794	Adventure 34 (2002)(Howe, Kurt)(NTSC)[h][Adventure].a26
+9c65cd2b3079ac3c3850b68f5b1abf4e	Adventure 8k (2004-04-07)(Shay, Nukey)(NTSC)[h][Adventure].a26
+e923001015bedd7901569f035d9c592c	Adventure II (19xx)(-)[h][Adventure].a26
+b8331d53186d8cee9a3b1b481073117f	Adventure Invaders (2003)(Krytol)(NTSC)[h][Space Invaders].a26
+e2846af3e4d172b251ab77cbdd01761e	Adventure Plus (2003)(Engelhardt, Steve)(NTSC)[h][Adventure].a26
+9be58a14e055b0e7581fc4d6c2f6b31d	Adventure SI (2003)(Channel2)(NTSC)[h Color Scrolling][Adventure].a26
+3f4d853c556b8ce6c0c5504431433604	Adventure4WI (2005)(-)(NTSC)[h][Adventure].a26
+ca4f8c5b4d6fb9d608bb96bc7ebd26c7	Adventures of Tron (1982)(Mattel - INTV - APh Tech Consulting)(NTSC)[MT4317].a26
+e04d0c8cdbbd0d0c61ccff53682b2107	Adventures of Tron (1982)(Mattel)[b].a26
+06cfd57f0559f38b9293adae9128ff88	Adventures on GX-12 (1988)(Telegames)(PAL)]aka Adventures of Tron][4317 A009].a26
+35be55426c1fec32dfb503b4f0651572	Air Raid (19xx)(Men-A-Vision).a26
+da0fb2a484d0d2d8f79d6e063c94063d	Air Raiders (1982)(Mattel - INTV - Aph Tech Consulting)(NTSC)[a].a26
+a9cb638cd2cb2e8e0643d7a67db4281c	Air Raiders (1982)(Mattel - INTV - Aph Tech Consulting)(NTSC)[MT5861].a26
+cf3a9ada2692bb42f81192897752b912	Air Raiders (1982)(Mattel - INTV - Aph Tech Consulting)(PAL).a26
+98e5e4d5c4dd9a986d30fd62bd2f75ae	Air-Sea Battle (1977)(Atari)(NTSC)[h Graphics][o].a26
+1d1d2603ec139867c1d1f5ddf83093f1	Air-Sea Battle (1977)(Atari)(NTSC)[o].a26
+0c7926d660f903a2d6910c254660c32c	Air-Sea Battle (1977)(Atari)(PAL)[aka Target Fun (Anti-Aircraft)][CX2602].a26
+e5fcc62e1d73706be7b895e887e90f84	Air-Sea Battle (1977)(Atari)(PAL)[p].a26
+4d77f291dca1518d7d8e47838695f54b	Airlock (1982)(Data Age)(NTSC)[DA1004].a26
+1c2675e39621cffdf855873e9e79da73	Airlock (1982)(Data Age)[b].a26
+f1a0a23e6464d954e3a9579c4ccd01c8	Alien (1982)(20th Century Fox - Neubauer, Daglas 'Dallas North')(NTSC)[11006].a26
+956496f81775de0b69a116a0d1ad41cc	Alien (198x)(CCE)(NTSC)(BR).a26
+23496d7a17168b66dc72bfaf6b6ff080	Alien Ants (2003)(neotokeo2001)(NTSC)[h][Thunderground].a26
+0ccde1c30beeb447bf21fe818cff6951	Alien Attack (2004)(neotokeo2001)(NTSC)[h][Gremlins].a26
+8b51a3178b661cb1eb19eff361141872	Alien Menace (2005)(neotokeo2001)(NTSC)(beta A-1)[h][River Raid].a26
+de7da104cb244c42828357a94d2f2c0c	Alien Menace (2005)(neotokeo2001)(NTSC)[h][River Raid].a26
+1287535256bf5dff404839ac9e25c3e7	Alien Pac-Man Rev 2 (2003-01-05)(PacManPlus)(NTSC)[h][Alien].a26
+0ccd95fad29565f48627c3738625bf6f	Alien Planet (2004)(neotokeo2001)(beta)[h][Pitfall!].a26
+43ab0c3346a4da01bdd3afba9f67c160	Alien Planet (2004)(neotokeo2001)(NTSC)[h][Pitfall!].a26
+6f391ba2c82d2c24df96d4165a1773be	Alienated - Balloons and Umbrellas (2004)(mojofltr)(NTSC)[h][Space Invaders Arcade].a26
+83fb227002a0cf44636d4dffb726be01	Alienated - Bricks and Saucers (2004)(mojofltr)(NTSC)[h][Space Invaders Arcade].a26
+e1a51690792838c5c687da80cd764d78	Alligator People (1983)(20th Century Fox)(NTSC)(proto).a26
+a5cb94a0730c7cef1d22a633e06211c8	Alternate Adventure (2005)(Pac-Man Plus)(NTSC)[h][Adventure].a26
+26bc2bdf447a17376aea7ef187ff6e44	Amanda Invaders (2000)(Thompson, Greg)(NTSC)(PD).a26
+51f15b39d9f502c2361b6ba6a73464d4	Amanda Invaders (2000)(Thompson, Greg)(NTSC)(PD)[o].a26
+acb7750b4d0c4bd34969802a7deb2990	Amidar (1982)(Parker Bros)(NTSC)[PB5310].a26
+056f5d886a4e7e6fdd83650554997d0d	Amidar (1983)(Parker Bros)(PAL)[931504].a26
+6354f9c7588a27109c66905b0405825b	Amidar DS (2003)(Jentzsch, Thomas)(NTSC)[h][Amidar].a26
+93b9229fc0ea4fb959d604f83f8f603c	Amidar DS - Faster Enemies (2003)(Jentzsch, Thomas)(NTSC)[h][Amidar].a26
+fc9f6211869d0345a98889125b60234f	Amoebaoids (2005)(Jamcat)(NTSC)[h][Asteroids].a26
+cb55dc9c78492747c561a6ad6e7db044	Ancipital - Ode to Yak the Hairy (2004)(GodMedia)(NTSC)[h][Bezerk].a26
+6672de8f82c4f7b8f7f1ef8b6b4f614d	Anglen (198x)(Ariola)(PAL)(DE)[aka Fishing Derby][PGP237].a26
+1bdba31a3e3667eab82b1a00504f7b93	Angling (19xx)(Ariola)[b].a26
+1c11870c4ff5ffcaa2d244d281879157	Ant Attack (2003)(neotokeo2001)(NTSC)[h][Pepsi Invaders].a26
+6b01a519b413f8cfa2f399f4d2841b42	Aphex Invaders (200x)(-)(NTSC)[h][Space Invaders].a26
+e73838c43040bcbc83e4204a3e72eef4	Apples and Dolls (19xx)(CCE)(NTSC)(BR)[aka Open, Sesame!].a26
+43f899581b527d17b748ecc9e2e36a31	Aquaventure (198x)(CCE)(BR)(proto)[b2].a26
+fa4a7a4f24a361d1e3542bf794081910	Aquaventure (198x)(CCE)(BR)[b].a26
+f69d4fcf76942fcd9bdf3fd8fde790fb	Aquaventure (198x)(CCE)(NTSC)(BR).a26
+038e1e79c3d4410defde4bfe0b99cc32	Aquaventure 8-12 (1983-08-12)(Atari)(NTSC)(proto).a26
+df62a658496ac98a3aa4a6ee5719c251	Arcade Golf (1977)(Atari - Sears)(NTSC)[aka Miniature Golf][CX2626, 6-99829, 49-75116].a26
+384db97670817103dd8c0bbdef132445	Arcade Golf (1977)(Sears)(NTSC)[o].a26
+a7b584937911d60c120677fe0d47f36f	Armor Ambush (1982)(Mattel - INTV - APh Tech Consulting)(NTSC)[MT5661].a26
+c6ac96388eee837f19e1c5b928f33996	Armor Ambush (1982)(Mattel)[b].a26
+d0af33865512e9b6900714c26db5fa23	Armor Ambush (1982)(Telegames)(PAL).a26
+e518933e9e9403377ddd6ed6f8148711	Artificial Lifeform #1 (2004)(neotokeo2001)(NTSC)[h][King Kong].a26
+3f039981255691d3859d04ef813a1264	Artillery Duel (1983)(Xonox - K-Tel Soft, Action Graphics)(NTSC)[a].a26
+d341d39774277cee6a1d378a013f92ac	Artillery Duel (1983)(Xonox - K-Tel Soft, Action Graphics)(PAL)[a].a26
+de78b3a064d374390ac0710f95edde92	Assault (1983)(Bomb - Onbase)(NTSC)[aka Sky Alien][CA281].a26
+327468d6c19697e65ab702f06502c7ed	Aster-Hawk (2002)(Morgan, Charles)(NTSC)[h][Asteroids].a26
+89a68746eff7f266bbf08de2483abe55	Asterix (1983)(Atari)(NTSC)(proto)[aka Taz][CX2696].a26
+c5c7cc66febf2d4e743b4459de7ed868	Asterix (1983)(Atari)(PAL)[aka Taz][a].a26
+faebcb2ef1f3831b2fc1dbd39d36517c	Asterix (1983)(Atari)(PAL)[aka Taz][CX2696].a26
+b227175699e372b8fe10ce243ad6dda5	Asteroids (1981)(Atari - Sears)(NTSC)[a].a26
+dd7884b4f93cab423ac471aa1935e3df	Asteroids (1981)(Atari - Sears)(NTSC)[CX2649, 49-75163].a26
+19abaf2144b6a7b281c4112cff154904	Asteroids (1981)(Atari)(PAL)[a2].a26
+a957dbe7d85ea89133346ad56fbda03f	Asteroids (1981)(Atari)(PAL)[a].a26
+8cf0d333bbe85b9549b1e6b1e2390b8d	Asteroids (1981)(Atari)(PAL)[CX2649].a26
+ccbd36746ed4525821a8083b0d6d2c2c	Asteroids (198x)(Atari - Sears)(NTSC)[p][no copyright].a26
+47b82d47e491ac7fdb5053a88fccc832	Asteroids (1999)(Atari Freak 1 - Cruz, Franklin)(NTSC)[h].a26
+df40af244a8d68b492bfba9e97dea4d6	Asteroids (1999)(Cruz, Franklin)(NTSC)[h].a26
+2dbdca3058035d2b40c734dcf06a86d9	Asteroids DC+ (2002)(Jentzsch, Thomas)(NTSC)[h Driving Controller][Asteroids].a26
+8f53a3b925f0fd961d9b8c4d46ee6755	Astro War (19xx)(Taiwan Cooper Black)(NTSC).a26
+170e7589a48739cfb9cc782cbb0fe25a	Astroblast (1982)(Mattel - INTV - APh Tech Consulting)(NTSC)[f][paddle][MT5666].a26
+46e9428848c9ea71a4d8f91ff81ac9cc	Astroblast (1988)(Telegames)(NTSC).a26
+a4aa7630e4c0ad7ebb9837d2d81de801	Atari 2600 Invaders (19xx)(-)(NTSC)[h][Space Invaders].a26
+fecba9520ed565fc6614c4fb891f95cd	Atari 2600 Invaders (19xx)(-)[h][Space Invaders][b].a26
+d0a379946ed77b1b126230ca68461333	Atari Invaders (19xx)(Ataripoll)(NTSC)[h][Space Invaders].a26
+49a728f38f4b15d98903a62a3b4cb86f	Atari Shot (2003)(neotokeo2001)(NTSC)[h][Carnival].a26
+d8d0aa05b15c799c2c2ac922156c9fc6	Atari Shot 2005 (2005)(neotokeo2001)(NTSC)[h][Carnival].a26
+2b51de8b4b702c07adbd90341ba6eaa2	Atari Shot Remix (2004)(neotokeo2001)(NTSC)[h][Carnival].a26
+72467dbbf74b662d46807a1cdbe824f1	Atari Softball (2004)(OutofGas)(NTSC)[h][Home Run].a26
+3f540a30fdee0b20aed7288e4a5ea528	Atari Video Cube (1982)(Atari - GCC)(NTSC)[CX2670].a26
+266c1000bdd3a91d60b622d2700b7f49	AtariAge Combat Redux Design Contest - 5-11under_1 (2004)(5-11under)(NTSC)[h][Combat].a26
+11264ae52f469337158aaa758afe6e30	AtariAge Combat Redux Design Contest - 5-11under_2 (2004)(5-11under)(NTSC)[h][Combat].a26
+bf9ace2c12af97edbfbeb9ea5c50b821	AtariAge Combat Redux Design Contest - 5-11under_3 (2004)(5-11under)(NTSC)[h][Combat].a26
+8103fce555c0a08c7a6d26899e7a0f8c	AtariAge Combat Redux Design Contest - 5-11under_4 (2004)(5-11under)(NTSC)[h][Combat].a26
+59b4cdfe375f951f455d09ee12e30333	AtariAge Combat Redux Design Contest - AdrianM_1 (2004)(AdrianM)(NTSC)[h][Combat].a26
+b400aab0c44e94e3709b4a5c1e3a2816	AtariAge Combat Redux Design Contest - AdrianM_2 (2004)(AdrianM)(NTSC)[h][Combat].a26
+0e261b722171bfbd3c1272b7b10a49a0	AtariAge Combat Redux Design Contest - AdrianM_3 (2004)(AdrianM)(NTSC)[h][Combat].a26
+34d8bf08e8c86ac5b0a53666e113d7bc	AtariAge Combat Redux Design Contest - agenteqze_1 (2004)(agenteqze)(NTSC)[h][Combat].a26
+3da3c5330a5d9c56c4db40c829448331	AtariAge Combat Redux Design Contest - Compacho_1 (2004)(Compacho)(NTSC)[h][Combat].a26
+564318d99e471156bebafef074546ec1	AtariAge Combat Redux Design Contest - Compacho_2 (2004)(Compacho)(NTSC)[h][Combat].a26
+f7d1abe0e0f9aa4801bb11f8f27bb734	AtariAge Combat Redux Design Contest - Csonicgo_1 (2004)(Csonicgo)(NTSC)[h][Combat].a26
+0e110476641097e321248c0a7fc4ea00	AtariAge Combat Redux Design Contest - DDCecil_1 (2004)(DDCecil)(NTSC)[h][Combat].a26
+cd4da45f5670a1886fd0f1e06fa04bf5	AtariAge Combat Redux Design Contest - dor-x_1 (2004)(dor-x)(NTSC)[h][Combat].a26
+b5c95ff04c58ac20ed0f7f5ea94cfad5	AtariAge Combat Redux Design Contest - dor-x_2 (2004)(dor-x)(NTSC)[h][Combat].a26
+a82a0d1f42f4dbdccff25035551f9350	AtariAge Combat Redux Design Contest - dor-x_3 (2004)(dor-x)(NTSC)[h][Combat].a26
+93c81246035fb4d3ae97e55d12b77c26	AtariAge Combat Redux Design Contest - dor-x_4 (2004)(dor-x)(NTSC)[h][Combat].a26
+b18c7b5a42d76ea144ec353879961fd1	AtariAge Combat Redux Design Contest - dor-x_5 (2004)(dor-x)(NTSC)[h][Combat].a26
+a176ade377c4cd9c7f4e38f641816f92	AtariAge Combat Redux Design Contest - dor-x_6 (2004)(dor-x)(NTSC)[h][Combat].a26
+d5e669da29ba757abfcf714aee0d14d5	AtariAge Combat Redux Design Contest - JoeGrand_1 (2004)(Grand, Joe)(NTSC)[h][Combat].a26
+7c230a30dbb70be35b444e59cbf2d2f9	AtariAge Combat Redux Design Contest - JohnTielli_1 (2004)(Jerky)(NTSC)[h][Combat].a26
+d000bec791b9bdacde619f7fc79bc81d	AtariAge Combat Redux Design Contest - JohnTielli_2 (2004)(Jerky)(NTSC)[h][Combat].a26
+a71f637c89977deeef172bcbcea0a003	AtariAge Combat Redux Design Contest - JohnTielli_3 (2004)(Jerky)(NTSC)[h][Combat].a26
+3f0f1d79303bd97c76a408c55893165d	AtariAge Combat Redux Design Contest - JohnTielli_4 (2004)(Jerky)(NTSC)[h][Combat].a26
+807d06202fcdfcfcee0dff673269d9bf	AtariAge Combat Redux Design Contest - max-t_1 (2004)(max-t)(NTSC)[h][Combat].a26
+c216e6fa07d8e5da2c8550c0f2972dd5	AtariAge Combat Redux Design Contest - max-t_2 (2004)(max-t)(NTSC)[h][Combat].a26
+815c26f3464eb1b4ed5985af70d0bd55	AtariAge Combat Redux Design Contest - max-t_3 (2004)(max-t)(NTSC)[h][Combat].a26
+abd80ff9d775aee5eb6725ace25d4331	AtariAge Combat Redux Design Contest - max-t_4 (2004)(max-t)(NTSC)[h][Combat].a26
+4121aaa08fea8f014e67ac61b0f0e4ca	AtariAge Combat Redux Design Contest - pmitch_3m_1 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+7c06e941cfa7388a4ce871b1f12d1d4a	AtariAge Combat Redux Design Contest - pmitch_3m_10 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+e9f7c91f2c6d7bf142957ab9392b3e6c	AtariAge Combat Redux Design Contest - pmitch_3m_11 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+9af92a2f178d658d37cfe081807e1ab1	AtariAge Combat Redux Design Contest - pmitch_3m_12 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+fb51a5bf8bb2639b682c5bced1e5a733	AtariAge Combat Redux Design Contest - pmitch_3m_13 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+d1a6968e3caec7cc37e067509a820456	AtariAge Combat Redux Design Contest - pmitch_3m_14 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+445a7115195dba62ab45708a65a08107	AtariAge Combat Redux Design Contest - pmitch_3m_15 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+a4c730515267a940efdde24c83186bec	AtariAge Combat Redux Design Contest - pmitch_3m_16 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+465cb9371f58064be3e41099c07e3303	AtariAge Combat Redux Design Contest - pmitch_3m_17 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+347317188b661008a8352b93278102fc	AtariAge Combat Redux Design Contest - pmitch_3m_18 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+87a1e17d4c66d9873355e67c252e01a8	AtariAge Combat Redux Design Contest - pmitch_3m_2 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+8c0c5bd1ebe9080b7a2c1070a9b7da07	AtariAge Combat Redux Design Contest - pmitch_3m_3 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+a83fece04a6bf642793faa27769e9406	AtariAge Combat Redux Design Contest - pmitch_3m_4 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+ebb6ee094c11533b896a5793b64fff9f	AtariAge Combat Redux Design Contest - pmitch_3m_5 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+e50086faae965bbc3f53632b03b50bbd	AtariAge Combat Redux Design Contest - pmitch_3m_6 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+64dc537a375a8cce19312bca7fc06f4a	AtariAge Combat Redux Design Contest - pmitch_3m_7 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+e9266eab37cb54df6bd5cbf1ff8f8eb2	AtariAge Combat Redux Design Contest - pmitch_3m_8 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+ca257fbd1ee7f235f3fe7eda6f6f9b2b	AtariAge Combat Redux Design Contest - pmitch_3m_9 (2004)(pmitch_3m)(NTSC)[h][Combat].a26
+4cf6abc53fce9e37079dfbbe9c47a414	AtariAge Combat Redux Design Contest - Spike_1 (2004)(SPIKE)(NTSC)[h][Combat].a26
+e20ecc865b47a69cd9b7cb5227f8ccf6	AtariAge Combat Redux Design Contest - Spike_10 (2004)(SPIKE)(NTSC)[h][Combat].a26
+5c260e27e82fddaa031067539de01d32	AtariAge Combat Redux Design Contest - Spike_11 (2004)(SPIKE)(NTSC)[h][Combat].a26
+047f0049d07d283458d517efeaa8637c	AtariAge Combat Redux Design Contest - Spike_12 (2004)(SPIKE)(NTSC)[h][Combat].a26
+1e96e21b42ed8ddb374e65c5c61c227d	AtariAge Combat Redux Design Contest - Spike_13 (2004)(SPIKE)(NTSC)[h][Combat].a26
+418b156b4fce29d279ab02a258453450	AtariAge Combat Redux Design Contest - Spike_14 (2004)(SPIKE)(NTSC)[h][Combat].a26
+77663d05d743e1890e23028885e80ef8	AtariAge Combat Redux Design Contest - Spike_15 (2004)(SPIKE)(NTSC)[h][Combat].a26
+c70fe5abbdb1013c279a419978ea9379	AtariAge Combat Redux Design Contest - Spike_16 (2004)(SPIKE)(NTSC)[h][Combat].a26
+8c53b06d1649f7e641bd790325ade9bf	AtariAge Combat Redux Design Contest - Spike_17 (2004)(SPIKE)(NTSC)[h][Combat].a26
+9fa1322f21781d1f1a72da781f3393a9	AtariAge Combat Redux Design Contest - Spike_18 (2004)(SPIKE)(NTSC)[h][Combat].a26
+b42379a839a1800713b003f819df5c39	AtariAge Combat Redux Design Contest - Spike_19 (2004)(SPIKE)(NTSC)[h][Combat].a26
+53102dd16934f8af71725a7c17ca1002	AtariAge Combat Redux Design Contest - Spike_2 (2004)(SPIKE)(NTSC)[h][Combat].a26
+e9b250cab5eb0b5b7b85b036f377d185	AtariAge Combat Redux Design Contest - Spike_20 (2004)(SPIKE)(NTSC)[h][Combat].a26
+d45004e93b3e952663435400bc77ed50	AtariAge Combat Redux Design Contest - Spike_21 (2004)(SPIKE)(NTSC)[h][Combat].a26
+69712d154429565c15a5b6099732d2e5	AtariAge Combat Redux Design Contest - Spike_22 (2004)(SPIKE)(NTSC)[h][Combat].a26
+f358c35b182ddfae45db7cf4ce306026	AtariAge Combat Redux Design Contest - Spike_23 (2004)(SPIKE)(NTSC)[h][Combat].a26
+06aabac69e8d55cd29ef0216c7840a50	AtariAge Combat Redux Design Contest - Spike_24 (2004)(SPIKE)(NTSC)[h][Combat].a26
+eb5991a35b3d7145be7ba986e934e0bc	AtariAge Combat Redux Design Contest - Spike_25 (2004)(SPIKE)(NTSC)[h][Combat].a26
+a15c597adad2beb0e54fc716dbf6062e	AtariAge Combat Redux Design Contest - Spike_26 (2004)(SPIKE)(NTSC)[h][Combat].a26
+f18cd1c474c2e6f5f1e5f4485d6af1cb	AtariAge Combat Redux Design Contest - Spike_27 (2004)(SPIKE)(NTSC)[h][Combat].a26
+029e56c347b874e97dc5c332340a687d	AtariAge Combat Redux Design Contest - Spike_28 (2004)(SPIKE)(NTSC)[h][Combat].a26
+086db6dec59d050817317b5cf68140c8	AtariAge Combat Redux Design Contest - Spike_29 (2004)(SPIKE)(NTSC)[h][Combat].a26
+a194c4a39a2d4320b0b692d8debfdad4	AtariAge Combat Redux Design Contest - Spike_3 (2004)(SPIKE)(NTSC)[h][Combat].a26
+91e669bc7f40bb3166936dac885cb845	AtariAge Combat Redux Design Contest - Spike_30 (2004)(SPIKE)(NTSC)[h][Combat].a26
+1b79f6d87207efe815d7debe0c4462fa	AtariAge Combat Redux Design Contest - Spike_31 (2004)(SPIKE)(NTSC)[h][Combat].a26
+3f7a6214a89a93e9cc28adfc38196a66	AtariAge Combat Redux Design Contest - Spike_4 (2004)(SPIKE)(NTSC)[h][Combat].a26
+d39059a40d0b3244fd67a9d6c73984e0	AtariAge Combat Redux Design Contest - Spike_5 (2004)(SPIKE)(NTSC)[h][Combat].a26
+cce88a99ab115809bd9d850dc3e669c2	AtariAge Combat Redux Design Contest - Spike_6 (2004)(SPIKE)(NTSC)[h][Combat].a26
+92f4e3db65b7d914bc1e4ef485969573	AtariAge Combat Redux Design Contest - Spike_7 (2004)(SPIKE)(NTSC)[h][Combat].a26
+ca851af5cae1e6b7b0b1f600234fdea2	AtariAge Combat Redux Design Contest - Spike_8 (2004)(SPIKE)(NTSC)[h][Combat].a26
+7c308f25581c6d1cd23de922072ffd04	AtariAge Combat Redux Design Contest - Spike_9 (2004)(SPIKE)(NTSC)[h][Combat].a26
+511e4258e22807a8a462e27c769b6fdc	AtariAge Combat Redux Design Contest - Steve_1 (2004)(Steve)(NTSC)[h][Combat].a26
+c2ffb23dc3a92b0a64bc0f975f30dd5a	AtariAge Combat Redux Design Contest - Steve_2 (2004)(Steve)(NTSC)[h][Combat].a26
+7a0999aeaef5096946064de2c9173c3d	AtariAge Combat Redux Design Contest - Steve_3 (2004)(Steve)(NTSC)[h][Combat].a26
+b06893931aa37dccf9f0477876417d4a	AtariAge Combat Redux Design Contest - Steve_4 (2004)(Steve)(NTSC)[h][Combat].a26
+0961bafb6fbc7e7c8dbf15d80ef5e2ea	AtariAge Indy 500 XE Track Design Contest - Pato_1 (2004)(Pato)(NTSC)[h][Indy 500].a26
+4b145e8f10b1b4863c6af550458f5658	AtariAge Indy 500 XE Track Design Contest - Pato_10 (2004)(Pato)(NTSC)[h][Indy 500].a26
+5eea7d69a4957c74f4d21dd6d50ccc2e	AtariAge Indy 500 XE Track Design Contest - Pato_2 (2004)(Pato)(NTSC)[h][Indy 500].a26
+0b8d9afcbe191e7bd4c685ebf6d16be5	AtariAge Indy 500 XE Track Design Contest - Pato_3 (2004)(Pato)(NTSC)[h][Indy 500].a26
+4348126f74e6946404c8eba0f5dad65b	AtariAge Indy 500 XE Track Design Contest - Pato_4 (2004)(Pato)(NTSC)[h][Indy 500].a26
+326ad868ebfdc53440a4e10fd9d99c1d	AtariAge Indy 500 XE Track Design Contest - Pato_5 (2004)(Pato)(NTSC)[h][Indy 500].a26
+dac336654b8c2aad097b3d9b092dba18	AtariAge Indy 500 XE Track Design Contest - Pato_6 (2004)(Pato)(NTSC)[h][Indy 500].a26
+ee71a69ebba446c45cce16bdcd349fd2	AtariAge Indy 500 XE Track Design Contest - Pato_7 (2004)(Pato)(NTSC)[h][Indy 500].a26
+417c3ab7d4c2e0162d1587b7b48d5854	AtariAge Indy 500 XE Track Design Contest - Pato_8 (2004)(Pato)(NTSC)[h][Indy 500].a26
+14ee6bac6cd1faba5b38fa921fede126	AtariAge Indy 500 XE Track Design Contest - Pato_9 (2004)(Pato)(NTSC)[h][Indy 500].a26
+7951dff936c7a424099dc2f73f54bb9b	AtariAge Indy 500 XE Track Design Contest - RayJ_1 (2004)(Ray J)(NTSC)[h][Indy 500].a26
+ff8d6af9604e461ee93e5f552037efcf	AtariAge Indy 500 XE Track Design Contest - RayJ_2 (2004)(Ray J)(NTSC)[h][Indy 500].a26
+8b2ddd23a5f08e398eab28c18f500653	AtariAge Indy 500 XE Track Design Contest - RayJ_3 (2004)(Ray J)(NTSC)[h][Indy 500].a26
+ca4e8550bef7300263ade740c2413b35	AtariAge Indy 500 XE Track Design Contest - RayJ_4 (2004)(Ray J)(NTSC)[h][Indy 500].a26
+3d2f63e7ec5c3e6557855947e0d66af6	AtariAge Indy 500 XE Track Design Contest - RayJ_5 (2004)(Ray J)(NTSC)[h][Indy 500].a26
+569017ef06158203a69b0e6ff8f74325	AtariAge Indy 500 XE Track Design Contest - RayJ_6 (2004)(Ray J)(NTSC)[h][Indy 500].a26
+0b33252b680b65001e91a411e56e72e9	Atlantis (1982)(CCE)(NTSC)(BR)[a].a26
+41818738ab1745e879024a17784d71f5	Atlantis (1982)(CCE)(NTSC)(BR)[C832].a26
+acb962473185d7a652f90ed6591ae13b	Atlantis (1982)(HES - Imagic - Koble, Dennis)(NTSC)[o].a26
+c4bbbb0c8fe203cbd3be2e318e55bcc0	Atlantis (1982)(HES)(PAL)(AU)[a].a26
+cb8afcbc4a779b588b0428ea7af211d5	Atlantis (1988)(Activision)(NTSC).a26
+60345ae60f7c7010346de7aff9bfe6ea	Atlantis (1988)(Activision)(NTSC)[a].a26
+72bda70c75dfa2365b3f8894bace9e6a	Atlantis FH (2003)(Jentzsch, Thomas)(NTSC)[h2][Atlantis].a26
+ac0ddbcff34d064009591607746e33b8	Atlantis FH (2003)(Jentzsch, Thomas)(NTSC)[h][Atlantis].a26
+826481f6fc53ea47c9f272f7050eedf7	Atlantis II (1982)(Imagic - Koble, Dennis)(NTSC).a26
+a7cf2b9afdbb3a161bf418dbcf0321dc	Attack Of The Mutant Space Urchins (2002)(Laws, Barry Jr)[h][Alien].a26
+b9f2baf314ec3b37a7bdc6044fd5563e	Autoduel Targ (2005)(Jim C.)(NTSC)[h][Universal Chaos].a26
+b58594c8927fd40b2df0e0095bb0b703	Automazeon Trainer (2004)(Stan Jr)(NTSC)[h][Outlaw].a26
+b4f87ce75f7329c18301a2505fe59cd3	Autorennen (19xx)(Ariola)(PAL)(DE)[aka Grand Prix][PGP232].a26
+5b124850de9eea66781a50b2e9837000	Bachelor Party (1982)(Mystique - Playaround)(NTSC).a26
+274d17ccd825ef9c728d68394b4569d2	Bachelorette Party (1982)(Playaround)(NTSC).a26
+a2b851158ed0b704d64cacbdf8dbb81a	Back to the Future 2 (2003)(Stan Jr)(NTSC)[h][Adventure].a26
+ea08d519122e6af06117fdded62c525d	Backfire (2003)(Lare,Chad)(NTSC).a26
+0f34f9158b4b85707d465a06d9b270bf	Backfire (2003)(Lare,Chad)(NTSC)(pre-release).a26
+8556b42aa05f94bc29ff39c39b11bff4	Backgammon (1979)(Atari)(NTSC).a26
+85b1bca93e69f13905107cc802a02470	Backgammon (1979)(Atari)(PAL).a26
+4e4895c3381aa4220f8c2795d6338237	Backwards Cannonball (2004)(Atari Troll)(NTSC)[h][Human Cannonball - Gameplay bugs].a26
+2a33e21447bf9e13dcfed85077ff6b40	Backwards Cannonball (2004)(Atari Troll)(NTSC)[h][Human Cannonball].a26
+805f9a32ef97ac25f999a25014dc5c23	Balthazar (19xx)(SnailSoft)(NTSC).a26
+00ce0bdd43aed84a983bef38fe7f5ee3	Bank Heist (1983)(20th Century Fox)(NTSC).a26
+e9c71f8cdba6037521c9a3c70819d171	Bank Heist (1983)(Action Hi-Tech)(PAL)[Skull Island Label].a26
+9ad362179c2eea4ea115c7640b4b003e	Barnstorming (1982)(-)(PAL)[p].a26
+f8240e62d8c0a64a61e19388414e3104	Barnstorming (1982)(Activision)(NTSC).a26
+a29fc854838e08c247553a7d883dd65b	Barnstorming (1982)(Activision)(NTSC)[o].a26
+e7dd8c2e6c100044002c1086d02b366e	Barnstorming (1982)(Activision)(PAL).a26
+5ae73916fa1da8d38ceff674fa25a78a	Barnstorming (1982)(CCE)(NTSC)(BR).a26
+d6dc9b4508da407e2437bfa4de53d1b2	Base Attack (1983)(HomeVision)(PAL)[aka Z-Tack].a26
+ab4ac994865fb16ebb85738316309457	Basketball (1978)(Atari)(NTSC).a26
+e13c7627b2e136b9c449d9e8925b4547	Basketball (1978)(Atari)(NTSC)[o].a26
+218c0fe53dfaaa37f3c823f66eafd3fc	Basketball (1978)(Atari)(PAL).a26
+5c0227ad63300670a647fcebf595ea37	Battle for Naboo (2002)(Josh)(NTSC)[h][Atlantis].a26
+8282997b3a0f733ddc8cf99aa4d06ca2	Battle of the Planets (2005)(s0c7)(NTSC)[h][Infiltrate].a26
+41f252a66c6301f1e8ab3612c19bc5d4	Battlezone (1983)(Atari)(NTSC).a26
+fbe554aa8f759226d251ba6b64a9cce4	Battlezone (1983)(Atari)(PAL).a26
+2319922df4d0c820b3e5f15faa870cc3	Battlezone (1983)(Atari)(PAL)[a].a26
+6015a9cef783e97e98a2aa2cf070ae06	Battlezone TC (2002)(Jentzsch, Thomas)(NTSC)[h Two Joysticks][Battlezone].a26
+7f7cfa440b9776bb5ac422d08a863131	Bazooka Bill (2003)(neotokeo2001)(NTSC)[h][Space Cavern].a26
+adac31409583798cbe797aadc85e7132	Beach Babe Volleyball (2005)(Jamcat)(NTSC)[h][RealSports Volleyball].a26
+79ab4123a83dc11d468fb2108ea09e2e	Beamrider (1983)(Activision)(NTSC).a26
+fec0c2e2ab0588ed20c750b58cf3baa3	Beamrider (1983)(Activision)(PAL).a26
+3604e725e81dd0abede07fd1c82eb058	Beamrider (1983)(Activision)[b].a26
+f4204fc92d17ed4cb567c40361ad58f1	Beanie Baby Bash (2002)(Goebel, Jim 'Inky')(NTSC)[h][Beany Bopper].a26
+d0b9df57bfea66378c0418ec68cfe37f	Beany Bopper (1982)(20th Century Fox)(NTSC).a26
+6a9e0c72fab92df70084eccd9061fdbd	Beany Bopper (1982)(CCE)(NTSC)(BR).a26
+235436ab0832370e73677c9c6f0c8b06	Beast Invaders (2000)(Minter, Jeff 'Yak')(NTSC)[h Double Shot][Space Invaders].a26
+4d0a28443f7df5f883cf669894164cfa	Beast Invaders (2000)(Minter, Jeff 'Yak')(NTSC)[h][Space Invaders].a26
+59e96de9628e8373d1c685f5e57dcf10	Beat 'Em and Eat 'Em (1982)(Mystique - Playaround)(NTSC).a26
+466ed38b8bd65454ef157b5986405cf7	Beat 'Em and Eat 'Em (1982)(Mystique - Playaround)(NTSC)[f][Supercharger].a26
+0929d6f9aacb9d8a94b760bfd75e44e9	Beat 'Em and Eat 'Em (1982)(Mystique - Playaround)(PAL60)[f][Supercharger].a26
+8bc6891710415bfc27e4f4c3b9db1a3f	Beat 'Em and Eat 'Em (1982)(Mystique - Playaround)[b].a26
+cf3c2725f736d4bcb84ad6f42de62a41	Bermuda (19xx)(Rainbow Vision)(PAL)[aka Ground Zero].a26
+bcef7880828a391cf6b50d5a6dcef719	Bermuda (19xx)(Starsoft)(PAL)[aka Ground Zero].a26
+073d7aff37b7601431e4f742c36c0dc1	Bermuda (19xx)(Taiwan Cooper Black)(PAL)[aka Ground Zero].a26
+b8ed78afdb1e6cfe44ef6e3428789d5f	Bermuda Triangle (1982)(Data Age)(NTSC).a26
+136f75c4dd02c29283752b7e5799f978	Berzerk (1982)(Atari)(NTSC).a26
+0805366f1b165a64b6d4df20d2c39d25	Berzerk (1982)(Atari)(PAL).a26
+4b205ef73a5779acc5759bde3f6d33ed	Berzerk (1982)(Atari)(PAL)[p].a26
+490e3cc59d82f85fae817cdf767ea7a0	Berzerk (1982)(Atari)(PAL)[p][a].a26
+fac28963307b6e85082ccd77c88325e7	Berzerk (1982)(CCE)(NTSC)(BR).a26
+5c618a50dfa23daac97ba459b9ff5206	Berzerk - Renegade (2002)(Engelhardt, Steve)(NTSC)[h][Room of Doom].a26
+bcb5fa2399c3c90106935e5166e04c96	Berzerk Neo (2004)(neotokeo2001)(NTSC)[h][Berzerk].a26
+f2194634311b39b0ed010b62d8a639e6	Berzerk Neo v2 (2004)(neotokeo2001)(NTSC)[h][Berzerk].a26
+be41463cd918daef107d249f8cde3409	Berzerk VE (2002)(Mika, Mike)(NTSC)[h Voice Enhanced][Berzerk].a26
+2ba02f509a4991aa176ba8d9e540df3d	Better Dukes of Hazzard (2003)(OutofGas)(NTSC)[h][Dukes of Hazzard].a26
+63a7445b1d3046d3cdcdbd488dca38d9	Better Space Invaders (1999)(Kudla, Rob)(NTSC)[h][Space Invaders].a26
+012020625a3227815e47b37fd025e480	Better Space Invaders (1999)(Kudla, Rob)(PAL)[h][Space Invaders].a26
+4d5f6db55f7f44fd0253258e810bde21	Betterblast (2002)(Zavagli, Fabrizio)(NTSC)[h][Astroblast].a26
+1278f74ca1dfaa9122df3eca3c5bcaad	Bi! Bi! (198x)(Rainbow Vision - StarSoft)(PAL)(AU)[aka Ungeheuer der Tiefe].a26
+2fae44c5ff4353096b503efe66092fa4	Bi! Bi! (198x)(Rainbow Vision - StarSoft)(PAL)[292].a26
+23e4ca038aba11982e1694559f3be10f	Big Dig (2002-10-20)(Tumber, Christopher)(NTSC).a26
+f8ff34b53d86f55bd52d7a520af6d1dc	Big Dig (2003-04-04)(Tumber, Christopher)(NTSC).a26
+7ccf350354ee15cd9b85564a2014b08c	Big Dig (2003-04-13)(Tumber, Christopher)(NTSC).a26
+54ec27f8d5303ddd52c154943a4aee5f	Big Head Bowling Hack (2004)(OutofGas)(NTSC)[h][Bowling].a26
+93c9f9239a4e5c956663dd7affa70da2	Billard (19xx)(Quelle)(PAL)[aka Trick Shot].a26
+84535afb9a69712ec0af4947329e08b8	Bingo (198x)(CCE)(NTSC)[b].a26
+f0541d2f7cda5ec7bab6d62b6128b823	Bionic Breakthrough (1984)(Atari)(proto)[MindLink Controller Required].a26
+658b4689c843b536a3adaec03f7e00f1	Bioresearch Station 2084 (2005)(Jamcat)(NTSC)[h][Lost Luggage].a26
+d88699dfff25c7e99dbcc7b5d284ce66	Biplane Air Raiders (2005)(Jamcat)(NTSC)[h][Air Raiders].a26
+282a77841cb3d33af5b56151acba770e	Black Hole (198x)(StarSoft)(PAL)[aka Cosmic Ark].a26
+ff3bd0c684f7144aeaa18758d8281a78	Blackjack (1977)(Atari)(NTSC).a26
+0a981c03204ac2b278ba392674682560	Blackjack (1977)(Atari)(NTSC)[a].a26
+b2761efb8a11fc59b00a3b9d78022ad6	Blackjack (1977)(Atari)(NTSC)[o].a26
+575c0fb61e66a31d982c95c9dea6865c	Blackjack (1977)(Atari)(PAL)[p].a26
+19a9d3f9fa1b1358fb53009444247aaf	Blackjack (1977)(Atari)(PAL)[p][o].a26
+681206a6bde73e71c19743607e96c4bb	Blackjack (1977)(Atari)(PAL)[p][o][b].a26
+93420cc4cb1af1f2175c63e52ec18332	Blair Witch Project, The (2000)(Snider, Tim)(NTSC)[h][Haunted House].a26
+07c76f2d88552d20ad2c0ed7aef406c6	Blob, The (19xx)(Pittman, Cody)(NTSC)[h][Halloween Hack].a26
+1086ff69f82b68d6776634f336fb4857	Bloody Human Freeway (1981)(Activision)(NTSC)(proto).a26
+8e5f12f071ee199b96c0b6ebec4d0d25	Bloody Human Freeway (1981)(Activision)(PAL)(proto)[f PAL].a26
+fcf8e306f6615f74feba5cb25550038c	Blue Dot Demo (1998)(Bailey, Ruffin)(PD)[aka Missile Demo].a26
+33d68c3cd74e5bc4cf0df3716c5848bc	Blueprint (1983)(CBS Electronics)(NTSC).a26
+2432f33fd278dea5fe6ae94073627fcc	Blueprint (1983)(CBS Electronics)(PAL).a26
+4f89b897444e7c3b36aed469b8836839	BMX Air Master (1989)(Atari)(PAL).a26
+968efc79d500dce52a906870a97358ab	BMX Air Master (1989)(TNT Games)(NTSC).a26
+7c757bb151269b2a626c907a22f5dae7	BMX Air Master (1989)(TNT Games)(PAL).a26
+2823364702595feea24a3fbee138a243	Bobby Geht Heim (19xx)(Bitcorp)(PAL)[aka Bobby is Going Home].a26
+48e5c4ae4f2d3b62b35a87bca18dc9f5	Bobby geht nach Hause (19xx)(StarSoft)(PAL)[aka Bobby is Going Home].a26
+afe776db50e3378cd6f29c7cdd79104a	Bobby is Going Home (19xx)(CCE)(NTSC)[f NTSC Jentzsch, Thomas].a26
+3cbdf71bb9fd261fbc433717f547d738	Bobby is Going Home (19xx)(CCE)(PAL).a26
+2f2f9061398a74c80420b99ddecf6448	Bobby is Going Home (19xx)(Rentacom)(NTSC)(BR).a26
+b438a6aa9d4b9b8f0b2ddb51323b21e4	Bogey Blaster (1988)(Telegames)(PAL)[aka Air Raiders][5861 A030].a26
+c59633dbebd926c150fb6d30b0576405	Bogey Blaster (1988)(Telegames)(PAL)[a][aka Air Raiders].a26
+a5855d73d304d83ef07dde03e379619f	Boggle (1978-08-07)(Atari)(NTSC)(proto).a26
+14c2548712099c220964d7f044c59fd9	Boing! (1983)(First Star Software)(NTSC).a26
+c471b97446a85304bbac021c57c2cb49	Boing! (1983)(First Star Software)(PAL).a26
+867a3539f8dcbcb0b8a18f3ca89af269	Boing! 2004 (2004)(-)(NTSC)[h][Boing!].a26
+f9efa28a88be533e812f3fb45beed181	Bombsawa (19xx)(-)(PD)[(Jumpman Selected Levels].a26
+a2aae759e4e76f85c8afec3b86529317	Boom Bang (19xx)(Quelle)(PAL)[aka Crackpots].a26
+73aa02458b413091ac940c0489301710	Boom Bang (19xx)(StarSoft)(PAL)[aka Kampf dem Steinfresser].a26
+5b9df450a8924c3bb41b2638717c882b	Boom! (2004)(OutofGas)(NTSC)[h2][Human Cannonball].a26
+467c9ded0e486bbc51b631416b661f80	Boom! (2004)(OutofGas)(NTSC)[h][Human Cannonball].a26
+02e3f4ba156fb578bef7d7a0bf3400c1	Booster (19xx)(Junkosoft)(PD)[b].a26
+8dd83718b29f80b1e746d2bb2663c883	Borg 'Em (2004)(OutofGas)(NTSC)[h][Dodge 'Em].a26
+60dbedbca52b772d9ec8c7d3a28db6fe	Borg Ball (2004)(Atari Troll)(NTSC)[h][Tennis].a26
+673cc6dc07b7002d71c8a08fb27feee6	Borg Cannonball (2004)(OutofGas)(NTSC)[h][Human Cannonball].a26
+0fd5b75d44caadd806109b8b1a93064f	Borg Defence (19xx)(-)(PAL)[h][Astro War].a26
+333c353efeb5a7418a924b2134c574df	Borg Patrol (2004)(Atari Troll)(NTSC)[h][Planet Patrol].a26
+4256a305d1962edc3c318b6a48de53d9	Borg Shot (2005)(OutofGas)(NTSC)[h][Carnival].a26
+87384dd0f6dbb2c6da74036bf2e7ea66	Borg Wars Asteroids (2003)(Kortkamp, Jack)(NTSC)[h][Asteroids].a26
+5bc9998b7e9a970e31d2cb60e8696cc4	Borg Wars Asteroids (2003)(Kortkamp, Jack)(NTSC)[h][b][Asteroids].a26
+be24ae367ec858399158d3e00c5c0a4b	Borg Wars Budget Pinball (2004)(Atari Troll)(NTSC)[h][Video Pinball].a26
+d0eef8af6d59b8327ad9a656561093e0	Borg Wars Federation Invasion (2004)(Atari Troll)(NTSC)[h][Space Robot].a26
+fbe1704e95c34fa5f4d49889bcf24e19	Borg Wars II (2004-05-06)(Atari Troll)(NTSC)[h][Astroblast].a26
+98f431a62647f1722032d4fe6636ed96	Borg Wars II (2004-05-09)(Atari Troll)(NTSC)[h][Astroblast].a26
+65dfdcc843a738546cbcaa21c0ad3f88	Borg Wars II - Swirl Torpedo (2004)(Atari Troll)(NTSC)[h][Astroblast].a26
+12f231c49d9ab0e7183ad7e4f2bed374	Borg Wars II the Sequel (2004-05-16)(Atari Troll)(NTSC)[h][Astroblast].a26
+10df23b9a608775a654fa9d679a2774a	Borg Wars III - Invasion (2004)(Atari Troll)(NTSC)[h][Space Invaders].a26
+74d745bc41d9e570bbeb9f4b3a95b9a0	Borg Wars IV (2004)(Atari Troll - neotokeo2001)(NTSC)[h][Berzerk].a26
+ec1a89e300d275884228e44a92885e5a	Borg Wars Pinball (2004)(neotokeo2001)(NTSC)[h][Midnight Magic].a26
+c3a085078285b15cc11cea36ea5fee24	Borg Wars Plus (2004)(Atari Troll)(NTSC)[h][Sadistroids].a26
+c9a4d7721f687376a8d76909f8803a95	Borg Wars Prime Directive (2004)(Atari Troll)(NTSC)[h][Galaxian].a26
+f91ca989c170f0c08ee2b8bfdbef35a5	Borg Wars Wormhole (2004)(Atari Troll)(NTSC)[h][Fantastic Voyage].a26
+8a6535467bfddf71f22934f11499a415	Borg's Revenge (2004)(Atari Troll)(NTSC)[h][Yars' Revenge].a26
+f0cacae1d1b79ee92f0dc035f42e0560	Boring Donkey Kong (200x)(Morgan, Charles)(NTSC)[h][Donkey Kong].a26
+ce17325834bf8b0a0d0d8de08478d436	Boring Freeway (200x)(Morgan, Charles)(NTSC)[h][Freeway].a26
+1733772165d7b886a94e2b4ed0f74ccd	Boring Journey Escape (200x)(Morgan, Charles)(NTSC)[h][Journey Escape].a26
+613abf596c304ef6dbd8f3351920c37a	Boring Pac-man (200x)(Morgan, Charles)(NTSC)[h][Pac-Man].a26
+96670d0bf3610da2afcabd8e21d8eabf	Boring Pitfall (200x)(Morgan, Charles)(NTSC)[h][Pitfall].a26
+e8e7b9bdf4bf04930c2bcaa0278ee637	Boring Taz (200x)(Morgan, Charles)(NTSC)[h][Taz].a26
+10e4d0b9680c9b7a66ccab40ea15a8d0	Bottomless Pitfall! (2003-12-31)(Shay, Nukey)(NTSC)[h][Pitfall!].a26
+d4162c000d5289453eb0700e6a66f6f5	Bottomless Pitfall! (2004-04-23)(Shay, Nukey)(NTSC)[h][Pitfall!].a26
+48c8d585de8311437f1b8d3e9e9f6570	Bottomless Pitfall! (2004-04-24)(Shay, Nukey)(NTSC)[h][Pitfall!].a26
+fc5baa72d29c029e1b29e99e7b7505a7	Bottomless Pitfall! (2005-01-24)(Shay, Nukey)(NTSC)[h][Pitfall!].a26
+46de1f50eb4cbed83bd3dc5121f38c53	Bottomless Pitfall! (2005-02-02)(Shay, Nukey)(NTSC)[h][Pitfall!].a26
+25e09ff6e2e1060775e4a59b329a1e0e	Bottomless Pitfall! (2005-02-03)(Shay, Nukey)(NTSC)[h][Pitfall!].a26
+edaa129a72da006d69dcc2305b2265d4	Bottomless Pitfall! (2005-02-11)(Shay, Nukey)(NTSC)[h][Pitfall!].a26
+4a1df3b054228314127fc6928754527a	Bounce! (2003)(Zavagli, Fabrizio)(NTSC)(beta).a26
+b2d1e63f7f22864096b7b6c154151d55	Bounce! (2003-03-17)(Zavagli, Fabrizio)(NTSC).a26
+7eaf009a892f03d90682dc1e67e85f07	Bounce! (2003-03-18)(Zavagli, Fabrizio)(NTSC).a26
+c9b7afad3bfd922e006a6bfc1d4f3fe7	Bowling (1978)(Atari)(NTSC).a26
+2aa5e56d36c2e58b6f2856109f2099a9	Bowling (1978)(Atari)(NTSC)[a].a26
+4a1a0509bfc1015273a542dfe2040958	Bowling (1978)(Atari)(NTSC)[b Screen Rolls].a26
+a28d872fc50fa6b64eb35981d0f4bb8d	Bowling (1978)(Atari)(NTSC)[o].a26
+343f624dcb34e1e1bd7f2b1c9c869857	Bowling (1978)(Atari)(NTSC)[o][b Screen Rolls].a26
+d4aa6d6095258ce46aaf6f144b09eea7	Bowling (1978)(Atari)(NTSC)[o][b2 Screen Rolls].a26
+969b968383d9f0e9d8ffd1056bcaef49	Bowling (1978)(Atari)(PAL).a26
+82c25d1c35e6ac6f893d1d7c2fc2f9c8	Bowling (1978)(Atari)(PAL)[o].a26
+32ecb5a652eb73d287e883eea751d99c	Bowling (1978)(Dactar)(NTSC-PAL)[p].a26
+7f07cd2e89dda5a3a90d3ab064bfd1f6	Boxen (1981)(Ariola)(PAL)(DE)[aka Boxing].a26
+fd6e507b5df68beeeddeaf696b6828fa	Boxing (1981)(-)(PAL)[p].a26
+8d02abcee627c2dc15c2bdcb30d0ba06	Boxing (1981)(-)(PAL)[p][o].a26
+b6c8533194e330529d5aca49a077faaf	Boxing (1981)(-)(PAL)[p][o][b].a26
+c3ef5c4653212088eda54dc91d787870	Boxing (1981)(Activision)(NTSC).a26
+277cca62014fceebb46c549bac25a2e3	Boxing (1981)(Activision)(NTSC)[o].a26
+5a80b857eb8b908ab477ec4ef902edc8	Boxing (1981)(Activision)(NTSC)[o][a2].a26
+88f74ec75ef696e7294b7b6ac5ca465f	Boxing (1981)(Activision)(NTSC)[o][a].a26
+25f2e760cd7f56b88aac88d63757d41b	Boxing (1981)(Activision)(PAL).a26
+c2bcd8f2378c3779067f3a551f662bb7	Boxing (1981)(Activision)(PAL)[o].a26
+cfb3260c603b0341d49ddfc94051ec10	Boxing (1981)(Dactar)(NTSC)[p].a26
+4dbf47c7f5ac767a3b07843a530d29a5	Breaking News (2002)(Pryor, Ric)(NTSC)[h][Bump 'n' Jump].a26
+f34f08e5eb96e500e851a80be3277a56	Breakout - Breakaway IV (1978)(Atari)(NTSC).a26
+9a25b3cfe2bbb847b66a97282200cca2	Breakout - Breakaway IV (1978)(Atari)(NTSC)[o].a26
+395f46cb2bf49cecb88fdc070b8ca6bc	Breakout - Breakaway IV (1978)(Atari)(NTSC)[o][b].a26
+4df6124093ccb4f0b6c26a719f4b7706	Breakout - Breakaway IV (1978)(Atari)(NTSC)[t].a26
+6c76fe09aa8b39ee52035e0da6d0808b	Breakout - Breakaway IV (1978)(Atari)(PAL).a26
+c5fe45f2734afd47e27ca3b04a90213c	Breakout - Breakaway IV (1978)(Atari)(PAL)[o][b].a26
+c738fc3f5aae1e8f86f7249f6c82ac81	Breakout - Breakaway IV (1978)(Atari)[o2][possibly 4-in-1].a26
+9a6750c2bea34cd779fe583564521b7c	Brick Kick (1983)(ITT Family Games)[aka Peter Penguin][b].a26
+e80a4026d29777c3c7993fbfaee8920f	Brick Kick (198x)(-)(NTSC)[aka Peter Penguin - RJPG].a26
+056ff67dd9715fafa91fb8b0ddcc4a46	Brick Kick (198x)(-)(PAL)[p][aka Peter Penguin].a26
+cfd6a8b23d12b0462baf6a05ef347cd8	Bridge (1981)(Activision)(NTSC).a26
+6dad2cd9058f27a9a23578a4d303d0fd	Bridge (1981)(Activision)[b].a26
+1cf59fc7b11cdbcefe931e41641772f6	Buck Rogers - Planet of Zoom (1983)(Sega)(NTSC).a26
+cd88ef1736497288c4533bcca339f881	Buck Rogers - Planet of Zoom (1983)(Sega)(PAL).a26
+68597264c8e57ada93be3a5be4565096	Bugs (1982)(Data Age)(NTSC).a26
+e61210293b14c9c4ecc91705072c6a7e	Bugs (1983)(Game World)(PAL).a26
+fa4404fabc094e3a31fcd7b559cdd029	Bugs Bunny (1983)(Atari)(NTSC)(proto).a26
+76f53abbbf39a0063f24036d6ee0968a	Bump 'N' Jump (1983)(Mattel)(NTSC).a26
+205f4e080db97d3641a780c8c40261ef	Bump 'N' Jump (1983)(Mattel)(NTSC)[b Screen Rolls].a26
+b46ce4eb1623104334da51049355617e	Bump 'N' Jump (1983)(Mattel)(NTSC)[F6].a26
+9295570a141cdec18074c55dc7229d08	Bump 'N' Jump (1983)(Telegames)(PAL).a26
+aa1c41f86ec44c0a44eb64c332ce08af	Bumper Bash (1983)(Spectravision)(NTSC).a26
+1bf503c724001b09be79c515ecfcbd03	Bumper Bash (1983)(Spectravision)(PAL).a26
+688a58c6160c3fc67d6648002e78292d	Bunny BZRK (2003)(Snorlaxnut)(NTSC)[h][Berzerk].a26
+d42fc569dc779ff1c81ba232f8cf5baf	Burger King Kaboom! (2005)(neotokeo2001)(NTSC)[h][Kaboom! - Early Version].a26
+ef74c7d079c817aad7df025bda8c2b19	Burger King Kaboom! (2005)(neotokeo2001)(NTSC)[h][Kaboom!].a26
+0443cfa9872cdb49069186413275fa21	Burgertime (1982)(Mattel)(NTSC).a26
+ba6892cbce7ae8e03411fd8a22619647	Burgertime (1982)(Mattel)(NTSC)[a].a26
+19d6956ff17a959c48fcd8f4706a848d	Burning Desire (1982)(Playaround)(NTSC).a26
+7f6533386644c7d6358f871666c86e79	Cakewalk (1983)(CommaVid)(NTSC).a26
+0eebfb60d437796d536039701ec43845	Cakewalk (1983)(CommaVid)(PAL)[f PAL Fabrizio Zavagli].a26
+8068e07b484dfd661158b3771d6621ca	California Games (1987)(Epyx)(PAL).a26
+9ab72d3fd2cc1a0c9adb504502579037	California Games (1988)(Epyx)(NTSC).a26
+bca2687b1520d499c11bcbcb988f22e7	California Games (1988)(Epyx)[b].a26
+0e0808227ef41f6825c06f25082c2e56	Candi Invaders (2000)(Thompson,Greg)(NTSC)[h][o][Space Invaders].a26
+85478bb289dfa5c63726b9153992a920	Candi Invaders (2000)(Thompson,Greg)(NTSC)[h][Space Invaders].a26
+6d8a04ee15951480cb7c466e5951eee0	Canguru (19xx)(Zirok)(BR).a26
+feedcc20bc3ca34851cd5d9e38aa2ca6	Canyon Bomber (1978)(Atari)(NTSC).a26
+3051b6071cb26377cd428af155e1bfc4	Canyon Bomber (1978)(Atari)(NTSC)[o].a26
+372bddf113d088bc572f94e98d8249f5	Capture (1978)(Dynamics-Goliath)(PAL)[aka Breakdown or Flag Capture].a26
+3d6fc7a19be76d808aa233415cb583fc	Carnival (1982)(CCE)(NTSC)(BR).a26
+028024fb8e5e5f18ea586652f9799c96	Carnival (1982)(Coleco)(NTSC).a26
+de29e46dbea003c3c09c892d668b9413	Carnival (1983)(CBS Electronics)(PAL).a26
+2bc26619e31710a9884c110d8430c1da	Casino (1979)(Atari)(PAL)[aka Poker Plus].a26
+a2de0fc85548871279ed2a3c1325c13e	Cat and Mouse (2001)(Veeder, George 'Pixellated Ghost')(NTSC)[h][Pac-Man].a26
+d071d2ec86b9d52b585cc0382480b351	Cat Trax (1983)(UA Limited)(NTSC).a26
+76f66ce3b83d7a104a899b4b3354a2f2	Cat Trax (1983)(UA Limited)(NTSC)[a].a26
+b7903268e235310dc346a164af4c7022	Cat Trax (1983)(UA Limited)(PAL)[f PAL Jentzsch, Thomas].a26
+9e192601829f5f5c2d3b51f8ae25dbe5	Cathouse Blues (1982)(Playaround)(NTSC).a26
+cbdaf5ab4d96f4af25eebde639a98cb8	Cave 1K v1.01 (2003)(-)(NTSC).a26
+28d0bd68a26227ebaee418bd7f2ff264	Cave 1K v1.02 (2003)(-)(NTSC).a26
+07e21c2ac84c0478618b58b08665aeee	Cave 1K v1.03 (2003)(-)(NTSC).a26
+a797c27dbc72c3c8e1bdf74fd1716a3d	Cave 1k v1.04 (2003)(-)(NTSC).a26
+32ac8ac42a0de5b5a1097641e74d62bf	Cave 1k v1.06 (2003)(-)(NTSC).a26
+26fd3d081a13650d21279b734201fd65	Cave 1K v1.08 (2003)(-)(NTSC).a26
+8b411a3558f5c9062c0cde0b593afa07	Cave 1K v1.08 (2003)(-)(PAL).a26
+0a4b6c0f5e11049b6c00a641dd23e910	Caveman (2004-07-15)(-)(NTSC)[h][Kangaroo - WIP2.2].a26
+c083ed61b6307e7b6a8c77ea6dcf9742	Caveman (2004-07-15)(-)(NTSC)[h][Kangaroo - WIP4].a26
+ffd1cd67ab7da4830847ec7ef0953dea	Caveman (2004-07-17)(-)(NTSC)[h][Kangaroo - WIP6].a26
+719437f4a318c85802304e5c4cb86610	Caveman (2004-07-20)(-)(NTSC)[h][Kangaroo - V2].a26
+91c2098e88a6b13f977af8c003e0bca5	Centipede (1982)(Atari)(NTSC).a26
+17d000a2882f9fdaa8b4a391ad367f00	Centipede (1982)(Atari)(PAL).a26
+2f11ba54609777e2c6a5da9b302c98e8	Centipede (1982)(Atari)(PAL)(proto).a26
+10958cd0a1a81d599005f1797ab0e51d	Centipede 2K (19xx)(Eduardo)(NTSC)[h][Centipede].a26
+4311a4115fb7bc68477c96cf44cebacf	Challenge (198x)(HES - Funvision)(PAL).a26
+9905f9f4706223dadee84f6867ede8e3	Challenge (198x)(HES - Funvision)(PAL)[a].a26
+73158ea51d77bf521e1369311d26c27b	Challenge (198x)(Zellers)(NTSC).a26
+5d799bfa9e1e7b6224877162accada0d	Challenge of Nexar, The (1982)(Spectravision)(NTSC).a26
+1da2da7974d2ca73a823523f82f517b3	Challenge of Nexar, The (1982)(Spectravision)(PAL).a26
+3d9c2fccf8b11630762ff00811c19277	Challenge of Nexar, The (1982)(Spectravision)(PAL)[p].a26
+ace319dc4f76548659876741a6690d57	Championship Soccer (1980)(Atari)(NTSC)[aka Pele's Soccer].a26
+7a09299f473105ae1ef3ad6f9f2cd807	Championship Soccer (1980)(Atari)(PAL)[aka Pele's Soccer].a26
+3e33ac10dcf2dff014bc1decf8a9aea4	Chase the Chuckwagon (1983)(Spectravision).a26
+3f5a43602f960ede330cd2f43a25139e	Checkers (1980)(Activision)(NTSC).a26
+7edc8fcb319b3fb61cac87614afd4ffa	Checkers (1980)(Activision)(NTSC)[o].a26
+58e6fdee4ef1bea372ae7a62a15a7ba5	Chicken Crossing (2004)(neotokeo2001)(NTSC)[h][Taz].a26
+749fec9918160921576f850b2375b516	China Syndrome (1982)(Spectravision)(NTSC).a26
+e150f0d14f013a104b032305c0ce23ef	China Syndrome (1982)(Spectravision)(PAL).a26
+c1cb228470a87beb5f36e90ac745da26	Chopper Command (1982)(Activision)(NTSC).a26
+68764e4195614bd661a9f359687565c1	Chopper Command (1982)(Activision)(NTSC)[f Supercharger].a26
+114c599454d32f74c728a6e1f71012ba	Chopper Command (1982)(Activision)(PAL).a26
+51f211c8fc879391fee26edfa7d3f11c	Chopper Command (1982)(Activision)(PAL)[p][o][Choplifter].a26
+25d4be3309b89583c6b39d9f93bf654f	Chopper Command (1982)(Activision)[o1][possibly 4-in-1].a26
+85a4133f6dcf4180e36e70ad0fca0921	Chopper Command (1982)(CCE)(NTSC)(BR).a26
+b9f9c0fed0db08c34346317f3957a945	Chopper Command (1982)(Supervision)(PAL)[p].a26
+ff906d67538057f6cdedeeacf883d616	Chronicles of Ataria (2004-10-13)(Kozlowski, Maciej)(NTSC)(PD).a26
+20eea39509a947aed4dd599c92955ced	Chronicles of Ataria (2004-10-15)(Kozlowski, Maciej)(NTSC)(PD).a26
+173b9401954f420c2d1f1f6435e71604	Chronicles of Ataria (2004-10-29)(Kozlowski, Maciej)(NTSC)(PD).a26
+3f58f972276d1e4e0e09582521ed7a5b	Chuck Norris Superkicks (1983)(Xonox)(NTSC).a26
+85f336b4a95136ceeff3726e41598ce9	CIFS - Communist Invaders From Space (2004)(neotokeo2001)(NTSC)[h][Space Invaders].a26
+a29df35557f31dfea2e2ae4609c6ebb7	Circus (1978)(Zellers)(NTSC)[Joystick].a26
+feba8686fd0376015258d1152923958a	Circus (1978)(Zellers)(PAL)[p][Joystick].a26
+a7b96a8150600b3e800a4689c3ec60a2	Circus Atari (1978)(Atari)(NTSC)[Paddles].a26
+30e0ab8be713208ae9a978b34e9e8e8c	Circus Atari (1978)(Atari)(PAL)[Paddles].a26
+500707961d7e90dffe3f917384b889df	City Defender (2003)(neotokeo2001)(NTSC)[h][Missile Command].a26
+d82c8a58098a6b46c5b81c16180354d1	Climber 5 (2002-10-30)(Debro, Dennis)(NTSC)(proto).a26
+87b460df21b7bbcfc57b1c082c6794b0	Climber 5 (2003-03-20)(Debro, Dennis)(NTSC)(pre-release).a26
+9d4bc7c6fe9a7c8c4aa24a237c340adb	Climber 5 (2003-04-16)(Debro, Dennis)(NTSC)(pre-release)[For Philly Classic 4].a26
+324cb4a749bcac4f3db9da842b85d2f7	Climber 5 (2003-05-01)(Debro, Dennis)(NTSC)(pre-release).a26
+aa84ef058be7cc1b456f5760ae1c7ecd	Climber 5 (2003-05-07)(Debro, Dennis)(NTSC)(pre-release).a26
+2d4198d1a1c2dd89d8555c66bf90da74	Climber 5 (2004)(Debro, Dennis)(NTSC)(beta).a26
+9509620a9cede35f7f81f25d880dc1b2	Climber 5 (2004)(Debro, Dennis)(NTSC)(beta)[RC4 - Alt - Easy version].a26
+e2457008d5fe12d71b64f95a51a04be4	Climber 5 (2004)(Debro, Dennis)(NTSC)(beta)[RC4].a26
+840b6b91f52a8975e6bad01d88445f4f	Climber 5 (2004)(Debro, Dennis)(NTSC)(beta)[RC5 - Alt - Easy version].a26
+28b51ea903d06b42902a22a5c2ce12a4	Climber 5 (2004)(Debro, Dennis)(NTSC)(beta)[RC5].a26
+748612758832b590e50a1eb941463664	Climber 5 (2004)(Debro, Dennis)(NTSC)(proto)[random ladders].a26
+08333655afef4fe0aa86c28fb5b4545c	Climber 5 (2004)(Debro, Dennis)(PAL)(beta)[RC4 - Alt - Easy version].a26
+84676090da3f3388400ac2b225dd377f	Climber 5 (2004)(Debro, Dennis)(PAL)(beta)[RC4].a26
+96669e91fc1e1df0bc9d43fd00c13caa	Climber 5 (2004)(Debro, Dennis)(PAL)(beta)[RC5 - Alt - Easy version].a26
+006563244c18da4f36931d44aa589c04	Climber 5 (2004)(Debro, Dennis)(PAL)(beta)[RC5].a26
+13a11a95c9a9fb0465e419e4e2dbd50a	Climber 5 (2004)(XYPE - Debro, Dennis)(NTSC).a26
+6c5dbaac1467e5fe6ae0999f4662ea46	Climber 5 (2004)(XYPE - Debro, Dennis)(NTSC)[a].a26
+822e0b4e42351b185e472631102bd560	Climber 5 (2004)(XYPE - Debro, Dennis)(PAL).a26
+c1bb3f00c4be0db2b35debd208feb55b	Climber 5 (2004)(XYPE - Debro, Dennis)(PAL)[a].a26
+d0411fd7af543d363434cb2acc1979fd	Climber 5 (200x)(Debro, Dennis)(NTSC)(beta).a26
+1e587ca91518a47753a28217cd4fd586	Coconuts (1982)(Telesys)(NTSC).a26
+551a64a945d7d6ece81e9c1047acedbc	Coffee Cup Soccer (2000)(Jaap, Matthias)(NTSC)[h][Pele's Soccer].a26
+4093382187f8387e6d011883e8ea519b	Col 'N (198x)(Home Vision)(NTSC).a26
+2940aec535f700d3f43578452555c5d2	Colony 7 (2005-09-17)(Rotschkar, Manuel)(NTSC)(pre-release).a26
+e5a6e0bb7d56e2f08b237e15076e5699	Color Table Display Helper (19xx)(Junkosoft)(PD).a26
+4c8832ed387bbafc055320c05205bc08	Combat (1977)(Atari)(NTSC).a26
+e8aa36e3d49e9bfa654c25dcc19c74e6	Combat (1977)(Atari)(PAL).a26
+5a288ff88c6ce2d48e1c1bfaaa2fc552	Combat (1977)(Atari)(PAL)[o].a26
+176d3fba7d687f2b23158098e103c34a	Combat AI (2003-02-13)(Matley, Zach)(NTSC).a26
+331938989f0f33ca39c10af4c09ff640	Combat AI (2003-04-19)(Matley, Zach)(NTSC).a26
+d55889ac44f8f13afe0c2f9ea5715ba6	Combat Plus (19xx)(-)[b].a26
+55b8ac09dd9b7215c4f909c72d0b439e	Combat Plus (2003)(Veeder, George 'Pixellated Ghost')(NTSC)[h][Combat].a26
+8a37e47d7b51099899720d36f32e11cd	Combat Redux (2004)(Matley, Zach - AtariAge)(NTSC)[h][Combat].a26
+5385cf2a04de1d36ab55c73174b84db0	Combat Rock (2002)(Slocum, Paul)(NTSC)[h Music][Combat].a26
+e63efdfda9a4003dcd77a854a781a06a	Combat Rock (2002)(Slocum, Paul)(NTSC)[h2 Music][Combat].a26
+b0c9cf89a6d4e612524f4fd48b5bb562	Combat Two (1982)(Atari)(NTSC)(proto).a26
+5d2cc33ca798783dee435eb29debf6d6	Commando (1988)(Activision)(NTSC).a26
+61631c2f96221527e7da9802b4704f93	Commando (1988)(Activision)(NTSC)[a].a26
+de1e9fb700baf8d2e5ae242bffe2dbda	Commando (1988)(Activision)(PAL).a26
+f457674cef449cfd85f21db2b4f631a7	Commando Raid (1982)(US Games)(NTSC).a26
+5f316973ffd107f7ab9117e93f50e4bd	Commando Raid (1982)(US Games)(PAL)[p].a26
+c4b73c35bc2f54b66cd786f55b668a82	Communist Mutants From Space (1982)(Starpath)(NTSC)[a][Supercharger Cassette].a26
+2c8835aed7f52a0da9ade5226ee5aa75	Communist Mutants From Space (1982)(Starpath)(NTSC)[Supercharger Cassette].a26
+e2c89f270f72cd256ed667507fa038a2	Communist Mutants From Space (1982)(Starpath)(PAL)[Supercharger Cassette].a26
+6a2c68f7a77736ba02c0f21a6ba0985b	Computer Chess (1983)(Atari)(NTSC)(proto).a26
+e505bd8e59e31aaed20718d47b15c61b	Condor Attack (19xx)(High-Score Games)(PAL).a26
+f965cc981cbb0822f955641f8d84e774	Confrontation (1983)(Answer Software)(NTSC).a26
+00b7b4cbec81570642283e7fc1ef17af	Congo Bongo (1983)(Sega)(NTSC).a26
+a81b29177f258494b499fbac69789cef	Console Wars (2000)(Thompson, Greg)(NTSC)[h][Space Jockey].a26
+01e5c81258860dd82f77339d58bc5f5c	Corrida da Matematica (1982)(CCE)(NTSC)(BR)[aka Math Gran Prix].a26
+98ef1593624b409b9fb83a1c272a0aa7	Cosmic Ark (1982)(CCE)(NTSC).a26
+ab5bf1ef5e463ad1cbb11b6a33797228	Cosmic Ark (1982)(Imagic)(NTSC).a26
+0fd72a13b3b6103fc825a692c71963b4	Cosmic Ark (1982)(Imagic)(PAL).a26
+72d0acb5de0db662de0360a6fc59334d	Cosmic Ark (1982)(Imagic)(PAL)[p].a26
+c5124e7d7a8c768e5a18bde8b54aeb1d	Cosmic Ark (1982)(Imagic)(PAL)[White Label].a26
+00ce76ad69cdc2fa36ada01ae092d5a6	Cosmic Avenger (1982)(Bit Corp)(PAL)[p][aka Starmaster].a26
+c197673e44e453741139009dfae748d4	Cosmic Bowling (2003)(neotokeo2001)(NTSC)[h][Bowling].a26
+133b56de011d562cbab665968bde352b	Cosmic Commuter (1984)(Activision)(NTSC).a26
+ba657d940a11e807ff314bba2c8b389b	Cosmic Commuter (1984)(Activision)(NTSC)[o].a26
+8e879aa58db41edb67cbf318b77766c4	Cosmic Commuter (1984)(Activision)(PAL)[f PAL Jentzsch, Thomas].a26
+5f1b7d5fa73aa071ba0a3c2819511505	Cosmic Commuter (1984)(CCE)(NTSC).a26
+f367e58667a30e7482175809e3cec4d4	Cosmic Corridor (198x)(Zimag)(NTSC).a26
+3c853d864a1d5534ed0d4b325347f131	Cosmic Creeps (1982)(Telesys)(NTSC).a26
+e2ca84a2bb63d1a210ebb659929747a9	Cosmic Creeps (1982)(Telesys)(PAL).a26
+5835a78a88f97acea38c964980b7dbc6	Cosmic Creeps (1982)(Telesys)(PAL)[p].a26
+e5f17b3e62a21d0df1ca9aee1aa8c7c5	Cosmic Swarm (1982)(CommaVid)(NTSC).a26
+9dec0be14d899e1aac4337acef5ab94a	Cosmic Swarm (1982)(CommaVid)(NTSC)[o].a26
+2a2f46b3f4000495239cbdad70f17c59	Cosmic Swarm (1982)(CommaVid)(PAL).a26
+36547bc6faa5132b87504e18d088e1d7	Cosmic Swarm (1982)(CommaVid)(PAL)[p].a26
+3e22c7eaf6459b67388602e4bebbb3a8	Cosmic Swarm (1982)(CommaVid)(PAL)[p][MilliBlast].a26
+6c91ac51421cb9fc72c9833c4f440d65	Cosmic Town (1983)(ITT Family Games)(PAL)[aka Z-Tac].a26
+fe67087f9c22655ce519616fc6c6ef4d	Crack'ed (1988)(Atari)(NTSC)(proto).a26
+88ed87c011f699dd27321dbe404db6c8	Crackpots (1983)(Activision)(NTSC).a26
+a184846d8904396830951217b47d13d9	Crackpots (1983)(Activision)(NTSC)[a].a26
+2825f4d068feba6973e61c84649489fe	Crackpots (1983)(Activision)(PAL)[p].a26
+f3c431930e035a457fe370ed4d230659	Crackpots (1983)(Activision)(PAL)[p][a].a26
+3f3ad2765c874ca13c015ca6a44a40a1	Crackpots (1983)(CCE)(NTSC).a26
+fb88c400d602fe759ae74ef1716ee84e	Crash Dive (1983)(20th Century Fox)(NTSC).a26
+0cebb0bb45a856b23f56d21ce7d1bc34	Crash Dive (1983)(20th Century Fox)(PAL).a26
+9072c142728a3a3d994956d03bfacba2	Crash Dive (1983)(20th Century Fox)(PAL)[f PAL Fabrizio Zavagli].a26
+a3a9fe7deb8c5510c71ce9fef8942b47	Crash Dive (1983)(20th Century Fox)[b2].a26
+9b6a61033d8d59b45526232d0bd04b40	Crash Dive (1983)(20th Century Fox)[b].a26
+0f1e13666dccc0783b1c4fc714d05ec6	Crazy Balloon (2005)(Rotschkar, Manuel)(NTSC).a26
+8fac7615d04794d79b1764fe07974690	Crazy Balloon (2005)(Rotschkar, Manuel)(PAL).a26
+55ef7b65066428367844342ed59f956c	Crazy Climber (1983)(Atari)(NTSC)[Atari Fan Club Exclusive].a26
+46f4659b8af6d75b0bd1d7465f5c3fb6	Crazy Combat (2003)(Krytol)(NTSC)[h][Combat].a26
+76c03d8ca7ea614cb77209997504bf38	Crazy Otto v1.0 (2004)(Racoon Lad)(NTSC)[h][Ms. Pac-Man].a26
+4a7eee19c2dfb6aeb4d9d0a01d37e127	Crazy Valet (2000)(Prescott, Brian)(NTSC).a26
+48f18d69799a5f5451a5f0d17876acef	Criminal Pursuit (198x)(Emag)(NTSC).a26
+c17bdc7d14a36e10837d039f43ee5fa3	Cross Force (1982)(Spectravision)(NTSC).a26
+8f88309afad108936ca70f8b2b084718	Cross Force (1982)(Spectravision)(PAL).a26
+8372eec01a08c60dbed063c5524cdfb1	Cross Force (1982)(Spectravision)(PAL)[p].a26
+8cd26dcf249456fe4aeb8db42d49df74	Crossbow (1987)(Atari)(NTSC).a26
+7e4783a59972ae2cd8384f231757ea0b	Crossbow (1987)(Atari)(PAL).a26
+74f623833429d35341b7a84bc09793c0	Cruise Missile (1987)(Froggo)[aka Radar].a26
+384f5fbf57b5e92ed708935ebf8a8610	Crypts of Chaos (1982)(20th Century Fox)(NTSC).a26
+1c6eb740d3c485766cade566abab8208	Crystal Castles (1984)(Atari)(NTSC).a26
+c68a6bafb667bad2f6d020f879be1d11	Crystal Castles (1984)(Atari)(NTSC)(proto).a26
+ca7abc774a2fa95014688bc0849eee47	Crystal Castles (1984)(Atari)(PAL).a26
+a6127f470306eed359d85eb4a9cf3c96	Crystal Castles (1984)(Atari)[p].a26
+6fa0ac6943e33637d8e77df14962fbfc	Cubicolor (1982)(Fulop, Rob - Imagic)(NTSC)(proto).a26
+d2c957dd7746521b51bb09fde25c5774	Cubis (1997)(Stolberg, Eckhard)[6K].a26
+64ca518905311d2d9aeb56273f6caa04	Cubo Magico (1982)(CCE)[aka Cubicolor].a26
+58513bae774360b96866a07ca0e8fd8e	Custer's Revenge (1982)(Mystique)(NTSC).a26
+28574611ddb20a83e0b968714fdf01fc	Custer's Revenge (1982)(Mystique)(NTSC)[f Supercharger].a26
+d798516fefd67b591d2204ca86a7adf3	Custer's Revenge (1982)(Mystique)[b].a26
+6225f4effff06371181cce807737b09e	Custer's Revenge 2 (2004)(Lesser Raven)(NTSC)[h][Demon Attack].a26
+93eb1795c8b1065b1b3d62bb9ec0ccdc	Custer's Viagra (2004)(Atari Troll)(NTSC)[h2][Custer's Revenge].a26
+d57eb282d7540051bc9b5427cf966f03	Custer's Viagra (2004)(Atari Troll)(NTSC)[h3][Custer's Revenge].a26
+211f76dff0b7dad3f6fcac9d938ee61a	Custer's Viagra (2004)(Atari Troll)(NTSC)[h][Custer's Revenge].a26
+5355f80cacf0e63a49cbf4ade4e27034	Cute Dead Things House (2002)(Samuel, Christian)(NTSC)[h][Haunted House].a26
+60358edf0c2cc76b1e549e031e50e130	Cybergoth Galaxian (2002)(Polik, Manuel)(NTSC)[h][Galaxian].a26
+4d5fce1b97cdbd780f50b33415714730	Cyplix (2004)(Gray, Charles F 'Atari Charles')(NTSC)[h][Bi! Bi!].a26
+929e8a84ed50601d9af8c49b0425c7ea	Dancing Plates (1982)(BitCorp)(PAL).a26
+f48735115ec302ba8bb2d2f3a442e814	Dancing Plates (1982)(Quelle)(PAL).a26
+a422194290c64ef9d444da9d6a207807	Dark Cavern (1982)(Mattel)(NTSC).a26
+1cc5b4155743b7bb9fd47dbab790bcda	Dark Cavern (1982)(Mattel)(NTSC)[a].a26
+106855474c69d08c8ffa308d47337269	Dark Chambers (1988)(Atari)(NTSC).a26
+1091b5adebe496a4beb7441cd96953dc	Dark Chambers (1988)(Atari)(NTSC)[a2].a26
+5f7fa6ca5d4a44b82505e419d880d028	Dark Chambers (1988)(Atari)(NTSC)[a].a26
+0d5af65ad3f19558e6f8e29bf2a9d0f8	Dark Chambers (1988)(Atari)(PAL).a26
+1743f8e7651d4719f964c612ea74d554	Dark Chambers (1988)(Atari)[b].a26
+2b71a59a53be5883399917bf582b7772	Dark Mage (1997)(NTSC)(PD)(beta)[Final Beta].a26
+1345e972dbe08ea3e70850902e20e1a5	Dark Mage (1997)(NTSC)(PD)(beta)[Rough Beta].a26
+6cd506509e8fd5627f55603780e862a8	Dark Mage (1997)(Troutman, Greg)(NTSC)(PD)[SuperCharger].a26
+8b81af55cd2ef3c7444d6aec4e3a1c09	Dark Mage (1997)(Troutman, Greg)(PD)[b].a26
+dba270850ae997969a18ee0001675821	Dark Mage 4k (1997)(Troutman, Greg)(NTSC)(PD).a26
+6333ef5b5cbb77acd47f558c8b7a95d3	Dark Mage 8k (1997)(Troutman, Greg)(NTSC)(PD).a26
+1cd90a0841ab9d62583e93f78fee8036	Dark Mage Mod (19xx)(-)(PD)[b][aka DM-FOOT].a26
+004faba6fa32852ed8da68e54e16146f	Dawn of the Dead (2004)(neotokeo2001)(NTSC)[h][Worm War I].a26
+23ea7b68de74d1a2c819cbe913054971	Deadly Discs (1983)(Mattel)[b].a26
+e4c00beb17fdc5881757855f2838c816	Deadly Duck (1982)(20th Century Fox)(NTSC).a26
+80cd42881e670e4b74a9ccd10d0d7b2e	Deadly Duck (1982)(20th Century Fox)(NTSC)[a].a26
+6b57e88751bfaeaa6999b7343228e2f2	Death Race (2003)(neotokeo2001)(NTSC)[h2][River Raid].a26
+6f6b7dbf163976ce745511501e40d135	Death Race (2003)(neotokeo2001)(NTSC)[h3][River Raid].a26
+f7acf289621fd2fa420ee8d7b58c6aff	Death Race (2003)(neotokeo2001)(NTSC)[h][River Raid].a26
+4e15ddfd48bca4f0bf999240c47b49f5	Death Trap (1983)(Avalon Hill)(NTSC).a26
+b2b78febdbc0ac184084092c1375162a	Decathlon (1983)(Activision - Ariola)(PAL)[b].a26
+ac7c2260378975614192ca2bc3d20e0b	Decathlon (1983)(Activision)(NTSC)[AG-930-04, AZ-030).a26
+0f643c34e40e3f1daafd9c524d3ffe64	Defender (1981)(Atari)(NTSC).a26
+e4bff1d5df70163c0428a1ead309c22d	Defender (1981)(Atari)(PAL).a26
+047ac3b9faea64522b7a23c4465a7aa8	Defender (1981)(Atari)(PAL)[p].a26
+808c3b1e60ee0e7c65205fa4bd772221	Defender (1981)(CCE)(NTSC)(BR).a26
+3a771876e4b61d42e3a3892ad885d889	Defender II (1984)(Atari)(NTSC)[aka Stargate].a26
+5f786b67e05fb9985b77d4beb35e06ee	Defender II (1984)(Atari)(PAL)[aka Stargate].a26
+d1fc4cf675c9b49fb7deb792f2f3a7a5	Defender II (1984)(Atari)[b][possible unknown mode].a26
+bc40baf36521e35f9c470bf412c39775	Defender Vector (19xx)(-)[h Defender][b].a26
+d07111758ec4769dfb3d9c5f3ca6c31e	Defender Vector (2004)(Engelhardt, Steve)(NTSC)[h Defender].a26
+d09935802d6760ae58253685ff649268	Demolition Herby (1982)(Telesys)(NTSC).a26
+4a6be79310f86f0bebc7dfcba4d74161	Demolition Herby (1982)(Telesys)(PAL)[p].a26
+f0e0addc07971561ab80d9abe1b8d333	Demon Attack (1982)(Imagic)(NTSC).a26
+b12a7f63787a6bb08e683837a8ed3f18	Demon Attack (1982)(Imagic)(NTSC)[a].a26
+c08a9c7f5346e39bebb034503cee396d	Demon Attack (1982)(Imagic)(NTSC)[f Supercharger].a26
+6d157746a23355588525a9861b92331d	Demon Attack (1982)(Imagic)(NTSC)[f Supercharger][a2].a26
+b738bba2677e36e6ad400982cda12bb2	Demon Attack (1982)(Imagic)(NTSC)[f Supercharger][a].a26
+110ac8ecaf1b69f41bc94c59dfcb8b2d	Demon Attack (1982)(Imagic)(NTSC)[t +1].a26
+4901c05068512828367fde3fb22199fe	Demon Attack (1982)(Imagic)(PAL).a26
+442602713cb45b9321ee93c6ea28a5d0	Demon Attack (1982)(Imagic)(PAL)[p].a26
+bcb2967b6a9254bcccaf906468a22241	Demon Attack (1983)(Activision)(NTSC).a26
+f91fb8da3223b79f1c9a07b77ebfa0b2	Demons to Diamonds (1982)(Atari)(NTSC).a26
+82df0c9da55dbe92827e5f958dc6367f	Demons to Diamonds (1982)(Atari)(NTSC)[f joystick].a26
+93025e37513ee204fbc9113da452b11f	Demons to Diamonds (1982)(Atari)(NTSC)[f Supercharger].a26
+d62283aed0f4199adb2333de4c263e9c	Demons to Diamonds (1982)(Atari)(PAL).a26
+bf84f528de44225dd733c0e6a8e400a0	Demons to Diamonds (1982)(CCE)(NTSC)(BR).a26
+698f569eab5a9906eec3bc7c6b3e0980	Demons! (2003)(Spk Leader)(NTSC)[h][Phoenix].a26
+fd4f5536fd80f35c64d365df85873418	Desert Falcon (1987)(Atari)(NTSC).a26
+e98e52e1b272936628c78c33f1aa42a9	Desert Falcon (1987)(Atari)(NTSC)[b].a26
+d4806775693fcaaa24cf00fc00edcdf3	Desert Falcon (1987)(Atari)(PAL).a26
+02ab2c47bc21e7feafa015f90d7df776	Diagnostic Cartridge (19xx)(Atari)(NTSC).a26
+8f00aea436a8a7e7e342369d8657f725	Dialer 2600 (19xx)(Tomlin, Bruce)(PD)[aka 2600 Tone Dialer].a26
+9222b25a0875022b412e8da37e7f6887	Dice Puzzle (1983)(Panda)(NTSC).a26
+e02156294393818ff872d4314fc2f38e	Dice Puzzle (1983)(Sancho)(PAL).a26
+6dda84fb8e442ecf34241ac0d1d91d69	Dig Dug (1983)(Atari)(NTSC).a26
+bae1a23f9b6acdadf465cfb330ba0acb	Dig Dug (1983)(Atari)(NTSC)[a].a26
+977294ae6526c31c7f9a166ee00964ad	Dig Dug (1983)(Atari)(PAL).a26
+21d2c435bcccde7792d82844b3cf60f4	Dig Dug (1983)(Atari)(PAL)[a].a26
+89e287717ff1473be5c2bbe5f25f9381	Dig Dug (1983)(Atari)[b].a26
+939ce554f5c0e74cc6e4e62810ec2111	Dishaster (198x)(Zimag)(PAL)[aka Mr Chin].a26
+2a4bc2b011277e7ec670f4c72c179408	DK 2.0 (2003)(Dr. Kwack)(NTSC)[h][Donkey Kong].a26
+2b42da79a682ed6e2d735facbf70107e	DKJR Improved (2005)(Dr. Kwack)(NTSC)[h2][Donkey Kong Jr].a26
+bcdfc7abe4657d4bc213368ca847f562	DKJR Improved (2005)(Dr. Kwack)(NTSC)[h][Donkey Kong Jr].a26
+a7332002cab24e3870e1b6ccf5e6526a	Dodge 'Em (1980)(Atari)[b][CX2637].a26
+c3472fa98c3b452fa2fd37d1c219fb6f	Dodge 'Em (1981)(Atari)(NTSC).a26
+83bdc819980db99bf89a7f2ed6a2de59	Dodge 'Em (1981)(Atari)(NTSC)[a].a26
+85cc8751e8a4f69ffaa3aa9aa7ebe21c	Dodge 'Em (1981)(Atari)(NTSC)[b].a26
+a5e9ed3033fb2836e80aa7a420376788	Dodge 'Em (1981)(Atari)(PAL).a26
+10f62443f1ae087dc588a77f9e8f43e9	Dodge 'Em (1981)(Atari)(PAL)[a][f][CX2637].a26
+d28afe0517a046265c418181fa9dd9a1	Dodge 'Em (1981)(Atari)(PAL)[p].a26
+63d98dc5456cddfdf957b3c0b05f4b95	Dodge Blinky (2004)(Atari Troll)(NTSC)[h][Dodge 'Em].a26
+d09a7504ee8c8717ac3e24d263e7814d	Dolphin (1983)(Activision)(NTSC).a26
+ca09fa7406b7d2aea10d969b6fc90195	Dolphin (1983)(Activision)(NTSC)[a].a26
+3889351c6c2100b9f3aef817a7e17a7a	Dolphin (198x)(CCE)(NTSC)(BR).a26
+84d1cf884f029e458db196548db9c2ad	Domino (19xx)(Ishido)(PD)[b][Supercharger].a26
+93c54ec2d8fee9d08993610d9546ecc0	Don't Get Hit! (2004)(vb Master)(NTSC)[h][Freeway].a26
+937736d899337036de818391a87271e0	Donald Duck's Speedboat (1983-04-12)(Atari)(NTSC)(proto).a26
+f473f99e47d4026a7a571184922ebf04	Donkey Claus (2001)(Frey, Philip R)(NTSC)[h][Donkey Kong].a26
+3a526e6a1f9fe918af0f2ce997dfea73	Donkey Kong (1982)(CBS Electronics)(PAL).a26
+0894aa7be77521f9df562be8d9555fe6	Donkey Kong (1982)(CBS Electronics)(PAL)[a2].a26
+8b5b1e3a434ebbdc2c2a49dc68f46360	Donkey Kong (1982)(CBS Electronics)(PAL)[a].a26
+36b20c427975760cb9cf4a47e41369e4	Donkey Kong (1982)(Coleco)(NTSC).a26
+b59417d083b0be2d49a7d93769880a4b	Donkey Kong (1982)(Pet Boat)(PAL).a26
+5a6febb9554483d8c71c86a84a0aa74e	Donkey Kong Jr (198x)(CCE)(NTSC).a26
+2091af29b4e7b86914d79d9aaa4cbd20	Donkey Kong Junior (1982)(CBS Electronics)(PAL).a26
+c8fa5d69d9e555eb16068ef87b1c9c45	Donkey Kong Junior (1982)(Coleco)(NTSC).a26
+278155fc9956e9b6ef2359eb238f7c7f	Donkey Kong Junior (1982)(Coleco)(NTSC)[h].a26
+7fd52208fb6391bae0cd7e68c27bde6f	Donkey Kong Junior (1983)(Coleco)[b].a26
+590228c9eb53fbb98af6bd7b158707b6	Donkey Kong Vector (2004)(neotokeo2001)(NTSC)[h][Donkey Kong].a26
+d2ead76d5a86fe06cd6cd8168f643b3e	Donkey Kong Vector BW (2004)(neotokeo2001)(NTSC)[h][Donkey Kong].a26
+ca00902512a034209ebe4b162fba0f3b	Donkey Kong Vector Green (2004)(neotokeo2001)(NTSC)[h][Donkey Kong].a26
+200a9d2a7cb4441ce4f002df6aa47e38	Doomzerk (2000)(Eduardo)(NTSC)[h][Berzerk].a26
+47464694e9cce07fdbfd096605bf39d4	Double Dragon (1989)(Activision)(NTSC).a26
+7e2fe40a788e56765fe56a3576019968	Double Dragon (1989)(Activision)(NTSC)[h].a26
+3624e5568368929fabb55d7f9df1022e	Double Dragon (1989)(Activision)(PAL).a26
+4999b45be0ab5a85bac1b7c0e551542b	Double Dragon (1989)(CCE)(NTSC).a26
+368d88a6c071caba60b4f778615aae94	Double Dunk (1989)(Atari)(NTSC).a26
+cfc226d04d7490b69e155abd7741e98c	Double Dunk (1989)(Atari)(PAL).a26
+982598bd23cd824134b3cbcde7c2bd3b	DP Kong (2003)(Keir)(NTSC)[h2][Donkey Kong].a26
+5c7ae9a7d3b04eea2f2783b46ad79ca6	DP Kong (2003)(Keir)(NTSC)[h][Donkey Kong].a26
+0fb37428bc120d002b999330d3cfb6f1	Dr. Who - Dalek Invasion (2005)(Jamcat)(NTSC)[h][Berzerk].a26
+31c022a888980107a384f7bf3d840839	Drag Race (2003)(Engelhardt, Steve)(NTSC)[h Auto Shift][Dragster].a26
+a867b76098786c4091dba2fcee5084c3	Drag Race (2003)(Engelhardt, Steve)(NTSC)[h][Dragster].a26
+51351812b4dff0b321e64a059bb22e90	Dragon Chase (2004)(neotokeo2001)(NTSC)[h][Blue Print].a26
+6a882fb1413912d2ce5cf5fa62cf3875	Dragon Defender (198x)(Ariola-Rainbow Vision)(PAL).a26
+24d9a55d8f0633e886a1b33ee1e0e797	Dragon Defender (200x)(Ariola)(NTSC)[f NTSC - Jentzsch, Thomas].a26
+1f56645e5fb8dfdca5d8be9340aaa9c0	Dragon Fighter (2004)(OutofGas)(NTSC)[h][Double Dragon].a26
+41810dd94bd0de1110bedc5092bef5b0	Dragonfire (1982)(Imagic)(NTSC).a26
+6fc394dbf21cf541a60e3b3631b817f1	Dragonfire (1982)(Imagic)(PAL).a26
+1267e3c6ca951ff1df6f222c8f813d97	Dragonfire (1982)(Imagic)(PAL)[p].a26
+3d0f7772ba6f8daaff559b460f66a584	Dragonfire Easy 1 (2004)(Engelhardt, Steve)(NTSC)[h][Dragonfire].a26
+a93a63c5ba6b384295e7280f97d76813	Dragonfire Easy 2 (2004)(Engelhardt, Steve)(NTSC)[h][Dragonfire].a26
+c53d5088ed129d2f26e54c67549af221	Dragonfire Sadistic (2004)(Engelhardt, Steve)(NTSC)[h][Dragonfire].a26
+f0ee2b055fed6c1df4f3cbb2e12b2c15	Dragonstomper (1982)(Starpath)(NTSC)(Part 1 of 3)[a][Supercharger Cassette].a26
+78b84cfb1c57b0488d674d2374e656e6	Dragonstomper (1982)(Starpath)(NTSC)(Part 1 of 3)[Supercharger Cassette].a26
+5b7ea6aa6b35dc947c65ce665fde624b	Dragonstomper (1982)(Starpath)(NTSC)(Part 2 of 3)[Supercharger Cassette].a26
+dd8a2124d4eda200df715c698a6ea887	Dragonstomper (1982)(Starpath)(NTSC)(Part 3 of 3)[Supercharger Cassette].a26
+d536a84d4e1f170305e17f7078296a50	Dragonstomper (1982)(Starpath)(NTSC)[a][Supercharger Cassette].a26
+90ccf4f30a5ad8c801090b388ddd5613	Dragonstomper (1982)(Starpath)(NTSC)[Supercharger Cassette].a26
+2d9e65959808a6098c16c82a59c9d9dc	Dragonstomper (1982)(Starpath)(PAL)(Part 1 of 3)[Supercharger Cassette].a26
+66c4e0298d4120df333bc2f3e163657e	Dragonstomper (1982)(Starpath)(PAL)(Part 2 of 3)[Supercharger Cassette].a26
+aff8cba0f2d2eb239953dd7116894a08	Dragonstomper (1982)(Starpath)(PAL)(Part 3 of 3)[Supercharger Cassette].a26
+8b04e9d132b8e30d447acaa6bd049c32	Dragonstomper (1982)(Starpath)(PAL)[Supercharger Cassette].a26
+a302b922a8dbec47743f28b7f91d4cd8	Dragonstomper Preview (1982)(Starpath)(NTSC)[a][Supercharger Cassette].a26
+12cd04d3298633413a756795c49dc0c6	Dragonstomper Preview (1982)(Starpath)(NTSC)[Supercharger Cassette].a26
+65a730c85c573e73b33a5c9f505c5d88	Dragonstomper Preview (1982)(Starpath)(PAL)[a][Supercharger Cassette].a26
+fbac6476e7b2b20d246202af81662c88	Dragonstomper Preview (1982)(Starpath)(PAL)[Supercharger Cassette].a26
+77057d9d14b99e465ea9e29783af0ae3	Dragster (1980)(Activision)(NTSC).a26
+63a6eda1da30446569ac76211d0f861c	Dragster (1980)(Activision)(NTSC)[o].a26
+d763e3a9cdcdd56c715ec826106fab6a	Dragster (1980)(Activision)(NTSC)[o][a].a26
+a701dcf6fa391279f310c875e25e737e	Dragster (1980)(Activision)(NTSC)[t Auto Shift].a26
+0c54811cf3b1f1573c9164d5f19eca65	Dragster (1980)(Activision)(PAL).a26
+bb18189021d58362d9e4d317cd2e28b7	Dragster (1980)(Activision)(PAL)[o].a26
+9d1556ae5890398be7e3d57449774b40	Dragster (1980)(Activision)(PAL)[o][a].a26
+de61a0b171e909a5a4cfcf81d146dbcb	Dschungle Boy (19xx)(Starsoft)(PAL)(DE)[aka Tom Boy].a26
+15fe8a0343ab214b3ce6c85fd35b7d50	Dueling Borg (2004)(Atari Troll)(NTSC)[h][Joust].a26
+c1b7aeabc3ec41556d924c8372a9ba5b	Dukes of Hazzard (1980)(Atari)(NTSC)(proto)[a][Stunt Cycle Version].a26
+34ca2fcbc8ba4a0b544acd94991cfb50	Dukes of Hazzard (1980)(Atari)(NTSC)(proto)[Stunt Cycle Version].a26
+51de328e79d919d7234cf19c1cd77fbc	Dukes of Hazzard (1983)(Atari)(NTSC)(proto).a26
+1f773a94d919b2a3c647172bbb97f6b4	Dumbo's Flying Circus (1983)(Atari)(NTSC)(proto).a26
+469473ff6fed8cc8d65f3c334f963aab	Dune (1984-07-10)(Atari)(NTSC)(proto)[Very Early Demo].a26
+efa1098c7d091b940c2543abe372f036	E.T. - Pits Hack (19xx)(Stilphen, Scott)(NTSC)[h][E.T.].a26
+cfb0976f0124fdbc0c7f05a479038deb	E.T. Tennis (2005)(Jamcat)(NTSC)[h][Tennis].a26
+13abc32f803165c458bb086fa57195fb	E.T. The Extra Testical (2001)(Samuel, Christian)(NTSC)[h][E.T.].a26
+615a3bf251a38eb6638cdc7ffbde5480	E.T. The Extra-Terrestrial (1982)(Atari)(NTSC).a26
+8febdd9142960d084ab6eeb1d3e88969	E.T. The Extra-Terrestrial (1982)(Atari)(PAL).a26
+a511f7ee13e4b35512f9217a677b4028	E.T. The Extra-Terrestrial (1982)(Atari)(PAL)[a].a26
+c82ec00335cbb4b74494aecf31608fa1	E.T. The Extra-Terrestrial (1982)(CCE)(NTSC)(BR).a26
+fa4435b30802ba0531b6257fb73fa5da	E.T. vs. HSW (2005)(Gray, Charles F 'Atari Charles')(NTSC)[h][Pac-Man].a26
+6982854657a2cc87d712f718e402bf85	Earth Attack (198x)(Zellers)(NTSC)(CA)[u][aka Defender].a26
+033e21521e0bf4e54e8816873943406d	Earth Dies Screaming (1983)(20th Century Fox)(NTSC).a26
+2c0dc885d5ede94aa664bf3081add34e	Earth Dies Screaming (1983)(20th Century Fox)(PAL)[p].a26
+3e6dab92009d6034618cb6b7844c5216	Ed Invaders (2000)(-)(NTSC)[h][Pepsi Invaders].a26
+c6d48c6ae6461e0e82753540a985ac9e	Edtris 2600 (1994)(Federmeyer, Ed)(NTSC).a26
+683dc64ef7316c13ba04ee4398e2b93a	Edtris 2600 (1995)(Federmeyer, Ed)(NTSC).a26
+a00ee0aed5c8979add4c170f5322c706	Egghead (2000)(Laws, Barry Jr)(NTSC)[h][Pac-Man].a26
+42b2c3b4545f1499a083cfbc4a3b7640	Eggomania (1982)(US Games)(NTSC).a26
+a3f2a0fcf74bbc5fa763b0ee979b05b1	Eishockey-Fieber (198x)(Starsoft - Quelle)(PAL)[aka Ice Hockey].a26
+71f8bacfbdca019113f3f0801849057e	Elevator Action (1983)(Atari)(NTSC)(proto).a26
+7eafc9827e8d5b1336905939e097aae7	Elk Attack (1987)(Atari)(NTSC)(proto).a26
+dbc8829ef6f12db8f463e30f60af209f	Encounter at L5 (1982)(Data Age)(NTSC).a26
+94b92a882f6dbaa6993a46e2dcc58402	Enduro (1983)(Activision)(NTSC).a26
+cfe62ed7125ff9fae99b4c8a367c0399	Enduro (1983)(Activision)(NTSC)[o].a26
+4279485e922b34f127a88904b31ce9fa	Enduro (1983)(Activision)(NTSC)[p].a26
+6a82b8ecc663f371b19076d99f46c598	Enduro (1983)(Activision)(PAL).a26
+61719a8bdafbd8dab3ca9ce7b171b9e2	Enduro (1983)(Activision-Dactar)(PAL).a26
+de62f8a30298e2325249fe112ecb5c10	Enduro (1983)(CCE)(NTSC)(BR).a26
+5df559a36347d8572f9a6e8075a31322	Enduro (1983)(Digivision)(PAL)(BR)[p].a26
+d2f713c78a9ebba9da6d10aeefc6f20f	Enduro (1983)(Digivision)(PAL)[p].a26
+f6e4d42a8419d277725933f7edc845b3	Enhanced Pitfall + (2003)(Kortkamp, Jack)(NTSC)[h][Pitfall].a26
+7de029287bf647336d560ab4594973c0	Enhanced Pitfall + (2003)(Kortkamp, Jack)(NTSC)[h][t +1][Pitfall].a26
+82a6be2aa6b48274d0171637d37ba625	Enhanced Pitfall + Revisited (2003)(Kortkamp, Jack)(NTSC)[h][t +1][Pitfall].a26
+72876fd7c7435f41d571f1101fc456ea	Ente und der Wolf, Die (198x)(Starsoft)(PAL)(DE)[aka Pooyan].a26
+6b683be69f92958abe0e2a9945157ad5	Entombed (1982)(US Games)(NTSC).a26
+d1a1841b7f2007a24439ac248374630a	Escape from the Mindmaster (1982)(Starpath)(NTSC)(Part 1 of 4)[Supercharger Cassette].a26
+fdf0de38517e0cf7f0885f98ccc95836	Escape from the Mindmaster (1982)(Starpath)(NTSC)(Part 2 of 4)[Supercharger Cassette].a26
+7a63d7ea3f2851bcf04f0bb4ba1a3929	Escape from the Mindmaster (1982)(Starpath)(NTSC)(Part 3 of 4)[Supercharger Cassette].a26
+f0536303f49006806bac3aec15738336	Escape from the Mindmaster (1982)(Starpath)(NTSC)(Part 4 of 4)[Supercharger Cassette].a26
+81f4f0285f651399a12ff2e2f35bab77	Escape from the Mindmaster (1982)(Starpath)(NTSC)[Supercharger Cassette].a26
+3576037c9281656655fa114a835be553	Escape from the Mindmaster (1982)(Starpath)(PAL)(Part 1 of 4)[Supercharger Cassette].a26
+1ee2cfc7d0333b96bd11f7f3ec8ce8bc	Escape from the Mindmaster (1982)(Starpath)(PAL)(Part 2 of 3)[Supercharger Cassette].a26
+a075ad332942740c386f4c3814925ece	Escape from the Mindmaster (1982)(Starpath)(PAL)(Part 2 of 4)[Supercharger Cassette].a26
+cc1939e4769d0c157ace326efcfdcf80	Escape from the Mindmaster (1982)(Starpath)(PAL)(Part 3 of 4)[Supercharger Cassette].a26
+639ded0c9e53bc3f91defb5dde930286	Escape from the Mindmaster (1982)(Starpath)(PAL)(Part 4 of 4)[Supercharger Cassette].a26
+c9e721eb29c940c2e743485b044c0a3f	Escape from the Mindmaster (1982)(Starpath)(PAL)[Supercharger Cassette].a26
+f1127ade54037236e75a133b1dfc389d	Escape from the Mindmaster Preview (1982)(Starpath)(NTSC)[Supercharger Cassette].a26
+271bfd5dc2673d382019f1fb6cab9332	Escape from the Mindmaster Preview (1982)(Starpath)(PAL)[Supercharger Cassette].a26
+f344ac1279152157d63e64aa39479599	Espial (1983)(Tigervision)[b2][7-012].a26
+7e0dc330a32398f980637f9ded8f3ac4	Espial (1983)(Tigervision)[b].a26
+f7a138eed69665b5cd1bfa796a550b01	Espial (1984)(Tigervision)(NTSC).a26
+72097e9dc366900ba2da73a47e3e80f5	Euchre (2001-06-15)(Eid, Erik)(NTSC)(PD).a26
+66362890eb78d6ea65301592cce65f5b	Euchre (2001-07-13)(Eid, Erik)(NTSC)(PD).a26
+8ee3f64dc0f349adc893fe93df5245d8	Euchre (2001-07-20)(Eid, Erik)(NTSC)(PD).a26
+65562f686b267b21b81c4dddc129d724	Euchre (2001-07-28)(Eid, Erik)(NTSC)(PD).a26
+524693b337f7ecc9e8b9126e04a232af	Euchre (2001-08-19)(Eid, Erik)(NTSC)(PD).a26
+b1b20536aef4eed9c79dc5804f077862	Euchre (2001-11-09)(Eid, Erik)(NTSC)(PD).a26
+eb71743c6c7ccce5b108fad70a326ad9	Euchre (2001-11-25)(Eid, Erik)(NTSC)(PD).a26
+d4aa89e96d2902692f5c45f36903d336	Euchre (2002)(Eid, Erik)(NTSC)(PD)(pre-release).a26
+e5d5085123a98c1e61818caa2971e999	Euchre (2002)(Eid, Erik)(PAL)(PD)(pre-release).a26
+15bf2ef7583bfcbbba630847a1dc5539	Euchre (2002-07-15)(Eid, Erik)(NTSC)(PD).a26
+80e52315919bd8a8b82a407ccd9bb13f	Euchre (2002-07-28)(Eid, Erik)(NTSC)(PD).a26
+40aa851e8d0f1c555176a5e209a5fabb	Euchre (2002-08-22)(Eid, Erik)(NTSC)(PD)[more for less].a26
+c9d02d3cfeef8b48fb71cb4520a4aa84	Euchre (2002-08-22)(Eid, Erik)(PAL)(PD)[more for less].a26
+29949f893ef6cb9e8ecb368b9e99eee4	Euchre (2002-08-31)(Eid, Erik)(NTSC)(PD)(alpha).a26
+407a0c6cc0ff777f67b669440d68a242	Euchre (2002-08-31)(Eid, Erik)(PAL)(PD)(alpha).a26
+ffb1cd548563158ce33f9d10268187e7	Euchre (2002-09-12)(Eid, Erik)(NTSC)(PD)(beta).a26
+877a5397f3f205bf6750398c98f33de1	Euchre (2002-09-12)(Eid, Erik)(PAL)(PD)(beta).a26
+873fb75a7788ba0f4ae715229a05545e	Euchre (2002-09-26)(Eid, Erik)(PAL)(PD)[Improved Colors].a26
+4690fdb70c86604bb35da26696818667	Euchre (2002-09-28)(Eid, Erik)(NTSC)[Release Candidate].a26
+bffe34516aaa3cbf5d307eab382a7e95	Euchre (2002-09-28)(Eid, Erik)(PAL)[Release Candidate].a26
+6205855cc848d1f6c4551391b9bfa279	Euchre (2002-10-01)(Eid, Erik)(NTSC)[Release Candidate 2].a26
+199985cae1c0123ab1aef921daace8be	Euchre (2002-10-01)(Eid, Erik)(PAL)[Release Candidate 2].a26
+01264c091efc27ce23e43a6aa5cfd89a	Euchre (200x)(Eid, Erik)(NTSC)(PD)[Long Winding Road].a26
+77cd9a9dd810ce8042bdb9d40e256dfe	Evil Dead (2003)(Pittman, Kyle)(NTSC)[h][Haunted House].a26
+6362396c8344eec3e86731a700b13abf	Exocet (198x)(Panda)(PAL)[aka Space Eagle].a26
+7ac4f4fb425db38288fa07fb8ff4b21d	Exocet (198x)(Sancho-Goliath)(PAL)[aka Space Eagle].a26
+a3f8103628d33d2235bfde2a397a44de	Extinction (2003)(neotokeo2001)(NTSC)[h][Demon Attack].a26
+7926083ad423ed685de3b3a04a914315	Face Invaders 2 (2000)(Laws, Barry Jr)(NTSC)[h][Astroblast].a26
+0af51ceb4aecc7a8fc89781ac44a1973	Face Invaders Deluxe (2000)(Laws, Barry Jr)(NTSC)[h][Space Invaders].a26
+7ef930c704200a291333a5caf6d939d3	Fall Down (2004-06-24)(Curtis, Aaron)(NTSC).a26
+ca0c2dbf7435717cb137be67f84a8299	Fall Down (2004-06-30)(Curtis, Aaron)(NTSC).a26
+afb6a9de4fbb6ff6aac1d2f03f52dc1e	Fall Down (2004-07-11)(Curtis, Aaron)(NTSC).a26
+585529b85b53c4544cc420d17088b7a5	Fall Down (2004-07-31)(Curtis, Aaron)(NTSC).a26
+86ce214b002f29a2e002e4121f095b6e	Fall Down (2004-08-07)(Curtis, Aaron)(NTSC).a26
+0e8a9407816a2fe07520f489681c8a93	Fall Down (2004-08-21)(Curtis, Aaron)(NTSC).a26
+775bbb665d7a2c835a656b267643733b	Fall Down (2004-08-21)(Curtis, Aaron)(PAL).a26
+f0ad26bdf643d36c3cc13496b501e5b6	Fall Down (2004-08-26)(Curtis, Aaron)(NTSC).a26
+f70aa77cf27e9c188206fd7eae280ea5	Fall Down (2004-08-26)(Curtis, Aaron)(PAL).a26
+f359965aa662eef4cf396e058755a46c	Fall Down (2004-09-03)(Curtis, Aaron)(NTSC).a26
+5766cba0aba280cba74a1057680540b9	Fall Down (2004-09-03)(Curtis, Aaron)(PAL).a26
+414be2b3243b34ced7ce188fba5bd7f5	Fall Down (2004-09-07)(Curtis, Aaron)(NTSC).a26
+f9543b14408f3573fe164a5bb994ea22	Fall Down (2004-09-07)(Curtis, Aaron)(PAL).a26
+9a7eca31bc2b591f34b4f016aed16e25	Fall Down (2004-09-11)(Curtis, Aaron)(NTSC).a26
+8f41ee311676074c11bec575bc69c343	Fall Down (2004-09-11)(Curtis, Aaron)(PAL).a26
+af9f4d56915ccd45a6cf377cc293fd38	Fall Down (2004-10-01)(Curtis, Aaron)(NTSC).a26
+d2ea53a84899b4e1008fc26765084668	Fall Down (2004-10-01)(Curtis, Aaron)(PAL)[50Hz].a26
+e7261aa45b80b58cffb4c8a3de8f5205	Fall Down (2004-10-01)(Curtis, Aaron)(PAL)[60Hz].a26
+76181e047c0507b2779b4bcbf032c9d5	Fall Down (2005)(Curtis, Aaron)(NTSC).a26
+edd69e956e153057ee548bd76b5017e8	Fall Down (2005)(Curtis, Aaron)(PAL).a26
+cafd03250112cafb3f0e4055b7e529bb	Fall Down (2005-02-05)(Curtis, Aaron)(NTSC).a26
+7521ec988a4f79f44074dc8788b7d664	Fall Down (2005-02-05)(Curtis, Aaron)(PAL)[50Hz].a26
+53718cea6f7bc7ff11aa86a601d303da	Fall Down (2005-02-05)(Curtis, Aaron)(PAL)[60Hz].a26
+ed897ca3a3e8e47d14ed809a1d893d3a	Fall Down (2005-02-09)(Curtis, Aaron)(NTSC).a26
+9d1caa0058bfb5a27b08dc9827d4c2e0	Fall Down (2005-02-09)(Curtis, Aaron)(PAL)[50Hz].a26
+9935b8b23f6a70aacf1ea0b86866c191	Fall Down (2005-02-09)(Curtis, Aaron)(PAL)[60Hz].a26
+de20291e69550865e4aa507016f748a0	Fall Down (2005-02-15)(Curtis, Aaron)(NTSC).a26
+f3ccd35b68cf9cef455230f1d77ce268	Fall Down (2005-02-15)(Curtis, Aaron)(PAL)[50Hz].a26
+99f91137e64435438a37263e83f5d478	Fall Down (2005-02-15)(Curtis, Aaron)(PAL)[60Hz].a26
+b80d50ecee73919a507498d0a4d922ae	Fantastic Voyage (1982)(20th Century Fox)(NTSC).a26
+f7e07080ed8396b68f2e5788a5c245e2	Farmyard Fun (198x)(Telegames)(PAL)[b].a26
+9de0d45731f90a0a922ab09228510393	Fast Eddie (1982)(20th Century Fox)(NTSC).a26
+cb8bf5a0df683cbf6ce50d614b12dd20	Fast Eddie (1982)(Activision)(NTSC).a26
+a97733b0852ee3096300102cb0689175	Fast Eddie (198x)(CCE)(NTSC)(BR).a26
+665b8f8ead0eef220ed53886fbd61ec9	Fast Food (1982)(Telesys)(NTSC).a26
+6b7e1c11448c4d3f28160d2de884ebc8	Fast Food (198x)(Zirok)(NTSC)(BR).a26
+63e783994df824caf289b69a084cbf3e	Fat Albert (2000)(Marli, David)(NTSC)[h][Fast Food].a26
+c899826c06b81155ec5a4b9c110716f3	Fat Freddie (2004-05-04)(OutofGas)(NTSC)(pre-release)[h][Pac-Man Jr].a26
+2485fd04cb6b661b458eeebb2521968e	Fat Freddie (2004-05-07)(OutofGas)(NTSC)(pre-release)[h][Pac-Man Jr].a26
+844c34a4aee545b3613d5b03b87c316d	Fat Freddie (2004-05-10)(OutofGas)(NTSC)(pre-release)[h][RC5 - Pac-Man Jr].a26
+c898900914e11544b85361dbaf7aaf66	Fat Freddie (2004-05-10)(OutofGas)(NTSC)(pre-release)[h][RC6 - Pac-Man Jr].a26
+e9b1e8eb8873f5eba1d3f845d214f6f7	Fat Freddie (2004-05-11)(OutofGas)(NTSC)[h][Pac-Man Jr].a26
+2953c2b8663b98156d174e2a8e3caa37	Fatal Run (1990)(Atari)(NTSC)[b].a26
+ef263d40a23483ab339cac44d9515a56	Fatal Run (1990)(Atari)(NTSC)[f NTSC - Jentzsch, Thomas].a26
+074ec425ec20579e64a7ded592155d48	Fatal Run (1990)(Atari)(PAL).a26
+8a159ee58b2f0a54805162984b0f07e5	Fatal Run (1990)(Atari)(PAL)[a].a26
+0b55399cf640a2a00ba72dd155a0c140	Fathom (1983)(Imagic)(NTSC).a26
+ce513e58f5bc3c1e98a88794d864bf28	Fathom (1983)(Imagic)(NTSC)[a].a26
+47cd61f83457a0890de381e478f5cf5f	Fathom (1983)(Imagic)(PAL).a26
+962ffd3eaf865230a7a312b80e6c5cfd	Fathom (1983)(Imagic)(PAL)[a].a26
+b442887aec0b4a725996d53f34787b14	Fathom (1983)(Imagic)[b].a26
+ce243747bf34a2de366f846b3f4ca772	Felix Return (198x)(Goliath)(PAL).a26
+540075f657d4b244a1f74da1b9e4bf92	Festival (198x)(-)(PAL)[p][Carnival].a26
+8e737a88a566cc94bd50174c2d019593	Feuerwehr im Einsatz (1982)(Starsoft-Quelle)(PAL)(DE).a26
+211fbbdbbca1102dc5b43dc8157c09b3	Final Approach (1982)(Apollo)(NTSC).a26
+51e390424f20e468d2b480030ce95d7b	Fire Bird (198x)(Taiwan Cooper Black)(PAL)[p][Phoenix].a26
+01e60a109a6a67c70d3c0528381d0187	Fire Birds (198x)(ITT Family Games)(PAL).a26
+d09f1830fb316515b90694c45728d702	Fire Fighter (1982)(Imagic)(NTSC).a26
+90d77e966793754ab4312c47b42900b1	Fire Fighter (1982)(Imagic)(PAL).a26
+20dca534b997bf607d658e77fbb3c0ee	Fire Fly (1983)(Mythicon)(NTSC).a26
+3b431168108578b8ff3a1deb808080f6	Fire Queen (2003)(neotokeo2001)(NTSC)[h][Tron - Deadly Discs].a26
+d3171407c3a8bb401a3a62eb578f48fb	Fire Spinner (198x)(Emag)(PAL).a26
+98555b95cb38e0e0b22b482b2b60a5b6	Fire Spinner (198x)(Emag)(PAL)[p].a26
+683bb0d0f0c5df58557fba9dffc32c40	Fireball (1982)(Starpath - Arcadia)(NTSC)[a][Supercharger Cassette].a26
+386ff28ac5e254ba1b1bac6916bcc93a	Fireball (1982)(Starpath - Arcadia)(NTSC)[Supercharger Cassette].a26
+cdb81bf33d830ee4ee0606ee99e84dba	Fireball (1982)(Starpath - Arcadia)(PAL)[Supercharger Cassette].a26
+66bc1bef269ea59033928bac2d1d81e6	Fireball Preview (1982)(Starpath)(NTSC)[Supercharger Cassette].a26
+a3d7c299fbcd7b637898ee0fdcfc47fc	Fireball Preview (1982)(Starpath)(PAL)[Supercharger Cassette].a26
+d2901c34bb6496bb96c7bc78a9e6142a	Fish Revenge (2003)(Zumwalt, Greg)(NTSC)[h][Space Invaders].a26
+3fe43915e5655cf69485364e9f464097	Fisher Price (198x)(CCE)(NTSC)[Sea Hunt].a26
+b8865f05676e64f3bec72b9defdacfa7	Fishing Derby (1980)(Activision)(NTSC).a26
+3c82e808fe0e6a006dc0c4e714d36209	Fishing Derby (1980)(Activision)(NTSC)[o].a26
+5131ab3797fe8c127e3e135b18b4d2c8	Fishing Derby (1980)(Activision)(NTSC)[o][a2].a26
+85227160f37aaa29f5e3a6c7a3219f54	Fishing Derby (1980)(Activision)(NTSC)[o][a].a26
+571c6d9bc71cb97617422851f787f8fe	Fishing Derby (1980)(Activision)(PAL).a26
+ecfa04523dde82fe42cdc7315a8f61b6	Fishing Derby (1980)(Activision)(PAL)[o].a26
+458883f1d952cd772cf0057abca57497	Fishing Derby (1980)(Activision)(PAL)[p].a26
+1d2a28eb8c95da0d6d6b18294211839f	Fishing Derby (1980)(Activision)(PAL)[p][o].a26
+1febccfb75e32d845f8a7e4222201055	Fishing Derby (1980)(Activision)[b2].a26
+286b9ad4dbc1d311994160e91e00c1e7	Fishing Derby (1980)(Activision)[b3].a26
+fca83a2fb52f8a70a1d1ec9f4495a987	Fishing Derby (1980)(Activision)[b][16k version].a26
+dea0ade296f7093e71185e802b500db8	Fishing Derby (198x)(CCE)(NTSC).a26
+5eb2cf12ee48e795e1855874abe3a5a5	Fishing Derby (198x)(CCE)(NTSC)[b].a26
+804ed85eadf1ce3e93721547cbea7592	Fishing Derby (198x)(CCE)(NTSC)[o].a26
+6b72b691ea86f61438ed0d84c4d711de	Fishing Derby - Crabs (198x)(Atari)(PAL)[p][o][Going Fishing].a26
+9236020d6b931d4f80f4e392c8a29727	Fisticuffs (2003)(King Atari)(NTSC)[h][a][Double Dragon].a26
+b561802b26affbbfc8702ff0e06febbd	Fisticuffs (2003)(King Atari)(NTSC)[h][Double Dragon].a26
+30512e0e83903fc05541d2f6a6a62654	Flag Capture (1978)(Atari)(NTSC).a26
+4b143d7dcf6c96796c37090cba045f4f	Flag Capture (1978)(Atari)(NTSC)[o].a26
+163ff70346c5f4ce4048453d3a2381db	FlapPing (2005)(Israel, Kirk)(NTSC).a26
+8786c1e56ef221d946c64f6b65b697e9	Flash Gordon (1983)(20th Century Fox)(NTSC).a26
+4ae8c76cd6f24a2e181ae874d4d2aa3d	Flash Gordon (1983)(20th Century Fox)(PAL)[p].a26
+5a2f2dcd775207536d9299e768bcd2df	Flippern (1980)(Starsoft)(PAL)(DE)[aka Video Painball].a26
+e549f1178e038fa88dc6d657dc441146	Football (1978)(Atari)(NTSC).a26
+d86deb100c6abed1588aa84b2f7b3a98	Football (1978)(Atari)(NTSC)[o].a26
+213e5e82ecb42af237cfed8612c128ac	Forest (198x)(Sancho)(PAL).a26
+76ee917d817ef9a654bc4783e0273ac4	Fox & Goat (198x)(Starsoft)(PAL).a26
+9ed0f2aa226c34d4f55f661442e8f22a	Fox & Goat (198x)(Starsoft)(PAL)[p].a26
+15dd21c2608e0d7d9f54c0d3f08cca1f	Frankenstein's Monster (1983)(Data Age)(NTSC).a26
+ff6bf7a3945a90f7354879d65efef7f3	Frankenstein's Monster (1983)(Data Age)(NTSC)[a].a26
+00bb9641f65fe150c5532de9abcfba10	Free Hack v2.2 (19xx)(-)[h][o][Freeway].a26
+8e0ab801b1705a740b476b7f588c6d16	Freeway (1981)(Activision)(NTSC).a26
+851cc1f3c64eaedd10361ea26345acea	Freeway (1981)(Activision)(NTSC)[o].a26
+69974dd5d6420b90898cde50aec5ef39	Freeway (1981)(Activision)(NTSC)[o][a].a26
+2ec6b045cfd7bc52d9cdfd1b1447d1e5	Freeway (1981)(Activision)(PAL).a26
+e4afe157c09962cf39cdb25845d83d47	Freeway (1981)(Activision)(PAL)[o].a26
+0f95264089c99fc2a839a19872552004	Freeway (1981)(Activision)(PAL)[o][a].a26
+eddef10fdc0029301064115ae0cd41d4	Freeway (1981)(CCE)(NTSC)(BR).a26
+28148a52b1955ce12c7a74d3a3e620a4	Freeway (1981)(CCE)(NTSC)(BR)[o].a26
+b822fba8b7c8a97ea4e92aeb2c455ef9	Freeway (1981)(Dactar)(NTSC)[p].a26
+7d5c3b7b908752b98e30690e2a3322c2	Freeway (1981)(Dactar)(PAL)[p].a26
+5f73e7175474c1c22fb8030c3158e9b3	Frog Pond (1982)(Atari)(NTSC)(proto).a26
+081e2c114c9c20b61acf25fc95c71bf4	Frogger (1982)(Parker Bros)(NTSC).a26
+92006c9d13487439dc8b1de485385ced	Frogger (1982)(Parker Bros)(NTSC)[f Supercharger].a26
+02ced7ea2b7cb509748db6bfa227ebec	Frogger (1982)(Parker Bros)(PAL).a26
+9d1a3fbd202e8356efd54086b0d5f2de	Frogger (1982)(Sega official - Parker Bros)(Preview)[b2][Starpath].a26
+823c466c7841a4b923dab428ec9e0164	Frogger (1982)(Sega official - Parker Bros)(Preview)[b3][Starpath].a26
+23a81fb1e7a7dcc50217b3d2e00beda8	Frogger (1982)(Sega official - Parker Bros)[b][Starpath].a26
+0bf1e354304f46c0caf8fc0f6f5e9525	Frogger - The Official (1983)(Starpath)(NTSC)[a][Supercharger Cassette].a26
+c73ae5ba5a0a3f3ac77f0a9e14770e73	Frogger - The Official (1983)(Starpath)(NTSC)[Supercharger Cassette].a26
+b3848136e98268e6ce5630c2b69ed8bd	Frogger - The Official (1983)(Starpath)(PAL)[a][Supercharger Cassette].a26
+a74689a08746a667a299b0507e1e6dd9	Frogger - The Official (1983)(Starpath)(PAL)[Supercharger Cassette].a26
+e823b13751e4388f1f2a375d3560a8d7	Frogger - The Official Preview (1983)(Starpath)(NTSC)[a][Supercharger Cassette].a26
+f5d103a9ae36d1d4ee7eef657b75d2b3	Frogger - The Official Preview (1983)(Starpath)(NTSC)[Supercharger Cassette].a26
+27c6a2ca16ad7d814626ceea62fa8fb4	Frogger II - Threedeep! (1984)(Parker Bros)(NTSC).a26
+4bba567d430e4b3e8f0877198f3ddeb0	Frogger II - Threedeep! (1984)(Parker Bros)(NTSC)[o].a26
+fb91dfc36cddaa54b09924ae8fd96199	Frogger II - Threedeep! (1984)(Parker Bros)(PAL).a26
+db95f8c5a008a8d006e08abe61b6dd37	Frogger II - Threedeep! (1984)(Parker Bros)(PAL)[o].a26
+dcc2956c7a39fdbf1e861fc5c595da0d	Frogs and Flies (1982)(Mattel)(NTSC).a26
+1b8c3c0bfb815b2a1010bba95998b66e	Frogs and Flies (1982)(Mattel)(PAL)[p].a26
+e556e07cc06c803f2955986f53ef63ed	Front Line (1982)(Coleco)(NTSC).a26
+4ca73eb959299471788f0b685c3ba0b5	Frostbite (1983)(Activision)(NTSC).a26
+9d5078679f020014247a6a5674932a8e	Frostbite (1983)(Activision)(NTSC)[a].a26
+5a93265095146458df2baf2162014889	Frostbite (1983)(Activision)(PAL).a26
+6a9b30ca46b0dba9e719f4cbd340e01c	Frostbite (1983)(Activision)(PAL)[h].a26
+70ce036e59be92821c4c7fd735ec6f68	Frostbite (1983)(Activision)(PAL)[o].a26
+9831efc7f4cb8ffb4df0082bab2f07a3	Frostbite (1983)(Activision)(PAL)[o][a].a26
+6b71f20c857574b732e7a8e840bd3cb2	Frostbite (1983)(Activision)(PAL)[p].a26
+c6ae21caceaad734987cb24243793bd5	Frostbite (1983)(CCE)(NTSC)(BR).a26
+f4469178cd8998cb437fa110a228eaca	Frostbite (1983)(Digitel)(NTSC)(BR)[p].a26
+adb79f9ac1a633cdd44954e2eac14774	Frostbite (1983)(Digivision)(NTSC)[p].a26
+e1d1f0c9bfd9ba9376957bf365ab5ab4	Fu Kunk! (19xx)(-)(AD)[b].a26
+0de53160a8b54c3aa5aed8d68c970b62	Fuchs & Schweinchen Schlau (198x)(Starsoft)(PAL)(DE)[aka Oink].a26
+d3bb42228a6cd452c111c1932503cc03	Funky Fish (1983)(UA Limited)(NTSC)(proto).a26
+cd568d6acb2f14477ebf7e59fb382292	Fussball (1982)(Ariola)(PAL)[aka International Soccer].a26
+c1fdd44efda916414be3527a47752c75	G.I. Joe - Cobra Strike (1983)(Parker Bros)(NTSC).a26
+b49331b237c8f11d5f36fe2054a7b92b	Galactic (198x)(Funvision)(PAL)[p].a26
+13a991bc9c2ff03753aeb322d3e3e2e5	Galactic (198x)(Rainbow Vision)(PAL).a26
+c745487828a1a6a743488ecebc55ad44	Galactic (198x)(Starsoft)(PAL).a26
+01b09872dcd9556427761f0ed64aa42a	Galaga (19xx)(-)(NTSC)[h][River Raid].a26
+211774f4c5739042618be8ff67351177	Galaxian (1983)(Atari)(NTSC).a26
+13a37cf8170a3a34ce311b89bde82032	Galaxian (1983)(Atari)(PAL).a26
+18dc28bc22402f21e1c9b81344b3b8c5	Galaxian (1983)(Atari)(PAL)[a].a26
+218b76f5a4142dc2ea9051a768583d70	Galaxian (1983)(Atari)(PAL)[p][Fake Atari Silver].a26
+72c0531d5dd1e5f503d34f687d5b3cf4	Galaxian (1983)(Atari)[b].a26
+d65028524761ef52fbbdebab46f79d0f	Galaxian (1983)(CCE)(NTSC)(BR).a26
+579baa6a4aa44f035d245908ea7a044d	Galaxian (2001)(Ragan, Jass)(NTSC)[h].a26
+ab6ec1105e74f6a255bc89c322c6f955	Galaxian ND (2004)(Retrofan)(NTSC)[h].a26
+7f31805fa6a2a4cceab30fc93f5c3efb	Galaxian Targ (2005)(Jim C.)(NTSC)[h][Targ].a26
+0e76742ed0e723f74c73b9d4dc702f15	Game of 2600 Concentration, A (2004)(Snorlaxnut)(NTSC)[h][Concentration].a26
+31f4692ee2ca07a7ce1f7a6a1dab4ac9	Game of Concentration, A (1978)(Atari)(NTSC)[o][Atari Keypad].a26
+a7523db9a33e9417637be0e71fa4377c	Gangster (1981)(Ariola)(PAL)[aka Outlaw].a26
+20edcc3aa6c189259fa7e2f044a99c49	Gangster Alley (1982)(Spectravision)(NTSC).a26
+bae66907c3200bc63592efe5a9a69dbb	Gangster Alley (1983)(Spectravideo)(PAL).a26
+47aad247cce2534fd70c412cb483c7e0	Gangster Alley (1983)(Spectravideo)(PAL)[h].a26
+e32acc115af7dc14a893cff0b1645dcb	Garden Invaders (2005)(Jamcat)(NTSC)[h][Space Invaders].a26
+dc13df8420ec69841a7c51e41b9fbba5	Garfield (1984)(Atari)(NTSC)(proto).a26
+728152f5ae6fdd0d3a9b88709bee6c7a	Gas Hog (1983)(Spectravideo)(NTSC).a26
+b1486e12de717013376447ac6f7f3a80	Gas Hog (1983)(Spectravideo)(PAL)[aka Marspatrouille].a26
+e64a8008812327853877a37befeb6465	Gauntlet (1983)(Answer Software)(NTSC).a26
+f802fa61011dd9eb6f80b271bac479d0	Gefaehrliche Maeusejagt (198x)(Starsoft)(PAL).a26
+e784a9d26707cfcd170a4c1c60422a72	Gefecht im All (198x)(Starsoft)(PAL)[h][Space Jockey].a26
+2d16a8b59a225ea551667be45f554652	Geheimkurier, Der (198x)(Starsoft)(PAL)(DE)[aka Mr Postman].a26
+7e464186ba384069582d9f0c141f7491	General Retreat (198x)(Playground)(PAL)[aka Custer's Revenge].a26
+0eecb5f58f55de9db4eedb3a0f6b74a8	Ghost Manor (1983)(Xonox)(NTSC).a26
+2bee7f226d506c217163bad4ab1768c0	Ghost Manor (1983)(Xonox)(NTSC)[o].a26
+40d8ed6a5106245aa79f05642a961485	Ghost Manor (1983)(Xonox)(PAL)[o].a26
+3b10106836565e5db28c7823c0898fbb	Ghost Manor (1983)(Xonox)(PAL)[o][a].a26
+15a5fe484448a5582418923a3952e3c7	Ghost Manor (1983)(Xonox)[b].a26
+28c04cc802e5c30e9369366c11dd1986	Ghost Manor (1983)(Xonox)[o2].a26
+701e4d3e521d68546dfdc13b7bcc36d2	Ghost Trap (2005)(Snorlaxnut)(NTSC)[h][Mouse Trap].a26
+e314b42761cd13c03def744b4afc7b1b	Ghostbusters (1984)(Activision)(NTSC).a26
+f7d6592dcb773c81c278140ed4d01669	Ghostbusters (1984)(Activision)(PAL).a26
+721a5567f76856f6b50a6707aa8f8316	Ghostbusters (1984)(Activision)(PAL)[a].a26
+840a5a2eaea24d95d289f514fd12f9bb	Ghostbusters - Improved (2003)(King Atari)(NTSC)[h].a26
+718ee85ea7ec27d5bea60d11f6d40030	Ghostbusters II (1992)(Salu)(NTSC)[f NTSC - Jentzsch, Thomas].a26
+c2b5c50ccb59816867036d7cf730bf75	Ghostbusters II (1992)(Salu)(PAL).a26
+643e6451eb6b8ab793eb60ba9c02e000	Ghostbusters II (1992)(Salu)(PAL)[a].a26
+7b33407b2b198af74906b936ce1eecbb	Ghostbusters II - Easy (2003)(King Atari)(NTSC)[h].a26
+d36308387241e98f813646f346e7f9f7	Ghostbusters II - Easy (2003)(King Atari)(PAL)[h].a26
+1c8c42d1aee5010b30e7f1992d69216e	Gigolo (1982)(Playaround)(NTSC).a26
+5e0c37f534ab5ccc4661768e2ddf0162	Glacier Patrol (1983)(Telegames)(NTSC).a26
+72db1194b1cc7d45b242f25eb1c148d3	Glorb (2000)(-)(NTSC)[h][Pac-Man].a26
+2e663eaa0d6b723b645e643750b942fd	Golf (1978)(Atari)(NTSC).a26
+f542b5d0193a3959b54f3c4c803ba242	Golf (1978)(Atari)(NTSC)[o].a26
+9d522a3759aa855668e75962c84546f7	Golf (1978)(Atari)(PAL).a26
+8b8152d6081f31365406cb716bd95567	Golf (1978)(Atari)(PAL)[p][o][MiniGolf].a26
+a56b642a3d3ab9bbeee63cd44eb73216	Gopher (1982)(Carrere Video)(PAL).a26
+c16c79aad6272baffb8aae9a7fff0864	Gopher (1982)(US Games)(NTSC).a26
+06db908011065e5ebb37f4e253c2a0b0	Gopher (1982)(US Games)(PAL)[p].a26
+81b3bf17cf01039d311b4cd738ae608e	Gorf (1982)(CBS Electronics)(NTSC).a26
+3e03086da53ecc29d855d8edf10962cb	Gorf (1982)(CBS Electronics)(PAL).a26
+4fc5d22346bd2b6f33b42eb3720a47d3	Gorf Arcade (2004)(Dr. Kwack)(NTSC)[h].a26
+6d0327b9131f7b5a615b38a779d2bc37	Gyruss (1998)(Parker Bros)(NTSC)[F4].a26
+3eb05c248759fccb8e4502f075224a4d	Gyruss (1998)(Parker Bros)(PAL)[F4].a26
+13d938def7a8f988cddf4563b25c90be	Hack 'Em (2004-05-10)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][unnamed version].a26
+224a25c1f2a0fa2503238b55fcba218b	Hack 'Em (2004-05-11)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Intermission Test 2].a26
+f788b15b4b54daee7cd38ef3f28aa816	Hack 'Em (2004-05-11)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Intermission Test].a26
+503f6a9149615c35066af874471ef53d	Hack 'Em (2004-05-11)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Violins].a26
+f91a19f124b388d978c52cedd0df6c32	Hack 'Em (2004-05-15)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+e0b796c553ed0af6c20946f681320e97	Hack 'Em (2004-05-17)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+4350d5ecc2efc84455d33339f46c316e	Hack 'Em (2004-05-17)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 2].a26
+86d9ce3dd8efc00a9984c5ee147e1daa	Hack 'Em (2004-05-17)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 3].a26
+76175e9fa8f0118b0588ba899251cfea	Hack 'Em (2004-05-17)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 4].a26
+06d4c6f3a6a511a6ec00835dd81a19da	Hack 'Em (2004-05-17)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 5].a26
+47a49a08ddc69e6b5438223307c4440d	Hack 'Em (2004-05-17)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 6].a26
+042e1931220f66ee82b5d864113efaae	Hack 'Em (2004-05-18)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+e7c4ecc584f8f8c0441ad6f144414111	Hack 'Em (2004-05-19)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+6c7982e3a3595198f8f5c77ef7f1b732	Hack 'Em (2004-05-24)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+2a17d7a2b43985357ed61b39ff2d8835	Hack 'Em (2004-05-25)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+4bced1bc72d4013ec984236f910c4fd1	Hack 'Em (2004-07-29)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+1cd060932244e4e97e449859841f5cbb	Hack 'Em (2004-08-02)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+0671d513a87769b027841a612cca42b9	Hack 'Em (2004-08-02)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 2].a26
+8e5801243b6636072dc643c6c89b676c	Hack 'Em (2004-08-23)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+2e366f25ecb08a5ddd227d57c637ee11	Hack 'Em (2004-08-23)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 2].a26
+dccc849129ebaa843f60389c2ec8ea2b	Hack 'Em (2004-08-24)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+80fa36f7a252c8acaf35ba1c631f468c	Hack 'Em (2004-08-24)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 3].a26
+21f8250db6c1385c0ef8b03e05052a30	Hack 'Em (2004-08-25)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+947619d474abb08106cdf9b7c1a7e57f	Hack 'Em (2004-08-26)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+dfde3e5a80b78bd3738d537d4c63c9d1	Hack 'Em (2004-08-26)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 2].a26
+e6db40f6389a47fb0818bfeb5fc79b2a	Hack 'Em (2004-08-27)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+b8de61c80454143e801d02e749b205e4	Hack 'Em (2004-08-27)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 2].a26
+2b4b5f386676848bb1d87805e911ed65	Hack 'Em (2004-08-28)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+dd9a2dbb7713148a0530d93706a7b017	Hack 'Em (2004-08-28)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 2].a26
+9103988711ffb8a08a548325cba512fc	Hack 'Em (2004-08-28)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 3].a26
+44b686a12e7d57c8071b962972816376	Hack 'Em (2004-08-28)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 4].a26
+2f377fa47e466ad592711143fe9cb422	Hack 'Em (2004-08-28)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 5].a26
+f3488115c6710b6cc8a9d0e92b18d305	Hack 'Em (2004-08-29)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+4ec36edd97741d0e3962cce6459f1e12	Hack 'Em (2004-08-29)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 2].a26
+5dd5761d6cc6bf3b20bf0bea8a56434c	Hack 'Em (2004-08-29)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 3].a26
+bffb7ec19c60d735d68b3753a571d2a2	Hack 'Em (2004-08-30)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+f66a16301e0daefa414c569b8ab4b66c	Hack 'Em (2004-08-30)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 2].a26
+7b7877ea93424303fc1c691648ac5e12	Hack 'Em (2004-08-30)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 3].a26
+eed2254ba7db6fd1e615585b68f344e8	Hack 'Em (2004-08-30)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 4].a26
+8cf37ed19205b20850c76617f9528b13	Hack 'Em (2004-08-31)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+4e95fc3814d12c5a3a0c7a83eba65849	Hack 'Em (2004-08-31)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 2].a26
+21e73ef84e8497d0664068437e8bb966	Hack 'Em (2004-09-01)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+8f7cbdbc43b0dc1977c74ddb6caad05b	Hack 'Em (2004-09-01)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 2].a26
+2a7e45e46c371653e8fdd804c0ef0045	Hack 'Em (2004-09-02)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+72667050cc020b1c720489e7cd485ce7	Hack 'Em (2004-09-02)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 2].a26
+cadeb2a821ec625e95466cfa92f488fa	Hack 'Em (2004-09-03)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+098dd12850fd84f519c3df90c0321a29	Hack 'Em (2004-09-03)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 2].a26
+ee2eb107b1fa2b72cd72c0b62f87e7a0	Hack 'Em (2004-09-04)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+40e88174fad6ff2a0d86e99c20c6b611	Hack 'Em (2004-09-04)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 2].a26
+1f2083e644f20df313b9920ebb584c30	Hack 'Em (2004-09-05)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+c8a921f2e79669c83fedbee5a6ee6132	Hack 'Em (2004-09-05)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 3].a26
+b4f919cc452055e2a5d2c57dee898d09	Hack 'Em (2004-09-06)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+61760ff0e190bc0e0a8c95a7ccfe735d	Hack 'Em (2004-09-07)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+376548a9093dedeefb8c0b61118d2ec2	Hack 'Em (2004-09-07)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 2].a26
+d833c065b138d8b7a4398cbebc058070	Hack 'Em (2004-09-07)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 4].a26
+d8d176cbe3f1fda4b94c97522fa234b1	Hack 'Em (2004-09-07)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 5].a26
+4a00fa29951ea60ebdd0cb3745355d00	Hack 'Em (2004-09-07)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 6].a26
+5d314fed2762be227dfde1985adb3bfd	Hack 'Em (2004-09-10)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+4a05c331962ba50342c56c7c04808b0c	Hack 'Em (2004-09-11)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+51d3ea9f53d9bcc452e5c6b4bfe5553d	Hack 'Em (2004-10-06)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Release Candidate 1].a26
+b289b2673ac69b7d8f585df55e4a9bd1	Hack 'Em (2004-10-07)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Release Candidate 2].a26
+11a0de80088ff788f621fd25c5c170b7	Hack 'Em (2004-10-27)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+3a910a442daae44166f84a0e435683e6	Hack 'Em (2004-10-28)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+545cb825772acc5b146e04d3724e2e2e	Hack 'Em (2004-10-28)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 2].a26
+60f0d603cffa66efc76a3058b17c6d1a	Hack 'Em (2004-10-29)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+f6e439bef7b7deab28b6ac6d01832710	Hack 'Em (2004-12-03)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+9d3d120ae5d7dc066008bbedb52fba69	Hack 'Em (2005-01-10)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+23fc32e62a53d09e9115f37f3e7e6cc4	Hack 'Em (2005-01-10)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 2].a26
+0fbe3ad57c005c6d839f514bb0c2aa68	Hack 'Em (2005-01-10)(Shay, Nukey)(PAL)(pre-release)[h][Pesco][Daily Release 1].a26
+863922b2f87cb39fe459a021eb5f3558	Hack 'Em (2005-01-10)(Shay, Nukey)(PAL)(pre-release)[h][Pesco][Daily Release 2].a26
+9e557b84bbb37245b6cf0221225ccfc9	Hack 'Em (2005-01-11)(Shay, Nukey)(PAL)(pre-release)[h][Pesco][Daily Release].a26
+8697809a4f71a65ca0be40f4672d6f89	Hack 'Em (2005-01-12)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+a6610fa50d322631c73f179b66a0e219	Hack 'Em (2005-01-12)(Shay, Nukey)(PAL)(pre-release)[h][Pesco][Daily Release].a26
+4164445ce4de1186718c72e44cede767	Hack 'Em (2005-01-21)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+90814c8a12cd8000effbdfbb4a199921	Hack 'Em (2005-01-21)(Shay, Nukey)(PAL)(pre-release)[h][Pesco][Daily Release 1].a26
+96fd9a40a581932880019843fcdc2bf4	Hack 'Em (2005-01-22)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+d0a692b419dae58e0b605f3c0949a9de	Hack 'Em (2005-01-22)(Shay, Nukey)(PAL)(pre-release)[h][Pesco][Daily Release 1].a26
+5b5fc717a0fb628b2c1a567dbdc6c5ca	Hack 'Em (2005-01-23)(Shay, Nukey)(NTSC)[h][Pesco].a26
+aa672124e9f10ca5b7d35fb09b74b0bb	Hack 'Em (2005-01-23)(Shay, Nukey)(NTSC)[h][Pesco][Pause Test].a26
+0c847beac5c6e278f50d8b1a043352d9	Hack 'Em (2005-01-23)(Shay, Nukey)(PAL)[h][Pesco].a26
+8c272dd32a1daa47713cde8fb461278c	Hack 'Em (2005-01-23)(Shay, Nukey)(PAL)[h][Pesco][Pause Test].a26
+3f499d642eb2d569f4f40d0938dd5453	Hack 'Em (2005-02-10)(Shay, Nukey)(NTSC)[h][Pesco][Bugfix 1].a26
+456da5f59b918d8e71d62a761be2df29	Hack 'Em (2005-02-10)(Shay, Nukey)(NTSC)[h][Pesco][Bugfix 2].a26
+2a3350eb8504dbc4f5342c0083871d46	Hack 'Em (2005-02-10)(Shay, Nukey)(NTSC)[h][Pesco][Bugfix 3].a26
+8f6297407c75ddca771d5b5470d8a960	Hack 'Em (2005-02-10)(Shay, Nukey)(PAL)[h][Pesco][Bugfix 1].a26
+751aabd0c4942772182442c70c186a49	Hack 'Em (2005-02-10)(Shay, Nukey)(PAL)[h][Pesco][Bugfix 2].a26
+69aaf4e8156f111607694c9df78181b3	Hack 'Em (2005-02-10)(Shay, Nukey)(PAL)[h][Pesco][Bugfix 3].a26
+f72c773f837e25ca55770004ed78076b	Hack 'Em (2005-09-22)(Shay, Nukey)(NTSC)[h][Pesco].a26
+177b64dfb030cea216b9332347c285c3	Hack 'Em (2005-09-22)(Shay, Nukey)(PAL)[h][Pesco].a26
+9e58cc55d915633579605d176f272c32	Hack 'Em (2005-09-22)(Shay, Nukey)(PAL60)[h][Pesco].a26
+36d594f16f0e637268a9014392337302	Hack 'Em (2005-11-12)(Shay, Nukey)(NTSC)[h][Pesco].a26
+cb1f661fdcd79726693d09b9bd3f0306	Hack 'Em (2005-11-12)(Shay, Nukey)(PAL)[h][Pesco].a26
+8fadfc996410e8ba107cf78b9ad0fb36	Hack 'Em (2005-11-12)(Shay, Nukey)(PAL60)[h][Pesco].a26
+c70cd249ea2f27f352978ec84b87acd9	Hack 'Em (2005-11-19)(Shay, Nukey)(NTSC)[h][Pesco].a26
+ba6682068259b40c47ff3e4ed26c678b	Hack 'Em (2005-11-19)(Shay, Nukey)(PAL)[h][Pesco].a26
+1662a2d1a49fa1a03e8603d590228acf	Hack 'Em (2005-11-19)(Shay, Nukey)(PAL60)[h][Pesco].a26
+dc8182bfaa4fbd34f048c553a166d509	Hack 'Em (2005-11-29)(Shay, Nukey)(NTSC)[h][Pesco].a26
+403901180d210896fae247cd05af3178	Hack 'Em (2005-11-29)(Shay, Nukey)(PAL)[h][Pesco].a26
+2c057d84712397627aa496e8e970d8f1	Hack 'Em (2005-11-29)(Shay, Nukey)(PAL60)[h][Pesco].a26
+1c8d756f34369c27fa3ed6285b3d2903	Hack 'Em (2006-04-10)(Shay, Nukey)(NTSC)[h][Pesco].a26
+d0ba172e5e2fe596ded603d59f1e87e3	Hack 'Em (2006-04-10)(Shay, Nukey)(PAL)[h][Pesco].a26
+8566fb1df9a1514de112685978c42ea8	Hack 'Em (2006-04-10)(Shay, Nukey)(PAL60)[h][Pesco].a26
+2ec2e4995b3a80dd068e72eb675d382a	Hack 'Em (2006-04-15)(Shay, Nukey)(NTSC)[h][Pesco].a26
+b490a70ed3796bccd46ff3f9db092640	Hack 'Em (2006-04-15)(Shay, Nukey)(PAL)[h][Pesco].a26
+bff1c45f4d55afa05dcaf0f6ea2aa198	Hack 'Em (2006-04-15)(Shay, Nukey)(PAL60)[h][Pesco].a26
+5ebd5d6ba6e2ae6a3030a95a1e0cdbad	Hack 'Em (2006-04-24)(Shay, Nukey)(NTSC)[h][Pesco].a26
+b0894382da53d4f4fca82854f4a17bec	Hack 'Em (2006-04-24)(Shay, Nukey)(PAL)[h][Pesco].a26
+497e09b674de502e440d5a43cd967a15	Hack 'Em (2006-04-24)(Shay, Nukey)(PAL60)[h][Pesco].a26
+9c8f40941daca00c5cf8db12c9079355	Hack 'Em (2006-04-27)(Shay, Nukey)(NTSC)[h][Pesco].a26
+7b765b27123a4ef1cf756a98e70c4e43	Hack 'Em (2006-04-27)(Shay, Nukey)(PAL)[h][Pesco].a26
+a88180fc95759337416212bba11e65d9	Hack 'Em (2006-04-27)(Shay, Nukey)(PAL60)[h][Pesco].a26
+18d87ee5e57b8a424571732736ee6035	Hack 'Em (2006-04-29)(Shay, Nukey)(NTSC)[h][Pesco].a26
+da0482ef33b9af0b128fd01453c2b814	Hack 'Em (2006-04-29)(Shay, Nukey)(PAL)[h][Pesco].a26
+e94d3417c1e02e0ff941a5f40e22e254	Hack 'Em (2006-04-29)(Shay, Nukey)(PAL60)[h][Pesco].a26
+16dd8c667fd611866e65a9b3eb277b63	Hack 'Em 16k (2006-04-10)(Shay, Nukey)(NTSC)[h][Pesco].a26
+668f8b3e173c87d5a4c0cee2ff3bd88d	Hack 'Em 16k (2006-04-10)(Shay, Nukey)(PAL)[h][Pesco].a26
+2bd45971f258fd347211089b0b8af308	Hack 'Em 16k (2006-04-10)(Shay, Nukey)(PAL60)[h][Pesco].a26
+05b2d7e7c22956d76da93b43a0dda070	Hack 'Em 16k (2006-04-15)(Shay, Nukey)(NTSC)[h][Pesco].a26
+161cf32745d90a81bdbc961986119672	Hack 'Em 16k (2006-04-15)(Shay, Nukey)(PAL)[h][Pesco].a26
+985396f471aabbe23d9bfc21f2b32749	Hack 'Em 16k (2006-04-15)(Shay, Nukey)(PAL60)[h][Pesco].a26
+4f43241db488cccbf39d941c306206fc	Hack 'Em 16k (2006-04-24)(Shay, Nukey)(NTSC)[h][Pesco].a26
+7e8c6674b7427551f5228512aa8b86de	Hack 'Em 16k (2006-04-24)(Shay, Nukey)(PAL)[h][Pesco].a26
+350108477e3110b18f0351596fc2e78a	Hack 'Em 16k (2006-04-24)(Shay, Nukey)(PAL60)[h][Pesco].a26
+211dbb439cd2f55ed3f8c32b4bdb38a3	Hack 'Em 16k (2006-04-27)(Shay, Nukey)(NTSC)[h][Pesco].a26
+01c2e30eca9e30d82c03dab844221a7e	Hack 'Em 16k (2006-04-27)(Shay, Nukey)(PAL)[h][Pesco].a26
+d5b5cbdafdc09fb934add8baf9713dfe	Hack 'Em 16k (2006-04-27)(Shay, Nukey)(PAL60)[h][Pesco].a26
+2a5498af981ccd8152c9aa650de6d31a	Hack 'Em 16k (2006-04-29)(Shay, Nukey)(NTSC)[h][Pesco].a26
+ae7f8e93d676a6a8f9f1fbb5d138419a	Hack 'Em 16k (2006-04-29)(Shay, Nukey)(PAL)[h][Pesco].a26
+dae6593257cb26648ffc724a09f26e73	Hack 'Em 16k (2006-04-29)(Shay, Nukey)(PAL60)[h][Pesco].a26
+e5ba2a0b59352521a21c9e28d1c653f7	Hack 'Em 4k (2004-05-03)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][unnamed version].a26
+1c6eece3438f787456745e8d699114ce	Hack 'Em 4k (2004-05-04)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][unnamed version].a26
+57ac9dcd4018e167770f99a2c49dc02b	Hack 'Em 4k (2004-05-06)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][180 dots].a26
+266e2bae25d4e1ad47e25152e6a4b130	Hack 'Em 4k (2004-05-06)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][equal points].a26
+bac646aa261309abf0c5e3aa8e847478	Hack 'Em 4k (2004-05-06)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][unnamed version].a26
+3d5067004b14fbd6f3e20880493ba369	Hang-On (2003)(mojofltr)(NTSC)[h][Enduro].a26
+a9130ca4ac9fe88d22ec4e4b1c074431	Hang-On ATV (2003)(mojofltr)(NTSC)[h][Enduro].a26
+87f8967ede6cf72dedb1e465037bbd5a	Hanged Man, The (2003)(neotokeo2001)(NTSC)[h][Hangman].a26
+a7d55bb908d0d87e0709adcf1c7c4ca5	Hangly Man (2004-05-08)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 1].a26
+add0afcfae51f289f9be1f024dbdcecf	Hangly Man (2004-05-08)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release 2].a26
+60bc81936639e43144d71382560cbf56	Hangly Man (2004-05-09)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+6ab53adc9af38ada6c2cf03a4bd4f108	Hangly Man (2004-05-10)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+8cd86f95b8086a5aa9f76af3e7bb623f	Hangly Man (2004-05-11)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Intermission Test 1].a26
+58974eefbde64e9ed341890cd0f27aa3	Hangly Man (2004-05-11)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Intermission Test 2].a26
+0c3b53ebda700fe4644fd672cfad2d89	Hangly Man (2004-05-11)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Intermission Test 3].a26
+fa6b6b45344f45721b77998d44ee889a	Hangly Man (2004-05-12)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Intermission Test].a26
+1f17d7d8b2c4a8a8646544764d990a42	Hangly Man (2004-05-18)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+f308386ce032ba622e9a871cc76853b4	Hangly Man (2004-05-19)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+e94499885c24fb9dc9f60176cdf7509e	Hangly Man (2004-05-24)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+bb23483224cf65655e73c6983bc56865	Hangly Man (2004-05-25)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+81522f30b5fcfbdf0932d30d7359e09c	Hangly Man (2004-07-29)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Daily Release].a26
+92f90412bdc87de8bd64d9cc52f85133	Hangly Man (2004-08-02)(Shay, Nukey)(NTSC)(pre-release)[h][Pesco][Music].a26
+e77b225921806c0b5dc02390c11fb1e5	Haunted Adventure - Boo! (2004)(Wong, Anthony W)(NTSC)[f][h][Adventure].a26
+9b464a7fc28345973c61ec1a4e639584	Haunted Adventure - Boo! (2004)(Wong, Anthony W)(NTSC)[h][Adventure].a26
+5d02808fdbcc0baa9f2c51b3797d9e7a	Haunted Adventure - Boo! RC3 (2004)(Wong, Anthony W)(NTSC)(pre-release)[h][Adventure].a26
+c3cf3d5284057582dda276cd10536a94	Haunted Adventure - Boo! RC4 (2004)(Wong, Anthony W)(NTSC)(pre-release)[h][Adventure].a26
+67141113a3e7fd65465f8fba579987dd	Haunted Adventure - Boo! RC5 (2004)(Wong, Anthony W)(NTSC)(pre-release)[h][Adventure].a26
+321cabac345d88c8995f8191aacacc44	Haunted Adventure - Boo! RC6 (2004)(Wong, Anthony W)(NTSC)(pre-release)[h][Adventure].a26
+0375a0893358614a2c9c0a62ec3cc1a8	Haunted Adventure - Boo! RC7 (2004)(Wong, Anthony W)(NTSC)(pre-release)[h][Adventure].a26
+610c5f8a514f540410671ed3cb3ccf41	Haunted Adventure - Boo! v1.03 (2004)(Wong, Anthony W)(NTSC)[h][Adventure].a26
+a5037879b3020cd30191190bff4869af	Haunted House (1981)(Atari)(beta)[b].a26
+fcc6e464bb049ff34dc163fa68954641	Headhunter (2003)(neotokeo2001)(NTSC)[h][Galaxian].a26
+260c787e8925bf3649c8aeae5b97dcc0	Hell Driver (1983)(ITT Family Games)(NTSC)[f NTSC - Jentzsch, Thomas].a26
+47701cfc1e54941cff27d2779e43c7cb	Hell-O-Ween (2003)(Racoon Lad)(NTSC)[h][Pitfall!].a26
+e63beb52bc37453f6d596fb9f9424657	Helo Wars (2004)(Atari Troll)(NTSC)[h][Time Pilot].a26
+deb78c181a2acedf1bfe6a3062da384e	Holiday Combat - Menorah (2003)(Matley, Zach)(NTSC)[h][Combat].a26
+ae2aaaad105f2ac32d3d7d6898ece68d	Holiday Combat - Snowman (2003)(Matley, Zach)(NTSC)[h][Combat].a26
+3ee0aa98eab09e5bbf0ffd43d0e6b1e3	Holiday Combat - Tree (2003)(Matley, Zach)(NTSC)[h][Combat].a26
+d754c8635d50c881f1b69a8ad7118aaf	Homestar Runner (2004)(Lesser Raven)(NTSC)[h][Donkey Kong].a26
+42dcc02777b0bcfacd85aeb61d33558a	Human Cannonball (1979)(Atari)(PAL)[aka Cannon Man][p][o][Cannonfire].a26
+17deb4af3a8ffb3a9e6f371346fa61f0	Ikari Warriors (1990)(Atari)(PAL)[b].a26
+b9c3bc1d77f8e9d814735188bf324e40	James Bond 007 (1983)(Parker Bros)[b].a26
+25a21c47afe925a3ca0806876a2b4f3f	Kleine Bar, Der (1983)(Starsoft - Quelle)(PAL)(DE)[aka Frostbite][685.640 5].a26
+4baada22435320d185c95b7dd2bcdb24	Krull (1983)(Atari - Staugas, Dave)(NTSC)[CX2682].a26
+00dc28b881989c39a6cf87a892bd3c6b	Krull (198x)(CCE)(NTSC)(BR).a26
+95a89d1bf767d7cc9d0d5093d579ba61	Lady in Wading (1982)(Playaround - J.H.M.)(NTSC)[204].a26
+858abdc9deba2f248e073d01c356e1ab	Lady in Wading (1982)(Playaround)[b].a26
+fe9f8cbfa6c5ae0339838985c5ca36e3	LaserMan (19xx)(-)[h Keystone Kapers][b].a26
+66ece7737353bec3827b20bde155e3b5	Legend of Zelda 2600 (2003)(Pittman, Kyle)(NTSC)[h][Tutankham].a26
+86128001e69ab049937f265911ce7e8a	Lochjaw (1981)(Apollo)(NTSC)[AP-2005].a26
+5babe0cad3ec99d76b0aa1d36a695d2f	Looping (1983)(Coleco - Individeo)(NTSC)(proto)[2654].a26
+a86039c401d0023a2cd70ff33db7005b	Magic Show (2003)(Randy)(NTSC)[h][Adventure].a26
+54a1c1255ed45eb8f71414dadb1cf669	Mangia' (1983)(Spectravideo)(NTSC)[SA-212].a26
+d8295eff5dcc43360afa87221ea6021f	Mangia' (1983)(Spectravideo)(PAL)[SA-212].a26
+ea73c37117633a1a3b1565a905447b11	Mangia' SE (1983)(Spectravision)(NTSC)[h].a26
+4e6a52b1f8ae47d836f64b3645aa43e9	Marauder (1982)(Tigervision)[b2].a26
+6b8ad2c3c95371b3a6b0182927ede6ed	Marauder (1982)(Tigervision)[b3].a26
+2a156728c0123034bd73e25bf8c70a88	Marauder (1982)(Tigervision)[b].a26
+6f0103d8e2cd97fc2253a2a287a0924d	Marble Craze (2002)(Slocum, Paul)[b].a26
+baf6ef06ac67a44feeb9d956612055ba	Marble Craze v0.90 (2002)(Slocum, Paul)[b].a26
+73bea52870d082da703d3d82ff4ec8a3	Masters of the Universe - The Power of He-Man (1983)(Mattel)[b].a26
+0e8eba306ce84319b013d3f8e053926c	Masters of the Universe - The Power of He-Man (198x)(Mattel)(NTSC)[hMF4].a26
+364f17cc8f261082f55d48d820d46830	Medieval Mayhem (2006-03-27)(Spice, Darrell Jr.)(NTSC).a26
+ff0ab567c3f6029f0bb7967bd1f351a9	Medieval Mayhem (2006-04-01)(Spice, Darrell Jr.)(NTSC).a26
+e7786b0d902dfd81a7047e7e99e54076	Medieval Mayhem (2006-04-04)(Spice, Darrell Jr.)(NTSC).a26
+6a86deeff7b0b310de48f5a009c05ce7	Medieval Mayhem (2006-04-18)(Spice, Darrell Jr.)(NTSC).a26
+c32e5ce01a8ea3560af7817a228ad256	Medieval Mayhem (2006-04-18)(Spice, Darrell Jr.)(PAL).a26
+e4b2471edeb2a28ee435e3e784923189	Medieval Mayhem (2006-04-22)(Spice, Darrell Jr.)(NTSC).a26
+a91da39e20ebcd781391af89b5538650	Medieval Mayhem (2006-04-22)(Spice, Darrell Jr.)(PAL).a26
+8e0c527173c138e87d195ffcbaef20df	Medieval Mayhem (2006-04-27)(Spice, Darrell Jr.)(NTSC).a26
+abced2f0f941af470967f20aea193ea7	Medieval Mayhem (2006-04-27)(Spice, Darrell Jr.)(PAL).a26
+f2e68162548e1fa8353a9d4e9fc1f299	Medieval Mayhem (2006-04-28)(Spice, Darrell Jr.)(NTSC).a26
+16df58cb0f59d82dfe5d3a7ed88e3cd9	Medieval Mayhem (2006-04-28)(Spice, Darrell Jr.)(NTSC)[a].a26
+0198ee6fc84c593ebe72808cbc1cf57b	Medieval Mayhem (2006-04-28)(Spice, Darrell Jr.)(PAL).a26
+55e4d56513f3fdf66400ebf9af079337	Medieval Mayhem (2006-04-28)(Spice, Darrell Jr.)(PAL)[a].a26
+72ac009e84c1c85d7e4fd81c2c852204	Midnight Magic (1984)(Atari)[b].a26
+471dbaff8ed670d44aad9c6a0842277e	Millipede (1984)(Atari)[b].a26
+005ea4b9f089336ab7ae46440513a9d3	Miner 2049er (1982)(Tigervision)[b2].a26
+b21ee4639476eaec8204f00c712b7497	Miner 2049er (1982)(Tigervision)[b].a26
+e2cff4a96b91fcf5de694b7480a612ae	Miner 2049er Volume II (1983)(Tigervision)(PAL)[b2].a26
+2723e442d55d741a8e2d9293108cd5ed	Miner 2049er Volume II (1983)(Tigervision)[b].a26
+855a42078b14714bcfd490d2cf57e68d	Miss Piggy's Wedding (1983)(Atari)(proto)[b][CX26113].a26
+bb34d1b831aa1f6b3c3452d80d01a759	Miss Piggy's Wedding (19xx)(Prototype)[b2].a26
+1a8204a2bcd793f539168773d9ad6230	Missile Command (1981)(Atari - Sears)(NTSC)[h No Initials][CX2638, 49-75166].a26
+53d181cde2e0219b5754caad246fcb66	Missile Demo (1998)(Bailey, Ruffin)(PD).a26
+8047b57be39445bf0a71939195f68e10	Mission 3000 A.D. (1983)(BitCorp)(PAL)[b].a26
+4b8e76a294a04036168f5b13c64911d2	Moon Patrol (1982)(Shock Vision)(BR)[possible unknown mode].a26
+515046e3061b7b18aa3a551c3ae12673	Moon Patrol (1983)(Atari - GCC)(NTSC)[CX2692].a26
+7db7c5fd8d3f53127a4bb0092c91d983	Moonsweeper (1983)(Imagic)[b].a26
+5635cd67fb680424254ec156c42deee0	Motocross & Pole Position (19xx)(JVP - Starsoft)(PAL)[b][possible unknown mode].a26
+9a4274409216ff09ecde799f2a56ac73	Mr. Postman (1983)(CCE)[aka O Carteiro][b].a26
+6c1ca1ce56acd4b09a55acb25f248bf8	Ms. Hack (2005-05-02)(Shay, Nukey)(NTSC)[h][Pesco].a26
+50c5da99a6a3c48e81829e180168fa8d	Music Machine, The (1983)(Sparrow)[b].a26
+0223b8bb6aa7a9413b2e3c5aba2567c6	My Golf (1990)(CCE - HES)[b].a26
+213778c2dd39c246a528609ce6a1ef9e	My Golf (1990)(HES)(PAL)[b][h][Combat Redux Submissions].a26
+ec0155364bd1d8440da8f32cf6f3ccd6	Nightmare (1983)(CCE - Sancho)[b].a26
+5859753bf77799cebae6e397c99bd384	Nightmare (1983)(Sancho)[b].a26
+d8df256c0d89e494a9fb3e9abb8e44ac	No Escape! (1983)(Imagic)(PAL)[b].a26
+637efac676ff063f2fbb0abff77c4fa5	Noize Maker Demo (19xx)(-)(PD).a26
+131864e1d18d3406048700d3c0760417	Off the Wall (1989)(Atari)(PAL)[b].a26
+59135f13985b84c4f13cc9e55eec869a	Oystron v2.0 (1997)(Cavina, Piero)(NTSC)(pre-release)(PD)[aka Multi-Sprite Game].a26
+7197b6cbde6ecd10376155e6b848e80d	Oystron v2.1 (1997)(Cavina, Piero)(NTSC)(pre-release)(PD)[aka Multi-Sprite Game].a26
+585600522b1f22f617652c962e358a5d	Oystron v2.2 (1997)(Cavina, Piero)(NTSC)(pre-release)(PD)[aka Multi-Sprite Game].a26
+e609e8a007127b8fcff79ffc380da6b1	Oystron v2.3 (1997)(Cavina, Piero)(NTSC)(pre-release)(PD)[aka Multi-Sprite Game].a26
+50ef88f9a5e0e1e6b86e175362a27fdb	Oystron v2.4 (1997)(Cavina, Piero)(NTSC)(pre-release)(PD)[aka Multi-Sprite Game].a26
+157356f80c709ab675961d8b8b207e20	Oystron v2.5 (1997)(Cavina, Piero)(NTSC)(PD)[aka Multi-Sprite Game].a26
+4689081b7363721858756fe781cc7713	Oystron v2.6 (1997)(Cavina, Piero)(NTSC)(PD).a26
+26f4f8b098609164effef7809e0121e1	Oystron v2.7 (1997)(Cavina, Piero)(NTSC)(PD).a26
+e6508b878145187b87b9cded097293e7	Oystron v2.8 (1997)(Cavina, Piero)(NTSC)(PD).a26
+70d14c66c319683b4c19abbe0e3db57c	Oystron v2.82 (1997)(Cavina, Piero)(NTSC)(PD).a26
+5360693f1eb90856176bd1c0a7b17432	Oystron v2.85 (1997)(Cavina, Piero)(NTSC)(PD).a26
+91f0a708eeb93c133e9672ad2c8e0429	Oystron v2.9 (1997)(Cavina, Piero)(NTSC)(PD).a26
+aa2c4b32656bde9a75042a4d158583e1	Oystron X (1999)(Cavina, Piero)(NTSC)(PD).a26
+e2f287f477350f1cc7d30a2ea3eda5c1	Pac-Man with legs (200x)(Shay, Nukey)(NTSC)[aka Crazy Otto WIP][h][Ms. Pac-Man].a26
+212d0b200ed8b45d8795ad899734d7d7	Pepsi Invaders (1983)(Atari)(NTSC)(proto)[aka Coke Wins].a26
+83f254d5d3d378c01b6f4594e86b75b5	Pepsi Invaders (1983)(Atari)[b].a26
+9848b5ef7a0c02fe808b920a2ac566d2	Pete Rose Baseball (2002)(Skyworks)(NTSC).a26
+f939780714db69dc69a80fbefe350e0d	Pitfall II - Lost Caverns (1984)(Activision)[b2].a26
+48eb1fcde4caf6a2dce059c98bd2e375	Pitfall II - Lost Caverns (1984)(Activision)[b].a26
+6e7e20eb8db5728ac3670b44401fb5fb	Planet Borg Wars (2004-06-05)(Atari Troll)(NTSC)[h][Astroblast].a26
+2aba6a1b01a5859e96d6a66d2286772f	Plaque Attack (1983)(Activision)(NTSC)[o].a26
+b816296311019ab69a21cb9e9e235d12	Poker Plus (1978)(Atari - Sears)(NTSC)[paddle][aka Casino][CX2652, 6-99816, 49-75151].a26
+56606b4d9109e2db36dea47cf7c8cca6	Pole Position (1983)(Atari)[b].a26
+89ce4a5485361ff3cfd5b7fbd1dfa8f8	Private Eye (1983)(Activision - CCE)[b].a26
+bc24440b59092559a1ec26055fd1270e	Private Eye (1983)(Activision)(PAL)[b4].a26
+913c9dafe4bf201cf5eb0f688a935261	Private Eye (1983)(Activision)[b2][known glitchy version].a26
+6f6b3fcce73585653326533f0952d6ae	Private Eye (1983)(Activision)[b3].a26
+1ede4f365ce1386d58f121b15a775e24	Q-Bert (1983)(Parker Bros)(PAL)[b].a26
+649536bc858f6d3e41275965ba12bc1e	Q-Bert's Qubes (1983)(Parker Bros)[b2].a26
+213fa246ecc7be0f7ff12d9ca64120c8	Q-Bert's Qubes (1983)(Parker Bros)[b].a26
+f9b163795c979c25e2f1f93a386b76d7	Rainbow Invaders v0.99 (2006-02-20)(Mogno, Silvio)(NTSC)(PD).a26
+58c427b652be57513347f3c7d2e633bb	Rampage! (1989)(Activision)[b2].a26
+0cb3211ec39a66e225e8faa9fbdb0757	Rampage! (1989)(Activision)[b].a26
+31df1c50c4351e144c9a378adb8c10ba	Ratte und die Karotten, Die (1983)(Starsoft - Quelle)(PAL)(DE)[aka Gopher][687.463 0].a26
+d90d93b43c16c2b6bfcf1cc9063688fa	Real Sports Baseball (1982)(Atari)[b].a26
+3bf00e594b4ee8dde79ba9faaa51d4df	RealSports Chicken Egg Soccer (2005)(Jamcat)(NTSC)[h][RealSports Soccer].a26
+c4d888bcf532e7c9c5fdeafbb145266a	Robot Fight (19xx)(HomeVision)(PAL)[aka Space Robot][b].a26
+cb0b5b8458a13a074e1fe82d3c4e8f3c	Robot Tank (1983)(Activision)(PAL)[b].a26
+8df4be9ddc54ac363b13dc57ceaf161a	Sadistroids (200x)(Jentzsch, Thomas)(NTSC)[aka Asteroids SS][h][Asteroids].a26
+dfdfc28f596926f9975b4d209e021a81	Sadistroids v1.1 (2003)(Jentzsch, Thomas)(NTSC)[aka Asteroids SS][h][Asteroids].a26
+b79087a8f2f54337d6a8fa56616dee1c	Sea Monster (1982)(Bitcorp)(PAL)[b].a26
+8c26fafedc1cc5c3c8c87adb1bf51de1	Sea Monster (1983)(BitCorp)(PAL)[b].a26
+5fb73b35f3eb20c315cc4dd4d9e5aa65	Sentinel (1990)(Atari)[b].a26
+acab8a665a8a3c3dcf9ad788ced8a677	Sir Lancelot (1983)(Xonox)[b].a26
+7623a639a6fffdb246775fe2eabc8d01	Skiing (1980)(Activision)(PAL)[p][Alpine Ski].a26
+fa447e4e2f0d5e67cbf0b060fac5944c	Sky Jinks (1982)(Activision)[b].a26
+494a2259a7a5c3a4a87ac50084f9de7d	Sorcerer's Apprentice (1983)(Atari)[b].a26
+c8ed500e2319a900737c2cc6e17d2da0	Space Invaders (1978)(Atari)[b].a26
+6f6c7f37926c574c6b76e5a665fd26e7	Space Shuttle - Journey Into Space (1983)(Activision)(PAL)[b].a26
+022edb5115e63b0dcc5e9203a15b8840	Space Shuttle - Journey Into Space (1983)(Activision)[b].a26
+b06ceb0d5f3866ff1b0a2ce9bf343d59	Space War (1978)(Atari)[b2].a26
+2768b5ecb48365cf2a22e777717ffb5c	Space War (1978)(Atari)[b3].a26
+77887e4192a6b0a781530e6cf9be7199	Space War (1978)(Atari)[b].a26
+cb918dd1e0a3cec234703c886574505a	Star Trek - Strategic Operations Simulator (1983)(Sega)[b].a26
+498c3adfde5bd523be863c5c5189e69b	Star Wars - Empire Strikes Back (1982)(Parker Bros)[b].a26
+70d6484a2e2a106dd9ac830d242bde4b	Star Wars - The Arcade Game Hack (1983)(Parker Bros)[h][reversed control scheme].a26
+ffc0ff4305dd46b4b459885bd1818e2e	Star Wars - The Battle of Alderaan (2001)(Laws, Barry Jr.)(NTSC)[h][Star Strike].a26
+13461b79d7aa39d146d4a2978fcd0b21	Suicide Adventure (2003)(Veeder, George 'Pixellated Ghost')(NTSC)[h][Adventure].a26
+cff578e5c60de8caecbee7f2c9bbb57b	Suicide Adventure II (2003)(Veeder, George 'Pixellated Ghost')(NTSC)[h][Adventure].a26
+d32f4501ff5c38dc0707ab8f0575baf1	Suicide Adventure v3 (2003)(Veeder, George 'Pixellated Ghost')(NTSC)[h][Adventure].a26
+9e14860f7151274b12680f181e4678d9	Super Baseball (1982)(Atari - CCE)[b].a26
+cd6b3dff86a55a4a6d23007ee360ea0e	Super Cobra (1982)(Parker Bros)[b].a26
+4565c1a7abce773e53c75b35414adefd	SuperCharger Loader (1982)(Starpath - Arcadia Corp)[b].a26
+20c1aa19b4a7541ed87b4c4bc93a82af	Sword Quest - Earthworld (1982)(Atari)[b].a26
+a0c2e69032aa5fd34088ce9ff6733d50	Sword Quest - Waterworld (1983)(Atari)[b].a26
+4e99ebd65a967cabf350db54405d577c	Time Pilot (1983)(Coleco)[b].a26
+f55917c566afeaf7315b274494905f44	Under Sea Adventure v2 (2003)(Stan Jr)(NTSC)[h][Adventure].a26
+4fba2d5d28ff0167722c136c2202322b	Up 'n Down (1983)(Sega)[b].a26
+c6556e082aac04260596b4045bc122de	Vanguard (1982)(Atari - GCC)(NTSC)[CX2669].a26
+996f34865f5e218feaed5c0b76266900	VCS 2600 Data-Transfer and Audio Program (19xx)(-)(PD).a26
+a7605edecd55e5b198898a76f31042cf	Video Pinball (1980)(Atari)(PAL)[b].a26
+313243fc41e49ef6bd3aa9ebc0d372dd	Vielfrass, Der (1983)(Starsoft - Qualle)(PAL)(DE)[a][aka Fast Food].a26
+a1ca372388b6465a693e4626cc98b865	Vielfrass, Der (1983)(Starsoft - Quele)(PAL)(DE)[aka Fast Food][176.543 7].a26
+7d79d987001c8020a3cd3736f970f922	Wabbit (1982)(Apollo)[b].a26
+c6688781f4ab844852f4e3352772289b	Xevious (1983)(Atari)(NTSC)(proto)[CX2695].a26
+24385ba7f5109fbe76aadc0a375de573	Xevious (1983)(CCE)(NTSC)(BR).a26
+eea0da9b987d661264cce69a7c13c3bd	Zaxxon (1982)(Coleco - CBS Electronics)(NTSC)[2454].a26

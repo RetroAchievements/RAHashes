@@ -1,0 +1,164 @@
+e67a169b3a6432342ac9cbf9e6f95873	3D Asteroids (1984)(Atari)(NTSC)(proto)	3D Asteroids (1984)(Atari)(NTSC)(proto).a78
+864efb6b43e36bef50d01d381ca7bd83	3D Asteroids (1984)(Atari)(NTSC)(proto)[b]	3D Asteroids (1984)(Atari)(NTSC)(proto)[b].a78
+40f69da10fbb6c77b35b89c32d9c2491	Ace of Aces (1988)(Atari)(NTSC)	Ace of Aces (1988)(Atari)(NTSC).a78
+4dd96d99c1228bb1fcae8c1b5c239197	Ace Of Aces (1988)(Atari)(NTSC)[a]	Ace Of Aces (1988)(Atari)(NTSC)[a].a78
+c31759d77154966654d414eaf1f5283c	Ace of Aces (1988)(Atari)(PAL)	Ace of Aces (1988)(Atari)(PAL).a78
+8bf5f92ed9a276c82139c47c9875fd17	Alien Brigade (1990)(Atari)(NTSC)	Alien Brigade (1990)(Atari)(NTSC).a78
+4e5826f8bcdecaae3258cce2da57c569	Alien Brigade (1990)(Atari)(PAL)	Alien Brigade (1990)(Atari)(PAL).a78
+273e580f8e4232ee12024656846c69c1	Asteroids (1987)(Atari)(NTSC)	Asteroids (1987)(Atari)(NTSC).a78
+85b5587c5a9406ddd079aa6879093cf7	Asteroids (1987)(Atari)(NTSC)[a]	Asteroids (1987)(Atari)(NTSC)[a].a78
+8fd2ff3e289f33f53f2792d1a0bc3513	Ballblazer (1987)(Atari)(NTSC)	Ballblazer (1987)(Atari)(NTSC).a78
+a6659fcf536d601948f57767aef65741	Ballblazer (1987)(Atari)(NTSC)[a]	Ballblazer (1987)(Atari)(NTSC)[a].a78
+554004ca435ca02eb519086f45e44033	Ballblazer (1987)(Atari)(PAL)	Ballblazer (1987)(Atari)(PAL).a78
+3c66e6e3de8d7b15cd54faa7c03d1c9d	Barnyard Blaster (1988)(Atari)(NTSC)	Barnyard Blaster (1988)(Atari)(NTSC).a78
+98477839e00a9f617a97a0e91a6ff0b1	Barnyard Blaster (1988)(Atari)(NTSC)[b]	Barnyard Blaster (1988)(Atari)(NTSC)[b].a78
+138559499462d88d390d7cf93b344f5f	Barnyard Blaster (1988)(Atari)(PAL)	Barnyard Blaster (1988)(Atari)(PAL).a78
+3ddfb8fe20b38500acdbcf158cdba11a	Baseball (1989)(Absolute Entertainment)(PAL)	Baseball (1989)(Absolute Entertainment)(PAL).a78
+43b0a082f353919f83e4b37203af280f	Basketbrawl (1990)(Atari)(NTSC)	Basketbrawl (1990)(Atari)(NTSC).a78
+7da7af81921b61d2757d796a9ff3814c	Basketbrawl (1990)(Atari)(PAL)	Basketbrawl (1990)(Atari)(PAL).a78
+061cf56c884c6b4cb1fab16898e1c150	Centipede (1987)(Atari)(NTSC)	Centipede (1987)(Atari)(NTSC).a78
+7612b1bb30320d37d79b7f48b16430b2	Centipede (1987)(Atari)(NTSC)[a]	Centipede (1987)(Atari)(NTSC)[a].a78
+57ef570b8595bcdf0e26bc9b5b109b41	Centipede (1987)(Atari)(PAL)	Centipede (1987)(Atari)(PAL).a78
+e9b1db4fea757c6f225e4811353333d4	Choplifter! (1987)(Atari)(NTSC)	Choplifter! (1987)(Atari)(NTSC).a78
+0826515be7d9bc1fea26a7d6063667c1	Choplifter! (1987)(Atari)(NTSC)[a]	Choplifter! (1987)(Atari)(NTSC)[a].a78
+028c6757a2528219ea39b26c35b953dc	Choplifter! (1987)(Atari)(PAL)	Choplifter! (1987)(Atari)(PAL).a78
+38b4e11ebf4bbfdc66c7d2ef96115bd2	Commando (1989)(Atari)(NTSC)	Commando (1989)(Atari)(NTSC).a78
+95d5eac7b804f3cb1950e0d19a03afe7	Commando (1989)(Atari)(NTSC)[a]	Commando (1989)(Atari)(NTSC)[a].a78
+d59edcc53c3b1e4e565ff7234a5d37a6	Commando (1989)(Atari)(PAL)	Commando (1989)(Atari)(PAL).a78
+5a8344478c246200d0ef987557aae3cd	Crack'ed (1988)(Atari)(NTSC)	Crack'ed (1988)(Atari)(NTSC).a78
+911049690a04e272d28ee80d12329bc9	Crack'ed (1988)(Atari)(PAL)	Crack'ed (1988)(Atari)(PAL).a78
+68ae796ad700df322628ce9dfc82e802	Crossbow (1987)(Atari)(NTSC)	Crossbow (1987)(Atari)(NTSC).a78
+ff49656b248dd277f9d75dcca0a30116	Crossbow (1987)(Atari)(PAL)	Crossbow (1987)(Atari)(PAL).a78
+b94b39a2ece024bc79ad350914219a72	Dark Chambers (1988)(Atari)(NTSC)	Dark Chambers (1988)(Atari)(NTSC).a78
+26036ccf66b2747fd00d3884a528614c	Dark Chambers (1988)(Atari)(PAL)	Dark Chambers (1988)(Atari)(PAL).a78
+cbac0bf951e3cd52e5537c926d66440b	Desert Falcon (1987)(Atari)(NTSC)	Desert Falcon (1987)(Atari)(NTSC).a78
+ec1f38ae5b5e638e1ac84016ee1c0019	Desert Falcon (1987)(Atari)(NTSC)[a]	Desert Falcon (1987)(Atari)(NTSC)[a].a78
+a1e78ca5dd1b84ce5a96ab1590abfef1	Desert Falcon (1987)(Atari)(PAL)	Desert Falcon (1987)(Atari)(PAL).a78
+e61d1792314e6632baa4e6b92e59195d	Dig Dug (1987)(Atari)(NTSC)	Dig Dug (1987)(Atari)(NTSC).a78
+3976abf29e9d6aa000bff8268c0d534e	Dig Dug (1987)(Atari)(NTSC)[a]	Dig Dug (1987)(Atari)(NTSC)[a].a78
+fa3279ef84d3f6a9df151ff578fcffe5	Dig Dug (1987)(Atari)(PAL)	Dig Dug (1987)(Atari)(PAL).a78
+d5124b0da4338a299498f29a344e413f	Donkey Kong (1988)(Atari)(NTSC)	Donkey Kong (1988)(Atari)(NTSC).a78
+35eabe5b952a4f733b904f73511f884d	Donkey Kong (1988)(Atari)(NTSC)[a]	Donkey Kong (1988)(Atari)(NTSC)[a].a78
+124a82890e7723ca9af7c8c063c503ab	Donkey Kong (1988)(Atari)(PAL)	Donkey Kong (1988)(Atari)(PAL).a78
+cfff068fe77f35374f90985e096faa3e	Donkey Kong Junior (1988)(Atari)(NTSC)	Donkey Kong Junior (1988)(Atari)(NTSC).a78
+c4940b2652d6a654cbbecfb59495ba24	Donkey Kong Junior (1988)(Atari)(NTSC)[a]	Donkey Kong Junior (1988)(Atari)(NTSC)[a].a78
+c921a3c7028f03ec2469b92fa4b08d42	Donkey Kong Junior (1988)(Atari)(PAL)	Donkey Kong Junior (1988)(Atari)(PAL).a78
+39c607e68a8e2bc870b2355a0273c973	Double Dragon (1989)(Activision)(NTSC)	Double Dragon (1989)(Activision)(NTSC).a78
+994efa37ac630a7120b9a86629c8a613	Double Dragon (1989)(Activision)(PAL)	Double Dragon (1989)(Activision)(PAL).a78
+934a3ee1ae7f9d740c868064862da318	F-18 Hornet (1988)(Absolute Entertainment)(NTSC)	F-18 Hornet (1988)(Absolute Entertainment)(NTSC).a78
+f80f02445676f6d26cb77583d189aa0a	F-18 Hornet (1988)(Absolute Entertainment)(NTSC)[b2]	F-18 Hornet (1988)(Absolute Entertainment)(NTSC)[b2].a78
+2ba340df68292ff2cb20773ace47b749	F-18 Hornet (1988)(Absolute Entertainment)(NTSC)[b]	F-18 Hornet (1988)(Absolute Entertainment)(NTSC)[b].a78
+4f6d09b0221636b56014e4756f4a9b17	F-18 Hornet (1988)(Absolute Entertainment)(PAL)	F-18 Hornet (1988)(Absolute Entertainment)(PAL).a78
+fb28cd747d102114858010f6eb16ab35	Fatal Run (1990)(Atari)(NTSC)	Fatal Run (1990)(Atari)(NTSC).a78
+c9551260a5a8e79e38acd8294c791f5a	Fatal Run (1990)(Atari)(PAL)	Fatal Run (1990)(Atari)(PAL).a78
+c64fb1c181e2d8b807181bb3c0fffbe9	Fight Night (1988)(Atari)(NTSC)	Fight Night (1988)(Atari)(NTSC).a78
+57109e6e4e2852c23440300ad27ce3cb	Fight Night (1988)(Atari)(PAL)	Fight Night (1988)(Atari)(PAL).a78
+32cbe0cfaa773749df4fcaf7dbca74db	Food Fight (1987)(Atari)(NTSC)	Food Fight (1987)(Atari)(NTSC).a78
+9a3819eef58dddb550fe997e7e6abee2	Food Fight (1987)(Atari)(NTSC)[a]	Food Fight (1987)(Atari)(NTSC)[a].a78
+68a62e30225431f4a789dbc957bc28ff	Food Fight (1987)(Atari)(PAL)	Food Fight (1987)(Atari)(PAL).a78
+3303ac4fa80351e2240b097e2781afe1	Galaga (1987)(Atari)(NTSC)	Galaga (1987)(Atari)(NTSC).a78
+1dd27b0caf03d6e3948d3be16ac30792	Galaga (1987)(Atari)(NTSC)[a]	Galaga (1987)(Atari)(NTSC)[a].a78
+712225bf32f418848375012c91bb8554	Galaga (1987)(Atari)(PAL)	Galaga (1987)(Atari)(PAL).a78
+aef7d1fb101c340bd83dffc90080d7da	GATO (1987)(Atari)(NTSC)(proto)	GATO (1987)(Atari)(NTSC)(proto).a78
+f95af33c24798aeea0a2e4497bf97197	GATO (1987)(Atari)(NTSC)(proto)[a]	GATO (1987)(Atari)(NTSC)(proto)[a].a78
+92f5dedbcd4456436917ce49fc2af923	Hat Trick (1987)(Atari)(NTSC)	Hat Trick (1987)(Atari)(NTSC).a78
+e3009bea70564f42dea651aa6fb89bd2	Hat Trick (1987)(Atari)(NTSC)[a]	Hat Trick (1987)(Atari)(NTSC)[a].a78
+f7bf702bd6995df5ec7e377fd17b2689	Hat Trick (1987)(Atari)(PAL)	Hat Trick (1987)(Atari)(PAL).a78
+09ab678572f2c2953a7dda3cc3cda0df	Ikari Warriors (1989)(Atari)(NTSC)	Ikari Warriors (1989)(Atari)(NTSC).a78
+605b8fe25fcd5a8166f858f48bd3e454	Ikari Warriors (1989)(Atari)(PAL)	Ikari Warriors (1989)(Atari)(PAL).a78
+151ae3590901543a022b7a58c4d20ce6	Impossible Mission (1987)(Atari)(NTSC)	Impossible Mission (1987)(Atari)(NTSC).a78
+9873fd58983fe5a026ecb457dc538c70	Impossible Mission (1987)(Atari)(NTSC)[a]	Impossible Mission (1987)(Atari)(NTSC)[a].a78
+f9b53a96ad0a408d37fa1f1e745ac2df	Impossible Mission (1987)(Atari)(PAL)	Impossible Mission (1987)(Atari)(PAL).a78
+f4eaa88fa34b608c5b521ddf821173c4	Jinks (1989)(Atari)(NTSC)	Jinks (1989)(Atari)(NTSC).a78
+93630d3b32690f4127edde9993163cba	Jinks (1989)(Atari)(PAL)	Jinks (1989)(Atari)(PAL).a78
+980bf180e70aee85c5080f1b57e37558	Joust (1987)(Atari)(NTSC)	Joust (1987)(Atari)(NTSC).a78
+6acb6db87bd24ab7eecdbef2f206b384	Joust (1987)(Atari)(NTSC)[a]	Joust (1987)(Atari)(NTSC)[a].a78
+1cc643e4ef4015ca8b4cac53ac9f8d72	Joust (1987)(Atari)(PAL)	Joust (1987)(Atari)(PAL).a78
+66d00c7dec50696650092f65525671f4	Karateka (1988)(Atari)(NTSC)	Karateka (1988)(Atari)(NTSC).a78
+a58e0790cf2940e33343daacee0bc864	Karateka (1988)(Atari)(NTSC)[a]	Karateka (1988)(Atari)(NTSC)[a].a78
+36dfd705194d331ff828866b7e8ca0ef	Karateka (1988)(Atari)(PAL)	Karateka (1988)(Atari)(PAL).a78
+6bfab37581cf320bead173ad8667abd5	Klax (1992)(Atari)(NTSC)(proto)	Klax (1992)(Atari)(NTSC)(proto).a78
+3fa3bf48510bd3c3464e6cc18864b8d8	Klax (1992)(Atari)(NTSC)(proto)[a]	Klax (1992)(Atari)(NTSC)(proto)[a].a78
+62ac9b6a93308bb65ca8158b2100ff34	Klax (1992)(Atari)(NTSC)(proto)[b]	Klax (1992)(Atari)(NTSC)(proto)[b].a78
+1d9513a8d2a837caca7bb4e9884a87cb	Kung-Fu Master (1989)(Absolute Entertainment)(NTSC)	Kung-Fu Master (1989)(Absolute Entertainment)(NTSC).a78
+8c92c54ca423f866886a7955bc5d6996	Kung-Fu Master (1989)(Absolute Entertainment)(PAL)	Kung-Fu Master (1989)(Absolute Entertainment)(PAL).a78
+ae174ab64a4858cd05a3fc12cc9e140b	Mario Bros. (1988)(Atari)(NTSC)	Mario Bros. (1988)(Atari)(NTSC).a78
+4e1151e58e14ffca2a445d46981dab65	Mario Bros. (1988)(Atari)(NTSC)[a]	Mario Bros. (1988)(Atari)(NTSC)[a].a78
+fc806b64f8a6693d5b845eef69603188	Mario Bros. (1988)(Atari)(PAL)	Mario Bros. (1988)(Atari)(PAL).a78
+bbbca8b82ffb92801f97a9f9bb22f41f	Mat Mania Challenge (1990)(Atari)(NTSC)	Mat Mania Challenge (1990)(Atari)(NTSC).a78
+b34fec30a281a066c4098c44709f30ae	Mat Mania Challenge (1990)(Atari)(NTSC)[a]	Mat Mania Challenge (1990)(Atari)(NTSC)[a].a78
+d5cbbe02760e0f13aacf2fb0808d968a	Mat Mania Challenge (1990)(Atari)(PAL)	Mat Mania Challenge (1990)(Atari)(PAL).a78
+870ad5326b05ead675d35a1c679c4b1f	Mean 18 Ultimate Golf (1989)(Atari)(NTSC)	Mean 18 Ultimate Golf (1989)(Atari)(NTSC).a78
+a2467a3c756505010a37e9a687de57d5	Mean 18 Ultimate Golf (1989)(Atari)(NTSC)[a]	Mean 18 Ultimate Golf (1989)(Atari)(NTSC)[a].a78
+a5a0f6297c29146162bcd6db7d30790e	Mean 18 Ultimate Golf (1989)(Atari)(PAL)	Mean 18 Ultimate Golf (1989)(Atari)(PAL).a78
+548c743c32058950d507861d7993d425	Meltdown (1990)(Atari)(NTSC)	Meltdown (1990)(Atari)(NTSC).a78
+98523d961dfd51d4fdf7b507ccdfe5e4	Meltdown (1990)(Atari)(NTSC)[b]	Meltdown (1990)(Atari)(NTSC)[b].a78
+56ba37a817e0f434bbec9e9274b84d36	Meltdown (1990)(Atari)(PAL)	Meltdown (1990)(Atari)(PAL).a78
+e0cc5168d910557c01d3c95173ec7d0a	Midnight Mutants (1990)(Atari)(NTSC)	Midnight Mutants (1990)(Atari)(NTSC).a78
+6367b42ce5db0d97f8ff994225254e35	Midnight Mutants (1990)(Atari)(PAL)	Midnight Mutants (1990)(Atari)(PAL).a78
+06b27077568fe7529d2d0bdfdd974854	Motor Psycho (1990)(Atari)(NTSC)	Motor Psycho (1990)(Atari)(NTSC).a78
+42faf283fee9fd61acf0691f349e929e	Motor Psycho (1990)(Atari)(PAL)	Motor Psycho (1990)(Atari)(PAL).a78
+8b79479dbc5c75b3513319c52ae6fc29	Ms. Pac-Man (1987)(Atari)(NTSC)	Ms. Pac-Man (1987)(Atari)(NTSC).a78
+12a6483c57d2060d1d07eed2f4cb63dd	Ms. Pac-Man (1987)(Atari)(NTSC)[a]	Ms. Pac-Man (1987)(Atari)(NTSC)[a].a78
+91b24c1e13b39b649d80efe1d9b742ae	Ms. Pac-Man (1987)(Atari)(PAL)	Ms. Pac-Man (1987)(Atari)(PAL).a78
+bb551483d114dcc5bae7aaa892ee856a	Ninja Golf (1989)(Atari)(NTSC)	Ninja Golf (1989)(Atari)(NTSC).a78
+2376f769c6183f80bf4b791a57dc1554	Ninja Golf (1989)(Atari)(PAL)	Ninja Golf (1989)(Atari)(PAL).a78
+247163ef4b5a5966bfeecfca376a0533	One-on-One Basketball (1987)(Atari)(NTSC)	One-on-One Basketball (1987)(Atari)(NTSC).a78
+485478092c2f192eaf29ca199b753d16	One-on-One Basketball (1987)(Atari)(NTSC)[a]	One-on-One Basketball (1987)(Atari)(NTSC)[a].a78
+c6c901171fda11e1deba32ccff1a218d	One-on-One Basketball (1987)(Atari)(PAL)	One-on-One Basketball (1987)(Atari)(PAL).a78
+e749db4d81db283c1b6628181504b1b8	Pete Rose Baseball (1989)(Absolute Entertainment)(NTSC)	Pete Rose Baseball (1989)(Absolute Entertainment)(NTSC).a78
+3c882503c71027f64e7ee7630e765aa9	Pete Rose Baseball (1989)(Absolute Entertainment)(NTSC)[b]	Pete Rose Baseball (1989)(Absolute Entertainment)(NTSC)[b].a78
+7152e5c43f700b253480d324affb6792	Pit Fighter (1992)(Atari)(NTSC)(proto)	Pit Fighter (1992)(Atari)(NTSC)(proto).a78
+0d06d0f107b41bf83733031059835c2c	Pit Fighter (1992)(Atari)(NTSC)(proto)[b]	Pit Fighter (1992)(Atari)(NTSC)(proto)[b].a78
+b22ee90919dbbceb1cefaf0f83179a4d	Pit Fighter (1992)(Atari)(NTSC)(proto)[o]	Pit Fighter (1992)(Atari)(NTSC)(proto)[o].a78
+923ee9602e0af45fe5d2131dfd78214c	Planet Smashers (1989)(Atari)(NTSC)	Planet Smashers (1989)(Atari)(NTSC).a78
+dd2428f9f032fc8eed7e2047820b41a3	Planet Smashers (1989)(Atari)(PAL)	Planet Smashers (1989)(Atari)(PAL).a78
+1eb8d721eecc75d57c44eaa3a2635e14	Pole Position II (1987)(Atari)(NTSC)	Pole Position II (1987)(Atari)(NTSC).a78
+8a4f2f898ee79593e2fc30061526ca08	Pole Position II (1987)(Atari)(NTSC)[a]	Pole Position II (1987)(Atari)(NTSC)[a].a78
+a0f09999a960c4df88ebbe652b286c2e	Pole Position II (1987)(Atari)(PAL)	Pole Position II (1987)(Atari)(PAL).a78
+312f9df6d593e69567b1de26d283a2be	Rampage (1989)(Activision)(NTSC)	Rampage (1989)(Activision)(NTSC).a78
+83a91c157d4feb13c3513b158d6c825f	RealSports Baseball (1988)(Atari)(NTSC)	RealSports Baseball (1988)(Atari)(NTSC).a78
+f39b3664545d1a13af40a9656c463bfe	RealSports Baseball (1988)(Atari)(NTSC)[o]	RealSports Baseball (1988)(Atari)(NTSC)[o].a78
+eb2110c0fc2655775166219e4877f80c	Robotron - 2084 (1987)(Atari)(NTSC)	Robotron - 2084 (1987)(Atari)(NTSC).a78
+5ac3aa823da1a7a9738c208161fbca57	Robotron - 2084 (1987)(Atari)(NTSC)[a]	Robotron - 2084 (1987)(Atari)(NTSC)[a].a78
+eb1a0b793c58b2e2cacc01b843aebfed	Scrapyard Dog (1990)(Atari)(NTSC)	Scrapyard Dog (1990)(Atari)(NTSC).a78
+c3b2f0f462dbbf66d0c8c5c6e457d603	Scrapyard Dog (1990)(Atari)(PAL)	Scrapyard Dog (1990)(Atari)(PAL).a78
+95aab3a67eec47e3346a3d34d72e2312	Senso 7800 DX2 (2002)(Taquart)(PD)	Senso 7800 DX2 (2002)(Taquart)(PD).a78
+0d6f4776131a4afdebdeb072570cea62	Senso 7800 DX3 (2003)(Taquart)(PD)	Senso 7800 DX3 (2003)(Taquart)(PD).a78
+89ae1db3edc1b9c8d7aff8af593528ad	Senso 7800 DX4 (2003)(Taquart)(PD)	Senso 7800 DX4 (2003)(Taquart)(PD).a78
+6d2463f2e101960c29aef1ef9d2de0be	Senso 7800 Test 5 (2001)(Taquart)(PD)	Senso 7800 Test 5 (2001)(Taquart)(PD).a78
+a3d62d98dbd93d43d3ac04fbb35ef1f9	Sentinel (1990)(Atari)(NTSC)(proto)	Sentinel (1990)(Atari)(NTSC)(proto).a78
+e31bc3ed3a32e17ad5a4a356e66799f1	Sentinel (1990)(Atari)(NTSC)(proto)[b]	Sentinel (1990)(Atari)(NTSC)(proto)[b].a78
+37aa591e7000539aa64726de5a8bad92	Sentinel (1991)(Atari)(PAL)	Sentinel (1991)(Atari)(PAL).a78
+967d09d8c03983cf92df73cabbeeea0e	Sentinel (1991)(Atari)(PAL)[b]	Sentinel (1991)(Atari)(PAL)[b].a78
+2c1a97e352465c7444643e099fa4892e	Space War! Rev 20030930 (2003)(Eric Ball)(PD)	Space War! Rev 20030930 (2003)(Eric Ball)(PD).a78
+45af8572859c3f883bc41a9a004ad8c8	Space War! Rev 20040318 (2004)(Eric Ball)(PD)	Space War! Rev 20040318 (2004)(Eric Ball)(PD).a78
+b52e03faf69edc223425e7caf0ed900a	Summer Games (1987)(Atari)(NTSC)	Summer Games (1987)(Atari)(NTSC).a78
+559e0a7566616b83644718f6f501e7a8	Summer Games (1987)(Atari)(NTSC)[b]	Summer Games (1987)(Atari)(NTSC)[b].a78
+0d5208d60c0a2fd23a09939c6c0fe3a3	Super Huey UH-1X (1988)(Atari)(NTSC)	Super Huey UH-1X (1988)(Atari)(NTSC).a78
+324a08b67016600e5bd21218aa3e84f8	Super Huey UH-1X (1988)(Atari)(NTSC)[a2]	Super Huey UH-1X (1988)(Atari)(NTSC)[a2].a78
+81b81dd6239255be35c1d9bd2ce701c6	Super Huey UH-1X (1988)(Atari)(NTSC)[a]	Super Huey UH-1X (1988)(Atari)(NTSC)[a].a78
+38ca78bccd3f181b3a833e2bcecd921f	Super Huey UH-1X (1988)(Atari)(PAL)	Super Huey UH-1X (1988)(Atari)(PAL).a78
+1203a779363886f017e1424a1d90481a	Super Skateboardin' (1988)(Absolute Entertainment)(NTSC)	Super Skateboardin' (1988)(Absolute Entertainment)(NTSC).a78
+bbc4b9d8e81d46a56ffb9b94fa4e4848	Super Skateboardin' (1988)(Absolute Entertainment)(PAL)	Super Skateboardin' (1988)(Absolute Entertainment)(PAL).a78
+66f904276dabed87fe79f18f794c6dd0	Tank Command (1988)(Froggo)(NTSC)	Tank Command (1988)(Froggo)(NTSC).a78
+b8c777d263625dd1135c215f27b92fcc	Tank Command (1988)(Froggo)(NTSC)[b]	Tank Command (1988)(Froggo)(NTSC)[b].a78
+43accd17517c001b8183c8ec12882ec6	Tank Command (1988)(Froggo)(NTSC)[o]	Tank Command (1988)(Froggo)(NTSC)[o].a78
+574b71c7cc5b0bc7746719cc8ffcf8ef	Title Match Pro Wrestling (1989)(Absolute Entertainment)(NTSC)	Title Match Pro Wrestling (1989)(Absolute Entertainment)(NTSC).a78
+777646d3852f4232b43fe22f77063e1b	Title Match Pro Wrestling (1989)(Absolute Entertainment)(PAL)	Title Match Pro Wrestling (1989)(Absolute Entertainment)(PAL).a78
+176e6378f1d0e769dc6145fdde0a5081	Tomcat - The F-14 Fighter Simulator (1989)(Absolute Entertainment)(NTSC)	Tomcat - The F-14 Fighter Simulator (1989)(Absolute Entertainment)(NTSC).a78
+6bf9d6748a220cb6ff150f575b24aa14	Tomcat - The F-14 Fighter Simulator (1989)(Absolute Entertainment)(PAL)	Tomcat - The F-14 Fighter Simulator (1989)(Absolute Entertainment)(PAL).a78
+d257805d290cc03ab750fae960ca74d7	Touchdown Football (1988)(Atari)(NTSC)	Touchdown Football (1988)(Atari)(NTSC).a78
+252515a9fea1976a99167a40df1e77a3	Tower Toppler (1988)(Atari)(NTSC)	Tower Toppler (1988)(Atari)(NTSC).a78
+55c33c7aac3b31936312a1697b0263b3	Tower Toppler (1988)(Atari)(NTSC)[o]	Tower Toppler (1988)(Atari)(NTSC)[o].a78
+36575046957046486396e943d10fef9f	Tower Toppler (1988)(Atari)(PAL)	Tower Toppler (1988)(Atari)(PAL).a78
+a413c03945cb0627b7f5515dd6e9ea41	Water Ski (1988)(Froggo)(NTSC)	Water Ski (1988)(Froggo)(NTSC).a78
+70df05fa0f92c39259c0667cbd27baf4	Water Ski (1988)(Froggo)(NTSC)[b]	Water Ski (1988)(Froggo)(NTSC)[b].a78
+b80c718aca6b9d087bbd5d42d6925967	Water Ski (1988)(Froggo)(NTSC)[o]	Water Ski (1988)(Froggo)(NTSC)[o].a78
+53309f5298af58f658cff43c122b8856	Winter Games (1987)(Atari)(NTSC)	Winter Games (1987)(Atari)(NTSC).a78
+2c672efdb4f5eafd1b2ef10ea1ec4185	Winter Games (1987)(Atari)(NTSC)[b]	Winter Games (1987)(Atari)(NTSC)[b].a78
+46a7909d1fb1dd8ad4a6ae1c251cef33	Xenophobe (1989)(Atari)(NTSC)	Xenophobe (1989)(Atari)(NTSC).a78
+c6c6051f7005c05820065426907f5390	Xenophobe (1989)(Atari)(PAL)	Xenophobe (1989)(Atari)(PAL).a78
+8201465d32c4057bb479959b59374b65	Xevious (1988)(Atari)(NTSC)	Xevious (1988)(Atari)(NTSC).a78
+6fa5ece1f97f65c207b8c252ee49f97c	Xevious (1988)(Atari)(NTSC)[a]	Xevious (1988)(Atari)(NTSC)[a].a78
+a9b3fbc9abadad89fa62a28702adcba0	Xevious (1988)(Atari)(PAL)	Xevious (1988)(Atari)(PAL).a78

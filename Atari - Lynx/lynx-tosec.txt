@@ -1,0 +1,382 @@
+68f0e7447ed1671141ce6549b5c4c461	Alien vs Predator (1994)(Images)(proto).lnx
+c302613d0e837cab485ddcd8f4d8ea5e	All Points Bulletin (1990)(Tengen Inc).lnx
+73a439639e1e110a3917599b1d69bb69	All Points Bulletin (1990)(Tengen Inc)[b].lnx
+2cc518161199fe6b20864e7be2b77937	Awesome Golf (1991)(Atari Corp).lnx
+697a2f7cabc03ff49ba607acadb98d6a	Awesome Golf (1991)(Atari Corp)[a].lnx
+24088bf882bc9710a786c150401078ad	Awesome Golf (1991)(Atari Corp)[b].lnx
+ac85c5c2d4a65b865ccc189222827bdd	Baseball Heroes (199x)(-)[b2].lnx
+87dc5ba1ee5e502a0bb0d10007a08cf4	Baseball Heroes (199x)(-)[b].lnx
+675928b7957be8e4d81242bc946015ce	Basketbrawl (1992)(Atari Corp).lnx
+b03b308882be1cea6539b1597f73140b	Basketbrawl (1992)(Atari Corp)[a2].lnx
+fa72087c5791a945038de22becb5027c	Basketbrawl (1992)(Atari Corp)[a].lnx
+92bdaba4a7ebe59ebcd9d18825c67459	Basketbrawl (1992)(Atari Corp)[b].lnx
+56be8a61dc7c50eda6cb017e20c0696d	Batman Returns (1992)(DC Comics Inc).lnx
+e26c4c71889359f8439a94c21780d497	Batman Returns (1992)(DC Comics Inc)[b].lnx
+73d1b5dec3cf73ccd46e81c6f0fe3661	Battle Wheels (1993)(Beyond Games).lnx
+baf2b2e8eeaa5d947b92f9543a7749f7	Battle Wheels (1993)(Beyond Games)[a2].lnx
+a368af62db3454827c4eb51dce774b6e	Battle Wheels (1993)(Beyond Games)[a].lnx
+143a3013a131100f7631958ef9d154b5	Battlezone 2000 (1993)(Atari Corp).lnx
+d78fd225edb8c743b9ca1e5d4e34e75e	Battlezone 2000 (1993)(Atari Corp)[a].lnx
+b9a1562c7e04791f175acdac96f79b33	Bill & Ted's Excellent Adventure (1991)(Atari Corp).lnx
+c64d5ab182a7e31646ed4bef4e375bdc	Bill & Ted's Excellent Adventure (1991)(Atari Corp)[b].lnx
+14a023f0f705ea3bb4f0ec1bca872041	Block Out (1990)(Atari Corp).lnx
+465681114455a67309022a4d4541e256	Block Out (1990)(Atari Corp)[a].lnx
+05cd2a0b3318af3fca8fea6b4d29d988	Blue Lightning (1989)(Epyx Inc).lnx
+422acf7338904b408cf60a1f7ecb4576	Blue Lightning (1989)(Epyx Inc)[a].lnx
+c376419b23399e0bf47419dea930edb2	Blue Lightning (demo) (1989)(Epyx Inc).lnx
+2f51ac2d255a97811da99969605a04ec	Blue Lightning (demo) (1989)(Epyx Inc)[a].lnx
+215b26ab70d1173a3049613a9205b65d	Bubble Trouble (1993)(Lore Design Ltd).lnx
+de4a02f8e8fbd3ba10dd3fa4088af42d	Bubble Trouble (1993)(Lore Design Ltd)[a].lnx
+a10e4cca882f26fcead522feec71b174	California Games (1991)(Epyx Inc).lnx
+8c36f1c16c4ea9c8aae67a9f680fde8c	California Games (1991)(Epyx Inc)[a2].lnx
+35a63e6ff2516c670fa6e72baf57f9ab	California Games (1991)(Epyx Inc)[a].lnx
+59527c766707f513dcbfdab17641f098	Centipede (198x)(Shadowsoft Inc).lnx
+efe5694b21ef434e32532faf451d4601	Centipede (198x)(Shadowsoft Inc)[a].lnx
+49c610118a514690a42a4c9567e610c1	Checkered Flag (1991)(Atari Corp).lnx
+da3ed25975cdfac1bc22c74ded5e14d3	Checkered Flag (1991)(Atari Corp)[b].lnx
+1f98b68bf719572d549bb1dc0737defd	Chip's Challenge (1989)(Epyx Inc).lnx
+ad3d091ba4250d0354bc6d3fd8c9a882	Chip's Challenge (1989)(Epyx Inc)[a].lnx
+e72c815042e93c92d09f6366cf09df41	Cross Chase (2018-02-03)(Caruso, Fabrizio)[light].lnx
+a3d1707a21feeec6e9dd131274193644	Cross Chase (2018-04-15)(Caruso, Fabrizio)[light].lnx
+76ade8a7c3456154a91324e0e670da67	Cross Chase (2018-05-19)(Caruso, Fabrizio)[light].lnx
+ac4e2620d8f419f79d11929fa16e6189	Cross Chase (2018-07-19)(Caruso, Fabrizio)[light].lnx
+d9c2f6b1b29a0c0ca96407fb8a8d33a1	Cross Chase (2018-08-04)(Caruso, Fabrizio)[light].lnx
+ccc27be9d5013ed7581c55e26ca396d0	Cross Chase (2018-10-29)(Caruso, Fabrizio).lnx
+d0d40109d1b16a14b638869f180bf366	Cross Chase (2019-10-12)(Caruso, Fabrizio).lnx
+f12256999a9ba1f0eefb6c110375b9a8	Cross Chase (2020-04-02)(Caruso, Fabrizio).lnx
+5e8eb4e047d69d05bdff2bd57005b49b	Cross Chase (2021-05-13)(Caruso, Fabrizio).lnx
+05b8de7fdd2e10de260a6bc56950ca3b	Crystal Mines II (1991)(Atari Corp).lnx
+1d847749b453e784ca1bd09ae8d50b00	Crystal Mines II (1991)(Atari Corp)[a].lnx
+e0e0c8320b5897147c9a6c72a84f06dd	Desert Strike - Return to the Gulf (1993)(Telegames).lnx
+c6fdf3c623c03d34f8265ae0962e7548	Desert Strike - Return to the Gulf (1993)(Telegames)[b].lnx
+673ad7130698273497b52c37bcf9103d	Dinolympics (1992)(Atari Corp).lnx
+1e4c04b10db1182393f864d44ae1f6c7	Dinolympics (1992)(Atari Corp)[b].lnx
+305bfffb0e969c5d8d9f19d8dc639dc2	Dirty Larry - Renegade Cop (1992)(Atari Corp).lnx
+430676137da7c9281eded7c4e6255cd2	Dirty Larry - Renegade Cop (1992)(Atari Corp)[a2].lnx
+0594be65573293a93064744ebb8f920b	Dirty Larry - Renegade Cop (1992)(Atari Corp)[a].lnx
+a76d7e0e4703466a029f34196a2ae7e6	Dirty Larry - Renegade Cop (1992)(Atari Corp)[b].lnx
+256a8ea2c21ba0f69ac9dd71421d5b54	Double Dragon (1993)(Telegames).lnx
+044935f25240dda2c4ef0c09e9ac7eb5	Double Dragon (1993)(Telegames)[b].lnx
+9fd7f9de725fe89c196c5e3ae06993e6	Dracula - The Undead (1991)(Atari Corp).lnx
+2e1cc095c8080e6abb57a776b9ac1479	Dracula - The Undead (1991)(Atari Corp)[b].lnx
+dbe196382d788df3716bb6fa2f6d176b	Electrocop (1989)(Atari Corp).lnx
+a3c5d44ec6c81950b0da09f374b39e8b	Electrocop (1989)(Atari Corp)[a].lnx
+d9617d52927e657a06fa2924130fb79f	European Soccer Challenge (1993)(Telegames).lnx
+a85db47938120feca5b05d119ccf0e3d	European Soccer Challenge (1993)(Telegames)[a].lnx
+8ec6c6de7fa715782527b9cddb812445	Eye of the Beholder (1990)(Atari Corp)(proto).lnx
+193d3187b3fb28cb8eb9839be61439e6	Fat Bobby (1993)(Atari Corp).lnx
+1051dc66891a376db40a502f42064025	Fat Bobby (1993)(Atari Corp)[a].lnx
+28598b4cf75fb34f4a34d6877765c5df	Fidelity Ultimate Chess Challenge (1991)(Telegames).lnx
+d8be6a65d39e492acf0242966e51be04	Fidelity Ultimate Chess Challenge (1991)(Telegames)[a2].lnx
+2e5fd617b9d034aec01974e718a30207	Fidelity Ultimate Chess Challenge (1991)(Telegames)[a].lnx
+991e0d31c8f7c8ef06e5b8f906c3d2f3	Gates of Zendocon, The (1989)(Epyx Inc).lnx
+1dda01b595589960565596fd0f9d9c29	Gates of Zendocon, The (1989)(Epyx Inc)[a2].lnx
+0626265d32701eaefb7e894c3ecfd9cc	Gates of Zendocon, The (1989)(Epyx Inc)[a].lnx
+5e841dc1dbb66ff5fe2e4ee7e46d1846	Gauntlet - The Third Encounter (1989)(Tengen Inc).lnx
+eff19cbc469f7f902527aeba56b4f93b	Gauntlet - The Third Encounter (1989)(Tengen Inc)[a].lnx
+d6c5f4fa22ad79fdfd27ab9408cca59f	Gordo 106 - The Mutated Lab Monkey (1992)(Tenth Planet).lnx
+51e9b05d0f0a4a68ade1671e302571cf	Gordo 106 - The Mutated Lab Monkey (1992)(Tenth Planet)[b2].lnx
+aa530811882603711445fa6a827e1f98	Gordo 106 - The Mutated Lab Monkey (1992)(Tenth Planet)[b].lnx
+a041728c56d72d1157f33d75416945be	Hard Drivin' (1993)(Tengen Inc).lnx
+4a8897d6930fb61f7ca3af4b7272dad4	Hard Drivin' (1993)(Tengen Inc)[a2].lnx
+cbae8567fa3daf9d8cc9e8a4dfcabfe1	Hard Drivin' (1993)(Tengen Inc)[a].lnx
+68bf8d696e577d9c28cb481d2a9823f9	Hockey (1992)(Atari Corp).lnx
+c8cf4d3f657c3834a7adec98865ba2a9	Hockey (1992)(Atari Corp)[b].lnx
+8ba407b682e0bb9471cfe1e28983b9cc	Hydra (1992)(Tengen Inc).lnx
+eef165f39c9efd552a12a8503d7e75f5	Hydra (1992)(Tengen Inc)[b].lnx
+8064ca0f12b6fad96ecd7147bc595620	Ishido - The Way of the Stones (1991)(Atari Corp).lnx
+3df23a124186053836419abe6d87a8c0	Ishido - The Way of the Stones (1991)(Atari Corp)[a].lnx
+3fb127de0fcef18b1331c65ed1c3547f	Jimmy Connors Tennis (1993)(Atari Corp).lnx
+54d5b29bc2f0486ca1408c08638a2045	Jimmy Connors Tennis (1993)(Atari Corp)[b2].lnx
+99eb48b7099df1509e86657b07ce496f	Jimmy Connors Tennis (1993)(Atari Corp)[b].lnx
+4d76615c7d34c9442d92b8f06da11057	Joust (1993)(Shadowsoft Inc).lnx
+d51e87c94c8361572a3b253a6b26af5a	Joust (1993)(Shadowsoft Inc)[a2].lnx
+ab81ae461cf25b92b679fd26be98c902	Joust (1993)(Shadowsoft Inc)[a].lnx
+4220be1f2c3effaf934144c542dcae94	Klax (1990)(Tengen Inc).lnx
+30c14e1988e222d01b6fb2b25588810d	Klax (1990)(Tengen Inc)[b].lnx
+151e33b59578b3749fe9ef915f0622ca	Krazy Ace Minature Golf (1992)(Telegames).lnx
+61976dec279c4766f72b5cbe1835c65f	Krazy Ace Minature Golf (1992)(Telegames)[a].lnx
+bd70ee0996e18cab3ae8e4efa661a5d6	Krazy Ace Minature Golf (1992)(Telegames)[b2].lnx
+2d7998cf396719728e806f0d6f11a880	Krazy Ace Minature Golf (1992)(Telegames)[b3].lnx
+817ea358808b18d58fd2415456ccf728	Krazy Ace Minature Golf (1992)(Telegames)[b].lnx
+c2a6fd3408e574700437b862c62b00d1	Kung Food (1992)(Atari Corp).lnx
+6db4bba289efc0a71965fd1f76b4aa82	Kung Food (1992)(Atari Corp)[b].lnx
+17307c423efa63e9564d0280937080b8	Lemmings (1993)(Atari Corp).lnx
+74de329f147ab1f8ac99f49bea04ec50	Lemmings (1993)(Atari Corp)[b].lnx
+79c53974d13508168b8be9bf851e1d2e	Lexis (1994)(Shadowsoft Inc).lnx
+5d7a5e9019afc5eab008f70e3c0a8618	Lexis (1994)(Shadowsoft Inc)[a].lnx
+5d00c8b40a6559cf20ae19550ad67579	Lode Runner (1996)(Broderbund Software).lnx
+197e4ab0e38961d150c4c472a9229817	Loopz v0.06 (1992)(Hand Made Software)(proto).lnx
+3f56fd81fca0618df0ed2489b7348426	Loopz v0.06 (1992)(Hand Made Software)(proto)[a].lnx
+21c96cbff7aafbfce340f7861029ccdf	Lynx Casino (1992)(Atari Corp).lnx
+317ae79960f250e7763ba53faedf8884	Lynx Casino (1992)(Atari Corp)[b].lnx
+977d8c607e7ae05b5ccda430014490e7	Malibu Bikini Volleyball (1993)(Atari Corp).lnx
+0629fba06401f7ffbea9f7c9304300f7	Malibu Bikini Volleyball (1993)(Atari Corp)[b].lnx
+daf8027ccdaf71150aca1f1d91604543	Marble Madness (1997)(Matthias Domin)(PD).lnx
+adb2d4590ee7e91f1e3ac1006ba9a8dc	Marble Madness (1999)(Matthias Domin)(PD).lnx
+6f4c92dd3c777beaafb67f95053018c6	Marlboro Go! (1993)(Digital Image)(proto).lnx
+4cec94e286778c4b3116ad41d646d2e4	Marlboro Go! (1993)(Digital Image)(proto)[a].lnx
+c5c292f8b9b93bf0f156361962464f49	Ms. Pac-Man (1990)(Atari Corp).lnx
+f67161daf154edc4e9f7c06a76dac9b9	Ms. Pac-Man (1990)(Atari Corp)[a].lnx
+16d3aa5ecc8dd2b171c26441855d2a50	Ms. Pac-Man (1990)(Atari Corp)[b].lnx
+dcb92ab3793c90cd47823d2cf148000e	NFL Football (1990)(Atari Corp).lnx
+2015a3199379d90625d19527227cc0e3	NFL Football (1990)(Atari Corp)[b].lnx
+b65bf4c8c318b4e41c3ea8fb599de275	Ninja Gaiden (1990)(Atari Corp).lnx
+1d76f8aabbaed17354aad95277e0c67d	Ninja Gaiden (1990)(Atari Corp)[b].lnx
+436067e72b7e6e9b005d959bf4abc386	Ninja Gaiden III - Ancient Ship of Doom (1993)(Atari Corp).lnx
+e8420519d98ce3cdb110f479b66029a0	Ninja Gaiden III - Ancient Ship of Doom (1993)(Atari Corp)[b2].lnx
+08c6b6fcf1f518014f7ea05581784be1	Ninja Gaiden III - Ancient Ship of Doom (1993)(Atari Corp)[b].lnx
+83eb7be25995c0afee37420f2c109f37	Pac-Land (1991)(Atari Corp).lnx
+7f0a05f387fc1faa8dcbbce7fef9b236	Pac-Land (1991)(Atari Corp)[a].lnx
+c1646ef2432911c03bf1f1eda622b2fd	Paperboy (1990)(Tengen Inc).lnx
+bb5d1ee028c8267bba11e6c8dc35cf13	Paperboy (1990)(Tengen Inc)[a2].lnx
+c1166cca2986406b13789d9a86ab2c9d	Paperboy (1990)(Tengen Inc)[a].lnx
+3e78b2e15e6fbd9470a6ac14421e6ac0	Pinball Jam (1992)(Atari Corp).lnx
+cc4bb5c47131632d79292abe080d699d	Pinball Jam (1992)(Atari Corp)[b].lnx
+4a0ad63e27d08c2a553735a9b62f0334	Pit Fighter (1992)(Tengen Inc).lnx
+bf8f8c9bc9c3d0068fcf4d451304fb10	Pit Fighter (1992)(Tengen Inc)[b].lnx
+c7823529373fb277666246a35713db17	Pong 5 (1997)(Carl Forhan)(PD).lnx
+8f36646cb66db46b84679a3a81800a3b	Pong 5 (1997)(Carl Forhan)(PD)[a].lnx
+0c165a298589c44df6026f7c30b8ccb6	Power Factor (1992)(Atari Corp).lnx
+c99ae74992a831c89a098938478e3d46	Power Factor (1992)(Atari Corp)[b].lnx
+c677b4ccdab2b556ba09c011ba27ed23	Qix (1991)(Telegames).lnx
+c1a8a70fc5df46fe67b0e5a7ce6f8006	Qix (1991)(Telegames)[a].lnx
+e5e9a50988c42daeb03e9c103d186336	Raiden (1997)(Atari Corp).lnx
+3e6d5cc1b6dd74311e5230101487e64b	Raiden (1997)(Atari Corp)[a2].lnx
+566a6dfaeda0af5494a9169ed16ae538	Raiden (1997)(Atari Corp)[a].lnx
+4cd5f397be3188b06eae950e0941d535	Rampage (1991)(Atari Corp).lnx
+3c4e6f17cabf5d05fcaec5400b054e2e	Rampage (1991)(Atari Corp)[b].lnx
+07a0e4b554247ec2f4f70c3f88f25fb5	Rampart (1991)(Tengen Inc).lnx
+601079eabfbb121f673df7afc3f3b43b	Rampart (1991)(Tengen Inc)[b].lnx
+d9969b675a735c91d4b0f49577a07de9	Road Blasters (1990)(Tengen Inc).lnx
+14b44c73311c5675f1cda2bbfb3a963b	Road Blasters (1990)(Tengen Inc)[b].lnx
+509aabdf333ebdea7900d2d5f375d67c	Road Riot (1994)(Tengen Inc).lnx
+99974f825cd06e8a8a9c3abec0490d67	Robo Squash (1990)(Atari Corp).lnx
+439fe9ed2de26999cdfc252fbb8e8329	Robo Squash (1990)(Atari Corp)[a].lnx
+51af0aaa20b2551fc99c40ea1c803705	Robotron 2084 (1991)(Shadowsoft Inc).lnx
+a1b5cdfd4b873cbba56359bc982eafb6	Robotron 2084 (1991)(Shadowsoft Inc)[a2].lnx
+0a59a1f3e6ed9f0c10f6978089906c7d	Robotron 2084 (1991)(Shadowsoft Inc)[a].lnx
+9317cf888dd1de0979038bbe7bbe30e6	Rygar - Legendary Warrior (1990)(Atari Corp).lnx
+3f1bb4f8325bb88c67eedfdab55c0cde	Rygar - Legendary Warrior (1990)(Atari Corp)[b].lnx
+509db06e5449563fdf0ca7db4e8f9c7f	S.T.U.N. Runner (1991)(Tengen Inc).lnx
+3ed1749b66386c06521fcbe95ec5df72	S.T.U.N. Runner (1991)(Tengen Inc)[b].lnx
+ff82069ad465ada3cda8646edf0f2a8c	Scrapyard Dog (1991)(Atari Corp).lnx
+4619ee217560a4b7db019d14fa341628	Scrapyard Dog (1991)(Atari Corp)[b].lnx
+9501cc5c4470b08b7e1ed37b9f2f61d2	Shadow of the Beast (1992)(Atari Corp).lnx
+648700bcaaecb43c9137983f7de1daf9	Shadow of the Beast (1992)(Atari Corp)[a].lnx
+0d4f5b05e235688f79d823ce87b5640f	Shadow of the Beast (1992)(Atari Corp)[b].lnx
+90efb9e7d76a6133fe52706ad3ce75a9	Shanghai (1990)(Atari Corp).lnx
+904d63d4ecbfeec012006a1c03fc273c	Shanghai (1990)(Atari Corp)[a].lnx
+607796a86c94e0949052038c2226ba3b	Steel Talons (1991)(Tengen Inc).lnx
+2c7ffa27a316adf42c2cc944f000329e	Steel Talons (1991)(Tengen Inc)[b].lnx
+bc10be970f2154ec150ff81dcecbf0e1	Super Asteroids & Missile Command (1994)(Atari Corp).lnx
+7d808a6cf9b2825668b45d8df1d9ac85	Super Asteroids & Missile Command (1994)(Atari Corp)[a].lnx
+96e84932cd52c41b45638dc17328f54f	Super Off Road (1993)(Telegames).lnx
+32b73a75caf9896a8748fc73f309f960	Super Skweek (1991)(Atari Corp).lnx
+c6ae103d47ce91e6c6a3492865314d73	Super Skweek (1991)(Atari Corp)[a].lnx
+ecdfa7975adf0aa9a75e067b00add2dc	Super Skweek (1991)(Atari Corp)[b].lnx
+681e2ab38430dee04f390e9c4dd7506c	Switchblade II (1992)(Atari Corp).lnx
+0ff22e50aa8aad44bec3876ac0648735	Switchblade II (1992)(Atari Corp)[b].lnx
+dbc654e957184ff2ad67c23fbe181540	T-Tris (1993)(Bastian Schick)(PD).lnx
+1b6a8a0b7f80332e9c7dfecaded8683e	T-Tris (1993)(Bastian Schick)(PD)[a].lnx
+fef524eb436443a08a5262b3cccbe2d5	Tetris (199x)(-)[b2].lnx
+aca312086a30f6e6771301ceca9ffe51	Tetris (199x)(-)[b3].lnx
+33016f676ce09c52b6cb9708e6c99a8e	Tetris (199x)(-)[b].lnx
+1624675fb086657ab8a899d86b4460ce	Todd's Adventures - Slime World (1990)(Epyx Inc).lnx
+aef290c0805b97b8373161f834f4a04e	Todd's Adventures - Slime World (1990)(Epyx Inc)[a].lnx
+9c5602556cb9b2c4ba305f0c2660fa49	Toki (1990)(Atari Corp).lnx
+c7ea2b425695001d58ac41e5aaaf0d65	Toki (1990)(Atari Corp)[b].lnx
+45757e3ed5a010e8881d2e458cb698c4	Tournament Cyberball 2072 (1991)(Tengen Inc).lnx
+4233f380d56c6383360df7b6625748a7	Tournament Cyberball 2072 (1991)(Tengen Inc)[b].lnx
+8d2d246ff6a23c160eea87c5aa708742	Turbo Sub (1991)(Atari Corp).lnx
+b80b1ed321cba56400d1913052b67251	Turbo Sub (1991)(Atari Corp)[a].lnx
+c163d7d7ec9d02ea782212829ade2f11	Viking Child (1991)(Atari Corp).lnx
+a98a43e076fb164bb4dd2fdd6b458e4e	Viking Child (1991)(Atari Corp)[b].lnx
+bd6d89a67bade4db329c2d22a0e86325	Warbirds (1990)(Atari Corp).lnx
+b8fff245c2e408d2f00f354043a2b280	Warbirds (1990)(Atari Corp)[a2].lnx
+dc641bc2d6188a6ca5dc179370f73375	Warbirds (1990)(Atari Corp)[a].lnx
+6034395479446fb1e1db7bb9c7912b3f	World Class Soccer (1992)(Atari Corp).lnx
+7302ad0ac6c71b73c5f6c38e1297235c	World Class Soccer (1992)(Atari Corp)[b2].lnx
+e931d512299877e12670c8b755f556e2	World Class Soccer (1992)(Atari Corp)[b].lnx
+501c937b3f74f7008dbf9716f5f21a87	Xenophobe (1990)(Atari Corp).lnx
+211eee3a500bd3476193a940d0cf4a8c	Xenophobe (1990)(Atari Corp)[a2].lnx
+285188b282c94ed3b9deaa7a2d9e8424	Xenophobe (1990)(Atari Corp)[a3].lnx
+dbd710fcd817c7ea968f5e9a76a78e9b	Xenophobe (1990)(Atari Corp)[a4].lnx
+2ad17006d5eb6b208215f9d032c7b3a8	Xenophobe (1990)(Atari Corp)[a].lnx
+acc1855c2574cc06879ad7a45fd6b183	Xybots (1991)(Tengen Inc).lnx
+08fd7f04093e373f1acca5567ccce2f5	Xybots (1991)(Tengen Inc)[b].lnx
+bc7ab2e185ef16ae3baba57d32017634	Zarlor Mercenary (1990)(Epyx Inc).lnx
+3a52bca3464b7c3298711b95e89d190f	Zarlor Mercenary (1990)(Epyx Inc)[a].lnx
+f641df4a892e5f56123b130ee5781d5d	Zarlor Mercenary (1990)(Epyx Inc)[b].lnx
+61f60d57a4f7f5b935e678221318ddd8	ZZZ-UNK-2001.lnx
+a54352d00846c9db42699eb49f74009c	ZZZ-UNK-2001_V2.lnx
+b7916ec869d9a3ca7287538d4add0280	ZZZ-UNK-A.P.B. - All Points Bulletin (UE).lnx
+46c3831a7de6bce79894f7fe2b7c87fa	ZZZ-UNK-Alien vs Predator (U) (Beta).lnx
+43c17ac1ec4dd445eea34f76e19ef557	ZZZ-UNK-Anti A-Bomb Aircraft Artillery (2005) (Sampo).lnx
+3a40f1316fa76fce317ea6e8d4d96933	ZZZ-UNK-ATARI.lnx
+453154bc8d1c241ef87b6a5abb531139	ZZZ-UNK-Awesome Golf (UE).lnx
+4d7a3a2a1c579895b85f821eb9698aad	ZZZ-UNK-Baseball Heroes (UE) [b].lnx
+ea189fde4d1692efb8b79daf725191f8	ZZZ-UNK-Basketbrawl (UE).lnx
+febdd477081b18608eb227f8b9d235f3	ZZZ-UNK-Batman Returns (1992).lnx
+35a86bd11eb3777b5635ab48bd0d7ccf	ZZZ-UNK-Batman Returns (UE).lnx
+5f34939e686615b235326b5a3d6d6b74	ZZZ-UNK-Battle Wheels (UE).lnx
+c29e33450494bf945e1b636cb8e216dc	ZZZ-UNK-Battlezone 2000 (UE).lnx
+0c19945c478e8629b92d64e075d225a1	ZZZ-UNK-Befok (20021012) by Jum Hig (PD).lnx
+881b0b019d36c30de7dbc5510b2c7266	ZZZ-UNK-Befok#Maze (20021012) by Jum Hig (PD).lnx
+9a10fadd76d7a31dd74990836e1b06da	ZZZ-UNK-Befok#Packraw (20021012) by Jum Hig (PD).lnx
+b83693a793b3df48ee566de2c40e3545	ZZZ-UNK-Bill & Ted's Excellent Adventure (UE).lnx
+5f1c97e1274e18cfc8f22f581114b25e	ZZZ-UNK-Block Out (UE).lnx
+a7e5bbd020a1d4c82dfff09eeb933b09	ZZZ-UNK-Blue Lightning (U) (Demo).lnx
+fc07e96ce8bac113dae8144f592ff8a3	ZZZ-UNK-Blue Lightning (UE).lnx
+ef325f9b9c889c6d203704e17191da38	ZZZ-UNK-bombe.lnx
+7cb5d72969d47da150ecb78ccf6e7aef	ZZZ-UNK-Booster (2005) (jum).lnx
+7849a21194572f6374d50ba52f43155f	ZZZ-UNK-Booster (WIP 2005-12-28).lnx
+d308bb3e4822532e4fe8e7d9a3e4c81c	ZZZ-UNK-booster_01.lnx
+63a56d689b485df8c8269faf908611b0	ZZZ-UNK-booster_03.lnx
+851c252cc4d72b8ef55944621ae258e8	ZZZ-UNK-Bubble Trouble (1997) (Telegames).lnx
+078b49ced6643e4755ed77cbc1b048da	ZZZ-UNK-Bubble Trouble (UE).lnx
+3640e13b193047f763735a9864cf3748	ZZZ-UNK-building.lnx
+2f6986d6998718467a006eb4d20eb6bf	ZZZ-UNK-bullet.lnx
+2bfced2063318da6d2fe4623e2137049	ZZZ-UNK-California Games (UE).lnx
+643a98e485408810726f41f0dae8bfdc	ZZZ-UNK-CARDHEAD-.lnx
+212adcaa70843e2413ed17363443e59f	ZZZ-UNK-Centipede (Prototype) (1987) (Shadowsoft).lnx
+803c62b1416c13770a980552c3237d0b	ZZZ-UNK-Centipede (U) (Beta).lnx
+d7fe44f4fc58bb7cdcaafc84042c3003	ZZZ-UNK-Checkered Flag (UE).lnx
+526f20adc03d92691a2eb60f95fda525	ZZZ-UNK-Chip's Challenge (1989).lnx
+7f98dec620345005f32cd0056b50f056	ZZZ-UNK-Chip's Challenge (UE).lnx
+41f704acc2b1629e52bb7471e3d05d01	ZZZ-UNK-Choplifter (2000) by Jum Hig (PD).lnx
+f0023ddfed214daabb4099de7ef53ab7	ZZZ-UNK-Choplifter by Jum High (PD).lnx
+fe6150443e0bfedd9b627ee31db3bd79	ZZZ-UNK-Chopper (2005)(Higgs, James).lnx
+6b338b5838e0df773cff8f0b1b8e4001	ZZZ-UNK-clock.lnx
+3cbc852663e0a58624fa7b42559fe0af	ZZZ-UNK-Crystal Mines II (1990) [o].lnx
+b5eed732f25a8aea27809c81391bab76	ZZZ-UNK-Crystal Mines II (UE).lnx
+2ae9b990baf2c194ed8850ad45f86151	ZZZ-UNK-dead.lnx
+e37ef18af1c4f91e6ff95ddb09a7a33f	ZZZ-UNK-Desert Strike - Return to the Gulf (UE).lnx
+8600efd2dd8ee812de00a5ce7631293d	ZZZ-UNK-dgate [prototype].lnx
+6e0bb9c2280f1b99802e2c7cf24cefc5	ZZZ-UNK-Dinolympics (UE).lnx
+3a1de51a589cfd2d9476a8257dd14596	ZZZ-UNK-Dirty Larry - Renegade Cop (UE).lnx
+084d9ef4d4d47aa3265b1f1e710e7c89	ZZZ-UNK-Double Dragon (UE).lnx
+d2c24d8f78aa46c78de9714d5c67b35d	ZZZ-UNK-Dracula - The Undead (UE).lnx
+8e01a004a5a253a8a906f7475c6eaf5e	ZZZ-UNK-Electrocop (UE).lnx
+446950382ff3dcad3b8e2aa135aceff9	ZZZ-UNK-European Soccer Challenge (1993) (Telegames).lnx
+e15a7756b1fae4fd3cf1387ee8b37e6c	ZZZ-UNK-European Soccer Challenge (UE).lnx
+879e80fbda6eb4c8889bd0f062904cdb	ZZZ-UNK-Eye of the Beholder (U) (Beta).lnx
+78d88a6e8ae2a551be8a12944473e7e5	ZZZ-UNK-fahne.lnx
+33965e3359fae4bdba842e1af676c0b9	ZZZ-UNK-Fat Bobby (UE).lnx
+d7c3d1d87e50aeabbc00c7b03d32cbb9	ZZZ-UNK-Fidelity Ultimate Chess Challenge, The (UE).lnx
+f81b078f45387a45277a99efc6ea9672	ZZZ-UNK-Gates of Zendocon, The (UE).lnx
+84626cefb5431ceccf58c5700ce1ec11	ZZZ-UNK-Gauntlet - The Third Encounter (UE).lnx
+81c2dbc051406a8b9b0b92507daab5c7	ZZZ-UNK-Gordo 106 - The Mutated Lab Monkey (1993).lnx
+99d889282dc870751057f53072334a05	ZZZ-UNK-Gordo 106 - The Mutated Lab Monkey (UE).lnx
+c88e5fa908278bc493daf3cdbfc6384f	ZZZ-UNK-GOTBALLS.lnx
+b90b31b14c67cc917c66210f33a1709d	ZZZ-UNK-gras.lnx
+fb8b4f50bb7e20742c8bad2d1cb3efb6	ZZZ-UNK-gravitar physics techdemo.lnx
+871a7e695d1dd5fcdf57bb9f243a8709	ZZZ-UNK-gwn_demo.lnx
+2aa9e7a148c0a15fe187c06274c745e7	ZZZ-UNK-Hallo Welt! (1996) by Bjoern Spruck (PD).lnx
+ccd2e07e255be9e2a81f8fe197a2868d	ZZZ-UNK-Hallo Welt! 2 (1996) by Bjoern Spruck (PD).lnx
+528bfe5f3c240353bb07322319a232f7	ZZZ-UNK-Hard Drivin' (UE).lnx
+7a3cda50d2b910abb2635e8409567c47	ZZZ-UNK-Hockey (1992) [b].lnx
+ef057bf002a0f1908aaf72199262b900	ZZZ-UNK-Hockey (UE).lnx
+479004af74babcfcba8e655e324579b7	ZZZ-UNK-Hydra (UE).lnx
+aa3b8ecedf3b913067752a85bd0ce4ca	ZZZ-UNK-INSERT [a].lnx
+206b790b485cb733f55f02875bd21070	ZZZ-UNK-Ishido - The Way of Stones (UE).lnx
+24e8851dee2e9afc257857a307ef6b41	ZZZ-UNK-Ishido - The Way of the Stones (1991).lnx
+8bbf58dc3c86ff75d37ab05612c49452	ZZZ-UNK-Jimmy Conners' Tennis (UE).lnx
+51af41eb2c2e7e671fffbbe925bcd743	ZZZ-UNK-Joust (1993) (Williams).lnx
+08bed75c87cf42602302bee9721bc07e	ZZZ-UNK-Joust (UE).lnx
+9c959239cbf0643c8a45b5329309be1d	ZZZ-UNK-Karateboy minidemo.lnx
+554ad4121e7f068b2f7c57710ba252f5	ZZZ-UNK-Klax (UE).lnx
+85f0417d2f640287df925ce5618749a3	ZZZ-UNK-knight.lnx
+d0efb2a109f968c3a4daac933b0f5410	ZZZ-UNK-knight moves.lnx
+d5a871994a7e88432ff7c52fc759f3d5	ZZZ-UNK-Knightmare minidemo.lnx
+aee0e0418fd72ae3005d4a02fdc7468d	ZZZ-UNK-Krazy Ace - Miniature Golf (UE).lnx
+3403194dd540dc11bf55a86c7f1b51a1	ZZZ-UNK-Kung Food (UE).lnx
+de39a199a7c43ac4c4b8f77ae4b1438f	ZZZ-UNK-leer.lnx
+aeb131a39ade45c59c3af3fa19b5b565	ZZZ-UNK-Lemmings (UE).lnx
+a594fc4f13dc328eedb7d9fccee58be1	ZZZ-UNK-Lexis (1999) (Songbird).lnx
+9a6400fe271d72962517b3a70e2a3c38	ZZZ-UNK-Lexis (UE).lnx
+91428278d908424dad9068d8a726ce66	ZZZ-UNK-loader.lnx
+986f3a3fe895c1a631a6e64f643d2e3f	ZZZ-UNK-Loopz (U) (Beta) (v0.06).lnx
+52e536f153e49c1db6f29750a498cc42	ZZZ-UNK-Lunar (2004) by Fadest (PD).lnx
+963b9d1f5945a0733b99f15acd7d4ca0	ZZZ-UNK-Lynx Cart Demo 1.1.lnx
+f00a17cfe35a91b93d0522d0b9bbf81e	ZZZ-UNK-Lynx Casino (1992).lnx
+490101768c61f149afd3be16b8883ad2	ZZZ-UNK-Lynx Casino (UE).lnx
+d28fd5c5e2608305bc791223bbd4e687	ZZZ-UNK-Malibu Bikini Volleyball (UE).lnx
+af839477b85baed62fea550102454939	ZZZ-UNK-Marlboro Go! (E) (Beta).lnx
+3962e56b23312c3bea8d4deaeaeaead6	ZZZ-UNK-Mines 2 by Bastian Schick (1996) (PD).lnx
+ed04356e4b60ad76b2cdf9a5814b0ed2	ZZZ-UNK-minimal.lnx
+a8c1239a13f56355b14d023d6c3b224b	ZZZ-UNK-Moon Patrol (20000821) by Jum Hig (PD).lnx
+08fef92d2a624988b35b6928f8535e6d	ZZZ-UNK-Ms. Pac-Man (UE).lnx
+0be1de8ef135a56470e44d02aae84393	ZZZ-UNK-NFL Football (UE).lnx
+a7dc0bf9a1432faae9e00dc35b23b5e6	ZZZ-UNK-Ninja Gaiden (UE).lnx
+11e30df774aab455d9ddbdf0484a092b	ZZZ-UNK-Ninja Gaiden III - The Ancient Ship of Doom (UE).lnx
+d92d327e7533f83439ae766fbe52772c	ZZZ-UNK-othello.lnx
+0140657e624dab65ab69d1fb714e2e2e	ZZZ-UNK-Pac-Land (UE).lnx
+f6fb809c3a95557cc1d0f5bf368be4c4	ZZZ-UNK-Paperboy (UE).lnx
+5702abb96f370cf720529eae5b08d264	ZZZ-UNK-Paraply minidemo.lnx
+306a9b08d209fec8f0d81037a6167440	ZZZ-UNK-phobyx1.lnx
+d66402a7f6b4daa50061bcdc103abcc6	ZZZ-UNK-Pinball Jam (UE).lnx
+c505eca29da55709b87508ab4a1ee36b	ZZZ-UNK-Pit Fighter - The Ultimate Competition (UE).lnx
+2cc350accf428bf1fb4a134327278ca1	ZZZ-UNK-playsmp1.lnx
+a340c2839bc3d1754b1fe4f7c4337e34	ZZZ-UNK-playsmp2.lnx
+23159fbf25e766152befb6cf160a36b6	ZZZ-UNK-play_smp.lnx
+ca2bc490aaabd82d91e0f24567a39e95	ZZZ-UNK-Poker Game (2005-04-10).lnx
+8a7fc5f2c2afd205aa1edad6f9bc7210	ZZZ-UNK-Poker Game (2005-06-20).lnx
+57a8405b5fe4912be825ce76fc62b74f	ZZZ-UNK-Power Factor (UE).lnx
+18d46a8772937f417ffb7a3a966677e7	ZZZ-UNK-projet.lnx
+203c65c737495060ce410ea2df0e863d	ZZZ-UNK-Puyo Puyo 2 (PD).lnx
+cb6aa2939103e6fbcb9d5118803eafd7	ZZZ-UNK-Qix (1991) (Telegames) [o].lnx
+465ab64cba57606576d6619f457e55d9	ZZZ-UNK-Qix (UE).lnx
+4bd2b756076152af28ba126319212fb0	ZZZ-UNK-Raiden (U) (CES Version) (v3.0).lnx
+0eacef4a01c344120a3f66a24ee2cebe	ZZZ-UNK-Rampage (UE).lnx
+204620be1c27b7f5c0a877513512441a	ZZZ-UNK-Rampart (UE).lnx
+e1d8b907ca47a48d662c35cade350592	ZZZ-UNK-rapide_racer.lnx
+931a02df1f988ed8001e7cd82168ba47	ZZZ-UNK-Road Riot 4WD (Beta) (1994).lnx
+731fef254504703c973df7ea072c2eed	ZZZ-UNK-Road Riot 4WD (U) (Beta).lnx
+427e11c2e4cf5fa8aec36d38796af6fe	ZZZ-UNK-RoadBlasters (UE).lnx
+d4e48680084b72a6fb3377f21f88474f	ZZZ-UNK-Robo-Squash (UE).lnx
+dfc35b3aa9d90255f545bf513fe6a550	ZZZ-UNK-Robotron 2084 (UE).lnx
+81a547278ff57fed5260363d54390336	ZZZ-UNK-Rygar - Legendary Warrior (UE).lnx
+10da1247735c273715fa5caa495f68d0	ZZZ-UNK-S.T.U.N. Runner (UE).lnx
+0ec23443140ae1b4ce197586ea0b6c10	ZZZ-UNK-Scrapyard Dog (UE).lnx
+e44c4f0e63531430ad08365b1b7c9e07	ZZZ-UNK-Shadow of the Beast (1992) [b].lnx
+a9a8bf33fa345c86f2c25b56f4144c8a	ZZZ-UNK-Shadow of the Beast (UE).lnx
+4ed1dfe6a9132438f8e7f16b793d3c0d	ZZZ-UNK-Shanghai (1990).lnx
+31e3d54dd9dfe00d9ef932d4ba65af72	ZZZ-UNK-Shanghai (UE).lnx
+e5093929f00239f0dda26a991ce5e392	ZZZ-UNK-sintab_8.lnx
+e864cde39b217c5972771a9998dd267a	ZZZ-UNK-soltest6.lnx
+66bf338caf16622df098ecf0dec14eb2	ZZZ-UNK-Sound driver demo1.lnx
+5d5b360d9edd743c0039440ef7f086ef	ZZZ-UNK-Sound driver demo2.lnx
+70675d2aaba95b2a10812c4719342617	ZZZ-UNK-Sound driver demo3.lnx
+4e5b6e9fb403666bca48a5ad6b7b0b56	ZZZ-UNK-Sprite driver demo 4.lnx
+99151d24df052a6acb0adf776c7b6afd	ZZZ-UNK-stars.lnx
+323194808444ef1bd77494fafb5f61c4	ZZZ-UNK-Steel Talons (UE).lnx
+45c0475bcbd0cac733f3d93d17e64630	ZZZ-UNK-Super Asteroids & Missile Command (UE).lnx
+5ee8d1810a1cb28b7f0a9f400e2f79f0	ZZZ-UNK-Super Off-Road (UE).lnx
+e4ac9220173563c4d94d7463365a359a	ZZZ-UNK-Super Skweek (UE).lnx
+e0e184cf1dec1550eed34e657117d4cd	ZZZ-UNK-Switchblade II (UE).lnx
+64a3f69994f74edccbe4c35935b45fdb	ZZZ-UNK-tank.lnx
+94e9fcb96c3bfe4d7ae4f1bc3565d2ee	ZZZ-UNK-tetris.lnx
+8bfb1f646b207748c1c0f65102fb2339	ZZZ-UNK-Tetris (1996) [b].lnx
+0ca835a843032a274cf12707cacd9589	ZZZ-UNK-tetris 2005-04-11.lnx
+de016ab38be6f0726e8fa4350581f533	ZZZ-UNK-tetris 2005-04-11a.lnx
+7f9f96fe1926f45a88d7e83e09984d68	ZZZ-UNK-tetris 2006-01-03.lnx
+4d4026fd150be4c5bab9e2e3fce7d1b3	ZZZ-UNK-tetris alt.lnx
+25907f1212d3d8ada8de2dc3083f2387	ZZZ-UNK-thedeep.lnx
+7550a93023436e1bc24cd5cd8abd8500	ZZZ-UNK-tipover.lnx
+14f02b85af985487b51ab0dcfb047e1d	ZZZ-UNK-Todd's Adventures in Slime World (UE).lnx
+9da02bfd489035f24a3f7ab04b7d230c	ZZZ-UNK-Toki (UE).lnx
+45789fe5382de9f14cdf8a506d4cce35	ZZZ-UNK-Tournament Cyberball 2072 (UE).lnx
+5e0574f37af05d703e358948032a606f	ZZZ-UNK-Turbo Sub (1991).lnx
+9206197c1e3c6bf3b0a89090e1ed944b	ZZZ-UNK-Turbo Sub (UE).lnx
+b073a2a825d52391f2bf0ef5df4e3ef8	ZZZ-UNK-tutowav.lnx
+d91b10fd7b39ea1f9cd2a0967608196a	ZZZ-UNK-Unknown Game 'T-RES' (199x) [b].lnx
+9ae1cb79702b256a3a58f5930a6600f4	ZZZ-UNK-Viking Child (UE).lnx
+b7e4161ba9d9a1f679f915b7f7f16c38	ZZZ-UNK-Warbirds (UE).lnx
+76e761848e5f2a7046221b9e2eef9ac0	ZZZ-UNK-wav.lnx
+8532668c886f39dded813b783d632997	ZZZ-UNK-World Class Soccer (UE).lnx
+662395bb4bc8fd3d29774282ceb3e32a	ZZZ-UNK-Xenophobe (UE).lnx
+67d2d767d54f09f74c1fb5b378e9f440	ZZZ-UNK-Xenophobe (UE) [a].lnx
+388a8142f606451b804db40040451b4b	ZZZ-UNK-Xybots (UE).lnx
+2729cc7f787e857bd330fd5d9c90cc28	ZZZ-UNK-Zaku Public Demo (2005-11-13).lnx
+4d9c120c90456e572263556d8ce29a45	ZZZ-UNK-Zarlor Mercenary (UE).lnx
