@@ -1,0 +1,48 @@
+88df3f6943cab668df299c3dcb0e20c9	3D Bowling (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+45cdcf4d96add1d04167e370eb10e309	3D Soccer (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+f73756c9c837e892857967ed45b7f6f0	Alien Invaders (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+2e2c4344430903bfc2bcb7fd1b44e290	American Football (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+df14024911aaecf92eb4a4ec56fc92e3	Astro Invader (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+8fa6d6879fc0e13ec2fa883b7d8ba29e	Autorace (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+8a655e8bb999e3e085737cb2815f6447	Baseball (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+9e3702a069b9ddcb9750242508f70b40	Basketball (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+7391a9bd972e5eeaaeeeca76879abda4	Blackjack and Poker (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+3bf57a2432737b42d83940312530e44a	Boxing (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+e9f1f348ebd4fa5400f895a7a15637c6	Brain Quiz (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+4fa044f9c77f5f442e0af786f8f502f6	Breakaway (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+46f95a6915f00091c8aaf049f7623d39	Capture (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+d7e9ec7f57d9951dd5b4456f1929f0d0	Cat Trax (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+63433ae72c926fc4e9759158bde39d6a	Circus (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+9013d4c8ef7875950b634410ebb09e12	Combat (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+2b682f2e0b2545a0867f8e7bf0a6d919	Crazy Climber (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+7ef79740e02f390abdedcc943b42d6a3	Crazy Gobbler (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+cac0be0920cce44838ca998b52b7f5ca	Escape (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+668af35d78d4c4286ada370013a4fc54	Funky Fish (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+3c1f395b3147c6e551febdf39402ac61	Golf (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+1e826acc96ea1831da7c02540f4ea4f3	Grand Slam Tennis (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+9640b53728b797b11f90c912a8ccadaf	Hobo (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+edff41c03892d7ed3fddf1b4afa1f3a7	Horse Racing (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+78574f28c2cb0d19f2656925fa048042	Jump Bug (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+bf10520aef366afdcf6c29e1c97afefe	Jungler (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+4a9404e44df9a747549f7af0b18df632	Missile War (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+d2f3fff97436ec85616fc897cee0ba3b	Monaco Grand Prix (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+8439bf67c48282bcb5ad1894610eec86	Nibblemen (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+35801dafa6a8eeadc51418f0e9377ca0	Ocean Battle (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+98682921f14f8f3508ec13e5d886aff2	Parashooter (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+a9bc2c25fd1c4cd8024b2c69939252b0	Pleiades (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+815b06b2cbaebfad332683febbdccdb3	R2D Tank (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+6c1b145d9afc220dd3d81e9eca715dfa	Red Clash (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+8b580a9e3d4d9695e2f594a61afd8892	Robot Killer (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+376d97f9f74ab1c64fc888385506027b	Route 16 (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+d91afcc96ea973615c0acca70bb2a216	Soccer (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+dbd76221e35fa6c8133a03f57dfe79d2	Space Attack (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+bcb44b9296aad132d54d6e3a362131e6	Space Mission (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+892b0783499f89d45ff49d708d46d190	Space Raiders (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+02683cdc4732d02a4ed8a8e14723aef4	Space Squadron (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+2fa678cb9c4ed86fcbb5bc87c232d345	Space Vultures (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+874852b47d98b309defed34fbc4fb894	Spiders (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+7dee92f7e4767b728717c44bc9c3b51a	Star Chess (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+8bb0dac6f843a021c323c73f2e9210fa	Super Gobbler (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+3bc3df43b6d82f10cf9651372a784f9b	Tanks a Lot (USA, Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+f0a5e571220685d852e64bb217c8eae8	The End (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
+10d1d5af01f99d6f1a91f72cc32f83cb	Turtles (Europe).bin	nointro 2008-11-24	emerson-arcadia2001
