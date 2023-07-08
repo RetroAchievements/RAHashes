@@ -1,0 +1,370 @@
+41f5af978d69fc20f1f2fcad7c2ad8cf	[BIOS] Commodore 1541 (Japan, USA) (En).ub3	nointro 2022-05-24	commodore-c64
+5ecc503165c18e5b975e57172dfd8303	[BIOS] Commodore 1541 (Japan, USA) (En).ub4	nointro 2022-05-24	commodore-c64
+41f5af978d69fc20f1f2fcad7c2ad8cf	[BIOS] Commodore 1541 (World).ub3	nointro 2022-05-24	commodore-c64
+95748b59b4c39a8d114a977e3c39d31f	[BIOS] Commodore 1541 (World).ub4	nointro 2022-05-24	commodore-c64
+41f5af978d69fc20f1f2fcad7c2ad8cf	[BIOS] Commodore 1541 (World) (R1).ub3	nointro 2022-05-24	commodore-c64
+d0c204b7380e81a1277980dab4299dec	[BIOS] Commodore 1541 (World) (R1).ub4	nointro 2022-05-24	commodore-c64
+41f5af978d69fc20f1f2fcad7c2ad8cf	[BIOS] Commodore 1541 (World) (R2).ub3	nointro 2022-05-24	commodore-c64
+ea93aaa7016a673aac2294cbb08a9885	[BIOS] Commodore 1541 (World) (R2).ub4	nointro 2022-05-24	commodore-c64
+ada295382a1f2df772a7e5c5c6f34215	[BIOS] Commodore 1541-II (World).u4	nointro 2022-05-24	commodore-c64
+a304cb0eb0354ba21751925dfb6dec11	[BIOS] Commodore 1541C (World).ua2	nointro 2022-05-24	commodore-c64
+1e597a06d8b510fcd2a9ab077e930b41	[BIOS] Commodore 1541C (World) (R1).ua2	nointro 2022-05-24	commodore-c64
+f0799353f0e22cf7d783e447adcafde2	[BIOS] Commodore 1570 (World).u2	nointro 2022-05-24	commodore-c64
+1ef9c7f30decb2ecc4ca00c98eb09b0c	[BIOS] Commodore 1571 (World).u2	nointro 2022-05-24	commodore-c64
+dae964d64b7843ff86c008d396dda208	[BIOS] Commodore 1571 (World) (R1).u2	nointro 2022-05-24	commodore-c64
+f9158328494b3e269f86ef419792c2e5	[BIOS] Commodore 1571CR (World).102	nointro 2022-05-24	commodore-c64
+3aad2eab50c9c922521f06ef135488da	[BIOS] Commodore 1581 (World).u2	nointro 2022-05-24	commodore-c64
+6a82f92aea2a3afa190fe32d565f39e7	[BIOS] Commodore 1581 (World) (R1).u2	nointro 2022-05-24	commodore-c64
+57af4ae21d4b705c2991d98ed5c1f7b8	[BIOS] Commodore 64 (Sweden) (R2).u3	nointro 2022-05-24	commodore-c64
+b3f80a9d41512ccd0a4288f581385103	[BIOS] Commodore 64 (Sweden) (R2).u4	nointro 2022-05-24	commodore-c64
+5973267e85b7b2b574e780874843180b	[BIOS] Commodore 64 (Sweden) (R2).u5	nointro 2022-05-24	commodore-c64
+57af4ae21d4b705c2991d98ed5c1f7b8	[BIOS] Commodore 64 (Sweden) (R3).u3	nointro 2022-05-24	commodore-c64
+27e26dbb267c8ebf1cd47105a6ca71e7	[BIOS] Commodore 64 (Sweden) (R3).u4	nointro 2022-05-24	commodore-c64
+5973267e85b7b2b574e780874843180b	[BIOS] Commodore 64 (Sweden) (R3).u5	nointro 2022-05-24	commodore-c64
+12a4202f5331d45af846af6c58fba946	[BIOS] Commodore 64 (USA, Europe) (R1).u5	nointro 2022-05-24	commodore-c64
+57af4ae21d4b705c2991d98ed5c1f7b8	[BIOS] Commodore 64 (USA, Europe) (R1).u3	nointro 2022-05-24	commodore-c64
+1ae0ea224f2b291dafa2c20b990bb7d4	[BIOS] Commodore 64 (USA, Europe) (R1).u4	nointro 2022-05-24	commodore-c64
+12a4202f5331d45af846af6c58fba946	[BIOS] Commodore 64 (USA, Europe) (R2).u5	nointro 2022-05-24	commodore-c64
+57af4ae21d4b705c2991d98ed5c1f7b8	[BIOS] Commodore 64 (USA, Europe) (R2).u3	nointro 2022-05-24	commodore-c64
+7360b296d64e18b88f6cf52289fd99a1	[BIOS] Commodore 64 (USA, Europe) (R2).u4	nointro 2022-05-24	commodore-c64
+12a4202f5331d45af846af6c58fba946	[BIOS] Commodore 64 (USA, Europe) (R3).u5	nointro 2022-05-24	commodore-c64
+57af4ae21d4b705c2991d98ed5c1f7b8	[BIOS] Commodore 64 (USA, Europe) (R3).u3	nointro 2022-05-24	commodore-c64
+39065497630802346bce17963f13c092	[BIOS] Commodore 64 (USA, Europe) (R3).u4	nointro 2022-05-24	commodore-c64
+8c37b056c00a44c0725508b8cedbbefb	[BIOS] Commodore 64C (USA, Europe).u4	nointro 2022-05-24	commodore-c64
+12a4202f5331d45af846af6c58fba946	[BIOS] Commodore 64C (USA, Europe).u5	nointro 2022-05-24	commodore-c64
+049e657afafbdd802e8c6a4f88f3d730	[BIOS] Commodore 64GS (Europe).u4	nointro 2022-05-24	commodore-c64
+12a4202f5331d45af846af6c58fba946	[BIOS] Commodore 64GS (Europe).u5	nointro 2022-05-24	commodore-c64
+12a4202f5331d45af846af6c58fba946	[BIOS] Commodore Educator 64 - CBM 4064 - PET 64 (USA, Europe).u5	nointro 2022-05-24	commodore-c64
+57af4ae21d4b705c2991d98ed5c1f7b8	[BIOS] Commodore Educator 64 - CBM 4064 - PET 64 (USA, Europe).u3	nointro 2022-05-24	commodore-c64
+da92801e3a03b005b746a4dd0b639c7c	[BIOS] Commodore Educator 64 - CBM 4064 - PET 64 (USA, Europe).u4	nointro 2022-05-24	commodore-c64
+187b8c713b51931e070872bd390b472a	[BIOS] Commodore SX-64 (USA, Europe).u4	nointro 2022-05-24	commodore-c64
+12a4202f5331d45af846af6c58fba946	[BIOS] Commodore SX-64 (USA, Europe).u5	nointro 2022-05-24	commodore-c64
+57af4ae21d4b705c2991d98ed5c1f7b8	[BIOS] Commodore SX-64 (USA, Europe).u3	nointro 2022-05-24	commodore-c64
+57af4ae21d4b705c2991d98ed5c1f7b8	[BIOS] Commodore VIP 64 (Sweden).u3	nointro 2022-05-24	commodore-c64
+3abc938cac3d622e1a7041c15b928707	[BIOS] Commodore VIP 64 (Sweden).u4	nointro 2022-05-24	commodore-c64
+5973267e85b7b2b574e780874843180b	[BIOS] Commodore VIP 64 (Sweden).u5	nointro 2022-05-24	commodore-c64
+d54a9d3fc1cd92b2f9b8e2fd078eab41	128er Quickload (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+fb27e1968d937a81185a865ed798e0fd	256K-EPROM-System (Germany) (v5) (Program).crt	nointro 2022-05-24	commodore-c64
+2cc57f94bd01e695858212ab4352c58e	64 Doctor (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+e9c9e0c6f34ce6113779ab6095742c62	64MON (USA, Europe) (v1.03) (Program).crt	nointro 2022-05-24	commodore-c64
+465f7942d0d79f99a31f216cc6840b6c	Action Cartridge Plus (Germany) (v6.0) (Program).crt	nointro 2022-05-24	commodore-c64
+72304d6bdae4dcba8ed676bda3cd26c8	Action Replay Professional (Europe) (v3) (Program) (Unl).bin	nointro 2022-05-24	commodore-c64
+81b506974fb0168b62e91f20b5c921eb	Action Replay Professional (Europe) (v4.2) (Program) (Unl).crt	nointro 2022-05-24	commodore-c64
+4b5aa6c899e1ded103b46122881cd655	Action Replay Professional (Europe) (v6.0) (Program) (Unl).crt	nointro 2022-05-24	commodore-c64
+42fabe0f889d6a3a1f1b29adfdb8fc33	Action Replay Professional (USA) (v5.0) (Program) (Unl).crt	nointro 2022-05-24	commodore-c64
+6787f1fd61d96d2c74c5194dc0a78634	Activision Decathlon, The (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+2ddfd45aac45ba4693e9326312e2cdcf	Adventure 1 - The Mutant Spiders (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+2ba6b9b853e5e00025a3eba503582c91	Adventure 3 - The Fourth Sarcophagus (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+fec88fe0cb661b4283a06f8e361999b2	Adventure Creator (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+d91ff569d803dc734760bd60087fffa5	Aegean Voyage (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+65ccc9b247944bb611b4230157b915bf	After the War (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+c3026a4997f96d6512caf98f2cb97342	Alf in the Color Caves (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+2e3eb5650cea2381afdd177c6e9ae1f2	Alien Sidestep (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+912a423d702f8942aba15938320a4c8c	Alpha Build (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+6c65754e17a2fcd839bebde21c743334	Alphabet Zoo (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+9cfd38b50bab19a2e565a25b8ab4ea6a	Arnie Armchair's Howzat Cricket Game (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+c5aad2c3b1c076f4631e792a934ce7fa	Astroblitz (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+2727d8b53e03fed82365274f0455449a	Attack of the Mutant Camels (USA).crt	nointro 2022-05-24	commodore-c64
+1d3fe16c2f5630e6b1b5142e3c0c3f8c	Avenger (Japan) (v02) (MAX).crt	nointro 2022-05-24	commodore-c64
+8110868b11147000bc19a3628e977f59	Avenger (USA, Europe) (v03) (MAX).crt	nointro 2022-05-24	commodore-c64
+f04fa13eb421cca83dbfad0e41123389	BadLands (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+f0e6f8f1e2dc138d4f28d4c4ede9263c	Batman - The Movie (Europe).crt	nointro 2022-05-24	commodore-c64
+bf912cfdcd3d3f97507a6abeb9d96e9c	Battle Command (Europe).crt	nointro 2022-05-24	commodore-c64
+23707bc66da17fb706d2c46f95d0fdbf	Battlezone (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+2f5f4f72990e35b0a806d35bc8b5d680	BC's Quest for Tires (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+0f5ae8944e360ece1baea70ebfe2f6f5	Beamrider (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+f810132f1f8436818c02090428faaf36	Big Bird's Funhouse (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+cf41d62f41e5bd4c8f25fb22329bb040	Big Bird's Special Delivery (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+c4ec35229764ea130d6259e7f3f7324d	Black Box (USA, Europe) (v2.0) (Program).crt	nointro 2022-05-24	commodore-c64
+8478f52ee2c1562ac030d33d4a189609	Blueprint (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+408bdebe4f814cb3f700da41d5b88159	Bowling (Japan) (MAX).crt	nointro 2022-05-24	commodore-c64
+66364d4d07717be98212c345adf3a687	Bridge 64 (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+b79ee53ebd75e3cd9225e75a752ff8b2	Bubble Burst (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+8b08355f3bf6cd0c3b37780b9118dcb0	Buck Rogers - Planet of Zoom (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+80d8f85464a7ec999089f2eb4acb38f3	Bug Crusher (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+ffb0bde27a7760fed3999f620b839142	C-64 Diagnostic (USA, Europe) (Rev 586220) (Program).crt	nointro 2022-05-24	commodore-c64
+4674fafa09fe3166075d614f14fe0487	C-64 Import Test Diag (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+1990120b1f0179c8be975ca166ab40ca	C64-FORTH (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+4ae9b84b34a9bc3364f3f548f8f306d6	Calc Result - The Spread Sheet - Advanced (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+0bbeb57dbed9fe6b0e5af56b265588c9	Calc Result - The Spread Sheet - Advanced (USA, Europe) (Program).d64	nointro 2022-05-24	commodore-c64
+b5563da546c024ab2a040032934d8ba2	Calc Result - The Spread Sheet - Easy (USA, Europe) (Program) (ECRBLK).bin	nointro 2022-05-24	commodore-c64
+788cb31614c62b42f7546d5f021b12ee	Calc Result - The Spread Sheet - Easy (USA, Europe) (Program) (ECRBLU).bin	nointro 2022-05-24	commodore-c64
+3e4a0a8183b32581bd18eba2f7dbd31d	Calc Result - The Spread Sheet - Easy (USA, Europe) (Program) (ECRGRN).bin	nointro 2022-05-24	commodore-c64
+22232dc88a410eab21ddbf247df11a1b	Calc Result - The Spread Sheet - Easy (USA, Europe) (Program) (Alt) (hn613128).bin	nointro 2022-05-24	commodore-c64
+91b6af5a19cf00dfe73fa10db961ab2b	Calc Result - The Spread Sheet - Easy (USA, Europe) (Program) (Alt) (hn61364).bin	nointro 2022-05-24	commodore-c64
+230ac0314b9e703de37f4b627b52bddb	Capture 2 (USA, Europe) (Program).bin	nointro 2022-05-24	commodore-c64
+15c6d570fab52f693c0892aa834ac5cd	Castle Hassle (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+737e1145a4d0e3aaa3cf105fca20d8cc	Centipede (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+fb837b1c30574023254c8b2f463041e5	Chase H.Q. II - Special Criminal Investigation (Europe).crt	nointro 2022-05-24	commodore-c64
+c074729c86cf44a9c75f79826a14f4c6	Checkers (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+dff5bc3062a00a25237f7abd64b2e4fd	Choplifter! (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+b4b90e3c60276572a71d7249c4a19732	Close Encounters of the Worst Kind (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+0bcbcee0642e1722b17d3e37fc101194	Clowns (Japan) (v01) (MAX).crt	nointro 2022-05-24	commodore-c64
+5c9dccb57b10f5e4500ff44e7ad5c843	Clowns (Japan) (v02) (MAX).crt	nointro 2022-05-24	commodore-c64
+24f014babfe84955a4ef6d8fb45b0854	Coccinelle cherche dessinateur (France).crt	nointro 2022-05-24	commodore-c64
+3c7253744aa4cf01f7a93cd45ab417c1	Coco Notes (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+a38cf68b54e5385ed838dfb230a1807f	Colossus Chess + Silicon Syborgs + International Football (USA, Europe) (Super Games).crt	nointro 2022-05-24	commodore-c64
+c869e2337b5c059f698498ca0c08ccb0	COMAL 80 (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+7f5ad2be662b09ca64e183491f6aa974	COMAL 80 (USA, Europe) (Program).d64	nointro 2022-05-24	commodore-c64
+4f37d89ce2987bc61c9b1b7a6a3f8d61	Commodore 64 Diagnostic (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+64b57c2ce4bd54c7ab30468a33f4b58f	Congo Bongo (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+9305333053c191939d56668c44e4111c	Conrad Disk Booster (Germany) (Program).crt	nointro 2022-05-24	commodore-c64
+67b2f2d432757a79349701419edd9cf5	Cosmic Life (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+d3bf69bf70b6c7a43cfaa96d87ffafe4	Counterweight Kate (World) (Aftermarket).d64	nointro 2022-05-24	commodore-c64
+3d81fe3e690ef7481290db332cffa6ac	Counterweight Kate (World) (Aftermarket).cjm	nointro 2022-05-24	commodore-c64
+47d5c2b2eb24b6d5fb3b1eee1a34f371	Crisis Mountain (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+e63681393956f4e3989c10011d7e964d	Crystal Castles (USA, Europe) (Proto).crt	nointro 2022-05-24	commodore-c64
+47c21400b7a53507283c696b09b87ddd	Cyberball (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+1e6aff85ab316a845998b79914ef5439	Dance Fantasy (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+6378ba6e295f44b533303d23b8ee10d9	Dancing Feats (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+ecefa9553727aa973d9c3312e743d346	Defender (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+68a00fef8174f65911999015a8ccd1f4	Dela S-4-Modul (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+bc59feabb67b2eddbdec08dd82355e69	Delta Drawing (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+6ddeb12561a4d18d2b7d2f7f4e0a0936	Designer's Pencil, The (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+9eebd669f5a610b6dc99c9ad8cac7bc3	Diamond Mine (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+ab1bf2b172e0435208cfa10d8b3ab4ae	Diary 64 (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+d29204e6c7c41ad1d8c589d36dedb92c	Dig Dug (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+848a26a79d6de26991d264b6b473388b	Doc'64 (USA, Europe) (v2.2) (Program).crt	nointro 2022-05-24	commodore-c64
+87fbadbf98cea1c971b52caecf5f4b78	Donkey Kong (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+a6e570659c2f41e99fbd1ffa6342e72f	Dot Gobbler (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+d3ee06aadfe79fb963fe76a4a3123f54	Dot Gobbler (USA, Europe) (Alt).crt	nointro 2022-05-24	commodore-c64
+bf1d4606cd10dd8f18f2a72d18ddf3e5	Double Dragon (USA, Europe) (HES).crt	nointro 2022-05-24	commodore-c64
+88b6e9badab42cf3d35bb5c0a1508a74	Double Dragon (USA, Europe) (Ocean).crt	nointro 2022-05-24	commodore-c64
+4c656bd9b9f8e8b86d586ce80a721f14	Dragonsden (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+40f35827f09052020ee14cbbdd5d37bc	Ducks Ahoy! (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+4f90138e4e5271c66fe35093ca4c103a	Electronic Mailbox-64 (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+165f10264c2034c26c91c3de5a8c5634	Epyx Fast Load Cartridge (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+e38fb93e5d8fa9d96b0234000e75f9bf	Ernie's Magic Shapes (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+b191cec2bcd783515acd4c8b22a3b9a9	Espial (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+296eff292a3e6ed4a7b2171b3e706d7c	ExBASIC Level II (USA, Europe) (v64.1) (Program).crt	nointro 2022-05-24	commodore-c64
+12992996086a257501bb181c0298300b	Expert, The (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+c8851e52a12b0aa2d02d57989d73b72d	Expert, The (USA, Europe) (Program) (Euc29).d64	nointro 2022-05-24	commodore-c64
+d390ab0c88a5a00b9fca01174ce00cfd	Expert, The (USA, Europe) (Program) (Ex32).d64	nointro 2022-05-24	commodore-c64
+d91f773d7c6403e1f56bb3bb5d5535f4	Expert, The (USA, Europe) (Program) (Ex32u).d64	nointro 2022-05-24	commodore-c64
+f84731c110a88ccf20827cb3cfd96571	Expert, The (USA, Europe) (Program) (Expert).t64	nointro 2022-05-24	commodore-c64
+8e5801bf197c27cd11632fba5da1f079	Expert, The (USA, Europe) (Program) (Expert21).d64	nointro 2022-05-24	commodore-c64
+f460824ea855d367efae26b0925c6330	Expert, The (USA, Europe) (Program) (Expert27).d64	nointro 2022-05-24	commodore-c64
+4e3ecf260e0177451d6e41f6a512059d	Expert, The (USA, Europe) (Program) (Expert29).d64	nointro 2022-05-24	commodore-c64
+aa227948cfeb1ee97c077a8fcb6f3399	Expert, The (USA, Europe) (Program) (Expert32).d64	nointro 2022-05-24	commodore-c64
+b4dc043f15d8ef3d20d80220dc17dad8	Expert, The (USA, Europe) (Program) (Utility).d64	nointro 2022-05-24	commodore-c64
+f367a0f74349ed8760a2394276e6c488	Express Cartridge (USA, Europe) (Program).bin	nointro 2022-05-24	commodore-c64
+733b68d8f01742e200f43f6396607a72	Facemaker (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+ba2b6b2a0806de51e60bbe5c69153762	Falconian Invaders (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+79811b0e5b04ced6c4c508258a43beef	Fiendish Freddy's Big Top o' Fun + International Soccer + Flimbo's Quest + Klax (Europe) (C 64 Games System).crt	nointro 2022-05-24	commodore-c64
+4461f3e55ce52b33bea8a55c2c0f4c7b	Final Cartridge III, The (USA, Europe) (Dec 88) (Program).crt	nointro 2022-05-24	commodore-c64
+e68b2c49d439e181089b2726f06999f1	Final Cartridge III, The (USA, Europe) (May 88) (Program).crt	nointro 2022-05-24	commodore-c64
+e4f17229eaf424f45e02871cfe3154dc	Final Cartridge III, The (USA, Europe) (Nov 87) (Program).crt	nointro 2022-05-24	commodore-c64
+93ea6b1f701b169097c04511e360b905	Final Cartridge III, The (USA, Europe) (Sep 87) (Program).crt	nointro 2022-05-24	commodore-c64
+731df176d57639ad0b9db5d0dd1ffdb7	Final Cartridge, The (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+870fea65b3962ded22355c1417b41144	Financial Advisor, The (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+73d031717e6e27cdaad90d215904a09c	Format- und Hardcopymodul (Germany) (Program).crt	nointro 2022-05-24	commodore-c64
+498cbfcbd5b3e9a690b1230e11902a03	Fraction Fever (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+4802096ff320df15db73ff3725076107	Frog Master (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+1f45af2e07152bcfd04ad1884074efc1	Frogger (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+2a57e9b79010692e524d8c2ff19f8acb	Frogger + River Raid + Activision Decathlon, The + Beamrider (USA, Europe) (Arcade Classic Pak).crt	nointro 2022-05-24	commodore-c64
+c5c23c9d8b11189c87013fee879dead4	Frogger II - Threeedeep! (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+a2509b12a88457a764e2037e455de070	Galaxian (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+2dd3d40f4c6fc493b3ddab4e3833d2af	Galaxions + Munchman (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+6dd87584ff7bbb44665ab96f3ac9e3bb	Gateway to Apshai (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+ec7ce7f5426fdfaf991da03f23ea9ded	Ghostbusters (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+66883446f2bc1c7f39730574050c04bd	Gorf (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+1f70183916f14b5be6900c8a1194efb4	Graf 64 (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+dde376c734b45169ec48a2106cf320cb	Gridrunner (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+b8f39d186124cf078e1a3e855797c4ae	Gridrunner II - Attack of the Mutant Camels (USA).crt	nointro 2022-05-24	commodore-c64
+f25a1ddbcdbaeddc8ee6e2c5144b9f9d	Gyruss (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+fc04ef231521ce76f92a385899d9ba89	H.E.R.O. - Helicopter Emergency Rescue Operation (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+0102b3ac6a3e876187f33d5dcd7063db	Halftime Battlin' Bands (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+56bca11ded4bb3bd12c6884865395055	Happy-Packer (Germany) (Program).crt	nointro 2022-05-24	commodore-c64
+1399adc771612c1c40bfd6d1660266e2	HES Mon 64 (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+224e37d6c17936b527480f54124cc54e	HES Mon 64 (USA, Europe) (Proto) (Program).crt	nointro 2022-05-24	commodore-c64
+46790bc68872dfe55524b4aed2a44da4	HES Writer 64 (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+04288a3542b6d35446c99a6c2f8837b6	Hop Along Counting (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+5f846d2bda873719c1476f00c8e76643	Human Skeleton Tutorial (USA).crt	nointro 2022-05-24	commodore-c64
+b1a58e84e32c6ac18b0cecf008b0d869	Hypra-Disk-Modul II (Germany) (Program).crt	nointro 2022-05-24	commodore-c64
+01ee1241d21a61313a4994608eb99792	IEEE-488 (USA, Europe) (Program).bin	nointro 2022-05-24	commodore-c64
+4f82e581c6a509f3e01b93aa73c06e27	International Football (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+ce925e2cbd92e467dbf056352bb9ae4d	Jack Attack (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+5d9fbb48584367dad7a8f61c76dbc2dc	James Bond 007 (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+e8dc135b5bd05d3ecdd5458c4325d729	Jawbreaker (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+358359a97bc693ef17904caecfae5574	Juice! (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+b38502118524a01f0eaa5f5ca703ec71	Jukebox (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+c9571805e89b8ab0b87cdfbf08a2d4c1	Jumpman Junior (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+8f0c7b264a804d354a893449dc55595e	Jungle Hunt (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+f0751c314bca92d9bcab52b390896bc3	Jupiter Lander (World) (v02) (MAX).crt	nointro 2022-05-24	commodore-c64
+882eec359e0e44124a2f47bbaf724cda	Kickman (World) (v03) (MAX).crt	nointro 2022-05-24	commodore-c64
+6bb4f806a5a39174a3110f03de11849e	Kids on Keys (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+ca7ad29d664e8eaa45a01df8504bce0b	Kindercomp (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+f8de7783a1088dee75cf16eda1a0be35	Kung-Fu Master (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+0ea78d05a8d8ea18c1d2c46259b52f42	Laser Cycles (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+c1fea21c45826da7afde3f41f4d50d10	Lazarian (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+8aaf8ce4de28db997198c56512667bdf	Lazer Zone (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+04c955662e34f5ad8dd2d75e75c7eef3	Leader Board - Pro Golf Simulator (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+631acadd16c6cb80f4317c7786015844	Learning with Leeper (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+f13665d78b20c1808138b8849a28c4a8	LeMans (USA, Europe) (MAX).crt	nointro 2022-05-24	commodore-c64
+c1d47b7b457823f46004f9991bb56d08	Linking Logic (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+a70766a91dc7a11b93acd0799362adc2	Lode Runner (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+2367139f8fac1004e94e013168315694	Logic Levels (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+0b0df03656257cc1352e95c3094eabc9	Lunar Leeper (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+5fb28506c9d743ee579fd25e253f03c7	Magic Desk I - Type and File (USA, Europe) (CCS) (Program).crt	nointro 2022-05-24	commodore-c64
+fa81a60ab654f2c1242995a4ded268b7	Magic Desk I - Type and File (USA, Europe) (VICE) (Program).crt	nointro 2022-05-24	commodore-c64
+597200ea68404971bfcd2236ea02103a	Magic Formel (USA, Europe) (v1.2) (Program).crt	nointro 2022-05-24	commodore-c64
+7fe3f0c498b064ab05c89e20151b48b4	Magic Voice (USA, Europe) (Program).bin	nointro 2022-05-24	commodore-c64
+03294512dc7ce47b1b3cdd0ae0290813	Mario's Brewery (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+376e45f21427a545fa140aa2924b1879	MasterType (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+83aa3833677d3899d4f3f3af3f2f043e	Math Mileage (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+0532e33add3dbe11c081f174fe6f4327	MAX BASIC (Japan) (MAX).crt	nointro 2022-05-24	commodore-c64
+54008211013daefd8db0a66dc6badf1f	Maze Man (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+515b9acca90a43d81e356dc5fc6563ea	Maze Master (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+2bfdedfe9080e339c99abf727bd40f45	Memory Manor (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+fabc7432be0865c9489a9abb75d00328	MicroProse Soccer + Rick Dangerous + Stunt Car Racer (Europe) (Power Play).crt	nointro 2022-05-24	commodore-c64
+bea6ac7f311aa3b7954d6c1b52333c6f	Miner 2049er Starring Bounty Bob (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+122e502d8788b6ddbbb443b6be30713a	MINI BASIC I (Japan) (MAX).crt	nointro 2022-05-24	commodore-c64
+313ccc7924389076bf8cf61c9989e7fb	Minnesota Fat's Pool Challenger (USA).crt	nointro 2022-05-24	commodore-c64
+a5d7737f94733155ee83128dfe640fa1	Mole Attack (Japan) (v01) (MAX).crt	nointro 2022-05-24	commodore-c64
+6f43cacd8ad1c3a5718c3404dcf0c741	Money Wars (Japan) (v01) (MAX).crt	nointro 2022-05-24	commodore-c64
+88c7544bf0121c0042a9b7f5619e8191	Moon Patrol (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+7df779a2d9cd27aad6fd37287b273c3a	Moondust (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+9727d61330e3fd7cd18453af183b4eee	Motor Mania (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+beb74e71e13d4814735c4634639038cf	Mountain King (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+f0733e3194fc879c30b00cfd25c4fa1e	Movie Musical Madness Starring the Jazz Scats (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+3f8cc5365aa2b7c6fc0b0c8dd556f2b5	Mr. Cool (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+bdd5fcbb5644165fef5112283aca5b24	Mr. TNT (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+9797ca21888c29f41944a4df5eab2116	Ms. Pac-Man (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+cfefb95c4e2549fc8fb17d73bf205f44	Muistio 64 (Finland) (Program).crt	nointro 2022-05-24	commodore-c64
+9d3340f4ccd4dc4faefbd6eec7490a89	Music Composer (World) (MAX).crt	nointro 2022-05-24	commodore-c64
+a917c2b5eea8d87aaf98c1dcbaa9e762	Music Machine (USA, Europe) (MAX).crt	nointro 2022-05-24	commodore-c64
+b9fb71ba50568d23714c3c9c80ba919e	Myth (Europe).crt	nointro 2022-05-24	commodore-c64
+dc9e537f2238905b6454ef4c05eef33a	Narco Police (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+486b18fbc2a4830dc790f78fbee506ce	Navy SEALs (Europe).crt	nointro 2022-05-24	commodore-c64
+1165683de57d7542096bbe771082c782	Ninja Remix (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+0612a348f43425e263631b0414e9b51b	Nordic Power Action Cartridge (USA, Europe) (v7.2) (Program).crt	nointro 2022-05-24	commodore-c64
+4789fd8429ec81e9f2861e8809cb5e15	Nova Blast (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+4961c3672624af9a7ea0e5492cca16ff	Number Nabber, Shape Grabber (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+eed5b75b2e608356c3a4962a09139235	Number Tumblers (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+e17e1bdda26d317e6a4c84f633e46478	Oil's Well (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+a8d373cd070ac3a180a6e8b0344f03fd	Omega Race (Japan) (v02) (MAX).crt	nointro 2022-05-24	commodore-c64
+48e9d5cb4720976e2615cf1603440943	Omega Race (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+608b9438d0d310ddf59902d5a372d365	Pac-Man (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+bbd57fc4805799d2f80d39416ff6f98e	Pagefox (Finland) (Program) (u1).bin	nointro 2022-05-24	commodore-c64
+870d15c3f13b134e8564e774c3e920f3	Pagefox (Finland) (Program) (u2).bin	nointro 2022-05-24	commodore-c64
+6a21305851308037b44a8246515d6c4f	Paint Brush (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+db5322ed81b0bd4a4a2e653c72c74afd	Pancho (France).crt	nointro 2022-05-24	commodore-c64
+f26e4d3911377a1be1475e4d7582213d	Pang (Europe).crt	nointro 2022-05-24	commodore-c64
+7ddb98447d4914a77adc59bc52ced239	Park Patrol (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+8cbfa1558c7847137305c2f174870af8	Pastfinder (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+f352160d14602a17c476c08521246612	Peanut Butter Panic (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+ea484b335e77608ba479b1059f286f84	Pinball Spectacular (World) (MAX).crt	nointro 2022-05-24	commodore-c64
+c6123e532c37c5f5eff22c58eec4c885	Pipes (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+3173aaa5e65c6e369679a539150a5ae7	Pit, The (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+9f89943b1bd6405599e0bc36e6a737c5	Pitfall II - Lost Caverns (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+a35faa98ff57f037abe699e01b269c5c	Pitfall! (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+0e3e897bad7e3e164c8098e756d9c28a	Pitstop (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+403c4b527e326d229c529871e90bae9a	Pole Position (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+6f8342725df5c9a327e61bded88ca2c3	Popeye (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+6d8920c720a9345656fbc1da4a2bca16	Power Cartridge (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+754773474de82f0249166d70a40d8534	Princess and the Frog (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+34fca5f56ee299dccff4c843d080fd37	Professional Skateboard Simulator + Fast Food + Pro Tennis Simulator (USA, Europe) (Fun Play).crt	nointro 2022-05-24	commodore-c64
+034284750b83442e9aeb3b2c2ae4eab1	PS-64 (Finland) (v2.00) (Program).crt	nointro 2022-05-24	commodore-c64
+3d50678fb5c82db7f7cc085c598fcc91	Q-bert (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+aa889ade640980cfebeaf85352235eb5	Rack 'em Up! (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+953268d49b474e125a99fa31097935f9	Radar Rat Race (Japan) (v02) (MAX).crt	nointro 2022-05-24	commodore-c64
+cd24678fea44a2512b0449e7433a5e41	Radar Rat Race (Japan) (v02) (MAX) (Alt).crt	nointro 2022-05-24	commodore-c64
+3a8ff9385d4ada1102bfd078fbb17050	Ranch (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+8b19b19cc2050e3a2fcc1e81bbb76bfe	Rechenlowe, Der - Fit in Addition und Subtraktion - 2.-3. Schuljahr (Germany).crt	nointro 2022-05-24	commodore-c64
+50daae305d1f50cb9b22487e02306381	Rechenlowe, Der - Fit in Addition und Subtraktion - 3.-4. Schuljahr (Germany).crt	nointro 2022-05-24	commodore-c64
+978946764a8536f6d154d10b86fff8d3	Rechenlowe, Der - Fit in Geometrie - 3.-4. Schuljahr (Germany).crt	nointro 2022-05-24	commodore-c64
+da00c206b3f97f58e7490a33c270949f	Rechenlowe, Der - Fit in Mathematik - 1. Schuljahr (Germany).crt	nointro 2022-05-24	commodore-c64
+1a912494d9601db1a6bc53b32284111e	Rechenlowe, Der - Fit in Multiplikation und Division - 2.-3. Schuljahr (Germany).crt	nointro 2022-05-24	commodore-c64
+edfee303af9b25b6a535f23a144ccdaf	Rechenlowe, Der - Fit in Multiplikation und Division - 3.-4. Schuljahr (Germany).crt	nointro 2022-05-24	commodore-c64
+42d3546a7aec63d3d0c679b56dd91895	Rechtschreiblowe, Der - Fit in Rechtschreibung - 3.-4. Schuljahr (Germany).crt	nointro 2022-05-24	commodore-c64
+94db2e4a63137626362f455bbdc5743c	Rechtschreiblowe, Der - Fit in Rechtschreibung - 3.-4. Schuljahr (Germany) (Teil 1).d64	nointro 2022-05-24	commodore-c64
+50c98e57e25baecf442a1e3831272249	Rechtschreiblowe, Der - Fit in Rechtschreibung - 3.-4. Schuljahr (Germany) (Teil 2).d64	nointro 2022-05-24	commodore-c64
+d1cee0d63c4d9daad134024ae8890e8b	Rechtschreiblowe, Der - Fit in Rechtschreibung - 3.-4. Schuljahr (Germany) (Teil 3).d64	nointro 2022-05-24	commodore-c64
+994ecfe38420d8064f6e6e2bc6569d03	Retro Ball (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+bcc47bf3b3b52e74512a1a22a09c5c35	REX-Ramfloppy (USA, Europe) (v4.0) (Program).crt	nointro 2022-05-24	commodore-c64
+6301f1b5aa0b24d040ce094e1ee7f975	River Raid (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+bd3b33585d32298a39402abc44487dc8	Road Race (Japan) (v02) (MAX).crt	nointro 2022-05-24	commodore-c64
+5ecee01da9bc9d658f8b404c2a7aef1b	RoboCop 2 (Europe).crt	nointro 2022-05-24	commodore-c64
+968d382d591d6aae958d8d2c4318e6e5	RoboCop 3 (Europe).crt	nointro 2022-05-24	commodore-c64
+b0c69ba64682d0a9bd0612a02d37f24c	Robotron - 2084 (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+2fb540b40e04618124c2eef9e3da2e6a	Rootin' Tootin' (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+e4169936acb97250032957854a422d32	Sales Cartridge (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+0369d67953f6a1b0d2784c987729899f	Sammy Lightfoot (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+3ea6e1b7706634bbd679610e9ffae83f	Satan (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+ac12f60217b66919fd970cbd22e31f34	Save New York (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+7ff37cdcce8ac73256c26bf61923ad3c	Sea Speller (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+cb88be7015a118af01e63e565b57ba14	Sea Wolf (USA, Europe) (MAX).crt	nointro 2022-05-24	commodore-c64
+3e331464e67d903087f667dc623f8170	Seafox (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+37512a6bb360ae02d21fac4bace635e1	Seahorse Hide'n Seek (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+5700b68d1b6168fe55ec10fdf914c333	Serpentine (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+ac53d9944e46a3695bca5226d5ee5aec	Sesame Street - Letter-Go-Round (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+ff97f50b19082c9805282bb479ba67ec	Shadow of the Beast (Europe).crt	nointro 2022-05-24	commodore-c64
+714cf7390f8a4f87f6c8a32137720115	Simons' BASIC (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+cc4b32ebf6b42ddb3f990cc7106f70dd	Solar Fox (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+8ea8dddd6130e51a6534bc181aab4b31	Song Maker (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+ea763e0c97f7e9e5e59a6abfd35568c0	Space Action (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+24900229ffd862bd120642ec89ed744a	Space Gun (Europe).crt	nointro 2022-05-24	commodore-c64
+63e1c120205a35d974f2816431e54c73	Space Ric-O-Shay (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+c26feb2223a95ceeab6ecae48a3aeef4	Space Shuttle - A Journey into Space (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+b826c806b1ad1fa38241b65da412acae	Speed Math & Bingo Math (USA, Europe) (v01) (MAX).crt	nointro 2022-05-24	commodore-c64
+b96eefbc95b4870c72563b250200951a	Speedsaver $C000 (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+a67667e2e6a9df8ea8a5e02cc188fa79	Speedsaver Combi (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+ba5e96d0156f70844ad8f39386eb6ff1	Spitball (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+a6e2e959c42977081b139b79f26137ee	Spy Hunter (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+df1cca966edd1655be98034be5ac8441	Star Post (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+33f842ba5e7e5c031f189bdc55d43c20	Star Ranger (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+6527b8d984e0fc0c828ec96baa4a89cb	Star Trek - Strategic Operations Simulator (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+173847d31847d3b796a1f31c114302bb	Star Wars - The Arcade Game (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+f2846841ff3b3c50d0051fbf12c1a833	Stat 64 (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+62679daad5181b29f532ba6b07221dca	States and Capitals Tutorial (USA).crt	nointro 2022-05-24	commodore-c64
+822d18c46f38be0ccf86411055f04a1b	Stix (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+e36142f48bb20220a3d1d4df29433b85	Story Machine (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+2000bfbfe3de0260446258b925c43a33	Super Alien (Japan) (v01) (MAX).crt	nointro 2022-05-24	commodore-c64
+a796212bd5b2462ffe17fa056af49352	Super Expander 64 (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+3e799848561a77eafc5c021d0e86ebbf	Super Explode 5 (USA, Europe) (Program).bin	nointro 2022-05-24	commodore-c64
+12791a7ccff012e65dd00a877965a9dc	Super Sketch (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+4f1ebb0f31597fada0c27caaf7d29475	Super Smash (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+dd0937d190006f2fd6357d14b6f82c97	Super Snapshot 5 (Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+05c8a05452bb722d6a4fa25cbda51d11	Super Snapshot 5 (USA) (Program).crt	nointro 2022-05-24	commodore-c64
+b0e05cfbf8e35c630a47a0035b4c67ff	Super Zaxxon (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+677520afe9752b577a84aa431f43d41e	Tank Wars (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+d73b21b018e640f361cb5e97dba39f57	Tapper (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+c0b5df8f443a33a7faa3f4636222b269	Teledata (Sweden) (Program).crt	nointro 2022-05-24	commodore-c64
+357240ee7012d92a777fe87d0982f390	Tennis (USA) (CCS).crt	nointro 2022-05-24	commodore-c64
+b63b48c1f95c1d7a05491dceae5c4894	Tennis (USA) (VICE).crt	nointro 2022-05-24	commodore-c64
+403309231b0cc9b11b312e43c3734940	Tenpins (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+89d7c974bcb0acaba4fd674a6ad2dda7	Tenpins + Meteor Runner + Vortex (USA, Europe) (Megafun).crt	nointro 2022-05-24	commodore-c64
+87b7ca073c3ab14a6f5ca4140ab07299	Terminator 2 - Judgment Day + Modern Music Maker + Image System, The (Europe).crt	nointro 2022-05-24	commodore-c64
+a2fc4fffaefd6beca1fe8b7d578939a6	Threshold (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+47006854556379a9325d1423b5a735af	Timebound (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+30244052ac1b8bbbd702969d0a451f34	Toki (Europe).crt	nointro 2022-05-24	commodore-c64
+da5c2d4b276c25f0561d547bbf9cc2e2	Tool-64, The (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+4bbc9358fce7f76bd8d0a8d6107cb24b	Tooth Invaders (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+88d0aaeddefb7d6151d492e21fa412b3	Toy Bizarre (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+a48159e2ce7cb5b792358595a79682be	Trashman (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+152f411a48643f920b68f275b509eac0	Turbo Maze Man (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+d6aef8f9e495850fb5ec5da320addc9a	Tyler's Dungeons (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+a29554f234e0569d7b2cc2172836174e	Ultrex Quadro Maze (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+27f9c0b35f7f3838f69e203fa88731db	Up & Add'Em (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+46d1ab35bb9102ef117667724923f637	Up for Grabs (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+c79de237de303a002394837fa471dc23	Up'n Down (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+897f8d785aa7f541a937b73583ba5c99	Utah Counties Tutorial (USA).crt	nointro 2022-05-24	commodore-c64
+ed24b651d72d4ff6d56c0b65c0c42ca2	VIC-Text 64 (Sweden) (Program).crt	nointro 2022-05-24	commodore-c64
+5f8e37cc25c9479056de07f631df42c5	Videomate (USA, Europe) (Program).bin	nointro 2022-05-24	commodore-c64
+4dc5a5c619f35d969744946bc1ad4e8e	Viduzzles - Computerized Jigsaw Puzzles (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+bebbf07ee55d3d9ded0df0d0e5bb5129	Viking Raider (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+eb874406e5b7b1bb703151e3d38b23b8	Viking Raider (USA, Europe).d64	nointro 2022-05-24	commodore-c64
+9f1f0b312f7b6730d4c6ad323ef669a9	Vindicators (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+56083cbc8d55b5faf10a48497fd9d633	Visible Solar System, The (USA, Europe) (MAX).crt	nointro 2022-05-24	commodore-c64
+426c4996794899dfa4fa9281d923ffce	Warp Speed (USA, Europe) (v1) (Program).crt	nointro 2022-05-24	commodore-c64
+1c3a814df659c3f5be1a0a236b751294	Warp Speed (USA, Europe) (v2.0) (Program).crt	nointro 2022-05-24	commodore-c64
+152bd270e0cbbeb848b0e61b59a0d1bf	Webster - The Word Game (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+af8070b342b3acdbb64e630b772d0e60	Wizard of Id's Wiztype, The (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+311fa4155e2673972bd61bc1b1325b25	Wizard of Wor (Japan) (MAX).crt	nointro 2022-05-24	commodore-c64
+5f7f74953b65f8cfb30753bc49271c7a	Wizard of Wor (Japan) (v02) (MAX).crt	nointro 2022-05-24	commodore-c64
+1597893279f7239adbeca0fdb8f30719	Wizard of Wor (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+f490dd312c165f663a6c298d0bc46a22	Wonder Boy (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+f8382bfa38bc3cf8820688211feb775a	Write Now! 64 (USA, Europe) (Program).crt	nointro 2022-05-24	commodore-c64
+7a3bfccbc8a72414eb1c2e3ffb711be6	Zaxxon (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+c1be21571e20e0d994d67f3019ad801d	Zenji (USA, Europe).crt	nointro 2022-05-24	commodore-c64
+7f0926e81ec077c074abfa62f7ab1370	Zone Ranger (USA, Europe).crt	nointro 2022-05-24	commodore-c64

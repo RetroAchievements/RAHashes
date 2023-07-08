@@ -1,0 +1,309 @@
+41f5af978d69fc20f1f2fcad7c2ad8cf	[BIOS] Commodore 1540 (World).ub3	nointro 2017-03-15	commodore-vic20
+d3efe63105269a533ccb3dfda4b320a8	[BIOS] Commodore 1540 (World).ub4	nointro 2017-03-15	commodore-vic20
+7e6e41b5b60fec798743afd7063b42ed	Commodore VIC-1001 - 901460-02 (Japan).ud7	nointro 2017-03-15	commodore-vic20
+8b9237706f47a9b3498d8f881ef0244d	Commodore VIC-1001 - 901486-01 (Japan).ue1	nointro 2017-03-15	commodore-vic20
+317f93bcbc5ee15da085a51a306f2c61	Commodore VIC-1001 - 901486-02 (Japan).ue1	nointro 2017-03-15	commodore-vic20
+d390e340e94e1bef0f2fdfe9fa850993	Commodore VIC-20 - 901460-03 (Europe).ud7	nointro 2017-03-15	commodore-vic20
+8b9237706f47a9b3498d8f881ef0244d	Commodore VIC-20 - 901486-01 (Europe).ue1	nointro 2017-03-15	commodore-vic20
+f0587624dcd7685710a8fdb35939617f	Commodore VIC-20 - 901486-07 (Europe).ue1	nointro 2017-03-15	commodore-vic20
+a65d65a8c3c287981a8205f6692d32bd	Commodore VIC-20 - 22081-206 (Sweden).ue1	nointro 2017-03-15	commodore-vic20
+2ac2e47425b4ebccf47ccad0acac5a7b	Commodore VIC-20 - 22101-207 (Sweden).ud7	nointro 2017-03-15	commodore-vic20
+8b9237706f47a9b3498d8f881ef0244d	Commodore VIC-20 - 901486-01 (Sweden).ue1	nointro 2017-03-15	commodore-vic20
+d390e340e94e1bef0f2fdfe9fa850993	Commodore VIC-20 - 901460-03 (USA).ud7	nointro 2017-03-15	commodore-vic20
+8b9237706f47a9b3498d8f881ef0244d	Commodore VIC-20 - 901486-01 (USA).ue1	nointro 2017-03-15	commodore-vic20
+0313e31e5f31e1f739c2377792460d67	Commodore VIC-20 - 901486-06 (USA).ue1	nointro 2017-03-15	commodore-vic20
+a771afb742e2d120cc8f5840646e1139	A.E. (World).60	nointro 2017-03-15	commodore-vic20
+808e6b1a692ec345c9f0e4d87d21f49d	Adventureland Adventure (World) (SYS 32592).40	nointro 2017-03-15	commodore-vic20
+4b46ff491134e2b006e708e9b015ecd7	Aggressor (Europe).a0	nointro 2017-03-15	commodore-vic20
+581933b5fa5f2dcfbc6668730d8cee54	Aggressor (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+4cc04877708d0403108aaceb47d54cb5	Alien (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+a79ae7afc49fb0d2a9a05bde7a9a8f68	Alien Blitz (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+0d541b36745ac9bc504436dec909d6b4	Alien Sidestep (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+74b1c6c28fb8422dc4992ea1ec4f1302	Alphabet Zoo (Japan, USA).60	nointro 2017-03-15	commodore-vic20
+42ce1444406fd03364aa39ad1dbe1fab	Amazing Maze (World).a0	nointro 2017-03-15	commodore-vic20
+016aeee5bd852cb8f6ba09c9bc754b0a	Amazing Maze (World) (Alt).a0	nointro 2017-03-15	commodore-vic20
+8de5c5b65f897e8c2766c332702299a5	Amidar (Europe).a0	nointro 2017-03-15	commodore-vic20
+650c367b372c6c553e5a406efd3d3666	Amok! (World).a0	nointro 2017-03-15	commodore-vic20
+118ab920bd299ec18917555b49abfa0e	Ape Escape (World).a0	nointro 2017-03-15	commodore-vic20
+0065dfc58981c3535c61f92e44b46ac2	Ape Escape (World) (Alt).a0	nointro 2017-03-15	commodore-vic20
+7af08ce1dfde43515aca1bbe738f9fb7	Apple Panic (Japan, USA).bin	nointro 2017-03-15	commodore-vic20
+aee9686501007e32b7bcd91866c71a9c	Arachnoid (World).60	nointro 2017-03-15	commodore-vic20
+cb4238066339713c9844711b0e3f5c04	Arcadia (Europe).a0	nointro 2017-03-15	commodore-vic20
+43da229b34faafd6c2aa9bf0e42d40af	Artillery Duel (Japan, USA).60	nointro 2017-03-15	commodore-vic20
+38db396dac6c4a781b4c665770f5dce0	Assam (World) (SYS 700) (Program).a0	nointro 2017-03-15	commodore-vic20
+b38202dbe3c048f65c1c9fe9c0e4756e	Astroblitz (Europe).a0	nointro 2017-03-15	commodore-vic20
+1ce2fe77e083c98a19541c1fec93246c	Astroblitz (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+f34fc4a66d2357e1e4771db50e81e335	Atlantis (Europe).a0	nointro 2017-03-15	commodore-vic20
+5449bdeddb82fa210fc0458b971b41a9	Atlantis (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+f1299257e177a951a60720a958e21b63	Attack of the Mutant Camels (World).a0	nointro 2017-03-15	commodore-vic20
+d65bf12bfd936e0afa59ffa0614e9232	Avenger (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+27fcbe43f43734f68eb5186f56fddde0	Bandits (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+722360fdb3f7133a6e435cb9579be638	Bank Robber (World).a0	nointro 2017-03-15	commodore-vic20
+bc37e19bbcb88833ff82c80d697c4c9e	BASIC 4.0 (World) (Program).a0	nointro 2017-03-15	commodore-vic20
+e0b20072dddcb3e8088625ea1bcceaf8	BASIC V5 (World) (Program).a0	nointro 2017-03-15	commodore-vic20
+7a55ddc196eb64f2a307fd12334c805e	Battlezone (Japan, USA).60	nointro 2017-03-15	commodore-vic20
+80f9bd1302d7939485c78db1af8fb577	Black Hole (Europe).a0	nointro 2017-03-15	commodore-vic20
+dd81780fc4ab9bb6ed0959924bddb0bc	Black Hole (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+2f27d6f496909ff61b83e662f696e378	Buck Rogers - Planet of Zoom (World).60	nointro 2017-03-15	commodore-vic20
+382638cbcca2c300179bfec02f040db6	Bug Crusher (World).a0	nointro 2017-03-15	commodore-vic20
+19d6699ed158b25870a3a64c49b722d9	Buti Toolkit (World) (Program).a0	nointro 2017-03-15	commodore-vic20
+1a89e53198a1c2179b48e6ea16919fb8	Cannonball Blitz (Japan, USA).20	nointro 2017-03-15	commodore-vic20
+8a2acae44fcde5fb897b3a9efc339f0f	Cannonball Blitz (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+3e041349737c2158da6d2f7d32b8d5d9	Capture the Flag (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+516cfb2a4cbc0c34b3a26ab66f8cecee	Capture the Flag (Japan, USA) (Alt).a0	nointro 2017-03-15	commodore-vic20
+d649d92ed2c0521458708ef80d0599fc	Cassette Turbo (World) (Program).a0	nointro 2017-03-15	commodore-vic20
+d44867ee1abcabadc9a3189a94278e33	Catch-a-Snatch (Europe).a0	nointro 2017-03-15	commodore-vic20
+6202c2720152ca4c34d8b7099b18f9cb	Cave-in (World).a0	nointro 2017-03-15	commodore-vic20
+2e91bf32d8a563f3c055972b8ca9349a	Cave-in (World) (Alt).a0	nointro 2017-03-15	commodore-vic20
+259ea2a54cf8ac5855c48447dede3daa	Centipede (Japan, USA).20	nointro 2017-03-15	commodore-vic20
+11666fdae8bc5daa12f81e2233c38611	Choplifter (Europe).a0	nointro 2017-03-15	commodore-vic20
+9f184075d6f885277e1a8f62efe4f840	Choplifter (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+bce1ed4d22f612b91cb5943b43b5c212	Choplifter (Japan, USA) (Alt).a0	nointro 2017-03-15	commodore-vic20
+0036deae9c6558ade975856ff70f30eb	Chuck Norris Superkicks (World).a0	nointro 2017-03-15	commodore-vic20
+641b1ac075b7835ef6278a500976acee	Cloudburst (Europe).a0	nointro 2017-03-15	commodore-vic20
+8c131f16f671dbce856a2fe4978f1952	Clowns (Japan, USA) (Joystick).a0	nointro 2017-03-15	commodore-vic20
+90fe5d2188a0299558c6b7a79431335a	Clowns (Japan, USA) (Paddle).a0	nointro 2017-03-15	commodore-vic20
+08119d072292a92d93204418a5d07231	Combasic (World) (SYS 45056) (Program).b0	nointro 2017-03-15	commodore-vic20
+6046ffed6e7c30c1f0ae9fbe6ebfeaa6	Commodore Artist (Japan, USA) (Program).a0	nointro 2017-03-15	commodore-vic20
+857246f97ba757a91a23e4a11878d2bf	Computer War (World).a0	nointro 2017-03-15	commodore-vic20
+90159906ada2ddda9197f4843ece4b0f	Congo Bongo (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+683de21b25b3d9d4098fe40669c66476	Cosmic Cruncher (World).a0	nointro 2017-03-15	commodore-vic20
+4aaf74eb672420e88ab6df3eefb47eb6	Cosmic Cruncher (World) (Alt 2).a0	nointro 2017-03-15	commodore-vic20
+2e24e58886273a64073ec7e794646724	Cosmic Cruncher (World) (Alt).a0	nointro 2017-03-15	commodore-vic20
+5512f7bb9e72e148c5d21fc09f96b531	Cosmic Jailbreak (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+48619fcdae8a0c490d4c9761f6f4d2ae	Count Adventure, The (World) (SYS 32592).40	nointro 2017-03-15	commodore-vic20
+3cf6d1cecfa92161afadf76ba25cd1ab	Creepy Corridors (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+5fc8e591207d17b82d641ed07c2385ba	Crossfire (Europe).a0	nointro 2017-03-15	commodore-vic20
+7ab7b36734f96e42a9fa657d15cb0bdc	Crossfire (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+fd9992d20bfd3296b4211774c4ea8595	Cyclon (World).a0	nointro 2017-03-15	commodore-vic20
+61b56947232f9f34a25c0e6e50c36d4f	Dancing Bear, The (Japan, USA).20	nointro 2017-03-15	commodore-vic20
+941c9a9c6da2ed4a782de9601e466bf9	Deadly Duck (Europe).a0	nointro 2017-03-15	commodore-vic20
+16ef1f9696b2ed85a2c7e922c3bf505a	Deadly Skies (Europe).a0	nointro 2017-03-15	commodore-vic20
+4041c1102dbed2a037306e886280c63b	Defender (World) (v1.1).60	nointro 2017-03-15	commodore-vic20
+1faea36499da6bc7a3189728edb3455e	Demon Attack (Europe).a0	nointro 2017-03-15	commodore-vic20
+816ffc73940f7a85ae91dffbf516185d	Demon Attack (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+17cbde8df95fb96b161a04ee1bef6509	Dig Dug (Japan, USA).20	nointro 2017-03-15	commodore-vic20
+99149f66df59d42652c9707650bdda3e	Donkey Kong (Japan, USA).20	nointro 2017-03-15	commodore-vic20
+8a872f420bf818f7e29b455d32e60a79	Dot Gobbler (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+5ecc599b8d815700d6e73426c889dc35	Dot Gobbler (Japan, USA) (Alt).a0	nointro 2017-03-15	commodore-vic20
+91bbc2c6fc036f9948a0d56944a74482	Dragonfire (World).a0	nointro 2017-03-15	commodore-vic20
+15a8f8310941dec53f9c4b099c788f7a	Droids (World).a0	nointro 2017-03-15	commodore-vic20
+358f8221571f445c200f7aef39ce7d8b	E.T. - The Extra-Terrestrial (Europe).a0	nointro 2017-03-15	commodore-vic20
+94c4054d9ca8f5325902e7b8dee8bae7	E.T. - The Extra-Terrestrial (Europe) (Alt).a0	nointro 2017-03-15	commodore-vic20
+63e7ae1f11b983bddb5a669fd3bdaf89	ExBASIC Level II (World) (Program).a0	nointro 2017-03-15	commodore-vic20
+af7fc201f89419c7a60ed74217b40ef6	Face Maker (World).a0	nointro 2017-03-15	commodore-vic20
+30dd96b12b1a022ed2415e71b1a1ebca	Face Maker (World) (Alt).a0	nointro 2017-03-15	commodore-vic20
+c7ae69d3b8dec16f9b1bcddb1bde8e76	Fast Eddie (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+2022a05246d407600d93b8b172425318	Final Orbit + Bumper Bash (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+c0f08379e5af908a48311c9f47f450a0	Final Orbit + Bumper Bash (Japan, USA) (Alt).a0	nointro 2017-03-15	commodore-vic20
+1a5ec0d1213be90b8df38c14b24f5fb0	Flipper 1.0 (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+6a613dba6d6b3d41543c6daef27cafe8	Fourth Encounter, The (World).a0	nointro 2017-03-15	commodore-vic20
+95cbf3b2505c28cc8873740ba1c3b347	Frogger (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+270ac3cb613af1b5f97d3cd437e17c9e	Fun with Music (World).a0	nointro 2017-03-15	commodore-vic20
+89dd2f0ee60731f49d078a7de3ce22df	Galaxian (World).a0	nointro 2017-03-15	commodore-vic20
+0c32e1cd036bb67dfc03f2edc6303908	Garden Wars (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+e0c73ffa44c69b5da752d264383589f4	Garden Wars (Japan, USA) (Alt).a0	nointro 2017-03-15	commodore-vic20
+b8d9dac6b661cc9247c10f4e71aa0b65	Ghost Manor (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+67780503d98125c311eacc2673b03fec	Gold Fever (World).a0	nointro 2017-03-15	commodore-vic20
+bd0a830010ebde78e330c0670e555893	Gorf (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+601650cb5d636777ed960afb6d93f2c4	Gridrunner (Europe).a0	nointro 2017-03-15	commodore-vic20
+6ff978972ed99d3b588146ba0520933a	Gridrunner (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+c310af54ecb0c3203084beaadfdf80e2	Handy Toolkit (Netherlands) (Program).a0	nointro 2017-03-15	commodore-vic20
+719c57d0dc9565d0b17a6d6c69873a0b	HesMon (World) (v1.1) (Program).a0	nointro 2017-03-15	commodore-vic20
+7691331e58217a010be6be82994bacd6	HesMon (World) (v1.1) (Program) (Alt).a0	nointro 2017-03-15	commodore-vic20
+eaba8ba64dc1ba7c46063d4012c2ea4c	HesWriter (World) (v1.1) (Program).a0	nointro 2017-03-15	commodore-vic20
+d740cdc9183d235c9b563c8f62dd1c2e	Hires Toolkit (World) (SYS 45056) (Program).b0	nointro 2017-03-15	commodore-vic20
+085bf6f4098b75a98c5eca366892b714	Home Babysitter (World).a0	nointro 2017-03-15	commodore-vic20
+9cc4bf47941138dc9f05da2e4b565f20	Household Finance (World) (Program).a0	nointro 2017-03-15	commodore-vic20
+c0678c9dfdabd2d8ab68662282b0f15f	IFR (Flight Simulator) (World).a0	nointro 2017-03-15	commodore-vic20
+1e313d20dc963094fd67a6a4eb914f1f	IFR (Flight Simulator) (World) (Alt).a0	nointro 2017-03-15	commodore-vic20
+72176fb8bf625dc233fee22cb1c86731	In the Chips (Japan, USA).60	nointro 2017-03-15	commodore-vic20
+d661999f83a486379b1e8f9ece76df51	Jawbreaker II (Europe).a0	nointro 2017-03-15	commodore-vic20
+2c1d7991fe8c75ee857a0781557c19bd	Jawbreaker II (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+799e2d8647cb9bfb061c2fd0495d404c	Jelly Monsters (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+85fee1bcba7411783302fe0de5eb2f98	Jungle Hunt (Japan, USA).60	nointro 2017-03-15	commodore-vic20
+5acd29a705174fca00c32ee61547e24c	Jupiter Lander (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+1f829c67556db8072554186645574df1	K-Razy Antiks (Europe).60	nointro 2017-03-15	commodore-vic20
+e116e96475e50a0a2c5008a2f52b8b2a	K-Razy Antiks (Europe).a0	nointro 2017-03-15	commodore-vic20
+afcae4d437d40427201bff71f745df9e	K-Star Patrol (Europe).60	nointro 2017-03-15	commodore-vic20
+853fa4b04588d4ab86189453890bac93	Kids on Keys (World).a0	nointro 2017-03-15	commodore-vic20
+3529cc09039de0cbcc76efd849ea01cd	Kindercomp (World).60	nointro 2017-03-15	commodore-vic20
+00a4346bacf11ad12c31f0541def1257	Lazer Zone (World).a0	nointro 2017-03-15	commodore-vic20
+b8659985a43cf3d36359d8e502ea35e6	Lode Runner (World).60	nointro 2017-03-15	commodore-vic20
+bb423df252f44c52f4a48b41b2451a7e	Lunar Leeper (Japan, USA).20	nointro 2017-03-15	commodore-vic20
+7fc6b1ff3a04eba75d7fe10b1d7f6ae0	Lunar Leeper (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+f041cbbb2994c40e048bdebcf766d0db	Mastertype (World).60	nointro 2017-03-15	commodore-vic20
+579352bf3e7141ea8c578af3c929fa52	Maze (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+abe0ea7beb7c2393e6af669437fff06b	Maze (Japan, USA) (Alt).a0	nointro 2017-03-15	commodore-vic20
+925b2bcef37b1d36ee57ef4e04ac59ed	Medieval Joust (World).a0	nointro 2017-03-15	commodore-vic20
+d37ba5baa5dff8bd27a759f366d4342f	Medieval Joust (World) (Alt).a0	nointro 2017-03-15	commodore-vic20
+c91808744ffbd966c104a49d6c2b3ba1	Menagerie (World).a0	nointro 2017-03-15	commodore-vic20
+a103a8a02f9f02a1a1a77c8e306d3297	Menagerie (World) (Alt 2).a0	nointro 2017-03-15	commodore-vic20
+02a2f8ac0d20dc56df4dcd0b849f54c1	Menagerie (World) (Alt).a0	nointro 2017-03-15	commodore-vic20
+b375af1d9f639f334f405957121c4d94	Meteor Run (Europe).60	nointro 2017-03-15	commodore-vic20
+6196a18bc46bba46a443eabe8e4c96bb	Mine Madness (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+82dc6ed7ca2e8d85840e05b6049a4365	Miner 2049'er (Europe).a0	nointro 2017-03-15	commodore-vic20
+0577e99918b4be456ae006977d02563b	Miner 2049'er (Europe) (Alt).a0	nointro 2017-03-15	commodore-vic20
+f243fbc9decd2a344868ed2ac580100b	Mission Impossible Adventure (World) (SYS 32592).40	nointro 2017-03-15	commodore-vic20
+b4e373d50195722b25c94283bf49db60	Mole Attack (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+826879dd8cc6a3de5f1fd216f86407af	Mole Attack (Japan, USA) (Alt).a0	nointro 2017-03-15	commodore-vic20
+4ff023da5de47f11cc2f2fee026fb939	Money Wars (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+a243da0c9bd7a2d9c79ff7361a2d93e7	Money Wars (Japan, USA) (Alt 2).a0	nointro 2017-03-15	commodore-vic20
+1550a3b59ad28333efb26d4ee1f0a52a	Money Wars (Japan, USA) (Alt 3).a0	nointro 2017-03-15	commodore-vic20
+121a419ae95598896da7aad430c42f4b	Money Wars (Japan, USA) (Alt).a0	nointro 2017-03-15	commodore-vic20
+d7d11c9ea74b73341ca92760f39c2e0b	Monster Maze (World).a0	nointro 2017-03-15	commodore-vic20
+6f4b3c116b48b632c6b527a34acb46ca	Moon Patrol (Japan, USA).60	nointro 2017-03-15	commodore-vic20
+92617d8a2aee14ee12edb1ac298b2f6c	Mosquito Infestation (Europe).a0	nointro 2017-03-15	commodore-vic20
+490cb2aa40a312d72b67a407059c4009	Motocross Racer (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+8edac533bf069f600e39b2eb89b06ed9	Mountain King (Japan, USA).60	nointro 2017-03-15	commodore-vic20
+d421b07cef5116a28d94380698a7cb8a	Ms. Pac-Man (Japan, USA).60	nointro 2017-03-15	commodore-vic20
+e295ff86b9339937ff5a5cb4e1c41312	Mutant Herd (Europe).a0	nointro 2017-03-15	commodore-vic20
+e8a537d39e3b3811a7e874481c041cf7	Mutant Herd (Europe) (Alt).a0	nointro 2017-03-15	commodore-vic20
+1ea45a98a7476981ce0978661cc85b93	Number Crunch (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+be58a860f741ef691333783a160ee161	Number Nabber, Shape Grabber (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+fc33b9877188b45e7261deade15d8e9e	Omega Race (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+0237ae558b866c615958d25126d7de90	Outworld (Europe).a0	nointro 2017-03-15	commodore-vic20
+b4e62cd525eaac300c3d8bf47afe239f	Outworld (Japan, USA).60	nointro 2017-03-15	commodore-vic20
+17f2c48666ce5bf82e264b3735ef6cf7	Outworld (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+f0b94ab9d8eb407d07025b20a7b860a9	Pac-Man (World).a0	nointro 2017-03-15	commodore-vic20
+34cca5ec6b836b035748d46c34bdd560	Pac-Man (World) (Alt).a0	nointro 2017-03-15	commodore-vic20
+03284b29fad6c73458ddcca9236684ee	Personal Finance (World) (Program).a0	nointro 2017-03-15	commodore-vic20
+f8da9ba86a430840cea303524b6f2879	PET Loader (Europe) (Program).a0	nointro 2017-03-15	commodore-vic20
+a950e48a7096ef130a80c84766774bec	Pharaoh's Curse (World).60	nointro 2017-03-15	commodore-vic20
+2c11f9b2e01ad02b9c25f0755ad02773	Pharaoh's Curse (World) (Alt).60	nointro 2017-03-15	commodore-vic20
+70f6bd6fbd3e2df08cbd49151d4ad77c	Pinball (Europe).60	nointro 2017-03-15	commodore-vic20
+1f5ddd3902898f145f55daf50b6cff19	Pinball Spectacular (Japan, USA).60	nointro 2017-03-15	commodore-vic20
+85b81cee971bc029ab82deb090d3b342	Pipes (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+a5bd2a10c13181d712a6263d79a68e59	Pirate's Cove Adventure (World) (SYS 32592).40	nointro 2017-03-15	commodore-vic20
+af7280da30c696ee286b3e07c94cfc67	Poker (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+e363d9e5a6027df8670dcb0f2509d445	Poker (Japan, USA) (Alt).a0	nointro 2017-03-15	commodore-vic20
+ce4d3ca45ee5b1cf8f2ee7062a577037	Polaris (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+9e618fea6aa34ede1e57b5e8f0943d49	Pole Position (Japan, USA).60	nointro 2017-03-15	commodore-vic20
+7346fa3d98694caf2f8f74d67e815568	Predator (Europe).a0	nointro 2017-03-15	commodore-vic20
+a28e58b15142a34b32823ebda85ea006	Predator (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+958b8e10c8e030572076c8e26207795d	Princess and Frog (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+39aab8cbfeeb8ddb52f6a415402ffcf7	Programmer's Aid Cartridge (World) (SYS 28681) (Program).70	nointro 2017-03-15	commodore-vic20
+fa1fcd213d08afd89bd8fe024e13c3d6	Protector (World).a0	nointro 2017-03-15	commodore-vic20
+8f767bb100d9062f7717a7841e6c76ac	Q-bert (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+f3d49553389b5887d1fe7bef714d7468	Quackers (Europe).a0	nointro 2017-03-15	commodore-vic20
+1291de6c85635465450755726a685f66	Quackers (Europe) (Alt).a0	nointro 2017-03-15	commodore-vic20
+c33ed8ea206a71ad99c5cef6f3ec8cd9	Quick Brown Fox (World) (SYS 32692) (Program).60	nointro 2017-03-15	commodore-vic20
+0e2167abfc597add60e03c35801fe9c9	Raid on Fort Knox (World).a0	nointro 2017-03-15	commodore-vic20
+91da205be80fa3e4e9823aa51fbc8a92	Raid on Fort Knox (World) (Alt).a0	nointro 2017-03-15	commodore-vic20
+475a824c68654a394eb73123330f484f	Rat Hotel (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+9d05834c3f72584239af91bd3cab1baf	Rat Hotel (Europe).a0	nointro 2017-03-15	commodore-vic20
+42a4453b31fc5350ed0e3c203703574f	Renaissance (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+713c2a5656ffcf176cf46343a8892a37	River Rescue (World).a0	nointro 2017-03-15	commodore-vic20
+61c4b14398c1b14938235aa1711418b6	River Rescue (World) (Alt).a0	nointro 2017-03-15	commodore-vic20
+1123c32d7d185788878ef0aa3067c31d	Road Race (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+1dfd5461ca2f17457c38025fff5d5afd	Road Race (Japan, USA) (Alt 2).a0	nointro 2017-03-15	commodore-vic20
+66a299f5fc98f85c6081f60b794ad213	Road Race (Japan, USA) (Alt).a0	nointro 2017-03-15	commodore-vic20
+071e993bc62d13b6d4ca82666610fadf	Robin Hood (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+7320a95ad784e3a65968be7fa4f4607c	Robot Panic (World).a0	nointro 2017-03-15	commodore-vic20
+b8cd78b20eb3470934ea8824cfac8343	Robot Panic (World) (Alt).a0	nointro 2017-03-15	commodore-vic20
+f873e0924309eb7831e7246437067ab9	Sargon II Chess (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+909ecd851573486e9eef7bfccfd5cc48	Sargon II Chess (Japan, USA) (Alt).a0	nointro 2017-03-15	commodore-vic20
+b8372442a98ff3a1f14fb3e44db9578d	Satellite Patrol (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+47c738166c52c79f48ec8aacf806c57b	Satellites and Meteorites! (Europe).a0	nointro 2017-03-15	commodore-vic20
+fbb023cf6c005b423e7195c95218bddd	Satellites and Meteorites! (Japan, USA).60	nointro 2017-03-15	commodore-vic20
+294f7b6aaacd0daf2eb865e33f205f09	Satellites and Meteorites! (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+d38d4a0463b675b9d3273d05ff3491b4	Scorpion (Europe).a0	nointro 2017-03-15	commodore-vic20
+89c0425f65ea2a502dc7fe1561b8820c	Scorpion (Europe) (Alt).a0	nointro 2017-03-15	commodore-vic20
+f9d3f8f0157a671209cc087525e35938	Scram 20 (World).a0	nointro 2017-03-15	commodore-vic20
+490408feb74d535f640d84d2d1f44ba4	Screen Master (World) (Program).a0	nointro 2017-03-15	commodore-vic20
+0dddfcd167dd76f9940178de15be4aba	Sea Wolf (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+5e8c0c20383a493151e62a3f60b6182c	Seafox (Japan, USA).60	nointro 2017-03-15	commodore-vic20
+d67f0093ecce78279fea106ffbca7027	Serpentine (Europe).a0	nointro 2017-03-15	commodore-vic20
+8c8a65973e6d4cec763e1fa6fb1d3af9	Serpentine (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+bb60cc27b5cabb90b41cf3827b295291	Shamus (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+2fc3b1886066bac297f68d32a641ed92	Sir Lancelot (World).a0	nointro 2017-03-15	commodore-vic20
+d5e76225a7f25d5bbc57e3bd87ee9129	Skibbereen (Europe).a0	nointro 2017-03-15	commodore-vic20
+e404deeee224a0a2562e2055715a160e	Skibbereen (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+9160979264befc7df1ea1076a5d632f3	Skyblazer (Japan, USA).60	nointro 2017-03-15	commodore-vic20
+543b491c685f633e76ff05b2dd8e109e	Snake Byte (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+a6ffea04beb07d09284bf50db264573f	Space Ric-O-Shay (Japan, USA) [b].a0	nointro 2017-03-15	commodore-vic20
+68677cde2b415252b1ada483756676db	Space Snake (Netherlands).a0	nointro 2017-03-15	commodore-vic20
+c0d8182686418c802a2333073ae2024a	Speed Math & Bingo Math (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+8fa7dc1cb0b9afffd64680156365a511	Speed Math & Bingo Math (Japan, USA) (Alt).a0	nointro 2017-03-15	commodore-vic20
+270e5991481002dba78395a4135759bc	Spider City (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+84868e8f8dd729f8c94a1c7a288dbf7e	Spider City (Japan, USA) (Alt).a0	nointro 2017-03-15	commodore-vic20
+536a89f7ee23978a9f552e8c8d0b08c4	Spiders of Mars (Europe).a0	nointro 2017-03-15	commodore-vic20
+b8a4fdad7207bc82bc655c18ba946c3a	Spike's Peak (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+a2acad5d86ec6cc40bcff5623f8da33f	Spills & Fills (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+3824dc787b3ac87b7908905a7c56f20f	Springer (Japan, USA).60	nointro 2017-03-15	commodore-vic20
+f1d900b410c7249ceae68c2ff5a724f1	Squish'Em (Japan, USA).60	nointro 2017-03-15	commodore-vic20
+6aab4df352ae50c5c52127bd75e031c1	Star Battle (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+b15b0ebb0d7cb68ecc928a0318921905	Star Post (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+cce3c5a06d9546645740b3fc7870f273	Star Trek - Strategic Operations Simulator (World).a0	nointro 2017-03-15	commodore-vic20
+368bd7acb403da150b933b73945205a0	Star Trek - Strategic Operations Simulator (World) (Alt).a0	nointro 2017-03-15	commodore-vic20
+e68d1574d8b83dc61aba28fddf203f2b	Story Machine (World).60	nointro 2017-03-15	commodore-vic20
+e9613664c1a54788673d66e078b4199c	Story Machine (World).a0	nointro 2017-03-15	commodore-vic20
+45cc57f0280c60c3942cf78a96c579c8	Story Machine (World) (Alt).60	nointro 2017-03-15	commodore-vic20
+e9613664c1a54788673d66e078b4199c	Story Machine (World) (Alt).a0	nointro 2017-03-15	commodore-vic20
+95ec6d564aad1dee5559a834b26500ee	Sub Chase (Europe).a0	nointro 2017-03-15	commodore-vic20
+3212256573230c6199e89345aa251b65	Submarine Commander (World).60	nointro 2017-03-15	commodore-vic20
+63cff23dc7df736570347fbb9b26e949	Submarine Commander (World).a0	nointro 2017-03-15	commodore-vic20
+8ea1b3d8a353a9c5f955ee84a3c11ab0	Super Amok (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+283f91ed13ff820c758f2beeac7d4ebf	Super Amok (Japan, USA) (Alt).a0	nointro 2017-03-15	commodore-vic20
+6f0892091c546c016ffa8b7b21800f74	Super Expander (World) (Program).a0	nointro 2017-03-15	commodore-vic20
+b95a3f6eac19af002a0f3b69325e5035	Super Smash (Europe).a0	nointro 2017-03-15	commodore-vic20
+dd6ca9ab5d79ab471ef8654dbb2e16d1	Super Smash (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+8b93b1123032218735dd82ba3121a82f	Super Smash (Japan, USA) (Alt).a0	nointro 2017-03-15	commodore-vic20
+41caf201399293646f590948b6b1218f	Synthesound (World) (Program).a0	nointro 2017-03-15	commodore-vic20
+c6411da6f3136a0938d3b4906013d3ff	Tank Atak (Europe).a0	nointro 2017-03-15	commodore-vic20
+1934ade84aaa13475fc042e13610d83a	Terraguard (Europe).a0	nointro 2017-03-15	commodore-vic20
+fa5710dafb66352c61576c4fcb519557	Terraguard (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+6429bd4f6342e0adcbc2701f34ad83e6	Threshold (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+7c16199590d7a93aeedfe58abfc1b386	Titan (World).a0	nointro 2017-03-15	commodore-vic20
+f3df15246eb4b8f6a95aafe37ccf3745	Tomarc the Barbarian (World).a0	nointro 2017-03-15	commodore-vic20
+94469c23c5dad0ca08483d231b649241	Tooth Invaders (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+d844010cf5e99fa26829f3a8f797a4c1	Topper (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+e0056c81d21fae3d0832f3fe5ef9dfcb	Trashman (World).a0	nointro 2017-03-15	commodore-vic20
+92a0f574306b40123a6ba5bac2df1215	Turmoil (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+8a1193fb04655888a09a198cd9d9de9b	Turtle Graphics (World) (Program).a0	nointro 2017-03-15	commodore-vic20
+960462409093f555be227e245fe8c761	Turtle Graphics (World) (Program) (Alt 2).a0	nointro 2017-03-15	commodore-vic20
+600be1abac8d02bc11b45a83dd171f8f	Turtle Graphics (World) (Program) (Alt).a0	nointro 2017-03-15	commodore-vic20
+fe33d677ad2f372e7674119d3eac6703	Tutankham (World).a0	nointro 2017-03-15	commodore-vic20
+fe7175ffa82ee2cef9213d82de4096c6	Type Attack (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+5c3175dd29a37b67d27766e2db80d186	Typo (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+333fec0b62da9f4387eb7d9e1ecbd483	VC Extra (World) (Program).a0	nointro 2017-03-15	commodore-vic20
+88206e74a1d561612fa4b8301063cbad	VC Song-Cartridge - Inventio-Pac (Germany) (Program) [b].a0	nointro 2017-03-15	commodore-vic20
+9abc09d673d2ed433701e073bc79bbad	VC Song-Cartridge - The Mad Boogy (Germany) (Program).a0	nointro 2017-03-15	commodore-vic20
+935533880d2603adeb1a6c6bfec86958	VC Song-Cartridge - The Mad Boogy (Germany) (Program) (Alt).a0	nointro 2017-03-15	commodore-vic20
+84d948c28f9dc04e41b66faf67cb6ce0	VC Song-Cartridge - The Synthe-Song (Germany) (Program).a0	nointro 2017-03-15	commodore-vic20
+d2d32920fa454a40a7f97e555ec670a7	VC-20 Diagnostic (Europe) (Program).a0	nointro 2017-03-15	commodore-vic20
+0c3dd1bb288fa1fc1f13188d8e905044	VIC 20 Micromon (World) (v1.2) (Program).b0	nointro 2017-03-15	commodore-vic20
+b243df92fa9deef1e63bf6337e2e04ce	VIC Color Test (Germany) (Program).a0	nointro 2017-03-15	commodore-vic20
+594cb110308425cf0fc4de0e3b02d688	VIC Debug 98 (World) (SYS 40960) (Program).a0	nointro 2017-03-15	commodore-vic20
+0dc3afa80ba026ec7c3cbfd759cadd2c	VIC Forth (World) (v1.0) (Program).a0	nointro 2017-03-15	commodore-vic20
+a4298aa8228986e0d287c619b77895f3	VIC Forth (World) (v1.1) (Program).a0	nointro 2017-03-15	commodore-vic20
+59f4f831d9eb86456fd48068974af653	VIC Graph (World) (Program).a0	nointro 2017-03-15	commodore-vic20
+7f9b83241a0933323f8ee64af6e60fbf	VIC Music Composer, The (Japan, USA) (Program).a0	nointro 2017-03-15	commodore-vic20
+af129b82fb860d7f54f25bef47e71d7e	VIC Music Composer, The (Japan, USA) (Program) (Alt).a0	nointro 2017-03-15	commodore-vic20
+f1a2545084bce26aef83c17586b37646	VIC Rabbit (World) (Program) [b].80	nointro 2017-03-15	commodore-vic20
+a9e813cc163df5a89ea7d436f152b4b4	VIC Radar Rat Race (Europe).a0	nointro 2017-03-15	commodore-vic20
+36e22d1959ec5fa80117d6321e56ced1	VIC Radar Rat Race (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+4c9e316db2e898ff92593b74f3b7d4bf	VIC Radar Rat Race (Japan, USA) (Alt).a0	nointro 2017-03-15	commodore-vic20
+eabe20dea2f1cdd7febba474a7609a1b	VIC Stat (World) (Program).a0	nointro 2017-03-15	commodore-vic20
+30c7aa2872660d0ad6c5cd08c86586e5	VIC Super Lander (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+84fc7ca7bec637720d0c0c23a6a72786	VIC Super Slot (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+fae6002fc2095dc2c4ca179add9f111c	VIC Super Slot (Japan, USA) (Alt).a0	nointro 2017-03-15	commodore-vic20
+d174eb95f8522972133403f49eb0fc41	VICMon (World) (SYS 24576) (Program).60	nointro 2017-03-15	commodore-vic20
+44023146585f4889495017b718c7b656	VICMon (World) (SYS 45056) (Program).b0	nointro 2017-03-15	commodore-vic20
+21c9fb9247422752bfacf41f07c15adb	VICMon 2 (World) (SYS 24576) (Program).60	nointro 2017-03-15	commodore-vic20
+f8d316604d608f04aedf7ccf351d0adf	Victerm 40 (World) (Program).a0	nointro 2017-03-15	commodore-vic20
+aeb313fc2c8efd23db076756948ed7d7	VicTool (World) (SYS 45056) (Program).b0	nointro 2017-03-15	commodore-vic20
+cedb1620779bdf03644cad039a0cecc0	Video Vermin (World).a0	nointro 2017-03-15	commodore-vic20
+cec6cd0b16d1ddc94dcc0b7206e441a4	Videomania (Europe).a0	nointro 2017-03-15	commodore-vic20
+7f22adaf77876ea9e197be811a873aec	Videomania (Japan, USA).a0	nointro 2017-03-15	commodore-vic20
+bd0e7f5858f7cb4e0c3464767ccc57e8	Visible Solar System, The (World).a0	nointro 2017-03-15	commodore-vic20
+4972d577eefe5e38ff227f0327ba0bf6	Visible Solar System, The (World) (Alt 2).a0	nointro 2017-03-15	commodore-vic20
+f53a942fba13c3df1ccb82d31b728188	Visible Solar System, The (World) (Alt).a0	nointro 2017-03-15	commodore-vic20
+e9bace2a9c7294d668e4b017f7d10fe4	Voodoo Castle Adventure (World) (SYS 32592).40	nointro 2017-03-15	commodore-vic20
+351995bed9f2a27aeb227ac919f692e1	W&T Parallel-Interface (World) (Program).a0	nointro 2017-03-15	commodore-vic20
+0e46194d848c2d0837b1065fe33480f0	Wacky Waiters (Europe) (SYS 48896).a0	nointro 2017-03-15	commodore-vic20
+f466aec99f2f8137c102abb6e45ef8cc	Wordcraft 20 (World) (Program).60	nointro 2017-03-15	commodore-vic20
+b855540438a4c119119c970ca7372082	Wordcraft 20 (World) (Program) (Alt 2).60	nointro 2017-03-15	commodore-vic20
+08b9a034f9779b7c9f6b0848af0159a3	Wordcraft 20 (World) (Program) (Alt).60	nointro 2017-03-15	commodore-vic20
+973d2a16bf26aad966a9f8771dc3b168	World at War, A (World).a0	nointro 2017-03-15	commodore-vic20
+edb2f53cdb2b529b2f38071bedd6e611	Write Now! (World) (SYS 41000) (Program).a0	nointro 2017-03-15	commodore-vic20

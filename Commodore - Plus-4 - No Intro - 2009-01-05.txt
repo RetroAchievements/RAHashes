@@ -1,0 +1,39 @@
+0c767bf0a84d7751af056e53a074c9e2	[BIOS] Commodore 1551 (USA, Europe).u4	nointro 2009-01-05	commodore-plus4
+a213823557421b66f9813ff19af48c01	[BIOS] Commodore 232 (Japan) (Proto).u24	nointro 2009-01-05	commodore-plus4
+44a4ae400e3b4f7533a47ae0df1be78c	[BIOS] Commodore 232 (Japan) (Proto).u23	nointro 2009-01-05	commodore-plus4
+2994d5463ef8524deb4231a9c764767c	[BIOS] Commodore Plus-4 (Europe) (R3).u25	nointro 2009-01-05	commodore-plus4
+ac34591c820fe607d527e04e95bce465	[BIOS] Commodore Plus-4 (Europe) (R3).u26	nointro 2009-01-05	commodore-plus4
+4b4c383206fc5dcf8e3de1ae9fb1686b	[BIOS] Commodore Plus-4 (Europe) (R3).u24	nointro 2009-01-05	commodore-plus4
+44a4ae400e3b4f7533a47ae0df1be78c	[BIOS] Commodore Plus-4 (Europe) (R3).u23	nointro 2009-01-05	commodore-plus4
+2994d5463ef8524deb4231a9c764767c	[BIOS] Commodore Plus-4 (Europe) (R4).u25	nointro 2009-01-05	commodore-plus4
+ac34591c820fe607d527e04e95bce465	[BIOS] Commodore Plus-4 (Europe) (R4).u26	nointro 2009-01-05	commodore-plus4
+971cdd88b12b568cea7582e3a1341fd3	[BIOS] Commodore Plus-4 (Europe) (R4).u24	nointro 2009-01-05	commodore-plus4
+44a4ae400e3b4f7533a47ae0df1be78c	[BIOS] Commodore Plus-4 (Europe) (R4).u23	nointro 2009-01-05	commodore-plus4
+2994d5463ef8524deb4231a9c764767c	[BIOS] Commodore Plus-4 (Europe) (R5).u25	nointro 2009-01-05	commodore-plus4
+ac34591c820fe607d527e04e95bce465	[BIOS] Commodore Plus-4 (Europe) (R5).u26	nointro 2009-01-05	commodore-plus4
+89f5263665a8dc10c8f8abc38f5f7eb9	[BIOS] Commodore Plus-4 (Europe) (R5).u24	nointro 2009-01-05	commodore-plus4
+44a4ae400e3b4f7533a47ae0df1be78c	[BIOS] Commodore Plus-4 (Europe) (R5).u23	nointro 2009-01-05	commodore-plus4
+2994d5463ef8524deb4231a9c764767c	[BIOS] Commodore Plus-4 (USA) (R4).u25	nointro 2009-01-05	commodore-plus4
+ac34591c820fe607d527e04e95bce465	[BIOS] Commodore Plus-4 (USA) (R4).u26	nointro 2009-01-05	commodore-plus4
+13dd5a03c8d55ec01375a730fb155d4c	[BIOS] Commodore Plus-4 (USA) (R4).u24	nointro 2009-01-05	commodore-plus4
+44a4ae400e3b4f7533a47ae0df1be78c	[BIOS] Commodore Plus-4 (USA) (R4).u23	nointro 2009-01-05	commodore-plus4
+2994d5463ef8524deb4231a9c764767c	[BIOS] Commodore Plus-4 (USA) (R5).u25	nointro 2009-01-05	commodore-plus4
+ac34591c820fe607d527e04e95bce465	[BIOS] Commodore Plus-4 (USA) (R5).u26	nointro 2009-01-05	commodore-plus4
+b3c450c36a88b491281d18fdf3e94ab0	[BIOS] Commodore Plus-4 (USA) (R5).u24	nointro 2009-01-05	commodore-plus4
+44a4ae400e3b4f7533a47ae0df1be78c	[BIOS] Commodore Plus-4 (USA) (R5).u23	nointro 2009-01-05	commodore-plus4
+2994d5463ef8524deb4231a9c764767c	[BIOS] Commodore V364 (USA) (Proto).u25	nointro 2009-01-05	commodore-plus4
+ac34591c820fe607d527e04e95bce465	[BIOS] Commodore V364 (USA) (Proto).u26	nointro 2009-01-05	commodore-plus4
+44a4ae400e3b4f7533a47ae0df1be78c	[BIOS] Commodore V364 (USA) (Proto).u23	nointro 2009-01-05	commodore-plus4
+0073ace3874a2c5ca5de9cf64cdfbbd4	[BIOS] Commodore V364 (USA) (Proto).bin	nointro 2009-01-05	commodore-plus4
+7abb51257595b233a1a63ae58c330a65	[BIOS] Commodore V364 (USA) (Proto).u24	nointro 2009-01-05	commodore-plus4
+a19ad12cbf2261117df58ae64bd635ca	Atomic Mission (USA, Europe).bin	nointro 2009-01-05	commodore-plus4
+2389b94d9c59e0d01587bc1af5fb110b	Calc Plus (USA) (Program).bin	nointro 2009-01-05	commodore-plus4
+e1e7394386ef02a05c8209506b053558	Commodore 16 Keyboard Tutorial Cartridge (USA) (Program).bin	nointro 2009-01-05	commodore-plus4
+5fd76819bc109612727f98590b92d67d	Financial Advisor (USA) (Program).bin	nointro 2009-01-05	commodore-plus4
+b22a426e223f28d8ff5439917d2ab6f5	Jack Attack (USA, Europe).bin	nointro 2009-01-05	commodore-plus4
+7c1922486fae09237527cc07a89039b0	LOGO (USA) (Program).d64	nointro 2009-01-05	commodore-plus4
+2294705cf3bdeffc2e462b200e7ecba0	LOGO (USA) (Program).bin	nointro 2009-01-05	commodore-plus4
+72c7402ff5efe809b521f66bf3588ca5	Octasoft BASIC v7.0 (Hungary) (Program).bin	nointro 2009-01-05	commodore-plus4
+23fb5ed28070db858ef410387be1ce89	Pirate Adventure (USA, Europe).bin	nointro 2009-01-05	commodore-plus4
+af62e5c69576312c56c4a9ddd02240b2	Strange Odyssey (USA, Europe).bin	nointro 2009-01-05	commodore-plus4
+3483621641f0e09666fc7c6f0aedd442	Viduzzles (USA, Europe).bin	nointro 2009-01-05	commodore-plus4

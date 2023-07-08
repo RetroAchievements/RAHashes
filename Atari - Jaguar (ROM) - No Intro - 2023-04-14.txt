@@ -1,0 +1,144 @@
+0d6a65c6c0d108afcfdb22bb1d2b55cb	Aircars (USA) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+1d6942892f80f7c369236e96979ca12a	Aircars (USA) (Beta) (1994-11-14).rom	nointro 2023-04-14	atari-jaguarROM
+f11f06533b17d66f66b59a1d5c01ce51	Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+15d9864ce22a8786151928f5bf613b7b	Alien vs Predator (World).rom	nointro 2023-04-14	atari-jaguarROM
+bbb8efdd570d268f86a14e0893ba3e5f	Alien vs Predator (World) (Beta) (1993-08-18).rom	nointro 2023-04-14	atari-jaguarROM
+8bdfc02f6542d95e3582db6757e33474	Alien vs Predator (World) (Beta) (1993-10-13).rom	nointro 2023-04-14	atari-jaguarROM
+2b299e92e82031a31235da74850670cf	Alien vs Predator (World) (v0.93) (Beta) (1994-04-08T082644).rom	nointro 2023-04-14	atari-jaguarROM
+7b9c10dcb2364ad8a11c18fc8be5c92f	Arena Football '95 (World) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+1afe5038ac322e92b26e0226d1781ece	Arkanna (World) (Demo) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+934192686cf18bbb6bbfe12b8be1cf91	Assassin, The (USA) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+ec80b90e8085f8d14c555cd79f38605b	Asteroids (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+33bb6d4d2aa39989e9aa650e4cbeee88	Atari Karts (World).rom	nointro 2023-04-14	atari-jaguarROM
+deae794870cb3387fe1511799b3a1fcb	Atari Karts (World) (Beta).rom	nointro 2023-04-14	atari-jaguarROM
+49d81347de21b428b42997eb4dd7cafa	Atomic (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+c9b4fdd86b1e45ac8f71a153c6cebb29	Atomic Reloaded (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+dbba0926aa87529bd6007fe8b4a7282a	Attack of the Mutant Penguins (World).rom	nointro 2023-04-14	atari-jaguarROM
+b5c70890e32375ea7f91cf1db388d298	Barkley Shut Up and Jam (World) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+5f884a5052a4dde4c896449b392ad4bf	Barkley Shut Up and Jam (World) (Beta).rom	nointro 2023-04-14	atari-jaguarROM
+6562144944b6fb86744757a5b99ae506	Battle Sphere (World) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+5c0b84a1a64ddbb4d3d2083958754ca5	Battle Sphere Gold (World) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+6d5c27068b28b2f75fbd0e41b83475e0	Beebris (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+562a9e2efddbcb1e3e72e929f4fe4433	Black Jag - Hyper Power League (World) (v1.03) (Demo) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+37bce55836fc42d3e6c5b6081beac161	Black Jag - Hyper Power League (World) (v1.01) (Demo) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+d92b781a32459c620757d307d440853b	Black Jag - Hyper Power League (World) (v1.02) (Demo) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+a4b4003c11b55d0b28aa34bb113bbde4	Breakout 2000 (USA, Europe).rom	nointro 2023-04-14	atari-jaguarROM
+d1b1bfb5845a09467b7601ad103734ce	Breakout 2000 (USA, Europe) (Beta).rom	nointro 2023-04-14	atari-jaguarROM
+e294d0251879e7e81291e3ac018261d1	Brett Hull Hockey (World) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+dc5808fe55f9105fd6fb6fd220a35515	Brutal Sports Football (World).rom	nointro 2023-04-14	atari-jaguarROM
+fe2751ca61154ecfa4f0ad4299a5dc54	Bubsy in Fractured Furry Tales (World).rom	nointro 2023-04-14	atari-jaguarROM
+460a0b1e5aa3d2d4d48d072e01343cdd	Cannon Fodder (World).rom	nointro 2023-04-14	atari-jaguarROM
+b45c964faa34ab254ab5a5121f9432e3	Checkered Flag (World).rom	nointro 2023-04-14	atari-jaguarROM
+d0a0a6f9c9c2f3023e28645bad8dc74d	Checkered Flag (World) (Beta) (CES 1993).rom	nointro 2023-04-14	atari-jaguarROM
+820866734a06f96e632151f2d9654dc6	Club Drive (World).rom	nointro 2023-04-14	atari-jaguarROM
+c52705cdd18be2c96cbb07abd65845dd	Club Drive (World) (Beta).rom	nointro 2023-04-14	atari-jaguarROM
+63e7e435f13a5a20ca8a2bf6e40ac27b	Cybermorph (World) (Rev A).rom	nointro 2023-04-14	atari-jaguarROM
+a2762624a57ea85875b7700aac07a61b	Cybermorph (World) (Rev B).rom	nointro 2023-04-14	atari-jaguarROM
+f7ccc865e2a84b2eb941209a86676bd6	Cybermorph (World) (Beta) (1993-08-23).rom	nointro 2023-04-14	atari-jaguarROM
+8238af07993b8f2074c46e8b89ffa4b2	Dark Guardian Episode 1 - Unknown Enemy (USA) (Proto).rom	nointro 2023-04-14	atari-jaguarROM
+673a6f954126b22fd0d9759dd56c6650	Defender 2000 (World).rom	nointro 2023-04-14	atari-jaguarROM
+e6e1a56794302b4bcd6f1ae77a996531	Defender 2000 (World) (Beta).rom	nointro 2023-04-14	atari-jaguarROM
+9a0caf57934807c69529a9bde3ec5c6e	Degz (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+3f5403b039b1a03caecada5afd909d6d	DiamJag (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+9da9b713fb50587045ecf8ac7576816f	Do the Same (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+1e3b7dfe15e4911bb7331f352eed3c33	Doom (World).rom	nointro 2023-04-14	atari-jaguarROM
+3bfff844b20ba2aea910bbd824c1eb9e	Double Dragon V - The Shadow Falls (World).rom	nointro 2023-04-14	atari-jaguarROM
+26588fe1623a67467adbbed3f52f0248	Downfall (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+f722d9fadd650c7f9bb79f7fa1e4ea8d	Dragon - The Bruce Lee Story (World).rom	nointro 2023-04-14	atari-jaguarROM
+24678221c704f39bae5f3bb5e643c5de	Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26).rom	nointro 2023-04-14	atari-jaguarROM
+2e7b0f2b31ac7d17a191c7fe700cf350	Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06).rom	nointro 2023-04-14	atari-jaguarROM
+42cb86ba9b15da4d4bb7cb782feb9299	Evolution - Dino Dudes (World).rom	nointro 2023-04-14	atari-jaguarROM
+4712a5c983b3d7e7d51f959825346ca5	Expressway (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+02829e8bef858dbe61faf4854945e8d3	Fever Pitch Soccer (World) (En,Fr,De,Es,It).rom	nointro 2023-04-14	atari-jaguarROM
+a02a1faebc007010764ccda55019d0a4	Fight for Life (USA, Europe).rom	nointro 2023-04-14	atari-jaguarROM
+d8bc12c215f317f7cd2bfb4ddd9e9744	Fight for Life (USA, Europe) (Beta) (1995-03-22).rom	nointro 2023-04-14	atari-jaguarROM
+2c9bd7e404b1e30f01a8ee9a9fb11e29	Fight for Life (USA, Europe) (Beta) (1995-09-07).rom	nointro 2023-04-14	atari-jaguarROM
+a6e4c531394dbb96d033660a6c9e1ef2	Flashback - The Quest for Identity (World) (En,Fr).rom	nointro 2023-04-14	atari-jaguarROM
+aca3200eb333cd9137d0a88673799f83	Flip Out! (World).rom	nointro 2023-04-14	atari-jaguarROM
+42ec7592035204e846d74521c3aebdd1	Frog Feast (World) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+032f0710e7cec706ca281585e9f3b58f	Frog Feast (World) (Demo) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+7d2611a334962e57e534149245d11f5d	Full Circle - Rocketeer (World) (Demo) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+2d12b73af94ac1213281653b0f6d313c	High Voltage C Maze (USA) (Demo).rom	nointro 2023-04-14	atari-jaguarROM
+545b4f36992de772d48a9f13491fb894	Hover Strike (World).rom	nointro 2023-04-14	atari-jaguarROM
+76cca318a6e714816c0334dad18cb64f	Hyper Force (World) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+a5d13bdbce3097f07121f444c430559b	I-War (USA, Europe).rom	nointro 2023-04-14	atari-jaguarROM
+2c066890cddda36bc7a64cb85a81e062	I-War (USA, Europe) (Beta) (1995-10-20).rom	nointro 2023-04-14	atari-jaguarROM
+8d69fb7b5c189282fee4daa22bcb8dd4	Impulse X (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+01c61fa627f1bd63710e5cb9c9a31c77	International Sensible Soccer (World).rom	nointro 2023-04-14	atari-jaguarROM
+c9a25d6aaa39972388b41d5509e630fb	Iron Soldier (World).rom	nointro 2023-04-14	atari-jaguarROM
+1b3678e369f9ecf8d75c9bfe7df75fbf	Iron Soldier 2 (USA, Europe) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+775f6e2066d6a94ed51b6cc67ed7cef0	Jack Nicklaus Cyber Golf (USA) (v0.02) (Proto) (1994-07-04).rom	nointro 2023-04-14	atari-jaguarROM
+2b543d378f677737c5f674b9cb160110	Jack Nicklaus Cyber Golf (USA) (v0.03) (Demo) (1995-01-13).rom	nointro 2023-04-14	atari-jaguarROM
+fdc7a5a7f6ccc72c99014a3a7175ba81	Jack Nicklaus Cyber Golf (USA) (v0.04) (Demo) (1995-01-16).rom	nointro 2023-04-14	atari-jaguarROM
+4faa8ce76bd62251cb405f480da63d61	JagMania (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+7ee42d140962dd708510a21af1be88c1	Jaguar Tetris (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+9396a60e9767df485128eb8704104d0d	Jungle Jag (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+079b8059f4fc99a0e7a4c929c13f0f00	Kasumi Ninja (World).rom	nointro 2023-04-14	atari-jaguarROM
+95447925e8211a74bc44bec3baabda59	Kasumi Ninja (World) (v0.01) (Beta).rom	nointro 2023-04-14	atari-jaguarROM
+e578b70eef1d829773a3a1c1913f3083	Kasumi Ninja (World) (v0.29) (Beta) (1994-05-24).rom	nointro 2023-04-14	atari-jaguarROM
+5172e48ff4b33679366d258cb406c222	Kobayashi Maru (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+b6b453228469a980a55e6d1c0e77dc9e	Kobayashi Maru - Final (World) (Demo) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+fb7cbbda44e9acaac38ee278e7ab4eb3	Mad Bodies (World) (Proto) (2009-01-17) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+60c39a4ed2344bd96c3fbc31a434996d	Maxx, The (World) (Demo) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+e50d123659dc2b56b23ac4d0be9e5e01	Missile Command 3D (World).rom	nointro 2023-04-14	atari-jaguarROM
+bc2d97b8c05bff411c008dd5b578fe0f	Missile Command VR (World) (Beta) (1995-07-05).rom	nointro 2023-04-14	atari-jaguarROM
+0ea7bf8d43fb95407a6b16766d6ce5d3	Native (USA) (Proto).rom	nointro 2023-04-14	atari-jaguarROM
+b56b6cab16dc4e70f356dd0e0cb192c7	NBA Jam - Tournament Edition (USA, Europe).rom	nointro 2023-04-14	atari-jaguarROM
+d39b299a630f6721f588fef194e9dbdd	Orion_'s Jaguar Collection (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+36123d4713b40a443be5efd5dbb99eb6	OSMOZYS (World) (Demo) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+f5d198c568d1ba750bdb8f9dd3dc4a51	Painter (World) (Demo) (1995-12-29) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+accb91258c5a03a3afe98cb73aa27811	Phase Zero (World) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+c9febc453fddcb5e277d2a7daba9fbe8	Pinball Fantasies (World).rom	nointro 2023-04-14	atari-jaguarROM
+b40195d569457a8453364e7b5e248237	Pitfall - The Mayan Adventure (USA, Europe).rom	nointro 2023-04-14	atari-jaguarROM
+979642e91143d8beb361f61f329411cc	Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28).rom	nointro 2023-04-14	atari-jaguarROM
+697dbf1fc7d4b1a693d64885a422efc8	Power Drive Rally (World).rom	nointro 2023-04-14	atari-jaguarROM
+6de21ae5f94fa42bb714145f0d548da8	Project One (World) (Demo) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+56ee76358738e1b2804d095d2999670a	Protector (World) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+d318f0d9bb8ac24d581c8f840f8ffc86	Protector - Special Edition (World) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+010f3eadbb8215490a7cf1505ec41276	Raiden (World).rom	nointro 2023-04-14	atari-jaguarROM
+e75708807140b0ed5022ee14d4de03a2	Raiden (World) (Rev A).rom	nointro 2023-04-14	atari-jaguarROM
+8dc681817983a3d7bd889e22c40e0278	Rayman (World).rom	nointro 2023-04-14	atari-jaguarROM
+843d1c5e6885674ba1b4b189e12d6f9f	Rayman (World) (Beta 2).rom	nointro 2023-04-14	atari-jaguarROM
+0a5372fd4da20a0b9286213185f1f5a8	Rayman (World) (Beta 1).rom	nointro 2023-04-14	atari-jaguarROM
+0af3500bf3d1926796eca6955f06ef04	Rebooteroids (World) (Proto) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+fe85b8973957fc5035eac270d0d845b0	Rocks Off! (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+60b7ae4d465e8577a3134f3c35929cef	Ruiner Pinball (USA, Europe).rom	nointro 2023-04-14	atari-jaguarROM
+6ebdd20696aeb9b76dac53cf0b95e039	ScatoLOGIC Music Engine Demo (World) (Demo) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+3fe0b56638b2555f78860f30f6267553	SkyCopter II (USA) (Proto).rom	nointro 2023-04-14	atari-jaguarROM
+c8a4a2905c304378918780bd7b5e34d9	Skyhammer (World) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+efb6e2a1ece3d4940aa610f6dac3f387	Slam Racer (USA) (Proto 2).rom	nointro 2023-04-14	atari-jaguarROM
+0e50e2d70e33f1ee66d76558fb2875c0	Slam Racer (USA) (Proto 1).rom	nointro 2023-04-14	atari-jaguarROM
+de65e7dff80f0e8197223d63947bfca5	Soccer Kid (World) (Beta).rom	nointro 2023-04-14	atari-jaguarROM
+d9a95d736d7aaa161bcbb5f693ebf247	Soccer Kid (World) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+c9cde67aad343469df9fb1bfc0405408	Space War 2000 (World) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+0146cbf5ad32b2a4f83bccba22d1aa5c	Speedster II (USA) (Proto).rom	nointro 2023-04-14	atari-jaguarROM
+7445b031fbe1c6764451c842b9d02cc7	Super Burnout (World).rom	nointro 2023-04-14	atari-jaguarROM
+56b13e2ec84d1933ba07421f1566562c	Super Burnout (World) (Demo) (WCES 1995).rom	nointro 2023-04-14	atari-jaguarROM
+bc28c6f5b48607febcfa1737451d2670	Supercross 3D (USA, Europe).rom	nointro 2023-04-14	atari-jaguarROM
+266c97e7cd3c09af24a6a63b22b340db	SuperFly DX (World) (v1.1) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+69664d59a1f0ef3aaf924ff6a17e35ab	Syndicate (World).rom	nointro 2023-04-14	atari-jaguarROM
+59acf9110ba6a047abb872970a33ce68	Tempest 2000 (World).rom	nointro 2023-04-14	atari-jaguarROM
+beae3851768ab46d154bd97bf0892cb8	Thea Realm Fighters (USA) (Proto 2).rom	nointro 2023-04-14	atari-jaguarROM
+bf529c618bed9ff83eded641cd12044f	Thea Realm Fighters (USA) (Proto 1).rom	nointro 2023-04-14	atari-jaguarROM
+b132c2b4e230874788421f8606286ebe	Theme Park (World).rom	nointro 2023-04-14	atari-jaguarROM
+eb5f125cb10968977a58992d48647bcf	Tiny Toon Adventures (USA) (Proto).rom	nointro 2023-04-14	atari-jaguarROM
+6a49fe73b5855c374fe6102dc972d22b	Total Carnage (World) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+bcbeb0ca8a295cac5a3afd013b12cf1d	Total Carnage (World) (Beta).rom	nointro 2023-04-14	atari-jaguarROM
+e630a0077066b1065aabe357d618629c	Towers II - Plight of the Stargazer (USA, Europe).rom	nointro 2023-04-14	atari-jaguarROM
+c6d92d3bd839c6aa301692b10d9efe76	Trevor McFur in the Crescent Galaxy (World) (Rev A).rom	nointro 2023-04-14	atari-jaguarROM
+63ff8abf6bfcac1ccbfa504b235568c5	Trevor McFur in the Crescent Galaxy (World) (Beta).rom	nointro 2023-04-14	atari-jaguarROM
+84bfe188dd5424a709d217b2a13ce082	Trevor McFur in the Crescent Galaxy (World).rom	nointro 2023-04-14	atari-jaguarROM
+9db7dd4a07d76dd094d461f1b07dd9d7	Troy Aikman NFL Football (World).rom	nointro 2023-04-14	atari-jaguarROM
+831fb15912df665502c1bd260818f547	Ultimate Brain Games (USA) (Proto).rom	nointro 2023-04-14	atari-jaguarROM
+f9a4fbd00e98543a265d96e338f880ee	Ultra Vortek (World).rom	nointro 2023-04-14	atari-jaguarROM
+5930069d4ad566d63a028aa6ebb71435	Ultra Vortex (World) (Beta) (1995-03-20).rom	nointro 2023-04-14	atari-jaguarROM
+d431e38bfbe341d45a67ac5c28a6edc3	Val d'Isere Skiing and Snowboarding (World).rom	nointro 2023-04-14	atari-jaguarROM
+6035c923581671588d37e1fd30ba187c	Virtual VCS (USA) (Proto).rom	nointro 2023-04-14	atari-jaguarROM
+40ace17cbaa79d02646c7b575217946c	White Men Can't Jump (USA, Europe).rom	nointro 2023-04-14	atari-jaguarROM
+e95a5d4d625640c15c1ec376eba2abee	Wolfenstein 3D (World).rom	nointro 2023-04-14	atari-jaguarROM
+2170a7d9e7fd2bf237f58b5afcaf4723	Worms (USA, Europe) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+0dfcfdebc54dee4164f5b747d9dcbe7a	Zero 5 (USA, Europe) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+61c0d821c09c472c63dcb70dcacd361c	Zero 5 (USA, Europe) (Beta).rom	nointro 2023-04-14	atari-jaguarROM
+fbe1cd9391289847c5081193308ff5ac	Zool 2 (World).rom	nointro 2023-04-14	atari-jaguarROM
+b3821b3eba08ae049b6d994b8f0791ad	Zoop (USA, Europe).rom	nointro 2023-04-14	atari-jaguarROM
+c6148e0ec86f4c496e7cc19f9249a2c9	Zzyorxx II (USA) (Demo).rom	nointro 2023-04-14	atari-jaguarROM
