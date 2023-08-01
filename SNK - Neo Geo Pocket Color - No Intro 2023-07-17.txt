@@ -1,0 +1,128 @@
+3655aacebb43a963607d4cf821fc1301	[BIOS] SNK NeoGeo Pocket Color (World) (En,Ja).ngp	nointro 2023-07-17	snk-ngpc
+d485fcdef8f9f4fb0de39849334aca66	Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan).ngc	nointro 2023-07-17	snk-ngpc
+6f9f680b659369448f01508501c5a709	Baseball Stars Color - Pocket Sports Series (World) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+184dc284995dc20ddce599426b9cac7d	Big Bang Pro Wrestling (Japan) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+ca3e26e2f539dbd35092fa9d7f561aff	Bikkuriman 2000 - Viva! Pocket Festival! (Japan).ngc	nointro 2023-07-17	snk-ngpc
+c98b2b19971effcedac7bf2abaf3d485	Biomotor Unitron (Japan).ngc	nointro 2023-07-17	snk-ngpc
+f4bbe8cf42074b75c8a911bf7b0562d5	Biomotor Unitron (USA, Europe).ngc	nointro 2023-07-17	snk-ngpc
+cba3c133f77a3529a0c7578ce9d27fba	Biomotor Unitron (Japan) (Demo).ngc	nointro 2023-07-17	snk-ngpc
+d91fd1c6c941bc2bde4ada3580fe408f	Bust-A-Move Pocket (USA).ngc	nointro 2023-07-17	snk-ngpc
+29a8a310b704e8dafee71cea0ad53df0	Bust-A-Move Pocket (USA) (Beta).ngc	nointro 2023-07-17	snk-ngpc
+57b757bec66c0e53220593b78c63c6c0	Cool Boarders Pocket (Japan, Europe) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+a4567e247b16d07e9c9085c5b35bd8c9	Cool Cool Jam (Japan).ngc	nointro 2023-07-17	snk-ngpc
+ca88e3d6291c5cdf7b518d43df5d0d98	Cool Cool Jam (USA) (Proto).ngc	nointro 2023-07-17	snk-ngpc
+100f6086bbcd6bccd2ac6f79242f5a87	Crush Roller (World) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+4fb30b1b905ed1f975efb9a8fceb9a62	Dark Arms - Beast Buster 1999 (World) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+11d8b930b69b5305757d6aec331023a9	Delta Warp (Japan) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+7bc368154875394b39280bbb67d1c6f8	Delta Warp (Japan) (Demo).ngc	nointro 2023-07-17	snk-ngpc
+26d0557d8a465aa8f430d5e4d94c679a	Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).ngc	nointro 2023-07-17	snk-ngpc
+a816fc06a864ae3fdcbc72656774fc19	Densha de Go! 2 on NeoGeo Pocket (Japan).ngc	nointro 2023-07-17	snk-ngpc
+13f0584aeab81fdbcdb09bc89367bd89	Densha de Go! 2 on NeoGeo Pocket (Japan) (Demo).ngc	nointro 2023-07-17	snk-ngpc
+c148b30103de704eeed63dfe7a7d6100	Dive Alert - Becky's Version (USA, Europe).ngc	nointro 2023-07-17	snk-ngpc
+b149cb1f866942eca70df78bb25351cf	Dive Alert - Burn Hen (Japan).ngc	nointro 2023-07-17	snk-ngpc
+d96c97bd9c0675b9b81348b06977b60f	Dive Alert - Burn Hen (Japan) (Beta).ngc	nointro 2023-07-17	snk-ngpc
+0c38b2d5d1a2be15d6c15c6b16b7bc98	Dive Alert - Matt's Version (USA, Europe).ngc	nointro 2023-07-17	snk-ngpc
+b26c96ee636795787cf58e2d5db56c4a	Dive Alert - Rebecca Hen (Japan).ngc	nointro 2023-07-17	snk-ngpc
+66885d788f8474295fccbeba107f2421	Dokodemo Mahjong (Japan).ngc	nointro 2023-07-17	snk-ngpc
+c84f675a617df14b1a1bf06f02be773d	Dynamite Slugger (Japan, Europe) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+9c9c2d533be340600ef9f92ed1253dd9	Evolution - Eternal Dungeons (Europe) (vA1).ngc	nointro 2023-07-17	snk-ngpc
+277ce8138fbf2d493c0478bfdb30e21f	Evolution - Eternal Dungeons (Europe) (v03).ngc	nointro 2023-07-17	snk-ngpc
+5a2a155706a201a1c0227c7fe671256f	Fantastic Night Dreams - Cotton (Europe).ngc	nointro 2023-07-17	snk-ngpc
+f6c0c5d77eae342fcdd6cffabf783226	Fantastic Night Dreams - Cotton (Japan).ngc	nointro 2023-07-17	snk-ngpc
+f580078164dc2b8dffb9f38eeec1035d	Faselei! (USA, Europe).ngc	nointro 2023-07-17	snk-ngpc
+08b5385bd6d1fdcfed39bdb411fabd85	Faselei! (Japan).ngc	nointro 2023-07-17	snk-ngpc
+8f3175df433b78dfa1a0663f493e1fea	Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+99ed127490f9d5d6482d20cc6abc8056	Ganbare Neo Poke-kun (Kari) (Japan).ngc	nointro 2023-07-17	snk-ngpc
+4bda8b3669c5bbd72266853940d626cb	Infinity Cure (Japan).ngc	nointro 2023-07-17	snk-ngpc
+67eda4af4c84c71667d0e0fb7b4c7873	Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).ngc	nointro 2023-07-17	snk-ngpc
+269ee4a53a63ec36f996fd9d205513ae	King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+ff89d298a437d6d442a3efdfd8820888	King of Fighters R-2 - Pocket Fighting Series (Japan) (En,Ja) (Demo 1).ngc	nointro 2023-07-17	snk-ngpc
+a0290f929c2b1970832002ba0505a644	King of Fighters R-2 - Pocket Fighting Series (Japan) (En,Ja) (Demo 2).ngc	nointro 2023-07-17	snk-ngpc
+362e9c04ec255225eeb0a9dee8fcac1b	King of Fighters, The - Battle de Paradise (Japan).ngc	nointro 2023-07-17	snk-ngpc
+05ab35ed7be398072cae34783aa6751a	Koi Koi Mahjong (Japan) (v0B).ngc	nointro 2023-07-17	snk-ngpc
+24b2ae1057a7286f68d727ca9357147b	Koi Koi Mahjong (Japan) (v08).ngc	nointro 2023-07-17	snk-ngpc
+83fa4cb3c629aa57c12f9cec52c5a53d	Last Blade, The - Beyond the Destiny (USA, Europe).ngc	nointro 2023-07-17	snk-ngpc
+ae92cd3536577bd18f03f34b475c26d6	Magical Drop Pocket (Japan).ngc	nointro 2023-07-17	snk-ngpc
+6acfef5fe57d592ea7321e0e440c4ecf	Magical Drop Pocket (USA, Europe).ngc	nointro 2023-07-17	snk-ngpc
+da3da8e3b77700249dda2052975cad5c	Magical Drop Pocket (Japan) (Demo).ngc	nointro 2023-07-17	snk-ngpc
+c5ca3eb8f6cdb6c53a56c08671b5450d	Memories Off - Pure (Japan).ngc	nointro 2023-07-17	snk-ngpc
+054d066ca6ebcf0b0020dbeea2e80762	Metal Slug - 1st Mission (World) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+816b37b41aebe5055d5ef2c079997e7d	Metal Slug - 2nd Mission (World) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+3e46efdd356157e9d41056ca0885ab65	Metal Slug - 2nd Mission (World) (En,Ja) (Demo).ngc	nointro 2023-07-17	snk-ngpc
+2fd2ffa3e15e05fc4512a10d98fbdd95	Mezase! Kanji Ou (Japan).ngc	nointro 2023-07-17	snk-ngpc
+89b605a1fc6db5855b432ccc62f9e6e3	Mizuki Shigeru no Youkai Shashinkan (Japan).ngc	nointro 2023-07-17	snk-ngpc
+a60719b4839dd94bb3a8aa93ce91983d	Neo 21 - Pocket Casino Series (World).ngc	nointro 2023-07-17	snk-ngpc
+1018f765f460588d975c9b4e9385a547	Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (v16).ngc	nointro 2023-07-17	snk-ngpc
+2685ad9eba4e9c86e1055e39917dc3ed	Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (Beta).ngc	nointro 2023-07-17	snk-ngpc
+e7bc2a03339bde79ace80942276afc3a	Neo Baccarat - Pocket Casino Series (Japan, Europe) (En) (v11).ngc	nointro 2023-07-17	snk-ngpc
+279b9bf6ec9b7c473d310cfd6e3cee4d	Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+608b25f117cfe8a475f868e0ca17f39c	Neo Cherry Master Color - Pocket Casino Series (World) (En,Ja) (Demo).ngc	nointro 2023-07-17	snk-ngpc
+62374e839f4f7023d3eba2a6df1cc90a	Neo Derby Champ Daiyosou (Japan).ngc	nointro 2023-07-17	snk-ngpc
+c0ced1d22506e46c4667bc0e926d921e	Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v11).ngc	nointro 2023-07-17	snk-ngpc
+f0fdd57f4d1a1470b826082586ead479	Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v13).ngc	nointro 2023-07-17	snk-ngpc
+cef050e2591435a5c41ff851afa55a82	Neo Mystery Bonus - Pocket Casino Series (World) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+c5f81f7d06bec3d921ce55e53060a98f	Neo Poke Pro Yakyuu (Japan) (v32).ngc	nointro 2023-07-17	snk-ngpc
+ff5b122066dcc0f29ac4bcbcb3ab020a	Neo Poke Pro Yakyuu (Japan) (v1F).ngc	nointro 2023-07-17	snk-ngpc
+1222a2eca8db9b54f044fa2fe2f50a61	Neo Turf Masters (World) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+a6c3369f28558e4a9719dc54d50be713	NeoGeo Cup '98 Plus Color - Pocket Sports Series (World) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+150a9aac914c6491911d8518fdaec01c	Nige-ron-pa (Japan).ngc	nointro 2023-07-17	snk-ngpc
+da4c66daa902d5c1c6a26123c75d7894	Oekaki Puzzle (Japan).ngc	nointro 2023-07-17	snk-ngpc
+ac5ad76d5e6614ae576c2c837f0fab1d	Pac-Man (World) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+8efd3c40988452782e55548f7369a050	Pachi-slot Aruze Oukoku - Porcano 2 (Japan).ngc	nointro 2023-07-17	snk-ngpc
+be22a7192d8ac3bb9356d7add54f8302	Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v04).ngc	nointro 2023-07-17	snk-ngpc
+055def75bba47ee4b195c3337deaf3c6	Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v03).ngc	nointro 2023-07-17	snk-ngpc
+0e80317aa0d68e769a4a20019a8eb4bd	Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v06).ngc	nointro 2023-07-17	snk-ngpc
+1cbb6692db2357f80691bc7462ed4eae	Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan).ngc	nointro 2023-07-17	snk-ngpc
+59c600d2ffe3a44e8cfa96824dc90c8e	Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan).ngc	nointro 2023-07-17	snk-ngpc
+0dbeba28e62ece2e9b08c62890650ff5	Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan) (v04).ngc	nointro 2023-07-17	snk-ngpc
+e590485361586f739cd4ef9cb7bae391	Pachi-Slot Aruze Oukoku Pocket - e-CUP (Japan) (v03).ngc	nointro 2023-07-17	snk-ngpc
+e8e2fd11e237887d7253552b9b60bc87	Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v03).ngc	nointro 2023-07-17	snk-ngpc
+b3edf9ad99cbd433c8e62836f32092ec	Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v05).ngc	nointro 2023-07-17	snk-ngpc
+4815d650ed99245dbdb62ec463052329	Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v04).ngc	nointro 2023-07-17	snk-ngpc
+3c340fe221635ba52aae8adcc8e43758	Pachi-Slot Aruze Oukoku Pocket - Ohanabi (Japan).ngc	nointro 2023-07-17	snk-ngpc
+da41c689c64815ad2b374a7ff52e819b	Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan) (v03).ngc	nointro 2023-07-17	snk-ngpc
+910591868ba9ac522f151e6d3888fd03	Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan) (v04).ngc	nointro 2023-07-17	snk-ngpc
+90dd6442d5bb8f6c51f9e0836ba2b428	Pachinko Hisshou Guide - Pocket Parlor (Japan).ngc	nointro 2023-07-17	snk-ngpc
+0813f72d72521ea6afd61eb6c7d416bd	Pachinko Hisshou Guide - Pocket Parlor (Japan) (Beta).ngc	nointro 2023-07-17	snk-ngpc
+c86e826c8413c0dc3ad19a63ba6d4d97	Party Mail (Japan).ngc	nointro 2023-07-17	snk-ngpc
+f60ea82fe428e83355ce870bf5cff5d5	Party Mail (Japan) (Beta).ngc	nointro 2023-07-17	snk-ngpc
+9a58387d2110138dbcb7199e208174da	Picture Puzzle (Europe).ngc	nointro 2023-07-17	snk-ngpc
+62347264d918559a95034be7cea8756d	Pocket Love - if (Japan).ngc	nointro 2023-07-17	snk-ngpc
+17e31ed811e4f55f4e258465f1f56fc4	Pocket Reversi (Europe) (vA1).ngc	nointro 2023-07-17	snk-ngpc
+68a35607e4bdc8ba132dd9d8581c95c2	Pocket Reversi (Japan).ngc	nointro 2023-07-17	snk-ngpc
+48b11e8772b752db938685639b667e2f	Pocket Reversi (Europe) (v03).ngc	nointro 2023-07-17	snk-ngpc
+8b7105aee46be795f1ee0a0f9efdb445	Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+806778d680bb9f41a3e610499e318f85	PP-AA01 - Pusher - Program - Hontai Controller Gawa (Japan).ngc	nointro 2023-07-17	snk-ngpc
+7ff625dc216783b034b011351c98255f	Puyo Pop (World) (En,Ja) (v05).ngc	nointro 2023-07-17	snk-ngpc
+d40dc57b9cc3a30a2400f8cfd8724578	Puyo Pop (World) (En,Ja) (v06).ngc	nointro 2023-07-17	snk-ngpc
+f371e9278973926ad01a0982772f16ae	Puzzle Bobble Mini (Europe).ngc	nointro 2023-07-17	snk-ngpc
+25582ba7d573db17de4ff717f08d0221	Puzzle Bobble Mini (Japan) (En).ngc	nointro 2023-07-17	snk-ngpc
+df694e1f69ded1df68a4ac52a13fb44a	Puzzle Link (USA, Europe).ngc	nointro 2023-07-17	snk-ngpc
+9b30216da76c9de87caea93f13977396	Puzzle Link 2 (USA, Europe).ngc	nointro 2023-07-17	snk-ngpc
+72119f96aa1ebd5a01562b0395089bcf	Renketsu Puzzle Tsunagete Pon! Color (Japan).ngc	nointro 2023-07-17	snk-ngpc
+1ca3a6b4e23c51bdab70182c3406e73d	Rockman - Battle & Fighters (Japan).ngc	nointro 2023-07-17	snk-ngpc
+24791232f87a04afee30b7448458ca99	Rockman - Battle & Fighters (Japan) (Demo).ngc	nointro 2023-07-17	snk-ngpc
+9b11b2632f926301096a40491042a089	Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+7c262a2c6390445170d0bf83290c939c	Shanghai Mini (World) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+100760e5f548abff92a36761fcf6ee14	Shanghai Mini (World) (En,Ja) (Beta 1).ngc	nointro 2023-07-17	snk-ngpc
+f547e657f717223c8a286e51aa159f86	Shanghai Mini (World) (En,Ja) (Beta 2).ngc	nointro 2023-07-17	snk-ngpc
+3ab7276071d35cd11f316b6b936cee38	Shinki Sekai Evolution - Hateshinai Dungeon (Japan).ngc	nointro 2023-07-17	snk-ngpc
+a874c1d95bade2143c0712d22ddbd452	Shougi no Tatsujin Color (Japan).ngc	nointro 2023-07-17	snk-ngpc
+6beb5fe00811f44c456030b052b7a325	SNK Gals' Fighters (Japan).ngc	nointro 2023-07-17	snk-ngpc
+08922d2bdc6c80d56ddf50836ccad77c	SNK Gals' Fighters (USA, Europe).ngc	nointro 2023-07-17	snk-ngpc
+ebc0e8c33d1a5e5be5457ad988233feb	SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).ngc	nointro 2023-07-17	snk-ngpc
+3bcc1c9ef59a75e3c2e6b49be6b84bab	SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).ngc	nointro 2023-07-17	snk-ngpc
+74e8381e94565e21a3197449bb4423bf	SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).ngc	nointro 2023-07-17	snk-ngpc
+e8292bf000355e30c09eb64a3d381243	SNK vs. Capcom - Gekitotsu Card Fighters (Japan) (Demo).ngc	nointro 2023-07-17	snk-ngpc
+e99ac2011126b8b617e77caff032d744	SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).ngc	nointro 2023-07-17	snk-ngpc
+6cf60c8e14d7caacca38ff13963f5a32	SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan).ngc	nointro 2023-07-17	snk-ngpc
+7938c2b51486c30b9cdda8f209c14a7a	SNK vs. Capcom - Gekitotsu Card Fighters - SNK Supporter Version (Japan) (Demo).ngc	nointro 2023-07-17	snk-ngpc
+dd285dbdb0e46a1b0e8ea9a5d840e070	SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+46d7b058b1c753409df10c16be1669e6	SNK vs. Capcom - The Match of the Millennium (Japan) (Demo).ngc	nointro 2023-07-17	snk-ngpc
+6123e8a783b146bdcdc6a9fa95abb0bd	Sonic The Hedgehog - Pocket Adventure (World) (En,Ja).ngc	nointro 2023-07-17	snk-ngpc
+67bb8f5377e1673c0277e3222186435d	Sonic The Hedgehog - Pocket Adventure (World) (Demo).ngc	nointro 2023-07-17	snk-ngpc
+69c5d58770f111037f565efbcc366b53	Sonic The Hedgehog - Pocket Adventure (World) (Beta) (1999-10-22).ngc	nointro 2023-07-17	snk-ngpc
+8b12fec8e96dad41380ab419a216ad08	Soreike!! Hanafuda Doujou (Japan).ngc	nointro 2023-07-17	snk-ngpc
+07873a332ef8ac5cb5177ee3c304ff2b	Super Real Mahjong - Premium Collection (Japan).ngc	nointro 2023-07-17	snk-ngpc
+2a8f9cb76e56000769e08200d8b25182	Tsunagete Pon! 2 (Japan).ngc	nointro 2023-07-17	snk-ngpc
+95bd72b9e9081cb8ad8fc32bf7ff37b7	Wrestling Madness (Japan) (En) (Beta).ngc	nointro 2023-07-17	snk-ngpc

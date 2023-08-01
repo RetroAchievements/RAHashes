@@ -1,0 +1,316 @@
+668570dd413d5cdf271e58d61b5b99e7	1942 (1986)(ASCII)(JP).rom
+98854b14932a7183cafeb16de27dd1d4	1942 (1987)(Zemina)(KR).rom
+1f73a16c2b3cd400e026b578b7567a72	AcroJet (1988)(System Soft)(JP).rom
+ab5f637f768e358020b7d4ed3b4d03d0	AcroJet (1988)(System Soft)(JP)[b].rom
+51d021af50c3a48124331a9fbc738b97	Akumajyo Drakyula. Vampire Killer (1986)(Konami)(JP)[a][RC-744].rom
+5d50c1c7bc164c3d01c41b0b8a501d72	Akumajyo Drakyula. Vampire Killer (1986)(Konami)(JP)[a2][RC-744].rom
+ef4636efb770ae5be8b3d6af245a594a	Akumajyo Drakyula. Vampire Killer (1986)(Konami)(JP)[a3][RC-744].rom
+273c3dff8315a6a4fced758f07d54aaa	Akumajyo Drakyula. Vampire Killer (1986)(Konami)(JP)[a4][RC-744].rom
+2ac9a5946a300fcc71e9956c9cb6a47c	Akumajyo Drakyula. Vampire Killer (1986)(Konami)(JP)[a5][RC-744].rom
+92ba9dab3c7a4ac6c8a130f6ccbac91c	Akumajyo Drakyula. Vampire Killer (1986)(Konami)(JP)[RC-744].rom
+4b1a5dc67b2eabdda3d78169ba00e9e0	Aleste (1988)(Compile)(JP).rom
+d00eaa8a362dd87a8153a6e2a5b40e62	Aleste (1988)(Compile)(JP)[a].rom
+7087b51f3ccfdf314ce60d5d8aaf644a	Aleste (1988)(Compile)(JP)[a2].rom
+a3648a5dd95179c00fc11fe455bb5828	American Soccer (1987)(Nidecom)(JP).rom
+31502091ea075c4e3b20461267026ceb	American Soccer (1987)(Nidecom)(JP)[a].rom
+6048e1ea4f3d5acbeaabe9067e706733	American Soccer (1987)(Nidecom)(JP)[b].rom
+79363f8f57233e4e4ae544fdbb6e21a0	Andorogynus (1988)(Telenet Japan)(JP).rom
+65ed7fce763e5e7ec60306e86fff872f	Andorogynus (1988)(Telenet Japan)(JP)[a].rom
+2eccdcfd28c7dc95f21bdf856c0704d6	Andorogynus (1988)(Telenet Japan)(JP)[b].rom
+634dd13762378630bfe50ac9b87dbf5f	Arctic (1989)(Pony Canyon)(JP).rom
+f709083da5b2b078c3621a17374aaf1e	Arctic (1989)(Pony Canyon)(JP)[a].rom
+cac9788c86bbcb65a042bfc43d12402f	Arkanoid II - Revenge of Doh (1987)(Nidecom)(JP).rom
+2d594d9ebfb36faba7eea3c6b4e55dc8	Arkanoid II - Revenge of Doh (1987)(Nidecom)(JP)[a].rom
+1e3cb2c08de58f371979b40e498e309c	Arkanoid II - Revenge of Doh (1987)(Nidecom)(JP)[a2].rom
+fd462e58d7d9f6cbec959f1bb40447fd	Arkanoid II - Revenge of Doh (1987)(Nidecom)(JP)[b].rom
+2e3bc2a2599ae662002ef3adea151b7c	Arkanoid II - Revenge of Doh (1988)(Zemina)(KR).rom
+14c078a9ed5c14ac54a6eb5e94fa34d2	Arsene Lupin 3rd - Cariostoro no Siro (1987)(Toho)(JP).rom
+4fefe2334038d0f2f189a8434b1c8bc2	Arsene Lupin 3rd - Cariostoro no Siro (1987)(Toho)(JP)[a].rom
+2bd8b20b342976a5cf7b4b30399c5083	Arsene Lupin 3rd 2 - Babiron no Ougon Densetsu (1988)(Toho)(JP).rom
+b15c73f408756e444bd8ee347e7f98ae	Arsene Lupin 3rd 2 - Babiron no Ougon Densetsu (1988)(Toho)(JP)[a].rom
+790e45f34cec0f5064161109653537c5	Arugisu no Yoku. Wings of Arugisu (1988)(Kogado)(JP).rom
+4761dc4891d87f2f2feeeb237c9cd526	Asada Tetsuya no Akyoo Mahjong. Nap Tetsuya's A-Class Mahjong (1988)(Pony Canyon)(JP).rom
+851aca1e5d3f0e8d9b1cbec2e8451831	AshGuine (1987)(Panasoft)(JP).rom
+d92486e62049282c43c54881de3684a3	AshGuine (1987)(Panasoft)(JP)[a].rom
+6b98c47831c9aab49192fa3ed26c9309	AshGuine 2 (1987)(Panasoft)(JP).rom
+3b191ba16e7c5def2f1e9febc1fb92e5	AshGuine 2 (1987)(Panasoft)(JP)[a].rom
+f582df437dde65d958eec72260801b32	AshGuine 3 (1987)(Panasoft)(JP).rom
+831243e740c25d11ec55e202602c1eae	Blade Lords (1994)(Parallax)(NL).rom
+921a8c523a5f699d0d32f691e2a9326d	Blade Lords (1994)(Parallax)(NL)[a].rom
+78cfcd46880a80b26839158cba7094a1	Bubble Bobble (1987)(TAITO)(JP).rom
+bd8b1f6c998657b96bf7dc7825d0a600	Bubble Bobble (1987)(Taito)(JP)[a].rom
+027ca1d6c89909fd0d19703502de1f76	Bubble Bobble (1987)(Zemina)(KR).rom
+9454f30eb16bc0ecd406939d1c1834d4	Bubble Bobble (1987)(Zemina)(KR)[a].rom
+10b02d5c4600b342e98559518bdbc96d	Cockpit, The (1988)(Nidecom)(JP).rom
+855dc91e683d897662c2f676b4dc3e3a	Contra. Gryzor (1989)(Konami)(JP)[RC-762].rom
+32fbdad6529038179eeef3f2db7dbe85	Contra. Gryzor (1989)(Konami)(JP)[SCC][RC-762].rom
+2516867abfd70ba0b240c9ff55c6c01f	Contra. Gryzor (1989)(Konami)(JP)[t][RC-762].rom
+c787a2825169fa5b13bcb1eaec3e289a	Crimson (1987)(Scaptrust)(JP).rom
+cc6d64c4a9880b6111f6b491275eb62a	Daikoukai Jidai. Uncharted Waters (1990)(Koei)(JP).rom
+57f718a9f3add36b71f606d636cb1d6f	Daisenryaku. Risk (1987)(Micro Cabin)(JP).rom
+ca9cb10e2415775418c85f47e1bfb5d5	Darwin 4078 (1987)(Hudson Soft)(JP).rom
+e84d7e53b40d406042e9b3ae837aad62	Darwin 4078 (1987)(Hudson Soft)(JP)[a].rom
+1a06186f14de3c724215997eee18d6fd	Darwin 4078 (1987)(Hudson Soft)(JP)[a2].rom
+56dae5f0998359d68cdba7cb6947fd3f	Deep Forest (1987)(Xain)(JP).rom
+dc9c2178fec7958fdde3f7762ffe0b2e	Deep Forest (1987)(Xain)(JP)[a].rom
+9c16b2ba7956a86819bdbc12cd266e29	Dires - Giger Loop (1987)(Bothtec)(JP).rom
+0cb6d4d086306f22d6d4a8c96a0f44e3	Double Vision - Beauty Girl Photo Studio (1987)(Hard)(JP).rom
+52bd14a491aa5802e842bff023d4f728	Dragon Buster (1987)(Namcot)(JP).rom
+3283755bdad01c78eff2ad0f2751805c	Dragon Buster (1987)(Zemina)(KR).rom
+b6a39a89fb0df0be5dff7d64f5fe8900	Dragon Quest (1986)(Enix)(JP).rom
+63672a3fdc8a481e3ac38ab1a36b5167	Dragon Quest (1986)(Enix)(JP)[a].rom
+38415491e0f07c722c15f0e4103650ff	Dragon Quest II (1988)(Enix)(JP).rom
+92139e59f1e8fe30d5550112b300cc5c	Dragon Quest II (1988)(Enix)(JP)[a].rom
+b2e0120f0a937fab09a37a252ab0faea	Dragon Quest II (1988)(Enix)(JP)[a2].rom
+5e2a02bafed932679acbf1da777d77fa	Dragon Quest II (1988)(Enix)(JP)[b].rom
+560544f37bf6f806b200d5db3d562e26	Dragon Slayer 3 - Romancia. Dragon Slayer Jr (1987)(Falcom)(JP).rom
+e6936c2b6472591505acd1ee1b6c5865	Dragon Slayer 4 - Drasle Family (1987)(Falcom)(JP).rom
+38209dd384ca5a791e97ffc6c68097a2	Dragon Slayer 4 - Drasle Family (1987)(Falcom)(JP)[a].rom
+94c971e98392459a2629240db7679666	Dragon Slayer 4 - Drasle Family (1987)(Falcom)(JP)[a2].rom
+c98e5be4de2a35fce878f8f20f9138b3	Dragon Slayer 4 - Drasle Family (1987)(Falcom)(JP)[o].rom
+65845a220992ea4962d96919278b7a23	Druid (1987)(Nippon Dexter)(JP).rom
+62f67225074fec95baa131f687238fd0	Druid (1987)(Nippon Dexter)(JP)[a].rom
+35be85738c2405771681371dc892202b	Druid (1987)(Nippon Dexter)(JP)[a2].rom
+14311b9fe54716ed22efe313a7503e53	Dynamite Bowl (1987)(Toshiba-EMI)(JP).rom
+a495dc8678497b284b8a2b675f8bb6cc	Dynamite Bowl (1987)(Toshiba-EMI)(JP)[a].rom
+ff25f8ccde5cf7d49a758d19f46e41d0	Eidolon, The (1986)(Pony Canyon)(JP).rom
+3f68d8e286b9b46b5400381bdacbaa52	Elslid. Erenubu. Eagle War (1988)(NCS)(JP).rom
+c6ef60d5fd83ff363c4e856d00d78356	Elslid. Erenubu. Eagle War (1988)(NCS)(JP)[a].rom
+cafaa2eab655943ad4064a1dbdb09a67	Empereur, L' (1990)(Koei)(JP).rom
+35d9d247a298181bb0c70a45d5e0746e	Europa Sensen. Europe War. Battle Front Europe (1992)(Koei)(JP).rom
+c4c2bf153650b33aaab97ac00d07685b	F-15 Strike Eagle (1988)(System Soft)(JP).rom
+3a14e2d8039dbf2e475c6fe7f3830d04	Famicle Parodic (1988)(Bit2)(JP).rom
+eccbb5b0e92ba466da7a55434bbc0556	Famicle Parodic (1988)(Bit2)(JP)[a].rom
+b0777d767fbe554b943b866c3191fade	Famicle Parodic (1988)(Bit2)(JP)[a2].rom
+b14dcced836daa6024cc1e6a9fc6d5f4	Famicle Parodic (1988)(Bit2)(JP)[b].rom
+54038e0dcc4ad3f0a2fd3859eb3e5c9b	Family Billiards (1987)(Pack In Video)(JP).rom
+c99f4c45159150ad4c8152a7181966ef	Family Billiards (1989)(Zemina)(KR).rom
+9b92eb8a340fed695fb4d86d94e6a4d6	Family Boxing (1988)(Sony)(JP).rom
+fe9ed2d6a48e347d6794214722e41827	Family Boxing (1988)(Sony)(JP)[a].rom
+206945b66a897271269cdcf12070993b	Family Stadium Pro Baseball (1989)(Namcot)(JP).rom
+88ab9038be379184c70ed4aef1766a57	Fantasy Zone II - The Tears of Opa-Opa (1987)(Pony Canyon)(JP).rom
+cf739db66adc5a2f2d06f19e3d852ccb	Fantasy Zone II - The Tears of Opa-Opa (1987)(Pony Canyon)(JP)[a].rom
+beae4b0bee7b028644804fa41da96f40	Fire Ball (1988)(Humming Bird Soft)(JP).rom
+93c57c72f5991bc3f56729d0e3488593	Fire Ball (1988)(Humming Bird Soft)(JP)[a].rom
+c164b82e38be62c3cfe38d587e20cc31	Fleet Commander II (1990)(ASCII)(JP).rom
+d58d87e7a359df92c3aeae0ea93672b5	Gakuen Monogatari. High School Story (1988)(Great)(JP).rom
+889e438fea6eeece702446311afce84f	Gambler Jikichushinpa 2 (1988)(Game Arts)(JP).rom
+bfa3f3717d706c047c5b0363b56811a0	Ganbare Goemon. Samurai (1987)(Konami)(JP)[a][RC-748].rom
+15bdb1ff79fbc55ce9972a3d1ebd9b9c	Ganbare Goemon. Samurai (1987)(Konami)(JP)[a2][RC-748].rom
+44c47ae77d38ee95d311f90204ed4ac5	Ganbare Goemon. Samurai (1987)(Konami)(JP)[RC-748].rom
+ed4978ec21c4d0e7c7a336c58e9b7800	Garyuoh. Dragon King (1987)(Xain)(JP).rom
+c9a6c43add06e8f57ffdb4fe40df753c	Garyuoh. Dragon King (1987)(Xain)(JP)[a].rom
+b82bddbc0dec393986c0fadaa7dac22c	Gekitotsu Pennant Race (1988)(Konami)(JP)[a][RC-757].rom
+d289fa8bcf442197900082a0d6f87b25	Gekitotsu Pennant Race (1988)(Konami)(JP)[a2][RC-757].rom
+ab8c5e6d4be4a2979019df24ca0ad679	Gekitotsu Pennant Race (1988)(Konami)(JP)[a3][RC-757].rom
+933618a3d26ee6beb32527113996f483	Gekitotsu Pennant Race (1988)(Konami)(JP)[RC-757].rom
+d3ff5d3e1bde29ba2aed232f95c891fd	Gekitotsu Pennant Race (1988)(Konami)(JP)[SCC][RC-757].rom
+af91306740ff42ffd25f0f75d3e4fca8	Gekitotsu Pennant Race 2 (1989)(Konami)(JP)[a][RC-766].rom
+97936e206e44474e7a2062d2682d5f54	Gekitotsu Pennant Race 2 (1989)(Konami)(JP)[a2][RC-766].rom
+19c8db6c2560623af02eed59d5ad8d76	Gekitotsu Pennant Race 2 (1989)(Konami)(JP)[RC-766].rom
+76bba6b3f1ae93cfafb3af904b978098	Genchouhishi (1992)(Koei)(JP).rom
+67bc15b268c9e35df72121911d4412ea	Genghis Khan (1988)(Koei)(JP).rom
+8a5f64a74e66be96ebf1f1719e669b89	Girly Block (1988)(Telenet Japan)(JP).rom
+cb955ec12b62b62d8f3df6f2073acfc1	Gitahei (1986)(Micro Cabin)(JP).rom
+a086184d0d646aa3dcfff48afa0e37e2	Go Othello. Connect Stones (1989)(Konami)(JP)[a][SCC+].rom
+64155315fd0fc14eac84a412dab410df	Go Othello. Connect Stones (1989)(Konami)(JP)[SCC].rom
+9a30411d8d3017491fdfe0d19bf27076	Go Othello. Connect Stones (1989)(Konami)(JP)[SCC+].rom
+5fd491b7b8c674fc78a56405c27d9221	Hacker (1988)(Pony Canyon)(JP).rom
+c04d63b2a8abcf7a75fbcf385850964d	Hai no Majutsushi - Mahjong 2 (1989)(Konami)(JP)[a][no PCM][RC-765].rom
+a9187c70ab0f678e06c773dabf2f7e5f	Hai no Majutsushi - Mahjong 2 (1989)(Konami)(JP)[a][RC-765].rom
+6fa69bc2fc1c872efc130eeaf857f74b	Hai no Majutsushi - Mahjong 2 (1989)(Konami)(JP)[a2][no PCM][RC-765].rom
+157948f839762dc9922e4011bb4dc9e6	Hai no Majutsushi - Mahjong 2 (1989)(Konami)(JP)[no PCM][RC-765].rom
+4cd9bba883a16bcf67835bf4d6ae13ee	Hai no Majutsushi - Mahjong 2 (1989)(Konami)(JP)[RC-765].rom
+b6f896927efde131a1cbb14b5cea942d	Hardball (1987)(Sony)(JP).rom
+53cb808a7a5a5e4cb13f8905e8bd9a34	Hardball (1987)(Sony)(JP)[a].rom
+ea1ca54cfe5222b49ead093cc6eafca0	Heroes of the Lance (1991)(Pony Canyon)(JP).rom
+d18fa99ae42ebb6ac7b10556c172de7e	High School Kimengumi (1987)(Pony Canyon)(JP).rom
+c35d87613bc6c7f5c03bfb8fa220a3f6	Hinotori. Firebird (1987)(Konami)(JP)[a][RC-747].rom
+8d89caf4804637e302fe1d57d2e2af73	Hinotori. Firebird (1987)(Konami)(JP)[a2][RC-747].rom
+ab9bab9f3ddf1b4bb1532e384890a50c	Hinotori. Firebird (1987)(Konami)(JP)[a3][RC-747].rom
+e2ae336ebffbc696633a57fe46e170b5	Hinotori. Firebird (1987)(Konami)(JP)[RC-747].rom
+67b6fafcfe5d552afa572daa3a26c45d	Hinotori. Firebird (1987)(Zemina)(KR)[RC-747].rom
+6beaf41221e7cd325d32b3112cc898da	Hole in One Special (1987)(HAL Laboratory)(JP).rom
+df9d9e1dd54409d5b35339ea60b1045e	Hole in One Special (1987)(HAL Laboratory)(JP)[a].rom
+c8f2a1a93f852096eaebaa18e59350cf	Hydlide III - The Space Memories (1987)(T&E Soft)(JP).rom
+68f5d063d42ac44f479139ce9654e4c2	Hyper Somen. Rice Eating (1989)(Konami)(JP)[a][SCC+].rom
+8bb842380dddc4047c839f47d3e93e39	Hyper Somen. Rice Eating (1989)(Konami)(JP)[SCC].rom
+d67a50cf4d6911cf06debf053f179bbd	Hyper Somen. Rice Eating (1989)(Konami)(JP)[SCC+].rom
+77a23da8af09ccb05f19ca50e717875b	Ide Yousuke no Jissen Mahjong (1988)(Pack In Video)(JP).rom
+65c426e4cf02a1f211641a2dfc035486	Ikari Warriors (1987)(SNK)(JP).rom
+ccab31de87cc187e5a3cc63401f43b00	Ikari Warriors (1987)(SNK)(JP)[b].rom
+d2f178fb8b16b2ebe002fefccb7d3191	Inindo Datou Nobunaga. Way of the Ninja (1991)(Koei)(JP).rom
+6c3ac4fc067d82977a11611ec29ae4c4	Ishin no Arashi. Storm of the Meiji Restoration (1989)(Koei)(JP).rom
+d9c9ee473b5e1e372b2b53a3c9558d5f	Jyansei. Jansei. Mahjong King (1986)(Sony)(JP).rom
+f64c38d0010b872a435b041936100cbd	Jyansei. Jansei. Mahjong King (1986)(Sony)(JP)[a].rom
+a7e3b3b64a54078d7d92fbea2e1cf8a8	Kenpelen Chess (1988)(Pony Canyon)(JP).rom
+7c981f0ddf3a459fb854c9b827061a44	Kiki Kaikai. Mystery (1987)(Sony).rom
+cdb2b8705218e6215e509b464a842111	Kiki Kaikai. Mystery (1988)(Zemina)(KR).rom
+1fc6cc9ccf7b846f52e06a80f31c2fe7	Kiki Kaikai. Mystery (1988)(Zemina)(KR)[a].rom
+a7bc0525d6367fe9b32eb568a14133e7	King Kong 2 (1986)(Konami)(JP)[a][RC-745].rom
+e9708e4da8020193510752be73de6c2e	King Kong 2 (1986)(Konami)(JP)[a2][RC-745].rom
+ef22e9381d6d73c8001cccf57ca70ac7	King Kong 2 (1986)(Konami)(JP)[a3][RC-745].rom
+65b5dbfddbfb71975511412afcea17f8	King Kong 2 (1986)(Konami)(JP)[RC-745].rom
+a94a47593514299cae379b974dc088f5	King's Valley II - The Seal of El Giza - Edit Contest Version (1988)(Konami)(JP).rom
+dfcaf859e699f8995d054622c5a561ba	King's Valley II - The Seal of El Giza (1988)(Konami)(JP)[RC-761].rom
+7681e24059d52272f5745ebcd22c1e0f	King's Valley II - The Seal of El Giza (1988)(Konami)(JP)[SCC][RC-761].rom
+8cfe4ebb5bfd4c2ab838b81b0d2acb37	Kisei (1987)(Sony).rom
+29020908bafea060960ca7e65cdfe6ca	Koji Tanigawa's Shougi Shinan II (1988)(Pony Canyon)(JP).rom
+e95759a5332959a0f497c99508f738cc	Koronis Rift (1987)(Pony Canyon)(JP).rom
+4140b44e0923026e50f88787e208ccb5	Kyoto Ryu no Tera Satsujin Jiken (1988)(Taito)(JP).rom
+6258d916a2e8a44dcc571fa3dd26bd3c	Labyrinth, The (1987)(Pack In Video)(JP).rom
+121eb1b9dce5c12832a5c7b97265a773	Labyrinth, The (1987)(Pack In Video)(JP)[a].rom
+82a73f6b3186409232f988f28226f9e6	Labyrinth, The (1987)(Pack In Video)(JP)[a2].rom
+71ae9c3540d5cfef4ebab4254f39818d	Livingstone Supongo (1986)(Opera Soft)(ES).rom
+668f400e33557d24c9413310634c8ace	Mad Rider (1987)(Carry Lab)(JP).rom
+93c665dab6503b4ff2712adfeb3a8531	Mad Rider (1987)(Carry Lab)(JP)[a].rom
+ed5c5d1f0a3ccd435ac3d28668ee5ec9	Maison Ikkoku - Kanketsuhen (1988)(Micro Cabin)(JP).rom
+e94ba71d0782e6606bf763407799964d	Maison Ikkoku (1987)(Micro Cabin)(JP).rom
+68ee449de249d7b2cf0e1900a6cd319c	Maison Ikkoku (1987)(Micro Cabin)(JP)[a].rom
+9c28725c720bb2597766fc80d8b4ed65	Maison Ikkoku (1987)(Micro Cabin)(JP)[o].rom
+1811f67fac1f6c98c83ef0281371c7fb	Makaijima - Higemaru (1987)(Capcom)(JP).rom
+f6dc168468002fd37cbc78a964e48baa	Makaijima - Higemaru (1987)(Capcom)(JP)[b].rom
+8153cc9023d0e38d7da0b359c47df5e8	Malaya no Hihou (1989)(Pony Canyon)(JP)[b].rom
+3ed0c73232b43571d99ec980c58f15be	Mejon (19xx)(-)[b].rom
+97736dfeb637b0a0c13972dff7720851	Metal Gear (1987)(Konami)(JP)[a][RC-750].rom
+25cfd76d44305702d2e5b3e23fd2abbc	Metal Gear (1987)(Konami)(JP)[a2][RC-750].rom
+12e302954fa9b23c11ce7c8f5770b82a	Metal Gear (1987)(Konami)(JP)[a3][RC-750].rom
+e8c260a29aa082e5330827364aa86ba8	Metal Gear (1987)(Konami)(JP)[a4][RC-750].rom
+439ea985617135d70858f0e6f88ba0f9	Metal Gear (1987)(Konami)(JP)[RC-750].rom
+bcab28734d57b98120de13e56a8bd419	Metal Gear (1987)(Konami)(JP)[save on disk][RC-750].rom
+384689388dcc00d4e01804664acf5989	Metal Gear (1987)(Konami)(JP)[tr es][RC-750].rom
+43d38f6d7f6c98710292c8f6368abbd2	Metal Gear 2 - Solid Snake (1990)(Konami)(JP)(tr es)[SCC][RC-767].rom
+ba514b1a1d1a1d9327106b74a279592a	Metal Gear 2 - Solid Snake (1990)(Konami)(JP)[a][RC-767].rom
+668217f475619500c87f136949267b6d	Metal Gear 2 - Solid Snake (1990)(Konami)(JP)[a2][RC-767].rom
+52a23db9a9f60f1286887b231f1c3774	Metal Gear 2 - Solid Snake (1990)(Konami)(JP)[a2][SCC][RC-767].rom
+b38fa1e7ac9d63003dad96992f7c7358	Metal Gear 2 - Solid Snake (1990)(Konami)(JP)[a3][RC-767].rom
+0f31f8927cb3940b2909a6956c3eb37c	Metal Gear 2 - Solid Snake (1990)(Konami)(JP)[b][RC-767].rom
+9f50d92d35e19d5de37d75a36a410588	Metal Gear 2 - Solid Snake (1990)(Konami)(JP)[RC-767].rom
+c18ac5502c966dbd7e61c26433784b23	Metal Gear 2 - Solid Snake (1990)(Konami)(JP)[SCC][RC-767].rom
+0b5fd35204aa279fb106e3761f90085e	Metal Gear 2 - Solid Snake (demo) (1990)(Konami)(JP)[RC-767].rom
+f15a35b66270858d4c1c5d1351e04d6e	Mirai 2. Future 2 (1987)(Xain)(JP).rom
+5564c666d127fa6765b756311a19f45d	Missisippi Satsujin Jiken. Murder on the Mississippi (1987)(Jaleco)(JP).rom
+50b6f805f48865d0a0021d604be1c58e	Moero! Netto Yakyu '88 (1988)(Jaleco)(JP).rom
+924f7eb26bcdf28047ec4211eec5f8b7	Mon Mon Monster (1989)(Hot-B)(JP).rom
+219b1de65f8c4215134d75a66eed059b	Mon Mon Monster (1989)(Hot-B)(JP)[b].rom
+28eaa95b72bcbf3e31202c3cc72e47c4	Nekketsu Judo (1989)(Pony Canyon)(JP).rom
+0e2697ed7769d3aa3650b215808c5335	Nekketsu Judo (1989)(Pony Canyon)(JP)[a].rom
+7af4dfd91cd1e2e6bf0d2d7d2302f97f	Nekketsu Judo (1989)(Pony Canyon)(JP)[a2].rom
+7a3012784c5e42194c141edbf0f7a94d	Nekketsu Judo (1989)(Pony Canyon)(JP)[a3].rom
+01d18e427d829e3f1aa3550ff15c107c	Ninja Kun - Ashura no Sho (1987)(HAL Laboratory)(JP).rom
+4fe04555caed46046b80d5624d44151f	Nobunaga no Yabou - Zenkoku Han (1987)(Koei)(JP).rom
+c2cbcad9411b575e9291c3739118785c	Nobunaga no Yabou 2 - Sengoku Gunyuu Den (1989)(Koei)(JP).rom
+65e30c8ef671b789fdc1c08780207e26	Nobunaga no Yabou 3 - Bushou Fuuun Roku (1991)(Koei)(JP).rom
+a04139da653fc41fdc576a5ffa273cf7	Ogre (1987)(System Soft)(JP).rom
+f0c367be0f5ca0ea142b4a1e9443a50b	Ogre (1987)(System Soft)(JP)[b].rom
+cbefb9797973ef12d44f83fa5ae1e065	Ogre (1987)(System Soft)(JP)[mouse].rom
+82cd46d7908c42417ff7f40b4d277e45	Ogre (1987)(System Soft)(JP)[press LSHIFT at boot].rom
+eff230804098ffe4d342f389b5209eac	Out Run (1988)(Pony Canyon)(JP).rom
+2bd6b2a2091a476853e80f6be18c9c3f	Out Run (1988)(Pony Canyon)(JP)[a].rom
+54f8ff0e312c5fc349ba08603cab0618	Out Run (1988)(Pony Canyon)(JP)[b].rom
+aee5bfde07da953eada70d618a933d06	Pachipro Densetsu (1989)(HAL Laboratory)(JP).rom
+45f9b96088f36697f779af7de373f8fe	Pac-Mania (1989)(Namcot)(JP).rom
+5c6a139fc5d97c8b7d40b704ef8e06a1	Penguin Kun Wars 2 (1988)(ASCII)(JP).rom
+415a5337eb46846cab8fc36390700e7d	Penguin Kun Wars 2 (1988)(ASCII)(JP)[a].rom
+3db77573e81184156486fe743b828e58	Penguin Kun Wars 2 (1988)(ASCII)(JP)[a2].rom
+41387351b5fdff0a0a206f61a8e1e680	Penguin Kun Wars 2 (1988)(ASCII)(JP)[b].rom
+3a3bef37cb175a665e7abbbc80b32e92	Predator (1988)(Pack In Video)(JP).rom
+3cd4e9d0369842440ad5888a52cdcf9a	Pro Baseball Fan (1988)(Telenet Japan)(JP).rom
+4f9c53d6f5ed2aa2876bb78408b39084	Professional Mahjong Gokuh (1988)(Chatnoir)(JP).rom
+9ffa0d56003931c45b232521724b2b8b	Project A2 (1987)(Pony Canyon)(JP).rom
+d24b39b0ccea87bfc9546b240846376e	Project A2 (1987)(Zemina)(KR).rom
+b34b756e16f07e26c2052823bab93592	Quarth (1990)(Konami)(JP)[RC-769].rom
+f49482108de2ba67e6c093e7853adbd2	Quarth (1990)(Konami)(JP)[SCC][RC-769].rom
+384527f9303a9a7a632b33c05d738f63	Quarth (1990)(Konami)(ko)[RC-769].rom
+a95a4348dfbb8c0d9e3e0a9da770031b	Quarth (demo) (1990)(Konami)(JP)[RC-769].rom
+bc946d90bd20e0805984f67bb4b93fc2	Quinpl (1988)(Bit2)(JP).rom
+114264bbcd0fdfa7bd083a983606a200	Rastan (1988)(TAITO)(JP).rom
+ef65109831aa59c765053f4c1b5d70b1	Rastan (1988)(Taito)[a].rom
+e10b0c9bd774be29d398df02c36e49ad	Rastan (1988)(Taito)[b].rom
+dd3e2f7c437f00ac77eeb9e9975ed947	Relics (1986)(Bothtec)(JP).rom
+405b64b6a05f572420e084cdea63c3f9	Relics (1986)(Bothtec)(JP)[a].rom
+f004bb334a040fccb76724deeef28087	Relics (1986)(Bothtec)(JP)[a2].rom
+5353bd7fb3c9a4d586001c543ecc6147	Relics (1986)(Bothtec)(JP)[a3].rom
+4df8be4c3e7cca2535a9eec067e364ea	Relics (1986)(Bothtec)(JP)[o][b].rom
+7d4c77200788e78126b98a7d7ba53d3c	Replicart (1987)(Sony).rom
+795918ec755dbd76a8e1138f1c9abb73	Return of Ishtar, The (1988)(Namcot)(JP).rom
+b2f9773dde6bdb36ae1ec845e98dd914	Return of Jelda (1987)(Carry Lab)(JP).rom
+50312d8faaef4ffa55f49feab5669b0c	Return of Jelda (1987)(Carry Lab)(JP)[a].rom
+e5bcb26c0f7cc33c466b8a88e9509591	Rick & Mick's Adventure (1987)(Humming Bird Soft)(JP).rom
+9df54a16476239e572747cc9a83c5b32	Rick & Mick's Adventure (1987)(Humming Bird Soft)(JP)[a].rom
+6a1571a643e6c34837535a3240f85ef2	Royal Blood. Gemfire (1991)(Koei)(JP).rom
+34301e3f3f3aa4e0cbd657caab003237	Sangokushi 2. Romance of Three Kingdoms 2 (1990)(Koei)(JP).rom
+afe6a9160c79d579f18b2980f8874a6e	Sangokushi. Romance of Three Kingdoms (1987)(Koei)(JP).rom
+f65b39a6475911f935b3d8c00b8b52a0	Satujin Kurabu. Murder Club (1988)(Micro Cabin)(JP).rom
+5951dc047c5a102e9cf9e1a59d2596d2	Scramble Formation (1987)(TAITO)(JP).rom
+da329ec7da6e992536419b07b9909cbc	Scramble Formation (1987)(Taito)(JP)[a].rom
+ee977849b8182dc4ed07bed9a4c7b860	Scramble Formation (1987)(Taito)(JP)[b].rom
+e6398263c9183a48326f21bbe7fde655	Scramble Formation (1987)(Taito)(JP)[b2].rom
+6777de50268e91358a24d4974b3c4fb1	Scramble Formation (1987)(Taito)(JP)[o][b].rom
+76a2fd7f38d9fb6b5192115fc5182b7f	Seigimatsu II Special Attack Devil (1987)(Sony)(JP).rom
+42b81e1c71ec8af3f37d90e4c020c697	Seigimatsu II Special Attack Devil (1987)(Sony)(JP)[a].rom
+2ecf4de0553be3746b76f012e6f6cfa2	Seigimatsu II Special Attack Devil (1987)(Sony)(JP)[a2].rom
+6429d308164ccb0aea2888f5cffa66aa	Shanghai (1987)(System Soft)(JP).rom
+89db61d03a72aede925d79e02706f666	Shiryou Sensen. War of the Dead (1987)(Victor)(JP).rom
+ae08cb529c454ee7477ac61662e02858	Shiryou Sensen. War of the Dead (1987)(Victor)(JP)[a].rom
+41f4c112671b666220137f721e1460aa	Shiryou Sensen. War of the Dead (1987)(Victor)(JP)[a2].rom
+f78b9f4ea885cf072e5b41dce9f15436	Space Manbow (1989)(Konami)(JP)[RC-768].rom
+50d33427a8d7e409ff1eb718e69c94fe	Space Manbow (1989)(Konami)(JP)[SCC][RC-768].rom
+aef44e669988772f0b6226eaa8be4085	Space Manbow (1989)(Konami)(JP)[t][RC-768].rom
+d2f51a8ac5b78d322d6ba404e962f07a	Star Virgin (1988)(Pony Canyon)(JP).rom
+21eaba844f408c094c2d190d68df3842	Star Virgin (1988)(Pony Canyon)(JP)[a].rom
+0f235700eecb79b0e5a517118d48112c	Strategic Mars (1988)(dB-Soft)(JP).rom
+62be2cd42b3db21e68df4c6a529188ed	Strategic Mars (1988)(dB-Soft)(JP)[a].rom
+22f48218a0db04edd8f90bc4355e2de9	Suikoden - Tenmei no Chikai. Bandit Kings of Ancient China (1989)(Koei)(JP).rom
+4350a658720a2e8f7ecc46fb99c2209e	Super Daisenryaku. Super Risk (1988)(Micro Cabin)(JP).rom
+581fd0c7ab5d2e355c5bffa3946bdbf6	Super Lode Runner (1987)(IREM)(JP).rom
+1a504223fdc2476a57198f80e8410a2a	Super Rambo Special (1985)(Pack In Video)(JP).rom
+d86040acf8167274e136955e63bb1941	Super Rambo Special (1985)(Zemina)(KR)[b].rom
+a5e9d141552dc8a30b0d0f273463b5ff	Super Runner (1987)(Pony Canyon)(JP).rom
+a5fc4e9b290ee0e2e8ebb7f8b49d1ace	Super Runner (1987)(Pony Canyon)(JP)[a].rom
+3032194b7fbc4c7af47b140739e7ce84	Super Tritorn (1986)(Xain)(JP).rom
+3ea01c97fe0201aede87a3f772b1871a	Taiyou no Shinden - Asteka II. Temple of the Sun (1988)(Tokyo Shoseki)(JP).rom
+9c8bc23c7acad95ba2cbda6cbf48339b	Take the A Train (1989)(Pony Canyon)(JP).rom
+5dee9db145d631a97bf4c645e76f3b20	Teitoku no Ketsudan. Pacific Theater of Operations (1991)(Koei)(JP).rom
+88e940bb5c15d201bf1779821c10d923	Tengoku Yoitoko. Heaven (1987)(Taito)(JP).rom
+c59cde4b921bc9e9d38dcb50198086df	Tengoku Yoitoko. Heaven (1988)(Zemina)(KR)(ko).rom
+853f56779ad94235c7089ab23f8d4ef2	Tengoku Yoitoko. Heaven (1988)(Zemina)(KR)(ko)[a].rom
+3ae183edb7f89666b23f041fd592df3c	Tetris (1988)(BPS)(JP).rom
+02c96acad350f4bf392640470d3f9784	Title Memory (1989)(Konami)(JP)[a][SCC+].rom
+1c99a800a96157ef48c1f1f7eb30677e	Title Memory (1989)(Konami)(JP)[SCC].rom
+5b851c7342fd42a96d126fef14906d09	Title Memory (1989)(Konami)(JP)[SCC+].rom
+5d451b24113e05c7f81bf2b806e843c8	Topple Zip (1987)(Bothtec)(JP).rom
+d5ec6055da9a7acf301e3e7fd8ebee27	Topple Zip (1987)(Bothtec)(JP)[a].rom
+9aab75984b06c21ed8e6214474d3a68e	Treasure of Usas, The (1987)(Konami)(JP)[a][RC-753].rom
+e182d403a3929fdd3f66f74c6a439f17	Treasure of Usas, The (1987)(Konami)(JP)[a2][RC-753].rom
+750d755fa577e033754c95c6a850b878	Treasure of Usas, The (1987)(Konami)(JP)[RC-753].rom
+3342ee4ff67ee336a01b99f05dfb1d5a	Treasure of Usas, The (1987)(Konami)(JP)[t][RC-753].rom
+8c6fad6b48ebeeb663dce40617a9576a	Tsururin Kun. Rice Eating 2. Egg Stealing (1989)(Konami)(JP)[a][SCC+].rom
+746e48f4b138cc0a75899715299ed778	Tsururin Kun. Rice Eating 2. Egg Stealing (1989)(Konami)(JP)[SCC].rom
+974fa74f31484769ea18bc427a6a0812	Tsururin Kun. Rice Eating 2. Egg Stealing (1989)(Konami)(JP)[SCC+].rom
+ac309104c4bcc0cbf56ac1d2295f1119	Turikichi Sampei Burumarine-Hen. Blue Marlin (1988)(Victor)(JP).rom
+b94a21a6017844335f0ad989968f0786	Turikichi Sampei Turisennin-Hen. Fishing Freak (1989)(Victor)(JP).rom
+dfd60916a37e37b3a5b36523f6349109	Ultima III - Exodus (1987)(Pony Canyon)(JP).rom
+2b4f2b6eac82422eda32badf60aee213	Urusei Yatsura - Koi no Survival Birthday (1987)(Micro Cabin)(JP).rom
+4f4d65a9e3f86349abfcab82e52cd207	Victorius Nine II (1988)(Nidecom)(JP).rom
+e05383fcc5dc9b33591cb41634fade04	Victorius Nine II (1988)(Nidecom)(JP)[b].rom
+7ef6c2579156f1828fdb6de39eda647e	Victorius Nine II (1988)(Nidecom)(JP)[b2].rom
+53975cfff7a51f79e707e29e984d215a	Wizardry - Proving Grounds of Mad Overload (1987)(ASCII)(JP).rom
+24b443a15da41134a366f145fc336fab	Woody Poco (1987)(dB-Soft)(JP).rom
+3d8c2a836a4b16a739003b07d76c0459	Woody Poco (1987)(dB-Soft)(JP)[a].rom
+261a860dee771ea77c2d813b97366f9e	Xevious - Fardraut Saga (1988)(Namcot)(JP).rom
+72430889f4e5239a5ed9742a1b84c03a	Xevious - Fardraut Saga (1988)(Namcot)(JP)[a].rom
+18dda437c0591212190b337aad95e559	Xevious - Fardraut Saga (1988)(Namcot)(JP)[b].rom
+c271c503c50bbbba7efc04f5f9ac6dec	Yaksa (1987)(Wolfteam)(JP).rom
+9169b99c9085ce39189124cf289a07d1	Yaksa (1987)(Wolfteam)(JP)[b].rom
+fd325b9f4997d70397f59379e679e420	Yuurei Kun. Mr Ghost (1989)(System Sacom)(JP).rom
+73dbe097aec5ed7b1f79fd28d243cb18	Yuurei Kun. Mr Ghost (1989)(System Sacom)(JP)[a].rom
+9bf8ee3fb42f475f6c6c1789f4b93c42	Zanac-Ex (1986)(Pony Canyon)(JP).rom
+03d381a40baed2be60f09a91b52316cc	Zanac-Ex (1986)(Pony Canyon)(JP)[a].rom
+27ae0bd156ba5e0d5387821c18d7cff3	Zanac-Ex (1986)(Pony Canyon)(JP)[a2].rom
+3ba77f331a92acf0d3e64847d4a2ca24	Zoids (1988)(Toshiba-EMI)(JP).rom
+9b5014cbd65fe145479a206f5450862a	Zoids (1988)(Toshiba-EMI)(JP)[b].rom
+1e1c7e58f67f6d4dd96c3e818a057d9f	Zombie Hunter (1988)(Hi-Score Software)(JP).rom
+81a5853b8d046a8b3078283ac78bf2d1	Zombie Hunter (1988)(Hi-Score Software)(JP)[a].rom
+532c46b3f3b28ea4e1ddb215ba7ab5b0	Zukkoke Yajikita Onmitsudoutyuu (1987)(HAL Laboratory)(JP).rom
+ba2e644a68677cf42c116781579896d7	Zukkoke Yajikita Onmitsudoutyuu (1987)(HAL Laboratory)(JP)[a].rom

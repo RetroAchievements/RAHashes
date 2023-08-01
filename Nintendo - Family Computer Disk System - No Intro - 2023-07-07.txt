@@ -379,7 +379,7 @@ a19a8f966590f0e7dca455c2af311485	Ultraman Club - Chikyuu Dakkan Sakusen (Japan).
 1b2adc69d70c35a76d315e87db97b1e5	Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1).fds	nointro 2023-07-07	nintendo-fds
 a1f9de6f87becf29d3fc0c7e5aa68ad6	Volleyball (Japan).fds	nointro 2023-07-07	nintendo-fds
 8681dd0370e520d52274ebd5dd7eac24	Vs. Excitebike (Japan) (En).fds	nointro 2023-07-07	nintendo-fds
-d07f5f79e9fd1ccdd219637ee630aee6	Vs. Excitebike (Japan, USA) (Virtual Console).fds	nointro 2023-07-07	nintendo-fds
+d07f5f79e9fd1ccdd219637ee630aee6	Vs. Excitebike (Japan, USA) (En) (Virtual Console).fds	nointro 2023-07-07	nintendo-fds
 59580324fc6aa2cbce2b4223674b111f	Wakusei Aton Gaiden (Japan) (National Tax Agency Demo).fds	nointro 2023-07-07	nintendo-fds
 a8c72c53db21604dc94d1988c2179095	Wardner no Mori (Japan).fds	nointro 2023-07-07	nintendo-fds
 b77dd9ab677fe8f081c406844108ea3d	Winter Games (Japan).fds	nointro 2023-07-07	nintendo-fds
