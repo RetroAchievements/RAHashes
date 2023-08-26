@@ -34,6 +34,7 @@ f66c30668b00ad2ae1dac611dfc03314	Accel World - Kasoku no Chouten (Japan).iso
 ddaf1081e96bf6ca99e5935fd322f407	Ace Combat X - Skies of Deception (Europe) (En,Ja,Fr,De,Es,It,Ko).iso
 52184f331517445de9973994236fcf33	Ace Combat X - Skies of Deception (Japan, Asia) (En,Ja,Fr,De,Es,It,Ko) (v1.01).iso
 4b1cd4a9db23b1cb2388bd71ccbab215	Ace Combat X - Skies of Deception (Japan) (En,Ja,Fr,De,Es,It,Ko) (v2.00).iso
+b0d7c1a16c574d42a95257ebf24e566b	Ace Combat X - Skies of Deception (Korea) (En,Ko).iso
 990d55a4ab231919b5d9ca502719df6e	Ace Combat X - Skies of Deception (USA).iso
 d6e403da0bee070449cf087f3908134d	Ace Combat X2 - Joint Assault (Japan).iso
 8b111a86043011de48e80b07cc1b95d1	Aces of War (Europe).iso
@@ -103,6 +104,7 @@ d451dfdccabd74f272e467ca0eeceed7	Artlist Collection - The Dog Happy Life - Shiaw
 57b17209e64b9e435418f937573d78ad	Asphalt - Urban GT 2 (Europe) (En,Fr,De,Es,It).iso
 56cbe9982f2366f401d9735622b86f24	Assassin's Creed - Bloodlines (Europe) (En,Fr,De,Es,It,Ru).iso
 e091dc91af9aeb43291bb9a8c82dc6dd	Assassin's Creed - Bloodlines (Japan) (En,Ja).iso
+4844312e2dcfe3baa745aa65bbe59e8d	Assassin's Creed - Bloodlines (Korea).iso
 128aa5b384d03a3a3852534f38f930cb	Assassin's Creed - Bloodlines (USA) (En,Fr,De,Es,It).iso
 ead7f8a9a0ec83d2ca315e5527ae2b50	Asterix & Obelix XXL 2 (Europe) (En,Fr,De,Es,It,Nl).iso
 fe7eb953da352b93f661d919980d21b0	Astonishia Story (Europe).iso
@@ -128,6 +130,7 @@ d6b02f9213fa8170e6dd60af8b3c2879	B-Boy (Europe) (En,Fr,De,Es,It).iso
 613b9640a93bbad69d90f2b596a48beb	B-Boy (USA).iso
 346de941bef0dc841343f7538aa556d7	Bakemonogatari Portable (Japan).iso
 ac52d8413967eb9054bd134bc17358e0	Baku-No (Asia).iso
+ac52d8413967eb9054bd134bc17358e0	Baku-No (Japan, Asia).iso
 4cf25b2459dbeedad5326d69f026a689	Bakugan - Defenders of the Core (Europe) (En,Fr,De,Es,It,Nl,Sv).iso
 669ef741411dab85e9c51efea9e08a62	Bakugan - Defenders of the Core (USA) (En,Fr).iso
 e046c0a909d4d8b6905d30321c820ac9	Bakumatsu Rock (Japan).iso
@@ -242,9 +245,12 @@ fcbc7008cbe2cffec746f47a3d3da22a	Bust-A-Move - Deluxe (USA).iso
 385d5b177db58a9272232cb2cdac4772	Bust-A-Move Ghost (Europe).iso
 de0cae62c41cb11a1bd1ee98314109f8	Buzz! Brain Bender (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl).iso
 be774fb70a080c15fd033e7b2766ece1	Buzz! Brain of Oz (Australia).iso
+be774fb70a080c15fd033e7b2766ece1	Buzz! Brain of Oz ~ Buzz! Brain of New Zealand (Australia, New Zealand).iso
 201719c058275edd4583612c8945de2c	Buzz! Brain of the UK (UK).iso
+766f75cc9531929db1fd090dcfa03271	Buzz! Brain of the World (Europe).iso
 861c94f5af9e4edf56e205021d4d3a97	Buzz! Concurso Universal (Europe) (Es,Pt).iso
 b2de9b88b4b228dcfce5582b0cb5b7cb	Buzz! Danske Genier (Europe) (No,Da).iso
+b2de9b88b4b228dcfce5582b0cb5b7cb	Buzz! Danske Genier ~ Buzz! Norgesmester (Europe) (No,Da).iso
 4f725a120fbaba34d7c037869fad5c58	Buzz! Das grosse Laenderquiz (Europe) (De,It).iso
 a26b5e08892c9cb60156bdbbc84a97ec	Buzz! De Slimste van Nederland (Netherlands).iso
 baa52c6f6e6857c52b237de62ee01def	Buzz! De Strafste van Belgie (Belgium) (Fr,Nl).iso
@@ -265,6 +271,7 @@ dba65bdfa7e93ad6d3d919b919473712	Buzz! Quiz World (Australia).iso
 c960441d53fb701f14f14aa70171e3fe	Buzz! Quiz World (Europe) (De,It).iso
 e375689cdad3ed2ead82758c03b4ac2a	Buzz! Quiz World (Europe) (El,Cs).iso
 cfae9fa79f141c2134360aebde68f9f1	Buzz! Quiz World (Europe) (En,Pl).iso
+f4fa3d8035240d0b6279c4cf3492f236	Buzz! Quiz World (Europe) (Fr,Nl).iso
 ba85b4c429d79e6ebe85a73a55338310	Buzz! Quiz World (Europe) (Sv,Fi).iso
 40fe1f3bea7517838205578c7197a936	Buzz! Svenska Genier ~ Buzz! Suomen Neropatti (Europe) (Sv,Fi).iso
 18d57ad52048e5da1e10319c06d34ff6	Buzz! The Ultimate Music Quiz (Australia).iso
@@ -307,6 +314,7 @@ a43418a8c7e30e9280f0664c5b877560	Championship Manager 2006 (Europe).iso
 a9d381cf0cd660c2341b63642a766cdd	Chessmaster - The Art of Learning (Europe) (En,Fr,De,Es,It,Nl).iso
 a2974b26c18ca67cf0cf7c07236280d4	Chessmaster - The Art of Learning (USA) (En,Fr,Es).iso
 340a6ef9e8ac9ff27d59f4278719580e	Chi Vuol Essere Milionario - Party Edition (Italy).iso
+340a6ef9e8ac9ff27d59f4278719580e	Chi Vuol Essere Milionario Party Edition (Italy).iso
 9a682fbdf41916d26735aa37aa66debf	Chikyuu Boueigun 2 Portable (Japan).iso
 efb2f91fc12028d4db655179e93f6eb1	Chili Con Carnage (Europe) (En,Fr,De,Es,It).iso
 6d60b5f7c3995bc0ab0081122b44554b	Chili Con Carnage (USA).iso
@@ -335,6 +343,8 @@ d2c0310373d14869e587e571cada65eb	Coded Arms (Asia) (En,Ja).iso
 3a4436535096b7add0545373d4a72e24	Coded Arms (Europe) (En,Fr,De,Es,It).iso
 670af0d5369a4a61d13421fcb2e39e51	Coded Arms (Japan) (En,Ja).iso
 f118daea055683b728c1c1f1c283eae0	Coded Arms (USA).iso
+0103fd528655a40950d7240ef2a8de47	Coded Gun (Korea) (En,Ja).iso
+401139bf396c2532c542150c1d064c63	Coded Soul - Gyeseungdoeneun Idea (Korea) (Ja,Ko).iso
 abe6985ffc5984101d3731765f9df932	Coded Soul - Uketsugareshi Idea (Japan).iso
 9068effbf422d6891f886116869d9054	Colin McRae - DiRT 2 (Europe) (En,Fr,De,Es,It).iso
 f87835217fb3ff8bc8899fada3e466b6	Colin McRae Rally 2005 Plus (Europe) (En,Fr,De,Es,It) (Beta).iso
@@ -400,6 +410,7 @@ b6618fd7403bccbb727693234628a069	Dante's Inferno (Europe).iso
 356e1b54bbc984dd8770d33e002e7f6b	Dante's Inferno (France).iso
 004d431164be0a4b39b769e46adcbe94	Dante's Inferno (Germany).iso
 bd849a93e28e0dfad2af465fedbb7e54	Dante's Inferno (Italy).iso
+10924e52117bf8f41ab111ab8f2a524d	Dante's Inferno (Korea).iso
 999650a275f7f8c40b8ae6c58bfd0df9	Dante's Inferno (Spain).iso
 725eb28a3112c141e9038d20576de5c9	Dante's Inferno (USA).iso
 00624475e88f56db7f054ec68670b337	Dariusburst (Japan) (En,Ja).iso
@@ -521,6 +532,7 @@ caac80fb17c12895b90fbc42f6b34d47	Dissidia 012 - Duodecim Final Fantasy (USA) (En
 ca4805b6510b501b2525628ed87b4bab	Dissidia Final Fantasy (Asia).iso
 64b0160ea4b81f208e82b732271924ed	Dissidia Final Fantasy (Europe) (En,Fr,De,Es,It).iso
 fc65796ecd7871c416fb2dd7c697c125	Dissidia Final Fantasy (Japan).iso
+98e19e07fc8279097fa79d4ea8328a9a	Dissidia Final Fantasy (Korea).iso
 1eaeb6274092458c1be6c19f92ca4cff	Dissidia Final Fantasy (Russia).iso
 8a5c41125635694b8562089908e7db0c	Dissidia Final Fantasy (USA).iso
 f77c33bc60707bbcfa6e12aacaeff43f	DJ Max Emotional Sense - Fever (USA).iso
@@ -529,6 +541,8 @@ f9d2d402b3b6b79bbdee2ebb96f23ebf	DJ Max Emotional Sense P - Clazziquai Edition (
 d86efb780c90bca7297b060ba8265681	DJ Max Emotional Sense P 2 - Sound Miracle (Korea) (En,Ja,Ko).iso
 a9d0ee1827936d55e2079d9fb2d37cf8	DJ Max Emotional Sense P Portable (Korea).iso
 3233f3100df618e449fe7e71dc5e4733	DJ Max Portable - Black Square (Japan).iso
+3a886af5a9786fa2643777f2d7553cd6	DJ Max Portable - Hot Tunes (Korea) (En,Ja,Ko).iso
+d95fab0b7c7f39d6c82b15ded728f23e	DJ Max Portable 3 (Korea) (En,Ko).iso
 77df523296b155e67af2681f694000dd	DJ Max Portable 3 (USA).iso
 cd2fa31adfd75fbccdceed81e2a2ba16	Doko Demo Issho - Let's Gakkou! (Japan).iso
 e99884923f58c6f86f4d2517615524bb	Doko Demo Issho (Japan).iso
@@ -540,6 +554,7 @@ e99884923f58c6f86f4d2517615524bb	Doko Demo Issho (Japan).iso
 c3c4d4743281c1ed721ca8f189712689	Dot Hack Link (Japan).iso
 8d52da98c948d0e19449e688ed980838	Downstream Panic! (USA).iso
 aa14695c2568b044113636c541c15d75	Dragon Ball Tag VS (Japan).iso
+9ab334f5f311473276ef0d3ea4e1523f	Dragon Ball Z - Jinmudohoe (Korea).iso
 d39a659a7fb7f95864f062aa26b7b505	Dragon Ball Z - Shin Budokai - Another Road (USA).iso
 3196f22908458cb7a2ac894a23c2271a	Dragon Ball Z - Shin Budokai (Europe) (En,Fr,De,Es,It).iso
 bf0b9cf9898e4e7e2d6cead030c196cc	Dragon Ball Z - Shin Budokai (Japan).iso
@@ -598,11 +613,13 @@ bbdc8b990e00aeb47e659ceda148903b	Dynasty Warriors Vol. 2 (USA).iso
 4e3fd4475a49c378db36915efe3461f1	EA Replay (Europe) (En,De,Es,It,Nl).iso
 8ba67190444ede0ee86132e5a4303a3a	EA Replay (USA).iso
 9c8df594228249539d24a2b9ffe6b9b6	Echochrome - Mugen Kairou (Korea) (En,Zh,Ko).iso
+9c8df594228249539d24a2b9ffe6b9b6	Echochrome - Muhan Hoerang (Korea) (En,Zh,Ko).iso
 c6493f1e0f6027d5691b44c00b20aaa8	Echochrome (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Ru).iso
 1b00372e4813233af645efb07588f9d9	Echochrome (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Beta).iso
 373d736111ca2904790dbbd3d8062155	Echochrome (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Demo).iso
 14202b69199b915d246827a2e4695a09	Echoshift (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (v1.00).iso
 4f2ba7fd4837109c0dd89f0141d121ac	Echoshift (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (v2.00).iso
+a2731b9edf93187e6bf62bf478e179e7	Echoshift (Korea).iso
 aa50ff9773fdc80f59c4ca6747574bac	Eiyuu Densetsu - Ao no Kiseki (Japan).iso
 131cb8b0e56ab6e62ab4e214187f4180	Eiyuu Densetsu - Sora no Kiseki FC (Japan).iso
 9ce81fbb604a935cbb6064958bdd1e1a	Eiyuu Densetsu - Sora no Kiseki SC (Japan) (Disc 1).iso
@@ -620,16 +637,19 @@ e7890580bc3e2b66626592eae89a6fc0	Entraineur 2006, L' - Championship Manager (Fra
 62ac3005e87e352fdb1339637a7da2d8	Eragon (USA).iso
 cf7102658709d57c3eeaa12392c9ab47	Evangelion - Jo (Japan).iso
 1261b66ed5c0ceec4eb6557301a5af61	Evangelion Shin Gekijou-ban - 3nd Impact (Asia).iso
+1261b66ed5c0ceec4eb6557301a5af61	Evangelion Shin Gekijou-ban - 3nd Impact (Japan, Asia).iso
 f4b69adebddaa20ce8305e99e4730b86	Every Extend Extra (Europe) (En,Fr,De,Es,It).iso
 7d522a2dca191b9c7ea60e15063bf697	Every Extend Extra (Japan).iso
 b53881dd5133fd3ad801f7832ef7125f	Every Extend Extra (USA).iso
 4efdac8915f349451cfdbad08d6eb552	Everybody's Golf (Europe) (En,Fr,De,Es,It).iso
 510598d1978e8a91a40942d16f291e5b	Everybody's Golf (Korea).iso
 7023c4aa4a13b067ee39f4951664f672	Everybody's Golf 2 (Europe, Canada) (En,Fr,De,Es,It).iso
+1d1505849e54b6f88cfc1768b1a3d4dd	Everybody's Stress Buster (Asia) (En,Zh,Ko).iso
 1d1505849e54b6f88cfc1768b1a3d4dd	Everybody's Stress Buster (Asia) (En,Zh).iso
 c1f22868ac72f7093aa810b9e9cbfb51	Everybody's Tennis (Europe) (En,Fr,De,Es,It).iso
 de4e64137ce2743c7ea0c43931cb91df	Exit (Europe) (En,Fr,De,Es,It).iso
 657d57521a1f9e191bdbed14ef922fc8	Exit (Japan).iso
+b8a121133a30de9dc13200a3ce9e975a	Exit (Korea).iso
 a70d86cf36169795e9e46f462b26ee9c	Exit (USA).iso
 68d704aeb8029d7da81fa85ac4cc037f	Exit 2 (Europe) (En,Fr,De,Es,It).iso
 Not a PSP game disc	Eye of Judgment, The - Legends (Europe) (En,Fr,De,Es,It) (Proto).iso
@@ -646,6 +666,7 @@ bf1a41ed35d7582d722b59c2524b41b8	F1 06 Portable (Asia).iso
 40d28e921e153f196d1c011d32f82d0a	F1 Grand Prix (Europe) (En,Fr,De,Es,It) (v2.00).iso
 566a38eabe9fe10c8e6417e292d50003	Fading Shadows (Europe) (En,Fr,De,Es,It,Nl,Ru).iso
 0ecd90e8fe32ff76e54e204a2cfb9152	Fading Shadows (USA) (En,Fr,De,Es,It,Nl,Ru).iso
+05d8a3ad635acc092acc006e0a11c236	Fairy Tail - Portable Guild (Japan).iso
 b68045cc76b4649bcffe52c9d3aeb467	Fairy Tail - Zerefu Kakusei (Japan).iso
 96e4a52db638c296fd49c79b0a3117df	Family Guy - Video Game! (Europe, Australia).iso
 4159928a1bf1e63cb4a2b2db9d2773e2	Family Guy - Video Game! (Europe) (En,Fr,De,Es,It).iso
@@ -659,6 +680,8 @@ d94c544b0f96cc50971b0927a9324c06	Fast and the Furious, The (Europe).iso
 fd66da84cd7d66838aa3f496a914951d	Fate-Extra (Europe).iso
 7c365d252455167ae85406144885a4db	Fate-Extra (Japan).iso
 51702cfb0d15b515e63fc725244ed51a	Fate-Extra (USA).iso
+67c7d3a532cbed22e8d64b427b674808	Fate-Extra CCC (Japan).iso
+00fad689fcd5e448153c18423eccf617	Fate-Unlimited Codes Portable (Japan).iso
 fa7c09be4ee9eca8db8576e1cbfc2873	Field Commander (Europe, Australia) (En,Fr,De,Es).iso
 a7f05c64ff5270f0b4dea238717232b6	Field Commander (USA) (Beta 1).iso
 1b6d4f62251ceace678dc4169f1a9309	Field Commander (USA) (Beta 2).iso
@@ -668,6 +691,7 @@ dd0f6757cb5360acafc7200cd7abe7dc	FIFA 06 (Europe).iso
 be45eb0dd257803a5025bf6d87aa5ea6	FIFA 06 (France).iso
 b617e2b6f19669ee144f1c88d46321d9	FIFA 06 (Germany).iso
 8b6c8f3416762623fb4ceef460a2d142	FIFA 06 (Italy).iso
+9664aee8b3f94cc9afa37db11bd75dd4	FIFA 06 (Japan).iso
 5233b6335439f145dc48f57afddc2f65	FIFA 06 (Spain).iso
 5d11bd1e5978e26b889579b3849e5840	FIFA 07 (Europe).iso
 f44e9f59ddcf44a197e0f62410f08d03	FIFA 07 (France).iso
@@ -679,6 +703,7 @@ ad0a4d3520b819b9d3a9138a5e0d954d	FIFA 07 (Netherlands).iso
 905f6c45db60d77456da3a7eee0d42a0	FIFA 08 (France).iso
 2d52aeb2c18c1531b62deb0f2ed4874d	FIFA 08 (Germany).iso
 ee00effaf304e5ea5b1626e33980ef0d	FIFA 08 (Italy).iso
+0b6f4eea093b3fcd039dbfbd4374bf78	FIFA 08 (Korea).iso
 f4136a069df7d971bbc61933d311b0b2	FIFA 08 (Portugal).iso
 521633fe93b0f07b57cdabe4fa348135	FIFA 08 (Russia).iso
 f41f3ca5711e3f345c800063c902f86a	FIFA 08 (Spain).iso
@@ -701,6 +726,8 @@ ea6e5f66218f79ef9b9b0e73eaf12749	FIFA 10 (Netherlands).iso
 f3aa0e65a5e8cbeea5baa3920962eed7	FIFA 10 (Portugal).iso
 d58b31d2235d8225f7c8f92eb61b834b	FIFA 10 (Russia).iso
 8ee14b309a431c324a27a0bf8c98a9d7	FIFA 10 (Spain).iso
+4486004d6a9c64fab617c4d61cff92a0	FIFA 11 (Europe) (v1.01).iso
+458ceb6c71133a2968c65257cf2c899a	FIFA 11 (Europe) (v2.00).iso
 4486004d6a9c64fab617c4d61cff92a0	FIFA 11 (Europe).iso
 caf1907e59b730cd6da67be45be49876	FIFA 11 (France) (v1.00).iso
 3ed046e7a78db1e3fe7fe6692b5edb2c	FIFA 11 (France) (v2.01).iso
@@ -710,11 +737,14 @@ a9890397fd410c9282fcfeaffbe2990c	FIFA 11 (Italy) (v2.01).iso
 90ddb3c391acaf83ff55afb4daa75473	FIFA 11 (Netherlands) (v1.00).iso
 395aa3e93391c205b19c5d70cc394bc7	FIFA 11 (Poland) (v1.00).iso
 5d3b5ead9bdb0e904085f3673469c9ba	FIFA 11 (Poland) (v2.01).iso
+4ce6a970b2d4385de586d53f84e82765	FIFA 11 (Portugal) (v1.00).iso
+3df157b0116d2fdc36ba5a74e679fccd	FIFA 11 (Portugal) (v2.01).iso
 4ce6a970b2d4385de586d53f84e82765	FIFA 11 (Portugal).iso
 00d642c2f58256f8d8662a7f895199f0	FIFA 11 (Russia) (v1.00).iso
 a2eaa1564a3371c863624ec149022b8f	FIFA 11 (Russia) (v2.01).iso
 349a578f33f66b270943222700917c6a	FIFA 11 (Spain) (v1.00).iso
 96915d1428e2519e86906fe7f0960188	FIFA 11 (Spain) (v2.01).iso
+058580b87aa9e975dd15418ff7367302	FIFA 12 - World Class Soccer (Japan).iso
 ce0184bd11e046dd9c555cea6aadd088	FIFA 12 (Europe).iso
 daac8d71a789648bd38051403477ad03	FIFA 12 (France).iso
 ca26537dbb5330a55408204c2d3f9018	FIFA 12 (Germany).iso
@@ -729,6 +759,7 @@ e74d15551dfb4437f9553ebbb45cd04b	FIFA 13 (France).iso
 b60f439ee90590ba7a5e2d4ca74784d7	FIFA 13 (Germany).iso
 339e7b126d83db47a7a7ff34a120afba	FIFA 13 (Italy).iso
 493767a90f0d311857f32c1ac4224851	FIFA 13 (Poland).iso
+fc63555e5aedd677773692d41ae388a5	FIFA 13 (Portugal).iso
 752e13eca252f971c61b5fe8cdc63311	FIFA 13 (Russia).iso
 042c28ee93be3305aa4382fb15f4e433	FIFA 13 (Spain).iso
 65302e1bf7402938049427fb77db3b33	FIFA 14 - Edicion Legado (Latin America) (En,Es).iso
@@ -748,6 +779,7 @@ d9a344eb21ccfe668b78d362167cd0b6	FIFA Soccer 08 (USA).iso
 19462547a50356094f63303c4f3c770a	FIFA Soccer 09 (Canada) (En,Fr).iso
 d14e5307cb54a50eeb121fd1dae2a8da	FIFA Soccer 09 (USA) (En,Es).iso
 7c18a97efd643a0e653aaa4ccce1dde8	FIFA Soccer 10 (USA) (En,Es).iso
+a75e34598a71a9bfa73be1f1dbb805ad	FIFA Soccer 11 (USA) (En,Es) (v1.00).iso
 513032160b89ba5594d59da926ea4d95	FIFA Soccer 11 (USA) (En,Es) (v2.00).iso
 a75e34598a71a9bfa73be1f1dbb805ad	FIFA Soccer 11 (USA) (En,Es).iso
 69553c46f1ef2c2b59b2928e6121bd64	FIFA Soccer 12 (USA).iso
@@ -776,6 +808,7 @@ c8ca4bb4b63a8a1f5b452608a6ca9f3d	Final Fantasy IV - The Complete Collection (USA
 65bdaa2a0207205252f403d78242b27f	Final Fantasy IV Complete Collection - Final Fantasy IV & The After Years (Japan) (En,Ja,Fr).iso
 28cb7fc36cb26d54db1ee05d342e1d41	Final Fantasy Reishiki (Japan) (Disc 1).iso
 c682a88095d9aa54ccc9d961d122fb73	Final Fantasy Reishiki (Japan) (Disc 2).iso
+b99f611030581ea8db73c27d5982ad42	Final Fantasy Tactics - Shishi Sensou (Japan, Korea).iso
 b99f611030581ea8db73c27d5982ad42	Final Fantasy Tactics - Shishi Sensou (Korea).iso
 1c83615beb62802d5bea34954ef4bdf0	Final Fantasy Tactics - The War of the Lions (Europe).iso
 0f1d6ad5c862533fd3320498027f02ed	Final Fantasy Tactics - The War of the Lions (USA).iso
@@ -784,6 +817,7 @@ Not a PSP game disc	Firmware 3.73 (Europe).iso
 51d717f924d455bdf086f602f53d2203	FlatOut - Head On (Europe) (En,Fr,De,Es,It).iso
 aa959c52c9a6de7a2afaabeaae080791	FlatOut - Head On (Germany).iso
 fa41044a4af6efd0bdabcb02b3b92bdd	FlatOut - Head On (USA).iso
+1b4827c4996de4cb9a9410596f7e818e	Flowars (Korea).iso
 0c973673191e9664a82c9d5d454169d3	Football Manager Handheld (Europe) (En,Fr,De,Es,It).iso
 e2ea181ca4ed115865ce4ffefe246c65	Football Manager Handheld 2007 (Europe) (En,Fr,Es,It).iso
 43136f444ffb293ff177811d16ec0c0d	Football Manager Handheld 2008 (Europe) (En,Fr,Es,It).iso
@@ -795,6 +829,8 @@ fb6e4e5eeaafd9c23fa6a35aebf54272	Football Manager Handheld 2011 (Europe) (En,Fr,
 1b09bf87a53cc42b35f973ac16c50202	Ford Bold Moves Street Racing (USA).iso
 bfacfa609b2aa42caf4905fb721b4192	Ford Racing - Off Road (USA).iso
 15d2b1db0a6ba9d1ebaff73f86ac5163	Ford Street Racing - L.A. Duel (Europe) (En,Fr,De,Es,It).iso
+c7321542d8a2e577533bb18f36484250	Ford Street Racing XR Edition (Australia).iso
+4c69d93d4395b27a5a0b48aa519777c7	Formula 1 - F1 05 Portable (Japan).iso
 58490e0f76c363e4e63e19e68521a23b	Formula One 06 (Europe) (En,Fr,De,Es,It,Pt,Fi) (Beta).iso
 b32fc983fd9261322ed6734f0b835b9a	Formula One 06 (Europe) (En,Fr,De,Es,It,Pt,Fi).iso
 67e24a0ba67be4556fa2029ad2111b66	Frantix (Europe) (En,Fr,De,Es,It).iso
@@ -803,14 +839,17 @@ b32fc983fd9261322ed6734f0b835b9a	Formula One 06 (Europe) (En,Fr,De,Es,It,Pt,Fi).
 34535c83853d648f7e2ac8894b867b87	Free Running (Europe) (En,Fr,De,Es,It).iso
 d3bae488e55fed92b1617f9fdd2aeb54	Frogger - Helmet Chaos (Europe) (En,Fr,De,Es,It).iso
 365697c11ee7366dd82fbbf9643d4460	Frogger - Helmet Chaos (USA).iso
+7c00abfc0afe88ab959ded06be47f37d	Fukufuku no Shima (Japan).iso
 071ce6bc19f8390749d23fca2f792a58	Full Auto 2 - Battlelines (Europe) (En,Fr,De,Es,It).iso
 de95b6475190fbf25526cf4a1f5d52ba	Full Auto 2 - Battlelines (USA).iso
 73a1a0cbc48c847934d98646be432067	Fullmetal Alchemist - Brotherhood (Europe) (En,De).iso
 5081fed3cf9125722868d5b60eb114e3	Furtif + WipEout Pure (France).iso
 81b7e2a271ea9cae49df2c74c29a539a	Fushigi no Dungeon - Fuurai no Shiren 3 Portable (Japan).iso
 478c84d05b4a6608a2ee1651e92c7efc	Fushigi no Dungeon - Fuurai no Shiren 4 Plus - Kami no Hitomi to Akuma no Heso (Japan).iso
+9e1ce5b354debdbde81f7508fcd198c3	Fuuun Shinsengumi Bakumatsuden Portable (Japan).iso
 5a426dd2f52531a1485af0091d22acce	G.I. Joe - The Rise of Cobra (Europe) (En,Fr,De,Es,It).iso
 2a1e6bd47add2ad39488c4e074018c4b	G.I. Joe - The Rise of Cobra (USA).iso
+65c4f1a3c55c3ed763f4b4b4b4d607d0	Gachitora! Abarenbou Kyoushi in High School (Japan).iso
 0da6720655b9da7391fdf4b47232b8cc	Game Sharing Server Disc (Europe).iso
 b9e5d67cf2766619037f685f159e4d7e	Gangs of London (Europe) (En,Fr,De,Es,It,Pt).iso
 f466b922808f0f9a00d1cdd284297821	Gangs of London (Germany).iso
@@ -821,6 +860,7 @@ a99772433218e5f38421cf677246e17b	Gangs of London (USA) (En,Fr,Es) (Demo).iso
 ea9e0b7dc1e9fd4e28469d57f497f15f	Gendai Daisenryaku - Isshoku Sokuhatsu Gunji Balance Houkai (Japan).iso
 382759eeff88f46f52136abd2292a56f	Generation of Chaos (Europe).iso
 238dc49362bab12b750b4d1c4e666d9e	Generation of Chaos (USA).iso
+965dbcadf9b78b56edf2ac0587adedd6	Genroh (Japan).iso
 1495b2a5ec8deeb54f1c48435ce0645c	Gensan (Europe) (En,Fr,De,Es,It).iso
 2c62790cf242974482f109c1778c6330	Gensou Suikoden - Tsumugareshi Hyakunen no Toki (Japan).iso
 16a46dd3a1a5ef596f3f5bb27dd71cd4	Gensou Suikoden I & II (Japan) (v2.00).iso
@@ -834,11 +874,14 @@ a65754deeded3b96511cb3af37002feb	Ghostbusters - The Video Game (Europe) (En,Fr,E
 d99abc7245a7ad1cdc7dddd9d01f8656	Ghostbusters - The Video Game (Europe) (Fr,De,It).iso
 82dae9b4f82122cdec2455371511b987	Ghostbusters - The Video Game (USA).iso
 f5753ebe9d3ab749878fed410669b10f	Ginsei Shougi Portable - Fuun Ryuuko Raiden (Japan).iso
+4641dc86b6f016ece56ca0ca4420da46	Ginsei Shougi Portable (Japan).iso
 4e2c9bc38cb4878c86dc0daba2f27513	Gitaroo Man Lives! (Europe) (En,Fr,De).iso
+41a0d594370fd588385e47143d02d247	Gitaroo Man Lives! (Japan).iso
 8ef568cab8dabce3e2dc2770604047b5	Gitaroo Man Lives! (Korea).iso
 68b9eea0046212d4c775aca00d329e2a	Gitaroo Man Lives! (USA).iso
 74583bc3fffb6a6722df8bb1f8b60550	Gladiator Begins (Europe).iso
 d2a6d01bb04db407ea8c82d6974bda7a	Gladiator Begins (USA).iso
+ccb18bb55a0e6500b8f84b47ac380a1a	Glass Heart Princess Platinum (Japan).iso
 a168b22ba60587de1bb7185ae9b20a9c	Glorace - Phantastic Carnival (Korea).iso
 2d844ed13e36e2b069089f29db2baccd	Go! Sudoku (Europe) (En,Fr,De,Es,It).iso
 4550b7b5b665715728e1be6f9f6b27c9	Go! Sudoku (USA) (En,Fr,De,Es,It).iso
@@ -848,6 +891,8 @@ a3c971722463b4a8d26bd69d0a6f1015	Go!Explore (Italy) (En,Fr,De,Es,It,Nl,Pt,Sv,No,
 ed3e8b226a95de8214a6d6109269d062	Go!Explore (Spain, Portugal) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).iso
 1e0b7a3a86c57262379611fac445d126	Go!Explore (UK) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).iso
 4a1fe93051279f55dab1d6ada9559da6	God Eater (Japan).iso
+b5bd2e0f7ee1ce1d5bc9d194b28781e4	God Eater 2 (Japan).iso
+f6b9b13e2d73cc36dcaaca9903a903e1	God Eater Burst - Append-ban (Japan).iso
 a2b6d94fd0a5db4a304b5043de16c30f	God Eater Burst (Japan).iso
 ee4f19b5643fe68051b8fcaecafa783b	God of War - Chains of Olympus - Battle of Attica (USA) (Demo).iso
 cf3185438d996f31b0a6533264069c2c	God of War - Chains of Olympus - Special Edition - Battle of Attica (USA) (Demo).iso
@@ -857,6 +902,7 @@ a3ca1c33a9fbf5934a77d94ee123a060	God of War - Chains of Olympus (Europe, Austral
 4746c848d2d6027d698136150e6f225e	God of War - Chains of Olympus (Europe) (Demo).iso
 1271da1286d220dab0e81568bbebcdb0	God of War - Chains of Olympus (Korea).iso
 901577a4059ea811df98861a6aa2a3f9	God of War - Chains of Olympus (USA).iso
+5f3b42954bc8534db2c2f2ad27860d85	God of War - Ghost of Sparta (Asia) (En,Zh,Ko).iso
 5f3b42954bc8534db2c2f2ad27860d85	God of War - Ghost of Sparta (Asia) (En,Zh).iso
 da35693868f2af45c66ed63b11701e83	God of War - Ghost of Sparta (Europe, Australia) (En,Fr,De,Es,It).iso
 36575149db0a6930521824a6e89e02aa	God of War - Ghost of Sparta (Europe) (En,Pl,Ru).iso
@@ -880,9 +926,11 @@ f3301cd1fd78f6eca2eb8ceb4ba60d74	Gottlieb Pinball Classics (Europe).iso
 96810740c2c7def9d2aeaf50670bb293	Gradius Portable (Japan).iso
 cc0203795a287701409131676987c69c	Gran Turismo (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (v2.00).iso
 1366813192933fbcc222395f6c5ce180	Gran Turismo (Europe) (En,Fr,De,Es,It) (v1.01).iso
+3d577d157475bce23016b396f3293bf3	Gran Turismo (Japan) (En,Ja) (v1.01).iso
 723c1dbe03d665584b9b1fd72b21bf0f	Gran Turismo (USA) (En,Fr,Es) (v1.00).iso
 4e457279ef9ca0b8dcf7b6ba05e859a6	Gran Turismo (USA) (En,Fr,Es) (v2.00).iso
 1c1bbdb2c3bc7b33c65863c0b5ee6a5d	Grand Knight History (Japan).iso
+1c1bbdb2c3bc7b33c65863c0b5ee6a5d	Grand Knights History (Japan).iso
 642432290d6df4627bce1b0919263dcd	Grand Theft Auto - Chinatown Wars (Europe) (En,Fr,De,Es,It) (v0.01) (Beta).iso
 df217fc6fdeebd50c60f493c361620d0	Grand Theft Auto - Chinatown Wars (Europe) (En,Fr,De,Es,It) (v0.02) (Beta).iso
 9186a7782da9ce5a1e4ded2ad4c65c97	Grand Theft Auto - Chinatown Wars (Europe) (En,Fr,De,Es,It).iso
@@ -941,16 +989,22 @@ e6cf655736eab9f6bc08f3ae0f26d56e	Gurumin - A Monstrous Adventure (USA).iso
 58470bb57af30af09b743e4c9e7fca20	Gurumin - Une Aventure Monstrueuse (France).iso
 299974ac50419f450752fbdbdc8575d8	Gurumin (Japan) (Falcom Super Price).iso
 dae1648ecb4bc1549ef9380e24df0cc1	Gurumin (Japan).iso
+b60e5c3712d6b8204029928300ed1125	Hagane no Renkinjutsushi - Fullmetal Alchemist - Senaka o Takuseshi Mono (Japan).iso
 09c8912b7efb504fa3271866ad3a9930	Hagane no Renkinjutsushi - Yakusoku no Hi e (Japan).iso
 ff16fe21864b86008953e5eb581a1aef	Hajime no Ippo Portable - Victorious Spirits (Japan).iso
 5ff33f1bd8251803595b3344339a689c	Hakuoki - Demon of the Fleeting Blossom (USA).iso
 5a9410934131e52e7d88b21d6ebff8a1	Hakuoki - Warriors of the Shinsengumi (USA).iso
+2dbccaf08ae6e56b95dcff1915a5ee16	Hakuouki - Reimeiroku Portable (Japan).iso
 9769bda2956c500f1293fbba28c8bc48	Hakuouki - Yuugiroku (Japan).iso
 f3149ca54f27ccd9096717aa0c0db639	Half-Minute Hero (Europe).iso
 7704a5f8c1dce857566b8481990a8633	Half-Minute Hero (USA).iso
 3d6fba69da0ba4aabc2be43a11776354	Hammerin' Hero (USA) (Beta).iso
 59a3ef4c73ea4f78031ed0b4269db2b9	Hammerin' Hero (USA).iso
+024afea897181d36904eb361db06be22	Hanakisou (Japan).iso
+3fef4989619a2b680e924832a13edfdb	Hanaoni - Koisomeru Koku - Eikyuu no Shirushi (Japan).iso
 18709c71c3ae0dec3c2bf04209f9e6f8	Hanaoni - Yume no Tsuzuki (Japan).iso
+bfc144bedf8317ef302489952f1ee5a8	Hanayaka Nari, Wa ga Ichizoku - Kinema Mosaic (Japan).iso
+356d1deec518b0a79b0500a333aadc01	Hanayaka Nari, Wa ga Ichizoku (Japan).iso
 ddb0a030300a8043a845a6e82d509dc0	Hannah Montana - Rock Out the Show (Europe) (En,Fr,De,Es,It).iso
 75310c4813220d5fa326a01efa008ff3	Hannah Montana - Rock Out the Show (Europe) (En,Sv,No,Da,Ru).iso
 f76a8a49e27d5bd8d7d81c3c29646852	Hannah Montana - Rock Out the Show (USA) (En,Fr).iso
@@ -969,30 +1023,41 @@ c7f4af1ddc481c6f7967f1ee8b982b19	Harry Potter and the Order of the Phoenix (Euro
 28ee36ae354b9e5f02d6de51dd67fdd7	Harry Potter and the Order of the Phoenix (Europe).iso
 b05dab0aca1e17576a0e302eab0ac5e5	Harry Potter and the Order of the Phoenix (USA).iso
 6741d700aae82ea38985b5a5348fe7ca	Harry Potter et la Coupe de Feu (France).iso
+623914b8417def64b444366527f61024	Harukanaru Toki no Naka de 3 with Izayoiki Aizouban (Japan).iso
+897ce951d115cca5c7aaef3ff418c2c0	Harukanaru Toki no Naka de 5 (Japan).iso
 28c349e4f1d3820c6b6703aaa02fbea9	Harvest Moon - Boy & Girl (USA).iso
 63ffa0197a1dc803efee3d3c0c8b39f2	Harvest Moon - Hero of Leaf Valley (Europe).iso
 c22828f8c1acaa5ff94cc99201874da6	Harvest Moon - Hero of Leaf Valley (USA).iso
 d8a91a9d8937c93e7bc5b48e39afedcf	Harvey Birdman - Attorney at Law (USA).iso
 8ecc08f9aa914eac03aad37744996156	Hatsune Miku - Project Diva (Japan, Asia).iso
+fb6e1e8bde4618c54eac4de0481cfeed	Hatsune Miku - Project Diva 2nd (Japan) (Okaidoku-ban).iso
 994f770255ef0681b8bb43a29b422451	Hatsune Miku - Project Diva 2nd (Japan).iso
 7e5dfd87dc8a9ea8a585b81238a74fd9	Hatsune Miku - Project Diva Extend (Asia).iso
+7e5dfd87dc8a9ea8a585b81238a74fd9	Hatsune Miku - Project Diva Extend (Japan, Asia).iso
 4e3afe9ab767c273d2409d902f884191	Hayarigami 2 Portable - Keishichou Kaii Jiken File (Japan).iso
 4399cfc73bbe03625c137192ecfd23b3	Hayarigami 3 - Keishichou Kaii Jiken File (Japan).iso
 3a1f961d8ca4c0278fa37171beffb2ba	Hayarigami Portable - Keishichou Kaii Jiken File (Japan).iso
 ef59ae690464313bfef181096a9e9d1f	Hayate no Gotoku!! Nightmare Paradise (Japan).iso
+d31f639ed1baa13042e8b0d1751e3e0d	Heart no Kuni no Alice - Wonderful Wonder World (Japan) (Disc 1).iso
+0975b1c2da5bcb3663e40fa42f548895	Heart no Kuni no Alice - Wonderful Wonder World (Japan) (Disc 2).iso
 Not a PSP game disc	Heatseeker (Europe) (En,Fr,De,Es,It) (Proto).iso
 2b34a38300f4bbb7fd761473315623f6	Heatseeker (Europe) (En,Fr,De,Es,It).iso
 da43dddf993302ba7d36d4800c40572e	Heatseeker (USA).iso
 4cad1ed67c87f8d5f86d89b5b7863c1b	Hellboy - The Science of Evil (Europe) (En,Fr,De,Es,It).iso
 99c8c482d5abe87e3054dc078a236833	Hellboy - The Science of Evil (USA).iso
 005c19468e9afd49ceee448e1052eb8a	Hello Kitty - Puzzle Party (Europe) (En,Fr,De,Es,It).iso
+fac512772f5f2e0c515db53a5fe58392	Heroes Phantasia (Japan).iso
 5bd8f344103dfe18dffc808a3e342751	Herr der Ringe, Der - Taktiken (Germany).iso
 bc49fa24a28ee025139c49b87ca23df6	Hexyz Force (Japan).iso
 39aaa82b028cb642d5164f9eeb4eb4b9	Hexyz Force (USA).iso
 fdce39bb0b2adc013d2769564ef2e61f	Hg Hydrium (Korea).iso
+097f9d375e96dc0839b2cbde7de481ad	Hiiro no Kakera Portable (Japan).iso
 400e2f1003c613f06e6e7db39727c0f6	Hilton Garden Inn - Ultimate Team Play (USA).iso
+56e81b37c0e042b7382bd6eeb65e078b	Himawari - Pebble in the Sky Portable (Japan).iso
+12f887f407f6ae319943a56c68fbefa7	Hisshou Pachinko - Pachi-Slot Kouryaku Series Portable Vol. 1 - Shin Seiki Evangelion - Tamashii no Kiseki (Japan).iso
 e4e2f0a3e9778f8747ce03fce4fa5845	History Channel, The - Great Battles of Rome (Europe) (En,Fr,De,Es,It).iso
 434f89daaee1236b620b529ce7176057	Holy Invasion of Privacy, Badman! What Did I Do to Deserve This (Europe, Australia) (En,Fr,De,Es,It).iso
+6b00f47a3698f1d6bcdcd2981f417a91	Holy Invasion of Privacy, Badman! What Did I Do to Deserve This (USA) (Proto).iso
 4c3102b36d784f433ef3e897cab41fc2	Hot Brain (Europe) (En,Fr,De,Es,It).iso
 e4c2f4425820415a9713905bfb8df470	Hot Brain (USA) (En,Fr,De,Es,It).iso
 e8f27a0dac94fef2e2447d9afa382c01	Hot Pixel (Europe).iso
@@ -1004,15 +1069,22 @@ d1e7b3eb8a35b5f10e217b03ce7e208b	Hot Shots Golf - Open Tee 2 (Asia).iso
 509796915cfb6ddc18170fe71a7ef45a	Hot Shots Golf - Open Tee 2 (USA) (FW3.80).iso
 6895afb935bce3b03d36d424f3d5b7a9	Hot Shots Golf - Open Tee 2 (USA) (FW3.96).iso
 02cd990b42799bbbec1bced504a191bd	Hot Shots Golf - Open Tee 2 (USA) (Sample).iso
+856441ae5c53e3a6f035aef848f6dfe5	Hot Shots Tennis - Get a Grip (USA) (En,Fr,Es).iso
 856441ae5c53e3a6f035aef848f6dfe5	Hot Shots Tennis - Get a Grip (USA).iso
 07ca5087972b168b22eb64c11c112747	Hot Wheels - Ultimate Racing (Europe) (En,Fr,De,Es,It).iso
 e566ef6d46aec4b4069ed38f48afd2de	Hot Wheels - Ultimate Racing (USA).iso
 1a427e2d20627a208ef006052d1aacc7	Hustle, The - Detroit Streets (Europe) (En,Fr,De).iso
 bd3d3f211f3e5db34c6f28408650944c	Hustle, The - Detroit Streets (USA).iso
+df1803ec849b51877359af027521f72f	Idolmaster Shiny Festa, The - Funky Note (Japan).iso
 92174712457c2ff8564bf4cfdae7cd84	Idolmaster Shiny Festa, The - Groovy Tune (Japan).iso
+b3ea3e14b8f809fa274563c0a2153ddf	Idolmaster Shiny Festa, The - Honey Sound (Japan).iso
 ae2c95aa1d6c395f7e92a107d9b626a8	Idolmaster SP, The - Missing Moon (Asia).iso
+ae2c95aa1d6c395f7e92a107d9b626a8	Idolmaster SP, The - Missing Moon (Japan, Asia).iso
 1a31f2e7874d6bf64ae57afb864ce6f3	Idolmaster SP, The - Perfect Sun (Asia).iso
+1a31f2e7874d6bf64ae57afb864ce6f3	Idolmaster SP, The - Perfect Sun (Japan, Asia).iso
 d3cef417b04c7e43ea8b853790e48c0d	Idolmaster SP, The - Wandering Star (Asia).iso
+d3cef417b04c7e43ea8b853790e48c0d	Idolmaster SP, The - Wandering Star (Japan, Asia).iso
+a835696149e4dc864aac343e27271ad7	Ikuze! Gen-san - Yuuyake Daiku Monogatari (Korea).iso
 64d7e5151325e2dd32d1c17c20fe4b3b	Il-2 Shturmovik - Krylatye xishhniki (Russia).iso
 4e9666949eb2d8de0a0fe8fc32ccd68d	IL-2 Sturmovik - Birds of Prey (Europe) (En,Fr,De,Es,It).iso
 0fb44ea06764822f16c66c0f0c9ea1a8	IL-2 Sturmovik - Birds of Prey (USA) (En,Fr).iso
@@ -1030,7 +1102,9 @@ b7e98d18e7b3c4261c057fcc798e4101	Infected (USA).iso
 ce8335cf9d6e7bb442867dd5c33d5e82	Initial D - Street Stage (Japan).iso
 fbc0539a33477bf7a1c7b3067a1061bc	Innocent Life - A Futuristic Harvest Moon (Europe) (En,Fr,De,Es,It).iso
 4ebb3291cf1518aff641165b11700f19	Innocent Life - A Futuristic Harvest Moon (USA).iso
+4703c2f97491b7003fd5c2c8de2b4974	Innocent Life - Shin Bokujou Monogatari (Japan) (Best Collection).iso
 4703c2f97491b7003fd5c2c8de2b4974	Innocent Life - Shin Bokujou Monogatari (Japan).iso
+c7850e6366478899ec841ec70aef3b6a	Intelligent License 2 (Japan).iso
 3c10a01812069c88204b1f1b4d203956	International Athletics (Europe) (En,Fr,De,Es,It).iso
 7e228d53f8978edb22b9dcefe33f10c4	International Cricket Captain III (Europe).iso
 9754873b9f6c0decc949ff54f86b9642	Invizimals - Shadow Zone (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl).iso
@@ -1047,15 +1121,20 @@ bb410763b001dad1d0362672ef94fa8e	Iron Man (Europe) (En,De,It).iso
 0891dcb1a5ed1ec16fac22323c7910f9	Iron Man 2 - The Video Game (Europe) (En,Fr,De,Es,It).iso
 5a3226d5a8be7266b55d0ff8f6956d7e	Iron Man 2 (USA) (En,Fr,De,Es,It).iso
 2a3b2000d5ce8ba1ea961951c911d597	Irregular Hunter X (Japan, Asia).iso
+c58c86c8d6732937a494f401efec80e1	Iza, Shutsujin! Koi Ikusa (Japan).iso
+865ed61225a9d70946fdb65c9f91a423	J.League Pro Soccer Club o Tsukurou! 6 - Pride of J (Japan).iso
+f7b80a02e1d9a2391320d8b9b85f19af	J.League Pro Soccer Club o Tsukurou! 7 - Euro Plus (Japan).iso
 4ee21c5d8b1efbb66b508974db9b49f6	Jackass - The Game (Europe) (En,Fr,De,Es,It).iso
 3120d1390ce9de2132024ec8fb5ac1e6	Jackass - The Game (USA).iso
 be09de03760840dfcbe43582c28599a3	Jak and Daxter - The Lost Frontier (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl) (UCES-01378).iso
 baa7eb2f4ad959f0e67eeb074a40b6df	Jak and Daxter - The Lost Frontier (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl).iso
+8a0ace4fade267ccd38f64e6aea4a096	Jak and Daxter - The Lost Frontier (Korea) (En,Fr,Es).iso
 9bfe1fcfcd3a0f836acbde6ecfb6740d	Jak and Daxter - The Lost Frontier (USA) (En,Fr,Es).iso
 04cd892af530dff1180c23ed95921dae	James Cameron's Avatar - The Game (Europe) (En,Fr,De,Es,It).iso
 63635a825fda5f44b0e9a2b0ec6156ee	James Cameron's Avatar - The Game (USA) (En,Fr,Es).iso
 98e84a8b6289ae2594c6d40b7dac7c7b	Jeanne d'Arc - Senkou Taikenban (Japan).iso
 31cda457348eaf5adb5d9a31402f66d5	Jeanne d'Arc (Japan) (Beta).iso
+98e84a8b6289ae2594c6d40b7dac7c7b	Jeanne d'Arc (Japan) (Senkou Taikenban).iso
 f8d1a36f917f6a19f348dabd6f31e057	Jeanne d'Arc (Japan).iso
 30dfbd8834dcb8ba1a3037b8a32af4b9	Jeanne d'Arc (USA) (Demo).iso
 f5b0020aac4ce90c808fefd54f2bd494	Jeanne d'Arc (USA).iso
@@ -1063,13 +1142,21 @@ b167d97d6e98e542739bee928f391331	Jet de Go! Pocket (Asia).iso
 250f6f415c864eb6443c079d3df1baa9	Jewelic Nightmare (Japan).iso
 ab1cf256e0010eac41ad48baa76f3d68	Jigen Kairou (Japan).iso
 98fa1c3f61eb8cd4d0fff8e077ac4b00	Jikandia - The Timeless Land (USA).iso
+8687f86c9004ff6a1ff6493815ed5016	Jikkyou Powerful Pro Yakyuu 2010 (Japan) (v1.02).iso
 c3b191b2b405c27d8d242795a10d61d5	Jikkyou Powerful Pro Yakyuu 2011 (Japan).iso
+b5cecd9316880e46fabe42318d3126eb	Jikkyou Powerful Pro Yakyuu 2011 Ketteiban (Japan).iso
+83f24f42766dc75f9484f3372ffc217f	Jikkyou Powerful Pro Yakyuu 2012 - Ketteiban (Japan).iso
+21bd5da1bd4ee3a46369d09c84c41f82	Jikkyou Powerful Pro Yakyuu 2012 (Japan).iso
+5903e18c1124dd63af11dd6f3d4f630b	Jikkyou Powerful Pro Yakyuu 2013 (Japan).iso
 efa48263d2fc8e7d9de522ec225cc062	Jikkyou Powerful Pro Yakyuu Portable (Japan).iso
 fb5bf6003e8f840d223b39a1482596a1	Jikkyou Powerful Pro Yakyuu Portable 2 (Japan).iso
+72082eb7c71668c512183d217bd0d429	Jikkyou Powerful Pro Yakyuu Portable 3 (Japan) (v1.04).iso
 6387ae611b6010bf0532cd0fbd1b648e	Jikkyou Powerful Pro Yakyuu Portable 3 (Japan) (v2.00).iso
 72082eb7c71668c512183d217bd0d429	Jikkyou Powerful Pro Yakyuu Portable 3 (Japan).iso
+d4ef8b65d89e7346dfc643df09fe0f67	Jikkyou Powerful Pro Yakyuu Portable 4 (Japan).iso
 2842ecf35741641d56169e6f3f6d39aa	Jin Samguk Mussang (Korea).iso
 60ff41cab88ecc492def08b13902c846	Jin Samguk Mussang 2nd Evolution (Korea).iso
+81d6a136e953b9740b8a16ec3b3d1358	Jissen Pachi-Slot Hisshouhou! Hokuto no Ken Portable (Japan).iso
 5804be09f0f95c9c69cb5500869aab35	Jitsuroku Oniyome Nikki - Shiuchi ni Taeru Otto no Rifujin Taiken Adventure (Japan).iso
 e1d38ad9b883ec0e1a0b28e5b129b2f4	Judie no Atelier - Gramnad no Renkinjutsushi - Toraware no Moribito (Japan).iso
 a648e9f05e20bffa7ed6ce8769936b67	Jui - Dr. Touma Jotarou (Japan).iso
@@ -1082,10 +1169,14 @@ c335810f6ef4c80340f5536c412d1dbc	Jungle Party (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,
 674fc4b974d9cc9d08532e611a2173c5	Justice League Heroes (Europe) (En,Fr,De,Es,It).iso
 215d8a7e42fce793fc4dea0130d917c0	Justice League Heroes (USA).iso
 4338a11f115286e781a5bbcba81943dd	Juusei to Diamond (Japan).iso
+082d115352082a2c0a25871063b21d6b	Juuza Engi - Engetsu Sangokuden (Japan).iso
+ba20990578d0075cdcfeb104950cac74	K-ON! Houkago Live!! (Japan).iso
+e7b41912691da268c82c89069398ede2	Kaitou Apricot Portable (Japan).iso
 63a4420f5219f7eecb63e2c57e8651cc	Kaleido-Eve (Japan).iso
 3be5cab659c44658d1b892602e900390	Kamaitachi no Yoru 2 Tokubetsu-hen (Japan).iso
 ee77b4c228382d6e8173249130721b84	Kameleon (Europe).iso
 3815ad47d88a57e3b53a1399b9fc2c85	Kamen no Maid Guy - Boyoyon Battle Royale (Japan, Asia).iso
+673f13231fa36eba3b74edb43012e3e0	Kamen Rider - Climax Heroes OOO (Japan).iso
 bbce253134e7cc54f718f9df6b9e7c26	Kamen Rider - Super Climax Heroes (Japan).iso
 c98026268b6175edb2bad5a9f54c047b	Kanji Trainer Portable (Japan).iso
 28236ccff4c554ba8a346574dc8a46fd	Kannou Mukashi-banashi Portable (Japan).iso
@@ -1096,18 +1187,33 @@ c98026268b6175edb2bad5a9f54c047b	Kanji Trainer Portable (Japan).iso
 35f7e6ebde2b64eb74d2b52d80f1d122	Karakuri (Japan, Asia).iso
 e0e4ffe876efb234ee90e0b29c5a1027	Karakuri (Japan) (Beta).iso
 f297058b69790085b49eda37deea4f64	Karakuri (Japan) (Taikenban).iso
+a34bc9243a008dd38bc889a6510e7bd1	Katekyoo Hitman Reborn! Battle Arena 2 - Spirits Burst (Japan).iso
+a9874ab667f121c51e773423d3b8d949	Katekyoo Hitman Reborn! Kizuna no Tag Battle (Japan).iso
 5d3e42b201dea8571704e88f7e6db4a6	Kazook (Europe) (En,Fr,De,It).iso
 65735ddac1fc16b766812279738306c0	Kazuo (Japan).iso
+57785270a245f2093e0b73d5bae12c5c	Ken to Mahou to Gakuen Mono. (Japan).iso
+520ff4953eeaad76a9796e42d22959ec	Ken to Mahou to Gakuen Mono. 2 (Japan).iso
+a2c68b0ae409aa59b916b392914e8f76	Ken to Mahou to Gakuen Mono. 3 (Japan).iso
+99197517b4e2811d6d8e5cf36dcb8931	Ken to Mahou to Gakuen Mono. Final - Shinnyuusei wa Ohime-sama! (Japan).iso
 1206b67b7f29ab26dfa0a0f101d4bbab	Kenka Bancho - Badass Rumble (USA).iso
 7a29ad0680a269f5534cb6dc40e81587	Kenka Banchou 3 - Zenkoku Seiha (Japan, Asia).iso
+fed7a5cf1902074d6e55c9ced4964764	Kenka Banchou 3 - Zenkoku Seiha (Japan) (PSP the Best).iso
 f8ad918838ef794f5dc925500dce50bd	Kenka Banchou 4 - Ichinen Sensou (Asia).iso
+f8ad918838ef794f5dc925500dce50bd	Kenka Banchou 4 - Ichinen Sensou (Japan, Asia).iso
+aecc01fe5a4346c403024bf6fa0e5b65	Kenka Banchou 5 - Otoko no Rule (Japan) (v1.02).iso
+8f6f7ee52b6d7a2cbc3a2aef80ca4988	Kenka Banchou 5 - Otoko no Rule (Japan) (v2.00).iso
+7734df6d4b2d13968d136b1320ae1447	Kenka Banchou Bros. Tokyo Battle Royale (Japan).iso
 f7de63d8a7e875d564763fa29384ee38	Key of Heaven (Europe) (En,Fr,De,Es,It).iso
 f4d7de6a0e32147241b7992a5594647f	Key of Heaven (Europe) (En,Ja,Fr,De,Es,It) (Beta).iso
 7c352735d021a58647972290aafb81e0	Kidou Keisatsu Patlabor - Kamubakku MiniPato (Japan).iso
+9b0ba939dff55b18771703bec4c51ac2	Kidou Senshi Gundam - Gihren no Yabou - Axis no Kyoui (Japan).iso
 dc76933e8fd1debe78c4f434349c257c	Kidou Senshi Gundam - Gihren no Yabou - Axis no Kyoui V (Japan).iso
+f389c76f1daee26dd7a297f7f5a2b941	Kidou Senshi Gundam - Gundam vs. Gundam (Japan, Asia).iso
 b698ec82ff74794657c02e04d998c496	Kidou Senshi Gundam - Gundam vs. Gundam Next Plus (Japan, Asia).iso
 0efe6288fc3933f4872a3d1f4368c438	Kidou Senshi Gundam - Senjou no Kizuna Portable (Japan, Asia).iso
 fff4421529684a8936b51de07aa994df	Kidou Senshi Gundam - Senjou no Kizuna Portable (Korea).iso
+cf8648b1b40a99ecc70ec1e4add3bfbc	Kidou Senshi Gundam AGE - Universe Accel (Japan).iso
+fb4741e78a2fa2f93779894baa3ced69	Kidou Senshi Gundam Seed - Rengou vs. Z.A.F.T. Portable (Japan, Asia).iso
 03bf196a6249af40cf8c8d13dedaca6b	Kidou Senshi Gundam Seed - Rengou vs. Z.A.F.T. Portable (Japan) (Demo).iso
 fb4741e78a2fa2f93779894baa3ced69	Kidou Senshi Gundam Seed - Rengou vs. Z.A.F.T. Portable (Korea).iso
 cad2b32fe8c7507e4531528aae10f9cd	Killzone - Liberation (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru).iso
@@ -1115,25 +1221,38 @@ d638ac5ee1f7b77d916c0aa687793a5c	Killzone - Liberation (USA) (Beta).iso
 4ca9b93d334708fbb4357689175a452e	Killzone - Liberation (USA) (Demo).iso
 fb3174cf4e9eb00792bde2f1ee331ade	Killzone - Liberation (USA) (En,Fr,De,Es,It,Nl,Pl,Ru).iso
 50f360decfc59c4f55d8a3fca9f112d8	Kimikare - Shin Gakki (Japan).iso
+191eba8abd37a48145162e138ddeb107	Kin'iro no Corda (Japan).iso
+ddab50419be3938072834c0bd734e577	Kin'iro no Corda 3 - Another Sky feat. Jinnan (Japan).iso
+d94bad099b69b76558cf79847a8fc3e6	Kin'iro no Corda 3 - Full Voice Special (Japan).iso
 5d391ef9007d6ac9c1b5daa42e90cfb2	King of Clubs (Europe) (En,Fr,De,Es,It,Nl).iso
 82cb507f30eb3b23e2eef8848c8d560d	King of Fighters Collection, The - The Orochi Saga (Europe).iso
 30624d1786faabb9bd463534d3711af3	King of Fighters Collection, The - The Orochi Saga (USA).iso
 62225f4c3cad5cc7cffebc3270471383	King of Pool (Europe) (En,Fr,De,Es,It).iso
+bfd930f154d22fa6fb4e88ff63646874	King's Field - Additional I (Asia).iso
+05df6f3a2b5c415bdb94112f41f32d5a	King's Field - Additional II (Asia).iso
 f8b27a29a833c9ad4f74fc0c6e9746d1	Kingdom Hearts - Birth by Sleep - Final Mix (Japan).iso
 96543fdb61f914ab2a15fb1bfbe859bf	Kingdom Hearts - Birth by Sleep (Europe) (En,Fr,De,Es,It).iso
+8d3a624a930d6fff4265c2e31d4cb4c6	Kingdom Hearts - Birth by Sleep (Japan, Asia).iso
 8d3a624a930d6fff4265c2e31d4cb4c6	Kingdom Hearts - Birth by Sleep (Japan).iso
 63167cc0a3d879b0a6a64c2494a8ae25	Kingdom Hearts - Birth by Sleep (USA) (En,Fr,Es).iso
 59b68ab1ca3cf41bfaae0dc1f3620626	Kingdom of Paradise (USA).iso
+5d2737506c6405642609947bd5dc15cb	Kirameki School Life SP - The Wonder Years (Japan).iso
 349688ca6cb99fed85faa7d50f5fbcab	Kisou Ryouhei Gunhound EX (Japan).iso
 f389c76f1daee26dd7a297f7f5a2b941	Kisou Senshi Gundam - Gundam vs. Gundam (Japan, Asia).iso
 a21541deceebd99f19ef0295fdea7fcd	Knights in the Nightmare (USA).iso
 77a3c6a05c7a118444855986f95ad28e	Koibana Days - Pure Flower Garden (Japan).iso
+6a98a384e385b59e373a85f64df32e4d	Kokoro Connect - Yochi Random (Japan).iso
+1ecb5128adaf53e97529cb667b99a06c	Kollon (Japan).iso
 3068660ff530d469a58539544338b218	Kollon (Korea).iso
 21df5b985db1f3eede603a679d7b0e44	Koloomn (Europe) (En,Fr,De,Es,It).iso
 fa86c0b945d9c647ee08d80e5b833f22	Koori no Haka - Ichiyanagi Nagomu, 3-dome no Junan (Japan).iso
 6616fff8ad978a982e621c0e1281dac2	Kotoba no Puzzle - Mojipittan Daijiten (Japan).iso
+418950b4ecbaa9efb3c44dae06dd4419	Koukyou Shihen Eureka Seven (Japan).iso
 a0dbb2f1a816e8622f36dcc57fb686d1	Kuon no Kizuna - Sairinshou Portable (Japan).iso
 95502898eaa7f21f96ed11189130ec83	Kurohyou - Ryu ga Gotoku Shinshou (Japan, Asia).iso
+ba85fdbea0f7dc8f74c7a78ee94436d3	Kurohyou 2 - Ryu ga Gotoku Ashura-hen (Japan).iso
+eea56a1fbb679f885065661f30fcccea	Kuroko no Baske - Kiseki no Game (Japan).iso
+2a2987045c090b89a3d9ca7a0bc4f38d	Kuroyuki-hime - Snow Black (Japan).iso
 6395e48a030ebda670eff653548621b1	Kuru Kuru Chameleon (Asia).iso
 b4366ffa8141231a531b74888c204268	Kuru Kuru Chameleon (Japan).iso
 f0a70f35b30de60085e8d21604afb572	L.A. Rush (Europe) (En,Fr,De,Es,It).iso
@@ -1144,6 +1263,8 @@ c1f7400d5b3540f80dcdc78f03802dce	Lara Croft Tomb Raider - Anniversary (Japan) (E
 7090c062f2239ddbc534856d9798b605	Lara Croft Tomb Raider - Legend (Europe) (En,Fr,De,Es,It).iso
 2aceb3d060e869be9cdb415f987ca485	Lara Croft Tomb Raider - Legend (Japan) (En,Ja).iso
 b8892e38b1f114040f1291f3d123518d	Lara Croft Tomb Raider - Legend (USA) (En,Fr,De,Es,It).iso
+1446898c88c29f8a01344eaca31a2aca	Last Escort - Club Katze (Japan).iso
+b1ae8cdbeb02ae001af47ffce36d7d18	Last Ranker (Japan).iso
 7d7d382b51dc4758a20c4ecde0b2d70b	Legend of Heroes II, The - Prophecy of the Moonlight Witch (USA).iso
 94aac57677c20e65626f2276a1d86cea	Legend of Heroes III, The - Song of the Ocean (USA).iso
 3ff37ebb3e3f433e4b220f8de5dc3785	Legend of Heroes, The - A Tear of Vermillion (USA).iso
@@ -1180,6 +1301,7 @@ e4fead168d06ea537ecd810b31ffcc48	LEGO Star Wars III - The Clone Wars (Europe) (E
 273493d382ea6cfa1511ab7152e98e72	LittleBigPlanet (Asia) (En,Zh,Ko).iso
 0fa3ed29d749e270d66bf72de4d2c098	LittleBigPlanet (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).iso
 d6273e94f4d4b96560fdef1a0168d84f	LittleBigPlanet (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl).iso
+16607172a7323dc2f7cbe83d8a5631b1	LittleBigPlanet Portable (Japan).iso
 ddc3a376ce203739f10fcaf0696fdcce	LocoRoco (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru).iso
 e86e1ea5f530be57b6dce53bffb2e394	LocoRoco (Europe) (Demo).iso
 2a75fb29136147dd01867ce37edce0d8	LocoRoco (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru) (Beta).iso
@@ -1193,7 +1315,9 @@ ce791d6067276c8762e85c3d04218893	LocoRoco (USA) (Demo).iso
 2ec41148950026436aa18e17c4506781	LocoRoco 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ru).iso
 a08cd71a54d48fe8e321e27f03966a3b	LocoRoco 2 (Japan) (Beta) (v1.00).iso
 b676122961932faa0918b1b049b3961e	LocoRoco 2 (Japan) (Beta).iso
+3432592e3e24214e7656092ecbe856d6	LocoRoco 2 (Japan).iso
 8c3fb3d199ddbe503222190c0d97c6c8	LocoRoco 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko,Ru).iso
+771f7098a26fee23ccc1741cded47faa	Lord of Apocalypse (Japan).iso
 863854423d1b545db3ce90c0c463fb4e	Lord of Arcana (Europe) (En,Fr,De,Es).iso
 bc2bf0f274574dc40e355e093ad3536a	Lord of Arcana (Japan).iso
 ddf42ccd5ff1ca3efa40f458fc180a08	Lord of Arcana (Korea).iso
@@ -1202,10 +1326,13 @@ ddf42ccd5ff1ca3efa40f458fc180a08	Lord of Arcana (Korea).iso
 0c83826601fdf632cc36fa4bba919cc3	Lord of the Rings, The - Aragorn's Quest (USA) (En,Fr,Es,Pt).iso
 3cedc8a9c9213f379d13962ff414fe42	Lord of the Rings, The - Tactics (Europe).iso
 b83b29b68070450e131438cac80ff597	Lord of the Rings, The - Tactics (USA).iso
+5dd8a9573ec624d765a0761a678876c9	Lucky Star - Net Idol Meister (Japan).iso
 4b4e35a25f893dbf6c304b6d323b4a40	Lumines - Puzzle Fusion (Europe) (En,Fr,De,Es,It).iso
 f8af662d30030d604cb175d16c11a780	Lumines - Puzzle Fusion (USA) (En,Ja).iso
+975f94c5a09d273f8fcedbe48e169fab	Lumines (Japan) (PSP the Best).iso
 391973d07129e937f0b3944517293785	Lumines (Japan).iso
 8db5e4c260b790176a45315c0fb915f5	Lumines II (Europe) (En,Fr,De,Es,It).iso
+3c72e065a26c5c176b9456ec00132ea2	Lumines II (Japan).iso
 f9baa2a9346ae883ced82e82c665431d	Lumines II (USA).iso
 ecf1d190214b0473aa6080b5d742c0fb	Lunar - Silver Star Harmony (USA).iso
 88d53fbdadfb79f7a30c02f2e9a301a4	Luxor - Pharaoh's Challenge (Europe) (En,Fr,De,Es,It).iso
@@ -1235,7 +1362,10 @@ cbb4fa48d120983d5ba3f1ac6b3fa6b6	Magic Sudoku (Europe).iso
 567a771b6e33e122c9caed08f18c5da4	MagusTale Eternity - Sekaiju to Koi suru Mahoutsukai (Japan).iso
 3e4bd40b2abd7dfdcff2482cf9d17cf1	Mahjong Fight Club - Zenkoku Taisenban (Japan).iso
 e82b561c54827909dce7f863375e0e88	Mahjong Fight Club (Japan).iso
+a915e31f0ead2cbd99475af2f40dee12	Mahjong Taikai (Japan).iso
+fa6b0be68da4c969345f739ba527e248	Mahou Shoujo Lyrical Nanoha A's Portable - The Battle of Aces (Japan).iso
 bc9d2e56396744e00bb3bd948f3c374e	Mahou Shoujo Lyrical Nanoha A's Portable - The Gears of Destiny (Japan).iso
+f5cea75b096178f8b717f4b693b381cc	Mahou Shoujo Madoka Magica Portable (Japan).iso
 c8216b57fec9627768949e3423479864	Major League Baseball 2K10 (USA).iso
 af96144a6674c7ae2b91b9d37bb64a30	Major League Baseball 2K11 (USA).iso
 d909e84760aa130b7ece9cee9cef0f5d	Major League Baseball 2K12 (USA).iso
@@ -1244,14 +1374,18 @@ d909e84760aa130b7ece9cee9cef0f5d	Major League Baseball 2K12 (USA).iso
 3d2f15d4f8c47787bbe9b61eedaee9fe	Major League Baseball 2K8 (USA).iso
 1a8a42b3b5924d26cf7abe166679f937	Major League Baseball 2K9 (Japan).iso
 2ae99a71e150c420e8591b202bdfcb90	Major League Baseball 2K9 (USA).iso
+2478a09f499adb7197003d7ab7952cac	Makai Senki Disgaea 2 Portable (Japan).iso
 86dcde8329db3b72af6748f35e1bc5ff	Makai Senki Disgaea Portable - Tsuushin Taisen Hajimemashita. (Japan, Korea).iso
 86dcde8329db3b72af6748f35e1bc5ff	Makai Senki Disgaea Portable - Tsuushin Taisen Hajimemashita. (Japan).iso
+b1e77c7211b28db50f04d12e799e2224	Makai Senki Disgaea Portable (Japan).iso
 276dfc567cc812c5feab8d9d896aff9d	Mana Khemia - Student Alliance (Europe).iso
 69d32823a3f8fe16ffce94066d391805	Mana Khemia - Student Alliance (USA) (Beta).iso
 6a1cc5634addae802727c6054197d4c8	Mana Khemia - Student Alliance (USA).iso
+01acfec331c0a5399c0b7fd3a5486b1a	Mana-Khemia - Gakuen no Renkinjutsushi-tachi Portable + (Japan).iso
 ff43ff88c0fe8a5f32da110fe6aa47c3	Manhunt 2 (Europe) (En,Fr,De,Es,It).iso
 f2d5705a57ce4fd03a9c793d7322c0cf	Manhunt 2 (USA).iso
 52908e5cabf78e900bc6ac47aba90a23	Maplus - Portable Navi (Japan) (GPS Receiver Doukonban).iso
+7b469a1b0563c3e448abe90bf00cc57a	Marriage Royale - Prism Story (Japan).iso
 b75e4a5f14b31a59bad5018b5af94a6a	Marvel - Ultimate Alliance (Europe) (En,It).iso
 b75e4a5f14b31a59bad5018b5af94a6a	Marvel - Ultimate Alliance (Europe).iso
 4a3075178635fea8d5e6c45ea8f7d830	Marvel - Ultimate Alliance (USA) (v1.02).iso
@@ -1264,6 +1398,8 @@ daa0bfa0788e52fb9e4faa56e7070cba	Marvel Nemesis - Rise of the Imperfects (USA).i
 f8b90bbe1d0d5277ef7ab5a7bada6d60	Marvel Super Hero Squad (USA).iso
 d6f458e10b4fc8535ea14512345e4353	Marvel Trading Card Game (Europe) (En,Fr,De,Es,It).iso
 138502550e7a5ec2473d6767f57dfd71	Marvel Trading Card Game (USA).iso
+5808d31c0dc921c6884d1903982eac5f	Mashiro Iro Symphony - Mutsu-no-hana (Japan).iso
+86c6977fbd63e9e699b7576885da43d9	Matching Maker 3 x Tousouchuu (Japan).iso
 dfc1a43431200346c7c2b04b6f0e5a07	Mawaskes - Based on Carton-kun (Asia).iso
 d2fd660b01b29218560f1ca0de37234c	Mawaskes Puzzle (Europe) (En,Fr,De,Es,It,Nl).iso
 aee315b940032f77c838d10e055d394e	Me & My Katamari (Europe).iso
@@ -1290,7 +1426,9 @@ ae507a7581de48891cd379f6cadf2f52	Mega Man - Powered Up (USA).iso
 c96ff0b4b884eae6777478ef0d2b3052	Mega Minis Volume 1 (Europe).iso
 c7601f063d90473edb505f9700df1ecf	Mega Minis Volume 2 (Europe).iso
 52e4d0163bbf63c478a41b161332d29b	Mega minis Volume 3 (Europe).iso
+656de8f5f7370f0ed9c046be00b08fc7	Megpoid the Music (Japan).iso
 6c934a1bf26b182d59c116199a5a36eb	Meitantei Conan - Kako kara no Prelude (Japan).iso
+400e847a830ce2c272c6cc7d74541da7	Memories Off (Japan).iso
 8aef97ff46cf2a118cfd6fa41e602d0a	Memories Off 5 Encore (Japan).iso
 ab3537ec6f79b5f3d1dcafaefc76e6b0	Mercury Meltdown (Europe) (En,Fr,De,Es,It).iso
 07806a5368b171064ce699d0d634242e	Mercury Meltdown (USA) (Beta) (v1.00).iso
@@ -1333,6 +1471,7 @@ db1ee9c4c987f51ecadd8e95eceae97a	Miami Vice - The Game (Russia).iso
 6543d6d4ce42014a4d4d6b49fa954470	Michael Jackson - The Experience (USA).iso
 7814b72c1fb53003eb8aa35b0f834d18	Micro Machines V4 (Europe) (En,Fr,De,Es,It).iso
 d745e5637cd0949b0260099de62961b3	Micro Machines V4 (USA).iso
+9f4d98f9f7b7071c8b148d588456e5f8	Midnight Club - L. A. Remix (Japan).iso
 0087a2b07dbeeda621f8a737eb251523	Midnight Club - L.A. Remix (Europe) (En,Fr,De,Es,It).iso
 cdad6739b520e5052743d722ecd213ed	Midnight Club - L.A. Remix (Japan) (Rockstar Classics).iso
 b476c32cddf846ec8238e4e0dcf50359	Midnight Club - L.A. Remix (USA).iso
@@ -1347,6 +1486,10 @@ b0614a9755221f401c7dc1954c03b163	Military History - Commander - Europe at War (E
 bfd9817d52140e5ac3bb69e43a38e3c2	Mind Quiz - Exercise Your Brain (Europe) (En,Fr,De,Es,It).iso
 34cf71107e10584aa378f4174b940b00	Mind Quiz - Exercise Your Brain (Europe) (En,Fr,De).iso
 f64d5ccd57afc65023eed504ef81c697	Mind Quiz - Exercise Your Brain (USA).iso
+31ea9efab5a538ff5690ee708a91bb9b	Minna no Chizu (Japan).iso
+6d97a4e0f5ba07ec1f42a6447ee18b37	Minna no Chizu 2 (Japan) (GPS Receiver Doukonban).iso
+ecbe327fd230cb696b21467e26f1e57f	Minna no Chizu 3 (Japan) (Disc 1).iso
+c30b5c1e14bfc91be3e90e68a5e48179	Minna no Chizu 3 (Japan) (Disc 2).iso
 ad64ef6005bf976b58c43a56ccab0df5	Minna no Golf Jyou Vol. 2 (Japan) (Disc 1).iso
 0de2588b57a3e80c76f56315f395d0c4	Minna no Golf Jyou Vol. 2 (Japan) (Disc 2).iso
 50fe4c251706061e2ffef8865a390a21	Minna no Golf Jyou Vol. 3 (Japan) (Disc 1).iso
@@ -1356,8 +1499,17 @@ ad64ef6005bf976b58c43a56ccab0df5	Minna no Golf Jyou Vol. 2 (Japan) (Disc 1).iso
 72ee12817e81f25ee4ce2053ab430327	Minna no Golf Portable 2 (Japan, Korea) (v1.09).iso
 9c496651ad2ddf6f3f45f180d372c467	Minna no Golf Portable 2 (Japan) (v2.01).iso
 72ee12817e81f25ee4ce2053ab430327	Minna no Golf Portable 2 (Japan).iso
+4602e90a8eaa61e1e796360d873cb03c	Minna no Golf-jou Vol. 1 (Japan) (Disc 2).iso
+ad64ef6005bf976b58c43a56ccab0df5	Minna no Golf-jou Vol. 2 (Japan) (Disc 1).iso
+0de2588b57a3e80c76f56315f395d0c4	Minna no Golf-jou Vol. 2 (Japan) (Disc 2).iso
+50fe4c251706061e2ffef8865a390a21	Minna no Golf-jou Vol. 3 (Japan) (Disc 1).iso
+2d7d7b5a5ddba03a84b6eec48bbfdbe8	Minna no Golf-jou Vol. 3 (Japan) (Disc 2).iso
+f7d695cb3311456a9ad2bc7671bd7e73	Minna no Navi (Japan) (Disc 1).iso
+f7d67c58aa71ec31d0ff6224f77621e1	Minna no Navi (Japan) (Disc 2).iso
 dc7f2150d7b231204bfbac3015b006b8	Minna no Sukkiri (Asia).iso
+257680f011c73e176edd5083808bf6f5	Minna no Tennis Portable (Japan).iso
 d9dae2d770e5e288b4e6cdf18fc79983	Mite Kiite Nou de Kanjite Crossword Tengoku (Japan).iso
+7e37f3d83f5853f8317557f8f0e7c1e9	Mizu no Senritsu (Japan).iso
 454e74d98de035a9d133795ac9747853	MLB (Korea).iso
 0c1e12ff1ee591f474945d5036c26c5f	MLB (USA).iso
 24d744eb2dd6b22dbdbf52904641ddab	MLB 06 - The Show (USA).iso
@@ -1370,6 +1522,7 @@ f7521e74f2c30d5ae09150efd945f688	MLB 07 - The Show (USA).iso
 41abefe6be0b6d73bc5c766688965506	MLB 11 - The Show (USA).iso
 a33ec731134c554734e3f7c255582202	Mobile Train Simulator - Keisei Toei Asakusa Keikyuusen (Japan).iso
 d007965b9f78929ef21c4100e2852fda	Mobile Train Simulator plus Densha de Go! Tokyo Kyuukou Hen (Japan).iso
+d007965b9f78929ef21c4100e2852fda	Mobile Train Simulator plus Densha de Go! Tokyo Kyuukou-hen (Japan).iso
 10dbdc70bed3fd7892b0cd859964cfde	ModNation Racers (Asia) (En,Zh).iso
 1bdf109a5c55d4324289e3631ef5f5f7	ModNation Racers (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).iso
 3c342dd8f92a5410a7f68a3f1dadb389	ModNation Racers (USA) (En,Fr,Es).iso
@@ -1379,6 +1532,7 @@ f1c4149947837090d831a95a9ed0d60e	Moegaku @ Portable (Japan) (En,Ja).iso
 9da1532f80817427caf174e0128559fc	MonHun Nikki - Poka Poka Ailu Mura (Japan).iso
 70d18e50cc2b458c4cec93927d15313c	MonHun Nikki - Poka Poka Ailu Mura G (Asia).iso
 70d18e50cc2b458c4cec93927d15313c	MonHun Nikki - Poka Poka Ailu Mura G (Japan, Asia).iso
+9da1532f80817427caf174e0128559fc	MonHun Nikki - Poka Poka Airuu Mura (Japan).iso
 76141b23e88258933dcca4636abe636c	Monster Hunter Freedom (Europe, Australia) (En,Fr,De,Es,It).iso
 67da3c73b63123fb729522e94ca17206	Monster Hunter Freedom (USA).iso
 d66f20f630fcf665b8573685dfb8543d	Monster Hunter Freedom 2 (Asia).iso
@@ -1401,6 +1555,7 @@ a98cabad4e2a4957157457e466c4b68a	Monster Jam - Urban Assault (Europe) (En,Fr,De,
 ceb82f6d71d58c9654a3360edc1e22a9	Monster Kingdom - Jewel Summoner (USA).iso
 fc9b10c5bc85b8cb1e4d21b86d1de870	Mortal Kombat - Unchained (Europe) (En,Fr,De,Es,It).iso
 5c91b9e6444a34b993c830fe1541b1fc	Mortal Kombat - Unchained (USA).iso
+82606ff9667b743f090d5f702ae06b99	Mother Goose no Himitsu no Yakata - Blue Label (Japan).iso
 1bab1090d3c7cf1d10c0203fcae885f8	Mother Goose no Himitsu no Yakata - Nursery Rhymes for you (Japan).iso
 7045c347247e6470c5f547c4dc63c80f	MotoGP (Europe) (En,Fr,De,It,Nl).iso
 a8f9e9626806e1fccec73ef122c4f16f	MotoGP (USA).iso
@@ -1418,6 +1573,7 @@ b9e5bbf83ba684a9f05816e8f3ff8821	MTX Mototrax (USA).iso
 8d7beaf8c3f91b1d0fdccdf13ba35f71	Musou Orochi - Maou Sairin Enhanced Version (Asia).iso
 816ef52ca2d399b8148fb61f6c399eda	Musou Orochi (Japan, Korea).iso
 816ef52ca2d399b8148fb61f6c399eda	Musou Orochi (Japan).iso
+b432e0782ac1164f4d101099387437d3	Musou Orochi 2 Special (Japan).iso
 9a8c49395d89b35b21ec74485a837483	Musou Tourou (Japan).iso
 41211180dbe47779107d9953794c1edb	Mussang Orochi - Mawang Jaerim Plus (Korea).iso
 d8dc7083d652a03c2b12ad2b3a3efca9	MVP Baseball (Korea).iso
@@ -1444,6 +1600,7 @@ cfb4a20af67791bcbabcaaba4dc83f11	N Plus (USA).iso
 904fbd32cfe55d8bd31e1ffd9c06bedc	Namco Museum Battle Collection (Europe) (En,Fr,De,Es,It).iso
 00c078cc52c908e5e8b17e067ed23529	Namco Museum Battle Collection (USA) (Beta).iso
 33715cb2baa0aff9170fe2e73a2b6ae8	Namco Museum Battle Collection (USA).iso
+5fdf735a3d38087c8e0399eeb35d0759	Namco Museum Vol. 2 (Japan).iso
 c337aa4848a386c657da3fc8f1950037	Napoleon Dynamite - The Game (USA).iso
 f0d6217571acb5e74100f94c99a454f8	Naruto - Narutimate Impact (Asia).iso
 3dcec0121fe724770162deaca9e5fc7d	Naruto - Narutimate Portable - Mugenjou no Maki (Japan).iso
@@ -1469,6 +1626,7 @@ f0d6217571acb5e74100f94c99a454f8	Naruto Shippuuden - Narutimate Impact (Japan, A
 446933bb17f5532ba6c371fc173a262c	NASCAR (Europe).iso
 3dc1e01344b43bcc5bb55b16a0c04065	NASCAR (USA).iso
 1c8ad4b67a9f2de5a2add3ab41c13ebc	Navi-Chu (Japan) (Beta).iso
+645ae02f01b1e62159147c09339762d4	Nayuta no Kiseki (Japan).iso
 2385a1b5c78837a56b656531abdc0151	NBA (USA).iso
 f9e0fa2d95d70534a67a385e48d62816	NBA 06 (USA).iso
 cb0ad1bdb455c495b8470f6ac1571765	NBA 07 (USA) (Demo).iso
@@ -1480,6 +1638,7 @@ d001ba1c34541e4c89780db76b2e52af	NBA 07 (USA).iso
 917931818407b6becc374cce9365a207	NBA 2K10 (Europe).iso
 886d080b7a4f291460e03471f9db70fd	NBA 2K10 (USA).iso
 6b5af2056499c8064fb7814383842dae	NBA 2K11 (Europe).iso
+95d1f38d2ecf509d866695b072e85975	NBA 2K11 (Japan).iso
 e3faf14d50b475d1a45f5d66377e4ac8	NBA 2K11 (USA).iso
 59e2ffc81d22c01d2a2e9d2fb90986f9	NBA 2K12 (Europe) (En,Fr,De,Es,It).iso
 bb9cd00d8a929b157f9c3c7bf3693cd5	NBA 2K12 (USA).iso
@@ -1501,11 +1660,13 @@ a3d1d7e161db2ca6a1fc16f7c010df08	NBA Live 08 (Europe).iso
 f610f6d219a595f2bff476045a8d3f94	NBA Live 08 (USA).iso
 ac5060dcba0b8e2d752466616fee18b8	NBA Live 09 (Europe) (En,De,It).iso
 ac61e26a86e61e1e212d34d016db8a64	NBA Live 09 (France).iso
+8db7e851ba342ebf7aae88222a92621d	NBA Live 09 (Japan).iso
 a420891051b21cdca313d0d0d4b38627	NBA Live 09 (Spain).iso
 78fb2541643a9cd05938e6968f5698fd	NBA Live 09 (USA) (En,Fr).iso
 cf56dfc15acb1d53c29e1a5e7f8a0679	NBA Live 10 (Asia).iso
 1f664a24b7a48373eef94520cda31ed6	NBA Live 10 (Europe) (En,De,It).iso
 ad1cba0cc6aabf9f8951e9e5eadfa5ba	NBA Live 10 (France).iso
+de28948bdff47ee2d5f84cd76d3ce628	NBA Live 10 (Japan).iso
 1861b51e5fea475921ca4d2280721fd0	NBA Live 10 (Spain).iso
 9cb27f0555de18049e182dec60e1ede2	NBA Live 10 (USA).iso
 a430c983a8a35221f00968f723558152	NBA Street Showdown (Asia).iso
@@ -1527,6 +1688,7 @@ ee4f1e6ed8398e3a76a18eafa6f082ae	Need for Speed - Most Wanted - 5-1-0 (Asia).iso
 f0650f3e20a11f41f55741e93853e9bb	Need for Speed - ProStreet (Asia).iso
 2c5891773f3222ebb3dded2162199796	Need for Speed - ProStreet (Europe) (En,Fr,De,Es,It,Nl).iso
 5820208a80d7a77c63ee4d35ba627e81	Need for Speed - ProStreet (Europe).iso
+593eecb4b713ecc4511da35ac7d371b4	Need for Speed - ProStreet (Japan).iso
 00202818171c9125fe8caabc05d2eb6d	Need for Speed - ProStreet (USA).iso
 2d5b603c05677ca8c35698141726af0c	Need for Speed - Shift (Asia) (En,Fr,Es).iso
 1ea9b5c2874bba0d15fc2eea9cf33d44	Need for Speed - Shift (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru,Cs).iso
@@ -1541,6 +1703,8 @@ bc768dcf4894460558d9f0e3209eb775	Need for Speed - Underground Rivals (Europe, Au
 cf138fef5b1c2105e52793de4f1abd28	Need for Speed - Underground Rivals (Japan).iso
 4e69dd0fe1259ff23ccf29d5cf7176de	Need for Speed - Underground Rivals (Korea).iso
 c5ecb359f5beeee4d0789a1aeecf2154	Need for Speed - Underground Rivals (USA).iso
+9173415067e5b01d56c37cf20e9b8b66	Nendoroid Generation (Japan).iso
+f42ecbdb0698b7e4120b8625e89e3924	Neo Angelique Special (Japan).iso
 d69635e6ede1780704a274bf22ee1487	Neopets - Petpet Adventures - The Wand of Wishing (USA).iso
 04d700051464675622c4ad84ed9b02b4	Network Utility Disc - Chinese Ver. 1.00C (Asia).iso
 d3516b247c07212bf479db71147b0c98	Network Utility Disc Ver. 1.00 (Korea).iso
@@ -1559,9 +1723,15 @@ bbbdf4d281f72d2ed88c10d96bc2f787	Nickelodeon SpongeBob SquarePants - SpongeBob's
 ffa2124c4a4d93b6b6edd93557d08945	Nickelodeon SpongeBob SquarePants - The Yellow Avenger (Europe) (En,Fr,De,Es,It,Nl).iso
 4bc5008f05ee948a4837627afd659030	Nickelodeon SpongeBob SquarePants - The Yellow Avenger (USA).iso
 8befe0266a3d948158989cbb055ab2db	Nickelodeon SpongeBob's Truth or Square (USA).iso
+d147120ae0f5f1f114aeb02f3b75aec9	Nikoli no Sudoku Lite Daisan-shuu (Japan).iso
+ab547530ea0ac57ca230f6a3e317f7d4	Nippon no Asoko de (Japan).iso
 51b6c90bef82d6b1bc5017c9d1fd4810	Nise no Chigiri (Japan).iso
+8d029fb93cf541c8320c12fcf55241f5	Nobunaga no Yabou - Shouseiroku (Japan).iso
+df2bab9955d924ca9589eb83cfb956ce	Nobunaga no Yabou - Soutenroku with Power-Up Kit (Japan).iso
 d2131ea9c4df5c488636afd045d223cc	Nogizaka Haruka no Himitsu - Cosplay, Hajimemashita - Himitsu no Radio (Japan).iso
 17c6a6755b2a36028593b1862d6f7d8f	Nouryoku Trainer Portable (Japan).iso
+9de0c7338307c832f37fcb4e7d603e71	Nouryoku Trainer Portable 2 (Japan).iso
+e32c49c19c7d6c8f9f9337efe4d60db2	Numpla & Oekaki Puzzle (Japan).iso
 39c169d80768fd7fdb219b1ea8c66325	O.G.A Onigokko Royal - Hunter wa Field de Koi o Suru (Japan).iso
 69d72437bfca552117cc8a4f1541fc9d	Oblachno, vozmozhny osadki v vide frikadelek (Russia).iso
 482ca9e85235d2559e5074bd7419dbab	ObsCure - The Aftermath (Europe) (En,Fr,De,Es,It).iso
@@ -1573,16 +1743,19 @@ f2b5cc72c4817cec29a3039a9438ad0a	Oh's Talk English (Korea) (En,Ko) (Disc 1).iso
 1a31d85f0b08fece269a5e1ff26519c4	One Piece - Romance Dawn - Bouken no Yoake (Japan, Korea).iso
 97b8e276b1206da8909fde00714cce0b	Online Chess Kingdoms (Europe) (En,Fr,De,Es,It).iso
 aee7a3ae3632e54d973ddc6f021907af	Online Chess Kingdoms (USA).iso
+0a8bba3cd9ba5686ffb20bc5c14b5aba	Onore no Shinzuru Michi o Yuke (Japan).iso
 0a8bba3cd9ba5686ffb20bc5c14b5aba	Onore no Shinzuru Michi wo Yuke (Japan).iso
 fe5b69a216c2e4fc34c637e662bd1b5a	Ooedo Senryoubako (Japan).iso
 b371c46c9534ad2a94cd6a7cbec1e01b	Ookami Kakushi (Japan).iso
 7f9748653fd57259ad256a7958484dd7	Open Season (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi).iso
 5f433384aae15f4303f17bce4693d20a	Open Season (Europe) (En,Fr,Es,Da).iso
 e81994a6349f4017e74fc7b15e79b546	Open Season (USA) (En,Fr,Es,Nl).iso
+3c439293ea499e6c0e00c5621ed97cbf	Ore no Imouto ga Konna ni Kawaii wake ga Nai Portable (Japan).iso
 78802a099557a2cd244a5546991b08b4	Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable ga Tsuzuku Wake ga Nai (Japan) (Disc 1).iso
 6df25820fc5a4a2cd9c189da34845f3d	Ore no Imouto ga Konna ni Kawaii Wake ga Nai Portable ga Tsuzuku Wake ga Nai (Japan) (Disc 2).iso
 9700b7ff24e9221a013de719f41aea38	Ore no Imouto Maker EX - Imouto to Koishiyo Portable (Japan).iso
 e94959344fb86ae6121f7f6f952657cf	Ore no Shikabane o Koete Yuke (Japan).iso
+85728724a2e2c4deaa7e4b0b823d7bf4	Otome wa Oanesama Boku ni Koi Shiteru Portable (Japan).iso
 13ec64b25f1bb748167c2b6c2ff4b1f2	OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It).iso
 e9ade677e093ef620807417d188c4d15	OutRun 2006 - Coast 2 Coast (USA).iso
 bbddc5d9041fe5224c448ca0b5a1f0ba	P3P - Yeosin Jeonsaeng - Persona 3 Portable (Korea).iso
@@ -1594,6 +1767,7 @@ a700ae4038130a32132330f5c187492b	Padrino, El (Spain).iso
 bc92d8c2a761aa51193b7ea8ed02738c	Padrino, Il (Italy).iso
 7e15cdf1b8e90645b4638f6503752488	Page Zero (Europe) (En,Fr,De,Es,It) (Beta).iso
 ef3b412e898e639d2bcd4aa991c3eb35	Pangya - Fantasy Golf (USA).iso
+a38e76a248c44aa7daadb473dd4ed27d	Panic Palette Portable (Japan).iso
 b0566b653eb88cfd364fbaacbc6ffec1	PaRappa the Rapper (Europe, Australia) (En,Fr,De,Es,It).iso
 bf1408ebcbca78617ff6612508726018	PaRappa the Rapper (Japan, Asia) (En,Ja).iso
 cde7daa33e49e96cb4f968e709f09cbc	PaRappa the Rapper (USA).iso
@@ -1609,14 +1783,17 @@ e69bb37ce1c875c0b78ea114b96a819a	Passport to... Rome (Europe) (En,Fr,De,Es,It).i
 ac468e43510804e51422468484a82435	Patapon (Europe) (Demo).iso
 c04c20b5c4fe21076e92826dbd9e0942	Patapon (Europe) (En,Fr,De,Es,It).iso
 362732b1a76df480978a757afda760b9	Patapon (Japan) (Beta).iso
+524ecc185f034a6567240881ad76cd90	Patapon (Japan).iso
 481e82fbcf78b91214aeb9177c78d426	Patapon (Korea).iso
 5b859262e14810186e5b715e4c3e27fb	Patapon (USA) (Demo).iso
 b6ef06ac0e79db6a4f80ec466b378c74	Patapon (USA).iso
 ee5e337f0bb275696d48645e8f9b84ff	Patapon 2 - Don-Chaka (Japan) (Demo).iso
+f5d67c03e0f34929b98bdc2b2c609e2f	Patapon 2 - Don-Chaka (Japan).iso
 58ebc040b58d237e405433c03a13cf04	Patapon 2 - Don-Chaka (Korea) (Zh,Ko).iso
 db501b5a210972bfab330091217b9976	Patapon 2 (Europe) (En,Fr,De,Es,It).iso
 68aa60b05a0e354f8e82523684017bce	Patapon 2 (USA).iso
 0619a3f9d654805ab3c4c88556813a5c	Patapon 3 (Europe) (En,Fr,De,Es,It,Nl,Pt,Pl,Ru).iso
+635db96c06636c0f66b3eb7f65fc93a8	Patapon 3 (Japan).iso
 0be83220cc3b55ae0726c49d4d44ee31	Patapon 3 (USA) (En,Fr,Es,Pt).iso
 c8468ff4a266f82b65d9e6ec2d3424f8	Pate, Der (Germany).iso
 6f91c51473791754da2efaac51aca313	Patito Feo (Europe) (Es,It,Pt).iso
@@ -1667,13 +1844,16 @@ fe69843bc532fc29538b612f0d6bd372	Phantasy Star Portable (Japan) (Taikenban).iso
 39aea778adec710c6df803bb72fc9125	Phantasy Star Portable (Japan).iso
 32cb39aaf29ebac8966e1f43fcd55cd5	Phantasy Star Portable (USA).iso
 193ccb7d568872deabfdf3d69b314f11	Phantasy Star Portable 2 (Europe).iso
+5eb40c42d468be47b2236b0dd752f3ed	Phantasy Star Portable 2 (Japan) (Taikenban).iso
 bae2bb0857532cead4cece17f721ebd2	Phantasy Star Portable 2 (Japan).iso
 496a8590d855a91f5b08d1e1d0601762	Phantasy Star Portable 2 (USA).iso
 6ac602f335e9a8c6d1fc5aca8a982319	Phantasy Star Portable 2 Infinity (Japan) (Taikenban).iso
 a87370dd02109815eb7b4a9e223216bf	Phantasy Star Portable 2 Infinity (Japan).iso
 790f96939e00d970512f68108e202ed1	Phantom Brave - The Hermuda Triangle (USA).iso
 c2b4ec2cc59dca433d3adf1a7cb03975	PhotoKano (Japan).iso
+aa0e3c0b4423ea23a12c0a89f1502e35	Pia Carrot e Youkoso!! G.P. Gakuen Princess Portable (Japan).iso
 26bc6e5383366623f1f41e18e61411ec	Pilot Academy (Europe) (En,Ja,Fr,De,Es,It).iso
+f1072a5dfcbcc83a3f919532f8c0aaa3	Pilot ni Narou! Flying All Stars (Japan).iso
 afae835facfa1563b0853f2e1e23d797	Pinball Hall of Fame - The Gottlieb Collection (USA).iso
 7495b40b9faf2bba24489fad7dbbb217	Pinball Hall of Fame - The Williams Collection (USA).iso
 37c1073444205a2d6ac7cb5bc3e77a34	Pipe Mania (Asia) (En,Fr).iso
@@ -1687,6 +1867,9 @@ c9efc045c4d438dbab8297ff722e4c36	Piposaru Academia 2 - Aiai Saruge Janken Battle
 6453cc5f84208b573eb542c1462c257b	Pirates of the Caribbean - Dead Man's Chest (USA) (En,Fr).iso
 ed0086d266b8f71e7a6f9944fd8503a8	PixelJunk Monsters - Deluxe (USA).iso
 fc58af1805c1e7711e66c35709fe19a9	PixelJunk Monsters UMD Limited Edition (Asia) (En,Ja).iso
+24bcad3d53364bf6830b218bd29e4cad	Planetarian - Chiisa na Hoshi no Yume (Japan) (v1.00).iso
+a792ecbb973e7de5970a98b766ac05bf	Planetarian - Chiisa na Hoshi no Yume (Japan) (v2.00).iso
+a48f0e2acffcf8601e58b6443a244cbb	Planetarium Creator Oohira Takayuki Kanshuu - Homestar Portable (Japan).iso
 72f70f462847b083d3f4a3f0f3027284	Platypus (Europe) (En,Fr,De,Es,It).iso
 1f40fb406c55d831d06122cd08a67fa5	Platypus (USA).iso
 dfae0fd4f67d34b606ad81f8a5d857c3	PlayChapas Football Edition (Spain).iso
@@ -1703,12 +1886,17 @@ c7f4fcacb89fb37c179d28c48afcc1d8	PlayStation Spot Sen'you UMD Vol. 4 (Japan).iso
 e81e75ddddd3bea5637bbb41f90aad45	PlayStation Spot Sen'you UMD Vol. 5 (Japan).iso
 9ab607c6eaa122e88142948c137664ec	PlayStation Spot Sen'you UMD Vol. 6 (Japan).iso
 201ad72369984f37ab17296dfd2665ae	PlayStation Spot Sen'you UMD Vol. 7 (Japan).iso
+d2c30059ac5de4b318f19a64d757c214	Plus Plum 2 Again (Japan).iso
 16c1f0e17b0cda9de2f8cb240e4ba232	Pocket Pool (USA).iso
 774a414ae588e8bbb5a3d2b12754daa3	Pocket Racers (Europe).iso
 90b320f7304510045464b1d997eb7e66	Pocket Racers (USA).iso
+3dbf93d5635006954b6667718809aef6	Pop'n Music Portable (Japan).iso
 247b26866e5f59222178329964781c41	Pop'n Music Portable 2 (Japan).iso
 98fd7b6d48c000579a4204edcff450ca	PoPoLoCrois (Europe).iso
 aa9c201830f1f58ae5037f639b29583a	PoPoLoCrois (USA).iso
+11645ec431cc0978673825b4743bfe89	PoPoLoCrois Monogatari - Pietro Ouji no Bouken (Japan) (v1.03).iso
+b3cd4510f17aa94636aa1c37a1c557ac	PoPoLoCrois Monogatari - Pietro Ouji no Bouken (Japan) (v2.01).iso
+bd2c032aaba65acbe8d886891ec9cddc	Power Pro Success Legends (Japan).iso
 acf70064a3cec1b1095f6eb5cd387bfb	Power Smash - New Generation (Asia).iso
 acf70064a3cec1b1095f6eb5cd387bfb	Power Smash - New Generation (Japan, Asia).iso
 77cb478e21d188b46cd60c87edae810b	Power Stone Collection (Europe).iso
@@ -1740,6 +1928,10 @@ d8edcf7aaeafe51b6bbda00b1c3c8438	Prinny - Ore ga Shujinkou de Iinsuka (Japan).is
 a011e8570d7b80d29438c10c1edc92f2	Pro Yagu Spirits 2012 (Korea).iso
 ed921d8c1a2c528e7ecb610df17d40b1	Pro Yakyuu Spirits 2010 (Japan).iso
 00f9771765bf931ceba5d57e7d00dda0	Pro Yakyuu Spirits 2011 (Japan).iso
+f9d08e76832bfbd0c62b7b78a2d99ae0	Pro Yakyuu Spirits 2012 (Japan).iso
+e5e47525bd0685dbecca37a1eae5e90b	Pro Yakyuu Spirits 2013 (Japan).iso
+6d18d81f29521d61111b0501b78a65ee	Pro Yakyuu Spirits 2014 (Japan) (v1.00).iso
+472aadbff5f035a7e9eee8f8958b6d46	Pro Yakyuu Spirits 2014 (Japan) (v2.00).iso
 472aadbff5f035a7e9eee8f8958b6d46	Pro Yakyuu Spirits 2014 (Japan).iso
 863ae680c05a1af441350827b34c11b6	Professor Sudoku (Europe) (En,Es,It).iso
 83ebef5f0f646e37fc520f231ffe35f4	ProStroke Golf - World Tour 2007 (Europe).iso
@@ -1810,9 +2002,11 @@ ec343799e50164a247756103b67cc36f	Ratchet & Clank 5 - Gekitotsu! Dodeka Ginga no 
 c6a53596bf7229bee102f77276441476	Reel Fishing - The Great Outdoors (Europe).iso
 8f827f80e7231ae9420c96fbf795cc25	Reel Fishing - The Great Outdoors (USA).iso
 f10faa53caa244e142192d133dcb9927	Rei Chou Aniki (Japan).iso
+f7b079f3404078f58062f6ce01bdf492	Ren'ai Banchou 2 - Midnight Lesson!!! (Japan).iso
 83034d72836f1d4ef0eed5806bfb274b	Rengoku - The Tower of Purgatory (Europe) (En,Fr,De,Es,It).iso
 dc84a2204d46d0c99844888e7df4dd0e	Rengoku - The Tower of Purgatory (USA).iso
 937bc30b2601bbf32b7943c6df898a8f	Rengoku II - The Stairway to H.E.A.V.E.N. (Europe) (En,Fr,De,Es,It).iso
+0327e7eb46f98a8b002f996e752547ec	Rengoku II - The Stairway to H.E.A.V.E.N. (Japan).iso
 eea091f318b8e07c291c0c04dd9d8428	Rengoku II - The Stairway to H.E.A.V.E.N. (USA).iso
 ea0d46a753fefbba31995da042f90e43	Resistance - Houfuku no Toki (Japan) (Test-ban).iso
 2ed6edc9a5f93bbdecdb0d9fd88a0f90	Resistance - Retribution (Europe) (En,Fr,De,Es,It).iso
@@ -1842,8 +2036,12 @@ dd82b9fec41243e15b708d61491af3fb	Rockman Dash 2 - Episode 2 - Ooinaru Isan (Japa
 45dd42377a7e13fca0485586a3dcca21	Rocky Balboa (Europe) (En,Fr,De,Es,It).iso
 7ace43e8190961ec20e3169cf650a006	Rocky Balboa (USA).iso
 3c375cce71024a0a379595cc13048c7e	Rugby League Challenge (Europe).iso
+e5da747d8b38a84963c4ccf191b2f8ad	Rurouni Kenshin - Meiji Kenkaku Romantan Saisen (Japan).iso
 a8c33808ff6906283c6e501a6647f674	Rush (USA).iso
+94f9277358fcffdc491addfb54a6234c	S.Y.K Renshouden Portable (Japan).iso
 3fa0cfbd1bbd64ee72355f6a93582c20	Saigo no Yakusoku no Monogatari (Japan).iso
+f2803dce70b2f80b13605f4a61701b24	Saki Portable (Japan).iso
+3b446f4e86a9e6c5e0edee2604e3a5f3	Sakura Sakura - Haru Urara (Japan).iso
 cb815556fc64ab77340243c460d0e7bd	Sakura Taisen 1 & 2 (Japan, Asia).iso
 b61729fdc2d36330b76215b0933d1775	Sakura-sou no Pet na Kanojo (Japan).iso
 9429b04b83fbca612f3453ce4125647b	Salamander Portable (Japan, Asia).iso
@@ -1856,12 +2054,17 @@ f1084c907fcade84eb35f1585b655e82	Samurai Shodown Anthology (USA).iso
 ff757659df3950786f88eb40f3679d27	Samurai Warriors - State of War (France).iso
 94d89b15e33f3c06b1c4988978e26398	Samurai Warriors - State of War (Germany).iso
 3141c2c780d7ef554f73f0e0ef205881	Samurai Warriors - State of War (USA).iso
+55168c7c00ea2c7ce667c4d7a13b20bd	Sangoku-hime - Sangoku Ransei - Haten no Saihai (Japan).iso
+e3428af5df0324ac685683679edd20b0	Sangokushi VIII (Japan).iso
 e3a1692b530d610645c592592700deb0	Sanguozhi V (Asia).iso
 bee0ae4b33ed3d9204f6c75339309d81	Saru! Get You! P! (Japan, Asia) (v2.00).iso
 0df5c7cb125000b275dc5f7c8f2d8d13	Saru! Get You! P! (Japan) (Beta).iso
+6b6e23055558cc82691e483967e4f192	Saru! Get You! P! (Japan) (v1.06).iso
 3f50e21acc771a4e5528a09c354e622f	Saru! Get You! Piposaru Racer (Asia).iso
 3f50e21acc771a4e5528a09c354e622f	Saru! Get You! Piposaru Racer (Japan, Asia).iso
+253be1ffd1a2c81e761cff494ef56841	Saru! Get You! Piposaru Senki (Japan).iso
 d36b489c434235ce431a32fa22064d52	Saru! Get You! SaruSaru Daisakusen (Japan).iso
+898570cf6df70935caccfdda607f8d7a	Satomi Hakkenden - Hamaji Hime no Ki (Japan).iso
 cecb5d32558c007fff08875e1969c66a	SBK - Superbike World Championship (USA).iso
 d19cf9b7a1ee3cfa42ead92d4ff8e9e6	SBK 08 - Superbike World Championship (Europe) (En,Fr,De,Es,It).iso
 2fcab45ee4acd0926cc9b2a725c2932d	SBK 09 - Superbike World Championship (Europe) (En,Fr,De,Es,It).iso
@@ -1882,6 +2085,7 @@ ca49df0bc472771476e96ff9d40dc8e7	Scrabble (USA).iso
 20ee17516d95b562bd9d0c0fb3ef6c10	SD Gundam - GGeneration Portable (Japan).iso
 8e8b227d9ab7558297bd43d017af75f6	SD Gundam - GGeneration World (Japan, Korea).iso
 8e8b227d9ab7558297bd43d017af75f6	SD Gundam - GGeneration World (Japan).iso
+8c2ec6991e000b8453a8ad03326b675a	SD Gundam GGeneration Overworld (Japan).iso
 dde22ef983682b6ca32aecd614fe34be	Secret Agent Clank (Asia) (En,Fr,De,Es,It).iso
 77b284a7bcdcb2a3587a9960c9e1c9c7	Secret Agent Clank (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl).iso
 556ecec116a0be2000f28b8206db0356	Secret Agent Clank (Korea).iso
