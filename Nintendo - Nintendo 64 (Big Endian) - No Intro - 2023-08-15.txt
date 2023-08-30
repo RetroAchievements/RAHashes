@@ -1,0 +1,1151 @@
+8c23eb21cc69760919e94574807242eb	[BIOS] Nintendo 64 - PIF (Brazil).bin	nointro 2023-08-15	nintendo-n64-bigendian
+d4232dc935cad0650ac2664d52281f3a	[BIOS] Nintendo 64 - PIF (Europe).bin	nointro 2023-08-15	nintendo-n64-bigendian
+5c124e7948ada85da603a522782940d0	[BIOS] Nintendo 64 - PIF (Japan, USA).bin	nointro 2023-08-15	nintendo-n64-bigendian
+34ab1dea3111a233a8b5c5679de22e83	007 - The World Is Not Enough (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+39abe0c383a44c464b408be3e1d6766e	007 - The World Is Not Enough (USA) (v2) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+12bd3fafb4e064b6b0c07b7ee156243b	007 - The World Is Not Enough (USA) (v21) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9d58996a8aa91263b5cd45c385f45fe4	007 - The World Is Not Enough (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+632c98cf281cda776e66685b278a4fa6	1080 Snowboarding (Europe) (En,Ja,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fa27089c425dbab99f19245c5c997613	1080 Snowboarding (Japan, USA) (En,Ja).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e0c4c9a32a35616014624c3f01c355ba	1080 Snowboarding (USA) (En,Ja) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+c6061ad1b4446c4db57cdf094da7c534	1080 Snowboarding (USA) (En,Ja) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0c7b165cf3553ef550067d0c46681097	2048 (World) (En,Fr,Es) (Aftermarket) (Unl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5901624099bbb8f73c6f9229260d18c7	3D Model RGB Test Program (USA) (Test Program).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0a5acfea0c7cf68ae25202040d5ad1eb	40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b88c172ed14f4acb43c4a352d71cc640	40 Winks (USA) (Aftermarket) (Unl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8c3e4fe5f6b2d37c66a71097e8b1c72a	40 Winks (USA) (Proto) (2000-01-10).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ea6a92de5a221a00814f7448bf6f1b31	64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+66335f4dc6ab27034398bc26f263b897	64 Hanafuda - Tenshi no Yakusoku (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2cf9edb51ada9de2ae7ad9fd5acc5580	64 Oozumou (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f7c796371e77e0a6fbd02eb866341952	64 Oozumou 2 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6b947f654775cf5dacd1e5d53d577da7	64 Trump Collection - Alice no Wakuwaku Trump World (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+35ba407ea9e4ef7c0ace8b4f58beec41	Action Replay Pro 64 (Europe) (v3.0) (Unl).bin	nointro 2023-08-15	nintendo-n64-bigendian
+67afa5df80a5cfc91fce1dc918ea0a4f	Action Replay Pro 64 (Europe) (v3.3) (Unl).bin	nointro 2023-08-15	nintendo-n64-bigendian
+7558e3da7225712936d3ba3dce210c36	AeroFighters Assault (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+79fb6e2452af077c5ef1dde5fc810f04	AeroFighters Assault (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+05056045447bf1fba8f9878a7f6009f3	AeroGauge (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e970af3de25bb5ae1154010e26af776f	AeroGauge (Japan) (Demo) (Kiosk).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0620c2d134a0430f4afa208ffeda67b8	AeroGauge (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+72c7ffcea6c1430616867616f5e9d51a	AeroGauge (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4a5c509a20db7a429dc1dd4e219ad4a2	AI Shougi 3 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+86fef7da7cb95d52d5980cd59eab31a5	Aidyn Chronicles - The First Mage (Europe) (Beta) (2001-03-02).z64	nointro 2023-08-15	nintendo-n64-bigendian
+76ae4afb0fdddb8f28856179a3f2cd59	Aidyn Chronicles - The First Mage (Europe) (Beta) (2001-04-10).z64	nointro 2023-08-15	nintendo-n64-bigendian
+54d0a39123c15f74aabb1ecc24d4d6a0	Aidyn Chronicles - The First Mage (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cd24763becfa1d0053e5438b0ef5e75e	Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cc6eae9ed582044cc27945684fd396cd	Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1ac9dec95ad700412a7295da39237155	Aidyn Chronicles - The First Mage (USA) (Beta) (2000-12-05).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e8cddf0c52b72453d52da385322dfe15	Aidyn Chronicles - The First Mage (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+af149336b3ddb899598e7be8740d7dc6	Aidyn Chronicles - The First Mage (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ccee2fcf38dc2200128d75d15db53283	Air Boarder 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e8891f8f498a615a6cbaf75b7ddc9fa6	Airboarder 64 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+256a1cb23f9e1a2762a7a171417b5d68	Akumajou Dracula Mokushiroku - Real Action Adventure (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+47ea239717c4d225c9d0e9fd37b9fcb3	Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e3f4c868917a12bd5e84d94d1c260c7d	All Star Tennis '99 (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+afc3dc9bb737d81903f6ce4875b63ae9	All Star Tennis 99 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+90448c4175ee9d0247674474dcabdfed	All-Star Baseball 2000 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+aada358ce97f06c4df5bf55987268844	All-Star Baseball 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6e01b8d425ae74ef5a0f875c700a3b18	All-Star Baseball 2001 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ed5f1e12da36dbec8a0a24ed98d4aed5	All-Star Baseball 99 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+78551d23f230b58b9f449cdb4a285761	All-Star Baseball 99 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0c2cbafec6f184ad39ef29b2b5e0f44a	Armorines - Project S.W.A.R.M. (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2bc48b3e6f61896b9bc7bef5205cc49c	Armorines - Project S.W.A.R.M. (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6e6e7a703c131adaddf4175e9037a2eb	Armorines - Project S.W.A.R.M. (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+755df7f57edf87706d4c80ff15883312	Army Men - Air Combat (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+53e2872612760133ab7b2cc2e22b847c	Army Men - Sarge's Heroes (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b8085c2edb1c6d23e52ed8c06d92b4f8	Army Men - Sarge's Heroes (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6eea5c4a6256092ed8f9ba8861c689c6	Army Men - Sarge's Heroes 2 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+874c7b7b365d2c20aaa1a0c90c93f9b8	Asteroids Hyper 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7853f02dc66a35bc8c2bc33d03b8f0ca	Automobili Lamborghini (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ec39579f066a9714ff030d07dec3c9d3	Automobili Lamborghini (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8183688a4b7d0a390496b5655bcd252e	Baku Bomberman (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ca956015b6820dcff1c814f3532e18b1	Baku Bomberman 2 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8107825ac2a522057422463ed81e276b	Bakuretsu Muteki Bangaioh (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+09fd63afa1156405e618752fc583df93	Bakushou Jinsei 64 - Mezase! Resort Ou (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3d3855a86fd5a1b4d30beb0f5a4a85af	Banjo to Kazooie no Daibouken (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+715a8816f30fa24b8d174dc5cb6f25a9	Banjo to Kazooie no Daibouken 2 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+06a43bacf5c0687f596df9b018ca6d7f	Banjo-Kazooie (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b11f476d4bc8e039355241e871dc08cf	Banjo-Kazooie (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b29599651a13f681c9923d69354bf4a3	Banjo-Kazooie (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+61b5c5c3e5e1a81e5d37072c01b39b76	Banjo-Tooie (Australia).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8b2e56f18421a67bca861427453a1e19	Banjo-Tooie (Europe) (En,Fr,De,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+40e98faa24ac3ebe1d25cb5e5ddf49e4	Banjo-Tooie (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2c618f6c69c3b4803f08762a03835139	Bass Rush - ECOGEAR PowerWorm Championship (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+684f4f7cefcc0863710799c8a43dd882	Bassmasters 2000 (USA) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+930c7f6e5863471dde1816d28a10eb88	Bassmasters 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a08676124b326b1035b202c83a97468f	Batman Beyond - Return of the Joker (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a5ee8a6c34863e3d0eb8c06ae8668b30	Batman of the Future - Return of the Joker (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d6e667fe10afe8f7116888efde98ae0e	BattleTanx - Global Assault (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+654557c316f901a2ca6f7f4b43343147	BattleTanx - Global Assault (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3406a505c22bac2f40d9bfc6ff08cf86	BattleTanx (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+266c0989ed0929df499389954779ea97	Battlezone - Rise of the Black Dogs (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a94135d163e6091c960adc918c1fb8a7	Beetle Adventure Racing! (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5ffd43089b7334072b2b74421618d973	Beetle Adventure Racing! (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cf97c336479ddbf1217e4dde89d9d2d3	Beetle Adventure Racing! (USA) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+bf6780e2982c16d4a4fdb553be8f9226	Big Mountain 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+42672ba5e98cd21d7f3e3745e69038dd	Bio F.R.E.A.K.S. (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b90ab8f7605d971cc7a6d9ba5e67d1af	Bio F.R.E.A.K.S. (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f77d70959222276491222f31ebff3bf1	Biohazard 2 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+889d4d337ad11ce94357511c725eab6a	Blast Corps (Europe) (En,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5875fc73069077c93e214233b60f0bdc	Blast Corps (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a8dfdff49144627492da9b0b65b91845	Blast Corps (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+16b82d53d7f038a8fe67a78027720516	Blastdozer (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0068e81bf8037e7c8af658f0ddae9400	Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#20).z64	nointro 2023-08-15	nintendo-n64-bigendian
+410bf50920c28ce6d2c36174f659b0d7	Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#53).z64	nointro 2023-08-15	nintendo-n64-bigendian
+31b4a8ed52b48e756b344c9f22736e50	Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+997fd8f79cd6f3cd1c1c1fd21e358717	Blues Brothers 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b27fa5e9ad0cb47bb3a74ffac7bc8edf	Body Harvest (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3b8585ed03e8ddb89d7de456317545e7	Body Harvest (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e627b898a7692c08b595a8d2178e34a0	Bokujou Monogatari 2 (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+24e3ee6a54278db65c463804f2bb6223	Bokujou Monogatari 2 (Japan) (Rev 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1cf31e7f6e0deb2c18c39ddd4eed9e51	Bokujou Monogatari 2 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+aec1fdb0f1caad86c9f457989a4ce482	Bomberman 64 - The Second Attack! (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b68f49aa8f6f7499184ac6b7b8570f2b	Bomberman 64 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d54fd7067bd774e32b57f9c2c0496899	Bomberman 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+093058ece14c8cc1a887b2087eb5cfe9	Bomberman 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ee273763c7391458865ff26c7ea0c3f1	Bomberman Hero - Mirian Oujo o Sukue! (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f79ef0813157880ffbad6199e07579be	Bomberman Hero (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ef2453bff7ad0c4bfa9ab0bd6324ebf3	Bomberman Hero (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fb19afd5e8c49978e6e6ae3622e0498a	Bottom of the 9th (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+62e92102d6fd1701a6e904da6ab58ae8	Brunswick Circuit Pro Bowling (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a2e4be02876cb0f0d1e925ff95090c96	Buck Bumble (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+aee981977d8f069003574cd10a268d47	Buck Bumble (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+41417fce2b37eaae787c5a845a0015c4	Buck Bumble (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ed3e962653a1cd56aab175deee6ee52a	Bug's Life, A (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d2860d4fbd0ec4b2711a6ef8d78f9866	Bug's Life, A (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cbef54768670f4b5602ccbc90150007a	Bug's Life, A (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e3609fd12369c464e832c6d2a4d20790	Bug's Life, A (Italy).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7fd6bffb80f920e01ef869829d485ea3	Bug's Life, A (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8567382d3cd5bc0406b7b4c780f621dc	Bust-A-Move '99 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+094f639a9ba63b2136d2887c8d72bca0	Bust-A-Move 2 - Arcade Edition (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8897a39e34aee4d3f807af255c6617d6	Bust-A-Move 2 - Arcade Edition (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3ea21256ddc4157c3231ae5cc9c4652a	Bust-A-Move 3 DX (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+29b79bf5812e5f9e5ecef073d59f8915	California Speed (Europe) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+965ad2fa317f0644e49a89a3219719cb	California Speed (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ca21467bde6b355e7a15b8f1ada7b24d	Carmageddon 64 (Europe) (En,Fr,De,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+59eb5646fa079bcbd7a340d7a10196dd	Carmageddon 64 (Europe) (En,Fr,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+31bb57c1fad0d47dc2353c1950b11886	Carmageddon 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+62a20938ea563ba5e79fb3799993d17b	Carnivale - Cenzo's Adventure (USA) (Proto) (2000-07-21).z64	nointro 2023-08-15	nintendo-n64-bigendian
+78d5f8a98a5ed21d0817856bcd2ad750	Castlevania - Legacy of Darkness (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+25258460f98f567497b24844abe3a05b	Castlevania - Legacy of Darkness (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+57146b6cd8ee7d96b01a811f98a1ac61	Castlevania (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ce71d1ce0a2b6d597f72cb4fc08f5844	Castlevania (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+06b58673f7d31c56f8fe8186e86f6bd6	Castlevania (USA) (Rev 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1cc5cf3b4d29d8c3ade957648b529dc1	Castlevania (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+31fb88048076ace4bd4205c5f40414ab	Centre Court Tennis (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1cd90b13b7fd6afdcb838f801d807826	Chameleon Twist (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c0eb519122d63a944a122437ec1b98ee	Chameleon Twist (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d8a88acfcd89df7a59d9a1b050fda740	Chameleon Twist (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+397be52d4fb7df1e26c6275e05425571	Chameleon Twist (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+45d1d039ab7926adc748de640afd986a	Chameleon Twist 2 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+740ad4db03952bbe997db09947a41e62	Chameleon Twist 2 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+00327e0b5df6dce6decc31353f33a3d3	Chameleon Twist 2 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+dd53e1f83e8789d23df6af942ffef236	Charlie Blast's Territory (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+747e76d50dc3c06fd35e146129706a60	Charlie Blast's Territory (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8f6bed633be214cf039dbdac356231ce	Chopper Attack (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c37e8afb4f3ecc86d01ce7388ca59347	Chopper Attack (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8287a908e36e79b2d3af0bd22c43ecd9	Choro Q 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9081370141079031ebbdbca56fc8c7d8	Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+78838c202c4ff5a460586451ee9182aa	Chou Kuukan Nighter Pro Yakyuu King (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+97eab4dc83da0ad2890de2aaaa5d109a	Chou Kuukan Nighter Pro Yakyuu King 2 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9181b35a758ef17d1e2dc595df55ee3c	Chou Snobo Kids (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2a0bf5a9a136d57af01d199b16899634	City-Tour GP - Zen-Nihon GT Senshuken (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+30e7e083b978408d5b7760d0ce4dc61d	Clay Fighter - Sculptor's Cut (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+41965b533f3dd95663361d9df68b0c1f	Clay Fighter 63 1-3 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cbbeaff5a9074d1a5507cf46cd683d36	Clay Fighter 63 1-3 (USA) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3207bf22e305c488109b09a03706f36f	Clay Fighter 63 1-3 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+42da4c7d040f9e7cd046a42ec3e68027	Command & Conquer (Europe) (En,Fr).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1a9195662c89dcbea88bcfa99b096cde	Command & Conquer (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b436f4717ac585b0d847756468fd6393	Command & Conquer (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+05194d49c14e52055df72a54d40791e1	Conker's Bad Fur Day (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+13ecbaeef7111d5343d73a80e03e353a	Conker's Bad Fur Day (USA) (Beta) (2000-08-26) (ECTS 2000).z64	nointro 2023-08-15	nintendo-n64-bigendian
+70e9eb9bf2f7bc76ca38ce450ba01c2e	Conker's Bad Fur Day (USA) (Beta) (2000-10-25).z64	nointro 2023-08-15	nintendo-n64-bigendian
+00e2920665f2329b95797a7eaabc2390	Conker's Bad Fur Day (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ae76e243e554510f41f7d9afa05a4978	Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program).z64	nointro 2023-08-15	nintendo-n64-bigendian
+db7a03b77d44db81b8a3fcdfc4b72d8c	Cruis'n Exotica (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+69cd5ba6bc9310b9e37ccb1bc6bd16ad	Cruis'n USA (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+45fc88e2ba6711f25f0de988e719df29	Cruis'n USA (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2838a9018ad2bcb8b7f6161c746a1b71	Cruis'n USA (USA) (Rev 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+41ca21bd737e16ba81168982b74276f1	Cruis'n USA (USA) (Wii Virtual Console).z64	nointro 2023-08-15	nintendo-n64-bigendian
+00a3e885f8d899646228a21d946b2102	Cruis'n USA (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+20db5e4ddb0cd5b04c4bf09cdc95592f	Cruis'n World (Europe) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+af950a1b6c460d7fc3e78375d35047ef	Cruis'n World (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+aada4cbd938e58a447b399a1d46f03e6	Cruis'n World (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a06d2e83cf2628915e8847f609474661	Custom Robo (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+115118dd5e0f02d82ba1bf070a7b78f1	Custom Robo V2 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8c4a4cd472d610cda5459b3a92f21d30	CyberTiger (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+88072f30d4f9cf384b2b3a0300649218	CyberTiger (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1408fcf68b60d845f090107ef355a7e5	Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0b86fa9259e2b751111a1701091644b1	Dance Dance Revolution - Disney Dancing Museum (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4242fde5b74f22aaf5746459e126121f	Dark Rift (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ecb170ebbfda0e932c07524040bcc36c	Dark Rift (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a2a4a0318dab366a595336b6f80ff3ab	Deadly Arts (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c644e318b33c4ebd94695c0c3e1e80ff	Defi au Tetris Magique (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+772fa166e5db51effc77fb8d832ac4d2	Densha de Go! 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1051e1402ee110f3c5e372c9e1c5b338	Derby Stallion 64 (Japan) (Beta) [b].z64	nointro 2023-08-15	nintendo-n64-bigendian
+7f57463856540104b21a5289312b626f	Derby Stallion 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+bda717ecc8434f12f313342485828b58	Destruction Derby 64 (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+749ac5bc4e7f2b17274f6966ddbf6872	Destruction Derby 64 (USA) (1998-07-31) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7fccb47498eec06e96ae9372247d1e90	Destruction Derby 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+54be265e7b2c28ab92bf1a4130acb5a2	Dezaemon 3D (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6b2bafe540e0af052a78e85b992be999	Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0f0b7b78b345fbf2581d834cb4a81245	Diddy Kong Racing (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+10747662a55241b9234cd114c940504f	Diddy Kong Racing (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b31f8cca50f31acc9b999ed5b779d6ed	Diddy Kong Racing (USA) (En,Fr) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4f0e07f0eeac7e5d7ce3a75461888d03	Diddy Kong Racing (USA) (En,Fr).z64	nointro 2023-08-15	nintendo-n64-bigendian
+820929ebbe6fd332ac1720f94b745a8b	Die Hard 64 (USA) (Proto) (Level 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3d1e03b097f2124f8f713013d8219291	Die Hard 64 (USA) (Proto) (Level 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1b28c4ca21648d318bc6dd3ef27bb1fa	Die Hard 64 (USA) (Proto) (Level 3).z64	nointro 2023-08-15	nintendo-n64-bigendian
+49f7bb346ade39d1915c22e090ffd748	Dinosaur Planet (USA) (Proto) (2000-12-01).z64	nointro 2023-08-15	nintendo-n64-bigendian
+56bcdfc8f0b41bf60e6a54bc60144251	Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+00dd77d3d4186d0a91e2e99eb75c2da8	Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+118e9ce360b97a6f8dab2c9f30660bf5	Donkey Kong 64 (Europe) (En,Fr,De,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5b677f4bf93d6578252fcad2c8ceb637	Donkey Kong 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+98a5836e3a5da7bd0b5819e7498acea2	Donkey Kong 64 (USA) (Demo) (Kiosk).z64	nointro 2023-08-15	nintendo-n64-bigendian
+979da0a9f45244939eb9ad5a9a674efa	Donkey Kong 64 (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+aac2d7fca4080078ec8a3a067285e142	Donkey Kong 64 (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9ec41abf2519fc386cadd0731f6e868c	Donkey Kong 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3f345578242eb8c7f8f9710df6432abb	Donsol (World) (Aftermarket) (Unl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+190ccca6526dc4a1f611e3b40f5131c0	Doom 64 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+06f15ef2228c1b1147c41dccaa07d9de	Doom 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+31a8efffe1be68bb1186efa89d9c8896	Doom 64 (USA) (Beta) (1996-12-10).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1b1378bb9ee819f740550f566745af73	Doom 64 (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b67748b64a2cc7efd2f3ad4504561e0e	Doom 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c2166455e94e89e9e3ab612b4377c443	Doraemon - Nobita to 3tsu no Seireiseki (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0580d96a71671c9e6972fdcf5897cc26	Doraemon 2 - Nobita to Hikari no Shinden (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a4a1d490ba67831775fc381b846e2168	Doraemon 3 - Nobita no Machi SOS! (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6c329dc4cc2fc9a96475e8a30abfe735	Doubutsu Banchou (Japan) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a4f7c57c180297b2e7ba5a5feb44fe0b	Doubutsu no Mori (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cace2cabdbd5874f28b5a1310c9a481a	Dr. Mario 64 (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+697db27690b4f031cf91f28bc445a29f	Dr. Mario 64 (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1a7936367413e5d6874abda6d623ad32	Dr. Mario 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4d901e4e15f931fd09e803343017ebfe	Dragon Sword 64 (Europe) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+942fc6737765ac718799a7f66202216c	Dragon Sword 64 (USA) (1999-08-25) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f120fadb52b414eb4fb7d13092ac3cdb	Dual Heroes (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e7652ed5ceceb5b1bc14495c58546d1c	Dual Heroes (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+923d65e69f51858c697e0e5759cd038b	Dual Heroes (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+08ce7620b31851cbb05d386fe22c7109	Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07).z64	nointro 2023-08-15	nintendo-n64-bigendian
+02192b4b3797983bbe5e452336584208	Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+86e98aaca0d90bf744da090539ba4ad8	Duke Nukem - Zero Hour (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e2b73feb0843874ea831a2e0076fcb72	Duke Nukem - Zero Hour (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+73bbd95cd877d6c9c923547da1ba76bd	Duke Nukem - Zero Hour (USA) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+026789d47db5fe202a76f89797b33ac7	Duke Nukem - Zero Hour (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+bb2472b3f8a41fbf3aec3ccef7ea8c78	Duke Nukem 64 (Europe) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8657cba95c409b74c1f5632cbc36643f	Duke Nukem 64 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e2e79c7167bdb26e176d220904739c91	Duke Nukem 64 (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c7f1a43764a26da2e43f2a36a5f76e4c	Duke Nukem 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+bf2df4b86faa2181a7acfe2643fa2293	Earthworm Jim 3D (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+980dfb38ad9a883119de135f45b7db36	Earthworm Jim 3D (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1830ede2557e8685e6f76d05cc65076a	ECW Hardcore Revolution (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5d1e41aa28169e71b4919fa08f1acd9b	ECW Hardcore Revolution (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+bc8c8ebe227a75e23fdc339d06aade19	ECW Hardcore Revolution (USA) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8eebb16b7a4d39ae8bc8cccbc41f0a01	ECW Hardcore Revolution (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+846efe679f0cb17621c22d25c2a800cd	EEPROM & SRAM Erase Program (USA) (v1.2) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+b4e13ec6150e4e84a25cec4e879b25b5	EEPROM & SRAM Erase Program (USA) (v1.2) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+935dd85ad198bbde92161cdce47cbfb3	Eikou no Saint Andrews (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9b456acb96291fc8b55232a08ae03346	Eltale Monsters (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8fa253fd69b73df9a831ef2f731491f2	Excitebike 64 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+bf15a61aff71c93bf5e05243f57bca1d	Excitebike 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e0018c33346714b63a55c0e040f23dea	Excitebike 64 (USA) (Demo) (Kiosk).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e88fbfe05d2c46635722f22eb9422dc7	Excitebike 64 (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+bc34b1aabd1109593abf9cf017573201	Excitebike 64 (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+21954e4e404d9e87dbdb87dd309f3e94	Excitebike 64 (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7200d1c1cf489fafff767729f215e6e6	Excitebike 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3b2ca0da0810c95b31df8c1fb8811be2	Extreme-G (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a7cd65e5a4a8838d1cd452ba66e74df6	Extreme-G (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3e660d3f991c0529e90bfec0244db31a	Extreme-G (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+bb7f98e657fb4b5fcc7dc04bd72e2d2b	Extreme-G XG2 (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f17884a2c16fb6fd11a74d65b1388b4a	Extreme-G XG2 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+44fe06ba3686c02a7988f27600a533da	Extreme-G XG2 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9fbe3363da6c146ef2e29605bca834ff	F-1 World Grand Prix (Europe) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fac450eaff8fa46a1414db02e6eeab9f	F-1 World Grand Prix (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+35f6c42d5a9284688284c24250f4d6be	F-1 World Grand Prix (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a8c78454c70bd73375aaf69c4078d5da	F-1 World Grand Prix (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f248f0aae609111ba9dff9fd7afbc485	F-1 World Grand Prix (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a81b1de864df3f4bb0903760be673f21	F-1 World Grand Prix (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+bc0fd2468ac7769a37c3c58cd5699585	F-1 World Grand Prix II (Europe) (En,Fr,De,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ee79a8fe287b5dcaea584439363342fc	F-Zero X (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+58d200d43620007314304f4e6c9e6528	F-Zero X (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+95bf2153aaad6faff3fb42fecd2f0200	F-Zero X (USA) (Beta) (The Legend of Zelda - Ocarina of Time leftover data).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4da397a94cab50677ed16699ad21d376	F-Zero X (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+036ec306fc0a6bc3afd967ede4cf4a6f	F-Zero X (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+753437d0d8ada1d12f3f9cf0f0a5171f	F-Zero X (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a6bd93ea576cdf8569f68171452f7e8a	F1 Pole Position 64 (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+049db657f4223d949f56e9dc5b6a9180	F1 Pole Position 64 (USA) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+44d5f87127053a21db120bd108b7ac0c	F1 Racing Championship (Brazil) (En,Fr).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9581fc6ceac86dc8a2aee4053043e422	F1 Racing Championship (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+40246128052b0aa0fffc7a06a72930f2	F1 Racing Championship (USA) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d99b1a3f6d72defd76f3620959b94944	Famista 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3611779f29997267622cbc80e2d087cc	FIFA - Road to World Cup 98 - World Cup e no Michi (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+26b18d35984528ae2f90adbb2f2642f7	FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2c6d146a8473511cfcfbbe8518f49d71	FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9a7006212947ee7648ee1d13162e55e0	FIFA 64 (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6432c622c05ea9cd3217e280ac2ce37c	FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).z64	nointro 2023-08-15	nintendo-n64-bigendian
+148de3073727b9fd156f10afadd46864	FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cc7c58a032aaba19e72ccbfa6b3eeff6	FIFA Soccer 64 (USA) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+04dd2a319f4f5c22569b612cfdf9f00c	Fighter Destiny 2 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ef5cb24ce3fe4e0f850901205437b574	Fighters Destiny (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+02689be7b904b76ee083489579e6df89	Fighters Destiny (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1cf379aca2397222af9f3dc5d8e3c444	Fighters Destiny (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d61d97a7658c419a25a9bac96b0a3df8	Fighters Destiny (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+722c3a74a90305d6079a37994cebf5b2	Fighting Cup (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0035e8205336982e362402aaea37d147	Fighting Force 64 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e7008d17fd71d9c2bda1362c885388b2	Fighting Force 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+88a02053a4c7530f7a5450852fba98a9	Fission Failure 64 (World) (Aftermarket) (Unl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4b175ed0f7ebcb74f529af2e482fdf96	Flood64 (World) (En,Fr,Es) (Aftermarket) (Unl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+add115aad0ab7d33bfd243936d809178	Flying Dragon (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+272b359d8f8ac48acbf053c262f422e4	Flying Dragon (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8286ded701dfa22436d311bd5b93bd29	Forsaken (Europe) (En,Fr,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+74650f7154e0b2dd7c364f511b0d6a77	Forsaken (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5cdee5503a57d14533c66b35a5848899	Forsaken 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+360dc6be6d06dca12e53c077ac0d2571	Fox Sports College Hoops '99 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+19d8cc329244f73f9a0e0750e3688d58	Freak Boy (Unknown) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+097189b4c9bf6775e4685951b6e66f24	Frogger 2 (USA) (Proto 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+27f61a55e27ea7f1ede4ca11966acc7c	Frogger 2 (USA) (Proto 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+bbcde4966bee5602a80d9b8c1011dfa6	Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+316c59dae45c20250a0419a937e7d65b	G.A.S.P!! Fighters' NEXTream (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6c73558de5a1eee6597d7264f9a11b0c	G.A.S.P!! Fighters' NEXTream (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1a56fe2b2fe339c7dd4ff8d37ec8654b	GameBooster 64 (Europe) (v1.1) (Unl).bin	nointro 2023-08-15	nintendo-n64-bigendian
+60d0264b38e22ef0d6b9549e4c81c29f	GameBooster 64 (USA) (v1.1) (Unl).bin	nointro 2023-08-15	nintendo-n64-bigendian
+437efd7fd7f84f4c0f802d3bf1f8464e	GameShark Pro (USA) (v2.0) (Unl).bin	nointro 2023-08-15	nintendo-n64-bigendian
+9f556d184d945369ddd11b5f815814a8	GameShark Pro (USA) (v3.3) (Unl).bin	nointro 2023-08-15	nintendo-n64-bigendian
+96ca36d474e82c270a129d775c63167a	Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9b929e0bf8d63e62820f2fa6257cc5cf	Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8d8f3a8393f3f5489b3b144369565594	Ganbare! Nippon! Olympics 2000 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+28c2108a375f7731e719333a09439d2f	Gauntlet Legends (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3b2615d754a61e45b1034d555d830a78	Gauntlet Legends (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b003d72f2dbc9701f842f4d5b9c2f392	Gauntlet Legends (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+85ba92b8c4a20ff41b73623a1e794c8b	Gauntlet Legends (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9cb963e8b71f18568f78ec1af120362e	Gauntlet Legends (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5270d98f9e67dc7ef354ece109c2a18f	Getter Love!! - Cho Renai Party Game Tanjou (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9f0492a34d7a2d7c4e9f29dc1848a04a	Gex 3 - Deep Cover Gecko (Europe) (En,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+43b9a7a5ccb6ea3f4860f9f80d73669d	Gex 3 - Deep Cover Gecko (Europe) (Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6770ddec84eb21a5e0d0f55dfd52a01a	Gex 3 - Deep Cover Gecko (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5bba457e286d250101ce274e0e58080d	Gex 64 - Enter the Gecko (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+47f9d900c97ece154bb40a9c6dccd3fd	Gex 64 - Enter the Gecko (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+de127aa55773643e1600fe2b4c69bdbe	Glamorous Zombie Flakes (World) (Aftermarket) (Unl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2f2163c53db135792331df00398b3f87	Glover (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+43c3375bbd6496b6c51d08ec193bc8ed	Glover (USA) (1998-07-16) (Beta) [b].z64	nointro 2023-08-15	nintendo-n64-bigendian
+9cc14c73eb1202c3d19633ee05ad5fc4	Glover (USA) (1998-09-04) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+87aa5740dff79291ee97832da1f86205	Glover (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f59e3a7ed3454124680f3a16d38fc42f	Glover 2 (USA) (Proto 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d06713b543022414a1a09261f0be42a6	Glover 2 (USA) (Proto 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2bde49f2855030de342976c9a95b81b3	Goemon - Mononoke Sugoroku (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+29bc5c1a24d3979d376ad421000ac9cb	Goemon's Great Adventure (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+231bac1afb3de138072c2d697783059b	Golden Nugget 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cff69b70a8ad674a0efe5558765855c9	GoldenEye 007 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1880da358f875c0740d4a6731e110109	GoldenEye 007 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ea0e3e6aefa58738a12906298373218b	GoldenEye 007 (USA, Europe) (Switch Online).z64	nointro 2023-08-15	nintendo-n64-bigendian
+70c525880240c1e838b8b1be35666c3b	GoldenEye 007 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+628aa3cd492559b705488f634797e045	GT 64 - Championship Edition (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4690cab33d0bc10b62d62cecdcaa50a1	GT 64 - Championship Edition (USA) (1998-05-25) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fe81aa381719fada693d803bae7d5eb9	GT 64 - Championship Edition (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3d4c7b11076bafa4620bcc154c0eeef3	Hamster Monogatari 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a02a4fb4b93e9847348440652cef8d4d	Harukanaru Augusta - Masters '98 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6da848a70d83ece130d274124760928e	Harvest Moon 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5e8539e037eea88c5a2746f60e431c8d	Heiwa Pachinko World 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1546877fd85c00a83515005727e5fda5	Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+70bd594e286a5b00f597384db964d9d8	Hercules - The Legendary Journeys (USA) (Beta 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5f1304c94e1b355398abd8141657382d	Hercules - The Legendary Journeys (USA) (Beta 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fa1bb2483dae322f2b336878b3b95229	Hercules - The Legendary Journeys (USA) (Beta 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6bbd8c42f6ef8f5b9541d6f4db657dd7	Hercules - The Legendary Journeys (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2080262a251d270f9ce819887f2104a7	Hexen (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a5921c00111200257284ce0aba0904ca	Hexen (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+08cbb141dec604e4dad2787f237d57a2	Hexen (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+672152cf4dcb5d0a19662c11eff71452	Hexen (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+eb98f1b8c6898af7417f6882946da9b3	Hexen (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1280c78f286fc1c437a4905ee42c47f1	Hey You, Pikachu! (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+73084495f3209c54900525436bbbc531	Hiryuu no Ken Twin (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+80cc112f62e9a8581a1bb6a1d1e1488b	Holy Magic Century (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+988f5abd96259196343659e913666820	Holy Magic Century (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ab676c3e9d26a77450ddb4aacd1a3861	Holy Magic Century (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ffdb4456f799722bcfe430632c3986ae	Hoshi no Kirby 64 (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3ec0471e2cbee17471ddbf80c56606d5	Hoshi no Kirby 64 (Japan) (Rev 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+35e039f8e79843917d02be06d00c457b	Hoshi no Kirby 64 (Japan) (Rev 3).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b1a67aebc2be89a800e5eb60c0dfa968	Hoshi no Kirby 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ef34da35ef8a0734843cb182c19feb26	Hot Wheels - Turbo Racing (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4311a1aef1898678331f7e3486055307	Hot Wheels - Turbo Racing (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+26f7d8f4640ebdfa823f84e5f89d62bf	HSV Adventure Racing! (Australia).z64	nointro 2023-08-15	nintendo-n64-bigendian
+97e706ed9cc6f30708ffdc187c85d59f	Human Grand Prix - The New Generation (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+da861c4d9202f661575466450a27c412	Hybrid Heaven (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9946eff915fc947a226407ac1f7b35c4	Hybrid Heaven (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c47e95bb32ab132c41d67bd243f9e02a	Hybrid Heaven (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+434bb8de49011573ac38e893224c5623	Hydro Thunder (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4b4c85d9dd2d460adafabae8db48b4fa	Hydro Thunder (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c8838c1838d8813c4d6978014a6794d1	Hydro Thunder (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+3fd29c7f2bc7af39b249d1f13b3e4247	Hydro Thunder (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+54f43e6b68782e98caabea5e7976b2be	Hydro Thunder (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d2f7b3ace75a2ce7a06beac929711d94	Hyper Olympics in Nagano 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+92a6ffa1c8d537c7a97c5c613cae05c6	Ide Yosuke no Mahjong Juku (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c70b0b680807f2b8c2c3d5dc495fa8c2	Iggy-kun no Bura Bura Poyon (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+25b297143e9e5ccbb4b80a7fb6af399b	Iggy's Reckin' Balls (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+464211abb602ee1005974d2d835a3bcf	Iggy's Reckin' Balls (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+bf3e84cdd01cac05987fd8da5191534b	In-Fisherman - Bass Hunter 64 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c605f40bf669e00a5e51baf0d00621ea	In-Fisherman - Bass Hunter 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+63d7ab29ba3dfc5d5b12c1d9c5832355	Indiana Jones and the Infernal Machine (Australia) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+70de1eab508596b6bbefd168b5d07194	Indiana Jones and the Infernal Machine (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a7781d441af55c4ff8afc68ab3a59313	Indy Racing 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+21ea0b80849b084ac3138fde780e5dbb	International Superstar Soccer '98 (Europe) (1998-03-02) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+34489365b550f32c97337d86d52d8c84	International Superstar Soccer '98 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7dcc05b98e2fa690b478808ebbad5d1a	International Superstar Soccer '98 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9f101b6f6bef4f267deb5c6c37a24b97	International Superstar Soccer 2000 (Europe) (En,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cc2be97a16744860fae8a94611479c4c	International Superstar Soccer 2000 (Europe) (Fr,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+de9498be76134bd066aa714ce2c71a16	International Superstar Soccer 2000 (USA) (En,Es) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+23a4ed8d79882594206173b1d476f0e9	International Superstar Soccer 2000 (USA) (En,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+376803f28ca8b2133671783419933ca2	International Superstar Soccer 64 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6a345402ae1db5ce1041365e36126bce	International Superstar Soccer 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+970488fb7d9c5c25bd924e6f898b84a0	International Track & Field - Summer Games (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+35662cfd07fd6af4bab90ca23f7c98e6	International Track & Field 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+13893db9e919c4e7cf0c0b0064ccb554	Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1247b093e0fd6ccfd50d15de59301076	J.League Dynamite Soccer 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+30e23d3de446e37e5e7fbef6794a6fc9	J.League Eleven Beat 1997 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+209db8333eeb526ae9a91209175348ce	J.League Live 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+793dbf504e20c92f6b73b4e8a25a220c	J.League Tactics Soccer (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+800acc7d609ecdb3e09e68cbd05f5fa0	J.League Tactics Soccer (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8ee01de7da2e9ad08d7ed913a5ee8632	Jangou Simulation Mahjong Dou 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a45f7200537c0d928a88cbba2dfeb680	Jeopardy! (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4c5be1bfc1cccff501eba2a685226962	Jeremy McGrath Supercross 2000 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ab2c4f7ee5b773f1e63362fe32223385	Jeremy McGrath Supercross 2000 (USA) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8046a4b8abd4353b2ab9696106ccf8d2	Jeremy McGrath Supercross 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+baaf237e71aa7526c9b2f01c08b68a53	Jet Force Gemini (Europe) (En,Fr,De,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5bbe9ade7171f2e1daaa7c48fad38728	Jet Force Gemini (USA) (Demo) (Kiosk).z64	nointro 2023-08-15	nintendo-n64-bigendian
+772cc6eab2620d2d3cdc17bbc26c4f68	Jet Force Gemini (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+482bdd39ad2574b943db780b12a9bdfb	Jikkyou G1 Stable (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+878d8a26fd02fdb08200464cb6f566ef	Jikkyou G1 Stable (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d9f8b84fd6fd21f0b1d750062ac86efc	Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1fb40ee386b58feab6cf29ddb33bcccc	Jikkyou J.League 1999 - Perfect Striker 2 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+58153ac5c4030d1bfd3c15cf57fb02e7	Jikkyou J.League Perfect Striker (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f13d0803885b73b4a6b35eddd40b9253	Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7fc933a64884a382aa07605ea7204ff5	Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b653c963ed8d3a749676810f07cfe4e5	Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+23409668a6e6c4ece7b5fb0b7d0e8f2c	Jikkyou Powerful Pro Yakyuu 2000 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ada39573b25804610d8fafaff741b088	Jikkyou Powerful Pro Yakyuu 4 (Japan) (1996-11-30) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b454490eb44f0978f009fa41de8c478e	Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fda57f65eb159278223eb9d03267c27f	Jikkyou Powerful Pro Yakyuu 4 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6ef19bf8d8d6196390745f1b858ac16a	Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+68a27fbab060857c267a639931d2c3d6	Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e9f989e09e3f1519aefe619889a4f710	Jikkyou Powerful Pro Yakyuu 5 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+23ee24faba0edfb04b5b0407e174496b	Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+03bd8e5ca2b1b7d74398db4739979282	Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+060d0313e23b660180441fcc7d24d7db	Jikkyou Powerful Pro Yakyuu 6 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+538b54c2aaea73faa3a021d42a3225be	Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2e5fd9303138e8f558bf67bb9e799960	Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a05e7db2409deecca36e48e9d931cacb	Jikkyou World Soccer - World Cup France '98 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ef0f425689586850a6f5796124b0c85b	Jikkyou World Soccer 3 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7b261247150c431de55ab371e8b46ea8	Jikuu Senshi Turok (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+68230d510015ff6817ef898c0b8b636c	Jinsei Game 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7ab29c6ad2d8f4007d8213eb3411e0bd	John Romero's Daikatana (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+57d31ea7121dd5a05b547225efa5cfd7	John Romero's Daikatana (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5b4c268422469f50b94779e655f2b798	John Romero's Daikatana (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+dff0efe2b35fcde506d21b0c0bd373a5	Kakutou Denshou - F-Cup Maniax (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+eec0fab75af59e9c23e6de2132de89ff	Ken Griffey Jr.'s Slugfest (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c93d92f10a1a97d2ba87386be7d178fd	Killer Instinct Gold (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4c9b419dc583c0df4ab908adf83bfc65	Killer Instinct Gold (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+dd0a82fcc10397afb37f12bb7f94e67a	Killer Instinct Gold (USA) (Rev 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8e33ad20c31feb61d7230fad28846c5c	Killer Instinct Gold (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cca4e87ec206b5b65aeab9531c0f275b	King Hill 64 - Extreme Snowboarding (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+32257bfffd9b2d680f582e148e9b0611	Kiratto Kaiketsu! 64 Tanteidan (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a44b7a612964a6d6139d0426e569d9c9	Kirby 64 - The Crystal Shards (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+73a0681d3ec74b8edd919c6c204d8054	Kirby 64 - The Crystal Shards (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+79748edc4fd32e263c5a18d73b519736	Kirby 64 - The Crystal Shards (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d33e4254336383a17ff4728360562ada	Kirby 64 - The Crystal Shards (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d31a94a5685a21a932cc886d64cc9b21	Knife Edge - Nose Gunner (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+436ba873e9466aab237d9429348a5f70	Knife Edge - Nose Gunner (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8043d829fcd4f8f72dd81e5c6dde916f	Knife Edge - Nose Gunner (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e95d73ff55fbb63e79aa9eab14608584	Knockout Kings 2000 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+008b473841ce4d9ac050d55f99b4b5d4	Knockout Kings 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c6b01c020fdfd2e5c037c5a330b161ad	Kobe Bryant in NBA Courtside (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d37c79e4e4eabcb5dc6a07bd76688223	Kobe Bryant in NBA Courtside (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+eb11fc0797ae1107201c4601fee5471a	Last Legion UX (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+02f963fa8f95e3a7f0b6c13d81999ba9	Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug).z64	nointro 2023-08-15	nintendo-n64-bigendian
+609b47b79da21f3df9b31d06c95c09a1	Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console).z64	nointro 2023-08-15	nintendo-n64-bigendian
+beccfded43a2f159d03555027462a950	Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+13fab67e603b002ceaf0eea84130e973	Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+dbe9af0db46256e42b5c67902b696549	Legend of Zelda, The - Majora's Mask (Europe) (GameCube).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8f281800fba5ddcb1d2b377731fc0215	Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ac0751dbc23ab2ec0c3144203aca0003	Legend of Zelda, The - Majora's Mask (USA) (GameCube).z64	nointro 2023-08-15	nintendo-n64-bigendian
+10d4e6f1a66236bf2827f681628a3420	Legend of Zelda, The - Majora's Mask (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+f6738180b95d46f6355855d1da8dbb0b	Legend of Zelda, The - Majora's Mask (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2a0a8acb61538235bc1094d297fb6556	Legend of Zelda, The - Majora's Mask (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+09ae099051bdf6377d482d1944171dfc	Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube) (Debug).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1618403427e4344a57833043db5ce3c3	Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube).z64	nointro 2023-08-15	nintendo-n64-bigendian
+da35577fe54579f6a266931cc75f512d	Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ab1ca59d0039e3b34d82db650b54d7b9	Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3c10b67a76616ae2c162def7528724cf	Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-21) (GameCube) (Debug).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d714580dd74c2c033f5e1b6dc0aeac77	Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e040de91a74b61e3201db0e2323f768a	Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2c27b4e000e85fd78dbca551f1b1c965	Legend of Zelda, The - Ocarina of Time (Europe) (GameCube).z64	nointro 2023-08-15	nintendo-n64-bigendian
+21f7b4a4ff463464bfc23498c1ab9da1	Legend of Zelda, The - Ocarina of Time (USA) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cd09029edcfb7c097ac01986a0f83d3f	Legend of Zelda, The - Ocarina of Time (USA) (GameCube).z64	nointro 2023-08-15	nintendo-n64-bigendian
+bc24ac3f3a3109139ddbe71b3b482050	Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+74072c944a82c34190f412ee96a51b13	Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+721fdcc6f5f34be55c43a807f2a16af4	Legend of Zelda, The - Ocarina of Time (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+57a9719ad547c516342e1a15d5c28c3d	Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5bd1fe107bf8106b2ab6650abecd54d6	Legend of Zelda, The - Ocarina of Time (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2ad2a06456ea7d3b231cf9e406e6ae76	Legend of Zelda, The - The Sealed Palace (USA) (v1.21) (Aftermarket) (Pirate).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c65d67dd5b61ebc1f58d7202dde78bbe	Legend of Zelda, The - The Sealed Palace (USA) (v1.3) (Aftermarket) (Pirate).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6310c7173385ed2b06020f3b90158e9e	LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).z64	nointro 2023-08-15	nintendo-n64-bigendian
+26b5eaa13dc5b5e35307fe8c0cf5b6ba	LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).z64	nointro 2023-08-15	nintendo-n64-bigendian
+aee5016e6d60d12ad768e9f6d10adde8	Let's Smash (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e62f4fdcc82c244ba9709e40756d9b62	Lode Runner 3-D (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d2bd8dd8c3be1e8f0b8ae49206dbd7e5	Lode Runner 3-D (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d038813541589f0b3f1f900f4fd22c9b	Lode Runner 3-D (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7a99628edf0a6602d0c408f31b701435	Lylat Wars (Australia) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+884ccca35cbeedb8ed288326f9662100	Lylatwars (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+523883a766c662e8377cd256755b27b4	Mace - The Dark Age (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3eb81ab11b8c58305a64ce06817d0538	Mace - The Dark Age (USA) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+39a2bca1c17cd4cf1a9f3ae2b725b5c6	Mace - The Dark Age (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+67c96076459eb5f71733f39d7fcc76a3	Madden Football 64 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+903b912ce88626900221731224e9dbe8	Madden Football 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+955d19e26b4ba7cc941f86a54a0fc13d	Madden NFL 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+441fa65faa5c12339f89a0bb7db43c8f	Madden NFL 2001 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ad0f2ec565d7575fb37512bc8df8a092	Madden NFL 2002 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e7bf80861a0ab2a788959463d953b5d5	Madden NFL 99 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5f3d42d5f96191f3ce50d70e0e42127a	Madden NFL 99 (USA) (1998-08-05) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5ad80a8ef44dee1fdc456d66104165b4	Madden NFL 99 (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+507ceab72ef2a1bf145bf190f5ce1c80	Madden NFL 99 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+20e51b27e8098a9d101b44689014c281	Magical Tetris Challenge (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e0992a90191be4f1b2ba02258599334e	Magical Tetris Challenge (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+79fcc98002d1f4c79deaf55784222df8	Magical Tetris Challenge (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f1ff1f364c459701f42beb8989675d44	Magical Tetris Challenge featuring Mickey (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8ae2e8f0c356fee638c8d908dcbb3381	Mahjong 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e942a3eeb1eb572badd6f705eb12a22c	Mahjong Hourouki Classic (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cf0d228e8efdf823a227979bb352dd5b	Mahjong Master (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+152b9939a5f50734d5401980028856b4	Major League Baseball Featuring Ken Griffey Jr. (Australia).z64	nointro 2023-08-15	nintendo-n64-bigendian
+764f22ad3d0f59667a7f083d2f789b31	Major League Baseball Featuring Ken Griffey Jr. (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+55634ff90ee997790781f79a5b0097ee	Mario Golf (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+77b511becb278dac7c383e9f9109a71a	Mario Golf (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+335c3f0ca75a77b222ca50e7af308563	Mario Golf (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+903e6929666531d72d05d1e4c522e305	Mario Golf (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+570b4f55a3005b709e6ed5d625981b90	Mario Golf 64 (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cd87ba2998d63c13b4366eb2c54e1eb6	Mario Golf 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2bb149a583fdefea96805f628fe42fd9	Mario Kart 64 (Europe) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8fad1e4fa7baf1443b7f21ad1947b429	Mario Kart 64 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+60535265bae43ddfcbdb0d71594b1693	Mario Kart 64 (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+bf964ceca78a13a82055ebda80b95cca	Mario Kart 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+13a6b6a82c52fedaab208ec00467ac1c	Mario Kart 64 (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+f4ea3e26711521ceb467d96bc418dda5	Mario Kart 64 (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3a67d9986f54eb282924fca4cd5f6dff	Mario Kart 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7f4ed2aaf94a2197b0ad63c6ece9dea9	Mario no Photopie (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9773150709bd804b8e57e35f1d6b0eed	Mario Party (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3f556cc3b3a996cd2f471fa0d992d529	Mario Party (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8bc2712139fbf0c56c8ea835802c52dc	Mario Party (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4a834d275abf14a6255aa11be81e339d	Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f70112b652b0ee4856af83f4e8005c31	Mario Party 2 (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9e25ffe8fb0931f67b4e42c5f74ecbc0	Mario Party 2 (Japan) (Wii Virtual Console).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f23e4cd437465f3e725262253cf3ea59	Mario Party 2 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+54765a3b1dcc6eb3c29c1891958da5e2	Mario Party 2 (USA) (Wii Virtual Console).z64	nointro 2023-08-15	nintendo-n64-bigendian
+04840612a35ece222afdb2dfbf926409	Mario Party 2 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8e62ec6fbe3cc9ff6284191c9c88e68f	Mario Party 3 (Europe) (En,Fr,De,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ed99f330ce7a2638ab13351012eeb86b	Mario Party 3 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f6e3475f64b966b3ff2867ca69dbf759	Mario Party 3 (USA) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+32feadd97e77beb453fe44a119e2daa3	Mario Party 3 (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+5f157c80a9a6941a8986ac9e292b01cb	Mario Party 3 (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+76a8bbc81bc2060ec99c9645867237cc	Mario Party 3 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+df54f17fb84fb5b5bcf6aa9af65b0942	Mario Story (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d40fb0e87996af902eff9c194027fc3b	Mario Tennis (Europe) (Wii Virtual Console).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fff9b3e22abb9b60215dafb13ad5a4de	Mario Tennis (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c08f0b1fbaa6ad8709c91f9a088d5bfb	Mario Tennis (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+dfb78505e91a874662618d8c1076a58b	Mario Tennis (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4731025e850faf8c0500dc04e1a3bff2	Mario Tennis (USA) (Wii Virtual Console).z64	nointro 2023-08-15	nintendo-n64-bigendian
+759358fad1ed5ae31dcb2001a07f2fe5	Mario Tennis (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+137a4e7dd0485edccb3bf598b1472d11	Mario Tennis 64 (Japan) (Wii Virtual Console).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8eb1c2443d0b2e6eda52a4eea66d6c35	Mario Tennis 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cd0824e9405185af434837ba1c8c0cd5	Mega Man 64 (USA) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3620674acb51e436d5150738ac1c0969	Mega Man 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a4039368e0472c68e3072c02c7a80f94	Mia Hamm Soccer 64 (USA) (En,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+033d72e91b2ad5c47835be02da38a6e4	Michael Owen's WLS 2000 (Europe) (En,Fr,De,Es,It) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+892222cc4baf9958405d20bc492175bf	Michael Owen's WLS 2000 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+288a514e98972bf9d329167aa29e66b6	Mickey no Racing Challenge USA (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5ba3dc37860c08a209f24286b8dfec8c	Mickey's Speedway USA (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0bf64427cf68e49c70e9ec2c9d815209	Mickey's Speedway USA (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9a8465e302263d635557a14aa197fe3c	Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+74eb415e16c333b252847a8e09432fd9	Micro Machines 64 Turbo (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+46b62795678d47432ff6d567cf42095a	Midway's Greatest Arcade Hits - Volume 1 (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+93a6e228baf65682501442582e2e0e8d	Midway's Greatest Arcade Hits - Volume 1 (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2b86775ea4d848202e4f4a39c33571ca	Midway's Greatest Arcade Hits - Volume 1 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+eb1908e51c8d10af8b9caf77797bfe00	Mike Piazza's Strike Zone (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+43b02af2789990a14f77ce020e6f135c	Milo's Astro Lanes (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4f256146bac4a3dde5ad0d5f9c909251	Milo's Astro Lanes (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9c6cf9d3cb5852439de4ef4a399253b9	Mini Racers (USA) (Ja) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+eb3b078a74d4dc827e1e79791004dfbb	Mischief Makers (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2ee917366f64a06472d7622a2a05990e	Mischief Makers (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+495a9bffd6620be43225db7133373fc5	Mischief Makers (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c1b7c20f64364206ac8525c797113754	Mission - Impossible (Europe) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+599b5d40b51f53c2c9a909e0139702fc	Mission - Impossible (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fd0c0e8c523437f9b6b630e369fdfc69	Mission - Impossible (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4111482c92ee806484aaa2c210893a52	Mission - Impossible (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+66c7eb8148e0714b5a71f5717dff8642	Mission - Impossible (Italy).z64	nointro 2023-08-15	nintendo-n64-bigendian
+16a3143dc0e5fe6639f49db7a51d24d4	Mission - Impossible (Spain) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d1ba3b1899576a4b67908abb6544d75a	Mission - Impossible (Spain).z64	nointro 2023-08-15	nintendo-n64-bigendian
+eebdfbd7cb57202d70cfffcaaf55e93e	Mission - Impossible (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c93a17d130b96fba27a0e959cab2a450	Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4ff9589a3224aaa46e9877d6b25e68e3	Monaco Grand Prix (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d51506edb0a941a00eb45850703b32cb	Monopoly (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e3b408997d7db91f8219f168c6d57d26	Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+514d61d3b3d5e6326869783eb2e84a00	Monster Truck Madness 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+462b9c4f38758c2e558312ac60df2b91	Morita Shougi 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+264b82f0fc2431d6eefde9c9f3ed7596	Mortal Kombat 4 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+10a21b65a0e82bce0952c281370b893a	Mortal Kombat 4 (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+08157e5657048aa90783d772d2940e1f	Mortal Kombat 4 (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c70b91430866300ce38b49098019ef9d	Mortal Kombat 4 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+38a82a56ae61a4d354c6a26e64d25e1c	Mortal Kombat Mythologies - Sub-Zero (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+deec4faec416f4e02d934c2e42c0caad	Mortal Kombat Mythologies - Sub-Zero (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7a558bbad8ce8828414a9cf3b044a87d	Mortal Kombat Trilogy (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b6a7b85c123df4e0b9cc118578dbc9a2	Mortal Kombat Trilogy (USA) (1996-05-13) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+26129419799db01bfe79f279ec43b334	Mortal Kombat Trilogy (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3dcb15043063bd656a0223c519218cfb	Mortal Kombat Trilogy (USA) (Rev 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9b7f29aab911d6753f2011c48da752bf	Mortal Kombat Trilogy (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0054b7fc0c2acbed650efe727cdba472	MRC - Multi-Racing Championship (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8e18064a2c4b3ec15a20c3d676644b3a	MRC - Multi-Racing Championship (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fc61d60f2c6fe4610f70ce4949a7a062	MRC - Multi-Racing Championship (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+08bea3310e778a6584eb64cd3f15f86e	Ms. Pac-Man - Maze Madness (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e6b5c17b7bbbb7c432b3506c085d16c4	Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+698930c7ccd844673d77ffeccb3dd66e	Mystical Ninja Starring Goemon (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+643cce1ab06f97e9590241d27e5c2363	Mystical Ninja Starring Goemon (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b935b87f3dcca8aeeb6a9365124846dc	Nagano Winter Olympics '98 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c17f78a103d99b21533f0c1566378ef6	Nagano Winter Olympics '98 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e61251d2819e3bf3a9c0b95329f60f70	Namco Museum 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+45feb0fbbec6cb48ff21deae176e9b6b	NASCAR 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+15a87a6d01dba1a7c4375ffbc1214bb8	NASCAR 99 (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+dc5f1a814c8423b4b43f71c229d65a84	NASCAR 99 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+73bb54ffd3c0fc71f941d9a8cc57e2a1	NBA Courtside 2 featuring Kobe Bryant (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+62365463743857cfc823978e0e590d84	NBA Hangtime (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+dc15fcbeae0f1fef7bee141d77bb25a0	NBA Hangtime (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4c7a2f4881eaca75dc2fc36673ae2a20	NBA in the Zone '98 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+bbb48be198089a26050c84fe5b7b8bd5	NBA in the Zone '98 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6cbf4014c053e16852a3db80aeb4c853	NBA in the Zone '99 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f8f87aeb2c537c9cb2e9913050bfc928	NBA in the Zone 2 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4244cc48674c26bd848718c05688f821	NBA in the Zone 2000 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1942833ac1a71be8bae74bbdfd6de278	NBA in the Zone 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+604feb17258044a3e6c3aa9d2c5b62f9	NBA Jam 2000 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+afecc9a2df7b1a66a6b7ab3aa8b4bd2e	NBA Jam 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+be72be370bc0a76d403ff2b9ed2a9173	NBA Jam 99 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+adbe5ca10f659af2be712038e8522704	NBA Jam 99 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7fec099d1a989d5222d3f9e1a7770404	NBA Live 2000 (Europe) (En,Fr,De,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fc47f85cc501c8c5bd9d0ca4db48258f	NBA Live 2000 (USA) (En,Fr,De,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+226c19c8759314ac740420ddc3a34eb4	NBA Live 99 (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+dbe79ae6531b491b8f8ee8b2b814d665	NBA Live 99 (USA) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a4111a6cddbde0a45489106f0df0ca2b	NBA Pro 98 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c5ebbdd41eaea8bd02cf520640ccccdf	NBA Pro 99 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+881e98b47f32093c330a8b0dad6bb65d	NBA Showtime - NBA on NBC (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5e1940ca1236a76e8f2d15de0414ae55	Neon Genesis Evangelion (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c4ecfec66eceea23f39632ab6753300f	New Tetris, The (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cebac1b405788c9d1d91294a74f02040	New Tetris, The (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+ac795288c731d4ac2a5159b3e1580bf4	New Tetris, The (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7a28179b00734c9aa0f0609fafaafd5f	New Tetris, The (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7e856fa8f743900feba5a4e28c234af7	NFL Blitz - Special Edition (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7f6c5e71711dec81e77ccf71060f67ca	NFL Blitz (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+dd96bb80e652cd1cf23ca4b8294ba7b5	NFL Blitz 2000 (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ba49514441023722f02d41c62612f6c3	NFL Blitz 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e4edd73cb036c6b143cee9aeeed60341	NFL Blitz 2001 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fd2cbdea0992452b52e2803224232d12	NFL QB Club 2001 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+75c0121d84915bf5c1fbd389cf9f9c17	NFL Quarterback Club 2000 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ec18e3131040842e32ebab66c7496ebd	NFL Quarterback Club 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a18ca5dbc85668667aa467add6a62b39	NFL Quarterback Club 98 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+709f966c30ce6df1833e95740a5a2ab2	NFL Quarterback Club 98 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7ec0484c2ba6aa9f0a45d7ac1f4117da	NFL Quarterback Club 99 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+928869d1ce001b813ba908dfe18d7f94	NFL Quarterback Club 99 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b7e41d34d209b6cfa92e3d622f911c4e	NHL 99 (Europe) (En,De,Sv,Fi).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a62fa044bcb5507d358424abda6419db	NHL 99 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+349f61f9747f2d2098f305924c97a1bf	NHL Blades of Steel '99 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+46476a5626cd99b3749ac1ee1e234fac	NHL Breakaway 98 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b62076fa1421b8e7fdec2b4f8a910ea3	NHL Breakaway 98 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4ba95aa97ecfee36051ebe0a9024eee8	NHL Breakaway 99 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+af1d07679014760b88923a4827658caf	NHL Breakaway 99 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a61854cf27e536c8513174faef08dfcb	NHL Pro 99 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4116cf435db315a2481af8d1e9352feb	Nightmare Creatures (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b04957d052ef850c5edece69db7377b3	Nintama Rantarou 64 Game Gallery (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6ebbbe58d717b3b41985be70a8dfe1be	Nintendo 64 Modem (Japan) (Add-on).z64	nointro 2023-08-15	nintendo-n64-bigendian
+66db457b130d31a286a23d6e4dd9726e	Nintendo All-Star! Dairantou Smash Brothers (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+710ba49ebd5c9a2b26653fae93bd667a	Nuclear Strike 64 (Europe) (En,Fr).z64	nointro 2023-08-15	nintendo-n64-bigendian
+aced6f89b3500c618afe47c04f0256e8	Nuclear Strike 64 (Germany) (1999-11-17) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ca996f7a126da8104b806d4c7bfa20b8	Nuclear Strike 64 (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+146e9b9f8ba71f202a89fa011fc7f2ce	Nuclear Strike 64 (USA) (1999-09-21) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+db01748f770db0085a80d8c9d3d2efa2	Nuclear Strike 64 (USA) (Beta) (Earlier).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ffc584040d0d052fbab4cb6c19245449	Nuclear Strike 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+eeb69597e42e2f5d2914070acf161b4f	Nushi Zuri 64 - Shiokaze ni Notte (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d2af6993e4d657d00520c2cce741480e	Nushi Zuri 64 (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+50c10082d0c077fdb5658ef5a6e3f54f	Nushi Zuri 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e2fb4f16a039a0e302d28aca94d5d928	O.D.T. (Europe) (En,Fr,De,Es,It) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4116e492168aafff1bd3100c7b0aa28f	O.D.T. (USA) (En,Fr,Es) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e96fecba52905db14addad7cfd61091f	Off Road Challenge (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+af7083fc0abcfd5a2c6a5e971453d831	Off Road Challenge (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+55cd360f12be8063c9e7b6f59f268170	Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a45c39767d33ac21956a3d4e6c03cfa1	Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f04c8f511b678301b21c54a27cb08bb9	Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ebb4b4d2808df427aaa3085a41b8a954	Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f666e020218392e52662fddfa1ea4f21	Ogre Battle 64 - Person of Lordly Caliber (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+465dfd27ddab4f5488f4dadc09b7f938	Olympic Hockey 98 (Europe) (En,Fr,De,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8a964671c5a4f4fc62787f1f25edd70d	Olympic Hockey 98 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9c99c6d9ea98a960056c531cb78eb35b	Olympic Hockey 98 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3796829f54958ce103dcf5e3e8eb80b4	Onegai Monsters (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+91cf1982f309bd73822165087dad4371	Operation WinBack (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d60046c23400bfebd5b051f89e7f2f07	Pachinko 365 Nichi (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3b5c99f5e7dba06bf8237e58f6d4196b	Paper Mario (Europe) (En,Fr,De,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9becdb9fb1f0891acf65e8ecd0afecdd	Paper Mario (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+09d387fb3898bc993a267dad4b523fb0	Paper Mario (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a722f8161ff489943191330bf8416496	Paper Mario (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b7f2eb7989c9c00096655d087d72ec51	Paperboy (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c4cbcb54b010a5a71fe5caa391e5c25f	Paperboy (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0656bb43b3ec505cfa5ae5f93408db8d	Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+52f4f3320607f3e8dd1a16a2f1bfbdb0	PD Ultraman Battle Collection 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+20da62ece553ede84d02283174becc8f	Penny Racers (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+518b14054a667a3b9e0b72d3bf784e41	Penny Racers (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ad2de210a3455ba5ec541f0c78d91444	Perfect Dark (Europe) (2000-04-26) (Debug).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d9b5cd305d228424891ce38e71bc9213	Perfect Dark (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+538d2b75945eae069b29c46193e74790	Perfect Dark (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+aa93f4df16fceada399a749f5ad2f273	Perfect Dark (USA) (2000-03-22) (Debug).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e03b088b6ac9e0080440efed07c1e40f	Perfect Dark (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7f4171b0c8d17815be37913f535e4e93	Perfect Dark (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+617ceca1d2beffce943ef832326898bf	PGA European Tour (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0112ffaada116d172abce136e9043a93	PGA European Tour Golf (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e0bcb2758edf0ac6ab7db36d98e1e57c	Pikachuu Genki de Chuu (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3fcd4969f9a080bd2bcb913ec5d7a3bd	Pilotwings 64 (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e8e6ec0692009009f5dca6827b21f59a	Pilotwings 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3e7a3a778585a1ed02e1d887e4a377bd	Pilotwings 64 (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+84ff2eb492778fdc3b734ad18bab38c6	Pilotwings 64 (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8b346182730ceaffe5e2ccf6d223c5ef	Pilotwings 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fbf566693bca3145d86df34d18dcdd43	Pokemon Puzzle League (Europe) (Wii Virtual Console).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2ef9fa16de2a09ea15b6289447f40490	Pokemon Puzzle League (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+866d401c51cc05a3188c9a2d4e7bfee5	Pokemon Puzzle League (France) (Wii Virtual Console).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a3ba044dfc00bb766b4b2bfb9d4b5be9	Pokemon Puzzle League (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+45b507aaaf0ccdb6efe3cd717f0ddb95	Pokemon Puzzle League (Germany) (Wii Virtual Console).z64	nointro 2023-08-15	nintendo-n64-bigendian
+000364bac80e41d9060a31a5923874b7	Pokemon Puzzle League (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d6f58b98115e78d841089074401ae524	Pokemon Puzzle League (USA) (Wii Virtual Console).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e722576a15182cfed6782379ce4bc8be	Pokemon Puzzle League (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e5a0ca3dc54b38ea7fcd927e3cffad3b	Pokemon Snap (Australia).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f2a8106403d2bf9350bfeab08689d54a	Pokemon Snap (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e9028f9ccc307806695dd81742d05d5d	Pokemon Snap (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+144b8906dc40534cfbef6d7b994a982b	Pokemon Snap (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8e1968191dd27655c03be812cf041a95	Pokemon Snap (Italy).z64	nointro 2023-08-15	nintendo-n64-bigendian
+33fdab9712d9fea793a3ae44293999c3	Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fbdd74ed68e6a0cd734562d56ccb752d	Pokemon Snap (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a45d7115be5a06fd1567f9f913c3bdf8	Pokemon Snap (Spain).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3e1272f5eadbcae31abb0c91eef86dea	Pokemon Snap (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+031775e93a108f310c8242f3e7e1e8b0	Pokemon Snap (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fc3c9329b7cdd67cf7650abf63b9a580	Pokemon Snap (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a9c272687dabd59c5144774b53bcc35a	Pokemon Snap Station (USA) (Demo) (Kiosk).z64	nointro 2023-08-15	nintendo-n64-bigendian
+31ee2de8e65e30f5934c450dbaa924f0	Pokemon Stadium (Europe) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2859090d78581e0925a3af8045e81e4b	Pokemon Stadium (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0e85a098d0f0e8a7eb572a69612a6873	Pokemon Stadium (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+24be2ccb0dea0755908c02bf67e22fe5	Pokemon Stadium (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a81321759af38beb30a40fdaca2ea22a	Pokemon Stadium (Italy).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c46e087d966a35095df96799b0b4ffae	Pokemon Stadium (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d14a499bc4e324974eae3e42dec58625	Pokemon Stadium (Spain).z64	nointro 2023-08-15	nintendo-n64-bigendian
+40e03eda831c01e0a12294287fd240e2	Pokemon Stadium (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6dc6820cef755fc1253d06df45c9bd2a	Pokemon Stadium (USA) (Rev 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ed1378bc12115f71209a77844965ba50	Pokemon Stadium (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b1271db50d6ef8f6b53cc640c3743e4f	Pokemon Stadium 2 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4748d96916ae2bcc5fc1630515ee2561	Pokemon Stadium 2 (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+484f3e696c94980acf3d7068f9acc98f	Pokemon Stadium 2 (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5a04d7f1ab9c6b080176567aa7168d3a	Pokemon Stadium 2 (Italy).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2449bb712a64e3363a6cbd56f5adeda5	Pokemon Stadium 2 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b26aafd452c9816e1b7aa0954e75825f	Pokemon Stadium 2 (Spain).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1561c75d11cedf356a8ddb1a4a5f9d5d	Pokemon Stadium 2 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a17aadcc962393d476edc321e59c504b	Pokemon Stadium Kin Gin (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+bbdc4c4f1c474298189312008a1768c4	Polaris SnoCross (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8cc73c373016070647030dde492fdc8c	Power League 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+92bb1bc5e6466f1944943d34d25f2daf	Power Rangers - Lightspeed Rescue (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+91d74621ddef6d37fb845b3bc7059a38	Power Rangers - Lightspeed Rescue (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+11bd90afe31992f1f5e7e25433fe8d52	Powerpuff Girls, The - Chemical X-Traction (USA) (Beta) (2001-09-27).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2991bb68eca54813d6b834adbbbacc4c	Powerpuff Girls, The - Chemical X-Traction (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+25bafc84ba4d87854dc44df3ef8764ea	Premier Manager 64 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b42f62483f7ca2aac5af911175463db8	Pro Mahjong Kiwame 64 (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7995d76f4ce236b0f0289f47ae523d32	Pro Mahjong Kiwame 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f1a2e4dd22adf4f90da4bddca37d5f18	Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+faaa2094b04dca4c287af9334d22529d	Puyo Puyo Sun 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+22b86ab3f320a607899a0516c90a24d0	Puyo Puyoon Party (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b478d4af60d43c38ba81de9faea6e057	Puzzle Bobble 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b98d8a94fe2f02384cb923fbb2f9d57e	Pyoro 64 (Unknown) (MPAL) (Aftermarket) (Unl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2ac0f88bea02d67896ffeae9e8ec72e7	Pyoro 64 (Unknown) (NTSC) (Aftermarket) (Unl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+250ad6be7e97306364bfd8f420204d8a	Pyoro 64 (Unknown) (PAL) (Aftermarket) (Unl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+592ce7718efdd1ff2f077c9b2b5275fb	Quake (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+097605021951024c3ecb2d502c0c2a9f	Quake (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+673d4ba4f41a0fe23650f06af53eec50	Quake II (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cc93c30c633ff461c29b54ceabefd701	Quake II (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ea552e33973468233a0712c251abdb6b	Quest 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+aa57d69867f53456f351a289eba08c3d	Racing Simulation 2 (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+167a3502f06cf0eef56758533f3d0e52	Rakugakids (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+813ad5c00bad7c4d41f8558cecedae51	Rakugakids (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+21100a964605f7d0849417ad9a3c1590	Rally '99 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0458bc47cd771d8bc66b0ceae6895724	Rally Challenge 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+08e02f52e0547686a9bfac7cbb03c129	Rampage - World Tour (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4645672a0cf00ada9b5e37cfde8b024e	Rampage - World Tour (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1492806f12d33c3ea0edb6848d43b1cc	Rampage 2 - Universal Tour (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5822ef3f72c1683b42b2bf7e686dc7be	Rampage 2 - Universal Tour (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+6fc669845efbcef9ae45d67ba38d2fa6	Rampage 2 - Universal Tour (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8113d0ea2008402d4631f241f625d16b	Rampage 2 - Universal Tour (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+bc66239c12ae8696926e50c2b6ed9c49	Rat Attack (Europe) (En,Fr,De,Es,It,Nl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f661889fdf65ddcd212e9fb53b2c8f50	Rat Attack! (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5dbbfd5ace8222fa8fe51be113453c13	Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+03aa4d09fde77eed9b95be68e603d233	Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+55685d6324efde5bc9d26c98706b0b8a	Razmoket, Les - La Chasse aux Tresors (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+406b08987ab92d73d72b597ec6b11bd9	Razor Freestyle Scooter (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+faa64abb0d222fcc0c6e2515d3805d9f	Re-Volt (Europe) (En,Fr,De,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3fc4d3187435443455f8355b2d3f8934	Re-Volt (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+df4446a2b55c4d8d67e9c0c19e0fd9fb	Ready 2 Rumble Boxing - Round 2 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+adc95ae01855fa305b13f8b22427e597	Ready 2 Rumble Boxing (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f480833164cca521ee70517baf1f83d6	Ready 2 Rumble Boxing (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+ba7a6054cedf7851b1d8f20efecb02a7	Ready 2 Rumble Boxing (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a42f6f14f7ea10abeb3b55ffd42eb572	Ready 2 Rumble Boxing (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b04f298721223a22e1150cebc712ee6a	Resident Evil 2 (Europe) (En,Fr).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1add2c0217662b307cdfd876b35fbf7a	Resident Evil 2 (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+dd21150cbc21c05420304599ec57411c	Resident Evil 2 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+436f93c0d8b1650bc308ccf344c08c93	Road Rash 64 (Europe) (Beta) (1999-10-12).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ad922dae446a301e1aafe1dfbad75a2e	Road Rash 64 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4d1d8b2bb146a98a66e23189b67ec12f	Road Rash 64 (USA) (Beta 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4a2400af877b161fc7a265e46be53251	Road Rash 64 (USA) (Beta 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+28c2373f6d831eec81f6146a809e701b	Road Rash 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+41f67b5c8bb8daeffd989123846fc063	Roadsters (Europe) (En,Fr,De,Es,It,Nl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d3644b398c090528e0ed9eb3c140366e	Roadsters (USA) (En,Fr,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+444f70a655ac89ca900f6fafaf926b16	Robot Poncots 64 - 7tsu no Umi no Caramel (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e40ba4761ce977f3fb02151354812d99	Robotech - Crystal Dreams (USA) (Proto 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b39592c6c9a3121258bdb62485956880	Robotech - Crystal Dreams (USA) (Proto 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2abcd1ad41b3356fbc1018ecb121283e	Robotron 64 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c4a9bbf989ddfaf5f389e4adc6195dbc	Robotron 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c33561d58dc04cee752a3a4bd1fb4797	Rocket - Robot on Wheels (Europe) (Beta) (1999-09-29).z64	nointro 2023-08-15	nintendo-n64-bigendian
+427c5457d4a29a222811f0caa9cca7b9	Rocket - Robot on Wheels (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c2907eb2f9a350793317ece878a3b8e3	Rocket - Robot on Wheels (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0c74b44680276ffe808cfa6045329819	Rockman Dash - Hagane no Boukenshin (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+14f1f43a0314c3e36d9d248e1f03ec2e	Ronaldinho's Soccer 64 (Brazil) (Pirate).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4561840840760ffa7b59f03a5f416a5c	RR64 - Ridge Racer 64 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+990f97d56456fc23e52bd263e709e21e	RR64 - Ridge Racer 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a1082a6676455c040843fd75e92de1a3	RTL World League Soccer 2000 (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+dec4598a39728c28cd0ceba45a173ce1	Rugrats - Die grosse Schatzsuche (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a0e5edf2e5841578325e91470e0b84df	Rugrats - Scavenger Hunt (USA) (Beta) (1999-04-02).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8c432235a57d34bc4a9b8b290e21e01e	Rugrats - Scavenger Hunt (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+55185016031cdc73c0fd471527c35706	Rugrats - Treasure Hunt (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+229089089661f517c863242d6bb77746	Rugrats in Paris - The Movie (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+207efe58c7c221dbdfff285ab80126c1	Rugrats in Paris - The Movie (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+681df5a32e857e77194106b35304d6b5	Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+22439a2bf28be1a56872bc0dce16392d	Rush 2 - Extreme Racing USA (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+50600a350427bf3e34f33c3b8a4c4470	Rush 2 - Extreme Racing USA (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6a925ab624ee3b343231d799733ba898	Rush 2 - Extreme Racing USA (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7ed3f10bc32cf76f172d8c31d15a2799	S.C.A.R.S. (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d0aa9d20a4b85fe514d2a3150d0133ea	S.C.A.R.S. (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c4e47228706bc724d7fbd811231d20c9	Saikyou Habu Shougi (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+81b1122ee15f7b50a341ae62e9c5716b	San Francisco Rush - Extreme Racing (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5b127e6b090a0b3f68a114d4d89323d4	San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f015fc28e1d62a36b4ebf4c79ca8f285	San Francisco Rush - Extreme Racing (USA) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+02b16ac23998f78f09af6513f4acb664	San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+af5be0adff51a8e9c6d771282c295810	San Francisco Rush 2049 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9dc86c6796476e70e10f6f3664a13898	Sblobber 64 (World) (Aftermarket) (Unl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3b6dd7b60437234895500beff28df6d6	Scooby-Doo! - Classic Creep Capers (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+01cd9938dae5dcdd4b264ae7f26c6d4d	Scooby-Doo! - Classic Creep Capers (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+16cc6db10a56331b56f374b4fb254d5e	Scooby-Doo! - Classic Creep Capers (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+637a7ea2a39f20c5b20834187230d89d	SD Hiryuu no Ken Densetsu (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+15df97a59b2354b130dec3fb86bba513	Sesame Street - Elmo's Letter Adventure (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f733453ed26afa0aca8d3eb3b5b6d8ea	Sesame Street - Elmo's Number Journey (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fe2605193736a128ad65db1c9835a130	Shadow Man (Brazil).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a485a6e9e30b7d55d23d8dd043770c64	Shadow Man (Europe) (En,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+235511bbdb21af5a767bdb7502a80f06	Shadow Man (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+af40ef12ce923ff1c26e76cc9d9b9ed9	Shadow Man (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b457298b87b85bbf950f24867daa9475	Shadow Man (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a06e757cf1930b29fa4c0b5c9f31335f	Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+11169a32d449ec3a8903ca8a9d69a6aa	Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e8955c3b743fddfe403e52e769e9853f	Shadowgate 64 - Trials of the Four Towers (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1960a3879fadf2c5eff5beb47e0e1441	Shadowgate 64 - Trials of the Four Towers (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1cf28070533ff9e0006ee932d8b39fb9	Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+407a1a18bd7dbe0485329296c3f84eb8	Shadowgate 64 - Trials of the Four Towers (USA) (En,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+13d9514a4d208dc6c7b0c833f68114d2	Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+113044b16b75f98792bf9c20c6b6282b	Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+244bea64ea209990e9c69a830b507135	SimCity 2000 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3777ddb4a7494a0f39f78f25756890d1	SimCopter 64 (USA) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b8d4b92e66a312708626b3216de07a3a	Snobo Kids (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f7e66da23c8bb8e59f641a636a9cae82	Snow Speeder (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ab4382e583ae139eedbafce5fa87e4c8	Snowboard Kids (Europe, Australia).z64	nointro 2023-08-15	nintendo-n64-bigendian
+eb31f4f9c1fe26a3a663f74e9790516e	Snowboard Kids (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+47b5e3955d54f969941533f26691ab38	Snowboard Kids 2 (Australia).z64	nointro 2023-08-15	nintendo-n64-bigendian
+08e1152e9d9742e9bbf6c224b6958f2d	Snowboard Kids 2 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7d47911b5c3d91a303ef19e764f3c02b	Sonic Wings Assault (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f1ae48b778c8431a50c37eb1ed96b120	South Park - Chef's Luv Shack (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6af573eb055648a8542aa82d9524fb2f	South Park - Chef's Luv Shack (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d313af5f8af4d19f732a1a2c4d4d66bb	South Park (Brazil).z64	nointro 2023-08-15	nintendo-n64-bigendian
+40cc2085a5c12456bef830b047068326	South Park (Europe) (En,Fr,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2c94a246e701d667ba807dab6c9771e2	South Park (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1730119b0455ef89c4e495dec8e950a5	South Park (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cdee4b0529b33405a293d51cb3765c57	South Park Rally (Europe) (Beta) (2000-01-08).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e3c1c713917bb39ab9e5278894229a84	South Park Rally (Europe) (Beta) (2000-01-17).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c33fa02791077a71b0afe1cfed47c180	South Park Rally (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a5b3b1d07af3c0bb51091e68304cce18	South Park Rally (USA) (Beta) (2000-01-14).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1be2624e4c597b8094195a2348900514	South Park Rally (USA) (Beta) (2000-01-27).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1c494719032ff99382b167c43fb11762	South Park Rally (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7f9cdbbb1aaaaf0983c64988ef9c58be	Space Dynamites (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c72417e0f8f043f9f11851633c4b1a57	Space Invaders (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fca7afcadcf5e5545a62919ba94dad18	SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e66ed1cc4ab95d0872bb2ebc49b206c4	SpaceStation Silicon Valley (Japan) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f1f1c5e2b895db63348bc738c0cdc645	SpaceStation Silicon Valley (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+868b37d1b66d1d994e2bad4e218bf129	SpaceStation Silicon Valley (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7f1991b8861e7e532ec21ecf2af82191	Spider-Man (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+91fc4c63ca613530df22c8bb810cb2c3	Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console).z64	nointro 2023-08-15	nintendo-n64-bigendian
+446d5215c4d34eb8ab0f355f324b8d0e	Star Fox 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+dbc8d5b044e1f10eb82a7c32fb8c8218	Star Fox 64 (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+4193b28348f4c294dfb07510e9ebd76b	Star Fox 64 (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+741a94eee093c4c8684e66b89f8685e8	Star Fox 64 (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+caf9a78db13ee00002ff63a3c0c5eabb	Star Fox 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+14a21928be46c18ba04161305e89f5de	Star Soldier - Vanishing Earth (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ee045a2e9f924cd8fd00018b50e46650	Star Soldier - Vanishing Earth (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ca28a3645fc7ad969ebd75c5d6506e7a	Star Twins (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a9dd498e6a28f55311ce4ef057e164b8	Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7f919d2e35cbe561e139ae8fe93aca86	Star Wars - Rogue Squadron (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1c9ad5b555bcc1263958aa2a1a046305	Star Wars - Rogue Squadron (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+9adbbb596860db244490eb77e53a8df6	Star Wars - Rogue Squadron (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2e458d7cc355d7918493b0e0362c9a20	Star Wars - Rogue Squadron (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+47cac4e2a6309458342f21a9018ffbf0	Star Wars - Rogue Squadron (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+591cf8e672c9cc0fe9c871cc56dcc854	Star Wars - Shadows of the Empire (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4e12b97690897465a27bdf0dda722826	Star Wars - Shadows of the Empire (USA) (Aftermarket) (Unl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4076973cfda277fc876e9f066cc73deb	Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fa635e837275d28fd5a24d5675ba42c8	Star Wars - Shadows of the Empire (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c7b40352aad8d863d88d51672f9a0087	Star Wars - Shadows of the Empire (USA) (Rev 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5cce8ad5f86e8a373a7525dc4c7e6705	Star Wars - Shadows of the Empire (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8603b180e70b2a72ef77d46c2bec2234	Star Wars - Shutsugeki! Rogue Chuutai (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5b6b6b0c8c9a40286dcf61706b6a05cb	Star Wars - Teikoku no Kage (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0bd1f7bb9f4b02520e4e9285c809f099	Star Wars Episode I - Battle for Naboo (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+88776081f0f92eef355cd451b9c6a819	Star Wars Episode I - Battle for Naboo (USA) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3cb88b934572e7520f35e5458798775b	Star Wars Episode I - Battle for Naboo (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6ef9fed309f28bd59b605f128869aa00	Star Wars Episode I - Racer (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7579ab0e79b1011479b88f2bf39d48e0	Star Wars Episode I - Racer (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0b2b4d3c38426763059d68aa53b86fdf	Star Wars Episode I - Racer (USA) (Aftermarket) (Unl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1ee8800a4003e7f9688c5a35f929d01b	Star Wars Episode I - Racer (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+72b60fac5ee257fa387b43c57632d50c	StarCraft 64 (Australia).z64	nointro 2023-08-15	nintendo-n64-bigendian
+356a5d3d59e0adef6efae6096fc20f77	StarCraft 64 (Germany) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3eb732a8d004263ad8eb0da59a29582a	StarCraft 64 (USA) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+559f71b861f639b6376d891e3023414b	StarCraft 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a9c393aa232b32798adf378f4318f99f	Starshot - Space Circus Fever (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+42af1992978229bbb5f560571708e25e	Starshot - Space Circus Fever (USA) (En,Fr,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e8b666a429fedb2a1a1228cd450cd4fc	Stunt Racer 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+542bed9c63d531a7b180ba31924da728	Styx (World) (Aftermarket) (Unl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b3c1d4b9ec7dcd2922e681dbbc393915	Super B-Daman - Battle Phoenix 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+09c5b4d19364efe48bb818087734978e	Super Bowling (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fa3a043997a3acdf17337385b126bc04	Super Bowling (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+45676429ef6b90e65b517129b700308e	Super Mario 64 (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2d727c3278aa232d94f2fb45aec4d303	Super Mario 64 (Japan) (Rev 3) (Shindou Edition).z64	nointro 2023-08-15	nintendo-n64-bigendian
+85d61f5525af708c9f1e84dce6dc10e9	Super Mario 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1b5ff38194ee06d8b4687e675a6c77ee	Super Mario 64 (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+5c653198036c372df77289da22f790b8	Super Mario 64 (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+20b854b239203baf6c961b850a4a51a2	Super Mario 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3ec3f83eab22702e146c467eb1db45fa	Super Robot Spirits (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3f4b73963abc91cee59c416063efd4ae	Super Robot Taisen 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+694dea68dbf1c3f06ff0476acf2169e6	Super Smash Bros. (Australia).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5e54c6c563b09c107f86fb33e914ef81	Super Smash Bros. (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+314fe951d563b8150346e0aa0894d3b9	Super Smash Bros. (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+bf751a6c92d113e3ebdcb2bea6a814d0	Super Smash Bros. (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f7c52568a31aadf26e14dc2b6416b2ed	Super Smash Bros. (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6b5d93b3566e96147009d1ac4fb15c97	Super Speed Race 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6d58a01ef7a7a7c779d2a66315992c5f	Supercross 2000 (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+60347200a1a7cabc0d849ee69ec51df7	Supercross 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3f64b4f72e61225ef3ae93976c9bfc7c	Superman - The New Superman Aventures (USA) (En,Fr,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5ab39f2d7a144e1ba243df059560e878	Superman (Europe) (En,Fr,De,Es,It,Nl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+19c9491dd517603be2fa3020c2f2deb2	Superman (USA) (Beta) (1998-09-06).z64	nointro 2023-08-15	nintendo-n64-bigendian
+26f4ca20f7b9c88199ac046c57e282b4	Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+eb0b4d1541e40103c48c05f7baa78c41	Swoop 64, The (World) (Aftermarket) (Unl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fc32007ba03ff2510020e979c7bdad4f	Sydney 2000 (Europe) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2eea8d20bef26f88a5e82fdd39f87e75	Sydney 2000 (USA) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cecab8df02c02f38c9cf1bdd57b1da00	Tamiya Racing 64 (USA) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+bd1de2fc1cf31096423563a40ecbf933	Tarzan (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5d82e903f65341487ddc11af80ad607a	Tarzan (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+df3cdd959e8c63b45f557fc197ce0e63	Tarzan (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+eae7e0ee5328ed9f13b9cf9990189928	Tarzan (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+192b715e8bc5972a4986df21dc8bf357	Taz Express (Europe) (En,Fr,De,Es,It,Nl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7a94f94485bd28f0d6d67257050b26d4	Taz Express (USA) (Proto) (2000-05-15).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7f244aff8d729417e32b6a5b299afda5	Telefoot Soccer 2000 (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+faf80bdcce97ac96ca21704ab8795089	Telocation - Gemini (World) (v1.2) (Aftermarket) (Unl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7c8efcf4fba28f9f5b5ea10a71283bf3	Tetris 64 (Japan) (En).z64	nointro 2023-08-15	nintendo-n64-bigendian
+765a330d5ce2dbe7120c6c8e18a1487d	Tetrisphere (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3f88078e2d9dbf6c9372f6373cf9ae09	Tetrisphere (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+acd0118ac4709db3943b3d35112c2001	TG Rally 2 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a09663b596f348d28af846a51375eb81	Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f8636514b5b0edebf376c3111d24417a	Tigger's Honey Hunt (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+46be5d00682fcc1f7fc0fba507e8e5c1	Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a63a9af85be8bb47c1741b8a37115354	Tom and Jerry in Fists of Furry (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1b991cf41c70ff2c92ffbefacabe8d03	Tom Clancy's Rainbow Six (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+15e4c1b4f3f459d4caa7f7e2cf0c95da	Tom Clancy's Rainbow Six (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fdc76a53b1056d3e50ea6a3e295fe4d1	Tom Clancy's Rainbow Six (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+80f3b1abd9fb9ae73997489db185a74d	Tom Clancy's Rainbow Six (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+99f95ad4a3b0c78b6f58a0fc3ad22db6	Tommy Thunder (USA) (Proto) (1997-10-01).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3d3573a855835a98de29d598c35590e0	Tonic Trouble (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7d3e935156844de0002db875e1076a5c	Tonic Trouble (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+035c0700406197104d977c379e410cb7	Tony Hawk's Pro Skater (USA) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+aff424a1883dc7bb92c7b2ebe9342f85	Tony Hawk's Pro Skater (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5ed7e392198a5fa56ee37ea9e93a8d50	Tony Hawk's Pro Skater (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6be030475c4db52f273ef8a02b4dafa8	Tony Hawk's Pro Skater 2 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+317a4e89618b8b7955632c5f70177690	Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6440a67e2c27bd9adedfc60939c2bf1b	Tony Hawk's Pro Skater 2 (USA) (v012) (Beta) (2001-06-04).z64	nointro 2023-08-15	nintendo-n64-bigendian
+29974692808c112b306fbd259273dc96	Tony Hawk's Pro Skater 2 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9d4891bf26881c4541171b0235015fd4	Tony Hawk's Pro Skater 3 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c9e9c4a18b1540c6b4111331d7c663b8	Tony Hawk's Skateboarding (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b6fd2a048d1f4f324cebc97ba09872bb	Toon Panic (Japan) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0072538ef925645db310f8e23a480b89	Top Gear Hyper Bike (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4347174bb415ca970f2d50df2973f656	Top Gear Hyper Bike (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b60d26c2c2242bff61f76469fc272d2a	Top Gear Hyper-Bike (USA) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7258f4ab367b025c95a4f476c461e717	Top Gear Hyper-Bike (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6c65a252f227aef18df2dd3ce04cc821	Top Gear Overdrive (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b5691794a851d8b603f0c741d44aa244	Top Gear Overdrive (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+975d01545d0803f20d1ee61385c28eed	Top Gear Overdrive (USA) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7818696426c0a429fbfccc4efe8d5570	Top Gear Overdrive (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+50195216c8a37f9bd5b2105a40ee8d8f	Top Gear Rally (Asia) (En).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1698508f521280d0a80e078ec981d4ac	Top Gear Rally (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6e0af13dcefee6a11c4d7262206d6d2d	Top Gear Rally (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6f7030284b6bc84a49e07da864526b52	Top Gear Rally (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c33cd926e1e71f39f7238af7b9e0dc5c	Top Gear Rally 2 (Europe) (Beta) (1999-08-31).z64	nointro 2023-08-15	nintendo-n64-bigendian
+44c4566572dc0662d4299ab5b19043ae	Top Gear Rally 2 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b10d781ec625ca45713fd34e5096c24a	Top Gear Rally 2 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b468f0d00264950dd197f5f8fc7e3db7	Top Gear Rally 2 (USA) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1fa409fcac007ddeccc4cf439a0d8dae	Top Gear Rally 2 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fa0f12c15b3655f9f56888c3249b1ced	Toy Story 2 - Buzz l'Eclair a la Rescousse! (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5f2c9e5e39ab09311d96e6c751184b6b	Toy Story 2 - Buzz Lightyear to the Rescue! (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cd61a7fdbd7297733b246204e8360d83	Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b44e9c2d9d2f2de3af4793b824ccf936	Toy Story 2 - Buzz Lightyear to the Rescue! (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a4a2b825797e2059b5df60d733461f34	Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3f40f37b0464dd065067523fb21016dd	Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3d22d5bd7997293612ecdd3046beba13	Transformers - Beast Wars Metals 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6d38909faa2840fc409afa221489de49	Transformers - Beast Wars Transmetals (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6f2c37a20e6eccb657fbfc4ba36a34bb	Triple Play 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a0657bc99e169153fd46aeccfde748f3	Tsumi to Batsu - Hoshi no Keishousha (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+992ba72f4a1e9c51934ff345cdd0d90c	Turok - Dinosaur Hunter (Europe) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+548fc0e6035b65bc2108255039859934	Turok - Dinosaur Hunter (Europe) (Rev 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+13faa58604597e4edc608070f8e0ae24	Turok - Dinosaur Hunter (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+388440013641887d85b791cf01729fa8	Turok - Dinosaur Hunter (Germany) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f0f687b449a9f4b0bff08104c35ea08c	Turok - Dinosaur Hunter (Germany) (Rev 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0c0bfd1038eda4f5c958dc362cdff2d6	Turok - Dinosaur Hunter (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3f348189bfebc8cd94dc15b8e35c5c42	Turok - Dinosaur Hunter (USA) (Demo) (Kiosk, E3 1997).z64	nointro 2023-08-15	nintendo-n64-bigendian
+37260287d59fe4ec6049c1d22b5614e6	Turok - Dinosaur Hunter (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+039875b92c0e4fef9797ec1744877b17	Turok - Dinosaur Hunter (USA) (Rev 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ae5107efdd3c210e1edd4acd9b3cac31	Turok - Dinosaur Hunter (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+72a6aa28608ee93a1cb6feb0a5f4c28c	Turok - Legenden des Verlorenen Landes (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+241cf94bed487fff62ffb7b846da46ab	Turok - Rage Wars (Europe) (En,Fr,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+dba166a42710f40dc78dc52eb37b0be6	Turok - Rage Wars (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9b2ffe72080b03a5f92eb87ea849cac4	Turok - Rage Wars (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+cf5b28578fd62fa1ff8690079f5d68f5	Turok - Rage Wars (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ce72237707f481cfe97fde330c2afcd6	Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk).z64	nointro 2023-08-15	nintendo-n64-bigendian
+144b10a484a22367fd2679529dbd2fed	Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e5a39521fa954eb97b96ac2154a5fd7a	Turok 2 - Seeds of Evil (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b932116c967795076b5c112841ab4427	Turok 2 - Seeds of Evil (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3bd42f6aec477c056e1afebb3515495c	Turok 2 - Seeds of Evil (USA) (Demo) (Kiosk).z64	nointro 2023-08-15	nintendo-n64-bigendian
+166221365db70d446c4206083d422dd1	Turok 2 - Seeds of Evil (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+fad4da8e17ce12f68cdf29180cdd4a90	Turok 2 - Seeds of Evil (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+03d17aa3dc7663502017d3cc5a19aa8b	Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-05-31).z64	nointro 2023-08-15	nintendo-n64-bigendian
+69ce88c46a7c829c6f54004de93efcef	Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-06-06) [b].z64	nointro 2023-08-15	nintendo-n64-bigendian
+c38acbae773cc3845ea354421e171998	Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-10) [b].z64	nointro 2023-08-15	nintendo-n64-bigendian
+3d64e47f1c0cba540ed00f816fa75e9d	Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16T211412).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d44af456933062c4ebe103b6f23518ea	Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16T220245).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ed64e19322382a86467666902760a76c	Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-18).z64	nointro 2023-08-15	nintendo-n64-bigendian
+279ec83bd60a3cce69a1db22b0a5c318	Turok 3 - Shadow of Oblivion (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+da557a2f10fb66bf966140fbb066772f	Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-05-03).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f5738c4b804b0260b99ad39d49ddd43c	Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-06-26).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4ae7c142d09f850f6ac0320034d80fa5	Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-16).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9865a336b00e95601ed05a43a2422c23	Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-18).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1211c556d77b169d81a666a9661e1777	Turok 3 - Shadow of Oblivion (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9df6c2c97fa34a978ef3cb77631536fe	Twisted Edge - Extreme Snowboarding (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+420c9fdbae15767c5e584070209ff253	Twisted Edge - Snowboarding (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ffeb5c1a85babbbe60f2feba2b35c893	Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+dcac12eb5832d4a489188330eb9ec387	V-Rally Edition 99 (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+8541d7a8737be09c52d4ec1274de2a91	V-Rally Edition 99 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0c3448a9d85300acb9c5556f27a84b23	V-Rally Edition 99 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b7425d12935662e480268b48055f2e6c	Viewpoint 2064 (Japan) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+47661ef1964524b6319b759913f08b62	Vigilante 8 - 2nd Offense (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+60cdf7445fad2aba05c958f46691501b	Vigilante 8 - 2nd Offense (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+df011e19f41b1b19c21f1e77e13780b7	Vigilante 8 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ff9f85c50982dbdba9853a8915321d31	Vigilante 8 (France).z64	nointro 2023-08-15	nintendo-n64-bigendian
+37b430ee16167831c6c6292994f93277	Vigilante 8 (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d616adf6441acbbd0e6bef023a8f6031	Vigilante 8 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c3005d76af42e929e5c67421a19f8235	Violence Killer - Turok New Generation (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e790be1a5b883beba44bc0d2666c65f5	Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f9d376af6ce69aefe6b69958c6ae8eda	Virtual Chess 64 (USA) (En,Fr,Es) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+c14d21a693135284a708feb3f80f487e	Virtual Chess 64 (USA) (En,Fr,Es) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f8a35270279b277586d7210fd15134ff	Virtual Chess 64 (USA) (En,Fr,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ab68fb43f012c1a45af1dbcc8e8c109c	Virtual Pool 64 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5361cf84568f4affc02f8486bd902453	Virtual Pool 64 (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+8e7d473161cb685909bc762a32aa850d	Virtual Pool 64 (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6d3db67319da339df4b68ad0084904d5	Virtual Pool 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+90002501777e3237739f5ed9b0e349e2	Virtual Pro Wrestling 2 - Oudou Keishou (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5e6202200af40a8f026780edfe1e15d0	Virtual Pro Wrestling 64 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f7c1b1ee1ce37ce09aa48c7e0a115efa	Waialae Country Club - True Golf Classics (Europe) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5f1906df4eb30537c2ac2fcbd005907d	Waialae Country Club - True Golf Classics (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+67f75c4dd30922a001c8c32aeb9333ac	Waialae Country Club - True Golf Classics (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+dd8154d507c88694afd69c7af16a8cd6	Waialae Country Club - True Golf Classics (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d25dd15903bdcb7724a2e8a02561987f	War Gods (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9ff2ba3c8408de9f0edb6d764a97c197	War Gods (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+310659115e9939f219a783abdd456ce9	Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d05c6f3caf9059b306cc13535e2a8ba6	Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ff67df97476c210d158779ae6142f239	Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b32e555bc1a375256e8a4021a25339be	Wave Race 64 - Kawasaki Jet Ski (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+dcabfa22f0c6231ddc85f8978cb1640d	Wave Race 64 - Kawasaki Jet Ski (USA) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+365ac892b951eed7b227f4a200b7ea53	Wave Race 64 - Kawasaki Jet Ski (USA) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2048a640c12d1cf2052ba1629937d2ff	Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ae480013f39d4aec86eea1b4995600d1	Wave Race 64 - Kawasaki Jet Ski (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+24a0d8c8cabc22116e469476ff6c691d	Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+810f8bc2c8c66bda3b206c7dd4b6d42f	Wayne Gretzky's 3D Hockey '98 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+319816aaa30e512827be7b7f81f80d86	Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+61e637b542d5df178040454075c28e19	Wayne Gretzky's 3D Hockey (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+04e650b7742a69dae98f125d1b492d78	Wayne Gretzky's 3D Hockey (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6df0d6259261d0096c90bbc6aa037d8e	Wayne Gretzky's 3D Hockey (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+02aed169eb579494ace75d22e10d789b	WCW Backstage Assault (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9e943752bcf4fba9ca3028e596f4eb4a	WCW Mayhem (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+87bf3784709cd09693cd7bcc08460c63	WCW Mayhem (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1e9fead701fe5aaaa248d4713891775d	WCW Nitro (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+553d8d5347969c66e5d91c3fe35208b9	WCW vs. nWo - World Tour (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b7a220b59303d47f3beae233ca868cfd	WCW vs. nWo - World Tour (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+203c3bbfdd10c5a0b7c5d0cdb085d853	WCW vs. nWo - World Tour (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+30c6676ec1d62122f4e7607ef3abbd41	WCW-nWo Revenge (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c1384f3637d7a381b29341fed3ef3ceb	WCW-nWo Revenge (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+a99e2cb6acef7a004961de5f6dfeeff0	Wetrix (Europe) (En,Fr,De,Es,It,Nl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e8997bf5662540b184fbf8277d260984	Wetrix (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+6e81d3056e409208e4af2d39a2ff0f03	Wetrix (USA) (En,Fr,De,Es,It,Nl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+aab9c595a91b9f26e12cae2ff2649881	Whack 'n' Roll (USA) (v0.8.2) (Beta) (1998-02-05).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2abe36754e866b9b6c4bdcffc1d11abf	Wheel of Fortune (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1708e096772201a5cd6e085c79cb194c	Wide-Boy64 AGB (World) (v0.00b) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+20897007193c2ac449ebc98084354988	Wide-Boy64 AGB (World) (v0.02c).z64	nointro 2023-08-15	nintendo-n64-bigendian
+dddaecedbdea61182efb30adc217baf2	Wide-Boy64 AGB (World) (v0.04c).z64	nointro 2023-08-15	nintendo-n64-bigendian
+e529b3c207db945e9631faf231964cc7	Wide-Boy64 CGB (World) (v1.02).z64	nointro 2023-08-15	nintendo-n64-bigendian
+f85f2a2b6ca64898f0add2a78ccdccf3	Wild Choppers (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b867880c96c9e8d3130dde5526c95439	Wildwaters (USA) (1999-06-15) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+48da6cdcab838153caa2ecc3dd592a65	WinBack - Covert Operations (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9789a48e1d9e42c2f69c59964371089f	WinBack (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ee3d3550acc463ca57408bf14e541f68	WinBack (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7260da1cecd0d8844c5e29aa63476def	Wipeout 64 (Europe) (Beta).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5783373634b11f81c86908c3d81ca988	Wipeout 64 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+73c6d87dbe50f73f3b44e0f237a546d7	Wipeout 64 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+06ea696a8d4840f70c9bd7f0670194d6	Wizard of the Board (World) (NTSC) (Aftermarket) (Unl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9155a67aa77a568bf4612c7eea7c00f3	Wizard of the Board (World) (PAL) (Aftermarket) (Unl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0ff1f8628d8fe69582db54572d2bea79	Wonder Project J2 - Koruro no Mori no Jozet (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3aa263aca66f3a07bb081b575d66deeb	World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da).z64	nointro 2023-08-15	nintendo-n64-bigendian
+4bef5e9aa9e71205dac1a7060e778235	World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da).z64	nointro 2023-08-15	nintendo-n64-bigendian
+431de8f6611a8131b536f0ede1f330d9	World Driver Championship (Europe) (En,Fr,De,Es,It).z64	nointro 2023-08-15	nintendo-n64-bigendian
+7c567a5bb1ad4cbe414fb6bbff66e336	World Driver Championship (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+44fc2a7f028f0b6f71b255f672c8b495	Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl).z64	nointro 2023-08-15	nintendo-n64-bigendian
+491d4db6718302489bf05fb962c73651	Worms Armageddon (USA) (En,Fr,Es).z64	nointro 2023-08-15	nintendo-n64-bigendian
+3fdb2e5f9982fda2c2344a883b8ab6ef	WWF Attitude (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b86ec8d19d7d1a50ea900ea10355a735	WWF Attitude (Germany).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9faf514cb3dbb742c129deb395dca342	WWF Attitude (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+400a14f132d993f5544f8b008ec136fa	WWF No Mercy (Europe) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d94a8f78178473d4ba4bed62fa8e2e66	WWF No Mercy (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5ce490cf86cfeabf28c19b4c8afc3f24	WWF No Mercy (USA) (Beta) (2000-09-11).z64	nointro 2023-08-15	nintendo-n64-bigendian
+66b8ec24557a50514a814f15429bd559	WWF No Mercy (USA) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+04c492be7f89fc6f425238bd67629544	WWF No Mercy (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ebc0cf55fc58845c6ee86cf8b2d87303	WWF War Zone (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2322da2b9e7dc74678cd683b7a246b49	WWF War Zone (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+b75149f87cc5f3a508643ac377f2fcc9	WWF WrestleMania 2000 (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+11eee2f34bf8da05a1b8f4fb9fe9f74c	WWF WrestleMania 2000 (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d9030ca30e4d1af805acce1bfed988cc	WWF WrestleMania 2000 (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1878c3d3cc1bfb7a40fcdbaf4f1b1db5	X'treme Roller (USA) (Proto).z64	nointro 2023-08-15	nintendo-n64-bigendian
+ec2bcb1b7fc7d068be1f39e79e49a842	Xena - Warrior Princess - The Talisman of Fate (Europe).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1ac234649d28f09e82c0d11abb17f03b	Xena - Warrior Princess - The Talisman of Fate (USA).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9137129a586e1bcab6ae81bac6b01275	Xplorer 64 (Germany) (v1.067) (Unl).bin	nointro 2023-08-15	nintendo-n64-bigendian
+e24942948f7140ee4260268db763d0fd	Yakouchuu II - Satsujin Kouro (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+dd8a0e5472f13ea87b176f0155fa0c66	Yoshi Story (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2524e5fb8ed4bb8c831c5ac057e8f344	Yoshi's Story (Europe) (En,Fr,De).z64	nointro 2023-08-15	nintendo-n64-bigendian
+711bdc795fef69d94a9ca00d68a2d4b3	Yoshi's Story (USA) (En,Ja) (LodgeNet).i64	nointro 2023-08-15	nintendo-n64-bigendian
+0543ffdc399361740a5b24b364aba6a6	Yoshi's Story (USA) (En,Ja) (LodgeNet).z64	nointro 2023-08-15	nintendo-n64-bigendian
+586a092e22604840973b82dfaceac77a	Yoshi's Story (USA) (En,Ja).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2ae35bdf163613024d876a09f25063f3	Yuke Yuke!! Trouble Makers (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+d3929aadf7640f8c5b4ce8321ad4393a	Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube).z64	nointro 2023-08-15	nintendo-n64-bigendian
+c38a7f6f6b61862ea383a75cdf888279	Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+15d1a2217cad61c39cfecbffa0703e25	Zelda no Densetsu - Mujura no Kamen (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+0c13e0449a28ea5b925cdb8af8d29768	Zelda no Densetsu - Toki no Ocarina (Japan) (GameCube, Zelda Collection).z64	nointro 2023-08-15	nintendo-n64-bigendian
+1bf5f42b98c3e97948f01155f12e2d88	Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+2258052847bdd056c8406a9ef6427f13	Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2).z64	nointro 2023-08-15	nintendo-n64-bigendian
+9f04c8e68534b870f707c247fa4b50fc	Zelda no Densetsu - Toki no Ocarina (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian
+33fb7852c180b18ea0b9620b630f413f	Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube).z64	nointro 2023-08-15	nintendo-n64-bigendian
+69895c5c78442260f6eafb2506dc482a	Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube).z64	nointro 2023-08-15	nintendo-n64-bigendian
+692a33b0d7456fc733a81ab83c20382b	Zool - Majuu Tsukai Densetsu (Japan).z64	nointro 2023-08-15	nintendo-n64-bigendian

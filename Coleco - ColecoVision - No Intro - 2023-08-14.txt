@@ -32,7 +32,7 @@ ade704f01e694fb539bd805d9e276c99	Cabbage Patch Kids - Adventures in the Park (US
 43b04118ccbaf221e829e1b75870cbd6	Cabbage Patch Kids - Picture Show (USA).col	nointro 2023-02-04	coleco-colecovision
 a7f6a6bd45c7ebfc7f8fc0f11eeea000	Campaign '84 (USA).col	nointro 2023-02-04	coleco-colecovision
 f44e87fd71785824ac2ffb9927337886	Carnival (USA, Europe).col	nointro 2023-02-04	coleco-colecovision
-7bf914ee3d7a66eb0fdb579b26ad1f25	Castelo (Brazil) (Unl).col	nointro 2023-02-04	coleco-colecovision
+7bf914ee3d7a66eb0fdb579b26ad1f25	Castelo (Brazil) (En) (Unl).col	nointro 2023-02-04	coleco-colecovision
 8204c7a70a5139610c9211ae4bdae9ae	CAT S.O.S. Game, The (USA) (Promo).col	nointro 2023-02-04	coleco-colecovision
 25ef922aa95b246d6894f5c4c5b29c97	Centipede (USA).col	nointro 2023-02-04	coleco-colecovision
 b3719118e9cfcc1234cd01c1e3fb84cf	Choplifter! (USA).col	nointro 2023-02-04	coleco-colecovision
