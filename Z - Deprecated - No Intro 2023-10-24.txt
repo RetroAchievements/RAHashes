@@ -1,0 +1,194 @@
+099acc5accf90b516c9043aa9dab6231	FIFA 97 (Europe) (En,Fr,De,Es,It,Sv).sfc [Deprecated]	nointro 2023-08-17	nintendo-snes
+c4b3ea8ce3780425ef7d8ce2f5951400	FIFA Soccer 97 (USA) (En,Fr,De,Es,It,Sv).sfc [Deprecated]	nointro 2023-08-17	nintendo-snes
+827ab21778c4ec8dd8b6796ea12f5261	SD The Great Battle - Aratanaru Chousen (Japan) (Rev 1) [b].sfc	nointro 2023-08-17	nintendo-snes
+d952a16db6a4154f877a6713f9da9172	SD The Great Battle - Aratanaru Chousen (Japan).sfc	nointro 2023-08-17	nintendo-snes
+b5f97bcddcaed218040fe2f5942d8756	Spectre (Europe).sfc [Deprecated]	nointro 2023-08-17	nintendo-snes
+6944ab9626f962b1541df378de4c7759	Spectre (USA).sfc [Deprecated]	nointro 2023-08-17	nintendo-snes
+92bedcf89a0fd50f8a9e2bc956b50c48	Worms (Europe).sfc [Deprecated]	nointro 2023-08-17	nintendo-snes
+8e4dddd20fd89e2a90e8e7887011e86f	Bishoujo Mahjong Puzzle (Japan) (Aftermarket) (Unl).gg	nointro 2023-08-27	sega-gg
+728be1f11779d15a42a18c2260d86b56	Dracula no Shiro (Japan) (Aftermarket) (Unl).gg	nointro 2023-08-27	sega-gg
+ebf1aa5e7806afbdab69a15cd75c2bcb	Princess Gardening (Japan) (Aftermarket) (Unl).gg	nointro 2023-08-27	sega-gg
+2b0d53357e22ec60c11be750f4e84f85	Alice Sisters (World) (En,Ja) (Aftermarket) (Unl).md	nointro 2023-08-20	sega-md
+17db8952afe2accfe9699fcb0dc0d944	King of Fighters 98', The (Taiwan) (Unl).md	nointro 2023-08-20	sega-md
+2ea988757c849eb4a875d3a01c75367a	Second Samurai (World) (Aftermarket) (Unl).md	nointro 2023-08-20	sega-md
+e1ca4cb7e735501e17396b5617ba85ff	8BIT Rhythm Land (World) (Aftermarket) (Unl).nes	nointro 2023-10-23	nintendo-nes
+0e64768ae48b4106d9597eb10bc8cc38	Disk Writer EEPROM Pak (Japan) (En) (Data) [b].bin	nointro 2023-10-23	nintendo-nes
+c4afb62469145c5af016db8cdabf60aa	Quattro Adventure (USA) (Unl).nes	nointro 2023-10-23	nintendo-nes
+0a51c89f776712fe75839c5a1473ffd4	Quattro Arcade (USA) (Unl).nes	nointro 2023-10-23	nintendo-nes
+23730812172fe70e4bef3509285ae9ae	Quattro Sports (USA) (Unl).nes	nointro 2023-10-23	nintendo-nes
+036b0763fc60715bc83c358ad93cc1c6	Super Lion King (Asia) (En) (v1.0) (Super Game) (Pirate) (Alt).nes	nointro 2023-10-23	nintendo-nes
+70bd594e286a5b00f597384db964d9d8	Hercules - The Legendary Journeys (USA) (Beta 1).z64	nointro 2023-08-15	nintendo-n64-bigendian
+5f10e3cc21aef132c4612f5a753c3a8d	Empire of Dreams, The (World) (v1.0.1) (GB Compatible) (Aftermarket) (Unl).gbc	nointro 2023-10-16	nintendo-gbc
+3900475788b7c7862258f86c894f0713	Princess Poffin and the Spider Invasion! (World) (2023-06-06) (GB Compatible) (Aftermarket) (Unl).ihx	nointro 2023-10-16	nintendo-gbc
+dc497984f72e01eb90cf64ce7758f547	Princess Poffin and the Spider Invasion! (World) (2023-06-06) (GB Compatible) (Aftermarket) (Unl).map	nointro 2023-10-16	nintendo-gbc
+5b1891ff85aa5bd688d4a8bde74b0717	Princess Poffin and the Spider Invasion! (World) (2023-06-06) (GB Compatible) (Aftermarket) (Unl).noi	nointro 2023-10-16	nintendo-gbc
+fd2b3d15de2841dc5858678d487063d5	Princess Poffin and the Spider Invasion! (World) (2023-06-06) (GB Compatible) (Aftermarket) (Unl).sym	nointro 2023-10-16	nintendo-gbc
+779095e218c5d5fceb168a377051fa64	Repugnant Bounty (World) (Rev B) (Beta) (Aftermarket) (Unl).gbc	nointro 2023-10-16	nintendo-gbc
+a33618246be328cf76b956746fec7bab	Sapphire & Shiny Kidnap the Crows (World) (v2) (GB Compatible) (Aftermarket) (Unl).gbc	nointro 2023-10-16	nintendo-gbc
+e0231f859708c020438a24498cfacfa6	AGB Aging Cartridge (World) (v1.0) (Test Program).gba	nointro 2023-08-13	nintendo-gba
+9f74b2ad1d33e08e8a570ffe4564cbc3	AGS Aging Cartridge (World) (Rev 1) (v7.0) (Test Program).gba	nointro 2023-08-13	nintendo-gba
+c87a8c0c22fbfae9572abe0eda3dcf14	AGS Aging Cartridge (World) (Rev 3) (v9.0) (Test Program).gba	nointro 2023-08-13	nintendo-gba
+06ee51d1f0c2744999145e3e6ecfc745	GBA TV Tuner PAL (China) (v1.3) (Unl).gba	nointro 2023-08-13	nintendo-gba
+0f18e00838012ba8047b87976dd6a08f	GBA TV Tuner PAL (China) (v2.0) (Unl).gba	nointro 2023-08-13	nintendo-gba
+b7562d8e37c2c2a0b22926f8080711db	Racing Gears Advance (USA) (Beta).gba	nointro 2023-08-13	nintendo-gba
+d154381bd849d7a04cb90e789f32bb8e	Adulting! Soundtrack (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+fa646273b3c23600957c8ccb390a4c51	AF+ER (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+f104769941c0c25e8b468c2ae274d632	All Humans Must Die! (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+6e2c510ef5562393cda32a807af4069a	Another Adventure (World) (En,Es) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+f5e2ceff766584d558eff4eadbc97f2d	Astro-Jump - The Sequel (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+c3a774c513a2ab5a2b134e0210b6caf1	Autumn With You, An (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+bd81ecd1dfbc99ff8592a0169fe5e7c3	Bitterroot (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+d6f78d93f6c784ed58e43c1c6779f2e4	Bitterroot (World) (Es) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+31a7ba6b72087ca433b43c5ea14ec12e	Black Tape (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+e0ee709c3bbe5c59be87944dee1c7dcb	BOING! (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+71b5b10dd41f6c8449cb9ca52dd6e590	Borbo's Quest (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+3fdf7a4784f7cc93f850df9fc1dcc1af	Boxed In (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+b73582e8872c1185f5ca7f5aecd7c7f8	Cargo (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+8109642fb056dbf806c66acac8cfc0e4	Cat Boy's Stellar Journey (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+36d8ffb16dbceede9d62b4bf0a88fd3b	Clockmaker's Tale, A (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+c18bf7a9e03ba337658060a9392f2e3f	Cookie's Bakery (World) (v1.0.3) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+d4bf1ca835f0440a206a1751c63770af	Coria and the Sunken City (World) (Demo) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+d26054cdb11d2ea6f4e991de75b30164	Dark Winter Wander, A (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+d4ecb934836df8e3f26af4c976cae730	Dawn Will Come (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+b3d08bf6b51ec11b62e1865f484717df	Dia de Sol Noite de Lua (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+196ce465a2e60ebfa68f377577e6b4aa	Disco Elysium - Game Boy Edition (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+75d839dd6c9231fb0c3104ba0060756f	DIVER 94 (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+ebed797f57ecff8918a4a13de340d83d	Don't Forget About Me (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+d645be8abbdf5ae2271ec50522edf274	Don't Forget About Me (World) (v1.1) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+244d1a147f0922f2842206a496163a8f	Don't Forget About Me (World) (v1.2) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+054921b29a0a336eb1b28272c8125186	Downer (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+5eb19464d9e4d8cb7ea088a32bd30061	Dragonborne DX (World) (v1.0.2) (Demo) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+5f10e3cc21aef132c4612f5a753c3a8d	Empire of Dreams, The (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+c2bdeda559f02973c213e5085fd0d4df	Fix My Heart (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+1b761f9ef23eb90d34085dd5eca02386	Flashin' (World) (v3.0) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+0df21ba45a2c6edfab393ef5f22c95fe	Flooder (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+36d3c5208860aae4ac9377fac6c94537	Flooder (World) (Anniversary Edition) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+948f4ff45e8c3a7cd94c08aeac6dbef5	Forest of Fallen Knights (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+a7af89e99a4cbb2afbe08549088d8fda	Forest of Fallen Knights (World) (Beta) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+c416450b06fc81fc07ab792c07790d3a	Friday the 13th - The GB Game (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+b7cc57aba9190a1db492b56716ba048c	Fugazim (World) (Pt) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+958670daeccc225fe23e74a60be59541	G.B Corp. (World) (Beta) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+7d54e3982090c614495c5f470a4cdd11	Game Boy Camera Gallery 2022, The (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+c8aaf7b73f70f3d600a1d6c435f8349e	GB-Wordyl (World) (Ca) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+b13dda5f217d1e8050af087a3f5ac6bc	GB-Wordyl (World) (De) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+1d09181e1608bb4cbb77c127d27feb19	GB-Wordyl (World) (En) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+1e29b4f3a9899a88fdcaefa73fcb565e	GB-Wordyl (World) (Es-XL) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+03286ff23be2127e0b5e111001a369c2	GB-Wordyl (World) (Es) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+2c7601475b1a252f461811072f70ba8f	GB-Wordyl (World) (Fr) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+25b8e4d2aa1e09bbd5e68adcad582b84	GB-Wordyl (World) (It) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+ab00def91c7d2f6d29d3f0c629102033	GB-Wordyl (World) (Kw) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+5adbcf7b767292f53912761b66133455	GB-Wordyl (World) (Nl) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+cc1d5175df56961476d3e92761cab9f2	GB-Wordyl (World) (Pt-BR) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+1b9515262a8a57ef1366bed635c604e4	Gorf the Ghost Saves Halloween (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+b53eaf56f0c95887f4c009c4a95f28a2	Grave Encounter, A (World) (v1.21) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+e6cfb4de1afee7579d21938eba5a69b3	Grave Encounter, A (World) (v1.3) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+5b29ec02452df1c3ce70d6aa82d59409	Gravitorque (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+a881f04dee6d67c7bc4be388e247a6fe	Haunted (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+b3af66996b1ae8315ad94880af361cec	Hauntsfield (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+8de5e624fe203a7b65c48e5994cc9bf0	In the Dark (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+d965384426146361d6e94b901d3e96f8	Last Crown Warriors (World) (v1.0.1) (Demo) (Kickstarter) (SGB Enhanced) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+9486bb6a673a6599d59a3b726f58bccd	Last Crown Warriors (World) (v2.1.0) (Demo) (SGB Enhanced) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+a096bf1910cbdfc8eebe83180db68979	Last Crown Warriors (World) (v2.1.1) (Demo) (SGB Enhanced) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+5a0ca2938d675a7a83a593650594f728	Legacy of Verintia (World) (2023-05-15) (Demo) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+df87e19ae4e5904809b727acdea60feb	Legacy of Verintia (World) (2023-05-31) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+3097afa0be963c4318cde06184dccf1a	Let's Bee Friends (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+39099c9c22658b15703aeaea20e8ec04	Melanie and the Magic Forest (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+d6a568f56d59772c7a83b5e8504c86d6	Melanie and the Magic Forest (World) (v1.1) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+32e1169337de052ddfb443d71794f1d7	Midterm Moments (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+975afeb42d4dca06ab6d0b029def64af	Mountain Climber (World) (En,Es) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+d4353731d8d6b29c0fa9969c767994a6	Mud Warriors (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+fce7079639133df3c4d1f7beb8a89b21	Neighbor (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+340d4314e654e05fa9a4705181799096	Office Combat (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+6d450e010e7d293c743d6f62466b6004	One Day (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+639ae0f129bb98e17cc1b39e962cc43a	Phantom Fright (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+7fe77698974780fec4566d30d183a206	PlayTime (World) (Proto) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+01e5a7a8a115c7e88b39de91b0ed9928	Quartet (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+98ce3dda6530b382036478bf9850f1a1	Quest Arrest (World) (v1.1) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+010ae3b36a642d13ee85fcc5494a132b	Retro Quiz Tower (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+5bad510836505a54f873191391bf7392	River Styx Round-Up (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+a33618246be328cf76b956746fec7bab	Sapphire & Shiny Kidnap the Crows (World) (v2) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+c84bc300653ada16fc0b95d14205d992	Silent Hill 2 - 20th Anniversary Demake (World) (2021-12-09) (Prototype) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+4d401d54a616be45156e253213a6f04f	Sludge & Sorcery (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+1b8671a31a0c30a62eef62ddb4bf915f	Snail DX, The (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+1c2cb80c83747edf5988b1b0c782ecf0	Snail DX, The (World) (v1.2) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+8acdfec71941940bcb1410143254228f	Snooze (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+2ea86780d4b6b9220db59df7c6afff4c	Star Hunt (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+e585b4fc4acf013599938e3d84e4afe3	StarFox - Grounded (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+380b1ef48f653e92e35cb81fdeec9419	Suicide Run (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+a455a70d52a9ffcfe8c4d8c164267500	Super Impostor Bros. (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+57611d2939ee579349f2221c78339bb1	Swordbird Song - The Iron Owl Tower (World) (v3.1) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+2cd0ad9218bec430085d48e1d4530bba	Tales of Monsterland (World) (v2.83) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+9a8e8451edb7a0ce6b19ac89457cb3fc	Tiny Grasshopper Goes Away (World) (En,Hu) (v1.2) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+08405276b33bc1b679b05296a2f7c44d	Tiny Grasshopper Goes Away (World) (En,Hu) (v1.4) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+ad69df8a9866bddc37055a10c3c81786	Traumatarium (World) (Demo) (2023-06-01) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+fac7b33c7d7d3b92e39dfd325e9c7f9a	Trouble City - Pocket Mission (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+09bc56a467f95a19a357174c5710db74	Unearthed (World) (v1.3) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+8f490735c17b983c2e2fbc3a9425ffe7	Ungrateful Son, The (World) (v1.1) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+b1c7dbc6db86ea54fa8caab4eb3148e2	Unholy Friend (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+c1ef769ab7525ca2b2c3b0eb88b1c49c	Warp Coin Catastrophe, The (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+d5aef2fb975eebf3b66ea89c469d0d7c	Warp Coin Catastrophe, The (World) (v1.1.2) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+2295f4ef94f9b9a21dfc04259ab6d7bf	Warp Coin Catastrophe, The (World) (v1.1) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+0bb519a09c675a797f422305115b49cc	What's Updog (World) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+4e60a2f1edbef45f0794a95dc0607234	Year After, The (World) (Beta) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+2f6556846cc09e6165ff05df60bb072b	Year After, The (World) (Pt) (Beta) (Aftermarket) (Unl).gb	nointro 2023-08-28	nintendo-gb
+57f718a9f3add36b71f606d636cb1d6f	Daisenryaku MSX2 (Japan).rom	nointro 2023-03-12	microsoft-msx2
+43e912285287a9cf52abdc3bfab2951f	Hal Note (Japan) (Program).rom	nointro 2023-03-12	microsoft-msx2
+1c697df0beb93eec95407bf87285a58a	Q-bert (USA, Europe).int	nointro 2023-08-19	mattell-int
+	Amber (Germany) (v4.00a 25.11.90) (Coverdisk - Amiga Fun - Issue 11).ipf	nointro 2023-06-04	commodore-amiga
+	Downhill Challenge (Europe) (v1.0).ipf	nointro 2023-06-04	commodore-amiga
+	Dungeons of Avalon II - The Island of Darkness + Tetrix (Germany) (Coverdisk - Amiga Fun - Gold Edition).ipf	nointro 2023-06-04	commodore-amiga
+	Fears (Europe) (Preview) (AGA) (Coverdisk - CU Amiga - Issue October 1995).ipf	nointro 2023-06-04	commodore-amiga
+	Flowers of Crystal (Europe) (v2.0).ipf	nointro 2023-06-04	commodore-amiga
+	Hexuma (Europe) (Promo).ipf	nointro 2023-06-04	commodore-amiga
+	Ice Runner (Europe).ipf	nointro 2023-06-04	commodore-amiga
+	Kalas Puffs Expressen (Sweden).ipf	nointro 2023-06-04	commodore-amiga
+	Ratco (Europe).ipf	nointro 2023-06-04	commodore-amiga
+	Stoppt den Calippo Fresser (Germany) (Promo).ipf	nointro 2023-06-04	commodore-amiga
+1afe5038ac322e92b26e0226d1781ece	Arkanna (World) (Demo) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+934192686cf18bbb6bbfe12b8be1cf91	Assassin, The (USA) (Aftermarket).rom	nointro 2023-04-14	atari-jaguarROM
+ec80b90e8085f8d14c555cd79f38605b	Asteroids (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+49d81347de21b428b42997eb4dd7cafa	Atomic (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+c9b4fdd86b1e45ac8f71a153c6cebb29	Atomic Reloaded (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+8238af07993b8f2074c46e8b89ffa4b2	Dark Guardian Episode 1 - Unknown Enemy (USA) (Proto).rom	nointro 2023-04-14	atari-jaguarROM
+9a0caf57934807c69529a9bde3ec5c6e	Degz (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+3f5403b039b1a03caecada5afd909d6d	DiamJag (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+9da9b713fb50587045ecf8ac7576816f	Do the Same (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+4712a5c983b3d7e7d51f959825346ca5	Expressway (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+7d2611a334962e57e534149245d11f5d	Full Circle - Rocketeer (World) (Demo) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+8d69fb7b5c189282fee4daa22bcb8dd4	Impulse X (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+4faa8ce76bd62251cb405f480da63d61	JagMania (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+7ee42d140962dd708510a21af1be88c1	Jaguar Tetris (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+9396a60e9767df485128eb8704104d0d	Jungle Jag (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+5172e48ff4b33679366d258cb406c222	Kobayashi Maru (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+b6b453228469a980a55e6d1c0e77dc9e	Kobayashi Maru - Final (World) (Demo) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+0ea7bf8d43fb95407a6b16766d6ce5d3	Native (USA) (Proto).rom	nointro 2023-04-14	atari-jaguarROM
+36123d4713b40a443be5efd5dbb99eb6	OSMOZYS (World) (Demo) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+f5d198c568d1ba750bdb8f9dd3dc4a51	Painter (World) (Demo) (1995-12-29) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+0af3500bf3d1926796eca6955f06ef04	Rebooteroids (World) (Proto) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+fe85b8973957fc5035eac270d0d845b0	Rocks Off! (World) (Aftermarket) (Unl).rom	nointro 2023-04-14	atari-jaguarROM
+0e50e2d70e33f1ee66d76558fb2875c0	Slam Racer (USA) (Proto 1).rom	nointro 2023-04-14	atari-jaguarROM
+c6148e0ec86f4c496e7cc19f9249a2c9	Zzyorxx II (USA) (Demo).rom	nointro 2023-04-14	atari-jaguarROM
+63d31aba1f83dc48006b15d3646fdb6c	Arkanna (World) (Demo) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+71777753beddac769f4ed5a2a4438d8e	Assassin, The (USA) (Aftermarket).j64	nointro 2023-04-14	atari-jaguarJ64
+b2e126347c883e2eb3980001374b3de0	Asteroids (World) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+8b30e724ba30a4ff40ec9a62f9d1debd	Atomic (World) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+6497342537f752614b77c7c6373ecb4a	Atomic Reloaded (World) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+f1b1252f237fadf736396469d36cdaa7	Dark Guardian Episode 1 - Unknown Enemy (USA) (Proto).j64	nointro 2023-04-14	atari-jaguarJ64
+575211b5efa10433d18702d2a315c02b	Degz (World) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+9885c4e29a6fbe3f55a9e19c9e25bd71	DiamJag (World) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+fe5ebd548917186168e4dba4a641bd39	Do the Same (World) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+06669eb0a0be483ce628f4b3d5734812	Expressway (World) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+161f4b7bd58014d8aebc8c1c56409338	Full Circle - Rocketeer (World) (Demo) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+95428543b717e957b1343d2277860a03	Impulse X (World) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+d3dd0706d089d0801704188d1b0b3cff	JagMania (World) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+211793ac62dd3d036e39defa68cdc042	Jaguar Tetris (World) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+10d5734139bb1158a4405eaead761f04	Jungle Jag (World) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+9c43a83d646026a7f9fea35f1706bcdd	Kobayashi Maru (World) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+a64d2de0dfc727762b4a200ed69f0f46	Kobayashi Maru - Final (World) (Demo) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+39beed5413322f1487bafd4feb24aa49	Native (USA) (Proto).j64	nointro 2023-04-14	atari-jaguarJ64
+985bd1236c3c416381240fb537e86536	OSMOZYS (World) (Demo) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+3887c0abc4a45144760e66fb2e7b21dd	Painter (World) (Demo) (1995-12-29) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+2ffe66cd0494672d34e23146ff662a7c	Rebooteroids (World) (Proto) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+fb46a8ecc704eb855a82862b1e25306e	Rocks Off! (World) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
+8e245a0f377706e7db9686f9e8efd1e8	Slam Racer (USA) (Proto 1).j64	nointro 2023-04-14	atari-jaguarJ64
+e419fed663afce4d8a228e6454dd51a8	Zzyorxx II (USA) (Demo).j64	nointro 2023-04-14	atari-jaguarJ64

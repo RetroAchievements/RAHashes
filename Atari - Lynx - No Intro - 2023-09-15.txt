@@ -1,0 +1,123 @@
+fcd403db69f54290b51035d82f835e7b	[BIOS] Atari Lynx (World).lnx	nointro 2022-09-15	atari-lynx
+b425941149874c6371c40e85cc5b6241	A.P.B. (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+8ce6c739d30d6c5ba197fcdd73d5ead5	Alien vs Predator (USA) (Proto) (1993-12-17).lnx	nointro 2022-09-15	atari-lynx
+49d6eeb3c983246ff4d7034497f7095c	Awesome Golf (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+8c9a72ddbb5559293862684ec67bfa92	Baseball Heroes (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+f19b95e4835c5fbc44b180dbd3f024fc	Basketbrawl (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+6e9bbff3c7b66d3ec0411ffbe0e41dfd	Batman Returns (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+fddecd756abe5eaf613ca1db31d51df7	Battle Wheels (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+d405ea54b77390b06222f9dac7cea827	Battlezone 2000 (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+87dff4f4d5e1e4a7132d19f94d4e9b3a	Bill & Ted's Excellent Adventure (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+c81abf2919effd525b83c2103b75e6ca	Block Out (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+7c3cb287de2d9f67ff342b4e42592732	Blue Lightning (World) (Demo).lnx	nointro 2022-09-15	atari-lynx
+f7b4775771bc25d9053af5c69a8c8b2a	Blue Lightning (World).lnx	nointro 2022-09-15	atari-lynx
+90841f8fed54862f8a8750ddf212eb84	Bubble Trouble (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+4f4e6480d7157aeb5904554e038ae218	Bug's Trip Redux, A (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2022-09-15	atari-lynx
+3615dd6b8b805e193107b39c5a92b1f9	Cabal (USA) (Demo).lnx	nointro 2022-09-15	atari-lynx
+73e02bb77dcf857a6578f0e24b4ecb9e	California Games (World).lnx	nointro 2022-09-15	atari-lynx
+13cb869b95c67c532efdd0e924e37299	Centipede (USA) (Proto).lnx	nointro 2022-09-15	atari-lynx
+85b33c5e5985ab041ecc44555a8cfb42	Checkered Flag (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+24611d1445ebd34ab79fb0ae996ff4e4	Chip's Challenge (World).lnx	nointro 2022-09-15	atari-lynx
+b4acbd3c544a0d92cc8ad1380bf8a810	Crystal Mines II (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+f8b4debd68eb0d7c578242fa74e1c593	Daemon's Gate (USA) (Proto 1).lnx	nointro 2022-09-15	atari-lynx
+f1c12b0c2284e7f7abe948aa97b34ae1	Daemon's Gate (USA) (Proto 2).lnx	nointro 2022-09-15	atari-lynx
+f764b88c44afa8b5ebefb8eb2e4d7b97	Desert Strike - Return to the Gulf (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+9496be61fd0675553f05345c5fc2d15c	Dinolympics (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+8cd77bec912c9b4dcebd8a82dcf91a0b	Dirty Larry - Renegade Cop (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+0e91b7ed60bb47d569ba24df671ad3a3	Double Dragon (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+3ff35996887c2ff95e275085efbbbbed	Dracula the Undead (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+c49ca94a908db219224c6d5baa206ab6	Electrocop (World).lnx	nointro 2022-09-15	atari-lynx
+32e726ab7941eb1e833dcc4cf348a060	European Soccer Challenge (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+858480bb97d86a52b1ca17dc390a8bdc	Eye of the Beholder (USA) (Proto 1).lnx	nointro 2022-09-15	atari-lynx
+982986f482ecef8bd0314f6b71152245	Eye of the Beholder (USA) (Proto 2) (Aftermarket) (Unl).lnx	nointro 2022-09-15	atari-lynx
+7b3f49bda3162fac51a387905e6fb6f4	Eye of the Beholder (World) (Unl).lnx	nointro 2022-09-15	atari-lynx
+69abd21c83390dae54630919c3c150d0	Fat Bobby (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+19eb0ca77284b5d91a63eb02f6962930	Fidelity Ultimate Chess Challenge, The (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+b6ff75c316d85967486a833e0f9ed8f0	Friendly (World) (Demo) (Unl).lnx	nointro 2022-09-15	atari-lynx
+bb25f72460164c2319993e87668d9c69	Full Court Press (USA) (Proto).lnx	nointro 2022-09-15	atari-lynx
+d5be9118bcb14243468001b08c4aa21a	Gates of Zendocon (World).lnx	nointro 2022-09-15	atari-lynx
+8815ea087af1aa89b4f7b65bd3cb8534	Gauntlet - The Third Encounter (World) (Beta) (1990-06-04).lnx	nointro 2022-09-15	atari-lynx
+0b572c0dfb938849eeec39b2c9583547	Gauntlet - The Third Encounter (World).lnx	nointro 2022-09-15	atari-lynx
+aa9ce261ce613992699436f5ca800b2c	Geoduel (USA) (Demo).lnx	nointro 2022-09-15	atari-lynx
+eb9b5b2b6160e5f3015bc2a669d886b6	Gordo 106 (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+6419bd35b15bc190bf55de3025300422	Guardians, The - Storm Over Doria (USA) (Proto 1).lnx	nointro 2022-09-15	atari-lynx
+69b58d4482c69b4658d443f00975dae4	Guardians, The - Storm Over Doria (USA) (Proto 2).lnx	nointro 2022-09-15	atari-lynx
+c265f0de8c5bd77db8f9cf5a1f7ab68f	Hard Drivin' (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+a08b8070ad613bdb2637162b3bf39574	Hockey (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+76a48869c14fbcf85588001a1327253d	Hydra (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+addc6c0ae7b535839815b8e7f7fd0f11	Ishido - The Way of Stones (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+087e6ed018ad0573bd7ce3a91d34f2c9	Jimmy Connors' Tennis (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+440462507cf5cffaa8d3d3a66f01ac6a	Joust (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+57043e8e79588c067118a4d5f307cd76	Klax (World) (Beta).lnx	nointro 2022-09-15	atari-lynx
+f96a0ddcc72c971226e8fdfd95607c88	Klax (World).lnx	nointro 2022-09-15	atari-lynx
+7e82db12a5749ab983e2f3c8bf4c0f6e	Krazy Ace - Miniature Golf (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+e5e42190918847b8c6056e78316ee91d	Kung Food (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+3cae85572df3b43f0220326bf4bb3c8b	Lemmings (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+7ee41edaef283459c9df93366c5da267	Lexis (World) (Aftermarket) (Unl).lnx	nointro 2022-09-15	atari-lynx
+96fd77f3527bc6f65977b99ab63d7f84	Lode Runner (USA) (Proto 1).lnx	nointro 2022-09-15	atari-lynx
+908ced914b1308d166ae83226aa12985	Lode Runner (USA) (Proto 2).lnx	nointro 2022-09-15	atari-lynx
+2d9b5d1fe7c868371357f42dbbf75131	Loopz (USA) (v0.04) (Proto) (1992-09-16).lnx	nointro 2022-09-15	atari-lynx
+8399c8fba48ba1a4389a96e75838dc49	Loopz (USA) (v0.06) (Proto) (1992-11-05).lnx	nointro 2022-09-15	atari-lynx
+05d28ab0e92b19147e7f5ea88c6efb6d	Lynx Casino (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+5d8fdfb15441cdfb8a1c66c243c486da	Lynx II Production Test Program (USA).lnx	nointro 2022-09-15	atari-lynx
+98c851c7ed924e1c7123c60e5164819e	Malibu Bikini Volleyball (USA, Europe) (Beta) (1993-05-11).lnx	nointro 2022-09-15	atari-lynx
+280344c8b073895ecce286d1b9d87d8b	Malibu Bikini Volleyball (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+748bda71d1f8ee328b086ee21ac3c3f9	Marlboro Go! (Europe) (Proto 1).lnx	nointro 2022-09-15	atari-lynx
+194a3eeb876d2b74cc480f4d337d79b3	Marlboro Go! (Europe) (Proto 2).lnx	nointro 2022-09-15	atari-lynx
+192b6b764a3a1c7831e0a785fa4b5453	Ms. Pac-Man (World).lnx	nointro 2022-09-15	atari-lynx
+276b9be28571189912f05d321fcb04ef	NFL Football (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+7ec4063eb6c7c74600d6a16fb3a3bdbd	Ninja Gaiden (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+c9ed2a3bdefd6d5fdf67302d87b5cfb2	Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+0f8ca2827f6e05033be0354692d5cc9b	Ninja Nerd (USA) (Demo).lnx	nointro 2022-09-15	atari-lynx
+0a14754b351b4f11a1359e252b8eb992	Pac-Land (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+2a59d2ca6d6f07bc2791bf349e2778ee	Paperboy (World).lnx	nointro 2022-09-15	atari-lynx
+29a248fbc87f477b49587581e29c1dc7	Pinball Jam (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+95581fd55a30557e2d2ec0419bb4bbb8	Pit-Fighter (USA, Europe) (Beta) (1992-10-13).lnx	nointro 2022-09-15	atari-lynx
+5565889a9a8817f99ec6dda322a70877	Pit-Fighter (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+aadb26f2a14efbc1dcddd3bccd9026bf	Poker (Europe) (Fr) (Proto).lnx	nointro 2022-09-15	atari-lynx
+cc2933862113e46aa21f68c0536115c2	Pounce! (USA) (Proto).lnx	nointro 2022-09-15	atari-lynx
+b29414b8c81cc9ef28ef2f7a09d6d876	Power Factor (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+12e1eb0900402ef6de8b72dda5d22f47	QIX (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+abfd6ae93c31e8f59aa934ad922cb4dd	Raiden (USA, Europe) (Beta).lnx	nointro 2022-09-15	atari-lynx
+00a522c806102fb56044097368247a81	Raiden (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+1cc118ad87487d9e7fbfa98c8ad09209	RAM cart (USA) (Proto) (Program).lnx	nointro 2022-09-15	atari-lynx
+e0cb426257761c3688a866332ed48340	Rampage (World).lnx	nointro 2022-09-15	atari-lynx
+d8045ed542d5e58c779c884e0930e16c	Rampart (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+e552d21050114ec3f441474e8fded89c	Road Riot 4WD (USA) (Proto 1).lnx	nointro 2022-09-15	atari-lynx
+702e4d515d9f33698407b118c4cd373f	Road Riot 4WD (USA) (Proto 2).lnx	nointro 2022-09-15	atari-lynx
+8e0680d9d484749297bd7f4cfd5b7354	Road Riot 4WD (USA) (Proto 3).lnx	nointro 2022-09-15	atari-lynx
+9222e42a160924dee0c87a67fdbc48d0	Road Riot 4WD (USA) (Proto 4).lnx	nointro 2022-09-15	atari-lynx
+39617ebb81f3c1df27354c18571bd6c3	RoadBlasters (World).lnx	nointro 2022-09-15	atari-lynx
+f9faa45e3c35e505249c3f9df801737b	Robo-Squash (World).lnx	nointro 2022-09-15	atari-lynx
+60c1dfbf112bbb2a49cf16eddb191842	Robotron 2084 (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+f72a01bf1f9662253ee1abfc27cd05d2	Rolling Thunder (USA) (Proto).lnx	nointro 2022-09-15	atari-lynx
+ff6fff314446ab70dfecb21e2de4a2f6	Rygar (World).lnx	nointro 2022-09-15	atari-lynx
+490f8063bbb299070c4aceab64195088	S.T.U.N. Runner (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+0cf228912d2f8eeb29aa215abf416f6d	Scrapyard Dog (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+f92d57198ef2da30dba63bdd7c15ff83	Shadow of the Beast (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+46634eb87e6380d4d10f7b80d177c1ff	Shanghai (World).lnx	nointro 2022-09-15	atari-lynx
+8388b5140341edcba11cd0d4991d1578	Spacewar (USA) (Demo).lnx	nointro 2022-09-15	atari-lynx
+8828c0042a1a397de67c4e49042161ff	Steel Talons (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+67dd69e6ffaf61bc85243d272d9ee9d9	Super Asteroids, Missile Command (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+6cd23cb37c4c4c34ef4e197468462f3f	Super Off-Road (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+a19802bd3a7e390daf7e2cbe5a81ed38	Super Skweek (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+4971dd8b47d3475dc8d31b5325c14459	Switchblade II (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+4581ac0418679567dce041c88cc97719	Todd's Adventures in Slime World (World).lnx	nointro 2022-09-15	atari-lynx
+ec46311f47276e20cc43228c96d119a1	Toki (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+391dfaba9ab8b9b60e9d8ca2a73f5711	Tournament Cyberball (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+8caaaf56f95ee0bb610ca14af2d12a61	Turbo Sub (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+44d7c4ea6b8d930075f5b05c94b5f973	Viking Child (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+7acf2074659b1b5717411e81e6c1a281	Vindicators (USA) (Proto).lnx	nointro 2022-09-15	atari-lynx
+e7f118ac59f985ceea2ecfc0f17e9cc6	Warbirds (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+f94fd30d1f1da38f300a19de3c624152	Wolfman (USA) (Demo) (Kiosk).lnx	nointro 2022-09-15	atari-lynx
+7fcf204013cbedf7eaaf682ff5f216ba	World Class Soccer (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+69fb597cb4db019c48fd2e0c1cc7b75c	Xenophobe (World).lnx	nointro 2022-09-15	atari-lynx
+e8cddf7b04a935fd48ab030d2ede8be0	Xump - The Final Run (World) (v1.20) (Aftermarket) (Unl).lnx	nointro 2022-09-15	atari-lynx
+c145bfe904e5d56f479df44204b255da	Xybots (USA, Europe).lnx	nointro 2022-09-15	atari-lynx
+22b13522eb382070763f282bded16f39	Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.00) (Aftermarket) (Unl).lnx	nointro 2022-09-15	atari-lynx
+c40f43ffba5c37d6731cf4fa4c78702a	Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.01) (Aftermarket) (Unl).lnx	nointro 2022-09-15	atari-lynx
+bffb5d9521cfa4e8a151db5cee9943dd	Yastuna Volume 2 - The Space Incident (World) (v1.00) (Aftermarket) (Unl).lnx	nointro 2022-09-15	atari-lynx
+df4881703738614ee465559ad18e6e8e	Yastuna Volume 2 - The Space Incident (World) (v1.01) (Aftermarket) (Unl).lnx	nointro 2022-09-15	atari-lynx
+52997de9af205728a0e17ea3475f7ae2	Zaku (World) (Beta) (Unl).lnx	nointro 2022-09-15	atari-lynx
+6b9d6872961b22de6b1b0cced65d8e3f	Zaku (World) (Unl).lnx	nointro 2022-09-15	atari-lynx
+d008f41ec119e2c5c6a0782aebf148a8	Zarlor Mercenary (World).lnx	nointro 2022-09-15	atari-lynx
