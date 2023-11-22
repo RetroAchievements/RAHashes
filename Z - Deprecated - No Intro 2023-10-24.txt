@@ -192,3 +192,8 @@ a64d2de0dfc727762b4a200ed69f0f46	Kobayashi Maru - Final (World) (Demo) (Aftermar
 fb46a8ecc704eb855a82862b1e25306e	Rocks Off! (World) (Aftermarket) (Unl).j64	nointro 2023-04-14	atari-jaguarJ64
 8e245a0f377706e7db9686f9e8efd1e8	Slam Racer (USA) (Proto 1).j64	nointro 2023-04-14	atari-jaguarJ64
 e419fed663afce4d8a228e6454dd51a8	Zzyorxx II (USA) (Demo).j64	nointro 2023-04-14	atari-jaguarJ64
+9e19a3fa1d458c3e8be8bd6103937473	2 in 1 Game Pack - Spider-Man & Spider-Man 2 (Europe) (En,Fr,De+En,Fr,De,Es,It).gba	nointro 2023-10-23	nintendo-gba
+8de5e624fe203a7b65c48e5994cc9bf0	In the Dark (World) (GB Compatible) (Aftermarket) (Unl).gbc	nointro 2023-10-16	nintendo-gbc
+fcd979525251f1f9e0467459c792e5a4	glitchNES (World) (v0.2) (Program) (Aftermarket) (Unl).nes	nointro 2023-10-23	nintendo-nes
+3e794b7bc5c9b77b742a3ba734b7b0a1	Hole New World Soundtrack, A (USA) (Limited Run Games) (Aftermarket) (Unl).nes	nointro 2023-10-23	nintendo-nes
+2978d08434ea8cd8c21cdd76fcba72f6	Thunder Paw (World) (Aftermarket) (Unl).md	nointro 2023-10-16	sega-md
