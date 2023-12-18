@@ -1,0 +1,213 @@
+6a5433f6a132a2b683635819a6dcf085	[BIOS] 32X M68000 (USA).bin	nointro 2023-11-29	sega-32x
+f88354ec482be09aeccd76a97bb75868	[BIOS] 32X SH-2 Master (USA).bin	nointro 2023-11-29	sega-32x
+7f041b6a55cd7423a6c08a219335269e	[BIOS] 32X SH-2 Slave (USA).bin	nointro 2023-11-29	sega-32x
+62d3b8f18c3d90afe343d07ead9c1d4c	32X Sample Program - PWM Sound Demo (Unknown) (SDK Build).32x	nointro 2023-11-29	sega-32x
+a8e05bd3cdf97e1811ebd6d52c4371a7	After Burner Complete (Europe).32x	nointro 2023-11-29	sega-32x
+ec9529858cc7961b39f5382b2f657b8f	After Burner Complete (Japan, USA) (En).32x	nointro 2023-11-29	sega-32x
+a60b0838a776966e17a8f10b94baddef	Amazing Spider-Man, The - Web of Fire (USA).32x	nointro 2023-11-29	sega-32x
+35a11e021ca0b7ff909e4774eb8b3236	BC Racers (USA).32x	nointro 2023-11-29	sega-32x
+c238b112113b0297b2b9f4f618d56598	Blackthorne (USA).32x	nointro 2023-11-29	sega-32x
+1738a479b0253bcb0bcfb7bf09c03add	Brutal - Above the Claw (USA).32x	nointro 2023-11-29	sega-32x
+dee27ac83240ddebdcaa92e9f58fde4f	ClayFighter 2 (USA) (Proto) (1995-04-28).32x	nointro 2023-11-29	sega-32x
+8aadc467d31bc64f95a7fbe8f95afeb3	Cosmic Carnage (Europe).32x	nointro 2023-11-29	sega-32x
+2a6755d2c4f00bc8569a3fd41dd556d8	Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-06).32x	nointro 2023-11-29	sega-32x
+4fd7b679099aaf9ebe8dec1603ec3780	Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-21).32x	nointro 2023-11-29	sega-32x
+7f97f54d53a6adfcde9a56faaf448c34	Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-26).32x	nointro 2023-11-29	sega-32x
+ad83a93fc3a31444bdd89ddb11262c5d	Cosmic Carnage (Japan, USA) (En) (Beta) (1994-09-28).32x	nointro 2023-11-29	sega-32x
+f2a81c48457191b4f3329792941ac71a	Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-04).32x	nointro 2023-11-29	sega-32x
+0210673f0735f1f0956057243bef919c	Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-05).32x	nointro 2023-11-29	sega-32x
+0eee6f56666fd70b3483bad9b5297a5e	Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-07).32x	nointro 2023-11-29	sega-32x
+52a2e8a8a6a031e0ae731d2efd65a982	Cosmic Carnage (Japan, USA) (En) (Beta) (1994-10-11).32x	nointro 2023-11-29	sega-32x
+32f3002a46a462735aa12ca856cb7652	Cosmic Carnage (Japan, USA) (En).32x	nointro 2023-11-29	sega-32x
+30ee320f76db70a836edeff2c8ce9cd2	Darxide (Europe) (En,Fr,De,Es).32x	nointro 2023-11-29	sega-32x
+fd439f39b26ba22e4f79a0c87352c6b0	Doom (Europe) (Beta) (1994-10-02).32x	nointro 2023-11-29	sega-32x
+1abe8b9b1855b1b101cb7f1d86395c22	Doom (Europe).32x	nointro 2023-11-29	sega-32x
+2f9dfd9c5e06f9df0cfbe0f7e2a425d7	Doom (Japan, USA) (En) (Beta) (1994-09-06).32x	nointro 2023-11-29	sega-32x
+f9ac4fff9b19ac75fa6d22a89ea942c6	Doom (Japan, USA) (En) (Beta) (1994-09-09).32x	nointro 2023-11-29	sega-32x
+f243589e68209c8f18f0d4e5775c3107	Doom (Japan, USA) (En) (Beta) (1994-09-14).32x	nointro 2023-11-29	sega-32x
+c645547a0d1da8758663317bc9634224	Doom (Japan, USA) (En) (Beta) (1994-09-16).32x	nointro 2023-11-29	sega-32x
+46811a3ae28768d571af51796a940b8f	Doom (Japan, USA) (En) (Beta) (1994-09-21).32x	nointro 2023-11-29	sega-32x
+54c0ae49bd3f514c60976a4e62b8527e	Doom (Japan, USA) (En) (Beta) (1994-09-23).32x	nointro 2023-11-29	sega-32x
+9abc704274f7d59f20832b2aa4d7ec8d	Doom (Japan, USA) (En) (Beta) (1994-09-25).32x	nointro 2023-11-29	sega-32x
+000d37e58327be661c6c9c6803077c5b	Doom (Japan, USA) (En) (Beta) (1994-09-27).32x	nointro 2023-11-29	sega-32x
+0a581f2470a35141f32c90c9e9c7f3e5	Doom (Japan, USA) (En) (Beta) (1994-12-01).32x	nointro 2023-11-29	sega-32x
+79339867d9d4f58b169753d9a29ea1a5	Doom (Japan, USA) (En).32x	nointro 2023-11-29	sega-32x
+e7917f7d91c05c0f928f6b4d68c553b2	Doom RR (Japan, USA) (En) (Beta) (1995-02-15).32x	nointro 2023-11-29	sega-32x
+c7786d03342fa87c291480d346e18402	Doom RR (Japan, USA) (En) (Beta) (1995-02-21).32x	nointro 2023-11-29	sega-32x
+37974d4c2596436922770ebbeed0927b	Doom RR (Japan, USA) (En) (Beta) (1995-03-07).32x	nointro 2023-11-29	sega-32x
+c2b642fdcfff8bff511e45203a1e8679	Ecco the Dolphin (USA) (Demo) (Developer Cart).32x	nointro 2023-11-29	sega-32x
+24aaa6ef307d20147ce10e7610e59aa2	FIFA Soccer 96 (Europe) (En,Fr,De,Es,It,Sv).32x	nointro 2023-11-29	sega-32x
+c30e393f01ada81ca44bad43ee63d3b7	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-14).32x	nointro 2023-11-29	sega-32x
+7a186abafff18ba8ed439f362b56014e	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe) (Beta) (1994-12-21).32x	nointro 2023-11-29	sega-32x
+f772e22b574406e3e20c172117050973	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Europe).32x	nointro 2023-11-29	sega-32x
+56b0c88cd4aef3ff65ef623527a9edba	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-07-06).32x	nointro 2023-11-29	sega-32x
+2600f3ba9d72947910e7cffeba8f5b71	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-11).32x	nointro 2023-11-29	sega-32x
+6aca59ba95b6c1defe19ed32f00d3ef1	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-17).32x	nointro 2023-11-29	sega-32x
+1fc6e86e79315775cb93649f4cfe83d9	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-18).32x	nointro 2023-11-29	sega-32x
+c5a1281e901df24a620a66026373cddc	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-24).32x	nointro 2023-11-29	sega-32x
+61bf65053db9eaa967bca74e18adf23d	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-10-26).32x	nointro 2023-11-29	sega-32x
+03480484a4d2e3fe3353900dc3033101	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-01).32x	nointro 2023-11-29	sega-32x
+7f1ddc96f801c121adb5e6b1a5c2f73f	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-03).32x	nointro 2023-11-29	sega-32x
+ca9ca81bde5b0819d1bcce097796a41b	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-05).32x	nointro 2023-11-29	sega-32x
+6bc3ecead9db55f646f4db49d484403d	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-07).32x	nointro 2023-11-29	sega-32x
+415b56539f3dbe85fbc9e327e7512136	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-08).32x	nointro 2023-11-29	sega-32x
+a1cfa86bc7d81f199f0b329ddf4458e7	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-09).32x	nointro 2023-11-29	sega-32x
+bcb29b2ec1d693aa863998b19a1873f4	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-16).32x	nointro 2023-11-29	sega-32x
+9db9c401226292cefd5a28f6adfa5065	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-18).32x	nointro 2023-11-29	sega-32x
+4b5fd6be86b307399bc6592d8eae79b5	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19) (Alt).32x	nointro 2023-11-29	sega-32x
+c9ce63ee1c915b4ffd1d14940ecbf7c6	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-19).32x	nointro 2023-11-29	sega-32x
+12aae94fab8374e0c61c8220f28007b7	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-21).32x	nointro 2023-11-29	sega-32x
+9035d2efd419306d5014df16f0dd29a4	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22) (Alt).32x	nointro 2023-11-29	sega-32x
+f4877c8823d7f39df0932068ed23a585	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-22).32x	nointro 2023-11-29	sega-32x
+11d87989771f3f0882512a52e758439e	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-23).32x	nointro 2023-11-29	sega-32x
+3920135572b377d760cee34995c159bd	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-26).32x	nointro 2023-11-29	sega-32x
+7d04ff0502908fe179ad90aaa5270542	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-27).32x	nointro 2023-11-29	sega-32x
+20917b40eb81edeebfceb57aec9b419d	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28) (Alt).32x	nointro 2023-11-29	sega-32x
+8b2f55c154013452170e0dfd77d5ad2a	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-28).32x	nointro 2023-11-29	sega-32x
+bbcf031159ad7ea4b014a58c0ed9433f	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-29).32x	nointro 2023-11-29	sega-32x
+9386cbfe21dcb58cc8a8006c8bc06e61	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-11-30).32x	nointro 2023-11-29	sega-32x
+3e33e547288d1d2a5baf1b21a07f8df0	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-02).32x	nointro 2023-11-29	sega-32x
+97caf7c900fe4bcee30117365a70543c	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-03).32x	nointro 2023-11-29	sega-32x
+fa60425cd76cfdbee2dc8000b3099a98	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-06).32x	nointro 2023-11-29	sega-32x
+443a014104ff3145f0b2eebe4ffce0fd	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-13).32x	nointro 2023-11-29	sega-32x
+fa347c89886d60279abf6b1d6c0c5f02	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-19).32x	nointro 2023-11-29	sega-32x
+86fcf541b14f98dedb8c8deff14de868	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En) (Beta) (1994-12-21).32x	nointro 2023-11-29	sega-32x
+b90a2a1eec015911aa445f9c41d7bc32	Golf Magazine Presents - 36 Great Holes Starring Fred Couples (Japan, USA) (En).32x	nointro 2023-11-29	sega-32x
+4ce9e6b6e8883d8a678d90aabce022d0	Knuckles' Chaotix (Europe).32x	nointro 2023-11-29	sega-32x
+ed059ef80f0292989c0cc86a0224f09d	Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-07).32x	nointro 2023-11-29	sega-32x
+a161c79dd955d971ee3fcb2e01777257	Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-27).32x	nointro 2023-11-29	sega-32x
+88c27c63dd58ba339b4db3a1c8791521	Knuckles' Chaotix (Japan, USA) (En) (Beta) (1994-12-30).32x	nointro 2023-11-29	sega-32x
+d8ad7470835e0edc83b770b59584f625	Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-12).32x	nointro 2023-11-29	sega-32x
+dde8f92c0fb80488f53ebbce98bd203c	Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-01-19).32x	nointro 2023-11-29	sega-32x
+e6c65023505129b294c48d37a2d7899d	Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-07).32x	nointro 2023-11-29	sega-32x
+b37e562d5c0a26122abf66ac94fef886	Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-08).32x	nointro 2023-11-29	sega-32x
+241082f8b6399e658e3516281a2a725e	Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-09).32x	nointro 2023-11-29	sega-32x
+b925cb18160ced5285981a3edd5c4213	Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-10).32x	nointro 2023-11-29	sega-32x
+bdd716e7e0ce4a24ad73179fba8d65dd	Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13) (Alt).32x	nointro 2023-11-29	sega-32x
+9d986b6c96704de70e43988825df463a	Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-13).32x	nointro 2023-11-29	sega-32x
+5e1012438fdeda44b64589fd33daad5f	Knuckles' Chaotix (Japan, USA) (En) (Beta) (1995-02-14).32x	nointro 2023-11-29	sega-32x
+47b1095e68b053125cd2cd5b1ac4eb50	Knuckles' Chaotix (Japan, USA) (En).32x	nointro 2023-11-29	sega-32x
+6af6207b1e67072a9104178130c61712	Kolibri (USA, Europe).32x	nointro 2023-11-29	sega-32x
+489ded0cc43448881cd863418bacf8e6	Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 1).32x	nointro 2023-11-29	sega-32x
+68e63e08aa1b95d4b5b249ef6de7b1b3	Mars Check Program Version 1.0 (Unknown) (SDK Build) (Set 2).32x	nointro 2023-11-29	sega-32x
+fc5dc432cef5d977a7b9a0575acd884e	Mars Sample Program - Gnu Sierra (Unknown) (SDK Build).32x	nointro 2023-11-29	sega-32x
+4213c4846622dbefb514a0441a553ace	Mars Sample Program - Pharaoh (Unknown) (SDK Build).32x	nointro 2023-11-29	sega-32x
+915472c8d25c79f819492f660e5a8d06	Mars Sample Program - Runlength Mode Test (Unknown) (SDK Build).32x	nointro 2023-11-29	sega-32x
+bd0b324d1edd51103a350e1973179fb7	Mars Sample Program - Texture Test (Unknown) (SDK Build).32x	nointro 2023-11-29	sega-32x
+5ab011dae907f77e68eb764bec3870d8	Metal Head (Europe) (En,Ja).32x	nointro 2023-11-29	sega-32x
+03cc5d7549d71ba4e9ddc1beae3805fb	Metal Head (Japan, USA) (En,Ja).32x	nointro 2023-11-29	sega-32x
+360ec44967bcc22a05dcd215c624897f	Metal Head (Japan, USA) (En) (Beta) (1994-11-14).32x	nointro 2023-11-29	sega-32x
+e36b87067183fe1ba286f0957c469b62	Metal Head (Japan, USA) (En) (Beta) (1994-11-18).32x	nointro 2023-11-29	sega-32x
+9c5c8e456c5237705e6b9fd39fef093b	Metal Head (Japan, USA) (En) (Beta) (1994-11-21).32x	nointro 2023-11-29	sega-32x
+aae550a44c4f349b25db009ef84fcabd	Metal Head (Japan, USA) (En) (Beta) (1994-12-02).32x	nointro 2023-11-29	sega-32x
+b68bf1cdba527506bb6b0aa04a0f3656	Metal Head (Japan, USA) (En) (Beta) (1994-12-07) (Alt).32x	nointro 2023-11-29	sega-32x
+ebb8f4df5e5215a5c8d2e1facbb8396b	Metal Head (Japan, USA) (En) (Beta) (1994-12-07).32x	nointro 2023-11-29	sega-32x
+5e2f45365c0eaedc7b22127343f4ed38	Metal Head (Japan, USA) (En) (Beta) (1994-12-09).32x	nointro 2023-11-29	sega-32x
+176aaa2a84d0cc82e21c35f21dc45e64	Metal Head (Japan, USA) (En) (Beta) (1994-12-13).32x	nointro 2023-11-29	sega-32x
+ac7e0ef84b3f72bb4766ad1af74a5318	Metal Head (Japan, USA) (En) (Beta) (1994-12-20).32x	nointro 2023-11-29	sega-32x
+9d258d11fe1e4cac2c1aab370c35e57a	Mortal Kombat II (Europe).32x	nointro 2023-11-29	sega-32x
+a95c0e7c1d35fd42cd2e3eb7b06cb6d0	Mortal Kombat II (Japan, USA) (En).32x	nointro 2023-11-29	sega-32x
+937371a9985dfe7b42053ab882ef27a9	Motherbase (Europe) (Sample).32x	nointro 2023-11-29	sega-32x
+66833be0da3d737ac45cdaab9b6bd818	Motherbase (Europe).32x	nointro 2023-11-29	sega-32x
+6bc365808a00b8a640dd86ccb5a0ea24	Motocross Championship (Europe).32x	nointro 2023-11-29	sega-32x
+b741a12b72807648aee002105ce8d282	Motocross Championship (Japan, USA) (En) (Beta) (1994-10-12).32x	nointro 2023-11-29	sega-32x
+57182c2a4edebec3858942094c5a482b	Motocross Championship (Japan, USA) (En) (Beta) (1994-10-17).32x	nointro 2023-11-29	sega-32x
+ff8fc197fcd71018564473e83db5d40c	Motocross Championship (Japan, USA) (En) (Beta) (1994-10-18).32x	nointro 2023-11-29	sega-32x
+b52dc9a0fd6c3bf46a66dc608965fdaa	Motocross Championship (Japan, USA) (En) (Beta) (1994-10-19).32x	nointro 2023-11-29	sega-32x
+400cf0229ebc8d441a7b03733c55cd55	Motocross Championship (Japan, USA) (En) (Beta) (1994-10-20).32x	nointro 2023-11-29	sega-32x
+ff2dfbe40f8863c123e9d82c0edf6e6e	Motocross Championship (Japan, USA) (En) (Beta) (1994-10-24).32x	nointro 2023-11-29	sega-32x
+0e3f3a483d99c8d1cc03a3402afa13c9	Motocross Championship (Japan, USA) (En) (Beta) (1994-10-28).32x	nointro 2023-11-29	sega-32x
+f0c494585f0fad8d77bf9115a6875399	Motocross Championship (Japan, USA) (En) (Beta) (1994-11-01).32x	nointro 2023-11-29	sega-32x
+9eec4062c7d36f158d265731a8ab749a	Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02) (Alt).32x	nointro 2023-11-29	sega-32x
+0fea70d9fe033ff4da6b0c4e31140b26	Motocross Championship (Japan, USA) (En) (Beta) (1994-11-02).32x	nointro 2023-11-29	sega-32x
+a8359f240a85576a2904280c2b8c2fbb	Motocross Championship (Japan, USA) (En) (Beta) (1994-11-03).32x	nointro 2023-11-29	sega-32x
+a8b3f927ca15c43a0096357fb149f46a	Motocross Championship (Japan, USA) (En) (Beta) (1994-11-04).32x	nointro 2023-11-29	sega-32x
+868b0df732d4073e0b4070e2b762e134	Motocross Championship (Japan, USA) (En) (Beta) (1994-11-07).32x	nointro 2023-11-29	sega-32x
+ffdc287031f59d3ce4a6f4c2b69aff31	Motocross Championship (Japan, USA) (En) (Beta) (1994-11-08).32x	nointro 2023-11-29	sega-32x
+5bdc8f310638695b570f92ffd99c7c59	Motocross Championship (Japan, USA) (En) (Beta) (1994-11-11).32x	nointro 2023-11-29	sega-32x
+2c4a934985021624d48725b8d7b039e8	Motocross Championship (USA).32x	nointro 2023-11-29	sega-32x
+966a5e00dd7bcdc70b05c5a0c0e8f7aa	NBA Jam - Tournament Edition (World).32x	nointro 2023-11-29	sega-32x
+e273c10114351cdafeba1abccca8909d	NFL Quarterback Club (World).32x	nointro 2023-11-29	sega-32x
+406ab3e46797d8459c3d9efbbc044282	Pinocchio (Europe) (Proto) (1995-06-12).32x	nointro 2023-11-29	sega-32x
+e091e542f7ea29ef3daf6022b36e219b	Pitfall - The Mayan Adventure (USA).32x	nointro 2023-11-29	sega-32x
+e1efc5804d3360e7b19f7542219bf964	Primal Rage (USA, Europe).32x	nointro 2023-11-29	sega-32x
+5f955b5feab07c072fc345f1fee52a60	RBI Baseball '95 (USA).32x	nointro 2023-11-29	sega-32x
+f4bb8844d77442dbb5bee78d0246b456	Sangokushi IV (Japan).32x	nointro 2023-11-29	sega-32x
+4e9d4bd4122fbe72d6f6918e55a58a35	Soulstar X (USA) (Proto).32x	nointro 2023-11-29	sega-32x
+4619e328e1719bee165941d891c08d81	Space Harrier (Europe).32x	nointro 2023-11-29	sega-32x
+1c1b4a07286b6df9eead9a0305672198	Space Harrier (Japan, USA) (En) (Beta) (1994-09-20).32x	nointro 2023-11-29	sega-32x
+6180e973f678bfc96705e8be4e0783f1	Space Harrier (Japan, USA) (En).32x	nointro 2023-11-29	sega-32x
+11caaeaa76ac810400e9a08985e0eb29	Spot Goes to Hollywood (USA) (Proto).32x	nointro 2023-11-29	sega-32x
+78086fba202066ff4f968d35e7c21c11	Star Trek - Starfleet Academy - Starship Bridge Simulator (USA).32x	nointro 2023-11-29	sega-32x
+1cf3240ce3d994719ee9fc06e827262a	Star Wars Arcade (Europe) (Beta) (1994-09-23).32x	nointro 2023-11-29	sega-32x
+1b6fc1ef31464acd728783e746286f1f	Star Wars Arcade (Europe) (Beta) (1994-09-29).32x	nointro 2023-11-29	sega-32x
+6e75534d5f3d7bf42f15cdf0faf3e0da	Star Wars Arcade (Europe) (Beta) (1994-10-06).32x	nointro 2023-11-29	sega-32x
+777e1ae822f9ed033d27aa1e409d9623	Star Wars Arcade (Europe) (Beta) (1994-10-07).32x	nointro 2023-11-29	sega-32x
+bfaa6fd031490c26e25f3d59d9c37497	Star Wars Arcade (Europe).32x	nointro 2023-11-29	sega-32x
+320fb649a04da1e5decde198bd799f97	Star Wars Arcade (Japan) (Beta) (1994-09-30).32x	nointro 2023-11-29	sega-32x
+7837ea435585cf60c1d7ea2d99248e19	Star Wars Arcade (Japan) (Beta) (1994-10-03).32x	nointro 2023-11-29	sega-32x
+ec824311a5f31007a5bdd98b5209b138	Star Wars Arcade (Japan) (Beta) (1994-10-05).32x	nointro 2023-11-29	sega-32x
+f6e8648a6ced9017c9f0bf0ca544f17f	Star Wars Arcade (Japan).32x	nointro 2023-11-29	sega-32x
+e0603f3785e9ce60bc47c7a4419b6606	Star Wars Arcade (USA) (Beta) (1994-08-30).32x	nointro 2023-11-29	sega-32x
+67c748fa61e808312f32cc727d0e44cb	Star Wars Arcade (USA) (Beta) (1994-09-01).32x	nointro 2023-11-29	sega-32x
+43efb3d85aa106567661adddec440731	Star Wars Arcade (USA) (Beta) (1994-09-06).32x	nointro 2023-11-29	sega-32x
+95dee4ef705455008ec9570b8fabfcd1	Star Wars Arcade (USA) (Beta) (1994-09-07).32x	nointro 2023-11-29	sega-32x
+76ca792a475cccff4e76fe7e0f248886	Star Wars Arcade (USA) (Beta) (1994-09-09).32x	nointro 2023-11-29	sega-32x
+267df04136c31ca16e1f3870945c446e	Star Wars Arcade (USA) (Beta) (1994-09-12).32x	nointro 2023-11-29	sega-32x
+b0eadfa1cb6b9f0d44e45433baab8857	Star Wars Arcade (USA) (Beta) (1994-09-13).32x	nointro 2023-11-29	sega-32x
+03957d55ddeb3faa8758eded5e2ceef9	Star Wars Arcade (USA) (Beta) (1994-09-14).32x	nointro 2023-11-29	sega-32x
+01e5b6f81beb2f5b0ab4e9d43fb1f3a8	Star Wars Arcade (USA) (Beta) (1994-09-15).32x	nointro 2023-11-29	sega-32x
+0a9683a85087d3953ac782046741c864	Star Wars Arcade (USA) (Beta) (1994-09-16).32x	nointro 2023-11-29	sega-32x
+c834b1d6d0a9e8ac2cc7a06310700d7e	Star Wars Arcade (USA) (Beta) (1994-09-18).32x	nointro 2023-11-29	sega-32x
+ae3a42c6297ef25c6018a209fda0194e	Star Wars Arcade (USA).32x	nointro 2023-11-29	sega-32x
+b7cac9f37b7873127afe7a91dead2bde	Stellar Assault (Japan) (En) (Beta) (1995-02-06).32x	nointro 2023-11-29	sega-32x
+775d395064002f0d1120f3e67e936f2b	Stellar Assault (Japan) (En) (Beta) (1995-02-13).32x	nointro 2023-11-29	sega-32x
+5f6c601dcecca937b6f2c2161e4566fe	Stellar Assault (Japan).32x	nointro 2023-11-29	sega-32x
+1f363c972686056a475813f61b8600bf	Stellar Assault (USA, Europe) (Beta) (1995-02-22).32x	nointro 2023-11-29	sega-32x
+f5e23c9c89673f3f2294eef5d2e5ca67	Stellar Assault (USA, Europe) (Beta) (1995-03-02).32x	nointro 2023-11-29	sega-32x
+9b2f80f1c52b78885cebd8140e99166e	Stellar Assault (USA, Europe) (Beta) (1995-03-06).32x	nointro 2023-11-29	sega-32x
+df79824d61c1f4f7a258450528a1ff3c	Stellar Assault (USA, Europe) (Beta) (1995-03-13) (Alt).32x	nointro 2023-11-29	sega-32x
+c304de27cdb1cf7dbf660c37f666ac13	Stellar Assault (USA, Europe) (Beta) (1995-03-13).32x	nointro 2023-11-29	sega-32x
+1415a8675adf3e8647b3df673b50056d	Stellar Assault (USA, Europe).32x	nointro 2023-11-29	sega-32x
+1b06c84caf09206a8d9f0bb3eaaba512	T-MEK (USA, Europe).32x	nointro 2023-11-29	sega-32x
+cc6570e604c22f51dc24347663da1732	Tempo (Japan, USA) (En) (Beta) (1994-12-21).32x	nointro 2023-11-29	sega-32x
+62790d7ffe26582288b0b0ae40bbd60e	Tempo (Japan, USA) (En) (Beta) (1995-01-19).32x	nointro 2023-11-29	sega-32x
+2e989b696e1447358829ebcc37ac1476	Tempo (Japan, USA) (En) (Beta) (1995-01-24).32x	nointro 2023-11-29	sega-32x
+a45f3d6db91df1bc3950173285a726f5	Tempo (Japan, USA) (En) (Beta) (1995-01-26).32x	nointro 2023-11-29	sega-32x
+f97cd1d66bcc7378569cc92f2b073025	Tempo (Japan, USA) (En) (Beta) (1995-02-04).32x	nointro 2023-11-29	sega-32x
+ac6ee8d2c258e00a6d752122f701fab0	Tempo (Japan, USA) (En) (Beta) (1995-02-06) (Alt).32x	nointro 2023-11-29	sega-32x
+07d06786fdc642449deff5d7880b2ef5	Tempo (Japan, USA) (En) (Beta) (1995-02-06).32x	nointro 2023-11-29	sega-32x
+2ae43c978349214492d2172758ba21b3	Tempo (Japan, USA) (En) (Beta) (1995-02-07).32x	nointro 2023-11-29	sega-32x
+30989c83d4e4ea3c35a1f3e2620b8465	Tempo (Japan, USA) (En).32x	nointro 2023-11-29	sega-32x
+945291b66fc06f2bc44a2dbaa3a61d42	Time Warner 32X CMD Download Cartridge (USA) (Program).32x	nointro 2023-11-29	sega-32x
+386d99d132ce5699ade81b4473cef5b4	Toughman Contest (USA, Europe).32x	nointro 2023-11-29	sega-32x
+adcf6c6150d1bc3d073d3754b22ebc69	Virtua Fighter (Europe).32x	nointro 2023-11-29	sega-32x
+14d0fdf6df181ec4902942975e470913	Virtua Fighter (Japan, USA) (En) (Beta) (1995-05-30).32x	nointro 2023-11-29	sega-32x
+500ab2d460721db06b6243027f6a0eab	Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-15).32x	nointro 2023-11-29	sega-32x
+4a51f39e2e6fd27456cdfc18c1b1017c	Virtua Fighter (Japan, USA) (En) (Beta) (1995-06-30).32x	nointro 2023-11-29	sega-32x
+374dd57d027e06601d1193b67da8c2b2	Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-17).32x	nointro 2023-11-29	sega-32x
+b969b201c236a764f125ed2e9b3a12f9	Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-21).32x	nointro 2023-11-29	sega-32x
+16c67ad8853789279178f93780aa69c3	Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-24).32x	nointro 2023-11-29	sega-32x
+f48a565aab16802c99b645f48a5cb503	Virtua Fighter (Japan, USA) (En) (Beta) (1995-07-25).32x	nointro 2023-11-29	sega-32x
+901e97c9f731fbdf1f1ead0fbf58249a	Virtua Fighter (Japan, USA) (En).32x	nointro 2023-11-29	sega-32x
+b3a4929fcb61bc9ecdfd9ac453860fc1	Virtua Hamster (USA) (Proto).32x	nointro 2023-11-29	sega-32x
+c30a6430b1a7e819bd2dde63a41d4d57	Virtua Racing Deluxe (Europe).32x	nointro 2023-11-29	sega-32x
+08cae0a96d9ee07001c6e1c247d407c6	Virtua Racing Deluxe (Japan).32x	nointro 2023-11-29	sega-32x
+c07a68331b846d1614954554c0414f86	Virtua Racing Deluxe (USA) (Beta) (1994-08-22).32x	nointro 2023-11-29	sega-32x
+9e7b5d7e83ae5f25421a44e14d6140bf	Virtua Racing Deluxe (USA) (Beta) (1994-08-29).32x	nointro 2023-11-29	sega-32x
+a5efb294179bc3bdc6515383bcdeb63d	Virtua Racing Deluxe (USA) (Beta) (1994-09-05).32x	nointro 2023-11-29	sega-32x
+72b1ad0f949f68da7d0a6339ecd51a3f	Virtua Racing Deluxe (USA).32x	nointro 2023-11-29	sega-32x
+4d14eab0585e79e2fc4789e090755f2d	World Series Baseball Starring Deion Sanders (USA).32x	nointro 2023-11-29	sega-32x
+b3788f861803d21cfa0e559695835f44	WWF Raw (World).32x	nointro 2023-11-29	sega-32x
+8456cae9975ba6cb041c4ef2be54b1a1	WWF WrestleMania - The Arcade Game (USA).32x	nointro 2023-11-29	sega-32x
+bdd19a34a887a4aa6067ccfb617b9041	X-Men (USA) (Proto).32x	nointro 2023-11-29	sega-32x
+bce14cea563e804765e793ce6ef91311	Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-10).32x	nointro 2023-11-29	sega-32x
+fa84f37b4d7a53b160fa3596be9caf7c	Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-21).32x	nointro 2023-11-29	sega-32x
+62de41e3546891b6a95ec28a558aefb2	Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-23).32x	nointro 2023-11-29	sega-32x
+fd3eb732b7fdca39eded45b90cff25ab	Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-02-27).32x	nointro 2023-11-29	sega-32x
+0827db2ebc41af9dfd693b0b8630fdf1	Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-03).32x	nointro 2023-11-29	sega-32x
+478fab0968e5f8248d7e5ad5ebc8a0ae	Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-06).32x	nointro 2023-11-29	sega-32x
+4c4f31281b713b7f515d909c78825ae9	Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-10).32x	nointro 2023-11-29	sega-32x
+c81f0e02b7f779ee532c7b9b92c79240	Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-15).32x	nointro 2023-11-29	sega-32x
+9ce8f1476ef7b6678ec134c6edda8147	Zaxxon's Motherbase (Japan, USA) (En) (Beta) (1995-03-31).32x	nointro 2023-11-29	sega-32x
+bd32a5e46d0159dc88cb31ea4bd9d899	Zaxxon's Motherbase 2000 (Japan, USA) (En).32x	nointro 2023-11-29	sega-32x

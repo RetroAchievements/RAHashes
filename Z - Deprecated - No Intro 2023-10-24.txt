@@ -197,3 +197,11 @@ e419fed663afce4d8a228e6454dd51a8	Zzyorxx II (USA) (Demo).j64	nointro 2023-04-14	
 fcd979525251f1f9e0467459c792e5a4	glitchNES (World) (v0.2) (Program) (Aftermarket) (Unl).nes	nointro 2023-10-23	nintendo-nes
 3e794b7bc5c9b77b742a3ba734b7b0a1	Hole New World Soundtrack, A (USA) (Limited Run Games) (Aftermarket) (Unl).nes	nointro 2023-10-23	nintendo-nes
 2978d08434ea8cd8c21cdd76fcba72f6	Thunder Paw (World) (Aftermarket) (Unl).md	nointro 2023-10-16	sega-md
+8242367c10d266509cf9cbf53a6533ef	Broken Circle (Europe) (En,It) (Proto).gba nointro 2023-11-08	gba
+7afd2ead1b7b6abf6340442a5fc59390	Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-06-30) (GB Compatible).gbc	nointro 2023-11-11	nintendo-gbc
+993737f05c0ad5c106079121c61e467f	Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 18.00.56) (GB Compatible).gbc	nointro 2023-11-11	nintendo-gbc
+1174bd8ecfd6ff22e01fa754708b1e77	Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-05 21.55.32) (GB Compatible).gbc	nointro 2023-11-11	nintendo-gbc
+da559597564df006edb68bf68a586a1a	Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-07) (GB Compatible).gbc	nointro 2023-11-11	nintendo-gbc
+1672e1168be72a0483e6b11ff717e542	Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Beta) (1998-07-14 02.21.24) (GB Compatible).gbc	nointro 2023-11-11	nintendo-gbc
+58568291970e5feeb8f11a98930471d6	Critical Match (World) (Aftermarket) (Unl).nes	nointro 2023-12-17	nintendo-nes
+7295bd919427fb9881773b94604fe80c	Mystic PIllars (World) (Aftermarket) (Unl).nes	nointro 2023-12-17	nintendo-nes
