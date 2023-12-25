@@ -1,0 +1,133 @@
+562d5ebf9e030a40d6fabfc2f33139fd	[BIOS] Magnavox Odyssey2 (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+f1071cdb0b6b10dde94d3bc8a6146387	[BIOS] Philips C52 (France).bin	nointro 2023-12-22	magnavox-odyssey2
+66e27cf1a0cdc9ad19ae20b537c4d3d8	4 en 1 Ligne (France).bin	nointro 2023-12-22	magnavox-odyssey2
+61923d4fa32f8a6c3531a77031bd1494	4 in 1 Row (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+4d6cfb7da66c8d9327b3ccdce9852509	Alien Invaders - Plus (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+55d7b6575645bfb5890a39491f823fea	Alpine Skiing (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+8b4c318129a28e313dc89fe73269be61	Armored Encounter + Sub Chase (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+7d23df55dfaca55bc4c87677855f4a45	Atlantis (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+4ac71dcc25881bf4d34d0a3c385568c8	Attack of the Timelord (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+ff418e9819cbcd10f02225f7fa3b2362	Baseball (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+3f71651bdf999ad414b0f122f643078a	Billard Electrique (France).bin	nointro 2023-12-22	magnavox-odyssey2
+7bf1a49928971514a73e674ff0356e02	Billiard Americain (France).bin	nointro 2023-12-22	magnavox-odyssey2
+3430691fb9c0367505634909be0297be	Blackjack (France).bin	nointro 2023-12-22	magnavox-odyssey2
+108fa4cbda888ab371340e316aa2c761	Blobbers, The (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+5f36eba1efe84cd06012c0b8bf4c05cb	Blockout + Breakdown (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+b46e596a81e394246c45a0ea6df1a1ad	Bombardeio Submarino + Tiro ao Alvo (Brazil) (En).bin	nointro 2023-12-22	magnavox-odyssey2
+16652634e75560dc830a0c38d7fe1711	Bowling + Basketball (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+397ef93f7e804a32569006c8a50d6b7c	Buraco Negro (Brazil) (En).bin	nointro 2023-12-22	magnavox-odyssey2
+31a6c912b7ad75ecd0b9387de6f0fbe9	Casino Slot Machine (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+dc6159188f940eed42dc3eb8336dfafd	Catch the Ball + Noughts and Crosses (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+dfc578d793300dec00847326daebc4c4	Chat et Souris (France).bin	nointro 2023-12-22	magnavox-odyssey2
+78604f22cacfa1a7f3d5bfd1e7e75b3f	Chess (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+248fcad810254eaac9e4550c0da576a3	Chinese Logic (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+77ea6c8c52837b0699ca50d26a181043	Clay Pigeon (Brazil) (En).bin	nointro 2023-12-22	magnavox-odyssey2
+cca258910c9af919fb62252c4b2817d0	Comando Noturno (Brazil) (En).bin	nointro 2023-12-22	magnavox-odyssey2
+8b1b91361f92725b7587ed41fac6d3e0	Computer Golf (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+1e7035584d19aaa53eb3795d92fa6215	Computer Intro (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+908e01082d7e30b7ce79df2dd85acfed	Computer Programmer (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+789e1d6cc41a8c830ea6900ddbbb7918	Conflit Cosmique (Canada).bin	nointro 2023-12-22	magnavox-odyssey2
+619c1545bd9c7c9de15e73a1bd23bdaf	Conquest of the World (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+0fc7ded34df6578680590559bfc2d636	Cosmic Conflict (Europe) (Alt).bin	nointro 2023-12-22	magnavox-odyssey2
+43dcdd77fb09d69e9a65b874cd5f13fa	Cosmic Conflict (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+86ac9daf92ecf01996c56f1e75d558bd	Cosmic Conflict (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+65a02f5b349d00e9cb298a232c2b8905	Course de Voitures + Autodrome + Cryptogramme (France).bin	nointro 2023-12-22	magnavox-odyssey2
+ef55af1c7164948a245eeb71f804bed8	Demon Attack (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+94fc4722c6594dcc805e3b63c6257591	Depth Charge + Marksman (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+11b36c560c5c677e11c8bd7bb6df2d0c	Desafio Chines (Brazil) (En).bin	nointro 2023-12-22	magnavox-odyssey2
+b976c87ca8b790abd2d6e2000d80cb02	Dynasty (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+2f83125f4e5f1f5e87423cf52e6a2a1a	Electronic Table Soccer (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+ea86b958c37da876bb178dcaa92a8ee7	Faire du ski (France).bin	nointro 2023-12-22	magnavox-odyssey2
+5a64c4ea84e12a04a7f0070ed13a9507	Football (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+5f149c42701f574203078983f1a47bbe	Football Electronique + Hockey Electronique (France).bin	nointro 2023-12-22	magnavox-odyssey2
+d85945b5e8c37e4298bd962d87728580	Freedom Fighters (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+893cec7b572160e81eab8a6dad37f7d3	Frogger (Brazil) (En).bin	nointro 2023-12-22	magnavox-odyssey2
+88fb5e81bf58bc1195b31906ccebeff8	Frogger (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+a251791690a6f2efdd26f924dcf45928	Golf (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+e3a89962603ed28584d3270d700b3a31	Great Wall Street Fortune Hunt, The (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+dc3257ca69427b534a926373328cf58c	Guerre Laser (France).bin	nointro 2023-12-22	magnavox-odyssey2
+08c002ad3cc5b4d9163ad3ea4a7508c7	Gunfighter (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+bb393fbe922cd34d81eccdaee40cbc4d	Hockey + Soccer (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+a3c4d975fcabbee4fdb253eb414242ee	I've Got Your Number (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+30b569d9aad9f85f782ab2f427c3b94c	Interpol (Europe) (Proto).bin	nointro 2023-12-22	magnavox-odyssey2
+5f21dd12f47ac805ec69dc5cd3b977f1	Invaders from Hyperspace (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+a8416ac5493fac70848225dbbca1fd35	Jeu de Quilles + Basket Ball (France).bin	nointro 2023-12-22	magnavox-odyssey2
+8d7691607aa2dfd994ac098a0dfed416	Jumping Acrobats (Europe) (Alt).bin	nointro 2023-12-22	magnavox-odyssey2
+e36fe0511f92b1ce3fb4c0f438356520	Jumping Acrobats (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+2e528bd850f9a658b0af6bfe1891a4fa	K.C. Munchkin (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+27eaddeda2f30ad4a5310c6e9bdd9dc2	K.C.'s Krazy Chase (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+84ae1a8159716266f7aae16ad7dfd062	Keyboard Creations (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+5e7a037e1aa1f59ad2be80452f81cc38	Killer Bees (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+e074c77e2a2a8be6d7bcab50e11d6948	Kinder im Verkehr 1 (Germany).bin	nointro 2023-12-22	magnavox-odyssey2
+331b299e3b041884bd59c3bad2d3f507	La Quete des Anneaux (France).bin	nointro 2023-12-22	magnavox-odyssey2
+91b1f44df0281147132535d9ea1d5590	Labyrinth Game, A + Supermind (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+8e5b178b4ed546530fb0e40739a41ef4	Las Vegas (France).bin	nointro 2023-12-22	magnavox-odyssey2
+972d38914e5aa8e80460b7d32c7c94b5	Las Vegas Blackjack (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+d7723b9a0d15ae574cd0af0136dda5ad	Laser War (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+f7a034b2fca71a6d1a4ebba0b7af5870	Loony Balloon (Europe) (Proto).bin	nointro 2023-12-22	magnavox-odyssey2
+103681ba9ef22b1392865dcc355f0199	Martian Threat (Europe) (Proto) (Alt).bin	nointro 2023-12-22	magnavox-odyssey2
+6fb2f39cd702b9e05fc0f81305d3bbc0	Martian Threat (Europe) (Proto).bin	nointro 2023-12-22	magnavox-odyssey2
+73a584ca53fad9289ca01a58eccc52b5	Matchmaker + Logix + Buzzword (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+9aa512409f1e3d10bfe2c2f2924c7a31	Math-A-Magic + Echo (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+fe079714c9529588ff999910bdabc89e	Mathematicien + Echo (France).bin	nointro 2023-12-22	magnavox-odyssey2
+dec3f2d19ca2e5d5f7d96c0baf23144f	Mission Impossible (Brazil) (En) (Proto).bin	nointro 2023-12-22	magnavox-odyssey2
+4388131dbce3b68a7d46f80bafc4a828	Monkeyshines (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+6fd09253957ec9018f2c80b7663bc8e4	Morse (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+441f68a94b7b92fd5e7cccad07256e4c	Morse (France).bin	nointro 2023-12-22	magnavox-odyssey2
+ace64d75c07cd5c663ad422fdb25d1c8	Mousing Cat, The (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+663baa0b829f717d42de4c1011bbfcd3	Munchkin (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+02cf18672c21e2d0e68d331507be9de1	Mur Magique, Le (France).bin	nointro 2023-12-22	magnavox-odyssey2
+f93d43b0e30539ba6fab14ce6a57aae3	Musician (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+f60fa7d5ed0e8e6a262f0136db60268a	Neutron Star (Europe) (Proto).bin	nointro 2023-12-22	magnavox-odyssey2
+f2eda19ffc8e52c5c2d13c7106a06303	Newscaster (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+af5b0f0e38252c7391284d9671eb6518	Nightfighter (Europe) (Proto).bin	nointro 2023-12-22	magnavox-odyssey2
+6e7a98bafab8a0b71da7ba0321e1b5e9	Nightmare (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+98b2ed525aa9c060e8be6c6210d16e41	Nimble Numbers Ned (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+3fe371cad9b660c0a76969bc53d17f9b	O Malabarista + Jogo da Velha (Brazil) (En).bin	nointro 2023-12-22	magnavox-odyssey2
+5eb860e357db069a2cbc3fc51d022326	O Segredo do Farao (Brazil) (En).bin	nointro 2023-12-22	magnavox-odyssey2
+21a8e6a7441a2990052e38f85a606db4	Out of This World + Helicopter Rescue (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+0812533ce84c9e28e699af8baec7df25	P.T. Barnum's Acrobats (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+e00ca4155b88aacb044a2598c2180158	Pachinko (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+0b5a7506275e49b3ede60af2b6c31098	Pairs + Space Rendezvous + Logic (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+ffa665173861c544219565e000f79173	Pick Axe Pete (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+b93f4ce768cf934774fdd895eab59323	Pinball (USA) (Proto).bin	nointro 2023-12-22	magnavox-odyssey2
+c5d7c7b6d6f465610405082e35572f62	Playtag (Europe) (Proto).bin	nointro 2023-12-22	magnavox-odyssey2
+3f0223dd8609fe320264e45eeeefe367	Pocket Billiards (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+3d8310d2ab62a5a7bcc0ecf088133291	Popeye (Brazil) (En).bin	nointro 2023-12-22	magnavox-odyssey2
+2a0a3e9aed2885a4e4798b380dbb64c3	Popeye (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+67943d1bba7cdf707305edc14feabc46	Power Lords (USA) (Alt).bin	nointro 2023-12-22	magnavox-odyssey2
+8200734b7a6217b4847939acd3cc1601	Power Lords (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+1f5f15cb9e0d1e65915d0c2263195284	Prendre l'Argent et Fuir (France).bin	nointro 2023-12-22	magnavox-odyssey2
+18cabe4f94787a8a8e9f1ec6c6451e4c	Q-Bert (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+0b105a40c8ff6ae7728006cf80c4ddb7	Quest for the Rings (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+79ffbfd676f12a6b4dde396345d354f1	Red Baron (Europe) (Proto) (Alt).bin	nointro 2023-12-22	magnavox-odyssey2
+1bace5b9e272032f898563fb7ef33bc9	Red Baron (Europe) (Proto).bin	nointro 2023-12-22	magnavox-odyssey2
+08b65f525e0064334f449f1971d83414	Robot City (Europe) (Proto).bin	nointro 2023-12-22	magnavox-odyssey2
+75a751e527fa8ddf8faddbdaa6357582	Samurai (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+8e631fae193f572b9d7e52c96b648d58	Satellite Attack (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+676423953ef6ee953a999778c0ba0ff9	Secret of the Pharaohs (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+1ec617026bc9562826f075d9ad15824e	Shark Hunter (Europe) (Proto).bin	nointro 2023-12-22	magnavox-odyssey2
+add9a7cfac93608db1845e49f3594964	Showdown in 2100 A.D. (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+23ba6403e7206063d65dec507a30664a	Sid the Spellbinder (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+ed77beeb30711f8ee03a23a4577f403a	Smithereens (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+bc66ab63fb5ce04a79aef9e8fa445225	Speedway + Spin-out + Crypto-logic (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+a0ba087f4a47b71c41e876b5069b8ba0	Spider-Man (Europe) (Proto) (Alt).bin	nointro 2023-12-22	magnavox-odyssey2
+263b77aa79980bd0cb53a0625a2637eb	Spider-Man (Europe) (Proto).bin	nointro 2023-12-22	magnavox-odyssey2
+a7bfd5fa3233a3df36742a368736727d	Stone Sling (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+ef316af0ed3d1736129c53c1231b8569	Super Bee (Brazil) (En).bin	nointro 2023-12-22	magnavox-odyssey2
+e201f5df4baa81a8d0ed25d58f5399fa	Super Bee (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+f274f1ed857324c1b3ac55b0c67a1ba2	Super Cobra (Brazil) (En).bin	nointro 2023-12-22	magnavox-odyssey2
+8e4a6c96d67bba26f41ee856dd919118	Super Cobra (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+b2d810dcb97e38192a6dd3d213dbce10	Take the Money and Run (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+0602fd990f5e43bbab23004286319b60	Thunderball (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+817d89146f3b9914e7d502212917cc23	Turtles (Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+07737e70c041742dbcd8c52efda4edab	Turtles (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+c9590bffc9a2c5a5b49d4fda32524eda	Tutankham (Europe) (Proto).bin	nointro 2023-12-22	magnavox-odyssey2
+49abee5ddd1b475fe4cbb997f7ee83ef	Type & Tell (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+7ebd2526d8c17b01b882e39e972c2691	UFO (USA).bin	nointro 2023-12-22	magnavox-odyssey2
+317644c85ba8f8fde8f7b60114a03288	Verkehrsspiele 1 (Germany).bin	nointro 2023-12-22	magnavox-odyssey2
+a465615508dfb5ea1c5b0e18c97711a5	Verkehrsspiele 2 (Germany).bin	nointro 2023-12-22	magnavox-odyssey2
+8f2b2eadcc1bd72366db49c89b576eb4	Volleyball (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2
+e9d2f13dabdcade4c7d09e5dc8728c28	Volleyball Electronique (France).bin	nointro 2023-12-22	magnavox-odyssey2
+4f0dd7ab05c033c27ecbda05b14bf619	Wall Street (Brazil) (En).bin	nointro 2023-12-22	magnavox-odyssey2
+30249d4a85b18f0320f1b5a00e55b5c7	War of Nerves (USA, Europe).bin	nointro 2023-12-22	magnavox-odyssey2

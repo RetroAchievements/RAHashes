@@ -1,0 +1,46 @@
+06c26188c6cfb6a495f24a0f9ff1cda7	Armed (Unknown) (Beta) (1997-01-22) [b]
+07fa635c121e6e23e2003f452dc0c9c3	Astrocade (Unknown) (Beta) (1996-08-01).cue
+d33165a56ebce59f18c99a8ac997cb68	Center Ring Boxing (Unknown) (Beta) (1995-11-26).cue
+5ab750def0a3ada4be8035f76d3e51d5	Chelnov (Unknown) (Beta) (1997-07-23).cue
+7496e385300e475be4d071cd1a887c0b	Chill (Unknown) (Beta) (1998-01-19).cue
+81c35a7e99708eca4820960aaac339a6	Clockwork Knight 2 (Unknown) (Beta) (1995-08-30)
+81c35a7e99708eca4820960aaac339a6	Clockwork Knight 2 (Unknown) (Beta) (1995-08-30).cue
+ee90de7aa772fd9e33ad55af36f40f4a	Contra - Legacy of War (Unknown) (Beta) (1997-01-28)
+1fbefe7ea6fafcb0389841315a5cba4a	Crypt Killer (Unknown) (Beta) (1997-01-08).cue
+92a9b47657e94f55d2bd9811872985c6	Duke Nukem (Unknown) (Beta) (1997-09-18).cue
+f42d6708d7cef7fcdfe8c2693babb915	Earthworm Jim 2 (Unknown) (Beta) (1995-12-29).cue
+e7fc68b4b9c66be8232a991e05e5b8ae	Earthworm Jim 2 (Unknown) (Beta) (1996-01-05).cue
+3429f0660ff64443b06072600ed785f5	Fighters Megamix (Unknown) (Beta) (1997-04-08).cue
+f99d3db7441d860178e264588a412e97	Hexen (Unknown) (Beta) (1996-12-12)
+f99d3db7441d860178e264588a412e97	Hexen (Unknown) (Beta) (1996-12-12).cue
+886b7928b151d4997d7848dc7b0a1180	Judgement Force (Unknown) (Beta) (1996-11-26).cue
+5ebff3fe7c2c67a2ed6d329a7d90b790	Loaded (Unknown) (Beta) (1996-09-03).cue
+773d6d2590763d271397f81d22cfb2fd	Major Damage (Unknown) (Beta) (1996-06-14).cue
+773d6d2590763d271397f81d22cfb2fd	Major Damage (Unknown) (Beta) (1996-07-14).cue
+589dca09c9c9ffe05a3305b25a277e73	Mortal Kombat II (Unknown) (Beta) (1996-01-02).cue
+0241241c899bc326be4f6b95afa93f49	NHL All-Star Hockey (Unknown) (Beta) (1995-08-10).cue
+3cb7feba8264177a16164e4fda59c85e	NiGHTS into Dreams (Unknown) (Beta) (1996-05-14).cue
+2331d6f1d36eb1216c262eb4b5cf6462	Panzer Dragoon Saga (Unknown) (Beta) (1997-09-16).cue
+3d60a7ae3390b7176159e1c66ed835a0	Panzer Dragoon Saga (Unknown) (Beta) (1997-11-30) (Disc 1).cue
+0ee644503c37899605d113fe73a3d782	Panzer Dragoon Saga (Unknown) (Beta) (1997-11-30) (Disc 2).cue
+177f945f4888ad0bea9b52353a9521f9	Panzer Dragoon Saga (Unknown) (Beta) (1997-11-30) (Disc 3).cue
+b168f7b71ed02a973a6d917ee287fc10	Panzer Dragoon Saga (Unknown) (Beta) (1997-12-22) (Disc 1).cue
+1818c35231e4efa7a33f90e63a0dca02	Panzer Dragoon Saga (Unknown) (Beta) (1997-12-30) (Disc 3).cue
+51b3840cb25754b084febba8775ce512	Panzer Dragoon Saga (Unknown) (Beta) (1997-12-30) (Disc 4).cue
+ae83f22a29a08f08116b073279d54dbd	Panzer Dragoon Zwei (Unknown) (Beta) (1996-02-02).cue
+886b7928b151d4997d7848dc7b0a1180	Primal Rage (Unknown) (Beta) (1996-02-12).cue
+228781405d1c71c387ce53f2391d66ff	Rayman (Unknown) (Beta) (1995-07-20).cue
+07fa635c121e6e23e2003f452dc0c9c3	Rebellion (USA) (Proto).cue
+d1824c92cf7a73728f67f3741c7342c1	Scud - The Disposable Assassin (Unknown) (Beta) (1996-11-06).cue
+0ecee71685e790296048dcc86e905df6	Sega Rally Championship Plus - NetLink Edition (Unknown) (Beta) (1997-04-16).cue
+0a30b78a22800d82c426480a2153cd2e	Shining Force III (Unknown) (Beta) (1998-05-08)
+49a9bd959eff6afbdd33bd8b755bb399	Solar Eclipse (Unknown) (Beta) (1995-08-29).cue
+1035f940c8f3a23ef4f73ed87f5b5ccf	Sonic 3D - Blast Flickies Island (Unknown) (Beta) (1996-10-08).cue
+057faafa5188be089be30f88479e0aa1	Sonic R (Unknown) (Beta) (1997-09-10).cue
+a92bdc7c948fe6b2bbea48d1f0476c58	Sonic X-treme (Unknown) (Beta) (1996-07-18).cue
+aca4eb64d34a1d08e208efcda8418856	Tennis Arena (Unknown) (Beta) (1997-09-15).cue
+9e8b5481e57ebae984cb13fc21549e6e	Three Dirty Dwarves (Unknown) (Beta) (1996-04-17).cue
+1ddad23eab236787350d6b285a606dce	Ultimate Mortal Kombat 3 (Unknown) (Beta) (1996-02-07).cue
+8eeaf2670fd7a8e6cfc37e5e5d70b58b	Virtua Cop 2 (Unknown) (Beta) (1996-05-10).cue
+dc491f0fa9848b1983a1e4d560a86271	Virtua Racing (Unknown) (Beta) (1995-10-30).cue
+773d6d2590763d271397f81d22cfb2fd	Werewolf (Unknown) (Beta) (1996-06-14).cue
