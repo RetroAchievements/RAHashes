@@ -206,3 +206,7 @@ da559597564df006edb68bf68a586a1a	Zelda no Densetsu - Yume o Miru Shima DX (Japan
 58568291970e5feeb8f11a98930471d6	Critical Match (World) (Aftermarket) (Unl).nes	nointro 2023-12-17	nintendo-nes
 7295bd919427fb9881773b94604fe80c	Mystic PIllars (World) (Aftermarket) (Unl).nes	nointro 2023-12-17	nintendo-nes
 faf80bdcce97ac96ca21704ab8795089	Telocation - Gemini (World) (v1.2) (Aftermarket) (Unl).z64	nointro 2023-11-29	nintendo-n64-bigendian
+e9e50fb4b8ca795703e81d6e1775f710	BS F-Zero Grand Prix 2 - Practice (Japan) [b].bs	nointro 2023-12-26	nintendo-satellaview
+46c5bf023e41d9f806c4b6a8dabef733	BS Marvelous - Time Athletic Course - Dai-1-shuu (Japan) (SoundLink) [b].bs	nointro 2023-12-26	nintendo-satellaview
+bc82adf1fba83e39a2c7f006f81409ab	BS Nintendo HP - 2-21 Gou (Japan) (Magazine) [b].bs	nointro 2023-12-26	nintendo-satellaview
+bc8525f42843097b9c7d2359c31239c0	Derby Stallion BS (Japan) [b].bs	nointro 2023-12-26	nintendo-satellaview
