@@ -1,0 +1,12 @@
+d87d876c4391935c9d48ef352a3ff02d	[BIOS] SNK NeoGeo Pocket (Japan, Europe) (En).bin	nointro 2024-03-01	snk-ngp
+18a3a190b6b6f47f801fc044b26e1794	[BIOS] SNK NeoGeo Pocket (Japan) (En) (Beta).bin	nointro 2024-03-01	snk-ngp
+68ee2d5be4c81348bc499fc29819fd2d	Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).ngp	nointro 2024-03-01	snk-ngp
+347d0ef33c889cc826d214caf8475ae0	King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp	nointro 2024-03-01	snk-ngp
+59b1ed15ad2af41912c45cc4f0e9904e	King of Fighters R-1 - Pocket Kakutou Series & Melon-chan no Seichou Nikki (Japan) (Demo).ngp	nointro 2024-03-01	snk-ngp
+aaea1921109cd82c1faf5008fb72e5fc	Melon-chan no Seichou Nikki (Japan).ngp	nointro 2024-03-01	snk-ngp
+69bc4ed3a12050795ec76f7e4fddbd99	Neo Cherry Master - Real Casino Series (Japan) (En,Ja).ngp	nointro 2024-03-01	snk-ngp
+30efe4f72d4678ffb97b885b1b7c3da1	NeoGeo Cup '98 (Japan, Europe) (En,Ja).ngp	nointro 2024-03-01	snk-ngp
+58308b9bdf0b90b632ac4d3655a81f6d	Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).ngp	nointro 2024-03-01	snk-ngp
+9330c9a7bbd6a7dc5b5963a5b7623443	Renketsu Puzzle Tsunagete Pon! (Japan).ngp	nointro 2024-03-01	snk-ngp
+d13f954b2f1c703bdf857837c24e332e	Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp	nointro 2024-03-01	snk-ngp
+9250b3328d64d3a1e7f9d50a04ceb64f	Shougi no Tatsujin (Japan).ngp	nointro 2024-03-01	snk-ngp

@@ -210,3 +210,18 @@ e9e50fb4b8ca795703e81d6e1775f710	BS F-Zero Grand Prix 2 - Practice (Japan) [b].b
 46c5bf023e41d9f806c4b6a8dabef733	BS Marvelous - Time Athletic Course - Dai-1-shuu (Japan) (SoundLink) [b].bs	nointro 2023-12-26	nintendo-satellaview
 bc82adf1fba83e39a2c7f006f81409ab	BS Nintendo HP - 2-21 Gou (Japan) (Magazine) [b].bs	nointro 2023-12-26	nintendo-satellaview
 bc8525f42843097b9c7d2359c31239c0	Derby Stallion BS (Japan) [b].bs	nointro 2023-12-26	nintendo-satellaview
+83fa4cb3c629aa57c12f9cec52c5a53d	Last Blade, The - Beyond the Destiny (USA, Europe).ngc	nointro 2024-03-11	snk-ngpc
+be22a7192d8ac3bb9356d7add54f8302	Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan) (v04).ngc	nointro 2024-03-11	snk-ngpc
+d40dc57b9cc3a30a2400f8cfd8724578	Puyo Pop (World) (En,Ja) (v06).ngc	nointro 2024-03-11	snk-ngpc
+8b5500bdf12d0d26f84d6e2d6d8e5008	King of Fighters R-1 - Pocket Kakutou Series & Melon-chan no Seichou Nikki (Japan) (Demo).ngp	nointro 2023-08-10	snk-ngp
+603e4c50a5d0d94392358a4aaac24388	Diddy Kong Pilot (Unknown) (Proto) (2001).gba [Deprecated]	nointro 2024-03-08	nintendo-gba
+14e702984cc80b80d6868075e31f046a	Hamtaro - Rainbow Rescue (USA) (Proto) (2003-07-29).gba [Deprecated]	nointro 2024-03-08	nintendo-gba
+08ce7620b31851cbb05d386fe22c7109	Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 2) (2000-03-07).z64	nointro 2024-03-12	nintendo-n64-bigendian
+38922f7a7c91ca259d3e7d2501ba2a98	Mega Man X (World) (Rev 1) (Mega Man X Legacy Collection).sfc	nointro 2024-03-12	nintendo-snes
+6d4f9794b113360efe5abad0c8f84c69	Mega Man X2 (World) (Mega Man X Legacy Collection).sfc	nointro 2024-03-12	nintendo-snes
+702423f951939491ae80016a3035ac1a	Mega Man X3 (World) (Mega Man X Legacy Collection).sfc	nointro 2024-03-12	nintendo-snes
+13f5dfc02c5ddecbb4c1f6705858a4b3	Rockman X (World) (Ja) (Mega Man X Legacy Collection).sfc	nointro 2024-03-12	nintendo-snes
+ae7f69332cf5fb05962c6fb8cb68797d	Rockman X2 (World) (Ja) (Mega Man X Legacy Collection).sfc	nointro 2024-03-12	nintendo-snes
+50e5cbc8890c3068dab512cad1f6f737	Rockman X3 (World) (Ja) (Mega Man X Legacy Collection).sfc	nointro 2024-03-12	nintendo-snes
+24ec2814cc94a22e70096aea0ebe93d6	Pinkie (World) (Aftermarket) (Unl).sfc	nointro 2024-03-12	nintendo-snes
+
