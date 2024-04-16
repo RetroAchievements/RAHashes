@@ -29,10 +29,10 @@ ead8565baa2255f3273e1996a0666c13	Far East of Eden - Tengai Makyou Shinden ~ Far 
 27d27af1ca0945dfac6e8cb9c75c6d62	Flying Power Disc ~ Windjammers (Japan) (En,Ja)
 db2c9ca1f29835422e6788848f33b7bc	Football Frenzy (Japan) (En,Ja)
 66ec949bde009681484d2cd7158873d8	Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja)
-4f84cf59f190dc881c1916ef5d9ab600	Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Export) (En,Ja,Es,Pt) (Rev 1)
-3df0fc10d4fac02904487e58588b5737	Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt)
-4f84cf59f190dc881c1916ef5d9ab600	Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (USA) (En,Ja,Es,Pt) (Rev 1)
-3df0fc10d4fac02904487e58588b5737	Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)
+3df0fc10d4fac02904487e58588b5737	Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Japan) (En,Ja,Es,Pt) [Deprecated]
+4f84cf59f190dc881c1916ef5d9ab600	Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (USA) (En,Ja,Es,Pt) (Rev 1) [Deprecated]
+bee0fde4249b86e9f2c1c8849e918e90	Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (Export) (En,Ja,Es,Pt) (Rev 1)
+1d59cdd9af0f82cd89c4a7a7594f1422	Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)
 2bf5cf757e37b5b70c0bd5f5d45a99c3	Galaxy Fight - Universal Warriors (Japan) (En,Ja,Es)
 fda4c1804f3ce9723db4ed2ad38ef269	Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)
 260b24b4e2baa3370dd11797a02ecb80	Garou Densetsu 2 ~ Fatal Fury 2 (Japan) (En,Ja)
