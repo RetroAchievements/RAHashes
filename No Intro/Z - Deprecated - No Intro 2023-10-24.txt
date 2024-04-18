@@ -226,6 +226,17 @@ ae7f69332cf5fb05962c6fb8cb68797d	Rockman X2 (World) (Ja) (Mega Man X Legacy Coll
 24ec2814cc94a22e70096aea0ebe93d6	Pinkie (World) (Aftermarket) (Unl).sfc	nointro 2024-03-12	nintendo-snes
 dce27edb434d238613f928daa5c50632	Kid Dracula (World) (Castlevania Anniversary Collection).nes	nointro 2024-02-18	nintendo-nes
 59432962f483da223b56dc2d0c2590c8	Tetris (Asia) (Pirate).nes	nointro 2024-02-18	nintendo-nes
-
+eed9eaf1a0b6a2b9bc4c8032cb43e3fb	Klax (Europe).a26	nointro 2024-04-17	atari-2600
+50126d4115f7eba81eb206b13b68d726	Crash & Spyro Superpack - Spyro Orange - The Cortex Conspiracy + Crash Bandicoot Purple - Ripto's Rampage (USA).gba	nointro 2024-04-17	nintendo-gba
+7199c3bc2cc2d685ad7ecd9447e6d75f	Crayon Shin-chan - Densetsu o Yobu Omake no Miyako Shockgaan! (Japan).gba	nointro 2024-04-17	nintendo-gba
+16f26e6349e004951b34d87fa5ea7c3a	Happy Feet (Europe) (En,Fr,De,Es,It).gba	nointro 2024-04-02	nintendo-gba
+423482d9f0a696cb985d8143f574864c	Happy Feet (USA) (En,Fr).gba	nointro 2024-04-02	nintendo-gba
+806ab316cb389eb8fad65c0fb2bd7878	Harry Potter Collection (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).gba	nointro 2024-04-02	nintendo-gba
+fe87f3053a6579e3bcb3fef3332aabfa	Legend of Spyro, The - The Eternal Night (Europe) (En,Fr,De,Es,It,Nl).gba	nointro 2024-04-02	nintendo-gba
+937589bb951827b8ed1cdac1f78f5c35	Legend of Spyro, The - The Eternal Night (USA) (En,Fr).gba	nointro 2024-04-02	nintendo-gba
+27e653640be9023aae41ec53304fa4de	My Animal Centre in Africa (Europe) (En,Fr,De,Es,It).gba	nointro 2024-04-02	nintendo-gba
+34469cbe444c6561a5a24c1159f0697e	Yggdra Union - We'll Never Fight Alone (Europe).gba [Deprecated]	nointro 2024-04-02	nintendo-gba
+1eac366817944faecf3bcd290d3f87cc	Yggdra Union - We'll Never Fight Alone (USA).gba [Deprecated]	nointro 2024-04-02	nintendo-gba
+8de0883bf7b60f0983f65313d3d15d9a	Yggdra Union (Japan).gba [Deprecated]	nointro 2024-04-02	nintendo-gba
 
 

@@ -1,0 +1,33 @@
+e0c4c9a32a35616014624c3f01c355ba	1080 Snowboarding (USA) (En,Ja) (LodgeNet).i64	nointro 2024-04-08
+979da0a9f45244939eb9ad5a9a674efa	Donkey Kong 64 (USA) (LodgeNet).i64	nointro 2024-04-08
+cace2cabdbd5874f28b5a1310c9a481a	Dr. Mario 64 (USA) (LodgeNet).i64	nointro 2024-04-08
+846efe679f0cb17621c22d25c2a800cd	EEPROM & SRAM Erase Program (USA) (v1.2) (LodgeNet).i64	nointro 2024-04-08
+e88fbfe05d2c46635722f22eb9422dc7	Excitebike 64 (USA) (LodgeNet).i64	nointro 2024-04-08
+4da397a94cab50677ed16699ad21d376	F-Zero X (USA) (LodgeNet).i64	nointro 2024-04-08
+b003d72f2dbc9701f842f4d5b9c2f392	Gauntlet Legends (USA) (LodgeNet).i64	nointro 2024-04-08
+c8838c1838d8813c4d6978014a6794d1	Hydro Thunder (USA) (LodgeNet).i64	nointro 2024-04-08
+73a0681d3ec74b8edd919c6c204d8054	Kirby 64 - The Crystal Shards (USA) (LodgeNet).i64	nointro 2024-04-08
+10d4e6f1a66236bf2827f681628a3420	Legend of Zelda, The - Majora's Mask (USA) (LodgeNet).i64	nointro 2024-04-08
+bc24ac3f3a3109139ddbe71b3b482050	Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet).i64	nointro 2024-04-08
+77b511becb278dac7c383e9f9109a71a	Mario Golf (USA) (LodgeNet).i64	nointro 2024-04-08
+13a6b6a82c52fedaab208ec00467ac1c	Mario Kart 64 (USA) (LodgeNet).i64	nointro 2024-04-08
+32feadd97e77beb453fe44a119e2daa3	Mario Party 3 (USA) (LodgeNet).i64	nointro 2024-04-08
+c08f0b1fbaa6ad8709c91f9a088d5bfb	Mario Tennis (USA) (LodgeNet).i64	nointro 2024-04-08
+46b62795678d47432ff6d567cf42095a	Midway's Greatest Arcade Hits - Volume 1 (USA) (LodgeNet).i64	nointro 2024-04-08
+10a21b65a0e82bce0952c281370b893a	Mortal Kombat 4 (USA) (LodgeNet).i64	nointro 2024-04-08
+cebac1b405788c9d1d91294a74f02040	New Tetris, The (USA) (LodgeNet).i64	nointro 2024-04-08
+9becdb9fb1f0891acf65e8ecd0afecdd	Paper Mario (USA) (LodgeNet).i64	nointro 2024-04-08
+e3c51937289cfa212cf21cc60acb8528	PGA European Tour Golf (Europe) (En,De) (Version B.29) (Beta).z64	nointro 2024-04-08
+3e7a3a778585a1ed02e1d887e4a377bd	Pilotwings 64 (USA) (LodgeNet).i64	nointro 2024-04-08
+3e1272f5eadbcae31abb0c91eef86dea	Pokemon Snap (USA) (LodgeNet).i64	nointro 2024-04-08
+5822ef3f72c1683b42b2bf7e686dc7be	Rampage 2 - Universal Tour (USA) (LodgeNet).i64	nointro 2024-04-08
+f480833164cca521ee70517baf1f83d6	Ready 2 Rumble Boxing (USA) (LodgeNet).i64	nointro 2024-04-08
+22439a2bf28be1a56872bc0dce16392d	Rush 2 - Extreme Racing USA (USA) (LodgeNet).i64	nointro 2024-04-08
+dbc8d5b044e1f10eb82a7c32fb8c8218	Star Fox 64 (USA) (LodgeNet).i64	nointro 2024-04-08
+1c9ad5b555bcc1263958aa2a1a046305	Star Wars - Rogue Squadron (USA) (LodgeNet).i64	nointro 2024-04-08
+1b5ff38194ee06d8b4687e675a6c77ee	Super Mario 64 (USA) (LodgeNet).i64	nointro 2024-04-08
+314fe951d563b8150346e0aa0894d3b9	Super Smash Bros. (USA) (LodgeNet).i64	nointro 2024-04-08
+f9d376af6ce69aefe6b69958c6ae8eda	Virtual Chess 64 (USA) (En,Fr,Es) (LodgeNet).i64	nointro 2024-04-08
+5361cf84568f4affc02f8486bd902453	Virtual Pool 64 (USA) (LodgeNet).i64	nointro 2024-04-08
+dcabfa22f0c6231ddc85f8978cb1640d	Wave Race 64 - Kawasaki Jet Ski (USA) (LodgeNet).i64	nointro 2024-04-08
+711bdc795fef69d94a9ca00d68a2d4b3	Yoshi's Story (USA) (En,Ja) (LodgeNet).i64	nointro 2024-04-08
