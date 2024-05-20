@@ -41,6 +41,7 @@ b3719118e9cfcc1234cd01c1e3fb84cf	Choplifter! (USA).col	nointro 2024-03-17	coleco
 1e5dc0f3a8b974b20340bdf8593b309b	Congo Bongo (USA).col	nointro 2024-03-17	coleco-colecovision
 cfbd4a478e7019422c306837444d2e46	Cosmic Avenger (USA, Europe).col	nointro 2024-03-17	coleco-colecovision
 3ae1ddd596faaced37274dd407d5523c	Cosmic Crisis (Europe).col	nointro 2024-03-17	coleco-colecovision
+3ea752b4b61bc27a22a781888770479a	CVDRUM (World) (Aftermarket) (Unl).col	nointro 2024-03-17	coleco-colecovision
 dd01108c4b4a62d64b2da39424896b6a	Dam Busters, The (Canada).col	nointro 2024-03-17	coleco-colecovision
 d6e826d832e13c13073dfba3b26d899e	Dam Busters, The (USA).col	nointro 2024-03-17	coleco-colecovision
 22e8c9e71474f2715f20250f7921d2c1	Dance Fantasy (USA).col	nointro 2024-03-17	coleco-colecovision

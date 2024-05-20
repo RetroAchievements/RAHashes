@@ -1,0 +1,772 @@
+fcd403db69f54290b51035d82f835e7b	[BIOS] Atari Lynx (World).lyx	nointro 2024-04-24	atari-lynx
+6d9a6d82dfea445b09065ebd33b9c679	2048 (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+7e746002f02bbbf7edde1f20b98f1f90	2048 (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+5515e0491719ff09553b6d7d930569bc	2048 (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+b3ae4a8c3e96f3489a734087859b1c84	4Ttude (World) (v1.0) (Atari Lynx 30th Birthday) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+5b10f149b25d093b767d4bed895ba298	4Ttude (World) (v1.0) (Atari Lynx 30th Birthday) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e7f14dfc74bac52f73668d85886691e0	4Ttude (World) (v1.1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+4933c5480ad05ea6eea4d3fb0e1b6ad7	4Ttude (World) (v1.1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+35f0ca98f7d0ef123ac74ce9e445b328	4Ttude (World) (v1.2) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+7e649ac65d0aac1595d3b5a435b5e599	4Ttude (World) (v1.2) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+f265422bdb93c809d64f6b60ac4e04b8	8bit-Dungeon (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+3ef41a3641efaa0cdc1725be3457f2fd	8bit-Dungeon (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+f075c00931aba8d7624f687c5bbf75ec	8bit-Slicks (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+38c8b97abb1bace158e1ba4e0c117031	8bit-Slicks (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+7be7936171d1211fa735db7192b76087	8bit-Slicks (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+df9b78857f023b3c565a28d969a6c44f	8bit-Slicks (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+b425941149874c6371c40e85cc5b6241	A.P.B. (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+9b51db0b7532e23945c5adcd2e238b25	Alien (World) (v1.02) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+8e7aa580d9fdcebbcce18c62be30cc29	Alien (World) (v1.02) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+0829797d2eaf4a2607f6d144237a8c06	Alien (World) (v1.03) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+474ced572009a4a1e569abae79f2c0bf	Alien (World) (v1.03) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+bcbdf972a120bc99b2148364e0ec0813	Alien (World) (v1.04) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+8c09ec1bda3362742463d6335db47559	Alien (World) (v1.04) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+1ffedd876a0e131513adc0f170c05c53	Alien (World) (v1.06) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+fe5f8038a448b0d8aa82333e49e87f9c	Alien (World) (v1.06) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+8ce6c739d30d6c5ba197fcdd73d5ead5	Alien vs Predator (USA) (Proto) (1993-12-17).lyx	nointro 2024-04-24	atari-lynx
+186dc0495686430f2f4c690785d52854	Allein (World) (De) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+f243fb465959a70f259f4333de8222a6	Allein (World) (De) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+3befceb86939e847a776b90c330779d8	Alpine Games (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+1692e28edd220e297ffb7f5d5d438a4c	Always Winter, Never Christmas (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+00537db766c4d83a8cee16b29c608775	Always Winter, Never Christmas (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+56f90941e34d3bc030ce57140fd4d360	Angry Motes (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+0d24ceb671b4802420dde7021a6602f8	Angry Motes (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+12ba451250e80e6faabc688c61e7a152	Angry Motes (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+43c17ac1ec4dd445eea34f76e19ef557	Anti A-Bomb Aircraft Artillery (World) (v1.0) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+178021759b5b887fbd690eb6f6e0d377	Anti A-Bomb Aircraft Artillery (World) (v1.0) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+561c6725f64ffbdd0ca0cf990caf28c6	Anti A-Bomb Aircraft Artillery (World) (v1.0) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+44ae38879ea4c34efd5b6540aba60502	Anti A-Bomb Aircraft Artillery (World) (v1.1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+2f160ce0bca6e38816299733e4e7c3fe	Anti A-Bomb Aircraft Artillery (World) (v1.1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+b3b69e886804b02ffaf11ca6ed8b6055	Assembloids (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+f65e3f7a6c0063444eeeed6bb9d787c0	Assembloids (World) (v1.00) (Digital) (Atari Lynx 30th Birthday) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+bc8aff692a6fb4f238d4198e8d7fec45	Assembloids (World) (v1.00) (Digital) (Atari Lynx 30th Birthday) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+fd3c403ed86ebff5b96b6111fa1d32de	Assembloids (World) (v1.04) (Digital) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+5bbd3aa2993de2adfd30093338a76d08	Assembloids (World) (v1.04) (Digital) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+8cf418cef94e87bd272c6f8a8faa1554	Asteroids Chasers (World) (2020-08-14) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+2f404547c5d96250d96e96dff5046242	Asteroids Chasers (World) (2020-08-14) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+ecc2702671260360f529e5193c48e53e	Asteroids Chasers (World) (2020-08-16) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+2067c87c8065f60a10b5c30392cd4417	Asteroids Chasers (World) (2020-08-16) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e9133e85ebb08ca1dfbb5a2b534a5bfa	Asteroids Chasers (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+b1babee20f5d3395d5157a67f5b9e8fb	Atari Lynx Pong (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+72ac4ff2b3cc10766b2b5bd6d8639c9b	Atari Lynx Pong (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+2e4065427aeede3fb1ce61711f6357d6	Atari Tabletops Collection (World) (v1.0) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+8afa5457e6721c2859e8c6d304db0137	Atari Tabletops Collection (World) (v1.0) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+ade4247702c0ef36934556b1eab65cdd	Atari Tabletops Collection (World) (v1.0) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+3b39c02712fbe02d47431c2f42eb1b15	Atari Tabletops Collection (World) (v1.1) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+0ae59013ec50972f9e4df84f827ee121	Atari Tabletops Collection (World) (v1.1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+cbc421f6207d497deb542d08b4a6557f	Atari Tabletops Collection (World) (v1.1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+f72beb4c2c0a740e944867c36dff6f7f	Atomix (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+ae163d73e4aa21f362c5c0ab2ba4010f	Atomix (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+49d6eeb3c983246ff4d7034497f7095c	Awesome Golf (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+68328ad57c51196a495ef25e8e1fda43	Banana Ghost (World) (v0.1) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+559d5015889bbf9ddb13c472bcdedcad	Banana Ghost (World) (v0.1) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+3844c5c32ef1caa754326c67cf934d1c	Banana Ghost (World) (v0.1) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+8ca8072a1dd0ddb5373f28339fd220a4	Banana Ghost (World) (v0.2) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+b9f6b0e767000bf669974f361f511961	Banana Ghost (World) (v0.2) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+3f88dc13baa8146a8ca86e58826d84cb	Banana Ghost (World) (v0.2) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+1b50eff99209bac2423209faca1e032c	Bars (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+e6247a65b9ad366c5de683e41bb5de1c	Bars (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+b9dd13b8188068d52b1db45c91a68976	Bars (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+8c9a72ddbb5559293862684ec67bfa92	Baseball Heroes (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+f19b95e4835c5fbc44b180dbd3f024fc	Basketbrawl (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+0f55b11d66c4e1567a7ea91f67c99c81	Bastion (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+12fb07d8256f4b0557ab041faf12dc53	Bastion (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+6ebe76c451a2497bbb28f6128d074295	Bathman (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+2e51d77c44e295a0c231f95165895888	Bathman (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+4bffb4675050f2540635194e639b94cd	Bathman (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+6e9bbff3c7b66d3ec0411ffbe0e41dfd	Batman Returns (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+fddecd756abe5eaf613ca1db31d51df7	Battle Wheels (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+abe2d432e1fc16e005441ac774d3d522	Battlespace (World) (Demo) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+1ed78a10451bbcc762e3793ddb0b51aa	Battlespace (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+c019189ccf8c05d1b78bf112642c5f77	Battlespace (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d405ea54b77390b06222f9dac7cea827	Battlezone 2000 (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+6f1f15fc0b4849987c0343036a11db32	Befok (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+f86ff041a3221516ad39a27d09fbc40b	Befok (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+90de704b7076ad1c5ef19c4d1e6b00ee	Befok (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+1099943b19085165093267b2438ce07b	Bezerkoids (World) (Proto 1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+9ebebe96b8a521def2440df765f0c217	Bezerkoids (World) (Proto 1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+7b3c238325eab6ea058df17f356cf334	Bezerkoids (World) (Proto 2) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+4c57cffb8790e5edb22e26a6e26f804d	Bezerkoids (World) (Proto 2) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+11b29901adff12124ff524e94a45c3b9	Bezerkoids (World) (Proto 3) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+410de18cd732870f37755fcc0e14507d	Bezerkoids (World) (Proto 3) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+87dff4f4d5e1e4a7132d19f94d4e9b3a	Bill & Ted's Excellent Adventure (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+aa27e6e139d7aca03072484948cdd2a9	Biniax (World) (v0.1) (Beta) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+057e78cb86015d01b4bafc41b45ece2f	Biniax (World) (v0.1) (Beta) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d1aa93d9123da62c43b3e6ba9cbfef57	Biniax (World) (v0.2) (Beta) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+d6d935f4e2e7af66100de5fa0e072a1e	Biniax (World) (v0.2) (Beta) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+a90571f6b1226109c086684a32966ea1	Biniax (World) (v0.3) (Beta) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+12a07e89bb9f216047ed4a3d9d117575	Biniax (World) (v0.3) (Beta) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+69da929f14c7ade0d1bcd6222ecd305b	Biniax (World) (v1.0) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+d82f074538f69a0bd926e01e8babef8a	Biniax (World) (v1.0) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+423951c6ab079a3ffb5f80a0307a4970	Bitchy (World) (Digital) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+7ca8dba56cb32e7838695289babed831	Bitchy (World) (Digital) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+f85c5db77cd1ab87e521809b15cd8add	Bitchy (World) (Digital) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+adf59b18cbaa97d147008c17d7532f56	Black Pit (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+46a200f5537356747ae58cbb988f732a	Black Pit (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+9ffb453d3d4f9745b6a3893215b5dd5f	Black Pit (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+c81abf2919effd525b83c2103b75e6ca	Block Out (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+7c3cb287de2d9f67ff342b4e42592732	Blue Lightning (World) (Demo).lyx	nointro 2024-04-24	atari-lynx
+f7b4775771bc25d9053af5c69a8c8b2a	Blue Lightning (World).lyx	nointro 2024-04-24	atari-lynx
+3a697a28bdf5ed4a3b5a286138f39ad6	Bobo (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+809a98c8b9ad4f3ef806b0cd83d48124	Bobo (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+299dbe1d375e128faa39303d16c000db	Bobo (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+7849a21194572f6374d50ba52f43155f	Booster - Xmas Edition (World) (Demo) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+61a8901abca5b96380a5aaaa5526e9f1	Booster - Xmas Edition (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+af1df2717450f307eac5db2ba0d17a0f	Booster - Xmas Edition (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+63a56d689b485df8c8269faf908611b0	Booster (World) (v0.3) (Demo) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+89a1b4978bb322e896e1d0a848047ddb	Booster (World) (v0.3) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+50e8ad63c0496963de5323b1a1783982	Booster (World) (v0.3) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+bdbd3b2f5275c93d15292776b50a1684	Bowling Area (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+6098215e6a8a3720966bbf6863a2018c	Bowling Area (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d6aabd9423552df8d4090f87c3b4b6da	Bowling Beast (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+44c53c72bc4fd9335fb84afb0bcf65c9	Bowling Beast (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+90841f8fed54862f8a8750ddf212eb84	Bubble Trouble (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+7519b0f9f14835cfe8bae0dcbedb30be	Bug Hunt (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+a9ad52a17667556b70c332cda859c672	Bug Hunt (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+3ca1d2e639e469b1df7dcdc8cc6338af	Bug's Lynx, A (World) (2009-04-20) (Demo) (AC2k9) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+710fa993f21930b96cf0403c62c6bfe7	Bug's Lynx, A (World) (2009-04-20) (Demo) (AC2k9) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+88ab4af5efc1ace2aa4ce35f6395cdde	Bug's Lynx, A (World) (2009-04-20) (Demo) (AC2k9) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+4ec662e0ebcf9d7749794d2713197bf2	Bug's Lynx, A (World) (2018-11-02) (Demo) (eJagFest 2018) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+9521d1c4b4abd2d4dbab3d47fe46a916	Bug's Lynx, A (World) (2018-11-02) (Demo) (eJagFest 2018) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+5508d57cd3ad1eda0a6fb4d71f723773	Bug's Lynx, A (World) (2020-04-03) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+153883f28a7f55e520ec127e02a02605	Bug's Lynx, A (World) (2020-04-03) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+50d38706eb77ad464a10be7a0df508cd	Bug's Trip Redux, A (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+8e94fcf9491ef7a4669aab865c5c7a32	Bug's Trip Redux, A (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+df5b6f136649a0491edf28ce3ffaacd0	Bug's Trip Redux, A (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+4f4e6480d7157aeb5904554e038ae218	Bug's Trip Redux, A (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+81f5c121b499d04813522d382d5a0ca9	C-Gull (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+fdb88da6221360209a9159965658efa4	C-Gull (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+3615dd6b8b805e193107b39c5a92b1f9	Cabal (USA) (Demo).lyx	nointro 2024-04-24	atari-lynx
+73e02bb77dcf857a6578f0e24b4ecb9e	California Games (World).lyx	nointro 2024-04-24	atari-lynx
+8179d8a1617a5493052f3841951db394	Captain Harlynx (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+17c63734eb1c95b0a4161e45c8901133	Captain Harlynx (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+ea3cd49d7c63267f59a8965adc41962f	Cardtest (World) (Beta) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+ed160ab0dad1dfdf1d33fabca819cb34	Cardtest (World) (Beta) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+61903373ad694aeff3dd17cb16f155f5	Castle of Khon-gis, The (World) (Demo) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+d87963070113b23723a9fde2d9b7a54d	Castle of Khon-gis, The (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+5afcbdcc1976e84973f9fd140d7f517f	Castle of Khon-gis, The (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+54eec928a78a71e254f1cc1c0dbb9c49	Catkanoid (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+9d3c02d1f18d9ed5a8c1d13fbb23337c	Catkanoid (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+13cb869b95c67c532efdd0e924e37299	Centipede (USA) (Proto).lyx	nointro 2024-04-24	atari-lynx
+84ac34ae7ceea51d6725ea089f3f6bd3	Championship Rally (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+55c771c76dee5b118b9f013696f5084f	Championship Rally (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e0f02191f6fa296f9c4d39c6bd97adfe	Chase (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+08dd18f72e4dc4284edec92fcb713727	Chase (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e5c41086488a68ff2ae0c5e26053908f	Chasm Warden (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+20c68febcf1884130e72ea6b8ed64da9	Chasm Warden (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+c900d09747f69faa18f44b332ed7fbbd	Chasm Warden (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+85b33c5e5985ab041ecc44555a8cfb42	Checkered Flag (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+24611d1445ebd34ab79fb0ae996ff4e4	Chip's Challenge (World).lyx	nointro 2024-04-24	atari-lynx
+f0023ddfed214daabb4099de7ef53ab7	Choplifter (World) (Demo) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+497451b107ed020ac627643356aad4ca	Choplifter (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+d72504e1b380587e5d4c46b7ddd2ef52	Choplifter (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+fe6150443e0bfedd9b627ee31db3bd79	Choplifter X (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+19d9dc4678c4d95734f4d1242f2a6399	Choplifter X (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+12da1c36ea31154eef48650310092a17	Choplifter X (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+eff43609260fc50a0e1faacdce4fa0f7	Circuit Dude (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+2d301b07cca228fc50d674b1917305d8	Circuit Dude (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+6ac055224917fba6b39769f01bddc35e	Clicks! (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+29676018d09b5ceb60aa12db8ff2ace4	Clicks! (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+cb0e6c61caa2384733b8f203421ce941	Clicks! (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+2cce9de9474b03e9268475ff933a7f4b	Columns (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+3bd0f6e50d6d73ea1e7d09818653684b	Columns (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+a2bfb8c3368fca135cdf253a576faa40	Columns (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+66edca3d95f0788aee3c15260ad7c14e	Conquest of Zow (World) (Demo) (Unl).lyx	nointro 2024-04-24	atari-lynx
+85f74ec751bdce0ada934c7502d2f3ee	Conquistador (World) (v1.0) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+c7365d949e3d597433b82fb69f5f0d85	Conquistador (World) (v1.0) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+3bbfe99ff86cddb9dd8bb4359b774dda	Conquistador (World) (v1.0) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+388a04922513efcf9850f3a1188855f3	Conquistador (World) (v1.1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+14b3f1fd46dbd54322bcd6a0e70b7c8b	Conquistador (World) (v1.1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+8af7288271d02d9e1796985fbee67954	Crate Challenge (World) (v1.1) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+a61b03c3c864e9027ca79d40fa606baa	Crate Challenge (World) (v1.1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+aa04d152b553f99eee095213de63839b	Crate Challenge (World) (v1.1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+69e3c636621c85ec528f325b88eecfee	Critter Championship (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e138c8c988b6ed948e33af73eae1764f	Critter Championship (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+71034b66955ecf642129bd6b5da2876e	Critter Championship (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+29ae1a28f0d9324b2a9e1889f26ec838	Cross Bomber (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+2f8bd10047e8efe6bf6d3cc09498f32e	Cross Bomber (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d0d40109d1b16a14b638869f180bf366	Cross Chase (World) (v1.0) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+139e6c7dbd7125731fc8101722bc9e3a	Cross Chase (World) (v1.0) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+5e8eb4e047d69d05bdff2bd57005b49b	Cross Chase (World) (v1.1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+98eb863b1a88bb6c00cc8f2790db1edc	Cross Chase (World) (v1.1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+cbc54d20b88d5df62d54f06be2bc95cd	Cross Chase (World) (v1.2) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+44e70176c1b09e637fe3a281205402ba	Cross Chase (World) (v1.2) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d39a264f274b2721d22087e56bee0521	Cross Horde (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+293dd47db9c25b44ce2afa99560fc7e7	Cross Horde (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+106ce92e57d49b1334c8cdd9d08bf071	Cross Shoot (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+382c4a56f84f8f40d6e394bce29983f4	Cross Shoot (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+c33c6052100b7fecad067bb1db426a3e	Cross Snake (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+3b5497e65bfba3ee5fd7885c1237abf9	Cross Snake (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+b7627b8d70df9cb3e75da8e1a035c71a	Crystal Mines II - Buried Treasure (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+b4acbd3c544a0d92cc8ad1380bf8a810	Crystal Mines II (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+bd6dfa49c9d1d15381a2e8d9d6556089	CSS - Traffic Regulation (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d25df26b34804cd08e24cd6ea5eb4900	CSS - Traffic Regulation (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+15ece645ea6e439958274c025e3aaa84	CSS - Traffic Regulation (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+adced92f3f55fa7d54211bd6a64ef74b	Cyberpunk Experiment 2037 (World) (2020-04-13) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+ebc4450c3f4d8d8679050b04ec75d7d0	Cyberpunk Experiment 2037 (World) (2020-04-13) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+6f5618eb54a6da2172134d9b6836cf11	Cyberpunk Experiment 2037 (World) (2020-04-14) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+999a509dbae6735eed971b429450dad1	Cyberpunk Experiment 2037 (World) (2020-04-14) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+b0dd4fdc3354454d0cd85217085cd6c7	Cyberpunk Experiment 2037 (World) (2020-04-21) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+55077ca1fbf74819858fb170812ddfe7	Cyberpunk Experiment 2037 (World) (2020-04-21) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+5c3c83c88e8b6b4f95de3b446c296dae	Cyberpunk Experiment 2037 (World) (2020-06-01) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+abe8704a54803a69e3bf9cb920afd115	Cyberpunk Experiment 2037 (World) (2020-06-01) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+f8b4debd68eb0d7c578242fa74e1c593	Daemon's Gate (USA) (Proto 1).lyx	nointro 2024-04-24	atari-lynx
+f1c12b0c2284e7f7abe948aa97b34ae1	Daemon's Gate (USA) (Proto 2).lyx	nointro 2024-04-24	atari-lynx
+59ec0eeae6a1a41023b328d086350390	Dance, Bro! (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+c37b7d7a152e156af46feeb49e9fb7cf	Dance, Bro! (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+fed0fa386c1de14dc75b28674870006b	Dance, Bro! (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+f764b88c44afa8b5ebefb8eb2e4d7b97	Desert Strike - Return to the Gulf (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+5fdccb2e0bfc55ad7add9ca07cb292a0	Devil's Show, The (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+fe743170cdf836747843e9cacb2bbf4c	Devil's Show, The (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+871a7e695d1dd5fcdf57bb9f243a8709	Dice - Board Game (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+d850fd265bba0ae304aabfa8fe428f36	Dice - Board Game (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+9496be61fd0675553f05345c5fc2d15c	Dinolympics (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+8cd77bec912c9b4dcebd8a82dcf91a0b	Dirty Larry - Renegade Cop (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+fcf0440adc4bbfbd52e0f57ede118686	Doom (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+8c09b37d1dedbc11863cd91cb4a3f7c5	Doom (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+0e91b7ed60bb47d569ba24df671ad3a3	Double Dragon (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+3ff35996887c2ff95e275085efbbbbed	Dracula - The Undead (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+876f6cd47552c892627b9735f210e005	DrunkWitch (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+af123d0f4abf87197ab63b3e0ada3fb9	DrunkWitch (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+94519b6553e24ecefc004d6eb41bf9fc	DrunkWitch (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d8d8f9d65739168cb5a3b51d59886012	Dungeddon (World) (Beta) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+844049ceab769b56502eaef28adc463c	Dungeddon (World) (Beta) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+95f6e4f3b6ffcbd492fa52944e3ba0ea	Dungeddon (World) (Beta) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+ce90fd4f14202b316135f7c1dbd65e68	Dungeddon (World) (v1.1) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+bbbbb8c3cf93c4f21bee482125a8d851	Dungeddon (World) (v1.1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+d823b9d84f5785d7c9cd467e3401365f	Dungeddon (World) (v1.1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+ffa4abab925d3981b777746e919d6e33	Dynalynx (World) (v0.4) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+a042cdfa31cfecdeb5867d7288924a59	Dynalynx (World) (v0.4) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+b37a9df7acdf21b415aeac07b7121ed7	Eggsavier's Cackleberry Rescue (World) (v1.0) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+899d80c0dbc016e8b3b830e69e31c19d	Eggsavier's Cackleberry Rescue (World) (v1.0) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+055f8d70f6a118776149d57d904d3629	Eggsavier's Cackleberry Rescue (World) (v1.1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+c5f313f1c5060d1ca40209b32bfe5560	Eggsavier's Cackleberry Rescue (World) (v1.1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+c49ca94a908db219224c6d5baa206ab6	Electrocop (World).lyx	nointro 2024-04-24	atari-lynx
+6a5f47b281db34ef2b93b132c859ed21	Escape from Dungeon of Deja Vu (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+0186174ff0f959df047614a294d6303b	Escape from Dungeon of Deja Vu (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+c0dcb6a7cfd2d6f619751ee5f9b0dd35	Escape from Dungeon of Deja Vu (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+32e726ab7941eb1e833dcc4cf348a060	European Soccer Challenge (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+858480bb97d86a52b1ca17dc390a8bdc	Eye of the Beholder (USA) (Proto 1).lyx	nointro 2024-04-24	atari-lynx
+982986f482ecef8bd0314f6b71152245	Eye of the Beholder (USA) (Proto 2) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+7b3f49bda3162fac51a387905e6fb6f4	Eye of the Beholder (World) (Unl).lyx	nointro 2024-04-24	atari-lynx
+69abd21c83390dae54630919c3c150d0	Fat Bobby (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+19eb0ca77284b5d91a63eb02f6962930	Fidelity Ultimate Chess Challenge, The (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+5a72b44cbc39b308559700bfe65ecad0	Final Melee (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+6455bda2910c08aeaeff4324a32b78df	Final Melee (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+aa5dfc75a9c44ed7544ac8e3b5da31e7	Final Melee (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e0a1858c5a1472b98507d21e18b973bd	Find a Way to My Heart (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+982a9fed56d7c2819b2451c00cd6367d	Find a Way to My Heart (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+4adb2a171a0ebf1d3599a91db64a6470	Find a Way to My Heart (World) (Atari Lynx 30th Birthday) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+288a4581b820530037a01862d09e67fc	Find a Way to My Heart (World) (Atari Lynx 30th Birthday) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+377c1a0861cd56aefb98d3f2e7a67d96	Fishing for Atari (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+dfee221d6a515110489e521e5b13f122	Fishing for Atari (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+28c1f9daa177954bdf7081bd8b067e73	Fission (World) (v0.6) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+e21c7b792198519225c2c6e2f6c960b8	Fission (World) (v0.6) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+cb2508adae92d4eefd4a121f4402bb5a	Fortress Fighter (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+b62b6016b7defef9899b4b6242ff29aa	Fortress Fighter (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+03730ae6c4f754b70611f8e4c94b0a46	Fortress Fighter (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+b6ff75c316d85967486a833e0f9ed8f0	Friendly (World) (Demo) (Unl).lyx	nointro 2024-04-24	atari-lynx
+bb25f72460164c2319993e87668d9c69	Full Court Press (USA) (Proto).lyx	nointro 2024-04-24	atari-lynx
+b344ac0c8f1a5924a98edb862940d497	Game of Life (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+b736dcb8eee3f8390c0ea7b3e236a37b	Game of Life (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+c3f372990b0d534604018be4f7d86a9f	Garci (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+f391baf99496baf54cd5d12081f75eea	Garci (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+3251ae1f47fcb4bd5ad37633a6705d6b	Garci (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d5be9118bcb14243468001b08c4aa21a	Gates of Zendocon (World).lyx	nointro 2024-04-24	atari-lynx
+8815ea087af1aa89b4f7b65bd3cb8534	Gauntlet - The Third Encounter (World) (Beta) (1990-06-04).lyx	nointro 2024-04-24	atari-lynx
+0b572c0dfb938849eeec39b2c9583547	Gauntlet - The Third Encounter (World).lyx	nointro 2024-04-24	atari-lynx
+aa9ce261ce613992699436f5ca800b2c	Geoduel (USA) (Demo).lyx	nointro 2024-04-24	atari-lynx
+9d10f90b53bbf485272e884e529d7ce3	Gift Catcher (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+ef1c5344d40ee1bb434904f0bb4fcf85	Gift Catcher (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d4ef1ab6f529ade6c7815d2b132387c6	Glob Shoot (World) (v0.62) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+a389c0f2aa23ee55e479a4a08627b391	Glob Shoot (World) (v0.62) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d54ff8e1150cb60e54d79d534fae458d	Gnop! (World) (v0.4) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+d6f5cc350df98e9e4affefc676b3e829	Gnop! (World) (v0.4) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+0d899043d63c4c85144444c6ad72e899	Gnop! (World) (v0.4) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+623354ec6da68ce483feb46063a98022	Gnop! (World) (v0.6) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+4ca6a03be81f227ae8a12ceff381394b	Gnop! (World) (v0.6) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+bc30a5c593e52eaebaeb6b452d4751f6	Gnop! (World) (v0.6) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+df631abdff388dfca76390804970073b	Gomoku (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+327ab0968fee7a926123a09bc9798db4	Gomoku (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+eb9b5b2b6160e5f3015bc2a669d886b6	Gordo 106 (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+bec8a4b26930ca45521795b79c9511c2	Grail of the Lava Kingdom, The (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+d3c6b12c5411a59f02b798f3dfdf01ec	Grail of the Lava Kingdom, The (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+8c6d6257b28c23e176f8cfc8e5c6a18d	Grail of the Lava Kingdom, The (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+3beec217c8a92f9589b2ce4747225ed8	Griel's Quest for the Sangraal (World) (v0.1) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+c225b017b57a3095c5beabbd78ace106	Griel's Quest for the Sangraal (World) (v0.1) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+da2527d09051f869cbeab4e03f4b7fa9	Griel's Quest for the Sangraal (World) (v0.2) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+050d930a1c33ed4e23f868d2e7335a53	Griel's Quest for the Sangraal (World) (v0.2) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+ded2be41c7c2d622c24a4215abb94a0e	Griel's Quest for the Sangraal (World) (v0.3) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+2afd49bc47caab2f453c08a5ee374e1e	Griel's Quest for the Sangraal (World) (v0.3) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+dd4f099319c526d127d8bff29be23be9	Griel's Quest for the Sangraal (World) (v0.4) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+3c9603bb0c7bc44b71cd66964c473bdd	Griel's Quest for the Sangraal (World) (v0.4) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+b5c5bb7ab797a1ed9447871e8ce33a41	Grime 6502 (World) (Demo) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+e3681869f50cbf436e59a6128a1b9c69	Grime 6502 (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+c2c98924a8ccb3135d4e40438b38ad56	Grime 6502 (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+141771cdad713bf84d0fec0ccf7cd44a	Grogger (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+add6f29ed202532de536f3caa4abec8f	Grogger (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+0143623cc79a3c8dd4f3727df0978e4a	Grogger (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+58ea5ee427fc3fda376012d432f339c8	Growing Ties (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+244362a684a8e4c1ff9cb9c2bf72eec4	Growing Ties (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+6419bd35b15bc190bf55de3025300422	Guardians, The - Storm Over Doria (USA) (Proto 1).lyx	nointro 2024-04-24	atari-lynx
+69b58d4482c69b4658d443f00975dae4	Guardians, The - Storm Over Doria (USA) (Proto 2).lyx	nointro 2024-04-24	atari-lynx
+c265f0de8c5bd77db8f9cf5a1f7ab68f	Hard Drivin' (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+bc0866e85e24fe82e2af19ce495bc3d7	Hero Dust (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+153d6d638db7876b82096612a080c7d2	Hero Dust (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+1b2918715238843f6dd73155af4409d8	Hero Dust (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+a08b8070ad613bdb2637162b3bf39574	Hockey (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+927525395af806f0130e7d9a9002c2d5	Hotdog (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+b57ad1fc01dd1479bf52d1f4b21bb3c3	Hotdog (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+42414180a6171296d73433c386d78569	Hungry Monsters (World) (v1.0) (Retro Platform Jam #4) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+213b3a4c11633462879b162119acaccb	Hungry Monsters (World) (v1.0) (Retro Platform Jam #4) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+174b7034fd57aecc1690593ddce23d8b	Hungry Monsters (World) (v1.1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+8b8191641db4ca5ed5fab16ee95f4484	Hungry Monsters (World) (v1.1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+76a48869c14fbcf85588001a1327253d	Hydra (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+f2a1c82821131f6591c2856b27eaf26a	Inside World, The (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+c42c33153cbf123495a0c5685913da15	Inside World, The (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+bcf91588eca2d69019983388ca987f2a	Invaders (World) (Demo) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+ea4214c1d83de9f3490ee1085ef8dc12	Invaders (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+da2c6100d60cd75702c55a1cd9f671d3	Invaders (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+addc6c0ae7b535839815b8e7f7fd0f11	Ishido - The Way of Stones (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+db958b386e9b3383bf2dd49e0ae496c8	Jelly Beans (World) (Demo) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+23c4f96169bf797a918c05357ae230c4	Jelly Beans (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+2c4afb0e5429e3e5d2ce003244245e2c	Jelly Beans (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+375af66c263029cbcfb4f3e7f7be03ce	JetPack Hero (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+625ecf93d35e23562a5f2a259605dfb3	JetPack Hero (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+087e6ed018ad0573bd7ce3a91d34f2c9	Jimmy Connors' Tennis (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+440462507cf5cffaa8d3d3a66f01ac6a	Joust (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+fe31e749165f3b05b46ae8dc5c92a1ca	Jungle Jack (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+bc79efccfa7f12c104b1d533c89ad14f	Jungle Jack (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+207c8cb506772635dbc5152e70f8f157	Jungle Jack (World) (Beta) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+0f4199af04dea197c6072f8924100e33	Jungle Jack (World) (Beta) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+9c959239cbf0643c8a45b5329309be1d	Karateboy (World) (v1.0) (Demo) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+31ecf25a9d1beab2271899a56a1be657	Karateboy (World) (v1.0) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+1731d5943adb721bf5eeb8b0c1e5f910	Karateboy (World) (v1.0) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+dbf59686600409ed0cc43c09e7130915	Karateboy (World) (v1.1) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+9a69d304b5698d11653c8e9d653eba69	Karateboy (World) (v1.1) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+f89a607ff520628ceb4787a23540af5a	Kistenschieben (World) (v0.2) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+701f44094776a902c1b3abb39581abd0	Kistenschieben (World) (v0.2) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+57043e8e79588c067118a4d5f307cd76	Klax (World) (Beta).lyx	nointro 2024-04-24	atari-lynx
+f96a0ddcc72c971226e8fdfd95607c88	Klax (World).lyx	nointro 2024-04-24	atari-lynx
+23024a5f5ab9044ae0e6e4b64d93dc8a	Klondike (World) (Beta 1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+719b2151231262157f2634630d612013	Klondike (World) (Beta 1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+650a1503ff0f712584bd4553631868f2	Klondike (World) (Beta 2) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+29e07112e3a495da552b3b4f79029c64	Klondike (World) (Beta 2) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+85f0417d2f640287df925ce5618749a3	Knight Moves (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+2f62cbe7b7107575be368efe7584a27f	Knight Moves (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+c365f58dd4ad883d18480a735593e105	Knight Moves (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d5a871994a7e88432ff7c52fc759f3d5	Knightmare (World) (v1.0) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+c92bfe977b38635deab2475363124ee6	Knightmare (World) (v1.0) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+7c1df76ae3fe2cd5c2bddad20b017cc6	Knightmare (World) (v1.0) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+8b6afdb9c15ddde2c958d9cb98d879d9	Knightmare (World) (v1.1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+cc6271e367e01ac3cbd783af1bf8cd1f	Knightmare (World) (v1.1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+7e82db12a5749ab983e2f3c8bf4c0f6e	Krazy Ace - Miniature Golf (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+4cf9a35d2ec4d0e513432b3279aa3cc8	Krow (World) (v1.01) (Demo) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+0c89c862478a199d0ec32b020158ad62	Krow (World) (v1.01) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+3811f4ec4069d5d7f0b219c2bcd76050	Krow (World) (v1.01) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e5e42190918847b8c6056e78316ee91d	Kung Food (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+1d88e75ad82af136610525038ad60592	Lawnmower (World) (v1.1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+befa0975108f4f4c6c429c77ce308094	Lawnmower (World) (v1.1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+3cae85572df3b43f0220326bf4bb3c8b	Lemmings (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+453bfe03779d8b7a25c534e96b404240	Lexis (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+7ee41edaef283459c9df93366c5da267	Lexis (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+957f29fe3fb3ab0d2894d27171a514ae	Limny (World) (Demo) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+b12080db1625cc0828281b50a12973bb	Limny (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+8900ac20f75dd6f8d36aa824bca82163	Limny (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+5d00c8b40a6559cf20ae19550ad67579	Lode Runner (World) (Proto 1) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+f085ae3144d788af2b41e4f0f2f83c52	Lode Runner (World) (Proto 1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+b28964fac53dd55c413862a9ad8ccb50	Lode Runner (World) (Proto 1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+908ced914b1308d166ae83226aa12985	Lode Runner (World) (Proto 2) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+2d9b5d1fe7c868371357f42dbbf75131	Loopz (USA) (v0.04) (Proto) (1992-09-16).lyx	nointro 2024-04-24	atari-lynx
+8399c8fba48ba1a4389a96e75838dc49	Loopz (USA) (v0.06) (Proto) (1992-11-05).lyx	nointro 2024-04-24	atari-lynx
+3496f9e8b55f85349f688dc28a26c74b	Luchsenstein 3D (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+72457a00f3f62125472cec8be6e75218	Luchsenstein 3D (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+62822cdfb8e8d4a72301947b5f8ad580	Lynx Blast (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+3b661f6651262c3f6321f13218156eaa	Lynx Blast (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+05d28ab0e92b19147e7f5ea88c6efb6d	Lynx Casino (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+5d8fdfb15441cdfb8a1c66c243c486da	Lynx II Production Test Program (USA).lyx	nointro 2024-04-24	atari-lynx
+858547afd7918be5189089b5d5a462f9	Lynx Ops (World) (v0.1) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+4ddba5705fba554953cfe71279a5686c	Lynx Ops (World) (v0.1) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e4a3689ecbe40684cddbcd32c07eb31b	Lynx Ops (World) (v0.2) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+2bfda0c70cfd9df1f2944796eaf5e0f6	Lynx Ops (World) (v0.2) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+53989def4cfd30711fd1a3e13300d393	Lynx Othello (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+cf88183c03bc063d887aa65001cc49ca	Lynx Othello (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+213fdf687c9f5ed578ee64532d78ed1d	Lynx Quest (World) (v1.00) (Atari Lynx 30th Birthday) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+5ad335609c1db08133186c272b224503	Lynx Quest (World) (v1.00) (Atari Lynx 30th Birthday) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+8d716dfd24c984db7eb003a543813488	Lynx Quest (World) (v1.04) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+956931acc145c87a4a18f2cc2040ead7	Lynx Quest (World) (v1.04) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+7c6da680924b105b28f1aad07f2995b1	Lynx Sketch (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+e3512b118287061fdc696c9d442f00cb	Lynx Sketch (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+197bf397c68f59db9107f6c583a135cb	Lynx Tris (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+608cb03b95d3ff9caa65ef841de60421	Lynx Tris (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+4d4026fd150be4c5bab9e2e3fce7d1b3	Lynx Tris (World) (Beta) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+6d1978bb6955d7e8679fe8f80fb86659	Lynx Tris (World) (Beta) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+4ca909c538476e8cedc2604f97b5d93a	Lynxopoly (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+5e7a37ad0d3438c5d628dfb8813e4d55	Lynxopoly (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+450156242ec33e6ad5c33a03573245b4	Maldetetemagic Vol.1 (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+21ab3f376624622e0d6a370b93c5f347	Maldetetemagic Vol.1 (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+9d7104a54a58829c3244e75d9c7a51e3	Maldetetemagic Vol.2 (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+45d447b20ee3d272c0549abca4125c50	Maldetetemagic Vol.2 (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+98c851c7ed924e1c7123c60e5164819e	Malibu Bikini Volleyball (USA, Europe) (Beta) (1993-05-11).lyx	nointro 2024-04-24	atari-lynx
+280344c8b073895ecce286d1b9d87d8b	Malibu Bikini Volleyball (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+adb2d4590ee7e91f1e3ac1006ba9a8dc	Marble Madness (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+10db69457be151fa5728fca0113df193	Marble Madness (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+daf8027ccdaf71150aca1f1d91604543	Marble Madness (World) (Beta) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+88f84337048d896dfc1c1a41d317347f	Marble Madness (World) (Beta) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+fa4fb117a5b12ac2501d43c16acf4cf9	Marble Madness (World) (Beta) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+748bda71d1f8ee328b086ee21ac3c3f9	Marlboro Go! (Europe) (Proto 1).lyx	nointro 2024-04-24	atari-lynx
+194a3eeb876d2b74cc480f4d337d79b3	Marlboro Go! (Europe) (Proto 2).lyx	nointro 2024-04-24	atari-lynx
+12ee19ee939eacc8beb4ac18559cd0e0	MegaPak Vol.1 (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+7ea617ebc2596c68a2a5018f3263dd82	MegaPak Vol.1 (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+44cdd85c7e711eaf968255ce34b0fde8	Microvaders (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+30a9f57abd870ec4fe4683cf122ca34f	Microvaders (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+3962e56b23312c3bea8d4deaeaeaead6	Mines 2 (World) (Demo) (Unl).bll	nointro 2024-04-24	atari-lynx
+b53aa250116a44e2877fd6b40e2e36e9	Mines 2 (World) (Demo) (Unl).lnx	nointro 2024-04-24	atari-lynx
+1b3d49f875af891f6d705b7621e317f9	Mines 2 (World) (Demo) (Unl).lyx	nointro 2024-04-24	atari-lynx
+245ec7e9144d97a7f88f1e9623065041	Minimal (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+33f7f01938226f75400186b9d8d2fc26	Minimal (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+8bcc16c4cebd604aa5ee1506b2d1a71a	Moon Runner (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+88fe705af2ee9abb401d1b44bdee7c55	Moon Runner (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+0922f5b718c95a6ef153d09e627871c8	Moon Runner (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+f09addf82230bbe135b2d9f6c2044eaa	Mortal Kombat (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+6cc32b221b836ed33271ba2eb059c486	Mortal Kombat (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+192b6b764a3a1c7831e0a785fa4b5453	Ms. Pac-Man (World).lyx	nointro 2024-04-24	atari-lynx
+ecc8a80b60be5ec1851667534a2da57f	MultiPong 1k (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+972fbb5c5e18ef04e892e39106d60a0c	MultiPong 1k (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+22e07580ec5056ddf12e06f6cb10c563	MultiPong 1k (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+3b1176fef4eeecc28a3fdcce8a4cb082	Naughty (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+97acbf4fe9220b9544c559eaa80a12fd	Naughty (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+cb0a88e4465d26a41509e9733195b98c	Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.0) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+9b26c01b7897456ec822da15cde9157d	Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.0) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+c255f7a8fd858f969ea8b9f230f2417a	Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.0) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+8a7fc5f2c2afd205aa1edad6f9bc7210	Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.1) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+f09bbf8b6c71158724c516dee2e6564f	Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+f492d2556fdbeacf3deaf16cb5023f1c	Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+836a13cb5fe90dee942c90f813cdaa70	Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.2) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+98089212ee61037e9fc000c3de5433da	Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.2) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+0032a257437725dc61b030330905cf8e	Nezumi-kun to Poker Shiyouyo (World) (Ja) (v1.2) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+276b9be28571189912f05d321fcb04ef	NFL Football (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+7ec4063eb6c7c74600d6a16fb3a3bdbd	Ninja Gaiden (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+c9ed2a3bdefd6d5fdf67302d87b5cfb2	Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+0f8ca2827f6e05033be0354692d5cc9b	Ninja Nerd (USA) (Demo).lyx	nointro 2024-04-24	atari-lynx
+43fbe9dfa9dbe4cead4a5567628b048f	No Time (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+040406051020530e68f11867c357e300	No Time (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+698600f1e3fcf801b7e5258ae3c91067	Nomad Rally 2018 (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+273aae38d70b4f33fdbcdcc5c181feb3	Nomad Rally 2018 (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+bfe661782ea33a51951fecff00a04fc6	Nutmeg (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+ea63df936e96da7c796e5d6761ebd29d	Nutmeg (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e37919528fd5cb068edb0c5268f27ce8	Nyan Cat (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+44ed82348bf43bb59ca245f84a26b35e	Nyan Cat (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+46a864d9ea8c4c0f587c66c98045bf97	Odynexus - Journey to Ithaca (World) (Demo) (Silly Venture 2019) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+20dda853fa8629f1cd0c8fd1b895ba43	Odynexus - Journey to Ithaca (World) (Demo) (Silly Venture 2019) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+73328d6a53407d63dbd6a011f190f02c	Odynexus - Journey to Ithaca (World) (v0.98) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+3e3c25cad9e599f53e4e043e65220e40	Odynexus - Journey to Ithaca (World) (v0.98) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d3a62fdebf066f4887c67a34f753503f	On Duty (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+34ffa2f808ac3af95b5810ba060b0587	On Duty (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+a8aadf281bec567588931bb19295f02a	On Duty (World) (Beta) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+3151a03cca7a29dd75ed1faf03b82e52	On Duty (World) (Beta) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d92d327e7533f83439ae766fbe52772c	Othello (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+273fccc21cfa691088730ef22bc04b12	Othello (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+67a14ce0d5fc5fbca4e0a3662644e5ee	Othello (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+5287a29e406dbf1b749da43cd5d1a79e	Ouragan (World) (Demo 1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+f0707d8cadda96ae46a0cba3802b48f5	Ouragan (World) (Demo 1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+9469c96321b7ce67f7fd30866ec5e798	Ouragan (World) (Demo 2) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+2bb50db599dc398097cee1444c067bba	Ouragan (World) (Demo 2) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+a385733165b265fb753d3262b7b355cc	Oxymore (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+0ce8ca766c56e6b7a5b2d7daa6c935a2	Oxymore (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+0a14754b351b4f11a1359e252b8eb992	Pac-Land (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+2a59d2ca6d6f07bc2791bf349e2778ee	Paperboy (World).lyx	nointro 2024-04-24	atari-lynx
+5702abb96f370cf720529eae5b08d264	Paraply (World) (Demo) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+b7558abdc0bcee089b5c0aa1745a4494	Paraply (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+5741466c34a508e21d0727c781fa3fe1	Paraply (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e9c68e17bb5d6e06b07331f10f197379	Peg Solitaire (World) (v1.0) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+486f60737330d28716c448b3b9218d1f	Peg Solitaire (World) (v1.0) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+ea4c1938b5b4788625af73b88cd7ccc9	Peg Solitaire (World) (v1.1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+b2940fb4ffe472fe9097a045d4624c45	Peg Solitaire (World) (v1.1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+52858d7600195911b77237eab410c9e6	Peg Solitaire (World) (v1.2) (256k) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+426c5407ea2412bad839e57624d69786	Peg Solitaire (World) (v1.2) (256k) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+05ec334fbf7d474054d8af5b72cd3820	Peg Solitaire (World) (v1.2) (512k) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+e2b95655e083973486b67218d2fd9676	Peg Solitaire (World) (v1.2) (512k) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+37520049ac6bdaa415b2607656bb97fc	Peg Solitaire (World) (v1.3) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+aefefedafaae57e739a8455e2a2646c1	Peg Solitaire (World) (v1.3) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+29a248fbc87f477b49587581e29c1dc7	Pinball Jam (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+95581fd55a30557e2d2ec0419bb4bbb8	Pit-Fighter (USA, Europe) (Beta) (1992-10-13).lyx	nointro 2024-04-24	atari-lynx
+5565889a9a8817f99ec6dda322a70877	Pit-Fighter (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+f493f7c59eb8ffc7ec2ffd6f532c9100	Poachin' Jeff (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+7d03ef5e791f1d28599373686b9ac2e9	Poachin' Jeff (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+bd6086793699d7e6772b9d801c35ba79	Poachin' Jeff (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+aadb26f2a14efbc1dcddd3bccd9026bf	Poker (Europe) (Fr) (Proto).lyx	nointro 2024-04-24	atari-lynx
+a33b99b8899fa11144d44460cb92ee7f	Pong (World) (Demo 1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+09035df2082e11b6a1c11a7ed3117121	Pong (World) (Demo 1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+4d756a77cf3eab0223dbcbb2c8181bf8	Pong (World) (Demo 2) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+f86d839a648f3ea1d8d08cdf2b3861a8	Pong (World) (Demo 2) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d9897fcc4f0b092c70312b1e856c1d0b	Pong-4-Fun (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+c987b185a9ebfd2da7b1487c771907e3	Pong-4-Fun (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+f41b25ec9f77a80071457e240ac0a15e	Pong-4-Fun (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d14b4efc6e57f3e5bb58455ff96f7419	Ponx (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+cc2933862113e46aa21f68c0536115c2	Pounce! (USA) (Proto).lyx	nointro 2024-04-24	atari-lynx
+b29414b8c81cc9ef28ef2f7a09d6d876	Power Factor (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+1b0203b5a25d335eeb3570134d82ebfc	Push Around the World (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+e09c2b7b7d7a487a35a15489a697130d	Push Around the World (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+00d3ecea7d8ee4c14078d8309b9bb587	Puyo Puyo (World) (Demo 1) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+d9e7345245d08beaf466b2a636803245	Puyo Puyo (World) (Demo 1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+01954e4cd4dee6e8f912a5a964ef4b17	Puyo Puyo (World) (Demo 1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+203c65c737495060ce410ea2df0e863d	Puyo Puyo (World) (Demo 2) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+f7d1945fffc7e0a581a091e6c81c320e	Puyo Puyo (World) (Demo 2) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+79aa9f10e4ca6a711b82d20d3eed8a27	Puyo Puyo (World) (Demo 2) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+8de649611b61934b67b2ee8dde47e603	Puzzler 2000 (World) (Proto) (Unl).lnx	nointro 2024-04-24	atari-lynx
+80b035183cae4f97d938e3a1fd126daf	Puzzler 2000 (World) (Proto) (Unl).lyx	nointro 2024-04-24	atari-lynx
+12e1eb0900402ef6de8b72dda5d22f47	QIX (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+421f39d374ff0151903cb6a27a27d40c	RabbiLynx EggCatcher (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+bb1d65110ab1d2cd853b7022c074d07f	RabbiLynx EggCatcher (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+9d7a27b117975d0c5b94482a8a6a60c1	Raid on TriCity - First Impact (World) (v1.01) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+7fc53d1d302663302ab15dac2d740dbf	Raid on TriCity - First Impact (World) (v1.01) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+cafed6264068d07abf28fa07fba516f3	Raid on TriCity - Second Wave (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+1c309d556eeb2f97cac3da04febaab95	Raid on TriCity - Second Wave (World) (Digital) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+d89081e11dcbda2e5488144fff984217	Raid on TriCity - Second Wave (World) (Digital) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+1075fa3e5c411f8fd6b52dff3c06d683	Raid on TriCity (World) (Beta) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+763c4da51983eea5b518c9525e913c8b	Raid on TriCity (World) (Beta) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+c51f494e41bbc5f9c2900e9467c5d4cd	Raiden (USA) (Beta).lnx	nointro 2024-04-24	atari-lynx
+abfd6ae93c31e8f59aa934ad922cb4dd	Raiden (USA) (Beta).lyx	nointro 2024-04-24	atari-lynx
+558f4aeb1e3d71c5cdf4513bda2adef1	Raiden (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+00a522c806102fb56044097368247a81	Raiden (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+7e9374cc90cd22c6e5528452e8a6e387	Rainbow (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+0a53ecfccc45aba7e31bdce3df5e9c3c	Rainbow (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+12a72284e459e3f6283d4b90fb821194	Rainbow (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+1cc118ad87487d9e7fbfa98c8ad09209	RAM cart (USA) (Proto) (Program).lyx	nointro 2024-04-24	atari-lynx
+e0cb426257761c3688a866332ed48340	Rampage (World).lyx	nointro 2024-04-24	atari-lynx
+d8045ed542d5e58c779c884e0930e16c	Rampart (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+e1d8b907ca47a48d662c35cade350592	Rapid Racer (World) (Demo) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+1ba0096d2769d820f8adb0ea20d0f7ea	Rapid Racer (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+dee396f4d7cf169b1d1f6f70957dcacf	Rapid Racer (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+a019c93b91e05aba741a816647d8adc3	RED Against the Machines (World) (v1.01) (Demo) (LynXmas 2020) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+0b234723982bf3ae9b95c165304b48fe	RED Against the Machines (World) (v1.01) (Demo) (LynXmas 2020) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+9c1700ad54052f2959f5be2d96fc27c1	RED Against the Machines (World) (v1.01) (Demo) (LynXmas 2020) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+0f510ce7fa586bb0cf6017fd65964843	RED Against the Machines (World) (v1.11) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+c091b2b9e727ebbde169f085c913921d	RED Against the Machines (World) (v1.11) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+53d3253805facf3f09be6c4c6c406099	Red Square (World) (v1.0) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+353a265411868e9e268d74586efa31a3	Red Square (World) (v1.0) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+b341d8bf8f1bfbe38892f044e559a0a0	Red Square (World) (v1.0) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+bfbbbacb017be04d4b460903785c1bc6	Red Square (World) (v1.1) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+df39d688f870d921001b34a688710e1f	Red Square (World) (v1.1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+ad3f3b815cbcc23b2bbcbeb5b2407df0	Red Square (World) (v1.1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+efede4b2ebb1c98a1cebdbeb4f11ddd3	Remnant - Planar Wars 3D (World) (2000-05-24) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+4d90d9a8aff2e57b5f03524c279c3113	Remnant - Planar Wars 3D (World) (2000-05-24) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+0c55efc93fd773d75338d3bd9b293256	Remnant - Planar Wars 3D (World) (2000-05-24) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+65937e077aea6bc06fbe59c631006aab	Return of the Space Coyote (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+7dde97803517c3d713c5b9d246f55bcc	Return of the Space Coyote (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+dee2c87d0583a04da1e6fa196ffa7d6c	Reussite (World) (Demo) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+208217d167bb1a0c8e574f2463be6213	Reussite (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+d5034e7b181467620c1039a4413ed3e5	Reussite (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e552d21050114ec3f441474e8fded89c	Road Riot 4WD (USA) (Proto 1).lyx	nointro 2024-04-24	atari-lynx
+702e4d515d9f33698407b118c4cd373f	Road Riot 4WD (USA) (Proto 2).lyx	nointro 2024-04-24	atari-lynx
+8e0680d9d484749297bd7f4cfd5b7354	Road Riot 4WD (USA) (Proto 3).lyx	nointro 2024-04-24	atari-lynx
+9222e42a160924dee0c87a67fdbc48d0	Road Riot 4WD (USA) (Proto 4).lyx	nointro 2024-04-24	atari-lynx
+39617ebb81f3c1df27354c18571bd6c3	RoadBlasters (World).lyx	nointro 2024-04-24	atari-lynx
+f9faa45e3c35e505249c3f9df801737b	Robo-Squash (World).lyx	nointro 2024-04-24	atari-lynx
+60c1dfbf112bbb2a49cf16eddb191842	Robotron 2084 (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+f72a01bf1f9662253ee1abfc27cd05d2	Rolling Thunder (USA) (Proto).lyx	nointro 2024-04-24	atari-lynx
+2e20ddefd2e48c13a594235e487261c8	Running Knight (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+e7b921ee79f4c8837d9afc09162c3037	Running Knight (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+20d722740942b6f43f25b47d7a7b9988	Running Knight (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+ff6fff314446ab70dfecb21e2de4a2f6	Rygar (World).lyx	nointro 2024-04-24	atari-lynx
+490f8063bbb299070c4aceab64195088	S.T.U.N. Runner (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+7d3e95bd889393c3dcf92fa20b379d92	Santa Factory (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+9cb773881adf04c7eed8ebd12b45005f	Santa Factory (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+042af6ceeb7082a49cd331cabb9091b9	Santa Factory (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+979fafb016c0b2b51c98f9a330087919	Santa's Empty Sack (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+5883c9c58c903bdf2cd1afb48f838094	Santa's Empty Sack (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+efabfe3b972c1d710fcab1cf585e1586	Saving Santa Tree (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+c42a68351f7e2d0d2b1fb715c593dbc2	Saving Santa Tree (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e74e40fc88e8a1da8ec15b86c8b357a5	Scooternia (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+459aaf1e66384ea3534e3ce2149a1718	Scooternia (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+0cf228912d2f8eeb29aa215abf416f6d	Scrapyard Dog (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+ea66dd909bdfb24276dd7c1c2ab85e73	Scroll of theTime Lords - Lovejoy Prologue (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+54121346ac6761643cf13521f9516a32	Scroll of theTime Lords - Lovejoy Prologue (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+f92d57198ef2da30dba63bdd7c15ff83	Shadow of the Beast (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+a237140291a8210dfbde31022328b92e	Shaken, Not Stirred (World) (v1.0) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+e0421a85c5dd6697c9c58fa84b7aea1d	Shaken, Not Stirred (World) (v1.0) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+5550ed01f0629be4a3972ab2c00e8cee	Shaken, Not Stirred (World) (v1.1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+c6174228aff4c1bbe8cc7f1d86278710	Shaken, Not Stirred (World) (v1.1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+5dfc28b4c0880968391f31d0831b2bf3	Shaken, Not Stirred (World) (v1.2) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+21fbd3e61d4fb2039adb6f730c11e761	Shaken, Not Stirred (World) (v1.2) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e3f2fb5ee59dc56b94342292ed5d9899	Shaken, Not Stirred (World) (v1.3) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+798acdc72a38c6585269efe1f304213b	Shaken, Not Stirred (World) (v1.3) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+46634eb87e6380d4d10f7b80d177c1ff	Shanghai (World).lyx	nointro 2024-04-24	atari-lynx
+67dccae41abefa38025f1b27b7695b45	Shuriken (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+71c93f0753814193062fcf47ee5046b1	Shuriken (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e64867369b79fee0edcf09fd9ac9ce56	Silas Adventure (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+4a8397ada0e7237fe3d7ceb902a40f9c	Silas Adventure (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+16e0137c2db4aaf946913cf06b8ca7cc	Silly Archery (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+747b033f49c251a23571635804d467e6	Silly Archery (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+ceeb9acb89bc0465130420319241a872	Silly Archery (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+2dd78435e1849a969ca3845cce487946	Silly Blaster (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+9c6e70bae383ac48f68dbfa57b485fba	Silly Blaster (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+7f8e78874dfb18f82911a88936a7f9d0	SillySis (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+3c55154a490f9f4c0681398b5e7cfc71	SillySis (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+bab33ea66cefcc291018d3bc5f15caff	Sky Raider (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+a69124152223cbd594be6df84b082583	Sky Raider (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+655135126455ee5b4dd801fd838228c0	Sky Raider Redux (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+4d091a303e7c3cbc2f7810200a238cdb	Sky Raider Redux (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+fc8557f2e7391cca8b9d9761ce716a45	Snake (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+2ca82d2879dead9604e6f2b180a0d7bf	Snake (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+87843015b4f9f20e4dde3861df0eb41b	Snake (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+64fecfe4565f157bff215bed329dd830	Snow Ball (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+50b8aafbbc805a2585f9ebba4d55efd1	Snow Ball (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+3ebb2e40d00c311f85ad6ce5a3b21516	Snow Ball (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+cd7005013651af8ad5d513f06e5746ae	Solitaire (World) (2009-08-27) (karri) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+9cb9bc99723f41c252d2f5fc05ea404f	Solitaire (World) (2009-08-27) (karri) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+398d7da295738e0caef981a280169309	Solitaire (World) (2009-08-28) (karri) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+98040c294c0628315edcad963225c89e	Solitaire (World) (2009-08-28) (karri) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+8c093b804eea2c06613cd53a0b8674d6	Solitaire (World) (2009-08-31) (karri) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+75f05b820094614e5e923bc5351f2534	Solitaire (World) (2009-08-31) (karri) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+cf31b3bdfe60ed8fcc45876d73eb82d5	Solitaire (World) (2009-09-28) (karri) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+9fc7008e33ad55ae614f7d1064ba9fd3	Solitaire (World) (2009-09-28) (karri) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e864cde39b217c5972771a9998dd267a	Solitaire (World) (Demo) (Inga) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+edd490d611ff62f6bb24af440c7dae59	Solitaire (World) (Demo) (Inga) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+42f50ef6e96b16d80f2daad356121697	Solitaire (World) (Demo) (Inga) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d73d7c0d702f387167af0947ac795ec0	Sorrow (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+53a06adec3ba68a2bfb641ff629f5241	Sorrow (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+f0a9f50b2e7ff7fc9245b291506ce1ff	Sorrow (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+07e02e53f82c55f4fb209c4a64edce6d	Space Domino (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+a8609c5907fa36c29fbc15996e5ce0cb	Space Domino (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+117acc82262d03abeae4d30b2c9505a5	Space Domino (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+78b2d012a49845e81956dd1d2871d46f	Space Lock & Space Shoot (World) (2005-04-25) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+44e200792672d9646872ec21b88fc5f4	Space Lock & Space Shoot (World) (2005-04-25) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+516358cc41d4da1c1b4a17b7b46aae55	Space Lock & Space Shoot (World) (2005-05-16) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+67406d2d160da0bf954c5a05ac76e416	Space Lock & Space Shoot (World) (2005-05-16) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+8388b5140341edcba11cd0d4991d1578	Spacewar (USA) (Demo).lyx	nointro 2024-04-24	atari-lynx
+63a87e95a201592b919ca9fdba51615d	Springtime Is Here (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+fbb76038838235ec3d32f59a2c70c481	Springtime Is Here (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+dc41a1f0d12879974d2ab77053b06550	Star Blader (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+3d129beace34558531efd27f7214af30	Star Blader (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+58800f2517b43d37a77081f2d20e1344	Star Raiders (World) (Demo 1) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+ce9020fce8b604e686da55e3ffa4cf1a	Star Raiders (World) (Demo 1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+100aa646f0d794418d5a4f5012394af8	Star Raiders (World) (Demo 1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e3bec70a16da11ffb88e66715a1534e3	Star Raiders (World) (Demo 2) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+e3f2a708e2df06ab0b75e664ce4d2263	Star Raiders (World) (Demo 2) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+edc5935fd41e961580a0befa1a3130c6	Star Raiders (World) (Demo 2) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+916ba24217d00a1e3d3b0e12495e9c7f	Stardreamer (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+bd492b9d56bcc066573658196dae1c87	Stardreamer (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+8828c0042a1a397de67c4e49042161ff	Steel Talons (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+fce7ea6a9b0b0bd6cd0693b626276de2	Stinger (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+e1ba906d36a3a06a3f7452fcdfd6a489	Stinger (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+14bda07cbb3395c544dca8d12233b34f	Sudoku (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+927fb8a354ba74d6763fd22848c2642e	Sudoku (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+0654e380f61a267aefac3301310ac180	Sudoku (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+67dd69e6ffaf61bc85243d272d9ee9d9	Super Asteroids, Missile Command (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+6cd23cb37c4c4c34ef4e197468462f3f	Super Off-Road (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+a19802bd3a7e390daf7e2cbe5a81ed38	Super Skweek (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+51b024ac3dc0c8cd6c0d686f38954704	Swaping Tiles (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+0b5fe8782c9e15cf069281c3a8c0ab78	Swaping Tiles (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+76eaf3042043ecf60923751805ec6090	Swaping Tiles (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+4971dd8b47d3475dc8d31b5325c14459	Switchblade II (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+f42622e2b8278e7d269e111ae240b76b	Sybil's Nightmare Run (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+2d30be33727aec14a32090b2f54c08c5	Sybil's Nightmare Run (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+1b6a8a0b7f80332e9c7dfecaded8683e	T-Tris (World) (Pirate) (Alt).bll	nointro 2024-04-24	atari-lynx
+de8cd0f21c20bdbb092be20fcdc85e81	T-Tris (World) (Pirate) (Alt).lnx	nointro 2024-04-24	atari-lynx
+c2187b6535d603fca803314f270a5dbf	T-Tris (World) (Pirate) (Alt).lyx	nointro 2024-04-24	atari-lynx
+dbc654e957184ff2ad67c23fbe181540	T-Tris (World) (Pirate).bll	nointro 2024-04-24	atari-lynx
+dc92f0c42811c8691fa921a4dd2897c2	T-Tris (World) (Pirate).lnx	nointro 2024-04-24	atari-lynx
+af4d97da5d1e60e77573bcfc5bdfd1cc	T-Tris (World) (Pirate).lyx	nointro 2024-04-24	atari-lynx
+3285a3d7c541d750a3b4e99940ad6ddf	Teen Dance (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+846e9e443ac903232e4f8e8556483773	Teen Dance (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+c32e2ede0f9341b93aa5477a01a9d1fd	Teen Dance (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+6a4a1f5c66a8615abcd77c159fdc3727	Tetris Raiden (World) (Beta) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+3b2fb615fca5499f1db304dfff883c8f	Tetris Raiden (World) (Beta) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+e83c6f9e09a46245f670a51b45b9dfc1	Tetris Raiden (World) (Beta) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+663d6af8569172072f56ad8228496c68	Tetrisnoid (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+a3db2fdc4c6e1013ea879b831cdc87c5	Tetrisnoid (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+d8bf840ae96a78379000644d79de1f4a	Tetrisnoid (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+dc0919e6666a61b11a0f904b543a7518	Timeloop (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+cfc2f7811a6682a4272791c2524e450b	Timeloop (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+35b1bc9ef7a268d8a8b358b02d68272a	Tiny Lynx Adventure (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+78c9fb580749bdbf7f22643138fbe56a	Tiny Lynx Adventure (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e04edee774c4d30633508b5ebb84bd42	Titan (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+a874101eecf5968f7b93dcf89bbcd2ea	Titan (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+4581ac0418679567dce041c88cc97719	Todd's Adventures in Slime World (World).lyx	nointro 2024-04-24	atari-lynx
+ec46311f47276e20cc43228c96d119a1	Toki (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+391dfaba9ab8b9b60e9d8ca2a73f5711	Tournament Cyberball (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+3d5a6bf78cbe9fb4168393565472910e	Traffic Jam (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+3f587ff406d91a4f9a9356edd6ffcbb7	Traffic Jam (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+50606b4412d934732fa8d218b121e0cd	Tron-6-Fun (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+59a06704c2101b352ce2614a63e21e92	Tron-6-Fun (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+8109b23764314d0657974ec0441601f7	Tron-6-Fun (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+dbc213412004491cf77fdeeb657d43d2	Tropsy (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+3acf1efb2919256a01fbc523ea4677e2	Tropsy (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+8caaaf56f95ee0bb610ca14af2d12a61	Turbo Sub (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+d1350ff9cf99f8b8b61593dc292108dd	Turkey Puncher 3 - Hyper Punching (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+41ee6680b1defe1f2578bae460aebc19	Turkey Puncher 3 - Hyper Punching (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+1fd8202674efcc57c7850f9424d5961c	Twitter Panic (World) (Proto) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+0469afcea4bcb3ea05874496cf873704	Twitter Panic (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+5231c6279d97ec3501153419e2454a5f	Twitter Panic (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+84bcb888d7e6e0761aef24902c61053e	Undergrounders (World) (Demo) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+1271b62b84fee1c2f446a5e44dfea808	Undergrounders (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+242d902cbdae241ca45e8737a0ed6ea2	Undergrounders (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+20502c54a7e3de1ccef0349ca790b0e0	Unnamed (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+3303bf3734bb8e32a7fb7d144be07765	Unnamed (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+77481ed45d5da8f2292c7f348043dda5	Verbix (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+6c1d064e6e9b235912b4c5b5586d25d4	Verbix (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+44d7c4ea6b8d930075f5b05c94b5f973	Viking Child (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+7799025c11208d896269fa83c61d79c4	Vikings Saga - Protect the Love (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+c2a1fd87ce91f8edb5bd19c93ac8fbb4	Vikings Saga - Protect the Love (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+ae228b473725b4982d15fb9a37aee03d	Vikings Saga - Save the Love (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+c5cab263eb6860582e4716f958317abd	Vikings Saga - Save the Love (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+7acf2074659b1b5717411e81e6c1a281	Vindicators (USA) (Proto).lyx	nointro 2024-04-24	atari-lynx
+e7f118ac59f985ceea2ecfc0f17e9cc6	Warbirds (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+1d1f320bd8aec50eedd165328de88850	Weltenschlacht (World) (v0.41) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+efe9908b81629990deebeb37e6c64ff3	Weltenschlacht (World) (v0.41) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+760a63ff1ecd6c9a0d0e5b0fd82b140f	Wizzy (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+2aa615cf8e3658de0c2335fb37bcf1c2	Wizzy (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e27526793d0af4df230343dac116a4cb	Wolfenstein 3D (World) (Demo 1) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+020164340ca90fc5404c084ff6ee4107	Wolfenstein 3D (World) (Demo 1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+e57fac0a7e491c129c03d77969f3cc97	Wolfenstein 3D (World) (Demo 1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+4d8b8ba2ce1ae8850e0b04bd8cf579b2	Wolfenstein 3D (World) (Demo 2) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+b453ff03d332c7982dcafc5ea96c686e	Wolfenstein 3D (World) (Demo 2) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+f94fd30d1f1da38f300a19de3c624152	Wolfman (USA) (Demo) (Kiosk).lyx	nointro 2024-04-24	atari-lynx
+7fcf204013cbedf7eaaf682ff5f216ba	World Class Soccer (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+04c2cfaa5d8f10c251fe98a2ad557d2a	Wyvern Tales (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+d7588e5cd114ea18898d7be34426d7cb	Wyvern Tales (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+69fb597cb4db019c48fd2e0c1cc7b75c	Xenophobe (World).lyx	nointro 2024-04-24	atari-lynx
+85cb70dbfa117c8fd20185e91f26315d	Xump - The Final Run (World) (v1.00) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+f413e06f6c1732fed2c53d48897cf525	Xump - The Final Run (World) (v1.00) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+e8cddf7b04a935fd48ab030d2ede8be0	Xump - The Final Run (World) (v1.20) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+47df4d7a6077ca613c29f384ff0c374b	Xump - The Final Run (World) (v1.20) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+f820a030331cd49250edc1a0a82f0992	Xump 2 - Back to Space (World) (Proto) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+bdba73ecd6730523b6c31be24f8ac474	Xump 2 - Back to Space (World) (Proto) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+c145bfe904e5d56f479df44204b255da	Xybots (USA, Europe).lyx	nointro 2024-04-24	atari-lynx
+52a37b2eca8508d958129b77379623d0	Yastuna Volume 1 - The Alchemy of Cubes (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+c8191bc3f40938bc18cb172f1200a28f	Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.00) (Digital) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+22b13522eb382070763f282bded16f39	Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.00) (Digital) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d3da7b9850359be97a41d7f22a8b6b50	Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.01) (Digital) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+c40f43ffba5c37d6731cf4fa4c78702a	Yastuna Volume 1 - The Alchemy of Cubes (World) (v1.01) (Digital) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+b5e622bbdfd29735d61056e1f206cbfd	Yastuna Volume 2 - The Space Incident (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+f80a67cc8e383a01e3f61798bd3a3f6e	Yastuna Volume 2 - The Space Incident (World) (v1.00) (Digital) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+bffb5d9521cfa4e8a151db5cee9943dd	Yastuna Volume 2 - The Space Incident (World) (v1.00) (Digital) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+73342f98c5f995a6485b4b75e661225b	Yastuna Volume 2 - The Space Incident (World) (v1.01) (Digital) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+df4881703738614ee465559ad18e6e8e	Yastuna Volume 2 - The Space Incident (World) (v1.01) (Digital) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+9d5b11040da0276971174e7ba9b4a7c9	YNXA - Leaf and the Guardians of Time (World) (Proto 1) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+f6794d5c415cad716ae227261670a13e	YNXA - Leaf and the Guardians of Time (World) (Proto 1) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+e27cf1d8965c3561949135161464ff1d	YNXA - Leaf and the Guardians of Time (World) (Proto 1) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+1fbbce131f4bad50d9a5eb6d3fce15b5	YNXA - Leaf and the Guardians of Time (World) (Proto 2) (LynxJam23) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+2a51479492c3f08a447fe9cac12cf107	YNXA - Leaf and the Guardians of Time (World) (Proto 2) (LynxJam23) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+81a80c8b2ddbd8948afb58d950e5bbf7	YNXA - Leaf and the Guardians of Time (World) (Proto 2) (LynxJam23) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+091f0b2678f8d70061543aa9485ade6b	YNXA (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+2de80f7d6212d5df86423b6381ecfe6f	YNXA (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+ecfd11e3e72e7e89db003dce98ecd9d9	YNXA (World) (Game Jam Edition) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+89c0c6f94e6a49f8583215d9bb69c8db	YNXA (World) (Game Jam Edition) (Digital) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+562cacee10ee81c4aa0c3e1746f6e984	YNXA (World) (Game Jam Edition) (Digital) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+10f834664f6048a4dbc2d140d165468e	Z.A.P. (World) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+fb84478cb62f47c0773996515ada47c9	Z.A.P. (World) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+bdad2790dde166a679fa7e67171f42c7	Z.A.P. (World) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+6c22f4e6acd7aeef5fd134fcbca05715	Zaku (World) (Beta) (Unl).lnx	nointro 2024-04-24	atari-lynx
+52997de9af205728a0e17ea3475f7ae2	Zaku (World) (Beta) (Unl).lyx	nointro 2024-04-24	atari-lynx
+b37cf00379b80452d8bca13abe7269d6	Zaku (World) (Unl).lnx	nointro 2024-04-24	atari-lynx
+6b9d6872961b22de6b1b0cced65d8e3f	Zaku (World) (Unl).lyx	nointro 2024-04-24	atari-lynx
+474465b15630c6124a39f9b9811e67ce	Zaku Puzzle (World) (Demo) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+8349e11342f8348ff96fc8e6a589c3fb	Zaku Puzzle (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+8a6dfb3c53cd0f5e8649a5f047f85a0b	Zaku Puzzle (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+957145ed0902d272d87844185f3d77a3	Zap (World) (Demo) (Aftermarket) (Unl).bll	nointro 2024-04-24	atari-lynx
+a427451829295e3e4e0d89059182a236	Zap (World) (Demo) (Aftermarket) (Unl).lnx	nointro 2024-04-24	atari-lynx
+e0dc26fba938bd84f569e1b25e94568c	Zap (World) (Demo) (Aftermarket) (Unl).lyx	nointro 2024-04-24	atari-lynx
+d008f41ec119e2c5c6a0782aebf148a8	Zarlor Mercenary (World).lyx	nointro 2024-04-24	atari-lynx

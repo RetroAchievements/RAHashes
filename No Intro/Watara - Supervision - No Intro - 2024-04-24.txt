@@ -2,6 +2,7 @@
 4ed067ce17d373e3a531a422254b61e6	2 in 1 - Hash Blocks + Eagle Plan (USA, Europe).sv	nointro 2024-04-14	watara-supervision
 e24ba13bf9b54da75c543835ca0c5810	4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky (USA, Europe).sv	nointro 2024-04-14	watara-supervision
 cf443f0a812ac7c34e33469f9e8132a8	Alien (USA, Europe).sv	nointro 2024-04-14	watara-supervision
+3e00241b03c7b3acb102c9d852f780da	Assembloids (World) (Aftermarket) (Unl).sv	2024-04-14	watara-supervision
 3d33521248e9b3968aa1a1bebc9cef24	Balloon Fight (USA, Europe).sv	nointro 2024-04-14	watara-supervision
 95ffd2ff15dbb96e00a01641627b6e8a	Block Buster (USA, Europe).sv	nointro 2024-04-14	watara-supervision
 b7c5c8e371aef8b6772cc1b905612f2e	Brain Power (USA, Europe).sv	nointro 2024-04-14	watara-supervision

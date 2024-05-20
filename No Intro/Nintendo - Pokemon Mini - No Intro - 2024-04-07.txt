@@ -38,6 +38,7 @@ f100caf74574aeabe5084f3b5c9e03d2	Pokemon Tetris (Europe) (En,Fr,De).min	nointro 
 a2a2add2f368e532eeecef5566b5fd8e	Pokemon Zany Cards (France).min	nointro 2024-04-07	nintendo-pkm
 f974f9ca3a9fbaadcaf4fa1a88b5a763	Pokemon Zany Cards (Germany).min	nointro 2024-04-07	nintendo-pkm
 28ddb09ed326df90b706aa61a851c732	Pokemon Zany Cards (USA, Europe).min	nointro 2024-04-07	nintendo-pkm
+0ce0bead3ee9911765d3d0eb097ee7e7	Silver Falls - Monsters In North Island (World) (Aftermarket) (Unl).min	nointro 2024-04-07	nintendo-pkm
 0823b8d49dc88033659f0d4eae114907	Snorlax's Lunch Time (Europe) (GameCube).min	nointro 2024-04-07	nintendo-pkm
 96f6a0cedc7471a0357271dc799ed342	Snorlax's Lunch Time (Japan) (GameCube).min	nointro 2024-04-07	nintendo-pkm
 4b9f57ac5afc15792de84721066cea8f	Togepi no Daibouken (Japan) (Preview).min	nointro 2024-04-07	nintendo-pkm

@@ -238,5 +238,10 @@ fe87f3053a6579e3bcb3fef3332aabfa	Legend of Spyro, The - The Eternal Night (Europ
 34469cbe444c6561a5a24c1159f0697e	Yggdra Union - We'll Never Fight Alone (Europe).gba [Deprecated]	nointro 2024-04-02	nintendo-gba
 1eac366817944faecf3bcd290d3f87cc	Yggdra Union - We'll Never Fight Alone (USA).gba [Deprecated]	nointro 2024-04-02	nintendo-gba
 8de0883bf7b60f0983f65313d3d15d9a	Yggdra Union (Japan).gba [Deprecated]	nointro 2024-04-02	nintendo-gba
-
+43d1341ba30dc3a19ecf8a3cd75245cb	16Bit Rhythm Land (Japan) (En) (Aftermarket) (Unl).md	nointro 2024-03-29	sega-md
+22db8020749dd63b14c382b198ee1422	ESPN National Hockey Night (USA).md	nointro 2024-03-29	sega-md
+13e0f071b2df1d44ee1d3a1cd90854ff	Kromasphere (World) (Aftermarket) (Unl).md	nointro 2024-03-29	sega-md
+998dcdf117ea63ba64ff37335a0719a4	Slaughter Sport (USA).md	nointro 2024-03-29	sega-md
+382b6ac84821521759c6f6adb7829307	Switchblade (World) (Aftermarket) (Unl).md	nointro 2024-03-29	sega-md
+998dcdf117ea63ba64ff37335a0719a4	Slaughter Sport (USA).md	nointro 2024-03-29	sega-md
 
