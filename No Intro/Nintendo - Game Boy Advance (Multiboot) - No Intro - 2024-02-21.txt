@@ -1,0 +1,96 @@
+de5fca896b4330100abeb04bc55c6eb9	Animal Crossing - Balloon Fight (Japan) (En).gba	nointro 2024-02-21	nintendo-gba-multiboot
+62c26ddf7579b5179b2a67073bc7e4a4	Animal Crossing - Balloon Fight (USA, Europe).gba	nointro 2024-02-21	nintendo-gba-multiboot
+b0c8f4dfe47c3649760748ad5c96a649	Animal Crossing - Baseball (USA, Europe).gba	nointro 2024-02-21	nintendo-gba-multiboot
+071f67b9021fff63ecac133c8c5b850b	Animal Crossing - Baseball (Japan) (En).gba	nointro 2024-02-21	nintendo-gba-multiboot
+4844ef31d108f6bc780e6799035848f0	Animal Crossing - Clu Clu Land (Japan) (En).gba	nointro 2024-02-21	nintendo-gba-multiboot
+594b8e60e9406a570c9990e9bbc4340f	Animal Crossing - Clu Clu Land (USA, Europe).gba	nointro 2024-02-21	nintendo-gba-multiboot
+cc9266b9cc4c743582ff42fae7ca70a7	Animal Crossing - Donkey Kong (Japan) (En).gba	nointro 2024-02-21	nintendo-gba-multiboot
+aa6bdfc4fce58b19d1a8a9f2f11042d9	Animal Crossing - Donkey Kong (USA, Europe).gba	nointro 2024-02-21	nintendo-gba-multiboot
+b72ba1a4ec58532cbf8ad4253d38b629	Animal Crossing - Donkey Kong 3 (Japan) (En).gba	nointro 2024-02-21	nintendo-gba-multiboot
+a7b95f64a01e7cc18968b1c501741414	Animal Crossing - Donkey Kong 3 (USA, Europe).gba	nointro 2024-02-21	nintendo-gba-multiboot
+0408d697135af9dc1fc3fa4ba6a3214f	Animal Crossing - Donkey Kong Jr. (Japan) (En).gba	nointro 2024-02-21	nintendo-gba-multiboot
+ee8a23328607687b50a6706c7fdfc2e1	Animal Crossing - Donkey Kong Jr. (USA, Europe).gba	nointro 2024-02-21	nintendo-gba-multiboot
+ecc537359897b5baa4666bef557e6cba	Animal Crossing - Donkey Kong Jr. Math (Japan) (En).gba	nointro 2024-02-21	nintendo-gba-multiboot
+1c8dcf20e4ce979cb9962c835c39a5c9	Animal Crossing - Donkey Kong Jr. Math (USA, Europe).gba	nointro 2024-02-21	nintendo-gba-multiboot
+d3d227a1ca88b0629ef333d544686c41	Animal Crossing - Excitebike (USA, Europe).gba	nointro 2024-02-21	nintendo-gba-multiboot
+32906861e6ec9bd38012adf7ce38cc05	Animal Crossing - Excitebike (Japan) (En).gba	nointro 2024-02-21	nintendo-gba-multiboot
+ee576f6e1aa0a75536db8577d408f3af	Animal Crossing - Golf (Japan) (En).gba	nointro 2024-02-21	nintendo-gba-multiboot
+f92aeb4bc274cb08c2eabe9dd3aadcb4	Animal Crossing - Golf (USA, Europe).gba	nointro 2024-02-21	nintendo-gba-multiboot
+f7adee0901bb73b6f1c1fbeb36b4ab4c	Animal Crossing - Ice Climber (USA, Europe).gba	nointro 2024-02-21	nintendo-gba-multiboot
+c1035a29bd487a979966bc754a2625fa	Animal Crossing - Ice Climber (Japan) (En).gba	nointro 2024-02-21	nintendo-gba-multiboot
+684e46cb0c672e06664ae742825ae89c	Animal Crossing - Mario Bros. (USA, Europe).gba	nointro 2024-02-21	nintendo-gba-multiboot
+64cafdb27a9f44f474dfb054e041e8f8	Animal Crossing - Mario Bros. (Japan) (En).gba	nointro 2024-02-21	nintendo-gba-multiboot
+f91139c0025d4a5f1bf17e3cc4e61126	Animal Crossing - Pinball (Japan) (En).gba	nointro 2024-02-21	nintendo-gba-multiboot
+c1c6eb0d42591c46f2e4dc68145e4c81	Animal Crossing - Pinball (USA, Europe).gba	nointro 2024-02-21	nintendo-gba-multiboot
+a81a5d9b9268da64ea8426bdc6a987ba	Animal Crossing - Soccer (USA, Europe).gba	nointro 2024-02-21	nintendo-gba-multiboot
+749a6230bcf845cd953ee90084c57040	Animal Crossing - Soccer (Japan) (En).gba	nointro 2024-02-21	nintendo-gba-multiboot
+94b3fc5139d882f457be46d09b6edcc4	Animal Crossing - Super Mario Bros. (Japan) (En).gba	nointro 2024-02-21	nintendo-gba-multiboot
+34217e69f45e52d1550a8b241ce27404	Animal Crossing - Super Mario Bros. (USA, Europe).gba	nointro 2024-02-21	nintendo-gba-multiboot
+3f70d591ad5746f5ef7ecfc970a52eba	Animal Crossing - Tennis (Japan) (En).gba	nointro 2024-02-21	nintendo-gba-multiboot
+146bdf7f70335a2ad67b59ef9e07bfaf	Animal Crossing - Tennis (USA, Europe).gba	nointro 2024-02-21	nintendo-gba-multiboot
+ce85da4cb13f8015246bbc54807fa04d	Billy Hatcher Hyper Shoot (World).gba	nointro 2024-02-21	nintendo-gba-multiboot
+3f2f578efe4a643220023db913dbd084	Billy Hatcher Hyper Shoot - Easy (World).gba	nointro 2024-02-21	nintendo-gba-multiboot
+994e827673b6daab9838153e4436f8e8	Chao no Puchigaden (World) (En,Ja,Fr,De,Es).gba	nointro 2024-02-21	nintendo-gba-multiboot
+2fc01f93093666ebc8f88a26c5b2786e	Chao no Puchigaden (World) (En,Ja,Fr,De,Es) (Phantasy Star Online Episode I &amp; II).gba	nointro 2024-02-21	nintendo-gba-multiboot
+2fd1658783cd1c6bf5e1b19a1462a42a	Chao no Puchigaden (World) (En,Ja,Fr,De,Es) (Sonic Adventure DX - Director's Cut).gba	nointro 2024-02-21	nintendo-gba-multiboot
+ab046b65776ae4696d1376f02353f4b4	ChuChu Rocket! Challenge (World).gba	nointro 2024-02-21	nintendo-gba-multiboot
+aecb1a14e203cfdf456c02b434503804	ChuChu Rocket! Challenge (World) (Ja) [b].gba	nointro 2024-02-21	nintendo-gba-multiboot
+76be9081aae561c5fd4caff73fd1b00c	ChuChu Rocket! Puzzle (World) (Ja).gba	nointro 2024-02-21	nintendo-gba-multiboot
+c36a37f4dab0cde8e666dcafe54892e3	Dr. Mario (USA) (Kiosk, GameCube).gba	nointro 2024-02-21	nintendo-gba-multiboot
+78668018524c984054db4d4f29a88dcd	Joy Boot Sample (Japan) (En) (Animal Crossing).gba	nointro 2024-02-21	nintendo-gba-multiboot
+7a856c8add82abb0e70e33d5d67411de	Made in Wario (Japan) (Trial).gba	nointro 2024-02-21	nintendo-gba-multiboot
+938a93e9d1fc94c118bd06e4bf20cd0c	Made in Wario - Mini Vol. 1 (World) (Ja).gba	nointro 2024-02-21	nintendo-gba-multiboot
+863e8c56f6adea21bb153b1e85dc6797	Made in Wario - Mini Vol. 2 (World) (Ja).gba	nointro 2024-02-21	nintendo-gba-multiboot
+86832f947c3cf7349c1ca1ac97f0c49f	Made in Wario - Mini Vol. 3 (World) (Ja).gba	nointro 2024-02-21	nintendo-gba-multiboot
+b901daaa96b776b5ab47a82fd8d8979e	Made in Wario - Mini Vol. 4 (World) (Ja).gba	nointro 2024-02-21	nintendo-gba-multiboot
+8a2706ca1cc789fe36807d39d3763d55	Made in Wario - Special Selection 1 (World) (Ja).gba	nointro 2024-02-21	nintendo-gba-multiboot
+78d3e00a91aa258cc5f5a8ce61d4a83c	Made in Wario - Special Selection 2 (World) (Ja).gba	nointro 2024-02-21	nintendo-gba-multiboot
+f81f3420d3c7e70aff739d3425c124c3	Made in Wario - Special Selection 3 (World) (Ja).gba	nointro 2024-02-21	nintendo-gba-multiboot
+1377bd07dbcc777770f7a624eda67364	Made in Wario - Special Selection 4 (World) (Ja).gba	nointro 2024-02-21	nintendo-gba-multiboot
+13f57e428c160262e73401f12c24b204	Minna de Puyo Puyo - Toko Puyo Genteiban (World) (Ja).gba	nointro 2024-02-21	nintendo-gba-multiboot
+e4d4a68c43e58e1b583f89a416e16f48	NiGHTS into Dreams - Score Attack (World).gba	nointro 2024-02-21	nintendo-gba-multiboot
+30beee2eccdc1278726c374d2984f596	Nintendo Puzzle Collection - Dr. Mario (Japan) (En).gba	nointro 2024-02-21	nintendo-gba-multiboot
+e4772f1ea518f621d67917d93eac694b	Nintendo Puzzle Collection - Panel de Pon (Japan).gba	nointro 2024-02-21	nintendo-gba-multiboot
+f5fc4246e0019064c3a625b58a057479	Nintendo Puzzle Collection - Yoshi no Cookie (Japan).gba	nointro 2024-02-21	nintendo-gba-multiboot
+15452792617c0de7201719ebc43bd424	Puyo Pop - Endless Version (World).gba	nointro 2024-02-21	nintendo-gba-multiboot
+8eea91a2fd16f6d50908f400cd49e79f	WarioWare, Inc. - Mini-Jeux Vol. 1 (World) (Fr).gba	nointro 2024-02-21	nintendo-gba-multiboot
+7c6b7c46971c7a08b8a14f58270ada5d	WarioWare, Inc. - Mini-Jeux Vol. 2 (World) (Fr).gba	nointro 2024-02-21	nintendo-gba-multiboot
+ae6076fcb4200423b5f856e8432e503e	WarioWare, Inc. - Mini-Jeux Vol. 3 (World) (Fr).gba	nointro 2024-02-21	nintendo-gba-multiboot
+ff49c79fee19ad9a08ddfca3e66b5f8b	WarioWare, Inc. - Mini-Jeux Vol. 4 (World) (Fr).gba	nointro 2024-02-21	nintendo-gba-multiboot
+a5f11f5d804f5353b371759809c4544e	WarioWare, Inc. - Mini, Teil 1 (World) (De).gba	nointro 2024-02-21	nintendo-gba-multiboot
+4ca95f667cb6156d37ca1342d81bcf52	WarioWare, Inc. - Mini, Teil 2 (World) (De).gba	nointro 2024-02-21	nintendo-gba-multiboot
+786f9909641090bd2dd2f6adbdb74580	WarioWare, Inc. - Mini, Teil 3 (World) (De).gba	nointro 2024-02-21	nintendo-gba-multiboot
+cec041322dedaecbadfe3cd011edd56d	WarioWare, Inc. - Mini, Teil 4 (World) (De).gba	nointro 2024-02-21	nintendo-gba-multiboot
+550b9428f349e31bc1fd2fa327cf1e4c	WarioWare, Inc. - Minigioco 1 (World) (It).gba	nointro 2024-02-21	nintendo-gba-multiboot
+945e72d8350b6ee372b4fe6d85907f6c	WarioWare, Inc. - Minigioco 2 (World) (It).gba	nointro 2024-02-21	nintendo-gba-multiboot
+54027fdba7c0a777d084612cc50a446a	WarioWare, Inc. - Minigioco 3 (World) (It).gba	nointro 2024-02-21	nintendo-gba-multiboot
+0fab6854800a78bbb429bee9e6afbade	WarioWare, Inc. - Minigioco 4 (World) (It).gba	nointro 2024-02-21	nintendo-gba-multiboot
+b0fe325acd36cf85bb30c9f625265d6e	WarioWare, Inc. - Minijuegos Vol. 1 (World) (Es).gba	nointro 2024-02-21	nintendo-gba-multiboot
+1aa84120892bc2b241be7b591158214f	WarioWare, Inc. - Minijuegos Vol. 2 (World) (Es).gba	nointro 2024-02-21	nintendo-gba-multiboot
+fbc9009532cf342d3d6d5543064aa15c	WarioWare, Inc. - Minijuegos Vol. 3 (World) (Es).gba	nointro 2024-02-21	nintendo-gba-multiboot
+02a703bceebe083404b5057b1bf136b4	WarioWare, Inc. - Minijuegos Vol. 4 (World) (Es).gba	nointro 2024-02-21	nintendo-gba-multiboot
+618d71137dfa1b8f8121fbaca172e032	WarioWare, Inc. - Seleccion 1 (World) (Es).gba	nointro 2024-02-21	nintendo-gba-multiboot
+2cfcc779c2b1d720be81d57b7711a810	WarioWare, Inc. - Seleccion 2 (World) (Es).gba	nointro 2024-02-21	nintendo-gba-multiboot
+a2a8d37de27ba1f214c468a4f0ebb65e	WarioWare, Inc. - Seleccion 3 (World) (Es).gba	nointro 2024-02-21	nintendo-gba-multiboot
+995b0e5339d4a8228d37fea387e0c5ff	WarioWare, Inc. - Seleccion 4 (World) (Es).gba	nointro 2024-02-21	nintendo-gba-multiboot
+d41782742ad92bd0fdc4842424795988	WarioWare, Inc. - Selected 1 (World).gba	nointro 2024-02-21	nintendo-gba-multiboot
+761ad3e3ad23ffb9fb672d5c9dd26ee7	WarioWare, Inc. - Selected 2 (World).gba	nointro 2024-02-21	nintendo-gba-multiboot
+e48145cb70fecb31bfecb1921687ca2d	WarioWare, Inc. - Selected 3 (World).gba	nointro 2024-02-21	nintendo-gba-multiboot
+91984dba97b9c8172f302ddd8ab97c09	WarioWare, Inc. - Selected 4 (World).gba	nointro 2024-02-21	nintendo-gba-multiboot
+dff4a4edf3f1aed02f2fd40743415845	WarioWare, Inc. - Selection 1 (World) (Fr).gba	nointro 2024-02-21	nintendo-gba-multiboot
+dfd4012a94707e74d606514dc89f099b	WarioWare, Inc. - Selection 2 (World) (Fr).gba	nointro 2024-02-21	nintendo-gba-multiboot
+6d7e9d08b41e9da17db851f01b912809	WarioWare, Inc. - Selection 3 (World) (Fr).gba	nointro 2024-02-21	nintendo-gba-multiboot
+fad7fdc7bdd7ab98a1162e05c23dac20	WarioWare, Inc. - Selection 4 (World) (Fr).gba	nointro 2024-02-21	nintendo-gba-multiboot
+36d935e06d4a3ab94ecc8aab3665e9df	WarioWare, Inc. - Selezion 1 (World) (It).gba	nointro 2024-02-21	nintendo-gba-multiboot
+cd44d75b5d48e19f68f59af47665551a	WarioWare, Inc. - Selezion 2 (World) (It).gba	nointro 2024-02-21	nintendo-gba-multiboot
+be50e683a0c05756416e4ee5698b75a5	WarioWare, Inc. - Selezion 3 (World) (It).gba	nointro 2024-02-21	nintendo-gba-multiboot
+f8eb9dc40ca95095ca6977158aeb7d84	WarioWare, Inc. - Selezion 4 (World) (It).gba	nointro 2024-02-21	nintendo-gba-multiboot
+a18dc97b2a057ce2ec72a1c0232cbb6a	WarioWare, Inc. - Spezialauswahl 1 (World) (De).gba	nointro 2024-02-21	nintendo-gba-multiboot
+5209a2cb0604b354230525588184a867	WarioWare, Inc. - Spezialauswahl 2 (World) (De).gba	nointro 2024-02-21	nintendo-gba-multiboot
+283524c779d9f4ee0a7b9f63fbb84019	WarioWare, Inc. - Spezialauswahl 3 (World) (De).gba	nointro 2024-02-21	nintendo-gba-multiboot
+512dc746f98c4e34a3b7f7c583ae4c8f	WarioWare, Inc. - Spezialauswahl 4 (World) (De).gba	nointro 2024-02-21	nintendo-gba-multiboot
+f3329db7dfc34e3bf4f8968b49e41842	WarioWare, Inc. - Trial Ver. 1 (World).gba	nointro 2024-02-21	nintendo-gba-multiboot
+cd03911f50388ae75c00ba8a6492f097	WarioWare, Inc. - Trial Ver. 2 (World).gba	nointro 2024-02-21	nintendo-gba-multiboot
+1fae29172b31ae29fa0a06d53cd8258a	WarioWare, Inc. - Trial Ver. 3 (World).gba	nointro 2024-02-21	nintendo-gba-multiboot
+d52f65a8fff17a86aaa749212a1ef80c	WarioWare, Inc. - Trial Ver. 4 (World).gba	nointro 2024-02-21	nintendo-gba-multiboot
+39891f6dc6233821d27e3319095de733	WarioWare, Inc. - Trial Version (USA).gba	nointro 2024-02-21	nintendo-gba-multiboot
