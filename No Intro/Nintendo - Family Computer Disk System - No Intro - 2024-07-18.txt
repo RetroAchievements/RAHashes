@@ -1,0 +1,403 @@
+ca30b50f880eb660a320674ed365ef7a	[BIOS] Family Computer Disk System (Japan) (En) (Rev 1).bin	nointro 2024-07-18	nintendo-fds
+d7f356acaf747090358a5bdbb2a44208	[BIOS] Family Computer Disk System (Japan) (En).bin	nointro 2024-07-18	nintendo-fds
+dbd09385a1c91eca902549fac83e2b8b	[BIOS] Family Computer Disk System (Japan) (En) (Rev 1) (GameCube Edition).bin	nointro 2024-07-18	nintendo-fds
+d998aa10d3c9d31ad790307ec3506e1c	[BIOS] Family Computer Disk System (Japan) (En) (Rev 1) (3DS Virtual Console).bin	nointro 2024-07-18	nintendo-fds
+e497bf0217769768278ff702cf884b5e	[BIOS] Family Computer Disk System (World) (Rev 1) (Game & Watch - Super Mario Bros.).bin	nointro 2024-07-18	nintendo-fds
+b2a6d62a695244042beb12d40277cf85	[BIOS] Family Computer Disk System (Japan) (En) (Rev 1) (3DS Virtual Console) (Alt).bin	nointro 2024-07-18	nintendo-fds
+c1a9e9415a6adde3c8563c622d4c9fce	[BIOS] Twin Famicom (Japan) (En).bin	nointro 2024-07-18	nintendo-fds
+2155652ba2ce18282705337d03b3f505	Adian no Tsue (Japan).fds	nointro 2024-07-18	nintendo-fds
+93609d9f2a72cc6097679599e4bf425f	Adian no Tsue (Japan) (Beta) (1986-10-29).fds	nointro 2024-07-18	nintendo-fds
+7839c79cb30fab6440114554508609fa	Ai Senshi Nicol (Japan).fds	nointro 2024-07-18	nintendo-fds
+1e6853a0d4c2b3be38f14a73cf031c66	Air Fortress (Japan) (Proto) (1986-10-20).fds	nointro 2024-07-18	nintendo-fds
+ba576a03aeb7fc733c104043de9964f2	Aki to Tsukasa no Fushigi no Kabe (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+62ce2cf11cca70f6db84f5e6d7ada1c4	Akumajou Dracula (Japan).fds	nointro 2024-07-18	nintendo-fds
+33def5907d3561f6649a5e0ccf9a1d09	Akumajou Dracula (Japan) (Rev 2) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+fe739e10ec1f70888a4cac28d8562fae	Akumajou Dracula (Japan) (Rev 1).fds	nointro 2024-07-18	nintendo-fds
+958f03c1c054a528f22869ca84e03a32	Akumajou Dracula (Japan) (Rev 2) (Wii and Wii U Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+9e7224595700636f69734e5b0e4a86dc	Akuu Senki Raijin (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+bd7e25faa070c247015f2dfb09b20760	Akuu Senki Raijin (Japan) (Beta) (1987-06-10).fds	nointro 2024-07-18	nintendo-fds
+296bc8ec6482e70e5d098bb90343a2f8	Aliens - Alien 2 (Japan) (Proto) (1986-12-15).fds	nointro 2024-07-18	nintendo-fds
+c8719692d0b9d9649492ffb1c2d26aa3	All Night Nippon Super Mario Bros. (Japan) (Promo).fds	nointro 2024-07-18	nintendo-fds
+cb3984d82c60541cafaa8a6786647791	Apple Town Monogatari - Little Computer People (Japan).fds	nointro 2024-07-18	nintendo-fds
+98ac12e7f11b0aaf082c9cf45103c430	Armana no Kiseki (Japan).fds	nointro 2024-07-18	nintendo-fds
+7d6153486d7103c639659a2256e88e5c	Aspic - Majaou no Noroi (Japan).fds	nointro 2024-07-18	nintendo-fds
+e8c43dc8426a03d55615ac5c968864d0	Backgammon (Japan).fds	nointro 2024-07-18	nintendo-fds
+533b069c5afbd5c98b330c60a46be918	Bakutoushi Patton-kun (Japan).fds	nointro 2024-07-18	nintendo-fds
+2a9d1a67279afbbcfb7ceae8c8dffc9b	Balloon Fight (Japan) (En) (Proto).fds	nointro 2024-07-18	nintendo-fds
+9c3adab712dc85876e0daa938d298493	Baseball (Japan).fds	nointro 2024-07-18	nintendo-fds
+0bc3eb7ee9aa0d5d8df3894a0b9896af	Big Challenge! Dogfight Spirit (Japan).fds	nointro 2024-07-18	nintendo-fds
+d8ee9d7e3a4ac2490774c84ce5f9e45a	Big Challenge! Go! Go! Bowling (Japan).fds	nointro 2024-07-18	nintendo-fds
+f19def771b919a6ad1b005597b52e5d5	Big Challenge! Gun Fighter (Japan).fds	nointro 2024-07-18	nintendo-fds
+73ed8cca3f3db319866d93bd13c249de	Big Challenge! Juudou Senshuken (Japan).fds	nointro 2024-07-18	nintendo-fds
+57a1e7555064c2dbe3e2e6a82785d9f9	Bio Miracle Bokutte Upa (Japan).fds	nointro 2024-07-18	nintendo-fds
+727fbbf8dc67dcb24fb363f3343c961d	Bio Miracle Bokutte Upa (Japan) (Wii and Wii U Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+7d466e0d92a4d82fb8a8fc288c2130b8	Bio Miracle Bokutte Upa (Japan) (3DS Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+2895a7742cbfb80c9c64b7c5b079dea6	Bishoujo Alien Battle (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+f2cbe1e8915e638822a6428fd5143441	Bishoujo Alien Battle (Japan) (Unl) (Alt) [b].fds	nointro 2024-07-18	nintendo-fds
+61e275ec04d5cfe0a2149346ebe1f8be	Bishoujo Control (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+db9be15272eb28f4a0c39c5640e782c4	Bishoujo Hanafuda Club Vol.1 - Oichokabu Hen (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+aa90fc78932771005301b80bd12bca23	Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana Hen (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+9607be9af87e542464fd218ecb58cd6e	Bishoujo Kachinuki Renju - Gomoku Narabe (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+4c4c5bb719e686d4990cc5a376a823ce	Bishoujo Mahjong Club (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+3de1e993ff82a4b56af56302201fe63d	Bishoujo Sexy Derby (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+5e4630299d2077bf3bbf29303ab797d9	Bishoujo Sexy Puzzle (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+05e5227ca87a482ebf7dca8f392710e1	Bishoujo Sexy Slot (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+b1c78e342353bc4b3fe2f0774c938961	Bishoujo Shashinkan - Moving School (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+c6278c2ef5476341d9b1ead07d7faec3	Bishoujo Shashinkan - Studio Cut (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+b4a97e97261da9df74e41ed67ae4663d	Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 1) (Unl).fds	nointro 2024-07-18	nintendo-fds
+8d6c5629815a2695b5a93ca3b70d5a8f	Bodyconquest I - Abakareshi Musumetachi (Japan) (Disk 2) (Unl).fds	nointro 2024-07-18	nintendo-fds
+bbac7232e938af706f1409b7d6ccb666	Bomberman (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+308a23c253729d9b3b98bed494878ab1	Breeder (Japan).fds	nointro 2024-07-18	nintendo-fds
+7db302a54555c041d437b97665ad63cf	Bubble Bobble (Japan).fds	nointro 2024-07-18	nintendo-fds
+82fad6d7047964d26d122f153b67bdc9	Bubble Bobble (Japan) (Wii and Wii U Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+8cfcf849231e7870216b9b37cab58fcb	Bubble Bobble (Japan) (3DS Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+8cb74cfe93d17e45cb9e942a86e4a550	BurgerTime (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+9ae773f02b72984df05427e13d19580e	Casino de Pink (Japan) (Unl) [b].fds	nointro 2024-07-18	nintendo-fds
+de77e98655bfe724ebdf478317aef936	Chitei Tairiku Ordola (Japan).fds	nointro 2024-07-18	nintendo-fds
+c33b3326ed541c344737c20fab36908a	Cleopatra no Mahou (Japan).fds	nointro 2024-07-18	nintendo-fds
+a1802300b60961f7670f60acebc88842	Clu Clu Land (Japan) (En) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+78fa67c8f40d951082178f334fd6dc28	Clu Clu Land (Japan) (En) (GameCube, Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+7a85e31a5e99537e9305a9bc4449a85c	Cocona World (Japan).fds	nointro 2024-07-18	nintendo-fds
+4a05c2c690112f7e6b29608681a7db5e	Comic Sakka Series Touma Senki #1 - Mashoujo Gakuen Evil (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+89baec66b47f533211825cceaa4aac4b	Comic Sakka Series Touma Senki #2 - Mermaid no Gyakushuu (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+32efdb191ebd7d88e14dcc839dd99845	Comic Sakka Series Touma Senki #3 - Ryuujin Sensei Kikiippatsu (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+729bba298e4459084f62a77961653aca	Comic Sakka Series Touma Senki #4 - Tenkuu Ryuumaou Fukkatsu (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+bbaa0d2f0f2b2e58ec1fb74de80da948	Comic Sakka Series Touma Senki #5 - Youjuu Rudo no Chousen (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+aa1c671d6b5d3d3bfbe114588578b524	Dandy - Zeuon no Fukkatsu (Japan).fds	nointro 2024-07-18	nintendo-fds
+64273a3a64ec6dd629edba1d0aa7b3de	Date de Blackjack (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+0032b506d04ae902c44b8269ce902a55	Dead Zone (Japan).fds	nointro 2024-07-18	nintendo-fds
+7aa5000bf8f7d830ae0739c36a047d72	Dead Zone (Japan) (Beta) (1986-10-06).fds	nointro 2024-07-18	nintendo-fds
+19d1c0e25237027ec23aa5aa27c5a194	Dig Dug (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+2fa8464847bd6b6232af14cdcbf18d7a	Dig Dug II (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+3339fe118797d085a272f89578f83dd4	Dirty Pair - Project Eden (Japan).fds	nointro 2024-07-18	nintendo-fds
+4722edf5caa94b134dbaf7d62b854283	Dirty Pair - Project Eden (Japan) (Rev 1) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+4d70b2ddb06f4bddea02627e2f79e8c4	Disk Hacker - Version 1.0 (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+f568272fa2fce0a1742ad21facf60cfb	Disk Hacker - Version 1.2 (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+8aa014c78ed480c04e447757c5844904	Disk Hacker - Version 1.3 (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+430448c8a4e6e1949a9b38004883e861	Disk Hacker II - Copy Plus 3 (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+0e654366c759b458694e3520d3825e13	Disk Keeper (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+d2f158ff4c710683d8efc7a4837c0599	Donkey Kong (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+f161d86682e4e36fa0c4f93d7556b4ed	Donkey Kong Jr. (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+b7fce0e8721f2341386dddd0184d5d8f	Doremikko (Japan).fds	nointro 2024-07-18	nintendo-fds
+296a421198f3738e13e29cc43c45ef4e	Dot E Creator Contest (Japan).fds	nointro 2024-07-18	nintendo-fds
+8df81dedb34cd7eb9a36a95ae1e67ece	Dr. Chaos - Jigoku no Tobira (Japan).fds	nointro 2024-07-18	nintendo-fds
+0eda1dabca3cdd01cfe34e24ef5155b7	Dracula II - Noroi no Fuuin (Japan).fds	nointro 2024-07-18	nintendo-fds
+5bf41ffcef22c7bcda75ebb11de60a3b	Dracula II - Noroi no Fuuin (Japan) (Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+bf88d1c1fc7bf0d4783859264dd6bda5	Druid - Kyoufu no Tobira (Japan).fds	nointro 2024-07-18	nintendo-fds
+33610c9c63a9f8624f015f147cb55bc4	Druid - Kyoufu no Tobira (Japan) (Beta) (1987-12-24).fds	nointro 2024-07-18	nintendo-fds
+ec94e229cdd700bbdc66d283d0e3801f	Egger Land (Japan).fds	nointro 2024-07-18	nintendo-fds
+9193e78a2bd7d64373c403e8be7d5b51	Egger Land (Japan) (Rev 1) (Possible Proto).fds	nointro 2024-07-18	nintendo-fds
+01da73e5e3c38627e73af19d219fb14a	Egger Land - Souzou e no Tabidachi (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+386e47174b9192f78ed6f911c7cf1a99	Egger Land - Souzou e no Tabidachi (Japan) (Beta) (1987-11-11).fds	nointro 2024-07-18	nintendo-fds
+858c75bac6e034cee44afe665c23069f	Electrician (Japan).fds	nointro 2024-07-18	nintendo-fds
+1abec9090440920265737a5b57992b38	Emi-chan no Moero Yakyuuken! (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+46f705409de0aac7289c269cc12ee558	Esper Dream (Japan).fds	nointro 2024-07-18	nintendo-fds
+6b6cf238668429511a027b1739403975	Esper Dream (Japan) (Rev 1) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+bfcbf0f8614f9290c6dae6e1b13f33ab	Esper Dream (Japan) (Rev 1) (Wii and Wii U Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+37aec6af89447c6aa81bc160ccc1e50a	Esper Dream (Japan) (Rev 1) (3DS Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+be5b835b566a1925649ac89e44487774	Exciting Baseball (Japan).fds	nointro 2024-07-18	nintendo-fds
+94648c0ba3e5af8d0dd75bc4843d8ae3	Exciting Basket (Japan).fds	nointro 2024-07-18	nintendo-fds
+9ed5f9577a941c770a82002ffb7a67a3	Exciting Billiard (Japan).fds	nointro 2024-07-18	nintendo-fds
+02b906e41f63b212887d33c5da9c2fe1	Exciting Soccer - Konami Cup (Japan).fds	nointro 2024-07-18	nintendo-fds
+f8a81cbcea63fb0de0dc2cdeeb4b2a84	Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+95363d8bfea1163abd913ecb540ed355	Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl) (Alt) [b].fds	nointro 2024-07-18	nintendo-fds
+5b8c59259082182123ecafc06a3b38ef	Fairytale (Japan).fds	nointro 2024-07-18	nintendo-fds
+e1c635b2a67f2e683db3d50b23d1f519	Falsion (Japan).fds	nointro 2024-07-18	nintendo-fds
+44936b51ebad3a715f8f2b226df9e7cb	Famicom Grand Prix - F1 Race (Japan) (DV 1) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+aea1094ea6d91e486f11f33da5117ec4	Famicom Grand Prix - F1 Race (Japan).fds	nointro 2024-07-18	nintendo-fds
+b0dd747afca81796b09bdb1555cbad6e	Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 7) (Famicom 3D System).fds	nointro 2024-07-18	nintendo-fds
+d253950e2b8603bb101a80f11b026d79	Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 5) (Famicom 3D System).fds	nointro 2024-07-18	nintendo-fds
+6e578c64b129f5f84d5d38632bc06123	Famicom Grand Prix II - 3D Hot Rally (Japan) (DV 8) (Disk Writer) (Famicom 3D System).fds	nointro 2024-07-18	nintendo-fds
+4ed16d918142773011f377f26f7025df	Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan).fds	nointro 2024-07-18	nintendo-fds
+21d1db2db96a6ea45435dc9c81d69d0c	Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan) (Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+3fec4814765cf83cae9c9f6dde37874e	Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 1).fds	nointro 2024-07-18	nintendo-fds
+efebcb43329b1818035ff5ebdc347793	Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 2, 3) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+53621b34043e04f965c72142c74318fd	Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (Wii and Wii U Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+d20245ab0adf0979641a119172c40ab0	Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 3) (3DS Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+2a0aec24d6c5dfca478175d8f6cad105	Famicom Mukashibanashi - Yuuyuuki - Kouhen (Japan).fds	nointro 2024-07-18	nintendo-fds
+75a311a11d2e2c06921813f48ea30cd9	Famicom Mukashibanashi - Yuuyuuki - Zenpen (Japan).fds	nointro 2024-07-18	nintendo-fds
+9a37c64b86f851a010431c76e2b360fe	Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan).fds	nointro 2024-07-18	nintendo-fds
+5489e099a7d8802c397a55f349a8c162	Famicom Tantei Club - Kieta Koukeisha - Kouhen (Japan) (3DS Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+0bdff1170becc5d77c7133839b5fd3cf	Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 1, 3).fds	nointro 2024-07-18	nintendo-fds
+416d9131b5607cc5bc9404e5b2489e39	Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 3) (Wii and Wii U Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+0082d7bbe5f6a970c16adb0691c3cc8b	Famicom Tantei Club - Kieta Koukeisha - Zenpen (Japan) (DV 3) (3DS Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+c7b229806ffe03aff5be49c7cd64d32b	Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 3, 4).fds	nointro 2024-07-18	nintendo-fds
+3c9d7028e353d6275482e0b5ba821773	Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Kouhen (Japan) (DV 4) (3DS Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+af5fc1434b50e6775280e27859b7f108	Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (Beta).fds	nointro 2024-07-18	nintendo-fds
+d92bcb20c38a46a283f8950723b1f54e	Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan).fds	nointro 2024-07-18	nintendo-fds
+de2e6226dc59bcd861aea0003e5600c5	Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (3DS Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+019983dee58589d6f3e04a927534868f	Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zenpen (Japan) (Wii Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+9dbba23fc7660d1c5c53716a55829bde	Family Composer (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+a9dcb0d6c5ce6d2ba1ef0856dd8ab506	Family Composer (Japan) (Rev 1) (Possible Proto).fds	nointro 2024-07-18	nintendo-fds
+86f4a70b28bd7da547c8315197a4cfe8	Famimaga Disk Vol. 1 - Hong Kong (Japan).fds	nointro 2024-07-18	nintendo-fds
+03098a102c794338b7d17acc83cff9a0	Famimaga Disk Vol. 2 - Panic Space (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+5e19aa55c0a421cad21cd4c732961bfa	Famimaga Disk Vol. 3 - All 1 (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+f031c8428868ad84c6183f16de2e90f2	Famimaga Disk Vol. 4 - Clox (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+689509a8c0340687b026e3c5bf09657b	Famimaga Disk Vol. 5 - Puyo Puyo (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+638186d22ca0dc03a93d858df1b14e2f	Famimaga Disk Vol. 6 - Janken Disk Jou (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+31559f43a673a178b2f9498f7ddefc79	Final Command - Akai Yousai (Japan).fds	nointro 2024-07-18	nintendo-fds
+736a9ca3edb290730fd00fe692d068fd	Fire Bam (Japan).fds	nointro 2024-07-18	nintendo-fds
+0ba4a87a4920648109dd2d556f38827f	Fire Rock (Japan).fds	nointro 2024-07-18	nintendo-fds
+f16637988b46ecbd28fa277895bd5c64	FMC Disk Card Checker Ver 1.3 (Japan) (Rev 2) (Developer Card).fds	nointro 2024-07-18	nintendo-fds
+e41e573e4d819c982a21d2dea480457d	Fruits Mahjong 1 - Disk 1 - Mahjong Game Hontai (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+fd7c1e5687c2a492a3b23cf709920fd5	Fruits Mahjong 1 - Disk 2 - Dai H Taikai (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+947861e03dae327eca8cd1a35ae0a6dc	Fruits Mahjong 2 - Disk 1 - Tokimeki Gals (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+fadce3d67d3c6831419a77a7d63693ad	Fruits Mahjong 2 - Disk 2 - Yonin to Dai H Taikai (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+4f4066c4c717b093c7652a180aea6117	Fruits Mahjong 3 - Disk 1 - Yonin no Tenshi Tachi (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+de9143dee9cb282a505ab804d70ae5c7	Fruits Mahjong 3 - Disk 2 - Tottemo H na Gogo (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+7f1e6325e434e27d6024f3223990b4e6	Fruits Mahjong 4 - Disk 1 - Bishoujo Connection (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+3d9cca9523d3016362484210c43e00a8	Fruits Mahjong 4 - Disk 2 - Daitan H na Hirusagari (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+094dec7f7c8a6b82a7660b34362ee8b0	Fuuun Shourin Ken (Japan).fds	nointro 2024-07-18	nintendo-fds
+7910cf70c42f60e4fd1b9be5ad286595	Fuuun Shourin Ken - Ankoku no Maou (Japan) (Famicom 3D System).fds	nointro 2024-07-18	nintendo-fds
+c9c41539fe24999fb75a90e32034af47	Galaga (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+09555848fd304b2bd5b532030d2a9170	Galaxian (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+a0ff1b03bd2eaff65af51606446a52fd	Gall Force - Eternal Story (Japan).fds	nointro 2024-07-18	nintendo-fds
+04f381d148759b60fbb81f7c89ccb33d	Game no Tatsujin - Money Wars (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+e8b67e8bbbad9a1aeefe7cc0f269af5b	German Tanteidan MarinGumi - Maruhi Jigomar Sousa File (Japan).fds	nointro 2024-07-18	nintendo-fds
+9b93834739bfdf9b536c461892588085	Ginga Denshou - Galaxy Odyssey (Japan).fds	nointro 2024-07-18	nintendo-fds
+2d5856800ce56d4990dda73d47401e38	Ginga Denshou - Galaxy Odyssey (Japan) (Rev 1) (Possible Proto).fds	nointro 2024-07-18	nintendo-fds
+7896fa5da72c5c3a3cc99c27612a2047	Gokuraku Yuugi - Game Tengoku (Japan).fds	nointro 2024-07-18	nintendo-fds
+5518478491d4405d98298bc012da86a4	Golf (Japan) (Rev 1).fds	nointro 2024-07-18	nintendo-fds
+b61f0557bc844e25bfa389647babfff8	Golf (Japan).fds	nointro 2024-07-18	nintendo-fds
+9e30b10fb1f5546e3e451964f8d603e7	Golf (Japan) (Rev 2) (Possible Proto).fds	nointro 2024-07-18	nintendo-fds
+33dd52ae0c66e52e142b9dc07e06a449	Golf - Japan Course (Japan) (DV 2).fds	nointro 2024-07-18	nintendo-fds
+55741f2ea46aadbbfa25fe7f1e07c77a	Golf - Japan Course (Japan) (Prize Card).fds	nointro 2024-07-18	nintendo-fds
+5538301297f13a4ca19f093630b3b0e4	Golf - Japan Course (Japan).fds	nointro 2024-07-18	nintendo-fds
+b2d4ba1b88e9d05120331746f89bbebf	Golf - Special Course (Japan) (Prize Card).fds	nointro 2024-07-18	nintendo-fds
+a4a7cb14010e85a2d6280960a4b8ef6c	Golf - US Course (Japan) (DV 1).fds	nointro 2024-07-18	nintendo-fds
+c71912d90dc39b2ee41bfa05c83783f8	Golf - US Course (Japan).fds	nointro 2024-07-18	nintendo-fds
+9942a61cfd95af14c2c66dba4cc979ca	Golf - US Course (Japan) (DV 2) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+bc7f03a9a6f39bf0392ce4ed927dee0d	Golf, The - Bishoujo Classic (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+3508a9284ae93c58c661389bca94071d	Gomoku Narabe (Japan) (Proto).fds	nointro 2024-07-18	nintendo-fds
+2889445d3dcbfe1fba98182a956d6000	Goonies (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+211eb4c04a292e13760d921d4d49965e	Graphic Editor Hokusai - Ver 1.2 (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+7e0015d52386f1607eab919f5c1aba9a	Green Beret (Japan).fds	nointro 2024-07-18	nintendo-fds
+1900dbf7a3b329c5b84578341dd89d4d	Gun.Smoke (Japan).fds	nointro 2024-07-18	nintendo-fds
+feb7399972c2908687d2a39dfb646daf	Gyruss (Japan).fds	nointro 2024-07-18	nintendo-fds
+7e5eda201492d64229f0969d9512b241	Gyruss (Japan) (Beta) (1988-10-03).fds	nointro 2024-07-18	nintendo-fds
+03545c4e608694c06daeefb511d46c8e	Halley Wars (Japan).fds	nointro 2024-07-18	nintendo-fds
+95e3bf05a5908edf8e97d395fb45f8ea	Hao-kun no Fushigi na Tabi (Japan).fds	nointro 2024-07-18	nintendo-fds
+eceebadad508727b37107ecb7bfa928f	Hayama Reiko no Date de Blackjack (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+e3761242b3be50c25c6837b203100f75	Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1).fds	nointro 2024-07-18	nintendo-fds
+46132bd343de7b172a430526353e7943	Hikari Shinwa - Palthena no Kagami (Japan).fds	nointro 2024-07-18	nintendo-fds
+962c031a7611e3a682e1bd3988a1c2f4	Hikari Shinwa - Palthena no Kagami (Japan) (Rev 1) (Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+1de9de2116a20e6010dd2ce3dcc248f6	Hikaru Genji - Roller Panic (Japan).fds	nointro 2024-07-18	nintendo-fds
+bb0ecb99169af05fa7c322da5f80423b	I Am a Teacher - Super Mario no Sweater (Japan).fds	nointro 2024-07-18	nintendo-fds
+7fe6aef8d5fd02f0d7ae9c9cfb861f22	I Am a Teacher - Teami no Kiso (Japan).fds	nointro 2024-07-18	nintendo-fds
+6110c726ee6bb2768caa35dd77d1f025	Ice Climber (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+0535c15240c5476d66067f755ed0534d	Ice Hockey (Japan).fds	nointro 2024-07-18	nintendo-fds
+dab482f9791af3ab7f607f92eed02631	Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 10).fds	nointro 2024-07-18	nintendo-fds
+c872a738ae0c718fa08b3ed75f8a3872	Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 4).fds	nointro 2024-07-18	nintendo-fds
+b116d4ac001b2263f65d03e7cdaba512	Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 6).fds	nointro 2024-07-18	nintendo-fds
+26e24f896cef199341b5461699f25cbf	Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 13) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+f03e048a438f353266f32060341d23b8	Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 11) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+baa90c058d18d7828c745c57d8a536d7	Igo - Kyuu Roban Taikyoku (Japan).fds	nointro 2024-07-18	nintendo-fds
+47858572048a5cb0b9801ea7ee51461a	Ishidou (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+96381239fed8a092ed35947c47e093aa	Jikai Shounen Met Mag (Japan).fds	nointro 2024-07-18	nintendo-fds
+3536c5a5569fbbc8ee92303b26265122	Jingorou (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+86dc38b22c2363178e5a0cd3d992b619	Kaettekita Mario Bros. (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+dc9da8d17dd74b36cf70e9c6be0d009b	Kalin no Tsurugi (Japan).fds	nointro 2024-07-18	nintendo-fds
+0081176964e6409210ad0f3c4bb561a7	Kamen Rider Black - Taiketsu Shadow Moon (Japan).fds	nointro 2024-07-18	nintendo-fds
+ea2e0c2dd52a2d44bed229810c3da05c	Karate Champ (Japan).fds	nointro 2024-07-18	nintendo-fds
+a5936bab5a16c9efd4dc5058c2be5889	Kattobi! Douji (Japan).fds	nointro 2024-07-18	nintendo-fds
+d12f7bff55eca89bb54667c9bd68aab2	Kick and Run (Japan).fds	nointro 2024-07-18	nintendo-fds
+9d98e570ee44a676755971e3ed907bbc	Kick Challenger - Air Foot - Yasai no Kuni no Ashi Senshi (Japan).fds	nointro 2024-07-18	nintendo-fds
+07d6bf1266db5de287f3a8c0168321af	Kieta Princess (Japan).fds	nointro 2024-07-18	nintendo-fds
+50c982afdfe889fd33792539a5e90451	Kiki Kaikai - Dotou Hen (Japan) (Rev 1) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+395309f36c8c739318bb695f5a5fe37e	Kiki Kaikai - Dotou Hen (Japan).fds	nointro 2024-07-18	nintendo-fds
+3ffc0f3046c94111b04be4b5d087a0b9	Kind Gal's (Japan) (Disk 1) (Unl).fds	nointro 2024-07-18	nintendo-fds
+10e1082e0a63fc3bc4c97aa965da71de	Kind Gal's (Japan) (Disk 2) (Unl).fds	nointro 2024-07-18	nintendo-fds
+043f08ec047af5b29763d6af3f07af96	Kinnikuman - Kinnikusei Oui Soudatsusen (Japan).fds	nointro 2024-07-18	nintendo-fds
+e5237686150960dd8817bacb7fb34f9b	Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) (Rev 1) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+8f72ff90d8a70c7e94602e6979f463e5	Knight Lore - Majou no Ookami Otoko (Japan).fds	nointro 2024-07-18	nintendo-fds
+c1defd5a1b78f409b5951ad8988d820e	Knight Move (Japan).fds	nointro 2024-07-18	nintendo-fds
+1eb851f60fc09f3d5b61ea16e13b71c6	Knight Move (Japan) (Rev 1) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+ae23094dac25cb88371ebe4f341a0a9e	Kobayashi Hitomi no Hold Up (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+2078370192192bffc602db2edbc42c81	Kobayashi Hitomi Shocking Tennis (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+1794cd0f37280f8e2ccb5d79d381473f	Konamic Ice Hockey (Japan).fds	nointro 2024-07-18	nintendo-fds
+2d8c15c6c33d3adc1a8a676b343a3876	Konamic Tennis (Japan).fds	nointro 2024-07-18	nintendo-fds
+cc32b4c91579a4e69a1ec5e6ef04363c	Konamic Tennis (Japan) (Beta) (1986-10-22).fds	nointro 2024-07-18	nintendo-fds
+af8a32bc2eeca242a12b23c46c305f06	Koneko Monogatari - The Adventures of Chatran (Japan).fds	nointro 2024-07-18	nintendo-fds
+38078e2e3b6a01473874608f1362c35a	Koneko Monogatari - The Adventures of Chatran (Japan) (Sample) (1986-07-03).fds	nointro 2024-07-18	nintendo-fds
+d35adfc3b99895d6a685537d834ee2fc	Kosodate Gokko (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+da8487686c3957b41ac907cbcb715ada	Link no Bouken - The Legend of Zelda 2 (Japan).fds	nointro 2024-07-18	nintendo-fds
+4673e288b392efc26326d8fc00c18b26	Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1).fds	nointro 2024-07-18	nintendo-fds
+ba67bb9631be2dc9591df42f623e382a	Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Collector's Edition).fds	nointro 2024-07-18	nintendo-fds
+91d1089d011431c6006f78573d7e6437	Link no Bouken - The Legend of Zelda 2 (Japan) (Rev 1) (Wii and Wii U Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+f8c71226e0d92f45b80b442bf312981c	Lipstick #1 - Lolita Hen (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+f6f8118395411205b7bda78e04b44a12	Lipstick #2 - Joshi Gakusei Hen (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+9110148aa66fb605694ba7e78f7b2ed6	Lipstick #3 - OL Hen (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+b87ad01a363e7a228b89ebb21325e23d	Lipstick #4 - Hakui no Tenshi Hen (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+5e62c1065b57754aa6f3b580e6836abf	Lipstick #5 - Stewardess Hen (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+b0f50985b8248ffe0a8d9a4052064638	Lutter (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+d8927b0fceef207487b6f4ddb9d87eab	Madou Senki - Deep Dungeon (Japan).fds	nointro 2024-07-18	nintendo-fds
+88d9ab9ed750e198c6d0696a5ddb1f1d	Madou Senki - Deep Dungeon (Japan) (Rev 1).fds	nointro 2024-07-18	nintendo-fds
+d68f0e208820424009e05b0b9b255f8f	Maerchen Veil (Japan).fds	nointro 2024-07-18	nintendo-fds
+4889521ff82ab2a6c24001ed81d874be	Magma Project - Hacker (Japan).fds	nointro 2024-07-18	nintendo-fds
+a09d709abec2e0c96001d7f544f80763	Mahjong (Japan).fds	nointro 2024-07-18	nintendo-fds
+50d2f437e835cf6ba2e8859ece2f3f8e	Mahjong Goraku - Bishoujo Meijinsen (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+e494bd7e02ab5c41cd783a02ca216456	Mahjong Kazoku (Japan).fds	nointro 2024-07-18	nintendo-fds
+539584f24e97668d537eddf530e72210	Matou no Houkai - The Hero of Babel (Japan).fds	nointro 2024-07-18	nintendo-fds
+d82b4ef601de5eee81b3d9543e0bf6af	Meikyuu Jiin Dababa (Japan).fds	nointro 2024-07-18	nintendo-fds
+867ea5239cd206c5e2cd8b4f131a965b	Metroid (Japan) (Rev 1).fds	nointro 2024-07-18	nintendo-fds
+d68f36d25a3474663bb1decfe0fcb395	Metroid (Japan) (Rev 2).fds	nointro 2024-07-18	nintendo-fds
+bb765939f75bcf9234b4bf77ca04281b	Metroid (Japan) (Rev 3).fds	nointro 2024-07-18	nintendo-fds
+66af3a6411dc8c251c9c0ea6579b0ed7	Metroid (Japan) (Rev 3) (Wii and Wii U Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+2f1ff14ce96dcc83654c325d914cc165	Metroid (Japan) (Rev 3) (3DS Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+670e27f42d69fe8155587c11a9e4ba2c	Michael English Daibouken (Japan) (Sample) (1987-03-25).fds	nointro 2024-07-18	nintendo-fds
+75aaa59eec0d4747593f9a758b1d483a	Michael English Daibouken (Japan).fds	nointro 2024-07-18	nintendo-fds
+b2a76ebd0dff79413fae60a42f19baa2	Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan) (Rev 1).fds	nointro 2024-07-18	nintendo-fds
+39e28a625f0b35f600d582294dfe4013	Moero TwinBee - Cinnamon Hakase wo Sukue! (Japan).fds	nointro 2024-07-18	nintendo-fds
+20d09d065aba9f292e63da0f610b2456	Money Game, The (Japan) (Proto).fds	nointro 2024-07-18	nintendo-fds
+762aa5c2093344491e95b36c1e6b9166	Monitor Puzzle Kineko, The - Kinetic Connection (Japan).fds	nointro 2024-07-18	nintendo-fds
+91119c607d6422c23466fc6d34c4145a	Monitor Puzzle Kineko, The - Kinetic Connection (Japan) (Rev 1) (Possible Proto).fds	nointro 2024-07-18	nintendo-fds
+cbd2190225076fc650d80c9a0ea59ff6	Monitor Puzzle Kineko, The - Kinetic Connection II (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+e3342cf9e7a012276c558c0b9a2cac71	Monty on the Run - Monty no Doki Doki Dai Dassou (Japan).fds	nointro 2024-07-18	nintendo-fds
+bced9dddfebb4fba421f671eeff61aab	Moonball Magic (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+97337c0e5abcd0223ec04ffe7eadba93	Namida no Soukoban Special (Japan).fds	nointro 2024-07-18	nintendo-fds
+dc3f5333f60186bbf37cb6b1c4c6d6ec	Nankin no Adventure (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+604356017ab4f240ba28b84029723a46	Nazo no Kabe - Block Kuzushi (Japan).fds	nointro 2024-07-18	nintendo-fds
+fa04b0b2d99d560e7076198ab72a15d3	Nazo no Murasamejou (Japan).fds	nointro 2024-07-18	nintendo-fds
+5527076b402459560f37f0b7aab929ea	Nazo no Murasamejou (Japan) (GameCube).fds	nointro 2024-07-18	nintendo-fds
+ca6cd31ef133561ccab809e601a97fb5	Nazo no Murasamejou (Japan) (Wii and Wii U Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+79cd5b28438f0c1857c1029820b768ba	Nazo no Murasamejou (World) (Ja) (3DS Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+a64e513bb7675e686dba4150f4cb8b5d	Nazoler Land - Dainigou (Japan).fds	nointro 2024-07-18	nintendo-fds
+2fc9a1acbde27981c08f2e0b35eb24a1	Nazoler Land - Daisangou (Japan).fds	nointro 2024-07-18	nintendo-fds
+3690ee1dba023967eb28f5bc64bcef5c	Nazoler Land - Soukangou (Japan).fds	nointro 2024-07-18	nintendo-fds
+7cba45f117815e9ce216d465db89caef	Nazoler Land Special!! - Quiz Ou wo Sagase (Japan).fds	nointro 2024-07-18	nintendo-fds
+5fe8d15c7279b077ba7847baa7e95a30	NESert Golfing (World) (Aftermarket) (Unl).fds	nointro 2024-07-18	nintendo-fds
+3075aa99cf591cd5ed5366a30be5043a	Neunzehn - 19 (Japan).fds	nointro 2024-07-18	nintendo-fds
+d83330691dffde4b99795cb3246d5526	Nomura no Famicom Trade (Japan) (Proto) (FTAJ).fds	nointro 2024-07-18	nintendo-fds
+841a3424833258b39513c1ed4a9e365c	Nomura no Famicom Trade (Japan) (Proto) (FTEJ).fds	nointro 2024-07-18	nintendo-fds
+06d83ae86e5ea37697f34a5333bbd9d4	Nomura no Famicom Trade (Japan) (Proto) (FTBJ).fds	nointro 2024-07-18	nintendo-fds
+6609ce22490e93c1a953f4fd940779a0	Omoikkiri Tanteidan HaadoGumi - Matenrou no Chousenjou (Japan).fds	nointro 2024-07-18	nintendo-fds
+907f107fce9fe854c55827e9d0d72df5	Othello (Japan) (DV 2).fds	nointro 2024-07-18	nintendo-fds
+110b8b96eb9a47ba782b71ff6d34c535	Othello (Japan) (DV 3, 5) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+4b9fd6c37dc7536cbf5f3054ad781aca	Otocky (Japan).fds	nointro 2024-07-18	nintendo-fds
+9d4bbb24e4ccf065f76d8ad0b999d3ce	Otocky (Japan) (Beta) (1986-04-15).fds	nointro 2024-07-18	nintendo-fds
+f1b5db7482fed253196ca299b67db218	Pac-Man (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+7fa925079d3f3bd9b2ab1afa6d676f4a	Pachicom (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+46a0e6a29a17132f1dbdc3f181a180ba	Pachinko Grand Prix (Japan).fds	nointro 2024-07-18	nintendo-fds
+09e838dd86576d8492e8628e4d6fe8b4	Patlabor - The Mobile Police - Daini Shoutai Shutsudou seyo! (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+6456efc70fefce18d61be2dff4a81106	Pinball (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+3e1fa35a8a91571e18f811c71c103341	Pro Golfer Saru - Kage no Tournament (Japan).fds	nointro 2024-07-18	nintendo-fds
+4123185940971b3b5f3bbd00cbe1fdf7	Pro Wres (Japan) (En).fds	nointro 2024-07-18	nintendo-fds
+eaf4ebf9ebe0cab5d5543176601bae01	Professional Mahjong Gokuu (Japan).fds	nointro 2024-07-18	nintendo-fds
+eb9c27d98c70d0241b6c75d8f52d32d4	Pulsar no Hikari - Space Wars Simulation (Japan).fds	nointro 2024-07-18	nintendo-fds
+54b408cdfb25f73cb8b5d663b703856f	Putt Putt Golf (Japan).fds	nointro 2024-07-18	nintendo-fds
+1790e6776a2196ea2db7ed8f4f840263	Puzzle Boys (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+8645ee00b6f907313e24ac1ed243a7bd	Quick Hunter (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+30413850be77539c4d495b0f9ce0c90f	Quick Hunter - Parameter Disk Vol.1 (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+a02ffe34465994d143de3c51c5f7fcde	Radical Bomber!! Jirai-kun (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+872378473ca3778d2597f6a39f16d2dc	Reflect World (Japan).fds	nointro 2024-07-18	nintendo-fds
+24f045e80d1ff30cec6d9cc1f41764b5	Relics - Ankoku Yousai (Japan).fds	nointro 2024-07-18	nintendo-fds
+76ec00807b76ae276fd216ec80879dda	Replicart (Japan).fds	nointro 2024-07-18	nintendo-fds
+487ce1d891fd3a36152c1fa0a36d55b1	Risa no Yousei Densetsu (Japan).fds	nointro 2024-07-18	nintendo-fds
+dd8d0ccaa15da2af308985dea5c55bf5	Roger Rabbit (Japan).fds	nointro 2024-07-18	nintendo-fds
+2bca5bf355f5e93c41ff0760a0d4dc84	Sailor Fuku Bishoujo Zukan Vol. 1 (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+bdf9e959c64fbc764d277e7d292a7cff	Sailor Fuku Bishoujo Zukan Vol. 2 (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+c9e9c640bbb6e2297ddadf851a8c1bba	Sailor Fuku Bishoujo Zukan Vol. 3 (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+efef6ee53082d70360fbf62016f47493	Sailor Fuku Bishoujo Zukan Vol. 4 (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+e0183ea4e062569ac5be777cbdc86eea	Sailor Fuku Bishoujo Zukan Vol. 5 (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+b6b09494ec6c2fa0ead05e335cd56844	Sailor Fuku Bishoujo Zukan Vol. 6 (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+10c49f3e6b9cefd4769c52e044aa7692	Samurai Sword (Japan).fds	nointro 2024-07-18	nintendo-fds
+d16a5d40fc7fe527f9fb396eb98b57f3	Santa Claus no Takarabako (Japan).fds	nointro 2024-07-18	nintendo-fds
+c39d148b70ce2834f4a4337ab2bfc682	SD Gundam World - Gachapon Senshi - Scramble Wars (Japan).fds	nointro 2024-07-18	nintendo-fds
+809b68da7da8b22f0c7ac6cfed8e3c90	SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+745da85d17a6275d8af779fd03174c41	SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1).fds	nointro 2024-07-18	nintendo-fds
+d307ae3d07386606cb986ee10dbbb099	SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) (3DS Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+fadf6d08280a703bb9a4dbed3ab3acfd	SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) (Wii Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+6656fac8a9c5297e83448d2fbc33dc7f	SD Gundam World - Gachapon Senshi - Scramble Wars - Map Collection (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+068af7ea21cce8574f1c835c579571ae	Section-Z (Japan).fds	nointro 2024-07-18	nintendo-fds
+c07f699bf36ab4bb961f48f9cfac473e	Seiken Psychocalibur - Majuu no Mori Densetsu (Japan).fds	nointro 2024-07-18	nintendo-fds
+ff65350d6e949a28b83c65943ecb27a3	Sexy Invaders (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+99e7efe2d5187acd29ab8e4b46c57408	Sexy Yakyuuken Adventure II - Gal's Dungeon Part II (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+4c0f529465e57180d2fe18c2ff6c2a2a	Shanghai (Japan) (Proto) (1986-10-16).fds	nointro 2024-07-18	nintendo-fds
+c0d701ce73b0bf40a35eb23f6cfd25fe	Shanghai II (Japan) (Proto) (Dragon Layout).fds	nointro 2024-07-18	nintendo-fds
+4e900efb7ca2beba4e2a85dfcff421c0	Shanghai II (Japan) (Proto) (Scorpion Layout).fds	nointro 2024-07-18	nintendo-fds
+25dde5acf812c1dc5bab53f6d4638a9e	Silviana - Ai Ippai no Little Angel (Japan).fds	nointro 2024-07-18	nintendo-fds
+e6bf27adea0837055f82fc204d9fbf98	Smash Ping Pong (Japan).fds	nointro 2024-07-18	nintendo-fds
+2be4505173df2936b7992030ec4a38e5	Soccer (Japan).fds	nointro 2024-07-18	nintendo-fds
+cb0538f24eb64bda28bc8cc36cbd9b58	Solomon no Kagi (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+635355a5d5b4f744b6ba1f6ad01b0041	Souseiki Fammy - ROM-QD for 256K+64K (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+552c7310d3e27859667aab109305b75b	Suishou no Dragon (Japan).fds	nointro 2024-07-18	nintendo-fds
+ebb671e971b187200bd4f0860e56de43	Sunsoft Dev Disk Lot - 'D167B23' no. 1 (Japan).fds	nointro 2024-07-18	nintendo-fds
+719186e8464469ce76e056803128f8b0	Sunsoft Dev Disk Lot - 'D167B23' no. 2 (Japan).fds	nointro 2024-07-18	nintendo-fds
+f972572a74264df7bb7e6256bae27b81	Sunsoft Dev Disk Lot - 'D167B23' no. 3 (Japan).fds	nointro 2024-07-18	nintendo-fds
+057c550ab6b399f3150b2678b4465c6f	Sunsoft Dev Disk Lot - 'D167B23' no. 4 (Japan).fds	nointro 2024-07-18	nintendo-fds
+69852586a6fb26c71921b6c606232bab	Sunsoft Dev Disk Lot - 'D167B23' no. 5 (Japan).fds	nointro 2024-07-18	nintendo-fds
+68256840e7b5e925c3254ebda66175b9	Sunsoft Dev Disk Lot - 'D167B23' no. 6 (Japan).fds	nointro 2024-07-18	nintendo-fds
+8b9b56fd93cfd97f832773fe4950cd6f	Sunsoft Dev Disk Lot - 'E180L05' no. 1 (Japan).fds	nointro 2024-07-18	nintendo-fds
+735b84f9da0f756a2b8ea95fc0394ff7	Sunsoft Dev Disk Lot - 'E180L05' no. 2 and no. 3 (Japan).fds	nointro 2024-07-18	nintendo-fds
+1531b63bb22a822f9038f7796174fd88	Sunsoft Dev Disk Lot - 'E180L05' no. 4 (Japan).fds	nointro 2024-07-18	nintendo-fds
+89d3075ddca63e9ead02380fe139119f	Sunsoft Dev Disk Lot - 'F087D22' (Japan).fds	nointro 2024-07-18	nintendo-fds
+ceb928ba2383b92eb7cdf632d48e2478	Sunsoft Dev Disk Lot - 'F266F13' (Japan).fds	nointro 2024-07-18	nintendo-fds
+c8a0c9e42d7cc4ff973611eb5a5a324c	Sunsoft Dev Disk Lot - 'G188D21N' no. 1 (Japan).fds	nointro 2024-07-18	nintendo-fds
+2d74ef3d6e1674357459237f55a18039	Sunsoft Dev Disk Lot - 'G188D21N' no. 2 (Japan).fds	nointro 2024-07-18	nintendo-fds
+b5c3852ded92250200e8977200393cbd	Sunsoft Dev Disk Lot - 'G188D21N' no. 3 (Japan).fds	nointro 2024-07-18	nintendo-fds
+fc8eef4b2bbd39c910c0688dd390b34a	Sunsoft Dev Disk Lot - 'J226I22' no. 1 (Japan).fds	nointro 2024-07-18	nintendo-fds
+91711f057e3e7ba9e45ed6ec781c6f84	Sunsoft Dev Disk Lot - 'J226I22' no. 3 (Japan).fds	nointro 2024-07-18	nintendo-fds
+e50df365e0beaefa022e2f6af3b53451	Sunsoft Dev Disk Lot - 'K057G06' (Japan).fds	nointro 2024-07-18	nintendo-fds
+81db3c8a65400616d89903c913419c89	Super Boy Allan (Japan).fds	nointro 2024-07-18	nintendo-fds
+922d882527e0007d1b48851aac665a7e	Super Lode Runner (Japan).fds	nointro 2024-07-18	nintendo-fds
+18c5674aaf15201ff32fe22e0b3b112b	Super Lode Runner II (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+293303fe565de2333bc1e4115d38fa3f	Super Mario Bros. (Japan).fds	nointro 2024-07-18	nintendo-fds
+7f38210a8a2befb8d347523b4ff6ae7c	Super Mario Bros. 2 (Japan) (En).fds	nointro 2024-07-18	nintendo-fds
+f62909ad7125ed94ef0fc1d44164a518	Super Mario Bros. 2 (Japan) (En) (DV 2).fds	nointro 2024-07-18	nintendo-fds
+b210c0f117d46819cc81720ff521d762	Super Mario Bros. 2 (World) (GameCube, Wii and Wii U Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+2a322bd3832945cf8d5f71644a9e2135	Super Mario Bros. 2 (Japan) (En) (Game & Watch - Super Mario Bros.).fds	nointro 2024-07-18	nintendo-fds
+f728dbcda8c54a8a7f83c9d413142f3d	Super Yume Kojo (Japan) (Pirate).fds	nointro 2024-07-18	nintendo-fds
+1547c76d011f191b3ba98f4576c63dc5	Tama & Friends - Sanchoume Daibouken (Japan).fds	nointro 2024-07-18	nintendo-fds
+40009723f37205f9dadafece6b5f6a5e	Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan).fds	nointro 2024-07-18	nintendo-fds
+7f3f4a66ae195badf5a1d81659cc8d70	Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan) (Beta) (1987-11-13).fds	nointro 2024-07-18	nintendo-fds
+23dcdb7daf623db5c8d8aa1da1d789fb	Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi - Shinban Tsumeshougi - Tsugi no Itte (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+38ebd16b064832c019771ce584c77bc7	Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan).fds	nointro 2024-07-18	nintendo-fds
+f2a451ae1ff8c6c21d9f8dfe1c7713b4	Tantei Jinguuji Saburou - Kiken na Futari - Kouhen (Japan) (Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+ed8861840da220d4efe8a982e6b19459	Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan).fds	nointro 2024-07-18	nintendo-fds
+dc1b4830367095369d0d34a7725521b0	Tantei Jinguuji Saburou - Kiken na Futari - Zenpen (Japan) (Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+6d235e48e56f22f933cea9b2f06da909	Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan).fds	nointro 2024-07-18	nintendo-fds
+a31105d86cbc839c7fa0fcee281a5b84	Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+b17c31288607f1d26da312a65ad17234	Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+b225bc8286f379a5bd7cc5a7c99a2c35	Tarot Uranai (Japan).fds	nointro 2024-07-18	nintendo-fds
+a4633a2572302cae0db034e34f6c909e	Tennis (Japan).fds	nointro 2024-07-18	nintendo-fds
+cdddaea7fbffab05c03ecd3beb9c97ec	Tenshitachi no Houkago (Japan) (Disk 1) (Unl).fds	nointro 2024-07-18	nintendo-fds
+bd02af9406f6e648f8e0663c91fe7039	Tenshitachi no Houkago (Japan) (Disk 2) (Unl).fds	nointro 2024-07-18	nintendo-fds
+134f65bd93a5e5c0abab3e560ff146a8	Time Twist - Rekishi no Katasumi de... - Kouhen (Japan).fds	nointro 2024-07-18	nintendo-fds
+6012efc460e648f48504f2c1d9bf4043	Time Twist - Rekishi no Katasumi de... - Zenpen (Japan).fds	nointro 2024-07-18	nintendo-fds
+089d20e91e17a0c9c1871cad1a7bb0f4	Titanic Mystery - Ao no Senritsu (Japan).fds	nointro 2024-07-18	nintendo-fds
+73bb054ecb2b710a19d79467e99af80e	Tobidase Daisakusen (Japan) (Famicom 3D System).fds	nointro 2024-07-18	nintendo-fds
+e19fcb32ff02b557b55cc39d6a9377e6	Tonkachi Editor (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+e0f53a8479e77719e024adc139a0a8e4	Tooyama no Kinsan Space Chou - Mr. Gold (Japan).fds	nointro 2024-07-18	nintendo-fds
+c2f4ae141ac73daa00b70d9c71338506	Topple Zip (Japan).fds	nointro 2024-07-18	nintendo-fds
+ebb3ccd86e68de110b4fe528129d52d5	Topple Zip (Japan) (Project EGG).fds	nointro 2024-07-18	nintendo-fds
+58c19695e9050cafa383fc4464729ccd	Transformers - The Headmasters (Japan).fds	nointro 2024-07-18	nintendo-fds
+087bc15b6c352f7b270b6ace0feecc2c	TwinBee (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+d4e6e916e559aec3b6c14d51c4d96850	Ultraman - Kaijuu Teikoku no Gyakushuu (Japan).fds	nointro 2024-07-18	nintendo-fds
+bbd0ba54490bdbddf97ad6042f6205d2	Ultraman - Kaijuu Teikoku no Gyakushuu (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+f4eb6d2e54b67a85d8e0957103b7fbe7	Ultraman 2 - Shutsugeki Katokutai (Japan).fds	nointro 2024-07-18	nintendo-fds
+a19a8f966590f0e7dca455c2af311485	Ultraman Club - Chikyuu Dakkan Sakusen (Japan).fds	nointro 2024-07-18	nintendo-fds
+1b2adc69d70c35a76d315e87db97b1e5	Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1).fds	nointro 2024-07-18	nintendo-fds
+a1f9de6f87becf29d3fc0c7e5aa68ad6	Volleyball (Japan).fds	nointro 2024-07-18	nintendo-fds
+8681dd0370e520d52274ebd5dd7eac24	Vs. Excitebike (Japan) (En).fds	nointro 2024-07-18	nintendo-fds
+d07f5f79e9fd1ccdd219637ee630aee6	Vs. Excitebike (Japan, USA) (En) (Virtual Console).fds	nointro 2024-07-18	nintendo-fds
+59580324fc6aa2cbce2b4223674b111f	Wakusei Aton Gaiden (Japan) (National Tax Agency Demo).fds	nointro 2024-07-18	nintendo-fds
+a8c72c53db21604dc94d1988c2179095	Wardner no Mori (Japan).fds	nointro 2024-07-18	nintendo-fds
+b77dd9ab677fe8f081c406844108ea3d	Winter Games (Japan).fds	nointro 2024-07-18	nintendo-fds
+468abbe42aba80d5859abdcfe6ea7995	Wrecking Crew (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+c02c267c6cb0d8e3a263ef2ff54dc1a5	Xevious (Japan) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+1ffb8b1f5c91f0c3f47eb45c7cc9cd54	Yakyuuken Part II - Gal's Dungeon (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+ed934f1d3db315a20d110470fd824940	Youkai Yashiki (Japan).fds	nointro 2024-07-18	nintendo-fds
+dde8a651a7a57d58f1a0e6ad576f99c5	Yume Koujou - Doki Doki Panic (Japan) (DV 2).fds	nointro 2024-07-18	nintendo-fds
+8bbb37133ffbc3189bef2625665956e0	Yume Koujou - Doki Doki Panic (Japan) (DV 1).fds	nointro 2024-07-18	nintendo-fds
+e01b342774822fb15ea1c4d684ee21dd	Yuu Maze (Japan).fds	nointro 2024-07-18	nintendo-fds
+e01786932621e53e749260d2a4a4b3ee	Yuushi no Monshou - Deep Dungeon (Japan).fds	nointro 2024-07-18	nintendo-fds
+3ec9ffdfc07de369c9faf4de17d4d9e0	Yuushi no Monshou - Deep Dungeon (Japan) (Rev 1) (Disk Writer).fds	nointro 2024-07-18	nintendo-fds
+27c2ce4fd60739b39bb6f30c1ab558f0	Zanac (Japan).fds	nointro 2024-07-18	nintendo-fds
+d852a35f92404e01b61eb85a122d09c8	Zatsugaku Olympic Quiz - Watanabe Wataru Hen (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+a7f5cab4367f60dfe1844bbda5c3add6	Zatsugaku Olympic Quiz Part II (Japan) (Unl).fds	nointro 2024-07-18	nintendo-fds
+5c0785479d5149f18f77d23ddba1df41	Zelda no Densetsu - The Hyrule Fantasy (Japan).fds	nointro 2024-07-18	nintendo-fds
+18d20a07fd107d9db045451578914c94	Zelda no Densetsu - The Hyrule Fantasy (Japan) (Rev 1).fds	nointro 2024-07-18	nintendo-fds
+d295f0282b1a8718a189af3d2cf3dc8f	Zelda no Densetsu - The Hyrule Fantasy (Japan) (Beta) (1985-12-28).fds	nointro 2024-07-18	nintendo-fds
+e54440c35bd79ebe3f4bd271adac7178	Zelda no Densetsu - The Hyrule Fantasy (Japan) (GameCube).fds	nointro 2024-07-18	nintendo-fds
+659c5f15e548cd4075091c6e9b7f4893	Zelda no Densetsu - The Hyrule Fantasy (Japan) (Collector's Edition).fds	nointro 2024-07-18	nintendo-fds
+4d4a13629aeac9407ec40f59954cd8c5	Zelda no Densetsu - The Hyrule Fantasy (Japan) (Virtual Console).fds	nointro 2024-07-18	nintendo-fds
