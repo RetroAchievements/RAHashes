@@ -1,0 +1,76 @@
+b6ac76190e8d92e090fcdc542aa4e3f1	Eiken Jun 2-kyuu + 3-kyuu (Japan) (2BK922).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+cc95a49f8eac9166933209ed39d3c459	Shinkenzemi 'Chuugaku Kouza' - Chuu 1 Eigo (Japan) (5BB111NH).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+62b3de0d015df205aac2f29f3661cd36	Shinkenzemi 'Chuugaku Kouza' - Chuu 1 Eigo (Japan) (5BB112SS).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+6e0a21375f5906d2be3f84a9ceca1094	Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo (Japan) (5BB211NH).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+351644b1ed5427af28cd4a46ddf54399	Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo (Japan) (5BB212SS).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+74f1362df47dcb6abf48458e9eecfa34	Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo (Japan) (5BB215OW).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+21a46ea8c0e851f4e0c7446b0c295839	Shinkenzemi 'Chuugaku Kouza' - Chuu 3 Eigo (Japan) (6BB311NH).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+3239284914b2270d209c8782fd4072a0	Shinkenzemi 'Chuugaku Kouza' - Chuugaku Chiri (Japan) (6BD410) (Alt).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+5ac662b3426d28d2ce388b87f92926e1	Shinkenzemi 'Chuugaku Kouza' - Chuugaku Chiri (Japan) (6BD410).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+845ee87472b49530a5d77c24effd7455	Shinkenzemi 'Chuugaku Kouza' - Chuugaku Koumin (Japan) (6BE310).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+442eb19f4b2eae41e9487b4011792aad	Shinkenzemi 'Chuugaku Kouza' - Chuugaku Rekishi (Japan) (5BC410) (Alt 2).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+b7f973e0d60c0bec44bc00ae80649307	Shinkenzemi 'Chuugaku Kouza' - Chuugaku Rekishi (Japan) (5BC410) (Alt).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+a43876f56624f218053ce9dc75e4d7d6	Shinkenzemi 'Chuugaku Kouza' - Chuugaku Rekishi (Japan) (5BC410).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+fdecb8e652a4465d3988273d7d707c05	Shinkenzemi 'Chuugaku Kouza' - Koukou Juken (Ei - Sha - Ri) (Japan) (6BI711).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+568412ad7987dce79120a2dc20c541f4	Shinkenzemi 'Chuugaku Kouza' - Koukou Juken (Koku - Suu) (Japan) (6BI712).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+71d0ce10377654db516cfaffbeec3f5e	Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (Japan) (0BB111NH - 7BB111NH).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+67946c2f71069a7f3e1f4e54a2a3487c	Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (Japan) (0BB113NC - 7BB113NC).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+365c860a34c40308dab1f2b1b0c53d16	Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (Japan) (7BB112SS).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+103d20df38575156c7771a33b9a3df4c	Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (Japan) (7BB115OW).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+6cf2cbe32d5409c802b91ed59a63c069	Shinkenzemi Chuugaku Kouza - Chuu 1 Suugaku (Japan) (1BM111).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+7423837a76db0e97febf9b3d8a4dede2	Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (0BB211NH - 7BB211NH).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+43cc4359e5818816d94c0607abe25453	Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (7BB212SS).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+8fe25357923fa99d15305e3fa8b3db68	Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (7BB213NC).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+fe071a049134a7b5c913f13d4e247c83	Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (7BB214TE).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+148d05e8938869e1c013216170b21c4b	Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (7BB215OW).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+ab8ff466b7bddb044075e9994d4e3778	Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (New Horizon, Columbus 21) (Japan) (2BB211).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+86b6c5489537b10131d33902c958eb0c	Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (0BB311NH - 7BB311NH).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+be7b7d927790deb7ecaba7420d0d9fa1	Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (0BB313NC - 7BB313NC).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+4f9065a4a20aaa1ed633471004b78c9e	Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (0BB314TE).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+262302dc1e38145d6a3dbbe445cfef0d	Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (0BB315OW - 7BB315OW).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+d08f0c7fd13fc7f28d19a019eb0e5dd3	Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (7BB312SS).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+efe3fe6abd98a89764a8e9d243ae4416	Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (7BB317CB).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+a73f8a6d8c55ce98f3887941f657f24b	Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (New Horizon, Columbus 21) (Japan) (2BB311).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+ad5187ce9f82c6fd7c6c89896d6fb63b	Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (Japan) (0BD400) (Alt).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+711e379bd149491495e5613492aa9046	Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (Japan) (0BD400).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+ad8613900367019f8f22e0d3e526d278	Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack (Chiri Soft - Rekishi Soft Kanzen Taiou Ban) (Japan) (8BD400).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+1ea6f4f778ac861cb414cda8920f5920	Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (0BD410).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+8315ee2bf51e071d25d3d83454d64a73	Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (1BD411).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+ba5ad15d658198e54da406dacbb2198b	Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (7BD410).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+08d85a36ba346ffaa5e71f6683026ae8	Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (9BD410 - 9BD411).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+b45a600bbea7472f0e4c945f949055dd	Shinkenzemi Chuugaku Kouza - Chuugaku Kokugo - Hyakunin Isshu (Japan) (1BK401) (Alt).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+98217fe8495f84af98265857d52f77bc	Shinkenzemi Chuugaku Kouza - Chuugaku Kokugo - Hyakunin Isshu (Japan) (1BK401).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+9e20e7139f5b230461a7ae7394a7bcf0	Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (Japan) (0BE310 - 7BE310).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+98a018cf8749cdbf419d81ab926ecb7b	Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (Japan) (0BE311).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+3298959243575885b3437d5a5f39b175	Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (Japan) (2BE310).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+59d6191015e46cedebbcb57061c08ab4	Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi (Japan) (0BC410).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+bb2b483d60204530cc6dfd488b69eb9f	Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi (Japan) (7BC410).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+16c361e2f23c3abd6c80f18d7551cac1	Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (1BF411).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+a982d3eac497d33612a2e24f8d5169b2	Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (7BF411).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+16142ea3f4a169b542e4f9fded5354f1	Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (Rev 1) (7BF411).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+f3c2112c87b6b176d67fac83827fe327	Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (0BF412).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+25898aeaa329404e0ce0653ed2611e2d	Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (1BF412).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+43b246d5c148633880c71316dc2fe121	Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (7BF412).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+07867610752373e116703eb18821ad78	Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (Rev 1) (7BF412).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+0684320e9e8ace78a10a47d417b8fdbb	Shinkenzemi Chuugaku Kouza - Chuugaku Rika (Japan) (0BF411).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+2a711a45a1cef29bdd07acf08eaf109b	Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (1-bunya - Soft 2-bunya Soft Kanzen Taiou Ban) (Japan) (8BF400 - 9BF400).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+3d44b9dd833b5c97438524722791ba4a	Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (0BF400).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+fffd09272f2e0d48d9459749d2963146	Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (1BF400).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+a0ea98fcb9dd09913502222c64e4b920	Shinkenzemi Chuugaku Kouza - Hinshutsu Nihonshi Kouryaku (Japan) (8BCD02).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+99092f73048e703840e467201efb7ace	Shinkenzemi Chuugaku Kouza - Hinshutsu Sekaishi Kouryaku (Japan) (8BCD01).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+18024b2c136c5ecfeb26fd99451421ca	Shinkenzemi Chuugaku Kouza - Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (Japan) (9BG410).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+c621b460bdf73dc17283d3ad19d8bcf7	Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (Japan) (0BI711).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+c9e21e67905fd931ff60461158c8d46f	Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (Japan) (1BI711).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+c089e348dc1873eed4fe1f09f2444f23	Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (Japan) (7BI711).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+ad115e429019ce318df4104d6b7ebcba	Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (Japan) (9BI711).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+4695c40f2d4754d4da0970a6d729d89a	Shinkenzemi Chuugaku Kouza - Koukou Juken (Koku - Suu) (Japan) (7BI712).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+ee4d2ca8daf351796efb9e3e9222e45c	Shinkenzemi Chuugaku Kouza - Koukou Juken (Koku - Suu) (Japan) (9BI712) (Alt).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+e71ae6712fec513bb41d511f01e2ee0f	Shinkenzemi Chuugaku Kouza - Koukou Juken (Koku - Suu) (Japan) (9BI712).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+4e377babd9e0b3b905476ce49d7d3f01	Shinkenzemi Chuugaku Kouza - Koukou Juken EX (Yuugou - Shiryou Mondai Kouryaku) Rika Shakai (Japan) (3BI710).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+35a65c9750d2bbd9172ef54b5a0e917c	Shinkenzemi Koukou Kouza - Daigaku Juken Series - Hinshutsu Eijukugo (Japan) (7BBD02).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+3d7e2cc50c5ffe1b2dc806660b14d153	Shinkenzemi Koukou Kouza - Daigaku Juken Series - Hinshutsu Eitango (Japan) (7BBD01).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+2d727db788714dc6b70e87b180415163	Shinkenzemi Koukou Kouza - Daigaku Juken Series - Juuyou Eigo Koubun (Japan) (7BBD03).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+a70f0fe4ee8617153f7665cebad97acf	Shinkenzemi Koukou Kouza - Hinshutsu Nihonshi Kouryaku (Japan) (9BCD02).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+e3e1fc49a16838de72ce440ed8cd793e	Shinkenzemi Koukou Kouza - Hinshutsu Sekaishi Kouryaku (Japan) (9BCD01).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+69b1ff24fae4464ca339cd3de270d62f	Shinkenzemi Koukou Kouza - Juuyou Kobun Kouryaku (Japan) (0BKD01).pcw	nointro 2024-06-28	benesse-pocketchallengeW
+d52a62cc344c950eff2c4ee0339b6c3b	Shinkenzemi Koukou Kouza - Juuyou Kobun Kouryaku (Japan) (8BKD01).pcw	nointro 2024-06-28	benesse-pocketchallengeW

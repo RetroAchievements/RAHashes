@@ -244,4 +244,12 @@ fe87f3053a6579e3bcb3fef3332aabfa	Legend of Spyro, The - The Eternal Night (Europ
 998dcdf117ea63ba64ff37335a0719a4	Slaughter Sport (USA).md	nointro 2024-03-29	sega-md
 382b6ac84821521759c6f6adb7829307	Switchblade (World) (Aftermarket) (Unl).md	nointro 2024-03-29	sega-md
 998dcdf117ea63ba64ff37335a0719a4	Slaughter Sport (USA).md	nointro 2024-03-29	sega-md
+8c91af1e9f60e7577219176f18cefb76	2 in 1 Game Pack - Spider-Man + Spider-Man 2 (USA) (En,Fr,De+En,Fr,De,Es).gba	nointro 2024-08-21	nintendo-gba
+6d9066321fcd3bb6c85d4747b0c824a0	Dragon Ball - Final Bout (Taiwan) (Unl).gbc	nointro 2024-08-21	nintendo-gbc
+3cef1045930f93d8514882dd9cc03d25	Championship 2015 (World) (Beta) (www.retroPLAYER.nl) (Aftermarket) (Pirate) (Alt).nes	nointro 2024-07-31	nintendo-nes
+b1845086f9befe6e99b13652b93bfb29	Fuzhou Coolboy 400-in-1 Real Game (World) (Aftermarket) (Pirate) (Alt).nes	nointro 2024-07-31	nintendo-nes
+c67dc3b380109a6b0dfe986a9ee50b5b	Kira Kira Star Night DX (USA) (Aftermarket) (Unl) (Alt).nes	nointro 2024-07-31	nintendo-nes
+7e0a66f23c986e176f6ed14df40553ee	Winner Is You, A (World) (Aftermarket) (Unl).nes	nointro 2024-07-31	nintendo-nes
+
+
 

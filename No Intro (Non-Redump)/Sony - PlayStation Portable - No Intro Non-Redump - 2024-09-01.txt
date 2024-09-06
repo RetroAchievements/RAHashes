@@ -7,12 +7,17 @@ eea243312da997ebc257a7a1d75680b2	77 - Beyond the Milky Way (Japan) (v1.01).iso
 90b6366795d018b1466fd786d27c835b	Abamama Osheotda! Eoseo Gullyeora! (Korea).iso
 2b95183628d8353a210ecae5d55e2343	Aedis Memories - Shintenmakai Generation of Chaos V (Japan) (v1.03).iso
 916ab4ba57302774bc45c1486873c090	Aedis Memories - Shintenmakai Generation of Chaos V (Korea) (v1.02).iso
-4547b1fdc6c72b6659aacc4fae9accd1	AIR (Japan) (v1.02).iso
 21879a02c5f49a81ad9f30281cb02786	AI Shogi (Japan) (v1.04).iso
+4547b1fdc6c72b6659aacc4fae9accd1	AIR (Japan) (v1.02).iso
 00b2a8f9eba69eed01b3016b40d0cf74	Akane Iro ni Somaru Saka Portable (Japan) (v1.01).iso
 4145520af451bb02f5da5a588e5c6735	Akatsuki no Amaneka to Aoi Kyojin (Japan) (v1.02).iso
+f6b4bbdfd597e1edb7e6c67df6bb1792	Akatsuki no Goei Trinity (Japan) (v1.01) (Disc 1).iso
+8da2eec79091b4d7dffa8a610b6b13fb	Akatsuki no Goei Trinity (Japan) (v1.01) (Disc 2).iso
+2398749849d636fd15062e3cba11cd4a	Akaya Akashiya Ayakashino (Japan) (v1.02) (Disc 1).iso
+09a3810ea5416c593c215d6156fdb7a2	Akaya Akashiya Ayakashino (Japan) (v1.02) (Disc 2).iso
 0db666cfb749e91c173920ab3fc5067d	Akiba's Trip Plus (Japan) (v1.02).iso
 ba8bcd355c64ca14831be579bc0be9a4	Akudaikan Manyuuki - Seigi no Yaiba (Japan) (v1.01).iso
+7599f48852b866045a2ba763eaa7173e	Amatsumi Sora ni! Kumo no Hatate ni (Japan) (v1.01) (Disc 2).iso
 62afe450823a5a9bb740639916fabcb4	Angelique Retour (Japan).iso
 c6892517034306534592b16a2096077c	Antiphona no Seikahime - Tenshi no Score Op.A (Japan) (v1.01).iso
 44385740988b126525b02639a53eb762	Aoi Sora no Neosphere Portable - Nanoca Flanka Hatsumei Koubouki 2 (Japan) (v1.01).iso
@@ -26,6 +31,7 @@ e1b7a854e11b6e48b467a0d0665e87bc	Arms' Heart (Japan) (v1.02).iso
 aaf98ee8d45ea4266b27a80011f44f07	Army of Two - The 40th Day (Japan).iso
 3e70c068851227c6bcb1e0f7131ef9c9	Astonishia Story (Japan) (v1.02).iso
 9023c1a462e2d774db65263c505c76d2	Atom (Japan) (v1.01).iso
+e1abfacdaee181e98c6104ee21a4c0e2	B's-LOG Party (Japan) (v1.02).iso
 949c35e6f423c9b21fa07443b22493e5	Baka to Test to Shoukanjuu Portable (Japan) (v1.01).iso
 0c148a4ebd101cabdc6ba01973c38c4c	Bakudan-Handan (Japan) (v1.01).iso
 febfb74635bf00be2244ffe0510fd0d4	Bakumatsu Rock - Ultra Soul (Japan) (v1.01).iso
@@ -44,16 +50,15 @@ eebd6f7c0ec5295d208400b00fe59694	Black Code (Japan) (v1.03).iso
 460f0abd65e85112ec77d2d4c7f2cf2a	Blaze Union - Story to Reach the Future (Japan).iso
 dc6472c26f9213ae3fff82ac04b15e93	Blazing Souls - Accelate (Japan) (v1.02).iso
 b948cc6518936bac8f88d8ef18fe1d21	Bleach - Heat the Soul 7 (Asia).iso
+bd341aec785150f96287cf8725ee4c58	Bleach - Soul Carnival (Asia).iso
 299a9d8000b96e9f4b8244fedf9a6f01	Bleach - Soul Carnival 2 (Asia).iso
 c3e3db9b6c1ecd3f3b4bbecd1c0940b9	Bleach - Soul Carnival 2 (Japan).iso
-bd341aec785150f96287cf8725ee4c58	Bleach - Soul Carnival (Asia).iso
 c4a60bc9b55fdbc25343080f8e34f493	Blokus Club Portable with Bumpy Trot (Japan) (v1.02).iso
 fbdb3b39b4b6a5eb8b88296920da526c	Blue Roses - Yousei to Aoi Hitomi no Senshitachi (Japan) (v1.01).iso
 568bbc597c66239360b6714a540189ef	Boku wa Koukuu Kanseikan - Airport Hero Haneda (Japan) (v1.01).iso
 3df2a5d9e8c0502ba78e2008d2807164	Boku wa Koukuu Kanseikan - Airport Hero Kankuu (Japan) (v1.01).iso
 df83f53ce18cd8b014fe92b35ddaa84d	Brandish - The Dark Revenant (Japan).iso
 a926df67e329f5c59b4afd9fa9eb091d	Brave Story - Aratanaru Tabibito (Japan).iso
-e1abfacdaee181e98c6104ee21a4c0e2	B's-LOG Party (Japan) (v1.02).iso
 ca4032d9a485558504bc0215602eea2f	Bubble Bobble - Evolution (USA) (v1.01).iso
 0b4d27f2b1aa993277633f1fc7874a2e	Bullet Butlers - Juudan no Kanata (Japan) (v1.05).iso
 658d5d5e4d31c8a060083dd23c3794ae	Bunmei Kaika - Aoiza Ibunroku Saien (Japan) (v1.01).iso
@@ -73,18 +78,20 @@ cea85cf6848d2e9e6a71341d52227a3c	Chuugen no Hasha - Sangoku Shouseiden (Japan) (
 3ed2904a644406ace51d07c7725f654f	Chuukana Janshi Tenhoo Painyan Remix (Japan) (v1.01).iso
 82e73b273f31cc425a5eac96d7d3f480	Clannad - Hikari Mimamoru Sakamichi de Gekan (Japan) (v1.01).iso
 93d657a60535e0c33f9735781407ff98	Clannad - Hikari Mimamoru Sakamichi de Joukan (Japan) (v1.02).iso
+c95e20b1501f5b648b7356d7f8f7dae7	Clannad (Japan) (Disc 1).iso
+aa09bc72b31f9217fcbb43a03ddf4614	Clannad (Japan) (Disc 2).iso
 7e10accaada489a18d9efa9d1e8a0880	Classic Dungeon X2 (Japan) (v1.02).iso
 c00e8bb81f272a2bb6a46ad7b63cd204	Clover no Kuni no Alice - Wonderful Wonder World (Japan) (v1.01).iso
+a4ca51d47f4aa9ac101bbf29ddbb98d3	Code Geass - Hangyaku no Lelouch - Lost Colors (Japan) (v1.01).iso
 76360e6ab206eea9b243e733e40c9f47	code_18 (Japan) (v1.02).iso
 4b2ce863c1ed066fa115f35c37f2c5f5	Coded Arms - Contagion (Japan) (v1.02).iso
 362669d34d5705c77f166bde1e7aad1f	Coded Gun - Contagion (Korea) (En) (v1.02).iso
 436d46d45005a8d8847d485de449babf	Coded Soul (Asia).iso
-a4ca51d47f4aa9ac101bbf29ddbb98d3	Code Geass - Hangyaku no Lelouch - Lost Colors (Japan) (v1.01).iso
 bbf05cc5b6d493efdd0b1a28ca335892	Colin McRae - DiRT 2 (Japan) (v1.01).iso
 a83a0626eda99409108147a847147fe3	Colin McRae Rally (Japan) (v1.03).iso
 3b22207372e359138a0cab578c9a28c3	Comic Party Portable (Japan) (v1.08).iso
-7c29974087af974e7c4eab4bc9189fbd	Conception - Ore no Kodomo o Unde Kure!! (Japan) (v1.01).iso
 a3eb6a62e0babac7113c392f2446a49c	Con - Gamble Fight, The (Korea) (v1.01).iso
+7c29974087af974e7c4eab4bc9189fbd	Conception - Ore no Kodomo o Unde Kure!! (Japan) (v1.01).iso
 4c9e57a1c37671a4b75724dbce86c647	Conveni Portable, The (Japan) (v1.02).iso
 744ef6ef2c316faf0e7b435c37ab9d72	Corpse Party - Book of Shadows (Japan).iso
 afcddc602f5d0022698cdeb0ccf8e129	Corpse Party - The Anthology - Sachiko no Renai Yuugi - Hysteric Birthday 2U (Japan) (v1.01).iso
@@ -92,12 +99,15 @@ afcddc602f5d0022698cdeb0ccf8e129	Corpse Party - The Anthology - Sachiko no Renai
 f7f7120005a1bd4621763151945c9481	Crazy Taxi - Double Punch (Japan) (v1.02).iso
 bd54de7ba1cd7655b64adcb7fe940b7a	Cream Stew mo Minagara Iroiro Gochagocha Ittemasukedomo - Warai no Tamago L Size - Ohitorisama Nankai demo (Japan).iso
 94502dd57ff1d50864c42dd37dd96048	Crimson Empire (Japan) (v1.01).iso
-2a7ac2ab53011d68c75ecda7364106fe	Crimsongem Saga (Asia) (En) (v1.05).iso
 1040cb74b1532e801176adf93ceb8a67	Crimson Room Reverse (Japan) (v1.01).iso
+2a7ac2ab53011d68c75ecda7364106fe	Crimsongem Saga (Asia) (En) (v1.05).iso
 d201a3e132e234850c29ae7074473151	Crisis Core - Final Fantasy VII (Asia) (En).iso
 64e648bae788bb2dca1ffdfa06eac82e	Crisis Core - Final Fantasy VII (Japan) (v1.01) (10th Anniversary Limited Edition).iso
 fd1dbdd7f7c43cebc99b579545d82e19	Cross Channel - To All People (Japan).iso
 a5fe69b28a7f444c9d578b31d1dd4819	Custom Drive (Japan) (v1.03).iso
+56845d3c43a7e6d2ab63b46e35bee0eb	D.C. III + (Japan) (v1.01).iso
+333b7527817541daff16c654b3e51883	D.C.I&II P.S.P. -Da Capo I&II- Plus Situation Portable (Japan) (Disc 1).iso
+b74dc10a06485b27541c037db1dce93e	D.C.I&II P.S.P. -Da Capo I&II- Plus Situation Portable (Japan) (Disc 2).iso
 bd40bb69d197e9398d18b16536bb5875	Daikuugun (Japan) (v1.03).iso
 80ab4e6bf2f291fc886997d645bf0fb2	Daisenryaku - Daitoua Kouboushi - Dainiji Sekai Taisen Boppatsu (Japan) (v1.01).iso
 b451abf435a86404629e203dc0ad3431	Daisenryaku - Daitoua Kouboushi - Tora Tora Tora Ware Kishuu ni Seikou Seri (Japan) (v1.01).iso
@@ -111,17 +121,18 @@ ecb3d4bbbfa07eedabc76feb6f86cb66	Daisenryaku VII Exceed (Japan) (v1.01).iso
 e4a47785b1a81d29152544ae0797c17a	Danzai no Maria - La Campanella (Japan) (v1.04).iso
 191a1d588af57a6d2bac1591e209295e	Daxter (Europe) (En,Fr,De,Es,It,Ko) (Beta) (2006-02-10) [b].iso
 87788321725f71a006244c959911ee0f	Daxter (Korea) (En,Fr,De,Es,It,Ko).iso
-56845d3c43a7e6d2ab63b46e35bee0eb	D.C. III + (Japan) (v1.01).iso
 b37acd9fd38519698e0ce5423757dfd9	Dead End - Orchestral Manoeuvres in the Dead End (Japan) (v1.04).iso
+32bf8919bafd33e8a3b69284dda07efc	Dead Head Fred - Kubinashi Tantei no Akumu (Japan) (v1.03).iso
 a711675a5d4b7506b15531a5d31d3683	Dead Head Fred (Asia) (En).iso
 f3245c8c1c72ed6eb71b094481089577	Dead Head Fred (Europe) (En,Fr,De,Es,It).iso
-32bf8919bafd33e8a3b69284dda07efc	Dead Head Fred - Kubinashi Tantei no Akumu (Japan) (v1.03).iso
 464c47d987a46dac9b324526c292ec1b	Deardrops Distortion (Japan) (v1.03).iso
 61993522ec82ed6b4a3108f2a45b4e2c	Death Connection Portable (Japan) (v1.01).iso
 9434672dfa8670856abbd95e68155e63	Dengeki no Piroto - Tenkuu no Kizuna (Japan) (v1.02).iso
 507db39c906652b96c3faae63ba60e56	Derby Stallion P (Japan) (v1.03).iso
 d0ba87a4dfde73cb2d8c9ef77b34cd84	Desert Kingdom Portable (Japan) (v1.01).iso
 c7e9edbb4259481e54487c877bd8b880	Dice Dice Fantasia (Japan) (v1.01).iso
+efb1d15d5f32959b073dfbb2e1fa7068	Dies Irae - Amantes Amentes (Japan) (v1.02) (Disc 1).iso
+516ada7d40777a4d97b939c45044ed5d	Dies Irae - Amantes Amentes (Japan) (v1.02) (Disc 2).iso
 a093bcf1f4c76776f10e5a36e39c8df1	Disgaea Infinite (Japan).iso
 bc686e00a35ea5e9ae4abc0ab4080d67	Dissidia - Final Fantasy (Europe) (En,Fr,De,Es,It) (Beta).iso
 7e0281e68cebac3679e0ad26ce2977f7	Dissidia - Final Fantasy (USA) (Demo).iso
@@ -137,6 +148,7 @@ a966ebf89e26c8ae2f87302433844692	Dragon Ball Z - Shin Budokai 2 (Japan) (v1.02).
 abcb9a94a7e47a724fa0c88bf0e931ce	Dragon Dance (Japan).iso
 69e60d994140a9a852609991374275ff	Dunamis15 (Japan) (v1.01).iso
 7100d66c42192e87b307c1cacee70c25	Dungeon Travelers 2 - Ouritsu Toshokan to Mamono no Fuuin (Japan) (v1.02).iso
+f351534cc2389925f78a6e2023513230	E'tude Prologue - Yureugoku Kokoro no Katachi Portable (Japan) (v1.02).iso
 6f9ee036d253a4e8e672ac1877a2577c	Eien no Aseria - Kono Daichi no Hate de (Japan) (v1.02).iso
 e13c799dd9b7cf7a2c581327f0eca697	Eikoku Tantei Mysteria (Japan) (v1.09).iso
 0acb413a3aacdc14101d9f33a724d7a4	Eiyuu Densetsu - Sora no Kiseki the 3rd (Japan) (v1.01).iso
@@ -149,28 +161,27 @@ ada8c210abc32effbd419c44100f11ae	Elder Scrolls Travels, The - Oblivion (USA) (Pr
 aab08eca240bd2d0852980c99770d6a8	Elminage Ibun - Ame no Mihashira (Japan) (v1.02).iso
 cd15eea6526951d6959a8ed092a93187	Entaku no Seito - The Eternal Legend (Japan).iso
 8142f37837b80abd3bb7f0337ebc85cd	Eternal Etude - Canvas 4 (Japan) (v1.01).iso
-f351534cc2389925f78a6e2023513230	E'tude Prologue - Yureugoku Kokoro no Katachi Portable (Japan) (v1.02).iso
 84caf6acea35721eb064aba94da36e09	Ever17 - The Out of Infinity Premium Edition (Japan).iso
 f6ac4ec14b0b5e4a8faafe64997f5ec0	Everybody's Tennis (Asia) (En,Zh) (v1.01).iso
 a2375a88f35deff4e4c91843348f8c47	Exciting Pro Wrestling 7 - SmackDown! vs. RAW 2006 (Japan) (v1.02).iso
-0b60b47d6ac730a61a0a92db6cdb85dd	Eye of Judgment, The - Shintaku no Wizard (Japan).iso
-81d0d2c518eb97a7e9ef881179a5e200	Eye of Judgment, The - Shintaku no Wizard (Japan) (Beta) (2009-09-28).iso
 38b1c985d3b51828f6d05d57d72d4933	Eye of Judgment, The - Shintaku no Wizard - Taikenban (Japan) (Demo) (System 5.50).iso
+81d0d2c518eb97a7e9ef881179a5e200	Eye of Judgment, The - Shintaku no Wizard (Japan) (Beta) (2009-09-28).iso
+0b60b47d6ac730a61a0a92db6cdb85dd	Eye of Judgment, The - Shintaku no Wizard (Japan).iso
 bd90e1f8379704f18b5109414dfeae33	F1 2009 (Japan) (v1.02).iso
 b4a749afc7a2ab14134748e9ce244158	FairlyLife - MiracleDays (Japan) (v1.01).iso
 f9eac650044f7ebc86892401bccc8949	Fairy Tail - Portable Guild 2 (Japan) (v1.01).iso
-1a44344020d11cac32521b95fe3abfd2	Fate-Tiger Colosseum (Japan) (v1.01).iso
 47a5ed866c3bd267e11d120726062add	Fat Princess - Fistful of Cake (Asia) (En,Zh).iso
+1a44344020d11cac32521b95fe3abfd2	Fate-Tiger Colosseum (Japan) (v1.01).iso
 6024fc4199086104a2a39a8a35a3d7a7	FIFA 06 (Korea) (v1.01).iso
 945a2cab56adb222e430cc0b88c3428d	FIFA 07 (Japan) (v1.02).iso
 0669e31fc5093444921a541c1d325a03	FIFA 07 (Korea) (v1.01).iso
 b09d360a84a5eabde34d25dcccdf58d0	FIFA 09 - World Class Soccer (Japan).iso
+b354cf618de0893857c76da24b9b9b9a	FIFA 10 - World Class Soccer (Japan) (v1.01).iso
 9ffd8ef83c7c9f668fc1448505641e6e	FIFA 10 (Asia) (En).iso
 68c12e4691cd05a89baf8f78baaac7bc	FIFA 10 (Korea) [b].iso
-b354cf618de0893857c76da24b9b9b9a	FIFA 10 - World Class Soccer (Japan) (v1.01).iso
 82ef33fb8d860f91f021b6ccd5c8010d	FIFA 11 - World Class Soccer (Japan).iso
-ec73715ae44f5d6f2fb95351f5d73eae	FIFA 13 (Europe) (En,Es).iso
 74764e8952327c074c9fcc4b17d6f98f	FIFA 13 - World Class Soccer (Japan).iso
+ec73715ae44f5d6f2fb95351f5d73eae	FIFA 13 (Europe) (En,Es).iso
 efa0ac51477e057ba0bf9c0b3d004062	FIFA 14 - World Class Soccer (Japan).iso
 ce91e76559064a1347bf59a3ea40c897	FIFA Soccer 13 (Asia) (En,Es).iso
 f97efd5341ed233536e834e999b6c3d0	FIFA Street 2 (Japan) (v1.02).iso
@@ -184,18 +195,22 @@ ff9e25fd2bea1a0bb36d7ccfc9e3aa92	Final Approach 2 - 1st Priority Portable (Japan
 9a468a2890fa1c57cd63ba76c19744b5	Finder Love - Kudo Risa - First Shoot wa Kimi to (Japan) (v1.01).iso
 44d6a7b2075a86ce73b4715b9d8ab629	Fired Up (Korea) (v1.02).iso
 027431ed8c2932d8100fe45dbdc2b963	Fish Eyes Portable (Japan) (v1.03).iso
-73384af9d1648dc34ce33df6d2670ac0	Flowers (Japan) (v1.01).iso
 a3a40d4610285b5f1028c4818f29d864	Flowers - Natsu Hen (Japan).iso
+73384af9d1648dc34ce33df6d2670ac0	Flowers (Japan) (v1.01).iso
+40076d7b75cb0226ea7168df67b76606	For Symphony - With All One's Heart Portable (Japan) (v1.01).iso
 2a79d4caf8ef59e428add51bed36a3a8	Ford Racing - Off Road (Asia) (En).iso
 3996407545bc41a4828aac2ec0665e9b	Ford Racing - Off Road (Europe) (v0.02) (Beta).iso
-40076d7b75cb0226ea7168df67b76606	For Symphony - With All One's Heart Portable (Japan) (v1.01).iso
 d3986c09b084feead2a440d208edcfb1	Frantix - Kirakira Nazotoki Daibouken (Japan) (v1.01).iso
-58400bac21a982ffa3a012bfe456afc5	Frontier Gate Boost+ (Japan) (v1.01).iso
 74492cf0b9a7f5ca94283a219ad80fee	Frontier Gate (Japan) (v1.01).iso
+58400bac21a982ffa3a012bfe456afc5	Frontier Gate Boost+ (Japan) (v1.01).iso
 f80144aceb451a2d260e907fae29094b	Fushigi Yuugi - Genbu Kaiden Gaiden - Kagami no Miko (Japan) (v1.02).iso
-8d1a0678796a6322c3091406dc20e098	Gack-oh - The Royal Seven Stars +Meteor (Japan) (v1.01).iso
 bec399259de8705e5aa74f4af762fa97	GA - Geijutsuka Art Design Class - Slapstick Wonder Land (Japan) (v1.01).iso
+8d1a0678796a6322c3091406dc20e098	Gack-oh - The Royal Seven Stars +Meteor (Japan) (v1.01).iso
 526f41dfee379e66b295535093f23665	Gakuen Heaven - Okawari! (Japan) (v1.01).iso
+96c92f6b52e4eb680a7a6a93ce196882	Gakuen Heaven 2 - Double Scramble! (Japan) (Disc 1).iso
+059599add42b75abdc2671bcebba7390	Gakuen Heaven 2 - Double Scramble! (Japan) (Disc 2).iso
+f29ef66fb97f45829800c07a806963b4	Gakuen Heaven Boys Love Scramble (Japan) (Disc 1).iso
+1440945cfa38bce5b0d3731bb372eb98	Gakuen Heaven Boys Love Scramble (Japan) (Disc 2).iso
 9050d3af1799f86601439d6d04063228	Gakuen Hetalia Portable (Japan) (v1.01).iso
 702efcd815d73e0c80a7f16458c1dacb	Gakuen K - Wonderful School Days (Japan).iso
 46cd5df862c8b08412cc0793335856a4	Gallery Fake (Japan) (v1.01).iso
@@ -206,18 +221,21 @@ bec399259de8705e5aa74f4af762fa97	GA - Geijutsuka Art Design Class - Slapstick Wo
 933191b58a3f3b8ba090ce7fb5f99bdd	Gekiatsu!! PachiGe-Damashi Portable Vol.1 - Evangelion - Shinjitsu no Tsubasa (Japan) (v1.01).iso
 f948adaee1eaf11a1a6016a48fdcd1a7	Generation of Chaos 6 (Japan).iso
 add353c1f82e830838bff77fc09f6847	Genso Suikoden I & II (Japan) (v1.03).iso
-78b963b8fda2ae0158acd5e4e8b2fc5e	Geten no Hana (Japan) (v2.00).iso
 de5dbd2b798b8c27ad93ab002fb7a6d3	Geten no Hana - Yume Akari (Japan) (v1.01).iso
+78b963b8fda2ae0158acd5e4e8b2fc5e	Geten no Hana (Japan) (v2.00).iso
+cd28147186b2cb76e89fbedd54f5c16f	GhostRider_1_18_2007.iso
 b1ce3a0c1bd9f5edfccab303a1af12b4	Gift - Prism (Japan) (v1.01).iso
 9ee639dfcc4f113ff2284bcd69159fa7	Ginsei Igo Portable (Japan).iso
 96d5123f1d89a125a6d5a75a5028c0e4	Glass Heart Princess (Japan) (v1.02).iso
 720432184a287b2b1a5139f1bf62595c	Gloria Union - Twin Fates in Blue Ocean (Japan) (v1.01).iso
-232b3f3e8085bce6bd3001695ba5dd5d	God of War - Chains of Olympus (USA) (v0.01) (Beta).iso
 02d45529e8ab5a9fcf93c80c76d77432	Go!Explore (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v0.08) (Beta).iso
 9dc63669dd830444d30d8fd361f4c1f1	Go!Explore (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (v0.09) (Beta).iso
+232b3f3e8085bce6bd3001695ba5dd5d	God of War - Chains of Olympus (USA) (v0.01) (Beta).iso
 fb83473a91d930593c02c297572b918b	Gran Turismo (Asia) (En,Zh,Ko).iso
 95ba39644de61b4191776a2fc6d7d2c3	Grim the Bounty Hunter (Japan) (v1.02).iso
 009a5545d2e22a1aedf89ccdf2124913	Gripshift (Japan) (v1.01).iso
+880a9a4acbb4cde27cf4fa77679a2468	Grisaia no Kajitsu - Le Fruit de la Grisaia (Japan) (v1.03) (Disc 1).iso
+da1497984886f4e08ce11a5289d95551	Grisaia no Kajitsu - Le Fruit de la Grisaia (Japan) (v1.03) (Disc 2).iso
 64ac4278b3d825b0bc5700c8100b7617	Growlanser IV - Over Reloaded (Japan).iso
 37f89ce441b8afd3c16db434401e1d61	Gunpey-R (Japan) (v1.02).iso
 326581e47299ca7496e69b36be950314	Hakuisei Renai Shoukougun (Japan) (v1.01).iso
@@ -225,23 +243,23 @@ fb83473a91d930593c02c297572b918b	Gran Turismo (Asia) (En,Zh,Ko).iso
 2a3a99e13113c082e907fbb772f75511	Hakuoki - Bakumatsu Musou Roku (Japan) (v1.01).iso
 9f2f93e89ee3e06ffcf01aa911357bb7	Hakuoki - Yuugi Roku Ni - Matsuri Bayashi to Taishitachi (Japan) (v1.02).iso
 2498ffd2987075e7ba21f16523dabff1	Hakuoki - Zuisouroku Portable (Japan) (v1.02).iso
-125b76177f7291d7ec578dabee1da2e5	Hanasaku Manimani (Japan) (v1.01).iso
 377a38fc7dbc8bd36b0528d96f473229	Hana to Otome ni Shukufuku o - Harukaze no Okurimono - Portable (Japan) (v1.01).iso
+125b76177f7291d7ec578dabee1da2e5	Hanasaku Manimani (Japan) (v1.01).iso
 76b0decba935222737239e6e2c61e7e1	Hanayaka Nari, Wa ga Ichizoku - Tasogare Polarstar (Japan) (v1.02).iso
 74ed115cfa18eae71c2b310c6eeb3786	Handdic (Korea).iso
 51dbd14a268ee8c9de4e22083162e8c3	Harajuku Tantei Gakuen - Steel Wood (Japan) (v1.02).iso
 a32af1b8d0473b1447b36e5e8e8e0cab	Harry Potter and the Goblet of Fire (Korea).iso
+1b6e24366e2b4a27868a3f90e78d335d	Harukanaru Toki no Naka de - Hachiyoushou (Japan) (v1.01).iso
+b43c8423c15857b43d01d277fa9f1983	Harukanaru Toki no Naka de - Iroetebako (Japan) (v1.02).iso
 eb400d7b8ebbfccb4ee3d09c102f3b45	Harukanaru Toki no Naka de 2 (Japan) (v1.02).iso
 f259800390027bae3e26b37d771088c9	Harukanaru Toki no Naka de 3 - Unmei no Labyrinth Aizouban (Japan) (v1.01).iso
 e41df35538febf11887598756ef7f590	Harukanaru Toki no Naka de 4 Aizouban (Japan) (v1.01).iso
 d21177767f6cbf1aba89ea937478bec2	Harukanaru Toki no Naka de 5 Kazahanaki (Japan) (v1.01).iso
 ffa9eb1a32316185f0f151aae022b84b	Harukanaru Toki no Naka de 6 (Japan) (v1.01).iso
-1b6e24366e2b4a27868a3f90e78d335d	Harukanaru Toki no Naka de - Hachiyoushou (Japan) (v1.01).iso
-b43c8423c15857b43d01d277fa9f1983	Harukanaru Toki no Naka de - Iroetebako (Japan) (v1.02).iso
 d5b4965106c31ef97dee6f333e1977d0	Harvest Moon - Sugar Village and Everyone's Wish (Korea).iso
 00da191e79e4a2717131871a0651abf2	Hatsukare - Renai Debut Sengen! (Japan) (v1.01).iso
-436213657979b8dc04fd03f3b2718a85	Heart no Kuni no Alice Anniversary Ver. - Wonderful Wonder World (Japan) (v1.03).iso
 85b2926aa8aaab40d2526a3c000548b6	Heart no Kuni no Alice - Wonderful Twin World (Japan) (v1.03).iso
+436213657979b8dc04fd03f3b2718a85	Heart no Kuni no Alice Anniversary Ver. - Wonderful Wonder World (Japan) (v1.03).iso
 9d5b19f3a148f8f25be9932a12807a90	Heaven's Will (Japan) (v1.01).iso
 ff23d6e2ab70dcdbbc2c6697b700c659	Hellboy - The Science of Evil (Asia) (En).iso
 5bfa6594bcf9fe99f335b198c9a11762	Hello Kitty no Happy Accessory (Japan).iso
@@ -269,6 +287,8 @@ fb9d18034e226562d2e7e47f978b7666	Houkago Colorful-Step - Bunkabu! (Japan) (v1.02
 0429c038c96dd974e501093b7a09a25e	Hunter x Hunter - Wonder Adventure (Japan).iso
 076efbddb396f82ba91f7571fb25c5cb	Hyakki Yakou - Kaidan Romance (Japan) (v1.02).iso
 78e0c98e86fc28b6d6507efbe95a098d	Hyaku Monogatari - Kaidan Romance (Japan) (v1.02).iso
+ce49ee7ab8b8db19949643c9c5f29d69	I.Q Mania (Asia) (En,Zh) (v1.01).iso
+ba24d1ba3e168a743196c36525de6d9f	I.Q Mania (Japan) (Beta) [b].iso
 560f0da2571e2a303ede7906953d4c02	Idol Janshi Suchie-Pai III Remix (Japan) (v1.01).iso
 4a941d0e94331d63fdcd0fb085751751	Idol Janshi Suchie-Pai IV Portable (Japan) (v1.01).iso
 d17dc4f209312e5f672cd9e19b4f2fea	Ikki Tousen - Eloquent Fist (Japan) (v1.01).iso
@@ -277,8 +297,6 @@ d17dc4f209312e5f672cd9e19b4f2fea	Ikki Tousen - Eloquent Fist (Japan) (v1.01).iso
 0b22f7336778a5ffe73507e15cde401e	Intelligent License (Japan) (v1.02).iso
 c52dd9d0d49bd4523edb8144af8f06c1	Invizimals (Asia) (En,Zh).iso
 b52f3d49a9d6d49691e2b4c1780a20ed	Invizimals (Korea) (En,Ko).iso
-ce49ee7ab8b8db19949643c9c5f29d69	I.Q Mania (Asia) (En,Zh) (v1.01).iso
-ba24d1ba3e168a743196c36525de6d9f	I.Q Mania (Japan) (Beta) [b].iso
 e7e029988536e9a4f970c1766a363321	Ishin Renka Ryoma Gaiden (Japan) (Shokai Seisanban).iso
 4f698c3104fb4f146d0743fdba91682f	Isle of Minno (Europe) (0.01) (Beta).iso
 0de30dd933e158ca83b70ccb93c92d94	Isshou Asoberu Toudai Shogi - Tsumeshogi Dojo (Japan) (v1.01).iso
@@ -286,6 +304,7 @@ de72d20ab94129151ba13590e1001eb6	Itsuka Kono Te ga Kegareru Toki ni - Spectral F
 bd94f1bf5131c31e6952e541f751278c	Itsuka Tenma no Kuro Usagi Portable (Japan) (v1.01).iso
 939df39e1697665d91676ae9397ce3eb	Iza, Shutsujin! Koiikusa Dainimaku - Echigo Hen (Japan) (v1.02).iso
 0160f3b859e058ae9b6723979243e18e	Iza, Shutsujin! Koiikusa Dainimaku - Kai Hen (Japan) (v1.02).iso
+8ba1391514cd4b626b5afdd2f23ce160	J.League Pro Soccer Club o Tsukurou! 8 Euro Plus (Japan).iso
 0471357fc6c3520de7bca024b8759c64	Jak and Daxter - Elf to Itachi no Daibouken (Japan).iso
 9ad1fde7952fc1069ba6a0d4f1b51c64	Jan Sangoku Musou (Japan) (v1.02).iso
 3835e32370be0aa115aa7795d0093c99	Jansei Gakuen Chrono-Magic (Japan) (v1.02).iso
@@ -293,8 +312,9 @@ bd94f1bf5131c31e6952e541f751278c	Itsuka Tenma no Kuro Usagi Portable (Japan) (v1
 138d9f5778c212f3acfb0c863c528e55	Jikan de Fantasia (Japan).iso
 2840c5f63a4751f7b02baef622a39b82	Jissen Pachi-Slot Hisshouhou! Aladdin 2 Evolution Portable (Japan) (v1.02).iso
 25a41a630be8074f495b2e5bdb72d323	Jissen Pachi-Slot Hisshouhou! Hokuto no Ken SE Portable (Japan) (v1.01).iso
-8ba1391514cd4b626b5afdd2f23ce160	J.League Pro Soccer Club o Tsukurou! 8 Euro Plus (Japan).iso
 6d62db27c158ac6017925d90612646fb	Joker no Kuni no Alice - Wonderful Wonder World (Japan) (v1.01).iso
+f3c885789e9593bf66457752eb0610b4	Ju and Ryu Toeic LC (Korea) (Disc 1).iso
+662705f4e44978641d2d10b59a0c2f3e	Ju and Ryu Toeic LC (Korea) (Disc 2).iso
 685ab2bfd361c7ac43a1d8313c4eceb1	Juiced Eliminator (Japan) (v1.02).iso
 a85837c3e6c033e521df3771d8d6abb7	Jukugon (Japan).iso
 0e54dc2af7f4579964dc1cc2ff7d647c	Just English (Korea) (v1.03).iso
@@ -303,23 +323,25 @@ a85837c3e6c033e521df3771d8d6abb7	Jukugon (Japan).iso
 98bec2487c068fa685d87b4e841d1829	Kaeru Batake de Tsukamaete - Natsu Chigira Sansen! Portable (Japan).iso
 ab661c08d9df2908da3dc8ee4a3ccca4	Kaitou Tenshi Twin Angel - Toki to Sekai no Meikyuu (Japan) (v1.01).iso
 4bcd7f39c215ab0c5fb15e1b2caba0bc	Kamen Rider Climax Heroes Fourze (Japan).iso
-759136e6f2505a73869340c62fd9d42d	Kamigami no Asobi InFinite (Japan).iso
-9384380123abfdf7819f09126633d028	Kamigami no Asobi (Japan) (v1.01).iso
 eb22a4d15b9ef7558ad2c6f3b077e034	Kami Naru Kimi to (Japan) (v1.02).iso
+9384380123abfdf7819f09126633d028	Kamigami no Asobi (Japan) (v1.01).iso
+759136e6f2505a73869340c62fd9d42d	Kamigami no Asobi InFinite (Japan).iso
 c8aeb6f795999c5b7c5f3794253cc1fa	Kamisama to Koi Gokoro (Japan) (v1.02).iso
 a55c75dd129afa262911b7f1075a6e28	Kana - Imouto (Japan) (v1.01).iso
 ffe92fe213692b94d44444ae7d2a0a5e	Kangaeru EXIT (Japan) (v1.02).iso
+af6026bf5107cd06ec674c65dc959883	Kanuchi - Futatsu no Tsubasa (Japan) (Kuroki Tsubasa no Shou).iso
+a5bbeca79627f1fa39bd9796db1b3277	Kanuchi - Futatsu no Tsubasa (Japan) (Shiroki Tsubasa no Shou).iso
 3f606e5e9cceb49a2783e42f06f15c17	Kazoku Keikaku (Japan) (v1.01).iso
-cf3a33a6a8a27dc13f909eb4e41ca65f	Keibatsuu Portable 2 - JRA Koushiki Data 23 Nenbun Shuuroku (Japan) (v1.02).iso
 7a2dfd4795a349517497a5544c0fe2b8	Keibatsuu Portable (Japan) (v1.02).iso
-e401453b8732369f126db1471c56209a	Kenka Banchou Portable (Japan) (v1.02).iso
-b0309dce9cfa781142cd08aec87d950c	Ken to Mahou to Gakuen Mono. 2 (Japan) (v1.01) (PSP The Best).iso
+cf3a33a6a8a27dc13f909eb4e41ca65f	Keibatsuu Portable 2 - JRA Koushiki Data 23 Nenbun Shuuroku (Japan) (v1.02).iso
 2c66f6e9334ecc720ff7c68494f1f3ff	Ken to Mahou to Gakuen Mono. (Japan) (v1.01) (PSP The Best).iso
+b0309dce9cfa781142cd08aec87d950c	Ken to Mahou to Gakuen Mono. 2 (Japan) (v1.01) (PSP The Best).iso
+e401453b8732369f126db1471c56209a	Kenka Banchou Portable (Japan) (v1.02).iso
 cb782d31816d91ebb61c8fdcd3047a2a	Kentoushi - Gladiator Begins (Japan) (v1.02).iso
-ee24e2843e3efc5e92ecda8c0c9cd9ef	Kidou Senshi Gundam AGE - Cosmic Drive (Japan) (v1.02).iso
 d7fba702a7f1b8c1f7a70546066969d0	Kidou Senshi Gundam - Gihren no Yabou - Zeon no Keifu (Japan) (v1.02).iso
 2ad818734856511d9e4f11cf25c84dde	Kidou Senshi Gundam - Mokuba no Kiseki (Japan) (v1.01).iso
 307a35fb717ec521aad8fcc13177f58a	Kidou Senshi Gundam - Shin Gihren no Yabou (Japan) (v1.01).iso
+ee24e2843e3efc5e92ecda8c0c9cd9ef	Kidou Senshi Gundam AGE - Cosmic Drive (Japan) (v1.02).iso
 f2dab5a4b83fdedd1b45679502280418	Kiite Oboeru Eitango - Alc no Kikutan Advanced (Japan).iso
 8b73410fa2062d785f784ee883bb2b9e	Kiite Oboeru Eitango - Alc no Kikutan Basic (Japan).iso
 b404cefe487c1980e4c8250d18b673f2	Kiite Oboeru Eitango - Alc no Kikutan Entry (Japan).iso
@@ -327,9 +349,9 @@ a1143ce634857f11b4e1714c6b672737	Killzone - Liberation (Europe) (En,Fr,De,Es,It,
 549cb7aa15cd27199a8bbaab104c05b7	Killzone - Liberation (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru) (v0.02) (Beta).iso
 5fb16fa6352aa9b8c937c872fd90f0a1	Killzone - Liberation (Korea).iso
 5b013dace58d77f0ef3148ac7409a580	Kimi ga Aruji de Shitsuji ga Ore de - Otsukae Nikki Portable (Japan).iso
-aab2413b3e944a2f482e63873814c5b5	Kingdom - Ikkitousen no Ken (Japan) (v1.01).iso
 77aa0ce2f8dd3927363c4705f0e1d934	King of Fighters Collection, The - The Orochi Saga (Asia) (En).iso
 d7b05f1de0c847cc4b556eb794f505a8	King of Fighters Portable '94-'98, The - Chapter of Orochi (Japan) (v1.01).iso
+aab2413b3e944a2f482e63873814c5b5	Kingdom - Ikkitousen no Ken (Japan) (v1.01).iso
 0e4f7605c790e6add8cb2c65c2eaf112	Kiniro no Corda 2 Forte (Japan) (v1.01).iso
 cf5064a0128cefe18656583100443414	Kiniro no Corda 3 - Another Sky feat. Amane Gakuen (Japan) (v1.01).iso
 7c6b8a87edba20ca0ba5173dfa2ef785	Kiniro no Corda 3 - Another Sky feat. Shiseikan (Japan) (v1.01).iso
@@ -338,33 +360,35 @@ eed8bd36c5179ba73c302d203a84eed0	Kinnikuman - Muscle Generations (Japan) (v1.02)
 9725ab4d51a9949f03cdc860e8eba0d5	Kisaragi Gold-Star - Nonstop Go Go!! (Japan) (v1.01).iso
 8410b2b1da054e389099dde22f5e45e2	Knights in the Nightmare (Japan).iso
 917a09c99ef351a536d76698b218ae53	Koi Sentai Love & Peace the P.S.P. - Power Zenkai! Special Youso Tenkomori de Portable Ka Daisakusen de Aru! (Japan) (v1.01).iso
-34cfd60e4f4be604ff9bff0aa56370c5	Koisuru Otome to Shugo no Tate Portable (Japan) (v1.01).iso
 c45452d9480d1a4cdf15c06f6025c625	Koi to Senkyo to Chocolate Portable (Japan) (v1.01).iso
 f6d366a0fd365bd46b2f9feeb0355f72	Koi to Senkyo to Chocolate Portable (Japan) (v1.02) (Limited Game Disc).iso
 d250440d2a9afd25a563f2aadbe03e75	Koi wa Rule ni Shibararenai! (Japan).iso
+34cfd60e4f4be604ff9bff0aa56370c5	Koisuru Otome to Shugo no Tate Portable (Japan) (v1.01).iso
 31fb3bae91096a8fefa48c96fbaf9845	Konneko - Keep a Memory Green (Japan).iso
 62a5287c9dd67756f7c929501ab75cb7	Kono Aozora ni Yakusoku o - Tenohira no Rakuen (Japan) (v1.04).iso
 5722e6d2aa59f37918120ceab8320cfe	Kono Bushitsu wa Kitaku Shinai Bu ga Senkyo Shimashita. Portable - Gakuen Dog Ear Hen (Japan).iso
 cd6f93b61d70f5cdfe22b7f661bd1d28	Kono Bushitsu wa Kitaku Shinai Bu ga Senkyo Shimashita. Portable - Gakuen Summer Wars Hen (Japan) (v1.03).iso
 3ffe3e9acdcb3b8f709263e633d0ca21	Koro Koro!! Kollon (Japan) (v1.01).iso
-bf84d08e4f15a93ad9298d6497200a74	Koukaku Kidoutai - Stand Alone Complex (Asia) (Ja).iso
 c923850215cca07dec5ba57d1c008757	Koukaku Kidoutai - Stand Alone Complex - Kariudo no Ryouiki (Japan) (v1.01).iso
+bf84d08e4f15a93ad9298d6497200a74	Koukaku Kidoutai - Stand Alone Complex (Asia) (Ja).iso
 ce16929ab30f07b152d47d1ba3766a43	Kud Wafter - Converted Edition (Japan) (v1.03).iso
 3c621f53493a5fc4348044a5bb38013e	Kurogane no Linebarrels (Japan) (v1.01).iso
 f6d119158f10e1d5c8a24c2f569ae54e	Kuroyukihime - Snow Magic (Japan) (v1.03).iso
 52daace48214521861015d561bc40f31	Kyoukaisen-jou no Horizon Portable (Japan) (v1.02).iso
+1860fef35292b4a292bb0b641093ffad	L no Kisetsu - Double Pocket (Japan) (v1.01).iso
+fddbd5fe9b070ebcd26ee70a35e422c6	L.G.S Shinsetsu Houshinengi (Japan) (v1.02).iso
 8eec17e3331096ba5d3e1fa530c0de31	LairLand Story - Shoujo no Yakujou (Japan).iso
 9a4e851d49898075e8b8a19d0dbbfdd1	Lemmings (Europe) (Beta).iso
 0551a9c3e6933354bf0ca99f4102bbdc	Lemmings (Japan).iso
-fddbd5fe9b070ebcd26ee70a35e422c6	L.G.S Shinsetsu Houshinengi (Japan) (v1.02).iso
 2ac4f2279d17ffbce339aaf91eee0cc3	Like Life Every Hour (Japan) (v1.03).iso
 010ceb4e49af76ab82b5e894e68cb991	Lisa to Issho ni Tairiku Oudan - A-Ressha de Ikou (Japan) (v1.01).iso
+af71f9bf8ed1f922d455c0f6cb8e32e3	Little Busters - Converted Edition (Japan) (Disc 1).iso
+4ecc7b0c3befeb2bafb839a2b3b1e9de	Little Busters - Converted Edition (Japan) (Disc 2).iso
 69bbeb5170e8a3df44c87dd26a5653de	Little Witch Parfait - Kuroneko Mahouten Monogatari (Japan) (v1.03).iso
-1860fef35292b4a292bb0b641093ffad	L no Kisetsu - Double Pocket (Japan) (v1.01).iso
-16c2c771fd40172319304414f1c71643	LocoRoco 2 (Europe) (En,Fr,De,Es,It) (Beta).iso
 b0ddd738a27427077717c2c9b54d04a3	LocoRoco (Asia) (En,Zh).iso
 99589f31f782cf153a8a3a601b20867b	LocoRoco (Europe) (En,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Ru) (Beta) [b].iso
 f46c76a580df258225bb3965144394c3	LocoRoco (Korea).iso
+16c2c771fd40172319304414f1c71643	LocoRoco 2 (Europe) (En,Fr,De,Es,It) (Beta).iso
 4ecc4de18939d49f2764909c99792ede	Lost Heroes (Japan) (v1.01).iso
 29cb4240dda5ea68133ee58c3852293b	Lost Regnum - Makutsu no Koutei (Japan) (v1.02).iso
 fc0b8964e29c54e0ee727f04117b2ad6	Lost Regnum - Makutsu no Koutei (Korea) (v1.01).iso
@@ -393,9 +417,9 @@ e019a3025319fef98c485f403e43c65b	Major League Baseball 2K11 (Japan).iso
 0875978006774d26cf934fdcdbcbcc9c	Major League Baseball 2K12 (Japan) (v1.01).iso
 d5ef6d1425f522cbee6f9c17cd8868da	Makai Senki Disgaea Portable (Japan) (v1.01) (Shokai Genteiban).iso
 539cca1d8dc99b66dac55ea2c0e3878a	Mana Khemia 2 Ochita Gakuen to Renkinjutsushi Tachi Portable (Japan) (v1.01).iso
+0d076c315208089e31372fb4beec5e3e	Maplus - Portable Navi (Japan) (v1.03).iso
 ef7e13b7108c09cfe0e5921d1e9edd58	Maplus - Portable Navi 2 (Japan) (v1.02).iso
 3aea6abdc5ed75b08c68e7295fa62530	Maplus - Portable Navi 3 (Japan) (v1.07).iso
-0d076c315208089e31372fb4beec5e3e	Maplus - Portable Navi (Japan) (v1.03).iso
 42742a524b0c634c6820ebaeb87a6faf	Maru Goukaku - Shikaku Dasshu! Chuushoukigyou Shindanshi Shiken 1 Portable (Japan) (v1.02).iso
 e7318880e0b4a1b7462c73d29d9173c3	Maru Goukaku - Shikaku Dasshu! Chuushoukigyou Shindanshi Shiken 2 Portable (Japan) (v1.02).iso
 7e698c025775dd282dfe7c974b60296b	Maru Goukaku - Shikaku Dasshu! FP Financial Planning Ginou Kentei Shiken 2-Kyuu Portable (Japan) (v1.02).iso
@@ -412,14 +436,14 @@ a86df6d77d193b0e82fcd67bb10710de	Maru Goukaku - Shikaku Dasshu! TOEIC Test Porta
 9087dca95644d5d2403fe4043c864c0a	Medical91 for Portable (Japan) (v1.01).iso
 a404960a9f09545439e10c4cdc90f266	MediEvil - Resurrection (Europe) (En,Fr,De,Es,It) (v0.26) (Beta) (2005-02-15).iso
 18906f674cc32cfbcdf9618d92ea991b	Megami no Etsubo (Japan) (v1.01).iso
-544b6fa1ab49866b374893b6a014baad	Meiji Tokyo Renka (Japan) (v1.02).iso
 00d4339c3641ef25b07c5fe97bb6826a	Meiji Tokyo Renka - Twilight Kiss (Japan) (v1.01).iso
-7b189f18a4616d0d08d724fcbd9e84bc	Memories Off 6 - Next Relation (Japan) (v1.01).iso
-c121f63e5cef20a59e536b432f875731	Memories Off 6 - T-Wave (Japan) (v1.01).iso
+544b6fa1ab49866b374893b6a014baad	Meiji Tokyo Renka (Japan) (v1.02).iso
 691390c762cdcdab7fd0679c08b61af6	Memories Off - After Rain (Japan) (v1.01).iso
 9cf2f7375f8378f4984e087da318f259	Memories Off - Sorekara Again (Japan).iso
 22b2afdd9c954643d232d1daa7d5604c	Memories Off - Yubikiri no Kioku - Futari no Fuuryuuan (Japan).iso
 aa4d6b1ae48c6bd098b5cdc22045d61b	Memories Off - Yubikiri no Kioku (Japan).iso
+7b189f18a4616d0d08d724fcbd9e84bc	Memories Off 6 - Next Relation (Japan) (v1.01).iso
+c121f63e5cef20a59e536b432f875731	Memories Off 6 - T-Wave (Japan) (v1.01).iso
 6948324bca3c105f3500bb450215a0b4	Mermaid Gothic (Japan) (v1.04).iso
 ca4bf73e38fd8b8a2497ebf766d1c24b	Metal Gear Solid - Bande Dessinee (Japan) (v1.03).iso
 a0cebdc1e9994e219f76000c9bc462fd	Metal Gear Solid - Portable Ops (Europe) (En,Ja,Fr,De,Es) (Beta) (2007-02-06) [b].iso
@@ -430,10 +454,18 @@ bb41ca811b375c44d15a0b1377281cb7	Metal Slug XX (Japan) (v1.01).iso
 592f544a0443264a4b00d5c9be0edb58	Mimana - Iyar Chronicle (Japan).iso
 40bf2b5ed0bd8cd953e9de0232589ca5	Minna de Dokusho - Keitai Shousetsu Desuu (Japan) (v1.01).iso
 17dd222628b129044e62e92739323171	Minna de Dokusho - Meisaku & Suiri & Kaidan & Bungaku (Japan) (v1.02).iso
+fe167792b7dc8933d7854ff505f0b61d	Minna no Chizu 2 (Japan) (v1.01).iso
 68453e06ccbc7a31dcc59144960c7c6f	Minna no Chizu 2 Chiikiban - Higashi Nihon hen (Japan).iso
 c57263c1dc01632a4f43c5a950d0619e	Minna no Chizu 2 Chiikiban - Naka Nihon hen (Japan).iso
 37bb813bfb320379dd646da4b4ba44ab	Minna no Chizu 2 Chiikiban - Nishi Nihon hen (Japan).iso
-fe167792b7dc8933d7854ff505f0b61d	Minna no Chizu 2 (Japan) (v1.01).iso
+04b68aee2b2fabc79f34219005d5fd8f	Minna no Golf Jou Vol.1 (Japan) (Disc 1).iso
+b1c0af28844ed1c817231ebbdd5cfb62	Minna no Golf Jou Vol.1 (Japan) (Disc 2).iso
+9a0a3b5b7d4c363c0c588d3ae9ef7dac	Minna no Golf Jou Vol.1 (Japan) (GPS Receiver Doukonban) (Disc 1).iso
+8569ee97d69abe7d6425fec9994d1373	Minna no Golf Jou Vol.2 (Japan) (GPS Receiver Doukonban) (Disc 1).iso
+76ba27c3114600882e96ec050a093d00	Minna no Golf Jou Vol.2 (Japan) (GPS Receiver Doukonban) (Disc 2).iso
+fbf79820ce7853adea9436672d4cd40e	Minna no Golf Jou Vol.3 (Japan) (Disc 1).iso
+2828682a010113255ae28d64dbba0df7	Minna no Golf Jou Vol.4 (Japan) (with and without GPS Receiver Doukonban) (Disc 1).iso
+f3f2639d5803254dcec2020525b4d1a1	Minna no Golf Jou Vol.4 (Japan) (with and without GPS Receiver Doukonban) (Disc 2).iso
 55014d37ea0db81f92250d13d59c4e33	Minna no Shiatsu - Itami mo Tsukare mo Sukirii! (Japan) (v1.01).iso
 b37ea2577464371362978cfee0c2870e	Mirai Nikki - 13-ninme no Nikki Shoyuusha (Japan).iso
 cfd46e4c2633f6e0ca623e786558a5b1	Mirai Nikki - 13-ninme no Nikki Shoyuusha Re-Write (Japan) (v1.02).iso
@@ -446,8 +478,8 @@ ff0116a19a75063afb86d2f1951a0977	Mizu no Senritsu 2 - Hi no Kioku (Japan) (v1.01
 01198e42344d694baf0062c15f0ce7f6	Moe Moe 2-Ji Taisen-Ryaku 2 (Japan) (v1.02).iso
 cf003790fc6a94d36b83a222957e4a1f	Moe Moe 2-Ji Taisen-Ryaku Deluxe (Japan).iso
 b9f79ca57dda35ffb1551b4e932d62f0	Moe Moe Daisensou - Gendaiban+ (Japan) (v1.01).iso
-826b99f5b06f4ba325e25d3767be6771	Moeru Mahjong - Moejong (Japan) (v1.01).iso
 58fcc0a951e255b7befda1e3855ec063	Moeru Mahjong - Moejong (Japan) (v1.01) (Premium Box).iso
+826b99f5b06f4ba325e25d3767be6771	Moeru Mahjong - Moejong (Japan) (v1.01).iso
 4df2c0452b35d21ace7d7cc733ad162f	Momotaro Dentetsu Tag Match - Yuujou Doryoku Shouri no Maki! (Japan) (v1.01).iso
 5f02484f956db6fda60f9cc2f93e7de5	Monochrome (Japan).iso
 4dc1013de370bdc565f0996f25bf268c	Monster Hunter Freedom 2 (Korea).iso
@@ -480,9 +512,9 @@ e3568701b5f9331f19fac8223601016e	Natsuzora no Monologue Portable (Japan) (v1.01)
 81d327ed7a01a4768086d9985df6114c	NBA Live 07 (Japan) (v1.01).iso
 9f84ecb298e5b3ddf5231394ecbacc6b	NBA Live 08 (Asia) (En).iso
 3f903a30866873388177b8bbbd4a0973	NBA Street Showdown (Japan) (v1.01).iso
-7d5d4c2079970d79297fe4de113fc323	Need for Speed Carbon - Own the City (Japan) (v1.02).iso
 a6128b40ee7fb2b89b45d3fb36eafee2	Need for Speed - Most Wanted 5-1-0 (Korea) (v1.01).iso
 206a041db0f4725a9d7bcdb5687aacb7	Need for Speed - Undercover (Japan) (v1.01).iso
+7d5d4c2079970d79297fe4de113fc323	Need for Speed Carbon - Own the City (Japan) (v1.02).iso
 f007f26f8b67d5f31c5419d257d79e28	Neo Geo Heroes - Ultimate Shooting (Japan) (v1.01).iso
 d8552947d673372ad559aa6b6e84802d	Never7 - The End of Infinity (Japan) (v1.01).iso
 af755305d54c086d831c6d088a6b0407	Neverland Card War - Cardinal Arc (Japan) (v1.04).iso
@@ -498,36 +530,39 @@ d271f8f430d66adb1175c9d1b0c154ad	Nikoli no Sudoku Lite Dai-Is-Shuu (Japan) (v1.0
 083c280f343eebeb63ac0b492b094bb7	Ninja Katsugeki - Tenchu San Portable (Japan) (v1.01).iso
 f454059e8a6fe6139c4d02e3d04718df	Nise no Chigiri - Omoide no Saki e (Japan) (v1.02).iso
 fd403efb7f9a258a383fa1d5c9bfffed	Nishimura Kyotaro Travel Mystery - Akugyaku no Kisetsu - Tokyo Nanki-Shirahama Renzoku Satsujin Jiken (Japan).iso
+c63b1ced474b01c7f9aa7a6660bb1398	No Fate! Only the Power of Will (Japan) (v1.01).iso
 481cf0915e555b83b1a1cac19aadc265	Nobunaga no Yabou - Reppuuden with Power Up Kit (Japan) (v1.02).iso
 9206b0041570b85d7512b81f36d65b40	Nobunaga no Yabou - Tenshouki (Japan) (v1.03).iso
-c63b1ced474b01c7f9aa7a6660bb1398	No Fate! Only the Power of Will (Japan) (v1.01).iso
 c2ca6ac4b9cf4071591e2584d218c8a5	Nogizaka Haruka no Himistu - Doujinshi Hajimemashita (Japan).iso
 1156b8e3ffb0bc8f7ece4a24ef8c2083	Norn9 - Norn Plus Nonette (Japan) (v1.01).iso
 9934f17dd5cf6e357c90e8679444c55b	Numpla 10000-Mon (Japan).iso
 d47b699532b692d28fbb9e1a4cca34e3	Okashi na Shima no Peter Pan - Sweet Never Land (Japan) (v1.03).iso
 64d194be85391bbebf946fe1704b166b	Omochabako no Kuni no Alice - Wonderful Wonder World (Japan) (v1.03).iso
-4b3623c382410ce789d8552d45f9a406	Omoide ni Kawaru Kimi - Memories Off (Japan) (v1.01).iso
 0a17b288cac85f7145b85ed6224b3f63	Omoi no Kakera - Close to (Japan).iso
-b47f299c0b665524563f7330a6fb7b7e	OneChanbara Special (Japan) (v1.03).iso
+4b3623c382410ce789d8552d45f9a406	Omoide ni Kawaru Kimi - Memories Off (Japan) (v1.01).iso
 1f6f3678a2069903db31565c589c7f48	One Side Summer + (Japan) (v1.01).iso
+b47f299c0b665524563f7330a6fb7b7e	OneChanbara Special (Japan) (v1.03).iso
 ba5f3439e15ea4a761f0146f5f45b247	Onigokko! Portable (Japan) (v1.01).iso
 85d7113156dbb6ed84cd2f452d161194	Ore no Dungeon - Desire and Adventurous Spirit (Japan) (v1.01).iso
 0a96c52c8cd418cef2743be48df32d92	Ore no Kanojo no Uraomote - Pure Sweet Heart (Japan).iso
+7199b07d9799a90bf90e11cc2752c51d	Ore wa Shoujo Mangaka (Japan) (v1.03).iso
 56133995d5db9e1e42290b2a02c55bc0	Oretachi no Sabage Portable (Japan) (v1.03).iso
 eb9f3a73f6d56d2aeee2e2dc7e5d254c	Oretachi no Sabage Versus (Japan) (v1.02).iso
-7199b07d9799a90bf90e11cc2752c51d	Ore wa Shoujo Mangaka (Japan) (v1.03).iso
+4a14c1373fc3e2033b683caf486de7a9	Otome wa Boku ni Koishiteru Portable - Futari no Elder (Japan) (Disc 1).iso
+15af2652f5901b101f6711540c4730ba	Otome wa Boku ni Koishiteru Portable - Futari no Elder (Japan) (Disc 2).iso
 8acaa2dd62dd75bbc506429522b5ac0d	Otometeki Koi Kakumei - Love Revo!! - Koko kara Hajimaru Girl's Life (Japan) (v1.01).iso
 d7e0ed38d6909a4ed33989c734e1528b	Otometeki Koi Kakumei - Love Revo!! Portable (Japan) (v1.02).iso
 0a27ab197d5a9f2897a69de77e85314a	Otsuge Uranainandesu. (Japan) (v1.01).iso
 59189ef18dc56b9cf7289383c0368ff6	Ouka Sengoku Portable (Japan) (v1.02).iso
 6d2e4801e800ffc9b27866f6291a0af3	Oumagatoki - Kaidan Romance (Japan) (v1.02).iso
+23900aa308e4248d44c4bfa8b2adf297	P-Kara (Japan).iso
 58a15f06fa4fe53467b25e12f64c55a0	Pachinka Mania P - CR Tekkenden Tough (Japan) (v1.01).iso
-32c13acc5af95cc55937e9e6fb610bb0	PachiPara Slot+ Pachi-Slot Daiku no Gen-San - Ikuze! Honoo no Gen-Matsuri-Hen (Japan) (v1.01).iso
 20a1261d16959a69277bb2adac176d6a	PachiPara Slot - Pachi-Slot Super Umi Monogatari in Okinawa (Japan).iso
+32c13acc5af95cc55937e9e6fb610bb0	PachiPara Slot+ Pachi-Slot Daiku no Gen-San - Ikuze! Honoo no Gen-Matsuri-Hen (Japan) (v1.01).iso
 f29b03da3462f0f2ac5d3fe44c74df64	Pastel Chime Continue (Japan) (v1.02).iso
+5ef88572bf863db59f329c802594f2b9	Patapon (Asia) (v1.01).iso
 9aebd334f99ff4184a431b1f66dd8d78	Patapon 2 (USA) (En,Fr,Es) (PSN & Store).iso
 711b51cec6acbb2b0e7d8b452b7e68e4	Patapon 3 (Asia) (En,Zh,Ko).iso
-5ef88572bf863db59f329c802594f2b9	Patapon (Asia) (v1.01).iso
 de2b9d9ded46cfd8bef478e56b9439de	PC Engine Best Collection - Soldier Collection (Japan).iso
 8b4b8d76d1e72ccf9227a02ecd77db66	PC Engine Best Collection - Tengai Makyou Collection (Japan) (v1.01).iso
 fcb6a7998fe800a9cf69bf3361a55ad7	Phantom Brave Portable (Japan) (v1.01).iso
@@ -541,10 +576,10 @@ dc215cc00aea5691c2283f183c36ca4f	Pinball (Japan) (v1.02).iso
 094359e79d65520152f6ba2a5c50a32e	Piposaru Academia 2 (Asia).iso
 9a7d12c358e70cfcea4a054437faeb64	Piposaru Academia 2 (Korea).iso
 8a66aa4f4ad75d6cfa8837d265e6deed	Pirates of the Caribbean - Dead Man's Chest (Japan) (v1.03).iso
-23900aa308e4248d44c4bfa8b2adf297	P-Kara (Japan).iso
 8c864ec5d133441494631f6ede1693e1	Ponkotsu Roman Daikatsugeki Bumpy Trot - Vehicle Battle Tournament (Japan) (v1.01).iso
 27d91ea8e5a499959618af0cd6eaa6a9	Portable Island - Tenohira no Resort (Japan) (v1.02).iso
 edaaa85a3c7141c3ab595d5ba0b114f1	Power Stone Portable (Japan) (v1.02).iso
+ef3a06f46104847dfae3ddc72dcb53cf	Pri-Saga! Portable (Japan) (v1.01).iso
 6d0ad1d1e0bc75189eeada18cb33875a	Prince of Persia - The Forgotten Sands (Asia) (En) (v1.01).iso
 1aa0ab1743d3b0da11e8528906df4e8d	Princess Arthur (Japan) (v1.01).iso
 9b8df59339025f34f978ec455fc048a4	Princess Evangile Portable (Japan) (v1.02).iso
@@ -554,7 +589,6 @@ ed26d02083c9f6299570cbfec2f7a13d	Princess Frontier Portable (Japan) (v1.02).iso
 156a6d02b2588493049f9f76574819fd	Princess Maker 5 Portable (Korea) (v1.02).iso
 06abf31338095318f57ff2d19536b04a	Princess Maker 5 Portable (Korea) (v2.00).iso
 ac3f7a0e72fa4ef22a610752662f06e0	Prinny 2 - Toukou Yuugi! Akatsuki no Pantsu Daisakusenss!! (Japan) (v1.03).iso
-ef3a06f46104847dfae3ddc72dcb53cf	Pri-Saga! Portable (Japan) (v1.01).iso
 fba9b5c8e14a2f58554d2e01527a5ea4	Pro Atlas Travel Guide (Japan) (v1.01).iso
 120e813ccd62b5a51c6eb654c432a5aa	Project Cerberus (Japan) (v1.03).iso
 c2571ed49a97be4a52339f2f745fa511	Pursuit Force - Daitsuiseki (Japan).iso
@@ -564,34 +598,37 @@ de8af62b4d044c42ac149e93450ce9ba	Puzzle Quest (USA) (Demo) [b].iso
 4fa5b399602b6041a749b0c20545fa57	PW - Project Witch (Japan) (v1.02).iso
 3cccf0b95102721ef3de841a6b7e8fc8	Qix++ (Japan) (v1.02).iso
 ba18f9965a4ea24c0c30ac4058346cd7	R-15 Portable (Japan) (v1.01).iso
+063e6961931b3d4a58a876ca2204e461	R-Type Tactics II - Operation Bitter Chocolate (Japan) (v1.05).iso
+790baeaf107cd1db8677da22f3a02b94	R.U.R.U.R - Petit Prince (Japan) (v1.06).iso
 7facbdb09a4804571bb5eb1ee055129c	Rain Wonder Trip (Japan) (En,Ja,Ko) (v1.03) (Genteiban).iso
 8332dc26c8d033bdb00496951dbf36b1	Rain Wonder Trip (Japan) (v1.03).iso
 0ab944efb15c43da84ce84c827488aca	Rain Wonder Trip (Korea) (v1.01).iso
 0229743e42ca9c71e6c4df28d3db1aa7	Rakuen Danshi (Japan) (v1.01).iso
 bce6923ce3048b898357a1dd10df2977	Ratatooee (Korea).iso
-f01eaa658a2214e172c7718b8550c15c	Ratchet & Clank 5 - Gekitotsu! Dodeka Ginga no MiriMiri Gundan (Japan) (Beta) (2006-12-20).iso
 36a33528e3291243e503c6049a40c82c	Ratchet & Clank - Size Matters (Korea).iso
 d2941fe2f0edccca68001972b86ed6b4	Ratchet & Clank - Size Matters (USA) (v1.01) (Beta).iso
+f01eaa658a2214e172c7718b8550c15c	Ratchet & Clank 5 - Gekitotsu! Dodeka Ginga no MiriMiri Gundan (Japan) (Beta) (2006-12-20).iso
 e047160e1743df3eadb81ce795a3471b	Real Rode Portable (Japan) (v1.01).iso
 0829542e15de0bedc5aa4f67a9c3e80d	Rebellions - Secret Game 2nd Stage (Japan) (v1.01).iso
-e021216391e106c126cd040bfbdd24f2	Reishiki Kanjou Sentouki Ni (Japan) (v1.01).iso
 f7f44f15a21bdc5cfbec5c3018128ddd	Reishiki Kanjou Sentouki - Seikuuou (Japan) (v1.01).iso
+e021216391e106c126cd040bfbdd24f2	Reishiki Kanjou Sentouki Ni (Japan) (v1.01).iso
 94105bb59eeb60bb01a3a0564e971904	Remember11 - The Age of Infinity (Japan) (v1.01).iso
 ad08830c3788ad7883949aff792d8011	Renai 0 Kilometer Portable (Japan).iso
 c585d2fb33f456321a68392823d85824	Renai Banchou - Inochi Mijikashi, Koiseyo Otome! Love is Power (Japan) (v1.01).iso
 57a906e0b49cf2902346a90fea0d66c5	Rengoku - The Tower of Purgatory (Japan) (v1.01).iso
 328da9fab7cd1acf3b13e17e673aba5c	Resistance - Retribution (Asia) (En,Ja,Fr,Es).iso
+eca899de7284518b5e1c46fa95ee113f	Rewrite (Japan) (v1.02) (Disc 1).iso
+6cdd02a80ec2d32e36ec3b66206aff70	Rewrite (Japan) (v1.02) (Disc 2).iso
 9cdb921eb67eb2c19f52c9d3aa83040f	Riviera - Yakusoku no Chi (Japan) (v1.01) (Special Edition).iso
 e8e66e034c92d9451b912ce7a0f6060c	Ro-Kyu-Bu! Himitsu no Otoshimono (Japan) (v1.01).iso
 2619239836eeba6524e74fae61ab7ce4	Romeo & Juliet (Japan) (v1.02).iso
 6622934ad3b4da7775a9d689ea293a87	Romeo VS Juliet (Japan) (v1.03).iso
-3566502c96a31544f21cc923a8c21cb3	Routes Portable (Japan) (v1.03).iso
 9ec81f45fba7af988b8bb30d94550a50	Routes Portable (Japan) (v1.03) (Kinou Genteiban).iso
-063e6961931b3d4a58a876ca2204e461	R-Type Tactics II - Operation Bitter Chocolate (Japan) (v1.05).iso
+3566502c96a31544f21cc923a8c21cb3	Routes Portable (Japan) (v1.03).iso
 6ff22c2dab57f9d7af740ee2dfa4575a	Rupupu Cube - Lup Salad Portable - Matatabi (Japan) (v1.01).iso
 2f49fd194940647203513d3e7eef53ea	Rurouni Kenshin - Meiji Kenkaku Romantan Kansei (Japan).iso
-790baeaf107cd1db8677da22f3a02b94	R.U.R.U.R - Petit Prince (Japan) (v1.06).iso
 9834862a5a50739b5154e5992d15578d	Ryu-koku (Japan) (v1.01).iso
+dbc97f967c2862cd7d50280a22fac864	S.Y.K - Shinsetsu Saiyuuki Portable (Japan) (v1.03).iso
 96a25aadea72a1e1d20a66882712b389	Saihate no Ima Portable (Japan) (v1.01).iso
 815f92d72a0f615b284325e8ada44ad9	Saikyou Shogi Bonanza (Japan) (v1.01).iso
 9022fa4184141276637b4b2f281adcd6	Saikyou Toudai Shogi Deluxe (Japan) (v1.01).iso
@@ -603,20 +640,28 @@ e8e66e034c92d9451b912ce7a0f6060c	Ro-Kyu-Bu! Himitsu no Otoshimono (Japan) (v1.01
 88bc4edd2bbdbedc7e7f3adc8da5f6de	Sampler Disc for PSP Vol. 1 (Europe) (Demo).iso
 1d43344358a6d703a7181e649b087fcb	Samurai Shodown Anthology (USA, Asia) (En) (v1.02).iso
 84e4ceccc2131e64b69636d86047bd8e	Sangoku Hime 2 - Tenka Hatou - Shishi no Keishousha (Japan) (v1.01).iso
-9850e5ad50d55d0f7af1d56a16330811	Sangokushi VI (Asia) (v1.01).iso
+70ea2b71a4be4af4cd85d3c25949d557	Sangoku Koi Senki - Otome no Heihou! (Japan) (v1.03) (Disc 1).iso
+75ec947c68d88e20f755107eef312b19	Sangoku Koi Senki - Otome no Heihou! (Japan) (v1.03) (Disc 2).iso
+fb975752e4edf1d9513d3099dca44cdc	Sangoku Rensenki - Otome no Heihou! Omoide Gaeshi - CS Edition (Japan) (Disc 1).iso
+07d1b3be9a50b6fd159f736fd9f39caa	Sangoku Rensenki - Otome no Heihou! Omoide Gaeshi - CS Edition (Japan) (Disc 2).iso
 722f99e048ae8586dba566e47f44342a	Sangokushi V (Japan) (v1.03).iso
+9850e5ad50d55d0f7af1d56a16330811	Sangokushi VI (Asia) (v1.01).iso
 e18cab06d1600f103e7622037c81e930	Satomi Hakkenden - Hachitama no Ki (Japan) (v1.03).iso
 a49a2515320c224820622dab81a33e69	Satomi Hakkenden - Murasame Maru no Ki (Japan) (v1.02).iso
+211c1e6b3b543b281c8e1a7005ab5005	Scared Rider Xechs - Stardust Lovers (Japan).iso
+e664529c90b8106d8563af4c1df12b04	Scared Rider Xechs (Japan).iso
 7db2fb277695b8d69ef1aa8487a5130f	School Wars (Japan).iso
 ef711012e8da9d52b679344a8072a74a	Scooby-Doo! - Who's Watching Who (Europe) (Es,It).iso
 b49b1d616a2073ead631b12399f82eb5	Second Novel - Kanojo no Natsu, 15fun no Kioku (Japan) (v1.01).iso
 e05c8963d0024a53aa1699c7e150f5ff	Secret Agent Clank (Europe) (En,Fr,De,Es,It) (Beta) [b].iso
 3a4f8a2841f1b5d9f777af4af5e52e68	Secret Game - Killer Queen Portable (Japan) (v1.01).iso
 de47c98d08754e42ca71d0e3119209a1	Secret of Evangelion Portable (Japan) (v1.01).iso
+9f561c28710d47874aab2b3f9012537b	Sega Rally (Russia).iso
 153dc7671ca04f100869cebb174881da	Sega Rally Revo (Europe) (En,Fr,De,Es,It) (Promo).iso
 81c9ab7fc9440c9b36d305b384d61428	Sega Rally Revo (Japan).iso
-9f561c28710d47874aab2b3f9012537b	Sega Rally (Russia).iso
 8b16b531c7b1e66262c867e902ec157b	Seinaru Kana - Orichalcum no Na no Motoni (Japan) (v1.03).iso
+e279e5c543b1a134694eaace65bc683b	Seishun Hajimemashita! (Japan) (v1.02) (Disc 1).iso
+1328fe0cae1bd2cf23603d1fe3334092	Seishun Hajimemashita! (Japan) (v1.02) (Disc 2).iso
 aaba78cbae4c602b8a66fa075d37f2bf	Seishun Hajimemashita! (Japan) (v1.02) (Special Disc).iso
 e1387febc8339597a9ba7251b4f6d135	Seitokai no Ichizon Lv. 2 Portable (Japan) (v1.01).iso
 4c470354f41a89148a3d14c43fc82e14	Sekai de Ichiban Dame na Koi - Full House (Japan).iso
@@ -631,49 +676,57 @@ c8fb1a6e491ae6cc3024f99e6f74defd	Shaun White Snowboarding (Japan) (v1.01).iso
 80168293118e61963ba083449623312e	Shichida Shiki Training - Unou Tanren Portable (Japan).iso
 40ee2f5b1ff8de189e29320fd8d3ebba	Shiei no Sona-Nyl Refrain - What a Beautiful Memories (Japan).iso
 c888541c72356a81fd0b46378bdab7d8	Shin Hisui no Shizuku - Hiiro no Kakera 2 Portable (Japan) (v1.01).iso
+0388496e51ca8c4d5f014e8cd4e761f6	Shin Ken to Mahou to Gakuen Mono. - Toki no Gakuen (Japan) (v1.01).iso
+c56509bed70b3bbab2eac66066b19fe7	Shin Koihime Musou Ryouran Gihen (Japan) (Disc 1).iso
+9f9b22cae12cb29a782f48cde0e0600d	Shin Koihime Musou Ryouran Gihen (Japan) (Disc 2).iso
+afecdece8d3b94e3e36264054694eeb4	Shin Koihime Musou Ryouran Gohen (Japan) (Disc 1).iso
+e1dde4bba4c83dd240032df36eaeb924	Shin Koihime Musou Ryouran Gohen (Japan) (Disc 2).iso
+5d3c64bd826febe6ba015ff586eaf305	Shin Koihime Musou Ryouran Shokuhen (Japan) (Disc 1).iso
+af5b98b61c1158ca81a17d15fbaefd53	Shin Koihime Musou Ryouran Shokuhen (Japan) (Disc 2).iso
+0980a068c69c4aecdb8f41b568c02a4a	Shin Sangoku Musou - 2nd Evolution (Asia).iso
+7f78c17019fc66e1b117649a5a50a61d	Shin Sangoku Musou - Multi Raid (Asia).iso
+a4dad40d9e5ad5c6baade31c4d6d232c	Shin Sangoku Musou - Multi Raid (Korea).iso
+bf09f734ae065060433e4d4a1473d9ae	Shin Sangoku Musou - Multi Raid 2 (Asia) (v1.01).iso
+743a8ec68af04600d99631a483a034a1	Shin Sangoku Musou 5 Special (Asia).iso
+a73a3cb3f953541ad7bd49a89426405a	Shin Sangoku Musou 5 Special (Korea) [b].iso
 4f5af880fe1638f1c1ac9fc6e6d31646	Shinigami Kagyou - Kaidan Romance (Japan) (v1.02).iso
 19f89253bc562e8ea95b974aa2763a41	Shinigami Shogyou - Kaidan Romance (Japan) (v1.02).iso
-0388496e51ca8c4d5f014e8cd4e761f6	Shin Ken to Mahou to Gakuen Mono. - Toki no Gakuen (Japan) (v1.01).iso
 9ff4e8146c6cb6511571a40bb3941c59	Shinkyoku Soukai Polyphonica - After School (Japan) (v1.01).iso
 9ccc56ea92041e3531a772331c1b59e0	Shinobido Homura (Japan) (v1.03).iso
 a96c18c7855dca67fff0af6d4ad68eaf	Shinobido Homura (Korea) (v1.01).iso
-0980a068c69c4aecdb8f41b568c02a4a	Shin Sangoku Musou - 2nd Evolution (Asia).iso
-743a8ec68af04600d99631a483a034a1	Shin Sangoku Musou 5 Special (Asia).iso
-a73a3cb3f953541ad7bd49a89426405a	Shin Sangoku Musou 5 Special (Korea) [b].iso
-bf09f734ae065060433e4d4a1473d9ae	Shin Sangoku Musou - Multi Raid 2 (Asia) (v1.01).iso
-7f78c17019fc66e1b117649a5a50a61d	Shin Sangoku Musou - Multi Raid (Asia).iso
-a4dad40d9e5ad5c6baade31c4d6d232c	Shin Sangoku Musou - Multi Raid (Korea).iso
 7f31f6738871b5a15ade009193f4a09b	Shinseiki Evangelion - Koutetsu no Girlfriend Tokubetsu-Hen Portable (Japan) (v1.01).iso
 0906dd0334e126390a23293860b4afce	Shinseiki GPX Cyber Formula VS (Japan) (v1.02).iso
 d52fa19af6cf2c56b4c84516a0e7c5b2	Shinsouban Clover no Kuni no Alice - Wonderful Twin World (Japan) (v1.04).iso
 132bf1dc46cc259c1aee34c243409396	Shinsouban Heart no Kuni no Alice - Wonderful Wonder World (Japan) (v1.03).iso
-20e09094e734bccb80d0cbb897b444d6	Shirahana no Ori - Hiiro no Kakera 4 (Japan) (v1.01).iso
 04a0924c9dd32ef5ac88044b548caf1c	Shirahana no Ori - Hiiro no Kakera 4 - Shiki no Uta (Japan) (v1.01).iso
+20e09094e734bccb80d0cbb897b444d6	Shirahana no Ori - Hiiro no Kakera 4 (Japan) (v1.01).iso
 e12fc1a0df9c70edf28036bfbbaff0e4	Shirokuma Belles Stars - Happy Holidays! (Japan) (v1.01).iso
 57895c26ef2df7734ed05476bd406a88	Shogi World Champion - Gekisashi Portable (Japan).iso
+9d8e013b6ab00598357c8c90c47ce3d7	SHPSPLeip.iso
 ef4bc6cd2888fa1d762a574a7e939047	Shukufuku no Campanella Portable (Japan) (v1.02).iso
 6f150ae3e2fb38b0435ab707ea256c77	Shutsugeki!! Otometachi no Senjou 2 - Amakakeru Shougeki no Kizuna (Japan) (v1.03).iso
 9ce817197c1ba45971ab2e12db4b144c	Silent Hill - Origins (Asia) (En,Fr,De,Es,It).iso
 0b8b549cd425a0358763b76f6a8f2a7b	Silent Hill - Origins (Europe) (En,Fr,De,Es,It) (v0.01) (Beta) (2007-07-19).iso
 9fd3df6fba0dc355f78b080fb664493a	Simple 2000 Series Portable!! Vol. 2 - The Shogi (Japan) (v1.04).iso
+6b7b57f55eb2f4b06582423a713c96fd	Simple 2500 Series Portable!! Vol. 1 - The Table Game (Japan) (v1.03).iso
 e72d1c2d28a1bda5ea07e0f33198d98d	Simple 2500 Series Portable!! Vol. 12 - The Hohei 2 - Senyuu yo, Sakini Yuke (Japan) (v1.02).iso
 fbe2d14050bfac47439231a62dd4068f	Simple 2500 Series Portable!! Vol. 13 - The Akuma Hunters - Exorsister (Japan) (v1.03).iso
-6b7b57f55eb2f4b06582423a713c96fd	Simple 2500 Series Portable!! Vol. 1 - The Table Game (Japan) (v1.03).iso
 56577a6a0cdacbae55e6a3b50a20dc57	Simple 2500 Series Portable!! Vol. 5 - The Block Kuzushi Quest - Dragon Kingdom (Japan) (v1.04).iso
 9ac3c7b00248e3aca9799f35d4707a03	Simple 2500 Series Portable!! Vol. 6 - The Sensha (Japan).iso
 53737616acf13c284489cbe08a380108	Simple 2500 Series Portable!! Vol. 7 - The Doko Demo Kanji Quiz 2006 (Japan).iso
 1f456fbf4b24b0fc9b09413fb8a1ddeb	Simple 2500 Series Portable!! Vol. 8 - The Dokodemo Girl Mahjong (Japan) (v1.02).iso
 e61aa9c5ee277df39eb5a6f7da0b031a	Simple 2500 Series Portable!! Vol. 9 - The My Taxi (Japan) (v1.01).iso
 76bfce56bc5cc4286c915c82656adbf4	Sims 2, The - Dr. Dominic no Inbou (Japan).iso
-362b1b53dc1a11e64738c120edfb18aa	Sims 2, The (Korea).iso
 0ece49ea50b7cb9dc8d49cddc0f7ee52	Sims 2, The - Pet Wan Nyan Life (Japan) (v1.01).iso
+362b1b53dc1a11e64738c120edfb18aa	Sims 2, The (Korea).iso
 a688abf36491618594b9221f1b8e1e4c	Slotter Mania P - Mach Go Go Go III (Japan) (v1.01).iso
 b5f3ab6fb38c35c745c27aebaec4f210	Slotter Mania P - SanSan HanaHana & SanSan Oasis (Japan) (v1.01).iso
 61ee04724ca206e9e7c3b181aedee9b7	Slotter Mania P - Tetsuya - Shinjuku vs Ueno - Jansei to Yobareta Otoko (Japan) (v1.02).iso
 e010f76b8d7cc1b814c170ff7373d244	SNK Arcade Classics 0 (Japan) (v1.01).iso
 14b0331cf5b4a2fa1f204d7d7fadb7bd	Snow Portable (Japan) (v1.03).iso
-06c91e0eae9879573b9007635f72e0cd	SOCOM - U.S. Navy SEALs - Fireteam Bravo 3 (Asia) (En,Ko) (v1.01).iso
+a13115d8534997f0c296af06dd2997ca	So-Ra-No-Wo-To - Otome no Quintet (Japan) (v1.03).iso
 cfd3d8017a514eb9cf608cbbd6896ecb	SOCOM - U.S. Navy SEALs - Fireteam Bravo (Korea).iso
+06c91e0eae9879573b9007635f72e0cd	SOCOM - U.S. Navy SEALs - Fireteam Bravo 3 (Asia) (En,Ko) (v1.01).iso
 6b4af525e907651ac60da016943beb0e	Solfege - Sweet Harmony (Japan) (v1.03).iso
 de19c8f162c28cb631d377db1714946f	Solomon's Ring - Hi no Shou (Japan) (v1.01).iso
 98fbeba1583cb5751a332418adc840cf	Solomon's Ring - Kaze no Shou (Japan) (v1.01).iso
@@ -681,11 +734,10 @@ cf3175c68bf4e361d8f8dfa93536bfe4	Solomon's Ring - Mizu no Shou (Japan) (v1.01).i
 3d7850381ef3cc99ce5feca646aa6cdb	Sonic Rivals 2 (Europe) (En,Fr,De,Es,It) (v0.03) (Beta) (2007-10-22).iso
 b5f1af1f9141d2d1416b04fb188a249e	Sonic Rivals 2 (USA) (Sample).iso
 0178b03ea2cbedb568f12ba812479435	Sony Computer Science Kenkyuusho Mogi Kenichiro Hakase Kanshuu - Nou ni Kaikan Aha Taiken! (Japan) (v2.01).iso
-7ac2c7fc5fdca4ffe58bf4297a8b5a23	Sorairo Portable (Japan) (v1.01).iso
 5059a6d3dc35d79ac93148efda92c208	Sora no Kiseki - Material Collection Portable (Japan).iso
 6299d8c4794300218a42c571d95dfa8f	Sora no Otoshimono - DokiDoki Summer Vacation (Japan) (v1.02).iso
-a13115d8534997f0c296af06dd2997ca	So-Ra-No-Wo-To - Otome no Quintet (Japan) (v1.03).iso
 5078bde48b41ee7a6f41053af10d8a4b	Sora o Aogite Kumo Takaku Portable (Japan) (v1.02).iso
+7ac2c7fc5fdca4ffe58bf4297a8b5a23	Sorairo Portable (Japan) (v1.01).iso
 5c5ed85f74a6c98c82996937997e94ee	Soreyuke! Burunyan-Man Portable - Torimodose! Ai to Seigi to Kibou no Tsunyakan (Japan) (v1.03).iso
 b46aada6b2f110e29bb99e394316c043	Space Invaders Pocket (Japan) (v1.04).iso
 b9e414bf05236e9cc9f59a7c83faadf8	Space Invaders Pocket (Korea).iso
@@ -706,50 +758,49 @@ f7472b60c08e32dc4eea06ed28621d70	Suiheisen made Nan Mile - Original Flight (Japa
 2c47c62da22d0a08d180e352c2416aad	Suto-Mani - Strobe-Mania (Japan) (v1.01).iso
 97463211e2b4f136d991ad65432db80b	Suzukaze no Melt - Days in the Sanctuary (Japan) (v1.01).iso
 85f83062ab5b4e021e4d6a47446d8c4a	Suzunone Seven! Portable (Japan) (v1.01).iso
-dbc97f967c2862cd7d50280a22fac864	S.Y.K - Shinsetsu Saiyuuki Portable (Japan) (v1.03).iso
 786c925e67b7486020a373bd5dfc398a	Taikou Risshiden IV (Japan) (v1.02).iso
 71e7594e2eb4d2a3134b88af037e9c5c	Taikou Risshiden V (Japan) (v1.01).iso
 24659504aba960bb695adddce60eea5a	Taikou Risshiden V (Japan) (v2.00).iso
-b4c5939b7c555596b36d166d358bfd38	Taishou Kitan (Japan) (v1.1).iso
 2701b2dff317f0376250ae3f92aec61d	Taishou Kitan - Koto no Hazakura (Japan) (v1.03).iso
+b4c5939b7c555596b36d166d358bfd38	Taishou Kitan (Japan) (v1.1).iso
 2ddfa1dabda10a5e8e7b333eaf75149e	Taito Memories Pocket (Japan) (v1.01).iso
 9595fafa04cf4adf818157ece405b196	Takuyo Mix Box - First Anniversary (Japan) (v1.01).iso
 0bf275e29ce0869b2a2ef64db59f1bb0	TalkMan (Asia) (En,Ja,Zh,Ko) (v1.03).iso
-7ecc33bfa9324cf3c4ac9ac27157a538	TalkMan Euro (Asia) (En,Fr,De,Es,It,Zh) (v1.03) (Software Doukonban).iso
-f8dea6f68a50b42977136491608fad3d	TalkMan EURO - TalkMan Europa Gengo Ban (Asia) (En,Fr,De,Es,It,Ko) (v1.03) (Microphone Doukonban).iso
 122aa1c5285de520eb343edc8c6e4fc3	TalkMan (Korea) (En,Ja,Zh,Ko) (v1.02).iso
+f8dea6f68a50b42977136491608fad3d	TalkMan EURO - TalkMan Europa Gengo Ban (Asia) (En,Fr,De,Es,It,Ko) (v1.03) (Microphone Doukonban).iso
+7ecc33bfa9324cf3c4ac9ac27157a538	TalkMan Euro (Asia) (En,Fr,De,Es,It,Zh) (v1.03) (Software Doukonban).iso
 7bc7460576cbbbff234f8a2d2ad123eb	TalkMan Shiki Shabelingual Eikaiwa (Japan) (En,Ja) (Microphone Doukonban).iso
 8869d3069f3419f61a2c0868aadb1e2f	TalkMan Travel (Japan).iso
 7ed09a4562c7dd861ad3a34bb456355b	Tama-Run (Japan) (v1.01).iso
 2625d41fe8f85c77c48b921cda20af5e	Tamayura - Mitamaokuri no Uta (Japan) (v1.01).iso
+91d264a38b3eb2413dfa0f8388ebe161	Tantei Opera Milky Holmes (Japan) (v1.01).iso
+96853b31eca0e3f66a8084871d6cc376	Tantei Opera Milky Holmes 1.5 (Japan) (v1.01).iso
+3299882e5619aaf02958a47e74cb5fe6	Tantei Opera Milky Holmes 2 (Japan) (v1.01).iso
 577e97509cff753f0a0cd598bd349aca	Tanteibu - The Detective Club - Haibu to Kaiga to Bakudan to (Japan) (v1.02).iso
 4e8fabfacd6673b7a9d01528d3bec240	Tanteibu - The Detective Club - Shissou to Hangeki to Daidanen (Japan).iso
 90a030fd5af19b003dd2ef1ddb29ee28	Tanteibu - The Detective Club - Tantei to Yuurei to Kaitou to (Japan) (v1.01).iso
-96853b31eca0e3f66a8084871d6cc376	Tantei Opera Milky Holmes 1.5 (Japan) (v1.01).iso
-3299882e5619aaf02958a47e74cb5fe6	Tantei Opera Milky Holmes 2 (Japan) (v1.01).iso
-91d264a38b3eb2413dfa0f8388ebe161	Tantei Opera Milky Holmes (Japan) (v1.01).iso
-5ffe9ca4a29a95ea5d115b40e59bba9b	Tasogaredoki - Kaidan Romance (Japan) (v1.02).iso
 e113de98ba5b24faa83bab7b34ccb1f0	Tasogare no Sinsemilla Portable (Japan) (v1.04).iso
-fd5bf88534ce4d96691e4bcb9d4c6d17	Tears to Tiara Gaiden - Avalon no Nazo Portable (Japan) (v1.01).iso
+5ffe9ca4a29a95ea5d115b40e59bba9b	Tasogaredoki - Kaidan Romance (Japan) (v1.02).iso
+eba68d9f6b19d9fb9b526e11215ef1b9	Te to Te Try On! - Tropical (Japan) (v1.01).iso
 3d607370f338318be107a563e1eda08b	Tears to Tiara - Kakan no Daichi Portable (Japan) (v1.04).iso
+fd5bf88534ce4d96691e4bcb9d4c6d17	Tears to Tiara Gaiden - Avalon no Nazo Portable (Japan) (v1.01).iso
 59ced92eb692eca3b20b85b98a6201dc	Tekken - Dark Resurrection (Asia) (En) (v1.02).iso
 cd6e174885e2336ff68b84039eeaf51c	Tenchi no Mon 2 Busouden (Korea).iso
 aaef0179db31ee90d727250ef2b0e128	Tenchou no Igo (Japan) (v1.01).iso
 98e05b4935255539107c3ddd69a54de2	Tenchu 4 Plus (Japan).iso
 e6fb8b231012293010a1e206d7338b9a	Tengai Makyou - Daiyon no Mokushiroku (Japan) (v1.02).iso
-c713a3dc7870e4a8e13951168cad5bc9	Tenshin Ranman - Happy GO Lucky!! (Japan) (v1.01).iso
 829d4623669ea7c4231317bbd0c3ef41	Tenshin Ranman - Happy GO Lucky!! (Japan) (v1.01) (Shokai Genteiban).iso
+c713a3dc7870e4a8e13951168cad5bc9	Tenshin Ranman - Happy GO Lucky!! (Japan) (v1.01).iso
 3270c5308e84377c3c0eead87a9d44d2	Test Drive Unlimited (Europe) (En,Fr,De,Es,It) (Promo).iso
-eba68d9f6b19d9fb9b526e11215ef1b9	Te to Te Try On! - Tropical (Japan) (v1.01).iso
+2b70704ad8458e146a3260719fd20262	Tiger Woods PGA Tour (Japan) (v1.03).iso
 7fe3896dd7b1e51e7cc817223c567ef1	Tiger Woods PGA Tour 07 (Japan).iso
 dce2181f83eaa538bfb0ddba265afee1	Tiger Woods PGA Tour 09 (USA) (Beta) (2008-07-15) [b].iso
-2b70704ad8458e146a3260719fd20262	Tiger Woods PGA Tour (Japan) (v1.03).iso
 441d991d8bcbdf7b56d66de60a528b1b	Tir-Na-Nog - Yuukyuu no Jin (Japan) (v1.01).iso
 4c5c01a4b4969bc3707e63dc100998ba	ToCA Race Driver 2 - The Ultimate Racing Simulator (Japan) (v1.03).iso
 147f01c81e7d41f7f4e58b1e0aef5806	ToHeart 2 - Dungeon Travelers (Japan) (v1.04).iso
+907978772d104e29f27b6f8151dc1cb5	Toki no Kizuna - Sekigahara Kitan (Japan) (v1.01).iso
 0db2564579b80fe3c54a30b48f86665b	Tokimeki Memorial - Forever with You (Japan) (v1.02).iso
 c16658b5277c9bf2ff43b2213773901b	Tokimeki Memorial Girl's Side Premium - 3rd Story (Japan) (v1.01).iso
-907978772d104e29f27b6f8151dc1cb5	Toki no Kizuna - Sekigahara Kitan (Japan) (v1.01).iso
 efe23fa3090ab44ffc1c300ae6c05431	Tokyo Yamanote Boys Portable - Dark Cherry Disc (Japan) (v1.01).iso
 298bc8fe8e4f4c42f1ef2f00ef621ca0	Tokyo Yamanote Boys Portable - Honey Milk Disc (Japan) (v1.01).iso
 687b75f16e03f982fe0745ee5bfbd576	Tomoyo After - It's a Wonderful Life - CS Edition (Japan) (v1.03).iso
@@ -763,8 +814,8 @@ f2846452b52e4d733b85eb73566cfd05	Tsuyo Kiss 2-Gakki Portable (Japan) (v1.03).iso
 6644647bccae7a63c4badd27a005ec88	Tsuyo Kiss 3-Gakki Portable (Japan).iso
 6dd413e805bccc71ccff9dbd12a5e7c1	Twinkle Crusaders GoGo! (Japan) (v1.01).iso
 b173fe78ab406d1b8f0c72d549523188	Ultimate Ghosts 'n Goblins (Asia) (En).iso
-508dd8b175e12b2b8a9f02845a5f4bf5	Ultraman - Fighting Evolution 0 (Japan) (v1.02).iso
 f142c857c839ece4399c7213183344be	Ultra Puzzle Bobble Pocket (Japan) (v1.03).iso
+508dd8b175e12b2b8a9f02845a5f4bf5	Ultraman - Fighting Evolution 0 (Japan) (v1.02).iso
 f0f0e207bff457f81fa950f443e32e9b	Umineko no Naku Koro ni Portable 1 (Japan).iso
 ad8c2b183a75b442b617ae40761dad55	Umineko no Naku Koro ni Portable 2 (Japan) (v1.01).iso
 be3adb8174aa561a1a1daa9dcbb514d5	UnchainBlades ReXX (Japan) (v1.03).iso
@@ -781,13 +832,13 @@ d2fc3b1e5f555837ab333046c0962de0	VitaminZ Graduation (Japan) (v1.01).iso
 0ea52a20b270c65dfb73b29a2b6c28f1	We Love Juggler (Japan) (v1.01).iso
 ed5b764cbae8b0471974966c307cee90	White Breath - Perfect Edition (Japan) (v1.04).iso
 269ab2b06f3d10332b40c6d73dd24dfe	Will O' Wisp Portable (Japan) (v1.02).iso
+af27b41272f2c951774b597a4c1cd678	Win-TOEIC Beginners' RC (Korea) (v1.02).iso
 eca31260ceff45b0aeeaefee42d6a4b9	Winning Eleven - Pro Evolution Soccer 2007 (USA) (En,Es) (v1.01).iso
 895db7289062c6318300a3a8632bb4e0	Winning Post 7 2013 (Japan) (v1.02).iso
-af27b41272f2c951774b597a4c1cd678	Win-TOEIC Beginners' RC (Korea) (v1.02).iso
 08229b102d7bcba02d4fe4abd57ee0f5	Wizardry Empire III - Haou no Keifu (Japan) (v1.01).iso
 c759efb518e97f76f0fc43cea6239ce5	World Championship Poker featuring Howard Lederer - All In (USA) (v1.01).iso
-1ad1d11716505e4280451dabbb4211c1	World Neverland 2 in 1 Portable - Olerud Oukoku Monogatari & Pluto Kyouwakoku Monogatari (Japan) (v1.01).iso
 a46a07b1f698108eb377644b0b0c117c	World Neverland - Qukria Kingdom Stories (Japan) (v1.01).iso
+1ad1d11716505e4280451dabbb4211c1	World Neverland 2 in 1 Portable - Olerud Oukoku Monogatari & Pluto Kyouwakoku Monogatari (Japan) (v1.01).iso
 57fdda4306e9c6509355957f6e5e817f	World Soccer Winning Eleven 2011 (Korea) (v1.01).iso
 5a8656ce81acd079314a3117b0ba3589	WRC - FIA World Rally Championship (Europe) (En,Fr,De,Es,It) (Beta) (2005-08-11).iso
 e7ee30773598f8efb0dd9aa00102c492	WTF - Work Time Fun (USA) (Beta) [b].iso
