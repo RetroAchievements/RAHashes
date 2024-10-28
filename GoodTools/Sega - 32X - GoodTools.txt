@@ -1,3 +1,6 @@
+f754457e362a347c80c87f99164c3349	32X SH-2 Master BIOS (U) (32X) [a1].bin
+f88354ec482be09aeccd76a97bb75868	32X SH-2 Master BIOS (U) (32X).bin
+7f041b6a55cd7423a6c08a219335269e	32X SH-2 Slave BIOS (U) (32X).bin
 b13eb9474a946eff30546a9a2a768649	32X Babe Picture by Fonzie (PD) (32X) [a1].32x
 2449e7f984fb74afd350777439dd3294	32X Babe Picture by Fonzie (PD) (32X).32x
 670b47d74d9253bacff69914c2b1b150	32X Color by mic (PD) (32X).32x

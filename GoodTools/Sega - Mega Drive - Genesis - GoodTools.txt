@@ -1,3 +1,18 @@
+83bddf31e7571aefc6add5d00707df9e	007 Shitou (J) [!].bin
+5eccf8b581dc63dd2031345fe1b7a7c9	12-in-1 (Unl) [!].bin
+b4f8adf6389848333ba67b632703b831	128X32 Big Logo Test by Local H (New) (PD).bin
+5efbde60132534af58c30b3b7e00286a	128X32 Big Logo Test by Local H (Old) (PD).bin
+42303b4e8c929e379ba5f328469f5286	13 Tiles Mahjong - 98 Pretty Girl (Ch).bin
+713a9722b02b8dbf9c707d1fda8a6210	16 Tiles Mahjong (Unl) [b1].bin
+13061097c8439fc571a2331e03501e85	16 Tiles Mahjong (Unl) [h1C].bin
+eb73019e35862ba47adef684d60cba56	16 Tiles Mahjong (Unl).bin
+15361874deab5a8c3a7611a81f041131	16 Ton (SN) (GNKO) (J) [!].bin
+8dcc8ad023a484e016976148eb6797b5	16 Ton (SN) (GNKO) (J) [b1].bin
+325965a3a8c6a47ee8efd59e4abfc25f	16 Ton (SN) (J) [!].bin
+00da49cd083827902ee03cae069a3739	2006 Playoff Edition JN25 (NHL 94 Hack).bin
+f53e9ffc030deb15985a657b1f1a8ee4	240p Test Suite v1.06 by Artemio Urbina (PD).bin
+46e3997a8fb86634a2091df467295e79	240p Test Suite v1.07 by Artemio Urbina (PD).bin
+cee480b5c109a54eafbb52d34237f870	260 Byte MegaDrive Demo by TascoDLX (v08-2009) (PD).bin
 df666774c0b73e112739b68c8841658b	3 Ninjas Kick Back (U) [!].bin
 6bd01ba698abe5c555a886e154707eb0	3 Ninjas Kick Back (U) [b1].bin
 6c55df688f80886bb3d1c76392851fb0	3 Ninjas Kick Back (U) [b2].bin
@@ -6,41 +21,23 @@ b5419735bf13379b76351eec8fc672a4	3 Ninjas Kick Back (U) [b3].bin
 b2b8e5a1f9328c96ec3299e2a0c3a581	3 Ninjas Kick Back (U) [h2C].bin
 fd767c6430012357812681c45f638453	3-in-1 Flashback - World Champ. Soccer - Tecmo World Cup 92 [p1][!].bin
 5f6f9129e2087739d88689ead0fa9c72	3-in-1 Road Rash - Ms. Pac-Man - Block Out [p1][!].bin
+85faa0aa360fe6e70b033422ee7827af	30 Day Challenge (S1 Hack).bin
+6a5433f6a132a2b683635819a6dcf085	32X M68000 BIOS (U) (32X).bin
 15b37dc9c789608503423a41f67b6d97	4-channel Sample Player (PD).bin
 da2febe0247983fa852dd3c99d438d2d	4-in-1 [p1][!].bin
 9c9aa352a9db58e28acffed9ea241ffc	4-in-1 [p1][b1].bin
 0c4b29f3044e9ce03cb3e7ba5f2e8b03	5-in-1 Megadrive Portable [p1][!].bin
-83bddf31e7571aefc6add5d00707df9e	007 Shitou (J) [!].bin
-5eccf8b581dc63dd2031345fe1b7a7c9	12-in-1 (Unl) [!].bin
-42303b4e8c929e379ba5f328469f5286	13 Tiles Mahjong - 98 Pretty Girl (Ch).bin
-713a9722b02b8dbf9c707d1fda8a6210	16 Tiles Mahjong (Unl) [b1].bin
-13061097c8439fc571a2331e03501e85	16 Tiles Mahjong (Unl) [h1C].bin
-eb73019e35862ba47adef684d60cba56	16 Tiles Mahjong (Unl).bin
-15361874deab5a8c3a7611a81f041131	16 Ton (SN) (GNKO) (J) [!].bin
-8dcc8ad023a484e016976148eb6797b5	16 Ton (SN) (GNKO) (J) [b1].bin
-325965a3a8c6a47ee8efd59e4abfc25f	16 Ton (SN) (J) [!].bin
-85faa0aa360fe6e70b033422ee7827af	30 Day Challenge (S1 Hack).bin
-6a5433f6a132a2b683635819a6dcf085	32X M68000 BIOS (U) (32X).bin
-f754457e362a347c80c87f99164c3349	32X SH-2 Master BIOS (U) (32X) [a1].bin
-f88354ec482be09aeccd76a97bb75868	32X SH-2 Master BIOS (U) (32X).bin
-7f041b6a55cd7423a6c08a219335269e	32X SH-2 Slave BIOS (U) (32X).bin
 818024154770ae75d18b316c906aa75f	60 Coloured Bars (PD).bin
 aa91087989a43e431e616f9d044f259c	60 Coloured Wavy Bars (PD).bin
-17d9b5ef163efa36a7ce753f759fcc6d	68kbench by Sik (PD).bin
-b4f8adf6389848333ba67b632703b831	128X32 Big Logo Test by Local H (New) (PD).bin
-5efbde60132534af58c30b3b7e00286a	128X32 Big Logo Test by Local H (Old) (PD).bin
-f53e9ffc030deb15985a657b1f1a8ee4	240p Test Suite v1.06 by Artemio Urbina (PD).bin
-46e3997a8fb86634a2091df467295e79	240p Test Suite v1.07 by Artemio Urbina (PD).bin
-cee480b5c109a54eafbb52d34237f870	260 Byte MegaDrive Demo by TascoDLX (v08-2009) (PD).bin
 7a43a9b9a1fd951ada76d0baf2f8ff26	688 Attack Sub (UE) [!].bin
 f3e46eb52374020bb021f979e9bfe36f	688 Attack Sub (UE) [b1].bin
 1dd3fd04b7724885e117ffbfc95df089	688 Attack Sub (UE) [h1C].bin
 992bc92cefa5e7dd48346499b43ca72b	688 Attack Sub (UE) [h2C].bin
 012d196417f491dccefa018d06a5cbcc	688 Attack Sub (UE) [h3C].bin
+17d9b5ef163efa36a7ce753f759fcc6d	68kbench by Sik (PD).bin
 eaeb354746f8956313f04749b26c7c93	777 Casino (Ch) [h1C].bin
 a31652789d40d6a9e2172b9722071b5f	777 Casino (Ch) [h2C].bin
 8ef5880ad7df2d37ca6b7333b240f5e3	777 Casino (Ch).bin
-00da49cd083827902ee03cae069a3739	2006 Playoff Edition JN25 (NHL 94 Hack).bin
 a4e3e5bd68f166c1ef2aa0baf0f9d7e2	A Ressha de Gyoukou MD (J) [!].bin
 264187788c7b4d458030773c7874c433	A Ressha de Gyoukou MD (J) [h1C].bin
 3031c6d0fab4fc654205834190f848a4	A Ressha de Gyoukou MD (J) [h2C].bin
@@ -73,21 +70,21 @@ b64e26645f16e9513c029bcbc11b4f33	Addams Family, The (Beta) [b2].bin
 56f9363a03c44f714dea7b3fc4f625c5	Addams Family, The (Beta) [h2C].bin
 f734e0d527d77396ceec2ef754338642	Addams Family, The (Beta).bin
 eba5f964addea18b70336d292a08698d	Addams Family, The (UE) [!].bin
-42245d47b018abbdee7be37a22a4051c	Addams Family, The (UE) [T+Bra100%_Tradu-GameX].bin
-ccef1fab8bbd33c088b9c5cbc944cd8c	Addams Family, The (UE) [T+Rus_NewGame].bin
-1536f741365b9ba4df102944649e1844	Addams Family, The (UE) [T+Rus_NewGame]_.bin
 c4c0ea9ed1d86f6307464ec02d0168fa	Addams Family, The (UE) [T-Bra30%_Tradu-GameX].bin
 71c4a1632f98c1b56801647c637f8935	Addams Family, The (UE) [T-Bra50%_Tradu-GameX].bin
+42245d47b018abbdee7be37a22a4051c	Addams Family, The (UE) [T+Bra100%_Tradu-GameX].bin
+1536f741365b9ba4df102944649e1844	Addams Family, The (UE) [T+Rus_NewGame]_.bin
+ccef1fab8bbd33c088b9c5cbc944cd8c	Addams Family, The (UE) [T+Rus_NewGame].bin
 d1c8b8474a9c47c5a2457b9549dee728	Advanced Daisenryaku (J) (REV01) [!].bin
 ed136ab94416cef5cc232bdb295f8df4	Advanced Daisenryaku (J) (REV01) [b1].bin
 31bafc4514ab3ce765ce995accc03aa7	Advanced Daisenryaku (J) (REV01) [h1C].bin
 338208489533e60268b6935599d72aa5	Advanced Daisenryaku (J) (REV01) [h2C].bin
 db409d5a394343c89b0f3d4e04a4dc1f	Advanced Daisenryaku (J) (REV01) [h3C].bin
-c0f6a98bb593df365a9862cf0a72ac92	Advanced Daisenryaku (J) (REV01) [T+Chi].bin
-4b5bca8b510508a7121e2a96b45ee4ac	Advanced Daisenryaku (J) (REV01) [T+Eng95%_NebelwurferHQ].bin
 fc57eeca9ef7febb8ae0ad40f52a867d	Advanced Daisenryaku (J) (REV01) [T-Eng40%_NebelwurferHQ].bin
 b45a0c972b0b5b0288cf2741bf427cac	Advanced Daisenryaku (J) (REV01) [T-Eng60%_NebelwurferHQ].bin
 262daa944ce851422b43d2d6c08c2973	Advanced Daisenryaku (J) (REV01) [T-Eng65%_NebelwurferHQ].bin
+c0f6a98bb593df365a9862cf0a72ac92	Advanced Daisenryaku (J) (REV01) [T+Chi].bin
+4b5bca8b510508a7121e2a96b45ee4ac	Advanced Daisenryaku (J) (REV01) [T+Eng95%_NebelwurferHQ].bin
 b8f8b29cd48645d09340e4a4cd4b51e0	Adventures of Batman and Robin, The (E) [!].bin
 4b5d5f1e29b9867e99867f0e7a2782ff	Adventures of Batman and Robin, The (E) [f1].bin
 0979d3dca105909089ee309bcc71ab2a	Adventures of Batman and Robin, The (JU) (Prototype - Apr 26, 1995).bin
@@ -147,6 +144,7 @@ e79ea2cbda5c04023a2e02eca14c38d6	Aero the Acro-Bat 2 (E) [f2].bin
 7b8cdc053e9e12168ee8fb1da316a77c	Aero the Acro-Bat 2 (U) [!].bin
 cb6c8251a8d5ac9b75a559e4cc211d5a	Aero the Acro-Bat 2 (U) [T+Rus].bin
 d111e3b10e610d54c97ce445fdfcdefe	Aerobiz (U) [!].bin
+080ac8776462266074962fff2b1d94f7	Aerobiz Supersonic (Ch) (MDX).mdx
 010fd96295c4be27049bcc490171bb0c	Aerobiz Supersonic (Ch) [a1].bin
 14dfc169fccc58666c89e27fe7702ce6	Aerobiz Supersonic (Ch).bin
 1269f44e846a88a2de945de082428b39	Aerobiz Supersonic (U) [!].bin
@@ -168,11 +166,11 @@ b00dcea1e76f23125cca2378b6c53d0b	After Burner II (UE) [b2].bin
 5a58ad2296b9bf2973e3ccedf28855b6	After Burner II (UE) [h3C].bin
 39711b215f92baa1f653cf5d37a3712a	After Burner II (UE) [h4C].bin
 37c438a87c9c8721317f255004fc1351	After Burner II (UE) [h5C].bin
+829839045613936a99d21d7bf705e76a	After Burner II (UE) [T-Bra_eduardo].bin
 5b6eaaa7af999eef196f3ff75b815d89	After Burner II (UE) [T+Bra].bin
 6616c58d2771feedafedddd39f9c799e	After Burner II (UE) [T+Bra100%_eduardo].bin
-897b5bc24494e7ec89740eed8b448ec0	After Burner II (UE) [T+Rus].bin
 8a9bd74bf74fec91b8bbb8a2a3ad07bd	After Burner II (UE) [T+Rus_Pedro].bin
-829839045613936a99d21d7bf705e76a	After Burner II (UE) [T-Bra_eduardo].bin
+897b5bc24494e7ec89740eed8b448ec0	After Burner II (UE) [T+Rus].bin
 36da21df6efdc91ba7aee98976f47f0d	Agent Hugo - Environment at Risk (R).bin
 554b3afd2a48c8ceffec187e42005056	Agent Hugo - In the World of Dinosaurs (R).bin
 972f4f683356e33b1a4a832f41a34b87	Air Buster (U) [c][!].bin
@@ -212,8 +210,8 @@ fcfb8a05af16012648304cecd7f39945	Alien 3 (UE) (REV00) [h1C].bin
 1d577d96dbf03b13babdfd91e163e9a8	Alien Soldier (E) [f2].bin
 54d06fe70c75bf6828a503bb8ce806b0	Alien Soldier (E) [f3].bin
 a44299939ee72fe7176af1adf25d2417	Alien Soldier (E) [T+Ita].bin
-24f9b0bd301846c6b0563613afa3b9e9	Alien Soldier (E) [T+Rus].bin
 072b12787ae4ad7fefea989ae36fda95	Alien Soldier (E) [T+Rus_bybyc9lc9l].bin
+24f9b0bd301846c6b0563613afa3b9e9	Alien Soldier (E) [T+Rus].bin
 affd55f3a235ca45220d53cc1a08bf1f	Alien Soldier (E) [t1].bin
 fd04c4616bb559e646937effdd343a09	Alien Soldier (J) [!].bin
 2b392af6175c8c8c0d935e20fc703346	Alien Soldier (J) [b1].bin
@@ -530,11 +528,11 @@ b7a3d8354833d038d313b0c62e9bbc73	Barver Battle Saga - Tai Kong Zhan Shi (Ch) (Si
 79aa0b7939c10dc39ae6c2dc72e3bdd2	Barver Battle Saga - Tai Kong Zhan Shi (Ch) (V0.9).bin
 dea437cdbc6cff0dfdfc3521592b7dcf	Barver Battle Saga - Tai Kong Zhan Shi (Ch) [a1].bin
 dee41197b65c1b562dd1870969f0c7ff	Barver Battle Saga - Tai Kong Zhan Shi (Ch) [a2].bin
+a71f6b7164ae3aa818d908fecf654741	Barver Battle Saga - Tai Kong Zhan Shi (Ch) [T-Rus1.0fixedbugs by Vlaskin M].bin
 fa157d29ef55c46b3297c9c22061e441	Barver Battle Saga - Tai Kong Zhan Shi (Ch) [T+Eng1.00_Djinn+Steve Martin].bin
 942215b21de9a858252da690289a3fbf	Barver Battle Saga - Tai Kong Zhan Shi (Ch) [T+Rus_Magic Team,glitch].bin
 8f05deab37b7a921006aec68b4c78998	Barver Battle Saga - Tai Kong Zhan Shi (Ch) [T+Rus1.2fixedbugs_Magic Team].bin
 43b003b39821120450a6c7c9eb8da1cf	Barver Battle Saga - Tai Kong Zhan Shi (Ch) [T+Rus1.2fixedbugsnfont_Magic Team].bin
-a71f6b7164ae3aa818d908fecf654741	Barver Battle Saga - Tai Kong Zhan Shi (Ch) [T-Rus1.0fixedbugs by Vlaskin M].bin
 7e0add665a16ce7d9965d8858c4c0ec4	Barver Battle Saga - Tai Kong Zhan Shi (Ch).bin
 18d2e49de69ec0504cb14a67531c50b6	BASIC Kernel Demo by Tom Maneiro (PD).bin
 794b5a572bd73e72079061ea56e25f1c	BASIC Kernel Demo R2 by Tom Maneiro (PD).bin
@@ -716,6 +714,7 @@ dab803d770c6c38ff6839919a820ffcd	Berenstain Bears', The - Camping Adventure (U) 
 d211c073b31a9548777b5df23d35ae6c	Berenstain Bears', The - Camping Adventure (U) [hI+1C].bin
 bc756b5d6fbb1f64dabcd334c50e9921	Berenstain Bears', The - Camping Adventure (U) [hI+2C].bin
 2a1281c204fe2c37859c54299c87a93f	Berenstain Bears', The - Camping Adventure (U) [t1].bin
+04d4c5f248b043f0bd45b8545c76f3bf	Berenstain Bears', The - Camping Adventure (U) [t1][b1].smd
 4cd523d7e7bb5a88a304780caccb826d	Berenstain Bears', The - Camping Adventure (U) [t1][b2].bin
 11b15b9a97a3218a822b65675af3b47d	Berzerk V1.00 by Paul Lee (PD) [h1C].bin
 a470f446d9c6aff0524a7d34d9aff2a6	Berzerk V1.00 by Paul Lee (PD).bin
@@ -750,13 +749,13 @@ b2b385c0c1d948f542e646c1a5607eae	Beyond Oasis (U) [h1C].bin
 bcddc9b1b7a1bb532eb9fe6308690fac	Beyond Oasis (U) [h4C].bin
 ca780e65a7ce7d5cb09b77b82e8fb53f	Beyond Oasis (U) [h5C].bin
 ad039ef5dc7c92d2d54a16ab2d6b3a3f	Beyond Oasis (U) [h6C].bin
+d4279d3154c235458dd12e928e948291	Beyond Oasis (U) [T-Rus_Shedevr].bin
 b18d41264fb9041c0cb0079ef756a757	Beyond Oasis (U) [T+Bra100].bin
 ca7a0e80ab984f187268cf019e32a646	Beyond Oasis (U) [T+Bra100][h1C].bin
 0f686b3c6c17669cd78efab2965e04d4	Beyond Oasis (U) [T+Bra100][h2C].bin
 8016c617df3830f923c79d338a4fc673	Beyond Oasis (U) [T+Bra100][h3C].bin
 14df995aaf7cc3cfcd117df335f98abb	Beyond Oasis (U) [T+Eng1.0_Eien Ni Hen+Husky].bin
 b76611c91d459a23047b54ffca85ed27	Beyond Oasis (U) [T+Rus_Shedevr].bin
-d4279d3154c235458dd12e928e948291	Beyond Oasis (U) [T-Rus_Shedevr].bin
 cdf76beb1d4bcc91f16affbdf681016a	Beyond Zero Tolerance (Beta) [h1].bin
 d4a0c3e21c30699adf99f4c17cbed541	Beyond Zero Tolerance (Beta) [o1].bin
 d3c1b8625dfd2f79cd1ad80a480829e0	Beyond Zero Tolerance (Beta) [o1][h1C].bin
@@ -768,9 +767,6 @@ c70c6517f347e92a8637a1f33daea986	Beyond Zero Tolerance (Beta) [o2][h1C].bin
 83fadef77e567d55b943a9a053249317	Bible Adventures (V5.0) (Unl) [h1C].bin
 dda4dd60805043845d1633b9274059dc	Big Cheese, The by Tyson6969 (PD).bin
 de4310d556f51254fe21600292ae774c	Bill Walsh 2010 Gators vs Sooners (v1.2) (Hack).bin
-1d51bbd116b76c6fdd6b7dd4c80e4957	Bill Walsh College Football (UE) [c][!].bin
-0855445943764df40fa2eb9a05ef924a	Bill Walsh College Football (UE) [h1C].bin
-2833a5de91ca46f9be83d272e93fab01	Bill Walsh College Football (UE) [h2C].bin
 585030d462ab6de4c79dc434141d16e2	Bill Walsh College Football '95 (U) [!].bin
 a1a46faca6b86d20ff21f98f9c4310aa	Bill Walsh College Football '95 (U) [f1].bin
 198b3d01ba5a80b316a052b6a4d6a307	Bill Walsh College Football '95 (U) [f1+1C].bin
@@ -778,6 +774,9 @@ a1a46faca6b86d20ff21f98f9c4310aa	Bill Walsh College Football '95 (U) [f1].bin
 3c64813f74b3c1a79b169ddf91ef472d	Bill Walsh College Football '95 (U) [f1+3C].bin
 04bdd838bee35e5bcc686338df22ae48	Bill Walsh College Football '95 (U) [f1+4C].bin
 e551f38cfef56d4441d24f56018093b4	Bill Walsh College Football '95 (U) [f1+5C].bin
+1d51bbd116b76c6fdd6b7dd4c80e4957	Bill Walsh College Football (UE) [c][!].bin
+0855445943764df40fa2eb9a05ef924a	Bill Walsh College Football (UE) [h1C].bin
+2833a5de91ca46f9be83d272e93fab01	Bill Walsh College Football (UE) [h2C].bin
 8cbfcdce87e1b7f46133b610efa268fb	Bill Walsh College Football CFL98 V.1D (Hack).bin
 0b37f74d4482b8831916a1e8bf39708c	Bill Walsh College Football Plus 1k (Hack).bin
 d430c9bbc34995e2ff6d014ac650958b	Bill Walsh College Football Plus 1p15 (Hack).bin
@@ -848,12 +847,12 @@ cb06c84939896e84eb519f8847ada176	Blood Shot (E) (M4) [h3C].bin
 89757f84461cf5c7aae5e4ac096cc841	Blue Almanac (J) [h2C].bin
 bee1e7587d5da920f82580d28515d197	Blue Blur, The (S1 Hack).bin
 60263bbf4fa79c30bc1818ab3b9501ff	Blue Ring (S1 Hack).bin
+07cd99298173aafc73a0efccc949ae50	Blue Sphere Plus Version 10 by MainMemory (SK Hack).bin
+921734da4123ecbc4494e32fcf071e56	Blue Sphere Plus Version 11 by MainMemory (SK Hack).bin
 1c469ac5636ae76c5db749e6038509b2	Blue Sphere Plus Version 4 by MainMemory (SK Hack).bin
 3cf1f9e4c7e322ad0ce516c931745f29	Blue Sphere Plus Version 7 by MainMemory (SK Hack).bin
 bd5a12179371b21b3c868770aca775e5	Blue Sphere Plus Version 8 by MainMemory (SK Hack).bin
 dab2e5905c45ea84a9f44926ff797d1e	Blue Sphere Plus Version 9 by MainMemory (SK Hack).bin
-07cd99298173aafc73a0efccc949ae50	Blue Sphere Plus Version 10 by MainMemory (SK Hack).bin
-921734da4123ecbc4494e32fcf071e56	Blue Sphere Plus Version 11 by MainMemory (SK Hack).bin
 c7017207117032550597269ae29e21c8	Blue Sphere Standalone ROM by MainMemory (SK Hack).bin
 e64db3d4c2ccc0b0b3a24b54bc425ec3	Body Count (Beta) (M5).bin
 5128015e3441f5bbc9f8a59d9cfbe76b	Body Count (E) (M5) [!].bin
@@ -978,18 +977,18 @@ f768fbba021636fff3682b9ae116076a	Buck Rogers - Countdown to Doomsday (UE) [!].bi
 45fd20abca77fe3f284984a22473d366	Buck Rogers - Countdown to Doomsday (UE) [o1][b1].bin
 4942999ca5961c0d94e2450e33729f09	Budokan - The Martial Spirit (E) [!].bin
 4d247a5fc611e66dbe46f960292e3656	Budokan - The Martial Spirit (U) [c][!].bin
-e8336804126e38e118be63262c6aa763	Bugs Bunny in Double Trouble (E).bin
-3d6dc43a998301c6a9ed2fc1a7e8db40	Bugs Bunny in Double Trouble (U) [!].bin
-c33d48ae078e5871b6c9ea3df8ee3393	Bugs Bunny in Double Trouble (U) [b1].bin
-cec34a0a3ea4b2627fb81f42c4b643e4	Bugs Bunny in Double Trouble (U) [h1C].bin
-a7e1a8ff27a9e4d95d77406c5c0f81eb	Bugs Bunny in Double Trouble (U) [h2C].bin
-6f1b7ccac894a900217a1656c96b2f7f	Bugs Bunny in Double Trouble (U) [T+Rus_NewGame].bin
 fff8006af9f09aae3f9b8570944ca1a7	Bug's Life, A (Unl) [!].bin
 6f3b4f61ffc291ca4cd5278cf12cc5c3	Bug's Life, A (Unl) [a1][!].bin
 bc1ed0d4a9202082a2503d568f5f484a	Bug's Life, A (Unl) [f1].bin
 7e0b96b51d4f8def3da98b6f468840eb	Bug's Life, A (Unl) [f2].bin
 4d8ef21f59df0176653fc8e5ff570300	Bug's Life, A (Unl) [h1C].bin
 614ed3d427e6ee0976b3d08c39c5c8e6	Bug's Life, A (Unl) [T+Rus_MagicGame].bin
+e8336804126e38e118be63262c6aa763	Bugs Bunny in Double Trouble (E).bin
+3d6dc43a998301c6a9ed2fc1a7e8db40	Bugs Bunny in Double Trouble (U) [!].bin
+c33d48ae078e5871b6c9ea3df8ee3393	Bugs Bunny in Double Trouble (U) [b1].bin
+cec34a0a3ea4b2627fb81f42c4b643e4	Bugs Bunny in Double Trouble (U) [h1C].bin
+a7e1a8ff27a9e4d95d77406c5c0f81eb	Bugs Bunny in Double Trouble (U) [h2C].bin
+6f1b7ccac894a900217a1656c96b2f7f	Bugs Bunny in Double Trouble (U) [T+Rus_NewGame].bin
 828f0c64662dec4cad1d973c79ad5823	Bulls vs Blazers and the NBA Playoffs (UE) [!].bin
 901654aa5a77458b7f41b1e957cf7082	Bulls vs Blazers and the NBA Playoffs (UE) [b1].bin
 70fa243ba1fce52c18027ccc1eb13821	Bulls vs Blazers and the NBA Playoffs (UE) [h1C].bin
@@ -1049,6 +1048,8 @@ cd35d0cf776f2bde77bb3a5d13ca8a8e	Cannon Fodder (E) [o1][h2C].bin
 2c4ebfd7d1a978f34875ab91c3d13271	Cannon Fodder (E) [p1].bin
 fb892fd35687b9b30836af07250b399f	Cannon Fodder (E) [T+Rus_NewGame].bin
 806b20618aef296a56c2c3f0a628e369	Cannon-Smash Demo (PD).bin
+232874913a8c74deecb24145d60917aa	Capt'n Havoc (E) [!].bin
+b58d61939d340d365336c81270d1121a	Capt'n Havoc (E) [h1C].bin
 8bfee437979fff20e92c335713a4d861	Captain America and the Avengers (Beta) [b1].bin
 baa3bd97e6c06da5e808556a6d04adc4	Captain America and the Avengers (Beta) [b2].bin
 39b52537d5e9ee1420b299930168af52	Captain America and the Avengers (Beta).bin
@@ -1067,8 +1068,6 @@ df959dd29aa9f8cb9f5cfb28e595c6bf	Captain Planet and the Planeteers (Beta) [b1+1C
 0edcef2bc04f338a5c7362f3007be037	Captain Planet and the Planeteers (Beta).bin
 4f95573c08f905466e01cf8e1bc59a73	Captain Planet and the Planeteers (E) [!].bin
 23c859c69edb043664fd478205eff605	Captain Planet and the Planeteers (E) [T+Bra_Carlson].bin
-232874913a8c74deecb24145d60917aa	Capt'n Havoc (E) [!].bin
-b58d61939d340d365336c81270d1121a	Capt'n Havoc (E) [h1C].bin
 a58307068429092bedd24e0ef6212375	Car BMP FMV by Tiido Priimagi (PD).bin
 0858b912cec9913a3b21fca0fdae65bc	Cars (R).bin
 f4b600038306fcb9da30892936c6d258	Cars 2 (R).bin
@@ -1089,9 +1088,9 @@ c804c89f772b8782785248837e80c5d6	Castlevania - Bloodlines (U) [T+Rus_NewGame].bi
 b7ab3ef9d51d2ed9228deaad0203adce	Castlevania - The New Generation (Beta).bin
 10d2e8576380e5c22d8771f470747c98	Castlevania - The New Generation (E) [!].bin
 13afde6e1375a833036e09cb4db7f8cf	Cat at Crossroad by Ventzislav Tzvetkov (PD).bin
+e71a93d1eb9208cf611fedfd6e87983a	CDX Pro BIOS V1.70 (Unl) [b1].bin
 2b2039e0833e58606778a60177233aa6	CDX Pro BIOS V1.8I (Unl) [o1].bin
 c4d98fe2f94ab772e317776d0c6e1f1e	CDX Pro BIOS V1.8I (Unl).bin
-e71a93d1eb9208cf611fedfd6e87983a	CDX Pro BIOS V1.70 (Unl) [b1].bin
 6624adfc708f1520bd3b7bdf6517b596	Censor C64 Picture Demo (PD) [h1C].bin
 63381dac874fc5ec878e6d9f34491b1b	Censor C64 Picture Demo (PD) [h2C].bin
 b8f9b4a7f1186fae5a50cff854ab3f64	Censor C64 Picture Demo (PD).bin
@@ -1367,8 +1366,8 @@ c1bd42b62c519a3933f685d1e988996c	Comix Zone (U) [p1+1C][T+Spa090_kale].bin
 a47a81aeadd55a91589596e8f1fd719f	Comix Zone (U) [p1+2C].bin
 5b9cc8e36b9cf55eaa59df878ce84caf	Comix Zone (U) [T+Ger].bin
 8af13eb0872e102a1cd33b3d6ac594fd	Comix Zone (U) [T+Ita].bin
-afefa6517e8ee35f2a5b5b42964f4295	Comix Zone (U) [T+Rus].bin
 f75ac0929ebdff0c208fe717cc482097	Comix Zone (U) [T+Rus_NewGame].bin
+afefa6517e8ee35f2a5b5b42964f4295	Comix Zone (U) [T+Rus].bin
 7f121ad5e332cb76e861fd0dfefcc0d8	Comix Zone (U) [T+Spa].bin
 38aff5287c05dba4c5bbd269a268bf22	Comix Zone (U) [T+Spa090_kale].bin
 337f39b7dfe87cf0e03836ea5a098594	Comix Zone Music Trax (PD).bin
@@ -1387,12 +1386,12 @@ be5b3fe839d98e574865c82a63a53026	Congo - The Game (Beta).bin
 2bd30479556da5c310d8f2a1fe66e8fa	Contra - Hard Corps (U) [!].bin
 32074264c1476f16505a88e4f76e4ff1	Contra - Hard Corps (U) [b1].bin
 5339a3590e76f890c217ca4f18a1e697	Contra - Hard Corps (U) [h1C].bin
+949eaaf5f74ae58511e4b228e2881ff6	Contra - Hard Corps (U) [T-Bra_BRGames].bin
 9d723e9c13a0912ad39cb8dfae613934	Contra - Hard Corps (U) [T+Bra_BRGames].bin
 e7dbf0980a0cbbd5fd0eeb90f3f96fea	Contra - Hard Corps (U) [T+Fre].bin
 41f4abc1d40e41aa481f3b467cc195ef	Contra - Hard Corps (U) [T+Rus_Shedevr].bin
 9a48635db0a6261f0006d7e37dc2e0f9	Contra - Hard Corps (U) [T+Rushack4].bin
 1c8f48eedd9dc3a618b9b2049444dff6	Contra - Hard Corps (U) [t1].bin
-949eaaf5f74ae58511e4b228e2881ff6	Contra - Hard Corps (U) [T-Bra_BRGames].bin
 a4e4f5d87359fb44620a6d0b9dce5883	Contra - Hard Corps Enhancement by MIJET (Hack).bin
 dff2ebcf80b2b58a5609f0224998021c	Contra - The Hard Corps - Clone by TI (Hack).bin
 3d94f57af4258416e65197a9da854219	Contra - The Hard Corps (J) [!].bin
@@ -1405,12 +1404,12 @@ f22e3a254701fb5cdd83fe21a9a9fa17	Contra - The Hard Corps (J) [f1+2C].bin
 7d3890380413376a572c5f2033098a50	Contra - The Hard Corps (J) [f3].bin
 396f6bc3ef59bea21be595a0d0ba32a7	Contra - The Hard Corps (J) [h1C].bin
 871a9d8a3910ed9e3b3081dc1970c985	Contra - The Hard Corps (J) [p1].bin
+6a14bb16ad69d3504e662a00c21c0a90	Contra - The Hard Corps (J) [T-Chi_Phanteam].bin
 5e31d4a00d896105198b5af9822c00a5	Contra - The Hard Corps (J) [T+Chi_Phanteam].bin
 460e556a85ea792374c3849ff440c3f8	Contra - The Hard Corps (J) [T+ChiSimp].bin
 7fa2e31a9259cef5108976c9e48cc6fa	Contra - The Hard Corps (J) [T+Rus_NewGame].bin
 decd515989e346e1bf1c287cc5741c31	Contra - The Hard Corps (J) [t1].bin
 491287d22f4c7a900f592b706546a7ae	Contra - The Hard Corps (J) [t2].bin
-6a14bb16ad69d3504e662a00c21c0a90	Contra - The Hard Corps (J) [T-Chi_Phanteam].bin
 e852e1d73b0c6238a82818b5c6f0bb4f	Cool Spot - Night (Hack).bin
 53703c130aa21b50a135c416e4297b07	Cool Spot (Beta) [f1].bin
 dfb9a6f0b71eaa45202f5cdb78ba5879	Cool Spot (Beta) [f1+1C].bin
@@ -1480,9 +1479,9 @@ d062b85cbbd54f57de313d09e5c0bfec	Crue Ball (UE) [!].bin
 b85317024d0e10c66c0636403755ea71	Crusader of Centy (U) [h1C][T-Bra].bin
 9ef0dc9e8ca55328b2490631fcd300a2	Crusader of Centy (U) [h2C].bin
 dab5d3ee4ce95f919c57d0020a1b8cd5	Crusader of Centy (U) [h2C][T-Bra].bin
+97b55497cff323c22837914b266e682b	Crusader of Centy (U) [T-Bra].bin
 83cd070ca2c80be6bb57117a19ee203e	Crusader of Centy (U) [T+Bra].bin
 c5cd8a2d316ec23b869122920e029c3b	Crusader of Centy (U) [T+Rus_Shedevr].bin
-97b55497cff323c22837914b266e682b	Crusader of Centy (U) [T-Bra].bin
 c54dc959882622dc6e6cc92b03dd03b9	Crying - Asia Seimei Sensou (J) [!].bin
 0e553bdf91220ad7fedb816ccee6001c	Crying - Asia Seimei Sensou (J) [h1C].bin
 1f61b3265617085a97bd4f5c54573ded	Crying - Asia Seimei Sensou (J) [h2C].bin
@@ -1524,6 +1523,12 @@ d9c9a84efb94d9b82f1a33ab97647705	Cutthroat Island (UE) [p1][!].bin
 28c382676ba9d4ae2944895c3166677e	Cuty Suzuki no Ringside Angel (J) [h1C].bin
 89320d6602920249cd4722d0d83c5ea9	Cuty Suzuki no Ringside Angel (J) [h2C].bin
 b2662178b0f91002e78487e86b19d8f4	Cyber Shell Multigame Cartridge (Menu) (Unl) [T+Rus_NewGame].bin
+0d4d655d51f1e2343c655bb1e95d6654	Cyber-Cop (U) [c][!].bin
+98b38ad57880b4da273f8f01a8232d53	Cyber-Cop (U) [h1C].bin
+36d931b5df0c8b113afb1bb3f43ff2ac	Cyber-Cop (U) [h2C].bin
+7c36b528d5edcc25776acee46a052f7d	Cyber-Cop (U) [hI].bin
+c37a2d2f9b7d31640bc92822f842588f	Cyber-Cop (U) [T+Rus_Shedevr].bin
+b9d567e947d8c5161828748400f3dc2f	Cyber-Cop (U) [T+Rus_Shedevr][b1].bin
 e19be4bcb50e4908c5b9af3bd69caa39	CyberBall (W) [!].bin
 e6c9d7c1a9a19f29ed764a03b82c7ee9	CyberBall (W) [b1].bin
 99d6b50dd8b26bad9a0c4611e7865c62	CyberBall (W) [b2].bin
@@ -1532,12 +1537,6 @@ e6c9d7c1a9a19f29ed764a03b82c7ee9	CyberBall (W) [b1].bin
 fba019d00c4c25c07ec80742d1d1e515	CyberBall (W) [b5].bin
 63ae9492968cfaf686936661dc2817a6	CyberBall (W) [h1C].bin
 9bbc1d0f453903c35c2db9df9d2772cc	CyberBall (W) [h2C].bin
-0d4d655d51f1e2343c655bb1e95d6654	Cyber-Cop (U) [c][!].bin
-98b38ad57880b4da273f8f01a8232d53	Cyber-Cop (U) [h1C].bin
-36d931b5df0c8b113afb1bb3f43ff2ac	Cyber-Cop (U) [h2C].bin
-7c36b528d5edcc25776acee46a052f7d	Cyber-Cop (U) [hI].bin
-c37a2d2f9b7d31640bc92822f842588f	Cyber-Cop (U) [T+Rus_Shedevr].bin
-b9d567e947d8c5161828748400f3dc2f	Cyber-Cop (U) [T+Rus_Shedevr][b1].bin
 5a346677a147dd28128714931b1fac8b	Cyborg Justice (Beta) [hI].bin
 06659b07be10429f2be6a57d83dea2cd	Cyborg Justice (Beta).bin
 d2d8c19c67e14a0d509a454bd880bbdd	Cyborg Justice (W) [!].bin
@@ -1662,6 +1661,7 @@ f93c0545385edce6ccef288ac767c670	Devil Crash MD (J) [!].bin
 575a208843503078d5f60dd289e97dc2	Devil Crash MD (J) [h1C].bin
 79460d4e864928a797f7b118caff95be	Devil Crash MD (J) [h2C].bin
 01c1494fdd3683276049f5b0f46ba815	Devil Crash MD (J) [p1][!].bin
+7d08c574b564530571f2dee488ae40a9	Devil's Course 3-D Golf (J) [!].bin
 764415e913d8f042ab5502ecadb7edf4	Devilish - The Next Possession (U) [b1].bin
 6fa7cd092a175c9040b318d289ffff93	Devilish - The Next Possession (U) [c][!].bin
 dbfea9b2df02226293473d760d6f29e1	Devilish - The Next Possession (U) [h1C].bin
@@ -1669,7 +1669,6 @@ dbfea9b2df02226293473d760d6f29e1	Devilish - The Next Possession (U) [h1C].bin
 fd0ec1dafe5061c400a2cb4a35d6268c	Devilish Mahjong Tower (Ch) [b2].bin
 c7f990809ce9c16f4d3f57be53fd5128	Devilish Mahjong Tower (Ch) [b3].bin
 b6ce4e32558f71766b662cb741cd4570	Devilish Mahjong Tower (Ch).bin
-7d08c574b564530571f2dee488ae40a9	Devil's Course 3-D Golf (J) [!].bin
 7a169a96b80d7480d125966f3908549c	DevSter RS232 Bootloader (PD).bin
 a9824750f4408d05e8ee2d91e5e05aa6	Diablo (R).bin
 16c1ee196fb5a4ad9a41eaaf9baf7042	Dial Q o Mawase! (Unl) [h1C].bin
@@ -1823,7 +1822,6 @@ fac00051345aea01ad20961e679a9b9f	Dragon Ball Z - Buyuu Retsuden (J) [b2].bin
 f4e34b59a3807f2aa5e4aed88e623c75	Dragon Slayer II - The Legend of Heroes (J) [h1C].bin
 1946d44a3bdeb3c6077ad36fe12a7542	Dragon Slayer II - The Legend of Heroes (J) [T+Chi(Trad)].bin
 a605ed101d9b56370a79672a34d519b5	Dragon Slayer II - The Legend of Heroes (J) [T+Chi].bin
-7def5af414b72917e40f0a582b95e038	Dragonball - Final Bout (Ch-Trad).bin
 3e92d413ca258268cc138e545cea52b1	Dragon's Eye - Shanghai 3 (J) [!].bin
 75bd8d00961b357d09d0b9b5dcc89743	Dragon's Eye - Shanghai 3 (J) [b1].bin
 8389cefd2473e45034bfe4bccfe9a8fc	Dragon's Eye - Shanghai 3 (J) [h1C].bin
@@ -1834,6 +1832,7 @@ e5aa8324d06bcd8234af77781aa7c2bf	Dragon's Eye - Shanghai 3 (J) [h2C].bin
 ba91bc7a28e50fdd14f3c3fb87cdc4b5	Dragon's Revenge (J).bin
 f2b7d96aae4b5fdc6a1eac5a045e66c4	Dragon's Revenge (UE) [!].bin
 f47bb0e0326437fe4c0610a939ff09cb	Dragon's Revenge (UE) [h1C].bin
+7def5af414b72917e40f0a582b95e038	Dragonball - Final Bout (Ch-Trad).bin
 32c09d5fe55a2f484d8b75d8b7833e8e	Draxos (J) [!].bin
 af092db5ba7221fc207865448ada05b4	Dream Team USA (J) [!].bin
 5093ad6641abb0c3757d24da094a51e6	Duke Nukem 3D (B) [!].bin
@@ -1859,15 +1858,15 @@ e2b08a475d10f75072f0914f0e3e2fe4	Dune - The Battle for Arrakis (E) [f1][T+Rus].b
 b914baf0c5be3a93dc386fcc368db7af	Dune - The Battle for Arrakis (E) [f2][T+Rus].bin
 422b0a43aa2305cac9902ad9254002d5	Dune - The Battle for Arrakis (E) [hI].bin
 dd6cff412d514afa1400dd84136c1271	Dune - The Battle for Arrakis (E) [hI+C].bin
+75fb177059111639b1b4ece300a3acad	Dune - The Battle for Arrakis (E) [T-Rus].bin
 e504399283290f47c1c35b65f7f5534f	Dune - The Battle for Arrakis (E) [T+Rus0.2_Shedevr].bin
 3df8c29fe3d4848400b1a8eb8641075e	Dune - The Battle for Arrakis (E) [T+Rus2.0_Shedevr].bin
-75fb177059111639b1b4ece300a3acad	Dune - The Battle for Arrakis (E) [T-Rus].bin
 a0797d35cfb48d68ebb8b977d057ba3e	Dune - The Battle for Arrakis (E).bin
 d4df66f77d52718798ec07d350d3a3cd	Dune - The Battle for Arrakis (U) [!].bin
 5059a4f2f26e3cd8ee8fa750bd65126f	Dune - The Battle for Arrakis (U) [b1].bin
+7a063332c4fad80c7944c8c4e16012d0	Dune - The Battle for Arrakis (U) [T+Rus_3DSchumacher].bin
 1d664179b18b8497cddd03aa8a697420	Dune - The Battle for Arrakis (U) [T+Rus].bin
 81f345641ad5d25bff4a7409f712dbbb	Dune - The Battle for Arrakis (U) [T+Rus][b1].bin
-7a063332c4fad80c7944c8c4e16012d0	Dune - The Battle for Arrakis (U) [T+Rus_3DSchumacher].bin
 3a90950dcdd24eabea3122177ecb826d	Dune - The Battle for Arrakis Extra Limits by Ti (v3) (Hack).bin
 6a898f4f9c78908f552f5b22d66dbf57	Dune - The Battle for Arrakis Mission 7H by Ti (V6) (Hack).bin
 4788f0c60e4af4bb8944376fd0d2ee9c	Dune - The Battle for Arrakis Mission 8H (Devastator) by Ti (Hack).bin
@@ -1966,13 +1965,13 @@ ca8c0a6917554496bf6a08d8f00fb317	ECCO Jr. (UA) (REV01) [!].bin
 fdfc181b6f949788f336662dbabf5929	ECCO The Dolphin (J) [!].bin
 18b49fe6ad55975b6021b40b193035f5	ECCO The Dolphin (UE) [!].bin
 5344e3725a3adae39987e1e964c22245	ECCO The Dolphin (UE) [h1C].bin
+9af53bb56b8ad57ac458b93b9db690f1	ECCO The Dolphin (UE) [T-Bra_FServ].bin
 74631561069c6b3354b0f141ee8ba18c	ECCO The Dolphin (UE) [T+Bra1.3_FServ].bin
-3842050f96a3469071d71838ca3cab82	ECCO The Dolphin (UE) [T+Bra65%_EDUARDO_kNuCkLeS].bin
 56d02dd2a12e71d05b6216255f6bbf19	ECCO The Dolphin (UE) [T+Bra100%_FServ].bin
+3842050f96a3469071d71838ca3cab82	ECCO The Dolphin (UE) [T+Bra65%_EDUARDO_kNuCkLeS].bin
 aaa77d806a4d5b203b115a2e6a1c8133	ECCO The Dolphin (UE) [T+Fre].bin
 d5dbce19af964dfc682402f0232fbc5a	ECCO The Dolphin (UE) [T+Rus_NewGame].bin
 465714d633fece871e2e4bac7401f8e2	ECCO The Dolphin (UE) [T+Ser1.0_Mad Fox].bin
-9af53bb56b8ad57ac458b93b9db690f1	ECCO The Dolphin (UE) [T-Bra_FServ].bin
 7596e2c313a21ea53fb48fe669bebba2	Edge Demo by Edge (PD).bin
 176dc4f28ce509495375f3e2c535e6b7	Eggman in Sonic (S1 Hack).bin
 60f1c980a1f2fc014fee8af202573664	Eidolon's Inn Commercial #1 (PD).bin
@@ -2093,6 +2092,14 @@ ce73134f62c894f8659b60cb02d63985	Europa Sensen (J) [h1C].bin
 ec0c219e4fce4f303368a082de4a680e	Evander Holyfield's Real Deal Boxing (JU) [f1].bin
 558cd5a237d546d7fc3635ce329c57fd	Evander Holyfield's Real Deal Boxing (JU) [f1+C].bin
 aed80f6c18e482f4ffc5a7a5de6a81ba	Evander Holyfield's Real Deal Boxing (JU) [T+Rus_MagicGame].bin
+699fdbc714dd0f1c65b91505b6e3c1d4	Ex-Mutants (U) [!].bin
+664af1c06281208fc8c0ad52b9399f2b	Ex-Ranza (Beta) [b1].bin
+fcc2487ceb4fd4a2c5795903ad970113	Ex-Ranza (Beta) [hI].bin
+f3f54f0a7253badbdaaa28f49cfc1154	Ex-Ranza (Beta) [hI+1C].bin
+f1cd5a3334a7381738a541ec7f5a27bf	Ex-Ranza (Beta) [hI+2C].bin
+d47e977300ed8014428974d19e1e39db	Ex-Ranza (Beta).bin
+604453e2dda349306d573adfba6e6fb7	Ex-Ranza (J) [!].bin
+d1b2d4dfa9586802389f8d104752a8dd	Ex-Ranza (J) [h1C].bin
 bbddb012cc674137095bef8d666ee928	Exile - Time and Space Mutation (Ch-Simp).bin
 e7de568e171f09ba0806267eee0bcc8b	Exile - Time and Space Mutation (Ch-Trad).bin
 2cda6d2f8dfe3caab1683dd7849b6ba3	Exile - Toki no Hazama e (J) [!].bin
@@ -2101,8 +2108,7 @@ fec041f217facb8a4f554bda89ae9d74	Exile - Toki no Hazama e (J) [b1].bin
 cc8167ad49d8ca1857b25c92dce54ba3	Exile (U) [b1].bin
 8a65db9fec25cb68b3663fd096516f75	Exile (U) [T+Chi].bin
 aa7f1a1f0c9508eef3e5b7f7d1fcfbf4	Exile (U) [T+Swe_Cyndeline].bin
-699fdbc714dd0f1c65b91505b6e3c1d4	Ex-Mutants (U) [!].bin
-2680589a66365b787c36141401a2cbfb	Exodus (Unl) [!].bin
+6bd232f09d06290c05b8d40fe8a1e6a6	Exile USA (Ch) (MDX).mdx
 8db136c13d60b2caabc35b632eb5d9d7	Exo-Squad (Beta) [b1].bin
 6b1273c4c3aad379668fe202006aa1a7	Exo-Squad (Beta) [f1].bin
 12794d017ed01cf8adcd64f508ff2a3f	Exo-Squad (Beta) [o1].bin
@@ -2113,14 +2119,31 @@ d3b8d025b4273f7c9e8b81c11d5bcd93	Exo-Squad (E).bin
 3297aed1b8bb83cca67bc2e24f84414a	Exo-Squad (U) [!].bin
 d78b0a970da17158cfdfa55c459d05fc	Exo-Squad (U) [o1].bin
 b9a6ee90500f4cf022826a09fbda22cf	Exo-Squad (U) [o1][h1C].bin
-664af1c06281208fc8c0ad52b9399f2b	Ex-Ranza (Beta) [b1].bin
-fcc2487ceb4fd4a2c5795903ad970113	Ex-Ranza (Beta) [hI].bin
-f3f54f0a7253badbdaaa28f49cfc1154	Ex-Ranza (Beta) [hI+1C].bin
-f1cd5a3334a7381738a541ec7f5a27bf	Ex-Ranza (Beta) [hI+2C].bin
-d47e977300ed8014428974d19e1e39db	Ex-Ranza (Beta).bin
-604453e2dda349306d573adfba6e6fb7	Ex-Ranza (J) [!].bin
-d1b2d4dfa9586802389f8d104752a8dd	Ex-Ranza (J) [h1C].bin
+2680589a66365b787c36141401a2cbfb	Exodus (Unl) [!].bin
 73a2dca848cfd5c1867d455780124a49	Eye of Time Demo by FlemTeam (PD).bin
+36074c70a52f1dd2569ad309c6f7bc5b	F-117 Night Storm (UE) [!].bin
+0c294e456aaae9b672efedee08146442	F-117 Night Storm (UE) [b1].bin
+b5f8cfd9193bdc36d9efb87bad58dd4b	F-117 Night Storm (UE) [b2].bin
+2d97bd3e705f73d931a7f54515b1bf19	F-117 Night Storm (UE) [h1C].bin
+d89c8068197892bf9e8abd5fa9d8c61b	F-117 Stealth - Operation Night Storm (J) [!].bin
+531d2799b0890bfb9cb2acab56b035bf	F-15 Strike Eagle II (Beta) [h1C].bin
+e0cf5e97a3ddaac1f691de0f1b4e39be	F-15 Strike Eagle II (Beta).bin
+50cb0da45ed2232c11713bac513687be	F-15 Strike Eagle II (E) [!].bin
+c6eeffdfed136ef2d76cd3b5e503c4f1	F-15 Strike Eagle II (U) [!].bin
+2cab674c2b823d1d430e11f59628f1d5	F-15 Strike Eagle II (U) [f1].bin
+513a8e7f24e173db442bc1208f12a57d	F-15 Strike Eagle II (U) [f2].bin
+b89f6bc7f4983ab197d90b24fdcec4dc	F-22 Interceptor - Advanced Tactical Fighter (J) [!].bin
+9f7cf21b3a306be0bc448abef6e08677	F-22 Interceptor (Beta) [b1].bin
+b93408e73d5331078b93ab773420b7d8	F-22 Interceptor (Beta) [c][!].bin
+e2ccff7967f3202e926a58a5a9b5c4f1	F-22 Interceptor (U) (Jun 1992) [b1].bin
+565a9fb0c7796c5443901e3d27c27d67	F-22 Interceptor (U) (Jun 1992) [c][!].bin
+e9833cd1b7d9c1373b187871834c368e	F-22 Interceptor (U) (Jun 1992) [o1].bin
+6ecf82e8abf5631f964a44397363d80b	F-22 Interceptor (U) (Sep 1991) [a1][c][!].bin
+2bbbf5f81846b40d57b1c21506f2bb34	F-22 Interceptor (U) (Sep 1991) [a1][h1C].bin
+665338689b990071e3e095121c949532	F-22 Interceptor (U) (Sep 1991) [b1].bin
+be69f522d81e1ce89ba7842d4216be76	F-22 Interceptor (U) (Sep 1991) [c][!].bin
+7680103f27ef8ba03f57feb341958cf6	F-22 Interceptor (U) (Sep 1991) [h1C].bin
+f77892d07c3d4e96e4ec947835f4c4fb	F-22 Interceptor (U) (Sep 1991) [o1].bin
 211d119a11102a8feccc78e2231a54b5	F1 Circus MD (J) [!].bin
 37ec0c0cbf5ccbb27a8d00a17849aa43	F1 Circus MD (J) [b1].bin
 eed52f040b0172ac874526c01a2ca1cf	F1 Circus MD (J) [h1C].bin
@@ -2145,29 +2168,6 @@ df88ecba9c5b49002e6372cab7b27535	F1 World Championship Edition (Beta).bin
 b274adf5abc70d75f918331bf682cdc0	F1 World Championship Edition (E) [!].bin
 2c610efdd82ffd2f5481a5065bd585ad	F1 World Championship Edition (E) [b1].bin
 b7e2f018d788d790ff39e16a0ee93417	F1 World Championship Edition (E) [h1C].bin
-531d2799b0890bfb9cb2acab56b035bf	F-15 Strike Eagle II (Beta) [h1C].bin
-e0cf5e97a3ddaac1f691de0f1b4e39be	F-15 Strike Eagle II (Beta).bin
-50cb0da45ed2232c11713bac513687be	F-15 Strike Eagle II (E) [!].bin
-c6eeffdfed136ef2d76cd3b5e503c4f1	F-15 Strike Eagle II (U) [!].bin
-2cab674c2b823d1d430e11f59628f1d5	F-15 Strike Eagle II (U) [f1].bin
-513a8e7f24e173db442bc1208f12a57d	F-15 Strike Eagle II (U) [f2].bin
-b89f6bc7f4983ab197d90b24fdcec4dc	F-22 Interceptor - Advanced Tactical Fighter (J) [!].bin
-9f7cf21b3a306be0bc448abef6e08677	F-22 Interceptor (Beta) [b1].bin
-b93408e73d5331078b93ab773420b7d8	F-22 Interceptor (Beta) [c][!].bin
-e2ccff7967f3202e926a58a5a9b5c4f1	F-22 Interceptor (U) (Jun 1992) [b1].bin
-565a9fb0c7796c5443901e3d27c27d67	F-22 Interceptor (U) (Jun 1992) [c][!].bin
-e9833cd1b7d9c1373b187871834c368e	F-22 Interceptor (U) (Jun 1992) [o1].bin
-6ecf82e8abf5631f964a44397363d80b	F-22 Interceptor (U) (Sep 1991) [a1][c][!].bin
-2bbbf5f81846b40d57b1c21506f2bb34	F-22 Interceptor (U) (Sep 1991) [a1][h1C].bin
-665338689b990071e3e095121c949532	F-22 Interceptor (U) (Sep 1991) [b1].bin
-be69f522d81e1ce89ba7842d4216be76	F-22 Interceptor (U) (Sep 1991) [c][!].bin
-7680103f27ef8ba03f57feb341958cf6	F-22 Interceptor (U) (Sep 1991) [h1C].bin
-f77892d07c3d4e96e4ec947835f4c4fb	F-22 Interceptor (U) (Sep 1991) [o1].bin
-36074c70a52f1dd2569ad309c6f7bc5b	F-117 Night Storm (UE) [!].bin
-0c294e456aaae9b672efedee08146442	F-117 Night Storm (UE) [b1].bin
-b5f8cfd9193bdc36d9efb87bad58dd4b	F-117 Night Storm (UE) [b2].bin
-2d97bd3e705f73d931a7f54515b1bf19	F-117 Night Storm (UE) [h1C].bin
-d89c8068197892bf9e8abd5fa9d8c61b	F-117 Stealth - Operation Night Storm (J) [!].bin
 135e1eb555ef5cf661b8c9ae953985c3	Faery Tale Adventure, The (UE) [!].bin
 70bc4b9879ad327c1a79d9ed577c9360	Faery Tale Adventure, The (UE) [h1C].bin
 b91b210b6002f4748beedb97a3f9781b	Fairlight Rip Intro 1 (PD).bin
@@ -2214,9 +2214,9 @@ dc33589a54bce1aea844daba9c9bd547	Fatal Labyrinth (J) (GNKO) [!].bin
 f4550e6ca0b6c8a9de2376f85bdc6a8a	Fatal Labyrinth (JU) [!].bin
 0d01c18b378144937f1682fcdf515266	Fatal Labyrinth (JU) [o1].bin
 6c59a91d172fe923fd7c8624159c0579	Fatal Labyrinth (JU) [o1][b1].bin
+f9357b76f073ed0d151599d1f34d714d	Fatal Labyrinth (JU) [T-RusBeta2_Chief-Net].bin
 8d4b86c628e7dee484e2ab3a341c9c54	Fatal Labyrinth (JU) [T+Rus_2R Team].bin
 4f30ca0bbc44baf3ea688a04ada928a6	Fatal Labyrinth (JU) [T+Rus_Chief-Net].bin
-f9357b76f073ed0d151599d1f34d714d	Fatal Labyrinth (JU) [T-RusBeta2_Chief-Net].bin
 ea45e8065ff64c4e5e41ce933828c854	Fatal Rewind (UE) [!].bin
 9e68fb204cd9c7bf68ae72c10b02be65	Fatman (J) [b1].bin
 20870a554b4bdcf2e2891bd541bd2e2a	Fatman (J) [c][!].bin
@@ -2250,6 +2250,8 @@ a789100d19505c46ca43524f54106049	FIFA International Soccer (UE) (M4) [b1+2C].bin
 e5432d3ec1f4a1a6cc9a3fd3b765b373	FIFA International Soccer (UE) (M4) [b2].bin
 f1e633234a753916ae1363c6308341c2	FIFA International Soccer (UE) (M4) [f1].bin
 99b16001904b1792b60b92d7ca6ddff6	FIFA International Soccer (UE) (M4) [f2].bin
+59c86710c566c09c7471d8b3e03fb7bc	FIFA Soccer 2000 Gold Edition (Unl) (M6) [!].bin
+f1becc8af9983210530a49ab19f9e0d3	FIFA Soccer 2000 Gold Edition (Unl) (M6) [T+Bra33% Disco Voador].bin
 698a2fcf165e8c9bc5166aecf23771d2	FIFA Soccer 95 (K) (M4).bin
 26ac4f884df64349dcf46344db85812b	FIFA Soccer 95 (UE) [!].bin
 a4476bdc94b7c13c5c800b8e0a562a7a	FIFA Soccer 95 (UE) [b1].bin
@@ -2267,8 +2269,6 @@ b4f7a10630bc557bcc5f16687d2c3c86	FIFA Soccer 97 Gold Edition (UE) (M6) [h1C].bin
 996bbac71846056e655847d7b8b5f908	FIFA Soccer 97 Gold Edition (UE) (M6) [h2C].bin
 3c7380bea3c1d479e5604006eab86961	FIFA Soccer 98 - Road to the World Cup (E) (M5) [!].bin
 b91a6715f7b382c7550bbbc1c6445362	FIFA Soccer 99 (R) [!].bin
-59c86710c566c09c7471d8b3e03fb7bc	FIFA Soccer 2000 Gold Edition (Unl) (M6) [!].bin
-f1becc8af9983210530a49ab19f9e0d3	FIFA Soccer 2000 Gold Edition (Unl) (M6) [T+Bra33% Disco Voador].bin
 371ca05947263da404ab8a7786ce3b0e	FIFA World Cup 2002 (R).bin
 baf3777249a1bbb03efb3dd419e4d589	Fighting Masters (J) [!].bin
 b6813ec7475012936d017c3c93412282	Fighting Masters (U) [!].bin
@@ -2369,7 +2369,6 @@ e976b79ccea71fdfeb7ca149c46f14ad	Fun Car Rally (Beta) [b1].bin
 c643d7f3d144911a97ffb2cd69bb16bf	Fun Car Rally (Beta) [h1C].bin
 98933177bade7298625c4f032020c5c2	Fun Car Rally (Beta) [h2C].bin
 89da855d92a6f35611cee5ddb843e702	Fun Car Rally (Beta).bin
-22c8ac7ae3cb836e0e670006028b1de8	Funky Boss (S2 Hack).bin
 2ac550b740f6eaa186f8281bcce15db2	Fun'N'Games (E).bin
 5a1ec84785bc16fe39cbf9ca714aaaf6	Fun'N'Games (U) [b1].bin
 1736265363d35d8ca325414b3eb5ac18	Fun'N'Games (U) [b1+C].bin
@@ -2380,17 +2379,27 @@ e899fcb8d71a63268825e3b5f9c4433a	Fun'N'Games (U) [b3].bin
 64c108569f7fe8cdc3bc4d664278da99	Fun'N'Games (U) [f1+C].bin
 9241711f67fb2cd917d6b272c3528c1a	Fun'N'Games (U) [h1C].bin
 4b93f24b5773834669dbc19b2f7d114c	Fun'N'Games (U) [h2C].bin
+22c8ac7ae3cb836e0e670006028b1de8	Funky Boss (S2 Hack).bin
 3a128ffcb58d1e9c5a931eeb2802ad2f	Funny of Three Kingdoms (Ch) [a1].bin
 3e06ff4b7344ee11dc9cd15f307be6e3	Funny of Three Kingdoms (Ch).bin
+afb3fdbbd9fb8cb994b4314eecc1c403	Funny World (Unl) [f1].bin
 919b19ae63cf3d81ec600254e42dcdf4	Funny World & Balloon Boy (Menu) (Unl).bin
 5adb68ad7e42b62690d084a9e71629a4	Funny World & Balloon Boy (Unl) [!].bin
-afb3fdbbd9fb8cb994b4314eecc1c403	Funny World (Unl) [f1].bin
 72a68c9a735ce36a83a74e5b3c33554c	Fushigi no Umi no Nadia (J) [c][!].bin
 30b2853c34dd2730ecd9aa1304f54195	Fushigi no Umi no Nadia (J) [h1C].bin
 e2ce158c948e611c95c746aff14bd17b	Fushigi no Umi no Nadia (J) [h2C].bin
-b05a6f58495fab4968bce589da8e7dba	Fushigi no Umi no Nadia (J) [T+Eng1.1_KingMike].bin
 e694b6872051401ec05be13b263eae4d	Fushigi no Umi no Nadia (J) [T-Eng1.0_KingMike,Eien Ni Hen].bin
+b05a6f58495fab4968bce589da8e7dba	Fushigi no Umi no Nadia (J) [T+Eng1.1_KingMike].bin
 82963d20e0e85e5e9dbd6119a9c37f18	Futbol Argentino 98 - Pasion de Multitudes (Unl).bin
+b373d664fc29c06aff71c1b4c0a8fa29	G-LOC Air Battle (Beta) [h1I].bin
+17453a52480331024385fc80dcc5fd44	G-LOC Air Battle (Beta) [h1I+C].bin
+e303808f65691e0f03e43fb01182b609	G-LOC Air Battle (Beta) [h2I].bin
+9c17a0c510c26cc154512a75b1fde529	G-LOC Air Battle (Beta) [hIR].bin
+6398a354781f5872eb9e846824a1602a	G-LOC Air Battle (Beta).bin
+0d318d043a0e3b84285c63f73fddb561	G-LOC Air Battle (W) [b1].bin
+59b8fcc1e0c2113d841025e7ee0d152f	G-LOC Air Battle (W) [c][!].bin
+466f9b8bff4b267ae64a0c62dd78c1a5	G-LOC Air Battle (W) [h1C].bin
+3c1b7c2a7bfed7be44738d3b557a5ea5	G-LOC Air Battle (W) [h2C].bin
 6d588eec80c083ee60d06e2bde3ed488	Gadget Twins, The (U) [!].bin
 f7e56df92310cfe853a3ae500f9b47cb	Gadget Twins, The (U) [b1].bin
 71c95e1df28da2e133b3db31903c8044	Gadget Twins, The (U) [t1].bin
@@ -2400,8 +2409,8 @@ b831334e8fa1491accb79018a1c109d2	Gadget Twins, The (U) [t1+C].bin
 92e692af613c422841067634c1b700b7	Gaiares (JU) [h2C].bin
 952d91fdb2a0de55fbe620257241f538	Gaiares (JU) [p1].bin
 f7bbdf861fb206846c121188745aac33	Gaiares (JU) [p1][t1][!].bin
-8ef5877152a34a270420fbad83dc059f	Gaiares (JU) [T+Fre.95_Ryusan].bin
 44e88dd7ad446a7dc804e0f7548be41f	Gaiares (JU) [T+Fre_Terminus].bin
+8ef5877152a34a270420fbad83dc059f	Gaiares (JU) [T+Fre.95_Ryusan].bin
 250033f6c91fbb7714782cd66fcece82	Gain Ground (E) [c][!].bin
 3b0ad9167e152ed3719ae0d45e50db6a	Gain Ground (J) [!].bin
 fa43881a792fadf1ab737294fff1bcc3	Gain Ground (UE) [c][!].bin
@@ -2503,15 +2512,6 @@ c6dd011f9f88c2f18ede3df1cb7bc7ec	Glass Braker MD (E) (PD).bin
 30cd976f2b93177f202cf1f7d9fb349c	Gley Lancer (J) [h1C].bin
 83d2b7f2a69c518ec94a2f6c3d4d3bfc	Gley Lancer (J) [p1][!].bin
 a13ab653a20fb383337fab1e52ddb0df	Gley Lancer (J) [T+Eng20061023_MIJET].bin
-b373d664fc29c06aff71c1b4c0a8fa29	G-LOC Air Battle (Beta) [h1I].bin
-17453a52480331024385fc80dcc5fd44	G-LOC Air Battle (Beta) [h1I+C].bin
-e303808f65691e0f03e43fb01182b609	G-LOC Air Battle (Beta) [h2I].bin
-9c17a0c510c26cc154512a75b1fde529	G-LOC Air Battle (Beta) [hIR].bin
-6398a354781f5872eb9e846824a1602a	G-LOC Air Battle (Beta).bin
-0d318d043a0e3b84285c63f73fddb561	G-LOC Air Battle (W) [b1].bin
-59b8fcc1e0c2113d841025e7ee0d152f	G-LOC Air Battle (W) [c][!].bin
-466f9b8bff4b267ae64a0c62dd78c1a5	G-LOC Air Battle (W) [h1C].bin
-3c1b7c2a7bfed7be44738d3b557a5ea5	G-LOC Air Battle (W) [h2C].bin
 fc924aae6f782b69ee88e5ee3ce752a1	God Hates You (Spiritual Warfare Hack).bin
 8d08d9aa97bd912870cfe13f9995a25d	Gods (Beta).bin
 b4b855462eba7076407a7fa6265b61e4	Gods (E) [!].bin
@@ -2560,11 +2560,11 @@ aa77fb396c426f69b04e85ecb81b558c	Golden Axe III (J) [f1+1C].bin
 6b8ded7792035acb01ab0a6beb351103	Golden Axe III (J) [f2].bin
 245892593cfab3e6eb1d4c7daba74545	Golden Axe III (J) [p1][!].bin
 945cf1786cc7b28c02f1a127a0c58209	Golden Axe III (J) [p2][!].bin
+36f96750d9f2170142520c923e3d2b06	Golden Axe III (J) [T-Fre_Terminus].bin
+630e1e0328ff3b94d7f9417b929c63b4	Golden Axe III (J) [T-Rus2002_NewGame].bin
 8199adc16b510149ce5d2505d1537d71	Golden Axe III (J) [T+Fre1.0_Arkames].bin
 468d9d287bd767400215920af3ba49e9	Golden Axe III (J) [T+Fre1.0_Terminus].bin
 eae35fbc0f915048cead589db377407f	Golden Axe III (J) [T+Rus2003_NewGame].bin
-36f96750d9f2170142520c923e3d2b06	Golden Axe III (J) [T-Fre_Terminus].bin
-630e1e0328ff3b94d7f9417b929c63b4	Golden Axe III (J) [T-Rus2002_NewGame].bin
 2ff3342f32f4b93df69165b689642074	Golden Axe III RongHe Edition by hinadorijp (Hack).bin
 426471b87024c7b1e688fa8474390624	Goofy's Hysterical History Tour (U) [!].bin
 ed4696e69a0206847f72fac2dd8aae97	Goofy's Hysterical History Tour (U) [b1].bin
@@ -2683,8 +2683,8 @@ bb4ced1c698b3ef7ceb0b081a632f7ad	Harry Potter and The Chamber of Secrets (R) [!]
 3f18b4cfc9d286df11db970f2e894392	Haunting Starring Polterguy (UE) [!].bin
 c03da548c6b56d4130e986a969833320	Haunting Starring Polterguy (UE) [h1C].bin
 59d862b1fa9b388c0aeddb0370299003	Haz by LuigiLink (S2 Hack).bin
-7debe903fd740a9fc27eb2bb61b98454	Headache by snkenjoi (S2 Hack).bin
 fb303d5d08b2ea748fe7aced9c0100fd	Head-On Soccer (U) (M5) [!].bin
+7debe903fd740a9fc27eb2bb61b98454	Headache by snkenjoi (S2 Hack).bin
 74bb344107592feae3372c27e1dc1841	Heavy Nova (U) [!].bin
 07a952dae890aee62ea5d360ff8905ad	Heavy Nova (U) [h1C].bin
 24ebe105d816f8218276562215623dc6	Heavy Nova (U) [h2C].bin
@@ -2726,6 +2726,7 @@ b01a232824124c04b8e883e2a1406f98	High Seas Havoc (U) [f1].bin
 f69d6c54f9a1cfcdcc3da04cc8a337fe	High Seas Havoc (U) [hIR].bin
 b7dd1f4ce6b6990f20dbf865b43ffde8	High Seas Havoc (U) [t1].bin
 808654225249e6e73de568888799fbaa	High Seas Havoc (U) [t1][b1].bin
+bb64a1487359c0ed46d0cc5f268f26da	High Seas Havoc (U) [t1][b2].smd
 a010f635238a03b456e79c07e6cf7515	High Seas Havoc (U) [t1][b3].bin
 7e9e6bf636c7e9504069c48da207608b	High Seas Havoc (U) [t1][o1].bin
 65de9f49b631462f64f55ccfeafacb51	Hires Animation Demo (PD).bin
@@ -2957,14 +2958,20 @@ bdeccab71a0e914ca0befee0664e39fb	Joe & Mac Caveman Ninja (U) [hIR].bin
 80f21bbccf35fdf5535c1bc13e927df1	Joe Montana 2007 AFC (Joe Montana Football Hack).bin
 c088f0050f774b81888a7ae2437b0bf7	Joe Montana 2007 NFC (Joe Montana Football Hack).bin
 f80d0fb38db6e4cb0f1218130d934887	Joe Montana Football (JU) [!].bin
-0ff9aadb146605e84d033c6bf499a44e	John Madden ACC-BIG8 (John Madden Football Hack).bin
 f6bed12d3b3635e53f93f3fa69676f2f	John Madden ACC-BIG10 (John Madden Football Hack).bin
+0ff9aadb146605e84d033c6bf499a44e	John Madden ACC-BIG8 (John Madden Football Hack).bin
 7dc16ed1484ada5948a864f672e8337e	John Madden ACC-BIGEAST (John Madden Football Hack).bin
 ea7c1c328fd6ec0bfa83201f1605b6b9	John Madden ACC-IND (John Madden Football Hack).bin
 10ca74513990d40ce7a312738a139fb0	John Madden ACC-PAC10 (John Madden Football Hack).bin
 1357ad0392310f68cdb5c500152dadfa	John Madden ACC-SEC (John Madden Football Hack).bin
 a7f31cd6aef3679ba76981ad7e46478f	John Madden ACC-SWC (John Madden Football Hack).bin
 55649b08b0d1ec4d1cefed05d6f9ebdf	John Madden ACC-WAC (John Madden Football Hack).bin
+4a9509e519a11e0e71c7057b48d746bf	John Madden BIG10-BIGEAST (John Madden Football Hack).bin
+15548f99c3118084a5b4e0ef890f6198	John Madden BIG10-IND (John Madden Football Hack).bin
+005affdf5bb732b2d99b10258db2c189	John Madden BIG10-PAC10 (John Madden Football Hack).bin
+006f079baa37fdbc9648c2632e7a9b4d	John Madden BIG10-SEC (John Madden Football Hack).bin
+922a7475a25583b75a9771139f5f127b	John Madden BIG10-SWC (John Madden Football Hack).bin
+867eea619bd22fe92c7ba242c4f73840	John Madden BIG10-WAC (John Madden Football Hack).bin
 4bbdd1d0d9efeda06efe9c262eb97913	John Madden BIG8-BIG10 (John Madden Football Hack).bin
 23b217908d3bb3b4381155d54a86bc42	John Madden BIG8-BIGEAST (John Madden Football Hack).bin
 cac18ceb432da7a1f654273f0d4b9498	John Madden BIG8-IND (John Madden Football Hack).bin
@@ -2972,22 +2979,11 @@ a3e503ad130f161c2b7cc64621cc052b	John Madden BIG8-PAC10 (John Madden Football Ha
 6e5d0c29984a36d3754456142c44ab55	John Madden BIG8-SEC (John Madden Football Hack).bin
 7fc5ae7abf4654cd923f0f67854d0c9f	John Madden BIG8-SWC (John Madden Football Hack).bin
 bd833ce3397324af8b0f4c6b662dc2f2	John Madden BIG8-WAC (John Madden Football Hack).bin
-4a9509e519a11e0e71c7057b48d746bf	John Madden BIG10-BIGEAST (John Madden Football Hack).bin
-15548f99c3118084a5b4e0ef890f6198	John Madden BIG10-IND (John Madden Football Hack).bin
-005affdf5bb732b2d99b10258db2c189	John Madden BIG10-PAC10 (John Madden Football Hack).bin
-006f079baa37fdbc9648c2632e7a9b4d	John Madden BIG10-SEC (John Madden Football Hack).bin
-922a7475a25583b75a9771139f5f127b	John Madden BIG10-SWC (John Madden Football Hack).bin
-867eea619bd22fe92c7ba242c4f73840	John Madden BIG10-WAC (John Madden Football Hack).bin
 0a41de246976c55635bb56fbf767dfb1	John Madden BIGEAST-IND (John Madden Football Hack).bin
 aabe4240dfd8b0f3cef5259dc8d720bf	John Madden BIGEAST-PAC10 (John Madden Football Hack).bin
 bff896a8fe5d645e3215a7abc1be1003	John Madden BIGEAST-SEC (John Madden Football Hack).bin
 7bda149e808f35f6c21363e5a4c8535c	John Madden BIGEAST-SWC (John Madden Football Hack).bin
 1c9bb114d582e08a5d477b5ab3c1d199	John Madden BIGEAST-WAC (John Madden Football Hack).bin
-27c9f20efbe9cb4fc2156f2490fe07a2	John Madden Football (J) [!].bin
-6c2b1deff4ad246d5ac0962591e1f974	John Madden Football (UE) [!].bin
-eb316eb468e79f2c5e4747dc9bd07c70	John Madden Football (UE) [b1].bin
-b96d6c12582e4086b715b9faf80b4492	John Madden Football (UE) [h1C].bin
-eb557b09266529cb5763e11dbaf8681c	John Madden Football (UE) [h2C].bin
 b1935fa5d19abf16029fa2e9d4024343	John Madden Football '92 (UE) [!].bin
 aa178cd4835f9115c9fdc7b69399f60f	John Madden Football '92 (UE) [h1C].bin
 0fca001847700bfc51f52062c9f05b84	John Madden Football '93 - Championship Edition (U) [!].bin
@@ -2997,6 +2993,11 @@ b1b4c2823a35922e1aa7327829efba68	John Madden Football '93 - Championship Edition
 5046a4926046bcd2df4ff64b9cabb155	John Madden Football '93 (UE) [c][!].bin
 e77f0772512e613d92daabc192c0c2ae	John Madden Football '93 (UE) [h1C].bin
 4c595ebb18c17f5838b62b7f6176e4b1	John Madden Football '93 (UE) [h2C].bin
+27c9f20efbe9cb4fc2156f2490fe07a2	John Madden Football (J) [!].bin
+6c2b1deff4ad246d5ac0962591e1f974	John Madden Football (UE) [!].bin
+eb316eb468e79f2c5e4747dc9bd07c70	John Madden Football (UE) [b1].bin
+b96d6c12582e4086b715b9faf80b4492	John Madden Football (UE) [h1C].bin
+eb557b09266529cb5763e11dbaf8681c	John Madden Football (UE) [h2C].bin
 7c625fdeb257e085b351730f3b4e7efe	John Madden IND-PAC10 (John Madden Football Hack).bin
 49cb032edadf9706f65903a28dcb082d	John Madden IND-SEC (John Madden Football Hack).bin
 d43c8b77f6127bbdcd0b2eaf5cfe4e42	John Madden IND-SWC (John Madden Football Hack).bin
@@ -3042,15 +3043,15 @@ f94fa0a2795bba722b193ca2ba25722d	JuJu Densetsu (J) [h1C].bin
 b42e038dd3e8d88d82e4563110d2ccef	JuJu Densetsu (J) [p1][!].bin
 317155a79e96e42ff828a7ecf708b32c	JuJu Densetsu (J) [T+Bra_Central MIB].bin
 4a49c5b38c1ce1dcc4a27a756f304787	JuJu Densetsu (J) [T+Bra_FjM].bin
-9f4f0c19c84eb2396a5f4712cb62a754	JumpDash in Sonic 3 & Knuckles by MAXXX309 (SK Hack).bin
-9feb82bffb50431093b08ec4e6bc228c	Jumping Game (PD).bin
-09b32fffe5315f4f058d10534f128cbf	Jumping Game (Updated) (PD).bin
+a079568e32f3d02a4770bffb841c58f2	Jum's Genny PSG Jukebox (PD).bin
 e7df72dfb7f7c59dc285ef5c7acd2394	Jump'n'Run V1.0 by Kaneda (PD).bin
 805143d83fd6259104a827ba4bce1319	Jump'n'Run V1.1 by Kaneda (PD).bin
 eec6f0bceb0db7bb4817d26b8c9ccd56	Jump'n'Run V1.2 by Kaneda (PD) [a1].bin
 cea82bc94874fa0fc2cd17e834b4b42f	Jump'n'Run V2.0 by Kaneda (PD).bin
 d0125ba1c1cb6eb7e6ee97784f554dec	Jump'n'Run Vx.x by Kaneda (PD).bin
-a079568e32f3d02a4770bffb841c58f2	Jum's Genny PSG Jukebox (PD).bin
+9f4f0c19c84eb2396a5f4712cb62a754	JumpDash in Sonic 3 & Knuckles by MAXXX309 (SK Hack).bin
+9feb82bffb50431093b08ec4e6bc228c	Jumping Game (PD).bin
+09b32fffe5315f4f058d10534f128cbf	Jumping Game (Updated) (PD).bin
 6d8a871ce4b1e88aecd4d0d50a137e99	Junction (JU) [!].bin
 a39632f8bfd27ea15f0ca252c5047593	Junction (JU) [h1C].bin
 03a83c6c7392549b47b006c6e9c38fe0	Jungle Book, The (E) [!].bin
@@ -3153,16 +3154,17 @@ c2aaf9fe67d8b70108b01af37e55b05a	Killing Game Show, The - 1993 Remix (Hack).bin
 348975e11a187025556b8d18194e502a	Killing Game Show, The (J).bin
 17db8952afe2accfe9699fcb0dc0d944	King of Fighters '98, The (Unl) [!].bin
 a085d367da06f05662ad7e76e63776f0	King of Fighters '98, The (Unl) [p1][!].bin
-8b4a2ccb072f94b5a7af4b8100f64af0	King of Fighters 99 (Unl) [f1].bin
-ab286ef8012fe4a853b2d484589df96d	King of Fighters 99 (Unl).bin
 6091677ac2dadabc1d1ad8c5594dbe14	King of Fighters '99, The (Unl).bin
 6c4c7d887420d8e6e2308be53aaf9596	King of Fighters 2000 (Unl).bin
+8b4a2ccb072f94b5a7af4b8100f64af0	King of Fighters 99 (Unl) [f1].bin
+ab286ef8012fe4a853b2d484589df96d	King of Fighters 99 (Unl).bin
 11e05717321fa42f7c66d20613c1d51d	King of the Monsters (E) [!].bin
 69f1b273f695032f0b542421928e8e9a	King of the Monsters (J).bin
 f3bc95d05f6290a3dceea499b3bba094	King of the Monsters (U) [!].bin
 b25ef4daaf523d9819bc6a428a6866ae	King of the Monsters (U) [b1].bin
 65ee5a29e73a4c5c62da5da6920ed4d8	King of the Monsters 2 (U) [!].bin
 57ea1e3d2645d299780e71fc821cf944	King of the Monsters 2 (U) [b1].bin
+610c27614b07cefb681f461e932584bf	King of the Monsters 2 (U) [b2].smd
 688580e4c70ab1bdd8aa3155e4cad2ed	King of the Monsters 2 (U) [b3].bin
 2dc2cfd8db571f7edfb1d7ac1281fbc7	King Salmon - The Big Catch (J) [c][!].bin
 0423ebd4abb1da95f758dba60231a00f	King Salmon - The Big Catch (U) [c][!].bin
@@ -3182,7 +3184,6 @@ df321bdfd4fce34d820657380558a09d	Kishi Densetsu (J) [T+Eng20%_Gaijin_Productions
 1dc11afe23440408af6cdd659d33fe6b	Klax (J) [h1C].bin
 3dfce8def728e2e249917307b8e38ca5	Klax (UE) [!].bin
 a98d9d3ac3eb5cf6315d2d372448a2f3	Klax (UE) [T+Rus_Multisoft].bin
-2d0393ff759d202ed7642e1be92f788d	Knuckles' Chaotix - dividendtest5 (Hack).bin
 980d3256aeb3c2e76a7b2bc566f89852	Knuckles in Sonic 2 (Prototype 0524 - May 27, 1994, 10.46).bin
 53aa30d41ec395a1cea90497f4c8d9f0	Knuckles in Sonic 2 Green Hill Zone by Hivebrain V0.1 (SK Hack).bin
 e6e82aa6bc04ca57de008a4ef23f78af	Knuckles in Sonic 2 Green Hill Zone by Hivebrain V0.2 (S2 Hack).bin
@@ -3191,6 +3192,7 @@ a1d5a7435b0597cfb7bab550b35ffc08	Knuckles in Sonic by Hivebrain Vx.xx (S1 Hack).
 95743bf74cd52cf6167cd3de9d9a091a	Knuckles the Echidna in Sonic The Hedgehog by Stealth (S1 Hack).bin
 69517c0e379205615617b145dd67e3a1	Knuckles the Echidna in Sonic The Hedgehog Rev 00 by Stealth (S1 Hack).bin
 6af2ffd9d06b0aa2125e3438c28c7c83	Knuckles the Echidna in Sonic The Hedgehog Rev 01 by Stealth (S1 Hack).bin
+2d0393ff759d202ed7642e1be92f788d	Knuckles' Chaotix - dividendtest5 (Hack).bin
 377ede16c430c39cae5b5e4e6a771876	Kokushin V0.10 (PD).bin
 343e195dc4b6835cc9f0b209b867bc4c	Kokushin V0.11 (PD).bin
 2e9109069b87d0332ec65ffe3152bc69	Kolobok (R).bin
@@ -3228,11 +3230,12 @@ bf1832f442d65adbd7450e1a11ff3724	Kyuukyou Tiger (J) [o2].bin
 1c224caf835ad4c19f9477dc5d1e9086	Lakers vs Celtics and the NBA Playoffs (UE) [!].bin
 536dbe8b0682d7a4fe5e9caa3a4f9119	Lakers vs Celtics and the NBA Playoffs (UE) [h1C].bin
 1ac2f0fa0dd141bdda30f9b15b8edbae	Lakers vs Celtics and the NBA Playoffs (UE) [p1][!].bin
+bcf96c9e4d2c2180ddbdf8c6ac772cfa	Landstalker - Koutei no Zaihou (Ch) (MDX).mdx
 d9a7922681a126653dc16a0d907d7f32	Landstalker - Koutei no Zaihou (J) [!].bin
 7d8f251265ee97bef197ab19b4b0e97c	Landstalker - Koutei no Zaihou (J) [b1].bin
+746c7a43ae60fa4ae3e2be62d443311f	Landstalker - Koutei no Zaihou (J) [T+Chi_Ken Tse,madcell].bin
 de7598945c30690aeca21789a0164adf	Landstalker - Koutei no Zaihou (J) [T+Chi(Simp)1.0_Ken Tse].bin
 c9d567580d623ee38e0cf7c0c30a2ca9	Landstalker - Koutei no Zaihou (J) [T+Chi(Trad)1.0_Ken Tse].bin
-746c7a43ae60fa4ae3e2be62d443311f	Landstalker - Koutei no Zaihou (J) [T+Chi_Ken Tse,madcell].bin
 56cd0e47e315db16235ed04d67d95e47	Landstalker - The Treasures of King Nole (Beta) [b1].bin
 0baa204f1ab0da3ffcea50afffd89fa8	Landstalker - The Treasures of King Nole (Beta) [h1C].bin
 8471126d28f54283fbc6ebebe742243e	Landstalker - The Treasures of King Nole (Beta) [T+Chi_SkyLeague].bin
@@ -3266,15 +3269,15 @@ bf86f7cf3be4e41a03f8b5507e1758e8	Langrisser II - Expert Level Edition by langris
 5df7ccd9d996580740894574cf752247	Langrisser II (J) (REV01) [h2C].bin
 c29d0826844efeab35f128f5972361db	Langrisser II (J) (REV01) [h3C].bin
 c5fc76956830c170ab546214fff1521a	Langrisser II (J) (REV01) [h4C].bin
+63bb0f9e5b57612b0a203429dc0c1920	Langrisser II (J) (REV01) [T-Eng].bin
 f1f1345b1c12d96421168c6abce9bd4d	Langrisser II (J) (REV01) [T+ChiV06].bin
 dc5a4f3d2cf745e85cf50590a26a90a3	Langrisser II (J) (REV01) [T+ChiV06][a1].bin
 a4ec56a7a52f802aea69005772adb5a3	Langrisser II (J) (REV01) [T+Eng100%_HiryuuHonyaku,NoPrgress].bin
-63bb0f9e5b57612b0a203429dc0c1920	Langrisser II (J) (REV01) [T-Eng].bin
 3de30d43a6433e91429535c3496f07da	Langrisser II (J) (REV01).bin
 a5de915f62156feb8680f9cf34017dbd	Langrisser II (J) (REV02) [!].bin
-3da68d7ef336d2ea7fa2cc9c1481c9fe	Langrisser II (J) (REV02) [T+Eng20110701_MIJET].bin
 bcfc1f2f8fd8599f56147196d39962ec	Langrisser II (J) (REV02) [T-Eng20080812_MIJET].bin
 f7ed9cad46144549f42769168e6064b2	Langrisser II (J) (REV02) [T-Eng20081106_MIJET].bin
+3da68d7ef336d2ea7fa2cc9c1481c9fe	Langrisser II (J) (REV02) [T+Eng20110701_MIJET].bin
 2dd525563ef920e2da58ee6e9944740e	Langrisser II (V050211) by togetheru (Hack).bin
 e498e0a86288fb482f73870d674349d3	Langrisser II (V050703) by guming530 (Hack).bin
 aec5855f180d1b4f9bb25756fafd41da	Langrisser II (V060410) by gw105a (Hack).bin
@@ -3385,11 +3388,11 @@ b92e1968d64ad61c1ed972555b9f8234	Longjumps and Trained (S3 Hack).bin
 6b6a108eaca7703e1689e98d888ba7cb	Lord Monarch (J) [b1].bin
 2d2d0c5863071384dae8ed88aed379ac	Lord Monarch (J) [h1C].bin
 7fdf56dfeb3030bc2e816c589e832a66	Lord Monarch (J) [h2C].bin
+68d4fef5cc1f43656715c7d363c9d035	Lord Monarch (J) [T+Chi(Simp)_cslrxyz].bin
+0f23efcd05bac6ba20990c71e3ceddea	Lord Monarch (J) [T+Chi(Simp)_cslrxyz][a1].bin
 10b540e49224bb2bda4aa7c3b23c8df5	Lord Monarch (J) [T+Chi(Simp)].bin
 babc45393be388c0fbaa84a853efa2df	Lord Monarch (J) [T+Chi(Simp)][a1].bin
 004806ff332a3257093602206ffbb4f8	Lord Monarch (J) [T+Chi(Simp)][a2].bin
-68d4fef5cc1f43656715c7d363c9d035	Lord Monarch (J) [T+Chi(Simp)_cslrxyz].bin
-0f23efcd05bac6ba20990c71e3ceddea	Lord Monarch (J) [T+Chi(Simp)_cslrxyz][a1].bin
 b7a0d609035cc102d68a1c18a1f6b66c	Lord Monarch (J) [T+Chi(Trad)_cslrxyz].bin
 98c608dba40f9322af1a096373b7907a	Lord Monarch (J) [T+Chi].bin
 c06d8fd45f858c7b34686239adfe4c0a	Lord Monarch (J) [T+Chi][a1].bin
@@ -3404,8 +3407,8 @@ b603fa1e401ec866792694a4abeef353	Lost Vikings, The (Beta) [b1].bin
 5dcd5318b8dbd1bdd483ae0c2fa6d7c4	Lost Vikings, The (Beta) [h1C][T+Ser_Mad Fox].bin
 8a62a90fac0784aaa383e6727cd98755	Lost Vikings, The (Beta) [hI].bin
 899a073efc9facb403caa799c878119a	Lost Vikings, The (Beta) [hI][T+Ser_Mad Fox].bin
-31ee826accaae4d6c8a4ee8ed176b1ab	Lost Vikings, The (Beta) [T+Ser_Mad Fox].bin
 eaf8154689b52ef33f99e51a66103991	Lost Vikings, The (Beta) [T-Ser_Mad Fox].bin
+31ee826accaae4d6c8a4ee8ed176b1ab	Lost Vikings, The (Beta) [T+Ser_Mad Fox].bin
 d23c534b8056b3775cadcd8b5cdc5e04	Lost Vikings, The (Beta).bin
 83dc3658456f2f18a23af67b3f7fed91	Lost Vikings, The (E) [T+Ser_Mad Fox].bin
 44752b050421c4e51d1bee96b3fed44e	Lost Vikings, The (E).bin
@@ -3413,9 +3416,9 @@ d23c534b8056b3775cadcd8b5cdc5e04	Lost Vikings, The (Beta).bin
 a8dcb5476855a83702e2f49ebd4e2d57	Lost Vikings, The (U) [!].bin
 5c5136dd82e81f0f5cabde58d39d4570	Lost Vikings, The (U) [h1C].bin
 d2d787fd1b29c563212bc66b03ebf952	Lost Vikings, The (U) [h1C][T+Ser_Mad Fox].bin
+a24bc7bfd82e02130e5ad69a996ac098	Lost Vikings, The (U) [T-Rus_Shedevr].bin
 89215f8bda92b66bf50f6aeed4dcf3aa	Lost Vikings, The (U) [T+Rus_Shedevr].bin
 bcd9817702aeb485cef66e060a0b3a86	Lost Vikings, The (U) [T+Ser_Mad Fox].bin
-a24bc7bfd82e02130e5ad69a996ac098	Lost Vikings, The (U) [T-Rus_Shedevr].bin
 46a354ca7b222798e6a43e28dc9e0b24	Lost Worlds, The by Bobesh8 (S2 Hack).bin
 25940a0849ad762b314d266c19758e3f	Lotus II RECS (Beta) [h1C].bin
 8496a55f720e45811f0c815c2d499640	Lotus II RECS (Beta).bin
@@ -3423,15 +3426,15 @@ eb825f40e664c4b948e13b3025aa855d	Lotus II RECS (UE) [!].bin
 c9d40c1d9ee3598b4685dc06a09e2012	Lotus II RECS (UE) [T+Rus].bin
 c1ce374e4581e542e004aa52a4548165	Lotus Turbo Challenge (UE) [!].bin
 3ba06b74ac79f4e406d9d96246ec531c	Lotus Turbo Challenge (UE) [h1C].bin
+5377f8f1c83c521ccfb96457be9b2c78	M-1 Abrams Battle Tank (UE) (REV01) [!].bin
+eecc74ac4121eaeeadeb27eec9663299	M-1 Abrams Battle Tank (UE) (REV01) [b1].bin
+df2899fac1e55ccfeda3442d93cfa424	M-1 Abrams Battle Tank (UE) (REV01) [h1C].bin
+b95319f38b1811c7c9e2240ed85e9dd8	M-1 Abrams Battle Tank (UE) (REV01) [h2C].bin
 d5ced66ba18ec2b8eb69b8b1a6baf0d0	M.U.S.H.A (U) [!].bin
 682a93c3f8f590a078189e779dc13b94	M.U.S.H.A (U) [h1C].bin
 bc11c67fb59dd361d404f85ecad32f9a	M.U.S.H.A (U) [T+Bra_ctraducoes].bin
 f53aca0ffa5031f9df11465f2e8de170	M.U.S.H.A (U) [T+Fre_Byblo].bin
 e20d3a8a3a56f599170a6b925e20ca8c	M.U.S.H.A (U) [T+Fre1.0_Byblo].bin
-5377f8f1c83c521ccfb96457be9b2c78	M-1 Abrams Battle Tank (UE) (REV01) [!].bin
-eecc74ac4121eaeeadeb27eec9663299	M-1 Abrams Battle Tank (UE) (REV01) [b1].bin
-df2899fac1e55ccfeda3442d93cfa424	M-1 Abrams Battle Tank (UE) (REV01) [h1C].bin
-b95319f38b1811c7c9e2240ed85e9dd8	M-1 Abrams Battle Tank (UE) (REV01) [h2C].bin
 6efa773f1c4a1a155dc51065bd34be58	Machine Gun Buzz Bomber (S1 Hack).bin
 3887fc7856c8393cacd0ea364dfbdf58	MACKS HACKS 94_07 Edition (NHL 94 Hack).bin
 f245470a6843f4176c57a69dee392db7	Madagascar (R).bin
@@ -3482,6 +3485,7 @@ d9b1c5d34d112051e838f720a26cc8cf	Madden NFL 98 (U) [h2C].bin
 41b8ba3569e3f4f98155dea64318d223	Madou Monogatari I (J) [!].bin
 d82529e8abd9d82c4907867ace6c581b	Madou Monogatari I (J) [b1].bin
 5e58d887c8c556f00d4e4167b182ec8a	Madou Monogatari I (J) [b2].bin
+fde323f6fd4d115df9dfc9f846fce701	Madou Monogatari I (J) [b3].smd
 ae4058a362c7428e2688e1026b909da8	Madou Monogatari I (J) [b4].bin
 3c42f2ffe2642e56cfcd3873b80126af	Madou Monogatari I (J) [b5].bin
 f6344c969a1f3bad77a902024ee1cd98	Madou Monogatari I (J) [h1C].bin
@@ -3631,6 +3635,7 @@ b31444e6408df9b907e9c51421e1a05f	Mega Bomberman (UE) [a1][h1C].bin
 d18da214e77601f13e101db550da8fb6	Mega Bomberman (UE) [t1] (Press Y for Invincible by xiao guihun).bin
 0fa85444d7a1f3b67813e3faa0d7551b	Mega Drive Text Reader by Brunni (v1.00) (PD).bin
 ac89dd304eced22558cdfc4f4a234372	Mega Drive Text Reader Sample by Brunni (v1.00) (PD).bin
+0d1c2d48509985f2d79b0fc3c8fe213a	Mega Games 10 in 1 (EB) [!].bin
 d9e4ef8f23f3573557701e0e67cf1b34	Mega Games 2 (E) [!].bin
 65bd8d70457e246e613c35967d2c2e44	Mega Games 2 (E) [h1C].bin
 a4feff2abd57ed797d44594126c89024	Mega Games 2 (E) [h2C].bin
@@ -3641,7 +3646,6 @@ b03cfa8f4b28f90a204f336e1f8880b4	Mega Games 3 (E) [!].bin
 87a86431217648b7cb345df5b1a43b02	Mega Games 6 (Vol 3) (E) [!].bin
 fc166d6a79f259b10c756ecec169cf7f	Mega Games 6 (Vol 3) (E) [h1C].bin
 6f63cff2ecb8fc0aca856d2672b018ef	Mega Games 6 (Vol 3) (E) [h2C].bin
-0d1c2d48509985f2d79b0fc3c8fe213a	Mega Games 10 in 1 (EB) [!].bin
 6d581c3457366bfe9eadc3d83c270e78	Mega Games I (E) [!].bin
 f802daccd9b1d46b4bf7feb930761b73	Mega Games I (E) [b1].bin
 db0c145b429b8c6ea41d2798abb93fce	Mega Games I (E) [h1C].bin
@@ -3672,9 +3676,9 @@ fd81d3ef09ab48dfbb508840c53a6b9f	Mega Turrican (E) [t1].bin
 63805481de0f983c1a658a92162ef440	Mega Turrican (U) [hIR].bin
 e66fa1dc5820d254611fdcdba0662372	Mega-CD Model 1 BIOS V1.00 (E) [!].bin
 bdeb4c47da613946d422d97d98b21cda	Mega-CD Model 1 BIOS V1.00 (J) [!].bin
+a3ddcc8483b0368141adfd99d9a1e466	Mega-CD Model 1 BIOS V1.005 (J).bin
 29ad9ce848b49d0f9cefc294137f653c	Mega-CD Model 1 BIOS V1.00l (J).bin
 278a9397d192149e84e820ac621a8edd	Mega-CD Model 1 BIOS V1.01 (J) (Nov 1991).bin
-a3ddcc8483b0368141adfd99d9a1e466	Mega-CD Model 1 BIOS V1.005 (J).bin
 9b562ebf2d095bf1dabadbc1881f519a	Mega-CD Model 2 BIOS V2.00 (E) (Mar 1993) [!].bin
 8d07eb19cabecb6b515834705d36f7ad	Mega-CD Model 2 BIOS V2.00 (E) (Mar 1993) [b1].bin
 332205a5a5a6d3792f905cd9b4cac0ab	Mega-CD Model 2 BIOS V2.00 (E) (Mar 1993) [b2].bin
@@ -3894,6 +3898,9 @@ fb046f042ba9f1006a200da0db6f4416	Monster World IV (J) [f1+2C].bin
 1b1a68ad7fde2960203f6f51f99ba1c9	Monster World IV (J) [f2][T-Eng_DeJap+Demiforce].bin
 4b0d9d11b648bfe3ec5c2a4ab3709e57	Monster World IV (J) [f3].bin
 c776a3d90c7916d3b5c768fb472df0a2	Monster World IV (J) [h1C].bin
+3fca5c9369d91146e2a1473c8e21522a	Monster World IV (J) [T-Eng_DeJap+Demiforce].bin
+63c44e183824a073dd9e80f175b43ef6	Monster World IV (J) [T-Eng1.02_DeJap+Demiforce+fix2.0_Michele Di Somma].bin
+c3f6d6a07a867a13aeb4afe63dd14317	Monster World IV (J) [T-Ita20080415_Michele Di Somma].bin
 2412f0ed78da35c87c2e42b624699522	Monster World IV (J) [T+Chi(Simp)].bin
 d05a9f07f435fb23fdc786a1b75e0038	Monster World IV (J) [T+Eng1.02_DeJap+Demiforce].bin
 7fb7c9c2d737e8d65298e039262e68a8	Monster World IV (J) [T+Eng20080106_DeJap+Demiforce+fix2.2_Michele Di Somma].bin
@@ -3901,9 +3908,6 @@ d11b28015755bc0ba4444d8a1424e24d	Monster World IV (J) [T+Fre_Terminus].bin
 17335521645a206ce27730e3ea04fcd6	Monster World IV (J) [T+Fre0.40_Floflo].bin
 b97ee8c369d7920261853bf00937577a	Monster World IV (J) [T+Ita20080518_Michele Di Somma].bin
 7c687625cd420151f81b3d0cb6d11d2b	Monster World IV (J) [T+Rus0.98_Chief-Net].bin
-3fca5c9369d91146e2a1473c8e21522a	Monster World IV (J) [T-Eng_DeJap+Demiforce].bin
-63c44e183824a073dd9e80f175b43ef6	Monster World IV (J) [T-Eng1.02_DeJap+Demiforce+fix2.0_Michele Di Somma].bin
-c3f6d6a07a867a13aeb4afe63dd14317	Monster World IV (J) [T-Ita20080415_Michele Di Somma].bin
 2640c0b879dd52db3e328c14c36095f0	Monster World IV (U) (VC).bin
 1df125b3c7e5f41329e1ee37280c66ce	Monster World IV (U) [T+Rus_Chief-Net].bin
 a9299665d94f428328e06ea2f8291d05	Monsters Ink (R).bin
@@ -3927,9 +3931,9 @@ b11693b32b970ab53379c3448cdd612d	Mortal Kombat (W) (REV00) [b2].bin
 bbb05031ed97609c42a1e12fc2e19e01	Mortal Kombat (W) (REV00) [p1][!].bin
 15e015b03111c4c5bd18fd037c9873d8	Mortal Kombat (W) (REV00) [T+BraRC1_Trans-Center].bin
 1941ff6a25a0f9b7ba77243af3098e17	Mortal Kombat (W) (REV00) [T+Fre_Arkames].bin
-3f63302077dc220309ea3e5bf253317a	Mortal Kombat (W) (REV00) [T+Rus].bin
 ba909603227ca733767147d568fde2ca	Mortal Kombat (W) (REV00) [T+Rus_NewGame].bin
 9b590cc0214822068b76191f1d6a0053	Mortal Kombat (W) (REV00) [T+Rus_NewGame][p1].bin
+3f63302077dc220309ea3e5bf253317a	Mortal Kombat (W) (REV00) [T+Rus].bin
 47e3daeeac133e39076a10457035159d	Mortal Kombat (W) (REV00) [T+Ser_Cole Dog].bin
 597a57b756724a07ed6a35e90c569577	Mortal Kombat (W) (REV00) [T+Spa_Charnego].bin
 33285c7000c319f16d77654de1380172	Mortal Kombat 3 - Smoke Enabled (Hack).bin
@@ -3962,9 +3966,9 @@ c34a92350ab80087a1661b3d29415927	Mortal Kombat II (W) [f1+C].bin
 596296e0e9d31d6d7f28e736ba915977	Mortal Kombat II (W) [h1C].bin
 b5b7d9b1cc839dbc2f3e475d08c9c622	Mortal Kombat II (W) [p1][!].bin
 a74ff90124b6bc9f2ca69214a2484313	Mortal Kombat II (W) [p2][!].bin
+0262dde20806e25294e91f65e9ec3d22	Mortal Kombat II (W) [T-Rus_NewGame].bin
 62f403fd9e8d9f70c80fdd38c400b44e	Mortal Kombat II (W) [T+Fre099_Arkames].bin
 00328fce69991cc9759ffef7d547a0b8	Mortal Kombat II (W) [T+Rus_NewGame].bin
-0262dde20806e25294e91f65e9ec3d22	Mortal Kombat II (W) [T-Rus_NewGame].bin
 2750d1a6814c6b69c394caf6abe9f3dd	Mortal Kombat II New Version (Hack) [a1].bin
 e3e4d662d87ee16fb2e13d2463c0edb5	Mortal Kombat II New Version (Hack).bin
 d2b709514ade4b2d41c373b9157da72a	Mortal Kombat II Unlimited by Smoke (Hack).bin
@@ -4045,14 +4049,6 @@ ae8f74818bcd0caf5d5c87c7987641e0	Narnia (R).bin
 cd0d4eacb6ff79f75389f47f9768c796	Naruto (R).bin
 6155f59e69233a1340817b5dfbbd115e	NBA 2000 (R) [!].bin
 67a889bcd456ed1f856add2cc5d0a263	NBA 2005 (R) [!].bin
-3cd64b69e1f837d18c57f9c7b33d8ca2	NBA Action (Prototype - Jan 04, 1994).bin
-a23dd8070c5227246931b0caa52f5156	NBA Action (U) (Prototype - Jan 16, 1994).bin
-f62e97e30edd521d5c819e88a1fbd76b	NBA Action (U) (Prototype - Jan 27, 1994) [b1].bin
-b3ed61c2da404c31d2a5b6f6ada7b7ff	NBA Action (U) [!].bin
-3a6990dc487199a3bfa4e6daac4dffd3	NBA Action (U) [b1].bin
-8a71cf8f05c1413dc326d90fdba5befb	NBA Action (U) [f1].bin
-cf83f33281fb2d5020bc4d37bc7ee194	NBA Action (U) [h1C].bin
-ea582ad107e885fc9e3c4d91609ff932	NBA Action (U) [o1].bin
 357f535dd518289291e5f2fe2311226b	NBA Action '95 (Prototype - Dec 02, 1994).bin
 b53a0250741a2e44dbee52504da7bb4f	NBA Action '95 (Prototype - Dec 09, 1994).bin
 7d6f714c25d9bcbf469f1631855a3ad9	NBA Action '95 (Prototype - Dec 15, 1994).bin
@@ -4083,6 +4079,14 @@ dc9117965c0c3fcb9d28eb826082b223	NBA Action '95 (UE) [!].bin
 e95d4a53172c15c01bf8ded4b2784e9c	NBA Action '95 (UE) [o1][b1].bin
 8e2027a9d871b66d658b59dee5683585	NBA Action '95 (UE) [o1+C].bin
 fdb54d0eacf1da13451ecac1d4c6ce5d	NBA Action '95 (UE) [o2].bin
+3cd64b69e1f837d18c57f9c7b33d8ca2	NBA Action (Prototype - Jan 04, 1994).bin
+a23dd8070c5227246931b0caa52f5156	NBA Action (U) (Prototype - Jan 16, 1994).bin
+f62e97e30edd521d5c819e88a1fbd76b	NBA Action (U) (Prototype - Jan 27, 1994) [b1].bin
+b3ed61c2da404c31d2a5b6f6ada7b7ff	NBA Action (U) [!].bin
+3a6990dc487199a3bfa4e6daac4dffd3	NBA Action (U) [b1].bin
+8a71cf8f05c1413dc326d90fdba5befb	NBA Action (U) [f1].bin
+cf83f33281fb2d5020bc4d37bc7ee194	NBA Action (U) [h1C].bin
+ea582ad107e885fc9e3c4d91609ff932	NBA Action (U) [o1].bin
 87a599c96e0775141527f0db04b6a619	NBA All-Star Challenge (UE) [!].bin
 1a5b749ec742ac6274b68bcc3420233d	NBA All-Star Challenge (UE) [f1].bin
 57cb8aea63b2ea6013bcc69adfd40561	NBA All-Star Challenge (UE) [f1+1C].bin
@@ -4216,6 +4220,7 @@ e582ed24430ba6e6f7467faa9138e6b3	NFL Sports Talk Football Starring Joe Montana (
 ce9185671cd9a03b712ed152010d2cf2	NHK Taiga Drama Taiheiki (J) [!].bin
 41d6d2116f52f0988c4023be81f2d731	NHK Taiga Drama Taiheiki (J) [T+Chi(Simp)_cslrxyz].bin
 cfa35b8ec3b122fcedbb36fb7e1e5ed3	NHK Taiga Drama Taiheiki (J) [T+Chi(Trad)_cslrxyz].bin
+a9a5ec50ee12834c15a5e827957577d2	NHL 2003 by Pmack (V1Ad) (NHL '95 Hack).bin
 8356b3f0d091b9cc441e2ff8721ad063	NHL 94 (UE) [!].bin
 6b6c7728db61d734d5d8a23cef599bbb	NHL 94 (UE) [b1].bin
 307054374db3d1c67de472f8b193b87a	NHL 94 (UE) [h1C].bin
@@ -4237,7 +4242,6 @@ a2c92c09d420cf7c2d2e55e8777f3a31	NHL 98 (U) [c][!].bin
 c80aca6ae52106638caee05fde2fd9b7	NHL 98 (U) [h2C].bin
 03eb2646961c7b68e06a8ce5522538b9	NHL 98 (U) [h3C].bin
 e162fda26f92cbb72765dab2f7f186f4	NHL 98 (U) [h4C].bin
-a9a5ec50ee12834c15a5e827957577d2	NHL 2003 by Pmack (V1Ad) (NHL '95 Hack).bin
 bb80c2493a1ce8b4f0dbe749542e8783	NHL All-Star Hockey '95 (Prototype - Oct 01, 1994).bin
 48401ef608bb50e1f862904a9ece747e	NHL All-Star Hockey '95 (Prototype - Oct 21, 1994).bin
 bec59c7f152581db08b43a2f5712bde9	NHL All-Star Hockey '95 (Prototype - Sep 14, 1994).bin
@@ -4408,7 +4412,6 @@ c9f27bdc71ea8eab81811b65d76bc7b1	OutRunners (U) [f1].bin
 6cb9c5364784cd18974f81780edb3ada	Pac-Attack (U) [!].bin
 e7b70838f2d798a1f3a7d075f3e97a95	Pac-Attack (U) [f1].bin
 8a83ef07007cfb1f41e360cd9f8e22b2	Pac-Attack (U) [f2].bin
-b6eb8070b6f454eecfefc3663576eac5	Pachinko Canyon (J) [!].bin
 b5ba9f464d3efced0354b9fe2f221125	Pac-Man 2 - The New Adventures (U) [!].bin
 dcc9b42ee1c6b1124429a2646478a7b2	Pac-Man 2 - The New Adventures (U) [b1].bin
 42c322ed9bad93543c8b061cf63a671b	Pac-Man 2 - The New Adventures (U) [b2].bin
@@ -4416,6 +4419,7 @@ dcc9b42ee1c6b1124429a2646478a7b2	Pac-Man 2 - The New Adventures (U) [b1].bin
 2256f31ff48f93a5e2f1d03f13c0f024	Pac-Mania (U) [!].bin
 5587616c6633dc0f65d5587ea869bf1e	Pac-Mania (U) [T+Bra_=EEP=].bin
 ad3278463e783de511612b7e0a31671f	Pac-Panic (E).bin
+b6eb8070b6f454eecfefc3663576eac5	Pachinko Canyon (J) [!].bin
 72b727d573e99a3916943075a4bca780	Paddle Fighter (SN) (GNKO) (J) [!].bin
 491c64b4b170477c92970fd2d5294e18	Paddle Fighter (SN) (GNKO) (J) [b1].bin
 0353bceb7f49b4fe9663e51ec9b8f9ae	Paddle Fighter (SN) (J) [!].bin
@@ -4511,18 +4515,18 @@ fe5de95cce52d07b230eb5f5c441f650	Phantasy Star - The End of the Millenium - Hell
 10be4e52bf888177a62a4aaaba43fb26	Phantasy Star - The End of the Millenium (J) [h1C].bin
 a1a966447286684a8433f3422e8e6c08	Phantasy Star - The End of the Millenium (J) [h2C].bin
 eb09fc2cef346f799c18fe5b41039d55	Phantasy Star - The End of the Millenium (J) [h3C].bin
-1f62d19a50f2af31ad57b63955dd6df3	Phantasy Star - The End of the Millenium (J) [T+Chi(Simp)1.0b_Phanteam].bin
-65a9dd87710720b6936cd20e38856dec	Phantasy Star - The End of the Millenium (J) [T+Chi(Simp)1.3_Ken Tse].bin
-02bd94c917e7eca2629b5c1d4a7f4770	Phantasy Star - The End of the Millenium (J) [T+Chi(Trad)].bin
-b0b13ecb44b924cd344ad690c5bcd53b	Phantasy Star - The End of the Millenium (J) [T+Rus_bybyc9lc9l].bin
 887e1690fd2fe7b59dc7ef6d94f0b001	Phantasy Star - The End of the Millenium (J) [T-Chi].bin
 19cac32236bd00d2e3c74ef506954d44	Phantasy Star - The End of the Millenium (J) [T-Chi][a1].bin
 c3dd7dd8d9c1b287b6f2ff1af4fb8143	Phantasy Star - The End of the Millenium (J) [T-Chi][a2].bin
 8f702fd1f4fdfa471434731d81c4f861	Phantasy Star - The End of the Millenium (J) [T-Chi][a3].bin
 5d0f9d2f631a269705b94608af4092cf	Phantasy Star - The End of the Millenium (J) [T-Chi][a4].bin
+c99b19fa758b78ca504d7ee5a79b0b27	Phantasy Star - The End of the Millenium (J) [T-Chi1.1_Ken Tse].bin
 93cc018906f57a08a83ad24cf59e4a41	Phantasy Star - The End of the Millenium (J) [T-Chi1.1].bin
 5ce117dfbe53eeac92f5d7118e880571	Phantasy Star - The End of the Millenium (J) [T-Chi1.1][a1].bin
-c99b19fa758b78ca504d7ee5a79b0b27	Phantasy Star - The End of the Millenium (J) [T-Chi1.1_Ken Tse].bin
+1f62d19a50f2af31ad57b63955dd6df3	Phantasy Star - The End of the Millenium (J) [T+Chi(Simp)1.0b_Phanteam].bin
+65a9dd87710720b6936cd20e38856dec	Phantasy Star - The End of the Millenium (J) [T+Chi(Simp)1.3_Ken Tse].bin
+02bd94c917e7eca2629b5c1d4a7f4770	Phantasy Star - The End of the Millenium (J) [T+Chi(Trad)].bin
+b0b13ecb44b924cd344ad690c5bcd53b	Phantasy Star - The End of the Millenium (J) [T+Rus_bybyc9lc9l].bin
 2981c138fbfbbf54d2b073bf74490c22	Phantasy Star - The End of the Millenium (U) (Prototype - Aug 15, 1994).bin
 813c81169353044d2050bf0b6424df47	Phantasy Star - The End of the Millenium (U) (Prototype - Jun 08, 1994).bin
 35649ae4a2b8a282cafd53c8b5af62cf	Phantasy Star - The End of the Millenium (U) (Prototype - May 30, 1994).bin
@@ -4552,43 +4556,44 @@ ef91e0d3120e89e91d97955abee14368	Phantasy Star - The End of the Millenium (U) [h
 574d7d8b9f5917e570087a68890ff83c	Phantasy Star - The End of the Millenium (U) [h5C].bin
 4d859a2359aaa6090d3e42babfdb3000	Phantasy Star - The End of the Millenium (U) [h5C][T+Bra].bin
 fc0eaffd2c5b6d91cc4201e3aa63c128	Phantasy Star - The End of the Millenium (U) [h6C].bin
+fd0fc6112ce9af77234cb2a4916e57b8	Phantasy Star - The End of the Millenium (U) [T-Bra].bin
+19731c22e7f7b26e47f5d709afdf5059	Phantasy Star - The End of the Millenium (U) [T-Bra][a1].bin
 0f5ae9d79e07369ff8c56abb44964cbd	Phantasy Star - The End of the Millenium (U) [T+Bra_Hyllian].bin
 085b21d1347d645386639c6ea0020d35	Phantasy Star - The End of the Millenium (U) [T+BraRev5_Hyllian e grande elenco].bin
 a98b963b51368db77b12cf7ea6547b71	Phantasy Star - The End of the Millenium (U) [T+Fre_Terminus].bin
 280cb92394705575d28a4f1353141bc4	Phantasy Star - The End of the Millenium (U) [T+Spa_sayans].bin
-fd0fc6112ce9af77234cb2a4916e57b8	Phantasy Star - The End of the Millenium (U) [T-Bra].bin
-19731c22e7f7b26e47f5d709afdf5059	Phantasy Star - The End of the Millenium (U) [T-Bra][a1].bin
 cbdf6fe34574675dbd9da1cfccd6b9f5	Phantasy Star II - Amia's Adventure (SN) (J) [T+Eng20100710_MIJET].bin
 76cb3b2ec8b827ec9288d28bc8d0cd3b	Phantasy Star II - Amia's Adventure (SN) (J).bin
 10195dfcde401acafd406f2640e384de	Phantasy Star II - Anne's Adventure (SN) (J) [!].bin
 7a6d8822b51ce9e8fab2f331de483f01	Phantasy Star II - Anne's Adventure (SN) (J) [h1C].bin
-cee72632b13d435674b2ddac637c5f8e	Phantasy Star II - Anne's Adventure (SN) (J) [T+Eng20100710_MIJET].bin
 17d172b2ffaa768073da286d83152975	Phantasy Star II - Anne's Adventure (SN) (J) [T-Eng1.0_MIJET].bin
+cee72632b13d435674b2ddac637c5f8e	Phantasy Star II - Anne's Adventure (SN) (J) [T+Eng20100710_MIJET].bin
 91b1e24644afd1f68f9e4b2765119d09	Phantasy Star II - Evil Overload v1.0 by The Komrade (Hack).bin
 9f7d75359ece1e04e71ea9217c6f94cf	Phantasy Star II - Evil Overload v1.02 by The Komrade (Hack).bin
 4efb0bc21c9df35ff39eb1862f972c47	Phantasy Star II - Huey's Adventure (SN) (J) [!].bin
 f0685cf46a64f1344cb2d40e1f49b10b	Phantasy Star II - Huey's Adventure (SN) (J) [h1C].bin
-12260bf5b7863f4489d627865dba1eec	Phantasy Star II - Huey's Adventure (SN) (J) [T+Eng20100710_MIJET].bin
 77f061cf35436a3d0907fcd2a702aa20	Phantasy Star II - Huey's Adventure (SN) (J) [T-Eng20081106_MIJET].bin
+12260bf5b7863f4489d627865dba1eec	Phantasy Star II - Huey's Adventure (SN) (J) [T+Eng20100710_MIJET].bin
 dbe39f02548beaae0aa652dc4874c09e	Phantasy Star II - Kinds's Adventure (SN) (J) [!].bin
 f56ac2188cb9d3d787775289ebc37200	Phantasy Star II - Kinds's Adventure (SN) (J) [h1C].bin
 7a6bfe02fe6ada02cfe33c87f37a9de5	Phantasy Star II - Kinds's Adventure (SN) (J) [h2C].bin
-ca9c437ccf387fb581f9ee00cfb14f34	Phantasy Star II - Kinds's Adventure (SN) (J) [T+Eng20100710_MIJET].bin
 bbc495e5bf31423a65ca7f49972c3a72	Phantasy Star II - Kinds's Adventure (SN) (J) [T-Eng20081213_MIJET].bin
+ca9c437ccf387fb581f9ee00cfb14f34	Phantasy Star II - Kinds's Adventure (SN) (J) [T+Eng20100710_MIJET].bin
 30fb373aa2d47af800712f6897823309	Phantasy Star II - Nei's Adventure (SN) (J) [T+Eng20100710_MIJET].bin
 d60bc80b482dfc1b31cb6c383f3fd88c	Phantasy Star II - Nei's Adventure (SN) (J).bin
-c734ccd77c2a11ea139b02686a0a06bd	Phantasy Star II - Numan Revolution v1.1 by The Komrade (Hack).bin
 03fefbbdb1bc58c6bef1b9e6de2ca658	Phantasy Star II - Numan Revolution v1.08 by The Komrade (Hack).bin
+c734ccd77c2a11ea139b02686a0a06bd	Phantasy Star II - Numan Revolution v1.1 by The Komrade (Hack).bin
 dbc8487b78b63efc151b80ea89de17ff	Phantasy Star II - Rudger's Adventure (SN) (J) [T+Eng20100710_MIJET].bin
 8ce3458a47e1dcb75982403e8b3cbf3f	Phantasy Star II - Rudger's Adventure (SN) (J).bin
 5abe74899da838cc9dc7cabfb4d8f816	Phantasy Star II - Shilka's Adventure (SN) (J) [!].bin
 ab0a221c18aa7880927550dc3a1dca56	Phantasy Star II - Shilka's Adventure (SN) (J) [h1C].bin
-35d2cd35f238c59b645f77be6e64ab81	Phantasy Star II - Shilka's Adventure (SN) (J) [T+Eng20100710_MIJET].bin
 0270d877e3aa8659b9b2c33bf340cc17	Phantasy Star II - Shilka's Adventure (SN) (J) [T-Eng20080628_MIJET].bin
+35d2cd35f238c59b645f77be6e64ab81	Phantasy Star II - Shilka's Adventure (SN) (J) [T+Eng20100710_MIJET].bin
 3c1ce24f8d84735d67fc6e0380c5e4c5	Phantasy Star II - Yushis's Adventure (SN) (J) [T+Eng20100710_MIJET].bin
 83f22a27147bdfd85d405daf111fde92	Phantasy Star II - Yushis's Adventure (SN) (J).bin
 f2d46a63b34cf6e5a2c8264fb59c06e7	Phantasy Star II (B) (REV01) [!].bin
 2bcb09fb5bd40ba80a80b920e866c10b	Phantasy Star II (B) (REV01) [o1].bin
+e72eca2ab26e5b7f7c0961d12855bf13	Phantasy Star II (Ch) (MDX).mdx
 ad692c895d5c2cab7b616df2135ea3b4	Phantasy Star II (J) [!].bin
 fd32f32ea87eec4fdbc1dd1b78e40973	Phantasy Star II (J) [b1].bin
 56dc9dc133cd8a6268b25fd5e7da8cfc	Phantasy Star II (J) [h1C].bin
@@ -4626,19 +4631,19 @@ e0d4c06905d1fcd696920e55a74ff064	Phantasy Star III - Generations of Doom (UE) [o
 86318ce254ed15f027ccd43ad7e2d837	Phantasy Star III - Generations of Doom (UE) [o1][h1C].bin
 4c218566ebcef91b1f2c220bfb1df1e4	Phantasy Star III - Generations of Doom (UE) [o1][h2C].bin
 14df9700ab8731f1b9eb6072a83498a4	Phantasy Star III - Generations of Doom (UE) [o1][h3C].bin
+c5c1b979f2a420e9e0b86e0bfb05cc9d	Phantasy Star III - Generations of Doom (UE) [o1][T-Fre].bin
 46585187d2773731e34d5dc8d1ebf7e4	Phantasy Star III - Generations of Doom (UE) [o1][T+Fre1.1_Arkana].bin
 cd6dafc4aeb7af5da2e5bdf194212fdc	Phantasy Star III - Generations of Doom (UE) [o1][T+Rus070].bin
 d93d5718b837ee77ff4fc60626a4fecf	Phantasy Star III - Generations of Doom (UE) [o1][T+Spa100%_Pablito].bin
-c5c1b979f2a420e9e0b86e0bfb05cc9d	Phantasy Star III - Generations of Doom (UE) [o1][T-Fre].bin
 3eed8355b04f010ba7c9dc011df6dfe8	Phantasy Star III - Generations of Doom (UE) [o2].bin
 9fe41a1593ce3316741f2c88f1ba99e1	Phantasy Star III - Generations of Doom (UE) [o2][T+Rus070].bin
+4901cf7ef0b8a94e12ea6838dd65379c	Phantasy Star III - Generations of Doom (UE) [T-Spa][b1].bin
 6a5df14f1d0d105574e9915749be2ddf	Phantasy Star III - Generations of Doom (UE) [T+Fre1.1_Arkana].bin
 9530653f9f54493ebfe2243a8c4d5ceb	Phantasy Star III - Generations of Doom (UE) [T+Rus_NewGame].bin
 f66c87e2ac0e62818b80ea40da744d17	Phantasy Star III - Generations of Doom (UE) [T+Rus_Shedevr].bin
 9a93f33b96e5e42809fa00d6cf860082	Phantasy Star III - Generations of Doom (UE) [T+Rus070_Shedevr].bin
-db27f173538363ea9d231fe1d29b4e20	Phantasy Star III - Generations of Doom (UE) [T+Spa100%_Pablito].bin
 eec989485cb126e0dc7081a129652362	Phantasy Star III - Generations of Doom (UE) [T+Spa100_sayans].bin
-4901cf7ef0b8a94e12ea6838dd65379c	Phantasy Star III - Generations of Doom (UE) [T-Spa][b1].bin
+db27f173538363ea9d231fe1d29b4e20	Phantasy Star III - Generations of Doom (UE) [T+Spa100%_Pablito].bin
 0792bea0bdc12c32a29977847b7baefd	Phantasy Star III - Knife Only Challenge (Hack).bin
 359958755d967864711bb503a125ccc7	Phantasy Star III - Toki no Keishousha (J) [!].bin
 13933681a1c7be81eba717ddfd8043c2	Phantasy Star III - Toki no Keishousha (J) [o1].bin
@@ -4683,6 +4688,7 @@ a5a2f9aae57d464bc66b80ee79c3da6e	Pioneer LaserActive BIOS V1.02 (J).bin
 6fe52dcf67f0c79337f53be1bc403aae	Pirates of Dark Water, The (U) [T+Rus_refrresh].bin
 e87c39c2d65e0e4ac8b659a2f53b208b	Pirates of Dark Water, The (UE) [b1].bin
 bbbbbe9e494463293768744bf5ef089a	Pirates of Dark Water, The (UE) [b2].bin
+2c412592fe62d52596d70df5612cbe7b	Pirates of Dark Water, The (UE) [b3].smd
 d492fd7e89b8024e921ac403858cd52b	Pirates of Dark Water, The (UE) [b4].bin
 ddc1c8d87f6d2508e654d71d5e7b836a	Pirates of Dark Water, The (UE) [b5].bin
 1e84c6e91ab5898ffc2ef6b94d98ff42	Pirates of Dark Water, The (UE) [f1].bin
@@ -4818,8 +4824,8 @@ fdc2775490139114a27af3bc54cfbb5c	Prince of Persia (Beta 2) [T+Rus].bin
 961d60986c98f6ccd4b19a75d85b8854	Prince of Persia (Beta 2).bin
 bb8dede1a266d8c48a8f2ea1e4d12e58	Prince of Persia (E).bin
 a942e336b5d2e9f962b289fc08b890c6	Prince of Persia (U) [!].bin
-f38cc831257d5e922b7f3c6e4fcb30d0	Prince of Persia (U) [T+Rus].bin
 c26686b07c35bfe08603deffa6a7abce	Prince of Persia (U) [T+Rus_Shedevr].bin
+f38cc831257d5e922b7f3c6e4fcb30d0	Prince of Persia (U) [T+Rus].bin
 c2d36308f96d6b004c3b21e32a7241f0	Prince of Persia 2 - The Shadow and The Flame (Beta) [T+Rus].bin
 dc580653e3edc6c6b01cb1bfacc947b4	Prince of Persia 2 - The Shadow and The Flame (Beta).bin
 43a12bdab31c98cb40c99af623cf9ba4	Pringles v1.00 (PD).bin
@@ -4841,11 +4847,11 @@ b28512f34e8a7c270995e810ad6cf5e5	Project MD by sik (V20100306_regenwtf) (PD).bin
 560a8c6889aa4b6bfa831f485e2f6a9f	Project MD by sik (V20100320) (PD).bin
 88c28780430b31f71568aeef2125f4b3	Project MD by sik (V20100326) (PD).bin
 91d158fa460d927598689012e00c730f	Project MD by sik (V20100401) (PD).bin
-20bce77bd3f36bb7815da9f8b7b39c56	Project MD by sik (V20100403) (PD).bin
 f45e3289254bea62791bc4f4b881808d	Project MD by sik (V20100403_regenflagswtf) (PD).bin
+20bce77bd3f36bb7815da9f8b7b39c56	Project MD by sik (V20100403) (PD).bin
 f6dbf3371286c893647127f1b8678c99	Project MD by sik (V20100504_dmacross) (PD).bin
-796cf3c3414a2e445458dc5ed2cf3399	Project MD by sik (V20100509) (PD).bin
 3b6c181067ca973e691e0e19be12743b	Project MD by sik (V20100509_alt) (PD).bin
+796cf3c3414a2e445458dc5ed2cf3399	Project MD by sik (V20100509) (PD).bin
 8a2b51d730712bec81e4de7b447f12c1	Project MD by sik (V20100519) (PD).bin
 f505548fe5e9721436e623afd2d0f759	Project MD by sik (V20100526) (PD).bin
 fa5146977c2075fe763a5960771b41b3	Project MD by sik (V20100601) (PD).bin
@@ -4876,6 +4882,9 @@ dbb0087b0d96f9624fdd949886b21a20	Project Shadow 2 - Demo3 by snkenjoi (S2 Hack).
 1b5e6f6626db0361da2f14167da2cdee	Project Shadow 2 - Demo4 by snkenjoi (S2 Hack).bin
 89ebc118bb18e411de2c08fdeccb7c6d	Project Shadow 2 - Demo4 by snkenjoi (v1.00) (S2 Hack).bin
 3b03f4618072772066c08f3207fee0f8	Project Sonic 1 Two-Eight (S1 Hack).bin
+d4e9c54c5dfa5ecfcb4177be7d3934f8	Psy-O-Blade Moving Adventure (J) [!].bin
+7a7b6359206a68f8fa1fe1981dfd9611	Psy-O-Blade Moving Adventure (J) [h1C].bin
+5190c07f610948eed910ea94985d347f	Psy-O-Blade Moving Adventure (J) [o1].bin
 a82857c9ff950180f16b1ea32d831e0d	Psycho Pinball (E) (Oct 1994) (M5) [c][!].bin
 9712e35060274df553ab793b0cf71fdc	Psycho Pinball (E) (Oct 1994) (M5) [o1].bin
 a2a4f1b23756763acbc76c9b65cf2a0e	Psycho Pinball (E) (Sep 1994) (M5) [c][!].bin
@@ -4884,9 +4893,6 @@ c3a441a5cea6a93538929595fc212309	Psycho Pinball (E) (Sep 1994) (M5) [h1C][o1].bi
 0eccde610ac934ce95cd5f10e11d0bc9	Psycho Pinball (E) (Sep 1994) (M5) [o1].bin
 0d29c534156a5b0a2b1dda696bb6f31f	Psycho Sonic by Jen Hedgehog (S1 Hack) [t1].bin
 9d1b4e8dca2b920ab9a82d0a407965e7	Psycho Sonic by Jen Hedgehog (S1 Hack).bin
-d4e9c54c5dfa5ecfcb4177be7d3934f8	Psy-O-Blade Moving Adventure (J) [!].bin
-7a7b6359206a68f8fa1fe1981dfd9611	Psy-O-Blade Moving Adventure (J) [h1C].bin
-5190c07f610948eed910ea94985d347f	Psy-O-Blade Moving Adventure (J) [o1].bin
 fe208ab77350db4d818e6c7e2966ce92	Puggsy (Beta) [a1].bin
 9287220d16f96cef1d29694474a0aad9	Puggsy (Beta) [h1C].bin
 065e4cd9cc97081ccc2cfd403e4c774a	Puggsy (Beta) [hI].bin
@@ -5024,9 +5030,9 @@ a41cdf47493c844b4e92c939cccdfa29	Rampart (U) [h2I].bin
 28b35619329f7a5d33691b932733ab70	Ranger-X (U) [b1].bin
 d9e68f151c8795ddd0e9f9d528fac0ad	Ranger-X (U) [f1].bin
 c7b87805a851acb069ae2fbf7fe1a504	Ransei no Hasha (J) [!].bin
+9ae95510071288008e4b4ef87b63e39a	Ransei no Hasha (J) [T+Chi_cslrxyz+SkyLeague].bin
 1f60ab74289dfb1f6d77dcd646ae0f25	Ransei no Hasha (J) [T+Chi].bin
 96f668424f300a194d9ab38cae328d67	Ransei no Hasha (J) [T+Chi][a1].bin
-9ae95510071288008e4b4ef87b63e39a	Ransei no Hasha (J) [T+Chi_cslrxyz+SkyLeague].bin
 91ade36685d2fb78ebdd059467a75dde	Rape 2.0 by Selbi (S1 Hack).bin
 1d948bdf509877bb47b3ca3540f51d6c	Rape by snkenjoi (S2 Hack) [a1].bin
 3e7b48fbbb5a599c9009b8eebadfd72a	Rape by snkenjoi (S2 Hack).bin
@@ -5131,8 +5137,8 @@ b5c032fe378966013712a0e6dae87e3c	Road Rash (UE) [b1+1C].bin
 abc70158ecdab8b66a2359cb1c14b564	Road Rash (UE) [o1].bin
 f7ec854cb980dec58b3c3eff216d3018	Road Rash (UE) [o2].bin
 ea884719bc60e19592ff8288395bc214	Road Rash (UE) [p1][!].bin
-6f572231e723a670e58d33634c2a0552	Road Rash (UE) [T+Rus].bin
 3c39cfee7214ec720feb68e0b86d5d46	Road Rash (UE) [T+Rus_NewGame].bin
+6f572231e723a670e58d33634c2a0552	Road Rash (UE) [T+Rus].bin
 d1cefbe8d13d5a6975ba88deb28563e2	Road Rash 3 - Road Rash 2 Tracks (Hack).bin
 e4b400ed10d7573d6e4447492ab8ae2e	Road Rash 3 (Prototype - Alpha 5).bin
 dce9b99a3d692cb4463f9f35d278659b	Road Rash 3 (UE) [!].bin
@@ -5141,8 +5147,8 @@ dce9b99a3d692cb4463f9f35d278659b	Road Rash 3 (UE) [!].bin
 98196408705f4520213ba1e43bef67f2	Road Rash II (J) [!].bin
 c04a309f607aaf59f55eb8dad6affa73	Road Rash II (UE) (REV00) [!].bin
 422b2d655f0e837451d16e55832a034d	Road Rash II (UE) (REV00) [h1C].bin
-5ff3080c9a8f66189b886adf062fba07	Road Rash II (UE) (REV00) [T+Rus].bin
 cc4889aa710263e3cffc9009bd64c454	Road Rash II (UE) (REV00) [T+Rus_NewGame].bin
+5ff3080c9a8f66189b886adf062fba07	Road Rash II (UE) (REV00) [T+Rus].bin
 062ed2f4e698bd8c61ebb1ee74a08d2b	Road Rash II (UE) (REV02) [c][!].bin
 a83b400a0e21d246cab81d05b13d4e42	Road Wars 2000 V0.07 by Jason Meehan (PD).bin
 e1c98a74abc694c39c577f1cc4e7a2b6	Robocop 3 (UE) [!].bin
@@ -5163,9 +5169,9 @@ ddc10b7338f168cbdb87be5284796cba	Robocop Versus The Terminator (E) [b1].bin
 cfc3568cc985f7b73dd5afa69c9f28a4	Robocop Versus The Terminator (U) [!].bin
 73bffed2b399225a4acecfee0aa6b72f	Robocop Versus The Terminator (U) [b1].bin
 11513b8e13b36e090d783b554ce62a13	Robocop Versus The Terminator (U) [T+Bra100%_LordRipper].bin
-9aa31da6892da11715a8add026d6ced9	Robocop Versus The Terminator (U) [T+Rus].bin
 8b10d7a6db7a360b9279bab0f220d4f7	Robocop Versus The Terminator (U) [T+Rus_NewGame].bin
 7b109318025dee575b64aaad77953072	Robocop Versus The Terminator (U) [T+Rus_NewGame][f1].bin
+9aa31da6892da11715a8add026d6ced9	Robocop Versus The Terminator (U) [T+Rus].bin
 240e3b3dbf7a36047a5eec74ed422d9d	Robot Battler (SN) (J) [!].bin
 7bb603284d8ab9e7db91ca4d0ade4bb1	Robot Battler (SN) (J) [b1].bin
 91ba12ef0180e98a672b94a47caeb312	Robot Wreckage (Beta) [h1I].bin
@@ -5277,6 +5283,7 @@ a1e062e71e091793ebb09edd4511da77	Rolling Thunder 3 (U) [c][!].bin
 46f0c65ea34800bd53c14712ad57eeff	Rolo to the Rescue (UE) [!].bin
 592c84e426c9de92b8c38737a80c4ef5	Rolo to the Rescue (UE) [h1C].bin
 d0c817bcc797b682a930c26e145c7df5	Rolo to the Rescue (UE) [T+Rus_MagicGame].bin
+90b905b88c10d2f80d269a0c5838cdd6	Romance of the Three Kingdoms - The Battle of Red Cliffs (Ch) (MDX).mdx
 4df88f0ef789a172c2c329ba931f25f0	Romance of the Three Kingdoms - The Battle of Red Cliffs (Ch) [f1].bin
 3f5f1947962bd5a0e1e7c68684599a4e	Romance of the Three Kingdoms - The Battle of Red Cliffs (Ch).bin
 e2bc92714f45c1e2b168a41ca09cc7f4	Romance of the Three Kingdoms II (U) [!].bin
@@ -5354,9 +5361,9 @@ ed27a645e8d9e5250ead5e61210d5045	Sangokushi III (J) [b1].bin
 3e1995562a397a5614ca7ebcb6d8702d	Sangokushi III (J) [b1+2C].bin
 548502f032be0fc61be7b07aa64eeeac	Sangokushi III (J) [b2].bin
 3847e73681fa4f9f0e0921243e21cf94	Sangokushi III (J) [b3].bin
+dbe02d16620e820336b54cb732bb8eb9	Sangokushi III (J) [T-Chi].bin
 ddd48f26292dfb408b066c4af94a0611	Sangokushi III (J) [T+Chi(Simp)].bin
 49cbb8f766b2ba53084e474c00ad8966	Sangokushi III (J) [T+Chi].bin
-dbe02d16620e820336b54cb732bb8eb9	Sangokushi III (J) [T-Chi].bin
 89a0885c32aba1146249b2e4efd083c7	Sangokushi III V070328 by yanliang (Hack).bin
 fb743154895c42cbc97edf1f9f5839a5	Sangokushi Retsuden - Ransei no Eiyuu Tachi (J) [!].bin
 63bc65f2717bb7a72273f14a63128a0f	Sangokushi Retsuden (Ch) [h1C].bin
@@ -5438,13 +5445,13 @@ f0b2f9365e09fd83c4dec8c7f484cee6	Serious Sam - Dune Runner (Dune Hack) [a2].bin
 7b3e4183edce3f93b3d66dd62f1ad389	Serious Sam - Dune Runner (Dune Hack).bin
 36b04381309d06508ee0f19f58fd2c8c	Sesame Street Counting Cafe (U) [!].bin
 4a02a2135812774ad0b8ce1498fd401f	Sesame Street Counting Cafe (U) [b1].bin
+d28a570fb5343f73edefbb62d31b1b62	SG-DOS Demo (PD).bin
 53216a03f2e905d6f1c1d6a0aeda2346	SGCC Demo 1 (PD).bin
 653e157452fa91f4f6e8ece118ef986c	SGCC Demo 2 (PD).bin
 713c0dd56a99709482f9bf3d7aecbc74	SGCC Demo 3 (PD).bin
 d534d49d7741800787f0d94652daa2c4	SGCC Demo 4 (PD).bin
 4b43ff23ad98febdc702d0cf6612ca7c	SGCC Demo 5 (PD).bin
 8feaeafaa8d02d9c238165b597e02d60	SGCC Demo 6 (PD).bin
-d28a570fb5343f73edefbb62d31b1b62	SG-DOS Demo (PD).bin
 e2b7c02b6cf1e6ee48a2d06ff0572e25	Shadow (S1 Hack).bin
 3593e0995aa5ac87bf54e54da56e4631	Shadow Blasters (U) [c][!].bin
 299d7b482219342b65696a0e99b383f0	Shadow Blasters (U) [h1C].bin
@@ -5464,8 +5471,8 @@ d4a01d467b0dcf87d5462ab34c630463	Shadow of the Beast (UE) [b1].bin
 715e2954470221aa559290bab694c6e2	Shadow of the Beast 2 (UE) [f1].bin
 eac23627fd5714faa61abdb2b18e0fae	Shadow of the Beast 2 (UE) [f1+C].bin
 d06f2f53f7c6d2272d49f6ae8d2355df	Shadow The Hedgehog (S1 Hack).bin
-474a1d489e9d4b12e43e032711aff7d7	Shadow, The v1.0beta (S1 Hack).bin
 1e6a565bbb64e186d1b617925643b84e	Shadow-Highlight Test Program #2 (PD).bin
+474a1d489e9d4b12e43e032711aff7d7	Shadow, The v1.0beta (S1 Hack).bin
 e1c549eb7a842594a99ab8993d01b427	Shadowrun (J) [!].bin
 7e0ecf2449f26a10b56abcf85a41f89a	Shadowrun (J) [b1].bin
 5a1b61de1c43e36787fa8c52922523cd	Shadowrun (R).bin
@@ -5500,9 +5507,9 @@ aed0989073d22b9fed2df502bb5b5de6	Shaq Fu (UE) [b2].bin
 288e617b6c47a3bafb4f972becea5ea5	Shields (S2 Hack).bin
 3314e363260d38cb1e4303e0bea84aba	Shin Changsegi - Ragnacenty (K) [!].bin
 ea990159212f71b97eb289a3763cf447	Shin Samurai Spirits (Unl).bin
-6e3049d2562774204fa5ab63c6ddf24f	Shining and the Darkness (Ch).bin
 66b89c9a9bfd0ea71371c440be097f23	Shining and the Darkness (Ch-Simp).bin
 05792af8664d2e65dfe36b9c6235b179	Shining and the Darkness (Ch-Trad).bin
+6e3049d2562774204fa5ab63c6ddf24f	Shining and the Darkness (Ch).bin
 380741cee5ff1c89498270d45af7521a	Shining and the Darkness (J) [!].bin
 d86b66fc57703eb905339bc49d540e65	Shining and the Darkness (J) [f1].bin
 bcfeed869751371601a04c2f6f2bc02a	Shining and the Darkness (J) [h1C].bin
@@ -5533,12 +5540,12 @@ f805d6412fec7129be0a1243cdbc9d90	Shining Force II - Inishie no Fuuin (J) [b2].bi
 12e85e554e1a558b6592e1710b5649ce	Shining Force II - Inishie no Fuuin (J) [b3].bin
 3ce1727247eba54f8fbce461d80958e2	Shining Force II - Inishie no Fuuin (J) [f1].bin
 ce08bb505abdfddd04c8011bc83251bf	Shining Force II - Inishie no Fuuin (J) [f1+C].bin
-02455602daefb247446c86815d995e76	Shining Force II - Inishie no Fuuin (J) [T+Chi1.8d_ken,madcell].bin
 a8e694f83f1a04aaead3076104363eb9	Shining Force II - Inishie no Fuuin (J) [T-Chi1.0_ken,madcell].bin
 aef78f2cac0e570e730f56d320668e98	Shining Force II - Inishie no Fuuin (J) [T-Chi1.2_ken,madcell].bin
 676893f07559e04b8962d78246894c06	Shining Force II - Inishie no Fuuin (J) [T-Chi1.3_ken].bin
 b4b713406c4a98dcb8d4cd2b9603e9d5	Shining Force II - Inishie no Fuuin (J) [T-Chi1.4].bin
 d980703c8c6ecc9fa71f8f65df315737	Shining Force II - Inishie no Fuuin (J) [T-Chi1.7_ken,madcell].bin
+02455602daefb247446c86815d995e76	Shining Force II - Inishie no Fuuin (J) [T+Chi1.8d_ken,madcell].bin
 7b17318e42b908e90ab20dd795825d73	Shining Force II (E) [!].bin
 b5d0792de79fa75b92ceaafb08d636a5	Shining Force II (E) [f1].bin
 4773736ed2b2d4894007d062a461557a	Shining Force II (E) [o1].bin
@@ -5552,11 +5559,11 @@ ab2ff62e395effc492b88ebbb25576bd	Shining Force II (U) (Prototype - Apr 04, 1994)
 a187061f202a35fabf88fe4fca66bc7b	Shining Force II (U) [h1C].bin
 9935b82689625c927f1e3433616dfeb4	Shining Force II (U) [h2C].bin
 b284527a253b14b2d972353e122a11bc	Shining Force II (U) [o1].bin
+261463734f151e8703eba9f544705138	Shining Force II (U) [T-Fre0.95_Final Translation,Generation IX].bin
 adae02a196f24ceb3049b4fab830cbcc	Shining Force II (U) [T+Fre0.98_Final Translation,Generation IX].bin
 a092829da229b637e0445f30345ce0fc	Shining Force II (U) [T+Rus_NewGame].bin
 a9d9d759100555d950d5b00817b22b83	Shining Force II (U) [T+Rus_Shedevr].bin
 b877c9d3d8e1468308f7c48c031dedbf	Shining Force II (U) [T+Spa0.10beta_krusher].bin
-261463734f151e8703eba9f544705138	Shining Force II (U) [T-Fre0.95_Final Translation,Generation IX].bin
 0a1216b130a7971784dbbff8fa2af080	Shining Force III (Ch).bin
 5bdb8286d071ec744df1ef92529156d5	Shining in the Darkness (B) [!].bin
 522b689a1b2f0ea8578fa9d888554b82	Shining in the Darkness (UE) [!].bin
@@ -5653,8 +5660,8 @@ fdf04e2f6c369a4b73caadd6ea0d13b9	Slam Dunk - Shikyou Gekitotsu! (J) [f1+C].bin
 7b62455fdb3d0b260bfe1a2f34ddcee3	Slam Dunk - Shikyou Gekitotsu! (J) [h1C].bin
 80448d90dd5c7d4ef53140e3af177642	Slam Dunk - Shikyou Gekitotsu! (J) [h2C].bin
 d1c67e8983443ede90bbaadd4e2304a5	Slam Dunk - Shikyou Gekitotsu! (J) [h3C].bin
-34cd39799e3d0dc355ad5a7b148d411f	Slam Dunk - Shikyou Gekitotsu! (J) [T+Chi1.1_Bearteam].bin
 e67f4b567c64642c44cdfeb425c95ac8	Slam Dunk - Shikyou Gekitotsu! (J) [T-Chi1.0_Bearteam].bin
+34cd39799e3d0dc355ad5a7b148d411f	Slam Dunk - Shikyou Gekitotsu! (J) [T+Chi1.1_Bearteam].bin
 298e3ed2662bd30784977a04f2cb5ef3	Slap Fight (J) [b1].bin
 989f8effd6fbbd93dcabd0be8fd41f8a	Slap Fight (J) [c][!].bin
 0b1da3f74d453b5dd2b8c57e4a98593e	Slap Fight (J) [h1C].bin
@@ -5673,9 +5680,9 @@ b91ba4d70be139a1014533cc13e35e49	Slaughter Sport (U) [o1][h3C].bin
 86c3c2e0970815c3b494dde672262047	SMDTEST by Tiido Priimagi (PAL) (PD).bin
 2e1e1e8de6ab8e4d388ff28ca2529f31	SMTP v0.1 by snkenjoi (S2 Hack).bin
 1f6f74a9bc5c6a3580d2458eaaceab50	SMTP v0.2 by snkenjoi (S2 Hack).bin
+521171dda7a121cd4f57839222ccfec1	SMTP v0.25 by snkenjoi (S2 Hack).bin
 4574217df62cd4e340930421ec24537f	SMTP v0.3 by snkenjoi (S2 Hack).bin
 1b296916a2568a65e4e50f268c0ee6da	SMTP v0.4 by snkenjoi (S2 Hack).bin
-521171dda7a121cd4f57839222ccfec1	SMTP v0.25 by snkenjoi (S2 Hack).bin
 37fe46767e53d1cacb0938545a8069ea	SMTP v0.49 by snkenjoi (S2 Hack).bin
 ba351e086d3434ea742aeaba4cd0d350	SMTP v0.50 by snkenjoi (S2 Hack).bin
 2c6b31e67e9310a9a6fffc5408f85d9c	Smurfs 2, The (E) (M4) [!].bin
@@ -5795,9 +5802,9 @@ ebab84f500d26ab76d86aee57753312d	Sonic - Harder Levels v0.0.3 (S1 Hack).bin
 696e753e92a1e4823d6a74a87f747282	Sonic - Harder Levels v0.0.5 Demo (S1 Hack).bin
 a7531bfc4f8450a4dab91950f402123f	Sonic - Harder Version v0.05 beta2 (S1 Hack).bin
 c82dfd5550d144aecc1cc17b9141e2b5	Sonic - Hell by Chaos Master (S2 Hack).bin
+c3c84f670923fed41bd647db242a802b	Sonic - High Force v0.75rus (S1 Hack).bin
 02dc5ae31425a5d3d158d784599eb7ce	Sonic - High Force v0.7eng (S1 Hack).bin
 229749b89259b270a375fec65fb877de	Sonic - High Force v0.7rus (S1 Hack) [T+Rus_vladikomper].bin
-c3c84f670923fed41bd647db242a802b	Sonic - High Force v0.75rus (S1 Hack).bin
 04d75ed6036af2ba3cb023f3161f7539	Sonic - iD3LSIML~TWISTED! by MarkeyJester (S1 Hack).bin
 09b78f5c694b953b3a86dc950d3ee8c2	Sonic - Island Mix v2.0 (S1 Hack).bin
 3f1afbe16eeea5f4f814fad95ffcb9d5	Sonic - Level Designing (S2 Hack).bin
@@ -5967,14 +5974,14 @@ c578e25b335d09c2a5c05ad62b302738	Sonic 2 Delta II V0.02 by Esrael (S2 Hack).bin
 285961ef32bb0493b2cce4c7e66b75a8	Sonic 2 Delta II V0.03 by Esrael (S2 Hack).bin
 5cdb55a85c5c3cbf38c81e0b4b443ced	Sonic 2 Delta II V0.04 by Esrael (S2 Hack).bin
 c7df8c60aed529a70f074f2409a3dd8d	Sonic 2 Delta II V0.04a by Esrael (S2 Hack).bin
-6a35a694eef224abc4a3e294b0d087ee	Sonic 2 Delta II V0.5 by Esrael (S2 Hack).bin
-e3977103eb29a8fbaaef90f7e168e9d0	Sonic 2 Delta II V0.5a by Esrael (S2 Hack).bin
 74c2df48e034787bd3f70fd5fc90dc0c	Sonic 2 Delta II V0.06 by Esrael (S2 Hack).bin
 24375f71ae6b635be898325cfd0e27f6	Sonic 2 Delta II V0.07 by Esrael (S2 Hack).bin
-56b6b238eebd20449859495d0e2e7e81	Sonic 2 Delta II V0.8 by Esrael (S2 Hack).bin
-e23dd0c64ff328f461153037e59c7f92	Sonic 2 Delta II V0.9 by Esrael (S2 Hack).bin
 afbe444f8988ff438e2f5584d15bc396	Sonic 2 Delta II V0.10 by Esrael (S2 Hack).bin
 12e3d083f8d527051bc72df2c7170e9b	Sonic 2 Delta II V0.10a by Esrael (S2 Hack).bin
+6a35a694eef224abc4a3e294b0d087ee	Sonic 2 Delta II V0.5 by Esrael (S2 Hack).bin
+e3977103eb29a8fbaaef90f7e168e9d0	Sonic 2 Delta II V0.5a by Esrael (S2 Hack).bin
+56b6b238eebd20449859495d0e2e7e81	Sonic 2 Delta II V0.8 by Esrael (S2 Hack).bin
+e23dd0c64ff328f461153037e59c7f92	Sonic 2 Delta II V0.9 by Esrael (S2 Hack).bin
 068a22d944373fccc66bb3d53f64896b	Sonic 2 Delta II V1.0 by Esrael (S2 Hack).bin
 1c2aa69820a994e005739fff2486f584	Sonic 2 Delta II V1.0a by Esrael (S2 Hack).bin
 35bc68252fa1e9bedfe19f92ebb2da0b	Sonic 2 Delta III V0.1 (S2 Hack).bin
@@ -6046,6 +6053,7 @@ a7748530d8e7b0e4b6d1c4c450935616	Sonic 2 Ultimate (S2 Hack) [b1].bin
 0fbf9f8f5af6b29e60bdc9008aba3f14	Sonic 2 with Mouse Support (S2 Hack).bin
 224489113ed26aab6b57c95bba244ef7	Sonic 2 XL (S2 Hack).bin
 eea6fcd644eb9811f4001265f5a1631d	Sonic 2 XP by Overlord (S2 Hack).bin
+a23e757bb65573a1157a2910ea2d0c6e	Sonic 2008 Beta 2.0 by Anthall (S1 Hack).bin
 62d31cdeb0ef52dd1e8b5c6ab59a6589	Sonic 2K 1 MB (S2 Hack).bin
 ff8186954fd75ab945d483b958ad1b7e	Sonic 2K 1 MB Rev 1 (S2 Hack).bin
 f9d758fe3f12b92074caef54d397d8f1	Sonic 2K Upmem (S2 Hack).bin
@@ -6090,12 +6098,12 @@ aba6db5120b00b25b3c99da080cbb704	Sonic 3 Delta V0.1a (S3 Hack).bin
 b9420d7e5f61acdd046e1795785c01cd	Sonic 3D Blast - Red Edition v1.0 (Hack).bin
 f4c6a1ea43fd700b93e514e86742621f	Sonic 3D Blast (Beta).bin
 8cb84ea6f747357ee5384f7bb59566bc	Sonic 3D Blast (Prototype 73 - Jul 03, 1996, 13.58).bin
-ceb2ce0267a8803c55e3bceaa2312d9c	Sonic 3D Blast (Prototype 94 - Sep 04, 1996, 12.01).bin
 eb8d295605fa8647047cba2907b8b90c	Sonic 3D Blast (Prototype 814 - Aug 15, 1996, 07.55).bin
 7a676b50e4e5f89ba51e08bb3c678abc	Sonic 3D Blast (Prototype 819 - Aug 19, 1996, 19.49).bin
 d04a109e1cb0be8a7268e8f20c1f95b3	Sonic 3D Blast (Prototype 825 - Aug 26, 1996, 15.46).bin
 8bb7afc833254fc5a1c23b8f40e97e09	Sonic 3D Blast (Prototype 830 - Aug 31, 1996, 08.19).bin
 41ab84e532725d9753af5ea03447f851	Sonic 3D Blast (Prototype 831 - Sep 03, 1996, 10.07).bin
+ceb2ce0267a8803c55e3bceaa2312d9c	Sonic 3D Blast (Prototype 94 - Sep 04, 1996, 12.01).bin
 50acbea2461d179b2bf11460a1cc6409	Sonic 3D Blast (UE) [!].bin
 0e41052a824851a4b8012ba2a226ad4c	Sonic 3D Blast (UE) [b1].bin
 546759d6e9b32cdec7f9c5f8005f7e03	Sonic 3D Blast (UE) [b2].bin
@@ -6111,7 +6119,6 @@ d208c1c27a407ab685307792d0c5e2b8	Sonic 3D Blast (UE) [T+Rus_Shedevr].bin
 0a5f1348507aeefe0e63f867b141d31d	Sonic 3D Blast Time Attack by fabio (Hack).bin
 88af036dc3038f69ed2d9ae1d51127f5	Sonic 3D No Flickies v1.1 (Hack).bin
 b852808c81d907c4ca77a8f72c6166e4	Sonic 3D No Flickies v1.2 (Hack).bin
-a23e757bb65573a1157a2910ea2d0c6e	Sonic 2008 Beta 2.0 by Anthall (S1 Hack).bin
 1d48cbc47e2b6fa762c9183ddcda6714	Sonic Alpha (S1 Hack).bin
 1897a9d52d16a8cda21ce19ae5a95b11	Sonic Alphaomega v1.0 by HCKTROX (beta_version) (S1 Hack).bin
 01714a04a4d15ece603594acb2a796e7	Sonic and Crackers (Beta) [b1].bin
@@ -6123,6 +6130,15 @@ f13fb0edbecf6a620feafa0e5e3c1904	Sonic and Crackers (Beta) [h3C].bin
 f9d87064d48d99ebbd425e8334de4beb	Sonic and Crackers (Beta).bin
 25e8a76be8031703025224ccda8c7ffc	Sonic and Knuckles - Longjumps and Trained (SK Hack).bin
 74bdf528d0e516dc69fadba0d1bbe246	Sonic and Knuckles - skbuilt by snkenjoi (SK Hack).bin
+4ea493ea4e9f6c9ebfccbdb15110367e	Sonic and Knuckles (W) [!].bin
+577eca185e7e1fb04ad6130b13ccea17	Sonic and Knuckles (W) [b1].bin
+b06dd721d2071f8a921e42fb152cf3da	Sonic and Knuckles (W) [b2].bin
+6953b57f1fa8756b079f89e78c143e8f	Sonic and Knuckles (W) [b3].bin
+1efa7594ac9c047e15be63a046ea3d06	Sonic and Knuckles (W) [b4].bin
+e04f9ef10b05182e6cc651919533d505	Sonic and Knuckles (W) [h1C].bin
+c5bbd5706c8aa679d28a341a6354b792	Sonic and Knuckles (W) [p1][!].bin
+13b4477bcdde343931f7001cd9696418	Sonic and Knuckles (W) [T+Rus_NewGame].bin
+c70b5585ea0b864360997610e7cf9b1d	Sonic and Knuckles (W) [t1].bin
 f07d2843413d849277b6920ad29073ae	Sonic and Knuckles & Sonic 1 - Tails in S&K (SK Hack).bin
 17ffe04bb891253e7ac3fb0952bb2edb	Sonic and Knuckles & Sonic 1 (W) [!].bin
 3d6a38fa0986324a7bb81c43392f8a67	Sonic and Knuckles & Sonic 1 (W) [f1].bin
@@ -6135,7 +6151,6 @@ ac3dd9d972aa41246a47ef0a9008ae63	Sonic and Knuckles & Sonic 1 (W) [h2C].bin
 7c5806fe0bdfb1324c050d16d2424ec8	Sonic and Knuckles & Sonic 2 (W) [f1+2C].bin
 8f0d6e4b56f8bc22ae4264dcb1a82726	Sonic and Knuckles & Sonic 2 (W) [f2].bin
 23282c0098ebd50177ccbb647907aa21	Sonic and Knuckles & Sonic 2 (W) [f2+1C].bin
-638d6d49dadf6bad05e04a07b3a6b8a1	Sonic and Knuckles & Sonic 3 & Sonic 2 (JE) (VC).bin
 c5b1c655c19f462ade0ac4e17a844d10	Sonic and Knuckles & Sonic 3 (W) [!].bin
 60d59f4f787fff60bc59f45316148cb4	Sonic and Knuckles & Sonic 3 (W) [b1].bin
 8d56b5c4cca3246019c157277cb64054	Sonic and Knuckles & Sonic 3 (W) [b2].bin
@@ -6150,15 +6165,7 @@ ec44132569ec19859132a7fc98bbf1f9	Sonic and Knuckles & Sonic 3 (W) [f1+3C].bin
 6be3c69fde966595f57a9f4ef090b01f	Sonic and Knuckles & Sonic 3 (W) [f2+2C].bin
 c50e4b24d2dee0974e510d537872dd30	Sonic and Knuckles & Sonic 3 (W) [f2+3C].bin
 d4f66b577aa23f0cf40eca3ce3c6c297	Sonic and Knuckles & Sonic 3 (W) [o1].bin
-4ea493ea4e9f6c9ebfccbdb15110367e	Sonic and Knuckles (W) [!].bin
-577eca185e7e1fb04ad6130b13ccea17	Sonic and Knuckles (W) [b1].bin
-b06dd721d2071f8a921e42fb152cf3da	Sonic and Knuckles (W) [b2].bin
-6953b57f1fa8756b079f89e78c143e8f	Sonic and Knuckles (W) [b3].bin
-1efa7594ac9c047e15be63a046ea3d06	Sonic and Knuckles (W) [b4].bin
-e04f9ef10b05182e6cc651919533d505	Sonic and Knuckles (W) [h1C].bin
-c5bbd5706c8aa679d28a341a6354b792	Sonic and Knuckles (W) [p1][!].bin
-13b4477bcdde343931f7001cd9696418	Sonic and Knuckles (W) [T+Rus_NewGame].bin
-c70b5585ea0b864360997610e7cf9b1d	Sonic and Knuckles (W) [t1].bin
+638d6d49dadf6bad05e04a07b3a6b8a1	Sonic and Knuckles & Sonic 3 & Sonic 2 (JE) (VC).bin
 e332dfdb8aa083acb1cb184fbb8e4283	Sonic and Tails in Paynt by Monkeyman (S2 Hack) [f1].bin
 b543da4836f66620decb61b0bacc57ed	Sonic and Tails in Paynt by Monkeyman (S2 Hack) [f2].bin
 b2c858221aee5b0f8184dfcfc42a9d13	Sonic and Tails in Paynt by Monkeyman (S2 Hack).bin
@@ -6341,6 +6348,7 @@ ed4bf6d53ed50c03bc2f1547942a00f4	Sonic ZX (January 24, 2009 Demo) (S1 Hack).bin
 7c2f6ef900e188698676112275a7967c	Sonic ZX (v1.0) (S1 Hack).bin
 c5290a39f86cff65ddf10f9913e94d4a	Sorcer Kingdom (J) [c][!].bin
 a14968ea4b1c8b94a095c9a55628c85a	Sorcer Kingdom (J) [h1C].bin
+87ef36a3f0bf291562f684be819f1ac2	Sorcerer's Kingdom (Ch) (MDX).mdx
 d9d00d3a57c53d2b01426737a908fe49	Sorcerer's Kingdom (U) (REV00) [h1C].bin
 8ab847680c35b89e4f7883cb216efdd6	Sorcerer's Kingdom (U) (REV00).bin
 587c51be6c60b82514e928f951e730b1	Sorcerer's Kingdom (U) (REV01) [!].bin
@@ -6440,8 +6448,8 @@ c7344bf7dca461219dc972303f033fb1	Splatterhouse 2 (U) [t1].bin
 6709203630edbb47e58cc77824029506	Splatterhouse 2 (U) [t1+C].bin
 8c2a9b15ba24b611c895efd49c175ebe	Splatterhouse 3 (U) [c][!].bin
 5f514f704c1c11b16611c975336009a4	Splatterhouse 3 (U) [T+Ita].bin
-692bd37ddbe0302e92b641873992a4c9	Splatterhouse 3 (U) [T+Rus].bin
 479ccd2552486e4e16e47b2c10214f4b	Splatterhouse 3 (U) [T+Rus_MagicTeam].bin
+692bd37ddbe0302e92b641873992a4c9	Splatterhouse 3 (U) [T+Rus].bin
 ef2dc6223949eaf84f14e270874a5fff	Splatterhouse Part 2 (J).bin
 2716153a88d0b7966150f6f2c04b0d30	Splatterhouse Part 3 (J) [a1].bin
 d512003a909cc775826c316e7e1bb6d9	Splatterhouse Part 3 (J) [b1].bin
@@ -6617,9 +6625,9 @@ dde8728b6d9b81312358c9a8bab321ac	Story of Thor, The - A Successor of The Light (
 f90ef58bc344f8088d5d15305aad5645	Story of Thor, The - A Successor of The Light (Beta) [hIR][o1].bin
 3a219f08b7ab4cc29489ba15210636ff	Story of Thor, The - A Successor of The Light (Beta).bin
 475519d9cbdeb91db301780bff83d81e	Story of Thor, The - A Successor of The Light (E) [!].bin
+c6ab7550100019471896437ab2b94599	Story of Thor, The - A Successor of The Light (E) [T+Rus_Shedevr].bin
 42efc0b4a21ea559ef95dad03c4d75c5	Story of Thor, The - A Successor of The Light (E) [T+Rus].bin
 910211dd39fed26016bebbd0db42c43c	Story of Thor, The - A Successor of The Light (E) [T+Rus][b1].bin
-c6ab7550100019471896437ab2b94599	Story of Thor, The - A Successor of The Light (E) [T+Rus_Shedevr].bin
 cc687d3f14badcef353d04a732966c5f	Story of Thor, The - A Successor of The Light (F) [f1].bin
 05ce3b075003e47b9f63b8435dec09a8	Story of Thor, The - A Successor of The Light (F).bin
 bed9253030405f6a46a0e4af14e2ed16	Story of Thor, The - A Successor of The Light (G) [b1].bin
@@ -6631,11 +6639,11 @@ fcc03730d44e6e24ba02a1430d8e4862	Story of Thor, The - A Successor of The Light (
 33120aa664232fbe12c0d87d8b7bf43b	Story of Thor, The - A Successor of The Light (J) [b2].bin
 02c372a27e7869a67385fb6c9d89f28e	Story of Thor, The - A Successor of The Light (J) [f1].bin
 25e1114a00f17ec5df4b13d5574cb8ab	Story of Thor, The - A Successor of The Light (J) [f2].bin
-c21cdc2f2b0365e59db47f596dab4ed0	Story of Thor, The - A Successor of The Light (J) [T+Chi1.00_Madcell].bin
-eaf44a2b423725a2a067b9340de38034	Story of Thor, The - A Successor of The Light (J) [T+ChiSimple].bin
 4e648ff51ced13168a14e27a0518e48d	Story of Thor, The - A Successor of The Light (J) [T-Chi(Trad)_Madcell].bin
 da3daee64dd72f749ed651493a564bdf	Story of Thor, The - A Successor of The Light (J) [T-Chi(Trad)_Madcell][a1].bin
 98f9159b081124f42f53c90a44b4f43f	Story of Thor, The - A Successor of The Light (J) [T-ChiSimple].bin
+c21cdc2f2b0365e59db47f596dab4ed0	Story of Thor, The - A Successor of The Light (J) [T+Chi1.00_Madcell].bin
+eaf44a2b423725a2a067b9340de38034	Story of Thor, The - A Successor of The Light (J) [T+ChiSimple].bin
 9ba5a86af26e8cdfacf0dcd4f450cc22	Story of Thor, The - A Successor of The Light (K) [h1C].bin
 e419225cf28498bb1205683586c31556	Story of Thor, The - A Successor of The Light (K) [h2C].bin
 492833310cf6106bc3db3a0167cce79a	Story of Thor, The - A Successor of The Light (K).bin
@@ -6688,8 +6696,8 @@ b67a4d23285016a9c3ed1cffcf793ec3	Streets of Rage 2 - Calles Sexules 2 by Charneg
 b72cec2655b34b527c68b8083349d28b	Streets of Rage 2 - Naked Blaze (Hack).bin
 c53faea21ca58de2282a8f1a210527ba	Streets of Rage 2 (JE) [!].bin
 2a78b8b54c4aa6e47ceda8641d85f701	Streets of Rage 2 (JE) [b1].bin
-2c8105376e2227674a4a83e54e7fefba	Streets of Rage 2 (JE) [T+Chi2005.09.28_ken,madcell].bin
 daf9c5c03cca79743d1a6bb8a3ca711e	Streets of Rage 2 (JE) [T-Chi2005_ken,madcell].bin
+2c8105376e2227674a4a83e54e7fefba	Streets of Rage 2 (JE) [T+Chi2005.09.28_ken,madcell].bin
 b856643dc128c9ce098637f0c9c9e0fd	Streets of Rage 2 (R).bin
 cb75d5a6919b61efe917bea5762c1cb7	Streets of Rage 2 (U) [!].bin
 ed005fc70c464ba5181993b5501dd731	Streets of Rage 2 (U) [b1].bin
@@ -6715,8 +6723,8 @@ ca72993fe55606614d78512b2da09939	Streets of Rage 2 Extreme Edition 1 by gsaurus 
 688226120bf217d09a4a06b3129b1625	Streets of Rage 2 KnuxIn Edition (Hack).bin
 3ce7caceb5496bb67fa980a9c411a6ff	Streets of Rage 2 Rudra Edition (Hack).bin
 a74c6242b38692fa8d78cba82b115b32	Streets of Rage 2 Superman & Batman Edition (Hack).bin
-efcd485e53d00b91afe02a82fd1ebced	Streets of Rage 2 V3.0 by Diamand_v (Hack).bin
 97807ac9507bf4e613142297fce5c254	Streets of Rage 2 V12-07-07 by Ivex & xiaoguihun (Hack).bin
+efcd485e53d00b91afe02a82fd1ebced	Streets of Rage 2 V3.0 by Diamand_v (Hack).bin
 58529cf3e27ec95a6addf0a46d45a17f	Streets of Rage 2 Xmas (Hack).bin
 ddaaea2143652b3f9c1330c766d86018	Streets of Rage 3 - BK 3 by Ivex (23-03-2009) (Hack).bin
 450db8305af596d3afc07f37a10f7184	Streets of Rage 3 - Really Gay Edition (Hack).bin
@@ -6744,11 +6752,11 @@ bad0129ee7af725afbbee72e015938c6	Streets of Rage 3 (U) (Prototype - Apr 15, 1994
 669de0c8ac67ce82e26dcb55b7177618	Streets of Rage 3 (U) [b1].bin
 ac2f3d16b0aea669a0b0f6f3d5533012	Streets of Rage 3 (U) [b2].bin
 75856753fc57cfcd3dee2f713f1c4cca	Streets of Rage 3 (U) [h1C].bin
+4f44c1ef33e7ef8c852d43cf0ea84904	Streets of Rage 3 (U) [T-Bra_SpkLeader].bin
 efe8917538741a6302eda35f365d2785	Streets of Rage 3 (U) [T+Bra_SpkLeader].bin
 9f2ab201da090f10cf84d584f8b18630	Streets of Rage 3 (U) [T+Bra_XMib].bin
 fef872776b49fcc7610d75b1632cc492	Streets of Rage 3 (U) [T+Rus_NewGame].bin
 b56a41b96cd060594c494f140bcea8cd	Streets of Rage 3 (U) [T+Spa].bin
-4f44c1ef33e7ef8c852d43cf0ea84904	Streets of Rage 3 (U) [T-Bra_SpkLeader].bin
 3575fdea739b4a2097c913d79ba9a32d	Streets of Rage 3 Ash Edition (Hack).bin
 59864258c2cf9a21242f53e1af8208cd	Streets of Rage 3 Plus by Evgeny (Hack).bin
 d4571f2f4345681528a289072d9f001f	Streets of Rage 3 Plus by Xyahzhs (Hack).bin
@@ -6779,6 +6787,7 @@ e5d66405a6c32f866cf7e36e0d1fbe4b	Striker (E) (M5) [f1].bin
 a6b1aad7187eab2d32f1b08fc2831378	Striker (E) (M5) [o1].bin
 91c556512d08fd90141b9e5aa55c7bfc	Sub-Terrania (Beta 1) [b1].bin
 af913959ce8cab6f271ff33b6008b45c	Sub-Terrania (Beta 1) [b2].bin
+3c530017cd1a06fbbfe569cd94ea5afe	Sub-Terrania (Beta 1) [b3].smd
 11642060cdbda955e6cc4a7401548914	Sub-Terrania (Beta 1) [b4].bin
 4dc7a5a34b6ad5be66312a00c0d4d746	Sub-Terrania (Beta 1) [b5].bin
 57ecc76a49f4db81005817e958027d83	Sub-Terrania (Beta 1) [hI].bin
@@ -6804,11 +6813,11 @@ e9d88f4130e42b20e4fb11b7cdb79f7f	Sunset Riders (U) [f1].bin
 98690554d7975da96608ea823a9a8d4d	Sunset Riders (U) [f1+2C].bin
 6d926b8ffadac9ecd30a67c70da8a3e8	Sunset Riders (U) [p1].bin
 0804e81befedfe0f1589c5d5191521e4	Sunset Riders (U) [T+Rus_NewGame].bin
-045afe8cc1540c6efebc1786993ac56b	Super 3 in 1 Trax (PD).bin
 de20824d501aea9d2a60de790661ed49	Super 15-in-1 [p1][!].bin
 29c01651ad3da67e59353c655e53ee08	Super 19-in-1 (Menu) [p1].bin
 6100476f9a0b726e249c15857d7c50e1	Super 19-in-1 [p1][b1].bin
 1314c9c78b991e69499aceb16392be03	Super 19-in-1 [p1][h1].bin
+045afe8cc1540c6efebc1786993ac56b	Super 3 in 1 Trax (PD).bin
 84d0afc448834b369908e3b22ca6d9c2	Super Airwolf (J) [!].bin
 8a818673f26c6becfc08ce4229e94816	Super Airwolf (J) [p1][!].bin
 ea2d0a14f4ef9fe340429d22442d84a0	Super Airwolf (J) [p2][!].bin
@@ -6915,8 +6924,8 @@ fa66434d9e99e5108459f4ecec0950b1	Super Shinobi II, The (Beta) [a1].bin
 71429f5fb394a1f28caf4784340e185f	Super Shinobi II, The (Beta).bin
 6ce59f3e7ee52dc8c6df7b4d8a166826	Super Shinobi II, The (J) [!].bin
 c32a105c2d73bd8d1bd3794800140fa9	Super Shinobi II, The (J) [f1].bin
-1c81dc752e1dc8ab696be9267b933555	Super Shinobi II, The (J) [T+Chi(Trad)].bin
 7fe3c16ef50bb8803d3973bda1bd8840	Super Shinobi II, The (J) [T+Chi_cslrxyz+SkyLeague].bin
+1c81dc752e1dc8ab696be9267b933555	Super Shinobi II, The (J) [T+Chi(Trad)].bin
 b00d4cafeaaaa7d6df1aa55e22de5273	Super Shinobi II, The by Shinwa (Hack).bin
 533b890ed1113547691f36ad1c59e346	Super Skidmarks (E) (J-Cart) [!].bin
 7a8702d91641871bdc159a88a11208b6	Super Skidmarks (E) [a1].bin
@@ -6948,8 +6957,9 @@ b2007f23346c87e12f54e04aebd55f52	Super Volleyball (U) [a1][!].bin
 8ca1364af415af8adace483b79c46339	Super Volleyball (U) [a1][h1C].bin
 986622514082685e03865b1b30938c27	Super Volleyball (U) [a1][p1][!].bin
 3900aeb86424891fdc9de48aba94d933	Super Volleyball (U) [c][!].bin
-4971a67e2e4051eb5a2619b80e033ffd	Superfighter Demo1 (PD).bin
 ddbb9933d8457200e0b4ef60d3268ccc	Super-Fly Game Engine by Uchuusen (PD).bin
+5838ba43d20bf0bbb556992ea44bf190	Super-X Engine Test V0.3 by Fonzie (PD).bin
+4971a67e2e4051eb5a2619b80e033ffd	Superfighter Demo1 (PD).bin
 97c6c8fe2d068069b0ceb7238418cd56	Superman (Beta) [f1].bin
 719b7eed8cb32fafe8c4c5901358c970	Superman (Beta) [f1+C].bin
 2d5cdcb08d27dd4c393c739f49d4b0a6	Superman (Beta) [f2].bin
@@ -6965,7 +6975,6 @@ dc82ccbbac2fe1f0789a818f489ad0d9	Superman (U) [b3].bin
 1d07171bd9ded1da8bd899d3c56629e8	Supersonic in South Island Adventure by Hivebrain V0.3 (S1 Hack).bin
 e1e3ff26a4bf2c4291fcb5439a71b7f3	Supersonic v0.1 (S1 Hack).bin
 91728f1209d186270fe5f1d352121503	Supersonic v0.2 (S1 Hack).bin
-5838ba43d20bf0bbb556992ea44bf190	Super-X Engine Test V0.3 by Fonzie (PD).bin
 fd630f3dd0d60fb68574ec12c0a6ffbd	Surging Aura (J) [!].bin
 739428d58ab2a9042c8a2f16e1f02c83	Surging Aura (J) [f1].bin
 cae0f56c779398e1ddcf79fd43588c7d	Surging Aura (J) [f1+C].bin
@@ -7056,9 +7065,9 @@ f6ab2122f941984f3a159b78ab83af0c	Tavern RPG InGame Alpha V0.5.1 by Fonzie (PD).b
 659550d4c9588ff594a927eb173877d2	Taz-Mania (W) [!].bin
 8b49c73381c0187d24c76417b65b4f5f	Taz-Mania (W) [b1].bin
 6604d4fc1cd429a995bb2c33652b68df	Taz-Mania (W) [h1].bin
-35e950589facbc4435ea2305f86bd2ae	Taz-Mania (W) [T+Bra].bin
 323f448c15eef7af81fedae4a9a0e72d	Taz-Mania (W) [T+Bra_Kobe].bin
 4217177ccec922a6d12d5f526dd9f72a	Taz-Mania (W) [T+Bra_Lithium].bin
+35e950589facbc4435ea2305f86bd2ae	Taz-Mania (W) [T+Bra].bin
 ed61cb3cac9c8be14a0b16bc2dcac5d6	Taz-Mania (W) [T+Fre1.00_Terminus].bin
 edb3daa8524ed3a7ebc467490bf445c3	Taz-Mania (W) [T+Rus_NewGame].bin
 32783dfc83e995c47fef664163dbfc2c	TC 2000 (Unl).bin
@@ -7277,8 +7286,8 @@ fbbd48f2beb4c49357af31f73f2cf908	Tiny Toon Adventures - Buster's Hidden Treasure
 cfb62abef3a99d3582acb2c8eca1d471	Tiny Toon Adventures - Buster's Hidden Treasure (U) [h2C].bin
 7b52e543262a6ecf65403efb3d86cca6	Tiny Toon Adventures - Buster's Hidden Treasure (U) [p1].bin
 7e2f251ef514e1536afd9cf9faa6d073	Tiny Toon Adventures - Buster's Hidden Treasure (U) [T+Fre_Terminus].bin
-7dd096a7a4122544b0d5da1a2b29ee3c	Tiny Toon Adventures - Buster's Hidden Treasure (U) [T+Rus].bin
 7f2bca6c33f67c1c148b855ed51dbcfe	Tiny Toon Adventures - Buster's Hidden Treasure (U) [T+Rus_NewGame].bin
+7dd096a7a4122544b0d5da1a2b29ee3c	Tiny Toon Adventures - Buster's Hidden Treasure (U) [T+Rus].bin
 dddf63141ab2bc49d865cb9e9020c485	Tiny Toon Adventures 3 (R) [f1].bin
 e5d4f143fce5c6833e1fed18f830f1c6	Tiny Toon Adventures 3 (R).bin
 cde3504b2c642b12df4a67d298c4c06b	Tiny Toons Adventures 3 Sound Test (PD).bin
@@ -7301,9 +7310,9 @@ f86735c04c4115ab437a1738597c93ef	Todd's Adventures in Slime World (U) [b1].bin
 0e6be3f8ca22a36e243ff1646fee9025	Toejam & Earl (UE) (REV00) [b1].bin
 17195e22a88588bb71df776c5480e37e	Toejam & Earl (UE) (REV00) [h1C].bin
 1928932c00345dedec118c69ae70bfce	Toejam & Earl (UE) (REV00) [h2C].bin
+e46a4d48532d561bf7da5649d78ddfce	Toejam & Earl (UE) (REV00) [T-Bra_FjM].bin
 27d5d985037f570a9e34fa73e7dc9ca7	Toejam & Earl (UE) (REV00) [T+Bra_FjM].bin
 17bc889f3286ac01728d2745e615ced1	Toejam & Earl (UE) (REV00) [T+Fre0.90_sky2048].bin
-e46a4d48532d561bf7da5649d78ddfce	Toejam & Earl (UE) (REV00) [T-Bra_FjM].bin
 4a8ed7605e644b5bf19603ae0e376ed2	Toejam & Earl in Panic on Funkotron (E) [!].bin
 1bd295a6e54a8adc98dda62f518fb79f	Toejam & Earl in Panic on Funkotron (E) [b1].bin
 88a9d46542bff7bafd5a09240f3254ab	Toejam & Earl in Panic on Funkotron (E) [f1].bin
@@ -7329,9 +7338,9 @@ ceeae804600711b2710f5a4f8a2fabe7	Tom and Jerry - Frantic Antics (U) (1993 Versio
 02dd0da5e3be205c2da83ef00602b206	Tom and Jerry - Frantic Antics (U) (1993 Version) [p1][!].bin
 61246a57e46da52d32d934edea7b628f	Tom and Jerry - Frantic Antics (U) (1994 Version) [!].bin
 6b1754bca271e86988745de6380d2551	Tom and Jerry - Frantic Antics (U) [T+Rus_NewGame].bin
+df30600fc432c1a79911ed2385bc4089	Tom's X-Mas Demo 2004 by Tom Maneiro (PD).bin
 9edf4e2024d5bba29748b580930a1ea4	Tommy Lasorda Baseball (U) [!].bin
 bc7f9fcb47ceb2ba66c36681ac4c5d42	Tommy Lasorda Baseball (U) [h1C].bin
-df30600fc432c1a79911ed2385bc4089	Tom's X-Mas Demo 2004 by Tom Maneiro (PD).bin
 d595b465412a92100dc52aa105196835	Tony La Russa Baseball (U) [!].bin
 2f980e10f4ebcf08eb91b9abac6354d0	Tony La Russa Baseball (U) [b1].bin
 b8fa6fe328cbaa173e487f3ee1ad12a5	Tony La Russa Baseball (U) [o1].bin
@@ -7348,6 +7357,7 @@ db75fb2915a2c32d2b39a50a7b3be8b1	Top Gear 2 (U) [b1].bin
 1bda3016dd08b9c7656c958140e365e9	Top Gear 2 (U) [b2].bin
 c2b13fb4c561f1e55f7523852d01fbb1	Top Gear 2 (U) [b3].bin
 2f5ecc1fccc92e6b9fa22769a7aeb3bb	Top Gear 2 (U) [b4].bin
+bebda0c80ab89db30c1716ecaee3d781	Top Gear 2 (U) [b5].smd
 7045a05faa11e098f0190d52e752b12e	Top Gear 2 (U) [f1].bin
 1b8261a41d59a461b2a6ab3856cc389b	Top Gear 2 (U) [f1][o1].bin
 c81b589c4a3f71b5d376f0bd7641ea26	Top Gear 2 (U) [f1][o2].bin
@@ -7391,6 +7401,7 @@ c4d2c80b3f21748325470667c1caf574	Trampoline Terror! (U) [!].bin
 0f0e64842b6561cb76c88adbf18280f0	Trampoline Terror! (U) [p1].bin
 21fbc6d42ba12b520893eb78afb7f575	Trampoline Terror! (U) [p2].bin
 60f785674dd11b79e87f70715b8ab1dd	Transformers 3 (R).bin
+c6c4d00f150f0fe42a6d044fffe4267a	Traysia (Ch) (MDX).mdx
 98d97dcf65dc2e9489539b9c74ac1af4	Traysia (U) [!].bin
 710e52e96e415a93c21a4a567a9167eb	Traysia (U) [b1].bin
 d55dd59030846a58bc00e72a55ad74fc	Traysia (U) [b2].bin
@@ -7597,6 +7608,7 @@ a4346c4129c5ceb60d23d4bf3362eba6	Urban Strike (UE) [t2].bin
 c1bb39180a8ef03683301dd2ac8403e5	Uwol - Quest For Money by Shiru (PD).bin
 a9b20c465e8bb8ce06ec0bb3940e45d3	Uwol - Quest For Money by Shiru (v1.0-2010.04.03) (PD).bin
 7a3e28e8befbc5134cc0e61614b2023b	Uzu Keobukseon (K) [!].bin
+af4bdc10f0eda16eda979d1353faa04b	V-Five (J) [!].bin
 dcf5a4f9439704d8599457d52af5d0fe	Valis (J) [!].bin
 c5d982fad4d18a2e13766a6c03fb1d25	Valis (J) [b1].bin
 33800cd3312dd6bb17f0160597a6131d	Valis (J) [b2].bin
@@ -7604,11 +7616,11 @@ da1638baec999b2203ac5e5fec31c744	Valis (U) [!].bin
 69dac9bd8468a6cebc69ba3acc081602	Valis (U) [b1].bin
 5cab8299cd723b0603312baa4e66cb9f	Valis (U) [h1C].bin
 50194f67917b26a3f3ec9d96d76a3949	Valis (U) [h1C][T+Rus1.01].bin
-4c811434c95f6c5497dcb924aedcc970	Valis (U) [T+Bra].bin
+f59e9978d7ee5f1cbc2b8dbe9794c3ba	Valis (U) [T-Rus1.00_Shedevr].bin
 530fe2a89d10b4c45f88cb8c85f47f58	Valis (U) [T+Bra_IPS Center].bin
 6b83a24eb2eabe6bf57a42452a2a15ef	Valis (U) [T+Bra_Orakio Rob].bin
+4c811434c95f6c5497dcb924aedcc970	Valis (U) [T+Bra].bin
 1c839567e63bef302bc0db16601ab723	Valis (U) [T+Rus1.01_Shedevr].bin
-f59e9978d7ee5f1cbc2b8dbe9794c3ba	Valis (U) [T-Rus1.00_Shedevr].bin
 f22adcdb3907b108f4ae96cb65069ca7	Valis III (J) [!].bin
 a50202da29099f2c9d8b1c629653a718	Valis III (U) [!].bin
 3343db771134eee0cf553217a7af5588	Valis III (U) [b1].bin
@@ -7657,7 +7669,6 @@ d3d4b51094708e1e8cd12695a2628ae9	Very Simple FM Music Player by Uchuusen (PD).bi
 644d78ac75f07dcf29ae50fd3f88219a	Verytex (J) [h1C].bin
 abe21ad16f55c43a66080500a4a6797a	Verytex (J) [h2C].bin
 37a115583c3d9a56e12880555835aadd	Verytex (J) [p1].bin
-af4bdc10f0eda16eda979d1353faa04b	V-Five (J) [!].bin
 9d4be0e652e98c0b2d32f8bf6501eb67	VGM Player 4 (PD).bin
 ed1d50c04961c43f680457a2b3b3d152	VGM Player 7 (PD).bin
 a6026109082fba66ca18584788e14bdd	VGM Player v1.01 by Michael Stamper (PD).bin
@@ -7773,14 +7784,14 @@ efb66bb87b5724e877fa556842086b2e	Wayne's World (U) [h1C].bin
 900532c6678fe3ec4127b88cfdb7a005	Wayne's World (U) [h2C].bin
 8e9893507adaa6289667983dcd25de15	Wayne's World (U) [h3C].bin
 99e5d2665d46e76c49d95291962db7ec	Wayne's World (U) [h4C].bin
-a6c278bd20a91b98cbbda5ec19bb1f5e	Weaponlord (U) [!].bin
-9c21e656c6872ee2d98cad86b1859975	Weaponlord (U) [o1].bin
 122f44df25f3dd6a7f74f0f125905257	We're Back! - A Dinosaur's Tale (U) [!].bin
 4e17a2707d80f5a214afd1211b2e09e1	We're Back! - A Dinosaur's Tale (U) [b1].bin
 22c6a8b2ad4c9d6144a11158fb629c9e	We're Back! - A Dinosaur's Tale (U) [f1].bin
 4e2ae58add25d6fe8f07cbf9fbf0129e	We're Back! - A Dinosaur's Tale (U) [f2].bin
 0c8a771a3434d3800a450d7b1c597d12	We're Back! - A Dinosaur's Tale (U) [h1C].bin
 e8cc6d6343fcd91b11423e7ed0556697	We're Back! - A Dinosaur's Tale (U) [h2C].bin
+a6c278bd20a91b98cbbda5ec19bb1f5e	Weaponlord (U) [!].bin
+9c21e656c6872ee2d98cad86b1859975	Weaponlord (U) [o1].bin
 cf2ced4d5a238f5c080aff25a48cfd56	Westside Island by D.A.Garden (S1 Hack).bin
 ca7dc641e4ea6cfc4cd2b49b26f57f37	Westside Island by D.A.Garden (V1.0) (S1 Hack).bin
 7d20d74e81524773409f4f89e944cfaa	Whac-A-Critter (Unl) [!].bin
@@ -7800,9 +7811,9 @@ d0325f369183f1153e0ce825283e6d7a	Whip Rush 2222 AD (J) [!].bin
 85ec5e2358cc4e8041206bec66d47fe9	Whip Rush 2222 AD (U) [!].bin
 3b817d3a266e40cc0b39bb81318cf526	Whip Rush 2222 AD (U) [T+Fre_Terminus].bin
 78761c483b557886dc7e6cef754ea765	Wild Snake (U) (Prototype) [!].bin
+beec68b0978a37e41dfc98d8495fa2da	Wild Snake (U) (Prototype) [T+Chi_SkyLeague].bin
 2c15e65bbdf847be386655dc654c66ac	Wild Snake (U) (Prototype) [T+Chi].bin
 e3c1aa6e061495b649bcce004224f139	Wild Snake (U) (Prototype) [T+Chi][a1].bin
-beec68b0978a37e41dfc98d8495fa2da	Wild Snake (U) (Prototype) [T+Chi_SkyLeague].bin
 40273fd765cbf6ffc72199e53ba48189	Williams Arcade's Greatest Hits (E) [h1C].bin
 c8f4f5adc64fb344ca091982b60334af	Williams Arcade's Greatest Hits (E).bin
 0e1cbc28671b781b174693d234a5a446	Williams Arcade's Greatest Hits (U) [!].bin
@@ -7850,10 +7861,10 @@ edba0bdb192d47712edbe0097f885f40	Wonder Boy in Monster World (UE) [!].bin
 ed9c03ff6ddb59cc7b8ec6404ffd5c7b	Wonder Boy in Monster World (UE) [h2C].bin
 945335637611a0951595fae0994f4303	Wonder Boy in Monster World (UE) [o1].bin
 3524cbe579a50015d4674db5dac2e186	Wonder Boy in Monster World (UE) [o1][f1].bin
+c997c1fe08a0f54c93e2dacf2f2b6ef6	Wonder Boy in Monster World (UE) [T-Ita_Michele Di Somma].bin
 bca76deb410bf8277a0f50225c0912aa	Wonder Boy in Monster World (UE) [T+Bra_L.T de Melo].bin
 73017c4267dd87223abde89313642396	Wonder Boy in Monster World (UE) [T+Fre_Terminus].bin
 62a6b3f1ef5c074476dda37cff20e6dc	Wonder Boy in Monster World (UE) [T+Ita1.0_Michele Di Somma].bin
-c997c1fe08a0f54c93e2dacf2f2b6ef6	Wonder Boy in Monster World (UE) [T-Ita_Michele Di Somma].bin
 1391725cc50671be68fc9dd405e19ac8	Wonder Boy in Monster World Save Fix by Michele Di Somma (Hack).bin
 51b718fe62fc694af66ba8663e47e3d5	Wonder Boy in Monster World Sound Test (PD).bin
 e25afc5b755555397e4047061050ae05	Wonder Boy V - Monster World III (J) [!].bin
@@ -7945,20 +7956,6 @@ cdea0075aec401505457a5f3b0b0c04d	World of Illusion Starring Mickey Mouse & Donal
 c7d0dfb80b8b7cc46bfb4a23e33c72cf	World of Illusion Starring Mickey Mouse & Donald Duck (U) [T+Fre0.98beta_Generation IX].bin
 22ad5111511947f381cd3148724c6822	World of Illusion Starring Mickey Mouse & Donald Duck (U) [T+Rus_NewGame].bin
 4abb0405b270695261494720a2af0783	World Pro Baseball 94 (Unl).bin
-c209b0970c5fec1ab52dd13b9cfe6710	World Series Baseball (U) (Prototype - Dec 22, 1993) [b1].bin
-4d64bd8aac1a37f62974a6b97766f306	World Series Baseball (U) (Prototype - Dec 26, 1993).bin
-67dc06646923d609abf53293f5777a80	World Series Baseball (U) (Prototype - Dec 29, 1993).bin
-1ead3690321a94cc3b63000b2e209732	World Series Baseball (U) (Prototype - Feb 18, 1994).bin
-4aec75f38cf27d449ef4fb51b14a41d5	World Series Baseball (U) (Prototype - Jan 03, 1994).bin
-847803a44cf2c0f0d09283c24a74525b	World Series Baseball (U) (Prototype - Jan 06, 1994).bin
-4d6c35c52c1174916f4556bff538cb7e	World Series Baseball (U) (Prototype - Jan 16, 1994).bin
-2d026120bc5a8ef4a5a7fd6e7c634e86	World Series Baseball (U) (Prototype - Mar 04, 1994) [b1].bin
-56e5e9a25dae98c31021f01d3e21b98d	World Series Baseball (U) (Prototype - May 27, 1994).bin
-2b885c56b8dc66bf08e7bb3033649b5d	World Series Baseball (U) (Prototype - Oct 01, 1993).bin
-74c8f38a84ee82c9cd3edcdb710e82cd	World Series Baseball (U) [!].bin
-33d1a1240375bfdaf2715e52fd1cbe87	World Series Baseball (U) [f1].bin
-9ab9bcaddee92245e279910cb79da30d	World Series Baseball (U) [f1+C].bin
-79fb61407544b001758e01aeaa7dbd9e	World Series Baseball (U) [o1].bin
 980c172abf3b5e04cd9d0bde44cd17e3	World Series Baseball '95 (U) (Prototype - Dec 08, 1994).bin
 bff990cc2114f72cd80aafa38eccb849	World Series Baseball '95 (U) (Prototype - Dec 14, 1994).bin
 9e03e6bbf3559942da62f856d8b26450	World Series Baseball '95 (U) (Prototype - Dec 28, 1994 - SB).bin
@@ -7996,13 +7993,27 @@ fa77d174127017652c5917a101b97d7e	World Series Baseball '98 (U) [b3].bin
 b8bd7358c139b480b4ebdd3729943443	World Series Baseball '98 (U) [b4].bin
 af7bab26b624d67204854bd6cebd2c83	World Series Baseball '98 (U) [h1C].bin
 34a65bcde55d7c08b303c84c524bef1a	World Series Baseball '98 (U) [h2C].bin
+c209b0970c5fec1ab52dd13b9cfe6710	World Series Baseball (U) (Prototype - Dec 22, 1993) [b1].bin
+4d64bd8aac1a37f62974a6b97766f306	World Series Baseball (U) (Prototype - Dec 26, 1993).bin
+67dc06646923d609abf53293f5777a80	World Series Baseball (U) (Prototype - Dec 29, 1993).bin
+1ead3690321a94cc3b63000b2e209732	World Series Baseball (U) (Prototype - Feb 18, 1994).bin
+4aec75f38cf27d449ef4fb51b14a41d5	World Series Baseball (U) (Prototype - Jan 03, 1994).bin
+847803a44cf2c0f0d09283c24a74525b	World Series Baseball (U) (Prototype - Jan 06, 1994).bin
+4d6c35c52c1174916f4556bff538cb7e	World Series Baseball (U) (Prototype - Jan 16, 1994).bin
+2d026120bc5a8ef4a5a7fd6e7c634e86	World Series Baseball (U) (Prototype - Mar 04, 1994) [b1].bin
+56e5e9a25dae98c31021f01d3e21b98d	World Series Baseball (U) (Prototype - May 27, 1994).bin
+2b885c56b8dc66bf08e7bb3033649b5d	World Series Baseball (U) (Prototype - Oct 01, 1993).bin
+74c8f38a84ee82c9cd3edcdb710e82cd	World Series Baseball (U) [!].bin
+33d1a1240375bfdaf2715e52fd1cbe87	World Series Baseball (U) [f1].bin
+9ab9bcaddee92245e279910cb79da30d	World Series Baseball (U) [f1+C].bin
+79fb61407544b001758e01aeaa7dbd9e	World Series Baseball (U) [o1].bin
 dbf5f8e9346a4bd2eb84dc5dd2dd1ea8	World Trophy Soccer (U) [!].bin
 5f8825e044243c678873e49f9768a72d	World Trophy Soccer (U) [h1C].bin
 f27a825b1ee90169be1445b3ec3dd259	World Trophy Soccer (U) [hI].bin
 e56d724a1423ba8cce333c598b320c6d	Worms (E) (Prototype) [c][!].bin
 0d53ce8f8d060900805b798a1d9d2579	Worms (E) [!].bin
-8ff8d0a1d008aca29a8f61f15536f624	Worms (E) [T+Rus].bin
 16860266bc092458cb0d01a9bebfb837	Worms (E) [T+Rus_NewGame].bin
+8ff8d0a1d008aca29a8f61f15536f624	Worms (E) [T+Rus].bin
 3b208d56a653f3347ca0698138f3bdb7	Worms (R) [!].bin
 4f25842f29135ddda34ebd09cfee81f9	Wrestle War (Beta).bin
 774d66e4b2858b3b15ce948e1177533f	Wrestle War (JE) [b1].bin
@@ -8020,9 +8031,9 @@ cbf8d1664d467d92e64f2c576fcec7fa	Wu Kong Wai Zhuan (Ch) [a2].bin
 5c6b5f09b27e49d0ec129608b836f37a	Wu Kong Wai Zhuan (Ch) [a3].bin
 0c94e739f6a8bf1000a258dac17ca939	Wu Kong Wai Zhuan (Ch) [t1] (Money+Experience).bin
 9d51b121ebf442a1f7c65a92e3ec1109	Wu Kong Wai Zhuan (Ch).bin
+b0ca2e4b58f582983fc6d0c3146e6c2c	Wu Shu Shen Jie (Sorcerer's Kingdom) (Ch-Simp).bin
 ad699518f2a8252e118562307ee473c9	Wu Shu Shen Jie (Sorcerer's Kingdom) (Ch) [a1].bin
 d56f805d402118f36ee5da6c7439954e	Wu Shu Shen Jie (Sorcerer's Kingdom) (Ch).bin
-b0ca2e4b58f582983fc6d0c3146e6c2c	Wu Shu Shen Jie (Sorcerer's Kingdom) (Ch-Simp).bin
 296f057959c1c545178cc5c07f64877c	WWF RAW (W) [!].bin
 0f33b8a5041f5fa29d5f8d823194f1db	WWF RAW (W) [b1].bin
 9c5194849c3d8f8d08e99c2c00a2144e	WWF RAW (W) [b2].bin
@@ -8054,18 +8065,9 @@ e82128c70861f1a62e1233f0c25adea0	X Dazedly Ray (J) [b1+C].bin
 773713b1e46e957b8e7fa2de0bffadcf	X Dazedly Ray (J) [b2].bin
 63d1c64e1f3363171b63a75ce67b1f60	X-Band Modem BIOS - Game Toshokan (J) [!].bin
 a5a49eda532525e5a752b5326c911a21	X-Band Modem BIOS - Game Toshokan (J) [o1].bin
-d27327d1fda0ebf2a5337ad9050760eb	Xenon 2 - Megablast (E) [b1].bin
-60ece9ace009b4a469705e758cc3b975	Xenon 2 - Megablast (E) [b2].bin
-3d1d9912136bf271332eac1c6e56fa2b	Xenon 2 - Megablast (E) [c][!].bin
-472099a6d9b7b0b0beb16750aecedf54	Xenon 2 - Megablast (E) [f1].bin
-86a9837a95720a764ce8af5e25bfe31c	Xenon 2 - Megablast (E) [h1C].bin
-2ff0545af791e7c4ec5ffd91dc2a71d9	Xenon 2 - Megablast (E) [hI].bin
 a896c82b5e9cc471cbacb673058c7f5b	X-Files Demo, The (PD) [a1].bin
 89df50aa5ed707754f044414bdac57f8	X-Files Demo, The (PD) [a2].bin
 e9d0d5a250af4279c83ef431cfb628b5	X-Files Demo, The (PD).bin
-8094c9a1c0cf82b26621a382d3ee4724	Xin Qi Gai Wang Zi (Prince and the Pauper) (Ch) [a1].bin
-528e171264ebfd90e53fd9667d1c61d1	Xin Qi Gai Wang Zi (Prince and the Pauper) (Ch).bin
-cda1c5fa4cd72c9188a228b11150440b	Xin Qi Gai Wang Zi (Prince and the Pauper) (Ch-Trad).bin
 26c49c46b8e2574dde481132bbd34fd4	X-Men (E) [!].bin
 63274bdd105d2abf265aa2d2934635c5	X-Men (U) [!].bin
 e2e1271fb5b861a899003f97ca2a9eb0	X-Men (U) [hI].bin
@@ -8098,6 +8100,15 @@ c718aa3e8226430cdbaffec8f55456d6	X-Men 2 - Clone Wars (UE) [h1C].bin
 281f94eebb57f5db0d299155bcc56f4e	X-perts (U) [!].bin
 67b167770d6889d1db4f82220ea3c9e1	X-perts (U) [h1C].bin
 f6dc44916fbb9e70748defe08a5a3633	X-perts (U) [T+Rus1.1_Vladimir MefistO].bin
+d27327d1fda0ebf2a5337ad9050760eb	Xenon 2 - Megablast (E) [b1].bin
+60ece9ace009b4a469705e758cc3b975	Xenon 2 - Megablast (E) [b2].bin
+3d1d9912136bf271332eac1c6e56fa2b	Xenon 2 - Megablast (E) [c][!].bin
+472099a6d9b7b0b0beb16750aecedf54	Xenon 2 - Megablast (E) [f1].bin
+86a9837a95720a764ce8af5e25bfe31c	Xenon 2 - Megablast (E) [h1C].bin
+2ff0545af791e7c4ec5ffd91dc2a71d9	Xenon 2 - Megablast (E) [hI].bin
+cda1c5fa4cd72c9188a228b11150440b	Xin Qi Gai Wang Zi (Prince and the Pauper) (Ch-Trad).bin
+8094c9a1c0cf82b26621a382d3ee4724	Xin Qi Gai Wang Zi (Prince and the Pauper) (Ch) [a1].bin
+528e171264ebfd90e53fd9667d1c61d1	Xin Qi Gai Wang Zi (Prince and the Pauper) (Ch).bin
 a218e739f89484e47b5917aa2f850acd	XPMCK v04 - Astafm Music Test by mic (PD).bin
 28f633cbebff04608463c2d0bb78d50e	XPMCK v04 - Orion Music Test by mic (PD).bin
 ec1fbf7f316d98c47e22366ee6556885	XPMCK v05 - Astafm Music Test by mic (PD).bin
@@ -8120,13 +8131,13 @@ ef3e9e55247c523cfdf46539960adfe8	XPMCK v27 - Walls Music Test by mic (PD).bin
 caf5796dea5ea8e5eb280a65ea6127ce	xXRALXx (Updated) (S1 Hack).bin
 4a4b0a7408a3810e98d812313eeaca09	xXRALXx v0.1 (S1 Hack).bin
 b0bb53272343651cdf177e140baeca04	XXX3 Music (PD).bin
-be3db9f5e1b33cb1199bb82a4c8f4d7c	Yadrins (S1 Hack).bin
-b29476faa932165d616a2822e92dec8f	Yang Warrior Family, The (Ch).bin
 f5df780293d4e518acda8a2c90e6b0fc	Ya-Se Chuan Shuo (Ch) [a1].bin
 a52368fd071ae47dbc144f899f6ac11d	Ya-Se Chuan Shuo (Ch) [f1].bin
 b075cc0c808403f800f722e68bbdfca2	Ya-Se Chuan Shuo (Ch) [f2].bin
 1b950cc15d2c6993dd84739ad5146096	Ya-Se Chuan Shuo (Ch) [f3].bin
 959109050fe0e9b3cfc2ba30b6b60975	Ya-Se Chuan Shuo (Ch).bin
+be3db9f5e1b33cb1199bb82a4c8f4d7c	Yadrins (S1 Hack).bin
+b29476faa932165d616a2822e92dec8f	Yang Warrior Family, The (Ch).bin
 bb3ac114085882894a7ddd7f48301b48	Yie Ar Kung-Fu 2008-01-03 (PD).bin
 94a3bfa2d5ac1518714e41c7c70ea2f1	Yie Ar Kung-Fu 2008-01-08 (PD).bin
 28d58b55a0262b398ae5c39cfc27a502	YM2612 Editor by K. Banks (PD).bin
@@ -8166,19 +8177,19 @@ e24cdc972b86f6ee2c61c8b0488ae06a	Yuu Yuu Hakusho - Makyou Toitsusen (J) [b2].bin
 343853671594168540d42a7fd4a6751d	Yuu Yuu Hakusho - Makyou Toitsusen (J) [f1][o1].bin
 56ed98e266c19667c3f14881d1e8e983	Yuu Yuu Hakusho - Makyou Toitsusen (J) [f1+C].bin
 9be2d8f207bd8094bd3c584c997ac9ba	Yuu Yuu Hakusho - Makyou Toitsusen (J) [p1].bin
+0097a71a60e514e822e91ff092e35f14	Yuu Yuu Hakusho - Makyou Toitsusen (J) [T-Chi].bin
 5d533789ff80a077748119a552e50b8d	Yuu Yuu Hakusho - Makyou Toitsusen (J) [T+Chi].bin
 dedcc60d410d94f71813d54926572be8	Yuu Yuu Hakusho - Makyou Toitsusen (J) [T+Chi][a1].bin
 0178d80a25f00b84f1bf15ae365beae0	Yuu Yuu Hakusho - Makyou Toitsusen (J) [T+Eng1.0-20071113_MIJET].bin
 dc0ec4534f5d6dd772f0ea367b3c9991	Yuu Yuu Hakusho - Makyou Toitsusen (J) [T+Rus_Nemesis c].bin
-0097a71a60e514e822e91ff092e35f14	Yuu Yuu Hakusho - Makyou Toitsusen (J) [T-Chi].bin
 2a2165b2be91810f5b97e8d7d2f76ad5	Yuu Yuu Hakusho - Sunset Fighters (B) [!].bin
 a339561a0d46fee4c2569de0b237a02b	Yuu Yuu Hakusho Gaiden (J) [!].bin
 f4e25aa0e988224e58872cda315df095	Yuu Yuu Hakusho Gaiden (J) [b1].bin
 1cee3d92cdc81af2d9887120e4b1a7a7	Yuu Yuu Hakusho Gaiden (J) [b2].bin
+ec8879d8e43c1a0944bfe20249b4319e	Z80 Music (PD).bin
 3345806bf01f714183368895b5ee02e4	Z80 Music & Sound Engine Test 3 by Tiido Priimagi (PD).bin
 a1754a6ce9fa8cf2c83b753b37eb5183	Z80 Music & Sound Engine Test FEB2007 by Tiido Priimagi (PD).bin
 4710900b3becbf50fc43eb0cc69b0436	Z80 Music & Sound Engine Test JUN2007 by Tiido Priimagi (PD).bin
-ec8879d8e43c1a0944bfe20249b4319e	Z80 Music (PD).bin
 2e1d464e7ebd209b5e4d8eadc02244f7	Z80 WAV Player v0.1 by Tiido Priimagi (PD).bin
 477bbe0f9dcc3bc6256047bb61ae987a	Z80MUS by Michael Stamper (PD).bin
 cc2c9c2a1cc5f86d712b4117e9ffaf08	Z80MUSIC by Michael Stamper (v20091223) (PD).bin
@@ -8254,310 +8265,3 @@ dcb24422572d9acf8dc158aa734ebb79	Zoom! (JU) [!].bin
 af9d40683e9221ca04410fbed1a5aa5c	Zoop (U) [b2].bin
 8ba0e443cbd56f6685d23ed774279f6f	Zoop (U) [f1].bin
 685facf5f572d2113187ecc40b0341bf	Zou! Zou! Zou! Rescue Daisenryaku (J) [!].bin
-080ac8776462266074962fff2b1d94f7	Aerobiz Supersonic (Ch) (MDX).mdx
-6bd232f09d06290c05b8d40fe8a1e6a6	Exile USA (Ch) (MDX).mdx
-bcf96c9e4d2c2180ddbdf8c6ac772cfa	Landstalker - Koutei no Zaihou (Ch) (MDX).mdx
-e72eca2ab26e5b7f7c0961d12855bf13	Phantasy Star II (Ch) (MDX).mdx
-90b905b88c10d2f80d269a0c5838cdd6	Romance of the Three Kingdoms - The Battle of Red Cliffs (Ch) (MDX).mdx
-87ef36a3f0bf291562f684be819f1ac2	Sorcerer's Kingdom (Ch) (MDX).mdx
-c6c4d00f150f0fe42a6d044fffe4267a	Traysia (Ch) (MDX).mdx
-04d4c5f248b043f0bd45b8545c76f3bf	Berenstain Bears', The - Camping Adventure (U) [t1][b1].smd
-bb64a1487359c0ed46d0cc5f268f26da	High Seas Havoc (U) [t1][b2].smd
-610c27614b07cefb681f461e932584bf	King of the Monsters 2 (U) [b2].smd
-fde323f6fd4d115df9dfc9f846fce701	Madou Monogatari I (J) [b3].smd
-2c412592fe62d52596d70df5612cbe7b	Pirates of Dark Water, The (UE) [b3].smd
-3c530017cd1a06fbbfe569cd94ea5afe	Sub-Terrania (Beta 1) [b3].smd
-bebda0c80ab89db30c1716ecaee3d781	Top Gear 2 (U) [b5].smd
-b13eb9474a946eff30546a9a2a768649	32X Babe Picture by Fonzie (PD) (32X) [a1].32x
-2449e7f984fb74afd350777439dd3294	32X Babe Picture by Fonzie (PD) (32X).32x
-670b47d74d9253bacff69914c2b1b150	32X Color by mic (PD) (32X).32x
-1d0f135a6f6802975725d4ee7dbc5d22	32X Cube by mic (PD) (32X).32x
-c262f96be8848e27e3f8bd2eaabd9d29	32X Fire by mic (PD) (32X).32x
-6c34b3787bdd95b344388e969d9e650c	32X Kolor by mic (PD) (32X).32x
-e1e65872eabc294a2acfb7c3bd85c837	32X Qinter Demo by Fonzie (PD) (32X).32x
-dbc990db554e98958cbfb90b270a3f13	32X Sample Program - Celtic - PWM Test (U) (32X) [b1].32x
-62d3b8f18c3d90afe343d07ead9c1d4c	32X Sample Program - Celtic - PWM Test (U) (32X).32x
-403b9a8118a465dda23529810e037adf	32X Test4 (PD) (32X).32x
-f772e22b574406e3e20c172117050973	36 Great Holes Starring Fred Couples (E) (32X) [!].32x
-902f28ebdafbdde3e1ba58eb3d4e2cb0	36 Great Holes Starring Fred Couples (E) (32X) [b1].32x
-443a014104ff3145f0b2eebe4ffce0fd	36 Great Holes Starring Fred Couples (E) (Prototype - Dec 13, 1994) (32X).32x
-c30e393f01ada81ca44bad43ee63d3b7	36 Great Holes Starring Fred Couples (E) (Prototype - Dec 14, 1994) (32X).32x
-7a186abafff18ba8ed439f362b56014e	36 Great Holes Starring Fred Couples (E) (Prototype - Dec 21, 1994) (32X).32x
-b90a2a1eec015911aa445f9c41d7bc32	36 Great Holes Starring Fred Couples (JU) (32X) [!].32x
-3e33e547288d1d2a5baf1b21a07f8df0	36 Great Holes Starring Fred Couples (JU) (Prototype - Dec 02, 1994) (32X).32x
-97caf7c900fe4bcee30117365a70543c	36 Great Holes Starring Fred Couples (JU) (Prototype - Dec 03, 1994) (32X).32x
-fa60425cd76cfdbee2dc8000b3099a98	36 Great Holes Starring Fred Couples (JU) (Prototype - Dec 06, 1994) (32X).32x
-fa347c89886d60279abf6b1d6c0c5f02	36 Great Holes Starring Fred Couples (JU) (Prototype - Dec 19, 1994) (32X).32x
-86fcf541b14f98dedb8c8deff14de868	36 Great Holes Starring Fred Couples (JU) (Prototype - Dec 21, 1994) (32X).32x
-9db9c401226292cefd5a28f6adfa5065	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 18, 1994) (32X).32x
-c9ce63ee1c915b4ffd1d14940ecbf7c6	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 19, 1994) (32X) [a1].32x
-4b5fd6be86b307399bc6592d8eae79b5	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 19, 1994) (32X).32x
-12aae94fab8374e0c61c8220f28007b7	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 21, 1994) (32X).32x
-f4877c8823d7f39df0932068ed23a585	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 22, 1994) (32X) [a1].32x
-9035d2efd419306d5014df16f0dd29a4	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 22, 1994) (32X).32x
-11d87989771f3f0882512a52e758439e	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 23, 1994) (32X).32x
-3920135572b377d760cee34995c159bd	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 26, 1994) (32X).32x
-7d04ff0502908fe179ad90aaa5270542	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 27, 1994) (32X).32x
-8b2f55c154013452170e0dfd77d5ad2a	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 28, 1994) (32X) [a1].32x
-20917b40eb81edeebfceb57aec9b419d	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 28, 1994) (32X).32x
-bbcf031159ad7ea4b014a58c0ed9433f	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 29, 1994) (32X).32x
-9386cbfe21dcb58cc8a8006c8bc06e61	36 Great Holes Starring Fred Couples (JU) (Prototype - Nov 30, 1994) (32X).32x
-56b0c88cd4aef3ff65ef623527a9edba	36 Great Holes Starring Fred Couples (Prototype - Jul 06, 1994 REV1.x) (32X).32x
-03480484a4d2e3fe3353900dc3033101	36 Great Holes Starring Fred Couples (Prototype - Nov 01, 1994) (32X).32x
-7f1ddc96f801c121adb5e6b1a5c2f73f	36 Great Holes Starring Fred Couples (Prototype - Nov 03, 1994) (32X).32x
-ca9ca81bde5b0819d1bcce097796a41b	36 Great Holes Starring Fred Couples (Prototype - Nov 05, 1994) (32X).32x
-6bc3ecead9db55f646f4db49d484403d	36 Great Holes Starring Fred Couples (Prototype - Nov 07, 1994) (32X).32x
-415b56539f3dbe85fbc9e327e7512136	36 Great Holes Starring Fred Couples (Prototype - Nov 08, 1994) (32X).32x
-a1cfa86bc7d81f199f0b329ddf4458e7	36 Great Holes Starring Fred Couples (Prototype - Nov 10, 1994) (32X).32x
-bcb29b2ec1d693aa863998b19a1873f4	36 Great Holes Starring Fred Couples (Prototype - Nov 16, 1994) (32X).32x
-2600f3ba9d72947910e7cffeba8f5b71	36 Great Holes Starring Fred Couples (Prototype - Oct 11, 1994) (32X).32x
-6aca59ba95b6c1defe19ed32f00d3ef1	36 Great Holes Starring Fred Couples (Prototype - Oct 17, 1994) (32X).32x
-1fc6e86e79315775cb93649f4cfe83d9	36 Great Holes Starring Fred Couples (Prototype - Oct 18, 1994) (32X).32x
-c5a1281e901df24a620a66026373cddc	36 Great Holes Starring Fred Couples (Prototype - Oct 24, 1994) (32X).32x
-61bf65053db9eaa967bca74e18adf23d	36 Great Holes Starring Fred Couples (Prototype - Oct 26, 1994) (32X).32x
-a8e05bd3cdf97e1811ebd6d52c4371a7	After Burner Complete (E) (32X) [!].32x
-ec9529858cc7961b39f5382b2f657b8f	After Burner Complete (JU) (32X) [!].32x
-e6a3e8049631c65ea7193c15159012d9	Back and Forth Rotating XOR Palette by DevSter (PD) (32X).32x
-adea726d3a7186292274014024620fb8	Backward Rotating XOR Palette Demo by DevSter (PD) (32X).32x
-a1d15c221af1d1c797ce65d70652e8f0	BasiEgaXorz - Scrolling Anime Pic by Devster (PD) (32X).32x
-35a11e021ca0b7ff909e4774eb8b3236	BC Racers (W) (32X) [c][!].32x
-c238b112113b0297b2b9f4f618d56598	Blackthorne (U) (32X) [!].32x
-8527e4a0d69dd62ee009cfe4959cddb3	Blackthorne (U) (32X) [b1].32x
-1738a479b0253bcb0bcfb7bf09c03add	Brutal Unleashed - Above the Claw (U) (32X) [!].32x
-8aadc467d31bc64f95a7fbe8f95afeb3	Cosmic Carnage (E) (32X) [!].32x
-32f3002a46a462735aa12ca856cb7652	Cosmic Carnage (JU) (32X) [!].32x
-f2a81c48457191b4f3329792941ac71a	Cosmic Carnage (JU) (Prototype - Oct 04, 1994) (32X).32x
-0210673f0735f1f0956057243bef919c	Cosmic Carnage (JU) (Prototype - Oct 05, 1994) (32X).32x
-0eee6f56666fd70b3483bad9b5297a5e	Cosmic Carnage (JU) (Prototype - Oct 07, 1994) (32X).32x
-52a2e8a8a6a031e0ae731d2efd65a982	Cosmic Carnage (JU) (Prototype - Oct 11, 1994) (32X).32x
-7f97f54d53a6adfcde9a56faaf448c34	Cosmic Carnage (JU) (Prototype - Sep 26, 1994) (32X).32x
-ad83a93fc3a31444bdd89ddb11262c5d	Cosmic Carnage (JU) (Prototype - Sep 28, 1994) (32X).32x
-2a6755d2c4f00bc8569a3fd41dd556d8	Cosmic Carnage (Prototype - Sep 06, 1994) (32X).32x
-4fd7b679099aaf9ebe8dec1603ec3780	Cosmic Carnage (Prototype - Sep 21, 1994) (32X).32x
-30ee320f76db70a836edeff2c8ce9cd2	Darxide (E) (M4) (32X) [!].32x
-833653b5fd3d49c73e562a42eb7f4f8b	DevSter Owns! Text Demo (PD) (32X).32x
-b17b61962136f99abe1d6d1bb844d71c	DevSter's GALAXIAN! (PD) (32X).32x
-7c2144bc01cb16b2c12f0c3913e9d3cb	Doom - 24 Level Expansion Addendum v1.1 by Saxman & Nuxius (Hack) (32X).32x
-dda2e9bb2d2c97de09f0dd5ac87e3744	Doom - 24 Level Expansion v1.0 by Saxman & Nuxius (Hack) (32X).32x
-1abe8b9b1855b1b101cb7f1d86395c22	Doom (E) (32X) [!].32x
-fd439f39b26ba22e4f79a0c87352c6b0	Doom (E) (Prototype - Oct 02, 1994) (32X).32x
-79339867d9d4f58b169753d9a29ea1a5	Doom (JU) (32X) [!].32x
-0a581f2470a35141f32c90c9e9c7f3e5	Doom (Prototype - Sep 01, 1994) (32X).32x
-2f9dfd9c5e06f9df0cfbe0f7e2a425d7	Doom (Prototype - Sep 06, 1994) (32X).32x
-f9ac4fff9b19ac75fa6d22a89ea942c6	Doom (Prototype - Sep 09, 1994) (32X).32x
-f243589e68209c8f18f0d4e5775c3107	Doom (Prototype - Sep 14, 1994) (32X).32x
-c645547a0d1da8758663317bc9634224	Doom (Prototype - Sep 16, 1994) (32X).32x
-46811a3ae28768d571af51796a940b8f	Doom (Prototype - Sep 21, 1994) (32X).32x
-54c0ae49bd3f514c60976a4e62b8527e	Doom (Prototype - Sep 23, 1994) (32X).32x
-9abc704274f7d59f20832b2aa4d7ec8d	Doom (Prototype - Sep 25, 1994) (32X).32x
-000d37e58327be661c6c9c6803077c5b	Doom (U) (Prototype - Sep 27, 1994) (32X).32x
-e7917f7d91c05c0f928f6b4d68c553b2	Doom RR (JU) (Prototype - Feb 15, 1995) (32X).32x
-c7786d03342fa87c291480d346e18402	Doom RR (JU) (Prototype - Feb 21, 1995) (32X).32x
-37974d4c2596436922770ebbeed0927b	Doom RR (JU) (Prototype - Mar 07, 1995) (32X).32x
-c2b642fdcfff8bff511e45203a1e8679	ECCO The Dolphin CinePak Demo (JU) (32X).32x
-24aaa6ef307d20147ce10e7610e59aa2	FIFA International Soccer 96 (UE) (M6) (32X) [c][!].32x
-bc810ff50d9187b5ef603a68c2adee7b	Fuboy - Gameboy Emulator by mic (v2009-01-31) (PD) (32X).32x
-11990609886231d241bd284fd2c05adb	Green Rotating No Stretching XOR Palette Demo by DevSter (PD) (32X).32x
-d6f06432d0e6a01940eb64c4a3f8a554	Green Rotating XOR Palette Demo by DevSter (PD) (32X).32x
-a62154ed4f0cfacd79012cdb2a164191	Hot Chick by DevSter (PD) (32X).32x
-4c6906c7d0e7a0a01268806a8a7fa788	Hot Chick Drawn Without the SH2s for Emulators by DevSter (PD) (32X).32x
-ff00fe687c0712952176510a0ceb1046	Hot Chick Drawn Without the SH2s for Hardware by DevSter (PD) (32X).32x
-546823f02d20458c20113cf23e41c764	Hot Chick in High Quality 15BPP by DevSter (PD) (32X).32x
-174fcbc5026408d00e727b907970f660	Hot Chick in VDP Mode 2 by DevSter (PD) (32X).32x
-e68d3dba08fed9b6301502e89e226595	Hot Chick in VDP Mode 3 by DevSter (PD) (32X).32x
-dde7f49364694285edc48b7362c45c91	Hot Chick Spinning Demo by DevSter (PD) (32X).32x
-ca13d2ec9f208b0ebf90dd7b60124f6e	Hot Chick Spinning Slower Demo by DevSter (PD) (32X).32x
-d6dbd0dc6748d90d69095f9c473a40c2	Hot Chick with Genesis VDP Overlay by DevSter (PD) (32X).32x
-b3afa1355edd3d8ea546a3562de877b3	Hot Chick Zoom Shot by DevSter (PD) (32X).32x
-4ce9e6b6e8883d8a678d90aabce022d0	Knuckles' Chaotix (E) [!] (32X).32x
-72d3eb77a39f28adf0c679b6eddbf95e	Knuckles' Chaotix (E) [f1] (32X).32x
-47b1095e68b053125cd2cd5b1ac4eb50	Knuckles' Chaotix (JU) (32X) [!].32x
-d0981100adf924a085c4c43ffd3f8b4c	Knuckles' Chaotix (JU) (32X) [f1].32x
-d8ad7470835e0edc83b770b59584f625	Knuckles' Chaotix (JU) (Prototype 0111 - Jan 12, 1995, 09.36) (32X).32x
-dde8f92c0fb80488f53ebbce98bd203c	Knuckles' Chaotix (JU) (Prototype 119 - Jan 19, 1995, 07.04) (32X).32x
-e6c65023505129b294c48d37a2d7899d	Knuckles' Chaotix (JU) (Prototype 0202 - Feb 07, 1995, 15.25) (32X).32x
-b37e562d5c0a26122abf66ac94fef886	Knuckles' Chaotix (JU) (Prototype 208 - Feb 08, 1995, 11.17) (32X).32x
-241082f8b6399e658e3516281a2a725e	Knuckles' Chaotix (JU) (Prototype 209 - Feb 09, 1995, 08.25) (32X).32x
-b925cb18160ced5285981a3edd5c4213	Knuckles' Chaotix (JU) (Prototype 210 - Feb 10, 1995, 06.28) (32X).32x
-9d986b6c96704de70e43988825df463a	Knuckles' Chaotix (JU) (Prototype 0213 - Feb 13, 1995, 07.30) (32X).32x
-bdd716e7e0ce4a24ad73179fba8d65dd	Knuckles' Chaotix (JU) (Prototype 213B - Feb 13, 1995, 06.46) (32X).32x
-5e1012438fdeda44b64589fd33daad5f	Knuckles' Chaotix (JU) (Prototype 214 - Feb 14, 1995, 06.46) (32X).32x
-ed059ef80f0292989c0cc86a0224f09d	Knuckles' Chaotix (JU) (Prototype 1207 - Dec 07, 1994, 07.15) (32X).32x
-a161c79dd955d971ee3fcb2e01777257	Knuckles' Chaotix (JU) (Prototype 1227 - Dec 27, 1994, 10.28) (32X).32x
-88c27c63dd58ba339b4db3a1c8791521	Knuckles' Chaotix (JU) (Prototype 1229 - Dec 30, 1994, 15.31) (32X).32x
-6af6207b1e67072a9104178130c61712	Kolibri (W) (32X) [!].32x
-489ded0cc43448881cd863418bacf8e6	Mars Check Program V1.0 (JU) (32X).32x
-ec48db13ba343e50971782cd2a9cbcf9	Mars Initial & Security Program v1.0 (32X).32x
-cf2a08955a2c92cf6b3a562807f0896e	Mars Sample Program - Egypt (JU) (32X) [b1].32x
-7b84a8f2ba03b9a610db594d47693b45	Mars Sample Program - Egypt (JU) (32X) [b2].32x
-4213c4846622dbefb514a0441a553ace	Mars Sample Program - Egypt (JU) (32X).32x
-97dbcc7366802b37a7f1fbbdcb5bd943	Mars Sample Program - Gnu Sierra (JU) (32X) [b1].32x
-fc5dc432cef5d977a7b9a0575acd884e	Mars Sample Program - Gnu Sierra (JU) (32X).32x
-d79b2e1d3efaa1fa85b83afed474efc6	Mars Sample Program - Runlength Mode Test (JU) (32X) [b1].32x
-915472c8d25c79f819492f660e5a8d06	Mars Sample Program - Runlength Mode Test (JU) (32X).32x
-2cd456b784dfb3b214b51086d5954839	Mars Sample Program - SOJ (JU) (32X) [b1].32x
-68e63e08aa1b95d4b5b249ef6de7b1b3	Mars Sample Program - SOJ (JU) (32X).32x
-0eded8598a9d1d83c1abaef65fe7ea54	Mars Sample Program - Texture Test (JU) (32X) [b1].32x
-bd0b324d1edd51103a350e1973179fb7	Mars Sample Program - Texture Test (JU) (32X).32x
-5ab011dae907f77e68eb764bec3870d8	Metal Head (E) (M2) (32X) [!].32x
-9add3dfa94adec73fb9a8ebd972da04e	Metal Head (E) (M2) (32X) [b1].32x
-03cc5d7549d71ba4e9ddc1beae3805fb	Metal Head (JU) (M2) (32X) [!].32x
-aae550a44c4f349b25db009ef84fcabd	Metal Head (JU) (Prototype - Dec 02, 1994) (32X).32x
-ebb8f4df5e5215a5c8d2e1facbb8396b	Metal Head (JU) (Prototype - Dec 07, 1994) (32X) [a1].32x
-b68bf1cdba527506bb6b0aa04a0f3656	Metal Head (JU) (Prototype - Dec 07, 1994) (32X).32x
-5e2f45365c0eaedc7b22127343f4ed38	Metal Head (JU) (Prototype - Dec 09, 1994) (32X).32x
-176aaa2a84d0cc82e21c35f21dc45e64	Metal Head (JU) (Prototype - Dec 13, 1994) (32X).32x
-ac7e0ef84b3f72bb4766ad1af74a5318	Metal Head (JU) (Prototype - Dec 20, 1994) (32X).32x
-360ec44967bcc22a05dcd215c624897f	Metal Head (Prototype - Nov 14, 1994) (32X).32x
-e36b87067183fe1ba286f0957c469b62	Metal Head (Prototype - Nov 18, 1994) (32X).32x
-9c5c8e456c5237705e6b9fd39fef093b	Metal Head (Prototype - Nov 21, 1994) (32X).32x
-9d258d11fe1e4cac2c1aab370c35e57a	Mortal Kombat II (E) (32X) [!].32x
-a95c0e7c1d35fd42cd2e3eb7b06cb6d0	Mortal Kombat II (JU) (32X) [!].32x
-6bc365808a00b8a640dd86ccb5a0ea24	Motocross Championship (E) (32X) [!].32x
-2c4a934985021624d48725b8d7b039e8	Motocross Championship (JU) (32X) [!].32x
-b741a12b72807648aee002105ce8d282	Motocross Championship (Prototype - Oct 12, 1994) (32X).32x
-57182c2a4edebec3858942094c5a482b	Motocross Championship (Prototype - Oct 17, 1994) (32X).32x
-f0c494585f0fad8d77bf9115a6875399	Motocross Championship (U) (Prototype - Nov 01, 1994) (32X).32x
-0fea70d9fe033ff4da6b0c4e31140b26	Motocross Championship (U) (Prototype - Nov 02, 1994) (32X) [a1].32x
-9eec4062c7d36f158d265731a8ab749a	Motocross Championship (U) (Prototype - Nov 02, 1994) (32X).32x
-a8359f240a85576a2904280c2b8c2fbb	Motocross Championship (U) (Prototype - Nov 03, 1994) (32X).32x
-a8b3f927ca15c43a0096357fb149f46a	Motocross Championship (U) (Prototype - Nov 04, 1994) (32X).32x
-868b0df732d4073e0b4070e2b762e134	Motocross Championship (U) (Prototype - Nov 07, 1994) (32X).32x
-ffdc287031f59d3ce4a6f4c2b69aff31	Motocross Championship (U) (Prototype - Nov 08, 1994) (32X).32x
-5bdc8f310638695b570f92ffd99c7c59	Motocross Championship (U) (Prototype - Nov 11, 1994) (32X).32x
-ff8fc197fcd71018564473e83db5d40c	Motocross Championship (U) (Prototype - Oct 18, 1994) (32X).32x
-b52dc9a0fd6c3bf46a66dc608965fdaa	Motocross Championship (U) (Prototype - Oct 19, 1994) (32X).32x
-400cf0229ebc8d441a7b03733c55cd55	Motocross Championship (U) (Prototype - Oct 20, 1994) (32X).32x
-ff2dfbe40f8863c123e9d82c0edf6e6e	Motocross Championship (U) (Prototype - Oct 24, 1994) (32X).32x
-0e3f3a483d99c8d1cc03a3402afa13c9	Motocross Championship (U) (Prototype - Oct 28, 1994) (32X).32x
-966a5e00dd7bcdc70b05c5a0c0e8f7aa	NBA Jam Tournament Edition (W) (32X) [!].32x
-e273c10114351cdafeba1abccca8909d	NFL Quarterback Club (W) (32X) [!].32x
-f5954481e3ccc894e2bb1cfc258eee2d	Optimized Rotating XOR Palette Demo by DevSter (PD) (32X).32x
-e091e542f7ea29ef3daf6022b36e219b	Pitfall (U) (32X) [!].32x
-e1efc5804d3360e7b19f7542219bf964	Primal Rage (W) (32X) [!].32x
-5f955b5feab07c072fc345f1fee52a60	R.B.I. Baseball 95 (U) (32X) [!].32x
-40d1ac4aec5d036bc635724503a6aa39	Rotating No Background Fill XOR Palette Demo by DevSter (PD) (32X).32x
-fbfd4e7544095684573e7968c22fc526	Rotating Pixel Skipping XOR Palette Demo by DevSter (PD) (32X).32x
-9d5bac98307eccc776bac4831f60c524	Rotating XOR Palette Demo by DevSter (PD) (32X).32x
-f4bb8844d77442dbb5bee78d0246b456	Sangokushi IV (J) (32X) [!].32x
-b7cac9f37b7873127afe7a91dead2bde	Shadow Squadron (Prototype - Feb 06, 1995) (32X).32x
-775d395064002f0d1120f3e67e936f2b	Shadow Squadron (Prototype - Feb 13, 1995) (32X).32x
-1f363c972686056a475813f61b8600bf	Shadow Squadron (Prototype - Feb 22, 1995) (32X).32x
-f5e23c9c89673f3f2294eef5d2e5ca67	Shadow Squadron (Prototype - Mar 02, 1995) (32X).32x
-9b2f80f1c52b78885cebd8140e99166e	Shadow Squadron (Prototype - Mar 06, 1995) (32X).32x
-c304de27cdb1cf7dbf660c37f666ac13	Shadow Squadron (Prototype - Mar 13, 1995) (32X) [a1].32x
-df79824d61c1f4f7a258450528a1ff3c	Shadow Squadron (Prototype - Mar 13, 1995) (32X).32x
-1415a8675adf3e8647b3df673b50056d	Shadow Squadron (UE) (32X) [!].32x
-968a10801c3024a64272f13ca9cb6906	Sonic 32x Plus by MarkeyJester (PD) (32X).32x
-8ef36080f859a7a73d7ac4de27bcc448	Sonic in Chaotix - Revision 2 (Knuckles' Chaotix Hack) (32X).32x
-08a0e8a2fed8a87d32d0f9965dbf57b6	Sonic in Chaotix (Knuckles' Chaotix Hack) (32X).32x
-fcd9af0bc04d443b1236d0b800ba94f0	Sonic The Hedgehog 32X by drx (Jan 11 2008) (PD) (32X).32x
-5fe57f2fb4fe3a2ee4f965ee85d38bf6	Sonic The Hedgehog 32X by drx (Nov 17 2007) (PD) (32X).32x
-c8a9b73b4ed5de9eb2d9f6426a4f9036	Sonic The Hedgehog 32X by drx (Nov 18 2007) (PD) (32X).32x
-f58f9dea8388ac4b5ce6a2be64798677	Sonic The Hedgehog 32X by drx (RC1) (PD) (32X).32x
-001191656819e2ed3b6115979607fab7	Sonic The Hedgehog 32X by drx (RC2) (PD) (32X).32x
-e1e0a7e518fb26eddb7504ab56d6db31	Sonic The Hedgehog 32X by drx (RC3) (PD) (32X) [a1].32x
-7619bea5864e4745e43f681428e4f7fe	Sonic The Hedgehog 32X by drx (RC3) (PD) (32X).32x
-e113e76b5500242219404baa66f73383	Sonic The Hedgehog 32X by drx (V1.0enhanced) (PD) (32X).32x
-8c344084c0fee5be7d8c17fbd6b47b51	Sonic The Hedgehog 32X by drx (V1.0pureport) (PD) (32X).32x
-e7d3cb380b054cd00df2ca762871ff2f	Soulstar X (Prototype) (32X) [o1].32x
-4e9d4bd4122fbe72d6f6918e55a58a35	Soulstar X (Prototype) (32X) [o2].32x
-d11bf6ed189baebe9dab0697611d85fb	Soulstar X (Prototype) (32X) [o3].32x
-df10fde09e5f3eafca391137add8ed37	Soulstar X (Prototype) (32X) [o4].32x
-84a09aec8a520b274a7e577ff8a29317	Soulstar X (Prototype) (32X) [o5].32x
-db0b980716ad26d6338d6b4e9d98f80d	Soulstar X (Prototype) (32X).32x
-4619e328e1719bee165941d891c08d81	Space Harrier (E) (32X) [!].32x
-6180e973f678bfc96705e8be4e0783f1	Space Harrier (JU) (32X) [!].32x
-1c1b4a07286b6df9eead9a0305672198	Space Harrier (JU) (Prototype - Sep 20, 1994) (32X).32x
-54d0fcc08ffd1fceab04690ab8dcf6dc	Spear of Destiny Shareware 32X by Chilly Willy (beta1) (32X).32x
-d8b44862ce9544b7b2e3ed75b98163a8	Spear of Destiny Shareware 32X by Chilly Willy (beta2) (32X).32x
-f835f016100c976a01448cdd98f53578	Spear of Destiny Shareware 32X by Chilly Willy (beta3) (32X).32x
-03549d99d30ba8853a0269a87c36c4e3	Spear of Destiny Shareware 32X by Chilly Willy (beta4) (32X).32x
-de7a121aec35a92de775755204e665a8	Spear of Destiny Shareware 32X by Chilly Willy (beta5) (32X).32x
-a60b0838a776966e17a8f10b94baddef	Spider-Man - Web of Fire (W) (32X) [!].32x
-78086fba202066ff4f968d35e7c21c11	Star Trek - Starfleet Academy Bridge Simulator (U) (32X) [!].32x
-bfaa6fd031490c26e25f3d59d9c37497	Star Wars Arcade (E) (32X) [!].32x
-6e75534d5f3d7bf42f15cdf0faf3e0da	Star Wars Arcade (E) (Prototype - Oct 06, 1994) (32X).32x
-777e1ae822f9ed033d27aa1e409d9623	Star Wars Arcade (E) (Prototype - Oct 07, 1994) (32X).32x
-1cf3240ce3d994719ee9fc06e827262a	Star Wars Arcade (E) (Prototype - Sep 23, 1994) (32X).32x
-1b6fc1ef31464acd728783e746286f1f	Star Wars Arcade (E) (Prototype - Sep 29, 1994) (32X).32x
-f6e8648a6ced9017c9f0bf0ca544f17f	Star Wars Arcade (J) (32X) [!].32x
-7837ea435585cf60c1d7ea2d99248e19	Star Wars Arcade (J) (Prototype - Oct 03, 1994) (32X).32x
-ec824311a5f31007a5bdd98b5209b138	Star Wars Arcade (J) (Prototype - Oct 05, 1994) (32X).32x
-320fb649a04da1e5decde198bd799f97	Star Wars Arcade (J) (Prototype - Sep 30, 1994) (32X).32x
-e0603f3785e9ce60bc47c7a4419b6606	Star Wars Arcade (Prototype - Aug 30, 1994) (32X).32x
-67c748fa61e808312f32cc727d0e44cb	Star Wars Arcade (Prototype - Sep 01, 1994) (32X).32x
-95dee4ef705455008ec9570b8fabfcd1	Star Wars Arcade (Prototype - Sep 07, 1994) (32X).32x
-76ca792a475cccff4e76fe7e0f248886	Star Wars Arcade (Prototype - Sep 09, 1994) (32X).32x
-ae3a42c6297ef25c6018a209fda0194e	Star Wars Arcade (U) (32X) [!].32x
-1e233836cacf3ebef42cf0fc78397fb1	Star Wars Arcade (U) (32X) [b1].32x
-267df04136c31ca16e1f3870945c446e	Star Wars Arcade (U) (Prototype - Sep 12, 1994) (32X).32x
-b0eadfa1cb6b9f0d44e45433baab8857	Star Wars Arcade (U) (Prototype - Sep 13, 1994) (32X).32x
-03957d55ddeb3faa8758eded5e2ceef9	Star Wars Arcade (U) (Prototype - Sep 14, 1994) (32X).32x
-01e5b6f81beb2f5b0ab4e9d43fb1f3a8	Star Wars Arcade (U) (Prototype - Sep 15, 1994) (32X).32x
-0a9683a85087d3953ac782046741c864	Star Wars Arcade (U) (Prototype - Sep 16, 1994) (32X).32x
-c834b1d6d0a9e8ac2cc7a06310700d7e	Star Wars Arcade (U) (Prototype - Sep 18, 1994) (32X).32x
-5f6c601dcecca937b6f2c2161e4566fe	Stellar Assault 32X (J) (32X).32x
-e93c5656eb04c97a9cd37b6f56c19323	Super-X Raycasting Engine Test 1 by Fonzie (PD) (32X).32x
-024773eab6b3aacd7d4528f18c110d60	Super-X Raycasting Engine Test 2 by Fonzie (PD) (32X).32x
-9349b07af5cf6c7dd39ea0e43ae6a29d	Switching CRAM Palettes by DevSter (PD) (32X).32x
-30989c83d4e4ea3c35a1f3e2620b8465	Tempo (JU) (32X) [!].32x
-f97cd1d66bcc7378569cc92f2b073025	Tempo (JU) (Prototype - Feb 04, 1995) (32X).32x
-07d06786fdc642449deff5d7880b2ef5	Tempo (JU) (Prototype - Feb 06, 1995) (32X) [a1].32x
-ac6ee8d2c258e00a6d752122f701fab0	Tempo (JU) (Prototype - Feb 06, 1995) (32X).32x
-2ae43c978349214492d2172758ba21b3	Tempo (JU) (Prototype - Feb 07, 1995) (32X).32x
-2e989b696e1447358829ebcc37ac1476	Tempo (JU) (Prototype - Jan 24, 1995) (32X).32x
-a45f3d6db91df1bc3950173285a726f5	Tempo (JU) (Prototype - Jan 26, 1995) (32X).32x
-cc6570e604c22f51dc24347663da1732	Tempo (Prototype - Dec 29, 1994) (32X).32x
-62790d7ffe26582288b0b0ae40bbd60e	Tempo (Prototype - Jan 21, 1995) (32X).32x
-1b06c84caf09206a8d9f0bb3eaaba512	T-MEK (W) (32X) [!].32x
-386d99d132ce5699ade81b4473cef5b4	Toughman Contest (W) (32X) [!].32x
-500ab2d460721db06b6243027f6a0eab	Virtua Fighter (32X) (Prototype - Jun 15, 1995).32x
-4a51f39e2e6fd27456cdfc18c1b1017c	Virtua Fighter (32X) (Prototype - Jun 30, 1995).32x
-14d0fdf6df181ec4902942975e470913	Virtua Fighter (32X) (Prototype - May 30, 1995).32x
-adcf6c6150d1bc3d073d3754b22ebc69	Virtua Fighter (E) (32X) [!].32x
-17de0712018b95cd307a4c7c835ee426	Virtua Fighter (E) (32X) [b1].32x
-0588d74176fd687ce3956d7bfa1b929a	Virtua Fighter (E) (32X) [b2].32x
-901e97c9f731fbdf1f1ead0fbf58249a	Virtua Fighter (JU) (32X) [!].32x
-374dd57d027e06601d1193b67da8c2b2	Virtua Fighter (JU) (Prototype - Jul 17, 1995) (32X).32x
-b969b201c236a764f125ed2e9b3a12f9	Virtua Fighter (JU) (Prototype - Jul 21, 1995) (32X).32x
-16c67ad8853789279178f93780aa69c3	Virtua Fighter (JU) (Prototype - Jul 24, 1995) (32X).32x
-f48a565aab16802c99b645f48a5cb503	Virtua Fighter (JU) (Prototype - Jul 25, 1995) (32X).32x
-91a280e429dd01bdfc5c8c8e28c7eef1	Virtua Hamster (U) (32X) (Prototype) [!].32x
-b3a4929fcb61bc9ecdfd9ac453860fc1	Virtua Hamster (U) (32X) (Prototype) [o1].32x
-c30a6430b1a7e819bd2dde63a41d4d57	Virtua Racing Deluxe (E) (32X) [!].32x
-fb8b10729078de36a736bc4decae97d6	Virtua Racing Deluxe (E) (32X) [b1].32x
-31d1280d97a866c35180acddbbe0ba34	Virtua Racing Deluxe (E) (32X) [h1C].32x
-08cae0a96d9ee07001c6e1c247d407c6	Virtua Racing Deluxe (J) (32X) [!].32x
-c07a68331b846d1614954554c0414f86	Virtua Racing Deluxe (Prototype - Aug 22, 1994) (32X).32x
-72b1ad0f949f68da7d0a6339ecd51a3f	Virtua Racing Deluxe (U) (32X) [!].32x
-9e7b5d7e83ae5f25421a44e14d6140bf	Virtua Racing Deluxe (U) (Prototype - Aug 29, 1994) (32X).32x
-a5efb294179bc3bdc6515383bcdeb63d	Virtua Racing Deluxe (U) (Prototype - Sep 05, 1994) (32X).32x
-c71b9c276a854146f0f2adc6b09c5455	Wolfenstein 3D Beta by Chilly Willy (32X).32x
-e4355dd2582c390da907ee09e2f34c49	Wolfenstein 3D by Chilly Willy (Alpha1) (32X).32x
-f903f970bab4212980da780f7562a659	Wolfenstein 3D by Chilly Willy (Alpha2) (32X).32x
-c7e9c4d0e9cff99e9358095e26c8ff80	Wolfenstein 3D by Chilly Willy (Alpha3) (32X).32x
-fa1a49dfc814d24abba15630eed6d811	Wolfenstein 3D by Chilly Willy (Alpha4) (32X).32x
-1e53ced758efa5c57788689d44bafb3a	Wolfenstein 3D by Chilly Willy (beta1) (32X).32x
-41152bd12a26fb534cc4a70d5507098b	Wolfenstein 3D Shareware 32X by Chilly Willy (beta1) (32X).32x
-2313ecb13a0f39a21d3b66f7fe2244c4	Wolfenstein 3D Shareware 32X by Chilly Willy (beta2) (32X).32x
-cc40570419882b50a1e5258c1d3055d4	Wolfenstein 3D Shareware 32X by Chilly Willy (beta3) (32X).32x
-677dccec7c3bc61b159230e87928fbbc	Wolfenstein 3D Shareware 32X by Chilly Willy (beta4) (32X).32x
-7ad6263cde1964750bc780abf4c1f32a	Wolfenstein 3D Shareware 32X by Chilly Willy (beta5) (32X).32x
-4d14eab0585e79e2fc4789e090755f2d	World Series Baseball '95 (U) (32X) [!].32x
-b3788f861803d21cfa0e559695835f44	WWF RAW (W) (32X) [!].32x
-8456cae9975ba6cb041c4ef2be54b1a1	WWF Wrestlemania Arcade (W) (32X) [!].32x
-bdd19a34a887a4aa6067ccfb617b9041	X-Men - Mind Games (U) (Prototype) (32X).32x
-fef67ecdf8c5369ba4acafac99c768b5	XOR Palette Demo by DevSter (PD) (32X).32x
-f642e289bfb670022e0ae001786bdf94	xRick for Sega 32x by Chilly Willy (v30-04-2011) (32X).32x
-47704b908f3efc013bc29bd7205baaa0	YETI3D Demo (PD) (32X).32x
-bd32a5e46d0159dc88cb31ea4bd9d899	Zaxxon's Motherbase 2000 (JU) (32X) [!].32x
-bce14cea563e804765e793ce6ef91311	Zaxxon's Motherbase 2000 (JU) (Prototype - Feb 10, 1995) (32X).32x
-fa84f37b4d7a53b160fa3596be9caf7c	Zaxxon's Motherbase 2000 (JU) (Prototype - Feb 21, 1995) (32X).32x
-62de41e3546891b6a95ec28a558aefb2	Zaxxon's Motherbase 2000 (JU) (Prototype - Feb 23, 1995) (32X).32x
-fd3eb732b7fdca39eded45b90cff25ab	Zaxxon's Motherbase 2000 (JU) (Prototype - Feb 27, 1995) (32X).32x
-0827db2ebc41af9dfd693b0b8630fdf1	Zaxxon's Motherbase 2000 (JU) (Prototype - Mar 03, 1995) (32X).32x
-478fab0968e5f8248d7e5ad5ebc8a0ae	Zaxxon's Motherbase 2000 (JU) (Prototype - Mar 06, 1995) (32X).32x
-4c4f31281b713b7f515d909c78825ae9	Zaxxon's Motherbase 2000 (JU) (Prototype - Mar 10, 1995) (32X).32x
-c81f0e02b7f779ee532c7b9b92c79240	Zaxxon's Motherbase 2000 (JU) (Prototype - Mar 15, 1995) (32X).32x
-9ce8f1476ef7b6678ec134c6edda8147	Zaxxon's Motherbase 2000 (JU) (Prototype - Mar 31, 1995) (32X).32x
