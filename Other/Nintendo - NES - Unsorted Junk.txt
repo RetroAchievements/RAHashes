@@ -1,0 +1,710 @@
+77b6dbab01c6d456487739fdaeba84b3	Summer Carnival '92 - Recca (Japan) [T-En by Aeon Genesis v1.00] [Add by FlashPV v1.0] [n].nes	\[T-En] Collection\
+9dd7a7808176d6d8c51a02344c10231e	Relics - Ankoku Yousai (Japan) [T-En by BlackPaladin v0.9] [i].fds	\[T-En] Collection\
+6bb0eb2220419afe580e7e428b3e9843	Bravesoft Windows 2000 (Russia) (Subor Keyboard) (Unl) [T-En by Garrett Gilchrist & Vinheim3 v1.0].nes	\[T-En] Collection\
+b3eb06699c26af60d524ffb5de12ba93	Dragon Quest (USA) [T-En by Translation Quest v1.17] [Relocalized] [DQ spell names] [n].nes	\[T-En] Collection\
+b4be2020413c90d0d5ba1c07193d9d37	Dragon Quest (USA) [T-En by Translation Quest v1.17] [Relocalized] [DW spell names] [n].nes	\[T-En] Collection\
+8c55b0fca1133a046f651bb00016daca	Dragon Quest (USA) [T-En by Translation Quest v1.17] [Relocalized] [n].nes	\[T-En] Collection\
+ffeadcf5e1978bc426e51b8f6c1a829e	Dragon Quest II (USA) [T-En by Translation Quest v1.17] [Relocalized] [DQ spell names] [n].nes	\[T-En] Collection\
+a2feb84e30a18fc8f5defb8c7408b6b3	Dragon Quest II (USA) [T-En by Translation Quest v1.17] [Relocalized] [DW spell names] [n].nes	\[T-En] Collection\
+2a13d9eff9ffbcfdf71403cd8c54bd99	Dragon Quest II (USA) [T-En by Translation Quest v1.17] [Relocalized] [DW spell names] [USA monster stats] [n].nes	\[T-En] Collection\
+3c930ecd7a63a0dd3ce26827aea7981a	Dragon Quest II (USA) [T-En by Translation Quest v1.17] [Relocalized] [n].nes	\[T-En] Collection\
+d74479e681e2fcba11ea2af1c6c647ee	Dragon Quest II (USA) [T-En by Translation Quest v1.18] [Relocalized] [DQ spell names] [n].nes	\[T-En] Collection\
+47789115d886cb9f68bdd851f062ef78	Dragon Quest II (USA) [T-En by Translation Quest v1.18] [Relocalized] [DQ spell names] [USA monster stats] [n].nes	\[T-En] Collection\
+b185f7f2572529ace6dad0ae5c016398	Dragon Quest II (USA) [T-En by Translation Quest v1.18] [Relocalized] [DW spell names] [n].nes	\[T-En] Collection\
+d5d107590477403c83f7885f40e20b37	Dragon Quest II (USA) [T-En by Translation Quest v1.18] [Relocalized] [DW spell names] [USA monster stats] [n].nes	\[T-En] Collection\
+b808cd09f9976afbc0be4c1ce247bc79	Dragon Quest II (USA) [T-En by Translation Quest v1.18] [Relocalized] [n].nes	\[T-En] Collection\
+8f732953b6d58ce1b8ce60ead55e7f52	Dragon Quest II (USA) [T-En by Translation Quest v1.18] [Relocalized] [USA monster stats] [n].nes	\[T-En] Collection\
+f625a52b8d34994fcf81d74163ab2dcf	Giant Monster Flaburas (Japan) [T-En by BlackPaladin v1.0] [n].nes	\[T-En] Collection\
+7dd15bea852e575b14a8788fda3b26bc	Last Armageddon (Japan) [T-En by BlackPaladin v1.01].nes	\[T-En] Collection\
+7682771a9fa2fe851025faac6c215895	Legend of Princess Kaguya, The (Japan) [T-En by FCandChill & TheMajinZenki v1.1] [n] [Updated Graphics].nes	\[T-En] Collection\
+aad09cd07d8904cb12eda26d111363e2	Legend of Princess Kaguya, The (Japan) [T-En by FCandChill & TheMajinZenki v1.1] [n].nes	\[T-En] Collection\
+b6dd58376b5aa4ebf1f6962dde2b0b82	NES Wars (Japan) [T-En by Stardust Crusaders v1.00] [n].nes	\[T-En] Collection\
+71344f9dc9ec3f37929b41935fec324a	Political Simulation - Planet of Conspiracy - Shancara (Japan) [T-En by BlackPaladin v1.0] [n].nes	\[T-En] Collection\
+59ee6c6fcf0a0d3cb38d4e40db20509c	Shuffle Fight (Japan) [T-En by BlackPaladin v1.0].nes	\[T-En] Collection\
+8859ea37dd0ff05cae469922b5a17442	Zelda - Legend Of Link, The (TLOZ Hack) infidelity 2020-02-20.nes	\MiSTer NES Add-On Pack\
+e24f3b27b34dd5ed6474da61307388cc	{Plug-and-Play} Game Sporz Wireless Boxing.nes	\NewRisingSun\
+a9151f82b6b8f4c1a721c0a45bad7380	{Plug-and-Play} RetroGame 400 Games (GC26).nes	\NewRisingSun\
+f52ccb1090a14c481a9830abdd510a17	Nyantendo (2021-03)(TôBach).nes	\Nintendo Famicom & Entertainment System - Demos - [NES] (TOSEC-v2024-07-03)\
+d77d3c25c5afdac086f5446088b649f3	Docking (1985-07)(Takahashi, Goro)(JP)[Micom BASIC].nes	\Nintendo Famicom & Entertainment System - Homebrew - Games - [NES] (TOSEC-v2024-07-03)\
+70c2d45d6f412eb4cd3636139b113058	Gravefrenzy (2023)(Steiger).nes	\Nintendo Famicom & Entertainment System - Homebrew - Games - [NES] (TOSEC-v2024-07-03)\
+632d43c4958b85073f947ec211a15973	Heading Volley (1985-08)(Miyazaki, Motohiko)(JP)[Micom BASIC].nes	\Nintendo Famicom & Entertainment System - Homebrew - Games - [NES] (TOSEC-v2024-07-03)\
+284b2d64d75ed70eb4694d3d994ae3bc	Jumpman (1985-06)(Izakaya, Noboru)(JP)[Micom BASIC].nes	\Nintendo Famicom & Entertainment System - Homebrew - Games - [NES] (TOSEC-v2024-07-03)\
+a37292df0412e400f20067105d32ddd4	Last Fight (1985-08)(Izakaya, Noboru)(JP)[Micom BASIC].nes	\Nintendo Famicom & Entertainment System - Homebrew - Games - [NES] (TOSEC-v2024-07-03)\
+0702a78e94e9d5d31885b2ff92ab9e2c	Mario in China (1985-06)(Dr. D)(JP)[Micom BASIC].nes	\Nintendo Famicom & Entertainment System - Homebrew - Games - [NES] (TOSEC-v2024-07-03)\
+a0b7fed5f94a01728e1b0c9b2a5ae442	Space War (1985-07)(Dr. D)(JP)[Micom BASIC].nes	\Nintendo Famicom & Entertainment System - Homebrew - Games - [NES] (TOSEC-v2024-07-03)\
+cb2dbdc6bcaad8314839a9ad630df6e5	Star Dust V (1986-10)(Takeuchi, Hisanori)[Micom BASIC].nes	\Nintendo Famicom & Entertainment System - Homebrew - Games - [NES] (TOSEC-v2024-07-03)\
+bb10814a30823d3a71389fbd099aa755	Zoku Kikaikaikai (1987-10)(Endo, Takashi)(JP)[Micom BASIC].nes	\Nintendo Famicom & Entertainment System - Homebrew - Games - [NES] (TOSEC-v2024-07-03)\
+37111a0097c30fc4b4a51a478651c10b	Ninja Jajamaru - The Ninja Scrolls (Japan) [T-En by Aishsha & Stardust Crusaders v1.01] [n].nes	\Retroplay\
+af32afb54dbf80adbe39045ddbee41b8	Legend of Zelda, The - Triforce of the Gods (Asia) (Unl) [T-En by Pacnsacdave v1.1] [n].nes	\Retroplay\
+01e2dced7374271df100b5ed4a06afca	Digital Devil Story - Megami Tensei II (Japan) (Rev A) [T-En by Stardust Crusaders v1.01].nes	\Retroplay\
+c47983618b136c7e4747e09e65c10c7f	Digital Devil Story - Megami Tensei II (Japan) (Rev A) [T-En by Stardust Crusaders v1.02].nes	\Retroplay\
+4b4aa19206d5f6bc470e87cb61ff8cf5	Digital Devil Story - Megami Tensei II (Japan) (Rev A) [T-En by Stardust Crusaders v1.03].nes	\Retroplay\
+a998d997be1ceaca2a07c21da0c6cc0f	Famicom Jump - Heroes History (Japan) [T-En by BlackPaladin v1.0] [n].nes	\Retroplay\
+dda9ddc534c15a179cd2bfc2bf38b2c4	Final Fantasy II (Japan) [T-En by Demiforce v1.03] [Add by Chaos Rush v2.1b] [B Button Dash].nes	\Retroplay\
+359b6f22bcc7c2e0031302847197e3e4	Final Fantasy II (Japan) [T-En by Demiforce v1.03] [Add by Chaos Rush v2.1b].nes	\Retroplay\
+e76e33ed82f913b9c7506dd9911fd586	Fire Emblem - Shadow Dragon and the Blade of Light (Japan) [T-En by Polinym v1.1] [n].nes	\Retroplay\
+3bae53a3cf51c8304fa8f39ea3890a1f	Fire Emblem - Shadow Dragon and the Blade of Light (Japan) [T-En by Polinym v1.2] [n].nes	\Retroplay\
+0841482687271285f046294c4f641404	Fire Emblem - Shadow Dragon and the Blade of Light (Japan) [T-En by Polinym v1.2a] [n].nes	\Retroplay\
+5ee5d5257ff0bac870eb767786e4e49d	Fire Emblem - Shadow Dragon and the Blade of Light (Japan) [T-En by Polinym v1.3] [n].nes	\Retroplay\
+aa5dd89f2e15d576196321a8e5f9d06f	Gun-Dec (Japan) [T-En by StripyMonk v3.0] [Hard Mode].nes	\Retroplay\
+397755f04b6531549d3bfe8e79d1ae70	Gun-Dec (Japan) [T-En by StripyMonk v3.2] [Hard Mode].nes	\Retroplay\
+52547dd28ede924a6332ee6251a5957d	Gun-Dec (Japan) [T-En by StripyMonk v3.5A] [Gun Mode].nes	\Retroplay\
+b4492c4378be902e7d910ef405d5983e	Gun-Dec (Japan) [T-En by StripyMonk v3.9] [Gun Mode].nes	\Retroplay\
+3ff1367339db35652cbca73b96071fb7	Kunio Tournament (Japan) [T-En by ReptilianCicilian v1.1] [n]_1.nes	\Retroplay\
+7a644875a477a71a508ca9f912e12a83	Kunio Tournament (Japan) [T-En by ReptilianCicilian v1.1] [n].nes	\Retroplay\
+f0299e9401d294bac2cf12e1d6e70c1d	New York Nyankies (Japan) [T-En by StripyMonk v3.0].nes	\Retroplay\
+5605a087ada8124c0ec992587da7a8ef	River City Ransom (USA) [T-En by FANS v1.0] [Relocalized]_1.nes	\Retroplay\
+0c27c584f178fd92fd74f3d51118dbec	War on Wheels (USA) (Proto).nes	MiSTer Add-on Pack - NES - 2020-04-15\Games\v2.0 Header Set 2020-04-15\5 PROTOTYPE 1.0\
+1f90bab854a325ebbe8e7189acdb3f51	Bases Loaded (PC-10) [Prototype].nes	MiSTer Add-on Pack - NES - 2020-04-15\Games\v2.0 Header Set 2020-04-15\6 PLAYCHOICE-10 1.0\
+62c0a64b0311cb4232e6a70673465d83	Virus (PC-10) [Prototype].nes	MiSTer Add-on Pack - NES - 2020-04-15\Games\v2.0 Header Set 2020-04-15\6 PLAYCHOICE-10 1.0\
+6e47ba2419d7179d6710c8a80ec11213	Tiny Toon Adventures (PC-10) [Prototype].nes	MiSTer Add-on Pack - NES - 2020-04-15\Games\v2.0 Header Set 2020-04-15\6 PLAYCHOICE-10 1.0\
+2afaee01608e55cb40bd0396931e42dc	Vs. Tetris.nes	MiSTer Add-on Pack - NES - 2020-04-15\Games\v2.0 Header Set 2020-04-15\6 VS. SYSTEM 2.0\
+e8e4bd6f2def918add0271e52630257e	Legend of Zelda 2, The Adventure of Link v1.0.fds	MiSTer Add-on Pack - NES - 2020-04-15\Games\v2.0 Header Set 2020-04-15\7 FDS Z OLD REV\
+b7cb82cf0471fa5353a170083cc638cf	Zelda no Densetsu - The Hyrule Fantasy (Japan) (Rev 1) (NCMFC).qd	MiSTer Add-on Pack - NES - 2020-04-15\Games\v2.0 Header Set 2020-04-15\7 FDS Z QD\
+819e33c69f144934cf7a8dca0d5cd57f	Armana no Kiseki (Japan).fds	MiSTer Add-on Pack - NES - 2020-04-15\Games\v2.0 Header Set 2020-04-15\7 FDS\
+f8b54df9275fb1da8c5253ce4bcd9ffd	Chitei Tairiku Ordola (Japan).fds	MiSTer Add-on Pack - NES - 2020-04-15\Games\v2.0 Header Set 2020-04-15\7 FDS\
+10842ac5df5aef526ca66d09cfa4af5c	Exciting Soccer - Konami Cup (Japan).fds	MiSTer Add-on Pack - NES - 2020-04-15\Games\v2.0 Header Set 2020-04-15\7 FDS\
+bc776e9583d697e29b9a487913ea8a9c	Fire Bam (Japan).fds	MiSTer Add-on Pack - NES - 2020-04-15\Games\v2.0 Header Set 2020-04-15\7 FDS\
+93e583b6368257b9350ad738e37469c2	Fuuun Shourin Ken - Ankoku no Maou (Japan).fds	MiSTer Add-on Pack - NES - 2020-04-15\Games\v2.0 Header Set 2020-04-15\7 FDS\
+5c45f0736505de7f9e01522e9f46719b	Risa no Yousei Densetsu (Japan).fds	MiSTer Add-on Pack - NES - 2020-04-15\Games\v2.0 Header Set 2020-04-15\7 FDS\
+dc3902861482865dbb2e7bdc2679ea68	Ultraman 2 - Shutsugeki Katokutai (Japan).fds	MiSTer Add-on Pack - NES - 2020-04-15\Games\v2.0 Header Set 2020-04-15\7 FDS\
+3943100a260830a0fb902003cd98aac2	PAR12B.BIN	MiSTer Add-on Pack - NES - 2020-04-15\Games\v2.0 Header Set 2020-04-15\8 BIOS\
+83b4550c2a448ea1444fe9c63cb9d3f1	QJGAR.BIN	MiSTer Add-on Pack - NES - 2020-04-15\Games\v2.0 Header Set 2020-04-15\8 BIOS\
+2830613ec08139b13993fa1eef9eed3d	Ultraman Club - Chikyuu Dakkan Sakusen (Japan) (Rev 1).fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\FDS\1 Japan A-Z\
+1161eac5069d5e4fe4c7ca468709c946	Famicom Grand Prix II - 3D Hot Rally (J) T+Eng v1 AgentOrange, MrRichard999.fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System for PowerPak\1 A-J Famicom Disk System\
+86c99112f2bc00273777f26f65a2805e	Relics - Ankoku Yousai.fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System for PowerPak\2 K-Z Famicom Disk System\
+95ef70defe1299dee9f39a55c5f7f765	Professional Mahjong Gokuu (Japan).fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System for PowerPak\2 K-Z Famicom Disk System\
+89b40150113733985842c665ecbe34de	All Night Nippon Super Mario Bros. (SMB FDS Hack_ShaneM, FDS ROM Split_Ziontist).fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System for PowerPak\2 K-Z Famicom Disk System\Super Mario All Night Nippon Hacks & Translations
+89B40150113733985842C665ECBE34DE	All Night Nippon Super Mario Bros. (SMB FDS Hack_ShaneM, FDS ROM Split_Ziontist).fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System for PowerPak\2 K-Z Famicom Disk System\Super Mario All Night Nippon Hacks & Translations
+5b67494b2e21b93381f8793985585871	Zelda no Densetsu - The Hyrule Fantasy (Japan) (Nintendo Classic Mini Family Computer).fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System\1 FDS Japan - A-Z\
+3764563458310761fc10ed6121bfd52a	Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan) (Rev 1) (Disk Writer) [b].fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System\1 FDS Japan - A-Z\
+06294b6a231569d8b2ce02338499fb6a	Tantei Jinguuji Saburou - Shinjuku Chuuou Kouen Satsujin Jiken (Japan).fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System\1 FDS Japan - A-Z\
+60384b9423e7c98bec3a0e307769b183	Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 4) [b].fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System\1 FDS Japan - A-Z\
+b424e8e9d31734fe1b9d8e9677f1e4ea	Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 6) [b].fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System\1 FDS Japan - A-Z\
+ab47ba25b76b81b158fda510e2f2a174	Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 1) [b].fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System\1 FDS Japan - A-Z\
+56d42640d658d161e4093657f3a31a8b	Famicom Mukashibanashi - Shin Onigashima - Zenpen (Japan) (DV 2) [b].fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System\1 FDS Japan - A-Z\
+156002f14146e934da6e8b814614cb76	SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) (Rev 1) [b].fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System\4 FDS Betas, Prototypes, Revisions\FDS Revisions
+30e5810e9b14d7f90bbecfe9e7692ea2	SD Gundam World - Gachapon Senshi - Scramble Wars (Japan) [b].fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System\4 FDS Betas, Prototypes, Revisions\FDS Revisions
+CD2AF3E058B6B367B261CC3252540B45	All Evening Nippon Super Mario Bros. (SMB FDS Hack_ShaneM, FDS ROM Split_Ziontist).fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System\4 FDS Hacks\
+cd2af3e058b6b367b261cc3252540b45	All Evening Nippon Super Mario Bros. (SMB FDS Hack_ShaneM, FDS ROM Split_Ziontist).fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System\4 FDS Hacks\
+5058d1026400c7476c40362ceb9add4b	Cleopatra no Mahou (J)T+Eng v1 DvD Transations.fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System\4 FDS Translations\
+87F1CA8FB5A17E69EAE4FD832C711B2F	SD Gundam World - Gachapon Senshi - Scramble Wars (J)T+Eng v1.01 MrRichard999.fds	REMOVED - EverDrive - EverDrive N8 and PowerPak\EverDrive - EverDrive N8 and PowerPak\NES\3 Famicom Disk System\4 FDS Translations\
+b313823b2f748eb29eaaa85ac7f19d6b	Russia (Unl).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\HTGDB\NES 2.0\2 Unlicensed\
+e0d72cf73967c78a279b12c4a532adc4	Uninvited (USA) (Beta) (1990-09-10).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\HTGDB\NES 2.0\4 Betas, Prototypes, Revisions\Betas\
+9fe851b65e8afab2b3dadd0bcefbbfd4	Deja Vu (USA) (1990-07-03) (Beta).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\HTGDB\NES 2.0\4 Betas, Prototypes, Revisions\Betas\
+4a3138894f5fbddd120e608b64e36067	Deja Vu (USA) (1990-04-28) (Beta).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\HTGDB\NES 2.0\4 Betas, Prototypes, Revisions\Betas\
+ac4bbb8eb76c0107f911bdc8be0e2546	Deja Vu (USA) (1990-05-08) (Beta).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\HTGDB\NES 2.0\4 Betas, Prototypes, Revisions\Betas\
+5f50bae2af61414208c11f85c6ab0891	Deja Vu (USA) (1990-05-15) (Beta).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\HTGDB\NES 2.0\4 Betas, Prototypes, Revisions\Betas\
+ec98c31343daca0b0d8113b94e4aded0	Uninvited (USA) (Beta) (1990-07-04).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\HTGDB\NES 2.0\4 Betas, Prototypes, Revisions\Betas\
+3896cd5a103812ab65c119d672777243	Uninvited (USA) (Beta) (1990-08-23).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\HTGDB\NES 2.0\4 Betas, Prototypes, Revisions\Betas\
+fcd979525251f1f9e0467459c792e5a4	glitchNES (World) (v0.2) (Program) (Aftermarket) (Homebrew).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\HTGDB\NES 2.0\5 Tools & Service Test Carts\Revisions\
+5c91a4a88dff3ce8ba941c738c29343a	Lexibook Compact Cyber Arcade - PJ Masks [wrong PRG order][missing embedded ROM].nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\NewRisingSun\Headered\Bad Dumps\
+e89632ca95a2d2dd8813cb59214a34cb	dreamGEAR My Arcade Portable Gaming System with 140 Games (DGUN-2561).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\NewRisingSun\Headered\Plug-and-Play\
+6dc76693771c0f51545d64c5a074fb48	Lexibook Retro TV Game Console - Frozen - 300 Games.nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\NewRisingSun\Headered\Plug-and-Play\
+3ad19ae5b9db12f72a1804567ccb3b71	Lexibook Compact Cyber Arcade - 250-in-1 (JL2375).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\NewRisingSun\Headered\Plug-and-Play\
+72a68d49e15d6831b54081d71a8c1511	Lexibook Compact Cyber Arcade - Cars.nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\NewRisingSun\Headered\Plug-and-Play\
+92a73890b855f7e2d5c35f4058ccf20b	Lexibook Compact Cyber Arcade - Disney Princess.nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\NewRisingSun\Headered\Plug-and-Play\
+fe5e728a4dd72bee18c0bd7a795b62d4	Lexibook Compact Cyber Arcade - Frozen.nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\NewRisingSun\Headered\Plug-and-Play\
+e3290847bf3dddaf04051b78bda82645	Lexibook Compact Cyber Arcade - Marvel Ultimate Spider-Man.nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\NewRisingSun\Headered\Plug-and-Play\
+312674442f260b853f6038960f7d38c6	Lexibook Compact Cyber Arcade - Paw Patrol.nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\NewRisingSun\Headered\Plug-and-Play\
+e8e9f0c8a9146983ca5d05b49916b1d7	Lexibook Compact Cyber Arcade - PJ Masks.nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\NewRisingSun\Headered\Plug-and-Play\
+11c9c119c16c466e59d73f955c8a49cc	Lexibook Compact Cyber Arcade - Star Wars Rebels.nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\NewRisingSun\Headered\Plug-and-Play\
+4340100aa85e9042ee49a2b32c413b1b	Lexibook Compact Cyber Arcade.nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\NewRisingSun\Headered\Plug-and-Play\
+4074e4bcc5b98d73f44a5ac0f2ae1c75	Lexibook Console Colour - Disney's Planes.nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\NewRisingSun\Headered\Plug-and-Play\
+a0d2e6384d521575e936518a89daf55d	Lexibook Console Colour - Minnie Mouse Bow-tique.nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\NewRisingSun\Headered\Plug-and-Play\
+8bf21c6b61d444bf2e2086a34fba4266	Lexibook Retro TV Game Console - 300 Games.nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\NewRisingSun\Headered\Plug-and-Play\
+fd8e0d5dc01afddb116ceb060385b9ca	8Bit Music Power (USA) (Aftermarket) (Unl).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\No-Intro\Headered\
+4e647b4919f96be42cc5803698a796f6	Controller Test Program (Japan) (En) (Test Program).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\No-Intro\Headered\
+58568291970e5feeb8f11a98930471d6	Critical Match (World) (Aftermarket) (Unl).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\No-Intro\Headered\
+0e64768ae48b4106d9597eb10bc8cc38	Disk Writer EEPROM Pak (Japan) (En) (Data) [b].bin	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\No-Intro\Headered\
+fac6c846e2bb368daeb29396cd064f69	F-Theta (USA, Europe) (Aftermarket) (Unl).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\No-Intro\Headered\
+99a9c5553f666b9f8b8753e1a3e5dcc9	King of Kings (Japan) (Namco Anthology 2) [b].nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\No-Intro\Headered\
+55b6f69acf334f0b98d3bd1b0357787c	Mini Games Anniversary Edition 620 in 1 (Asia) (En) (Aftermarket) (Pirate).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\No-Intro\Headered\
+26af93fb9dda7ec282dee193ab68d319	Shadowgate (Japan) (Beta) (1988-11).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\No-Intro\Headered\
+a4cf9a44aae3efe252bd297458cf58a6	Star Wars (World) (Aftermarket) (Unl).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\No-Intro\Headered\
+fcb4facbddf933a2cc1aaee80e0c0a38	Storied Sword, The (World) (Beta 1) (Aftermarket) (Unl).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\No-Intro\Headered\
+cbac315457a33d1f1577d958c89eb581	Star Wars - The Empire Strikes Back (World) (Aftermarket) (Unl).nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\No-Intro\Headered\
+b36d4b5e191937347dd0d727dfa7f670	Uninvited (USA) (Beta) (1990-07-04)_1.nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\No-Intro\Headered\
+2793bb9d56e55cd207d688942bb1ba5e	Uninvited (USA) (Beta) (1990-08-23)_1.nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\No-Intro\Headered\
+4a8dd2f49552e72c9715b265147932b4	Uninvited (USA) (Beta) (1990-09-10)_1.nes	REMOVED - Nintendo - Famicom & Nintendo Entertainment System (1)\No-Intro\Headered\
+0c58a34169cb62a7ac440a483eab7d38	Ai Senshi Nicol (Japan).fds	REMOVED - Nintendo - Family Computer Disk System\No-Intro\FDS (Headered)\
+63d3e3ea5caec04c050bfc606381e4bf	Apple Town Monogatari - Little Computer People (Japan).fds	REMOVED - Nintendo - Family Computer Disk System\No-Intro\FDS (Headered)\
+8f7ce6e4f3d29adf950d7b40bfbe4d32	Druid - Kyoufu no Tobira (Japan).fds	REMOVED - Nintendo - Family Computer Disk System\No-Intro\FDS (Headered)\
+632fa1307cf7a8b742510c337bac8824	Emi-chan no Moero Yakyuuken! (Japan) (Unl).fds	REMOVED - Nintendo - Family Computer Disk System\No-Intro\FDS (Headered)\
+2a17869064aa015b1901472200948036	Exciting Baseball (Japan).fds	REMOVED - Nintendo - Family Computer Disk System\No-Intro\FDS (Headered)\
+b4a650387bcb8dc78a4d385355448853	Golf - Japan Course (Japan) (DV 2).fds	REMOVED - Nintendo - Family Computer Disk System\No-Intro\FDS (Headered)\
+d86d849e2e76963f7dcee87dab8c914e	Kick and Run (Japan).fds	REMOVED - Nintendo - Family Computer Disk System\No-Intro\FDS (Headered)\
+28e508cd1983d9ef4b330fccf9994df7	Knight Move (Japan).fds	REMOVED - Nintendo - Family Computer Disk System\No-Intro\FDS (Headered)\
+1926b75d55a8a5a22a8a56eafc6dc207	2 In 1 Super (VT2037) (Combined) (Unl) (As) [!] (Mesen - M Only).nes	REMOVED - Yori Yoshizuki - Beta
+7a220d3bb9a4752fcca0fe38678abb4c	4 In 1 (BS-0210A) Super Mario (Unl) (As) [!].nes	REMOVED - Yori Yoshizuki - Beta
+da555894cf7b9ba4b5da215d0baa438d	Cool World.nes	REMOVED - Yori Yoshizuki - Beta
+98df1265ee532271bbb07d5e34d63de6	Chudov_Collection_9in1_R.unif	REMOVED - Yori Yoshizuki - Beta
+37fd08818de6a00d8dcf9876f190520b	4-in-1 (YH435) (Unl).unif	REMOVED - Yori Yoshizuki - Beta
+19b473528e9b9bba0e9aea5010968131	58.nes	REMOVED - Yori Yoshizuki - Beta
+bbbbdb7038cab7855ac176dd660849f2	10-in-1 (YuXing V9.2) (F) (Ch) [o1].nes	REMOVED - Yori Yoshizuki - Beta
+2dd7b26b51e531d6a5afbbe48d219bab	11 in 1 Ball Games [16L8] [only menu].nes	REMOVED - Yori Yoshizuki - Beta
+5ae3348ad61c2571b88194ee3d95ad78	12-in-1 (Chao Ji Xue Xi Ka WH453) (Ch).nes	REMOVED - Yori Yoshizuki - Beta
+856715687c767abb46de4c44222d8f84	13.Mini Putt (J) [!] [hM04].nes	REMOVED - Yori Yoshizuki - Beta
+dc9c2596b66197c606ab9764fbbd7933	14.Adventures of Lolo (USA) MMC1 to MMC3.nes	REMOVED - Yori Yoshizuki - Beta
+4d3d367b269429b1349d16f2850b484a	20 in 1 menu.nes	REMOVED - Yori Yoshizuki - Beta
+b17c1b9046de71100bd4e726ceeeee89	31-in-1.nes	REMOVED - Yori Yoshizuki - Beta
+dbfd3dbe8f2639a1f3abdec08c0888c4	50 In 1 (Unl) (As) [!] (Mapper 58).nes	REMOVED - Yori Yoshizuki - Beta
+492d49f540c8bb3fb9d9e7083d8ac3ce	Blaster Master (Quadrant) (Blaster Master Hack) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+0ed64ab5f4c0b888fce3a2c382a7b0e4	01.nes	REMOVED - Yori Yoshizuki - Beta
+cafa4bc83b19ca0dcc9196f56061494a	Dr Chaos.nes	REMOVED - Yori Yoshizuki - Beta
+9b040aa3b49db1ae0364c79e7fb9cca1	Dragon s Lair.nes	REMOVED - Yori Yoshizuki - Beta
+3a7236ac45843af37a2b4b783591d9d7	1943 - The Battle of Midway (U) [T+ChS_Kasuraj][v1.0].nes	REMOVED - Yori Yoshizuki - Beta
+ae638de8e551ff05891c064832fdd12f	1Tecmo Bowl Champ Teams - Redux.nes	REMOVED - Yori Yoshizuki - Beta
+0f39b6ba51e5d1a76a5652ce72ad08cb	Diamond.nes	REMOVED - Yori Yoshizuki - Beta
+7ff2a13c573e4b89fd6ee5ee16a522aa	3Tecmo GOATs (Z Edition).nes	REMOVED - Yori Yoshizuki - Beta
+f4ef63cdb3553092ab6795f13b411188	4-in-1 (CK015) (256K) (Unl).unif	REMOVED - Yori Yoshizuki - Beta
+92bdb678595969e70318a1966ea7aa0c	Contra 1 US version wondering A.nes	REMOVED - Yori Yoshizuki - Beta
+185f3f312762a8ca1281d6f16f38ffb4	8 Eye's (J) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+dc12be765de5896fe90fb1e4919b4f9b	Abadox (J) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+a46ea4c41d9e90997a07b33b7e7fc8af	Action 52 Atari 2600 Graphics Edition-1.0-nensondubois.nes	REMOVED - Yori Yoshizuki - Beta
+4eec85e2de8a8a3172df19707ec4f7a9	Action in New York.nes	REMOVED - Yori Yoshizuki - Beta
+a6d206f0387c2fccf427f079857323ac	Adventures Of Tomley Kleene By Bob Rost (Public Domain) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+eb112645348564c3ea7645e75a49d5eb	Aero Engine (2).nes	REMOVED - Yori Yoshizuki - Beta
+a31487e8e94ad46cff3db6fcc1c4c613	Circus Charlie (J) [T+ChS_Chongchong][2020].nes	REMOVED - Yori Yoshizuki - Beta
+a756b7dbe5c15142d9f455fd72bf0b2d	Ai_Senshi_Nicol_p1_TRus_by_Roket_28.09.2020v1.2.nes	REMOVED - Yori Yoshizuki - Beta
+5e6ba82a48de3473ebff76cdf6f63b36	Airial Hero.nes	REMOVED - Yori Yoshizuki - Beta
+c4130f5203952bc04cbe67d6d66a5262	Disney land 2.nes	REMOVED - Yori Yoshizuki - Beta
+963b9ce4711c7a71abc4ccf7cded9da3	Controller Test (2020-03-27).nes	REMOVED - Yori Yoshizuki - Beta
+2bf434c19d975cf2a31a75832305f409	Alter Ego By Shiru - Alexander Petrovics Semenov V1.022 (Spectrum Conversion) (Public Domain) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+f3374a8d7e941d745e318dfa7702cfcc	Amagon  v.1.0 (RUS).nes	REMOVED - Yori Yoshizuki - Beta
+de1bb27c201e2f5d3e0354d84be82d3a	Cat vs. Dog.nes	REMOVED - Yori Yoshizuki - Beta
+4b71c5742c8878e067d7b95f573c7704	Classic Tyrian (Galax Ranger Hack).nes	REMOVED - Yori Yoshizuki - Beta
+1b4da961306d489c9966ce5f4130f557	Angel.nes	REMOVED - Yori Yoshizuki - Beta
+a0160a14bf8ef30a5817a308d423c16c	Anti Communism Action (Guevara Hack).nes	REMOVED - Yori Yoshizuki - Beta
+c38779f171c41dde213c17efa2e05d39	Arch Rivals - A Basketbrawl! (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+54c92174a2c5b7043c5ea9923bf6bf5a	Arena.nes	REMOVED - Yori Yoshizuki - Beta
+9c0643b3b198b21b6e1a66ce8f0c461b	Argus (J) [T+ChS_Chongchong].nes	REMOVED - Yori Yoshizuki - Beta
+d191612e3e798ad515d76424ef946445	Arkanoid (U) (For Famicom Expansion Controller) [!].nes	REMOVED - Yori Yoshizuki - Beta
+1430b85a53a0502de71205ce973b7d56	Arkanoid (Woody Pop 2 - KT 3056) (Unl) (As) [!].nes	REMOVED - Yori Yoshizuki - Beta
+0a7a0297bde368f99d648cead695cdd3	Arkanoid (J) (For Famicom Expansion Controller) [!].nes	REMOVED - Yori Yoshizuki - Beta
+8ab34e53e8d74157d82f8e3e1446b72b	Argus.nes	REMOVED - Yori Yoshizuki - Beta
+fca3c7a03f508038147a3df3e4562f0a	Arkanoid.nes	REMOVED - Yori Yoshizuki - Beta
+323049f420156b7ce1ffb00aa42a1401	Arkista's Ring (U) [T+ChS_Chongchong][2020].nes	REMOVED - Yori Yoshizuki - Beta
+b35ade1bb01ac273cda89dc40897a56f	Armadillo.nes	REMOVED - Yori Yoshizuki - Beta
+a7d65c2a780568bf54038ec9d0509b70	Assimilate (Public Domain) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+d72537bb08f61f9c5dfbb41cabbe4a5b	Astro-Kat-2017.08.26-Build.nes	REMOVED - Yori Yoshizuki - Beta
+921be520cb566f845732ef1ab1173f76	Athena (U) [!] {hack}.nes	REMOVED - Yori Yoshizuki - Beta
+1da49f8ed27776e7384e9054ab88f6c0	Athena.nes	REMOVED - Yori Yoshizuki - Beta
+75977e08d5e7bdfb0455547bac31728c	Atmo Sphere.nes	REMOVED - Yori Yoshizuki - Beta
+0942527967f29d8061ab529b16744176	Attacking.nes	REMOVED - Yori Yoshizuki - Beta
+5e194e37a93c7114f16a0814eb91e111	Awful Rushing.nes	REMOVED - Yori Yoshizuki - Beta
+a965713c7f0f139248f911263e8bba0b	Captain Skyhawk.nes	REMOVED - Yori Yoshizuki - Beta
+22d5a5ba23df4745c2c95404962feac1	A Simple Quest-7.0-Gabriel Dinu.nes	REMOVED - Yori Yoshizuki - Beta
+10faf778fa9c9b7a49b442a474ae3d32	B-Wings v.1.0 (R).nes	REMOVED - Yori Yoshizuki - Beta
+62dcd165012d80441e3f314c54d6d8e1	B-Hard Mode of Contra[Improvement] AzStar.nes	REMOVED - Yori Yoshizuki - Beta
+eb48e0b309b2a61534e6f0c1fbde50fc	B-Wings (J) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+a9541b18a6caa56523ee1f3c858bac2f	Backgammon_(Nice_Code_Software)_(Unl)-spaces.im.nes	REMOVED - Yori Yoshizuki - Beta
+b7c395a0eac774aad59c6b6619d9f104	Bad Dudes.nes	REMOVED - Yori Yoshizuki - Beta
+7b33e7f4369451664f1d9df04d157d42	BackgroundTileDemo.nes	REMOVED - Yori Yoshizuki - Beta
+f15d1d2d88862a9369bd3f313f3f4cae	Bad Street Brawler.nes	REMOVED - Yori Yoshizuki - Beta
+b31fb2a0d1168e5457981f74df90786c	Ball by Fire (PD).nes	REMOVED - Yori Yoshizuki - Beta
+9b49d1e8d6bc06c8d623f83011c7cbcf	Balloon Fight.nes	REMOVED - Yori Yoshizuki - Beta
+1be317d444fcde3b83c889f10aa14de8	Balloon Shoot.nes	REMOVED - Yori Yoshizuki - Beta
+ebcfe0718c5d1f4542739612a5dacb28	Balloon Fight (J) [T+ChS_Chonger].nes	REMOVED - Yori Yoshizuki - Beta
+c5b6f8dfbb93c44f4efb46f2b5ab9ee8	Balloon Fight NST [002].nes	REMOVED - Yori Yoshizuki - Beta
+9e2e520aad298ba1d7785c7f5d02e55e	Baltron (J) rus.nes	REMOVED - Yori Yoshizuki - Beta
+d2550a4543a20b61a43a466661aa2faf	Baseball (3).nes	REMOVED - Yori Yoshizuki - Beta
+479bf4b1463e1eb3129d30fb5b72e633	Baseball (Waixing VT03).nes	REMOVED - Yori Yoshizuki - Beta
+a122a24cd4169bcc273c0fa4b8526d9f	Barbie.nes	REMOVED - Yori Yoshizuki - Beta
+c825c3c4452667369d3662d7ac60c322	Batman (J) [!] (Bucky 'O Hare Samples).nes	REMOVED - Yori Yoshizuki - Beta
+57bcbdd458af2fa6058fdae2c5ce9d52	Batman (U) [T+ChS_HHNM].nes	REMOVED - Yori Yoshizuki - Beta
+0c2af9f75c862d4f23a07a982abbd149	Batman 2 (Unl) (As) [!] (Mapper 25).nes	REMOVED - Yori Yoshizuki - Beta
+1f186f5a5d6db6844f880c5d7ad8844b	DX Ball 3 (Diamond (Waixing) Hack).nes	REMOVED - Yori Yoshizuki - Beta
+2c2d093271bea98acbaa5eb093ba382f	Batman Returns - Improved Controls (Batman Returns Hack) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+6ebc69cb27d9b13df07c02aaf22f6590	Batman.nes	REMOVED - Yori Yoshizuki - Beta
+75bcf204506d8e7309cbbcf1cb016824	Battle Kid - Fortress of Peril (20100510) (Unl) [t3] (Shell Power).nes	REMOVED - Yori Yoshizuki - Beta
+a58f6b630a5cff416a4f49f5e74f1fa1	BATTLE CITY123NEW YS90.nes	REMOVED - Yori Yoshizuki - Beta
+d3320bdef28799fd3f840d4cb6ed4a7b	Battle Kid 2 - Mountain of Torment (20120728) (Unl) [t1] (Invincible).nes	REMOVED - Yori Yoshizuki - Beta
+dd8d818d6aaed579c4740205f10f39b3	Battle of Olympus.nes	REMOVED - Yori Yoshizuki - Beta
+4847fe87d0e0670c7331f263528fd926	Battlefield (Unl).nes	REMOVED - Yori Yoshizuki - Beta
+15f1a3151d6054324b2087577b65c135	Battletoads & Double Dragon - The Ultimate Team (Improved Colors) v.1.0 (RUS).nes	REMOVED - Yori Yoshizuki - Beta
+02155a610695e24875fdb2aacca59e6f	Battletoads.nes	REMOVED - Yori Yoshizuki - Beta
+d7aa94604da745e384e9b20d5e76814f	Beauty and the Beast.nes	REMOVED - Yori Yoshizuki - Beta
+477f05da4d3409861cadc30e0f3f484f	Beaver.nes	REMOVED - Yori Yoshizuki - Beta
+a93438eba6d369fcd7e0c0c7ce85397a	Bee 52.nes	REMOVED - Yori Yoshizuki - Beta
+a58cf89a4523bc171baab62872f65e07	Beetlejuice.nes	REMOVED - Yori Yoshizuki - Beta
+50d5225a7204e170a2320e71770635e6	American Gladiators.nes	REMOVED - Yori Yoshizuki - Beta
+f77160466dd74c7b299055f4ba3715eb	Binary Land (J) [T+ChS_Chongchong].nes	REMOVED - Yori Yoshizuki - Beta
+53576d82a8b5ed1cc3218d0218071000	Bingo Zap (2).nes	REMOVED - Yori Yoshizuki - Beta
+44e5909976fec7b7f59ff59ded889a05	Bio Senshi Dan - Increaser Tono Tatakai.nes	REMOVED - Yori Yoshizuki - Beta
+33672772d63285747a3ed240ab5b02cc	Birdie Nest (2).nes	REMOVED - Yori Yoshizuki - Beta
+4ffcd45489aae6da9b990a8d1f93268a	Amusement Park 2 (Nes Graphics) (VT03) (Unl) (As) [!] (Nintendulator NRS Only).nes	REMOVED - Yori Yoshizuki - Beta
+cdb403fd89f5fe2e1fe0f4e114498623	Blackjack.nes	REMOVED - Yori Yoshizuki - Beta
+d16bcbb178a80a9583b0d99894b1a767	Blades of Steel NST [054].nes	REMOVED - Yori Yoshizuki - Beta
+197cc9f26088016a72d278fa95bf34c2	Blaster-Master (Wastelands)2.7-SkyLizardGirl.nes	REMOVED - Yori Yoshizuki - Beta
+5a67c8f35af597caae033e7025e25d89	Blaster Master-(Wastelands)2.6-SkyLizardGirl.nes	REMOVED - Yori Yoshizuki - Beta
+3e5b633003cf631913caf6a73a94c7e6	Block Game (Square Hack).nes	REMOVED - Yori Yoshizuki - Beta
+e1d74ac29d17af34465c8b9f0df037ca	Blocks World.nes	REMOVED - Yori Yoshizuki - Beta
+bfe7f63c96e49ff313608340d807e73c	Bomber Penguin (Joust Hack).nes	REMOVED - Yori Yoshizuki - Beta
+e7be6664e40bc8cac7e26296dd7bde66	Bomberman (Monkey's Traduções).nes	REMOVED - Yori Yoshizuki - Beta
+9ed2ebf05003907fde285c65a1dbe4b4	FBASIC.nes	REMOVED - Yori Yoshizuki - Beta
+36a6f2db862edf2ba6514797fdfa7ab9	Booky Man (Unl) (E) (Spain) [!].nes	REMOVED - Yori Yoshizuki - Beta
+2e900d770e5974a416859df126ddcd86	Boris Boa Boa Nuts Milk.nes	REMOVED - Yori Yoshizuki - Beta
+89d5dc6e43bdfb5eb9bcf5561e1139ee	Boulder Dash.nes	REMOVED - Yori Yoshizuki - Beta
+b93d0cd92c965566d319f6f415a7987f	Bowling Superior (Dynamite Bowl Hack).nes	REMOVED - Yori Yoshizuki - Beta
+ae09118cd79917968fd6462af430b224	Blues Brothers.nes	REMOVED - Yori Yoshizuki - Beta
+9c6682a2108ea2b7b17e6ed57b8fc4b3	Bram Stoker's Dracula (Monkey's Traduções).nes	REMOVED - Yori Yoshizuki - Beta
+97fbb341ca16b3eb2400898aa4c02604	Bram Stoker s Dracula.nes	REMOVED - Yori Yoshizuki - Beta
+99edb44a8a471434915ce467ad39629a	Brother Ball (2).nes	REMOVED - Yori Yoshizuki - Beta
+9353b6fa1ae591cd0163497a6a45dcf5	Brother Ball.nes	REMOVED - Yori Yoshizuki - Beta
+de832b3f444137f125afaa607d4cea11	BTDD_MODHACK_L7(v1.2.2 fix).nes	REMOVED - Yori Yoshizuki - Beta
+683c2923b8e8516f237fc65cd50ece20	Bucky O'Hare Enemy Colors1.0-Chunky_Kong.nes	REMOVED - Yori Yoshizuki - Beta
+e756a2c75b9d55e7d9e7a5b9b6b490f0	Buggy Popper (J) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+0fa7392eafc92e4b9ee4f55b15415a55	Bugs Bunny Fun House (U) (Prototype) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+2f3d82b966e15356f9bdf6406e7e0bb8	Bump n  Jump.nes	REMOVED - Yori Yoshizuki - Beta
+3b1835efab97d3b327fe15f231b5f56e	Burrow Explorer.nes	REMOVED - Yori Yoshizuki - Beta
+3962accfd4f08254e1bb49f25d8a0094	Captain America - Winter Soldier.nes	REMOVED - Yori Yoshizuki - Beta
+23527dba952e4f3fa8ad518312154215	C64Basic By PigDevil (Public Domain) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+42155824a4112f7b7d156ba3e709f434	CaD2_m1_256_spr.nes	REMOVED - Yori Yoshizuki - Beta
+a65c997d8d8c2c5fd1dd23e06a35577a	Captain (Smart Acel Hack).nes	REMOVED - Yori Yoshizuki - Beta
+536581bd54f9617735e45684f1cc2e98	Captain America and The Avengers (U) [!] [T+Por1.1_POBRE].nes	REMOVED - Yori Yoshizuki - Beta
+5772e12561d0b18767663d97daca50f4	Captain America and the Avengers.nes	REMOVED - Yori Yoshizuki - Beta
+974da7fe731e7f17d7ee455513436246	Captain Comic - Music Correction, Restoration, And Expansion Patch (The Adventures Of Captain Comic Hack) (Unl) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+334a14631458b03cb387c56af18a6807	Captain Planet & Planeteers.nes	REMOVED - Yori Yoshizuki - Beta
+19454d0e28aa14063fdacd1f902278d3	Chiki-Chiki Dog.nes	REMOVED - Yori Yoshizuki - Beta
+f85c3e11f65bca2b60592c8766fbf441	Captain Tsubasa 2.nes	REMOVED - Yori Yoshizuki - Beta
+4a688327d11499e2fa2687b3fbf36725	Blue Shadow.nes	REMOVED - Yori Yoshizuki - Beta
+f8acc9ce1d92dd18b6152633bbf65568	Captain.nes	REMOVED - Yori Yoshizuki - Beta
+072127853b474698f2d0398844c72030	Casino Pinball (Lucky Ball (VT02) Hack).nes	REMOVED - Yori Yoshizuki - Beta
+2fcd20cfae906d6c8d3527c550c6ef64	Castle of Deceit.nes	REMOVED - Yori Yoshizuki - Beta
+b67d85acf29ed2d7e24bf4a2c1214603	Castle of Dragon.nes	REMOVED - Yori Yoshizuki - Beta
+3e2339320005102e95af739d9909b2f4	Castle Excellent(1).nes	REMOVED - Yori Yoshizuki - Beta
+cfc8fdb205a5d409a67f7894fa997a7a	Castlequest.nes	REMOVED - Yori Yoshizuki - Beta
+13fe51cbfb04b3f667e2dc92f1c5961b	Dracula Bram Stoker.nes	REMOVED - Yori Yoshizuki - Beta
+0160f0ae384ce4f8daddd765ccb71c7b	Castlevania II - Simon's Quest (U) [T+ChS1.2_Nonamed].nes	REMOVED - Yori Yoshizuki - Beta
+557d65ebdefa159920b6db5149b77f38	Castlevania Improved Controls 1.1 NaOH.nes	REMOVED - Yori Yoshizuki - Beta
+bdba33b540e282e5d034dd4032b2916f	Castlevania 3 Gold Edition (Castlevania III - Dracula's Curse Hack) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+7ebffcf307e1fd8cab1a925c0ba9fb50	Castlevania MMXVI - Moon Rhapsody.nes	REMOVED - Yori Yoshizuki - Beta
+f0311c730fb0e26975752cc2b17addb8	Chack 'n Pop (J) [T+ChS_Chongchong].nes	REMOVED - Yori Yoshizuki - Beta
+f76fe421d9c69da53948d6173dec4f61	Challenger.nes	REMOVED - Yori Yoshizuki - Beta
+8b05d7fe0495c5ddc37abf34b12bb233	Championship Lode Runner (J) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+41ca2691e74b29398a720b0d6c465a5d	Cheetahmen (no intro).nes	REMOVED - Yori Yoshizuki - Beta
+9cf146d5a1481ca518bda4c6cb3b3eec	Cheetah Men II - Bugfixed Version 2.1 by PacoChan (Hack).nes	REMOVED - Yori Yoshizuki - Beta
+36e2534383cd62ec0ba35f611274a629	Cheril The Writer [HB].nes	REMOVED - Yori Yoshizuki - Beta
+9e474e255ac6436fb57b036ee848632a	Chip 'n Dale 2 NST [002].nes	REMOVED - Yori Yoshizuki - Beta
+8ef522f04053844b090af3beb681261c	Bean Eater (Maze Tussle Hack).nes	REMOVED - Yori Yoshizuki - Beta
+611a48d59da624bd088c86fe81702415	Chip 'n Dale Rescue Rangers 2- Winter Peril Basketball [H+ Chip 'n Dale Rescue Rangers 2][Unknown].nes	REMOVED - Yori Yoshizuki - Beta
+73defcd4bb5fa212611c8899d8f3b2cf	Choujikuu Yousai - Macross (J) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+a7033f244ce30156c5bca870809fc46b	Choujin Sentai - Jetman (J) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+2cc8c3e3088bac8f1674fe725dc73294	Choujikuu Yousai - Macross.nes	REMOVED - Yori Yoshizuki - Beta
+6736a7c84e2603cd897d0e0e7f1fc4c3	Circus Caper.nes	REMOVED - Yori Yoshizuki - Beta
+4257c0ce0512fa88252e3f235d2008fd	Circus Charlie.nes	REMOVED - Yori Yoshizuki - Beta
+b021f0a75f3cd7817035e7414541267f	Circus Caper (U) [!] (440Hz Fix).nes	REMOVED - Yori Yoshizuki - Beta
+258a9857f50c5fabb48fa6c4f20321ca	City Connection  v.1.0 (RUS).nes	REMOVED - Yori Yoshizuki - Beta
+2c99a8b66d857c8c0a313d9705f2392e	Clash at Demonhead.nes	REMOVED - Yori Yoshizuki - Beta
+cfbd89a5d71986aabeed36e54b2cce1c	Cleopatra Pizza Delivery v.1.0.nes	REMOVED - Yori Yoshizuki - Beta
+f69f6482ea464410189d100b6ab4ab3c	Cliffhanger.nes	REMOVED - Yori Yoshizuki - Beta
+31937a42188dcb9510284de83c147bbe	Clu Clu Land (W) [T+ChS_Chonger].nes	REMOVED - Yori Yoshizuki - Beta
+e0455f7b7deebf15ac11074e138e86e6	Cobra Command.nes	REMOVED - Yori Yoshizuki - Beta
+9f3d30250df885180c3030055ef78c66	Cocoron.nes	REMOVED - Yori Yoshizuki - Beta
+7f50e87b67fa94dd5619db2692a01077	COMMANDO (2).nes	REMOVED - Yori Yoshizuki - Beta
+b13c6c43b8b2796a8cff0071da2bb700	Conan - The Mysteries of Time.nes	REMOVED - Yori Yoshizuki - Beta
+291675db6838c57dbcda52eaebefc5ff	Conquest Of The Crystal Palace (E) [!].nes.nes	REMOVED - Yori Yoshizuki - Beta
+a7a11ac915c60b1e8a70ea1ea864753f	Constructor's Lode Runner (Lode Runner Hack) (J) [!].nes	REMOVED - Yori Yoshizuki - Beta
+54928236bd3984bd92724d4d98e8adcb	Conte_Enegy_(Lode_Runner_Hack)-spaces.im.nes	REMOVED - Yori Yoshizuki - Beta
+585d15bbee2b90f57fd8ac4ab1c5de11	Contra Aoi Version V1.7 Contra Hack) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+2f8f225268f55f27dc672de065707bc5	Contra Force (U) [o2].nes	REMOVED - Yori Yoshizuki - Beta
+3e9d6533d6fa2cad15d970a98acc15a0	Contra RF NST [010].nes	REMOVED - Yori Yoshizuki - Beta
+1d9ac8ecb79db61169a8c9e6dba87983	Contra Force (U) [T+ChS_TXFS][V2].nes	REMOVED - Yori Yoshizuki - Beta
+1364a9ff8aa128b9ab2210ed451110e7	Contra Force (U) [T+Rus1.11 MagicTeam (01.01.2009)] [hLevelSelect_NotBad].nes	REMOVED - Yori Yoshizuki - Beta
+f314f1317b659688cadd2c6699e6902e	Contra Spirits (1996) (Unl) [!]_unprotected_fastload.nes	REMOVED - Yori Yoshizuki - Beta
+bf044b6f32b4c946531ed6f083ee3142	Contra.nes	REMOVED - Yori Yoshizuki - Beta
+f9ae54fec78aab6c078444de0a931eca	Cornfed the Monkey - Santa's Last Hope - 1992 (MM5 Hack).nes	REMOVED - Yori Yoshizuki - Beta
+fd0c13c995e5df905ee60eaaa1432bc0	Cosmic Epsilon.nes	REMOVED - Yori Yoshizuki - Beta
+d69969e49d824ce2d796a96409f79d02	Cowboy Kid.nes	REMOVED - Yori Yoshizuki - Beta
+8e3315bee8e3bcaf73c2be9186a156f2	Crisis Force (J) [T+ChS_Chongchong].nes	REMOVED - Yori Yoshizuki - Beta
+a6d1e1d005b2b470747118c7739cefdb	Cross Fire (J) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+f8d61caab6e721f3dab43c7feb1ad514	Cross Fire.nes	REMOVED - Yori Yoshizuki - Beta
+e22436aaa18e06bf3e213648a218eb0b	Castlevania III - Dracula's Curse (U) [!] (DPCM Fix).nes	REMOVED - Yori Yoshizuki - Beta
+f231febdc38ddefc8f298c9379a7ef6f	Cybernoid [Rus] [InfLives].nes	REMOVED - Yori Yoshizuki - Beta
+a8e0edf3720dbb595abf36ca385cf82b	Crisis Force.nes	REMOVED - Yori Yoshizuki - Beta
+041e2c49368695f2352f51682fae4e51	Dai-2-Ji Super Robot Taisen (J) [T+ChS_Waixing][f2].nes	REMOVED - Yori Yoshizuki - Beta
+8177c5d7a8227f3711aa80c2fc914877	Daiku no Gen San 2 - Akage no Dan no Gyakushuu.nes	REMOVED - Yori Yoshizuki - Beta
+9aebb7d0e3f05639acc387c80c9f0a76	Danny Sullivan NST [008].nes	REMOVED - Yori Yoshizuki - Beta
+2e70c9c7734ecec2eacb0b4f00bf6426	Darkwing Duck - New Levels.nes	REMOVED - Yori Yoshizuki - Beta
+7b1746be3c807110d6735e7450d76849	Darkwing Duck - In Edoropolisrtal.nes	REMOVED - Yori Yoshizuki - Beta
+1c1501d4a9a205fc67f50c14db6992e4	Darkwing Duck 2.nes	REMOVED - Yori Yoshizuki - Beta
+77d12875527fc4c024c23026b84beda8	Day Dreamin Davey.nes	REMOVED - Yori Yoshizuki - Beta
+dfc1468ebbe3274f2a48f4280f7c9e99	De-Block - Deblock (Dendy) [!].nes	REMOVED - Yori Yoshizuki - Beta
+ee0e55dd7df17a204acd5f2b01425d0c	Deadly Towers.nes	REMOVED - Yori Yoshizuki - Beta
+5895aa13067e38a344ebc17b07adb65d	Deadpool Hardcore Edition-13.0-DANGER X.nes	REMOVED - Yori Yoshizuki - Beta
+941852dbe00216e0c8163fe7bec70b51	Dejectile.nes	REMOVED - Yori Yoshizuki - Beta
+7c3bbac738a3c72e1143b0abba3e33f2	Demon Sword.nes	REMOVED - Yori Yoshizuki - Beta
+25e4c81b91cce92b276055a93ad25273	Depth Bomb.nes	REMOVED - Yori Yoshizuki - Beta
+d282c93ce8c95aa3edebab532f3e0636	Devil World (J) (PRG0) [T+ChS_Chongchong].nes	REMOVED - Yori Yoshizuki - Beta
+3c9b2a502751e80c2c59534e8a5e5656	Dick Tracy.nes	REMOVED - Yori Yoshizuki - Beta
+db6d403dd7f49dd4cf09e9510dcfc098	Dig Dug II - Trouble in Paradise (U) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+d9989c3ac74de93ef195c18aa23fff02	Dig Dug (J) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+35d2a72b9f4b9e7d25c0f804446e839d	Dig Dug 2 - Trouble in Paradise.nes	REMOVED - Yori Yoshizuki - Beta
+c7ead65e75ad5e78c52ea9f892df7d2b	Digger Agent (Duck (Bit Corp) Hack).nes	REMOVED - Yori Yoshizuki - Beta
+b4bf9c6b628b67ca19954aefd8dc8b95	Digital Adventure (Tiny Toon Adventures 2 - Montana Land E Youkoso Hack) (Unl) (J) [!].nes	REMOVED - Yori Yoshizuki - Beta
+b1b0bb7f413599b12649a2434ef883e8	Dig Dug.nes	REMOVED - Yori Yoshizuki - Beta
+2435a1b3b5215b0fb9e851a39b711c90	Donkey Kong 2 Nuts Milk.nes	REMOVED - Yori Yoshizuki - Beta
+e0dc1b9a4c58423c99caeef30dccba0a	Dodgeball NST [004].nes	REMOVED - Yori Yoshizuki - Beta
+f65a625931fb1b959e8365d5714b920a	Doki! Doki! Yuuenchi Crazyland Daisakusen (Region Hack) (E) [!].nes	REMOVED - Yori Yoshizuki - Beta
+40d7d19bd97cd6b982583da39b1a5987	Don Doko Don (J) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+129d396d20f6d422ceec3dc4b01b86ed	Donald Land.nes	REMOVED - Yori Yoshizuki - Beta
+dcf57048ec6fe8aebf9f88da15a4f792	Donkey Kong (J) (PRG0) [T+ChS_Chongchong].nes	REMOVED - Yori Yoshizuki - Beta
+bc79685bc58d494c60464c65850be674	Donkey Kong (W) (PRG1) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+33534b0bdd0fb25718b01d8eff33398d	Donkey Kong 3 (W) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+db46ca041a42ae37f17adb0e78e59a24	Donkey Kong Jr. (J) (PRG0) [T+ChS_Chongchong].nes	REMOVED - Yori Yoshizuki - Beta
+85605f92fe5fbe2a02c71ae202ccd66d	Donkey Kong Jr. (W) (PRG1) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+c29bb887fb5531c41f769288453a0a2e	Double Dragon (E) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+02674023253024f6440311a9611bcb0d	Double Dragon II - The Revenge (J) [T+Chi_Ayuan][a4].nes	REMOVED - Yori Yoshizuki - Beta
+9a3ab64bb0ac53cabc74192226a77646	Double Dragon II - The Revenge (J) [T+Chi_Yefeng][t1] (Invincible).nes	REMOVED - Yori Yoshizuki - Beta
+dbf844df6d4ffaad99a13bd2726a7f35	Double Dragon III - The Rosetta Stone - Blood (Hack).nes	REMOVED - Yori Yoshizuki - Beta
+ae6b4e4766fe166c995d5fb534f8d426	Dough Boy.nes	REMOVED - Yori Yoshizuki - Beta
+247df622faada6e9abf6e482957983b0	Dr. Jekyll and Mr. Hyde.nes	REMOVED - Yori Yoshizuki - Beta
+32c65c90c05d3e25971dea86dbe8e4aa	Dragon Ball - Le Secret Du Dragon.nes	REMOVED - Yori Yoshizuki - Beta
+bb96a573fb76dc3310c36c8942a62af3	Dragon Fighter (J) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+7959e088de7fef417f3feafc2ecdbe2e	Dragon Ninja (J) (PRG0) [T+ChS_Chonger].nes	REMOVED - Yori Yoshizuki - Beta
+519e6b77dce5137f008856b68f97f2d2	Dragon Quest III - Delocalized (Dragon Warrior III Hack) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+28bc65638c5cdf9b61181150a6eb0c09	Dragon Unit (J) [T+ChS_Chongchong].nes	REMOVED - Yori Yoshizuki - Beta
+6998bb339de81650331efc381537cf38	Dragon Lair.nes	REMOVED - Yori Yoshizuki - Beta
+3e9ee6cbea3aa9fce69f1ce8ed36574a	Dragon Warrior.nes	REMOVED - Yori Yoshizuki - Beta
+807c1eb4d311d0590c742f1d66afd647	Duck Hunt (W) [T+ChS_Gaowei][V2].nes	REMOVED - Yori Yoshizuki - Beta
+d033f23016f9d2049a42c78e73d988a7	Duck Hunt (RUS) v.1.0.nes	REMOVED - Yori Yoshizuki - Beta
+022f313ddd92380ad78f9fce483d651b	Duck Tales - S3K music-Improvement1.0-Ti.nes	REMOVED - Yori Yoshizuki - Beta
+8adad32929dc53c3ffd6f4403aaac47d	Duck Tales 2.nes	REMOVED - Yori Yoshizuki - Beta
+88d21d9667358a18ed6100f24f4171c8	Duck Tales III (Unl) [o1].nes	REMOVED - Yori Yoshizuki - Beta
+49b3bc62d2b244227ff2af94b621638f	Dune War.nes	REMOVED - Yori Yoshizuki - Beta
+7daba5c23edaabe80abe773510c2daee	Dragon Warrior 3.nes	REMOVED - Yori Yoshizuki - Beta
+7666598d3644f697cce1f4046c54d6b3	Dynowarz - Destruction of Spondylus.nes	REMOVED - Yori Yoshizuki - Beta
+2154c18c668c23cc8bcc56e6f9709fe9	Earth Worm Jim 3.nes	REMOVED - Yori Yoshizuki - Beta
+efafd923b79f30d0f7b93dd11774480e	Electric Spelling Contest.nes	REMOVED - Yori Yoshizuki - Beta
+77b0195c2e45d843e18c82ad3dca3226	Elevator Action (J) [T+Chi_Wangfei].nes	REMOVED - Yori Yoshizuki - Beta
+a619b9553410cff76c0c025943d2f3b2	Eliminator Boat Duel (U T+Rus) [Survival for 2 players] by Kinbeas.nes	REMOVED - Yori Yoshizuki - Beta
+f53e876bb16701919560a939d128bc0e	Enchanter (Unl).nes	REMOVED - Yori Yoshizuki - Beta
+b16730a335858940528863f24bb55179	Difference (2).nes	REMOVED - Yori Yoshizuki - Beta
+261633ccdf4e285661666977b289a2e4	Excite Mario Bros.nes	REMOVED - Yori Yoshizuki - Beta
+614de66a1a55732771726523ce2252db	Exed Exes (J) [T+ChS_Gaowei][1016].nes	REMOVED - Yori Yoshizuki - Beta
+a81acfab8c4fc4f2d2ba82d7822668eb	Exerion (J) [T+ChS_Chongchong].nes	REMOVED - Yori Yoshizuki - Beta
+2e40c586e76ba4c0dd288d87800195d8	Expedition (Magic Madness Hack).nes	REMOVED - Yori Yoshizuki - Beta
+fc7cec10d8356caf01c18c498dbe092b	F-1_Race_[hack2016]-spaces.im.nes	REMOVED - Yori Yoshizuki - Beta
+8e509e1d0ce5e357328adeb7e3ecb667	FadeToBlack_V1.1.nes	REMOVED - Yori Yoshizuki - Beta
+41270c17731e10c9fb7b7ce8a7ecdb38	Famicom Network System - Super Mario Club (J) (ROM DOES NOT WORK!).nes	REMOVED - Yori Yoshizuki - Beta
+95acc8eaeaa6b09da4950e2eca05a7e0	Famikan (For Modern Emulators) (Unl) (J) [!].nes	REMOVED - Yori Yoshizuki - Beta
+1a950f87deaaf5dada64e791fab253bf	Famista '90-.09-T-ENG-FlashPV.nes	REMOVED - Yori Yoshizuki - Beta
+7ff0f31ea72fe70e41f31877b39c2db2	Fantasy Of Gun (Unl).nes	REMOVED - Yori Yoshizuki - Beta
+2ad7bffecff32c549f0a8549bdf951cd	FC Jing Ke's new cave map full bright version.nes	REMOVED - Yori Yoshizuki - Beta
+c17234e434dfaaf514074dc28d79c400	Felix The Cat (J) [!] (Hack).nes	REMOVED - Yori Yoshizuki - Beta
+e891137fb78ec522232546a5cc3d0348	Felix The Cat NoDim Hack By MrNorbert1994 (Felix The Cat Hack) (E) [!].nes	REMOVED - Yori Yoshizuki - Beta
+5f4e7d8c0c03b153f7357b7513cf76e4	Feng Sheng San Guo (v1.0) (Sangokushi Hack).nes	REMOVED - Yori Yoshizuki - Beta
+304d1821846ccb84bf2ad301bffaa599	Fester's Quest  v.1.0 (RUS).nes	REMOVED - Yori Yoshizuki - Beta
+5f3c87dcc99c3d2a246a4512c1399eab	FHBG.nes	REMOVED - Yori Yoshizuki - Beta
+c87248161a2eeed62656d6ba11ca8129	Field Combat (J) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+2a48014839dfdf89a7bc29c7b3d10b24	Field Combat.nes	REMOVED - Yori Yoshizuki - Beta
+295c3be7fb0a9846a4bd7da328f495dc	Final Commando - Akai Yousai (J) [T+ChS_LJL].nes	REMOVED - Yori Yoshizuki - Beta
+5e8680683bf4d1f5e1f114c88932469b	Cub Adventure.nes	REMOVED - Yori Yoshizuki - Beta
+ea2a0499a9baad816164619c38aba0e3	Chester Field - Ankoku Shin Heno Chousen - Chester Field - Ankoku Shin E No Chousen (Translation By Aeon Genesis) (J) [!].nes	REMOVED - Yori Yoshizuki - Beta
+504d2785a796e807fd07ddf1204d2625	Bionic Commando.nes	REMOVED - Yori Yoshizuki - Beta
+13027d113dbfb371cce82d03ae2cd17d	Daiku no Gen San.nes	REMOVED - Yori Yoshizuki - Beta
+637fa12a76caf5881cbb49afa697372f	Double Dragon II - The Revenge - Hard (Hack).nes	REMOVED - Yori Yoshizuki - Beta
+30c253481dbf656d3012e84fe2ab9011	Championship Lode Runner Kai (Hack).nes	REMOVED - Yori Yoshizuki - Beta
+8e52d46d93e22f2e26d8687dfdf051fa	Bao Qing Tian (Multicart Extract) (Unl) (As) [!].nes	REMOVED - Yori Yoshizuki - Beta
+0907100252b337e44bad10b484dd3d9b	Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku_CH_86898.nes	REMOVED - Yori Yoshizuki - Beta
+8d5ed813a85b05ca153b8810b2eec644	Convection (Unl).nes	REMOVED - Yori Yoshizuki - Beta
+209a788ceefe99bf61c1f9e1755de8af	Dragon Quest (Japan) [En by Polinym]1.1.nes	REMOVED - Yori Yoshizuki - Beta
+e5fe2aa3f52bb65e4bdd70a3ee63cbd0	Devildom Doom.nes	REMOVED - Yori Yoshizuki - Beta
+f5c99c6ead6f0a044247ca56a4b43c1b	Cheetahmen II (Unl) (U) [!] (Mapper 1).nes	REMOVED - Yori Yoshizuki - Beta
+43af16be4311d9522ecb624de7fb0bd1	Fear Fighter (Galg Hack).nes	REMOVED - Yori Yoshizuki - Beta
+a652c761726eeea48f5043ed50d6067b	Eientei Action (Elevator Action Hack).nes	REMOVED - Yori Yoshizuki - Beta
+8eced4829d0739be124cc982bd8afc4a	Bike Race 2 (Boat Race (RF) Hack).nes	REMOVED - Yori Yoshizuki - Beta
+5973edfa91a31623f533621638e6cbb7	Disney's The Little Mermaid (E) [!] (PAL Audio Driver Hack).nes	REMOVED - Yori Yoshizuki - Beta
+babbfd86fbaa1ec2bc6448e2e8459082	Classic Puzzle 2 (Hexa Hack).nes	REMOVED - Yori Yoshizuki - Beta
+aefe90febbaf7ccaab825f294aa48290	Dragon Ball Z II - Gekishin Freeza!! (Ch) [f1].nes	REMOVED - Yori Yoshizuki - Beta
+2eb016c4112245f208c761050e2c4cee	Chocoblip_Alpha_0.1.nes	REMOVED - Yori Yoshizuki - Beta
+8ba324d0fa1ad9020a7a12fbb14b7dd2	BATTLECITY4IN1(chinase).nes	REMOVED - Yori Yoshizuki - Beta
+90ca861f2d98b2e65166c13ceb43515f	Batman Returns.nes	REMOVED - Yori Yoshizuki - Beta
+306dc20a8803973f62973b52901a96a2	FINes-2021.2.7-alpha.nes	REMOVED - Yori Yoshizuki - Beta
+0ecc586de4d14903f83ac2b0f277e683	Difference.nes	REMOVED - Yori Yoshizuki - Beta
+9deb6fa12a78c09f4c8a04cfe585df0a	Edacity Snakes.nes	REMOVED - Yori Yoshizuki - Beta
+ebacf1fbe7be1624faac69f251ab0fa4	Cookies Labyrinth.nes	REMOVED - Yori Yoshizuki - Beta
+a129e747a8bf7b3de497686cb77156f1	Battle City (J) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+7c047f50595bcaac171bd187ba53d53f	Cheetah Manio Bros.nes	REMOVED - Yori Yoshizuki - Beta
+50735bbda158369c1bf6204a52edf5c1	Aquarium.nes	REMOVED - Yori Yoshizuki - Beta
+e8ffdcde93fd3a023e1901d6f6ce744e	Arctic (Trained) (J).nes	REMOVED - Yori Yoshizuki - Beta
+01a54fc51f3154ecee9bf82e9099cc3a	BreakThru.nes	REMOVED - Yori Yoshizuki - Beta
+cef07b7197f28dc74ea2365ae8b07597	Chou Jinrou Senki - Warwolf (J) [T+Rus uBAH009 (10.08.2019)].nes	REMOVED - Yori Yoshizuki - Beta
+02d1b104c7424b7209814e0774e9d6f4	Dropzone (U) (Hack) [!].nes	REMOVED - Yori Yoshizuki - Beta
+b0f68367b7edb3de30b64b43d147a134	F1 racing time is not reduced.nes	REMOVED - Yori Yoshizuki - Beta
+eee6a313eb7f6b67b5b9a6325fd85d42	Cannonade.nes	REMOVED - Yori Yoshizuki - Beta
+6ea1a4fa4a0057a3c18c7a0e73158ba9	98-in-1 (118-in-1) (0404) (KD-012A_20210129) (Unl) [p1].nes	REMOVED - Yori Yoshizuki - Beta
+565ed814c82719a2e6f9c3af4b7345e6	100_in_1.nes	REMOVED - Yori Yoshizuki - Beta
+f5326014af194552e5527a71147b3f07	93' Optimized - Easy (Contra Hack) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+1096eb6d759b69400bbccc2c6d8a5571	11.SHSDMMC3j.nes	REMOVED - Yori Yoshizuki - Beta
+79d8f652f38af5fe6da782673eaa98f2	121 In 1 (Mapper 58) (Unl) (As) [!].nes	REMOVED - Yori Yoshizuki - Beta
+c2e111b891981da901878554ed95fe6d	150-in-1 (PocketGames ZYX-8B2976) (Unl) [o1].unif	REMOVED - Yori Yoshizuki - Beta
+4711c6605a65be3323f8b21312398314	2007_increment_glitch_test_write.nes	REMOVED - Yori Yoshizuki - Beta
+0048d2a6e14366fe54164f6b62d69f4c	Feng Shen - Feng Ming Qi Shan (v1.5) (Sangokushi Hack).nes	REMOVED - Yori Yoshizuki - Beta
+abee0ab61c450be92b6aaa123b4714ed	340-in-1 (CoolBoy) (Unl) [!].unif	REMOVED - Yori Yoshizuki - Beta
+e9788319c5abe1ff0a065b0828abe2d7	Chip to Dale no Daisakusen 2 (J) [T+Chi1.1_HHNM].nes	REMOVED - Yori Yoshizuki - Beta
+52a07c55c1054cceed15ef927c0f4f35	402-in-1 (CoolBoy) (Unl) [!].unif	REMOVED - Yori Yoshizuki - Beta
+fb5da4492cd626bf2f9a7ac2c5e511af	!Clik! By Sly Dog Studios (2008) (Public Domain) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+bb3bda850f930b43f1eb958f66becbee	$8000-$ffff.nes	REMOVED - Yori Yoshizuki - Beta
+00d101cda7336ab8ef6775faf37878b2	$8000+$c000.nes	REMOVED - Yori Yoshizuki - Beta
+5cfa627824a0d4ca42facc30e3bb44f8	0.01f.nes	REMOVED - Yori Yoshizuki - Beta
+9d274ddd231bd2deb049be88268154b8	00.nes	REMOVED - Yori Yoshizuki - Beta
+9344adee8098a4daf6151b3f5391f36b	000.nes	REMOVED - Yori Yoshizuki - Beta
+501ffb9c44863914e0155adab5bcbc30	100 In 1 Contra Function 16 (Unl) (As) [!].nes	REMOVED - Yori Yoshizuki - Beta
+3e179340ff2df4e781f227e02b05cc99	12 In 1 (MMK-017-06) (Unl) (As) [!].nes	REMOVED - Yori Yoshizuki - Beta
+810dcbedfb941dcce3ffc3d7b9420ec6	1942 (JU) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+deea58df1f621dee353be97d1ecb5059	1942 v.1.0 (RUS).nes	REMOVED - Yori Yoshizuki - Beta
+8f1d213cba6d8e49ed3169a5ae3f8d11	1942.nes	REMOVED - Yori Yoshizuki - Beta
+116cc678ac57ed2f8bb12a74d1436cc4	1995_week_1.nes	REMOVED - Yori Yoshizuki - Beta
+2e5bc1db8b5e1cf42fb61033a5a1d812	1996_week_0.nes	REMOVED - Yori Yoshizuki - Beta
+488b1165fa13c0df185e6f2c4e660835	2 In 1 (Super 808) (Unl) (As) [!].nes	REMOVED - Yori Yoshizuki - Beta
+d03ba9fba22a53070f0692990649aef6	2 In 1 1996 Super HIK Gold Card (NT-803) (Unl) (As) [!].nes	REMOVED - Yori Yoshizuki - Beta
+d8673d13cafda1edf09b9ff5d08b842f	2007_increment_glitch_test_read.nes	REMOVED - Yori Yoshizuki - Beta
+3b4257cc96e4a556748f177948e4119a	3 In 1 (8096 PCB) (Unl) (As) [!].nes	REMOVED - Yori Yoshizuki - Beta
+f13b4abe7d57938ae5860831abc6f81e	3 In 1 (BN096) (Unl) (As) [!].nes	REMOVED - Yori Yoshizuki - Beta
+2b698188d167fcaa8fe3f09a236d4acd	3 In 1 (MR028) (Unl) (As) [!].nes	REMOVED - Yori Yoshizuki - Beta
+f0ec715662fed6a0eca7a3f6047aa80f	3 In 1 (MR029) (Unl) (As) ][!].nes	REMOVED - Yori Yoshizuki - Beta
+c119e58698afe28896da2100210b675d	3-in-1 (T4A54A) (Unl).unif	REMOVED - Yori Yoshizuki - Beta
+1042a81be4e5c21fbbce2219c40e0dc9	3-in-1 (YH346) (Unl).unif	REMOVED - Yori Yoshizuki - Beta
+3ac8e54b9e53d2e4e3f43fdd5979c288	4 Nin Uchi Mahjong (J) (PRG0) [!].nes	REMOVED - Yori Yoshizuki - Beta
+4bd3fec19431fc722c2cd1aa899876bc	4 Nin Uchi Mahjong (J) (PRG1) [!].nes	REMOVED - Yori Yoshizuki - Beta
+9c5d66049a9f4ef7566b4f444d6ec439	4-in-1 (1403, KY-040B_20210131) (Unl) [p1].unif	REMOVED - Yori Yoshizuki - Beta
+c13e9ac06bf5b08effc3d5e86222bdd2	4-in-1 (V3) (Reset Base) (Unl).unif	REMOVED - Yori Yoshizuki - Beta
+66267484b0bc4269a77d28e64ef620a8	4-in-1 (YH401) (Unl).unif	REMOVED - Yori Yoshizuki - Beta
+b92a9bfe3168e8ad5bf1fbe99575b91c	62.nes	REMOVED - Yori Yoshizuki - Beta
+90bd5dd381cb276e88a3566d2ef07690	7100937.nes	REMOVED - Yori Yoshizuki - Beta
+f8ce07797cdeceab85a874d48065102f	720 degrees (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+8408155b176466c4175fb8ecadc3efde	80 In 1 (Unl) (As) [!].nes	REMOVED - Yori Yoshizuki - Beta
+a90d514a6102a3250d0441fb18f931cc	8in1 Little Mermaid(Unl)(invulnerability, start at full health).nes	REMOVED - Yori Yoshizuki - Beta
+b0d28ead8f1a6f6550cb2065ea60f859	93' Optimized - Available For 2 Players (Contra Hack) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+5c37d768b3422d50e012c3163f823cc3	93' Optimized - Complete (Contra Hack) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+de11c0c8256c7d70ca6a629dc95a6b4c	9999999 In 1 (1000000 In 1) (KD-6037-B) (Unl) (As) [!] (Nintendulator NRS Only) (Cartridge No. 1).nes	REMOVED - Yori Yoshizuki - Beta
+cb6ad7fe41be1a63f2edcd0c7aba8084	9999999 In 1 (Lion King) (Unl) (As) [!].nes	REMOVED - Yori Yoshizuki - Beta
+a8ffd2014e14dac3cb040669eb312b9e	9999999 In 1 (NC-08A) (Unl) (As) [!].nes	REMOVED - Yori Yoshizuki - Beta
+714ef39deb83b0982b03ee01700f281c	A Girl's Journey-Gabriel Dinu.nes	REMOVED - Yori Yoshizuki - Beta
+dcc9888560cc6641e828b249e40f7aa8	A Nightmare On Elm Street (NES Four Score Mod For Famicom) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+77ddd101de4d2af7332e38ecc3454184	A Simple Quest-1.0-Gabriel Dinu.nes	REMOVED - Yori Yoshizuki - Beta
+daedd9466b559a72c52cfb7b95d6d5f7	A-Hard Mode of Contra[Complete] AzStar.nes	REMOVED - Yori Yoshizuki - Beta
+d5f7e47cc96495375c259225def73862	Abadox - Jigoku No Inner Wars (J) (Correct Intro Tile) [!].nes	REMOVED - Yori Yoshizuki - Beta
+19471dbea5914a4890bfbd1174b5a350	Abadox - The Deadly Inner War (U) (Correct Intro Tile) [!].nes	REMOVED - Yori Yoshizuki - Beta
+6517e609e76688a8d5f08fc9154a7c97	About Gremlins 2 - The New Batch.nes	REMOVED - Yori Yoshizuki - Beta
+64bf8c92ae428afe481ec55ee9fedf56	About_Nightshade_(RUS).nes	REMOVED - Yori Yoshizuki - Beta
+c0ec50c677599afe1d7182be0d958ecd	Abscondee.nes	REMOVED - Yori Yoshizuki - Beta
+cb52b5f92ac56038d26a764ad0d09609	Addams Family Nes Dx (The Addams Family Hack) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+6484cca746014ffce765b6ef242547c9	Addams Family Nes Dx-1.0-Fray.nes	REMOVED - Yori Yoshizuki - Beta
+3b844eca2090c85790158c8debf9ae91	Addams Family The - Pugsley s Scavenger.nes	REMOVED - Yori Yoshizuki - Beta
+e18cbdfe6dae3af7f0ca2dc238985cd2	Advanced Numbers (Shudu (VT02) Hack).nes	REMOVED - Yori Yoshizuki - Beta
+d96399dbcb6684797dc0b3fbcd8d6e7f	Adventure (Frog Prince Hack).nes	REMOVED - Yori Yoshizuki - Beta
+400905b4ddbd434532dd3cd19b832cce	Adventure Island 2.nes	REMOVED - Yori Yoshizuki - Beta
+c5434e6433cc5c45b9b2fbd67aa83e47	Adventure Island 3.nes	REMOVED - Yori Yoshizuki - Beta
+941730daee3cdf47bd429dc877e4a495	Adventure Island 4.nes	REMOVED - Yori Yoshizuki - Beta
+0a17e0594ca8b99938452e41d7939355	Adventures of Captain Comic.nes	REMOVED - Yori Yoshizuki - Beta
+e994ac36c25d2c3f0f05c7b1370623ff	Adventures of Dino Riki The.nes	REMOVED - Yori Yoshizuki - Beta
+20988ad94817b4517e14eb44b9037fc7	Adventures of Lolo 1.nes	REMOVED - Yori Yoshizuki - Beta
+ebd47fffc57df656ea76b47c71a5243a	Adventures of Lolo 2.nes	REMOVED - Yori Yoshizuki - Beta
+db91da3c7c63a18042ca08eb36f500ed	Adventures of Lolo 3 (U) GustMF].nes	REMOVED - Yori Yoshizuki - Beta
+f37d4c3bfea6fc142ad49ed4bcf860da	Adventures of Lolo 3.nes	REMOVED - Yori Yoshizuki - Beta
+ac9df5f37776733a4ac577e2405f6e53	Adventures of Rad Gravity.nes	REMOVED - Yori Yoshizuki - Beta
+660d651c2be25cf20e1aef57df1fccc5	Adventures of Rocky and Bullwinkle and Friends.nes	REMOVED - Yori Yoshizuki - Beta
+95a08554114b7cdc2192f1826c4fcf99	Adventures of Tom Sawyer.nes	REMOVED - Yori Yoshizuki - Beta
+2fdaddf816689ead08450ec8231f166a	Aero Gyrodine (G-3 Cobra of Sky Hack).nes	REMOVED - Yori Yoshizuki - Beta
+b6370684872382d31a9774b8d2865334	Aero Gyrodine.nes	REMOVED - Yori Yoshizuki - Beta
+04696b953fe40d8016b0cd4c191dfb65	Aether Cruiser.nes	REMOVED - Yori Yoshizuki - Beta
+cd6fef4fa7ea90105fce0618407363b8	AFF Challenge (Mega Man Hack) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+5689c4938af12ce1bfff7fbbeecc7ecd	AFF Challenge (MM1 Hack).nes	REMOVED - Yori Yoshizuki - Beta
+d74c26074c2ec1801c900079780d7e84	Airwolf (E) [!].nes	REMOVED - Yori Yoshizuki - Beta
+f035a3d487ad24c7bed34126ebedde8c	Airwolf (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+fe19ed76490358675859876f4a70f7fa	Akumajou Densetsu (J) [T+ChS_HHNM][v2.3].nes	REMOVED - Yori Yoshizuki - Beta
+2cb2463cc3331e150e6c4370fdee7e4f	Akumajou Densetsu.nes	REMOVED - Yori Yoshizuki - Beta
+2e6318857dd3b993ccee3c8163735d06	Akumajou Dracula (J) [T+ChS_Chonger].nes	REMOVED - Yori Yoshizuki - Beta
+b98e2a48ce547c76ec4b6d6b0c54f5f9	Akumajou Special - Boku Dracula-kun (J) [!]_don't get pushed.nes	REMOVED - Yori Yoshizuki - Beta
+13a6f65396af870842171c717a6561de	Aladdin (E) [!].nes	REMOVED - Yori Yoshizuki - Beta
+0aa45d4d45629e7ac7b109df83dc7f36	Aladdin (Hummer Team) (Unl) (As) [!] (Button Fix - Proper Music Tempo).nes	REMOVED - Yori Yoshizuki - Beta
+148e1188a79581be55f94f67af0599d9	Aladdin 2 (Unl) (Ch) [!].nes	REMOVED - Yori Yoshizuki - Beta
+d25ea3c5bd53ca31d90579a1505daeb3	Aladdin 2.nes	REMOVED - Yori Yoshizuki - Beta
+26c19064fd000b7351da5c1a5e2bb4a6	Aladdin 4 Hummer Team Deluxe-Mario Bendor.nes	REMOVED - Yori Yoshizuki - Beta
+50698f83537427729a20cae0999b7cf4	Alfonzo (PD) [T-Rus uBAH009 (04.09.2019)].nes	REMOVED - Yori Yoshizuki - Beta
+3123d144a328025b8b5bda872eaf0daa	Alien 3 (U) [!] inf_time_no_timer.nes	REMOVED - Yori Yoshizuki - Beta
+d605cf751da8131e898451d73f35edae	Alien 3 (U) [!] inf_time.nes	REMOVED - Yori Yoshizuki - Beta
+1129ac64d69a4609659e56be7fd5f78a	Alien 3 (U) [T+ChS_Mezaransu][v1.0].nes	REMOVED - Yori Yoshizuki - Beta
+46bf31d1ef0f86890be82ec0e2b2c653	Alien 3.nes	REMOVED - Yori Yoshizuki - Beta
+771b31a27b12ff013453941ba9ceeabd	Alien Battle (Space Invaders Hack).nes	REMOVED - Yori Yoshizuki - Beta
+2cc863e12f22d10ba526066c34eb0d0f	Alien Battle (Space Invaders Hack)(1).nes	REMOVED - Yori Yoshizuki - Beta
+95f16bdfefc49f5d31c963e236675fe7	Alienis (Unl).nes	REMOVED - Yori Yoshizuki - Beta
+e32532b64fc55e979922ba02387af37d	All Elite Wrestling 2020-1.0-pacnsacdave.nes	REMOVED - Yori Yoshizuki - Beta
+54fe33245d321acd7dc292e8d296dede	Alpha Mission (U) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+e435b7f7bef5cff60f93c70258375c33	Alpha Mission.nes	REMOVED - Yori Yoshizuki - Beta
+c113e358432c36e72463dab262fa8252	Alter Ego By Shiru - Alexander Petrovics Semenov (Spectrum Conversion) (Public Domain) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+274f5e1d50d0a0ca8533cbe06752b423	Among Us (Mrs. Pac-Man Hack).nes	REMOVED - Yori Yoshizuki - Beta
+b38c351343c44aa533c04a34ea1949a9	Aoki Ookami To Shiroki Mejika - Genghis Khan (J) [!].nes	REMOVED - Yori Yoshizuki - Beta
+be796b798b530ff335a77504f90a1b6f	Apple Chess (Unl).nes	REMOVED - Yori Yoshizuki - Beta
+dccf84fe817ce35a8e3e2fe04381e909	Arch Rivals - A Basketbrawl! (E) [!].nes	REMOVED - Yori Yoshizuki - Beta
+9d1513911eb56b7b8e3da2ad18289800	Archery.nes	REMOVED - Yori Yoshizuki - Beta
+33fe53e456068efe98d7bfed72ee5add	Arkanoid II NST [004].nes	REMOVED - Yori Yoshizuki - Beta
+cef5023dd7189fbc30395e1e6a85d7e6	Arkanoid v.1.0 (RUS).nes	REMOVED - Yori Yoshizuki - Beta
+c115645c3529dd7104bba7fb93b81137	Arkista's Ring (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+18d67c9665238e9c160a8aabc837d961	Arkista's Ring (U) [T+ChS_Chongchong][1982].nes	REMOVED - Yori Yoshizuki - Beta
+bac23722126030f73dd4dea1c3a9bed6	Attack Of The Killer Tomatoes (E) [!].nes	REMOVED - Yori Yoshizuki - Beta
+9f1095cebe0196ec6d4e07f691476a92	Attack Of The Killer Tomatoes (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+2c9a633cf490c7185ff034411554fcca	Attack of the Killer Tomatoes.nes	REMOVED - Yori Yoshizuki - Beta
+efbf809fdb18f1a86e93cbdb6d749d2e	Attacking (Unl).nes	REMOVED - Yori Yoshizuki - Beta
+5b81f589b490fa2ebf81d1a10ee8b207	Axelay (Public Domain - NES Tech Demo) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+037cd16a9b68aa875183d7b006a5600b	B-Wings (2).nes	REMOVED - Yori Yoshizuki - Beta
+27573c024c12cd2f8e54192a3e8f41d2	B-Wings (J) [T+Chi_Wangfei][t1] (Invincible).nes	REMOVED - Yori Yoshizuki - Beta
+c20d0297abd51f3d168fa7518b029263	Back to the Future II.nes	REMOVED - Yori Yoshizuki - Beta
+5a9df86466df3df041b7d7534f1ecb01	Back To The Future Part II & III (U) (Trained ROM) [!].nes	REMOVED - Yori Yoshizuki - Beta
+3bf7cede195e17dc40445fd81a174e93	Back to the Future-Enhanced-1.1-pacnsacdave.nes	REMOVED - Yori Yoshizuki - Beta
+e5e9c7f7b5152c336e2b8b5a911396cf	Back to the Future(Music Fix)-1.0-pacnsacdave.nes	REMOVED - Yori Yoshizuki - Beta
+b62f0cf93cbdcf3ac6fb90d8b722b88c	BackgroundTileDemo_20200927_180200.nes	REMOVED - Yori Yoshizuki - Beta
+5fcfffeed93a43b2122de836ab41fc9c	BackgroundTileDemo_20200927_181900.nes	REMOVED - Yori Yoshizuki - Beta
+d0bb5375a3e89803d29b036291e4063d	BackgroundTileDemo_20200927_183100.nes	REMOVED - Yori Yoshizuki - Beta
+bfcd02a44f78ef1b6962ccccbc8c3364	BackgroundTileDemo_20200928_162500.nes	REMOVED - Yori Yoshizuki - Beta
+9f569b91449a17fb452887716c883353	BackgroundTileDemo_20200928_231600.nes	REMOVED - Yori Yoshizuki - Beta
+14cbf59e65bb69444bd61d5a0cd3d570	Ball by Fire (PD) [a1].nes	REMOVED - Yori Yoshizuki - Beta
+6c06016f3b1ec1febe1ec71759e2d3a8	Baseball (Unl).nes	REMOVED - Yori Yoshizuki - Beta
+76b90eabd458bf21e47f70c8b6bbef70	Batman The Dark Knight-2.9.6-Osman Color.nes	REMOVED - Yori Yoshizuki - Beta
+0020adec4729c272f89660af9b4a6b23	Batman Unmasked-Osman Color-1.23.nes	REMOVED - Yori Yoshizuki - Beta
+adcd003b0228f258280e0554bd74abe2	Battle City (J) [T+ChS_Chongchong].nes	REMOVED - Yori Yoshizuki - Beta
+5f8c7b1513cf3d0bafb053afa1fed48e	Battle City.nes	REMOVED - Yori Yoshizuki - Beta
+d4ce15628294d9f65973638a26873338	Battle City001.nes	REMOVED - Yori Yoshizuki - Beta
+dd906bd091c59813b09807739b3ec584	BATTLE CITY123MAPS.nes	REMOVED - Yori Yoshizuki - Beta
+63513671e86535eae9b98274c5159fdd	Battle Kid - Fortress of Peril (test).nes	REMOVED - Yori Yoshizuki - Beta
+34567ae6ee7954aeaa32fd97c7165101	Battle Kid.nes	REMOVED - Yori Yoshizuki - Beta
+4f21712dc620d9e4da02d76c90a2fd3a	Battle Tank.nes	REMOVED - Yori Yoshizuki - Beta
+c20d40894d653ebcdc295b03fd284845	Battletoads & Double Dragon.nes	REMOVED - Yori Yoshizuki - Beta
+9a196518f34dc85ff98de43bcb221069	Battletoads changed colors v.1.1 [T+Rus_MagicTeam].nes	REMOVED - Yori Yoshizuki - Beta
+6ca25e6017c3a5a17fd07e16c5e6e122	BIGDTECMO_4_071120_mk3.nes	REMOVED - Yori Yoshizuki - Beta
+26716cd63d9110b6ec92c41c949e606f	Bio Miracle Bokutte Upa.nes	REMOVED - Yori Yoshizuki - Beta
+660e3f47ad1bdab1c2ef74f390910610	Blades of Steel NST [053].nes	REMOVED - Yori Yoshizuki - Beta
+94f7f604940e45f74b59e4256cda690c	Blaster Master (USA) MMC5 Patch Dracula X.nes	REMOVED - Yori Yoshizuki - Beta
+3780556dbe5be73a90f0b16ea5240242	Blaster Master (Wastelands) (Blaster Master Hack) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+bb2a3c12820f59c78ea3540e02370c77	Blaster-Master (Wastelands) 2.5 SkyLizardGirl.nes	REMOVED - Yori Yoshizuki - Beta
+34794752394caeb97b6cebe0cab05362	Boogerman.nes	REMOVED - Yori Yoshizuki - Beta
+7d0c862529fad7eee96a97209eb16132	Boulder Dash (J) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+3d75d0e577e8659fbc3c57494436e88e	Boxing Wrestle (Unl).nes	REMOVED - Yori Yoshizuki - Beta
+32f7a0806fe1c7a977d90249ed7e5ac7	Boy and His Blob A - Trouble on Blobolonia.nes	REMOVED - Yori Yoshizuki - Beta
+bba30124ec6aad73994beb19dc16072c	Bronze Ace Squadron (Sky Invader (Sky Destroyer) Hack).nes	REMOVED - Yori Yoshizuki - Beta
+0f400f748ca1cd7cc4b2af5c570e3863	BTDD Modhack NST [001] [256_spr].nes	REMOVED - Yori Yoshizuki - Beta
+8ff7ef0db42f0373c824ecd077c63386	BTDD Modhack NST [002] [256_spr].nes	REMOVED - Yori Yoshizuki - Beta
+7ebc6318b5fe9cdebcf1f8c4ea98bb47	BTDD_01.nes	REMOVED - Yori Yoshizuki - Beta
+897a9ca108a1c3a6912faf2bb57c1661	BTDD_02.nes	REMOVED - Yori Yoshizuki - Beta
+2c68b5ca96f1e231cc79b41da2110078	BTDD_HACK_L7_TEST24.nes	REMOVED - Yori Yoshizuki - Beta
+5fd28a0aa47aa88ca5ca2aa2aa1960de	BTDD_MODHACK_L7_v1_3_FIX_HARDCORE_TEST3_256_spr.nes	REMOVED - Yori Yoshizuki - Beta
+756fc8c762e1c6d7c5d471b26e94c8b9	Bugs Bunny Crazy Castle The.nes	REMOVED - Yori Yoshizuki - Beta
+e7c8a70616394f13cfd7135997ff40d1	BURAIFIG[hack].nes	REMOVED - Yori Yoshizuki - Beta
+2cb1e1e4e88e831412c04243adb7bc36	Cabal.nes	REMOVED - Yori Yoshizuki - Beta
+58db075c4cc043fc426b308f24468b3d	California Raisins The - The Grape Escape.nes	REMOVED - Yori Yoshizuki - Beta
+9be9f29b6478f14c4aa4647e04d770ad	Caltron - 6 In 1 (Unl) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+d0c7189b164858e429fcb0a9a81b7bad	Castle Excellent [h] by Miha v.1.3.0.nes	REMOVED - Yori Yoshizuki - Beta
+c2d3e690838e6bfc96d5098a82e7bde7	Castle Excellent.nes	REMOVED - Yori Yoshizuki - Beta
+f2cba1a8f298efd5008028a7066415a1	Castlevania 3 - Linear Version (Akumajou Densetsu Hack) (J) [!].nes	REMOVED - Yori Yoshizuki - Beta
+e496c869d7ff087a5b48571e9fe9df49	Castlevania II - Simon's Quest (U) [T+ChS1.1_Nonamed].nes	REMOVED - Yori Yoshizuki - Beta
+8a841b62aafb3b904f25164fbe8ce713	Castlevania III - Dracula's Curse (E) [!] (DPCM Fix).nes	REMOVED - Yori Yoshizuki - Beta
+5162c1921a031cff258250cf395ed914	Castlevania III - Dracula's Curse (U) [!] (Better DPCM).nes	REMOVED - Yori Yoshizuki - Beta
+a4af0e2b3a2c2c3e2ed6b0c201d390ac	Castlevania III - The illusion.nes	REMOVED - Yori Yoshizuki - Beta
+b3d4d5a7c7adfa419a6d253db2c547c5	Chip  n Dale 3.nes	REMOVED - Yori Yoshizuki - Beta
+5d89a7eb48754465d1ff8f78e6880030	Choplifter.nes	REMOVED - Yori Yoshizuki - Beta
+bbcb4e8d986f251cb90a28497a6dfe67	Chuuka Taisen.nes	REMOVED - Yori Yoshizuki - Beta
+ec00a8c12f0e6f903549ec49942bb454	Circus Charlie (J) [T+Chi_Wangfei].nes	REMOVED - Yori Yoshizuki - Beta
+68e50a7ac5cf7c8d08d69a6b77f2e7d1	Circus Charlie (J) [T+ChS_Chongchong][1982].nes	REMOVED - Yori Yoshizuki - Beta
+2c2269f9c7a0aa8955e83c1e1c27ae2e	Circus Charlie (J).nes	REMOVED - Yori Yoshizuki - Beta
+6fae75eb10e240a19e792c2646a0c8bc	Classic Puzzle (Hexa Hack).nes	REMOVED - Yori Yoshizuki - Beta
+be1a3c83f63ec973c7f7676c26c7d7da	Clu Clu Land (W) [T+ChS_Chongchong].nes	REMOVED - Yori Yoshizuki - Beta
+22d09406821cf1a7f1154f834d0455c6	Columns (Hexa Hack by lancuster).nes	REMOVED - Yori Yoshizuki - Beta
+bca44ab3e89b9b95110741c765187fa7	Columns (Hexa Hack by lancuster)(Easy Mode).nes	REMOVED - Yori Yoshizuki - Beta
+a8d18a252585fe0b892099efbe2eb111	Contra 1 US version wondering A [a2].nes	REMOVED - Yori Yoshizuki - Beta
+6b6ab7a180245807b7574d870625140e	Contra 1 US version wondering A [a3].nes	REMOVED - Yori Yoshizuki - Beta
+117b9e071bf6d8ff53635ac67eb685aa	Contra 4 in 1.nes	REMOVED - Yori Yoshizuki - Beta
+090586ab989e689167a030cff5c17b39	Contra 5.nes	REMOVED - Yori Yoshizuki - Beta
+d3c4344eb7a3cf771c840abe7c9b32b2	Contra 8.nes	REMOVED - Yori Yoshizuki - Beta
+dc8758197cc226d7c45c49c23905d4cd	Contra Air.nes	REMOVED - Yori Yoshizuki - Beta
+5308f234721073d3a80e502a59ecabfe	Contra Aoi Version V1.6 Contra Hack) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+ca45b950614f3031660b19010c53d4da	Contra Force (U) [!] [hLevelSelect_NotBad].nes	REMOVED - Yori Yoshizuki - Beta
+1cea692583ac16060a06215dcb909afe	Contra Revenge of the Red Falcon.nes	REMOVED - Yori Yoshizuki - Beta
+3555e0d5ce6b6352451fc54fbb707cb9	Contra RF NST [001].nes	REMOVED - Yori Yoshizuki - Beta
+000b3897779bb2517ee294ebf7f4eab2	Contra Spirits.nes	REMOVED - Yori Yoshizuki - Beta
+cdd44d3261475db7e597d4ca9278ad16	Contra_Deadpool-spaces.im.nes	REMOVED - Yori Yoshizuki - Beta
+2fbbe04495f4deeceaea5a7371170e78	Cricket Cup 2019 (International Cricket (Waixing) Hack).nes	REMOVED - Yori Yoshizuki - Beta
+f11a4bdf686ea0a447329059bf0f947c	CT2.Ep.nes	REMOVED - Yori Yoshizuki - Beta
+3bbed7688098829dc9a49a076f0f806c	Danny Sullivan NST [001].nes	REMOVED - Yori Yoshizuki - Beta
+c952a1f69ced37b05dd14be3886db80d	Danny Sullivan NST [003].nes	REMOVED - Yori Yoshizuki - Beta
+7af0521f03bd2c3c18a74a1a522341f9	Danny Sullivan NST [004].nes	REMOVED - Yori Yoshizuki - Beta
+a466649418f1c8e7909932897b070ee2	Danny Sullivan NST [005].nes	REMOVED - Yori Yoshizuki - Beta
+05fc5e7f1f58b839756dfdca438313b7	Danny Sullivan NST [006].nes	REMOVED - Yori Yoshizuki - Beta
+a2b6321fba3c9e945612123a9c4f43ce	Danny Sullivan NST [007].nes	REMOVED - Yori Yoshizuki - Beta
+e3316cc2ed609aac40ac379d7238ce1e	Days Of Thunder (Mindscape) (U) (Prototype) [!].nes	REMOVED - Yori Yoshizuki - Beta
+ecb892a83d0cf14d1e8343baabe5e744	Diamond (2).nes	REMOVED - Yori Yoshizuki - Beta
+5484716d4b465a5446bd6e17c168fdca	Diamond (3).nes	REMOVED - Yori Yoshizuki - Beta
+2a03386a62c2f0230d88dd8e08326893	Diamond (Unl) (4).nes	REMOVED - Yori Yoshizuki - Beta
+3e472a5c1478d8b9f1e37aca3081d24f	Digger - The Legend of the Lost City.nes	REMOVED - Yori Yoshizuki - Beta
+82fd0ab1519611b106a77db35127af04	Dirty Harry.nes	REMOVED - Yori Yoshizuki - Beta
+acce8381ec436164bfd2b2d84553fc47	Disney's Chip 'N Dale - Rescue Rangers 2 (E) [!] (Pitch Fix).nes	REMOVED - Yori Yoshizuki - Beta
+420238290acf2ad6e687caeed7d5993f	Dodgeball NST [001].nes	REMOVED - Yori Yoshizuki - Beta
+366a9e8f086103c044f2d73e37a94cf4	Dodgeball NST [003].nes	REMOVED - Yori Yoshizuki - Beta
+4ba744aa8c2178cc1e50a9afbe5c4fc8	Donkey Kong (W) (PRG1) [T+ChS_Chongchong].nes	REMOVED - Yori Yoshizuki - Beta
+5f4d688aee0e66483e5ba444494b0065	Donkey Kong 3 (W) [T+ChS_Chongchong].nes	REMOVED - Yori Yoshizuki - Beta
+d11762b858cfe65e7bdbb13be24d1adb	Donkey Kong 3 (W) [T+ChS_Chongchong][a1].nes	REMOVED - Yori Yoshizuki - Beta
+9d55c5bcc86265546fdf8dfff89e918f	Donkey Kong 3.nes	REMOVED - Yori Yoshizuki - Beta
+28be146288930f9558db786fe8187580	Donkey Kong Country 4.nes	REMOVED - Yori Yoshizuki - Beta
+cea314641c6619925d8d6438850d2bc4	Donkey Kong Jr. (W) (PRG1) [T+ChS_Chongchong].nes	REMOVED - Yori Yoshizuki - Beta
+0c27f6c3677c50ddc8459aac4c2e2cef	Double Dragon II - The Revenge - Hard (Hack) [a1].nes	REMOVED - Yori Yoshizuki - Beta
+c28d7434ccb4690b3414c066320204ed	Double Dragon II - The Revenge (J) [T+Chi_Madcell][a1].nes	REMOVED - Yori Yoshizuki - Beta
+df94c4f39f66283e334e6b4746a84318	Double Dragon Remastered v1.2 (Double Dragon Hack) (U) [!].nes	REMOVED - Yori Yoshizuki - Beta
+fd0b27a8ec326e9e23067fbfa7782897	Double Strike.nes	REMOVED - Yori Yoshizuki - Beta
+cbc7f8c8f8e49e7a186b620c4606d6b9	Double_Dragon_III_-immortality_99weapon-spaces.im.nes	REMOVED - Yori Yoshizuki - Beta
+1b055a422df8b979be9d232c4ca802e0	Dragon Quest (Japan) [En by Polinym] (Quick EXP Hack)1.0.nes	REMOVED - Yori Yoshizuki - Beta
+fd16b1acaf81711dc5db73d4411ce52a	Dragon Quest (Japan) [En by Polinym] (Quick EXP Hack)1.1.nes	REMOVED - Yori Yoshizuki - Beta
+e4dcc754248831a5bf07643c3a4fb284	Dragon Spirit - The New Legend.nes	REMOVED - Yori Yoshizuki - Beta
+888b8a280de99a7e8f64b0ecd75587a3	Dragon Warrior 2.nes	REMOVED - Yori Yoshizuki - Beta
+08a3aed6fdc4b97d4495d283a352464a	Dragon Warrior-1.08-Chicken Knife.nes	REMOVED - Yori Yoshizuki - Beta
+4134eb8e1e34ee81eadd3e1d747637d8	Dragon Warrior-dw_delocalized_NA_gfx_J_palettes-1.08-Chicken Knife.nes	REMOVED - Yori Yoshizuki - Beta
+db234b5e02a8a0dc023a035a21d80bb6	Dragon Warrior-dw_delocalized_NA_gfx-1.08-Chicken Knife.nes	REMOVED - Yori Yoshizuki - Beta
+c20cb8a679d74d0a10d3545010402c58	Duck Tales 2 Deluxe 2014 (RUS) [Fixed-27.01.2015].nes	REMOVED - Yori Yoshizuki - Beta
+3216e1b53a677adb0b8632f6d378c277	Duck Tales 2 glitch.nes	REMOVED - Yori Yoshizuki - Beta
+73f05888ce89e2969bdad6f1241a44f8	Dune War (2).nes	REMOVED - Yori Yoshizuki - Beta
+0e50d794a21fa9bb60bffe2142c15a8a	DX Ball 1 (Diamond (Nice Code) Hack).nes	REMOVED - Yori Yoshizuki - Beta
+606990f4d9de6d3f85b7fd18bb3fa059	DX Ball 2 (Scoring Hack).nes	REMOVED - Yori Yoshizuki - Beta
+4f15e535defcb3667a2da2b2c4d20914	Earth Worm Jim 2.nes	REMOVED - Yori Yoshizuki - Beta
+7ba423c49794b7cfd439551af43a04ce	Elevator Action (J) (PRG0) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+5ce1656c4b920ee9beee4564106d6480	Eliminator Boat Duel (RUS) [Nitro].nes	REMOVED - Yori Yoshizuki - Beta
+3764dd21a3a8d9ab133845099d487558	Eliminator Boat Duel (U T+Rus) [hard fixe] v.2.nes	REMOVED - Yori Yoshizuki - Beta
+3b57a188c1f9cda6ed643506e056c4d5	Eliminator Boat Duel (U T+Rus) [Strong Improvements] by Kinbeas.nes	REMOVED - Yori Yoshizuki - Beta
+475e1aace68aa111d4d06efe1b973686	European Football All Stars Highlight Soccer (Tecmo World Cup Hack) (2).nes	REMOVED - Yori Yoshizuki - Beta
+ea81b6ed9319302205fbfeca0f2adcd8	European Football All Stars Highlight Soccer (Tecmo World Cup Hack).nes	REMOVED - Yori Yoshizuki - Beta
+58b960386267ecd06b5c22770821752f	European Football Penalty Kick (2002 World Cup PK Hack)(1).nes	REMOVED - Yori Yoshizuki - Beta
+b92e094bca77a8867287ae29082b1fbd	F-1 Race (Rus) v.1.0.nes	REMOVED - Yori Yoshizuki - Beta
+66a8269b34e97f43ceece30c0cae1b5c	F-1 Race.nes	REMOVED - Yori Yoshizuki - Beta
+3e72d08054fdc3a433aac284c90811d8	Famicom de Pon (Rev. 7) (Homebrew Famicom Port).nes	REMOVED - Yori Yoshizuki - Beta
+90e2b479a3a9c6ba3a41d60fe1e3f99f	Famicom Network System - JRA-PAT (J) (ROM DOES NOT WORK!).nes	REMOVED - Yori Yoshizuki - Beta
+6e29af7d95f6407a15d86dded8b6c401	Fantastic Adventures of Dizzy.nes	REMOVED - Yori Yoshizuki - Beta
+a6c3e0731639219a449714d8f026dd11	Faxanadu.nes	REMOVED - Yori Yoshizuki - Beta
+e443072b44f3b868af67152f99d331c1	FC Genjin - Freakthoropus Computerus (J) [T+ChS_Gaowei].nes	REMOVED - Yori Yoshizuki - Beta
+7a217743f9c7d8de4d704af790e1ebd4	FC Intro by emumax (PD) [a1].nes	REMOVED - Yori Yoshizuki - Beta
+96b53a64f41a63726820a478fa300bee	Final Blood.nes	REMOVED - Yori Yoshizuki - Beta
+2a05cfa6132314a983fbfb28f920d4f9	FINes-2021.2.24-alpha.nes	REMOVED - Yori Yoshizuki - Beta
+879e46387cb33d15f5381f3dc8dc438c	FINes-2021.2.24-final.nes	REMOVED - Yori Yoshizuki - Beta
+752d7127bc1ecb3d3f87fe07ef11cb1d	FINes-2021.2.28-gm.nes	REMOVED - Yori Yoshizuki - Beta
+b03c331540de247ee8c0f5604c1288aa	FULL_Xbomber_nes.nes	REMOVED - Yori Yoshizuki - Beta
+44eab620139465c0f090e217b08aae31	FULL_XShoot_nes.nes	REMOVED - Yori Yoshizuki - Beta
+210a7e54f71839d8b7899620a849a03d	Aspic - Majaou no Noroi (Japan).fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\1 Japan A-Z\
+415403e536aaab2cf80ecd4905ba684a	Falsion (Japan).fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\1 Japan A-Z\
+8d8c62ee900f49f4ea8f9d398d6037f6	Famicom Mukashibanashi - Shin Onigashima (Japan) [Merged].fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\1 Japan A-Z\
+2bf71192775fc0a8bfecb4c28106b6ca	Famicom Mukashibanashi - Yuuyuuki (Japan) [Merged].fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\1 Japan A-Z\
+0e112f57b9b7fd0122dfebe07119fe73	Fire Rock (Japan).fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\1 Japan A-Z\
+120b3bdc29c263c7ef943077457d5f33	Fuuun Shourin Ken (Japan).fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\1 Japan A-Z\
+163eb3061be645d592dc68761caa03e7	Ice Hockey (Japan).fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\1 Japan A-Z\
+a27e4b302557550808808ef954d7af05	Meikyuu Jiin Dababa (Japan).fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\1 Japan A-Z\
+413d5b6319452551055ca5a6296f3f1d	Monty on the Run - Monty no Doki Doki Dai Dassou (Japan).fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\1 Japan A-Z\
+548961ffc362902b31a40e5af2abf959	Nazoler Land - Daisangou (Japan).fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\1 Japan A-Z\
+44311a536f3ff9dbf7c8ec95cfcf3786	Omoikkiri Tanteidan HaadoGumi - Matenrou no Chousenjou (Japan).fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\1 Japan A-Z\
+63565e110e91ef4a3e7d8d87e1e4611b	Replicart (Japan).fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\1 Japan A-Z\
+d6c5ce358c9d709ffcab7362bee5f80f	Smash Ping Pong (Japan).fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\1 Japan A-Z\
+9b20746b80f58875f2425cad747cfd5a	Super Boy Allan (Japan).fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\1 Japan A-Z\
+f5098f75d44a53ae4166465dfec0ccf5	Tantei Jinguuji Saburou - Kiken na Futari (Japan) [Merged].fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\1 Japan A-Z\
+a23f0e8d1339abc1c4fd9e94bd64ab16	Time Twist - Rekishi no Katasumi de... (Japan) [Merged].fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\1 Japan A-Z\
+b209556922f362ce850a8448b04c4871	Tobidase Daisakusen (Japan).fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\1 Japan A-Z\
+70dde58ad2fae47832ed5e2ee46e3b69	Famicom Mukashibanashi - Shin Onigashima - Kouhen (Japan).fds	VARIOUS - ROLLBACKS - SmokeMonster Packs\Famicom Disk System - 2020-11-16\5 Requires Merge\
+ec7b308c072b8b7683057139ddcbe768	Headered	VGBS Gaming Podcast - Season 1 (USA) (Aftermarket) (Unl).nes\No-Intro\
+e74d00188a239658ab73834ca2c14f09	1 Japan A-Z	Winter Games (Japan).fds\Famicom Disk System - 2020-11-16\
+a82fe4254108c89e076268045e7c9a74	Headered	Yongzhe Dou Elong - Dragon Quest IV (China) (Pirate).nes\No-Intro\

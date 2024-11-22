@@ -1001,6 +1001,10 @@ dbc9260009dd0838d0e31de51d57d078	Time Soldiers (USA, Europe, Brazil) (En).sms	no
 45ca1c65fc03a85bfddd3e64da5ec081	Tower of Sorrow (World) (v1.5) (Demo) (Easy) (Aftermarket) (Unl).sms	nointro 2024-09-21	sega-sms
 fa9089a70e4414a5a25eb93fff88b9c3	Tower of Sorrow (World) (v1.5) (Demo) (Easy) (Color Blind) (Aftermarket) (Unl).sms	nointro 2024-09-21	sega-sms
 6cb865af32b85b3f7f7998ca54153d06	Tower of Sorrow (World) (v1.5) (Digital) (Aftermarket) (Unl).sms	nointro 2024-09-21	sega-sms
+6cb865af32b85b3f7f7998ca54153d06	Tower of Sorrow (World) (v1.5) (Digital) (Easy) (Aftermarket) (Unl).sms	nointro 2024-09-21	sega-sms
+bf4536364cbcbb506be4472f4218ec2a	Tower of Sorrow (World) (v1.5) (Digital) (Easy) (Color Blind) (Aftermarket) (Unl).sms	nointro 2024-09-21	sega-sms
+3c83b99f283fba1e2a340f351c8fbf99	Tower of Sorrow (World) (v1.5) (Digital) (Hard) (Aftermarket) (Unl).sms	nointro 2024-09-21	sega-sms
+9a393706b596a2480580bf00332ca2e7	Tower of Sorrow (World) (v1.5) (Digital) (Hard) (Color Blind) (Aftermarket) (Unl).sms	nointro 2024-09-21	sega-sms
 dd26c323d1323691fed04cd8498afbcf	TransBot (USA, Europe, Brazil) (En) (Beta).sms	nointro 2024-09-21	sega-sms
 93bb1e1ee14ac53adb9e6b9e0c135043	TransBot (USA, Europe, Brazil) (En).sms	nointro 2024-09-21	sega-sms
 87d44f3416d4f31959b583d0d460c7fb	Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es).sms	nointro 2024-09-21	sega-sms

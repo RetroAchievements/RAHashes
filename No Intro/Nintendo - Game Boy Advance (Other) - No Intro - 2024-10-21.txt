@@ -728,6 +728,15 @@ aecb1a14e203cfdf456c02b434503804	ChuChu Rocket! Challenge (World) (Ja) [b].gba	n
 ab046b65776ae4696d1376f02353f4b4	ChuChu Rocket! Challenge (World).gba	nointro 2024-10-21	nintendo-gba-other
 76be9081aae561c5fd4caff73fd1b00c	ChuChu Rocket! Puzzle (World) (Ja).gba	nointro 2024-10-21	nintendo-gba-other
 13293ed2aee24c4a16f3d9fc49153879	Credit (Japan).asf	nointro 2024-10-21	nintendo-gba-other
+4f5c0caa99547ec0fc77c61a47afe6da	Dinosaur Office - Bring Your Child to Work Day (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+78b25aaafa94dc041dc74797c4c33932	Dinosaur Office - Computer Problems (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+4a11c738c2444d2f3bbd38f852604269	Dinosaur Office - Gym (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+7898b40de818e62047d650989372640a	Dinosaur Office - Office Party (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+163cf61ba55889fdd6aee36a4c41dd05	Dinosaur Office - Office Romance (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+ffd96fecbc27a5928389ff6e671f50bb	Dinosaur Office - Team Building (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+ad55b1d28eb8be14fb9cd638b9765e03	Dinosaur Office - Traffic (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+e5c1d909fea4f5bc252e57524c857529	Dinosaur Office - Viral Videos (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+4fa5d58a9267799c8431649fb6262eec	Dinosaur Office (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
 3d37507f4f571855e283b6741d937040	Domo-Kun no Card-e - A-001 (Japan) (Promo) (Strip 1).raw	nointro 2024-10-21	nintendo-gba-other
 420c24691a080ccf768c226824d9f425	Domo-Kun no Card-e - A-001 (Japan) (Promo) (Strip 2).raw	nointro 2024-10-21	nintendo-gba-other
 ad8a38a609338a5a287727b5c4a1aaec	Domo-Kun no Card-e - B-001 (Japan) (Strip 1).raw	nointro 2024-10-21	nintendo-gba-other
@@ -1256,6 +1265,21 @@ b755558396491a5303721281caaa98e7	Doubutsu no Mori Card-e+ - Series 3 - 06-K009 (
 7bd148abe1e2573c5099b73434d7973d	Doubutsu no Mori Card-e+ - Series 3 - 06-K011 (Japan).raw	nointro 2024-10-21	nintendo-gba-other
 65e59218fcebc4a404c0e44f08e69e3c	Doubutsu no Mori Card-e+ - Series 3 - 06-K012 (Japan).raw	nointro 2024-10-21	nintendo-gba-other
 c36a37f4dab0cde8e666dcafe54892e3	Dr. Mario (USA) (Kiosk, GameCube).gba	nointro 2024-10-21	nintendo-gba-other
+0c324b7f024bdc87cb49ea0a0fc20f14	Eek! The Cat - A Sharkwork Orange (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+ca0bc39b160c3c936dd3e44ba5b018cd	Eek! The Cat - Chariots of Fur (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+c1221a65596235f8ff6c12836e9f55df	Eek! The Cat - Eek Space-9 (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+9797539cc41b958b19c653e6aa4ca3dd	Eek! The Cat - Eek's Funny Thing That He Does (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+c625b72aa4e54b1dffe8d3d50525e330	Eek! The Cat - Eekscaliber (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+eae0a8243bba5ce78f86a68d33ffbc47	Eek! The Cat - Eekstremely Dull (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+2aff89d1aa6cac2dcc334639893fd1f6	Eek! The Cat - Eeksy Rider (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+cc210c5df6b4219ff3c4cae0b4ffbdff	Eek! The Cat - Fatal Eektraction (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+f694ad490b7568744ba6027a58b4c6a3	Eek! The Cat - Honey I Shrunk the Cat (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+6c4ad69977fba77a2f216f42b56766f9	Eek! The Cat - Natural Bored Kittens (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+fbf0151b8eaef67e6bdc3ea52192f820	Eek! The Cat - OutbrEek (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+a4ccee89bb5a3bf9b4d06e9cbe0435f5	Eek! The Cat - Rock-Eek 6 (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+4c77bb1bd6bae7fe235f6a651ce33877	Eek! The Cat - Shark Doggy Dog (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+b8110a37a43e49a6997ec3200ff1784d	Eek! The Cat - Shark Therapy (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+39d17755c4f0d1ef2192d1a88d254cd9	Eek! The Cat - The Sound of MusEek (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
 4f42adcbfb561d39e95f7cf56b9e69d7	EON Ticket - 00-C000 (USA) (Promo).raw	nointro 2024-10-21	nintendo-gba-other
 da2ef183654dd7ada32fb51d2eea5c98	Expedition - Diving Corsola (USA) (Mini-Game).sav	nointro 2024-10-21	nintendo-gba-other
 a8d161371f2f83d161eec0cbb5c8335c	Expedition - Flower Power (USA) (Mini-Game).sav	nointro 2024-10-21	nintendo-gba-other
@@ -1400,6 +1424,51 @@ e89a0fb1a5d4a51dc7c424504c17921a	Fish (Japan).asf	nointro 2024-10-21	nintendo-gb
 3b920d8bd0ebc8b2ad2bd046c69d1f0e	Game & Watch Card-e - 0 (Japan) (Promo) (Strip 2).raw	nointro 2024-10-21	nintendo-gba-other
 929a892474d7aec9f8d6ba5dc45f2a3c	Game & Watch Card-e - 02-A001 (Japan) (Promo) (Strip 1).raw	nointro 2024-10-21	nintendo-gba-other
 d6bd139e41bb5b807eba21d9c025fb33	Game & Watch Card-e - 02-A001 (Japan) (Promo) (Strip 2).raw	nointro 2024-10-21	nintendo-gba-other
+ecb42c36f389b45e7b93d14673dbe506	Game Boy Advance Video - All Grown Up! - Volume 1 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+1577640560b3cbff587ee29ba073a2c1	Game Boy Advance Video - Cartoon Network Collection - Edition Platinum (France).gba	nointro 2024-10-21	nintendo-gba-other
+3fc8b5adf57d1c1975c132686d398fcf	Game Boy Advance Video - Cartoon Network Collection - Edition Premium (France).gba	nointro 2024-10-21	nintendo-gba-other
+fc8cb7b530c412e403b4b4eb98751586	Game Boy Advance Video - Cartoon Network Collection - Edition Speciale (France).gba	nointro 2024-10-21	nintendo-gba-other
+cff33aabb6bdac294c1a250afe5248b0	Game Boy Advance Video - Cartoon Network Collection - Limited Edition (USA).gba	nointro 2024-10-21	nintendo-gba-other
+638d4c91d3119289573e94fc47aa2ab0	Game Boy Advance Video - Cartoon Network Collection - Platinum Edition (USA, Europe).gba	nointro 2024-10-21	nintendo-gba-other
+a1dcdf3f1625feb7ecd54d747d08fb37	Game Boy Advance Video - Cartoon Network Collection - Premium Edition (USA, Europe).gba	nointro 2024-10-21	nintendo-gba-other
+9e026e4c444ddd4cdcd275f7162835f1	Game Boy Advance Video - Cartoon Network Collection - Special Edition (USA, Europe).gba	nointro 2024-10-21	nintendo-gba-other
+69bf523b8ac3de574ac88bed1298146a	Game Boy Advance Video - Cartoon Network Collection - Special Edition (USA) (Rev 5).gba	nointro 2024-10-21	nintendo-gba-other
+9d88169f003267c96a4a42e8f4c377bd	Game Boy Advance Video - Cartoon Network Collection - Volume 1 (USA, Europe).gba	nointro 2024-10-21	nintendo-gba-other
+80236c93c72dc4ee4bd0e3c22ffac303	Game Boy Advance Video - Cartoon Network Collection - Volume 2 (USA, Europe).gba	nointro 2024-10-21	nintendo-gba-other
+09a08b8e39fa938d4dd121642f3a0cb1	Game Boy Advance Video - Codename - Kids Next Door - Volume 1 (USA, Europe).gba	nointro 2024-10-21	nintendo-gba-other
+340f5ce39c1d2ea31a7b61148b376f70	Game Boy Advance Video - Disney Channel Collection - Volume 1 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+bbd11ffcf4de4f1af1201e7e9a313c2d	Game Boy Advance Video - Disney Channel Collection - Volume 2 (USA) (Rev 5).gba	nointro 2024-10-21	nintendo-gba-other
+cc49428f911d2a550c192e5829d8c8ae	Game Boy Advance Video - Dora the Explorer - Volume 1 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+e6bda86bedec314b4a2096afda57367f	Game Boy Advance Video - Dragon Ball GT - Volume 1 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+e45a12595bff7e3386c8ac2650972ac2	Game Boy Advance Video - Nicktoons - Volume 3 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+f0f7ba8c3766252a6e8d1d4fcf4eb5dd	Game Boy Advance Video - Nicktoons Collection - Volume 1 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+10799ba44adde27fb8919a61be5c63f1	Game Boy Advance Video - Nicktoons Collection - Volume 2 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+e6e925f30cd62e8bc0841935235d7703	Game Boy Advance Video - Pokemon - Volume 1 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+156f42e151118269786d15db8b71f300	Game Boy Advance Video - Pokemon - Volume 2 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+e3354800674c44704952a33556234b75	Game Boy Advance Video - Pokemon - Volume 3 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+780dcd0cb1e1913bb68df762b4a0a873	Game Boy Advance Video - Pokemon - Volume 4 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+875c60c35458f63372127463480a7d50	Game Boy Advance Video - Shark Tale (USA) (Rev 5).gba	nointro 2024-10-21	nintendo-gba-other
+28b2aafd12a3ad9bd622df785657a041	Game Boy Advance Video - Shark Tale (USA) (Rev 6).gba	nointro 2024-10-21	nintendo-gba-other
+cefd35569b6321beeba225e3a5805d6e	Game Boy Advance Video - Shrek (USA) (Rev 5).gba	nointro 2024-10-21	nintendo-gba-other
+e86a02bbf04ea054e92544faca7dee9b	Game Boy Advance Video - Shrek (USA) (Rev 6).gba	nointro 2024-10-21	nintendo-gba-other
+ff7d14c12b6b006f44e224daa0c8857c	Game Boy Advance Video - Shrek + Shark Tale (USA) (Rev 5).gba	nointro 2024-10-21	nintendo-gba-other
+7cd63622d3f60e87d5fb1f6379c73dd4	Game Boy Advance Video - Shrek 2 (USA) (Rev 5).gba	nointro 2024-10-21	nintendo-gba-other
+a73618bddf9078ef09c63caa4fa4c0e5	Game Boy Advance Video - Shrek 2 (USA) (Rev 6).gba	nointro 2024-10-21	nintendo-gba-other
+36dfcab0d39bae344f1e9ecda2a226b7	Game Boy Advance Video - Sonic X - Volume 1 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+5fd40871088818467ed5405aaf9644e1	Game Boy Advance Video - SpongeBob SquarePants - Volume 1 (USA) (Rev 1).gba	nointro 2024-10-21	nintendo-gba-other
+7e3ff9dfb76c4160f3bc70f1727af203	Game Boy Advance Video - SpongeBob SquarePants - Volume 2 (USA) (Rev 1).gba	nointro 2024-10-21	nintendo-gba-other
+181ca9365d62bf3acfdbb4c6717d3c12	Game Boy Advance Video - SpongeBob SquarePants - Volume 3 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+224f20711583402f8575795b3ccea869	Game Boy Advance Video - Strawberry Shortcake - Volume 1 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+60fa719b84f02367addc3d0dad085aa8	Game Boy Advance Video - Super Robot Monkey Team - Hyper Force Go! - Volume 1 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+41322207c6b54012f094a3410df58c7a	Game Boy Advance Video - Teenage Mutant Ninja Turtles - Le Demenagement (France).gba	nointro 2024-10-21	nintendo-gba-other
+b38aa51c2c27bf689e3d3da520d77339	Game Boy Advance Video - Teenage Mutant Ninja Turtles - Things Change (USA, Europe).gba	nointro 2024-10-21	nintendo-gba-other
+933f0a8d75e55d098b977014c5a51309	Game Boy Advance Video - The Adventures of Jimmy Neutron Boy Genius - Volume 1 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+b78c873cce43ce5559e71fea4ceffb52	Game Boy Advance Video - The Fairly OddParents! - Volume 1 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+98668d516cc0753737118cdced3cafd4	Game Boy Advance Video - The Fairly OddParents! - Volume 2 (USA) (Rev 1).gba	nointro 2024-10-21	nintendo-gba-other
+4a6cf80d29a6e4ab9b4204e6783657e0	Game Boy Advance Video - The Proud Family - Volume 1 (USA).gba	nointro 2024-10-21	nintendo-gba-other
+d7b7aaa61d7dbc76ed84abe391dee6df	Game Boy Advance Video - Yu-Gi-Oh! - Yugi vs. Joey (France).gba	nointro 2024-10-21	nintendo-gba-other
+e6e630c0e5efe24d54242b55388fc4b2	Game Boy Advance Video - Yu-Gi-Oh! - Yugi vs. Joey (USA, Europe).gba	nointro 2024-10-21	nintendo-gba-other
+f9f8c566a6a41653561d379d5f8142e5	GBA Groove - LoFi Lullabies (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
 2a1ace91c618f8523afd3de9fb7387b1	Hamtaro Card-e - 03-B001 (Japan) (Strip 1).raw	nointro 2024-10-21	nintendo-gba-other
 7a2ae851394c31a985cd705b8b5cea57	Hamtaro Card-e - 03-B001 (Japan) (Strip 2).raw	nointro 2024-10-21	nintendo-gba-other
 785efb79315b396b2fec79b3cf66a2dc	Hamtaro Card-e - 03-B002 (Japan) (Strip 1).raw	nointro 2024-10-21	nintendo-gba-other
@@ -1521,6 +1590,15 @@ ea683a2c1b918534fc40663a554b76b6	Jump (Japan).asf	nointro 2024-10-21	nintendo-gb
 b7d7b9dec61e257cf404d159ceb99993	Kirby Contest Card - 00-A001 - Loser (USA) (Promo).raw	nointro 2024-10-21	nintendo-gba-other
 69edf92a42bcafe367b6907cea91b71d	Kirby Slide Puzzle - 00-B001 (USA) (Promo) (Strip 1).raw	nointro 2024-10-21	nintendo-gba-other
 a4117eee6004d1c4a9cf4409c94e8335	Kirby Slide Puzzle - 00-B001 (USA) (Promo) (Strip 2).raw	nointro 2024-10-21	nintendo-gba-other
+4eee7ef1632eab7004fc6f03668c8043	Legend of Lofi - High Quality - Part 1 (World) (v2.0) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+7368e6e8b68cf0d0aedc594fb8af25a3	Legend of Lofi - High Quality - Part 2 (World) (v2.0) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+f30d9c738c8579d8e7e7695c4e0c8a8e	Legend of Lofi - High Quality - Part 3 (World) (v2.0) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+dae558a19fdc9a4dcdf7effc2ed6a878	Legend of Lofi - High Quality - Part 4 (World) (v2.0) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+34e3b78eb085880a66b4e11c3f2921d3	Legend of Lofi - High Quality - Part 5 (World) (v2.1) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+c28e5f83f24a6f749b00cec061f16fd1	Legend of Lofi - Low Quality - Part 1 (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+99818b6d94cb97e5588e5ffd832c28e9	Legend of Lofi - Low Quality - Part 2 (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+27488c4af4922fc113a3ede6d906bed0	Lizard of Aaaahs (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+b9b9302d41682066f9703f230477f987	Lofi Radio (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
 938a93e9d1fc94c118bd06e4bf20cd0c	Made in Wario - Mini Vol. 1 (World) (Ja).gba	nointro 2024-10-21	nintendo-gba-other
 863e8c56f6adea21bb153b1e85dc6797	Made in Wario - Mini Vol. 2 (World) (Ja).gba	nointro 2024-10-21	nintendo-gba-other
 86832f947c3cf7349c1ca1ac97f0c49f	Made in Wario - Mini Vol. 3 (World) (Ja).gba	nointro 2024-10-21	nintendo-gba-other
@@ -3884,6 +3962,7 @@ d01ee625bdaac7722388089953f69781	Pokemon-e TCG - Z-42-# - Treecko (USA) (Promo) 
 8495a31ae6ee07026f6c7ec5f39e0572	Pokemon-e TCG - Z-43-# - Torchic (USA) (Promo) (Short Strip).raw	nointro 2024-10-21	nintendo-gba-other
 97ef558bdc50ebbe883cc5ee67ee2a4a	Pokemon-e TCG - Z-44-# - Mudkip (USA) (Promo) (Short Strip).raw	nointro 2024-10-21	nintendo-gba-other
 5373b2b3475ce243a1a6fbaf9342fe2b	Pokemon-e TCG - Z-45-# - Whismur (USA) (Promo) (Short Strip).raw	nointro 2024-10-21	nintendo-gba-other
+564728f953486c7f8af022f7765bcc93	Popeye The Sailor Meets Ali Baba's Forty Thieves (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
 9f30ec2e7de2ac8af31530f230d04bca	Promotional - Air Hockey-e (USA).sav	nointro 2024-10-21	nintendo-gba-other
 482357832ff654e20bac411a20a3c5f2	Promotional - Animal Crossing-e - Animal Crossing (USA).sav	nointro 2024-10-21	nintendo-gba-other
 a5a945b54148d995c1a47c2003d5b1f3	Promotional - Animal Crossing-e - NES Link (USA).sav	nointro 2024-10-21	nintendo-gba-other
@@ -4447,6 +4526,22 @@ d4fb957dcb32c6facbbdf8ba31eec8d1	Skyridge - TCG Supplement - Poke-Power Ability 
 2590d3e12d3854bcbc5c15bff0686822	Skyridge - TCG Supplement - Poke-Power Ability Winding Back (USA).sav	nointro 2024-10-21	nintendo-gba-other
 aef76a0dc9973b37ee63510cb8ea739e	Skyridge - Teddiursa (USA) (Mini-Game).sav	nointro 2024-10-21	nintendo-gba-other
 dd50775caee520ea91b5256035ba6822	Skyridge - Watch Out! (USA) (Mini-Game).sav	nointro 2024-10-21	nintendo-gba-other
+38c3116ec352ca043093d2655818f0d4	Sleepy Time (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+a4ad407fb448506899d38137a38b8b45	Sonic Boom - Aim Low (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+e8243167ac5749881b056f1f80523f2f	Sonic Boom - Anything You Can Do, I Can Do Worse-er (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+cc00cd3e61abdebc86d1abcde55c694a	Sonic Boom - Blue with Envy (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+b440700a02b6d27a9354a987f3f5f27e	Sonic Boom - Cabin Fever (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+2ea12b59baf9a28119fcea04ac3bf3d8	Sonic Boom - Curse of the Cross Eyed Moose (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+770fb5ee371ebce289de20e880501b99	Sonic Boom - Double Doomsday (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+2ca5af68cbda469d068887abc8ba1889	Sonic Boom - Eggheads (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+cca58763993c80e07e3c4af2cd8fa6c7	Sonic Boom - Fortress of Squalitude (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+9882516547486efcecccca751bd528f2	Sonic Boom - Guilt Tripping (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+ab9f4d2f01956c3ecd0a6aea3d02460a	Sonic Boom - It Takes a Village to Defeat a Hedgehog (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+b5bc4491a62344744a0bc074b98c0095	Sonic Boom - Let's Play Musical Friends (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+382f073ec182361d888f22b4e771b278	Sonic Boom - Nutwork (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+59955ab0738b13dac90d8783313b2034	Sonic Boom - The Evil Dr. Orbot (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+696cbd2cc2722758a28597549cdfe21d	Sonic Boom - The Meteor (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+25b4da5102d67d7a6cc985c2574aae39	Sonic Boom - The Sidekick (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
 ae6d0b282391651ff3cf7888796dba02	Super Mario Advance 4 Card-e+ - 07-A001 (Japan) (Promo).raw	nointro 2024-10-21	nintendo-gba-other
 bb5d4ea244173973222cbe599bb7b0bd	Super Mario Advance 4 Card-e+ - 07-A051 (Japan) (Promo).raw	nointro 2024-10-21	nintendo-gba-other
 af22159c8c8a412be3d6e90aea8fce12	Super Mario Advance 4 Card-e+ - 07-A052 (Japan) (Promo) (Kiosk).raw	nointro 2024-10-21	nintendo-gba-other
@@ -4596,6 +4691,19 @@ a1167a143910d78238e61c61417b5459	Super Mario Advance 4-e - Series 2 - 07-D103 - 
 9307e697a6e4996bce1ce1b91d10beda	Super Mario Advance 4-e - Series 2 - 07-E008 - World 4-2 Toad's Hidden House (USA).raw	nointro 2024-10-21	nintendo-gba-other
 626de5042d9b874c9d0ab798e7fd66eb	Super Mario Advance 4-e - Series 2 - 07-E010 - World 6-7 Toad's Hidden House (USA).raw	nointro 2024-10-21	nintendo-gba-other
 503927caa116f049285df27d249e95ef	Super Mario Advance 4-e - Series 2 - 07-E012 - World 3-2 Star Power (USA).raw	nointro 2024-10-21	nintendo-gba-other
+be99bee37e94fde213ed3671934134a9	Super Mario World - Episode 1 - Fire Sale (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+f264be61517134e0a205cb393df48661	Super Mario World - Episode 10 - Rock TV (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+2e68c09c598269a2434935bf8992b5de	Super Mario World - Episode 11 - The Yoshi Shuffle (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+c40f1cc69f7ce92f720b3845ebc2487d	Super Mario World - Episode 12 - A Little Learning (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+9e7d023dcbce3f754be72f6892a9a358	Super Mario World - Episode 13 - Mama Luigi (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+c55f248758ac4bf5a5615c1ad28002d8	Super Mario World - Episode 2 - The Wheel Thing (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+0bf5748da08aaa293dc36077e154d7f7	Super Mario World - Episode 3 - Send in the Clown (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+4cc063c3fa95f21a7084352437705c86	Super Mario World - Episode 4 - Ghosts 'R' Us (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+7a5a6cded724873a5386179632d26e8e	Super Mario World - Episode 5 - The Night Before Cave Christmas (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+ee289f9e570398a0fb3e299ff1dcc035	Super Mario World - Episode 6 - King Scoopa Koopa (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+202268e9377d211db4dfabcbd54a3cc9	Super Mario World - Episode 7 - Born to Ride (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+1542e464a1900c6571d39f5aad1ac5c9	Super Mario World - Episode 8 - Party Line (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
+a57fc21284ac0dc7e232dd3a655867db	Super Mario World - Episode 9 - Gopher Bash (World) (Aftermarket) (Unl).gba	nointro 2024-10-21	nintendo-gba-other
 979ca60d418646142b89c45a7238f282	Tokushu Card-e+ - 16-A001 (Japan) (Promo) (Strip 1).raw	nointro 2024-10-21	nintendo-gba-other
 00a0a97738b18a606a1cf0c41c71d53a	Tokushu Card-e+ - 16-A001 (Japan) (Promo) (Strip 2).raw	nointro 2024-10-21	nintendo-gba-other
 ca2a1b7b821a4b865b25fd5e366d0e41	Tokushu Card-e+ - 16-A002 (Japan) (Promo) (Strip 1).raw	nointro 2024-10-21	nintendo-gba-other
