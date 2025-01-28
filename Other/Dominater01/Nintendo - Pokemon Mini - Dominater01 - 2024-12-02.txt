@@ -1,0 +1,5 @@
+8a7ef76eacdeec95cee4f5e5939ccd17	Pichu Bros. Mini (Japan) [T-En by NikcDC v1.0].min	pkm-dominater01-translations
+0f78ee2c193fc8d0c129f051f262dcdf	Pokemon Breeder Mini (Japan) [T-En by Snesy & Wa & Mr. Blinky v1.0] [n].min	pkm-dominater01-translations
+302c418edc3e9d4ff8430b9662a11d1b	Pokemon Puzzle Collection Vol. 2 (Japan) [T-En by Mr. Blinky & Wa v1.2].min	pkm-dominater01-translations
+1ee515c92cda64696b5085f19c752b57	Pokemon Race Mini (Japan) [T-En by Snesy & Wa & Mr. Blinky & JustBurn v1.0].min	pkm-dominater01-translations
+cac3842f010dba9e4155e459111b6ebd	Togepi's Great Adventure (Japan) [T-En by Mr. Blinky & Snesy v1.0] [n].min	pkm-dominater01-translations

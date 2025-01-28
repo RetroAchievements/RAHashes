@@ -1,0 +1,25 @@
+9150a58f7094a48b980c1ac71b9cfab9	Baseball Stars - Pocket Sports Series (Japan, Europe) (En,Ja).ngp	ngp-htgdb
+347d0ef33c889cc826d214caf8475ae0	King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp	ngp-htgdb
+104101b61276fff91574a50b6d5f38bc	Melon-chan no Seichou Nikki (Japan).ngp	ngp-htgdb
+006afe2dec77d73a2c592aeb1b3f694c	Neo Cherry Master - Real Casino Series (Japan) (En,Ja).ngp	ngp-htgdb
+30efe4f72d4678ffb97b885b1b7c3da1	Neo Geo Cup '98 (Japan, Europe) (En,Ja).ngp	ngp-htgdb
+58308b9bdf0b90b632ac4d3655a81f6d	Pocket Tennis - Pocket Sports Series (Japan, Europe) (En,Ja).ngp	ngp-htgdb
+9330c9a7bbd6a7dc5b5963a5b7623443	Renketsu Puzzle Tsunagete Pon! (Japan).ngp	ngp-htgdb
+d13f954b2f1c703bdf857837c24e332e	Samurai Shodown! - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp	ngp-htgdb
+9250b3328d64d3a1e7f9d50a04ceb64f	Shougi no Tatsujin (Japan).ngp	ngp-htgdb
+8b5500bdf12d0d26f84d6e2d6d8e5008	King of Fighters R-1 - Pocket Kakutou Series & Melon-chan no Seichou Nikki (Japan) (Demo).ngp	ngp-htgdb-demos
+a525a26b83a9472f7ba0a1a4e640d9ac	COTTON-NGP hack.ngp	ngp-htgdb-hacks
+111dfcca611495ba019f9b26b1749179	Crush Roller (JUE) hack1.ngp	ngp-htgdb-hacks
+590ac3a221009e9ea2d0d4c941ab5010	Crush Roller (JUE) hack2.ngp	ngp-htgdb-hacks
+acb335685ee2ec6f0ebeaa2de0e0a8ab	King of Fighters R-1 by Tintin Machine (Hack).ngp	ngp-htgdb-hacks
+b29a436adb987f19b074a74e3d02f163	King of Fighters, The - Battle De Paradise - Monopoly (Hack).ngp	ngp-htgdb-hacks
+643c72e37651d95659181fb1b891a886	KOF R2 hack.ngp	ngp-htgdb-hacks
+efe4375ad6061bad3516820d0ac02a25	KOFR1 Modify the description hack.ngp	ngp-htgdb-hacks
+a02d1bff34641d141f58bc032951a911	KOFR2 Key Description hack.ngp	ngp-htgdb-hacks
+ee98a47e1eb052456a2d923593ad9c66	Neo Turf Masters (JUE) [instant change operation hack (directions + A+O buttons)].ngp	ngp-htgdb-hacks
+2d7fd4a942763e9333ac045f732cf781	Ogre Battle Wong simplify external v0.4.ngp	ngp-htgdb-hacks
+4e2346af92ddbb4bb21101d9ec0b6dad	PocketLoveIf hack.ngp	ngp-htgdb-hacks
+787ae44e1d54cac01a232efb838fb4d7	Samurai Shodown! - Pocket Fighting Series (W) [M][t1] (Button to Increase Blood).ngp	ngp-htgdb-hacks
+05faac02b960bbb75f8ab7c80b538bba	SNK Vs. Capcom - Card Fighters Clash - SNK Version - Single Full Card no Shop Content V3 (Hack) [T+Chi1.39].ngp	ngp-htgdb-hacks
+2eb93bd0df7345cc805651c78c0c00c3	SNK Vs. Capcom - Card Fighters Clash - SNK Version - Single Full Card V2 (Hack) [T+Chi1.37].ngp	ngp-htgdb-hacks
+69091d37e296a0bece5d7e90ef5ec4fd	SNK Vs. Capcom - Card Fighters Clash - SNK Version - Single Full Card V3 (Hack) [T+Chi1.39].ngp	ngp-htgdb-hacks

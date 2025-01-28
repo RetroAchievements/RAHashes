@@ -1,0 +1,30 @@
+8c83a0920b10a01f44ad50d3613708de	Becky (Japan) [T-En by Hap & Rieks v20100121].rom	msx-t-en
+2055d2c6de49788f90eefcadb208e5d6	Black Onyx, The (Japan) [T-En by Polaris v1.0].rom	msx-t-en
+4872615111a6ac0d56007bb3bbfd1f35	Borfes and the 5 Demons (Japan) [T-En by Hap v20081105] [n].rom	msx-t-en
+4d8556fa1ba62bef83287b85d9dba005	C.C.R. - Annex 1 - The Algorithm (Spain) [T-En by Daniel González] [n].rom	msx-t-en
+35ea38b82752c1cd26cc4d4bd7ee5c23	Daiva Story 4 - Asura's Bloodfeud (Japan) [T-En].rom	msx-t-en
+e557b29ad6cae416ec6c3126a0761aac	Digital Devil Story - Megami Tensei (Japan) [T-En by Kaisaan v1.0] [n].rom	msx-t-en
+2f1515194333fcad40e81cf890d5fb56	Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v0.7.0].rom	msx-t-en
+9da4a20830a9197c3d546dcef84a6a93	Evil Mansion - Goblin (Japan) [T-En by Hap & Zan v20080619] [n].rom	msx-t-en
+a7fd8e04e5393d39d118bfbb627f3643	Fharanx (Japan) [T-En by Django] [CLOAD].cas	msx-t-en
+9fc9ee41ce35ce4e1068e22277265f6d	Golvellius (Japan) [T-En by Novalia Spirit v1.0].rom	msx-t-en
+ba6a26759702b054c8e5965df67ca2cd	Golvellius (Japan) [T-En by Woomb].rom	msx-t-en
+0c232255b9cfeedb431d0aecc8c2a21e	Golvellius (Japan) [T-En].rom	msx-t-en
+9e4d9df03f73f600f7c5920a37993e5c	Hydlide II - Shine of Darkness (Japan) [T-En by Rieks Warendorp Torringa].rom	msx-t-en
+6cb481b9b977ca42465627ef65f7af51	Hydlide II - Shine of Darkness (Japan) [T-En by Sargon v2003xxxx].dsk	msx-t-en
+6c463444495b9efacfdb5190e86213a0	Jagur (Japan) [T-En by Django v201101xx].rom	msx-t-en
+44625d8cbff7cd004da5ad49243b9872	Kinasai (Japan) (Unl) [T-En by GD v1.0].rom	msx-t-en
+d94380d337e0e8fc073a13280c8678d8	King's Valley II - The Seal of El Giza (Japan, Europe) [T-En by FRS v1.1] [n].rom	msx-t-en
+5f81a88ef9940ff9fffb50f093801c39	Knightmare III - Shalom (Japan) [T-En by Ricardo Bittencourt & SLotman v1.0b4].rom	msx-t-en
+74d9cae80d15ae5d02ee32893d195ac0	M36 - A Life Planet (Japan) [T-En by Hubz & Wyrdwad v1.2].rom	msx-t-en
+20f29b5f39ea38c615ab727b528902ba	Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan) [T-En by Igor Bezhenar v20210605] [Add by Armando Perez Abad v1.1] [Konami SSC].rom	msx-t-en
+54e11fff0bc6e7f4c3c25f2a947e9fa6	Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan) [T-En by Igor Bezhenar v20210605] [Add by Armando Perez Abad v1.1].rom	msx-t-en
+505052f2e5d019edbc76f36bcc0acd33	Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan) [T-En by Igor Bezhenar v20210605] [Konami SSC].rom	msx-t-en
+7b7b3b05da23b65f35dbd572e60e6411	Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan) [T-En by Igor Bezhenar v20210605].rom	msx-t-en
+bf9515d0edcd5fa7f82ec394e1c7323c	Mystery House II (Japan) [T-En by Umbrella Terms v1.0] [CLOAD].cas	msx-t-en
+34f4cc6570087c2052d60c2ea916d51f	Nyorols (Japan) [T-En by PentarouZero v1.0].rom	msx-t-en
+9ce36aeaa93f969b6c2ea91598b0b014	Parodius (Japan) [T-En by A&L Software v1.0].rom	msx-t-en
+b6b0f799ba2ed79e0c1dd6d33b872923	Stone of Wisdom, The (Japan) [T-En by GDX v20210712].rom	msx-t-en
+a40ccb6265cd620cdfa9aa8b981731c9	Vilzam - Cosmic Struggle (Japan) [T-En by 232 & BiFi & Takamichi Suzukawa] [BLOAD''CAS'',R].cas	msx-t-en
+fbd44188ab0cf0a5ba30eae005bd1042	Vilzam - Cosmic Struggle (Japan) [T-En by 232 & BiFi & Takamichi Suzukawa].rom	msx-t-en
+05495d17dbf270c959bb924b1e3dffed	War in Middle Earth (Spain) [T-En by Robsy v1.0].dsk	msx-t-en

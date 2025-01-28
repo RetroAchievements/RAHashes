@@ -1,0 +1,159 @@
+d38c84b44d0a6cb1c56bc9b7ab1dd2dd	lh532a39.ic1	msx-turbor-mame-cartridges
+d38c84b44d0a6cb1c56bc9b7ab1dd2dd	lh532a39_1.ic1	msx-turbor-mame-cartridges
+e07800710431acb6faed4d756566ce42	losaben akel (demo) - asm.rom	msx-turbor-mame-cartridges
+7f31d93c1859717dfc2741bd3df4172f	msx view - ascii (execution disk, v1.00).dsk	msx-turbor-mame-cartridges
+6d93d8b090aed6818688fe5358db493b	msx view - ascii (execution disk, v1.21).dsk	msx-turbor-mame-cartridges
+9d44d7ca52a97a82cf70c0c29090d3b8	msx view - ascii (overview disk, v1.00).dsk	msx-turbor-mame-cartridges
+891b380fdc666375835902791de13816	msx view - ascii (overview disk, v1.21).dsk	msx-turbor-mame-cartridges
+d48896c6b70d43952a6d6c300960a271	msx view - ascii (storage disk, v1.00).dsk	msx-turbor-mame-cartridges
+33886348f785174506502fa875aa7e09	msx view - ascii (storage disk, v1.21).dsk	msx-turbor-mame-cartridges
+e980e1ecf86707b90eca63f2f2a39355	zone terra (demo) - quadrivium.rom	msx-turbor-mame-cartridges
+50da081b58042af470805a33ffb0c3ce	2021 snooky (1991)(studio hawk)(jp).dsk	msx-turbor-mame-disks
+1a0f3a426907430ce59bd928a59300eb	blade (1997)(gw's workshop)[b].dsk	msx-turbor-mame-disks
+82beb7dc6224cf98e6fd233cb79eed89	dd_rehearsal.dsk	msx-turbor-mame-disks
+b1c1253ca244bb1b86383530756b8c0a	dewoman chuuhen - blue eyes (scenario disk 1).dsk	msx-turbor-mame-disks
+a7ca22e350b9df29e90df300f6aed9c8	dewoman chuuhen - blue eyes (scenario disk 2).dsk	msx-turbor-mame-disks
+82daae5fecdd4aac92d6a043cba2a04b	dewoman chuuhen - blue eyes (scenario disk 3).dsk	msx-turbor-mame-disks
+34be752afd67df41989acfcd8a7995b1	dewoman chuuhen - blue eyes (scenario disk 4).dsk	msx-turbor-mame-disks
+a19d2aa8f3a373049b49762e9508cedd	dewoman chuuhen - blue eyes (scenario disk 5).dsk	msx-turbor-mame-disks
+5ba57c290e47eab2838239f0dca077f7	dewoman chuuhen - blue eyes (scenario disk 6).dsk	msx-turbor-mame-disks
+7c46aed21be21e7f4cdc0e1ab4af179f	dewoman chuuhen - blue eyes.dsk	msx-turbor-mame-disks
+e2d063bdcbfb613b51d2153bf4b57a32	dewoman zenpen - blue eyes (scenario disk 1).dsk	msx-turbor-mame-disks
+81946844d53ac9aa58b4792a923882e3	dewoman zenpen - blue eyes (scenario disk 2).dsk	msx-turbor-mame-disks
+44256549484305adb918b5e51e7e614e	dewoman zenpen - blue eyes (scenario disk 3).dsk	msx-turbor-mame-disks
+1484e606e7661e05edfdf0a0009a04b5	dewoman zenpen - blue eyes.dsk	msx-turbor-mame-disks
+924c9a8ad0d9f9167c9144bcf2c299a2	diefrage.dsk	msx-turbor-mame-disks
+0616deb3d5fe5cec5122135e9345919f	dreamfighters.dsk	msx-turbor-mame-disks
+6e208d3eddc3852947177462870eea21	earth (1996)(gw's workshop).dsk	msx-turbor-mame-disks
+1b6fc5a7d051fd4dc37259d7a5bdb32d	earth attack (19xx)(gw's workshop)[b].dsk	msx-turbor-mame-disks
+705ba60ab3322c1164443af040e44471	eternaldemo.dsk	msx-turbor-mame-disks
+6b130a067315a5e1198b113e48324af8	f-nano 2 - 3d car action (demo) (1994)(xray)(jp).dsk	msx-turbor-mame-disks
+d41865b7639ff3f246bf76f5239c3b8d	f-nano 2' (xray, 1997).dsk	msx-turbor-mame-disks
+f19d1a17b976cc196874e98bc54a3644	fantasy attraction - rem company.dsk	msx-turbor-mame-disks
+4bc68ed0aa287e23a8bca41b948a629b	fishing v1.0 (1996-02-26)(gw's workshop).dsk	msx-turbor-mame-disks
+62d5b5498d9dcf2c21f628b2b7423e10	fishing v1.0 (1996-02-26)(gw's workshop)[a].dsk	msx-turbor-mame-disks
+cd8c7bf370ac25b2ad674df998401ce0	frage ii, die (199x)(studio sequence)(jp)[b].dsk	msx-turbor-mame-disks
+3913af3aac4b12d6ff1e5b63f9e16afc	fray - in magical adventure (1990)(micro cabin)(jp)(disk 1 of 5)(opening disk 0).dsk	msx-turbor-mame-disks
+e032437752a92161502180bf234aace5	fray - in magical adventure (1990)(micro cabin)(jp)(disk 1 of 5)(opening disk 0)[a2].dsk	msx-turbor-mame-disks
+f4721b060c10ed5bdb43ce17fe843238	fray - in magical adventure (1990)(micro cabin)(jp)(disk 1 of 5)(opening disk 0)[a].dsk	msx-turbor-mame-disks
+a63c33af33b993cac2df424fb1326690	fray - in magical adventure (1990)(micro cabin)(jp)(disk 2 of 5)(opening disk 1).dsk	msx-turbor-mame-disks
+8b146a44aee6ef3f49254e30ea69077d	fray - in magical adventure (1990)(micro cabin)(jp)(disk 2 of 5)(opening disk 1)[a].dsk	msx-turbor-mame-disks
+a63c33af33b993cac2df424fb1326690	fray - in magical adventure (1990)(micro cabin)(jp)(disk 2 of 5)(opening disk 1)_1.dsk	msx-turbor-mame-disks
+1fc59b80cdc3fce3f0ff04be3bd7bf75	fray - in magical adventure (1990)(micro cabin)(jp)(disk 3 of 5)(opening disk 2).dsk	msx-turbor-mame-disks
+9176a29f2a73cbb3d7e7089faef171b0	fray - in magical adventure (1990)(micro cabin)(jp)(disk 3 of 5)(opening disk 2)[a].dsk	msx-turbor-mame-disks
+1fc59b80cdc3fce3f0ff04be3bd7bf75	fray - in magical adventure (1990)(micro cabin)(jp)(disk 3 of 5)(opening disk 2)_1.dsk	msx-turbor-mame-disks
+74f9e2e1d4367acfb44cf3d0979acb04	fray - in magical adventure (1990)(micro cabin)(jp)(disk 4 of 5)(game disk 0).dsk	msx-turbor-mame-disks
+bc6d2548800381e65ef3a7665861bb74	fray - in magical adventure (1990)(micro cabin)(jp)(disk 4 of 5)(game disk 0)[a2].dsk	msx-turbor-mame-disks
+ae3d246b86afc27b94a19c2f47fb9d31	fray - in magical adventure (1990)(micro cabin)(jp)(disk 4 of 5)(game disk 0)[a].dsk	msx-turbor-mame-disks
+d9b6f76b384532b355e721c7d5da418c	fray - in magical adventure (1990)(micro cabin)(jp)(disk 5 of 5)(game disk 1).dsk	msx-turbor-mame-disks
+26fec01a3ce34725ad3659c01b3fcd89	fray - in magical adventure (1990)(micro cabin)(jp)(disk 5 of 5)(game disk 1)[a].dsk	msx-turbor-mame-disks
+d9b6f76b384532b355e721c7d5da418c	fray - in magical adventure (1990)(micro cabin)(jp)(disk 5 of 5)(game disk 1)_1.dsk	msx-turbor-mame-disks
+c13c56d0eae2b9f69e56f8af4ff26ff5	fs-a1gt - system disk 1 - panasonic.dsk	msx-turbor-mame-disks
+82f5ec3320696cc35e8295e6905aaac0	fs-a1gt - system disk 2 - panasonic.dsk	msx-turbor-mame-disks
+4ad95dfea5de4866c4b643af681b7f2e	fs-a1gt - system disk 3 - panasonic.dsk	msx-turbor-mame-disks
+0e49e1f0e93fc8a9aa2e662d73152c74	fs-a1st - system disk 1 - panasonic.dsk	msx-turbor-mame-disks
+3b8f1c486570e3fff78681b56acb317c	fs-a1st - system disk 2 - panasonic.dsk	msx-turbor-mame-disks
+2c8fdc98ce76d3da2fe7694e32c57c69	gekikara.dsk	msx-turbor-mame-disks
+919794ae8472c36bc2c6be9ead15bef7	gun shot vs festa again (2001)(rabbit soft worker's)(jp).dsk	msx-turbor-mame-disks
+52abcda6a546f40a7570f52ab0465531	hearts_r.dsk	msx-turbor-mame-disks
+7abef4370e8068f13cd32f494144278d	illusion city (1991)(micro cabin)(jp)(disk 01 of 13)(game disk 1).dsk	msx-turbor-mame-disks
+53bbe5f2dcb5e5126eb8b398721f2ab6	illusion city (1991)(micro cabin)(jp)(disk 02 of 13)(game disk 2).dsk	msx-turbor-mame-disks
+18e464821cf4779825b1afc8cc7a28d4	illusion city (1991)(micro cabin)(jp)(disk 03 of 13)(game disk 3).dsk	msx-turbor-mame-disks
+b9bfa71a227bb6fee64b0d09d9acfa1f	illusion city (1991)(micro cabin)(jp)(disk 04 of 13)(game disk 4).dsk	msx-turbor-mame-disks
+8a4a552880fe6da56502ebd5d2c958ce	illusion city (1991)(micro cabin)(jp)(disk 05 of 13)(game disk 5).dsk	msx-turbor-mame-disks
+106c8b56ff44f96263a61a36f53979f4	illusion city (1991)(micro cabin)(jp)(disk 06 of 13)(game disk 6).dsk	msx-turbor-mame-disks
+e3c34c05904bb90830b50c2a3d9945aa	illusion city (1991)(micro cabin)(jp)(disk 07 of 13)(game disk 7).dsk	msx-turbor-mame-disks
+cd23806488d25ecac8a3ff4bace1f62c	illusion city (1991)(micro cabin)(jp)(disk 08 of 13)(game disk 8).dsk	msx-turbor-mame-disks
+7bd09e10a0addae88f0ab73420113b38	innocent wish - destiny2 - sign house.dsk	msx-turbor-mame-disks
+7d1062f65ce91524adf052dccc3e7e76	lostword episode 0 - rabbit soft workers.dsk	msx-turbor-mame-disks
+9e9efac1f266d3dea3cbf410992afde6	mahouno kunino hoippuru - pastel hope.dsk	msx-turbor-mame-disks
+bf830288b94572a0aef5b0326eceb774	mechanical brain - studio sequence.dsk	msx-turbor-mame-disks
+0c022b866faeafc54019f76dabc10979	mejuu sa - medusa - blue eyes (disk 1).dsk	msx-turbor-mame-disks
+8d9307a33335e228714b5f9cc8797bc0	mejuu sa - medusa - blue eyes (disk 2).dsk	msx-turbor-mame-disks
+1679b6073cb52f098bd1ee2d767a7890	mejuu sa - medusa - blue eyes (disk 3).dsk	msx-turbor-mame-disks
+91376a03ca5927a01e547fab2225c57a	misttria.dsk	msx-turbor-mame-disks
+e89c366de55b112e52e32add97d908da	moon light saga - mapleyard (disk 1).dsk	msx-turbor-mame-disks
+6a2823bcfc968be191524e7378a8d488	moon light saga - mapleyard (disk 2).dsk	msx-turbor-mame-disks
+f3ea311d97880f7406a0d9461b5d2a08	moon light saga - mapleyard (system disk).dsk	msx-turbor-mame-disks
+43a07f3fa7ceacdf3f5def684467cb00	moonlight saga (1996)(maple yard)(jp).dsk	msx-turbor-mame-disks
+c0f780df2f556ebffe93d82dc8bc4a56	moonlight saga (1997)(-)[b].dsk	msx-turbor-mame-disks
+603ccd2775a619b0248bc90744860fcb	msx viewcalc - ascii (storage disk).dsk	msx-turbor-mame-disks
+180d881436ccdb7a5926f94e138d7b00	msx viewcalc - ascii (system disk).dsk	msx-turbor-mame-disks
+ab4333c3e550c965688bb04221d6ba1d	multi-plex (1993)(miwa)(jp).dsk	msx-turbor-mame-disks
+25d7c1a3a81a0cebd4c32367532ad149	multi-plex (1993)(miwa)(jp)[a].dsk	msx-turbor-mame-disks
+2e04a475d4861b91db39f502b3dc4f54	myu note (1992)(bit2)(jp)(disk 1 of 2).dsk	msx-turbor-mame-disks
+c1d55c903ca590d390cb3fb7907cf16d	myu note (1992)(bit2)(jp)(disk 2 of 2).dsk	msx-turbor-mame-disks
+5972c2d6efca55689926a177b23a4bb8	myu sios (1991)(bit2)(jp)(disk 1 of 3).dsk	msx-turbor-mame-disks
+47c9028c68503c67fb890953b069f4d2	myu sios (1991)(bit2)(jp)(disk 2 of 3).dsk	msx-turbor-mame-disks
+7c67f31512198469f421d993cc228a14	myu sios (1991)(bit2)(jp)(disk 3 of 3).dsk	msx-turbor-mame-disks
+c661f2323fd1a0c448927bcd0c067bd4	paradream (1992)(rac house)(jp).dsk	msx-turbor-mame-disks
+1edc3752bc9c7687c7c9e82ff9c202a2	paradream (1992)(rac house)(jp)[a2].dsk	msx-turbor-mame-disks
+55d36ce4cf4a753c6fa605eba2887668	paradream (1992)(rac house)(jp)[a].dsk	msx-turbor-mame-disks
+92b32e094c8e28c16299a2a9d5ee0e88	phi.dsk	msx-turbor-mame-disks
+a7a1c6373257aa6d464d2b20ba1ec902	qui veut gagner des millions - walter.dsk	msx-turbor-mame-disks
+d44be65359f7293917c2af3da74328a8	quien quiere ser milionario - walter.dsk	msx-turbor-mame-disks
+7f79e6e6753c1d67e836e94f31d37d3e	r2 chasers - studio sequence.dsk	msx-turbor-mame-disks
+f6fa12aefa7c54efaf92d132b83dbd18	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 1 of 8).dsk	msx-turbor-mame-disks
+6b0f9658b2f835da72a09e7c41c286a7	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 1 of 8)[a2].dsk	msx-turbor-mame-disks
+4d7333b055f3dea9d3b78bc7d61ef4c5	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 1 of 8)[a3].dsk	msx-turbor-mame-disks
+5d982d2b601d993ae546c84fec80d19f	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 1 of 8)[a].dsk	msx-turbor-mame-disks
+b07ca9328426082e265ec63b83ff0889	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 2 of 8).dsk	msx-turbor-mame-disks
+b07ca9328426082e265ec63b83ff0889	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 2 of 8)_1.dsk	msx-turbor-mame-disks
+b07ca9328426082e265ec63b83ff0889	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 2 of 8)_2.dsk	msx-turbor-mame-disks
+b07ca9328426082e265ec63b83ff0889	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 2 of 8)_3.dsk	msx-turbor-mame-disks
+a53a70f540cfe4babdfccd8ea2a413cd	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 3 of 8).dsk	msx-turbor-mame-disks
+a53a70f540cfe4babdfccd8ea2a413cd	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 3 of 8)_1.dsk	msx-turbor-mame-disks
+a53a70f540cfe4babdfccd8ea2a413cd	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 3 of 8)_2.dsk	msx-turbor-mame-disks
+a53a70f540cfe4babdfccd8ea2a413cd	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 3 of 8)_3.dsk	msx-turbor-mame-disks
+13bb94d2b9ca978c77411c994323ebdc	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 4 of 8).dsk	msx-turbor-mame-disks
+13bb94d2b9ca978c77411c994323ebdc	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 4 of 8)_1.dsk	msx-turbor-mame-disks
+13bb94d2b9ca978c77411c994323ebdc	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 4 of 8)_2.dsk	msx-turbor-mame-disks
+13bb94d2b9ca978c77411c994323ebdc	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 4 of 8)_3.dsk	msx-turbor-mame-disks
+c32127d2db360f5f549bc73e482d9038	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 5 of 8).dsk	msx-turbor-mame-disks
+c32127d2db360f5f549bc73e482d9038	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 5 of 8)_1.dsk	msx-turbor-mame-disks
+c32127d2db360f5f549bc73e482d9038	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 5 of 8)_2.dsk	msx-turbor-mame-disks
+426a4307c5a9de93613b4a37ed571699	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 6 of 8).dsk	msx-turbor-mame-disks
+abbb95c9627ba36490744160a964d6b2	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 6 of 8)[a].dsk	msx-turbor-mame-disks
+426a4307c5a9de93613b4a37ed571699	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 6 of 8)_1.dsk	msx-turbor-mame-disks
+426a4307c5a9de93613b4a37ed571699	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 6 of 8)_2.dsk	msx-turbor-mame-disks
+426a4307c5a9de93613b4a37ed571699	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 6 of 8)_3.dsk	msx-turbor-mame-disks
+73ab8b15ff5d2b2f9f9a3a18c19e52d8	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 7 of 8).dsk	msx-turbor-mame-disks
+73ab8b15ff5d2b2f9f9a3a18c19e52d8	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 7 of 8)_1.dsk	msx-turbor-mame-disks
+73ab8b15ff5d2b2f9f9a3a18c19e52d8	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 7 of 8)_2.dsk	msx-turbor-mame-disks
+73ab8b15ff5d2b2f9f9a3a18c19e52d8	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 7 of 8)_3.dsk	msx-turbor-mame-disks
+7ad9705fffcf182353f1724a6d2f33c4	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 8 of 8).dsk	msx-turbor-mame-disks
+54da770cceb5e74e1f3ec061aec90b39	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 8 of 8)[a2].dsk	msx-turbor-mame-disks
+8386f399764efb7d23e3e4293340e3c1	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 8 of 8)[a].dsk	msx-turbor-mame-disks
+7ad9705fffcf182353f1724a6d2f33c4	ranma nibunnoichi 1-2 (1992)(bothtec)(jp)(disk 8 of 8)_1.dsk	msx-turbor-mame-disks
+cecb802888d9bccade42248483084b5e	s.t.g. (1996)(y. tomohara).dsk	msx-turbor-mame-disks
+3e84e1da064509f63a59a7c2e7194d73	s.t.g. special - do don taku (1998)(y. tomohara).dsk	msx-turbor-mame-disks
+03a70f5aeae4df35834ceaa24dd4434c	seed of dragon (1990)(riverhill soft)(jp)(disk 1 of 3)(game disk 1).dsk	msx-turbor-mame-disks
+7a35f3a1563fe665debe1ddca7de2091	seed of dragon (1990)(riverhill soft)(jp)(disk 1 of 3)(game disk 1)[a2].dsk	msx-turbor-mame-disks
+111b04e8106a5ecda5e50575a1c51198	seed of dragon (1990)(riverhill soft)(jp)(disk 1 of 3)(game disk 1)[a].dsk	msx-turbor-mame-disks
+eeb50300c3cc39cb58cb19d9b7ece71d	seed of dragon (1990)(riverhill soft)(jp)(disk 2 of 3)(game disk 2).dsk	msx-turbor-mame-disks
+9e2493097c0681389a604dd443acfc49	seed of dragon (1990)(riverhill soft)(jp)(disk 2 of 3)(game disk 2)[a].dsk	msx-turbor-mame-disks
+eeb50300c3cc39cb58cb19d9b7ece71d	seed of dragon (1990)(riverhill soft)(jp)(disk 2 of 3)(game disk 2)_1.dsk	msx-turbor-mame-disks
+c04e3fcc280854876ed391d4ba8fc6ce	seed of dragon (1990)(riverhill soft)(jp)(disk 3 of 3)(game disk 3).dsk	msx-turbor-mame-disks
+412fec102dc82c535a7e58a4aa2699e3	seed of dragon (1990)(riverhill soft)(jp)(disk 3 of 3)(game disk 3)[a].dsk	msx-turbor-mame-disks
+c04e3fcc280854876ed391d4ba8fc6ce	seed of dragon (1990)(riverhill soft)(jp)(disk 3 of 3)(game disk 3)_1.dsk	msx-turbor-mame-disks
+da42de23b876f3ceb79ff6bb849a7b1b	shoot that flying windows (1997)(nyyrikki)[a][mouse].dsk	msx-turbor-mame-disks
+e7db92998edbc4ad30d32773bc715363	shoot that flying windows (1997)(nyyrikki)[mouse].dsk	msx-turbor-mame-disks
+85e9f2216bcc86374808cf27075f0072	south towns hero ii - fm-guamuom (disk a).dsk	msx-turbor-mame-disks
+57aa98e03441b65c24e476d92903532a	south towns hero turbo - fm-guamuom.dsk	msx-turbor-mame-disks
+139f411d01560586dd9bde332e56999c	space panic - mikasen.dsk	msx-turbor-mame-disks
+c5114fba25df924313ad6ff2ce0324c1	speedline - traposoft.dsk	msx-turbor-mame-disks
+e092d6d6e736aadb5c8927cfa6a31ba3	stage 11 - mikasen.dsk	msx-turbor-mame-disks
+0b6d23033f2ffb9ae96fc9ad9e8fe91e	stage 11 kai - mikasen.dsk	msx-turbor-mame-disks
+4a9154171eb04da246555e07765b652d	superiority fighters - mushroom.dsk	msx-turbor-mame-disks
+ec766384055cac20e27efc557cd2b23f	sweet (1994)(kazuyuki suzuki)(jp)[old t800].dsk	msx-turbor-mame-disks
+493906004a42d79748111c0a5f4b9b4d	telebasic edicion no 1 - traposoft.dsk	msx-turbor-mame-disks
+ed4e6eaac058661d73c562c6d49882ee	telebasic edicion no 2 - traposoft.dsk	msx-turbor-mame-disks
+8b0bcdd7fa10e73afda068a0f5a76c0d	telebasic edicion no 3 - traposoft.dsk	msx-turbor-mame-disks
+5fa0741bee78969d9ebfb0c187ce07aa	the best of hamaraja night - pastel hope.dsk	msx-turbor-mame-disks
+567ecf2e5c19884edcae77f6c4ae5301	treasureofbabylon1-0.dsk	msx-turbor-mame-disks
+a85566b2c8a6961724ada9f505ef0a1e	turbo blaster - m.o.v.dsk	msx-turbor-mame-disks
+2ec895c59a80d33f6bfb9e400128bab0	turbo booster (1990)(team toy boys)(jp)[b].dsk	msx-turbor-mame-disks
+cd93bdde152c40a8d0a03049b2c62983	welkis the legend - uechan dayo (disk 1).dsk	msx-turbor-mame-disks
+0571b8c8e0889efd804b2d5c08c179af	welkis the legend - uechan dayo (disk 2).dsk	msx-turbor-mame-disks
+956e21614006b851bd4109a8515a2de7	zone terra (1994)(quadrivium)(nl).dsk	msx-turbor-mame-disks
+31d0f27acb0c2be073879d5d734569b3	zone terra (demo) (1994)(quadrivium)(nl).dsk	msx-turbor-mame-disks

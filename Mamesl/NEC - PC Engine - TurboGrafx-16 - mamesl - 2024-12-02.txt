@@ -1,0 +1,423 @@
+2b7ccb3d86baa18f6402c176f3065082	[cd] cd-rom system (japan) (v1.0).pce	pce-mame
+3a456f0eccff039eb5ff045f56ec1c3b	[cd] cd-rom system (japan) (v2.0).pce	pce-mame
+3cdd6614a918616bfc41c862e889dd79	[cd] cd-rom system (japan) (v2.1).pce	pce-mame
+6d2cb14fc3e1f65ceb135633d1694122	[cd] games express cd card (japan).pce	pce-mame
+38179df8f4ac870017db21ebcbf53114	[cd] super cd-rom system (japan) (v3.0)_1.pce	pce-mame
+38179df8f4ac870017db21ebcbf53114	[cd] super cd-rom system (japan) (v3.0).pce	pce-mame
+0754f903b52e3b3342202bdafb13efa5	[cd] turbografx cd super system card (usa) (v3.0).pce	pce-mame
+94279f315e8b52904f65ab3108542afe	[cd] turbografx cd system card (usa) (v2.0).pce	pce-mame
+42cfdf8495ce8338d83c73b38ae274b6	1943 kai (japan).pce	pce-mame
+86e3ed839f053bb99ebf1760439c3a3c	21 emon - mezase hotel ou (japan).pce	pce-mame
+65ea7bebc2ecaeda8cee373ff2a83534	adventure island (japan).pce	pce-mame
+3d3b872d9031fa3227d68f2239b00b82	aero blasters (japan).pce	pce-mame
+b2b62baab5fefafc5db6538720b503c3	aero blasters (usa).pce	pce-mame
+ac0cdee014e725e428fde5774751ff8d	after burner ii (japan).pce	pce-mame
+9b7ddd6395c9cea9d8a6da32f2a36b7a	air zonk (prototype).pce	pce-mame
+406bec60ffca9ac151a793969b0c10c6	air zonk (usa).pce	pce-mame
+6697cf388dd28e67c92276ce598dbec8	alien crush (japan).pce	pce-mame
+0088d1d20861490677edb147d2de60bd	alien crush (usa).pce	pce-mame
+cc264acf289ab120f52457d5311d7aec	ankoku densetsu (japan).pce	pce-mame
+f1a8431d75e05812590d0f23135eecaa	aoi blink (japan).pce	pce-mame
+3f2f9b623fb76e272561a6db1ea0f875	appare gateball (japan).pce	pce-mame
+c9efecc5c9854bfe79db25cd01614802	armed formation f (japan).pce	pce-mame
+549d32279281af79c104f51a3c603628	artist tool (japan).pce	pce-mame
+548ca5eb135f526f3a2837f5259d795f	atomic robo-kid special (japan).pce	pce-mame
+d395beb4a1e3fc80831870995b169358	av poker (japan).pce	pce-mame
+6de6635138b034e133720d11279b8ea7	ballistix (japan).pce	pce-mame
+9610910760ed0c034961866ceb7d4e23	ballistix (usa).pce	pce-mame
+539eb9333d3e39f597786288872917dc	bari bari densetsu (japan).pce	pce-mame
+a39fba5fe056ae0fb25ded19f1cdaeed	barunba (japan).pce	pce-mame
+6c35cbaf97b7285a9373b9ae9f553411	batman (japan).pce	pce-mame
+52ac9b2e9f552558b8658cabae4639a3	battle lode runner (japan).pce	pce-mame
+beb2b4486ed8a66f0df10e260bdc5224	battle royale (usa).pce	pce-mame
+5c6227a91d252a12bf2a0d3d5b5fe65d	be ball (japan).pce	pce-mame
+41e5131613fd41b9cab87191cee474a5	benkei gaiden (japan) [a].pce	pce-mame
+fe54ee82279992cef3aeb14aa3f795d9	benkei gaiden (japan).pce	pce-mame
+fe2dab5a24d21ef36089e88f62b53865	bikkuriman world (japan) [a].pce	pce-mame
+7822065caf6c6b5cd8f16189915b4e21	bikkuriman world (japan).pce	pce-mame
+3c2f85fc7898de73a7c789033d22b8f5	blazing lazers (usa).pce	pce-mame
+f00d36670099ff22488315c94de39931	blodia (japan).pce	pce-mame
+f19869d1823a28e8472452baf697cf56	bloody wolf (usa).pce	pce-mame
+ac341b143c8a35a9efd5e8d3c803e543	body conquest ii (japan).pce	pce-mame
+dccedf6d85ea5cf9c37c1c963b328735	bomberman - users battle (japan).pce	pce-mame
+17a08fca7468a24039f1a6c97015807f	bomberman '93 (japan).pce	pce-mame
+8930d24e64be677b898423a295b2bde0	bomberman '93 (special version) (japan).pce	pce-mame
+795321485b7d58701cd5b661d6ad636a	bomberman '93 (usa).pce	pce-mame
+31a21937e7bda97ee54fd49f2475b6d3	bomberman '94 (japan).pce	pce-mame
+4bece0e426eec02f894399219f1951cf	bomberman (japan).pce	pce-mame
+22945308eb41396f39c00444be9f251f	bomberman (usa).pce	pce-mame
+f4922bc12ac5c46c29d18d21e34f910f	bonk iii - bonk's big adventure (usa).pce	pce-mame
+3aa21326050c489ea867de05dd6cb7e5	bonk's adventure (usa).pce	pce-mame
+dd97fe7e1572fe65fcb44e2757764b16	bonk's revenge (usa).pce	pce-mame
+85e073902278ac45b52adfec1ab1535a	bouken danshaku don - the lost sunheart (japan).pce	pce-mame
+c316ad2e57400feaf16fcaff67935b00	boxyboy (usa).pce	pce-mame
+f60f3d46b7fab6060c3be9aad2103558	bravoman (usa).pce	pce-mame
+ccf0795c95150fc3246926312fecf842	break in (japan).pce	pce-mame
+8aa27a2cdc063b278e063166a168a307	bubblegum crash - knight sabers 2034 (japan).pce	pce-mame
+7a48865eddcc5ef4bd998a5bfea05ae4	bull fight - ring no haja (japan).pce	pce-mame
+214a55e19aed90a0095ca0d65894b7d3	burning angels (japan).pce	pce-mame
+d11ceaccd53d005329febde8683192c7	busou keiji - cyber cross (japan).pce	pce-mame
+d42cf9bda2b8691a63c3f8337daa9b1d	cadash (japan).pce	pce-mame
+617a4254c05e88145110718951039e61	cadash (usa).pce	pce-mame
+337b0aa40e3c133b6242aa0b71a4fd20	champion wrestler (japan).pce	pce-mame
+fcd3e7f105514b61ff25dc3477f8b138	champions forever boxing (usa).pce	pce-mame
+ff32565f935af07372e1dfd0ac7fbe78	chew man fu (usa).pce	pce-mame
+0d1e37aa94d82ef48f94f11f04fe7db1	chibi maruko chan - quiz de piihyara (japan).pce	pce-mame
+8649845540952b77baa7a8ad9b2ba36c	chikudenya toubei - kubikiri yakata yori (japan) [a].pce	pce-mame
+230232534784e6b36c0e8b5df1572cbc	chikudenya toubei - kubikiri yakata yori (japan).pce	pce-mame
+60bb0116b706fc30a76840ed0b5da458	china warrior (usa).pce	pce-mame
+2cb4b55b6c4883530cdd452552b277c4	chouzetsu rinjin - bravoman (japan).pce	pce-mame
+bb10ab1d4e671e4c4adf7674acd7115f	circus lido (japan).pce	pce-mame
+32a6a97aa9e69fa8091bfda374609922	city hunter (japan).pce	pce-mame
+a3a1be9fc3baef5e7bc6554962aea55b	columns (japan).pce	pce-mame
+355d6a12b2512361a49572ef0ee296a1	coryoon - child of dragon (japan) [a].pce	pce-mame
+a02c4e74d78c7e02f1ff1dbf13aca711	coryoon - child of dragon (japan).pce	pce-mame
+653c1be1f0f5e032bc3ec6b4e2823b98	cratermaze (usa).pce	pce-mame
+abf5d536a648dd2dd2281580eea8c2d5	cross wiber - cyber combat police (japan).pce	pce-mame
+a389bc9609008c30a1eb5c6eb983751c	cyber core (japan).pce	pce-mame
+c16b1aee2d7023b410dd5e513c4aec0b	cyber core (usa).pce	pce-mame
+cbc880d19c5a996d58d8a8d9c468d31b	cyber dodge (japan).pce	pce-mame
+dad257d4984635f70580b10f1ae1b75c	cyber knight (japan).pce	pce-mame
+677302bdec15a9c56ef6b7aade125fad	dai senpu (japan).pce	pce-mame
+4a1f595eec378e553506fcfdca5a2c8a	daichi kun crisis - do natural (japan).pce	pce-mame
+c87135a6af3344c9316fe06fccbcfd97	darius alpha (japan).pce	pce-mame
+3274eee61dae966e15822558940e5d4d	darius plus (japan).pce	pce-mame
+d2a603fad8df15b3c617b7e8b24e8606	darkwing duck (usa).pce	pce-mame
+b45d198d7895d10e41f308427dab6b3f	davis cup tennis (usa).pce	pce-mame
+e133de02b11031cf8a010e07bd772f3f	dead moon (japan).pce	pce-mame
+47e3d20a759659e30cef20aaaa5731b0	dead moon (usa).pce	pce-mame
+12c28460b65b5e1d898ac77c30124122	deep blue - kaitei shinwa (japan).pce	pce-mame
+ae3165e430f12fd57de382ab34e16dee	deep blue (usa).pce	pce-mame
+c42ad354e906d5a4741349002b94b9c2	detana twinbee (japan).pce	pce-mame
+f677b6d9475fca8a07b66068ead12c24	devil crash - naxat pinball (japan).pce	pce-mame
+92fbe89d4c87bf283dbfbeac69a64e6e	devil's crush - naxat pinball (usa).pce	pce-mame
+7dd298a6e9f2abce6f85d262ec37f483	die hard (japan).pce	pce-mame
+ac5290f448ee230ff9337b437557af52	digital champ (japan).pce	pce-mame
+5d27b090b2e630a30b60341cb47606a7	don doko don (japan).pce	pce-mame
+77cf3e53c5e4fbef73087893cdeec84f	doraemon - meikyuu dai sakusen (japan).pce	pce-mame
+14813eff2b436fa5eb1c3e95e99993a9	doraemon - nobita no dorabian night (japan).pce	pce-mame
+990b1d0ae114c8da37ce0fe932c26cff	double dungeons - w (japan).pce	pce-mame
+5ba010cd617c6f2b0f6e926fd4ef8a42	double dungeons - w (usa).pce	pce-mame
+b9d993a7cd1e25e20fd06818c3387882	download (japan) [a].pce	pce-mame
+10de08141486e768e6743d9a1c2c57f4	download (japan).pce	pce-mame
+51fefc9b576f23ab0245baeb64a7ab17	dragon egg (japan).pce	pce-mame
+6fb2be6f35f0fcad1f0b61e710aecdb8	dragon saber - after story of dragon spirit (japan) [a].pce	pce-mame
+a8dbe74d6cb012951478202e3b5ea08a	dragon saber - after story of dragon spirit (japan).pce	pce-mame
+0a459d74f0545f4538705276422be34e	dragon spirit (japan).pce	pce-mame
+1fe13078c7aba4ef0777d5a470d56986	dragon spirit (usa).pce	pce-mame
+55153240fe1d0076c4f759b82f2d7e3e	dragon's curse (usa).pce	pce-mame
+e0051f316de7576794462bae8970c043	drop rock hora hora (japan) [a].pce	pce-mame
+5e19ade2ef645d500357b2014813ab68	drop rock hora hora (japan).pce	pce-mame
+7df6342574ed3e0241029a11f1f5c4da	drop.off (usa).pce	pce-mame
+414a24f02a45bb04360d80d49c0d9a8b	dungeon explorer (japan).pce	pce-mame
+a07c43bea439c8c904bc4908737af5c5	dungeon explorer (usa).pce	pce-mame
+b928568fd7258f90b5ac410c7f65c48c	energy (japan).pce	pce-mame
+eca0a8c5e5aba1b3044036ca1e6db2b3	f-1 dream (japan).pce	pce-mame
+81aee6771f89d1f04ddecc7c4405773d	f-1 pilot - you're king of kings (japan).pce	pce-mame
+7b301f38b70f607a4fd43f5a56a00445	f1 circus '91 - world championship (japan).pce	pce-mame
+3fc53a0d8981eb60867d0876c0554e02	f1 circus '92 - the speed of sound (japan).pce	pce-mame
+206a99b78d3239d2d84f8c7182efa83b	f1 circus (japan) [a].pce	pce-mame
+abe73a499d4006e3906e97c7d31fb4cc	f1 circus (japan).pce	pce-mame
+e6cfec9aa8d327b80c01ce40348101ab	f1 triple battle (japan).pce	pce-mame
+23ece73eac29304b0300cebcf52841a4	falcon (usa).pce	pce-mame
+9f3078e85b7604f5df6d858dea879696	fantasy zone (japan).pce	pce-mame
+0c5fc299491c50c2d2f532308597a159	fantasy zone (usa).pce	pce-mame
+0c04100ec80cb330d8deade60f4fbb24	fighting run (japan).pce	pce-mame
+b0fe98f3f2a7ce5407353bb5d3207db8	final blaster (japan).pce	pce-mame
+5ff73dfe46e66422159d09ad2035af94	final lap twin (japan).pce	pce-mame
+70ea7c2d63fcc6a9719a85bba9cebc04	final lap twin (usa).pce	pce-mame
+595364eede949021345f1f7735e64355	final match tennis (japan).pce	pce-mame
+fe5b3f899f0ee5994508f259bbb74cfe	final soldier (japan).pce	pce-mame
+838e1ae033f797bad4a122a593604a8f	final soldier (special version) (japan).pce	pce-mame
+2092c615674a9cb9f92b3ebbee9958d6	fire pro wrestling - combination tag (japan).pce	pce-mame
+742a4ee10354b85a2439a09ea097a3ec	fire pro wrestling 2 - 2nd bout (japan).pce	pce-mame
+4977af10c5295122b48252d0d7f0b5d9	fire pro wrestling 3 - legend bout (japan).pce	pce-mame
+229eadd97abff922f2e3911f91f6a871	formation soccer - human cup '90 (japan).pce	pce-mame
+df9c47bd8b3558f4d3e830dcbb74ed1c	formation soccer - on j. league (japan).pce	pce-mame
+3e0cd9af31efe11acf733fb15dc31131	fushigi no yume no alice (japan).pce	pce-mame
+1f82d7ccd607138a06bdcb17055e35e1	gai flame (japan).pce	pce-mame
+257c9897aa80194a5e9c5f5deac2219f	gaia no monshou (japan).pce	pce-mame
+6404084e36d3cc061503ee5501f79ed2	galaga '88 (japan).pce	pce-mame
+94814db23e163dbfc7d7505170e145c2	galaga '90 (usa).pce	pce-mame
+fcf8bdc8f67f284a841caddd82d8b3e6	ganbare golf boys (japan).pce	pce-mame
+355f281d002a139a05525264a28fb526	gekisha boy (japan).pce	pce-mame
+e194791e1c3d709c7fff4b8c808b65ab	genji tsuushin agedama (japan).pce	pce-mame
+c3357cc104feb0686ede96b099a2de2d	genpei toumaden (japan).pce	pce-mame
+f6b763e45180bd47a689d03890a82344	genpei toumaden ni no maki (japan).pce	pce-mame
+2f2d4d92c14ba5770edd5f449507aac8	ghost manor (usa).pce	pce-mame
+144eb9109d75c8fd1fa09a20bde6a6cd	gokuraku chuuka taisen (japan).pce	pce-mame
+58418c0db028885a2f49abf4993f2b0e	gomola speed (japan).pce	pce-mame
+16fe78b1630a790bee6755e3c850a366	gradius (japan).pce	pce-mame
+58daff928a279867cd0629185d2c0733	gunboat (usa).pce	pce-mame
+cf91d85fa31a2baf459c65addaa4326e	gunhed - hudson gunhed taikai (japan).pce	pce-mame
+537c1976f0306e264da966a907b93e3f	gunhed (japan).pce	pce-mame
+38cddbab28df38cb8d3f447e6b2bea7c	hana taaka daka (japan).pce	pce-mame
+523f9d5bfb35037eeef71a34de4270a1	hanii in the sky (japan).pce	pce-mame
+7f242f75ac7a737b77b3cb388fce52e9	hanii on the road (japan).pce	pce-mame
+03d5882776b8dad0ddceff42a173d493	hatris (japan).pce	pce-mame
+fc73cb01460d932319dd3eeff3032951	heavy unit (japan).pce	pce-mame
+29cefd813b21e67bbac653454f48951a	hisou kihei - xserd (japan).pce	pce-mame
+e313b6d6c03c3f1d7f05750697104d67	hit the ice - vhl the official video hockey league (japan).pce	pce-mame
+d2f94b64b528c320d5ee148fe77f05f5	hit the ice - vhl the official video hockey league (usa).pce	pce-mame
+c257e411cda69c988095166ba5223e4b	honoo no toukyuuji dodge danpei (japan).pce	pce-mame
+b218d95cc1b2e827be76282d726c6244	idol hanafuda fan club (japan).pce	pce-mame
+baf6760fcd3b43540d55afc71f929697	image fight (japan).pce	pce-mame
+d212a1bbb8d329d05910dc407ca60173	impossamole (usa).pce	pce-mame
+cf3c65b99a222a4e72824eadc58c09cd	j. league greatest eleven (japan).pce	pce-mame
+b614f91296aaed8afabd4f03f4ee40d1	j.j. & jeff (usa).pce	pce-mame
+9a9255cea330ed35f65ee10406c37c07	jack nicklaus' greatest 18 holes of major championship golf (japan).pce	pce-mame
+cf2610a2be004edfa2faa487b81386e3	jack nicklaus' turbo golf (usa).pce	pce-mame
+6a855357252a38e29f99cc1bc9560990	jackie chan (japan).pce	pce-mame
+5a8c0f70f333ff03c8eb836eeb5f2ff9	jackie chan's action kung fu (usa).pce	pce-mame
+294f2aa990c9c2c71554a6e3e7c979ef	jigoku meguri (japan).pce	pce-mame
+31d2dce8774adc6c030baebebcbc20c4	jinmu denshou (japan) [a].pce	pce-mame
+b7bd7bb88393a97bdf6072534177fe7d	jinmu denshou (japan).pce	pce-mame
+b5d09f3233d18b96fbf5e0375cb2f93e	juuouki (japan) [a].pce	pce-mame
+2b47ceea374d6c11471310caec5ccb36	juuouki (japan).pce	pce-mame
+8041a028a666cc0adc7a06c20a99d172	kaizou choujin shubibinman (japan).pce	pce-mame
+503ef03f5b4f2a490ab975f5be4bc896	kaizou choujin shubibinman 2 - aratanaru teki (japan).pce	pce-mame
+23df0b354e83876a94e9c128a7a9eb80	kato chan & ken chan (japan).pce	pce-mame
+4ddd59aff152e8fc1a4b510c9fedd4e0	kattobi takuhai kun (japan).pce	pce-mame
+e5309b10903ccc3032c2f919e8db7384	keith courage in alpha zones (usa).pce	pce-mame
+42d164b0ae86ae4dab3fdb7ca9f3bdb2	kickball (japan).pce	pce-mame
+b345329df7acc1938c291440dd1ed5ad	kiki kaikai (japan).pce	pce-mame
+e71eee5c2dd0fb5f5fe7f0c85aa2112e	king of casino (japan).pce	pce-mame
+8f4e92645be8de92e18527b31b4ee67e	king of casino (usa).pce	pce-mame
+62c2fcbf48d1cfc80b70ffcab28c3585	klax (japan).pce	pce-mame
+8becf757a68f72a01428d4359165e463	klax (usa).pce	pce-mame
+79d305689a039f99faca0f9348d36e8f	knight rider special (japan).pce	pce-mame
+b80f7a304c71aa96a51cc6d1505f8b29	kore ga pro yakyuu '89 (japan).pce	pce-mame
+df290c2d9117ac9a402c83dd1fa028e7	kore ga pro yakyuu '90 (japan).pce	pce-mame
+b6f712b2ab6726a80a0e328f58d9e1b2	kung fu, the (japan).pce	pce-mame
+4c7d1e7dc7d5aaee62d3b5a01309d848	kyuukyoku mahjong - idol graphics (japan).pce	pce-mame
+eb104b94d861322d0e13604a69d3d0ea	kyuukyoku mahjong ii (japan).pce	pce-mame
+467c1ee6a921a3bbb4a94fc078f7353d	kyuukyoku tiger (japan).pce	pce-mame
+dbcd263d46998d509da8e62ab5a281d6	lady sword (japan) [a].pce	pce-mame
+71c5cffeab1cb60a04b5e77a338117ac	lady sword (japan).pce	pce-mame
+d4969ea433986e5dbea3b4892482f5ef	legend of hero tonma (japan).pce	pce-mame
+cfaa094419809446cabfe739995e22ee	legend of hero tonma (usa).pce	pce-mame
+fbcbb34f678f6f70795bde96d295bc2f	legendary axe ii, the (usa).pce	pce-mame
+f69b506237ce7d05e7f839d2cc96ab5a	legendary axe, the (usa).pce	pce-mame
+d633712965e5f791136b75bda7f9980b	lode runner - lost labyrinth (japan).pce	pce-mame
+887b9fa8296ff3c98839e11cc7039763	maerchen maze (japan).pce	pce-mame
+373c071a8379ab61de47a34170c4fa41	magical chase (japan).pce	pce-mame
+74d9f1bd96ba2690ed4cb989ebaeb948	magical chase (usa).pce	pce-mame
+cf8c62e6b9301a01aa4b61b4136c4fcd	mahjong gakuen - touma soushirou toujou (japan).pce	pce-mame
+3229f6fbdf069da5df4a6622ef828100	mahjong gakuen mild - touma soushirou toujou (japan) [a].pce	pce-mame
+ea0659c4607948ea54bd5d61799ac1a1	mahjong gakuen mild - touma soushirou toujou (japan).pce	pce-mame
+937699175649a98430a64c20cb19ae60	mahjong gokuu special (japan).pce	pce-mame
+79f0b287d9c185416c155616515ec2dc	mahjong haou den - kaiser's quest (japan).pce	pce-mame
+1fd10aab85dc9ad19cfd491684138db6	mahjong shikyaku retsuden - mahjong wars (japan).pce	pce-mame
+9a0a0e759f27f05f674e0830bfd2e835	maison ikkoku (japan).pce	pce-mame
+4c0b699a7d751886801b983fa638e8f8	majin eiyuu den wataru (japan).pce	pce-mame
+06c9c65e0e1c0669be28cc99ace61f54	makai hakken den shada (japan).pce	pce-mame
+31b5597ed22d3d143f98d394ee4593ad	makai prince dorabocchan (japan).pce	pce-mame
+09f944f6c28cf77d17dd668e9cc160f7	makyou densetsu (japan).pce	pce-mame
+6fba2dd4c455bb9bafd6892ec204e2bd	maniac puroresu - asu e no tatakai (japan).pce	pce-mame
+04ff555eafb23e45d55c61e9a29db815	mesopotamia (japan).pce	pce-mame
+fdad7cca269ed1a0676df12fa07eae01	metal stoker (japan).pce	pce-mame
+03d0442df107c97bb04c32de7cb7f5bc	military madness (usa).pce	pce-mame
+b8074808e85c4d120e9c0acd51426098	mizubaku dai bouken (japan).pce	pce-mame
+480423adbfe4e9f50bb26f418dcae490	momotarou densetsu gaiden dai 1 shuu (japan).pce	pce-mame
+4c3f3bbbe5a3f0ab2970adf55a867328	momotarou densetsu ii (japan).pce	pce-mame
+d2ea89603d76856603c85cb4ce7045ff	momotarou densetsu turbo (japan).pce	pce-mame
+ec7358edb3672a8aa8850623eec72a71	momotarou katsugeki (japan).pce	pce-mame
+ed3f985efd35dcc03ba0d93654a12b40	monster puroresu (japan).pce	pce-mame
+92bb585243a43ec7f881eafc578a2cc3	morita shougi pc (japan).pce	pce-mame
+6663e27f13af52f864f06781d1a00eb8	moto roader (japan).pce	pce-mame
+1b10baf9f65c8339a507e382bda5ed44	moto roader (usa).pce	pce-mame
+61bf2f34550c6f0db25c9f5221ede032	moto roader ii (japan).pce	pce-mame
+4e707e6e667f77a1956b22bf16e65ab4	mr. heli no daibouken (japan) [a].pce	pce-mame
+31867ab522ff7b9937987ec473db0a11	mr. heli no daibouken (japan).pce	pce-mame
+027376eb6a5f3f36de49b2f7a95d0958	narazumono sentai butai - bloody wolf (japan).pce	pce-mame
+c1555a2d2ac2f92730630d4860cd0745	naxat open (japan).pce	pce-mame
+7029f280c42ce2a25d435b8b1a3181d3	naxat stadium (japan).pce	pce-mame
+744455d7dcaa4ae0b6b9aa53aade20a3	nazo no mascarade (japan).pce	pce-mame
+6e6a1d3c2119b88c42d6cc516c71cdba	necromancer (japan).pce	pce-mame
+62ee11474eca60aacae8980556bc932f	necros no yousai (japan).pce	pce-mame
+38bf3fa078ab7bdc3d34fc9c18b0ce73	nectaris (japan).pce	pce-mame
+419545fa5e2587288e8aea87811c152a	nekketsu koukou dodgeball bu - pc bangai hen (japan).pce	pce-mame
+830e071a0ee4773193444950d235d7ef	nekketsu koukou dodgeball bu - soccer pc hen (japan).pce	pce-mame
+08ae173878d8a3783fa35e80c99a5dc4	neutopia (japan).pce	pce-mame
+eb0789088fc70be42b2f994c1b66be21	neutopia (usa).pce	pce-mame
+d04cabf4a80ce7cef46b7700cd469487	neutopia ii (japan).pce	pce-mame
+36678d3ec3b9eb534d9807be79587c8c	neutopia ii (usa).pce	pce-mame
+254434d0b15618dcff7c88d5ebdde248	new adventure island (usa).pce	pce-mame
+553dd0a65c0d060290f66c820ca94b1c	new zealand story, the (japan).pce	pce-mame
+de11f469adcb4465b49743fd2f1e3250	nhk taiga drama - taiheiki (japan).pce	pce-mame
+e658e63f886560e9c388e2a9ee2eb349	night creatures (usa).pce	pce-mame
+29c04086539f0e7b2a3b251e2290dc51	niko niko pun (japan).pce	pce-mame
+80498e6a60d2cd9aa925f45cbefbff83	ninja ryuuken den (japan).pce	pce-mame
+adecf9e9d9be8a300818ad2cc09d49fe	ninja spirit (usa).pce	pce-mame
+cd67ad6c5e69636c63d5cda218471738	ninja warriors, the (japan).pce	pce-mame
+4d007608da2f8dd091c2328a66e0f1dd	obocchama kun (japan).pce	pce-mame
+f4049602c39974b15bd682b1425edbc8	off the wall [proto 1].pce	pce-mame
+14adf02dd3ab66f20f7b15c69588b777	operation wolf (japan).pce	pce-mame
+30fa2b6c1083e1b382fcaa2cac782e08	order of the griffon (usa).pce	pce-mame
+2e3bd6ee158b239ff9a650d434bd92b3	ordyne (japan).pce	pce-mame
+d803eb8f622521e515ff1dd715e725c0	ordyne (usa).pce	pce-mame
+ee0ea8ef85d382f444656af31fa0b8e3	out live (japan).pce	pce-mame
+6dbeaf201713b8a2ffd0f2104fde1dfc	out run (japan).pce	pce-mame
+5c401f3e2ac7ceb85e85bb82cb46be24	override (japan).pce	pce-mame
+bfed2ef7677886467236dc92e09d63c3	p-47 - the freedom fighter (japan).pce	pce-mame
+e77ad358d00d7e052a129fc232556ff1	pac-land (japan).pce	pce-mame
+5cc45bfe5da979c51417e77bfe221a2b	pac-land (usa).pce	pce-mame
+10ded52993405fc37690214ca615008a	pachio kun - juuban shoubu (japan).pce	pce-mame
+f9fdabcefa6e69aba547b1a5113a133f	panza kick boxing (usa).pce	pce-mame
+a53f17bc3492e89c391e280e32397450	paranoia (japan).pce	pce-mame
+d3d67a165f433a50e7e27bfbf395e706	parasol stars - the story of bubble bobble iii (japan).pce	pce-mame
+dce241d9642866f75810f6ac3e3c6a4d	parasol stars - the story of bubble bobble iii (usa).pce	pce-mame
+39f5f51e066e2d7874efcff7d6f394ef	parodius da - shinwa kara owarai he (japan).pce	pce-mame
+793e5c0b15515e49fc3a20a55a04faf8	pc denjin - punkic cyborgs (japan) [a].pce	pce-mame
+7320bc8fb2a9417ee63cf77ada108753	pc denjin - punkic cyborgs (japan).pce	pce-mame
+096b2f0ac6747824f838a4206eff6374	pc genjin - pithecanthropus computerurus (japan) [a].pce	pce-mame
+0e997fd6e47e9212a90b0a137d65283d	pc genjin - pithecanthropus computerurus (japan).pce	pce-mame
+1d7dbc1ecff5f6661bffb6c2cfe1912f	pc genjin 2 - pithecanthropus computerurus (japan).pce	pce-mame
+5356014f520019f6adcbb1cbe1543dbe	pc genjin 3 - pithecanthropus computerurus (japan).pce	pce-mame
+f93adf9857caba9829dd6d8d37b2e94d	pc genjin 3 - pithecanthropus computerurus (taikenban) (japan).pce	pce-mame
+9424caffd567e880aea512dc823aca22	pc pachi-slot (japan).pce	pce-mame
+130a6d649d4498d6998d60211a18a4db	populous (japan) [a].pce	pce-mame
+9d599a43d2c69738f3562f58aeff8828	populous (japan).pce	pce-mame
+31e99416cecb9d0cee4c96604ea86045	power drift (japan) [a].pce	pce-mame
+c7f4c99ccb9f56ef954f3ccf332ce0db	power drift (japan).pce	pce-mame
+7d3343c0e248cac189915ed6def0e81a	power eleven (japan).pce	pce-mame
+a797c794f8eef6ebbdacd7a3996e7134	power gate (japan).pce	pce-mame
+c9acd977deb987ad2c63d43e57be2f35	power golf (japan).pce	pce-mame
+8a524c7491bd6614e9c92bb7117a57f3	power golf (usa).pce	pce-mame
+d77a24f6fff7183ed377e7753fccefda	power league '93 (japan).pce	pce-mame
+e5e1031c335221d57ad025fe9e61e698	power league (all star version) (japan).pce	pce-mame
+3a49c227a7cd14c96bc3aa6975c7f370	power league (japan).pce	pce-mame
+3cc67e4b750ce2d977580883f3840966	power league ii (japan).pce	pce-mame
+0c042e30ff15e4608e49f364b5be2233	power league iii (japan).pce	pce-mame
+d7b057e7c35be8cb7b37084ffe805688	power league iv (japan).pce	pce-mame
+35c4d1d204eed571700d18a46e697f25	power league v (japan).pce	pce-mame
+bdda8c3ce16bce8080455535f992cbcb	power sports (japan).pce	pce-mame
+c40760fa44a7bbe3438c0547541db20d	power tennis (japan).pce	pce-mame
+fb0e0ca7bdf2b7d8beed1d8c8a2af749	pro tennis world court (japan).pce	pce-mame
+ab15d6fdc397e66c0946194651d3069f	pro yakyuu world stadium '91 (japan).pce	pce-mame
+f5809c06f9ac594300f41584d44dbc16	pro yakyuu world stadium (japan).pce	pce-mame
+c21fe0981bf333dbf7b58382f5d309bb	psycho chaser (japan).pce	pce-mame
+c23ef1ca95a5aa6789c4172ac66d6b5d	psychosis (usa).pce	pce-mame
+6394145312caac816ca44af55dff9533	puzzle boy (japan).pce	pce-mame
+a8cdcc33207037a02868f366de6582ea	puzznic (japan).pce	pce-mame
+5351d1043b5212ab01c3e19ba817a03c	quiz toukou shashin (japan).pce	pce-mame
+0e0040142b5227f2b85be27364d5ea01	r-type (usa).pce	pce-mame
+ac7e0730b10c3cf1afdc675c808572b1	r-type part-1 (japan).pce	pce-mame
+1b00aea45aa694e0ae58a7d35aede8ad	r-type part-2 (japan) (v1.1).pce	pce-mame
+9fda7ef8db7fe2799149cb0fbef20c95	r-type part-2 (japan).pce	pce-mame
+4b942ff45a454222dd4ec1951e75a72c	rabio lepus special (japan).pce	pce-mame
+b0267ecb483472dac6e3f9f97f625a99	racing damashii (japan).pce	pce-mame
+42a5e13cbfab0c54d30f8ca6831f62ed	raiden (japan).pce	pce-mame
+5d08e419351cf3ee85e6536070cbb94f	raiden (usa).pce	pce-mame
+e998693ab9d694eebe66e5942fd5137e	rastan saga ii (japan).pce	pce-mame
+5fc5b7cd7f43f12d7e1eced8368d4296	rock-on (japan).pce	pce-mame
+9cd3662c5386b6f45a9744be79c7fcc5	ryukyu (japan).pce	pce-mame
+0cb043fe940e91d6660927aa6b01e1d9	sadakichi 7 series - hideyoshi no ougon (japan).pce	pce-mame
+7ed620b8a4a302dde75f074eabd4ead8	saigo no nindou - ninja spirit (japan).pce	pce-mame
+3c60a87ef4f90b20e149330e26253f4d	salamander (japan).pce	pce-mame
+6e32e0516ea74eb94a4f0bc8bd9dc47c	samurai-ghost (usa).pce	pce-mame
+81752039bb6a399d7228ad42d1eed156	sekigahara (japan).pce	pce-mame
+e099715c2b1e8d392e2bd7f0f9f9388a	sengoku mahjong (japan).pce	pce-mame
+e35f9e284d7299abaedad7662472d3c6	shanghai (japan).pce	pce-mame
+1659d9fa2ed7628d342fd7c7fbe6d439	shinobi (japan).pce	pce-mame
+cfd7fc43a9664979685b8e4358e4555f	shiryou sensen (japan).pce	pce-mame
+57c888f4af792dc4588a2f9dbebea31a	shockman (usa).pce	pce-mame
+72e2bc782598841a9e27782046e61219	shougi shodan icchokusen (japan).pce	pce-mame
+a2eb40128f6556368fa076166e7a587d	shougi shoshinsha muyou (japan).pce	pce-mame
+c1e1d8e68b3f4b04990093a73d1ad77e	sidearms - hyper dyne (japan).pce	pce-mame
+a97b9af7e814deb4e4358a466e7cd3c2	sidearms - hyper dyne (usa).pce	pce-mame
+37bf7db43aebb4fbbb886f8ca4062e0d	silent debuggers (japan).pce	pce-mame
+46719950684f5148c20730c6fd7df4a0	silent debuggers (usa).pce	pce-mame
+ce4a782b15e9944aa1356a2a2ed4fbec	sindibad chitei no dai makyuu (japan).pce	pce-mame
+1c5eb68a65115abaccd9479503fd3a2b	sinistron (usa).pce	pce-mame
+f411b4693c959657415346655dd062bc	skweek (japan).pce	pce-mame
+e78e5212d85d614060ae31135e4f4bfe	soldier blade (japan).pce	pce-mame
+59d23b7af39ea827eceb1d7e2cc363c0	soldier blade (usa).pce	pce-mame
+5283b6daae3e3c4523a86ef974cfeede	soldier blade special - caravan stage (japan).pce	pce-mame
+0060840cb54b2db4db8a2927d48c6c54	somer assault (usa).pce	pce-mame
+9f446641a2e1794c61624f0a062efae5	son son ii (japan).pce	pce-mame
+e9a17f9e425cb6cf3e14c83eddd7dc06	sonic spike - world championship beach volleyball (usa).pce	pce-mame
+7798dac32870699a62d00fbfd67ca8b5	soukoban world (japan).pce	pce-mame
+2c476453f2156c7afe10b5ed1fa60955	space harrier (japan).pce	pce-mame
+b87aba8faae39f238a8b2176daec96f4	space harrier (usa).pce	pce-mame
+b08a0efb7d780b77e4a7a6f290fe94a4	space invaders - fukkatsu no hi (japan).pce	pce-mame
+d86284f679e05540de98ed7f90a71fcf	special criminal investigation (japan).pce	pce-mame
+97a2bfd91ce98f2c941a1a6581701ac4	spin pair (japan).pce	pce-mame
+b5640a4df96c2eacf782e1b91cc59add	spiral wave (japan).pce	pce-mame
+ea2eaf7aa11a639d13a6119dd3c3f6dc	splatterhouse (japan).pce	pce-mame
+f6690ec0f440ced641718d6bc52e3fbd	splatterhouse (usa).pce	pce-mame
+2a55f96d5284f256a6bf9a17a3e2e9aa	stratego (japan).pce	pce-mame
+0d9135be3267876bfec7f588abeda5bb	street fighter ii' - champion edition (japan).pce	pce-mame
+cff035e7d00159ad0879df71e9aa25ca	strip fighter ii (japan).pce	pce-mame
+2958e95bb08aec03825f08bb955abdc6	super metal crusher (japan).pce	pce-mame
+f365369bf476cebccb48f3a38fe39cc6	super momotarou dentetsu (japan).pce	pce-mame
+093ace8d5348cc81501ce292a7f34f62	super momotarou dentetsu ii (japan).pce	pce-mame
+aa00c9f1db182f315338e24a892a84a8	super star soldier (japan).pce	pce-mame
+bc7d4b0852d04fe49f6e3705b899c5e5	super star soldier (usa).pce	pce-mame
+93ebc97ba0985310ab07e932264bb8e1	super volleyball (japan).pce	pce-mame
+2b31c6c01d779eec5bb19863e3c5af9b	super volleyball (usa).pce	pce-mame
+bdb29558fea5b2e7550087ad79718a4a	susanoo densetsu (japan).pce	pce-mame
+12d5098d64869e784cf10029838df21f	taito chase h.q. (japan).pce	pce-mame
+b6098cef5a4729009d446603c650e323	taito chase h.q. (usa).pce	pce-mame
+7bb9c15803e5af75a1e773c29a6db39d	takahashi meijin no shin boukenjima (japan).pce	pce-mame
+a402c5f2b38fc8733d7eb4a6082ee945	takeda shingen (japan) [a].pce	pce-mame
+a7c20f8d0359b63c568a1ab6ee560cc0	takeda shingen (japan).pce	pce-mame
+ffba5f3b04a2faf9a991e8fa3a5d4008	takin' it to the hoop (usa).pce	pce-mame
+729f10adbf2b8b90d62ce79a7e48c8d1	talespin (usa).pce	pce-mame
+d1b5fe051c357a2f8d166697d0f7db09	tatsujin (japan) (proto).pce	pce-mame
+0674f72871d7a779d262b519d244e33a	tatsujin (japan).pce	pce-mame
+3a12c1ffbf5773f52a6d327cbfe0b214	tatsunoko fighter (japan).pce	pce-mame
+e0047b06dc84cb242cced8c5fa7efafe	tennokoe bank (japan).pce	pce-mame
+92857243d4e985f1a58bec9cb2e16d58	tenseiryuu - saint dragon (japan).pce	pce-mame
+64716e1013c5230e25f0249d8e641d5b	terra cresta ii - mandoraa no gyakushuu (japan).pce	pce-mame
+b4bf32b4d986fa5f53115c3f361a8679	thunder blade (japan).pce	pce-mame
+189aec122ac913609c955c7c62aaa2e2	tiger road (usa).pce	pce-mame
+28efe8b957a43facba53afe2aec38a69	time cruise (usa).pce	pce-mame
+fac1e4b316c405a0477341b3fc22ec08	time cruise ii (japan).pce	pce-mame
+5ea85e345f3970ec6edf45da758121a0	timeball (usa).pce	pce-mame
+a9f182b617533d24200b4e39b2b311ad	titan (japan).pce	pce-mame
+7759f9e0a001483ae1fa2ea2a186e4c1	toilet kids (japan).pce	pce-mame
+e29c489f69b1fcbd37937fa4d31f9d0c	tora e no michi (japan).pce	pce-mame
+07c06f305051862e381589d43978b1e9	toshi tensou keikaku - eternal city (japan).pce	pce-mame
+df4fa7ddc1a4e8cc29dc67e700b2a55a	tower of druaga, the (japan).pce	pce-mame
+982f85207499ecd6530fcd6e18e2061c	toy shop boys (japan).pce	pce-mame
+afd88ae448d851e58bade33abe3a4a47	tricky (japan).pce	pce-mame
+8621c1eed634bddc9d232bb303a2c260	tricky kick (usa).pce	pce-mame
+6c75e08df27d78da7e6607782374576d	tsuppari oozumou - heisei ban (japan).pce	pce-mame
+191df80c4ead5f5acdb24c7ec2c93331	tsuru teruhito no jissen kabushiki bai bai game (japan).pce	pce-mame
+52d40c4e0a8435308c22c69a54e4baae	turrican (usa).pce	pce-mame
+9561486f27c94d8a326f0d321ad4f65b	tv sports baseball (prototype).pce	pce-mame
+6bfe35219d3e479489befb2921a5ea7b	tv sports basketball (japan).pce	pce-mame
+36da17b2e751ec8660bb12f9cb2eb6b2	tv sports basketball (usa).pce	pce-mame
+f3ca8091a325067f442630af4cb4e53b	tv sports football (japan).pce	pce-mame
+94dc4d0d2a35a151b01f8a0433b12b12	tv sports football (usa).pce	pce-mame
+94d50a7e9871935c32a97c11e27de39a	tv sports hockey (japan).pce	pce-mame
+85b530cc0513f23f1bcced8be7f7e503	tv sports hockey (usa).pce	pce-mame
+63b5ffe340e140aa2b4b2c6c8635934b	usa pro basketball (japan).pce	pce-mame
+98e5da6e3b6bf779a419149e5d97a53c	veigues - tactical gladiator (japan).pce	pce-mame
+757754c27f380ce3f574bb861d641247	veigues - tactical gladiator (usa).pce	pce-mame
+1a09d66caead5bc0f7669dc1af346d9c	victory run (japan).pce	pce-mame
+bc4361c967514ef29293778ad748a6b7	victory run (usa).pce	pce-mame
+4333192a22a121772356d3821d445a69	vigilante (japan).pce	pce-mame
+589f7ceb0bd851f6442e53858a0dc51c	vigilante (usa).pce	pce-mame
+6e1f6d152f17b6008d1968d016c34a1a	violent soldier (japan).pce	pce-mame
+998cfe18bf12b235462d21eb6d80c25f	volfied (japan).pce	pce-mame
+7c5f8476e6b5ec9e56f4b67a00f022e7	w-ring - the double rings (japan).pce	pce-mame
+7b0ed7b884b3d6690c3a586c682f3adc	wai wai mahjong - yukaina janyuu tachi (japan).pce	pce-mame
+f08a37d37a69315652e1a0ec8dbba650	walkuere no densetsu (japan).pce	pce-mame
+597331c0b7cf491d042a055ed1e2ab9e	wallaby - usagi no kuni no kangaroo race (japan).pce	pce-mame
+039fb7644dc73ded9744a1d73fde9e72	winning shot (japan).pce	pce-mame
+367c426ccd7b9ce45e86a836d83d17db	wonder momo (japan).pce	pce-mame
+01b12cf69e894990d7184b308890b1b2	world beach volley (japan).pce	pce-mame
+f6402df31096393d038585bdeafe44d5	world circuit (japan).pce	pce-mame
+b125af2edd2f27e04e693b4b5112fed7	world class baseball (usa).pce	pce-mame
+994d61834e2ee91313b75618ce213971	world court tennis (usa).pce	pce-mame
+5614339b28e660212ab596311f4f59d3	world jockey (japan).pce	pce-mame
+e413c2a7769831419c4efc9782dc4f97	world sports competition (usa).pce	pce-mame
+4ec600e148ca399c1c1f215949430129	xevious - fardraut densetsu (japan).pce	pce-mame
+8aaad7004680ebede55b2c39af87bb3b	yo, bro (usa).pce	pce-mame
+cd2c47eaeb842cbcfe2ebcbe5710bf61	youkai douchuuki (japan).pce	pce-mame
+e25d51114a230e039f8dd3b761fd23d3	yuu yuu jinsei - victory life (japan).pce	pce-mame
+cf51006c86541b94e8305f456c4d47c5	zero 4 champ (japan) (v1.5).pce	pce-mame
+a755177ecfe1910928fa74d818a10e7c	zero 4 champ (japan).pce	pce-mame
+749a1613022e9efe29dec953c3ecce9f	zipang (japan).pce	pce-mame

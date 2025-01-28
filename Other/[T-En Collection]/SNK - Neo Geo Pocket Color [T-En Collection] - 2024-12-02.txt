@@ -1,0 +1,8 @@
+3c5ee6e830d60f5bc8f3a5a5a53558bb	Cool Cool Jam (Japan) [T-En by WyndCrosser v0.01] [i].ngc	ngpc-t-en
+90b7543441197553f6a4402cd6b87c3f	Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan) [T-En by WyndCrosser v0.38] [i].ngc	ngpc-t-en
+a4e86de6caa29f30f82a8e7045c46fff	Mizuki Shigeru no Youkai Shashinkan (Japan) [T-En by WyndCrosser v0.01] [i].ngc	ngpc-t-en
+866e717e2c684e073e6d034f5a56f7b7	Nige-ron-pa (Japan) [T-En by Loïc v0.9].ngc	ngpc-t-en
+b43b8b637c067be0fc4e9fd3b246a78d	Ogre Battle Gaiden - The Prince of Zenobia (Japan) [T-En by FFaddic v1.0] [i] [n].ngc	ngpc-t-en
+62ba425e8a32bb953dcf0dc36cdabbf2	Rockman - Battle & Fighters (Japan) [T-En by marc_max v0.9] [i].ngc	ngpc-t-en
+0a85a643ae051e0f55d27be60df01e9c	Rockman - Battle & Fighters (Japan) [T-En by Marc_max v1.0] [i].ngc	ngpc-t-en
+3c6c6e42d10b76bbccacf125f5d2b769	SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan) [T-En by CFC2 Translation Team v20170125].ngc	ngpc-t-en

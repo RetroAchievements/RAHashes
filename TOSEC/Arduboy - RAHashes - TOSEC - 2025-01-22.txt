@@ -1,0 +1,69 @@
+1e7e936083f1ea6584c00dbc40351b59	Balancing Act v1.0 (2020-12-24)(Falgout, Zachariah)(MIT).hex	arduboy-tosec
+f60b59dc4ae3509372d6cfac5985a7d2	Balancing Act v1.0 (2020-12-24)(Falgout, Zachariah)(MIT)[bootloader].hex	arduboy-tosec
+0b22c1c55eb854d4ad0f7268a5269689	BitWars v1.0 (2018-05-08)(Falgout, Zachariah)(MIT).hex	arduboy-tosec
+2d17fc9797e4490d92ad5bf94f3ec3e4	BitWars v1.0 (2019-03-19)(Falgout, Zachariah)(MIT).hex	arduboy-tosec
+089e9efcd6fcd9eabe642145f6a719ef	BitWars v1.0 (2019-03-19)(Falgout, Zachariah)(MIT)[bootloader].hex	arduboy-tosec
+e3851dcdb13e72bb22952e37217dd969	Bone Shakers (2018-09-09)(jhhoward)(GPLv3).arduboy	arduboy-tosec
+351aa97832325f9207ba246765d6acfa	Bounce v1.0 (2018-03-03)(Falgout, Zachariah)(MIT).hex	arduboy-tosec
+5711b40f40a8c51e21d2919b42517a2d	Bounce v1.1 (2019-03-19)(Falgout, Zachariah)(MIT).hex	arduboy-tosec
+b6b30ea6564d33586ff5cf0ec7557f0b	Bounce v1.1 (2019-03-19)(Falgout, Zachariah)(MIT)[bootloader].hex	arduboy-tosec
+905f56579dd5f539d721c4b12e55921b	Catacombs of the Damned v0.1 (demo-playable) (2018-10-05)(jhhoward)(GPLv3).hex	arduboy-tosec
+7006e62a79a96e339034e5ce89684785	Catacombs of the Damned v1.0 (2019-07-04)(jhhoward)(GPLv3).arduboy	arduboy-tosec
+2983b038975ba52399b10de816ea7a4d	Crates v2 (2018-09-11)(Millar, Jesse).hex	arduboy-tosec
+b4ca4ce18a7d6128ebe80e90fd919fd1	DanceRow v.1 (2018-01-15)(Madya, Vincentius)(SG)(MIT).hex	arduboy-tosec
+e74eaca10ea65949de11ba58226d006d	Factor-9 (2023-09-29)(TropicAnthropic)(GPLv3).hex	arduboy-tosec
+b473fd515ce89e9ee7747cba7b17cfeb	FrankenMacCharDeeDen v1.0.0 (2021-04-30)(poevoid)(MIT).hex	arduboy-tosec
+ada41dd5afc70baa9343218fc624c77e	Himedun v1.00 (2023-10-29)(SUMA)(en)(FW).hex	arduboy-tosec
+9484738255feea9fc642cd0db3a29690	Himedun v1.00 (2023-10-29)(SUMA)(ja)(FW).hex	arduboy-tosec
+c16629e4e444a85ba6a02aa620a3941b	MicroCity v1.0 (2018-01-11)(jhhoward)(GPLv3).hex	arduboy-tosec
+1d09e9ac347ff25d7975a949042bb158	MicroCity v1.1 (2018-02-18)(jhhoward)(GPLv3).arduboy	arduboy-tosec
+ab8f41083795dae59799812d2c2bdce4	MicroCity v1.1 (2018-02-18)(jhhoward)(GPLv3).hex	arduboy-tosec
+0578b1c4eae54310fcadc26d6e3ddc5d	MicroCity v1.2 (2019-12-03)(jhhoward)(GPLv3).arduboy	arduboy-tosec
+6717a1b1e960d013ef61eceea6ea0006	MicroCity v1.2 (2019-12-03)(jhhoward)(GPLv3).hex	arduboy-tosec
+4c02dcf9a4c3e50aa67ae0b67fd0aec9	MicroCity v1.3 (2020-12-05)(jhhoward)(GPLv3).arduboy	arduboy-tosec
+a1b9d0c531062cbdd5996fce810283ca	MicroCity v1.3 (2020-12-05)(jhhoward)(GPLv3).hex	arduboy-tosec
+f8efc63fd3efa111946dfb700c5598f8	MouseEscape v1.0 (2019-06-02)(Falgout, Zachariah)(MIT).hex	arduboy-tosec
+a69feffd0b1e2bec5a86891bc965e7e1	MouseEscape v1.0 (2019-06-02)(Falgout, Zachariah)(MIT)[bootloader].hex	arduboy-tosec
+f57868cee4d03dfc1f839730a5f659b4	Network of the Damned v0.1 (2019-12-03)(jhhoward)(GPLv3).hex	arduboy-tosec
+c14c788786b2b53d30b43a49c68f3817	ObstacleFlight (2018-06-09)(Gitonym)(PD).hex	arduboy-tosec
+3c5d6140563b9dbc82eef1128ba1a989	Octet Night v1.0r1 (2021-06-30)(Alvarez, Fran J.)(BSD-3).hex	arduboy-tosec
+44573aaafcaa38a29b2eff91033b1707	Octet Night v1.1 (2021-08-09)(Alvarez, Fran J.)(BSD-3).hex	arduboy-tosec
+4dfdad86f1decfdf1b31edcf6fc6ed42	Pawn Path v0.1 (2021-08-08)(Alvarez, Fran J.)(BSD-3).hex	arduboy-tosec
+022aaf5a6ba419083e155e74df6e9ad0	Pawn Path v0.2 (2021-08-09)(Alvarez, Fran J.)(BSD-3).hex	arduboy-tosec
+56eb2a9ed8b14efe44926f173daeb9a0	Pawn Path v0.3 (2021-08-10)(Alvarez, Fran J.)(BSD-3).hex	arduboy-tosec
+47df8da4938210e1c67224281e894483	Pip-Boy 32,000 (2021-05-21)(poevoid).hex	arduboy-tosec
+1b3f5f9a3ddc52b386a02e52867c394d	Pocketchi v0.1 (2022-02-14)(Alvarez, Fran J.)(BSD-3).hex	arduboy-tosec
+6d4075d46df591d5d32543e7eb56ff3c	Prize Frenzy v.1 (2018-01-15)(Madya, Vincentius)(SG)(MIT).hex	arduboy-tosec
+4c21956b785c051c761666126a6dbbd7	Quest for Truth, The v1.0.0 (2019-12-26)(Elias, Guillaume)(CA)(LGPL-3.0).hex	arduboy-tosec
+2f159fd18ce7ed9638ab8fe6febb2c75	Rhythum v1.0 (2020-08-28)(Falgout, Zachariah)(MIT).hex	arduboy-tosec
+d615c970c6accc128745c1680e2beb6c	Rhythum v1.0.1 (2020-08-30)(Falgout, Zachariah)(MIT).hex	arduboy-tosec
+a94ffa83a82a51de18221c260eaa3e40	Rhythum v1.0.2 (2020-09-18)(Falgout, Zachariah)(MIT).hex	arduboy-tosec
+d5f30a695edb0c0d78bdc096e9d153a6	Sandbox - A Falling Sand Simulator (2021-05-31)(rburmorrison).hex	arduboy-tosec
+d65b44b7b77db44aa8d08d57f0210175	Santa's Factory v.1 (2018-01-15)(Madya, Vincentius)(SG)(MIT).hex	arduboy-tosec
+4cf03d0b7d69a3ad85f7a4a5fc3f3d74	Social Distance Game, The v1.0.0 (2020-04-12)(Sanatan, Marcus)(TT)(MIT).hex	arduboy-tosec
+ca8b689bed5ce47072a2d04b90806f10	Social Distance Game, The v1.1.0 (2020-04-28)(Sanatan, Marcus)(TT)(MIT).hex	arduboy-tosec
+b172fe80b3304df6d2cef2357cc50cac	Sodalite (2023-09-25)(jyujyun).hex	arduboy-tosec
+fe26fa4b3cc98d08e4fc58c73c91799e	TankForceOne (2018-09-23)(Gitonym)(PD).hex	arduboy-tosec
+9d143b7c4e718b8a691340b3a4db660b	TankForceOne (2018-09-23)(Gitonym)(PD)[bootloader].hex	arduboy-tosec
+725d7c9e0caf83374f4da5273ce878fe	TechnoMonkey v1.0 (2019-03-19)(Falgout, Zachariah)(MIT).hex	arduboy-tosec
+6dadeb2c441d952c730b9795c4d130b7	TechnoMonkey v1.0 (2019-03-19)(Falgout, Zachariah)(MIT)[bootloader].hex	arduboy-tosec
+fe6d57ca33f9c7e11c5ab1a6748ba16f	Tiny Dash (2023-09-28)(Fven)(MIT).hex	arduboy-tosec
+72ae780d74ba63473f2a5532e5b44cf8	TnTANK v1.0 (2018-03-03)(Madya, Vincentius)(SG)(MIT).hex	arduboy-tosec
+35a98313d27fa2f63a123c3c6abb63ed	TnTANK v2.0 (2018-03-03)(Madya, Vincentius)(SG)(MIT).hex	arduboy-tosec
+b125b7ae96a6d1a00e3b21ff7230bd44	Tower of Pain v1.0 (2021-05-30)(Alvarez, Fran J.)(BSD-3).hex	arduboy-tosec
+352dbd9ecd3a6f0f935aa35b513e2611	Tower of Pain v1.1 (2021-06-07)(Alvarez, Fran J.)(BSD-3).hex	arduboy-tosec
+abb3f5a0a3eec321445f8f72a4395ec9	Tower of Pain v1.1.1 (2021-06-07)(Alvarez, Fran J.)(BSD-3).hex	arduboy-tosec
+1d6b2163373519ad3f392e4721ed2fb8	Tower of Pain v1.1.2 (2021-06-10)(Alvarez, Fran J.)(BSD-3).hex	arduboy-tosec
+67b3de6b1b43d7e96b2fcc42b340e974	Tower of Pain v1.2.0 (2021-06-17)(Alvarez, Fran J.)(BSD-3).hex	arduboy-tosec
+bfe58e5d1406f6345e26de2a4551d74a	Tower of Pain v1.2.2 (2021-06-17)(Alvarez, Fran J.)(BSD-3).hex	arduboy-tosec
+262c1a51d3faa8719c9a5f84a527b04b	Urinal Game, The (2023-10-21)(bateske).hex	arduboy-tosec
+532d88967dce2cabcf327588eed28909	Wolf & Eggs (2023-09-26)(Petrov, Dmitriy)(RU)(GPLv3).hex	arduboy-tosec
+cefaf8d43ee83533f17ec6a03011f66c	Ardutosh v1.0 (2019-11-12)(jhhoward)(GPLv3).arduboy	arduboy-tosec-applications
+ed88ed30671d4ab446bede76f135dfbf	Ardutosh v1.0 (2019-11-12)(jhhoward)(GPLv3).hex	arduboy-tosec-applications
+aa9c44860d762b6172968097b6b79d13	Ardutosh v1.0.1 (2019-11-13)(jhhoward)(GPLv3).arduboy	arduboy-tosec-applications
+c0fa8f46b4e750d9df14534dea6bc392	Ardutosh v1.0.1 (2019-11-13)(jhhoward)(GPLv3).hex	arduboy-tosec-applications
+b1338063ef40950bdc578ee2f0c9346d	Ardutosh v1.0.2 (2019-11-14)(jhhoward)(GPLv3).arduboy	arduboy-tosec-applications
+758653b7371cc893e96e28fd3155fe84	Ardutosh v1.0.2 (2019-11-14)(jhhoward)(GPLv3).hex	arduboy-tosec-applications
+c66930337966ec876bd50b4631e26ccf	Morse Code Writer (2023-10-07)(TropicAnthropic)(GPLv3).hex	arduboy-tosec-applications
+9bbd140dabe21c1e440f17cd9ac1f07a	3D Spinning Rat (2023-10-19)(bateske).hex	arduboy-tosec-demos
+9446d88a17a966edb04dcd192b060a3a	FractalSerpinskyTriangleBoy (2023-09-30)(Petrov, Dmitriy)(RU).hex	arduboy-tosec-demos

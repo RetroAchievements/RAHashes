@@ -1,0 +1,89 @@
+89e42e0dffa4abb136784b1208d0d3af	Alien Taro Tanaka in RPG Maker GB 2 (Japan) [T-En by PentarouZero v0.50] [i] [n].gbc	gbc-t-en
+1c84c90f2c9d9b30121e060a7f14c9a7	Arle's Adventure - Magical Jewels (Japan) (SGB Enhanced) (GB Compatible) [T-En by Jazz v1.0] [n].gbc	gbc-t-en
+88c640879cf3c2958303153ae40b3ac5	Balloon Kid (Japan) (SGB Enhanced, GB Compatible) (NP) [T-En by DACE v1.0] [n].gbc	gbc-t-en
+1a93d369227dc0f9e371f9451d70d57c	Battle of Vietnam 2001, The (Asia) (Unl) [T-En by PentarouZero v1.0] [n].gbc	gbc-t-en
+bc027e0ad5db64bb5b0a3eadbcf5e087	Detective Conan - The Legendary Treasure of Strange Rock Island (Japan) (SGB Enhanced) (GB Compatible) [T-En by Mz v0.04] [n].gbc	gbc-t-en
+941b176f1137ad677bfd613bbd1be8e2	Detective Conan - The Mechanical Temple Murder Case (Japan) (SGB Enhanced) (GB Compatible) [T-En by Psyklax v1.0] [n].gbc	gbc-t-en
+8accafbb4286ed6507ec8678b364c18e	Donkey Kong Land III (Japan) [T-En by Blaziken257 v1.3] [n] [Original title screen].gbc	gbc-t-en
+e1e06631635a0e41503c43ba0a08f888	Donkey Kong Land III (Japan) [T-En by Blaziken257 v1.3] [n].gbc	gbc-t-en
+3178fb0b634426364d3ef7909ee2c63a	Dragon Quest Monsters (USA, Europe) (SGB Enhanced) (GB Compatible) [T-En by Translation Quest v1.08] [Relocalized] [n].gbc	gbc-t-en
+a3442e0139c33ffbcda34efbf21148a7	Dragon Quest Monsters (USA, Europe) (SGB Enhanced) (GB Compatible) [T-En by Translation Quest v1.08] [Relocalized] [Revert Metal XP] [n].gbc	gbc-t-en
+a3b4d8a1d3e0a766928a2c17904b724d	Elie no Atelier GB (Japan) (SGB Enhanced) (GB Compatible) [T-En by Mayday Translations v1.0] [Double Speed].gbc	gbc-t-en
+fae1b9cdc9a56d2f544766affe596fbd	Elie no Atelier GB (Japan) (SGB Enhanced) (GB Compatible) [T-En by Mayday Translations v1.0].gbc	gbc-t-en
+9e760dc5d3a0c493bfe502295159d544	Fire Emblem - The Reincarnation of Light and Dark (Asia) (Unl) [T-En by Darrman v0.1 [i] [n].gbc	gbc-t-en
+c9a1f0543dd127e9e169f84ed5b04c0a	Fishing King Adventure - Kite's Adventure (Japan) (Rumble Version) [T-En by Robert Goodwin v2.0] [n].gbc	gbc-t-en
+ab591685e3939e0966c4670b7c7d0230	From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev 1) (SGB Enhanced) (GB Compatible) [T-En by Star Trinket v9] [Add by Parmentation v11].gbc	gbc-t-en
+4e1bedb081cc04ea430a2499307223a6	From TV Animation One Piece - Yume no Luffy Kaizokudan Tanjou! (Japan) (Rev 1) (SGB Enhanced) (GB Compatible) [T-En by Star Trinket v9].gbc	gbc-t-en
+2099c88816eafd2fb666b0e4b2441878	Game Boy Wars 2 (Japan) (SGB Enhanced) (GB Compatible) [T-En by TransBRC v1.02] [i].gbc	gbc-t-en
+bb98de6b4dd903e93a09ae46b6fa9c35	Game Boy Wars 3 (Japan) [T-En by Master Knight DH v0.96] [i].gbc	gbc-t-en
+085e311de237d9de4f2f36441a170f16	GB Memory Multi Menu (Japan) (SGB Enhanced, GB Compatible) (NP) [T-En by Orangeglo v1.0].gbc	gbc-t-en
+8b63a1f33c97708fe6f7dac4b977b100	Gen the Carpenter (Japan) (SGB Enhanced) (GB Compatible) [T-En by PentarouZero v1.0] [n].gbc	gbc-t-en
+53a3ff15b91610d91ff67024afa69d20	Gimmick Land (Japan) (Proto) [T-En by TomatoAdventure_Fan v1.1.0] [i].gbc	gbc-t-en
+76cadd4218948451ffc46fad1d0c8359	Grandia - Parallel Trippers (Japan) [T-En by Adventurous Translations v1.03].gbc	gbc-t-en
+0e94fbbfeec4ec1702cf3693543c5295	Harry Potter & the Mystical Halo (Asia) (Unl) [T-En by Neo Fuji v1.0] [n].gbc	gbc-t-en
+b58728bfad581af898b1bac8ca8d7f9d	Hello Kitty no Magical Museum (Japan) (SGB Enhanced) (GB Compatible) [T-En by Doki Doki Translations v1.0].gbc	gbc-t-en
+a5b3b636d964916cb9b28c4f40c912ae	Hugo 2 1-2 (Germany) (GB Compatible) [T-En by NikcDC v1.0].gbc	gbc-t-en
+1a81173e2fd9907b3224b4b5e55fe932	Kettou Transformers Beast Wars - Beast Senshi Saikyou Ketteisen (Japan) (SGB Enhanced) (GB Compatible) [T-En by Six Feet Under v0.1] [i].gbc	gbc-t-en
+5b1fc7b09dd78a0a6a4c87cf9c86ab1c	Little Magic (Japan) [T-En by Some Good Shit Translations v1.0].gbc	gbc-t-en
+d5eed827954ed163ddf65fa32892361d	Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e (Japan) [T-En by Gaijin Productions v1.00].gbc	gbc-t-en
+0c13076a562a88044be71b72e8bbb6e1	Marie no Atelier GB (Japan) (SGB Enhanced) (GB Compatible) [T-En by Mayday Translations v1.2] [Double Speed].gbc	gbc-t-en
+aeb94fc411baf5fbd458287ebf26de0b	Marie no Atelier GB (Japan) (SGB Enhanced) (GB Compatible) [T-En by Mayday Translations v1.2].gbc	gbc-t-en
+66039ffd2bd4ec27b8dd43c3ee0b7b7c	Medarot 3 - Kabuto Version (Japan) [T-En by Cash Medal Chameleon v1.0].gbc	gbc-t-en
+debaaabe98cfca4555b1f775d5ea35a2	Medarot 3 - Kuwagata Version (Japan) [T-En by Cash Medal Chameleon v1.0].gbc	gbc-t-en
+a6acc54e36df6698e2c2f2fe0f405f7b	Megami Tensei Gaiden - Last Bible II (Japan) (SGB Enhanced) (GB Compatible) [T-En by EsperKnight v1.0] [Add by darthvaderx v1.0].gbc	gbc-t-en
+235844714d96a04c20c4492a805422d7	Megaten Gaiden - Last Bible II (Japan) (SGB Enhanced) (GB Compatible) [T-En by EsperKnight v1.0] [n].gbc	gbc-t-en
+3707b5565ec4e8f4a6fb3daf87a4d0bc	Mobile Golf (Japan) [T-En by ProstatePunch & Darkshade & REON Dev Team & Marc_Max v1.2b] [Vanilla Unlock].gbc	gbc-t-en
+71d6e559a0b76da7b99507c2efa6d007	Mobile Golf (Japan) [T-En by ProstatePunch & Darkshade & REON Dev Team & Marc_Max v1.2b].gbc	gbc-t-en
+237ddd42bfb8570826fc6537e4f36be2	Mobile Monsters Telefang - Power Version (Japan) (GB Compatible) [T-En by Kmeisthax & Andwhyisit & Obskyr v159] [n].gbc	gbc-t-en
+2f7a2ed19f952eb87a98d92aa7ab2ea6	Mobile Monsters Telefang - Speed Version (Japan) (GB Compatible) [T-En by Kmeisthax & Andwhyisit & Obskyr v159] [n].gbc	gbc-t-en
+a0c810ef17fb72748edbc8c9183ebae3	Network Adventure Bugsite - Alpha Version (Japan) [T-En by Kmeisthax & Kimbles & DaVince v0.29] [n].gbc	gbc-t-en
+6c64ce366cfc5e6486652f768cb9dc35	Network Adventure Bugsite - Beta Version (Japan) [T-En by Kmeisthax & Kimbles & DaVince v0.29] [n].gbc	gbc-t-en
+4e027aba55ad457f610e99d47fa63006	Nobunaga's Ambition (Japan) (SGB Enhanced) (GB Compatible) [T-En by Opus v2 Beta] [i] [n].gbc	gbc-t-en
+d54bae8a1a1716af0b58a33b0c785c0d	Othello Millennium (Japan) (GB Compatible) [T-En by Dark Tetsuya v001] [i].gbc	gbc-t-en
+1657053e154822e55ce1c478e66b3b4f	Ottifanten - Kommando Stoertebeker (Germany) [T-En by Alemanic Translations & Matrix Arcade Division v1.2] [i].gbc	gbc-t-en
+6d8c3f66fa3a0e14c1618f39e2de1cbf	Pocket Billiards - Funk the 9 Ball (Japan) [T-En by PR Translations v1.00].gbc	gbc-t-en
+c70115d3330748d4a4cf556a4b2d56f2	Pocket Monsters - Crystal Version (Japan) [T-En by Unknown v1.0].gbc	gbc-t-en
+707b0c695cf7d015e5862bc1fcbda77c	Pokemon Picross (Japan) (Proto) [T-En by LeonarthCG v1.2].gbc	gbc-t-en
+b881fe7a48a4d6deb2e41ffd930712fd	Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) [T-En by Artemis251 & Jazz v1.0] [n].gbc	gbc-t-en
+90543aa4025037c921980d409566b7eb	RPG Maker GB (Japan) [T-En by Magecraft Translations v0.99] [Add by OEA v1.9] [i] [n].gbc	gbc-t-en
+3f62b42eab21a68f3bbf2557374cc6a9	RPG Maker GB (Japan) [T-En by Magecraft Translations v0.99] [i] [n].gbc	gbc-t-en
+ce604c67bf2806f5a6f736ba168ed271	Sakura Wars GB - Go Forth, Young Cadet! (Japan) [T-En by MattoBii & Co v0.0.1] [n].gbc	gbc-t-en
+c4f6cd3e25ff074ffe337be7f43dd409	Samurai Kid (Japan) [T-En by FlyingClimber & ProstatePunch & Marc_Max v1.0].gbc	gbc-t-en
+374a882a8db5d49d8abe6f0f37be2639	Sanrio Timenet - Mirai Hen (Japan) (SGB Enhanced) (GB Compatible) [T-En by Katalyst Translations v0.8] [i].gbc	gbc-t-en
+f97f6c18d7004601c97c7141120f89e5	Secrets of Happy Hippo Isle, The (Germany) [T-En by NikcDC v1.0] [n].gbc	gbc-t-en
+f6c1fbb84d256db9d668c8c5a39c2caa	Shin Megami Tensei Devil Children - Kuro no Sho (Japan) (SGB Enhanced) (GB Compatible) [T-En by Higsby & SpecialAgentApe v1.2].gbc	gbc-t-en
+2af4910b426c6f03808e88668e176852	Snowboard Champion (Japan) [T-En by DigitalZero Domain v0.9] [i] [n].gbc	gbc-t-en
+24af8c3ec86e70cd098c8e7fcdeb54bd	Snowboard Champion (Japan) [T-En by Diogo Ribeiro & Leina v1.1] [n].gbc	gbc-t-en
+9ff49de396cb8bd8e6af9af53a73d305	Snowboard Champions (Japan) [T-En by Magecraft Translations v0.90] [i] [n].gbc	gbc-t-en
+17c5d3c10793ec128e38e7ae24fd1991	Soul Getter - Houkago Bouken RPG (Japan) (GB Compatible) [T-En by Magecraft Translations v0.10] [i].gbc	gbc-t-en
+a3f83be0041e2dca3f7d98e4db7d0182	Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible) [T-En by Lokai20 v0.1] [Add by 4l3j4ndr0 v1.0] [i].gbc	gbc-t-en
+4d07a73b30d90781c220306f78663f95	Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible) [T-En by Lokai20 v0.1] [i].gbc	gbc-t-en
+e966b48d23f752910d0359834b5c9ec3	Super Chinese Fighter EX (Japan) [T-En by Some Good Shit Translations v0.99].gbc	gbc-t-en
+807d663da43f0f547a9822e4b3ee47d9	Super Mario Bros. Deluxe (Japan) (Rev 1) (NP) [T-En by BucketOfFriedChicken v2].gbc	gbc-t-en
+ebfe169aa00c10e50529c6a4b41e61ed	Super Robot Pinball (Japan) [T-En by Kurenaikurai & Luis16bits & Marc_max v1.0].gbc	gbc-t-en
+20f638d4cf7fe7e7365dc8378222ddb1	Survival Kids 2 - Dasshutsu!! Futago-Jima! (Japan) (SGB Enhanced) (GB Compatible) [T-En by Hattontown & NikcDC v0.9].gbc	gbc-t-en
+aa782f4fc0b64f2e37bf9a554186f352	Sylvanian Families - The Fairyland Pendant (Japan) (SGB Enhanced) (GB Compatible) [T-En by Ryusui v1.1b] [n].gbc	gbc-t-en
+e00326574376257c4095f2e752e9d620	Sylvanian Melodies (Japan) (SGB Enhanced) (GB Compatible) [T-En by Ryusui v1.0] [n].gbc	gbc-t-en
+bf4fc4978290829fc4dd28a5e202e1c8	Tabaluga (Germany) (GB Compatible) [T-En by NikcDC v1.0].gbc	gbc-t-en
+a94e7d40858b7e0574ce78034dbe3209	Tales of Phantasia - Narikiri Dungeon (Japan) (SGB Enhanced) (GB Compatible) [T-En by ChangeV v0.009m] [i].gbc	gbc-t-en
+5947063ad05c108d2463bc279a3de87a	Wizardry Empire (Japan) (Rev 1) [T-En by AgentOrange & Helly & MrRichard999 v1.03] [Add by Rainponcho v0.2] [Original Logo] [Classic Style].gbc	gbc-t-en
+36315d022b1d8ba18efa6ced13fd40ad	Wizardry Empire (Japan) (Rev 1) [T-En by AgentOrange & Helly & MrRichard999 v1.03] [Add by Rainponcho v0.2] [Original Logo] [Modern Style].gbc	gbc-t-en
+ab2628ca5e08bd1b8ec902c8f8733d20	Wizardry Empire (Japan) (Rev 1) [T-En by AgentOrange & Helly & MrRichard999 v1.03] [Add by Rainponcho v0.2] [Original Logo] [Normal Style].gbc	gbc-t-en
+c4ce2505a7ccae6a09d51581611177fe	Wizardry Empire (Japan) (Rev 1) [T-En by AgentOrange & Helly & MrRichard999 v1.03] [Add by Rainponcho v0.2] [Original Logo].gbc	gbc-t-en
+e828a807f261539ca9468477b8256578	Wizardry Empire - The Emperor of Naraka (Japan) (Rev 1) [T-En by AgentOrange & Helly & MrRichard999 v1.03] [Add by Rainponcho v0.2] [Classic Style] [n].gbc	gbc-t-en
+5430c86dd444ca048cf5940a218de5d4	Wizardry Empire - The Emperor of Naraka (Japan) (Rev 1) [T-En by AgentOrange & Helly & MrRichard999 v1.03] [Add by Rainponcho v0.2] [Modern Style] [n].gbc	gbc-t-en
+ac612ccaad9459402b361cce48ca71a3	Wizardry Empire - The Emperor of Naraka (Japan) (Rev 1) [T-En by AgentOrange & Helly & MrRichard999 v1.03] [Add by Rainponcho v0.2] [Normal Style] [n].gbc	gbc-t-en
+954fa9e4b4aac3e034869936606dc32a	Wizardry Empire - The Emperor of Naraka (Japan) (Rev 1) [T-En by AgentOrange & Helly & MrRichard999 v1.03] [n].gbc	gbc-t-en
+81e4559106e78be8048ed7bf54c173a0	Wizardry Empire - The Staff of Resurrection (Japan) [T-En by Helly & MrRichard999 v1.16] [Add by Rainponcho v0.3] [Classic Style] [n].gbc	gbc-t-en
+fdb40355d21b605ea04f9cfea38f8932	Wizardry Empire - The Staff of Resurrection (Japan) [T-En by Helly & MrRichard999 v1.16] [Add by Rainponcho v0.3] [Modern Style] [n].gbc	gbc-t-en
+3b408a8775b1288a91fe12ed12d78d8e	Wizardry Empire - The Staff of Resurrection (Japan) [T-En by Helly & MrRichard999 v1.16] [Add by Rainponcho v0.3] [Recensor] [Classic Style] [n].gbc	gbc-t-en
+6e9ab59f6ff9d40d132785f9d0737fc5	Wizardry Empire - The Staff of Resurrection (Japan) [T-En by Helly & MrRichard999 v1.16] [Add by Rainponcho v0.3] [Recensor] [Modern Style] [n].gbc	gbc-t-en
+62a3d02c709ac2be1f639acbf0223392	Wizardry Empire - The Staff of Resurrection (Japan) [T-En by Helly & MrRichard999 v1.16] [Add by Rainponcho v0.3] [Recensor] [n].gbc	gbc-t-en
+e8fe54e3483adee2019996a4cc1545ac	Wizardry Empire - The Staff of Resurrection (Japan) [T-En by Helly & MrRichard999 v1.16] [n].gbc	gbc-t-en
+a121f37c6aa1c5d5525545b2758b9df4	Wizardry I - Proving Grounds of the Mad Overlord (Japan) [T-En by Opus v1.0].gbc	gbc-t-en
+a0b1b8464f84b83cb63949a2613e00b2	Wizardry II - Legacy of Llylgamyn (Japan) [T-En by Opus v1.0] [n].gbc	gbc-t-en
+142f0c6229e089b6ea6b99dc690d2aaa	Wizardry III - Knight of Diamonds (Japan) [T-En by Opus v1.0] [n].gbc	gbc-t-en
+dd76abfccf39c76874a86e8abe41d10a	Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible) [T-En by Bownly v1.1].gbc	gbc-t-en
+2842d2f1e25e8322101842764986230f	Yu-Gi-Oh! - Monster Capsule GB (Japan) (SGB Enhanced) (GB Compatible) [T-En by X Translations v03] [i].gbc	gbc-t-en
+34b76f3611d7c670531d530210bd98aa	Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Japan) [T-En by Chris Judah v0.70] [i].gbc	gbc-t-en
+2cba1863642d00e88719f353b2914414	Zoids - Shirogane no Juukishin Liger Zero (Japan) [T-En by Tsukuru v0.2] [i].gbc	gbc-t-en

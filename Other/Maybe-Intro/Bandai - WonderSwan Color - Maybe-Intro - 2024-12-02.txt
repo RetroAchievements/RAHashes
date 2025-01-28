@@ -1,0 +1,11 @@
+8888e5fe10af0aef016877c1bf4521b3	Dicing Knight. (Japan) [T-En by Aeon Genesis v1.00].txt	wsc-maybe-intro
+6e8848993a51e0226ba4be18e7bb6b73	Dicing Knight. (Japan) [T-En by Aeon Genesis v1.00].wsc	wsc-maybe-intro
+f173c3224376e088bafdf0670401524f	Final Fantasy (Japan) [T-En by Kalas v0.91] [i].txt	wsc-maybe-intro
+0d5c239eb1b99b4ab756acda11992ce3	Final Fantasy (Japan) [T-En by Kalas v0.91] [i].wsc	wsc-maybe-intro
+b5d51c9fd05da632e3f8103154c1a9e3	Final Fantasy II (Japan) [T-En by RPGOne v0.97].txt	wsc-maybe-intro
+ac5e0c9be878c8c287e92dd821969e9d	Final Fantasy II (Japan) [T-En by RPGOne v0.97].wsc	wsc-maybe-intro
+1c7fd4a69369ef5f57af08fd3d106c82	Makai Toushi Sa-Ga (Japan) [T-En by Tower Reversed v1.0].txt	wsc-maybe-intro
+de1724fdb63248a2729fdd60939656bf	Makai Toushi Sa-Ga (Japan) [T-En by Tower Reversed v1.0].wsc	wsc-maybe-intro
+ca476074891b71c7d4e2004e01029081	Mega Man Battle Network WS (Japan) [T-En by Boco+Greiga Master+Megarockexe v1.0] [n] - Logo.png	wsc-maybe-intro
+4ed10e1847d823c8f9141cfe3fbfa63c	Mega Man Battle Network WS (Japan) [T-En by Boco+Greiga Master+Megarockexe v1.0] [n].txt	wsc-maybe-intro
+20379c41873b0d99a2baaf2ef959e1e6	Rockman EXE WS (Japan) [T-En by Boco+Greiga Master+Megarockexe v1.0].wsc	wsc-maybe-intro

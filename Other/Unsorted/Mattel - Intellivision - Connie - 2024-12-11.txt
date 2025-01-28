@@ -1,0 +1,295 @@
+2836fce5c1ce3bc5c087419e6eb41345	4-Tris (bin).bin	intellvision-connie
+3dea0df016ca7f2c06c77373e3571f71	4-TRIS (GPL).bin	intellvision-connie
+06824369e5e12d5a01b5eb9073f35215	4-Tris (rom).rom	intellvision-connie
+f004411ca868faf7ea416012772546fc	4-Tris.bin	intellvision-connie
+6890eaf1ac1a7d9a8494b7f5e25a1fac	ABPA Backgammon.bin	intellvision-connie
+9a279a2fe3c7818d162f4a43dd1980b8	ADSR Sound Test.rom	intellvision-connie
+0229a4889e18a37d1d631505d1cb83df	Advanced Dungeons and Dragons - Treasure of Tarmin.bin	intellvision-connie
+f1168c0894946c290685f133b81b4fac	Advanced Dungeons and Dragons.bin	intellvision-connie
+17fd2af3368c310fb7928dcfe0311514	Adventure (AD&D - Cloudy Mountain).bin	intellvision-connie
+131ab07864114f44d4019939481eadd3	Air Strike.bin	intellvision-connie
+7fa60b1cb4adac3088727d5ac53ec183	Armor Battle.bin	intellvision-connie
+c7b00e08feca5527c76f0eea1bd9db7e	Astrosmash - Meteor.bin	intellvision-connie
+8f6a5b5b65d84f947236e503d378370b	Astrosmash.bin	intellvision-connie
+317ef1ee4d12df7ce7dd57dbc273b4b1	Atlantis.bin	intellvision-connie
+97e865e173d137cf5576d080268f7df5	Auto Racing.bin	intellvision-connie
+44fb31805c87974ac205871e61800a77	B-17 Bomber.bin	intellvision-connie
+7072f54591053d652d92b6bbba280154	Bank Demo (bin).bin	intellvision-connie
+2c442eb97359fd5144d0048988c5d371	Bank Demo (rom).rom	intellvision-connie
+bec32f118d753a3b3aab059c22eec4e7	Bank Test (bin).bin	intellvision-connie
+f8dbfd9c939d13fb0e55aba0267c51a8	Bank Test (rom).rom	intellvision-connie
+b0242f3f1370fccf5cee68835db2cbe7	Bank World (bin).bin	intellvision-connie
+07f4891283ccf8fe2b44af3cee84b854	Bank World (rom).rom	intellvision-connie
+b88c2989496a5ca5e276d56a2ebfb2ab	Baseball.bin	intellvision-connie
+0cf15a41cce922dbd7f0debfe0bff792	BeamRider.bin	intellvision-connie
+f6d0e268efe254dc4539fb6df5a6ce24	Beauty and the Beast.bin	intellvision-connie
+073f2babad8992e84c2c64d7fc7e0af3	Blob Art (bin).bin	intellvision-connie
+3b4ab8e8cb4790c857305ee9529835aa	Blob Art (rom).rom	intellvision-connie
+56fda8dcf4920a182de8f5bdd06590ea	Blockade Runner.bin	intellvision-connie
+d0ac7f9a9c2ef3826f7ece1a7dd2202a	Body Slam Super Pro Wrestling.bin	intellvision-connie
+8d0d0bb758718e663886a890d1412fd5	Bomb Squad.bin	intellvision-connie
+f160a18c24f5803b52e854415f8e88f1	Bouncing Pixels (bin).bin	intellvision-connie
+d70737eb584ce7da69a6169b6025adc0	Bouncing Pixels (GPL).bin	intellvision-connie
+69272b36722d02846a2dc04dc343c35f	Bouncing Pixels (rom).rom	intellvision-connie
+4b29afc041bf51b1aa0f6505a36d2c6a	Boxing.bin	intellvision-connie
+d9df0b76eda4f0e3e0bc5b645f1384fb	Brickout!.bin	intellvision-connie
+ed0d27c9494c8e06aefa45ab5640f1f7	Bump 'N' Jump.bin	intellvision-connie
+a7cfddbcf7208fc84a793d12ffde3c51	BurgerTime! - New Levels Hack (2002) (David Harley).bin	intellvision-connie
+d81075a4c254463724ac3bab0b500a08	BurgerTime!.bin	intellvision-connie
+0032f034ed1d761d1f0dff79115fec78	Buzz Bombers.bin	intellvision-connie
+28ef20b81fd9eac68a19fbfcae5dab9a	Carnival.bin	intellvision-connie
+f8044adf6fcabec7db12b5f980b56fc2	Castle (bin).bin	intellvision-connie
+042446f5674a22d9c7e71abf5955eab7	Castle (rom).rom	intellvision-connie
+8c57a45b86d907ecebff9edc3a132aa5	Centipede.bin	intellvision-connie
+016be420f1f20fc2ed8ec051e196aaec	Championship Tennis.bin	intellvision-connie
+8122bb07816acdcb3f0a037b72f02142	Checkers.bin	intellvision-connie
+43d788623970cc87961d350a2b89a691	Checksum Exec (bin).bin	intellvision-connie
+8673919ef1f247e25fb1dc8594ba5da9	Checksum Exec (rom).rom	intellvision-connie
+e0d577b333881deca1b0b8cf07b1bea9	Chip Shot Super Pro Golf.bin	intellvision-connie
+92e703e755cfe667efd26ae7784125ba	cleese.rom	intellvision-connie
+9ff5833918a5accbfddc856258bc2d3b	Commando.bin	intellvision-connie
+75276981f9eab0ddc260fcf2331fa5d9	Congo Bongo.bin	intellvision-connie
+b16191a056944eab615bd73eb3235cab	Crazy Clones.bin	intellvision-connie
+251eae6057e3b55773748c39850cbcbe	Deadly Dogs!.bin	intellvision-connie
+409d186a7289d902f6309136bbebdb8b	Deep Pockets - Super Pro Pool and Billiards.bin	intellvision-connie
+e89814fab2ad565179511c592d524fc4	Defender.bin	intellvision-connie
+9855aefcc210df151ba3373d869e8b66	Demon Attack.bin	intellvision-connie
+a8f2aee64d0163309bf17e90c69fe5b9	Dig Dug (bin).bin	intellvision-connie
+ae3b9621c32fd1d327e2aa994e69f62a	Diner.bin	intellvision-connie
+4f16342d203da7af060cc6eec3d103f7	Donkey Kong Jr.bin	intellvision-connie
+a43d060b5e7c6155f7469bf3dd245de4	Donkey Kong.bin	intellvision-connie
+6b7bec79823d2f3b92df69b45da2eaf9	DOOM!.bin	intellvision-connie
+a52574877a018ef1ec10e0ff3038fbb9	Dracula.bin	intellvision-connie
+e4dc456380ac48ea36c3b46cb8e2fb51	Dragonfire.bin	intellvision-connie
+9d0564c5882c0bbd72b3415d06c13c39	Dreadnaught Factor, The (Prototype).bin	intellvision-connie
+5da863a6bb5cab4e6e3b0b422124b789	Dreadnaught Factor, The.bin	intellvision-connie
+df373c83ff0815a605f6796ff9cbf70b	Easter Eggs.bin	intellvision-connie
+2e72a9a2b897d330a35c8b07a6146c52	ECS.bin	intellvision-connie
+28eb88001826f62a908fbd66f631376c	Eggs n Eyes.bin	intellvision-connie
+dcbea7cde7d03f099680531fe7a80ab5	Electric Company - Math Fun.bin	intellvision-connie
+36ff2340ff5972f9aa4d353b633e082e	Electric Company - Word Fun.bin	intellvision-connie
+62e761035cb657903761800f4437b8af	EXEC.bin	intellvision-connie
+c13b1e3b0d33908c0fc073f2032d9be9	Fathom.bin	intellvision-connie
+bb806b41644e33b6fc5a4d9d3f8c7aee	Frog Bog.bin	intellvision-connie
+523d46bcab6c0c11f0672562fe31cd47	Frogger.bin	intellvision-connie
+11f588e42db055b0803a51ac8a50f339	Game Factory.bin	intellvision-connie
+7a93082ca156e333325e0df81a722e9c	Geese (bin).bin	intellvision-connie
+487c2056087eefc9f4c229d73ed657f0	Geese (rom).rom	intellvision-connie
+5d5c5f56ceb0da3e9a0da1a8441ee5ee	Go For The Gold.bin	intellvision-connie
+603bbc97bb5a741d21ad6e21f8b58ffd	GRAM Scroll (bin).bin	intellvision-connie
+8d626337175d8887af5399c903b63d81	GRAM Scroll (rom).rom	intellvision-connie
+ee325e3c3a70f4cd99fd6710341c0f63	GRAM Scroll 2 (bin).bin	intellvision-connie
+662a50d12257653a2b53a7c10dda5a1d	GRAM Scroll2 (rom).rom	intellvision-connie
+7af892d254145b8766b1bdbe016ec8e0	Grid Shock.bin	intellvision-connie
+0cd5946c6473e42e8e4c2137785e427f	GROM.bin	intellvision-connie
+c76d599ee3036ba40aa6b8fba2630081	Groovy! (GPL).bin	intellvision-connie
+839616b1f55e76d658058674fc3ffb17	Hand Demo (bin).bin	intellvision-connie
+acc369521c8eb0d227a919eeb0eb0c03	Hand Demo (rom).rom	intellvision-connie
+9b697d6a408fe0d0cebc89ae8d482161	Happy Trails (16k).bin	intellvision-connie
+01348ced597a48a4ee87a5b3683616cb	Happy Trails (8k).bin	intellvision-connie
+c4268724c89f44ae71a81400c2ea1a71	Hard Hat.bin	intellvision-connie
+484611ed24a89ba7ce93cddb1a9728b6	Hello (bin).bin	intellvision-connie
+b85cd66ca1d1daa9475812ce8b525452	Hello (rom).rom	intellvision-connie
+96d52ac29d5d4fd50b69675885801c9a	Horse Racing.bin	intellvision-connie
+436cacf587e988368974fe273be78474	Hover Force.bin	intellvision-connie
+f92d9f1d08b97383f9a954ba887cecb0	Hypnotic Lights.bin	intellvision-connie
+79d475ff853683ffd9be630628a491fa	Ice Trek.bin	intellvision-connie
+e321a9c88cbce40c8e0413ac69db4cb8	Illusions.bin	intellvision-connie
+1a7bb66701745b183a6e60fa2cd0eb39	IMI Test Cartridge.bin	intellvision-connie
+d3ae61336d17ec08d0414e7702f2408e	Intellivision - Intelligent Television Demo #1682 (Prototype).bin	intellvision-connie
+39bead8336c98f005b0ff05daf5a0f90	Intellivision - Intelligent Television Demo #5853 (Japan).bin	intellvision-connie
+aadc44bfbb9a0a1a6a0d29c8044368c6	Intellivision - Intelligent Television Demo #5853.bin	intellvision-connie
+1bca1222c1b778d3cf223d658dd82af8	Intellivision - Intelligent Television Demo #5859 (Japan).bin	intellvision-connie
+a5a6d3b3c00225ee712822c8eb286354	Intellivision - Intelligent Television Demo #5859.bin	intellvision-connie
+32955d443a8143ae3b6d99760f58b054	Intellivision - Intelligent Television Demo #5932 (Japan).bin	intellvision-connie
+10ff772d1850ec292984762030e8202a	Intellivision - Intelligent Television Demo #5932.bin	intellvision-connie
+b9591d68433c4d0cf92bd2c2ebfdd2bb	Intellivision - Intelligent Television Demo.bin	intellvision-connie
+8e39e8b421879e01e0d3dede29279a4e	Intellivision Test Cartridge and Baseball.bin	intellvision-connie
+47073eb3812699c648afc8a0f9799ddd	IntyOS 0.2 Alpha (bin).bin	intellvision-connie
+3b2b4db871fc48b838fa6fe7f447f2ca	IntyOS 0.2 Alpha (rom).rom	intellvision-connie
+7632af5e2860e243413c83691ddab486	IntyOS20040330.rom	intellvision-connie
+52c87552d05b6923e874a5bec62dbec6	IRQ Parameter Tests (bin).bin	intellvision-connie
+8c7946820ade63a63cdcbaa816bf735e	IRQ Parameter Tests (rom).rom	intellvision-connie
+d5530f74681ec6e0f282dab42e6b1c5f	IVOICE.bin	intellvision-connie
+88f4166655918655b389dac4dae67c34	Jetsons, The - Ways With Words.bin	intellvision-connie
+752adb8bb1293993abe8a97bf0f7d1b5	KChess 1.0 (bin).bin	intellvision-connie
+1145dffd9df01e0c362be70425a391e5	KChess 1.0 (rom).rom	intellvision-connie
+6e2dedc48be5ab7d61d10fac8ba94277	kidrobin01.rom	intellvision-connie
+eab911e041089584de216bc3feaa5c9a	King of the Mountain.bin	intellvision-connie
+c02d360393d2cd73a91ee56c56809410	Kool-Aid Man.bin	intellvision-connie
+b512d919bf3db6f1e6b9a80835e032ec	Lady Bug.bin	intellvision-connie
+712fa2e78a5d8b02c9de067b798e2c69	Land Battle.bin	intellvision-connie
+6506a1bf0c749fc768cb6b5162e0cbd7	Las Vegas Blackjack and Poker.bin	intellvision-connie
+203efd0d5b6c14b88fd5c7c0ed6bfc16	Las Vegas Roulette.bin	intellvision-connie
+080f03a856158f713166e2cf4cad670d	League of Light.bin	intellvision-connie
+1e661b21b1cd968632cd5ba3be8b589a	Learning Fun I - Math Master Factor Fun.bin	intellvision-connie
+718d9e11b01629bc46cde657df3d1460	Learning Fun II - Word Wizard Memory Fun.bin	intellvision-connie
+f12a670976b04a481c1b88911aeb7eec	Life (bin).bin	intellvision-connie
+e7c291a836b20ed4ed2a4a859432664e	Life (rom).rom	intellvision-connie
+92c9ce0470cfc12e20df5b0246c60fea	Lock 'N' Chase (Alt).bin	intellvision-connie
+988f97f6a3c713210efc2c20a32e970c	Lock 'N' Chase.bin	intellvision-connie
+ff8355790ceb7ce6905dd27c8510cd78	Loco-Motion.bin	intellvision-connie
+1e52afd7615b97a4587ede707f7f2ad4	LunarMP Demo (bin).bin	intellvision-connie
+81b5fc1d2c00c67273d2ea1232a71470	LunarMP Demo (rom).rom	intellvision-connie
+bd3e0f3f9aba3d6d813b93bc406cbdf4	Mad Drivin' (rom).rom	intellvision-connie
+77270d7b6680588d2e8178029d3ede28	Mad Drivin'.rom	intellvision-connie
+b97437149ef2073fb10fd098c5101172	Magic Carousel.bin	intellvision-connie
+aee9f481abd8c290e6a0c3990c185e60	Masters of the Universe - The Power of He-Man!.bin	intellvision-connie
+7d709dfc4a08230402078aed6c4cbb68	Maze Demo #1 (GPL).bin	intellvision-connie
+c122f4a85f6f5a4daef63175899e29e5	Maze Demo #2 (GPL).bin	intellvision-connie
+ae50fef0a65eb37334721deb7be6788d	Maze Demo (bin).bin	intellvision-connie
+6b6820e81436b48a13b1132fa6a3c64b	Maze Demo (rom).rom	intellvision-connie
+0f0969f9716a3d5d1d867ae99323ae7d	Melody Blaster.bin	intellvision-connie
+686ab54de3fcf38375e81a53316481c0	Mem Test (bin).bin	intellvision-connie
+892282e3aec6bf6c9c3f1027f0f1cf2a	Mem Test (rom) (Alt).rom	intellvision-connie
+b0afe93d65fd43c0c6d7894db929c2b6	Mem Test (rom).rom	intellvision-connie
+91c196362e658d1dfcf867a49883ac81	Mickey's Hello World.bin	intellvision-connie
+137d6101ec260405d3d5339822e172f7	Microsurgeon.bin	intellvision-connie
+cbd28f3573ab61fdde21cabb7659ceaa	Mind Strike!.bin	intellvision-connie
+0a6cb10b690a696640c9d493df4eb5a7	Mine Hunter (bin).bin	intellvision-connie
+96750aa574b6b4a728a4d5f58b072e26	Mine Hunter (rom).rom	intellvision-connie
+f5ad906c25cc2ab000f2dbe55e1d5236	Minotaur (Alt).bin	intellvision-connie
+580fa4904fe1c660cefd86efd841a6b9	Minotaur.bin	intellvision-connie
+30f68d218bae18b69daeb9e273fdc9d0	Mission X.bin	intellvision-connie
+24f2272e7a5022b90ce92fdea5976a41	MOB Collision Test.bin	intellvision-connie
+bf156f2d60a1d0734ccace32e2074569	Mob Test (bin).bin	intellvision-connie
+c1e5ae8a91785678e128d04649ee38e2	Mob Test (rom).rom	intellvision-connie
+1ab93dab53b52ea6aa7d964682dfcf03	Motocross.bin	intellvision-connie
+4c7c9a2bd67863501e678a1e965d5003	Mountain Madness Super Pro Skiing.bin	intellvision-connie
+1247c5f449bb1efcb5d63225a0d57a2d	Mouse Trap.bin	intellvision-connie
+828101531d09e38dac4cb31954b5ae6e	Mr Basic Meets Bits'n Bytes.bin	intellvision-connie
+e9e7bda7061f0ed2442d2f63d69907ea	Mr. Basic Meets Bits 'N Bytes.bin	intellvision-connie
+ec08c8432f695446bcb78411775fa8b4	NASL Soccer.bin	intellvision-connie
+efaff20e6bbeb707b2486d031e3e1078	NBA Basketball.bin	intellvision-connie
+d0ef7a007e8635a13942fb6da48012a2	NFL Football.bin	intellvision-connie
+6307b4ea467874b393a9a3f07f3eb50f	NHL Hockey.bin	intellvision-connie
+b5e9a146f4f04daab3ba68b0ec45958a	Night Stalker.bin	intellvision-connie
+74edfe78c836ac3844e7676bfe61efc5	Nova Blast.bin	intellvision-connie
+f11987699a66c59ac874a50a5d905647	Number Jumble.bin	intellvision-connie
+34b9e686aee6f418d431a2f9a5a5c0cb	Pac-Man (Atarisoft).bin	intellvision-connie
+8cd6023881ab241b3216d38c89f1d088	Pac-Man (INTV).bin	intellvision-connie
+26b658bb3f761ee0d50e93cb782e08ec	PBA Bowling.bin	intellvision-connie
+b707c1d38c0c21a7513d1dc0739cdf12	PGA Golf.bin	intellvision-connie
+98a34974bef97371cfa1d979816db821	phunk.rom	intellvision-connie
+2828ce0b76c7f8a5e3a4569fac5c8eb9	Pinball.bin	intellvision-connie
+16e989656458afd35d3c2e1aaa950697	Pitfall!.bin	intellvision-connie
+20a828f38df6569b9b6e16d58d0c37c8	Pole Position.bin	intellvision-connie
+5bdcf45165f46d5de3c3d43d9e95da64	Pong.bin	intellvision-connie
+9e8aa1ab70b221e320191ae4b71f9ee2	Popeye.bin	intellvision-connie
+4da958aed0affaa5e13c988de60e57a9	PSG Tinkerer (bin).bin	intellvision-connie
+106a25e80e49d8cde16f566463995193	PSG Tinkerer (rom).rom	intellvision-connie
+7e5362d84aa0965a931ea2daaac80f58	Psycho Balls 1 (bin).bin	intellvision-connie
+0086b5e2506fdfd6bcff76fb575d1919	Psycho Balls 1 (rom).rom	intellvision-connie
+f2cd3af6f09e60bf559a0767633df318	Psycho Balls 2 (bin).bin	intellvision-connie
+2345b684af5f1fee6f6257a8f6d7c699	Psycho Balls 2 (rom).rom	intellvision-connie
+1c697df0beb93eec95407bf87285a58a	Q-bert.bin	intellvision-connie
+61d8dd664d255dfca43f8b40802d76ae	Reversi.bin	intellvision-connie
+9801155edc40f19197bb2216611713e7	River Raid (Prototype).bin	intellvision-connie
+13b129ad0fcdb79911ccbdf6b741201f	River Raid.bin	intellvision-connie
+c58665b14aa2fb3003c3d153aa37984e	Robot Rubble (Prototype #2).bin	intellvision-connie
+69c4e7bd55d70a04c4cdf48fb5170cf7	Robot Rubble (Prototype #3).bin	intellvision-connie
+380f8f83ef63b2c6c1cd92759ba9b92d	Robot Rubble (Prototype).bin	intellvision-connie
+4f20eb32cebcf182a57d28482a8fc4ad	Robot Rubble.bin	intellvision-connie
+bcf1b30ba80303b36b1cc3bdd5042c1e	Royal Dealer.bin	intellvision-connie
+4bfef6fb118b790555657117a3994385	RPN Calculator (bin).bin	intellvision-connie
+5123b538305b0bc7effd057ae9b333c1	RPN Calculator (rom).rom	intellvision-connie
+80a64f49d53bb0c2401fbfd4b6fd6e19	Safecracker.bin	intellvision-connie
+fb5b1d020e643681cb9bf1b956db0435	Santa's Helper.bin	intellvision-connie
+cb590a4bb37d38ec7e96cf140c6e649d	Scooby Doo's Maze Chase.bin	intellvision-connie
+4e9a8366eb0bb166dad7a7385417eac8	Sea Battle.bin	intellvision-connie
+5e04a5b21a18170207e157390bc54185	Sewer Sam.bin	intellvision-connie
+9f85b961e6c40c2c786026f460ae02fa	Shark! Shark!.bin	intellvision-connie
+a1c80e87c8b8bf9549b30e78027f137a	Sharp Shot.bin	intellvision-connie
+dc8402624a28017110cffe7738c04681	Sky (bin).bin	intellvision-connie
+5edac65092f45f9577c41c33a6d8da67	Sky (rom).rom	intellvision-connie
+6b7d47db4b5bcc2c3d2696fbf65555a1	Slam Dunk Super Pro Basketball.bin	intellvision-connie
+5ec328d358ff8c9664e4ab1deaa89f80	Slap Shot Super Pro Hockey.bin	intellvision-connie
+df286e44cb487dab088a43d22af8ccfb	Snafu.bin	intellvision-connie
+debcd767430d806bfa2a4877ad28838a	snow.rom	intellvision-connie
+ff0baaff4ca87535f826ad4b5ca3f814	Song Player - Back in the USSR (GPL).bin	intellvision-connie
+e823b09b162c299692c5ddc5fc7dd53f	Song Player - Closing Time (GPL).bin	intellvision-connie
+e42b401d3d665cd76db7320d2e6b71e0	Song Player - Copacabana (GPL).bin	intellvision-connie
+c64f5e61c1b8dcff557aa81f72dd0f3b	Song Player - Creep (GPL).bin	intellvision-connie
+3e77b2ccc47b78d6cdc1993a0938db8c	Song Player - Nut March (GPL).bin	intellvision-connie
+765c3276e28b6293b79d04e5bf67ecb9	Song Player - Nut Reed (GPL).bin	intellvision-connie
+6c4c5e815fa6e15c40f50dc728d8dd18	Song Player - Nut Trep (GPL).bin	intellvision-connie
+c71b15a0f9e0787d79d03bb04d0d67fc	Song Player - Nut Waltz (GPL).bin	intellvision-connie
+33d5341c96172dafdbaf6c487f2ee5f9	Song Player - Secret Agent Man (GPL).bin	intellvision-connie
+c81a2f16c0db4eee16d798e658dcf55b	Song Player - Take on Me 3 (GPL).bin	intellvision-connie
+9ba5144f1774d46fab54be8df01dd3e6	Song Player - Take on Me 6 (GPL).bin	intellvision-connie
+4ecbb5eede54b3d784fd305dc07d9095	Song Player - Too Sexy (GPL).bin	intellvision-connie
+44ddaff818df73e25aeb383c55d78e41	Sound Demo 2.bin	intellvision-connie
+b7c771a6062ee673936008754c987fd1	Space Armada.bin	intellvision-connie
+8c11519753896450e6f38b8e338cb1f6	Space Battle.bin	intellvision-connie
+976c2cc2329565aa078e51ea97c7a76c	Space Cadet.bin	intellvision-connie
+20ba9224386c5f64b62b38fdf12589db	Space Hawk.bin	intellvision-connie
+628f7614cc3912f5c33b1052e6c61f04	Space Spartans.bin	intellvision-connie
+fa7bf5db6680d9464161914917e16f1f	Spiker! Super Pro Volleyball.bin	intellvision-connie
+ced939fabb1ff114dde2776cc7f26fcf	Spirit (bin).bin	intellvision-connie
+785587f62a57f9c980332955d113eee0	Spirit (rom).rom	intellvision-connie
+7680927d39efdb6d57c59bcc6e16bdc5	Stack 'Em! (bin).bin	intellvision-connie
+d2b93aad3d2862bb71b77686ce12b733	Stack 'Em! (rom).rom	intellvision-connie
+547aaf6281fb4878007bc632f5f051b6	Stadium Mud Buggies.bin	intellvision-connie
+e39a9065388384cf439dc1484013d993	Stampede.bin	intellvision-connie
+f76a250066e55817f42872083bc854b2	Star Strike.bin	intellvision-connie
+13478528a31d1092ba1b19a8e9626ff3	Star Wars - The Empire Strikes Back.bin	intellvision-connie
+594f2e37280feeceb46714e89293a755	Stonix (bin).bin	intellvision-connie
+30aed44e13efc040bd4ffa53f7d0002c	Stonix (rom).rom	intellvision-connie
+66c13772531cac1e24c0c128ead79571	Street.bin	intellvision-connie
+005f44c13c3083d3e2793d3c764b9735	Stroboscope Test.rom	intellvision-connie
+dd7bc297265cf2f65062966312b0b966	Sub Hunt.bin	intellvision-connie
+f94c5691d97e77cd675c7cd65a19e8e4	Super Cobra (Alt).bin	intellvision-connie
+34a2a81f1993124fc1635a9599f24e41	Super Cobra.bin	intellvision-connie
+aac27c4e64e947b67afbe05db1f458cd	Super Masters!.bin	intellvision-connie
+ef9c76117f52ab8dae9e305c4fdd769e	Super Pro Decathlon.bin	intellvision-connie
+64a2772852b1796be8554a39301bf255	Super Pro Football.bin	intellvision-connie
+2c4b44090566720364a5a4627b73390a	Super Soccer.bin	intellvision-connie
+1f35f843ec58cc700cda9e3ed35cdabe	Swords and Serpents.bin	intellvision-connie
+2275eaad03c52888a3d1a90df614c604	Tagalong Todd (bin).bin	intellvision-connie
+a681a742e0910648937ae058acd50e2e	Tagalong Todd (rom).rom	intellvision-connie
+f08bfa20d4311ba994313b3e2d773741	Tagalong Todd 2 (bin).bin	intellvision-connie
+35a0b4361fa0c439aa67205336ec2e2a	Tagalong Todd 2 (rom).rom	intellvision-connie
+74fb99b6bff1ba297c44116b45f3d0fe	Tagalong Todd 2b (bin).bin	intellvision-connie
+995cfaed3fcec7d22f0753d6bb3cae0e	Tagalong Todd 2b (rom).rom	intellvision-connie
+0b7e08050a8be0e51d514d4ab836e2b0	Tagalong Todd 2v (bin).bin	intellvision-connie
+7faf317c6f90bd16fdf92ad0b5e51c6b	Tagalong Todd 2v (rom).rom	intellvision-connie
+7589db92726d2f6b4c4d9749b4a2c707	Takeover.bin	intellvision-connie
+dcf742ed6ee2101769a48faf45145f2c	Tennis.bin	intellvision-connie
+ae550ba9154510ceb24cd7d64c6882b2	Test IMI-v10-A (bin).bin	intellvision-connie
+a055ceef179820059863ee8eb9154d21	Test IMI-v33 Prototype (bin).bin	intellvision-connie
+c3d93c55df4a1eae32a589aa1204dd45	Test IMI-v41-A (bin).bin	intellvision-connie
+cb9d31b49ab06ed9ed46a69fd0c14db6	Test IMI-v41-A (rom).rom	intellvision-connie
+72ee48bfaed760c51372d180c1f7ccaa	Test MTE-201-v3.bin	intellvision-connie
+a73c20b6a37ded3c785495e27def1ae2	Test.bin	intellvision-connie
+4e0c836abb43d9522206c6c8705bb8c1	Tetris (GPL).bin	intellvision-connie
+0960019b1afcf56baa851d36fac4d295	Thin Ice.bin	intellvision-connie
+8c554fd4d06624bf878f3d50f5b59463	Thin_Ice Prototype.bin	intellvision-connie
+603ad521602531b5c9ad3e77ac47e590	Thunder Castle.bin	intellvision-connie
+95b106acaecab4fe3d43970eae893452	Tower of Doom.bin	intellvision-connie
+df8bf33772ee8a983ee67687a53a0d4a	Triple Action.bin	intellvision-connie
+bb2b785135b610aae525fb92ed83e851	Triple Challenge.bin	intellvision-connie
+a0ae3c350acb9b9bc51128011483d4be	Tron Deadly Discs.bin	intellvision-connie
+780a2be0e38ac7fd6a7a6d350cd18284	Tron Maze-A-Tron.bin	intellvision-connie
+e9e3c2a1c3690748d34f711ceab625cd	Tron Solar Sailer.bin	intellvision-connie
+e5836f66acd6ba7b31c7dccda23b34dc	Tropical Trouble.bin	intellvision-connie
+dca85bcea1f05fb81d38826433152be0	Truckin'.bin	intellvision-connie
+38a04c6d7bb006435cd2c3b28755396c	Turbo.bin	intellvision-connie
+be9e56495af99f3f29ef3bc3b0a51fd4	Tutankham.bin	intellvision-connie
+04004ff8abf2bf4ee5992a0a8f20d3c4	U.S. Ski Team Skiing.bin	intellvision-connie
+11b861f65c37a59e67ff028435ac2025	USCF Chess.bin	intellvision-connie
+b93b1169c33b7220887ac7af54224976	Utopia.bin	intellvision-connie
+4c149598be3a6c3974ff5f90005484fc	Vectron.bin	intellvision-connie
+45b6ebfcecdba7730de30c5f95005ca6	Venture.bin	intellvision-connie
+da33613e7b382a82faf46c055e7983bd	Warp 4 Megademo (bin).bin	intellvision-connie
+566b2b2399ff9c7d0deb9adf8d351cb1	Warp 4 Megademo (rom).rom	intellvision-connie
+7dbe8519c0ed760b0aa88c5769b1afd1	White Water!.bin	intellvision-connie
+464e3ba8402c66c0db8a691ed4633d50	World (bin).bin	intellvision-connie
+5d7fc0a5f2c6339aa4c3f0abfd1e15fc	World (rom).rom	intellvision-connie
+92e0826c7d677d4038764a7933696921	World Championship Baseball.bin	intellvision-connie
+df8ff041f1f3c9dfad0cf651c67799ca	World Cup Football.bin	intellvision-connie
+9424530520bb4d125129680f19ed3dee	World Series Baseball (bin).bin	intellvision-connie
+935b99ad05d277282abc261a6f79b7e7	World Series Baseball (rom).rom	intellvision-connie
+2a107d2d1e71a0dd403a8d287a6e08bc	World Series Major League Baseball (Alt).bin	intellvision-connie
+a9e4def140f13baed21c093bf1d501e7	World Series Major League Baseball.bin	intellvision-connie
+49999333cf35d0cb321802ca378a7af7	Worm Whomper.bin	intellvision-connie
+4c5c490b225748cc6777afe3af0d74cb	Zaxxon.bin	intellvision-connie

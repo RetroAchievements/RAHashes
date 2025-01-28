@@ -1,0 +1,21 @@
+8c83a0920b10a01f44ad50d3613708de	Becky (Japan) [T-En by Hap+Rieks v20100121].rom	msx-maybeintro-cartridges
+83ea77395e8f7123257d46b0c45f862b	Becky (Japan) [T-En by Hap+Rieks v20100121].txt	msx-maybeintro-cartridges
+34f1de71db6e93984ce76aff60bdfb10	Black Onyx, The (Japan) [T-En by Polaris v1.0].pdf	msx-maybeintro-cartridges
+2055d2c6de49788f90eefcadb208e5d6	Black Onyx, The (Japan) [T-En by Polaris v1.0].rom	msx-maybeintro-cartridges
+8a59bc6ccd8fe986ca4913f0e8a4461a	Borfes and the 5 Demons (Japan) [T-En by Hap v20081105] [n].txt	msx-maybeintro-cartridges
+4872615111a6ac0d56007bb3bbfd1f35	Borfesu (Japan) [T-En by Hap v20081105].rom	msx-maybeintro-cartridges
+2f1515194333fcad40e81cf890d5fb56	Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v0.7.0].rom	msx-maybeintro-cartridges
+579deb8bb658216dc94190df30e0c0b5	Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v0.7.0].txt	msx-maybeintro-cartridges
+89546e78b80684c68eb724977f8cf3ac	Evil Mansion - Goblin (Japan) [T-En by Hap+Zan v20080619] [n].txt	msx-maybeintro-cartridges
+9fc9ee41ce35ce4e1068e22277265f6d	Golvellius (Japan) [T-En by Novalia Spirit v1.0].rom	msx-maybeintro-cartridges
+7cc31b4c7207edfdbd00ec5f4a6bf366	Golvellius (Japan) [T-En by Novalia Spirit v1.0].txt	msx-maybeintro-cartridges
+8a525a23a4ed6395d152828ab6740bfc	Jagur (Japan) [T-En by Django v1.0] (Fr).pdf	msx-maybeintro-cartridges
+622af08bde338d6708f689aa50cc6eae	Jagur (Japan) [T-En by Django v1.0].rom	msx-maybeintro-cartridges
+44625d8cbff7cd004da5ad49243b9872	Kinasai (Japan) (Unl) [T-En by GD v1.0].rom	msx-maybeintro-cartridges
+5f81a88ef9940ff9fffb50f093801c39	Knightmare III - Shalom (Japan) [T-En by Ricardo Bittencourt+SLotman v1.0b4].rom	msx-maybeintro-cartridges
+9da4a20830a9197c3d546dcef84a6a93	Mashou no Tachi Goblin (Japan) [T-En by Hap+Zan v20080619].rom	msx-maybeintro-cartridges
+34f4cc6570087c2052d60c2ea916d51f	Nyorols (Japan) [T-En by PentarouZero v1.0].rom	msx-maybeintro-cartridges
+8b05c05474a2ebf2eee2602484952271	Nyorols (Japan) [T-En by PentarouZero v1.0].txt	msx-maybeintro-cartridges
+9ce36aeaa93f969b6c2ea91598b0b014	Parodius (Japan) [T-En by A&L Software v1.0].rom	msx-maybeintro-cartridges
+05495d17dbf270c959bb924b1e3dffed	War in Middle Earth (Spain) [T-En by Robsy v1.0].dsk	msx-maybeintro-disks
+1e06a01d5490a24d9d14f6c7f0338b17	War in Middle Earth (Spain) [T-En by Robsy v1.0].txt	msx-maybeintro-disks

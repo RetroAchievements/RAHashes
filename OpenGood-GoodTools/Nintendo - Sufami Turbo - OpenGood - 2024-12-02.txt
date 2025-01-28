@@ -1,0 +1,70 @@
+55d6940953b7e1ea4d88725cba2fdbca	Bishoujo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 (ST) [!].smc	sufamiturbo-opengood
+59a54a7cab49de252013a185238aad5d	Bishoujo Senshi Sailor Moon S - Fuwa Fuwa Panic 2 + ST BIOS (ST) [h1].smc	sufamiturbo-opengood
+3c951183ae15567c811a675cf44aa22c	Crayon Shin-chan - Nagagutsu Dobon!! (ST) [!].smc	sufamiturbo-opengood
+8948c3cc183845e1190931d3fcad0cb2	Crayon Shin-chan - Nagagutsu Dobon!! (ST) [b1].smc	sufamiturbo-opengood
+baf49c74d839ec22fa0243bcb01c765c	Crayon Shin-chan - Nagagutsu Dobon!! (ST) [o1].smc	sufamiturbo-opengood
+b27440fead9673871f8f720e806ec856	Crayon Shin-chan - Nagagutsu Dobon!! + ST BIOS (ST) [h1].smc	sufamiturbo-opengood
+c9cae86f503bd0b6ebef6c481b179536	Gegege no Kitarou - Youkai Donjara (ST) [!].smc	sufamiturbo-opengood
+da3e5dc5a45ea7b9a7d8b2146f86832a	Gegege no Kitarou - Youkai Donjara (ST) [o1+C].smc	sufamiturbo-opengood
+f8ddbb813297e74dc3e9ea1cc4da0f57	Gegege no Kitarou - Youkai Donjara (ST) [o1].smc	sufamiturbo-opengood
+d0f63749db623c7839d22b69481dd7c1	Gegege no Kitarou - Youkai Donjara (ST) [o1][h1].smc	sufamiturbo-opengood
+bf39a5598503a776d3dad2fa73b68a27	Gegege no Kitarou - Youkai Donjara (ST) [o1][h2].smc	sufamiturbo-opengood
+f137e67c1c3449c1b8f420ea4fafc27e	Gegege no Kitarou - Youkai Donjara (ST) [o2].smc	sufamiturbo-opengood
+75b57a14d9ecb088447c76879d6ab70a	Gegege no Kitarou - Youkai Donjara + ST BIOS (ST) [h1].smc	sufamiturbo-opengood
+27eb2c85bb733416762fa1bcd91a4ab7	Gekisou Sentai Car Rangers (ST) [!].smc	sufamiturbo-opengood
+1a882cd6f4aec52fcd75716eaf93213d	Gekisou Sentai Car Rangers (ST) [o1].smc	sufamiturbo-opengood
+2103e0240cd7b8b1963a2f714e487b91	Gekisou Sentai Car Rangers (ST) [o1][t1].smc	sufamiturbo-opengood
+b873640466329a8f61d55a5f96aa41de	Gekisou Sentai Car Rangers (ST) [o2].smc	sufamiturbo-opengood
+e710d42f16aa059a6fc4d978f376eced	Gekisou Sentai Car Rangers (ST) [o3].smc	sufamiturbo-opengood
+5464d5ab17d2d2a4f5d72ee3c8734c7f	Gekisou Sentai Car Rangers (ST) [o4].smc	sufamiturbo-opengood
+540b4aefd31867bbe7a242ee97d40d1e	Gekisou Sentai Car Rangers (ST) [o5].smc	sufamiturbo-opengood
+30b88014868d66ba575fad41a6b14cd8	Gekisou Sentai Car Rangers + ST BIOS (ST) [h1].smc	sufamiturbo-opengood
+d5c6e9038e60c23b05d5690a03ffa4c9	Poi Poi Ninja World (ST) [!].smc	sufamiturbo-opengood
+366af53571a961fea29ac87107179fe8	Poi Poi Ninja World (ST) [o1].smc	sufamiturbo-opengood
+3d0d110fb40f00b75cb3510a92740920	Poi Poi Ninja World (ST) [o1][a1+C].smc	sufamiturbo-opengood
+ef8b6abdbae1cf8e6593878760ba0820	Poi Poi Ninja World (ST) [o1][a1].smc	sufamiturbo-opengood
+20e84cd2dd8c4e0fcdd5f33400e55aaf	Poi Poi Ninja World + ST BIOS (ST) [h1].smc	sufamiturbo-opengood
+84d83ded05c6ec31654dd1e2116e32d3	SD Gundam Generation A - Ichinen Sensouki (ST) [!].smc	sufamiturbo-opengood
+382ee1c5b03602c9277a2e7df5ce267d	SD Gundam Generation A - Ichinen Sensouki (ST) [o1].smc	sufamiturbo-opengood
+bebc2d29814441c48342211fd66f8e17	SD Gundam Generation A - Ichinen Sensouki (ST) [o1][h1].smc	sufamiturbo-opengood
+0c360deb4ef6d2aab962f7727184d42f	SD Gundam Generation A - Ichinen Sensouki + ST BIOS (ST) [h1].smc	sufamiturbo-opengood
+3bf7fd80b609beb19fd4c40b65f9224c	SD Gundam Generation B - Grisp Senki (ST) [!].smc	sufamiturbo-opengood
+80ab92bd3e471630b141966d039af966	SD Gundam Generation B - Grisp Senki (ST) [o1].smc	sufamiturbo-opengood
+e5611d035d67c15cd4d6611001fb9320	SD Gundam Generation B - Grisp Senki (ST) [o1][h1].smc	sufamiturbo-opengood
+dbe914d49f4cadb02980fada442d6eeb	SD Gundam Generation B - Grisp Senki (ST) [o1][h2].smc	sufamiturbo-opengood
+f6a9cbc0c6336545694e3c5e23d26dc9	SD Gundam Generation B - Grisp Senki + ST BIOS (ST) [h1].smc	sufamiturbo-opengood
+16375432c8ffc540b459cfd31723572b	SD Gundam Generation C - Axis Senki (ST) [!].smc	sufamiturbo-opengood
+f1de52f0299e0084e46b166bdbaa080e	SD Gundam Generation C - Axis Senki (ST) [o1].smc	sufamiturbo-opengood
+5e1217a7de9b6f9bd081248f58564f0e	SD Gundam Generation C - Axis Senki (ST) [o1][h1+C].smc	sufamiturbo-opengood
+db5c18226b9e4c7c50349ff25838ccaa	SD Gundam Generation C - Axis Senki (ST) [o1][h1].smc	sufamiturbo-opengood
+183850402bb3a39c028d487902de59b6	SD Gundam Generation C - Axis Senki (ST) [o1][h2].smc	sufamiturbo-opengood
+2bb82457fde42b461824de36b6ae74fd	SD Gundam Generation C - Axis Senki (ST) [o2].smc	sufamiturbo-opengood
+1b7b514d0d10aec6e92d529f5f3ecd62	SD Gundam Generation C - Axis Senki (ST) [o3].smc	sufamiturbo-opengood
+e16406c45a514fb6b4c433b71a5a2c66	SD Gundam Generation C - Axis Senki + ST BIOS (ST) [h1].smc	sufamiturbo-opengood
+c1305ecd913e12719c5ea07eea4a440e	SD Gundam Generation D - Babylonia Kenkoku Senki (ST) [!].smc	sufamiturbo-opengood
+7296a033b9c24dc3a0574f1e2f969109	SD Gundam Generation D - Babylonia Kenkoku Senki (ST) [o1].smc	sufamiturbo-opengood
+e0e55a4f63619b990fa5356e85824b6d	SD Gundam Generation D - Babylonia Kenkoku Senki (ST) [o1][h1].smc	sufamiturbo-opengood
+4b44955ce386414afa6db4603b885cd8	SD Gundam Generation D - Babylonia Kenkoku Senki (ST) [o2].smc	sufamiturbo-opengood
+0bcf12b236a555265746d8bf173de16e	SD Gundam Generation D - Babylonia Kenkoku Senki + ST BIOS (ST) [h1].smc	sufamiturbo-opengood
+9892637e1523509c16b4e8017e99200f	SD Gundam Generation E - Zansukaaru Senki (ST) [!].smc	sufamiturbo-opengood
+784e464ef51bc1d8d76d3b7af48e1430	SD Gundam Generation E - Zansukaaru Senki (ST) [o1].smc	sufamiturbo-opengood
+bb09e124dafd7563e8c8c320558d9632	SD Gundam Generation E - Zansukaaru Senki (ST) [o1][h1].smc	sufamiturbo-opengood
+3891db504d7a91857a86fe55990091c3	SD Gundam Generation E - Zansukaaru Senki + ST BIOS (ST) [h1].smc	sufamiturbo-opengood
+3e84a2bccc251ff42c01166ba55dfdaf	SD Gundam Generation F - Colony Kaku Senki (ST) [!].smc	sufamiturbo-opengood
+3427eb4c1b3f9fd7d1a9e9745323c039	SD Gundam Generation F - Colony Kaku Senki (ST) [o1].smc	sufamiturbo-opengood
+9dc2a0a7806ae63739855f43aa461d15	SD Gundam Generation F - Colony Kaku Senki + ST BIOS (ST) [h1].smc	sufamiturbo-opengood
+e7b0344b9c7d8d0876424aeede98a4f7	SD Ultra Battle - Seven & Ultraman + ST BIOS (ST) [h1].smc	sufamiturbo-opengood
+57115b94bff844e8a32869a1f3d7651c	SD Ultra Battle - Seven & Ultraman + ST BIOS (ST) [h1][o1].smc	sufamiturbo-opengood
+adc2a3d22e16dfbf3aca0caf6ed1eada	SD Ultra Battle - Seven & Ultraman + ST BIOS (ST) [h2].smc	sufamiturbo-opengood
+bb8daddcf18fc44442baa041888da924	SD Ultra Battle - Seven Densetsu (ST) [!].smc	sufamiturbo-opengood
+8a4245a682f5476f256914eea26bb7cd	SD Ultra Battle - Seven Densetsu + ST BIOS (ST) [h1].smc	sufamiturbo-opengood
+ed0f45fa7f37c6b5eb94a3200824f613	SD Ultra Battle - Seven Densetsu + ST BIOS (ST) [h1][o1].smc	sufamiturbo-opengood
+d32c0c6770f34819580752eb709546a2	SD Ultra Battle - Ultraman & Seven + ST BIOS (ST) [b1].smc	sufamiturbo-opengood
+bca8540bb0de2cdbcbf7d4d5c013782f	SD Ultra Battle - Ultraman & Seven + ST BIOS (ST) [b2].smc	sufamiturbo-opengood
+3ae70a79e05e40f5663d01ce19d8a586	SD Ultra Battle - Ultraman & Seven + ST BIOS (ST) [h1].smc	sufamiturbo-opengood
+130055cf258b2566661258f2ba9433b9	SD Ultra Battle - Ultraman & Seven + ST BIOS (ST) [h1][o1].smc	sufamiturbo-opengood
+bd6aee0e7a861fe738f9cfe69084a3c5	SD Ultra Battle - Ultraman Densetsu (ST) [!].smc	sufamiturbo-opengood
+497349ab5e52104655f1149f7451f286	SD Ultra Battle - Ultraman Densetsu + ST BIOS (ST) [h1].smc	sufamiturbo-opengood
+16a8c311b4bfc2bf4816aca81b726aab	SD Ultra Battle - Ultraman Densetsu + ST BIOS (ST) [h1][o1].smc	sufamiturbo-opengood
+c51e2dea7c62956628c4c12a13d83195	SD Ultra Battle - Ultraman Densetsu + ST BIOS (ST) [h1][o2].smc	sufamiturbo-opengood
+c00daba83bcd5234cd77984e0ec4bcbe	SD Ultra Battle - Ultraman Densetsu + ST BIOS (ST) [h1][o3].smc	sufamiturbo-opengood

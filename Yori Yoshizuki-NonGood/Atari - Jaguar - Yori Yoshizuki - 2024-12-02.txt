@@ -1,0 +1,1266 @@
+77cd95c7ad06a39f4c59995094aa10f9	[BIOS] Atari Jaguar CD (World).rom	atari-jaguar-yori-yoshizuki
+f3578d24ddc932994a844fa4a09b6bdd	#embrace_the_plasma.abs	atari-jaguar-yori-yoshizuki
+05ce4c67d5deffdd975c6e7b66eb6eaf	08-P2_jiffi.rom	atari-jaguar-yori-yoshizuki
+1414a224a5e533978935963c40cdb8a1	1-2 fps Low Rez RayCaster v2.abs	atari-jaguar-yori-yoshizuki
+80f1bdcd906e7ceff0f8f7db7bdd4260	1011-X.bin	atari-jaguar-yori-yoshizuki
+52c91ea768269430c319e29fffd6a793	108k demo.abs	atari-jaguar-yori-yoshizuki
+8661d947dfab07a8e6d9dd9d7aac2bf1	1943-Skunk.rom	atari-jaguar-yori-yoshizuki
+2e0e7ca93e0c09ae4797e1df8a0e1f0e	1fps Low Rez RayCaster.abs	atari-jaguar-yori-yoshizuki
+c733a9e617eecada0d1aa7705a163628	2048.bin	atari-jaguar-yori-yoshizuki
+0cbd544b6acbd18b216a30a4c162f018	2048.cof	atari-jaguar-yori-yoshizuki
+72d0e3ba5b8390a204069526087ad741	2048.rom	atari-jaguar-yori-yoshizuki
+835bc7d2c7471635bb850366e7baa0c3	2600_emulator.abs	atari-jaguar-yori-yoshizuki
+3383bdaee9e8cb041fb7203694f672bd	3D Jaz (2008).rom	atari-jaguar-yori-yoshizuki
+c1921dd12669189ad328bc747059a12b	3D JAZ (Beta).cof	atari-jaguar-yori-yoshizuki
+90e2094d9b5d8a4113811c258127bfe2	3D POLY TT (Symmetry of TNG 2003).prg	atari-jaguar-yori-yoshizuki
+af04a0d16fdc2c26d21f869b716446bd	3D wireframe demo ($4000).bin	atari-jaguar-yori-yoshizuki
+748a54cec93196575de7b9028ba9cc38	3D_CUBE.abs	atari-jaguar-yori-yoshizuki
+7f3f1f2c08874b43b475ccf65db2b2eb	3DDEMO.cof	atari-jaguar-yori-yoshizuki
+0aa7f5e0a980f292bb5cc87dad0daf5b	3DPOLYTT_jiffi.rom	atari-jaguar-yori-yoshizuki
+b0c92f2ed76576f09e0b6767c1bf78ae	3DWire (2008).rom	atari-jaguar-yori-yoshizuki
+e0c27f86f8ff00d0278ce44a6f520eb4	3DWIRE_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+36be7005f058aee7bd3c1404a85fea4b	3DWIRE_jiffi.rom	atari-jaguar-yori-yoshizuki
+a5313cc4d72276b00bfe9a79e69e182a	7footwide.abs	atari-jaguar-yori-yoshizuki
+a6ff56af5321fcb0efafa4b5a66d5275	8Bit-BJL-Loader-ROM (1994)(42Bastian Schick).jag	atari-jaguar-yori-yoshizuki
+e69a5a9bfa5b71e375f57cd1bb65b9fa	8biteer.abs	atari-jaguar-yori-yoshizuki
+f3a5e6e18cbd3b207c0ea1b22d649e02	8biteer.bjl	atari-jaguar-yori-yoshizuki
+0d269cf7e6e7a8780a35e34d0cee05dc	8biteer.rom	atari-jaguar-yori-yoshizuki
+a9e5929779d2bdd737ebc2428e078b57	96Kb Demo (19xx)(Mr Spock)(PD)[$4000].bin	atari-jaguar-yori-yoshizuki
+cb98686143092ef20552cdddbb8f1036	96Kb Demo (19xx)(Mr Spock)(PD)[$8000].bin	atari-jaguar-yori-yoshizuki
+8d009df97e4c6907c478324383ff7ff1	9750bail.abs	atari-jaguar-yori-yoshizuki
+3cc56c3c9cdf2abc166d13c2827174b7	AC 2012.bin	atari-jaguar-yori-yoshizuki
+83d0f79ccced798e195c98dca4a1e4b0	AC 2013 (hires).rom	atari-jaguar-yori-yoshizuki
+519828980916050f4e152a49010b4d79	AC 2013 wip.abs	atari-jaguar-yori-yoshizuki
+a7f5d64fafddfda0ed6cb647b71a418a	AC 2013.abs	atari-jaguar-yori-yoshizuki
+e1295d1aebe82a5b9965126cb22a2b29	ac2k10.bin	atari-jaguar-yori-yoshizuki
+dbe76c767b691e0e06f9407ffbfd6bfb	ACIA (JAGOS).jag	atari-jaguar-yori-yoshizuki
+59b3470209534ed73c6d9fb353618588	Action_Fighter_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+64c8a3446d8b5958e8817729e7dbc341	ActionFighter_incomplete.abs	atari-jaguar-yori-yoshizuki
+3f396e94c86cedb67e8bd28f5121ba64	ActionFighter.rom	atari-jaguar-yori-yoshizuki
+569119f69f799a210125ea0887093040	ADEMO1_jiffi [cof].cof	atari-jaguar-yori-yoshizuki
+c6bf3d8a1b635ed1ba6569801767afd5	ADEMO1_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+748daf1bcae89f6af6ca75c9731ebdff	ADEMO1_jiffi.rom	atari-jaguar-yori-yoshizuki
+e2287a51743ada14969a7f3eb6395ba1	ADEMO1.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+010967a79575d48be9c5c3bd2a17abfb	ADEMO1.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+101c999800baeb16d5b430898db0a0a8	Air Cars.rom	atari-jaguar-yori-yoshizuki
+fd3698ae1e250a161420f064c7bc9399	Aircars (1995).rom	atari-jaguar-yori-yoshizuki
+45e12558e1b9eda1b66b86f68f995f2a	Aircars_(1995).rom	atari-jaguar-yori-yoshizuki
+f68516a63647742e94096c128804df26	aircars94.rom	atari-jaguar-yori-yoshizuki
+9b12add666e5df3475c0a1b0cce7ebfc	alamo1836wip1.abs	atari-jaguar-yori-yoshizuki
+4ba072b0d3a31f7c0d58e8fcf22f6a34	Alice_Mom_Rescue_(2015).rom	atari-jaguar-yori-yoshizuki
+383ce43c93d1c834075bbbbc90f1d8c3	animationplatform.abs	atari-jaguar-yori-yoshizuki
+9fc9de8bbc0f62b418a4ee79ed1fc93e	ant3_fix2_20160209.abs	atari-jaguar-yori-yoshizuki
+a4f9bd199fba3be9394cde394e4da43f	ants3_20160112.abs	atari-jaguar-yori-yoshizuki
+7aca65ea8cadbd824101178607eaf22b	ants3_20160208.abs	atari-jaguar-yori-yoshizuki
+75dea677a8c213eaf708e97c9e3f3340	ants3_20160209.abs	atari-jaguar-yori-yoshizuki
+d935082b5ad3cdd2cd64c0c0d8339c42	ants3_20160210.abs	atari-jaguar-yori-yoshizuki
+e410797782aaf01d00e62825bb302f8e	ants320160210v2.abs	atari-jaguar-yori-yoshizuki
+cef1baa19455c34e16e4fc877b935a4d	antsss wip1.abs	atari-jaguar-yori-yoshizuki
+277498b058e58fbd4d6dd5d3d433d0fd	antsss wip2.abs	atari-jaguar-yori-yoshizuki
+a3ff45126c642d97e26831055ae824f6	antsss_20160115.abs	atari-jaguar-yori-yoshizuki
+95b660db14f1f3f2026a97f575eb771a	Aqua64.rom	atari-jaguar-yori-yoshizuki
+7b9c10dcb2364ad8a11c18fc8be5c92f	Arena Football 95 [JSII Release].bin	atari-jaguar-yori-yoshizuki
+a73c0e4f3a0d3de6c40688ff66eb4b6e	ARENA_Football_'95_(1995).rom	atari-jaguar-yori-yoshizuki
+63d31aba1f83dc48006b15d3646fdb6c	Arkanna DEMO (2008).rom	atari-jaguar-yori-yoshizuki
+6d117e46ab2a43bc49a60d501331ec6d	Arkanna Demo_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+340537c6f550cae1b0d08303c4094dbf	Arkanna Demo_jiffi.rom	atari-jaguar-yori-yoshizuki
+cd6b75a2498b9022fb4e8037b0e700ee	Arkanoid 2 (19xx)(-)(PD).bin	atari-jaguar-yori-yoshizuki
+023ce6684304faa82ee6a6bbdd965b6e	Arkanoid_-_Revenge_of_DoH_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+7b9250fd78870b5b8951dc80a44042ef	Asi_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+2f4ee71140b40ae51b3ca9fe6a1b17c4	Asi_jiffi.cof	atari-jaguar-yori-yoshizuki
+e079fe3c25f01440a949e1211221b961	Asi_jiffi.rom	atari-jaguar-yori-yoshizuki
+e144d0649b6e6ef9e1e17cf7c56636aa	Asi_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+1b1a53bd9788bd7ef426d2df9221436f	Asi.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+69b04cedf86131c820f7b317f26205e0	Asi.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+71777753beddac769f4ed5a2a4438d8e	Assassin DEMO (2008).rom	atari-jaguar-yori-yoshizuki
+b2e126347c883e2eb3980001374b3de0	Asteroid (2000).rom	atari-jaguar-yori-yoshizuki
+aca37c84970b9b5fa0c2ef616cc53df7	ASTEROID_JIFFI [cof].cof	atari-jaguar-yori-yoshizuki
+37b4f9e1c561732851c3a9fc370b6e44	ASTEROID_JIFFI_HEADERLESS.rom	atari-jaguar-yori-yoshizuki
+591bc4f210217141c2b7fee8736a0889	asteroid_jiffi.rom	atari-jaguar-yori-yoshizuki
+d3bc404e94b1943a8bee4e98bf57c912	ASTEROID_LOAD_20000_RUN_20000_JIFFI.bjl	atari-jaguar-yori-yoshizuki
+84707177d94e409c4cc85490bef153da	ASTEROID.JAGSERVER2_JIFFI.abs	atari-jaguar-yori-yoshizuki
+338753fb15c37a636a22b735f8a35c18	ASTEROID.JAGSERVER3_JIFFI.abs	atari-jaguar-yori-yoshizuki
+8130bfdfb9aad3aac6a3655754fcdd20	AstroStorm_alpha.abs	atari-jaguar-yori-yoshizuki
+459458e6cb8d46cecd0e11a9d86b9042	AstroStorm_alpha.rom	atari-jaguar-yori-yoshizuki
+ec2612470e274b0c985df99e5793bab7	AstroStormV11.abs	atari-jaguar-yori-yoshizuki
+c272b6ac961c51a8c6f674b4f412316c	AstroStormV11.rom	atari-jaguar-yori-yoshizuki
+89b44b1b466ab94125fd6ba80b3fe6ed	AstroStormV12.1.abs	atari-jaguar-yori-yoshizuki
+e63bc9442c2ee3fd0119faece7b544a1	AstroStormV12.abs	atari-jaguar-yori-yoshizuki
+95f2f04c24845a7986e895de3134c0f4	AstroStormV12.rom	atari-jaguar-yori-yoshizuki
+81acdebaa05c0dbff8cad25ce79c353e	astrostormv13.abs	atari-jaguar-yori-yoshizuki
+586b41eb3cc551e7df1d5904e7a509c1	astrostormv13.rom	atari-jaguar-yori-yoshizuki
+3935823c3173d807f5d0a722baf092a6	AstroStormV143.abs	atari-jaguar-yori-yoshizuki
+bbba721934e01dc23bfc383efbcd2501	Atari Jaguar Behind Jaggi Lines v1.06.0 (199x)(-)(PD).jag	atari-jaguar-yori-yoshizuki
+2f63fd5005639f122ca46efad7c16eb7	Atari Jaguar Kasumi Ninja Ver 0.21.abs	atari-jaguar-yori-yoshizuki
+237c63771c3d57f63a4642fe98e1a69f	Atari Jaguar Object Processor Tester v2 (19xx)(Lars Hannig)(PD).bin	atari-jaguar-yori-yoshizuki
+f6ac0fea7764cf4719005c49f2281024	Atari Karts (Beta) [a].rom	atari-jaguar-yori-yoshizuki
+7a9bb845486d002d3a566a8da9388e7c	Atari Karts (Beta).rom	atari-jaguar-yori-yoshizuki
+7a32caeaa7438a6b0c135a27d8ff8868	atarigirlz.rom	atari-jaguar-yori-yoshizuki
+08d1209174f7275b14eee3a8d7121c8f	Atomic ($4000) (Homebrew game).bin	atari-jaguar-yori-yoshizuki
+8b30e724ba30a4ff40ec9a62f9d1debd	Atomic (2006).rom	atari-jaguar-yori-yoshizuki
+6776b6b2edb98b3cf8c60f9966473b01	Atomic Reloaded by The Removers MD5 6776b6b2edb98b3cf8c60f9966473b01.bin	atari-jaguar-yori-yoshizuki
+ec8a42b6f8c530a12f4dc507cd049a8f	atomic_jiffi [COF].cof	atari-jaguar-yori-yoshizuki
+111da0e33b85a15eeeef6dd851383e58	atomic_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+6497342537f752614b77c7c6373ecb4a	atomic_jiffi.rom	atari-jaguar-yori-yoshizuki
+7a1678507936925f593ecc7be52be810	atomic.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+183fd5807b7ce54ee288e2683c1bbb3a	atomic.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+62c6b12e7a272cbadaf0893d08580e4e	ATX-DRGN.bin	atari-jaguar-yori-yoshizuki
+7f1277512e415f733872d4ad6b6fd0f5	AUSWEICHMANEVER.rom	atari-jaguar-yori-yoshizuki
+2b299e92e82031a31235da74850670cf	AVP093_080494.jag	atari-jaguar-yori-yoshizuki
+aa9c064827335f325eacfa34ea9ac0b3	AVP101393.jag	atari-jaguar-yori-yoshizuki
+47eeac56470cd34c8a4c4d30391f9872	Bad Apple v2.rom	atari-jaguar-yori-yoshizuki
+cdf06846517f01944cd05df0d052d36f	Bad Apple v3.rom	atari-jaguar-yori-yoshizuki
+711d111cc9126808ba5f62deabf47173	Bad Apple-6mb.rom	atari-jaguar-yori-yoshizuki
+c740d60c00f0809db51dc73f8578001f	BadCode 4m (2001).rom	atari-jaguar-yori-yoshizuki
+a7cfb49d58a058cd8ec393bc0f403d4c	BadCode0 (1999).rom	atari-jaguar-yori-yoshizuki
+17c39b8e877abb5c763effcdc2d50511	BadCode1 (2000).rom	atari-jaguar-yori-yoshizuki
+5006d89d561c52cd17745b92bc52bdd1	BadCode2 (2000).rom	atari-jaguar-yori-yoshizuki
+03b0b14ec8a718627d03be7d07305223	BadCode3 (2000).rom	atari-jaguar-yori-yoshizuki
+0a05824d1dc5a8fdd8c3955d95be1d0a	BadCode4n (2003).rom	atari-jaguar-yori-yoshizuki
+cda44eeb071b5bd29582665ce8405eaa	Balloons v0.4 (2008).bin	atari-jaguar-yori-yoshizuki
+945b8f78bb07d7e00d307c6cc953243b	Balloons v0.4 (2008).rom	atari-jaguar-yori-yoshizuki
+fa88f865a1233467a981e8105d3f6b48	Balloons_jiffi [cof].cof	atari-jaguar-yori-yoshizuki
+21f9c271b917621e1e5f54c2400c8ba9	Balloons_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+23f692dd847c5796534f3ba2d08f0716	Balloons_jiffi.rom	atari-jaguar-yori-yoshizuki
+9d40224bd7e3a27c56551f13b6eb7265	Balloons.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+0c461d66d7253df9c8c79e16233c4fee	Balloons.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+bd542234592dd5686c5a191492f72195	Barbarian v1.0.abs	atari-jaguar-yori-yoshizuki
+c4211aac0a0da6c68b168340d007b582	Barbarian v1.01.abs	atari-jaguar-yori-yoshizuki
+c56131ef6c0d1cfa8171e8d5155a5da8	Barbarian v1.1.abs	atari-jaguar-yori-yoshizuki
+70b6c344a64f91354d8be7db0c8c9f8e	Barbarian v1.11.abs	atari-jaguar-yori-yoshizuki
+5a992b1d2a4c03dd8fcdbdac0cc2ae4e	Barbarian_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+10d9aca135510aa60b33352c54d95724	Barbarian.abs	atari-jaguar-yori-yoshizuki
+5f884a5052a4dde4c896449b392ad4bf	Barkley Shut Up And Jam [Prototype].rom	atari-jaguar-yori-yoshizuki
+7e06fe6e441707ebcdbd0de5ec068c6e	Barkley Shut Up and Jam.rom	atari-jaguar-yori-yoshizuki
+a69b7a8a9a7a42b189ab48ce8e8587c1	Barkley_Shut_Up_And_Jam_(Prototype)_(1995).rom	atari-jaguar-yori-yoshizuki
+8691dc0b0f3a29aaf740ce576f6cbeb2	barrified.abs	atari-jaguar-yori-yoshizuki
+2a8dfc2bf78ce4510fa1233fba24936f	bathroomdoor.abs	atari-jaguar-yori-yoshizuki
+06f3a61fb712c581aee3599f3a61fa61	Battle_Sphere_Gold_(2002).rom	atari-jaguar-yori-yoshizuki
+5036e94496084b5d33fd7a573aca0c95	Battlemorph Alpha version.abs	atari-jaguar-yori-yoshizuki
+984ed59d91435ec0d8193e168df31c10	battlesphere [a].rom	atari-jaguar-yori-yoshizuki
+dae62ead7f08db4b097eda64b30d466e	battlesquadron.rom	atari-jaguar-yori-yoshizuki
+46d69b0cc19810976f517fd80fc894a3	beebris - Load $4000, run $4000.bjl	atari-jaguar-yori-yoshizuki
+c90b48d51cf9381ef00c24696bccc1de	Beebris (2009).rom	atari-jaguar-yori-yoshizuki
+9936bc661e33651cb9dc5d6f94662186	BEEBRIS_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+93e9653eb65b0057e80f9e10cc5cf5b2	BEEBRIS_jiffi.rom	atari-jaguar-yori-yoshizuki
+108029cf746171058258151cc6bcdd7a	bile.abs	atari-jaguar-yori-yoshizuki
+e14c73ee538e9c5e30e6198f889fb4e7	BJ_PRGE2014_Demo.rom	atari-jaguar-yori-yoshizuki
+c5ac5b465d25112fb1396387cfa3caa3	bjl+demo.rom	atari-jaguar-yori-yoshizuki
+e0c7562a8e40ab14e2fc4363e1698830	BJLLoader1998.bin	atari-jaguar-yori-yoshizuki
+315a58697ca8d8230ea5b1e56ce74820	Black hole_jiffi [cof].cof	atari-jaguar-yori-yoshizuki
+2fcaf50473d6e975558ffae23859d139	Black hole_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+619f1018777a47cc520d036eab593732	Black hole_jiffi.rom	atari-jaguar-yori-yoshizuki
+2c78befd8dec6c3ff711332eff39a5ee	Black_Lamp_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+9ff8f93aa9ea6f21a863dcebbf0d9969	BlackJag (2008).rom	atari-jaguar-yori-yoshizuki
+3c340d8cb15465f0167309dd1db7e900	BlackJag v1.01Beta ($4000).abs	atari-jaguar-yori-yoshizuki
+b536c814421465cf5243bea47be7bba3	BlackJag v1.02Beta ($4000).abs	atari-jaguar-yori-yoshizuki
+2f5182a50c27aff1e1a00b64ea7c7516	BlackJag v1.03BETA ($4000).abs	atari-jaguar-yori-yoshizuki
+b4d4da2354a9a7df2cd9852dfbfa2659	BlackJag v1.1 (-)(FORCE Design)(PD) [BIN].bin	atari-jaguar-yori-yoshizuki
+e5e5c3a7ba0cab41c5510a09fb48e2ad	BlackJag v20050223 (2005)(FORCE Design)(PD) [BIN].bin	atari-jaguar-yori-yoshizuki
+b7cc50570fb4c47218c6d300adc0988f	BlackJag_ver1.03_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+0a64a2fa0ab243f796f16967f1a7413c	BlackJag_ver1.03_jiffi.cof	atari-jaguar-yori-yoshizuki
+a8ddec1c330f18e6c2bdd9f2e51236e4	BlackJag_ver1.03_jiffi.rom	atari-jaguar-yori-yoshizuki
+58857afc0ead6f0b2264485863579205	BlackJag_ver1.03_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+57a32feb21bde0524873fe781a15c6d5	BlackJag_ver1.03.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+3b8c234318e3cea7ab4ce255d6aa0c43	BlackJag_ver1.03.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+4bdca68cc7311e643c4ff957c1d8e738	BlackJag_ver1.03BETA ($4000) [BIN].bin	atari-jaguar-yori-yoshizuki
+4052968f94fc821edbb47745c52f04cf	BlackLamp_v2.abs	atari-jaguar-yori-yoshizuki
+a1b81fb7568a84efd3d1d65606175574	BlackLamp.abs	atari-jaguar-yori-yoshizuki
+6b10939ffd6b74a0a8c6c9b17c5f5daf	BLACKOUT (BETA DEMO)($802000).jag	atari-jaguar-yori-yoshizuki
+f3f81e5c5ab19410d683d11d1cbb85f2	Blackout.rom	atari-jaguar-yori-yoshizuki
+ae712dd65774dfb42a01e736bff9415f	blackout2.abs	atari-jaguar-yori-yoshizuki
+69489021588a481c48c07ff01fa82cc3	blackout2.rom	atari-jaguar-yori-yoshizuki
+7d6644e0327cd41be3a8c81ea49b7ff8	BLIT2.bin	atari-jaguar-yori-yoshizuki
+fa3cf506446786b927248301bb8ad608	blit2d.bin	atari-jaguar-yori-yoshizuki
+4bfd1c56fbe24bb5d7d196a2408a2315	blit2d.cof	atari-jaguar-yori-yoshizuki
+7551c3150f072acd2c3be9ab3337db8b	BLITCOOK.cof	atari-jaguar-yori-yoshizuki
+dd38f2ba1f2a24f575109dcfee5a8332	Blitter 2 (199x)(-)(PD).bin	atari-jaguar-yori-yoshizuki
+4b1a4917f1c354d42ca12f7a0d1432b1	Blitter 2 (199x)(-)(PD)[a].bin	atari-jaguar-yori-yoshizuki
+bf03a5c7ff0e4de87d47e3859897fe96	BLITTER TEST.cof	atari-jaguar-yori-yoshizuki
+65a23da924018999e2abedd5921825ab	BLKDEMO_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+8dc50b1f149f14127223607aa7298a51	BLKDEMO_jiffi.rom	atari-jaguar-yori-yoshizuki
+863517ccb2e2166205ec302c27c92862	blobs.bin	atari-jaguar-yori-yoshizuki
+a364d8f8540442e500032e7c6d6ec4ec	blobs.cof	atari-jaguar-yori-yoshizuki
+be8cb8d3ae155945e631c792c33544be	Blue Lightning Alphas_Demos - BARREL.abs	atari-jaguar-yori-yoshizuki
+c77a23e9c9e57e865640358f670200b3	Blue Lightning Alphas_Demos - BLUEice.abs	atari-jaguar-yori-yoshizuki
+56be00b6c13b4681c463f6f438ea7e5a	Blue Lightning Alphas_Demos - DEMObl.abs	atari-jaguar-yori-yoshizuki
+a3fbc7d6cc7b67a96b64e390b528b755	Blue Lightning Alphas_Demos - DEMObl2.abs	atari-jaguar-yori-yoshizuki
+2be9b4032a8b5515090e0ac4aa567f9a	Blue Lightning Alphas_Demos - DEMOMock.abs	atari-jaguar-yori-yoshizuki
+ee8864f5459f6fe162237c13225bc39a	Blue Lightning Tour 4 Beta M1.bin	atari-jaguar-yori-yoshizuki
+091523eb9b2c8c424ab2afb0853fd678	Blue Lightning Tour 4 Beta M2.bin	atari-jaguar-yori-yoshizuki
+5ca6eb9781c194bd790d76fb53ae5e76	Blue Lightning Tour 4 Beta M3.bin	atari-jaguar-yori-yoshizuki
+27c88a811cfc9aeaf3f853d9d2bd555a	Blue Lightning Tour 4 Beta M4.bin	atari-jaguar-yori-yoshizuki
+89277e4e58e86e1472ed529567151558	Blue Lightning Tour 5 Beta M1.bin	atari-jaguar-yori-yoshizuki
+ba2b2a5aff184e31940f3c8ba94e3e34	Blue Lightning Tour 5 Beta M2.bin	atari-jaguar-yori-yoshizuki
+6a1a3d7af316aae224e8d35c4bac3b97	Blue Lightning Tour 5 Beta M3.bin	atari-jaguar-yori-yoshizuki
+e7ce1cfbfecdc3c7cf78f107964e1b43	Blue Lightning Tour 5 Beta M4.bin	atari-jaguar-yori-yoshizuki
+52c24118dce7e718dde7d451d613a7bf	Blue Lightning Tour 6 Beta M1.bin	atari-jaguar-yori-yoshizuki
+53bdcdd9301a8242abea7e2690b9e128	Blue Lightning Tour 6 Beta M2.bin	atari-jaguar-yori-yoshizuki
+c47b96a5b438b886a2b1bb2273b53c01	Blue Lightning Tour 6 Beta M3.bin	atari-jaguar-yori-yoshizuki
+050d5a8b9f0f425286b3aa2ae04a7df0	Blue Lightning Tour 6 Beta M4.bin	atari-jaguar-yori-yoshizuki
+865ee4ccb1a87c27f6b4cdcf037bd575	Blue_Lightning_25jan95.abs	atari-jaguar-yori-yoshizuki
+4ecf3e0a1e35eb1f393a4bfbb0e6bf47	Blue_Lightning_5dec94.abs	atari-jaguar-yori-yoshizuki
+d5ac228186806f4e7f432f5e2ed56636	Blue_Lightning_6dec94.abs	atari-jaguar-yori-yoshizuki
+04edc71f408b66ad8879cfab4b2db025	BOARD (JAGOS).jag	atari-jaguar-yori-yoshizuki
+fec8c99c0d435cc0c6fbd763998ca0f4	boing.jag	atari-jaguar-yori-yoshizuki
+96e406424fffac11633107587e039735	boingy wip1.abs	atari-jaguar-yori-yoshizuki
+27aea6d45fa6d629410cd4c9eb2c4646	boingy wip2.abs	atari-jaguar-yori-yoshizuki
+531594565fa978bc161d64bde2931867	boingy wip3.abs	atari-jaguar-yori-yoshizuki
+ebfde239dc00c3b848e2d728c5ed1ab8	boingywip01.rom	atari-jaguar-yori-yoshizuki
+5e48dc8954a85bed0cf44698f2fbc932	boingywip02.rom	atari-jaguar-yori-yoshizuki
+cbf05e2be6bb08220b92eb3134150ff4	BOMBER.abs	atari-jaguar-yori-yoshizuki
+732f7d2d275f20a551ac7399928d2371	Brain Games.rom	atari-jaguar-yori-yoshizuki
+449c50414de5875b938780d0ef0b9869	BrainGames (unreleased).rom	atari-jaguar-yori-yoshizuki
+fd38e4ede0680c2a33a9a8c7474d381a	BrainGames [unreleased].abs	atari-jaguar-yori-yoshizuki
+d2e607ca59070c89b500d5f2a29c4f69	BrainGames DEMO (2009).rom	atari-jaguar-yori-yoshizuki
+73a03ac854e2e87ee7ca1c42ef64a301	Breakout 2000.rom	atari-jaguar-yori-yoshizuki
+242d383c944c8649f57efe30f8a84215	Breakout_2000_(1996).rom	atari-jaguar-yori-yoshizuki
+a6e2df65055b6087e3219320ac1fb613	Breakout2000 [Prototype].rom	atari-jaguar-yori-yoshizuki
+e294d0251879e7e81291e3ac018261d1	Brett Hull Hockey [Cart Version].bin	atari-jaguar-yori-yoshizuki
+4c32a7a55af8f6b24d570b6d2a83963b	Brett Hull Hockey.rom	atari-jaguar-yori-yoshizuki
+0318d553d1d2e694bb188246bfe49032	Brett_Hull_Hockey_(1995).rom	atari-jaguar-yori-yoshizuki
+b465c81fa7c5cb074e25dfa57d823b64	BRETTHULL1121-CARTBOOT.cof	atari-jaguar-yori-yoshizuki
+f5300549890cf285feec176ef8402638	BRETTHULLCART.cof	atari-jaguar-yori-yoshizuki
+f4355cc939a2ed7c8610f54e6d5bd6f5	bubble_bobble_arcade_music.rom	atari-jaguar-yori-yoshizuki
+b507771a57e3f1baa611c09762462174	bubble_bobble_arcade.rom	atari-jaguar-yori-yoshizuki
+bb3e6d31c027df6f5005fb6dfa3625b1	bubble.rom	atari-jaguar-yori-yoshizuki
+880ac90d5c5a1c38f66975c6a1f2655b	BubbleBobble.rom	atari-jaguar-yori-yoshizuki
+ca739bd51dbcca525700978e928ae6d6	BubbleBobbleArcade.rom	atari-jaguar-yori-yoshizuki
+6d389969635ba4479a303a8371662100	BuggyBoy_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+2598c849a9376ebe7979677186375ce4	BuggyBoy_incomplete.abs	atari-jaguar-yori-yoshizuki
+6671f6a85f75e290e84fe9d65534cd84	BuggyBoy_v11.abs	atari-jaguar-yori-yoshizuki
+4f7e1b03cce05c75f91d12f7e751e1b2	Burn Out [Prototype].rom	atari-jaguar-yori-yoshizuki
+719f86ca85ce878981e53651eaa5245a	C0C6.abs	atari-jaguar-yori-yoshizuki
+74bb2cff8f944c612b1b512e09acdcbf	C0C60.abs	atari-jaguar-yori-yoshizuki
+9f87ba7117a52ed07e1be2eca2302eda	Carrier_Command_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+4f1a41000c0ece62ea0b6a3c78ceb8d2	CarrierCommand_incomplete.abs	atari-jaguar-yori-yoshizuki
+af4f5d6fdb7ed69827c577f87004ef02	Caves of Fear.cof	atari-jaguar-yori-yoshizuki
+724007303e636de7b828bed52a236888	CD Encryption Utility v1.6 (19xx)(BLJ)(PD).abs	atari-jaguar-yori-yoshizuki
+a53f5d7852524313703c5a7b0890f2b7	CD Verification Utility v.0.5.rom	atari-jaguar-yori-yoshizuki
+501be236d2288613d9419a8bc9d7dee4	cdbios45.bin	atari-jaguar-yori-yoshizuki
+b776628e08b14dd092fea3401f23f033	CDBYPASS (Symmetry of TNG 2003).prg	atari-jaguar-yori-yoshizuki
+ba90f7f45193311b898c34cd89e7b0e7	CDBYPASS_jiffi.rom	atari-jaguar-yori-yoshizuki
+9ebdb791b828c669467b70067cd791c3	cdbypass.jag	atari-jaguar-yori-yoshizuki
+2b145add3afd8a9c5bdd540d576c1487	cdenc.abs	atari-jaguar-yori-yoshizuki
+8da32a21fd1c7e02a02655f0814cf9e1	cdencr.abs	atari-jaguar-yori-yoshizuki
+5cd5401a3d10700d5f37e5ed044a669a	cdentest.abs	atari-jaguar-yori-yoshizuki
+84b9311a3c3452a526b93186a4d00839	cdentest2.bin	atari-jaguar-yori-yoshizuki
+5c10f9e15749ec4ec1688ddb6b0bf656	CES Demo (199x)(-)(PD)[$802000].jag	atari-jaguar-yori-yoshizuki
+facb373a50a3b33abd4bba031bf02bd5	CES_DEMO.rom	atari-jaguar-yori-yoshizuki
+ead1fc320d8321d7b397a3b5be584b2a	CHAOS.abs	atari-jaguar-yori-yoshizuki
+39be9724e9ecee77df2bb75f3198743d	Checkcom_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+97cc8452c615d023e182d1369b5ee2c6	Checkcom_jiffi.cof	atari-jaguar-yori-yoshizuki
+29c68a759a29defa3743a74bd6281069	Checkcom_jiffi.rom	atari-jaguar-yori-yoshizuki
+ec7370ec03021286acec6dbd6822ff81	Checkcom_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+99744382ced97208f5cce6ec2a1c144a	Checkcom.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+c59e6bd8554a231d1c15124692635240	Checkcom.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+f7d79000f0e7f21b0acd79fccd25b44f	Checkered Flag (World)[LINEAR STEERING RATE PATCH].rom	atari-jaguar-yori-yoshizuki
+d0a0a6f9c9c2f3023e28645bad8dc74d	checkered_flag_131093_beta.jag	atari-jaguar-yori-yoshizuki
+ef450ac5ec7bcc63fe2efddc54882ff7	Checkpoint-MORPHONIC_LAB_XIII-CONTARUM-Invitation---Evoke2014-Partyversion.bin	atari-jaguar-yori-yoshizuki
+3844ee2842e9466d95d4be4129dd7871	Christmas_2006_SURROUND_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+1ef1594e09b7a2a7dc2d735cb9fc4cc9	Christmas_2006_SURROUND_jiffi.rom	atari-jaguar-yori-yoshizuki
+dbb539800abc0a3d5a6e99b8de44a781	Chroma-Luma Color pick (early version)_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+c27b238013ef38097971fd93245763e3	Chroma-Luma Color pick (early version)_jiffi.rom	atari-jaguar-yori-yoshizuki
+40391833fd5634d8560ae5709000efc5	Chroma-Luma Color Pick (Mouse)_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+06e1fe7ae9c0ea5ac48aee2b7290d3a7	Chroma-Luma Color Pick (Mouse)_jiffi.rom	atari-jaguar-yori-yoshizuki
+a12be076a72a5f5491b645df2f215789	Chroma-Luma Color Pick_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+d991bd5e4bd834b804c5e5c80c6c6b48	Chroma-Luma Color Pick_jiffi.rom	atari-jaguar-yori-yoshizuki
+972e33644bb0c3778b9867841bcbc6e1	Clicks 3 (199x)(Matthias Domin)(PD).jag	atari-jaguar-yori-yoshizuki
+4f40da5046342952fde0f7e34e673f74	Clicks 4 (199x)(Matthias Domin)(PD).bin	atari-jaguar-yori-yoshizuki
+33b59c6e40c71c7df3c9f6c5f5b48206	Clicks 4 (199x)(Matthias Domin)(PD)[a].jag	atari-jaguar-yori-yoshizuki
+47a6aa023d906e13b1d34e38de065ec8	cloudy [a].rom	atari-jaguar-yori-yoshizuki
+30735100777200fdc3e3fd9f591da5e3	CLOUDY.rom	atari-jaguar-yori-yoshizuki
+b5ef0f2aa7aa14985cc7beaec483ed39	Club Drive proto.rom	atari-jaguar-yori-yoshizuki
+c7d8aaf39343f665220da6a3471beef5	Colors Mouse DEMO (2008).rom	atari-jaguar-yori-yoshizuki
+a231a5ae37b93b56637cf811ea32bdc7	Connaone Demo.jag	atari-jaguar-yori-yoshizuki
+a954f6b318f363a8a8f41644fec70950	CPKDEMO.cof	atari-jaguar-yori-yoshizuki
+63ff8abf6bfcac1ccbfa504b235568c5	cresent_galaxy_170993_beta.jag	atari-jaguar-yori-yoshizuki
+3d7d64105361d0b9ad961af0fc2d4aaa	CRYDEMO [a].abs	atari-jaguar-yori-yoshizuki
+f88ea0378b7c7766cb30b14e568e6917	CRYDEMO.abs	atari-jaguar-yori-yoshizuki
+cb0a0a2e84f0929cb3b9d8ecf06b255b	CRYPICK.cof	atari-jaguar-yori-yoshizuki
+963ee8a5d9a2ce02b94fe0c988582287	CRZ DEMO (2008).rom	atari-jaguar-yori-yoshizuki
+6e23ce67e6cb33ea4ba5068b354dd5e3	CRZ Demo_jiffi.rom	atari-jaguar-yori-yoshizuki
+6ba0ae7dfbf54404664d071d85c7886e	CRZ_DEMO_JIFFI_HEADERLESS.rom	atari-jaguar-yori-yoshizuki
+fc91b5206c1047b2e0b0a831e4edb9bc	CRZ.abs	atari-jaguar-yori-yoshizuki
+ee362363f06d2499e325c80ecc9a1441	CRZDEMO.abs	atari-jaguar-yori-yoshizuki
+5d31144812dc9f25ef362676290984d5	CSX.cof	atari-jaguar-yori-yoshizuki
+742385efbe6ac270c1d93b7fb75527d7	CURSOR (JAGOS).jag	atari-jaguar-yori-yoshizuki
+775f6e2066d6a94ed51b6cc67ed7cef0	Cyber Golf v0.02 (19xx)(Atari)[Demo].jag	atari-jaguar-yori-yoshizuki
+2b543d378f677737c5f674b9cb160110	Cyber Golf v0.03 (19xx)(Atari)[Prototype].jag	atari-jaguar-yori-yoshizuki
+905b5df8de465c922543a1d0548e8101	Cyber Golf v0.03 (19xx)(Atari)[Prototype].rom	atari-jaguar-yori-yoshizuki
+fdc7a5a7f6ccc72c99014a3a7175ba81	Cyber Golf v0.04 (19xx)(Atari)[Prototype].jag	atari-jaguar-yori-yoshizuki
+0ad7cf284117042132e56b0a0a5af3e7	Cybermorph (Early Prototype).rom	atari-jaguar-yori-yoshizuki
+00d1d2d871414d3cd622924bf95b0194	Cybermorph [Early Prototype].rom	atari-jaguar-yori-yoshizuki
+81dc55f1abaa89f4b3d510cb4c2e5fe8	Cybermorph_(1994).rom	atari-jaguar-yori-yoshizuki
+80c40d413446c75c4c7b3a1a9c1814de	cybermorph_240895_beta.jag	atari-jaguar-yori-yoshizuki
+f392ceab3e1bda68fa9d709c86d52a34	cybermorph_beta.jag	atari-jaguar-yori-yoshizuki
+d212925d8f6984e6f795714f56c6adee	Cybernoid_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+4baeb4d1be326a36271e9a31a7621fa5	Cybernoid.abs	atari-jaguar-yori-yoshizuki
+2add61f61e2b5f195d533e48c56fa7d8	Cybernoid2.rom	atari-jaguar-yori-yoshizuki
+93db0067eb51284acce6c340a7c95cf1	D2K.cof	atari-jaguar-yori-yoshizuki
+bc6498fb60a5fc2022b6bae7f5a18874	Dance dance Xirius space party_jiffi [cof].cof	atari-jaguar-yori-yoshizuki
+0ab7ed1ae3cf414e32f28fbccdd5b6b9	Dance dance Xirius space party_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+31dddc28f87d87874878825e03128b22	Dance dance Xirius space party_jiffi.rom	atari-jaguar-yori-yoshizuki
+edcff006a10e6d0ddbfdfcd430f23671	Dazed_jiffi [cof].cof	atari-jaguar-yori-yoshizuki
+a5f69b26925bfa39a890a70932ceb96e	Dazed_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+487613d0757176fc5a02030c1be5dc9e	Dazed_jiffi.rom	atari-jaguar-yori-yoshizuki
+e6612e9222b7f722c5d5beb7f639c70b	Dazed.bin	atari-jaguar-yori-yoshizuki
+79685d3b3a9d7ea773213562a1d5f782	DBMESSAG (JAGOS).jag	atari-jaguar-yori-yoshizuki
+37f38d240c9eb074872e62e3694ba453	Defender 2000 (Prototype).rom	atari-jaguar-yori-yoshizuki
+e6e1a56794302b4bcd6f1ae77a996531	Defender 2000 [Prototype].bin	atari-jaguar-yori-yoshizuki
+c7ba694a0984f14277ef66f462a442a8	Deflektor_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+ce3b99609e495cdcbbd63a45057b86e0	Deflektor.abs	atari-jaguar-yori-yoshizuki
+df285d3059ba7d21e5b13b752055e33c	Deflektor.rom	atari-jaguar-yori-yoshizuki
+3a23570f7e12d4c9f01b0356c3a5c4ab	DEGZ (auto shoot).jag	atari-jaguar-yori-yoshizuki
+6f4fcbfb6e76d1172c0e97cea8a2354e	Degz_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+9e4e030ee83267145754167de8aaa481	DEGZ_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+6b0d860a801cec4a713968c3f6fbc621	Degz.abs	atari-jaguar-yori-yoshizuki
+575211b5efa10433d18702d2a315c02b	DEGZ.rom	atari-jaguar-yori-yoshizuki
+ba612d161bf5b3bb854db7ad5cf18e06	DEMO [cof].cof	atari-jaguar-yori-yoshizuki
+c15961b8cd42294b5561eb2721bf7a15	Demo 1 (199x)(Mr.Well's)(PD).bin	atari-jaguar-yori-yoshizuki
+ba509927f37f95ff5196c2e9447aeab4	DEMO.abs	atari-jaguar-yori-yoshizuki
+0c0416d0011a5e194050887b4a4313e2	DESKTOP.abs	atari-jaguar-yori-yoshizuki
+904fce799a3f15b076baebd59269868b	DiamJag  by Orion_ 2006.bin	atari-jaguar-yori-yoshizuki
+9885c4e29a6fbe3f55a9e19c9e25bd71	DiamJag (2008).rom	atari-jaguar-yori-yoshizuki
+d7ce03e94eb3c07e897485ba04152d0c	DLA.abs	atari-jaguar-yori-yoshizuki
+4ee666818917315541a99f4e87111a07	DLA2.abs	atari-jaguar-yori-yoshizuki
+076804237c59cef29ba1c32d137235f2	dmorgc06_invintro.jag	atari-jaguar-yori-yoshizuki
+aef15268530c3bb90f7caeda3a0cb08b	DMORGC06_jiffi.rom	atari-jaguar-yori-yoshizuki
+fe5ebd548917186168e4dba4a641bd39	Do The Same (2009).rom	atari-jaguar-yori-yoshizuki
+b572547fa9714218c779ff6f8bbfa195	DODGE.abs	atari-jaguar-yori-yoshizuki
+b1fc152a494d4a086187d3cf67da7710	DOGER.abs	atari-jaguar-yori-yoshizuki
+47b51bf76b19e64328f184699d85e812	DoH wip1.abs	atari-jaguar-yori-yoshizuki
+23619bc2a35d4c66bd1e42aa0d1603ee	DoH wip2.abs	atari-jaguar-yori-yoshizuki
+dcbe43ed6d267471f631f56b20a45363	DoH wip4.abs	atari-jaguar-yori-yoshizuki
+dc8863c13f441f4ec7dab393a6b726eb	DoH-Rotaries wip6.abs	atari-jaguar-yori-yoshizuki
+e1d952f952921852779277dbb76f449c	DoH-Rotaries wip7.abs	atari-jaguar-yori-yoshizuki
+75ce671082202350dc9e8eb84cfb4711	DoH-Rotaries-low wip8.abs	atari-jaguar-yori-yoshizuki
+43529ec55fe92cabf50b9165934c6b9b	DoH-Rotaries-medium wip9.abs	atari-jaguar-yori-yoshizuki
+fa4a73b0ea1cd4c80610d10863d4929d	Doom_2_v98_(2011).rom	atari-jaguar-yori-yoshizuki
+dd0e658be11569123af1c7f3525de0a1	doom_n02.abs	atari-jaguar-yori-yoshizuki
+5376b00c0cb166b38fa7685484434d5f	doom_n03.abs	atari-jaguar-yori-yoshizuki
+9d2dbdbaf6d55f01f6697db099c75b0e	doom_n06.abs	atari-jaguar-yori-yoshizuki
+4c37a6c5da76c451c62c39d3902a5652	double draggon 4.rom	atari-jaguar-yori-yoshizuki
+a2c38d91bb474261ec6f0e32fa873c48	downfall (Load $4000, run $4000).bin	atari-jaguar-yori-yoshizuki
+4206ec6abeee07b9525fdda9925f3e55	Downfall [a].rom	atari-jaguar-yori-yoshizuki
+abb472de4d9f31f46be282206b606411	downfall_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+d4f87c9ca342c78bbbb15151845c477a	downfall_jiffi.rom	atari-jaguar-yori-yoshizuki
+2e543f876ac603723a15612ffd6283b9	DOWNFALL_PT.bin	atari-jaguar-yori-yoshizuki
+c44c301b786e78509954f64f1e4c8e3d	downfall.bin	atari-jaguar-yori-yoshizuki
+9c1be292846332aa88d1ef233e173191	downfall.jag	atari-jaguar-yori-yoshizuki
+09aefc75ca12b8c3310e5a821ca344d8	downfall.rom	atari-jaguar-yori-yoshizuki
+be0265ab3c640c2d746152f17144e975	Dr. Sam Beckett stepped into the Quantum Leap accelerator...... (RAPAPP) (2013.03.08 21.03) (RAPAPP).abs	atari-jaguar-yori-yoshizuki
+5da77d6b8d3e5eb8f19543aabad8a9e2	Dr. Sam Beckett stepped into the Quantum Leap accelerator...... (RAPAPP) (2013.03.10 18.55).abs	atari-jaguar-yori-yoshizuki
+26a1b3f16bd4604454e646215e603045	Dr. Sam Beckett stepped into the Quantum Leap accelerator...... (RAPAPP) (2013.03.10 20.57).abs	atari-jaguar-yori-yoshizuki
+8fb10b77be020746b1bc48842421df33	Dr. Sam Beckett stepped into the Quantum Leap accelerator...... (RAPAPP) (2013.03.11 14.11).abs	atari-jaguar-yori-yoshizuki
+2647af8b63383d32b288afc3e58488fa	Dr. Sam Beckett stepped into the Quantum Leap accelerator...... (RAPAPP) (2013.03.12 00.52).abs	atari-jaguar-yori-yoshizuki
+b609206fdb90daf53b484ff836d8554d	Dr. Sam Beckett stepped into the Quantum Leap accelerator...... (RAPAPP) (2013.03.13 06.11).abs	atari-jaguar-yori-yoshizuki
+d0af90d2ef35d961fdcf34f6081f54f3	Dr. Sam Beckett stepped into the Quantum Leap accelerator...... (RAPAPP) (2013.03.15 19.01).abs	atari-jaguar-yori-yoshizuki
+5f3f00620e20453d98c2b87a40ba595f	Dr. Sam Beckett stepped into the Quantum Leap accelerator...... (RAPAPP) (2013.03.16 18.46).abs	atari-jaguar-yori-yoshizuki
+1c323199ca2db5f4d735079ca62afcc2	DragonBreed-skunk.rom	atari-jaguar-yori-yoshizuki
+2df855438b1c1595fa0bce5334e05100	Drumpad (2002).rom	atari-jaguar-yori-yoshizuki
+79acd1570e892c5b004e0f6ec1e201d3	Drumpad_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+4cabc417083e255f19b93f0f52f1d850	Drumpad_jiffi.cof	atari-jaguar-yori-yoshizuki
+467d8d8603398f8345ceee7c8d461031	Drumpad_jiffi.rom	atari-jaguar-yori-yoshizuki
+605f86f728db2083489d751d2e99dfec	Drumpad_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+9af60c0def56bb56521faac0688a196b	Drumpad.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+e340f170fd2e4fffdd03f14a277de91d	Drumpad.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+52579004a7a4bb4d2cde67530c9f3146	Drumpad2_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+c81d162c6907356f3e488f4adfd42eca	Drumpad2_jiffi.cof	atari-jaguar-yori-yoshizuki
+847a94b03ae14b4cc4ac9428fe0de6b0	Drumpad2_jiffi.rom	atari-jaguar-yori-yoshizuki
+84f7e427671e3110945cdac60a25a25b	Drumpad2_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+db46a2b7f8d326e343cad51996d160ef	Drumpad2.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+faa6756a70e5a3e7e05b6de71094d2e5	Drumpad2.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+e1a4d1296bc3bc1f0b91c4e3c4f2eb69	dts_jiffi [cof].cof	atari-jaguar-yori-yoshizuki
+81adda2eee724716fe43a0a3ddc7ec52	dts_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+eb840bd255a5f94929467d76c9ba43e3	dts_jiffi.rom	atari-jaguar-yori-yoshizuki
+f86047fc38fc4fe8b03e4c3c9ab0fa76	dts.bin	atari-jaguar-yori-yoshizuki
+84a4e858f8968edf4fe495f607e384a0	dtsskunk.rom	atari-jaguar-yori-yoshizuki
+ddb86cc293053d0b97424194faba2c4c	DUCKIEEGG.1.19.bjl	atari-jaguar-yori-yoshizuki
+13f709b35903f1eeaa8e9dacadd5c6a9	DUCKIEEGG.1.19.rom	atari-jaguar-yori-yoshizuki
+ad68b113f47e674e2804571c1ffe2b0a	E2prom-Browser v1.1 (19xx)(Matthias Domin).abs	atari-jaguar-yori-yoshizuki
+1abbb90cc2d84c84c8ba22199ae22874	E2prom-Browser v1.1 (2008).rom	atari-jaguar-yori-yoshizuki
+7959d9a19d9a8b31179ba01ec7ebcaad	EJF2KDEMO_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+e14f7c6bb0cec657f42ed5448527a4b0	EJF2KDEMO_jiffi.rom	atari-jaguar-yori-yoshizuki
+7660b15eeeaecd1dfba461ac9f7077a5	Elansar jaguar demo.rom	atari-jaguar-yori-yoshizuki
+03332533def0de4c3d4f10edecb4a898	Elite II - Frontier (2006).rom	atari-jaguar-yori-yoshizuki
+8d0d2e511fa3fa2803e49128d7393c76	Escape_From_The_Planet_of_The_Robot_Monsters_Skunk.rom	atari-jaguar-yori-yoshizuki
+a352a00cbfdfbeee161b59f866eb019a	EX-11_rotaries.abs	atari-jaguar-yori-yoshizuki
+e3f3395c343afa2f6c91552ff8e44328	example demo1.bin	atari-jaguar-yori-yoshizuki
+f7ba65ff9eb734fc5ecb610fcac9f9ac	example demo1.cof	atari-jaguar-yori-yoshizuki
+602e3db95fc0e4a05effbc190a45daff	example demo2.bin	atari-jaguar-yori-yoshizuki
+d662d9a9fa2b07dfcfb758d787690a11	example demo2.cof	atari-jaguar-yori-yoshizuki
+3ad4a1d73b2e84e39ade6ce162d5e3ca	example demo3.bin	atari-jaguar-yori-yoshizuki
+24a86f1d1e125e94a6dbfee6dd61e512	example demo3.cof	atari-jaguar-yori-yoshizuki
+e0d44e5de8af80eee2b66892764e5bf2	example4 (BIN).bin	atari-jaguar-yori-yoshizuki
+9139b134d2bc87494b7d63506ad8b555	example4 (COF).cof	atari-jaguar-yori-yoshizuki
+c04bb041d797e17fd67b84af8ccae3b5	expressway.abs	atari-jaguar-yori-yoshizuki
+9b4f5f0bd73f0adfd16d58e263c0e973	expressway.bjl	atari-jaguar-yori-yoshizuki
+06669eb0a0be483ce628f4b3d5734812	expressway.rom	atari-jaguar-yori-yoshizuki
+39cc0a256136f6034d83cab01075e864	fa01jag.cof	atari-jaguar-yori-yoshizuki
+4041a5486524b83ba01b8c83b338dcee	FACTS_final_jiffi.rom	atari-jaguar-yori-yoshizuki
+5bb6c8d4a47d926a0e39d64bdd7e77f2	FACTS_final.bin	atari-jaguar-yori-yoshizuki
+8587353e5384e3091755bbe21c47f4cc	Fallen Angels Demo_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+5f37a87e70c5ad7fec5d99b7b1be0dbc	Fallen Angels Demo_jiffi.rom	atari-jaguar-yori-yoshizuki
+f77a4722375de20119e140bcfbae7cd7	fallen angels demo.cof	atari-jaguar-yori-yoshizuki
+06d880314302fd62b002b6a28fe1e410	fallenangels.cof	atari-jaguar-yori-yoshizuki
+f72834223cc75a0c67904c68e003c899	Fantasy_World_Dizzy_(Atari_ST)_v1.rom	atari-jaguar-yori-yoshizuki
+b41fce79ab94b6c1706eea210fd2a5ce	FantasyWorldDizzy.rom	atari-jaguar-yori-yoshizuki
+161f4b7bd58014d8aebc8c1c56409338	fcr-rls_jiffi.rom	atari-jaguar-yori-yoshizuki
+f01a02f87120c9953cf65900a3382458	fcr-rls.abs	atari-jaguar-yori-yoshizuki
+2ce1372bc806e2b57936eef3d1673c4a	Fernandez_Must_Die!_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+2048ecdf56340529b408212b7ec38b1b	Fernandez.abs	atari-jaguar-yori-yoshizuki
+42fa0eebd4e7b2ebfa2e93b03afc7c9d	FernandezMustDie!_incomplete.abs	atari-jaguar-yori-yoshizuki
+2c2f5d2aae83c1d02035286b55f3b047	FernandezMustDie1.1.abs	atari-jaguar-yori-yoshizuki
+c5d3d9510a9ab9ea9b44c6643bd48ce1	Fight For Life (BETA 3-22).rom	atari-jaguar-yori-yoshizuki
+8ef4cea701ed5c774380a5f21bfb9062	Fight For Life (BETA 9-7).rom	atari-jaguar-yori-yoshizuki
+d8bc12c215f317f7cd2bfb4ddd9e9744	Fight For Life [BETA 3-22].bin	atari-jaguar-yori-yoshizuki
+2c9bd7e404b1e30f01a8ee9a9fb11e29	Fight For Life [BETA 9-7].bin	atari-jaguar-yori-yoshizuki
+65fca0d49c2cb4964c48885576751ffb	FIRE (Symmetry of TNG 2003).prg	atari-jaguar-yori-yoshizuki
+0f3cf72dd4d942be763d9a0964c63896	Fire DEMO (2008).rom	atari-jaguar-yori-yoshizuki
+a5adfe1207ce87b975d3fcad2939471d	FIRE_jiffi.rom	atari-jaguar-yori-yoshizuki
+2e12c4790b8130df9f0f4cd2022a096f	FIREWORK.abs	atari-jaguar-yori-yoshizuki
+101da6c04b2971aa10f1599c81d4d205	FISH.bin	atari-jaguar-yori-yoshizuki
+1a63a7ae93a9f117a8ff34f6f5df3b37	Fishes (2006).rom	atari-jaguar-yori-yoshizuki
+afa0d959b38e9740cbeeaf21b85212a3	Fixed Point Raytracing on Jaguar.bin	atari-jaguar-yori-yoshizuki
+0af4d39eca4ed6f20ceafaefeea29a64	FixedSurround_jiffi.rom	atari-jaguar-yori-yoshizuki
+c43b914dde64b514e137852f56b415b1	Flip_Out!_(1995).rom	atari-jaguar-yori-yoshizuki
+e60860b1fab595d583df76941b0138c2	floor.abs	atari-jaguar-yori-yoshizuki
+26cd89806b7c4ba17cc8b60391fea235	floor2.abs	atari-jaguar-yori-yoshizuki
+799159c0ec95b03f1476962cc422f8f3	floor2.rom	atari-jaguar-yori-yoshizuki
+621ee9e174507858febe0d091547fd4a	Font v1 (199x)(Mr.Well's)(PD).bin	atari-jaguar-yori-yoshizuki
+92693b588bcbc2163444f1352b1ed333	Fractal Landscape Demo 1 ($802000).bin	atari-jaguar-yori-yoshizuki
+a1cad66910fd002284ab1b770e4f0f66	Fractal Landscape Demo 2 ($802000).bin	atari-jaguar-yori-yoshizuki
+a7c1bd8219cb00dd5c658b71868d8ad1	FRACTAL1_jiffi.rom	atari-jaguar-yori-yoshizuki
+17556ae8f948836e9e7679c355d0d6d3	FRACTAL2_jiffi.rom	atari-jaguar-yori-yoshizuki
+9d0a908603ff413d2ef198ab50d5e982	Frog (2005-04-27).jag	atari-jaguar-yori-yoshizuki
+615e83055b348d5bfbc0feba7d5c25ae	Frog (2005-04-30).jag	atari-jaguar-yori-yoshizuki
+051df6104f481c08d22d234ace0b4b48	Frog Feast DEMO (2006).rom	atari-jaguar-yori-yoshizuki
+1b6603c3c7f9124d76dbed77b73ccda9	Frog_Feast_(2006)_Not_working_game.rom	atari-jaguar-yori-yoshizuki
+f8980d4135c577a930876c183d302e27	Frog_Feast_(2006).rom	atari-jaguar-yori-yoshizuki
+c025f12089c6730191c10b5d6774399b	frog.abs	atari-jaguar-yori-yoshizuki
+3456a064cdb75901810ba3b702eb1d10	FROGBJL.jag	atari-jaguar-yori-yoshizuki
+dd9d92e2cdb11dcf7e388af1bc46663e	frontier20060412_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+d20a44d5fe3966fa3ad403cc291399c1	frontier20060412_jiffi.rom	atari-jaguar-yori-yoshizuki
+ad6d925919331687d8ba77322e8d3f65	frontier20060412.prg	atari-jaguar-yori-yoshizuki
+7079ae667e057a2bba3228528bfe9a9d	frontier20060602_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+253461727550beda2d559bc38d4a6b49	frontier20060602_jiffi.rom	atari-jaguar-yori-yoshizuki
+c2eee52c2dddb8b0032b91d68339f3c3	frontier20060602.prg	atari-jaguar-yori-yoshizuki
+5f0db532d5c044afce6bb9ec5d2f889e	frontier20060713_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+433786ee14b657ed1f6b75ad8c2d5c18	frontier20060713_jiffi.rom	atari-jaguar-yori-yoshizuki
+9ec349bb77cd4531249ad14e2e677fea	frontier20060713.prg	atari-jaguar-yori-yoshizuki
+f30174c84d92b0ae9a3e3d9fdcb3844a	FULSYNCTEST.abs	atari-jaguar-yori-yoshizuki
+4f394f95a994f9e1d0c5b8e08fd0cdee	FXADDINror.abs	atari-jaguar-yori-yoshizuki
+95b15eb1230f6aab332e79b0ff7ceb31	GAME.cof	atari-jaguar-yori-yoshizuki
+f46e8fbde5463b2a63f64eb33f856289	gameeng.cof	atari-jaguar-yori-yoshizuki
+37f54fb6ebe594f505ade274bc54d789	gaunt2.rom	atari-jaguar-yori-yoshizuki
+20dafc9f2ad46927c863f32d6ca14554	gaunt2(1).rom	atari-jaguar-yori-yoshizuki
+0c6098ed81ed1e0339020e61fbbd8fa7	gaunt2(2).rom	atari-jaguar-yori-yoshizuki
+79c552fbcaf8b0072e6e48d72dabfb77	gaunt2(3).rom	atari-jaguar-yori-yoshizuki
+3de9276f0cfeb22eca7ec045fdc8800e	gaunt2(4).rom	atari-jaguar-yori-yoshizuki
+ba64f1e4cce476aa985fbbf532feeb1f	gaunt2(5).rom	atari-jaguar-yori-yoshizuki
+519eefd0ee436f4ab9c123f70afb0f96	gaunt2(6).rom	atari-jaguar-yori-yoshizuki
+4fb2c1bf25fa1cc9b7f5923770ccc01a	Gauntlet_2_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+1404f7c4b4ef1040bbb469b674eb0851	Gauntlet2.rom	atari-jaguar-yori-yoshizuki
+e8f418607eade003e3534e989a5ddc9e	gemrace (2016)(DrTypo).cof	atari-jaguar-yori-yoshizuki
+17a3ae77fbe81a0cf5572fbb1a65999a	GEMTEST.abs	atari-jaguar-yori-yoshizuki
+f784b9c237e81bac51c7791c02dc1566	GEMTEST2.abs	atari-jaguar-yori-yoshizuki
+558d72af327bb85ec32f6d21e1ae5716	genesis01.abs	atari-jaguar-yori-yoshizuki
+0b702d68ec7e6d5dcbc401767f19a0c9	genesis02.abs	atari-jaguar-yori-yoshizuki
+6b1d42b36a5574385035a9ce9b8c1ebe	GOLF_v0.02_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+89b5d054d6abf16393e5504100dff797	GOLF_v0.03_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+acda4b8094d90212b38469f6c1d81e1e	GOLF_v0.04_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+7d558eeba3663db61452184898207f73	Gorf 2000 (2008).rom	atari-jaguar-yori-yoshizuki
+9970b88927952dea5a24fb007f51316b	Gorf 2000_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+51b305028015bc3f5fcaa36d716947d1	Gorf 2000_jiffi.rom	atari-jaguar-yori-yoshizuki
+56510d7ee6232c5c2ddbc9b44e4c5b97	GPIO-0 (JAGOS).jag	atari-jaguar-yori-yoshizuki
+3662449e9cf028f82e29d6e592ba1b24	gpu26.abs	atari-jaguar-yori-yoshizuki
+3076cc8e246b66ee1035ad588953d4e8	GPU2600.abs	atari-jaguar-yori-yoshizuki
+d1b1f9e2c5cb604c1df3e021adcd48e4	Gpuapfel_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+3f1028d5086aef5708b53309409e3011	Gpuapfel_jiffi.cof	atari-jaguar-yori-yoshizuki
+51b05fc159bed190df80db00922cafc8	Gpuapfel_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+710d8e34c3a52141160760e737a8f992	Gpuapfel.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+3216e4cf30dc76f5774bca93dcbccab6	Gpuapfel.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+ceb09d01bdff0772d25699b2cb762753	Gpuapfel.rom	atari-jaguar-yori-yoshizuki
+8c26d2479a9dc56a114c234eee12a570	GPUE2600.abs	atari-jaguar-yori-yoshizuki
+87dd0e2f2e26c9509203bc6725bc79f9	gryzzles [cof].cof	atari-jaguar-yori-yoshizuki
+26f02f40493d3e14d71b565e9922e758	GRYZZLES [rom].rom	atari-jaguar-yori-yoshizuki
+2bc8769735e487cab99103ebddc4b556	gryzzles.bin	atari-jaguar-yori-yoshizuki
+7d9000412b03c4dc6aebe81ebc115cc9	GS2JAZ.abs	atari-jaguar-yori-yoshizuki
+bd1822af5d74f7a6a53e79527d974514	Hallo World (2008).rom	atari-jaguar-yori-yoshizuki
+4f314e2f6ab20419d106afaf7e933e96	HalMock.cof	atari-jaguar-yori-yoshizuki
+5a596131920e834af715feac09ab315f	HALUCIN.abs	atari-jaguar-yori-yoshizuki
+5d073cbc08260dd16e67f2ca159c4927	hello3.bin	atari-jaguar-yori-yoshizuki
+b82aacabeba2feb7c91e46b55601c99c	hello4.bin	atari-jaguar-yori-yoshizuki
+8db16c79c762164c15f822c0cb2918d8	HENON.abs	atari-jaguar-yori-yoshizuki
+7c2ab5db51db95ac4ad9f7d25b34c26a	HERO by VladR.rom	atari-jaguar-yori-yoshizuki
+5fc94dbeae8ce918ef617d2c0b0d455c	HERO30FPS_jiffi.rom	atari-jaguar-yori-yoshizuki
+21068a98f210c6a7acc3e0381333ee6d	HIRESDEM.bin	atari-jaguar-yori-yoshizuki
+4815e20e41b42caf801625d2076746ed	HiResDem.cof	atari-jaguar-yori-yoshizuki
+1efabef6e601f68573fe9fea38ebcae9	HIRESDEMO2.bin	atari-jaguar-yori-yoshizuki
+cd7948530a6c2a34d474ec61153bad95	HMS Raptor CONCEPT.abs	atari-jaguar-yori-yoshizuki
+4adc417055cbfd1830afba4d0bba19be	HMS Raptoru235p.abs	atari-jaguar-yori-yoshizuki
+befab29d119197bafae6cc22d2b97c73	HMSR_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+67a81bf540c44d03d17a8a9ffc982c1c	HMSR_jiffi.rom	atari-jaguar-yori-yoshizuki
+64f62d8c75df9fde471029421103a7e0	hockey.abs	atari-jaguar-yori-yoshizuki
+63d2008cf79c4e44905506e0a0190bf1	HOST2JAG (JAGOS).jag	atari-jaguar-yori-yoshizuki
+545b4f36992de772d48a9f13491fb894	hoverstrike_030395_beta.jag	atari-jaguar-yori-yoshizuki
+092b8a9a09e8957359d7f0795dcc8bf3	HRD1U.bin	atari-jaguar-yori-yoshizuki
+5553ed8aa9a429f7b059d0b3f5defbb4	HRD2U.bin	atari-jaguar-yori-yoshizuki
+2fbc8ddda0859e674014685c0e910b4f	Hubble Fade (2008).rom	atari-jaguar-yori-yoshizuki
+e1831cf9a6a026345d3b6fe39621253c	Hubble Fade_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+ad3e9763c8e0221de17f263d83c08ff5	Hubble Fade_jiffi.cof	atari-jaguar-yori-yoshizuki
+eaa39077e7388580a856c6806c61204f	Hubble Fade_jiffi.rom	atari-jaguar-yori-yoshizuki
+be7ee43300321fe8cdb91f6aba5a61d1	Hubble Fade_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+16d048d46b42dee16461a6372ea49941	Hubble Fade.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+54a0b48366ae218972037b8a07783d9d	Hubble Fade.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+017af441e8f20c5d533044d267f71504	Hubble Nebula (2008).rom	atari-jaguar-yori-yoshizuki
+8365b1ed3d6e685bd5a7fa1238d99d92	Hubble Nebula 2000_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+18ad1c29ee1669d6e4c8090e77e9b22b	Hubble Nebula 2000_jiffi.cof	atari-jaguar-yori-yoshizuki
+e6dc2d82b3c40b617f0ddb692728e42b	Hubble Nebula 2000_jiffi.rom	atari-jaguar-yori-yoshizuki
+8155ff3fc9d8cd1415d3879b3a052335	Hubble Nebula 2000_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+0b9d4850703f96bc024968d66eac4b3e	Hubble Nebula 2000.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+e513367b7f724516346a8ef40a4e73af	Hubble Nebula 2000.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+9d23aa9568971bc05b9962a02c343749	HVSCMAZE.rom	atari-jaguar-yori-yoshizuki
+21a2abca6e1b8c3fd6b9ab2cc155db42	Hyper_Force_(1995).rom	atari-jaguar-yori-yoshizuki
+6790fcefcce288c8784228be538b233a	Ikky!.rom	atari-jaguar-yori-yoshizuki
+435cefda78f0f2831d945e68788547e8	IKplus_No Music.abs	atari-jaguar-yori-yoshizuki
+3cdeb3ed63dee3a4f5c313347f17ea5e	IKPlus.abs	atari-jaguar-yori-yoshizuki
+672538d810b73ed1e20fdafa17327bbf	IKplus.rom	atari-jaguar-yori-yoshizuki
+668b3e1f18784a02489d89785a3986da	ImpulseX.bin	atari-jaguar-yori-yoshizuki
+068e42d47265f406041eb11ac2ac1c42	ImpulseXLD.rom	atari-jaguar-yori-yoshizuki
+85075223132cdcbf93fd5009c732e7e1	International_Karate_Plus_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+385a67fb103f7c470c00fffc15cf5a03	intro (new) ($4000).bin	atari-jaguar-yori-yoshizuki
+8fdfcc813032b64d8acb813057347b53	Intro DEMO (2008).rom	atari-jaguar-yori-yoshizuki
+9bb60c36e2b5bb5b231beb54f99e2d02	intro_jiffi.rom	atari-jaguar-yori-yoshizuki
+24ceced823b63b92d342f4395660002e	intro.bin	atari-jaguar-yori-yoshizuki
+155b9f2f6fac6f41ba8923b0ff5a2976	InvaderOids.abs	atari-jaguar-yori-yoshizuki
+e73cdd5d0c9e9ac0deb340dcd7e99d41	Iron Soldier II v1.35 (Proto).bin	atari-jaguar-yori-yoshizuki
+f968138712b4fe72bc45f50fb4f47926	Iron Soldier II v1.45 (Proto).bin	atari-jaguar-yori-yoshizuki
+35ef8cedbfab697e380170e438858d4c	Iron_Soldier_2_(1997).rom	atari-jaguar-yori-yoshizuki
+14cca6eabdf112f98487464085974964	j_.jag	atari-jaguar-yori-yoshizuki
+add439553ebc7a3e1d6c44ea855c1b31	Jack Nicklaus Cyber Golf DEMO V.001 (1994).rom	atari-jaguar-yori-yoshizuki
+1ede6eb5f3578bd31ee70375eb85dbd5	Jack Nicklaus Cyber Golf DEMO V.004 (1994).rom	atari-jaguar-yori-yoshizuki
+b0b56bb7e9bd0d7ae3a3d910e7bec5b0	JAG ($4000).abs	atari-jaguar-yori-yoshizuki
+c96d53f9e69d5e91c8e9f6f1da651526	Jag Bal4.rom	atari-jaguar-yori-yoshizuki
+9a9f0620bf55d9957e35f2289c3ba0d3	JAG CDBOOT.rom	atari-jaguar-yori-yoshizuki
+d306ad630eb382247a6e21943d159fc1	JAG CDBOOT1.rom	atari-jaguar-yori-yoshizuki
+aa080a731e4e1d13a6e0f7def38d5798	Jag Cube (199x)(-)(PD)[$4000].bin	atari-jaguar-yori-yoshizuki
+3a6417809646faad535e25b81914d5ea	Jag Music (Der Luchs - An Ode To Masematte) (2013.11.07 15.50).cof	atari-jaguar-yori-yoshizuki
+65a639120308b30606c4519df997afe0	Jag Music (Der Luchs - My Jag wants to kill your Mama) (2013.11.09 03.28).cof	atari-jaguar-yori-yoshizuki
+0bd854901fde98ca88404deaf931aa74	Jag Music (Your Mother - Jagfest) (2013.11.23 15.22).cof	atari-jaguar-yori-yoshizuki
+c3ded2e8f22b479d0b0ebfea8182aab7	Jag Pattern (199x)(-).jag	atari-jaguar-yori-yoshizuki
+3fb36be43ab291a3d127f905372efb5f	Jag Pattern (199x)(-)(PD)[$4000].bin	atari-jaguar-yori-yoshizuki
+919918789a4dd5ccb7cb174967e2fff6	Jag_bal4_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+d91ae6f53f3888d6259cfb7910337fc5	Jag_bal4_jiffi.cof	atari-jaguar-yori-yoshizuki
+1f2ec65a3df9c79bc2c3db52dbb61463	Jag_bal4_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+c40dd8ed532a7d2c07aa3b9a4fc44ec8	Jag_bal4.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+48e6b3e2ac91b331f67e485c3f1637b0	Jag_bal4.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+e217cd396b28069781af9f66a9457a1a	jag_game.bin	atari-jaguar-yori-yoshizuki
+5005b47b3d30cefe3981aef574bc22cc	JAG2HOST (JAGOS).jag	atari-jaguar-yori-yoshizuki
+e1fffdd5671b475587709dec154efc05	JAGBLCK.abs	atari-jaguar-yori-yoshizuki
+555186607765ec5a9dcdb316d91e5d8b	JagCD DEMO.rom	atari-jaguar-yori-yoshizuki
+2a79b3a2dd91a96e7d4fbbddfa6838b5	JagCube (199x)(-)(PD).jag	atari-jaguar-yori-yoshizuki
+81a3d1806194c2cfb33ebe4f6c59c8be	jagenc2.rom	atari-jaguar-yori-yoshizuki
+399b7d92b2f0d5cdde26eb3c75814242	JagFest Demo (2001).rom	atari-jaguar-yori-yoshizuki
+1ab000a9eec5b7cd7cd3c5511b84e30a	JagFest Demo 1998_jiffi.rom	atari-jaguar-yori-yoshizuki
+801333699932e7befca263dfadd5210a	JAGLINE.abs	atari-jaguar-yori-yoshizuki
+c6e3ed2bbb4d745c6ad272ee683422dc	JagLion by Tursi (2008-04-04).cof	atari-jaguar-yori-yoshizuki
+5ae00b87e3597e57b2cd991db725281c	JagLion by Tursi (2008-07-05 update).cof	atari-jaguar-yori-yoshizuki
+25b340e94dfaa0fe5f18908a811859df	JagLion DEMO (2007).rom	atari-jaguar-yori-yoshizuki
+b666da6cd372bdf4313d4632cdf1bdbc	JAGLION_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+bd58ad29c433660fd40ef28f33dfee77	JAGLION_jiffi.cof	atari-jaguar-yori-yoshizuki
+400ffb9305f5ce8224db72f5f413e405	JAGLION_jiffi.rom	atari-jaguar-yori-yoshizuki
+863daf794d6f0fb61d4bc121052f051a	JAGLION_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+0848cb2371619b6ca2d0c82f1073f204	JAGLION.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+e437f22021f10669c913fc06df36cbf9	JAGLION.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+be683a64f11caedd24d336ba28cbf9c6	JAGMAND.abs	atari-jaguar-yori-yoshizuki
+bb46185e745fbe5e08e38d694576ed1b	JagMania (200)(-)(PD).jag	atari-jaguar-yori-yoshizuki
+d3dd0706d089d0801704188d1b0b3cff	JagMania (2001).rom	atari-jaguar-yori-yoshizuki
+9efebcc571e6924f7ca64afbea141cdc	Jagmania (2008).rom	atari-jaguar-yori-yoshizuki
+2790b212b714fdc013b27434b59bb06d	JagMania (Apr 18) (1998)_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+4ac2efd7cc61de27a4d8939ab32a3631	JagMania (Apr 18) (1998)_jiffi.rom	atari-jaguar-yori-yoshizuki
+09928fbad8a17c62fe759e72730506e9	JagMania (Aug 31)_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+9112c9567b8f13c8c98e5bb4ff4a0735	JagMania (Aug 31)_jiffi.rom	atari-jaguar-yori-yoshizuki
+481b965a7cb757c5cfed8092a2d8b461	JagMania (Jan 06)_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+d68807ddcedf5d7505171d0bf18c01be	JagMania (Jan 06)_jiffi.rom	atari-jaguar-yori-yoshizuki
+5c9c8568c727b88b1764bd65855dc381	JagMania (Jul 8) 5000_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+ec760ccbd0801daa9278125deff537ce	JagMania (Jul 8) 5000_jiffi.rom	atari-jaguar-yori-yoshizuki
+b7c4958d2e2deab48270f7fef409d061	JagMania (Sep 10)_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+e5298df8d3000525e931977fe318c31c	JagMania (Sep 10)_jiffi.rom	atari-jaguar-yori-yoshizuki
+e057c674a55493522191262cc8a48f9c	JAGMania v20040618 (19xx)(-)(PD).bin	atari-jaguar-yori-yoshizuki
+c2f688eb63a04ddd8dbb5bd2accfef9d	jagmania.bin	atari-jaguar-yori-yoshizuki
+be56cf7345fcc163810dfbf72c2b4d06	JagMarble (2008).rom	atari-jaguar-yori-yoshizuki
+41c0a9eb8910ebc87e4fbb03b8d905a4	JagMarble (Jul 13) (1997)_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+8f850d27a27fdc5aed79533c814c4b3b	JagMarble (Jul 13) (1997)_jiffi.rom	atari-jaguar-yori-yoshizuki
+36236fd14a7b95541c5d9c56b704b35c	JagMarble 5000_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+469936e5b097b7aefeb5022c7c68fcf5	JagMarble 5000_jiffi.rom	atari-jaguar-yori-yoshizuki
+7a2894982eac491d2b4df7b1471b69cc	jagMars.cof	atari-jaguar-yori-yoshizuki
+1a31107343f0d802021736a15bd4d87a	jagmatch.bin	atari-jaguar-yori-yoshizuki
+c89505ff700360e0ca9e4dccc8922ffd	jagmatch.cof	atari-jaguar-yori-yoshizuki
+db3e4c0fed52edda20df5ac1fa8c2033	JagOS 2000 (2000)(Favard Laurent)(PD).jag	atari-jaguar-yori-yoshizuki
+d5d2c6eeda651ee401093a59a355cab5	JagReplay v1.0a (1994-95)(Phoby Creative)(PD).jag	atari-jaguar-yori-yoshizuki
+1d6d505eee1a223ed5bc966d89e1560e	JagRotate DEMO (2007).rom	atari-jaguar-yori-yoshizuki
+9a0743cb3347e49b9c41360dcf74308f	JagRotate_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+a077ffa1f4644b677c17b63a01d25882	JagRotate_jiffi.cof	atari-jaguar-yori-yoshizuki
+d6879f8de03a9e404d5dc3407067bd73	JagRotate_jiffi.rom	atari-jaguar-yori-yoshizuki
+e0d1d8c94b36ad4b4b8ec33bc9faff8f	JagRotate_load_100000_run_100000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+b0b9da81b4829d4ba2665b0308923589	JagRotate.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+8a69bcb41559721fed1e2bca0018918a	JagRotate.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+f6a9de66671ea4244c19e93e3c795c88	JagRotate0.1.cof	atari-jaguar-yori-yoshizuki
+8b990ea19dbaf27e070d490f2aa7a3c0	JAGSHAD.abs	atari-jaguar-yori-yoshizuki
+6f20934a626eea66dd6b56819713bf63	JAGSKEW.abs	atari-jaguar-yori-yoshizuki
+0ab0b8aba55739a7ee22dc15e9140f2e	JAGSLNT.abs	atari-jaguar-yori-yoshizuki
+6e446e80b9c651b4bc56ef9665b973de	jagtest.abs	atari-jaguar-yori-yoshizuki
+7784f715c87b606c7558125bd631054f	JagTOS (2008).rom	atari-jaguar-yori-yoshizuki
+8c54775dba3a3f6862b9c2c57bb62dbb	jaguar doom (doom) (2003.11.04 12.50) (DOOM).abs	atari-jaguar-yori-yoshizuki
+a0a636e7092bbed8c51d25e30e88bdd4	Jaguar Hockey Legends 2013 final.rom	atari-jaguar-yori-yoshizuki
+2d8309dfe16fdfc14624b08be8f2254c	Jaguar Intro (2008).rom	atari-jaguar-yori-yoshizuki
+d86530f2d5162aae11e5b39e4aada1d1	Jaguar MemoryDump v1.1 (19xx)(Matthias Domin)(PD).abs	atari-jaguar-yori-yoshizuki
+5d086604a7dd1f112b5ea18cf4ea76b7	Jaguar Server (Program Examples) - 27OBJ_jiffi.rom	atari-jaguar-yori-yoshizuki
+52a07cf6c07e729d3f6efa5a0f34ff6b	Jaguar Server (Program Examples) - 50HZ_jiffi.rom	atari-jaguar-yori-yoshizuki
+643c51646b3aa0bae11cbfc156cb2e80	Jaguar Server (Program Examples) - 60HZ_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+792304b9b202e6f6c667795d5e0cea4e	Jaguar Server (Program Examples) - 60HZ_jiffi.rom	atari-jaguar-yori-yoshizuki
+78f733f7e6600301ee082c3a02e9f981	Jaguar Server (Program Examples) - INTRO_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+78fa5b12fadd9059746ec08d42d8e513	Jaguar Server (Program Examples) - INTRO_jiffi.rom	atari-jaguar-yori-yoshizuki
+03a672d1ec3969554f24d5096912b080	Jaguar Server (Program Examples) - INTROMOD_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+dd539d6bec374448b56177f363367c11	Jaguar Server (Program Examples) - INTROMOD_jiffi.rom	atari-jaguar-yori-yoshizuki
+23113b135f25c8c1869b391e901fd91f	Jaguar Server (Program Examples) - SCALE_jiffi.rom	atari-jaguar-yori-yoshizuki
+a15dd37cd8cf8f21239e28755135c032	Jaguar Server (Program Examples) - SCALE3_jiffi.rom	atari-jaguar-yori-yoshizuki
+ec3431ac622f094f2c44483937c35e31	Jaguar Server 1.08 UPDATE - JAGOS_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+4402449db8fed7480c492b6570165a3c	Jaguar Server 1.08 UPDATE - JAGOS_jiffi.rom	atari-jaguar-yori-yoshizuki
+2df6767629304404bf7df4136784b5c5	Jaguar Server 1.08 UPDATE - JAGOS_load_500_run_500_jiffi.bjl	atari-jaguar-yori-yoshizuki
+0047d012f91d4e0d78202c955d060948	Jaguar Server 1.08 UPDATE - KEYB_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+2632b2e7419c28070bd7b7f7a60f92c4	Jaguar Server 1.08 UPDATE - KEYB_jiffi.rom	atari-jaguar-yori-yoshizuki
+211793ac62dd3d036e39defa68cdc042	Jaguar Tetris (1995).rom	atari-jaguar-yori-yoshizuki
+cb1ee78850957116f7dbd298e80bd53f	Jaguar Tetris_jiffi [COF].cof	atari-jaguar-yori-yoshizuki
+0e6acf04e645f1e7cc9c16e34571744a	Jaguar Tetris_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+6e6906448c3c4b0400523b55fc4e3f15	Jaguar Tetris_jiffi.rom	atari-jaguar-yori-yoshizuki
+8eb7522d723e44bae03b8dc6df4b941b	Jaguar Tetris.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+6e3f09cd8f9bf490e0b85285e85e6a4e	Jaguar Tetris.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+ff74b0ff06b81a2847e84c98b7b5208d	Jaguar UART bug workaround 1.00 2007 by Zerosquare.bin	atari-jaguar-yori-yoshizuki
+082186c7e9b5315582e31bc7d4335df4	Jaguar UART bug workaround 1.01 2007 by Zerosquare.bin	atari-jaguar-yori-yoshizuki
+6e844759720226e58d55ecaf33608a13	jaguarbootromsM.bin	atari-jaguar-yori-yoshizuki
+2b3b6ec6e31593aac568107dace8c73c	JAGWORM ($4000).bin	atari-jaguar-yori-yoshizuki
+243ea77ea868136c711a81232bf49b4b	JagWorm (2008).rom	atari-jaguar-yori-yoshizuki
+4894efca020c6667d5abd27d923c3b2d	JagWorm WIP.cof	atari-jaguar-yori-yoshizuki
+74d9a8c8d47be2be01ed0f919a3c6649	JAGWORM_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+029ddc203fd7f4d899f94c96bb0134f2	JAGWORM_jiffi.rom	atari-jaguar-yori-yoshizuki
+3b6325e840f62d95044a32bb7d4bf99a	jagzombies_v0_ABS.abs	atari-jaguar-yori-yoshizuki
+2b2a90ea5c14405f08710e4eeb6ccd73	jagzombies_v0_ROM.rom	atari-jaguar-yori-yoshizuki
+65ce4f0c675a1a11cc3cc6f0792c95ef	jagzombies_v1.abs	atari-jaguar-yori-yoshizuki
+03b63405a69cf15c102bf9057c4fa5e3	jagzombies_v2.abs	atari-jaguar-yori-yoshizuki
+f25d58f2c011da1341a02f73471bc61e	Janalog (2003)(Matthias Domin).abs	atari-jaguar-yori-yoshizuki
+94c53c0f87e733593eaa80dd7d8fb8c6	Janalog v0.2 (2008).rom	atari-jaguar-yori-yoshizuki
+92576c277b146d9ebbb20228792e38c5	JASS.abs	atari-jaguar-yori-yoshizuki
+c412f3a413c86fcdefeb9532dbf4d483	JAZ TEMPEST.abs	atari-jaguar-yori-yoshizuki
+b269938be0134ff6f73e1b0d7bd4d524	JAZ.abs	atari-jaguar-yori-yoshizuki
+15b2c94939691d667a88867fb35ffe34	JAZSYN.cof	atari-jaguar-yori-yoshizuki
+96689f90070f215b13bdf2d6768689ce	JC_demo2005_jiffi [cof].cof	atari-jaguar-yori-yoshizuki
+285406e8da3b037beedd99c96a9d2f4c	JC_demo2005_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+09d7d71ac3491cfee82958183648003a	JC_demo2005_jiffi.rom	atari-jaguar-yori-yoshizuki
+e5e08942986f66be864d0525ecb8138a	JC_demo2005.abs	atari-jaguar-yori-yoshizuki
+411fe7dd181a773661a222ac287d04a6	JC_demo2005.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+6e80873b34c87c74264a644c47049d94	JC_demo2005.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+66a49b39318b5de03f3499bd1fad27fd	JDB.cof	atari-jaguar-yori-yoshizuki
+32b0727097dac6fa0b7cf9880d215920	JDC DEMO v1 (2000).rom	atari-jaguar-yori-yoshizuki
+1ec77e386b9e19fbe4f29550e29af818	JDC Demo V1_jiffi [cof].cof	atari-jaguar-yori-yoshizuki
+3fc8db8cbdbbf89da6b3d6fa77b3c418	JDC Demo V1_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+52e431775526d8999695d11921595b90	JDC Demo V1_jiffi.rom	atari-jaguar-yori-yoshizuki
+cbb323dfc6b4865069d754eb5465ab90	JDC Demo V1_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+cb99f3693a3defcee9831450c82a7b78	JDC Demo V1.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+7aea75d3e9c31157c5d3ec2133302cd1	JDC Demo V1.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+af0c15a3a5b2b75d161f3d5e4947f3de	JDC DEMO v2 (2000).rom	atari-jaguar-yori-yoshizuki
+307c7077aedd420137c41127b5b6f880	JDC Demo V2_jiffi [cof].cof	atari-jaguar-yori-yoshizuki
+2445169c3c738cd3bc1e64f14d6fb6e9	JDC Demo V2_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+ad80246b5b79bee8fc5bc63c887ea16c	JDC Demo V2_jiffi.rom	atari-jaguar-yori-yoshizuki
+92370e240f248231ed7c8ad95916cc2b	JDC Demo V2_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+b329f422281a0b088f1bd002879e952e	JDC Demo V2.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+12a7cf093763170328e7fe697900d25c	JDC Demo V2.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+3e8b3d46e311a8bcb940eaba70f4560a	JDC DEMO v3  (2000).rom	atari-jaguar-yori-yoshizuki
+2373f05fb2415f2e46577e19200a557e	JDC Demo V3 - E-JagFest Demo_jiffi [COF].cof	atari-jaguar-yori-yoshizuki
+d23c7438f397c659fd5a7ba69be6109f	JDC Demo V3 - E-JagFest Demo_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+f52a13452e2de98b58a334f891669759	JDC Demo V3 - E-JagFest Demo_jiffi.rom	atari-jaguar-yori-yoshizuki
+0954e51ef13cb81728d33d8ead142133	JDC Demo V3 - E-JagFest Demo_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+6a438ebde69956f33833307e31b9b30a	JDC Demo V3 - E-JagFest Demo.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+b995a8c376850688e3ae9e2fc3350f8f	JDC Demo V3 - E-JagFest Demo.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+da49bcaa8a325f44ecc8f5b6aea31997	JDC Example by Lars Hannig (2008).rom	atari-jaguar-yori-yoshizuki
+3335a3dc135e982facb7d5fdc626bf38	JDC Example_jiffi [cof].cof	atari-jaguar-yori-yoshizuki
+35a912369492bb6eaae48df516e7d4f8	JDC Example_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+d227c5a3d0c0330ceb22c89afabe15b4	JDC Example_jiffi.rom	atari-jaguar-yori-yoshizuki
+2dc03a4fd54dffb4e972a29156201edc	JDC Example_load_802000_run_802000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+b772a5448b1c8b08017d7b812ed1a0ec	JDC Example.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+a1e4cf64787e7309fe98777405f940c6	JDC Example.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+5f093c05f45499575ab391d52a6cf9a8	JeffMinterDemos20071117 robots by Matthias Domin.bin	atari-jaguar-yori-yoshizuki
+3c4b91cd2bdfbfd634a8101d7484e882	JeffMinterDemos20071117 yakbig by Matthias Domin.bin	atari-jaguar-yori-yoshizuki
+3eb9c402e5cb64082707664963e2bd27	Jerry Wave Table ROM.bin	atari-jaguar-yori-yoshizuki
+4145b6aa05e0abfcc7e5a0645eba8bd2	jerry_timer.bin	atari-jaguar-yori-yoshizuki
+680b21a3ed2129a721204b0a5860d3f1	Jetfix_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+07dbd023a071456b34301912c9757c9c	Jetpac ($10000).cof	atari-jaguar-yori-yoshizuki
+d4c92ef695dc32c71aa73837a6d90a06	Jetpac fix ($10000).cof	atari-jaguar-yori-yoshizuki
+72520fc513f57edd0d5c37d2f1dc70fa	Jetpac fix.rom	atari-jaguar-yori-yoshizuki
+f59121ed3a163747f5ceea0fcf028da3	jhl15.rom	atari-jaguar-yori-yoshizuki
+821650fb095dd4a6d0871fc39ceffa82	JMP (JAGOS).jag	atari-jaguar-yori-yoshizuki
+614716bfc8b28fb207bb28e9b2e0b276	Joust!_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+57a1a94c3fc0799ef74f05c7fddd26bc	Joust.abs	atari-jaguar-yori-yoshizuki
+73c376f12fd337e365a11768744d271d	Joust.rom	atari-jaguar-yori-yoshizuki
+75d61f5ea6fa6df842c169f74b0b1c6e	Joust1.2.abs	atari-jaguar-yori-yoshizuki
+f9aafe005a333b09953c1dc7565231f9	Joust1.3.abs	atari-jaguar-yori-yoshizuki
+142a4a485c3a7da0d058e87fc24dd6ed	Joust1.5.abs	atari-jaguar-yori-yoshizuki
+d49b157f7b4a04e67cd685054b90790b	Joust2.0.rom	atari-jaguar-yori-yoshizuki
+9d7f442a9a3a6c2e930a6f4a922fd4a6	JOYPAD (JAGOS).jag	atari-jaguar-yori-yoshizuki
+14f55c742cb5b55be8bd4b00f735d951	Joypad-TeamTap Test Program (2008).rom	atari-jaguar-yori-yoshizuki
+d3d5e09c81a943c41cd214a2b1fc47f5	Joypad-TeamTap Tester v2_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+e699603431cfc53b0eaeb487dda843ff	Joypad-TeamTap Tester v2_jiffi.rom	atari-jaguar-yori-yoshizuki
+2eae8a7dc5e2ef1238389b13464b8b87	Joypad-TeamTap Tester_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+d10537f4a5b56f759197ae6af3e194fe	Joypad-TeamTap Tester_jiffi.rom	atari-jaguar-yori-yoshizuki
+b141491edb09be6d6f70d78395f4df18	JOYPADDEMO.abs	atari-jaguar-yori-yoshizuki
+fdc6fb66b4902e2d4e65a3334da4bb21	JSSDemo (Jaguar Sound System) V1.0b (08.11.2002) 4000_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+fac315b142f01a652865b5123d1ed9cb	JSSDemo (Jaguar Sound System) V1.0b (08.11.2002) 4000_jiffi.cof	atari-jaguar-yori-yoshizuki
+d411de376d0b5ab3df4fcd4666692dd1	JSSDemo (Jaguar Sound System) V1.0b (08.11.2002) 4000_jiffi.rom	atari-jaguar-yori-yoshizuki
+9478286cdb7a70ce084abc31b615b42a	JSSDemo (Jaguar Sound System) V1.0b (08.11.2002) 4000_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+2d623b62f52adff7d165ddc78d2e8326	JSSDemo (Jaguar Sound System) V1.0b (08.11.2002) 4000.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+2a20aab3bfb96e03592878dd4696e278	JSSDemo (Jaguar Sound System) V1.0b (08.11.2002) 4000.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+47e2c25239fc58ed91cd6c8a9a4ba628	JSSDemoII (Jaguar Sound System) V1.0b (10.11.2002) 4000_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+499a6f2b1377be7e37ef87e3feb21754	JSSDemoII (Jaguar Sound System) V1.0b (10.11.2002) 4000_jiffi.cof	atari-jaguar-yori-yoshizuki
+2cd82a607604e56bc035cd68dbd6ea36	JSSDemoII (Jaguar Sound System) V1.0b (10.11.2002) 4000_jiffi.rom	atari-jaguar-yori-yoshizuki
+4d284c3a4dc6664f62134b6f1343cf54	JSSDemoII (Jaguar Sound System) V1.0b (10.11.2002) 4000_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+291ab28c48d2bde1cd32bac9f2682357	JSSDemoII (Jaguar Sound System) V1.0b (10.11.2002) 4000.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+78f39ee0a1e790a1fb357f7393129625	JSSDemoII (Jaguar Sound System) V1.0b (10.11.2002) 4000.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+19176a8144cbb645036cf2a4ff4ca662	JSSDemoII V1.0b (2002).rom	atari-jaguar-yori-yoshizuki
+10d5734139bb1158a4405eaead761f04	Jungle Jag (2007).rom	atari-jaguar-yori-yoshizuki
+4b4f3cb075d880cc51a75428b76aa70e	JUNGLE JAG 2007 Orion_ (final Release).bin	atari-jaguar-yori-yoshizuki
+cf7b323ec357656c5890eef3727dc6a1	JUNGLJAG_jiffi [cof].cof	atari-jaguar-yori-yoshizuki
+545d1f01a20f05c79c7d78d90ca1000d	JUNGLJAG_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+f961164319641e95cfefa4610dcb812d	JUNGLJAG_jiffi.rom	atari-jaguar-yori-yoshizuki
+c7c32730e18a712a1a9ebcd4cc75b147	KAAircar.rom	atari-jaguar-yori-yoshizuki
+2f732e680e149bcc9f0a7ca464d97059	Kaboom_wip1.abs	atari-jaguar-yori-yoshizuki
+27b0a395906094ef201c2a085ea56806	Kaboom_wip2.abs	atari-jaguar-yori-yoshizuki
+25650b5bcc1cf4927d1da6bf177f2244	Kaboom_wip3.abs	atari-jaguar-yori-yoshizuki
+b1007dcb061db5c3508bbe579acb2630	Kaboom_wip4.abs	atari-jaguar-yori-yoshizuki
+510270a354a6489e10c2b300893ca506	Kaboom.abs	atari-jaguar-yori-yoshizuki
+a9e47ea81cd6dbe30094e8e09ba0be8d	Kaboom20160223.abs	atari-jaguar-yori-yoshizuki
+c8296bdc47573153ae14a83ff565abd9	kasumi ninja kts.rom	atari-jaguar-yori-yoshizuki
+95447925e8211a74bc44bec3baabda59	KasumiNinjav043(g802000).bjl	atari-jaguar-yori-yoshizuki
+bf439e16e6681bf7952d07b2aae7e50f	Klax_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+861bf273fed44ac07e9cae16c4c004d4	Klax.abs	atari-jaguar-yori-yoshizuki
+3f9f15076b787374cc0d2c5887c6e757	Klax1.0.abs	atari-jaguar-yori-yoshizuki
+67588063044119ce74f270636d4716aa	Klax1.1.abs	atari-jaguar-yori-yoshizuki
+7e34dd650907a5b1cac7b76164ccafd7	km (load-run 4000).bjl	atari-jaguar-yori-yoshizuki
+c1a57b2bb635a13e0694f5c24245f3f7	km_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+9c43a83d646026a7f9fea35f1706bcdd	km.rom	atari-jaguar-yori-yoshizuki
+9956cbbe917bf539f972148ec672d573	kmf-rls_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+2e66d6d2975fe71058476d0fb1f57d18	kmf-rls.abs	atari-jaguar-yori-yoshizuki
+1a322529c132439103872d280ff88df3	Ladybug demo 1_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+ca456d88c5bec33b11f62fa9803d0404	Ladybug demo 1_jiffi.rom	atari-jaguar-yori-yoshizuki
+570a63992fa947d6bc62d31e3d951997	Ladybug demo 1B_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+caf92decef21cff46194bd3d94006209	Ladybug demo 1B_jiffi.rom	atari-jaguar-yori-yoshizuki
+81ff70bbf7de391a497b6d0266d72c89	Ladybug demo 1C_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+4b9a29d2672c9af4c27706521d49bead	Ladybug demo 1C_jiffi.rom	atari-jaguar-yori-yoshizuki
+bfe1be03f8d363ae115f360e897aaa75	Ladybug Demo_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+aad4afbd1e8eefee43514d2ac7f5d77e	Ladybug Demo_jiffi.rom	atari-jaguar-yori-yoshizuki
+b5dbf6ab47e723241fd7f0d40af6218c	Legion Force Jidai Intro Demo 0!_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+1ef13909e88d8cddcc3ae267c87ad161	Legion Force Jidai Intro Demo 0!_jiffi.cof	atari-jaguar-yori-yoshizuki
+7f63aaced5bfcd4a1d7a4814564964ab	Legion Force Jidai Intro Demo 0!_jiffi.rom	atari-jaguar-yori-yoshizuki
+8d63fbf54685fe6bd0b7763bf76dafae	Legion Force Jidai Intro Demo 0!_load_5000_run_5000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+03a4a3b6a392a176a8814b558172c217	Legion Force Jidai Intro Demo 0!.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+ac983691f9f8f734fd4be9672cf79cc7	Legion Force Jidai Intro Demo 0!.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+47915c923ddf418e00b6e6ba933808ea	LEONARDTEST.abs	atari-jaguar-yori-yoshizuki
+d62b8001b3e581ff3ccbd394ac26c2d4	LEONARDTEST1.abs	atari-jaguar-yori-yoshizuki
+0755ff96203d801ddd6d7e7c3f2d0890	lightguntest.jag	atari-jaguar-yori-yoshizuki
+df03bf6c0010069c00c576f4d3923764	LINEPSPC.abs	atari-jaguar-yori-yoshizuki
+0d6e57272a7d0fc71d4953de37dd4f97	lines.bin	atari-jaguar-yori-yoshizuki
+8102ec0aa734f1664e4925e5acddab4f	Little Intro made by Orion_ 2006 ($4000).bin	atari-jaguar-yori-yoshizuki
+0e0cf6cca7333f69dd36c35fa0488dcf	LLAMA.bin	atari-jaguar-yori-yoshizuki
+39b01bc6011f239869e796b0772c3678	Llamatron_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+d8a1c5d088bf7a5b8fe0caefa7cb6658	Llamatron.abs	atari-jaguar-yori-yoshizuki
+c81779c7e32120510668715c96f3b983	Llamatron0.1.abs	atari-jaguar-yori-yoshizuki
+5f8424b4bd91fa8919649365e3416e9c	Llamatron0.2.abs	atari-jaguar-yori-yoshizuki
+39ae00a9a33486802e6222cf1fba88ac	Llamatron0.3.abs	atari-jaguar-yori-yoshizuki
+37001490a69608e4035ddc7e80b9bda3	Llamatron0.4.abs	atari-jaguar-yori-yoshizuki
+3b6aa6b1e664b2b785266cf74d40cd0b	Llamatron0.5.abs	atari-jaguar-yori-yoshizuki
+0a2ffc9d5e196b62cbc32c983ca3a7d9	Mad_Bodies_(2008).rom	atari-jaguar-yori-yoshizuki
+9b60db3cb8811158ea4cb4ed8016e5d1	Mandel_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+5b7d90ca84f064328c4c74db7c77f275	Mandel_jiffi.cof	atari-jaguar-yori-yoshizuki
+20987939c0dfe8273abde3af5dc6262e	Mandel_jiffi.rom	atari-jaguar-yori-yoshizuki
+0347b2e3431666836322856f141e4c67	Mandel_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+0f64a30f66dea351a15df1a72bcddbd0	Mandel.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+9d2f2a06c53b1a5160f9cfef04fabad9	Mandel.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+ea696d1823426935528d064ffec2d07e	Mandelbrot Demo (2008).rom	atari-jaguar-yori-yoshizuki
+1d04693c564df14d00fd9d5ce1acc9b3	Mandelbrot Demo_jiffi [cof].cof	atari-jaguar-yori-yoshizuki
+33c1a0547770d14f11b901689a37455c	Mandelbrot Demo_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+1d659bd5d7a0463ab233e81693d8e2a7	Mandelbrot Demo_jiffi.rom	atari-jaguar-yori-yoshizuki
+b818ee3a25e8a8778f259daecc1d82d2	Mandelbrot Demo_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+9f7b9dda410a0870a1025266258d7b63	Mandelbrot Demo.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+67039d23f840256e256f532e9a65886a	Mandelbrot Demo.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+255ea6deadf15b3f0623fd9ef85eb4d5	MANDYFLY.abs	atari-jaguar-yori-yoshizuki
+308363dadc16e0f203fcaddf895da5d8	MARS (Symmetry of TNG 2003).prg	atari-jaguar-yori-yoshizuki
+41b5ad332d96ac650d6306cddae88f7c	MARS_jiffi.rom	atari-jaguar-yori-yoshizuki
+8308f3116e248585a57aff325d060495	MARS192 (Symmetry of TNG 2003).prg	atari-jaguar-yori-yoshizuki
+db661a928b9d0ddd4825762ae52fb7e5	MARS192_jiffi.rom	atari-jaguar-yori-yoshizuki
+04db5bb407c31b91f55024f6dcbecaaf	Martian Attack (2007).rom	atari-jaguar-yori-yoshizuki
+ef141e84e7023d44293a3716e14cc9c6	Martian Attack 0.1 2007 Tursi.bin	atari-jaguar-yori-yoshizuki
+589bcfe2e36409ed5722815d82b71305	Martian Attack 0.1 2007 Tursi.cof	atari-jaguar-yori-yoshizuki
+f36710374855144ea99397f88611829f	Martian_Attack final release  2007 Tursi.bin	atari-jaguar-yori-yoshizuki
+b4b039348c5ad83761824865e4419ff8	Martian_Attack final release  2007 Tursi.cof	atari-jaguar-yori-yoshizuki
+aebdccdd68c0a0e125c3868cda08d7a6	MemDump v1.1 (2008).rom	atari-jaguar-yori-yoshizuki
+f56e50ba29d85be2eabf89197ebf6ca2	Memory Dump_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+d734ff33be4e55baf21517b874fa58ac	Memory Dump_jiffi.rom	atari-jaguar-yori-yoshizuki
+9d6e7c120a07cc83127fed86a37a388b	memory track.jag	atari-jaguar-yori-yoshizuki
+f9f53dbc82cc52af544e9c461209ce25	Mercenary_(No_Enter)_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+b4cad743428b17535f1191ffc6d24de4	Mercenary_incomplete.abs	atari-jaguar-yori-yoshizuki
+8cc58827b33eee76edc2e5d6ed9561b3	Metro_Cross_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+250e8707d62610cb1184521efdd51f6b	MetroCross.abs	atari-jaguar-yori-yoshizuki
+416d30c15f999bcc4929d6b38907aae3	MetroCross0.5.abs	atari-jaguar-yori-yoshizuki
+f2c24ce87ff4ebdb1f346c3652775aa5	MetroCross0.9.abs	atari-jaguar-yori-yoshizuki
+9a5d8111511b60329ae1df88acfd6530	MidnightResistance-Skunk.rom	atari-jaguar-yori-yoshizuki
+e68323a68965fd149aab33c8fe246e2b	MinDebug 2008-11-20 by Zerosquare.jag	atari-jaguar-yori-yoshizuki
+2f7b0f7f929ce4d999555f43c5a5da52	Missile Command VR [not 3D].rom	atari-jaguar-yori-yoshizuki
+72b89e485f51f2038f91d5cb499f5d80	Missile_Command_VR_(1995).rom	atari-jaguar-yori-yoshizuki
+52c177e9cb0bf819017430f60396c6b5	Moon_Patrol_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+a72ee1f5557fad893fbbcd6223271919	MoonPatrol.abs	atari-jaguar-yori-yoshizuki
+3033be8623595354a6a20d7a17b777ed	MOU_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+1757e59dc2e94f23e7fbca162bf6c1c3	MOU_jiffi.cof	atari-jaguar-yori-yoshizuki
+a82fe91be0817acfcbfbc2cd6194f2a6	MOU_jiffi.rom	atari-jaguar-yori-yoshizuki
+2f25d4f2752f8e7ef96746baf8c25638	MOU_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+f2f5334926dffb49019a699e78fa0768	MOU.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+a28aa712d24d1d899d8ae407ef33f7e0	MOU.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+24f407c220b88c098d7c6d1a4176b44e	MOUSEDRIVERMICKEY.abs	atari-jaguar-yori-yoshizuki
+89bb22a71bd327e7a561e87dfc330819	MOUSEDRIVERMINNIE.abs	atari-jaguar-yori-yoshizuki
+ec32511d47adf9e16decf2e06a725eeb	MOVE.cof	atari-jaguar-yori-yoshizuki
+35e4d81a9492fc94d47d091864876bcb	MPATROLv3.abs	atari-jaguar-yori-yoshizuki
+e24dbf79e7007ed01ee3e75bee5546c6	Music DEMO (2002).rom	atari-jaguar-yori-yoshizuki
+c237dd080d0ea2aaa2023ba0c6c5c6e1	MUSICDRIVERTEST.abs	atari-jaguar-yori-yoshizuki
+b3e9699f5189b83f97c86ec0f997d9ea	My Fire.rom	atari-jaguar-yori-yoshizuki
+156acf64ba846a975abd0b2bdeb8f90b	My_fire_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+cd66d3fcc39771e6cbaadf1fd52c1035	My_fire_jiffi.cof	atari-jaguar-yori-yoshizuki
+f8ea164957840fb90f0e84581b88262c	My_fire_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+80c1c8004419d4036ca27eadb9d6f2e7	My_fire.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+8b25a8cf857ac5f86b20332de1a0229e	My_fire.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+dad754e459dc68bfd826268d5bfddb83	Native (Demo).cof	atari-jaguar-yori-yoshizuki
+39beed5413322f1487bafd4feb24aa49	Native DEMO (2008).rom	atari-jaguar-yori-yoshizuki
+468dbfc144072a9d4942930a082c47ad	Ninja_Mission_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+c7792553ededcdde1742194d0b3e8c0f	NINJAMISSION.abs	atari-jaguar-yori-yoshizuki
+2dda081ad99e8586124d90e7b0e89946	NotOutrun_040216.abs	atari-jaguar-yori-yoshizuki
+ea01ddb1ba14f24a47c03bc4962107df	NotOutrun_241215.abs	atari-jaguar-yori-yoshizuki
+a6b9641d0f80aa82d3b44cd68240301a	notoutrun_311215.abs	atari-jaguar-yori-yoshizuki
+d5e2fb15fc01e71c12d249e18c9176aa	NTESTPLAY.abs	atari-jaguar-yori-yoshizuki
+d9e9ce2adc61f9a470c50fee6ab0dd59	NUNS.abs	atari-jaguar-yori-yoshizuki
+77afb819ca4e85c13ff106025d3d4811	NVMSIM.jag	atari-jaguar-yori-yoshizuki
+420b5f542c22827f411c70db8395430e	NYANJAG_MONO [a].bin	atari-jaguar-yori-yoshizuki
+797217c77749c37e6ee6da651869a0e7	nyanjag_mono_jiffi [cof].cof	atari-jaguar-yori-yoshizuki
+b42495127c66bbb445dcd536ca92483c	nyanjag_mono_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+bb829abebec614134d88d2f5f351ad81	nyanjag_mono_jiffi.rom	atari-jaguar-yori-yoshizuki
+2ad29bef7a36b34dc34e0abc1df8f3b0	NYANJAG_MONO.bin	atari-jaguar-yori-yoshizuki
+5f1d4d53f801c02f504483feba346573	NYANJAG_STEREO [a].bin	atari-jaguar-yori-yoshizuki
+b19fc879b87306f6a6615e19959de9ec	NYANJAG_STEREO_JIFFI [a].rom	atari-jaguar-yori-yoshizuki
+f5568b661de508acf7bcde9c024e1556	nyanjag_stereo_jiffi [cof].cof	atari-jaguar-yori-yoshizuki
+68edad3c5c1ccc2e5cb38bc52ef1d88f	nyanjag_stereo_jiffi_.rom	atari-jaguar-yori-yoshizuki
+0d65e169bacf799e896a83d2e168e06d	nyanjag_stereo_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+2dcb13f904b13ab97e4540d7e7b99757	NYANJAG_STEREO_JIFFI.rom	atari-jaguar-yori-yoshizuki
+ea5845252d3aea826a03b6ad9006929e	NYANJAG_STEREO.bin	atari-jaguar-yori-yoshizuki
+6661588b41b986d7ba604e366d573fad	OBJ0TEST.abs	atari-jaguar-yori-yoshizuki
+267ddbcb0d6027e5d4d97dea2159dbfc	OBJTEST.abs	atari-jaguar-yori-yoshizuki
+1abcc99e0a7ccfb9013e5631b48e3318	ojc.rom	atari-jaguar-yori-yoshizuki
+3b6c7f81db82d2e727a119ba153a90ae	ONEAXIS.cof	atari-jaguar-yori-yoshizuki
+985bd1236c3c416381240fb537e86536	OSMOZYS (2007).rom	atari-jaguar-yori-yoshizuki
+e2eb1d384e098a767bf3398063751780	OSMOZYS by Orion_ [2008].bin	atari-jaguar-yori-yoshizuki
+b133d33536cdb0915d7c47754d39465a	OSMOZYS_jiffi.rom	atari-jaguar-yori-yoshizuki
+7260f173bb0d7651442d14ba68315376	OTEST.abs	atari-jaguar-yori-yoshizuki
+64a31978c2aa9e1803f3ef8c97561bca	Outrun_(Not_Playable)_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+5742b38e92eeedf67cec9aa0f34b13b6	Outrun_incomplete.abs	atari-jaguar-yori-yoshizuki
+130edf7a78b4b86c464dd2c3cff03083	Overlay_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+dd4f889f8754e31747d605e1cf49126f	Overlay_jiffi.cof	atari-jaguar-yori-yoshizuki
+ffc472857278d72e27a3398809141fe8	Overlay_jiffi.rom	atari-jaguar-yori-yoshizuki
+06dc01e2390728f7710658be19a9d9a8	Overlay_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+6dbcefe8f3edac12a6ccceb7e60583e1	Overlay.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+b58b8b4e791599c187e10051fde83f6c	Overlay.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+9d429f98cfe897bf0f023b0c96f88b49	P2_V1.abs	atari-jaguar-yori-yoshizuki
+e123c7493900712809f94a648784d079	P2_V2.abs	atari-jaguar-yori-yoshizuki
+3887c0abc4a45144760e66fb2e7b21dd	Painter (1996).rom	atari-jaguar-yori-yoshizuki
+e896ccfe02092775ca01a2f7c6e1d7f7	Painter_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+b24a763dba8d9a73b47c8206cef45c1d	Painter_jiffi.cof	atari-jaguar-yori-yoshizuki
+b9e36f71b5f0f262d36c611705654942	Painter_jiffi.rom	atari-jaguar-yori-yoshizuki
+5e297541518a6361734bca0000b75701	Painter_load_FFE4_run_10000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+b91be0cd46b99fabcf6e77fe1d064850	Painter.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+8090d86af096fb3c2c810435c8ef5ddf	Painter.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+d10ef5305bc68d9aa456fddd1377e777	panda_racer_v01.bas.rom	atari-jaguar-yori-yoshizuki
+8c75ba0ca510a9feab31e3fb1b63df23	panda_racer_v02.bas.rom	atari-jaguar-yori-yoshizuki
+8a7f974ef7c33f421d7d4fc8a3fd9cfe	panda_racer.bas.rom	atari-jaguar-yori-yoshizuki
+0902828ba8931ed335f0f08be95c3fda	particles [a].abs	atari-jaguar-yori-yoshizuki
+6dd185ec2a83fdad991abe243125a952	particles.abs	atari-jaguar-yori-yoshizuki
+05613963392349f56067b312faa40e76	PATRICK.bin	atari-jaguar-yori-yoshizuki
+302e32b7a372ad575a6e3b12180dbcca	PATTERNS.abs	atari-jaguar-yori-yoshizuki
+9cf2fa07095e9e65ae5e007e3a38b69d	PAULA Preview DEMO (2009).rom	atari-jaguar-yori-yoshizuki
+6743fb1b6b34724b60c40e2f0ddf47f3	PAULA Preview DEMO 2 (2009).rom	atari-jaguar-yori-yoshizuki
+56e33fd2f1b23f0fee81195ce3a653f1	PAULA Preview Demo 2_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+20a2486a98d247aa9fdbc79c1a12fe9d	PAULA Preview Demo 2_jiffi.cof	atari-jaguar-yori-yoshizuki
+161f7b27c8198acadddcc25b94b90918	PAULA Preview Demo 2_jiffi.rom	atari-jaguar-yori-yoshizuki
+a8bb71206a9491f5d168a43b557b587c	PAULA Preview Demo 2_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+9c43e0bdf3be5e617b7f5c2519b58acb	PAULA Preview Demo 2.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+493e639e20c896aa04bc34e4fd6ff27a	PAULA Preview Demo 2.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+cf94e327b57afae5869a7083a8dc34f7	PAULA Preview Demo_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+0ac1881db945f1dda653e7ef6fad5e64	PAULA Preview Demo_jiffi.cof	atari-jaguar-yori-yoshizuki
+9b75b5099a19c64d6b065135a2705624	PAULA Preview Demo_jiffi.rom	atari-jaguar-yori-yoshizuki
+36f44db5594385424f2ff3922f5fbdea	PAULA Preview Demo_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+3f01092ec271a01722afe7a0e57a0570	PAULA Preview Demo.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+6aac3122b4911ce254a82c73670757bc	PAULA Preview Demo.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+f9a5322627c362053e638da32cb738ef	PAULATEST.abs	atari-jaguar-yori-yoshizuki
+368f386096dc663526b46ed9abd581f4	Phase Zero_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+5647d189d38b7115cba94d48f1f8d22e	Phase Zero.rom	atari-jaguar-yori-yoshizuki
+8d41cbd3a950a68d50b57db6a5dc9745	PLATS16.abs	atari-jaguar-yori-yoshizuki
+8334df3cecee5bff0d02b6de520c01a3	PLAY.abs	atari-jaguar-yori-yoshizuki
+be86357886f5aeea3ed5f4316975dde5	PlaySFX V1.0 (2003).rom	atari-jaguar-yori-yoshizuki
+6350298d502898c4f66c2da7d03b7cdc	PlaySFX V1.0_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+aa48531b3c073d33d8988c63e3c2e931	PlaySFX V1.0_jiffi.cof	atari-jaguar-yori-yoshizuki
+19f85c02b70091f746209307f99cd55d	PlaySFX V1.0_jiffi.rom	atari-jaguar-yori-yoshizuki
+6ba432c0bee276d84308209e040bfb4b	PlaySFX V1.0_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+b512d64d84903175ba812ca46ccd5ec5	PlaySFX V1.0.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+7e66c0158e4ae159810e49de83577858	PlaySFX V1.0.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+4e271bd0fc54db4ae23cd7146d14fb02	playtime demo.abs	atari-jaguar-yori-yoshizuki
+031ddf86a74d4f57daffd6813357f2b7	Poly_mmu_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+5bce76c077840aae333fff58cb3075ad	Poly_mmu_jiffi.cof	atari-jaguar-yori-yoshizuki
+91b9f518cd62819e6e96f3d24f03a641	Poly_mmu_jiffi.rom	atari-jaguar-yori-yoshizuki
+7ccf0f4d49a6f2d7a170088d123cac43	Poly_mmu_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+7ef8b830fc4ef07f36056c8b3a928287	Poly_mmu.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+e12cc3ab471597d3d04248fd62777fa3	Poly_mmu.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+1c7aa335553dcb736793bbaa549b07d9	Polygon_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+e3a66f4463ad32630721cd3e36f66e81	Polygon_jiffi.cof	atari-jaguar-yori-yoshizuki
+86c7bd37b79fd95da3e69b33ad113739	Polygon_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+b2bdb9b89961cc51548d0507bc74912a	Polygon.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+3167c53399d1e6313d8437331fcc7d27	Polygon.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+a8d73b6896f87fff3dd2e0a0e64ce777	Polygon.rom	atari-jaguar-yori-yoshizuki
+e5b0c3571defb65d266a2aaf647f9cd8	Pong (19xx)(Storm Works Interactive)(PD).abs	atari-jaguar-yori-yoshizuki
+a6dc3289588654e9a82c5f0501d6144d	PowaRoad101115.abs	atari-jaguar-yori-yoshizuki
+23a563385056f52d8fc63e2368d7466f	PowaRoad111115.abs	atari-jaguar-yori-yoshizuki
+3e15b93dc591f80350de6382ca79ce0f	PowaRoad121115.abs	atari-jaguar-yori-yoshizuki
+b2c3db1d4e3f01dc16b2d3d040a0b818	PowaRoad151115.abs	atari-jaguar-yori-yoshizuki
+aeeea015db82366948de7e7c7ec5a53c	PowaRoad230815.abs	atari-jaguar-yori-yoshizuki
+3f7f86cbf6cf68ed08495828d97390ed	PowaRoad250815.abs	atari-jaguar-yori-yoshizuki
+01dfce311a5471360cd0670d25695440	PowaRoad260815.abs	atari-jaguar-yori-yoshizuki
+7a1342f4d35320bee8825d23bf9432aa	PowaRoad270815.abs	atari-jaguar-yori-yoshizuki
+248f66c2ff585d291a5892bb9bf3d00b	PowaRoad280815.abs	atari-jaguar-yori-yoshizuki
+5e961404cd01e4a6bf57eba8ee5c9eff	Project One (The Level One demo).jag	atari-jaguar-yori-yoshizuki
+ac53e13f22837c460521422ed328ffd0	Project One DEMO (2009).rom	atari-jaguar-yori-yoshizuki
+08e0ecf78f4f8d9cb05e368b87d154b4	ProjectW (2008).rom	atari-jaguar-yori-yoshizuki
+f969e1ed6e3c55f12af0ea312e2f950d	ProjectW (Fadest 200-11-03).bin	atari-jaguar-yori-yoshizuki
+f93b79fc6653d872aa3563db41ab4f3d	ProjectW_jiffi [cof].cof	atari-jaguar-yori-yoshizuki
+b4b6df6d0d669fbf53c78555bbd4a2a1	ProjectW_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+fbab5f53b586cdd86f2cd84e2bfbc3c8	ProjectW_jiffi.rom	atari-jaguar-yori-yoshizuki
+3774ee26339adfc0bad07091d29c361b	Protector_SE_(2002).rom	atari-jaguar-yori-yoshizuki
+6564da92b5d4a9dc1d34ab2c941a3b55	Protector.rom	atari-jaguar-yori-yoshizuki
+38b2aacb20e401ce3d225ca58035e131	psemu_beta.rom	atari-jaguar-yori-yoshizuki
+04ac649a5ad7f4bd4c2336fde2ed04f6	QSOUND DEMO (2008).rom	atari-jaguar-yori-yoshizuki
+6f3723f5afcdbf8fe91f1eb551e28396	QSOUND Demo_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+5a8d24f07a3fdc0fa2969f05f188368c	QSound sample.abs	atari-jaguar-yori-yoshizuki
+6b7787219eaa8ebbab32f569376193ad	quake_hires.rom	atari-jaguar-yori-yoshizuki
+d1e911b05960bcba41b576d95429dd1a	R-Type_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+8fdb4ee30598919897ba17546ef4c515	R-TYPE-1.2.rom	atari-jaguar-yori-yoshizuki
+80c969e918dc006cbabe7a3b0250b9c1	R-TYPE-1.3.rom	atari-jaguar-yori-yoshizuki
+6bd36d8580afbc786544f1d8f423caff	R-TYPE-Fixed.abs	atari-jaguar-yori-yoshizuki
+126e966e6eab39f72a24a16cc75e5c7f	Raiden alt.rom	atari-jaguar-yori-yoshizuki
+b08667ee58d0bf465b2ba8a5f0a61491	rally.abs	atari-jaguar-yori-yoshizuki
+1120ab0e4dc659193ce1664cce404c01	RAPTOR BASIC+ v0.1 test.abs	atari-jaguar-yori-yoshizuki
+67454987b6a0017a7328f7f93c319980	Raptorvaders.abs	atari-jaguar-yori-yoshizuki
+b3fc241be01760b81d8e4eb0468a91e1	Raw_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+bc42e567aff9c193e5acad67e3787b5c	Raw_jiffi.cof	atari-jaguar-yori-yoshizuki
+f711fbb65da442babed845a12ea14b98	Raw_jiffi.rom	atari-jaguar-yori-yoshizuki
+9b6e33a636312fa382c92b4966be5406	Raw_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+b784868c2b43302ee0d85a55dd28e4d8	Raw.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+494484ec5605d2f89694bc084f19e9f3	Raw.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+e9833e81f272db5a3779f1cc554250ab	RAYCASTR.abs	atari-jaguar-yori-yoshizuki
+283e0eb1beb4c6217d3be9719eabacb8	Rayman (Early Prototype).rom	atari-jaguar-yori-yoshizuki
+843d1c5e6885674ba1b4b189e12d6f9f	Rayman [Early Prototype].rom	atari-jaguar-yori-yoshizuki
+306896d396fe1ad30f0b595da128413d	rbasic_demo.abs	atari-jaguar-yori-yoshizuki
+9b0f5646e0aaf9fec91840ae58dccc43	rbasic-example2.abs	atari-jaguar-yori-yoshizuki
+50eeb8c9c7c0b6ec76936bd3cb45f9e4	rbasic-sprites.abs	atari-jaguar-yori-yoshizuki
+bf3aa172dd7d7e22df83d868a244bb3e	RBASIC.abs	atari-jaguar-yori-yoshizuki
+3a61190d746a8f1efbfb1789aec2d4a4	rbasic1.abs	atari-jaguar-yori-yoshizuki
+084691d47fbecd0b3e6f2ce57e46ef0f	reactris_jiffi [cof].cof	atari-jaguar-yori-yoshizuki
+8cda24b1fc80865744c556cd60a2400c	reactris_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+79b3a14f49912f9d63accb5bae0d0d86	reactris_jiffi.rom	atari-jaguar-yori-yoshizuki
+f12e11edaaa42347de1f11cf99f18564	reactris.abs	atari-jaguar-yori-yoshizuki
+45bf49ed46ab3a05aa7a78bcbdb61a7a	reactris.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+8bbab16aee6d922d83b17ad856370a12	reactris.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+2ffe66cd0494672d34e23146ff662a7c	Rebooteroids - 20160703-1023_RC1.1.rom	atari-jaguar-yori-yoshizuki
+cbb4a3dab28144d389b3a5dd517178a0	Removers Example 1 (2008).rom	atari-jaguar-yori-yoshizuki
+f9dd62f6f731308a85c2d0d897ce8fa4	Removers Example 2 (2008).rom	atari-jaguar-yori-yoshizuki
+e948fba949ea690b9e9f9cbc6b921fdb	Removers Example 3 (2008).rom	atari-jaguar-yori-yoshizuki
+53469f7d1ca03b6c6a6dbaf6baa2dfe0	Removers Example 4 (2008).rom	atari-jaguar-yori-yoshizuki
+62b30634a25a8fa78486c2e41ea12393	Removers Example 5 (2008).rom	atari-jaguar-yori-yoshizuki
+a641645a4a923ba2b6b859ec0f63d3c7	Removers library example4.cof	atari-jaguar-yori-yoshizuki
+3e0383a36b798a00b6138b6353267ad6	RENDERDEMO.cof	atari-jaguar-yori-yoshizuki
+7f7dbcc3aae4e59a1b2456ad9e0b3696	REPLAYER08.prg	atari-jaguar-yori-yoshizuki
+265f301888ed4ab403b933f2e10c6d88	RESET (JAGOS).jag	atari-jaguar-yori-yoshizuki
+a5729923bab60174bb1422287affdd60	Return to Genesis_incomplete.rom	atari-jaguar-yori-yoshizuki
+b3d6ada8ce88bc1fd23d1dd2cba36988	Return_to_Genesis_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+c6ca86d4b4c1dff83bce5fab1f5614af	Revenge of the Mutant Camels.abs	atari-jaguar-yori-yoshizuki
+8bc9fb105cba28e24010e885de0d3d15	Revenge_of_the_Mutant_Camels_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+63cd9c744eec744a3347c6db953019f2	RevengeofDoH-Jagpad_incomplete.abs	atari-jaguar-yori-yoshizuki
+c3c158cb2773e6cf10eda2ca3839c774	RevengeofDoH-Rotary_incomplete.abs	atari-jaguar-yori-yoshizuki
+1211bc6d45680e8e177f645a0fbb14fb	RevengeOfTheMutantCamels0.5.abs	atari-jaguar-yori-yoshizuki
+04be9afe1bdd0f47bb1a385242e30163	RevengeOfTheMutantCamels0.9.abs	atari-jaguar-yori-yoshizuki
+b4a964811ba0917c19a35344a7987730	RGC DEMO (2006).rom	atari-jaguar-yori-yoshizuki
+63497be07a032dea7cd46f919b21e901	rick_dan.rom	atari-jaguar-yori-yoshizuki
+4702d2f289e2afebbb9a99604f3f1f26	Rick_Dangerous_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+f532ddafb38566312f07dafac761e735	RickDangerous.rom	atari-jaguar-yori-yoshizuki
+2fc658ef61d81243f06912b9e11543c2	rickdangerous1.0.abs	atari-jaguar-yori-yoshizuki
+0f97bba07743420319c77a187799bf8e	rickdangerous1.1.abs	atari-jaguar-yori-yoshizuki
+1f9f6ad3f6d566153fd39e69869ca190	rickdangerous1.2.abs	atari-jaguar-yori-yoshizuki
+62ca3c44d467741fd93d21fbfe674e78	RIX.abs	atari-jaguar-yori-yoshizuki
+6d2ae8f88d49b798e8ca30da34ae3a16	Robbig (2007).bin	atari-jaguar-yori-yoshizuki
+3be085ccf8ee180f7945a59dfe5c63d6	Robbig DEMO (1993).rom	atari-jaguar-yori-yoshizuki
+a64b5e391179557523444f0a3a6120f2	robbig_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+d2c368918a6a4117bf8af280753b9f35	robbig_jiffi.rom	atari-jaguar-yori-yoshizuki
+9a9ae907c65d5efb0dce45f5db16861e	ROBOTS.abs	atari-jaguar-yori-yoshizuki
+f019ffb184f385984ea594cebfcaf814	rocksoff.abs	atari-jaguar-yori-yoshizuki
+cab12f5e259f6027a04e5845422468f4	rocksoff.bjl	atari-jaguar-yori-yoshizuki
+fb46a8ecc704eb855a82862b1e25306e	rocksoff.rom	atari-jaguar-yori-yoshizuki
+731e9654f1390382754b754b2dbf993f	ROTATE.abs	atari-jaguar-yori-yoshizuki
+35ca71699638e2374f8fbb473ab7beab	ROTATEDEMO.abs	atari-jaguar-yori-yoshizuki
+c31995e63c99093e61dd664c8c4985fb	ROTPERSP.abs	atari-jaguar-yori-yoshizuki
+39df60b1fc53a747a6f85c4d50a02ea2	rover_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+c8d7cf67390febda1823a4f1c2ca647e	rover_jiffi.j64	atari-jaguar-yori-yoshizuki
+735072de5e6e5c541b3dffdbf5154305	rover.bjl.bjl	atari-jaguar-yori-yoshizuki
+a69dba33926b0a0fcf4528d7d9ac612f	rover.rom	atari-jaguar-yori-yoshizuki
+6c27869b4047f0c937a16546fa5daa8d	rover.v2_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+a6a06bb34ed2532d413964d538d5dae9	rover.v2_jiffi.j64	atari-jaguar-yori-yoshizuki
+4106fd976358bc856c03839318f48652	rover.v2.rom	atari-jaguar-yori-yoshizuki
+2b20e4c9e0f012d5bc1d763fe3480b44	rover.v4_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+9678000a4eb12c46ccb1acb65829f889	rover.v4_jiffi.j64	atari-jaguar-yori-yoshizuki
+d12ae91520e4a5405c30a5309df9ee5e	rover.v4.bjl.bjl	atari-jaguar-yori-yoshizuki
+8a1c988f99d7fe1363ac8fc097056f01	rover.v4.rom	atari-jaguar-yori-yoshizuki
+41c07616b91ffef5c1383faf9e0e6057	RS160421.rom	atari-jaguar-yori-yoshizuki
+8dbf2f2e1c17eb605c47800cb02de1d4	rtype_wip1.rom	atari-jaguar-yori-yoshizuki
+07c867eadca6bd9454973b25ed3d8278	rtype_wip2.rom	atari-jaguar-yori-yoshizuki
+a07ae31ce911c32d10854dec8952fc4c	Rtype.rom	atari-jaguar-yori-yoshizuki
+d750ce3880f03911ae34d95936adc89d	S.p.a.c.e_jiffi [cof].cof	atari-jaguar-yori-yoshizuki
+ad80e244ed35c30603db51078f8086fa	S.p.a.c.e_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+23640aa9a7ba3122a802c7c34a9ba32a	S.p.a.c.e_jiffi.rom	atari-jaguar-yori-yoshizuki
+a46bb71e06580ca224778586536ad0de	Scale DEMO (2008).rom	atari-jaguar-yori-yoshizuki
+2cc3e36a58283f9a2181203e6f6e1b00	SCALE.cof	atari-jaguar-yori-yoshizuki
+50b164e7cef59e12390d711ea2337214	scaler.abs	atari-jaguar-yori-yoshizuki
+3d54e0736c6eb53d979ee83899d3d2dc	SCALINE.abs	atari-jaguar-yori-yoshizuki
+b2c0cdc27bb00773a8952092a8c35688	SCRNSET.abs	atari-jaguar-yori-yoshizuki
+45abb57ed53056354cc8b3be6777ed42	SCT_DMO1_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+d92ff129e6140f3f25710ad4d683f701	SCT_DMO1_jiffi.rom	atari-jaguar-yori-yoshizuki
+afd083c13eddb78c6228af8c494cafe7	SETICONP (JAGOS).jag	atari-jaguar-yori-yoshizuki
+daca2c09fb4d29b79fae7c4c62531d52	SFDX2.abs	atari-jaguar-yori-yoshizuki
+7e4c5220d15e9657a7471af0c9d89961	SFDX64 (2010-04-29).bjl	atari-jaguar-yori-yoshizuki
+d48b5c0dd67c29d1d669d80e4153e23b	SFDX64.jag	atari-jaguar-yori-yoshizuki
+fea7538e243b74bd94e50339dd9ecaea	SFDXCE.bjl	atari-jaguar-yori-yoshizuki
+32fdfad4c9830c7ad0693ef475e6bb1f	SFDXv1_1_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+75cf029050f8da8536d41c2a167fa599	SFDXv1_1_jiffi.rom	atari-jaguar-yori-yoshizuki
+02d5ef064d54f37d32a6cf4fa6419cfa	SFDXv1_1_ProjectTempest.jag	atari-jaguar-yori-yoshizuki
+e9359a793f019b8672557875c56ac6c7	SFDXv1_1.bjl	atari-jaguar-yori-yoshizuki
+f6e38956d245a4f4e8c3b08349422fc8	SFDXv1_1.jag	atari-jaguar-yori-yoshizuki
+364b3d4304b336e640bd24948cc3b603	SG2 v1.abs	atari-jaguar-yori-yoshizuki
+e7668ab0ab6f34effe51e46491586bb1	SG2 v2.abs	atari-jaguar-yori-yoshizuki
+b5bc92cf80081c8963024fa7c626ad9e	Shit's frozen 64.rom	atari-jaguar-yori-yoshizuki
+4a06bfdb3026ce517ac189109b1468d9	Shoot'em up (2012)(DrTypo).cof	atari-jaguar-yori-yoshizuki
+39eeee91a42a22eae60129024aea6a8b	Shoot'em up (shootemup) (2012.01.15 15.47) (shootemup).cof	atari-jaguar-yori-yoshizuki
+7bb33d247eef89bb3579dfe675e8a252	shootemup_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+5c4d9c57e0559902151325f0c8b99131	shootemup_jiffi.rom	atari-jaguar-yori-yoshizuki
+d3f0e3637e7a2f230d2c9de1c3c56676	shootemupbjl.bjl	atari-jaguar-yori-yoshizuki
+957acc58e5b352eb77594a03d8a1bd07	showpic.prg	atari-jaguar-yori-yoshizuki
+e334cbc17fd4feb3aaf4a6c992981556	shutupwoman.abs	atari-jaguar-yori-yoshizuki
+ccd1c8863f9154dd7fd061a79d01a1c5	Silly Venture 2013 (JAGUAR DEMO) (Pictures of Atarian Grey).cof	atari-jaguar-yori-yoshizuki
+042428ee0fdd79db13a24f785fd25858	SILLYVENTURE_2013_Atari_Jaguar_Invite__UPDATE_FINAL.abs	atari-jaguar-yori-yoshizuki
+3446df21fe188e7e57faad21192a69d6	SIMPLE.cof	atari-jaguar-yori-yoshizuki
+ff6ebd4682e1cd6bca259b06ca3fcfea	SINES.bin	atari-jaguar-yori-yoshizuki
+648a684a97fc1dfd8e9f4484ecba1cfb	SKELTEST.abs	atari-jaguar-yori-yoshizuki
+e9203a84e693ca622981aa046970d9f6	skunkbios302.cof	atari-jaguar-yori-yoshizuki
+d128a5dd0bac4dbaab0fb402efb2b0ee	SkyCopter2.rom	atari-jaguar-yori-yoshizuki
+04c85be97daf4308135d245e68d4774d	Skyhammer_(1999).rom	atari-jaguar-yori-yoshizuki
+8e245a0f377706e7db9686f9e8efd1e8	SlamRacer Demo (2008).rom	atari-jaguar-yori-yoshizuki
+da5e2b0866b752ee34ebf201ccadcf77	SlamRacer Demo_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+6df17412467c9ca4fc0fa9755d6e4e2e	SlamRacer Demo_jiffi.cof	atari-jaguar-yori-yoshizuki
+ac6125824af605acfd4c594b11988464	SlamRacer Demo_jiffi.rom	atari-jaguar-yori-yoshizuki
+8ed6fffb2566749a85ed3d86270c646a	SlamRacer Demo_load_10000_run_10000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+8d129d0ee0c9b0a9be701e70e60a650e	SlamRacer Demo.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+67a163d4bf32c28b55c2c3011129dbda	SlamRacer Demo.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+e27b62c1ba11aacfbbc2c8d5943763a1	SlamRacer Intro (2008).rom	atari-jaguar-yori-yoshizuki
+17fe2890f6b5593fbce43989a356ba87	SlamRacer Intro_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+d57480d1a51add77b6900d103de7d762	SlamRacer Intro_jiffi.cof	atari-jaguar-yori-yoshizuki
+8cbece3107d6067b4399eb8cd88fd63e	SlamRacer Intro_jiffi.rom	atari-jaguar-yori-yoshizuki
+d057070cbc76a459366bf49e4b79eeac	SlamRacer Intro_load_10000_run_10000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+83aca394c3b1e3f5939237917a1ee1c5	SlamRacer Intro.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+89e0e920337b756caab4622eeceb28d0	SlamRacer Intro.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+aab2f0ff79b2ae7dc396394277ec6659	slinky.abs	atari-jaguar-yori-yoshizuki
+ad3ca6c65e83e7985bb71f882b4d437f	SNAKE.abs	atari-jaguar-yori-yoshizuki
+ddbf5d4442b8f3dc1ca463541c3cd765	SNDMIDITOOL.abs	atari-jaguar-yori-yoshizuki
+f494de1d280f896612dc4484d85f5169	SNDMIDITOOLold.abs	atari-jaguar-yori-yoshizuki
+655f45fcca2c343379bff95dd828c5f0	SNDTOOL.abs	atari-jaguar-yori-yoshizuki
+e47c5aeb89230f3c826f67b71ecd0a52	SNDTOOLTEST.abs	atari-jaguar-yori-yoshizuki
+59a409e081375c44ab702d2c7a96c3df	Soccer Kid with universal header.rom	atari-jaguar-yori-yoshizuki
+2d03f3e2b399d0ce0103830820e69524	Soccer Kid.rom	atari-jaguar-yori-yoshizuki
+c803a3d9bb7c64c599143c0f6b1cab96	Soccer_Kid_(1999).rom	atari-jaguar-yori-yoshizuki
+324d030ee16a8c03585964d330de41b5	Solomon's Key (2015).abs	atari-jaguar-yori-yoshizuki
+aa44c5169cd77773f905ebc479e4aa53	solomonkey01.rom	atari-jaguar-yori-yoshizuki
+283fb44f5996410cc8e14bac44daa853	solomonkey02.rom	atari-jaguar-yori-yoshizuki
+1741996558f0a7016ee88187c2e1e626	SolomonsKey.rom	atari-jaguar-yori-yoshizuki
+8045ac181d02e3fc92eae066607073f3	Space War 2000.rom	atari-jaguar-yori-yoshizuki
+d13a90b8ff1d9e223afad00156c976dd	Space_War_2000_(2001).rom	atari-jaguar-yori-yoshizuki
+839f02a09220aaea8cdff30faf6e7e22	Space.bin	atari-jaguar-yori-yoshizuki
+2f1b7ab6ef621d92e1be62fca7e8ce5c	Spacewar2000 [unreleased].rom	atari-jaguar-yori-yoshizuki
+1b01e8ebfcf63a296daeae0c67d12cdd	speedster2.rom	atari-jaguar-yori-yoshizuki
+4e759e3240d57245fbf385a2fb4bba77	SpikeyInTransylvania.rom	atari-jaguar-yori-yoshizuki
+f4054554761807fc3755b6704899d386	Sporadic FP Raycaster 031116.abs	atari-jaguar-yori-yoshizuki
+8202a1c1fbaeda8309701a004cb6e61f	Sporadic WIP BeatEmUp 030316.cof	atari-jaguar-yori-yoshizuki
+a18c404b7b704fe8b9e795d41df1ecee	Sporadic WIP BeatEmUp 060316.cof	atari-jaguar-yori-yoshizuki
+eb5b5f5735ee672e3ea01465504562d4	Sporadic WIP BeatEmUp 100316 v3.cof	atari-jaguar-yori-yoshizuki
+415779d975f47ae67e1ebaf688a285dc	Sporadic WIP BeatEmUp 310516 VJ.cof	atari-jaguar-yori-yoshizuki
+aef497047344757cc041658c71da50ba	Sporadic WIP BeatEmUp 310516.cof	atari-jaguar-yori-yoshizuki
+356793625d0e22dc65ab6f1dfb857314	sprite_graphics_changer.abs	atari-jaguar-yori-yoshizuki
+41dcd01aa8ed188579807f7a2c8dbb5d	SPRITE.bin	atari-jaguar-yori-yoshizuki
+31f8ae3b2b43166ea3fb253dd395e8d0	SQUAKE.abs	atari-jaguar-yori-yoshizuki
+720f13537c05bfe8f34834012da60716	SSGPU.abs	atari-jaguar-yori-yoshizuki
+d8ef9ddb0b3041c36bcc0be0bd23b6a6	Starcat Developments Demo 1 2007 ($4000).bin	atari-jaguar-yori-yoshizuki
+1cae775f09989e364a91bb48f5971b73	starfield1.abs	atari-jaguar-yori-yoshizuki
+1f7ee1a730f1cfa6bbba224f0c19bdf8	starfield2.abs	atari-jaguar-yori-yoshizuki
+a68ddd49de466e45d8456ef7dfd8ff1e	starfield3.abs	atari-jaguar-yori-yoshizuki
+7d6c00316f1ae81899834f1e4a779d45	Starglider_2_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+77e35998f419b2ed22c8cf8fe9f48080	Starglider2_incomplete.abs	atari-jaguar-yori-yoshizuki
+2f697c4b32b9416cdefcf0a408a29ff4	StarQuake_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+4bc9918a75b51c82d1d5c3169e1e3c9a	StarQuake_incomplete.abs	atari-jaguar-yori-yoshizuki
+6bf4f87b68e5dc44a0075c75889910c3	starquake.abs	atari-jaguar-yori-yoshizuki
+de5b1db44c40e46cb023945fb8885e41	StarWars_v2_full_complete.rom	atari-jaguar-yori-yoshizuki
+fcd520b37c6183d26b095b38a24cf9ec	StarWars_v3_cd_users.abs	atari-jaguar-yori-yoshizuki
+2fb2ab18d28645bac39dc1803e38e745	STILL.abs	atari-jaguar-yori-yoshizuki
+ae257ccc49190135ea4c74b7633bc8a6	StormBringer_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+7606f8306575635707f0685ac3df8ef8	StormBringer_nomusic.abs	atari-jaguar-yori-yoshizuki
+0b5badc771c376de94eb3dcc6ca0ead7	StormBringer_withmusic_fix1.abs	atari-jaguar-yori-yoshizuki
+b87d991283b0c37e753caa3c2fdab09d	StormBringer_withmusic_fix2.abs	atari-jaguar-yori-yoshizuki
+9a37ca599c243ce93c2f28f225e257bd	StormBringer_withmusic.abs	atari-jaguar-yori-yoshizuki
+25ca8d058ed03bda3b357b7fa6a56970	Stubulator 94.bin	atari-jaguar-yori-yoshizuki
+bba172fa14a5980a54e5931f1a6d76c4	Super Cross 3D (1995).rom	atari-jaguar-yori-yoshizuki
+4312461f854769e40266285a6f25ab81	Super_Sprint_(Atari_ST).rom	atari-jaguar-yori-yoshizuki
+1197325d01364e1826c30d50d7321573	SuperSprint_incomplete.abs	atari-jaguar-yori-yoshizuki
+405d877e6891a9ea74aca7bed14fb006	SuperSprint0.60.abs	atari-jaguar-yori-yoshizuki
+cb78e565949aca4406a32a2e7abdf22b	SuperSprint0.70.abs	atari-jaguar-yori-yoshizuki
+8e0273e22013eff13033125c3a0c6884	SuperSprint0.80.abs	atari-jaguar-yori-yoshizuki
+16a267f83f37f7e9728580437be391d4	Surr2 4000_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+1bca2c23b96a81d35730c9799eccfcc3	Surr2 4000_jiffi.cof	atari-jaguar-yori-yoshizuki
+74af3e13163a43110df58b9ba2191172	Surr2 4000.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+fb50efa62ff34c5ba1041076ece41706	Surr2 4000.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+0b1dcf2534b3a25716553dad4657df3e	SURROUND (Christmas_2006_fixed).bin	atari-jaguar-yori-yoshizuki
+c72955169450dde23c1a32b10116b619	SURROUND (Christmas_2006).bin	atari-jaguar-yori-yoshizuki
+a1a716943a18bb5f2f85838aa22087ba	SURROUND new version.bin	atari-jaguar-yori-yoshizuki
+ee84adf9060102e2229a0d2a82157cc5	Surround_2009_jiffi [COF].cof	atari-jaguar-yori-yoshizuki
+3c8d9b88a4c50402f61fbb7ea7950948	Surround_2009_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+4ec4b024455d1a103c35f0cb73c75e57	Surround_2009_jiffi.rom	atari-jaguar-yori-yoshizuki
+4eec1c4dcae69ab1c56346145e33238f	Surround_2009.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+b56b68b7f1582077c1d54e7fb47c78d8	Surround_2009.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+c40fd28ba80574e0b23f1882c19e91a6	table [a].abs	atari-jaguar-yori-yoshizuki
+8324c2aa1b967ba005e0a1c9f5325457	table.abs	atari-jaguar-yori-yoshizuki
+f09cee35d14f41506f9c6a3a44023a5c	TAPPER.abs	atari-jaguar-yori-yoshizuki
+4279882d34c14e8ca474935b9e05d84e	Test Gra.rom	atari-jaguar-yori-yoshizuki
+6da2cbfd46e4c6afcb0b2b8db8055858	Test program for new 3D renderer.cof	atari-jaguar-yori-yoshizuki
+be62209f74c953e0e0a03f9a7d5d1bf0	Test_gra_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+d00717aafcf1cbc5f3d18f08bfb22e87	Test_gra_jiffi.cof	atari-jaguar-yori-yoshizuki
+c6f99218ba7d9904beedd3aec0da1580	Test_gra_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+79854305b11f4f5bbbeaee5fcf41f0f1	Test_gra.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+42b472eb2d65004c136265c994b2b907	Test_gra.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+695a0481c7e183ef042dd7e9519e56a1	TEST.abs	atari-jaguar-yori-yoshizuki
+ed3c6c1fc3f99b14e680366988b8c30d	TESTLZSS.cof	atari-jaguar-yori-yoshizuki
+b58935b41005280ce1d2fa5f51748e14	Tetris (1995).rom	atari-jaguar-yori-yoshizuki
+e3577b0bb1ef9047678e383d310079c1	Tetris_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+89a45bb35e6f5a26d97afccd1240558e	Tetris_jiffi.cof	atari-jaguar-yori-yoshizuki
+9cc7c429408b8aa17a4c13370cd49ae1	Tetris_jiffi.rom	atari-jaguar-yori-yoshizuki
+623361b3dfceb60d52b677df3ccfb94a	Tetris_load_4000_run_4000_jiffi.bjl	atari-jaguar-yori-yoshizuki
+6cc6019347a1a8c9cbc2d3d4d8defbf6	Tetris.jagserver2_jiffi.prg	atari-jaguar-yori-yoshizuki
+0d691648681063c27371438da13a2264	Tetris.jagserver3_jiffi.prg	atari-jaguar-yori-yoshizuki
+4ee3ff8aac7bc63c31bea1f2eafa158e	Text Engin v1.0 (19xx)(Edge Designs )(PD).bin	atari-jaguar-yori-yoshizuki
+d4dfa854f9955bdb56ea2adbb181206a	THANG1.abs	atari-jaguar-yori-yoshizuki
+e1c0370721aa357af86092be71e39ad5	THANG2.abs	atari-jaguar-yori-yoshizuki
+65f5b3e07990e6bc98ce7fdf34844292	The Assassin Demo - Release 2_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+52e0bcdbf703d21175adef93c702d9b2	The Assassin Demo - Release 2_jiffi.rom	atari-jaguar-yori-yoshizuki
+564ecb84ccd17b1fb5167a521d9d529e	The Assassin Demo (part 1).abs	atari-jaguar-yori-yoshizuki
+450f312a930cd49a077f19e1424ff152	The Assassin Demo Part 1_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+70032cf41e1bf160b110ca15a50e079f	The Assassin Demo Part 1_jiffi.rom	atari-jaguar-yori-yoshizuki
+0916eec0299546966b14dc33389031fa	The Maxx (2008).rom	atari-jaguar-yori-yoshizuki
+c41842aa3592d8aa07973476d7d706f3	The Realm Fighters early demo pre-alpha1_jaguar.rom	atari-jaguar-yori-yoshizuki
+4e11da2e766b8d9a08441d3cb3ec210c	the_maxx.bin	atari-jaguar-yori-yoshizuki
+322e89a674a188f8fddd313d6fe7bf80	Tiny Toon.rom	atari-jaguar-yori-yoshizuki
+138d08ea481f34e27bd0128cb996d9fe	Tiny Toons Adventures - Plucky Duck DEMO (1994).rom	atari-jaguar-yori-yoshizuki
+979642e91143d8beb361f61f329411cc	Tiny Toons Plucky Duck [unreleased][Tech Demo].rom	atari-jaguar-yori-yoshizuki
+dee13a01568afef8d72d6008bcdc2086	TNG DEMO (2008).rom	atari-jaguar-yori-yoshizuki
+86e1999c095021255b53f8c390180ea3	tngDemo_jiffi.rom	atari-jaguar-yori-yoshizuki
+bcbeb0ca8a295cac5a3afd013b12cf1d	Total Carnage Beta.bin	atari-jaguar-yori-yoshizuki
+5f14d7c3da4e0f26f736158ffb95ce05	Total_Carnage_(1995).rom	atari-jaguar-yori-yoshizuki
+83d0248de7d14684cb7c7457fcd1c608	Towers II.rom	atari-jaguar-yori-yoshizuki
+fd8551c8791cbee9b31bd3218670a718	Towers_II_(1996).rom	atari-jaguar-yori-yoshizuki
+252a8c7107afb7c67502e8dd197510d8	Treasure_Island_Dizzy_(Atari_ST)_not_work.rom	atari-jaguar-yori-yoshizuki
+32f29116113d188149c421f6ba85f576	TreasureIslandDizzy.abs	atari-jaguar-yori-yoshizuki
+bb04ea04aefa100d7e7f87f46db71f57	Trevor McFur in the Crescent Galaxy.rom	atari-jaguar-yori-yoshizuki
+7bf96f4e2873b00201aafc53f43b5a17	tripper.rom	atari-jaguar-yori-yoshizuki
+d41edeb57f7b5995d3754a701b0de92e	TRIRENDDEMO.cof	atari-jaguar-yori-yoshizuki
+f34ac8937cdf8e0b9a1a1c1923273d0d	Tube (2012)(DrTypo).cof	atari-jaguar-yori-yoshizuki
+676397abd9fbab2611309ccc27c39f83	Tube Second Edition (2012)(DrTypo).cof	atari-jaguar-yori-yoshizuki
+03c1a6191718bd63f753146a454148c4	tube_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+e84e6500d94efa427b0033638093a843	tube_jiffi.rom	atari-jaguar-yori-yoshizuki
+0d890c554eff6d8694f3451d317b6024	tube_se_jiffi [a].rom	atari-jaguar-yori-yoshizuki
+47005326543da90dc8e27b078e22aa1e	tube_se_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+a35c9da8c21ca575faafbbdef8d1b604	tube_se_jiffi.rom	atari-jaguar-yori-yoshizuki
+653c4a6317bf0deaea77c62facfcc39b	TUBE_SE.cof	atari-jaguar-yori-yoshizuki
+991cf853c27436d1055d8227630f081c	tube.cof	atari-jaguar-yori-yoshizuki
+c0fe8ab5aeac0630b7ac9878f3efb585	TUNNEL (Symmetry of TNG 2003).prg	atari-jaguar-yori-yoshizuki
+91f45c001fcc1bc216fb41139c573513	TUNNEL_jiffi.rom	atari-jaguar-yori-yoshizuki
+3bb6f5c855da0423ef47770e72fff9ca	TWOMICE2.cof	atari-jaguar-yori-yoshizuki
+d2252de27682be83b4b69096e2014d5f	uFLY [abs].abs	atari-jaguar-yori-yoshizuki
+a6b54643eb454e7727343aa9f18d9077	ufly.rom	atari-jaguar-yori-yoshizuki
+982895a67dadd529f206d4d6b7591fa7	uFLY0_5.abs	atari-jaguar-yori-yoshizuki
+82ff01fd3c369fc2f109c06c419a7cc8	uFLY0_6.abs	atari-jaguar-yori-yoshizuki
+f126de8c51a643f2aa18f8ab61b1cbb4	uFLY0_7.abs	atari-jaguar-yori-yoshizuki
+a9a981a71f0a0615d72f9b15b2a103e1	uFLY0_8.abs	atari-jaguar-yori-yoshizuki
+c84a8aea92337a3239a633f8f075d7c0	uFLY0_991.abs	atari-jaguar-yori-yoshizuki
+9950e811620547246d3e8286946821de	UFO demo $4000.bin	atari-jaguar-yori-yoshizuki
+f31b476e8b7a5bdeb72d2dfebf5ba6f6	UFO_jiffi_headerless.jag	atari-jaguar-yori-yoshizuki
+e3e09adda8cc32ce1e2930e8c3b12623	UFO_jiffi.cof	atari-jaguar-yori-yoshizuki
+39cc63fdba61ddaeed2e36ad151560cf	UFO.rom	atari-jaguar-yori-yoshizuki
+0e0591bda21555ead5aafe355555e545	uni200620030225.abs	atari-jaguar-yori-yoshizuki
+3e22e83457c1c769480fd14be054f741	Universal_encryption_key.bin	atari-jaguar-yori-yoshizuki
+9fb99f236c20a0b585fff1db04d79719	USER-1 (JAGOS).jag	atari-jaguar-yori-yoshizuki
+87e2e895c4d9ed75665685c7eaac9dd7	USERPIC.abs	atari-jaguar-yori-yoshizuki
+d69aa5fd1346ea93cbaf76af08ca7a83	USERTREE.abs	atari-jaguar-yori-yoshizuki
+e452334f4935a9e5878f183438b75dd0	utopia_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+1303a22593c046d66bddcd653b86fed8	utopia_jiffi.rom	atari-jaguar-yori-yoshizuki
+b3b3943df58ef45e13d81e0d421081a4	uwol.cof	atari-jaguar-yori-yoshizuki
+2a4a9ca77073c95711dda34a102130fe	uwolv2.bin	atari-jaguar-yori-yoshizuki
+f1877a01a4e230e07f0d88a9c2f1973c	uwolv2.cof	atari-jaguar-yori-yoshizuki
+faa64477bf77022ed157f94f92cc6b8d	Viewgif (19xx)(-)(PD).bin	atari-jaguar-yori-yoshizuki
+38897c781b4fa6155e8271925497140e	Viewgif 2 (19xx)(-)(PD).bin	atari-jaguar-yori-yoshizuki
+d425f5ca471e6aa6151c57da7d802ee0	Virus Zarch.rom	atari-jaguar-yori-yoshizuki
+89629e9d455c035860f87f5573bd19d0	voxels_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+07e3f22e89ef1e32f5eb3fd1f5fd3995	voxels_jiffi.rom	atari-jaguar-yori-yoshizuki
+dfc7d28045cf25712b1e31bac743614c	vxpong.bin	atari-jaguar-yori-yoshizuki
+66ab4f1065c149872daf04478e608f1e	WARPY.abs	atari-jaguar-yori-yoshizuki
+3ac73a53da37c0d092e6b9d2e70b4b84	WARUM (Symmetry of TNG 2003).prg	atari-jaguar-yori-yoshizuki
+b78d4f1aeef5ddabdf328700767f69dd	WARUM_T (Symmetry of TNG 2003).prg	atari-jaguar-yori-yoshizuki
+a8bac188bf579252af05b4865b5de0d2	WARUM_T_jiffi.rom	atari-jaguar-yori-yoshizuki
+0fc13a93e30df88413cc5fa1ef0e66cf	WAVE.abs	atari-jaguar-yori-yoshizuki
+e62d39a0752402d9bd78499db55b6b94	wdhack.rom	atari-jaguar-yori-yoshizuki
+f09f7413fff57bd7f5761112c1b81e05	WEST96.rom	atari-jaguar-yori-yoshizuki
+83e51d11bb65a5a6df1d28a9260669ca	What's stopping you programming the Jaguar (demo1) (2012.07.02 08.31) (demo1).cof	atari-jaguar-yori-yoshizuki
+56d1319e89195b155f0fba8e10f64a72	wiggle - sommarhack 2016 invite (Reboot).rom	atari-jaguar-yori-yoshizuki
+ec30cc383f6c58de534b3f42993f2760	WIND (JAGOS).jag	atari-jaguar-yori-yoshizuki
+e2f13971eb13a372bc38c7e4ec8a6517	winners_dont_do_gbh.abs	atari-jaguar-yori-yoshizuki
+df6d222a5fad556df5c073bed41f1ca7	WOLF3D (Symmetry of TNG 2003).prg	atari-jaguar-yori-yoshizuki
+d4856fa6ba326152b815c6d173ba35ac	WOLF3D_jiffi.rom	atari-jaguar-yori-yoshizuki
+1a87f2f7a32d3e3a8e8d922a0c5aa6af	Worms_(1996).rom	atari-jaguar-yori-yoshizuki
+acabdee4766dc77a4bb3486279ed71b1	WWWCORTINA.abs	atari-jaguar-yori-yoshizuki
+efd1a77ffe6ea1c3c70ef190245410e9	YAK old.abs	atari-jaguar-yori-yoshizuki
+390b874fb6383972742b84125f4fb4a5	YAK.abs	atari-jaguar-yori-yoshizuki
+b3e8fee454eb8f13d85c6950a232a0bd	Yakbig (2007).bin	atari-jaguar-yori-yoshizuki
+c60e39fe5c8cf487cce220ef907596dd	Yakbig DEMO (1993).rom	atari-jaguar-yori-yoshizuki
+2f57b90767f14c602e5399e042dbe01f	yakbig_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+c3cbfbce1ac86ca4a21abe6c5759bcd9	yakbig_jiffi.rom	atari-jaguar-yori-yoshizuki
+f74823009c6e1db71ef1d11403a45a58	Zdemo1_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+efd34aa26f48de6f995d3b9021870c2d	Zdemo1_jiffi.rom	atari-jaguar-yori-yoshizuki
+3f5164974cda7305d8cc81a2ff81cc7b	Zero Title Screen Demo (19xx)(Storm Works Interactive )(PD)[$802000].abs	atari-jaguar-yori-yoshizuki
+08b31fae8cbd44ac65d44baf1a0545a2	Zero_5_(1997).rom	atari-jaguar-yori-yoshizuki
+4867173b476ac1ba5b0762720335d689	ZERO4_jiffi_headerless.rom	atari-jaguar-yori-yoshizuki
+fe762d98eb6c43bacd10030e2fa70666	ZERO4_jiffi.rom	atari-jaguar-yori-yoshizuki
+51adb3008e92e29d53ac61926714eb3c	ZERO4.abs	atari-jaguar-yori-yoshizuki
+8ead5dff38c36729e2e2d8aa093c5a36	Zero5beta.rom	atari-jaguar-yori-yoshizuki
+42db6bf4d745e0e57d9a4152b461505d	ZOOCLAN.jag	atari-jaguar-yori-yoshizuki

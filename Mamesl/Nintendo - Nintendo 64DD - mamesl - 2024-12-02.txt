@@ -1,0 +1,13 @@
+3343273767bf27450bc838a5d1b92705	dezaemon.bin	n64dd-mame
+141d6d1ade8aa29b0b5da285a5184154	f-zero x expansion kit [nud-efzj-jpn].bin	n64dd-mame
+22933afae9aa62bf2113525401622aa6	japan pro golf tour 64 [nud-dpgj-jpn].bin	n64dd-mame
+a91b2c625a02e6ffe8a70bcd096e86b1	kyojin no doshin - kaihou sensen chibikko chikko daishuugou [nud-dkkj-jpn].bin	n64dd-mame
+cc0ec2f375b62c225164de54052f572d	kyojin no doshin demo [nud-dkij-jpn].bin	n64dd-mame
+29be35ea3b83ae5b5eb3951b5b07009f	kyojin no doshin [nud-dkdj-jpn].bin	n64dd-mame
+d12e1e0e8c5ff6241a3db11030787f50	mario artist - communication kit [nud-dmbj-jpn].bin	n64dd-mame
+cf539bbfcc99c9f4b16120381ec7de44	mario artist - paint studio [nud-dmpj-jpn].bin	n64dd-mame
+ab9a8855fbc5a3f09fb169feea091071	mario artist - polygon studio [nud-dmgj-jpn].bin	n64dd-mame
+7ad39b62e0aa3a0b76a6bef2d2da5b31	mario artist - talent studio [nud-dmtj-jpn].bin	n64dd-mame
+dfde089a3a36bd08eee9a931324d1c9e	randnet browser [nud-drdj-jpn].bin	n64dd-mame
+6f75181344e3648e9bd0e98c9061d3db	sim city 64 [nud-dscj-jpn].bin	n64dd-mame
+3e1a6fa33ff59e9266baa43501d09328	sm64disk.bin	n64dd-mame

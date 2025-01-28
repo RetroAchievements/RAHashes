@@ -1,0 +1,211 @@
+deaa6e9f7bef3a7af55c6e899967bf79	007 james bond [v2.6] [40k map].bin	sg1000-mamesl
+47cd2d0bbcb879302f83f2f7058f49d4	bank panic (japan).bin	sg1000-mamesl
+11a5694d472766fed9c6eb1e09a851bf	bank panic (tw).bin	sg1000-mamesl
+d2b0524a2cf5754c0fa1c900e9ecb06b	black onyx, the (japan).bin	sg1000-mamesl
+0bf5b6959fc1b58d8e37f9647f47a0b3	bomb jack (japan).bin	sg1000-mamesl
+a50378abe2636c5c47966b74a14dd127	bomb jack [chinese logo] (tw).bin	sg1000-mamesl
+20545caa00c6a8512ccd767e4911575a	bomb jack [english logo] (kr).bin	sg1000-mamesl
+8db486c33c7d688bd5c0e9a81dee2d29	bomb jack [english logo] (tw).bin	sg1000-mamesl
+9cdd1462ddeaef610d15dba01bd926f0	bomb jack [korean logo] (kr).bin	sg1000-mamesl
+25044d56bc18ad8b66a726c2f9d0b26b	bomberman special (tw).bin	sg1000-mamesl
+cd87c1a8cd8bc137673a7fb057e2142e	bomberman special [dahjee] (tw).bin	sg1000-mamesl
+25c742e43bc9f1329f3f26502fefb10a	borderline (japan, europe).bin	sg1000-mamesl
+1c2c5851deb0e9142b5ff19e8dcd8442	cabbage patch kids (tw).bin	sg1000-mamesl
+a85ec287bb4151875446c245750fb8c0	castle, the [msx] (tw).bin	sg1000-mamesl
+286ba24b335a1600dfc611a0a9fe7875	chack'n pop (japan).bin	sg1000-mamesl
+64c1a50fb9f0293d7143d53579e2e62f	chack'n pop (tw).bin	sg1000-mamesl
+e8698b111a3548088932fd4528316a1d	challenge derby [16k].bin	sg1000-mamesl
+c992629aced299a29d65026178a582d8	challenge derby [40k].bin	sg1000-mamesl
+5fac8915a1c8a84bdfcdbe4611f4652d	challenge derby [ver.b] [40k].bin	sg1000-mamesl
+ec2d21452b4cbb6b302e9319fdab7e39	champion baseball [16k] (tw).bin	sg1000-mamesl
+308e337a863bb9fa952426ef99180aa7	champion baseball [40k].bin	sg1000-mamesl
+71c32b1cf1e85d217421068ac8ccc655	champion billiards (japan).bin	sg1000-mamesl
+256a6d4bd6dbbe7aa99de513eac6ba2f	champion billiards (tw).bin	sg1000-mamesl
+7527098abb9df1db29ba9f495b06998a	champion boxing (japan) (mycard).bin	sg1000-mamesl
+3e346c6137cab263643e42411f64a74d	champion boxing (tw).bin	sg1000-mamesl
+6a865bf09faab7fabacb95eb70e3fc9d	champion golf (kr).bin	sg1000-mamesl
+3c01bb2a4414989378c252f45a4e5050	champion golf [card].bin	sg1000-mamesl
+b3af58c60e62bb85522ddc29096cef60	champion ice hockey (japan).bin	sg1000-mamesl
+ac3dd2d12e2bdfc7804cb2ef2c213162	champion ice hockey (kr).bin	sg1000-mamesl
+1b4badba14b7cca71f159f1ce9fba29e	champion ice hockey (tw).bin	sg1000-mamesl
+ed6e4e8e081b56be488f57abcb51a7e5	champion kendou (japan).bin	sg1000-mamesl
+c19ccd8e05e8230d91a8d2c8430d23bc	champion kendou (tw).bin	sg1000-mamesl
+da9a4589303370e8a751c16b2cbfa628	champion pro wrestling (japan).bin	sg1000-mamesl
+810064687e1614b6a7fb985b82806d31	champion soccer (japan).bin	sg1000-mamesl
+f29b59c3588e3b952e1ad79c1e1dc8a0	champion soccer (tw).bin	sg1000-mamesl
+f49d9ea611ccb9289994774406f20d06	championship lode runner (japan).bin	sg1000-mamesl
+9b1cc0bdbdf3aeffc655a965dec4aa94	championship lode runner (tw).bin	sg1000-mamesl
+0500fe7f7cbda7a9ec19be1094aa67dd	choplifter (japan) (proto).bin	sg1000-mamesl
+ee557c7811f03c44965a56b80801a3b9	choplifter (japan).bin	sg1000-mamesl
+1ef268192df49e92d1f074e1bc3200dd	choplifter (kr).bin	sg1000-mamesl
+ab4105fd66e149e2bfbd5e5566e6aa76	choplifter [chinese logo] (tw).bin	sg1000-mamesl
+dac1f7d97039682793378fdba7ee2d8e	choplifter [english logo] (tw).bin	sg1000-mamesl
+3427ae928bce91b314e62be92dbf8446	choplifter [no logo] (tw).bin	sg1000-mamesl
+05940e2d44f81e163dab4a5a6f29645e	circus charlie (kr).bin	sg1000-mamesl
+46b1f9c6693ed7d1d0c5a6d72872398a	circus charlie (tw).bin	sg1000-mamesl
+499fe90988a60a6325465606695e7754	congo bongo (tw).bin	sg1000-mamesl
+35aa60be1827402f86065e226888fb44	congo bongo [v0].bin	sg1000-mamesl
+a0620fb61aa7d023ca52c5eee559832f	congo bongo [v1] [40k map].bin	sg1000-mamesl
+5f4d3c629e37e83794233b3cffc4cc0e	congo bongo [v1].bin	sg1000-mamesl
+d87daad7de33105d703b613052ccc2dd	c_so (japan).bin	sg1000-mamesl
+25ac91afc22f7a09ff4543af653cd281	c_so (tw).bin	sg1000-mamesl
+c9412b2aa1de5070734297573dba7132	doki doki penguin land (19xx)(-)(tw).bin	sg1000-mamesl
+79f15598828e697e75c65130262d8d94	dokidoki penguin land (japan).bin	sg1000-mamesl
+0528eed7e7ae46ec8298098f1a22d18f	dragon wang (japan) (alt).bin	sg1000-mamesl
+64d3cc8117292f6d5af8e1aad95bcb90	dragon wang (japan).bin	sg1000-mamesl
+ea0c028dabd39961eb2db8f2f17c107d	dragon wang (tw).bin	sg1000-mamesl
+0dc1cde8eea986eee30c038f18a996d7	dragon wang [v0] [english logo] (tw).bin	sg1000-mamesl
+8eb2ab42d2bc3f3568e85cba2b46a251	drol (japan).bin	sg1000-mamesl
+0facbc1668dedbcb579d08df4e232699	drol (kr).bin	sg1000-mamesl
+0423892eefd3d09a7102651f8980cc39	drol (tw).bin	sg1000-mamesl
+23c751fe6bb8bd4f8c0cd9b0d39adecd	elevator action (japan).bin	sg1000-mamesl
+3787826f22b244b48933f177306706b0	elevator action (tw).bin	sg1000-mamesl
+eb3f8f679f32e6bcc4489280df7be7f3	exerion (kr).bin	sg1000-mamesl
+c8519ef63183e8398dde0bd3e7e2641e	exerion (tw).bin	sg1000-mamesl
+b52e308e1c0005bc1dba2ba900ad44d0	flicky (japan).bin	sg1000-mamesl
+5d4c4c65e668196a3d0eadcd260a0bf6	flicky (tw).bin	sg1000-mamesl
+0bb6d2a43b340f56366edabd7e21fed4	flicky [v1].bin	sg1000-mamesl
+7e31ffe1446d6b792d0debf87bcc3f75	galaga (tw).bin	sg1000-mamesl
+ac95c0655360f667e3ad705e2eb7367a	girl's garden (japan).bin	sg1000-mamesl
+83065f5045611f3d6d7b67382357dcc6	girl's garden (tw).bin	sg1000-mamesl
+cb25a12e86c729f6a51ba3dea91c1547	golgo 13 (japan).bin	sg1000-mamesl
+19707d73ce1a664cba608e9c72e334c2	gp world (japan).bin	sg1000-mamesl
+5a533ddf9c0c72c57376ea151ece1c03	gp world (tw).bin	sg1000-mamesl
+43c23a134aec3ab424405780ff729d54	gulkave (japan).bin	sg1000-mamesl
+33902566e0070ef7c53f2afa97ec9968	gulkave (kr).bin	sg1000-mamesl
+f3f1042745e96e29bfdf920d031b8cd5	guzzler (japan) (om).bin	sg1000-mamesl
+36548be02803aa49fe0e918626e240c1	guzzler (tw).bin	sg1000-mamesl
+d10f38c614113cb34bbf4a19b487e1fb	h.e.r.o. (japan).bin	sg1000-mamesl
+6136e2e6dda483cb311c72843c2ee5cd	h.e.r.o. (tw).bin	sg1000-mamesl
+89be9de818fa13dca0ececd6575af06a	H.E.R.O. [english logo] (TW).sg	sg1000-mamesl
+314c865decbe6f578d9bfa23f27a08e6	hang-on ii (japan).bin	sg1000-mamesl
+21b077d68d38be01837d534b0c1be2e9	hang-on ii [chinese logo] (tw).bin	sg1000-mamesl
+ebe4433a6250abd81be69f15b41c566c	hang-on ii [english logo] (tw).bin	sg1000-mamesl
+cb724ebeaec9619281a906671c98a952	home basic (jp).bin	sg1000-mamesl
+d7322428a4fb49ac593f80f30d3c7bd3	home mahjong (japan) (v1.0).bin	sg1000-mamesl
+33c4b489f61086c10e9f713519ddc7bc	home mahjong (japan) (v1.1).bin	sg1000-mamesl
+8fab99c3cc9a7a98d8873eaf215a5fa0	home mahjong (tw).bin	sg1000-mamesl
+8be690d357a99abd26ebb5378e9c0153	hustle chumy (japan).bin	sg1000-mamesl
+c06fa11763d119620f6a908516c1e8ad	Hustle Chumy (TW).sg	sg1000-mamesl
+c40aecc0fc766bb26c76b6855bbe4fad	hyper sports (kr).bin	sg1000-mamesl
+f72f3def79ffd82fe2224f4732b2b994	hyper sports (tw).bin	sg1000-mamesl
+e329ee584187d4b156e26faf3ef1a960	hyper sports 2 (tw).bin	sg1000-mamesl
+b2ac0c7755e0d6ba0a737861ee190a53	james bond 007 (japan) (v2.7) (om).bin	sg1000-mamesl
+019ccca4d5ca138719497c510dea926b	james bond 007 (tw).bin	sg1000-mamesl
+ff28e684eb3952ae3f7cf3e3d1c507ef	king's valley (tw).bin	sg1000-mamesl
+e0321cd713ec1b48ff88f7df13e3ce28	knightmare [jumbo] (tw).bin	sg1000-mamesl
+cfc8e61f51388609421ffe87539cad44	legend of kage, the [dahjee] (tw).bin	sg1000-mamesl
+5e38ab4ebb38195ba852ba7ed12750a4	link world.bin	sg1000-mamesl
+5146c83814c930be839f123dcd3b591d	lode runner (kr).bin	sg1000-mamesl
+2bea9ee88e177a13d7961017dd4f6120	lode runner (tw).bin	sg1000-mamesl
+c12474e0a2556adb2478bc4d99faba51	magical kid wiz (tw).bin	sg1000-mamesl
+014f702585a68399afe55ea63ba0f7de	magical tree (tw).bin	sg1000-mamesl
+d9da8a32bd3b18881dfa2b469c85944e	mahjong (japan).bin	sg1000-mamesl
+bb8da563cb6a38611b736c4973b56e1e	mahjong (tw).bin	sg1000-mamesl
+1dbb5c85962c2110ffe35ec536f96329	mahjong [big 1983].bin	sg1000-mamesl
+d7ab64f92c3d146565e4f9d771fec7c9	monaco gp (tw).bin	sg1000-mamesl
+943bca1e51476b646f19c17a9d9ab42c	monaco gp [24k].bin	sg1000-mamesl
+cda3731948a50bb396b380f7fc82ec12	monaco gp [32k] [v2].bin	sg1000-mamesl
+74121fd6f1024ee3d3f5d1db29956d7d	monaco gp [32k].bin	sg1000-mamesl
+d047c10d6b27cf34ccb66340a089523a	mpr-10159.ic1	sg1000-mamesl
+1d87490269964239b64244fcabd18fe1	mpr-5435.ic1	sg1000-mamesl
+79e8f456fae5d3719731e960c9b4c612	mpr-5439.ic1	sg1000-mamesl
+7b0f2be3588337df59959ababbefe505	mpr-5546.ic1	sg1000-mamesl
+8f46800e6fc7d5a40716045f6d739932	mpr-5556.ic1	sg1000-mamesl
+7f0ae039dd072d825ebfd2d3bf02a2a0	mpr-5692.ic1	sg1000-mamesl
+0f45fa8e9b985fd5c6545645462b9400	mpr-5743.ic1	sg1000-mamesl
+8384956e456a91ca59f9c5e72f1cb1c4	mpr-5977.ic1	sg1000-mamesl
+4b4f02eb3cf7d5f9dcd1311d72e6d742	mpr-5998.ic1	sg1000-mamesl
+3f54756fd73c3fbe33b56d7954d12f31	mpr-6100.ic1	sg1000-mamesl
+f70d4bcf91d3ad9313f9800f35b49536	mpr-6381.ic1	sg1000-mamesl
+4d9cc3764321b668d1fc238e19794312	mpr-6485.ic1	sg1000-mamesl
+d8e6d89d520c91a9ea219291b55284bb	mpr-6487.ic1	sg1000-mamesl
+414196527aa0979e6516f5c55d1bb8c7	n-sub (europe) (1988).bin	sg1000-mamesl
+1a800abac4c55948528d2a62771c10a9	n-sub (tw).bin	sg1000-mamesl
+56c559d0d82a3e6fb2e87230d39f32f4	n-sub [16k].bin	sg1000-mamesl
+cfced1ba39adee6a75dc830ed9c12f73	n-sub [40k].bin	sg1000-mamesl
+28d83150c298bcdae6aec51cc2c6975a	ninja princess (japan).bin	sg1000-mamesl
+96c1dc438a7b4269ee0d5414a6f13dc2	ninja princess (tw).bin	sg1000-mamesl
+009a804fb1d28775519312ffdf3c8d70	okamoto ayako no match play golf (tw).bin	sg1000-mamesl
+07ca24bef805f15d13d3123c765c3039	okamoto ayako no match play golf [a] (jp).bin	sg1000-mamesl
+0195c955df38b55f6f12694179503f10	okamoto ayako no match play golf [b] (jp).bin	sg1000-mamesl
+3f429704761d34d7793e7123a183d7f6	othello (japan).bin	sg1000-mamesl
+aa741b3264ee312c291b2c8ab0d73a04	othello (tw).bin	sg1000-mamesl
+722da0d7454c99ba46d432ee3d003464	pacar (tw).bin	sg1000-mamesl
+c672bc2409443cc5bca35abd041d11e0	pacar [40k map].bin	sg1000-mamesl
+37f5e516d9fbce05052204b67379a6da	pachinko (japan).bin	sg1000-mamesl
+eadae13ff73047a47f354e258c12619e	pachinko ii (japan).bin	sg1000-mamesl
+a3409283bf8c808a15095cc005a74975	pachinko ii (tw).bin	sg1000-mamesl
+97f8b798ad727563b1ee42cf41697fed	ping pong (konami's) (tw).bin	sg1000-mamesl
+2b99db5c8a7a9a45c174088bab310803	pippols [jumbo] (tw).sg	sg1000-mamesl
+38ae610eb6266d4db8bc6d3dcb8fcd4a	pitfall ii - the lost caverns (japan) (alt).bin	sg1000-mamesl
+c34260b61c6a45bbdd074df3f3e72c46	pitfall ii - the lost caverns (japan).bin	sg1000-mamesl
+030363fabd71be3c077168918fcbb51d	pitfall ii [v0] [chinese logo] (tw).bin	sg1000-mamesl
+7f2026d17c336942756ffb77ad9942c5	pitfall ii [v0] [english logo] (tw).bin	sg1000-mamesl
+7f841aa0c225662e26ca7a8df20b2eb8	pop flamer (japan, europe).bin	sg1000-mamesl
+e5082018ff7cbac17db003f159ab2dfb	pop flamer (tw).bin	sg1000-mamesl
+a768a8ae921126300e98f9d918a4a0c9	q-bert (japan) (om).bin	sg1000-mamesl
+42f2844dcc4b3979b7f538ef9f52e4a5	rally-x (tw).bin	sg1000-mamesl
+3071f939aaa0911fc0907aae5daaa160	rally-x [dahjee] (tw).bin	sg1000-mamesl
+be975a2510125ff4b545bb162826ef26	road fighter (tw).bin	sg1000-mamesl
+e872bbe06fcee32e53fb9e11b61fe762	road fighter [jumbo] (tw).bin	sg1000-mamesl
+108ffe4ba5c2c8c5e0459cb7f0cfac0e	rock n' bolt (japan).bin	sg1000-mamesl
+f05b48934a7d29ab2719273cbdc45b28	rock n' bolt (tw).bin	sg1000-mamesl
+0cbbd9fafc39cccefd8d0b8fca3b3d33	Rock n' Bolt [english logo] (TW).sg	sg1000-mamesl
+f77826f62d943c4a24f7fb9c3bb4a5f9	safari hunting (japan).bin	sg1000-mamesl
+48185bc0b8ed743c6a44f2759219b955	safari hunting (tw).bin	sg1000-mamesl
+eac09096175cbb2fb49468d475fdec88	safari race (tw).bin	sg1000-mamesl
+cac358543f85bc060918638bb594fac9	safari race [1988].bin	sg1000-mamesl
+6cd591be7b3aa4ed9c1f7038c581106a	san-nin mahjong (alt).bin	sg1000-mamesl
+fe641daee46a4f55aa79dcb23114971c	san-nin mahjong (tw).bin	sg1000-mamesl
+cf02277eacdf348dbde960769a0b0d55	san-nin mahjong.bin	sg1000-mamesl
+3f2acc9de65c8496c3d8470ef12dc210	sega flipper (japan, europe).bin	sg1000-mamesl
+3cfec6aa7bfdf81b40b7ee6d630f5c03	sega flipper (tw).bin	sg1000-mamesl
+49c7c14879a437e60730b62a7550cdf6	sega flipper [40k map].bin	sg1000-mamesl
+e2619cf7c307ac1916c534519f6043d9	sega-galaga (japan).bin	sg1000-mamesl
+7f7e1d564448fdce96d239ad9ebf37d6	sega-galaga [40k map].bin	sg1000-mamesl
+63713feb1c8b8da77bd2e8cf03fe0a4c	serizawa hachidan no tsumeshogi (japan).bin	sg1000-mamesl
+c958ae8d0ad245ce65db5bb06b1c2c0e	sg-1000 m2 check program.bin	sg1000-mamesl
+a8094de8e2c72e9490e421f66ba2777b	shinnyushain tooru kun (japan).bin	sg1000-mamesl
+ff6c07ce43d99b4ef732b5df7e73a5a7	shinnyushain tooru kun (tw).bin	sg1000-mamesl
+db6b5ff4d8c8cef6d0c9f2d004f56bf6	sindbad mystery (tw).bin	sg1000-mamesl
+6cae3b6286041e742020aeb3cd2bdf52	soukoban (japan).bin	sg1000-mamesl
+cbd4d466882ba81d5eb63e849797fd4c	soukoban (kr).bin	sg1000-mamesl
+417368339f45d0ede7df03c9a6f96b27	soukoban (tw).bin	sg1000-mamesl
+9334ef849d22ae49f1d816ea068bf055	soukoban [iq logo] (kr).bin	sg1000-mamesl
+49587defd7dd2e6fd87e01e7f48d132f	space armor [v0] [40k map].bin	sg1000-mamesl
+16a9d6fc4a959c84db189c59fdf39d22	space armor [v1].bin	sg1000-mamesl
+b6aff368af8c8e1f0ae257c519d96ca8	space armor [v2].bin	sg1000-mamesl
+87a97b049ec01b1803b93f06d0407586	space invaders (japan).bin	sg1000-mamesl
+47359548b666e9e1b6287df5688e2fd2	space invaders (tw).bin	sg1000-mamesl
+2321b2a684b83d58489fda2df66ab6fb	space mountain (japan) (om).bin	sg1000-mamesl
+c04dc7fb9d27629735edb1570ec39f00	space slalom (japan).bin	sg1000-mamesl
+2cbd1f9f4927f9618390340f56f116a6	star force (japan).bin	sg1000-mamesl
+3011655195d3a299f3a53255e0d7939a	star force (tw).bin	sg1000-mamesl
+19649d51aee49a9fef103de6b1a7a17b	star force [b] (tw).bin	sg1000-mamesl
+eccad04698782862f3785ff9708f73e8	star jacker (japan) (v1.0).bin	sg1000-mamesl
+658ede490eae6af2b0f61dd136761d95	star jacker (japan, europe) (v1.1).bin	sg1000-mamesl
+22200ef1461212cacdc58f6636d759fd	star jacker (japan, europe) (v1.2).bin	sg1000-mamesl
+0104171ade3cfeaf10c92926869e2a52	star jacker [v1] (tw).bin	sg1000-mamesl
+cb95017c8d13d95c91129f9b3b1f6798	star soldier [dahjee] (tw).sg	sg1000-mamesl
+59d01bf1093a65e9ec08e533cfbbc5ff	super tank (japan).bin	sg1000-mamesl
+e4b0859bd9cb372e41f81e593c67f225	super tank (kr).bin	sg1000-mamesl
+bcb549a442584255601dc7938accd2d6	super tank (tw).bin	sg1000-mamesl
+dada9d76f7743089811dcc8ec1543076	tank battalion [dahjee] (tw).bin	sg1000-mamesl
+be31a84bfa537117a62eaeb8c0a07bf9	terebi oekaki (japan).bin	sg1000-mamesl
+8c2c0d7e8415ae7b0c577cf947e89e78	twinbee [jumbo] (tw).bin	sg1000-mamesl
+6dbcbfcd15bd206aca31dd2557f4e44d	uranai angel cutie (jp).bin	sg1000-mamesl
+76f29fee0cd3af921e488a276dace636	wonder boy (japan).bin	sg1000-mamesl
+d6fab98601ade59cf90a500c05446163	wonder boy [v1] (tw).bin	sg1000-mamesl
+d26fabfe84ad40ae04a2cd3dc6cf75df	wonder boy [v1].bin	sg1000-mamesl
+0dd197a0e1f43c0684f98b52514fce59	yamato (japan, europe).bin	sg1000-mamesl
+9c751fb92d2280d89ee9c273f3c6785a	yamato (tw).bin	sg1000-mamesl
+653d415ed202c09c08207c83f9e311eb	yamato [40k map].bin	sg1000-mamesl
+b14852ce157619fd60666a6474936d69	yie ar kung-fu (tw).bin	sg1000-mamesl
+c1f51f5dbfb859b1204a812d9c08ffd3	yie ar kung-fu ii [dahjee] (tw).bin	sg1000-mamesl
+52bbf5336c190610a0fb1ab0bdaca455	zaxxon (japan).bin	sg1000-mamesl
+bb1c5b1071d5b9224b7733d60465e769	zaxxon (tw).bin	sg1000-mamesl
+0eda34ba313d3bb34558fd5939b19794	zippy race (japan).bin	sg1000-mamesl
+16856425e0bcc3ab475f46f7cfd00402	zippy race (tw).bin	sg1000-mamesl
+4e457a6c5b4b613f2aac3472f6827a89	zoom 909 (japan).bin	sg1000-mamesl
+d99925f7b3fa1961906f169b61f1a492	zoom 909 (tw).bin	sg1000-mamesl

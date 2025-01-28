@@ -1,0 +1,43 @@
+f7bf7d55a7660ffa80d08ad1ba903ff7	alieninv.bin	channel-f-mamesl
+d89b48ae8c906488caac2b2ae1d63d88	backgmmn.bin	channel-f-mamesl
+4fa83f734c139963aa02bdbb7a52e500	baseball.bin	channel-f-mamesl
+25e231e7a464a32b4715bfb47af89240	bowling.bin	channel-f-mamesl
+bb7f7bbbe21f142591cdcafa98d7f6e4	casinop.bin	channel-f-mamesl
+35d61d40ef7ec337cba092aabac74dbd	checkers.bin	channel-f-mamesl
+94530113a22ae27af6ed87b98d9af62a	color organ (proto).bin	channel-f-mamesl
+54cf17c48707467295749490d458eafb	democrt1.bin	channel-f-mamesl
+f6916b665893aa8138cde57c37e50ada	democrt2.bin	channel-f-mamesl
+6ffedaed3c5cd8ba74d98901849cc451	dodgeit.bin	channel-f-mamesl
+f80af74b09d058b90e719bb7dfbdd50e	dragrace.bin	channel-f-mamesl
+06cd8cfe851390c92ac2b7c4d28d6b97	draw poker (proto).bin	channel-f-mamesl
+4f11f13cbca685cb20e888f87b3b1586	dsrtfox.bin	channel-f-mamesl
+819f06cfc48d7f38e756f82b22dcaf4d	football (proto).bin	channel-f-mamesl
+9e0711b140e22729687db1e1354980ab	galactic.bin	channel-f-mamesl
+5cccee534fd002af6eb4fcaaa6b95d88	glactic space war (proto).bin	channel-f-mamesl
+0124cd0b61df5502aabd59029ccb6d5a	hangman.bin	channel-f-mamesl
+4c10fa5c7316c59efa241043fc67dfa8	magicnum.bin	channel-f-mamesl
+6565df74539476d66fd78de1bac0259c	maze.bin	channel-f-mamesl
+53e4cc2da0f2c167e0692b794cb7692c	mazealt.bin	channel-f-mamesl
+2b3ca549e27579e4519a765fd8f52d0f	mmrymtch.bin	channel-f-mamesl
+a8e6103fcae4d0f9e14d9edcfc3fc493	mthquiz1.bin	channel-f-mamesl
+86b77eafdf7b806e19e01724987e384f	mthquiz2.bin	channel-f-mamesl
+1fbd86dcca0e4619963b902c48ae77f2	muehle.bin	channel-f-mamesl
+dfc3df32f9fb558a6e54928559d67fe7	multigame older.bin	channel-f-mamesl
+0c8ae0e5776d48022f8d2b9642c6a197	multigame rom.bin	channel-f-mamesl
+c2a44d22d3865b036479e9311c74d3ad	ordtvlng.bin	channel-f-mamesl
+9a894d745356a050f95410983c3bc54a	pfootbll.bin	channel-f-mamesl
+e90339b7068c6227d54f3c0ca637e017	pinball.bin	channel-f-mamesl
+5cbcda1c44f0dad02b0dfe209b6325d5	pinballa.bin	channel-f-mamesl
+913ecbaa30816c6d78de8651251761fc	ratmal.bin	channel-f-mamesl
+facb452602f59fddde1cfbc4d598a282	robot war (proto).bin	channel-f-mamesl
+3783b6ac359e21b99cfa17773aa811c6	robotwar.bin	channel-f-mamesl
+5568205f926333914dedc8ef8bf16af2	schach.bin	channel-f-mamesl
+dfb66ee145fab65062fdeadafc8dc34c	slotmchn.bin	channel-f-mamesl
+4cb12edae37df23851884b82ca410754	sonrsrch.bin	channel-f-mamesl
+32cca8ff09041a39251d7aade21ee22f	spacewar.bin	channel-f-mamesl
+5b86fe22007e6d0a92247809ac8934e9	spitfire (proto).bin	channel-f-mamesl
+1b409fe1154584f4d1ab76b344a73d99	spitfire.bin	channel-f-mamesl
+7e5c26a6d1f9a90c68669a9800ba522d	tctactoe.bin	channel-f-mamesl
+b074c867f235fb69ced96c6916673b45	vblckjck.bin	channel-f-mamesl
+90a9b3952568f91502a7088bfb0ae07e	vwhzball.bin	channel-f-mamesl
+c3c7b3246e50117bd5cddb2b53e6fbae	werbetextcassette.bin	channel-f-mamesl

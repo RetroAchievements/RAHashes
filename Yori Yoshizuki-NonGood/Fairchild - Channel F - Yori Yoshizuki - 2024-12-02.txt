@@ -1,0 +1,79 @@
+a198fde76af3ef8437df2e5e150a41a0	Acetronic Chess Traveller.bin	channel-f-yoriyoshizuki
+888b7d8a3a515e8e7a2320457c776fee	blackjack-en05.bin	channel-f-yoriyoshizuki
+2353e1832717f0f6d3ebb5a311323aba	BotB 13123 internal invasion.bin	channel-f-yoriyoshizuki
+61d64fb25ca3266df37a5f53e4dc7f0a	BotB 13124 standing still (move on).bin	channel-f-yoriyoshizuki
+6c78d90acf273cf12d7193aca5d4bcc2	BotB 13125 i am afraid of melodies.bin	channel-f-yoriyoshizuki
+3241220295e5d8b7893ab9673cd2bebd	BotB 18001 Ktcmoop - Partly Cloudy.bin	channel-f-yoriyoshizuki
+7542ec9244672c9661ce67cacba4f04a	BotB 20619 irrlicht project - f8 fanatic.bin	channel-f-yoriyoshizuki
+c020279425e13ec8eb5e76e8b0f240c7	BotB 20655 Chip Champion - butt beats.bin	channel-f-yoriyoshizuki
+2a5dbfc865dc7ec63c988bbb0d0fed63	BotB 20780 gotoandplay - Fair is Foul.bin	channel-f-yoriyoshizuki
+396272c1a9ca72f6a806cda8b58c701d	BotB 20786 OrdinateIsDead - POWELL.bin	channel-f-yoriyoshizuki
+f6773d3ca6422bf8d557493f0cbcc2ea	BotB 20845 Warlord - Miniquest.bin	channel-f-yoriyoshizuki
+9d0a80725d017c6b84a90dcf7faca945	BotB 20861 Savestate - Hebus Pebus Abracadabra.bin	channel-f-yoriyoshizuki
+4474b4292974885b6fa91eddc90087f5	BotB 23744 Savestate - Brain Promenade.bin	channel-f-yoriyoshizuki
+0c98cc53484d9f26b5333a7bf5b8e002	BotB 23777 gotoandplay - effinity.bin	channel-f-yoriyoshizuki
+f2e22e988cfa2ed3d4ec647bac3c94b3	BotB 23822 OrdinateIsDead - F-.bin	channel-f-yoriyoshizuki
+c5e77991bd5ac4622838c62f7b284fb7	BotB 23829 garvalf - Dancing with Succubus on BOTB floor.bin	channel-f-yoriyoshizuki
+7585eb39ed519372a6a898d0b00fa0db	BotB 23959 th4 D34D - b00daw's Quest.bin	channel-f-yoriyoshizuki
+7521ff992b4ffc98f1a948727f06628f	BotB 23981 irrlicht project - Raqsat alFasida.bin	channel-f-yoriyoshizuki
+83d40675f53d87b8e327931fd8180886	BotB 24074 Dimeback - It Ain't Easy Being Sleasy.bin	channel-f-yoriyoshizuki
+42390b6f73b64ee4227f419064bdbcf3	BotB 27114 Minerscale - Marco Bruno (NTSC).bin	channel-f-yoriyoshizuki
+2282bd72bd9c1181d219acbc1050c76d	BotB 27130 Warlord - Zombie March.bin	channel-f-yoriyoshizuki
+cfb1334d04591466fde83b904b742afe	BotB 27158 Chip Champion - FU2.bin	channel-f-yoriyoshizuki
+6ca53894cadef7f2bc803df8a1cd8996	BotB 27174 gotoandplay - channeler.bin	channel-f-yoriyoshizuki
+1f77cd9798cfeadac997def34e4536ca	BotB 3612 Chip Champion - whatTHeFchannel.bin	channel-f-yoriyoshizuki
+c4d41b4eb90eb7c06c68eaacdede0c74	BotB 3669 trap15 - Channel FFFFFFFUUUUUU.bin	channel-f-yoriyoshizuki
+c5958a34d3de72b07130a50e4c256bb3	BotB 3681 Warlord - Say F for failure.bin	channel-f-yoriyoshizuki
+b3b72314411b118fe1daf3754fa746d3	BotB 5046 Chip Champion - Channel F it.bin	channel-f-yoriyoshizuki
+c88215a3476a32efe415bd1f3dcc24d6	BotB 5101 Warlord - Falling apart.bin	channel-f-yoriyoshizuki
+59d74b53e7eca6bd08e6954c13a8289d	BotB 5107 b00daw - 0 or 1.bin	channel-f-yoriyoshizuki
+b95dbf19c0171f6069e0bd4977dcac24	BotB 5185 irrlicht project - krungeon creeper.bin	channel-f-yoriyoshizuki
+07be0dfeef2858fc4649bce1a0bfdf05	BotB 7920 salty_dance.bin	channel-f-yoriyoshizuki
+ead9fec47b92985ea89f1a405a2bd809	BotB 7921 song.bin	channel-f-yoriyoshizuki
+9c10e30903f97804eeb6839a71823b0f	BotB 7922 gnome rpg.bin	channel-f-yoriyoshizuki
+684a63a80b69d13a119afda901281aeb	BotB_02363 team_e - monstor mosquito from nigeria.bin	channel-f-yoriyoshizuki
+5408b86601109d1256a5818b4c081750	BotB_02368 dickfag - vrhrmrnt scrapyard.bin	channel-f-yoriyoshizuki
+69e0ddce27234bed77cc0ef49a6c4dcb	BotB_02374 Kulor - More like 'Panel F'.bin	channel-f-yoriyoshizuki
+e918e6433d20f3b4dc58b87a2b8e11f0	checkers-en04.bin	channel-f-yoriyoshizuki
+4e1ba63a395c10fb840b0562f85b78b9	f8ofNations b w.bin	channel-f-yoriyoshizuki
+cd4f1532783b016a84b6dc85163ded2c	f8ofNations color score.bin	channel-f-yoriyoshizuki
+35122b66ff4527107f9780392b32335f	gladiator-en01.bin	channel-f-yoriyoshizuki
+64513326a85f3109b8087c1bdc7a6f57	hexdump1.bin	channel-f-yoriyoshizuki
+20730771d23b6033488862960312b791	Kurt_Woloch picture v3.bin	channel-f-yoriyoshizuki
+c76502c8631b810171ba252d091a8990	lemonadestand-ed06.bin	channel-f-yoriyoshizuki
+3d09fe31dbf8d9fa1d8b046f06f7ab81	mathtutor1-ed02.bin	channel-f-yoriyoshizuki
+342ce17ffdbc04380126a66ad9561d75	moving7 (Killer Heads of Lettuce (Channel F)).bin	channel-f-yoriyoshizuki
+baf34173a825959eb988fa36a9c9f2c8	musicteacher1-ed01.bin	channel-f-yoriyoshizuki
+6ffa402c36e30d6e967151a94afb68e7	nepharious_atarious.bin	channel-f-yoriyoshizuki
+f78a28f628450c3cd698596a99a40e1e	Pac-Man (2004)(Blackbird).bin	channel-f-yoriyoshizuki
+63cca08f0712078cee26e23d7265bf2d	Pac-Man (2009)(Blackbird & Blaoholtz).bin	channel-f-yoriyoshizuki
+e97cb62eeb4a1da949cc769375712609	pinball-en02.bin	channel-f-yoriyoshizuki
+9f8d337099dea055675cf770bc807221	scroll (2009)(Blaoholtz).bin	channel-f-yoriyoshizuki
+a076fb73a4f3a1f234b77e225f268b9f	scroll3 (2009)(Blaoholtz).bin	channel-f-yoriyoshizuki
+d26515accfc3a3ea00bdb5f9989a5a4b	Sleizsa - Fairchild Channel F Sequencer v0.31 - noise-test.bin	channel-f-yoriyoshizuki
+18b67f752add4a6bccdabad8be59717a	Sleizsa - Fairchild Channel F Sequencer v0.31 - scale-test.bin	channel-f-yoriyoshizuki
+27172b9a164fc70e635d4230509d0e6a	Sleizsa - Fairchild Channel F Sequencer v0.31 song.bin	channel-f-yoriyoshizuki
+0eef19d2050146a193b6a3cdd97ab65d	Sleizsa 0.21 baron knoxburry - fNiNJA.bin	channel-f-yoriyoshizuki
+1c9f4ec9a70a4e5cd30a35e4598668c7	Sleizsa 0.21 test song.bin	channel-f-yoriyoshizuki
+b142345a9f3540962564e9a7785eada7	Sleizsa 0.21 warlord - boogie2.bin	channel-f-yoriyoshizuki
+d393faf22491f39f3be29afbc08e2394	song.bin	channel-f-yoriyoshizuki
+f52837d6e01b1f29a714da2fb89212f7	tennis-en03.bin	channel-f-yoriyoshizuki
+ee5983084627b673da4ea6075ac0e6e7	test.bin	channel-f-yoriyoshizuki
+6bf14437b0a1c5a9586bb9f1d6e9b6f2	US4232374 data $1200.bin	channel-f-yoriyoshizuki
+ef6a663ab33180988207e974762ee222	VB-1000 Money Minder.bin	channel-f-yoriyoshizuki
+41dd30d2e4136759aa61d5d1f862eb18	vbdemo.bin	channel-f-yoriyoshizuki
+bf50748ac4d75ec25642eee8a61ab436	vbfinancier.bin	channel-f-yoriyoshizuki
+5483d20ab6c2ce83bff85e7d88fa36b0	vbmulti0.bin	channel-f-yoriyoshizuki
+565810860ce2059af0ec3b40dc1ddcc1	viceversa-en06.bin	channel-f-yoriyoshizuki
+3424075fef8899e0be9c3280004c2376	videoartist-ed05.bin	channel-f-yoriyoshizuki
+41de2bceffb8257930a16e03fc431550	VideoBrain Expander I ROM.bin	channel-f-yoriyoshizuki
+ec57540d8164d2330a215df765330951	videobrain_hello_world_KW_Rev1.bin	channel-f-yoriyoshizuki
+bbd4ccc43f2be41e053515b3f5f9e0ed	videobrain_hello_world_KW_Rev2.bin	channel-f-yoriyoshizuki
+7902de53deb05d19c777be786874c90c	videobrain_hello_world_KW_Rev3.bin	channel-f-yoriyoshizuki
+463f5b92a0eb1a37f8db667d110e677a	videobrain_hello_world_KW_Rev4.bin	channel-f-yoriyoshizuki
+39692a4382c2af335743acf4251aee63	videobrain_hello_world_KW_Rev5.bin	channel-f-yoriyoshizuki
+97e244e929464db97393efde33c8b7c0	videobrain_hello_world_KW_Rev6.bin	channel-f-yoriyoshizuki
+c3c7b3246e50117bd5cddb2b53e6fbae	Werbetextcassette CRC32 DA351C39.bin	channel-f-yoriyoshizuki
+d33a8efdd16ad94725427b30d1a57ff2	wordwise1-ed03.bin	channel-f-yoriyoshizuki
+755cc96180baf4cc270da93896906081	wordwise2-ed04.bin	channel-f-yoriyoshizuki
+fae6449716df606874ed879fea532bfa	wumpus-kw02.bin	channel-f-yoriyoshizuki

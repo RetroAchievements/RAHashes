@@ -1,0 +1,5 @@
+30686dba4795521174658de2492e0046	1941 - counter attack (japan).pce	sgx-mame
+8ce21667658ef9c025ad007f65147c6d	aldynes (japan).pce	sgx-mame
+fc0053c0c050353b87886b1b89349168	battle ace (japan).pce	sgx-mame
+6d9ff6f70608166c88fd2553d44ca17a	daimakai mura (japan).pce	sgx-mame
+7e1e489c50fc6213196e6dbb704f6671	madou ou granzort (japan).pce	sgx-mame

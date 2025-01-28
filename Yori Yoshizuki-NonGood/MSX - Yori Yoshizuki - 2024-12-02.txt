@@ -1,0 +1,1215 @@
+abc8c56c428af2982e18476d455315ae	- a_b [Arabic MSX].rom	msx-yoriyoshizuki
+4057f27fd5a49ee8aacb7a127c82dd77	- a_basari [Arabic MSX].rom	msx-yoriyoshizuki
+15df59c43c8f71a8b48cbe94e25c59fd	- a_basic [Arabic MSX].rom	msx-yoriyoshizuki
+9610452cf67ec9de1b785f6fea0da37b	- a_child [Arabic MSX].rom	msx-yoriyoshizuki
+e67fc4a8f5ac6822e2b9aa2984b9b2c7	- a_energy [Arabic MSX].rom	msx-yoriyoshizuki
+13d82264847c5883e8401323d50acb38	- a_history [Arabic MSX].rom	msx-yoriyoshizuki
+9ab75acd8d1866884a2460cdb4ec7b1c	- a_homeland [Arabic MSX].rom	msx-yoriyoshizuki
+9817a2b16018ecaad082517a498e5796	- a_islam.rom	msx-yoriyoshizuki
+2b6798a2f72efea4ef0aba18b8f5d13b	- a_kh [Arabic MSX].rom	msx-yoriyoshizuki
+574a95f4db717db109d789420d30f06a	- a_kofi [Arabic MSX].rom	msx-yoriyoshizuki
+80c6703230ca4ca012a9613197c83b20	- a_ksoor2.rom	msx-yoriyoshizuki
+19c97d1aab09eae150f73c84f5de4f66	- a_lets1 [Arabic MSX].rom	msx-yoriyoshizuki
+fda01907af27ec84eb3a9021319cb5a0	- a_ln [Arabic MSX].rom	msx-yoriyoshizuki
+ef5c72cfb36022fbf428a9f7ea6263e9	- a_logo-a.rom	msx-yoriyoshizuki
+e92d5d7f90b3c2405da427e67a4aa900	- a_lt.rom	msx-yoriyoshizuki
+d89262b4ac0832c24601f82d4f3f4210	- a_m&d.rom	msx-yoriyoshizuki
+5195af39a0f5a70750c7347a5463f9d4	- a_makka.rom	msx-yoriyoshizuki
+e883caf7048c7de6bec17bdb934de43c	- a_memory.rom	msx-yoriyoshizuki
+58ebe849c28610e27d51883c5bd532f1	- a_mg.rom	msx-yoriyoshizuki
+107da9de9899f4d6bec91d4822218b4d	- a_mkzofat.rom	msx-yoriyoshizuki
+a6157bf2e72f44e481481bb78c30ef0d	- a_mn.rom	msx-yoriyoshizuki
+f73c304f30972ff0ae7e00ae2d6ef7a9	- a_puzle.rom	msx-yoriyoshizuki
+d1ced5385aa011cce21d66aac2ac179c	- a_secretword.rom	msx-yoriyoshizuki
+35f7861ffd8c4e7244ea932d850e52b0	- a_smallserch [Arabic MSX].rom	msx-yoriyoshizuki
+23c6c213506d33752425fb6ce56b2fac	- a_sw.rom	msx-yoriyoshizuki
+6a5b878db6c0cfb388c6594753c7d271	- a_table.rom	msx-yoriyoshizuki
+c5ff184e324b5bbf61d84bb647075868	- a_test2 [Arabic MSX].rom	msx-yoriyoshizuki
+9a6603c0cdad764b4c64c594898c581d	- a_tune.rom	msx-yoriyoshizuki
+025ea742b5a7df1ecc4235e5f8a7cbe1	- a_world.rom	msx-yoriyoshizuki
+ecf536db6903e2312d198a9d9a453294	- a_writer.rom	msx-yoriyoshizuki
+87ee6d40132c08847ceafb03f01e9174	- a_zaka1 [Arabic MSX].rom	msx-yoriyoshizuki
+d3963cf593073ab13cfd3f13d58931f2	- abc [Arabic MSX] [a].rom	msx-yoriyoshizuki
+f08efd4a98feeb5c633958aef53f0fa0	- abc [Arabic MSX].rom	msx-yoriyoshizuki
+3ce6d27af79596db1d5dd96cd23a7b83	- Add & Subtract (Al Alamiah) (1986).rom	msx-yoriyoshizuki
+088ba291967870c93c20d88fce60e2ae	- ADRIAN.rom	msx-yoriyoshizuki
+a3281f4d33ebc764e457627b6ebd533d	- Alien 8 (1985)(Ultimate Play The Game)(GB).rom	msx-yoriyoshizuki
+eed1b3052dda1d8b4794ddff2c710cbe	- Alien Attack (L. Dorsman).rom	msx-yoriyoshizuki
+5394b7088272acd54f39ade3a7e8d826	- Alien-8.rom	msx-yoriyoshizuki
+9add4682e14794535c35bb95356fd958	- ALIENSYN.rom	msx-yoriyoshizuki
+e660010a7c5fdd99305cb3b8f5f7afa9	- Alpha Roid (1986)(Pony Canyon)(JP)[a].rom	msx-yoriyoshizuki
+4941a0bd1e29fe4b5fff31eeb27dc451	- Alpha Roid (1986)(Pony Canyon)[t Saccopharynx].rom	msx-yoriyoshizuki
+3968e84c0fd5f6fa5c29d87b2e0790ce	- Alpha-r.rom	msx-yoriyoshizuki
+fbad2fb955643edb31680af483f2fd20	- Alphabets in Arabic (Al Alamiah) (1986).rom	msx-yoriyoshizuki
+8e3741121ea64c8fe290385b0548ce99	- ALPINE.rom	msx-yoriyoshizuki
+4b936ba7fc19e6a79368f37940d6b3dc	- alterego.rom	msx-yoriyoshizuki
+bafe78f6037d126086be0240c1e8ef4f	- altwars.rom	msx-yoriyoshizuki
+b073adac8809252522ba056c9a0adca2	- Alunizaje (Ignacio Jose Ferriz) (1985).rom	msx-yoriyoshizuki
+7488f669143dff2081b932b18e5256ac	- amazingkid.rom	msx-yoriyoshizuki
+1022b950227beeb54cfb5f0bf24102f1	- American Truck (1986)(Telenet Japan)(ES).rom	msx-yoriyoshizuki
+1c16e3db3e0618db8e3b48f346b38866	- American Truck (1986)(Telenet Japan)(JP)[a].rom	msx-yoriyoshizuki
+171f23f540fa267c1eb609fc4cb3456f	- AMOTOS.rom	msx-yoriyoshizuki
+efab9c39ddac48e8aadcc8944a0fdb88	- AMTRUCK.rom	msx-yoriyoshizuki
+d4c02275b006a0972e4ccaddaeb8793f	- Anaza. Kaleidoscope Special (1987)(Hot-B)(JP)[cr Edgard].rom	msx-yoriyoshizuki
+b42ec6397dc274e73242514cc21835db	- Anaza. Kaleidoscope Special (1987)(Hot-B)(JP)[cr Sammi].rom	msx-yoriyoshizuki
+d6ed8a5592a40f11d15a58dfd54a947f	- Angelo (1984)(ASCII)(JP).rom	msx-yoriyoshizuki
+c3d53b9ecac156a51103f4e11b39a87a	- ANGLE.rom	msx-yoriyoshizuki
+4b1b0ab36e6ddb1fa317cf43e0a4611a	- Antarctic Adventure - European Version (1984)(Konami)(JP)[a][RC-701].rom	msx-yoriyoshizuki
+122526147c3ada793e0ad233df408c2c	- Antarctic Adventure - European Version (1984)(Konami)(JP)[RC-701].rom	msx-yoriyoshizuki
+b8a921f0f77fc83acfe6c6f0b9814fa3	- Antarctic Adventure - European Version (1984)(Konami)(JP)[SCC][RC-701].rom	msx-yoriyoshizuki
+2fef0c223344d31fab2183c28ad2c062	- Antarctic Adventure - European Version (1984)(Konami)(JP)[SCC+][RC-701].rom	msx-yoriyoshizuki
+a196b6838c7ea19bcfe373df937a0e6a	- Antarctic Adventure - Japanese Version (1984)(Konami)(JP)[cr Prosoft][RC-701].rom	msx-yoriyoshizuki
+7295474536ebdf4d0223f5a742e4192e	- Antarctic Adventure - Japanese Version (1984)(Konami)(JP)[o][RC-701].rom	msx-yoriyoshizuki
+422c8962d63bdac14724f58cceaea8ef	- Antarctic Adventure (Konami) (1984) (Version ripeada para el mercado coreano).rom	msx-yoriyoshizuki
+0d2f6b8d50cd2290e0fb8fca833e7b83	- Antitriangulo (GEASA).rom	msx-yoriyoshizuki
+8f5aab39dd5796101f74111d7704fced	- ANTTCADV.rom	msx-yoriyoshizuki
+49c243728f19f0e82276d27378726214	- Anty (1984)(Bothtec)(JP)[a].rom	msx-yoriyoshizuki
+549fe8478c4bb717ee7233d3618803de	- Anty.rom	msx-yoriyoshizuki
+fdcf34564547f3ff8d3719e7dac66ece	- Aquapolis SOS (1983)(General)(JP)[cr Sammi].rom	msx-yoriyoshizuki
+603af527cdbfaeb90b8798c0e1b8ce44	- Arab History (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+75b07851eba45cfb1e72189b755d41b9	- Arab Homeland (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+0047b4d04db756e273753cae630021de	- Aramo (Xain Soft, Sein Soft, Zain Soft) (1987) (Juego traducido al frances por Django).rom	msx-yoriyoshizuki
+11023a4279ec6cec244e3ea069649e5d	- ARCHIE.rom	msx-yoriyoshizuki
+e507fe0fa7c5f6d488fcb6dceca686f4	- Aritmo (DIMensionNEW) (1985).rom	msx-yoriyoshizuki
+b13fe412f5f3a6b72059feef3350c452	- Arkanoid (1986)(TAITO)(JP).rom	msx-yoriyoshizuki
+2f6dc432c81402b838958eebe82de801	- Arkanoid (1986)(Taito)(JP)[a].rom	msx-yoriyoshizuki
+635d75fe6d31024de5ca36ae886c37a1	- Arkanoid (1986)(Taito)[a2].rom	msx-yoriyoshizuki
+7ba12f510514c218d291e35754286002	- ARKANOID.rom	msx-yoriyoshizuki
+2fecf06cd12238a030be21ce1bc3e595	- AROID.rom	msx-yoriyoshizuki
+780344b4e4b3d4b34fc6d663e90af8f9	- Around the Clock (Al Alamiah) (1986) (alt 1).rom	msx-yoriyoshizuki
+bc29a60c286e75e580a2139d53ae44d6	- Around the Clock (Al Alamiah) (1986).rom	msx-yoriyoshizuki
+cc80943502fec02a4f750dfa7d45e3df	- Arubatoros. Albatross (1986)(Telenet Japan)(JP).rom	msx-yoriyoshizuki
+2266637325073d6390f2dd95393c05b1	- Arubatoros. Albatross (1986)(Telenet Japan)(JP)[b].rom	msx-yoriyoshizuki
+82df2d5316c9a73cba97eb278e8c6f9c	- ASPAR.rom	msx-yoriyoshizuki
+9af896c24e5742fdfa8e1bb4b174776a	- Assistant (Barq) (1987).rom	msx-yoriyoshizuki
+8e887863489bed962d34731ab39f3342	- Aster Buster (Masachan Soft) (1988).rom	msx-yoriyoshizuki
+82f1cd34d8ca31ece8f56307ad45ac09	- ASTRO.rom	msx-yoriyoshizuki
+93a3b2f0a00eb8c6de04b9c3b0f342a8	- Athletic Ball (ASCII) (1984) (Version del juego modificada para evitar error en el registro del PSG, por GDX).rom	msx-yoriyoshizuki
+5499eee2d9a73ad779c34084e321dbdf	- Athletic Land (1984)(Konami)(beta)[o][RC-700].rom	msx-yoriyoshizuki
+b8d661bd9cbf59e3a75dba499f00060c	- Athletic Land (1984)(Konami)(beta)[RC-700].rom	msx-yoriyoshizuki
+c51ccb502a6493087d666e62dc1fa433	- Attack Four (Pax Softonica) (1986) (Version del juego modificada para evitar error en el registro del PSG, por GDX).rom	msx-yoriyoshizuki
+22de7796055f69e5501370b0bc0ff4ad	- Autos (Desconocido) (1985).rom	msx-yoriyoshizuki
+3e74b12ea7bb4bb2c8d1dc0860835cc3	- Aventura Espacial (Side 1).rom	msx-yoriyoshizuki
+026e3f12ea7b1f85164f75b467a36f55	- Aventura Espacial (Side 2).rom	msx-yoriyoshizuki
+1e01fb8e4f8a95386c8b73955fb4abf3	- Aventura Especial 1&2.rom	msx-yoriyoshizuki
+996d359831cef2baffa3a54314746f22	- b_aalamna.rom	msx-yoriyoshizuki
+1901ff2ea72549d71ecf80986a4e90c1	- b_alaalden.rom	msx-yoriyoshizuki
+ae97351ef8162d164b717d513d40ac7e	- b_albayan.rom	msx-yoriyoshizuki
+ed9d69886fc56639fdc1e039553fafc8	- b_basic.rom	msx-yoriyoshizuki
+fd8c44d2ffdcf6cb4d7b21ec477c2674	- b_box.rom	msx-yoriyoshizuki
+f8ac722392aff7f386e017e88d6a42a4	- b_country.rom	msx-yoriyoshizuki
+090cb51b11a3c67884da2107e00153a8	- b_game.rom	msx-yoriyoshizuki
+b7abc04b290c17f4c6848b8a5a307146	- b_hasan.rom	msx-yoriyoshizuki
+75e69f1d61058f5cfd648950c136b959	- b_ksoor.rom	msx-yoriyoshizuki
+078c0fc81f521a309c083bb119028d5f	- b_meaning.rom	msx-yoriyoshizuki
+7e519dc30b1b8f72925170ec4bc246d9	- b_morshd.rom	msx-yoriyoshizuki
+3ccbf3939b7179542c82cc9a53d4b83a	- b_sanfor.rom	msx-yoriyoshizuki
+1924839f3f535857a5d3f138b914cb05	- b_space.rom	msx-yoriyoshizuki
+7013d5b27a8c8226612e0f4704c094c6	- b_wolf.rom	msx-yoriyoshizuki
+0d07ef0dfbfe9228a4302ce6bae711f3	- B-storme.rom	msx-yoriyoshizuki
+de0cdd0c1912cab84ae56480cf7da38f	- B.C.'s Quest for Tires (1985)(Toshiba-EMI)(JP)[a].rom	msx-yoriyoshizuki
+a90f7b4914e36b8ea1359a01d6aae56e	- B.C.'s Quest for Tires II - Grog's Revenge (1985)(Comptiq)(JP).rom	msx-yoriyoshizuki
+20b5af8e868316800676a68c56e1fab6	- B.C.'s Quest for Tires II - Grog's Revenge (1985)(Comptiq)(JP)[tr it].rom	msx-yoriyoshizuki
+0e1d88688bca7c7c85ca50f7972e6a1d	- B.C.'s Quest for Tires II - Grog's Revenge (1986)(Topia)(KR).rom	msx-yoriyoshizuki
+7e98c4af12621d3f55255de344a7454d	- Baba Sanfour (Barq) (1987).rom	msx-yoriyoshizuki
+e62eb7f7e8e2bbe4955b366687ed837e	- Baby Dinosaur Dooly (Daou Infosys) (1991).rom	msx-yoriyoshizuki
+84a7a3f9e12ae520dc84a4955fa54f37	- Back to the Future (1985)(Pony Canyon)(JP).rom	msx-yoriyoshizuki
+e2179f0fc46676c63fc312183d3bb712	- Backgammon (1984)(Electric Software)(GB).rom	msx-yoriyoshizuki
+f561738affe87f5f61b0d61aa1b35e90	- Baduk (Desconocido).rom	msx-yoriyoshizuki
+acd1aeac19dfe06706fd4e218bf4239d	- Bag Man (AG Software) (2007).rom	msx-yoriyoshizuki
+6a1f569d878afb4165ce5d3a828fe235	- Bakerman (AG Software) (2008).rom	msx-yoriyoshizuki
+65f9067cdcb9f540b874519a8ddd7531	- Balance (1984)(HAL Laboratory)(JP).rom	msx-yoriyoshizuki
+ebc0c1a77e9e73a1cae92f11d6c0925c	- Balance (1984)(HAL Laboratory)(JP)[a].rom	msx-yoriyoshizuki
+b9b7320cfa8626dab4735ad9a3ffc1c0	- Balance (1984)(HAL Laboratory)(JP)[a4].rom	msx-yoriyoshizuki
+9fad2fe661961442a716be64756c4279	- Balloon City (AG Software) (2007).rom	msx-yoriyoshizuki
+9be97caf401be69e564e9beea0a71101	- Ballzup (Mr. Retro, 2013).rom	msx-yoriyoshizuki
+f68e4ae63d03b5ad0a736231588524f0	- Bank Panic (1985)(Pony Canyon)(JP).rom	msx-yoriyoshizuki
+fbf9175cc1e2e319d8d6585ee70d46af	- Bank Panic (1985)(Pony Canyon)(JP)[cr Prosoft].rom	msx-yoriyoshizuki
+4ee97697f78b87b9fd5f9703dbffffc3	- Bank-p.rom	msx-yoriyoshizuki
+58e9a51751576b5243b43c574c38440e	- BARBARIA.rom	msx-yoriyoshizuki
+b1ee77a02a04424b1d2235413073bd61	- Barcelona Olimpica (Humberto Martinez Barbera) (1985) (Otra conversion del juego, a cargo de MSX blue. Incluye extras).rom	msx-yoriyoshizuki
+2e4bf0e6543883e75791cfc5960bc5cb	- BARNSTOR.rom	msx-yoriyoshizuki
+c235180f1f4dc59db799039b385fd498	- Barq (19xx) (arabic).rom	msx-yoriyoshizuki
+e13baf8d5699d1f9ca0fb62f43977e68	- barq writer (barq, 1987).rom	msx-yoriyoshizuki
+ca05e93f0f2f62c09a64c9c1a4ccf3ac	- Baseba-c.rom	msx-yoriyoshizuki
+d4699360e67662372df04cd242889c27	- Batman (1986)(Pack In Video)(JP)[a].rom	msx-yoriyoshizuki
+420ef239d8cdfea7c22856a58dbb8a4e	- Batten Tanuki no Daibouken (Japan) (v1.03).rom	msx-yoriyoshizuki
+421193175c8b23a32521936ec1b71053	- Batten Tanuki no Daibouken. Raccoon Dog (1986)(Tecno Soft)[a2].rom	msx-yoriyoshizuki
+087c7abf272591009fa9f756225f355f	- Battle Cross (1984)(Sony)(JP)[o].rom	msx-yoriyoshizuki
+fa1434664f2e7f27865c80b6ee4bd37b	- Battle Ship Clapton II (1984)(T&E Soft)(JP)[a].rom	msx-yoriyoshizuki
+4aeed4ab826720126d33f3b45106a73d	- BATTLECH.rom	msx-yoriyoshizuki
+5817b35f4e8f60e90ce61757d5ed56f8	- BCASTLE.rom	msx-yoriyoshizuki
+7320d05265aa8fb9730bc735adb33e0f	- Beach-h.rom	msx-yoriyoshizuki
+e87647634337f07604076e6c2ad18a82	- Beach-Head (1985)(US Gold)(GB).rom	msx-yoriyoshizuki
+a58da9aa7fe01503955a567795fde33e	- Beamrider (1984)(Pony Canyon)(JP).rom	msx-yoriyoshizuki
+37be343dd02efc756a0729b89a9df953	- bean.rom	msx-yoriyoshizuki
+c0746f391eac069cc8ca45d44d5e4ef0	- Bee & Flower (1983)(Think Soft).rom	msx-yoriyoshizuki
+7ba0957c28a33fe31c77549a02914206	- Bee & Flower (1983)(Think Soft)[a].rom	msx-yoriyoshizuki
+cc584742639963408fb91dc68d9fa281	- Believe It or Not (Al Alamiah) (1990).rom	msx-yoriyoshizuki
+5e6272a2e502bdbd1d8faabe2aa6bd34	- Benelux (Daniel Holemans) (1985) (alt 1).rom	msx-yoriyoshizuki
+975b9154d8838495ef44fa654a2a63db	- Benelux (Daniel Holemans) (1985).rom	msx-yoriyoshizuki
+eedb4b327c566407f913e14d2d5f2682	- BeTiled! (CEZ Games Studio) (2007).rom	msx-yoriyoshizuki
+522ca5603d88f9779492bce2561ee048	- Bifamu. Galaxy Drift Motorcycle Femme (1984)(Bandai)(JP).rom	msx-yoriyoshizuki
+817fc937ad606961da6637d38430bb3e	- Binary Land (1984)(Kuma Computers)(GB).rom	msx-yoriyoshizuki
+55f477123a9114e6504aefa2bcb11ba2	- BINARY.rom	msx-yoriyoshizuki
+e7a391f0c4f08c71de6943e44323ef69	- BKTTFUTR.rom	msx-yoriyoshizuki
+580282bc8e0ed63b2f5a1b72bcc45fc8	- Black Onyx, The (1986)(Prosoft)(KR)(jp).rom	msx-yoriyoshizuki
+5196cb0411d4e9458f1b5c226e723573	- Blagger (1984)(Micro Cabin)(JP)[a].rom	msx-yoriyoshizuki
+ed154f68ac837d4c393054a7030a5d3d	- Blagger (1984)(Micro Cabin)(JP)[a2].rom	msx-yoriyoshizuki
+d790fe070ef6db6c155eacfd9dca41e9	- Block Hole (1990)(Zemina)(KR).rom	msx-yoriyoshizuki
+07023335a0643b244b08a03b642fcc6a	- Blocus (Stehane Cayla) (1985).rom	msx-yoriyoshizuki
+b243148ec22824ead59b17369d857562	- BLOWUP.rom	msx-yoriyoshizuki
+c5970357a8656930ddc37080349f5deb	- Blue & Pink (MSX Computer Magazine) (1985).rom	msx-yoriyoshizuki
+c7b8fab398d0908393957249bf0d905e	- blur.rom	msx-yoriyoshizuki
+1909b7615b02c13219820ba902e2f661	- BMX.rom	msx-yoriyoshizuki
+66567aea2c969aa834d3bff69bd67ce7	- BOARDELO.rom	msx-yoriyoshizuki
+d49a1e7da3b402f1c26381aec7f0e257	- Boggy '84 (1984)(Nippon Columbia - Colpax - Universal).rom	msx-yoriyoshizuki
+0eb9e7bc52517751402094937c903cf8	- Boggy '84 (1984)(Nippon Columbia - Colpax - Universal)[a2].rom	msx-yoriyoshizuki
+911d6ae84a956dd5051a28a56f925d2a	- Boing Boing (1985)(Idealogic)(ES).rom	msx-yoriyoshizuki
+a05aa6a515bcb81e0430f53c723dbda9	- Boing-b.rom	msx-yoriyoshizuki
+9888b37dd18e3ccf396e18c266978155	- boing.rom	msx-yoriyoshizuki
+641544b0ad077cd28965496c53a2f38a	- Bokosuka Wars (1984)(ASCII)(JP)[a].rom	msx-yoriyoshizuki
+901e4e511beba61c8c12c939e0e6efe0	- Bokosuka.rom	msx-yoriyoshizuki
+2d96cf142ca5e2334fc0981e34c5ad0b	- Bomb Jack (reconversion) (SEGA) (1985).rom	msx-yoriyoshizuki
+0da84ae4e042c64a0b40d47dd3633e3e	- Bomber Man (1986)(Korea Soft Bank).rom	msx-yoriyoshizuki
+9d2a723c099ec83ca1a354eef20776b7	- Bomber Man (1986)(Korea Soft Bank)[a].rom	msx-yoriyoshizuki
+14e6ac2cd3ca4eeb82ae6fa3de804975	- Bomber Man (1986)(Korea Soft Bank)[o].rom	msx-yoriyoshizuki
+681e1a4ae10bb1fae78efcd690f936b2	- Bomber Man Deluxe (Bomber Man Special hack).rom	msx-yoriyoshizuki
+4ca9f5e8ec595c26a3b6ac15fdea3ce0	- Bomber Man Special (1986)(Hudson Soft)(JP)[b].rom	msx-yoriyoshizuki
+1f133ed5daecdc5b5185f073537a1010	- Bomber Man Special (1986)(Hudson Soft)(JP)[cr SoftMen].rom	msx-yoriyoshizuki
+7128f95264554cd8d096f11d7b5d757c	- Bomber Man. Eric and the Floaters (1985)(Kuma Computers)(GB).rom	msx-yoriyoshizuki
+55443f9861b3aa4beca558dbce7a5dba	- BOMBER3D.rom	msx-yoriyoshizuki
+a5c58251ccd0f4fbf9b7e4aef250a370	- Bomby (Luc Sonnendrucker) (1985) (Side j).rom	msx-yoriyoshizuki
+ba5ab809549c4f2983421a06c8ea278f	- Bomby (Luc Sonnendrucker) (1985) (Side k).rom	msx-yoriyoshizuki
+614ce23529fde0833282fd9e98d4f3fa	- Bong (WYZ) (2005).rom	msx-yoriyoshizuki
+0a715e62379d0dab183067c681e9f4d5	- BOOGABO.rom	msx-yoriyoshizuki
+628461a03bf67d80a08ea3e097242acd	- Boogie Woogi Jungle (1985)(Ample Software)(JP).rom	msx-yoriyoshizuki
+bd595c10c45097cc8ceaf0a0a8615106	- Boogie Woogi Jungle (1985)(Ample Software)(JP)[a2].rom	msx-yoriyoshizuki
+7a67ded75c64bec61b10045c51cebe41	- Boogie Woogi Jungle.rom	msx-yoriyoshizuki
+3aaa6ccb9f8de37717927555a7a3de55	- BOOM.rom	msx-yoriyoshizuki
+3abe8b3c1ea30e9ca95354b02100721b	- Boomerang (1984)(ASCII)(JP)[a].rom	msx-yoriyoshizuki
+5a51b835b0212cb4cd19a972b36836cd	- BOOTY.rom	msx-yoriyoshizuki
+5ecfa2011da36150d086916c5114e169	- BOP_.rom	msx-yoriyoshizuki
+0cb986a3ee855dc305dffe1021f31f5b	- Boralis (Scorpio Software).rom	msx-yoriyoshizuki
+7bcdaceb434822c8db0e967d79362d62	- Bosconia.rom	msx-yoriyoshizuki
+437e2b5013786ebf95f2bc36ed680f27	- Bosconian (1984)(Namcot)(JP).rom	msx-yoriyoshizuki
+bdabff2b7b3a303a810100fe0b6fb971	- Bosconian (1984)(Namcot)(JP)[a].rom	msx-yoriyoshizuki
+c2cc4e3bd267afc84bfc284dbe81daa0	- Botsauto's (Desconocido) (1985).rom	msx-yoriyoshizuki
+d1273c8e94a467c175541b06d6042a77	- Boufy (Renan Jegouzo) (1985).rom	msx-yoriyoshizuki
+50b6e827957c844345c1f066844295cd	- Bouken Roman - Dota (1986)(System Soft)(JP).rom	msx-yoriyoshizuki
+c9c5cfb4c5b6fabe6ad349bf2b07a8bd	- BOULDAS1.rom	msx-yoriyoshizuki
+3fcd44a498b1bf97d1c65ea2fd29bf84	- BOULDAS2.rom	msx-yoriyoshizuki
+cc1ae8f12792c7994656471ea38ce3de	- Boulder Dash (1985)(Databyte)(GB).rom	msx-yoriyoshizuki
+ab688ec214b3f72113abfece343cd217	- Boulder Dash (First Star Software) (1985) (Version ROM del juego, creada por Kabish).rom	msx-yoriyoshizuki
+ef62272e6a93e726add6c44862c16870	- Boullata (Al Alamiah) (1984).rom	msx-yoriyoshizuki
+0192133ace5effdf566adf5f929a4367	- Bouncing Block (1988)(Idealogic)(ES)[a][aka Igloo].rom	msx-yoriyoshizuki
+c0eef47ada3a2d204b43b55e9c45c788	- Bouncing Block (1988)(Idealogic)(ES)[aka Igloo].rom	msx-yoriyoshizuki
+68c00786a986f54966372b8e5a6221f3	- BOUNDER.rom	msx-yoriyoshizuki
+b5e6d3f1fb1b3c01415dd71d05104d78	- Bousou Tokkyuu SOS. Stop the Express (1985)(Hudson Soft)(JP).rom	msx-yoriyoshizuki
+4ce9972056a9457903629744b7c0c07b	- Bousou Tokkyuu SOS. Stop the Express (1985)(Hudson Soft)(JP)[a].rom	msx-yoriyoshizuki
+ecb7e738e299cf6c67fc830a29599e87	- Braystoke (alex Serrano) (1987).rom	msx-yoriyoshizuki
+c749d98610484680091695c93c7b3e31	- Break It (Martin vo Graaff) (1987).rom	msx-yoriyoshizuki
+896f98d5e5fad6a3c604fde587da05f7	- BREAKIN.rom	msx-yoriyoshizuki
+ccbd662fafb3257c18fb40140e5f420d	- Brisca (Stars).rom	msx-yoriyoshizuki
+32d3dfea2eee30dc8dfa254f31846002	- British Bob (Relevo Videogames 2009).rom	msx-yoriyoshizuki
+733e0a1b093eef7ee42476ce03a389b6	- brnstorm.rom	msx-yoriyoshizuki
+6af13cc410872e50046e1beb99bc10d8	- Brother Adventure. Mario Bros (1987)(Zemina)(KR).rom	msx-yoriyoshizuki
+814b00d855265a42b977371dd04a0f43	- Brother Adventure. Mario Bros (1987)(Zemina)(KR)[a].rom	msx-yoriyoshizuki
+38ecdd8a2ac56391e463d6d30ed15776	- Bubble Bobble (Taito) (1987) (Traduccion al espanol, por Locomoxca).rom	msx-yoriyoshizuki
+2d7f38644e82001807b5a00dc0312f28	- BUBBLER.rom	msx-yoriyoshizuki
+18035aec601ce65d7b90cbd56b31af47	- BUBLBOBL.rom	msx-yoriyoshizuki
+6f88a253151f4eab12d0e27c9778b397	- BUCK.rom	msx-yoriyoshizuki
+46eb16a8b3b15964e05816593c4a8359	- BUITRE.rom	msx-yoriyoshizuki
+7f68e595997b4e852ec69aea2df6a5b1	- BUMPER.rom	msx-yoriyoshizuki
+6202e084435e881e3061f41aab74af3d	- Burger Time (Radio Wave Newspaper Publisher Company) (1986) (Conversion desde ColecoVision realizada por GDX).rom	msx-yoriyoshizuki
+70f54eb66b89fefe1dbe5fe29df2cd15	- BURGER.rom	msx-yoriyoshizuki
+b9f360926546b28083c00d5ffd5af292	- Buru to Marty Kikiippatsu. Inspecteur Z (1986)(HAL Laboratory)(JP).rom	msx-yoriyoshizuki
+59a9290e0ff825f42671a57b3b51dbbe	- BUSBLOCK.rom	msx-yoriyoshizuki
+55c8df7f2ddc5e3011310d264980c474	- Butamaru Pants. Pig Mock (1983)(HAL Laboratory)(JP).rom	msx-yoriyoshizuki
+f9f42f856d1818d84ac32da2c8fae929	- Butamaru Pants. Pig Mock (1983)(HAL Laboratory)(JP)[a].rom	msx-yoriyoshizuki
+b4fa1b95d4b1b233c60b191236c4afde	- BUZZOFF.rom	msx-yoriyoshizuki
+340ba6ae6cc3c4ef8c924bd6966b6670	- C-So! (1985)(Pony Canyon)(JP).rom	msx-yoriyoshizuki
+567b5653e2bada5fa7d9de584a562b2d	- C-So! (1985)(Pony Canyon)(JP)[b].rom	msx-yoriyoshizuki
+05911a0ee19b2bd30306386f8709b75a	- C-So! (Japan).rom	msx-yoriyoshizuki
+957a100808dfbe1051550497763de4ba	- C-SO.rom	msx-yoriyoshizuki
+3e73055c7bf05fdeb170647be0505db5	- Cabbage Patch Kids (1984)(Konami)(JP)[a2][RC-716].rom	msx-yoriyoshizuki
+12608e48350b5f910123685113860573	- Cabbage Patch Kids (1984)(Konami)(JP)[RC-716].rom	msx-yoriyoshizuki
+650228e6ca1190ba67d1fbffbce845ce	- CAMELOT.rom	msx-yoriyoshizuki
+992c3c056d9524895aed74b7385edb46	- Can You Survive (Russ Hall).rom	msx-yoriyoshizuki
+236c97fe58aabb9f19ff699d3e73809b	- Candoo Ninja (1983)(ASCII)(JP)[a].rom	msx-yoriyoshizuki
+87923cd236932aa5960d303fc5796c6b	- Cannon Ball (1983) (Hudson) (J)[T+Rus_Cool-Spot].rom	msx-yoriyoshizuki
+ed8013ed61f6735d5040bfa0e1e5139b	- Cannon Ball (1983)(Hudson Soft)(JP).rom	msx-yoriyoshizuki
+5a9385ca98221adfd9e6675fea190ea6	- Cannon Ball (1983)(Hudson Soft)(JP)[a2].rom	msx-yoriyoshizuki
+b40c21385adae9176b67cc2b5223894e	- Cannon Fighter (1984)(Policy)(JP).rom	msx-yoriyoshizuki
+7aa937501f8d4acd3ee9968049046c54	- Cannon Turbo (Brother Industries) (1987).rom	msx-yoriyoshizuki
+c672c9d37070244f13902036f74bb641	- Caos Begins (Hikaru Games 2007).rom	msx-yoriyoshizuki
+3b17d8fb0760c1a150c05f73c390ff27	- Caos Begins (Hikaru Games) (2007).rom	msx-yoriyoshizuki
+8e28bc85961ec9b6b6765ccbd4fe1997	- Captain Cosmo (1984)(ASCII)(JP)[a].rom	msx-yoriyoshizuki
+881c2232a056b794d838aab17b1b6f00	- Captura en pluton (Desconocido) (1985).rom	msx-yoriyoshizuki
+359d2702010c34e4495580bb7e89ee61	- Car Jamboree (1984)(Sony)(JP).rom	msx-yoriyoshizuki
+1e0d9875ea6f9de3dfedf7abb3ded5c7	- Car Race (1983)(Ample Software)(JP).rom	msx-yoriyoshizuki
+1506f247b2d90e66246d01d508289ca5	- Car Race (1983)(Ample Software)(JP)[a2].rom	msx-yoriyoshizuki
+6a58502ba723c67815e9c509282cd5d7	- Car Race (Ample Software) (1983) (Version del juego modificada para evitar error en el registro del PSG, por GDX).rom	msx-yoriyoshizuki
+1a071cfe5615cc91e5be1f1b6a6b08b7	- Caracol (Desconocido).rom	msx-yoriyoshizuki
+a9b7c7f22f02ce9088c647a1a5ce9e7c	- CARDS.rom	msx-yoriyoshizuki
+63c3b883d77f6319d35e47e459b5b361	- Carre Diabolique (Luc Levy) (1983).rom	msx-yoriyoshizuki
+3bab8bb47b623407f2099453ce3c0e2e	- Casino (Maxine Tanguy) (1983).rom	msx-yoriyoshizuki
+73da6ea589014e665c8c8cf8c3c49927	- Casio World Open (1985)(Casio)(JP)[cr Boram Soft].rom	msx-yoriyoshizuki
+2552115fe2ab587c0fd488be744d8b32	- casio_basic.rom	msx-yoriyoshizuki
+a80048433a4863f8d92ef9082cba7837	- Castle Excellent (1986)(ASCII)(JP).rom	msx-yoriyoshizuki
+b16f5dd383343c94b3e5af7e32a13adf	- Castle Excellent (ASCII) (1986) (Version demo del juego, creada por Django).rom	msx-yoriyoshizuki
+31a00d3c81a830436e0eb6fc9ed8f138	- Castle Tomb (AG Software) (2009).rom	msx-yoriyoshizuki
+4585ff6ee8bb6544f4305b9ef92ad5e2	- castle_excel_fr.rom	msx-yoriyoshizuki
+598a3e08c6c69177289c1db408df11e5	- Castle, The (1986)(ASCII)(JP)[cr Static Soft].rom	msx-yoriyoshizuki
+038c53a0f36a8542237957f89740f217	- Catmania (Desconocido).rom	msx-yoriyoshizuki
+f3696962eb42941f6dd1ac96cef3648a	- CAVERNS OF TITAN.rom	msx-yoriyoshizuki
+79006b582d19d1044a2399f0133968e2	- CETUS.rom	msx-yoriyoshizuki
+a3204f5d0ba1a49b7d081595a77b9e40	- CHACKPOP.rom	msx-yoriyoshizuki
+b100917a059667fab359d507ca56233e	- Champion Kendo (1986)(Pony Canyon)(JP).rom	msx-yoriyoshizuki
+804f81c79da29544b5ee5fa1ae8a01a7	- Champion Pro Wrestling (1985)(Pony Canyon)(JP).rom	msx-yoriyoshizuki
+05f1fc6912c84dcbf8fc876ccace426b	- Champion Pro Wrestling (1985)(Pony Canyon)(JP)[a2].rom	msx-yoriyoshizuki
+2b0b31ea718af9e1ba349fa10d39459d	- CHAMPION.rom	msx-yoriyoshizuki
+34bb830fb736927be6b7da599f77fade	- Championship Lode Runner (1985)(Sony)(JP)[cr Prosoft][b].rom	msx-yoriyoshizuki
+cdce8291cc7a26e5d219a814be1675c6	- Championship Lode Runner (1985)(Sony)(JP)[cr Prosoft][b2].rom	msx-yoriyoshizuki
+d7a68bd161ba21e5a0d71e45b12c9812	- Chess Game, The (1985)(Al Alamiah)(KW).rom	msx-yoriyoshizuki
+6cf190970c510e46f7b1255d2b7fc543	- Chess Master (1985)(Philips).rom	msx-yoriyoshizuki
+d5ae626014a52e13563752e3e3e386ba	- Chess-m.rom	msx-yoriyoshizuki
+6489d2057f8734d7645a08f4ec5e57e2	- Chess.rom	msx-yoriyoshizuki
+d80df5f4239523743e1c55b0ded035e5	- CHESSPL1.rom	msx-yoriyoshizuki
+6319998501159f18f018d8cd0beff445	- CHESSPLY.rom	msx-yoriyoshizuki
+c1d8c1b5c8eab99d60dc802c760b08e3	- CHIKFIGH.rom	msx-yoriyoshizuki
+01c9c5e02c158b5a3f9a0e0aea2ab133	- Chiller (Mastertronic) (1985) (Version ROM del juego, creada por Kabish).rom	msx-yoriyoshizuki
+6b4be8ee4a05928c6acbdba52d176288	- CHILLER.rom	msx-yoriyoshizuki
+75ff30a4e93c1218488a4dcca86388ef	- Choplift.rom	msx-yoriyoshizuki
+ed07f46ada21f018c40d38a746f519bb	- Choplifter (1985)(Broderbund).rom	msx-yoriyoshizuki
+78664709059eda63ef429df7cbc3b6a2	- Choplifter (1985)(Broderbund)[a].rom	msx-yoriyoshizuki
+f29b3a20150e035250c3a6715f7f8091	- CHOPPER1.rom	msx-yoriyoshizuki
+976ec4b376f74716e07757370f446013	- Choro Q (1984)(Taito)(JP)[a].rom	msx-yoriyoshizuki
+3ddc82faf717816f0954116c8abe7b88	- Choro Q (1984)(Taito)(JP)[cr Prosoft].rom	msx-yoriyoshizuki
+a964149f8d54482433b6d4e77eca782e	- Choro Q (Japones).rom	msx-yoriyoshizuki
+00877c9d87b40f882f3955d5fd69ac91	- Choro Q.rom	msx-yoriyoshizuki
+afac9a98714acd7139234a65cb5eb39f	- CHUCKIE.rom	msx-yoriyoshizuki
+05efea4bdae54a61283dade6f9166e78	- CHUCKYEA.rom	msx-yoriyoshizuki
+31b9baeac5c300c08899996fc860f930	- City Connection (1986)(Jaleco)(JP)[a].rom	msx-yoriyoshizuki
+0734aeaa58f9a34a2698d6675420b869	- CLASSIC.rom	msx-yoriyoshizuki
+919ed6c7027e12f9d9b1bafbe39eaf7f	- Clement Le Macon (Jean-Pierre Marin) (1985).rom	msx-yoriyoshizuki
+871f101e28f713457da52de0f616a8a9	- CLUEDO.rom	msx-yoriyoshizuki
+c11732d99ded56e49fa6f166b879141d	- CMP01.rom	msx-yoriyoshizuki
+a2d04f11274663356b045f0897b8877e	- Coaster Race (1986)(Sony)(JP).rom	msx-yoriyoshizuki
+02c3edaf887a54669ba3c25480c7eec0	- Coaster Race (1986)(Sony)(JP)[a].rom	msx-yoriyoshizuki
+b41359e064078344c4d122cc0b04aa09	- Coastr-r.rom	msx-yoriyoshizuki
+02edbeb7a1ea691dd9ebc1ccb86ec932	- Codigo Morse (Desconocido) (1986).rom	msx-yoriyoshizuki
+5168b773f1c97bbd9f91e03b7af4326b	- Coffre-Fort (Martine Clayron) (1983).rom	msx-yoriyoshizuki
+94deffd74c17bd22629d5b250b2bf4fc	- Cold Blood (Paxanga Software) (2009) (Demo del primer nivel del juego).rom	msx-yoriyoshizuki
+1b311c290db3b630dbc4962b21fcf557	- colmena.rom	msx-yoriyoshizuki
+34ba52d4e086e72d58caf98c51b6aa82	- COLONY.rom	msx-yoriyoshizuki
+fefd9ca0ae920a6905c4618713424d98	- Color Ball (1983)(Hudson Soft)(JP)[a].rom	msx-yoriyoshizuki
+3af0be2ff76e5587cb776073db41fa89	- Color Ball (1983)(Hudson Soft)(JP)[a2].rom	msx-yoriyoshizuki
+b302aea4458dd159d93340aa5ebd10cb	- Color Tochika. Pillbox (1983)(Magic Software)(JP)[a].rom	msx-yoriyoshizuki
+9d070d73efa163a5f906c4b5f0e2ad78	- COLOSSAL.rom	msx-yoriyoshizuki
+d6bde7434f0a30b09fc48532bb2ed6dd	- Combat Aero-Naval (Michel Ladegaillerie) (1985).rom	msx-yoriyoshizuki
+7500d163fc0338ee3c2d4f995d3ba11e	- COMECOCO.rom	msx-yoriyoshizuki
+fe66c074fbea5ac7073b82c4b4500eb3	- Comecocos (19xx)(Idealogic)(ES).rom	msx-yoriyoshizuki
+c63f0ea3a8bbb9e41906fcbce6ed40eb	- Comic Bakery (1984)(Konami)(JP)[a][RC-714].rom	msx-yoriyoshizuki
+6f6eae0a2af8353ecc93d69f02085500	- Comic Bakery (1984)(Konami)(JP)[RC-714].rom	msx-yoriyoshizuki
+b6004b5fa3659409795cc4857cc14860	- Computer Billiards (1985)(Sony)(JP).rom	msx-yoriyoshizuki
+ff5123383260e3c9357771fc31cf199f	- Computer Billiards (1985)(Sony)(JP)[a].rom	msx-yoriyoshizuki
+9049f90a9c9903aecbb7dd7849686c64	- Computer Billiards (1985)(Sony)(JP)[a2].rom	msx-yoriyoshizuki
+d0eab12bb1268f381cb4aabab27c0809	- Computer Othello (1984)(Sony)(JP).rom	msx-yoriyoshizuki
+fec149b9aa0b478f1ebe47f3247caf79	- Computer Pachinko (1984)(Sony)(JP).rom	msx-yoriyoshizuki
+a59ab2c2f643c74698957d0ced333c75	- Computer Wars-en 2004 Crappysoft.rom	msx-yoriyoshizuki
+4389b92a208cd102765e988f18cbaa44	- Computer Wars-sp 2004 Crappysoft.rom	msx-yoriyoshizuki
+383e32bdf8bc95f2afa55738d700b700	- Con-Dori (1983)(Cross Talk)(JP).rom	msx-yoriyoshizuki
+6b60f17bb655fe258dec6b966179b07a	- Con-Dori (1983)(Cross Talk)(JP)[a].rom	msx-yoriyoshizuki
+8beab9408b50e4013cebf6f32534116c	- Concentracion (GEASA).rom	msx-yoriyoshizuki
+e70ce050b71d6377b2a9a71bcf5c4261	- Confused (1986)(Al Alamiah)(KW).rom	msx-yoriyoshizuki
+fd3262cac6f58ef660261449c282628c	- CONFUSED.rom	msx-yoriyoshizuki
+a48340051daaa93b7101ab9630d210ee	- CONGO.rom	msx-yoriyoshizuki
+728e29ef94710c4f1e2852b5d5a6041e	- COSANOST.rom	msx-yoriyoshizuki
+6217cabd8b1194ac9cc7b96ff47e030f	- Cosmic Avenger (Coleco, 1982).rom	msx-yoriyoshizuki
+c71f684fd9e3d430bfd3da7b8077ac6b	- Cosmic Battle (2005)(Vendetta)(beta).rom	msx-yoriyoshizuki
+05cdac4314ae8429714143459a54f90a	- COSMICSH.rom	msx-yoriyoshizuki
+7e84c7a98e6380396b97d1a487eb448e	- Cosmo Explorer (1985)(Sony)(JP).rom	msx-yoriyoshizuki
+79444be6a1ffad9f7dd0e9b9a3658df8	- Cosmo Explorer (ZAP) (1985).rom	msx-yoriyoshizuki
+87a95c9055f7c3e030b9d48c8da8aabf	- Courageous Perseus (1985)(Cosmos Computer)(JP)[a].rom	msx-yoriyoshizuki
+3f3b3a1d1ae210f72927c9819b0257bb	- Courageous Perseus (1985)(Cosmos Computer)(JP)[b].rom	msx-yoriyoshizuki
+451a14c1670c80b8a69320166e0d0e59	- Cow Abductors.rom	msx-yoriyoshizuki
+ca5fd3e7f358debe04e3cdb6ab95cc3a	- Cp-kids.rom	msx-yoriyoshizuki
+6813e9fc934358168c4572f624d4df4b	- CPKIDS.rom	msx-yoriyoshizuki
+636d3fd29ebb1b72332c6b66323971d1	- Crazy Buggy (Crappy Soft) (2005) (Version del juego modificada para evitar error en el registro del PSG, por GDX).rom	msx-yoriyoshizuki
+d43a895cb4222450f01f6e39936ce774	- Crazy Bullet (1983)(ASCII)(JP).rom	msx-yoriyoshizuki
+21e417a211a91bd2dd47314e0c4b3c39	- Crazy Bullet (ASCII) (1983) (Version del juego modificada para evitar error en el registro del PSG, por GDX).rom	msx-yoriyoshizuki
+46acb233f59cc0117301ad18617b0dee	- Crazy Cars (1988)(Titus)(GB).rom	msx-yoriyoshizuki
+340404f3c9d2c9e34ad350e58e1a16e5	- Crazy Cars (1988)(Titus)(GB)[cr VIP Soft].rom	msx-yoriyoshizuki
+ba84e503de0e9a815f095f2254cde080	- Crazy Golf (Mr. Micro) (1984) (Versiones en DSK y ROM del juego, por mars2000).rom	msx-yoriyoshizuki
+cf217cf09cdb3dfa6669d6f0325c1405	- Crazy MSX Frenchies (MSX Cafe) (2007).rom	msx-yoriyoshizuki
+a8d894ba863ced24bc314ca6e7e9e016	- Crazy Train (1983)(Sony)(JP).rom	msx-yoriyoshizuki
+a69c6253d5f94565ca2e355eb7532ee8	- Crazy Train (1983)(Sony)(JP)[a].rom	msx-yoriyoshizuki
+76a9c47172c1e5eae76a011064ea223b	- Crazy Train (1983)(Sony)(JP)[o].rom	msx-yoriyoshizuki
+3b67e4be00dc854cde39176af9c58437	- Crazy Train (Japan).rom	msx-yoriyoshizuki
+84b590b946afef81c9caca8b0f66e8fb	- Crazy-t.rom	msx-yoriyoshizuki
+f7bcbf41cfaa37dccf159b52dff7be92	- Cross Blaim (1986)(dB-Soft)(JP).rom	msx-yoriyoshizuki
+01ee1e79c712238012550b0725e60648	- Cross Word (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+0623769f09e0dee2a6d81ef52998047b	- Crusader (1985)(Pony Canyon)(JP)[a].rom	msx-yoriyoshizuki
+bec687ceba5e87b32fddd5969d0494a1	- Crusader (1985)(Pony Canyon)(JP)[b].rom	msx-yoriyoshizuki
+fe5f833fa7d9399e783df1223b19404d	- Cubic Duel (Digital Concrete) (2010).rom	msx-yoriyoshizuki
+16afdbbddef5f3956f4ffabc8de10b2b	- Curva de dragon (1986)(Revista MSX-EXTRA #15)(ES).rom	msx-yoriyoshizuki
+b4e6d653b82c14e9b9e3b6faf849629d	- Custar (HAL Laboratory) (1984) (Juego traducido al frances, por GDX).rom	msx-yoriyoshizuki
+448f41498be1bec4a225e0bfb535137a	- Custar (HAL Laboratory) (1984) (Juego traducido al ingles, por GDX).rom	msx-yoriyoshizuki
+d15c6a208e5b28c0a3c1b6a2d75942a6	- Custar (HAL Laboratory) (1984) (ROM original corregida por GDX para que funcione en cualquier MSX).rom	msx-yoriyoshizuki
+84a583043446ad3550f9090c9e5f7397	- Custar (HAL Laboratory) (1984).rom	msx-yoriyoshizuki
+089a4985780c6088a14c57d4e6337697	- CYTOPLAS.rom	msx-yoriyoshizuki
+efba1bde3be6a3b1d6c235e4152dd261	- Designer's Pencil, The (1984)(Pony Canyon)(JP).rom	msx-yoriyoshizuki
+9835cefab5525917ead93357d5c8c854	- DESOLATO.rom	msx-yoriyoshizuki
+77b171d7c068a1b3ad42438d3d4a7354	- Dig Dug (1984)(Namcot)(JP).rom	msx-yoriyoshizuki
+34df847d6b625a984cbb8018915e288a	- Dig Dug (1984)(Namcot)(JP)[b].rom	msx-yoriyoshizuki
+59613f034d1411fce9095002412f7ac7	- digdug_.rom	msx-yoriyoshizuki
+4ee9374d4fd09341fb45effca068bad1	- Discover the Computer (Al Alamiah) (1986).rom	msx-yoriyoshizuki
+e9958648cb6d153de0389758fae91ce8	- DISCOVER.rom	msx-yoriyoshizuki
+e30fc7864e18ce82daaf007eb5daa60b	- DISCWARR.rom	msx-yoriyoshizuki
+fbde4c70452f7df6e9abbbd71e50f851	- DMS1.rom	msx-yoriyoshizuki
+078538a703c2468128c528df57908f7e	- DMZ001 - JumpinG (The Tutorial Game) Demo.rom	msx-yoriyoshizuki
+885c565d391c8d45aed520c816e37eeb	- DMZ001-JumpinG_English.rom	msx-yoriyoshizuki
+1a228766617c10ffa764882ed9ec564f	- DMZ001-JumpinG_Espanol.rom	msx-yoriyoshizuki
+bf5fc1e33109289475084b5033edc87a	- DMZ002 - Teodoro no sabe volar (English).rom	msx-yoriyoshizuki
+88a8cbd98141026aec62fafc91357f3c	- DMZ002 - Teodoro no sabe volar (Espanol).rom	msx-yoriyoshizuki
+402f7e963511fa4697a841c78a0d68eb	- Dodgin' Raven (Karoshi Corporation) (2009).rom	msx-yoriyoshizuki
+5dfac68d87780af1005f3765af2e52dd	- DOGFIGHT.rom	msx-yoriyoshizuki
+02d42dec8e6f73b08d3ca9b2dc24efb6	- Doki Doki Penguin Land (1985)(Pony Canyon)(JP)[a].rom	msx-yoriyoshizuki
+4cbbc78579941d52a3b6633a7e0bea5d	- Doki Doki Penguin Land (1985)(Pony Canyon)(JP)[b].rom	msx-yoriyoshizuki
+de902033e289567b40764a88ec5fb950	- Dolhof (Softwood Programs).rom	msx-yoriyoshizuki
+bde7c1f730a87effbe2c4572d1569fe5	- DOMPAN.rom	msx-yoriyoshizuki
+58755d931564adc1111cbed62f17f550	- Don Madusak (TD Soft) (English translation by MSX Nostalgia).rom	msx-yoriyoshizuki
+8ab613ded7ae964ab79d65e28ed1d755	- Don Madusak (TD Soft).rom	msx-yoriyoshizuki
+a11272f90b0b840828dcd308291510dd	- Donkey Kong (1986)(Ocean Software)(GB)[cr Dr. Jekyl and mr hyde].rom	msx-yoriyoshizuki
+bb0fd28d4b14cdc1cd0d708759d44e4c	- Donkey Kong (Coleco) (1982).rom	msx-yoriyoshizuki
+f9241fce995c5085beb7a6288e1a011d	- DONPAN.rom	msx-yoriyoshizuki
+80e7944e074c70c8eafa98d27584f3e1	- Door Door Mk2 (1985)(Enix)(JP)[cr Unicorn].rom	msx-yoriyoshizuki
+0d56b9d231da9294875845fd9671724d	- Dorodon.rom	msx-yoriyoshizuki
+16ff0bb225b4382fcb5c4c8f14654d27	- Double Face (Al Alamiah) (1987).rom	msx-yoriyoshizuki
+01142a70f7009c54b37eace6c72e7336	- Double Face 2 (Al Alamiah) (1987) (v2.17).rom	msx-yoriyoshizuki
+03093ac7bc0a142c608b596149a8c8bc	- Double Face 2 (Al Alamiah) (1987) (v2.18).rom	msx-yoriyoshizuki
+2a39693538ca61a0adb2293d27f81d95	- Double Jaw (Al Alamiah) (1985) (Another dump).rom	msx-yoriyoshizuki
+0c2e9f4a087c4ba160acaa3e3f6bddef	- Double Jaw (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+1c79442176b87f194a9cdfb83422db23	- doubleface1-.rom	msx-yoriyoshizuki
+41aba1e55ff973621f86ecde5f648eed	- DR_JACKL.rom	msx-yoriyoshizuki
+f9403bc268cd7cadd1b8ebcbd97568c8	- Dragon Attack (1983)(HAL Laboratory)(JP).rom	msx-yoriyoshizuki
+9fa589983d29d4e58ea9c0bcf47d48f7	- Dragon Slayer 3 - Romancia. Dragon Slayer Jr (1987)(Falcom)(JP)[b].rom	msx-yoriyoshizuki
+47102ef42fdf242899f13be14126be0b	- DREAMRUN.rom	msx-yoriyoshizuki
+79127654ae5b14f3f09c73f3702fc43c	- Driller Tanks (1984)(Hudson Soft)(JP).rom	msx-yoriyoshizuki
+54ca0e7965dcb7d74cac44714818e6c1	- Driller Tanks (1984)(Hudson Soft)(JP)[a].rom	msx-yoriyoshizuki
+76c71afa7c3970f1da485e1c17fe14aa	- DROIDS.rom	msx-yoriyoshizuki
+3bd46acea1858efd6e9886549e4cd9d9	- DROME.rom	msx-yoriyoshizuki
+3003c07e1d01ea63f8a7bf6ecf2cdb4d	- Dustin (1987)(Dinamic Software)(ES).rom	msx-yoriyoshizuki
+48b9612cdb1f8e13c175f4c753236ad5	- DYNAMITE.rom	msx-yoriyoshizuki
+e30e0501a533ab45fb06617131a64ad6	- El Rey del Castillo (Federico Frade Parada) (1985).rom	msx-yoriyoshizuki
+ca0787049b80555809b72e0d9d6892c5	- El Rodillo Chiflado (Viceira MSX Granada) (1985).rom	msx-yoriyoshizuki
+41a0eabf26d7c4870d6011d8b4323786	- El Sabiondo III (Editorial Cometa S.A).rom	msx-yoriyoshizuki
+6373b626b7840a305e77a8ad6ca7bb35	- El Senor de los Anillos (Manuel Ropero Lopez) (1986).rom	msx-yoriyoshizuki
+398db5ebd13807fe32228b8b880d16aa	- ELCID.rom	msx-yoriyoshizuki
+87d259216e904e0a6ee9eeb3e48fd78a	- Electromatic (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+9841cb9a4fc198ccd139e291f46c3e5b	- Elektuur.rom	msx-yoriyoshizuki
+df2b29421381d75ba11059d143304866	- Elevator Action (1985)(Nidecom)(JP)[tr pt MSX Informatica].rom	msx-yoriyoshizuki
+2d1fa297504cf69e0cbc111ad39bf9aa	- elevator.rom	msx-yoriyoshizuki
+f2f24bea869c5cf72a7d3f9c4f1935a9	- elevatorllll.rom	msx-yoriyoshizuki
+048cd62411ce543ba61c31e8a4bf0ade	- EMERALD.rom	msx-yoriyoshizuki
+63e730f3d7dd26f1e5ed0c279a9b5cea	- energy.rom	msx-yoriyoshizuki
+c9bb650f4093770b41cbc6554a163172	- Equations (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+cf08022993ae6a8710fa894f49867043	- equivocal v1.5 (2009)(GuyveR800).rom	msx-yoriyoshizuki
+8751ebd59f7bf68459b0ed0e192e8ca6	- ERIC_FLO.rom	msx-yoriyoshizuki
+dfb3663764cdeed72239026317683692	- Europa (Jesus P. Barroso Polo, Domingo Barea Perez) (1985).rom	msx-yoriyoshizuki
+f32d5d24d218a9813ea86aae08c78c73	- Ewoks (Walter Miller, 1987).rom	msx-yoriyoshizuki
+87419e9d594761b0598c3e8ab79eaccd	- EWOKS.rom	msx-yoriyoshizuki
+cdc0ad11533d829bc71213e1e54cd889	- Examine your Information (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+20f73611970efdb8408d24d6c1d03fda	- Exchanger (1983)(ASCII)(JP)[a].rom	msx-yoriyoshizuki
+985081b984b6c6d4a83949509b9260b7	- Exoide-Z (1986)(Casio)(JP).rom	msx-yoriyoshizuki
+67eecae6cbb4a1fbb5f6f549dd614c1d	- Exoide-Z (1986)(Casio)(JP)[a].rom	msx-yoriyoshizuki
+b053c437b9ffe8cdb4afa8af407c1318	- express (al-alamiah, 1985) (another dump).rom	msx-yoriyoshizuki
+1f3a439ce1afee35ac0b4bcae4dafccd	- express (al-alamiah, 1985).rom	msx-yoriyoshizuki
+0b38905ba4b064c23495840b94f6bb86	- Fifepong (Fifeton) (2005).rom	msx-yoriyoshizuki
+d7a3695c2137094105016d5085ca9482	- fifepong.rom	msx-yoriyoshizuki
+83a311f703c75347a5a3df0e9ff2b7e7	- Galaga (1984)(Namcot)(JP).rom	msx-yoriyoshizuki
+09be689678e35041419ae28cf2913f04	- Galaga (1984)(Namcot)(JP)[a].rom	msx-yoriyoshizuki
+8553529771914ee6f4d1f3faf2a78c95	- GALAGA.rom	msx-yoriyoshizuki
+a11c6cbf6e53c11bd17d9454c47c8876	- GALAXI.rom	msx-yoriyoshizuki
+c94d5f115f27250148677e4495c973c3	- Galaxian (1984)(Namcot)(JP)[a].rom	msx-yoriyoshizuki
+5598707443247b64c9c7fe72aa974751	- Galaxian (1984)(Namcot)(JP)[o].rom	msx-yoriyoshizuki
+78dc3b798f7c6d47976e42604971bc42	- Galaxian (1984)(Namcot)(JP)[o2].rom	msx-yoriyoshizuki
+33ef002e4af577a2d00908e967c0c260	- Galaxian [ColecoVision] (Atari) (1983).rom	msx-yoriyoshizuki
+ffc19c3b07cb2ab67cc2bcf46b252433	- Galaxy Trek Adventure #1 (Howard Batie) (1983).rom	msx-yoriyoshizuki
+0c1566a2080a8d3a5d6623dc2df555f7	- Gallery (Vincent & Daniel Marzin) (1985).rom	msx-yoriyoshizuki
+d4600d54d56fcc7b2971929dd30663fe	- Game Master (FRENCH).rom	msx-yoriyoshizuki
+d04e17704b9244624cc944231911e69a	- GANDAM.rom	msx-yoriyoshizuki
+09ee114f5dca1f8c8f0e5c447651b73f	- GANGMAN.rom	msx-yoriyoshizuki
+e0c9f38f78856baa869c97f32dcd5fab	- Gasoil (Juan Jose Marcos) (1989).rom	msx-yoriyoshizuki
+7669747dae009d2794fd2ca3283e7100	- Genesis - Dawn of a New Day (Retroworks 2010).rom	msx-yoriyoshizuki
+e0d16809730d09526cce51761c27365e	- Genghis Khan (Positive) (1991) (Version ROM del juego, creada por Kabish).rom	msx-yoriyoshizuki
+073a445389df5eaf133171e588d6b4b2	- GENGHIS.rom	msx-yoriyoshizuki
+647723494486f5e06fcaa600225f5883	- Genio (Desconocido).rom	msx-yoriyoshizuki
+1aa8bbaca082917cfea1d4d7ccdfe1f7	- GEO_VOL.rom	msx-yoriyoshizuki
+f175ea8b93d85fdd20b453e48481cf24	- GLAURUNG.rom	msx-yoriyoshizuki
+ac2e61850414f7b528c8753a3d804394	- Glider (1985)(ASCII)(JP).rom	msx-yoriyoshizuki
+6c990e40ffdfc755ddc389507d22ba4a	- Glory (Barq) (1987).rom	msx-yoriyoshizuki
+7cd31e0add66450bde4e2b149b43108a	- Gold Digger (MSX Gids) (1986).rom	msx-yoriyoshizuki
+ae65c3ceb17fd6187aad36dcfb3b9858	- Golf Kyou. Hudson 3D Golf. Golf Crazy (1984)(Hudson Soft)(JP).rom	msx-yoriyoshizuki
+b0a285c89a0087cb6e54337292e203ac	- Gommy - Medieval Defender.rom	msx-yoriyoshizuki
+eb6a4783588e3c2a821732c86a381746	- Gommy Defensor Medieval (2013-06)(DIMENSION Z Retro Video Games)(Spanish).rom	msx-yoriyoshizuki
+3fcb5ff74698e75f7782183e94c54dee	- Gomoku Narabe - Omo Go (1984)(Toshiba-EMI)(JP)[a].rom	msx-yoriyoshizuki
+a9e6ff2038cebff490e44ad89c53a8ee	- Gomoku Narabe - Omo Go (1984)(Toshiba-EMI)(JP)[o].rom	msx-yoriyoshizuki
+8450dac50dabef17e0ea6dd5dbd13527	- Goody (Opera Soft) (1987) (Version ROM del juego, creada por Kabish).rom	msx-yoriyoshizuki
+25a52d199b287ee39c5ec4d913240a6b	- GOODY.rom	msx-yoriyoshizuki
+e25e87aecc04f4e5047b9af12135cde1	- Goonies, The (1986)(Konami)(JP)[a][RC-734].rom	msx-yoriyoshizuki
+518b1ddcf77e38e9f1370f94b41875c4	- Goonies, The (1986)(Konami)(JP)[RC-734].rom	msx-yoriyoshizuki
+c3dd40df91446d4515ca8ad63dc959e5	- goonies.rom	msx-yoriyoshizuki
+95e14d5795b7deaa7863b52d6a43d32c	- Gozira 3D. Godzilla vs 3 Major Monsters (1984)(Bandai)(JP)[h Dino Sourcers].rom	msx-yoriyoshizuki
+2486e60bf2f1a51a10b6bb7e96440b6c	- GP World.rom	msx-yoriyoshizuki
+697f6a318b187510655a28f3a0fe698d	- Green Beret (1986)(Konami)(JP).rom	msx-yoriyoshizuki
+f0653353e486843b0c827746e0cfa078	- Green Beret (1986)(Konami)(JP)[a].rom	msx-yoriyoshizuki
+19c599289767db875f21b6165a1df0cf	- Green Beret (1987)(Zemina)(KR).rom	msx-yoriyoshizuki
+c48e3209fd80d9549026ab8af0f2bae7	- greenberet.rom	msx-yoriyoshizuki
+519d38c5db1b76283636b6ccb47d962e	- Grid Trap (Livewire) (1985) (Versiones ROM y DSK creadas por mars2000).rom	msx-yoriyoshizuki
+a02ee1d95223091749ce400c768b2159	- Griel's Quest for the Sangraal (2005)(Karoshi)[RK709].rom	msx-yoriyoshizuki
+767be00c25dd3617b8eec069dd49d784	- Griel's Quest for the Sangraal EX (2005)(Karoshi)[RK709EX].rom	msx-yoriyoshizuki
+e76f5c9ed6679eec51f4fa7af02abf46	- GRIEL'S QUEST FOR THE SANGRAAL.rom	msx-yoriyoshizuki
+24881ef6aeaa3b3b1f7aa88ae89f6b6c	- Groningen per Helicopter (Albert Computing) (1986).rom	msx-yoriyoshizuki
+297075cb5b0ed7a7bfc8f18d61daecef	- Gruta Mortal (Jose Vicente Rosell) (1987).rom	msx-yoriyoshizuki
+ce1f65f3e0cbac542fd00d98a443339f	- Guardic (1986)(Compile).rom	msx-yoriyoshizuki
+3d4c39117898c3406a2297ca2c7d3253	- Gulkave (1986)(Pony Canyon)(JP).rom	msx-yoriyoshizuki
+4db871206aac5e6bbc11b2719355df22	- Gulkave (1986)(Pony Canyon)(JP)[a].rom	msx-yoriyoshizuki
+f0306f73615766353b85855d94c2bbaf	- Gulkave (1986)(Pony Canyon)(JP)[cr Crack Fm].rom	msx-yoriyoshizuki
+7fbd97602069271832efb4fd39112b19	- GULKAVE.rom	msx-yoriyoshizuki
+0fd75269be799b6dc97a71758ce5b1f4	- GUNDAM.rom	msx-yoriyoshizuki
+63cd7e99aa658f60779f2dda75452c60	- Gunfright (1986)(Nippon Dexter)(JP)[cr Sammi].rom	msx-yoriyoshizuki
+da87792d8321e1c364b3d67e083f3eff	- Gunfright (1986)(Ultimate Play The Game)(GB).rom	msx-yoriyoshizuki
+47ea1e5854d28f8704a0f97f2392cbda	- GUTT.rom	msx-yoriyoshizuki
+1ed9e40fbd670a0946ed2caeea56af1f	- Guttblaster (Eurosoft) (1988) (Version ROM del juego).rom	msx-yoriyoshizuki
+6b97b3c5783765bf09d31172fc4037ad	- GYRODINE.rom	msx-yoriyoshizuki
+10679c292d80b13216e0456e9520a271	- Gyruss (Parker Brothers) (1984).rom	msx-yoriyoshizuki
+451fea340648ebdf5daed23d30ccc83e	- H.E.R.O. (1984)(Pony Canyon)(JP)[cr Purplesoft][o].rom	msx-yoriyoshizuki
+6b6d173cc0b3ccdc067606fef1bfbff5	- H.E.R.O. (1984)(Pony Canyon)(JP)[u][b].rom	msx-yoriyoshizuki
+71e158f8396a576b7320bd26a62e3204	- Haasje Over (MSX Gids) (1986).rom	msx-yoriyoshizuki
+980ecfa8d0558431282935c4e3f6cbfd	- Haasover.rom	msx-yoriyoshizuki
+fd43ffbe42a023a8c3f9df1bc8175dfd	- Habilit (Genesis Soft) (1988) (Version ROM del juego, por JAM y GDX).rom	msx-yoriyoshizuki
+24be2b95636c10179a425363e1fc68a4	- Habilit.rom	msx-yoriyoshizuki
+e71c92c88c654685d298752a0199aaab	- Hadesu no Monshou. The Seal of Hades (1986)(Casio)(JP).rom	msx-yoriyoshizuki
+35025f482cb4834b7bba4056d69ddcba	- Haja Fuin (Kogado) (1987) (Juego traducido al ingles, por Django).rom	msx-yoriyoshizuki
+5c48059ec5269312cda27bf354ff47ad	- HAMERBOY.rom	msx-yoriyoshizuki
+fa8d941525e52f85c1624517998a45a0	- HAMMER.rom	msx-yoriyoshizuki
+9c40115a913764ab227ef54a12df7346	- Hanafuda Koi Koi - Gostop Godori (1984)(ASCII)(JP)[o].rom	msx-yoriyoshizuki
+c6f2528c625892c71be8bdf14d67c4ec	- Hanafuda Koikoi (Ram Soft) (1984) (Version del juego modificada para evitar error en el registro del PSG, por GDX).rom	msx-yoriyoshizuki
+014d351db47d5beabde8851bdcc94a0e	- Hang-On (1986)(Pony Canyon)(JP).rom	msx-yoriyoshizuki
+262aff738452eb2b62e1881bf23dbd4b	- Hang-On (1986)(Pony Canyon)(JP)[a].rom	msx-yoriyoshizuki
+603ec3cc8ac1b4fe44928edab93ceb09	- hans adventure 1.1.rom	msx-yoriyoshizuki
+6706aefe8c4c247590eaadfc9677ee36	- Happy Fret (1985)(Micro Cabin)(JP).rom	msx-yoriyoshizuki
+46ea4f2f6593a5e51181be6f0eca257a	- HAUNTEDH.rom	msx-yoriyoshizuki
+d2c02e327605d4831702ce5f914c12f6	- HBOXING.rom	msx-yoriyoshizuki
+4d61ae1ae1561581975a965ac05f9ff4	- Head & Tail (Al Alamiah) (1987).rom	msx-yoriyoshizuki
+87faa2b74f98f753687686f761cdd860	- Head over Heels (1987)(Ocean Software)(GB).rom	msx-yoriyoshizuki
+26b55c3870295fc7e64bde86d83dc2c2	- headtail.rom	msx-yoriyoshizuki
+9c131fb9742940fb19f65992cb190bbf	- Heavy Boxing (1983)(HAL Laboratory)(JP).rom	msx-yoriyoshizuki
+00c9363913697332a6797ba2e2a2dd9f	- Heist, The (1985)(Comptiq)(JP).rom	msx-yoriyoshizuki
+945bae2b7994da6d2aebc9b9116a9796	- Helicopter Game (Desconocido).rom	msx-yoriyoshizuki
+cb2dc180484bd2e94d7a4ed351a8c1cd	- Helicoptero de Salvamento (MSX Extra) (1985).rom	msx-yoriyoshizuki
+65077d34886c092e4f32bfd3e471c20d	- HEMAN.rom	msx-yoriyoshizuki
+aa5620e435c7c1a93730e840479370ab	- HERCULE.rom	msx-yoriyoshizuki
+afadc80e8c4e1b2472fde63652698ee4	- Hero.rom	msx-yoriyoshizuki
+e042e5e38cc1bd4a83d3cf4aaaafe62a	- heroes-arena.rom	msx-yoriyoshizuki
+8a9d5f159172568cb0aca97aa78ac81f	- Hexapion (Desconocido).rom	msx-yoriyoshizuki
+a0d1c7eed2b6b9014405fbce98ef347f	- Higemaru (Capcom) (1987) (Version del juego modificada para evitar error en el registro del PSG, por GDX).rom	msx-yoriyoshizuki
+00677667fca3dd010477f4cce31d611b	- High Way Star (1984)(Qnix).rom	msx-yoriyoshizuki
+4a74a4b7f27e50c03f635556c58e6f81	- Hitsuji Yai. Pretty Sheep (1984)(Hudson Soft)(JP).rom	msx-yoriyoshizuki
+9ec76ef0ff9b1f3b948a8bb0eca88a19	- Hole in One (1984)(HAL Laboratory)(JP).rom	msx-yoriyoshizuki
+3d73ee9d147ffba2f62aef4259121a97	- Hole in One Professional (1986)(HAL Laboratory)(JP).rom	msx-yoriyoshizuki
+c56ccf913f2eb94c3bdb92180d1a4294	- Hole in One Professional (1986)(HAL Laboratory)(JP)[cr Hillsoft].rom	msx-yoriyoshizuki
+99370f6d86e9486bb52eb77bf8dc0c6d	- Hole in One Professional (Japan).rom	msx-yoriyoshizuki
+2a076ff777ba567488f6734b4169d075	- HOLYMPIC.rom	msx-yoriyoshizuki
+388919b63c03572ac6786cc97704a22b	- Hopper (1986)(Al Alamiah)(KW).rom	msx-yoriyoshizuki
+ea825d648d23fb0d19f29647aa1ee8da	- Hose Diogo Martinez - Bussas Quest (Muffie) (2008).rom	msx-yoriyoshizuki
+ade607e1a1ca532aab1e86034e8048a9	- HotLogo.rom	msx-yoriyoshizuki
+0b6bbea9f669a8cbdd44bda4fc64ca82	- HOTSHOE.rom	msx-yoriyoshizuki
+30acb65e06cb15e882722cd6735049e4	- House II - Aun mas alucinante (Yermani Soft) (2011).rom	msx-yoriyoshizuki
+55c822b9e91d8d4b2a7f25fdfe979021	- HSPORTS2.rom	msx-yoriyoshizuki
+8904a26bc8cc96c6bfa3b5bc60092a92	- Humphrey (Made in Spain) (1988) (Version ROM del juego, creada por Kabish).rom	msx-yoriyoshizuki
+e06ae34cf2b4ee7181792f89e21f1145	- Humphrey (Mr. Micro) (1984) (Versiones ROM y DSK creadas por mars2000).rom	msx-yoriyoshizuki
+b1da07b25f201c55b89b9b6450d16a44	- HUMPHREY.rom	msx-yoriyoshizuki
+15457dfa605d980abb54286a0a738723	- HUNCHBAK.rom	msx-yoriyoshizuki
+282ad8a052ef557479be911256d62dbf	- Hundra (Dinamic) (1988) (Version ROM del juego, creada por Kabish).rom	msx-yoriyoshizuki
+f5d8eddcbce4f47e0f7c3efd540cc131	- Hustle Chumy (1983)(General)(JP).rom	msx-yoriyoshizuki
+b47c5cb719dda8d8cba1048a5719b495	- HUSTLE.rom	msx-yoriyoshizuki
+cd45da9901f4f81b4f7d1280591a5577	- HUSTLER.rom	msx-yoriyoshizuki
+b87e40fe5585b26b776b336e42316932	- Hw-star.rom	msx-yoriyoshizuki
+784a031211e9d55f9b1b323e3c2254af	- Hydlide II - Shine of Darkness (1986)(T&E Soft)(JP)[a].rom	msx-yoriyoshizuki
+c50c80735a3ae696b288a709909e16ae	- Hydlide II - Shine of Darkness (1986)(T&E Soft)(JP)[b].rom	msx-yoriyoshizuki
+adabaabc11a56576481a8526147bb17e	- Hype (1987)(Methodic Solutions)(NL)[b].rom	msx-yoriyoshizuki
+aa41ca68958be4b4cbd2563b781031bb	- Hype (The Bytebusters) (1987) (Version especial para el mercado arabe).rom	msx-yoriyoshizuki
+942965c5378c141d6c6a6264564dce85	- Hype (The Bytebusters) (1987) (Version ROM del juego, creada por GDX).rom	msx-yoriyoshizuki
+6b07b56e27b9437075947106f7f1c1a0	- HYPE [a].rom	msx-yoriyoshizuki
+1edfbf1290186dc112cbb4e78b5f5035	- HYPE.rom	msx-yoriyoshizuki
+d7bb9e5695e7d80bfdbd8136c392ea8c	- Hyper Rally (1985)(Konami)(JP)[a][SCC+][RC-718].rom	msx-yoriyoshizuki
+352ef9aec5e2d38c4a2604f9c97e880f	- Hyper Rally (1985)(Konami)(JP)[a2][RC-718].rom	msx-yoriyoshizuki
+924b32297d0f3d94e0282bb0968cff1c	- Hyper Rally (1985)(Konami)(JP)[a3][RC-718].rom	msx-yoriyoshizuki
+888d019ade6429b9bd955db456187c8a	- Hyper Rally (1985)(Konami)(JP)[RC-718].rom	msx-yoriyoshizuki
+a056558ed6878f6c95a411990754f56c	- Hyper Rally (1985)(Konami)(JP)[SCC+][RC-718].rom	msx-yoriyoshizuki
+de40a94e4fbbd653379b78b62c417608	- Hyper Sports 1 (1984)(Konami)(JP)[RC-715].rom	msx-yoriyoshizuki
+ee74322b9491b521160d9f9d46e10e31	- Hyper Sports 2 (1984)(Konami)(JP)[a][SCC+][RC-717].rom	msx-yoriyoshizuki
+48b5ecda8da4c798af4eb302e8a7ab7a	- Hyper Sports 2 (1984)(Konami)(JP)[SCC][RC-717].rom	msx-yoriyoshizuki
+a9a407e72de9041cbcbe2e3d388bc51c	- Hyper Sports 2 (1984)(Konami)(JP)[SCC+][RC-717].rom	msx-yoriyoshizuki
+95b5b6df69509694d92238cf5af366f9	- Hyper Sports 3 (1985)(Konami)(JP)[a][RC-733].rom	msx-yoriyoshizuki
+88e29e9c1d5ad3ca4f2b8c65acb04c43	- Hyper Sports 3 (1985)(Konami)(JP)[RC-733].rom	msx-yoriyoshizuki
+595aa8af11d946cb758cc4cbaa6330d6	- hypersports3.rom	msx-yoriyoshizuki
+b434880ba0ee7a52983ea0c40a8d7c18	- HYPRALLY.rom	msx-yoriyoshizuki
+feab0665b45306776075a9bf2301858b	- Hypsys.rom	msx-yoriyoshizuki
+382ad7f162d4e415bcc483c067db1898	- I Need Speed (CEZ Games Studio) (2008).rom	msx-yoriyoshizuki
+0e8c53d458f86593dadbecaddcc098fc	- I Need Speed (CEZ GS 2009).rom	msx-yoriyoshizuki
+73e60bb4dec08bc0a7c5c9ccbb9f2d4a	- I_KARATE.rom	msx-yoriyoshizuki
+a71d631ab61d603d7cc50d3badd27b7c	- Ibn Maleck (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+c904aaa13454b390e172727e463fe681	- Ibn Sina 1 (Al Alamiah) (1985) (Another dump).rom	msx-yoriyoshizuki
+b484d496f978a85aca73fd42c9612416	- Ibn Sina 1 (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+0a9d9adc635be355f87af75a46d5ebf0	- Ibn Sina 2 (Al Alamiah) (1985) (Another dump).rom	msx-yoriyoshizuki
+a00d160ba411c3a1a0987340bcd95153	- Ibn Sina 2 (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+37f25c45a52173eb57302207a7dd0950	- ibnmalik-.rom	msx-yoriyoshizuki
+0a4d604bef46d2f8f5b3b4a4830f1fd3	- ICE.rom	msx-yoriyoshizuki
+17a52e8f19c65890460786d49f50e6b1	- ICICLE.rom	msx-yoriyoshizuki
+c60f7b30128a3c51750694b6b92a677d	- IDE HDD Driver v1.80 (1995)(SOLIDSOFT)[IDE card BEER-202].rom	msx-yoriyoshizuki
+77fe453b8880969385637adeff776ad0	- Ijsfabriek (H. Kloosterman) (1986).rom	msx-yoriyoshizuki
+b808fe1910c3346d95b098692889f222	- Iligks Episode I - Theseus (1984)(ASCII)(JP)[a].rom	msx-yoriyoshizuki
+967a1afe992aaf8d2e085fb7a1fe23a5	- Iligks Episode I - Theseus (1984)(ASCII)(JP)[o].rom	msx-yoriyoshizuki
+624bf5a7292944496e825014590fb5cb	- Iligks Episode IV - The Maze of Illegus (1984)(ASCII)(JP).rom	msx-yoriyoshizuki
+f32593a9f31f900b5b675949be1fad51	- ILLUSION.rom	msx-yoriyoshizuki
+8d935f78d9f9f92b051dd1b18001a090	- Illusions (Infogrames) (1985) (Version del juego en ROM y traducida al ingles por GDX).rom	msx-yoriyoshizuki
+f21131d774460f84d24d06a6d266170c	- Illusions (Infogrames) (1985) (Version del juego en ROM, realizada por GDX).rom	msx-yoriyoshizuki
+a0fb54df7bdca4744d9a25fe2759e31c	- INCA.rom	msx-yoriyoshizuki
+b5103d7437630b1ee00389b6a9007988	- Indian no Bouken. Indian's Adventure (1984)(Hudson Soft)(JP)[b].rom	msx-yoriyoshizuki
+e35d9eb8cf473e672c86a668b36194c9	- INDORACE.rom	msx-yoriyoshizuki
+6364ffba62039469b06ed9cea96ddfa1	- INDY500.rom	msx-yoriyoshizuki
+986f9091cd04056ff8ff21013d763ad0	- ineedspeed wip.rom	msx-yoriyoshizuki
+3d2bc75e92cb465398353841e616c067	- INFERNAL.rom	msx-yoriyoshizuki
+0e6892d89717795eda02d6979298cfed	- Instructor (Barq) (1985).rom	msx-yoriyoshizuki
+73d78109847673d38f9cc0cf41dbc48c	- Invasion (Sherif Hashim) (2011).rom	msx-yoriyoshizuki
+62f112037bc8e1a140c72605ed5db5da	- Invasion of the Zombie Monsters (Relevo Videogames 2010).rom	msx-yoriyoshizuki
+6f58c9a8ed280c5f9d09889fae6fce31	- invasion!.rom	msx-yoriyoshizuki
+c0a4ad10cc6f9c52ea31d065361ea43c	- invasion(2).rom	msx-yoriyoshizuki
+38ee9e9f57bc5183993385aa96938e27	- islam built on five (al-alamiah, 1986).rom	msx-yoriyoshizuki
+c21715fb69e2f75be62f680f3bfb7c78	- islam pillars.rom	msx-yoriyoshizuki
+40c7cd9563b90ebcf6d42b1d396a7974	- Issunhoushi no Donnamondai. Little Samurai (1987)(Casio)(JP)[a].rom	msx-yoriyoshizuki
+6b744850aece858bd3c2586c37a061d6	- Issunhoushi no Donnamondai. Little Samurai (1987)(Casio)(JP)[cr Angel].rom	msx-yoriyoshizuki
+1633ce1811cc37e0477e6c266ccf7736	- Issunhoushi no Donnamondai. Little Samurai (1987)(Casio)(JP)[cr Sammi].rom	msx-yoriyoshizuki
+496840e31713cd3bc276de0661ede151	- ITALIA90.rom	msx-yoriyoshizuki
+5cd68801bec69fe88a6f572f8f8c47ef	- itoipi.rom	msx-yoriyoshizuki
+5f4a638b669f1e273017fb23e2581a6f	- J.P. Winkle (1986)(MSX Magazine)(JP).rom	msx-yoriyoshizuki
+69c82f70b3431a770c21851194c3d6fe	- Ja-Pong 1 (Dioniso) (2005).rom	msx-yoriyoshizuki
+d0587a24bb94824fbe1f51e590083a02	- Ja-Pong 2 (Dioniso) (2005).rom	msx-yoriyoshizuki
+ce358d4eb6aa807290995c730df70573	- JABATO.rom	msx-yoriyoshizuki
+d0d24385c7cf8a98c318a63138490330	- Jack Exploring (Jordi Sala Clara).rom	msx-yoriyoshizuki
+152dbd5899f69879031de25debcc802f	- JAWS.rom	msx-yoriyoshizuki
+44ac39b8807e9cd20ebb2955ef6c8c38	- JECOMP.rom	msx-yoriyoshizuki
+de9a0789ae69ff3c54b94f0ba374722d	- Jet Bomber (1985)(Al Alamiah)(KW).rom	msx-yoriyoshizuki
+f26e7fb9b97a3fee63483985921f4495	- Jet Set Willy (1985)(Software Projects)(GB).rom	msx-yoriyoshizuki
+0828e2d58b7e9a5dc48c63463f22b444	- Jet-Monster (Desconocido) (1985).rom	msx-yoriyoshizuki
+f888f65218dc5ad42df0e815f3d3c33c	- JETFIGHT.rom	msx-yoriyoshizuki
+ff7fd9d2706ffe4d3533953e2d5cce1a	- jetpac.rom	msx-yoriyoshizuki
+3e403e174b3c42ac98669af70c0e4f24	- Jimmy Quest (Jacques Daguin) (1985).rom	msx-yoriyoshizuki
+d4699f818851bd3030b9571451b12048	- jinj2-v1.rom	msx-yoriyoshizuki
+da0b6cb7dc70a2fbb03819a4230d631b	- jinj2-v2.rom	msx-yoriyoshizuki
+6e3d8d0bb31a2022a1a19bd1abf6fadd	- jinj2msx.rom	msx-yoriyoshizuki
+b103e418120fdb41c1faf53b7fded2e3	- JOEBLADE.rom	msx-yoriyoshizuki
+9d65f3ead41b9b1a00afbad33077306e	- jp winkle.rom	msx-yoriyoshizuki
+1f5d782f03d16865ac029ebc2dc3349f	- JPWINKLE.rom	msx-yoriyoshizuki
+c25b1a7ce7ea2f85aa598c0b05e76584	- Jump Coaster (1984)(Nippon Columbia - Colpax - Universal)[o].rom	msx-yoriyoshizuki
+993faa9e0db9d9995b6b32cf7ce3ce08	- Jump Coaster (1984)(Nippon Columbia - Colpax - Universal)[o2].rom	msx-yoriyoshizuki
+28131817d965fcb9037ba3cda31f320d	- Jump Land (1985)(Nippon Columbia - Colpax - Universal).rom	msx-yoriyoshizuki
+05769d26efc7c988220859d2bf9b4a9c	- Jumping Rabbit (1984)(MIA)(JP).rom	msx-yoriyoshizuki
+e637cf2bb2d58f69213c43fce02bb0c6	- Jungle Hunt (Taito) (1982).rom	msx-yoriyoshizuki
+27994f86bd9ea24da4edfd746b7ccc93	- Jungle Warrior (Zigurat) (1990) (Version ROM del juego, creada por Kabish).rom	msx-yoriyoshizuki
+c411657efa38f686e7afdbf251869883	- JUNGLE.rom	msx-yoriyoshizuki
+e38a4282d491f94f90c9cd9e2330abcf	- junglehunt_coleco_porting.rom	msx-yoriyoshizuki
+11b98b059d713fe4152d030ec46965b8	- Juno First (1983)(Sony)(JP).rom	msx-yoriyoshizuki
+74afd6d2537d90f793219030bf879310	- Juno First (1983)(Sony)(JP)[o].rom	msx-yoriyoshizuki
+98d3720dc7ab5f2c4bc4c2a0dcaaa4d4	- Juno First (1983)(Sony)(JP)[o2].rom	msx-yoriyoshizuki
+8da447c1b6a85b0a6d68185dc8a8ead1	- Juno First (1983)(Sony)(JP)[o3].rom	msx-yoriyoshizuki
+8631f829006fc088cff728d4c81d3454	- Juno-f.rom	msx-yoriyoshizuki
+896fc33840b687ad5d0317725e6afb78	- Konami Complete RC Collection RC-704.rom	msx-yoriyoshizuki
+bd0bfc124b898b0c2b5d696351039438	- Konami Complete RC Collection RC-705.rom	msx-yoriyoshizuki
+e90d951a8034698f214016814a8966fe	- Konami Complete RC Collection RC-706.rom	msx-yoriyoshizuki
+1d35604d22c039aed6aea58cbb868ffa	- Konami Complete RC Collection RC-721.rom	msx-yoriyoshizuki
+94e62b3f7bd8c4bf72192b85f6e557b8	- Konami's Baseball (1984)(Konami)(JP)[RC-724].rom	msx-yoriyoshizuki
+fc6d84b56c654da2bd5a07c51059795e	- Konami's Billiards (1984)(Konami)(JP)[a][RC-706].rom	msx-yoriyoshizuki
+f68d85af1f91562d61994fa6605cb999	- Konami's Billiards (1984)(Konami)(JP)[RC-706].rom	msx-yoriyoshizuki
+649b8d9d5462605127e0f161c41c7ffa	- Konami's Boxing (1985)(Konami)(JP)[a][SCC+][RC-736].rom	msx-yoriyoshizuki
+c499d7891cb5663e5ddc4d175775fc8a	- Konami's Boxing (1985)(Konami)(JP)[a2][RC-736].rom	msx-yoriyoshizuki
+5b96ed50ad20ceae2aac53584a0dbe15	- Konami's Boxing (1985)(Konami)(JP)[RC-736].rom	msx-yoriyoshizuki
+1a1b0f6e1d4501ff64ed21184268bb73	- Konami's Boxing (1985)(Konami)(JP)[SCC][RC-736].rom	msx-yoriyoshizuki
+97b499af2815fbae8c4ce52b6da20e29	- Konami's Boxing (1985)(Konami)(JP)[SCC+][RC-736].rom	msx-yoriyoshizuki
+937c06efba04804c506c7403269416eb	- Konami's Football (1985)(Konami)(JP)[a][RC-732].rom	msx-yoriyoshizuki
+83e03a16040f7ce9b92a5249c7a11091	- Konami's Football (1985)(Konami)(JP)[a2][RC-732].rom	msx-yoriyoshizuki
+ce6b54a1ea81f0099f1b88c6a9187225	- Konami's Football (1985)(Konami)(JP)[RC-732].rom	msx-yoriyoshizuki
+9a1fea866bf212266b540f31027bcd04	- Konami's Game Master - European Version (1986)(Konami)(JP)[a][RC-735].rom	msx-yoriyoshizuki
+b4c20087e3fcf18fa270591f266a0937	- Konami's Game Master - European Version (1986)(Konami)(JP)[RC-735].rom	msx-yoriyoshizuki
+660d6f9b5f951ef3ae3066f4c0766ff8	- Konami's Game Master II (1988)(Konami)(JP)[a][RC-755].rom	msx-yoriyoshizuki
+ae7dd50d7ebbf9655aaf4245a3b17382	- Konami's Game Master II (1988)(Konami)(JP)[a2][RC-755].rom	msx-yoriyoshizuki
+82fe3a8b30d2325e5a6468ca99e05566	- Konami's Golf (1985)(Konami)(JP)[RC-723].rom	msx-yoriyoshizuki
+692ef0b5be5fd1e7ae0f33b16c2c356f	- Konami's Ping Pong (1985)(Konami)(JP)[a][RC-731].rom	msx-yoriyoshizuki
+8d1ba9794cf586433717812e178e7e2a	- Konami's Ping Pong (1985)(Konami)(JP)[RC-731].rom	msx-yoriyoshizuki
+367ad85a80fe041d9741ede84970f844	- Konami's Soccer (1985)(Konami)(JP)[a2][RC-732].rom	msx-yoriyoshizuki
+81fbcff39644d5ff3b4ff1399ba66939	- Konami's Soccer (1985)(Konami)(JP)[RC-732].rom	msx-yoriyoshizuki
+ae928ab708342ed60778d691c0dfa8fe	- Konami's Soccer (Konami) (1985) (Version parcheada que mejora la velocidad en MSX con turbo).rom	msx-yoriyoshizuki
+9722afde54a1e9c47fe1fd954cbfb246	- Konami's Synthesizer (1986)(Konami)(JP)[a][RC-741].rom	msx-yoriyoshizuki
+ed06a532d79cc65e075e7738c75e8d07	- Konami's Tennis (1984)(Konami)(JP)[cr Prosoft][RC-720].rom	msx-yoriyoshizuki
+d68c26e7513bad6892a7ca80a6c277bb	- Koneko no Daibouken. Kitty's Great Adventure. Catboy (1986)(Casio)(JP)[b].rom	msx-yoriyoshizuki
+333618019d9262a71fd821e7bc513185	- Kong's Revenge (Side 1).rom	msx-yoriyoshizuki
+9ab171a72766822cebc26a1bce83dcb7	- Kong's Revenge (Side 2).rom	msx-yoriyoshizuki
+9b2c510671d1dbbc9aedfe337b787496	- Koufi (Al Alamiah) (1984).rom	msx-yoriyoshizuki
+64e110f2907e6bc40bb426022bc1d0d6	- KRAKOUT [a].rom	msx-yoriyoshizuki
+bd3b7b7fc808513edec50b5ff5b1bbc0	- Krakout.rom	msx-yoriyoshizuki
+d2dd69a414caf7487a1bfc695d7abedf	- Kralizec 8k Tetris (2004)(Kralizec)(ES).rom	msx-yoriyoshizuki
+ceadbe653e1db2a75588e5c8fecbb336	- Kralizec Tetris (2005)(Kralizec)(ES).rom	msx-yoriyoshizuki
+3d32dc5577c40e089c772a7fc28af6bb	- KSTATION.rom	msx-yoriyoshizuki
+89a794da98d0a4ec02044d4442b2032a	- ktetris2.rom	msx-yoriyoshizuki
+48d62f1c759f567de4591d68d9b85fa0	- KUBUS.rom	msx-yoriyoshizuki
+49e62c2a6ff42adf32e307ba44b2da1a	- Kung Fu Master (1984)(ASCII)(JP).rom	msx-yoriyoshizuki
+11e30c71ea0652aed07be591c28f471b	- Kung Fu Master (1984)(ASCII)(JP)[a].rom	msx-yoriyoshizuki
+62152c1298cd8be1ef7095b24966c393	- Kung-Fu Thai Kun. Isao Lord (1985)(Toshiba-EMI)(JP)[a].rom	msx-yoriyoshizuki
+3cbfe5ec7366410409148111aff7c459	- Kung-Fu Thai Kun. Isao Lord (1985)(Toshiba-EMI)(JP)[cr Claus].rom	msx-yoriyoshizuki
+8429b34651819280d8497b4d073a34b2	- La Armada Invencible (Editorial Cometa S.A).rom	msx-yoriyoshizuki
+a78656327dfa9c681a8c0faff12f5656	- La Corona Encantada (RELEVO Videogames) (2009) (Version especial como homenaje al MSX aprovechando las cualidades graficas del ordenador japones).rom	msx-yoriyoshizuki
+b7e35b5abd22dce96f0b4aa19d2c9f5d	- LA CORONA ENCANTADA (RK714) English.rom	msx-yoriyoshizuki
+81440e7f2d4a1e7ee9afb7fec0b1f31f	- LA CORONA ENCANTADA (RK714).rom	msx-yoriyoshizuki
+6da033f1b7e65a1e4c0497a8090473e5	- La Espada Sagrada (Side 1).rom	msx-yoriyoshizuki
+d775cf06442ce1ac3a6460113619f732	- La Espada Sagrada (Side 2).rom	msx-yoriyoshizuki
+09d03bca3870ef73dce7846f022db985	- La Mansion (Toni Ratllan) (1986).rom	msx-yoriyoshizuki
+73e32d60f667d04e4651312254f57319	- La Rana del Espacio (Osymer Godoy Rivero) (1985).rom	msx-yoriyoshizuki
+7d8b674fcceb7f51170763450fba3f4b	- La Torre de Angel (M-OZO).rom	msx-yoriyoshizuki
+ecca042cce50e24f45701f15e94bedf9	- Laby Man (Renan Jegouzo) (1985).rom	msx-yoriyoshizuki
+4c2e516c410f76eb5cbf84842ec58401	- Lady Bug (Coleco, 1982).rom	msx-yoriyoshizuki
+796acdb3c16e1cfc4ee8592b620d5364	- Lady Safari.rom	msx-yoriyoshizuki
+7c46be8f6721a234e25f3e70d82707fb	- Lancering (W. Vliegenthart) (1985).rom	msx-yoriyoshizuki
+1e26432ba2d657581632a5efbc69197d	- Laptick 2 (1986)(dB-Soft)(JP)[cr Flash].rom	msx-yoriyoshizuki
+a235c8c186ce88f37af343a6bea2f0ce	- Las Cuatro en Raya (Editorial Cometa S.A).rom	msx-yoriyoshizuki
+4cac755b4a7c142b23c4f9c163ceb3f9	- LASTMISS.rom	msx-yoriyoshizuki
+a30185600355031b7d06097f6f376607	- Le Mans 2 (1985)(Electric Software)(GB).rom	msx-yoriyoshizuki
+1727301a27f5038804019e80a78cb6e5	- learn sakhr basic.rom	msx-yoriyoshizuki
+bfc1027ae05fbf19f95298941ce6887e	- Legendly Knight (1988)(Topia)(KR).rom	msx-yoriyoshizuki
+a0764d302c7a825674083d71fa9b6425	- Legendly Knight (1988)(Topia)[cr Ulver].rom	msx-yoriyoshizuki
+037cf6466cefdb2839cc66027c9c0139	- LEGION.rom	msx-yoriyoshizuki
+9341e356e1fbe64b2ae4770dc9b213cb	- LEMANS.rom	msx-yoriyoshizuki
+63598a71ee0b052097ceac7acd9d8920	- Let's Count 3 (Al Alamiah) (1990).rom	msx-yoriyoshizuki
+73408948b41f592914a1b5cf33f620df	- Liberator (PJ Soft) (1989).rom	msx-yoriyoshizuki
+6ee9feebb8fafd809b384ac90193a650	- LICENCE.rom	msx-yoriyoshizuki
+26142f5c31a745e54808f8576e2443e0	- Life Game (Desconocido).rom	msx-yoriyoshizuki
+391493ec17fb5ff01b5bdd609e9ed4e4	- LIFEFAST.rom	msx-yoriyoshizuki
+69a8ce244a5ad5df11b462b48ea22a1f	- Light Corridor, The (1990)(Infogrames)(FR).rom	msx-yoriyoshizuki
+82eeb545ca8c5ee63c5b78326f07b474	- Limaribu (Arnold) (2008).rom	msx-yoriyoshizuki
+a6dc94489740e7fdb5b36f00cb57aaee	- limaribu.rom	msx-yoriyoshizuki
+8adcfc82efe742ad2c9acf493a3476fd	- LIVING.rom	msx-yoriyoshizuki
+76177a9e5d11afc6b22157b2c21c4998	- LIVINGST.rom	msx-yoriyoshizuki
+d95a78cb0b8e71ff5ad747c7b8088c35	- Livingstone Supongo 2 (Side 1).rom	msx-yoriyoshizuki
+8b174d247ea17ebaec23323ce2cfab4b	- Livingstone Supongo 2 (Side 2).rom	msx-yoriyoshizuki
+f668298ad121728414de1aaeac8d6b21	- Lode Runner (1984)(Sony)(JP)[a].rom	msx-yoriyoshizuki
+443bdcda2106d9cf0de8bc86eb1c2f41	- loderunner.rom	msx-yoriyoshizuki
+9acee1763d830294b3ebee65a81a561d	- Logo_Br.rom	msx-yoriyoshizuki
+0e442550e0be1284187626b48ab38632	- LONESOME.rom	msx-yoriyoshizuki
+2688b0c4ac2547fee9a766108e50304d	- LORDTIME.rom	msx-yoriyoshizuki
+db267a20b3f741eece89e1e3a9dafd8d	- lotusf3 [a].rom	msx-yoriyoshizuki
+a1f7a18278054ea7ca7b707f9e049bcc	- lotusf3.rom	msx-yoriyoshizuki
+6993619caca1ff3b38005577ee1b5908	- Lunar Ball (1985)(Pony Canyon)(JP)[b].rom	msx-yoriyoshizuki
+0861f80bd15963927097e9c6b1b4d372	- m_computer.rom	msx-yoriyoshizuki
+348ce3cd0323e1bc3337844431990dad	- m_count.rom	msx-yoriyoshizuki
+09678788cb1342a05848c34ab7bfe1ec	- m_electric.rom	msx-yoriyoshizuki
+1f6bfa5d097fe9d47421101db1f8d249	- m_english.rom	msx-yoriyoshizuki
+a2ae7936cb5fa59287e0f6e04bb65771	- m_english2-1.rom	msx-yoriyoshizuki
+aab51f90925ca998b916864fa98ae038	- m_exercise.rom	msx-yoriyoshizuki
+1be52577750638d7f68e5d7486fd92c8	- m_game.rom	msx-yoriyoshizuki
+18cb127198dbc93298b055505c68f22e	- m_geometry.rom	msx-yoriyoshizuki
+eb134dcbb8cee19c813dd83529bbc10c	- m_grammar1-1.rom	msx-yoriyoshizuki
+54a67062784828dd04b23d0f70e5d83b	- m_grammar1-2.rom	msx-yoriyoshizuki
+3909c970d8e1b1f516cc5c3366a44f36	- m_grammar2-1.rom	msx-yoriyoshizuki
+c7c3d8be9c36ef6d75dcf004a4a0c534	- m_math1-2.rom	msx-yoriyoshizuki
+6c8040d996e748340ccf168761f1d58d	- m_math2-1.rom	msx-yoriyoshizuki
+6b6f4d191c2b072c0b54d11b5b5fdb7c	- m_math2-2.rom	msx-yoriyoshizuki
+09c291c2b1be6367c8d9748fa9e467b1	- m_math3-1.rom	msx-yoriyoshizuki
+3a3c077e2ceab75499ac3d5e9b861695	- m_math3-2.rom	msx-yoriyoshizuki
+08f8d6746d42d85fbe71b370b4a7a9b4	- m_olom1-1.rom	msx-yoriyoshizuki
+d7fd33be040a2181e53f9e117930dc9e	- m_olom2-1.rom	msx-yoriyoshizuki
+db9bddb04a2bb783e638ba88c2b70e3a	- m_olom2-2.rom	msx-yoriyoshizuki
+fc48c67f608f3d0a09dbce354d2873f9	- m_olom2-3.rom	msx-yoriyoshizuki
+2fcfcdcd3ae81b406c114249ee48d001	- m_olom3-1.rom	msx-yoriyoshizuki
+b56057e71021bd7f6ad679f92189f127	- m_olom3-2.rom	msx-yoriyoshizuki
+a999f08f439d0f0aa1e35a4f293a1584	- m_table.rom	msx-yoriyoshizuki
+f617b29f3b7f1288c9fb80f0253b4654	- m_tom&jery1.rom	msx-yoriyoshizuki
+2ccec58740c0881236edab0bf2f8c46e	- m_tom&jery2.rom	msx-yoriyoshizuki
+1bceb1c030614810fc9b9dad7847b775	- M-Tanks (Assembler) (2012).rom	msx-yoriyoshizuki
+ef5c5ba4272af1b73445c5fe1d9f1466	- Magic Tune (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+9374325dca726c6ea0896b239aec1e9c	- Magic Writer (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+efbddf9e48bfeedb98b173802a9dc533	- Magical Kid Wiz (1986)(Sony)(JP).rom	msx-yoriyoshizuki
+7fd3e5f0dc5e4789ca33ea49b0f5206f	- Magical Kid Wiz (1986)(Sony)(JP)[a].rom	msx-yoriyoshizuki
+3c546e43e52bb36ff880f38da995b15d	- Magical Tree (1984)(Konami)(JP)[cr Magicalsoft][RC-713].rom	msx-yoriyoshizuki
+b6b37561cf14f7149150b1944e4dece8	- Magical Tree (1984)(Konami)(JP)[RC-713].rom	msx-yoriyoshizuki
+5cd842bd8007e80080519c61b78fd381	- magnetics.rom	msx-yoriyoshizuki
+edc528f506bb5118d747e96dc5cb7a36	- Magunam. Kiki Ippatsu. Magnum Prohibition 1931 (1988)(Toshiba-EMI)(JP)[a].rom	msx-yoriyoshizuki
+98e24cfd2aa5c08282e61e080520d6dd	- Magunam. Kiki Ippatsu. Magnum Prohibition 1931 (1988)(Toshiba-EMI)(JP)[b].rom	msx-yoriyoshizuki
+c9d9df5479902abd9324f924f10c259c	- Malaika.rom	msx-yoriyoshizuki
+177f2d2e51a548bddac3d3da564dbafa	- Malaya No Hihou (ingles) (Pony Canyon) (1989).rom	msx-yoriyoshizuki
+354bfb3d60f96ffe67bbdcf9a6a25110	- Mashou no Yakata Gabalin. Goblin (1987)(Pony Canyon)(JP).rom	msx-yoriyoshizuki
+febfffd5b60b21d04b2a87848e52700a	- mashou-e.rom	msx-yoriyoshizuki
+f62e9c4698b8dcc00c954d9b8b2d5eec	- Master-Mind (Jose R. Garcia Espineira) (1985).rom	msx-yoriyoshizuki
+c99f505c5989b29b5ba6251a029c1626	- Match Day 2.rom	msx-yoriyoshizuki
+e443d004406731a2677298780770f300	- MATCHD2.rom	msx-yoriyoshizuki
+ee13593ff9ca5785807d39d73d5798b0	- Maze Attack (1983)(HAL Laboratory)(JP).rom	msx-yoriyoshizuki
+2c2c3337299e303376d00ffddf9d2994	- MAZES.rom	msx-yoriyoshizuki
+5cbeba06cf3512d8944f24ff4e1c2b7f	- MAZIAC.rom	msx-yoriyoshizuki
+3ad074830ae057a959db594800f4b897	- MCHESS.rom	msx-yoriyoshizuki
+10c76b87c2c692dbe2ee3fcab2cde541	- Meaning (Barq) (1986).rom	msx-yoriyoshizuki
+75e3311de0fae1f6d8fda05941373fc4	- mecca trip.rom	msx-yoriyoshizuki
+c621a67f7b265f7789ddd9cc70410efe	- Mecha8.rom	msx-yoriyoshizuki
+79aa91bd1768c381bcf19f8954a8f7dc	- Mega Phoenix.rom	msx-yoriyoshizuki
+5b868e1d225e8166688adadf7dedec05	- megaasm.rom	msx-yoriyoshizuki
+634211cbd37aec34f36d721a89ebfe2d	- Megalopolis SOS (1983)(General)(JP).rom	msx-yoriyoshizuki
+7b0f7c290c54e987f4e63b072b76f257	- Megalopolis SOS (1983)(General)(JP)[a2].rom	msx-yoriyoshizuki
+cac01eb0e4ebabf209e7e1c3ce997f32	- megaspace.rom	msx-yoriyoshizuki
+4e3536469d243e5026c29e0fb4d1eb38	- Memory (Corneel De Bont) (1985).rom	msx-yoriyoshizuki
+dd5b984acb83088a6f1d459e2bca0163	- memory [a].rom	msx-yoriyoshizuki
+be3224c56c90fef1c562b6bc3fde259a	- memory.rom	msx-yoriyoshizuki
+0ad2abd76176e92cc7592e55a3c87799	- menace.rom	msx-yoriyoshizuki
+0487d15e9d0e7a312a074a0b373398e7	- MERLIN.rom	msx-yoriyoshizuki
+a15e7e4f60cfdae7908bfb001806cc6d	- Meteores (Cyrille Danes) (1984).rom	msx-yoriyoshizuki
+7e8f9f0e41bf296726a6405b701b27c5	- METEOROS.rom	msx-yoriyoshizuki
+2c2d3eca08eb70b99577cc7c4a51af59	- Michel Futbol Master (Side 1).rom	msx-yoriyoshizuki
+b97419b832eb5c66b063da15796f466c	- Michel Futbol Master (Side 2).rom	msx-yoriyoshizuki
+1c4b42f7bef2505107c1364856668e00	- Midnight Brothers (1986)(Sony)(JP)[a].rom	msx-yoriyoshizuki
+ab32db52e6dede4f2604e05616df0abf	- Midnight Building (1984)(ASCII)(JP)[b].rom	msx-yoriyoshizuki
+08bfbe98f48373c85b2a0b53c59f1e8f	- MIDWAY.rom	msx-yoriyoshizuki
+d0151b0316b1fe62c9d1c00184fe0fcb	- Mikie (Konami) (1984).rom	msx-yoriyoshizuki
+21a5cfbb590099e7a8230322ac613e2b	- Mil Caras (1985)(Idealogic)(ES).rom	msx-yoriyoshizuki
+125ffbd3d367f69efbbec710ed7129be	- MILKRACE.rom	msx-yoriyoshizuki
+e4609e33f3014813b32fc8d6fba1d2e6	- Mine Clearer (Noldas) (1994).rom	msx-yoriyoshizuki
+573d337e13165080d316f28f0db18d26	- MINER.rom	msx-yoriyoshizuki
+0e902fad805bcd54d8591ec59e210972	- Mini - Golf (Spectravideo).rom	msx-yoriyoshizuki
+e13b4ea7cdc0284fb1ab0c3929f59d7a	- Mini Golf (1985)(Namcot)(JP).rom	msx-yoriyoshizuki
+6fdb9308d1a36e98031ff27545ce089d	- MISSILE.rom	msx-yoriyoshizuki
+1398bf425e6342c78b4d44fe07d4db0b	- MISSOIN2MIR.rom	msx-yoriyoshizuki
+223bd344fe8833c2eb385c256eb7029a	- Mitsume ga Tooru. The Three-Eyed One Comes Here (1989)(Natsume)(JP).rom	msx-yoriyoshizuki
+07c577af358459020c0cca448f6e4bf7	- Mitsume ga Tooru. The Three-Eyed One Comes Here (1989)(Natsume)(JP)[a].rom	msx-yoriyoshizuki
+d08cefecf22d29465f93d286a5229d23	- MJ_05.rom	msx-yoriyoshizuki
+95007482d747e196ab4f38ede9bda5ad	- MK16.rom	msx-yoriyoshizuki
+20ed6ad5c7079fe87d4c31d2ae3e918e	- Mo-Karimakka. Bochibochidenna Sport (1986)(Leben Pro)(JP)[cr Canal Cracker].rom	msx-yoriyoshizuki
+85ad26f918b93a20f16fadc8d5720400	- Moai no Hihou. Secret Treasure of Moai (1986)(Casio)(JP)[a].rom	msx-yoriyoshizuki
+c4f6b935a0968a5a451afe20d0156f31	- Moai no Hihou. Secret Treasure of Moai (1986)(Casio)(JP)[cr Static Soft].rom	msx-yoriyoshizuki
+a24d55a747f70f62a36d60853fad6788	- Mobile Suit Gundam (1984)(Bandai)(JP)[a].rom	msx-yoriyoshizuki
+6c49e103277a8010171e189324097401	- Mole Mole (1985)(Victor)(JP)[tr pt].rom	msx-yoriyoshizuki
+757ca8afe669d3073f637133faa477ea	- Mole Mole (Crossmedia Soft) (1985).rom	msx-yoriyoshizuki
+63016dba3fdcc9047f7171a309ab685e	- MOLECULE.rom	msx-yoriyoshizuki
+ffabaccc55fea5945c6ba2f7f1cdd875	- Mon Mon Monster (HOT-B) (1989) (Velocidad de transicion entre pantallas un 20% mas rapida, por GDX).rom	msx-yoriyoshizuki
+f7715597ddc626b9ecf3cf7759c7667b	- Monkey Academy (1984)(Konami)(JP)[RC-702].rom	msx-yoriyoshizuki
+ffc6f6f03c57c5211c154e2b57cfbde3	- Monogatari Megami Tensei. Digital Devil Story (1987)(Telenet Japan)(JP).rom	msx-yoriyoshizuki
+2e82bf5b052e8eac0779912c0e502d6d	- MONOPOLY.rom	msx-yoriyoshizuki
+2172d188ae24507abb18695682749c54	- Montezuma's Revenge (Parker Brothers) (1984).rom	msx-yoriyoshizuki
+7ef6fec4c6b7eaa8176eee6905b39800	- Montgolfier (Eduard Playa Gonzalez) (1986).rom	msx-yoriyoshizuki
+545c9f198980ac0d34cfe22bd7c71de1	- Moon Patrol (1984)(IREM)(JP)[cr Prosoft].rom	msx-yoriyoshizuki
+dcbc41c2cb4aa1ce3d482249a5cf7410	- Moon Patrol (1984)(IREM)(JP)[cr Prosoft][o].rom	msx-yoriyoshizuki
+2c47fe1848e000e3075ea72e178bd4eb	- MOONRIDE.rom	msx-yoriyoshizuki
+390c08d3b2e95586eafdb5901ed4cd48	- Moonwalker (Felipe G. Chacon) (1985).rom	msx-yoriyoshizuki
+08d62230a75e7d2ec25f3e19702db9c0	- Mopi Ranger (1985)(Konami)(JP)[a][RC-728].rom	msx-yoriyoshizuki
+6b78ba42542729e2494d591444d095f0	- Mopi Ranger (1985)(Konami)(JP)[a3][RC-728].rom	msx-yoriyoshizuki
+e49c00545380b331315156b346e34f63	- Mopi Ranger (1985)(Konami)(JP)[RC-728].rom	msx-yoriyoshizuki
+0f7caaef962352ce2de7d87c388e03ec	- MOPILLA.rom	msx-yoriyoshizuki
+594dcc5f73cb78b8d8f1b4eb84dc0c8f	- MOPIRANG.rom	msx-yoriyoshizuki
+ea297be0ceec5afc8ab1d1723b2d5174	- Morpion (Cyrille Danes) (1984).rom	msx-yoriyoshizuki
+dbeb21f4e374fed7400f5e3d4a22e611	- MORTA_2.rom	msx-yoriyoshizuki
+643ef08c7051b489528a7a77e27d5626	- MOTOR.rom	msx-yoriyoshizuki
+517935fa33433d3f35fa3012f4aec79f	- Mouse Trap! (EFTEE Software).rom	msx-yoriyoshizuki
+ca5eca35d80e88ad0741b301774f1d7b	- Mr. Chef & the Sausages (2004)(Paxanga Soft)[a].rom	msx-yoriyoshizuki
+988ad24adb540c8f8aa61f11f3fb287b	- Mr. Chin (1984)(HAL Laboratory)(JP)[o].rom	msx-yoriyoshizuki
+4d763a2c579b44976af451798af0e9ec	- Mr. Chin (1984)(HAL Laboratory)(JP)[o2].rom	msx-yoriyoshizuki
+4067429251d1e5ce073f9ee27af5879b	- Mr. Do! (1984)(Nippon Columbia - Colpax - Universal).rom	msx-yoriyoshizuki
+463e12d2a2c4d8d9c53184d843a4017d	- Mr. Do! (Coleco) (1984).rom	msx-yoriyoshizuki
+42af37c8dda5a05253945a5bbf87f4c1	- Mr. Do! vs Unicorns (1984)(Sony)(JP)[b].rom	msx-yoriyoshizuki
+01ac8519e2a04e24ad1e798851f1048f	- Mr. Do! vs Unicorns (1984)(Sony)(JP)[o].rom	msx-yoriyoshizuki
+b1b962d477d02f304174d2a829ea8e03	- Mr. Do's Wildride (1985)(Nippon Columbia - Colpax - Universal)[cr Angel].rom	msx-yoriyoshizuki
+060bc3176b100915f971ddbf3526faee	- Mr. Do's Wildride (1985)(Nippon Columbia - Colpax - Universal)[o].rom	msx-yoriyoshizuki
+039350399fc61873ee2cc84221d4c35b	- MRCHIN.rom	msx-yoriyoshizuki
+ebe36aec82d4b60db6dbf7831afc7029	- MRWONG.rom	msx-yoriyoshizuki
+12e4aed81ab79613a55fa675f1650040	- MSX Baseball (1984)(Panasoft)(JP)[a2].rom	msx-yoriyoshizuki
+dc6dfd991ffdc948a4216706c5717eb0	- MSX BASIC Kun (1986)(ASCII)(JP)[a][XBASIC.ROM].rom	msx-yoriyoshizuki
+1720b10455456c9650ef01df39003322	- MSX Home Writer (1985)(Sony)(JP).rom	msx-yoriyoshizuki
+134eed27b8691ba0afa4c39be4a6b0dc	- MSX Hot Numbers (Demo) (Paxanga Software) (2002) (Antigua version del juego escrita en MSX-BASIC y sin graficos).rom	msx-yoriyoshizuki
+1464fcfd1789d52dc11e737d71a40cf0	- MSX Jackpot (Desconocido) (1985).rom	msx-yoriyoshizuki
+0715b67e8ca0304711cdef52030cdf0d	- MSX Midget Golf (J. Saul) (1986).rom	msx-yoriyoshizuki
+59db5ac478946c092789cf2332fa87be	- MSX-Logo (1985)(Logo Computer Systems)(NL)[8103-23 - Dutch].rom	msx-yoriyoshizuki
+c8428144b3d6681cf1e473f1574d462b	- Msx1BrAb.rom	msx-yoriyoshizuki
+70213d7cdccc189eee64eeeb0d9a3587	- MSXPANIC.rom	msx-yoriyoshizuki
+4602171922b2cb2beddfa5d97cf7d3d4	- MSXSOCCE.rom	msx-yoriyoshizuki
+f7ca46a8ecf71d5c84adf462e93ba0a1	- MSXVIEW.rom	msx-yoriyoshizuki
+a24c566a9bd438a4377d8645039431e6	- MT-Base (1987)(Micro Technology)(NL)[cr Speedy-Hacking No].rom	msx-yoriyoshizuki
+6e83914112be54623f9f2403224d29b2	- MUFFMONT coleco porting.rom	msx-yoriyoshizuki
+1a050d97eb7f81410cef842d0791c0f8	- mult & div.rom	msx-yoriyoshizuki
+3cae22bb6c306e39869e6fdfc1e383b0	- Multiboot v0.0 for Mega Flash ROM (2003)(Pazos & Ramones Games).rom	msx-yoriyoshizuki
+5ebd822ea6ebe9e3df0f08aba6f4ac5b	- MUNSTERS.rom	msx-yoriyoshizuki
+307448e82677466bb7669a384caab44a	- Mutant Monty.rom	msx-yoriyoshizuki
+db68fe66b5b0132a954dbdac29089716	- My Clock (Al Alamiah) (1987).rom	msx-yoriyoshizuki
+242d5ba258a57f36f829bbe07dc1bfb5	- My Lady (Barq) (1986).rom	msx-yoriyoshizuki
+04bf2874675dd61e8d9658fb91a01dc4	- My Small Dictionary (Al Alamiah) (1989).rom	msx-yoriyoshizuki
+67f4e36d2ce5f97047e11d556c7e2b2f	- my watch.rom	msx-yoriyoshizuki
+00b52b9d47e2cf9dbacfc8d62dc8913e	- Mystery Tower (PEET) (1987).rom	msx-yoriyoshizuki
+29e5a544689714a12dc0b221dc1e8464	- Mystery Town IV (MLF Productions) (1985).rom	msx-yoriyoshizuki
+a1c7c6fd9216f9d0577c47462d3552c0	- Mythos.rom	msx-yoriyoshizuki
+f9eab83b9c0a2896b399239830a3eef2	- Pac Land (Grandslam) (1988) (Version ROM creada por MSX blue).rom	msx-yoriyoshizuki
+6dfe9e94bc59518918b7eb6ee29927a0	- Pac-Man (1984)(Namcot)(JP)[a].rom	msx-yoriyoshizuki
+426dd2a4743bd88c84023938c91804a2	- Pac-Mania (Namco) (1988) (Version ROM realizada por MSX blue).rom	msx-yoriyoshizuki
+b98bea4d22768d9e0beaa5c71a56eb7c	- Pachicom (1985)(Toshiba-EMI)(JP)[cr Boram Soft].rom	msx-yoriyoshizuki
+7522802b29053d09d5e5e294d8b438aa	- PACLAND.rom	msx-yoriyoshizuki
+0667a5c6553137ea4123d96f79670aa0	- PACMAN.rom	msx-yoriyoshizuki
+6c2678c598e2012183a420586f455f20	- PACMANIA.rom	msx-yoriyoshizuki
+4980ae2a0540738ec094324fae521f71	- Pairs (1983)(ASCII)(JP).rom	msx-yoriyoshizuki
+63d4e4360bf187c3bf8ce789d4cfb116	- Pairs (1983)(ASCII)(JP)[a2].rom	msx-yoriyoshizuki
+3a6fecd429f80ad646f37206bd1c6ab9	- Palette Editor v1.0 (2005)(BiFi).rom	msx-yoriyoshizuki
+391145481aba03291564f263a2131135	- Palette Editor v1.1 (2005)(BiFi).rom	msx-yoriyoshizuki
+15440d9e884b0154d81d5f0f09b06b0b	- Palette Editor v1.2 (2005)(BiFi).rom	msx-yoriyoshizuki
+565a2c10a3036f632858edbad37ac470	- Palette Editor v1.3 (2010)(BiFi).rom	msx-yoriyoshizuki
+74a6e709d285ff828e23d07852c0f1bc	- Palillos (Jose Maria Barroso Tamayo).rom	msx-yoriyoshizuki
+84665e257d226ba979e6b5f37760f5df	- PANIQUE.rom	msx-yoriyoshizuki
+879b9df66019f0e7066d389b580ccf43	- Parachuteless Joe (Paxanga Software) (2005).rom	msx-yoriyoshizuki
+5503a65a1d787415316abdf642fde4db	- PASSING.rom	msx-yoriyoshizuki
+8ccca56b46815714dc5c79a616de60a0	- Payload (1985)(Sony)(JP).rom	msx-yoriyoshizuki
+54cdadb2ce55f9478e28b2490d643391	- pd.rom	msx-yoriyoshizuki
+ccaceb9724bf2ef45dd2b87e1d60be5a	- Pechanko (Pampuu).rom	msx-yoriyoshizuki
+b2c3b9bf08285b98f05474f15a863bf7	- Peek-a-boo (dvik & joyrex) (2008).rom	msx-yoriyoshizuki
+f70e3d8f286030010d0e914d59b5eac1	- peekaboo final.rom	msx-yoriyoshizuki
+420947d57174b849bbbdc7ba1e45a186	- Pegasus (1988)(Victor)(JP)[cr Prosoft].rom	msx-yoriyoshizuki
+dfb06f6019657c28fc1376caf8e109d0	- PEN-WARS.rom	msx-yoriyoshizuki
+d6dce1f1751e76ccee6b442a2a0fcd3d	- Penalty (Jose Maria Jimenez) (1987).rom	msx-yoriyoshizuki
+7bab8b9b58c953a9ea0356ae2402fafd	- Pengo (Paxanga Software) (2010) (Version demo del juego).rom	msx-yoriyoshizuki
+e8ee8ea0e21c7dff8f68c1b23e0a420c	- Pepper 2 (Exidy) (1983) (Conversion directa desde ColecoVision del juego, por GDX).rom	msx-yoriyoshizuki
+5e757bd9127e4b7c7230f56c4e02700a	- Pepper 2 (Exidy) (1983).rom	msx-yoriyoshizuki
+a5dc98b2a644114f9e3c591902387baf	- pepper22 coleco.rom	msx-yoriyoshizuki
+299a53efc922ebd700f23bccffc887b3	- Peras (Jose Maria Jimenez) (1987).rom	msx-yoriyoshizuki
+81c47e0b2eb6c14ccf3751b707d5e8cd	- Perfect Fit (Paxanga Software) (2008).rom	msx-yoriyoshizuki
+07ec9271242b254bb3f49664a59d5822	- periodic table.rom	msx-yoriyoshizuki
+f79a385ff5c1e881c029f16579d9e289	- Pesadelo (Forte II Games) (1989).rom	msx-yoriyoshizuki
+de77b775fa5dd9fd6c66aa9e44fbb796	- Phantis (Dinamic) (1987) (Version ROM del juego, creada por Kabish) (Side 1).rom	msx-yoriyoshizuki
+dce50cea009767cc980411ad6211aa0b	- Phantis (Dinamic) (1987) (Version ROM del juego, creada por Kabish) (Side 2).rom	msx-yoriyoshizuki
+5835cdd0b6702c8e6ea537ce3ca11056	- PHANTOM2.rom	msx-yoriyoshizuki
+eee4f1cc4a710cde1b762586e00f4251	- Phantomas 2.rom	msx-yoriyoshizuki
+6f07cded472f5f27ad23ae7f20f1a962	- Phantomas Saga - Infinity (CEZ Games Studio, Karoshi Corporation) (2006).rom	msx-yoriyoshizuki
+c22bfa9b4641a1a947162cf94d301aef	- PHAROAH.rom	msx-yoriyoshizuki
+47719a3acf1470139c447450830ef290	- PHOENIX.rom	msx-yoriyoshizuki
+e74018fa753a0bcfe5b51eb1c321c77e	- physics (barq, 1988).rom	msx-yoriyoshizuki
+17b55fb340f89abf313a099c15c58fca	- Pico Pico (1983)(Micro Cabin)(JP).rom	msx-yoriyoshizuki
+08fe82c1b52710940c0c8bec356deea4	- Pico Pico (1983)(Micro Cabin)(JP)[tr pt Daniel].rom	msx-yoriyoshizuki
+ba471be4c8c325a9fefb00384ba01810	- Picture Painter (Tim Feldman) (1984).rom	msx-yoriyoshizuki
+ac0bc988775b9c65c92cfb200f9b1beb	- Picture Puzzle (1983)(HAL Laboratory)(JP).rom	msx-yoriyoshizuki
+dc7024d145805a090cf293eaa56e9bfb	- Pictures & Words (Al Alamiah) (1989).rom	msx-yoriyoshizuki
+db70968e5165e77a34fd136cfc7c5ef5	- pihkal (2009)(hackers).rom	msx-yoriyoshizuki
+57cdd034b93fab07ccc961466bf16019	- Pinball Blaster (1988)(Eurosoft)(NL).rom	msx-yoriyoshizuki
+df9c0f9b9841d6eb30891846cd94cc81	- Pine Applin (1984)(Canon Sale)(JP).rom	msx-yoriyoshizuki
+d4dad90305460ecc1cb37e972e07b53b	- Ping pong.rom	msx-yoriyoshizuki
+9665b712dfc32e767eb58c349a4ee68e	- PINGPONG [a].rom	msx-yoriyoshizuki
+75ba8bce1a1cf6e32b87b4ed87da156f	- pingpong.rom	msx-yoriyoshizuki
+2989ac30e97096f5ed09c54035bf54c5	- PINKPANT.rom	msx-yoriyoshizuki
+baed450a5e77eee1dc63f140951ba977	- Pinky Chase (1984)(Nippon Columbia - Colpax - Universal).rom	msx-yoriyoshizuki
+d4273060bf55182d0e8de447c6dae626	- Pipi (1985)(Nippon Dexter)(JP)[b].rom	msx-yoriyoshizuki
+af60dee247d1534dcff06704bfd04a4b	- Pippols (1985)(Konami)(JP)[a][RC-729].rom	msx-yoriyoshizuki
+45ff8d1ccfb242451bea1b2edc517602	- Pippols (1985)(Konami)(JP)[a][SCC+][RC-729].rom	msx-yoriyoshizuki
+c97dea7ed6c7c37379fcdcda1b50e8d4	- Pippols (1985)(Konami)(JP)[a2][RC-729].rom	msx-yoriyoshizuki
+6ebf486bb421177a7cf18123ebaeab18	- Pippols (1985)(Konami)(JP)[RC-729].rom	msx-yoriyoshizuki
+b2051d6ee5d1e908f741973054f8f357	- Pippols (1985)(Konami)(JP)[SCC+][RC-729].rom	msx-yoriyoshizuki
+5e79c72b54287679d59fa1d47615b1dd	- pippols.rom	msx-yoriyoshizuki
+8adfa907857152d92ad702325c132d8b	- Piso Zero (Zigurat) (1991) (Version ROM del juego, creada por Kabish).rom	msx-yoriyoshizuki
+29cc190cf89338b819a2f6abd0f12a17	- Pitfall (1984)(Pony Canyon)(JP).rom	msx-yoriyoshizuki
+d388e0da9a698cc9cb7c77be3ebad301	- Pitfall (1984)(Pony Canyon)(JP)[a].rom	msx-yoriyoshizuki
+b13ae27995d3b0d688bc78af1a5dfde7	- Pitfall II - Lost Caverns (1985)(Pony Canyon)(JP).rom	msx-yoriyoshizuki
+999b6ec524d8214e9f2774f2b70ddfaf	- Pizarra (GEASA).rom	msx-yoriyoshizuki
+94d7279d8aa39e92a43d97a56d4467cd	- PJUNCTIO.rom	msx-yoriyoshizuki
+0ac901e32b79db844d17a93c6f5828ae	- Play Ball (1986)(Sony)(JP)[b].rom	msx-yoriyoshizuki
+8ea84eeb88d10f81ea95a8cc72b8d97a	- play38.rom	msx-yoriyoshizuki
+5747e1fd9268f898952e31cd3105515d	- Plumber (AG Software) (2009).rom	msx-yoriyoshizuki
+063f6c6bea4c18d6d477420b6609f7c0	- plumber.rom	msx-yoriyoshizuki
+9d5dbc928b13743cc20e21d9495e4977	- PLUSSUB2.rom	msx-yoriyoshizuki
+0c1bf0cad3269bb728f974ac3dc64f72	- Poder Oscuro.rom	msx-yoriyoshizuki
+e76dc848a909645619fc20aff5d38ec3	- POKER.rom	msx-yoriyoshizuki
+e462952adb14703cd896490a34253e53	- Poker5 (Joseph Paumier) (1985).rom	msx-yoriyoshizuki
+69134cfd81b57b36d9070e942e69da51	- POLAR.rom	msx-yoriyoshizuki
+ce05dc0121645c862dc31c4aa8e4a386	- Poli Diaz.rom	msx-yoriyoshizuki
+8d5c4cd90df262af332cee7d77705edd	- POLICE FORCE II. ENGLISH VERSION.rom	msx-yoriyoshizuki
+dd906d2b1d954e1f31e0ed4a27fa4020	- POLICE FORCE II. SPANISH VERSION.rom	msx-yoriyoshizuki
+1625a9de353086b912b85c702760666c	- police force.rom	msx-yoriyoshizuki
+05aed39f1d75bdd75f25b7dd7763f946	- Police Story, The (1985)(Pony Canyon)(JP).rom	msx-yoriyoshizuki
+344374cb2139b05f6f2af3c693fafde5	- POLICE_S.rom	msx-yoriyoshizuki
+635b2986724a140f59b3eb8e4e168923	- POLICEA2.rom	msx-yoriyoshizuki
+f9d3c6e8a03827aa9f2d3f95522c37ca	- POLIDIAZ.rom	msx-yoriyoshizuki
+ded358f68e4dbc3c52b4827446530c75	- PONG512 (SapphiRe) (2005).rom	msx-yoriyoshizuki
+516993ae3d3259559e66cd0551339854	- Poppaq the Fish (1986)(ASCII)(JP)[cr Boram Soft].rom	msx-yoriyoshizuki
+39f88d9876c84452472bdbbcb1a34856	- Poyopoyo Life (Pastel Hope) (1991).rom	msx-yoriyoshizuki
+16a02cb58b1556ed7f47585a4e96f7db	- prayinghands.rom	msx-yoriyoshizuki
+a27926664bf837431eeb630d81f19022	- Predio Assombrado (Desconocido).rom	msx-yoriyoshizuki
+c420a8ee8275fa91e5e8aa2578b747c9	- PRETTY.rom	msx-yoriyoshizuki
+c0b41658ec8c1a67a89c366824ff8462	- PROFANAT.rom	msx-yoriyoshizuki
+c3c50aea0a5f8e86e7488d992fa4f041	- PROJECTA.rom	msx-yoriyoshizuki
+e48cd411fe51f82bf8aad5a5a96a00f8	- protect.rom	msx-yoriyoshizuki
+eff388556e79ab5857961d2965028868	- Protector, The (1985)(Pony Canyon)(JP)[t].rom	msx-yoriyoshizuki
+31fa15abba8a862bebcafa3c15d5ff35	- Proverbs (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+a76bda2fb2ed47341449e22f1017d0c0	- PSYCHEDE.rom	msx-yoriyoshizuki
+fe043097cece49648477ad2cfea69fd7	- Psychedelia (1984)(Aackosoft)(NL).rom	msx-yoriyoshizuki
+7b0906af17a10c18d81b004266829b4d	- PSYCHO.rom	msx-yoriyoshizuki
+059476c70176d2a2a5a8e38c0e1b29f9	- Pulga, La Bugaboo Booga-Boo (The Flea) (Indescomp 1983).rom	msx-yoriyoshizuki
+14285b64e2ae1dd5b47c468a2d66f22d	- Punchy (1984)(Mr. Micro)(GB).rom	msx-yoriyoshizuki
+359c74a286afb35a254bd22f61892131	- PUNCHY.rom	msx-yoriyoshizuki
+bacabd887d10a755d27d003b6b0ff816	- Puznic (Zemina) (1990).rom	msx-yoriyoshizuki
+f167936dc22a09d1869e0331ed34d839	- Puzzle Panic (System Soft) (1986) (Juego modificado por GDX para lograr una mayor compatibilidad).rom	msx-yoriyoshizuki
+08876e14225c140d2b80a11cc54caabd	- Puzzle.rom	msx-yoriyoshizuki
+7b6d1ec0264304abf6aa9a3ad78de4f4	- PVASCA.rom	msx-yoriyoshizuki
+1b286a2ec101791a976350c2e348e604	- PWND - Of je worst lust - Special Edition (Metal Soft) (2009) (Version del juego para MSX turbo R con una mayor velocidad).rom	msx-yoriyoshizuki
+7d39483457077ad23e5de3a19a7fe712	- PWND - Of je worst lust - Special Edition (Metal Soft) (2009).rom	msx-yoriyoshizuki
+edd1b22f496af2431dfb9eeec4eacf8b	- Pyramid Warp (1983)(T&E Soft)(JP)[o].rom	msx-yoriyoshizuki
+5fb3cc022d5cab327f103af870160bb5	- Pyro-Man (Nice Ideas) (1987) (Juego traducido al ingles y convertido a ROM por GDX).rom	msx-yoriyoshizuki
+2bdd28cfd1f6d1c2ab24d8188c093b02	- Pyro-Man (Nice Ideas) (1987) (Version ROM del juego, realizada por GDX).rom	msx-yoriyoshizuki
+c6041e9f858277f72cccf84fafed0b56	- PYROMANE.rom	msx-yoriyoshizuki
+dacda1426e0f0e6c8faa4a30d6892086	- R_ROLLER.rom	msx-yoriyoshizuki
+5d5e0010ac47df993b8ab2afbd4a49e5	- R-CARS.rom	msx-yoriyoshizuki
+f43cb713953918bed3ca3b017675205e	- R-TYPE MSX-MUSIC by BiFiMSX (2010).rom	msx-yoriyoshizuki
+624e43ee647103fa51c5ef1e3c087389	- R.A.M. (Topo Soft) (1990) (Version ROM del juego, creada por Kabish).rom	msx-yoriyoshizuki
+2da87ae7f0ff625812df02a2efdc844b	- RABBIT.rom	msx-yoriyoshizuki
+ca0cc404cb36a82fddd931f20d6d5fc2	- Rainbow Stories (Al Alamiah) (1986).rom	msx-yoriyoshizuki
+7d1eda308bf52235b80087799dc1a50f	- Rally-X (1984)(Namcot)(JP)[a].rom	msx-yoriyoshizuki
+2f2e85d49f3831d70b9abcff609fa1c5	- Rally-X (Daniel Vik & Nyyrikki) (2005).rom	msx-yoriyoshizuki
+76e2e80669fc4522bd5dde7a28257969	- RALLY-X.rom	msx-yoriyoshizuki
+dedc8b11b770a8db20f2aa57d8d764d1	- Rambo (1985)(Pack In Video)(JP)[a].rom	msx-yoriyoshizuki
+1c397a6d6b24b474f3bf759ce2a77926	- Rambo (1985)(Pack In Video)(JP)[a2].rom	msx-yoriyoshizuki
+e39b0c2c8bb8012d8d1515cf163efaa8	- Rambo (1985)(Pack In Video)(JP)[h R. Bittencourt][t +2].rom	msx-yoriyoshizuki
+b91c9b45774abf671c2a11d5ac441d9a	- ratbox.rom	msx-yoriyoshizuki
+84207c363863368ce11f46cd3eab70f6	- Red Zone (1985)(ASCII)(JP)[a].rom	msx-yoriyoshizuki
+d83ae5731396061efdbee22c1d00e568	- RED_DAWN.rom	msx-yoriyoshizuki
+2ee89b7d733469adbfebb43a5d9fe91a	- redalert.rom	msx-yoriyoshizuki
+5d4dae2585bb5e53e81043d6bc74ec95	- REDZONEE.rom	msx-yoriyoshizuki
+e378e449fc09d81a0befa1764714ccd8	- Rescue (M&C).rom	msx-yoriyoshizuki
+a648107badb77a511ec70e43ff98b9c9	- Retaliot (Video Hazard) (2009).rom	msx-yoriyoshizuki
+a1ca98c73816c2643a4e7f96160cfca6	- Rex Hard.rom	msx-yoriyoshizuki
+e72fb076c28fb86142fd6a19ec37d2b3	- RIDER.rom	msx-yoriyoshizuki
+fdad9b86434ea448acb117e5929420d0	- Rise Out from Dungeons (1983)(ASCII)(JP)[a].rom	msx-yoriyoshizuki
+a84c88de3ea62e5ec3c313d4c0f4e929	- Rise Out from Dungeons (1983)(ASCII)(JP)[a2].rom	msx-yoriyoshizuki
+15039df7794dd1a8a4d6eb7f48c1942d	- RISEOUT.rom	msx-yoriyoshizuki
+822283a036b1fa618668f4045c20c25c	- River Raid (1984)(Pony Canyon)(JP).rom	msx-yoriyoshizuki
+b13138863ad045321b3d7c9a184eff43	- RIVER.rom	msx-yoriyoshizuki
+3ed31ca9dd73f762abb53fa187377b9a	- rk714.rom	msx-yoriyoshizuki
+241abc36d3e742b3350630cb893b3d25	- rk714en.rom	msx-yoriyoshizuki
+2d228a8179d7d3a1300721e35b231ad4	- RLV901_La_Corona_Encantada.rom	msx-yoriyoshizuki
+cdb1a0e841b9c2ff5631fd0d95c61bad	- RLV902_Esta_en_la_Caja.rom	msx-yoriyoshizuki
+b68d4ef5560e04dac9b153b05b4968b9	- rlv903_british_bob.rom	msx-yoriyoshizuki
+1d789c84eaca20d36022f99b4e394e50	- RLV905_Esta_en_el_Pantano.rom	msx-yoriyoshizuki
+a135d16aac0405faac4da549a41b667a	- rlv906_azzurro_8bit_jam.rom	msx-yoriyoshizuki
+11c7d108b93f0a52d3d3d43940736009	- rnff.rom	msx-yoriyoshizuki
+8ae5b5c13f45321f555ab1103092ad76	- Road Fighter (1985)(Konami)(JP)[a][RC-730].rom	msx-yoriyoshizuki
+a6e944961ee5ff96bdcf29f4d1a3539d	- Road Fighter (1985)(Konami)(JP)[a][SCC+][RC-730].rom	msx-yoriyoshizuki
+f8976cece4df5871e98d2553ae22de57	- Road Fighter (1985)(Konami)(JP)[SCC+][RC-730].rom	msx-yoriyoshizuki
+fd88ccd4d4dcd68007f14990540c1d0f	- Robo Wres 2001 (Micronet) (1987) (Version de Zemina).rom	msx-yoriyoshizuki
+5d0e0afc416ef46f2fd1d0b60816320a	- Robofrog (1985)(ASCII)(JP).rom	msx-yoriyoshizuki
+2be9c29acd4d2929b34b700ef2dc10d3	- Robofrog (1985)(ASCII)(JP)[a].rom	msx-yoriyoshizuki
+c75448103e8b07260f2f45ef40addd0e	- Robots (Michel d Alger) (2011).rom	msx-yoriyoshizuki
+0c9bc1da1379627f3396068fd03d4d9b	- Rock'n Roller (Kaeru Soft) (1988).rom	msx-yoriyoshizuki
+380df369d020e7945caabc4d40cc1b36	- Rock'n Roller (Topo Soft) (1988) (Version ROM del juego, creada por Kabish).rom	msx-yoriyoshizuki
+bc38497d52954a3748269b883ca95a6c	- Rocky (Dinamic) (1985) (Version ROM del juego, creada por Kabish).rom	msx-yoriyoshizuki
+385de928eba91876adcad8f7c0f0fd04	- Rocky Rock (Grupo de Trabajo Software).rom	msx-yoriyoshizuki
+8e0610b9c7b9bc98eb79ef54154d19b6	- Roger Rubbish (1985)(Spectravideo)(GB).rom	msx-yoriyoshizuki
+cbb4957fbcd7f129bc39eb790ea4ce72	- Roger Rubbish (1985)(Spectravideo)(GB)[a].rom	msx-yoriyoshizuki
+a928d443a2c01a01f3fe9f9903973291	- Roller Ball (1984)(HAL Laboratory)(JP).rom	msx-yoriyoshizuki
+7b7b42fca96a434f4b6c8b5be03936a5	- Roller Ball (1984)(HAL Laboratory)(JP)[a2].rom	msx-yoriyoshizuki
+4db3786c77c5578344b6d2276fc14ef8	- Roller Ball (1984)(HAL Laboratory)(JP)[b].rom	msx-yoriyoshizuki
+766720b971e71d0d6e9c1135908cdbb2	- Rompleplatos (Jose Maria Jimenez) (1988).rom	msx-yoriyoshizuki
+a61f3d974c783dbdd73be27adecb4093	- RS232 Modem Cartridge (19xx)(-)[RS232.ROM].rom	msx-yoriyoshizuki
+933ede03d00bd0ac7f6368a47a76c38f	- Rumbo Congo (Guillermo Buxo Doniz) (1986).rom	msx-yoriyoshizuki
+6f29011bc0adc9d7c88291fbce38c2d9	- S_FORCE.rom	msx-yoriyoshizuki
+eda745b63d32d2ce35ef34c5c900584f	- Safari X (Policy) (1985) (Version ROM del juego, creada por mars2000).rom	msx-yoriyoshizuki
+931fb78bc64b662d63e7563520429cdc	- SAFARI_X.rom	msx-yoriyoshizuki
+dfa813037c950268bde454cea745f529	- SAND1.rom	msx-yoriyoshizuki
+12cd9ef66d13a04af5475aa5aef0e916	- SAND2.rom	msx-yoriyoshizuki
+aee5c2fcc3ec1eb99c31efb865aae439	- Sasa (1983)(ASCII)(JP).rom	msx-yoriyoshizuki
+2f031e5097962a16235efee2ea215464	- SAURUS.rom	msx-yoriyoshizuki
+1239740bc0836f090f9271f32f95b210	- Saurusland (1982)(Nippon Columbia - Colpax - Universal).rom	msx-yoriyoshizuki
+7dab08e7bc116bab89884b9da325376b	- Sbanky (Enrique I. Graciano) (1986).rom	msx-yoriyoshizuki
+148a58dee8795d636497590677aae5d8	- Scarlet 7 (1986)(Toshiba-EMI)(JP)[b].rom	msx-yoriyoshizuki
+8189d1786771bd39e1fdc3717c4a404a	- Scarlet 7 (1986)(Toshiba-EMI)(JP)[cr Crack FM].rom	msx-yoriyoshizuki
+a717c0640615bd26726432f2c519c293	- SCENTIPE.rom	msx-yoriyoshizuki
+1c0b29f9dee3a9e4c4bc4dcbe197d695	- SCHACH.rom	msx-yoriyoshizuki
+29ddf76dddbca345d38b7b612bc8e111	- Schatduiken (Desconocido).rom	msx-yoriyoshizuki
+4031d894ae614bc2cd015f52d8da2c76	- Scion (1985)(Sony)(JP)[o][b].rom	msx-yoriyoshizuki
+abd1d5b68770daa98f79292b865f1910	- Scramble Eggs (1983)(Ample Software)(JP)[o].rom	msx-yoriyoshizuki
+93952054feee477c1717ddefa5cbbb1a	- Scramble Eggs (1983)(Ample Software)(JP)[o][b].rom	msx-yoriyoshizuki
+c848bbf7390f4837835829ef2e2c8ffd	- Scramble Eggs (Ample Software) (1983) (Version del juego modificada para evitar error en el registro del PSG, por GDX).rom	msx-yoriyoshizuki
+fe46119336781aac178251e2d4f0aa40	- Sdrinker.rom	msx-yoriyoshizuki
+e72b3190b10aeab94fc95f298f1f45c8	- Sea Horse (Al Alamiah) (1984).rom	msx-yoriyoshizuki
+87b69c90f0126c9345df0d050f5f2278	- Sea Hunter (1985)(Spectravideo)(GB).rom	msx-yoriyoshizuki
+020edeefa3470d040983bd51231b809b	- SEAKING.rom	msx-yoriyoshizuki
+dc51ee02870c660d2da632372cc8fbeb	- Sebaweh 1 (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+a4cc6c27cda99490d428a3a241592ebf	- Sebaweh 2 (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+a6931c419aea8870b32be2b62acdb13b	- Seiken Acho. Kung-Fu Master Taekwondo (1985)(Irem - ASCII)(JP).rom	msx-yoriyoshizuki
+7bb030bb0af990cd1bc72d08178a92ba	- Seiken Acho. Kung-Fu Master Taekwondo (1985)(Irem - ASCII)(JP)[b].rom	msx-yoriyoshizuki
+666560c2102c705db703803623251373	- Seiken Acho. Kung-Fu Master Taekwondo (1985)(Irem - ASCII)(JP)[tr pt EngeSoft].rom	msx-yoriyoshizuki
+6e844b848141f77cc485e79151f1183b	- Seleniak (2004)(Guzuta Raster Leisure).rom	msx-yoriyoshizuki
+f36bd789f048a9a41e8c0a0850f1c2c2	- Senjyo (1984)(Sony)(JP)[a].rom	msx-yoriyoshizuki
+560393f288cf3c4ab2c7881b192d45d6	- Sets (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+8bb7928790eaf7553c0a3701de8201a7	- sets.rom	msx-yoriyoshizuki
+6291bcc950e409dfa9fc91260aa44fc2	- SEWERSAM.rom	msx-yoriyoshizuki
+b3d0149d46391db8b330a81021c9318d	- SFTGRP (MSX Computer Magazine) (1991).rom	msx-yoriyoshizuki
+b318e252fdafbae5596daec4bbcdfcdb	- Shater Hassan (Al Alamiah) (1987).rom	msx-yoriyoshizuki
+ccf24f96f0132830ae045bfee8f40d2e	- Shater Hassan (Barq) (1987).rom	msx-yoriyoshizuki
+ad4f43bc1187bf4d9aaa67a99692d7d7	- Shindobaddo Nanatsu no Bouken. The Seven Adventures of Sindbad (1986)(Casio)(JP)[b].rom	msx-yoriyoshizuki
+0b2c3f52cfb2a19c5571d0fb90734fb9	- SHM (Namco) (1989).rom	msx-yoriyoshizuki
+062ca64fc712e395f80c32162eaf3b27	- shmup! [a].rom	msx-yoriyoshizuki
+508c60f3ab0dcb24358da3894db620cd	- Shmup!.rom	msx-yoriyoshizuki
+5696ac58d8d96f14e7076d4feb20a96c	- shoganai [a].rom	msx-yoriyoshizuki
+3478c966e251e9d6ffd9c3597ceffe2d	- Shoganai.rom	msx-yoriyoshizuki
+99d4f9ab305230478e6d6187644c715f	- Sidbad (Barq) (1985).rom	msx-yoriyoshizuki
+2c32f40b06351b2fd242cf7ca18652c2	- SIDEVIEW.rom	msx-yoriyoshizuki
+562893522b9c7e5178e7e8959ff99879	- Siete y media (Jose angel Cruz Mateos) (1985).rom	msx-yoriyoshizuki
+2c542fa7c4c09ee8bf94331d5c986036	- SILFI.rom	msx-yoriyoshizuki
+a5935bcc640521934767f80da98a6620	- Sipper (Jose Delgado) (1986).rom	msx-yoriyoshizuki
+646038f477150e1411b837c3c28dc144	- SIRFRED.rom	msx-yoriyoshizuki
+d322cc4acea101fa48aea27e38b0bcb4	- SKATEDRA.rom	msx-yoriyoshizuki
+ff7221aa4a2a0a81b3801d5a538fae51	- Ski Command (1984)(Casio)(JP).rom	msx-yoriyoshizuki
+a5cdcfa1d2d4dfec700e83b8c5ae25ce	- Ski Command (1984)(Casio)(JP)[t].rom	msx-yoriyoshizuki
+223b964cfdd8659d15c7d1d42d4f1330	- SKI.rom	msx-yoriyoshizuki
+410a10e49c2622d8641e6bb9c5322ce2	- SKICOMMa.rom	msx-yoriyoshizuki
+991902b124dacafc784a34c6be43cc09	- SKICOMMb.rom	msx-yoriyoshizuki
+4226499b09d7175ba1b833ac03154abe	- Skooter (1987)(Al Alamiah)(KW).rom	msx-yoriyoshizuki
+428730cfa4c0b67ba259b33eb3e291c6	- Skooter (1987)(Al Alamiah)(KW)[b].rom	msx-yoriyoshizuki
+078eb3f07b94bc5038188cc14c841d70	- Skull Exilon (Genesis Soft) (1988) (Version ROM del juego, creada por mars2000).rom	msx-yoriyoshizuki
+14a0ce7add948bc3da167151ce1fd922	- SKULLEXI.rom	msx-yoriyoshizuki
+dd8dac744c6dba5639ba2765691b62fe	- Sky (Frieve).rom	msx-yoriyoshizuki
+5b1be147071cfe8c68ae6cca47de3c75	- Sky Jaguar (1984)(Konami)(JP)[SCC+][RC-721].rom	msx-yoriyoshizuki
+bbc9cf81d927ef77c7fbcf6fcee28c5a	- Sky Wolf (Barq) (1987).rom	msx-yoriyoshizuki
+769e30719eaf00d5c3b9f4ce5e92d44e	- SKYFOX.rom	msx-yoriyoshizuki
+22d79d80a250b58bf4170b10664c8f6d	- Skygaldo (1986)(Magical Zoo)(JP)[cr Sammi].rom	msx-yoriyoshizuki
+b5e3db46fe66f19fdc84f688d726dd0b	- SKYJAGUA.rom	msx-yoriyoshizuki
+32703f065ad5f2915cf0fae2a9fead50	- SKYVISIO.rom	msx-yoriyoshizuki
+26ea2a731f8c0e1a947a3196fcbad4e7	- Slapshot. Hockey sobre hielo (1985)(Indescomp)(ES)(en).rom	msx-yoriyoshizuki
+e33594f6ca8faab7376b6b3804a9cdba	- Slapshot. Hockey sobre hielo (1985)(Indescomp)(ES)(en)[cr Philippe Vanheule].rom	msx-yoriyoshizuki
+5b83f935f2e2656fd403218ade06762e	- Slender - The Camping.rom	msx-yoriyoshizuki
+bf4fd1bfbe472dfdbba9fbb0d1caec45	- Smartness Examine 1 (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+54e317c005fe0b788dedcb857b85a0ae	- Smartness Examine 2 (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+7b387bfe984e264ed574fb01632c458e	- Smurf - Rescue in Gargamel's Castle (Compile) (1982) (Juego traducido al portugues por Engesoft).rom	msx-yoriyoshizuki
+3742601607fef37d6624a610273c7437	- Smurf - Rescue in Gargamel's Castle (Compile) (1982) (Version ROM del juego creada por GDX sin sonido SCC).rom	msx-yoriyoshizuki
+a6a5aee98ee477a6b5ffe20ab04e5aa3	- Smurf - Rescue in Gargamel's Castle (Compile) (1982).rom	msx-yoriyoshizuki
+bc159c001d80c1a6aae54d93ef867bf7	- Snabar.rom	msx-yoriyoshizuki
+398f61e8a4c12a33a128869f3e079deb	- Snoopy (Tom Verheyen).rom	msx-yoriyoshizuki
+10ad389f1921a9b7d7647a7001e8f69f	- SNOOPY TOWN.rom	msx-yoriyoshizuki
+763aa3fc11b2d49f211bc099d7d874ea	- Snow (Frieve).rom	msx-yoriyoshizuki
+b50748b0f02d1a17a964283ae2b48351	- Snowclimber 2K (dvik & joyrex) (2008).rom	msx-yoriyoshizuki
+ae1fbb2c5981cde07e73233f25c0657c	- SNOWMAN.rom	msx-yoriyoshizuki
+2797a9c42ee0539464fc9575a33a455e	- Sococ (Jos'b) (2006).rom	msx-yoriyoshizuki
+e672821dcfadb413053455156a9b94a2	- solitario.rom	msx-yoriyoshizuki
+6c381364264c306b5a09b367e315d6ab	- Son Son (Zemina) (1984).rom	msx-yoriyoshizuki
+32792220a326c30c8af728ed4253c60b	- SONOGONG.rom	msx-yoriyoshizuki
+d4ea6d4e1e43c85da19b9b3c6c6b74a2	- Sonydemo.rom	msx-yoriyoshizuki
+bd6dd76fc48224c69e88b8636d070ded	- Soukoban (1984)(ASCII)(JP).rom	msx-yoriyoshizuki
+2d6865cc11e87f6707888f6634215929	- Soukoban (1984)(ASCII)(JP)[a].rom	msx-yoriyoshizuki
+5aa5f8afd3a8b63d7f5c46619e8209ff	- Soukoban (1984)(Qnix).rom	msx-yoriyoshizuki
+accc2025c918ef20c148b9df0f1ed830	- Soukoban (Thinking Rabbit, ASCII) (1984) (alt 1).rom	msx-yoriyoshizuki
+2d503385f69d30eadc3e2f08380f99d4	- Soukoban (Thinking Rabbit, ASCII) (1984) (Version del juego modificada para evitar error en el registro del PSG, por GDX).rom	msx-yoriyoshizuki
+e88578de626e78c7151e2ff95e42f984	- SOUL.rom	msx-yoriyoshizuki
+c414d541685a260fd5460b28f3e3a7c2	- Sp8 Invaders (Dioniso) (2009).rom	msx-yoriyoshizuki
+5c1da09ad0ad14ad78a898c60c08061e	- Space Arithmetic (Al Alamiah) (1985).rom	msx-yoriyoshizuki
+710240c34359351e4bf8178ecb71e81b	- Space Busters (1985)(Aackosoft)(NL)[b].rom	msx-yoriyoshizuki
+d85ea08cb944cbf637533d2a651e28f8	- Space Busters [t+1].rom	msx-yoriyoshizuki
+9775b57330febc25c83ca72563b0b14a	- Space Camp (1986)(Pack In Video)(JP).rom	msx-yoriyoshizuki
+524bb3538f424fa0e2caafc1f78731f7	- Space Invaders (Johno-Soft).rom	msx-yoriyoshizuki
+a708350598d2f7059ad5327e6f15614a	- Space Kit (Joyce Hakkanson Associates, 1986).rom	msx-yoriyoshizuki
+60fd0543d90593f43b257e4bb8e5cfba	- Space Maze Attack (1983)(HAL Laboratory)(JP)[a].rom	msx-yoriyoshizuki
+2c564a5fe435a52be9fe03166738ed57	- Space Maze Attack (1983)(HAL Laboratory)(JP)[o].rom	msx-yoriyoshizuki
+1cbb59ac656df79cebfa56d140c808b0	- Space Trouble (1984)(HAL Laboratory)(JP)[o].rom	msx-yoriyoshizuki
+39bebb78b65fcf01e8c731061c342957	- Space Walk (1985)(Mastertronic)(GB).rom	msx-yoriyoshizuki
+24692f42e5c53dabc33b9efe83153b37	- Space Walk.rom	msx-yoriyoshizuki
+08304b87e9d82fc9f01e8f9f3da70f3c	- SPACEBUS.rom	msx-yoriyoshizuki
+539b8fce60856e2c858c018410665fcd	- Spacewlk.rom	msx-yoriyoshizuki
+c63514d5502f055c2d0c795ba5c5f078	- Sparkie (1983)(Sony)(JP).rom	msx-yoriyoshizuki
+bb36a880c1f915652a611041169ef71c	- Sparkie (1983)(Sony)(JP)[o].rom	msx-yoriyoshizuki
+61d068f5068a26b46fd3cab37d33e8c9	- Sparkie (1983)(Sony)(JP)[o2].rom	msx-yoriyoshizuki
+12b0c76415b0569d41783c1423d010e6	- speed black.rom	msx-yoriyoshizuki
+e40f7e4e6952066815cb05a70bcc354b	- Speedjet Racers (demo) (Karoshi Corporation).rom	msx-yoriyoshizuki
+ee54f8c51511c64962e2e02f0a1b331c	- Spelunker (1986)(Broderbund)[a].rom	msx-yoriyoshizuki
+144c27a3f2aec5ffbc0efb792a2b92ed	- Spider, The (1983)(Hudson Soft)(JP).rom	msx-yoriyoshizuki
+274a71128ae44ebdea0f506a6dc25b06	- SPIDER.rom	msx-yoriyoshizuki
+82f50c7fa2b2457225259eec0526e0c5	- SPIRITS.rom	msx-yoriyoshizuki
+ac93955e477c4eba0421ccc8cc2814df	- SPLASH.rom	msx-yoriyoshizuki
+72680a9842e8a912aee20836ef640e5e	- Sport Racer (2006 German Gomez Herrera).rom	msx-yoriyoshizuki
+62fe3cae317c532f9c11a8a148447d18	- Spread Sheet (1984)(Computermates).rom	msx-yoriyoshizuki
+884b1597248a85d317f306783a70d7e8	- SPRITMAN.rom	msx-yoriyoshizuki
+6712c15baac6b6576003ea9432957359	- Spy vs Spy II - The Island Caper (1987)(Databyte).rom	msx-yoriyoshizuki
+5b7557cf0cc8518104a77bc2eba6b480	- Squish'em (1984)(ASCII)(JP).rom	msx-yoriyoshizuki
+0bade6de3e4368f85eb599d3e839d530	- Stan the Dreamer.rom	msx-yoriyoshizuki
+3bc99b8e3bc6b19641a461a7c6bcd8fb	- Star Avenger.rom	msx-yoriyoshizuki
+44419ce8c78d783b83cd2ed05a72032c	- Star Blazer (1985)(Sony)(JP).rom	msx-yoriyoshizuki
+c83d32109b0ef51e5d9b89b9b71d5dc5	- Star Blazer (1985)(Sony)(JP)[a].rom	msx-yoriyoshizuki
+ea57d7eec84d2a64022ed33ae61488d5	- Star Blazer (1985)(Sony)(JP)[b].rom	msx-yoriyoshizuki
+73f5513c1c7605ad995a2363f69217ec	- Star Force (1985)(Hudson Soft)(JP).rom	msx-yoriyoshizuki
+ddd203b5d3683692090de56abe367234	- Star Soldier (1986)(Hudson Soft)(JP).rom	msx-yoriyoshizuki
+ccede5d90a46333f06a40c4584076221	- Star Soldier (1986)(Hudson Soft)(JP)[cr Turbo Soft].rom	msx-yoriyoshizuki
+9cb0851df53eb59c7bbaf59f1f0eb5a9	- Star Wars (Desconocido).rom	msx-yoriyoshizuki
+4f97abbfd1df88d41719455d820df5b4	- Star Wars (Frederic Markus) (1985).rom	msx-yoriyoshizuki
+f014b4f1d23b87be9afb558a8b0cba82	- Starbuggy (Eurosoft) (1988).rom	msx-yoriyoshizuki
+3c4e04660e4347a45b808af81c00eed6	- Starman (Javier Cabrera, Manolo Sotano) (1986).rom	msx-yoriyoshizuki
+136bb2e501b00100a4f9de411fe15984	- STARQUAK.rom	msx-yoriyoshizuki
+f2689755ab196a05eb733c787a29eae0	- Starship Simulator (1984)(ASCII)(JP).rom	msx-yoriyoshizuki
+25eee163c7d06a52315d963d5ed983b7	- STARTREK.rom	msx-yoriyoshizuki
+e50667a18d30aca55e271166b2840a11	- STARWARS.rom	msx-yoriyoshizuki
+7b8c322c5b35274e6551c5fa747449f8	- stcmsx1p.rom	msx-yoriyoshizuki
+8fcef1eb0bd338a31058f455d1530508	- Steden Zoeken in Nederland (Desconocido).rom	msx-yoriyoshizuki
+66dbef52013ddfa76d57a365b77df8e1	- Step Up (1983)(HAL Laboratory)(JP)[o].rom	msx-yoriyoshizuki
+bd9257cead7b8f02c64db18cde992b03	- STEPUP.rom	msx-yoriyoshizuki
+d0cc01ba19cdf420b316c4e5ff83eae5	- StratoS (CEZ GS 2004) (alt 1).rom	msx-yoriyoshizuki
+8e8d25fb32d690d928cf011826c2a75b	- Stratos v3 (2004)(CEZ Games Studio)(ES).rom	msx-yoriyoshizuki
+cc4f5cb6df7f536c7451c7318a9a981d	- straycat.rom	msx-yoriyoshizuki
+932c4665fa038f76c6864ab21ceff5ee	- Street Fighter (Desconocido).rom	msx-yoriyoshizuki
+63d30586e4fea53c4cec9cfb70cb8112	- STRIP.rom	msx-yoriyoshizuki
+3600fdbfb917b8d4f809320337722e97	- Sub Battle (Julio Cesar Aldariz).rom	msx-yoriyoshizuki
+0e83ee0e162a634e53a0efce0b0913d2	- Subacuatic_(2012)_(rlv911).rom	msx-yoriyoshizuki
+136f72c19da2f571b39c97bc9d9d4d13	- SUBMARIN.rom	msx-yoriyoshizuki
+5815a72393cc99d75e15eb9f255f9af9	- Sudoku (dvik & joyrex) (2006).rom	msx-yoriyoshizuki
+2df142939c9e1147f814099856fd6361	- sudoku.rom	msx-yoriyoshizuki
+2c2906bbc780e3be3237ef6faa164438	- Sum-Up (Desconocido).rom	msx-yoriyoshizuki
+6af0d8e392d9f8f6a4acd2b51578648a	- Suparobo (1984)(ASCII)(JP).rom	msx-yoriyoshizuki
+e2c44237659a6d0cedc1fa84af40e98b	- SUPCHESS.rom	msx-yoriyoshizuki
+da6dc09c4344397b1df9d3cb6bd47066	- Super Bioman 4 (Korea) (Unl).rom	msx-yoriyoshizuki
+71ece7df60858964e9d7a5c0c1c1e1ae	- Super Boy I (Korea) (Unl).rom	msx-yoriyoshizuki
+9d8050e84296462fdcf4c131558b57f0	- Super Boy II (1989)(Zemina)(KR).rom	msx-yoriyoshizuki
+487f104fe1779e0d4341b8ed999cc0e3	- Super Boy II (Korea) (Unl).rom	msx-yoriyoshizuki
+4c88b05d489cf8d1e3b15c4f9b6c67fd	- Super Bubble Bobble (1988)(Zemina)(KR).rom	msx-yoriyoshizuki
+b2624083a0cb576e7e2113d42bd8bd8a	- Super Cobra (1983)(Konami)(JP)[a][RC-705].rom	msx-yoriyoshizuki
+c0cdd054cc932a5ab6e81440a9d89857	- Super Cobra (1983)(Konami)(JP)[o][RC-705].rom	msx-yoriyoshizuki
+abb3476bcc65186ee764829658ca98f1	- Super Cobra (1983)(Konami)(JP)[o2][RC-705].rom	msx-yoriyoshizuki
+54fd5b5ed51a0e9ddd01ed8d5d7910c2	- Super Cobra (1983)(Konami)(JP)[o3][RC-705].rom	msx-yoriyoshizuki
+d27abbf55e924fe5b8c3dab2bae86a3c	- Super Cobra (1983)(Konami)(JP)[SCC][RC-705].rom	msx-yoriyoshizuki
+59a6691f09a2c80b639200b382fa2733	- Super Cobra (1983)(Konami)(JP)[SCC+][RC-705].rom	msx-yoriyoshizuki
+20b7c2ca54caf8ae73ed868ff9c10efe	- Super Columns (1990)(Hi-Com).rom	msx-yoriyoshizuki
+4ba7f2027f60964360ed7faa1f3f9075	- Super Cross Force (1983)(Spectravideo)(GB).rom	msx-yoriyoshizuki
+852b4bb3ba0e438a572f9b7b2e6e3e89	- Super Heli (Michel Janssen).rom	msx-yoriyoshizuki
+ba0424736befd6783d63a213ae92997c	- Super Laydock - Mission Striker (1988)(Zemina)(KR)[u].rom	msx-yoriyoshizuki
+0598333b7883fef8051f8ce749d03903	- Super Snake (1983)(HAL Laboratory)(JP).rom	msx-yoriyoshizuki
+eb1b5d762b7088d56ddb7c07c6034da4	- Super Snake (1983)(HAL Laboratory)(JP)[a].rom	msx-yoriyoshizuki
+2bc5ff88bda44a381825ba8dfd9f652b	- Super Star Trek (Arturo Ragozini) (2010) (Conversion del codigo del juego original a MSX, por YMN).rom	msx-yoriyoshizuki
+f6889d3f29ff539ae371f30ed4890c83	- Super Suwanggi - Super Alterd Beast.rom	msx-yoriyoshizuki
+ca4a8fa0ea57d805ca3e3e25d2e94f63	- Super Suwanggi - Super Altered Beast [a].rom	msx-yoriyoshizuki
+4f2d26bbf8e56ed8f2b7f2458571a46e	- Super Suwanggi - Super Altered Beast [ASCII 16k Mapper].rom	msx-yoriyoshizuki
+78c4b31c039cd93e4313f84289a84909	- Super Suwanggi - Super Altered Beast [SCC Mapper].rom	msx-yoriyoshizuki
+06c7c94665f34ef0942a3194a4c8ba00	- Super Synthesizer (1984)(Victor)(JP).rom	msx-yoriyoshizuki
+88a7979bc05ac2a4061814838dde8414	- Supertripper (1985)(Indescomp)(ES).rom	msx-yoriyoshizuki
+8f276d560598c503e5008e6ef6cb40e1	- SUPRACER.rom	msx-yoriyoshizuki
+fbda67fa9c6edd4dae131e3b3905d9c1	- Survivor (Topo Soft) (1987) (Melodia principal del juego, modificada por WYZ) (Main theme remixed by WYZ, new version).rom	msx-yoriyoshizuki
+e88f2d724fa248ca84070e81f5f225ee	- Survivor (Topo Soft) (1987) (Melodia principal del juego, modificada por WYZ) (Main theme remixed by WYZ).rom	msx-yoriyoshizuki
+6ee1078ceb2e65500763d4336d2a8e2e	- SURVIVOR [a].rom	msx-yoriyoshizuki
+a5a6fc59a1f78b31ecb07b9fc26523d3	- Survivors.rom	msx-yoriyoshizuki
+3c775a2ec743b0b1d1fe2c0abe7b78ac	- Sweet Acorn (1985)(Taito)(JP)[a].rom	msx-yoriyoshizuki
+afecf4d80ec1da1f9e052ed0ecfd5c2d	- SWIMMING.rom	msx-yoriyoshizuki
+5ce76c7d6c437a35884f5d41849ae563	- Swing (1985)(Pony Canyon)(JP)[a].rom	msx-yoriyoshizuki
+45d1e76fd4e39bcbca2abdabe4647138	- The Roving Planet Styllus (HAL Laboratory) (1986) (Version del juego modificada para evitar error en el registro del PSG, por GDX).rom	msx-yoriyoshizuki
+f55af3e437b41d7e288d35c8098fc322	- The Three Dragon Story (Zemina) (1989).rom	msx-yoriyoshizuki
+ecbef4c77f179324db8e4884110e16a2	- THESEUS.rom	msx-yoriyoshizuki
+464fa2bddc5b82e8b6c4bced90b9d47d	- Ti Ti! Pang Pang! (Aproman) (1989).rom	msx-yoriyoshizuki
+8640c04230f72562938ed0c9b5a9b12b	- Tiles of Shalom (Jipe) (2007).rom	msx-yoriyoshizuki
+c0bd94162fa9988d27695d4fcec7f3b4	- Tom et Cherie (Jean-Pierre Marin) (1985) (Side j).rom	msx-yoriyoshizuki
+f9f0ebe3f5e5f4df024fab3c27470ce7	- Tom et Cherie (Jean-Pierre Marin) (1985) (Side k).rom	msx-yoriyoshizuki
+f4062be10eac6746be804175efa14824	- Tomb of Genghis Khan (Impulse9) (2008).rom	msx-yoriyoshizuki
+12039502948d7147a3534e9316db7dff	- Tomboyish Becky's Large Adventure (MIA) (1983) (Traduccion al ingles de la pantalla de titulo, realizada por MSX Translations).rom	msx-yoriyoshizuki
+e86a802729f2d64fed8842e1575f2818	- Tour de Hanoi (Jean-Francois Durix) (1984).rom	msx-yoriyoshizuki
+9c5629b2084305d95d4214ad266bc202	- Traffic (Barq) (1987).rom	msx-yoriyoshizuki
+396d3f32a5564142857ff41178d4764b	- Trail (Kotai).rom	msx-yoriyoshizuki
+409b0a4de2f9314bb45ed616616aeda4	- Trogloditas (Kotai) (1989).rom	msx-yoriyoshizuki
+ae9527bec44fc12bf8b1dcaa717ba996	R-TYPE (1988)(Irem).rom	msx-yoriyoshizuki

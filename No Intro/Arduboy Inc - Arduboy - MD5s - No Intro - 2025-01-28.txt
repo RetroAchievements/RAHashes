@@ -1,0 +1,539 @@
+6e342f386be88b625185118a81000f70	101 Starships (World) (Erwin's Collection).hex	arduboy-nointro
+23716ff447c8fb9ea7b34feb3a095ecd	1010 (World) (v0.96) (Erwin's Collection).hex	arduboy-nointro
+328f3b061a03448d0d5de16c7f55a605	1010 (World) (v0.96).hex	arduboy-nointro
+191a025a7bda0ce20a9d0e0ae7028051	1943 (World) (Erwin's Collection).hex	arduboy-nointro
+094e278fc7661d68dfd9db4b52d11fa3	1943 (World) (v1.0.3) (Alt).hex	arduboy-nointro
+ea93ac3ce30dfb4429d585c10a5e53b8	1943 (World) (v1.0.3).hex	arduboy-nointro
+38a60f2d30b656bc6b7d54e4c32036f8	1944 (World) (Erwin's Collection).hex	arduboy-nointro
+8ebaf3ca6fd73daf4e5383fb3a693e1d	1944 (World) (v1.0.3).hex	arduboy-nointro
+cee7f24fab74cef92ff1e03cd76d38cb	1nvader (World) (Erwin's Collection).hex	arduboy-nointro
+81a9a966be766d0ae0a1d608eeb97faf	1nvader (World) (v1.0) (Alt).hex	arduboy-nointro
+6544f237ae5a8a6faecec8e84adac539	1nvader (World) (v1.0).hex	arduboy-nointro
+84ed72f4c96b7e9548640c877f41a008	1nvader (World) (v1.1).hex	arduboy-nointro
+e8ec91f0a78813a95e17f56cf0b94525	2048 (World) (v0.5) (Erwin's Collection).hex	arduboy-nointro
+dabb96ad031b2fd4f0dbeacaa717134c	2048 (World) (v0.5).hex	arduboy-nointro
+1a6751f312e584a61b16ae6a302dc0ec	2PlayersPack (World) (Erwin's Collection).hex	arduboy-nointro
+55bc613237495daa6a22d67427cdf111	3in1A (World) (v3.1) (Erwin's Collection).hex	arduboy-nointro
+e25f284de0dfc7b9dfab92d0ea5b8343	3in1B (World) (v2) (Erwin's Collection).hex	arduboy-nointro
+5f78623ac3d4312932c49b839fd3ee00	3in1C (World) (Erwin's Collection).hex	arduboy-nointro
+9f6e50de0f5d7afe0a5d8cf016b219e3	3in1D (World) (Erwin's Collection).hex	arduboy-nointro
+be693388b85522b1a9f22aa1731baf87	3in1E (World) (Erwin's Collection).hex	arduboy-nointro
+ba50ab184dd6e132eb78b92819b4c322	ABAsm DP1 (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+2eb0c2868964a6f249c7bbe305285a20	Abshell (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+f44a0e0e7b31242a57e1ad5fa6478727	AbSynth FM (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+2b9729d43ef0fb457c74d6b0569f1277	AbSynth FM (World) (v2.0) (Program).hex	arduboy-nointro
+0c48436c7f0efa11192769553a19306e	APara (World) (Erwin's Collection).hex	arduboy-nointro
+d7112e210f80e02f4ea27520a145a948	Arcodia (World) (Erwin's Collection).hex	arduboy-nointro
+fa6bb3283a85b429e1c767986e84a78c	Arcodia (World) (v1.0).hex	arduboy-nointro
+0857ab1f220c666ec0f4d8232caa77e2	Ard-Drivin (World) (Erwin's Collection).hex	arduboy-nointro
+e0e591ac80c9cb2e0ddd2b2c1d985770	Ardletics (World) (Erwin's Collection).hex	arduboy-nointro
+0f3f98bab2becd9ed11b95d4da579678	Ardu Buggy (World) (v1.0) (Erwin's Collection).hex	arduboy-nointro
+094779213579bf610c1d43d94f6e4ebb	Ardu Turf Masters (World) (Erwin's Collection).hex	arduboy-nointro
+33bbab25de35f4f7bf51432fb7fe1ade	Ardu-EZ Button (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+acd9f74254449081098d1f59038a40f2	Ardu-EZ Button (World) (v1.0) (Program).hex	arduboy-nointro
+1a808e185a1e9f9199b55ef84e94b8ef	Ardu-man (World) (Erwin's Collection).hex	arduboy-nointro
+c6f08ad7c28bd97ea97063074e746ff6	Ardu-Nut Button (World) (v1.0) (Program).hex	arduboy-nointro
+4959dc52e38115b3324e833f15cbf060	Ardu-Racer (World) (Erwin's Collection).hex	arduboy-nointro
+d88b2b46fd9fa8e89fa726ec1cfd439b	Ardu-Racer (World) (v1.0).hex	arduboy-nointro
+de52a0af843ee9c45425a7f58a0e3b31	Ardu-Racer (World) (v1.1).hex	arduboy-nointro
+662a36abc66ae7dcec65a443a1014471	Ardu-Racer (World) (v1.2).hex	arduboy-nointro
+f3f12e8efbdb23a22166e5d978a6b415	Ardu-Racer (World) (v1.3).hex	arduboy-nointro
+4f418f18773bfee547964b1e78171de5	Ardu-Whack (World) (Erwin's Collection).hex	arduboy-nointro
+0e96e6cfbfbe9c28512900dc691dcf8c	Ardu-Whack (World) (v1.1).hex	arduboy-nointro
+f585b7d0a002aa56443cdb355f591303	Ardu-Whack (World) (v1.2).hex	arduboy-nointro
+1b7f79c91407fb00f0e060ea960adeea	ArduBall (World) (Erwin's Collection).hex	arduboy-nointro
+9098c9096401276360062db7aa5bd9c6	ArduBall (World) (v1.0).hex	arduboy-nointro
+fe02f44b192ee262762f5c9c003a80ee	Arduboy Assistant (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+a8a98b00e48e52d3d08c24b3ffbc1c74	Arduboy Assistant (World) (v2.0) (Program).hex	arduboy-nointro
+12adf7abde199aaa0f7fdc2cd0018505	Arduboy Calendar (World) (Program) (Alt).hex	arduboy-nointro
+47ee162623bb290cc6b6b71fbb537ea6	Arduboy Calendar (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+17d1b9bc39ab8c040662aa725ddf673c	Arduboy Calendar (World) (Program).hex	arduboy-nointro
+6f210e5a153300d445174b84259e84c6	Arduboy Gamepad (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+890f6eff0cfa64ab0f03b5742b1019d5	Arduboy Says (World) (Erwin's Collection).hex	arduboy-nointro
+051e9628c0516c9bb3b6b7ba7950e9ce	Arduboy Says (World) (Update 2).hex	arduboy-nointro
+1977ac48e3d3f65a0ed47e436ff746e2	Arduboy Sings (World) (Program).hex	arduboy-nointro
+d11c83e22fadcd3859918f0caf379465	Arduboy Sprite Editor (World) (v0.3) (Program) (Erwin's Collection).hex	arduboy-nointro
+f4170bcfc806f500bbd58c5ed6d81a31	Arduboy Sprite Editor (World) (v0.3) (Program).hex	arduboy-nointro
+0be6b0b8ea0dc090f60f4bbfbe3b552d	Arduboy Visual Novel Demo (World) (Proto).hex	arduboy-nointro
+61048af79088409106f059203ed1e8e6	ArduboyLife (World) (Erwin's Collection).hex	arduboy-nointro
+877343f20df7f7fdf9dbd29415f5f27c	ArduboyLife (World) (v2.0).hex	arduboy-nointro
+c247311138b04da5038335e3aad2c970	ArduBOYNG (World) (Erwin's Collection).hex	arduboy-nointro
+26a7193b2616fbc11487419baf349c3f	ArduBrain (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+d55ba41a438bd9c4345193fa08797b0c	ArduBrain (World) (Program).hex	arduboy-nointro
+fdc380a5b9caab306faf005a6b584d8f	ARDUBULLETs (World) (v0.10).hex	arduboy-nointro
+c7d3adfc25635bd2a5af2a763c2a4bc3	ARDUBULLETs (World) (v0.11) (Alt).hex	arduboy-nointro
+951e1b8f38636343fa8503bd96056304	ARDUBULLETs (World) (v0.11) (Erwin's Collection).hex	arduboy-nointro
+0fb40bf560d98b1b911d7a3066e7b565	ARDUBULLETs (World) (v0.11).hex	arduboy-nointro
+6acd231dafd2e215751c8ec0c17b069f	ArduCC (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+1a44c4623d7950e9e50cc2d6a470f18e	ArduCC (World) (v1.0) (Program).hex	arduboy-nointro
+3377cec6d92a4de5bda379d65bef2fcb	ArduChess (World).hex	arduboy-nointro
+9afc234f0047004ef64b3aeda0d9fe41	Arducross (World) (Erwin's Collection).hex	arduboy-nointro
+69599bcb3a0a0269ee053672fbfab8e7	ArduGods (World).hex	arduboy-nointro
+9de4bb74aabfd538fcd61f6985dbf0b2	ArduGolf (World) (FX Only).hex	arduboy-nointro
+4c9a860e13beec44cf15c30a1c0bc1d4	ArduGolf (World).hex	arduboy-nointro
+20d253cbd712426755d5469d2ccd5d3c	ArduGolf - 18-Hole Mini Golf (World).hex	arduboy-nointro
+02f8212e7e2dd3b862807d91e565be0d	ArduIndy (World) (Erwin's Collection).hex	arduboy-nointro
+ad99770b32306912bd34d52f234e323c	ArduIndy (World) (v2.50).hex	arduboy-nointro
+2e9b889bc156d0d47552583d4f40d36b	Ardulem (World) (Erwin's Collection).hex	arduboy-nointro
+3f7ac93fe04add80ec52858f6465a7d3	Ardulem (World) (v1.0).hex	arduboy-nointro
+baaadf324cfcdfd1c9e60fdba4a6ccce	ArduLO (World) (Erwin's Collection).hex	arduboy-nointro
+072362b5aaf53a97c397526297c7fb0d	ArduLO (World) (v1.0).hex	arduboy-nointro
+e3bfc23f9fc154d96b5ba8cb36a78fb6	Arduloop (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+5e480cf5c336ec50815ed6b3f85da2f3	ArduMetronome (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+c64dc10d4f39209964b3b0de6495c18a	ArduMetronome (World) (v1.0.0) (Program).hex	arduboy-nointro
+b487224670f96fc766dba4b004e9d20d	ArduMetronome (World) (v1.1.0) (Program).hex	arduboy-nointro
+f0ed75d28428f3cfa8cac2c69b0eef37	Arduminer (World) (Erwin's Collection).hex	arduboy-nointro
+2b24bded6daa8e8953a9e515569d7c3e	Arduminer (World) (v1.0).hex	arduboy-nointro
+803cd298bf647e6751b2bb4689a75d41	Arduminer (World) (v1.1).hex	arduboy-nointro
+6a83e20ef6402b0bc2356a71af3bd769	ArduRemote (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+ae5aa95ca6101e00eaffa268e34178ff	ArduRemote (World) (v0.1) (Program).hex	arduboy-nointro
+b20a5e7cbdea2580b646e4e727b34365	ArduRogue (World) (Alt).hex	arduboy-nointro
+d05409bce4376fa925f4f3799d3814aa	ArduRogue (World).hex	arduboy-nointro
+3405cd054ccea13aeef99fb7c8f9f594	ArduSaver (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+5ae328b82b3dbad9ad39b14906cff80e	ArduSaver (World) (Program).hex	arduboy-nointro
+01373c174c8f48c697a04258e34ba74a	Arduslide (World) (Erwin's Collection).hex	arduboy-nointro
+56eb9ab3af384d4cbb2aa74b1d2cbe2d	Ardusweeper (World) (Erwin's Collection).hex	arduboy-nointro
+758653b7371cc893e96e28fd3155fe84	ArduTosh (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+9b18a3afdac23ab11e4e8948c40faae2	ArduTosh (World) (v1.0) (Program).hex	arduboy-nointro
+a974b6b9adc1f1876047371f77acd672	ArduTosh (World) (v1.0.1) (Program).hex	arduboy-nointro
+e9da2dc67c4799ef3f6035ec17ac6638	ArduTosh (World) (v1.0.2) (Program).hex	arduboy-nointro
+a6919b649b5f2015ce8fab5200bd5156	Arduventure - Trial of the Blade (World) (v1.01).hex	arduboy-nointro
+e70d4d84dc7e6fae0fee2f1d3f027610	Arduventure - Trial of the Blade (World).hex	arduboy-nointro
+73d6ed9d2fe4d7be3cab822065971d00	Ardynia (World) (Erwin's Collection).hex	arduboy-nointro
+36ba0c0d6f94011a4e9d428b68903737	Ardynia (World).hex	arduboy-nointro
+f2152be4d4579900390d5c9218ba0667	Armageddon (World) (Erwin's Collection).hex	arduboy-nointro
+d227c87e9009f13db6057944d164a78a	ARtillery (World) (Erwin's Collection).hex	arduboy-nointro
+be273635ee34757914ca9886e9b6c5fb	ARtillery (World) (v1).hex	arduboy-nointro
+9ce67e3cba59f5c06cfe58cde0dd3093	ASTEROIDS (World) (Erwin's Collection).hex	arduboy-nointro
+72c4f8a6a5c397af3c5d6f85e796a38c	ASTEROIDS (World) (FP).hex	arduboy-nointro
+37fbc13d9ba4c031371e08d3a9052fa8	ASTEROIDS (World) (ST).hex	arduboy-nointro
+e8934bf115a4af9e4e4072b2f9452dbc	Atomic Puzzle Pack (World) (Erwin's Collection).hex	arduboy-nointro
+581600eb5d0082aa0a1d9691af7547cc	Back to the Jungle (World) (Erwin's Collection).hex	arduboy-nointro
+888340307191fde37430df1118bc8043	Balancing Act (World) (v1.0).hex	arduboy-nointro
+0faa980a52bdd8db3e139305738d1f0c	Bang! Bang! (World) (Erwin's Collection).hex	arduboy-nointro
+458f7c2e493f754bdf5873e261c784ad	Bangi (World) (Erwin's Collection).hex	arduboy-nointro
+6832d7e6397c037589c8748658a59344	Battle for Zuthsrah (World) (Erwin's Collection).hex	arduboy-nointro
+83ec5e47755050d730298c2d36273435	Beam 'Em Up (World) (Erwin's Collection).hex	arduboy-nointro
+6201589b4554ec48cea92c456c0fef35	BEGEMMED (World) (No QR Code).hex	arduboy-nointro
+c393dd6d8fe95f2a76fa38be1f9b81c9	BEGEMMED (World).hex	arduboy-nointro
+63f64114f1eeba9962778fecd698b55e	Biddy Watering (World) (Demo) (Erwin's Collection).hex	arduboy-nointro
+a1ec79d134b9b901688d22145c9d2a2e	BigBlackBox (World) (Erwin's Collection).hex	arduboy-nointro
+5b1c604f166f9023c1b13895228d18f9	BiriBiriBeat (World) (Erwin's Collection).hex	arduboy-nointro
+5a494c47822cca3c312965357888596b	BitWars (World) (v1.0).hex	arduboy-nointro
+d90ad93fdde56d66a0b4c783a5a54526	BitWars (World) (v1.1).hex	arduboy-nointro
+b9c04db6fa3ebbc25acad67690095373	Blackjack (World) (Erwin's Collection).hex	arduboy-nointro
+52f87261ffc628bbc89bf2b8ff0553fa	Blackjack (World) (v1.0).hex	arduboy-nointro
+84490c2aa6bd9b354d049e25bab6479a	Blackjack (World).hex	arduboy-nointro
+7d5fa2b64f1c0e5b6a511e0367dcab22	Blade Runner (World).hex	arduboy-nointro
+d61935ec45c1d2d0113dccad03b43c03	Blob Attack (World) (No QR Code).hex	arduboy-nointro
+98c5eba6894f6e5e445a7da67ea9a0ff	Blob Attack (World).hex	arduboy-nointro
+f73f4f6714539fa8ae5a55ef32d420ca	Blocks (World) (Erwin's Collection).hex	arduboy-nointro
+61f2bdbe78718c280c5c8c894db77c08	Boids (World) (Erwin's Collection).hex	arduboy-nointro
+790504bde972bd42fd7b11f1e742a0ac	Bomberboy (World).hex	arduboy-nointro
+2a3e6e22a9d5a8990fbcc31328668814	Bombzzle (World) (Erwin's Collection).hex	arduboy-nointro
+6a7299fa2f857272ef1b2ecee0c21cc4	Book Reader - The Pig and the Box (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+fa178bfafebf3b701ec998cb8b16a798	Book Reader - The Pig and the Box (World) (Program).hex	arduboy-nointro
+333e5e5234721c893275755373d9fe62	Boris Goes Skiing (World) (Erwin's Collection).hex	arduboy-nointro
+7d597636e3fde65b756b3e4ff01a752e	Boris Goes Skiing (World) (v1.0).hex	arduboy-nointro
+dbb0e7b912dd6299527db7bfca91ead6	Bounce (World) (v1.0).hex	arduboy-nointro
+a42c76a666a2052261d9dda6c86befaa	Bounce (World) (v1.1).hex	arduboy-nointro
+662eb1e04147352262b9c6e00b0c698a	Bounce! (World) (Erwin's Collection).hex	arduboy-nointro
+f557ab3e1ab9a3b6a6b550ff3b6a3d52	Bounce, The (World) (Erwin's Collection).hex	arduboy-nointro
+25e783dfded1ee6ced890bd92eac6263	Box Stacker (World) (Erwin's Collection).hex	arduboy-nointro
+72c7982ff4321b713b2fda6ae73a2588	Brainfuck Interpreter (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+680944b3b21e52bc13ee8d28b961ed92	Brainfuck Interpreter (World) (v0.1) (Program).hex	arduboy-nointro
+6d5d61386b7d85b2ab8b6f7c9f641c75	Breakout-V (World) (Erwin's Collection).hex	arduboy-nointro
+dd7120358021c789116c8cc5045c72c2	Breakout-V (World).hex	arduboy-nointro
+f7e96166dd5cae837a10210410918a27	Bubble Pop (World) (No QR Code).hex	arduboy-nointro
+1921ed6730b8222433e08bf3ead70c15	Bubble Pop (World).hex	arduboy-nointro
+3c99340d27c7f66e7742465b5551dbf4	BurgardTime (World) (Erwin's Collection).hex	arduboy-nointro
+0da91b55d971f2c0b803fe6ac5b7f29c	BurgardTime (World).hex	arduboy-nointro
+2150b92f1e196bf3a36fb72cfa276398	CandyWar (World).hex	arduboy-nointro
+9ba61555c664a1bedeb0d6afa230253a	Captain Mason's UFO Defence (World).hex	arduboy-nointro
+73eab8bff16d0216695922527d586f88	Cascade Path, The (World) (Erwin's Collection).hex	arduboy-nointro
+a733217c030dc768c4effc2a0295de6a	CastleBoy (World) (Erwin's Collection).hex	arduboy-nointro
+284c0d59e371d8c25ea3f8fe540b78c3	Cat Mines (World).hex	arduboy-nointro
+c34f0985b8ebef2e8359ca5b228b6c40	Catacombs of the Damned (World) (Erwin's Collection).hex	arduboy-nointro
+fee80d42fa3a7d9e30fe040296cde0a2	Catacombs of the Damned (World) (v0.1) (Demo).hex	arduboy-nointro
+a420a3a38cb472563eb3549522b29c64	Catacombs of the Damned (World) (v1.0).hex	arduboy-nointro
+db4d1386a7592923ff9b02f5c24a7add	Cattle Quest (World).hex	arduboy-nointro
+73e32bb703126b6bc2bd76231c81f26e	Chicken Launcher (World) (Erwin's Collection).hex	arduboy-nointro
+71b8bbbb405f51ad89ece387ae320884	Chicken Launcher (World) (v1.1).hex	arduboy-nointro
+f012b3b5b7d40bf82cb86d9238fd15f0	Chie Magari Ita (World) (v0.10) (Erwin's Collection).hex	arduboy-nointro
+071c1d7cc06d03ab74282e815ee2a528	Chie Magari Ita (World) (v0.11).hex	arduboy-nointro
+18af7be2a83f4027b47acce509785508	Chirp (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+881eec6d813fd873db42e587276cd9ac	Chirp (World) (Program).hex	arduboy-nointro
+24ca2fd5536e9d4021beafb1edeea021	Choplifter (World) (Erwin's Collection).hex	arduboy-nointro
+c59378dd66bc4458165f2f3495a84c4b	Choplifter (World) (FX Enhanced).hex	arduboy-nointro
+db6588154bd6fd560340894afe9b81ab	Choplifter (World) (v1.1.1).hex	arduboy-nointro
+e075a4fa892d2586f6635ace5951e7da	Chri-Bocchi Cat (World) (v0.03) (Erwin's Collection).hex	arduboy-nointro
+fc76789258792b4fd2a15208722c75c3	Chri-Bocchi Cat (World) (v0.04).hex	arduboy-nointro
+e8a37a10c86d3a632b9e006458edcf54	Chrome Dino (World) (Erwin's Collection).hex	arduboy-nointro
+a8c6d553d6f390c95e31c88d561e1bf3	Chrome Dino (World).hex	arduboy-nointro
+11dc59e4c2d04fd98eca79a2b11b4e3f	Chrome Dino - Halloween (World) (Erwin's Collection).hex	arduboy-nointro
+b0815bef6fae8dfc33adba05bba0c884	Circuit Dude (World) (v3.2).hex	arduboy-nointro
+d423cfc7250c9ba7cdce049ec3bda282	Cistercia (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+c9dc80576e6b6ff9c01903dda2f0b53f	Coder's Toolbox (World) (FX Enhanced) (Program).hex	arduboy-nointro
+ae18548d97d23ce50b2042eb01f04c1b	Coder's Toolbox (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+ea2673dcc22de02e987d3fa01708419d	Coin Rush! (World).hex	arduboy-nointro
+2bf37cdd0b0dcb862fdd23ecf3c17ffd	Cooties Attack (World) (Alt).hex	arduboy-nointro
+ad9e31dbbbccda4ae0998d5c091d786f	Cooties Attack (World).hex	arduboy-nointro
+235d94095075d5552dafaf5c617f8e63	CosmicPods (World) (Erwin's Collection).hex	arduboy-nointro
+4a419323086dc427b7973642ccfde92f	CowBro (World) (Erwin's Collection).hex	arduboy-nointro
+31e083459cb634956b3969a1863da597	CowBro (World).hex	arduboy-nointro
+df80209c226a3476dd990b578b276d61	Crabator (World) (Erwin's Collection).hex	arduboy-nointro
+94e65945a485a90068626a667145dc9c	Crate Confusion (World) (Erwin's Collection).hex	arduboy-nointro
+3f05284deeb0b7926f985356b900885a	Crate Confusion (World).hex	arduboy-nointro
+874c1c85284507fc439ff6f14a7b30b9	Crates 3D (World) (Erwin's Collection).hex	arduboy-nointro
+3afe05ca33d5ee3cf674806834acbc2d	Crates 3D (World) (v1.0).hex	arduboy-nointro
+f45c041c4dc0042bfbff7a9aad4b9046	Crawl, The (World) (v1.01).hex	arduboy-nointro
+4a0b8b8b9a31ddd9f3ff7a73a9fc0d50	CrazyKart (World) (Erwin's Collection).hex	arduboy-nointro
+43382b39292f791d1e7f709377ad96e8	Creapawn (World) (v1.2).hex	arduboy-nointro
+49398e45a46dff25d5c8aca6624dbd0b	Cribbage (World) (Erwin's Collection).hex	arduboy-nointro
+41d1edb19088c1c05e4cb8a0ff45472b	Cribbage (World) (v1.02).hex	arduboy-nointro
+dd5fdb6cebeebcaac27c6fba0774e087	Cripple Mr Onion (World) (Erwin's Collection).hex	arduboy-nointro
+d975f67a02a40676a9ce655c2399c834	Cripple Mr Onion (World) (v1.0).hex	arduboy-nointro
+0993ed56903710adee40c5c5b0da2126	Curse of Astarok, The (World) (v1.0) (Erwin's Collection).hex	arduboy-nointro
+6afa31b871ecb16e14c6db76a1f363a0	Curse of Astarok, The (World) (v1.1).hex	arduboy-nointro
+ca321f3d9a6d46a16aba46463d1ffe7d	Curve Ball 3D (World) (Demo).hex	arduboy-nointro
+201135461bbf4ba812869d4b4058794e	Cutie E (World) (Erwin's Collection).hex	arduboy-nointro
+47041bed0dfc00b9c637e877511c5a54	CyberHack (World) (Erwin's Collection).hex	arduboy-nointro
+b4ca4ce18a7d6128ebe80e90fd919fd1	DanceRow (World) (Erwin's Collection).hex	arduboy-nointro
+0f43defeddea8b5fc033722080d24820	Dark and Under (World) (Erwin's Collection).hex	arduboy-nointro
+9d713d948dc184c6d59a51a3a00194f2	Dark and Under (World) (v2.0.3).hex	arduboy-nointro
+cf3bae690e7b0c95993a95bf28d4f910	Dark Star (World).hex	arduboy-nointro
+2f617e69989e39505dbc28b2ef10e830	Deep Dish Nine (World) (Erwin's Collection).hex	arduboy-nointro
+048940c0b7048cdb5b6e009269ddfdd5	Defenduino (World) (v1.0).hex	arduboy-nointro
+3a6c46b587b6a329a6d866a7b0451a1c	Defenduino (World) (v1.1).hex	arduboy-nointro
+fd9e8233e6272cd75a7122c8dd7dde7e	Defenduino (World) (v1.2) (Erwin's Collection).hex	arduboy-nointro
+033f307458d98af29d9751d0a05d2f6b	Defenduino (World) (v1.2).hex	arduboy-nointro
+27d92103b066cff09c0f46329c98ad27	Diamonds (World) (Erwin's Collection).hex	arduboy-nointro
+26283d1036c4dc551182c596840d25ac	Dice of Fate (World) (No QR Code) (Program).hex	arduboy-nointro
+7e1e740236cacf7353ba407f9ab89309	Dice of Fate (World) (Program).hex	arduboy-nointro
+72fb7385e8f9262a6fea2af60880c04e	Dice of Fate (World) (v1.7.2) (Program).hex	arduboy-nointro
+fb64d973a4fd6d1da5c0c564a7e81e73	Digger (World) (Erwin's Collection).hex	arduboy-nointro
+2f8d0b6c8026bf162f88bf608eea9114	Dinosaur (World).hex	arduboy-nointro
+7db8d31d810877e6b5d3936946ad7aee	Do You Remember Love (World) (Erwin's Collection).hex	arduboy-nointro
+2778ff086611110bbaa25427af933e1e	Dominoes 'All Fives' (World) (Erwin's Collection).hex	arduboy-nointro
+34df74631a878001d52e94a698cbbfe4	Donkey Kong Jr. (World) (v0.99a) (Demake).hex	arduboy-nointro
+32845df62c653ebe81dea66deafe6de3	Dungeons (World).hex	arduboy-nointro
+74328c863d3f3718c83314bb85a17356	Dungeons 2 (World) (No QR Code).hex	arduboy-nointro
+85498484bf811ade4eed949aea2678ba	Dungeons 2 (World).hex	arduboy-nointro
+eae64119ce0c2ac7eefd24bce2d409a4	Egg Master Pro 2020 (World) (Erwin's Collection).hex	arduboy-nointro
+c78a13f20532dbe44860c3a4797a95e6	Electronic Quarterback (World) (Erwin's Collection).hex	arduboy-nointro
+b21a2a3df6d5c2de6100a523a91456c9	ElsieBoy4 (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+b32e5f7301cb4833107cf792a14206eb	Elventure (World).hex	arduboy-nointro
+d74817dc89cecdc16dae29ce3ab5b691	Epic Crates of Mass Destruction (World) (No QR Code).hex	arduboy-nointro
+956e21f9d7f94a428719c56711227da8	Epic Crates of Mass Destruction (World).hex	arduboy-nointro
+10b5f6af0f1d71da0d547efb46441b80	Epic Mini Games (World) (Erwin's Collection).hex	arduboy-nointro
+f76081d4e2abe1c227b978597b350586	Escaper Droid (World) (No QR Code).hex	arduboy-nointro
+ebe37679593efab8b54baca057b7336f	Escaper Droid (World).hex	arduboy-nointro
+a89b898e513cdf6a6547aad8d28650f0	Evade (World) (Erwin's Collection).hex	arduboy-nointro
+1d01da4ab70d1890c148792a140d8e54	Evade 2 (World) (Erwin's Collection).hex	arduboy-nointro
+d6c3ff542fd655b8b3fd094a53e59a58	Evasion (World) (v0.10) (Alt).hex	arduboy-nointro
+3ec20ee55b9fbeb5ac2a9e2b24a9d06a	Evasion (World) (v0.10).hex	arduboy-nointro
+fa07ee2c37481a5767f90fd5e1d2deca	Fanboat (World) (Erwin's Collection).hex	arduboy-nointro
+8614f1e3af73be7911d4225ef826a1f2	Farkle (World) (Erwin's Collection).hex	arduboy-nointro
+c62c49764c5d5aa01bdf29fba7d69984	FateHack (World).hex	arduboy-nointro
+21b3161cfd18bf4f421d80903bac6c09	Fatsche (World) (Erwin's Collection).hex	arduboy-nointro
+13f2274b563bd0043ab14ef3c0f7b82e	Fidget Spinner (World) (Erwin's Collection).hex	arduboy-nointro
+e86f55a515761c75fbbd2b0d6e6c48f7	Fill the Cup (World).hex	arduboy-nointro
+b31c2f8cb797ddcc2d8ad9265cda87a1	Fire Panic (World) (Alt).hex	arduboy-nointro
+3200fff594120ee9473814949ce4e72a	Fire Panic (World) (Erwin's Collection).hex	arduboy-nointro
+311a72eba1acd599d7888fe36d01fcb4	Flappy Ball (World) (Erwin's Collection).hex	arduboy-nointro
+0e6d0272a0257667cda05d5d7cc5afad	Flappy Birdie (World) (Erwin's Collection).hex	arduboy-nointro
+e07c01bd7c9fb4fae0869fc5c343bca2	Flood Fill (World) (Erwin's Collection).hex	arduboy-nointro
+773e880b54fdc4c0bc6a884d063e6ec6	Floor Fall (World) (v0.1.0).hex	arduboy-nointro
+622c1342266921c833f2137f502ed8ce	Fluffle's Rainy Day (World).hex	arduboy-nointro
+a3b895c628a7b6f50305791843441939	fxdata.bin	arduboy-nointro
+626aa5b3ca1642abb44babd1d0972901	fxdata_1.bin	arduboy-nointro
+f26602840a8080ed08e6e3c30cfa05fb	fxdata_2.bin	arduboy-nointro
+5cfae5f90116de989461c685cade43df	fxdata_3.bin	arduboy-nointro
+f82385fae5016ef61dff3d3d7cfb49df	fxdata_4.bin	arduboy-nointro
+c5a812f0a40235d1ea7fb94e2149ac00	fxdata_5.bin	arduboy-nointro
+2d0a4f24f471dd3b1cfc77036d43c320	fxsave.bin	arduboy-nointro
+4e88ec72c0ceff1263a5c37edd9587c8	Galactea (World).hex	arduboy-nointro
+0dfe758c5d1225ae6af4e6427398abe3	Galaxion (World) (Erwin's Collection).hex	arduboy-nointro
+588bee7ff401f4cc459b1ff170b3b86d	Game of Life (World) (Erwin's Collection).hex	arduboy-nointro
+e3f323069cedea802ff51e4dca3eac85	Games'N Goblins - The Game (World) (Erwin's Collection).hex	arduboy-nointro
+067d4f5d13294b82375c585f53ed1cbc	Garboyle's Quest (World).hex	arduboy-nointro
+148dd404ca9cd7395d44877713eb2a7c	German Whist (World) (Erwin's Collection).hex	arduboy-nointro
+81803fb00b96c1fb0f583b67898c9652	Glove (World) (Erwin's Collection).hex	arduboy-nointro
+5f60ef41d7b5d99a08ed0f6eaa1bfe51	Graph (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+d121733014bf0cc2a7be5824d9acc7aa	Graph 2 (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+33dd2c6e290f5417e275c43076a15383	Guy Who Never Complains, The (World) (Erwin's Collection).hex	arduboy-nointro
+14b5019f0f86731d8fa1e1c3a560b73d	Hangman! (World) (Erwin's Collection).hex	arduboy-nointro
+ba7cafaff7e0ce7c9add4f8de176234b	Harambe's Revenge (World) (Erwin's Collection).hex	arduboy-nointro
+78cd230d94e75f9b5dd6df9ccc47555a	Hashi (World).hex	arduboy-nointro
+17c15fa8bb2ed22a740dab5c314c3389	Helii (World) (Erwin's Collection).hex	arduboy-nointro
+32d2872d145a4dd02b87c0d79603c3ec	Hello, Commander (World) (Erwin's Collection).hex	arduboy-nointro
+966680737e7a65fc66c05951a409f9f3	Holidate (World).hex	arduboy-nointro
+5e3f6b5d47a36f760a1f6a4e8cd6b315	Hollow Seeker (World) (v0.31) (Erwin's Collection).hex	arduboy-nointro
+f60e2974dcab789604b9afc20cc422a6	Hollow Seeker (World) (v0.32).hex	arduboy-nointro
+109472a9b91b0a5a08512ce6c914720c	Hopper (World) (v0.21) (Erwin's Collection).hex	arduboy-nointro
+4eeefab446efa6b9602eba10ddb5b0df	Hopper (World) (v0.22).hex	arduboy-nointro
+0a66545df7ea35acb8029234f1e6dd69	Horde, The (World) (v0.3).hex	arduboy-nointro
+c63e317cbe81d801d8f89568278a879b	HP35boy (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+4bebf3c12024d061c3525fc7a5308a12	Humanity Revenge DC (World) (Erwin's Collection).hex	arduboy-nointro
+06ea4739b62ba6a804858ed2cf9bb9f0	HUNT! (World).hex	arduboy-nointro
+79d4c7616d32bd8219a3b330be7884e1	I4arduboy (World) (Erwin's Collection).hex	arduboy-nointro
+f6cfb2d806960a7d09c5e62ae16024db	IDOUDO (World) (Erwin's Collection).hex	arduboy-nointro
+21bdec278cc30ad21a933ebb1758d692	Invaders (World) (Erwin's Collection).hex	arduboy-nointro
+d48a5fae5323b4773206be4c94587117	Is This Loss - The Game (World) (Erwin's Collection).hex	arduboy-nointro
+b82eed248c0a75d3d635914a08d953cc	Jet Pac (World) (Erwin's Collection).hex	arduboy-nointro
+fd927d22def899e39128a0c974874f3a	Jezzball (World) (Erwin's Collection).hex	arduboy-nointro
+ef3110ffb7ef9cdfd1ccdad1ba8178cf	Joustish (World) (Erwin's Collection).hex	arduboy-nointro
+adec59c1d0bd2521d0934a010a3c59c7	JumpBoy (World) (Erwin's Collection).hex	arduboy-nointro
+43a66884332c706e4362d507ea218185	Juno First (World) (v1.00) (Erwin's Collection).hex	arduboy-nointro
+25c5592cc209df5616e104a5f4551e60	Juno First (World) (v1.01).hex	arduboy-nointro
+6f84e42572be10761ea6a1f4a8daba6c	Karateka (World) (Erwin's Collection).hex	arduboy-nointro
+d2578c2edf3a43045f89de0b39028111	Karateka (World) (FX Enhanced).hex	arduboy-nointro
+f580ee392e8af8ab21a542ac5eecf5c8	Karateka (World) (v0.9) (Alt).hex	arduboy-nointro
+de14494d118eefaae85779b35e1d2843	Karateka (World) (v0.9).hex	arduboy-nointro
+bab2d1c54921bded4b03875bc90b2569	Kemono Patrol (World) (Erwin's Collection).hex	arduboy-nointro
+3cf4a2a6d545b2aa61af027285467631	KeyKat - I.T. (World) (Erwin's Collection).hex	arduboy-nointro
+11e527ea4755ac7624489eed45044a36	Knight Move (World) (v0.10).hex	arduboy-nointro
+a72b64e3530e6906009ca4d13a9b00de	Knight Move (World) (v0.11) (Alt).hex	arduboy-nointro
+b29f86eea51fb11bc388a09c4f09e43f	Knight Move (World) (v0.11) (Erwin's Collection).hex	arduboy-nointro
+48c8956aa7f643f453724bc5933496b1	Knight Move (World) (v0.11).hex	arduboy-nointro
+190a4cbe9b13600e56f6eccf3f1fea91	Kong (World) (Erwin's Collection).hex	arduboy-nointro
+a521a7d17a1a7ccd50ca9ca509395882	Kong (World) (v1.0.4).hex	arduboy-nointro
+6d082e8eaa6f39460872cdcaebf311ad	Kong II (World) (v1.0.0) (Erwin's Collection).hex	arduboy-nointro
+f40f2320959215f4f10741f9d5ad2d3f	Kooky Kookies (World) (v1.1) (Erwin's Collection).hex	arduboy-nointro
+c829678f91220e95b93fa11f6e486f7b	Kooky Kookies (World) (v1.2).hex	arduboy-nointro
+8da0dadd2c3079c61d1f0a8aa025d2cd	KPA Quest (World) (v1.0).hex	arduboy-nointro
+1960466e27616730083b4e287fa8df93	Kung Fu Escape (World) (Erwin's Collection).hex	arduboy-nointro
+709f59324e547e4806b7f0dbc2250cfc	Lagunita (World).hex	arduboy-nointro
+fb0ce598e3e4c6af321ac8bbec9eb61b	Lasers (World) (v0.11) (Alt).hex	arduboy-nointro
+5617d9dc32df3870153f85595d2e04c7	Lasers (World) (v0.11) (Erwin's Collection).hex	arduboy-nointro
+967458f0096e7c7d8cab5e2d82cc4c34	Lasers (World) (v0.11).hex	arduboy-nointro
+23ef0938431baaaf83fa10bf932c7cac	Lasers (World) (v0.12).hex	arduboy-nointro
+1bd6f6d2bf74ad0b7e14db305544257e	LATE (World) (Erwin's Collection).hex	arduboy-nointro
+bb5cdef904d2c7e5ca4b92de3b81aeef	Leanna the Lion (World) (v1.1) (Erwin's Collection).hex	arduboy-nointro
+9a08fc1ca79a8b489c78a1240a1533cf	Leanna the Lion (World) (v1.2).hex	arduboy-nointro
+23d923500ad56563d61a5967549be1b2	Light Meter (World) (Erwin's Collection).hex	arduboy-nointro
+f56574207136c7b661a81ecc03c3384e	Lion Tamer (World) (Erwin's Collection).hex	arduboy-nointro
+988974684f69c6ae42a0a64d3785cd9e	Lite Out (World) (Erwin's Collection).hex	arduboy-nointro
+6e39f18a8946acb06e0e6b943865056d	Little Rook Chess (World) (Erwin's Collection).hex	arduboy-nointro
+2bd48dbc35228d10014e2c9a99c25341	Lode Runner (World) (v1.04) (Levels 1 to 40) (Erwin's Collection).hex	arduboy-nointro
+3ed88ff5b4b04a8fbc998472be63f79d	Lode Runner (World) (v1.04) (Levels 121 to 154) (Erwin's Collection).hex	arduboy-nointro
+f8edc7c8f54ab15c6198c84620ab336f	Lode Runner (World) (v1.04) (Levels 41 to 80) (Erwin's Collection).hex	arduboy-nointro
+fec45f0b7a95ea3a1f768307b39be523	Lode Runner (World) (v1.04) (Levels 81 to 120) (Erwin's Collection).hex	arduboy-nointro
+4e9f06d041a60c07ed82ce13c62b2656	Logix (World) (v0.94) (Erwin's Collection).hex	arduboy-nointro
+789289705d124c347dd927dba7caa1ff	LongCat (World).hex	arduboy-nointro
+261a0a7b7237f4fc45b807ec70542dfe	Love Tester (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+356e2770ead1816d8e2e7793a0184db0	LoveRush (World) (v1.1.1) (Erwin's Collection).hex	arduboy-nointro
+baa611b22be480290155a5c1104c1209	LoveRush (World) (v1.1.2).hex	arduboy-nointro
+37250356d6aab54e5fb88b5d8c68d173	Magic 8 Arduball (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+1f97890993d9fb44ccf9bf033122a1f2	MallARD Hunt (World).hex	arduboy-nointro
+c37ac7bb5bb9560d322ec7d4e595cee6	Manhole (World).hex	arduboy-nointro
+90ac209b0055e4c61db5a65fb1596c5e	Manic Miner (World) (FX Only).hex	arduboy-nointro
+dcda6c799b4649174bf398f3b02fdd59	Match the Shape (World) (v1.1).hex	arduboy-nointro
+d035f2392ac7c1b686ef01988d16d1da	MayQ (World) (Erwin's Collection).hex	arduboy-nointro
+ec302922638d5d0415e33d937955757f	MazezaM (World) (Erwin's Collection).hex	arduboy-nointro
+854a2cd7ec6c7a07a6f2b517f1f0195b	Mazogs (World) (Erwin's Collection).hex	arduboy-nointro
+be4035a88cb35ea3561cd74f6b133e93	Mega Missiles (World).hex	arduboy-nointro
+1025e3d03fb54591e2d6f7d6ce48d93c	Metalog (World) (Erwin's Collection).hex	arduboy-nointro
+ffb56811633e38a03f3ae41e124d220a	MicroCheckers (World) (Erwin's Collection).hex	arduboy-nointro
+6717a1b1e960d013ef61eceea6ea0006	MicroCity (World) (Erwin's Collection).hex	arduboy-nointro
+758308f5c0fcb54fbf9702889f1db52a	MicroTank (World) (Erwin's Collection).hex	arduboy-nointro
+de5e77cebaa017d595f4d9fc8d2c542c	MicroTD (World) (v1.01) (Erwin's Collection).hex	arduboy-nointro
+7497d5cf5341dd992ba258c548d61461	Midnight Wild (World).hex	arduboy-nointro
+ea6839c083d11897793f44795bdd1332	Millipe (World) (Erwin's Collection).hex	arduboy-nointro
+3f5f23df1c9fde1ede6de45727d3be81	Minesweeper (World) (Erwin's Collection).hex	arduboy-nointro
+95a6e026f2c59a5b73dfa90867df9f07	Mini Rogue (World) (Erwin's Collection).hex	arduboy-nointro
+ba7203d8193692e27e3ae316fd0b9d86	Miss Snake (World) (Erwin's Collection).hex	arduboy-nointro
+aba6426da5f84e693c087233a392ed3a	Mitty the Kitty (World) (v0.1.0).hex	arduboy-nointro
+913af943b981a197d8f67c52a93cd7b8	Mitty the Kitty (World) (v0.2.0).hex	arduboy-nointro
+94400e55213df786e956f7cf1aad6575	Monpals (World).hex	arduboy-nointro
+6544ae87751ea2203477d5c89bd6040b	Morse Code Trainer (World) (v0.10) (Program) (Alt).hex	arduboy-nointro
+134a934e3dbc46d0f1d91c0e4a9de988	Morse Code Trainer (World) (v0.10) (Program).hex	arduboy-nointro
+d61bdd2bef1fa005c877a8e66c72296d	Morse Code Trainer (World) (v0.11) (Program).hex	arduboy-nointro
+10799722c498f91f65b39a0287aed145	Mouse Escape (World) (v1.0).hex	arduboy-nointro
+169e420bc7bd1ad427591e9d8db1f827	MUGICGEN POCKET (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+fae7eabb569c734a4d97bb13b3903654	Mystic Balloon (World) (No QR Code).hex	arduboy-nointro
+9d43b7e4de888d1d77b72a2db56d95c6	Mystic Balloon (World) (v1.7).hex	arduboy-nointro
+a74b9ad4a42ad74b49a3e7391bfa2842	Mystic Balloon (World).hex	arduboy-nointro
+d6e3ff15e7d140201315ff5f24646536	Nanoseq (World) (Erwin's Collection).hex	arduboy-nointro
+c2022ca4cb38e56badc9e8c710e59870	Night Raid (World) (Erwin's Collection).hex	arduboy-nointro
+de8c0bd92a0580cfbfc14fa5f79b5e1f	Nightmare Park (World).hex	arduboy-nointro
+e938c3bd3f51bbde769cd266fddd775d	Ninja Fuzzgrawth (World) (Erwin's Collection).hex	arduboy-nointro
+10deed86f12f4df3e7cd70f97584b329	Nomis (World) (Erwin's Collection).hex	arduboy-nointro
+c5b6c80b75cd53605903c7c81779af91	Not Just a Hat Rack (World) (Erwin's Collection).hex	arduboy-nointro
+fe5f4d248f3ca82afcde5c02889f8b8f	NumberMind (World) (Erwin's Collection).hex	arduboy-nointro
+f5e26b57887e41241ae9c3e2b69360e2	Octet Night (World).hex	arduboy-nointro
+51aa303027ec7a53528f0de43654ca1d	Octopus (World) (Demake).hex	arduboy-nointro
+fc19db5bdb1c80e54b57cb237880e5e5	Oh Mummy (World) (Erwin's Collection).hex	arduboy-nointro
+3207bd5211c844599bad47b5162d3df3	Oh, You're Gunna Die (World) (Erwin's Collection).hex	arduboy-nointro
+3ae26dd1c90a5fbff1109ca62815103e	Oil Panic (World) (Erwin's Collection).hex	arduboy-nointro
+c3c71bbace7ab0745e869e92f2ce548e	OktaArduToken (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+0f9b554a6c648ba35a481efec8640594	Omega Horizon (World) (Erwin's Collection).hex	arduboy-nointro
+5ae5b0de5bedb4e15a1783cefec25a38	Omega Horizon (World) (v1.3).hex	arduboy-nointro
+b02f6154edb37fc73bba4f8762ec2eac	Orbs (World) (Erwin's Collection).hex	arduboy-nointro
+ea4ab60340b5c5ea0e58833f08d4cbf7	PAC-Tastic (World) (Erwin's Collection).hex	arduboy-nointro
+6d764ed131ab107fe1e30df996d88bf5	Paqman (World) (Erwin's Collection).hex	arduboy-nointro
+20a1a66e25e4edafd85cd83ba757e3a8	Pawn Path (World).hex	arduboy-nointro
+4e14d1b347edd0afe2b328fccddbdde4	Petit of the Dead (World) (Erwin's Collection).hex	arduboy-nointro
+b2550d923f13d8eb0dbbd1e5f10098ad	Petitseq (World) (Erwin's Collection).hex	arduboy-nointro
+a45ea42d5cfe8f808a09ef3991013e47	PI 24k (World) (v0.03) (Program) (Alt).hex	arduboy-nointro
+e5b4cbb19e75b6d210a75590763245ee	PI 24k (World) (v0.03) (Program) (Erwin's Collection).hex	arduboy-nointro
+fdb8eb4a1fd06a7d0bf3dc5cc3f1a8c5	PI 24k (World) (v0.03) (Program).hex	arduboy-nointro
+d327125b19215b01d5d26963d76ec9ba	Pico Racers (World) (No QR Code).hex	arduboy-nointro
+21dbdbf7efb57568a37839eda5b1bc14	Pico Racers (World).hex	arduboy-nointro
+0816a7728d17612d07f4ce7d37078ee4	Picovaders (World) (Erwin's Collection).hex	arduboy-nointro
+75db0d4c0c57d8268b1ecaef6f688c68	PiCross (World) (Erwin's Collection).hex	arduboy-nointro
+d7a68c2a5d6b22964307c51adbc28c1f	Picross a (World).hex	arduboy-nointro
+1774d69cc164843f96ca10d6b72d21bb	Pipes (World) (Erwin's Collection).hex	arduboy-nointro
+46b168cef530bf77b225e623615e7eae	Pocket Fighter (World) (Erwin's Collection).hex	arduboy-nointro
+2ba327de10d2d575efc0144619a4d155	Pocket Othello (World) (Erwin's Collection).hex	arduboy-nointro
+ba28e6a115fd28cca69aab34ab4cc4ec	Pocket PDA (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+71948802b19472bb8eb4fa8774b35d5e	Pocketchi (World).hex	arduboy-nointro
+4593796806cfc0a755145f2d4a21ee5f	Poitto (World) (Erwin's Collection).hex	arduboy-nointro
+201801a0a4a20b009e3747a4d6428144	Pong (World) (Erwin's Collection).hex	arduboy-nointro
+6b46e90570f5f87cd8c72793966255ad	Poop Panic! (World) (Erwin's Collection).hex	arduboy-nointro
+6f7de11e2ccc2159f664658860143566	Prince of Arabia (World) (v1.0) (FX Only).hex	arduboy-nointro
+731d60fb8bc9b8393df6ee521e3d99aa	Prince of Arabia (World) (v1.1) (FX Only).hex	arduboy-nointro
+dd1953a0ab307edd6e13f9e83eed73b9	Prince of Arabia (World) (v1.2) (FX Only).hex	arduboy-nointro
+30c86f30308b8f0481b6594ad8f57d1a	Prize Frenzy (World).hex	arduboy-nointro
+d5d382113320f387fda175eeff5930b5	Psi Colo (World) (v0.10) (Erwin's Collection).hex	arduboy-nointro
+6b4af8fbf6c1e9940bfd933b39b1875a	Psi Colo (World) (v0.11).hex	arduboy-nointro
+11e307abe7b2ef0543aba4877ecb9d63	Pyoro (World) (v1.1) (Erwin's Collection).hex	arduboy-nointro
+bfe4fdc75bf8cafeb8b8b113609f2db1	Quadrastic (World) (Erwin's Collection).hex	arduboy-nointro
+4f4c0ee28ca9efca648dd4b61c871e64	Quarto! (World) (v0.10) (Alt).hex	arduboy-nointro
+6a2ab0ba8d2ecb2921d0a41e79d37202	Quarto! (World) (v0.10) (Erwin's Collection).hex	arduboy-nointro
+f3e1c76a9acfdcb5a7fb9c71511e2b51	Quarto! (World) (v0.10).hex	arduboy-nointro
+4c21956b785c051c761666126a6dbbd7	Quest for Truth, The (World) (Erwin's Collection).hex	arduboy-nointro
+975dedac8415efa199c6fd7bf604b14e	Quest for Truth, The (World) (v1.0.0).hex	arduboy-nointro
+67bbde3eb001d68cc01fcc397d8cbd17	Radical Racing - Rivalry (World).hex	arduboy-nointro
+40e9cf1c8315cff376db9b836f5a5bc8	Randocity (World) (Erwin's Collection).hex	arduboy-nointro
+c90907792879ff91b3c79a65c9476db3	Ravine Despoiler (World) (Erwin's Collection).hex	arduboy-nointro
+49468ac181d6b6eacb034e1b5e396475	Rayne the Rogue (World) (Erwin's Collection).hex	arduboy-nointro
+afe60f5ffc2a88132f9b59803d9d0678	Rayne the Rogue (World) (No QR Code).hex	arduboy-nointro
+ab0e8e16f48a65ca4366fe1182a44ddd	Rayne the Rogue (World) (v2.9).hex	arduboy-nointro
+a3a9a032f21729d1ba9fab2d0695c294	Rayne the Rogue Deluxe (World).hex	arduboy-nointro
+0e40616ef9dc33c539d1045cb37d5771	Rayne the Rogue Part II (World) (v1.0).hex	arduboy-nointro
+740da20cd54c4acba780420440538e22	Reverse Mermaid Hockey (World) (No QR Code).hex	arduboy-nointro
+c4ceeaca2358fa391c077e4532e7b916	Reverse Mermaid Hockey (World).hex	arduboy-nointro
+488741e6b349d6169c7733070fe42c31	Reversi (World) (v0.10) (Erwin's Collection).hex	arduboy-nointro
+59f0cbcec0fc411fc84ffd9c7c16c083	Reversi (World) (v0.11).hex	arduboy-nointro
+232dade04bd606f9b03698aa27f1bb87	Rhythum (World) (v1.0).hex	arduboy-nointro
+704b62faed2d5131abf3978df53738fc	Rhythum (World) (v1.0.1).hex	arduboy-nointro
+026580d23114a020f50e4a2bec92c550	Rhythum (World) (v1.0.2).hex	arduboy-nointro
+7c806db164a90b6cc7dda291d40c267b	Rick and Morty Game (World) (Erwin's Collection).hex	arduboy-nointro
+7ffb707672f851304fb1389535a45722	Ring Puzzle (World) (Erwin's Collection).hex	arduboy-nointro
+12c7a6d38e6c0dbaf4b20a61c3a20374	Road Trip (World) (Erwin's Collection).hex	arduboy-nointro
+f93acc4e983976494c15689685766abd	RoboDodge (World) (Erwin's Collection).hex	arduboy-nointro
+fe2d0efe3838fa6404c19d9a2a7a98e2	Rogue (World) (v1.21) (Erwin's Collection).hex	arduboy-nointro
+edf545b0c7b97cd2547925444b304c33	Roo Run (World) (Erwin's Collection).hex	arduboy-nointro
+7f17a743b8a50e96818da3d88d595d1b	Rooftop Rescue (World) (Erwin's Collection).hex	arduboy-nointro
+f3c13eea09247c2adaea2695a2762460	Roshambo (World) (Erwin's Collection).hex	arduboy-nointro
+1bbafc66925eaf75991bd2f209e46057	RYSK (World) (v0.01).hex	arduboy-nointro
+6f2d8f9e77b97b7272e99fe65a3d4a33	RYSK (World) (v0.04).hex	arduboy-nointro
+d30910f6972796e593f5a888bfea451e	RYSK (World) (v0.10).hex	arduboy-nointro
+17284e33201088ca6996d35cd2ccb414	SameGame (World) (v0.10) (Alt).hex	arduboy-nointro
+1de4294e26554d7edfdbff16f820948d	SameGame (World) (v0.10) (Erwin's Collection).hex	arduboy-nointro
+a2bca805284b72dd0f348caf5c923acb	SameGame (World) (v0.10).hex	arduboy-nointro
+f94c51edabe6097e261ca82914da6c96	SanSan (World) (Erwin's Collection).hex	arduboy-nointro
+33b2e6a068ca3fa6cb5112dc7e47dc6b	Santa's Factory (World).hex	arduboy-nointro
+7546fe3e51ae5b22f07dbfa4ee9a0219	Santa's Happy Little Packer (World) (Erwin's Collection).hex	arduboy-nointro
+0a5dffdd9427c0aa8a44bc5dad0f1814	Self Destruct Message (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+f88099ef1d08f75f26221431ee91386e	Sensitive (World) (Erwin's Collection).hex	arduboy-nointro
+c2aa8cecc3324186e1055f11defcaf42	SetSystemEEPROM (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+d37ad0b61ed8cdc5165c9edc5e5a3685	SFCave (World) (Erwin's Collection).hex	arduboy-nointro
+e075b056983236b1723520a51ca61b35	SFZ (World) (Erwin's Collection).hex	arduboy-nointro
+08f764440a97959aa08f6b7e690a77b1	Shadow Runner (World) (No QR Code).hex	arduboy-nointro
+58abce6febfd7a6bd5544dfedf72be26	Shadow Runner (World).hex	arduboy-nointro
+174c1f11187c959317f0e7c97a21084b	Shadows and Eternity (World) (v1.25) (FX Only).hex	arduboy-nointro
+ae9e388c380ea3b40cbd3d4b56aa80fa	Shattered Lands - Towers of Perdition (World) (Erwin's Collection).hex	arduboy-nointro
+2f7cb8ad37814c9349771530bc80f949	Shattered Lands - Towers of Perdition (World) (v1.4).hex	arduboy-nointro
+ecb57d25756ae887bbde2793fb248d72	Siege (World) (Erwin's Collection).hex	arduboy-nointro
+2225ab09dd362d6b35288f181d0fcc04	SIEGE (World) (v1.1).hex	arduboy-nointro
+e0d48ca6e452db062bfade9b4bac6736	Single Ennead (World).hex	arduboy-nointro
+d4afa66789802586382825692c4226a9	Sirene (World) (No QR Code).hex	arduboy-nointro
+8edf6b83496c15e2e0cda9dcf834a589	Sirene (World).hex	arduboy-nointro
+179ab955d83e5452e1ae1027d2212e75	Sk8 Ard Die (World) (Erwin's Collection).hex	arduboy-nointro
+9a4ff539109efb70b951bf2d727a229d	Sketch-A-Sketch (World) (Erwin's Collection).hex	arduboy-nointro
+0cba6934cdc3264bfbe566c065eba2e9	SNAKE (World) (CDRXavier) (Erwin's Collection).hex	arduboy-nointro
+5482dc140e863c58c463aacf4a7ab195	SNAKE (World) (CDRXavier).hex	arduboy-nointro
+8d04621f8bf443fb50a96df13fc87263	Snake (World) (Stu) (Erwin's Collection).hex	arduboy-nointro
+526faabe465cef199dbdefe60f7c7c69	SnELk (World) (Erwin's Collection).hex	arduboy-nointro
+ca8b689bed5ce47072a2d04b90806f10	Social Distance Game, The (World) (v1.1.0) (Erwin's Collection).hex	arduboy-nointro
+b7104e80019ca4993890887dfc1ab9ec	Solitaire (World) (Erwin's Collection).hex	arduboy-nointro
+7906ca2c0621bc41cc50af24ffa693df	Space Battle - Trench Run (World) (v1.1) (Erwin's Collection).hex	arduboy-nointro
+bf8692979cfcfc5ecb622488cf2828cc	Space Cab (World) (v1.0) (Erwin's Collection).hex	arduboy-nointro
+9bb78912e9202db6cb7777e79f6667bd	Space Fighter (World) (Erwin's Collection).hex	arduboy-nointro
+04d83a1e25761050fd7584724c027c31	Space Flappy (World).hex	arduboy-nointro
+6e5737367564846c5a21c2811760c505	Space Invaders (World) (Erwin's Collection).hex	arduboy-nointro
+2253c41e309b9e6a7638b9a71ea6984a	Space Knife (World) (Erwin's Collection).hex	arduboy-nointro
+87929ef4c3fe24897880c75dafcab82f	Space Quarth (World) (Erwin's Collection).hex	arduboy-nointro
+46185f3bc1851e84968e0b6a8becab79	Square Nose (World) (Erwin's Collection).hex	arduboy-nointro
+f91369af957dda3a8625e85f0b357c04	Squario (World) (Erwin's Collection).hex	arduboy-nointro
+20c649a369cb3d60b7574dc44324fb30	Stairs Sweep (World) (v0.10) (Alt).hex	arduboy-nointro
+5c30e5252ee04798963b9c65ee2ee000	Stairs Sweep (World) (v0.10) (Erwin's Collection).hex	arduboy-nointro
+4760f83f61c4243649e40fdb7530bc21	Stairs Sweep (World) (v0.10).hex	arduboy-nointro
+62c3e54133d3cd82ccc47d899eb0b8d2	Star Honor (World) (Erwin's Collection).hex	arduboy-nointro
+491333171ab23dc7fe357a19a2bdc012	Starduino (World) (Erwin's Collection).hex	arduboy-nointro
+c62c13806539cc62f39c060051353286	Starduino Turbo (World) (Erwin's Collection).hex	arduboy-nointro
+9d22b7cf09b6c3efa2c241e5e6fab3c7	Stellar Impact (World) (Erwin's Collection).hex	arduboy-nointro
+935086592f5a78c690ccc1811746c6fc	Street Racer (World).hex	arduboy-nointro
+e732ecc69f205751c8aa69d10aefdcf0	Sudoku-NBP (World) (Erwin's Collection).hex	arduboy-nointro
+3e38f73c8a4ada70823ef63af58eaa34	Super Crate Buino (World) (Erwin's Collection).hex	arduboy-nointro
+081d4521070d52147c7fba5e6c1ceaa2	Super Soldiers (World) (Erwin's Collection).hex	arduboy-nointro
+40657e770e91b7317bd583fc70bd23db	Tackle Box (World) (v1.2.0) (Erwin's Collection).hex	arduboy-nointro
+9b5b29c2259e7427eab1cdf66c109415	Tamaguino-AB (World) (Erwin's Collection).hex	arduboy-nointro
+da9a31685009bbf432d8ae5b78def9eb	Techno Monkey (World) (Erwin's Collection).hex	arduboy-nointro
+5b48bda6995b0c363075ef49ed4e8f23	Techno Monkey (World) (v1.0).hex	arduboy-nointro
+56c169e06a27dd38e903e8641196f1a5	Term Twirl (World).hex	arduboy-nointro
+b5118087e7728a94f22ee620705b7d7b	Tetris (World) (Erwin's Collection).hex	arduboy-nointro
+e4a08bc773506f16a8f33299bbd7e94c	TicTacCurly (World) (Erwin's Collection).hex	arduboy-nointro
+61b65ed7533540718eb826d053b4b3fb	Tiny Asteroids (World) (Erwin's Collection).hex	arduboy-nointro
+d87953d3fae7c919196435cfcac758c3	Tiny Depth (World) (Erwin's Collection).hex	arduboy-nointro
+459b074324d7db3f70ec6c7a6abe6fe8	Tiny Digital Invader (World) (Erwin's Collection).hex	arduboy-nointro
+6e439c849c3f9dcb6c24d9abc6f1e8fb	Tiny Lander (World) (v1.0) (Erwin's Collection).hex	arduboy-nointro
+c5387f12bd86e05ff9a0cc609116b5fe	Tiny NS-Tower (World) (Erwin's Collection).hex	arduboy-nointro
+c1021b50977c48f87aeebff2e3fee0e5	Tiny Sokoban (World) (Erwin's Collection).hex	arduboy-nointro
+3f4ab3f28837e8fe4443d5b2fb47a647	Tiny-Bert (World) (Erwin's Collection).hex	arduboy-nointro
+807c8a877dc7d170fcab6d1e7049debf	Tiny-Bike (World) (Erwin's Collection).hex	arduboy-nointro
+8fd2cdbf69970e22723fe3c1695602ef	Tiny-DDug (World) (Erwin's Collection).hex	arduboy-nointro
+d54515be179fb4246afe4441cd9aa5ec	Tiny-Missile (World) (Erwin's Collection).hex	arduboy-nointro
+865c5d41ee83a46bef0e4cba699a9ad2	Tiny-Morpion (World) (Erwin's Collection).hex	arduboy-nointro
+b7407cb6b8ab0703116511ee24a81e3a	Tiny-Pipe (World) (Erwin's Collection).hex	arduboy-nointro
+78f1494c468168dbdfd04cc56ca6fe43	Tiny-Plaque (World) (Erwin's Collection).hex	arduboy-nointro
+ed1bf37da5ad8b916ffbdc75dc6183d9	Tiny-Trick (World) (Erwin's Collection).hex	arduboy-nointro
+2262eb3f4e83dde315a5ab41492ae56d	Tiny-Tris (World) (Erwin's Collection).hex	arduboy-nointro
+84f7a12f62402fa095d2f61b886d37aa	TNTANK (World) (v1.0).hex	arduboy-nointro
+675dddf88509f55921a71b182f603e43	TNTANK (World) (v2.0).hex	arduboy-nointro
+100edf264f88de3097a8078fe8a03796	To (World) (Erwin's Collection).hex	arduboy-nointro
+b548ee67da194b8324620fd20cf95e0d	Tower of Pain (World) (v1.2.2).hex	arduboy-nointro
+55178714c56517fc0efee39241edf2cd	Toyoshiki Tiny Basic (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+5328b7f3c108d3d1ae63ec4d566e646f	Train Dodge (World) (Erwin's Collection).hex	arduboy-nointro
+4a4d5c2d82ffbed63ef46c76c6cd3470	Tres (World) (Erwin's Collection).hex	arduboy-nointro
+e475bea9590bab2fef8279f374b57c74	Tris (World) (Erwin's Collection).hex	arduboy-nointro
+a1e2f4edec370a353d64d631429cbbae	Trolly Fish (World) (No QR Code).hex	arduboy-nointro
+29f36644a6ba1ce9cab521f59a4796d7	Trolly Fish (World) (v1.1).hex	arduboy-nointro
+657a3bab5313248cacb19fb0c1db60d3	Trolly Fish (World).hex	arduboy-nointro
+77f0ef1dfa03d18b8dcf2771999c59ad	Tronduboy (World).hex	arduboy-nointro
+a0619fc0a3af2427333da2e0345d85ec	Turtle Bridge (World) (v1.0) (Erwin's Collection).hex	arduboy-nointro
+0111865fb00cdce7634d929554182359	Turtle Bridge (World) (v1.3).hex	arduboy-nointro
+fadebf4b4792a205546b9b8a2798d075	TV Tuner (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+2f76e5a0c43abd1b9db527f2b7bdfa7e	Twotris (World) (Erwin's Collection).hex	arduboy-nointro
+7c6cf26e3b49cab9e801864773d03801	Ufo-Race (World) (Erwin's Collection).hex	arduboy-nointro
+5689cf13e1aa71276ce19cf23d18c7ef	Umeroose (World) (Erwin's Collection).hex	arduboy-nointro
+b392b3941763a25d8fb23f07635c6d5b	Under the Tower (World) (Erwin's Collection).hex	arduboy-nointro
+0fbb2ad38d346a5ac48f8b6469fd9acf	Unicorn Dash (World) (Erwin's Collection).hex	arduboy-nointro
+78ce4530a9f1b9e95bf1995e04ecaeec	Virtual Gamepad (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+118999bca60104634514675c9668bd2c	Virus LQP-79 (World) (2016-06-07).hex	arduboy-nointro
+3c8155e377ae9a5346cbed9b8c005bf1	Virus LQP-79 (World) (2020-06-08).hex	arduboy-nointro
+19c576fd7d1f35ba2c717880b22301ff	Virus LQP-79 (World) (2021-06-21) (No QR Code).hex	arduboy-nointro
+179ed60bef379dd4cb7f8f33758860e3	VT220 Serial Terminal Emulator (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+ddcb0f15c5e40fbd6fd8b41c7511f40f	Waternet (World) (Erwin's Collection).hex	arduboy-nointro
+a368811b991c89a0256bab24b0581023	WHG (World) (Erwin's Collection).hex	arduboy-nointro
+64bd758c827c1965b8d13ee99de9617f	Wire Screensaver (World) (Program) (Erwin's Collection).hex	arduboy-nointro
+3056674a55c13e63ad845e6da6f73c67	Yatzy (World) (Erwin's Collection).hex	arduboy-nointro
+bdf32fabba119c86bd1c1184b33f0ab5	Yatzy (World) (v1.3).hex	arduboy-nointro
+e4277e3b076b30745b506b0fa72f1a4d	You Won't Survive (World) (Erwin's Collection).hex	arduboy-nointro
+e32b82fa26c4421f2e76714612f49f83	YUM YUM (World) (No QR Code).hex	arduboy-nointro
+2df58289f4aabfb000c9fd1717e8a9b5	YUM YUM (World).hex	arduboy-nointro
+53b767e1c576d96b7b6e93f725a3790a	Zoo (World) (Erwin's Collection).hex	arduboy-nointro
+c8459bc68c1a7bb1886ea092bf107cf3	Zoo at Midnight (World) (Erwin's Collection).hex	arduboy-nointro
+1d9d24019d71a768f3a95c24e676c8c3	ZooEscape (World) (Erwin's Collection).hex	arduboy-nointro

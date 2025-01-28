@@ -1,0 +1,6 @@
+8565629a7da37f62126d36c905a423a3	1941 - Counter Attack no SGX (Hack) [h1].sgx	sgx-dominater01-hacks
+eb42e608fe244fe7f72a61003f0add0d	1941 - Counter Attack no SGX (Hack)[a1][h1].sgx	sgx-dominater01-hacks
+f9fe2700a848edf5d3ab0e8f07340a78	Battle Ace Cheat Menu - Select+Run at Title (Hack) v1 Chris Covell.sgx	sgx-dominater01-hacks
+a457873d34483337318b53cc392e3a42	Darius Plus (J) (SGX) [h1].sgx	sgx-dominater01-hacks
+a529bf727ee85744f61947f135880cbe	Ghouls 'n Ghosts Debug Menu (Hack) v1 Chris Covell.sgx	sgx-dominater01-hacks
+5f435c41474aaf8e46be569b3b6b45be	R-Type - Unfinished SuperGrafx Conversion (Hack) v1 Chris Covell.sgx	sgx-dominater01-hacks

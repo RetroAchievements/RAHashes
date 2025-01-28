@@ -1,0 +1,925 @@
+a26656637081a134694be7372a3556e0	320btest by Schmutzpuppe (PD).a78	a78-opengood
+4332c24e4f3bc72e7fe1b77adf66c2b7	3D Asteroids (1987) (Atari) (Prototype-NTSC).a78	a78-opengood
+a0285769753b18c407cb6e818b7dcad2	3D Asteroids (1987) (Atari) (Prototype).a78	a78-opengood
+3a1ecd0ab61864e9542451c628715ecd	7800 Birthday by Mark Ball (V1.13).a78	a78-opengood
+527d437973e7de1d04a4c0b3b80354cf	7800 Birthday by Mark Ball (V1.14).a78	a78-opengood
+a4b6764db6612a9915e033cea95ac32e	7800 Birthday by Mark Ball (V1.15).a78	a78-opengood
+98b24bb421575a533b660714cdd3115a	7800 DEV OS BIOS (PD).a78	a78-opengood
+d3952ca426a099f6dc344d605c9a522a	7800 Kern Demo by Christopher Tumber (2004).a78	a78-opengood
+e0e98af3218a4f79a1cb54f4c93a01d6	7800 Sprite Sample by Dan Boris (PD).a78	a78-opengood
+ff97231fc5a9d33ab37bee1f8b7e6ad2	78scroll (PD).a78	a78-opengood
+aadde920b3aaba03bc10b40bd0619c94	Ace of Aces (1988) (Atari) (PAL).a78	a78-opengood
+0be996d25144966d5541c9eb4919b289	Ace of Aces (1988) (Atari).a78	a78-opengood
+031e3a599c2d67a7c9110c4f41af7734	Adapter by RSS Bot (V20111004) (PD).a78	a78-opengood
+940b0f06db8ed7f464d1dd65f551c6f8	Adapter by RSS Bot (V20111008) (PD).a78	a78-opengood
+74b9c68d65184760da520ce859289388	Adapter by RSS Bot (V20111009) (PD).a78	a78-opengood
+69167cda674aa1d7660d0c89d5fd0fdb	Aim Demo Source (V20150731) (PD).a78	a78-opengood
+beaaf86db79d08607402309f58d42e65	Alien Brigade (1990) (Atari) (PAL) [f1] (CC2).a78	a78-opengood
+de3e9496cb7341f865f27e5a72c7f2f5	Alien Brigade (1990) (Atari) (PAL).a78	a78-opengood
+877dcc97a775ed55081864b2dbf5f1e2	Alien Brigade (1990) (Atari) [!].a78	a78-opengood
+53baac3770e375d127a9349735a67424	Alien Brigade (1990) (Atari) [b1].a78	a78-opengood
+2c563f4eb004a29d0458e826b824c748	Alien Brigade (1990) (Atari) [f1] (CC2).a78	a78-opengood
+7d880f104168fba296811856c4f8e074	Alpha Race for Atari 7800 (V20150911) (PD).a78	a78-opengood
+10ff87ebfeec99858cc80293b0c1686e	Alpha Race for Atari 7800 (V20150920) (PD).a78	a78-opengood
+7dda1cb603b1902c8aa9f46485dfcfae	Animation (V20091113) (PD).a78	a78-opengood
+c3f97a490b8d4721da006893c415ad44	Apple Snaffle by Mark Ball (V1.21_2009100907).a78	a78-opengood
+aa5b1df4a5eedb45bb566eeddff92530	Apple Snaffle by Mark Ball (V1.23_2009160907).a78	a78-opengood
+404f95103b70975a42cb09946dc3adca	Apple Snaffle by Mark Ball (V1.24_2009180907).a78	a78-opengood
+67ee0011090a6ada38f3eef8a3020fb4	Apple Snaffle by Mark Ball (V1.25_2009180907).a78	a78-opengood
+544c02269eb121afcf1f62dda8c63e68	Apple Snaffle by Mark Ball (V1.26_2009200907).a78	a78-opengood
+bf54aa314c0d33ad3266029edad01b33	Apple Snaffle by Mark Ball (V1.27_20090723).a78	a78-opengood
+510ea66b6375a848a21db019b36078dd	Apple Snaffle by Mark Ball (V1.30_20090723).a78	a78-opengood
+4f6fef6a9157dcf1c7a772549653e11e	Arkanoid by John K. Harvey (V20091201).a78	a78-opengood
+ec06863b70dde52f2337e4d15c4fb143	Arkanoid by John K. Harvey (V20091203).a78	a78-opengood
+b9785f792c0953adb428f1d2920cd987	Arkanoid by John K. Harvey (V20091204).a78	a78-opengood
+ed48782c1bba9b95119e9481c4835a3e	Arkanoid by John K. Harvey (V20091205_fun).a78	a78-opengood
+488824600b6caed78fcc9469ecbe60b4	Arkanoid by John K. Harvey (V20091205_test).a78	a78-opengood
+61ac7f113f8e556cc8e624feed2f17e7	Arkanoid by John K. Harvey (V20091206).a78	a78-opengood
+a3e882a7bfa8bd1f4fc9285234bff23f	Arkanoid by John K. Harvey (V20091207).a78	a78-opengood
+78462411c771e06f731612f2ec52d78a	Arkanoid by John K. Harvey (V20091207b).a78	a78-opengood
+5ecfd225b0e26064df28ad54eb6cbee5	Arkanoid by John K. Harvey (V20091208).a78	a78-opengood
+9f40f58b8601d54b90860aa7c1d89b92	Arkanoid by John K. Harvey (V20091210).a78	a78-opengood
+c362baebb2ebe089515adbea8af291c8	Arkanoid by John K. Harvey (V20091211).a78	a78-opengood
+3307e3edad26f173a9069897766160c6	Arkanoid by John K. Harvey (V20091215).a78	a78-opengood
+3fbff3a26ed4c07a5d1a28c723089f0e	Arkanoid by John K. Harvey (V20091216).a78	a78-opengood
+f926a65e9e467b365bdd89301ec7962c	Arkanoid by John K. Harvey (V20100101).a78	a78-opengood
+f2709aff4e8b478c8bc784bd57e4b640	Arkanoid by John K. Harvey (V20110826).a78	a78-opengood
+0a9e58ef5eb9ff93246e0fff684dc7f1	Arkanoid by John K. Harvey (V20110911).a78	a78-opengood
+c951103a94473bb97c0b27b476be91f8	Armor Attack II by Blue Azure (V20130407_NTSC) (Armor Attack II Hack) [t1] (99 Lives).a78	a78-opengood
+4904d64833ab4a8bcc7fc09fe8d88e9d	Armor Attack II by Bob DeCrescenzo (V20130402_NTSC).a78	a78-opengood
+497eeca859553717fc7f87eb6cdec650	Armor Attack II by Bob DeCrescenzo (V20130402_PAL).a78	a78-opengood
+5fbe40b99753e024ba01baba5ff5356e	Armor Attack II by Bob DeCrescenzo (V20130403).a78	a78-opengood
+dc031a28f3809d379b3e8f2fb2c2da82	Armor Attack II by Bob DeCrescenzo (V20130404_RC1).a78	a78-opengood
+bb6cb856376741f3d446bfbd9546c19d	Armor Attack II by Bob DeCrescenzo (V20130404).a78	a78-opengood
+0f559827ab213b32dd4bd480f57217a6	Armor Attack II by Bob DeCrescenzo (V20130405_RC2).a78	a78-opengood
+fe56b9d92ddc7d649cec4cbe19c935f1	Armor Attack II by Bob DeCrescenzo (V20130405).a78	a78-opengood
+f97f1416c0fc27133c6465a0976de07c	Armor Attack II by Bob DeCrescenzo (V20130406_newer)007.a78	a78-opengood
+ef8b4040d2617d2c9227826a8a4c6c6e	Armor Attack II by Bob DeCrescenzo (V20130406_RC3).a78	a78-opengood
+759b9e1d14e7eb29337f1d1c159e6a37	Armor Attack II by Bob DeCrescenzo (V20130407_RC4).a78	a78-opengood
+b447f256a532466a70cf203b74dd8c69	Armor Attack II by Bob DeCrescenzo (V20130408).a78	a78-opengood
+2eb5ff486bbc6e93323b7cc94b4785f8	Armor Attack II by Bob DeCrescenzo (V20130410_RC5).a78	a78-opengood
+def4c7cc9e9850e1756e23225744eda6	Armor Attack II by Bob DeCrescenzo (V20130411_RC6).a78	a78-opengood
+7889c400649cf492b03e2d9099e942f5	Armor Attack II by Bob DeCrescenzo (V20130412_RC7_Fixed).a78	a78-opengood
+4db26e43099e4144a6b0d1cae36a9253	Armor Attack II by Bob DeCrescenzo (V20130412_RC7).a78	a78-opengood
+e23118789b48b0f3493ac17caf76ad94	Armor Attack II by Bob DeCrescenzo (V20130413_Final).a78	a78-opengood
+89b8b3df46733e0c4d57aeb9bb245e6f	Armor Attack II by Bob DeCrescenzo (V20130416_Final).a78	a78-opengood
+6b04178535cb929849911a6d9f9f2ca1	Asteroids - VE (Vector Edition) by Bob DeCrescenzo (V20050723) (PD).a78	a78-opengood
+ff8d8283553af5d5dbdaddb5781b4896	Asteroids - VE (Vector Edition) by Bob DeCrescenzo (V20050724) (PD).a78	a78-opengood
+db0b71fdd48ce1ea7151aea36cbad830	Asteroids (1987) (Atari) (Prototype).a78	a78-opengood
+07342c78619ba6ffcc61c10e907e3b50	Asteroids (1987) (Atari).a78	a78-opengood
+93342a758dd05d9a19674f070787f403	Asteroids Deluxe by Bob DeCrescenzo (V_RC2).a78	a78-opengood
+8b37717b064c743206745670cf39bbd6	Asteroids Deluxe by Bob DeCrescenzo (V20070627).a78	a78-opengood
+7fa5cbf0061b9dca8e9b31dcd406c79b	Asteroids Deluxe by Bob DeCrescenzo (V20070629).a78	a78-opengood
+10dbe9dc6f7d4ddc810588202fca0832	Asteroids Deluxe by Bob DeCrescenzo (V20070701).a78	a78-opengood
+3fc0aac12ed376be95569215ed4d698b	Asteroids Deluxe by Bob DeCrescenzo (V20070705).a78	a78-opengood
+8c63dab8afd698ada1adc90800e02417	Asteroids Deluxe by Bob DeCrescenzo (V20070707).a78	a78-opengood
+c72fb30842acaecb6c5acbce43531e90	Asteroids Deluxe by Bob DeCrescenzo (V20070828).a78	a78-opengood
+b67e48c24de00d2d565b2701ba96d47f	Asteroids Deluxe by Bob DeCrescenzo (V20070828older).a78	a78-opengood
+cea2b9d970d31bd08741fa5937350bd0	Asteroids Deluxe by Bob DeCrescenzo (V20070913).a78	a78-opengood
+f9fb84658c5586df159a0c75cc46b54c	Asteroids Deluxe by Bob DeCrescenzo (V2007xxxx) [a1].a78	a78-opengood
+720c3a8812ff3735481ad555a661060b	Asteroids Deluxe by Bob DeCrescenzo (V2007xxxx) [a2].a78	a78-opengood
+85e6b4ae87e2d387e407abdcd84ef5bb	Asteroids Deluxe by Bob DeCrescenzo (V2007xxxx).a78	a78-opengood
+a65f79ad4a0bbdecd59d5f7eb3623fd7	Asteroids Deluxe by Bob DeCrescenzo (V2007xxxxNTSC).a78	a78-opengood
+1baf41de200f26ec643625021290bec2	Asteroids Deluxe by Bob DeCrescenzo (V2007xxxxPAL).a78	a78-opengood
+6322548db8292fdebc7fc66591d99a83	Asteroids Deluxe by Bob DeCrescenzo (VUnknown).a78	a78-opengood
+b121f4b09e588925a24639349e420466	Atarexp by The Usotsuki (PD).a78	a78-opengood
+fd3c8ad29e1ab86c53d7a5cf95b328c8	Atlas 7800 by Simone Serra (V20111016).a78	a78-opengood
+a6c02ae92d6937cb885f6909c0a8a2e1	Atlas 7800 by Simone Serra (V20111023).a78	a78-opengood
+639b269f642010f5d3143ef029d5bda8	Baby Pac-Man by Justin De Lucia (V0.01) (Ms. Pac-Man Hack).a78	a78-opengood
+cc496a6d5ab258c1e13400316265edf8	Baby Pac-Man by Justin De Lucia (V0.02) (Ms. Pac-Man Hack) [t1] (Fast,Invincible).a78	a78-opengood
+0ce0f02f95a9663d68a43f62605fd0b2	Baby Pac-Man by Justin De Lucia (V0.02) (Ms. Pac-Man Hack) [t2] (Invincible).a78	a78-opengood
+669eef9a962c24c7add535da5b880d76	Baby Pac-Man by Justin De Lucia (V0.02) (Ms. Pac-Man Hack).a78	a78-opengood
+76dbff6078797ed3cbba2df7796a853f	Baby Pac-Man by Justin De Lucia (Vx.xx) (Ms. Pac-Man Hack) [a1].a78	a78-opengood
+22d3a9b8217efb6618ce47cdab344758	Baby Pac-Man by Justin De Lucia (Vx.xx) (Ms. Pac-Man Hack) [a2].a78	a78-opengood
+0d7394c706f0b7d03ef95f4be27103e2	Baby Pac-Man by Justin De Lucia (Vx.xx) (Ms. Pac-Man Hack).a78	a78-opengood
+b558814d54904ce0582e2f6a801d03af	Ballblazer (1987) (Atari-Lucasfilm) (PAL).a78	a78-opengood
+8fc3a695eaea3984912d98ed4a543376	Ballblazer (1987) (Atari-Lucasfilm).a78	a78-opengood
+babe2bc2976688bafb8b23c192658126	Barnyard Blaster (1988) (Atari) (PAL) [!].a78	a78-opengood
+42682415906c21c6af80e4198403ffda	Barnyard Blaster (1988) (Atari) [!].a78	a78-opengood
+fba002089fcfa176454ab507e0eb76cb	Basketbrawl (1990) (Atari) (PAL).a78	a78-opengood
+f5f6b69c5eb4b55fc163158d1a6b423e	Basketbrawl (1990) (Atari).a78	a78-opengood
+9cb3848416e39ebf642357dbee3e5970	Beebx (Tempest) by Mark Ball (V1.00).a78	a78-opengood
+6932be8ce8f459720cd82cd40d2591db	Beebx (Tempest) by Mark Ball (V1.02).a78	a78-opengood
+c4421b9cbe0b92cda42b8de5e4bedf84	Beebx (Tempest) by Mark Ball (V1.03).a78	a78-opengood
+cb7d2041309a32d9104047b56bebd7e3	Beebx (Tempest) by Mark Ball (V1.04).a78	a78-opengood
+b2d7e94a27995321181905f011e485e4	Beef Drop 7800 by Ken Siders (V20041019-Rev01).a78	a78-opengood
+94c0348e6eac990d3787035397784b17	Beef Drop 7800 by Ken Siders (V20041019-Rev02).a78	a78-opengood
+f74a1e316ee2da73f1911f0a43003fa6	Beef Drop 7800 by Ken Siders (V20041020-Rev03).a78	a78-opengood
+a4607455d895cab694a2d437fd1fb22e	Beef Drop 7800 by Ken Siders (V20041022-Rev04).a78	a78-opengood
+e964777278b5b1669fd0db8cfa673407	Beef Drop 7800 by Ken Siders (V20041026-Rev05) [a1].a78	a78-opengood
+f81f6d2990b7b398fa7e6f8c339e370c	Beef Drop 7800 by Ken Siders (V20041026-Rev05).a78	a78-opengood
+03b869a3b8358c4209a590eae960423f	Beef Drop 7800 by Ken Siders (V20041028-Rev06).a78	a78-opengood
+ede19d49cec2eda986e496702805dca5	Beef Drop 7800 by Ken Siders (V20041029-Rev07).a78	a78-opengood
+3e63be18e480fa63fce5e4c823286e53	Beef Drop 7800 by Ken Siders (V20041030-Rev08_CC2).a78	a78-opengood
+e2f9583e123a07091ed9fce48d7fbbc0	Beef Drop 7800 by Ken Siders (V20041103-Rev09).a78	a78-opengood
+48e2685fb0ef7975e215b25f35c5670e	Beef Drop 7800 by Ken Siders (V20041104-Rev10).a78	a78-opengood
+81c9c2bdc662042f40d3db034324e4b2	Beef Drop 7800 by Ken Siders (V20041105-Rev11).a78	a78-opengood
+d8fe0a59828fd368b26df2006f22f08c	Beef Drop 7800 by Ken Siders (V20041105-Rev12).a78	a78-opengood
+57c0fc622e51879844a3ab4f9942aee9	Beef Drop 7800 by Ken Siders (V20041106-Rev13).a78	a78-opengood
+ce25d34071b2c798ace4c8792eae8e84	Beef Drop 7800 by Ken Siders (V20041109-Rev14).a78	a78-opengood
+c3b1ec2a782e70060089dc430128dd49	Beef Drop 7800 by Ken Siders (V20041110-Rev15).a78	a78-opengood
+129b688439ec3e35d4ed25863fc423e6	Beef Drop 7800 by Ken Siders (V20041111-Rev16).a78	a78-opengood
+67d1b36bff353776c2b693503ed897ae	Beef Drop 7800 by Ken Siders (V20041116-Rev17).a78	a78-opengood
+a3255ac0c86a00d0897a8fcd351d394c	Beef Drop 7800 by Ken Siders (V20041117-Rev18).a78	a78-opengood
+8b86085a4bbbe1a2c1d4a8d78d8e9033	Beef Drop 7800 by Ken Siders (V20041119-Rev19).a78	a78-opengood
+6431300b5bf701191ede7cd85d322b54	Beef Drop 7800 by Ken Siders (V20041119-Rev20).a78	a78-opengood
+22eb1b5fac6f8dd475428aa9a08072fe	Beef Drop 7800 by Ken Siders (V20041123-Rev21).a78	a78-opengood
+b938c56bf3085241931a9bef509aebef	Beef Drop 7800 by Ken Siders (V20041130-Rev22).a78	a78-opengood
+717696d6d104c71d310d05fc616813fb	Beef Drop 7800 by Ken Siders (V20041204-Rev23).a78	a78-opengood
+3a2b79a5dfd90062166ca6801b70e230	Beef Drop 7800 by Ken Siders (V20041205-Rev24).a78	a78-opengood
+6c94e8373bedba3bb945ca39aa903158	Beef Drop 7800 by Ken Siders (V20041207-Rev25).a78	a78-opengood
+8943c51c8d909367008fb968376b00b2	Beef Drop 7800 by Ken Siders (V20041207-Rev26).a78	a78-opengood
+0e2cb97a5d511f4737c95e4a19f1ccc7	Beef Drop 7800 by Ken Siders (V20041209-Rev27).a78	a78-opengood
+4691f365fd39de9020326d58d68cb8db	Beef Drop 7800 by Ken Siders (V20041210-Rev28).a78	a78-opengood
+46d370e69de532386fcddd0ac1d3c3ff	Beef Drop 7800 by Ken Siders (V20041222-Rev29).a78	a78-opengood
+c6ffc12a03a66998090f35e5d05f001f	Beef Drop 7800 by Ken Siders (V20050101-Revxx_Nopo).a78	a78-opengood
+0f4c1037c39d9fe178d30452c6581b16	Beef Drop 7800 by Ken Siders (V20050103-Rev30).a78	a78-opengood
+1e71c6e427d52e4c7c2c259093e1713c	Beef Drop 7800 by Ken Siders (V20050105-Rev31).a78	a78-opengood
+789fdf27af3e6259e86235ba8eb2196e	Beef Drop 7800 by Ken Siders (V20050105-Rev32).a78	a78-opengood
+cee32d5c92f0aac388404841f19bb6bd	Beef Drop 7800 by Ken Siders (V20050108-Rev33_POKEY OFF).a78	a78-opengood
+fa67c73038dcfc69c24f337bc654012d	Beef Drop 7800 by Ken Siders (V20050108-Rev33_POKEY ON).a78	a78-opengood
+d2f44e8a4336556f020c4783f4f8e38d	Beef Drop 7800 by Ken Siders (V20050108-Rev33).a78	a78-opengood
+e94de14b515e7e6fcca651dc1a21c684	Beef Drop 7800 by Ken Siders (V20050108-Rev34_POKEY OFF).a78	a78-opengood
+fd05fe6b0b711598a3d9f8868761919c	Beef Drop 7800 by Ken Siders (V20050108-Rev34_POKEY ON).a78	a78-opengood
+667ffe80789fe19b138ed01a612a36d1	Beef Drop 7800 by Ken Siders (V20050108-Rev34).a78	a78-opengood
+6c40ebfd662a7c3af2140118cbb71c42	Beef Drop 7800 by Ken Siders (V20050110-Rev35_POKEY ON).a78	a78-opengood
+7b011ff22546d5c8408f70269b1388f2	Beef Drop 7800 by Ken Siders (V20050110-Rev35).a78	a78-opengood
+cdbf53c897aec3319ee1d0ca14a87f58	Beef Drop 7800 by Ken Siders (V20050223-Rev36).a78	a78-opengood
+60248b3e6c0ee147bd8470ebc8857e21	Beef Drop 7800 by Ken Siders (V20050223-Rev37).a78	a78-opengood
+6dd95e58639f8d4d3772b73acbe48ea9	Beef Drop 7800 by Ken Siders (V20050224-Rev38).a78	a78-opengood
+fc8f1912f5899564e65641f58402a692	Beef Drop 7800 by Ken Siders (V20050225-Rev39).a78	a78-opengood
+74341b450b0fc7e07ecd908b0bc1ca5e	Beef Drop 7800 by Ken Siders (V20050308-Rev40).a78	a78-opengood
+80cb75dae53070578e34c5a78b31088f	Beef Drop 7800 by Ken Siders (V20060629_new 2).a78	a78-opengood
+a3f9a7a06a635068274caf806c875100	Beef Drop 7800 by Ken Siders (V20060703).a78	a78-opengood
+8a6b1ff04a24affd2ed55b19e4432f17	Beef Drop 7800 by Ken Siders (V20060704).a78	a78-opengood
+7adbd2cec2e2cbc1e0ad237778ee46b9	Beef Drop 7800 by Ken Siders (V20060718_final_version).a78	a78-opengood
+cbcb3a5a437083cf51d1fa693ba090df	Beef Drop 7800 by Ken Siders (V20061015).a78	a78-opengood
+85adf46589ca2731c17b2301453cf5c3	Beef Drop 7800 Demo by Ken Siders (V20060108) [a1].a78	a78-opengood
+6010a398070dfacb4c0173d75d73c50a	Beef Drop 7800 Demo by Ken Siders (V20060108).a78	a78-opengood
+8b14d7eb7158505b3f9da25a3c5f423e	Beef Drop 7800 Demo by Ken Siders (V20060629).a78	a78-opengood
+d5458820f609874f7c03bde9e4e8b3f8	Beef Drop 7800 Demo by Ken Siders (V20060701_new1).a78	a78-opengood
+81738a565cf85b56f6f32c715ce81a19	Beef Drop 7800 Demo by Ken Siders (V20060701_new2).a78	a78-opengood
+3ce43f417143df612e5b281d89286bba	Beef Drop 7800 Demo by Ken Siders (V20060702).a78	a78-opengood
+a0fc7b03d26bcd8f983bc02bb7af3fd2	Beef Drop 7800 Demo by Ken Siders (V20060704_new1).a78	a78-opengood
+aeb9c9a3f30424cd50c8245616edf271	Beef Drop 7800 Demo by Ken Siders (V20060704_new2).a78	a78-opengood
+bf5411d2c4fba91d3da97d5863fb12ed	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V2002xxxx) (Original View).a78	a78-opengood
+ba8d0d0be821b29a0ca9a6fa031a970d	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120626_PAL).a78	a78-opengood
+4d0b5bf95e4cb366990dbaeecb7f706d	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120626).a78	a78-opengood
+06a56ee5f718f84038ef683e06ffdad5	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120708_PAL).a78	a78-opengood
+5835ff110e6de6edb4a844892fac4d94	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120708).a78	a78-opengood
+8c58509d64aa03c13e33d181dabc9dcb	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120714_PAL).a78	a78-opengood
+4ebcf9827e06c66ac2776a1120775f07	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120714).a78	a78-opengood
+d8ce2d0ed3eb124829020f095334246d	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120922_PAL).a78	a78-opengood
+c5f0cea3ff98aa4bd1539bab14d30e00	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120922).a78	a78-opengood
+589385a699f3b2c420420612efd9541c	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120929_PAL).a78	a78-opengood
+6da5b1b9fa0001e3517f6084ff651b07	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20120929).a78	a78-opengood
+c66711be1ab13c88f925ca7804ddc108	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130105_PAL).a78	a78-opengood
+c417a12cc037be9d7906f1cb0866d44b	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130105).a78	a78-opengood
+0b355d4eaa56c45dbd20ace289473e4e	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130113_PAL).a78	a78-opengood
+f659756fd1299b87aa72781af01fbbc8	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130113).a78	a78-opengood
+9dbaa233403fcae4f0591bc11ce96ff2	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130120_PAL).a78	a78-opengood
+fc9b97dfaf7068b2300e8e03d1cf7c91	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130120).a78	a78-opengood
+5cb23e862d084a5dfad4eb91a7bbd63d	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130123_PAL).a78	a78-opengood
+79e77ed746ef922863e4fca8ed536eb4	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130123).a78	a78-opengood
+41d317fd725a16b5629e79c8a25e8ec4	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130131_PAL).a78	a78-opengood
+7e96788bdd55be7430cb5b80424efb2c	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130131).a78	a78-opengood
+46da950f1db0afbf5c4c59d536085565	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130201_PAL).a78	a78-opengood
+8369f0f280a4451930f47156d40da88a	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130201).a78	a78-opengood
+e80ffd29a2185a166c91fa7e2499d474	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130205).a78	a78-opengood
+cf9c3b426990b9fb82d63fb3295e4cb9	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130624RC1_PAL).a78	a78-opengood
+31ddde5e60648431b9578f980cced99c	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130624RC1).a78	a78-opengood
+31ddde5e60648431b9578f980cced99c	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130626_MESS).a78	a78-opengood
+36b378b69f06ec66d2c229d4010718eb	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130701RC2_PAL).a78	a78-opengood
+a937a6917f77b540148d564b062d2e6c	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130701RC2).a78	a78-opengood
+3b934a9d32ae2b6c69bb606a370e1332	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130713RC3_PAL).a78	a78-opengood
+3c53ec9995282dbd096fdbaf639aaa75	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130713RC3).a78	a78-opengood
+ca61145c1a0a2fcdaeb3ca61577901cd	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130714_PAL).a78	a78-opengood
+d565f519c02e8b409281bcbbc9821e70	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130714RC4).a78	a78-opengood
+3a7aa3d6b52a7a667308fc92c99f9053	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130718RC5_PAL).a78	a78-opengood
+ab115b40a9c38b1df9b9f13e98d76d2c	Bentley Bear - Crystal Quest by Bob DeCrescenzo (V20130718RC5).a78	a78-opengood
+df3f33f833b974489555769d69497c01	Bentley Bear by Bob DeCrescenzo (V20130205_PAL).a78	a78-opengood
+5bb4f9b5f5e3d9350fdf96d925f84ddb	Bero Test B&W (2005) (PD).a78	a78-opengood
+c1f363fcfd1fea392d4a18ad0e0d2beb	Bero Test Color (2005) (PD).a78	a78-opengood
+53bf74882483e97b2b2395cdcf847901	Bleach Pac-Man (Hack).a78	a78-opengood
+73f1f133d7a4cae3493d2e4dcbbcb527	Blocdrop by Ken Siders (V20121126)(PD).a78	a78-opengood
+68feaab8388b9ecc7bf4587f7807690c	Blocdrop by Ken Siders (V20130306) (PD).a78	a78-opengood
+fb805af5b8ee40203df122e21dd94018	Blocdrop by Ken Siders (V20130310) (PD).a78	a78-opengood
+9c14eb65ef7b37f8d089679dd7c5799b	bonQ by Ken Siders (V20060722).a78	a78-opengood
+c73f32ac37380b6f010fbaa5c0bc81f8	bonQ by Ken Siders (V20060812).a78	a78-opengood
+85917ec72956b867db58b6cf86048743	bonQ by Ken Siders (V20060813).a78	a78-opengood
+18d01628b0004b7887f0a404207e0083	bonQ by Ken Siders (V20060815).a78	a78-opengood
+8d623facc3ed6e19ad33c50997bdd2b3	bonQ by Ken Siders (V20060818).a78	a78-opengood
+7c39b05bfc4980ac62f05bd3531222ed	bonQ by Ken Siders (V20060826).a78	a78-opengood
+64453a238f4d82d857e64157411e1a41	bonQ by Ken Siders (V20061031).a78	a78-opengood
+46251c6c331c7a09a75eba555a7b22a9	bonQ by Ken Siders (V20070521).a78	a78-opengood
+4307a86b0d23d171c3b40bcdbe7638fd	bonQ by Ken Siders (V20070616).a78	a78-opengood
+4e325918a8b3bbcf2f9405040abcfc6d	bonQ by Ken Siders (V200xxxxx).a78	a78-opengood
+ce6fbdc7b037a4efdaf87267f5f292cc	bonQ Demo by Ken Siders (V20080205).a78	a78-opengood
+56cd3b40ceb8f82e45c8fb60ccb40256	Bouncing Balls Demo 2 by Eric Ball (2007) (PD).a78	a78-opengood
+8e5ab6bdf61cec92ef0f158dfb15cf10	Bouncing Balls Demo by Eric Ball (2004) (PD) [a1].a78	a78-opengood
+16d1e89df49a991f7a25f218d6130860	Bouncing Balls Demo by Eric Ball (2004) (PD).a78	a78-opengood
+5d135e28852f0dec87c3bd64f73e144c	Breaker (V20111019).a78	a78-opengood
+b1ad8e237f3b836939b743e1990a6633	Castlevania Demo (PD).a78	a78-opengood
+38c056a48472d9a9e16ebda5ed91dae7	Centipede (1987) (Atari) (PAL).a78	a78-opengood
+5a09946e57dbe30408a8f253a28d07db	Centipede (1987) (Atari).a78	a78-opengood
+cb9cce2be1639c627e6b8cfc47f28ad2	Centipede Plus by Blue Azure (Hack) [f1] (PAL).a78	a78-opengood
+40b12bbf1500c5a865f29e830852655e	Centipede Plus by Blue Azure (Hack) [t1] (Lives).a78	a78-opengood
+5057ff01cdcd70f42961f8cab63b63a3	Centipede Plus by Blue Azure (Hack) [t1][f1] (Trackball).a78	a78-opengood
+af1c8f89f0aef0d9e2e15901d6e0539a	Centipede PMI by Blue Azure (V20150927) (Hack) (PAL).a78	a78-opengood
+1e3618f11da5ee15924feac90dd1d0ac	Centipede PMI by Blue Azure (V20150927) (Hack) [f1] (Trackball).a78	a78-opengood
+be86cc76289b3c05311c5e9992e259a5	Centipede PMI by Blue Azure (V20150927) (Hack).a78	a78-opengood
+48d6ed5af719a652cfe675b1b81bd0b7	Choplifter - Edit (Hack) [a1].a78	a78-opengood
+c69b13e17088430e321c333fc2bea507	Choplifter - Edit (Hack) [a2].a78	a78-opengood
+2a123a5464ff4f0b69da8a30190a58c5	Choplifter - Edit (Hack).a78	a78-opengood
+8631cf894f7f7d6387bb15438ae62f7d	Choplifter - Editv2 (Hack).a78	a78-opengood
+8ad4309df01da98f2bce4ba1ee788682	Choplifter - Editv3 (Hack).a78	a78-opengood
+f23d805b7747ff7c0bfc6df173a2f0c7	Choplifter - HUD (Hack) [a1].a78	a78-opengood
+3aef974c5bbbb2c3912ff383a55a489d	Choplifter - HUD (Hack).a78	a78-opengood
+38730c70ce01a6f25fd5bbc1316a1d67	Choplifter - HUD Green (Hack).a78	a78-opengood
+5dbba803daf4ab8795a94195146e0f4a	Choplifter - HUD2 (Hack).a78	a78-opengood
+24ebc995f60c238ef72134aaf62a7cab	Choplifter - HUD3 (Hack).a78	a78-opengood
+1f5743dcdd1092d3089fc30dda4910a5	Choplifter - Wings (Hack).a78	a78-opengood
+59d4edb0230b5acc918b94f6bc94779f	Choplifter (1987) (Atari) (PAL).a78	a78-opengood
+93e4387864b014c155d7c17877990d1e	Choplifter (1987) (Atari).a78	a78-opengood
+114e215b8cfc8698bc0286a79e1cb9b2	Christ 2020 eCard Demo by Mark Ball (PD).a78	a78-opengood
+0314e77316342c5fde0cbb585907f523	Code1 Example (PD) [a1].a78	a78-opengood
+35ab3e0a4c483e736e3a15a841240234	Code1 Example (PD).a78	a78-opengood
+24d0c3133267c33f88ffbb2b01de0227	Color Grid by Eric Ball (PD) [a1].a78	a78-opengood
+7b58f7be78ed22e1090ab24b269b746e	Color Grid by Eric Ball (PD).a78	a78-opengood
+441ac404cdc7bcbd4d787f911df7bf0d	Color Selector Demo (2003) (PD).a78	a78-opengood
+8752380146246883535387d2c7745b62	Color01 (V20010804) (PD).a78	a78-opengood
+5dab213acc3c0a3ed47c36e65bd80bda	Colour Picker (V1.00_20100113) (PD).a78	a78-opengood
+2a4f20c216e77048449d26205b62c563	Commando (1988) (Atari) (Prototype 4-29-88).a78	a78-opengood
+55da6c6c3974d013f517e725aa60f48e	Commando (1989) (Atari) (PAL).a78	a78-opengood
+2e8e28f6ad8b9b9267d518d880c73ebb	Commando (1989) (Atari).a78	a78-opengood
+7cbe78fa06f47ba6516a67a4b003c9ee	Crack'ed (1988) (Atari) (PAL).a78	a78-opengood
+db691469128d9a4217ec7e315930b646	Crack'ed (1988) (Atari).a78	a78-opengood
+f60a41db3c0f849378afc094442d5d7b	Crazy Bricks by Bob DeCrescenzo (V20111029).a78	a78-opengood
+b9a2aba3b38cbd0fa294d9a4d7193943	Crazy Bricks by Bob DeCrescenzo (V20111029PAL_RC1).a78	a78-opengood
+bd306b56e0435f8b819e2dd6ca3d16bb	Crazy Bricks by Bob DeCrescenzo (V20111029PAL_RC2).a78	a78-opengood
+cee5352b76daef241ec82541a85a2d56	Crazy Bricks by Bob DeCrescenzo (V20111029PAL).a78	a78-opengood
+0ec2dc80d173280f7d952b0d21ba6ce5	Crazy Bricks by Bob DeCrescenzo (V20111029RC1).a78	a78-opengood
+45e1d527becc96d1715e810d1c07ac27	Crazy Bricks by Bob DeCrescenzo (V20111029RC2).a78	a78-opengood
+2828853adb7f24b7c5ebaa6d063d0395	Crazy Bricks by Bob DeCrescenzo (V20111029RC3).a78	a78-opengood
+b6fadef243b8860bc106552e1618cad1	Crazy Bricks by Bob DeCrescenzo (V20111030PAL_RC3).a78	a78-opengood
+dfc96d018e862a9cc71c618c62639e42	Crazy Bricks by Bob DeCrescenzo (V20111031PAL_RC4).a78	a78-opengood
+cd7e08016b48411b10733c62e1088d15	Crazy Bricks by Bob DeCrescenzo (V20111031RC4).a78	a78-opengood
+0c9b124355d5328697a3b9e0011353f2	Crazy Bricks by Bob DeCrescenzo (V20111111).a78	a78-opengood
+fc7db1a9243ce2140f716762b8352a5c	Crazy Bricks by Bob DeCrescenzo (V20111111PAL).a78	a78-opengood
+1ae0b27d47f19d59652168fad3966375	Crazy Otto by Bob DeCrescenzo (Hack) (PAL).a78	a78-opengood
+0f600b3219f5ad6ee27fe7a851dc6118	Crazy Otto by Bob DeCrescenzo (Hack) [a1].a78	a78-opengood
+2d2fe4da9f1bae102fa8ca2d8830a626	Crazy Otto by Bob DeCrescenzo (Hack).a78	a78-opengood
+4823082e1293e6eed4bbfc67e7215270	Crossbow (1988) (Atari) (PAL) [f1] (CC2).a78	a78-opengood
+63db371d67a98daec547b2abd5e7aa95	Crossbow (1988) (Atari) (PAL).a78	a78-opengood
+c1d3c5f2fabc4596c515c735cc7805a8	Crossbow (1988) (Atari) (Prototype 4-18-88).a78	a78-opengood
+1187f2f6520a8849f56a19900e37d17b	Crossbow (1988) (Atari) [f1] (CC2).a78	a78-opengood
+a94e4560b6ad053a1c24e096f1262ebf	Crossbow (1988) (Atari).a78	a78-opengood
+a2b8e2f159642c4b91de82e9a2928494	Dark Chambers (1988) (Atari) (PAL).a78	a78-opengood
+179b76ff729d4849b8f66a502398acae	Dark Chambers (1988) (Atari).a78	a78-opengood
+696326787655b262d27ec534d23370b3	Demox by Mark Ball (PD).a78	a78-opengood
+28ea2232475b2cb8b3463d03d1264c36	Desert Falcon (1987) (Atari) (PAL) [t1] (Invincible).a78	a78-opengood
+2d5d99b993a885b063f9f22ce5e6523d	Desert Falcon (1987) (Atari) (PAL).a78	a78-opengood
+727b6d447e21af42b3767f9c2cff6012	Desert Falcon (1987) (Atari) [a1][h1] (HSC).a78	a78-opengood
+9ea73fd07e43f61209876d33e6f6dc04	Desert Falcon (1987) (Atari) [h1] (HSC).a78	a78-opengood
+eb2343078325258a4d1043df90911635	Desert Falcon (1987) (Atari) [t1] (Invincible).a78	a78-opengood
+95ac811c7d27af0032ba090f28c107bd	Desert Falcon (1987) (Atari).a78	a78-opengood
+92e392255dbff3fee1dc69c3df3231c7	Diagnostic Cartridge ROM by John K Harvey (PD).a78	a78-opengood
+6bfc9970b1a78e53653b650d3a833145	Diagnostic Test Cartridge (1984) (Atari) (Prototype).a78	a78-opengood
+91041aadd1700a7a4076f4005f2c362f	Diagnostic Test Cartridge (1984) (Atari) [!].a78	a78-opengood
+408dca9fc40e2b5d805f403fa0509436	Dig Dug (1987) (Atari) (PAL).a78	a78-opengood
+731879ea82fc0ca245e39e036fe293e6	Dig Dug (1987) (Atari).a78	a78-opengood
+4d331bc26a3a64922415a54eab43a555	DllTemplate by Bob DeCrescenzo (PD).a78	a78-opengood
+8e96ef14ce9b5d84bcbc996b66d6d4c7	Donkey Kong (1988) (Atari) (PAL).a78	a78-opengood
+19f1ee292a23636bd57d408b62de79c7	Donkey Kong (1988) (Atari).a78	a78-opengood
+4dc5f88243250461bd61053b13777060	Donkey Kong Jr (1988) (Atari) (PAL).a78	a78-opengood
+5e332fbfc1e0fc74223d2e73271ce650	Donkey Kong Jr (1988) (Atari).a78	a78-opengood
+a86e5095361bd4e3fe011b212487e2c2	Donkey Kong with Pokey Sound by tep392 (Hack) [a1].a78	a78-opengood
+9099620f1e09c52e0b39b761bba0653c	Donkey Kong with Pokey Sound by tep392 (Hack) [a2].a78	a78-opengood
+4b5a5a3dfaf47ff75350d393a74cca1a	Donkey Kong with Pokey Sound by tep392 (Hack) [a3].a78	a78-opengood
+a54e6490bf8d3cd62a0731ced8e832af	Donkey Kong with Pokey Sound by tep392 (Hack) [a4].a78	a78-opengood
+2d22ee7ae9c524b6762bb3fa2d7c430a	Donkey Kong with Pokey Sound by tep392 (Hack) [a5].a78	a78-opengood
+30e740657bffb92c1aa3d49b3ab4681e	Donkey Kong with Pokey Sound by tep392 (Hack) [a6].a78	a78-opengood
+90ff472c6b44f8eb52c7c9cbbb466011	Donkey Kong with Pokey Sound by tep392 (Hack).a78	a78-opengood
+37331f2fb0ada119711bbcf17b46dc58	Donkey Kong XM Demo by tep392 (NTSC).a78	a78-opengood
+37331f2fb0ada119711bbcf17b46dc58	Donkey Kong XM Demo by tep392 (PAL).a78	a78-opengood
+6a95e4cb68773cc130a46542cb719b04	Donkey Kong XM Final Demo by tep392 (NTSC).a78	a78-opengood
+1e5eb29c3ccbfacd2eda8badeff30aac	Donkey Kong XM Final Demo by tep392 (PAL).a78	a78-opengood
+c3107d3e3e17d67e3a11d47a5946a4f3	Donkey Kong XM Final Demo HSC by tep392 (NTSC).a78	a78-opengood
+8caa29a8d9214ca02697b3357102309a	Donkey Kong XM Final Demo HSC by tep392 (PAL).a78	a78-opengood
+de2ebafcf0e37aaa9d0e9525a7f4dd62	Double Dragon (1989) (Activision) (PAL).a78	a78-opengood
+543484c00ba233736bcaba2da20eeea9	Double Dragon (1989) (Activision) [!].a78	a78-opengood
+125c2003b19196761aa89a47777db65b	Double Dragon (1989) (Activision) [b1].a78	a78-opengood
+9af3dc598299df6d3a3ad6a4e88580c0	Draker Quest Alpha Test5 (PD).a78	a78-opengood
+a4e368d7c7981257f97736486c08b3c0	Dual Pac-Man by Bob DeCrescenzo (V.1) (2005) (PD).a78	a78-opengood
+94dce1006ea48852b6a074ac77cdb1be	Dual Pac-Man by Bob DeCrescenzo (V.2) (2005) (PD).a78	a78-opengood
+fa4aec407b90e9360b9cfeb41839b09a	Dual Pac-Man by Bob DeCrescenzo (V.3) (2005) (PD).a78	a78-opengood
+8df353c0d26462c92c54163efcc2904c	Expensive Planetarium 7800 by Eric Ball (V20070308).a78	a78-opengood
+9916874aefac503ce5f526c5713bc2f8	Expensive Planetarium 7800 by Eric Ball (V20070309).a78	a78-opengood
+8b79fcb79beb47cad5f3be7cb9bba02c	Expensive Planetarium 7800 by Eric Ball (V20070315).a78	a78-opengood
+e7709da8e49d3767301947a0a0b9d2e6	F-18 Hornet (1988) (Absolute) (PAL).a78	a78-opengood
+2251a6a0f3aec84cc0aff66fc9fa91e8	F-18 Hornet (1988) (Absolute) [!].a78	a78-opengood
+1362ef78f92ff88c59af58ba26c2722e	F-18 Hornet (1988) (Absolute) [b1].a78	a78-opengood
+87fd4ce9e5af2f17cee327cb6f14ae6f	F-18 Hornet (1988) (Absolute) [b2].a78	a78-opengood
+121724cff4a3b3d8cdc44200eb4adb29	FailSafe by Bob DeCrescenzo (V20091129).a78	a78-opengood
+565ca47a14f5070bed66bdac5a720396	FailSafe by Bob DeCrescenzo (V20091202).a78	a78-opengood
+18f01225bb4176f2d9e5c58dba30c206	FailSafe by Bob DeCrescenzo (V20091206_NTSC).a78	a78-opengood
+b662f1adac36c693b854c633d96328c8	FailSafe by Bob DeCrescenzo (V20091206_PAL).a78	a78-opengood
+dbefd251e22ef29a16de84614ebddc3d	FailSafe by Bob DeCrescenzo (V20091207_RC1_NTSC).a78	a78-opengood
+f3997207f9653afe7522c6044e2d1443	FailSafe by Bob DeCrescenzo (V20091207_RC1_PAL).a78	a78-opengood
+8d2b4111dc0b1cd6336737fb90e41970	FailSafe by Bob DeCrescenzo (V20091209_RC2_NTSC).a78	a78-opengood
+e82be3827d60f5cdc424039bc6fded94	FailSafe by Bob DeCrescenzo (V20091209_RC2_PAL).a78	a78-opengood
+801fb0d0d7e82cd406d446cf17662389	FailSafe by Bob DeCrescenzo (V20091209_RC3_NTSC).a78	a78-opengood
+0c7d5c58d8a96f15c2338938c5f18b39	FailSafe by Bob DeCrescenzo (V20091209_RC3_PAL).a78	a78-opengood
+3a7f630457035a2ee71b666a7ce7db48	FailSafe by Bob DeCrescenzo (V20091212_RC4_NTSC).a78	a78-opengood
+db8d5468ef05d2c597f4f5d9cbfe73cc	FailSafe by Bob DeCrescenzo (V20091212_RC4_PAL).a78	a78-opengood
+be845ecd9b7a1089bcc66b9881a1876a	FailSafe by Bob DeCrescenzo (V20091212_RC5_NTSC).a78	a78-opengood
+afe7838121d66ec43394e79d1119e3bb	FailSafe by Bob DeCrescenzo (V20091212_RC5_PAL).a78	a78-opengood
+ccd89433481f86460b32d2c703620ba2	FailSafe by Bob DeCrescenzo (V20091221_RC6_NTSC).a78	a78-opengood
+d3c8039a4a0585188881c3a645147934	FailSafe by Bob DeCrescenzo (V20091221_RC6_PAL).a78	a78-opengood
+1f749a47f5d5b80ef2287b9052cdd38e	FailSafe by Bob DeCrescenzo (V20091226_RC7_NTSC).a78	a78-opengood
+0677787a90a23d015ae188baa91efdcb	FailSafe by Bob DeCrescenzo (V20091226_RC7_PAL).a78	a78-opengood
+82c813c233f5e2fb69504e24c8d3fce4	FailSafe by Bob DeCrescenzo (V20091226_RC8_NTSC).a78	a78-opengood
+79e8fd0008474329783478de4f6e2220	FailSafe by Bob DeCrescenzo (V20091226_RC8_PAL).a78	a78-opengood
+11a13cb6d16888b895171b631bf5db43	FailSafe by Bob DeCrescenzo (V20100106_RC10_NTSC).a78	a78-opengood
+c0c2826f6bee09742e925782bbd6854a	FailSafe by Bob DeCrescenzo (V20100106_RC10_PAL).a78	a78-opengood
+d2bb22f704f1610a4c396c51f5188e15	FailSafe by Bob DeCrescenzo (V20100110_RC11_NTSC).a78	a78-opengood
+fc0c8d5336e9445db75161384dcd671a	FailSafe by Bob DeCrescenzo (V20100110_RC11_PAL).a78	a78-opengood
+015068d6425319b0e999cfef393d469a	FailSafe by Bob DeCrescenzo (V20100110_RC9_NTSC).a78	a78-opengood
+d52ef9915780d5eca73f3d3d3cf779b5	FailSafe by Bob DeCrescenzo (V20100110_RC9_PAL).a78	a78-opengood
+f8e8932b0e350acd52f495669b59641a	FailSafe by Bob DeCrescenzo (V20100214_NTSC).a78	a78-opengood
+8b6944125f9682b6d5aa5432d73af9c7	FailSafe by Bob DeCrescenzo (V20100214_PAL).a78	a78-opengood
+ba921495d2dc64d54b1daff107bbb8da	FailSafe by Bob DeCrescenzo (V20100216_NTSC).a78	a78-opengood
+6206cb281b3f7c57dce8ec9f279d4405	FailSafe by Bob DeCrescenzo (V20100216_PAL).a78	a78-opengood
+64c46552207d9eaff8cfa3af2c21a4be	FailSafe by Bob DeCrescenzo (V20100226_NTSC).a78	a78-opengood
+afcbdb8c4fb6e43e62de74ab807c271e	FailSafe by Bob DeCrescenzo (V20100226_PAL).a78	a78-opengood
+2fd9812102d05ce2fd451fa4f688ad3c	FailSafe by Bob DeCrescenzo (VUnknown_NTSC).a78	a78-opengood
+d4ff83c31e262a006cec880541b30683	FailSafe by Bob DeCrescenzo (VUnknown_PAL).a78	a78-opengood
+0d34b6a8ad428bf95997cd03b95a7d0a	Falling Demo (V20020721) (PD).a78	a78-opengood
+23505651ac2e47f3637152066c3aa62f	Fatal Run (1990) (Atari) (PAL).a78	a78-opengood
+d25d5d19188e9f149977c49eb0367cd1	Fatal Run (1990) (Atari).a78	a78-opengood
+e80f24e953563e6b61556737d67d3836	Fight Night (1988) (Atari) (PAL).a78	a78-opengood
+07dbbfe612a0a28e283c01545e59f25e	Fight Night (1988) (Atari).a78	a78-opengood
+de0d4f5a9bf1c1bddee3ed2f7ec51209	Food Fight (1987) (Atari) (PAL).a78	a78-opengood
+e05041ad193e354f9fa37c18f3550b5a	Food Fight (1987) (Atari) (Prototype).a78	a78-opengood
+cf76b00244105b8e03cdc37677ec1073	Food Fight (1987) (Atari).a78	a78-opengood
+b10ff2a7e1579fbbf3bc393b243b5e13	Food Fight X (Hack).a78	a78-opengood
+f5127063b61e2deb28f264c2c8b52087	Food Fight X (V_PAL) (Hack).a78	a78-opengood
+c4f3edb91a232b5b7e912d53e8d42254	Frenzy by Bob DeCrescenzo (V20130810).a78	a78-opengood
+9086306c91e537d6c712472cebb1daa8	Frenzy by Bob DeCrescenzo (V20130818).a78	a78-opengood
+8bae07fdf394538dae63958dc8a012fd	Frenzy by Bob DeCrescenzo (V20130821).a78	a78-opengood
+69badb48e0e052660c4d84b4f68a97e7	Frenzy by Bob DeCrescenzo (V20130901).a78	a78-opengood
+c79399a2bfbd8fec2a20c005a0f7c99c	Frenzy by Bob DeCrescenzo (V20130904).a78	a78-opengood
+09353b8aaff551ca112e9ad10db1aa1f	Frenzy by Bob DeCrescenzo (V20130923RC1).a78	a78-opengood
+2b07c5e982de44600142663640df8937	Frenzy by Bob DeCrescenzo (V20130927RC2).a78	a78-opengood
+0b96e8fbd17c0959b837050ac373ade0	Frenzy by Bob DeCrescenzo (V20130927RC3).a78	a78-opengood
+6e987a53c79797d0c5e87ecce63e7800	Frenzy by Bob DeCrescenzo (V20130928RC4).a78	a78-opengood
+7bb069b289f0fa96b88855e0914cd430	Frenzy by Bob DeCrescenzo (V20130929RC5).a78	a78-opengood
+e7d89669a7f92ec2cc99d9663a28671c	Frenzy by Bob DeCrescenzo (V20131217final).a78	a78-opengood
+0c2870d1bade762bd99e834714eba8ef	Frenzy by Bob DeCrescenzo (V2013xxxx).a78	a78-opengood
+dc90623e85fa481724c05f32c92d056f	Frogger (V20030101_nosound).a78	a78-opengood
+abf4106c812c57fe10b155d11e0dd8e5	Frogger by Matthias Luedtke (V20050713) (PD).a78	a78-opengood
+eefe194655d2a0f8d45330e0f2d47876	Frogger by Matthias Luedtke (V20061002_TIA) (PD).a78	a78-opengood
+9ae31f9b6395a3d1f4c625c0abe588a2	Frogger by Matthias Luedtke (V20061126_POKEY) (PD).a78	a78-opengood
+dcfe0497a00ee2728bb576fc1d563eda	Frogger by Matthias Luedtke (V20070606) (PD).a78	a78-opengood
+23e76a62a9c3413f5c6592aa93ea0c27	Frogger Demo by Matthias Luedtke (V20050504) (PD).a78	a78-opengood
+cde6bf6551087fc2d954f69b91ddd1c3	Frogger Demo by Matthias Luedtke (V20050505) (PD).a78	a78-opengood
+45136d1d9eddf0bebad32995647b3298	Frogger Demo by Matthias Luedtke (V20050524) (PD).a78	a78-opengood
+697b0eb11b873a6c1e2601cf19216e97	Frogger Demo by Matthias Luedtke (V20050813) (PD).a78	a78-opengood
+0b05448498fd5bc18534745e0285b795	Frogger Demo by Matthias Luedtke (V20051003) (PD).a78	a78-opengood
+98abf0b2790648b9e9b69cc6625de703	Frogger Demo by Matthias Luedtke (V20051008) (PD) [a1].a78	a78-opengood
+dacd62e0a3e9f4e796245f6c5be01534	Frogger Demo by Matthias Luedtke (V20051008) (PD).a78	a78-opengood
+97dc332702eb249f20f143762411f375	Frogger Demo by Matthias Luedtke (V2005xxxx) (PD).a78	a78-opengood
+9146640b3493a849752090ef5f909454	Froggie by Matthias Luedtke (V20060417) (PD).a78	a78-opengood
+35a89c939adfcd4b6c4717995a96f99a	Froggie by Matthias Luedtke (V20060417older) (PD).a78	a78-opengood
+112b3b1a982ede5e5988853fc7433adf	Froggie by Matthias Luedtke (V20060604) (PD).a78	a78-opengood
+412cb173c669a4f981b2917dfa865a13	Froggie by Matthias Luedtke (V20061126_TIA) (PD).a78	a78-opengood
+ee17346e9e0ad76f73409877d6ebbe1d	Froggie by Matthias Luedtke (V20061231_POKEY) (PD).a78	a78-opengood
+13f11c4e8c019ee326b571d059accea4	Froggie by Matthias Luedtke (V20070107) (PD).a78	a78-opengood
+bcb0c55f47549c2b13796fb7eed06959	G2FSlideshow (V1.00_100602) (PD).a78	a78-opengood
+5c66e3f4d7d8b8ff8bef9c613c36a59b	Galaga - Ship Edit by KevinMO3 (Hack).a78	a78-opengood
+e0b4157894f7a9908d701c9206e9448f	Galaga (1984) (Atari) (Prototype).a78	a78-opengood
+046c395d616fce103181502e4025eefe	Galaga (1987) (Atari) (PAL) [t1] (14 Lives by Blue Azure).a78	a78-opengood
+f5dc7dc8e38072d3d65bd90a660148ce	Galaga (1987) (Atari) (PAL).a78	a78-opengood
+b8eb008a602776fce429bcfb89b27759	Galaga (1987) (Atari) [t1] (14 Lives by Blue Azure).a78	a78-opengood
+9f7134839b194f499f3eb2a9f73d85b3	Galaga (1987) (Atari) [t1] (Fast Fire+14 Lives by Blue Azure).a78	a78-opengood
+c42c2383435e2cc0c51c62491b87c432	Galaga (1987) (Atari) [t1] (Infinite Play by Blue Azure).a78	a78-opengood
+fb8d803b328b2e442548f7799cfa9a4a	Galaga (1987) (Atari).a78	a78-opengood
+a49a05f343d32a2f34256b57107aaf2f	Galaga Demo (PD).a78	a78-opengood
+46d127e760d15723cbacef8981191c9d	Gato (1987) (Atari) (Prototype-B-Nov) (Unsigned).a78	a78-opengood
+05a5cde44b650ed6721210b9b8ea0c74	Gato (1987) (Atari) (Prototype-B-Nov).a78	a78-opengood
+0dbdee4565e90a84a59ee7267fc8de43	Gato (1987) (Atari) (Prototype-Dec) (Unsigned).a78	a78-opengood
+1b3bfa0535e3fe74a06852e2a201d28c	Gato (1987) (Atari) (Prototype-Dec).a78	a78-opengood
+159cc827b7fdfca99fcf3b3f65050b90	Gato (1987) (Atari) (Prototype-Jul27).a78	a78-opengood
+acc0047293878b1365440472e6e8f6f5	Gato (1987) (Atari) (Prototype-Jun11).a78	a78-opengood
+ceb57af193b0ac9d10225474d5f92891	Gato (1987) (Atari) (Prototype-Jun23).a78	a78-opengood
+e3d589aa2ee5fa9c591b5ed26f58608e	Gato (1987) (Atari) (Prototype-Nov).a78	a78-opengood
+d6beb56ed0e75e70a89ff2557e562d19	Gato (1987) (Atari) (Prototype) [a1].a78	a78-opengood
+97db562fb485eb82e85322e8557b98e8	Gato (1987) (Atari) (Prototype) [a2].a78	a78-opengood
+06204dadc975be5e5e37e7cc66f984cf	Gato (1987) (Atari) (Prototype).a78	a78-opengood
+e7b22ca9cca1383330ef24f79e807152	Gato (1988) (Atari) (Prototype-Jan).a78	a78-opengood
+0c20697c3e5a397254f9ab2fee204796	Get Lost! by John K. Harvey (V20120629).a78	a78-opengood
+cdd8ef7bf9da0562d8fd68863534f82e	Get Lost! by John K. Harvey (V20130126).a78	a78-opengood
+27343899b254129b1a3fe90638b25b0e	Get Lost! by John K. Harvey (V20130127).a78	a78-opengood
+afc46303a7bef1b4721ddc118330fa86	Get Lost! by John K. Harvey (V20130202_newer).a78	a78-opengood
+867f7afbc7a93bbb3369e8cd3302d88f	Get Lost! by John K. Harvey (V20130202).a78	a78-opengood
+3d12489c553cb1a90c8ebd6534383fa1	Gorf by Steve Scavone (PD).a78	a78-opengood
+6ad3910c47323c43eedaf32e730cb1c2	Griffey The Dog (Ms. Pac-Man Hack) [t1] (Fast).a78	a78-opengood
+56511f6eace2fe9e3381ce762526ba08	Griffey The Dog (Ms. Pac-Man Hack).a78	a78-opengood
+ae463e29bc5ff7f282611ec23371d79b	Halloween Griffey The Dog (Ms. Pac-Man Hack).a78	a78-opengood
+1100a9d85638d94a7ca6c1132a509348	Hangly-Man by Bob DeCrescenzo (V20050530).a78	a78-opengood
+46dbc5108151e963b120cdaedd7d6d4c	Hangly-Man by Bob DeCrescenzo (V20050531_HSC_FIX).a78	a78-opengood
+f17e2fd28836179a8151291b0fe5db67	Hangly-Man by Bob DeCrescenzo (V20050531).a78	a78-opengood
+019a4e714837756ddbe5a868bfc0267f	Happy Halloween 7800 by Walter Lauer (V20120809) [h1] (No Date).a78	a78-opengood
+d263c862b8c9d90a8de426133b699930	Happy Halloween 7800 by Walter Lauer (Vfinal) (PD).a78	a78-opengood
+15dfeb64c69b079d3fcf0fd0317e4733	Harry's Hen House by Mark Ball (V1.03_20099414).a78	a78-opengood
+b76cca1c1cc6c591752980d612e33fb8	Harry's Hen House by Mark Ball (V1.04_20090415).a78	a78-opengood
+df261b9d10827e6565714a9e7dfed70a	Harry's Hen House by Mark Ball (V1.06_20100116).a78	a78-opengood
+3f14e9b07f9809867facd592ddcda41f	Harry's Hen House by Mark Ball (V1.07_20100117).a78	a78-opengood
+0baec96787ce17f390e204de1a136e59	Hat Trick (1987) (Atari) (PAL).a78	a78-opengood
+fd9e78e201b6baafddfd3e1fbfe6ba31	Hat Trick (1987) (Atari).a78	a78-opengood
+c7a50e029382069c8a0fe191e5ed0358	Haunted Demo (PD).a78	a78-opengood
+bbed9dc62d26e8b1faea98969f90f773	Hello World (V20010525) (PD).a78	a78-opengood
+8c2c2a1ea6e9a928a44c3151ba5c1ce3	Ikari Warriors (1989) (Atari) (PAL).a78	a78-opengood
+c3672482ca93f70eafd9134b936c3feb	Ikari Warriors (1989) (Atari).a78	a78-opengood
+34215d18edf80f70b557834ab9d6af65	Impossible Mission - Blue (Hack).a78	a78-opengood
+4cddd0a456789613f3997ef5e1bee434	Impossible Mission - C64 (Hack).a78	a78-opengood
+1fb118556eee55e490f97c434b834fbb	Impossible Mission - Eyes Blue (Hack).a78	a78-opengood
+9d0cb83756f27b03ead458b163eb2e5d	Impossible Mission - Eyes Green (Hack).a78	a78-opengood
+4ef23943ec3caa31697ebd8da650c0d3	Impossible Mission - Eyes Red (Hack).a78	a78-opengood
+08a5463f63fa2aabf134bb5c984bd705	Impossible Mission - Fixed New PDA - Alt Head (Hack).a78	a78-opengood
+b81db9f32b88e2e6fb344bedcf2dba91	Impossible Mission - Fixed New PDA (Hack).a78	a78-opengood
+e3e990f13b3e0a4a40e739abcc546179	Impossible Mission - Green (Hack).a78	a78-opengood
+d4eaa833b363a85f556caadf711586f4	Impossible Mission - More Hair - Small Chest (Hack).a78	a78-opengood
+e23cc76be0c233f54f81e0bad3dcda47	Impossible Mission - More Hair (Hack).a78	a78-opengood
+185ae8dab7621485ce18c96821814487	Impossible Mission - New Blue (Hack).a78	a78-opengood
+baf38edf1e11b18284a478225a20d1c5	Impossible Mission - New Green (Hack).a78	a78-opengood
+1817d83e96e11fb5cf886af3776b6795	Impossible Mission - New Red (Hack).a78	a78-opengood
+cdeb87ea367cffb5f2996c88352a5c86	Impossible Mission - New Win Blue (Hack) [a1].a78	a78-opengood
+b28b415296874d4a9a4244b88f0136ea	Impossible Mission - New Win Blue (Hack).a78	a78-opengood
+f27f2b39fc269afc8dc3e15c18b148be	Impossible Mission - New Win Green (Hack) [a1].a78	a78-opengood
+e3536d3ac77a9fed0e0c895f01a5036c	Impossible Mission - New Win Green (Hack).a78	a78-opengood
+b32865ab1d711aa066908127b4060416	Impossible Mission - New Win Red (Hack) [a1].a78	a78-opengood
+cee7d3729e4fdd3f2abfb2e4ac8808ad	Impossible Mission - New Win Red (Hack).a78	a78-opengood
+6521b7d2f5deff3166154864bde5d1f7	Impossible Mission - Red (Hack).a78	a78-opengood
+7ad29bc290b57faec94ce83d6340be94	Impossible Mission - Small Chest (Hack).a78	a78-opengood
+635b047f1cd1afcdb3f91c37859ef5f4	Impossible Mission - Stance Edit (Hack).a78	a78-opengood
+5f545569d516e667ae806891561b151f	Impossible Mission - Win New - Alt Head (Hack).a78	a78-opengood
+1bdb3024c080148fc7f04328b0ae7706	Impossible Mission - Win New (Hack).a78	a78-opengood
+80dead01ea2db5045f6f4443faa6fce8	Impossible Mission (1987) (Atari) (PAL).a78	a78-opengood
+baebc9246c087e893dfa489632157180	Impossible Mission (1987) (Atari) [!].a78	a78-opengood
+05df62c1cb9807d0b55d2ceb38a247d3	Impossible Mission (1987) (Atari) [a1].a78	a78-opengood
+6afb9cc3c3e606c8cfde4ad270a9012e	Impossible Mission (1987) (Atari) [f1] (NTSC).a78	a78-opengood
+5cfd6fa7e2d691c3a4a879219d2d53b1	Impossible Mission (1987) (Atari) [f1].a78	a78-opengood
+b45c7dcb614ce91a97d7b3f40c51a8af	International Karate Plus Demo (PD).a78	a78-opengood
+c8454693777f05b255528ae829b89925	Invisible Pac-Man (Hack).a78	a78-opengood
+227b1075906386eac795926fca013061	Java Ms. Pac-Man by Justin De Lucia (Hack) [a1].a78	a78-opengood
+9c2f2d19c92d56ce3e18187186f30293	Java Ms. Pac-Man by Justin De Lucia (Hack).a78	a78-opengood
+dfb86f4d06f05ad00cf418f0a59a24f7	Jinks (1989) (Atari) (PAL).a78	a78-opengood
+045fd12050b7f2b842d5970f2414e912	Jinks (1989) (Atari).a78	a78-opengood
+f2dae0264a4b4a73762b9d7177e989f6	Joust (1987) (Atari) (PAL).a78	a78-opengood
+f18b3b897a25ab3885b43b4bd141b396	Joust (1987) (Atari).a78	a78-opengood
+0c0cc1374b6dc2d24d71c77cfeacd6ec	Joust X (Hack) (PAL).a78	a78-opengood
+6b9cb9702d95cc4435c24e66772d82ec	Joust X (Hack).a78	a78-opengood
+f730aeee6778f57f6adff7f17bc9b7d5	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090401).a78	a78-opengood
+8281ab17fa3bfc0a6c497d6a4f350061	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090411RC1).a78	a78-opengood
+b483d8381cb341980962210e768cb037	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090412RC2).a78	a78-opengood
+13129aaf3319db0753ab5d9a0ab11d5e	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090415RC3).a78	a78-opengood
+f256fabf102e571deb364fc6732e2a1c	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090416RC4).a78	a78-opengood
+a9387d51527c211c95f58d4c975b8309	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090417).a78	a78-opengood
+cef183ee68805e837dfa3294c9d8b59a	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090417RC5).a78	a78-opengood
+538ccaff527aa36d1ad58e27e5e26cdb	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090419RC7).a78	a78-opengood
+afcc1ff25d2e504591091306ea84ece5	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090501).a78	a78-opengood
+e54edc299e72d22d0ba05d16f3393e8c	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20090924).a78	a78-opengood
+904364a01cf9f9250ee45548697d0f41	Jr. Pac-Man 7800 by Bob DeCrescenzo (V200xxxxx) [a1].a78	a78-opengood
+0d3b6a70e3d4b259c35e1884a7d9982e	Jr. Pac-Man 7800 by Bob DeCrescenzo (V200xxxxx) [a2].a78	a78-opengood
+e5a853ddc0cecf54db80d0d3cd8e2767	Jr. Pac-Man 7800 by Bob DeCrescenzo (V200xxxxx) [a3].a78	a78-opengood
+5a061099932f1666e46d430c8f950514	Jr. Pac-Man 7800 by Bob DeCrescenzo (V200xxxxx) [a4].a78	a78-opengood
+d7056ab905015b7d8307375cea17edff	Jr. Pac-Man 7800 by Bob DeCrescenzo (V200xxxxx) [t1] (Fast).a78	a78-opengood
+e274e7285bb8f97d4d9acddc8497ed9e	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20120924PAL).a78	a78-opengood
+b7fb0a70f9020d587d3474b2d821186a	Jr. Pac-Man 7800 by Bob DeCrescenzo (V20190401update).a78	a78-opengood
+9768b008a5bc999a2b65b6f82122260b	Jr. Pac-Man 7800 by Bob DeCrescenzo (VWIP8).a78	a78-opengood
+5e0a1e832bbcea6facb832fde23a440a	Karateka (1987) (Atari) (PAL).a78	a78-opengood
+c3a5a8692a423d43d9d28dd5b7d109d9	Karateka (1987) (Atari).a78	a78-opengood
+4fbcac7f96dbcbc7119f9a11fc145ee7	KDEMO by Ken Siders (V20021013) (PD).a78	a78-opengood
+5f9899099f2374fc62077138d9ee1e57	Klax - Impossible Level 1 (Hack).a78	a78-opengood
+6c9d0b4adc87bb9e86954d6c96e50a8a	Klax - Impossible Level 2 (Hack).a78	a78-opengood
+003e4ba650ec7c677b3492222ba22332	Klax - Impossible Level 3 (Hack).a78	a78-opengood
+158269f7f21595a59f24aef75b51a176	Klax (1992) (Atari) (Prototype) [a1].a78	a78-opengood
+9de4ecd1cad6bedfc580db48bc6441f4	Klax (1992) (Atari) (Prototype) [f1].a78	a78-opengood
+17b3b764d33eae9b5260f01df7bb9d2f	Klax (1992) (Atari) (Prototype).a78	a78-opengood
+2931b75811ad03f3ac9330838f3d231b	Kung Fu Master (1989) (Absolute) (PAL).a78	a78-opengood
+f57d0af323d4e173fb49ed447f0563d7	Kung Fu Master (1989) (Absolute) [!].a78	a78-opengood
+090938ebc12da56a4520d7e02fd2868b	Kung-Fu Master - Edited (Hack).a78	a78-opengood
+38b150fc969a2d90c5b75bd2b3269d5c	Kung-Fu Master - New Sprites (Hack).a78	a78-opengood
+04d5187f0f80144b3b7532f75e1ae67c	Kung-Fu Master (V20130113) (Hack).a78	a78-opengood
+9418d198559ed2aed8ed43ec21c25f53	Kung-Fu Master (V20130116) (Hack).a78	a78-opengood
+41b1dfe4174ad5434f1ef1aeeac90592	Kung-Fu Master (V20130622) (Hack).a78	a78-opengood
+7f206838ccf1a82696dd1c8cfc121bd4	Ladders 2 Demo (V20091123) (PD).a78	a78-opengood
+ea052dd6ccb85f78e21042b727513ff1	Ladders 3 Demo (V20091123) (PD).a78	a78-opengood
+52612a4b4820d8af86782c8f0a70ee22	Ladders Demo (V20091121) (PD).a78	a78-opengood
+4ad425a096712944e6b69de4b7a8eec0	Lores Kernel Test 7800 (PD).a78	a78-opengood
+d2e861306be78e44248bb71d7475d8a3	Mario Brothers (1988) (Atari) (PAL).a78	a78-opengood
+431ca060201ee1f9eb49d44962874049	Mario Brothers (1988) (Atari).a78	a78-opengood
+6819c37b96063b024898a19dbae2df54	Mat Mania Challenge (1989) (Atari) (PAL).a78	a78-opengood
+37b5692e33a98115e574185fa8398c22	Mat Mania Challenge (1989) (Atari).a78	a78-opengood
+2e9dbad6c0fa381a6cd1bb9abf98a104	Mean 18 Golf (1988) (Atari) (PAL).a78	a78-opengood
+f2f5e5841e4dda89a2faf8933dc33ea6	Mean 18 Golf (1988) (Atari) [!].a78	a78-opengood
+c80155d7eec9e3dcb79aa6b83c9ccd1e	Meltdown (1990) (Atari) (PAL).a78	a78-opengood
+bedc30ec43587e0c98fc38c39c1ef9d0	Meltdown (1990) (Atari).a78	a78-opengood
+04edf4f3c6b186147c1117359c8f5076	Mestor and Polax (Pac-Man Hack).a78	a78-opengood
+c3f6201d6a9388e860328c963a3301cc	Meteor Shower by Bob DeCrescenzo (V2001xxxx).a78	a78-opengood
+1a840262a3d37931a28d134ecdaccc63	Meteor Shower by Bob DeCrescenzo (V20110520).a78	a78-opengood
+b5882d1612d9314f2730707cf040aa79	Meteor Shower by Bob DeCrescenzo (V20110521).a78	a78-opengood
+d5a64193c326cd6184586706ca6f352a	Meteor Shower by Bob DeCrescenzo (V20110522_PAL).a78	a78-opengood
+66d001d2015a744a0dcc81af3da06eda	Meteor Shower by Bob DeCrescenzo (V20110522).a78	a78-opengood
+f5f1c46cc714e2e382e70b4b725e56cf	Meteor Shower by Bob DeCrescenzo (V20110523_PAL).a78	a78-opengood
+22e9980694638179b87c624962ea28e8	Meteor Shower by Bob DeCrescenzo (V20110523).a78	a78-opengood
+a062ce25ed858738b12828cfa888c62a	Meteor Shower by Bob DeCrescenzo (V20110524_PAL).a78	a78-opengood
+c7782f46967c79ce653f5ec36c088f51	Meteor Shower by Bob DeCrescenzo (V20110524).a78	a78-opengood
+9690a4fb852416ae2506a2f8181f4c98	Meteor Shower by Bob DeCrescenzo (V20110525_PAL).a78	a78-opengood
+6143b50101a6e024b4471b49611a4f0d	Meteor Shower by Bob DeCrescenzo (V20110525).a78	a78-opengood
+2f1f199ecc2b414d28e01f0de53ca8f7	Meteor Shower by Bob DeCrescenzo (V20110527_final_PAL).a78	a78-opengood
+b02f93661f4b7e712810d2bf8e02ad79	Meteor Shower by Bob DeCrescenzo (V20110527_final).a78	a78-opengood
+dc0bf52475030c05671dd187e9a99f08	Meteor Shower by Bob DeCrescenzo (V2011xxxx_PAL).a78	a78-opengood
+6794ea31570eba0b88a0bf1ead3f3f1b	Midnight Mutants (1990) (Atari) (PAL).a78	a78-opengood
+681e17d1e6b9cec4d4e674ff741fe950	Midnight Mutants (1990) (Atari) (Prototype).a78	a78-opengood
+bc1e905db1008493a9632aa83ab4682b	Midnight Mutants (1990) (Atari).a78	a78-opengood
+d8dbb5c4d7d02e6b0627df8f657a13b4	Miss Pac Attack by Bob DeCrescenzo (Final Version for HSC) (Hack).a78	a78-opengood
+c0df6049b0442cbefbe8e0911d2c1b24	Miss Pac Attack by Bob DeCrescenzo (Final Version) (Hack).a78	a78-opengood
+27c133965dfd80b3acb1ed598817aea0	Miss Pac Attack by Bob DeCrescenzo (Hack) [t1] (Fast).a78	a78-opengood
+674c0bb165f4f71b0e95c6c9526d6bf7	Miss Pac Attack by Bob DeCrescenzo (V20050527_new) (Hack).a78	a78-opengood
+eb17cb1700b36aa430bec3956a0edccb	Miss Pac Attack by Bob DeCrescenzo (V20050527) (Hack).a78	a78-opengood
+63ee0ac3949903261621b2097e964f09	Miss Pac Attack by Bob DeCrescenzo (V20050927) (Hack) [t1] (Fast).a78	a78-opengood
+017066f522908081ec3ee624f5e4a8aa	Missing in Action (Prototype-NTSC) (TNT Games).a78	a78-opengood
+37a9265ef1a20973f87bbe2e283db117	Moon Cresta by Bob DeCrescenzo (V20110726).a78	a78-opengood
+e45de469aa0ebbf3aad2c10a0abfa0b6	Moon Cresta by Bob DeCrescenzo (V20110827).a78	a78-opengood
+651f95a8871ae7cb8c3c0ffa7eef86c2	Moon Cresta by Bob DeCrescenzo (V20110903_PAL).a78	a78-opengood
+26c00104f96f41b834f47c3927e8b54b	Moon Cresta by Bob DeCrescenzo (V20110903).a78	a78-opengood
+f73e0e2ae682142c54234f0b6ece00f9	Moon Cresta by Bob DeCrescenzo (V20110910_PAL).a78	a78-opengood
+5d867c1bc54db429c74af38874302434	Moon Cresta by Bob DeCrescenzo (V20110910).a78	a78-opengood
+e4e2d0bb1698f465848a196b62f50fb0	Moon Cresta by Bob DeCrescenzo (V20110914_PAL).a78	a78-opengood
+0b0fd5351aa12fc21b5368243679f0eb	Moon Cresta by Bob DeCrescenzo (V20110914).a78	a78-opengood
+09e3e1e212b20bd5b4a71e2233359642	Moon Cresta by Bob DeCrescenzo (V20111006_PAL).a78	a78-opengood
+5357aaa5bc0d02c39a78af89f63268ff	Moon Cresta by Bob DeCrescenzo (V20111006).a78	a78-opengood
+7a231dcf7ebbf07db1a219495d44da43	Moon Cresta by Bob DeCrescenzo (V20111006updated).a78	a78-opengood
+90751fbc4d6733e0aaba6a20e6cb76d8	Moon Cresta by Bob DeCrescenzo (V20111010RC1_PAL).a78	a78-opengood
+a3727a6b3a3f069503c5e99b11b9de3b	Moon Cresta by Bob DeCrescenzo (V20111010RC1).a78	a78-opengood
+56f7e1cb22d5541619cda9430380d04e	Moon Cresta by Bob DeCrescenzo (V20111010RC3_PAL).a78	a78-opengood
+93fb1996e60f8f78a154a46bfdaaf1c7	Moon Cresta by Bob DeCrescenzo (V20111010RC3).a78	a78-opengood
+332c0c1973a66d24a23d2bd66e85fe5c	Moon Cresta by Bob DeCrescenzo (V20111011RC4_PAL).a78	a78-opengood
+7a400bd30426b4d878a08274a05c767b	Moon Cresta by Bob DeCrescenzo (V20111011RC4).a78	a78-opengood
+675c5b79238eaa641f2e3fe9c5e22589	Moon Cresta by Bob DeCrescenzo (V20111115_PAL).a78	a78-opengood
+9ff38ea62004201d870caa8bd9463525	Moon Cresta by Bob DeCrescenzo (V20111115).a78	a78-opengood
+89f90b661d1b79e956b10bb6a9771f78	More Beef Drop (Hack).a78	a78-opengood
+5330bfe428a6b601b7e76c2cfc4cd049	Motor Psycho (1990) (Atari) (PAL).a78	a78-opengood
+3bc8f554cf86f8132a623cc2201a564b	Motor Psycho (1990) (Atari).a78	a78-opengood
+0823507c148044bddd9aac4adfb72e28	Ms. Fruit-Man by Justin De Lucia (Ms. Pac-Man Hack).a78	a78-opengood
+e610d5f514a914444394239640d828dc	Ms. Pac-Man (1987) (Atari) (PAL) [t1] (Invincible).a78	a78-opengood
+210c82f45aa52a87cd45d40e56315e2f	Ms. Pac-Man (1987) (Atari) (PAL) [t2] (Fast,Invincible).a78	a78-opengood
+56469e8c5ff8983c6cb8dadc64eb0363	Ms. Pac-Man (1987) (Atari) (PAL).a78	a78-opengood
+dcbd141c5c43e0df29a8d59af6d36209	Ms. Pac-Man (1987) (Atari) (Prototype).a78	a78-opengood
+6d9aeb2dc2a2192917122c9381025f0d	Ms. Pac-Man (1987) (Atari) [h1].a78	a78-opengood
+e55b69bd16383539a5694c17fe6488d7	Ms. Pac-Man (1987) (Atari) [t1] (Invincible).a78	a78-opengood
+e0c77f5fdd8c2d1cfe00ccf8df87e62e	Ms. Pac-Man (1987) (Atari) [t2] (Fast,Invincible).a78	a78-opengood
+fc0ea52a9fac557251b65ee680d951e5	Ms. Pac-Man (1987) (Atari).a78	a78-opengood
+2c34b2a408e8a4d8fad59a1726d6fe23	Ms. Pac-Man 2600 WIP (Hack).a78	a78-opengood
+bc56f803d65658f92c17e6c2b271a507	Ms. Pac-Man 320Mode (Hack) (PAL).a78	a78-opengood
+35433868dfe383ae21fd77507e5a478d	Ms. Pac-Man 320Mode (Hack).a78	a78-opengood
+cad1e733986bce1ee4c9da73de1dcff1	Ms. Pac-Man 320Mode+Pokey (Hack) [t1] (Fast,Invincible).a78	a78-opengood
+db768297985178cec034c12a41d6f1a7	Ms. Pac-Man 320Mode+Pokey (Hack) [t1] (Invincible).a78	a78-opengood
+889fc7e7ba5c807be44e85ba7a6bd26e	Ms. Pac-Man 320Mode+Pokey (Hack).a78	a78-opengood
+2f48fd60457f91099cdaba09e06ba346	Ms. Pac-Man by Bob DeCrescenzo (Arcade Graphics) (Hack).a78	a78-opengood
+d020b726b94e8d67e291e62fff345040	Ms. Pac-Man by Bob DeCrescenzo (Arcade Graphics+bugfix) (Hack).a78	a78-opengood
+3d0c00819f1ccc5e125841f9bcef00bc	Ms. Pac-Man by Bob DeCrescenzo (V20090421) (Hack).a78	a78-opengood
+32f84573046a8ec30a001af099c9949e	Ms. Pac-Man by Bob DeCrescenzo (V20090427) (Hack).a78	a78-opengood
+67d42720d7b7c8eef40153a634d11a2d	Ms. Pac-Man by Bob DeCrescenzo (V20090428) (Hack).a78	a78-opengood
+a8a43d0818c23310762a71b93f588216	Ms. Pac-Man by Bob DeCrescenzo (V20090429) (Hack).a78	a78-opengood
+cf007563fe94cacf5ea5295dc93ce9ef	Ms. Pac-Man by Bob DeCrescenzo (V20090501) (Hack).a78	a78-opengood
+6213e2bd0a644dbed72607917bda911a	New Ms. Pac-Man by Bob DeCrescenzo (New Ghost Graphics) (Hack).a78	a78-opengood
+ea0c859aa54fe5eaf4c1f327fab06221	Ninja Golf (1990) (Atari) (PAL).a78	a78-opengood
+220121f771fc4b98cef97dc040e8d378	Ninja Golf (1990) (Atari).a78	a78-opengood
+50dff8061e4668f75f4a20238657ba4f	NTSC Encryption Backdoor Test (2000) (PD).a78	a78-opengood
+875744a88898e83ea54aa2d257d0c63a	Nyan Cat 7800 by Moerder (PD).a78	a78-opengood
+8dba0425f0262e5704581d8757a1a6e3	One-on-One Basketball (1987) (Atari) (PAL).a78	a78-opengood
+74569571a208f8b0b1ccfb22d7c914e1	One-on-One Basketball (1987) (Atari).a78	a78-opengood
+a361028f3e3f00bbc01e2eb05084697e	Pac Nestor (Ms. Pac-Man Hack).a78	a78-opengood
+ec2b8804dff40d2edfc5f15cca3c61f6	Pac_snd_hack by tep392 (Pac-Man Collection Hack).a78	a78-opengood
+eef4028a94b7d2a5a0d103c5e81b54a0	Pac-Handheld-Lynx by Justin De Lucia (Hack).a78	a78-opengood
+07fccc6025b98915f64fb42b2aa250a7	Pac-Jason by Walter Lauer (Hack) [a1].a78	a78-opengood
+0c81f2e72ed31e16c600f1f31fb810c7	Pac-Jason by Walter Lauer (Hack).a78	a78-opengood
+0ba063cf2815a0581438036aa18db5d2	Pac-Maine by Justin De Lucia (Ms. Pac-Man Hack).a78	a78-opengood
+b56f40d3d7cc8c8e2c304f537734fe7a	Pac-Man 7800 by Bob DeCrescenzo (V0.1signed).a78	a78-opengood
+4e79be4996ce807fd62bd475b577b19e	Pac-Man 7800 by Bob DeCrescenzo (V0.2).a78	a78-opengood
+c239cb5c3cdac094b07c3699e21793fb	Pac-Man 7800 by Bob DeCrescenzo (V0.3).a78	a78-opengood
+bb5746ae133f0d2228906729421e2a37	Pac-Man 7800 by Bob DeCrescenzo (V0.4).a78	a78-opengood
+8fa2310aa0aaba8fe0e683a915656ba4	Pac-Man 7800 by Bob DeCrescenzo (V0.5).a78	a78-opengood
+4227c3b7ab369fbc9c090961cd5de716	Pac-Man 7800 by Bob DeCrescenzo (V0.6).a78	a78-opengood
+b786c3459cfda67712968453d93ad538	Pac-Man 7800 by Bob DeCrescenzo (V0.7).a78	a78-opengood
+c3f882c95c38bd18db24e3beb1c6172c	Pac-Man 7800 by Bob DeCrescenzo (V0.7dot delay test).a78	a78-opengood
+80913d02b441a36c856f9fef08ce1459	Pac-Man 7800 by Bob DeCrescenzo (V0.8).a78	a78-opengood
+b4e69b913858203ae83e7f7659c0cb1b	Pac-Man 7800 by Bob DeCrescenzo (V0.9).a78	a78-opengood
+485bafd3dec668f35d6bbaf4bfbf2335	Pac-Man 7800 by Bob DeCrescenzo (V1.0).a78	a78-opengood
+8338eca612eedf6ddec57d54942863e7	Pac-Man 7800 by Bob DeCrescenzo (V1.0a).a78	a78-opengood
+ec5ca9bc61902b31b4037543e3e832aa	Pac-Man 7800 by Bob DeCrescenzo (Vx.x) [t1] (Fast).a78	a78-opengood
+5112e2427a38a712c2bd86162359d15a	Pac-Man Arcade by Bob DeCrescenzo (V20110721_PAL).a78	a78-opengood
+ec272f11d006b4f0ba65d7019ff17844	Pac-Man Arcade by Bob DeCrescenzo (V20110721).a78	a78-opengood
+cc33ee28cf62193f0eaa69f2c3b540d9	Pac-Man Arcade by Bob DeCrescenzo (V20110721POKEY).a78	a78-opengood
+549e4d436aeb17126f6ba409fa78a60b	Pac-Man Arcade by Bob DeCrescenzo (V20110723POKEY).a78	a78-opengood
+180121ecb4aabc7daa945b355e15c254	Pac-Man Arcade by Bob DeCrescenzo (V20110810_PAL).a78	a78-opengood
+60982f430b762343d53e48f70acfa6d0	Pac-Man Arcade by Bob DeCrescenzo (V20110810).a78	a78-opengood
+80ffad3edb50f0970e780a727a4524dd	Pac-Man Arcade by Bob DeCrescenzo (V20110810POKEY).a78	a78-opengood
+370390e82bb60ce1568cdd8d53398a94	Pac-Man Collection Arcade by Bob DeCrescenzo (Pokey) (V1).a78	a78-opengood
+5b454c89455bea26cf10dbbe02eb61b6	Pac-Man Collection Arcade by Bob DeCrescenzo (Pokey) (V2).a78	a78-opengood
+ff2f301b18ccc6bd662b5110e177442f	Pac-Man Collection Arcade by Bob DeCrescenzo (Pokey) (V3).a78	a78-opengood
+2a955a189cbd7a40d74103bb1816319a	Pac-Man Collection by Bob DeCrescenzo (V.01_32K).a78	a78-opengood
+b165deb5ec4824cb1b1fbd84e484fec6	Pac-Man Collection by Bob DeCrescenzo (V.02_32K).a78	a78-opengood
+ef84f75552c2bde6c7e183980f6b0702	Pac-Man Collection by Bob DeCrescenzo (V.03_32K).a78	a78-opengood
+61a8fa74856ae4449e463869ad4e4b95	Pac-Man Collection by Bob DeCrescenzo (V.04_32K).a78	a78-opengood
+d07ccdef4b6e9a100c8dc10fae8e1547	Pac-Man Collection by Bob DeCrescenzo (V20061107).a78	a78-opengood
+cde200fa5ec870409b063302e21b9f34	Pac-Man Collection by Bob DeCrescenzo (V20061109_new).a78	a78-opengood
+b07cb587a292ae21f7ade6d7ba264258	Pac-Man Collection by Bob DeCrescenzo (V20061109_old).a78	a78-opengood
+5d7bc7092de69095137456733e7b685d	Pac-Man Collection by Bob DeCrescenzo (V20061119).a78	a78-opengood
+311f25933ea4d4746baedca2d26616a1	Pac-Man Collection by Bob DeCrescenzo (V20070828_PAL).a78	a78-opengood
+368c3bfa91cf2bb8413967eb0c392c6c	Pac-Man Collection by Bob DeCrescenzo (V20070829).a78	a78-opengood
+c2b42639718d005a6d0aefa0809f77db	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) (PAL).a78	a78-opengood
+5013b69cb05b21a1194ce48517df7bfc	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) (Pokey).a78	a78-opengood
+b766b84b1de7ed15f9433406857e86d5	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a1].a78	a78-opengood
+22541060a9a703703db5a82dba4d3d29	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a2].a78	a78-opengood
+cdaf048012c27c78cafc16d4713c3ee3	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a3].a78	a78-opengood
+4d68f8ddd481e8aa0f603ea183c6f372	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a4].a78	a78-opengood
+e81527762d7a2eaea99b9bace8cc911b	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a5].a78	a78-opengood
+24c8405e7c8694da66dac570107bc0f0	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a6].a78	a78-opengood
+63b05d01bc303ad5bad51b67dfdcf759	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a7].a78	a78-opengood
+e3cc0aee1b35034063e941a2d2705ed3	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a8].a78	a78-opengood
+498b6e9fbcc0dafd00e06efcd0652941	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx) [a9].a78	a78-opengood
+59f1c1e7f6653a4e66ea898ce6eab50f	Pac-Man Collection by Bob DeCrescenzo (V200xxxxx).a78	a78-opengood
+d1b9f8a5d8f6d12cd257a6aab9906739	Pac-Man Collection by Bob DeCrescenzo (V8_protomaze).a78	a78-opengood
+9a41cc79c28e2ee9610f9d1d23ee4002	Pac-Man Collection by Bob DeCrescenzo (V8).a78	a78-opengood
+3d48e7bc030fb6432e1eef5f58f618d8	Pac-Man Collection by Bob DeCrescenzo (V9) [a1].a78	a78-opengood
+f70399d47e2b7368dbca25852187ce36	Pac-Man Collection by Bob DeCrescenzo (V9).a78	a78-opengood
+3521b4b10c0bc9edd83b01bc539ee0a8	Pac-Man Improvment (Hack).a78	a78-opengood
+fc6f3e6140dcd113c1a27e19002fd3b3	Pac-Man Pirahna (Hack) [t1] (Invincible).a78	a78-opengood
+72ec68627bb7d879ae35a71d7679f71e	Pac-Man Plus 7800 by Bob DeCrescenzo (V20050530).a78	a78-opengood
+791e55db03903988280388573a2fcdc1	Pac-Man Plus 7800 by Bob DeCrescenzo (V20050602).a78	a78-opengood
+4b3059f6872e377cd0faf632eaabe5f0	Pac-Man Remix NES by Justin De Lucia (Hack).a78	a78-opengood
+4ee23e6f832d22968c3ce21e9320ab24	Pac-Prototype by Justin De Lucia (Hack) [a1].a78	a78-opengood
+aa8e4ac7887ff4c0ecd0840a4a8c1d9b	Pac-Prototype by Justin De Lucia (Hack).a78	a78-opengood
+de76212b8e1df59eb77d50886df41da2	Papasmurf in Pacland by Jeff Wierer (Ms. Pac-Man Hack).a78	a78-opengood
+177409b649e13f15453e0d5fb086f7ca	Papasmurf in Pacland II by Jeff Wierer (Ms. Pac-Man Hack).a78	a78-opengood
+a08749afcc94af8ae8c13cbdb1a783d0	Pc-Man 7800 (Hack).a78	a78-opengood
+c9a4a9a475a51a27d0180e6fdba0a0d5	Pete Rose Baseball (1989) (Absolute) (PAL) [b1].a78	a78-opengood
+386bded4a944bae455fedf56206dd1dd	Pete Rose Baseball (1989) (Absolute) (PAL).a78	a78-opengood
+1a5207870dec6fae9111cb747e20d8e3	Pete Rose Baseball (1989) (Absolute) [!].a78	a78-opengood
+b75da7e94ed01db5912d853a740d5fbe	Pete Rose Baseball (1989) (Absolute) [o1].a78	a78-opengood
+8ffd465270a4261eecc43007805af5a6	Pit Fighter (1992) (Atari) (Prototype) [a1].a78	a78-opengood
+05f43244465943ce819780a71a5b572a	Pit Fighter (1992) (Atari) (Prototype) [a2].a78	a78-opengood
+ec206c8db4316eb1ebce9fc960da7d8f	Pit Fighter (1992) (Atari) (Prototype).a78	a78-opengood
+2837a8fd49b7fc7ccd70fd45b69c5099	Planet Smashers (1990) (Atari) (PAL).a78	a78-opengood
+33aea1e2b6634a1dec8c7006d9afda22	Planet Smashers (1990) (Atari).a78	a78-opengood
+86546808dc60961cdb1b20e761c50ab1	Plutos (Tynesoft) (Prototype-NTSC).a78	a78-opengood
+865457e0e0f48253b08f77b9e18f93b2	Pole Position II (1987) (Atari) (PAL).a78	a78-opengood
+584582bb09ee8122e7fc09dc7d1ed813	Pole Position II (1987) (Atari).a78	a78-opengood
+1745feadabb24e7cefc375904c73fa4c	Possible Mission by John K Harvey (Impossible Mission Hack).a78	a78-opengood
+9e22e4e941d73c1ccf98f0a92b123a7b	Project1 Demo by Bob DeCrescenzo (PD).a78	a78-opengood
+dbc197d1038c6cadae5b0d57ceb4512b	Purple Pants (V20030728).a78	a78-opengood
+66e7230f7ef9d14db82d76b06b241bc0	Q-bert by Ken Siders (V20050401).a78	a78-opengood
+c0a040527f4e2dc81454bea1df7a5813	Q-bert by Ken Siders (V20050417).a78	a78-opengood
+36471af1f36185d831d60034ff69e18d	Q-bert by Ken Siders (V20050426).a78	a78-opengood
+54b37fc95019006e680d85889c176aaf	Q-bert by Ken Siders (V20050428_AtarivoxSupport).a78	a78-opengood
+ee747a7a64fee1a7ce57146c498a937f	Q-bert by Ken Siders (V20050428).a78	a78-opengood
+6a7a0e700434688bb8cfa2632bd11d94	Q-bert by Ken Siders (V20050510).a78	a78-opengood
+f425a05d4e9534e78b386f230b684532	Q-bert by Ken Siders (V20050511).a78	a78-opengood
+216a28549c2ab5bea8eaa04a0214aa09	Q-bert by Ken Siders (V20050513).a78	a78-opengood
+a4806114d152895307bb1452e740158b	Q-bert by Ken Siders (V20050518).a78	a78-opengood
+f654b5f4d49e97207b658fa20cc2f8c0	Q-bert by Ken Siders (V20050523).a78	a78-opengood
+bc193efc33d00291443bddae801213ec	Q-bert by Ken Siders (V20050524).a78	a78-opengood
+46949d13536dcaa3e9fc4997c176ddb7	Q-bert by Ken Siders (V20050529).a78	a78-opengood
+313757c1a604b6d2aeb5a4f633f999db	Q-bert by Ken Siders (V20050530) [t1].a78	a78-opengood
+d9dca0b0ee168334e18c95738e347f6b	Q-bert by Ken Siders (V20050608).a78	a78-opengood
+b0816c867fe75a2da1c6b101f20dd22d	Q-bert by Ken Siders (V20050608older).a78	a78-opengood
+a0ae4ae0b08d3c85741bf3d7c71448dc	Q-bert by Ken Siders (V20050614).a78	a78-opengood
+9a4ac83897f49fffc562bc1fbfdca0c3	Q-bert by Ken Siders (V20050614older).a78	a78-opengood
+94c7892e875949223ec942a1a5301db6	Q-bert by Ken Siders (V20050615).a78	a78-opengood
+4baee1c2f3c8d8f3a5a1fb72a0df4419	Q-bert by Ken Siders (V20050615older).a78	a78-opengood
+c1d03025eee4fadc1be8adfbd1b21881	Q-bert by Ken Siders (V20050617).a78	a78-opengood
+aa8167ba9174c6dd2382fc630d0584dc	Q-bert by Ken Siders (V20050618).a78	a78-opengood
+f4470fc749b529005176b7e68cc10bcb	Q-bert by Ken Siders (V20050620).a78	a78-opengood
+2b6947466a9b94142eb62e25902ec9bc	Q-bert by Ken Siders (V20060530).a78	a78-opengood
+6708a2ea4f5d551a7ec0b4c936d8a6f7	Q-bert Demo by Ken Siders (V20021109) (PD).a78	a78-opengood
+ac03806cef2558fc795a7d5d8dba7bc0	Rampage (1989) (Activision) [!].a78	a78-opengood
+689495d74ae8e26d99541e2abaf4a51b	Rampage (1989) (Activision) [b1].a78	a78-opengood
+bc18c583092e59aada9a513ba6e914e4	Rampage (1989) (Activision) [b1][o1].a78	a78-opengood
+442761655bb25ddfe5f7ab16bf591c6f	Rampart (19xx) (Atari) (Prototype-NTSC).a78	a78-opengood
+03daa19b7aae2d27e61f2a4dbe3b9b79	Raster Music Tracker (PD).a78	a78-opengood
+bfad016d6e77eaccec74c0340aded8b9	RealSports Baseball (1988) (Atari) [o1].a78	a78-opengood
+383ed9bd1efb9b6cb3388a777678c928	RealSports Baseball (1988) (Atari).a78	a78-opengood
+ed558e4b7eaf4add37378008b56352cf	Rescue on Fractalus (1984) (Atari) (Prototype) (CC2 Hack).a78	a78-opengood
+8f7eb10ad0bd75474abf0c6c36c08486	Rescue on Fractalus (1984) (Atari) (Prototype).a78	a78-opengood
+505f05e7f161f62ccd749dab3c4a204b	Robot Finds Kitten 7800 (V20040320) (PD).a78	a78-opengood
+9646d482a8ad187ae52cd21c0de365fb	Robot Finds Kitten 7800 (V20050619) (PD).a78	a78-opengood
+66ecaafe1b82ae68ffc96267aaf7a4d7	Robotron 2084 (1987) (Atari).a78	a78-opengood
+03935b9a1f2561bada58fcd5d9fd27de	Robotron X (Hack).a78	a78-opengood
+d27ed8f883af9b4ee3b5570f30e9ff71	Rowdytron (Hack).a78	a78-opengood
+575ba2bae81a1d19de22f075c1d05307	S1k by vdub_bobby (V20080408) (PD).a78	a78-opengood
+1358e941570f6d171a8312d7d1ee277c	S1k by vdub_bobby (V20080409) (PD).a78	a78-opengood
+4b267c492db276e8d9da354d02b51067	S1k by vdub_bobby (V20080410) (PD).a78	a78-opengood
+e0eddc93e1874c5c13e8be21e5bef0d0	S1k by vdub_bobby (V20080410fixed) (PD).a78	a78-opengood
+f71b97a5ad1f5775b1f83e649c2657b5	S1k by vdub_bobby (V20080411) (PD).a78	a78-opengood
+0e8eff5506c1b60595cd4f238d6045f4	S1k by vdub_bobby (V20080413) (PD).a78	a78-opengood
+8d71ea30f2cd68a44e9efe6731c06b54	S1k by vdub_bobby (V20080414) (PD).a78	a78-opengood
+e83ec8faf43ced75c0192fe005387e70	S1k by vdub_bobby (V20080417) (PD).a78	a78-opengood
+83c21c4f07ed3df1f7de66cc4ce0f838	S1k by vdub_bobby (V20080418) (PD).a78	a78-opengood
+21125dfe9968f2ffa6f08d2034e12207	S1k by vdub_bobby (V20080420) (PD).a78	a78-opengood
+2c30a97dfe5e7220eee25ab39853e4b6	S1k by vdub_bobby (V20080422) (PD).a78	a78-opengood
+b4cd437eca5d36afbdf781d6f472f0df	S1k by vdub_bobby (V20080422fixed) (PD).a78	a78-opengood
+d56fa316c40927f4de564a2f79b9a00b	S1k by vdub_bobby (V20080510) (PD).a78	a78-opengood
+20da5baeb57e1bd3ed313a7b18074efb	Santa Simon by Matthias Luedtke (2006).a78	a78-opengood
+ea0a7bc7c805fa13c525e78c5f01a411	Scramble by Bob DeCrescenzo (V20120101).a78	a78-opengood
+e77484fbc6203c7778d082f728e145c1	Scramble by Bob DeCrescenzo (V20120101PAL).a78	a78-opengood
+ac357c6c23501f072e6b869b242f1bde	Scramble by Bob DeCrescenzo (V20120102).a78	a78-opengood
+65bf7f04f27bb901ab7d77628c01613e	Scramble by Bob DeCrescenzo (V20120102PAL).a78	a78-opengood
+15990958f79b95b3d7b9849bec3e550a	Scramble by Bob DeCrescenzo (V20120104).a78	a78-opengood
+801221ea4901bcd88804bdf97bfde6f1	Scramble by Bob DeCrescenzo (V20120104PAL).a78	a78-opengood
+1ea2bff7f35c028c6bd8c29c4f31f239	Scramble by Bob DeCrescenzo (V20120105).a78	a78-opengood
+bd7c30301ee4db9827908d810d1124bc	Scramble by Bob DeCrescenzo (V20120105PAL).a78	a78-opengood
+177ae77610ba6180574c6a8f60b3265b	Scramble by Bob DeCrescenzo (V20120106).a78	a78-opengood
+bcfce07f535c962621a79305a37a8e0b	Scramble by Bob DeCrescenzo (V20120106PAL).a78	a78-opengood
+91f44cc258cb7be5568ff92a70f81b5e	Scramble by Bob DeCrescenzo (V20120107_rev1_PAL).a78	a78-opengood
+cbc85a50992b8f443098ca721cdf1467	Scramble by Bob DeCrescenzo (V20120107_rev1).a78	a78-opengood
+8ac054fd80aa26f2692ffeb7d5bc2f78	Scramble by Bob DeCrescenzo (V20120107_rev2_PAL).a78	a78-opengood
+5a1f55c564bd9b26e42bb74a9eda79d8	Scramble by Bob DeCrescenzo (V20120107_rev2).a78	a78-opengood
+de96d428809f1548f0228caa09af5fec	Scramble by Bob DeCrescenzo (V20120107).a78	a78-opengood
+f5b8198235f78c7cefdd36f5fcffbc5a	Scramble by Bob DeCrescenzo (V20120107PAL).a78	a78-opengood
+62c01229c93f76c5aaed3dc35133e41c	Scramble by Bob DeCrescenzo (V20120108_rev1_PAL).a78	a78-opengood
+c484f91158c5b626c00bf986f4ace61a	Scramble by Bob DeCrescenzo (V20120108_rev1).a78	a78-opengood
+7ea051273aeed44e29a1abf4a6cbc80f	Scramble by Bob DeCrescenzo (V20120108).a78	a78-opengood
+8f25fdad08966823bbf17d327c604e48	Scramble by Bob DeCrescenzo (V20120108PAL).a78	a78-opengood
+059f4ea3fe91f0259fa8e7e1d3e2bc54	Scramble by Bob DeCrescenzo (V20120109_rev1_PAL).a78	a78-opengood
+c4f2250df5ec54b2ccade253d44f5618	Scramble by Bob DeCrescenzo (V20120109_rev1).a78	a78-opengood
+05dea867b295981337996b9956bf17cb	Scramble by Bob DeCrescenzo (V20120109).a78	a78-opengood
+b3a04bf18e0f77e7f675251bd59e0d36	Scramble by Bob DeCrescenzo (V20120109PAL).a78	a78-opengood
+c243756eda7d8708833eafbe84e7030f	Scramble by Bob DeCrescenzo (V20120110_rev1_PAL).a78	a78-opengood
+6f58c5e4476cf3dd6cabb91b78d69e79	Scramble by Bob DeCrescenzo (V20120110_rev1).a78	a78-opengood
+8b7681c5943f7516dc5096580a17cdc3	Scramble by Bob DeCrescenzo (V20120110).a78	a78-opengood
+90b0e2c6c9777897c2775efaa5f89c79	Scramble by Bob DeCrescenzo (V20120110PAL).a78	a78-opengood
+c265cfd65534a4514f226cb4c7f7d6bf	Scramble by Bob DeCrescenzo (V20120114).a78	a78-opengood
+1ee26fc6b06b4c9ba74931914b7e719d	Scramble by Bob DeCrescenzo (V20120114PAL).a78	a78-opengood
+65fe82f419f6583a0f9a736242cb303d	Scramble by Bob DeCrescenzo (V20120218headerfix_PAL).a78	a78-opengood
+57651b6c8e62811fab0361cea537b79c	Scramble by Bob DeCrescenzo (V20120218headerfix).a78	a78-opengood
+940175038354d34403f0480eabb3dc9a	Scramble Demo by Bob DeCrescenzo (PD).a78	a78-opengood
+53db322c201323fe2ca8f074c0a2bf86	Scrapyard Dog (1990) (Atari) (PAL).a78	a78-opengood
+980c35ae9625773a450aa7ef51751c04	Scrapyard Dog (1990) (Atari).a78	a78-opengood
+73f626635afb61a8a4f9225b7b7d937e	Scroll Demo (PD).a78	a78-opengood
+6b119fcb3a32fec621fa94cc33204ce7	Scroll Demo (V20091102) (PD).a78	a78-opengood
+2c60ccd10d535ead424d9935057ecfa2	Senso 7800 DX2 by Karolj Nadj (2001) (PD).a78	a78-opengood
+127f6e9aae0699343693b23d8213ba5f	Senso 7800 DX3 by Karolj Nadj (2003) (PD).a78	a78-opengood
+fb6946ee5db45f631813e9e50b05af8c	Senso 7800 DX4 by Karolj Nadj (2003) (PD).a78	a78-opengood
+e5c3df3402264a910b017d35316b466e	Senso 7800 Test 5 by Karolj Nadj (2001) (PD).a78	a78-opengood
+b697d9c2d1b9f6cb21041286d1bbfa7f	Sentinel (1988) (Atari) [!].a78	a78-opengood
+5469b4de0608f23a5c4f98f331c9e75f	Sentinel (1991) (Atari) (PAL) [!].a78	a78-opengood
+2d643ac548c40e58c99d0fe433ba4ba0	Sirius (Tynesoft) (Prototype-NTSC).a78	a78-opengood
+625e611aeaf162ce8fd77980c64e5e30	Small Sprite Demo 2 - Animations by Heaven_TQA (V20040117) (PD).a78	a78-opengood
+cf0d140195ead4e2850d753e9afed672	Small Sprite Demo by Heaven_TQA (V20040117) (PD).a78	a78-opengood
+59dce348c84737bf4778762d683be696	Snow Day (Jr. Pac-Man Hack) [a1].a78	a78-opengood
+f4a0f803723d8387569e0537e452a40a	Snow Day (Jr. Pac-Man Hack).a78	a78-opengood
+ab5b887dfe06c7a26c6663a9a3665b63	Space Duel (V20070826).a78	a78-opengood
+7a1f7c7d7ef6c96f18fd0ef0e211dabd	Space Duel (V20070903_old).a78	a78-opengood
+335e070befcaf8f9d46818292041378d	Space Duel (V20070903).a78	a78-opengood
+6f83c813de1cb3a7121434cb06b5ae0a	Space Duel (V20070926).a78	a78-opengood
+0c2f4158ef72badd69bb238769b5c213	Space Duel (V20071004).a78	a78-opengood
+833bc02f18e40c90f984d0d5fb728af9	Space Duel (V20071009).a78	a78-opengood
+f8f37b9376beb533fa2a87e78d40c848	Space Duel (V20071011).a78	a78-opengood
+771cb4609347657f63e6f0eb26036e35	Space Duel (VFinal_NTSC).a78	a78-opengood
+a84c1b2300fbfbf21b1c02387f613dad	Space Duel (VFinal_PAL).a78	a78-opengood
+44591acaf61874adb773cc49d2255136	Space Duel (VWIP1).a78	a78-opengood
+592c2b9b3f13324546975863ff32addb	Space Duel (VWIP2).a78	a78-opengood
+7206e7901b7cae8aa940501ef89e83fa	Space Invaders 7800 by Bob DeCrescenzo (NTSC) [t1] (99 Lives).a78	a78-opengood
+3950249ae0cd5feacab487bf07878b4d	Space Invaders 7800 by Bob DeCrescenzo (PAL) [t1] (99 Lives).a78	a78-opengood
+6adf79558a3d7f5beca1bb8d34337417	Space Invaders 7800 by Bob DeCrescenzo (VFinal_Fixed_NTSC).a78	a78-opengood
+57c5026c60e939c285c44e6fa1bfbc81	Space Invaders 7800 by Bob DeCrescenzo (VFinal_Fixed_PAL).a78	a78-opengood
+f304d4418413b2de27d86f36401c1bc2	Space Invaders 7800 by Bob DeCrescenzo (VFinal_NTSC).a78	a78-opengood
+4441f2c7fa35221e168b28619d433e59	Space Invaders 7800 by Bob DeCrescenzo (VFinal_PAL).a78	a78-opengood
+92002f1c11659318812c390e77618c30	Space Invaders 7800 by Bob DeCrescenzo (Vunknown).a78	a78-opengood
+5543230e5a0092646d42c4676470663e	Space Invincivaders (Hack) (PAL).a78	a78-opengood
+9e9abfc36ed35117ffb6e40db80d71e6	Space Invincivaders (Hack).a78	a78-opengood
+bf371ff369b2115aa593da8eb14a79a1	Space War by Eric Ball (V20030930) (PD).a78	a78-opengood
+ebb053f88400844d6f0991dcc4240aef	Space War by Eric Ball (V20031018) (PD) [a1].a78	a78-opengood
+6882fcf6f9fb5b04db2c96d216fe9965	Space War by Eric Ball (V20031018) (PD).a78	a78-opengood
+2a526331d405b631e803816f075f4219	Space War by Eric Ball (V20040318) (PD) [a1].a78	a78-opengood
+b54e265c352d0bf2cddea14e6cd2b567	Space War by Eric Ball (V20040318) (PD).a78	a78-opengood
+cfa4ee3c36bc653a3297eaab7036157a	Space War by Eric Ball (V20070319) (PD).a78	a78-opengood
+f7f53ef9cfb32318e8bc11a9f33390c4	Space War by Eric Ball (V20070321) (PD).a78	a78-opengood
+b9f9033a319499de89159cd3742b57e6	Spikes Added (V20091118).a78	a78-opengood
+2d69c452d090d238812c7bcc3941b856	Star Wars X (Xevious Hack).a78	a78-opengood
+cbb0746192540a13b4c7775c7ce2021f	Summer Games (1987) (Atari) [!].a78	a78-opengood
+592f2b4c7e66e42d5525e6d1417c1838	Super Circus AtariAge by Bob DeCrescenzo (NTSC).a78	a78-opengood
+9f02c8a014d9fadfeea86301bf340ea8	Super Circus AtariAge by Bob DeCrescenzo (PAL).a78	a78-opengood
+162f9c953f0657689cc74ab20b40280f	Super Huey UH-IX (1989) (Atari) (PAL).a78	a78-opengood
+cc18e3b37a507c4217eb6cb1de8c8538	Super Huey UH-IX (1989) (Atari).a78	a78-opengood
+60e31a244984fd82e21d5e6cd7e1684c	Super Pac-Man by Bob DeCrescenzo (V20081031WIP_PAL).a78	a78-opengood
+bd32411595ee07da9eb679b7382cfb1a	Super Pac-Man by Bob DeCrescenzo (V20081031WIP).a78	a78-opengood
+61aa4a074ad08c524fbee88d15e369ea	Super Pac-Man by Bob DeCrescenzo (V2008xxxx_PAL).a78	a78-opengood
+7ab539bb0e99e1e5a1c89230bde64610	Super Pac-Man by Bob DeCrescenzo (V2008xxxx).a78	a78-opengood
+95d7c321dce8f57623a9c5b4947bb375	Super Skateboardin' (1989) (Absolute) (PAL).a78	a78-opengood
+59b5793bece1c80f77b55d60fb39cb94	Super Skateboardin' (1989) (Absolute) [!].a78	a78-opengood
+f2e42eaebe73b46bc14a0982bbef372d	Super Skateboardin' (1989) (Absolute) [o1].a78	a78-opengood
+2ba7ffb58607d52a5bda7b259d4c6a9c	Super Stunt Cycle (V19881118).a78	a78-opengood
+a70c0e38c01bd90c86a04ae31109360f	Swing1 Demo (PD).a78	a78-opengood
+646822c4ab307768cd19f8afc5dc8133	Swing1 Demo (V20040112) (PD).a78	a78-opengood
+29b5ed762d6839438e83b5407c4b14b2	Symbolic Debugger & Downloader (1988) (Atari) (Crypt Hack).a78	a78-opengood
+0d9452d4db4d1e1cf843f4f10605eb7d	Symbolic Debugger & Downloader (1988) (Atari).a78	a78-opengood
+f2e28e469ba9e47d629d7b12f34f6914	Tank Command - Box 32K by KevinMos3 (Hack).a78	a78-opengood
+5712fe1459418037ddd834c34fcbe083	Tank Command - Color Edit 128K by KevinMos3 (Hack).a78	a78-opengood
+1d26ad1ec48e5f1a494535eb73b222c6	Tank Command - Color+Sprite Edit 64K by KevinMos3 (Hack).a78	a78-opengood
+3632fcc732a33591b91f0eea2c01e599	Tank Command - Color+Sprite+Title Edit 128K by KevinMos3 (V20141221) (Hack).a78	a78-opengood
+7e56852eb922f2131cb927a2ccb2bf84	Tank Command - Color+Sprite+Title Edit 64K by KevinMos3 (V20141221) (Hack).a78	a78-opengood
+95907eafe790c6152ec5a46f066811fe	Tank Command - Explosions 32K by KevinMos3 (Hack).a78	a78-opengood
+f9ec86f9d916b30849380a24e903c5d8	Tank Command - Explosions1 32K by KevinMos3 (Hack).a78	a78-opengood
+7f602937e80be2af03ba5c318e381283	Tank Command - Midnight Run 128K by KevinMos3 (Hack) [f1] (MESS).a78	a78-opengood
+4184d4cf46ada268bfbe1d85edb84edd	Tank Command - Midnight Run 128K by KevinMos3 (Hack).a78	a78-opengood
+e61687c6af659661f97cabd48021dc27	Tank Command - Midnight Run 32K by KevinMos3 (Hack).a78	a78-opengood
+d0b87d349d6d5e40920cc4ff95253339	Tank Command - Midnight Run by KevinMos3 (V29141221) [f1] (MESS).a78	a78-opengood
+059d7016ebe176d574312fce31360649	Tank Command - Scheme 1 128K by KevinMos3 (Hack).a78	a78-opengood
+f00630c62f70cb8a87cbf19a70ac6613	Tank Command - Scheme 1 32K by KevinMos3 (Hack).a78	a78-opengood
+602e4c59bbe5fc8793aa8a962d267f66	Tank Command - Scheme 2 128K by KevinMos3 (Hack).a78	a78-opengood
+ab13ce20385d45962432d3eac9f15f21	Tank Command - Scheme 2 32K by KevinMos3 (Hack).a78	a78-opengood
+c52beeaff59e83f4fa1b1257264fb20a	Tank Command - Scheme 3 128K by KevinMos3 (Hack).a78	a78-opengood
+104a93dc5a033d766f93dac8eb0037e9	Tank Command - Scheme 3 32K by KevinMos3 (Hack).a78	a78-opengood
+d41b531e7c339c3abdb8cec4cd63f40f	Tank Command - Scheme 4 32K by KevinMos3 (Hack).a78	a78-opengood
+a8296d0a2329d7457a675cc0a3939089	Tank Command - Scheme 7 32K by KevinMos3 (Hack).a78	a78-opengood
+82021cbe554f8df226478a7f38e8a619	Tank Command - Scheme 8 32K by KevinMos3 (Hack).a78	a78-opengood
+5c4f752371a523f15e9980fea73b874d	Tank Command (1988) (Froggo) [!].a78	a78-opengood
+77f539ed1bb8d8654fba61d0f604a752	Tank Command (1988) (Froggo) [b1].a78	a78-opengood
+44f862bca77d68b56b32534eda5c198d	Tank Command (1988) (Froggo) [o1].a78	a78-opengood
+034cf419e3f02b8e938a5077595c3bbc	Titan-Man by Justin De Lucia (Ms. Pac-Man Hack).a78	a78-opengood
+3bb9c8d9adc912dd7f8471c97445cd8d	Title Match Pro Wrestling (1989) (Absolute) (PAL).a78	a78-opengood
+1af475ff6429a160752b592f0f92b287	Title Match Pro Wrestling (1989) (Absolute) [!].a78	a78-opengood
+016cfdf158c91c6373876612b0c69682	Title Match Pro Wrestling (1989) (Absolute) [o1].a78	a78-opengood
+682338364243b023ecc9d24f0abfc9a7	Tomcat - The F-14 (1989) (Absolute) (PAL).a78	a78-opengood
+c3903ab01a51222a52197dbfe6538ecf	Tomcat - The F-14 (1989) (Absolute) [!].a78	a78-opengood
+208ef955fa90a29815eb097bce89bace	Touchdown Football (1988) (Atari).a78	a78-opengood
+32a37244a9c6cc928dcdf02b45365aa8	Tower Toppler (1988) (Atari) (PAL).a78	a78-opengood
+8d64763db3100aadc552db5e6868506a	Tower Toppler (1988) (Atari) [!].a78	a78-opengood
+d12e665347f354048b9d13092f7868c9	Tower Toppler (1988) (Atari) [o1].a78	a78-opengood
+0cfa57a16925a23dc42c4cff0cda9384	Trapper by RSS Bot (V20111021).a78	a78-opengood
+70fbf08faf3eb34da062cfc864a33bf5	Tubes by Bruce Tomlin (V2004) (PD).a78	a78-opengood
+f609337024fee090b14539d25b8864f0	Tubes by Bruce Tomlin (V20041103_Signed) (PD).a78	a78-opengood
+e6bd92d2358c7d717c79390daf97f02a	Tubes by Bruce Tomlin (V20041103) (PD).a78	a78-opengood
+e996ad8642204921a61cab303632d0e6	Tubes by Bruce Tomlin (V20050405) (PD).a78	a78-opengood
+b9d9e3867386f5bc54674518df892e16	Tubes by Bruce Tomlin (V20050807) (PD).a78	a78-opengood
+c5208b29102215b872c6c5ee0313fca6	Tubes by Bruce Tomlin (V20050809) (PD).a78	a78-opengood
+b3ab4dbfee166255b0d2ad15de041600	UFO Invaders (Hack) (PAL).a78	a78-opengood
+68561184f6c04d40333f831085b02e1b	UFO Invaders (Hack).a78	a78-opengood
+b1ec7bd809ab3deb746c5a5eb2efaecb	UFO! by Steve Scavone (PD).a78	a78-opengood
+040a0260e1e0beb697edf8b6731507b4	Ultra Pacman by Bob DeCrescenzo (Older) (PD) [t1] (Fast).a78	a78-opengood
+04ec2031be7e877d28be8c90c54d6cc7	Ultra Pacman by Bob DeCrescenzo (PD) [t1] (Fast).a78	a78-opengood
+f85d506f5933427c8de664be0c5510a3	Ultra Pacman by Bob DeCrescenzo (PD).a78	a78-opengood
+3257d492ed7a3f674047248d280ec470	Visage - Mind of a Toy (Music) (PD).a78	a78-opengood
+c62632545c91823f72f6f14b19766804	WarBirds by Steve Scavone (PD).a78	a78-opengood
+431ba86b75b9a5e51fde4091a5d1cc90	Wasp! by Mark Ball (V20090402_1.01) (PD).a78	a78-opengood
+deacb3d692fc9f36788b61816cf95f89	Wasp! by Mark Ball (V20090404_1.02) (PD).a78	a78-opengood
+a384deaa96b98d55082472adc9d431a5	Wasp! by Mark Ball (V20090404_1.03) (PD).a78	a78-opengood
+a611145d3d43b4e1d2cc453f903a4d47	Wasp! by Mark Ball (V20090405_1.04) (PD).a78	a78-opengood
+b34e1c456da86779b46ce7351f8d945a	Wasp! by Mark Ball (V20090407_1.05) (PD).a78	a78-opengood
+412cc5bfa08bd03244b9c4e8d46cd0a0	Wasp! Standard Edition by Mark Ball (PD).a78	a78-opengood
+a44ac2e43b7f20573ba763ba32a0cde3	Water Ski (1988) (Froggo) [b1].a78	a78-opengood
+acf63758ecf3f3dd03e9d654ae6b69b7	Water Ski (1988) (Froggo) [o1].a78	a78-opengood
+427cb05d0a1abb068998e2760d77f4fb	Water Ski (1988) (Froggo).a78	a78-opengood
+074d9f5aa9ec13798376325ec72aa6bf	Water Ski (Color Edit 128k) (Hack) [t1].a78	a78-opengood
+75b940cc3d87c609c485ad1d869d7382	Water Ski (Color Edit 128K) (Hack).a78	a78-opengood
+9ec1925e31d1d364fa01d7dca4f75577	Water Ski (Color Edit 64k) (Hack).a78	a78-opengood
+8b49549763f4f0e42a23942b8df6b248	Water Ski (Title+Color+Realign 128k) (Hack) [t1].a78	a78-opengood
+40913dcf24a623c1dc2495a1c4931b48	Water Ski (Title+Color+Realign 128k) (Hack).a78	a78-opengood
+a7a418d0199b20b2ee44e188e141cabd	Water Ski (Title+Color+Realign 64k) (Hack).a78	a78-opengood
+3799d72f78dda2ee87b0ef8bf7b91186	Winter Games (1987) (Atari) [!].a78	a78-opengood
+90fa275f9f2a65b341796e11b2f551af	Winter Games (1987) (Atari) [a1] (Less Sounds).a78	a78-opengood
+5736315ad2137070119f3c7d72cdaba4	Worm! by Mark Ball (V1.09_20100220).a78	a78-opengood
+ef04cf8629e471dcfe3d6edb36b3f676	Worm! by Mark Ball (V1.11_20100224).a78	a78-opengood
+b9260cffc234bc14d2e7a0e6ce4e1f04	Worm! by Mark Ball (V1.12_20100225).a78	a78-opengood
+ce61f014dbe207e74ece6a7d47543062	Worm! by Mark Ball (V1.14_20100226).a78	a78-opengood
+4edfbd7c798fe770155f1ef7d4ad42de	Worm! by Mark Ball (V1.15_20100302).a78	a78-opengood
+6813ffff510f930c867b3f0aba78ac85	Worm! by Mark Ball (V1.16_20100307).a78	a78-opengood
+cdca32a7d30df5cf301723bcd3625dc0	WWE Title Match (Alt Colors) (Hack).a78	a78-opengood
+c1b6a707005f86c2c074bc11a7d9004e	WWE Title Match (Hack).a78	a78-opengood
+70937c3184f0be33d06f7f4382ca54de	Xenophobe (1989) (Atari) (PAL).a78	a78-opengood
+05fb699db9eef564e2fe45c568746dbc	Xenophobe (1989) (Atari) [!].a78	a78-opengood
+e7b63886eb6d978379026624f4b2706a	Xevious - Title Edit (Hack) [t1].a78	a78-opengood
+d2029661a534cc4f8c294be4f85ed5fb	Xevious - Title+Color Edit (Hack) [a1].a78	a78-opengood
+4212c009c6d8cec963929e61456cb8eb	Xevious - Title+Color Edit (Hack) [a2].a78	a78-opengood
+504d34cae42010836728d5c8d5c22e39	Xevious - Title+Color Edit (Hack).a78	a78-opengood
+b1a9f196ce5f47ca8caf8fa7bc4ca46c	Xevious (1987) (Atari) (PAL).a78	a78-opengood
+dbbe99aeeb8cbc0f5f17cd0082d260a0	Xevious (1987) (Atari) (Prototype).a78	a78-opengood
+d7dc17379aa25e5ae3c14b9e780c6f6d	Xevious (1987) (Atari).a78	a78-opengood
+f3688ed87d5231fbe41b4bd3fc6ebf38	Xevious Insane (V20061120) (Hack).a78	a78-opengood
+919b12581436b57914003f56d0eb28c7	Xevious Insane (V20061126) (Hack).a78	a78-opengood
+c085dbff84c19144383a1fa32782965b	Xevious Insane (V20061220) (Hack).a78	a78-opengood
+f6bb2a55cc74a35e5f80c379bac1db9e	Xevious Insane (V20070102) (Hack).a78	a78-opengood
+b0f61de8c5e0db380a0536cbc2ff3d89	Xevious Insane (V20070102old) (Hack).a78	a78-opengood
+7db031f1c4dc957719812fe68ee42531	Xevious X (Hack) (PAL).a78	a78-opengood
+88bccaca6de1117d03b39c613537c2ab	Xevious X (Hack).a78	a78-opengood
+8e0c5fc77b27422a39d86ac2e57dc73d	XmasTime (V20061225) (Beef Drop Hack).a78	a78-opengood
+f8adc537ac7e219c9a939621f79aeac4	Zelda Demo (V20020623).a78	a78-opengood
+008d4b67ea0d03500a0c8b8e2bc84f80	Zevious (V20130310) (Xevious Hack).a78	a78-opengood
+9235ef7066c7b1c341d00a45f7501f5f	Zevious (V20130311) (Xevious Hack).a78	a78-opengood
+eed4fe80ae4645293efd2e3e7c801ed6	Zevious (V20130321) (Xevious Hack).a78	a78-opengood
+ec0f14446e2b2dd6656adb2921cde1f4	Zevious (V20130326) (Xevious Hack).a78	a78-opengood

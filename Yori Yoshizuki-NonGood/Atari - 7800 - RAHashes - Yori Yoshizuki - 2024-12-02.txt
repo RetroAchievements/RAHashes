@@ -1,0 +1,597 @@
+80d6191c06a40ce0e99047d95acad334	2015-05-25-graze.bas.a78	a78-yoriyoshizuki
+967caadaed742a92747e037ae46ee8a0	2015-08-14-graze.bas.a78	a78-yoriyoshizuki
+de9ac022accdcf468c3a98bb14560e39	2015-09-04-graze.bas.a78	a78-yoriyoshizuki
+38a57fdfa8970437f23c10f0dac941c2	2015-09-25-2-rpgtiledemo.bas.a78	a78-yoriyoshizuki
+471364e6fe661d7b0bf3631ca3797f87	2015-11-20-graze-nov20-test.bas.a78	a78-yoriyoshizuki
+f96f76375416c5e9984426ddb99cde70	2016-01-29-graze.bas.a78	a78-yoriyoshizuki
+6d233d31c6b60a238c873541355deeae	2016-03-20-graze.bas.a78	a78-yoriyoshizuki
+a59b58bb5633d278c18de2189a4df26a	2016-06-09-graze.bas.a78	a78-yoriyoshizuki
+eddc624a70f70fd9dcbc95447c8f0cbf	2017-09-02-graze.bas.a78	a78-yoriyoshizuki
+6615def5d8a4ba139d18258b824de5ca	3D Maze Game (20170318).a78	a78-yoriyoshizuki
+2634936d91afc928819f863133e074bb	3D maze wip1.a78	a78-yoriyoshizuki
+9e0b669cc89942ebaee241877fa263f8	3D maze wip2.a78	a78-yoriyoshizuki
+2f6353e47a48a5cf258c28c6c4a36801	3D maze wip3.a78	a78-yoriyoshizuki
+0a726111c2493bf6bd359ea35031b652	3D maze wip4.a78	a78-yoriyoshizuki
+aa298733769646d26defa62cb19a83d6	7800 Controller Based Select and Reset (and a joystick test) (sticktest.bas) (2014.12.17 07.34).a78	a78-yoriyoshizuki
+89e7b20e7e0c629d00c6ca68949a216f	7800 Test (NTSC) (20140406).a78	a78-yoriyoshizuki
+b4498bc576ae50e5215e90da92716fdd	7800 Test (PAL) (20140406).a78	a78-yoriyoshizuki
+f5150c0fc1948832211e57852abb0c6e	7800 Utility Cart (20161210).a78	a78-yoriyoshizuki
+35b3696edaac313ec3fa35ee91b18a1c	7800Basic Horizontal Scrolling (scroll.bas) (2015.03.07 12.58).a78	a78-yoriyoshizuki
+7b99dcc07cd84d36f6ac50adab07dcb7	7800Basic Horizontal Scrolling (scroll) (2015.03.07 12.58) (scroll.bas).a78	a78-yoriyoshizuki
+d68e65ffbf8b129db24a4c10e4bf4d17	7800demo_NO_DLI.a78	a78-yoriyoshizuki
+d1f28c8975a7b14c8e10c8904e8ae053	7800demo.a78	a78-yoriyoshizuki
+c18cbe5607902a980ad8cf02e6da5221	7800utilitycart.32k.a78	a78-yoriyoshizuki
+5837c4ac8b481fb98381adfd2fe87969	A Warm Welcome (POKEY Music Demo) (20130612).a78	a78-yoriyoshizuki
+aadde920b3aaba03bc10b40bd0619c94	Ace of Aces (PAL) (Atari) (1988).a78	a78-yoriyoshizuki
+05b04e9822a75ceeeaa2eb106ffe768e	Adventure Map Demo (20141230).a78	a78-yoriyoshizuki
+31a0b26699b7ee195fa0b47473c7d29d	Adventurer (Sample) (20140301).a78	a78-yoriyoshizuki
+502775a8f47ebbcca8916663a569c029	Adventurer Scroll Demo (20150307).a78	a78-yoriyoshizuki
+0dca2185f8f16f56353cef6141265026	Adventurer Scroll Demo (v2) (20150312).a78	a78-yoriyoshizuki
+69167cda674aa1d7660d0c89d5fd0fdb	Aim (Demo) (20150731).a78	a78-yoriyoshizuki
+877dcc97a775ed55081864b2dbf5f1e2	Alien Brigade (NTSC) (Joystick) (Atari) (1990).a78	a78-yoriyoshizuki
+de3e9496cb7341f865f27e5a72c7f2f5	Alien Brigade (PAL) (Joystick) (Atari) (1990).a78	a78-yoriyoshizuki
+ab6535eee446045a70a6ab42aad32861	Allura (Picture Demo) (20170126).a78	a78-yoriyoshizuki
+10ff87ebfeec99858cc80293b0c1686e	Alpha Race (20150920).a78	a78-yoriyoshizuki
+35f36c8312024f8af5dd8e69d10d8d69	animation problem (slots.bas) (2014.12.21 11.21).a78	a78-yoriyoshizuki
+f176c35abd425cc40bed56d171b4637c	ardemo.bas(1).a78	a78-yoriyoshizuki
+0a9e58ef5eb9ff93246e0fff684dc7f1	Arkanoid (20110911).a78	a78-yoriyoshizuki
+89b8b3df46733e0c4d57aeb9bb245e6f	Armor Attack II (20130416).a78	a78-yoriyoshizuki
+0b73444d901773638b73bf035e16e81d	Asterix (Hack) (20110401).a78	a78-yoriyoshizuki
+608fa599f06f935e05d445ff236f6d7a	Asterix Quest (Hack) (20161224).a78	a78-yoriyoshizuki
+07342c78619ba6ffcc61c10e907e3b50	Asteroids (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+9e32c73ed8ddcaa00498dc3054b5b52d	Asteroids 3D 16K (2013).a78	a78-yoriyoshizuki
+a65f79ad4a0bbdecd59d5f7eb3623fd7	Asteroids Deluxe (NTSC) (20071014).a78	a78-yoriyoshizuki
+1baf41de200f26ec643625021290bec2	Asteroids Deluxe (PAL) (20071014).a78	a78-yoriyoshizuki
+3de805e09da58b856125da3c8eec732c	Asteroids, 3D (NTSC) (Hack) (20131104).a78	a78-yoriyoshizuki
+3e128cbd1bd5a4b446bad666e8943692	Astro Blaster RC6 (2014-01-18).a78	a78-yoriyoshizuki
+92c175b3e0ed1d5f24baa7b051a777f1	Astro Blaster RC7 (2014-01-19).a78	a78-yoriyoshizuki
+41091663f8ea4c959c44367c70633343	Astro Blaster RC8 (2014-01-23).a78	a78-yoriyoshizuki
+3d38281ed8a8d8c7cd457a18c92c8604	Astro Blaster RC9 (2014-02-02).a78	a78-yoriyoshizuki
+a51e5df28a0fe8c52e9d28fb5f8e44a6	Astro Fighter (AstroFighter) (2015.07.26 07.58).a78	a78-yoriyoshizuki
+9a5451e0e67526902f76c32cd5764c33	Asuka Sky (Picture Demo) (20170126).a78	a78-yoriyoshizuki
+0b180873142fd08b08c2c50e4ea308e2	Asuka Surf (Picture Demo) (20170126).a78	a78-yoriyoshizuki
+143cf76725a1c7e0dfce25f96ad74c1c	AtariVox Speech Test (20151021).a78	a78-yoriyoshizuki
+a6c02ae92d6937cb885f6909c0a8a2e1	Atlas 7800 (20111023).a78	a78-yoriyoshizuki
+13478a0b3733697c062b90236e9c2342	Baby Pac-Man (2013)[a].a78	a78-yoriyoshizuki
+120817a77f563d16408445e588c62198	Baby Pac-Man (Uki) (Hack) (20140422).a78	a78-yoriyoshizuki
+1feb0919fed6a5e30361d0a36f3a877b	babypacuki.a78	a78-yoriyoshizuki
+8fc3a695eaea3984912d98ed4a543376	Ballblazer (NTSC) (Atari-Lucasfilm) (1987).a78	a78-yoriyoshizuki
+42682415906c21c6af80e4198403ffda	Barnyard Blaster (NTSC) (Atari) (1988).a78	a78-yoriyoshizuki
+babe2bc2976688bafb8b23c192658126	Barnyard Blaster (PAL) (Atari) (1988).a78	a78-yoriyoshizuki
+70fd7820c63d98d84e5ae18917c6d568	Batman (Picture Demo) (20170126).a78	a78-yoriyoshizuki
+a8458c510fdd71a1f9cc4c0b243b177a	Battlezone (NTSC) (20160208).a78	a78-yoriyoshizuki
+42fa4bd854a2813b19099da524461a64	Battlezone (PAL) (20160208).a78	a78-yoriyoshizuki
+c359037e2a32b6bed329adeb0159cff7	Bear Arms (Alpha) (20140523).a78	a78-yoriyoshizuki
+aefb78276913e8a166e460222e378fec	Beef Drop (Demo) (20070819).a78	a78-yoriyoshizuki
+6010a398070dfacb4c0173d75d73c50a	Beef Drop (New Levels) (Hack) (20061225).a78	a78-yoriyoshizuki
+707e98991390a4e8874508e5ed4edeef	Bentley Bear - Crystal Quest NTSC 20131031_RC6_XM.a78	a78-yoriyoshizuki
+ad35a98040a2facb10ecb120bf83bcc3	Bentley Bear - Crystal Quest NTSC 20131101_RC6.a78	a78-yoriyoshizuki
+1926b9b322ac0f8f36e119b524aa48bd	Bentley Bear - Crystal Quest PAL 20131031_RC6_XM.a78	a78-yoriyoshizuki
+3e4b11a99271fd807b5c6db411dc6643	Bentley Bear - Crystal Quest PAL 20131101_RC6.a78	a78-yoriyoshizuki
+34483432b92f565f4ced82a141119164	Bentley Bear's Crystal Quest (20151220).a78	a78-yoriyoshizuki
+c4ea1ff3648118150ce2d1c57e22dd1a	Bleach Pac (Hack)(2013).a78	a78-yoriyoshizuki
+d24a8b49ae091193cc0364a570e4d6ae	Bleach Pac-Man (Hack) (20160917).a78	a78-yoriyoshizuki
+fb805af5b8ee40203df122e21dd94018	BlocDrop (20130310).a78	a78-yoriyoshizuki
+4307a86b0d23d171c3b40bcdbe7638fd	bonQ (Demo) (20070616).a78	a78-yoriyoshizuki
+4a8a22cff154f479f1ddaa386f21fc39	Boom (v1_5) (20150526).a78	a78-yoriyoshizuki
+56cd3b40ceb8f82e45c8fb60ccb40256	Bouncing Balls (Demo) (20070330).a78	a78-yoriyoshizuki
+9f5bbb4b42b4042f6f465953710788b6	Bullet Festival (20150831).a78	a78-yoriyoshizuki
+18fa4322c30a5246a6da921ee0c02734	Buttons (Picture Demo) (20170126).a78	a78-yoriyoshizuki
+e1faa1765c795dda776aaec395e8fc9d	Capcom Vs SNK (Picture Demo) (20170121).a78	a78-yoriyoshizuki
+580db13b820b7a46c4c4b39685469982	Caterpiller (Hack) (20090828).a78	a78-yoriyoshizuki
+5a09946e57dbe30408a8f253a28d07db	Centipede (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+e11ff2269327673f2d2aa42d01385c09	Centipede (Tball) (Hack) (20050630).a78	a78-yoriyoshizuki
+20660b667df538ec32a8e1b998438604	Centipede Frameless (Hack) (20150114).a78	a78-yoriyoshizuki
+9acf6cd5e4f7c3c32a24b584893f41e4	Centipede Frameless (v2) (TBall) (Hack) (20150114).a78	a78-yoriyoshizuki
+1e3618f11da5ee15924feac90dd1d0ac	Centipede PMI (TBall) (20150927).a78	a78-yoriyoshizuki
+3d5ee8174ed79a82059331e0e430c196	Centipede REV (PAL) (Hack) (20151003).a78	a78-yoriyoshizuki
+edf6d9e8ac8d8ad60449dfbf9fd45c72	Centipede REV (TBall) (Hack) (20151003).a78	a78-yoriyoshizuki
+8b4721b786f2575b6dbc9be87cb7ff14	centipede_ntsc_rev_16k.a78	a78-yoriyoshizuki
+5057ff01cdcd70f42961f8cab63b63a3	Centipede+ (TBall) (NTSC) (Hack) (20130108).a78	a78-yoriyoshizuki
+e5582caf6b9088fff1107396b52b9123	ChampPac SJB (Hack) (20130420).a78	a78-yoriyoshizuki
+993d034677b88612835bc8e566c578be	Chicago Basement (20160914).a78	a78-yoriyoshizuki
+f23d805b7747ff7c0bfc6df173a2f0c7	Choplifter (HUD) (Hack) (20130921).a78	a78-yoriyoshizuki
+93e4387864b014c155d7c17877990d1e	Choplifter (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+59d4edb0230b5acc918b94f6bc94779f	Choplifter (PAL) (Atari) (1987).a78	a78-yoriyoshizuki
+1f5743dcdd1092d3089fc30dda4910a5	Choplifter (Wings) (Hack) (20130921).a78	a78-yoriyoshizuki
+3f87a884858870efa98731834ba42c0e	Clean Sweep (2016208).a78	a78-yoriyoshizuki
+8acfefbbd5d4779d796ef35b6b85b64c	Clean Sweep (Hack) (20130502).a78	a78-yoriyoshizuki
+bd3d32af937111020975494d064484b1	Clean Sweep (Vectrex Edition) (Hack) (20151204).a78	a78-yoriyoshizuki
+8752380146246883535387d2c7745b62	Color (Demo) (20091107).a78	a78-yoriyoshizuki
+7b58f7be78ed22e1090ab24b269b746e	Color Grid (20030527).a78	a78-yoriyoshizuki
+2e8e28f6ad8b9b9267d518d880c73ebb	Commando (NTSC) (Atari) (1989).a78	a78-yoriyoshizuki
+bb8bab7ff1817e9f5247b8634f93d697	Cosmic Cruncher (Hack) (20141220).a78	a78-yoriyoshizuki
+b1da63d1113d43f1536c75a25fd8e3f4	cosmiccruncher.a78	a78-yoriyoshizuki
+db691469128d9a4217ec7e315930b646	Crack'ed (NTSC) (Atari) (1988).a78	a78-yoriyoshizuki
+7cbe78fa06f47ba6516a67a4b003c9ee	Crack'ed (PAL) (Atari) (1988).a78	a78-yoriyoshizuki
+299d31c8e181fdd011df2014451bdf0f	Crazy Brix (Joystick) (20160427).a78	a78-yoriyoshizuki
+7b81c2876210713cdac916ecaed34168	Crazy Brix (SP).a78	a78-yoriyoshizuki
+2d2fe4da9f1bae102fa8ca2d8830a626	Crazy Otto (NTSC) (20100612).a78	a78-yoriyoshizuki
+1ae0b27d47f19d59652168fad3966375	Crazy Otto (PAL) (20100612).a78	a78-yoriyoshizuki
+a94e4560b6ad053a1c24e096f1262ebf	Crossbow (NTSC) (Joystick) (Atari) (1988).a78	a78-yoriyoshizuki
+63db371d67a98daec547b2abd5e7aa95	Crossbow (PAL) (Joystick) (Atari) (1988).a78	a78-yoriyoshizuki
+bfb5ac5f3de019e7aff8146bcc1a3142	Cubicle Chaos (20141205).a78	a78-yoriyoshizuki
+35db69d8189dc405f42d6f2d7ac960ba	cubicle.bas.a78	a78-yoriyoshizuki
+84c0787708ba24bdc3d274cefb9e50d1	Damaged Pac (Hack) (20130422).a78	a78-yoriyoshizuki
+8afb6509645ffdf2da9a14a78bd6ded7	Dark Tower (Demo) (20130506).a78	a78-yoriyoshizuki
+408c9319396279a4161a8da8d604b574	DeathMerchant_1.0.a78	a78-yoriyoshizuki
+77f4eea33705389a38c846081c7355fc	Defender_20150912.a78	a78-yoriyoshizuki
+a6d71162d90597e4cb1af08463a7590f	Defender.a78	a78-yoriyoshizuki
+95ac811c7d27af0032ba090f28c107bd	Desert Falcon (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+9ea73fd07e43f61209876d33e6f6dc04	Desert Falcon (Prototype) (NTSC).a78	a78-yoriyoshizuki
+91041aadd1700a7a4076f4005f2c362f	Diagnostic Test Cartridge (19xx) (Atari).a78	a78-yoriyoshizuki
+238bab817ac761314935b2ef870e8c35	Dig Dog (NTSC) (Harp) (Hack) (20130103).a78	a78-yoriyoshizuki
+54829fb744d4cd7a794ccd2580df7c3d	Dig Dog (PAL) (Harp) (Hack) (20130103).a78	a78-yoriyoshizuki
+dbb493bdc4e98436dbbfd4f2e4413397	Dig Dog (PAL) (No Harp) (Hack) (20130103).a78	a78-yoriyoshizuki
+731879ea82fc0ca245e39e036fe293e6	Dig Dug (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+19f1ee292a23636bd57d408b62de79c7	Donkey Kong (NTSC) (Atari) (1988).a78	a78-yoriyoshizuki
+79f9692678818179554672fe4cf9b8a2	Donkey Kong Jr (Graphics Hack) (20140927).a78	a78-yoriyoshizuki
+9e8c1ffabc1a138c31f32b94331b348e	Donkey Kong Jr (Hack).a78	a78-yoriyoshizuki
+cb95fa5098f159affd74ec026cc6bede	Donkey Kong Jr (Hack)wip1.a78	a78-yoriyoshizuki
+5e332fbfc1e0fc74223d2e73271ce650	Donkey Kong Jr (NTSC) (Atari) (1988).a78	a78-yoriyoshizuki
+cf3c5a32205506af3c09e6e0c82cfa09	Donkey Kong PK-XM (Concerto) (Demo) (20161229).a78	a78-yoriyoshizuki
+c956d5ce7417cc2dab61a9afd8f372d0	Donkey Kong PK-XM (NTSC) (Demo) (v1.2) (20130905).a78	a78-yoriyoshizuki
+df700753d8ba9353a7045868778eef6d	Donkey Kong PK-XM (PAL) (Demo) (v1.2) (20130905).a78	a78-yoriyoshizuki
+fbfd82392bc459cf62c2e3b8770779e2	Double Buffer Demo (20170415).a78	a78-yoriyoshizuki
+076e273cb463c015316b4d7fb063c62d	Double Dragon (Blue).a78	a78-yoriyoshizuki
+57ed3d6aa8cfdde5ece77d6211ad1d06	Double Dragon (Graphics Demo) (20170121).a78	a78-yoriyoshizuki
+543484c00ba233736bcaba2da20eeea9	Double Dragon (NTSC) (Activision) (1989).a78	a78-yoriyoshizuki
+cb6f27c7bcbe65b60595d6f54bd39348	Double Dragon (RC4).a78	a78-yoriyoshizuki
+0768270014e697eae1062a340b63bfd8	Double Dragon (RC5).a78	a78-yoriyoshizuki
+7d1a119cec58d483661609d6c23df90a	Double Dragon (RC6).a78	a78-yoriyoshizuki
+59ca19c4b024fdfcd25b75ac836c7749	Double Dragon (RC7).a78	a78-yoriyoshizuki
+098b209aac126f2c2edbc982df09cd1b	Double Dragon (RC7b) (20170616).a78	a78-yoriyoshizuki
+a96194d94561154222dcadfe9a81eb43	Double Dragon (Red).a78	a78-yoriyoshizuki
+4565867aa6e5cc710a7edaf6d434b3af	Double Dragon (Sprite Test 2) (Hack) (20140922).a78	a78-yoriyoshizuki
+fe519e4b534b64ee2efc1eb9310101c6	Double Dragon (Sprite-Color Hack).a78	a78-yoriyoshizuki
+522cd46832417705e340dd0e7941352a	Double Dragon (Sprite-Color Hack)RC1.a78	a78-yoriyoshizuki
+ed9e8fce847fbcaa2f47affbbf8205a3	Double Dragon (Sprite-Color Hack)RC2.a78	a78-yoriyoshizuki
+e52773e15d22832d2df8ebdde5323e93	Double Dragon (Sprite-Color Hack)RC3.a78	a78-yoriyoshizuki
+afd6ea83354d012fd520c33ed1df607a	Double Dragon (Sprite-Color Hack)v2.a78	a78-yoriyoshizuki
+2c260c9bb6dc243d2a07559f78cc493f	Double Dragon (Title Picture Demo) (20170121).a78	a78-yoriyoshizuki
+b89cef619b13c24a9aa4fc94443371b3	Double Dragon (Walking Demo) (20170130).a78	a78-yoriyoshizuki
+fab1290f9a4c4f2b4d831c8a57f969f5	Draker Quest (Beta 4) (20150727).a78	a78-yoriyoshizuki
+a9f29004412621f20ad9f5c51cc11486	Draker Quest II (20170619).a78	a78-yoriyoshizuki
+fa4aec407b90e9360b9cfeb41839b09a	Dual Pac-Man (Hack) (20050902).a78	a78-yoriyoshizuki
+c6084436c652cf6bea41e653d82c5921	Dungeon Stalker - a new Atari 7800 Game (DS_Old_Versions) (2015.07.22 08.09) (DungeonStalker_1.190).a78	a78-yoriyoshizuki
+b3143adbbb7d7d189e918e5b29d55a72	Dungeon Stalker (20151022).a78	a78-yoriyoshizuki
+9b9755cd98d8f70414474a7a82eb7468	Dungeon Stalker (version 1.157).a78	a78-yoriyoshizuki
+e077fdc8e41c56ce5bd61ea207e94b3f	Dungeon Stalker (version 1.158).a78	a78-yoriyoshizuki
+11248e52a2a42fddbe25b048d31579cc	Dungeon Stalker (version 1.159).a78	a78-yoriyoshizuki
+0163a3071dd99273dcab98a201f2e703	Dungeon Stalker (version 1.160).a78	a78-yoriyoshizuki
+1856b68849b02959434aa3f0fead3843	Dungeon Stalker (version 1.161).a78	a78-yoriyoshizuki
+f26f37efa1374c865112aa2e3e008b22	Dungeon Stalker (version 1.162).a78	a78-yoriyoshizuki
+a57a980c175d25aaf5841ddbd971a33e	Dungeon Stalker (version 1.163).a78	a78-yoriyoshizuki
+6532d670bcdccdd66e998e6fa3976d31	Dungeon Stalker (version 1.164).a78	a78-yoriyoshizuki
+4a4e9551ac1f818519e768831e99ec30	Dungeon Stalker (version 1.166).a78	a78-yoriyoshizuki
+55ab391faf745568866e5f4a4f4b5425	Dungeon Stalker (version 1.167).a78	a78-yoriyoshizuki
+5ae41075b3ad81b5d43391134864da78	Dungeon Stalker (version 1.168).a78	a78-yoriyoshizuki
+ae6f4b0ff4cf288c38f0b91050e1f722	Dungeon Stalker (version 1.169).a78	a78-yoriyoshizuki
+c05ba461afd6a8aaceacd3bf95386935	Dungeon Stalker (version 1.172).a78	a78-yoriyoshizuki
+305332f30f16cf5be40a98ef18a7b035	Dungeon Stalker (version 1.173).a78	a78-yoriyoshizuki
+8a11074cd942d598bcd49c88f10b8860	Dungeon Stalker (version 1.174).a78	a78-yoriyoshizuki
+635f0b2af08713d3cb1b452a8f2e602c	Dungeon Stalker (version 1.175).a78	a78-yoriyoshizuki
+0c049949c09e42c3500366d90985483c	Dungeon Stalker (version 1.176).a78	a78-yoriyoshizuki
+c12819c1f35d9d399b32496b3a2aa14f	Dungeon Stalker (version 1.177).a78	a78-yoriyoshizuki
+07ce92f01b438b83911f57d0d3f013d9	Dungeon Stalker (version 1.178).a78	a78-yoriyoshizuki
+981aee5180eff5f6786a29514b477a9c	Dungeon Stalker (version 1.179).a78	a78-yoriyoshizuki
+577a8bd6478ebb4528c4c609f59214a5	Dungeon Stalker (version 1.180).a78	a78-yoriyoshizuki
+b5a53b6052d17d38c32170507e07d125	Dungeon Stalker (version 1.181).a78	a78-yoriyoshizuki
+17f2c21d2415217996b59cbf74589e32	Dungeon Stalker (version 1.183).a78	a78-yoriyoshizuki
+0736516b4ea44136c19599337d6ef4ea	Dungeon Stalker (version 1.184).a78	a78-yoriyoshizuki
+6eb9210084ff0960e415ee0a650f1de4	Dungeon Stalker (version 1.185).a78	a78-yoriyoshizuki
+e65ed6f65168a09bf0096e3b95b80c17	Dungeon Stalker (version 1.186).a78	a78-yoriyoshizuki
+fd27fd0da296e2b3759e527ea1804666	Dungeon Stalker (version 1.188).a78	a78-yoriyoshizuki
+da9f982c050ffe3e80ec427b959f2b9d	Dungeon Stalker (version 1.189).a78	a78-yoriyoshizuki
+fb06d49da3131e66800f6df83cf5ad28	Dungeon Stalker (version 1.192).a78	a78-yoriyoshizuki
+b83b4c452c3ac737ec6ea6525ed2a264	Dungeon Stalker (version 1.194).a78	a78-yoriyoshizuki
+2163edf2d3e905ed549118b803a280cd	Dungeon Stalker (version 1.195).a78	a78-yoriyoshizuki
+66f9b25e0ceffd4e932b0e3e8107eb5a	Dungeon Stalker (version 1.196).a78	a78-yoriyoshizuki
+0881dd0e4f0ffb6611a55a10e936311f	Dungeon Stalker (version 1.197).a78	a78-yoriyoshizuki
+460f9d0f8e7f411b4eb048c154dc1092	Dungeon Stalker (version 1.198).a78	a78-yoriyoshizuki
+cf736ef15128f1e9de91638d61b26fa3	Dungeon Stalker (version 1.199).a78	a78-yoriyoshizuki
+adf035019ef77a1c5b191e0ee0d9f37f	Dungeon Stalker (version 1.201).a78	a78-yoriyoshizuki
+96b0d317b508b45afd180961f86c5348	Dungeon Stalker (version 1.202).a78	a78-yoriyoshizuki
+87d484d4c408e042102afbc9eaa4d282	Dungeon Stalker (version 1.203).a78	a78-yoriyoshizuki
+c8cb9073aae410a80acd5eb36500f93c	Dungeon Stalker (version 1.204).a78	a78-yoriyoshizuki
+dfd3dc956e71f2a889ebb7558ddefa9d	Dungeon Stalker (version 1.207).a78	a78-yoriyoshizuki
+67fc48afd4277b968be287b3465f1c2d	Dungeon Stalker (version 1.208).a78	a78-yoriyoshizuki
+d46abf3dc4530d2eab72df6f66582c50	Dungeon Stalker (version 1.209).a78	a78-yoriyoshizuki
+5648e2451cb3ea9433ac86bb4702a7e8	Dungeon Stalker (version 1.210).a78	a78-yoriyoshizuki
+d73240b4ec65318e5ae1fa82eae6db90	Dungeon Stalker (version 1.211).a78	a78-yoriyoshizuki
+dd01d72a88dcfa80ad4f22ae18f9fad4	Dungeon Stalker (version 1.212).a78	a78-yoriyoshizuki
+6037ce08782931bfd8e4d37c736a5e73	Dungeon Stalker (version 1.213).a78	a78-yoriyoshizuki
+ef8cda458a428c435b7469c0ccff3e46	Dungeon Stalker (version 1.214).a78	a78-yoriyoshizuki
+3689dda8d76309d2e5bffb66cd94e7c7	Dungeon Stalker (version 1.216).a78	a78-yoriyoshizuki
+4a28f9604a9a8223c334191a505462bc	Dungeon Stalker (version 1.218).a78	a78-yoriyoshizuki
+f0a3a79ff8db4350a205df26db640080	Dungeon Stalker (version 1.220).a78	a78-yoriyoshizuki
+17ebdb52bb2a46065a141f82c2e5c2ef	Dungeon Stalker (version 1.221).a78	a78-yoriyoshizuki
+581efc07bac72f651b72184aaa4f7915	Dungeon Stalker (version 1.222).a78	a78-yoriyoshizuki
+6ce0f356c9bb4826218b537d4850e422	Dungeon Stalker (version 1.223).a78	a78-yoriyoshizuki
+0f85c05ab7a129b17229011c1ffe5dec	Dungeon Stalker (version 1.224).a78	a78-yoriyoshizuki
+f0ec8500636c1dad54bc61abdc6ae1cf	Dungeon Stalker (version 1.226).a78	a78-yoriyoshizuki
+63b8196a5d69abda657245ed451ed990	Dungeon Stalker (version 1.227).a78	a78-yoriyoshizuki
+6a14c28bde2f2da0967697c71bd47c40	Dungeon Stalker (version 1.228).a78	a78-yoriyoshizuki
+618b2d4a5664252cac7b9da9201bfb3b	Dungeon Stalker (version 1.229).a78	a78-yoriyoshizuki
+21ebd54b6f46b7385b979b579c6c7d2b	Dungeon Stalker (version 1.230).a78	a78-yoriyoshizuki
+1ed1dc2fd30b2e55d10e1559b0780318	Dungeon Stalker (version 1.231).a78	a78-yoriyoshizuki
+2e8b7f2cf44d36eb1b814e8af202e205	DungeonStalker_1.232.a78	a78-yoriyoshizuki
+7603e221c72bc0e2486efece5d18917c	DungeonStalker_v1.243.a78	a78-yoriyoshizuki
+c33b32ac18d2fba17f78cae46a3fb42e	DungeonStalker_v1.245.a78	a78-yoriyoshizuki
+2a6b2424b7d18dd208ede8bff6bcd8cf	Enterprise (Picture Demo) (20170126).a78	a78-yoriyoshizuki
+253cd7325a1f454b68eede5136805f30	ET Book Cart (Demo) (20150524).a78	a78-yoriyoshizuki
+2251a6a0f3aec84cc0aff66fc9fa91e8	F-18 Hornet (NTSC) (Absolute) (1988).a78	a78-yoriyoshizuki
+e7709da8e49d3767301947a0a0b9d2e6	F-18 Hornet (PAL) (Absolute) (1988).a78	a78-yoriyoshizuki
+6287727ab36391a62f728bbdee88675c	FailSafe (NTSC) (20100227).a78	a78-yoriyoshizuki
+84c4b4ed75f41417ac7cbceac71e3856	FailSafe (PAL) (20100227).a78	a78-yoriyoshizuki
+0d34b6a8ad428bf95997cd03b95a7d0a	Falling (Demo) (20091107).a78	a78-yoriyoshizuki
+b0479c32eff527ad93b1a9558f5acff9	FASTeroids (NTSC) (Hack) (20131202).a78	a78-yoriyoshizuki
+0338fffc3391f74d30e6ab391d1b4c25	Fat Axl (20160613).a78	a78-yoriyoshizuki
+2fb85cab6e0f0582e3057bf1ac33c74a	Fatal Run (Graphics Hack) (RC1) (20140927).a78	a78-yoriyoshizuki
+d25d5d19188e9f149977c49eb0367cd1	Fatal Run (NTSC) (Atari) (1990).a78	a78-yoriyoshizuki
+23505651ac2e47f3637152066c3aa62f	Fatal Run (PAL) (Atari) (1990).a78	a78-yoriyoshizuki
+c720cd8d8a7ca495a9125aee6b74a13d	Field Hockey (Hack) (20140122).a78	a78-yoriyoshizuki
+33da8ea1b3cede8df470787ff6381685	fighter.bas 20160817.a78	a78-yoriyoshizuki
+bac78b53f4f6b3f68c0f8073f0073179	Flappy Bird (flappy) (2014.12.21 15.05) (flappy_beta).a78	a78-yoriyoshizuki
+cf76b00244105b8e03cdc37677ec1073	Food Fight (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+806e8b3ec1fd143c510207b2bffffd6e	Food Fight X (NTSC) (Hack) (20160724).a78	a78-yoriyoshizuki
+e7d89669a7f92ec2cc99d9663a28671c	Frenzy (w-Berzerk) (20131217).a78	a78-yoriyoshizuki
+dc90623e85fa481724c05f32c92d056f	Frogger (Demo) (20091107).a78	a78-yoriyoshizuki
+603c5f9cd8249de9a705284ea6ac0622	Froggie (20130616).a78	a78-yoriyoshizuki
+3e504a9da74dc5c171409c7815329ac8	froggie_ntsc_final.a78	a78-yoriyoshizuki
+2687580048aaab430feee5e0b545a8c7	Frogus (20170706).a78	a78-yoriyoshizuki
+3cfdbad1276dfe0328a418f037101a44	Fuzzipede (NTSC) (Hack) (20150919).a78	a78-yoriyoshizuki
+f8e722c9329af04ec5814cd31a42123b	Fuzzipede_NTSC_32K.a78	a78-yoriyoshizuki
+bcb0c55f47549c2b13796fb7eed06959	G2F Slideshow (Demo) (v1_00F) (20100206).a78	a78-yoriyoshizuki
+f0c62a1155956a0db0e41be2b97e4d75	Galaga (Graphics Hack) (20130320).a78	a78-yoriyoshizuki
+fb8d803b328b2e442548f7799cfa9a4a	Galaga (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+d6beb56ed0e75e70a89ff2557e562d19	GATO (198x) (Atari) (Prototype) (Alt 1).a78	a78-yoriyoshizuki
+97db562fb485eb82e85322e8557b98e8	GATO (198x) (Atari) (Prototype) (Alt 2).a78	a78-yoriyoshizuki
+06204dadc975be5e5e37e7cc66f984cf	GATO (198x) (Atari) (Prototype).a78	a78-yoriyoshizuki
+afc46303a7bef1b4721ddc118330fa86	Get Lost! (20130202).a78	a78-yoriyoshizuki
+72ebf517fe93efa24645e0a09aa2d23f	Ghosts Revenge (Hack) (20130501).a78	a78-yoriyoshizuki
+33205860dcb1530026f4291b03e0d6a7	Gobbler (Hack) (20130501).a78	a78-yoriyoshizuki
+3d12489c553cb1a90c8ebd6534383fa1	Gorf (20091213).a78	a78-yoriyoshizuki
+31fbcf03946e804fc2d77cca5d61c928	Graphics Modes Test (20100914).a78	a78-yoriyoshizuki
+3ce851e2f6ce8f9455797bf5331480cb	Graze (20160730).a78	a78-yoriyoshizuki
+2715df346dfd7e47d535048fbc46fe85	graze_2015-07-26.bas.a78	a78-yoriyoshizuki
+4e6e09a23c4fbefcf023e422cf7a3b31	graze_2015-11-01.bas.a78	a78-yoriyoshizuki
+ce8f109fe932c1ac5f29977094505d7c	Hallo (POKEY Music Demo) (20130612).a78	a78-yoriyoshizuki
+46dbc5108151e963b120cdaedd7d6d4c	Hangly-Man (Hack) (20050531).a78	a78-yoriyoshizuki
+d263c862b8c9d90a8de426133b699930	Happy Halloween (Demo) (20071031).a78	a78-yoriyoshizuki
+019a4e714837756ddbe5a868bfc0267f	Happy Halloween (No Year) (Demo) (20120812).a78	a78-yoriyoshizuki
+fd9e78e201b6baafddfd3e1fbfe6ba31	Hat Trick (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+25ce1f5dfc909bcb46086e414d6a0f30	Hearty Manslapper (20161129).a78	a78-yoriyoshizuki
+bbed9dc62d26e8b1faea98969f90f773	Hello World (Demo) (20091107).a78	a78-yoriyoshizuki
+00d8f419c55ebe4069f65a17d7fd47e0	Hockey (Hack) (20140122).a78	a78-yoriyoshizuki
+26578cedccc6c61984d5a55048a42d7d	Hollywood Brawler (20160811).a78	a78-yoriyoshizuki
+306e9f9b3d10c4a6a41f34a8f33ac5f4	How to Create Custom 7800 Pacman Hacks! (Ms. Pac-Man After Dark (WIP)) (2015.09.03 19.42).a78	a78-yoriyoshizuki
+f3443f41cfee790eb4ad3cb7b1580f23	How to Create Custom 7800 Pacman Hacks! (Ms. Pac-Man Vector (standard dots) (WIP)) (2015.09.05 16.15).a78	a78-yoriyoshizuki
+d0f7ea457794f4399c9fe7dfd456d6a8	How to Create Custom 7800 Pacman Hacks! (MsPacTwn) (2015.05.11 18.55).a78	a78-yoriyoshizuki
+39af15765c653f25316fe4e9c59ba4a8	How to Create Custom 7800 Pacman Hacks! (MsPacTwn) (2015.05.18 18.44).a78	a78-yoriyoshizuki
+345180f7728dd656d20a2a0743ff274e	How to Create Custom 7800 Pacman Hacks! (MsPacTwn) (2015.05.22 08.25).a78	a78-yoriyoshizuki
+c52491f790272770efa5e257dba13d23	How to Create Custom 7800 Pacman Hacks! (MsPacTwn) (2015.05.22 15.04).a78	a78-yoriyoshizuki
+0b7e8539440894d8f12efc7da22084e8	How to Create Custom 7800 Pacman Hacks! (MsPacTwn) (2015.05.22 18.16).a78	a78-yoriyoshizuki
+61809684eefd6cbb2963574ffb0a3fab	Humantron (Robotron - 2084 Hack)(2013).a78	a78-yoriyoshizuki
+ff433328d6c5c43385962264277ddedb	HunterS (Picture Demo) (20170121).a78	a78-yoriyoshizuki
+272bfa40991da3439fff1aecaed0372f	I Cat - Dig Dug Invincible Hack w Harpoon (2013)(NTSC).a78	a78-yoriyoshizuki
+272783e69ee07860e45aa9b652dc8c67	I Cat - Dig Dug Invincible Hack w Harpoon (2013)(PAL).a78	a78-yoriyoshizuki
+6d98c1de1c7e2b56811091f992be2e3d	I Cat - Dig Dug Invincible Hack w-o Harpoon (2013)(NTSC).a78	a78-yoriyoshizuki
+1a62d6da67e51b8fd8c9fbd811d6d9b0	I Cat - Dig Dug Invincible Hack w-o Harpoon (2013)(PAL).a78	a78-yoriyoshizuki
+346678062fb9f41d814c9ea46c87d743	i_Cat (NTSC) (Harp) (Hack) (20130124).a78	a78-yoriyoshizuki
+aa655a1c4a03a4a6e26015fcc4aa0c55	i_Cat (NTSC) (No Harp) (Hack) (20130124).a78	a78-yoriyoshizuki
+fa99949e42f6f41f9489c3860f3d23d4	i_Cat (PAL) (Harp) (Hack) (20130124).a78	a78-yoriyoshizuki
+b1d5f3f10193cf9fcc961acafa5a3a96	i_Cat (PAL) (No Harp) (Hack) (20130124).a78	a78-yoriyoshizuki
+bf070f04c8fc7ec721b9506b63b48470	Impossible Mission (Blue Graphics Hack) (20160905).a78	a78-yoriyoshizuki
+7d852889f398c3389acb6441e5b7ce3b	Impossible Mission (C64 Graphics Hack) (20160905).a78	a78-yoriyoshizuki
+4a811d87d1730a334a21e7bda9fe535a	Impossible Mission (Green Graphics Hack) (20160905).a78	a78-yoriyoshizuki
+baebc9246c087e893dfa489632157180	Impossible Mission (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+80dead01ea2db5045f6f4443faa6fce8	Impossible Mission (PAL) (Atari) (1987).a78	a78-yoriyoshizuki
+05c21a88fd736d59d28b1d95e79840b6	Impossible Mission (Red Graphics Hack) (20160905).a78	a78-yoriyoshizuki
+49e2af0732e4aacac9e63d552bd8a62f	Inky (Hack) (20150530).a78	a78-yoriyoshizuki
+045fd12050b7f2b842d5970f2414e912	Jinks (NTSC) (Atari) (1989).a78	a78-yoriyoshizuki
+dfb86f4d06f05ad00cf418f0a59a24f7	Jinks (PAL) (Atari) (1989).a78	a78-yoriyoshizuki
+f18b3b897a25ab3885b43b4bd141b396	Joust (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+9e16efced49d5df52d78ce8c17dd15a8	Jr Ms Pac (Hack) (20090705).a78	a78-yoriyoshizuki
+e54edc299e72d22d0ba05d16f3393e8c	Jr Pac-Man [NTSC] (20120924).a78	a78-yoriyoshizuki
+c3a5a8692a423d43d9d28dd5b7d109d9	Karateka (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+5e0a1e832bbcea6facb832fde23a440a	Karateka (PAL) (Atari) (1987).a78	a78-yoriyoshizuki
+6b8600aabd11f834448e910801f4e0bc	KC Munchkin (20140408).a78	a78-yoriyoshizuki
+927edf157f88b8f5863254d9a65f05a8	KC Munchkin (Alt Movement) (20170409).a78	a78-yoriyoshizuki
+09f5623b61788bbc7430151fbcb48018	Kessel Attack (Hack) (20080904).a78	a78-yoriyoshizuki
+5fb805f2b69820a9b196f5fed2a23c99	Klax (19xx)(Atari)(NTSC)(Prototype)(Fixed).a78	a78-yoriyoshizuki
+cd66343ab7792ea3206da4373f1c2a42	knight_rider.bas20130222.a78	a78-yoriyoshizuki
+c6ff1a963521d9c9e64d8f08bb8e16a7	knight_rider.bas20160214.a78	a78-yoriyoshizuki
+374ec46fc5325907610402db81c3f33b	knight_rider.bas20160216.a78	a78-yoriyoshizuki
+3a9a1c1bd05f5c8cca2681da33bc2801	knight_rider.bas20160223.a78	a78-yoriyoshizuki
+525eb9a58aee22de2fdadc98bb92f6ed	knight_rider.bas20160229.a78	a78-yoriyoshizuki
+3a7e483d8e7472ff5965834f7c954d4b	knight_rider.bas20160301.a78	a78-yoriyoshizuki
+c80c72e7c49024a5335791def655f996	knight_rider.bas20160306.a78	a78-yoriyoshizuki
+2c660ab60f559c076b88f201f278c11a	knight_rider.bas20160313.a78	a78-yoriyoshizuki
+ad9e61869f9fa40ff717a5bd88a524f4	knight_rider.bas20160314.a78	a78-yoriyoshizuki
+9f0008ef018d0ddf9f33bf6396fb331a	knight_rider.bas20160318.a78	a78-yoriyoshizuki
+4fc0b16e3a5c463790a04fb42a1e4c40	Kung-Fu Master (Graphics Hack) (RC2) (20160905).a78	a78-yoriyoshizuki
+ee4d284c2976bf74f3669f120cd2dfb4	Le Siti (NTSC) (Hack) (20150919).a78	a78-yoriyoshizuki
+013648a81e24e8cfb315fc304a8b11e5	Le Siti (PAL) (Hack) (20150919).a78	a78-yoriyoshizuki
+2dcee3c8f9d74a87075571fbc1647617	Mario Bros - Game Over (Sound Demo) (20140418).a78	a78-yoriyoshizuki
+9c6d5bdc469ede60618b8da7c02b4251	Mario Bros - Level Start (Sound Demo) (20140418).a78	a78-yoriyoshizuki
+33dbe62caa72c30f467bf3be79c9b6c2	Mario Bros - Shell Creeper Intro (Sound Demo) (20140418).a78	a78-yoriyoshizuki
+e4a2bdd61c39880d00272ddaaa6bdf97	Mario Bros - Title (Sound Demo) (20140418).a78	a78-yoriyoshizuki
+ba1882fa6699c989f513f6f4a3ae02eb	Mario Bros (Mario Right Hack) (v11).a78	a78-yoriyoshizuki
+431ca060201ee1f9eb49d44962874049	Mario Bros (NTSC) (Atari) (1988).a78	a78-yoriyoshizuki
+54c073ba8f39ef23f70dc07e76029de8	Mario Bros (Sprite Hack v4) (20160306).a78	a78-yoriyoshizuki
+ed65eee7c1a3733b623d4af0f2ac649b	Mario Bros 256 (NTSC) (Hack) (20131217).a78	a78-yoriyoshizuki
+9eb484247eac3417de607f7be2de0b26	Mario Bros 98 (NTSC) (Hack) (20131217).a78	a78-yoriyoshizuki
+932e99bedb4490b64987ac263bf174c9	mario-coinbonus.a78	a78-yoriyoshizuki
+91dcabf99380c4cf944f502717f81884	mario-coincount.a78	a78-yoriyoshizuki
+a6d648d618521ac87c1fe9b5a3f398dc	mario-coindrop.a78	a78-yoriyoshizuki
+1f11e9914c053cd3996e0e8e2ad90014	mario-coingrab.a78	a78-yoriyoshizuki
+a229b2fc13c5b7a64054eefdcce345e6	mario-cointimer.a78	a78-yoriyoshizuki
+b8366838f92a73723b89eae754f14a86	mario-crabdrop.a78	a78-yoriyoshizuki
+877640bdc3aacb6a402eff1e90107da2	mario-death.a78	a78-yoriyoshizuki
+75dc04613ea15d0732e1ba9ab990ecae	mario-extralife.a78	a78-yoriyoshizuki
+c256b15d96e7184f635acb10c56e06a3	mario-fireball-vanish.a78	a78-yoriyoshizuki
+50679b5d27bcbb0225ee29247e93781e	mario-fireball.a78	a78-yoriyoshizuki
+d1ba13c46982745491f90b05b6513dec	mario-flipenemy.a78	a78-yoriyoshizuki
+d7e7185a7cb3cf22ac51f1fe20689203	mario-flydrop.a78	a78-yoriyoshizuki
+bfa3a3503de4b0a505527d3167597711	mario-hitenemy.a78	a78-yoriyoshizuki
+8e9aaeb6c7425cab7f10686949e0c234	mario-icefreeze.a78	a78-yoriyoshizuki
+78ec86015091f0f59b1c40f05a8459d3	mario-icicledrop.a78	a78-yoriyoshizuki
+d3295f471bd3699b1cad28f9aeb69555	mario-jump.a78	a78-yoriyoshizuki
+18d1ccad1845db0228609952cb65df7d	mario-kick.a78	a78-yoriyoshizuki
+288df777a4046bc03caf22ff158e0e09	mario-kickfinal.a78	a78-yoriyoshizuki
+6cde31918c33d93cca175160ca8063e6	mario-levelstart.a78	a78-yoriyoshizuki
+7cc5be7e4809fe77c3ecfeffc50ee738	mario-liferestart.a78	a78-yoriyoshizuki
+45111564721fd76faea363eabdcd2b86	mario-powblock.a78	a78-yoriyoshizuki
+be27d944d4473800b26bacdbc56ba3d8	mario-second-intermission.a78	a78-yoriyoshizuki
+140f44e91fb40e9bf506551cbe818c3a	mario-shellcreeper-intro.a78	a78-yoriyoshizuki
+b14292b08eaa578657f8b12d935d034e	mario-slipice-emerge.a78	a78-yoriyoshizuki
+603c3ae69b2b548a59bca5b3b6c0d9d9	mario-splash.a78	a78-yoriyoshizuki
+c34fff5c93ec8f0d3e816369a6622a3f	mario-stop.a78	a78-yoriyoshizuki
+5699df2d4fdd38f0e49ee51d0baa466a	mario-turtle-drop.a78	a78-yoriyoshizuki
+e42459902526efa249c9c33ad4d94489	mario-walk1.a78	a78-yoriyoshizuki
+7ea91c578b76eeae584963215af69261	mario-walk2.a78	a78-yoriyoshizuki
+94b5177a150d2fd8ac5779952a4fcc09	Mariobros_7800_Arcade.a78	a78-yoriyoshizuki
+e3e3a50ef6322a1bd98468ad96f31c41	Mastersoft Munch (Hack) (20130420).a78	a78-yoriyoshizuki
+bedc30ec43587e0c98fc38c39c1ef9d0	Meltdown (NTSC) (Atari) (1990).a78	a78-yoriyoshizuki
+c80155d7eec9e3dcb79aa6b83c9ccd1e	Meltdown (PAL) (Atari) (1990).a78	a78-yoriyoshizuki
+114e215b8cfc8698bc0286a79e1cb9b2	Merry Christmas 2012 e-card (v1_10F) (20121227).a78	a78-yoriyoshizuki
+eb3c1443f4a25806de4657e106d504e8	Meteor Bath (RC2) (NTSC) (Hack) (20131213).a78	a78-yoriyoshizuki
+c3f6201d6a9388e860328c963a3301cc	Meteor Shower (NTSC) (20120218).a78	a78-yoriyoshizuki
+dc0bf52475030c05671dd187e9a99f08	Meteor Shower (PAL) (20120218).a78	a78-yoriyoshizuki
+bc1e905db1008493a9632aa83ab4682b	Midnight Mutants (NTSC) (Atari) (1990).a78	a78-yoriyoshizuki
+6794ea31570eba0b88a0bf1ead3f3f1b	Midnight Mutants (PAL) (Atari) (1990).a78	a78-yoriyoshizuki
+c641921c43259f266367e3eeef61d2b7	Millipede (NTSC) (Hack) (20150405).a78	a78-yoriyoshizuki
+03a6219a2e19f82f8e87d5541f30a4fb	Millipede (TBall) (NTSC) (Hack) (20150405).a78	a78-yoriyoshizuki
+5b9b22e43a081fd10222053b1d1901ed	Minipede (NTSC) (Hack) (20150808).a78	a78-yoriyoshizuki
+4431b2674706272d957e644103a556bf	Minipede (PAL) (Hack) (20150808).a78	a78-yoriyoshizuki
+211a8ad9fec38e806194633e30890ec8	Minipede (TBall) (Hack) (20150808).a78	a78-yoriyoshizuki
+dbc197d1038c6cadae5b0d57ceb4512b	Mister Purple Pants (Demo) (20091107).a78	a78-yoriyoshizuki
+59e8b4d3c840e86aacc6ccacfb71d8cd	Moon Crest B (NTSC) (Hack) (20131125).a78	a78-yoriyoshizuki
+629e8b89a9c2061900cc61fba65f19f3	Moon Crest B (PAL) (Hack) (20131125).a78	a78-yoriyoshizuki
+9ff38ea62004201d870caa8bd9463525	Moon Cresta (NTSC) (20111113).a78	a78-yoriyoshizuki
+675c5b79238eaa641f2e3fe9c5e22589	Moon Cresta (PAL) (20111113).a78	a78-yoriyoshizuki
+89f90b661d1b79e956b10bb6a9771f78	More Beef Drop (Hack) (20060901).a78	a78-yoriyoshizuki
+5330bfe428a6b601b7e76c2cfc4cd049	Motor Psycho (PAL) (Atari) (1990).a78	a78-yoriyoshizuki
+b7841f9a72d8b0766aaef4958049f806	Mr Pac NES (Hack) (20130427).a78	a78-yoriyoshizuki
+0b2e02a065f2051361b0d505be070eed	Ms Fruit-Man (Hack) (20130422).a78	a78-yoriyoshizuki
+d8dbb5c4d7d02e6b0627df8f657a13b4	Ms Pac-Attack (Hack) (20050531).a78	a78-yoriyoshizuki
+27c133965dfd80b3acb1ed598817aea0	Ms Pac-Man (Fast Hack) (20060304).a78	a78-yoriyoshizuki
+de136dfa2f7c95bcb50e4fe8d14e32b4	Ms Pac-Man (Graphics Hack) (20150220).a78	a78-yoriyoshizuki
+cf007563fe94cacf5ea5295dc93ce9ef	Ms Pac-Man (Hack) (20090501).a78	a78-yoriyoshizuki
+e0c77f5fdd8c2d1cfe00ccf8df87e62e	Ms Pac-Man (Inv_Fast) (NTSC) (Hack) (20130128).a78	a78-yoriyoshizuki
+fc0ea52a9fac557251b65ee680d951e5	Ms Pac-Man (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+cad1e733986bce1ee4c9da73de1dcff1	Ms Pac-Man 320 (Inv_Fast) (NTSC) (Hack) (20130128).a78	a78-yoriyoshizuki
+db768297985178cec034c12a41d6f1a7	Ms Pac-Man 320 (Invincible) (NTSC) (Hack) (20130128).a78	a78-yoriyoshizuki
+889fc7e7ba5c807be44e85ba7a6bd26e	Ms Pac-Man 320 (NTSC) (20110808).a78	a78-yoriyoshizuki
+bc56f803d65658f92c17e6c2b271a507	Ms Pac-Man 320 (PAL) (20110808).a78	a78-yoriyoshizuki
+2a17dc5a61be342dd00af719cc335852	Ms Pac-Man 320 (Sound Updates) (NTSC) (20161101).a78	a78-yoriyoshizuki
+99055c3e627bbc17fc81cbe0b3ae176c	Ms Pac-Man 320 (Sound Updates) (PAL) (20161101).a78	a78-yoriyoshizuki
+c7492edd3d5eb800b7ff0f448076a1ea	Ms Pac-Man After Dark (v4) (Hack) (20150904).a78	a78-yoriyoshizuki
+830b29497f99e80c7f591e61207c26b5	Ms Pac-Man After Dark Xtreme (Hack) (20150906).a78	a78-yoriyoshizuki
+a69347c8a681b8e94f79d8d848998007	Ms Pac-Man Twin (20160208).a78	a78-yoriyoshizuki
+94bcaaf2337a1e20f4bf7ffe40ec96bd	Ms Pac-Man VCS (Hack) (20150901).a78	a78-yoriyoshizuki
+dcaad68d5d4eadfce64c09ad2722442b	Ms Pac-Man Vector (Small dots) (Hack) (20150905).a78	a78-yoriyoshizuki
+535a1e841a0d263cd27e28896878c42c	Ms. Pac-Man After Dark (WIP1).a78	a78-yoriyoshizuki
+79202cb7d2bc150ffca0c96a4d8b42cf	Multi-Lock On (20140311).a78	a78-yoriyoshizuki
+b7446eb688d93fb6c925616e3ebb1e3b	Multi-Sprite (Sample) (20140318).a78	a78-yoriyoshizuki
+04c985ebbd0bea4c557207e69b8cbd8f	Munchman Texas (Hack) (20130507).a78	a78-yoriyoshizuki
+c6e93c17f87b60442924b76d40ee69e7	Munchman Texas (Multi-level) (Hack) (20130507).a78	a78-yoriyoshizuki
+4d00e5bbcf1e39e4fb94e6e5cf127f93	newpro.bas.a78	a78-yoriyoshizuki
+220121f771fc4b98cef97dc040e8d378	Ninja Golf (NTSC) (Atari) (1990).a78	a78-yoriyoshizuki
+ea0c859aa54fe5eaf4c1f327fab06221	Ninja Golf (PAL) (Atari) (1990).a78	a78-yoriyoshizuki
+875744a88898e83ea54aa2d257d0c63a	NYAN7800.a78	a78-yoriyoshizuki
+b5ed4a46e566965b2be10801920f1e3b	office_SE.bas.a78	a78-yoriyoshizuki
+cc1e5781b1b560a30909aabb9932d85a	Omega Race Ship (Demo) (20150927).a78	a78-yoriyoshizuki
+74569571a208f8b0b1ccfb22d7c914e1	One-on-One Basketball (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+c5b3c24e08ebbcd9eed41bce74129d6d	Pac Jr (Hack) (20130422).a78	a78-yoriyoshizuki
+90145d56c6c39d6f33aa151785f2fdd5	Pac Nestor (Hack) (20060920).a78	a78-yoriyoshizuki
+04edf4f3c6b186147c1117359c8f5076	Pac Pollux (Hack) (20060305).a78	a78-yoriyoshizuki
+e8e388ace8368baacdbae77ed7f4be1e	Pac Vs - Pac-Man Hack (2013).a78	a78-yoriyoshizuki
+ec2b8804dff40d2edfc5f15cca3c61f6	Pac-Man (Atari 2600 Homage Hack) (20100812).a78	a78-yoriyoshizuki
+72ec68627bb7d879ae35a71d7679f71e	Pac-Man (Hack) (20050530).a78	a78-yoriyoshizuki
+957e719ea72efd25a3aa5cb3389e2dfd	Pac-Man (Intellivision Maze) (Hack) (20130422).a78	a78-yoriyoshizuki
+6881d31ad3ae6f63534ccafd73478b42	Pac-Man (Pac-Maine Hack)(2013).a78	a78-yoriyoshizuki
+b55e4d255173e5b2c2e620f3186a1ecc	Pac-Man (PC DOS 88 Hack)(2013).a78	a78-yoriyoshizuki
+328feca37561627aeec7b6a4b4f9e68c	Pac-Man (Vic-20 Maze) (Hack) (20130422).a78	a78-yoriyoshizuki
+fb0b763aaa9b05c9b427089bbfc06506	Pac-Man (YM Sound Test) (v14) (20140825).a78	a78-yoriyoshizuki
+60982f430b762343d53e48f70acfa6d0	Pac-Man 320 (NTSC) (20110810).a78	a78-yoriyoshizuki
+180121ecb4aabc7daa945b355e15c254	Pac-Man 320 (PAL) (20110810).a78	a78-yoriyoshizuki
+5013b69cb05b21a1194ce48517df7bfc	Pac-Man Collection (20120119).a78	a78-yoriyoshizuki
+6f80cac59023a69afa26182eabbdfbad	Pac-Man Collection (New Monsters) (20150531).a78	a78-yoriyoshizuki
+5209e339408f777983f0207697422319	Pac-Man G (Hack) (20130427).a78	a78-yoriyoshizuki
+5c727dd455fbe7b7a6ba48a4a62c8ae6	Pac-Man G2 (Hack) (20130427).a78	a78-yoriyoshizuki
+4748a62d5c628fefd28df5de5567edec	Pac-Man Handheld (Hack) (20130420).a78	a78-yoriyoshizuki
+fc6f3e6140dcd113c1a27e19002fd3b3	Pac-Man Pirahna (Inv) (NTSC) (Hack) (20130128).a78	a78-yoriyoshizuki
+791e55db03903988280388573a2fcdc1	Pac-Man Plus (Hack) (20050602).a78	a78-yoriyoshizuki
+4c3a85583b5771f1a5b22a1f31f3c952	Pac-Munch Jr (Hack) (20150806).a78	a78-yoriyoshizuki
+5da2cb028dea639ea4df5e14a8b3ae4d	Pac-Who (Hack) (20130501).a78	a78-yoriyoshizuki
+87b92ff46da5ce7c84577bc9e1180030	Pacaroids (NTSC) (Hack) (20140208).a78	a78-yoriyoshizuki
+a7810ac9077dab854c4a1faa7bbc5c1a	Pacaroids (PAL) (Hack) (20140208).a78	a78-yoriyoshizuki
+c2ad95ed5578097d82b35371b56422e4	PacIIINES (Hack) (20130502).a78	a78-yoriyoshizuki
+8cb66c6ed5b379181b1420d8e4758834	Pactron 1984 (Hack) (20150124).a78	a78-yoriyoshizuki
+c1ac9987a9483e200c338ccbd2ee94b5	Pactron 1984 Extreme (Hack) (20150124).a78	a78-yoriyoshizuki
+b5c9f0bf5b5763a923b7f370376b1849	Panda Racer (20151224).a78	a78-yoriyoshizuki
+c2d585ff3860f2e46b9647d2781c9072	panda_racer.bas20150803.a78	a78-yoriyoshizuki
+d10ef5305bc68d9aa456fddd1377e777	panda_racer.bas20150812.a78	a78-yoriyoshizuki
+8c75ba0ca510a9feab31e3fb1b63df23	panda_racer.bas20150828.a78	a78-yoriyoshizuki
+efda7d5488bfde498364d4ab71d04c6d	panda_racer.bas20150911.a78	a78-yoriyoshizuki
+64950978f8e9b2f557ca61da81ea627c	panda_racer.bas20150918.a78	a78-yoriyoshizuki
+8a7f974ef7c33f421d7d4fc8a3fd9cfe	panda_racer.bas20151024.a78	a78-yoriyoshizuki
+53c8c71b410544e355ae0a11ab8eb96e	panda_racer.bas20151206.a78	a78-yoriyoshizuki
+3b53166caeb3afee6a051a2d05c0f5d6	pcmandos88.a78	a78-yoriyoshizuki
+cd870d8b6b8debd55de102ef0622255b	Pedes2Go (Inv) (NTSC) (Hack) (20151101).a78	a78-yoriyoshizuki
+49819a407eda1fd11a9c48a022a947c7	Pedes2Go (Inv) (PAL) (Hack) (20151101).a78	a78-yoriyoshizuki
+9bd66040cbdc20d440298315fe89163b	Pedes2Go (Inv) (TBall) (Hack) (20151101).a78	a78-yoriyoshizuki
+4bd5a5e0685fb457743020341b569e2e	Pedes2Go (NTSC) (Hack) (20151101).a78	a78-yoriyoshizuki
+5d757ff04e60db712ecc67c85fbb1d0b	Pesco (3 Ghosts) (Hack) (20130510).a78	a78-yoriyoshizuki
+c261fc865fc40845256f640b00296030	Pesco 7800 (Hack) (20130422).a78	a78-yoriyoshizuki
+754d25677142bdf30fbfcca4ababfb0e	Pesco1 Title 16K (2013).a78	a78-yoriyoshizuki
+64ef92ea845c9ea3f07bb2025bb28d88	Piranha (Hack) (20090828).a78	a78-yoriyoshizuki
+8ffd465270a4261eecc43007805af5a6	Pit Fighter (1992) (Atari) (Prototype) (Alt 1).a78	a78-yoriyoshizuki
+ec206c8db4316eb1ebce9fc960da7d8f	Pit Fighter (1992) (Atari) (Prototype).a78	a78-yoriyoshizuki
+9e9e4b53f5dcb42f61579fdf0d438921	Plumb Luck (20170702).a78	a78-yoriyoshizuki
+f0abd58c1de2ba3e577f90c3d52dd7fc	Poetiru (20150901).a78	a78-yoriyoshizuki
+f9fa5107ed213e709858d8876359309e	POKEY (Sample) (20140301).a78	a78-yoriyoshizuki
+2370f7ce1b91fc775bce3e72454f908a	Pokey Kong (Early Version) (Hack) (20101029).a78	a78-yoriyoshizuki
+66bda11d8e70103c5e074316d950a04d	Pole Position 3 (Inv) (NTSC) (Hack) (20151106).a78	a78-yoriyoshizuki
+abfc8f63fea2c9d8d55762620ee48c29	Pole Position 3 (Inv) (PAL) (20151106).a78	a78-yoriyoshizuki
+a91d6d57b4eda96a415fde7ea9c31c89	Pole Position 3 (NTSC) (Hack) (20151106).a78	a78-yoriyoshizuki
+06efc52e44230b217690a03dc4705f93	Pole Position 3 (PAL) (Hack) (20151106).a78	a78-yoriyoshizuki
+584582bb09ee8122e7fc09dc7d1ed813	Pole Position II (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+865457e0e0f48253b08f77b9e18f93b2	Pole Position II (PAL) (Atari) (1987).a78	a78-yoriyoshizuki
+4a0e6fdba3b47fe8a7e618859511084f	Pole Postion II (Graphics Hack) (20140412).a78	a78-yoriyoshizuki
+8b7b13506f348016cad7a9baacb40b59	Portable Ms Pac - Hack (2013).a78	a78-yoriyoshizuki
+46d419bd4994136b57467ab35eddd7e4	Portable Ms Pac (Hack) (20130501).a78	a78-yoriyoshizuki
+b4f137e85588ce42d302102ba7215437	Prickle (POKEY Utility) (v09) (20150811).a78	a78-yoriyoshizuki
+f35dcdea20e5b379164682bc7ae16c57	Punch-Out for the 7800 (punchoutdemo.bas) (2014.12.18 11.14).a78	a78-yoriyoshizuki
+ac03806cef2558fc795a7d5d8dba7bc0	Rampage (NTSC) (Activision) (1989).a78	a78-yoriyoshizuki
+21a9b96cd4087d81651ad0a2dd9c1011	required code for every 7800 program - need help understanding. (ball1) (2015.10.20 21.24).a78	a78-yoriyoshizuki
+778158f15df231ce4d54dcd55e8ad595	required code for every 7800 program - need help understanding. (ball1) (2015.10.20 21.28).a78	a78-yoriyoshizuki
+8f7eb10ad0bd75474abf0c6c36c08486	Rescue On Fractalus (Prototype) (Correct Header).a78	a78-yoriyoshizuki
+62b1b106a726510d78bd5688cf55d90a	Rezolve (2).a78	a78-yoriyoshizuki
+f2047b149e72be8f97e9671314748ec4	ReZolve (20141207).a78	a78-yoriyoshizuki
+e973827a69a44c7e298b104354c2091e	Rezolve [a].a78	a78-yoriyoshizuki
+4c8f5c630963e7f0208f0438265361d6	Rezolve_20150503.a78	a78-yoriyoshizuki
+0105c4d1f3de093df32fdfb4f4932cc2	Rezolve.a78	a78-yoriyoshizuki
+9d2015c758842c29850ee3e30a8b5458	Rider of the Night (20170617).a78	a78-yoriyoshizuki
+ad8bc1250786d32ffb210041ec1c846a	Rip-Off (Europe) (PacManPlus).a78	a78-yoriyoshizuki
+43525a0405184875c2ecfd0196886a34	Rip-Off (NTSC) (20120502).a78	a78-yoriyoshizuki
+106b409c6f4c219b1a3b3d099ead3b2b	Rip-Off (PAL) (20120502).a78	a78-yoriyoshizuki
+e91038bad7786d4b2f50474568e76f20	Rip-Off (USA) (PacManPlus).a78	a78-yoriyoshizuki
+03daa19b7aae2d27e61f2a4dbe3b9b79	RMT POKEY Player Test (Demo) (20030326).a78	a78-yoriyoshizuki
+b6561537290e6e25e1249394366c3c63	Robbo (20160513).a78	a78-yoriyoshizuki
+66ecaafe1b82ae68ffc96267aaf7a4d7	Robotron 2084 (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+45c33c3799539545e8bf37719eb6f88c	Roof Pooper (20161006).a78	a78-yoriyoshizuki
+f8a727af78131a29a96c95227e3dcada	RPG Tile Demo (v2) (20150925).a78	a78-yoriyoshizuki
+0d289c1d1ae70d25e22d9a60d0fb4060	RPGTile Demo (rpgtiledemo.bas) (2015.09.20 02.35).a78	a78-yoriyoshizuki
+1b4495c8c6c6261cfddce6233f70c958	Salvo (salvo.bas) (2015.03.30 17.24).a78	a78-yoriyoshizuki
+5edbced5760155958e84ba042202362a	Salvo (salvo.bas) (2015.07.25 17.46).a78	a78-yoriyoshizuki
+d025e0e00c2a33cb5b519cbd46c05a8b	salvo (salvo.bas) (2015.10.22 15.04).a78	a78-yoriyoshizuki
+cc5083a8c59771a662dc6075c79802db	Santa Simon (20170511).a78	a78-yoriyoshizuki
+a3a85e507d6f718972b1464ce1aaf8a4	Scramble (20140515).a78	a78-yoriyoshizuki
+32f1a1b5a7e3b4493c3b7b637aeea7d8	Scrapyard Dog (Graphics and Unlimited Lives Hack) (20151121).a78	a78-yoriyoshizuki
+6e27f73bd4a49b647bcd58bc5f8b739d	Scrapyard Dog (Graphics Hack) (20151121).a78	a78-yoriyoshizuki
+980c35ae9625773a450aa7ef51751c04	Scrapyard Dog (NTSC) (Atari) (1990).a78	a78-yoriyoshizuki
+53db322c201323fe2ca8f074c0a2bf86	Scrapyard Dog (PAL) (Atari) (1990).a78	a78-yoriyoshizuki
+0070751edb8bbf4dd4a685f58b5b72c5	Scrapyard Dog (Unlimited Lives Hack) (20160826).a78	a78-yoriyoshizuki
+99dab6c1912f76212e478c3e7e34c207	scroll.bas.a78	a78-yoriyoshizuki
+5469b4de0608f23a5c4f98f331c9e75f	Sentinel (1991) (Atari) (PAL) [Correct Header] [!].a78	a78-yoriyoshizuki
+b697d9c2d1b9f6cb21041286d1bbfa7f	Sentinel (USA) (Proto).a78	a78-yoriyoshizuki
+9bd70c06d3386f76f8162881699a777a	Serpentine (20161029).a78	a78-yoriyoshizuki
+aed3d66d20c05295ef4837f72c053f8e	Shades of things to come....DEFENDER! (Defender) (2015.05.24 12.10).a78	a78-yoriyoshizuki
+af8ad990b4f6e721148c0c7bf70a6a74	Shantae Tiles (PlotMap) (20160626).a78	a78-yoriyoshizuki
+95c8a795e30640c9ec82609872c80517	Shark Attack (Hack) (20130420).a78	a78-yoriyoshizuki
+294a5c547560157cc84f7902d1c34e8b	Shatneroids (Graphic Hack)v2.bas.a78	a78-yoriyoshizuki
+c5b7343d6a13478240d8131e836a4e97	Shatneroids (Hack) (20160114).a78	a78-yoriyoshizuki
+a9b0550b8ab199147877bc3ef98b224f	shatneroids.bas20140720.a78	a78-yoriyoshizuki
+f235577345318682d51ebad6912e3425	Shatneroids.bas20140721.a78	a78-yoriyoshizuki
+0bcdb85e45bc42be86e36f415b721392	Shatneroids.bas20151201.a78	a78-yoriyoshizuki
+fa1311d32b4748783c30c6cb1166ff5b	SHMUP7800.a78	a78-yoriyoshizuki
+19586366f625db75b145f62c1d668f8e	Shoot the UFO 2015 (20150328).a78	a78-yoriyoshizuki
+8c37cab11ab5dd32d32f3edd35c03c8e	Shoot the UFO 2015 (stufo15) (2015.03.17 14.14).a78	a78-yoriyoshizuki
+436e9c2c98a40b2ce47f4930275d3bd0	Sick Pickles (20170628).a78	a78-yoriyoshizuki
+ffd0fecc48b60934b05f986dd1f0cee8	Simple (Sample) (20140301).a78	a78-yoriyoshizuki
+053e95a129bb972fcc25a0c535a32ec7	Sky Scraper 2115 (20170706).a78	a78-yoriyoshizuki
+46caeccacc8440d6f28070dc8279e3d6	Slime Time (Hack) (20170221).a78	a78-yoriyoshizuki
+017565397ffac981f9aa0f33b3cc4234	Slinkipede (NTSC) (Hack) (20151206).a78	a78-yoriyoshizuki
+d521c36500f0b8bbd3e0926561c02618	Slinkipede (PAL) (Hack) (20151206).a78	a78-yoriyoshizuki
+0ae1b672ade4b9eea85bf6193af769d9	Slinkipede (TBall) (Hack) (20151206).a78	a78-yoriyoshizuki
+b3fae0085acda69415544f49c881e40c	Slots (20141221).a78	a78-yoriyoshizuki
+4cabc9042ec5097a3136cb680710ec52	Smasteroids (20140712).a78	a78-yoriyoshizuki
+d59ae1ea4b3e3d7e8a30bb5ed0fa37d5	SMB Screen (PlotMap) (20160626).a78	a78-yoriyoshizuki
+0a6809b11d292a52e4cfd3de7719e801	Snapper (Hack) (20130420).a78	a78-yoriyoshizuki
+ee5ab869dfbbfb4517aab29530e5ef4f	snapper.a78	a78-yoriyoshizuki
+5fb5d1452de1c3fb2d74f8982cf8955d	Soccer 2 (20140614).a78	a78-yoriyoshizuki
+ca1c27b53fcfb9fed83bc9e92920707c	Soft Cell - Tainted Love (Music Demo) (20140311).a78	a78-yoriyoshizuki
+a379dc1ee9ce6d98bae0d1b2140937c8	Sound Test (20140608).a78	a78-yoriyoshizuki
+771cb4609347657f63e6f0eb26036e35	Space Duel (NTSC) (20071014).a78	a78-yoriyoshizuki
+a84c1b2300fbfbf21b1c02387f613dad	Space Duel (PAL) (20071014).a78	a78-yoriyoshizuki
+6adf79558a3d7f5beca1bb8d34337417	Space Invaders (NTSC) (20080801).a78	a78-yoriyoshizuki
+57c5026c60e939c285c44e6fa1bfbc81	Space Invaders (PAL) (20080801).a78	a78-yoriyoshizuki
+824ebf690ca6e2dc94d8501c23258b4a	Space Junk (NTSC) (Hack) (20131209).a78	a78-yoriyoshizuki
+2839e2479126de0dc6ea428ec20da99a	Space Pong (NTSC) (Hack) (20131130).a78	a78-yoriyoshizuki
+f7f53ef9cfb32318e8bc11a9f33390c4	Spacewar! (20070321).a78	a78-yoriyoshizuki
+22d8124b29a59dc073cc099bf622e05d	Specman (Hack) (20130420).a78	a78-yoriyoshizuki
+1fb17390690a2e43315639cfbd2b7ce4	specman.a78	a78-yoriyoshizuki
+ad7a7ba7e368f10cb2984d5dfc560ba1	Split Mode (Demo) (20150107).a78	a78-yoriyoshizuki
+f5ea8fec9efe14307e2b09956a8ad1c2	Star Wars 7800 (Hack) (20070927).a78	a78-yoriyoshizuki
+bbc3921c505ebbcc317e8c2d98b5bfd6	Styverson (Picture Demo) (20170126).a78	a78-yoriyoshizuki
+cbb0746192540a13b4c7775c7ce2021f	Summer Games (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+02508e6df5e173b4063a7e6e63295817	Super Circus Atari Age (NTSC) (Joystick) (POKEY 0450) (20170611).a78	a78-yoriyoshizuki
+81cee326b99d6831de10a566e338bd25	Super Circus Atari Age (NTSC) (Joystick) (POKEY 4000) (20170611).a78	a78-yoriyoshizuki
+1c9b0bb028e63f83a2d1c1def675acc9	Super Circus Atari Age (PAL) (Joystick) (POKEY 0450) (20170611).a78	a78-yoriyoshizuki
+f4ad1a1d732c2c8cdbd21dabaf38a46c	Super Circus Atari Age (PAL) (Joystick) (POKEY 4000) (20170611).a78	a78-yoriyoshizuki
+37e60cac38e78a5562590cb1b8bc0578	Super Circus AtariAge (XM Enhanced).a78	a78-yoriyoshizuki
+f41f651417c234104d37296477fa29eb	Super Cobra (Scramble Hack) (gambler172).a78	a78-yoriyoshizuki
+cc18e3b37a507c4217eb6cb1de8c8538	Super Huey UH-IX (NTSC) (Atari) (1989).a78	a78-yoriyoshizuki
+162f9c953f0657689cc74ab20b40280f	Super Huey UH-IX (PAL) (Atari) (1989).a78	a78-yoriyoshizuki
+7ab539bb0e99e1e5a1c89230bde64610	Super Pac-Man (NTSC) (20081010).a78	a78-yoriyoshizuki
+61aa4a074ad08c524fbee88d15e369ea	Super Pac-Man (PAL) (20081010).a78	a78-yoriyoshizuki
+59b5793bece1c80f77b55d60fb39cb94	Super Skateboardin' (NTSC) (Absolute) (1989).a78	a78-yoriyoshizuki
+95d7c321dce8f57623a9c5b4947bb375	Super Skateboardin' (PAL) (Absolute) (1989).a78	a78-yoriyoshizuki
+ee7b6921939008910d26c00fae957122	SuperCir_001.a78	a78-yoriyoshizuki
+a2a20d351941f4b53509d607e27974e0	SuperCir(PAL).a78	a78-yoriyoshizuki
+48f1d4fc1cbe175b788d6533a970a9c4	SuperCobrahack.a78	a78-yoriyoshizuki
+3632fcc732a33591b91f0eea2c01e599	Tank Command (Color+Sprite+Title) (128K) (Hack) (20141225).a78	a78-yoriyoshizuki
+5c4f752371a523f15e9980fea73b874d	Tank Command (NTSC) (Froggo) (1988).a78	a78-yoriyoshizuki
+9cb3848416e39ebf642357dbee3e5970	Tempest (BBC X-Port 1) (v1_00F) (20100324).a78	a78-yoriyoshizuki
+8c24698892c7e81000ff8c6456a05726	test_beta.bas.a78	a78-yoriyoshizuki
+1aa1376cceab8e6a024946354ee4922e	test_beta2.bas.a78	a78-yoriyoshizuki
+a60e4b608505d1fb201703b266f754a7	TiME Salvo (20160910).a78	a78-yoriyoshizuki
+d49624a530cf9981e4e20dac0fc2947a	Tinymon 7800 (Memory Tool) (20151218).a78	a78-yoriyoshizuki
+e144d2ef872ceb008c538a36c80e664d	Titanman (Hack) (20130420).a78	a78-yoriyoshizuki
+1af475ff6429a160752b592f0f92b287	Title Match Pro Wrestling (NTSC) (Absolute) (1989).a78	a78-yoriyoshizuki
+c3903ab01a51222a52197dbfe6538ecf	Tomcat - The F-14 Fighter Simulator (NTSC) (Absolute) (1989).a78	a78-yoriyoshizuki
+682338364243b023ecc9d24f0abfc9a7	Tomcat - The F-14 Fighter Simulator (PAL) (Absolute) (1989).a78	a78-yoriyoshizuki
+9573ed65c9bc9d11fcb2bb153c97cfbf	Touchdown Challenge (20140610).a78	a78-yoriyoshizuki
+32e937e7796db3a01e9bcf5fe93929b0	Trix Brix (No Level 13) (NTSC) (Joystick) (Hack) (20131118).a78	a78-yoriyoshizuki
+3209039148e0b7a2b1927bd05bae4685	Trix Brix (NTSC) (Joystick) (Hack) (20131118).a78	a78-yoriyoshizuki
+c5208b29102215b872c6c5ee0313fca6	Tubes (20050809).a78	a78-yoriyoshizuki
+b1ec7bd809ab3deb746c5a5eb2efaecb	UFO! (20091213).a78	a78-yoriyoshizuki
+04ec2031be7e877d28be8c90c54d6cc7	Ultra Pac-Man (Fast Unlimited Lives Hack) (20060526).a78	a78-yoriyoshizuki
+f85d506f5933427c8de664be0c5510a3	Ultra Pac-Man (Hack) (20050619).a78	a78-yoriyoshizuki
+cb6b01ad69369d5f3824b5a2e7a63260	Upside Down Ms Pac-Man (Hack) (20090718).a78	a78-yoriyoshizuki
+f83849cf3f5ac95856e8f93ee90d5a8d	Upside Down Pac-Man (Hack) (20090718).a78	a78-yoriyoshizuki
+26259622f3d367b45e8dc1ff51ea005b	Waka Waka (Hack) (20130503).a78	a78-yoriyoshizuki
+c62632545c91823f72f6f14b19766804	WarBirds (20091213).a78	a78-yoriyoshizuki
+412cc5bfa08bd03244b9c4e8d46cd0a0	Wasp! (Standard Edition) (20090923).a78	a78-yoriyoshizuki
+427cb05d0a1abb068998e2760d77f4fb	Water Ski (NTSC) (Froggo) (1988).a78	a78-yoriyoshizuki
+8b49549763f4f0e42a23942b8df6b248	Water Ski (Title+Color+Realign) (Trained) (128k) (Hack) (20130224).a78	a78-yoriyoshizuki
+3799d72f78dda2ee87b0ef8bf7b91186	Winter Games (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+2bf5f35dbd0984ddbb8c0737bbfd8468	WIP.a78	a78-yoriyoshizuki
+75f08cf0f323eff71c331e3adb513dc3	Working Title - Draker Quest (test_beta2_pal.bas) (2015.03.01 18.07).a78	a78-yoriyoshizuki
+ed4f3f1a6403e1ca441ac481ead1c5d8	Working Title - Draker Quest (test_beta2.bas) (2015.03.16 16.31).a78	a78-yoriyoshizuki
+af811bcf9a2e4f6fc9e2e78b16c63b35	Working Title - Draker Quest (test_beta2.bas) (2015.03.20 17.17).a78	a78-yoriyoshizuki
+4ba8e0de03c68ebe95be865557296455	Working Title - Draker Quest (test_beta3.bas) (2015.05.22 03.36).a78	a78-yoriyoshizuki
+b1bf3fbbb0ea44b1db6b74f100866e59	Working Title - Draker Quest (test_beta4.bas) (2015.05.29 22.28).a78	a78-yoriyoshizuki
+a7e882ae4754b90650939af33724b3a0	World Cup (Hack) (20140614).a78	a78-yoriyoshizuki
+6813ffff510f930c867b3f0aba78ac85	Worm! (v1_16F) (20100307).a78	a78-yoriyoshizuki
+e228a26971e649dafec2822d21f98cd3	Wormy Demo (320B Mode) (20070415).a78	a78-yoriyoshizuki
+cdca32a7d30df5cf301723bcd3625dc0	WWE Title Match (Alt Colors) (Hack) (20121010).a78	a78-yoriyoshizuki
+d7dc17379aa25e5ae3c14b9e780c6f6d	Xevious (NTSC) (Atari) (1987).a78	a78-yoriyoshizuki
+4212c009c6d8cec963929e61456cb8eb	Xevious (Title and Color Hack) (20130319).a78	a78-yoriyoshizuki
+7db031f1c4dc957719812fe68ee42531	Xevious X (PAL) (Hack) (20130304).a78	a78-yoriyoshizuki
+8e0c5fc77b27422a39d86ac2e57dc73d	Xmas Time (Hack) (20061225).a78	a78-yoriyoshizuki
+bc1f56d7cc14f15ddfcba5e21e19937b	YPS Quest (Hack) (20140712).a78	a78-yoriyoshizuki
+f8adc537ac7e219c9a939621f79aeac4	Zelda-like (Demo) (20091107).a78	a78-yoriyoshizuki

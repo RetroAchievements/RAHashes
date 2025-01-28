@@ -1,0 +1,75 @@
+251fc89fb24cffd68e84459c8ad3ef6a	A-Train - Take the ''A'' Train MD (Japan) [T-En by MrRichard999 & AgentOrange & FlashPV v0.99] [n].md	md-t-en
+a13ab653a20fb383337fab1e52ddb0df	Advanced Busterhawk Gleylancer (Japan) [T-En by M.I.J.E.T. v061023].md	md-t-en
+b63a46f0d28b2049745af588292b3b5a	Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A) [T-En by Nebelwurfer v0.95] [i].md	md-t-en
+0b50b578631749a8d9a5e081abce6898	Bare Knuckle III (Japan) [T-En by Twilight Translations v1.0].md	md-t-en
+70ca38f7dc03560fa770a298ecef438a	Battle Golfer Yui (Japan) [T-En by Filler v0.9].md	md-t-en
+b56ec31b0d80e257bb3b599e857a021e	Battle Mania Daiginjou (Japan, Korea) [T-En by M.I.J.E.T. v061029].md	md-t-en
+14df995aaf7cc3cfcd117df335f98abb	Beyond Oasis (USA) [T-En by Eien Ni Hen & Husky v1.0].md	md-t-en
+1e503bdbfde669ca63aaf17f58ff56d9	Brave Battle Saga - Legend of the Magic Warrior (Taiwan) (Unl) (T-En by Djinn v1.0) [n].md	md-t-en
+09f051568d8f5c99d662de796f1a14e0	Castle of Illusion Starring Mickey Mouse (Japan) [T-En by RadioTails v1.0] [n].md	md-t-en
+2bad38131ce5a99c94f5928743efc199	Dahna - Goddess' Birth (Japan) [T-En by Cccmar v1.0] [n].md	md-t-en
+c199cbb62c1916d4f184a48015349a4b	Demon Genesis (Japan) [T-En by Tashi.moe v03a] [n].md	md-t-en
+9be512408b320d6d0b055062c73ca8d9	Dragon Ball Z - L'Appel du Destin (France) [T-En by DBZ Game v0.95A].md	md-t-en
+7f6cab4a3934408aabb4ac46567a5a4d	Dyna Brothers (Japan) [T-En by Tybis v0.1] [i].md	md-t-en
+d43cd7d31616d2992e3b1ac389ef4eb1	Dynamite Headdy (Japan) [T-En by M.I.J.E.T. v070428].md	md-t-en
+591248746d6aa72fbe957d6ae2b6b3b2	F1 Circus MD (Japan) [T-En by MrRichard999 & AgentOrange & TheMajinZenki v0.95b].md	md-t-en
+5bef5768a720d52b4ff56cc1019c7e15	Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan) [T-En by Ernani S. Costa v1.4] [Anime].md	md-t-en
+926c6f97e3399403f80c2f8f1be6f8f2	Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan) [T-En by Ernani S. Costa v1.5] [Revisited].md	md-t-en
+cbf3248a1de86c82f7721d5dae788395	Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan) [T-En by Ernani S. Costa v1.5].md	md-t-en
+83f1fe7018ebba03bb00883c27f2f626	Kishi Densetsu (Japan) [T-En by Gaijin Productions v0.20] [i].md	md-t-en
+d6b25379b633a29650dda18167becbf0	Langrisser (USA) [T-En by D v20010219] [Add by Jon Najar v070103] [n].md	md-t-en
+3da68d7ef336d2ea7fa2cc9c1481c9fe	Langrisser II (Japan) (Rev B) [T-En by M.I.J.E.T. v110701].md	md-t-en
+a6a2118f2cf771ac358de37751e22911	Lord Monarch - Legendary Battle Royale (Japan) [T-En by Nebulous Translations v1.0] [n].md	md-t-en
+25e3ab140d7c3f7fe4a19ac9c88a030f	Magical Hat's Turbo Flying Adventure! (Japan) [T-En by Aqualung & Lazermutt4 & Midna & Tryphon v0.1] [n].md	md-t-en
+036906841f299aae6f5a4bcb71607b87	Magical Kid Taruruto (Japan) (En,Fr,Ja) [T-En by Akualung & Ghanmi & JumpingRyle & Tryphon alpha-ml] [n].md	md-t-en
+141bbaf12e425813e2f8edaa624bc381	Monster World IV (Japan) [T-En by DeJap & Demiforce v1.02] [Add by Michele Di Somma v2.2] [Add by Jackic v1.1] [Virtual Console Font].md	md-t-en
+803ac500dd4e07e312c73bef1f02dbe3	Monster World IV (Japan) [T-En by DeJap & Demiforce v1.02] [Add by Michele Di Somma v2.2] [Add by Jackic v1.1].md	md-t-en
+7fb7c9c2d737e8d65298e039262e68a8	Monster World IV (Japan) [T-En by DeJap & Demiforce v1.02] [Add by Michele Di Somma v2.2].md	md-t-en
+6ffbe170ad24a773d1a62395c06ddb6f	Nadia - The Secret of Blue Water (Japan) [T-En by Eien Ni Hen & KingMike v1.1] [n].md	md-t-en
+fd989d56cd122df9413541c7831df999	Panorama Cotton (Japan) [T-En by Malias v1.0.1].md	md-t-en
+cbdf6fe34574675dbd9da1cfccd6b9f5	Phantasy Star II - Amia's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].md	md-t-en
+cee72632b13d435674b2ddac637c5f8e	Phantasy Star II - Anne's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].md	md-t-en
+3c1ce24f8d84735d67fc6e0380c5e4c5	Phantasy Star II - Eusis's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710] [n].md	md-t-en
+12260bf5b7863f4489d627865dba1eec	Phantasy Star II - Huey's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].md	md-t-en
+ca9c437ccf387fb581f9ee00cfb14f34	Phantasy Star II - Kinds's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].md	md-t-en
+30fb373aa2d47af800712f6897823309	Phantasy Star II - Nei's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].md	md-t-en
+dbc8487b78b63efc151b80ea89de17ff	Phantasy Star II - Rudger's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].md	md-t-en
+35d2cd35f238c59b645f77be6e64ab81	Phantasy Star II - Shilka's Adventure (Japan) (SegaNet) [T-En by M.I.J.E.T. v100710].md	md-t-en
+c7c96f75ff25ce43b4f22ccc7b730d65	Phantasy Star II (USA, Europe) (Rev A) [T-En by Naflign & Rebecca Capowski v18].md	md-t-en
+e79b9423a673899e77f2cbe4f84c53a9	Phantasy Star II (USA, Europe) (Rev A) [T-En by Tanner v1.0] [Relocalized].md	md-t-en
+2477b1dd26e9c11fcfedf1bd52cae346	Phantasy Star III - Generations of Doom (USA, Europe, Korea) [T-En by Peaches v1.2] [Add by FlamePurge v1.2-CN3] [Normal Battle Themes] [Parallax Patch] [Rewards Doubler].md	md-t-en
+2a16caebdf2b476527fac3478edfcd23	Phantasy Star III - Generations of Doom (USA, Europe, Korea) [T-En by Peaches v1.2] [Add by FlamePurge v1.2-CN3] [Normal Battle Themes] [Parallax Patch].md	md-t-en
+96709fddd3a79fac0ceb14f86f62b23b	Phantasy Star III - Generations of Doom (USA, Europe, Korea) [T-En by Peaches v1.2] [Add by FlamePurge v1.2-CN3] [Normal Battle Themes] [Rewards Doubler].md	md-t-en
+3d6220296ec7ca21218dea25f7892bce	Phantasy Star III - Generations of Doom (USA, Europe, Korea) [T-En by Peaches v1.2] [Add by FlamePurge v1.2-CN3] [Normal Battle Themes].md	md-t-en
+54eb84a5acb8b85e19963e8155d141fd	Phantasy Star III - Generations of Doom (USA, Europe, Korea) [T-En by Peaches v1.2] [Add by FlamePurge v1.2-CN3] [Parallax Patch] [Rewards Doubler].md	md-t-en
+b8e5003ae37dbe6f0efcc1fef133a91e	Phantasy Star III - Generations of Doom (USA, Europe, Korea) [T-En by Peaches v1.2] [Add by FlamePurge v1.2-CN3] [Parallax Patch].md	md-t-en
+92e75cef1c6736357fffff0375c7ec0f	Phantasy Star III - Generations of Doom (USA, Europe, Korea) [T-En by Peaches v1.2] [Add by FlamePurge v1.2-CN3] [Rewards Doubler].md	md-t-en
+e6401ebef8e48d3b4255df29b8cfcdf6	Phantasy Star III - Generations of Doom (USA, Europe, Korea) [T-En by Peaches v1.2] [Add by FlamePurge v1.2-CN3].md	md-t-en
+9db43ad22848a5ffddaf961ea2668ab5	Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [n].md	md-t-en
+cb477e28f8de3e439ca1f3643ae7e83f	Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Parallax Patch] [n].md	md-t-en
+e43e8083fc4d08a3fbe6730f888370d5	Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Parallax Patch] [Walk Speed Patch] [n].md	md-t-en
+7c87b81bcd63c9013598cb0216184698	Phantasy Star III - Successors of Time (USA, Europe, Korea) [T-En by Peaches v1.2] [Walk Speed Patch] [n].md	md-t-en
+ce5b4e78befe4321e755fb99ab64dd63	Phantasy Star IV (USA) [T-En by GhaleonUnlimited v8.5] [Relocalized] [Purist].md	md-t-en
+2828453d723aa8e505e06914e4b24cba	Phantasy Star IV (USA) [T-En by GhaleonUnlimited v8.5] [Relocalized] [Working Designs].md	md-t-en
+54a7dbc8748695a90d95d2728f946b9e	Pretty Soldier Sailor Moon (Japan) [T-En by Supper v1.0] [n].md	md-t-en
+95c456ae960cbfc2e244fe37f06437c1	Psy-O-Blade (Japan) [T-En by Eien Ni Hen & Tryphon v1.1].md	md-t-en
+2eb09e92f8b495b8f1c3c57766079e29	Pulseman (Japan) [T-En by M.I.J.E.T. v070226].md	md-t-en
+910493892100193949688f1f898cf341	Record of the Bahamut War (Japan) [T-En by Supper v1.0] [n].md	md-t-en
+05f22f6e05f8a5e22ab9562faffc15b8	Rent a Hero (Japan) [T-En NikcDC v0.98] [Genesis].md	md-t-en
+b039492eef0364a6511c91d9d72bdce4	Rent a Hero (Japan) [T-En NikcDC v0.98] [MegaDrive].md	md-t-en
+3aeb137256f4d3fd518138895ea9a34a	Sonic Eraser (Japan) (SegaNet) [T-En by Derrick Sobodash v1.0].md	md-t-en
+8a021fa94a3d749f9c950bee09a4c0aa	Sonic Eraser (Japan) (SegaNet) [T-En by Roebloz v1.0.0].md	md-t-en
+6f2882699bf713f06287d13205ad15ad	Sorcerian (Japan) [T-En by SSTranslations v0.5] [i].md	md-t-en
+c2b120a54f1309cd64090da815b13b0c	Sorcery Saga I (Japan) [T-En by Supper v1.1] [n].md	md-t-en
+2b9ba7c167efb821daa02e32e72b1510	Star Cruiser (Japan) [T-En by Nebulous Translations v0.99.1].md	md-t-en
+5913a1309e9c9ba60ab9f99844d2521b	Super Fantasy Zone (Japan) [T-En by Saulfabreg v1.0].md	md-t-en
+6127631e5f7c92212f5f1ca65bdf0b4d	Super Fantasy Zone (USA) (Ja) (Genesis Mini) [T-En by Saulfabreg v1.0].md	md-t-en
+6d70f8a26295c7b33bc5f7d0b906156d	Thunder Pro Wrestling Story (Japan) [T-En by MrRichard999 & Fire_Pro_Fan & TheMajinZenki & FlashPV v1.00] [n].md	md-t-en
+7c932a29d9943944cda4b37241b17b22	Tougiou King Colossus (Japan) [T-En by M.I.J.E.T. v061030].md	md-t-en
+cb9521fe83d848f65a226d947020ecfa	Trouble Shooter Vintage (Japan, Korea) [T-En by M.I.J.E.T. v061029] [n].md	md-t-en
+3d2a638bdf18b42621e95788fa9fde9c	Twinkle Tale (Japan) [T-En by M.I.J.E.T. v070328].md	md-t-en
+254741822f6966eafcf924d2f798e8aa	Undead Line (Japan) [T-En by M.I.J.E.T. v070903].md	md-t-en
+a7144ee7bc7ec52c63116734b1dcdc4f	Vixen 357 (Japan) [T-En by Nebulous Translations v1.2].md	md-t-en
+8497740f843aad628f8b89de52740cfd	Warsong (USA) [T-En by D v20010219] [Japanese names].md	md-t-en
+ccd88fee6a144f0419962f06ac894a0f	Ys III (USA) [T-En by Plombo v1.1] [Relocalized].md	md-t-en
+0178d80a25f00b84f1bf15ae365beae0	Yu Yu Hakusho - Makyou Toitsusen (Japan) [T-En by M.I.J.E.T. v071113].md	md-t-en

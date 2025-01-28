@@ -1,0 +1,35 @@
+c4eb68321b57d15aa79147670523bda5	Buster Ball (Japan) [T-En by Lazermutt4 v1.0].gg	gg-t-en
+91ae1f7d7f25cdd826097d56d8fde1e2	Coca-Cola Kid (Japan) [T-En by Filler v1.1].gg	gg-t-en
+a3ecd29b0555ee072dacc10da06f82ac	Crayon Shin-Chan - Showdown! Quantum Panic!! (Japan) [T-En by Psyklax v1.0] [n].gg	gg-t-en
+49ca2fdea7f86d6943e0bdb2b27c8ed1	Demon Child Zenki (Japan) [T-En by TheMajinZenki v1.0] [n].gg	gg-t-en
+99c5baf73d8d44840609a9a073db5d62	Eternal Legend - Eien no Densetsu (Japan) [T-En by Supper v1.0].gg	gg-t-en
+710bb352b7fa0d3fac26e9c649324199	Godzilla - Monsters Attack (Japan) [T-En by Supper v1.1] [n].gg	gg-t-en
+616727b9db4f37f952e7898ccec1e379	Head Buster (Japan) [T-En by Chris M. Covell v0.99].gg	gg-t-en
+4ac57dc6638bd424be0e2acf8a8dcd4a	Kaitou Saint Tail (Japan) [T-En by Matt's Messy Room v1.00].gg	gg-t-en
+a78f5caaf76205fc1c408fc83b1c9fb1	Lunar - Sanposuru Gakuen (Japan) [T-En by Aeon Genesis & Some Good Shit Translations v1.00].gg	gg-t-en
+1585891b3fc1510f1fff487663b4c174	Madou Monogatari I - 3 Magic Spheres (Japan) [T-En by Filler & SSTranslations v1.0] [Add by Supper v1.0] [n].gg	gg-t-en
+387501ee40d862ec959830e2281abc7c	Madou Monogatari I - 3 Magic Spheres (Japan) [T-En by Filler & SSTranslations v1.0] [n].gg	gg-t-en
+4880863f5976d017f82283f8697691dd	Magic Knight Rayearth (Japan) [T-En by Filler v1.0].gg	gg-t-en
+ba12dd96ec11365aa3d092ca5b5bcd46	Magic Knight Rayearth 2 - Making of Magic Knight (Japan) [T-En by Pearse Hillock v0.5] [i].gg	gg-t-en
+f22da742a6601d81ed63d04c29a8751d	Mappy (Japan) [T-En by Maxim & ArugulaZ v1.1].gg	gg-t-en
+05bd20ec811f969f1ecaf57c13f0241f	Megami Tensei Gaiden - Last Bible (Japan) [T-En by Supper v3.0].gg	gg-t-en
+b1bf7420a07479ea93069fe7c08f2e8e	Megaten Gaiden - Last Bible Special (Japan) [T-En by MrRichard999 & SSTranslations & Tom v1.02] [n] [Modded].gg	gg-t-en
+e09859190d96d4ddb6bdfb9b18b3a55d	Megaten Gaiden - Last Bible Special (Japan) [T-En by MrRichard999 & SSTranslations & Tom v1.02] [n].gg	gg-t-en
+a15f113ab1e5d52a75d74773f6a043c1	Moldorian - The Sisters of Light and Darkness (Japan) [T-En by Supper v1.1] [n].gg	gg-t-en
+8645e4c94ec09aeec575fc856a9f247c	Nazo Puyo - Arle no Roux (Japan) [T-En by T-En by TriumphantBass v0.3] [i].gg	gg-t-en
+b81bd4b4896f97a8b50b746769990455	Ninku (Japan) [T-En by Some Good Shit Translations v0.1] [i].gg	gg-t-en
+79022f04aa1902b60b772a85b82692ea	Phantasy Star Adventure (Japan) [T-En by Aeon Genesis v1.00].gg	gg-t-en
+18cd2831903df0979dcb701df3f16398	Phantasy Star Gaiden (Japan) [T-En by Magic Translations v1.00] [Original Sega Font].gg	gg-t-en
+3debda198930e6087ebf03aad771863b	Phantasy Star Gaiden (Japan) [T-En by Magic Translations v1.00].gg	gg-t-en
+dd717284d4a7102ad423884fe7e5f8b5	Pretty Soldier Sailor Moon S (Japan) [T-En by Supper v1.1] [n].gg	gg-t-en
+aaf76c2037aa5c31c3da75648f56f23e	Royal Stone (Japan) [T-En by Aeon Genesis v1.00] [n].gg	gg-t-en
+178bb730c6fa5ef9e206a3b81149a3dc	SD Gundam - Winner's History (Japan) [T-En by Gaijin Productions v0.99].gg	gg-t-en
+02e817ef893b74786ea6e217a88bd325	Shining Force Gaiden - Final Conflict (Japan) [T-En by Shining Force Central v070606 Final].gg	gg-t-en
+ca5250b0e858e43549c1a398aa8270d9	Sorcery Saga A - Vivacious Vacation (Japan) [T-En by Supper v1.0] [n].gg	gg-t-en
+18eeaef7bb2ed1e6bc0aa9d15c21c23a	Sorcery Saga I - 3 Magic Spheres (Japan) [T-En by Filler & SSTranslations v1.0] [Add by EvilJagaGenius v1.0] [Add by Supper v1.0] [n].gg	gg-t-en
+6db99956ecd6a7a3ceac8223e6b924cc	Sorcery Saga I - 3 Magic Spheres (Japan) [T-En by Filler & SSTranslations v1.0] [Add by EvilJagaGenius v1.0] [n].gg	gg-t-en
+bde0767e57866eb3ef05f098b48e13c7	Sorcery Saga II - Arle, Age 16 (Japan) [T-En by Supper v1.2] [n].gg	gg-t-en
+eb5cb89f21f248097ece65fc57c76a78	Sorcery Saga III - The Ultimate Queen (Japan) [T-En by Supper v1.2] [n].gg	gg-t-en
+1006638602f42ab19623a314e5406eb9	Sylvan Tale (Japan) [T-En by Aeon Genesis v1.01] [Slab Shrine Music].gg	gg-t-en
+5cc39a3ba33cec6d0ab13371af4fc2e3	Sylvan Tale (Japan) [T-En by Aeon Genesis v1.01].gg	gg-t-en
+93fbd8ea1607bdcda7980aa42df5b04a	Yu Yu Hakusho II - Battle of the 7 Fighters (Japan) [T-En by Gaijin Productions v1.10] [n].gg	gg-t-en

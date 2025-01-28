@@ -1,0 +1,665 @@
+91a9dcd4f59c29db72c931be2fe60b51	20 em 1 (brazil).bin	sms-mamesl
+486dea48606666b44c7e6db9d7a1454c	3d gunner (prototype).bin	sms-mamesl
+4ea64e3b2ad57ef7531890583c51de30	4 pak all action (aus).bin	sms-mamesl
+34751c5798e7db4bc38aeea5f6a56e45	94 super world cup soccer (kr).bin	sms-mamesl
+55632e40576af1d12fd8f8764c6e9fc3	a-team music [proto].bin	sms-mamesl
+ce26b4372655f35f1b7c9d0c3b700f93	ace of aces (europe).bin	sms-mamesl
+7e08a9854d61fece23d3c4a39539f4e9	action fighter (japan, europe) (v1.1).bin	sms-mamesl
+73cc1f3dd52c248acb02c0d6ad97d005	Action Fighter (TW).sms	sms-mamesl
+43fcbf765f04f76a20dfe336164c5293	action fighter [v0] [proto].bin	sms-mamesl
+09202bc26fcf19ebd3ffcbd80e23ed9d	addams family, the (europe).bin	sms-mamesl
+0713f2e55a1eea0d9e2fb7044740261b	aerial assault (europe).bin	sms-mamesl
+f40a7f432b88ea9b25f9e902fafe189b	agigongnyong dooly (kr).bin	sms-mamesl
+4f145d617b9191cbc0e005786ca993f6	air rescue (europe).bin	sms-mamesl
+e3f60072028eb6f02c2b0558804aed83	aladdin (europe).bin	sms-mamesl
+810f65d7a7a8462c40c01bea3d5d7d01	aleste (japan).bin	sms-mamesl
+571f18f49e679a128b4a237001760d6c	alex kidd bmx trial (japan).bin	sms-mamesl
+a4b2c85d9a2cd659b6e7917581f1b0a7	alex kidd high tech world (prototype).bin	sms-mamesl
+50a29e43423cc77564d6f49b289eef1d	alex kidd in miracle world (b) [hack].bin	sms-mamesl
+f43e74ffec58ddf62f0b8667d31f22c0	alex kidd in miracle world (usa, europe) (v1.1).bin	sms-mamesl
+3d9a8d5c2d6d3f8ff63a8f7c77ffa983	alex kidd in miracle world (usa, europe).bin	sms-mamesl
+e9b53d893bf8fc94015de722f610c7eb	alex kidd in miracle world 2.sms	sms-mamesl
+d62b631506913712a2103f54912458a5	alex kidd in shinobi world (usa, europe).bin	sms-mamesl
+bc1360afa99cd89fbab4ea55bef08aae	alf (usa).bin	sms-mamesl
+752ed6cc6a06185a443fb1f84acf8b6a	alibaba and 40 thieves (kr).sms	sms-mamesl
+7d6b3351e820b6afa7cf80713dc139e3	alien 3 (europe).bin	sms-mamesl
+c352bd773dc9cd909a8c1707ccb54d40	alien syndrome (japan).bin	sms-mamesl
+9c0685bf5beba41be63c1ebf619d0cfd	alien syndrome (proto).bin	sms-mamesl
+ab173835fc5934cfdc6e378be75c12ea	american pro football (europe).bin	sms-mamesl
+b60c4f89e95585a0a01b4ff99a962d8b	andre agassi tennis (europe).bin	sms-mamesl
+c6e271132566b4dd03981dcf2f8a6477	anmitsu hime (japan).bin	sms-mamesl
+c74e0be13dc3fbd085fb9a1ebd6e6afc	arcade smash hits (europe).bin	sms-mamesl
+8e8b04b5a9fe7b6cdb25b6550e7a831e	argos no juujiken (japan).bin	sms-mamesl
+e2984ffd06ff10a9425a410a59cc83cf	argos no juujiken [hack].bin	sms-mamesl
+9efdf5a7123f5a52967199381e93759d	ariel - the little mermaid (brazil).bin	sms-mamesl
+4354119b151d9129d31918865db9b1c9	assault city (europe) (light phaser).bin	sms-mamesl
+b13632f6e0e0b495aae726aec9ba66d0	assault city (europe).bin	sms-mamesl
+6831e9afe139fedb13c81a54926b3c0d	asterix (europe) (en,fr) (v1.1).bin	sms-mamesl
+36bd5fe2e4d1620f5a43ea610c458c86	asterix and the great rescue (europe) (en,fr,de,es,it).bin	sms-mamesl
+7cc8be20b0a2ee3941c9846026c287ae	asterix and the secret mission (europe) (en,fr,de).bin	sms-mamesl
+a7462d79844a12a92941174252c9ca6e	astro flash (japan).bin	sms-mamesl
+2a6b0744637ba7adcc17bf072638efd2	astro flash [hack].bin	sms-mamesl
+f75e99014fa734e1e03491e01e2619e9	astro-pit 0	sms-mamesl
+8d51ce4b856852736502b74d75acfa64	astro-pit 1	sms-mamesl
+dc7268f7e3f50c79a2fed95837e79cf1	avb.sms	sms-mamesl
+04abc524a3b7f7e2e96eb910490e77ec	ayrton senna's super monaco gp ii (europe).bin	sms-mamesl
+f2535df9bdc3a84221303fa62d61ad6e	back to the future part ii (europe).bin	sms-mamesl
+3d24a52e98e6c85d7c059386451ce749	back to the future part iii (europe).bin	sms-mamesl
+8a94ded3d95aa46dae8800b92e66d3ee	baku baku animal (brazil).bin	sms-mamesl
+0e891e5b8216fd99874e786e19293926	baraburuu-sms-1.00.bin	sms-mamesl
+ae0c7f26ca642614da70b779cb067fdc	basketball nightmare [proto].bin	sms-mamesl
+215876a62d3ca48d28e98cd8a2c70a15	batman returns (europe).bin	sms-mamesl
+83609eb760c3af64915fd6e73ee7d99e	battle out run (europe).bin	sms-mamesl
+4535b1616c9f8ad54348fadb1abb439c	battle wings (prototype).bin	sms-mamesl
+5401ddcc788c0f1a5dfe26e56f239fbf	battlemaniacs (brazil).bin	sms-mamesl
+16e6b4a1d71960d64bd20aaf7024e8ac	black belt (usa, europe).bin	sms-mamesl
+f83a306d39c35b6f127a531cd62036ae	blade eagle (world) (beta).bin	sms-mamesl
+a81602ca34c0be05c5adc5b4ba029358	Blast Arena v1.0.sms	sms-mamesl
+31957c960e103bd95982405093b49ce8	block hole (kr).sms	sms-mamesl
+1a4bd585ddf2f26e2c048070f11306d1	bobble bobble [clover] (kr).bin	sms-mamesl
+e58f6f374b3405fd2a5e5b80e639a980	bonanza bros. (europe).bin	sms-mamesl
+044b79a5e4cf58fb92b60fc09cf4f316	bonkers wax up (brazil).bin	sms-mamesl
+4b3c934b3daa99a6b341da57388a7543	bram stoker's dracula (europe).bin	sms-mamesl
+6d68c6fdff41aff161b45af42cbfe390	brucelee-sms-1.00.bin	sms-mamesl
+9eda961b0771b902f35d32188a9eb4df	california games ii (brazil, korea).bin	sms-mamesl
+1dfaadbfe7d8019e73bd980fd4b819ea	captain silver (usa).bin	sms-mamesl
+5354634ec062d48a14beae9dd3061000	captain silver [proto].bin	sms-mamesl
+47f513d0f9d2896bf1a87254337d5b29	castelo ra-tim-bum (brazil).bin	sms-mamesl
+66caa446178f98bc9fceaa3c781bc601	castle of illusion - starring mickey mouse (unknown) (sample).bin	sms-mamesl
+e9b4b92bc29ca8fbe9978da6720bd1eb	castle of illusion starring mickey mouse (usa).bin	sms-mamesl
+1f706162f833f1dce9513988601d314b	championship hockey (europe).bin	sms-mamesl
+2c709ba8cdc3a1b7adc5bc838eabf6f3	chapolim x dracula - um duelo assustador (brazil).bin	sms-mamesl
+f90b86478445d220d386460e55f3b74f	cheese cat-astrophe starring speedy gonzales (europe) (en,fr,de,es).bin	sms-mamesl
+ba1b60b6d1fecf87e00cf0f4a2f19f54	choplifter (japan) (proto).bin	sms-mamesl
+b556297e5ba2b95ed3f3a76a47402e1a	choplifter [proto].bin	sms-mamesl
+b106995de2f5f9dba99131f0286756ec	chouon senshi borgman (japan).bin	sms-mamesl
+d89cd6506b9c6c865607638350346976	chouon senshi borgman [proto] (jp).bin	sms-mamesl
+2594f33f210ee4cf6356ac7b2ab8c4e7	chuck rock (europe).bin	sms-mamesl
+aa5248dbf08f5ee7944df679966b2d70	chuck rock ii - son of chuck (brazil).bin	sms-mamesl
+ad6c6ffe26d93298ae56bdea8eafc879	chuck rock ii - son of chuck (europe).bin	sms-mamesl
+89d22e72bd0379495a2db456eda6ac4c	circuit, the (japan).bin	sms-mamesl
+4498afc1fce51ebd461798fbe61aa6f8	cloud master (usa, europe).bin	sms-mamesl
+5142a872da047809a9e121563a7f7cbf	color & switch test (unknown) (v1.3).bin	sms-mamesl
+22619be5f41cf6f76c4ccefbc82d0967	columns [proto].bin	sms-mamesl
+ca38efb4db43d988392f4102ac7f1bbf	comic bakery (kor).bin	sms-mamesl
+2d59b3d27f022b04a597e767e6660ca9	comical machine gun joe (japan).bin	sms-mamesl
+5a44e5cb4050f990c15351346cd11d41	comical machine gun joe (kr).bin	sms-mamesl
+231f10776d2683afe576c8f72a03ec71	comical machine gun joe (tw).bin	sms-mamesl
+b4c33bdba2472003f87ed193e51b2c9b	cool spot (europe).bin	sms-mamesl
+7debf96f69c896d8571a6ad6cfacf502	cosmic spacehead (europe) (en,fr,de,es).bin	sms-mamesl
+9878c298077be78b765ac2264815100b	cyber shinobi, the (europe).bin	sms-mamesl
+4fd1e417d6f7eb6d52c655791cfa7c5d	cyber shinobi, the [proto].bin	sms-mamesl
+d2f26a0eb02c78b2505846ba5de90889	cyborg hunter (prototype).bin	sms-mamesl
+ac90d79743cac1afcd7049f7b4e73bc4	cyborg hunter (usa, europe).bin	sms-mamesl
+0027ab3b7479cb1385e43d1f41bcddd6	cyborg z (kr).bin	sms-mamesl
+dd0b6a4f11018ff3d2e6a2b9d9888576	c_so [msx] (kr).bin	sms-mamesl
+4a3e4dfb056f58382b95129ab577d4cc	d-dux 88a5 1.ic2	sms-mamesl
+9aca127e47054580c5320456f640ece2	d-dux 9798 0.ic1	sms-mamesl
+75955b8a2d2a2256523fb26dac62a5e2	daffy duck in hollywood (europe) (en,fr,de,es,it).bin	sms-mamesl
+3ad7b3e23400ee10b7239e22d45aca4e	dallyeora pigu-wang (korea) (unl).bin	sms-mamesl
+6b0fc60aa886c060bf1a16ea97b4f441	danan - the jungle fighter (europe).bin	sms-mamesl
+a60d962fe4aeb8284697a0f5c3aca29f	dead angle [proto].bin	sms-mamesl
+05e3071aad9c36b6e18f1656592eeb3d	deep duck trouble starring donald duck (europe).bin	sms-mamesl
+8fe55ade7b34aa4e42c5f63f4368497f	desert speedtrap starring road runner and wile e. coyote (europe) (en,fr,de,es,it).bin	sms-mamesl
+df89aa1ebc5f42db21fb8d12d9e78511	desert strike (europe) (en,fr,de,es).bin	sms-mamesl
+bb448ca5ce1ec7d86636c6571d6e94cb	dinobasher starring bignose the caveman (europe) (proto).bin	sms-mamesl
+e5c7ba1a2a6e1e9de597479add641d1d	dinosaur dooley, the (korea) (unl).bin	sms-mamesl
+ff7502dd8a717db5adb42c711ddbc9f5	doki doki penguin land - uchuu daibouken (japan).bin	sms-mamesl
+cd2ff7b97934e966836faa6092c7b735	doki doki penguin land - uchuu daibouken (japan, proto).bin	sms-mamesl
+ab45fb997b7c788a46b495d9b3d2fc4d	double dragon (kr).bin	sms-mamesl
+b807d8fea29860cec610eeaf3a921358	double hawk (europe) (beta).bin	sms-mamesl
+3e6e6cb8729965fdfdbb422f066ad706	double hawk (europe).bin	sms-mamesl
+ba66d377ad3a2eaa13bbc00f63f8e4e7	double target - cynthia no nemuri (japan).bin	sms-mamesl
+9f95eb534dd8a2bd57e9fc6a445e2f4c	dr. hello (k).bin	sms-mamesl
+03d03f1e816d137fe6a1f5fe45fee82d	dr. robotnik's mean bean machine (europe).bin	sms-mamesl
+f86e099ca8e407a65a7751d84c2ee519	dragon - the bruce lee story (europe).bin	sms-mamesl
+e05484f93011055c5b76ffabfea84367	dragon crystal (europe).bin	sms-mamesl
+31a7be585288a8b77b7923a202752ab7	dynamite duke (europe).bin	sms-mamesl
+5cb7ebaee5952ebfcdc42e7093072063	dynamite dux (europe).bin	sms-mamesl
+7f57481d870465fc3a6412d87f0a8e38	dynamite headdy (brazil).bin	sms-mamesl
+de328cde27324c8d591f740db0cb2866	e-swat - city under siege (usa, europe) (easy version).bin	sms-mamesl
+36a5339cef97d0a5757db4fd81b4abf3	e-swat - city under siege (usa, europe) (hard version).bin	sms-mamesl
+f81a3f6375fe5ca9e969d3bad90bd242	E-SWAT [Proto 0].sms	sms-mamesl
+5bd644ec21c7c2c5995cfaef0727383f	E-SWAT [Proto 1].sms	sms-mamesl
+37083a8d3ead6b5be8dd138de1c4166e	E-SWAT [Proto 2].sms	sms-mamesl
+af7dcf7a2bfb97d90779a950e4d70b12	e.i. - exa innova (kr).sms	sms-mamesl
+93a96c1aa540cd65dc8be69a7b074edc	eagles 5 (kr).bin	sms-mamesl
+f26bf8d41e0b6159fc436567b447363f	earthworm jim (brazil).bin	sms-mamesl
+fe58b4b23d58386cad7111fd522cbf75	ecco - the tides of time (brazil).bin	sms-mamesl
+bea00f9b73ac248bafa7e406a5489b32	ecco the dolphin (europe).bin	sms-mamesl
+79a45d7a8dee264a7191c4ea2081ce50	epr-rampage.ic1	sms-mamesl
+345dd3e287d94188f3ea8b8eb2de9412	epr-rampage.ic2	sms-mamesl
+75f41552dc57d44f38c19ebe91bd750d	epr-summer games.ic1	sms-mamesl
+25285037a067c5757caf5bc6c1eea7db	evil-1.0.2.sms	sms-mamesl
+a4ba794b418ccfe177c5318bcc0fa9fe	evil-1.0.5.sms	sms-mamesl
+8b12cc57e9e1baf8cc4165d7f8a210fe	evil-1.0.6.sms	sms-mamesl
+1d8aee22e14d42cc569e0f4d594140b6	evil_demo-2.0.21.sms	sms-mamesl
+c68b86706784801eff53a4ca4500ff21	excellent dizzy collection, the (usa, europe) (en,fr,de,es,it) (proto).bin	sms-mamesl
+293ef0398970cff0a5b4cd419b643f3c	f-1 spirit - the way to formula-1 (kr)	sms-mamesl
+b88767b3386073fa775a8391b8912010	f-16 fighter (euro, usa).bin	sms-mamesl
+60e4b9cf6c000eb3af97e758413ce99f	f-16 fighting falcon (japan).bin	sms-mamesl
+87b1292308a3867ef340351c1836825f	f-16 fighting falcon (tw).bin	sms-mamesl
+9d10a4032eb53337b08c9a709144799e	f-16 fighting falcon (usa).bin	sms-mamesl
+9d10a4032eb53337b08c9a709144799e	f-16 fighting falcon (usa)_1.bin	sms-mamesl
+f3d0d07a2eea23175d9a8d2b428151e8	fa tetris (kr).bin	sms-mamesl
+b8eb0cb6a9d16cfd08d9c03297fcd445	fantastic dizzy (europe) (en,fr,de,es,it).bin	sms-mamesl
+e4497d344386a9fe0826e6d166e0f2b3	fantasy zone (tw).bin	sms-mamesl
+59a7ce6a0fabc2e4182bc9313f12367a	fantasy zone (world) (v1.1) (beta).bin	sms-mamesl
+f616ba33caf5c7f31c131f66b1347571	fantasy zone - the maze (sample).sms	sms-mamesl
+d37f86c678b2ad0018518ea7278db24b	fantasy zone - the maze (usa, europe).bin	sms-mamesl
+3706d53f47e3e0294a778bc9b732f414	ferias frustradas do pica pau (brazil).bin	sms-mamesl
+907bc842dece97cef44afff0c9ada770	fifa international soccer (brazil) (en,es,pt).bin	sms-mamesl
+3573a65921b0506f7124f1f9ffb30974	final bubble bobble (japan).bin	sms-mamesl
+d27d8fee8f711db361a71817864bd139	fire & forget ii (europe).bin	sms-mamesl
+85acf93edba54485466aeb840966082b	fire & ice (brazil).bin	sms-mamesl
+a96908fab5f599b11fe8107c3f93b6b1	flash, the (europe).bin	sms-mamesl
+e74328c8cdd71af02ed99b17139126cd	flashpoint (kr).bin	sms-mamesl
+dd0ca0eb90cb15516b2809ea26e58b04	flightofpigarus-sms-1.00.bin	sms-mamesl
+ac3272b18b104aff30d497d6e3aedd07	flightofpigarus-sms-1.10.bin	sms-mamesl
+42b79384a1352b47b9ea32d6d3ec6849	flightofpigarus-sms-1.11.bin	sms-mamesl
+968da039c856f643950239e4e7f6c57e	fox-0_5a04.ic1	sms-mamesl
+b5ff7bc174b1444447a29cb410d7e474	fox-1_dd75.ic2	sms-mamesl
+209ee37dcabc263aa462c781d3123fce	fushigi no oshiro pit pot (japan).bin	sms-mamesl
+075fe70609aaa8a7da0002e7c3d8ed09	fushigi no oshiro pit pot [hack].bin	sms-mamesl
+f78d0ac93633c0478997d02ef38b6eea	g-axe_2ca8_ces.ic1	sms-mamesl
+7ccd2885039eb291e5ef8789173b4e13	g-loc air battle (europe).bin	sms-mamesl
+8a379e0f812f1b787b7126e4173fbe36	gaegujangi ggachi (korea) (unl).bin	sms-mamesl
+7d54230748fa41bb62b6f08e5dcede08	gain ground (europe).bin	sms-mamesl
+8fdb6d42f1d58205ce024f0e50367fee	gain ground [proto].bin	sms-mamesl
+3879d2c954584821190271f3c0743cd8	galaxian [kr].bin	sms-mamesl
+dbaac7c72eb3e0bf9e6d70b799d62799	galaxy force (usa).bin	sms-mamesl
+840ba96cf77b465d3d0d389dac7861d7	game de check koutsuu anzen (jpn, prototype).bin	sms-mamesl
+733fd1ddf07de2d0ffca2c8048223493	game mo-eumjip 188 hap (kr).bin	sms-mamesl
+3a19a85082e7b330b75b0a082dc9628b	gangcheol robocop (kr).bin	sms-mamesl
+fdd401983eb42200f9fec672374597af	gauntlet (europe).bin	sms-mamesl
+1f436b25d69ed02a0f601e41401c728a	gemitas.sms	sms-mamesl
+31cf051d130a64e211d3ccb37c5653f7	george foreman's ko boxing (europe).bin	sms-mamesl
+a7f7d8b8d3394d41430b8240151f91f6	geraldinho (brazil).bin	sms-mamesl
+580adb73aecd35348862fb6ed43ae956	ghost house (euro, usa, bra).bin	sms-mamesl
+bc4f179c11d50f5784cce9902956cbfb	ghost house (j) [hack].bin	sms-mamesl
+89028bfb152a553adf25668649d39ca6	ghost house (japan).bin	sms-mamesl
+5d4a6cd8db303b9dc07ee8be4fe72309	ghost house (kr).bin	sms-mamesl
+c3a1d74bdc4765f7304836eccc5a1bf6	ghost house (usa, europe) (beta).bin	sms-mamesl
+85707b3a74483910699ccc4ba20c64ff	ghouls'n ghosts (usa, europe).bin	sms-mamesl
+28d7241601ceee9b919e2d1aae7165dc	ghouls'n ghosts [demo].bin	sms-mamesl
+af279b5092b60a3fdf5eb12d54752142	global defense (usa, europe) (beta).bin	sms-mamesl
+9e56576a5c7d571ce17c650c4116a77d	gokuaku doumei dump matsumoto (japan).bin	sms-mamesl
+1fa330a17df19820f4c8e0230d3cfbe2	golfamania (europe) (beta).bin	sms-mamesl
+1af1cdf8d40c305f936e72b51cb4740d	gp rider (europe).bin	sms-mamesl
+53f470aa1c9c24970db0bbd23f2f7cc3	graphic board v2.0.bin	sms-mamesl
+7d667ad91582010a358395d0bc59168d	great baseball (j) [hack].bin	sms-mamesl
+94ca79d4eb2709ad98b850d33728a045	great baseball (japan).bin	sms-mamesl
+c0a9a2261ea7ef93bf8120f5328deaec	great golf (japan).bin	sms-mamesl
+a60d9dd3767d4771b10822f091762343	great golf (ue) (v1.0).bin	sms-mamesl
+9be0947196dce7060a6c72f47337cf73	great golf (world) (beta).bin	sms-mamesl
+0a1d636538b18a9d160a45ece1512c73	great golf [jp] (kr).sms	sms-mamesl
+5c9815b45b5cb3d9b3436c56c6fcadaf	great soccer (europe).bin	sms-mamesl
+5c9815b45b5cb3d9b3436c56c6fcadaf	great soccer (europe)_1.bin	sms-mamesl
+0ed883302e87ca46c1c1a55660e17900	great soccer (japan).bin	sms-mamesl
+5de87c05f2651e894c673c84002c2c3a	great soccer (tw).bin	sms-mamesl
+be6eac7ce416c86a818ff13b228b39c5	great tennis (japan).bin	sms-mamesl
+03d6e8450a74ac09e47ae9bf210cfe17	great volleyball (japan).bin	sms-mamesl
+382b627efa06c958b8ec5c85e964bf10	great volleyball (usa, europe).bin	sms-mamesl
+0feb4d1c2483baf591dea34da58ff9c6	gun.smoke (kr).bin	sms-mamesl
+b54989c58520516f4c10ce4e7a446725	haja no fuuin (japan).bin	sms-mamesl
+16d870bf1a5a23a9f2993d8786f5bc74	hang-on & safari hunt [proto].bin	sms-mamesl
+2864be0d35269c5030a7f297f70e3ac3	hang-on (europe).bin	sms-mamesl
+2864be0d35269c5030a7f297f70e3ac3	hang-on (europe)_1.bin	sms-mamesl
+67849e734a1304799606ba5a22f840d2	hang-on (japan).bin	sms-mamesl
+9d07e037338bd71ebf6b39e2014d3472	hang-on (prototype).bin	sms-mamesl
+08431e57a5ecf6cbfb1fdb757d496541	heavyweight champ (europe).bin	sms-mamesl
+1dcacb5969fb4a0d4e9c7fec67227cce	heroes of the lance (europe).bin	sms-mamesl
+eb7913db8b1db1b1ffd6809a2372f601	heroes of the lance [proto].bin	sms-mamesl
+c61595a365ac3a92410220d868ca0564	heroesagainstdemons_v1.04b [retail rom].bin	sms-mamesl
+bf7609929bcc2856a92bf35a5a480225	hi-com 3-in-1 the best game collection a (kr).sms	sms-mamesl
+2949e35216ce3b36ce26af35b80db73a	hi-com 3-in-1 the best game collection b (kr).sms	sms-mamesl
+86559e1ba9225d7caaf86bb412e9a8b7	hi-com 3-in-1 the best game collection c (kr).sms	sms-mamesl
+02662af5700ba779e1739f24bf08bf77	hi-com 3-in-1 the best game collection d (kr).sms	sms-mamesl
+5e23d4771c1f6ffa0de8e3632e822f38	hi-com 3-in-1 the best game collection e (kr).sms	sms-mamesl
+1c921e5460b3c9928a3f83f8ce60ac39	hi-com 3-in-1 the best game collection f (kr).sms	sms-mamesl
+151a25c3909b75fbe674fc6cda85d9b4	hi-com 8-in-1 the best game collection a (kr).sms	sms-mamesl
+09855174b67e481b13fc13700017b6d5	hi-com 8-in-1 the best game collection b (kr).sms	sms-mamesl
+6c4729e7ac7b20746eba51ab16273945	hi-com 8-in-1 the best game collection c (kr).sms	sms-mamesl
+ab38b53584c89476cd4646105b16083a	high school kimengumi (japan).bin	sms-mamesl
+ddd6b56e864a7dfd74a9e04bc4407f41	hokuto no ken (japan).bin	sms-mamesl
+6024c42162c64c922e722547c6f4995f	hokuto no ken (tw).bin	sms-mamesl
+b0100ad9f1838332b15d0434bfa9fe29	home alone (europe).bin	sms-mamesl
+372b7edf08f3bc235ef5351c116e5c9b	hong_kil_dong.bin	sms-mamesl
+7a07e3e59f51b620d8c51bef468d4df5	hook (europe) (proto).bin	sms-mamesl
+480106be9af6c74fc4738c97b23ac323	hwarang ui geom (korea).bin	sms-mamesl
+1ed4380ee602e64323b71e4384aa7a2d	ic2	sms-mamesl
+a26d40b6b7646c22d1f2db7f746f0391	impossible mission (europe) (beta).bin	sms-mamesl
+af51ab03a173dec28c9241532227cd64	impossible mission (europe).bin	sms-mamesl
+429738d19911881f443582a303ecd7f5	incredible crash dummies, the (europe).bin	sms-mamesl
+285d996c1d7dbf38458df61c28bbaa01	incredible hulk, the (europe).bin	sms-mamesl
+d594821486699f366d385f74162be1c7	indiana jones and the last crusade (europe) (beta).bin	sms-mamesl
+b3a4815ca9fdc900cf7fe6ad961f8125	james 'buster' douglas knockout boxing (usa).bin	sms-mamesl
+123a0199f0238a141a66d5746e63ed7e	james bond 007 - the duel (brazil).bin	sms-mamesl
+433fe61368cdf79c1b66cc84d0936599	james buster douglas knockout boxing [proto].bin	sms-mamesl
+73b92360c3efde9d265280f6e157fc33	james pond 2 - codename robocod (europe).bin	sms-mamesl
+f355ec9d0171a4d01356165d2baba6a1	jang pung 3 (kr).bin	sms-mamesl
+c67c5f04519000394bd525eccb774958	jang pung ii (kr).bin	sms-mamesl
+2db7aaabca7f62d69df466797c0d63d9	janggun ui adeul (kr).bin	sms-mamesl
+b05014defe8d0c3d0ad6f67851ca15d7	jurassic park (europe).bin	sms-mamesl
+6ae8f011701608ae8b765a26eb0b7ce1	kenseiden (usa, europe).bin	sms-mamesl
+ea0f3ee7d540d92845cad40d5bc53ef9	king & balloon (kr).sms	sms-mamesl
+8666d9a13fbd8c5a761fab15e15d3db0	king's quest - quest for the crown (usa) (beta).bin	sms-mamesl
+2f579f5a3216dfc77aea636930376ba7	king's quest - quest for the crown (usa).bin	sms-mamesl
+fdb8daaebd35d31353b7523c09b7f0bb	king's quest 2-3-89.ic1	sms-mamesl
+dcea71eda85687d1835bed5c493f81a2	klax (europe).bin	sms-mamesl
+09d622effa934695566e47f1fb1d4b77	knightmare ii - the maze of galious [kr].bin	sms-mamesl
+86deebacc6413f23fe11ee54011cf4bf	krusty's fun house (europe).bin	sms-mamesl
+d8788e907f76419d55bcc447e76de6ad	kujaku ou (japan).bin	sms-mamesl
+17f9c50c444dc94e08ba173ab306608b	laser ghost (europe).bin	sms-mamesl
+5dba0a0dd0eeb52fe6d94dce47335a34	lemmings (europe) (beta).bin	sms-mamesl
+3da5f5122f3d94360de61bcb8478e169	lemmings 2 - the tribes [proto].bin	sms-mamesl
+65a3deae350cd2875719b8b4f490b330	lethal weapon 3 music [proto].bin	sms-mamesl
+1597ad705990a66e90262ef7b1141b64	line of fire (europe).bin	sms-mamesl
+e50336c0d146e8a341c7ae198a016527	lion king, the (europe).bin	sms-mamesl
+a5736126ed7e8569a189065ec20adf72	lord of sword (japan).bin	sms-mamesl
+b80f87887881343e5705ff3cce93c5f1	lord of the sword (usa, europe).bin	sms-mamesl
+ca2177f94ce617cbd3cbb1df55810d06	Lucky 1.0.sms	sms-mamesl
+79def75be0b980752dec8526f84cd2b8	Lucky 1.1.sms	sms-mamesl
+7de03b7f1cdc1f931b3a4746d9350033	lucky dime caper starring donald duck, the (europe) (beta).bin	sms-mamesl
+19db67f87bb3d1d8efead0542de30cd1	mahjong sengoku jidai (japan) (beta).bin	sms-mamesl
+6bd9879af39e248d149761014ebf5639	maou golvellius (japan).bin	sms-mamesl
+b2cf7c01fa99d5aef7bf3a4d9f4c6917	maou golvellius [proto] (jp).bin	sms-mamesl
+97832999dd6d2ba467b5625006b018a0	marble madness (europe).bin	sms-mamesl
+0a28cfd7b151531fb7a43181c24e1d3d	marksman shooting & trap shooting (usa).bin	sms-mamesl
+7f4c7a57ae46837f01ef9a0c85065250	masters of combat (europe).bin	sms-mamesl
+fd834dbb87682c674f7d7ed917355021	megumi rescue (japan).bin	sms-mamesl
+cd6ee06f4cda94fc777c2cd1c5e4f1e7	michael jackson's moonwalker (usa, europe) (beta).bin	sms-mamesl
+aa3bc8467e80a6aaab02051818ecb035	michael jackson's moonwalker (usa, europe).bin	sms-mamesl
+d2ce453953f406d36850f452768d5580	mickey's ultimate challenge (brazil).bin	sms-mamesl
+a90cf8d68fa8b1f0ba00f0ddb9d547b7	micro machines (europe).bin	sms-mamesl
+4d5815d1b0c7b371237bb0e98281d5f3	micro xevious, the (kr).bin	sms-mamesl
+08d806775806a7bb128ede231f93206d	milhao.bin	sms-mamesl
+3f5d2ca45ccc205d18c8e3d1d9969f00	miracle warriors - seal of the dark lord (usa, europe) (beta).bin	sms-mamesl
+e0a9cf889c27f3cb14903288f646d183	miracle warriors - seal of the dark lord (usa, europe).bin	sms-mamesl
+6c3d54e1338112fd39418ca8da672994	missile-3d (prototype).bin	sms-mamesl
+d649ce52d05d88efdaca81d2ccc57d2d	monica no castelo do dragao (brazil).bin	sms-mamesl
+b887836983fccb5ec706630cf835939f	monopoly (usa).bin	sms-mamesl
+f2d360f60acd4ca1e50ab301e20de581	monopoly (usa, europe).bin	sms-mamesl
+c7b4aa45ded97242b9e20f7a76c6fbd2	monopoly [proto 1].bin	sms-mamesl
+19e6167c6bad839603240adeda122ac7	monopoly [proto].bin	sms-mamesl
+3ecff4b5ef40705615b208d60403f276	montezuma's revenge - featuring panama joe [proto].bin	sms-mamesl
+8a590bff739700171e5996c9dd4e01ae	mopiranger (kr).bin	sms-mamesl
+3ba73c09f35ea91bf36cd0b01bc1c044	mortal kombat 3 (brazil).bin	sms-mamesl
+c60f62f13a60bc585822bfd2d68ba75c	mortal kombat ii (europe).bin	sms-mamesl
+fed8690ee5fb895c09caa8e2b879ebd6	mpr-10118 w01.ic1	sms-mamesl
+84284c327b07c200c16f4e13b2e8de79	mpr-10137 w02.ic1	sms-mamesl
+747a206eaaadf48714695e8b4ccead7e	mpr-10149 w04.ic1	sms-mamesl
+75550fca836414ce7286c294d03c1b04	mpr-10151.ic2	sms-mamesl
+0ee2937104e9667be89c38e6e9992d4b	mpr-10154f.ic1	sms-mamesl
+bf7ea79ac0df3ebe7256da6331b21c34	mpr-10157f.ic2	sms-mamesl
+6e8e702e1d8a893ee698b93f5807972a	mpr-10379.ic1	sms-mamesl
+e5693a4806de29ea9b1e1b5fea1a9566	mpr-10386.ic1	sms-mamesl
+e645faa5628caab5129383fdbf4df090	mpr-10387.ic1	sms-mamesl
+374d762b51b1c5ea8ff7903f98586e0e	mpr-10389.ic1	sms-mamesl
+7a080a155ad6a806da88aa1d3576d78c	mpr-10407 w10.ic1	sms-mamesl
+41e20afe05c2fbe45ac5f3a9c8111047	mpr-10409.ic1	sms-mamesl
+1d126c6ac8e4d7b612e9db3d56d9e78e	mpr-10415 w11.ic1	sms-mamesl
+63af7fce5106cc3de1e1b116c112095b	mpr-10418 w15.ic1	sms-mamesl
+f8ea8b8e641cabff32210ea6583f9f94	mpr-10515.ic1	sms-mamesl
+dbae1ad6d3917a95b96d28bfc6f3f90a	mpr-10516.ic1	sms-mamesl
+8dcdd83e58be634a3735911a1af05bb3	mpr-10517.ic2	sms-mamesl
+2cf4d65cb09c276a96ad73e724fb825c	mpr-10576.ic1	sms-mamesl
+f4a3116fe2be83eafd4cc278812be9b4	mpr-10742.ic1	sms-mamesl
+a94de92b078911e71c246679c8992da1	mpr-10745.ic1	sms-mamesl
+5f008423ae6a454bc70e94a8c9f33d1c	mpr-10747f.ic1	sms-mamesl
+0e025768db6e6a7459099add711690ab	mpr-10749.ic1	sms-mamesl
+06779a1a9dbada60efb1f37e37040a5b	mpr-10843 w28.ic1	sms-mamesl
+b17ca24555cc79c5f7d89f156b99e452	mpr-10844 w29.ic1	sms-mamesl
+f898539f72db2271fc3385a5eb51a06f	mpr-10847.ic1	sms-mamesl
+481a01c4e768c535ee18d6d78815fc89	mpr-10848 w05.ic1	sms-mamesl
+47d736575f9a22f7490d62c76ed7c933	mpr-11043.ic1	sms-mamesl
+2c620ba64fcaac940b4b1566733037b3	mpr-11046.ic1	sms-mamesl
+3396259ca032ed4f1499d1f737e75e0d	mpr-11049.ic1	sms-mamesl
+126687037bf172174f697d16cd7e7296	mpr-11069.ic1	sms-mamesl
+8712366da97ab80f4cd2aa36203a5885	mpr-11070.ic1	sms-mamesl
+dde5d7a2694e6917bafab185594a267e	mpr-11071.ic1	sms-mamesl
+582d58d95c9774cd50555366c253a050	mpr-11072 w01.ic1	sms-mamesl
+450d68460d4ae07a7cc98d36491fd4f8	mpr-11073.ic1	sms-mamesl
+72b55720de75072a2feceab9ca4367b0	mpr-11074.ic1	sms-mamesl
+029ee92155247f8a282d63b8a6dd23c4	mpr-11078 w04.ic1	sms-mamesl
+12ce04ff557a96add46f04b12b0d47cc	mpr-11121.ic1	sms-mamesl
+3701cb59dfd137246d163462d18e8dd4	mpr-11125.ic1	sms-mamesl
+8ddec589f72cdcf2cd4caafb075ec8e4	mpr-11190.ic1	sms-mamesl
+4fd639981901032cdde4b12ca83d078c	mpr-11191.ic1	sms-mamesl
+763580f2af57ea7baddf671fb51787da	mpr-11192 w36.ic1	sms-mamesl
+ae37b27f37a25c5230f50e8b8d58eba2	mpr-11193.ic1	sms-mamesl
+882dc10b0792be579a745c3f38010642	mpr-11197.ic1	sms-mamesl
+dfebc48dfe8165202b7f002d8bac477b	mpr-11198.ic1	sms-mamesl
+6271c183513e0be0543e326419ee989e	mpr-11271 w01.ic2	sms-mamesl
+7ab485ee37ea7ce538f7dba08b64d95e	mpr-11274.ic1	sms-mamesl
+03552187d613c1b2a22a8e32476c5254	mpr-11276.ic1	sms-mamesl
+d22d7b072123ef9c43b432e06363dabd	mpr-11337.ic1	sms-mamesl
+732808a44a90b780454a1eb6adbf3957	mpr-11384 w10.ic1	sms-mamesl
+8d61b59296877216cf7e4b04a68bfa66	mpr-11385.ic1	sms-mamesl
+717fdf868c8f11a712697260eb7db670	mpr-11400.ic1	sms-mamesl
+ea50dcdd1241667f32d39d606a9f7083	mpr-11402 w09.ic1	sms-mamesl
+a20798b12481284f77cee67ce5e25f2b	mpr-11421.ic1	sms-mamesl
+9b6274dd555f84b3f21fa2594b280a06	mpr-11454.ic1	sms-mamesl
+ccb76c009e52e32e2dcc528481f0e039	mpr-11457f.ic1	sms-mamesl
+8f8aaac492de96f2cfddb9d1a57dd979	mpr-11487.ic1	sms-mamesl
+f4c3327b0f92e09b21f59e90fd273c2f	mpr-11488.ic1	sms-mamesl
+2349ee42a09088a4a590e2c65474cdaf	mpr-11564.ic1	sms-mamesl
+945a4202181abe8c50082a65211ef7c7	mpr-11564_1.ic1	sms-mamesl
+8d9f02dcfea8f9728a3665ca12b044d1	mpr-11685 w48.ic1	sms-mamesl
+1110938df80f4e44c8213d7f85cfb5e6	mpr-11711at.ic2	sms-mamesl
+6bec795910c5a91ac146b905df7c17f5	mpr-11817-s.ic2	sms-mamesl
+70dcee3c77e95d83fcf6df0dae30a4a8	mpr-11820f.ic1	sms-mamesl
+fe9aa8044951b10f876b15f4456161a9	mpr-11831 t03.ic1	sms-mamesl
+deac89672a98c5400030e66577cbb454	mpr-11886.ic1	sms-mamesl
+2101295c258cb6b845bdb72be617691d	mpr-11935f.ic1	sms-mamesl
+9e5507d51ac6f24c702a52a7abce0d3c	mpr-12002 t13.ic2	sms-mamesl
+4fce4e3247639d0ef54eb54d0ef21153	mpr-12036f.ic1	sms-mamesl
+54ee884bc658dbad88eac18e45e0eafc	mpr-12042f.ic1	sms-mamesl
+d1151de6ea0a2547f047ce31b22fe18f	mpr-12043f.ic1	sms-mamesl
+77d2ff054429f7970134e67800539a78	mpr-12044f.ic1	sms-mamesl
+3586416ac6f2aa1fa7dea351afb8ac1c	mpr-12122f.ic1	sms-mamesl
+dbc9260009dd0838d0e31de51d57d078	mpr-12129f.ic1	sms-mamesl
+558c793aab09b46bed78431348191060	mpr-12130.ic1	sms-mamesl
+6deabfc15d9aeb4c8ed1b641fb950de5	mpr-12138f.ic1	sms-mamesl
+182b179a1226fb5b1e1cf6bb2f351c50	mpr-12342f.ic1	sms-mamesl
+fe20d983d1b18ff1986c376489843f32	mpr-12402.ic1	sms-mamesl
+0f6ebfa2b24bb99dbea1142312fd33c9	mpr-12408.ic1	sms-mamesl
+0e1449dd7df4fd0995ccf802bb74cba0	mpr-12532-t.ic2	sms-mamesl
+0070737ddb0a2e5e822f1d8f46437b07	mpr-12533f.ic1	sms-mamesl
+24618ca4a223a36d2bfda10f42454687	mpr-12534 t35.ic2	sms-mamesl
+93bb1e1ee14ac53adb9e6b9e0c135043	mpr-12552.ic1	sms-mamesl
+7a5d3b9963e316cb7f73bbdc2a7311c6	mpr-12554.ic1	sms-mamesl
+7a5d3b9963e316cb7f73bbdc2a7311c6	mpr-12554_1.ic1	sms-mamesl
+670f409af2403c8256b6c04d026e33c5	mpr-12555f.ic1	sms-mamesl
+96042c7a53dc6f9de13b7a32fa3e4035	mpr-12566a.ic2	sms-mamesl
+e7f86c049e4bd8b26844ff62bd067d57	mpr-12570.ic1	sms-mamesl
+2db9404fe79593fd2379921ca822103a	mpr-12584.ic1	sms-mamesl
+580adb73aecd35348862fb6ed43ae956	mpr-12586.ic1	sms-mamesl
+b88767b3386073fa775a8391b8912010	mpr-12643.ic1	sms-mamesl
+8d5e93715bad32ba8bbcac9d21e87d89	mpr-12654f.ic1	sms-mamesl
+66baea0a42353ffd3f131586e0c9c4d4	mpr-12668.ic1	sms-mamesl
+0069b1bd9c5b6b88ace6324d7e61539f	mpr-12728.ic1	sms-mamesl
+b30e60b91960a0f2a89fc133410770df	mpr-12903 t24.ic1	sms-mamesl
+88a19d1f5d7ba2ba1f68fd83602c6eb7	mpr-12934.ic1	sms-mamesl
+c54c1a2559cec189f53e794177d002af	mpr-13135.ic1	sms-mamesl
+5554f9f67103e0d5b1a4075a2d26d15b	mpr-13144.ic1	sms-mamesl
+b4911ad6a9d2ba56497cd5b01da3938a	mpr-13166.ic1	sms-mamesl
+ec16428b908a2c0036b799e55614be3d	mpr-13167.ic1	sms-mamesl
+efb0fb59074eab11816c8843b4135a0c	mpr-13289.ic1	sms-mamesl
+a19d4a16be24106cd48b283b5bad5023	mpr-13292.ic1	sms-mamesl
+d443d521036d527d35926809f230106c	mpr-13293.ic1	sms-mamesl
+aed300f323aae6d00878eb6ba21c2eb7	mpr-13295 t32.ic1	sms-mamesl
+8b603c931418a3680b8723861f55a7b5	mpr-13299-f.ic1	sms-mamesl
+9b694d765038ffb87b36174412452588	mpr-13306a-m.ic1	sms-mamesl
+e83f8c99882e2123bd344090421e84c3	mpr-13309.ic1	sms-mamesl
+e7e1ef0a9e20585e2266e8adbaf4b8c9	mpr-13584a.ic1	sms-mamesl
+0ece8f9c0fde2eba92bbe9a500116ff0	mpr-13605 t35.ic1	sms-mamesl
+1dcaf7d1ea7caaaa716f0ec43c3f828a	mpr-13644.ic1	sms-mamesl
+d46e40bbb729ba233f171ad7bf6169f5	mpr-13664-f.ic1	sms-mamesl
+23a5a42c0a4a4bceffbd1869192f329d	mpr-13701-f.ic1	sms-mamesl
+68cc1711bb89921da1f215f323f3bb2d	mpr-13706-f.ic1	sms-mamesl
+fa10ee70e43385e88e5d1a008716668b	mpr-13949 t42.ic1	sms-mamesl
+48af5ae2cad7c48c81d7c2553a8ed426	mpr-14093 w08.ic1	sms-mamesl
+d79c186a74550876691e97ca830c66c7	mpr-14177-f.ic1	sms-mamesl
+c32c95222ce705c0c93732a8922f7453	mpr-14252-f.ic1	sms-mamesl
+c60380642a89805f569124a875248d71	mpr-14254.ic1	sms-mamesl
+7d5696c3da0dbed04b35543f7bdbef40	mpr-14269-f.ic1	sms-mamesl
+dc13a61eafe75c13c15b5ece419ac57b	mpr-14271-f.ic1	sms-mamesl
+653f10042a5ee5854ccf971456641a4d	mpr-14358-f.ic1	sms-mamesl
+6c203c7aa7003a880b80a90d96fc4a33	mpr-14397-f.ic1	sms-mamesl
+0feb52e9b0a8cd378fb38902eb4b4100	mpr-14520-f.ic1	sms-mamesl
+2cd25b3d9a1ced329a551d7fc3c0f01e	mpr-14677.ic1	sms-mamesl
+a7f1049812a4cd1f180dcd644b10145f	mpr-14686.ic1	sms-mamesl
+c28aa80489a467bf54fc1403029a83d3	mpr-14689.ic1	sms-mamesl
+2a0717f014b2fd99decd92308175658f	mpr-14754-f.ic1	sms-mamesl
+ebb0b4161ffa873a7fa80ca41d139c57	mpr-15063.ic1	sms-mamesl
+bf3b7a41e7da9de23416473a33c6ac2b	mpr-15159.ic1	sms-mamesl
+cfc878f0163933fcfcc89e134fbeb31f	mpr-15161.ic1	sms-mamesl
+07fac1d61bc20cf6eb298f66ec2ffe49	mpr-15163.ic1	sms-mamesl
+8354932a7f20e84a808471b3724a56f8	mpr-15203-f.ic1	sms-mamesl
+b190f17a46ba9cc66676e7174209c24e	mpr-15221-f.ic1	sms-mamesl
+5837764c172c8c43c8c7b21f2144cf27	mpr-15317.ic1	sms-mamesl
+c52e496c497d427747769aaedfbb8dab	mpr-15484.ic1	sms-mamesl
+dc1541e54da2376781e3691784befaa9	mpr-15506.ic1	sms-mamesl
+73569d2abefb7cdcbe9a13456df525c2	mpr-15510-f.ic1	sms-mamesl
+5ac58b3a7fda23161ab1185b3ee797ac	mpr-15643-f.ic1	sms-mamesl
+bd7898393b716aff69132934bf7dccb8	mpr-15671.ic1	sms-mamesl
+08eb9bf02f5eb4e238f791f27d65449a	mpr-15714.ic1	sms-mamesl
+a429ed37b51cc9f46c943f968d88e29f	mpr-15757.ic1	sms-mamesl
+5d67504b8334a0e36f6119515928717c	mpr-15830-f.ic1	sms-mamesl
+1d661134b14eedf6b4ae1c907581fd96	mpr-15926-f.ic1	sms-mamesl
+db41b17f3268d9076e0928911a2791e0	mpr-15984 w06.ic1	sms-mamesl
+cba2ec2940619956359801618e7aab17	mpr-15988.ic1	sms-mamesl
+42fb44c9a2c82b8c4aef8191c1b5676f	mpr-15992.ic1	sms-mamesl
+56b3436304b8cecfe4e321ca029d5e80	mpr-15999.ic1	sms-mamesl
+ed224898befb4fb246175e46f9982821	mpr-16057.ic1	sms-mamesl
+f1983c31f965aa8de77df64483883550	mpr-16073.ic1	sms-mamesl
+baf383826e472bb1959aeb0fc7ff853d	mpr-18796.ic1	sms-mamesl
+ce7f314a657e0f0fe506fb7aea016f31	mpr-19947-s.u2	sms-mamesl
+4a69a56a8efff7863feca11f1d6547e3	mpr-20989-s.ic1	sms-mamesl
+3a1dfad2cea111d0dbfb4a545bf3f87e	mpr-7751.ic1	sms-mamesl
+ed3b29777ce9db9316f26121a353b92e	ms sonic 3 0.bin	sms-mamesl
+861ee3d1d3bbe17ab09f3688cd122fb1	ms sonic 3 1.bin	sms-mamesl
+1cb11cd1abc7700be6dad66896b8c6cb	ms sonic 3 2.bin	sms-mamesl
+684ae2f36408b5760facfaaad8dbef52	ms sonic 3 3.bin	sms-mamesl
+e492a237f62ea6a5b7e71ff1a3fc0f33	ms. pac-man (europe).bin	sms-mamesl
+d5abc0b090ce88f4372b878baae7e60a	ms_ar_rom.bin	sms-mamesl
+efef7361c9c37bcd6a7b84bc121af5f2	my hero (usa, europe).bin	sms-mamesl
+efef7361c9c37bcd6a7b84bc121af5f2	my hero (usa, europe)_1.bin	sms-mamesl
+3d847bf62567026be23512961a578063	nba jam [proto].bin	sms-mamesl
+1f9b5ae214384c15e43e1d8eee00c31f	nemesis (kr).bin	sms-mamesl
+f6b084c626d96f4d48203caaed0ae6b1	nemesis 2 (kr).bin	sms-mamesl
+a12d3371030dc8aa0d01d8b21eae7b53	new boggle boggle (kr).bin	sms-mamesl
+05e5054e2ea818d4b7eb53d624562dcf	new zealand story, the (europe).bin	sms-mamesl
+1ba2e954d50fedd479b7d3b58cb0a090	nightmare_0.ic1	sms-mamesl
+f9c90338290d5e9be969107186c5a28d	nightmare_1.ic2	sms-mamesl
+b070dc2ba3f106e89d1e9551f49a0027	ninja gaiden (europe) (beta).bin	sms-mamesl
+205b3543f300b96972bca5ce1d1f1f90	olympic gold (korea) (en,fr,de,es,it,nl,pt,sv).bin	sms-mamesl
+a31cbbded45f66633fb38b1c1bef9b08	opa opa (japan).bin	sms-mamesl
+2ca2064302f51f724e1f2593369a0696	operation wolf (europe).bin	sms-mamesl
+f64ea159120c018e05fb95ac8533e9eb	ottifants, the (europe) (en,fr,de,es,it).bin	sms-mamesl
+c8e4b6b1ca8d93e88a66506e55f489f9	out run 3d (prototype).bin	sms-mamesl
+458fc29765865fdaaf3f56808c94d8a6	out run europa (europe).bin	sms-mamesl
+946f3e6c2f0f546a8ebe55c8170ecc78	pac-mania (europe).bin	sms-mamesl
+a0a053017d9cae9dd8ce8676355b16b9	paperboy (europe).bin	sms-mamesl
+0ae250702d273bcdc65b24e9e12ee0c4	pat riley basketball (usa) (proto).bin	sms-mamesl
+cada8fbd55b6444f2308e770c79eaccc	penguin adventure (kr).bin	sms-mamesl
+40c59c08df065e34fff1b379491e6013	pga tour golf (europe).bin	sms-mamesl
+1b69716f9f4053e1533f654c091ae410	phantasy star (brazil).bin	sms-mamesl
+14c59604768b33175362cc592cb75ead	phantasy star (j) (from saturn collection cd).bin	sms-mamesl
+f853b7ddca63864735c03001c9ac477b	phantasy star (korea).bin	sms-mamesl
+5ba9114edea5deb5282fd9ad7d4b2d62	phantasy star (usa, europe) (v1.2).bin	sms-mamesl
+5535108813e568e4dd84a425ff2e928b	pit fighter (brazil).bin	sms-mamesl
+585aed13ba548d0258a457cd6768511b	pit fighter (europe).bin	sms-mamesl
+be22465f3699d9e5ab7a96662062e3c2	Pitman.sms	sms-mamesl
+d6944562606fc7f67ffddb67eeff45a9	Pitman_102.sms	sms-mamesl
+ca61679b410ead842d72b8521b9eb9a8	pooyan (kr).sms	sms-mamesl
+cc694ca94c4d74b487983332facc8b86	populous (europe).bin	sms-mamesl
+a11f8c275c80fc397d11f776e4197966	power boggle boggle (kr).bin	sms-mamesl
+069349d2bf4db0bd1382070a2d7f11b0	predator 2 (br).bin	sms-mamesl
+1389419d90834d3700b772e984143fde	predator 2 (europe).bin	sms-mamesl
+70e9b330dd6a91e7310f3c8d9a934ecc	prince of persia (europe).bin	sms-mamesl
+86c609b630c8bc018c8ebae77546c3c1	promocao especial m. system iii compact (brazil) (sample).bin	sms-mamesl
+1076f6358527d1cec1e1e75143997293	psychic world (europe).bin	sms-mamesl
+a9c2facf9ef536d095414ce2e7ce2f4f	psycho fox (usa, europe).bin	sms-mamesl
+fc40576778de28cc254b588a3a46d2a6	putt & putter (europe) (beta).bin	sms-mamesl
+c13dab68a85fef5ba28ae0f5ba4fd05f	putt & putter (europe).bin	sms-mamesl
+d6155260305d2ea1ee0d3258691d11fa	puznic (kr).sms	sms-mamesl
+58b89d62438407f242bbe713f1d945ca	quest for the shaven yak starring ren hoek & stimpy (brazil).bin	sms-mamesl
+3d980001fc22393ebec2b5b1cf8a01bc	r-type (proto).bin	sms-mamesl
+61aa7404e23836c79e2a689322ffe190	r.c. grand prix [proto].bin	sms-mamesl
+e80ae00d8924f2bada5949bf75995d87	rainbow islands - the story of bubble bobble 2 (brazil).bin	sms-mamesl
+ffba9869948e2cef2bda6f805cc72087	rainbow islands - the story of bubble bobble 2 (europe).bin	sms-mamesl
+f865afb7b5c32e130016e2d35756839c	rampart (europe).bin	sms-mamesl
+5b3a785de403c311db7f17eae27caae6	rastan (usa, europe).bin	sms-mamesl
+617beb208b6b62d30c4237dd36e9cf33	rastan [proto].bin	sms-mamesl
+b3a37d601050ca5c732dc4160d875821	reggie jackson baseball (usa).bin	sms-mamesl
+bbce8b8ac26e2f582defe0056346f035	renegade (europe).bin	sms-mamesl
+bbb981832e972bc7959729a8236331c8	rick.sms	sms-mamesl
+0e52a43c9a02ad26e2526706091dc78d	road fighter (kr).bin	sms-mamesl
+325575374d2db3755f83bba728990ebe	road rash (europe).bin	sms-mamesl
+c656dc9f901387cc51276e4709c340f8	robocop 3 (europe).bin	sms-mamesl
+7e29ab7dae0049e1e3944af7da2757fb	robocop versus the terminator (europe).bin	sms-mamesl
+d8a4c95203bbe294760085189f9544fa	sagaia (europe).bin	sms-mamesl
+517c371a929ab012ee95a20843c5f1c2	sangokushi 3 (korea) (unl).bin	sms-mamesl
+387983a020328f52b42293b308562eb8	sapo xule - o mestre do kung fu (brazil).bin	sms-mamesl
+4cc124f115adb89a5749908787dcb230	sapo xule - s.o.s lagoa poluida (brazil).bin	sms-mamesl
+409663e3bc47cd555d463084b317d600	sapo xule vs. os invasores do brejo (brazil).bin	sms-mamesl
+2d1f7ef69dbe3bc9df05ea16ef824bec	satellite 7 (j) [hack].bin	sms-mamesl
+eac6a843975c50e39eb32f764da2a5ac	satellite 7 (japan).bin	sms-mamesl
+4aba236d2a81e738adaaf5b00de81653	schtroumpfs autour du monde, les (europe) (en,fr,de,es) (beta).bin	sms-mamesl
+86806bba2acf7a07aad125f6ef02cd51	schtroumpfs autour du monde, les (europe) (en,fr,de,es).bin	sms-mamesl
+82b9ee0920c3c46798ecd659be0a5d9a	scramble spirits (europe).bin	sms-mamesl
+3f6c5515a2e39826fbf816780298701c	secret command (europe).bin	sms-mamesl
+92334e9e52eeb8d27606e319b1f8b617	sega chess (europe).bin	sms-mamesl
+f9c526afcacc727e45e722a9d8075109	sega world tournament golf (europe).bin	sms-mamesl
+fb2ad2524646bd069e3ec1b51fd7eb39	seishun scandal (japan).bin	sms-mamesl
+5b4e4e67cd062325223fc57073c0e990	seishyun scandal (j) [hack].bin	sms-mamesl
+5ca0a2b33db8eedcddb1d5aeaa8ea5a4	sensible soccer (europe).bin	sms-mamesl
+3f5334833d17f7ecd5e85434de35fb31	SG11004A 79ST0086END 9045	sms-mamesl
+c2055d5c66dd3944b99642c18032ebc4	shadow dancer (europe).bin	sms-mamesl
+abc8a9e43c588c7d0535cc8305bdbf94	shadow of the beast (europe).bin	sms-mamesl
+802d1525499492580de31ca62bca3c40	shanghai (usa, europe) (beta).bin	sms-mamesl
+f0595fbd334cb8e95c0486a588a24f7b	shanghai (usa, europe).bin	sms-mamesl
+789b285290688cbd0a786f888f9dada1	shinobi (japan).bin	sms-mamesl
+3dd2c025185e19ac9bf1ed16b695c629	shinobi (usa, europe).bin	sms-mamesl
+26df4404950cb8da47235833c0c101c6	simpsons, the - bart vs. the space mutants (europe).bin	sms-mamesl
+85ea52a2cbcae078dc3a04f8db1304a9	sitio do picapau amarelo (brazil).bin	sms-mamesl
+4e1335c59e236c2d9dbc07b9847dffcb	skbn-1.1.sms	sms-mamesl
+701bd13e12f01f2f802e91210009b92e	skbn-1.2.sms	sms-mamesl
+76a318f546518e6395ec0084541bb1b6	skbn-1.3.sms	sms-mamesl
+15fb41236ca0042a0eae91a3b9df74df	skbn-1.4.sms	sms-mamesl
+26651b08b9385c5a9810be655287d164	skbn.sms	sms-mamesl
+5c6d01e7534726e02f27664c44c491d6	sky fighter (kr).bin	sms-mamesl
+836d0b4c9ab9296cc78a5f8e2cb375d7	sky jaguar (kr).bin	sms-mamesl
+19a825bd9210ce0ff84cb883c750e7fc	sky jaguar [clover] (kr).bin	sms-mamesl
+7f6359544ca157491960e4a0136a0f42	slap shot (europe) (v1.1).bin	sms-mamesl
+9b2d895f4ec70c0466f4d314b6ef205f	slap shot (proto).bin	sms-mamesl
+2027d095ee5c1f2c01255888e0b436ed	slap shot (usa) (v1.2).bin	sms-mamesl
+fe2aa0402eb30cec17b3bf4504f8219b	smurfs, the (europe) (en,fr,de,es).bin	sms-mamesl
+cfa84806075e017e29ffcdd0127fe647	solomon no kagi - oujo rihita no namida (japan).bin	sms-mamesl
+87a34d65278702a8cef9c85418be884d	solomon no kagi - oujo rihita no namida (prototype).bin	sms-mamesl
+345e9713d7d8fd523285b9b69caa0d14	sonic chaos 0 gg 13-7 1m.bin	sms-mamesl
+8932d722058cad08be286365425c43e9	sonic chaos 1 gg 13-7 1m.bin	sms-mamesl
+2a23d9b72987701a9d8a6d21b5992ca0	sonic chaos 2 gg 13-7 1m.bin	sms-mamesl
+3bd91eddeddac3e7dbc692eda6aaf38a	sonic chaos 3 gg 13-7 1m.bin	sms-mamesl
+21b4bcf6b259d4550912ad6f4aeaf550	sonic spinball (europe).bin	sms-mamesl
+0ac157b6b7e839953fc8eba7538fb74a	sonic the hedgehog 2 (europe) (v1.1).bin	sms-mamesl
+5919b101624d4710a10825c34e753ba2	sonic's edusoft (unknown) (proto).bin	sms-mamesl
+b2e5047df186af7c02da17f1b285ae4f	space harrier (japan).bin	sms-mamesl
+d8717eeb943c292c078429a0ed5a8527	space harrier 3d (japan).bin	sms-mamesl
+16523c29c9b2f5e2c6252b57e1c22590	special criminal investigation (europe) (beta).bin	sms-mamesl
+74c8108e7207d5b7149a69b0fc90d877	special criminal investigation (europe).bin	sms-mamesl
+ccbb21ff7484d5569bc823168edc8628	speedball (europe) (mirrorsoft).bin	sms-mamesl
+ae579fba63e0da9cb969980ac172a600	speedball (europe) (virgin).bin	sms-mamesl
+b37e0c8177c4792594356b11757f9ac5	speedball 2 (europe).bin	sms-mamesl
+094628b6dd0342253594b0adb0777c7b	spider-man - return of the sinister six (europe).bin	sms-mamesl
+3317f644f36159e2dc63aea9b75c927d	sports pad football (usa).bin	sms-mamesl
+4cc5ba7ef736508a8afc1ed7ec640c3e	sports pad soccer (japan).bin	sms-mamesl
+2a6ee78e2617886fe540dcb8a1500e90	spy vs spy (japan).bin	sms-mamesl
+2a6ee78e2617886fe540dcb8a1500e90	spy vs spy (japan)_1.bin	sms-mamesl
+e42cf87c4c8ed81b4d58618df23a4367	spy vs spy (tw).bin	sms-mamesl
+1a97c84dadd3e93fe922d8f5f366625e	spy vs. spy (j) [hack].bin	sms-mamesl
+1a3b00c5b7382cfde710eac482e67c81	spy vs. spy (u) (display-unit cart).bin	sms-mamesl
+c6adc5db40d0db75c9c167e4bb2ed918	spy vs. spy (usa, europe).bin	sms-mamesl
+c6adc5db40d0db75c9c167e4bb2ed918	spy vs. spy (usa, europe)_1.bin	sms-mamesl
+2012a00d2ef01285e7bf077f78e975f5	star wars (europe).bin	sms-mamesl
+7a4cda14dd38a48fc36bcc6e104cf5d7	street fighter ii (brazil).bin	sms-mamesl
+ea83395c811ab1e40e9f3f6b47908ae7	street master (kr).bin	sms-mamesl
+29a5195d57a82fb1349a7403f1d65d7e	streets of rage (europe).bin	sms-mamesl
+e680b108e67caf02e4fb77d419f48358	streets of rage ii (europe).bin	sms-mamesl
+36d936d25715103a4f8388deb4a1fed3	strider (demo).bin	sms-mamesl
+8336c9a48390889fb3e17cd6f9471ae1	strider ii (europe).bin	sms-mamesl
+5eaa50519e87d57f40f50731caff5f62	submarine attack (europe).bin	sms-mamesl
+01764008734841830623b43c6e3a528b	suho cheonsa (kr).bin	sms-mamesl
+e80ce989b68b1faa5e40016ce7b096fe	sukeban deka ii - shoujo tekkamen densetsu (japan).bin	sms-mamesl
+d08bb7ce6d71c1b6a72e90f3a4fbfb54	summer games (europe) (beta).bin	sms-mamesl
+10f2a7506ae6402f42b8083b24c0d105	summer games (europe).bin	sms-mamesl
+5528631a82d25d4eb8f0e9014fd6360c	super basketball (usa) (sample).bin	sms-mamesl
+145f4e618e77add0df11a4aa79fe08c0	super bioman 1.bin	sms-mamesl
+10b3d123ed5f2437b2d31cf8b8e60179	super boy 1.bin	sms-mamesl
+ca1e0e7bdd2a0be70129b1de97746e40	super boy 3.bin	sms-mamesl
+eb7d7db5ab98b0b7812552644fb95fe8	super boy 4 (kor).bin	sms-mamesl
+6120c9ba0f2c24031c9a836035060717	super boy ii (kor).bin	sms-mamesl
+0c36afd72e18ca6720a982130349b953	super bubble bobble (kr).bin	sms-mamesl
+9ff10eb9208f9feb01bbfd73edf63625	Super Columns (KR).sms	sms-mamesl
+2b419a4d7b7870f94161592e7c387510	super futebol ii [game box serie esportes] (br).bin	sms-mamesl
+355f226e0b0602f1fb8c27ed4bae3713	super golf [proto].bin	sms-mamesl
+437120d02402b8288ae475d26a14cf35	super monaco 7-18-90.ic1	sms-mamesl
+d18f1c389ed75efabc44e24b128da95d	super monaco gp (proto).bin	sms-mamesl
+d399c273c48bcee0b535690c1aaefb26	super monaco gp [proto 1].bin	sms-mamesl
+e3d3dfde69345e1f62cce512e9010bf8	super off road (europe).bin	sms-mamesl
+153c958dad2e3eb6f7b463739b1b17f6	super off road (prototype).bin	sms-mamesl
+bcc2df04cac4b713ee48a05669cdfbdd	super racing (japan).bin	sms-mamesl
+fd65b6794d6778c7948cd9b8b02a12f5	super smash t.v. (europe).bin	sms-mamesl
+f36e9758390ed2b781e9a8a7a958e7e3	super space invaders (europe).bin	sms-mamesl
+2db9404fe79593fd2379921ca822103a	super tennis (euro, usa).bin	sms-mamesl
+a4e48850bf8799cfac74b1d33f5900b5	super wonder boy (japan).bin	sms-mamesl
+8883790d3b3d4fed9a845d63aa251786	super wonder boy - monster world (japan).bin	sms-mamesl
+8e511b4cc6e4ad0dd6c6d0699f44093c	Sydney Hunter - The Sacred Tribe (World).sms	sms-mamesl
+08511c5cf0df0941b10ebf28050afe51	taito chase h.q. (europe).bin	sms-mamesl
+b8fb4d18b555cb496f2f6243f0688486	taito chase h.q. [proto].bin	sms-mamesl
+5f170677dc0d0229ec3ec7f306bb6303	taz in escape from mars (brazil).bin	sms-mamesl
+707e3e397f181b6e51196a4502b8e12f	taz-mania (europe) (beta).bin	sms-mamesl
+c85a8f65e3fc1c0c80ec63e4fb77cb99	tecmo world cup '92 (europe) (beta).bin	sms-mamesl
+81f530d169c5c04c8faf8db367bbcd63	tecmo world cup '93 (europe).bin	sms-mamesl
+66baea0a42353ffd3f131586e0c9c4d4	teddy boy (euro, usa, bra).bin	sms-mamesl
+21ec0f2cd786e6fc4e5cb98028928b8d	teddy boy blues (j) [hack].bin	sms-mamesl
+3b0b80cef02a15a7ef09f54eb22282a7	teddy boy blues (japan) (proto) (ep-mycard).bin	sms-mamesl
+de5d6c9e1349844b74f53caaf2af680b	teddy boy blues (japan).bin	sms-mamesl
+89146053b1474833e921835c907aa2d3	tennis ace (europe).bin	sms-mamesl
+ed8bfc3d17edc8e7968e553a9a6dd24c	tensai bakabon (japan).bin	sms-mamesl
+cc2454eebbbfab7ba99851a923dfdaaf	terminator 2 - judgment day (europe).bin	sms-mamesl
+ba2aa1c3c3d0a24acbb2e86c1fb0aadf	terminator, the (brazil).bin	sms-mamesl
+f224907676a09c7f0404c95c316f1503	terminator, the (europe).bin	sms-mamesl
+9acd8b2eab5453380242ab3a6417c165	three dragon story, the (k).bin	sms-mamesl
+a03bbd3c75e736ce378f2c3fe47f5579	thunder blade (japan).bin	sms-mamesl
+9cdd4dd1cb64ac30c5409c8b9e348adc	thunder blade [proto] (jp).bin	sms-mamesl
+8b7f5b3750b1e4908cfc1086494e914f	tom & jerry (europe) (beta).bin	sms-mamesl
+965e5576d569794aa27e89048855615f	tom and jerry - the movie (europe).bin	sms-mamesl
+2c8d7ad9c6484f161dd9574670b598a4	toto world 3 (korea) (unl).bin	sms-mamesl
+93bb1e1ee14ac53adb9e6b9e0c135043	transbot (euro, usa, bra).bin	sms-mamesl
+dd26c323d1323691fed04cd8498afbcf	transbot [proto].bin	sms-mamesl
+87d44f3416d4f31959b583d0d460c7fb	trivial pursuit - genus edition (europe) (en,fr,de,es).bin	sms-mamesl
+66363591ca2894c48876f416d5adbe75	ttoriui moheom (kr).bin	sms-mamesl
+8020584caadb664a5924e940b6a9c5bc	tv colosso (brazil).bin	sms-mamesl
+d92b72c87179b718c8b1506b347c2e36	ultima iv - quest of the avatar (europe) (beta).bin	sms-mamesl
+c2c9a7942adb055ef08671c03648ed06	ultimate soccer (europe) (en,fr,de,es,it).bin	sms-mamesl
+6ccf82ff6296fa9365b919de424dd3d9	vampire (europe) (beta).bin	sms-mamesl
+fdc90edb44d2a2236ab9c29d2f073d3c	virtua fighter animation (brazil).bin	sms-mamesl
+ccb1fd28e223b885da869eb3b03d8661	voyage - a sorceress vacation v1.04 (build 704).bin	sms-mamesl
+5d292f9c2fa5893fa520c8145b437a28	walter payton football (usa).bin	sms-mamesl
+551e85dc05f12557a56a6528aab6421a	where in the world is carmen sandiego (brazil).bin	sms-mamesl
+29dcfcf773ceb9ef29b524183ad89d8c	where in the world is carmen sandiego (usa).bin	sms-mamesl
+41fa7c376327e7fa851103c0407e8e53	wimbledon ii (europe).bin	sms-mamesl
+9b737af0a0782e97d82291d4d4e4f7b8	wimbledon [v0] [game box serie esportes] (br).bin	sms-mamesl
+6c14f25c97d82d8d10a2e5b8128b01a2	WingWarriors.sms	sms-mamesl
+4fa61721ba5ba41f1200cd20d1c27a30	WingWarriors_fix.sms	sms-mamesl
+d3bcf99a883e14a2f9df8dd92662710f	winter olympics - lillehammer '94 (brazil) (en,fr,de,es,it,pt,sv,no).bin	sms-mamesl
+6046d9ee439f3c76eb6713eea8ba984b	winter olympics - lillehammer '94 (europe) (en,fr,de,es,it,pt,sv,no).bin	sms-mamesl
+7e805aa51bfb5f206c950a32ebcdab7c	wonder boy (usa, europe).bin	sms-mamesl
+b5bf57e09c429c8bada7640bfbab7e7d	wonder boy in monster land [hack].bin	sms-mamesl
+16be61f4de705cdd636d1fb1662e24de	wonder boy in monster land [proto].bin	sms-mamesl
+311aa03dcab8edcf9891397ac3297b72	wonder boy in monster world (europe) (beta).bin	sms-mamesl
+c53091e60b5bd473142ca231dd96f6eb	wonsiin (kr).bin	sms-mamesl
+8daab9ac07e896995c3454ff92de6480	woody pop (super arkanoid) (kr).bin	sms-mamesl
+1b1b6051027806a98e9947b5ae5f0076	woody pop - shinjinrui no block kuzushi (japan).bin	sms-mamesl
+dd04608b2b64f11dd9dc4f7db7972650	world class leader board (europe).bin	sms-mamesl
+3ae0e6e3d2b81c3112cf556d1dfad7c2	world cup italia '90 [demo].bin	sms-mamesl
+aa8ddf472a9b0c4b26f91ab13fbc66de	world cup usa 94 (europe) (en,fr,de,es,it,nl,pt,sv).bin	sms-mamesl
+af5be770da3f73e01847c44ad97226d3	world games (europe) (beta).bin	sms-mamesl
+87a479d66e88464d45d87cad77c2b3fe	world games (europe).bin	sms-mamesl
+368515471f9d221de0ed1c836ce6f028	world grand prix [proto].bin	sms-mamesl
+5db168808d3b4756c8c5f8b836a7b05a	wwf wrestlemania - steel cage challenge (europe).bin	sms-mamesl
+758a1e837e51669700c0a2379e90d993	x-men - mojo world (brazil).bin	sms-mamesl
+1f1ce1d74c416f2b85cc3f24d316f9e3	xenon 2 - megablast (europe) (image works).bin	sms-mamesl
+27fba4b7db989c663dda11c255cf49f3	xenon 2 - megablast (europe) (virgin).bin	sms-mamesl
+21b563031bb035f117d15dc53f406c2d	xyzolog (kr).sms	sms-mamesl
+17364162da3ccee847850dd9b403765c	ys (japan).bin	sms-mamesl
+1fb26de7fe25803778cdc0391c7fb66f	ys - the vanished omens [demo].bin	sms-mamesl
+177eaaa2cab1df16a6b9a372d7d4846a	zaxxon 3-d (world) (beta).bin	sms-mamesl
+de62e3fd5411f78dd9d0958eec85bcce	zillion (europe) (v1.2).bin	sms-mamesl
+8de18c864fc9379c27d7430c1f209eeb	zillion (japan, europe) (en,ja).bin	sms-mamesl
+d4bf9e7bcf9a48da53785d2ae7bc4270	zillion (usa) (v1.1).bin	sms-mamesl
+605b0c360075876b4a0be479679d1075	zillion ii - the tri formation (world).bin	sms-mamesl
+281eb7a9dfabe6ca444398a295440ed2	zillion ii - the tri formation [proto].bin	sms-mamesl

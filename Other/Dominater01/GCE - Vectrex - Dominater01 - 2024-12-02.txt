@@ -1,0 +1,11 @@
+1b00d5000f665dbb9454953050bb87f0	Armor Attack (1982) (Spinner Hack).bin	vectrex-dominater01-hacks
+7ce4dceebc4a1db29f4005a7991c3378	Bedlam (1983) (Spinner Hack).bin	vectrex-dominater01-hacks
+6ac9f45324a62a5edeb9a7a94c45ac50	Dark Tower (1983) (Prototype) (Fred Taft Hack) [h1].bin	vectrex-dominater01-hacks
+a970aed37cffd29ab3740f8e79518858	Mine Storm (1982) (Karrsoft Hack) [h1].bin	vectrex-dominater01-hacks
+e1d74ec863a50757e1a8f89bbd73e2f1	Mine Storm (1982) (RLB Hack) [h1].bin	vectrex-dominater01-hacks
+0cda10e5f1252ed6d44c6148a37601b6	Mine Storm II (1983) (Fred Taft Hack) [h1].bin	vectrex-dominater01-hacks
+1419eb1920e8fab7af8d9d6fc6c3d09b	Mine Storm II (1983) (Spinner Hack).bin	vectrex-dominater01-hacks
+a183501b50935c970823145fc8c5f40b	Pole Position (1982) (Spinner Hack).bin	vectrex-dominater01-hacks
+0635e54d347daaa0d1cef6b1b395211d	Solar Quest (1982) (Spinner Hack).bin	vectrex-dominater01-hacks
+53a840bc55e7119bf63aa5e86e53aaf8	Star Castle (1983) (Spinner Hack).bin	vectrex-dominater01-hacks
+ad98f3477c2ac3aabbeb3beff9ccd69f	Star Trek - The Motion Picture (1982) (controller hack) [h1].bin	vectrex-dominater01-hacks

@@ -1,0 +1,300 @@
+8c83a0920b10a01f44ad50d3613708de	Becky (Japan) [T-En by Hap+Rieks v20100121].rom	msx-dominater01-translations-english
+2055d2c6de49788f90eefcadb208e5d6	Black Onyx, The (Japan) [T-En by Polaris v1.0].rom	msx-dominater01-translations-english
+4872615111a6ac0d56007bb3bbfd1f35	Borfesu (Japan) [T-En by Hap v20081105].rom	msx-dominater01-translations-english
+4d8556fa1ba62bef83287b85d9dba005	C.C.R. - Annex 1 - The Algorithm (Spain) [T-En by Daniel González] [n].rom	msx-dominater01-translations-english
+35ea38b82752c1cd26cc4d4bd7ee5c23	Daiva Story 4 - Asura's Bloodfeud (Japan) [T-En].rom	msx-dominater01-translations-english
+2f1515194333fcad40e81cf890d5fb56	Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v0.7.0].rom	msx-dominater01-translations-english
+a7fd8e04e5393d39d118bfbb627f3643	Fharanx (Japan) [T-En by Django] [CLOAD].cas	msx-dominater01-translations-english
+0c232255b9cfeedb431d0aecc8c2a21e	Golvellius (Japan) (Cartridge) [T-En].rom	msx-dominater01-translations-english
+9fc9ee41ce35ce4e1068e22277265f6d	Golvellius (Japan) [T-En by Novalia Spirit v1.0].rom	msx-dominater01-translations-english
+ba6a26759702b054c8e5965df67ca2cd	Golvellius (Japan) [T-En by Woomb].rom	msx-dominater01-translations-english
+9e4d9df03f73f600f7c5920a37993e5c	Hydlide II - Shine of Darkness (Japan) [T-En by Rieks Warendorp Torringa].rom	msx-dominater01-translations-english
+6cb481b9b977ca42465627ef65f7af51	Hydlide II - Shine of Darkness (Japan) [T-En by Sargon v2003xxxx].dsk	msx-dominater01-translations-english
+622af08bde338d6708f689aa50cc6eae	Jagur (Japan) [T-En by Django v1.0].rom	msx-dominater01-translations-english
+6c463444495b9efacfdb5190e86213a0	Jagur (Japan) [T-En by Django v201101xx].rom	msx-dominater01-translations-english
+44625d8cbff7cd004da5ad49243b9872	Kinasai (Japan) (Unl) [T-En by GD v1.0].rom	msx-dominater01-translations-english
+d94380d337e0e8fc073a13280c8678d8	King's Valley II - The Seal of El Giza (Japan, Europe) [T-En by FRS v1.1] [n].rom	msx-dominater01-translations-english
+5f81a88ef9940ff9fffb50f093801c39	Knightmare III - Shalom (Japan) [T-En by Ricardo Bittencourt+SLotman v1.0b4].rom	msx-dominater01-translations-english
+74d9cae80d15ae5d02ee32893d195ac0	M36 - A Life Planet (Japan) [T-En by Hubz & Wyrdwad v1.2].rom	msx-dominater01-translations-english
+9da4a20830a9197c3d546dcef84a6a93	Mashou no Tachi Goblin (Japan) [T-En by Hap+Zan v20080619].rom	msx-dominater01-translations-english
+20f29b5f39ea38c615ab727b528902ba	Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan) [T-En by Igor Bezhenar v20210605] [Add by Armando Perez Abad v1.1] [Konami SSC].rom	msx-dominater01-translations-english
+54e11fff0bc6e7f4c3c25f2a947e9fa6	Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan) [T-En by Igor Bezhenar v20210605] [Add by Armando Perez Abad v1.1].rom	msx-dominater01-translations-english
+505052f2e5d019edbc76f36bcc0acd33	Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan) [T-En by Igor Bezhenar v20210605] [Konami SSC].rom	msx-dominater01-translations-english
+7b7b3b05da23b65f35dbd572e60e6411	Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan) [T-En by Igor Bezhenar v20210605].rom	msx-dominater01-translations-english
+bf9515d0edcd5fa7f82ec394e1c7323c	Mystery House II (Japan) [T-En by Umbrella Terms v1.0] [CLOAD].cas	msx-dominater01-translations-english
+34f4cc6570087c2052d60c2ea916d51f	Nyorols (Japan) [T-En by PentarouZero v1.0].rom	msx-dominater01-translations-english
+9ce36aeaa93f969b6c2ea91598b0b014	Parodius (Japan) [T-En by A&L Software v1.0].rom	msx-dominater01-translations-english
+b6b0f799ba2ed79e0c1dd6d33b872923	Stone of Wisdom, The (Japan) [T-En by GDX v20210712].rom	msx-dominater01-translations-english
+a40ccb6265cd620cdfa9aa8b981731c9	Vilzam - Cosmic Struggle (Japan) [T-En by 232 & BiFi & Takamichi Suzukawa] [BLOAD''CAS'',R].cas	msx-dominater01-translations-english
+fbd44188ab0cf0a5ba30eae005bd1042	Vilzam - Cosmic Struggle (Japan) [T-En by 232 & BiFi & Takamichi Suzukawa].rom	msx-dominater01-translations-english
+05495d17dbf270c959bb924b1e3dffed	War in Middle Earth (Spain) [T-En by Robsy v1.0].dsk	msx-dominater01-translations-english
+0164108447e64616dac9b082256dd941	Adventure of Randar (Japan) [T-En by Sargon v2003-xx-xx] [n].dsk	msx2-dominater01-translations-english
+2e2b20ddd0d7b03a545cbf8a0c441adf	Adventure of Randar II - Revenge of Death (Japan) [T-En by Sargon v2003xxxx] [n].dsk	msx2-dominater01-translations-english
+c4d309c962f6e30be40222afb63bf8a4	Adventure of Randar III (Japan) (Disk 1) [T-En by Django] [i] [n].dsk	msx2-dominater01-translations-english
+5ec62c0a9ae6f5aca666dac98efbf0a4	Adventure of Randar III (Japan) (Disk 2) [T-En by Django] [i] [n].dsk	msx2-dominater01-translations-english
+895285c476158a44030c84e636cd6996	Adventure of Randar III (Japan) (Disk 3) [T-En by Django] [i] [n].dsk	msx2-dominater01-translations-english
+8e029b2fe64cc943013807d31dc4d3cf	Adventure of Randar III (Japan) (Disk 4) [T-En by Django] [i] [n].dsk	msx2-dominater01-translations-english
+2ebb5484e112b0c41fa0d392da9a9bf1	Aleste (Japan) [T-En by Tsunami v1.0].dsk	msx2-dominater01-translations-english
+00ffabf6e412302e33d5e1d8602362d4	Aleste (Japan) [T-En by Tsunami v1.0].rom	msx2-dominater01-translations-english
+5ce5ba5a887daadbbdad3124c24cd468	Aleste (Japan) [T-En by Woomb].rom	msx2-dominater01-translations-english
+8b02d6962f03f89cd990cca63c2f744b	Aleste 2 (Japan) (Boot Disk) [T-En].dsk	msx2-dominater01-translations-english
+e57a2017a38c42427cda491c681cc0c2	Aleste 2 (Japan) (Game Disk A) [T-En].dsk	msx2-dominater01-translations-english
+6b2c70a68d5a830b930663d309acddc2	Aleste 2 (Japan) (Game Disk B) [T-En].dsk	msx2-dominater01-translations-english
+5c672c7fe04fc3aabaaefee3aac17146	American Success (Japan) (Data Disk).dsk	msx2-dominater01-translations-english
+f5764f7ed8aa774a731dd8112e6cf4b2	American Success (Japan) (Game Disk) [T-En by Django v2.0].dsk	msx2-dominater01-translations-english
+60c67559b5d8a533c36c946b2cb0887d	Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [MSX Audio with samples] [n].rom	msx2-dominater01-translations-english
+1cdf11782d3c3452f12b7ae5c64e972e	Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [MSX Audio without samples] [n].rom	msx2-dominater01-translations-english
+81ba342857abdc572d5185b701a79cf3	Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [PSG Audio] [n].rom	msx2-dominater01-translations-english
+e8122bf35717a323d4b96b1197cec245	Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [Trainer] [MSX Audio with samples] [n].rom	msx2-dominater01-translations-english
+2d6d57e4e766efe41076bb2ec557a52b	Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [Trainer] [MSX Audio without samples] [n].rom	msx2-dominater01-translations-english
+1617845176d49bc9da50b427cb77c29c	Anti-Life Trooper Androgynous (Japan) [T-En by MSX Translations v1.0.0] [Trainer] [PSG Audio] [n].rom	msx2-dominater01-translations-english
+523443e2fe93f3c42d2b73350106bb0c	Arcus (Japan) (Disk 1) (Intro).dsk	msx2-dominater01-translations-english
+832a138c33d8ac8266dff07b13f25694	Arcus (Japan) (Disk 2) [T-En by Django v201111xx].dsk	msx2-dominater01-translations-english
+4769caf9b5ccb4958340ad7ce484a144	Arcus (Japan) (Disk 3) [T-En by Django v201111xx].dsk	msx2-dominater01-translations-english
+dc3f1aba221492b5b2d9ead9b36e8a07	AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0 AS] [n].rom	msx2-dominater01-translations-english
+61d609df03877a109873d65f931ef542	AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0 MA] [n].rom	msx2-dominater01-translations-english
+66557d9ab8e8561cb16aeb12ce435e8d	AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0 MM] [n].rom	msx2-dominater01-translations-english
+8b6d68ca3f8e56141d7583b1df851f93	AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0] [+6 Trainer] [n].rom	msx2-dominater01-translations-english
+801db5352c6b1ada7c74a681169a2804	AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0] [n].rom	msx2-dominater01-translations-english
+d7b8ea55411ecfc074346bb97ab59060	AshGuine Story III - Fukushuu no Honoo (Japan) [T-En by Django].rom	msx2-dominater01-translations-english
+ffd8339a844a9cc13bd5c15042ce4a3c	Chuka Taisen (Japan) [T-En by Django].dsk	msx2-dominater01-translations-english
+074dc2eb00d5cb4b9da7be42cd949832	Crimson II (Japan) (Game Disk) [T-En by Django v201812xx].dsk	msx2-dominater01-translations-english
+269e4c86f5e1a680f9f0efc726a45113	Crimson II (Japan) (Main Disk) [T-En by Django v201812xx].dsk	msx2-dominater01-translations-english
+faed29fe70f770db0eb80a8725095756	Daikoukai Jidai (Japan) [T-En by Django].rom	msx2-dominater01-translations-english
+61e22da5d782ea3a0bcbe54d02354e00	Daisenryaku (Japan) [T-En by MSX Translations v1.0.0].dsk	msx2-dominater01-translations-english
+1a17f3bb2837d4ae355382874405bcd8	Daisenryaku II - Campaign Version (Japan) (Data Disk) [T-En by Takamichi Suzukawa & Trunks & Victor Martinez v1.0].dsk	msx2-dominater01-translations-english
+98655927388b34d67989c91bfc03324f	Daisenryaku II - Campaign Version (Japan) (Game Disk) [T-En by Takamichi Suzukawa & Trunks & Victor Martinez v1.0].dsk	msx2-dominater01-translations-english
+3d8ef5e1bd1668d3520aabd8ee651eac	Daiva Story 4 - Asura's Bloodfeud & Daiva Story 5 - The Cup of Soma (Japan) [T-En by Tsunami & Sargon v2004xxxx] [n].dsk	msx2-dominater01-translations-english
+ba56e1aeb4508589b91a4d49dfea68ce	Daiva Story 5 - The Cup of Soma (Japan) (Save Disk).dsk	msx2-dominater01-translations-english
+c0f6583d5a88d7a70c4c86cf495fdeb8	Dead of the Brain (Japan) (Disk 1) [T-En by Manuel Pazos v20200630].dsk	msx2-dominater01-translations-english
+c24322f32605c5224cb577eec2f3cb53	Dead of the Brain (Japan) (Disk 2) [T-En by Manuel Pazos v20200630].dsk	msx2-dominater01-translations-english
+6085fe6d0e92a3816ceec321ceecc77f	Dead of the Brain (Japan) (Disk 3) [T-En by Manuel Pazos v20200630].dsk	msx2-dominater01-translations-english
+fa128ff01e2aca79e0814ab1171640a3	Deep Forest (Japan) [T-En by Django v1.0].dsk	msx2-dominater01-translations-english
+1a3227251205b0f6efd10b10859fdbf2	Deep Forest (Japan) [T-En by Django v1.0].rom	msx2-dominater01-translations-english
+d9b408bd029d00ae00bb9e525dbfa0ac	Dios (Japan) (Disk A) [T-En by Django].dsk	msx2-dominater01-translations-english
+d135018f5d061ae9259d0baa1b9e9dd3	Dios (Japan) (Disk B) [T-En by Django].dsk	msx2-dominater01-translations-english
+003e3c5db3c78001bf98b8bb83abcb1f	Dios (Japan) (Disk C) [T-En by Django].dsk	msx2-dominater01-translations-english
+6a7c55d37dde3224c8fc0dbb452db881	Dios (Japan) (Disk D) [T-En by Django].dsk	msx2-dominater01-translations-english
+4b08e15453cffe6a85b7f3d4cb67f944	Dios (Japan) (User Disk).dsk	msx2-dominater01-translations-english
+32d02eee52a1bce4f21958d98571140b	Dragon Quest (Japan) [T-En by Django v201804xx] [i].rom	msx2-dominater01-translations-english
+e394009ac33d378940893afdd92e0123	Dragon Slayer - The Legend of Heroes (Japan) (Game Disk) [T-En by Oasis & Randam v1.0].dsk	msx2-dominater01-translations-english
+ea5c861a6663f19c166991f6f8e9e562	Dragon Slayer - The Legend of Heroes (Japan) (Scenario 1 Disk) [T-En by Oasis & Randam v1.0].dsk	msx2-dominater01-translations-english
+9ba5765c6bfe9f81ad3bbadf8430a085	Dragon Slayer - The Legend of Heroes (Japan) (Scenario 2 Disk) [T-En by Oasis & Randam v1.0].dsk	msx2-dominater01-translations-english
+7abe50cfeac73920120507d6e4e20a27	Dragon Slayer - The Legend of Heroes (Japan) (Scenario 3 Disk) [T-En by Oasis & Randam v1.0].dsk	msx2-dominater01-translations-english
+41679756e2c2b763c7d15f7e4022171f	Dragon Slayer IV - Draslay Family (Japan) (Alt 1) [T-En by MSX Translations v1.0.0] [n].rom	msx2-dominater01-translations-english
+61d435c0b3ba2f865ad01dd5477a205c	Dragon Slayer IV - Draslay Family (Japan) [T-En by MSX Translations v1.0.0] [n].rom	msx2-dominater01-translations-english
+ee1808dc2ba639330ef55b6180e45ad7	Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0] [+6 Trainer].rom	msx2-dominater01-translations-english
+dd9e89d73a1e65930bfc967157ea2fb9	Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0] [Speed Booster].rom	msx2-dominater01-translations-english
+cd75730fee1a72fead6a0874ef7c2620	Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0].rom	msx2-dominater01-translations-english
+0f6876dd5baa6bfd8e742356ca20f78b	Dragon Slayer V - Sorcerian (Japan) (Game Disk) [T-En by Delta Soft v1.0].dsk	msx2-dominater01-translations-english
+529f004a0aba703306d373fbc3d24e9b	Dragon Slayer V - Sorcerian (Japan) (Scenario 1 Disk) [T-En by Delta Soft v1.0].dsk	msx2-dominater01-translations-english
+9784ff1554b6d82ddc29792b0eb294bd	Dragon Slayer V - Sorcerian (Japan) (Scenario 2 Disk) [T-En by Delta Soft v1.0].dsk	msx2-dominater01-translations-english
+c80bc3f0fb4f6b6e0f5f9d2a4f58037e	Dragon Slayer V - Sorcerian (Japan) (Scenario 3 Disk) [T-En by Delta Soft v1.0].dsk	msx2-dominater01-translations-english
+052f709bc74ce29c361da5b909305a97	Dragon Slayer V - Sorcerian (Japan) (User Disk).dsk	msx2-dominater01-translations-english
+b08e89dfa286a7459ad23271ec4c63f0	Dungeon Wanderer (Japan) [T-En by Django].dsk	msx2-dominater01-translations-english
+b23018c0b4dbb536a10741ac873f193c	Exterlien (Japan) (Disk 1) [T-En by Django v2018xxxx].dsk	msx2-dominater01-translations-english
+7c346b91de3c034dca9482c37aeac4eb	Exterlien (Japan) (Disk 2).dsk	msx2-dominater01-translations-english
+a48667b6efced64f4273dc1dc0513d03	Exterlien (Japan) (Disk 3).dsk	msx2-dominater01-translations-english
+a3857e8c1e4cc338286e2a56b6dc2675	F1 Douchuuki (Japan) [T-En by Django v1.0].dsk	msx2-dominater01-translations-english
+d7b2bb6b3d373ea9b3d35adbb6f44704	Famicle Parodic (Japan) [T-En by Django v1.0].rom	msx2-dominater01-translations-english
+d4a87e37120fa385c3e2f644615784cf	Feedback (Japan) [T-En by Delta Soft v1.0].dsk	msx2-dominater01-translations-english
+8d5579c594f69858514f8b8d9fc793fc	Final Fantasy (Japan) (Disk 1) [T-En by FCandChill & Her-Saki & TheMajinZenki v1.0].dsk	msx2-dominater01-translations-english
+034aeb4c0bb65271ed0ebdf1200ce6f0	Final Fantasy (Japan) (Disk 2) (User Disk).dsk	msx2-dominater01-translations-english
+a502d65146771ef2274d5d12de24a979	Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 & BiFi v1.0] [Boss 4 tablet fix] [King Kong 2 SRAMdisk] [n].rom	msx2-dominater01-translations-english
+5753a744b18b4c72ecf1f59811d1c5ba	Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 & BiFi v1.0] [Boss 4 tablet fix] [Turbo Patch] [n].rom	msx2-dominater01-translations-english
+47ffdf1592b62201c75667a904c362c4	Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 & BiFi v1.0] [King Kong 2 SRAMdisk] [Turbo Patch] [n].rom	msx2-dominater01-translations-english
+b503aaadd1fbd7f82c212f3bd8e50943	Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 & BiFi v1.0] [n].rom	msx2-dominater01-translations-english
+5f237a147717f054a058c728a758c629	Firebird - The Phoenix Saga (Japan) (Alt 1) [T-En by 232 & BiFi v1.0] [Turbo Patch] [n].rom	msx2-dominater01-translations-english
+0ec43432f8d84ecaf9c5ec8d67625575	Fray - In Magical Adventure (Japan) (Disk 1) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+bfbf24692b0a61e7a7bd1eaa2fd1c860	Fray - In Magical Adventure (Japan) (Disk 2) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+23da96ba182c8081fd49fac5b9dcf0e4	Fray - In Magical Adventure (Japan) (Disk 3) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+90526f294c8c34a4c6788697deed412e	Fray - In Magical Adventure (Japan) (Disk 4) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+b5963bab06693bed6b676b264a480397	Galaxy - Card & Puzzle Collection - Ginga (Japan) [T-En by Django].dsk	msx2-dominater01-translations-english
+5ee6c401693c33776207a4639038e629	Galmoon (Japan) [T-En by Django v1.0].dsk	msx2-dominater01-translations-english
+f13503cd23fb5122626765fb9650832e	Gandhara (Japan) (Disk A) [T-En by Django v201502xx].dsk	msx2-dominater01-translations-english
+157e2c35374586d8c74e9dd20dffde36	Gandhara (Japan) (Disk B) [T-En by Django v201502xx].dsk	msx2-dominater01-translations-english
+97936e206e44474e7a2062d2682d5f54	Gekitotsu Pennant Race 2 (Japan) [T-En by Victor Martinez v1.0].rom	msx2-dominater01-translations-english
+9053ef6579a25d4df001c1093708c3aa	Golvellius (Japan) (Game Disk) [T-En v1.0].dsk	msx2-dominater01-translations-english
+963297451a3dccfbf161ebb37cdf2eec	Golvellius (Japan) (Opening Disk) [T-En v1.0].dsk	msx2-dominater01-translations-english
+120da73aa408d584352dfbf3813a417e	Golvellius II (Japan) (Data Disk) [T-En by Woomb].dsk	msx2-dominater01-translations-english
+e9e5ccceec749c25bac7ffb14543fa5e	Golvellius II (Japan) (Game Disk) [T-En by Woomb].dsk	msx2-dominater01-translations-english
+edb0e03541e35928691c39ca35c41fee	Golvellius II (Japan) (Opening Disk) [T-En by Woomb].dsk	msx2-dominater01-translations-english
+78add924c7204fdcbf1cd0ebea55f0e7	Goofy Yaji Kita - Secrets on the Way (Japan) [T-En by Django v202001xx] [n].rom	msx2-dominater01-translations-english
+b6271a03f88d1440c2fcf635a140c147	Great Strategy (Japan) [T-En by MSX Translations v1.0.0] [n].dsk	msx2-dominater01-translations-english
+97c80453f267e085ac4ee8bba3275509	Higemaru - The Devil Island - The 7 Islands Adventure (Japan) [T-En by Django v1.0] [n].rom	msx2-dominater01-translations-english
+eb9dad2faa96d9fb0cb85aee572cbbde	Hinotori - Firebird Phoenix (Japan) [T-En by Django v2.0] [n].rom	msx2-dominater01-translations-english
+e737e3889be51eeb7e1f02ea96ba5786	Hydefos (Japan) (Disk 1) [T-En by Django & Victor Martinez v1.01].dsk	msx2-dominater01-translations-english
+255665edbd391fbe79dd6c85768e2078	Hydefos (Japan) (Disk 2) [T-En by Django & Victor Martinez v1.01].dsk	msx2-dominater01-translations-english
+e647540723897b0f31bf51f46ae95c1c	Hydlide 3 - The Space Memories (Japan) [T-En by Woomb].rom	msx2-dominater01-translations-english
+24460cb599ab870bdbff8810a0c88c89	Kageroh Labyrinth (Japan) (Disk A) [T-En by Django] [i] [n].dsk	msx2-dominater01-translations-english
+09308f50b641a86f84d9217c2e272406	Kageroh Labyrinth (Japan) (Disk B) [n].dsk	msx2-dominater01-translations-english
+02af5bae3b6d290661e6bb3ae2ccb5a1	King Kong 2 - The Reviving Legend (Japan) [T-En by Imanok & Manuel Pazos v20130408] [n].rom	msx2-dominater01-translations-english
+1129e608c2dd778bc8e688afacd44e5a	King Kong 2 - Yomigaeru Densetsu (Japan) [T-En by Django+Imanok v2.2].rom	msx2-dominater01-translations-english
+63d47b222f8e54a69d7702daee2e9cb3	King Kong 2 - Yomigaeru Densetsu (Japan) [T-En by Imanok v2.0].rom	msx2-dominater01-translations-english
+27185f2a57ade34ef03f48945f67d303	King Kong 2 - Yomigaeru Densetsu (Japan) [T-En by Imanok+Manuel Pazos v20120801].rom	msx2-dominater01-translations-english
+3a195fd815bdbfc29ed8b8157b88cfde	Ku Gyoku Den (Japan) [T-En by Django v2.0].dsk	msx2-dominater01-translations-english
+f80026bc769d898f983caacb5b363569	Labyrinth (Japan) [T-En by Django].rom	msx2-dominater01-translations-english
+2611bafb548cc3d107691954f7865c17	Legend of Shonan, The (Japan) (User Disk).dsk	msx2-dominater01-translations-english
+4018e4a5327c2f79448160f5ba93f5b0	Legend of Shonan, The (Japan) [T-En by Django v2021xxxx].dsk	msx2-dominater01-translations-english
+b57857e92e6edc5809fccbcee4d73de1	Lupin III - Babylon's Gold Legend (Japan) [T-En by Django] [Use ASCII 8 mapper] [n].rom	msx2-dominater01-translations-english
+ece0609fd3a58dc774320910331c8f9c	Malaya's Treasure (Japan) [T-En by MSX Translations v1.0.0] [+2 Trainer] [n].rom	msx2-dominater01-translations-english
+c07d8f05e14546540cca21f4d7ea8f6e	Malaya's Treasure (Japan) [T-En by MSX Translations v1.0.0] [n].rom	msx2-dominater01-translations-english
+89c5282142a1fd158de3789f3ff49a77	Marcy's Princesses Many (Japan) [T-En by Django v2012xxxx] [n].dsk	msx2-dominater01-translations-english
+3a480f6462824f9ec4e1d59bf0a3a7b2	Master of Monsters (Japan) (Data Disk).dsk	msx2-dominater01-translations-english
+68f8e3edd88d4928908ac61b8842e108	Master of Monsters (Japan) (Game Disk) [T-En by Django v2.0].dsk	msx2-dominater01-translations-english
+fdabe9539985d4aeafa6f47677068a4d	Maze [T-En by 232 & BiFi] [n].dsk	msx2-dominater01-translations-english
+6079fa19db420b23e6dec7a5ba42c833	Meow Puzzle (Japan) [T-En by BiFi & MSX Translations v1.0.0] [n].dsk	msx2-dominater01-translations-english
+0877a442deacf1bd4cb8d2e633289800	Metal Gear (Japan) [T-En by Jon Taylor+Nekura Hoka+Takamichi Suzukawa v1.9].rom	msx2-dominater01-translations-english
+5430986efba9f8ba62d84937e652ece6	Metal Gear (Japan) [T-En by Nekura_Hoka & Jon Taylor & Takamichi Suzukawa v1.995] [Add by FRS v2].rom	msx2-dominater01-translations-english
+56a32f310765e54101a10001d28344b6	Metal Gear (Japan) [T-En by Nekura_Hoka & Jon Taylor & Takamichi Suzukawa v1.995].rom	msx2-dominater01-translations-english
+a451242b5b7e34a1bfc467c68cac7475	Metal Gear (Japan) [T-En by TyrannoRanger & Mr. Dude v1.0] [Add by FRS v2].rom	msx2-dominater01-translations-english
+6e5144f5c8e50fb2f8f00852cbf3d2ca	Metal Gear (Japan) [T-En by TyrannoRanger & Mr. Dude v1.0].rom	msx2-dominater01-translations-english
+191509df8f8abdc824ea396dfdb96271	Metal Gear (Japan) [T-En by TyrannoRanger & Mr. Dude v1.0a] [Add by FRS v2].rom	msx2-dominater01-translations-english
+5645ce31982b99ec8ec79f0696e1bd7a	Metal Gear (Japan) [T-En by TyrannoRanger & Mr. Dude v1.0a].rom	msx2-dominater01-translations-english
+31204639c06613e972eb32a0523f3626	Metal Gear 2 - Solid Snake (Japan) (Demo) [T-En by BiFi+Maarten ter Huurne+Takamichi Suzukawa v2.0].rom	msx2-dominater01-translations-english
+e3c542681c7f3a0fdc2349323e95a7bf	Metal Gear 2 - Solid Snake (Japan) (Demo) [T-En by Maarten ter Huurne & Takamichi Suzukawa v1.2] [Add by BiFi v1.4].rom	msx2-dominater01-translations-english
+55ee40cc70cc65afff4d06025656c3f4	Metal Gear 2 - Solid Snake (Japan) [T-En by BiFi+Maarten ter Huurne+Takamichi Suzukawa v2.0].rom	msx2-dominater01-translations-english
+01ec86d19248514baf263f0b60df4d0c	Metal Gear 2 - Solid Snake (Japan) [T-En by Maarten ter Huurne & Takamichi Suzukawa v1.2] [Add by BiFi v1.4].rom	msx2-dominater01-translations-english
+668217f475619500c87f136949267b6d	Metal Gear 2 - Solid Snake (Japan) [T-En by Maarten ter Huurne & Takamichi Suzukawa v1.2].rom	msx2-dominater01-translations-english
+f3eed8ad93a22bce05026fc5016efea7	Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [Alt logo] [n].rom	msx2-dominater01-translations-english
+a7b15fc290d5bcf40a98e67523e243aa	Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [Alt logo] [Trained] [n].rom	msx2-dominater01-translations-english
+d1b13768cac94bd4acaa68315df4ae15	Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [n].rom	msx2-dominater01-translations-english
+41be00778d3217bfff5e0d82b030213b	Mr. Ghost (Japan) [T-En by MSX Translations v1.0.0] [Trained] [n].rom	msx2-dominater01-translations-english
+e0048a924df9720296c600ac17d99243	Navitune - Dragon Voyage (Japan) (Disk A) [T-En by Django v20201213] [n].dsk	msx2-dominater01-translations-english
+80e7c566ecc4c4f4da1eb4a31da908ea	Navitune - Dragon Voyage (Japan) (Disk B) [T-En by Django v20201213] [n].dsk	msx2-dominater01-translations-english
+ed5ab9df9224edc34980c040752c4095	Nyan Puzzle (Japan) [T-En by BiFi & MSX Translations v1.0.0] [n].dsk	msx2-dominater01-translations-english
+b651070007c5514701ad6cb42d81ae82	Nyancle Racing (Japan) [T-En by Tsunami v1.0].dsk	msx2-dominater01-translations-english
+e554e2731d84f035cd95bdbeb063141c	Passagers du Vent, Les (France) [T-En by TheKid].dsk	msx2-dominater01-translations-english
+a16c3e48b2814ed1fbcea20665d2686b	Peach Up 1 - Trouble Partners - The Great Imperial Capital Operation (Japan) [T-En by Django v202001xx].dsk	msx2-dominater01-translations-english
+d4f8d8a7e052a0d6246ac2b5afdc729e	Penguin Wars 2 (Japan) [T-En by MSX Translations v1.0] [n].rom	msx2-dominater01-translations-english
+9fe5d055612067eff00537440725e7f8	Persevere Goemon! - A Tricky Journey (Japan) [T-En by MSX Translations v0.9.5] [+6 Trainer] [n].rom	msx2-dominater01-translations-english
+c5ec0e2d716c3ba652b5cdfa908546e5	Persevere Goemon! - A Tricky Journey (Japan) [T-En by MSX Translations v0.9.5] [n].rom	msx2-dominater01-translations-english
+928a4aa69681355654d77f0bba9cc07e	Pleasure Hearts (Japan) [T-En by Yim v1.01].dsk	msx2-dominater01-translations-english
+25497ff301b04a56b25cddab9150c364	Pleasure Hearts (Japan) [T-En by Yim v1.02].dsk	msx2-dominater01-translations-english
+7ba941b04bfdfbaac43fdd83c7a80942	Princess Maker (Japan) (Disk 1) [T-En by Teo Lopez del Castillo v1.0].dsk	msx2-dominater01-translations-english
+c618f19a7285659146764257c4f79090	Princess Maker (Japan) (Disk 2) [T-En by Teo Lopez del Castillo v1.0].dsk	msx2-dominater01-translations-english
+d2da10521ce1d3ddf92ee3028e32fa94	Princess Maker (Japan) (Disk 3) [T-En by Teo Lopez del Castillo v1.0].dsk	msx2-dominater01-translations-english
+79cf4631ce1e93afd9390e0d24ddd75f	Princess Maker (Japan) (Disk 4) [T-En by Teo Lopez del Castillo v1.0].dsk	msx2-dominater01-translations-english
+fc68d417c66616de5c51005a05741c49	Princess Maker (Japan) (Disk 5) [T-En by Teo Lopez del Castillo v1.0].dsk	msx2-dominater01-translations-english
+457af8d3b5a6082c9c08e705256cc044	Princess Maker (Japan) (Disk 6) [T-En by Teo Lopez del Castillo v1.0].dsk	msx2-dominater01-translations-english
+e78728c594abd9a5abb05a9833079285	Princess Maker (Japan) (Disk 7) [T-En by Teo Lopez del Castillo v1.0].dsk	msx2-dominater01-translations-english
+7acdd430663bd14cab248aedea63a980	Psycho World (Japan) [T-En by Django & FRS v3.0].dsk	msx2-dominater01-translations-english
+1840e47cb2f4842ded837f3d247a2daf	Psycho World (Japan) [T-En by Ricardo Bittencourt & Rieks Warendorp Torringa & Gilneas2] [Add by by Fabio R. Schmidlin].dsk	msx2-dominater01-translations-english
+7ac2f1e1d4f50a55ef2c4eca3fd4fe07	Psycho World (Japan) [T-En by Ricardo Bittencourt & Rieks Warendorp Torringa & Gilneas2].dsk	msx2-dominater01-translations-english
+24725e716ce6409ac6a5ea4c5dec1cd6	Puyo Puyo (Japan) [T-En by 232 & BiFi & GDX v1.0] [MoonSound].dsk	msx2-dominater01-translations-english
+b4b90edc25cf1635de61eabe3779b0eb	Puyo Puyo (Japan) [T-En by 232 & BiFi & GDX v1.0] [Old Logo] [MoonSound].dsk	msx2-dominater01-translations-english
+0846399cfe97baf0177e5d5291f184a3	Puyo Puyo (Japan) [T-En by 232 & BiFi & GDX v1.0] [Old Logo] [Philips NMS-1205 & Toshiba HX-MU900].dsk	msx2-dominater01-translations-english
+d68ee674903cbeb8f3fcc258ddc9906f	Puyo Puyo (Japan) [T-En by 232 & BiFi & GDX v1.0] [Old Logo].dsk	msx2-dominater01-translations-english
+396b00824818e9da43c7a58299f564c1	Puyo Puyo (Japan) [T-En by 232 & BiFi & GDX v1.0] [Philips NMS-1205 & Toshiba HX-MU900].dsk	msx2-dominater01-translations-english
+39fc6211f192a26985784d9ef02c181b	Puyo Puyo (Japan) [T-En by 232 & BiFi & GDX v1.0] [Rainbow Logo] [MoonSound].dsk	msx2-dominater01-translations-english
+33a64eb8899bf25d9ed1a87b38178ba4	Puyo Puyo (Japan) [T-En by 232 & BiFi & GDX v1.0] [Rainbow Logo] [Philips NMS-1205 & Toshiba HX-MU900].dsk	msx2-dominater01-translations-english
+6490f1c877aa1fcac4a4f953f38303ea	Puyo Puyo (Japan) [T-En by 232 & BiFi & GDX v1.0] [Rainbow Logo].dsk	msx2-dominater01-translations-english
+cebe5bfa4aeac4a1ef365175087c6a2b	Puyo Puyo (Japan) [T-En by 232 & BiFi & GDX v1.0].dsk	msx2-dominater01-translations-english
+56af8410f66426c8072270b77bd92315	Record of Lodoss War (Japan) (Game Disk 1) [T-En by Django v20210606] [i].dsk	msx2-dominater01-translations-english
+48307a459de590605b02d9801ff01ca2	Record of Lodoss War (Japan) (Game Disk 2) [T-En by Django v20210606] [i].dsk	msx2-dominater01-translations-english
+f71af036d7fb1a5c348503b03e58f794	Record of Lodoss War (Japan) (Game Disk 3) [T-En by Django v20210606] [i].dsk	msx2-dominater01-translations-english
+84dcf57eaea0acf5f0c5cdecf9ba9bb6	Record of Lodoss War (Japan) (Opening Disk).dsk	msx2-dominater01-translations-english
+6e3850005908e53212f6b082280af462	Record of Lodoss War (Japan) (User Disk).dsk	msx2-dominater01-translations-english
+561d57690e55aa860fca6783485a564f	Robo Crush (Japan) (User Disk).dsk	msx2-dominater01-translations-english
+201c3aa26728cbd49df9e54d3075c328	Robo Crush (Japan) [T-En by Django v202104xx] [i].dsk	msx2-dominater01-translations-english
+28b6ee48d379271162702660505d617f	Rune Master (Japan) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+ec65db7b9d44266772ff0272d078a233	Rune Master II (Japan) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+911d5b4f3dda95df937e7af16df5c10d	Rune Master III - Sangoku Eiketsuden (Japan) (Disk 1) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+9f64194b88a13210bc1470ceb938d834	Rune Master III - Sangoku Eiketsuden (Japan) (Disk 2) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+b194f1b4a15a6c8421e964cd7ba57306	Rune Master III - Sangoku Eiketsuden (Japan) (Disk 3) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+2e813efc68ce5eba6931d0e6b6589deb	Sa-zi-ri (Japan) [T-En by Django v1.0].dsk	msx2-dominater01-translations-english
+6b8988cee8f2de06ed7eeaafcf95f6ee	SD Gundam - Gachapon Senshi 2 - Capsule Senki (Japan) [T-En by Django v1.0].dsk	msx2-dominater01-translations-english
+70fa89bb55deb1d44feac30004aa144b	SD Snatcher (Japan) (Disk 1) [T-En by Ded302 & Oasis v1.01].dsk	msx2-dominater01-translations-english
+dbff319720564d048d3d7e08c772d71a	SD Snatcher (Japan) (Disk 1) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+58de52c19b4a7a9b04d4fd0618342ae3	SD Snatcher (Japan) (Disk 1) [T-En by Project Melancholia v20140102] [SCC Sound Cart].dsk	msx2-dominater01-translations-english
+5c25f03c689dfb473a37c6ea941c2aff	SD Snatcher (Japan) (Disk 1) [T-En by Project Melancholia v20140102] [SD Snatcher Sound Cart].dsk	msx2-dominater01-translations-english
+b0fbc949759b3a0eea51ed681555956f	SD Snatcher (Japan) (Disk 1) [T-En by Project Melancholia v20140102] [Snatcher Sound Cart].dsk	msx2-dominater01-translations-english
+28c4a4c3b5e9abea6941ad5dab20bd68	SD Snatcher (Japan) (Disk 2) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+6d1990d36783caf8b6e4d73ae22c98b1	SD Snatcher (Japan) (Disk 2) [T-En by Project Melancholia v20140102] [SCC Sound Cart].dsk	msx2-dominater01-translations-english
+2c7b91278d84758257eb733a8d4bf157	SD Snatcher (Japan) (Disk 3) [T-En by Ded302 & Oasis v1.01].dsk	msx2-dominater01-translations-english
+d52016f6fd2b2262ab21eb881a7b206b	SD Snatcher (Japan) (Disk 3) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+b9339e178f9e57917872ca65666baf2b	SD Snatcher (Japan) (Disk 3) [T-En by Project Melancholia v20140102] [SCC Sound Cart].dsk	msx2-dominater01-translations-english
+3c2e78998c1f61cc238027a7e6185005	SD Snatcher (Japan) (Disk 3) [T-En by Project Melancholia v20140102] [SD Snatcher Sound Cart].dsk	msx2-dominater01-translations-english
+19718da68d9664e89e133c2cc4fd7ef8	SD Snatcher (Japan) (Disk 3) [T-En by Project Melancholia v20140102] [Snatcher Sound Cart].dsk	msx2-dominater01-translations-english
+27cc5e115040810b867d5e54eacb3425	SD Snatcher (Japan) (User Disk).dsk	msx2-dominater01-translations-english
+0a8c67235454b0bf0afefd315e387dfc	Seikima II Special - Akuma no Gyakushuu (Japan) [T-En by Django v1.0].rom	msx2-dominater01-translations-english
+4bd617f3d9ba7503656671cad197347a	Seikima II Special - Revenge of the Devil (Japan) [T-En by Django] [n].rom	msx2-dominater01-translations-english
+944f1ce2379ada901bf8865502d0b246	Shiryou Sensen 2 - War of the Dead Part 2 (Japan) (Disk 1) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+0b734fd45423da00a2c981c30281a20f	Shiryou Sensen 2 - War of the Dead Part 2 (Japan) (Disk 2) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+068d5ca06cf8149daf6bac0cde9f9938	Silviana (Japan) [T-En by M.I.J.E.T. v20091213].dsk	msx2-dominater01-translations-english
+3d2eecfab45e5bb39b4754e5e9b578be	Snatcher (Japan) (Boot Disk) [T-En by Fudeba Software v0.6.0].dsk	msx2-dominater01-translations-english
+1b44dfa8c2bde51372185b80de03d56a	Snatcher (Japan) (Game Disk 1) [T-En by Fudeba Software v0.6.0].dsk	msx2-dominater01-translations-english
+1cd5e336a94dbb7d67e5e4aead15609e	Snatcher (Japan) (Game Disk 2) [T-En by Fudeba Software v0.6.0].dsk	msx2-dominater01-translations-english
+5eee24910a91ae87ff79a655e44a6391	Snatcher (Japan) (Game Disk 3) [T-En by Fudeba Software v0.6.0].dsk	msx2-dominater01-translations-english
+44a14e5458e73180ab17dbd12100529e	Solitaire Royale (Japan) [T-En by Django].dsk	msx2-dominater01-translations-english
+20569ab047aceeb28fecc55f7c7f1b59	Sorcerer Lulba (Japan) [T-En by 232 & BiFi] [n].dsk	msx2-dominater01-translations-english
+8efcaf827083abd3430398face728891	Super Cooks (Japan) (Data Disk) [T-En by Django v201501xx].dsk	msx2-dominater01-translations-english
+dfa17fd86a345d291bb9a5fde485574d	Super Cooks (Japan) (Game Disk) [T-En by Django v201501xx].dsk	msx2-dominater01-translations-english
+7138d675b0f23b9277d020863fbf4382	Super Daisenryaku (Japan) (Data Disk) [T-En by Django v1.0].dsk	msx2-dominater01-translations-english
+5b01a0d20ff436f031c999b6b350f86c	Super Daisenryaku (Japan) (Game Disk) [T-En by Django v1.0].dsk	msx2-dominater01-translations-english
+d7e3cef693172cd18c11906ca931e430	Super Shang Hai - Dragon's Eye (Japan) [T-En by Ronin Translations].dsk	msx2-dominater01-translations-english
+ad129ae9cc64cfeb5a0a36ec1b0c9b47	T.D.F. (Japan) [T-En by Django v2012xxxx].dsk	msx2-dominater01-translations-english
+639d0a61c9e144aa8d1e21d87d53fb50	Take the A-Train (Japan) [T-En by Django v1.0] [n].rom	msx2-dominater01-translations-english
+ae3f7fef279faddfe52d93a1dc5e9c8f	Tempo Typing (Netherlands) [T-En by 232 & BiFi].dsk	msx2-dominater01-translations-english
+dd8119a3c22305af94efb3ef87c32312	Ultima IV - Quest of the Avatar (Japan) (Disk 1) [T-En by Django v2009xxxx].dsk	msx2-dominater01-translations-english
+486b7e8a8fe02a34ea38c0ebe87ae63a	Ultima IV - Quest of the Avatar (Japan) (Disk 2).dsk	msx2-dominater01-translations-english
+8e18686960f19da1a1b7bd15dffbbad1	USA-Jong - The Overlord Resurrection (Japan) [T-En by Django] [n].dsk	msx2-dominater01-translations-english
+4b47acaec7f35826a18c3b0687aa484a	Valeur, La (Japan) (Disk A) [T-En by Django v20180130].dsk	msx2-dominater01-translations-english
+d9aef713d8e18b4e1d7f27815ebc4f60	Valeur, La (Japan) (Disk B) [T-En by Django v20180130].dsk	msx2-dominater01-translations-english
+764da3b9a8c7e00f64836f9530768183	Valeur, La (Japan) (User Disk).dsk	msx2-dominater01-translations-english
+8464b59eb5dc4dcdbf1815f4a13eee8e	Valis - The Fantasm Soldier II (Japan) (Disk A) [T-En by Django v2015xxxx].dsk	msx2-dominater01-translations-english
+6263d27b7c94d527fc9ca5d0a99350aa	Valis - The Fantasm Soldier II (Japan) (Disk A) [T-En by Manuel Pazos & Theo Wilderbeek v20210116].dsk	msx2-dominater01-translations-english
+98c9bf916db9ddce832458768b1e1b71	Valis - The Fantasm Soldier II (Japan) (Disk B) [T-En by Manuel Pazos & Theo Wilderbeek v20210116].dsk	msx2-dominater01-translations-english
+995e57ac4dc4509820902c59b786c41a	Valis - The Fantasm Soldier II (Japan) (Disk B).dsk	msx2-dominater01-translations-english
+37d0ad3e24d8c361682a0a8ccfbff81b	Valis - The Fantasm Soldier II (Japan) (Disk C) [T-En by Manuel Pazos & Theo Wilderbeek v20210116].dsk	msx2-dominater01-translations-english
+7fa8489d7d8971e1ba116bf5ea169a12	Valis - The Fantasm Soldier II (Japan) (Disk C).dsk	msx2-dominater01-translations-english
+c25ef6ae474d5d2a11d41a251eff2562	Valis - The Fantasm Soldier II (Japan) (Disk D) [T-En by Manuel Pazos & Theo Wilderbeek v20210116].dsk	msx2-dominater01-translations-english
+46479dcdd00105986eee1a75331ad8fd	Valis - The Fantasm Soldier II (Japan) (Disk D).dsk	msx2-dominater01-translations-english
+661c72962e2908c00dd0950a618f4e77	Welcome to Heaven (Japan) [T-En by MSX Translations v1.0.2] [+2 Trainer] [n].rom	msx2-dominater01-translations-english
+783f58fa61bf122b78a9807c5ed35205	Welcome to Heaven (Japan) [T-En by MSX Translations v1.0.2] [n].rom	msx2-dominater01-translations-english
+5806bb7b5453d966c37725df6f3192be	Wings of Arugisu (Japan) [T-En by Django v201903xx].dsk	msx2-dominater01-translations-english
+6b06ebc8feaf5df5c9df1d32896ca501	Woody Poco (Japan) [T-En by MSX Translations v1.0.1] [+3 Trainer].rom	msx2-dominater01-translations-english
+0c3c5e166ed362072fb231160daa090c	Woody Poco (Japan) [T-En by MSX Translations v1.0.1].rom	msx2-dominater01-translations-english
+53277ed818807c89e5369ab548c53e58	Xak - The Art of Visual Stage (Japan) (Game Disk 1) [T-En by Delta Soft v1.0].dsk	msx2-dominater01-translations-english
+c56f69020b1c3c1966b59c03229517e7	Xak - The Art of Visual Stage (Japan) (Game Disk 1) [T-En by Rieks Warendorp Torringa].dsk	msx2-dominater01-translations-english
+f198131c0d25a6e215cf90a682beb253	Xak - The Art of Visual Stage (Japan) (Game Disk 2) [T-En by Delta Soft v1.0].dsk	msx2-dominater01-translations-english
+2b1ac52f6e4a8399eaf2733233dd4be5	Xak - The Art of Visual Stage (Japan) (Game Disk 2) [T-En by Rieks Warendorp Torringa].dsk	msx2-dominater01-translations-english
+ef8a151b56c8ea4d8f3899cd0960d1b6	Xak - The Art of Visual Stage (Japan) (Opening Disk) [T-En by Delta Soft v1.0].dsk	msx2-dominater01-translations-english
+e4e27b4cd2f725b91678822582e49629	Xak - The Art of Visual Stage (Japan) (Opening Disk) [T-En by Rieks Warendorp Torringa].dsk	msx2-dominater01-translations-english
+b24aac8fb23aa6b6a37e076d3c650c45	Xak II - Rising of the Red Moon (Japan) (Disk 1) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+69e3c0fcfff8cc0b4c778a8600ca6498	Xak II - Rising of the Red Moon (Japan) (Disk 2) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+7cc11a888271c9da980dbfa9fc838ce8	Xak II - Rising of the Red Moon (Japan) (Disk 3) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+f0d4560caf16fffb2290d9f53e78e26f	Xak II - Rising of the Red Moon (Japan) (Disk 4) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+b73c7268587826b542c3592eb8cb64ad	Xak II - Rising of the Red Moon (Japan) (Disk 5) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+974cc09b81a69cd8c46b5f1c88c82fab	Xak Precious Package - The Tower of Gazzel (Japan) (Disk 1) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+262e530959cf0b579a4845ab27ef7603	Xak Precious Package - The Tower of Gazzel (Japan) (Disk 2) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+e7c328b9cc98c3f2345e2d0140680074	Xak Precious Package - The Tower of Gazzel (Japan) (Disk 3) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+ccfabf3d300d9596252fd9c41bed2813	Xak Precious Package - The Tower of Gazzel (Japan) (Disk 4) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+d509cd2aebf18c3c34714472a4b2c201	XZR II (Japan) (Disk 1) [T-En by Django v1.0] [i].dsk	msx2-dominater01-translations-english
+0c8e3a71c46ad3e6e0157f82924dcb1f	XZR II (Japan) (Disk 2) [T-En by Django v1.0] [i].dsk	msx2-dominater01-translations-english
+df7c67c3f29b1f543fc7ae55533bb03c	Yoshida Konzern - Lubeck (Game Sample) (Japan) (Alt 1).dsk	msx2-dominater01-translations-english
+2d9dd51999ecdfbae7e1238891e631f9	Yoshida Konzern - Lubeck (Game Sample) (Japan).dsk	msx2-dominater01-translations-english
+3f9582c3cd6cf8d5e86b53650c21df38	Yoshida Konzern - Shooting Game Construction Tool (Japan) [T-En by MSX Translations v0.5.0].dsk	msx2-dominater01-translations-english
+c52e2ea87b469952ad4817a0196bd010	Ys - Ancient Ys Vanished Omen (Japan) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+6e6c8b09af1209aab773661b50344188	Ys II - Ancient Ys Vanished - The Final Chapter (Japan) (Data Disk) [T-En by Oasis v1.0] [i].dsk	msx2-dominater01-translations-english
+bc8f210689c69a1663df4f6baeb97b31	Ys II - Ancient Ys Vanished - The Final Chapter (Japan) (Game Disk) [T-En by Oasis v1.0] [i].dsk	msx2-dominater01-translations-english
+3244a6e255f6aee2be560f267c6ca7dc	Ys III - Wanderers from Ys (Japan) (Data 1 Disk) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+f7f9cb5c9f069b5cc3ca980dd67d0876	Ys III - Wanderers from Ys (Japan) (Data 2 Disk) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+1ebb2f8263c042c0122aff2021f8c0e0	Ys III - Wanderers from Ys (Japan) (Data 3 Disk) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+550e3f8ad0a5ba72d60a8a86b3cf6042	Ys III - Wanderers from Ys (Japan) (Game Disk) [T-En by Oasis v1.0].dsk	msx2-dominater01-translations-english
+e6599cceae6e3a5000c3a3f0af972d90	Zombie Hunter (Japan) [T-En by Django v1.0].rom	msx2-dominater01-translations-english
+0005735b6dcf900727ed2ac3976bee4a	Zombie Hunter (Japan) [T-En by Django v2015xxxx].rom	msx2-dominater01-translations-english
+5a04579cc9431e9d975b58372b023645	Zoo (Netherlands) [T-En by MRC Users v201703xx].dsk	msx2-dominater01-translations-english
+4db4e26c3fb2038c90f7843074d58ade	Illusion City (Japan) (Disk 1) [T-En by A&L Software v0.5].dsk	msxturbor-translations-english
+19abf74fba15d87df4ac01d4d099bee3	Illusion City (Japan) (Disk 2) [T-En by A&L Software v0.5].dsk	msxturbor-translations-english
+f4a8a729fd1e2e04282989fd5e7a54ec	Illusion City (Japan) (Disk 3) [T-En by A&L Software v0.5].dsk	msxturbor-translations-english
+3e235871513a32983c43146900ff4e4e	Illusion City (Japan) (Disk 4) [T-En by A&L Software v0.5].dsk	msxturbor-translations-english
+e9376ffc278f2794bb73773b8eab1d5f	Illusion City (Japan) (Disk 5) [T-En by A&L Software v0.5].dsk	msxturbor-translations-english
+08cab65d20df304ae989e50b2d2b32da	Illusion City (Japan) (Disk 6) [T-En by A&L Software v0.5].dsk	msxturbor-translations-english
+e3c34c05904bb90830b50c2a3d9945aa	Illusion City (Japan) (Disk 7).dsk	msxturbor-translations-english
+cd23806488d25ecac8a3ff4bace1f62c	Illusion City (Japan) (Disk 8).dsk	msxturbor-translations-english
+bbfba32b2dff143f74796d0bc82439eb	Moonlight Saga (Japan) (Disk 1) [T-En by Manuel Pazos & Takamichi v20201111].dsk	msxturbor-translations-english
+5afac0e8a22d3b60f574c452a70b4b94	Moonlight Saga (Japan) (Disk 2) [T-En by Manuel Pazos & Takamichi v20201111].dsk	msxturbor-translations-english
+9797a15509d29280ab23b104351dff82	Moonlight Saga (Japan) (System Disk) [T-En by Manuel Pazos & Takamichi v20201111].dsk	msxturbor-translations-english
+5e0f89a4400281846f4b39974b0cb5fa	PaRaDream - Parallel Dream (Japan) [T-En by 232 & BiFi].dsk	msxturbor-translations-english
+b3be4a33785b91fc5582a88b796adff9	Super Shang Hai - Dragon's Eye (Japan) [T-En by Ronin Translations].dsk	msxturbor-translations-english

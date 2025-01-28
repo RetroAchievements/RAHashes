@@ -1,0 +1,93 @@
+45e12558e1b9eda1b66b86f68f995f2a	air cars.j64	atari-jaguar-mame
+0446a350eeac927c2d6e371f942766f1	aircars94.u1	atari-jaguar-mame
+28803ff21cd725b6835fd2898aaad4ef	aircars94.u2	atari-jaguar-mame
+96bc77cfd1b2df85b5e6ae05594e74b0	alien vs predator (world).j64	atari-jaguar-mame
+a73c0e4f3a0d3de6c40688ff66eb4b6e	arena football.j64	atari-jaguar-mame
+f6ac0fea7764cf4719005c49f2281024	atari karts (beta).j64	atari-jaguar-mame
+cb492f093cd9e22a913d158741e8f00a	atari karts (world).j64	atari-jaguar-mame
+3ab524a6a18f79b5e7fd0bb189fe8170	attack of the mutant penguins (world).j64	atari-jaguar-mame
+a69b7a8a9a7a42b189ab48ce8e8587c1	barkley shut up and jam (prototype).j64	atari-jaguar-mame
+7e06fe6e441707ebcdbd0de5ec068c6e	barkley shut up and jam.j64	atari-jaguar-mame
+06f3a61fb712c581aee3599f3a61fa61	battle sphere gold (world).j64	atari-jaguar-mame
+984ed59d91435ec0d8193e168df31c10	battlesphere.j64	atari-jaguar-mame
+449c50414de5875b938780d0ef0b9869	braingames (unreleased).j64	atari-jaguar-mame
+73a03ac854e2e87ee7ca1c42ef64a301	breakout 2000.j64	atari-jaguar-mame
+242d383c944c8649f57efe30f8a84215	breakout2000 (prototype) 3-27.j64	atari-jaguar-mame
+0318d553d1d2e694bb188246bfe49032	brett hull hockey (cart version).j64	atari-jaguar-mame
+4c32a7a55af8f6b24d570b6d2a83963b	brett hull hockey.j64	atari-jaguar-mame
+ce6005897ff5e9aa4e992c76628b21c6	brutal sports football (world).j64	atari-jaguar-mame
+c3ad2c75c5339125661845720da3895d	bubsy in fractured furry tales (world).j64	atari-jaguar-mame
+4aa320637ffc598d7d9db44085a88df2	cannon fodder (world).j64	atari-jaguar-mame
+c77ba1af9705265d4c0070541a5c4787	checkered flag (world).j64	atari-jaguar-mame
+403e9c8bf868213d1daae54f1be62cb2	club drive (world).j64	atari-jaguar-mame
+add439553ebc7a3e1d6c44ea855c1b31	cyber golf v.001 (1994).j64	atari-jaguar-mame
+905b5df8de465c922543a1d0548e8101	cyber golf v0.03 (19xx)(atari)[prototype].j64	atari-jaguar-mame
+1ede6eb5f3578bd31ee70375eb85dbd5	cyber golf v0.04 (19xx)(atari)[prototype].j64	atari-jaguar-mame
+0ad7cf284117042132e56b0a0a5af3e7	cybermorph (early prototype).j64	atari-jaguar-mame
+1c2e3d172151dcae3b3fc9a23084dcf2	cybermorph (world) (rev 1).j64	atari-jaguar-mame
+81dc55f1abaa89f4b3d510cb4c2e5fe8	cybermorph (world) (rev 2).j64	atari-jaguar-mame
+37f38d240c9eb074872e62e3694ba453	defender 2000 (prototype).j64	atari-jaguar-mame
+939f2446e70d8b26f17b21e065aa7a30	defender 2000 (world).j64	atari-jaguar-mame
+3a5878ea3f391174becc37b037318804	doom (world).j64	atari-jaguar-mame
+b50249bf2924af134b45f59218e9b5dd	double dragon v - the shadow falls (world).j64	atari-jaguar-mame
+ddb3eb3359adb163b771c62e62b6df9d	dragon - the bruce lee story (world).j64	atari-jaguar-mame
+d934acb23e0d9ee46d2a050146b876b0	evolution - dino dudes (world).j64	atari-jaguar-mame
+86c5cb8ac559b4f3a1e9aa883b06f98c	fever pitch soccer (world) (en,fr,de,es,it).j64	atari-jaguar-mame
+c5d3d9510a9ab9ea9b44c6643bd48ce1	fight for life (beta 3-22).j64	atari-jaguar-mame
+8ef4cea701ed5c774380a5f21bfb9062	fight for life (beta 9-7).j64	atari-jaguar-mame
+bde3014aaebe4e7a0783a6c5fc921c14	fight for life (world) (alt).j64	atari-jaguar-mame
+2947e4e2009425a6ac8b26f14a8eea92	fight for life (world).j64	atari-jaguar-mame
+d46b75d5a28fda75bf2d6d79f12c9f27	flashback - the quest for identity (world) (en,fr).j64	atari-jaguar-mame
+df6d6844c7617b989f5d377208ce6648	flip out (world).j64	atari-jaguar-mame
+7d558eeba3663db61452184898207f73	gorf 2000 (2008).j64	atari-jaguar-mame
+51d65ce8171daf0a255a30b44dac07cf	hover strike (world).j64	atari-jaguar-mame
+21a2abca6e1b8c3fd6b9ab2cc155db42	hyper force (world).j64	atari-jaguar-mame
+5a66b96ede209f251b00e0e06723826c	i-war (world).j64	atari-jaguar-mame
+e9aac34f010aae4d0c781a34975d2aaf	iron soldier (world) (v1.04).j64	atari-jaguar-mame
+35ef8cedbfab697e380170e438858d4c	iron soldier 2 (world).j64	atari-jaguar-mame
+7ad345dbfa5a7cd66b579b2dffa6ddd0	kasumi ninja (world).j64	atari-jaguar-mame
+9d6e7c120a07cc83127fed86a37a388b	memory track.j64	atari-jaguar-mame
+3dd8ee48afb83629c87ec0b6de790c25	missile command 3d (world).j64	atari-jaguar-mame
+72b89e485f51f2038f91d5cb499f5d80	missile command vr (not 3d).j64	atari-jaguar-mame
+a302ef18eedcb6c07dd7ea139c849eb7	nba jam t.e. (world).j64	atari-jaguar-mame
+5647d189d38b7115cba94d48f1f8d22e	phase zero.j64	atari-jaguar-mame
+94583ce1270f05f13b32a9ff0e8909db	pinball fantasies (world).j64	atari-jaguar-mame
+c8ad07df9fd386abadb2c0cac7381657	pitfall - the mayan adventure (world).j64	atari-jaguar-mame
+98119ea7434fc21ea7b2462c5c602b50	power drive rally (world).j64	atari-jaguar-mame
+3774ee26339adfc0bad07091d29c361b	protector - special edition (world).j64	atari-jaguar-mame
+6564da92b5d4a9dc1d34ab2c941a3b55	protector.j64	atari-jaguar-mame
+7f7afc98ec2d88eb20c56582dc8b4351	raiden (world).j64	atari-jaguar-mame
+126e966e6eab39f72a24a16cc75e5c7f	raiden alt.j64	atari-jaguar-mame
+283e0eb1beb4c6217d3be9719eabacb8	rayman (early prototype).j64	atari-jaguar-mame
+c0ebfa0c65145bc59ca3bad632d85a39	rayman (world).j64	atari-jaguar-mame
+c162738bf2c602144d78987498c68a49	ruiner pinball (world).j64	atari-jaguar-mame
+6344be281acb1c86819a310c6a147aa6	sensible soccer - international edition (world).j64	atari-jaguar-mame
+04c85be97daf4308135d245e68d4774d	skyhammer (world).j64	atari-jaguar-mame
+c803a3d9bb7c64c599143c0f6b1cab96	soccer kid (world).j64	atari-jaguar-mame
+e217cd396b28069781af9f66a9457a1a	soccer kid 2.j64	atari-jaguar-mame
+59a409e081375c44ab702d2c7a96c3df	soccer kid with universal header.j64	atari-jaguar-mame
+2d03f3e2b399d0ce0103830820e69524	soccer kid.j64	atari-jaguar-mame
+d13a90b8ff1d9e223afad00156c976dd	space war 2000 (world).j64	atari-jaguar-mame
+8045ac181d02e3fc92eae066607073f3	space war 2000.j64	atari-jaguar-mame
+1b01e8ebfcf63a296daeae0c67d12cdd	speedster_ii.j64	atari-jaguar-mame
+5f3a11bc3452fddf82c6548742467a35	super burnout (world).j64	atari-jaguar-mame
+5f4752e493bfc18ac8df1647bbc1fdbf	supercross 3d (world).j64	atari-jaguar-mame
+b81af314f10a547680e17d3797db0c81	syndicate (world).j64	atari-jaguar-mame
+602bc9953d3737b1ba52b2a0d9932f7c	tempest 2000 (world).j64	atari-jaguar-mame
+0d5f81f48dffa2b511460a9852aa3b4a	theme park (world).j64	atari-jaguar-mame
+322e89a674a188f8fddd313d6fe7bf80	tiny toon.j64	atari-jaguar-mame
+138d08ea481f34e27bd0128cb996d9fe	tiny toons plucky duck (unreleased tech demo).j64	atari-jaguar-mame
+5f14d7c3da4e0f26f736158ffb95ce05	total carnage (world).j64	atari-jaguar-mame
+83d0248de7d14684cb7c7457fcd1c608	towers ii.j64	atari-jaguar-mame
+bafebcbf5a0973fcf5c130c56ffeabb2	trevor mcfur in the crescent galaxy (world).j64	atari-jaguar-mame
+bb04ea04aefa100d7e7f87f46db71f57	trevor mcfur in the crescent galaxy.j64	atari-jaguar-mame
+f5fcfb1b9a1e00bc5dcd6cc9fbe56577	troy aikman nfl football (world).j64	atari-jaguar-mame
+31517113add13d1ff766a4c2a58f4675	ultra vortek (world) (v0.94) (beta).j64	atari-jaguar-mame
+5f2115d0bdcae4f3aa8e832f23f4ebdd	ultra vortek (world).j64	atari-jaguar-mame
+1f1145e1042b8cc062c417798392d251	val d'isere skiing and snowboarding (world).j64	atari-jaguar-mame
+22dd3645e3ea99f303694eb5f157ce06	white men can't jump (world).j64	atari-jaguar-mame
+3584cb83461c8666a3f28ea0c431a3db	wolfenstein 3d (world).j64	atari-jaguar-mame
+1a87f2f7a32d3e3a8e8d922a0c5aa6af	worms (world).j64	atari-jaguar-mame
+08b31fae8cbd44ac65d44baf1a0545a2	zero 5 (world).j64	atari-jaguar-mame
+780c0dd04407145b1c436adea406b5ac	zool 2 (world).j64	atari-jaguar-mame
+014e52819fc3d8ecbd0a1e71b80feb42	zoop (world).j64	atari-jaguar-mame

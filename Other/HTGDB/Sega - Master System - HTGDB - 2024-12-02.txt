@@ -1,0 +1,1510 @@
+91a9dcd4f59c29db72c931be2fe60b51	20 em 1 (Brazil).sms	sms-htgdb
+ce26b4372655f35f1b7c9d0c3b700f93	Ace of Aces (Europe, Brazil) (En).sms	sms-htgdb
+7e08a9854d61fece23d3c4a39539f4e9	Action Fighter (Japan, Europe) (En).sms	sms-htgdb
+47d736575f9a22f7490d62c76ed7c933	Action Fighter (USA, Europe, Brazil) (En) (Rev 1).sms	sms-htgdb
+09202bc26fcf19ebd3ffcbd80e23ed9d	Addams Family, The (Europe).sms	sms-htgdb
+0713f2e55a1eea0d9e2fb7044740261b	Aerial Assault (Europe, Brazil) (En).sms	sms-htgdb
+8b603c931418a3680b8723861f55a7b5	Aerial Assault (USA).sms	sms-htgdb
+6271c183513e0be0543e326419ee989e	After Burner (World).sms	sms-htgdb
+4f145d617b9191cbc0e005786ca993f6	Air Rescue (Europe, Brazil) (En).sms	sms-htgdb
+e3f60072028eb6f02c2b0558804aed83	Aladdin (Europe, Brazil) (En).sms	sms-htgdb
+810f65d7a7a8462c40c01bea3d5d7d01	Aleste (Japan).sms	sms-htgdb
+0f6ebfa2b24bb99dbea1142312fd33c9	Alex Kidd - High-Tech World (USA, Europe, Brazil) (En).sms	sms-htgdb
+ea50dcdd1241667f32d39d606a9f7083	Alex Kidd - The Lost Stars (World).sms	sms-htgdb
+571f18f49e679a128b4a237001760d6c	Alex Kidd BMX Trial (Japan).sms	sms-htgdb
+f43e74ffec58ddf62f0b8667d31f22c0	Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1).sms	sms-htgdb
+d62b631506913712a2103f54912458a5	Alex Kidd in Shinobi World (USA, Europe, Brazil) (En).sms	sms-htgdb
+6e8e702e1d8a893ee698b93f5807972a	Alex Kidd no Miracle World (Japan).sms	sms-htgdb
+bc1360afa99cd89fbab4ea55bef08aae	Alf (USA).sms	sms-htgdb
+7d6b3351e820b6afa7cf80713dc139e3	Alien 3 (Europe, Brazil) (En).sms	sms-htgdb
+c60380642a89805f569124a875248d71	Alien Storm (Europe, Brazil) (En).sms	sms-htgdb
+c352bd773dc9cd909a8c1707ccb54d40	Alien Syndrome (Japan).sms	sms-htgdb
+732808a44a90b780454a1eb6adbf3957	Alien Syndrome (USA, Europe, Brazil) (En).sms	sms-htgdb
+24618ca4a223a36d2bfda10f42454687	Altered Beast (USA, Europe, Brazil) (En).sms	sms-htgdb
+670f409af2403c8256b6c04d026e33c5	American Baseball (Europe, Brazil) (En).sms	sms-htgdb
+ab173835fc5934cfdc6e378be75c12ea	American Pro Football (Europe).sms	sms-htgdb
+b60c4f89e95585a0a01b4ff99a962d8b	Andre Agassi Tennis (Europe, Brazil) (En).sms	sms-htgdb
+c6e271132566b4dd03981dcf2f8a6477	Anmitsu Hime (Japan).sms	sms-htgdb
+c74e0be13dc3fbd085fb9a1ebd6e6afc	Arcade Smash Hits (Europe).sms	sms-htgdb
+8e8b04b5a9fe7b6cdb25b6550e7a831e	Argos no Juujiken (Japan).sms	sms-htgdb
+9efdf5a7123f5a52967199381e93759d	Ariel - The Little Mermaid (Brazil) (En).sms	sms-htgdb
+e5693a4806de29ea9b1e1b5fea1a9566	Ashura (Japan).sms	sms-htgdb
+b13632f6e0e0b495aae726aec9ba66d0	Assault City (Europe) (Joypad).sms	sms-htgdb
+4354119b151d9129d31918865db9b1c9	Assault City (USA, Europe, Brazil) (En) (Light Phaser).sms	sms-htgdb
+6831e9afe139fedb13c81a54926b3c0d	Asterix (Europe, Brazil) (En,Fr) (Rev 1).sms	sms-htgdb
+36bd5fe2e4d1620f5a43ea610c458c86	Asterix and the Great Rescue (Europe, Brazil) (En,Fr,De,Es,It).sms	sms-htgdb
+7cc8be20b0a2ee3941c9846026c287ae	Asterix and the Secret Mission (Europe, Brazil) (En,Fr,De).sms	sms-htgdb
+a7462d79844a12a92941174252c9ca6e	Astro Flash (Japan).sms	sms-htgdb
+e645faa5628caab5129383fdbf4df090	Astro Warrior (Japan, USA, Brazil) (En).sms	sms-htgdb
+8712366da97ab80f4cd2aa36203a5885	Astro Warrior & Pit Pot (Europe).sms	sms-htgdb
+8020584caadb664a5924e940b6a9c5bc	Aventuras da TV Colosso, As (Brazil).sms	sms-htgdb
+04abc524a3b7f7e2e96eb910490e77ec	Ayrton Senna's Super Monaco GP II (Europe, Brazil) (En).sms	sms-htgdb
+12ce04ff557a96add46f04b12b0d47cc	Aztec Adventure (World).sms	sms-htgdb
+f2535df9bdc3a84221303fa62d61ad6e	Back to the Future Part II (Europe, Brazil) (En).sms	sms-htgdb
+3d24a52e98e6c85d7c059386451ce749	Back to the Future Part III (Europe).sms	sms-htgdb
+8a94ded3d95aa46dae8800b92e66d3ee	Baku Baku (Brazil) (En).sms	sms-htgdb
+7a5d3b9963e316cb7f73bbdc2a7311c6	Bank Panic (Europe, Brazil) (En).sms	sms-htgdb
+0069b1bd9c5b6b88ace6324d7e61539f	Basketball Nightmare (Europe, Brazil) (En).sms	sms-htgdb
+215876a62d3ca48d28e98cd8a2c70a15	Batman Returns (Europe, Brazil) (En).sms	sms-htgdb
+83609eb760c3af64915fd6e73ee7d99e	Battle Out Run (Europe, Brazil) (En).sms	sms-htgdb
+5401ddcc788c0f1a5dfe26e56f239fbf	Battlemaniacs (Brazil) (En).sms	sms-htgdb
+16e6b4a1d71960d64bd20aaf7024e8ac	Black Belt (USA, Europe, Brazil) (En).sms	sms-htgdb
+a20798b12481284f77cee67ce5e25f2b	Blade Eagle 3-D (World).sms	sms-htgdb
+d1151de6ea0a2547f047ce31b22fe18f	Bomber Raid (World).sms	sms-htgdb
+e58f6f374b3405fd2a5e5b80e639a980	Bonanza Bros. (Europe, Brazil) (En).sms	sms-htgdb
+044b79a5e4cf58fb92b60fc09cf4f316	Bonkers Wax Up! (Brazil) (En).sms	sms-htgdb
+4b3c934b3daa99a6b341da57388a7543	Bram Stoker's Dracula (Europe).sms	sms-htgdb
+d79c186a74550876691e97ca830c66c7	Bubble Bobble (Europe, Brazil) (En).sms	sms-htgdb
+db41b17f3268d9076e0928911a2791e0	Buggy Run (Europe, Brazil) (En).sms	sms-htgdb
+182b179a1226fb5b1e1cf6bb2f351c50	California Games (USA, Europe, Brazil) (En).sms	sms-htgdb
+5ac58b3a7fda23161ab1185b3ee797ac	California Games II (Europe).sms	sms-htgdb
+ccb76c009e52e32e2dcc528481f0e039	Captain Silver (Japan, Europe, Brazil) (En).sms	sms-htgdb
+1dfaadbfe7d8019e73bd980fd4b819ea	Captain Silver (USA).sms	sms-htgdb
+ec16428b908a2c0036b799e55614be3d	Casino Games (USA, Europe).sms	sms-htgdb
+47f513d0f9d2896bf1a87254337d5b29	Castelo Ra-Tim-Bum (Brazil).sms	sms-htgdb
+e7e1ef0a9e20585e2266e8adbaf4b8c9	Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Rev 1).sms	sms-htgdb
+c28aa80489a467bf54fc1403029a83d3	Champions of Europe (Europe, Brazil) (En).sms	sms-htgdb
+1f706162f833f1dce9513988601d314b	Championship Hockey (Europe).sms	sms-htgdb
+2c709ba8cdc3a1b7adc5bc838eabf6f3	Chapolim x Dracula - Um Duelo Assustador (Brazil).sms	sms-htgdb
+f90b86478445d220d386460e55f3b74f	Cheese Cat-astrophe Starring Speedy Gonzales (Europe, Brazil) (En,Fr,De,Es).sms	sms-htgdb
+747a206eaaadf48714695e8b4ccead7e	Choplifter (USA, Europe, Brazil) (En).sms	sms-htgdb
+b106995de2f5f9dba99131f0286756ec	Chouon Senshi Borgman (Japan).sms	sms-htgdb
+2594f33f210ee4cf6356ac7b2ab8c4e7	Chuck Rock (Europe, Brazil) (En).sms	sms-htgdb
+aa5248dbf08f5ee7944df679966b2d70	Chuck Rock II - Son of Chuck (Brazil) (En).sms	sms-htgdb
+ad6c6ffe26d93298ae56bdea8eafc879	Chuck Rock II - Son of Chuck (Europe).sms	sms-htgdb
+89d22e72bd0379495a2db456eda6ac4c	Circuit, The (Japan).sms	sms-htgdb
+4498afc1fce51ebd461798fbe61aa6f8	Cloud Master (USA, Europe, Brazil) (En).sms	sms-htgdb
+d443d521036d527d35926809f230106c	Columns (USA, Europe, Brazil) (En).sms	sms-htgdb
+2d59b3d27f022b04a597e767e6660ca9	Comical Machine Gun Joe (Japan).sms	sms-htgdb
+b4c33bdba2472003f87ed193e51b2c9b	Cool Spot (Europe).sms	sms-htgdb
+7debf96f69c896d8571a6ad6cfacf502	Cosmic Spacehead (Europe) (En,Fr,De,Es).sms	sms-htgdb
+9878c298077be78b765ac2264815100b	Cyber Shinobi, The (Europe, Brazil) (En).sms	sms-htgdb
+ac90d79743cac1afcd7049f7b4e73bc4	Cyborg Hunter (USA, Europe, Brazil) (En).sms	sms-htgdb
+75955b8a2d2a2256523fb26dac62a5e2	Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It).sms	sms-htgdb
+6b0fc60aa886c060bf1a16ea97b4f441	Danan - The Jungle Fighter (Europe, Brazil) (En).sms	sms-htgdb
+8d5e93715bad32ba8bbcac9d21e87d89	Dead Angle (USA, Europe, Brazil) (En).sms	sms-htgdb
+05e3071aad9c36b6e18f1656592eeb3d	Deep Duck Trouble Starring Donald Duck (Europe, Brazil) (En).sms	sms-htgdb
+8fe55ade7b34aa4e42c5f63f4368497f	Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe, Brazil) (En,Fr,De,Es,It).sms	sms-htgdb
+df89aa1ebc5f42db21fb8d12d9e78511	Desert Strike (Europe) (En,Fr,De,Es).sms	sms-htgdb
+1dcaf7d1ea7caaaa716f0ec43c3f828a	Dick Tracy (USA, Europe, Brazil) (En).sms	sms-htgdb
+ff7502dd8a717db5adb42c711ddbc9f5	Doki Doki Penguin Land - Uchuu Daibouken (Japan).sms	sms-htgdb
+79f15598828e697e75c65130262d8d94	Dokidoki Penguin Land (Japan).sg	sms-htgdb
+fe9aa8044951b10f876b15f4456161a9	Double Dragon (World).sms	sms-htgdb
+3e6e6cb8729965fdfdbb422f066ad706	Double Hawk (Europe).sms	sms-htgdb
+ba66d377ad3a2eaa13bbc00f63f8e4e7	Double Target - Cynthia no Nemuri (Japan).sms	sms-htgdb
+03d03f1e816d137fe6a1f5fe45fee82d	Dr. Robotnik's Mean Bean Machine (Europe, Brazil) (En).sms	sms-htgdb
+f86e099ca8e407a65a7751d84c2ee519	Dragon - The Bruce Lee Story (Europe).sms	sms-htgdb
+e05484f93011055c5b76ffabfea84367	Dragon Crystal (Europe, Brazil) (En).sms	sms-htgdb
+31a7be585288a8b77b7923a202752ab7	Dynamite Duke (Europe, Brazil) (En).sms	sms-htgdb
+5cb7ebaee5952ebfcdc42e7093072063	Dynamite Dux (Europe, Brazil) (En).sms	sms-htgdb
+7f57481d870465fc3a6412d87f0a8e38	Dynamite Headdy (Brazil) (En).sms	sms-htgdb
+36a5339cef97d0a5757db4fd81b4abf3	E-SWAT (USA, Europe, Brazil) (En) (Rev A).sms	sms-htgdb
+f26bf8d41e0b6159fc436567b447363f	Earthworm Jim (Brazil) (En).sms	sms-htgdb
+fe58b4b23d58386cad7111fd522cbf75	Ecco - The Tides of Time (Brazil).sms	sms-htgdb
+bea00f9b73ac248bafa7e406a5489b32	Ecco The Dolphin (Europe, Brazil) (En).sms	sms-htgdb
+a94de92b078911e71c246679c8992da1	Enduro Racer (Japan).sms	sms-htgdb
+06779a1a9dbada60efb1f37e37040a5b	Enduro Racer (USA, Europe, Brazil) (En).sms	sms-htgdb
+613376b7b53e43ba17ae1b62da3c9251	Excellent Dizzy Collection, The (Europe).sms	sms-htgdb
+b88767b3386073fa775a8391b8912010	F-16 Fighter (USA, Europe, Brazil) (En).sms	sms-htgdb
+60e4b9cf6c000eb3af97e758413ce99f	F-16 Fighting Falcon (Japan).sms	sms-htgdb
+5d67504b8334a0e36f6119515928717c	F1 (Europe, Brazil) (En).sms	sms-htgdb
+03552187d613c1b2a22a8e32476c5254	Family Games (Japan).sms	sms-htgdb
+b8eb0cb6a9d16cfd08d9c03297fcd445	Fantastic Dizzy (Europe) (En,Fr,De,Es,It).sms	sms-htgdb
+d37f86c678b2ad0018518ea7278db24b	Fantasy Zone - The Maze (USA, Europe, Brazil) (En).sms	sms-htgdb
+3a1dfad2cea111d0dbfb4a545bf3f87e	Fantasy Zone (Japan).sms	sms-htgdb
+fed8690ee5fb895c09caa8e2b879ebd6	Fantasy Zone (World) (Rev 1).sms	sms-htgdb
+f898539f72db2271fc3385a5eb51a06f	Fantasy Zone II - Opa-Opa no Namida (Japan).sms	sms-htgdb
+481a01c4e768c535ee18d6d78815fc89	Fantasy Zone II (USA, Europe, Brazil) (En).sms	sms-htgdb
+212346e9bfdd058c4d7b766df89c1fcb	Felipe em Acao (B).sms	sms-htgdb
+3706d53f47e3e0294a778bc9b732f414	Ferias Frustradas do Pica Pau (Brazil).sms	sms-htgdb
+907bc842dece97cef44afff0c9ada770	FIFA International Soccer (Brazil) (En,Es,Pt).sms	sms-htgdb
+3573a65921b0506f7124f1f9ffb30974	Final Bubble Bobble (Japan).sms	sms-htgdb
+d27d8fee8f711db361a71817864bd139	Fire & Forget II (Europe).sms	sms-htgdb
+85acf93edba54485466aeb840966082b	Fire & Ice (Brazil) (En).sms	sms-htgdb
+a96908fab5f599b11fe8107c3f93b6b1	Flash, The (Europe, Brazil) (En).sms	sms-htgdb
+23a5a42c0a4a4bceffbd1869192f329d	Flintstones, The (Europe, Brazil) (En).sms	sms-htgdb
+68cc1711bb89921da1f215f323f3bb2d	Forgotten Worlds (Europe, Brazil) (En).sms	sms-htgdb
+209ee37dcabc263aa462c781d3123fce	Fushigi no Oshiro Pit Pot (Japan).sms	sms-htgdb
+7ccd2885039eb291e5ef8789173b4e13	G-LOC Air Battle (Europe, Brazil) (En).sms	sms-htgdb
+7d54230748fa41bb62b6f08e5dcede08	Gain Ground (Europe, Brazil) (En).sms	sms-htgdb
+8d61b59296877216cf7e4b04a68bfa66	Galactic Protector (Japan).sms	sms-htgdb
+96042c7a53dc6f9de13b7a32fa3e4035	Galaxy Force (Europe, Brazil) (En).sms	sms-htgdb
+dbaac7c72eb3e0bf9e6d70b799d62799	Galaxy Force (USA).sms	sms-htgdb
+baf383826e472bb1959aeb0fc7ff853d	Game Box Serie Esportes Radicais (Brazil) (En).sms	sms-htgdb
+3396259ca032ed4f1499d1f737e75e0d	Gangster Town (USA, Europe, Brazil) (En).sms	sms-htgdb
+fdd401983eb42200f9fec672374597af	Gauntlet (Europe, Brazil) (En).sms	sms-htgdb
+31cf051d130a64e211d3ccb37c5653f7	George Foreman's KO Boxing (Europe, Brazil) (En).sms	sms-htgdb
+a7f7d8b8d3394d41430b8240151f91f6	Geraldinho (Brazil) (En).sms	sms-htgdb
+89028bfb152a553adf25668649d39ca6	Ghost House (Japan).sms	sms-htgdb
+580adb73aecd35348862fb6ed43ae956	Ghost House (USA, Europe, Brazil) (En).sms	sms-htgdb
+dbae1ad6d3917a95b96d28bfc6f3f90a	Ghostbusters (USA, Europe, Brazil) (En).sms	sms-htgdb
+85707b3a74483910699ccc4ba20c64ff	Ghouls'n Ghosts (USA, Europe, Brazil) (En).sms	sms-htgdb
+7ab485ee37ea7ce538f7dba08b64d95e	Global Defense (USA, Europe, Brazil) (En).sms	sms-htgdb
+73569d2abefb7cdcbe9a13456df525c2	Global Gladiators (Europe, Brazil) (En).sms	sms-htgdb
+9e56576a5c7d571ce17c650c4116a77d	Gokuaku Doumei Dump Matsumoto (Japan).sms	sms-htgdb
+b4911ad6a9d2ba56497cd5b01da3938a	Golden Axe (USA, Europe, Brazil) (En).sms	sms-htgdb
+d46e40bbb729ba233f171ad7bf6169f5	Golden Axe Warrior (USA, Europe, Brazil) (En).sms	sms-htgdb
+5554f9f67103e0d5b1a4075a2d26d15b	Golfamania (Europe, Brazil) (En).sms	sms-htgdb
+2101295c258cb6b845bdb72be617691d	Golvellius - Valley of Doom (USA, Europe, Brazil) (En).sms	sms-htgdb
+1af1cdf8d40c305f936e72b51cb4740d	GP Rider (Europe, Brazil) (En).sms	sms-htgdb
+94ca79d4eb2709ad98b850d33728a045	Great Baseball (Japan).sms	sms-htgdb
+1d126c6ac8e4d7b612e9db3d56d9e78e	Great Baseball (USA, Europe).sms	sms-htgdb
+450d68460d4ae07a7cc98d36491fd4f8	Great Basketball (World).sms	sms-htgdb
+2cf4d65cb09c276a96ad73e724fb825c	Great Football (World).sms	sms-htgdb
+c0a9a2261ea7ef93bf8120f5328deaec	Great Golf (Japan).sms	sms-htgdb
+763580f2af57ea7baddf671fb51787da	Great Golf (World).sms	sms-htgdb
+26621293a88d55fedaf71bb097c24653	Great Ice Hockey (Japan, USA) (En).sms	sms-htgdb
+5c9815b45b5cb3d9b3436c56c6fcadaf	Great Soccer (Europe).sms	sms-htgdb
+0ed883302e87ca46c1c1a55660e17900	Great Soccer (Japan).sms	sms-htgdb
+be6eac7ce416c86a818ff13b228b39c5	Great Tennis (Japan).sms	sms-htgdb
+03d6e8450a74ac09e47ae9bf210cfe17	Great Volleyball (Japan).sms	sms-htgdb
+382b627efa06c958b8ec5c85e964bf10	Great Volleyball (USA, Europe, Brazil) (En).sms	sms-htgdb
+b54989c58520516f4c10ce4e7a446725	Haja no Fuuin (Japan).sms	sms-htgdb
+2864be0d35269c5030a7f297f70e3ac3	Hang On (Europe).sms	sms-htgdb
+67849e734a1304799606ba5a22f840d2	Hang On (Japan).sms	sms-htgdb
+3701cb59dfd137246d163462d18e8dd4	Hang On & Astro Warrior (USA).sms	sms-htgdb
+84284c327b07c200c16f4e13b2e8de79	Hang On & Safari Hunt (USA).sms	sms-htgdb
+08431e57a5ecf6cbfb1fdb757d496541	Heavyweight Champ (Europe, Brazil) (En).sms	sms-htgdb
+1dcacb5969fb4a0d4e9c7fec67227cce	Heroes of the Lance (Europe, Brazil) (En).sms	sms-htgdb
+ab38b53584c89476cd4646105b16083a	High School! Kimengumi (Japan).sms	sms-htgdb
+ddd6b56e864a7dfd74a9e04bc4407f41	Hokuto no Ken (Japan).sms	sms-htgdb
+b0100ad9f1838332b15d0434bfa9fe29	Home Alone (Europe).sms	sms-htgdb
+9b6274dd555f84b3f21fa2594b280a06	Hoshi wo Sagashite... (Japan).sms	sms-htgdb
+af51ab03a173dec28c9241532227cd64	Impossible Mission (Europe, Brazil) (En).sms	sms-htgdb
+429738d19911881f443582a303ecd7f5	Incredible Crash Dummies, The (Europe, Brazil) (En).sms	sms-htgdb
+285d996c1d7dbf38458df61c28bbaa01	Incredible Hulk, The (Europe, Brazil) (En).sms	sms-htgdb
+e83f8c99882e2123bd344090421e84c3	Indiana Jones and the Last Crusade (Europe, Brazil) (En).sms	sms-htgdb
+b3a4815ca9fdc900cf7fe6ad961f8125	James 'Buster' Douglas Knockout Boxing (USA).sms	sms-htgdb
+123a0199f0238a141a66d5746e63ed7e	James Bond 007 - The Duel (Brazil) (En).sms	sms-htgdb
+c52e496c497d427747769aaedfbb8dab	James Bond 007 - The Duel (Europe).sms	sms-htgdb
+73b92360c3efde9d265280f6e157fc33	James Pond 2 - Codename RoboCod (Europe, Brazil) (En).sms	sms-htgdb
+0ece8f9c0fde2eba92bbe9a500116ff0	Joe Montana Football (USA, Europe, Brazil) (En).sms	sms-htgdb
+9eda961b0771b902f35d32188a9eb4df	Jogos de Verao II (Brazil) (En).sms	sms-htgdb
+ed224898befb4fb246175e46f9982821	Jungle Book, The (Europe, Brazil) (En).sms	sms-htgdb
+b05014defe8d0c3d0ad6f67851ca15d7	Jurassic Park (Europe, Brazil) (En).sms	sms-htgdb
+f4c3327b0f92e09b21f59e90fd273c2f	Kenseiden (Japan).sms	sms-htgdb
+6ae8f011701608ae8b765a26eb0b7ce1	Kenseiden (USA, Europe, Brazil) (En).sms	sms-htgdb
+2f579f5a3216dfc77aea636930376ba7	King's Quest - Quest for the Crown (USA).sms	sms-htgdb
+dcea71eda85687d1835bed5c493f81a2	KLAX (Europe).sms	sms-htgdb
+86deebacc6413f23fe11ee54011cf4bf	Krusty's Fun House (Europe, Brazil) (En).sms	sms-htgdb
+d8788e907f76419d55bcc447e76de6ad	Kujaku Ou (Japan).sms	sms-htgdb
+126687037bf172174f697d16cd7e7296	Kung Fu Kid (USA, Europe, Brazil) (En).sms	sms-htgdb
+07fac1d61bc20cf6eb298f66ec2ffe49	Land of Illusion Starring Mickey Mouse (Europe, Brazil) (En).sms	sms-htgdb
+17f9c50c444dc94e08ba173ab306608b	Laser Ghost (Europe).sms	sms-htgdb
+4a69a56a8efff7863feca11f1d6547e3	Legend of Illusion Starring Mickey Mouse (Brazil) (En).sms	sms-htgdb
+b190f17a46ba9cc66676e7174209c24e	Lemmings (Europe, Brazil) (En).sms	sms-htgdb
+1597ad705990a66e90262ef7b1141b64	Line of Fire (Europe, Brazil) (En).sms	sms-htgdb
+e50336c0d146e8a341c7ae198a016527	Lion King, The (Europe, Brazil) (En).sms	sms-htgdb
+a5736126ed7e8569a189065ec20adf72	Lord of Sword (Japan).sms	sms-htgdb
+b80f87887881343e5705ff3cce93c5f1	Lord of the Sword (USA, Europe, Brazil) (En).sms	sms-htgdb
+8dcdd83e58be634a3735911a1af05bb3	Loretta no Shouzou - Sherlock Holmes (Japan).sms	sms-htgdb
+653f10042a5ee5854ccf971456641a4d	Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En).sms	sms-htgdb
+ae37b27f37a25c5230f50e8b8d58eba2	Mahjong Sengoku Jidai (Japan, Hong Kong) (Ja).sms	sms-htgdb
+f4a3116fe2be83eafd4cc278812be9b4	Makai Retsuden (Japan).sms	sms-htgdb
+6bd9879af39e248d149761014ebf5639	Maou Golvellius (Japan).sms	sms-htgdb
+97832999dd6d2ba467b5625006b018a0	Marble Madness (Europe).sms	sms-htgdb
+0a28cfd7b151531fb7a43181c24e1d3d	Marksman Shooting & Trap Shooting (USA, Brazil) (En).sms	sms-htgdb
+bf7ea79ac0df3ebe7256da6331b21c34	Marksman Shooting & Trap Shooting & Safari Hunt (Europe).sms	sms-htgdb
+8354932a7f20e84a808471b3724a56f8	Master of Darkness (Europe, Brazil) (En).sms	sms-htgdb
+7f4c7a57ae46837f01ef9a0c85065250	Masters of Combat (Europe, Brazil) (En).sms	sms-htgdb
+2349ee42a09088a4a590e2c65474cdaf	Maze Hunter 3-D (USA, Europe, Brazil) (En).sms	sms-htgdb
+d22d7b072123ef9c43b432e06363dabd	Maze Walker (Japan).sms	sms-htgdb
+fd834dbb87682c674f7d7ed917355021	Megumi Rescue (Japan).sms	sms-htgdb
+7d5696c3da0dbed04b35543f7bdbef40	Mercs (Europe, Brazil) (En).sms	sms-htgdb
+aa3bc8467e80a6aaab02051818ecb035	Michael Jackson's Moonwalker (USA, Europe, Brazil) (En).sms	sms-htgdb
+290056bcb4303d3c53ea7b6aa2a268a7	Mickey Mouse no Castle Illusion (Japan).sms	sms-htgdb
+7ffa8a70ce7bfc8aabfe10e206df2c29	Mickey's Ultimate Challenge (Brazil) (En).sms	sms-htgdb
+a90cf8d68fa8b1f0ba00f0ddb9d547b7	Micro Machines (Europe).sms	sms-htgdb
+e0a9cf889c27f3cb14903288f646d183	Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En).sms	sms-htgdb
+b17ca24555cc79c5f7d89f156b99e452	Missile Defense 3-D (USA, Europe, Brazil) (En).sms	sms-htgdb
+d649ce52d05d88efdaca81d2ccc57d2d	Monica no Castelo do Dragao (Brazil).sms	sms-htgdb
+f2d360f60acd4ca1e50ab301e20de581	Monopoly (Europe) (Rev A).sms	sms-htgdb
+b887836983fccb5ec706630cf835939f	Monopoly (USA, Europe).sms	sms-htgdb
+fe20d983d1b18ff1986c376489843f32	Montezuma's Revenge - Featuring PANAMA JOE (USA).sms	sms-htgdb
+a429ed37b51cc9f46c943f968d88e29f	Mortal Kombat (Europe, Brazil) (En).sms	sms-htgdb
+3ba73c09f35ea91bf36cd0b01bc1c044	Mortal Kombat 3 (Brazil) (En).sms	sms-htgdb
+c60f62f13a60bc585822bfd2d68ba75c	Mortal Kombat II (Europe, Brazil) (En).sms	sms-htgdb
+e492a237f62ea6a5b7e71ff1a3fc0f33	Ms. Pac-Man (Europe, Brazil) (En).sms	sms-htgdb
+efef7361c9c37bcd6a7b84bc121af5f2	My Hero (USA, Europe, Brazil) (En).sms	sms-htgdb
+deac89672a98c5400030e66577cbb454	Nekkyuu Koushien (Japan).sms	sms-htgdb
+05e5054e2ea818d4b7eb53d624562dcf	NewZealand Story, The (Europe).sms	sms-htgdb
+41e20afe05c2fbe45ac5f3a9c8111047	Ninja (Japan).sms	sms-htgdb
+2cd25b3d9a1ced329a551d7fc3c0f01e	Ninja Gaiden (Europe, Brazil) (En).sms	sms-htgdb
+2c620ba64fcaac940b4b1566733037b3	Ninja, The (USA, Europe, Brazil) (En).sms	sms-htgdb
+205b3543f300b96972bca5ce1d1f1f90	Olympic Gold (Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).sms	sms-htgdb
+59e311b86223273016a1e70b9c881af2	Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev 1).sms	sms-htgdb
+d52c5db48882c0c126572a0cdeb5f472	Olympic Gold (Japan, USA, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).sms	sms-htgdb
+a31cbbded45f66633fb38b1c1bef9b08	Opa Opa (Japan).sms	sms-htgdb
+2ca2064302f51f724e1f2593369a0696	Operation Wolf (Europe, Brazil) (En).sms	sms-htgdb
+f64ea159120c018e05fb95ac8533e9eb	Ottifants, The (Europe, Brazil) (En,Fr,De,Es,It).sms	sms-htgdb
+029ee92155247f8a282d63b8a6dd23c4	OutRun (World).sms	sms-htgdb
+558c793aab09b46bed78431348191060	OutRun 3-D (Europe, Brazil) (En).sms	sms-htgdb
+458fc29765865fdaaf3f56808c94d8a6	OutRun Europa (Europe, Brazil) (En).sms	sms-htgdb
+2a3bdd1a6c35eeedbf1a794abfb57b87	OutRun Europa (USA).sms	sms-htgdb
+946f3e6c2f0f546a8ebe55c8170ecc78	Pac-Mania (Europe).sms	sms-htgdb
+a0a053017d9cae9dd8ce8676355b16b9	Paperboy (Europe).sms	sms-htgdb
+9b694d765038ffb87b36174412452588	Paperboy (USA, Brazil) (En).sms	sms-htgdb
+6bec795910c5a91ac146b905df7c17f5	Parlour Games (USA, Europe).sms	sms-htgdb
+8ddec589f72cdcf2cd4caafb075ec8e4	Penguin Land (USA, Europe).sms	sms-htgdb
+40c59c08df065e34fff1b379491e6013	PGA Tour Golf (Europe).sms	sms-htgdb
+1b69716f9f4053e1533f654c091ae410	Phantasy Star (Brazil) (En).sms	sms-htgdb
+dfebc48dfe8165202b7f002d8bac477b	Phantasy Star (Japan).sms	sms-htgdb
+1110938df80f4e44c8213d7f85cfb5e6	Phantasy Star (USA, Europe) (Rev A).sms	sms-htgdb
+5535108813e568e4dd84a425ff2e928b	Pit-Fighter (Brazil) (En).sms	sms-htgdb
+585aed13ba548d0258a457cd6768511b	Pit-Fighter (Europe).sms	sms-htgdb
+cc694ca94c4d74b487983332facc8b86	Populous (Europe, Brazil) (En).sms	sms-htgdb
+3586416ac6f2aa1fa7dea351afb8ac1c	Poseidon Wars 3-D (USA, Europe, Brazil) (En).sms	sms-htgdb
+8d9f02dcfea8f9728a3665ca12b044d1	Power Strike (USA, Europe, Brazil) (En).sms	sms-htgdb
+bd7898393b716aff69132934bf7dccb8	Power Strike II (Europe, Brazil) (En).sms	sms-htgdb
+069349d2bf4db0bd1382070a2d7f11b0	Predator 2 (Brazil) (En).sms	sms-htgdb
+1389419d90834d3700b772e984143fde	Predator 2 (Europe).sms	sms-htgdb
+886649dc63aca898ce30a32348192cd5	Predator 2 (USA, Europe).sms	sms-htgdb
+70e9b330dd6a91e7310f3c8d9a934ecc	Prince of Persia (Europe, Brazil) (En).sms	sms-htgdb
+0d636c8d86dafd4f2c337e34e94b1e41	Prince of Persia (USA, Europe).sms	sms-htgdb
+0ee2937104e9667be89c38e6e9992d4b	Pro Wrestling (USA, Europe, Brazil) (En).sms	sms-htgdb
+0e025768db6e6a7459099add711690ab	Pro Yakyuu, The - Pennant Race (Japan).sms	sms-htgdb
+1076f6358527d1cec1e1e75143997293	Psychic World (Europe, Brazil) (En).sms	sms-htgdb
+a9c2facf9ef536d095414ce2e7ce2f4f	Psycho Fox (USA, Europe, Brazil) (En).sms	sms-htgdb
+c13dab68a85fef5ba28ae0f5ba4fd05f	Putt & Putter (Europe, Brazil) (En).sms	sms-htgdb
+63af7fce5106cc3de1e1b116c112095b	Quartet (USA, Europe).sms	sms-htgdb
+58b89d62438407f242bbe713f1d945ca	Quest for the Shaven Yak Starring Ren Hoek & Stimpy (Brazil) (En).sms	sms-htgdb
+9e5507d51ac6f24c702a52a7abce0d3c	R-Type (World).sms	sms-htgdb
+b30e60b91960a0f2a89fc133410770df	R.C. Grand Prix (USA, Europe, Brazil) (En).sms	sms-htgdb
+e80ae00d8924f2bada5949bf75995d87	Rainbow Islands (Brazil) (En).sms	sms-htgdb
+ffba9869948e2cef2bda6f805cc72087	Rainbow Islands (Europe).sms	sms-htgdb
+7a080a155ad6a806da88aa1d3576d78c	Rambo - First Blood Part II (USA).sms	sms-htgdb
+4fce4e3247639d0ef54eb54d0ef21153	Rambo III (USA, Europe, Brazil) (En).sms	sms-htgdb
+54ee884bc658dbad88eac18e45e0eafc	Rampage (USA, Europe, Brazil) (En).sms	sms-htgdb
+f865afb7b5c32e130016e2d35756839c	Rampart (Europe).sms	sms-htgdb
+5b3a785de403c311db7f17eae27caae6	Rastan (USA, Europe, Brazil) (En).sms	sms-htgdb
+fd82af26ebbed24f57c4eea8eddf3136	Rastan Saga (Japan).sms	sms-htgdb
+b3a37d601050ca5c732dc4160d875821	Reggie Jackson Baseball (USA).sms	sms-htgdb
+bbce8b8ac26e2f582defe0056346f035	Renegade (Europe, Brazil) (En).sms	sms-htgdb
+717fdf868c8f11a712697260eb7db670	Rescue Mission (USA, Europe, Brazil) (En).sms	sms-htgdb
+325575374d2db3755f83bba728990ebe	Road Rash (Europe, Brazil) (En).sms	sms-htgdb
+c656dc9f901387cc51276e4709c340f8	RoboCop 3 (Europe, Brazil) (En).sms	sms-htgdb
+7e29ab7dae0049e1e3944af7da2757fb	RoboCop versus The Terminator (Europe, Brazil) (En).sms	sms-htgdb
+582d58d95c9774cd50555366c253a050	Rocky (World).sms	sms-htgdb
+c32c95222ce705c0c93732a8922f7453	Running Battle (Europe, Brazil) (En).sms	sms-htgdb
+d8a4c95203bbe294760085189f9544fa	Sagaia (Europe, Brazil) (En).sms	sms-htgdb
+387983a020328f52b42293b308562eb8	Sapo Xule - O Mestre do Kung Fu (Brazil).sms	sms-htgdb
+4cc124f115adb89a5749908787dcb230	Sapo Xule - S.O.S. Lagoa Poluida (Brazil, Portugal) (Pt).sms	sms-htgdb
+409663e3bc47cd555d463084b317d600	Sapo Xule vs. Os Invasores do Brejo (Brazil).sms	sms-htgdb
+eac6a843975c50e39eb32f764da2a5ac	Satellite 7 (Japan).sms	sms-htgdb
+86806bba2acf7a07aad125f6ef02cd51	Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es).sms	sms-htgdb
+82b9ee0920c3c46798ecd659be0a5d9a	Scramble Spirits (Europe, Brazil) (En).sms	sms-htgdb
+4fd639981901032cdde4b12ca83d078c	SDI (Japan).sms	sms-htgdb
+3f6c5515a2e39826fbf816780298701c	Secret Command (Europe).sms	sms-htgdb
+92334e9e52eeb8d27606e319b1f8b617	Sega Chess (Europe, Brazil) (En).sms	sms-htgdb
+f9c526afcacc727e45e722a9d8075109	Sega World Tournament Golf (Europe, Brazil) (En).sms	sms-htgdb
+fb2ad2524646bd069e3ec1b51fd7eb39	Seishun Scandal (Japan).sms	sms-htgdb
+5ca0a2b33db8eedcddb1d5aeaa8ea5a4	Sensible Soccer (Europe).sms	sms-htgdb
+c2055d5c66dd3944b99642c18032ebc4	Shadow Dancer - The Secret of Shinobi (Europe, Brazil) (En).sms	sms-htgdb
+abc8a9e43c588c7d0535cc8305bdbf94	Shadow of the Beast (Europe, Brazil) (En).sms	sms-htgdb
+f0595fbd334cb8e95c0486a588a24f7b	Shanghai (USA, Europe).sms	sms-htgdb
+789b285290688cbd0a786f888f9dada1	Shinobi (Japan, Brazil) (Ja).sms	sms-htgdb
+3dd2c025185e19ac9bf1ed16b695c629	Shinobi (USA, Europe, Brazil) (En) (Rev 1).sms	sms-htgdb
+f8ea8b8e641cabff32210ea6583f9f94	Shooting Gallery (USA, Europe, Brazil) (En).sms	sms-htgdb
+26df4404950cb8da47235833c0c101c6	Simpsons, The - Bart vs. The Space Mutants (Europe, Brazil) (En).sms	sms-htgdb
+cba2ec2940619956359801618e7aab17	Simpsons, The - Bart vs. The World (Europe, Brazil) (En).sms	sms-htgdb
+85ea52a2cbcae078dc3a04f8db1304a9	Sitio do Picapau Amarelo (Brazil).sms	sms-htgdb
+2027d095ee5c1f2c01255888e0b436ed	Slap Shot (USA, Europe, Brazil) (En).sms	sms-htgdb
+fe2aa0402eb30cec17b3bf4504f8219b	Smurfs, The (Europe, Brazil) (En,Fr,De,Es).sms	sms-htgdb
+cfa84806075e017e29ffcdd0127fe647	Solomon no Kagi - Oujo Rihita no Namida (Japan).sms	sms-htgdb
+ce7f314a657e0f0fe506fb7aea016f31	Sonic Blast (Brazil) (En).sms	sms-htgdb
+1d661134b14eedf6b4ae1c907581fd96	Sonic Chaos (Europe, Brazil) (En).sms	sms-htgdb
+21b4bcf6b259d4550912ad6f4aeaf550	Sonic Spinball (Europe, Brazil) (En).sms	sms-htgdb
+dc13a61eafe75c13c15b5ece419ac57b	Sonic The Hedgehog (USA, Europe, Brazil) (En).sms	sms-htgdb
+0ac157b6b7e839953fc8eba7538fb74a	Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1).sms	sms-htgdb
+ebb0b4161ffa873a7fa80ca41d139c57	Space Gun (Europe).sms	sms-htgdb
+dde5d7a2694e6917bafab185594a267e	Space Harrier (Europe).sms	sms-htgdb
+b2e5047df186af7c02da17f1b285ae4f	Space Harrier (Japan, USA) (En).sms	sms-htgdb
+945a4202181abe8c50082a65211ef7c7	Space Harrier 3-D (USA, Europe, Brazil) (En).sms	sms-htgdb
+d8717eeb943c292c078429a0ed5a8527	Space Harrier 3D (Japan).sms	sms-htgdb
+74c8108e7207d5b7149a69b0fc90d877	Special Criminal Investigation (Europe).sms	sms-htgdb
+ae579fba63e0da9cb969980ac172a600	Speedball (Europe) (Rev 1).sms	sms-htgdb
+b37e0c8177c4792594356b11757f9ac5	Speedball 2 (Europe).sms	sms-htgdb
+0e1449dd7df4fd0995ccf802bb74cba0	SpellCaster (USA, Europe, Brazil) (En).sms	sms-htgdb
+094628b6dd0342253594b0adb0777c7b	Spider-Man - Return of the Sinister Six (Europe, Brazil) (En).sms	sms-htgdb
+fa10ee70e43385e88e5d1a008716668b	Spider-Man (USA, Europe, Brazil) (En).sms	sms-htgdb
+3317f644f36159e2dc63aea9b75c927d	Sports Pad Football (USA).sms	sms-htgdb
+4cc5ba7ef736508a8afc1ed7ec640c3e	Sports Pad Soccer (Japan).sms	sms-htgdb
+2a6ee78e2617886fe540dcb8a1500e90	Spy vs Spy (Japan).sms	sms-htgdb
+c6adc5db40d0db75c9c167e4bb2ed918	Spy vs Spy (USA, Europe, Brazil) (En).sms	sms-htgdb
+2012a00d2ef01285e7bf077f78e975f5	Star Wars (Europe, Brazil) (En).sms	sms-htgdb
+7a4cda14dd38a48fc36bcc6e104cf5d7	Street Fighter II' (Brazil) (En).sms	sms-htgdb
+29a5195d57a82fb1349a7403f1d65d7e	Streets of Rage (Europe, Brazil) (En).sms	sms-htgdb
+e680b108e67caf02e4fb77d419f48358	Streets of Rage II (Europe, Brazil) (En).sms	sms-htgdb
+48af5ae2cad7c48c81d7c2553a8ed426	Strider (USA, Europe, Brazil) (En).sms	sms-htgdb
+8336c9a48390889fb3e17cd6f9471ae1	Strider II (Europe, Brazil) (En).sms	sms-htgdb
+5eaa50519e87d57f40f50731caff5f62	Submarine Attack (Europe, Brazil) (En).sms	sms-htgdb
+e80ce989b68b1faa5e40016ce7b096fe	Sukeban Deka II - Shoujo Tekkamen Densetsu (Japan).sms	sms-htgdb
+10f2a7506ae6402f42b8083b24c0d105	Summer Games (Europe, Brazil) (En).sms	sms-htgdb
+6c203c7aa7003a880b80a90d96fc4a33	Super Kick Off (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).sms	sms-htgdb
+91ab09b8b4d25a08dd0ebe13003e54b5	Super Kick Off (Japan).sms	sms-htgdb
+efb0fb59074eab11816c8843b4135a0c	Super Monaco GP (Europe, Brazil) (En).sms	sms-htgdb
+aed300f323aae6d00878eb6ba21c2eb7	Super Monaco GP (USA).sms	sms-htgdb
+e3d3dfde69345e1f62cce512e9010bf8	Super Off Road (Europe).sms	sms-htgdb
+bcc2df04cac4b713ee48a05669cdfbdd	Super Racing (Japan).sms	sms-htgdb
+fd65b6794d6778c7948cd9b8b02a12f5	Super Smash T.V. (Europe).sms	sms-htgdb
+f36e9758390ed2b781e9a8a7a958e7e3	Super Space Invaders (Europe).sms	sms-htgdb
+2db9404fe79593fd2379921ca822103a	Super Tennis (USA, Europe).sms	sms-htgdb
+8883790d3b3d4fed9a845d63aa251786	Super Wonder Boy - Monster World (Japan).sms	sms-htgdb
+dc1541e54da2376781e3691784befaa9	Superman - The Man of Steel (Europe, Brazil) (En).sms	sms-htgdb
+f1983c31f965aa8de77df64483883550	T2 - The Arcade Game (Europe).sms	sms-htgdb
+08511c5cf0df0941b10ebf28050afe51	Taito Chase H.Q. (Europe).sms	sms-htgdb
+3cd1a4c27e330bba7703ee22ac83b856	Taito Chase H.Q. (Japan).sms	sms-htgdb
+5f170677dc0d0229ec3ec7f306bb6303	Taz in Escape from Mars (Brazil) (En).sms	sms-htgdb
+cfc878f0163933fcfcc89e134fbeb31f	Taz-Mania (Europe, Brazil) (En).sms	sms-htgdb
+81f530d169c5c04c8faf8db367bbcd63	Tecmo World Cup '93 (Europe).sms	sms-htgdb
+66baea0a42353ffd3f131586e0c9c4d4	Teddy Boy (USA, Europe, Brazil) (En).sms	sms-htgdb
+de5d6c9e1349844b74f53caaf2af680b	Teddy Boy Blues (Japan).sms	sms-htgdb
+89146053b1474833e921835c907aa2d3	Tennis Ace (Europe, Brazil) (En).sms	sms-htgdb
+ed8bfc3d17edc8e7968e553a9a6dd24c	Tensai Bakabon (Japan).sms	sms-htgdb
+cc2454eebbbfab7ba99851a923dfdaaf	Terminator 2 - Judgment Day (Europe).sms	sms-htgdb
+ba2aa1c3c3d0a24acbb2e86c1fb0aadf	Terminator, The (Brazil) (En).sms	sms-htgdb
+f224907676a09c7f0404c95c316f1503	Terminator, The (Europe).sms	sms-htgdb
+a03bbd3c75e736ce378f2c3fe47f5579	Thunder Blade (Japan).sms	sms-htgdb
+70dcee3c77e95d83fcf6df0dae30a4a8	Thunder Blade (USA, Europe, Brazil) (En).sms	sms-htgdb
+dbc9260009dd0838d0e31de51d57d078	Time Soldiers (USA, Europe, Brazil) (En).sms	sms-htgdb
+965e5576d569794aa27e89048855615f	Tom and Jerry - The Movie (Europe, Brazil) (En).sms	sms-htgdb
+93bb1e1ee14ac53adb9e6b9e0c135043	TransBot (USA, Europe, Brazil) (En).sms	sms-htgdb
+f0718544d37cdb3e00b522153eea4218	Treinamento Do Mymo (B).sms	sms-htgdb
+87d44f3416d4f31959b583d0d460c7fb	Trivial Pursuit - Genus Edition (Europe) (En,Fr,De,Es).sms	sms-htgdb
+56b3436304b8cecfe4e321ca029d5e80	Turma da Monica em O Resgate (Brazil).sms	sms-htgdb
+c54c1a2559cec189f53e794177d002af	Ultima IV - Quest of the Avatar (Europe, Brazil) (En).sms	sms-htgdb
+c2c9a7942adb055ef08671c03648ed06	Ultimate Soccer (Europe, Brazil) (En,Fr,De,Es,It).sms	sms-htgdb
+6deabfc15d9aeb4c8ed1b641fb950de5	Vigilante (USA, Europe, Brazil) (En).sms	sms-htgdb
+fdc90edb44d2a2236ab9c29d2f073d3c	Virtua Fighter Animation (Brazil) (En).sms	sms-htgdb
+5d292f9c2fa5893fa520c8145b437a28	Walter Payton Football (USA).sms	sms-htgdb
+0070737ddb0a2e5e822f1d8f46437b07	Wanted (USA, Europe, Brazil) (En).sms	sms-htgdb
+551e85dc05f12557a56a6528aab6421a	Where in the World is Carmen Sandiego (Brazil) (En).sms	sms-htgdb
+29dcfcf773ceb9ef29b524183ad89d8c	Where in the World is Carmen Sandiego (USA).sms	sms-htgdb
+a7f1049812a4cd1f180dcd644b10145f	Wimbledon (Europe).sms	sms-htgdb
+41fa7c376327e7fa851103c0407e8e53	Wimbledon II (Europe, Brazil) (En).sms	sms-htgdb
+d3bcf99a883e14a2f9df8dd92662710f	Winter Olympics (Brazil) (En,Fr,De,Es,It,Pt,Sv,No).sms	sms-htgdb
+6046d9ee439f3c76eb6713eea8ba984b	Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No).sms	sms-htgdb
+08eb9bf02f5eb4e238f791f27d65449a	Wolfchild (Europe, Brazil) (En).sms	sms-htgdb
+a4e48850bf8799cfac74b1d33f5900b5	Wonder Boy (Japan, Europe) (En).sms	sms-htgdb
+76f29fee0cd3af921e488a276dace636	Wonder Boy (Japan).sg	sms-htgdb
+7e805aa51bfb5f206c950a32ebcdab7c	Wonder Boy (USA, Europe, Brazil) (En) (Rev 1).sms	sms-htgdb
+e7f86c049e4bd8b26844ff62bd067d57	Wonder Boy III - The Dragon's Trap (USA, Europe).sms	sms-htgdb
+8f8aaac492de96f2cfddb9d1a57dd979	Wonder Boy in Monster Land (USA, Europe).sms	sms-htgdb
+5837764c172c8c43c8c7b21f2144cf27	Wonder Boy in Monster World (Europe).sms	sms-htgdb
+1b1b6051027806a98e9947b5ae5f0076	Woody Pop - Shinjinrui no Block Kuzushi (Japan).sms	sms-htgdb
+dd04608b2b64f11dd9dc4f7db7972650	World Class Leaderboard (Europe, Brazil) (En).sms	sms-htgdb
+a19d4a16be24106cd48b283b5bad5023	World Cup Italia '90 (Europe, Brazil) (En).sms	sms-htgdb
+aa8ddf472a9b0c4b26f91ab13fbc66de	World Cup USA 94 (Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv).sms	sms-htgdb
+87a479d66e88464d45d87cad77c2b3fe	World Games (Europe, Brazil) (En).sms	sms-htgdb
+72b55720de75072a2feceab9ca4367b0	World Grand Prix (Europe).sms	sms-htgdb
+75550fca836414ce7286c294d03c1b04	World Grand Prix (USA, Brazil) (En).sms	sms-htgdb
+5f008423ae6a454bc70e94a8c9f33d1c	World Soccer (World).sms	sms-htgdb
+5db168808d3b4756c8c5f8b836a7b05a	WWF Wrestlemania - Steel Cage Challenge (Europe, Brazil) (En).sms	sms-htgdb
+758a1e837e51669700c0a2379e90d993	X-Men - Mojo World (Brazil) (En).sms	sms-htgdb
+27fba4b7db989c663dda11c255cf49f3	Xenon 2 - Megablast (Europe) (Rev 1).sms	sms-htgdb
+77d2ff054429f7970134e67800539a78	Ys - The Vanished Omens (USA, Europe, Brazil) (En).sms	sms-htgdb
+17364162da3ccee847850dd9b403765c	Ys (Japan).sms	sms-htgdb
+882dc10b0792be579a745c3f38010642	Zaxxon 3-D (World).sms	sms-htgdb
+de62e3fd5411f78dd9d0958eec85bcce	Zillion (Europe, Brazil) (En) (Rev 2).sms	sms-htgdb
+8de18c864fc9379c27d7430c1f209eeb	Zillion (Japan, Europe) (En,Ja).sms	sms-htgdb
+d4bf9e7bcf9a48da53785d2ae7bc4270	Zillion (USA, Europe) (Rev 1).sms	sms-htgdb
+605b0c360075876b4a0be479679d1075	Zillion II - The Tri Formation (World).sms	sms-htgdb
+42fb44c9a2c82b8c4aef8191c1b5676f	Zool - Ninja of the 'Nth' Dimension (Europe).sms	sms-htgdb
+486dea48606666b44c7e6db9d7a1454c	3D Gunner (USA) (Beta).sms	sms-htgdb-betas
+43fcbf765f04f76a20dfe336164c5293	Action Fighter (Japan, Europe) (En) (Beta).sms	sms-htgdb-betas
+a4b2c85d9a2cd659b6e7917581f1b0a7	Alex Kidd - High-Tech World (USA, Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+9c0685bf5beba41be63c1ebf619d0cfd	Alien Syndrome (USA, Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+ae0c7f26ca642614da70b779cb067fdc	Basketball Nightmare (Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+4535b1616c9f8ad54348fadb1abb439c	Battle Wings (World) (Beta) (1988-09-07).sms	sms-htgdb-betas
+f83a306d39c35b6f127a531cd62036ae	Blade Eagle (World) (Beta).sms	sms-htgdb-betas
+5354634ec062d48a14beae9dd3061000	Captain Silver (USA) (Beta).sms	sms-htgdb-betas
+b556297e5ba2b95ed3f3a76a47402e1a	Choplifter (USA, Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+d89cd6506b9c6c865607638350346976	Chouon Senshi Borgman (Japan) (Beta).sms	sms-htgdb-betas
+22619be5f41cf6f76c4ccefbc82d0967	Columns (USA, Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+4fd1e417d6f7eb6d52c655791cfa7c5d	Cyber Shinobi, The (Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+a60d962fe4aeb8284697a0f5c3aca29f	Dead Angle (USA, Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+cd2ff7b97934e966836faa6092c7b735	Doki Doki Penguin Land - Uchuu Daibouken (Japan) (Beta).sms	sms-htgdb-betas
+b807d8fea29860cec610eeaf3a921358	Double Hawk (Europe) (Beta).sms	sms-htgdb-betas
+f81a3f6375fe5ca9e969d3bad90bd242	E-SWAT (USA, Europe, Brazil) (En) (Beta 1).sms	sms-htgdb-betas
+5bd644ec21c7c2c5995cfaef0727383f	E-SWAT (USA, Europe, Brazil) (En) (Beta 2).sms	sms-htgdb-betas
+37083a8d3ead6b5be8dd138de1c4166e	E-SWAT (USA, Europe, Brazil) (En) (Beta 3).sms	sms-htgdb-betas
+59a7ce6a0fabc2e4182bc9313f12367a	Fantasy Zone (World) (Beta).sms	sms-htgdb-betas
+8fdb6d42f1d58205ce024f0e50367fee	Gain Ground (Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+c3a1d74bdc4765f7304836eccc5a1bf6	Ghost House (USA, Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+af279b5092b60a3fdf5eb12d54752142	Global Defense (USA, Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+1fa330a17df19820f4c8e0230d3cfbe2	Golfamania (Europe) (Beta).sms	sms-htgdb-betas
+9be0947196dce7060a6c72f47337cf73	Great Golf (World) (Beta).sms	sms-htgdb-betas
+9d07e037338bd71ebf6b39e2014d3472	Hang On (Europe) (Beta).sms	sms-htgdb-betas
+16d870bf1a5a23a9f2993d8786f5bc74	Hang On & Safari Hunt (USA) (Beta).sms	sms-htgdb-betas
+eb7913db8b1db1b1ffd6809a2372f601	Heroes of the Lance (Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+a26d40b6b7646c22d1f2db7f746f0391	Impossible Mission (Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+8666d9a13fbd8c5a761fab15e15d3db0	King's Quest - Quest for the Crown (USA) (Beta).sms	sms-htgdb-betas
+5dba0a0dd0eeb52fe6d94dce47335a34	Lemmings (Europe) (Beta).sms	sms-htgdb-betas
+7de03b7f1cdc1f931b3a4746d9350033	Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+19db67f87bb3d1d8efead0542de30cd1	Mahjong Sengoku Jidai (Japan) (Beta).sms	sms-htgdb-betas
+b2cf7c01fa99d5aef7bf3a4d9f4c6917	Maou Golvellius (Japan) (Beta).sms	sms-htgdb-betas
+cd6ee06f4cda94fc777c2cd1c5e4f1e7	Michael Jackson's Moonwalker (USA, Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+3f5d2ca45ccc205d18c8e3d1d9969f00	Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+19e6167c6bad839603240adeda122ac7	Monopoly (USA) (Beta).sms	sms-htgdb-betas
+3ecff4b5ef40705615b208d60403f276	Montezuma's Revenge - Featuring PANAMA JOE (USA) (Beta).sms	sms-htgdb-betas
+b070dc2ba3f106e89d1e9551f49a0027	Ninja Gaiden (Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+c8e4b6b1ca8d93e88a66506e55f489f9	OutRun 3-D (Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+197e31dcafea7023cc948fea29c50230	Prince of Persia (USA, Europe) (Beta).sms	sms-htgdb-betas
+fc40576778de28cc254b588a3a46d2a6	Putt & Putter (Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+3d980001fc22393ebec2b5b1cf8a01bc	R-Type (World) (Beta).sms	sms-htgdb-betas
+61aa7404e23836c79e2a689322ffe190	R.C. Grand Prix (USA, Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+617beb208b6b62d30c4237dd36e9cf33	Rastan (USA, Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+4aba236d2a81e738adaaf5b00de81653	Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es) (Beta) (1996-08-12).sms	sms-htgdb-betas
+802d1525499492580de31ca62bca3c40	Shanghai (USA, Europe) (Beta).sms	sms-htgdb-betas
+9b2d895f4ec70c0466f4d314b6ef205f	Slap Shoot (USA) (Beta).sms	sms-htgdb-betas
+87a34d65278702a8cef9c85418be884d	Solomon no Kagi - Oujo Rihita no Namida (Japan) (Beta).sms	sms-htgdb-betas
+e9b3410c02d605b2ac5f88d0886416b1	Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-06-30).sms	sms-htgdb-betas
+c829f2e52f962d88268367aee32e24b4	Sonic Chaos (Europe, Brazil) (En) (Beta) (1993-07-13).sms	sms-htgdb-betas
+16523c29c9b2f5e2c6252b57e1c22590	Special Criminal Investigation (Europe) (Beta).sms	sms-htgdb-betas
+d08bb7ce6d71c1b6a72e90f3a4fbfb54	Summer Games (Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+355f226e0b0602f1fb8c27ed4bae3713	Super Golf (Europe) (Beta).sms	sms-htgdb-betas
+d18f1c389ed75efabc44e24b128da95d	Super Monaco GP (Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+d399c273c48bcee0b535690c1aaefb26	Super Monaco GP (USA) (Beta).sms	sms-htgdb-betas
+153c958dad2e3eb6f7b463739b1b17f6	Super Off Road (Europe) (Beta).sms	sms-htgdb-betas
+b8fb4d18b555cb496f2f6243f0688486	Taito Chase H.Q. (Europe) (Beta).sms	sms-htgdb-betas
+707e3e397f181b6e51196a4502b8e12f	Taz-Mania (Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+c85a8f65e3fc1c0c80ec63e4fb77cb99	Tecmo World Cup '92 (Europe) (Beta).sms	sms-htgdb-betas
+9cdd4dd1cb64ac30c5409c8b9e348adc	Thunder Blade (USA, Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+8b7f5b3750b1e4908cfc1086494e914f	Tom & Jerry (Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+dd26c323d1323691fed04cd8498afbcf	TransBot (USA, Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+d92b72c87179b718c8b1506b347c2e36	Ultima IV - Quest of the Avatar (Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+6ccf82ff6296fa9365b919de424dd3d9	Vampire (Europe) (Beta).sms	sms-htgdb-betas
+16be61f4de705cdd636d1fb1662e24de	Wonder Boy in Monster Land (USA, Europe) (Beta).sms	sms-htgdb-betas
+311aa03dcab8edcf9891397ac3297b72	Wonder Boy in Monster World (Europe) (Beta).sms	sms-htgdb-betas
+af5be770da3f73e01847c44ad97226d3	World Games (Europe, Brazil) (En) (Beta).sms	sms-htgdb-betas
+368515471f9d221de0ed1c836ce6f028	World Grand Prix (USA, Brazil) (En) (Beta).sms	sms-htgdb-betas
+177eaaa2cab1df16a6b9a372d7d4846a	Zaxxon 3-D (World) (Beta).sms	sms-htgdb-betas
+281eb7a9dfabe6ca444398a295440ed2	Zillion II - The Tri Formation (World) (Beta).sms	sms-htgdb-betas
+9f5e3304ba57303e4ecbf6fce2c558a1	Aa Harimanada v0.4 Revo.sms	sms-htgdb-conversion-gg
+7fbcff2fef2e86be0b46ab25d0fbd960	Alien Syndrome v1.1 BcnAbel76.sms	sms-htgdb-conversion-gg
+5e833bf1f837cd326e984c859e7f98cd	Arcade Classics v1 (Start=P1 Button 2, No Pause) Revo.sms	sms-htgdb-conversion-gg
+04c8de3f682c84e16c6c8ca5719849e1	Arcade Classics v1a (Start=P2 Down, with Pause) Revo.sms	sms-htgdb-conversion-gg
+6e5726ad787b44921146b8b20eb6077d	Arch Rivals v0.1 Revo.sms	sms-htgdb-conversion-gg
+ec93decb76e0e9b4e41fa92e9466526b	Arena - Maze of Death 0.31 BcnAbel76.sms	sms-htgdb-conversion-gg
+126123e0d51b825e1d4ac09713ad4d2d	Ax Battler - A Legend of Golden Axe V1.2 BcnAbel76.sms	sms-htgdb-conversion-gg
+8ccd8cca809ce87936fa3bff6e4f55c9	Barbie Super Model v1.1 BcnAbel76.sms	sms-htgdb-conversion-gg
+f777c93f0ebdacf41e6524b829d9ac98	Batman Forever v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+af0e4ffa22375dceade8ddcc36a8c21d	Batter Up v0.1 Revo.sms	sms-htgdb-conversion-gg
+5a4bd51232f735861b1d715aeaaf211f	Battleship v1 Revo.sms	sms-htgdb-conversion-gg
+ef7fe944559ef6774713f4dec7dcf0f5	Battletoads b1 nextvolume.sms	sms-htgdb-conversion-gg
+f0c29836b15561eba8470bc9d299c7a0	Beavis and Butt-head v0.1 Revo.sms	sms-htgdb-conversion-gg
+154c9f9bf5ea77fdeae2527eaf4e5c86	Berenstain Bears' Camping Adventure, The v0.1 Revo.sms	sms-htgdb-conversion-gg
+354cd2f38a49e25c21b90b3a8accc028	Berlin no Kabe v1.2 ccovell.sms	sms-htgdb-conversion-gg
+c41544f1b97d8a374ea8c0139352d7ab	Bishoujo Senshi Sailor Moon S v0.1 Revo.sms	sms-htgdb-conversion-gg
+6a1584c1e4f9a54456af2d420e1f2ff0	Bugs Bunny in Double Trouble v0.1 Revo.sms	sms-htgdb-conversion-gg
+50a41b6b8062095c142acd186b6118c9	Bust-A-Move v1 Vingazole.sms	sms-htgdb-conversion-gg
+f06fc1faf1013ba6bf89e5f310ae0978	Buster Ball v1.1 Revo.sms	sms-htgdb-conversion-gg
+9408603f50f62c4c3221a63754a3c9fb	Buster Fight v1 Revo.sms	sms-htgdb-conversion-gg
+d101d771fc69e015463c11b36f455154	Captain America and the Avengers v0.3 Revo.sms	sms-htgdb-conversion-gg
+f31a8877b27e9939b4989a6b67446386	Casino Funpak v0.1 Revo.sms	sms-htgdb-conversion-gg
+c53d402235f134637c3b7e9219d0acdf	Chakan v0.85 BcnAbel76.sms	sms-htgdb-conversion-gg
+22a0505cb7e468a6eae7b8076ec1a588	Chessmaster, The v1 Revo.sms	sms-htgdb-conversion-gg
+b726990cec0c8bd1e439c86b62d35c43	Clutch Hitter v1 Revo.sms	sms-htgdb-conversion-gg
+639b7ed25e35d464d942ba6febb1ea8f	Coca Cola Kid v1.1 BcnAbel76 Revo.sms	sms-htgdb-conversion-gg
+25a493d45f34dac122a4ab28802348db	Crayon Shin Chan v1 Revo.sms	sms-htgdb-conversion-gg
+75af08f2ed8002ec60f2fb4a97e2d3f9	Crazy Faces (Proto) v1 nextvolume.sms	sms-htgdb-conversion-gg
+b4823bbbc177872c8cef19a3d9b29658	Crystal Warriors v1 Revo.sms	sms-htgdb-conversion-gg
+fc5d20373e89dd0e342d104397e49d0f	Cutthroat Island WIP v0.2 Revo.sms	sms-htgdb-conversion-gg
+a2ab75d2376de03966f6087b2609c95a	Defenders of Oasis v1.2 BcnAbel76.sms	sms-htgdb-conversion-gg
+01c2fb25884fd4423b8c4d7995f9a511	Donald No Magical World v1 BcnAbel76 Revo.sms	sms-htgdb-conversion-gg
+33fca3f1f701e3c76934da7efc7c80c7	Doraemon Nora No Suke No Yabou v1.1 Revo.sms	sms-htgdb-conversion-gg
+11417bd7b726944634b34f64c7c9bbc4	Dr. Franken v1 Revo.sms	sms-htgdb-conversion-gg
+f553e6f12d16e42ffbf7537792951a4f	DropZone v0.63 BcnAbel76.sms	sms-htgdb-conversion-gg
+1a0c41d31459fef399fdea7b3349a9ce	Dunk Kid's WIP v0.2 Revo.sms	sms-htgdb-conversion-gg
+321bfe43cdf0e711a838b219831c1b2b	Eternal Legend v1.1 Revo.sms	sms-htgdb-conversion-gg
+9898639db33890a26e4a0120a6fa3523	Factory Panic - Ganbare Gorby! (J).sms	sms-htgdb-conversion-gg
+fcee96daa512b4c57a16bbb52eae851b	Fantasy Zone Gear v1.1 BcnAbel76 Revo.sms	sms-htgdb-conversion-gg
+2c26a3baf87465901dcc749739242adc	Fatal Fury Special v1.2 BcnAbel76 Revo.sms	sms-htgdb-conversion-gg
+d6888e44a950d4c3fe97377665a0e687	Foreman for Real v1 Revo.sms	sms-htgdb-conversion-gg
+0180fe21525627eb3554f563731e6ca1	Fray - Shugyou Hen v1 Revo.sms	sms-htgdb-conversion-gg
+e5cd65763a940ead54f6e7f4ed2d46b4	Fred Couples Golf v1 Revo.sms	sms-htgdb-conversion-gg
+184c7df7ad0ccc3f69442b60b79ad7ce	Frogger (Proto) v0.92 ccovell.sms	sms-htgdb-conversion-gg
+c00328f462164821494972a9029c5811	Galaga '91 (J) v1 Vingazole.sms	sms-htgdb-conversion-gg
+5ea43ce750e350091fe801925fbfba9d	Galaga 2 (E).sms	sms-htgdb-conversion-gg
+8474ce81b911149a16289c671fd4a13d	Ganbare Gorby! v0.4 Revo.sms	sms-htgdb-conversion-gg
+d1a55d5f2efcb78b18fb141e2fe4d15e	GG Aerial Assault v1 BCNAbel76.sms	sms-htgdb-conversion-gg
+2ec7510d4ff7ef4097bdc957dafcf347	GG Aleste II - PowerStrike II SMS Fixed v1.5 Vingazole ccovell.sms	sms-htgdb-conversion-gg
+3a5bc49f51caf9d8be889646593d28e0	GG Aleste v1.03 BcnAbel76.sms	sms-htgdb-conversion-gg
+aeb47e3ffc398462d82b902edc08502d	GG Portrait Pai Chen v1 Revo.sms	sms-htgdb-conversion-gg
+24d613c24de553e333657b3a07799c93	GG Portrait Yuuki Akira v1 Revo.sms	sms-htgdb-conversion-gg
+a7ce55e1d619eb7b657bd10b09b8b198	GG Shinobi - MD Joypad Fix v1 Vingazole 2014-11-14.sms	sms-htgdb-conversion-gg
+3776d22f477f29ac1fea30818b4959a6	GG Shinobi 2 v1.1 Revo.sms	sms-htgdb-conversion-gg
+71016ef1026e6eb0ecaf501f4615995a	Girl's Garden Conversion v1 Krara.sms	sms-htgdb-conversion-gg
+fa0a55b15119ae0dcf912532b902ba27	Greendog v1.1 BcnAbel76 Revo.sms	sms-htgdb-conversion-gg
+99fe40fa0ad9d1fbd3b3948cf7a2aa2f	Griffin V1.01 BcnAbel76.sms	sms-htgdb-conversion-gg
+9eb07e3cdb9712d81ba7a3ebc4620a3e	Gunstar Heroes 3D Glasses 261 Colors v0.9 sdsnatcher.sms	sms-htgdb-conversion-gg
+7ba3a86ab5150dca11fbc48ca2a79e3d	Gunstar Heroes v0.9 sdsnatcher.sms	sms-htgdb-conversion-gg
+8eaaf8c918769fc98ce66f925b141420	Halley Wars v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+5a72addbd3d42d8758f0872338fd2f3a	Head Buster English v1 Revo.sms	sms-htgdb-conversion-gg
+cb69ab346b97a7d9aa6f70c4caa74321	Home Alone v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+ed46221c27c51aed46453c7385d37649	Honoo no Toukyuuji - Dodge Danpei v1 Revo.sms	sms-htgdb-conversion-gg
+bc5399fc4f659d7982414c253e8ba477	House of Tarot v1 Revo.sms	sms-htgdb-conversion-gg
+3d8ab6936257716642691b06bc37103f	Hyokkori Hyoutan Jima - Hyoutan Jima no Daikoukai v1 Revo.sms	sms-htgdb-conversion-gg
+360a34b68c2e4a23b440753877ac49c9	Iron Man X-O Manowar in Heavy Metal v0.3 Revo.sms	sms-htgdb-conversion-gg
+12f315dc760ea5e8c76fe3b3535d5340	Itchy & Scratchy Game v0.99 Revo.sms	sms-htgdb-conversion-gg
+8bf3e7693dae0e620cef01a9bf113fb0	J.League GG Pro Striker '94 v1 Revo.sms	sms-htgdb-conversion-gg
+1ea5fdef46e36d557cde840db38edd36	J.League Soccer Dream Eleven v1 Revo.sms	sms-htgdb-conversion-gg
+f6160315a21d51352e50a4b0c3b6c6dd	James Pond 3 - No-HUD+Better Scrolling v1.1a BcnAbel76 Revo.sms	sms-htgdb-conversion-gg
+355776559cfea788fa931d940e1e6c30	James Pond 3 v1.1 BcnAbel76 Revo.sms	sms-htgdb-conversion-gg
+5197fa742e2600df2595ba632200d3e5	Jeopardy! Sports Edition v1 Revo.sms	sms-htgdb-conversion-gg
+6ab6c63d8cfa1de927c82c613c72a979	Jeopardy! v1 Revo.sms	sms-htgdb-conversion-gg
+524cd38f69526930bf26eef1a8e688e9	Judge Dredd v1.1 BcnAbel76.sms	sms-htgdb-conversion-gg
+07bb21acebddef7b88e4b59f624402e2	Junction (USA) v1.1 Revo.sms	sms-htgdb-conversion-gg
+d395201f79aa9bfca8bf5322feedce18	Kenyuu Densetsu Yaiba v1.1a Revo.sms	sms-htgdb-conversion-gg
+6aebc9d78d72b8d3a5dabcf3d42be993	Kinetic Connection v1 Revo.sms	sms-htgdb-conversion-gg
+afdd18d9888c2686ab35e9165f4bf0c3	Kishin Douji Zenki v0.1 WIP Revo.sms	sms-htgdb-conversion-gg
+5b729bf1c1a5063f2415e8d482e4b750	Kuni Chan no Game Tengoku v1 Revo.sms	sms-htgdb-conversion-gg
+64e3f3aaa6e2fa850a39a268f98e9eb7	Kyoto Saint Tale v0.2 Revo.sms	sms-htgdb-conversion-gg
+c028e8da6a355c1c93e7d1582b905bca	Lost World, The - Jurassic Park WIP v0.3 Revo.sms	sms-htgdb-conversion-gg
+dd6b620fc2e8f6ce8bf889317316ff96	Lunar v1.1 BcnAbel76 Revo.sms	sms-htgdb-conversion-gg
+ada943cd72a5bab080e83b179ee75bf3	Madden NFL '95 v0.1 Revo.sms	sms-htgdb-conversion-gg
+9cf41b67621868349e1a5d1770f8892e	Madden NFL '96 v0.1 Revo.sms	sms-htgdb-conversion-gg
+1742e24cc85fe9aca9dc228fbc914ade	Madoh Monogatari II v0.1 Revo.sms	sms-htgdb-conversion-gg
+fec0c599b1e92631958957db868d84fa	Madoh Monogatari III v0.1 Revo.sms	sms-htgdb-conversion-gg
+6fb5456fc0adf0d456943a7024268931	Madoh MonogatariI v0.9 BcnAbel76.sms	sms-htgdb-conversion-gg
+f650e3dcf85aff213201234ffe1a2a00	Madou Monogatari A - Doki Doki - Bake Shon v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+887e8f332972590eca42c018416f86e5	Magic Knight Rayearth 2 - Making of Magic Knight v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+aa062a4ab96f16df90bb8e0a1b2c8564	Magic Knight Rayearth v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+6c4528621b66051a7b3dfc9871f71bc7	Magical Puzzle Popils v1 Revo.sms	sms-htgdb-conversion-gg
+d6c15f1939281d78e3154791b95bf8f2	Marko's Magic Football WIP v0.1 Revo.sms	sms-htgdb-conversion-gg
+9d369e367b84b87954abeeca240155c7	Mega Man - MD-SMS Controller Detect (U) v0.55 BcnAbel76.sms	sms-htgdb-conversion-gg
+2f6f8d3cb07cf4a2be09af8643ed24ea	Megami Tensei Gaiden - Last Bible S (J) T+Eng v0.6 BcnAbel76 et al.sms	sms-htgdb-conversion-gg
+98c823cca9608a9e4eef17c91bff869b	Micro Machines 2 - Turbo Tournament v0.1 Revo.sms	sms-htgdb-conversion-gg
+8e7c9e88b796ddcf195dbaafcf23cca2	Mighty Morphin Power Rangers - The Movie v0.6 Revo.sms	sms-htgdb-conversion-gg
+52d381e5f4f327740024497ceb550fb6	Mighty Morphin Power Rangers v0.6 Revo.sms	sms-htgdb-conversion-gg
+cbf5cdd57d35711d65a42e76b10d8043	Monster Truck Wars v0.1 Revo.sms	sms-htgdb-conversion-gg
+d428a7c929d0d9ec621ec847095d1f37	Nazo Puyo 2 v0.9 Revo.sms	sms-htgdb-conversion-gg
+4d444f1f1f40215bbcf321820a3c31ed	Nazo Puyo Aruru no Ru v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+79b90392e33283580eb40c0fdf1c6c95	Nazo Puyo v1 Revo.sms	sms-htgdb-conversion-gg
+dd42041f955781c605cd3f1c09a28563	NBA Action v0.1 Revo.sms	sms-htgdb-conversion-gg
+190edbaa2be6dfb78c36be66c058c509	NFL 95 v0.1 Revo.sms	sms-htgdb-conversion-gg
+27a8b92c70aa78acc7ca7aac7478f498	NFL Quarterback Club '96 (JUE) v1 Revo.sms	sms-htgdb-conversion-gg
+98f26c33b9e4b8d54cbaabe2f6ab32c5	NFL Quarterback Club v1 Revo.sms	sms-htgdb-conversion-gg
+4da97465239ebe475e8bf1d49e51da8a	NHL Hockey v0.1 Revo.sms	sms-htgdb-conversion-gg
+ea6294b105f977eed34a17887de023fb	Ninja Gaiden v1.2 Revo.sms	sms-htgdb-conversion-gg
+033460a1ca7646a5ae5b687d3b8abbe9	Ninku v0.1 Revo.sms	sms-htgdb-conversion-gg
+334aa0eda36439a7c00ed67330364c7e	Ninkuu 2 WIP v0.3 Revo.sms	sms-htgdb-conversion-gg
+9f7f7e63065ec272b81530463200c445	Off the Wall (Proto) v0.42 Revo.sms	sms-htgdb-conversion-gg
+741b824c4017b3d562a33aa00bc939c5	Pac-Attack v1 nextvolume.sms	sms-htgdb-conversion-gg
+68be45cdb0a938b6cce88a380372118d	Pac-In-Time V1.01 BcnAbel76.sms	sms-htgdb-conversion-gg
+2190bf20691450f8c8cfdfff1a620520	Pac-Man (Japan) Chris Covell v0.91.sms	sms-htgdb-conversion-gg
+403b9b2cd480c5161b3a05b52e38029d	Pac-Man (USA) Chris Covell v0.91.sms	sms-htgdb-conversion-gg
+444322130849467e7fa7d251fbb658aa	Paperboy II v1 Revo.sms	sms-htgdb-conversion-gg
+555c95461a93c23aa5aa5fb0367311ef	Pengo (J) PopCorn Music v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+44cf11a8a393571b2f4391e9cce0088d	Pengo (UE) v1 nextvolume.sms	sms-htgdb-conversion-gg
+3d73db6d685e577983432fc3061fe6bf	Pet Club Inu Daisuki! v1 Revo.sms	sms-htgdb-conversion-gg
+3163ee591099a8f2e71d60e990b5c345	Pete Sampras Tennis v0.1 Revo.sms	sms-htgdb-conversion-gg
+7fa04b1c539da5ad47a7fa040c92d96b	Phantasy Star Adventure English v1.1 Revo.sms	sms-htgdb-conversion-gg
+e34ece877d6af09c4334a191ebffa12d	Phantasy Star Gaiden English v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+80fa907938f36953f0071cd6039a53fe	Phantasy Star Gaiden Japanese v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+9e4fea613cd8bda04295a81b8b82c930	Phantom2040 v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+2e3752c80d79f4c2f7ef4b6c62b393ac	Pinball Dreams v1 Revo.sms	sms-htgdb-conversion-gg
+484d030f18e0f62dd59f50fd38d888be	Pocket Jansou v1 Revo.sms	sms-htgdb-conversion-gg
+76d7ebd5df542b6dace21529c4b200e2	Pop Breaker V1.2 BcnAbel76.sms	sms-htgdb-conversion-gg
+3b4bcaaa2160d2ec49b0f97319142dbb	Popeye's Beach Volleyball v1 Revo.sms	sms-htgdb-conversion-gg
+24bfd66c217d5ac7f6a5cb52b845d6b0	Power Drive v1 Revo.sms	sms-htgdb-conversion-gg
+aa5985f7b8910f25445e3fa4a99ad545	Primal Rage v1 Revo.sms	sms-htgdb-conversion-gg
+7da83b5d12208adbcded8355b6076e9a	Puyo Puyo 2 v1.1 BcnAbel76.sms	sms-htgdb-conversion-gg
+62eb1d8abfee800db6a98564b1c240c0	Puzlow Kids (Puyo Puyo) v1 Revo.sms	sms-htgdb-conversion-gg
+a56eb6ee268bf264dd54c62a2861ce70	Quiz Gear Fight!! v1.1 BcnAbel76.sms	sms-htgdb-conversion-gg
+509db7355f205089357578bd212cf9b3	Riddick Bowe Boxing v1 Revo.sms	sms-htgdb-conversion-gg
+eeac8045a398b9f384ec0161bcecab4f	Ristar the Shooting Star v1.4 Revo.sms	sms-htgdb-conversion-gg
+10c09752e8d6a92324b87e21e46e8299	Royal Stone English Developer V1.1 BcnAbel76.sms	sms-htgdb-conversion-gg
+e812282108a5f17b1997b77f298b4252	Royal Stone English V1.1 BcnAbel76.sms	sms-htgdb-conversion-gg
+fbaad811d9c79869238b45801213a8b6	Royal Stone Japan Developer V1.1 BcnAbel76.sms	sms-htgdb-conversion-gg
+3fca6aa716efe84719b4bdb8a8c6e3bc	Royal Stone Japan V1.1 BcnAbel76.sms	sms-htgdb-conversion-gg
+5684db6cd83ede2bb1554b3088d1ea46	Ryuukyuu v1.sms	sms-htgdb-conversion-gg
+39d12aa13d9d0c8cd66d575b56163067	S.S. Lucifer - Man Overboard v0.9 BcnAbel76.sms	sms-htgdb-conversion-gg
+c325499b5a37db8172853d9a8d1dcc2b	Samurai Shodown v1.01 BcnAbel76 Revo.sms	sms-htgdb-conversion-gg
+9762c7b28fc58caca8178850d5dc4e88	Scratch Golf v1.1 BcnAbel76.sms	sms-htgdb-conversion-gg
+36549a5bb91f2f8e8704aa2e15d96634	SD Gundam - Winner's History English v1 nextvolume.sms	sms-htgdb-conversion-gg
+0d9fe556bedacbb86c5b529f09490b95	SD Gundam - Winner's History FRENCH v1 nextvolume.sms	sms-htgdb-conversion-gg
+e41c3d02df64fb0030806c87027d4050	SD Gundam - Winner's History Japanese v1 nextvolume.sms	sms-htgdb-conversion-gg
+f5753f9ee4354ed24d0bc653b35f8760	Sega Game Pack 4 in 1 v1 Revo.sms	sms-htgdb-conversion-gg
+f9114ef9fb3256c9a67986a3b707b6ac	Shanghai II v1 Revo.sms	sms-htgdb-conversion-gg
+b5e4ed56b1956a5812e93145245041e1	Shaq Fu WIP v0.1 Revo.sms	sms-htgdb-conversion-gg
+e3cf1c91af9389d1ec0113a2121520b1	Shining Force Gaiden - Final Conflict English v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+a341c3b2a09b2ec0d507ef88c11f013f	Shining Force Gaiden - Final Conflict Japanese v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+ca8be3513af9a3ee40a1af9362f1fb47	Shining Force Gaiden II Japanese v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+372e4ddfbbae6122b4d3b035d973b1d9	Shining Force Gaiden Japanese v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+761d1d6806733cf06b7dfcc655d9901d	Shining Force II - The Sword of Hajya English v1.sms	sms-htgdb-conversion-gg
+48d741774004eab9c19c1dd43758bf2b	Shinobi II - The Silent Fury v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+bc9ac19141be7b0e74b8a417cab64ee7	SikinJyo v1 Revo.sms	sms-htgdb-conversion-gg
+992a8d5df51a0f5f1d9be38ab32860e0	Skweek - Slider v1.2 Revo.sms	sms-htgdb-conversion-gg
+2c1711007f0ca641ac589e2081da1961	Slam Dunk - Shouri he no Starting 5 v0.1 Revo.sms	sms-htgdb-conversion-gg
+8477cf93491be4ec0e55aabee411e52a	Slider v1.2 Revo.sms	sms-htgdb-conversion-gg
+8d61a00c8f247287176c29493107cd69	Solitaire Funpak v1 Revo.sms	sms-htgdb-conversion-gg
+ea0db2e369768608528adcf163ef0e87	Solitaire Poker v1 Revo.sms	sms-htgdb-conversion-gg
+c9d18b45062abf0446ad8fe3e7b5dfa4	Sonic Drift 2 v1 nextvolume.sms	sms-htgdb-conversion-gg
+69a0eb0b422d5668d3a3d56b1d1247d4	Sonic Drift v0.2 Revo.sms	sms-htgdb-conversion-gg
+015e5f351451a8d7128fc79e39ab338f	Sonic GG - SMS Style Edition (Hack) v1.151 tailsnic.sms	sms-htgdb-conversion-gg
+3ead5617d0fe67f8f15883a1da28fa34	Sonic Labyrinth v1.1a Revo.sms	sms-htgdb-conversion-gg
+d889adb8641ef8f94c9e74133c1af35d	Sonic The Hedgehog (U) v1.12 BcnAbel76.sms	sms-htgdb-conversion-gg
+e1d7041e68e000dc4f6d62cfaca9d3d9	Sonic The Hedgehog Triple Trouble - SMS Fix v1 Vingazole 2014-11-01.sms	sms-htgdb-conversion-gg
+cc04c0b70b019c7006c66057544b22a6	Sonic The Hedgehog Triple Trouble - v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+9af5b5664e793c3ec5d80af94e341499	Soukoban v1 Revo.sms	sms-htgdb-conversion-gg
+b74b52a9eb0d8b05cc1cb97350324dfa	Space Hawks (Bug-Fixed) KanedaFR v1.sms	sms-htgdb-conversion-gg
+92dcccc7c7edba1d3abbf9966c7170c3	Spider-Man and the X-Men in Arcade's Revenge v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+d62466b03a09418e07a0b44da7112d3f	Spirou v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+c1ebdbaad0ab2a7780d795368d0e545a	Star Wars v0.2a Revo.sms	sms-htgdb-conversion-gg
+0a5bba74410ef6849642d57a21ef6186	Stargate v1 Revo.sms	sms-htgdb-conversion-gg
+42ee83f8dbe49b91ca3e3987515c0c2c	Streets of Rage - 2-Player Mode v0.6 BcnAbel76 Revo.sms	sms-htgdb-conversion-gg
+f193c72bf4484316b7676f9c99a6ee91	Streets of Rage 2 - 2-Player Mode v0.8 BcnAbel76 Revo.sms	sms-htgdb-conversion-gg
+820da5e50a317df80572e100e696889a	Super Columns v1 Revo.sms	sms-htgdb-conversion-gg
+23693220659de507b8cdf74ae76c0156	Super Golf v0.1 Revo.sms	sms-htgdb-conversion-gg
+bb3febe4964400a01aa72c4cd2ad6b43	Super Momotarou Dentetsu III v1 Revo.sms	sms-htgdb-conversion-gg
+465bad24d5ca3ae3bbe5b176671cf0c9	Super Return of the Jedi v0.3 Revo.sms	sms-htgdb-conversion-gg
+32adb4bd2f080875bfc9e7c905483872	Surf Ninjas v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+0e4fcbd776ad3ba6801cd5458d92ab05	Sylvan Tale v1.01 BcnAbel76.sms	sms-htgdb-conversion-gg
+56499f1630f89dea91d819ddfdedc7e9	Tails Adventure SMS Deluxe v1.5c freezingicekirby.sms	sms-htgdb-conversion-gg
+4131b0d0de3b2c377461cab04e2b1a38	Tails' Sky Patrol V0.31 Revo.sms	sms-htgdb-conversion-gg
+455d70d24d8232243caa2ea16e55d570	Tale Spin v1.1 BncAbel76 Revo.sms	sms-htgdb-conversion-gg
+02178f86230df2e3e272f3e2dd478bf3	Tarzan - Lord of the Jungle WIP v0.1 Revo.sms	sms-htgdb-conversion-gg
+b5c7431d08f6f4a7861b7b8729f7df63	Tempo Jr. v1 vingazole.sms	sms-htgdb-conversion-gg
+ece33ea9e2515f64423acb517a65e6b4	Tesserae v1 Revo.sms	sms-htgdb-conversion-gg
+e74e0b95b368eae7fbcc2b3c3faa3c19	Tintin Au Tibet v1 BcnAbel76.sms	sms-htgdb-conversion-gg
+965bac84e74cde51acd12ddef91b72cd	Torarete Tamaruka v1 Revo.sms	sms-htgdb-conversion-gg
+d10c40464901662b4f9c7b89b1da87bf	True Lies V0.8 BcnAbel76.sms	sms-htgdb-conversion-gg
+027f36e9770f1c2b7b5fc17ee34b3f88	VR Troopers v1.1 BcnAbel76.sms	sms-htgdb-conversion-gg
+af2b45c38e22f9bfbfe46c432325b381	Wakiyarando (Wagyan Land) v1 Revo.sms	sms-htgdb-conversion-gg
+3d556e228538d73cb90cef12e0391fee	WildSnake v1 Revo.sms	sms-htgdb-conversion-gg
+2e8f408a2212ed02693058b430edc55e	Wizard Pinball v0.1 Revo.sms	sms-htgdb-conversion-gg
+85eb73fa7a70e527ed6f87fa05b7cbec	WWF Raw v0.1 Revo.sms	sms-htgdb-conversion-gg
+69c482893789e890c2f2d2be40ed5358	X-Men - Gamemaster's Legacy v0.8 Revo.sms	sms-htgdb-conversion-gg
+0030b30317bb39683f07607b93a2f6e1	X-Men v0.8 Revo.sms	sms-htgdb-conversion-gg
+28fce168c92aeb435596e1a437b20c3b	Yuu Yuu Hakusho II v1 Revo.sms	sms-htgdb-conversion-gg
+e118169b20e07659c7910682e74dd5ad	Yuu Yuu Hakusho v1 Revo.sms	sms-htgdb-conversion-gg
+05c8c0d678b9543ae7570967a532e034	Zan Gear v1 Revo.sms	sms-htgdb-conversion-gg
+7784cf76f67b003355ef9ec4b8ea0987	10 Yard Fight MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+1ff625e05d56c00a925b6e6fac5e4e52	A.E. MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+ce0393bf23f7583f8df2d137efb3f423	Bosconian MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+8e064949f0ee2cbe414c953e51acf8d2	Cannon Ball MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+b40bb8be3e049d11ef69d8cf13058b3b	Champion Kendou MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+e8e0c110fea1590ba3b07f372f26007a	Champion Soccer MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+8254e57b53cadb265dc6683bc4c90650	Choplifter MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+aa4eefee71648b028ca9cdefec0bca84	Color Ball MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+311ebb88d87f7f8033d0c7cf42e8e86c	Crusader MSX2SMS.sms	sms-htgdb-conversion-msx
+70c1ba0a7526f540f32188ea48770932	D-Day MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+a98aa6d4c3a9b8859dfdde9304386172	Dig Dug MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+f000081f0e3f29afff696d64370900d1	Doki Doki Penguin Land MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+4db7d43c4986528e150f7942d4a0011a	FinalJustice MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+0cee8db62ac6d2b814a92803ca171420	Fire Rescue MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+67d3150ea17dfae39eb0b1f5f70d7f45	Flicky MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+189ff1c48761abaa630cb4aa8c94cbcf	Galaga MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+5561947ec2135379c15ddb2b55e79061	Galaxian MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+6d5d37d564e4c0a13baddb589c573885	Goonies, The MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+32ae08ea45671b2d8a4c29f21a33a52b	Gulkave MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+7182e53e402502d35318eb8f7080388f	Hang On MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+0bb3238ac503ad1ac1d2cbd39c8ec7b5	Hitsuji Yai - Preety Sheep MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+7c6ee018022fb33ba0da7e2620c82c09	Hyper Rally MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+42e74959b7dd2215286bff8b27c6dddd	Hyper Sports 1 MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+d6d3905cf28a59660db91f599e0ccda8	Hyper Sports 3 MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+4ee405c7b92445f7aad7fca90f8748e6	Jyankyo MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+4fc79375b23f15193f971993fdd9ae91	King's Valley 1 MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+3cfafb847b9e35fc2cc156c025c3cacd	Konami's Billiards MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+4cc9072702591fa92624d9b08a796416	Konami's Ping Pong MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+2483f2dd5dad38b2d17af5b3f38bec72	Konami's Tennis MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+822fd63c2824e4b13c85deb99ca252d3	Lode Runner 1 MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+52d12005460909e245e2b63694250fe7	Majyo Densetsu MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+70b521438e1425e7135519c03e1a3d01	Mappy MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+070964a9c6f783c3978700470cb4d9d3	Megaro Polis SOS MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+1dd4ad3c67f445afd716892146791374	Mini Golf MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+523e638b850a53057f96e55d05335b32	Moai no Hibou MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+08193aa4704d7c0f0e742f35abfe2efe	Mr. Do V.s Unicorns MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+10c3093e911b03c28887bed279952d30	Pac-Man MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+389f32004ccba82d759113971ed7c3e7	Panther MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+d78cebe17b553a5c77d8c97f4acb4982	Rally-X MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+545754ecfff555d41841a925489c3687	Roger Rubbish MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+bf157ffbde7517a2a7c3dac9370cff0c	Slime Center OK.sms	sms-htgdb-conversion-msx
+364527f5ae8efbff5cfd47d20f073bdc	Slime Center.sms	sms-htgdb-conversion-msx
+e9aea0603b4b8f0690b12d9fe8598db7	Star Blazer MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+1f12166eff4fe696d0c598a9d8796914	Star Force MSX2SMS Hack (Bad Direction).sms	sms-htgdb-conversion-msx
+9600d292f69ca35d051aa24ea7d0f70c	Star Soldier MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+d23263e3612208a69f2e652b7d2bbd76	Super Penguin MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+0a8c800f5afe8ecffdb860b364e46c98	Super Soccer MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+bb68c2cc8b530a18d6c16ba0dcf55e33	Swing MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+47c625115e6e21aab166d9ff0177c12c	Tales of Popolon.sms	sms-htgdb-conversion-msx
+5ee5616d840aa6df0342054e15ec4fad	Track & Field 1 MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+6df040056019832955ddcc6ffda34924	Track & Field 2 MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+55af1a0b32f70abdbb666d55757a2619	Warp Warp MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+c7f74611c32ead612f300078d59dfbe8	Yellow Submarine MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+082fceb457c3d681a2ad92ad899d8389	Zanac MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+6ac610db68abbb7a1fe7cc09f579c800	Zaxxon MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+81c4b1c9c55155f3698bf13bae6a3dde	Zoom 909 MSX2SMS Hack.sms	sms-htgdb-conversion-msx
+ef44f0e77c98c10977c70937fff17e50	Bubbo World 2.sms	sms-htgdb-conversion-msx-pnw
+62c0288995f284d823fc1994596e85d8	Cow Abductors.sms	sms-htgdb-conversion-msx-pnw
+e682e33fde9c6dcd4666f4a641b94504	Griel's Quest for the Sangraal EX.sms	sms-htgdb-conversion-msx-pnw
+01666fbe044f4cb71766b4431bee68c7	Menace.sms	sms-htgdb-conversion-msx-pnw
+1c2e32b3526ccd917b99f357f934a8cd	Neo Pong 512 (hardware ok, no sound).sms	sms-htgdb-conversion-msx-pnw
+5e186a8ac5b15a64c45bfd3fe2d2d741	Neo Pong 512.sms	sms-htgdb-conversion-msx-pnw
+26ca778a82232d6301d7aad91b2ebfeb	Peek-A-Boo.sms	sms-htgdb-conversion-msx-pnw
+b6358a8ea7acbcf24447ed4e1792a94d	Pointless Platform.sms	sms-htgdb-conversion-msx-pnw
+101ae678cdc0cbe72f5504d77ce66fb6	Pointless Shooting.sms	sms-htgdb-conversion-msx-pnw
+78099c669f9961e4433d21c68f898cd4	Shoganai.sms	sms-htgdb-conversion-msx-pnw
+d42e0cef27e617acdd28fa749306a0bc	Alex Kidd in Miracle World 2 (Hack) v2 ian.sms	sms-htgdb-hacks
+f929093ffd7bca4697f2eb55f47ff133	Alex Kidd in Miracle World Burger & More (UE Hack) Burgers+Moneybag+Petrifaction v1 micky.sms	sms-htgdb-hacks
+4bf3ba6b51e6a99a98629b4d312a18e4	Alex Kidd in Miracle World Moneybag+Petrifaction Fixes (UE Hack) micky 8-3-2017.sms	sms-htgdb-hacks
+c2c2fa1e799896f6e501f9e5367b9701	Alex Kidd in Miracle World Reverse Controls (Hack) v1 Calindro.sms	sms-htgdb-hacks
+debd106a7cc4fc4aa41b71ff35a7c70c	Alex Kidd in Radaxian Rumble (UE) Alianger v1.03d.sms	sms-htgdb-hacks
+36a8c5171257d3cfa4eea563eb9634fd	Ashura Speed-Up (Japan) FeRcHuLeS.sms	sms-htgdb-hacks
+1c437e808bda6d6e11916b911973cd32	Asterix and the Great Rescue (E) EverDrive Fixed.sms	sms-htgdb-hacks
+f9d0e9eb3bb32f51b37a28421bd80d6e	Bubble Bobble Improvement (Europe) v1 Penta Penguin.sms	sms-htgdb-hacks
+c53881a00cb109e4dca8facb1cb139a6	Clever Raccoon Dog - Defenders of the Nation (Psycho Fox Hack) v1 MatTheRabbit.sms	sms-htgdb-hacks
+526bf3db411623547c77a8c063313e6c	Cyborg Hunter SMS-MD Controller Detect Patched (Hack) v1.11 BcnAbel76.sms	sms-htgdb-hacks
+8c0bdd926b56f4f8f46a300622bf70a5	Golvellius PTBR+Save+Bugfixes (Hack) T+Bra, SRAM ichigobankai 2017818.sms	sms-htgdb-hacks
+ecae9027839fc25797037d8cf424ffb3	Golvellius Save Patched+Bugfixes (Hack) SRAM ichigobankai 2017818, Eric Quinn v1.1.sms	sms-htgdb-hacks
+496d20dc2bb74af966561b747c8f4ffe	Guerreiro Lobo+Save+US FM+SMS-MD Controller Detect (WB3 Hack) v2.0 GL, SRAM v1.2 ichigobankai, v1 FM ApolloBoy.sms	sms-htgdb-hacks
+5307b4e782adcb77c6cb4f28ee74f7cf	Icy in Miracle World (Hack) v1 CoachMoose.sms	sms-htgdb-hacks
+6bc695cfbd8da78f09c1780c6cbf02e0	Master Mario Bros (Teddy Boy Hack).sms	sms-htgdb-hacks
+72dbe1772943a6778b8925cac1327148	Master Mega Man (Wonder Boy in ML Hack).sms	sms-htgdb-hacks
+0c858acb7205a6032d04c2e40be76649	Master Smash Brothers V1.0 (Psycho Fox Hack).sms	sms-htgdb-hacks
+4b33982c2671615b8526fd8b33c723f7	Master Zelda (Teddy Boy Hack).sms	sms-htgdb-hacks
+eb158a1a2b8e40fa3ede84c54d3f5dd3	Mickey Mouse - Castle Of Illusion (Hack 1) (99 Continues, 9 Lives, 5 Energy).sms	sms-htgdb-hacks
+f75318912bf0bb45b9b9a16e2ecb3502	Miracle Warriors Improvement (Hack) v1 Penta Penguin.sms	sms-htgdb-hacks
+45897f9a9ad9b04813fb4e35ed6e6535	Mr. & Ms. Pac-Man (Fantasy Zone Maze Hack 6) [!].sms	sms-htgdb-hacks
+ce2c9aae1f48af310e5767436735ecfe	Phantasy Star - Hordes of Nei (Hack) v1.44 Lutz.sms	sms-htgdb-hacks
+f8be06e3df1d3de20d441f1af32fa1fd	Phantasy Star - Lutz Hack (Hack) Lutz.sms	sms-htgdb-hacks
+4e537d5e5ac22f9c63199aabe2452b71	Phantasy Star CSI (J) v1.2 Vikfield.sms	sms-htgdb-hacks
+0db3d25961c281ada5259c936093b4b3	Phantasy Star CSI (UE) v1.2 Vikfield.sms	sms-htgdb-hacks
+8d64c1c21939f00eb8b6a096b72c17ab	Phantasy Star Makeover (J) (Hack) v1 Vikfield.sms	sms-htgdb-hacks
+dde62777bbb6c12df648af1d170a6b1f	Phantasy Star Makeover (UE) (Hack) v1 Vikfield.sms	sms-htgdb-hacks
+8f3c63a2194806b1d13c500e6cdbb0b5	Pokemon Master V2.0 (Psycho Fox Hack).sms	sms-htgdb-hacks
+f4229338d81dd151355f1c74a8e0c7f0	R.H.W. 2000 (Psycho Fox Hack).sms	sms-htgdb-hacks
+cf0c3ade9a352e3ce93050112172b65b	Rainbow Islands (E) Good Ending Bugfix (Hack) v1 arsenal_51.sms	sms-htgdb-hacks
+61fee2205721b8e038df33ca8d4ac7b1	Rambo - First Blood Part II Speed-Up (USA) FeRcHuLeS.sms	sms-htgdb-hacks
+6e6c89f69d7b99b5cc1955e3af870d69	Secret Commando Speed-Up (Europe) FeRcHuLeS.sms	sms-htgdb-hacks
+4f47e48248f6498bff9018789f26c9f8	Snail Maze (USA).sms	sms-htgdb-hacks
+624d2e4fb85dc714f34a7c6e80035a7f	Sonic 1 FM Sound (Hack) v1.02 Team Valley Bell.sms	sms-htgdb-hacks
+32c109864dbe2c2644b6090def5e82b9	Sonic 2 Rebirth (Sonic 2 Hack).sms	sms-htgdb-hacks
+506d51daf7df81107806f5eb3bc2fabb	Sonic 2 ReMastered (Sonic 2 Hack) v1 MrCat SHC2016.sms	sms-htgdb-hacks
+8876a5be06ead90a6df7f6e4ddf5d0d4	Sonic 2 Strike Dash (Up+B2) v2 Ravenfreak.sms	sms-htgdb-hacks
+d48e68eb1d35a00c7f911d215c23e163	Sonic 2 Sweet Relief (Hack) v1.1.sms	sms-htgdb-hacks
+adce540b5920d45efa2348dba0419ede	Sonic 2 Zen Island (Hack) v1.1 Yoshister 2017-11-26.sms	sms-htgdb-hacks
+1f5544512f769cff4737698badcf3318	Sonic Boy 4 - Monster World (Wonder Boy in MW Hack).sms	sms-htgdb-hacks
+c03574199888a7dec6ace97c374d7bcd	Sonic the Hedgehog (UEB) Enhanced Colors v1 Weeppiko.sms	sms-htgdb-hacks
+82747680e4a467847b0a1afcf7542bc2	Sonic-Boy 2 - Eggman's Trap (WB3 Hack).sms	sms-htgdb-hacks
+3323496d626a25af3c42e73ccc4a03d5	Sonic-Boy 2 - Eggman's Trap+Save+US FM+SMS-MD Controller Detect (WB3 Hack) v2 GL, SRAM v1.2 ichigobankai, v1 FM ApolloBoy.sms	sms-htgdb-hacks
+7257b9cb5dada7345e0639e6be5910db	Sonic-Boy 3 - Eggman's Room (Teddy Boy Hack).sms	sms-htgdb-hacks
+245cc3e7e3e06df3b76eda300a5b7b38	Sonic-Boy in Monster Land (Wonder Boy in ML Hack).sms	sms-htgdb-hacks
+2e9d547e26754ec4fc121e410d457ef6	Space Hawks Bug-Fixed (Hack) KanedaFR v11.sms	sms-htgdb-hacks
+67b6ff0d6427c37645455edf75b69b93	SpellCaster Save Game with Passwords Spell (Hack) SRAM ichigobankai 2017820.sms	sms-htgdb-hacks
+b5f8106553042db42dafdcfe4f18be28	Super Boy 4 Individuality Improvement (Korea) (Unl) v1 Tharthan.sms	sms-htgdb-hacks
+66a11d28b72426f56c6c3ac25808e8bd	Super Racing (J) (Hack) Real Names v1 FMecha.sms	sms-htgdb-hacks
+5d77e61667876535890574c4bff0ece8	The Legend of Golden Axe Warrior (Hack) v1 gzip.sms	sms-htgdb-hacks
+9906dbb88d38e00d29246d8961e9bae0	Turma da Monica em - O Resgate+Save+US FM+SMS-MD Controller Detect (Hack) SRAM v1.2 ichigobankai, v1 FM ApolloBoy.sms	sms-htgdb-hacks
+cd095eaf30e27e1379457465148ecf8e	Turma da Monica in The Rescue - Original Names+Save+US FM+SMS-MD Controller Detect (Hack) T+Eng v1 micky, SRAM v1.2 ichigobankai, v1 FM ApolloBoy.sms	sms-htgdb-hacks
+2dde600fa67db6a9a9cf7b382803bb0d	Voyage - A Sorceress' Vacation - Catalan Version (Alex Kidd in Miracle World Hack) (1.03) SNAGS.sms	sms-htgdb-hacks
+1cb7af2abb3e667db89a4b65784ed336	Voyage - A Sorceress' Vacation (Alex Kidd in Miracle World Hack) (1.05) SNAGS.sms	sms-htgdb-hacks
+6a7f697d98ebb40ca5c74a8e0af1645d	Wonder Boy - Monster World (Genesis Controller).sms	sms-htgdb-hacks
+85ee4d6b526bfd8c621201a67276a00a	Wonder Boy (USA, Europe) [EverDrive FIX].sms	sms-htgdb-hacks
+24ca2afd9c63eecadb42e350507f1078	Wonder Boy Arcade Palette (Hack) v1 Marcos Moutta.sms	sms-htgdb-hacks
+9e319a2fbeb6f77c50dd6381d484fe05	Wonder Boy III Credits Fix (Hack) v1 sluffy.sms	sms-htgdb-hacks
+91b706ecf557d1bc123f1f4a1c59c4de	Wonder Boy III D.C. (WB3 Hack).sms	sms-htgdb-hacks
+31f257b87ce98b0f36db1a3989dffd81	Wonder Boy III D.C. Hack+Save+US FM+SMS-MD Controller Detect (Hack) SRAM v1.2 ichigobankai, v1 FM ApolloBoy.sms	sms-htgdb-hacks
+25e02c4e8b504a44a25b11b93ed95e4b	Wonder Boy III FM (Hack) v1 Bock.sms	sms-htgdb-hacks
+c7e1464e9ac0805f08ae7151796f69da	Wonder Boy III Save+SMS-MD Controller Detect (Hack) SRAM v1.2 ichigobankai.sms	sms-htgdb-hacks
+95d643b0caba834d7cf7ad96e1b0d320	Wonder Boy III Save+US FM+SMS-MD Controller Detect (Hack) SRAM v1.2 ichigobankai, v1 FM ApolloBoy.sms	sms-htgdb-hacks
+eddc19d1a32500a772e897b5c26bb554	Wonder Boy in Monster World Color Restore+Save+SMS-MD Controller Detect (Hack) v1 ichigobankai.sms	sms-htgdb-hacks
+dd5d01d4e1fe7d275f95ac95dc63b04f	Ys - The Vanished Omens - FM Sound Restoration (USA, Europe) v1.2 Hungdongs.sms	sms-htgdb-hacks
+91d5c6535e442154c44e83b1b14d2f64	Guerreiro Lobo V2.0 (Wonder Boy III Hack).sms	sms-htgdb-hacks-brazilian
+6c9749d414af0e5ed361ac440f1e3f16	Jornada do Mymo (Psycho Fox Hack).sms	sms-htgdb-hacks-brazilian
+e3d6cbd4f2d26f631823696659f05967	Jornada do Mymo II (Psycho Fox Hack).sms	sms-htgdb-hacks-brazilian
+ed77cfc1ce39a7735bbbb45da5221fe1	Magali no Castelo do Dragao (Monica no Castelo Hack).sms	sms-htgdb-hacks-brazilian
+2b2085fcb48d247d269d808c6b6e59da	Monica 3 (Wonder Boy in MW Hack).sms	sms-htgdb-hacks-brazilian
+d7408a9e24766d2198ae498e03219f45	Natal do Mymo (Psycho Fox Hack).sms	sms-htgdb-hacks-brazilian
+27ebcff4302b06678fb1ea1ab9a29278	Pokemon Versao Amarela (Teddy Boy Hack).sms	sms-htgdb-hacks-brazilian
+dcd4346aef378bd440655bd06579d3fa	Pokemon Versao Azul (Teddy Boy Hack).sms	sms-htgdb-hacks-brazilian
+8cff03bcb23166974760d88535f78863	Pokemon Versao Secreta (Teddy Boy Hack).sms	sms-htgdb-hacks-brazilian
+40dc9142b8053a3596bec68441229253	Pokemon Versao Vermelha (Teddy Boy Hack).sms	sms-htgdb-hacks-brazilian
+39b72b83341de068d49c15edd2a4f39e	Rodrigo 2 em - Mate O Leonardo (Teddy Boy Hack).sms	sms-htgdb-hacks-brazilian
+6f4079c9d59d4181da60ef2e49eb6746	Rodrigo 2 em - Mate O Papai Noel - Versao de Natal (Teddy Boy Hack).sms	sms-htgdb-hacks-brazilian
+ca36594c0e30e4e98534ed76f4802adb	Rodrigo O Resgate (Wonder Boy Hack).sms	sms-htgdb-hacks-brazilian
+03eb9eeeed16a65f5db7d42f5d12338c	Sonic vs. os Mauniks (Psycho Fox Hack).sms	sms-htgdb-hacks-brazilian
+79b59aa23d72ec7d52c1252eb2192793	Teddy Boy e Geraldinho (B) (Geraldinho Hack).sms	sms-htgdb-hacks-brazilian
+eed9f807b50063137daa42c814a4d37d	Treinamento Do Guerreiro Lobo (Wonder Boy in MW Hack).sms	sms-htgdb-hacks-brazilian
+3710b0e87de583fddcf149281d769136	Turma da Monica 3 v01 (Monster World III Hack).sms	sms-htgdb-hacks-brazilian
+91118b3b5f28cf80f6cb6f2110705abd	Battle Out Run - FM Enabled (E) (Hack) fatnick 2018-01-23.sms	sms-htgdb-hacks-fm
+9844a459663440e8330633f1e347e671	Double Hawk - FM Enabled (E) (Hack) fatnick 2018-01-23.sms	sms-htgdb-hacks-fm
+af1132f39587bbe3b9ef84991346d3c0	Dynamite Dux - FM Enabled (E) (Hack) fatnick 2018-01-23.sms	sms-htgdb-hacks-fm
+edbbbf46b35885754418a648699a35a3	Rambo III - FM Enabled (UE) (Hack) fatnick 2018-01-23.sms	sms-htgdb-hacks-fm
+f42d3af743789a902e693175b1490efe	Rambo III - Pause Switches PSG-FM (UE) (Hack) BncAbel76 2018-01-29.sms	sms-htgdb-hacks-fm
+0ded5cd83699990c0ed6983095b402cd	Summer Games - FM Enabled (E) (Hack) fatnick 2018-01-23.sms	sms-htgdb-hacks-fm
+0ad26970a05adb71086ad7f73fcf7339	Super Basketball - FM Enabled (USA) (Sample) (Hack) fatnick 2018-01-23.sms	sms-htgdb-hacks-fm
+065727c2ed50f7437f27f7b253421549	Aerial Assault - FM Enabled (UE) (Hack) fatnick 2018-01-23.sms	sms-htgdb-hacks-fm-incomplete
+bd1a05593235287299e9faf27e6d4b21	American Pro Football - FM Enabled (E) (Hack) fatnick 2018-01-23.sms	sms-htgdb-hacks-fm-incomplete
+722e70c1efbe70c734269fd722d44b86	Assault City - Light Phaser Version - FM Enabled (E) (Hack) fatnick 2018-01-23.sms	sms-htgdb-hacks-fm-incomplete
+66deb084e8894bc680ec3198eb09a4a9	Assault City - Pad Version - FM Enabled (E) (Hack) fatnick 2018-01-23.sms	sms-htgdb-hacks-fm-incomplete
+cf8dd1ada9e8cb53eb851f62af0c3425	Basket Ball Nightmare - FM Enabled (E) (Hack) fatnick 2018-01-23.sms	sms-htgdb-hacks-fm-incomplete
+273447bfe88fccf09b03882d078385c7	Dead Angle - FM Enabled (UE) (Hack) fatnick 2018-01-23.sms	sms-htgdb-hacks-fm-incomplete
+7729af4d461d853f66e4ea6dff18ae22	Forgotten Worlds - FM Enabled (E) (Hack) fatnick 2018-01-23.sms	sms-htgdb-hacks-fm-incomplete
+547540f3a521061eaa66d699075cc78e	Psycho Fox - FM Enabled (UE) (Hack) fatnick 2018-01-23.sms	sms-htgdb-hacks-fm-incomplete
+75e70b6cf0c170f2f767416188221bea	Reggie Jackson Baseball - FM Enabled (U) (Hack) fatnick 2018-01-23.sms	sms-htgdb-hacks-fm-incomplete
+3eaad1de0a58257b3428ffcc29316aa8	World Games - FM Enabled (E) (Hack) fatnick 2018-01-23.sms	sms-htgdb-hacks-fm-incomplete
+4dde8753583a8d638e820503598cc42f	Ys - The Vanished Omens - FM Enabled (UE) (Hack) fatnick 2018-01-23.sms	sms-htgdb-hacks-fm-incomplete
+38c11b91051eba30573bbbdc9845511d	Gangster Town (Light Gun Port 2 Patched) Calindro.sms	sms-htgdb-hacks-lightgun-port2
+85a7dcc261748637e6568490a5508338	Laser Ghost (Light Gun Port 2 Patched) Calindro.sms	sms-htgdb-hacks-lightgun-port2
+371ff5f5dfafb0c71df97d23d6fb43be	Marksman Shooting (Light Gun Port 2 Patched) Calindro.sms	sms-htgdb-hacks-lightgun-port2
+02aef79d6593031e89d38c5a615f53d7	Marksman, Trap Shooting, Safari Hunt (Light Gun Port 2 Patched) Calindro.sms	sms-htgdb-hacks-lightgun-port2
+fff80b8046aae8fb866fd0cd53aa9cee	Missile Defense 3-D (Light Gun Port 2 Patched) Calindro.sms	sms-htgdb-hacks-lightgun-port2
+02a407f64a6b33d2b3005ebdc6328357	Rambo 3 (Light Gun Port 2 Patched) Calindro.sms	sms-htgdb-hacks-lightgun-port2
+6a0158fc68d0d732f2a446e765a83bf3	Rescue Mission (Light Gun Port 2 Patched) Calindro.sms	sms-htgdb-hacks-lightgun-port2
+bb7fd942f4511843e862eb6cf79d257b	Shooting Gallery (Light Gun Port 2 Patched) Calindro.sms	sms-htgdb-hacks-lightgun-port2
+0d44800f01e9d513e43f6eb4bea30e11	Wanted (Light Gun Port 2 Patched) Calindro.sms	sms-htgdb-hacks-lightgun-port2
+bd47f785c671ea1e317b324eea104716	Alex Kidd no Miracle World (Genesis Controller).sms	sms-htgdb-hacks-mdcontroller
+2ed0f47ddbfd8e7d61bf9e67223895dd	Alien Syndrome (Genesis Controller).sms	sms-htgdb-hacks-mdcontroller
+2c21585fa86edc821d5fcb3b3a27e248	Bomber Raid (Genesis Controller).sms	sms-htgdb-hacks-mdcontroller
+f10c8384a88926854197e78d438d502b	Great Volleyball (Genesis Controller).sms	sms-htgdb-hacks-mdcontroller
+a5a827582eb8a830cf93effb26bb1e82	Makai Retsuden (Genesis Controller).sms	sms-htgdb-hacks-mdcontroller
+2ac9400f39c777fa1d2327e20773a7b1	Megumi Rescue (J) Genesis Controller & Region Patched v1 dplc81.sms	sms-htgdb-hacks-mdcontroller
+9f53dbd8adb21a7bfa2e138d21f35b67	Monica no Castelo do Dragao (BR) Controller Patched.sms	sms-htgdb-hacks-mdcontroller
+40a1ea3809744417bf28f3c82e341d02	Montezuma's Revenge (Genesis Controller).sms	sms-htgdb-hacks-mdcontroller
+014d92ca489c2633e2516ab7c38f7851	Penguin Land (Genesis Controller).sms	sms-htgdb-hacks-mdcontroller
+12f14e342c5d9ff53b83d0c232441177	Shanghai (Genesis Controller).sms	sms-htgdb-hacks-mdcontroller
+467544f8035d95292542a280452d3739	Super Racing (J) Region & Genesis Patched v1 dplc81.sms	sms-htgdb-hacks-mdcontroller
+f916af9ba3b3c852e0232df60a403ddf	Tennis Ace (Genesis Controller).sms	sms-htgdb-hacks-mdcontroller
+f8a00c1ed74f2616ef0306d6427f55f5	Where in the World is Carmen Sandiego (Brazil) Genesis Controller Patched.sms	sms-htgdb-hacks-mdcontroller
+2deb59b8e05192304331a6b9fdb946e3	Where in the World is Carmen Sandiego (USA) (Genesis Controller).sms	sms-htgdb-hacks-mdcontroller
+306dc45c0d7e74bde9ec345cfe8e2fe6	Wonder Boy III (Genesis Controller).sms	sms-htgdb-hacks-mdcontroller
+a716dad3fefa73126b364d1af57795c5	Wonder Boy III (Genesis Controller+US Console FM Sound Patch).sms	sms-htgdb-hacks-mdcontroller
+c3154283adb4038b70907bb0c20c94f0	Wonder Boy in Monster Land - Genesis Controller (Hack).sms	sms-htgdb-hacks-mdcontroller
+e3fc931850910f72abe5e37657132113	Woody Pop - Shinjinrui no Block Kuzushi (J) Region & Genesis Patched v1 dplc81.sms	sms-htgdb-hacks-mdcontroller
+4d323838c4a0362c25d0d47ce6a6f1df	Alex Kidd BMX Trial (SMS Control Pad) Paddle-to-Controller Patched.sms	sms-htgdb-hacks-paddle-to-controller
+47ded4923bb641bb8c5d8d76420c683f	Galactic Protector (SMS Control Pad) Paddle-to-Controller Patched.sms	sms-htgdb-hacks-paddle-to-controller
+9867fd8bbe1bdbe51d54d1d035fcc026	Megumi Rescue (SMS Control Pad) Paddle-to-Controller Patched.sms	sms-htgdb-hacks-paddle-to-controller
+e02a2405d9ca9a8c0da8911696bd13b5	Woody Pop (SMS Control Pad) Paddle-to-Controller Patched.sms	sms-htgdb-hacks-paddle-to-controller
+49620767e0780986be30aa7c4ed498d3	1969 (PD) v0.9k Retica.sms	sms-htgdb-homebrew
+bf9eb8c06389d211cb71e0408a86677d	2048 v1.02.sms	sms-htgdb-homebrew
+eb04587efffb98403089b7e4a9a9c823	Anguna - the Prison Dungeon v0.07a.sms	sms-htgdb-homebrew
+0cf1c37b676cea11e61456e51ed790ac	AntiISDA Warrior (PD) v1.02 Ventzislav Tzvetkov.sms	sms-htgdb-homebrew
+e8308729143d83c867a797a81aa4265b	Artillery Master 8k (PD) v0.9 Haroldo O. Pinheiro.sms	sms-htgdb-homebrew
+ee1e71857e93ccdcbddf470ed42586a1	Astro Force (PD) v1.03 eruiz00.sms	sms-htgdb-homebrew
+0e6727eea4ddd7d2b3fc71722b9eb65c	Astroswab (PD) v1 hang-on 2018-03-27.sms	sms-htgdb-homebrew
+9df7f9fa8d49d0d9d0c986547c98ce95	Baluba Balok (PD) 20170129 eruiz00.sms	sms-htgdb-homebrew
+9a1f85b5de9a44146c14e64027981ccd	Battleships v1.10.sms	sms-htgdb-homebrew
+10713ad2407f7bb24024222aca7fb34c	Block Quest (Knights of the Round clone) v0.25.sms	sms-htgdb-homebrew
+ef8fe5c2cc018a02326eba360ffa1adb	Blockhead v1.01.sms	sms-htgdb-homebrew
+f1a3d943e19cce5f9736cd94b14f0c06	Bloki v1.03 Tetris Clone.sms	sms-htgdb-homebrew
+96646e39a562c348191b2509cd1f6765	Bomberman Boom v1.1.sms	sms-htgdb-homebrew
+ca405db9c6e523e86865390c6f6ae386	Bread and Butter v1.032.sms	sms-htgdb-homebrew
+2696045e307990aa896959a66f9e6ae6	Bread and Butter World v1.0.sms	sms-htgdb-homebrew
+6d68c6fdff41aff161b45af42cbfe390	Bruce Lee SMS (PD) v1 Kagesan.sms	sms-htgdb-homebrew
+4ff958e1a7cbd44c6771e657db64c23e	Burgers of Hanoi v1.0.sms	sms-htgdb-homebrew
+b9efce822fb2d639809e5455663d3cbf	Candy Kid (PD) SteveProXNA 3-27-2017.sms	sms-htgdb-homebrew
+c85099fdb6a8750f8b345a09668ecb3c	Casevac (PD) v1 STIR FC.sms	sms-htgdb-homebrew
+967aaca9ac18d14f2def90b53678b948	Cave Wanderer v1.0.sms	sms-htgdb-homebrew
+26fa71b19d79cd54bdae959d11d5957a	Christmas Tale v1.0.sms	sms-htgdb-homebrew
+d6dacc20936dc4c487e7d2ec10c2f670	Damiana (PD v2.0.sms	sms-htgdb-homebrew
+466f43446d151b9e6793212d5ce8c373	DARC v1.0.sms	sms-htgdb-homebrew
+5172d46eba9214bd92fb5b8bd74e24e8	DataStorm v0.02.sms	sms-htgdb-homebrew
+2bb3a21396923ff33e7b88fa11bf6645	Digger Ball v1.0 No Explosions.sms	sms-htgdb-homebrew
+6cc93442b73df604bc27483686436301	Digger Ball v1.0.sms	sms-htgdb-homebrew
+9de7eceb46b0e4524fc3b6f09eb0cbf3	Digger Chan (PD) Aypok.sms	sms-htgdb-homebrew
+e8ef8711e54b0acabd94f7e259d54b5b	Draw Poker (PD) v1 Mike Beaver.sms	sms-htgdb-homebrew
+9abf1f2fccd656d0f28eb71ebe5c5357	Duckslayer Adventures (PD) v0.6.0 haroldoop.sms	sms-htgdb-homebrew
+3fb5880304457a51b1c074e34392d993	Duke Nukem (PD) v0.4 Revo.sms	sms-htgdb-homebrew
+a5fe6c585d9dd1fbdd20b81d627332a4	Elite Gaiden 0.1.28.sms	sms-htgdb-homebrew
+0c54d0a13484f07cf063492fd846f1c2	Fairy Forest (PD) v1.02 STIR_FC.sms	sms-htgdb-homebrew
+42b79384a1352b47b9ea32d6d3ec6849	Flight of Pigarus (PD) v1.11 Kagesan.sms	sms-htgdb-homebrew
+b636a2f6d538b583bbd48397031dd606	Flip Flap v2.10.sms	sms-htgdb-homebrew
+283812dcc11cc8b254d0a06ac6afd8fc	Galactic Revenge (PD) v3 eruiz00.sms	sms-htgdb-homebrew
+466fb9b7544099e6e23526c8b0c656d4	Gaudream v0.04.sms	sms-htgdb-homebrew
+23218cecb7670615da0d0485d2063076	Gekioko PunPun Maru (PD) Future Driver 2013-12-15.sms	sms-htgdb-homebrew
+1f436b25d69ed02a0f601e41401c728a	Gemitas (PD) Cyttorak 2018-03-27.sms	sms-htgdb-homebrew
+f98f466bac62f6b5424b4b6e28350a92	Gravity Beam Master Gaiden v1.01 MathewCarr.sms	sms-htgdb-homebrew
+1e17aefac8edd741681895ba9ea15f0d	High Fidelity Audio - Knight Rider Theme (PD) Maxim 6-2018.sms	sms-htgdb-homebrew
+79713b3e8f72d3fd6c106df3e5378ff1	Jetpac v0.3.sms	sms-htgdb-homebrew
+162b99df1ccd1a99db6b8f9e3c168344	King Kong v1.0 Donkey Kong Clone.sms	sms-htgdb-homebrew
+befbac1d4f08c4240cc27c85d8815d87	Knights and Demons v1.0.sms	sms-htgdb-homebrew
+69ad79d1cfeb0f4af9df5f14846f90e1	KunKun & KokoKun 1 (PD) v1.0 Bock.sms	sms-htgdb-homebrew
+4d8eb720875887fb012b95ee60d282c2	KunKun & KokoKun 2 - Return of the Kun v0.99.sms	sms-htgdb-homebrew
+a1c32e5580e07b0a543a8d12e05f24d8	Lander 1 v1.4.sms	sms-htgdb-homebrew
+d713e605fe9718a304c391e0c42c6cb8	Lander 2 v0.C.sms	sms-htgdb-homebrew
+4b848d2955dc32996b53609d3855921f	Lost Raider v1.01.sms	sms-htgdb-homebrew
+ce75c1de16db3397893c437289821d99	Mega Man 2 v0.2.sms	sms-htgdb-homebrew
+78103820408ecf3affd27baadc003dda	Minesweeper v1.10.sms	sms-htgdb-homebrew
+e33a78288cbb18b15ee1bc380f1b0943	Moggy Master (PD) Mojon Twins 2015.sms	sms-htgdb-homebrew
+d4d0dfc872abfd0afa88db5c0678d8a4	NanoWars 8k (PD) v0.7 Haroldo O. Pinheiro.sms	sms-htgdb-homebrew
+96d48abc91a7d4981567186e78596a8b	New Duel WIP2.sms	sms-htgdb-homebrew
+880815f8e899055e536b3a987c92855e	Picross v1.01.sms	sms-htgdb-homebrew
+cbf70d1412b9e95c3b8eae02f8905bb4	Platform Explorer (PD) v3.0 SteveProXNA.sms	sms-htgdb-homebrew
+adb21699ba64cf19920f79fb0e87a124	Pong Master (PD) v1 Haroldo O. Pinheiro.sms	sms-htgdb-homebrew
+d94a521e0cd6b0e2ef037693d4e2048b	Pong Master 4k (PD) Haroldo O. Pinheiro.sms	sms-htgdb-homebrew
+e781d74a97c71185ce0bbfa54ef6289d	Pong v0.4.sms	sms-htgdb-homebrew
+894ae4878068de10b1796f6d985154a5	Porkpolis v1.0.sms	sms-htgdb-homebrew
+6d31132357dca95ea99221b909b7bfcb	Positorb (PD) OrangeRevolt.sms	sms-htgdb-homebrew
+60d730773511345c12f4237fba7de002	Prisonnier II (PD) Offgame.sms	sms-htgdb-homebrew
+e79c3e900eec229ffc8ca8870af174e0	Racer (Easter) (PD) Chris Read.sms	sms-htgdb-homebrew
+53c0b6029da6a0a66f90ee0181fa1b43	Racer 2.0 (Rebooted) (PD) Chris Read.sms	sms-htgdb-homebrew
+e39681fa71c8bb1ce2710e111e58ddb3	Racer v1.12 Easter Edition.sms	sms-htgdb-homebrew
+370ca6daf4dd0eeb7a7c7e13c2c2a4ea	Racer v1.12.sms	sms-htgdb-homebrew
+9c0b15e19bdc0c52c325e23658465ced	Rental Car v0.06.sms	sms-htgdb-homebrew
+332a975dc5d596e55b956ce20e6368d9	River Strike (PD) v0.04a Haroldo O. Pinheiro.sms	sms-htgdb-homebrew
+8e9b2a4956b3e420f9be8d83431f1429	Scope (Light Gun) 09172016 RELEASE002.sms	sms-htgdb-homebrew
+e99232d348b290e7bee1b2df18be67a3	Shooting Stars Light Gun (PD) v1.01.sms	sms-htgdb-homebrew
+d0381f20ac00a6163789ff8701bc19aa	Silver Valley (PD) Final MIKGAMES eruiz00.sms	sms-htgdb-homebrew
+ea829c4a6e9c4f05362979c9b1f3d7be	Simpsons Trivia (PD) v1.02 SteveProXNA.sms	sms-htgdb-homebrew
+d9daa7698fabee2712dcde00e7d48ae6	Ski Master v1.0.1.sms	sms-htgdb-homebrew
+dc80275025a8fef8f20defd3a1bc16ec	SMS Chip-8 (PD) v1.11 Maxim.sms	sms-htgdb-homebrew
+5c60c0c536a409d604e9bd8575626961	Snail2 NTSC v1.02.sms	sms-htgdb-homebrew
+5de9ac0bee8b66d590e4ae3503b36053	Soduko v0.2.sms	sms-htgdb-homebrew
+95ad9b4d72b8caca575dc2d72ec3bc42	Soko Master v1.0.sms	sms-htgdb-homebrew
+287c73df22264483efb3434b7d58908a	Sonic 1 FM (FM Sound) Team Valley Bell.sms	sms-htgdb-homebrew
+64c5e8fd0f981aac62f8505b740378ec	Tetris Tetracycline (PD) v4 Nicolas Warren.sms	sms-htgdb-homebrew
+0be738c12214ea0a4e240fbe75c62271	The Banketh (PD) Alpha 0.05 Diskover.sms	sms-htgdb-homebrew
+c896c1532e56d55623e44c3285365f58	Tototek Menu Boot - SG-1000 Mode by Chris Covell (PD).sms	sms-htgdb-homebrew
+5124eedb9505a4d589c794c75bdb8295	Tototek Menu Boot - SMS Mode by Chris Covell (PD).sms	sms-htgdb-homebrew
+6847762927a7a7b54893e4b0229b5aa8	Versus Pong (PD) v1.02.sms	sms-htgdb-homebrew
+b2536fd1edf088aa2ea5fb6d3db28e85	VG-Fighter v1.0.sms	sms-htgdb-homebrew
+15a2811d3442f80240ce46f17e1cff8d	Wah Munchers (PD) R2 JoppyFur.sms	sms-htgdb-homebrew
+ce73f15e93eb644b5044794a0d068893	Waimanu Scary Monsters Saga (PD).sms	sms-htgdb-homebrew
+7d95d302d5d5029d402e51e359d25a89	Weka Invaders (PD) Disjointed Studio 2017-12-02.sms	sms-htgdb-homebrew
+6c14f25c97d82d8d10a2e5b8128b01a2	Wing Warriors (PD) Kitmaker, Fran Matsuaka.sms	sms-htgdb-homebrew
+9be253a3586578fe0f98e274ad9071c8	XBill (PD) nitrofurano 201806021536.sms	sms-htgdb-homebrew
+7386d61abd4ec78f39b51e4152388e52	YM2612 Live Player (PD) 12-2016 K-Storm.sms	sms-htgdb-homebrew
+3d246f7918abc378d0150ccb5e22ecae	Yum! (PD) Chris Read.sms	sms-htgdb-homebrew
+312fa6725270a0d091407cf856f09564	Zombi Terror v1.01.sms	sms-htgdb-homebrew
+c1667608084bfea2ca59b392dc97dc25	#gscept Intro by blindio (PD).sms	sms-htgdb-homebrew-demos
+6a6432a9e529a066f89db3f0b75dadb7	Bacachase (PD) 201610252045 nitrofurano.sms	sms-htgdb-homebrew-demos
+bce1783f0dff0476ba478ca70a460b07	Bad Apple Demo 3D Full Length (PD) v7 gligli.sms	sms-htgdb-homebrew-demos
+0fefee6dfedb2656e6970e5883bf5145	Bad Apple SMS (PD) v1 psidum, calindro, RushJet1, Sim1.sms	sms-htgdb-homebrew-demos
+ad112e000120b2d2f31bd49b009c818b	Be No Sqr Demo (PD) v1.01 psidum.sms	sms-htgdb-homebrew-demos
+cbfcf7cd0c2905c66a99f557ca99e195	Canyon Racer (PD) v0.01a Haroldo O. Pinheiro.sms	sms-htgdb-homebrew-demos
+c1a479065bc31e8681a8530118bdf1f7	CIMMERIAN Demo (PD v1.02 ichigobankai.sms	sms-htgdb-homebrew-demos
+dbae9e043ce19985b61ab1a772e3cfb4	Code 38 - Volume I (PD).sms	sms-htgdb-homebrew-demos
+2b5acc275389b2cfffe4f2f405be8474	Cory Arcangel's Super Mario Clouds 2014-8-6.sms	sms-htgdb-homebrew-demos
+32b837e90bace278d60e31d5f1a950d9	Dating Sim (PD) v0.02 haroldoop.sms	sms-htgdb-homebrew-demos
+d983977c009752fc6f5e02e71515b620	Driar (V0.05) by fx and ejdolf (PD).sms	sms-htgdb-homebrew-demos
+735d4045146a4e2b295862bbfbbc9008	Fri For Fransk! V1.02 by Marc Klemp (PD).sms	sms-htgdb-homebrew-demos
+3f980717f3815ca80215e314806d3e77	GenesisProject Lambo Demo v1.0.sms	sms-htgdb-homebrew-demos
+1b6d18fec8f160f36dcf8e85f320efb1	h7n9 (PD) 201610241935 nitrofurano.sms	sms-htgdb-homebrew-demos
+6784cb7a46f80ba53afbda9a4d27db47	Happy Looser by Zoop (PD).sms	sms-htgdb-homebrew-demos
+0e1756403d1fb7639a983eb1ce67fe60	Junior Senior Move Your Feet FMV (PD).sms	sms-htgdb-homebrew-demos
+6ecf88c492a2ad8fe70215da69f48268	KATE Mod Demo (PD) v0.18e RETICA studio.sms	sms-htgdb-homebrew-demos
+d736dc90807bea45e2dc7aa3ff2e8be9	Mecha 8 Demo (PD) Iscar Toledo 3-27-2017.sms	sms-htgdb-homebrew-demos
+a852951a8b7c9a153017499a2c4aa729	Nine Pixels by Nicolas Warren (PD).sms	sms-htgdb-homebrew-demos
+a81b60867a06c213419f7404dd1d0251	Paws 32K Intro by An!mal (PD).sms	sms-htgdb-homebrew-demos
+0d78f2c984547025bfc96b73d91bf35f	Pico 8 Demo (PD) v0.02e RETRICA studio.sms	sms-htgdb-homebrew-demos
+00ca53c2f6b5cba8cc9c3ae18fab0c7d	Pole Position SG-1000 (PD) v18b nitrofurano.sms	sms-htgdb-homebrew-demos
+f1b88fc5cf5e386299963bbf81e501ae	RehaShMS NTSC v6 DEMO.sms	sms-htgdb-homebrew-demos
+b21501b586438cd20a7358338f67b678	RetroCopy Music Test v1.0.sms	sms-htgdb-homebrew-demos
+7e81bb367778d9c50460ef07a8b89477	Road Blaster FMV (PD) v0.01.sms	sms-htgdb-homebrew-demos
+d0655490192f908f8c29238e3b45a613	Robbyie v0.999 (PD).sms	sms-htgdb-homebrew-demos
+60b8edb10321ed656bd5cae80064911a	SALY V1.00 by Marc Klemp (PD).sms	sms-htgdb-homebrew-demos
+def740c2f6f8bfa8626cea411cf500ce	Sega Tween (3D) by Ben Ryves (PD).sms	sms-htgdb-homebrew-demos
+9f1b5eeda4c059268e1f3b0800c3bf13	Sega Tween (Normal) by Ben Ryves (PD).sms	sms-htgdb-homebrew-demos
+d3f34efb8174eda427d01382ceb6e3a9	SegaSlide by FluBBa (PD).sms	sms-htgdb-homebrew-demos
+211d32cdf3fff06f44b2c7c7c2d5e2dd	Shinobi SE Demo (PD) maxxfarras 2008-10.sms	sms-htgdb-homebrew-demos
+d2b30058a58facaa437329c13679c788	SMS 3D Glasses Demo (PD) Chris Covell.sms	sms-htgdb-homebrew-demos
+34b91616e14e851ba134e713bf069baf	SMS Cast - A Tribute To Loose Logic (PD).sms	sms-htgdb-homebrew-demos
+5f9f6f7c8942982991cbceb2c2a04d9b	SMS FMV Demonstration (96) (1.00).sms	sms-htgdb-homebrew-demos
+cc6851dd6574da034efe86f225834f80	SMS Power Demo Build 31 by Zoop (PD).sms	sms-htgdb-homebrew-demos
+17b699cf622806b6eff786af9e102eec	SMS Power's 7th Anniversary Intro V1.03 by Nicolas Warren (PD).sms	sms-htgdb-homebrew-demos
+0a526091fc92c4e60c38c6e5100abc56	Space Oddity Demo by Tetsujin (PD).sms	sms-htgdb-homebrew-demos
+9761fe2777797a567c86a83fb876732f	Space Oddity V.23 by Proppy & Tet (PD).sms	sms-htgdb-homebrew-demos
+e27ea78cffd4ab646cc72597fdc2b8db	SpaceHawks - Amstrad Port (PD) v0.1 KanedaFR.sms	sms-htgdb-homebrew-demos
+88b613e6b0fe84b5b6c77d3e3caa9d9b	Sprite Multiplex Demo (03012005) by Charles MacDonald (PD).sms	sms-htgdb-homebrew-demos
+69c340435bc55ca3c955a64bd67857d9	Sword Strike (PD) v001 dragonfeet.sms	sms-htgdb-homebrew-demos
+b4c8fc730a4cec86a0c896cfd5ad2716	Twin Maze (PD) v0.01 haroldoop.sms	sms-htgdb-homebrew-demos
+a74571b7a085b3849e2d2952c857919e	Ultima III V2006-05-13prealpha (PD).sms	sms-htgdb-homebrew-demos
+f69aa1ad31ad7b6ce52ee6dc8f581349	Unite Centrale de Huit Bits by Comic Bakery (PD).sms	sms-htgdb-homebrew-demos
+933770b934e2f4eb2b6e3918f0955d40	Cave Dude (Prototype).sms	sms-htgdb-prototypes
+ba1b60b6d1fecf87e00cf0f4a2f19f54	Choplifter (Japan) (Proto).sms	sms-htgdb-prototypes
+bb448ca5ce1ec7d86636c6571d6e94cb	DINOBASHER - Starring Bignose the Caveman (Europe) (Proto).sms	sms-htgdb-prototypes
+c68b86706784801eff53a4ca4500ff21	Excellent Dizzy Collection, The (Europe) (En,Fr,De,Es,It) (Proto).sms	sms-htgdb-prototypes
+840ba96cf77b465d3d0d389dac7861d7	Game de Check! Koutsuu Anzen (Japan) (Proto).sms	sms-htgdb-prototypes
+7a07e3e59f51b620d8c51bef468d4df5	Hook (Europe) (Proto).sms	sms-htgdb-prototypes
+d594821486699f366d385f74162be1c7	Indiana Jones and the Last Crusade (USA) (Proto).sms	sms-htgdb-prototypes
+3da5f5122f3d94360de61bcb8478e169	Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04).sms	sms-htgdb-prototypes
+3d847bf62567026be23512961a578063	NBA Jam (Europe) (Proto).sms	sms-htgdb-prototypes
+0ae250702d273bcdc65b24e9e12ee0c4	Pat Riley Basketball (USA) (Proto).sms	sms-htgdb-prototypes
+5919b101624d4710a10825c34e753ba2	Sonic's Edusoft (Unknown) (Proto).sms	sms-htgdb-prototypes
+86112141e8f1a51c166505868e4b1e8f	Street Battle (USA) (Proto) (Unl).sms	sms-htgdb-prototypes
+5528631a82d25d4eb8f0e9014fd6360c	Super Basketball (USA) (Demo).sms	sms-htgdb-prototypes
+3b0b80cef02a15a7ef09f54eb22282a7	Teddy Boy Blues (Japan) (Proto) (Ep-MyCard).sms	sms-htgdb-prototypes
+3d9a8d5c2d6d3f8ff63a8f7c77ffa983	Alex Kidd in Miracle World (USA, Europe).sms	sms-htgdb-revisions
+bd8016f2dccd89de716918da79359ff6	Alex Kidd in Miracle World (World) (Ja) (Sega Ages).sms	sms-htgdb-revisions
+89da0a1c14b660741680104024aa5942	Alex Kidd in Miracle World (World) (Sega Ages).sms	sms-htgdb-revisions
+0feb52e9b0a8cd378fb38902eb4b4100	Asterix (Europe, Brazil) (En,Fr).sms	sms-htgdb-revisions
+e9b4b92bc29ca8fbe9978da6720bd1eb	Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En).sms	sms-htgdb-revisions
+de328cde27324c8d591f740db0cb2866	E-SWAT (USA, Europe, Brazil) (En).sms	sms-htgdb-revisions
+9d10a4032eb53337b08c9a709144799e	F-16 Fighting Falcon (USA).sms	sms-htgdb-revisions
+2a0717f014b2fd99decd92308175658f	Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv).sms	sms-htgdb-revisions
+14c59604768b33175362cc592cb75ead	Phantasy Star (Japan) (Virtual Console).sms	sms-htgdb-revisions
+5ba9114edea5deb5282fd9ad7d4b2d62	Phantasy Star (USA, Europe).sms	sms-htgdb-revisions
+1777bf6df3331e2391835ed62a037de8	Phantasy Star (World) (Ja) (Sega Ages).sms	sms-htgdb-revisions
+25bb6453a87521df1ea8d1bce4189da0	Phantasy Star (World) (Sega Ages).sms	sms-htgdb-revisions
+88a19d1f5d7ba2ba1f68fd83602c6eb7	Slap Shot (Europe).sms	sms-htgdb-revisions
+bf3b7a41e7da9de23416473a33c6ac2b	Sonic The Hedgehog 2 (Europe, Brazil) (En).sms	sms-htgdb-revisions
+ccbb21ff7484d5569bc823168edc8628	Speedball (Europe).sms	sms-htgdb-revisions
+1f1ce1d74c416f2b85cc3f24d316f9e3	Xenon 2 - Megablast (Europe).sms	sms-htgdb-revisions
+a3818e4e501b3cfb8423aeb024b795e4	Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En) (Demo).sms	sms-htgdb-samples
+d2f26a0eb02c78b2505846ba5de90889	Cyborg Hunter (USA, Europe, Brazil) (En) (Sample) (1988-09-12).sms	sms-htgdb-samples
+adcd19e4f83a473bc12aa2843ead8548	Ghouls'n Ghosts (USA, Europe, Brazil) (En) (Demo).sms	sms-htgdb-samples
+433fe61368cdf79c1b66cc84d0936599	James 'Buster' Douglas Knockout Boxing (USA) (Sample).sms	sms-htgdb-samples
+6c3d54e1338112fd39418ca8da672994	Missile Defense 3-D (USA, Europe, Brazil) (En) (Sample).sms	sms-htgdb-samples
+86c609b630c8bc018c8ebae77546c3c1	Promocao Especial M. System III Compact (Brazil) (Sample).sms	sms-htgdb-samples
+7f6359544ca157491960e4a0136a0f42	Slap Shot (Europe) (Sample).sms	sms-htgdb-samples
+36d936d25715103a4f8388deb4a1fed3	Strider (USA, Europe, Brazil) (En) (Demo).sms	sms-htgdb-samples
+3ae0e6e3d2b81c3112cf556d1dfad7c2	World Cup Italia '90 (USA) (Demo).sms	sms-htgdb-samples
+1fb26de7fe25803778cdc0391c7fb66f	Ys - The Vanished Omens (USA, Europe) (Ja) (Demo).sms	sms-htgdb-samples
+7106975bfd0fa9bd8baefd0a98df5528	64 Color Palette Test (PD).sms	sms-htgdb-tools-service-test-carts
+5142a872da047809a9e121563a7f7cbf	Color & Switch Test (Japan) (En) (Proto).sms	sms-htgdb-tools-service-test-carts
+eeff8e12e92aeee0a356f543a179a293	Controllers Test - SMS & Genesis (PD) v1 sverx 2018-01-30.sms	sms-htgdb-tools-service-test-carts
+41d2e2c0c0edfccf76fa1c3e38bc1cf2	Empty Slot to test SMS BIOS splash screen (PD).sms	sms-htgdb-tools-service-test-carts
+cde34c72b74e2e59e546db8d69f13cde	Interrupt Test (PD).sms	sms-htgdb-tools-service-test-carts
+d0343b176518391a9d7493dac7c8c2a9	Line Interrupt Test #1 (PD) Charles MacDonald.sms	sms-htgdb-tools-service-test-carts
+53f470aa1c9c24970db0bbd23f2f7cc3	Sega Graphic Board (USA) (v2.0) (Proto).sms	sms-htgdb-tools-service-test-carts
+f427238b9fec7b05e1e72a28529789d5	Sega Mark III BG Test v0.01 (PD).sms	sms-htgdb-tools-service-test-carts
+8ba743710d8a8dcd70a4d7d557dc6052	Sega Mark III Port Test v0.1 (PD).sms	sms-htgdb-tools-service-test-carts
+bd136047c2c13a13ea32d1ac48d51c82	SMS Boot Loader 0.9 (PD).sms	sms-htgdb-tools-service-test-carts
+b90d932d28f185c1b6d90179785ce6a8	SMS FM Tool - YM2413 (PD) v1 Chris Covell.sms	sms-htgdb-tools-service-test-carts
+e9ee30498091bf234527ca8845c211d0	SMS Genesis 6 Button Controller Test by Charles MacDonald (PD).sms	sms-htgdb-tools-service-test-carts
+cae29b23f00a0fa8e642337581a2b4d0	SMS Paging PFR Detect (PD) v2 Eric R. Quinn.sms	sms-htgdb-tools-service-test-carts
+a62c682e20b9447155ca85297d219563	SMS Palette Tool v1.0.sms	sms-htgdb-tools-service-test-carts
+8a0d188d7cf4951da197f999ff3bc817	SMS Sound Test (PD) v1.1 Nicolas Warren.sms	sms-htgdb-tools-service-test-carts
+23b201b6e19c75ae27638c9a2ddcd54a	SMS Sprite Test (PD).sms	sms-htgdb-tools-service-test-carts
+5ecb0d6abcb9d025cf012ee69f0fb576	SMS Test Suite (PD) v0.32 sverx.sms	sms-htgdb-tools-service-test-carts
+1e2e0f1dd389fa654f3a9cf55a26876d	SMS V Counter Test Program (PD) Charles MacDonald.sms	sms-htgdb-tools-service-test-carts
+048e050beb33d4c3bb3fe237f80629ee	SMS VGM Player (PD) v0.45 Maxim.sms	sms-htgdb-tools-service-test-carts
+77974c0d82d6401688af3dd3c11c7fa5	ZEXALL Z-80 Instruction Excerciser (PD) v0.12SDSC Maxim, Eric Quinn.sms	sms-htgdb-tools-service-test-carts
+81ada71f3f4c66ddb4a713aa7cc1b63e	ZEXALL Z-80 Instruction Excerciser (PD) v0.12SVPD Maxim, Eric Quinn.sms	sms-htgdb-tools-service-test-carts
+91b4d4db66e30f2b5ce7f7c2541ee897	[BIOS] Alex Kidd in Miracle World (BIOS Version) (World) (Sega Ages).sms	sms-htgdb-tools-service-test-carts-bios
+e49e63328c78fe3d24ae32bf903583e0	[BIOS] Alex Kidd in Miracle World (Korea) (Unl).sms	sms-htgdb-tools-service-test-carts-bios
+e8b26871629b938887757a64798df6dc	[BIOS] Alex Kidd in Miracle World (USA, Europe).sms	sms-htgdb-tools-service-test-carts-bios
+5cd8f62cd8786af0226e6d2248279338	[BIOS] Hang On (USA, Europe) (v3.4).sms	sms-htgdb-tools-service-test-carts-bios
+02cbb2e348945c9ac41e37502a58ca76	[BIOS] Hang On & Safari Hunt (USA, Europe, Brazil) (En) (v2.4).sms	sms-htgdb-tools-service-test-carts-bios
+08b81aa6be18b92daef1b875deecf824	[BIOS] Missile Defense 3-D (USA, Europe) (v4.4).sms	sms-htgdb-tools-service-test-carts-bios
+bdb34f2c471e5d0c358eeec621f9d029	[BIOS] Sega Master System (Europe) (v2.0).sms	sms-htgdb-tools-service-test-carts-bios
+24a519c53f67b00640d0048ef7089105	[BIOS] Sega Master System (Japan) (v2.1).sms	sms-htgdb-tools-service-test-carts-bios
+840481177270d5642a14ca71ee72844c	[BIOS] Sega Master System (USA, Europe) (v1.3).sms	sms-htgdb-tools-service-test-carts-bios
+3153447d155fb8bfc66a4d1c41e399b9	[BIOS] Sega Master System (USA) (M404) (Proto).sms	sms-htgdb-tools-service-test-carts-bios
+b264bef9bda264ffe83afcebac21b81f	[BIOS] Sega Master System (USA) (Store Display Unit).sms	sms-htgdb-tools-service-test-carts-bios
+626b3453613e43d5a47908a8944ba583	[BIOS] Sega Master System (USA) (v1.0) (Proto).sms	sms-htgdb-tools-service-test-carts-bios
+4187d96beaf36385e681a3cf3bd1663d	[BIOS] Sonic The Hedgehog (Europe).sms	sms-htgdb-tools-service-test-carts-bios
+512ca1f9e7022c4baca72ffd61f97b4a	Alex Kidd in High Tech World (UE) [T+Ger1.00_Star-trans].sms	sms-htgdb-translation-de
+26cc240cff34886d54681a5612a83643	Golden Axe Warrior (UE) [T+Ger0.82_Taurus].sms	sms-htgdb-translation-de
+3ee8b5b680da87c4b6fc448b0ba23d21	Golvellius - Valley of Doom (UE) [T+Ger1.00_Star-trans].sms	sms-htgdb-translation-de
+3f00d2e790780b7045cd6d1527bfc2af	Ninja Gaiden (E) [T+Ger].sms	sms-htgdb-translation-de
+73f0e5f3be89b19ae2fcacc7e1fdcbed	Ninja Gaiden (Prototype) [T+Ger1.00_Star-trans].sms	sms-htgdb-translation-de
+738463530aecff089842bd1b52191142	Psychic World (E) [T+Ger1.00_Star-trans].sms	sms-htgdb-translation-de
+995d2dd0080347adc7f3a88b3853b463	Ultima IV - Quest of the Avatar (E) [T+Ger].sms	sms-htgdb-translation-de
+0a673f74561b9901703410c18e813c59	Ace of Aces (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+12b6a8df50b59f4d66d9745a05a92d2f	Action Fighter (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+e03f25097aa11b392d98a7b54901cf3d	Addams Family, The (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+c2f47a3a18e60f0198b00ed0bc53b74f	Aerial Assault (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+5b52508646e9615c5ea3551fb76b5a24	After Burner (W) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+4c51ccd5b82a92d216e326d3f8fc54ea	Air Rescue (EBK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+7860d18c861d784fdc3798b6c9de3967	Aladdin (EBK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+47db8b2906d75de53bab4f6c21181e99	Alex Kidd - BMX Trial (J) [T-Spa1.1v_Wave].sms	sms-htgdb-translation-en
+15afb646b63d85da7c0cd2964106f9e4	Alex Kidd - High Tech World (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+75563162be57ff96611a5f5c20eaa0c8	Alex Kidd - The Lost Stars (JUEBK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+8d3df8d20e5beb5682c44bc2e2da16fa	Alex Kidd in Miracle World (UEB) (V1.0) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+1c8cbeb09e8c0d2abe42c0838f8399f5	Alex Kidd in Miracle World (UEB) (v1.1) [T-Spa0.9v_jackic].sms	sms-htgdb-translation-en
+1f37b9cb35366dec83bf8fe222ee1bdd	Alex Kidd in Shinobi World (UEB) [T-Spa1.1v_Wave].sms	sms-htgdb-translation-en
+0439b53c83fc02cc64c4531fa7617c30	ALF (UB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+b5822c4be20aac821a61aab4927a13c2	Alien 3 (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+9f4b6c0a6def5ee67e29af09c8af65f7	Alien Storm (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+7df6fff11f52ad598999a0a5875d35e2	Alien Syndrome (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+008a78de7e53ef749188e49f86e7cfd6	Altered Beast (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+0111faf7d5e631be477730841b6eb255	Arcade Smash Hits (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+0328803f7d6e508feaca9fd12de72c24	Ariel - The Little Mermaid (B) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+0dd130eddf91a57be63231639e654791	Assault City (E) [T-Spa1.0v_Wave] (Pad Version) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+0ebf887fe4fa48f60ab9993be02321d6	Assault City (EB) (Light Phaser Version) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+7a54e04772ac18403ac6efdcb9fb734d	Astro Warrior (JUB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+d6a5eb72a30b61a4b28d7ac0f5c1d5cc	Aztec Adventure - The Golden Road to Paradise (JUE) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+951284d6359ccec666592e679b9a38c0	Back to the Future Part II (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+4772d181d151c64a99ef87e1110c76e9	Baku Baku Animals (B) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+a667579f5df9292d2198f4f7d0372572	Bank Panic [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+731441362945e4fed5088000047a0b50	Basket Ball Nightmare (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+895769cc4809e44363b8bd9af0baebcd	Batman Returns (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+28fa1d8d87c47201b46332d9e13dc0b0	Battle Out Run (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+c15f7efb07d7df0b84fa7bb0fa992913	Battlemaniacs (B) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+bb3b9ac651fb382f73460273091d437f	Black Belt - Hokuto no Ken (J) T+Eng v1 phalanX, Alt Title.sms	sms-htgdb-translation-en
+5b97fbe8677a66f73862f4bd73139706	Black Belt - Hokuto no Ken (J) T+Eng v1 phalanX, Title Translated.sms	sms-htgdb-translation-en
+f0b348ca5d23fcfde830dc7a1ade3c3b	Black Belt - Hokuto no Ken (J) T+Eng v1 phalanX.sms	sms-htgdb-translation-en
+9fd52dcc15dc1c84d053efe4ea8c0bf2	Black Belt (UE) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+2736d5db7af1529186d2c377e9966ecf	Bomber Raid (JUE) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+d11689d60b61d2436fc2b392d2f8d2c5	Bonanza Bros (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+ff52736e1d0a352d715d65e986eaa33d	Bonkers Wax Up! (B) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+8a0669212f597c3bf130ca2ac7b16e2a	Bram Stoker's Dracula (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+01617fddd6213e893cb4e01cca64dd46	Bubble Bobble (EBK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+d194089f4cd5cf7921614442f0d65e84	Buggy Run (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+26cc50fec2804781898d6170bbb6e269	Captain Silver (U) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+d22dc69835b7cc71c53ace4a91131955	Casino Games (UE) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+84e330ed7d2e415fe709861163f0de5e	Castle of Illusion Starring Mickey Mouse (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+162e945571a8c460ede4b2bfc5ec8057	Choplifter (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+94b85a23d079714a05c8e7091714fef8	Chuck Rock (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+e107a164554a0e3e0831780171ad29d3	Chuck Rock II - Son of Chuck (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+5916a49391aae7791f7ee2a58e722083	Cloud Master (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+a12de40417db3b4897d0075132f55d79	Columns (UEBK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+752833c607d310a59cd02a9bed85c94a	Comical Machine Gun Joe (J) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+ace09050e6eedca0adaa5697947b5b2f	Cool Spot (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+c6b85293dd743b81728ed8002b3bdae7	Cyber Shinobi, The (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+0609ae2151e5f9d4cf88411646d16289	Cyborg Hunter (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+e440e71f2183dc738e1434bad3effa27	Danan - The Jungle Fighter (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+dfc6802d299bf5012c0d2b006410246f	Dead Angle (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+9951fd5388125fae2217d92149f6a5d8	Deep Duck Trouble Starring Donald Duck (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+9c35817a1a2fbce31340be6e3d88c680	Dick Tracy (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+c6c31a30475d63be1d31c7fd06ff6e50	Dinobasher Starring Bignose the Caveman (E) (Prototype) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+a00af6a66aab3469461388b1a008338e	Double Dragon (JUEBK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+b2b20021c2411e7a0300f61315a5145c	Double Hawk (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+1ec3d37f7cd2466f81d8180ff9816fb5	Dragon - The Bruce Lee Story (E) [T-[T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+8b17a038b5c4d5a67527165e22424096	Dragon Crystal (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+9568175c12e9726f1dfd01e83f455264	Dynamite Headdy (B) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+26d5a9e557f46a3e0c58c272b2487bb3	E-SWAT - City Under Siege (UE) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+1cd5f786e46b1bb7583889851f878bfe	Earthworm Jim (B) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+1076b2802617d7ab87c5dd15d4730e08	Ecco the Dolphin - Tides of Time (B) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+4ce5c749b2710698a97d851552b5a404	Ecco the Dolphin (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+d009ba466ff0fc5559fc217cb7577991	Enduro Racer (J) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+218e91c7253db837e603c8b790ae1223	Enduro Racer (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+a5499507eba341bb8444ea6748af3a43	Fantasy Zone - The Maze (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+f22ce9564b0d2382014d1c7db02a1cb9	Fantasy Zone (JUE) (V1.2) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+df2dab8410cf376696f1c323985a6570	Fantasy Zone II - The Tears of Opa-Opa (UE) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+7fecf9bf9b71309aa64b4caec20fa6bd	Final Bubble Bobble (J) [T+Spa100_pkt].sms	sms-htgdb-translation-en
+b1fdee70f3fce9638e1f5292481783f9	Final Bubble Bobble (J) T+Eng v1 rainwarrior.sms	sms-htgdb-translation-en
+306d1533e2926bb3672460f03686ce6d	Fire & Forget II (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+4550c9497bbc796c9446878904369a5a	Fire & Ice (B) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+607e96e6d48c90f4d322c068ba58edc0	Flash, The (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+ecc549cf582be463ea2eeb2ed4746ae3	Forgotten Worlds (EBK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+8d6f0fa9c76c1415d5045e4ba99cc240	Fushigi no Oshiro Pit Pot (J) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+ac45f044bc6394baf70f39e0d5020cfa	Gain Ground (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+7c7c8d76c8b720f7be597b311f811c9b	Gauntlet (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+901edc83d8cc9d6d82a9e61d151413e4	George Foreman's KO Boxing (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+12b7bd1209b8bdca022904012211c08b	Ghost House (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+c934c26596b5a9537e594d4ba5104c1a	Ghostbusters (UEK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+cd25b6714d202e88cca80cd9ec13a1ec	Ghouls 'n Ghosts (UEBK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+a871ad23bd193320dc28542ca4f07498	Gokuaku Doumei Dump Matsumoto (J) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+e68090bfce73a12ec11a1f1d5c9fd3b9	Golden Axe (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+3cba40926806b8c51d9643965b8eae9c	Golden Axe Warrior (UE) [T+Spa100_pkt].sms	sms-htgdb-translation-en
+58c754177f7bce0e657619907652f12b	Golden Axe Warrior (UEB) [T-Spa1.0v_jackic].sms	sms-htgdb-translation-en
+6d88ce434e5afb53a033babc0d90aa32	Golden Axe Warrior (UEB) [T-Spa1.0v_Pikachumanson].sms	sms-htgdb-translation-en
+19abe9ff0faf8b0a83482c40ead73dc9	Golvellius - Valley of Doom (UE) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+822bd792419c7b17969b719c1ed07408	GP Rider (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+b8192dbeec3ad9f207b20fd69bedaf6b	Great Basketball (JUEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+c8dcb77a79392b7e059857af539bd487	Hang-On (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+e953cd49604ab46c823f2a0cd0da41d6	Heavyweight Champ (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+07984dd57216ecd75e490681fa65f994	Heroes of the Lance (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+5679e2bf678b1a2a7602e050676b2f9a	High School! Kimengumi (J) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+471e80fed601261667b1fc6242396239	High School! Kimengumi (J) [T+Eng].sms	sms-htgdb-translation-en
+99a531d32667dcae557ef3d1d08ac801	Hokuto no Ken (J) [T-Spa1.0v_jackic].sms	sms-htgdb-translation-en
+9b4bd478d931af73279863396c837416	Hokuto no Ken (J) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+7bcbdc84adeb7090e7c10fe9381cec34	Home Alone (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+c6f964ef6721fc0f7d33b66c9ea6d433	Hook (Prototype) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+42d64cea47bd09abd5e6a0478f52c4b2	Impossible Mission (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+70d8bae3efd47c064f74f6f2a9c39e3e	Incredible Crash Dummies, The (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+683ddb3b1e3fe1a65065ec8edfbc0579	Incredible Hulk, The (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+c3cc641938a6e96da02ebd9023e50834	Indiana Jones and the Last Crusade (U) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+02200120827c677e0eb4001226a5d510	James 'Buster' Douglas Knockout Boxing (U) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+cea817249f7c69d2ac0777806b35634f	James Bond 007 - The Duel (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+634ca364a787a123933b75f8e97549fa	Jungle Book, The (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+4d54bc70bbb6a5f504078c39b0f028e9	Jurassic Park (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+85d28215d6993e7f9fd4baab4e8ace99	Kenseiden (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+a890ca5ab0b99046b4ff0f620e6c2078	Krusty's Fun House (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+f2fc285a5f9816817e93ae6c718b896c	Kung Fu Kid (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+9b23f18a8200582eabf1e84777ff48bc	Laser Ghost (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+5f9b61cd2622ea997f09bcd588311e08	Legend of Illusion Starring Mickey Mouse (B) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+8472e545ed82528484eaa2672e4966ee	Legendary Warrior Rygar - Argos no Juujiken (J) T+Eng1.0 Psyklax.sms	sms-htgdb-translation-en
+32c755452b637ce69f7101ee45f0b4c8	Lemmings (EBK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+ed7b41e52215de2937a51f76b20a55be	Line of Fire (EBK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+6abd485f35b1f76a2e0d2dbcf4702ee4	Lion King, The (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+df0b5706353cfecf61f3d792671ba3b4	Lord of the Sword (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+05976c6418bbc668f0a5eef20722f54e	Lucky Dime Caper, The - Starring Donald Duck (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+8be1d657ffe7ff9784057ae0ed3f3510	Marble Madness (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+26abbeec8a3c1e92b194b035628b4af5	Marble Madness (UE) [T+Spa100_sinister].sms	sms-htgdb-translation-en
+f6c5c4fe8df657757f329209b1f7d0c2	Master of Darkness (EB) [T-Spa1.2v_Wave].sms	sms-htgdb-translation-en
+96c2970418550b2bdb21a4401e01eaae	Masters of Combat (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+f94a51675ad0b43ec58282ca6efb0ca7	Megumi Rescue (J) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+459c2cf1e40f3a5419d9bd112c88accb	Mercs (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+13d77597ae59eae37b8d0d77a65c99f1	Michael Jackson's Moonwalker (UEBK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+b3ed291e97da21bab742c3ddab6341b5	Mick & Mack as The Global Gladiators (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+b2833acae7c1a7ddd8b847d8e2e492e2	Micro Machines (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+b6dc3a4a700764a27149a8d91ac1f6a9	Mortal Kombat (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+3b8b69e16a710fb1e5e1f02ed31aecd6	Mortal Kombat 3 (B) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+148fdb611361ef6ad78f84c002ac393b	Mortal Kombat II (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+1b2ecf66373f56fd04bb5a2743066305	Ms. Pac-Man (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+c568d44f310a13fe90de2bf774d1e8b6	My Hero (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+40185258940ad2d57d96de2c5b28de49	New Zealand Story, The (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+630615ed5ab5036d67614c23dc1e05d5	Ninja Gaiden (E) [T+Spa100_Pkt].sms	sms-htgdb-translation-en
+d1ea9c897613c7d26f34bf0c1c42a95d	Ninja Gaiden (EB) [T-Spa1.0v_Pikachumanson].sms	sms-htgdb-translation-en
+30a49f6ac1f8cdc28b065ca2b5c17c5f	Ninja Gaiden (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+6b6e68278ada1e1b2f62416743073c20	Ninja Gaiden (Prototype) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+c4bf06e3a31363186015d3ace79ae2c4	Ninja Gaiden (Prototype) [T+Spa100_Pkt].sms	sms-htgdb-translation-en
+e8b924c7563735235bb8c3f55cc07ddf	Ninja, The (UE) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+aa9d6093e7dc3bab3ed78cc8e4d4300d	Operation Wolf (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+e550670d8d8f8bb002ed7690320a869e	OutRun Europa (EB) [T+Spa1.1v_Wave].sms	sms-htgdb-translation-en
+88e3f200427bbaa0bc6ff74498f49f2d	Pac-Mania (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+5d4cd47d20a1041b59f61ca4d585a979	Paperboy (UB) (V1.1) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+d48a817b8e58a22b9cb327331a58e587	Parlour Games (UE) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+7668e4ba4c8ce44eea3f21d0a57a7c48	Penguin Land (UE) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+58330ef3d5271d0d67fc720ff3ac17d4	Phantasy Star (J) T+Eng v2.00 SMS Power!.sms	sms-htgdb-translation-en
+b017cca2ecf9a545b8eb833f5ec66de3	Phantasy Star (J) T+Eng v2.2 SMS Power!.sms	sms-htgdb-translation-en
+90bbd928df14f9e074bbd26c85c60314	Phantasy Star (J) T+Eng v2.2-CN vivify93.sms	sms-htgdb-translation-en
+8b89ba8eccb27e6fd11498f051919659	Phantasy Star CSI (J) v1.2 Vikfield + T+Eng v2.2 SMS Power!.sms	sms-htgdb-translation-en
+b399daba0821a4157d084daf2339d6d4	Phantasy Star CSI (J) v1.2 Vikfield + T+Eng v2.2-CN vivify93.sms	sms-htgdb-translation-en
+41b5a643771ab508feaf23c252654bee	Populous (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+fc5968d35b4eae3ae8bfbec8e675c85d	Power Strike (UEBK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+ff2b9d575c71818242e5b72ebcc87887	Power Strike II (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+5e5fb7077b5ca05cf1bfb37c82de0dbf	Predator 2 (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+c816c3180f6a04ec3b1a5164e93a249b	Prince of Persia (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+41cdaa47ec6a0d700ad373ac1a7dd199	Pro Wrestling (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+2482c29055d395ce61546d6f88ca7af0	Psychic World (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+f56fabdf25d7da67fa7547ac14a9036a	Psycho Fox (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+ea8d0e6fd9ec6db2c6c1d6b2e8066f17	Putt & Putter (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+ad153e4365eabcc7f1505bcfc1427357	Quartet (UE) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+caec9194e85c41c3926965d068e4d55f	R-Type (JUEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+cccadcc73b7b0c0145b10dfda63d231b	R.C. Grand Prix (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+3e4dc83e043590970a018dc4127d55f7	Rainbow Islands (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+36dbe4259eb4097627139c9f25f0e461	Rambo - First Blood Part 2 (U) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+a6863d0bbb1666c92c6fdfb5a61ec9dc	Rampage (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+7bf697da641bbee5744cae11586a8022	Rastan (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+1980f7cea7a6dae39201bcf60413270e	Ren & Stimpy - Quest for the Shaven Yak, The (B) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+209b9fb7220475579cb7bcfb06956beb	Renegade (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+5fd94f2934a4e9543003c3239b10be1b	Rescue Mission (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+bea007c07e9ec8fa1bfeac94751e7bcd	Road Rash (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+88c30297f4b44c8ec6fb0ce60f757fa1	Robocop 3 (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+2e3303facc0b76640c7849adb2ada04c	Robocop versus The Terminator (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+58f680d28c7d5baa13e3a12e355f6ff4	Rocky (W) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+21b7cb69815bdaa64d07f64f2dbf00e5	Running Battle (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+cb9dfca3b4a72130c59abdfae05ecc49	Sagaia (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+b685f15bff9abe88d65e63c072cfa6d7	Scramble Spirits (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+97d4f416e15e7533e18664ccc8cd4890	Sega Chess (E) [T+Spa].sms	sms-htgdb-translation-en
+f2474a52480b4f57e500df43c5b9ff4c	Sega Chess (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+38a80996c5ba00c8f4822e89a34dd35b	Sensible Soccer (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+3e0ce1733097cdeed0b7689cbc8c2f7f	Shadow of the Beast (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+df5c5bb1c62c43c7cb234cf1786afb88	Shanghai (UE) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+ef37369473508ade859f75ce35fa407d	Shinobi (UEBK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+b73966251e65fad862e680ff5e90371e	Simpsons, The - Bart vs. the Space Mutants (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+834646efaee9f253b6fd7d7558e5677b	Simpsons, The - Bart vs. the World (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+7e8b1082254d32db86e66aec82c13a1a	Solomon no Kagi - Oujo Rihita no Namida (J) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+7fe99d144e6962dcc32f0a7012c01f50	Solomon no Kagi - Oujo Rihita no Namida (J) T+Eng v1 Ichigobankai.sms	sms-htgdb-translation-en
+e13eec42c7e722935a44c01e16eab941	Sonic Chaos (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+88bf360a2df488539c5c2c088b7e8d5d	Sonic The Hedgehog (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+ff50533a309e9ba299ef319cf4d2b629	Sonic The Hedgehog 2 (EBK) (V2.2) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+7f9a8afbc5c178bed087dfc04f9e7624	Space Gun (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+6cf59e0796f75b27d017f430a08a12cc	Spellcaster (UE) [T-Spa0.99v_jackic].sms	sms-htgdb-translation-en
+92650461e4b4fb3c887e0c9f97ae0115	Spider-Man vs. the Kingpin (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+4e982c1b5625919e688c4454dfcdc0d3	Spy vs. Spy (UE) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+87357229d77a4c796b57f45c243456d1	Story of Mio - Hoshi wo Sagasite... (J) T+Eng v1 filler, SSTranslations.sms	sms-htgdb-translation-en
+1e1c7e25c98d3e7cf2aa65467af64f83	Streets of Rage (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+e1dff7098c4c17de6dcd7774f8271f4b	Streets of Rage II (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+dec06bec3e4360afa1b99018c606b090	Strider (UEBK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+9e90f584a6544ac5d5ca27b60ca2e00d	Strider II (UB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+48292bced23c785ccee2617434db36b8	Submarine Attack (UE) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+5676d2860214cb49cc16547c2f591f3d	Sukeban Deka II - Shoujo Tekkamen Densetsu (J) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+5aab1adbbb642daa2ecbf6333e68807d	Sukeban Deka II - Shoujo Tekkamen Densetsu (J) T+Eng v1 enigmaopoeia, SSTranslations.sms	sms-htgdb-translation-en
+230c2def7d8bb6f82d827aa9cb08b763	Super Off-Road (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+f256a8f07182b3e7275e6aab1cdc9c7c	Super Racing (J) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+f70bfd7b15c550dc5fc2365a1303dac9	Super Smash TV (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+fa122e33345bece5077a3b3fb4c6113b	Super Space Invaders (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+c4b4633113145e2b6ccdf4ef131a5128	Super Tetris (Korea) (Unl) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+e6cc1ec39938b86ca7326bc93a18197b	Superman (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+eed516f57ba1235013b6e2bf77bedc64	T2 - The Arcade Game (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+f066d50ed5b0e58ea4e0a05f1325e5a3	Taz-Mania (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+166f7e3de912b33cb1d888be2ef520ab	Tecmo World Cup '93 (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+a0904eaf3c57de30440e79e075842cd7	Teddy Boy (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+c36784ab54ede2b0a96b578bd823dc41	Tennis Ace (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+e6c5d20ddffc5fbaacb179fc06505611	Terminator 2 - Judgment Day (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+7c826d50941c6c932a3690107d8aa114	Terminator, The (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+a4bddc83e8b7d61110eca85b016bd13d	Time Soldiers (UE) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+d74f4904242d18eb4dbdb22ea506ce58	Tom and Jerry - The Movie (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+982cea71fbb7ef75542bb956d69bce08	TransBot (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+64ceb89072f55079a5cd97b3d05920c3	Turma da Monica in The Rescue - Original Names (B) T+Eng micky 7-31-2017.sms	sms-htgdb-translation-en
+fd1c8989d5da6001155f69a2622e4d50	Vigilante (UEB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+82b34d12d0164e7c00b199242811421c	Wimbledon (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+c57372f0906070ab8b80b76ca0ce9a66	Wimbledon II (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+b0380132c5b62c7bf99ba188ed3a5a76	Wolf Child (EB) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+5e3fa0bda09eea7aa7a2ceabbd8254d4	Wonder Boy (UEB) (V1.1) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+78087cc27f8a96c736063c6fe20a0a65	Wonder Boy III - The Dragon's Trap (UEK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+4a641bf126d29a49a066477876065ff6	Wonder Boy in Monster Land (UE) [T-Spa1.0v_jackic].sms	sms-htgdb-translation-en
+09f19dd3d081043a14f67cea1d0ec832	Wonder Boy in Monster World (EK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+4c618dc618eb6cb693bb437956cc2d1c	Woody Pop - Shinjinrui no Block Kuzushi (J) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+fa970d6a6e3c0cf26d4eac03752ee27e	World Grand Prix (UBK) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+6a2a5e7eabd31792b946edc9e56ef44c	WWF Wrestlemania Steel Cage Challenge (U) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+dbd786887cc075eaac0d858643118e8c	Xenon 2 (E) (Virgin) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+4cde3ca76a7d35c5ed19e2f991b56b48	Zillion (U) (V1.1) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+bb8c82038d35e1745c2b7f5cdd184e0e	Zool (E) [T-Spa1.0v_Wave].sms	sms-htgdb-translation-en
+d3a1f27dff3a7fff120def2f776be894	Aladdin (E) [T+Fre_GenerationIX].sms	sms-htgdb-translation-fr
+f69a7b54835381e7a91333c4d78a51f2	Alex Kidd in Miracle World (UE) (V1.1) [T+Fre].sms	sms-htgdb-translation-fr
+295320f6e9f4b98b57ae65b5ff820b96	Alex Kidd in Shinobi World (UE) [T+Fre_Terminus].sms	sms-htgdb-translation-fr
+09ba1c15119bc326379355ca1ff2fca1	Bubble Bobble (E) [T+Fre].sms	sms-htgdb-translation-fr
+40fe5609f771ed41d2a1a20161ef920c	Castle of Illusion Starring Mickey Mouse (U) (V1.0) [T+Fre_terminus].sms	sms-htgdb-translation-fr
+babce6b56b77fccdecb08e7124ce453e	Cloud Master (UE) [T+Fre100].sms	sms-htgdb-translation-fr
+a30e22bc6ddda7bf1df37bd291011237	Cyber Shinobi (UE) [T+Fre].sms	sms-htgdb-translation-fr
+d104f53494a3d5847a1320faf38e8bc5	Cyborg Hunter (UE) [T+Fre_Terminus].sms	sms-htgdb-translation-fr
+7549459b9a5fc11cb2f0cb41c9866e33	Fantasy Zone (UE) [T+Fre_GIX].sms	sms-htgdb-translation-fr
+c5b4fb28b4cfbd506ae534c03c54f023	Golden Axe Warrior (UE) [T+Fre_Haruney].sms	sms-htgdb-translation-fr
+99a9e36cc366165351d5ebf3c9d99136	Golvellius - Valley of Doom (UE) [T+Fre_floflo].sms	sms-htgdb-translation-fr
+64218d035be5988fb5ef023b70955ac3	Kenseiden (UE) [T+Fre].sms	sms-htgdb-translation-fr
+0f0d6d3b67054cf9aba066e50fdf51e3	Lucky Dime Caper, The - Starring Donald Duck (E) [T+Fre_GIX].sms	sms-htgdb-translation-fr
+fbf32190f03a4d8fab64922929696987	Ninja Gaiden (E) [T+Fre_Terminus].sms	sms-htgdb-translation-fr
+e528cfe8a7518864d72161bcfcf0cf4d	Ninja Gaiden (Prototype) [T+Fre_Terminus].sms	sms-htgdb-translation-fr
+5a9d96a2bd25271b99e952fdc8c19c6b	Ninja Gaiden (Prototype) [T+Fre].sms	sms-htgdb-translation-fr
+7c432022fb0b73907f18b9f9769e2330	Operation Wolf (U) [T+Fre].sms	sms-htgdb-translation-fr
+1805d26ad40e196d3cd79566c9fc8b69	Phantasy Star (UE) (V1.3) [T+Fre_floflo].sms	sms-htgdb-translation-fr
+d733d69dd5360f3df606029054af047d	Psychic World (E) [T+Fre].sms	sms-htgdb-translation-fr
+d60b76f9e18342c013920a2a741e7f90	Psycho Fox (UE) [T+Fre_Terminus].sms	sms-htgdb-translation-fr
+28110d3027da306210a9d1fb41010bbf	Sonic The Hedgehog (UE) [T+Fre_Terminus].sms	sms-htgdb-translation-fr
+50d87627ad7acb59d453068faf6edf3d	Spellcaster (UE) [T+Fre].sms	sms-htgdb-translation-fr
+8b14c44f9a956fbf2bf3150ac1bb2086	Streets of Rage (E) [T+Fre_1.0].sms	sms-htgdb-translation-fr
+8ec2bd384f3e903c13c7a4927ddeb0b7	Vampire (E) [T+Fre1.00_Terminus].sms	sms-htgdb-translation-fr
+94c37886a7cbf586305b757f3f8ef378	Vigilante (UE) [T+Fre_Terminus].sms	sms-htgdb-translation-fr
+3f780a4b30384578c27157dbf5c21713	Wonder Boy III - The Dragon's Trap (UE) [T+Fre].sms	sms-htgdb-translation-fr
+90f1d3f397e6cb08da55ac42fc57d164	Wonder Boy in Monster Land (UE) (V1.1) [T+Fre_Crispysix].sms	sms-htgdb-translation-fr
+1c29f09759bf9d91ef62427ed011b212	Wonder Boy in Monster World (E) [T+Fre_Microtrads].sms	sms-htgdb-translation-fr
+5cbd34634399815622e472527585ecc2	Ys - The Vanished Omens (UE) [T+Fre_Crispysix].sms	sms-htgdb-translation-fr
+b24e23f2786528add8d17a0645caea77	Zillion (US) (V1.1) [T+Fre_Terminus].sms	sms-htgdb-translation-fr
+e53f30ba87d1efeb8c5652e2d29737cb	Alex Kidd in Miracle World (UE) (V1.1) [T+Ita1.0].sms	sms-htgdb-translation-it
+55afe1c9e2ed6ca204135c1a9e0bbe69	Castle of Illusion Starring Mickey Mouse (U) (V1.1) [T+Ita0.99_darq].sms	sms-htgdb-translation-it
+1e873f254d70a19cc0f68398d25266c7	Cyborg Hunter (UE) [T+Ita1.00].sms	sms-htgdb-translation-it
+6cb16d87c886a35ca046472aa2d5e9ed	Psychic World (E) [T+Ita1.00_darq].sms	sms-htgdb-translation-it
+b47f9722124dee44ea4dc6b025c469f1	Kenseiden (UE) [T+Pol1.1_devilfox].sms	sms-htgdb-translation-pl
+de665402678f7a6247d4c33fba7b9313	Air Rescue (E) [T+Bra_Emutrans].sms	sms-htgdb-translation-ptbr
+c4f138c72f100f6ff721ac05673c6fac	Aladdin (E) [T+Bra_Imp4444].sms	sms-htgdb-translation-ptbr
+e13d99ead4c982eae3715d42e7845cda	Alex Kidd in High Tech World (UE) [T+Bra_GamesBR].sms	sms-htgdb-translation-ptbr
+a3d2c1d3da71b1e07e4026bb74269c07	Alex Kidd in Miracle World (UE) (V1.1) [T-Bra_CBT].sms	sms-htgdb-translation-ptbr
+bf4b6f3c265e20d0cd17f0fc830a20a9	Andre Agassi Tennis (E) [T+Bra][p1][!].sms	sms-htgdb-translation-ptbr
+75f3df352aa887baf8df455188ac853a	Blade Eagle 3D (UE) [T+Bra_TMT].sms	sms-htgdb-translation-ptbr
+13aa9afa1a4a1759eab629a3c9f6ea57	Bomber Raid (UE) [T+Bra_TMT].sms	sms-htgdb-translation-ptbr
+672ee23f7d4c373f1e537583865753fe	Bram Stoker's Dracula (E) [T+Bra_TransCenter].sms	sms-htgdb-translation-ptbr
+f90e2f4a29838d22ec8aec48b7c9ab48	California Games (UE) [T+Bra_TMT].sms	sms-htgdb-translation-ptbr
+4c6ee493bc201695303cf7954388723b	Cyborg Hunter (UE) [T+Bra].sms	sms-htgdb-translation-ptbr
+2f75611b233c574c10eeadd5e07661bb	Dragon - The Bruce Lee Story (E) [T+Bra99%_Guto].sms	sms-htgdb-translation-ptbr
+572ef2497896e144a243d740fbe847c7	Enduro Racer (UE) [T+Bra].sms	sms-htgdb-translation-ptbr
+3ec802e27451037a550139c717d22e6f	Ghost House (UE) [T+Bra_Leo].sms	sms-htgdb-translation-ptbr
+d07c633f804a4a120c4a7f245bc7065f	Ghouls 'n Ghosts (UE) [T+Bra_Guto].sms	sms-htgdb-translation-ptbr
+e94f7b6084e6ce0e665abb5ea1d9b1ca	Ghouls 'n Ghosts (UE) [T+Bra][p1][!].sms	sms-htgdb-translation-ptbr
+e777e40ce4f5e3c20889ba810b4f6d7d	Golden Axe Warrior (UE) [T+Bra_ALVS].sms	sms-htgdb-translation-ptbr
+0807f9c516738171a3ab7e15cf5d4581	Golden Axe Warrior (UE) [T+Bra_Emuboarding].sms	sms-htgdb-translation-ptbr
+9109cc7c72b386a85fb7e8b24302687c	Golden Axe Warrior (UE) [T+Bra].sms	sms-htgdb-translation-ptbr
+88492b53ce9d19b694af5a2b44306f8d	Golvellius - Valley of Doom (UE) [T+Bra].sms	sms-htgdb-translation-ptbr
+d556563e2c6cd7413c41809e26c6f4aa	Hang-On (E) [T+Bra].sms	sms-htgdb-translation-ptbr
+61fbfbfd17d353020234785526e65fff	Hook (Prototype) [T+Bra_ALVS].sms	sms-htgdb-translation-ptbr
+454e18af80fa9e952e59553b25ae22ed	Jungle Book, The (UE) [T+Bra_Emubrazil].sms	sms-htgdb-translation-ptbr
+225e3d08753189013839039d84e59517	Jungle Book, The (UE) [T+Bra][p1][!].sms	sms-htgdb-translation-ptbr
+168a13af7b70fd14dde6c5d07ab6c017	Kenseiden (UE) [T+Bra_ALVS].sms	sms-htgdb-translation-ptbr
+7de76abf927d6fec98d46e28de054e36	Lucky Dime Caper, The - Starring Donald Duck (E) [T+Bra].sms	sms-htgdb-translation-ptbr
+51cccac1487bac0715596ebefc152b83	Mortal Kombat (E) [T+Bra_Guto].sms	sms-htgdb-translation-ptbr
+c08bb84b806b41af614ff84be44fe2e0	Psycho Fox (UE) [T+Bra_Tamanduon].sms	sms-htgdb-translation-ptbr
+61189f69342288aa032c66f6e2a1214d	R-Type (UE) [T+Bra_Emuboarding].sms	sms-htgdb-translation-ptbr
+058366958ed932370ac1569d7835c3cb	R.C. Grand Prix (UE) [T+Bra_TMT].sms	sms-htgdb-translation-ptbr
+e8780b6fc881cd2422be22937cf5ac9d	Renegade (E) [T+Bra_Emuboarding].sms	sms-htgdb-translation-ptbr
+aae523c98a6f63c25584e35e9c67de52	Sega Chess (E) [T+Bra_Altieres].sms	sms-htgdb-translation-ptbr
+f302b83d0675a6b57570250ce1dc657f	Strider (UE) [T+Bra_CBT].sms	sms-htgdb-translation-ptbr
+759daffec15d1a04968511b47f662191	Strider (UE) [T+Bra_Emunow].sms	sms-htgdb-translation-ptbr
+d222b107ec0744cdd0bc431a153d7b42	Superman (E) [T+Bra_guto].sms	sms-htgdb-translation-ptbr
+ed959b39559bfdd442c2230a0886897f	Taz-Mania (Prototype) [T+Bra1.0_EmuBrazil][p1][!].sms	sms-htgdb-translation-ptbr
+e4c222832f9633dfa63c3bdeec733649	Time Soldiers (UE) [T+Bra_CBT].sms	sms-htgdb-translation-ptbr
+4c8514cd3dc0d9cbbde70c0cc86e3084	Time Soldiers (UE) [T+Bra_Emunow].sms	sms-htgdb-translation-ptbr
+44b3ecdf172407de48fe5d31e72f712a	World Cup Italia '90 (E) [T+Bra][p1][!].sms	sms-htgdb-translation-ptbr
+b495515ee5c85dab1eda9fed0711d8d6	Zillion (UE) (V1.1) [T+Bra_CBT].sms	sms-htgdb-translation-ptbr
+e91a4da4f53b214704b3a99c4982f58e	Wonder Boy III - The Dragon's Trap (UE) [T+Swe.7b_Metalhead].sms	sms-htgdb-translation-sv
+bf7609929bcc2856a92bf35a5a480225	3 in 1 - The Best Game Collection (A) (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+2949e35216ce3b36ce26af35b80db73a	3 in 1 - The Best Game Collection (B) (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+86559e1ba9225d7caaf86bb412e9a8b7	3 in 1 - The Best Game Collection (C) (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+02662af5700ba779e1739f24bf08bf77	3 in 1 - The Best Game Collection (D) (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+5e23d4771c1f6ffa0de8e3632e822f38	3 in 1 - The Best Game Collection (E) (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+1c921e5460b3c9928a3f83f8ce60ac39	3 in 1 - The Best Game Collection (F) (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+4ea64e3b2ad57ef7531890583c51de30	4 PAK All Action (Australia) (Unl).sms	sms-htgdb-unlicensed
+151a25c3909b75fbe674fc6cda85d9b4	8 in 1 - The Best Game Collection (A) (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+09855174b67e481b13fc13700017b6d5	8 in 1 - The Best Game Collection (B) (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+6c4729e7ac7b20746eba51ab16273945	8 in 1 - The Best Game Collection (C) (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+34751c5798e7db4bc38aeea5f6a56e45	94 Super World Cup Soccer (Korea) (Unl).sms	sms-htgdb-unlicensed
+201322a59c6a6607014701e4235b07d5	94-Nen Super Basketball (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+dbd16d4ea69660f973f38893800c8620	Action Boy (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+73cc1f3dd52c248acb02c0d6ad97d005	Action Fighter (Taiwan) (Unl).sms	sms-htgdb-unlicensed
+67d184d1a6d083653e9811c40ad95c2a	Aerial Assault (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+f40a7f432b88ea9b25f9e902fafe189b	Agigongnyong Dooly (Korea) (Unl).sms	sms-htgdb-unlicensed
+e9b53d893bf8fc94015de722f610c7eb	Alex Kidd in Miracle World 2 (World) (Unl).sms	sms-htgdb-unlicensed
+e0247a74fb6379e5211817a3b1463705	Alex Kido (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+752ed6cc6a06185a443fb1f84acf8b6a	Alibaba and 40 Thieves (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+b409f910da12c01907f8107652be04dc	Alocos (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+fa0fe47e5a6b711b00052ab4def0b8f7	Astro Adventure (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+261967242243d4867dfca9d1895399b8	Black Belt (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+1a4bd585ddf2f26e2c048070f11306d1	Bobble Bobble (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+11b0521d236530f68bcabfcc95f4d119	Bubble Bobble (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+dd0b6a4f11018ff3d2e6a2b9d9888576	C_So! (Korea) (Unl).sms	sms-htgdb-unlicensed
+5a44e5cb4050f990c15351346cd11d41	Comical Machine Gun Joe (Korea) (Unl).sms	sms-htgdb-unlicensed
+231f10776d2683afe576c8f72a03ec71	Comical Machine Gun Joe (Taiwan) (Unl).sms	sms-htgdb-unlicensed
+25e0a2334375fd9ec907e78355c46a35	Cyber Shinobi, The (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+0027ab3b7479cb1385e43d1f41bcddd6	Cyborg Z (Korea) (Unl).sms	sms-htgdb-unlicensed
+3ad7b3e23400ee10b7239e22d45aca4e	Dallyeora Pigu-Wang (Korea) (Unl).sms	sms-htgdb-unlicensed
+e5c7ba1a2a6e1e9de597479add641d1d	Dinosaur Dooley, The (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+6d988cb469b0269426153e4bc7985ee1	Double Dragon (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+9f95eb534dd8a2bd57e9fc6a445e2f4c	Dr. HELLO (Korea) (Unl).sms	sms-htgdb-unlicensed
+af7dcf7a2bfb97d90779a950e4d70b12	E.I. - Exa Innova (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+93a96c1aa540cd65dc8be69a7b074edc	Eagles 5 (Korea) (Unl).sms	sms-htgdb-unlicensed
+293ef0398970cff0a5b4cd419b643f3c	F-1 Spirit - The Way to Formula-1 (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+87b1292308a3867ef340351c1836825f	F-16 Fighting Falcon (Taiwan) (Unl).sms	sms-htgdb-unlicensed
+f3d0d07a2eea23175d9a8d2b428151e8	FA Tetris (Korea) (Unl).sms	sms-htgdb-unlicensed
+e4497d344386a9fe0826e6d166e0f2b3	Fantasy Zone (Taiwan) (Unl).sms	sms-htgdb-unlicensed
+e74328c8cdd71af02ed99b17139126cd	Flashpoint (Korea) (Unl).sms	sms-htgdb-unlicensed
+6d41f5b5226216aaac651aa40a30f735	Forgotten Worlds (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+8a379e0f812f1b787b7126e4173fbe36	Gaegujangi Ggachi (Korea) (Unl).sms	sms-htgdb-unlicensed
+3879d2c954584821190271f3c0743cd8	Galaxian (Korea) (Unl).sms	sms-htgdb-unlicensed
+3a19a85082e7b330b75b0a082dc9628b	Gangcheol RoboCop (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+0a1d636538b18a9d160a45ece1512c73	Great Golf (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+5de87c05f2651e894c673c84002c2c3a	Great Soccer (Taiwan) (Unl).sms	sms-htgdb-unlicensed
+0feb4d1c2483baf591dea34da58ff9c6	Gun.Smoke (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+6024c42162c64c922e722547c6f4995f	Hokuto no Ken (Taiwan) (Unl).sms	sms-htgdb-unlicensed
+372b7edf08f3bc235ef5351c116e5c9b	Hong Kil Dong (Korea) (Unl).sms	sms-htgdb-unlicensed
+480106be9af6c74fc4738c97b23ac323	Hwarang-ui Geom (Korea) (Unl).sms	sms-htgdb-unlicensed
+f355ec9d0171a4d01356165d2baba6a1	Jang Pung 3 (Korea) (Unl).sms	sms-htgdb-unlicensed
+c67c5f04519000394bd525eccb774958	Jang Pung II (Korea) (Unl).sms	sms-htgdb-unlicensed
+2db7aaabca7f62d69df466797c0d63d9	Janggun-ui Adeul (Korea) (Unl).sms	sms-htgdb-unlicensed
+ea0f3ee7d540d92845cad40d5bc53ef9	King & Balloon (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+09d622effa934695566e47f1fb1d4b77	Knightmare II - The Maze of Galious (Korea) (Unl).sms	sms-htgdb-unlicensed
+524dc48667d0776f25fc2873abc07531	Kung Fu Kid (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+5e6159b465375eda70c17ac74864cc75	Lord of Sword (Taiwan) (Ja) (Unl).sms	sms-htgdb-unlicensed
+4d5815d1b0c7b371237bb0e98281d5f3	Micro Xevious, The (Korea) (Unl).sms	sms-htgdb-unlicensed
+8a590bff739700171e5996c9dd4e01ae	Mopiranger (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+1f9b5ae214384c15e43e1d8eee00c31f	Nemesis (Korea) (Unl).sms	sms-htgdb-unlicensed
+f6b084c626d96f4d48203caaed0ae6b1	Nemesis 2 (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+a12d3371030dc8aa0d01d8b21eae7b53	New Boggle Boggle 2 (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+01ae6095468ee8726181a271dd59911b	Northen Ken (Taiwan) (Ja) (Unl).sms	sms-htgdb-unlicensed
+57f672638078061a95e2d15f8c29ef91	Paper Boy (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+cada8fbd55b6444f2308e770c79eaccc	Penguin Adventure (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+f853b7ddca63864735c03001c9ac477b	Phantasy Star (Korea) (Unl).sms	sms-htgdb-unlicensed
+ca61679b410ead842d72b8521b9eb9a8	Pooyan (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+a11f8c275c80fc397d11f776e4197966	Power Boggle Boggle (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+ca38efb4db43d988392f4102ac7f1bbf	Ppang Gongjang (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+585c4be60d40aaee3ce70cbd9929761a	Prince of Persia (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+d6155260305d2ea1ee0d3258691d11fa	Puzzle Game (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+a33fcd2c4fceab860c85e653b1ed7f01	Quartet (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+14d40fda08235d76d63abb30c1a39bff	R-Type (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+0e52a43c9a02ad26e2526706091dc78d	Road Fighter (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+31957c960e103bd95982405093b49ce8	Sagak-ui Bimil (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+517c371a929ab012ee95a20843c5f1c2	Samgukji 3 (Korea) (Unl).sms	sms-htgdb-unlicensed
+db2cbd4cee97aeb28d2e1af6ee79db75	Scramble Spirits (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+0884e52534568d8090565e2a02d6a4e3	Shadow Dancer (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+ce2e1cb88648e27323b6ded5f4109a18	Shadow of the Beast (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+697889b9e620f6cf7073e4dfc441b717	Shangwei Mingling (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+5c6d01e7534726e02f27664c44c491d6	Sky Fighter (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+19a825bd9210ce0ff84cb883c750e7fc	Sky Jaguar (Korea) (Clover) (Unl).sms	sms-htgdb-unlicensed
+836d0b4c9ab9296cc78a5f8e2cb375d7	Sky Jaguar (Korea) (Unl).sms	sms-htgdb-unlicensed
+e42cf87c4c8ed81b4d58618df23a4367	Spy vs Spy (Taiwan) (Unl).sms	sms-htgdb-unlicensed
+ea83395c811ab1e40e9f3f6b47908ae7	Street Master (Korea) (Unl).sms	sms-htgdb-unlicensed
+f01ce5fd91877dc14d5eeab502f26e63	Strider, The (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+33b70eddebee2317bd62daa110480a2f	Submarine Attack (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+01764008734841830623b43c6e3a528b	Suho Jeonsa (Korea) (Unl).sms	sms-htgdb-unlicensed
+8daab9ac07e896995c3454ff92de6480	Super Arkanoid (Korea) (Unl).sms	sms-htgdb-unlicensed
+145f4e618e77add0df11a4aa79fe08c0	Super Bioman I (Korea) (Unl).sms	sms-htgdb-unlicensed
+eb7d7db5ab98b0b7812552644fb95fe8	Super Boy 4 (Korea) (Unl).sms	sms-htgdb-unlicensed
+10b3d123ed5f2437b2d31cf8b8e60179	Super Boy I (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+6120c9ba0f2c24031c9a836035060717	Super Boy II (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+ca1e0e7bdd2a0be70129b1de97746e40	Super Boy III (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+0c36afd72e18ca6720a982130349b953	Super Bubble Bobble (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+9ff10eb9208f9feb01bbfd73edf63625	Super Columns & Tetris (Korea) (Unl).sms	sms-htgdb-unlicensed
+3aab83a641bf3a26d68ed44f49c28714	Super Tetris (Korea) (Unl).sms	sms-htgdb-unlicensed
+9acd8b2eab5453380242ab3a6417c165	Three Dragon Story, The (Korea) (Unl).sms	sms-htgdb-unlicensed
+d70f275b7c4c5463ca07eb185f800adf	Thunder Blade (Taiwan) (En) (Unl).sms	sms-htgdb-unlicensed
+2c8d7ad9c6484f161dd9574670b598a4	Toto World 3 (Korea) (Unl).sms	sms-htgdb-unlicensed
+66363591ca2894c48876f416d5adbe75	Ttoriui Moheom (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+e56024a7c0d216469b960092d080ee24	Wonder Boy III - The Dragon's Trap (USA, Europe) (Aftermarket) (Unl).sms	sms-htgdb-unlicensed
+c53091e60b5bd473142ca231dd96f6eb	Wonsiin (Korea) (Unl).sms	sms-htgdb-unlicensed
+21b563031bb035f117d15dc53f406c2d	Xyzolog (Korea) (En) (Unl).sms	sms-htgdb-unlicensed
+5d4a6cd8db303b9dc07ee8be4fe72309	Yuyryeong-ui Jip (Korea) (Unl).sms	sms-htgdb-unlicensed

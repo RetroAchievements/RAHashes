@@ -1,0 +1,202 @@
+668570dd413d5cdf271e58d61b5b99e7	1942 (Japan).rom	msx2-nointro
+9c8bc23c7acad95ba2cbda6cbf48339b	A Ressha de Ikou MSX (Japan).rom	msx2-nointro
+1f73a16c2b3cd400e026b578b7567a72	AcroJet (Japan).rom	msx2-nointro
+f2716d4c1fc8ade19d4e1421ae4c2de6	Akumajo Dracula (Japan) (Wii U Virtual Console).rom	msx2-nointro
+7087b51f3ccfdf314ce60d5d8aaf644a	Aleste (Japan).rom	msx2-nointro
+790e45f34cec0f5064161109653537c5	Alges no Yoku (Japan).rom	msx2-nointro
+a3648a5dd95179c00fc11fe455bb5828	American Soccer (Japan).rom	msx2-nointro
+76bba6b3f1ae93cfafb3af904b978098	Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan).rom	msx2-nointro
+67bc15b268c9e35df72121911d4412ea	Aoki Ookami to Shiroki Mejika - Genghis Khan (Japan).rom	msx2-nointro
+634dd13762378630bfe50ac9b87dbf5f	Arctic - Active Rail Playing (Japan) (Alt).rom	msx2-nointro
+f709083da5b2b078c3621a17374aaf1e	Arctic - Active Rail Playing (Japan).rom	msx2-nointro
+2d594d9ebfb36faba7eea3c6b4e55dc8	Arkanoid II - Revenge of Doh (Japan).rom	msx2-nointro
+851aca1e5d3f0e8d9b1cbec2e8451831	AshGuine - Densetsu no Seisenshi (Japan).rom	msx2-nointro
+3b191ba16e7c5def2f1e9febc1fb92e5	AshGuine Story II - Kokuu no Gajou (Japan).rom	msx2-nointro
+f582df437dde65d958eec72260801b32	AshGuine Story III - Fukushuu no Honoo (Japan).rom	msx2-nointro
+78cfcd46880a80b26839158cba7094a1	Bubble Bobble (Japan) (Alt).rom	msx2-nointro
+bd8b1f6c998657b96bf7dc7825d0a600	Bubble Bobble (Japan).rom	msx2-nointro
+16f08e7cdce9aa13259b9e904eeb0e2b	Cheese 2 (Japan) (Program).rom	msx2-nointro
+10b02d5c4600b342e98559518bdbc96d	Cockpit, The (Japan).rom	msx2-nointro
+855dc91e683d897662c2f676b4dc3e3a	Contra (Japan) (Wii U Virtual Console).rom	msx2-nointro
+c787a2825169fa5b13bcb1eaec3e289a	Crimson (Japan).rom	msx2-nointro
+cc6d64c4a9880b6111f6b491275eb62a	Daikoukai Jidai (Japan).rom	msx2-nointro
+596e1e1a4e4aef2e640a69c8c0396519	Daisenryaku (Japan).rom	msx2-nointro
+1a06186f14de3c724215997eee18d6fd	Darwin 4078 (Japan) (Alt 2).rom	msx2-nointro
+e84d7e53b40d406042e9b3ae837aad62	Darwin 4078 (Japan) (Alt).rom	msx2-nointro
+ca9cb10e2415775418c85f47e1bfb5d5	Darwin 4078 (Japan).rom	msx2-nointro
+56dae5f0998359d68cdba7cb6947fd3f	Deep Forest (Japan) (Alt).rom	msx2-nointro
+dc9c2178fec7958fdde3f7762ffe0b2e	Deep Forest (Japan).rom	msx2-nointro
+a483f9acd4afd6e83d6cb32c609a129b	desktop.ini	msx2-nointro
+9c16b2ba7956a86819bdbc12cd266e29	Dires - Giger Loop (Japan).rom	msx2-nointro
+0cb6d4d086306f22d6d4a8c96a0f44e3	Double Vision (Japan).rom	msx2-nointro
+52bd14a491aa5802e842bff023d4f728	Dragon Buster (Japan).rom	msx2-nointro
+b6a39a89fb0df0be5dff7d64f5fe8900	Dragon Quest (Japan).rom	msx2-nointro
+92139e59f1e8fe30d5550112b300cc5c	Dragon Quest II (Japan) (Alt).rom	msx2-nointro
+b2e0120f0a937fab09a37a252ab0faea	Dragon Quest II (Japan).rom	msx2-nointro
+e6936c2b6472591505acd1ee1b6c5865	Dragon Slayer IV - Drasle Family (Japan) (Alt).rom	msx2-nointro
+38209dd384ca5a791e97ffc6c68097a2	Dragon Slayer IV - Drasle Family (Japan).rom	msx2-nointro
+560544f37bf6f806b200d5db3d562e26	Dragon Slayer Jr. - Romancia (Japan).rom	msx2-nointro
+65845a220992ea4962d96919278b7a23	Druid (Japan) (Alt).rom	msx2-nointro
+62f67225074fec95baa131f687238fd0	Druid (Japan).rom	msx2-nointro
+a495dc8678497b284b8a2b675f8bb6cc	Dynamite Bowl (Japan) (Alt).rom	msx2-nointro
+14311b9fe54716ed22efe313a7503e53	Dynamite Bowl (Japan).rom	msx2-nointro
+ff25f8ccde5cf7d49a758d19f46e41d0	Eidolon, The (Europe).rom	msx2-nointro
+3f68d8e286b9b46b5400381bdacbaa52	Elthlead (Japan).rom	msx2-nointro
+cafaa2eab655943ad4064a1dbdb09a67	Empereur, L' (Japan).rom	msx2-nointro
+35d9d247a298181bb0c70a45d5e0746e	Europe Sensen (Japan).rom	msx2-nointro
+c4c2bf153650b33aaab97ac00d07685b	F-15 Strike Eagle (Japan).rom	msx2-nointro
+eccbb5b0e92ba466da7a55434bbc0556	Famicle Parodic (Japan).rom	msx2-nointro
+54038e0dcc4ad3f0a2fd3859eb3e5c9b	Family Billiards (Japan).rom	msx2-nointro
+9b92eb8a340fed695fb4d86d94e6a4d6	Family Boxing - MSX Title Match (Japan).rom	msx2-nointro
+88ab9038be379184c70ed4aef1766a57	Fantasy Zone II - The Tears of Opa-Opa (Japan) (Alt).rom	msx2-nointro
+cf739db66adc5a2f2d06f19e3d852ccb	Fantasy Zone II - The Tears of Opa-Opa (Japan).rom	msx2-nointro
+f65b39a6475911f935b3d8c00b8b52a0	Final Mystery Murder Club - Satsujin Club (Japan).rom	msx2-nointro
+beae4b0bee7b028644804fa41da96f40	Fire Ball (Japan).rom	msx2-nointro
+c164b82e38be62c3cfe38d587e20cc31	Fleet Commander II - Koukon no Kaiiki (Japan).rom	msx2-nointro
+d58d87e7a359df92c3aeae0ea93672b5	Gakuen Monogatari - High School Story (Japan).rom	msx2-nointro
+889e438fea6eeece702446311afce84f	Gambler Jiko Chuushinha 2 - Jishou! Kyougou Janshi Hen (Japan).rom	msx2-nointro
+44c47ae77d38ee95d311f90204ed4ac5	Ganbare Goemon! - Karakuri Douchuu (Japan) (Wii U Virtual Console).rom	msx2-nointro
+a0fb9b61195d7cfa9905f72d32c0c730	Garakuta (Japan).rom	msx2-nointro
+ed4978ec21c4d0e7c7a336c58e9b7800	Garyuu Ou (Japan) (Alt).rom	msx2-nointro
+c9a6c43add06e8f57ffdb4fe40df753c	Garyuu Ou (Japan).rom	msx2-nointro
+b82bddbc0dec393986c0fadaa7dac22c	Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 2).rom	msx2-nointro
+933618a3d26ee6beb32527113996f483	Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt 3).rom	msx2-nointro
+ab8c5e6d4be4a2979019df24ca0ad679	Gekitotsu Pennant Race - Pro Yakyuu, The (Japan) (Alt).rom	msx2-nointro
+d289fa8bcf442197900082a0d6f87b25	Gekitotsu Pennant Race - Pro Yakyuu, The (Japan).rom	msx2-nointro
+97936e206e44474e7a2062d2682d5f54	Gekitotsu Pennant Race 2 (Japan) (English Menu).rom	msx2-nointro
+af91306740ff42ffd25f0f75d3e4fca8	Gekitotsu Pennant Race 2 (Japan).rom	msx2-nointro
+8a5f64a74e66be96ebf1f1719e669b89	Girly Block (Japan).rom	msx2-nointro
+5fd491b7b8c674fc78a56405c27d9221	Hacker (Japan).rom	msx2-nointro
+a9187c70ab0f678e06c773dabf2f7e5f	Hai no Majutsushi (Japan).rom	msx2-nointro
+cd72ed8e95ce71868643e156106a56b0	Hal Note (Japan).rom	msx2-nointro
+79363f8f57233e4e4ae544fdbb6e21a0	Han Seimei Senki Andorogynus (Japan) (Alt).rom	msx2-nointro
+65ed7fce763e5e7ec60306e86fff872f	Han Seimei Senki Andorogynus (Japan).rom	msx2-nointro
+53cb808a7a5a5e4cb13f8905e8bd9a34	Hard Ball (Japan).rom	msx2-nointro
+20698b1fd96753f31d4a577d7f151460	Heroes of the Lance (Japan).rom	msx2-nointro
+1811f67fac1f6c98c83ef0281371c7fb	Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan).rom	msx2-nointro
+d18fa99ae42ebb6ac7b10556c172de7e	High School! Kimengumi (Japan).rom	msx2-nointro
+e2ae336ebffbc696633a57fe46e170b5	Hinotori - Houou Hen (Japan) (Alt 2).rom	msx2-nointro
+c35d87613bc6c7f5c03bfb8fa220a3f6	Hinotori - Houou Hen (Japan) (Alt).rom	msx2-nointro
+8d89caf4804637e302fe1d57d2e2af73	Hinotori - Houou Hen (Japan).rom	msx2-nointro
+df9d9e1dd54409d5b35339ea60b1045e	Hole in One Special (Japan) (Alt).rom	msx2-nointro
+6beaf41221e7cd325d32b3112cc898da	Hole in One Special (Japan).rom	msx2-nointro
+c8f2a1a93f852096eaebaa18e59350cf	Hydlide 3 - The Space Memories (Japan).rom	msx2-nointro
+a5cbdd2d012cccd49b8bce76db66e55c	ianna.rom	msx2-nointro
+3e900c93a758c417afe6bb3c11434c7a	ianna_1.rom	msx2-nointro
+77a23da8af09ccb05f19ca50e717875b	Ide Yousuke Meijin no Jissen Mahjong (Japan).rom	msx2-nointro
+ccab31de87cc187e5a3cc63401f43b00	Ikari (Japan) (Alt).rom	msx2-nointro
+65c426e4cf02a1f211641a2dfc035486	Ikari (Japan).rom	msx2-nointro
+4761dc4891d87f2f2feeeb237c9cd526	Inemuriryuu Asada Tetsuya no A-kyuu Mahjong (Japan).rom	msx2-nointro
+d2f178fb8b16b2ebe002fefccb7d3191	Inindou - Datou Nobunaga (Japan).rom	msx2-nointro
+6c3ac4fc067d82977a11611ec29ae4c4	Ishin no Arashi (Japan).rom	msx2-nointro
+f64c38d0010b872a435b041936100cbd	Jansei (Japan) (Alt).rom	msx2-nointro
+d9c9ee473b5e1e372b2b53a3c9558d5f	Jansei (Japan).rom	msx2-nointro
+1e4ef11e18575f052ea5de49872d4f4b	Japanese MSX-Write II (Japan) (Program).rom	msx2-nointro
+a7e3b3b64a54078d7d92fbea2e1cf8a8	Kempelen Chess (Japan).rom	msx2-nointro
+7c981f0ddf3a459fb854c9b827061a44	Kiki Kaikai (Japan).rom	msx2-nointro
+a7bc0525d6367fe9b32eb568a14133e7	King Kong 2 - Yomigaeru Densetsu (Japan).rom	msx2-nointro
+8cfe4ebb5bfd4c2ab838b81b0d2acb37	Kisei (Japan).rom	msx2-nointro
+cb955ec12b62b62d8f3df6f2073acfc1	Kitahei (Japan).rom	msx2-nointro
+e95759a5332959a0f497c99508f738cc	Koronis Rift (Europe).rom	msx2-nointro
+82a73f6b3186409232f988f28226f9e6	Labyrinth (Japan) (Alt).rom	msx2-nointro
+121eb1b9dce5c12832a5c7b97265a773	Labyrinth (Japan).rom	msx2-nointro
+2bd8b20b342976a5cf7b4b30399c5083	Lupin Sansei - Babylon no Ougon Densetsu (Japan) (Alt).rom	msx2-nointro
+b15c73f408756e444bd8ee347e7f98ae	Lupin Sansei - Babylon no Ougon Densetsu (Japan).rom	msx2-nointro
+4fefe2334038d0f2f189a8434b1c8bc2	Lupin Sansei - Cagliostro no Shiro (Japan) (Alt).rom	msx2-nointro
+14c078a9ed5c14ac54a6eb5e94fa34d2	Lupin Sansei - Cagliostro no Shiro (Japan).rom	msx2-nointro
+668f400e33557d24c9413310634c8ace	Mad Rider (Japan) (Alt).rom	msx2-nointro
+93c665dab6503b4ff2712adfeb3a8531	Mad Rider (Japan).rom	msx2-nointro
+ed5c5d1f0a3ccd435ac3d28668ee5ec9	Maison Ikkoku - Kanketsu Hen - Sayonara, Soshite... (Japan).rom	msx2-nointro
+68ee449de249d7b2cf0e1900a6cd319c	Maison Ikkoku - Omoide no Photograph (Japan).rom	msx2-nointro
+8153cc9023d0e38d7da0b359c47df5e8	Malaya no Hibou (Japan).rom	msx2-nointro
+e8c260a29aa082e5330827364aa86ba8	Metal Gear (Europe).rom	msx2-nointro
+12e302954fa9b23c11ce7c8f5770b82a	Metal Gear (Japan).rom	msx2-nointro
+0b5fd35204aa279fb106e3761f90085e	Metal Gear 2 - Solid Snake (Japan) (Demo).rom	msx2-nointro
+9f50d92d35e19d5de37d75a36a410588	Metal Gear 2 - Solid Snake (Japan).rom	msx2-nointro
+f15a35b66270858d4c1c5d1351e04d6e	Mirai (Japan).rom	msx2-nointro
+5564c666d127fa6765b756311a19f45d	Mississippi Satsujinjiken (Japan).rom	msx2-nointro
+50b6f805f48865d0a0021d604be1c58e	Moero!! Nettou Yakyuu '88 (Japan).rom	msx2-nointro
+924f7eb26bcdf28047ec4211eec5f8b7	Monmon Kaibutsu (Japan).rom	msx2-nointro
+0e2697ed7769d3aa3650b215808c5335	Nekketsu Juudou (Japan) (Alt).rom	msx2-nointro
+7a3012784c5e42194c141edbf0f7a94d	Nekketsu Juudou (Japan).rom	msx2-nointro
+01d18e427d829e3f1aa3550ff15c107c	Ninja-kun - Asura no Shou (Japan).rom	msx2-nointro
+65e30c8ef671b789fdc1c08780207e26	Nobunaga no Yabou - Bushou Fuuun Roku (Japan).rom	msx2-nointro
+c2cbcad9411b575e9291c3739118785c	Nobunaga no Yabou - Sengoku Gunyuuden (Japan).rom	msx2-nointro
+4fe04555caed46046b80d5624d44151f	Nobunaga no Yabou - Zenkoku Ban (Japan).rom	msx2-nointro
+a04139da653fc41fdc576a5ffa273cf7	Ogre (Japan) (Alt).rom	msx2-nointro
+82cd46d7908c42417ff7f40b4d277e45	Ogre (Japan).rom	msx2-nointro
+dfcaf859e699f8995d054622c5a561ba	Ouke no Tani - El Giza no Fuuin (Japan).rom	msx2-nointro
+a94a47593514299cae379b974dc088f5	Ouke no Tani - El Giza no Fuuin - Edit Contest Yuushuu Sakuhinshuu (Japan).rom	msx2-nointro
+eff230804098ffe4d342f389b5209eac	Out Run (Japan).rom	msx2-nointro
+45f9b96088f36697f779af7de373f8fe	Pac-Mania (Japan).rom	msx2-nointro
+aee5bfde07da953eada70d618a933d06	Pachi Pro Densetsu (Japan).rom	msx2-nointro
+415a5337eb46846cab8fc36390700e7d	Penguin-kun Wars 2 (Japan) (Alt).rom	msx2-nointro
+3db77573e81184156486fe743b828e58	Penguin-kun Wars 2 (Japan).rom	msx2-nointro
+3a3bef37cb175a665e7abbbc80b32e92	Predator (Japan).rom	msx2-nointro
+206945b66a897271269cdcf12070993b	Pro Yakyuu Family Stadium - Pennant Race (Japan).rom	msx2-nointro
+3cd4e9d0369842440ad5888a52cdcf9a	Pro Yakyuu Fan - Telenet Stadium (Japan).rom	msx2-nointro
+4f9c53d6f5ed2aa2876bb78408b39084	Professional Mahjong Gokuu (Japan).rom	msx2-nointro
+9ffa0d56003931c45b232521724b2b8b	Project A2 - Shijousaidai no Hyouteki (Japan).rom	msx2-nointro
+a95a4348dfbb8c0d9e3e0a9da770031b	Quarth (Japan) (Demo).rom	msx2-nointro
+b34b756e16f07e26c2052823bab93592	Quarth (Japan) (Wii U Virtual Console).rom	msx2-nointro
+384527f9303a9a7a632b33c05d738f63	Quarth (Korea).rom	msx2-nointro
+bc946d90bd20e0805984f67bb4b93fc2	Quinpl (Japan).rom	msx2-nointro
+114264bbcd0fdfa7bd083a983606a200	Rastan Saga (Japan).rom	msx2-nointro
+dd3e2f7c437f00ac77eeb9e9975ed947	Relics (Japan).rom	msx2-nointro
+7d4c77200788e78126b98a7d7ba53d3c	Replicart (Japan).rom	msx2-nointro
+795918ec755dbd76a8e1138f1c9abb73	Return of Ishtar, The (Japan).rom	msx2-nointro
+50312d8faaef4ffa55f49feab5669b0c	Return of Jelda (Japan).rom	msx2-nointro
+9df54a16476239e572747cc9a83c5b32	Rick to Mick no Daibouken (Japan).rom	msx2-nointro
+6a1571a643e6c34837535a3240f85ef2	Royal Blood (Japan).rom	msx2-nointro
+e64516057017949edf78d8517a14028b	RWBrunildaMSX2_v1_01.rom	msx2-nointro
+afe6a9160c79d579f18b2980f8874a6e	Sangokushi (Japan).rom	msx2-nointro
+34301e3f3f3aa4e0cbd657caab003237	Sangokushi II (Japan).rom	msx2-nointro
+5951dc047c5a102e9cf9e1a59d2596d2	Scramble Formation (Japan).rom	msx2-nointro
+76a2fd7f38d9fb6b5192115fc5182b7f	Seikima II Special - Akuma no Gyakushuu (Japan) (Alt).rom	msx2-nointro
+42b81e1c71ec8af3f37d90e4c020c697	Seikima II Special - Akuma no Gyakushuu (Japan).rom	msx2-nointro
+6429d308164ccb0aea2888f5cffa66aa	Shanghai (Japan).rom	msx2-nointro
+89db61d03a72aede925d79e02706f666	Shiryou Sensen - War of the Dead (Japan).rom	msx2-nointro
+f78b9f4ea885cf072e5b41dce9f15436	Space Manbow (Japan) (Wii U Virtual Console).rom	msx2-nointro
+21eaba844f408c094c2d190d68df3842	Star Virgin (Japan) (Alt).rom	msx2-nointro
+d2f51a8ac5b78d322d6ba404e962f07a	Star Virgin (Japan).rom	msx2-nointro
+0f235700eecb79b0e5a517118d48112c	Strategic Mars (Japan).rom	msx2-nointro
+22f48218a0db04edd8f90bc4355e2de9	Suikoden - Tenmei no Chikai (Japan).rom	msx2-nointro
+4350a658720a2e8f7ecc46fb99c2209e	Super Daisenryaku (Japan).rom	msx2-nointro
+581fd0c7ab5d2e355c5bffa3946bdbf6	Super Load Runner (Japan).rom	msx2-nointro
+1a504223fdc2476a57198f80e8410a2a	Super Rambo Special (Japan).rom	msx2-nointro
+a5fc4e9b290ee0e2e8ebb7f8b49d1ace	Super Runner (Japan).rom	msx2-nointro
+3032194b7fbc4c7af47b140739e7ce84	Super Tritorn (Japan).rom	msx2-nointro
+81404a245c25a421c8ec4dc629ec4952	Synthe Saurus (Japan) (Program).rom	msx2-nointro
+3ea01c97fe0201aede87a3f772b1871a	Taiyou no Shinden - Asteka II (Japan).rom	msx2-nointro
+29020908bafea060960ca7e65cdfe6ca	Tanikawa Hiroshi no Shougi Shinan 2 (Japan).rom	msx2-nointro
+5dee9db145d631a97bf4c645e76f3b20	Teitoku no Ketsudan (Japan).rom	msx2-nointro
+88e940bb5c15d201bf1779821c10d923	Tengoku Yoitoko (Japan).rom	msx2-nointro
+3ae183edb7f89666b23f041fd592df3c	Tetris (Japan).rom	msx2-nointro
+d5ec6055da9a7acf301e3e7fd8ebee27	Topple Zip (Japan).rom	msx2-nointro
+f53413f98ede110ee751a0dd917bf964	Treasure of the Usas (Japan) (Wii U Virtual Console).rom	msx2-nointro
+750d755fa577e033754c95c6a850b878	Treasure of Usas, The (Japan, Europe) (En) (Alt).rom	msx2-nointro
+9aab75984b06c21ed8e6214474d3a68e	Treasure of Usas, The (Japan, Europe) (En).rom	msx2-nointro
+ac309104c4bcc0cbf56ac1d2295f1119	Tsurikichi Sanpei - Blue Marine Hen (Japan).rom	msx2-nointro
+b94a21a6017844335f0ad989968f0786	Tsurikichi Sanpei - Tsuri Sennin Hen (Japan).rom	msx2-nointro
+dfd60916a37e37b3a5b36523f6349109	Ultima Exodus (Japan).rom	msx2-nointro
+2b4f2b6eac82422eda32badf60aee213	Urusei Yatsura - Koi no Survival Birthday (Japan).rom	msx2-nointro
+5d50c1c7bc164c3d01c41b0b8a501d72	Vampire Killer (Japan, Europe) (En) (Alt 2).rom	msx2-nointro
+273c3dff8315a6a4fced758f07d54aaa	Vampire Killer (Japan, Europe) (En) (Alt 3).rom	msx2-nointro
+51d021af50c3a48124331a9fbc738b97	Vampire Killer (Japan, Europe) (En) (Alt).rom	msx2-nointro
+92ba9dab3c7a4ac6c8a130f6ccbac91c	Vampire Killer (Japan, Europe) (En).rom	msx2-nointro
+4f4d65a9e3f86349abfcab82e52cd207	Victorious Nine II - Koukou Yakyuu Hen (Japan).rom	msx2-nointro
+53975cfff7a51f79e707e29e984d215a	Wizardry (Japan).rom	msx2-nointro
+24b443a15da41134a366f145fc336fab	Woody Poco (Japan) (Alt).rom	msx2-nointro
+3d8c2a836a4b16a739003b07d76c0459	Woody Poco (Japan).rom	msx2-nointro
+72430889f4e5239a5ed9742a1b84c03a	Xevious - Fardraut Saga (Japan) (Alt).rom	msx2-nointro
+261a860dee771ea77c2d813b97366f9e	Xevious - Fardraut Saga (Japan).rom	msx2-nointro
+c271c503c50bbbba7efc04f5f9ac6dec	Yaksa (Japan).rom	msx2-nointro
+4140b44e0923026e50f88787e208ccb5	Yamamura Misa Suspense - Kyoto Ryuu no Tera Satsujinjiken (Japan).rom	msx2-nointro
+fd325b9f4997d70397f59379e679e420	Yuurei-kun (Japan).rom	msx2-nointro
+9bf8ee3fb42f475f6c6c1789f4b93c42	Zanac Ex (Japan) (Alt).rom	msx2-nointro
+03d381a40baed2be60f09a91b52316cc	Zanac Ex (Japan).rom	msx2-nointro
+3ba77f331a92acf0d3e64847d4a2ca24	Zoids - Chuuou Tairiku no Tatakai (Japan).rom	msx2-nointro
+81a5853b8d046a8b3078283ac78bf2d1	Zombie Hunter (Japan).rom	msx2-nointro
+ba2e644a68677cf42c116781579896d7	Zukkoke Yajikita Onmitsu Douchuu (Japan) (Alt).rom	msx2-nointro
+532c46b3f3b28ea4e1ddb215ba7ab5b0	Zukkoke Yajikita Onmitsu Douchuu (Japan).rom	msx2-nointro
+cb30a978bd4bddf957c66d1d05273658	[BIOS] Kanji ROM - JIS 1st+2nd Class (Japan).rom	msx2-nointro

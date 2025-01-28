@@ -1,0 +1,32 @@
+e7d2329a12b789b203aecb960dfcc05f	Faceball Matej's Controls (Hack) v1 HorvatM_pad.vb	vb-dominater01-hacks
+d20ab7aba4a4e629a8ec647db6260a26	Faceball Remastered (Hack) v1.vb	vb-dominater01-hacks
+297ce3cce66511af8288edc63d2c330a	Faceball Remastered+Controls (Hack) v1 thunderstruck, HorvatM 2013-03-13.vb	vb-dominater01-hacks
+c3d028f7d2463eaf36f0d6ef9b28ebd5	Jack Bros. (U) (Enable Cheats Hack).vb	vb-dominater01-hacks
+2fdd657f9029a076b08e81aabe75681c	Jack Bros. Debug Cheats (Hack) v1 Parasyte_pad.vb	vb-dominater01-hacks
+704837e3255bd44a62922c6644c535c5	Mansion of Insmouse All Hallows' Eve (Hack) Ben Stevens 2017-10-13.vb	vb-dominater01-hacks
+1364f12c11c580b163ce569042ae4471	Mansion of Insmouse Mario Madness Edition (Hack) v1 Ben Stevens_pad.vb	vb-dominater01-hacks
+bf3859019b06180fa8bd6824fce214db	Mario Clash Controller Fix (Hack) v1 DogP_pad.vb	vb-dominater01-hacks
+aa833e4391db075b8435380769dade51	Mario Clash Level Select+Controller Fix (Hack) v1 DogP_pad.vb	vb-dominater01-hacks
+b4dae4e517c1a7759f9f6666553b1199	Mario's Tennis Multiplayer (JU) v1 MK.vb	vb-dominater01-hacks
+1adecd66030c8b8e7d18e48a45c3c6e5	Panic Bomber Debug Menu (Hack) v1 Parasyte_pad.vb	vb-dominater01-hacks
+cf33dd5d47ae06f0bc2269cf3d3d4d3d	Panic Bomber Stage Select Debug (Hack) v1 Parayste_pad.vb	vb-dominater01-hacks
+69cca89512d3af5440c1a47c8f63567d	Red Alarm Debug JP Press Select 60 times, L+R+Select+A In-Game (Hack) v1 HorvatM_pad.vb	vb-dominater01-hacks
+3fedd759fdc4d756d515e4bb3001387f	Red Alarm Debug US Press Select 60 times, L+R+Select+A In-Game (Hack) v1 HorvatM.vb_pad.vb	vb-dominater01-hacks
+452db9891b03831a48a80861fe63b53c	Space Pinball Score Reset (Hack) v1 HorvatM.vb	vb-dominater01-hacks
+a3db912151c6285569694155777bcdb3	Vertical Force Debug Menu (Hack) v1 Parasyte_pad.vb	vb-dominater01-hacks
+a0d8fd562ab203f35056819208a5b3f4	Virtual Bowling (J) (Debug Menu Hack).vb	vb-dominater01-hacks
+591fde79167a6e5b246d6c6df87a2db8	Virtual Bowling Debug Menu (Hack) v1 Parayste_pad.vb	vb-dominater01-hacks
+1c2f8fcfa5165de8a515cc5c529a4f0f	Virtual League Baseball Select Any Team JP (Hack) v1 DogP.vb_pad.vb	vb-dominater01-hacks
+045dc17fec488ecf252008e6c1916db2	Virtual League Baseball Select Any Team US (Hack) v1 DogP_pad.vb	vb-dominater01-hacks
+703ba31d6735bce2b80fd55b33e7c539	Innsmouth Mansion English (J) T+Eng thunderstruck 2-2019.vb	vb-dominater01-translations-english
+45825104799b74d36740d486f3f0cdf2	SD Gundam - Dimension War (Japan) [T-En by Greg Stevens & Benjamin Stevens v1.0].vb	vb-dominater01-translations-english
+d0459cf5e2b4ee4464b32649824399ca	SD Gundam English (J) T+Eng v1 Ben & Greg Stevens_pad.vb	vb-dominater01-translations-english
+eb6a7158a99123b1f17a63d8e6425d83	Space Squash (J) [T+Eng].vb	vb-dominater01-translations-english
+c257aa8e805afa40506b521e2d03458e	Space Squash (Japan) [T-En by Feel & Greg Stevens & Benjamin Stevens & Thunderstruck v2.0].vb	vb-dominater01-translations-english
+ad5475082d55055681ab5a3d9c09c803	Space Squash English (J) T+Eng Greg and Ben Stevens_pad.vb	vb-dominater01-translations-english
+ef6e68d193dae7eb9f51face69e9dcf9	Virtual Fishing (Japan) [T-En by Benjamin Stevens & Thunderstruck v1.0].vb	vb-dominater01-translations-english
+cdc7a6a1dcb8d89e4d4f5e6dc54aeb0b	Virtual Lab English (Hack) v1 thunderstruck 2018-04-01_pad.vb	vb-dominater01-translations-english
+8f24a89af3c522c52265366ab9480fea	Jack Bros. (U) [T+Ger1.0_KR155E].vb	vb-dominater01-translations-german
+b918f194466e9777d0fcd0f611ac2eb9	Teleroboxer (JU) [T+Ger1.0_KR155E].vb	vb-dominater01-translations-german
+990e1a64fc283adc68e695b5e8215488	Teleroboxer (JU) [T-Ger.4b_KR155E].vb	vb-dominater01-translations-german
+a39708d87769b524753a1d8077bdf6b9	Teleroboxer German (JU) T+Ger 4b KR155E_pad.vb	vb-dominater01-translations-german

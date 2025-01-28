@@ -1,0 +1,572 @@
+ff3d6bc68a46b3ef2b942a2a5a06a6cf	10 Years of ColecoVision (2009) (Daniel Bienvenu-NewColeco) (Demo).rom	colecovision-yoriyoshizuki
+ac1aee4e4dbe24dcf90039da6cfe03c0	10 Years v2 (199x)(Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+5a19ede183558b22bba0d3dd3e7b3122	2010 - The Graphic Action Game (1983) (Coleco) (Prototype v54).rom	colecovision-yoriyoshizuki
+5472167e953ed79a5a6e1687854dc59a	2010 - The Graphic Action Game (1983) (Coleco) (Prototype vXX).rom	colecovision-yoriyoshizuki
+1cdd9ee2de6ec8b00f768d4d419589de	2010 - The Graphic Action Game (USA, Europe) [T-BR] [T-Patryck] [V-1.0 A-2016.rom	colecovision-yoriyoshizuki
+fb0bae238102a27399d090c6a102cfd7	31in1-eprom-15012013-rev2.rom	colecovision-yoriyoshizuki
+b1546dc4e963d5a2bc6c84388ab62669	421 (2002 Mathieu Proulx) [a].rom	colecovision-yoriyoshizuki
+adaf8fefa825434232bc5c44d1bb8709	ADAM Diagnostic Cartridge (1982) (Coleco) (Newer Revision).rom	colecovision-yoriyoshizuki
+1785dc2e24ce39bc21f2d02c6856487e	ADAM Final Test (198x) (Coleco) (Newer Revision).rom	colecovision-yoriyoshizuki
+537dd61426fb3fe76bdfad65acd36444	ADAM Printer 1 Hour Cycle Burn-In Test (198x) (Coleco).rom	colecovision-yoriyoshizuki
+fd8ef331c34fcc51d13170c8e3635eff	AdamCon Fifteen demo.rom	colecovision-yoriyoshizuki
+35ac1b561d68f438cc856ed36a8a6fb4	Adventure Of A Witch - The Flightful Night (2015 Chris Derrig) [WIP] [a].rom	colecovision-yoriyoshizuki
+00b5ad0e489e74fe22a95b7e1335d576	Album Club CCJVQ Demo (2000) (Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+a69faa8900c4b0554dffad593081ab6a	Alcazar - The Forgotten Fortress (1985) (Activision) [o2].rom	colecovision-yoriyoshizuki
+803914bbde6822ebf113d5b1d1cf7011	Alcazar - The Forgotten Fortress (1985)(Telegames).rom	colecovision-yoriyoshizuki
+73183cfb200e163b2afca033f59c1308	Alice in Chain's California_7.5kHz (dvik).rom	colecovision-yoriyoshizuki
+6b6fd534e0fb135fe828ba6a87594c78	Amazing Bumpman (1986) (TeleGames) [a1].rom	colecovision-yoriyoshizuki
+779804cc5dcf2487bfb7529abe6ba107	Ambigram 1 (2011)[6 frames animation demo].rom	colecovision-yoriyoshizuki
+4c1af87289940a74cbc187fa293a6f08	Ambigram 2 (2011)[6 frames animation demo].rom	colecovision-yoriyoshizuki
+7dfdc1a43921c95d75f6c0214d89925e	Ambigram 3 (2011)[6 frames animation demo].rom	colecovision-yoriyoshizuki
+087e65a78ad4ff1dbd302164222589eb	Anti-Environment Encounter (A.E.) (2012 Collectorvision Games).rom	colecovision-yoriyoshizuki
+e8277b124ff8a849bb62497dcdec0bc1	AntiISDA Warrior (2004 Ventzislav Tzvetkov).rom	colecovision-yoriyoshizuki
+32c39f5ca660b611c2d014b579144d9f	AntiISDA Warrior (2004) (Ventzislav Tzvetkov) [a1].rom	colecovision-yoriyoshizuki
+e471dad6809dbc845b2d73e7193c5343	Aquattack [T+Rus_Cool-Spot].rom	colecovision-yoriyoshizuki
+da053f13ecfc51673fe0f2820736ef0e	ARKANOID demo (2009)(Taito by Opcode).rom	colecovision-yoriyoshizuki
+4ce7a9d7f9fd9cd5b88ccfb67bfb3511	bacachase_20160805.rom	colecovision-yoriyoshizuki
+e3075545df9526e7fa30794df1708600	Bank Panic (2011 Team Pixelboy).rom	colecovision-yoriyoshizuki
+1dd24cf3259af5f8fa44ca3a1266b51a	Bankruptcy Builder (2008 Philip Klaus Krause).rom	colecovision-yoriyoshizuki
+6243e6678d61528ec551c9b29f6a27e5	Bankruptcy Builder 2008-05-15.rom	colecovision-yoriyoshizuki
+b751c4a3a83db819b848db3bad740b34	Bankruptcy Builder 2008-05-17.rom	colecovision-yoriyoshizuki
+68dad1a4e995c6a390dc1c73f063de35	Bankruptcy Builder 2008-05-18.rom	colecovision-yoriyoshizuki
+424407e26dc78b19429303970fa284c4	Battleship (2003 Mathieu Proulx) (Demo).rom	colecovision-yoriyoshizuki
+a1fa161de97e6084691f3bc6f5f46f55	BC's Quest for Tires (1983)(Coleco Canada).rom	colecovision-yoriyoshizuki
+dcc316df4898d4836c1e430692fd9fd5	BC's Quest for Tires II - Grog's Revenge (1984)(Coleco Canada).rom	colecovision-yoriyoshizuki
+3d4cbf93b2ef9a535a0a32a18a7f0f60	Beamrider (1983) (Activision) (32k).rom	colecovision-yoriyoshizuki
+d4de9cddf1ee32bea6f407ced643cbf7	Bejeweled (2002 Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+d13b965a8be5c366e80b8c508f849cc5	Berenstain Bears, The (1984) (Proto).rom	colecovision-yoriyoshizuki
+28ed13aa720eee1e5e37131ef4f45b4a	Beyond Terra (2009 Scott Huggins) (Demo).rom	colecovision-yoriyoshizuki
+8ca2a94aadd489a93863b8ea565fe2b3	Big changes at Opcode Games (BB.rom) (2008.05.18 09.58).rom	colecovision-yoriyoshizuki
+d7b3172b33063e0f66a0373596edca17	BIOS - Super Game Module (2009) (Sly DC).rom	colecovision-yoriyoshizuki
+c06caf966a417bce1b11ffc46e713548	Black Onyx, The (200x) (Sega-Unknown).rom	colecovision-yoriyoshizuki
+aa9c71e6b97a1ec3ff8ec4e7905a5da6	Black Onyx, The (2013 Team Pixelboy) [SAVEGAME].rom	colecovision-yoriyoshizuki
+8130d22eacf15535613d21fae967808c	Black Onyx, The WIP001 (1987)(SEGA).rom	colecovision-yoriyoshizuki
+0d6301521491929334b6bcf27b1493b9	Black Onyx, The WIP002 (1987)(SEGA).rom	colecovision-yoriyoshizuki
+fb4676ead0b5e216f0d8d01a0c593b66	Black Onyx, The WIP003 (1987)(SEGA).rom	colecovision-yoriyoshizuki
+50e6fefb6fe9e85d06b6f4d36275626c	Black Onyx, The WIP004 (1987)(SEGA).rom	colecovision-yoriyoshizuki
+2a4eeaf3a150c2542ec57a34e5635e70	Black Onyx, The WIP005 (1987)(SEGA).rom	colecovision-yoriyoshizuki
+93d5326c54f1a92a18e843838aee441f	Blockade Runner (1984)(Interphase).rom	colecovision-yoriyoshizuki
+26bb932c44198342a832a1c24ac24620	BombJack (2012 Michel Louvet) (Playable Demo).rom	colecovision-yoriyoshizuki
+ff055f329760980900bbe2f973a9ece6	Boulder Dash (1987)(Telegames).rom	colecovision-yoriyoshizuki
+00abc11f57f80c57bf6205affe61ed56	Boulder Dash (USA) [T-BR] [T-Patryck] [V-1.0 A-2016].rom	colecovision-yoriyoshizuki
+4dcf513507b5c7fab7e83b8161770cb3	Box Sprite Test (2011.03.23).rom	colecovision-yoriyoshizuki
+cf347f4c37149cb95c9a247acf2b7f8b	Boxgame 0.1 (2013).rom	colecovision-yoriyoshizuki
+6acf055212043cd047202adc3316e85c	Boxxle (2015 Team Pixalboy).rom	colecovision-yoriyoshizuki
+1e0660377b3ffa872ab5b78266c1c878	Boxxle Jukebox (2010) (Daniel Bienvenu) (Demo).rom	colecovision-yoriyoshizuki
+e4dfd9c95c72bd2a516043c33636e23a	Bresshot (2011.12.31 15.44).rom	colecovision-yoriyoshizuki
+cb39acb00ed3fc204ba3965f20180b68	Bruce's Controller Tester (PD) v1 Bruce Tomlin 2004.rom	colecovision-yoriyoshizuki
+d032d6e0a34d427f7885e88d308f8d92	Buck Rogers - Planet of Zoom (1983)(Coleco).rom	colecovision-yoriyoshizuki
+d365cf7b774679842a9f99953b97ab0a	Bump 'n' Jump (1984)(Coleco).rom	colecovision-yoriyoshizuki
+4fa6302fecfdadb1a92290d6d26d5df2	Burgertime (1984)(Coleco)[Proto maybe].rom	colecovision-yoriyoshizuki
+df654a56478e4c34ed0de3024d9fe7be	BurgerTime_short.rom	colecovision-yoriyoshizuki
+49c23fc32f5f07a10e5af504fca93c99	Burn Rubber (2012 Collectorvision Games).rom	colecovision-yoriyoshizuki
+f416084998164884e6e11e6dcd3306d2	Cabbage Patch Kids - Adventures in the Park (1983) (Coleco) (Prototype-128K).rom	colecovision-yoriyoshizuki
+3ef9719a6345c1a322ae17836e414c9f	Cabbage Patch Kids - Adventures in the Park (1984) (Coleco) (Prototype).rom	colecovision-yoriyoshizuki
+cd9220e5c6887792b575ac224f2c7d48	Call of Pac-Man.rom	colecovision-yoriyoshizuki
+3d24a888b790799d515b17cdfeb37448	Canadian Minigames (2008 Wick-Foster-Bienvenu).rom	colecovision-yoriyoshizuki
+e1ec566a86cc6dd5b16ecc0ea87931ea	Carnival (1983) (CBS Electronics) (Cart # 4L2006 - Box # 7430-2A).rom	colecovision-yoriyoshizuki
+7bf914ee3d7a66eb0fdb579b26ad1f25	Castelo (1985) (Splice & IBM).rom	colecovision-yoriyoshizuki
+9023a47b281b9383aefdd0153d4e36a3	CAT S.O.S. (Scheduled Oil Sampling)(Promo).rom	colecovision-yoriyoshizuki
+61e9d31807145763894eab07b350e4f9	Cave_Beta_2.rom	colecovision-yoriyoshizuki
+be5507b7df903b9b63c260ae83073c9b	caverns_of_titan_colecovision_sgm.rom	colecovision-yoriyoshizuki
+8d048bd2119558caecaf47da0960054a	CCJVQ PhillyClassic 4 Beta-Demo (2003) (Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+9a414de9babd48657b5927b635a627dd	CCJVQ PhillyClassic 4 Final-Demo (2003) (2003-03-27) (Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+8ba20ab42ba400e36dffd2dbd570441a	Centipede (USA) [T-BR] [T-Patryck] [V-1.0 A-2016.rom	colecovision-yoriyoshizuki
+c8d302e168f7363f9714845d409a1c56	Chateau du Dragon, Le (200x)(Daniel Bienvenu)(French).rom	colecovision-yoriyoshizuki
+353e9cde866ea405e6a1cd6e5df4f032	Circus Charlie (2011 Team Pixelboy).rom	colecovision-yoriyoshizuki
+c71423942d3c95dad7ed13a8bf7dde85	cold_blood_colecovision_sgm.rom	colecovision-yoriyoshizuki
+3cd69b32235b9fb39f8867833d7ec9e9	Coleco Matrix Movie Test 2 (2009).rom	colecovision-yoriyoshizuki
+5aff879c9718a57de62063bf74b4318d	Coleco Matrix Movie Test 3 (2009).rom	colecovision-yoriyoshizuki
+96e182a0a87a79f50375e0d55657fe81	Coleco Matrix Movie Test 4 (2009).rom	colecovision-yoriyoshizuki
+f1c1438f50f991d24f062a0b0f9003bd	Coleco Telstar Gemini demo.rom	colecovision-yoriyoshizuki
+f9192aee5c44ad8dcb582e3bbeedbce0	ColecoVision 128-in-1 Flash Cart banker.asm.rom	colecovision-yoriyoshizuki
+e03ff8c4abab66e2bf72d5caed6d3651	ColecoVision 128-in-1 USB Menu.rom	colecovision-yoriyoshizuki
+3a7ab6e3c623c604c549f987a6e5035b	ColecoVision BIOS (200x) (Unknown) (Fire Button Skip Intro).rom	colecovision-yoriyoshizuki
+92c5c68b8dad10033494401f21f6ddf4	ColecoVision BIOS (200x) (Unknown) (Short Delay).rom	colecovision-yoriyoshizuki
+28810134c8600df1f41d4ed2df5cf8d9	Colecovision Bios (2010) (Unknown) (Fire Button Skip Intro) (Pal).rom	colecovision-yoriyoshizuki
+e967576ee1eb0f813d6bcec81f762763	Colecovision BIOS (Square Logo & Intellivision Fonts) (2008) (Sly DC).rom	colecovision-yoriyoshizuki
+34efc675f8eef63f9ab5f0f7f7a37ec1	ColecoVision Final Test (1982) (Coleco).rom	colecovision-yoriyoshizuki
+69333d19bdaad7c0af5b1f89a89137bb	Colecovision Frog Feast (Frog) (2007.12.22 18.52).rom	colecovision-yoriyoshizuki
+47c7504b1a50ec97f7d17d01d9f787a3	Colecovision Frog Feast (Result) (2007.12.13 22.47).rom	colecovision-yoriyoshizuki
+d1f6bad05ce1976478bdbe5fd5f30cd7	Colecovision Frog Feast (Result) (2007.12.15 23.13).rom	colecovision-yoriyoshizuki
+4fbe043b994be09a77f9112f4b8b0d1a	ColecoVision GhostBlaster ccjvq01 (2009)(Ccjvq).rom	colecovision-yoriyoshizuki
+69c0faf5e20a82729294fe86e25c7126	ColecoVision GhostBlaster ccjvq02 (2009)(Ccjvq).rom	colecovision-yoriyoshizuki
+be2df96fab630bf3476b72fcd7c2aac0	ColecoVision GhostBlaster ccjvq03 (2009)(Ccjvq).rom	colecovision-yoriyoshizuki
+f5c76589c7ce650eef950eb7fac3679c	ColecoVision GhostBlaster ccjvq03b (2009)(Ccjvq).rom	colecovision-yoriyoshizuki
+28aa6fb47bd14f2fd45928c43d1efaff	ColecoVision GhostBlaster ccjvq04 (2009)(Ccjvq).rom	colecovision-yoriyoshizuki
+253149a86c3c160fe9710a18f6e79b42	ColecoVision GhostBlaster ccjvq04b (2009)(Ccjvq).rom	colecovision-yoriyoshizuki
+725e0a7d7e0b97d6ab5929fed89c170e	ColecoVision GhostBlaster ccjvq05 (2009)(Ccjvq).rom	colecovision-yoriyoshizuki
+f2c8472fb77bd06957149f50746bcd58	ColecoVision GhostBlaster ccjvq05b (2009)(Ccjvq).rom	colecovision-yoriyoshizuki
+d77f55320131d41c9e18f0504f4a3d69	ColecoVision GhostBlaster ccjvq06 (2009)(Ccjvq).rom	colecovision-yoriyoshizuki
+959e3375acc5aae43eb6d6556ca66fbf	ColecoVision GhostBlaster ccjvq07 (2009)(Ccjvq).rom	colecovision-yoriyoshizuki
+6dd79f7d57430fb632b31955442b3b17	ColecoVision GhostBlaster ccjvq07_level5 (2009)(Ccjvq).rom	colecovision-yoriyoshizuki
+0298bbc6c59f5faba7f8d746d95df491	ColecoVision GhostBlaster ccjvq16 (2010-03-26)(Ccjvq)[final version PAL alternate graphics DAN0 compression].rom	colecovision-yoriyoshizuki
+ccbe0a386b9e754a4ced0a47f112e62e	Colecovision Mock up pictures slideshow(2013.02.19 01.24).rom	colecovision-yoriyoshizuki
+52e6357fee521e91fc89f03f055da52d	ColecoVision Music Demonstration (198x) (Coleco).rom	colecovision-yoriyoshizuki
+1085fff84960d2b871975f56bd6318e3	ColecoVision Qix v x0 (2012.08.28 04.03).rom	colecovision-yoriyoshizuki
+0d0e797f5f7dab82fbafd5ba916f2485	ColecoVision Qix v x1 (2012.09.02 01.57).rom	colecovision-yoriyoshizuki
+5fb99eb26e5b09a49638bf57e04d09e7	ColecoVision Qix v x2 (2012.09.02 04.23).rom	colecovision-yoriyoshizuki
+f448e195b4fa90e695e9faa83b3798ec	ColecoVision Qix v x3 (2012.09.02 09.26).rom	colecovision-yoriyoshizuki
+86bd14f8840936ef8cf37b44fb4b9669	ColecoVision Qix v x4 (2012.09.03 04.46).rom	colecovision-yoriyoshizuki
+c9dd23559e4e948f8d13906b1d0e1702	ColecoVision Qix v x5 (2012.09.03 19.35).rom	colecovision-yoriyoshizuki
+35518746e3c4d9b579bca30e3573e181	ColecoVision Qix v x6 (2012.09.07 03.17).rom	colecovision-yoriyoshizuki
+f07f02e4b17604a4badd163545f4dcc0	ColecoVision Qix v x7 (2012.09.08 04.34).rom	colecovision-yoriyoshizuki
+77406eb2996fd9742fe9b6514503cae4	ColecoVision Qix v x8 (2012.09.09 05.27).rom	colecovision-yoriyoshizuki
+d4a3422e0fc7d5fff35f7307cdbea436	ColecoVision Qix v x9 (2012.09.16 22.36).rom	colecovision-yoriyoshizuki
+cba184ce4ee4ab77b93978034fbfba80	ColecoVision Qix v xa (2012.09.22 02.50).rom	colecovision-yoriyoshizuki
+d388edf7f2d1e53e6faae46fa89c1966	ColecoVision Qix v xb (2012.10.01 04.55).rom	colecovision-yoriyoshizuki
+38709757abdadc75a7bb95960751ffb4	ColecoVision Qix v xc (2012.10.21 02.41).rom	colecovision-yoriyoshizuki
+71eea37fe582e1ac6763471de98007ed	Colecovision RPG Demo (V001) by Bruce Tomlin (2006) (PD).rom	colecovision-yoriyoshizuki
+15ede103fb38b678fd7d03bb02763c52	Colecovision RPG Demo (V002) by Bruce Tomlin (2006) (PD).rom	colecovision-yoriyoshizuki
+03bcc5f188bdcb7ddad486ccba1ecaca	Colecovision RPG Demo (V003) by Bruce Tomlin (2006) (PD).rom	colecovision-yoriyoshizuki
+5918fb663b21108dcd28e70f5ef4221a	Colecovision RPG Demo (V004) by Bruce Tomlin (2006) (PD).rom	colecovision-yoriyoshizuki
+070e2f2fbf621597e3d4fbdd26b17622	Colecovision RPG Demo (V005) by Bruce Tomlin (2006) (PD).rom	colecovision-yoriyoshizuki
+d31fa1f18350ed50049f44b6230360c2	Colecovision RPG Demo (V006) by Bruce Tomlin (2006) (PD).rom	colecovision-yoriyoshizuki
+97b86ffe480c80f8cef63e8ca42e23e0	Colecovision RPG Demo (V007) by Bruce Tomlin (2006) (PD).rom	colecovision-yoriyoshizuki
+f7945faf327001045aad35a77e6f8b64	Colecovision RPG Demo (V008) by Bruce Tomlin (2006) (PD).rom	colecovision-yoriyoshizuki
+16f4a0e4b7429dd5619045a56268c53d	Colecovision RPG Demo (V012) by Bruce Tomlin (2006) (PD).rom	colecovision-yoriyoshizuki
+06ab1f9ff61bec31ac123944ceaeb205	Colecovision RPG Demo (V014) by Bruce Tomlin (2006) (PD).rom	colecovision-yoriyoshizuki
+ef68cd2cc7e8799e9da702fa7d4024d3	ColecoVision Screen Test (200x) (Unknown)(2).rom	colecovision-yoriyoshizuki
+a1f2ed68bb36c6392e6840d788e5f1ea	colecovision_borielszxbasiccompiler_example01b_notworking_201306291802.rom	colecovision-yoriyoshizuki
+679a33211f435d98e5a5ffffdbd782ea	Colored Gravity - #6 (2008) (Philipp Klaus Krause) (Demo).rom	colecovision-yoriyoshizuki
+4ad3c612af470502155d2c8e340767fb	Colored Gravity - #7 (2008) (Philipp Klaus Krause) (Demo).rom	colecovision-yoriyoshizuki
+d97bc384aa242e88d85cb616b91fcdfa	Colored Gravity - #8 (2008) (Philipp Klaus Krause) (Demo).rom	colecovision-yoriyoshizuki
+f56e4d17741965a0040e77a11fc4b4ba	Colored Gravity (2008 Philip Klaus Krause).rom	colecovision-yoriyoshizuki
+e16cdaca0009493b7738a50bcc56a5b2	Colored Gravity v1 (2008)(Philipp Klaus Krause).rom	colecovision-yoriyoshizuki
+2312544786bc6c5153f06f4985040e0a	Colored Gravity v2 (2008)(Philipp Klaus Krause).rom	colecovision-yoriyoshizuki
+085a58758ced53e79bbcbc6cc665267d	Colored Gravity v4 (2008)(Philipp Klaus Krause).rom	colecovision-yoriyoshizuki
+3d765dba72e430aa91565c4df7bbe12a	Commando Jukebox (2010) (Daniel Bienvenu) (Demo).rom	colecovision-yoriyoshizuki
+ff9aa107f663221c2cb4678e62273c40	Commando Music - Bass And Drum Loop (Cv Commando Pal) (2010.04.28 08.51).rom	colecovision-yoriyoshizuki
+df42fc3c4cf4f86dbc83ce55911db186	Commando Returns (2012 Michel Louvet) [WIP].rom	colecovision-yoriyoshizuki
+2c03c558fd0daf150ea9e1f7849216e4	Commando Theme Song Remix v2 (2010)(Daniel Bienvenu)(PAL).rom	colecovision-yoriyoshizuki
+5196d93e4ee33218cbf3601a069ec54d	compression demo.rom	colecovision-yoriyoshizuki
+25ede3992e99074a029e81ddb03a1a3f	Controller demo for ColecoVision (19-02-2012)(Darrel Spice Jr).rom	colecovision-yoriyoshizuki
+aa8c4cc7541898ed9695326583205d6d	Controller demo for ColecoVision (21-02-2012)(Darrel Spice Jr).rom	colecovision-yoriyoshizuki
+f7fd01bb1b6ecb3cf6960c2b30d64852	Cosmic Crisis (1983) (Bit Corp.-TeleGames) [o2].rom	colecovision-yoriyoshizuki
+19b438144193eee76b496424fc017996	Cosmo Challenge (1997)(Kogali).rom	colecovision-yoriyoshizuki
+297f351735a0bc304b53d2263ee0c027	Cosmo Fighter 2 (1997) (Marcel de Kogel-Red Bullet Software).rom	colecovision-yoriyoshizuki
+cf38f0479cbfcbbc95bb7a7ff5a62bfc	Cosmo Fighter 3 (2001) (Marcel de Kogel-Red Bullet Software) [a1].rom	colecovision-yoriyoshizuki
+244f7b7657e841a45e13c73a46bde02e	Cosmo Fighter 3 (2002) (Marcel de Kogel-Red Bullet Software).rom	colecovision-yoriyoshizuki
+1992e9c2ab5e1cfa2d60595757a7dab3	Cursor.rom	colecovision-yoriyoshizuki
+78824ab36ebd6ae9064f7f8bcb46fb4a	Cursor32.rom	colecovision-yoriyoshizuki
+757fe27f50a96cc3ad55b74dc518ff24	cv_vdp_status_test (2013)(nanochess).rom	colecovision-yoriyoshizuki
+f03f100f59ec898e1f68d598ed581fd7	cv-sabrina-boysboysboys-sample-danielbienvenu.rom	colecovision-yoriyoshizuki
+ef4154fa766ec3e0369e5fa2488f10e0	Cye 1.0 (2007 Philip Klaus Krause) (Playable Demo).rom	colecovision-yoriyoshizuki
+810c9ea13783eb1afea296c037b09c5d	Cye v0.1 (2007)(Philipp Klaus Kase).rom	colecovision-yoriyoshizuki
+93476f9db8f98305ca29d5f83efc065f	Cye v0.4 (2007)(Philipp Klaus Kase).rom	colecovision-yoriyoshizuki
+e6bee0dd2adf01ced8f79b7c71639bb9	Cye v0.8 (2007)(Philipp Klaus Kase).rom	colecovision-yoriyoshizuki
+c5c8d103ca7e4af262ef0fb0bdbb2f9a	DacMan (2000) (Daniel Bienvenu-NewColeco).rom	colecovision-yoriyoshizuki
+927d921af495832fc9214a67851222e9	DacMan (2000)(Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+d6e826d832e13c13073dfba3b26d899e	Dam Busters, The (1984)(Coleco).rom	colecovision-yoriyoshizuki
+c8c930b4934dfc9f8b2c7f45adbc1172	danger_tower_colecovision_sgm.rom	colecovision-yoriyoshizuki
+224ef8196ba5194b5f9f147f9d59711c	Daniel Bienvenu 's SideTrak MusicBox Feb-Mar 2011.rom	colecovision-yoriyoshizuki
+92535c267d4b760f6e0bfe9e7fdfa070	Dantructor (2010-07)(NewColeco)[Destructor hack].rom	colecovision-yoriyoshizuki
+1e00217ab176e9868bbceb7c959a7b2a	Data Drive Burn-In DDP Test (198x) (Coleco).rom	colecovision-yoriyoshizuki
+5b6fd71e613d72db3957245dea6ea5a6	Death Dearby (2003)(David Widel).rom	colecovision-yoriyoshizuki
+db88c443599a57c1f436f146b632caa7	Decathlon (1983)(Activision).rom	colecovision-yoriyoshizuki
+dae056a210dada6e42b2525760eee179	deep_dungeon_adventure_colecovision_sgm.rom	colecovision-yoriyoshizuki
+1338bd232bf3f96483d9419811d8c3c9	Defender (1983)(AtariSoft)(ADAM fix)(PAL fix).rom	colecovision-yoriyoshizuki
+51f3d114ce947231072ea73e97200cba	Defender (1983)(AtariSoft)(PAL and ADAM Patched).rom	colecovision-yoriyoshizuki
+ad5000952034853819769ce22b9cf788	Defender (1983)(Atarisoft)[f PAL & ADAM].rom	colecovision-yoriyoshizuki
+4cd97be9579fc360f909fc3c1081fdf4	Deflektor Kollection (2005 Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+fcca54dd82f04624d9ee97b9c1a7c248	Delta Remix 1 (2012)(Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+88d684b29f21d2d3438ae511c8875d5e	Delta Remix 2 (2012)(Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+e937ac542f6713cb68185983ed5784d0	Destructor (2010 Daniel Bienvenu) [Standard Controller Hack].rom	colecovision-yoriyoshizuki
+87d7d355ede1235ac6134cfd8b0832b9	Destructor SCE (2010 Team Pixelboy).rom	colecovision-yoriyoshizuki
+d4a1590e39d116b90956c7a2abff554a	Diamond Dash (2004 Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+8eb7de4b58a1f5b68b38087390ccb201	Diamond Dash!! Original alpha version (2003).rom	colecovision-yoriyoshizuki
+af381d13751aa29ed75539d7b4f29d5a	Diamond Dash!! Original alpha version (2011).rom	colecovision-yoriyoshizuki
+cd39b74c75765f556c2429e7556bc2db	Diamond Dash!! WIP1.rom	colecovision-yoriyoshizuki
+7fee8eda8ceb015cfd9da55c84ff9673	Dig Dug (1983) [T+Rus] by Multisoft.rom	colecovision-yoriyoshizuki
+df2d9c0aa0211ed0365815c8052b828d	Digger (2014 Mystery Man).rom	colecovision-yoriyoshizuki
+9e9488adc239e250610c283e90e3cda2	Digital Sounds By Tone Channel Volume Variations (Result 19) (2009.12.12 14.39).rom	colecovision-yoriyoshizuki
+815879df6a6d4806f735cf613a1cc32f	Donkey Kong Jr. (1983) (Nintendo-Coleco) [a1].rom	colecovision-yoriyoshizuki
+7a2563226387fc1f8a12ac2e1e68a8a9	Double Breakout (2003 Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+f40e513ca12a3f6a50d5e64d03a3f0b4	dprom01-TEST3.rom	colecovision-yoriyoshizuki
+654bf33a2f4386984367957ec3e0632b	Dr. Seuss's Fix-Up the Mix-Up Puzzle (demo) (1984)(Coleco).rom	colecovision-yoriyoshizuki
+3223f2084d6a68ae9ef21db847f11a52	Dr. Seuss's Fix-Up the Mix-Up Puzzle Rev R (1984)(Coleco)(proto).rom	colecovision-yoriyoshizuki
+e9e6487e7cce830720011cc7cb02a889	Dracula (Unreleased) (2011.01.07 00.43).rom	colecovision-yoriyoshizuki
+02487efea9f72e5990194ae2a8af4e34	dracula music.rom	colecovision-yoriyoshizuki
+f6aa81ad65cff814237864bac3d378b7	Dracula xpmck-18 music test.rom	colecovision-yoriyoshizuki
+a2e797efc1b754de8e16e6ca427900aa	Dragon's Lair (1984) (Proto).rom	colecovision-yoriyoshizuki
+1b67aee14e7f8687c9b27dca0efaddf9	Earth from space (2009)[coleco multicolor bitmaps].rom	colecovision-yoriyoshizuki
+70ab87dd2638fd6e69039781b1cb0fdc	Earth from space v2 (2009)[coleco multicolor bitmaps].rom	colecovision-yoriyoshizuki
+5e234d6c20935ffd057ceee7c69f41df	Earthbound battle scene Mock-up 1 (2013.07.18 19.37).rom	colecovision-yoriyoshizuki
+e533d663f3c8045a6c5d3f9516a4e795	Earthbound battle scene Mock-up 2 (2013.07.19 13.17).rom	colecovision-yoriyoshizuki
+cb577e4798d1347804e95fdd80a1a2a4	Easter Bunny (2007 Daniel Bienvenu) [Title Screen].rom	colecovision-yoriyoshizuki
+a7a0f0c82b04db1cc4315ea89b50ab53	Easter Bunny (2007 Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+b529b168ed57828bcd122a0fc5343a13	Easter Bunny (2007)(Daniel Bienvenu)[old version].rom	colecovision-yoriyoshizuki
+68c5c9e9d88bbaab62b8d1495af0dae7	eprom-flash-63in1-part1.rom	colecovision-yoriyoshizuki
+6bd61c8417883fb593ff22c8c4d1e479	eprom-flash-63in1-part2.rom	colecovision-yoriyoshizuki
+a7738ca1e1ee473cb3bdcc7453e8236d	Europe - The Final Countdown (finalcountdown day1.5) (2011.03.12 10.21).rom	colecovision-yoriyoshizuki
+e4b72605785f96ded523ee2adf64b84f	Europe - The Final Countdown (finalcountdown day1) (2011.03.11 13.32).rom	colecovision-yoriyoshizuki
+a71ed385ede0c248b857c11a8a4401e4	Europe - The Final Countdown (finalcountdown day2) (2011.03.14 12.42).rom	colecovision-yoriyoshizuki
+e0d1ff37974fa017a6c78c174925643a	Evolution (198x)(Telegames).rom	colecovision-yoriyoshizuki
+3dd7c5de4a5b12e12163377f655337e0	example01z1c3_firsttest.rom	colecovision-yoriyoshizuki
+6c022fd068848367b30506701539ca84	example01z1c4_nmihaltwaitvbl.rom	colecovision-yoriyoshizuki
+bef26801af8248d9e92364dedc1f600f	example01z1c5_vpoke_notworking.rom	colecovision-yoriyoshizuki
+5154d316013f9d6764403f9f5900a202	Fall Guy (1983) (20th Century Fox) (Prototype) [o2].rom	colecovision-yoriyoshizuki
+43d37801db445b5411488ac399bbc20c	Fathom (1983)(Imagic).rom	colecovision-yoriyoshizuki
+ee9526f3a549bdcea5ec3a9fe1b24329	FCycles TestPackage 01 (48Sprites).rom	colecovision-yoriyoshizuki
+58ab8d583aed160245f3240cb259a2d0	FCycles TestPackage 01 (VideoMode MultiColor).rom	colecovision-yoriyoshizuki
+1633cf6e8792cabbf397d22e9f72851a	FCycles TestPackage 01 (VideoMode Text).rom	colecovision-yoriyoshizuki
+356b8b3fa3d00feb8124c551f0e8ca42	Final Test Utility (198x) (Coleco) [a2](2).rom	colecovision-yoriyoshizuki
+b8e8e3700d9a67192451c89452c8bc73	Fireman (1984) (Proto).rom	colecovision-yoriyoshizuki
+59e0e1e6af4c68e7b74458efad7e3f15	FlappeByrdFINAL.rom	colecovision-yoriyoshizuki
+084e55d3cfe849a244b8ada1ac9cfa02	FlappyBird.rom	colecovision-yoriyoshizuki
+9cd9153748b24d0b5fd877686a3e5c67	Flipper Slipper (1983)(Spectravideo).rom	colecovision-yoriyoshizuki
+128375dd1a21078922c88a11f148f25c	Flora and the Ghost Mirror (flora 20121130demo).rom	colecovision-yoriyoshizuki
+002878e46d7fd6a6e8efbc1b3fbe070c	flyingshark_colecovision.rom	colecovision-yoriyoshizuki
+3ff8080f344ed52ea819b3a88854947b	Frantic (2008 Scott Huggins) (Playable Demo).rom	colecovision-yoriyoshizuki
+4afbaaa881283e45740b87a8a227f63a	Frantic (2008) (Scott Huggins) [a1].rom	colecovision-yoriyoshizuki
+e69342d0c82bcfdee4aa2cbc65fac2b6	French RGB BIOS (2014)	colecovision-yoriyoshizuki
+8a5201c9dec68ed405f2d82287c746ae	Frog Feast (20XX Robert).rom	colecovision-yoriyoshizuki
+b4d15dc2a2af2b28d6aa4ee5f600bba2	Frog Magi (200X Dale Wick).rom	colecovision-yoriyoshizuki
+787177e9c8160787ba1d90d8dcb75323	Front Line S.C.E. (2015 Team Pixelboy).rom	colecovision-yoriyoshizuki
+9c3a581843ce1efe220e7e726cadb9ea	frostbite_colecovision.rom	colecovision-yoriyoshizuki
+f793e20fbba2cda78e605eca09c8b935	Game Pack 1 (2002 Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+0567f3d69caa15ebb554283d77f29217	Game Pack 2 (2004 Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+4f12c4c117d556e0ca90058e43982d41	Game Pack 2 (2004)(Daniel Bienvenu)[prototype].rom	colecovision-yoriyoshizuki
+dba14b8db8b1c5e940f7389f6c1dafa8	GamePack I (2002) (Daniel Bienvenu-NewColeco).rom	colecovision-yoriyoshizuki
+e445a3b7084940cf79f71828f5412b7e	GamePack II (2002) (Daniel Bienvenu-NewColeco).rom	colecovision-yoriyoshizuki
+56d82631b3e1b2a0740540404c68c244	Gamma Test Utility (198x) (Coleco)(2).rom	colecovision-yoriyoshizuki
+7262176bb5917af526243438f6c8d9e4	Gateway to Apshai (1984)(Epyx).rom	colecovision-yoriyoshizuki
+725b1f7bfb4bfb9f38f9e33f75b56731	Ghost Blaster (Ccjvqb 2) (2009.08.09 12.08).rom	colecovision-yoriyoshizuki
+71d2604def8b4e8e4601c0a0f2863fce	Ghost Trap (2009.04.27).rom	colecovision-yoriyoshizuki
+b2f7031269769f6c64efc4c43866028e	Ghost Trap (2009.04.28).rom	colecovision-yoriyoshizuki
+3de2007c806a26c4c62cdb47bb3d6a6b	GhostBlaster (2009 Daniel Bienvenu) [Rev.A NTSC].rom	colecovision-yoriyoshizuki
+c0f2fe0ecf5bf7e6b4b569b359760681	GhostBlaster (2009 Daniel Bienvenu) [Rev.B PAL].rom	colecovision-yoriyoshizuki
+c66139aac1b1ac2f54dfaad483a6ebcc	GhostBlaster (2009 Daniel Bienvenu) [Rev.B2 PAL].rom	colecovision-yoriyoshizuki
+846808155ad262408e05e45f96a7031f	Girl's Garden (2010 Team Pixelboy).rom	colecovision-yoriyoshizuki
+3acdb4de7d7f4666c10214fd71272897	Golgo 13 (2011 Team Pixelboy).rom	colecovision-yoriyoshizuki
+db485fee649778e682b9f409fa12380f	GrailoftheGodbugfix2.rom	colecovision-yoriyoshizuki
+4adc6151febde76c1c732e23098acb80	Gran Tourista 5 (2010) (Unknown) (Demo).rom	colecovision-yoriyoshizuki
+647ab17437cfe750a96c1cf3fb51ee40	Gridtest day3 (2013)(NewColeco).rom	colecovision-yoriyoshizuki
+c3819373f2ff17bc870e9a26ed3a1cf6	Gulkave (2010 Team Pixelboy).rom	colecovision-yoriyoshizuki
+89219c0fbedcab47c5c32740874bcd20	Gyruss Prototype (2011.05.17 18.54).rom	colecovision-yoriyoshizuki
+f9c7d3355681d859c07158a6d4834eb3	h7n9_20160807.rom	colecovision-yoriyoshizuki
+b664f097c0d3de0d6680e118b719265b	Haddaway Jukebox (2010) (Daniel Bienvenu) (Demo).rom	colecovision-yoriyoshizuki
+5f801cb69859ef2eaf09bccafc843968	Halloween Card Rom (2011).rom	colecovision-yoriyoshizuki
+6d52062acf718725d1a34afd96f899a5	Haunted Caves (2013 Nicolas Campion).rom	colecovision-yoriyoshizuki
+ec1b10bd126b262013e7b5feaf6587c7	heroes_arena_colecovision_sgm.rom	colecovision-yoriyoshizuki
+3b8643513adb4a98fb54d7ce69951c0c	HorseRacingIsometricRev01.rom	colecovision-yoriyoshizuki
+51a3e5d6996312501e39d63c8bd5ad2a	HorseRacingRev01.rom	colecovision-yoriyoshizuki
+3117357da09ba88dfe01f3edf875ba59	HorseRacingRev02.rom	colecovision-yoriyoshizuki
+2fb5121a93ef7c6691f346a30874483e	HorseRacingRev03.rom	colecovision-yoriyoshizuki
+2bba61fdc0fac1f0eefc88d28f4429c9	HorseRacingRev04.rom	colecovision-yoriyoshizuki
+f21ee104d51c92656aab28d2bac8df8f	HorseRacingRev05.rom	colecovision-yoriyoshizuki
+d7a0385a90094e3c8047ee94754b493c	HorseRacingRev06.rom	colecovision-yoriyoshizuki
+1735a0ad71d88e1a64c9148ed0ad3653	Hustle (200x) (Unknown).rom	colecovision-yoriyoshizuki
+675092072cd70cedf19b1fa7d4fb7cf3	Hustle Demo v1 (2006.11.22 06.30).rom	colecovision-yoriyoshizuki
+04e615b23f5d55aad821cb0adf4bba6e	Insane Pickin' Sticks VIII (2009 Daniel Bienvenu) [4K].rom	colecovision-yoriyoshizuki
+fa6cc4752e31e971eb8afad01ec9a285	Insane Pickin' Sticks VIII (2009 Daniel Bienvenu) [Over 9000].rom	colecovision-yoriyoshizuki
+fd510a3fa01bf2a5575bc8190473ecd8	Io-0.1.rom	colecovision-yoriyoshizuki
+f16f004c560fc8b9d6e912276d631185	Io-0.10.rom	colecovision-yoriyoshizuki
+66b9f26e1c8833ae45fc166a3a8301a2	Io-0.11.rom	colecovision-yoriyoshizuki
+57284309c97e3cc4c16865504d3cc268	Io-0.13.rom	colecovision-yoriyoshizuki
+0c22be31be03f0fd82149e582203eff1	Io-0.14.rom	colecovision-yoriyoshizuki
+af92666a9d9e8b1f6af06241aa28492a	Io-0.15.rom	colecovision-yoriyoshizuki
+89b191676f12c408fe646d075adacd55	Io-0.2.rom	colecovision-yoriyoshizuki
+459a2a3132798dac68ded18f6d479ce8	Io-0.3.rom	colecovision-yoriyoshizuki
+4bd96937d1bcb7bc6a3eb3d054efe7be	Io-0.4.rom	colecovision-yoriyoshizuki
+5f231752a284d6784b952ea93ac848c7	Io-0.5.rom	colecovision-yoriyoshizuki
+045a308c0ca3222e5ac3b02e441f5bae	Io-0.6.rom	colecovision-yoriyoshizuki
+5ce97aa3b6733e8567725e2c01e63198	Io-0.7.rom	colecovision-yoriyoshizuki
+07438058ed30a406a8980908f5327768	Io-0.8.rom	colecovision-yoriyoshizuki
+e64e31ab2cca4fc9d0f3525fcfee8a40	Io-0.9.rom	colecovision-yoriyoshizuki
+fe445bb2dd1104ccc709b12332fc8332	Jack B. Quick (2008) (Mark2008) (Demo).rom	colecovision-yoriyoshizuki
+d6c263a445bbbd87d156ae40fc4b930b	James Bond 007 (1984)(Parker Brothers).rom	colecovision-yoriyoshizuki
+7eda9a3376d2c4a11b52931db90d2ddf	Jeepers Creepers (2007 Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+b6e48230f054120c1f9da8305d375902	Jeepers Creepers (2010).rom	colecovision-yoriyoshizuki
+0aa540fa3b637ca1093b586a46e506fb	Jet Boat! (200x) (Unknown) (Demo).rom	colecovision-yoriyoshizuki
+f8316e03e241c623aabb3e47788a1930	Jet Pack!.rom	colecovision-yoriyoshizuki
+a4bc70468e81d107a6ac7829824fb21e	jetpac_colecovision_sgm.rom	colecovision-yoriyoshizuki
+d82e255055f31f4df55729f4fc52eed2	Joystick Test 2 - Keypad (PD) Nitrofurano 2014.rom	colecovision-yoriyoshizuki
+af57e23dc57c618ccad72b5405e5e270	Jump by Van Halen (cvvhjump) (2013.11.10 20.45).rom	colecovision-yoriyoshizuki
+99b79d360a635abc15dbe83245f96586	Jump Gunnar Jump v0 (2009)(Dale Wick).rom	colecovision-yoriyoshizuki
+df97446e942af42871b67dfef0265cf0	Jump Gunnar Jump v1 (2009)(Dale Wick).rom	colecovision-yoriyoshizuki
+2ebff433d6effe5812f283d6bfd79ce2	kaboom_colecovision.rom	colecovision-yoriyoshizuki
+efaaaf9076b2dd39acdf55e9d4202d81	Kick Gas (2008 Dvik & Joyrex) (Playable Demo).rom	colecovision-yoriyoshizuki
+570ab7661074716a6506996ea5908f58	kings_valley_colecovision_sgm.rom	colecovision-yoriyoshizuki
+a94b0b7f1dc968f02dda282a1d98e142	Kitten (2009)[coleco multicolor bitmaps].rom	colecovision-yoriyoshizuki
+c7d9ee186b8a64719d68846b8e043ee7	Knight Quest (2013 Nicolas Campion) [WIP].rom	colecovision-yoriyoshizuki
+4e1bc38c1cdb7cd26757c993b28cb290	Kobashi (2008 Dvik & Joyrex) (Playable Demo).rom	colecovision-yoriyoshizuki
+3f72312a61c07182809381bf43be567c	Konami's Ping Pong (2011 Team Pixelboy).rom	colecovision-yoriyoshizuki
+af6a4dca2ea53ceb7c7497090aaf9644	kralizec_tetris_colecovision.rom	colecovision-yoriyoshizuki
+911d2dffe4514365c72d6e75905c26e3	Lady Gaga - Poker Face.rom	colecovision-yoriyoshizuki
+cc51a0986b939b45b6baf24eedf4dd72	Looping (1983) (CBS Electronics) (Cart # 4L2328 - Box # 74-269A).rom	colecovision-yoriyoshizuki
+08d864e6debe2157b1e30c253ef450be	Lord of the Dungeon (1983) (Probe 2000) (24kb) (4000).rom	colecovision-yoriyoshizuki
+9a88c1fef15c7fa3b6cb0a6350d58d83	Lord of the Dungeon (1983) (Probe 2000) (24kb) (6000).rom	colecovision-yoriyoshizuki
+d5964ac4e7b1fd3ae91a8008ef57a3cc	Lord of the Dungeon (1983) (Proto).rom	colecovision-yoriyoshizuki
+806e634477f80ec3e02d418556223385	Lord of the Dungeon, The (1983) (Probe 2000) (ADAM).rom	colecovision-yoriyoshizuki
+5ab580c386e6cb67ea1e01bd97c29ff3	Lord of the Dungeon, The (1983) (Probe 2000) (ColecoVision) [a1].rom	colecovision-yoriyoshizuki
+6e418c11dfe93797c12a5ba33ad881b3	lucifer song xpmck-18.rom	colecovision-yoriyoshizuki
+94eacf630e489d9a2cae64e0d57d9409	lucifer song.rom	colecovision-yoriyoshizuki
+2119aae3ff9b09aba7fb0c18b1db6116	lucifer.rom	colecovision-yoriyoshizuki
+b743fbdb0e466169fcc9fc8762b915c5	Magical Tree (2006 Opcode Games).rom	colecovision-yoriyoshizuki
+7b46a7ebb2162aa8db781e91eb98bffb	Maid Of The Mist (2007 Dale Wick).rom	colecovision-yoriyoshizuki
+bde771689e52646d4b774e28a09f9169	Maid of the Mist (2007) (Dale Wick) [a1].rom	colecovision-yoriyoshizuki
+19ca46f5e35eda98f8ccc048cd19bf90	majikazo_promo.rom	colecovision-yoriyoshizuki
+7fedb8687500f43e0501cc52885ad81a	map demo (200x)(PD).rom	colecovision-yoriyoshizuki
+c80fcc8d4951b534c330dc8c7ebc8666	Mario Bros (2009 Collectorvision Games).rom	colecovision-yoriyoshizuki
+9761bf5fc00b43f4217099b605ada892	Mario Bros early demo (2009-08).rom	colecovision-yoriyoshizuki
+d4da5dccc0f324ec0f73685b4d5c1c80	Mario Bros Music Sfx (2009-07).rom	colecovision-yoriyoshizuki
+97c5b2d16038bb8c0711a6e04dbf70a5	Mario DC Demo (2000) (Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+eab6821741cceb4423a6023c50f463d4	Masters II (2011.05.20 15.50).rom	colecovision-yoriyoshizuki
+9ec516817325e8a8268b4c4d6582fa2a	Maze Maniac (2005) (Charles-Mathieu Boyer) [a1].rom	colecovision-yoriyoshizuki
+b1a1e87c1c5b98c494be62f8a7c50625	Maze Maniac (2005)(Mathieu Boyer).rom	colecovision-yoriyoshizuki
+6cbc06cba388acf43d55572f11d0ed26	MazezaM (200X Ventzislav Tzvetkov).rom	colecovision-yoriyoshizuki
+9820cb1c242257fe7aeba529affd10c1	MazezaM (200x) (Ventzislav Tzvetkov) [a1].rom	colecovision-yoriyoshizuki
+f9a54f84f8adc68d723066243a166b4d	mecha_8_colecovision_sgm.rom	colecovision-yoriyoshizuki
+0980824dc61f79124b41743ff2109d9c	Memory Manor (1984) (Fisher-Price) [a1].rom	colecovision-yoriyoshizuki
+8f1f9e8267b51d8b9b29fb62f0c050ec	Meteoric Shower (1983)(Bit Corp.)(EU).rom	colecovision-yoriyoshizuki
+01c7080faf7beb09137f0ac36e36a8ae	Milon's Secret Castle Mockup (2011.03.11 16.58).rom	colecovision-yoriyoshizuki
+b295e96fad0cc7196d7e22367251138d	Milon's Secret Castle mockup.rom	colecovision-yoriyoshizuki
+89bdde1513a2c5f95ee69f72f1e9d12b	Miner 2049er (1983) (MicroFun) [a2].rom	colecovision-yoriyoshizuki
+124d464a25dbe7d94a95ffa96b24d7db	Miner 2049er (1983)(Micro Fun)[a].rom	colecovision-yoriyoshizuki
+74d1eb3ca79cade912f3fbe91a3fafd1	Mod2PSG RePlayer Example (200x) (Daniel Bienvenu-NewColeco) (Demo).rom	colecovision-yoriyoshizuki
+9608df1071bf93b4edec7df1e5ef8e80	Module Man (2013 Team Pixelboy).rom	colecovision-yoriyoshizuki
+6cd6a23e951c0ec6da23d1335812bff2	Monkey Academy (1984)(Coleco).rom	colecovision-yoriyoshizuki
+58c5d882ba659683e1f205eb18e20ff8	Monster Masher (2005) (Philipp Klaus Krause).rom	colecovision-yoriyoshizuki
+eb3c1e0b0786975c1e1bc3da82c041e5	Montezuma's Revenge (1984)(Parker Bros).rom	colecovision-yoriyoshizuki
+8b1b5d34868ec53ddda5780eec94301e	Moon Patrol (1984) (AtariSoft) (Prototype) [h1].rom	colecovision-yoriyoshizuki
+ed80593326cd4626446b34409f556acb	Moon Patrol (1984) (AtariSoft) (Prototype) [o1].rom	colecovision-yoriyoshizuki
+0ef79248cab469e2ba4ce29be7a355ee	Moon Patrol (1984) (AtariSoft) (Prototype).rom	colecovision-yoriyoshizuki
+199bcb9f587d31be947dacb2618d06d3	Moon Patrol (3-Pack)) (2013.10.30 00.14) (ATARISOFT Blue WiP).rom	colecovision-yoriyoshizuki
+e8e2776c6c192c779d2d4bf7c157ef6d	Moon Patrol (3-Pack)) (2013.10.30 00.14) (ATARISOFT Tilt).rom	colecovision-yoriyoshizuki
+35cc4b9650c9a61b95189eb0d5fc85aa	Moon Patrol (3-Pack)) (2013.10.30 00.14) (ATARISOFT).rom	colecovision-yoriyoshizuki
+65149c1f8c901134113b294205c8acf9	Moon Patrol (ATAR KevinMos3 hack).rom	colecovision-yoriyoshizuki
+6a7290f7ef4228730cccaac58ac5b22f	Moon Patrol (ATARISOFT KevinMos3 hack).rom	colecovision-yoriyoshizuki
+a8c90bfc8c208d61673f7cc985bcaddf	Moon Patrol (ATARISOFT Tilt Cyan KevinMos3 hack).rom	colecovision-yoriyoshizuki
+4cb0289697e989ef8b8dd13923616d1a	Moon Patrol (ATARISOFT Tilt KevinMos3 hack).rom	colecovision-yoriyoshizuki
+cf3a931bdd84e319e463d6897f2089ca	moon patrol 1984 reversed graphics hack by newcoleco 2009.rom	colecovision-yoriyoshizuki
+f2cd07d596b1359bfc7fc424e0651b0c	moon patrol data viewer.rom	colecovision-yoriyoshizuki
+aeabab6db7cf6a38be5bac06f6ab9c52	Moon Patrol Ikrananka Final WIP (2013.11.23 19.43).rom	colecovision-yoriyoshizuki
+86211ec62d6e48439be0eac095e032e5	Mopiranger (2012 Team Pixelboy).rom	colecovision-yoriyoshizuki
+90b8bf5c39f7de909488c7274ea5a99f	Mortal Kombat Jukebox (2010) (Daniel Bienvenu) (Demo).rom	colecovision-yoriyoshizuki
+048d2210b76093282ca889084a6e39da	Mouse Trap (1983) (CBS Electronics) (Cart # 4L1989 - Box # 7429-4A).rom	colecovision-yoriyoshizuki
+0fe4a084331e3fff09c81d5a1d62e18e	Mowleco (2012)(Sebastian Miahi).rom	colecovision-yoriyoshizuki
+5c2b1dc98901199371bab47cf42280a6	Mr Chin (2008)(Collector Vision)[tet version 4].rom	colecovision-yoriyoshizuki
+421d26d11fe4006122ba63713045495c	Mr. Chin (2008 Collectorvision Games).rom	colecovision-yoriyoshizuki
+8704d740c9194fde089cdae21f1526c6	Mr. Do!'s Wild Ride (2004 Steve BC gin) (Playable Demo).rom	colecovision-yoriyoshizuki
+2f523fbfd8965a3001762777e16b7f21	Music (2004) (Unknown) (Demo).rom	colecovision-yoriyoshizuki
+0cfb4aabaece79399667bb623554057e	Music Box - Sonic the Hedgedog.rom	colecovision-yoriyoshizuki
+17e24fcb29558ef6596e64c72cac301a	New Coleco YouTube Channel Thanks (2009)(NewColeco).rom	colecovision-yoriyoshizuki
+9b2e42ef8ab18e016267109bdf36c3bb	New Rally-X (2005.09.06 08.00).rom	colecovision-yoriyoshizuki
+0b62e582db9f3f59c10f76c578764cd6	NewColeco Screen Test (PD).rom	colecovision-yoriyoshizuki
+b12be1c2fc99bdb55856bd1dbea09b2e	NewColeco Smooth Criminal Music (2009) (Daniel Bienvenu-NewColeco) (Demo).rom	colecovision-yoriyoshizuki
+fa85d0f53202209e970ae6ee4934a69c	Ninja Princess (2011 Team Pixelboy).rom	colecovision-yoriyoshizuki
+13708da5745733ae02e898c127f65ddf	nmi test.rom	colecovision-yoriyoshizuki
+c217f2c5f5e72bebb4e457be549c4272	Number Bumper (1984) (Sunrise Software) [a1].rom	colecovision-yoriyoshizuki
+7ee13fb5f5b9c975b57f27b2e415d3c2	numericmaze_20170501.rom	colecovision-yoriyoshizuki
+0b70e3e59f72137a4a017f3761b24ff7	One-on-One (1984)(Micro Fun).rom	colecovision-yoriyoshizuki
+9e584590b45ad18c93054de43d3c4440	Ostrich Farmer v01 (200x) (Dale Wick) (Demo).rom	colecovision-yoriyoshizuki
+ba44fdf014a896e22c048cfdeab8efcf	Ostrich Farmer v02 (200x) (Dale Wick) (Demo).rom	colecovision-yoriyoshizuki
+1277d4121dbc345ef002965f2d70eab0	OzmaWars_cv.rom	colecovision-yoriyoshizuki
+9cebe6571aa12803eadcefd9cde6b1b6	Pac-Man Collection (2008 Opcode Games).rom	colecovision-yoriyoshizuki
+d370560172000e1633987d543e972e64	Pac-Man Collection demo (2005.09.12 10.38).rom	colecovision-yoriyoshizuki
+8f8508a563c86a13a1b9220672403bda	Pacar (2010 Steve BC gin) (Playable Demo).rom	colecovision-yoriyoshizuki
+afbc945cad1691492e324dbeb89538d4	pacar_colecovision.rom	colecovision-yoriyoshizuki
+6ac1ca6faccf720915cfc5d2621f871d	Pacific Fleet (2007.11.16 23.30).rom	colecovision-yoriyoshizuki
+98f1b26fc2e9ad383d326c6add6638eb	Pacific Fleet (2007.11.26 00.40).rom	colecovision-yoriyoshizuki
+9335f4a60fa65d310a401fe3128277f9	Pacific Fleet (2007.11.28 19.51).rom	colecovision-yoriyoshizuki
+cd08096da41087d76981dc3ddf2aaf37	Pacific Fleet tech demo (2007-12-05).rom	colecovision-yoriyoshizuki
+6821404ca8ed3dc624540c20d7c65ec9	Peek-A-Boo (2010 Team Pixelboy).rom	colecovision-yoriyoshizuki
+4712b2877880e15b2171920e28774873	Philly Classic 4 slideshow (2003)(C.C.J.V.A.).rom	colecovision-yoriyoshizuki
+9084581babaef4647cfd3cbc6515ef31	Pitfall II Arcade (2010 Team Pixelboy).rom	colecovision-yoriyoshizuki
+3529993e0f8b0ee99c3762d516622b49	poleposition_colecovision_test.rom	colecovision-yoriyoshizuki
+39146e46c2e687e3712af78eea4f19ac	poleposition_v10.rom	colecovision-yoriyoshizuki
+d79490f6e63ffe4df388a68f936485e4	poleposition_v14.rom	colecovision-yoriyoshizuki
+4e19019f539e2a01dc23e4a0ac5f7863	poleposition_v17.rom	colecovision-yoriyoshizuki
+f5b08e31316806961e099121dc580942	Pong (2007 Alfonso DC).rom	colecovision-yoriyoshizuki
+b1f430379a4761eac44c2cfe1c300e1c	Pooyan (2009 Collectorvision Games).rom	colecovision-yoriyoshizuki
+dc7f85b8f64e95e99862c70ce952904e	Powder Snow.rom	colecovision-yoriyoshizuki
+43149d3317eead1592a3a4a4fa524d2e	Power Lords - Quest for Volcan (1983) (NAP Consumer Electronics).rom	colecovision-yoriyoshizuki
+a5a4b2bea21a93d945f2a09de370eb8f	Princess Quest (2012 Team Pixelboy).rom	colecovision-yoriyoshizuki
+279d7774d46284e1bf429c0400678b92	Puzzli RC1.4b.rom	colecovision-yoriyoshizuki
+8ba7536f0ca6da6c15aa3c7eaa2e7c69	PV2000 (2012 Nicolas Campion).rom	colecovision-yoriyoshizuki
+7a7a97dbc5cf6182ae17c0bcebe369ff	Pyramid Warp Battleship Clapton 2 (2009 Collectorvision Games).rom	colecovision-yoriyoshizuki
+4477f8753f18c05c3a1e7c3c00a9bd5f	Qbert's Qubes (1984) (Parker Brothers).rom	colecovision-yoriyoshizuki
+786648548bf673354a976205295cfbbc	Quatre (2013 Nicolas Campion).rom	colecovision-yoriyoshizuki
+eabcb4a9a1eac2c6f8a7d002987d9e55	Quest For The Golden Chalice (2012 Team Pixelboy).rom	colecovision-yoriyoshizuki
+ce030972c33803c5ef431bf65c6e7d5c	Quiz Wiz ColecoVision 30th Anniversary (2012 CollectorVision Games).rom	colecovision-yoriyoshizuki
+6f93e6f7b994e3b815db7382c9acc835	RAINBOW BRITE JUKEBOX 2017.rom	colecovision-yoriyoshizuki
+37bc82d59ad1a4e794cbc59265cf3a0e	remember_the_flag_colecovision.rom	colecovision-yoriyoshizuki
+87540608dd51ecd0388cf1d03df00be5	Reversi - Diamond Dash (2004 Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+f67172d3725aa0ca0bb92a5717022092	Road Fighter (2007 Opcode Games).rom	colecovision-yoriyoshizuki
+b002642ff451cf3915160009a35ac82a	Robobug (2012 Nicolas Campion).rom	colecovision-yoriyoshizuki
+28c0625435a994665c5a81c686fdcc2e	Rock 'N' Bolt (1984) (Activision) [o1].rom	colecovision-yoriyoshizuki
+baa31edff53d3b4ee93210bdd6933992	RockcutterPreMetaTileExample.rom	colecovision-yoriyoshizuki
+d35fdb81f4a733925b0a33dfb53d9d78	Rocky - Super Action Boxing (1983)(Coleco).rom	colecovision-yoriyoshizuki
+09b1fbd8e7b09d423894c155a24c569f	Rolloverture (1983)(Sunrise Software).rom	colecovision-yoriyoshizuki
+4e308f0a1435cd2d3a7f05b21bd3089a	Sabrina's Boys_16kHz (dvik).rom	colecovision-yoriyoshizuki
+101f7cf82b8e09c89158cd1117145a0e	Santa Must Save Christmas (2011 Michel Louvet).rom	colecovision-yoriyoshizuki
+7effb183db9c6956f113b8458f358b51	Santa's Gift Run (2004 Dale Wick).rom	colecovision-yoriyoshizuki
+4100ff619cb89781450588755d7a4f31	Schlange CV 0.11 (2005) (Philipp Klaus Krause) (Demo).rom	colecovision-yoriyoshizuki
+f2996c825450ba8dccb1660ebdaf3ac2	Schlange CV 1.0 (2006 Philip Klaus Krause) (Playable Demo).rom	colecovision-yoriyoshizuki
+69fc767cc981a225f008a03cdb4a53b2	Scrolling Effect day2 (2013)(NewColeco).rom	colecovision-yoriyoshizuki
+a86dbc952800dda9275b56fece0df918	SCUMM (2013.09.05).rom	colecovision-yoriyoshizuki
+0a66c4f36c0842a38c779dd7d0fcf12a	Search for the stolen Crown Jewels 2.0 (2007)(Philipp Klaus Krause)[GameConsole.com demo edition].rom	colecovision-yoriyoshizuki
+27ebfa6562801321c23e637d37588bf7	Search for the stolen Crown Jewels 2.p (2006)(Philipp Klaus Krause)[beta version].rom	colecovision-yoriyoshizuki
+957ab8103de4a346dd527d54c4220c97	Search for the stolen Crown Jewels 3 (2010)(Philipp Klaus Krause)[two levels demo].rom	colecovision-yoriyoshizuki
+7a98eac9b6e6d0345fe7fe71a6d6fac8	Search For The Stolen Crown Jewels 3 (2013 Good Deal Games).rom	colecovision-yoriyoshizuki
+f09d1237396eb8a791b0bfe7652ef488	Search For The Stolen Crown Jewels II (2007 Philip Klaus Krause) (Playable Demo).rom	colecovision-yoriyoshizuki
+95729e45bb11bc2f08b4e2569fafdcad	Search For The Stolen Crown Jewels III (2010 Philip Klaus Krause) (Playable Demo).rom	colecovision-yoriyoshizuki
+0c0150979cb5214555f968095cb91896	Search for the stolen Crown Jewels III demo (2011)(Philipp Klaus Krause).rom	colecovision-yoriyoshizuki
+fe3db8e54d8ad7e2c615e0b673cecfe5	Sector Alpha (1983)(Spectravideo)[f].rom	colecovision-yoriyoshizuki
+09bf95c028205bc218bbb67116cdf688	Sector Alpha (USA) 2K Restored Ikrananka.rom	colecovision-yoriyoshizuki
+46b8aab27e431c0deb81228d9570dc74	sector_alpha_cv_patched.rom	colecovision-yoriyoshizuki
+840df009c2223e75e0993333db4d1e9b	SEGA Flipper (1983)(SEGA).rom	colecovision-yoriyoshizuki
+8b7b1852e6865de6ac7bc404401afb33	shmup_colecovision_sgm.rom	colecovision-yoriyoshizuki
+b69904d8d64f444d76404fa5383c3007	shouganai_colecovision_sgm.rom	colecovision-yoriyoshizuki
+3cf7e73cf264897bb9b8abbee64351be	Shunting Puzzle (2007 Philip Klause Krause).rom	colecovision-yoriyoshizuki
+b40ea02a2114202a989f99bfcecd4f9c	simonthesnake_20160803.rom	colecovision-yoriyoshizuki
+ae936b4f13874715d5fbebee379febfb	Sir Lancelot (1983)(Xonox).rom	colecovision-yoriyoshizuki
+980f049147420b50e6cb100b4ed3939a	Sk WIP (2010-07-04).rom	colecovision-yoriyoshizuki
+2c57f804856de8f7195fe50153352baf	Sk WIP a (2010-07-04).rom	colecovision-yoriyoshizuki
+608e0e02d983d2e8336f6296de32ae6f	Sk WIP b (2010-07-15).rom	colecovision-yoriyoshizuki
+db7b86fff745b27a6e23a2d80702a4b6	Sk WIP c (2010-07-18).rom	colecovision-yoriyoshizuki
+7c043bbb35e5161e699835a13131f4cc	Sk WIP d (2010-07-24).rom	colecovision-yoriyoshizuki
+64ccf638db17d862659933b4a0976fc0	Sk WIP e (2011-04-17).rom	colecovision-yoriyoshizuki
+783de60a89b58a07ef122b70d8310904	Sk WIP f (2011-04-17).rom	colecovision-yoriyoshizuki
+f0b903fe6d7bbed4d2447f3742c17ceb	Skiing (1986) (TeleGames) [a1].rom	colecovision-yoriyoshizuki
+a3e865f43991aa19d4105e6ea0107a8b	Skiing (2011.01.09 23.11).rom	colecovision-yoriyoshizuki
+50b88196194bb3f1c87ea5f6b8e0ab7e	Sky Jaguar (2004 Opcode Games).rom	colecovision-yoriyoshizuki
+5c46ce267f02e938c2c2691c3b5a4f79	Sky Jaguar (2004) (Konami-Opcode Games) [a1].rom	colecovision-yoriyoshizuki
+ed8f71ea9c473d149d5e6e2a66dac698	Sky Jaguar (2004) (Konami-Opcode Games).rom	colecovision-yoriyoshizuki
+4ae7a3cd5b6d9d68ea46485452a14431	Sky Jaguar (2004) (Opcode Games).rom	colecovision-yoriyoshizuki
+8d56289712ebe880187de125bb5aff07	Slideshow by Mermaid.rom	colecovision-yoriyoshizuki
+60a76bb41de0cebfaceec23eb7c964e5	Slither (2010 Daniel Bienvenu) [Standard Controller Hack].rom	colecovision-yoriyoshizuki
+9cbed6026c09f4a252bb6ad03d1f12e5	Sly DC Demo (2000) (Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+511469d974d370960c1ca4f23407ab7d	Sly DC Demo (2003) (Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+6761231210c62bcbd220dfe5a94ba2bf	smoothscroll2 (2016-07-11).rom	colecovision-yoriyoshizuki
+f4b04cb457f32ada66c88bc80f562419	Smurfs Save the Day (1985) (Proto).rom	colecovision-yoriyoshizuki
+e99646480b1f692e5f73d8ae563dbb49	snddemo.rom	colecovision-yoriyoshizuki
+aae4352c43b3e294fa74f8735b8e6a90	Sokoban (1985)(SEGA)(Jp).rom	colecovision-yoriyoshizuki
+5c1220191d12ad72f6a725b8a81e5b3d	Sonic Rpg Console v1.0 (2011)(Gameblabla).rom	colecovision-yoriyoshizuki
+d5ea19b01612095ca902adcc8f787173	Sonic Rpg Console v1.1 (2011)(Gameblabla).rom	colecovision-yoriyoshizuki
+3d84684701b2cda7af8b6d47d43a7e57	Space Harrier Version 7 (2009 HardHat) (Demo).rom	colecovision-yoriyoshizuki
+b82236d059dff228cb86ccba7cff4e19	Space Invaders Collection (2002) (Taito-Opcode Games) (Demo).rom	colecovision-yoriyoshizuki
+ed06f5e11d9558af149ea21286ce4bf0	Space Invaders Collection (2003 Opcode Games).rom	colecovision-yoriyoshizuki
+0c86503e5145e8c9de99f00830304450	Space Invaders Collection (2003) (Opcode Games).rom	colecovision-yoriyoshizuki
+4e3d0fa40f53213695119d3063a23bef	Space Invaders Collection slideshow (2003)(Opcode).rom	colecovision-yoriyoshizuki
+36e07a870f24587999382e5e906fac7b	Spaz Attak - v02 (2009) (Howard Uman) (Demo).rom	colecovision-yoriyoshizuki
+92898edbbf9f99bf4279f7099e6a3329	Spaz Attak - v03 (2009) (Howard Uman) (Demo).rom	colecovision-yoriyoshizuki
+15355397d73e32a59e47a1fe205ceb01	Spaz Attak - v04 (2009) (Howard Uman) (Demo).rom	colecovision-yoriyoshizuki
+10ebafe2211e6ed71f169f6b9ee0c8da	Spaz Attak - v05 (2009) (Howard Uman) (Demo).rom	colecovision-yoriyoshizuki
+2b79ad323a09806231d05eca0b7d1022	Spaz Attak - v06 (2009) (Howard Uman) (Demo).rom	colecovision-yoriyoshizuki
+576a095bdfae51006da5bea658afe8e9	Spaz Attak - v07 (2009) (Howard Uman) (Demo).rom	colecovision-yoriyoshizuki
+2c0027a9d99d900891e648cfc8df7b52	Splash Wave (2010)(Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+fe0ec5a896f9ba797f4cf6501bbbe706	Sprite Tests sprite_color (2013)(F-Cycles).rom	colecovision-yoriyoshizuki
+481bd229936c988d1be5b9154e98ec76	Sprite Tests sprite_mag (2013)(F-Cycles).rom	colecovision-yoriyoshizuki
+1cbd59c5b1b5bcaa1f6aa92ddc797760	Sprite Tests sprite_xpos_test1 (2013)(F-Cycles).rom	colecovision-yoriyoshizuki
+6819606439a5eb272378f994dc5c8fee	Sprite Tests sprite_xpos_test2 (2013)(F-Cycles).rom	colecovision-yoriyoshizuki
+b0f5eec1170d842ba757224233d95506	SpunkyNoResale.rom	colecovision-yoriyoshizuki
+b68886ba4d6ee561d4aa8611933401c3	Spy Hunter (1984) (Midway-Coleco) (Prototype) [a1].rom	colecovision-yoriyoshizuki
+7da9f2fda17e1e34a41b180d1ceb0c37	Spy Hunter (1984) (Midway-Coleco) (Prototype).rom	colecovision-yoriyoshizuki
+12e7085ecf92eb0835c407a2dfd4a7dd	Square beta4t (2006-10-21).rom	colecovision-yoriyoshizuki
+cd5c3b3ee906b101a857f5260771696c	Squares! (2007 Harvey deKleine) (Playable Demo).rom	colecovision-yoriyoshizuki
+6201e47e4a3a87e9158cebb2f92eb276	Squares! (2007) (Harvey deKleine).rom	colecovision-yoriyoshizuki
+72e73d27add27d81780c25c46bbac934	ssa_20161117.rom	colecovision-yoriyoshizuki
+fe3ee51c22ab6f917ce817ef5c9e3a77	ssa2015Jun30.rom	colecovision-yoriyoshizuki
+28b2600c9f0533dd171d65c6e57df3e8	Star Force (2011 Team Pixelboy).rom	colecovision-yoriyoshizuki
+88654617a8d0aa68930d86438f152a8a	Star Jump (2012 Nicolas Campion).rom	colecovision-yoriyoshizuki
+2dd3434ea9059b876f9dfeee8b21791d	Star Ocean (2015 Chris Derrig).rom	colecovision-yoriyoshizuki
+de6005886168f7c52356d52698465e93	Star Ocean.rom	colecovision-yoriyoshizuki
+4424f61c25dc7bb7775d72f82c664af9	STAR TREK (SEGA).rom	colecovision-yoriyoshizuki
+6659b486ca0fded31fd87da006348034	stray_cat_colecovision_sgm.rom	colecovision-yoriyoshizuki
+b86bcbbd27f9574d3f0c8dd3cdfba45d	Subroc (1983)(Coleco).rom	colecovision-yoriyoshizuki
+94476e431aca0f9590964d6797d5dee9	Sudoku - v01 (2008) (Luc Miron-Team PixelBoy) (Demo).rom	colecovision-yoriyoshizuki
+e34e775b40367815197dc4086aab2f89	Sudoku v02 (2008 Team Pixelboy) (Playable Demo).rom	colecovision-yoriyoshizuki
+461f25f05377e37bf6de9d4e516a85ec	sudoku_colecovision.rom	colecovision-yoriyoshizuki
+c08b2bc02b5279619c6b542fe8189e00	Super Action Controller Tester (1982) (Nuvatec).rom	colecovision-yoriyoshizuki
+8aabed060476fde3cc706c6463f02980	Super Action Football (1984)(CBS Electronics)(EU).rom	colecovision-yoriyoshizuki
+d88e631109d05806ff68fdd3705ab9e4	Super Action Soccer (2012 Team Pixelboy).rom	colecovision-yoriyoshizuki
+f088adadf20cf4943cddd774be9e025a	Super Cabbage Patch Kids (1985) (Konami) (Adam-Proto).rom	colecovision-yoriyoshizuki
+5b0425021cf99e28e7840f0b5834cdbb	Super Car! (2011)(Collectorvision).rom	colecovision-yoriyoshizuki
+e30673b75277d44ff8519b6ff672ea2f	Super Cobra (1983) (Parker Brothers) (ADAM).rom	colecovision-yoriyoshizuki
+0d11de05821c895b9f34425291bbedad	Super Cobra (1983)(Parker Brothers)[f ADAM].rom	colecovision-yoriyoshizuki
+f2c0d7ed06c2fc8783785d658379326f	Super Cobra (Super Cobra) (2011.12.07 10.29).rom	colecovision-yoriyoshizuki
+1325609c201ca1c55a79fd8f62d90be6	Super Game Module Tester (PD) Oscar Toledo 2013.rom	colecovision-yoriyoshizuki
+7c58b533aca85401aaeacfb6fe388ab6	Super Ghouls N' Ghosts music 1 (2010)(Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+e081b2481d6518adfab3c4bd7876901b	Super Ghouls N' Ghosts music 2 (2010)(Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+61ccd93fd6024ea66b4398d454567658	Super Sonyk Arena v1.5 (English).rom	colecovision-yoriyoshizuki
+7d7e9f52d479d65dda2366ae0ab4f68b	Super Sonyk Arena v1.5 (French).rom	colecovision-yoriyoshizuki
+787ac4d82a139e187844ae68a0379121	Super Sonyk Arena v1.6 (Gameblabla).rom	colecovision-yoriyoshizuki
+e0269f39101fa6e33ee99f93924c672e	Super Space Acer (1992)(Julius Software).rom	colecovision-yoriyoshizuki
+41f4ac2588c5bbceacc3d09f30e7e50e	Super Space Acer (2009 Mike Brent) [2015-09-25 Update].rom	colecovision-yoriyoshizuki
+f1c771508b8f6de766d467cdcc480d6d	Super Space Acer (2009) (Mike Harms).rom	colecovision-yoriyoshizuki
+86ba6b9d469225ef6b6ca6c12426f4e9	Super Space Acer (Mike Brent) (2009-10-31).rom	colecovision-yoriyoshizuki
+ad25f37b56dffb0af4044b46f0de0dd1	Super Space Acer (Mike Brent) (2009-12-06).rom	colecovision-yoriyoshizuki
+575643403c02ab31bad7e44d16c16c24	Super Space Acer (Mike Brent) (2011-01-24).rom	colecovision-yoriyoshizuki
+975be9f3bd5458443d886af61e8bbc61	Sword and the Sorcerer, The (1983) (Proto).rom	colecovision-yoriyoshizuki
+3016b5b55ce162ae47f03af71fbb5c0d	Tank Wars (1983)(Bit Corp.)(EU).rom	colecovision-yoriyoshizuki
+3b208fff0d0d9013ce10796464dd37ec	TapeUtl Rev. 22 (1984) (Coleco).rom	colecovision-yoriyoshizuki
+6578a7d4156eba6795f1aa22f08651db	Tempest for ColecoVision (Tempest CV) (2010.12.11 15.48).rom	colecovision-yoriyoshizuki
+f5e10008557adefcaff2037f06ee280e	Tennis - v01 (200x) (Unknown) (Demo).rom	colecovision-yoriyoshizuki
+5855b9b09c5339c831a00ab8173850d8	Tennis - v02 (2008) (Unknown) (Demo).rom	colecovision-yoriyoshizuki
+49c9b6fa9e6c24a5b89e2ba46d30f6d1	Terra Attack (2007 Scott Huggins).ROM.rom	colecovision-yoriyoshizuki
+764baa392af1bbfd2637f5e2003f2236	Terra Attack (2007) (Scott Huggins) [a1].rom	colecovision-yoriyoshizuki
+7783607a3ada4b3ad43937b08b19e960	Terra Attack (2007) (Scott Huggins) [a2].rom	colecovision-yoriyoshizuki
+759b5d5cb23bc6fb3f3962d6154cac8a	Test Rom.rom	colecovision-yoriyoshizuki
+91728b18e3ecb297d31f3a494f534f07	Text Adventure (2015 Chris Derrig) [Dragon Option].rom	colecovision-yoriyoshizuki
+f19d477fef231991a26da4a1fc80b841	Text Adventure (2015 Chris Derrig).rom	colecovision-yoriyoshizuki
+d875508a7dcf86ffb2855f7cfe4955ed	Text Adventure part1 (2011)(Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+2ea6fe3923b410ad1b9a3c7d54d0070a	The best is yet to come (cv win01) (2005.04.04 14.15).rom	colecovision-yoriyoshizuki
+4e2b6f1ebd3313bf31506fa1d2d07a7f	thexder_colecovision_sgm.rom	colecovision-yoriyoshizuki
+c8add83399280c8be7dd09cd120b46b1	ToddMusic.rom	colecovision-yoriyoshizuki
+f1ddcb92938e23f42caff02684505a0d	tokioscrambleformation_colecovision.rom	colecovision-yoriyoshizuki
+fbf9d274f3b730a1a03bf4edd49e94b6	Track & Field (2010 Team Pixelboy).rom	colecovision-yoriyoshizuki
+d2496d8959fac90d522558bfabbd946e	traffic_jam_colecovision_sgm.rom	colecovision-yoriyoshizuki
+cb5d75d2d0e5da6b17f41b6cb9263574	Tune Layer (2002 Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+c7a16e3e510bf5dfa185515f7e4a3487	Tunnels & Trolls (1983) (Flying Buffaloes-Coleco) (Demo) [b2].rom	colecovision-yoriyoshizuki
+391c441c0fdd415c29bba84471efa43f	Tunnels & Trolls (2007) (Philipp Klaus Krause) (Demo).rom	colecovision-yoriyoshizuki
+a0a11f4459a9a5d7cdc2f585ea84dfbd	Turbo (1982) (Sega-Coleco) [a1].rom	colecovision-yoriyoshizuki
+6f146d9bd3f64bbc006a761f59e2a1cf	Turbo (1982)(Coleco).rom	colecovision-yoriyoshizuki
+c60ae6e1a7f2ce1060a329e170206992	Turbo (2010 Daniel Bienvenu) [Standard Controller Hack].rom	colecovision-yoriyoshizuki
+2d02d928bba923d98b0c923575e45026	txupinazo_colecovision_sgm.rom	colecovision-yoriyoshizuki
+f9e65fc17d93d91a3e8061de515949fe	valentine-christina_milian.rom	colecovision-yoriyoshizuki
+dde4390a3f2a48afd53c1b7ebaa551f0	valentine-venus_watch_spagirls.rom	colecovision-yoriyoshizuki
+0b070a6a7823e4899211ea64169fe6e7	Vectopede (2006) (Sly DC).rom	colecovision-yoriyoshizuki
+7cc3464de0478728ab4e68927bbdeb9e	Victory (1983) (CBS Electronics) (Cart # 4L4065 - Box # 74-359C).rom	colecovision-yoriyoshizuki
+a31facd8adc1134942d9f4102dd3fa9f	Victory (1983)(CBS Electronics)(EU).rom	colecovision-yoriyoshizuki
+471fb530b175297b94d06b73a1f140db	Victory (2010 Daniel Bienvenu) [Standard Controller Hack].rom	colecovision-yoriyoshizuki
+95f8000444fd86ef02ee39ae265bdba0	Video Hustler (1984) (Konami) (Prototype) [a1].rom	colecovision-yoriyoshizuki
+5ca6ed25b411c38e2c2aa78a73bd8660	Video Hustler (1984) (Konami) (Prototype) [o2].rom	colecovision-yoriyoshizuki
+5986293c84000986b351306c86450952	Vision-8 (1997) (Marcel de Kogel).rom	colecovision-yoriyoshizuki
+000c7331d4598b0fa414be5fb2a603b5	War Games (1984) (United Artists-Coleco) (Prototype).rom	colecovision-yoriyoshizuki
+9710950620877a503529fa5635283e8d	WAR_2014_Gerry_Brophy_Rom_Edition.rom	colecovision-yoriyoshizuki
+22bcc61980c6a5cd8ae601dc7fb53be9	warlords_colecovision_01.rom	colecovision-yoriyoshizuki
+6799d0c2689ab161ab476777d2953885	Warm Fuzzy - Quest For Salad (2005 Dale Wick).rom	colecovision-yoriyoshizuki
+62d2ae88b3c012211ff49555d464732b	Waterville Rescue (2009 Mike Brent).rom	colecovision-yoriyoshizuki
+5d0e2029623f48a34946f21d9c64bf44	Where's Derpy v1.1 (2013)(Gameblabla).rom	colecovision-yoriyoshizuki
+291282d0946c56d3763044d73fbff74c	Where's Derpy v12.rom	colecovision-yoriyoshizuki
+0516b52ffc9a2a0cc12ebdd7cd912697	Wild Western! (200X Opcode) (Demo).rom	colecovision-yoriyoshizuki
+bccf24f5f47023b6135b71984e5e6a1a	Wip Teaser (Dvik & Joyrex)(2008.06.10 04.38).rom	colecovision-yoriyoshizuki
+81d2e0d272b87cd624b050bbfa3e3db0	Wizard (2003 Daniel Bienvenu).rom	colecovision-yoriyoshizuki
+9717df5c786bf4d349928a752ac27011	Wonder Boy (2012 Team Pixelboy).rom	colecovision-yoriyoshizuki
+352513b25d19fea031182e195311a54b	Wrong Way! (200x) (Unknown).rom	colecovision-yoriyoshizuki
+c173e58bd8cf4e0bb85cf10a935533e5	xpmck_v32_dracula.rom	colecovision-yoriyoshizuki
+c505acccd3fb78e8b7a0dfa6a2dfcd8b	Yank Bash (2004 Rich Drushel).rom	colecovision-yoriyoshizuki
+18bba3109aa1ef51b8ee82a02760554b	Yank Bash (2004) (Rich Drushel).rom	colecovision-yoriyoshizuki
+9620e6aced6991f84d26a9d99ef51543	Yie-Ar Kung Fu (2005 Opcode Games).rom	colecovision-yoriyoshizuki
+6e136ec7ccfa4ec81e591e1e28b6f5c3	Yolk's on You, The (1983) (20th Century Fox) (Prototype) [a1].rom	colecovision-yoriyoshizuki
+d589099394bc79667cc19aaa75eba1fe	Yolk's on You, The (1983) (20th Century Fox) (Prototype) [b1].rom	colecovision-yoriyoshizuki
+7f55a676bd0a63f74a20bbb46987877a	Zap - v01 (2008) (Unknown) (Demo).rom	colecovision-yoriyoshizuki
+1206093901f2cfb36ac5442db264c9f9	Zaxxon (19xx)(Taiwan Cooper).rom	colecovision-yoriyoshizuki
+d91149a15cca2109c190a64dbf2a7f62	Zelda 2 Bossmusic Mockup (2013).rom	colecovision-yoriyoshizuki
+d19817ddbb3bf1c9ecd5a8d9a2df4f36	Zelda Ii (Zelda 2) (2009.07.30 17.27).rom	colecovision-yoriyoshizuki
+f343e0a4d52fdad6a4c9c114327576f6	Zippy Race (2009 Collectorvision Games).rom	colecovision-yoriyoshizuki
+cfa1a7d51c14cfc38bfdf98c99472aec	Zombie Near (2012 Collectorvision Games).rom	colecovision-yoriyoshizuki
+df28341e0caa7961c08dbc48112411f7	ZOMBIE_NEAR_20110426.rom	colecovision-yoriyoshizuki
+a39225a90687f7a7af8b6bec8bd17450	ZOMBIE_NEAR_20110428.rom	colecovision-yoriyoshizuki
+94e28e31c6a652a6b37cc8d1e16b08a2	ZOMBIE_NEAR_20110429.rom	colecovision-yoriyoshizuki
+32e22e092fec66197106a4d3199c8820	ZOMBIE_NEAR_20110505.rom	colecovision-yoriyoshizuki
+bf545bc5802cec97874fcd3778cb9dc3	ZOMBIE_NEAR_20110511.rom	colecovision-yoriyoshizuki
+5406b5c0df435b5261c19482d34ba8e3	ZOMBIE_NEAR_20110514.rom	colecovision-yoriyoshizuki
+798f4a11a2d67641ac5846b7aafe7c14	ZOMBIE_NEAR_20110517.rom	colecovision-yoriyoshizuki
+883ffcf1355bd574b5593a900555f5ad	ZOMBIE_NEAR_20110518_infinite_lifes.rom	colecovision-yoriyoshizuki
+a2c4e90cc729c1b4d0840a6e2c12e89c	ZOMBIE_NEAR_20110518.rom	colecovision-yoriyoshizuki
+f65c43fcce44ed179414d0c41badee42	ZOMBIE_NEAR_20110628.rom	colecovision-yoriyoshizuki
+b6357699b2262425672e081b1368b7a5	ZOMBIE_NEAR_20110705.rom	colecovision-yoriyoshizuki
+42a16b56e7552694aaa6ecf564fe3e97	ZOMBIE_NEAR_20121102.rom	colecovision-yoriyoshizuki

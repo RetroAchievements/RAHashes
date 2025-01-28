@@ -1,0 +1,14 @@
+1005e86c4f4ac09acbb173f85922b5ed	Biomotor Unitron 2 (12-14-13).ngp	ngp-yoriyoshizuki
+a525a26b83a9472f7ba0a1a4e640d9ac	COTTON-NGP hack.ngp	ngp-yoriyoshizuki
+111dfcca611495ba019f9b26b1749179	Crush Roller (JUE) hack1.ngp	ngp-yoriyoshizuki
+590ac3a221009e9ea2d0d4c941ab5010	Crush Roller (JUE) hack2.ngp	ngp-yoriyoshizuki
+21b327d15bd81f3fed332d8751749fd6	Crush Roller (JUE).ngp	ngp-yoriyoshizuki
+db2042fa3e6ea72bf98937deaae8ba13	Fast And Fourier.ngp	ngp-yoriyoshizuki
+340033dd026d259b543c7711a69662db	INCA.ngp	ngp-yoriyoshizuki
+643c72e37651d95659181fb1b891a886	KOF R2 hack.ngp	ngp-yoriyoshizuki
+efe4375ad6061bad3516820d0ac02a25	KOFR1 Modify the description hack.ngp	ngp-yoriyoshizuki
+a02d1bff34641d141f58bc032951a911	KOFR2 Key Description hack.ngp	ngp-yoriyoshizuki
+ee98a47e1eb052456a2d923593ad9c66	Neo Turf Masters (JUE) [instant change operation hack (directions + A+O buttons)].ngp	ngp-yoriyoshizuki
+2d7fd4a942763e9333ac045f732cf781	Ogre Battle Wong simplify external v0.4.ngp	ngp-yoriyoshizuki
+4e2346af92ddbb4bb21101d9ec0b6dad	PocketLoveIf hack.ngp	ngp-yoriyoshizuki
+f301e18f2ae73e2ecf466f3fcd62ae55	snk vs capcom - card fighters clash 2 - expand edition (j) [!].ngp	ngp-yoriyoshizuki

@@ -1,0 +1,37 @@
+6fd7e17d01fc93b9be9f89fa8359a579	Aoi Blink (Japan) [T-En by Gaijin Productions & Zatos Hacks v0.99b].pce	pce-t-en
+aed9d6eb83d83da4c12a27b77638f528	Barunba (Japan) [T-En by Dave Shadoff & Diogo Ribeiro v1.0].pce	pce-t-en
+7a13bd257402efafff3c33d9ba7d4ae4	Bikkuriman World (Japan) [T-En by Demiforce v1.00].pce	pce-t-en
+40ec4787c67dab77442a396eec99cd00	Bravoman (Japan) [T-En by Pennywise v1.00] [n].pce	pce-t-en
+9dcfed2ba5b59fa8f97387e01bb96f66	City Hunter (Japan) [T-En by Cabbage v1.1].pce	pce-t-en
+45195abbbdaff8dd8d8c521b84f1698d	Die Hard (Japan) [T-En by Spinner 8 & DarknessSavior v1.0].pce	pce-t-en
+2ee1759239d5e0b1dff0945d7266f54c	Dragon Egg! (Japan) [T-En by Cabbage & Onionzoo v1.0].pce	pce-t-en
+7fc06f2e3131c1cfcddff6c69d54b8b9	Energy (Japan) [T-En by Cabbage & Onionzoo v1.01].pce	pce-t-en
+090723391ac1728bf23192fc5496e654	F-1 Pilot - You're King of Kings (Japan) [T-En by Jink640 & MrRichard999 v1.0].pce	pce-t-en
+e161b34d6bcdbcfe582f943b2eef5715	Final Match Tennis (Japan) [T-En by tAz-07 v1.2].pce	pce-t-en
+724726107e68455e57393b7c9d068109	Flying Trooper X-Serd (Japan) [T-En by Nebulous Translations v1.0] [n].pce	pce-t-en
+c4474a42a6373d6a8e96c71c4a42beae	Gai Flame (Japan) [T-En by Nebulous Translations v0.98].pce	pce-t-en
+9dcb79c53d21c5d3eff36ca6a92df81c	Gekisha Boy (Japan) [T-En by LaytonLoztew v1.0].pce	pce-t-en
+4293b1c07f9de4c32075cfa00963379c	Gekisha Boy (Japan) [T-En by Zatos Hacks v0.99].pce	pce-t-en
+7ecdc619c894f5dc65ed6abcf06f07f3	Hanii in the Sky (Japan) [T-En by Eadmaster v0.3] [i].pce	pce-t-en
+015b8a761e1c3a8d0d474ef7e1063a55	Honey in the Sky (Japan) [T-En by Cabbage & Filler & Diogo Ribeiro v1.0] [n].pce	pce-t-en
+ca65de337ffe7b415311ebcfa4390116	Jaseiken Necromancer (Japan) [T-En by Pikachumanson v0.25] [i].pce	pce-t-en
+79216bf0956d23b58331b98af6da6c4a	Knight Rider Special (Japan) [T-En by Psyklax v2.0].pce	pce-t-en
+5a4b96646ef109fdb8e7d9e10da02103	Lode Runner - Lost Labyrinth (Japan) [T-En by Dave Shadoff v0.99].pce	pce-t-en
+f34299acd4a789ad51e7b10be3a8947d	Maerchen Maze (Japan) [T-En by MooZ & Shubibiman v1.1].pce	pce-t-en
+0e4dfb8449b2f825af396f0c577b6ef2	Maison Ikkoku (Japan) [T-En by Dave Shadoff & Filler v1.01].pce	pce-t-en
+6b33184f381d3bfc9870f5ad55b8c78a	Makai Hakkenden Shada (Japan) [T-En by Cabbage & Shubibiman v1.0].pce	pce-t-en
+5b90818137e6ea8a266fe625a297280f	Mashin Hero Wataru (Japan) [T-En by Stardust Crusaders v1.00] [n].pce	pce-t-en
+b125071c3a9c8b039ecff59b48930c0f	Naxat Stadium (Japan) [T-En by Jink640 & MrRichard999 v0.98].pce	pce-t-en
+aa26a277ea0c448966d14598077e9ede	Out Live (Japan) [T-En by Nebulous Translations v1.1].pce	pce-t-en
+f5b8397f328f51313f812278db362c81	Puzzle Boy (Japan) [T-En by KingMike's Translations v1.0].pce	pce-t-en
+dddb28ed4b10d55c87bdb1eab31ca6d9	Rabbit Punch Special (Japan) [T-En by Diogo Ribeiro v1.0] [n].pce	pce-t-en
+73d3f8f6f7fc6d28b298fc0c7734a2a6	Shanghai (Japan) [T-En by Dave Shadoff v0.99].pce	pce-t-en
+52f37b526e06594b6bd5bc7ed398816a	Shiryou Sensen - War of the Dead [T-En by Nebulous Translations v1.0].pce	pce-t-en
+471b66578757b269a682e75ba810b1b7	Son Son II (Japan) [T-En by Sgt. Bow Hack v1.0b] [Add by Someitalian123 v1.0].pce	pce-t-en
+e6d47eca9fb1d01d6a492a49904e08dd	Street Fighter II' - Champion Edition (Japan) [T-En by Cabbage v1.0].pce	pce-t-en
+5b57c41734da55af282eabd56536d14c	Tower of Druaga, The (Japan) [T-En by Pennywise v1.01].pce	pce-t-en
+8da3885d9c6674f33cf9bac28905d249	Tower of Druaga, The (Japan) [T-En by Procyon Lotor v1.1].pce	pce-t-en
+c8e415bf9bf74284e51f8d96a22caff5	Valkyrie no Densetsu (Japan) [T-En by Cabbage & Shawn Cox v1.0].pce	pce-t-en
+029c30f28af4578ecbff5697ad1e772f	Wonder Momo (Japan) [T-En by Filler & Dave Shadoff & Diogo Ribeiro v1.0].pce	pce-t-en
+cd3e22a84dccac280b9aa1334c423937	World Circuit (Japan) [T-En by FlashPV & Jink640 & MrRichard999 v1.0].pce	pce-t-en
+96465e931aa94eecc0d0f80ebfbbfdc9	Youkai Douchuuki (Japan) [T-En by Cabbage v1.0].pce	pce-t-en

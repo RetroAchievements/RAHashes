@@ -1,0 +1,32 @@
+a460e2660fa951e9d4e3b05aee9f5018	bound high (ju).bin	vb-mame
+c2047a94dcb0db30794c8533ba625622	hyper fighting.bin	vb-mame
+1eb964d0eaa3223cfefdcc99a6265c88	insmouse no yakata (japan).bin	vb-mame
+1b177fe2dd12ec1d67f6a43502f8d391	jack bros. no meiro de hiihoo (japan).bin	vb-mame
+d9a0215782dcacee5a3c4cc83d1c5189	nikochan battle (j)(prototype).bin	vb-mame
+bc469bf797f4774bbb1678c7f500853b	red alarm (japan).bin	vb-mame
+1cf8c69d8a740d6ef3aab54deced31c4	sd gundam - dimension war (japan).bin	vb-mame
+7607f6f918615263512b17e56797c9aa	space invaders - virtual collection (japan).bin	vb-mame
+31073126fad41777357391ecc36d6f7f	space pinball prototype (j).bin	vb-mame
+09c5f3143c25d1d30a3470e571653e48	space squash (japan).bin	vb-mame
+c1dc0852af217146f93d701e1da233d4	t&e virtual golf (japan).bin	vb-mame
+44039dfaa0f8fcf8ece03b8cda267e4a	tobidase panibon (japan).bin	vb-mame
+fa50ce1effb4ce1d66438f723be5c788	vertical force (japan).bin	vb-mame
+5b11d402f7e322c71a7d4fa6503631fa	virtual bowling (japan).bin	vb-mame
+154b76be987a604ff8aafa4d438928f5	virtual pro yakyuu '95 (japan).bin	vb-mame
+85260599fdada2e137053a8647aa0d06	vue-vgpj-0.u1	vb-mame
+467247d5e3383d066005565bf8218436	vue-vh2e-0.u1	vb-mame
+87c38f66d5b9ead72af22f515a3a5f51	vue-vh3e-0.u1	vb-mame
+ee873c9969c15e92ca9a0f689c4ce5ea	vue-vjbe-0.u1	vb-mame
+1cec316aca8827fdf99c685a1ee49dbc	vue-vjvj-0.u1	vb-mame
+b1b3a25ce8fb4f406bf82b8765d307d0	vue-vmcj-0.u1	vb-mame
+38ecc2c5a745a80d32eb9e8e413358c4	vue-vmtj-0.u1	vb-mame
+0285dc41d75be8419d12472f20025305	vue-vnfe-0.u1	vb-mame
+ecf1218706e9b547eab9e4be58d54e21	vue-vpbe-0.u1	vb-mame
+e56e85761f52a613b34079d5322088ce	vue-vree-0.u1	vb-mame
+0742a861a599fe3361aac6ebef6745a7	vue-vtbj-0.u1	vb-mame
+262bbae465f851ded3bb7cf46e375224	vue-vtrj-0.u1	vb-mame
+c03e792d8628c3c5729fdcae1620fb9a	vue-vvfj-0.u1	vb-mame
+977c4da800dacfac1a1402781670f872	vue-vvge-0.u1	vb-mame
+2ba914c8aa16f2f9230b3c5b7e17e67b	vue-vvpe-0.u1	vb-mame
+fb4dc9f4ebd506702eb49e99a62bd803	vue-vwcj-0.u1	vb-mame
+110a83bc070559c5cc5634a8b5cae274	vue-vwee-0.u1	vb-mame

@@ -1,0 +1,594 @@
+45e12558e1b9eda1b66b86f68f995f2a	Aircars (USA).j64	atari-jaguar-htgdb
+a68c790f2c64627b175a40b1af13b076	Aircars (USA).mrq	atari-jaguar-htgdb
+96bc77cfd1b2df85b5e6ae05594e74b0	Alien vs Predator (World).j64	atari-jaguar-htgdb
+68b77721d4ff7eb78067e84c71c3a784	Alien vs Predator (World).mrq	atari-jaguar-htgdb
+a73c0e4f3a0d3de6c40688ff66eb4b6e	Arena Football '95 (World).j64	atari-jaguar-htgdb
+607023f760e0b8a999a4a2240a7414b9	Arena Football '95 (World).mrq	atari-jaguar-htgdb
+cb492f093cd9e22a913d158741e8f00a	Atari Karts (World).j64	atari-jaguar-htgdb
+15f466466269b4916b316ab262ecaac2	Atari Karts (World).mrq	atari-jaguar-htgdb
+3ab524a6a18f79b5e7fd0bb189fe8170	Attack of the Mutant Penguins (World).j64	atari-jaguar-htgdb
+50fd6ccca2057e29bb35c3c154221d8b	Attack of the Mutant Penguins (World).mrq	atari-jaguar-htgdb
+7e06fe6e441707ebcdbd0de5ec068c6e	Barkley Shut Up and Jam (World).j64	atari-jaguar-htgdb
+57b271bd0900b7f1f00d9266d60290dd	Barkley Shut Up and Jam (World).mrq	atari-jaguar-htgdb
+984ed59d91435ec0d8193e168df31c10	Battle Sphere (World).j64	atari-jaguar-htgdb
+ac7ca38720ee40c9a812c11db8e1e53d	Battle Sphere (World).mrq	atari-jaguar-htgdb
+06f3a61fb712c581aee3599f3a61fa61	Battle Sphere Gold (World).j64	atari-jaguar-htgdb
+ac7ca38720ee40c9a812c11db8e1e53d	Battle Sphere Gold (World).mrq	atari-jaguar-htgdb
+73a03ac854e2e87ee7ca1c42ef64a301	Breakout 2000 (USA, Europe).j64	atari-jaguar-htgdb
+148b8e6ec2cb291b972197b989fe7060	Breakout 2000 (USA, Europe).mrq	atari-jaguar-htgdb
+4c32a7a55af8f6b24d570b6d2a83963b	Brett Hull Hockey (World).j64	atari-jaguar-htgdb
+313c5a4568a8bd064492e383ecf19d7b	Brett Hull Hockey (World).mrq	atari-jaguar-htgdb
+ce6005897ff5e9aa4e992c76628b21c6	Brutal Sports Football (World).j64	atari-jaguar-htgdb
+d8a7a893afcf7468cf0e06d15daa029f	Brutal Sports Football (World).mrq	atari-jaguar-htgdb
+c3ad2c75c5339125661845720da3895d	Bubsy in Fractured Furry Tales (World).j64	atari-jaguar-htgdb
+529c11ee0c49b8160f1fe20a11a1fa45	Bubsy in Fractured Furry Tales (World).mrq	atari-jaguar-htgdb
+4aa320637ffc598d7d9db44085a88df2	Cannon Fodder (World).j64	atari-jaguar-htgdb
+96e2b8635cccfeb8da55ef3b42a06fea	Cannon Fodder (World).mrq	atari-jaguar-htgdb
+c77ba1af9705265d4c0070541a5c4787	Checkered Flag (World).j64	atari-jaguar-htgdb
+2808a31370e4230b8c2506b14edec53e	Checkered Flag (World).mrq	atari-jaguar-htgdb
+403e9c8bf868213d1daae54f1be62cb2	Club Drive (World).j64	atari-jaguar-htgdb
+e98396a118b2760824fd1fd4d0886f77	Club Drive (World).mrq	atari-jaguar-htgdb
+1c2e3d172151dcae3b3fc9a23084dcf2	Cybermorph (World) (Rev A).j64	atari-jaguar-htgdb
+81dc55f1abaa89f4b3d510cb4c2e5fe8	Cybermorph (World) (Rev B).j64	atari-jaguar-htgdb
+d76c0caa9b4b6e763fc589a1b3926176	Cybermorph (World) (Rev B).mrq	atari-jaguar-htgdb
+939f2446e70d8b26f17b21e065aa7a30	Defender 2000 (World).j64	atari-jaguar-htgdb
+1db9c989e97e9eac54f9a1313d666237	Defender 2000 (World).mrq	atari-jaguar-htgdb
+3a5878ea3f391174becc37b037318804	Doom (World).j64	atari-jaguar-htgdb
+a8fddda31cfa7a9c0cd67521e28f77b1	Doom (World).mrq	atari-jaguar-htgdb
+b50249bf2924af134b45f59218e9b5dd	Double Dragon V - The Shadow Falls (World).j64	atari-jaguar-htgdb
+754c7a1d1ff81992fa84a151fbfe54fc	Double Dragon V - The Shadow Falls (World).mrq	atari-jaguar-htgdb
+ddb3eb3359adb163b771c62e62b6df9d	Dragon - The Bruce Lee Story (World).j64	atari-jaguar-htgdb
+c0a29d06561c37ac52fce3d06118bc50	Dragon - The Bruce Lee Story (World).mrq	atari-jaguar-htgdb
+d934acb23e0d9ee46d2a050146b876b0	Evolution - Dino Dudes (World).j64	atari-jaguar-htgdb
+df453e949dba5bf4a70d27b51427bdce	Evolution - Dino Dudes (World).mrq	atari-jaguar-htgdb
+86c5cb8ac559b4f3a1e9aa883b06f98c	Fever Pitch Soccer (World) (En,Fr,De,Es,It).j64	atari-jaguar-htgdb
+dec9f4b76492717e93a3deda54498725	Fever Pitch Soccer (World) (En,Fr,De,Es,It).mrq	atari-jaguar-htgdb
+2947e4e2009425a6ac8b26f14a8eea92	Fight for Life (USA, Europe).j64	atari-jaguar-htgdb
+fb0728be85b092b9b351de8d97ac14ed	Fight for Life (USA, Europe).mrq	atari-jaguar-htgdb
+d46b75d5a28fda75bf2d6d79f12c9f27	Flashback - The Quest for Identity (World) (En,Fr).j64	atari-jaguar-htgdb
+ede805d5abd61384b1be9f68d389c3b4	Flashback - The Quest for Identity (World) (En,Fr).mrq	atari-jaguar-htgdb
+df6d6844c7617b989f5d377208ce6648	Flip Out! (World).j64	atari-jaguar-htgdb
+e2e2b26a582e048cc665a3a49f53ea8c	Flip Out! (World).mrq	atari-jaguar-htgdb
+51d65ce8171daf0a255a30b44dac07cf	Hover Strike (World).j64	atari-jaguar-htgdb
+e80b184fa008e03336c7878a261feeb0	Hover Strike (World).mrq	atari-jaguar-htgdb
+21a2abca6e1b8c3fd6b9ab2cc155db42	Hyper Force (World).j64	atari-jaguar-htgdb
+e31de0d796eb804500d0c05785d8bc25	Hyper Force (World).mrq	atari-jaguar-htgdb
+5a66b96ede209f251b00e0e06723826c	I-War (USA, Europe).j64	atari-jaguar-htgdb
+ed3bb73c45128bda74bcdae2b36bf3ce	I-War (USA, Europe).mrq	atari-jaguar-htgdb
+6344be281acb1c86819a310c6a147aa6	International Sensible Soccer (World).j64	atari-jaguar-htgdb
+f32189d8ba1eca38af910115efbdde0e	International Sensible Soccer (World).mrq	atari-jaguar-htgdb
+e9aac34f010aae4d0c781a34975d2aaf	Iron Soldier (World).j64	atari-jaguar-htgdb
+ecadef7b11cb750ff09469d3f2bf27f3	Iron Soldier (World).mrq	atari-jaguar-htgdb
+35ef8cedbfab697e380170e438858d4c	Iron Soldier 2 (USA, Europe).j64	atari-jaguar-htgdb
+756be0d640f7a2c481cae61fffec10f1	Iron Soldier 2 (USA, Europe).mrq	atari-jaguar-htgdb
+7ad345dbfa5a7cd66b579b2dffa6ddd0	Kasumi Ninja (World).j64	atari-jaguar-htgdb
+3368915e44e6e66bf93eeea7167218cf	Kasumi Ninja (World).mrq	atari-jaguar-htgdb
+3dd8ee48afb83629c87ec0b6de790c25	Missile Command 3D (World).j64	atari-jaguar-htgdb
+4f6a35f44cb10e821da9df07583aeec4	Missile Command 3D (World).mrq	atari-jaguar-htgdb
+a302ef18eedcb6c07dd7ea139c849eb7	NBA Jam - Tournament Edition (USA, Europe).j64	atari-jaguar-htgdb
+5fc7a0c751b2e63b28fb2ecd937a1095	NBA Jam - Tournament Edition (USA, Europe).mrq	atari-jaguar-htgdb
+5647d189d38b7115cba94d48f1f8d22e	Phase Zero (World).j64	atari-jaguar-htgdb
+ac8debdd43b67a6335ed7f539f19bb46	Phase Zero (World).mrq	atari-jaguar-htgdb
+94583ce1270f05f13b32a9ff0e8909db	Pinball Fantasies (World).j64	atari-jaguar-htgdb
+bb17f29365efb5b5878409bfae20394d	Pinball Fantasies (World).mrq	atari-jaguar-htgdb
+c8ad07df9fd386abadb2c0cac7381657	Pitfall - The Mayan Adventure (USA, Europe).j64	atari-jaguar-htgdb
+654cb382f1ecfdf245270dd5b7221b30	Pitfall - The Mayan Adventure (USA, Europe).mrq	atari-jaguar-htgdb
+98119ea7434fc21ea7b2462c5c602b50	Power Drive Rally (World).j64	atari-jaguar-htgdb
+50bbb2f34c376f898235e0de8802d45d	Power Drive Rally (World).mrq	atari-jaguar-htgdb
+3774ee26339adfc0bad07091d29c361b	Protector - Special Edition (World).j64	atari-jaguar-htgdb
+61a4b61c70a40a2b8d534b451b1846ae	Protector - Special Edition (World).mrq	atari-jaguar-htgdb
+6564da92b5d4a9dc1d34ab2c941a3b55	Protector (World).j64	atari-jaguar-htgdb
+cef6247c83054512cc055865438f8f9b	Protector (World).mrq	atari-jaguar-htgdb
+126e966e6eab39f72a24a16cc75e5c7f	Raiden (World) (Rev A).j64	atari-jaguar-htgdb
+20f97aa0c594d94171a5421bd9c310c5	Raiden (World) (Rev A).mrq	atari-jaguar-htgdb
+7f7afc98ec2d88eb20c56582dc8b4351	Raiden (World).j64	atari-jaguar-htgdb
+c0ebfa0c65145bc59ca3bad632d85a39	Rayman (World).j64	atari-jaguar-htgdb
+4c2f49ca2dd3aaa984c2a4f6306a7388	Rayman (World).mrq	atari-jaguar-htgdb
+c162738bf2c602144d78987498c68a49	Ruiner Pinball (USA, Europe).j64	atari-jaguar-htgdb
+af2f4901bea2150a34bf8adf2e9b83c1	Ruiner Pinball (USA, Europe).mrq	atari-jaguar-htgdb
+04c85be97daf4308135d245e68d4774d	Skyhammer (World).j64	atari-jaguar-htgdb
+d80ebe7f521183004ff3ee14c5bdde35	Skyhammer (World).mrq	atari-jaguar-htgdb
+2d03f3e2b399d0ce0103830820e69524	Soccer Kid (World).j64	atari-jaguar-htgdb
+70f676950c097bbf4c63a53db1bb1205	Soccer Kid (World).mrq	atari-jaguar-htgdb
+8045ac181d02e3fc92eae066607073f3	Space War 2000 (World).j64	atari-jaguar-htgdb
+588d22748c04616a64e0b01a8041aa0e	Space War 2000 (World).mrq	atari-jaguar-htgdb
+5f3a11bc3452fddf82c6548742467a35	Super Burnout (World).j64	atari-jaguar-htgdb
+905c8590e395084e9b10a955acf437b7	Super Burnout (World).mrq	atari-jaguar-htgdb
+5f4752e493bfc18ac8df1647bbc1fdbf	Supercross 3D (USA, Europe).j64	atari-jaguar-htgdb
+248c0eed06bdd3df7bb7128ffa6741cd	Supercross 3D (USA, Europe).mrq	atari-jaguar-htgdb
+b81af314f10a547680e17d3797db0c81	Syndicate (World).j64	atari-jaguar-htgdb
+bb49f335d708cd1a03149b179c289fba	Syndicate (World).mrq	atari-jaguar-htgdb
+602bc9953d3737b1ba52b2a0d9932f7c	Tempest 2000 (World).j64	atari-jaguar-htgdb
+e80ef90b73422120d7919621fcbf17f8	Tempest 2000 (World).mrq	atari-jaguar-htgdb
+0d5f81f48dffa2b511460a9852aa3b4a	Theme Park (World).j64	atari-jaguar-htgdb
+8c5440fc936971bfb736894b5f35794e	Theme Park (World).mrq	atari-jaguar-htgdb
+5f14d7c3da4e0f26f736158ffb95ce05	Total Carnage (World).j64	atari-jaguar-htgdb
+02b95e4f68b4e77dc509bf5a38884b7a	Total Carnage (World).mrq	atari-jaguar-htgdb
+83d0248de7d14684cb7c7457fcd1c608	Towers II - Plight of the Stargazer (USA, Europe).j64	atari-jaguar-htgdb
+3b256fb9301e0ab3e73f419db9d95535	Towers II - Plight of the Stargazer (USA, Europe).mrq	atari-jaguar-htgdb
+bafebcbf5a0973fcf5c130c56ffeabb2	Trevor McFur in the Crescent Galaxy (World) (Rev A).j64	atari-jaguar-htgdb
+2c4ba4883ad050dcfc213934be25568b	Trevor McFur in the Crescent Galaxy (World) (Rev A).mrq	atari-jaguar-htgdb
+bb04ea04aefa100d7e7f87f46db71f57	Trevor McFur in the Crescent Galaxy (World).j64	atari-jaguar-htgdb
+f5fcfb1b9a1e00bc5dcd6cc9fbe56577	Troy Aikman NFL Football (World).j64	atari-jaguar-htgdb
+fd0997a63fc0765b440541361d7b3d56	Troy Aikman NFL Football (World).mrq	atari-jaguar-htgdb
+5f2115d0bdcae4f3aa8e832f23f4ebdd	Ultra Vortek (World).j64	atari-jaguar-htgdb
+7d40a457826fbd9e2bfb0781e0456434	Ultra Vortek (World).mrq	atari-jaguar-htgdb
+1f1145e1042b8cc062c417798392d251	Val d'Isere Skiing and Snowboarding (World).j64	atari-jaguar-htgdb
+aef7e93ca44d240e2607a5c1ac956cbd	Val d'Isere Skiing and Snowboarding (World).mrq	atari-jaguar-htgdb
+22dd3645e3ea99f303694eb5f157ce06	White Men Can't Jump (USA, Europe).j64	atari-jaguar-htgdb
+c26d3e6653da67e96925b5d7d7cebf4a	White Men Can't Jump (USA, Europe).mrq	atari-jaguar-htgdb
+3584cb83461c8666a3f28ea0c431a3db	Wolfenstein 3D (World).j64	atari-jaguar-htgdb
+bbacb4056dd7a04126e9e78919cc4010	Wolfenstein 3D (World).mrq	atari-jaguar-htgdb
+1a87f2f7a32d3e3a8e8d922a0c5aa6af	Worms (USA, Europe).j64	atari-jaguar-htgdb
+b31ddd05de26801f402726b1ae75297b	Worms (USA, Europe).mrq	atari-jaguar-htgdb
+08b31fae8cbd44ac65d44baf1a0545a2	Zero 5 (USA, Europe).j64	atari-jaguar-htgdb
+2f250bb6cb5169ba3baa89f53b0d121d	Zero 5 (USA, Europe).mrq	atari-jaguar-htgdb
+780c0dd04407145b1c436adea406b5ac	Zool 2 (World).j64	atari-jaguar-htgdb
+0d22de7b1be7766c60bbb9ffc631dc03	Zool 2 (World).mrq	atari-jaguar-htgdb
+014e52819fc3d8ecbd0a1e71b80feb42	Zoop (USA, Europe).j64	atari-jaguar-htgdb
+edf71101048f6d5f6cf364ac723e0cdc	Zoop (USA, Europe).mrq	atari-jaguar-htgdb
+cb5e2e7670972ff8067e483facaf0069	1943 (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+658efb8c5ec313bef96cdaed874bfe1f	1943 (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+335971a745799b10c5f442b5afe3dd58	Action Fighter (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+a98f01a1611f066c798c857448ba0ed3	Action Fighter (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+52033ad5ef1ad13141dff05ac82757fc	Alien Syndrome (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+44d12da828d443327d102f19c87d8f61	Alien Syndrome (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+9bccd77d8e43f82b29880b8adf4c0b97	Arkanoid Revenge of DOH (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+21ceb96ead66b3ddbb427a44a587e9ad	Arkanoid Revenge of DOH (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+f620885b9451fe0bc0f4f2d7464bc977	Badlands (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+4100a7bd877fd4ea3d3070aa17011ae0	Badlands (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+22f4ec063baac92601c3423cd25b3d5d	Barbarian (ST).mrq	atari-jaguar-htgdb-atarist-ports
+2823677004c59e4b56fbfc3b38fbeb52	Barbarian (ST).rom	atari-jaguar-htgdb-atarist-ports
+d1a23d8364a179486053cca438f78819	Beast Busters (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+d0e97a3e9bb645ff9633badbb6ea3f2b	Beast Busters (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+c7bb361cf9fc85e36080296716c2a371	Bionic Commando (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+7a3b945ff585b75f2de2da5f1e0ccd08	Bionic Commando (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+c0a5b410459e52333c133a7a15a5efa1	Black Lamp (ST).mrq	atari-jaguar-htgdb-atarist-ports
+53c332a443c161fa26dc361af1bcd19a	Black Lamp (ST).rom	atari-jaguar-htgdb-atarist-ports
+bb3e6d31c027df6f5005fb6dfa3625b1	Bubble Bobble Alt Music (PD) (ST).rom	atari-jaguar-htgdb-atarist-ports
+8ad0173df7002fd971946c6e44f66434	Bubble Bobble Arcade (ST).mrq	atari-jaguar-htgdb-atarist-ports
+1f776198150ab992cfbe330e20300b3b	Bubble Bobble Arcade (ST).rom	atari-jaguar-htgdb-atarist-ports
+6d389969635ba4479a303a8371662100	Buggy Boy (ST).rom	atari-jaguar-htgdb-atarist-ports
+c6ca86d4b4c1dff83bce5fab1f5614af	Camels (ST).ABS	atari-jaguar-htgdb-atarist-ports
+1adec0d5b09b47f458c0576f17fa1e31	Commando (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+bda7bbccb616a3a80fb88fa83c8d3a49	Commando (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+492bce511514e307ee1c80bef2b85549	Cybernoid - The Fighting Machine (ST).mrq	atari-jaguar-htgdb-atarist-ports
+9bb5e7352e270b43377970451ea6a057	Cybernoid - The Fighting Machine (ST).rom	atari-jaguar-htgdb-atarist-ports
+73fa2d9f91e7f2522629013db662ceb3	Cybernoid II - The Revenge (ST).mrq	atari-jaguar-htgdb-atarist-ports
+2add61f61e2b5f195d533e48c56fa7d8	Cybernoid II - The Revenge (ST).rom	atari-jaguar-htgdb-atarist-ports
+4e0570971cedf40f69263357bc83d165	Darius+ (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+a4315d23e7a5144c19bc8e54132ee184	Deflektor (ST).mrq	atari-jaguar-htgdb-atarist-ports
+df285d3059ba7d21e5b13b752055e33c	Deflektor (ST).rom	atari-jaguar-htgdb-atarist-ports
+639036bc2e09b5a22e0092b38ce344fd	Dragon Breed (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+3c00969449b6f4ca93546f3b095d49ef	Dragon Breed (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+65fbb69cdc5a741767b7a6df009505f1	Escape From the Planet of the Robot Monsters (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+4f519c60a8e190471fa1b84d3cb3e74b	Escape From the Planet of the Robot Monsters (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+f72834223cc75a0c67904c68e003c899	Fantasy World Dizzy v1 (ST).rom	atari-jaguar-htgdb-atarist-ports
+2c2f5d2aae83c1d02035286b55f3b047	Fernandez Must Die (ST) v1.1.ABS	atari-jaguar-htgdb-atarist-ports
+3732f0238583d11ec41b78ee80001b43	Fernandez Must Die (ST) v1.1.mrq	atari-jaguar-htgdb-atarist-ports
+9cd2d3daf9998b9a98b88a5caa659363	Flying Shark (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+0dc8e1de09a3a49abd4114fdca8f38d0	Flying Shark (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+43d75a00d291945355f96499b77384ba	Gauntlet II (ST).mrq	atari-jaguar-htgdb-atarist-ports
+e3707f70cab6b3b2cfc0e19fe9103382	Gauntlet II (ST).rom	atari-jaguar-htgdb-atarist-ports
+af970fe305d6bfbb612988bbd555474b	Ghouls'n'Ghosts (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+69c6373fc1a0a019891193703ec19d43	Ghouls'n'Ghosts (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+d9f927dc7d17aaf47bf62af9e6befa07	Golden Axe (ST).rom	atari-jaguar-htgdb-atarist-ports
+9bad50b7857fafe7deed51a1c49ed890	Golden Axe BitJag Appreciation Version (ST).rom	atari-jaguar-htgdb-atarist-ports
+36cd3d1c865cec9674f3f8664bee4f09	International Karate Plus (ST).mrq	atari-jaguar-htgdb-atarist-ports
+85075223132cdcbf93fd5009c732e7e1	International Karate Plus (ST).rom	atari-jaguar-htgdb-atarist-ports
+002f9cd236bc8a6ab96ea43edcb8f0ba	Joust (ST).mrq	atari-jaguar-htgdb-atarist-ports
+f47a4e4c9e6cba3ff258916811a30988	Joust (ST).rom	atari-jaguar-htgdb-atarist-ports
+293362d49b95c04468ad5b55b6d423a3	Klax (ST).mrq	atari-jaguar-htgdb-atarist-ports
+4c2c84fd36341b958583eb9d10b0e3b8	Klax (ST).rom	atari-jaguar-htgdb-atarist-ports
+d8a1c5d088bf7a5b8fe0caefa7cb6658	Llamatron (ST).ABS	atari-jaguar-htgdb-atarist-ports
+39b01bc6011f239869e796b0772c3678	Llamatron (ST).rom	atari-jaguar-htgdb-atarist-ports
+250e8707d62610cb1184521efdd51f6b	Metro Cross (ST).ABS	atari-jaguar-htgdb-atarist-ports
+8cc58827b33eee76edc2e5d6ed9561b3	Metro Cross (ST).rom	atari-jaguar-htgdb-atarist-ports
+53fc890461ac130a93b1afa12759e8ed	Midnight Resistance (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+ec2d3ccf54033aa95a1aa91c7e64c909	Midnight Resistance (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+97f32c6e693e8f92e8e9fad1045e15cc	Moon Patrol (ST).mrq	atari-jaguar-htgdb-atarist-ports
+bdcfe5963296135cc51fdab88b400511	Moon Patrol (ST).rom	atari-jaguar-htgdb-atarist-ports
+23ad5b8fc769e93b1a2a9458ca50b8ca	Mr HELI (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+c6ed273689c690d5ff8d5ad4e922a076	Mr HELI (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+6c98c2a5cf317457cc5983601cd23b80	Ninja Mission (ST).mrq	atari-jaguar-htgdb-atarist-ports
+c7e937f27db58791e72ed8582f04a81b	Ninja Mission (ST).rom	atari-jaguar-htgdb-atarist-ports
+f8511181062500db4e1eff7f282a224c	Operation Thunderbolt (ST) v1.rom	atari-jaguar-htgdb-atarist-ports
+af1600771971395c2dfff3915ae89dc3	Passing Shot (ST).rom	atari-jaguar-htgdb-atarist-ports
+3f2dd04f90ce36707cb41e6f5190a806	R-Type (ST).mrq	atari-jaguar-htgdb-atarist-ports
+f17c8dc84826a28bf15f71b7b8d79bf8	R-Type (ST).rom	atari-jaguar-htgdb-atarist-ports
+b20e832e61d0e5e2758bd76f61372f9f	R-Type II (ST).mrq	atari-jaguar-htgdb-atarist-ports
+448c2edaab094d8ea54f8a877a8670c8	R-Type II (ST).rom	atari-jaguar-htgdb-atarist-ports
+3e61f4b4a0b8c3edb3848715ed572cc7	Rampage (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+ff045c66ae22d16d7f95dc4ce024ed9a	Rampage (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+4bd122e8ec6a76350581ed0e05cca336	Revenge of the Mutant Camels (ST).mrq	atari-jaguar-htgdb-atarist-ports
+8bc9fb105cba28e24010e885de0d3d15	Revenge of the Mutant Camels (ST).rom	atari-jaguar-htgdb-atarist-ports
+7e22169fd2dc016402c1e09934bf672f	Rick Dangerous (ST).mrq	atari-jaguar-htgdb-atarist-ports
+9b56fb21bb87d0520d81fb2449a90f2d	Rick Dangerous (ST).rom	atari-jaguar-htgdb-atarist-ports
+313ba38c6f5c82b7d06fbce325bdee25	Rick Dangerous 2 (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+d8e6465aef4b6ff31ee11ba68dc6e7eb	Rick Dangerous 2 (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+6886b99997fc4a6ab4d490524867ed33	Solomons Key (ST).mrq	atari-jaguar-htgdb-atarist-ports
+4224e343602c3a0bd40987a82efa2319	Solomons Key (ST).rom	atari-jaguar-htgdb-atarist-ports
+49e8918f3bd8feea1dc57137e167cf42	Spikey In Transylvania (ST).mrq	atari-jaguar-htgdb-atarist-ports
+4e759e3240d57245fbf385a2fb4bba77	Spikey In Transylvania (ST).rom	atari-jaguar-htgdb-atarist-ports
+b661884a4b8a59d425d082bce888a66d	Star Wars - The Empire Strikes Back (ST).mrq	atari-jaguar-htgdb-atarist-ports
+78d58aac593136717ed5994033e464ae	Star Wars - The Empire Strikes Back (ST).rom	atari-jaguar-htgdb-atarist-ports
+66ee61f9e3d0fec87442f670a33c9a03	Star Wars Arcade (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+600746edafc86d9f5636d0b1de21005b	Star Wars Arcade (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+b87d991283b0c37e753caa3c2fdab09d	Storm Bringer (ST).ABS	atari-jaguar-htgdb-atarist-ports
+ae257ccc49190135ea4c74b7633bc8a6	Storm Bringer (ST).rom	atari-jaguar-htgdb-atarist-ports
+2c534335acc0150249ce958b6ed71573	Strider (ST).rom	atari-jaguar-htgdb-atarist-ports
+e8eb3a43fe54d0c017648f579e6ed89c	Stunt Car Racer (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+e3a31551a7b36849f2e2deb11795e741	Stunt Car Racer (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+6fe89968f934fd30b948e36a0c762e52	Teenage Mutant Hero Turtles (ST) GD.mrq	atari-jaguar-htgdb-atarist-ports
+82109da956bc4e956159d20e01cab0b9	Teenage Mutant Hero Turtles (ST) GD.rom	atari-jaguar-htgdb-atarist-ports
+9f87ba7117a52ed07e1be2eca2302eda	Carrier Command (ST).rom	atari-jaguar-htgdb-atarist-ports-incomplete
+f9f53dbc82cc52af544e9c461209ce25	Mercenary - No Enter (ST).rom	atari-jaguar-htgdb-atarist-ports-incomplete
+64a31978c2aa9e1803f3ef8c97561bca	Outrun - Not Playable (ST).rom	atari-jaguar-htgdb-atarist-ports-incomplete
+b3d6ada8ce88bc1fd23d1dd2cba36988	Return to Genesis (ST).rom	atari-jaguar-htgdb-atarist-ports-incomplete
+2f697c4b32b9416cdefcf0a408a29ff4	Star Quake (ST).rom	atari-jaguar-htgdb-atarist-ports-incomplete
+7d6c00316f1ae81899834f1e4a779d45	Starglider 2 (ST).rom	atari-jaguar-htgdb-atarist-ports-incomplete
+4312461f854769e40266285a6f25ab81	Super Sprint (ST).rom	atari-jaguar-htgdb-atarist-ports-incomplete
+f68516a63647742e94096c128804df26	Aircars (USA) (Beta) (1994-11-14).j64	atari-jaguar-htgdb-betas
+d126e7fa72c99ef92a132e4e1ce18b6c	Alien vs Predator (World) (Beta) (1993-08-18).j64	atari-jaguar-htgdb-betas
+750106d9ec9aa7fea0326eb3397755dd	Alien vs Predator (World) (Beta) (1993-10-13).j64	atari-jaguar-htgdb-betas
+51ae6d493492ebf9ca3b3bd919e46fc4	Alien vs Predator (World) (Beta) (1994-04-08).j64	atari-jaguar-htgdb-betas
+f6ac0fea7764cf4719005c49f2281024	Atari Karts (World) (Beta).j64	atari-jaguar-htgdb-betas
+a69b7a8a9a7a42b189ab48ce8e8587c1	Barkley Shut Up and Jam (World) (Beta).j64	atari-jaguar-htgdb-betas
+242d383c944c8649f57efe30f8a84215	Breakout 2000 (USA, Europe) (Beta).j64	atari-jaguar-htgdb-betas
+b6162e77821433b474fc25be89795211	Checkered Flag (World) (Beta) (CES 1993).j64	atari-jaguar-htgdb-betas
+b5ef0f2aa7aa14985cc7beaec483ed39	Club Drive (World) (Beta).j64	atari-jaguar-htgdb-betas
+0ad7cf284117042132e56b0a0a5af3e7	Cybermorph (World) (Beta) (1993-08-23).j64	atari-jaguar-htgdb-betas
+37f38d240c9eb074872e62e3694ba453	Defender 2000 (World) (Beta).j64	atari-jaguar-htgdb-betas
+afc5f1a4bcc0c7133c62854572da559c	Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26).j64	atari-jaguar-htgdb-betas
+decc2fcbdbe6f5b1682afd6c68708331	Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06).j64	atari-jaguar-htgdb-betas
+c5d3d9510a9ab9ea9b44c6643bd48ce1	Fight for Life (USA, Europe) (Beta) (1995-03-22).j64	atari-jaguar-htgdb-betas
+8ef4cea701ed5c774380a5f21bfb9062	Fight for Life (USA, Europe) (Beta) (1995-09-07).j64	atari-jaguar-htgdb-betas
+72b89e485f51f2038f91d5cb499f5d80	Missile Command VR (World) (Beta) (1995-07-05).j64	atari-jaguar-htgdb-betas
+07abf02e9619811f867ecd1266388aa2	Rayman (World) (Beta 1).j64	atari-jaguar-htgdb-betas
+283e0eb1beb4c6217d3be9719eabacb8	Rayman (World) (Beta 2).j64	atari-jaguar-htgdb-betas
+c803a3d9bb7c64c599143c0f6b1cab96	Soccer Kid (World) (Beta).j64	atari-jaguar-htgdb-betas
+7fbd1b0409050ddeabf7ef440baf0180	Total Carnage (World) (Beta).j64	atari-jaguar-htgdb-betas
+4adc06af180e90d6f24d3f98096bbc3a	Trevor McFur in the Crescent Galaxy (World) (Beta).j64	atari-jaguar-htgdb-betas
+31517113add13d1ff766a4c2a58f4675	Ultra Vortex (World) (Beta) (1995-03-20).j64	atari-jaguar-htgdb-betas
+6977fc843238a167aabfd2e6c251b480	Zero 5 (USA, Europe) (Beta).j64	atari-jaguar-htgdb-betas
+bcfe348c565d9dedb173822ee6850dea	[BIOS] Atari Jaguar (World).j64	atari-jaguar-htgdb-bios
+77cd95c7ad06a39f4c59995094aa10f9	[BIOS] Atari Jaguar CD (World).j64	atari-jaguar-htgdb-bios
+578de34498cb9a40c5368b6f5ca80484	[BIOS] Atari Jaguar Developer CD (World).j64	atari-jaguar-htgdb-bios
+b509e9c13bdc527ee7ce25c5b558bc0d	[BIOS] Atari Jaguar Stubulator '93 (World).j64	atari-jaguar-htgdb-bios
+25ca8d058ed03bda3b357b7fa6a56970	[BIOS] Atari Jaguar Stubulator '94 (World).j64	atari-jaguar-htgdb-bios
+9d23aa9568971bc05b9962a02c343749	High Voltage C Maze (USA) (Demo).j64	atari-jaguar-htgdb-demos
+905b5df8de465c922543a1d0548e8101	Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-13).j64	atari-jaguar-htgdb-demos
+1ede6eb5f3578bd31ee70375eb85dbd5	Jack Nicklaus Cyber Golf (USA) (Demo) (1995-01-16).j64	atari-jaguar-htgdb-demos
+18089706398fc248003b3a60efce49cb	Kasumi Ninja (World) (Demo).j64	atari-jaguar-htgdb-demos
+4f7e1b03cce05c75f91d12f7e751e1b2	Super Burnout (World) (Demo) (WCES 1995).j64	atari-jaguar-htgdb-demos
+322e89a674a188f8fddd313d6fe7bf80	Tiny Toons Adventures - Plucky Duck Final DEMO (1994).j64	atari-jaguar-htgdb-demos
+e419fed663afce4d8a228e6454dd51a8	Zzyorxx II (USA) (Demo).j64	atari-jaguar-htgdb-demos
+b44f0ff1da6caa2f307d883a21445cf3	Zzyorxx II (USA) (Demo).mrq	atari-jaguar-htgdb-demos
+65234059a0b2bd76fbfc9e1acd2b1983	2048 (PD).mrq	atari-jaguar-htgdb-homebrew
+72d0e3ba5b8390a204069526087ad741	2048 (PD).rom	atari-jaguar-htgdb-homebrew
+d78e4887142a6c8852dde84136d67b82	Ants (PD) v3 ari2600land 2017-05-26.rom	atari-jaguar-htgdb-homebrew
+cd6b75a2498b9022fb4e8037b0e700ee	Arkanoid 2 (19xx)(-)(PD).bin	atari-jaguar-htgdb-homebrew
+d3bc404e94b1943a8bee4e98bf57c912	Asteroid (2000) (PD).jag	atari-jaguar-htgdb-homebrew
+343bf6b4aa52f3423f268d77bc9cf176	Asteroid (2000) (PD).mrq	atari-jaguar-htgdb-homebrew
+591bc4f210217141c2b7fee8736a0889	Asteroids (PD) jiffi.rom	atari-jaguar-htgdb-homebrew
+586b41eb3cc551e7df1d5904e7a509c1	Astro Storm (PD) v13.rom	atari-jaguar-htgdb-homebrew
+7f0ae2ec6f01d2783e3d9b9c6d3b8ac1	Atomic (2006).mrq	atari-jaguar-htgdb-homebrew
+8b30e724ba30a4ff40ec9a62f9d1debd	Atomic (2006).rom	atari-jaguar-htgdb-homebrew
+3a70bc537cd608b2895bd9e5751f1b29	Atomic Reloaded (PD) atomic jiffi.mrq	atari-jaguar-htgdb-homebrew
+6497342537f752614b77c7c6373ecb4a	Atomic Reloaded (PD) atomic jiffi.rom	atari-jaguar-htgdb-homebrew
+3d824275b553c0df18604012e0cd30cb	Bexagon Party Version (PD) Bello Games.rom	atari-jaguar-htgdb-homebrew
+a8ddec1c330f18e6c2bdd9f2e51236e4	BlackJag (PD) v1.03 2008 jiffi.rom	atari-jaguar-htgdb-homebrew
+f7d79000f0e7f21b0acd79fccd25b44f	Checkered Flag - LINEAR STEERING RATE PATCH (Hack).rom	atari-jaguar-htgdb-homebrew
+35652664f65333b6d383a06945e7afea	Dance Dance Xirius Space Party (PD) jiffi.mrq	atari-jaguar-htgdb-homebrew
+31dddc28f87d87874878825e03128b22	Dance Dance Xirius Space Party (PD) jiffi.rom	atari-jaguar-htgdb-homebrew
+487613d0757176fc5a02030c1be5dc9e	Dazed VS (PD) jiffi.rom	atari-jaguar-htgdb-homebrew
+bd5904410681ddcc9950de6cf84e8845	DiamJag (2008) Orion.mrq	atari-jaguar-htgdb-homebrew
+9885c4e29a6fbe3f55a9e19c9e25bd71	DiamJag (2008) Orion.rom	atari-jaguar-htgdb-homebrew
+f98387b09707a883fa7d57306a82389e	Do The Same (2009).mrq	atari-jaguar-htgdb-homebrew
+fe5ebd548917186168e4dba4a641bd39	Do The Same (2009).rom	atari-jaguar-htgdb-homebrew
+fa4a73b0ea1cd4c80610d10863d4929d	Doom 2 (PD) v98 2011.rom	atari-jaguar-htgdb-homebrew
+a5dc23987bd84297ee53dd328a07f3ad	DragonKeep (PD) v1.01 CyranoJ.rom	atari-jaguar-htgdb-homebrew
+84f7e427671e3110945cdac60a25a25b	Drumpad 2 by Robert Jurziga (2002) (PD).bin	atari-jaguar-htgdb-homebrew
+605f86f728db2083489d751d2e99dfec	Drumpad by Robert Jurziga (2002) (PD).bin	atari-jaguar-htgdb-homebrew
+ddf49e4e2065aca7a1b918eb1fdc561c	Elansar (PD) Orionsoft.rom	atari-jaguar-htgdb-homebrew
+54af14494cb3b9d584adcbd2d1a5216e	Frog Feast (World).j64	atari-jaguar-htgdb-homebrew
+58a0a3be0563456cf4f7ffefae830145	Gorf 2000 (PD).mrq	atari-jaguar-htgdb-homebrew
+51b305028015bc3f5fcaa36d716947d1	Gorf 2000 (PD).rom	atari-jaguar-htgdb-homebrew
+26f02f40493d3e14d71b565e9922e758	GRYZZLES (PD).rom	atari-jaguar-htgdb-homebrew
+d5d2c6eeda651ee401093a59a355cab5	JagReplay v1.0a (1994-95)(Phoby Creative)(PD).jag	atari-jaguar-htgdb-homebrew
+6da88d193008e7b09c7d59eb060c0eed	Jaguar Tetris (1995) (PD).jag	atari-jaguar-htgdb-homebrew
+26ac415009836c4d9f539045a6b2c578	Jaguar Tetris (1995) (PD).mrq	atari-jaguar-htgdb-homebrew
+b8e846492a25db037ec7a6b282ddb7fa	Jungle Jag (2007).mrq	atari-jaguar-htgdb-homebrew
+10d5734139bb1158a4405eaead761f04	Jungle Jag (2007).rom	atari-jaguar-htgdb-homebrew
+04db5bb407c31b91f55024f6dcbecaaf	Martian Attack (2007).rom	atari-jaguar-htgdb-homebrew
+ea01ddb1ba14f24a47c03bc4962107df	Not Outrun (PD) v241215.abs	atari-jaguar-htgdb-homebrew
+2dcb13f904b13ab97e4540d7e7b99757	NYANJAG - STEREO (PD) JIFFI.rom	atari-jaguar-htgdb-homebrew
+1abcc99e0a7ccfb9013e5631b48e3318	Orion's Jaguar Collection Compilation (PD) v1 Orionsoft.rom	atari-jaguar-htgdb-homebrew
+985bd1236c3c416381240fb537e86536	OSMOZYS (PD) Orion 2007.rom	atari-jaguar-htgdb-homebrew
+47fbf130046588dd6ed393217a9e732e	Painter (1996)(PD).mrq	atari-jaguar-htgdb-homebrew
+2ed52c9166495d57fcc431c07ac0a471	Phase Zero (2000) (PD).jag	atari-jaguar-htgdb-homebrew
+7888f4e44451b9fecf766ee03a98eeac	Phase Zero (2000) (PD).mrq	atari-jaguar-htgdb-homebrew
+e5b0c3571defb65d266a2aaf647f9cd8	Pong (19xx)(Storm Works Interactive)(PD).abs	atari-jaguar-htgdb-homebrew
+dfc7d28045cf25712b1e31bac743614c	Pong (PD) v1 Virtual Xperience.bin	atari-jaguar-htgdb-homebrew
+f969e1ed6e3c55f12af0ea312e2f950d	Project W (PD).bin	atari-jaguar-htgdb-homebrew
+a5729923bab60174bb1422287affdd60	Return to Genesis (PD) incomplete.rom	atari-jaguar-htgdb-homebrew
+33a17ffaeea1b39dced0f4e5aaabd6e3	Rocks Off (PD).mrq	atari-jaguar-htgdb-homebrew
+fb46a8ecc704eb855a82862b1e25306e	Rocks Off (PD).rom	atari-jaguar-htgdb-homebrew
+5c4d9c57e0559902151325f0c8b99131	Shoot 'em Up (PD) shootemup jiffi.rom	atari-jaguar-htgdb-homebrew
+671c1a4feee745aa5502f9c7bef7ac1e	SkyCopter II (PD).mrq	atari-jaguar-htgdb-homebrew
+d128a5dd0bac4dbaab0fb402efb2b0ee	SkyCopter II (PD).rom	atari-jaguar-htgdb-homebrew
+9cc7c429408b8aa17a4c13370cd49ae1	Tetris (PD) jiffi.rom	atari-jaguar-htgdb-homebrew
+0916eec0299546966b14dc33389031fa	The Maxx (2008).rom	atari-jaguar-htgdb-homebrew
+5681bd39b2de28787a4b538e2f020c00	Tube - Special Edition (PD) DrType 2012.mrq	atari-jaguar-htgdb-homebrew
+a35c9da8c21ca575faafbbdef8d1b604	Tube - Special Edition (PD) DrType 2012.rom	atari-jaguar-htgdb-homebrew
+e84e6500d94efa427b0033638093a843	Tube (PD) DrType 2012.rom	atari-jaguar-htgdb-homebrew
+11868a830ec43fca5450a61861a230ce	Uwol - Quest for Money (PD) Final.rom	atari-jaguar-htgdb-homebrew
+52c91ea768269430c319e29fffd6a793	108k demo.abs	atari-jaguar-htgdb-homebrew-demos
+af04a0d16fdc2c26d21f869b716446bd	3D wireframe demo ($4000).bin	atari-jaguar-htgdb-homebrew-demos
+7f3f1f2c08874b43b475ccf65db2b2eb	3DDEMO.cof	atari-jaguar-htgdb-homebrew-demos
+a9e5929779d2bdd737ebc2428e078b57	96Kb Demo (19xx)(Mr Spock)(PD)[$4000].bin	atari-jaguar-htgdb-homebrew-demos
+cb98686143092ef20552cdddbb8f1036	96Kb Demo (19xx)(Mr Spock)(PD)[$8000].bin	atari-jaguar-htgdb-homebrew-demos
+569119f69f799a210125ea0887093040	ADEMO1 jiffi [cof].cof	atari-jaguar-htgdb-homebrew-demos
+748daf1bcae89f6af6ca75c9731ebdff	ADEMO1 jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+e2287a51743ada14969a7f3eb6395ba1	ADEMO1.jagserver2 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+010967a79575d48be9c5c3bd2a17abfb	ADEMO1.jagserver3 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+63d31aba1f83dc48006b15d3646fdb6c	Arkanna DEMO (2008).rom	atari-jaguar-htgdb-homebrew-demos
+71777753beddac769f4ed5a2a4438d8e	Assassin DEMO (2008).rom	atari-jaguar-htgdb-homebrew-demos
+95c1fb6adce52072a25ea93741908f74	Assassin Demo, The - Release 2 (PD).jag	atari-jaguar-htgdb-homebrew-demos
+99706ffdd652b348d86368b211e2c3c0	Assassin Demo, The Part 1 (1999) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+1bb30cf0b5a1e928918cd0f09da30869	Assassin Demo, The Part 1 (for BJL) (1999) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+bbba721934e01dc23bfc383efbcd2501	Atari Jaguar Behind Jaggi Lines v1.06.0 (199x)(-)(PD).jag	atari-jaguar-htgdb-homebrew-demos
+38e071983a26e640f6ea7ea48d29976d	Bad Apple GD.mrq	atari-jaguar-htgdb-homebrew-demos
+e933d6bafba21338b413c45142284581	Bad Apple GD.rom	atari-jaguar-htgdb-homebrew-demos
+aa9345e887a431e60837a1b941c1bbaa	BadCode0 by Badcoder (bin) (1999) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+d0c9e7b56c4c49000c5db2106d31db6e	BadCode1 by Badcoder (bin) (1999) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+320946ff09be861705d834e5c43ee0a9	BadCode2 by Badcoder (bin) (2000) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+0bd5aa5846aeba42b1390c060bbf239f	BadCode3 by Badcoder (jag) (2000) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+c3d608820d0cf15641db965fafbe5b82	BadCode4 (Metal) by Badcoder (jag) (2000) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+d47d9321b8fe63a9f8c4eba8245ccb50	BadCode4 (Modified) by Badcoder (jag) (2000) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+4ef5622528fda8215e8ffe6862dcf822	BadCode4C by Badcoder (jag) (2000) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+8f7abc3603d3763ba718a1680d7e685c	BadCode4N by Badcoder (jag) (2000) (PD)badcde4n.jag	atari-jaguar-htgdb-homebrew-demos
+e14c73ee538e9c5e30e6198f889fb4e7	BJ PRGE2014 Demo.rom	atari-jaguar-htgdb-homebrew-demos
+c5ac5b465d25112fb1396387cfa3caa3	bjl+demo.rom	atari-jaguar-htgdb-homebrew-demos
+b4d4da2354a9a7df2cd9852dfbfa2659	BlackJag v1.1 (-)(FORCE Design)(PD) [BIN].bin	atari-jaguar-htgdb-homebrew-demos
+e5e5c3a7ba0cab41c5510a09fb48e2ad	BlackJag v20050223 (2005)(FORCE Design)(PD) [BIN].bin	atari-jaguar-htgdb-homebrew-demos
+dd38f2ba1f2a24f575109dcfee5a8332	Blitter 2 (199x)(-)(PD).bin	atari-jaguar-htgdb-homebrew-demos
+8dc50b1f149f14127223607aa7298a51	BLKDEMO jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+be8cb8d3ae155945e631c792c33544be	Blue Lightning Alphas Demos - BARREL.abs	atari-jaguar-htgdb-homebrew-demos
+c77a23e9c9e57e865640358f670200b3	Blue Lightning Alphas Demos - BLUEice.abs	atari-jaguar-htgdb-homebrew-demos
+56be00b6c13b4681c463f6f438ea7e5a	Blue Lightning Alphas Demos - DEMObl.abs	atari-jaguar-htgdb-homebrew-demos
+a3fbc7d6cc7b67a96b64e390b528b755	Blue Lightning Alphas Demos - DEMObl2.abs	atari-jaguar-htgdb-homebrew-demos
+2be9b4032a8b5515090e0ac4aa567f9a	Blue Lightning Alphas Demos - DEMOMock.abs	atari-jaguar-htgdb-homebrew-demos
+d2e607ca59070c89b500d5f2a29c4f69	BrainGames DEMO (2009).rom	atari-jaguar-htgdb-homebrew-demos
+5c10f9e15749ec4ec1688ddb6b0bf656	CES Demo (199x)(-)(PD)[$802000].jag	atari-jaguar-htgdb-homebrew-demos
+facb373a50a3b33abd4bba031bf02bd5	CES DEMO.rom	atari-jaguar-htgdb-homebrew-demos
+2277bf3dd91f865d9876d1de1a927199	Chroma-Luma Color Pick (Mouse) by Matthias Domin (1996) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+4d75f19ceef90cfd3bc41c92c391716d	Chroma-Luma Color Pick by Matthias Domin (jag) (1996) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+546ccee9052ee78c9222c3f8f158900a	Chroma-Luma Color Pick by Matthias Domin (jag) (1996) (PD)[a1].jag	atari-jaguar-htgdb-homebrew-demos
+ea59d37971dd8738fb1a4621cead910b	Classic Kong Demo (PD) swapd0.rom	atari-jaguar-htgdb-homebrew-demos
+972e33644bb0c3778b9867841bcbc6e1	Clicks 3 (199x)(Matthias Domin)(PD).jag	atari-jaguar-htgdb-homebrew-demos
+4f40da5046342952fde0f7e34e673f74	Clicks 4 (199x)(Matthias Domin)(PD).bin	atari-jaguar-htgdb-homebrew-demos
+33b59c6e40c71c7df3c9f6c5f5b48206	Clicks 4 (199x)(Matthias Domin)(PD)[a].jag	atari-jaguar-htgdb-homebrew-demos
+30735100777200fdc3e3fd9f591da5e3	CLOUDY - Reboot (PD).rom	atari-jaguar-htgdb-homebrew-demos
+c7d8aaf39343f665220da6a3471beef5	Colors Mouse DEMO (2008).rom	atari-jaguar-htgdb-homebrew-demos
+a231a5ae37b93b56637cf811ea32bdc7	Connaone Demo.jag	atari-jaguar-htgdb-homebrew-demos
+a954f6b318f363a8a8f41644fec70950	CPKDEMO.cof	atari-jaguar-htgdb-homebrew-demos
+3d7d64105361d0b9ad961af0fc2d4aaa	CRYDEMO [a].abs	atari-jaguar-htgdb-homebrew-demos
+f88ea0378b7c7766cb30b14e568e6917	CRYDEMO.abs	atari-jaguar-htgdb-homebrew-demos
+963ee8a5d9a2ce02b94fe0c988582287	CRZ DEMO (2008).rom	atari-jaguar-htgdb-homebrew-demos
+ee362363f06d2499e325c80ecc9a1441	CRZDEMO.abs	atari-jaguar-htgdb-homebrew-demos
+775f6e2066d6a94ed51b6cc67ed7cef0	Cyber Golf v0.02 (19xx)(Atari)[Demo].jag	atari-jaguar-htgdb-homebrew-demos
+ba612d161bf5b3bb854db7ad5cf18e06	DEMO [cof].cof	atari-jaguar-htgdb-homebrew-demos
+c15961b8cd42294b5561eb2721bf7a15	Demo 1 (199x)(Mr.Well's)(PD).bin	atari-jaguar-htgdb-homebrew-demos
+ba509927f37f95ff5196c2e9447aeab4	DEMO.abs	atari-jaguar-htgdb-homebrew-demos
+a56b85f3342f0f1eed460e848966bb63	DEMO1 (PD).jag	atari-jaguar-htgdb-homebrew-demos
+6f2e42de6e1bf476c1257b3816cfa1b3	DEMO1B (PD).jag	atari-jaguar-htgdb-homebrew-demos
+ef1edee86207c7fa62f5c2a972eb8ef4	DEMO1C (PD).jag	atari-jaguar-htgdb-homebrew-demos
+e14f7c6bb0cec657f42ed5448527a4b0	EJF2KDEMO jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+7660b15eeeaecd1dfba461ac9f7077a5	Elansar jaguar demo.rom	atari-jaguar-htgdb-homebrew-demos
+e3f3395c343afa2f6c91552ff8e44328	example demo1.bin	atari-jaguar-htgdb-homebrew-demos
+602e3db95fc0e4a05effbc190a45daff	example demo2.bin	atari-jaguar-htgdb-homebrew-demos
+3ad4a1d73b2e84e39ade6ce162d5e3ca	example demo3.bin	atari-jaguar-htgdb-homebrew-demos
+8587353e5384e3091755bbe21c47f4cc	Fallen Angels Demo jiffi headerless.rom	atari-jaguar-htgdb-homebrew-demos
+5f37a87e70c5ad7fec5d99b7b1be0dbc	Fallen Angels Demo jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+f77a4722375de20119e140bcfbae7cd7	fallen angels demo.cof	atari-jaguar-htgdb-homebrew-demos
+0f3cf72dd4d942be763d9a0964c63896	Fire DEMO (2008).rom	atari-jaguar-htgdb-homebrew-demos
+621ee9e174507858febe0d091547fd4a	Font v1 (199x)(Mr.Well's)(PD).bin	atari-jaguar-htgdb-homebrew-demos
+8d63fbf54685fe6bd0b7763bf76dafae	FORCE Design - Legion Force Jidai Intro Demo 0! (2001) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+92693b588bcbc2163444f1352b1ed333	Fractal Landscape Demo 1 ($802000).bin	atari-jaguar-htgdb-homebrew-demos
+a1cad66910fd002284ab1b770e4f0f66	Fractal Landscape Demo 2 ($802000).bin	atari-jaguar-htgdb-homebrew-demos
+1efabef6e601f68573fe9fea38ebcae9	HIRESDEMO2.bin	atari-jaguar-htgdb-homebrew-demos
+2fbc8ddda0859e674014685c0e910b4f	Hubble Fade (2008).rom	atari-jaguar-htgdb-homebrew-demos
+be7ee43300321fe8cdb91f6aba5a61d1	Hubble Fade by Robert Jurziga (PD).bin	atari-jaguar-htgdb-homebrew-demos
+8155ff3fc9d8cd1415d3879b3a052335	Hubble Nebula by Robert Jurziga (PD).bin	atari-jaguar-htgdb-homebrew-demos
+8fdfcc813032b64d8acb813057347b53	Intro DEMO (2008).rom	atari-jaguar-htgdb-homebrew-demos
+aa080a731e4e1d13a6e0f7def38d5798	Jag Cube (199x)(-)(PD)[$4000].bin	atari-jaguar-htgdb-homebrew-demos
+3fb36be43ab291a3d127f905372efb5f	Jag Pattern (199x)(-)(PD)[$4000].bin	atari-jaguar-htgdb-homebrew-demos
+555186607765ec5a9dcdb316d91e5d8b	JagCD DEMO.rom	atari-jaguar-htgdb-homebrew-demos
+2a79b3a2dd91a96e7d4fbbddfa6838b5	JagCube (199x)(-)(PD).jag	atari-jaguar-htgdb-homebrew-demos
+3e8255afc631710bea69883809c50482	JagFest Demo (2001) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+399b7d92b2f0d5cdde26eb3c75814242	JagFest Demo (2001).rom	atari-jaguar-htgdb-homebrew-demos
+1ab000a9eec5b7cd7cd3c5511b84e30a	JagFest Demo 1998 jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+25b340e94dfaa0fe5f18908a811859df	JagLion DEMO (2007).rom	atari-jaguar-htgdb-homebrew-demos
+bb46185e745fbe5e08e38d694576ed1b	JagMania (200)(-)(PD).jag	atari-jaguar-htgdb-homebrew-demos
+916a859190535324c1ba2866dae90518	JagMania (Apr 18) (1998) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+0043a585776ed96f16ba5eedee50aee0	JagMania (Aug 31) (2000) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+c93fd2060e8949aaa87e7ebd6f192864	JagMania (Jan 06) (2001) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+eea3ac195456b83d1b45c89f59f28b00	JagMania (Jul 8) (2000) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+71b044beaf9c8adccea868049e08a8e4	JagMania (Sep 10) (2000) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+e057c674a55493522191262cc8a48f9c	JAGMania v20040618 (19xx)(-)(PD).bin	atari-jaguar-htgdb-homebrew-demos
+1d6d505eee1a223ed5bc966d89e1560e	JagRotate DEMO (2007).rom	atari-jaguar-htgdb-homebrew-demos
+f39e364bd653bf2920683c215f371405	Jaguar Server (Program Examples) - 27OBJ (PD).jag	atari-jaguar-htgdb-homebrew-demos
+d9e159d2975b0f76b7bff4de14667f11	Jaguar Server (Program Examples) - 50HZ (PD).jag	atari-jaguar-htgdb-homebrew-demos
+549c1e91a4fd14fe364cb84e02f32029	Jaguar Server (Program Examples) - 60HZ (PD).jag	atari-jaguar-htgdb-homebrew-demos
+1f6a54273408761b6aa9d66b78a0fa2b	Jaguar Server (Program Examples) - INTRO (PD).jag	atari-jaguar-htgdb-homebrew-demos
+0e548e130d741c56c85e3de9bba8d101	Jaguar Server (Program Examples) - INTROMOD (PD).jag	atari-jaguar-htgdb-homebrew-demos
+ddb9e14d1d0c2fc42ecf3587ad8200f0	Jaguar Server (Program Examples) - SCALE (PD).jag	atari-jaguar-htgdb-homebrew-demos
+c48ce7ccd057be13d6e8f0c5c07211b9	Jaguar Server (Program Examples) - SCALE3 (PD).jag	atari-jaguar-htgdb-homebrew-demos
+29ca1dde96e3af5e4f67d4df4ba8a021	Jaguar Server 1.08 UPDATE - JAGOS (PD).jag	atari-jaguar-htgdb-homebrew-demos
+0c7a860ff2e118047e1c155f8305b873	Jaguar Server 1.08 UPDATE - KEYB (PD).jag	atari-jaguar-htgdb-homebrew-demos
+96689f90070f215b13bdf2d6768689ce	JC demo2005 jiffi [cof].cof	atari-jaguar-htgdb-homebrew-demos
+285406e8da3b037beedd99c96a9d2f4c	JC demo2005 jiffi headerless.rom	atari-jaguar-htgdb-homebrew-demos
+09d7d71ac3491cfee82958183648003a	JC demo2005 jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+e5e08942986f66be864d0525ecb8138a	JC demo2005.abs	atari-jaguar-htgdb-homebrew-demos
+411fe7dd181a773661a222ac287d04a6	JC demo2005.jagserver2 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+6e80873b34c87c74264a644c47049d94	JC demo2005.jagserver3 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+cbb323dfc6b4865069d754eb5465ab90	JDC Demo V1 (2000) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+32b0727097dac6fa0b7cf9880d215920	JDC DEMO v1 (2000).rom	atari-jaguar-htgdb-homebrew-demos
+1ec77e386b9e19fbe4f29550e29af818	JDC Demo V1 jiffi [cof].cof	atari-jaguar-htgdb-homebrew-demos
+3fc8db8cbdbbf89da6b3d6fa77b3c418	JDC Demo V1 jiffi headerless.rom	atari-jaguar-htgdb-homebrew-demos
+52e431775526d8999695d11921595b90	JDC Demo V1 jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+cb99f3693a3defcee9831450c82a7b78	JDC Demo V1.jagserver2 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+7aea75d3e9c31157c5d3ec2133302cd1	JDC Demo V1.jagserver3 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+92370e240f248231ed7c8ad95916cc2b	JDC Demo V2 (2000) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+af0c15a3a5b2b75d161f3d5e4947f3de	JDC DEMO v2 (2000).rom	atari-jaguar-htgdb-homebrew-demos
+307c7077aedd420137c41127b5b6f880	JDC Demo V2 jiffi [cof].cof	atari-jaguar-htgdb-homebrew-demos
+2445169c3c738cd3bc1e64f14d6fb6e9	JDC Demo V2 jiffi headerless.rom	atari-jaguar-htgdb-homebrew-demos
+ad80246b5b79bee8fc5bc63c887ea16c	JDC Demo V2 jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+b329f422281a0b088f1bd002879e952e	JDC Demo V2.jagserver2 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+12a7cf093763170328e7fe697900d25c	JDC Demo V2.jagserver3 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+0954e51ef13cb81728d33d8ead142133	JDC Demo V3 - E-JagFest Demo by Lars Hannig (2000) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+2373f05fb2415f2e46577e19200a557e	JDC Demo V3 - E-JagFest Demo jiffi [COF].cof	atari-jaguar-htgdb-homebrew-demos
+d23c7438f397c659fd5a7ba69be6109f	JDC Demo V3 - E-JagFest Demo jiffi headerless.rom	atari-jaguar-htgdb-homebrew-demos
+f52a13452e2de98b58a334f891669759	JDC Demo V3 - E-JagFest Demo jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+6a438ebde69956f33833307e31b9b30a	JDC Demo V3 - E-JagFest Demo.jagserver2 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+b995a8c376850688e3ae9e2fc3350f8f	JDC Demo V3 - E-JagFest Demo.jagserver3 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+3e8b3d46e311a8bcb940eaba70f4560a	JDC DEMO v3 (2000).rom	atari-jaguar-htgdb-homebrew-demos
+5f093c05f45499575ab391d52a6cf9a8	JeffMinterDemos20071117 robots by Matthias Domin.bin	atari-jaguar-htgdb-homebrew-demos
+3c4b91cd2bdfbfd634a8101d7484e882	JeffMinterDemos20071117 yakbig by Matthias Domin.bin	atari-jaguar-htgdb-homebrew-demos
+b141491edb09be6d6f70d78395f4df18	JOYPADDEMO.abs	atari-jaguar-htgdb-homebrew-demos
+9478286cdb7a70ce084abc31b615b42a	JSSDemo (Jaguar Sound System) V1.0b (08.11.2002) (PD).bin	atari-jaguar-htgdb-homebrew-demos
+fac315b142f01a652865b5123d1ed9cb	JSSDemo (Jaguar Sound System) V1.0b (08.11.2002) 4000 jiffi.cof	atari-jaguar-htgdb-homebrew-demos
+d411de376d0b5ab3df4fcd4666692dd1	JSSDemo (Jaguar Sound System) V1.0b (08.11.2002) 4000 jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+2d623b62f52adff7d165ddc78d2e8326	JSSDemo (Jaguar Sound System) V1.0b (08.11.2002) 4000.jagserver2 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+2a20aab3bfb96e03592878dd4696e278	JSSDemo (Jaguar Sound System) V1.0b (08.11.2002) 4000.jagserver3 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+4d284c3a4dc6664f62134b6f1343cf54	JSSDemoII (Jaguar Sound System) V1.0b (10.11.2002) (PD).bin	atari-jaguar-htgdb-homebrew-demos
+499a6f2b1377be7e37ef87e3feb21754	JSSDemoII (Jaguar Sound System) V1.0b (10.11.2002) 4000 jiffi.cof	atari-jaguar-htgdb-homebrew-demos
+2cd82a607604e56bc035cd68dbd6ea36	JSSDemoII (Jaguar Sound System) V1.0b (10.11.2002) 4000 jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+291ab28c48d2bde1cd32bac9f2682357	JSSDemoII (Jaguar Sound System) V1.0b (10.11.2002) 4000.jagserver2 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+78f39ee0a1e790a1fb357f7393129625	JSSDemoII (Jaguar Sound System) V1.0b (10.11.2002) 4000.jagserver3 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+19176a8144cbb645036cf2a4ff4ca662	JSSDemoII V1.0b (2002).rom	atari-jaguar-htgdb-homebrew-demos
+94e3ce50cd4230061a18dbcf271f7fb5	Ladybug Demo (PD).jag	atari-jaguar-htgdb-homebrew-demos
+d2944eac1f00edd505e019c3ef469b26	Ladybug Demo (rom) (PD).rom	atari-jaguar-htgdb-homebrew-demos
+1a322529c132439103872d280ff88df3	Ladybug demo 1 jiffi headerless.rom	atari-jaguar-htgdb-homebrew-demos
+ca456d88c5bec33b11f62fa9803d0404	Ladybug demo 1 jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+570a63992fa947d6bc62d31e3d951997	Ladybug demo 1B jiffi headerless.rom	atari-jaguar-htgdb-homebrew-demos
+caf92decef21cff46194bd3d94006209	Ladybug demo 1B jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+81ff70bbf7de391a497b6d0266d72c89	Ladybug demo 1C jiffi headerless.rom	atari-jaguar-htgdb-homebrew-demos
+4b9a29d2672c9af4c27706521d49bead	Ladybug demo 1C jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+bfe1be03f8d363ae115f360e897aaa75	Ladybug Demo jiffi headerless.rom	atari-jaguar-htgdb-homebrew-demos
+aad4afbd1e8eefee43514d2ac7f5d77e	Ladybug Demo jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+b5dbf6ab47e723241fd7f0d40af6218c	Legion Force Jidai Intro Demo 0! jiffi headerless.rom	atari-jaguar-htgdb-homebrew-demos
+1ef13909e88d8cddcc3ae267c87ad161	Legion Force Jidai Intro Demo 0! jiffi.cof	atari-jaguar-htgdb-homebrew-demos
+7f63aaced5bfcd4a1d7a4814564964ab	Legion Force Jidai Intro Demo 0! jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+03a4a3b6a392a176a8814b558172c217	Legion Force Jidai Intro Demo 0!.jagserver2 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+ac983691f9f8f734fd4be9672cf79cc7	Legion Force Jidai Intro Demo 0!.jagserver3 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+ea696d1823426935528d064ffec2d07e	Mandelbrot Demo (2008).rom	atari-jaguar-htgdb-homebrew-demos
+b818ee3a25e8a8778f259daecc1d82d2	Mandelbrot Demo (PD).bin	atari-jaguar-htgdb-homebrew-demos
+1d04693c564df14d00fd9d5ce1acc9b3	Mandelbrot Demo jiffi [cof].cof	atari-jaguar-htgdb-homebrew-demos
+33c1a0547770d14f11b901689a37455c	Mandelbrot Demo jiffi headerless.rom	atari-jaguar-htgdb-homebrew-demos
+1d659bd5d7a0463ab233e81693d8e2a7	Mandelbrot Demo jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+9f7b9dda410a0870a1025266258d7b63	Mandelbrot Demo.jagserver2 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+67039d23f840256e256f532e9a65886a	Mandelbrot Demo.jagserver3 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+5f1837c8148fce7ac7b2d13602d3febe	Maxx Demo (PD).rom	atari-jaguar-htgdb-homebrew-demos
+ffa2f795fdc020ee7a0a72f57d3e86a6	Memory Dump by Matthias Domin (1999) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+864ad469906bb77939ca3e52a83b0cea	Music Demo (2002) (ScatoLOGIC).jag	atari-jaguar-htgdb-homebrew-demos
+e24dbf79e7007ed01ee3e75bee5546c6	Music DEMO (2002).rom	atari-jaguar-htgdb-homebrew-demos
+b3e9699f5189b83f97c86ec0f997d9ea	My Fire.rom	atari-jaguar-htgdb-homebrew-demos
+dad754e459dc68bfd826268d5bfddb83	Native (Demo).cof	atari-jaguar-htgdb-homebrew-demos
+c709687fb3faab7ab4a042e125e380a3	Native Demo (bin) (1997).jag	atari-jaguar-htgdb-homebrew-demos
+85f09fbd5c0ddbf78f9a49412163fd5a	Native Demo (jag) (1997).jag	atari-jaguar-htgdb-homebrew-demos
+4406a84d18aed221c086215248ed66a4	Painter (1996) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+c17071b3c543e26170af27b77589ba4f	Painter (bin) (1996) (PD).jag	atari-jaguar-htgdb-homebrew-demos
+9cf2fa07095e9e65ae5e007e3a38b69d	PAULA Preview DEMO (2009).rom	atari-jaguar-htgdb-homebrew-demos
+6743fb1b6b34724b60c40e2f0ddf47f3	PAULA Preview DEMO 2 (2009).rom	atari-jaguar-htgdb-homebrew-demos
+a8bb71206a9491f5d168a43b557b587c	PAULA Preview Demo 2 by Robert Jurziga (PD).bin	atari-jaguar-htgdb-homebrew-demos
+56e33fd2f1b23f0fee81195ce3a653f1	PAULA Preview Demo 2 jiffi headerless.jag	atari-jaguar-htgdb-homebrew-demos
+20a2486a98d247aa9fdbc79c1a12fe9d	PAULA Preview Demo 2 jiffi.cof	atari-jaguar-htgdb-homebrew-demos
+161f7b27c8198acadddcc25b94b90918	PAULA Preview Demo 2 jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+9c43e0bdf3be5e617b7f5c2519b58acb	PAULA Preview Demo 2.jagserver2 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+493e639e20c896aa04bc34e4fd6ff27a	PAULA Preview Demo 2.jagserver3 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+36f44db5594385424f2ff3922f5fbdea	PAULA Preview Demo by Robert Jurziga (PD).bin	atari-jaguar-htgdb-homebrew-demos
+cf94e327b57afae5869a7083a8dc34f7	PAULA Preview Demo jiffi headerless.jag	atari-jaguar-htgdb-homebrew-demos
+0ac1881db945f1dda653e7ef6fad5e64	PAULA Preview Demo jiffi.cof	atari-jaguar-htgdb-homebrew-demos
+9b75b5099a19c64d6b065135a2705624	PAULA Preview Demo jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+3f01092ec271a01722afe7a0e57a0570	PAULA Preview Demo.jagserver2 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+6aac3122b4911ce254a82c73670757bc	PAULA Preview Demo.jagserver3 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+6ba432c0bee276d84308209e040bfb4b	PlaySFX V1.0 by Robert Jurziga (2003) (PD).bin	atari-jaguar-htgdb-homebrew-demos
+4e271bd0fc54db4ae23cd7146d14fb02	playtime demo.abs	atari-jaguar-htgdb-homebrew-demos
+04ac649a5ad7f4bd4c2336fde2ed04f6	QSOUND DEMO (2008).rom	atari-jaguar-htgdb-homebrew-demos
+3e4efdd29a8418a57ec760093b1cd4ef	QSOUND Demo (PD).jag	atari-jaguar-htgdb-homebrew-demos
+6f3723f5afcdbf8fe91f1eb551e28396	QSOUND Demo jiffi headerless.rom	atari-jaguar-htgdb-homebrew-demos
+306896d396fe1ad30f0b595da128413d	rbasic demo.abs	atari-jaguar-htgdb-homebrew-demos
+3e0383a36b798a00b6138b6353267ad6	RENDERDEMO.cof	atari-jaguar-htgdb-homebrew-demos
+b4a964811ba0917c19a35344a7987730	RGC DEMO (2006).rom	atari-jaguar-htgdb-homebrew-demos
+3be085ccf8ee180f7945a59dfe5c63d6	Robbig DEMO (1993).rom	atari-jaguar-htgdb-homebrew-demos
+35ca71699638e2374f8fbb473ab7beab	ROTATEDEMO.abs	atari-jaguar-htgdb-homebrew-demos
+a46bb71e06580ca224778586536ad0de	Scale DEMO (2008).rom	atari-jaguar-htgdb-homebrew-demos
+ccd1c8863f9154dd7fd061a79d01a1c5	Silly Venture 2013 (JAGUAR DEMO) (Pictures of Atarian Grey).cof	atari-jaguar-htgdb-homebrew-demos
+8e245a0f377706e7db9686f9e8efd1e8	SlamRacer Demo (2008).rom	atari-jaguar-htgdb-homebrew-demos
+74304c8124571ab4077b33211720b248	SlamRacer Demo (PD).jag	atari-jaguar-htgdb-homebrew-demos
+da5e2b0866b752ee34ebf201ccadcf77	SlamRacer Demo jiffi headerless.jag	atari-jaguar-htgdb-homebrew-demos
+6df17412467c9ca4fc0fa9755d6e4e2e	SlamRacer Demo jiffi.cof	atari-jaguar-htgdb-homebrew-demos
+ac6125824af605acfd4c594b11988464	SlamRacer Demo jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+8ed6fffb2566749a85ed3d86270c646a	SlamRacer Demo load 10000 run 10000 jiffi.bjl	atari-jaguar-htgdb-homebrew-demos
+8d129d0ee0c9b0a9be701e70e60a650e	SlamRacer Demo.jagserver2 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+67a163d4bf32c28b55c2c3011129dbda	SlamRacer Demo.jagserver3 jiffi.prg	atari-jaguar-htgdb-homebrew-demos
+d8ef9ddb0b3041c36bcc0be0bd23b6a6	Starcat Developments Demo 1 2007 ($4000).bin	atari-jaguar-htgdb-homebrew-demos
+4ee3ff8aac7bc63c31bea1f2eafa158e	Text Engin v1.0 (19xx)(Edge Designs )(PD).bin	atari-jaguar-htgdb-homebrew-demos
+65f5b3e07990e6bc98ce7fdf34844292	The Assassin Demo - Release 2 jiffi headerless.rom	atari-jaguar-htgdb-homebrew-demos
+52e0bcdbf703d21175adef93c702d9b2	The Assassin Demo - Release 2 jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+564ecb84ccd17b1fb5167a521d9d529e	The Assassin Demo (part 1).abs	atari-jaguar-htgdb-homebrew-demos
+450f312a930cd49a077f19e1424ff152	The Assassin Demo Part 1 jiffi headerless.rom	atari-jaguar-htgdb-homebrew-demos
+70032cf41e1bf160b110ca15a50e079f	The Assassin Demo Part 1 jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+979642e91143d8beb361f61f329411cc	Tiny Toons Plucky Duck [unreleased][Tech Demo].rom	atari-jaguar-htgdb-homebrew-demos
+dee13a01568afef8d72d6008bcdc2086	TNG DEMO (2008).rom	atari-jaguar-htgdb-homebrew-demos
+86e1999c095021255b53f8c390180ea3	tngDemo jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+d41edeb57f7b5995d3754a701b0de92e	TRIRENDDEMO.cof	atari-jaguar-htgdb-homebrew-demos
+9950e811620547246d3e8286946821de	UFO demo $4000.bin	atari-jaguar-htgdb-homebrew-demos
+4a9c4b74affed4792160a52e05d73aff	Uwol - Quest for Money Demo (PD) 2019.cof	atari-jaguar-htgdb-homebrew-demos
+faa64477bf77022ed157f94f92cc6b8d	Viewgif (19xx)(-)(PD).bin	atari-jaguar-htgdb-homebrew-demos
+38897c781b4fa6155e8271925497140e	Viewgif 2 (19xx)(-)(PD).bin	atari-jaguar-htgdb-homebrew-demos
+83e51d11bb65a5a6df1d28a9260669ca	What's stopping you programming the Jaguar (demo1) (2012.07.02 08.31) (demo1).cof	atari-jaguar-htgdb-homebrew-demos
+c60e39fe5c8cf487cce220ef907596dd	Yakbig DEMO (1993).rom	atari-jaguar-htgdb-homebrew-demos
+efd34aa26f48de6f995d3b9021870c2d	Zdemo1 jiffi.rom	atari-jaguar-htgdb-homebrew-demos
+3f5164974cda7305d8cc81a2ff81cc7b	Zero Title Screen Demo (19xx)(Storm Works Interactive )(PD)[$802000].abs	atari-jaguar-htgdb-homebrew-demos
+c90b48d51cf9381ef00c24696bccc1de	Beebris Tribute (PD) Reboot Games.rom	atari-jaguar-htgdb-homebrew-rebootgames
+29582a94d34da81df785f0705b33ba49	Degz (PD) Reboot Games.mrq	atari-jaguar-htgdb-homebrew-rebootgames
+64f782fa378bab72c45c6f137cbb8131	Degz (PD) Reboot Games.rom	atari-jaguar-htgdb-homebrew-rebootgames
+ea0339a21ef6a7049bea329d1d035ac0	Downfall (PD) Reboot Games.mrq	atari-jaguar-htgdb-homebrew-rebootgames
+3ca853977e53f5a3ec336c1678a71d0d	Downfall (PD) Reboot Games.rom	atari-jaguar-htgdb-homebrew-rebootgames
+e37401bf4cd79f64931f2fbbe1211602	Expressway (PD) Reboot Games.mrq	atari-jaguar-htgdb-homebrew-rebootgames
+515ee5350c28b46a4fc6a66cef9408ff	Expressway (PD) Reboot Games.rom	atari-jaguar-htgdb-homebrew-rebootgames
+74ffc5b5bc708800cc98f3200a832bd2	Full Circle - Rocketeer (PD) Reboot Games.mrq	atari-jaguar-htgdb-homebrew-rebootgames
+161f4b7bd58014d8aebc8c1c56409338	Full Circle - Rocketeer (PD) Reboot Games.rom	atari-jaguar-htgdb-homebrew-rebootgames
+488fbdd916b5eeb62be6ae84f3b7f022	HMS Raptor (PD) Reboot Games.mrq	atari-jaguar-htgdb-homebrew-rebootgames
+42b88596a383618156c3fe493742a2b8	HMS Raptor (PD) Reboot Games.rom	atari-jaguar-htgdb-homebrew-rebootgames
+8a6cc2bcc11260dd5b195a17d6969082	Kobayashi Maru - Final (PD) Reboot Games.mrq	atari-jaguar-htgdb-homebrew-rebootgames
+caa95355e9e704fcca822a754e14898a	Kobayashi Maru - Final (PD) Reboot Games.rom	atari-jaguar-htgdb-homebrew-rebootgames
+069765e4179770b999cec6bb7f97b783	Project One (PD) Reboot Games.mrq	atari-jaguar-htgdb-homebrew-rebootgames
+ac53e13f22837c460521422ed328ffd0	Project One (PD) Reboot Games.rom	atari-jaguar-htgdb-homebrew-rebootgames
+971447c246ca388b4d0f0e012f1ddbfa	Superfly DX (PD) Reboot Games.mrq	atari-jaguar-htgdb-homebrew-rebootgames
+5367452c7ba112ab5dc0be82892b5957	Superfly DX (PD) Reboot Games.rom	atari-jaguar-htgdb-homebrew-rebootgames
+5f884a5052a4dde4c896449b392ad4bf	Barkley Shut Up And Jam [Prototype].rom	atari-jaguar-htgdb-proto
+a6e2df65055b6087e3219320ac1fb613	Breakout2000 [Prototype].rom	atari-jaguar-htgdb-proto
+e73cdd5d0c9e9ac0deb340dcd7e99d41	Iron Soldier II v1.35 (Proto).bin	atari-jaguar-htgdb-proto
+f968138712b4fe72bc45f50fb4f47926	Iron Soldier II v1.45 (Proto).bin	atari-jaguar-htgdb-proto
+add439553ebc7a3e1d6c44ea855c1b31	Jack Nicklaus Cyber Golf (USA) (Proto) (1994-07-04).j64	atari-jaguar-htgdb-proto
+70b0805da6aa3271801be9c6cd6c2cff	Jack Nicklaus Cyber Golf (USA) (Proto) (1994-07-04).mrq	atari-jaguar-htgdb-proto
+39beed5413322f1487bafd4feb24aa49	Native (USA) (Proto).j64	atari-jaguar-htgdb-proto
+68d42f899dbcfedc827a0cbfcc7449a5	Native (USA) (Proto).mrq	atari-jaguar-htgdb-proto
+138d08ea481f34e27bd0128cb996d9fe	Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28).j64	atari-jaguar-htgdb-proto
+1b01e8ebfcf63a296daeae0c67d12cdd	Speedster II (proto).j64	atari-jaguar-htgdb-proto
+b3d7c5084d1266fd5fb43fd4bf3dc7f5	Speedster II (proto).mrq	atari-jaguar-htgdb-proto
+c41842aa3592d8aa07973476d7d706f3	Thea Realm Fighters (USA) (Proto 1).j64	atari-jaguar-htgdb-proto
+f9347c4722b4d2f05a7a0e4560bef976	Thea Realm Fighters (USA) (Proto 1).mrq	atari-jaguar-htgdb-proto
+ad0a68fc6c54564ac1f00c36f507b38d	Thea Realm Fighters (USA) (Proto 2).j64	atari-jaguar-htgdb-proto
+c7b443b450ab82acde141e43a34d019d	Tiny Toon Adventures (USA) (Proto).mrq	atari-jaguar-htgdb-proto
+56049459c330c7557254747065377b10	Virtual VCS (USA) (Proto).j64	atari-jaguar-htgdb-proto
+237c63771c3d57f63a4642fe98e1a69f	Atari Jaguar Object Processor Tester v2 (19xx)(Lars Hannig)(PD).bin	atari-jaguar-htgdb-tools-testcarts
+724007303e636de7b828bed52a236888	CD Encryption Utility v1.6 (19xx)(BLJ)(PD).abs	atari-jaguar-htgdb-tools-testcarts
+a53f5d7852524313703c5a7b0890f2b7	CD Verification Utility v.0.5.rom	atari-jaguar-htgdb-tools-testcarts
+d86530f2d5162aae11e5b39e4aada1d1	Jaguar MemoryDump v1.1 (19xx)(Matthias Domin)(PD).abs	atari-jaguar-htgdb-tools-testcarts
+88cd0c8a9ac76f7d1f0f91f5eb6bfe43	Joypad-TeamTap Tester by Matthias Domin (2000) (PD).jag	atari-jaguar-htgdb-tools-testcarts
+0755ff96203d801ddd6d7e7c3f2d0890	Light Gun Test (PD).jag	atari-jaguar-htgdb-tools-testcarts

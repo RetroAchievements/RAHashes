@@ -1,0 +1,18 @@
+6fd7e17d01fc93b9be9f89fa8359a579	Aoi Blink (Japan) [T-En by Gaijin Productions+Zatos Hacks v0.99b].pce	pce-maybeintro
+c0cfedc2b24a2d4915035a5a317fa0ae	Bikkuriman World (Japan) (Alt 1) [T-En by Demiforce v1.00].pce	pce-maybeintro
+7a13bd257402efafff3c33d9ba7d4ae4	Bikkuriman World (Japan) [T-En by Demiforce v1.00].pce	pce-maybeintro
+4675116aa55dcf17f6311142d43808ec	Bubblegum Crash! - Knight Sabers 2034 (Japan) [T-En by Matt's Messy Room v1.0].pce	pce-maybeintro
+45195abbbdaff8dd8d8c521b84f1698d	Die Hard (Japan) [T-En by DarknessSavior+Spinner 8 v1.0].pce	pce-maybeintro
+8da3885d9c6674f33cf9bac28905d249	Druaga no Tou (Japan) [T-En by Procyon Lotor v1.1].pce	pce-maybeintro
+93fc2ccbb46ece0cc8a3302f2fff78de	Gaia no Monshou (Japan) [T-En by Derrick Sobodash v1.0].pce	pce-maybeintro
+4293b1c07f9de4c32075cfa00963379c	Gekisha Boy (Japan) [T-En by Zatos Hacks v0.99].pce	pce-maybeintro
+5d77fc97ca313f5be735bf05368e780c	Lady Sword (Japan) (Alt 1) [T-En by Matt's Messy Room v1.0] (Cheat Hack).pce	pce-maybeintro
+c25ed86e9765f7ed71120633e4a22fc2	Lady Sword (Japan) (Alt 1) [T-En by Matt's Messy Room v1.0].pce	pce-maybeintro
+50322d1a843ace5f96d09d6b55e36805	Lady Sword (Japan) [T-En by Matt's Messy Room v1.0] (Cheat Hack).pce	pce-maybeintro
+6b56d548b740cdbbc2993b5a8f03ffd4	Lady Sword (Japan) [T-En by Matt's Messy Room v1.0].pce	pce-maybeintro
+5a4b96646ef109fdb8e7d9e10da02103	Lode Runner - Lost Labyrinth (Japan) [T-En by Dave Shadoff v0.99].pce	pce-maybeintro
+c4e4702ef3b301f2af28ab8a92a1a103	Maerchen Maze (Japan) [T-En by MooZ+Shubibiman v1.0].pce	pce-maybeintro
+0e4dfb8449b2f825af396f0c577b6ef2	Maison Ikkoku (Japan) [T-En by Matt's Messy Room v1.01].pce	pce-maybeintro
+f5b8397f328f51313f812278db362c81	Puzzle Boy (Japan) [T-En by KingMike Translations v1.0].pce	pce-maybeintro
+73d3f8f6f7fc6d28b298fc0c7734a2a6	Shanghai (Japan) [T-En by Dave Shadoff v0.99].pce	pce-maybeintro
+0e5625938583f235d072eb05319853d8	Son Son II (Japan) [T-En by Sgt. Bowhack v1.0b].pce	pce-maybeintro

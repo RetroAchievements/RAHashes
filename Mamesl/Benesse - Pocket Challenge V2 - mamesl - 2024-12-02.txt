@@ -1,0 +1,20 @@
+dff3d93fbc398a3f37d7297344395811	2bb113 1112711.u1	benesse-pocket-challenge-v2-mame
+e39f74f010610bfe79f543e1fb5cd6e8	2BD400.bin	benesse-pocket-challenge-v2-mame
+154752ea2424166fbeb0d99355634c87	2BF400.bin	benesse-pocket-challenge-v2-mame
+ee9399c0501f6b1991306a06e4858808	2BG410.bin	benesse-pocket-challenge-v2-mame
+8cc1f36f57876ae950c9c978e1337455	2BK401.bin	benesse-pocket-challenge-v2-mame
+dd9786ec809c53ce0a60b71d1d80a67e	2BM110.bin	benesse-pocket-challenge-v2-mame
+2ecb9c13457ebde9ca6e66c291ca04a3	3gb410 3020320 jitugi4 32-14n.u1	benesse-pocket-challenge-v2-mame
+b8f0a5000c555dab553580b98e060dcc	4BD400.bin	benesse-pocket-challenge-v2-mame
+0fc9be3fb14555edabbb08c44b68fa48	4bd410.pc2	benesse-pocket-challenge-v2-mame
+c846068524419ce10ac635a68befed28	5ff411.pc2	benesse-pocket-challenge-v2-mame
+1bd8ddc023cb18ba0092979ee8de0f1a	5ff412.pc2	benesse-pocket-challenge-v2-mame
+2860e4f64ee91ab4a19b4d0a3065deb8	5fp303.pc2	benesse-pocket-challenge-v2-mame
+6e5f1035ed7c08d1bf4cafdb46eab999	6FD400.bin	benesse-pocket-challenge-v2-mame
+954791bf5cd237f5ec072cc57c317256	6FF400.bin	benesse-pocket-challenge-v2-mame
+b6d4534b7700e10d2b43a6834dfb4d40	6ff421.pc2	benesse-pocket-challenge-v2-mame
+2db65415137f6db2157d433b5c84aeea	6ff422.pc2	benesse-pocket-challenge-v2-mame
+548d72434fcdceb0c4440f810b9e7650	6fp105.pc2	benesse-pocket-challenge-v2-mame
+3336e12e504d9587173e1816425749cd	6fp203.pc2	benesse-pocket-challenge-v2-mame
+956380e0a23d4434c4e0946ec17f3c46	6fp212.pc2	benesse-pocket-challenge-v2-mame
+561dd7ecdf03578371c99eb3b4049b54	6fp313.pc2	benesse-pocket-challenge-v2-mame

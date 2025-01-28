@@ -1,0 +1,750 @@
+ccf8590e2e7ac4a08bcc1d77ec168917	[BIOS] Games Express CD Card (Japan) (Alt).pce	pce-yoriyoshizuki
+11b441bf93fd10dbc233bbbfbf093079	1941 - Counter Attack (J)(SGX)[h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+db1fbcd2d1fcce844496ceceb7b8813e	1943 Kai(J) (P1 unl lifes)(Hack_dragon2snow).pce	pce-yoriyoshizuki
+7626cecf28514781625134c35cfa7292	240pSuite_1.0_HuC.pce	pce-yoriyoshizuki
+ec472b633670a7de0e2c1d22dd5101fc	240pSuite_1.02_HuC_Artemio_Urbina.pce	pce-yoriyoshizuki
+ab3e40171ac007eb69b6fa610650fa87	240pSuite_beta_HuC.pce	pce-yoriyoshizuki
+43361ba1d9ab8da642a34de8d7c0bb75	256-Colour Slideshow by Chris Covell (PD).pce	pce-yoriyoshizuki
+22a243ad5e5e9d5e7b7d8c15cca88787	4 channel PCM driver v1.05 (2010)(Tomaitheous).pce	pce-yoriyoshizuki
+4e2c76614a2410aef42c67be1c8165e9	4MB_Plus_Test.pce	pce-yoriyoshizuki
+e23c0d29ad2a988094af07709036db26	5-in-1 Fami Collection - NES Collection Nr 1 (J) [t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+3bc668d4f22eb4d430ede12b691965aa	512-Colour Test by Chris Covell (PD).pce	pce-yoriyoshizuki
+d14bc98e96cc695556cffffeca0792ba	6-in-1 Fami Collection - NES Collection Nr 2 (J) [t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+84a829f89ee4cfb3e4921a08c798c770	ab_Squirrel3 Public.pce	pce-yoriyoshizuki
+02b9510b41501111ce46ef9ca43d2973	Adventure Island (J) [h2] (Hack_qqture2005).pce	pce-yoriyoshizuki
+d797fc91351db54332f1916eb48114c2	Aero Blasters (J)[t2](Hack_qqture2005).pce	pce-yoriyoshizuki
+872e0f8e872ebeaeaaac3fca8af5647b	Aero Blasters (USA)[h1][t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+7eab44a2ec072a5a2abf55982fd0f7c4	After Burner II (J) [T-BR] [T-Renix G-Renix Traduções] [V-1.0 P-95% A-2009].pce	pce-yoriyoshizuki
+d64e96e996b482ffd3b0cc5fbd682b65	After Burner II (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+719abee6c94e4c17bb8d2ee1f7318efb	After Burner II (Japan).pce	pce-yoriyoshizuki
+493fcb3be52e8494f0b50cb8f01f9e6d	Air Zonk (U)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+408711daa4d03b143335bbbd2a34e198	Air_Zonk_WF_view.pce	pce-yoriyoshizuki
+699344689b5ce9240a904397b4f9bdf9	Aladdin (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+e0bdc9e8fc6ed334bdd780721ab6e51c	alddee.pce	pce-yoriyoshizuki
+9c8ceb7ee7e66633eab5d016f267a8b2	Aldynes - The Misson Code for Rage Crisis (J)(SGX)[t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+b0ef4278ba450af3240976a2a1defea6	Aldynes (1991)(Hudson Soft)(Jp)[b2].pce	pce-yoriyoshizuki
+18e94b0e85a65fc525f1e70669714c74	Aldynes (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+3c6f13a11498fcd7911f934c66bbc504	Aldynes Enhanced (J) MIJET Bug Fix Beta 160605.pce	pce-yoriyoshizuki
+446773bd66e29b86595368e343e5c229	Alien Crush (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+a6cf2e9116b8e0cd0d88cd9293265baf	Alien Crush (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+5ebfcfe4a8182822840fa369fc82a792	Alien Crush (U)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+5fa556cf589c538763ee6f0b1923b9ac	animated demo.pce	pce-yoriyoshizuki
+bda5b8cb7aa5df7b7ecf3cc0b439efb5	Ankoku Densetsu - The Legendary Axe II (J)[h2] (Hack_qqture2005).pce	pce-yoriyoshizuki
+9e085e54f83202fb698039a74204ee0c	Ankoku Densetsu - The Legendary Axe II (J)[h3] (Hack_qqture2005).pce	pce-yoriyoshizuki
+a0f8ad0fedd5a859092004b98435cc04	Ankoku Densetsu (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+603750269797f6aa516110be6ea5239f	Aoi Blink (J) [T+Eng][t1](by_qqture2005).pce	pce-yoriyoshizuki
+f91f53a635fc4d6004f8b8d72af79a7d	Aoi Blink (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+4264e6e0aa8ea3bb4ec0f9ce92786e18	Armed Formation F (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+d47067d1136475a26fff3003b7d38634	Atomic Robo-Kid Special (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+4918cefeeb3ca431ed37aeee920159cc	Axelay 1 Demo by Chris Covell (PD).pce	pce-yoriyoshizuki
+29a02de354ddb87babf554797d59fd21	Axelay BG Demo by Chris Covell (PD).pce	pce-yoriyoshizuki
+3e796d457639038f65c4e875ecab9192	Axelay Clouds Demo by Chris Covell (PD).pce	pce-yoriyoshizuki
+738a83a04c80106c7bbb6c60773016ed	Axelay FG Demo by Chris Covell (PD).pce	pce-yoriyoshizuki
+c5282ce9cf380ba330ca6e04dc15391d	Axelay SuperGrafx Demo by Chris Covell (PD).pce	pce-yoriyoshizuki
+8ded9e10065090d7415c7bbe8e8d3e36	Ballistix (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+b9ad22f1357f011ecc67400bdce55076	Ballistix (U) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+b9106d1ff43db1a5f8d6412cb2d8bc94	Barbarian AMIGA (PD) FL 10-12-2015.pce	pce-yoriyoshizuki
+eb7761d3250eb7497f6153a19c3b9e32	Barbarian C64 (PD) FL 1-12-2017.pce	pce-yoriyoshizuki
+72effc4876108125a9fe9876f01689ea	Barbarian CPC (PD) FL 3-21-2017.pce	pce-yoriyoshizuki
+751165b44d86d487657312a7d78efde2	Barbarian SPECTRUM (PD) FL 3-24-2017.pce	pce-yoriyoshizuki
+7ede21958f152a0db7b5fde3e0ca25c0	barbarian_BETA.pce	pce-yoriyoshizuki
+f4af6f9cdf01349901a2ffaa4a59e244	barbarianATARI.pce	pce-yoriyoshizuki
+2c1f23dbd1a3d1a85fa0f52a99227be1	Barunba (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+9414dc23b3fcf5f2549ef1bca6b4e34e	Batman (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+704763effcfa18e2825b1ce22566e62b	Batman Mix (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+f9fe2700a848edf5d3ab0e8f07340a78	Battle Ace (J) (SGX) (J-CheatMenu).pce	pce-yoriyoshizuki
+9cd3a517dabbd8187aa6e3c6864141ff	Battle Ace (J)(SGX)[t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+553b85c34afbe00082c6b371e33309d5	Battle Lode Runner (J) [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+532fec70e91dd97694de9eccf47b6344	Battle Lode Runner (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+f1bcda91f725fae70896c6a8049b3466	bbpce-attract.pce	pce-yoriyoshizuki
+e84346e8a00ea1b34edd2e1fcbb0c3eb	Be Ball (J) [t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+079eb8aa7d6bd34168e6f2d299b271ba	beegirlstadium_agbic.pce	pce-yoriyoshizuki
+0ebd1920e548f4ba886af5ae0ee4b0c8	Benkei Gaiden (J) (Alt) [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+2e2f11cb39b43eb9fdcd8dcadf4453f2	Benkei Gaiden (J) [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+2c91dc9f6c77923a9888eb887bb6b3c2	bg2 Tomaitheous '06.pce	pce-yoriyoshizuki
+d5394d9ed16d07359d72ac56d2ef0139	bg3 Tomaitheous '06.pce	pce-yoriyoshizuki
+8babca51d274db025823bcbb9b7fa67e	Bikkuriman World (J) (Alt 1) [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+5f4543652155da1b650e96365ca2c44f	Bikkuriman World (J) [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+7a1b195ecf2ff3596d7500c5b87c1153	Bikkuriman World (J) [T-Eng][h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+796e223abdef3c903da3e4edca01cf60	Bikkuriman World (J) [T+Eng1.00][h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+264f24d37e99d443177afe3b217d2431	BinaryStar.pce	pce-yoriyoshizuki
+16908c41278774a6071f1800016e089d	Blaster Master (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+2a3e1f6e750dab2ffd6c70420292c485	Blazing Lazers (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+a278aee781d90799f54f22bf3ff14a68	Blodia (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+1cb1d9a4420e25a65c891e9baa722d2d	Bloody Wolf (U)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+6c36e5083fa415c0bff7d8c7e05842d6	blur_and_water_effects - blur1.pce	pce-yoriyoshizuki
+20f3d88f3e831ba56acd570296cc587e	blur_and_water_effects - blur2.pce	pce-yoriyoshizuki
+163035d76a5c2c8ccef7d9ea0828f3ae	blur_and_water_effects - water1a.pce	pce-yoriyoshizuki
+07c24ee9a833292dd0cad3089469b754	blur_and_water_effects - water2.pce	pce-yoriyoshizuki
+e33c000267ffdeb79b55763ad50210fd	blur_and_water_effects - water3.pce	pce-yoriyoshizuki
+644f9e0c2aa66ffbb5b2d607ec850fee	Bodycon Quest II (J) [t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+8a712c1bfdb1396cfdc332c023c6661f	Bomb on Pixel City Intro (PD) Touko.pce	pce-yoriyoshizuki
+77338a5043ca84c370616a6f56986725	Bomberman '93 (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+368f66ae6a5a30159d98d804d1940d62	Bomberman '93 (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+490fee2f51e3c38e22a30e09ae7e3e37	Bomberman '94 (J)[h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+fc1b42d92ec2dbdd18e8ef0860a70520	Bomberman '94 (J)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+6002e69394395ea422a678af69e0238d	Bomberman (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+3ad6040b40b148e1069aee63d4cbc611	Bomberman (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+1af4f28517d1cbc10c73dcc829c8811e	Bomberman (U)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+2a0983d042b81366708eea8781ec0979	Bomberman Raster Car Demo by Chris Covell (PD).pce	pce-yoriyoshizuki
+6ebb27ca52249f3179e42f8050b134f9	Bomberman Raster CDROM Demo by Chris Covell (PD).pce	pce-yoriyoshizuki
+c0f755c5ed9105fb4b914e9be496c80a	Bomberman Raster Grid Demo by Chris Covell (PD).pce	pce-yoriyoshizuki
+f0ce1b0c769f94c92ff52bac66024d7a	Bomberman Raster Strider1 Demo by Chris Covell (PD).pce	pce-yoriyoshizuki
+3c07bb5c2fcd7835d00c079ed31b4660	Bomberman Raster Strider2 Demo by Chris Covell (PD).pce	pce-yoriyoshizuki
+e5e8852ea7a1f7cf314334e1d9bb30b6	Bomberman Raster Strider3 Demo by Chris Covell (PD).pce	pce-yoriyoshizuki
+a425d05c035445eaac9e3ebc550c230d	Bonk III - Bonk's Big Adventure (U)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+118c609c6cd544a723b9aeef6f5a4106	Bonk III - Bonk's Big Adventure (U)[h1][t1](by_qqture2005).pce	pce-yoriyoshizuki
+fab885fd49081b827d7d978f581582f4	Bonk's Adventure (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+6f17ab907ddc3d2e3bebd1e5bbd74864	Bonk's Revenge (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+4726f254a872438d8d0bf02dfa6f9f02	Bonks Adventure (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+5dfee629e187c9f69e48f09585c14528	Bouken Danshaku Don - The Lost Sunheart (J) T-Eng Test 2 toktogu.pce	pce-yoriyoshizuki
+a35be513734e11084d44128108c35af9	Bouken Danshaku Don - The Lost Sunheart (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+967d1b68487986a629b168ea2f5cdf1c	Boxyboy (U) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+3700daf754d5268ab13b99272eceb341	Bravoman (U)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+180659cdd081c532fc8a3f12f86e613e	Bubble Bobble (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+4675116aa55dcf17f6311142d43808ec	Bubblegum Crash! - Knight Sabers 2034 (J) [tr En1.0_Dave Shadoff&others].pce	pce-yoriyoshizuki
+b79ede67bbd37429ed49c8661770c242	Bubblegum Crash!.pce	pce-yoriyoshizuki
+7991dfbfbe9de6f188a3c28e0fc764a1	Burning Angels (J)[h1][t1][P1+P2](by_qqture2005).pce	pce-yoriyoshizuki
+8e5fb368a824341528e20770a1b5b936	Burning Angels (J)[h1][t2][P1+P2](by_qqture2005).pce	pce-yoriyoshizuki
+1b8a9774f0b940b59b8ab6428b809dd2	Burning Angels (J)[t2][P1+P2](by_qqture2005).pce	pce-yoriyoshizuki
+a67dfb94d4482cd1f51fd4074c9fc523	Busou Keiji - Cyber Cross (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+2aefbed30df76d07c37d69dd4f32fe46	Cadash (J) [t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+b1a76e9a15cd4d13581a82841a7440e9	Cadash (J) [t2](Hack_qqture2005).pce	pce-yoriyoshizuki
+78688ecd51ced97de0d88f89c805732b	Cadash (U) [t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+edfffaff4e32d8c822c98a147c7c2b6f	Cadash (U) [t2](Hack_qqture2005).pce	pce-yoriyoshizuki
+634723ee4080dc881f50e61374af18aa	CAPTAIN CAVERN MIGHT HAVE BEEN PROUD OF US.pce	pce-yoriyoshizuki
+12089388ae02b6979d2119f5f17e26eb	Cardangels Girls SlideShow by Raph99 (PD).pce	pce-yoriyoshizuki
+087049133762e095ab778aa29f610ce8	Castlevania Mix (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+eb4bef5f381f19bf21ab882c91d6ef47	castlevania_0.44.pce	pce-yoriyoshizuki
+bbb89647dde589847fef358c618a6a3c	castlevania_ver_0.42.pce	pce-yoriyoshizuki
+6b00c632d84dc69a903b35f425c30039	CCOVELL-OLD_IS_BEAUTIFUL.pce	pce-yoriyoshizuki
+191fbe3fd7a2c7a5d7b6e463b2916511	CD_Stupid_Test_4.0.pce	pce-yoriyoshizuki
+710cc0bfa64c2bea721617e2fc3a55af	cf2editor.pce	pce-yoriyoshizuki
+6e007306e6d3647c0d0f3cfeb59c0be1	Champions Forever Boxing (U) [t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+e8ad16ebe28627319189b07d141ad154	Champions Forever Boxing (U) [t2](Hack_qqture2005).pce	pce-yoriyoshizuki
+10c20e8490a40aade247448ca92dc40a	Chew Man Fu (U) [T+Spa_lukas].pce	pce-yoriyoshizuki
+0bed8f40606fd026e2d50e6c9bb8e74e	Chew Man Fu (U) [t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+cd8263d44e1dc47fffc6eeddab507a5a	CHEW-MAN-FU (U) [T+Fre_generation IX].pce	pce-yoriyoshizuki
+b26c97334e6cf084b5585f4990528d9d	China Warrior (U)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+7fa0016507b2a727461f8d0526aaef40	Chouzetsu Rinjin - Bravoman (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+545b7b6d65d11ad6a63b2ee2ae9527ba	chuckrock music.pce	pce-yoriyoshizuki
+3daba5b7b5ec4f83622c091de83aec4a	Circus Lido (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+9bcf0948f196e8d5f63414967931e48b	Circus Lido (J) [T+Rus0.7_Cool-Spot].pce	pce-yoriyoshizuki
+fe13f5667725318d02fe17b78b04b763	City Hunter (J) [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+5894c6c63ed3e93f12063b3d44865fbd	CMC_Courage.pce	pce-yoriyoshizuki
+0befa5f4356272a12fed882b7785eec1	Color test - Bonknuts.pce	pce-yoriyoshizuki
+c7d3f99b07b0fd673e7545e3c68bd5cc	Columns (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+b5d26e6c42170156f4e5ac4451084085	Columns (J) [T+Rus by Multisoft].pce	pce-yoriyoshizuki
+3ce4f40067201be61b5a768344b67f3a	contra_0.35.pce	pce-yoriyoshizuki
+be78e2d666f34fea4cdcf8561b5a4f86	Contra_ver_3.0.pce	pce-yoriyoshizuki
+4a6e64b183d7c17446e798ed5cea7c74	Coryoon - Child of Dragon (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+7f874ca8c34da70cd6caa85119d517a1	Cratermaze (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+c0bea7c71173908d2220d2157fe94ce3	Cratermaze (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+a2b1c24c8701e930ae9cf0b48d0873ce	Crest of Gaia - Gaia no Monshou (J) T+Eng v1.3 D.pce	pce-yoriyoshizuki
+424eedae87f62237fdf7b7fb7a443596	Cross Wiber - Cyber Combat Police (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+1c9373e2f37ffa9596032b05a06c21ed	Cyber Core (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+bfded39f10c4f1fe5e319cdb045507e2	Cyber Core (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+9ed433e09940cb468343ce4e8923b99d	Cyber Dodgeball (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+f584bcba190f5e410502acabf0741a42	Cyber Knight (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+56dcec0c0a4703023a16b31d74eef981	Dai makai mura (SGX) Debug menu.pce	pce-yoriyoshizuki
+2c998ec0523cb7dcdcc15312357b02c3	Daimakai Mura (J)(SGX)_unl_time_muxly.pce	pce-yoriyoshizuki
+758a0ce4af0fa93bfaf46fad1078e464	Daimakai Mura (J)(SGX)(Hack By cyfe).pce	pce-yoriyoshizuki
+ba2f8cdb3c6d5cee255e4f11e131fbb5	Daimakai Mura (J)(SGX)[t1](by_qqture2005)++.pce	pce-yoriyoshizuki
+14edc5acef0b2fed304ad11daaf93034	Daimakai Mura (J)(SGX)[t1](by_qqture2005)+++.pce	pce-yoriyoshizuki
+ef53ab14a14d471bf57640ed43bec46f	Daimakai Mura (J)(SGX)[t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+a529bf727ee85744f61947f135880cbe	Daimakaimura (J) (SGX) (J-Debug).pce	pce-yoriyoshizuki
+cf045d1cf844a5232fe3755d20129887	Daisenpuu (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+5ddca935c3c595e98623d493286da8ce	Damage Tracker Version 1.00 by DamageX (PD).pce	pce-yoriyoshizuki
+a434cf94cb1fb0a9f4dfc90a0b2dd4d4	Darius Alpha (J)[h1][t1](by_qqture2005).pce	pce-yoriyoshizuki
+d28f1a7f0aada05ed1ee9079ba62bccb	Darius Plus (J)(SGX)[h1][t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+d886dbcf2f98bf46cf760ab9a036a089	Darius Plus (J)(SGX)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+052b1fb8537a5e069f0129879ad26767	DATASTORM 2014 INVITE (PC ENGINE).pce	pce-yoriyoshizuki
+aca989b411c637559254f835452daf67	Dead Moon - Tsuki Sekai no Akumu (J) [T-BR] [T-Lhotian G-Romhack BR] [P-100% A-2001].pce	pce-yoriyoshizuki
+4fa4a5b684af8dd5f24da387f452e7d6	Dead Moon - Tsuki Sekai no Akumu (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+76f8a31b45df5da8e33aff9ab442579a	Dead Moon (U)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+eb9f3b4bbed489673e10e5887189048d	Death Sword APPLE II (PD) FL 1-19-2017.pce	pce-yoriyoshizuki
+bc935ecf69f266cfb6bda359be4fd6b7	Death Sword PC (PD) FL 1-19-2017.pce	pce-yoriyoshizuki
+c0315f95fb452541bafa8c34735253d0	Deep Blue - Kaitei Shinwa (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+38839d00f10bd197ee002ae3e99fc6b9	Deep Blue (U)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+d44f09dc7a851007d6c61efacdd051e2	Detana!! TwinBee (J) (HACK Wolf Blast hard difficulty).pce	pce-yoriyoshizuki
+f5ac5a3bfa885cde6387e6bc6efa45ec	Detana!! TwinBee (J)[h][t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+1604ed36cc740caf4df1d429149a3e4c	Detana!! TwinBee (J)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+97ad3310307c80765d2d7dab41498010	Detana!! TwinBee (Japan) [h Quick Charge patch].pce	pce-yoriyoshizuki
+aef016eabf547e97279cc9f60015862f	Devil Crash - Naxat Pinball (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+716fcd4d60e6e955ba8b23d1fbfedddf	Devil's Crush - Naxat Pinball (U)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+b9122790051dc828bef7484e0c03e86f	Devils Crush Mono (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+c7420203ae51945ec64fee6f40250608	Devils Crush Stereo (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+a1d19674e2f1310b43de7c313a70b40f	Die Hard (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+45195abbbdaff8dd8d8c521b84f1698d	Die Hard (Japan) [T-Eng] [Spinner 8 and friends] [V-1.0 A-2011].pce	pce-yoriyoshizuki
+c63a8a100728f38f5fdd80cd8341beeb	Digital Champ (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+714579a6ebeecf6e408bb9a64f66f657	DMP3.pce	pce-yoriyoshizuki
+74b85526cf54d48d6fe65a3366a51c55	Don Doko Don! (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+9d61a96706c1e0f2022051bff83620a9	Don Doko Don! (J)[t2](by_qqture2005).pce	pce-yoriyoshizuki
+2959d1a8d70466c6935346bf4cdd8e77	Don Doko Don! (J)[t3](by_qqture2005).pce	pce-yoriyoshizuki
+89fb21276bffc2c41e65038908bab36e	Donkey Kong Mix (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+750ee2b3fff0c17b346fbf8a452e1f63	Doraemon - Meikyuu Daisakusen (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+9b963321e85a07ce82fe3d50b36967f5	Doraemon - Nobita no Dorabian Night (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+7db637fc9d3ff63fa518b178d718c72f	Doraemon Meikyuu (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+d2a76e74deb0dc9a5f411772556ba53f	Double Dragon (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+583f85cf4c5d93bbbd13b140ecdba9ae	Double Dungeons - W (J) [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+8fc689e28cbfa0f78e7a672c07e05107	Double Dungeons - W (U) [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+795acd76b6a78f21866599a2d2029413	downland_v001.pce	pce-yoriyoshizuki
+fe0e7ca953f7ac042a20975e83345b76	downland_v002.pce	pce-yoriyoshizuki
+f32feb03c34322d0d3ceccdb11ddc93a	downland_v003.pce	pce-yoriyoshizuki
+9b428a66ea128f846322d177d272c7f4	downland_v004.pce	pce-yoriyoshizuki
+b5bfbb286a77bb8b6d542430f523e2be	Download (J) (Alt 1) [t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+0ac212ca3512ae350b55178ff783568f	Download (J) [t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+e892a641c41d814866054d35506a8d95	Dragon Egg! (J) [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+841b0545c468fefbe3787c822374fdf1	Dragon Saber - After Story of Dragon Spirit (J)[h2](by_qqture2005).pce	pce-yoriyoshizuki
+eb99f17c3256c1495dd95346fb8b17f8	Dragon Saber - After Story of Dragon Spirit (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+9f3527397bba20af0a0e188a2771b243	Dragon Spirit (J)[h2](by_qqture2005).pce	pce-yoriyoshizuki
+8d05e812067520ece4c72dc5e253c98c	Dragon Spirit (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+b70ccb6bc24a7a0985cb3dafd6905168	Dragon Spirit (U)[h2](by_qqture2005).pce	pce-yoriyoshizuki
+53ce5adcf77f50c0994b2dc4b0455bb2	Dragon's Curse (U) [h1] [T+Spa100_Pkt].pce	pce-yoriyoshizuki
+fb02e5f34b1a9fd286af5b5b5611c65e	Dragon's Curse (U) [h1] [T+Spa100_Umb].pce	pce-yoriyoshizuki
+85ce61f907554d63be8262bfc60a4db1	Dragon's Curse (U) [h2] (Hack_qqture2005).pce	pce-yoriyoshizuki
+01567d9c22c71a4544505e264ff51dc0	Dragon's Curse (U) [T+Spa100_Umb].pce	pce-yoriyoshizuki
+a601655733de94f989e5899f3a86d05e	Drop Rock Hora Hora (J) [t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+ee2a4994de49fd798acb7fc63fdce676	Drop.Off (U) [t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+d7003bb2ae4569491fca8701e0d359b4	Druaga no Tou (J) [t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+ce35d75fe1f5a2b9580942373654569b	Duck_tales2_0.31.pce	pce-yoriyoshizuki
+d436c807021be58a4a02051564c6b542	Duck_Tales2_ver_3.0.pce	pce-yoriyoshizuki
+d8158b831c01692f5a5fbebacd797f0e	Ducktales & Disney Mix (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+51d2329592fff912ac382d757c16c191	Dungeon Explorer (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+624e6e454c56ed593a7ff1c65c72f893	Dungeon Explorer (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+29890cc91f2cbb771477d45676ee66e2	Dungeon Explorer (U) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+03d9c0559eaf704207cacd105030bbd6	Dungeon NES (PD) HES-V2 Chris Covell.pce	pce-yoriyoshizuki
+889493bf9c95a3221ea0ccf28f7b6972	Dungeon NES Before Mix (PD) HES-V2 Chris Covell.pce	pce-yoriyoshizuki
+9672ae8877c4ea8fcd87d2109115b6f1	DWDUCK2.pce	pce-yoriyoshizuki
+ac15ada5dd435e45d82dbae26c0aa71e	DWDUCK3.pce	pce-yoriyoshizuki
+fd2c7c35cbf4a7e3c83464a758a13631	DWDUCK4.pce	pce-yoriyoshizuki
+0c3a86c9fba1984b524d1f411f6cd764	Energy (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+7fc06f2e3131c1cfcddff6c69d54b8b9	Energy (J) T+Eng v1.01 cabbage.pce	pce-yoriyoshizuki
+4f82639aab32c3b02532153b3153b1d1	Enshoku (beta) (2005)(TJ Edmister).pce	pce-yoriyoshizuki
+bf16a92082ce5492558fb61f1fef2337	Enshoku by TJ Edmister and Mike.pce	pce-yoriyoshizuki
+232b7ada389469c33d667fd65ab3c812	EverDrive Patched Super CD-ROM System (J) v3.01 elmer.pce	pce-yoriyoshizuki
+1dd2d884f86ca52079a0079126e54847	EverDrive Patched TurboGrafx CD Super System (USA) v3.01 elmer.pce	pce-yoriyoshizuki
+36d850b8a9ed8ea242a4cd612551025f	F-1 Dream (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+d1bf674b8b4db8ce1b7723c3d92981be	F-1 Dream (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+9128b314dd0bf4aae92e06e82eb31a37	F-1 Pilot - You're King of Kings (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+969b9377bd0f88e3de7dfc2155f08a32	Falcon (U) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+0b337145b028f06508ee7b5207c678e2	Fantasy Zone (J) [t1](by_qqture2005).pce	pce-yoriyoshizuki
+d1f7124287eb27f4e8f39c6fd03127a5	Fantasy Zone (U) [t1](by_qqture2005).pce	pce-yoriyoshizuki
+a150b17d44cfa12d9debecb63ff8502f	Fighting Run (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+ef2d9ae5447ff2413c79f14607a4c35f	Final Blaster (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+7e37ab4214cc06b3e5683ef2f5fe021e	Final Fantasy (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+49c931418d63d2dac850e8083b64bcca	Final Lap Twin (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+5735b6637aa4ffe19899cebb2d9a197e	Final Lap Twin (U)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+05952440d414a9b6bb49f44715ed526b	Final Lap Twin Challenge (Hack) v0.9 JCE3000GT.pce	pce-yoriyoshizuki
+e161b34d6bcdbcfe582f943b2eef5715	Final Match Tennis (J) T+Eng v1.2 tAz-07.pce	pce-yoriyoshizuki
+c56bac20cfb4a8ad65098f6f022e7d11	Final Match Tennis (Jp).pce	pce-yoriyoshizuki
+ee1cbbcb70b839e6c5f636109ec88d52	Final Soldier (J) (Special Version)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+52e0672cb1c0dbbeed32402a761c141b	Final Soldier (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+379975bb6153d0acff1121cd323b577b	FireTag V.01 [PD].pce	pce-yoriyoshizuki
+75159707400550be631cf4c46d90633e	Flappy Bird (2014)(Retrotaku, Touko)(PD).pce	pce-yoriyoshizuki
+ce4632a127176016355ff8eb1f4137b0	Flappy Bird SGX (PD) v2 touko.sgx.pce	pce-yoriyoshizuki
+724726107e68455e57393b7c9d068109	Flying Trooper X-SERD Hisou Kihei (Japan) T+Eng v1 Nebulous.pce	pce-yoriyoshizuki
+3616bf19f2beb256d13ed4bd77533b6a	Flying Trooper X-SERD Hisou Kihei (Japan) T+Eng v1 Nebulous.pce	pce-yoriyoshizuki
+75cc98dcc0af070a4bcd2658b319d3b1	Fractal Engine v1.0 by Chris Covell.pce	pce-yoriyoshizuki
+79e10f355c82ab16a2b1db57576b13b0	FractalEngine2.pce	pce-yoriyoshizuki
+af8b57ff854e4a069155b70b6720ee62	Fushigi no Yume no Alice (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+93fc2ccbb46ece0cc8a3302f2fff78de	Gaia no Monshou (J) [tr Eng 1.0e Mr D.] (no GoodPCE insert mr. Cowering plz. It is FORBIDDEN).pce	pce-yoriyoshizuki
+d236e014cd532d29e6baa91a6e28496b	Galaga '88 (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+2fdeaa7f92b001f47f18505abeb7826c	Galaga '88 (J)[t2](by_qqture2005).pce	pce-yoriyoshizuki
+c3fc0dc40a81b2626850e4999aaff3a8	Galaga '90 (Tai Sang Version) (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+85fe6dbae1fa7fe87ef0d1743b801b39	Galaga '90 (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+cf1e3734188629a7c5a946c3e1a41cf0	gecard_new_dump.pce	pce-yoriyoshizuki
+e9a84882d5bdb6ddc95b1fe75ecfb603	Gekisha Boy (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+1c7db155d9420a4de00dbe9145af0e1e	Gekisha Boy (J) [T+Eng] [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+0bce68753c52046698deb1551d5adb31	Genji Tsuushin Agedama (J)[h1][t1](by_qqture2005).pce	pce-yoriyoshizuki
+c715940554d153362656f5e821d013e8	Genji Tsuushin Agedama (J)[h2][t1](by_qqture2005).pce	pce-yoriyoshizuki
+e3320e5707ac9c08c0f20e018ea43e3f	Genji Tsuushin Agedama (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+14aa9cc3b366120a5cce4d74e7cc874f	Genpei Toumaden (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+ad6a291bc8b91549fd871508591cb77e	Genpei Toumaden (J)[h2](by_qqture2005).pce	pce-yoriyoshizuki
+58e4fb6128d13714edf4608a0fcf3e70	Genpei Toumaden Ni no Maki (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+2a561095ea22f0661fe5fd75d355a63d	Ghost Manor (U) [t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+47e563df73f1657fa5218ada015c25f9	Ghostbusters II (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+159b8a5ef8eb70ae0d02e45a0b0f7108	Ghosts 'N Goblins (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+1d89f714c0d5e5930cd563e6fc53ee0d	Girls From Quiz Toukou Shashin by Raph99 (PD).pce	pce-yoriyoshizuki
+117618563c27eaa9207254c241f28d13	gnop.pce	pce-yoriyoshizuki
+ad3222869039ab1f2fcdadc4d926e643	Godzilla (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+762ddd2a79ae8736f6a836f0b2e6bdfe	Gokuraku! Chuuka Taisen (J) [Hack_lzlz1979].pce	pce-yoriyoshizuki
+cc7ded30647d578e0e380330fe7004c2	Gokuraku! Chuuka Taisen (J)[h1][t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+1e0cad9f5a6633227225d885c09b5f43	Gomola Speed (J) [!].pce	pce-yoriyoshizuki
+3d1bbb10bad0994d0d276a7f44618de9	Gomola Speed (J) [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+eccb509f3084a918a206e26857264060	Gomola Speed (J) [h1][t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+d1b6344b668e5bb6950571bd02dd9020	Gomola Speed (J) [h1][t2](Hack_qqture2005).pce	pce-yoriyoshizuki
+2cf4bdb01accb3c6e920e418de16d47f	Gradius (J) [T+Fre_terminus].pce	pce-yoriyoshizuki
+c2e57a78c70611fc425836bd4be3864e	Gradius (J) [Tr Fr1.0 Terminus].pce	pce-yoriyoshizuki
+bd4744836858c15cc4b61ccf88b2929c	Gradius (J)[h1][t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+5578f1321e002024eeef2b6f2e634c6a	Gradius (J)[t2] (Hack_qqture2005).pce	pce-yoriyoshizuki
+fe0a6c49a9992c90d9c08e8766ec27b3	Greyscale Mode Test for PCE by by Chris Covell (PD).pce	pce-yoriyoshizuki
+6c221da8eeb48b5f7e62d9360ea1b967	Gunhed - Hudson Gunhed Taikai (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+a89994b9b23ba3b886f668c6959c790c	Gunhed (J)[h1][t1](by_qqture2005).pce	pce-yoriyoshizuki
+12eaccd5739ce40d87947ba96382e638	Gunhed FX1 Hack (Japan) v1.01 Phase.pce	pce-yoriyoshizuki
+61fcbbdf239b5eb05ce445b6468ffd9b	Gunstar.pce	pce-yoriyoshizuki
+ec1a1eea414dec50e9dfee56da55881c	Hana Taaka Daka! (J)[h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+fcbef97ce8981fbcc0142e5c6ec29512	Hanii in the Sky (J)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+20f937b9cc417dbd3d10bdaf6b9f0942	Hanii on the Road (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+5ced7d4b3b9f3bfdd8c103ef467fd315	Heavy Unit (J) [t1](by_qqture2005).pce	pce-yoriyoshizuki
+f1b1d99746616be411303804017e74ca	Hidden PC-Engine Pics.pce	pce-yoriyoshizuki
+429922700f599f92c8681fa532620d70	HiRes Slideshow by Chris Covell (PD).pce	pce-yoriyoshizuki
+c358a27f98c4868304f176a2e6d8f3cb	Hisou Kihei X Serd (J) [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+9f37e79a11c65111ec346482a4e2faf8	Hisou Kihei X Serd (J) [t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+5cb2e5b985843c9a44152f8471243aba	Hit the Ice - VHL - The Official Video Hockey League (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+fc1ad2b219b28878a416117978f77d10	Hit the Ice - VHL - The Official Video Hockey League (U) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+26c3a2897a6793d053c64be877aa7721	Humpball 1.0 (PD).pce	pce-yoriyoshizuki
+b14e14493c7c45b8d61c160236ac0f85	HuZERO_by_Chris_Covell.pce	pce-yoriyoshizuki
+e7330e4fb8bb7bddb3dc9e80a05c5088	Image Fight (J)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+6c5b57e50e7cb966cc9a49a0432458c4	Impossamole (U) [t1](by_qqture2005).pce	pce-yoriyoshizuki
+604a3e8d0556b6fb11b24a05e65f4441	Impossamole (U) [t2](by_qqture2005).pce	pce-yoriyoshizuki
+edfd5ad57e62939f535fa3e44cc7b05d	Infinite Bonks Demo (PD) v1 cabbage.pce	pce-yoriyoshizuki
+90fd84b5d43b1e70786158fa3a7f0d2c	Island Adventure (Neo Compo 2012).pce	pce-yoriyoshizuki
+ebbd24ba66f6a7060dfe6b1a4b710d42	J-IDOLS.pce	pce-yoriyoshizuki
+b0cf6fe0bd6c9f9f0e9a8ec4367ddc76	J-IDOLS2.pce	pce-yoriyoshizuki
+2cd6615e13051d1f44132301d8232ff1	J.J. & Jeff (U) [t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+11a3fbc3a45d0c5dc623ad4f5afcb6d8	Jackal (US).pce	pce-yoriyoshizuki
+46186eb81094e210305400f3fbf4adde	jackal_0.31.pce	pce-yoriyoshizuki
+5f5eabdae63cdf8ddaf569e4d3a5477a	Jackie Chan (J) (Hack By cyfe).pce	pce-yoriyoshizuki
+66ed8a223c6fe36183b47cc19e3eda55	Jackie Chan (J)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+f6996266dda7a015f48586cf8c5bd32c	Jackie Chan's Action Kung Fu (U)[t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+730d3d5d8792b0897f534d9a42d9c3a2	Jackie Chan's Action Kung-Fu (R) [T+Rus_Mario Soft].pce	pce-yoriyoshizuki
+1aee6f07eca2ba13b07ca9e897f1220f	Jaseikin Necromancer (J) [T-Eng] [Pikachumanson] [V-0.01b A-2013].pce	pce-yoriyoshizuki
+69405f1b7f800010e1490bb3d37cf32a	Jigoku Meguri (J)[h1][t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+c432f61f8afa992cd7cd9688a8878817	Jigoku Meguri (J)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+91c52e8e62fe38c7b38f855b8edcbfc5	Jigoku Meguri(J) (1st hundred)_xyz555.pce	pce-yoriyoshizuki
+4ec317b709ab51e198b7fbbbbf175ce0	Jinmu Denshou (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+515e11a4f5b767623888728a0b4f4b3e	Juuouki (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+0e5a7c8fc05580831860227e49803a74	Jyuohki (h_T).pce	pce-yoriyoshizuki
+9b63ace4cf3e4e1dc3e62324ded6f9a0	Kaizou Choujin Shubibinman (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+5ce9955b3bbba919205e5be87269e8b9	Kaizou Choujin Shubibinman 2 - Aratanaru Teki (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+d2e1abb1e20dc898d19c599e522fd4b7	Kato-chan & Ken-chan (J) [t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+b8643fff69e224d1703a95df90f07ee1	Keith Courage (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+a3e0b99242c56a9f86164b4ad6525fbe	KEITH COURAGE IN ALPHA ZONES (U) [T+Fre_generation IX BETA].pce	pce-yoriyoshizuki
+792d1d2056b9845543e79afaea49ef3d	Keith Courage in Alpha Zones (U) [T+Gre] [a1].pce	pce-yoriyoshizuki
+f90b84d8f8851d82cc2ef00d8e2290b7	Keith Courage in Alpha Zones (U) [T+Gre] [a2].pce	pce-yoriyoshizuki
+c2b5f125d34e9bf655b4b3db40b53de0	Keith Courage in Alpha Zones (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+6dc266355df893584681a498c9a446d3	Kikikai-kai (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+bcf61f581bab2e84ba88b708da361c8b	Kikikai-kai (J)[t1](by_qqture2005)[8016].pce	pce-yoriyoshizuki
+5337d770280686fcb02037abacb59b5e	king of casino (U) [T+Fre_nec-ro-pole].pce	pce-yoriyoshizuki
+4dcc3a764f728f88593a97cf661c3f8b	Kirby's Adventure (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+58cfa6ca68b8693b874cb029376b6467	Klax (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+f1be41e87aaf7d72fdeef6a379ae27a8	Klax (U) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+8e0cb7f9a2267e8ede1a15982e2e1019	Klax (U) [T-Gre1.0].pce	pce-yoriyoshizuki
+927606dcd951be5758270793166994bd	Klax (U) [T+Gre1.1].pce	pce-yoriyoshizuki
+d3ee7f4e2ec8e83dd36783c8427d1cce	Knight Rider Special (J) [T+Eng1.0] [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+54f98f133b87749fce3a2bab79f058ff	Knight Rider Special (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+d6fd1f828ab9eb0c31b62beddf46e6d8	Knight Rider Special (Japan) [T-Eng] [T-Psyklax] [V-1.0 A-2013].pce	pce-yoriyoshizuki
+43c4f14b8e5f790b10514d7c5ca5bb94	Kung Fu (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+8dc8893e8a57405cb58d309b18162654	Kung Fu, The (J)[h] (Hack_qqture2005).pce	pce-yoriyoshizuki
+74e9b4c134804dd690ff83a2b4ebb94d	Kyuukyoku Mahjong - Idol Graphics (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+ea18318f03d97a2ff81ce69e8b7c12da	Kyuukyoku Mahjong II (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+daa32ac504afcabdef314b12c323d2a6	Kyuukyoku Mahjong II (J) [h2] (Hack_qqture2005).pce	pce-yoriyoshizuki
+5cc9cfa8089d02c79b51d079914c8474	Kyuukyoku Tiger (J)[h1][t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+5314f518a267b55829b290c0f11b19e6	Kyuukyoku Tiger (J)[h2] (Hack_qqture2005).pce	pce-yoriyoshizuki
+bb594784b3cddfc094d774bd06862a76	Kyuukyoku Tiger (J)[h2][t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+df3245fd4b039dcdee819f3288ce253c	Lady Sword (J) (Alt) [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+57dba82d45270c762cf0100dc74140bb	Lady Sword (J) (Alt) [T_Eng] [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+47e6a349ea7337745b5c16fa633954cd	Lady Sword (J) [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+a71e9109554901f6653c2a81024708d5	Lady Sword (J) [T_Eng] [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+6b56d548b740cdbbc2993b5a8f03ffd4	lady sword (J) [T+Eng_Filler et al].pce	pce-yoriyoshizuki
+b830eb1738ce2ec21cf11799a9eb5505	Lady Sword (Japan) (Alt) [t].pce	pce-yoriyoshizuki
+5d77fc97ca313f5be735bf05368e780c	Lady Sword (Japan) (Alt) [tr Eng] [t].pce	pce-yoriyoshizuki
+c25ed86e9765f7ed71120633e4a22fc2	Lady Sword (Japan) (Alt) [tr Eng].pce	pce-yoriyoshizuki
+3eef4a93f135bd46444733795fe13ff9	Lady Sword (Japan) [t].pce	pce-yoriyoshizuki
+50322d1a843ace5f96d09d6b55e36805	Lady Sword (Japan) [tr Eng] [t].pce	pce-yoriyoshizuki
+fea33782f1b6bee4fd4a1f10b979f3dd	Legend of Hero Tonma (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+2fac5ad45a93a3aa552c365ceea67be3	Legend of Hero Tonma (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+3e114b0adbad5e0b76119f5f02af4ce4	Legend of Zelda Mix (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+46dda93cef1ef378a8bc57dd2e007ec4	Legendary Axe (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+5b002b8db05a5c77f2f219c28929d84f	Legendary Axe II, The (U)[h2] (Hack_qqture2005).pce	pce-yoriyoshizuki
+ce5d2929dd140409f90917d8c7a61899	Legendary Axe II, The (U)[h3] (Hack_qqture2005).pce	pce-yoriyoshizuki
+b2ed6dcbbb0e90c7d67ef572594ebb65	Legendary Axe, The (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+a820979498b337ddc1ca9bfa1dc9b46d	Life Force - Salamander (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+b957dd3059b95e94c3bc594adc7615a5	Light Cycles.pce	pce-yoriyoshizuki
+ffcd6a32a6d3700d7c4787ca93cd504a	Little Nemo (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+2a7b1024645c0bd173d0d7fa02eada31	Lode Runner - Lost Labyrinth (J) [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+20ed358d151b90453d17a4ad7588bfc6	LODE RUNNER - USHINA WARETA MAIKYUU (J) [T+Por_monkey].pce	pce-yoriyoshizuki
+d56a4966f2d116a1a47891c5bac022bc	Looking for the Perfect Hit - Visual Instrument (PD) Guardian 2006.pce	pce-yoriyoshizuki
+e122ac32a89a51cdea81836d5853f921	loop2.pce	pce-yoriyoshizuki
+b9081aac96fb5ee6f41b36b141460531	Madou King Granzort (J)(SGX)[t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+c8161c2a1bd1369f313977fa9a5a9fa1	Maerchen Maze (J) [T+ENG] [t2](by_qqture2005).pce	pce-yoriyoshizuki
+4c70866564e27a15903ae254ba62950d	Maerchen Maze (J) [t1](by_qqture2005).pce	pce-yoriyoshizuki
+28ed4c90d20cc695d4c119c5ebc1695b	Maerchen Maze (J) [t2](by_qqture2005).pce	pce-yoriyoshizuki
+c4e4702ef3b301f2af28ab8a92a1a103	Maerchen Maze (Japan) [T-En by MooZ+Shubibiman v1.0].pce	pce-yoriyoshizuki
+f34299acd4a789ad51e7b10be3a8947d	Maerchen Maze (Japan) [T-Eng] [MooZ, Shubibiman] [V-1.1 A-2012].pce	pce-yoriyoshizuki
+02a344518182540727090b5fe2db467e	Magical Chase (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+8427f5b146181b75aa6575e379bdb9eb	Magical Chase (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+7dcaf6cdadfa43d5586fe27aab1b630e	Magical Chase (U)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+520c7bff1ed3df0de39d3c69ddb789fd	Mahjong Gakuen - Touma Soushirou Toujou (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+8d42e9ec2a74e5c01021d4bbc676916e	Mahjong Gakuen Mild - Touma Soushirou Toujou (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+c48961f3a2af05687d32904bb25202a8	Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan) (Alt) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+4de9e072470e5f7d33837dd15c4e4615	Mahjong Gokuu Special (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+bffcc0e5e6c4f46538c10b805fa27c06	Mahjong Haouden - Kaiser's Quest (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+185b8997bb2860c5adb07638d17902d3	Mahjong Shikaku Retsuden - Mahjong Wars (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+0e4dfb8449b2f825af396f0c577b6ef2	Maison Ikkoku (J) [T-Eng] [Dave Shadoff, filler] [V-1.01 A-2008].pce	pce-yoriyoshizuki
+6b33184f381d3bfc9870f5ad55b8c78a	Makai Hakkenden Shada (Japan) [tr En v1.0].pce	pce-yoriyoshizuki
+1cd689c8ee8d8e1ad631a7b671d647d1	Makai Prince Dorabocchan (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+9c0f68a98959955a7e8fe3108639ef14	Makyou Densetsu - The Legendary Axe (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+2453e5960c46a8474ee8846c8a995684	Maniac Pro Wres (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+9b347e10f3db0470701d948755151f2e	Marble Madness (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+560fe79dbeda4b582a62be682fa6ca4e	Mario Demo (PD).pce	pce-yoriyoshizuki
+fde3147b91c95307192b5589c86cdbbc	Mario Mix (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+06c6262904fb57f4acd47827d3e96649	Mashin Eiyuu Den Wataru (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+06dacce3b3c3b703a92e04fc51d7e036	Massteroids.pce	pce-yoriyoshizuki
+f65a8d05d7606539147c05a088602ea2	Meet the SuperGrafx Demo (PD) punkfloyd.sgx.pce	pce-yoriyoshizuki
+e68b97f12b236e7b827dc77f98d29cd5	Mega Man II (US).pce	pce-yoriyoshizuki
+bec78164ef3ecaa6d909ea8236c68e39	Mega Man Mix (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+cf3a72974762e5a96bee35504f5d1fa1	megaman 0.94 (nes).pce	pce-yoriyoshizuki
+99fc9edde1acaf9ce58be99f18aa31f6	megaman_0.94.pce	pce-yoriyoshizuki
+099b153ff467319c8b215d4efdaff04b	megaman_097_hu.pce	pce-yoriyoshizuki
+8a3f19bcdfa41d9a9bd2c1aef8efb940	megaman_097a_hu.pce	pce-yoriyoshizuki
+7a2c8746a430404dd2ef3c9a7f01752e	megaman_098_hu_headerless.pce	pce-yoriyoshizuki
+dadc3cdf150612731cfd6e862c62960f	Megaman_ver_0.92.pce	pce-yoriyoshizuki
+48d72f0621250c87cf2029258883d042	megaman_ver101.pce	pce-yoriyoshizuki
+c4ed181ee58afb57c09c8f823cc629de	megaman2_v87_stereo.pce	pce-yoriyoshizuki
+03374b18027397ecbd2cb54f6e080bdd	megaman2_v87a_stereo.pce	pce-yoriyoshizuki
+83079124c8efce1eee4c3a34a89441a5	megaman2_ver087.pce	pce-yoriyoshizuki
+c2c4109355891badd2c308661813f1b0	Mesopotamia (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+938937c127411cee1d2624cf7d4f4d22	Metal Stoker (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+f1e29d8f21577cd8482cdf31a0d3d272	Meteor Blaster 1.0 by MindRec Communications (PD).pce	pce-yoriyoshizuki
+3cece33dd9433003254e9b156226309f	Military Madness (U) [h1] [t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+fe061f702ae90ae0126c1d475f08978f	Mizubaku Adventure (J) [t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+9390ee79f05bcf10df5396e3df190e05	mml.pce	pce-yoriyoshizuki
+557d82879f68bef758f662981f421693	Momo Tarou Densetsu Gaiden (J).pce	pce-yoriyoshizuki
+5f204c493d94e095edf391e9ad2a04be	Momotarou Densetsu II (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+a53720d94503532512cd722a6b3f9ed9	Momotarou Densetsu II (J)[h2](by_qqture2005).pce	pce-yoriyoshizuki
+a2eac9916f6fe1a3e54d664ac40b1433	Momotarou Densetsu Turbo (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+5d4a276d6cb58a629e1b4fdcfe1d59a8	Momotarou Katsugeki (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+624a1b2bfd9309524ede4f625fabc357	Mr. Heli no Daibouken (J) (Alt) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+1643ed7e326e7aea7a834d68b14b6ef7	Mr. Heli no Daibouken (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+a8264f87f8c2a9a97fe46c2fa3249deb	Nantettatte Engine.pce	pce-yoriyoshizuki
+6b2acf714f153695797d6fb515ebc072	Narazumono Sentai Butai - Bloody Wolf (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+053880ef132192b8538ef79c2c89b750	Necromancer (J) [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+d00e769d80fe9f95dbe28f06dab6de85	Necromancer (J)[T+ENG_v01b] [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+1477b14341037672d8f681a8d1f8e8ff	Nectaris (J) [h1] [t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+bac9a336c0b0288703c8a763ceecfe9e	Neo Power PC-E Flash Card Menu v1.10.pce	pce-yoriyoshizuki
+c72dbc8a0f06ddd26b4d4e8bae0dc70f	Neo_Bug_Hunt.pce	pce-yoriyoshizuki
+02d2c94d0da4e333ca117c3f58fbf3ca	Neutopia (J)[h1][t1](by_qqture2005).pce	pce-yoriyoshizuki
+d94d7a19bd7cc3eaf5bcf9b3e0c2e90a	Neutopia (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+4ef7cc3e46c254686a99d9ad4a0a2fed	Neutopia (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+28cf38c7cbf1ac29e528d76c395d2273	Neutopia (U) [a1] [T+Fre100].pce	pce-yoriyoshizuki
+7a9bf26c5a91bd3a014abf32f287844a	Neutopia (U) [a1] [T+Spa100_Pkt].pce	pce-yoriyoshizuki
+54802cf219d5b961f55a9297b19cd7f5	Neutopia (U) [a1][T+Por99%_Raptor_Z]{no header}.pce	pce-yoriyoshizuki
+175aaf1e7a8c94d2ae2c2831d82db104	Neutopia (U) [h2] [T+Spa100_Pkt].pce	pce-yoriyoshizuki
+b115003d1ca213fca4af2362daee449b	Neutopia (U) [T+Por_T-Raptor_Z G-CBT].pce	pce-yoriyoshizuki
+d9fcdb891f511987103c0cb7042f2435	NEUTOPIA (U) [T+Rus_chief-net].pce	pce-yoriyoshizuki
+9328d79ad8ece082536a2311ed69a715	Neutopia (U) [T+Spa_lukas].pce	pce-yoriyoshizuki
+076918868d2070f19b47ceab0f76059f	Neutopia (U)[h1][t1](by_qqture2005).pce	pce-yoriyoshizuki
+4130ace412194e6036ff93a1ed25b66a	Neutopia (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+8100552f7dae0937d54660abfe1bba87	Neutopia II (J) [h1][t2](by_qqture2005).pce	pce-yoriyoshizuki
+875129749fc536f42b6aef2ff09bae14	Neutopia II (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+1af0e49b44fe02a75bdd783e270480c3	Neutopia II (U) [h1][t2](by_qqture2005).pce	pce-yoriyoshizuki
+f0fc2215454cd1c23e21be67a156fc88	Neutopia II (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+9bd693ed8ee3204a1157285f58a43fc4	Neutopia_(U) [T+Rus_Chief-NET ver.1.0].pce	pce-yoriyoshizuki
+b9b6ed01add1038d96166c9aa8b7db39	NEUTOPIA.pce	pce-yoriyoshizuki
+a0554d5837e350db18a23148725bbe17	NeutopiaII (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+776d1e8ca01ee182dea22036d7fc85ae	New Adventure Island (U)[h2] (Hack_qqture2005).pce	pce-yoriyoshizuki
+3f33e362c14225a240858b2070847f32	New Adventure Island (U)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+4ac566f97768676bb829bf49fc0d54e5	New Adventure Island (U)Hack_cyfe.pce	pce-yoriyoshizuki
+db2412c3bd7c4fd52e804a8008ad48dc	New Zealand Story, The (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+97d225c66f62a82a0c3f9c39a0650c20	News (PD) Up Rough, Mooz, Octapus.pce	pce-yoriyoshizuki
+7c50f87e60380465b35e509d6ea980e4	NHK Okaasan to Issho Niko Niko Pun (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+62fd6031937b78cf9075303f24e331eb	Ninja Gaiden (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+805df97d638d8a268b4958125bf6de7f	Ninja Ryukende (Jp).pce	pce-yoriyoshizuki
+c60010f9b6006a5460b61f298213f10b	Ninja Ryuuken Den (Japan) (En,Ja,Zh)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+9c8528cdd9fd761ad9a2e042f0113fb2	Ninja Spirit (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+4d0d64a0873b96f2bc6921ece204cd66	Ninja Spirit (U)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+61ff18b4ed1a22212a9fbca5032dbc7e	Ninja Warriors (J)hack by krizal.pce	pce-yoriyoshizuki
+530140853c2386e06953797d6125448a	NSF_Player_PCE_(U).pce	pce-yoriyoshizuki
+b7ae8ae1c13bedbca1e26428e48f7a82	Nyan Cat Demo (PD) v1.11 cabbage.pce	pce-yoriyoshizuki
+9a3bd668581668d7d56ce311bf23ec9f	Obocchama-kun (J) [t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+f4049602c39974b15bd682b1425edbc8	Off the Wall [Proto 1].pce	pce-yoriyoshizuki
+59e88bc87ff0c7ff0fa77bccd0ac14ae	Operation Wolf (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+20777901f0a5edb825ea17d5aa29c6f5	orbit2.pce	pce-yoriyoshizuki
+2839b953c4c7aeeb10294638be33f499	Ordyne (J) [h1][t1](by_qqture2005).pce	pce-yoriyoshizuki
+c4567999955f41ab87bcca0fa1683499	Ordyne (U) [h1][t1](by_qqture2005).pce	pce-yoriyoshizuki
+41db9c533a7a594aa3ac01e99ac40992	Out Live - It's Far a Future on Planet (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+0df6ed290544d42a6d06dcd781037bf7	Out Live - It's Far a Future on Planet (J) [tr Eng v1.1].pce	pce-yoriyoshizuki
+a9297ae4bab0a4a35f2b15af6bfd03a4	Out Live (Japan) T+Eng v1.0 Nebulous .pce	pce-yoriyoshizuki
+71c38615be3f08b1c9ad9dc2f5a5a1da	Out Live (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+e833f53453c93be1e733ed23730f34f3	Out Run (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+4f3a122891ae48c21c35a7f9d2207831	Override - Mission Code -Override- (J) [t1](by_qqture2005).pce	pce-yoriyoshizuki
+a6e1881f9b5ecb9d5ee9f3cec52278b6	P-47 - The Freedom Fighter (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+ec8a684683060d167f545938c7916f13	Pac-Land (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+29b66f4a40f5cc9588ddb32fd4a2a6a8	Pac-Land (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+4034b9933e75ae485065e3cd7ac5b51f	PadTest ChrisCovell.pce	pce-yoriyoshizuki
+28f84466e46007bc8de5a7300a61ee15	Panza Kick Boxing (U) [t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+6f923cc27f1be1dbfa3213f55e9883c0	parallax9 scrolls.pce	pce-yoriyoshizuki
+76b3ea8a3fb48a59e1ef69f119530802	Paranoia (J)[h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+de890d0c5470aebe0f1d94ae559af0b5	Paranoia (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+77cb0f4d7c0b3b18f431670b6f30ce1a	Parasol Stars - The Story of Bubble Bobble 3 (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+f8da61eb484cd11eeafbf8e4b594a05f	Parasol Stars - The Story of Bubble Bobble III (U)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+5ab04732dfc60513ee6477f8218aeea4	Parodius Da! - Shinwa kara Owarai he (J)[t1](Hack_dragon2snow).pce	pce-yoriyoshizuki
+6850dde353276c9892e3f2a5bb39dafa	PC Denjin - Punkic Cyborgs (J)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+b6b0374d69f1afccb10245155768e5f6	PC Genjin - Pithecanthropus Computerurus (J) (Round Select).pce	pce-yoriyoshizuki
+638fc4289a6d5fc5d20f077256af70f8	PC Genjin - Pithecanthropus Computerurus (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+4b38d65c9a86d662f4b5bc66d5ad3aa9	Pc Genjin (Round Select).pce	pce-yoriyoshizuki
+892cfc190a674f54bfeb12013d936ea8	PC Genjin 2 - Pithecanthropus Computerurus (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+c3c2ad33a3ba198697afc53d87e1ee91	PC Genjin 3 - Pithecanthropus Computerurus (J) (Demo) [t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+1941d4b0cc63e59bd19b6c1721ba924c	PC Genjin 3 - Pithecanthropus Computerurus (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+ce632658d705e2bc60fc683d03053b3d	PC Genjin 3 - Pithecanthropus Computerurus (J)[h1][t1](by_qqture2005).pce	pce-yoriyoshizuki
+4773cb11d98d8870bc8a8b7abd042924	PC-Engine BRAM (Backup RAM) Tool.pce	pce-yoriyoshizuki
+bfd494e0fc3a07d842a3f5717dd360d5	PC-Engine Screen Dimension Test Demo.pce	pce-yoriyoshizuki
+c3bfbf708c7e012c6cb88707db26d3c9	PC-Engine Split-Resolution Demo.pce	pce-yoriyoshizuki
+e966d6c51d7119b776035085f5b56beb	PCE music player using Azasel format.pce	pce-yoriyoshizuki
+dca7646ca749b8dbca706b0a4bae5d79	PCE_NES_Player_sound_Hero.pce	pce-yoriyoshizuki
+0ec6995d249941f59603946ef94f84a1	PCE_NES_Player_sound_MM2_saw.pce	pce-yoriyoshizuki
+9f42131ad9450d60217b20f501db9438	PCE_NES_Player_sound_MM2_wsg.pce	pce-yoriyoshizuki
+109e0127793e9aebd5ff06b3cbba9761	PCE_NES_Player_sound_MM2.pce	pce-yoriyoshizuki
+5fdaa7fb66f91ef58050dc1d6264a16b	PCE_NES_Player_sound_zelda.pce	pce-yoriyoshizuki
+bb80be31e6aa47c00aa9d1fbec026c45	PCEFC Menu.pce	pce-yoriyoshizuki
+559b526e2c341285f99b98d23c0f5ac6	pcefxbombraw.pce	pce-yoriyoshizuki
+80a7a6ac99a13e43dda330cfa70ca074	PCEmon RS232_TTL MONITOR_1.27.2_19200.pce	pce-yoriyoshizuki
+705fc4c07c74b0f259e91b6ab6944cc0	PCEmon RS232_TTL MONITOR_1.27.2_57600.pce	pce-yoriyoshizuki
+4b0d422ac5357d3ba3016b4d64f9dd3e	PCEmon RS232_TTL MONITOR_1.27.2_9600.pce	pce-yoriyoshizuki
+99df6c6b395fcb3c92f5e87876e3be8c	PCEmon RS232_TTL MONITOR_1.27.2_HDLS_19200.pce	pce-yoriyoshizuki
+def6891ee9819793d92cfd2be0cf8048	PCEmon RS232_TTL MONITOR_1.27.2_HDLS_57600.pce	pce-yoriyoshizuki
+38541e2b2f0880a9cdb96b875116a0c7	PCEmon RS232_TTL MONITOR_1.27.2_HDLS_9600.pce	pce-yoriyoshizuki
+4d58e27a1c0c9fad9b04836c25f4fa49	PCEmon RS232_TTL MONITOR_1.27.2_SHORT_19200.pce	pce-yoriyoshizuki
+29548b0954b7b4a64b1b3b39d10cccbc	PCEmon RS232_TTL MONITOR_1.27.2_SHORT_57600.pce	pce-yoriyoshizuki
+e2ec589c2447ca408c6e7d7a79ce2488	PCEmon RS232_TTL MONITOR_1.27.2_SHORT_9600.pce	pce-yoriyoshizuki
+a7624c2bd9816f6a19ef2779cf0351d0	PCEmon RS232_TTL MONITOR_1.27.4_19200_RS232_HDLS.pce	pce-yoriyoshizuki
+0c0f2818b9d69c2c88c5f6540327c92b	PCEmon RS232_TTL MONITOR_1.27.4_19200_RS232_SHORT.pce	pce-yoriyoshizuki
+89cee9c1737fe768601ce33542de3591	PCEmon RS232_TTL MONITOR_1.27.4_19200_RS232.pce	pce-yoriyoshizuki
+0951e0b98f70540ff53dc681d6c26cc4	PCEmon RS232_TTL MONITOR_1.27.4_19200_TTL_HDLS.pce	pce-yoriyoshizuki
+ccb5baf0414bf77c892003794d02c327	PCEmon RS232_TTL MONITOR_1.27.4_19200_TTL_SHORT.pce	pce-yoriyoshizuki
+c7d154f90421c3847bdfd2f0813c2135	PCEmon RS232_TTL MONITOR_1.27.4_19200_TTL.pce	pce-yoriyoshizuki
+86eb1a6b191f8c0ff47e571a2dfacf68	PCEmon RS232_TTL MONITOR_1.27.4_57600_RS232_HDLS.pce	pce-yoriyoshizuki
+b5e4adfd9ffab9ef2e80b9f42f454adc	PCEmon RS232_TTL MONITOR_1.27.4_57600_RS232_SHORT.pce	pce-yoriyoshizuki
+c9023bd5fa05912899e97a81486c1d39	PCEmon RS232_TTL MONITOR_1.27.4_57600_RS232.pce	pce-yoriyoshizuki
+b1d5247fb98197b2194ed1e423f81cfb	PCEmon RS232_TTL MONITOR_1.27.4_57600_TTL_HDLS.pce	pce-yoriyoshizuki
+3ef3bf4ecb4b09e4c15158f2f064217a	PCEmon RS232_TTL MONITOR_1.27.4_57600_TTL_SHORT.pce	pce-yoriyoshizuki
+f20bedfc78779a73a37a02747108661e	PCEmon RS232_TTL MONITOR_1.27.4_57600_TTL.pce	pce-yoriyoshizuki
+efd03c4d609fb610ab0ad395f12992db	PCEmon RS232_TTL MONITOR_1.27.4_9600_RS232_HDLS.pce	pce-yoriyoshizuki
+825b34435246bd6cef3658e4e9eab23b	PCEmon RS232_TTL MONITOR_1.27.4_9600_RS232_SHORT.pce	pce-yoriyoshizuki
+d1793ac19d99c95019c0618a007fdfdf	PCEmon RS232_TTL MONITOR_1.27.4_9600_RS232.pce	pce-yoriyoshizuki
+cce2dfc574acd0ed04859398b050c4b8	PCEmon RS232_TTL MONITOR_1.27.4_9600_TTL_HDLS.pce	pce-yoriyoshizuki
+8896b6ffb9262b5ea62680c5c78deb09	PCEmon RS232_TTL MONITOR_1.27.4_9600_TTL_SHORT.pce	pce-yoriyoshizuki
+061ee1f7e1280d74d4dd3ceee9e451d1	PCEmon RS232_TTL MONITOR_1.27.4_9600_TTL.pce	pce-yoriyoshizuki
+f275216ff54bbdae022f6ecd9ba882bb	PCMgine_Waveform_Tool_b1.pce	pce-yoriyoshizuki
+5cb602eb6dc0fefdb47a750d744f1087	pcmplay (Plays back at about 22096 Hz).pce	pce-yoriyoshizuki
+7305afb14016bc59b3de7767bac2e3ee	Phantasy Star Demo.pce	pce-yoriyoshizuki
+69d3668ed06c4cfa02ffda75b3d37ac6	Photograph Boy (Gekisha Boy) En by Zatos v2.0.pce	pce-yoriyoshizuki
+877b7042e7ed908fe30f820ef4c71980	Photograph Boy (J) [b1].pce	pce-yoriyoshizuki
+865e10d1ea6c0cfef1e2cc22c881ca55	Photograph Boy Sound Rips (PD).pce	pce-yoriyoshizuki
+acdd55d018f3f7d7a0f2b9cc66fefff0	pong [a].pce	pce-yoriyoshizuki
+62028841d674d0892140d7f1cc9cff22	pong.pce	pce-yoriyoshizuki
+7a66fc73fbf699463333aa91c1f30818	Power Gate (J) [t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+8bba197f639330cbd20edec9eeb2c45d	Psycho Chaser (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+45953c9b0412950dcc06453a43c8acfe	Psychosis (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+78475d56d0506087bdec981fb5ccbde0	Punch-Out! (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+7d06803e83bd4e19d2e265fb8ff8eee0	punkfloyd-le.petit.chat.n.est.pas.mort.sgx.pce	pce-yoriyoshizuki
+23a9bb33b0dfbe722b9da9526d1e93d3	punkfloyd-shipping.is.a.feature-final.pce	pce-yoriyoshizuki
+f5b8397f328f51313f812278db362c81	Puzzle Boy (J) [T-Eng] [KingMike's Translations] [V-1.0 A-2008].pce	pce-yoriyoshizuki
+f815e468ac08d3ae8a054183e5ba2690	Puzznic (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+3eabd6ebe31de7d62a8e572cef67e1cf	Puzznic (J) [T+Gre].pce	pce-yoriyoshizuki
+23985b095554374ab2272ec7cb0d1a0b	Puzznic (J) [T+Rus] by Multisoft.pce	pce-yoriyoshizuki
+81f4cb86d50ad8a1fbd2e4f2bee2381d	R-Type (U)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+f222f7d18bad776d1342a0bd452c8eaa	R-Type I-II (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+0eb5d3e9fa2a9480100fd8b73c4e5ab4	R-Type Part-1 (J)[t1]_invincible_(Hack_dragon2snow).pce	pce-yoriyoshizuki
+44bb3e51bbc1c23811a477a072009374	R-Type Part-2 (J)[t1]_invincible_(Hack_dragon2snow).pce	pce-yoriyoshizuki
+d28de4657c73f10df4a802d0ca6bdcc3	Rabio Lepus Special (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+b9b8498de112294daad3d08a654b5d0d	Raiden (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+9a31d5d237a29bb4f51cdbe2df5c7e27	Raiden (U)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+628e3c8cfbc732faf55d1e335376dfed	Rastan Saga II (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+40540be45e4f802344cfcb9f43b527b0	reflectron.pce	pce-yoriyoshizuki
+db21154343bb9cf35c318cbfeb707435	robowarrior_0.27.pce	pce-yoriyoshizuki
+a8c25e6a919ef368bd94cab417d1a32e	RoboWarrior_ver_0.26.pce	pce-yoriyoshizuki
+6527b56cf092b9a61c4950a3003c758f	Rock-On (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+3b8de92ccc07ce352ff3cacd8cbbddf7	rpg_b-1.pce	pce-yoriyoshizuki
+8f7a2afbdd4f4520640e07f3df119de2	rpg.pce	pce-yoriyoshizuki
+c8369a916a8fda637d6692bc38627189	RS232_19200.pce	pce-yoriyoshizuki
+8826a89d3e3fb399b23ad69fcc69a275	RS232_57600.pce	pce-yoriyoshizuki
+14c5f75f715f9bd6968009a5a275bfec	RS232_9600.pce	pce-yoriyoshizuki
+caf4b93374305e0bd33ad06771b2770d	RS232_HDLS_19200.pce	pce-yoriyoshizuki
+0b380f01fdf437621083588f1c5cc102	RS232_HDLS_57600.pce	pce-yoriyoshizuki
+c3f61d6de400f404f73829f9c96a6cab	RS232_HDLS_9600.pce	pce-yoriyoshizuki
+9c8e452aa91a08618c687c2380ca3952	RS232_SHORT_19200.pce	pce-yoriyoshizuki
+a79e1cdb8016a7c83d9a6640268d4b13	RS232_SHORT_57600.pce	pce-yoriyoshizuki
+9e0fb3f0c48b41bc883d3d59747e694e	RS232_SHORT_9600.pce	pce-yoriyoshizuki
+dfea444f32fbd37b1458355552c35984	RT2A SGX (PD) v2 touko.sgx.pce	pce-yoriyoshizuki
+28e06ff49addf563afead5a7885064e5	RT2A SGX (PD) v5 touko 2016-3-24.sgx.pce	pce-yoriyoshizuki
+f528c1ee6f66bdfdc231a7683fd05e82	rtype2_headerless_rom.pce	pce-yoriyoshizuki
+67b8bd5a96679f6dacc3a51842710ef6	Saigo no Nindou - Ninja Spirit (J)_invincible_BBC.pce	pce-yoriyoshizuki
+7f05bc30afdfa64a553b023b71a245bc	Saigo no Nindou - Ninja Spirit (J)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+1c92bab59e0bdc781786d5c229527378	Salamander (J)[h2] (Hack_qqture2005).pce	pce-yoriyoshizuki
+717beb3da1460d09bba24303c4f8f49f	Salamander (J)[h3] (Hack_qqture2005).pce	pce-yoriyoshizuki
+2facae732791c6e7f0aa8d8cc8d7c861	Sample SlideShow by SkyRank (PD).pce	pce-yoriyoshizuki
+6d40af37bd79a754675e70cb7ac0e318	Samurai-Ghost (U) [t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+12c9cb92855185a15b315435ec8eadf7	Santatlantean.pce	pce-yoriyoshizuki
+2370258d7c1e6468899a6f42420ece77	Screen_Dimension_Test.pce	pce-yoriyoshizuki
+1e34aa5d0a41d4b866eaacd148198ad4	SGX Demo VPC #2 Tomaitheous '06.pce	pce-yoriyoshizuki
+6db67445aca35b12c757ea380033f997	SGX Transparency Demo 1 by Tomaitheous Gun (PD).pce	pce-yoriyoshizuki
+3d38f6406546f8b1665c225633559fd0	sgx_test1.pce	pce-yoriyoshizuki
+a0fd7ba881ff982d0ec4dc7a72ea537f	sgx_test2.pce	pce-yoriyoshizuki
+3953892a0bb4d40c2866b3e5d97ee62d	sgx3b.pce	pce-yoriyoshizuki
+13c006b19c72b1793af82496c4fd2ed0	shadow warrior.pce	pce-yoriyoshizuki
+0dd48721e83053bad61ee5753d033aab	Shinobi (J) [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+c8761908d18095ff34d6020c18d7c575	Shipping is a Feature - Party Version - Punkfloyd.pce	pce-yoriyoshizuki
+ec21c2faeb9c43284bde97d73987e326	SHOCKMAN (U) [T+Fre_terminus].pce	pce-yoriyoshizuki
+0855433aa4ce4a992d32d43cbd0309c5	ShockMan (U) [T+Fre].pce	pce-yoriyoshizuki
+d832304a5c4496c28e5fdf677792e4f9	ShockMan (U) [T+Spa_lukas].pce	pce-yoriyoshizuki
+b4c14c7c79409e23a6a22e1c6a01b907	Shockman (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+2a473d3989d8ee5a97a6767d366d8b94	shoot01.pce	pce-yoriyoshizuki
+e5969b9e5b7992cff1f7c102281c14a2	Shooting Watch (PD) v1 cabbage.pce	pce-yoriyoshizuki
+75c0cab99fea7bb00574689f5881a30a	SideArms - Hyper Dyne (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+1e30a3c288bc8b52430b53acf8dc19f6	SideArms - Hyper Dyne (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+0b12d2a7a20cbb7088eb94afb62c4dcc	Sidearms (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+538f6c6bed7b32b0669b53e2eecb5b66	Silent Debuggers (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+1a290c94df783bb41246bba4e5c79550	Silent Debuggers (U) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+a6a7099f8e5f5a03c6409951d514c022	Silver Surfer (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+82378ea82b01eb5166dc894bcc3d1b19	simple C driver for SGX_test_by_Xavier.pce	pce-yoriyoshizuki
+ceda9e911fbb8b8b7e142c08abbe22a8	simple.pce	pce-yoriyoshizuki
+5f12e8c670b9a8e6daa2842b4f3f2683	Sinistron (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+f0778a9420d0567933904cdfc88935f1	sinwave.pce	pce-yoriyoshizuki
+14db4999be4fd525ed48538185b6fad0	Skweek (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+ae821a9f0f7d2e490c7ab2da9b802600	SMB_2.1.pce	pce-yoriyoshizuki
+b0c413b8514dd81222c101aa3fbf22f4	SMB_ver_0.21.pce	pce-yoriyoshizuki
+6b1663dc8812ea667e47205cc18808d8	Soldier Blade (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+9b8ec65af01b5a9b2c888d7aa5852997	Soldier Blade (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+93b16342b2eb433da9dfedfac3882ea8	Soldier Blade Special - Caravan Stage (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+a5c27416a73c98b8c071247031988130	Somer Assault (U)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+07c7455df3f8610cbbd652050cec902c	Son Son 2 (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+92e3579b9b7e86a949b2c228e4a3696f	Son Son II (J) [T+Eng1.0b][t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+28e2ab73725143965975fad17b90182a	Son Son II (J) [tr Eng1.0b].pce	pce-yoriyoshizuki
+471b66578757b269a682e75ba810b1b7	Son Son II (J) T+Eng v1 someitalian123.pce	pce-yoriyoshizuki
+743394d002c1733554205ee24d3ef670	Son Son II (J)_HP_easy_attacks_dhx.pce	pce-yoriyoshizuki
+9e153ff796aed8d23f75fd136abc30f2	Son Son II (J)_increased_difficulty_dhx.pce	pce-yoriyoshizuki
+8f006833ccbe69e1c038adbc5b114b75	Son Son II (J)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+a012a534eee9544d6ec91a8d6daff1f9	Sonic & Invasion Demo 0.1 (Jp).pce	pce-yoriyoshizuki
+25bbb7b8e883414a5eed713bfe90099c	Sonic Arena 0.1 (PC-engine , gameblabla 2011).pce	pce-yoriyoshizuki
+6304e8c4041492463b7d9e3ef85cc7cc	Sonic RPG Console Version PC-Engine.pce	pce-yoriyoshizuki
+19cd991709b7d109ba6e3980fc142292	sonic_demo.pce	pce-yoriyoshizuki
+8926ef4bb9c33d97eb467d20ee66c90b	Soukoban World (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+7e8d8ce34ea2a9c32faf981c8f6aa48d	SOUND.pce	pce-yoriyoshizuki
+1e12a2d532a85db955e9a9b2d53aaa5b	SoundGen Tool for PCE v1.01.pce	pce-yoriyoshizuki
+dd1a61601eb8e4a0e802d27649fa0e25	Space Harrier (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+5e14ddabf2392a0ccac578729dca2622	Space Harrier (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+a691d0bf607780eabfb79a4fc66dfc57	Space Invaders - Fukkatsu no Hi (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+a83cda0c1dcc9316b91f1d1189a53061	Special Criminal Investigation (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+91785b099ded050a42c128b68d932d6a	Speech Demo (-)(16ton).pce	pce-yoriyoshizuki
+ca91dc8d1253fc45c377ae88be31b773	Speech Demo (PD).pce	pce-yoriyoshizuki
+2d3e734d899819be6e94ce03c91a02a9	Splatterhouse (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+357cbf03cd3761ca97e24e48fda609d0	Splatterhouse (Japan) [Hack by Guemmai v1.0] (~Splatterhouse Chrome).pce	pce-yoriyoshizuki
+4fbb4ea639d8a3210529bfb405a50bae	Splatterhouse (Japan) [tr Rus 1.0].pce	pce-yoriyoshizuki
+12a3d89fc4ba9cce08806dbca71c84fc	Splatterhouse (U) [tr Fre1.0_Terminus].pce	pce-yoriyoshizuki
+829b849e88cd5ae4343e54024ee7e982	Splatterhouse (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+6764b9508132e42d84cb839a9fa904e6	sprite_silhouette.pce	pce-yoriyoshizuki
+808f768431b5fb44957970a1cc0a60f9	Star Wars Mix (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+ee80331902f9738e291773f2acbb7359	Strange Game the demo (2012)(DamageX).pce	pce-yoriyoshizuki
+e6d47eca9fb1d01d6a492a49904e08dd	Street Fighter II - Champion Edition [BAD].pce	pce-yoriyoshizuki
+7c8445f7e08d713d0d9772a40f7b3919	Street Fighter Mix (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+6a6360833a69f9e877270429b0dbdd0f	Streets Of Rage (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+3a05ed64e2b5509502971a798af5022a	Strip Fighter II (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+6748ed3b62bea45b9521078e1beb0614	Stupid CD-ROM System (J, v4.1)_SSC3.0hack.pce	pce-yoriyoshizuki
+b8f74f6632e79221c01b78ce3a9e1460	Super Contra (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+e1609b93755c666639bdb940fbfab224	Super Mario Bros (J) [p1] [T-BR] [T-Wolfwood G-Monkey's Traduções] [V-1.0 P-98% A-2009].pce	pce-yoriyoshizuki
+d14226b784a152b1a4bb942f61fe1c4d	Super Mario Bros (J) [p1] [t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+bde7b5617f39829858752727747d93e6	Super Metal Crusher (J) [t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+b4bbc4bf4e0837d0a65e01375fc4207c	Super Star Soldier (J)(by_qqture2005).pce	pce-yoriyoshizuki
+3fc8f786ea76823af1ad28be32fe5c2d	Super Star Soldier (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+77868678bc7cd86931ab1b2d5fcb24a5	Super Star Soldier (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+7865e934e7c513f32a85ca0615795d49	SuperCDROM3.0-PCEmon1.27.2RS232-RunSelect.pce	pce-yoriyoshizuki
+67c2476ee5649c06e158b8ac9581ed5a	SuperCDROM3.0-PCEmon1.27.2RS232-Select.pce	pce-yoriyoshizuki
+b2216b2915d86b604d73384bd1056278	SuperCDROM3.0-PCEmon1.27.2TTL-RunSelect.pce	pce-yoriyoshizuki
+6fac28fe8c90267ec70a1d0dd5aca6e6	SuperCDROM3.0-PCEmon1.27.2TTL-Select.pce	pce-yoriyoshizuki
+fb22d40a98a432b47ff553329c2fb66a	SuperCDROM3.0-PCEmon1.27.4RS232-RunSelect.pce	pce-yoriyoshizuki
+9ff2ef8a3f74ef0be581771eea00cf6f	SuperCDROM3.0-PCEmon1.27.4RS232-Select.pce	pce-yoriyoshizuki
+6a32a93f5837ea24c29765b2732b9a67	SuperCDROM3.0-PCEmon1.27.4TTL-RunSelect.pce	pce-yoriyoshizuki
+3b6cc50f2e0115889f0c017d324d1a41	SuperCDROM3.0-PCEmon1.27.4TTL-Select.pce	pce-yoriyoshizuki
+2131465ba328a33a49689531ec475f96	Susanoo Densetsu (J) [h1](Hack_qqture2005).pce	pce-yoriyoshizuki
+88b91530d45436e509a94df5afaef74f	T&C Surf Designs (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+f77191dbe4ea03e04019e2b7ba946094	Taito Chase H.Q. (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+e167b3a5bbd70ef5477876e5fd3f221f	Taito Chase H.Q. (U)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+c51b9b3d620888e4b5ce8f130c6e6be2	Takahashi Meijin no Shin Bouken-jima (J)[t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+2599b46f9b8afeb5a499d1135d7e779d	Takahashi Meijin no Shin Bouken-jima (J)[t2](Hack_qqture2005).pce	pce-yoriyoshizuki
+34bafcb4f11e81352d2a81cc74c2ae24	Takahashi Meijin no Shin Bouken-jima (J)Hack_HeavenTrain.pce	pce-yoriyoshizuki
+bc11329ae524eca210a8fb81413463f5	Takeda Shingen (J) [t1](by_qqture2005).pce	pce-yoriyoshizuki
+b7df633c1daca9dde202d40d26d95003	tales of the unemployed.pce	pce-yoriyoshizuki
+f84cbc63312669f05a6294e665766b71	Tales of Unemployed.pce	pce-yoriyoshizuki
+809ac0ebef81b448dab2e94ba3ad072b	TaleSpin (U) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+7d06194ffc5c598ad59364092c3c5d9f	Tatsujin (J)[t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+d1b5fe051c357a2f8d166697d0f7db09	Tatsujin (Japan) (Proto).pce	pce-yoriyoshizuki
+03804470454a016bd3bff5092e100f2b	Tatsunoko Fighter (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+885b2e7e260967f298546b71fae7c9bd	Tenseiryuu - Saint Dragon (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+ea34b83381b2e609ab1d9754e5bd2326	Terra Cresta II - Mandoraa no Gyakushuu (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+eaa426768bf2c2e4f5f38b13e99749ae	test_aplib_vram.pce	pce-yoriyoshizuki
+44e77f51eda9392e4cf72f4bced50645	test_aplib.pce	pce-yoriyoshizuki
+a278063ea19b6aa6f48fd1b483b2e92f	The TurboGrafx-16 Phantasy Star - WHAT (2004)(damage_X).pce	pce-yoriyoshizuki
+b03f9cd6671e15666436cd45aedf91c3	Thunder Blade (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+1914a15294894719da6f708a15610e96	Thunder Force IV - Part 1 (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+5d640ca5901c35c3e966bd5c61f198d6	Thunder Force IV - Part 2 (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+9fb2ba570ad440f51045fa9c45ee1899	Thunder Force IV - Part 3 (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+2bc5741be59829a55e6afd82cf4ab00b	Tiger Road (U) [h2](Hack_qqture2005).pce	pce-yoriyoshizuki
+18ffb3251093bef212e08d364d563a72	Tiger Road (U)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+4e307ffd650687ed8b81684beb06ef6c	Time Cruise (U)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+1be28501cd93e30ab80ea628123de40e	Time Cruise II (J)[h2](by_qqture2005).pce	pce-yoriyoshizuki
+fbd6f8bd6f97536a6cfdbf8658841bab	Timeball (U) [T+Por_T-Altieres G-Nenhum].pce	pce-yoriyoshizuki
+6ea916974977833a6b0118e3ac30c963	TMNT (PD) Hunter NSF v3 mic, SmokeMonster.pce	pce-yoriyoshizuki
+ef31e9d438c1f401ea48e4fee71e6e16	Toilet Kids (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+c0b20bc7392091f56aec47ff71a324a2	Tongueman's Logic (DEMO).pce	pce-yoriyoshizuki
+15107f07c3b7a65a7e784add44349961	Tongueman's Logic (FINAL 1.0).pce	pce-yoriyoshizuki
+ab4a823d8698753d3b63d3a6d7e10515	Tora e no Michi (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+3b73f7c5e40823f273902cd6e94a2441	Tora e no Michi (J)[h2](Hack_qqture2005).pce	pce-yoriyoshizuki
+65f0479fba7da4918d96d6aa0e98e07f	tos_v2.pce	pce-yoriyoshizuki
+61341b34ebc555fca8553ab8c0267688	tos_v3.pce	pce-yoriyoshizuki
+38241a96caa1573f9caf20a2b52dd3e8	tos-v4.pce	pce-yoriyoshizuki
+5f61c1d997888939eaceb20633d56272	Toshi Tensou Keikaku - Eternal City (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+a8039e0f2fbb8a523f5161343f73a90d	tourv_r-type_ii_hacked.pce	pce-yoriyoshizuki
+8da3885d9c6674f33cf9bac28905d249	Tower of Druaga, The - Druaga no Tou (J) [tr En 1.1 Procyon Lotor].pce	pce-yoriyoshizuki
+1b1135a6935eb71624bb34e1b8262b49	Toy Shop Boys (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+c8bb433f9db567ad724c02c89f876a71	turbo-os-v1.pce	pce-yoriyoshizuki
+17651d60c17c5fe3d8d07a36b57ea4db	Turrican (U)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+4db336b4e86fc4fefa5ddd73c3868174	UP-17PCE.pce	pce-yoriyoshizuki
+33bf852f0047d3d3dab9209b72791e5e	Valkyrie no Densetsu (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+c8e415bf9bf74284e51f8d96a22caff5	Valkyrie no Densetsu (Japan) [tr En v1.0 shawnji].pce	pce-yoriyoshizuki
+f0f04ec7638478bb4bda09b365d1c96e	Veigues - Tactical Gladiator (J)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+89ec13dc22683d16c8aa4f97a083995d	Veigues - Tactical Gladiator (U)[h1](by_qqture2005).pce	pce-yoriyoshizuki
+7b56e30d1802461e055f7ea877daefba	Vertical Shoot Demo v0.03a (2005) (PD).pce	pce-yoriyoshizuki
+53edb6b83de8414868310c9794e4fc3e	Victory Run (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+931398ac9a5e424f08b2ee65fc7eec0e	Victory Run (PD) HES-V3 Chris Covell.pce	pce-yoriyoshizuki
+f27024025e6b32bd19f8c8425e2c1646	Victory Run (U) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+cfa9b5073e6dd82a45a32fec38c82d48	Vigilante (J) [T+Spa100_3mundo].pce	pce-yoriyoshizuki
+7b4c8cf6f3a5f82a1c671e895cfe2752	Vigilante (J)[h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+e8e76bb2bc861b15a1965d85d6c75eba	Vigilante (U) [T+Por100] [b1].pce	pce-yoriyoshizuki
+8ce4b4910268aab95c115c2d81f1526b	Vigilante (U) [T+Por100] [b2].pce	pce-yoriyoshizuki
+f2485bcd675d4265c6890336cfe5c724	Vigilante (U) HP_time_limit_BBC.pce	pce-yoriyoshizuki
+6af01f512349417b8e694f5d18bc4902	Vigilante (U)[h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+1031907c78efe8e49250349e003aefb6	Violent Soldier (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+4dd776bcd5aec8454b82d4bae383accf	visualV1-ankoku.pce	pce-yoriyoshizuki
+f0cc5f96d8abeb064457cedea6f42e07	visualV1-dungexpl.pce	pce-yoriyoshizuki
+c5248a1c60766f8246064ad7e1b44302	visualV1-keith.pce	pce-yoriyoshizuki
+838cc5cb8bddeaa962be354115129115	visualV1-legaxe.pce	pce-yoriyoshizuki
+25ee2f647b9ca30250dbfe284c6dd12c	visualV1-maniacpro.pce	pce-yoriyoshizuki
+7de5d63dab9a93b4948f856f506a5f96	visualV1-neutopia.pce	pce-yoriyoshizuki
+aae9b0a7ed7fb9457ecbf5aafa9c12e8	visualV1-victory.pce	pce-yoriyoshizuki
+7d2732748585d8b6d2943a00f7196e9f	visualV2-aliencrush.pce	pce-yoriyoshizuki
+c30ba2b10fd11b43495c9f8254a65f1d	visualV2-bonk1.pce	pce-yoriyoshizuki
+1576a09891b8d7ec4560beacbee120e3	visualV2-devilcrash.pce	pce-yoriyoshizuki
+4f7bf64c57170cca40706cf18253b1f9	visualV2-ninjaspirit.pce	pce-yoriyoshizuki
+0bfd887d1d9c32329d104fb06714df81	visualV2-supstarsoldier.pce	pce-yoriyoshizuki
+5fabb8b90d11dc8dff607551ba3ae721	Volfied (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+8b789399ad45584d0a3ab5a9e060cc83	W-Ring - The Double Rings (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+5fb0ef737dcea6a7cb8df0fbcd2670b6	War of the Dead [tr En].pce	pce-yoriyoshizuki
+80e284fd492c106a73f22b016d5c8986	Wavy Big PCE Pics by Chris Covell (PD).pce	pce-yoriyoshizuki
+1e96d8ffffa992d1bf205a794843e536	Wavy Diver PCE Pics by Chris Covell (PD).pce	pce-yoriyoshizuki
+77afed7a792c7bc7fe18443ec5b432e5	Wavy Flag PCE Pics by Chris Covell (PD).pce	pce-yoriyoshizuki
+86b1556c50137f007597480c41c1e094	Wavy Orca PCE Pics by Chris Covell (PD).pce	pce-yoriyoshizuki
+3b0916654034143b4dc2779353d52021	Wavy Seal PCE Pics by Chris Covell (PD).pce	pce-yoriyoshizuki
+fada41b3d7136cacaa8d2128d4a26075	Wavy Sky PCE Pics by Chris Covell (PD).pce	pce-yoriyoshizuki
+c189c462bbf7a82563b5dc175743b592	WHAT.pce	pce-yoriyoshizuki
+c10ed9afd8e2a4808893567873b809ef	Wonder Momo (J) [h1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+bc6e21ef9dbb357bed8ee00a3a6c989d	Wonder Momo Sprite Hack 1 v1.1(Japan).pce	pce-yoriyoshizuki
+71e946f35775ce93a2f41f8260e1e6a0	Wonder Momo Sprite Hack 2 chibi v1.1(Japan).pce	pce-yoriyoshizuki
+f38de00a741a7bd8b4075312efdc1916	Xevious - Fardraut Densetsu (J)[t1](by_qqture2005).pce	pce-yoriyoshizuki
+8a7606010c28f4a93a10fe26ac5342d5	Yo, Bro (U) [t1] (Hack_qqture2005).pce	pce-yoriyoshizuki
+0c3f83227ebd8a450c581f44ccb3f3d1	Youkai Douchuuki (J) (Hack By cyfe).pce	pce-yoriyoshizuki
+1a881d1befc8e3d3be1d912c3b70c749	Youkai Douchuuki (J) [t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+d0f14f838506760a4805d97e1b329852	Zipang (J) [t1](Hack_qqture2005).pce	pce-yoriyoshizuki
+b5749b616474e7f4ce6c4b01d888d21d	Zipang (Japan) [tr Fr v1.0 traf].pce	pce-yoriyoshizuki

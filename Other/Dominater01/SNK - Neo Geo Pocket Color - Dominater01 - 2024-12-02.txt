@@ -1,0 +1,49 @@
+2d3445d8a4d2d2c504e0b7ba71771519	Cool Boarders Pocket by QQture (Hack).ngc	ngpc-dominater01-hacks
+d821619da6921e8c325e26e0d76d921e	King of Fighters R-2 - Clark H (Hack).ngc	ngpc-dominater01-hacks
+ec7f236818c601fe67f6d51b171e895c	Metal Slug - 2nd Mission by DJJ (Hack).ngc	ngpc-dominater01-hacks
+445557641f8d1e73506910e1855d1341	SNK Gals Fighters by DDJ (Hack).ngc	ngpc-dominater01-hacks
+4dc84b9f26cf39f3e8defc361e6c995a	Sonic Pocket Winter.npc	ngpc-dominater01-hacks
+ba8837417c526b531f67b8137339790f	Last Blade, The - Beyond the Destiny (UE) [T+Bra].ngc	ngpc-dominater01-translations-ptbr
+847d895df20e5bee378ff1bdfef97774	Pac-Man (W) [T+Bra_Nenhum].ngc	ngpc-dominater01-translations-ptbr
+3b74ad1f1cb1ae169ffc83a19680cb72	SNK Vs. Capcom - The Match of The Millennium (W) [T+Bra0.5].ngc	ngpc-dominater01-translations-ptbr
+9b09713fb637ce2b8be59e80455106ec	Dark Arms - Beast Buster 1999 (W) [T+Chi].ngc	ngpc-dominater01-translations-chinese
+79c5c46cb9131365b0a7e01243817337	Dark Arms - Beast Buster 1999 (W) [T+ChS_ITUJUNUSA].ngc	ngpc-dominater01-translations-chinese
+03be16fd0d94046e6290e8dd91ab09fc	King of Fighters R-2 (W) [T+Chi_JIAN TI].ngc	ngpc-dominater01-translations-chinese
+3d448858098602a43961efd25d5eee8c	King of Fighters R-2 (W) [T+ChS_Sky Union].ngc	ngpc-dominater01-translations-chinese
+83c8ca84d055a63a6b8ec25e4546228e	Metal Slug - 1st Mission (W) [T+Chi].ngc	ngpc-dominater01-translations-chinese
+c1bfbd6037712a9761a1dcf86d040c17	Metal Slug - 1st Mission (W) [T+Chi_JIAN TI].ngc	ngpc-dominater01-translations-chinese
+a3fe5f79b80c2da5c8d270ef41421af8	Metal Slug - 1st Mission (W) [T+ChS_cholera&Sky Alliance].ngc	ngpc-dominater01-translations-chinese
+1259607344e5eb6dbf1462901912ebb3	SNK Vs. Capcom - Card Fighters Clash - SNK Version (J) [T+Chi1.2fix_JIAN TI].ngc	ngpc-dominater01-translations-chinese
+87fc6166765be0017d7e5aa60cf0b77f	SNK Vs. Capcom - The Match of The Millennium (W) [T+Chi_JIAN TI&YULIANGMAX].ngc	ngpc-dominater01-translations-chinese
+6521c84063b287e1614dda9f0a8e4620	SNK Vs. Capcom - The Match of The Millennium (W) [T+ChS_YULIANGMAX&Sky Alliance].ngc	ngpc-dominater01-translations-chinese
+3c5ee6e830d60f5bc8f3a5a5a53558bb	Cool Cool Jam (Japan) [T-En by WyndCrosser v0.01] [i].ngc	ngpc-dominater01-translations-english
+11c23b75b126583b6fb4c80cf663b6bb	Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (J) [T-Eng0.05v_WyndCrosser].ngc	ngpc-dominater01-translations-english
+215e40376a99209f2e8d7378c5ce0961	Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (J) [T-Eng1.0v_FFaddic].ngc	ngpc-dominater01-translations-english
+90b7543441197553f6a4402cd6b87c3f	Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan) [T-En by WyndCrosser v0.38] [i].ngc	ngpc-dominater01-translations-english
+b25139fdf25d14fdfb38384cdabefcef	Kikouseki Unitron (J) [T+EngBeta(20130329)].ngc	ngpc-dominater01-translations-english
+a4e86de6caa29f30f82a8e7045c46fff	Mizuki Shigeru no Youkai Shashinkan (Japan) [T-En by WyndCrosser v0.01] [i].ngc	ngpc-dominater01-translations-english
+d76e1f937c5ec6f025da7d61e0a269bd	Nige-ron-pa (J) [T+Eng50%].ngc	ngpc-dominater01-translations-english
+866e717e2c684e073e6d034f5a56f7b7	Nige-ron-pa (Japan) [T-En by Loïc v0.9].ngc	ngpc-dominater01-translations-english
+b43b8b637c067be0fc4e9fd3b246a78d	Ogre Battle Gaiden - The Prince of Zenobia (Japan) [T-En by FFaddic v1.0] [i] [n].ngc	ngpc-dominater01-translations-english
+62ba425e8a32bb953dcf0dc36cdabbf2	Rockman - Battle & Fighters (J) [T-Eng0.9v_MarcMax].ngc	ngpc-dominater01-translations-english
+0a85a643ae051e0f55d27be60df01e9c	Rockman - Battle & Fighters (Japan) [T-En by Marc_max v1.0] [i].ngc	ngpc-dominater01-translations-english
+9cb0aaf4104e370efbc8b55ee04733dc	Rockman Battle & Fighters (J) [T+Eng0.10].ngc	ngpc-dominater01-translations-english
+0f68e7a0a2a598a2f754d16ed2f35e56	Rockman Battle & Fighters (J) [T-Eng0.05_LFont].ngc	ngpc-dominater01-translations-english
+587fbf05405000e4dad9ff462b2754cd	Rockman Battle & Fighters (J) [T-Eng0.05_SFont].ngc	ngpc-dominater01-translations-english
+3c6c6e42d10b76bbccacf125f5d2b769	SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan) [T-En by CFC2 Translation Team v20170125].ngc	ngpc-dominater01-translations-english
+b2628da96bf4f278b13d3c5afd703ac7	SNK Vs. Capcom - Card Fighters Clash 2 - Expand Edition (J) [T+Eng5-03-08_CFC2TranslationTeam].ngc	ngpc-dominater01-translations-english
+e324c1ceb54080ae5be1065b91243331	SNK Vs. Capcom - Card Fighters Clash 2 - Expand Edition (J) [T-Eng3-19-08fixed_CFC2TranslationTeam].ngc	ngpc-dominater01-translations-english
+e7036f0be59b21d5a8424d2514df819a	SNK Vs. Capcom - Card Fighters Clash 2 - Expand Edition (J) [T-EngV14.12.01].ngc	ngpc-dominater01-translations-english
+7716ed81dfd489d80fd9f47cfd320e1c	Evolution - Eternal Dungeons (U) [T+Fre0.3_Fry].ngc	ngpc-dominater01-translations-french
+83e89dcb433a76317d9ac9d2010cf6f3	Faselei! (UE) [T+Fre60%-v1_J-Yann].ngc	ngpc-dominater01-translations-french
+d17e7a98ce00bc0f170f1b2f30cb940e	Pac-Man (W) [T+Fre1.0_J-Yann].ngc	ngpc-dominater01-translations-french
+ebc6a4ee612c84d5c405b6837d794dea	Pac-Man (W) [T+Fre_J-Yann].ngc	ngpc-dominater01-translations-french
+e59102db9c08f5b99a0efb2576af8a0a	Cotton - Fantastic Night Dreams (UE) [T+Spa1.0_Ele91].ngc	ngpc-dominater01-translations-spanish
+42d1216192d0ea6462ca822172a73572	Evolution - Eternal Dungeons (E) [T+Spa1.2_KeiDash].ngc	ngpc-dominater01-translations-spanish
+6f48b2791ecbb5c4d9baf7811e6acd40	Metal Slug - 2nd Mission (W) [T+Spa1.0_Wave].ngc	ngpc-dominater01-translations-spanish
+c7bfc59b4cb593409541d4ccffe083b4	Pocket Tennis Color - Pocket Sports Series (W) [T-Spa1.0v_Ele91].ngc	ngpc-dominater01-translations-spanish
+6b6f16dc1d06c106026df5f25ebfab4a	Puyo Pop (v1.06) (World) [T-Spa1.0v_Wave].ngc	ngpc-dominater01-translations-spanish
+7063ee75a306c3d6a5bd1023ab2bdcbc	Samurai Shodown! 2 - Pocket Fighting Series (W) [T-Spa1.0v_Max1323].ngc	ngpc-dominater01-translations-spanish
+fafbe33f36833d0e0d5bebc77cdb30ca	SNK Gals' Fighters (UE) [T-Spa1.0v_Max1323].ngc	ngpc-dominater01-translations-spanish
+c3f9471e133b826c33e47579333208c6	SNK Vs. Capcom - The Match of The Millennium (W) [T-Spa1.0v_Ele91].ngc	ngpc-dominater01-translations-spanish
+3e36474f3c9265da258332510a75fa0f	SNK Vs Capcom - Card Fighters Clash 2 - Expand Edition (J) [T-BR] [T-Maggot G-Nenhum] [V-1.0 A-2011].ngc	ngpc-dominater01-translations-ptbr

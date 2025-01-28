@@ -1,0 +1,7 @@
+f775dfc557f48720edba1920f3ea9f5b	F-Zero X - Expansion Kit (Japan) [T-En by LuigiBlood v2] [Req F-Zero X (USA) rom].ndd	n64dd-t-en
+2fcc6b26e6dd84c9b48932104053a8a3	Mario Artist - Paint Studio (Japan) (Beta) (1999-02-11) [T-En by LuigiBlood] [i].ndd	n64dd-t-en
+b17771664daf95d7e61d8549a8ceacc6	Mario Artist - Paint Studio (Japan) [T-En by LuigiBlood & Cauterize v2.1].ndd	n64dd-t-en
+a066c1834eda11882f8df5e1a92c8142	Mario Artist - Polygon Studio (Japan) [T-En by LuigiBlood v3.0].d64	n64dd-t-en
+7b94cb9af6fe351ca7b47f59594af96c	Mario Artist - Polygon Studio (Japan) [T-En by LuigiBlood v3.0].ndd	n64dd-t-en
+f3767735b1610c2bca3220b590d43232	Mario Artist - Talent Studio (Japan) [T-En by LuigiBlood v2.1].ndd	n64dd-t-en
+4372f74477fe54cd363fe4f14984625a	SimCity 64 (Japan) [T-En by Ozidual v0.6.38].ndd	n64dd-t-en

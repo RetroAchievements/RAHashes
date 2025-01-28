@@ -1,0 +1,40 @@
+18024b2c136c5ecfeb26fd99451421ca	0001k7010.u307	benesse-pocket-challenge-w-mame
+98a018cf8749cdbf419d81ab926ecb7b	01p0l c1d1.u307	benesse-pocket-challenge-w-mame
+71d0ce10377654db516cfaffbeec3f5e	0bb111nh [s11].pcw	benesse-pocket-challenge-w-mame
+c621b460bdf73dc17283d3ad19d8bcf7	0BI711 [1G1].pcw	benesse-pocket-challenge-w-mame
+69b1ff24fae4464ca339cd3de270d62f	0BKD01 [A].pcw	benesse-pocket-challenge-w-mame
+e71ae6712fec513bb41d511f01e2ee0f	0g2 9bi712 00cj 2mb c1d1.u307	benesse-pocket-challenge-w-mame
+351644b1ed5427af28cd4a46ddf54399	5BB212SS.pcw	benesse-pocket-challenge-w-mame
+a43876f56624f218053ce9dc75e4d7d6	5BC410 [R].pcw	benesse-pocket-challenge-w-mame
+5ac662b3426d28d2ce388b87f92926e1	6BD410 [C].pcw	benesse-pocket-challenge-w-mame
+fdecb8e652a4465d3988273d7d707c05	6BI711 [G-1].pcw	benesse-pocket-challenge-w-mame
+09823477fc3a8f2ed71b07741fd3aa82	6BI712 [G-2].pcw	benesse-pocket-challenge-w-mame
+7423837a76db0e97febf9b3d8a4dede2	7BB211NH [N21].pcw	benesse-pocket-challenge-w-mame
+43cc4359e5818816d94c0607abe25453	7BB212SS [N22].pcw	benesse-pocket-challenge-w-mame
+fe071a049134a7b5c913f13d4e247c83	7BB214TE [N24].pcw	benesse-pocket-challenge-w-mame
+86b6c5489537b10131d33902c958eb0c	7BB311NH (N31).pcw	benesse-pocket-challenge-w-mame
+d08f0c7fd13fc7f28d19a019eb0e5dd3	7BB312SS (N32).pcw	benesse-pocket-challenge-w-mame
+be7b7d927790deb7ecaba7420d0d9fa1	7BB313NC [N33].pcw	benesse-pocket-challenge-w-mame
+262302dc1e38145d6a3dbbe445cfef0d	7BB315OW [N35].pcw	benesse-pocket-challenge-w-mame
+efe3fe6abd98a89764a8e9d243ae4416	7BB317CB [N37].pcw	benesse-pocket-challenge-w-mame
+3d7e2cc50c5ffe1b2dc806660b14d153	7BBD01 [T].pcw	benesse-pocket-challenge-w-mame
+2d727db788714dc6b70e87b180415163	7BBD03 [B].pcw	benesse-pocket-challenge-w-mame
+bb2b483d60204530cc6dfd488b69eb9f	7BC410 [NR].pcw	benesse-pocket-challenge-w-mame
+ba5ad15d658198e54da406dacbb2198b	7BD410 [NC].pcw	benesse-pocket-challenge-w-mame
+16142ea3f4a169b542e4f9fded5354f1	7BF411 [L1] star.pcw	benesse-pocket-challenge-w-mame
+a982d3eac497d33612a2e24f8d5169b2	7BF411 [L1].pcw	benesse-pocket-challenge-w-mame
+07867610752373e116703eb18821ad78	7BF411 [L2] star.pcw	benesse-pocket-challenge-w-mame
+43b246d5c148633880c71316dc2fe121	7BF412 [L2].pcw	benesse-pocket-challenge-w-mame
+99092f73048e703840e467201efb7ace	8BCD01 [W].pcw	benesse-pocket-challenge-w-mame
+ad8613900367019f8f22e0d3e526d278	8BD400 [CR].pcw	benesse-pocket-challenge-w-mame
+2a711a45a1cef29bdd07acf08eaf109b	8BF400 [LP].pcw	benesse-pocket-challenge-w-mame
+d52a62cc344c950eff2c4ee0339b6c3b	9810k7024.u307	benesse-pocket-challenge-w-mame
+e3e1fc49a16838de72ce440ed8cd793e	9BCD01 [0W].pcw	benesse-pocket-challenge-w-mame
+a70f0fe4ee8617153f7665cebad97acf	9BCD02 [0D].pcw	benesse-pocket-challenge-w-mame
+ad115e429019ce318df4104d6b7ebcba	9BI711 [0G1].pcw	benesse-pocket-challenge-w-mame
+08d85a36ba346ffaa5e71f6683026ae8	9c 9bd410 99cge0 c1d1.u307	benesse-pocket-challenge-w-mame
+35a65c9750d2bbd9172ef54b5a0e917c	j 7bbd02 97kjuk c1d1.u307	benesse-pocket-challenge-w-mame
+c089e348dc1873eed4fe1f09f2444f23	n-g1 7bi711 98cj4mb c1d1.u307	benesse-pocket-challenge-w-mame
+9e20e7139f5b230461a7ae7394a7bcf0	nk 7be310 97cpol c1d2.u307	benesse-pocket-challenge-w-mame
+3d44b9dd833b5c97438524722791ba4a	pl 0bf400 00pcr c1d1.u9	benesse-pocket-challenge-w-mame
+711e379bd149491495e5613492aa9046	ps 0bd400 00repcs c1d1.u9	benesse-pocket-challenge-w-mame

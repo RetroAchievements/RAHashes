@@ -1,0 +1,29 @@
+9150a58f7094a48b980c1ac71b9cfab9	Baseball Stars (W) [M].ngp	ngp-opengood
+688f274628acb301f5c882138d0293be	Densetsu no Ogre Battle (J) [T+ChS0.5_Wong].ngp	ngp-opengood
+347d0ef33c889cc826d214caf8475ae0	King of Fighters R-1 (W) [M][!].ngp	ngp-opengood
+6fb354c220c8097bbd8b21980c580a3c	King of Fighters R-1 (W) [M][a1][!].ngp	ngp-opengood
+15d900184ae2c20d10a068d174e69673	King of Fighters R-1 (W) [M][a2][!].ngp	ngp-opengood
+cb711e7b8b8f6de45197bb90e322790f	King of Fighters R-1 (W) [M][h1].ngp	ngp-opengood
+acb335685ee2ec6f0ebeaa2de0e0a8ab	King of Fighters R-1 by Tintin Machine (Hack).ngp	ngp-opengood
+b29a436adb987f19b074a74e3d02f163	King of Fighters, The - Battle De Paradise - Monopoly (Hack).ngp	ngp-opengood
+9250b3328d64d3a1e7f9d50a04ceb64f	Master of Syougi (J) [M][!].ngp	ngp-opengood
+c2f6df7694efe3166d0071c99d929212	Master of Syougi (J) [M][b1].ngp	ngp-opengood
+e12f9f1ee83cfd7c6dc0d1dcd30dad4d	Master of Syougi (J) [M][b2].ngp	ngp-opengood
+b06c5f361d2312c3eaf2b605fea42b6f	Melon-chan no Seichou Nikki (J) [M].ngp	ngp-opengood
+104101b61276fff91574a50b6d5f38bc	Melon-chan no Seichou Nikki (J) [M][a1].ngp	ngp-opengood
+d87d876c4391935c9d48ef352a3ff02d	Neo Geo Pocket BIOS (J).bin	ngp-opengood
+30efe4f72d4678ffb97b885b1b7c3da1	NeoGeo Cup '98 (W) [M][!].ngp	ngp-opengood
+68fea8dc46923d0e37131d92d9b27065	NeoGeo Cup '98 (W) [M][a1].ngp	ngp-opengood
+6523c679a90573b09b4f70532cdff09c	Pocket Tennis - Pocket Sports Series (W) [M][!].ngp	ngp-opengood
+58308b9bdf0b90b632ac4d3655a81f6d	Pocket Tennis - Pocket Sports Series (W) [M][a1].ngp	ngp-opengood
+61cec52b03dbc1f1e31d8e363f76e0d1	Puzzle Tsunagete Pon! (J) [M].ngp	ngp-opengood
+9330c9a7bbd6a7dc5b5963a5b7623443	Puzzle Tsunagete Pon! (J) [M][a1].ngp	ngp-opengood
+006afe2dec77d73a2c592aeb1b3f694c	Real Casino Series - Neo Cherry Master (W) [M][!].ngp	ngp-opengood
+d13f954b2f1c703bdf857837c24e332e	Samurai Shodown! - Pocket Fighting Series (W) [M][!].ngp	ngp-opengood
+787ae44e1d54cac01a232efb838fb4d7	Samurai Shodown! - Pocket Fighting Series (W) [M][t1] (Button to Increase Blood).ngp	ngp-opengood
+b3003ae931a1122553ba507c85db59ff	SNK Vs. Capcom - Card Fighters Clash - Capcom Version (UE) [T+Bra1.00_Maggot].ngp	ngp-opengood
+baa74775b2e8cf30fadd05646cbbe49f	SNK Vs. Capcom - Card Fighters Clash - SNK Version (UE) [T+Bra1.00_Maggot].ngp	ngp-opengood
+05faac02b960bbb75f8ab7c80b538bba	SNK Vs. Capcom - Card Fighters Clash - SNK Version - Single Full Card no Shop Content V3 (Hack) [T+Chi1.39].ngp	ngp-opengood
+2eb93bd0df7345cc805651c78c0c00c3	SNK Vs. Capcom - Card Fighters Clash - SNK Version - Single Full Card V2 (Hack) [T+Chi1.37].ngp	ngp-opengood
+69091d37e296a0bece5d7e90ef5ec4fd	SNK Vs. Capcom - Card Fighters Clash - SNK Version - Single Full Card V3 (Hack) [T+Chi1.39].ngp	ngp-opengood
+185c73547f00152aef46e2982525f786	SNK Vs. Capcom - The Match of The Millennium (W) [T+Chi1.02].ngp	ngp-opengood

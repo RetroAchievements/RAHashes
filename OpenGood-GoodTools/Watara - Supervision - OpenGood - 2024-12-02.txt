@@ -1,0 +1,69 @@
+cf443f0a812ac7c34e33469f9e8132a8	Alien (199x) (Supervision).sv	wsv-opengood
+3d33521248e9b3968aa1a1bebc9cef24	Balloon Fight (199x) (Watara).sv	wsv-opengood
+316929b844f277c6b1c4ee1613d13394	Block Buster & Cross High (199x) (Supervision).sv	wsv-opengood
+95ffd2ff15dbb96e00a01641627b6e8a	Block Buster (199x) (Supervision).sv	wsv-opengood
+b7c5c8e371aef8b6772cc1b905612f2e	Brain Power (199x) (Supervision).sv	wsv-opengood
+b5c895fd2d9d85399def107ca8e6fdd4	Bubble World (1992) (Bon Treasure).sv	wsv-opengood
+7287e8127ac4f5d8b66ea63853792b7a	Carrier (199x) (Travellmate) [o1].sv	wsv-opengood
+d365fedc3073ad3e9231ecb763ed3072	Carrier (199x) (Travellmate).sv	wsv-opengood
+7d62668f72381a077688e91383109495	Cave Wonders (1992) (Bon Treasure).sv	wsv-opengood
+879479a6589df76a78f6a0622f2f46d5	Challenger Tank (199x) (Watara).sv	wsv-opengood
+b0cd30f6b9d94b301346300d2b5341d9	Chimera (199x) (Supervision).sv	wsv-opengood
+f90280e19a99be521fc4294d96e14298	Chinese Checkers (1992) (Sachen).sv	wsv-opengood
+6f6b636be7a380c20b375af9997aa45c	Classic Casino (1993) (Bon Treasure).sv	wsv-opengood
+d23a1614f0b9c8a789cef61733323399	Climber (1992) (Bon Treasure).sv	wsv-opengood
+d1c8064fdbf3e35f23030c23ccb4c053	Crystball (1991) (Travellmate).sv	wsv-opengood
+caeed584599c441ecd6a5bbc202cfae8	Dancing Block (1992) (Thin Chen Enterprise).sv	wsv-opengood
+b8195c48954c03dbd665da359ed77dc5	Delta Hero (1992) (Bon Treasure).sv	wsv-opengood
+43d15c879126e97708aef98d16de92f4	Dream World (1992) (Bon Treasure).sv	wsv-opengood
+48481be2481d1a1f2fbdae426d58df6e	Eagle Plan (1992) (GTC Inc).sv	wsv-opengood
+9f130a26b3843d6a59da894b3692b978	Earth Defender (1992) (Bon Treasure).sv	wsv-opengood
+622a64039da1bb856ddae1c89c1d909b	Fatal Craft (1992) (Bon Treasure).sv	wsv-opengood
+9f3af1177933d8ba8a9f5f0514edaebc	Final Combat (1992) (Thin Chen Enterprise).sv	wsv-opengood
+781a04596383581093e3d4e388078028	Final Combat (1992) (Watara).sv	wsv-opengood
+7cf57d6b9ac5d2935369be34d553d04d	Galactic Crusader (199x) (Watara).sv	wsv-opengood
+4ce6953562364bf13333f91a2fb7106e	Galaxy Fighter (1992) (Thin Chen Enterprise).sv	wsv-opengood
+cbaeae37f45ac9ce039779ec3fd1e840	Grand Prix (1992) (Bon Treasure).sv	wsv-opengood
+9584f03505b901570909d72cca88b10c	Happy Pairs (1992) (Sachen).sv	wsv-opengood
+6e90d2a3b9fc22a35ed886d3947ba22a	Happy Race (1992) (Sachen).sv	wsv-opengood
+4ed067ce17d373e3a531a422254b61e6	Hash Blocks & Eagle Plan (1992) (GTC Inc).sv	wsv-opengood
+33d66c6e198a63784e9d169291a737c5	Hash Blocks (1991) (GTC Inc).sv	wsv-opengood
+7272f41de036309c6b75bff001ea70c8	Hero Hawk (1992) (Thin Chen Enterprise).sv	wsv-opengood
+21395a6d09d75dc9ad2fe40a757815c7	Hero Kid (1992) (Hartung).sv	wsv-opengood
+52b72b95b4240c66e4fefeb1485bd394	Honey Bee (199x) (Watara).sv	wsv-opengood
+2570fc334466c45fd05488089cf396b5	Jacky Lucky (1992) (Bon Treasure).sv	wsv-opengood
+a896fc8bc1eba73a0689cb587c665e94	Jaguar Bomber (1992) (Bon Treasure).sv	wsv-opengood
+c1c6a01a67c0cb26c85e81f862f19e67	John Adventure (199x) (Watara).sv	wsv-opengood
+fd60a857d2c8d82f9b51c574910b9c83	Juggler (1992) (Bon Treasure).sv	wsv-opengood
+4beed52bbf858ed057260b3b57b94494	Kabi Island (199x) (Watara).sv	wsv-opengood
+a753cbbeb25563928aaf9b01b9be66fb	Kitchen War (1992) (Bon Treasure).sv	wsv-opengood
+bcfc1c956d7fd886ae0fd9dd6de4bef3	Kung-Fu Street (1993) (Thin Chen Enterprise).sv	wsv-opengood
+e3535104fd48c0ed3240b03065ea3a1f	Linear Racing (199x) (Watara).sv	wsv-opengood
+84fe136fd254f26d2a6b33a251ef7f0a	Magincross (1992) (Thin Chen Enterprise).sv	wsv-opengood
+946e0afdcd689697e0461b9a217c6495	Matta Blatta (199x) (Watara).sv	wsv-opengood
+5bdbff8fa9a0a8ce2157dedccfa7106d	Olympic Trials (1992) (Watara).sv	wsv-opengood
+c38e1c1c617d9611d3f6069a03024708	P52 Sea Battle (199x) (Watara).sv	wsv-opengood
+8f78dff4f064c7bd993060919b385c67	PacBoy & Mouse (199x) (Watara).sv	wsv-opengood
+214747cd1c32e7bb8dcfdf15595e6d94	Pacific Battle (1992) (Bon Treasure).sv	wsv-opengood
+bd5984aaf377631a824c7b6e67368bf1	Penguin Hideout (1992) (Thin Chen Enterprise) [o1].sv	wsv-opengood
+0ec15e7b722003989ec0094423e691f9	Penguin Hideout (1992) (Thin Chen Enterprise).sv	wsv-opengood
+427488cb0f3251a46e923f9e8608ff80	Police Bust (199x) (Bon Treasure).sv	wsv-opengood
+56c9c900eb04ee31963b256f530592c8	Popo Team (1992) (Sachen).sv	wsv-opengood
+15cd9f6729d5ad8ec2752fa0fe8b71ba	Pyramid (199x) (Watara).sv	wsv-opengood
+0a07c444324d0b41546e2363679360da	Recycle Design (1992) (Hartung).sv	wsv-opengood
+c07638809b49f2c922c4d4d7519e6f9c	Scaffolder (1992) (Bon Treasure).sv	wsv-opengood
+a6b4dee95c8995a1d5e31ee1c9c7086b	Soccer Champion (199x) (Hartung).sv	wsv-opengood
+b076cac52175ac41f0a673037b3bb07f	Sonny Xpress! (199x) (Watara).sv	wsv-opengood
+6a29877dad0a05cc10b8f15a38ff3369	Space Fighter (1992) (Bon Treasure).sv	wsv-opengood
+073cfcdefb73cf2bf9bc8b1978022432	SSSnake (199x) (Watara).sv	wsv-opengood
+a7da1d2450e4be9bd169f0fbdf2f9d72	Super Block (1992) (Bon Treasure) [o1].sv	wsv-opengood
+c85c839b5ded60edc0dc2c7a1b5d8a60	Super Block (1992) (Bon Treasure).sv	wsv-opengood
+d5ef26274492796050e53a1f5416152a	Super Kong (1992) (Thin Chen Enterprise).sv	wsv-opengood
+c93782ad97197a5134bb82a65bba1a54	Super Pang (1992) (Sachen).sv	wsv-opengood
+e0ed04b139740452995d962827759a7f	Tasac 2010 (1992) (Thin Chen Enterprise).sv	wsv-opengood
+0a4c64f3aba648eaa8e0a74f1db8336c	Tennis Pro '92 (1992) (B.I.T.S).sv	wsv-opengood
+5a578d07bb4da9215acdc2343e337059	Thunder Shooting (1992) (Thin Chen Enterprise).sv	wsv-opengood
+c5f068b51d50b4e86d63fe7404984002	Treasure Hunter (199x) (Watara).sv	wsv-opengood
+e3494460f4a14c18a2aafa0d791189f8	TV-Link (199x) (Watara).sv	wsv-opengood
+960b42f19443b8f897a4c85686f3ad59	Untouchable (199x) (Bon Treasure).sv	wsv-opengood
+1cce14e748212e75c21966f12ac5fe1a	Witty Cat (199x) (Bon Treasure).sv	wsv-opengood

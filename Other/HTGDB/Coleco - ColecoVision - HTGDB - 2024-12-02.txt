@@ -1,0 +1,512 @@
+0dfb83c1353481d297dfcc6123978533	2010 - The Graphic Action Game (USA).col	colecovision-htgdb
+db88c443599a57c1f436f146b632caa7	Activision Decathlon, The (USA).col	colecovision-htgdb
+803914bbde6822ebf113d5b1d1cf7011	Alcazar - The Forgotten Fortress (USA).col	colecovision-htgdb
+d2b2efd04ef3e2596bfca82262f98664	Alphabet Zoo (USA).col	colecovision-htgdb
+cf16e88f3b2f84f8ee83c69c4e773e00	Amazing Bumpman (USA).col	colecovision-htgdb
+1ea45edc04bc4df444a38e50f8a75d5d	Antarctic Adventure (USA, Europe).col	colecovision-htgdb
+c152cd482635307598c465dfc3c97c54	Aquattack (USA).col	colecovision-htgdb
+fabbbf6dfcb0628fa33b476750a492f8	Artillery Duel (USA).col	colecovision-htgdb
+a1fa161de97e6084691f3bc6f5f46f55	BC's Quest for Tires (Canada).col	colecovision-htgdb
+737c5247b06a7af4f9c59f46791f3bc2	BC's Quest for Tires (USA).col	colecovision-htgdb
+dcc316df4898d4836c1e430692fd9fd5	BC's Quest for Tires II - Grog's Revenge (Canada).col	colecovision-htgdb
+a67908b20a85451a47154bdbcf0cd4fd	BC's Quest for Tires II - Grog's Revenge (USA).col	colecovision-htgdb
+b3949ef4ab2b65224d5011c49b755d96	Beamrider (USA).col	colecovision-htgdb
+93d5326c54f1a92a18e843838aee441f	Blockade Runner (USA).col	colecovision-htgdb
+ff055f329760980900bbe2f973a9ece6	Boulder Dash (USA).col	colecovision-htgdb
+302846579767d876883d8a560738daae	Brain Strainers (USA).col	colecovision-htgdb
+d032d6e0a34d427f7885e88d308f8d92	Buck Rogers - Planet of Zoom (USA, Europe).col	colecovision-htgdb
+d365cf7b774679842a9f99953b97ab0a	Bump 'n' Jump (USA, Europe).col	colecovision-htgdb
+927ce5ba5bf3e0f6c8c5a115db51f264	BurgerTime (USA, Europe).col	colecovision-htgdb
+6f612e24b83a98096b67aaf6bb9083a3	Cabbage Patch Kids - Adventures in the Park (USA, Europe).col	colecovision-htgdb
+43b04118ccbaf221e829e1b75870cbd6	Cabbage Patch Kids - Picture Show (USA).col	colecovision-htgdb
+a7f6a6bd45c7ebfc7f8fc0f11eeea000	Campaign '84 (USA).col	colecovision-htgdb
+f44e87fd71785824ac2ffb9927337886	Carnival (USA, Europe).col	colecovision-htgdb
+8204c7a70a5139610c9211ae4bdae9ae	CAT S.O.S. Game, The (USA) (Promo).col	colecovision-htgdb
+25ef922aa95b246d6894f5c4c5b29c97	Centipede (USA).col	colecovision-htgdb
+b3719118e9cfcc1234cd01c1e3fb84cf	Choplifter! (USA).col	colecovision-htgdb
+5a539c992ec8040b914098d0a9b23d09	Chuck Norris - Superkicks (USA).col	colecovision-htgdb
+1e5dc0f3a8b974b20340bdf8593b309b	Congo Bongo (USA).col	colecovision-htgdb
+cfbd4a478e7019422c306837444d2e46	Cosmic Avenger (USA, Europe).col	colecovision-htgdb
+3ae1ddd596faaced37274dd407d5523c	Cosmic Crisis (Europe).col	colecovision-htgdb
+dd01108c4b4a62d64b2da39424896b6a	Dam Busters, The (Canada).col	colecovision-htgdb
+d6e826d832e13c13073dfba3b26d899e	Dam Busters, The (USA).col	colecovision-htgdb
+22e8c9e71474f2715f20250f7921d2c1	Dance Fantasy (USA).col	colecovision-htgdb
+ad5000952034853819769ce22b9cf788	Defender (USA) (BUG Fixed).col	colecovision-htgdb
+00123e08f138b7094601ea8d13d5336d	Defender (USA).col	colecovision-htgdb
+ec72a0e3bebe07ba631a8dcb750c1591	Destructor (USA, Europe).col	colecovision-htgdb
+613a3e457758e274a0e0819ff6aa2d43	Donkey Kong (USA, Europe) (v1.1).col	colecovision-htgdb
+1eb2b9c2d1d113f3860f345a07baeb42	Donkey Kong Junior (USA, Europe).col	colecovision-htgdb
+ae08d5ca51c1e623ad92511d5c5babb5	Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA).col	colecovision-htgdb
+37c56fabd85c91f365bf2f1152f59081	Dragonfire (USA).col	colecovision-htgdb
+dbd4f21702be17775e84b2fb6c534c94	Dukes of Hazzard, The (USA).col	colecovision-htgdb
+627d22dce35311aae18b0c085f1a3b21	Evolution (Canada).col	colecovision-htgdb
+d370ffe83d7cb483664bd9921c25a4f5	Facemaker (USA).col	colecovision-htgdb
+43d37801db445b5411488ac399bbc20c	Fathom (USA).col	colecovision-htgdb
+9cd9153748b24d0b5fd877686a3e5c67	Flipper Slipper (USA, Europe).col	colecovision-htgdb
+b6e01df73b83911cadb4840e5fd920f1	Fortune Builder (USA).col	colecovision-htgdb
+244d9c613525390b0129a57aa05c0437	Fraction Fever (USA).col	colecovision-htgdb
+721b56f46c0b5714aebef48049c6ae80	Frantic Freddy (USA).col	colecovision-htgdb
+ec8f7fea2f00df94ded932d49bd8a7f9	Frenzy (USA, Europe).col	colecovision-htgdb
+6542a61237d7f2cb4364e0068c47fae7	Frogger (USA).col	colecovision-htgdb
+ade03210d571409ecb18d5bfaefdad03	Frogger (USA).col	colecovision-htgdb
+48f68ea0446584dc330f8be85f660194	Frogger II - ThreeeDeep! (USA).col	colecovision-htgdb
+4520ee5d8d0fcf151a3332966f7ebda0	Front Line (USA, Europe) (Standard Controller).col	colecovision-htgdb
+26dff388cd543b79a4d35662064ddaf7	Galaxian (USA).col	colecovision-htgdb
+7262176bb5917af526243438f6c8d9e4	Gateway to Apshai (USA, Europe).col	colecovision-htgdb
+e751e5d60a2259334b80ce63d2b69c3a	Gorf (USA, Europe).col	colecovision-htgdb
+c1c390a00802e041fbee750a33ac9030	Gust Buster (USA).col	colecovision-htgdb
+fd499d2d7ed864f81c6f01a9ad4b4442	Gyruss (USA).col	colecovision-htgdb
+e39e7552b8681346aa107c1279911750	H.E.R.O. - Helicopter Emergency Rescue Operation (USA).col	colecovision-htgdb
+ad7d739299287f4dd72efb1f000b3352	Heist, The (USA).col	colecovision-htgdb
+369d9eccc683aaf56afec83a16d32ae3	Illusions (USA).col	colecovision-htgdb
+f127f45209247a1f351eb2dbd2fb24db	It's Only Rock 'N' Roll (USA).col	colecovision-htgdb
+c7ea91d9ac4d4a104d8e7832f8db3962	James Bond 007 (USA).col	colecovision-htgdb
+cb032c267c8d4a488aebda7de335d5a8	Jukebox (USA).col	colecovision-htgdb
+0b70e3e59f72137a4a017f3761b24ff7	Julius Erving and Larry Bird Go - One-on-One (USA).col	colecovision-htgdb
+5454538f617f2ccf56cb7e0f5a45d11b	Jumpman Junior (USA, Europe).col	colecovision-htgdb
+d6f4df2726159c5aedae9efd21307f09	Jungle Hunt (USA).col	colecovision-htgdb
+9266e9fac663332ed330b19a87841f0b	Ken Uston Blackjack-Poker (USA, Europe).col	colecovision-htgdb
+7fc266ca1e05305c7d0244f663495f7d	Keystone Kapers (USA).col	colecovision-htgdb
+013cc5515769b0a099dd38506983f1ab	Lady Bug (USA, Europe).col	colecovision-htgdb
+118a7ebc86bb949c32edfb662abf6d0d	Learning with Leeper (USA).col	colecovision-htgdb
+483168cf007461f3cdece072691d7547	Linking Logic (USA).col	colecovision-htgdb
+2efb2cf56d826cafc1b1838af7c554c5	Logic Levels (USA).col	colecovision-htgdb
+c4b08b67aec8b8835e8f0e6aeb85260c	Looping (USA, Europe).col	colecovision-htgdb
+83fee1150c333f0540dd222b4fc7ffb5	Memory Manor (USA).col	colecovision-htgdb
+626fc333194b13cb4f78d8577684685c	Meteoric Shower (Europe).col	colecovision-htgdb
+3a1ef8e754016c87ead2335d7641f27a	Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1).col	colecovision-htgdb
+6cd6a23e951c0ec6da23d1335812bff2	Monkey Academy (USA).col	colecovision-htgdb
+f7f5da82e247df6f5097755deffde0ed	Montezuma's Revenge (USA).col	colecovision-htgdb
+42447cf41e7afb267c262e578f0f24b1	Moonsweeper (USA, Europe).col	colecovision-htgdb
+08dbf281e89c73802da5b508960c08f4	Motocross Racer (USA).col	colecovision-htgdb
+bb79207c51e772fd26276712cc4e6927	Mountain King (USA).col	colecovision-htgdb
+c8f0d1ee5494dab146c82a4ebecaff4a	Mouse Trap (USA, Europe).col	colecovision-htgdb
+de0b1b1ec005bb1765e1ceffdfa3e92e	Mr. Do! (USA, Europe).col	colecovision-htgdb
+7eaa827c9976e24e47ef49e2b1e2f0f7	Mr. Do!'s Castle (USA).col	colecovision-htgdb
+745067096d2dda2c62874b60bab4f625	Nova Blast (USA, Europe).col	colecovision-htgdb
+e7d10b763454692ea8a6da95fccdbd87	Oil's Well (USA).col	colecovision-htgdb
+28ed941c2746d50e62dd3acd29c7675e	Omega Race (USA, Europe).col	colecovision-htgdb
+679f02b1d1a7d68af42735d67cbccaff	Pepper II (USA, Europe).col	colecovision-htgdb
+9dc247f82da83e03c8d0592825f03d52	Pitfall II - Lost Caverns (USA).col	colecovision-htgdb
+40187a21b1243686c68fa2aa11efba41	Pitfall! (USA).col	colecovision-htgdb
+871bc6498639031d782f84775cb3745c	Pitstop (USA, Europe) (v1.1).col	colecovision-htgdb
+a7773e1265e0089bc8f148527256a20e	Popeye (USA).col	colecovision-htgdb
+249e88fa4361edea2a98056954371c72	Q-bert (USA).col	colecovision-htgdb
+d6ef0832f3ff45b6358c445be645dc11	Q-bert's Qubes (USA).col	colecovision-htgdb
+446256285c3b1dcf012d36b26f8fdb6b	Quest for Quintana Roo (USA).col	colecovision-htgdb
+aebf917b911086bcf0b818d7b888d87d	River Raid (USA).col	colecovision-htgdb
+a3bb14317c4a3f1788d550859d4bbe9d	Robin Hood (USA).col	colecovision-htgdb
+e2c60e37df1e7205eecba716dd3d5f84	Roc 'N Rope (USA, Europe).col	colecovision-htgdb
+ce4466aa6bc973c5021577578d881aed	Rock n' Bolt (USA).col	colecovision-htgdb
+d35fdb81f4a733925b0a33dfb53d9d78	Rocky - Super Action Boxing (USA, Europe).col	colecovision-htgdb
+09b1fbd8e7b09d423894c155a24c569f	Rolloverture (USA).col	colecovision-htgdb
+6cdb3a03f8d66bedbd29899895d83f94	Root Beer Tapper (USA).col	colecovision-htgdb
+78f37e95058f08c4995cf95598ee2a4f	Sammy Lightfoot (USA).col	colecovision-htgdb
+09bf95c028205bc218bbb67116cdf688	Sector Alpha (USA).col	colecovision-htgdb
+5de08cbdc916708999328e720ea2e703	Sewer Sam (USA).col	colecovision-htgdb
+ae936b4f13874715d5fbebee379febfb	Sir Lancelot (USA).col	colecovision-htgdb
+a9e17aac9858dcc504879e45f50bd3ac	Skiing (USA).col	colecovision-htgdb
+7cdc148dff40389fa1ad012d4734ceed	Slither (USA, Europe).col	colecovision-htgdb
+5fac2d8e197b781b65a5a9aa6984d003	Slurpy (USA).col	colecovision-htgdb
+21a5eebfd7cd1ce2de04efeb1f4e726b	Smurf - Paint 'n' Play WORKSHOP (USA, Europe).col	colecovision-htgdb
+c29e282c81ce9b40f39f493f51725d3c	Smurf - Rescue in Gargamel's Castle (USA, Europe).col	colecovision-htgdb
+f821cf20b7faa5c2cb738cd8aa90dc95	Space Fury (USA, Europe).col	colecovision-htgdb
+2a1f023ee4798230e59bfa14cf6c497a	Space Panic (USA, Europe).col	colecovision-htgdb
+cb7b1a5906a00c6b246de20c21aa646b	Spectron (USA).col	colecovision-htgdb
+f96a21f920e889d1e21abbf00f4d381d	Spy Hunter (USA).col	colecovision-htgdb
+90e1b27110a1b89cb1ad3e225db20832	Squish'em Featuring Sam (USA).col	colecovision-htgdb
+45006eaf52ee16ddcadd1dca68b265c8	Star Trek - Strategic Operations Simulator (USA).col	colecovision-htgdb
+3addc2a93bcb803ac136801ab1b8695a	Star Wars - The Arcade Game (USA).col	colecovision-htgdb
+2425b11952e79c247f13e341297f48bf	Strike It! (Europe).col	colecovision-htgdb
+b86bcbbd27f9574d3f0c8dd3cdfba45d	Subroc (USA, Europe).col	colecovision-htgdb
+4c4b25a93301e59b86decb0df7a0ee51	Super Action Baseball (USA).col	colecovision-htgdb
+8aabed060476fde3cc706c6463f02980	Super Action Football (Europe).col	colecovision-htgdb
+bee90a110d14b29d2e64f0ff0f303bc6	Super Action Football (USA).col	colecovision-htgdb
+3f79a5be2f84d9856a99b9ae31f36ba1	Super Cobra (USA).col	colecovision-htgdb
+633d8d532b8c2435ec6635be1fff1391	Super Cross Force (USA, Europe).col	colecovision-htgdb
+3016b5b55ce162ae47f03af71fbb5c0d	Tank Wars (Europe).col	colecovision-htgdb
+61a2cb023a393446d8e8b8b1147bec48	Tarzan (USA, Europe).col	colecovision-htgdb
+344a7b1983cf6ee9483de57029cada0b	Telly Turtle (USA).col	colecovision-htgdb
+e932f6f176f98f5fe85ced5401c51750	Threshold (USA).col	colecovision-htgdb
+91c7b5d4ea94092f6e18da4775656d4b	Time Pilot (USA, Europe).col	colecovision-htgdb
+05bb27ab721b0cfd8ce5157102f73e39	TOMARC the Barbarian (USA).col	colecovision-htgdb
+b85e0c632b351c3d42a2be4198cfa663	Tournament Tennis (USA).col	colecovision-htgdb
+6f146d9bd3f64bbc006a761f59e2a1cf	Turbo (USA, Europe).col	colecovision-htgdb
+f042ba432716b58d2f5858abcce81b9f	Turbo (USA, Europe).col	colecovision-htgdb
+79db029b4e77bc2752ab97bd4df03428	Tutankham (USA).col	colecovision-htgdb
+9a66cd7c393517799864a3c36e7d03f2	Tutankham (USA).col	colecovision-htgdb
+90e261510765deecaeac8283aa88d815	Up 'n Down (USA).col	colecovision-htgdb
+ad22023a11a3bcb107610d2af5a6be77	Venture (USA, Europe).col	colecovision-htgdb
+471fb530b175297b94d06b73a1f140db	Victory (2010 Daniel Bienvenu) [Standard Controller Hack].col	colecovision-htgdb
+a31facd8adc1134942d9f4102dd3fa9f	Victory (Europe).col	colecovision-htgdb
+200aa603996bfd2734e353098ebe8dd5	Victory (USA).col	colecovision-htgdb
+0d59da8c315d22f58909c73b851299ee	War Room (USA).col	colecovision-htgdb
+000c7331d4598b0fa414be5fb2a603b5	WarGames (USA, Europe).col	colecovision-htgdb
+70672a0737c4986d31589b1ed0108cb1	Wing War (USA).col	colecovision-htgdb
+3b22824d1910226582a5d8dddc0b2feb	Wizard of Id's - WizMath (USA).col	colecovision-htgdb
+8148c6e4ea8e1e38e43a4f9576468ff5	Word Feud (USA).col	colecovision-htgdb
+7c677f80c4ee957559d7abebd8ee1be1	Zaxxon (USA, Europe).col	colecovision-htgdb
+5595dc8acc25f51aaed0d72bbb96e68b	Zenji (USA).col	colecovision-htgdb
+e7af8dc8712a761c418e91598a5eee1c	Omega Race (USA, Europe).col	colecovision-htgdb-arcade-conversion
+04d94acc4ee8639e8ebc619521f75f34	Popeye (USA).col	colecovision-htgdb-arcade-conversion
+39e841b8d643dfe9e68f71c3259100fc	Q-Bert's Qubes (USA).col	colecovision-htgdb-arcade-conversion
+536a20f7a88b6bfd296e6542b79a2762	Super Cobra (USA).col	colecovision-htgdb-arcade-conversion
+5a19ede183558b22bba0d3dd3e7b3122	2010 - The Graphic Action Game (USA) (Beta).col	colecovision-htgdb-betas
+2aa54fb66f8764841be2e59d41fecb2d	Antarctic Adventure (USA, Europe) (Beta).col	colecovision-htgdb-betas
+ceff12f5d453cc60b6f4441b9042eac0	Boulder Dash (USA) (Beta).col	colecovision-htgdb-betas
+19098349768ea68a2c9f3d711369970a	Bump 'n' Jump (USA, Europe) (Beta).col	colecovision-htgdb-betas
+45295e9ba099c8cae1dd893a1d5a380b	BurgerTime (USA, Europe) (Beta).col	colecovision-htgdb-betas
+ade704f01e694fb539bd805d9e276c99	Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 1).col	colecovision-htgdb-betas
+4bf6a6143d8c0596ba4549c66eea9d67	Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 2).col	colecovision-htgdb-betas
+fe887d98baba2859fcc6d1010d9e89d4	Frogger II - ThreeeDeep! (USA) (Beta) (1984-06-15).col	colecovision-htgdb-betas
+89219c0fbedcab47c5c32740874bcd20	Gyruss (USA) (Beta).col	colecovision-htgdb-betas
+d5964ac4e7b1fd3ae91a8008ef57a3cc	Lord of the Dungeon (USA) (Beta).col	colecovision-htgdb-betas
+73acd858c434721f4551d3a2777d6756	Monkey Academy (USA) (Beta).col	colecovision-htgdb-betas
+52eab97fc46601595999bdb78ea1630e	Number Bumper (USA) (Beta).col	colecovision-htgdb-betas
+7da9f2fda17e1e34a41b180d1ceb0c37	Spy Hunter (USA) (Beta).col	colecovision-htgdb-betas
+2dddd62ce1a8479e8ed4de364cbac51c	Star Wars - The Arcade Game (USA) (Beta) (1984-04-12).col	colecovision-htgdb-betas
+d13b965a8be5c366e80b8c508f849cc5	Berenstain Bears, The (USA) (Demo).col	colecovision-htgdb-demos
+f4b04cb457f32ada66c88bc80f562419	Smurfs Save the Day (USA) (Demo).col	colecovision-htgdb-demos
+975be9f3bd5458443d886af61e8bbc61	Sword and the Sorcerer, The (USA) (Demo).col	colecovision-htgdb-demos
+6d306c6551393ba7c0b89db688c9aa0a	Tunnels & Trolls (USA) (Demo).col	colecovision-htgdb-demos
+b1546dc4e963d5a2bc6c84388ab62669	421 (2002 Mathieu Proulx).col	colecovision-htgdb-homebrew
+35ac1b561d68f438cc856ed36a8a6fb4	Adventure Of A Witch - The Flightful Night (2015 Chris Derrig) [WIP].col	colecovision-htgdb-homebrew
+b6ae584b2ba8135176fcb89e61d837b3	Amazing Snake (2001 Serge-Eric Tremblay).col	colecovision-htgdb-homebrew
+e8277b124ff8a849bb62497dcdec0bc1	AntiISDA Warrior (2004 Ventzislav Tzvetkov).col	colecovision-htgdb-homebrew
+67e7719ab105f9df3eaf38f6fd5c3430	Arkanoid SGM (2018 CollectorVision Games).col	colecovision-htgdb-homebrew
+399ca24695a381998ab34a67f12ba687	Armageddon (2011 Collectorvision Games).col	colecovision-htgdb-homebrew
+e5972d0a096b60d0c3e827e17a70b89b	Astro Invader (2005 Atariage).col	colecovision-htgdb-homebrew
+d042297c1480ccebec7d3a5e431b9153	Astrododge (2012 Revival Studios).col	colecovision-htgdb-homebrew
+635152374bc1337cc41483ad6ef17b86	Bagman (2015 Collectorvision Games).col	colecovision-htgdb-homebrew
+e3075545df9526e7fa30794df1708600	Bank Panic (2011 Team Pixelboy).col	colecovision-htgdb-homebrew
+1dd24cf3259af5f8fa44ca3a1266b51a	Bankruptcy Builder (2013 Good Deal Games).col	colecovision-htgdb-homebrew
+5289be340d940e942d74a6c4f2707fda	Battle Of Hoth (2013 Team Pixelboy).col	colecovision-htgdb-homebrew
+d4de9cddf1ee32bea6f407ced643cbf7	Bejeweled (2002 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+c06caf966a417bce1b11ffc46e713548	Black Onyx, The (2007 Bruce Tomlin).ce0	colecovision-htgdb-homebrew
+72354515df679a7ae8597a0cbf705f95	Black Onyx, The (2013 Team Pixelboy).ce0	colecovision-htgdb-homebrew
+e66d92b2384c1d5c1789c49b7d8182c2	Bomb Jack (2015 CollectorVision Games).col	colecovision-htgdb-homebrew
+a51708f42ebf664dbcbf0ff3ffdef0bd	Bomb'n Blast (2011 Collectorvision Games).col	colecovision-htgdb-homebrew
+6acf055212043cd047202adc3316e85c	Boxxle (2015 Team Pixalboy).ce1	colecovision-htgdb-homebrew
+5556e14cfd72dae9de4e9201d269e1cc	Breakout (1999 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+8f4dfdacab1099cde163c6039278af72	Bugs'n Bots (2012 Collectorvision Games).col	colecovision-htgdb-homebrew
+49c23fc32f5f07a10e5af504fca93c99	Burn Rubber (2012 Collectorvision Games).col	colecovision-htgdb-homebrew
+a96bdc3b71db8154a408fe36fb01286c	Buster Bros. - Pang (2012 Collectorvision Games).col	colecovision-htgdb-homebrew
+49fcfab535485eaff189190d96aa4924	BUsTin-Out Volume 0 (2000 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+f1379a60d0f88df41b080532e86ed4f9	BUsTin-Out Volume 1 (2000 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+51e907bd461ca44a6aa9e0df6f85c5a4	BUsTin-Out Volume 2 (2000 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+387592f78bd62cc6e4351f34145e5580	BUsTin-Out Volume 3 (2000 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+a778c60f642fdc4bcedb7f5e2a166f84	C-So! (2018 Team Pixelboy).col	colecovision-htgdb-homebrew
+3d24a888b790799d515b17cdfeb37448	Canadian Minigames (2008 Wick-Foster-Bienvenu).col	colecovision-htgdb-homebrew
+60fc7d80fde72caf5ccc2b7803c4fada	Casio's Car Fighter (2018 Collectorvision Games).col	colecovision-htgdb-homebrew
+d6fa99c49c97e626a248f79680801d1c	Castle Excellent (2018 Collectorvision Games).col	colecovision-htgdb-homebrew
+6761f6f7ec26d3f44b609952f696dafe	Castle, The (2018 Collectorvision Games).col	colecovision-htgdb-homebrew
+9023a47b281b9383aefdd0153d4e36a3	Caterpillar - Scheduled Oil Sampling (2011 Collectorvision Games).col	colecovision-htgdb-homebrew
+46c738b4d21c395d9294d355e461f5bc	Chack'n Pop (2011 Collectorvision Games).col	colecovision-htgdb-homebrew
+40f3007bebe630a0e9e14349dfcfea07	Champion Pro Wrestling (2018 Team Pixelboy).col	colecovision-htgdb-homebrew
+a668ffaa1bde142126ca58d2118500ea	Chateau Du Dragon (2001 Daniel Bienvenu) [WIP].col	colecovision-htgdb-homebrew
+12cd3d327577cabcf38873cc1959e5af	Chess Challenger (2012 Collectorvision Games).col	colecovision-htgdb-homebrew
+353e9cde866ea405e6a1cd6e5df4f032	Circus Charlie (2011 Team Pixelboy).col	colecovision-htgdb-homebrew
+aeb59a6dea201fc86051743c486663f2	Cix (2013 Good Deal Games).col	colecovision-htgdb-homebrew
+f56e4d17741965a0040e77a11fc4b4ba	Colored Gravity (2008 Philip Klaus Krause).col	colecovision-htgdb-homebrew
+df42fc3c4cf4f86dbc83ce55911db186	Commando Returns (2012 Michel Louvet) [WIP].col	colecovision-htgdb-homebrew
+61b8e95c385ee138663ab830544780ed	Computer Space (2014 Collectorvision Games).col	colecovision-htgdb-homebrew
+3ce1d7ddf53632478613d4f4a9bc41f2	Cosmo Challenge (1997 Marcel de Kogel).col	colecovision-htgdb-homebrew
+cf3139be847e46d5957c4b00a1921db9	Cosmo Fighter 2 (1997 Marcel de Kogel).col	colecovision-htgdb-homebrew
+0e6051032c701e4ee39a5881ecc5f06a	Cosmo Fighter 3 (2010 Good Deal Games).col	colecovision-htgdb-homebrew
+455f444ff2500727fd181d0195f873ff	Cosmo Trainer (1997 Marcel de Kogel).col	colecovision-htgdb-homebrew
+121143a01aa0087b03483e2e50c17a15	DacMan (2000 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+4cd97be9579fc360f909fc3c1081fdf4	Deflektor Kollection (2005 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+e937ac542f6713cb68185983ed5784d0	Destructor (2010 Daniel Bienvenu) [Standard Controller Hack].col	colecovision-htgdb-homebrew
+87d7d355ede1235ac6134cfd8b0832b9	Destructor (Standard Controller Hack) (2010 Team Pixelboy).col	colecovision-htgdb-homebrew
+d4a1590e39d116b90956c7a2abff554a	Diamond Dash (2004 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+1c6ce2bc53eadc8e79819cd52233cde8	Digger (2015 Collectorvision Games).col	colecovision-htgdb-homebrew
+7a2563226387fc1f8a12ac2e1e68a8a9	Double Breakout (2003 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+446c0123b32cad57a1fc3ff0f8fa0cc4	DP's Valentine Game (2002 Daniel Bienvenu) [No Alien].col	colecovision-htgdb-homebrew
+d8d0e4e528b517639c9190b3b8c63fd0	DP's Valentine Game (2002 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+da7ec9ce1f1faf548ef48da5550b8552	Drol (2016 Collectorvision Games).col	colecovision-htgdb-homebrew
+f6c0efb4ca22f8103eaaed66072f46b9	Dungeon & Trolls (2014 Collectorvision Games).col	colecovision-htgdb-homebrew
+73b57753013ec608c13c7fa69872cc9a	Earth Defend 2083 (2013 Collectorvision Games).col	colecovision-htgdb-homebrew
+cb577e4798d1347804e95fdd80a1a2a4	Easter Bunny (2007 Daniel Bienvenu) [Title Screen].col	colecovision-htgdb-homebrew
+a7a0f0c82b04db1cc4315ea89b50ab53	Easter Bunny (2007 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+e76d042c68f441fdf71248dbf272f721	Electric Adventures' Classics (2013 Collectorvision Games).col	colecovision-htgdb-homebrew
+2daffa4659e9a42364faa82e7f180988	Elevator Action (2012 Collectorvision Games).col	colecovision-htgdb-homebrew
+59e0e1e6af4c68e7b74458efad7e3f15	Flappe Byrd (2014 Collectorvision Games).col	colecovision-htgdb-homebrew
+4bad9fc572a885aed40e43ad68dcf30c	Flicky (2017 Team Pixelboy).col	colecovision-htgdb-homebrew
+6bcbc5a0bb58c8301e039fcb9e0ce84f	Flora And The Ghost Mirror (2012 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+8a5201c9dec68ed405f2d82287c746ae	Frog Feast (20XX Robert).col	colecovision-htgdb-homebrew
+b4d15dc2a2af2b28d6aa4ee5f600bba2	Frog Magi (200X Dale Wick).col	colecovision-htgdb-homebrew
+787177e9c8160787ba1d90d8dcb75323	Front Line S.C.E. (2015 Team Pixelboy).col	colecovision-htgdb-homebrew
+9c3a581843ce1efe220e7e726cadb9ea	Frostbite (2017 Team Pixelboy).col	colecovision-htgdb-homebrew
+f793e20fbba2cda78e605eca09c8b935	Game Pack 1 (2002 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+0567f3d69caa15ebb554283d77f29217	Game Pack 2 (2004 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+3f103f934ae174159f2b7dd6f3a12c6a	Game Pack Vic-20 (2003 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+48cd660a5b2461bac7a7ddcb32900808	Get Booty (2005 Dale Wick) [4K].col	colecovision-htgdb-homebrew
+1a6e5ae28ae7d835a7f3b1ed7f3c4d32	Ghost N Zombies A Quest For A Rose  (2009 Collectorvision Games).col	colecovision-htgdb-homebrew
+3de2007c806a26c4c62cdb47bb3d6a6b	GhostBlaster (2009 Daniel Bienvenu) [Rev.A NTSC].col	colecovision-htgdb-homebrew
+c0f2fe0ecf5bf7e6b4b569b359760681	GhostBlaster (2009 Daniel Bienvenu) [Rev.B PAL].col	colecovision-htgdb-homebrew
+c66139aac1b1ac2f54dfaad483a6ebcc	GhostBlaster (2009 Daniel Bienvenu) [Rev.B2 PAL].col	colecovision-htgdb-homebrew
+846808155ad262408e05e45f96a7031f	Girl's Garden (2010 Team Pixelboy).col	colecovision-htgdb-homebrew
+3acdb4de7d7f4666c10214fd71272897	Golgo 13 (2011 Team Pixelboy).col	colecovision-htgdb-homebrew
+db485fee649778e682b9f409fa12380f	Grail Of The God (Bugfix2).col	colecovision-htgdb-homebrew
+c3819373f2ff17bc870e9a26ed3a1cf6	Gulkave (2010 Team Pixelboy).col	colecovision-htgdb-homebrew
+d7335518fa93eeb93aec2aeeb2141ab5	Hang-On (2016 Collectorvision Games).col	colecovision-htgdb-homebrew
+ea2fdd64284179eb03f29c8d6f44d053	Happy Halloween (2001 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+6d52062acf718725d1a34afd96f899a5	Haunted Caves (2013 Nicolas Campion).col	colecovision-htgdb-homebrew
+04e615b23f5d55aad821cb0adf4bba6e	Insane Pickin' Sticks VIII (2009 Daniel Bienvenu) [4K].col	colecovision-htgdb-homebrew
+fa6cc4752e31e971eb8afad01ec9a285	Insane Pickin' Sticks VIII (2009 Daniel Bienvenu) [Over 9000].col	colecovision-htgdb-homebrew
+7eda9a3376d2c4a11b52931db90d2ddf	Jeepers Creepers (2007 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+b0a6ef607464623d2d71722925346fe8	Jet Pack (2014 Harvey DeKline).col	colecovision-htgdb-homebrew
+fa003a11f3878df649a47e97c05f2f27	Joust (2014 Team Pixelboy).col	colecovision-htgdb-homebrew
+cd318b2a5e3486dc5fa0b47cfe8085de	Jump Or Die (2006 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+a3b2be239b19d75db89fb10cd289a666	Junkwall (2016 Collectorvision Games).col	colecovision-htgdb-homebrew
+2ebff433d6effe5812f283d6bfd79ce2	Kaboom (2017 Team Pixelboy).col	colecovision-htgdb-homebrew
+813c90067297a7a2de6568d3092ace99	Kevtris (1996 Kevin Horton).col	colecovision-htgdb-homebrew
+51bc0d5bf438cf8d858c14c2d0f62d19	Knight N' More (2016 Cote Gamers).col	colecovision-htgdb-homebrew
+c7d9ee186b8a64719d68846b8e043ee7	Knight Quest (2013 Nicolas Campion) [WIP].col	colecovision-htgdb-homebrew
+4e1bc38c1cdb7cd26757c993b28cb290	Kobashi (2010 Collectorvision Games).col	colecovision-htgdb-homebrew
+4254e18c758e0614e4d02c1966067e95	Konami's Antarctic Adventure.col	colecovision-htgdb-homebrew
+3f72312a61c07182809381bf43be567c	Konami's Ping Pong (2011 Team Pixelboy).col	colecovision-htgdb-homebrew
+af6a4dca2ea53ceb7c7497090aaf9644	Kralizec Tetris (2017 Team Pixelboy).col	colecovision-htgdb-homebrew
+17bf7edc3a915d7e2f4b9cd3f50e532a	Light Grid Racing  (2015 Collectorvision Games).col	colecovision-htgdb-homebrew
+0ab5eef94bd53cf35ea9bccb29f843ca	Lock'n Chase (2012 Collectorvision Games).col	colecovision-htgdb-homebrew
+24adb75e3615bf42b6556a2c0b4aab22	Lode Runner (2013 Collectorvision Games).col	colecovision-htgdb-homebrew
+b743fbdb0e466169fcc9fc8762b915c5	Magical Tree (2006 Opcode Games).col	colecovision-htgdb-homebrew
+7b46a7ebb2162aa8db781e91eb98bffb	Maid Of The Mist (2007 Dale Wick).col	colecovision-htgdb-homebrew
+c80fcc8d4951b534c330dc8c7ebc8666	Mario Bros (Not For Resale)(2009 Collectorvision Games).col	colecovision-htgdb-homebrew
+835f13d5c546b140f899fed0853f88f1	Mario Bros (Rev D)(2009 Collectorvision Games).col	colecovision-htgdb-homebrew
+5833b958ecf1b72c3b11e75d79b7d875	Maze Maniac (2005 Charles-Mathieu Boyer).col	colecovision-htgdb-homebrew
+6cbc06cba388acf43d55572f11d0ed26	MazezaM (200X Ventzislav Tzvetkov).col	colecovision-htgdb-homebrew
+1ef1e9c1d98216df36ac526efd792921	MazezaM (2016 Collectorvision Games).col	colecovision-htgdb-homebrew
+71fa117df29daf44e008aceea22c765e	Mazy (2022 Inufuto).col	colecovision-htgdb-homebrew
+28f53d9eeaf60e01d5f97888ec04a913	Memotech MTX Series Games Collection Vol.1 (2013 Collectorvision Games).col	colecovision-htgdb-homebrew
+67660f46681e0a3dfbffff0b53213b61	Memotech MTX Series Games Collection Vol.2 (2013 Collectorvision Games).col	colecovision-htgdb-homebrew
+235ad5b9538261f31dde4391fe3f5ac9	Mindwalls (2013 Collectorvision Games).col	colecovision-htgdb-homebrew
+9608df1071bf93b4edec7df1e5ef8e80	Module Man (2013 Team Pixelboy).col	colecovision-htgdb-homebrew
+b57d7fb50498dc228dfa2e37202ce154	Moon Patrol (2014 Collectorvision Games).col	colecovision-htgdb-homebrew
+86211ec62d6e48439be0eac095e032e5	Mopiranger (2012 Team Pixelboy).col	colecovision-htgdb-homebrew
+421d26d11fe4006122ba63713045495c	Mr. Chin (2008 Collectorvision Games).col	colecovision-htgdb-homebrew
+df3e124279182f9855d657bb6d4bb42e	Mr. Turtle (2015 Gerry Brophy).col	colecovision-htgdb-homebrew
+7de8f21a2f924753ee47d7336b8d6d70	Ms. Space Fury (2001 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+264b2cf96b5c71790cdfca1246df75ab	Nibbli - Son of Nibbler (2014 Collectorvision Games).col	colecovision-htgdb-homebrew
+956455c6108fa2b009fb5797d0a19b5f	NIM (2000 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+fa85d0f53202209e970ae6ee4934a69c	Ninja Princess (2011 Team Pixelboy).col	colecovision-htgdb-homebrew
+1277d4121dbc345ef002965f2d70eab0	Ozma Wars (2011 Collectorvision Games).col	colecovision-htgdb-homebrew
+9cebe6571aa12803eadcefd9cde6b1b6	Pac-Man Collection (2008 Opcode Games).col	colecovision-htgdb-homebrew
+afbc945cad1691492e324dbeb89538d4	Pacar (2017 Team Pixelboy).col	colecovision-htgdb-homebrew
+6821404ca8ed3dc624540c20d7c65ec9	Peek-A-Boo (2010 Team Pixelboy).col	colecovision-htgdb-homebrew
+5fc797731f46092ba50bf4e3b8e7d474	Penguin Land (2010 Collectorvision Games).col	colecovision-htgdb-homebrew
+eca0bbaceb38baa76e28f1491065c560	Pippols (2014 Collectorvision Games).col	colecovision-htgdb-homebrew
+9084581babaef4647cfd3cbc6515ef31	Pitfall II Arcade (2010 Team Pixelboy).col	colecovision-htgdb-homebrew
+f5b08e31316806961e099121dc580942	Pong (2007 Alfonso DC).col	colecovision-htgdb-homebrew
+8c729d99561ccc65819567c3a6e50aa2	Pong (2014 Collectorvision Games).col	colecovision-htgdb-homebrew
+b1f430379a4761eac44c2cfe1c300e1c	Pooyan (2009 Collectorvision Games).col	colecovision-htgdb-homebrew
+a5a4b2bea21a93d945f2a09de370eb8f	Princess Quest (2012 Team Pixelboy).col	colecovision-htgdb-homebrew
+e16ffc89b239a71f61e093dd8a86ce9e	Purple Dinosaur Massacre (1996 John Dondzilla).col	colecovision-htgdb-homebrew
+279d7774d46284e1bf429c0400678b92	Puzzli (2011 Collectorvision Games).col	colecovision-htgdb-homebrew
+8ba7536f0ca6da6c15aa3c7eaa2e7c69	PV2000 (2012 Nicolas Campion).col	colecovision-htgdb-homebrew
+7a7a97dbc5cf6182ae17c0bcebe369ff	Pyramid Warp & Battle Ship Clapton II (2009 Collectorvision Games).col	colecovision-htgdb-homebrew
+786648548bf673354a976205295cfbbc	Quatre (2013 Nicolas Campion).col	colecovision-htgdb-homebrew
+eabcb4a9a1eac2c6f8a7d002987d9e55	Quest For The Golden Chalice (2012 Team Pixelboy).col	colecovision-htgdb-homebrew
+ce030972c33803c5ef431bf65c6e7d5c	Quiz Wiz ColecoVision 30th Anniversary (2012 CollectorVision Games).col	colecovision-htgdb-homebrew
+37bc82d59ad1a4e794cbc59265cf3a0e	Remember The Flag (2017 Team Pixelboy).col	colecovision-htgdb-homebrew
+87540608dd51ecd0388cf1d03df00be5	Reversi - Diamond Dash (2004 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+f6416b12174102dd600a9f27b190910c	Reversi (2003 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+4cd95952c5701a00f7b84ef606942755	Rip Cord (2017 Collectorvision Games).col	colecovision-htgdb-homebrew
+3e6353f609091f55c7c6178980b69a1a	Risky Rick in Dangerous Traps (2018 Arcadevision).col	colecovision-htgdb-homebrew
+f67172d3725aa0ca0bb92a5717022092	Road Fighter (2007 Opcode Games).col	colecovision-htgdb-homebrew
+6b6a870d614f3ff0f2b6434be0d42178	Robee Blaster (2017 Collectorvision Games).col	colecovision-htgdb-homebrew
+b002642ff451cf3915160009a35ac82a	Robobug (2012 Nicolas Campion).col	colecovision-htgdb-homebrew
+101f7cf82b8e09c89158cd1117145a0e	Santa Must Save Christmas (2011 Michel Louvet).col	colecovision-htgdb-homebrew
+7effb183db9c6956f113b8458f358b51	Santa's Gift Run (2004 Dale Wick).col	colecovision-htgdb-homebrew
+7a98eac9b6e6d0345fe7fe71a6d6fac8	Search For The Stolen Crown Jewels 3 (2013 Good Deal Games).col	colecovision-htgdb-homebrew
+3cf7e73cf264897bb9b8abbee64351be	Shunting Puzzle (2007 Philip Klause Krause).col	colecovision-htgdb-homebrew
+1b53f61cd5abbd7b2eb9c500fc386bb3	Shunting Puzzle (2013 Good Deal Games).col	colecovision-htgdb-homebrew
+a8de1e22cf277307a98d13a3bfd46614	Side Trak (2012 Collectorvision Games).col	colecovision-htgdb-homebrew
+50b88196194bb3f1c87ea5f6b8e0ab7e	Sky Jaguar (2004 Opcode Games).col	colecovision-htgdb-homebrew
+60a76bb41de0cebfaceec23eb7c964e5	Slither (2010 Daniel Bienvenu) [Standard Controller Hack].col	colecovision-htgdb-homebrew
+0387a577061e159d3e4a721d2128f67f	Smash (2004 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+1c0f7cfd2f76d6faaab6fb5fbab3c420	Smurf Challenge (2010 Collectorvision Games).col	colecovision-htgdb-homebrew
+745249f138cf747a9cf0ae06c298aca2	So, You Want to Be a Knight (2015 Collectorvision Games).col	colecovision-htgdb-homebrew
+ed06f5e11d9558af149ea21286ce4bf0	Space Invaders Collection (2003 Opcode Games).col	colecovision-htgdb-homebrew
+98474d00203e3c3d51fdf9612b98f6a2	Space Invasion (1998 John Dondzilla).col	colecovision-htgdb-homebrew
+399e6fe7e9fa95b73144606e8acc0a3d	Space Trainer (2005 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+ce19e6dc70a369d2217a1400fc81e36a	Spectank (2000 Daniel Bienvenu) [Unfinished].col	colecovision-htgdb-homebrew
+ae932aa0a0c943f1603e14e6d41b98e0	Spectar (2012 Atariage).col	colecovision-htgdb-homebrew
+327ee09b6f8013d8993884af995e3f15	Spunky's Super Car! (2014 Collectorvision Games).col	colecovision-htgdb-homebrew
+4a7044863d65dee58385bab17712a128	Squares! (2007 Harvey deKleine) [4K].col	colecovision-htgdb-homebrew
+28b2600c9f0533dd171d65c6e57df3e8	Star Force (2011 Team Pixelboy).col	colecovision-htgdb-homebrew
+01358dd7ad8e8dd6fa46f4dd3af67246	Star Fortress (1997 John Dondzilla).col	colecovision-htgdb-homebrew
+88654617a8d0aa68930d86438f152a8a	Star Jump (2012 Nicolas Campion).col	colecovision-htgdb-homebrew
+2dd3434ea9059b876f9dfeee8b21791d	Star Ocean (2015 Chris Derrig).col	colecovision-htgdb-homebrew
+cb79839006e91175b3f851ba84e41c6b	Starcom (2012 Collectorvision Games).col	colecovision-htgdb-homebrew
+3b736de8c3b407fc3a7baa1ee2905623	Starship Defence Force (2015 Collectorvision Games).col	colecovision-htgdb-homebrew
+4868d56924927991d0a5dd33179e5899	Strip Poker (2017 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+461f25f05377e37bf6de9d4e516a85ec	Sudoku (2017 Team Pixelboy).col	colecovision-htgdb-homebrew
+d88e631109d05806ff68fdd3705ab9e4	Super Action Soccer (2012 Team Pixelboy).col	colecovision-htgdb-homebrew
+c93ed647f81fd2afa7c2458594721de6	Super Minefield (2013 Collectorvision Games).col	colecovision-htgdb-homebrew
+72e73d27add27d81780c25c46bbac934	Super Space Acer (2011 Mike Brent).col	colecovision-htgdb-homebrew
+9336d282f04b31854258dd9a94cf0a0e	Sydney Hunter & The Sacred Tribe (2017 Collectorvision Games).col	colecovision-htgdb-homebrew
+30b2a0488e145666a0199af424c98ee7	Tank Challenge (2014 Collectorvision Games).col	colecovision-htgdb-homebrew
+c4780b325b157abd72c5093d35a79168	Tank Mission (2017 Collectorvision Games).col	colecovision-htgdb-homebrew
+259bac0622e888ea3d508e6f5e982b83	Telebunny (2014 Collectorvision Games).col	colecovision-htgdb-homebrew
+49c9b6fa9e6c24a5b89e2ba46d30f6d1	Terra Attack (2007 Scott Huggins).col	colecovision-htgdb-homebrew
+91728b18e3ecb297d31f3a494f534f07	Text Adventure (2015 Chris Derrig) [Dragon Option].col	colecovision-htgdb-homebrew
+f19d477fef231991a26da4a1fc80b841	Text Adventure (2015 Chris Derrig).col	colecovision-htgdb-homebrew
+c542316b4e912f7823db4239bdd9d5e5	Tic Tac Toe (1996 Norman Nithman).col	colecovision-htgdb-homebrew
+fbf9d274f3b730a1a03bf4edd49e94b6	Track & Field (2010 Team Pixelboy).col	colecovision-htgdb-homebrew
+cb5d75d2d0e5da6b17f41b6cb9263574	Tune Layer (2002 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+c60ae6e1a7f2ce1060a329e170206992	Turbo (2010 Daniel Bienvenu) [Standard Controller Hack].col	colecovision-htgdb-homebrew
+bff9ad330f06bb9f4a6dfd6f70d5873c	Venture (200X Daniel Bienvenu) [Vampire Hack].col	colecovision-htgdb-homebrew
+9710950620877a503529fa5635283e8d	War (2014 Gerry Brophy).col	colecovision-htgdb-homebrew
+6799d0c2689ab161ab476777d2953885	Warm Fuzzy - Quest For Salad (2005 Dale Wick).col	colecovision-htgdb-homebrew
+62d2ae88b3c012211ff49555d464732b	Waterville Rescue (2009 Mike Brent).col	colecovision-htgdb-homebrew
+76ace64aef896747646b964ea9452c2e	Way of the Exploding Foot, The (Beta)(2011 Collectorvision Games).col	colecovision-htgdb-homebrew
+de1782f1a2ab91adb5e85b8e015431da	Winky Trap (2007 Collectorvision Games).col	colecovision-htgdb-homebrew
+81d2e0d272b87cd624b050bbfa3e3db0	Wizard (2003 Daniel Bienvenu).col	colecovision-htgdb-homebrew
+9717df5c786bf4d349928a752ac27011	Wonder Boy (2012 Team Pixelboy).col	colecovision-htgdb-homebrew
+c505acccd3fb78e8b7a0dfa6a2dfcd8b	Yank Bash (2004 Rich Drushel).col	colecovision-htgdb-homebrew
+9620e6aced6991f84d26a9d99ef51543	Yie-Ar Kung Fu (2005 Opcode Games).col	colecovision-htgdb-homebrew
+9c08715ddc55d6af716129b6fcccb0d8	Zanac SGM (2015 Collectorvision Games).col	colecovision-htgdb-homebrew
+f343e0a4d52fdad6a4c9c114327576f6	Zippy Race (2009 Collectorvision Games).col	colecovision-htgdb-homebrew
+cfa1a7d51c14cfc38bfdf98c99472aec	Zombie Near (2011 Collectorvision Games).col	colecovision-htgdb-homebrew
+42a16b56e7552694aaa6ecf564fe3e97	Zombie Near (2012 Collectorvision Games).col	colecovision-htgdb-homebrew
+03bb298087cd2da16ee85e22504d85e5	Adam's Musicbox Demo (USA) (Demo).col	colecovision-htgdb-homebrew-demos
+69808d9e1879b8bafd729b465b64b701	Air Battle (2000 Daniel Bienvenu) (Demo).col	colecovision-htgdb-homebrew-demos
+424407e26dc78b19429303970fa284c4	Battleship (2003 Mathieu Proulx) (Demo).col	colecovision-htgdb-homebrew-demos
+28ed13aa720eee1e5e37131ef4f45b4a	Beyond Terra (2009 Scott Huggins) (Demo).col	colecovision-htgdb-homebrew-demos
+26bb932c44198342a832a1c24ac24620	BombJack (2012 Michel Louvet) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+175948d25c41d5239eb46cec89df1044	Breakout (2001 Daniel Bienvenu) (Paddle Version Demo).col	colecovision-htgdb-homebrew-demos
+a434acbc05605744af10d436a79192b0	ColecoVision RPG v023 (2006 Bruce Tomlin) (Demo).col	colecovision-htgdb-homebrew-demos
+d212fbb05b5ebba3b63d7c607cfd71d2	Cosmo Fighter 3 (2001 Marcel de Kogel) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+ef4154fa766ec3e0369e5fa2488f10e0	Cye 1.0 (2007 Philip Klaus Krause) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+0da6db8fad154867e393514e4d88a88a	Death Race (2004 Dav) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+4c2bcb9edac30f8691ddec6cfd710bc6	Demon 2 (2001 Yannick Proulx) (Demo).col	colecovision-htgdb-homebrew-demos
+3ff8080f344ed52ea819b3a88854947b	Frantic (2008 Scott Huggins) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+2e8febb0d8a5c43c4a3a414dd4ac89af	JetP4K! (2006 Harvey deKleine) (Demo).col	colecovision-htgdb-homebrew-demos
+efaaaf9076b2dd39acdf55e9d4202d81	Kick Gas (2008 Dvik & Joyrex) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+064852f4e117aae89f485cafbab66401	Kill Barney In Tokyo (1997 Daniel Bienvenu) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+0a796ee58c1a61dc0b12f94721b997e8	Killer Instinct (1997 Daniel Bienvenu) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+8704d740c9194fde089cdae21f1526c6	Mr. Do!'s Wild Ride (2004 Steve BCgin) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+e5f5d515f1e55acfe6a8ecd1758d6f28	Old Skool 01 (2005 Guy Foster) (Demo).col	colecovision-htgdb-homebrew-demos
+80c9927c46044e2e0a0b0615b002acec	Old Skool 02 (2005 Guy Foster) (Demo).col	colecovision-htgdb-homebrew-demos
+8f8508a563c86a13a1b9220672403bda	Pacar (2010 Steve BCgin) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+3569f9c05d1f35ecb7daffba5801451c	Pere Noel (2000 Daniel Bienvenu) (Demo).col	colecovision-htgdb-homebrew-demos
+f2996c825450ba8dccb1660ebdaf3ac2	Schlange CV 1.0 (2006 Philip Klaus Krause) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+debd29830d9dededd646ca969c224c0d	Search For The Stolen Crown Jewels (2006 Philip Klaus Krause) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+f09d1237396eb8a791b0bfe7652ef488	Search For The Stolen Crown Jewels II (2007 Philip Klaus Krause) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+95729e45bb11bc2f08b4e2569fafdcad	Search For The Stolen Crown Jewels III (2010 Philip Klaus Krause) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+19fc5d292ecda24da34636de744ecfc2	Space Caverns (2004 Scott Huggins) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+3d84684701b2cda7af8b6d47d43a7e57	Space Harrier Version 7 (2009 HardHat) (Demo).col	colecovision-htgdb-homebrew-demos
+9290e66d712afc32125d95d6fd2b22a4	Space Hunter (2005 Guy Foster) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+d424c8234c9d2df4999aed94ce4d81f6	Space Invaders (2002 Eduardo Mello) (Demo).col	colecovision-htgdb-homebrew-demos
+852fcda255c345c1459b19bfa19a546b	Space Invasion (1998 John Dondzilla) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+cd5c3b3ee906b101a857f5260771696c	Squares! (2007 Harvey deKleine) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+c8deb659a5c1de178bec97ff0b59ea5b	Stubby! v01 (2001 Yannick Proulx) (Demo).col	colecovision-htgdb-homebrew-demos
+3b72c516005528d24b40c1aecf948048	Stubby! v02 (2001 Yannick Proulx) (Demo).col	colecovision-htgdb-homebrew-demos
+e34e775b40367815197dc4086aab2f89	Sudoku v02 (2008 Team Pixelboy) (Playable Demo).col	colecovision-htgdb-homebrew-demos
+62860823d7b08ab3c72a41ac5b189e5f	Super Pong (2000 Unknown) (Demo).col	colecovision-htgdb-homebrew-demos
+0516b52ffc9a2a0cc12ebdd7cd912697	Wild Western! (200X Opcode) (Demo).col	colecovision-htgdb-homebrew-demos
+087e65a78ad4ff1dbd302164222589eb	A.E. (USA) (Proto).col	colecovision-htgdb-prototypes
+03f9c4cbf079385c549c784105bd0c38	Dig Dug (USA) (Proto).col	colecovision-htgdb-prototypes
+a2e797efc1b754de8e16e6ca427900aa	Dragon's Lair (USA) (Proto).col	colecovision-htgdb-prototypes
+9b62bc8d1b0249a49f0ecdc6b547790d	Energy Quiz (Canada) (En,Fr-CA) (1983-06-06) (Proto).col	colecovision-htgdb-prototypes
+abe178883b62a738c692a2656a03a77e	Escape from the Mindmaster (USA) (Proto).col	colecovision-htgdb-prototypes
+bd905555983c05456ab81ea154a570b1	Fall Guy (USA) (Proto).col	colecovision-htgdb-prototypes
+b8e8e3700d9a67192451c89452c8bc73	Fireman (USA) (Proto).col	colecovision-htgdb-prototypes
+e8acbbcffe3094e57621a75b3e355b37	Joust (USA) (Proto).col	colecovision-htgdb-prototypes
+7029bf20f4dee5049b0ddc61390b96e1	M.A.S.H (Europe) (Proto).col	colecovision-htgdb-prototypes
+8b1b5d34868ec53ddda5780eec94301e	Matt Patrol (USA) (Proto) (Alt).col	colecovision-htgdb-prototypes
+39355f46ada88b0d50523c2f7f5c9362	Matt Patrol (USA) (Proto).col	colecovision-htgdb-prototypes
+cc236e16f387816ce08d2e8915817c15	Orbit (USA) (Proto).col	colecovision-htgdb-prototypes
+70432c26c3e9ff2be98eff4401923e3c	Pac-Man (USA) (Proto).col	colecovision-htgdb-prototypes
+708ca6a994218696b1cc0dfbf8b9700c	Porky's (USA) (Proto).col	colecovision-htgdb-prototypes
+cab78eddac04d9923a41fabc9c43d066	Power Lords - Quest for Volcan (USA) (Proto 1).col	colecovision-htgdb-prototypes
+43149d3317eead1592a3a4a4fa524d2e	Power Lords - Quest for Volcan (USA) (Proto 2).col	colecovision-htgdb-prototypes
+c095fe730cba0a6e7797f8e358a976e7	Star Fire (USA) (Proto).col	colecovision-htgdb-prototypes
+dc6745ff6132a3f646ca8aff7533cdb0	Steamroller (USA) (Proto).col	colecovision-htgdb-prototypes
+c7743e456f5c042ee8aefd4488254ac9	Super DK! (USA) (Proto).col	colecovision-htgdb-prototypes
+7a736286fe72eb60e00b1ba28867cd16	Super DK! Junior (USA) (Proto).col	colecovision-htgdb-prototypes
+95f8000444fd86ef02ee39ae265bdba0	Video Hustler (USA) (Proto 1).col	colecovision-htgdb-prototypes
+7f8bbd4a62aedab44e4cc115a6edc637	Video Hustler (USA) (Proto 2).col	colecovision-htgdb-prototypes
+c10aaca46d063771339d3e5a0582baad	Yolk's on You, The (Europe) (Proto).col	colecovision-htgdb-prototypes
+8c61804e1ad57ef3d415d1ba11395507	Donkey Kong (USA).col	colecovision-htgdb-revisions
+d145de191e3f694c7f0920787ccbda48	Front Line (USA, Europe) (Super Action Controller).col	colecovision-htgdb-revisions
+124d464a25dbe7d94a95ffa96b24d7db	Miner 2049er Starring Bounty Bob (USA, Europe).col	colecovision-htgdb-revisions
+3b5cf3a345abbb2b23c68181953f4710	Pitstop (USA).col	colecovision-htgdb-revisions
+d4b7bfc4a04768296eadbe965b609ee6	Alpharoid SGM (2018 Opcode Games).col	colecovision-htgdb-super-games-module
+f5914a6b26bd2afcc9fef652c46d860e	Bosconian SGM (2016 Opcode Games).col	colecovision-htgdb-super-games-module
+d183ac7dadfe6c2d561a45bf78d0c849	Buck Rogers Super Game SGM (2013 Team Pixelboy).col	colecovision-htgdb-super-games-module
+ad2987ebb406ee2be7e2452d2e8fc465	Caos Begins SGM (2016 Team Pixelboy).col	colecovision-htgdb-super-games-module
+be5507b7df903b9b63c260ae83073c9b	Caverns Of Titan SGM (2017 Team Pixelboy).col	colecovision-htgdb-super-games-module
+36086de664a2644d6845a87c8a1c29e6	Children Of The Night SGM (2018 Team Pixelboy).col	colecovision-htgdb-super-games-module
+c71423942d3c95dad7ed13a8bf7dde85	Cold Blood SGM (2017 Team Pixelboy).col	colecovision-htgdb-super-games-module
+c8c930b4934dfc9f8b2c7f45adbc1172	Danger Tower SGM (2017 Team Pixelboy).col	colecovision-htgdb-super-games-module
+dae056a210dada6e42b2525760eee179	Deep Dungeon Adventure SGM (2017 Team Pixelboy).col	colecovision-htgdb-super-games-module
+029be0fb34e09cecadbacfce8e1980d9	Donkey Kong Jr SGM (Team Pixelboy).col	colecovision-htgdb-super-games-module
+ce8fc81ea9e5d6a6eee89273f8d0e75a	Donkey Kong SGM (Team Pixelboy).col	colecovision-htgdb-super-games-module
+3568ed427a9e33de164b44402103ae64	Dragons Lair SGM (2012 Team Pixelboy).col	colecovision-htgdb-super-games-module
+717dac76a39cc9036474b7a726bd4a4b	Galaga SGM (2014 Collectorvision Games).col	colecovision-htgdb-super-games-module
+11cbdb2021239cb8aad6b3f683a78fe2	Gauntlet SGM (2019 Team Pixelboy).col	colecovision-htgdb-super-games-module
+f77000f5e4a04f49fa19a18621c522c1	Ghostbusters SGM (2018 Team Pixelboy).col	colecovision-htgdb-super-games-module
+dfae61b27e85c02273fb12008fea7e5d	Goonies, The SGM (2012 Team Pixelboy).col	colecovision-htgdb-super-games-module
+ce56e92355703e1fac764b09358e4cf5	Gradius SGM (2016 Opcode Games).cf0	colecovision-htgdb-super-games-module
+e78babea2025be58530f786071e72b3b	Gunfright SGM (2019 Opcode Games).col	colecovision-htgdb-super-games-module
+ec1b10bd126b262013e7b5feaf6587c7	Heroes Arena SGM (2017 Team Pixelboy).col	colecovision-htgdb-super-games-module
+a4bc70468e81d107a6ac7829824fb21e	J.E.T.P.A.C. SGM (2017 Team Pixelboy).col	colecovision-htgdb-super-games-module
+28c5610275bf9383ff72b1d46104e861	Jumpland SGM (2016 Collectorvision Games).col	colecovision-htgdb-super-games-module
+19fd7c813fc56a0641015a591aa29960	Juno First SGM (2017 Collectorvision Games).col	colecovision-htgdb-super-games-module
+53c40183bafcc833ece91a7e2cfc6e85	King & Balloon SGM (2018 Team Pixelboy).col	colecovision-htgdb-super-games-module
+570ab7661074716a6506996ea5908f58	Kings Valley SGM (2012 Team Pixelboy).col	colecovision-htgdb-super-games-module
+c9a4fc47878e1aae2ca2e480e47359fd	Knightmare SGM (2015 Team Pixelboy).col	colecovision-htgdb-super-games-module
+08d05bdc86b25324757aa505ef4bc4aa	Kung-Fu Master SGM  (2016 Collectorvision Games).col	colecovision-htgdb-super-games-module
+b890898041911cd1ecddbcee898eba44	Loco-Motion SGM (2017 Collectorvision Games).col	colecovision-htgdb-super-games-module
+51a8ed72b92c3f2ed3882145eb974032	Majikazo! SGM  (2016 Team Pixelboy).col	colecovision-htgdb-super-games-module
+f562228c1af85738fc2753a2c46bcf3e	Mappy SGM (2016 Team Pixelboy).col	colecovision-htgdb-super-games-module
+f9a54f84f8adc68d723066243a166b4d	Mecha 8 SGM (2013 Team Pixelboy).col	colecovision-htgdb-super-games-module
+c7eea6c3cb8c12927fe4afeab7a4d93f	Mecha 9 SGM (2016 Team Pixelboy).col	colecovision-htgdb-super-games-module
+7f5a1f2c4bad94f7e114c39d582ac8f3	Monster House (Youkai Yashiki) SGM  (2017 Collectorvision Games).col	colecovision-htgdb-super-games-module
+72638fa15a02d76aaa77f58267cc38f2	Operation Wolf SGM (2016 Team Pixelboy).col	colecovision-htgdb-super-games-module
+389d1190827e7e0f926e2f108bca537b	Raid on Bungeling Bay SGM (2019 Opcode Games).col	colecovision-htgdb-super-games-module
+c4dd00e889a029f5ff40cd75782aab09	Rally-X SGM (2016 Team Pixelboy).col	colecovision-htgdb-super-games-module
+d5216425420d116b6c1452b7867e2e25	Roller Ball SGM (2013 Collectorvision Games).col	colecovision-htgdb-super-games-module
+b9542a2d3de9e28786005c7ae28d5857	Sasa SGM  (2016 Collectorvision Games).col	colecovision-htgdb-super-games-module
+8b7b1852e6865de6ac7bc404401afb33	Shmup SGM (2017 Team Pixelboy).col	colecovision-htgdb-super-games-module
+b69904d8d64f444d76404fa5383c3007	Shouganai SGM (2017 Team Pixelboy).col	colecovision-htgdb-super-games-module
+b548f1bd7417bea24fb859e97e441eaa	Sparkie SGM (2017 Collectorvision Games).col	colecovision-htgdb-super-games-module
+2a38c0f0fc5e783096d272c700885045	Spelunker SGM (2015 Team Pixelboy).col	colecovision-htgdb-super-games-module
+bb22ec3e1f6a934867c40a9d74f2ce6c	Star Soldier SGM (2016 Collectorvision Games).col	colecovision-htgdb-super-games-module
+368820af6eba2f1b7e03729ed15b9fef	Stone of Wisdom SGM (2015 Team Pixelboy).col	colecovision-htgdb-super-games-module
+6659b486ca0fded31fd87da006348034	Stray Cat SGM (2017 Team Pixelboy).col	colecovision-htgdb-super-games-module
+6a3f418f130714db6c73308d6063fd16	Subroc Super Game SGM (2014 Team Pixelboy).col	colecovision-htgdb-super-games-module
+8ed7d6ad2b0569cd11692fc4fd4c446c	Super Pacman SGM (2016 Team Pixelboy).col	colecovision-htgdb-super-games-module
+53ca2896060ad37f685b663961d3b879	Sweet Acorn SGM (2019 Opcode Games).col	colecovision-htgdb-super-games-module
+c2a631ef6685fcfadbdd225c6700ab5f	Tank Battalion SGM (2016 Opcode Games).col	colecovision-htgdb-super-games-module
+4e2b6f1ebd3313bf31506fa1d2d07a7f	Thexder SGM (2012 Team Pixelboy).col	colecovision-htgdb-super-games-module
+d2496d8959fac90d522558bfabbd946e	Traffic Jam SGM (2017 Team Pixelboy).col	colecovision-htgdb-super-games-module
+1e9deed9016422b03da9fd5811dc8e61	TwinBee SGM (2014 Team Pixelboy).col	colecovision-htgdb-super-games-module
+2d02d928bba923d98b0c923575e45026	Txupinazo! SGM (2017 Team Pixelboy).col	colecovision-htgdb-super-games-module
+2f9739c170046ac2a356b59fe6dc7445	Warp & Warp SGM (2016 Opcode Games).col	colecovision-htgdb-super-games-module
+36065c04388fccec8a204de5ce1f0737	Wizard Of Wor SGM (2018 Team Pixelboy).col	colecovision-htgdb-super-games-module
+d33ed061897085bd7b15e26d62dc1a5e	Xyzolog SGM (2019 Opcode Games).col	colecovision-htgdb-super-games-module
+1d37cc680acaf023a33bd7bd9aea2b95	Yie Ar Kung Fu II SGM (2018 Opcode Games).col	colecovision-htgdb-super-games-module
+c23b97307e94a349efe79097509ae545	Zaxxon Super Game SGM (2012 Team Pixelboy).col	colecovision-htgdb-super-games-module
+542c64b744e8edbf0ad46c67b4ca8a24	Zombie Incident SGM (2018 Team Pixelboy.col	colecovision-htgdb-super-games-module
+adaf8fefa825434232bc5c44d1bb8709	ADAM Diagnostic Cartridge (1982) (Coleco) (Newer Revision).col	colecovision-htgdb-tools-service-test
+1785dc2e24ce39bc21f2d02c6856487e	ADAM Final Test (198x) (Coleco) (Newer Revision).col	colecovision-htgdb-tools-service-test
+537dd61426fb3fe76bdfad65acd36444	ADAM Printer 1 Hour Cycle Burn-In Test (198x) (Coleco).col	colecovision-htgdb-tools-service-test
+cb39acb00ed3fc204ba3965f20180b68	Bruce's Controller Tester (PD) v1 Bruce Tomlin 2004.col	colecovision-htgdb-tools-service-test
+84e6d14068843f74806fb92ad231255e	ColecoVision Monitor Test (USA, Europe).col	colecovision-htgdb-tools-service-test
+52e6357fee521e91fc89f03f055da52d	ColecoVision Music Demonstration (198x) (Coleco).col	colecovision-htgdb-tools-service-test
+1e00217ab176e9868bbceb7c959a7b2a	Data Drive Burn-In DDP Test (198x) (Coleco).col	colecovision-htgdb-tools-service-test
+34efc675f8eef63f9ab5f0f7f7a37ec1	Final Test Cartridge (USA).col	colecovision-htgdb-tools-service-test
+d82e255055f31f4df55729f4fc52eed2	Joystick Test 2 - Keypad (PD) Nitrofurano 2014.col	colecovision-htgdb-tools-service-test
+0b62e582db9f3f59c10f76c578764cd6	NewColeco Screen Test (PD).col	colecovision-htgdb-tools-service-test
+c08b2bc02b5279619c6b542fe8189e00	Super Action Controller Tester (1982) (Nuvatec).col	colecovision-htgdb-tools-service-test
+1210396cb9af270285d25c66fa9c6f6a	Super Controller Tester (USA).col	colecovision-htgdb-tools-service-test
+1325609c201ca1c55a79fd8f62d90be6	Super Game Module Tester (PD) Oscar Toledo 2013.col	colecovision-htgdb-tools-service-test
+a46d20d65533ed979933fc1cfe6c0ad7	Super Sketch - Sketch Master (USA) (Program) (Unl).col	colecovision-htgdb-tools-service-test
+3b208fff0d0d9013ce10796464dd37ec	TapeUtl Rev. 22 (1984) (Coleco).col	colecovision-htgdb-tools-service-test
+7bf914ee3d7a66eb0fdb579b26ad1f25	Castelo (Brazil) (Unl).col	colecovision-htgdb-unlicensed
+e0d1ff37974fa017a6c78c174925643a	Evolution (USA) (Unl).col	colecovision-htgdb-unlicensed
+92771526eeb3814178c5c36d7babb934	Flipper Slipper (USA) (Unl).col	colecovision-htgdb-unlicensed
+1206093901f2cfb36ac5442db264c9f9	Zaxxon (Taiwan) (En) (Unl).col	colecovision-htgdb-unlicensed

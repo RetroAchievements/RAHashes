@@ -1,0 +1,238 @@
+3dea0df016ca7f2c06c77373e3571f71	4-TRIS (2000) (Joseph Zbiciak).int	intellivision-opengood
+f004411ca868faf7ea416012772546fc	4-TRIS (2001) (Joseph Zbiciak).int	intellivision-opengood
+6890eaf1ac1a7d9a8494b7f5e25a1fac	ABPA Backgammon (1978) (Mattel).int	intellivision-opengood
+0229a4889e18a37d1d631505d1cb83df	Advanced D&D - Treasure of Tarmin (1982) (Mattel).int	intellivision-opengood
+f1168c0894946c290685f133b81b4fac	Advanced Dungeons and Dragons (1982) (Mattel).int	intellivision-opengood
+17fd2af3368c310fb7928dcfe0311514	Adventure (AD&D - Cloudy Mountain) (1982) (Mattel).int	intellivision-opengood
+131ab07864114f44d4019939481eadd3	Air Strike (1982) (Mattel).int	intellivision-opengood
+92e0826c7d677d4038764a7933696921	All-Star Major League Baseball (1983) (Mattel).int	intellivision-opengood
+7fa60b1cb4adac3088727d5ac53ec183	Armor Battle (1978) (Mattel).int	intellivision-opengood
+8f6a5b5b65d84f947236e503d378370b	Astrosmash (1981) (Mattel).int	intellivision-opengood
+c7b00e08feca5527c76f0eea1bd9db7e	Astrosmash - Meteor (1981) (Mattel).int	intellivision-opengood
+317ef1ee4d12df7ce7dd57dbc273b4b1	Atlantis (1981) (Imagic) [!].int	intellivision-opengood
+97e865e173d137cf5576d080268f7df5	Auto Racing (1979) (Mattel).int	intellivision-opengood
+44fb31805c87974ac205871e61800a77	B-17 Bomber (1981) (Mattel) [!].int	intellivision-opengood
+b88c2989496a5ca5e276d56a2ebfb2ab	Baseball (1978) (Mattel).int	intellivision-opengood
+0cf15a41cce922dbd7f0debfe0bff792	BeamRider (1983) (Activision) [!].int	intellivision-opengood
+f6d0e268efe254dc4539fb6df5a6ce24	Beauty and the Beast (1982) (Imagic) [!].int	intellivision-opengood
+56fda8dcf4920a182de8f5bdd06590ea	Blockade Runner (1983) (Interphase).int	intellivision-opengood
+d0ac7f9a9c2ef3826f7ece1a7dd2202a	Body Slam - Super Pro Wrestling (1988) (Intv Corp).int	intellivision-opengood
+8d0d0bb758718e663886a890d1412fd5	Bomb Squad (1982) (Mattel) [!].int	intellivision-opengood
+d70737eb584ce7da69a6169b6025adc0	Bouncing Pixels (1999) (JRMZ Electronics).int	intellivision-opengood
+4b29afc041bf51b1aa0f6505a36d2c6a	Boxing (1980) (Mattel).int	intellivision-opengood
+d9df0b76eda4f0e3e0bc5b645f1384fb	Brickout! (1981) (Mattel).int	intellivision-opengood
+ed0d27c9494c8e06aefa45ab5640f1f7	Bump 'N' Jump (1982-83) (Mattel).int	intellivision-opengood
+d81075a4c254463724ac3bab0b500a08	BurgerTime! (1982) (Mattel).int	intellivision-opengood
+a7cfddbcf7208fc84a793d12ffde3c51	BurgerTime! - New Levels Hack (2002) (David Harley).int	intellivision-opengood
+0032f034ed1d761d1f0dff79115fec78	Buzz Bombers (1982) (Mattel).int	intellivision-opengood
+28ef20b81fd9eac68a19fbfcae5dab9a	Carnival (1982) (Coleco-CBS).int	intellivision-opengood
+f8044adf6fcabec7db12b5f980b56fc2	Castle Trailer (2003) (Arnauld Chevallier).bin	intellivision-opengood
+8c57a45b86d907ecebff9edc3a132aa5	Centipede (1983) (Atarisoft).int	intellivision-opengood
+016be420f1f20fc2ed8ec051e196aaec	Championship Tennis (1985) (Mattel).int	intellivision-opengood
+8122bb07816acdcb3f0a037b72f02142	Checkers (1979) (Mattel).int	intellivision-opengood
+e0d577b333881deca1b0b8cf07b1bea9	Chip Shot - Super Pro Golf (1987) (Intv Corp).int	intellivision-opengood
+9ff5833918a5accbfddc856258bc2d3b	Commando (1987) (Mattel).int	intellivision-opengood
+75276981f9eab0ddc260fcf2331fa5d9	Congo Bongo (1983) (Sega).int	intellivision-opengood
+b16191a056944eab615bd73eb3235cab	Crazy Clones (1981) (PD).int	intellivision-opengood
+409d186a7289d902f6309136bbebdb8b	Deep Pockets-Super Pro Pool and Billiards (1990) (Realtime) [!].int	intellivision-opengood
+e89814fab2ad565179511c592d524fc4	Defender (1983) (Atarisoft).int	intellivision-opengood
+9855aefcc210df151ba3373d869e8b66	Demon Attack (1982) (Imagic) [!].int	intellivision-opengood
+a8f2aee64d0163309bf17e90c69fe5b9	Dig Dug (1987) (Intv Corp).int	intellivision-opengood
+ae3b9621c32fd1d327e2aa994e69f62a	Diner (1987) (Intv Corp).int	intellivision-opengood
+a43d060b5e7c6155f7469bf3dd245de4	Donkey Kong (1982) (Coleco).int	intellivision-opengood
+4f16342d203da7af060cc6eec3d103f7	Donkey Kong Jr (1982) (Coleco).int	intellivision-opengood
+6b7bec79823d2f3b92df69b45da2eaf9	Doom (2002) (Joseph Zbiciak).bin	intellivision-opengood
+a52574877a018ef1ec10e0ff3038fbb9	Dracula (1982) (Imagic) [!].int	intellivision-opengood
+e4dc456380ac48ea36c3b46cb8e2fb51	Dragonfire (1982) (Imagic) [!].int	intellivision-opengood
+5da863a6bb5cab4e6e3b0b422124b789	Dreadnaught Factor, The (1983) (Activision) [!].int	intellivision-opengood
+ec25dd8cac7287b2e7db017ee9fc2ed8	Dreadnaught Factor, The (1983) (Activision) [a1].bin	intellivision-opengood
+9d0564c5882c0bbd72b3415d06c13c39	Dreadnaught Factor, The (Prototype) (1983) (Activision).int	intellivision-opengood
+0960019b1afcf56baa851d36fac4d295	Duncan's Thin Ice (1983) (Mattel).int	intellivision-opengood
+df373c83ff0815a605f6796ff9cbf70b	Easter Eggs (1981) (Mattel).int	intellivision-opengood
+28eb88001826f62a908fbd66f631376c	Eggs 'n' Eyes by Scott Nudds (1996) (PD).int	intellivision-opengood
+dcbea7cde7d03f099680531fe7a80ab5	Electric Company - Math Fun (1978) (CTW).int	intellivision-opengood
+36ff2340ff5972f9aa4d353b633e082e	Electric Company - Word Fun (1980) (CTW).int	intellivision-opengood
+2e72a9a2b897d330a35c8b07a6146c52	Entertainment Computer System EXEC-BASIC (1978) (Mattel) [!].int	intellivision-opengood
+62e761035cb657903761800f4437b8af	Executive ROM, The (1978) (Mattel).int	intellivision-opengood
+c13b1e3b0d33908c0fc073f2032d9be9	Fathom (1983) (Imagic) [!].int	intellivision-opengood
+bb806b41644e33b6fc5a4d9d3f8c7aee	Frog Bog (1982) (Mattel).int	intellivision-opengood
+523d46bcab6c0c11f0672562fe31cd47	Frogger (1983) (Parker Bros).int	intellivision-opengood
+11f588e42db055b0803a51ac8a50f339	Game Factory (Prototype) (1983) (Mattel) [!].int	intellivision-opengood
+5d5c5f56ceb0da3e9a0da1a8441ee5ee	Go For the Gold (1981) (Mattel).int	intellivision-opengood
+7af892d254145b8766b1bdbe016ec8e0	Grid Shock (1982) (Mattel).int	intellivision-opengood
+0cd5946c6473e42e8e4c2137785e427f	GROM, The (1978) (General Instruments) [!].int	intellivision-opengood
+c76d599ee3036ba40aa6b8fba2630081	Groovy! (1999) (JRMZ Electronics).int	intellivision-opengood
+9b697d6a408fe0d0cebc89ae8d482161	Happy Trails (1983) (Activision) [o1].int	intellivision-opengood
+01348ced597a48a4ee87a5b3683616cb	Happy Trails (1983) (Activision).int	intellivision-opengood
+c4268724c89f44ae71a81400c2ea1a71	Hard Hat (1979) (Mattel).int	intellivision-opengood
+96d52ac29d5d4fd50b69675885801c9a	Horse Racing (1980) (Mattel).int	intellivision-opengood
+436cacf587e988368974fe273be78474	Hover Force (1986) (Intv Corp).int	intellivision-opengood
+f92d9f1d08b97383f9a954ba887cecb0	Hypnotic Lights (1981) (Mattel).int	intellivision-opengood
+79d475ff853683ffd9be630628a491fa	Ice Trek (1983) (Imagic) [!].int	intellivision-opengood
+1a7bb66701745b183a6e60fa2cd0eb39	IMI Test Cart (1978) (Mattel) [!].int	intellivision-opengood
+d5530f74681ec6e0f282dab42e6b1c5f	IntelliVoice BIOS (1981) (Mattel).int	intellivision-opengood
+d3ae61336d17ec08d0414e7702f2408e	INTV - Intelligent TV Demo #1682 (Prototype) (1978) (Mattel).int	intellivision-opengood
+39bead8336c98f005b0ff05daf5a0f90	INTV - Intelligent TV Demo #5853 (1983) (Mattel) [o1].int	intellivision-opengood
+aadc44bfbb9a0a1a6a0d29c8044368c6	INTV - Intelligent TV Demo #5853 (1983) (Mattel).int	intellivision-opengood
+32955d443a8143ae3b6d99760f58b054	INTV - Intelligent TV Demo #5932 Revised (1978) (Mattel) [o1].int	intellivision-opengood
+10ff772d1850ec292984762030e8202a	INTV - Intelligent TV Demo #5932 Revised (1978) (Mattel).int	intellivision-opengood
+b9591d68433c4d0cf92bd2c2ebfdd2bb	INTV - Intelligent TV Demo (1978) (Mattel).int	intellivision-opengood
+1bca1222c1b778d3cf223d658dd82af8	INTV - Intelligent TV Demo Intl. #5859 (1982) (Mattel) [o1].int	intellivision-opengood
+a5a6d3b3c00225ee712822c8eb286354	INTV - Intelligent TV Demo Intl. #5859 (1982) (Mattel).int	intellivision-opengood
+47073eb3812699c648afc8a0f9799ddd	IntyOS - V0.2 Alpha (2003) (Arnauld Chevallier).bin	intellivision-opengood
+88f4166655918655b389dac4dae67c34	Jetsons, The - Ways With Words (1983) (Mattel).int	intellivision-opengood
+eab911e041089584de216bc3feaa5c9a	King of the Mountain (1982) (Mattel).int	intellivision-opengood
+c02d360393d2cd73a91ee56c56809410	Kool-Aid Man (1983) (Mattel).int	intellivision-opengood
+b512d919bf3db6f1e6b9a80835e032ec	Lady Bug (1983) (Coleco).int	intellivision-opengood
+712fa2e78a5d8b02c9de067b798e2c69	Land Battle (1982) (Mattel).int	intellivision-opengood
+6506a1bf0c749fc768cb6b5162e0cbd7	Las Vegas Blackjack and Poker (1979) (Mattel).int	intellivision-opengood
+203efd0d5b6c14b88fd5c7c0ed6bfc16	Las Vegas Roulette (1979) (Mattel).int	intellivision-opengood
+080f03a856158f713166e2cf4cad670d	League of Light (Prototype) (1983) (Activision) [!].int	intellivision-opengood
+8dfc158f903621a7947fe886308d9e88	League of Light (Prototype) (1983) (Activision) [a1][!].int	intellivision-opengood
+407200059843e9fe63fccb1498138863	League of Light (Prototype) (1983) (Activision) [a2].bin	intellivision-opengood
+1e661b21b1cd968632cd5ba3be8b589a	Learning Fun I - Math Master Factor Fun (1987) (Intv Corp).int	intellivision-opengood
+718d9e11b01629bc46cde657df3d1460	Learning Fun II - Word Wizard Memory Fun (1987) (Intv Corp).int	intellivision-opengood
+92c9ce0470cfc12e20df5b0246c60fea	Lock 'N' Chase (1982) (Mattel).int	intellivision-opengood
+ff8355790ceb7ce6905dd27c8510cd78	Loco-Motion (1982) (Mattel).int	intellivision-opengood
+b97437149ef2073fb10fd098c5101172	Magic Carousel (Prototype) (1983) (Intv Corp) [!].int	intellivision-opengood
+aee9f481abd8c290e6a0c3990c185e60	Masters of the Universe-The Power of He-Man! (1983) (Mattel).int	intellivision-opengood
+7d709dfc4a08230402078aed6c4cbb68	Maze Demo #1 (2000) (JRMZ Electronics).int	intellivision-opengood
+c122f4a85f6f5a4daef63175899e29e5	Maze Demo #2 (2000) (JRMZ Electronics).int	intellivision-opengood
+0f0969f9716a3d5d1d867ae99323ae7d	Melody Blaster (1983) (Mattel) [!].int	intellivision-opengood
+91c196362e658d1dfcf867a49883ac81	Mickey's Hello World (1999) (PD).int	intellivision-opengood
+137d6101ec260405d3d5339822e172f7	Microsurgeon (1982) (Imagic) [!].int	intellivision-opengood
+cbd28f3573ab61fdde21cabb7659ceaa	Mind Strike! (1982) (Mattel) [!].int	intellivision-opengood
+5be9279301ae96307930b81672119aa5	Minehunter Beta3 (2003) (Ryan Kinnen) [a1].rom	intellivision-opengood
+0ba797e13aa656ca411de48526aa8afb	Minehunter Beta3 (2003) (Ryan Kinnen).bin	intellivision-opengood
+f5ad906c25cc2ab000f2dbe55e1d5236	Minotaur (1981) (Mattel).int	intellivision-opengood
+4012d161292ee63379e07d09f73217d1	Minotaur (Treasure of Tarmin Hack) (1982) (Mattel).int	intellivision-opengood
+b88190cd36a0d8103d3a2d635af9a459	Minotaur V1.1 (1981) (Mattel) [!].bin	intellivision-opengood
+580fa4904fe1c660cefd86efd841a6b9	Minotaur V2 (1981) (Mattel) [!].int	intellivision-opengood
+30f68d218bae18b69daeb9e273fdc9d0	Mission X (1982) (Mattel).int	intellivision-opengood
+24f2272e7a5022b90ce92fdea5976a41	MOB Collision Test (2002) (Arnauld Chevallier).bin	intellivision-opengood
+1ab93dab53b52ea6aa7d964682dfcf03	Motocross (1982) (Mattel).int	intellivision-opengood
+4c7c9a2bd67863501e678a1e965d5003	Mountain Madness - Super Pro Skiing (1987) (Intv Corp).int	intellivision-opengood
+1247c5f449bb1efcb5d63225a0d57a2d	Mouse Trap (1982) (Coleco).int	intellivision-opengood
+828101531d09e38dac4cb31954b5ae6e	Mr. Basic Meets Bits 'N Bytes (1983) (Mattel) [!].int	intellivision-opengood
+e9e7bda7061f0ed2442d2f63d69907ea	Mr. Basic Meets Bits 'N Bytes (1983) (Mattel) [b1].int	intellivision-opengood
+8e39e8b421879e01e0d3dede29279a4e	MTE201 Intellivision Test Cartridge (1978) (Mattel).int	intellivision-opengood
+ec08c8432f695446bcb78411775fa8b4	NASL Soccer (1979) (Mattel).int	intellivision-opengood
+efaff20e6bbeb707b2486d031e3e1078	NBA Basketball (1978) (Mattel).int	intellivision-opengood
+d0ef7a007e8635a13942fb6da48012a2	NFL Football (1978) (Mattel).int	intellivision-opengood
+6307b4ea467874b393a9a3f07f3eb50f	NHL Hockey (1979) (Mattel).int	intellivision-opengood
+b5e9a146f4f04daab3ba68b0ec45958a	Night Stalker (1982) (Mattel).int	intellivision-opengood
+74edfe78c836ac3844e7676bfe61efc5	Nova Blast (1983) (Imagic) [!].int	intellivision-opengood
+f11987699a66c59ac874a50a5d905647	Number Jumble (1983) (Mattel) [!].int	intellivision-opengood
+34b9e686aee6f418d431a2f9a5a5c0cb	Pac-Man (1983) (Atarisoft).int	intellivision-opengood
+8cd6023881ab241b3216d38c89f1d088	Pac-Man (1983) (Intv Corp).int	intellivision-opengood
+26b658bb3f761ee0d50e93cb782e08ec	PBA Bowling (1980) (Mattel).int	intellivision-opengood
+b707c1d38c0c21a7513d1dc0739cdf12	PGA Golf (1979) (Mattel).int	intellivision-opengood
+2828ce0b76c7f8a5e3a4569fac5c8eb9	Pinball (1981) (Mattel).int	intellivision-opengood
+16e989656458afd35d3c2e1aaa950697	Pitfall! (1982) (Activision) [!].int	intellivision-opengood
+20a828f38df6569b9b6e16d58d0c37c8	Pole Position (1986) (Intv Corp).int	intellivision-opengood
+5bdcf45165f46d5de3c3d43d9e95da64	Pong (1999) (Joseph Zbiciak).int	intellivision-opengood
+9e8aa1ab70b221e320191ae4b71f9ee2	Popeye (1983) (Parker Bros).int	intellivision-opengood
+f195f52eff1b67b4f7e667f4e4a5c70b	PSG Tinkerer (2002) (Ryan Kinnen).bin	intellivision-opengood
+1c697df0beb93eec95407bf87285a58a	Q-bert (1983) (Parker Bros).int	intellivision-opengood
+61d8dd664d255dfca43f8b40802d76ae	Reversi (1984) (Mattel).int	intellivision-opengood
+13b129ad0fcdb79911ccbdf6b741201f	River Raid (1982-83) (Activision) [!].int	intellivision-opengood
+9801155edc40f19197bb2216611713e7	River Raid V1 (Prototype) (1982-83) (Activision).int	intellivision-opengood
+380f8f83ef63b2c6c1cd92759ba9b92d	Robot Rubble V1 (Prototype) (1983) (Activision) [o1].int	intellivision-opengood
+c58665b14aa2fb3003c3d153aa37984e	Robot Rubble V1 (Prototype) (1983) (Activision).int	intellivision-opengood
+69c4e7bd55d70a04c4cdf48fb5170cf7	Robot Rubble V2 (Prototype) (1983) (Activision).int	intellivision-opengood
+4f20eb32cebcf182a57d28482a8fc4ad	Robot Rubble V3 (Prototype) (1983) (Activision) [!].int	intellivision-opengood
+bcf1b30ba80303b36b1cc3bdd5042c1e	Royal Dealer (1981) (Mattel).int	intellivision-opengood
+4bfef6fb118b790555657117a3994385	RPN Calculator V1.0 (2003) (Arnauld Chevallier).bin	intellivision-opengood
+80a64f49d53bb0c2401fbfd4b6fd6e19	Safecracker (1983) (Imagic) [!].int	intellivision-opengood
+fb5b1d020e643681cb9bf1b956db0435	Santa's Helper (1983) (Mattel).int	intellivision-opengood
+cb590a4bb37d38ec7e96cf140c6e649d	Scooby Doo's Maze Chase (1983) (Mattel).int	intellivision-opengood
+f160a18c24f5803b52e854415f8e88f1	SDK-1600 Bouncing Pixels (2002) (Joseph Zbiciak).bin	intellivision-opengood
+603bbc97bb5a741d21ad6e21f8b58ffd	SDK-1600 GRAM-Based Scrolling Demo#1 (2002) (Joseph Zbiciak).bin	intellivision-opengood
+ee325e3c3a70f4cd99fd6710341c0f63	SDK-1600 GRAM-Based Scrolling Demo#2 (2002) (Joseph Zbiciak).bin	intellivision-opengood
+839616b1f55e76d658058674fc3ffb17	SDK-1600 Hand Controller Scanning Demo (2002) (Joseph Zbiciak).bin	intellivision-opengood
+484611ed24a89ba7ce93cddb1a9728b6	SDK-1600 Hello World (2002) (Joseph Zbiciak).bin	intellivision-opengood
+bec32f118d753a3b3aab059c22eec4e7	SDK-1600 Intellicart Bankswitched Memory Test (2002) (Joseph Zbiciak).bin	intellivision-opengood
+07f4891283ccf8fe2b44af3cee84b854	SDK-1600 Intellicart Bankswitched Spinning World (2002) (Joseph Zbiciak) [a1].rom	intellivision-opengood
+b0242f3f1370fccf5cee68835db2cbe7	SDK-1600 Intellicart Bankswitched Spinning World (2002) (Joseph Zbiciak).bin	intellivision-opengood
+2c442eb97359fd5144d0048988c5d371	SDK-1600 Intellicart Bankswitching Demo (2002) (Joseph Zbiciak) [a1].rom	intellivision-opengood
+7072f54591053d652d92b6bbba280154	SDK-1600 Intellicart Bankswitching Demo (2002) (Joseph Zbiciak).bin	intellivision-opengood
+686ab54de3fcf38375e81a53316481c0	SDK-1600 Intellicart Memory Test (2002) (Joseph Zbiciak).bin	intellivision-opengood
+f12a670976b04a481c1b88911aeb7eec	SDK-1600 John Conway's Life (2002) (Joseph Zbiciak).bin	intellivision-opengood
+ae50fef0a65eb37334721deb7be6788d	SDK-1600 Maze Demo (2002) (Joseph Zbiciak).bin	intellivision-opengood
+bf156f2d60a1d0734ccace32e2074569	SDK-1600 Movable Object Demo (2002) (Joseph Zbiciak).bin	intellivision-opengood
+7e5362d84aa0965a931ea2daaac80f58	SDK-1600 Psycho Balls #1 (2002) (Joseph Zbiciak).bin	intellivision-opengood
+f2cd3af6f09e60bf559a0767633df318	SDK-1600 Psycho Balls #2 (2002) (Joseph Zbiciak).bin	intellivision-opengood
+43d788623970cc87961d350a2b89a691	SDK-1600 ROM Checksummer (2002) (Joseph Zbiciak).bin	intellivision-opengood
+464e3ba8402c66c0db8a691ed4633d50	SDK-1600 Spinning World (2002) (Joseph Zbiciak).bin	intellivision-opengood
+2275eaad03c52888a3d1a90df614c604	SDK-1600 Tag-Along Todd #1 (2002) (Joseph Zbiciak).bin	intellivision-opengood
+f08bfa20d4311ba994313b3e2d773741	SDK-1600 Tag-Along Todd #2a (2002) (Joseph Zbiciak).bin	intellivision-opengood
+74fb99b6bff1ba297c44116b45f3d0fe	SDK-1600 Tag-Along Todd #2b (2002) (Joseph Zbiciak).bin	intellivision-opengood
+4e9a8366eb0bb166dad7a7385417eac8	Sea Battle (1980) (Mattel).int	intellivision-opengood
+8590d338a1bb5e0feed3e8a8cd493035	Sears Super Video Arcade BIOS (1978) (Sears) [!].int	intellivision-opengood
+5e04a5b21a18170207e157390bc54185	Sewer Sam (1983) (Interphase).int	intellivision-opengood
+6fbec0115affb97d26da3d1985a4bf3f	Shark! Shark! (1982) (Mattel) [!].bin	intellivision-opengood
+9f85b961e6c40c2c786026f460ae02fa	Shark! Shark! (1982) (Mattel) [a1].int	intellivision-opengood
+a1c80e87c8b8bf9549b30e78027f137a	Sharp Shot (1982) (Mattel).int	intellivision-opengood
+6b7d47db4b5bcc2c3d2696fbf65555a1	Slam Dunk - Super Pro Basketball (1987) (Intv Corp).int	intellivision-opengood
+5ec328d358ff8c9664e4ab1deaa89f80	Slap Shot - Super Pro Hockey (1987) (Intv Corp).int	intellivision-opengood
+df286e44cb487dab088a43d22af8ccfb	Snafu (1981) (Mattel).int	intellivision-opengood
+ff0baaff4ca87535f826ad4b5ca3f814	Song Player - Back in the USSR (1999) (Joseph Zbiciak).int	intellivision-opengood
+e823b09b162c299692c5ddc5fc7dd53f	Song Player - Closing Time (2001) (Joseph Zbiciak).int	intellivision-opengood
+e42b401d3d665cd76db7320d2e6b71e0	Song Player - Copacabana (1999) (Joseph Zbiciak).int	intellivision-opengood
+c64f5e61c1b8dcff557aa81f72dd0f3b	Song Player - Creep (1999) (Joseph Zbiciak).int	intellivision-opengood
+3e77b2ccc47b78d6cdc1993a0938db8c	Song Player - Nut March (1999) (Joseph Zbiciak).int	intellivision-opengood
+765c3276e28b6293b79d04e5bf67ecb9	Song Player - Nut Reed (1999) (Joseph Zbiciak).int	intellivision-opengood
+6c4c5e815fa6e15c40f50dc728d8dd18	Song Player - Nut Trep (1999) (Joseph Zbiciak).int	intellivision-opengood
+c71b15a0f9e0787d79d03bb04d0d67fc	Song Player - Nut Waltz (1999) (Joseph Zbiciak).int	intellivision-opengood
+33d5341c96172dafdbaf6c487f2ee5f9	Song Player - Secret Agent Man (1999) (Joseph Zbiciak).int	intellivision-opengood
+c81a2f16c0db4eee16d798e658dcf55b	Song Player - Take on Me 3 (1999) (Joseph Zbiciak).int	intellivision-opengood
+9ba5144f1774d46fab54be8df01dd3e6	Song Player - Take on Me 6 (1999) (Joseph Zbiciak).int	intellivision-opengood
+4ecbb5eede54b3d784fd305dc07d9095	Song Player - Too Sexy (1999) (Joseph Zbiciak).int	intellivision-opengood
+b7c771a6062ee673936008754c987fd1	Space Armada (1981) (Mattel).int	intellivision-opengood
+8c11519753896450e6f38b8e338cb1f6	Space Battle (1979) (Mattel).int	intellivision-opengood
+976c2cc2329565aa078e51ea97c7a76c	Space Cadet (1982) (Mattel).int	intellivision-opengood
+20ba9224386c5f64b62b38fdf12589db	Space Hawk (1981) (Mattel).int	intellivision-opengood
+628f7614cc3912f5c33b1052e6c61f04	Space Spartans (1981) (Mattel) [!].int	intellivision-opengood
+fa7bf5db6680d9464161914917e16f1f	Spiker! - Super Pro Volleyball (1988) (Intv Corp).int	intellivision-opengood
+a34d1d134a23c88904e883dd7c988f13	Spirit V1.0 (2003) (Arnauld Chevallier).bin	intellivision-opengood
+547aaf6281fb4878007bc632f5f051b6	Stadium Mud Buggies (1988) (Intv Corp).int	intellivision-opengood
+e39a9065388384cf439dc1484013d993	Stampede (1982) (Activision) [!].int	intellivision-opengood
+f76a250066e55817f42872083bc854b2	Star Strike (1981) (Mattel).int	intellivision-opengood
+13478528a31d1092ba1b19a8e9626ff3	Star Wars - The Empire Strikes Back (1983) (Parker Bros).int	intellivision-opengood
+c8788c8cbf98f946713e3b562a57a816	Stonix Beta1.1 (2003) (Arnauld Chevallier).bin	intellivision-opengood
+594f2e37280feeceb46714e89293a755	Stonix Beta1.2 (2003) (Arnauld Chevallier).bin	intellivision-opengood
+66c13772531cac1e24c0c128ead79571	Street (1981) (Mattel).int	intellivision-opengood
+dd7bc297265cf2f65062966312b0b966	Sub Hunt (1981) (Mattel).int	intellivision-opengood
+f94c5691d97e77cd675c7cd65a19e8e4	Super Cobra (1983) (Konami).int	intellivision-opengood
+aac27c4e64e947b67afbe05db1f458cd	Super Masters! (1982) (Mattel).int	intellivision-opengood
+ef9c76117f52ab8dae9e305c4fdd769e	Super Pro Decathlon (1988) (Intv Corp).int	intellivision-opengood
+64a2772852b1796be8554a39301bf255	Super Pro Football (1986) (Intv Corp).int	intellivision-opengood
+2c4b44090566720364a5a4627b73390a	Super Soccer (1983) (Mattel).int	intellivision-opengood
+1f35f843ec58cc700cda9e3ed35cdabe	Swords and Serpents (1982) (Imagic) [!].int	intellivision-opengood
+7589db92726d2f6b4c4d9749b4a2c707	Takeover (1982) (Mattel).int	intellivision-opengood
+dcf742ed6ee2101769a48faf45145f2c	Tennis (1980) (Mattel).int	intellivision-opengood
+4e0c836abb43d9522206c6c8705bb8c1	Tetris (2000) (Joseph Zbiciak).int	intellivision-opengood
+8c554fd4d06624bf878f3d50f5b59463	Thin Ice (Prototype) (1983) (Intv Corp) [!].int	intellivision-opengood
+603ad521602531b5c9ad3e77ac47e590	Thunder Castle (1982) (Mattel).int	intellivision-opengood
+95b106acaecab4fe3d43970eae893452	Tower of Doom (1986) (Intv Corp).int	intellivision-opengood
+df8bf33772ee8a983ee67687a53a0d4a	Triple Action (1981) (Mattel).int	intellivision-opengood
+bb2b785135b610aae525fb92ed83e851	Triple Challenge (1986) (Intv Corp).int	intellivision-opengood
+a0ae3c350acb9b9bc51128011483d4be	TRON - Deadly Discs (1981) (Mattel).int	intellivision-opengood
+251eae6057e3b55773748c39850cbcbe	TRON - Deadly Discs - Deadly Dogs (1987) (Intv Corp).int	intellivision-opengood
+780a2be0e38ac7fd6a7a6d350cd18284	TRON - Maze-A-Tron (1981) (Mattel).int	intellivision-opengood
+e9e3c2a1c3690748d34f711ceab625cd	TRON - Solar Sailer (1982) (Mattel).int	intellivision-opengood
+e5836f66acd6ba7b31c7dccda23b34dc	Tropical Trouble (1982) (Imagic) [!].int	intellivision-opengood
+dca85bcea1f05fb81d38826433152be0	Truckin' (1983) (Imagic) [!].int	intellivision-opengood
+38a04c6d7bb006435cd2c3b28755396c	Turbo (1983) (Coleco).int	intellivision-opengood
+be9e56495af99f3f29ef3bc3b0a51fd4	Tutankham (1983) (Parker Bros).int	intellivision-opengood
+04004ff8abf2bf4ee5992a0a8f20d3c4	U.S. Ski Team Skiing (1980) (Mattel).int	intellivision-opengood
+11b861f65c37a59e67ff028435ac2025	USCF Chess (1981) (Mattel).int	intellivision-opengood
+b93b1169c33b7220887ac7af54224976	Utopia (1981) (Mattel).int	intellivision-opengood
+4c149598be3a6c3974ff5f90005484fc	Vectron (1982) (Mattel).int	intellivision-opengood
+45b6ebfcecdba7730de30c5f95005ca6	Venture (1982) (Coleco).int	intellivision-opengood
+7dbe8519c0ed760b0aa88c5769b1afd1	White Water! (1983) (Imagic) [!].int	intellivision-opengood
+df8ff041f1f3c9dfad0cf651c67799ca	World Cup Football (1985) (Nice Ideas).int	intellivision-opengood
+2a107d2d1e71a0dd403a8d287a6e08bc	World Series Major League Baseball (1983) (Mattel) [!].int	intellivision-opengood
+a9e4def140f13baed21c093bf1d501e7	World Series Major League Baseball (1983) (Mattel) [b1].int	intellivision-opengood
+49999333cf35d0cb321802ca378a7af7	Worm Whomper (1983) (Activision) [!].int	intellivision-opengood
+4c5c490b225748cc6777afe3af0d74cb	Zaxxon (1982) (Coleco).int	intellivision-opengood

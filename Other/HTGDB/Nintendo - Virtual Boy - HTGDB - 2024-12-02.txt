@@ -1,0 +1,508 @@
+7e8014d0d080b80b2eaf77da8894efa4	3-D Tetris (USA)_pad.vb	vb-htgdb
+36b06218a3fe70a94d93c19096195e07	Galactic Pinball (Japan, USA)_pad.vb	vb-htgdb
+977c4da800dacfac1a1402781670f872	Golf (USA).vb	vb-htgdb
+6326c9bd0c0da480af558264797c2f49	Innsmouth no Yakata (Japan)_pad.vb	vb-htgdb
+8d09663208e5a02e4c93c86412ac1a13	Jack Bros. (USA)_pad.vb	vb-htgdb
+9b7ab0cd3ab1fff6a6b7cf15403cd843	Jack Bros. no Meiro de Hiihoo! (Japan)_pad.vb	vb-htgdb
+772b619862778366646382962d0505ce	Mario Clash (Japan, USA)_pad.vb	vb-htgdb
+d14a6a5903c69bfe35368170c57b059c	Mario's Tennis (Japan, USA)_pad.vb	vb-htgdb
+0285dc41d75be8419d12472f20025305	Nester's Funky Bowling (USA).vb	vb-htgdb
+1ebb523ca33c58f0b9ddfee3d66eb13b	Panic Bomber (USA)_pad.vb	vb-htgdb
+f83fd60e34b5dec8daf9df1c6960279c	Red Alarm (Japan)_pad.vb	vb-htgdb
+d60c2a68ae196c46e23a2d3ee96a93b3	Red Alarm (USA)_pad.vb	vb-htgdb
+e4f5fe5c496e52a69dc28125fda328f2	SD Gundam - Dimension War (Japan)_pad.vb	vb-htgdb
+70cca6eca92a6992e492434096308dee	Space Invaders - Virtual Collection (Japan)_pad.vb	vb-htgdb
+a3f8ead4cf4b17f46cabf3aab95a9f9b	Space Squash (Japan)_pad.vb	vb-htgdb
+c1dc0852af217146f93d701e1da233d4	T&E Virtual Golf (Japan).vb	vb-htgdb
+8dc8227f4a05cb475da75eef10d407ed	Teleroboxer (Japan, USA)_pad.vb	vb-htgdb
+75f3e0b77bc82dddbc730b9b9b3f8066	Tobidase! Panibon (Japan)_pad.vb	vb-htgdb
+d8cf77a5780b7559d9fe344578215e2f	V-Tetris (Japan)_pad.vb	vb-htgdb
+a88c1ea249844ec2ec541a60fb64fc4d	Vertical Force (Japan)_pad.vb	vb-htgdb
+de237ff6353ddebbe2ef6d1379c8064d	Vertical Force (USA)_pad.vb	vb-htgdb
+4763bdf43b3a776d984f32bdc83577c2	Virtual Bowling (Japan)_pad.vb	vb-htgdb
+fb4dc9f4ebd506702eb49e99a62bd803	Virtual Boy Wario Land (Japan, USA).vb	vb-htgdb
+276fc7431fc07407f834f3c6c6dbf07d	Virtual Fishing (Japan)_pad.vb	vb-htgdb
+6b48d0b02281ff2c3316acf4de514e57	Virtual Lab (Japan)_pad.vb	vb-htgdb
+0e03339aa052a61c51de0b311cc1b3d3	Virtual League Baseball (USA)_pad.vb	vb-htgdb
+4d0edf73b4a208c33508cf151567bcdb	Virtual Pro Yakyuu '95 (Japan)_pad.vb	vb-htgdb
+110a83bc070559c5cc5634a8b5cae274	Waterworld (USA).vb	vb-htgdb
+ac37f20f1863c8e5062774e6e9887d9f	Adventure Island Pack.vb	vb-htgdb-gbemu
+19bd0410bbdc64bc8595834c8d3134fd	Adventures of Lolo, Amazing Penguin, Tater, Toshinden.vb	vb-htgdb-gbemu
+2a20d55096560367925dcb5edc12b2e1	Aero Star Pack.vb	vb-htgdb-gbemu
+3ecc30b16e4407af36972a7242c0e241	Atomic Punk.vb	vb-htgdb-gbemu
+2921a953019e514f0d3d0aa3b7edc65c	Avenging Spirit.vb	vb-htgdb-gbemu
+dfb43075a247df2ea0f565ccc71f9078	Balloon Kid.vb	vb-htgdb-gbemu
+814ec21672006b44f8a5deae1cc75a18	Batman Pack.vb	vb-htgdb-gbemu
+eab03bd2a6e7176f38544827adef1eee	Bionic Commando.vb	vb-htgdb-gbemu
+511bd906d3a65cad1f409b01901edbda	Blades of Steel.vb	vb-htgdb-gbemu
+79d622d09e3c079d4872766d9d597234	Blaster Master Boy.vb	vb-htgdb-gbemu
+307df04e1cf2ac5d69ef86b8be0b239e	Bomberman Pack.vb	vb-htgdb-gbemu
+e44f4bc0a39eb7e00415164296f3e757	Bonk's Revenge.vb	vb-htgdb-gbemu
+ca65c74c588f85b4fcf5498d1d287ea3	Boulder Dash.vb	vb-htgdb-gbemu
+bdf42164ed56ba612d7b26d3f8704e2a	Bubble Bobble Pack.vb	vb-htgdb-gbemu
+20952b7d33e1ef221d8b948af9d42bb0	Bugs Bunny Crazy Castle Pack (BB, BB2).vb	vb-htgdb-gbemu
+476aed7307588c0a511b10265979e8e8	Burai Fighter.vb	vb-htgdb-gbemu
+e614939ac10c725931982739e587d65c	Burger Time.vb	vb-htgdb-gbemu
+511bd25024113c04292d1d4d865a405a	Bust-A-Move Pack.vb	vb-htgdb-gbemu
+81f9b625b6fd3cfb0fb835663706e382	Buster Bros.vb	vb-htgdb-gbemu
+fc2ae7d14e74421780d9ad6231d95108	Castlevania Pack.vb	vb-htgdb-gbemu
+9963c2cb1e9771c49829d732f101ed24	Catrap & Cave Noir.vb	vb-htgdb-gbemu
+23be3b2cddd0d658da16cb7db8536707	Catrap, Cave Noir, Chalvo 55, Crayon-Shin, Princess Blobette.vb	vb-htgdb-gbemu
+8c313e332189bc2376c000bfbbc2c12f	Centipede.vb	vb-htgdb-gbemu
+d5d79020fe0696aad9f224412fac1167	Chase H.Q. Pack.vb	vb-htgdb-gbemu
+cbfa8f1314f0203f92950ec4b82d4805	Chikyuu Kaihou Gun ZAS.vb	vb-htgdb-gbemu
+782164ab18cc8e6b08750d8d37549633	Contra Pack (Contras & Operation C).vb	vb-htgdb-gbemu
+5a88e04c0fad5c18e7814c86fe820421	Dig Dug.vb	vb-htgdb-gbemu
+fd82f20f7c18c227e1f80dcfd89f4c59	Donkey Kong Pack.vb	vb-htgdb-gbemu
+c923d972f2e0d1ecd0e60ca5913e5bfb	Double Dragon Pack.vb	vb-htgdb-gbemu
+5956a21d05daadce316a276f55ddd036	Dr. Mario.vb	vb-htgdb-gbemu
+383e7adeca4b3a0e1044342d4842be4d	DuckTales Pack.vb	vb-htgdb-gbemu
+cc9bcf10efa3a3c11804a0c72733251e	Faceball 2000.vb	vb-htgdb-gbemu
+cd766910c3522a9b959d6ad8e4a320ae	Final Fantasy Pack (FFL3, FLA).vb	vb-htgdb-gbemu
+ac5f43e01667e98f3c804f86b944188b	Galaga & Galaxian.vb	vb-htgdb-gbemu
+5e17e963ed06a6e6001c6441e896c8a8	Game & Watch Gallery.vb	vb-htgdb-gbemu
+bb9c9c79bf93e298a0ed24adf504bd51	Game Boy Color Warning Screen.vb	vb-htgdb-gbemu
+1f11b6b25c6cecb69850281befeba770	Gargoyle's Quest & Makai-Mura Gaiden.vb	vb-htgdb-gbemu
+ef05c739dbd35cb09668bbddeaff6273	Gradius.vb	vb-htgdb-gbemu
+6c2f1e3d9675751d65f2b295d2f72e6b	Harvest Moon.vb	vb-htgdb-gbemu
+95c5a640e0742bd62f6ea52f3280f861	Hyper Lode Runner, Fortified Zone, Kid Dracula.vb	vb-htgdb-gbemu
+a756bec79a12e98f07dedd4dacb3efd0	James Bond 007.vb	vb-htgdb-gbemu
+6f1897dc86efc5c161d72524a9fe73e4	Kid Icarus.vb	vb-htgdb-gbemu
+8d1ab458015821ed4f4dafeee939eb97	Kirby's Dream Land.vb	vb-htgdb-gbemu
+858cd4d30afb75f8de6b0a782bdf1adf	Legend of Zelda - Link's Awakening.vb	vb-htgdb-gbemu
+6eeadf24932a86a280ccddd3626b23b8	Mega Man Pack.vb	vb-htgdb-gbemu
+bbd340cc0286c9901a49034288807b05	Metroid II.vb	vb-htgdb-gbemu
+c165c1fe8718c5914a4a51a9ad5220a1	Mickey Mouse Pack.vb	vb-htgdb-gbemu
+05cc7d0ebe4747c5da2fcb806a7d5c20	Mole Mania, Rolans, Skate, Solomon, Spud, SwordHope, Tecmo, TripWorld.vb	vb-htgdb-gbemu
+a45c73fcd7c583aa2565b00a5ce89f44	Nemesis Pack (N, N2).vb	vb-htgdb-gbemu
+5e3efe88031dbc8b489a42ef5ff152f3	Ninja Gaiden Shadow.vb	vb-htgdb-gbemu
+8380a14413c11241811c4e178de98ebd	Pac-Man Pack.vb	vb-htgdb-gbemu
+13e9396e444e693fe187e3f67ad1d9cc	Parodius.vb	vb-htgdb-gbemu
+4feaed6e65781a351f40879d33372d7c	R-Type Pack.vb	vb-htgdb-gbemu
+9dc329ee8aadeb56213f3c616d860627	Shoot 'em Ups Pack A-F.vb	vb-htgdb-gbemu
+e43ac1d354503cc712a3f26b0f026b0c	Shoot 'em Ups Pack G-S.vb	vb-htgdb-gbemu
+91208d2e8b5dd37d360cae3cb008ff0a	Shoot 'em Ups Pack T-Z.vb	vb-htgdb-gbemu
+d602544bb0e8855a0a2a62006b18b71a	SolarStriker.vb	vb-htgdb-gbemu
+45dca0daeaeaf51402ea696c6158dbfa	Super Mario Land Pack (SML, SML2).vb	vb-htgdb-gbemu
+f869e7912f30e9362a25548da95caf36	TaleSpin.vb	vb-htgdb-gbemu
+65c513c7094cfb51a2a7377a848011f3	Tetris Attack Pack.vb	vb-htgdb-gbemu
+ddc93b5c1b44df1fd2d778d696836d70	Tetris Pack (T, T2, TP).vb	vb-htgdb-gbemu
+cfaf4a1fef160c5277d075438f89c3d4	TMNT Pack (TMNT2, TMNT3).vb	vb-htgdb-gbemu
+539e867781d6273d75c20e5026b89748	Turrican.vb	vb-htgdb-gbemu
+50d84e06ec7fb98db62a38f4b13746ce	Twinbee da!.vb	vb-htgdb-gbemu
+c857ade6b8f7dab3c796c859c2ed2745	Wario Land Pack (WL, WL2).vb	vb-htgdb-gbemu
+a31652b6d1e7fc647c4af7b9dfe05ff5	1942 (USA, Europe).gbc	vb-htgdb-gbemu-scripts
+e7970ccd6699ece3585e08e4ef88d190	A-Force (Sachen 4-in-1 Vol. 6) (Unl) [!].gb	vb-htgdb-gbemu-scripts
+53b746bff74c50cd3ebcf41161c66cf3	A-mazing Tater (USA).gb	vb-htgdb-gbemu-scripts
+d67e58bf5f39d5fb073fed85c3d9bede	Adventure Island (USA, Europe).gb	vb-htgdb-gbemu-scripts
+ed2444afe317452e29c1c2258da6963c	Adventure Island II - Aliens in Paradise (USA, Europe).gb	vb-htgdb-gbemu-scripts
+8f6b6ef366a787852f664d945c86eb72	Adventures of Lolo (U) [S][!].gb	vb-htgdb-gbemu-scripts
+4b4d6e6d4870d36a26e6fe6ad73b0eac	Aero Star (Japan).gb	vb-htgdb-gbemu-scripts
+f777a4526089a83ca758efbf01007ec1	Aerostar (USA, Europe).gb	vb-htgdb-gbemu-scripts
+d8326bfee457ccb2c0afb8dd6ac11db2	Amazing Penguin (USA, Europe).gb	vb-htgdb-gbemu-scripts
+516085555e451966b9dd5166dfe6c728	Arcade Classic No. 2 - Centipede & Millipede (USA, Europe) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+19fd29efaf7ea9e314bd613954a92169	Arcade Classic No. 3 - Galaga & Galaxian (USA) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+13749826df12da4574e34ccb6d9c780d	Asteroids (USA, Europe).gb	vb-htgdb-gbemu-scripts
+76010c6ff6bd0c4e8ac934dc69fb96ab	Atomic Punk (USA).gb	vb-htgdb-gbemu-scripts
+e88eab57ab4614966748280bf3c97f52	Avenging Spirit (USA, Europe).gb	vb-htgdb-gbemu-scripts
+f70c60ca87714fa9d81be60c9ac93de0	Balloon Kid (USA, Europe).gb	vb-htgdb-gbemu-scripts
+97bc907deba1e7d7c9bc72fca0310822	Batman - Return of the Joker (USA, Europe).gb	vb-htgdb-gbemu-scripts
+ae073c63ff7d151dc2dd406830fbbdc2	Batman - The Animated Series (USA, Europe).gb	vb-htgdb-gbemu-scripts
+03c6d84a951be6703b7458478f4277b9	Batman - The Video Game (World).gb	vb-htgdb-gbemu-scripts
+28737a5c760938a9746fa9e1a2fcefc6	Batman Forever (USA, Europe).gb	vb-htgdb-gbemu-scripts
+75b5f31fbacb972fc104b3e77d09003b	Battle Arena Toshinden (USA) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+023a8fd8eacad0656b5110da26dcdd44	Battle Unit Zeoth (USA, Europe).gb	vb-htgdb-gbemu-scripts
+e6980267d58310af5ad57570045a95fa	BattleCity (Japan).gb	vb-htgdb-gbemu-scripts
+f89a33de3fa660a13ec29bb323efffa9	Bionic Commando (USA).gb	vb-htgdb-gbemu-scripts
+302caa3ceddccc5fba36787b44d25da7	Blades of Steel (USA).gb	vb-htgdb-gbemu-scripts
+c4868bf46a993b4c33a9a8af5341282a	Blaster Master Boy (USA).gb	vb-htgdb-gbemu-scripts
+15d9979ace470a0abf9c83bc1f81dabf	Blaster Master Jr. (Europe).gb	vb-htgdb-gbemu-scripts
+7e4c9c3620bea7b633394beb67e9680b	Bomberman GB (USA, Europe) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+22e2a5e30bb1c77b8fefe4c4e265681e	Bomberman GB 3 (J) [S][T+Eng1.00_MakoKnight].gb	vb-htgdb-gbemu-scripts
+b73d76599e3d7f979a99bba5f1c92add	Bonk's Revenge (USA) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+800c1a8f99bea585490673352b5f11f4	Boulder Dash (Europe).gb	vb-htgdb-gbemu-scripts
+11c49d405eef2174d9c14682204bb458	Bubble Bobble (USA, Europe).gb	vb-htgdb-gbemu-scripts
+8bbb9ba0d72548706e4e5eba1b3a9fe1	Bubble Bobble Part 2 (USA, Europe).gb	vb-htgdb-gbemu-scripts
+7f970d79f06cfb4270dea4b051277098	Bubble Ghost (USA, Europe).gb	vb-htgdb-gbemu-scripts
+8963803e642dbfbe4f5f3bc5a567785d	Bugs Bunny Crazy Castle 2, The (USA).gb	vb-htgdb-gbemu-scripts
+43189b859c0036119f233d46b1f2e9fd	Bugs Bunny Crazy Castle, The (USA, Europe).gb	vb-htgdb-gbemu-scripts
+dd5aa6e85827a3ce6e4b7500e75a3262	Burai Fighter Deluxe (USA, Europe).gb	vb-htgdb-gbemu-scripts
+90a34d9897acb1e78e00d6d5a2af419f	Burai Senshi Deluxe (Japan).gb	vb-htgdb-gbemu-scripts
+9627134ca3ea6e885275d30460ce3563	BurgerTime Deluxe (World).gb	vb-htgdb-gbemu-scripts
+fa91adc7023e03f97ec36f66876a569e	Bust-A-Move 2 - Arcade Edition (USA, Europe).gb	vb-htgdb-gbemu-scripts
+2b1221e85b545bba7e2291fede03fd96	Bust-A-Move 3 DX (Europe).gb	vb-htgdb-gbemu-scripts
+4545b34c19f2349b2a99262a1fc5c8d9	Bust-A-Move 4 (UE) (Mono Hack).gb	vb-htgdb-gbemu-scripts
+d97f34c22a179fb4094acbc05616f565	Buster Bros. (USA).gb	vb-htgdb-gbemu-scripts
+9fdd2a4c6cd4ca3abbc16d7621cb79be	Castlevania - Legends by Silver X (Speed (V1.1) Hack) [S].gb	vb-htgdb-gbemu-scripts
+0b4410c6b94d6359dba5609ae9a32909	Castlevania - The Adventure (USA).gb	vb-htgdb-gbemu-scripts
+4b668d41388b39cf740b3a57e63ac1c9	Castlevania Adventure, The (Graphics Improved Hack).gb	vb-htgdb-gbemu-scripts
+7c65e9da405d2225d079f75e56276822	Castlevania II - Belmont's Revenge (USA, Europe).gb	vb-htgdb-gbemu-scripts
+010768f666974da289077b21b113a7cd	Castlevania II - Belmont's Revenge by Silver X (Speed (V1.1) Hack).gb	vb-htgdb-gbemu-scripts
+1475824e7262c0d6359f43c287e034a5	Castlevania Legends (USA, Europe) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+5a75fe8de54e4cbd09cae23f050f6965	Catrap (USA).gb	vb-htgdb-gbemu-scripts
+9cf7725b41ee950f58c33e060718c2cf	Cave Noire (english translation).gb	vb-htgdb-gbemu-scripts
+2f1f67663193e3107e028e570a7ccd86	Centipede (USA, Europe).gb	vb-htgdb-gbemu-scripts
+9c3aff83a957d13e393f99cff8445271	Centipede (USA).gb	vb-htgdb-gbemu-scripts
+254e64b81d7eaed6502afd781d909261	Chalvo 55 - Super Puzzle Action (J) [T+Eng1.0_lba].gb	vb-htgdb-gbemu-scripts
+6884a31366f565ca25935e1fba52efbc	Chase H.Q. (USA, Europe).gb	vb-htgdb-gbemu-scripts
+a74aa804a3a6439303583e6c0b413b00	Chikyuu Kaihou Gun ZAS (Japan).gb	vb-htgdb-gbemu-scripts
+d5f88d0799c85b6d59f12542da403691	Choplifter II - Rescue & Survive (USA).gb	vb-htgdb-gbemu-scripts
+04a6e77d1fabcbe325882e4bd79d6d4b	Choplifter III (Europe).gb	vb-htgdb-gbemu-scripts
+8d885e185ad2a0cb5c9e3b152bd24583	Contra - The Alien Wars (USA) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+2cc322a27530f6aaa09a35b2f14aebd5	Contra (Japan).gb	vb-htgdb-gbemu-scripts
+7b1e0dd44871aa990780d93565fdb565	Contra Spirits (Japan) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+b340bad71c781bd1394d95241ed1adce	Cosmo Tank (USA).gb	vb-htgdb-gbemu-scripts
+bcb3d47c291fd0a26b2c7b1082c3ad88	Crayon Shin-chan 4 - Ora no Itazura Daihenshin (Japan) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+e15a6b601c845e425f62ef2b7aed691f	Crystal Quest (USA).gb	vb-htgdb-gbemu-scripts
+1fca063770dda5cdfae166a4dcb3c6c5	Dan Laser (Sachen) [!].gb	vb-htgdb-gbemu-scripts
+81f7dee7546e630de075a3397349efb8	David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob (USA).gb	vb-htgdb-gbemu-scripts
+dd20af800479bbb6025cda8bb6466fb7	Deep - Final Mission (Sachen) [!].gb	vb-htgdb-gbemu-scripts
+a926508282da0b7889ab4f0947916068	Desert Strike - Return to the Gulf (USA) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+9719eaada417782a236a9d84805a512a	Dig Dug (USA).gb	vb-htgdb-gbemu-scripts
+4859ec2b18c4fabf489eb570c1d7d326	Donkey Kong (World) (Rev A) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+89bb0d67d5af35c2ebf09d9aef2e34ad	Donkey Kong Land (USA, Europe) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+545de5c311259b7f7ec313a9d58cf4b4	Double Dragon (USA, Europe).gb	vb-htgdb-gbemu-scripts
+469605e02eb10652f8f2afa8c7ebffd5	Double Dragon 3 - The Arcade Game (USA, Europe).gb	vb-htgdb-gbemu-scripts
+4f3b84eb325f9162086fac77ac577e7c	Double Dragon II (USA, Europe).gb	vb-htgdb-gbemu-scripts
+921bdff008475aa2c5344e1a0d110910	Dr. Mario (World) (Rev A).gb	vb-htgdb-gbemu-scripts
+74d96840a5c09cd88c862a5647465b81	Dropzone (Europe).gb	vb-htgdb-gbemu-scripts
+785441d3d75913393807b10b3194dc48	DuckTales (USA).gb	vb-htgdb-gbemu-scripts
+b4e5876c5acedd12b62e25a12973a4ae	DuckTales 2 (USA).gb	vb-htgdb-gbemu-scripts
+05ba7f165dab1ffd49b63b4f5c704c02	Faceball 2000 (USA).gb	vb-htgdb-gbemu-scripts
+679a4886df217025e443cf183341dab0	Final Fantasy 4 (Unl).gb	vb-htgdb-gbemu-scripts
+24cd3bdf490ef2e1aa6a8af380eccd78	Final Fantasy Adventure (USA).gb	vb-htgdb-gbemu-scripts
+db156bc96b528996ce1bf771195171af	Final Fantasy Legend III (USA).gb	vb-htgdb-gbemu-scripts
+c836b4b44edcbe8a811fb10541919fe8	Final Reverse (Japan).gb	vb-htgdb-gbemu-scripts
+a981378da19c08597db03f3ee02cd6d7	Fortified Zone (USA, Europe).gb	vb-htgdb-gbemu-scripts
+7727f43d66a77fe0284bf1b8ffede7dd	Game & Watch Gallery (USA) (Rev A) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+f3f60f92b368c619a57cb8ae29217183	Gamera - Daikai Jukuchuu Kessen (J) [S][T+Eng0.991].gb	vb-htgdb-gbemu-scripts
+63e3f5f4b90f17bdf6d2f2aed515e248	Gargoyle's Quest (USA, Europe).gb	vb-htgdb-gbemu-scripts
+59dbadb0f8d5798aec3365e53090c760	gbemu.bin	vb-htgdb-gbemu-scripts
+e10f788da29e18934c3e9161b25b96c7	Gradius - The Interstellar Assault (USA).gb	vb-htgdb-gbemu-scripts
+498c0a50a5e5cde16127617a97ad6162	Harvest Moon GB (USA) (SGB Enhanced).gbc	vb-htgdb-gbemu-scripts
+cca5288a7a9e0270592bf75c0431bbb5	Hunt for Red October, The (USA, Europe).gb	vb-htgdb-gbemu-scripts
+dc79b733997e469e961e2d850448db23	Hyper Lode Runner (World) (Rev A).gb	vb-htgdb-gbemu-scripts
+162d7af328f40daac091d949a658a869	Ikari no Yousai 2 (Japan) [T-En by Stardust Crusaders v1.00].gb	vb-htgdb-gbemu-scripts
+669a4ecf89794505591b36d617e51f8a	James Bond 007 (USA, Europe) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+2b42dbc0934fdd90bca3a4965520bf37	Jungle Strike (USA, Europe).gb	vb-htgdb-gbemu-scripts
+24a6b4457a511cc667e9ac25417401ab	Kid Dracula (USA, Europe).gb	vb-htgdb-gbemu-scripts
+23c7be98ac9a4d3b046ad1be3f0965e4	Kid Icarus - Of Myths and Monsters (USA, Europe).gb	vb-htgdb-gbemu-scripts
+62dda1b204d3e8699894cf60a3b6a769	Kid Icarus - Of Myths and Monsters DX by Redrum (Hack).gb	vb-htgdb-gbemu-scripts
+a66e4918edcd042ec171a57fe3ce36c3	Kirby's Dream Land (USA, Europe).gb	vb-htgdb-gbemu-scripts
+69d643bf4e37b3c133518517338b6a1c	Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev B).gb	vb-htgdb-gbemu-scripts
+8a94d5c2d17a6bbe3a5b482030686232	Legend of Zelda, The - Link's Awakening DX (U) (V1.0) (SGB Mode Hack) [S].gb	vb-htgdb-gbemu-scripts
+3574c3ae7c83faeb018cb1c05950c25d	Makai-Mura Gaiden - The Demon Darkness (english transltion).gb	vb-htgdb-gbemu-scripts
+4ba4398181d98958fa7434ba7716f11a	Mega Man - Dr. Wily's Revenge (USA).gb	vb-htgdb-gbemu-scripts
+7fe07271d04ed9e0bc0663dde55a2ae4	Mega Man II (USA).gb	vb-htgdb-gbemu-scripts
+4c614f884a07872f12056ad1a421e1f9	Mega Man III (USA).gb	vb-htgdb-gbemu-scripts
+8a00f627b8902c92327435901c249e19	Mega Man IV (USA).gb	vb-htgdb-gbemu-scripts
+bf3d90ff1c8d4827b5657d7b15d84fde	Mercenary Force (USA, Europe).gb	vb-htgdb-gbemu-scripts
+9639948ad274fa15281f549e5f9c4d87	Metroid II - Return of Samus (World).gb	vb-htgdb-gbemu-scripts
+38b65d28ac0bd619f5dee5a45d5fc542	Mickey Mouse - Magic Wands (USA, Europe) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+9f5ddc6ee110a6843b1d9d9a08514c71	Mickey Mouse II (Japan).gb	vb-htgdb-gbemu-scripts
+744dc7e4b03d16b8b6dd35a697c77892	Mickey Mouse IV (Japan).gb	vb-htgdb-gbemu-scripts
+b1864ab2fa592aa7e8337c308df08047	Mickey Mouse V (Japan).gb	vb-htgdb-gbemu-scripts
+16bc18ef00088094e9fad502e613be5e	Mickey's Dangerous Chase (USA).gb	vb-htgdb-gbemu-scripts
+f7d266bc81c150796ae373bddd0a9a84	Mickey's Ultimate Challenge (USA, Europe).gb	vb-htgdb-gbemu-scripts
+ff0033ceecd7562360c5d5d3cae76575	Missile Command (USA, Europe).gb	vb-htgdb-gbemu-scripts
+f28ade3926852a8ad2e449c274683956	Mole Mania (USA, Europe) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+ffa8642a18781fbe79df436a761a9775	Ms. Pac-Man (USA).gb	vb-htgdb-gbemu-scripts
+1eb7ff636e532321a18885eea660604a	Nemesis (USA).gb	vb-htgdb-gbemu-scripts
+ba760b6d4b96baf0fa2e7ad6e4498a95	Nemesis II - The Return of the Hero (Europe).gb	vb-htgdb-gbemu-scripts
+3d818762aa83330ce4426f8005cc374b	New Batman Adventures, The - Chaos in Gotham (USA).gbc	vb-htgdb-gbemu-scripts
+e12c5c2897ed095f8d26c7578afddfda	Ninja Gaiden Shadow (USA).gb	vb-htgdb-gbemu-scripts
+c6effb3a51b36056411760d1ffe048f7	Operation C (USA).gb	vb-htgdb-gbemu-scripts
+8a0430cf49abda1fc055c16d2bbea387	Pac-Attack (USA) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+f6b898bfaa367ac1b0782a363cd098c7	Pac-Man (USA).gb	vb-htgdb-gbemu-scripts
+031e78c5067b88abe2870841d1125a29	Pang (Europe).gb	vb-htgdb-gbemu-scripts
+c94afb46cada0118aa8ff08cc07749a4	Parodius (Europe).gb	vb-htgdb-gbemu-scripts
+2e3a0305f79b058cc4618565bc2db745	Parodius Da! (Japan).gb	vb-htgdb-gbemu-scripts
+586ec6c567c255fa060bc62e20900354	Penta Dragon (J) [T+Eng].gb	vb-htgdb-gbemu-scripts
+3050cdf055b1d036f85c9c629b03fbf2	Pocket Bomberman (Europe) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+05d5cf3404868efc22ac06e22ab5ba89	Pop'n TwinBee (Europe).gb	vb-htgdb-gbemu-scripts
+972dc35b3b2bd0762999b1ae48da94f6	R-Type (USA, Europe).gb	vb-htgdb-gbemu-scripts
+967030223fa85f7ba4ac71f26837f831	R-Type II (Europe).gb	vb-htgdb-gbemu-scripts
+3defa1c909af45963f3ad867ec5f3414	Ray-Thunder (Japan).gb	vb-htgdb-gbemu-scripts
+a477ac86be35d1fa70b708ad08dc88b8	RoboCop (USA, Europe) (Rev A).gb	vb-htgdb-gbemu-scripts
+27f2c99b13cbdb5a5be4afce87b9039b	Rolan's Curse II (USA).gb	vb-htgdb-gbemu-scripts
+70a9ef90ad443881ca90cdd8d910ae66	Sagaia - Darius (Japan).gb	vb-htgdb-gbemu-scripts
+ed7318b615b0a827f3edcff0c817caea	Skate or Die - Bad 'N Rad (USA).gb	vb-htgdb-gbemu-scripts
+83bed4ebefeece45748258fd2ef105b3	SolarStriker (World).gb	vb-htgdb-gbemu-scripts
+8a5ccf172f31a0dbfa0600d40b388fdc	Solomon's Club (USA).gb	vb-htgdb-gbemu-scripts
+d32b9da8028d357e20c791b07ded4f86	Space Invaders (USA) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+c9e8c196d57aab17c4c171816fcd6492	Spud's Adventure (USA).gb	vb-htgdb-gbemu-scripts
+c284b8a9019020336c89b680fb6552e4	Star Hawk (Europe).gb	vb-htgdb-gbemu-scripts
+b259feb41811c7e4e1dc200167985c84	Super Mario Land (World) (Rev A).gb	vb-htgdb-gbemu-scripts
+4bd6e929ec716a5c7fe7dc684860d551	Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev B).gb	vb-htgdb-gbemu-scripts
+9ba2999ef3ecf9e27ac6c88e995c9d7a	Super R.C. Pro-Am (USA, Europe).gb	vb-htgdb-gbemu-scripts
+64f7f8af18f75a9b3767e4637e693be7	Sword of Hope II, The (USA).gb	vb-htgdb-gbemu-scripts
+0a96c9c737a07148fd065b3c121dcbb2	Taito Chase H.Q. (Japan).gb	vb-htgdb-gbemu-scripts
+5bd352e85f75a8314e4dce538cb956c6	Taiyou no Yuusha - Fighbird GB (Japan).gb	vb-htgdb-gbemu-scripts
+26c65da146faa09505c554447792e493	TaleSpin (USA).gb	vb-htgdb-gbemu-scripts
+0221de99d11f50f79430c8ff9b430994	Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).gb	vb-htgdb-gbemu-scripts
+e6104df1feb1318ff1764c791eb4ce0e	Teenage Mutant Ninja Turtles III - Radical Rescue (USA).gb	vb-htgdb-gbemu-scripts
+982ed5d2b12a0377eb14bcdc4123744e	Tetris (World) (Rev A).gb	vb-htgdb-gbemu-scripts
+0a2e27e279ee4faac326b0cf620b269b	Tetris 2 (USA, Europe) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+8517ac370fc46971d8a8c106bde4d4c4	Tetris Attack (USA, Europe) (Rev A) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+7fbda0c87af7701bb5e75c2a77bb0143	Tetris Attack (USA) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+4511333eeecb3c9f20874d595424447c	Tetris Plus (USA, Europe) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+e39f8e545dadb5a6d77ca1487ae85c8f	Tokyo Disneyland - Mickey no Cinderella-jou Mystery Tour (Japan) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+2b42e312afbee6599ce413a8784e4e68	Torpedo Range (USA).gb	vb-htgdb-gbemu-scripts
+6e8ea043087f4ca441866b03389575e2	Total Carnage (USA, Europe).gb	vb-htgdb-gbemu-scripts
+c46e059a69d9b3b4b0b9d8d303c559b3	Trip World (Europe).gb	vb-htgdb-gbemu-scripts
+c013958fa8447be55f1e037ed4a1a9f9	True Lies (USA, Europe).gb	vb-htgdb-gbemu-scripts
+6534eff4dff0000f66a0059f0b84e71e	Turrican (USA, Europe).gb	vb-htgdb-gbemu-scripts
+0325e6464931dce2a777635e71eee877	TwinBee da!! (Japan).gb	vb-htgdb-gbemu-scripts
+d42a0f2f9205e81cbbbe132711d69d58	Urban Strike (USA, Europe) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+813755de3d7338c9442f072ed52f52b3	Vattle Giuce (Japan).gb	vb-htgdb-gbemu-scripts
+308f35e84b1984aba38814db00a4e769	Volley Fire (Japan).gb	vb-htgdb-gbemu-scripts
+14fe7234ee4bcb14adf20c743f084a35	Wario Blast featuring Bomberman! (USA, Europe) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+d9d957771484ef846d4e8d241f6f2815	Wario Land - Super Mario Land 3 (World).gb	vb-htgdb-gbemu-scripts
+e5e8910d436acb9fd218559a216501a3	Wario Land II (USA, Europe) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+988516a3d733132af304b1c6710a923a	X (Japan).gb	vb-htgdb-gbemu-scripts
+02d7df9a5ac5d859672b56be46343be1	Xenon 2 - Megablast (USA, Europe).gb	vb-htgdb-gbemu-scripts
+11be7ff8141f8d7a5c8cca903151f0ba	Yoshi no Panepon (Japan) (SGB Enhanced).gb	vb-htgdb-gbemu-scripts
+a77e8144b00215385ebf8490a539e4be	Zoids Densetsu (Japan).gb	vb-htgdb-gbemu-scripts
+e7d2329a12b789b203aecb960dfcc05f	Faceball Matej's Controls (Hack) v1 HorvatM_pad.vb	vb-htgdb-hacks
+d20ab7aba4a4e629a8ec647db6260a26	Faceball Remastered (Hack) v1.vb	vb-htgdb-hacks
+297ce3cce66511af8288edc63d2c330a	Faceball Remastered+Controls (Hack) v1 thunderstruck, HorvatM 2013-03-13.vb	vb-htgdb-hacks
+2fdd657f9029a076b08e81aabe75681c	Jack Bros. Debug Cheats (Hack) v1 Parasyte_pad.vb	vb-htgdb-hacks
+704837e3255bd44a62922c6644c535c5	Mansion of Insmouse All Hallows' Eve (Hack) Ben Stevens 2017-10-13.vb	vb-htgdb-hacks
+1364f12c11c580b163ce569042ae4471	Mansion of Insmouse Mario Madness Edition (Hack) v1 Ben Stevens_pad.vb	vb-htgdb-hacks
+bf3859019b06180fa8bd6824fce214db	Mario Clash Controller Fix (Hack) v1 DogP_pad.vb	vb-htgdb-hacks
+aa833e4391db075b8435380769dade51	Mario Clash Level Select+Controller Fix (Hack) v1 DogP_pad.vb	vb-htgdb-hacks
+b4dae4e517c1a7759f9f6666553b1199	Mario's Tennis Multiplayer (JU) v1 MK.vb	vb-htgdb-hacks
+1adecd66030c8b8e7d18e48a45c3c6e5	Panic Bomber Debug Menu (Hack) v1 Parasyte_pad.vb	vb-htgdb-hacks
+cf33dd5d47ae06f0bc2269cf3d3d4d3d	Panic Bomber Stage Select Debug (Hack) v1 Parayste_pad.vb	vb-htgdb-hacks
+69cca89512d3af5440c1a47c8f63567d	Red Alarm Debug JP Press Select 60 times, L+R+Select+A In-Game (Hack) v1 HorvatM_pad.vb	vb-htgdb-hacks
+3fedd759fdc4d756d515e4bb3001387f	Red Alarm Debug US Press Select 60 times, L+R+Select+A In-Game (Hack) v1 HorvatM.vb_pad.vb	vb-htgdb-hacks
+452db9891b03831a48a80861fe63b53c	Space Pinball Score Reset (Hack) v1 HorvatM.vb	vb-htgdb-hacks
+a3db912151c6285569694155777bcdb3	Vertical Force Debug Menu (Hack) v1 Parasyte_pad.vb	vb-htgdb-hacks
+591fde79167a6e5b246d6c6df87a2db8	Virtual Bowling Debug Menu (Hack) v1 Parayste_pad.vb	vb-htgdb-hacks
+1c2f8fcfa5165de8a515cc5c529a4f0f	Virtual League Baseball Select Any Team JP (Hack) v1 DogP.vb_pad.vb	vb-htgdb-hacks
+045dc17fec488ecf252008e6c1916db2	Virtual League Baseball Select Any Team US (Hack) v1 DogP_pad.vb	vb-htgdb-hacks
+091ff7840839e7c3b6a7a1a14754607e	3D Battlesnake - 2 Linked VBs Only (PD) Pat Daderko 2008_pad.vb	vb-htgdb-homebrew
+cef10df7728f4398af46d51efc89d3d0	3D Crosswords (PD) Chris Read 2013_pad.vb	vb-htgdb-homebrew
+a1b32c3b70ad0875fada464d681867f7	Advanced Pasta Cooking Simulator (PD) HorvatM 2013-04-01.vb	vb-htgdb-homebrew
+10e2d744adacc49fa7771c9d8fab6437	Blox (PD) v1.1 KR155E_pad.vb	vb-htgdb-homebrew
+cc91d6389df2c9777919e8e8ab2c0e66	Blox 2 (PD) KR155E.vb	vb-htgdb-homebrew
+e9cf344ac1081c0e124dcd6faba5237e	Capitan Sevilla 2 (PD) rubengar_pad.vb	vb-htgdb-homebrew
+8a8c5fb9641d21967047e03cb294ddcd	Castle of Doom (PD) Final VirtualChris_pad.vb	vb-htgdb-homebrew
+b36a7a21dff1919804ae8803c9799daa	Channel Sweeper (PD) Final Jose Zagal_pad.vb	vb-htgdb-homebrew
+7943cf599f661776f806654606c12fcc	Daumen Kinosaurier (PD) v1 Virtual Freak.vb	vb-htgdb-homebrew
+b0bf1742b00a5d17a4e2ca82afe423ee	Deathchase (PD) Matej Horvat & Amos Bieler 2014-02-28_pad.vb	vb-htgdb-homebrew
+bc4d878cfebaee3ef758273818379ecb	Etch-A-Sketch (PD) Pat Daderko_pad.vb	vb-htgdb-homebrew
+eee8be03986ddbc3ada91b10a543f17e	Fishbone (PD) Final 3 thunderstruck, Virtual_Ben.vb	vb-htgdb-homebrew
+b8d393ceed5de6f37f432129aa00f427	Flappy Cheep Cheep (PD) Pat Daerko 2014-02-28_pad.vb	vb-htgdb-homebrew
+d7adb3f627d0a3bf058e56eb7bd9c58d	GameHero - Pad (PD) v1.1 thunderstruck.vb	vb-htgdb-homebrew
+327995b795d2cd5af52d0f40532d16b4	GoSub (PD) VirtualChris_pad.vb	vb-htgdb-homebrew
+ee4bd2cba62dad7921373907cde7324d	GoSub 3D (PD) VirtualChris 2010_pad.vb	vb-htgdb-homebrew
+b3e46cdbe57d3995065daa917a858a76	Hyper Fighting (PD) Demo 1 M.K., Mr. Anon.vb	vb-htgdb-homebrew
+5a279131dd3da752a8eaf7b714fd647f	Lights Out (PD) Guy Perfect_pad.vb	vb-htgdb-homebrew
+187e09e2188679d98ca7d055624b7be6	Mandelbrot Explorer (PD) v1 Fwirt 2010-10-30_pad.vb	vb-htgdb-homebrew
+6fd50c08f16d44da026dca190ade43fe	Mario Combat (PD) thunderstruck 2014-02-28.vb	vb-htgdb-homebrew
+7444bd4b2271c68d9d1cf57348c4cc7e	Mario Kart Virtual Cup (PD) PVBCC DogP_pad.vb	vb-htgdb-homebrew
+f92180ce67756b2dd1d876a015fa2e82	Mario VB (PD) v3.0.1 Jorgeche_pad.vb	vb-htgdb-homebrew
+6571710088543df3bda085b83437343f	PongInvaders (PD) usch_pad.vb	vb-htgdb-homebrew
+99cc910153758aaac739095a55ad7975	Simon! (PD) DogP_pad.vb	vb-htgdb-homebrew
+2999c7db49198890d5f1d4002563804e	Snatcher (PD) Demo 1 thunderstruck.vb	vb-htgdb-homebrew
+74d21ea01f97ac19e018d7f5a3e3bc7c	Soviet Union 2010 (PD) v1.2 HorvatM.vb	vb-htgdb-homebrew
+7209a6bd5d788f12e97b9247d28197ce	Soviet Union 2011 (PD v1.2 HorvatM.VB	vb-htgdb-homebrew
+86fc97da52d9e156dc7ed812027694a3	Super Bounce (PD) DogP_pad.vb	vb-htgdb-homebrew
+2a999e0efcd031a4a79b2f6550e3de57	Tic Tac Toe - 2 Linked VBs Only (PD) DogP 2008-11-11_pad.vb	vb-htgdb-homebrew
+d5047613c50a7c1db346c40991080554	Tic Tac Toe (PD) Pat Daderko_pad.vb	vb-htgdb-homebrew
+ea5ece79d3800e0dac651f840fbcd2f5	Tic-Taco-Toe 'Ten (PD) VirtualChris_pad.vb	vb-htgdb-homebrew
+c97025571a9d47aaf37562366d4f080b	Tron VB - 2 Linked VBs Only (PD) Pat Daderko 2003_pad.vb	vb-htgdb-homebrew
+f70cdaa3b30d777e4b775269b7c8f196	VB Racing - FlashBoy Version (PD) PVBCC MK_pad.vb	vb-htgdb-homebrew
+2951c7df5238431d54dd5b21ddc46cdd	Virtual Fall Coding Competition Multigame (PD) v1 thunderstruck 2015-03-01.vb	vb-htgdb-homebrew
+8b88cb77168da1f39eb922cc2d045b2d	Virtual Pong (PD) Alberto Covarrubias_pad.vb	vb-htgdb-homebrew
+8b87f0b8ce4d2ad611d62a0b7e6cd8fb	VUE Snake (PD) v1.1 KR155E_pad.vb	vb-htgdb-homebrew
+a76159d862801dd2d2187fc82e43db2d	VUE Snake RG2009 Edition (PD) KR155E_pad.vb	vb-htgdb-homebrew
+c8a9a533fd324d8885aabfe9c3130ca6	VUE Snake RG2010 Edition (PD) KR155E_pad.vb	vb-htgdb-homebrew
+9a4270c8f0f0e5a0aa25c93d4763444d	Action 54! (PD) VirtualChris 2016-05-10_pad.vb	vb-htgdb-homebrew-demos-intros
+c9366bf4ea4a0a72f5e7260c1a872f4f	Affine Demo 1 (PD) David Tucker_pad.vb	vb-htgdb-homebrew-demos-intros
+096ada9a369e7633096b65d444de6d80	Affine Mode Rotate Demo 2 (PD) David Tucker_pad.vb	vb-htgdb-homebrew-demos-intros
+2add85e4e285cba673dd93f135eba2cb	Ballface (PD) DanB.vb	vb-htgdb-homebrew-demos-intros
+117d4a5f8f19dfc8197e0ddbb5b05318	Castle of Doom Redux (PD) VirtualChris 2016-05-09_pad.vb	vb-htgdb-homebrew-demos-intros
+6e2845917ec4fdf728376801ff5b61a3	Conway's Game of Life VB 4px (PD) thunderstruck 2012-12-31_pad.vb	vb-htgdb-homebrew-demos-intros
+168e8382d29da0f818a5ce567172f99d	Conway's Game of Life VB 8px (PD) thunderstruck 2012-12-31_pad.vb	vb-htgdb-homebrew-demos-intros
+f89d6f24099ad16ff5f944ab9bb9653c	Conway's Game of Life VB Direct Screen Draw (PD) thunderstruck 2012-12-31_pad.vb	vb-htgdb-homebrew-demos-intros
+89dd1a017bb14a371b794ad5d6af8c52	Croach, The (PD) Cooler_pad.vb	vb-htgdb-homebrew-demos-intros
+82f7aa8873f265949cb5f107c0e1f2bf	Dither Test (PD) blitter_pad.vb	vb-htgdb-homebrew-demos-intros
+d86343da37cc05c84576f2a3d29f5971	F-Zero Maximum Velocity (PD) VF2013 Guy Perfect_pad.vb	vb-htgdb-homebrew-demos-intros
+6bf7e1b37df3b62c8b6a0c0412fb791e	Framebuffer Drawing Demo (PD) Pat Daderko_pad.vb	vb-htgdb-homebrew-demos-intros
+dce06d2b26cd53b90528e3e69c85a31c	GLOW Demo (PD) KR155E_pad.vb	vb-htgdb-homebrew-demos-intros
+0d6b20f4a1ce7c72f024b14ba5d00af0	Hello, World! Demo (PD) v1.1 Amos Bieler_pad.vb	vb-htgdb-homebrew-demos-intros
+1d0a8459106a11fb5f2da3ccefb1fd23	Hover Demo (PD) RunnerPack 2008-09-30.vb	vb-htgdb-homebrew-demos-intros
+b1146fdb939a4bbf2ee8eb20d5874a7b	Hunter (PD) DanB_pad.vb	vb-htgdb-homebrew-demos-intros
+e19c760911e6cb5e1425932941213b6f	Man With Ball (PD) DanB.vb	vb-htgdb-homebrew-demos-intros
+c8cfe5bbb6a314ef6de429b75e051964	Mario Flying Demo (PD) Frostgiant_pad.vb	vb-htgdb-homebrew-demos-intros
+b0a713c8b48eed7a46340fbaec780149	Matrix, The (PD) Cooler_pad.vb	vb-htgdb-homebrew-demos-intros
+17e8e1c66ca4294fc1825953a9d83e0b	Metroid VB (PD) KR155E 2009-04-01.vb	vb-htgdb-homebrew-demos-intros
+6380e765c97202794e1c767c3294b8bf	Mode 7 Demo (PD) ex Alpha_pad.vb	vb-htgdb-homebrew-demos-intros
+2e8775fd04105ebd821fa8971d108eb3	Multi Color Demo - Yoshi's Island (PD) KR155E 2018-07-18_pad.vb	vb-htgdb-homebrew-demos-intros
+45d4969bcfe338fdcaa6b24d7260317a	Multi Color Demo (PD) KR155E_pad.vb	vb-htgdb-homebrew-demos-intros
+5077395c05b287c23409096743d6dfac	Multicolor Demo (PD) KR155E 2008-03-05_pad.vb	vb-htgdb-homebrew-demos-intros
+a56fae9fef39928bc848951709321534	Null Pointer Mockup (PD) KR155E 2015-11-16_pad.vb	vb-htgdb-homebrew-demos-intros
+7ada13ac5aacf05ac8a49ee5a2baff6d	OBJ Pointer Demo (PD) Dan Bergman_pad.vb	vb-htgdb-homebrew-demos-intros
+7a039ea5eea256bd58238fee39fbc928	Pacman Demo (PD)_pad.vb	vb-htgdb-homebrew-demos-intros
+84a8a18c2bb5930ff54e29a6c006aaba	Polygon Demo (PD)_pad.vb	vb-htgdb-homebrew-demos-intros
+bf55a2e9d9a2b4f7a3396602480254be	Project5 (PD) v2006-04-26_pad.vb	vb-htgdb-homebrew-demos-intros
+4d4070e63183cad4cb06ab5056e2549e	Reality Boy Demo 2 (PD) test2 David Tucker_pad.vb	vb-htgdb-homebrew-demos-intros
+583fd17a04eb15347032a5a414b19ac0	Scaling Demo (PD) Parasyte_pad.vb	vb-htgdb-homebrew-demos-intros
+3af539def900531f7fd6b144f3b3bcb3	Snowball Wars (PD) Demo 3 Jorgeche_pad.vb	vb-htgdb-homebrew-demos-intros
+d2b9558b670e642330cd3e1eb2cbaf47	StarFox (PD) Greg Stevens_pad.vb	vb-htgdb-homebrew-demos-intros
+40e70ec8e63732c2fa8c623b492dce4f	Starwars (PD) Greg Stevens 2013-03-02_pad.vb	vb-htgdb-homebrew-demos-intros
+084f4db20105e4f7c12d690ce59858fc	Super Fighter Demo (PD) KR155E_pad.vb	vb-htgdb-homebrew-demos-intros
+8b1cb11d95f972931c85df94a0a68d58	This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 3 (PD)_pad.vb	vb-htgdb-homebrew-demos-intros
+a7fa001bf6a071602fbe28427770e86e	Value (PD) v1 KR155E 2016-01-22_pad.vb	vb-htgdb-homebrew-demos-intros
+71ffad0919204cd166f27a88bcc265a6	VB Rocks! Demo (PD) KR155E_pad.vb	vb-htgdb-homebrew-demos-intros
+73490cc3139b289dd410c236f35dad50	VBJaEngine Platformer Demo (PD) Jorgeche, KR155E 2016-03-03_pad.vb	vb-htgdb-homebrew-demos-intros
+23a8b3bbc565fd22a2b4fee2b3c260f4	VeeBee Cursor Demo (PD) David Williamson_pad.vb	vb-htgdb-homebrew-demos-intros
+598291d34059a58cba70f2d5faf1e244	Virtual-E Cursor Demo (PD) Alberto Covarrubias_pad.vb	vb-htgdb-homebrew-demos-intros
+26bebfab13b40a8a94c90b18a51ff65c	VUEngine Platformer Demo (PD) 2017-08-10.vb	vb-htgdb-homebrew-demos-intros
+f9bf020c669099d70fee9fbf2cafcfce	Wario Gonna Win Demo (PD)_pad.vb	vb-htgdb-homebrew-demos-intros
+c638b477743eaaefcfbff3bb8772718a	Water Ripple Demo - FlashBoy (PD) RunnerPack.vb	vb-htgdb-homebrew-demos-intros
+9f979df5ca8322a4eee0464bcbace5fe	Wavs (PD)_pad.vb	vb-htgdb-homebrew-demos-intros
+4b9cb5974e262edebd0927f03c0487d3	WELTENSCHLACHTER Soundcheck (PD) v2 Der Luchs_pad.vb	vb-htgdb-homebrew-demos-intros
+f9e6512c904899cf0dfda2ba4c6ce5be	Xmas 2012 Demo (PD) thunderstruck.vb	vb-htgdb-homebrew-demos-intros
+a85b2a0e327f551099ef52e9a60220de	Yeti3D (PD) Demo 2 DanB.vb	vb-htgdb-homebrew-demos-intros
+137eb0d2984872fada140f1f1d7b829d	Zpace Racers (PD) DanB 2014-02-28_pad.vb	vb-htgdb-homebrew-demos-intros
+7aa4d9f3054f8f48e3377e963d1701b7	Bound High! - Hardware Fix (J) BKCOL Fix v1 RunnerPack 2015-04-08.vb	vb-htgdb-prototypes
+865112bb3e562e05527846f0ac10a9e8	Niko-chan Battle - Faceball (Japan) (Proto)_pad.vb	vb-htgdb-prototypes
+31073126fad41777357391ecc36d6f7f	Space Pinball (Japan) (En) (Proto).vb	vb-htgdb-prototypes
+24c33f659a971b3c0a0b54bf66fef9fa	BitString Demo (PD) Dan Bergman_pad.vb	vb-htgdb-tools-servicetestcarts
+65e81d3ea49ea982afbe402c80a3324f	Cycle Test (PD) Guy Perfect_pad.vb	vb-htgdb-tools-servicetestcarts
+149d5c1a6ec31fc682a581dd411024ca	MIDI music player (PD) PVBCC Dan Bergman.vb	vb-htgdb-tools-servicetestcarts
+7ada13ac5aacf05ac8a49ee5a2baff6d	OBJ Pointer Demo (PD) Dan Bergman_pad.vb	vb-htgdb-tools-servicetestcarts
+c757c9e7fe1177b78b90a62caf4d5a15	Speed Profiler (PD) Guy Perfect_pad.vb	vb-htgdb-tools-servicetestcarts
+c02e4fad4158a315d4192c02c35ac223	VB Display Test App (PD) v1 DogP_pad.vb	vb-htgdb-tools-servicetestcarts
+26bc1d54374b6f6cf8c7a85ab1d6aa0e	VB Link Cable Test (PD) v1.vb	vb-htgdb-tools-servicetestcarts
+97aed720d758e99a8406720bde050c1e	VB Programming Introductory Demo (PD) KR155E_pad.vb	vb-htgdb-tools-servicetestcarts
+a57115328ac581e44ede3fa588f9269a	VB Sound Tester (PD) v1 Frostgiant_pad.vb	vb-htgdb-tools-servicetestcarts
+8801af0166e4ee06f508a6ea0f70557d	VSUWorkshop (PD) Guy Perfect 2016-01-10_pad.vb	vb-htgdb-tools-servicetestcarts
+703ba31d6735bce2b80fd55b33e7c539	Innsmouth Mansion English (J) T+Eng thunderstruck 2-2019.vb	vb-htgdb-translations
+d0459cf5e2b4ee4464b32649824399ca	SD Gundam English (J) T+Eng v1 Ben & Greg Stevens_pad.vb	vb-htgdb-translations
+ad5475082d55055681ab5a3d9c09c803	Space Squash English (J) T+Eng Greg and Ben Stevens_pad.vb	vb-htgdb-translations
+a39708d87769b524753a1d8077bdf6b9	Teleroboxer German (JU) T+Ger 4b KR155E_pad.vb	vb-htgdb-translations
+ef6e68d193dae7eb9f51face69e9dcf9	Virtual Fishing English Edition (J) T+Eng v1 thunderstruck.vb	vb-htgdb-translations
+cdc7a6a1dcb8d89e4d4f5e6dc54aeb0b	Virtual Lab English (Hack) v1 thunderstruck 2018-04-01_pad.vb	vb-htgdb-translations
+ecf1218706e9b547eab9e4be58d54e21	3-D Tetris (USA).vb	vb-htgdb-unpadded
+85260599fdada2e137053a8647aa0d06	Galactic Pinball (Japan, USA).vb	vb-htgdb-unpadded
+1eb964d0eaa3223cfefdcc99a6265c88	Innsmouth no Yakata (Japan).vb	vb-htgdb-unpadded
+ee873c9969c15e92ca9a0f689c4ce5ea	Jack Bros. (USA).vb	vb-htgdb-unpadded
+1b177fe2dd12ec1d67f6a43502f8d391	Jack Bros. no Meiro de Hiihoo! (Japan).vb	vb-htgdb-unpadded
+b1b3a25ce8fb4f406bf82b8765d307d0	Mario Clash (Japan, USA).vb	vb-htgdb-unpadded
+38ecc2c5a745a80d32eb9e8e413358c4	Mario's Tennis (Japan, USA).vb	vb-htgdb-unpadded
+467247d5e3383d066005565bf8218436	Panic Bomber (USA).vb	vb-htgdb-unpadded
+bc469bf797f4774bbb1678c7f500853b	Red Alarm (Japan).vb	vb-htgdb-unpadded
+e56e85761f52a613b34079d5322088ce	Red Alarm (USA).vb	vb-htgdb-unpadded
+1cf8c69d8a740d6ef3aab54deced31c4	SD Gundam - Dimension War (Japan).vb	vb-htgdb-unpadded
+7607f6f918615263512b17e56797c9aa	Space Invaders - Virtual Collection (Japan).vb	vb-htgdb-unpadded
+09c5f3143c25d1d30a3470e571653e48	Space Squash (Japan).vb	vb-htgdb-unpadded
+0742a861a599fe3361aac6ebef6745a7	Teleroboxer (Japan, USA).vb	vb-htgdb-unpadded
+44039dfaa0f8fcf8ece03b8cda267e4a	Tobidase! Panibon (Japan).vb	vb-htgdb-unpadded
+262bbae465f851ded3bb7cf46e375224	V-Tetris (Japan).vb	vb-htgdb-unpadded
+fa50ce1effb4ce1d66438f723be5c788	Vertical Force (Japan).vb	vb-htgdb-unpadded
+87c38f66d5b9ead72af22f515a3a5f51	Vertical Force (USA).vb	vb-htgdb-unpadded
+5b11d402f7e322c71a7d4fa6503631fa	Virtual Bowling (Japan).vb	vb-htgdb-unpadded
+c03e792d8628c3c5729fdcae1620fb9a	Virtual Fishing (Japan).vb	vb-htgdb-unpadded
+1cec316aca8827fdf99c685a1ee49dbc	Virtual Lab (Japan).vb	vb-htgdb-unpadded
+2ba914c8aa16f2f9230b3c5b7e17e67b	Virtual League Baseball (USA).vb	vb-htgdb-unpadded
+154b76be987a604ff8aafa4d438928f5	Virtual Pro Yakyuu '95 (Japan).vb	vb-htgdb-unpadded
+b41eb645c02b504efdba87d310a9ab01	Faceball Matej's Controls (Hack) v1 HorvatM.vb	vb-htgdb-unpadded-hacks
+c3d028f7d2463eaf36f0d6ef9b28ebd5	Jack Bros. Debug Cheats (Hack) v1 Parasyte.vb	vb-htgdb-unpadded-hacks
+faf72685bbcc1df04f265669217bf6d2	Mansion of Insmouse Mario Madness Edition (Hack) v1 Ben Stevens.vb	vb-htgdb-unpadded-hacks
+76f9f6919058aec4ddada0f07d107c5e	Mario Clash Controller Fix (Hack) v1 DogP.vb	vb-htgdb-unpadded-hacks
+d67a16d2c19b8ee9e4f3b058b4f3835f	Mario Clash Level Select+Controller Fix (Hack) v1 DogP.vb	vb-htgdb-unpadded-hacks
+52d956171edf0c91a4d7fb05963a8162	Panic Bomber Debug Menu (Hack) v1 Parasyte.vb	vb-htgdb-unpadded-hacks
+6d04372b62d352af7e9662b1646b8488	Panic Bomber Stage Select Debug (Hack) v1 Parayste.vb	vb-htgdb-unpadded-hacks
+197a207c9d0467b660bbf422ca69e3e4	Red Alarm Debug JP Press Select 60 times, L+R+Select+A In-Game (Hack) v1 HorvatM.vb	vb-htgdb-unpadded-hacks
+8a22b2e3af778c07d3709f3f95dac4cc	Red Alarm Debug US Press Select 60 times, L+R+Select+A In-Game (Hack) v1 HorvatM.vb.vb	vb-htgdb-unpadded-hacks
+c1f23aa9a6b5130a4971b4566dc19289	Vertical Force Debug Menu (Hack) v1 Parasyte.vb	vb-htgdb-unpadded-hacks
+a0d8fd562ab203f35056819208a5b3f4	Virtual Bowling Debug Menu (Hack) v1 Parayste.vb	vb-htgdb-unpadded-hacks
+0cb66278fc809252530044f7db9d8fcb	Virtual League Baseball Select Any Team JP (Hack) v1 DogP.vb.vb	vb-htgdb-unpadded-hacks
+c6911dbbfac4825652f0b07dc12c0026	Virtual League Baseball Select Any Team US (Hack) v1 DogP.vb	vb-htgdb-unpadded-hacks
+35554dcf602fd2452d7adb033a85cc40	3D Crosswords (PD) Chris Read 2013.VB	vb-htgdb-unpadded-homebrew
+f82d4c9fdd81518537d88f70c6602bb5	Blox (PD) v1.1 KR155E.vb	vb-htgdb-unpadded-homebrew
+fe92b28e43edd00c6b9401d81446a0a7	Capitan Sevilla 2 (PD) rubengar.VB	vb-htgdb-unpadded-homebrew
+fcfbeeca4bb33af756b025136c8b2549	Castle of Doom (PD) Final VirtualChris.vb	vb-htgdb-unpadded-homebrew
+37b68e1df20bcdf8b77176064bb8bdb7	Croach, The (PD).vb	vb-htgdb-unpadded-homebrew
+92ef6889f887ab83e7ac43c399cebf3c	Deathchase (PD) Matej Horvat & Amos Bieler 2014-02-28.vb	vb-htgdb-unpadded-homebrew
+f23ee05a508ad73bf1961586e119cecb	Etch-A-Sketch (PD) Pat Daderko.vb	vb-htgdb-unpadded-homebrew
+2176fae66e175a5bf9fc0266b627cc6f	Flappy Cheep Cheep (PD) Pat Daerko 2014-02-28.VB	vb-htgdb-unpadded-homebrew
+907c7f10093cfcab371754efae8ed279	GoSub (PD) VirtualChris.vb	vb-htgdb-unpadded-homebrew
+a5a3d14326bc8dc197a2088abcabfdfb	GoSub 3D (PD) VirtualChris 2010.VB	vb-htgdb-unpadded-homebrew
+38577a95d52961f8e65c317fc7ff9803	Lights Out (PD) Guy Perfect.vb	vb-htgdb-unpadded-homebrew
+a03afb33c5f8b24cc7d0d93a4104e7ba	Mandelbrot Explorer (PD) v1 Fwirt 2010-10-30.vb	vb-htgdb-unpadded-homebrew
+4b8c8b6a7711a005dd896b3ee9b8d0f1	Mario Kart Virtual Cup (PD) PVBCC DogP.vb	vb-htgdb-unpadded-homebrew
+5e6579bc43b40a9dfcfe286ec76e883c	Mario VB (PD) v3.0.1 Jorgeche.vb	vb-htgdb-unpadded-homebrew
+a306ea95a699d5611988f081ef31f7e4	Matrix, The (PD) Cooler.vb	vb-htgdb-unpadded-homebrew
+37d35e412ba8db20d3e760d1a31fd392	PongInvaders (PD) usch.VB	vb-htgdb-unpadded-homebrew
+e3dbc8fd44a12cadb43670fd8747c520	Simon! (PD) DogP.VB	vb-htgdb-unpadded-homebrew
+46e910ba8dc15a06fa8dd8b32d0318d0	Super Bounce (PD) DogP.VB	vb-htgdb-unpadded-homebrew
+ed4a33d5767955f5798394c4445d08b0	Tic Tac Toe - 2 Linked VBs Only (PD) DogP 2008-11-11.VB	vb-htgdb-unpadded-homebrew
+9f4246f9400c9f2fb9cdf4b4987b4cfe	Tic Tac Toe (PD) Pat Daderko.vb	vb-htgdb-unpadded-homebrew
+b8cac4425d1a01b949801d81eb268ffb	Tron VB - 2 Linked VBs Only (PD) Pat Daderko 2003.vb	vb-htgdb-unpadded-homebrew
+0ab33db88ee41f540d968127dc55fa50	Tron VB - 2 Linked VBs Only (PD) Pat Daderko 2008.VB	vb-htgdb-unpadded-homebrew
+819b9dccf1437c3bb126670b171d7c59	VB Racing - FlashBoy Version (PD) PVBCC MK.vb	vb-htgdb-unpadded-homebrew
+5060dc253b8f9eba7067657f2e6b3d63	Virtual Pong (PD) Alberto Covarrubias.vb	vb-htgdb-unpadded-homebrew
+d80ccadddc8634d27fa9f1d0addbd5c6	VSUWorkshop (PD) Guy Perfect 2016-01-10.vb	vb-htgdb-unpadded-homebrew
+ccfa400a0ff3d717dad36a3f736fd34d	VUE Snake (PD) v1.1 KR155E.vb	vb-htgdb-unpadded-homebrew
+1a74e7fbb856835422a88347f4a2dbcf	VUE Snake RG2009 Edition (PD) KR155E.vb	vb-htgdb-unpadded-homebrew
+81ac88d6036fc2471895bf0e81132857	VUE Snake RG2010 Edition (PD) KR155E.vb	vb-htgdb-unpadded-homebrew
+5bd8f7bdd76f28665dc1c1386896963e	Action 54! (PD) VirtualChris 2016-05-10.VB	vb-htgdb-unpadded-homebrew-demos-intros
+c7f98975f4148c92a3d592c1e09eaa42	Affine Demo 1 (PD) David Tucker.vb	vb-htgdb-unpadded-homebrew-demos-intros
+90707c71362b5007964f0a45a45d77d6	Affine Mode Rotate Demo 2 (PD) David Tucker.vb	vb-htgdb-unpadded-homebrew-demos-intros
+6e1b74ec2bd027faa024f61339690d99	Castle of Doom Redux (PD) VirtualChris 2016-05-09.VB	vb-htgdb-unpadded-homebrew-demos-intros
+de22bc234534aa0ef3d6f28d657a78e7	Chrono Trigger Run (PD) Demo 2 MrSparkle.VB	vb-htgdb-unpadded-homebrew-demos-intros
+a5e79d1147dc3c8b078ac82586543a04	Conway's Game of Life 4px (PD) thunderstruck 2012-12-31.vb	vb-htgdb-unpadded-homebrew-demos-intros
+85ee79c070b9ec4f49df0e91d60953d9	Conway's Game of Life 8px (PD) thunderstruck 2012-12-31.vb	vb-htgdb-unpadded-homebrew-demos-intros
+cb16bb3d1521b39c4947bb08b0bdebec	Conway's Game of Life Direct Screen Draw (PD) thunderstruck 2012-12-31.vb	vb-htgdb-unpadded-homebrew-demos-intros
+3811832349451369a946dcae5897e2ee	Dither Test (PD) blitter.vb	vb-htgdb-unpadded-homebrew-demos-intros
+c08a8eddfd873e26945be17bcafbb1dd	F-Zero Maximum Velocity (PD) VF2013 Guy Perfect.vb	vb-htgdb-unpadded-homebrew-demos-intros
+adfc7ce60804c20742b977fef382db05	Framebuffer Drawing Demo by Pat Daderko (PD).vb	vb-htgdb-unpadded-homebrew-demos-intros
+d2f69f9b97457b16bee10bf2e08b941d	GLOW Demo by KR155E (PD).vb	vb-htgdb-unpadded-homebrew-demos-intros
+bc40f08d1a2c51821245087911594125	Hello, World! Demo V1.1 by Amos Bieler (PD).vb	vb-htgdb-unpadded-homebrew-demos-intros
+2555cca2f7d8dd253f2cd5612a8ae373	Hunter (PD) DanB.vb	vb-htgdb-unpadded-homebrew-demos-intros
+878443c11a7bdefe1cbfc000f9119ce3	Mario Flying Demo by Frostgiant (PD).vb	vb-htgdb-unpadded-homebrew-demos-intros
+578f0d83e6a6a7c0cdbcdbc6f79f1f10	Mode 7 Demo (PD) ex Alpha.vb	vb-htgdb-unpadded-homebrew-demos-intros
+bfe11988c745722a1a72e6f0dc579cea	Multi Color Demo - Yoshi's Island (PD) KR155E 2018-07-18.vb	vb-htgdb-unpadded-homebrew-demos-intros
+c236e68a96d8c7dec7a91c1815809f2c	Multi Color Demo (PD) KR155E 2018-07.vb	vb-htgdb-unpadded-homebrew-demos-intros
+39ea7766c44b19461ca8fc2a3484f8f8	Null Pointer Mockup (PD) KR155E 2015-11-16.vb	vb-htgdb-unpadded-homebrew-demos-intros
+c0a8fe852c5a1874e684541af64f4ab6	OBJ Pointer Demo by Dan Bergman (PD).vb	vb-htgdb-unpadded-homebrew-demos-intros
+fe0e9fbf00b61844da2689bb94e1f700	Pacman Demo (PD).vb	vb-htgdb-unpadded-homebrew-demos-intros
+b4c48ce2798e9cf17e27141ed30b98bc	Polygon Demo (PD).vb	vb-htgdb-unpadded-homebrew-demos-intros
+2fe283435543c5026fcd2c41d5bbe946	Project5 (PD) v2006-04-26.vb	vb-htgdb-unpadded-homebrew-demos-intros
+d902c25d8ed1ba3382dd772457038deb	Reality Boy Demo 1 (PD).vb	vb-htgdb-unpadded-homebrew-demos-intros
+131120f401946eef5f430b3b1ea2dc17	Reality Boy Demo 2 (PD) test2 David Tucker.vb	vb-htgdb-unpadded-homebrew-demos-intros
+5c0f42ab6f66537efc8ff1719c319af4	Scaling Demo by Parasyte (PD).vb	vb-htgdb-unpadded-homebrew-demos-intros
+39f4ded02b9a58c1958f521d27d841af	Snowball Wars (PD) Demo 3 Jorgeche.vb	vb-htgdb-unpadded-homebrew-demos-intros
+d6df73b477a8408da74c6d79dcaa0d0a	StarFox (PD) Greg Stevens.vb	vb-htgdb-unpadded-homebrew-demos-intros
+7bbb621d7e53de01f94b638e070c218d	Starwars (PD) Greg Stevens 2013-03-02.vb	vb-htgdb-unpadded-homebrew-demos-intros
+b44601f915ec4ea5869f04e5dfaaac52	Super Fighter Demo by KR155E (PD).vb	vb-htgdb-unpadded-homebrew-demos-intros
+c28374da2381fdd759637afee37af89a	This Demo Owes ALOT to RunnerPack HelloWorld SpriteExam 3 (PD).vb	vb-htgdb-unpadded-homebrew-demos-intros
+7eb03d6da9a4e4af14454cf9c75d71c1	Value (PD) v1 KR155E 2016-01-22.vb	vb-htgdb-unpadded-homebrew-demos-intros
+363e031ccef3df6a8799f488b2f68c91	VB Rocks! Demo (PD) KR155E.vb	vb-htgdb-unpadded-homebrew-demos-intros
+f0c78dd09077e992face203d40abeed5	VBJaEngine Platformer Demo (PD) Jorgeche, KR155E 2016-03-03.vb	vb-htgdb-unpadded-homebrew-demos-intros
+6853c7b038c5a6e85642ac9dd38d4632	VeeBee Cursor Demo (PD) David Williamson.vb	vb-htgdb-unpadded-homebrew-demos-intros
+7f0ac5913c7a884f80477a312d65526e	Virtual-E Cursor Demo (PD) Alberto Covarrubias.vb	vb-htgdb-unpadded-homebrew-demos-intros
+a3e973b47916b729e329e30e8a050ae6	Wario Gonna Win Demo (PD).vb	vb-htgdb-unpadded-homebrew-demos-intros
+92fa3a49d6f43675d8c8c0ac0f5416b7	Wavs (PD).vb	vb-htgdb-unpadded-homebrew-demos-intros
+a5a6033901b2a8be60384d8c8e73d6bb	WELTENSCHLACHTER Soundcheck (PD) v2 Der Luchs.vb	vb-htgdb-unpadded-homebrew-demos-intros
+16c481c4da540d8f36f1fd1ddbbec619	Zpace Racers (PD) DanB 2014-02-28.vb	vb-htgdb-unpadded-homebrew-demos-intros
+a460e2660fa951e9d4e3b05aee9f5018	Bound High (Japan) (En) (Proto).vb	vb-htgdb-unpadded-prototypes
+d9a0215782dcacee5a3c4cc83d1c5189	Niko-chan Battle (Japan) (Proto).vb	vb-htgdb-unpadded-prototypes
+a7f94faa20fa1b231f7b81d02c8fc3da	BitString Demo (PD) Dan Bergman.vb	vb-htgdb-unpadded-tools-servicetestcarts
+65f724bd92fe3267f7f1003ab5d2485b	Cycle Test (PD) Guy Perfect.vb	vb-htgdb-unpadded-tools-servicetestcarts
+c0a8fe852c5a1874e684541af64f4ab6	OBJ Pointer Demo (PD) Dan Bergman.vb	vb-htgdb-unpadded-tools-servicetestcarts
+41034442995ea05657b2f96d07997136	Speed Profiler (PD) Guy Perfect.vb	vb-htgdb-unpadded-tools-servicetestcarts
+c0944ac109fce910afdca869a7d25803	VB Display Test App (PD) v1 DogP.vb	vb-htgdb-unpadded-tools-servicetestcarts
+b2a39ffae965821d1f9404cbf2c57145	VB Programming Introductory Demo (PD) KR155E.vb	vb-htgdb-unpadded-tools-servicetestcarts
+2fb5d376c4a49ba7bd08f9a27b15681e	VB Sound Tester (PD) v1 Frostgiant.vb	vb-htgdb-unpadded-tools-servicetestcarts
+4698a0b151d95bbbb833e2a523a12be7	Innsmouth Mansion English (J) T+Eng thunderstruck 2-2019.vb	vb-htgdb-unpadded-translations
+45825104799b74d36740d486f3f0cdf2	SD Gundam English (J) T+Eng v1 Ben & Greg Stevens.vb	vb-htgdb-unpadded-translations
+612b9a077592d15b3db9d74e4c86d3d5	Space Squash English (J) T+Eng Greg and Ben Stevens.vb	vb-htgdb-unpadded-translations
+990e1a64fc283adc68e695b5e8215488	Teleroboxer German (JU) T+Ger 4b KR155E.vb	vb-htgdb-unpadded-translations
+cc364873ab1c61760def3358b3dabc9f	Virtual Fishing English Edition (J) T+Eng v.0.1 thunderstruck.vb	vb-htgdb-unpadded-translations
+bd6bc0cdb310969583c442f9c8509fc0	Virtual Lab English (Hack) v1 thunderstruck 2018-04-01.vb	vb-htgdb-unpadded-translations

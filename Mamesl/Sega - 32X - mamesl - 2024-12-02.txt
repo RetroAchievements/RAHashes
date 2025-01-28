@@ -1,0 +1,220 @@
+56b0c88cd4aef3ff65ef623527a9edba	36 great holes starring fred couples (32x rev1.x) (prototype - jul 06, 1994).bin	32x-mamesl
+3e33e547288d1d2a5baf1b21a07f8df0	36 great holes starring fred couples (prototype - dec 02, 1994).bin	32x-mamesl
+97caf7c900fe4bcee30117365a70543c	36 great holes starring fred couples (prototype - dec 03, 1994).bin	32x-mamesl
+fa60425cd76cfdbee2dc8000b3099a98	36 great holes starring fred couples (prototype - dec 06, 1994).bin	32x-mamesl
+443a014104ff3145f0b2eebe4ffce0fd	36 great holes starring fred couples (prototype - dec 13, 1994).bin	32x-mamesl
+c30e393f01ada81ca44bad43ee63d3b7	36 great holes starring fred couples (prototype - dec 14, 1994).bin	32x-mamesl
+fa347c89886d60279abf6b1d6c0c5f02	36 great holes starring fred couples (prototype - dec 19, 1994).bin	32x-mamesl
+7a186abafff18ba8ed439f362b56014e	36 great holes starring fred couples (prototype - dec 21, 1994 - b).bin	32x-mamesl
+86fcf541b14f98dedb8c8deff14de868	36 great holes starring fred couples (prototype - dec 21, 1994).bin	32x-mamesl
+03480484a4d2e3fe3353900dc3033101	36 great holes starring fred couples (prototype - nov 01, 1994).bin	32x-mamesl
+7f1ddc96f801c121adb5e6b1a5c2f73f	36 great holes starring fred couples (prototype - nov 03, 1994).bin	32x-mamesl
+ca9ca81bde5b0819d1bcce097796a41b	36 great holes starring fred couples (prototype - nov 05, 1994).bin	32x-mamesl
+6bc3ecead9db55f646f4db49d484403d	36 great holes starring fred couples (prototype - nov 07, 1994).bin	32x-mamesl
+415b56539f3dbe85fbc9e327e7512136	36 great holes starring fred couples (prototype - nov 08, 1994).bin	32x-mamesl
+a1cfa86bc7d81f199f0b329ddf4458e7	36 great holes starring fred couples (prototype - nov 10, 1994).bin	32x-mamesl
+bcb29b2ec1d693aa863998b19a1873f4	36 great holes starring fred couples (prototype - nov 16, 1994).bin	32x-mamesl
+9db9c401226292cefd5a28f6adfa5065	36 great holes starring fred couples (prototype - nov 18, 1994).bin	32x-mamesl
+c9ce63ee1c915b4ffd1d14940ecbf7c6	36 great holes starring fred couples (prototype - nov 19, 1994 - b).bin	32x-mamesl
+4b5fd6be86b307399bc6592d8eae79b5	36 great holes starring fred couples (prototype - nov 19, 1994).bin	32x-mamesl
+12aae94fab8374e0c61c8220f28007b7	36 great holes starring fred couples (prototype - nov 21, 1994).bin	32x-mamesl
+f4877c8823d7f39df0932068ed23a585	36 great holes starring fred couples (prototype - nov 22, 1994 - b).bin	32x-mamesl
+9035d2efd419306d5014df16f0dd29a4	36 great holes starring fred couples (prototype - nov 22, 1994).bin	32x-mamesl
+11d87989771f3f0882512a52e758439e	36 great holes starring fred couples (prototype - nov 23, 1994).bin	32x-mamesl
+3920135572b377d760cee34995c159bd	36 great holes starring fred couples (prototype - nov 26, 1994).bin	32x-mamesl
+7d04ff0502908fe179ad90aaa5270542	36 great holes starring fred couples (prototype - nov 27, 1994).bin	32x-mamesl
+8b2f55c154013452170e0dfd77d5ad2a	36 great holes starring fred couples (prototype - nov 28, 1994 - b).bin	32x-mamesl
+20917b40eb81edeebfceb57aec9b419d	36 great holes starring fred couples (prototype - nov 28, 1994).bin	32x-mamesl
+bbcf031159ad7ea4b014a58c0ed9433f	36 great holes starring fred couples (prototype - nov 29, 1994).bin	32x-mamesl
+9386cbfe21dcb58cc8a8006c8bc06e61	36 great holes starring fred couples (prototype - nov 30, 1994).bin	32x-mamesl
+2600f3ba9d72947910e7cffeba8f5b71	36 great holes starring fred couples (prototype - oct 11, 1994).bin	32x-mamesl
+6aca59ba95b6c1defe19ed32f00d3ef1	36 great holes starring fred couples (prototype - oct 17, 1994).bin	32x-mamesl
+1fc6e86e79315775cb93649f4cfe83d9	36 great holes starring fred couples (prototype - oct 18, 1994).bin	32x-mamesl
+c5a1281e901df24a620a66026373cddc	36 great holes starring fred couples (prototype - oct 24, 1994).bin	32x-mamesl
+61bf65053db9eaa967bca74e18adf23d	36 great holes starring fred couples (prototype - oct 26, 1994).bin	32x-mamesl
+a8e05bd3cdf97e1811ebd6d52c4371a7	after burner complete (europe).bin	32x-mamesl
+a60b0838a776966e17a8f10b94baddef	amazing spider-man, the - web of fire (usa).bin	32x-mamesl
+35a11e021ca0b7ff909e4774eb8b3236	bc racers (usa).bin	32x-mamesl
+c238b112113b0297b2b9f4f618d56598	blackthorne (usa).bin	32x-mamesl
+1738a479b0253bcb0bcfb7bf09c03add	brutal unleashed - above the claw (usa).bin	32x-mamesl
+47b1095e68b053125cd2cd5b1ac4eb50	chaotix ~ knuckles' chaotix (japan, usa).bin	32x-mamesl
+d753834e3332b628ed8ae7ae554dee27	clayfighter 2 32x even 4-29-95.u2	32x-mamesl
+7c5c00d30132082ea43aaa90e572df30	clayfighter 2 32x odd 4-28-95.u1	32x-mamesl
+8aadc467d31bc64f95a7fbe8f95afeb3	cosmic carnage (europe).bin	32x-mamesl
+f2a81c48457191b4f3329792941ac71a	cosmic carnage (prototype - oct 04, 1994).bin	32x-mamesl
+0210673f0735f1f0956057243bef919c	cosmic carnage (prototype - oct 05, 1994).bin	32x-mamesl
+0eee6f56666fd70b3483bad9b5297a5e	cosmic carnage (prototype - oct 07, 1994).bin	32x-mamesl
+52a2e8a8a6a031e0ae731d2efd65a982	cosmic carnage (prototype - oct 11, 1994).bin	32x-mamesl
+2a6755d2c4f00bc8569a3fd41dd556d8	cosmic carnage (prototype - sep 06, 1994).bin	32x-mamesl
+4fd7b679099aaf9ebe8dec1603ec3780	cosmic carnage (prototype - sep 21, 1994).bin	32x-mamesl
+7f97f54d53a6adfcde9a56faaf448c34	cosmic carnage (prototype - sep 26, 1994).bin	32x-mamesl
+ad83a93fc3a31444bdd89ddb11262c5d	cosmic carnage (prototype - sep 28, 1994).bin	32x-mamesl
+32f3002a46a462735aa12ca856cb7652	cyber brawl ~ cosmic carnage (japan, usa).bin	32x-mamesl
+30ee320f76db70a836edeff2c8ce9cd2	darxide (europe) (en,fr,de,es).bin	32x-mamesl
+79339867d9d4f58b169753d9a29ea1a5	doom (japan, usa).bin	32x-mamesl
+0a581f2470a35141f32c90c9e9c7f3e5	doom (prototype - dec 01, 1994).bin	32x-mamesl
+fd439f39b26ba22e4f79a0c87352c6b0	doom (prototype - oct 02, 1994).bin	32x-mamesl
+2f9dfd9c5e06f9df0cfbe0f7e2a425d7	doom (prototype - sep 06, 1994).bin	32x-mamesl
+f9ac4fff9b19ac75fa6d22a89ea942c6	doom (prototype - sep 09, 1994).bin	32x-mamesl
+f243589e68209c8f18f0d4e5775c3107	doom (prototype - sep 14, 1994).bin	32x-mamesl
+c645547a0d1da8758663317bc9634224	doom (prototype - sep 16, 1994).bin	32x-mamesl
+46811a3ae28768d571af51796a940b8f	doom (prototype - sep 21, 1994).bin	32x-mamesl
+54c0ae49bd3f514c60976a4e62b8527e	doom (prototype - sep 23, 1994).bin	32x-mamesl
+9abc704274f7d59f20832b2aa4d7ec8d	doom (prototype - sep 25, 1994).bin	32x-mamesl
+000d37e58327be661c6c9c6803077c5b	doom (prototype - sep 28, 1994).bin	32x-mamesl
+e7917f7d91c05c0f928f6b4d68c553b2	doom rr (prototype - feb 15, 1995).bin	32x-mamesl
+c7786d03342fa87c291480d346e18402	doom rr (prototype - feb 21, 1995).bin	32x-mamesl
+37974d4c2596436922770ebbeed0927b	doom rr (prototype - mar 07, 1995).bin	32x-mamesl
+c2b642fdcfff8bff511e45203a1e8679	ecco the dolphin cinepak demo (japan, usa) (developer cart).bin	32x-mamesl
+24aaa6ef307d20147ce10e7610e59aa2	fifa soccer '96 (europe) (en,fr,de,es,it,sv).bin	32x-mamesl
+f772e22b574406e3e20c172117050973	golf magazine 36 great holes starring fred couples (europe).bin	32x-mamesl
+b90a2a1eec015911aa445f9c41d7bc32	golf magazine 36 great holes starring fred couples (japan, usa).bin	32x-mamesl
+4ce9e6b6e8883d8a678d90aabce022d0	knuckles' chaotix (europe).bin	32x-mamesl
+d8ad7470835e0edc83b770b59584f625	knuckles' chaotix (prototype 0111 - jan 12, 1995, 09.36).bin	32x-mamesl
+e6c65023505129b294c48d37a2d7899d	knuckles' chaotix (prototype 0202 - feb 07, 1995, 15.25).bin	32x-mamesl
+9d986b6c96704de70e43988825df463a	knuckles' chaotix (prototype 0213 - feb 13, 1995, 07.30).bin	32x-mamesl
+dde8f92c0fb80488f53ebbce98bd203c	knuckles' chaotix (prototype 119 - jan 19, 1995, 07.04).bin	32x-mamesl
+ed059ef80f0292989c0cc86a0224f09d	knuckles' chaotix (prototype 1207 - dec 07, 1994, 07.15).bin	32x-mamesl
+a161c79dd955d971ee3fcb2e01777257	knuckles' chaotix (prototype 1227 - dec 27, 1994, 10.28).bin	32x-mamesl
+88c27c63dd58ba339b4db3a1c8791521	knuckles' chaotix (prototype 1229 - dec 30, 1994, 15.31).bin	32x-mamesl
+b37e562d5c0a26122abf66ac94fef886	knuckles' chaotix (prototype 208 - feb 08, 1995, 11.17).bin	32x-mamesl
+241082f8b6399e658e3516281a2a725e	knuckles' chaotix (prototype 209 - feb 09, 1995, 08.25).bin	32x-mamesl
+b925cb18160ced5285981a3edd5c4213	knuckles' chaotix (prototype 210 - feb 10, 1995, 06.28).bin	32x-mamesl
+bdd716e7e0ce4a24ad73179fba8d65dd	knuckles' chaotix (prototype 213b - feb 13, 1995, 06.46).bin	32x-mamesl
+5e1012438fdeda44b64589fd33daad5f	knuckles' chaotix (prototype 214 - feb 14, 1995, 06.46).bin	32x-mamesl
+489ded0cc43448881cd863418bacf8e6	mars check program version 1.0 (japan, usa) (sdk build) (set 1).bin	32x-mamesl
+68e63e08aa1b95d4b5b249ef6de7b1b3	mars check program version 1.0 (japan, usa) (sdk build) (set 2).bin	32x-mamesl
+fc5dc432cef5d977a7b9a0575acd884e	mars sample program - gnu sierra (japan, usa) (sdk build).bin	32x-mamesl
+4213c4846622dbefb514a0441a553ace	mars sample program - pharaoh (japan, usa) (sdk build).bin	32x-mamesl
+915472c8d25c79f819492f660e5a8d06	mars sample program - runlength mode test (japan, usa) (sdk build).bin	32x-mamesl
+bd0b324d1edd51103a350e1973179fb7	mars sample program - texture test (japan, usa) (sdk build).bin	32x-mamesl
+5ab011dae907f77e68eb764bec3870d8	metal head (europe) (en,ja).bin	32x-mamesl
+03cc5d7549d71ba4e9ddc1beae3805fb	metal head (japan, usa) (en,ja).bin	32x-mamesl
+aae550a44c4f349b25db009ef84fcabd	metal head (prototype - dec 02, 1994).bin	32x-mamesl
+ebb8f4df5e5215a5c8d2e1facbb8396b	metal head (prototype - dec 07, 1994 - b).bin	32x-mamesl
+b68bf1cdba527506bb6b0aa04a0f3656	metal head (prototype - dec 07, 1994).bin	32x-mamesl
+5e2f45365c0eaedc7b22127343f4ed38	metal head (prototype - dec 09, 1994).bin	32x-mamesl
+176aaa2a84d0cc82e21c35f21dc45e64	metal head (prototype - dec 13, 1994).bin	32x-mamesl
+ac7e0ef84b3f72bb4766ad1af74a5318	metal head (prototype - dec 20, 1994).bin	32x-mamesl
+360ec44967bcc22a05dcd215c624897f	metal head (prototype - nov 14, 1994).bin	32x-mamesl
+e36b87067183fe1ba286f0957c469b62	metal head (prototype - nov 18, 1994).bin	32x-mamesl
+9c5c8e456c5237705e6b9fd39fef093b	metal head (prototype - nov 21, 1994).bin	32x-mamesl
+9d258d11fe1e4cac2c1aab370c35e57a	mortal kombat ii (europe).bin	32x-mamesl
+a95c0e7c1d35fd42cd2e3eb7b06cb6d0	mortal kombat ii (japan, usa).bin	32x-mamesl
+66833be0da3d737ac45cdaab9b6bd818	motherbase (europe).bin	32x-mamesl
+f0c494585f0fad8d77bf9115a6875399	motocross championship (prototype - nov 01, 1994).bin	32x-mamesl
+0fea70d9fe033ff4da6b0c4e31140b26	motocross championship (prototype - nov 02, 1994 - b).bin	32x-mamesl
+9eec4062c7d36f158d265731a8ab749a	motocross championship (prototype - nov 02, 1994).bin	32x-mamesl
+a8359f240a85576a2904280c2b8c2fbb	motocross championship (prototype - nov 03, 1994).bin	32x-mamesl
+a8b3f927ca15c43a0096357fb149f46a	motocross championship (prototype - nov 04, 1994).bin	32x-mamesl
+868b0df732d4073e0b4070e2b762e134	motocross championship (prototype - nov 07, 1994).bin	32x-mamesl
+ffdc287031f59d3ce4a6f4c2b69aff31	motocross championship (prototype - nov 08, 1994).bin	32x-mamesl
+5bdc8f310638695b570f92ffd99c7c59	motocross championship (prototype - nov 11, 1994).bin	32x-mamesl
+b741a12b72807648aee002105ce8d282	motocross championship (prototype - oct 12, 1994).bin	32x-mamesl
+57182c2a4edebec3858942094c5a482b	motocross championship (prototype - oct 17, 1994).bin	32x-mamesl
+ff8fc197fcd71018564473e83db5d40c	motocross championship (prototype - oct 18, 1994).bin	32x-mamesl
+b52dc9a0fd6c3bf46a66dc608965fdaa	motocross championship (prototype - oct 19, 1994).bin	32x-mamesl
+400cf0229ebc8d441a7b03733c55cd55	motocross championship (prototype - oct 20, 1994).bin	32x-mamesl
+ff2dfbe40f8863c123e9d82c0edf6e6e	motocross championship (prototype - oct 24, 1994).bin	32x-mamesl
+0e3f3a483d99c8d1cc03a3402afa13c9	motocross championship (prototype - oct 28, 1994).bin	32x-mamesl
+2c4a934985021624d48725b8d7b039e8	mpr-17258-f.ic1	32x-mamesl
+fc88f92cd9b5f36307cb7733b38e5061	mpr-17347 w72.ic1	32x-mamesl
+c1c42e8baada5747a63b926ec654034a	mpr-17348 t34.ic2	32x-mamesl
+312b4a88ac12b758d7494f142a0bafe4	mpr-17349 w79.ic1	32x-mamesl
+a36dc382daa13f397eeda9adf8b85458	mpr-17350-s.ic2	32x-mamesl
+93fd733bee5cf340501ba5a7b3edc94c	mpr-17351-f.ic1	32x-mamesl
+78f6043fd92a2208578d6816b2cd8d13	mpr-17352-f.ic2	32x-mamesl
+6bc365808a00b8a640dd86ccb5a0ea24	mpr-17353-mx.ic1	32x-mamesl
+6180e973f678bfc96705e8be4e0783f1	mpr-17428 w73.ic1	32x-mamesl
+08cae0a96d9ee07001c6e1c247d407c6	mpr-17503+mpr-17504.bin	32x-mamesl
+4619e328e1719bee165941d891c08d81	mpr-17525-f.ic1	32x-mamesl
+ec9529858cc7961b39f5382b2f657b8f	mpr-17534-u.ic1	32x-mamesl
+25e87cec7fecca61c4f6b9e0239ff45b	mpr-17926-mx.ic1	32x-mamesl
+99e23eb5db66268b3c93b0a69eb3b010	mpr-17927-mx.ic2	32x-mamesl
+6af6207b1e67072a9104178130c61712	mpr-18439-u.ic1	32x-mamesl
+966a5e00dd7bcdc70b05c5a0c0e8f7aa	nba jam tournament edition (world).bin	32x-mamesl
+e273c10114351cdafeba1abccca8909d	nfl quarterback club (world).bin	32x-mamesl
+bd32a5e46d0159dc88cb31ea4bd9d899	parasquad ~ zaxxon's motherbase 2000 (japan, usa).bin	32x-mamesl
+e091e542f7ea29ef3daf6022b36e219b	pitfall - the mayan adventure (usa).bin	32x-mamesl
+e1efc5804d3360e7b19f7542219bf964	primal rage (usa, europe).bin	32x-mamesl
+5f955b5feab07c072fc345f1fee52a60	rbi baseball '95 (usa).bin	32x-mamesl
+f4bb8844d77442dbb5bee78d0246b456	sangokushi iv (japan).bin	32x-mamesl
+b7cac9f37b7873127afe7a91dead2bde	shadow squadron (prototype - feb 06, 1995).bin	32x-mamesl
+775d395064002f0d1120f3e67e936f2b	shadow squadron (prototype - feb 13, 1995).bin	32x-mamesl
+1f363c972686056a475813f61b8600bf	shadow squadron (prototype - feb 22, 1995).bin	32x-mamesl
+f5e23c9c89673f3f2294eef5d2e5ca67	shadow squadron (prototype - mar 02, 1995).bin	32x-mamesl
+9b2f80f1c52b78885cebd8140e99166e	shadow squadron (prototype - mar 06, 1995).bin	32x-mamesl
+c304de27cdb1cf7dbf660c37f666ac13	shadow squadron (prototype - mar 13, 1995 - b).bin	32x-mamesl
+df79824d61c1f4f7a258450528a1ff3c	shadow squadron (prototype - mar 13, 1995).bin	32x-mamesl
+1415a8675adf3e8647b3df673b50056d	shadow squadron ~ stellar assault (usa, europe).bin	32x-mamesl
+4e9d4bd4122fbe72d6f6918e55a58a35	soulstar-x.bin	32x-mamesl
+1c1b4a07286b6df9eead9a0305672198	space harrier (prototype - sep 20, 1994).bin	32x-mamesl
+11caaeaa76ac810400e9a08985e0eb29	spot goes to hollywood 32x (prototype).bin	32x-mamesl
+78086fba202066ff4f968d35e7c21c11	star trek starfleet academy - starship bridge simulator (usa).bin	32x-mamesl
+f6e8648a6ced9017c9f0bf0ca544f17f	star wars arcade (japan).bin	32x-mamesl
+e0603f3785e9ce60bc47c7a4419b6606	star wars arcade (prototype - aug 30, 1994).bin	32x-mamesl
+7837ea435585cf60c1d7ea2d99248e19	star wars arcade (prototype - oct 03, 1994).bin	32x-mamesl
+ec824311a5f31007a5bdd98b5209b138	star wars arcade (prototype - oct 05, 1994).bin	32x-mamesl
+6e75534d5f3d7bf42f15cdf0faf3e0da	star wars arcade (prototype - oct 06, 1994 - p).bin	32x-mamesl
+777e1ae822f9ed033d27aa1e409d9623	star wars arcade (prototype - oct 07, 1994 - b).bin	32x-mamesl
+67c748fa61e808312f32cc727d0e44cb	star wars arcade (prototype - sep 01, 1994).bin	32x-mamesl
+43efb3d85aa106567661adddec440731	star wars arcade (prototype - sep 06, 1994).bin	32x-mamesl
+95dee4ef705455008ec9570b8fabfcd1	star wars arcade (prototype - sep 07, 1994).bin	32x-mamesl
+76ca792a475cccff4e76fe7e0f248886	star wars arcade (prototype - sep 09, 1994).bin	32x-mamesl
+267df04136c31ca16e1f3870945c446e	star wars arcade (prototype - sep 12, 1994).bin	32x-mamesl
+b0eadfa1cb6b9f0d44e45433baab8857	star wars arcade (prototype - sep 13, 1994 - b).bin	32x-mamesl
+03957d55ddeb3faa8758eded5e2ceef9	star wars arcade (prototype - sep 14, 1994 - d).bin	32x-mamesl
+01e5b6f81beb2f5b0ab4e9d43fb1f3a8	star wars arcade (prototype - sep 15, 1994).bin	32x-mamesl
+0a9683a85087d3953ac782046741c864	star wars arcade (prototype - sep 16, 1994).bin	32x-mamesl
+1cf3240ce3d994719ee9fc06e827262a	star wars arcade (prototype - sep 23, 1994).bin	32x-mamesl
+1b6fc1ef31464acd728783e746286f1f	star wars arcade (prototype - sep 29, 1994).bin	32x-mamesl
+320fb649a04da1e5decde198bd799f97	star wars arcade (prototype - sep 30, 1994 - b).bin	32x-mamesl
+ae3a42c6297ef25c6018a209fda0194e	star wars arcade (usa).bin	32x-mamesl
+c834b1d6d0a9e8ac2cc7a06310700d7e	star wars arcade prototype - sep 18, 1994).bin	32x-mamesl
+5f6c601dcecca937b6f2c2161e4566fe	stellar assault (japan).bin	32x-mamesl
+1b06c84caf09206a8d9f0bb3eaaba512	t-mek (usa, europe).bin	32x-mamesl
+30989c83d4e4ea3c35a1f3e2620b8465	tempo (japan, usa).bin	32x-mamesl
+cc6570e604c22f51dc24347663da1732	tempo (prototype - dec 29, 1994).bin	32x-mamesl
+f97cd1d66bcc7378569cc92f2b073025	tempo (prototype - feb 04, 1995).bin	32x-mamesl
+07d06786fdc642449deff5d7880b2ef5	tempo (prototype - feb 06, 1995 - b).bin	32x-mamesl
+ac6ee8d2c258e00a6d752122f701fab0	tempo (prototype - feb 06, 1995).bin	32x-mamesl
+2ae43c978349214492d2172758ba21b3	tempo (prototype - feb 07, 1995).bin	32x-mamesl
+62790d7ffe26582288b0b0ae40bbd60e	tempo (prototype - jan 21, 1995).bin	32x-mamesl
+2e989b696e1447358829ebcc37ac1476	tempo (prototype - jan 24, 1995).bin	32x-mamesl
+a45f3d6db91df1bc3950173285a726f5	tempo (prototype - jan 26, 1995).bin	32x-mamesl
+945291b66fc06f2bc44a2dbaa3a61d42	time warner 32x cmd download cartridge.bin	32x-mamesl
+77eb91e028f7f86f2d20dd167a64a7c2	u1.ic1	32x-mamesl
+04aa41bd60260016b85336ef16f297d8	u2.ic2	32x-mamesl
+1a50ef45c5e9193ad02c60237f3883eb	u3.ic2	32x-mamesl
+408398c4f75e63fb687afbc61fd395f4	u4.ic2	32x-mamesl
+62553114ade8c6aa8ffa1460c21e17d1	u5.ic2	32x-mamesl
+e144a37dd5652502b6be860f03efb2d7	u6.ic2	32x-mamesl
+24aa59b7465b85707047a40d354b11f9	u7.ic2	32x-mamesl
+8ada8237668361e4a3c9098f9af5dab3	u8.ic2	32x-mamesl
+adcf6c6150d1bc3d073d3754b22ebc69	virtua fighter (europe).bin	32x-mamesl
+901e97c9f731fbdf1f1ead0fbf58249a	virtua fighter (japan, usa).bin	32x-mamesl
+374dd57d027e06601d1193b67da8c2b2	virtua fighter (prototype - jul 17, 1995).bin	32x-mamesl
+b969b201c236a764f125ed2e9b3a12f9	virtua fighter (prototype - jul 21, 1995).bin	32x-mamesl
+16c67ad8853789279178f93780aa69c3	virtua fighter (prototype - jul 24, 1995).bin	32x-mamesl
+f48a565aab16802c99b645f48a5cb503	virtua fighter (prototype - jul 25, 1995).bin	32x-mamesl
+500ab2d460721db06b6243027f6a0eab	virtua fighter (prototype - jun 15, 1995).bin	32x-mamesl
+4a51f39e2e6fd27456cdfc18c1b1017c	virtua fighter (prototype - jun 30, 1995).bin	32x-mamesl
+14d0fdf6df181ec4902942975e470913	virtua fighter (prototype - may 30, 1995).bin	32x-mamesl
+b3a4929fcb61bc9ecdfd9ac453860fc1	virtua hamster (usa) (proto).bin	32x-mamesl
+c07a68331b846d1614954554c0414f86	virtua racing deluxe (prototype - aug 22, 1994).bin	32x-mamesl
+9e7b5d7e83ae5f25421a44e14d6140bf	virtua racing deluxe (prototype - aug 29, 1994).bin	32x-mamesl
+a5efb294179bc3bdc6515383bcdeb63d	virtua racing deluxe (prototype - sep 05, 1994).bin	32x-mamesl
+72b1ad0f949f68da7d0a6339ecd51a3f	virtua racing deluxe (usa).bin	32x-mamesl
+4d14eab0585e79e2fc4789e090755f2d	world series baseball starring deion sanders (usa).bin	32x-mamesl
+b3788f861803d21cfa0e559695835f44	wwf raw (world).bin	32x-mamesl
+8456cae9975ba6cb041c4ef2be54b1a1	wwf wrestlemania - the arcade game (usa).bin	32x-mamesl
+bdd19a34a887a4aa6067ccfb617b9041	x-men (usa) (proto).bin	32x-mamesl
+bce14cea563e804765e793ce6ef91311	zaxxon's motherbase 2000 (prototype - feb 10, 1995).bin	32x-mamesl
+fa84f37b4d7a53b160fa3596be9caf7c	zaxxon's motherbase 2000 (prototype - feb 21, 1995).bin	32x-mamesl
+62de41e3546891b6a95ec28a558aefb2	zaxxon's motherbase 2000 (prototype - feb 23, 1995).bin	32x-mamesl
+fd3eb732b7fdca39eded45b90cff25ab	zaxxon's motherbase 2000 (prototype - feb 27, 1995).bin	32x-mamesl
+0827db2ebc41af9dfd693b0b8630fdf1	zaxxon's motherbase 2000 (prototype - mar 03, 1995).bin	32x-mamesl
+478fab0968e5f8248d7e5ad5ebc8a0ae	zaxxon's motherbase 2000 (prototype - mar 06, 1995).bin	32x-mamesl
+4c4f31281b713b7f515d909c78825ae9	zaxxon's motherbase 2000 (prototype - mar 10, 1995).bin	32x-mamesl
+c81f0e02b7f779ee532c7b9b92c79240	zaxxon's motherbase 2000 (prototype - mar 15, 1995).bin	32x-mamesl
+9ce8f1476ef7b6678ec134c6edda8147	zaxxon's motherbase 2000 (prototype - mar 31, 1995).bin	32x-mamesl

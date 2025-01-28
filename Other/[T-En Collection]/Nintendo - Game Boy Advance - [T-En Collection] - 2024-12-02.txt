@@ -1,0 +1,85 @@
+9703b3d78d3492241ef353876ca40bba	Aigle de Guerre, L' (France) [T-En by Mkol103 v1.0].gba	gba-t-en
+282eb6b9ee0da66e6acd1e03a8992d8f	Black Matrix Zero (Japan) [T-En by Chris Judah v1.0] [i].gba	gba-t-en
+3d4bd9bdaac7e38c1ba05b9031a373ce	Bomberman Jetters - Densetsu no Bomberman (Japan) [T-En by Bomberman Jetters Translation Project] [i].gba	gba-t-en
+7b5f62775f7c63e8d93f0106de3eb261	Chocobo Land - A Game of Dice (Japan) [T-En by Nezz v1.0].gba	gba-t-en
+311ed2fc91a3febc9740ee25e7f82c77	Crash Nitro Kart (Japan) [T-En by Cornholio309 v3.5] [n].gba	gba-t-en
+8fc0755bd35a032890f4e90a1e55747f	Crash Nitro Kart (Japan) [T-En by Cornholio309 v3.5] [US title theme] [n].gba	gba-t-en
+f3b890631df1f24ed7f8215359c63095	Custom Robo GX (Japan) [T-En by hmsong v0.3] [i].gba	gba-t-en
+851d2563b7f1ec2ceddc0afc3475dc01	Di Gi Charat - DigiCommunication (Japan) [T-En by JegHegy v0.1] [i].gba	gba-t-en
+7d6b2b69bd15e99a825f47fc35211fae	Dragon Quest Characters - Torneko no Daibouken 3 Advance - Fushigi no Dungeon (Japan) [T-En by Sam Steel v0.05] [i].gba	gba-t-en
+a57a5ea8c43957ee5974dd02ae305d1f	Dragon Quest Monsters - Caravan Heart (Japan) [T-En by The Translation Team v1.0].gba	gba-t-en
+2e9179020a3d50a12f300f2dc7bf0231	F-Zero - Climax (Japan) [T-En by F-Zero Climax Translation Project Team v1.1].gba	gba-t-en
+a455005a850ce6e136bd1d0e0dd50d2c	F-Zero - Climax (Japan) [T-En by Normmatt v1.0] [i].gba	gba-t-en
+3e382a5f71e5fe803993b60a25dc48dd	Final Fire Pro Wrestling - Yume no Dantai Unei! (Japan) [T-En by Fat Dave Beta 1] [i].gba	gba-t-en
+254fafda5e314ca26d4001810f750c64	Fire Emblem - The Binding Blade (Japan) [T-En by Dark Twilkitri Net Translation Division v2.1] [Add by Gringe v1.2.1] [n].gba	gba-t-en
+a700fb72ae6f779ca8d1a09dbc0ea151	Flashback Legends (France) (Proto) [T-En by VanishedOne v1.0].gba	gba-t-en
+ad77704e57f00d568f0ce1809936ab62	Fullmetal Alchemist - Sonata of Memories (Japan) [T-En by Iredc v1.0] [n].gba	gba-t-en
+70dd13d5d0cb840ecdee29ea78e5e013	Fullmetal Alchemist - Stray Rondo (Japan) [T-En by Mz v0.02] [n].gba	gba-t-en
+e33de4139d69d016394a26119cdeba32	Hajime no Ippo - The Fighting! (Japan) [T-En by Markliujy v1.0].gba	gba-t-en
+a999560912f6f9b98bfc52d39c74df6f	Hikaru no Go (Japan) [T-En by Ricardo Bittencourt v0.3] [i].gba	gba-t-en
+243daff405b36ef1a20f30d46addec60	Klonoa Heroes - The Legendary Star Medal (Japan) [T-En by Klonoa Mega Chat Translation Team v1.1.9] [Add by glazier2121 & rcs709 v1.0 ] [Censored] [n].gba	gba-t-en
+159c7c521051b7659ef2842c1105c71b	Klonoa Heroes - The Legendary Star Medal (Japan) [T-En by Klonoa Mega Chat Translation Team v1.1.9] [n] [SRAM version].gba	gba-t-en
+32afdd172d30d7e52c195a655fe06ddf	Klonoa Heroes - The Legendary Star Medal (Japan) [T-En by Klonoa Mega Chat Translation Team v1.1.9] [n].gba	gba-t-en
+e1ca79e0a3c3f05a0c7eb27640cb472d	Kururin Paradise (Japan) [T-En by DigitalZero Domain v0.5] [i].gba	gba-t-en
+0dc95fc1e46120140ca258ea7f59f301	Kururin Paradise (Japan) [T-En by Dimedime v1.0].gba	gba-t-en
+43c29e64c16e26f3f0dae33120c9430d	Legendary Starfy Origins, The (Japan) [T-En by Starfy Translation Team v1.1] [n].gba	gba-t-en
+366f654175a8cd855aeb4605e0bce5f5	Legendary Starfy, The (Japan) [T-En by Starfy Translation Team v1.1] [n].gba	gba-t-en
+349184896e3c3f9b61545434da425647	Legendary Starfy, The (Japan) [T-En by Starfy Translation Team v1.1] [Original Japanese names] [n].gba	gba-t-en
+9029326a45e051b43e1480d8f1cb9136	Love Hina Advance - Shukufuku no Kane wa Naru Kana (Japan) [T-En by LHAProject v0.98] [Alt Font] [i].gba	gba-t-en
+4f1e7c60d4fe54fea13aacb135ab745a	Love Hina Advance - Shukufuku no Kane wa Naru Kana (Japan) [T-En by LHAProject v0.98] [i].gba	gba-t-en
+8ffee6a133c9d2b8e49209fe2b5b3276	Magi Nation (Japan) [T-En by Aplier v1.01].gba	gba-t-en
+7bc82e72f6b9f734766f6cd9faf43e66	Magical Vacation (Japan) [T-En by Magicalpatcher v1.0].gba	gba-t-en
+58ba9fcfdfd673c2cec7c0728b83aa93	Mega Man Battle Network 4.5 - Real Operation (Japan) [T-En by The Rockman EXE Zone v1.1] [EU] [n].gba	gba-t-en
+f4fff1f4668e73f3c10aa4fd45702164	Mega Man Battle Network 4.5 - Real Operation (Japan) [T-En by The Rockman EXE Zone v1.1] [NA] [n].gba	gba-t-en
+199543739f6c9113df9ced6b98feea01	Mega Man Battle Network 6 - Cybeast Falzar (Japan) [T-En by Exeguy11 v1.8] [n].gba	gba-t-en
+dcefc6591e58d545c91107bd415579cb	Mega Man Battle Network 6 - Cybeast Falzar (Japan) [T-En by Exeguy11 v1.8] [Wii U features] [n].gba	gba-t-en
+734d1cc470ce6823d29d600c6032bc44	Mega Man Battle Network 6 - Cybeast Gregar (Japan) [T-En by Exeguy11 v1.1] [n].gba	gba-t-en
+410c6df8eaef7b9e13853abf46dc689b	Mega Man Battle Network 6 - Cybeast Gregar (Japan) [T-En by Exeguy11 v1.1] [Wii U features] [n].gba	gba-t-en
+f3690309d6cbce3a74ada3d5dfcae89c	Megaman - Battle Network 2 (USA) [T-En by Vgperson v1.01] [Relocalized].gba	gba-t-en
+71935c11b89fe341ba3ccc07ac4f3df8	Megaman - Battle Network 3 - Blue Version (USA) [T-En by Vgperson v1.0] [Relocalized].gba	gba-t-en
+4e1fc7b2690b24de8298f5ffe8bd30d8	Megaman - Battle Network 3 - White Version (USA) [T-En by Vgperson v1.0] [Relocalized].gba	gba-t-en
+8294cd942a0903c33e81f7e35fb31610	Megaman - Battle Network 4 - Blue Moon (USA) [T-En by vgperson v1l.0.0] [Relocalized] [Preserve Resizing Of Glyphs].gba	gba-t-en
+753d7571b4752305edb56294be1803b5	Megaman - Battle Network 4 - Blue Moon (USA) [T-En by vgperson v1l.0.0] [Relocalized].gba	gba-t-en
+5d169811bbea8c1d38d5e21819a6f35b	Megaman - Battle Network 4 - Red Sun (USA) [T-En by vgperson v1l.0.0] [Relocalized] [Preserve Resizing Of Glyphs].gba	gba-t-en
+3b42fcdf610e91b845018b15aef8480f	Megaman - Battle Network 4 - Red Sun (USA) [T-En by vgperson v1l.0.0] [Relocalized].gba	gba-t-en
+f32907ae1c441d4c1674ae2f25379a3f	Mobile Phone Beast Telefang 2 - Power (Japan) [T-En by Telefang 2 English Translation Project v20130505] [n].gba	gba-t-en
+24f59551c49fc42b68a197500ed52801	Morning Adventure, The (Spain) (Promo) [T-En by Prof. 9 & Vague Rant v1.01].gba	gba-t-en
+68806f7e40e1f082b21a8b920e8982db	Mother 1+2 (Japan) [T-En by Jeffman & Tomato v1.01].gba	gba-t-en
+259db0337da6eb6f91bb16fc0d569b56	Mother 3 (Japan) [T-En by Chewy & Jeffman & Tomato v1.3a] [HQ audio mix by MusicTheorist].gba	gba-t-en
+0dbbd6df8d2611cd00768dc067d5a0e3	Mother 3 (Japan) [T-En by Chewy & Jeffman & Tomato v1.3a].gba	gba-t-en
+3c1061b284c5550f0ad27421716c7a62	Mr. Driller A - Fushigi na Pacteria (Japan) [T-En by Keep Smiling International v1.0] [i].gba	gba-t-en
+6035757c4147b228ddb2ab966b147755	Nekketsu Monogatari Advance (Japan) (Demo) (Unl) [T-En by Jaz v1.0].gba	gba-t-en
+0fe6daf45e3460cc865ee50029988f3a	Oriental Blue - Ao no Tengai (Japan) [T-En by The Romhacking Aerie v1.0].gba	gba-t-en
+834f3d54a784a9e2be8a1d729f89a523	Phoenix Wright - Ace Attorney (Japan) [T-En by H3rmit & Spazzery v006] [n].gba	gba-t-en
+4ef304a3503a90579246ef7dae85e78a	Phoenix Wright - Ace Attorney  Trials and Tribulations (Japan) [T-En by H3rmit v015.8] [n].gba	gba-t-en
+9a2269e62d38e4784309314cb41bc9f7	Play Novel - Silent Hill (Japan) [T-En by 07151129 v0.1].gba	gba-t-en
+678cbc2af2b824ebc3680515ae816197	Puyo Puyo Fever (Japan) (En,Ja,Fr,De,Es,It) [T-En by Tasos500 v1.0] [Relocalized].gba	gba-t-en
+61dc3c62e286ebbb0bb01864f3356719	Rhythm Heaven Silver (Japan) [T-En by ShaffySwitcher Beta 14] [n].gba	gba-t-en
+3c29922b367de3f58587a8f92d1280b7	Rhythm Heaven Silver (Japan) [T-En by W hat Beta 13a] [n].gba	gba-t-en
+e0e1317b670592fc8565cb3d73230dc4	Rhythm Tengoku (Japan) [T-En by ShaffySwitcher v20230620] [i].gba	gba-t-en
+6c9979dc4888883d123e97587a8b4ab5	Shin Bokura no Taiyou - Gyakushuu no Sabata (Japan) [T-En by DarthNemesis & Lordhuffnpuff & SpikeMan v0.7b] [i].gba	gba-t-en
+34d50b2e3fa34a53632f631b0605170a	Shin chan - Adventures in Cinema-Land (Spain) [T-En by LeonarthCG v1.0] [n].gba	gba-t-en
+883319bdc8ab902259c980477dea7c7c	Shin Megami Tensei (Japan) [T-En by Gymzatan v1.3b] [iOS Localized] [Font Hack].gba	gba-t-en
+5cfd19f0fdd9912bc0e1163235d9951c	Shin Megami Tensei (Japan) [T-En by Gymzatan v1.3b] [iOS Localized].gba	gba-t-en
+3fe15193a944260b24e37634f47d3295	Spyro - Season of Ice (Japan) [T-En by Cornholio309 & RayCarrot v1.0] [Add by Cornholio309 & RayCarrot v1.01] [n].gba	gba-t-en
+ec494c8bd214ef0bf0d57dcde40e5ca7	Spyro - Season of Ice (Japan) [T-En by Cornholio309 & RayCarrot v1.0] [n].gba	gba-t-en
+1e2ed077d1db255c44cd6c653067750c	Suikoden Card Stories (Japan) [T-En by Pokeytax v1.00] [n].gba	gba-t-en
+aa22a332bc843e3c8f3eef28d6b0b2e3	Summon Night - Swordcraft Story 3 - The Stone of Beginnings (Japan) [T-En by Higsby & Normmatt & Teod & Unknownbrackets v0.9] [i] [n].gba	gba-t-en
+d6d19c4b1aef95094c5985295e54de76	Super Robot Taisen D (Japan) [T-En by Snesmaster40 v0.5] [i].gba	gba-t-en
+1249e6491b9b8bc6f6b9a3098d305e6d	Super Robot Taisen R (Japan) [T-En by Shadownall v090202] [i].gba	gba-t-en
+778cbe0cd0d270cf7d436e4a85121fe6	Super Robot Wars 2 (Japan) (Promo) [T-En by Aeon Genesis v0.99] [Gallant Char] [Music Persistance] [n].gba	gba-t-en
+06618a55ff344b48bda4911110c2b8cc	Super Robot Wars 2 (Japan) (Promo) [T-En by Aeon Genesis v0.99] [Gallant Char] [n].gba	gba-t-en
+cb17d85fcba63feb86f39a712f1082be	Super Robot Wars 2 (Japan) (Promo) [T-En by Aeon Genesis v0.99] [Music Persistance] [n].gba	gba-t-en
+d705138087091941d5507d41eb0aa8a0	Super Robot Wars 2 (Japan) (Promo) [T-En by Aeon Genesis v0.99] [n].gba	gba-t-en
+6caff32286c768d3bf9f7986d535ef7b	Super Robot Wars J (Japan) [T-En by The Romhacking Aerie v1.0] [n].gba	gba-t-en
+9e252895e3e3aaa905d775429ea92f5d	Tales of the World - Narikiri Dungeon 2 (Japan) [T-En by Kajitani-Eizan v2.30] [i].gba	gba-t-en
+b03eba45c3e7d805dbcd4272ba48804a	Tales of the World - Narikiri Dungeon 2 (Japan) [T-En by Kajitani-Eizan v2.30] [SRAM fix] [i].gba	gba-t-en
+d5aa5525c228d4fdb3c61217dfbf29fa	Tales of the World - Narikiri Dungeon 3 (Japan) [T-En by Kajitani-Eizan v1.11] [All Bosses Monster List] [i].gba	gba-t-en
+46d9e88df487f032161286d3fba17005	Tales of the World - Narikiri Dungeon 3 (Japan) [T-En by Kajitani-Eizan v1.11] [i].gba	gba-t-en
+959c714ade4039b56e5c0227330fe1d2	Tomato Adventure (Japan) [T-En by Unknown W. Brackets v1.1.1].gba	gba-t-en
+84bcc02ab4ca331e09ce30183aba24cf	Ui-Ire - World Soccer Winning Eleven (Japan) [T-En by knighTeen87 v0.99].gba	gba-t-en
+15a07dfb1e7a37bf39355b6f46251a16	Zatchbell! - Electric Arena 2 (Japan) (Rev 1) [T-En by SuperrSonic v1.0] [En dub] [n].gba	gba-t-en
+99eaff9943d515908dfad7fe8e3fb8c0	Zatchbell! - Electric Arena 2 (Japan) (Rev 1) [T-En by SuperrSonic v1.0] [n].gba	gba-t-en
+fa321e88a74c9b786d260f80979601f0	Zatchbell! - Electric Arena 2 (Japan) [T-En by SuperrSonic v1.0] [En dub] [n].gba	gba-t-en
+85927fdba7f992d6af893367a00cc54a	Zatchbell! - Electric Arena 2 (Japan) [T-En by SuperrSonic v1.0] [n].gba	gba-t-en
+28e695614a2a9d32daf42de115a4ab02	Zoids Saga - Fuzors (Japan) [T-En by Gared531 v20210831] [i].gba	gba-t-en

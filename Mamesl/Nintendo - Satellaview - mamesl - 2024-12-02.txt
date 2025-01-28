@@ -1,0 +1,401 @@
+bd294663c30d771904d5fa3c0d02dcac	12-21(-1997) tora maga daisakusen.bs	satellaview-mame
+bac7b03031fc6234b31b1c1ec516f44f	2-24 game tora no ooana special (bs).bs	satellaview-mame
+086e43b8c641d5bcb63091e9562332c4	3-ji no wide shou - 5 gatsugou (japan).bs	satellaview-mame
+a99ba6dbc612744f5effd37a43a7baa7	3-ji no wide shou - 6 gatsugou (japan) (bs).bs	satellaview-mame
+1f052eb7ebe43854fb6b2ac868d9ac1c	3-ji no wide shou - 6 gatsugou (japan).bs	satellaview-mame
+e63e34223d8388dd70aae9269149f62e	4-7 tora no chou ooana 2 (d).bs	satellaview-mame
+9dfba92ec78cfab5cc101d3ae0b8bb7d	4-7 tora no chou ooana 2 (fixed).bs	satellaview-mame
+8d6dad2b4ebba021366c6bc7637e4d19	actraiser (japan) (bs).bs	satellaview-mame
+1151741068304ec8a1e9df033ccf8bd7	actraiser (japan).bs	satellaview-mame
+be84f2de2089e2ba6056c9985ba230fb	ak live hit gang.bs	satellaview-mame
+b37f1c65206fc9fe876478d6c7d97395	albert odyssey (japan) (bs).bs	satellaview-mame
+3bdfc821103e9386ddf65e24f6746890	albert odyssey (japan).bs	satellaview-mame
+4c85950f32176c1f9a56fa3fdcfb705b	arkanoid - doh it again (japan) (bs).bs	satellaview-mame
+80048c494bb3bde9644d8df31b54f849	arkanoid - doh it again (japan).bs	satellaview-mame
+ccf7a93af6fcbd01fec61f1f912187b1	ascii data 1.bs	satellaview-mame
+af5d04a295c577d3e9ff024d4ae3de9f	ascii data 2.bs	satellaview-mame
+b9e95457efb47705d91ee1fdffb4ab16	ascii data 3.bs	satellaview-mame
+ec0dceb7f17a8fe750936d6b9584d179	ascii music tool1995.11.02 v1.0.bs	satellaview-mame
+955744d1c3a3e687f431f42d596953f0	asdf.bs	satellaview-mame
+2b73313437cacf468ef4f61ec930710b	b dash - 2 gatsugou (japan) (bs).bs	satellaview-mame
+6dd8822430d62aeb4cca5cc604796b74	b dash - 2 gatsugou (japan).bs	satellaview-mame
+6a9f9024403aaa4ddc9e0f3b7d917231	b dash - 3 gatsugou (japan) (bs).bs	satellaview-mame
+de935b6685e94ec9f04c1a0d3b4113e6	b dash - 3 gatsugou (japan).bs	satellaview-mame
+c39dfccb8e178ac22e80d494d1b95ec7	bad bs excitebike hack.bs	satellaview-mame
+1e55dbc0703c74e41c378c5e5b0defa6	bad_bs_excitebike_dump(alt_data_maybe).bs	satellaview-mame
+7459537a7105d1830f604bb20fa38c2a	bakusho mondai no shirikon chounaikai 6-22.bs	satellaview-mame
+d4fd2b8c766a0e07d6ed734a666aec39	bakushow mondai no shirikon chounaikai 2-1-1997.bs	satellaview-mame
+647e019140832de6ddc8173a230ccf1b	bakushow mondai no silicon chounaikai (2-8) (digital magazine).bs	satellaview-mame
+15a4d271667b1c3ebafcb2bf79952c61	bass tournament 4 (incomplete).bs	satellaview-mame
+f3c13e3ef16ffff08ed9da04d6c6aa8a	bokujou monogatari.bs	satellaview-mame
+399660ec596d84d98c84fd7dd089c8d9	bs bokujo monogatari da-2-wa (japan).bs	satellaview-mame
+8838b2cd2e2a816ed8fefce98cbc7ebc	bs bokujo monogatari dai-4-wa (japan).bs	satellaview-mame
+b0b3dc31ecd7229659c90eccf2811960	bs dragon quest i (japan) (bs soundlink) [b].bs	satellaview-mame
+dc0d0a1580fb5dd535dd549f541877dc	bs dragon quest i (japan) (bs) [header hack].bs	satellaview-mame
+b40444240c7a2eb573521906a22c2874	bs dragon quest i (japan) [b].bs	satellaview-mame
+48e10697ddf09404e2499fa4bbaac2d7	bs f-zero grand prix - ace league - dai-4-shuu (japan).bs	satellaview-mame
+f3cda6f47165db1e1f7f23c4f983e80a	bs f-zero grand prix - dai-1-shuu - knight league (japan) (bs soundlink).bs	satellaview-mame
+e767a6a198fcc265b80915fb8c6011ba	bs f-zero grand prix - dai-2-shuu - queen league (japan) (bs soundlink).bs	satellaview-mame
+aa61f7b072173b05a4efb81116d665c1	bs f-zero grand prix - dai-3-shuu - king league (japan) (bs soundlink).bs	satellaview-mame
+a6971afd9854a4bb9b7eeb2e0e454e75	bs f-zero grand prix - dai-4-shuu - ace league (japan) (bs soundlink).bs	satellaview-mame
+8fb174ee6a9548d84983887654c775e9	bs f-zero grand prix - king league - dai-3-shuu (japan).bs	satellaview-mame
+0300368606bf3b22d5c66d43fcf0d5e3	bs f-zero grand prix - knight league - dai-1-shuu (japan).bs	satellaview-mame
+30cedd1684316aeb8781e2ab4709a637	bs f-zero grand prix - queen league - dai-2-shuu (japan).bs	satellaview-mame
+c1008db81315057be63c2901a39eb1fb	bs f-zero grand prix 2 - practice (japan) (bs).bs	satellaview-mame
+e397d61d2559b434278c5328f942e63c	bs f-zero grand prix 2 - practice (japan).bs	satellaview-mame
+95338a78fb51efc0ae04edfde8034a26	bs f-zero grand prix 2 practice.bs	satellaview-mame
+a919f44e13fb564066e36840136ef42a	bs fire emblem - akaneia senki hen - dai-1-wa - palace kanraku (japan) (bs soundlink).bs	satellaview-mame
+cc03221c719c0f005cb9846af09826e3	bs fire emblem - akaneia senki hen - dai-1-wa - palace kanraku (japan).bs	satellaview-mame
+d329ea8cafe57fc02678f61725eb464a	bs fire emblem - akaneia senki hen - dai-1-wa - palace kanraku (r) (9-29).bs	satellaview-mame
+204c828dcdefb7abea0a2fc246e23c13	bs fire emblem - akaneia senki hen - dai-2-wa - akai ryuu kishi (japan) (bs soundlink).bs	satellaview-mame
+99895b9091ad3a1252652e1a079ad07a	bs fire emblem - akaneia senki hen - dai-2-wa - akai ryuu kishi (japan).bs	satellaview-mame
+91bbc9fd486e37d54c0cb09bae8d65a5	bs fire emblem - akaneia senki hen - dai-3-wa - seigi no touzokudan (japan) (bs soundlink).bs	satellaview-mame
+d1a317ce4bffa746ace26ac0602edccc	bs fire emblem - akaneia senki hen - dai-3-wa - seigi no touzokudan (japan).bs	satellaview-mame
+d58b996cb4672bee231e5de5e53d0b68	bs fire emblem - akaneia senki hen - dai-4-wa - hajimari no toki (japan) (bs soundlink).bs	satellaview-mame
+fe5a0e66637d03df1949284aa6089023	bs fire emblem - akaneia senki hen - dai-4-wa - hajimari no toki (japan).bs	satellaview-mame
+210b58b71fe979c45490b4ce4f4944de	bs fire emblem akanea senki hen dai-4-wa - hajimari no toki.bs	satellaview-mame
+2a8af53734d57c4ba3b0e409483b75df	bs fuurai no shiren - surara o sukue - dai-2-shuu (japan).bs	satellaview-mame
+f72cbcd6d3200f47938b18fad274f56b	bs fuurai no shiren - surura wo sukue dai-4-wa.bs	satellaview-mame
+3768236bfd206e6a3c9dfadd3e23e7bf	bs konae chan no dokidoki pengin kazoku (japan) (alt).bs	satellaview-mame
+d595866c4ee6221fbb27d0e02e629999	bs marvelous - camp arnold course - dai-1-shuu (japan).bs	satellaview-mame
+274a29414e5a7f24d90910a10645c61a	bs marvelous - camp arnold course - dai-2-shuu (japan).bs	satellaview-mame
+6d2e8480e3a221d5eadcaa0171770b35	bs marvelous - camp arnold course - dai-3-shuu (japan).bs	satellaview-mame
+ebcf1a4c0bef82f93236f76cbc462ffa	bs marvelous - camp arnold course - dai-4-shuu (japan).bs	satellaview-mame
+46c5bf023e41d9f806c4b6a8dabef733	bs marvelous - time athletic course - dai-1-shuu (japan).bs	satellaview-mame
+3ea370ec21a2a500c912f6f16d19069c	bs marvelous - time athletic course - dai-2-shuu (japan).bs	satellaview-mame
+fe298ad84369e74488d8811ce9d0053b	bs marvelous - time athletic course - dai-3-shuu (japan).bs	satellaview-mame
+220856f75373954fce352c6f5d94b597	bs marvelous - time athletic course - dai-4-shuu (japan).bs	satellaview-mame
+620109f5e31f5793e0f55b683ea07c10	bs nichibutsu mahjong - mahjong taikai (japan) (bs).bs	satellaview-mame
+82825a4a5b4b3f50539d9a3205ecb5bc	bs nichibutsu mahjong - mahjong taikai (japan).bs	satellaview-mame
+f7f707838c5d442d0986f0e411d523a5	bs nichibutsu mahjong - renshuu mahjong - ichimantou (japan) (bs soundlink).bs	satellaview-mame
+0555bdd5b7e23914231ad0220415cf19	bs nichibutsu mahjong - renshuu mahjong - ichimantou (japan).bs	satellaview-mame
+d632edc8cd733894ccf9438a67a98d4b	bs nichibutsu mahjong - renshuu mahjong - nimantou (japan) (bs soundlink).bs	satellaview-mame
+4222101ccf866d1a88f7bfdfa6c835e3	bs nichibutsu mahjong - renshuu mahjong - nimantou (japan).bs	satellaview-mame
+ed42e0210c12da6f6d415f4e119b1b8f	bs nintendo hp - 5-17 gou (japan) (bs).bs	satellaview-mame
+58c5c59024aee2dbab31ffa6228ded35	bs nintendo hp - 5-17 gou (japan).bs	satellaview-mame
+32f1be6835618cc5f787cff8a517e6e6	bs nintendo hp - 5-31 gou (japan) (bs).bs	satellaview-mame
+79873e905ed4684278fef8c9a5a3e5e1	bs nintendo hp - 5-31 gou (japan).bs	satellaview-mame
+1ebf70be8a08e17f89fa903d017514e8	bs parlor parlor - dai-2-shuu (japan) (bs soundlink).bs	satellaview-mame
+0621b2d7e15e4a4919b49d2756ff172b	bs parlor parlor - dai-2-shuu (japan).bs	satellaview-mame
+4b8f24e1d8106f0fb830b8a56678262b	bs race game 97mp (japan) (derby stallion 96 maybe).bs	satellaview-mame
+ed11cd88da8985aa345e4572c2e45cc8	bs shin onigashima - dai-1-wa - kataribe no koya (japan) (bs soundlink).bs	satellaview-mame
+a6786724fe9a408aa3e926addb7a122e	bs shin onigashima - dai-1-wa - kataribe no koya (japan).bs	satellaview-mame
+67d0ee2b18c696cf0e611c34ca363a69	bs shin onigashima - dai-2-wa - kataribe no koya (japan) (bs soundlink).bs	satellaview-mame
+3821f6e509f58da5474ae6265c3eec72	bs shin onigashima - dai-2-wa - kataribe no koya (japan).bs	satellaview-mame
+66427eff5c50838769ef499240868c1a	bs shin onigashima - dai-3-wa - kataribe no koya (japan) (bs soundlink).bs	satellaview-mame
+ed72283b3e12c85c608d26148eb516dc	bs shin onigashima - dai-3-wa - kataribe no koya (japan).bs	satellaview-mame
+73ef2061e65da04d141a2d86836bfa49	bs shin onigashima - dai-4-wa - kataribe no koya (japan) (bs soundlink).bs	satellaview-mame
+a6a22860ae14e806d0defcf38c3aec66	bs shin onigashima - dai-4-wa - kataribe no koya (japan).bs	satellaview-mame
+7e51a6f28bedbce33a9b27d1978004e6	bs sound journal for lovers - valentine special vol. 1.bs	satellaview-mame
+a91cc973d177d07d6d20459782d42cdb	bs st. giga pg - 10 gatsugou (japan) (bs).bs	satellaview-mame
+5847aa261399d79166712820093ba94f	bs st. giga pg - 10 gatsugou (japan).bs	satellaview-mame
+c6cc3a6005d8bf1b24185ea9baa21b68	bs super mario collection - dai-3-shuu (japan) (bs soundlink).bs	satellaview-mame
+c17116d9aae3f7cf60aa7ef8368e4d0d	bs super mario collection - dai-3-shuu (japan).bs	satellaview-mame
+be58760840703a1f1f36b3bfa2e7b108	bs super mario usa - power challenge - dai-1-kai (japan) (bs soundlink).bs	satellaview-mame
+738ad2f447dd737830ede9eb4cf7215e	bs super mario usa - power challenge - dai-1-kai (japan).bs	satellaview-mame
+effd7e9360be56da5a9876b45a5989fc	bs super mario usa - power challenge - dai-2-kai (japan) (bs soundlink).bs	satellaview-mame
+ecaea816d05c19470e61d8275f0afe69	bs super mario usa - power challenge - dai-2-kai (japan).bs	satellaview-mame
+62331bfa00172b3e2705dc33dc93e1ee	bs super mario usa - power challenge - dai-3-kai (japan) (bs soundlink).bs	satellaview-mame
+b1159eabe8fcf01950c578c6d6c5cbfe	bs super mario usa - power challenge - dai-3-kai (japan).bs	satellaview-mame
+f08e24ffd1c2b1f0c85cd81ba72c66bd	bs super mario usa - power challenge - dai-4-kai (japan) (bs soundlink).bs	satellaview-mame
+990d3f3ecffc51090c5670a0a6753239	bs super mario usa - power challenge - dai-4-kai (japan).bs	satellaview-mame
+9dfd7cfe35e6df67a28197c68213ecab	bs tantei club - yuki ni kieta kako - chuuhen (japan) (6-20).bs	satellaview-mame
+f4477fdda47aeb6e6b5397ac79f5afd3	bs tantei club - yuki ni kieta kako - chuuhen (japan).bs	satellaview-mame
+cbd73501db873b78c73a6886df49bec4	bs tantei club - yuki ni kieta kako - kouhen (japan) (bs soundlink).bs	satellaview-mame
+31cb43bd5209d1d541d0a39ae61a976f	bs tantei club - yuki ni kieta kako - kouhen (japan).bs	satellaview-mame
+43d983147366f82cfbc2ae1162031449	bs tantei club - yuki ni kieta kako - zenpen (japan) (bs soundlink).bs	satellaview-mame
+371069efebc6ef8a43fb44d75c97aa08	bs tantei club - yuki ni kieta kako - zenpen (japan).bs	satellaview-mame
+381f0f44159407c4adc8299ddbd5779c	bs yuuki nae no ge-mu no tsubo (japan).bs	satellaview-mame
+719a82679b24fd100ff1f8d4545deaed	bs zelda no densetsu - dai-3-wa (japan) (bs soundlink).bs	satellaview-mame
+63835c7d333790d518b1d6dabf25d6f8	bs zelda no densetsu - dai-3-wa (japan).bs	satellaview-mame
+a90f92a606e342b35aa4bc070cfe3f78	bs zelda no densetsu - kodai no sekiban - dai-1-wa (japan).bs	satellaview-mame
+f203ab9d9720c2ba8ac8453b0c10553c	bs zelda no densetsu - kodai no sekiban - dai-2-wa (japan).bs	satellaview-mame
+59cee44354ed6fd664236ba9f6b18a63	bs zelda no densetsu - kodai no sekiban - dai-3-wa (japan).bs	satellaview-mame
+da4d548e54a593e635e023bbf7db72b1	bs zelda no densetsu - kodai no sekiban - dai-4-wa (japan).bs	satellaview-mame
+401ae46720b0197f5442a82914cfd6c7	bs zelda no densetsu map 2 - dai-4-wa (japan) [b].bs	satellaview-mame
+3f3b5eefd3167290f4bd2a22bc3e35c4	bsmc-zs5j-0.u1	satellaview-mame
+16c01d30d842496fd8cec31c48cdabff	bs_tamo.bs	satellaview-mame
+4d26ad5d525c246968845ebfb4e965ff	casino bar mokuyoubi.bs	satellaview-mame
+d214bbd54b0704c021a2b89a00f12fb6	cheap de gorgeous vol. 1 (japan) (bs).bs	satellaview-mame
+2dd08197db68c95e2fcee940fe810aa5	cheap de gorgeous vol. 1 (japan).bs	satellaview-mame
+fe72292b679f743dad8e93da4102da3e	chrono trigger - character zukan (japan) (bs).bs	satellaview-mame
+bb4e142d19ed561c6e8e4b633d968acd	chrono trigger - character zukan (japan).bs	satellaview-mame
+948256257bffc94b876e2b4a3b988f54	chrono trigger - jet bike special (japan) (bs).bs	satellaview-mame
+5dc24ed61b2b590c7116c0ecdd0c2f07	chrono trigger - jet bike special (japan).bs	satellaview-mame
+26bacc5bc306454a74e4da1ebd9530d7	chrono trigger - music library (japan) (bs).bs	satellaview-mame
+c726a9fbb6ec5da25225e65f83352630	chrono trigger - music library (japan).bs	satellaview-mame
+bd9a5db6b687811c2ec283c6a4a6f9fb	columbus no tamagoyaki - dai-1-kai (japan) (bs).bs	satellaview-mame
+38c0a9cc1a21e77cdd32519530ba4750	columbus no tamagoyaki - dai-1-kai (japan).bs	satellaview-mame
+9240f781125a0e8b62b6eb7ca8ee8701	columbus no tamagoyaki - dai-2-kai (japan) (bs).bs	satellaview-mame
+6d641be45ec5d24cfc4a3e43ac0143ad	columbus no tamagoyaki - dai-2-kai (japan).bs	satellaview-mame
+3d1ac9bbefa0babdc9ddf17000a15dad	columbus no tamagoyaki - dai-3-kai (japan) (bs).bs	satellaview-mame
+a361c3d8f9a3ae7e1beecf52e8b6a94c	columbus no tamagoyaki - dai-3-kai (japan).bs	satellaview-mame
+3f0e5917e66499216aeba8f491daec45	cu on pa (bs) (6-15).bs	satellaview-mame
+0146afddaa05ea324518a4cc3d7c9645	cu-on-pa sfc (japan) (bs).bs	satellaview-mame
+4f623aa352273926ac6e772908f91fcb	cu-on-pa sfc (japan).bs	satellaview-mame
+04e8701b433b99aca432894733adaf63	daibakushou jinsei gekijou (japan) (bs).bs	satellaview-mame
+10905c7a4fff41eafb219f793f541394	daibakushou jinsei gekijou (japan).bs	satellaview-mame
+515b77d71ab249f399463c1df6d302fd	dandan belt conveyor - gyuunyuu no maki (japan) (bs).bs	satellaview-mame
+9764a176c3c4e5b12f6b1991b9ce67d5	dandan belt conveyor - gyuunyuu no maki (japan).bs	satellaview-mame
+d4b80849daa6fe945ad9eaada7107e99	dandan belt conveyor - ukulele no maki (japan) (bs) [b].bs	satellaview-mame
+6c31f4e3cd659fe732fbb0fe9b28c3ec	dandan belt conveyor - ukulele no maki (japan) [b].bs	satellaview-mame
+a54c568152a7ad3599d031f594a42af2	dar mario 2.bs	satellaview-mame
+d59b85b7f14089080455f72aafa8479a	darius force (japan) (bs).bs	satellaview-mame
+fb385a521d31b720d58c8566be2a98a0	darius force.bs	satellaview-mame
+7328c333cc54aee986b981f816e30830	dezaemon bsx version - bs-x shooting.bs	satellaview-mame
+2acf6d53c3a2bab717fe42c5f696db6f	digital magazine busters bs - 4-12 gou (japan) (bs).bs	satellaview-mame
+5464ffd4ecf5ee95971528701927cfb2	digital magazine busters bs - 4-12 gou (japan).bs	satellaview-mame
+b8a7ae8720a8590dd4dbc23528974a63	digital magazine busters bs - 5-10 gou (japan) (bs).bs	satellaview-mame
+c5df9fa66b65f642d855fc6b30e24fbd	digital magazine busters bs - 5-10 gou (japan).bs	satellaview-mame
+93e006a8097d689347dd76f52b17981c	digital magazine busters bs - 5-24 gou (japan) (bs).bs	satellaview-mame
+04f97267266403dc3d348e4d75b4d2f6	digital magazine busters bs - 5-24 gou (japan).bs	satellaview-mame
+4f41cb7ba5c6cfaa69881c2e06d67b5c	digital magazine busters bs - 8-23 gou (japan) (bs).bs	satellaview-mame
+2b4a57725297e56fb5b37956d1dcbdc6	digital magazine busters bs - 8-23 gou (japan).bs	satellaview-mame
+5b2fbff251b10eb70ab9a3f277890952	do-re-mi de faa 2~ - 5-10 gou (japan) (bs).bs	satellaview-mame
+5504cbf1cb3f5c6ff7cde932d5869f00	do-re-mi de faa 2~ - 5-10 gou (japan).bs	satellaview-mame
+526b0d6fe14008557db88d6e4f08d8ea	do-re-mi de faa 2~ - 5-25 gou (japan) (bs).bs	satellaview-mame
+5774f713d391d4e33b17c57ad56a4e8c	do-re-mi de faa 2~ - 5-25 gou (japan).bs	satellaview-mame
+1e9accc2c7a5258463761e703b7aee93	do-re-mi de faa vol. 6 - 5-4 (japan).bs	satellaview-mame
+ee6d55bb139f9b731700d21b658ba471	dokapon gaiden - honoo no audition (japan) (bs).bs	satellaview-mame
+fd70dd93d601d08fc84997a6be877cdc	dokapon gaiden - honoo no audition (japan).bs	satellaview-mame
+31b0b1df5b86bbe718a3a249e16ae2e4	dr mario (a).bs	satellaview-mame
+8e5976f64284fca4a715d0cd84d2be94	dr mario.bs	satellaview-mame
+d56c77fa4f0f90a4387cd91a8b05d9c7	dr. mario (japan).bs	satellaview-mame
+e312154e1845b1b277358cf71468a4c2	dragon slayer - eiyuu densetsu (japan) (bs).bs	satellaview-mame
+01ff5c832f160872fd418c7ff227a81f	dragon slayer - eiyuu densetsu (japan).bs	satellaview-mame
+e80b44e6475f8ef37652cd46dd2d31ec	dynami tracer (japan) (bs).bs	satellaview-mame
+37dc9fe89a424be039b6eb476acd582f	dynami tracer (japan).bs	satellaview-mame
+272968c6a21f5b558dbcaabe09ae693b	excitebike - bunbun mario battle - stadium 1 (japan) (bs soundlink).bs	satellaview-mame
+e2b8d4316ba4297983db0f3d02285f56	excitebike - bunbun mario battle - stadium 1 (japan).bs	satellaview-mame
+4dbb2cb2da2057586f8d0f06c6ae7315	excitebike - bunbun mario battle - stadium 2 (japan) (bs soundlink).bs	satellaview-mame
+b70ba27f7574fa0487764d3278bdc068	excitebike - bunbun mario battle - stadium 2 (japan).bs	satellaview-mame
+cf9dce0dbf3b8cbafaac39d4380aac2a	excitebike - bunbun mario battle - stadium 3 (japan) (1998-01-11 - 1998-01-17) (bs soundlink) [b].bs	satellaview-mame
+19dbab0c61367cfd60d9427151d94241	excitebike - bunbun mario battle - stadium 3 (japan) (1998-01-11 - 1998-01-17).bs	satellaview-mame
+ca0811ec969841eaba612c2b59b076d8	excitebike - bunbun mario battle - stadium 3 (japan) (xxxx-02-08) (bs soundlink).bs	satellaview-mame
+a8891bfb7ddc2499fa724bd4d3ba26c4	excitebike - bunbun mario battle - stadium 3 (japan) (xxxx-02-08).bs	satellaview-mame
+6c5c2343d96bc234a3d8cd37b37b9515	excitebike - bunbun mario battle - stadium 4 (japan) (bs soundlink).bs	satellaview-mame
+09fc8cfc7559ceb1c0e54d5c4ad52189	excitebike - bunbun mario battle - stadium 4 (japan).bs	satellaview-mame
+1632f488d5920d90ed8bf309cd83ecec	f-zero (japan) (bs).bs	satellaview-mame
+6d008e539f73a077a1d3d133e7d21410	f-zero (japan).bs	satellaview-mame
+a0ffa3757833f49eaa26661820c052a5	fenek - 6 gatsugou (japan) (bs).bs	satellaview-mame
+169ea67f33840c7ebdf853e8f7fb57ec	fenek - 6 gatsugou (japan).bs	satellaview-mame
+4cc03dff063301f997a4c290a2280510	firemen, the (japan).bs	satellaview-mame
+4b92ca6c69500c2323cfabfdb0a6cd27	freud no chousenjou - dai-1-gou (japan) (bs).bs	satellaview-mame
+6766f73b2e54b6d11db222c2c11ab4bd	freud no chousenjou - dai-1-gou (japan).bs	satellaview-mame
+5a7a64d3c071adf79c05112ba53cb2ad	freud no chousenjou - dai-2-gou (japan) (bs).bs	satellaview-mame
+867a713d8c363bff9f6bafadc6037c06	freud no chousenjou - dai-2-gou (japan).bs	satellaview-mame
+9e6144caa90d6223c56f363b41dbae52	freud no chousenjou - dai-3-gou (japan) (bs).bs	satellaview-mame
+06ba292938f8a69e0befd0cd01ce8867	freud no chousenjou - dai-3-gou (japan).bs	satellaview-mame
+a8d5d755bb05332efe3715b0cf6b6132	freud no chousenjou - dai-4-gou (japan) (bs).bs	satellaview-mame
+4986789c2a7d442b0c3cd53d0b569017	freud no chousenjou - dai-4-gou (japan).bs	satellaview-mame
+90a56649e80a13c8634150355eb740fa	freud no chousenjou - dai-5-gou (japan) (bs).bs	satellaview-mame
+321aa8dd02119330006b3bc9cbe62c8b	freud no chousenjou - dai-5-gou (japan).bs	satellaview-mame
+b1cbb45897e90ca77d5901608ec409f5	freud no chousenjou - dai-6-gou (japan) (bs).bs	satellaview-mame
+606240a966c3802c280c0b2f3499bdc4	freud no chousenjou - dai-6-gou (japan).bs	satellaview-mame
+2a112531c9b269cc71fe0689a6ed6920	gal kan bazooka dai-5-kan.bs	satellaview-mame
+fb92c4f2ad7ff75625f84b213dc4f95b	gambler jiko chuushinha 2 - dorapon quest (bs) (japan) (dec 19).bs	satellaview-mame
+8d78a51cccd33613a88a1c80acee9ddc	gambler jiko chuushinha 2 - dorapon quest (bs) (japan) (dec 20).bs	satellaview-mame
+0862fe3198b4bad070f997e494f4ffe4	game tora no taikoban - 5-17 gou (japan) (bs).bs	satellaview-mame
+c49cfb8dd4b3675f72fc9283c7ea9d90	game tora no taikoban - 5-17 gou (japan).bs	satellaview-mame
+133b91f17bd5a4aff9a18b57d1af8aa9	game tora no taikoban - 5-31 gou (japan) (bs).bs	satellaview-mame
+65001c90c59b1df18a2ddda1922705ba	game tora no taikoban - 5-31 gou (japan).bs	satellaview-mame
+aa7ebb3f8f76092ad5522f4be0135353	gekkan coin toss - deck 1 (japan) (bs).bs	satellaview-mame
+ebff33571ad0aa25a2eb6a7e1ab45129	gekkan coin toss - deck 1 (japan).bs	satellaview-mame
+64cc98482de6fab9b750464b5f2a3d35	golf daisuki o.b. club (japan) (bs).bs	satellaview-mame
+73d06c8bf19d0642a8f47ca276871ac5	golf daisuki o.b. club (japan).bs	satellaview-mame
+9c9c4034a5933027792ed406deb1ddb4	goodspress - 3 gatsugou (japan) (bs).bs	satellaview-mame
+db25137d3257d7a3d24b20a7733fb825	goodspress - 3 gatsugou (japan).bs	satellaview-mame
+d068591eb99e09355334f2083cbd10a7	goodspress - 6 gatsugou (japan) (bs).bs	satellaview-mame
+7d25b2b5f0a6d11857b3d5eaf0daec0d	goodspress - 6 gatsugou (japan).bs	satellaview-mame
+eaf0c4a670412d83de6f83717acccdc1	goodspress - 7 gatsugou (japan) (bs).bs	satellaview-mame
+2d348e18fdf1377f79993d8aa88c13c7	goodspress - 7 gatsugou (japan).bs	satellaview-mame
+fe0046ec0e6f4bea38e5d2e4e1efd32a	heisei gunjin shougi (japan) (bs).bs	satellaview-mame
+7d14120f1343a6b8b488914771fe4fd6	heisei gunjin shougi (japan).bs	satellaview-mame
+61410821eb2be8e6a879e673bd7694c9	hikaru ijuin no houkago no ousama (hacked).bs	satellaview-mame
+d38d6d38c907163dc3e422b2809f641b	hikaru ijuin no houkago no ousama [d].bs	satellaview-mame
+9d32651f297c10c2edb351857bbd65c3	ikari no yousai (japan) (bs).bs	satellaview-mame
+55a273a1561e3cdf27189279263c70a6	ikari no yousai (japan).bs	satellaview-mame
+792459e89c84627b53a77b3bf92b6195	jewel of live (rpg maker super dante).bs	satellaview-mame
+db4dd0305051f7d3ca7bd2e114f4f1dd	kaizou choujin shubibinman zero (l).bs	satellaview-mame
+3f17a37f25266bbd6e37ebfe12108319	kaizou chounin shubibinman zero (japan) (bs).bs	satellaview-mame
+67fe189f30726c99ad1f5e9ac656f7fd	kaizou chounin shubibinman zero (japan).bs	satellaview-mame
+595afd073047670a3fea75ace4c19c11	kanaderu convert 1.bs	satellaview-mame
+988cc4e6970ef9d0e7c54687bb5bd300	kanaderu convert 2.bs	satellaview-mame
+3d0384aa06a5e7b412c1dd633ead911d	kanaderu convert 5.bs	satellaview-mame
+d62c907a4efc20d4a33813ded98183da	kandu convert rpg maker data.bs	satellaview-mame
+a62119cd010554ddd10e4a4cae4c006b	kandu convert3.bs	satellaview-mame
+2120e8d1c2dc1548091da06968558a29	kandu convert3c.bs	satellaview-mame
+32a8d8e6480d48b2ea79fe63be17105c	kandu convert4.bs	satellaview-mame
+9cb2fb499d440cb687a02d9c94b7621e	kessen dokapon oukoku iv - densetsu no yuusha-tachi (bs).bs	satellaview-mame
+8c9035477c9881ef939dd7f4ba0f810d	kid klown no crazy chase (japan) (bs).bs	satellaview-mame
+f7785e8f05fea488ae1584b1e136256e	kid klown no crazy chase.bs	satellaview-mame
+d9ed1df9b7deb990c9b8ece5d9898515	kiki kaikai.bs	satellaview-mame
+62ec01a92cbd02f4680fcb59c53d7ec2	kirby no omochabako - baseball (japan) (bs).bs	satellaview-mame
+230b90fef934406415db59722b98a304	kirby no omochabako - baseball (japan).bs	satellaview-mame
+84a92e69cfb08cf1161d755d0907a278	kirby no omochabako - guruguru ball (japan) (bs).bs	satellaview-mame
+a97221b75f0e09d4e734fe86ee74dcc7	kirby no omochabako - guruguru ball (japan).bs	satellaview-mame
+81b0f5ef9e0d42656f7a874b9a7da0dc	kirby no omochabako - hoshi kuzushi (bs) (2-26).bs	satellaview-mame
+27650fb4e8bacfffb75d13f75bca21d7	kirby no omochabako - hoshi kuzushi (japan).bs	satellaview-mame
+612cad0100b9a37693815542d501a193	kirby no omochabako - pinball (japan).bs	satellaview-mame
+e483a43299c4bc0b75bdd919ba7bf5f4	kodomo chousadan mighty pockets - chousa 1 - junk-ya black no ie (japan).bs	satellaview-mame
+b5fe5ae2fa82dbd9220804eb731d97a7	kodomo chousadan mighty pockets - chousa 2 - hanzai toshi big apple (japan).bs	satellaview-mame
+845d6ff6bfcb3df6e709b1ba4c9c7586	kodomo chousadan mighty pockets - chousa 3 - kyakusen queen patra no nazo (japan) (bs soundlink).bs	satellaview-mame
+d39bedc0d7941ba2c6a8d45c4fa5395c	kodomo chousadan mighty pockets - chousa 3 - kyakusen queen patra no nazo (japan).bs	satellaview-mame
+222606c1e051aef58a49bc9507ceb2c8	koi wa balance - tatoeba k-kun no tabou na ichinichi hen (japan) (bs).bs	satellaview-mame
+038513592f17630dac6feb308db750fb	koi wa balance - tatoeba k-kun no tabou na ichinichi hen (japan).bs	satellaview-mame
+66b7cab6599dd0bf840baddb2a2e5fe7	konae-chan no dokidoki penguin kazoku (japan).bs	satellaview-mame
+d4bb31a5a45facc95f2566af7b0859b9	kouryaku casino bar - roulette (bs).bs	satellaview-mame
+dbe59db43f5cd6ba96299ce4cd355a1e	kouryaku casino bar double pack.bs	satellaview-mame
+5cf806e8799747129c63406335adce6a	kouryaku casino bar roulette + game tora no ooana special 2-24.bs	satellaview-mame
+644c8fd1471b348c05deff0db4e0aa7e	lemmings (bs).bs	satellaview-mame
+38342a8286a6545a41dd5aa017a716ce	let's pachinko nante gindama 1 (japan) (bs).bs	satellaview-mame
+4e1221d57782952371b70f19c22605df	let's pachinko nante gindama 1 (japan).bs	satellaview-mame
+05dc318f6c260f3a5df7640a35e83fd8	let's pachinko nante gindama 2 (japan) (bs).bs	satellaview-mame
+c5642bdd4134ec43656f9b8f6759ae4c	let's pachinko nante gindama 2 (japan).bs	satellaview-mame
+db539cf7d21f8ca6d703004d6e6dc29a	let's pachinko nante gindama 3 (japan) (bs).bs	satellaview-mame
+414e2acacb4e5ac6a1322133b7e85d6f	let's pachinko nante gindama 3 (japan).bs	satellaview-mame
+a94247239b61ae70a4b760e345951aec	let's pachinko nante gindama 4 (japan).bs	satellaview-mame
+675e32640ecb2a95fde3cd819601aab0	lets pachinko nante gindama 4 (bs) (11-24).bs	satellaview-mame
+004984ab9b18933d6eb8c5c42b66b45e	logos panic go-a-i-sa-tu bs ban.bs	satellaview-mame
+fa5a79f145fe3253aeb5199cc5b5de2a	lord monarch (japan) (bs).bs	satellaview-mame
+093f681a6b8a0439ac209930a3b6284a	lord monarch (japan).bs	satellaview-mame
+fc3d410954c4793404e2e657d3d8d0f3	machi magazine (d).bs	satellaview-mame
+afd282c16a4898ae911d1e44120b3dbb	machi magazine (header fix prepatched).bs	satellaview-mame
+4fdc885b7c5d03e0b40350cfa2cf3577	maria - part 1 (bs).bs	satellaview-mame
+b7a3a52806804deb16dced42ca70b84f	mario paint - bs ban (japan) (bs).bs	satellaview-mame
+948b23ff962631f870eaae443eac1f8b	mario paint - bs ban (japan).bs	satellaview-mame
+fb7adb28d74f2f1c56998d527b5be6bb	mario paint - yuushou naizou ban (japan) (bs).bs	satellaview-mame
+5c37fc09b2446302bbde9c44972d8638	mario paint - yuushou naizou ban (japan).bs	satellaview-mame
+47acb2ae72388ab1bcd6f6df33bd4541	media strawberry volume 12.bs	satellaview-mame
+175ec5d5640ac79fd81e09cc3728ce88	monopoly 2 bs - red cup.bs	satellaview-mame
+ecb5522adf03785f3586cd05bdd857a3	monopoly 2 bs - yellow cup.bs	satellaview-mame
+69d367cc4664d1f579315578dbc1534e	new yatterman - nan dai kan dai yajirobe (bs) (d).bs	satellaview-mame
+cf178cfb9351bcf8dafa94df0d35d2e6	nintama rantarou 2 (japan) (bs).bs	satellaview-mame
+121e925b4e04ef16ecc37baf6bc112fa	nintama rantarou 2 (japan).bs	satellaview-mame
+8ff1ed6b54618ac7985b23178e42e7bc	nintendo power magazine 107 (japan) (bs).bs	satellaview-mame
+fef3563aaa17234e896b399d35434c0a	nintendo power magazine 107 (japan).bs	satellaview-mame
+cb2aee8e56fa50bbc4e4d9a1494c4699	panel de pon '98 event version (bs) (12-28).bs	satellaview-mame
+2e8d1500f887c5f039a9412747f482bf	panel de pon - event '98 (japan).bs	satellaview-mame
+a93560366907f3cfec2a402d6b6065e4	pokekame magazine (japan) (bs).bs	satellaview-mame
+ef81acd11afc5fa1c555f1d1a19d17a0	pokekame magazine (japan).bs	satellaview-mame
+2de583aa9248f3d3e9d12e307df85b79	puyob.bs	satellaview-mame
+5d1c642c23d0bb113ace249a586f0689	radical dreamers - nusume nai houseki (japan) (bs).bs	satellaview-mame
+19a9ba8234048ce8f30846300b573fb2	radical dreamers - nusume nai houseki (japan).bs	satellaview-mame
+3eca569da5de24f70ed5280a35a537cc	rpg data 01 a.bs	satellaview-mame
+85f239603a800a7a83386ee4ec6675b3	rpg data 01.bs	satellaview-mame
+69178bd2eae18cb7be9b11b05f80c5b5	rpg data 02 b.bs	satellaview-mame
+bb266596899eadc20ef16d8f11aa6285	rpg data 02.bs	satellaview-mame
+b7928ddc7608aa0844727e9d6dd0ece9	rpg data 03 judas priest.bs	satellaview-mame
+7ea34dc2a233d7adc13297dae563c053	rpg tsukuru - super dante.bs	satellaview-mame
+97137be43e94cd570fcee85567f12055	rpg tsukuru 2 data (overwritten bokujo data).bs	satellaview-mame
+530d948f95c4635b4cf2afe4287fa614	ryouma de yuku data.bs	satellaview-mame
+9750a47b1689948233c98f54a2413dd8	same game - chara data shuu (japan) (bsrom).bs	satellaview-mame
+b88c1c8a441a42f491818c0fb9c416d7	same game koma editor 4 (data pack)(maybe).bs	satellaview-mame
+0c7e0d4f3ad151a6063249965eeb9069	same game koma editor 4 (fixed).bs	satellaview-mame
+071313e4118d0008d59aa3312cbe8989	satella walker - sate bou o sukuidase (japan) (bs soundlink).bs	satellaview-mame
+bf114d36e80680e35d0fb49b91bef616	satella walker 2 - sate bou o sukuidase (japan).bs	satellaview-mame
+f7139e2a0df8ffcf486215f35f6f57fa	satella2_1.bs	satellaview-mame
+442384ed70af69f594c8cec93e6de81e	satesupo dx dai-4-gou.bs	satellaview-mame
+fe119faf3160454e8979bc3c9cd4a401	sd gundam g next - unit & map collection (japan) (bsrom).bs	satellaview-mame
+f0f636acd6a5b0e0a9994277091b0cdb	sd gundam g-next (japan) (data).bs	satellaview-mame
+e70e2dc463f4720608060d0729008399	sd gundam g-next data (3-16) (dumped august 2010).bs	satellaview-mame
+eb652857c7c061583d7c56e98464fe59	shanghai - banri no choujou (bs).bs	satellaview-mame
+2172e624fbb095c53e130221740c7b37	shanghai - banri no choujou (japan) (bs).bs	satellaview-mame
+943de295fa34f38c10c2bd3419e6a4a0	shanghai - banri no choujou (japan).bs	satellaview-mame
+f5fd8e0a4ac5b615fa7ef728da1f4044	sonic blast man (japan) (bs).bs	satellaview-mame
+d04ac13d3cec2842635351db750a8497	sonic blastman (bs).bs	satellaview-mame
+5b5f0487335417de9dfe1cddad19200b	sound novel 1 a.bs	satellaview-mame
+195835b99854107c4ace6ea7e83917fe	sound novel 1.bs	satellaview-mame
+a591e9438a9984d663e923738af86494	sound novel 2.bs	satellaview-mame
+b045975262809175c20d921746468958	sound novel 3 a.bs	satellaview-mame
+851228cb32da259ed7f9879f1e81d844	sound novel 3.bs	satellaview-mame
+441834ce6a71511f501a2e46bd5adcf9	sound novel 4 a.bs	satellaview-mame
+4cf189f87d73fbd84e6a95467cb6026d	sound novel 4.bs	satellaview-mame
+ff1246f6170f20bc517ae140c2b25b86	sound novel 4h.bs	satellaview-mame
+de25f987f2f1f67b9c68c7be634fb5ee	sound novel 4_1.bs	satellaview-mame
+b1d34f9f35fc45a315ffd1b1ac485d94	sound novel 5.bs	satellaview-mame
+a7778cb74a423b53cf5e92b4ad2897f5	sound novel 6.bs	satellaview-mame
+d76badc3a7c15ac0a17b3bba5369a3a9	sound novel 7.bs	satellaview-mame
+86f8ce24ea8dac6c054e88e417ad2a34	sousa sentai wappers - mission 01 (japan) (bs).bs	satellaview-mame
+497e677d87173cd53a23fa286bcb3a6f	sousa sentai wappers - mission 01 (japan).bs	satellaview-mame
+7f4750e65269400e9affce96d7b4f6aa	sousa sentai wappers - mission 02 (japan) (bs).bs	satellaview-mame
+065b8328cab789d39b649b05e87856d3	sousa sentai wappers - mission 02 (japan).bs	satellaview-mame
+6ff4e2aa7182dfea739681b7ae615ce7	sousa sentai wappers - soushuuhen (japan) (bs).bs	satellaview-mame
+7fecf81f1d11eb435031392427c182c0	sousa sentai wappers - soushuuhen (japan).bs	satellaview-mame
+05ab2908f7e96fb6681727ddc129b4e1	special tee shot (japan) (bs).bs	satellaview-mame
+641fd86aaa55b5c3ad4710bc8898514a	special tee shot (japan).bs	satellaview-mame
+32d8b85a4ed351240e2d6d8ac5ca9365	spriggan powered bs - prelude (japan) (bs soundlink).bs	satellaview-mame
+2604e418070468a7a0c67f9bcaa643f3	spriggan powered bs - prelude (japan).bs	satellaview-mame
+d06dc45f902a94b9799aabed524f7fa2	star soldier 2mins (b).bs	satellaview-mame
+972c865f8c3db09137cb4b526855b305	star soldier 2mins (bad) (repair patch).bs	satellaview-mame
+13dc1d8ac79de1a359c857e3c584c340	super aleste (bs).bs	satellaview-mame
+26e0a68852024fb3adee46c509c4befd	super bomber man (japan) (en) (bs).bs	satellaview-mame
+791bd8bf2645d7c0b95cb541949810aa	super bomberman 2.bs	satellaview-mame
+98dbe4302ec7a782aa657c5e1b0234cf	super bomberman.bs	satellaview-mame
+ab09f131dc565a9f2d4258cf52f27d2e	super e.d.f. (japan) (bs).bs	satellaview-mame
+914bc37153f402eb08ca2e59f4899c46	super e.d.f. (japan).bs	satellaview-mame
+d65a73ad8ddc97a47fdaf7437a083e0c	super famicom wars - bs ban - tsukinowa-jima (japan) (bs).bs	satellaview-mame
+92eb644c92a3a8518ee4d3b9644c3a94	super famicom wars - bs ban - tsukinowajima (japan).bs	satellaview-mame
+85c9dfdc301c4d98d34ada1027533c19	super fire pro wrestling.bs	satellaview-mame
+29d76b82089fa89de49b7f7bfeefa563	super mahjong taikai (japan) (bs).bs	satellaview-mame
+e2058aa96061381ea5cc4806efa760e7	super mahjong taikai (japan).bs	satellaview-mame
+9b1f1436be089d3266161f5e1a516cbf	super nazo puyo (bs) (japan).bs	satellaview-mame
+6c0a214c290e2298408031b15dd45973	super nazo puyo - rulue no roux (japan) (bs).bs	satellaview-mame
+17c1a13a18127e7ede1451c473bb4efb	super nazo puyo tsuu - rulue no tetsuwan hanjouki (japan).bs	satellaview-mame
+af7582ecc80e950295d5a9f3fb8ecc48	super ninja-kun (japan) (bs).bs	satellaview-mame
+43a355f1b9981f6e9d145eebcb3af688	super ninja-kun (japan).bs	satellaview-mame
+169828d7d34bd46fc720d81b233dae3f	super puyo puyo tsuu remix (japan) [b].bs	satellaview-mame
+b506b22863043424dc00aa547541ab7f	super tsumeshougi 1000 (japan) (bs).bs	satellaview-mame
+39552d62de90260e3450d1e3a6e28b5f	super tsumeshougi 1000 (japan).bs	satellaview-mame
+2e1a9805601d60165a97c2ec38047f66	super volley ii (japan) (bs).bs	satellaview-mame
+93d25b4f1ee965f4b5d3ba725b9a94a5	super volley ii (japan).bs	satellaview-mame
+a2c6c504a1d13d17f843ca4799871f3c	super volley ii.bs	satellaview-mame
+d2ceb260b2507239e14d31724afe5081	sutte hakkun - 98 event version (japan).bs	satellaview-mame
+b5f98a3cf4f345f948cc8db8d2eb77cb	sutte hakkun - 98 fuyu event version (japan) (bs).bs	satellaview-mame
+800305a4b2b3c589330c9e5461aac1aa	sutte hakkun - bs version 2 (bs-d) (10-19).bs	satellaview-mame
+1216856df1bf5e3c88e5e5dbf7f5bfc8	sutte hakkun - bs version 2 (bs-d) (11-25).bs	satellaview-mame
+ecabe007d8b86a546e92b3a910d1c570	sutte hakkun - bs version 2 (japan) (xxxx-06-03) (bs).bs	satellaview-mame
+52521955307252af4864fe78dba2d462	sutte hakkun - bs version 2 (japan) (xxxx-06-03).bs	satellaview-mame
+1136d148d235662d4f5fe5169b2c6bdb	sutte hakkun - bs version 2 (japan) (xxxx-10-08) (bs).bs	satellaview-mame
+67c77da5328c9ce89dc6caf8639f64f3	sutte hakkun - bs version 2 (japan) (xxxx-10-08).bs	satellaview-mame
+26603b9ca7a789ead6894262f5714ab4	sutte hakkun - event version (japan) (bs).bs	satellaview-mame
+9b031f8dd74e58ddd799f5bb28daec3d	sutte hakkun - event version (japan).bs	satellaview-mame
+b7bb06a4e57af668a80e48d23bc186f3	table game daisyugo (bs).bs	satellaview-mame
+c82883ee4cbcf978bc9085d87ff70e25	table game daisyugo shougi mahjong hanafuda (japan) (bs).bs	satellaview-mame
+5ae775c4ec16c02be046868fdcf2f28a	tamori no picross (japan) (6-26) (bs) [b].bs	satellaview-mame
+7a165aae06e675eb9a569bd1935b4816	tamori no picross 8-13 + mystery magazine data (chronomoogle).bs	satellaview-mame
+269d47792f93fb7b8448cd99b08e02ab	tamori_no_picross_6-13.bs	satellaview-mame
+317d2de72a7b5f147f414b4af7cd13a7	tamori_no_picross_6-26.bs	satellaview-mame
+534de4685ed6a099a31717826ad8ad8b	treasure conflix (japan) (bs).bs	satellaview-mame
+b98f45ed397c09ff4d6e51daeb11c1be	treasure conflix (japan).bs	satellaview-mame
+f5fe0c5154a3ecf6ec1d0e279cede468	undake30 same game daisakusen - mario version.bs	satellaview-mame
+24755297cbfbf7e8664e2029e82292d9	unknown - every other bank erased.bs	satellaview-mame
+3d52b63be1c3f9986f9d7db0faa27db7	unknown music data (bad maybe).bs	satellaview-mame
+a49cbe7db2e8131f2da88be2777ab787	waialae no kiseki.bs	satellaview-mame
+5ecf5f2e909143a3c632723fb5ed1a7f	waiwai check - 3-7 gou (japan) (bs).bs	satellaview-mame
+bae91d1787b93dde1a06f66b283cd1b9	waiwai check - 3-7 gou (japan).bs	satellaview-mame
+9d531acb20f61b40f59427a9b23009bc	waiwai check 3-21 saihousou + waiwai kids 3-16.bs	satellaview-mame
+5413753944d635c88181074023053a61	wario no mori - futatabi (deleted header info).bs	satellaview-mame
+11cdb16bd1c9fe199e4b9e6c9a7cb801	wario no mori - futatabi (japan) (bs).bs	satellaview-mame
+be18f8e04284278ece80ecdf74b6c553	wario no mori - futatabi (japan).bs	satellaview-mame
+59aeab135104025fe5d23815401a6a67	weekly famitsu express 4-27.bs	satellaview-mame
+ff44467b4a669c118168ffc7ca6919cb	wizardry v - saika no chuushin (japan) (bs).bs	satellaview-mame
+cc58b2288f0f18d2a17b365081a05661	wizardry v - saika no chuushin (japan).bs	satellaview-mame
+a8c3308b9c0e2edd4246f09b9a040e6a	yoshi no panepon - bs ban (bs) (1-2).bs	satellaview-mame
+3c506ebdacf7ecea3d8da9298a4382b1	yoshi no panepon - bs ban (bs) (6-14).bs	satellaview-mame
+1f2e4bdaadc23170dd8d77ec587935f8	yoshi no panepon - bs ban (bs) (7-5).bs	satellaview-mame
+2333479775351d2ee628e9a10fb4a5a5	yoshi no panepon - bs ban (japan) (en,ja).bs	satellaview-mame
+6e2e43b4077b5f2fd5dab273ebd7f91e	yung hakase no shinsatsushitsu - dai-1-gou (japan) (bs).bs	satellaview-mame
+57caff097b626a1da3f2b1e7750644b4	yung hakase no shinsatsushitsu - dai-1-gou (japan).bs	satellaview-mame
+cfe463df07160973d772fbd43649c584	yung hakase no shinsatsushitsu - dai-2-gou (japan) (bs).bs	satellaview-mame
+1ea230124af33b5e7466f4f61105298b	yung hakase no shinsatsushitsu - dai-2-gou (japan).bs	satellaview-mame
+efe4ee24a7e0d642f71f2e85374d7a4b	zelda no densetsu - kamigami no triforce (bs) (11-30).bs	satellaview-mame
+8a2152a65a2591159aaaf2ff119063fd	zelda no densetsu - kamigami no triforce (japan) (bs).bs	satellaview-mame
+b719ba9c9f170c063a10dbc5c349930d	zelda no densetsu - kamigami no triforce (japan).bs	satellaview-mame
+eafcd4a2d87df43e4326c4fdf20162f1	zero2.bs	satellaview-mame
+5bdcc9ab284f4f4998b4f577116ac4d5	zootto mahjong - event version (japan) (bs).bs	satellaview-mame
+63b4981e4d385209d510c6f51e26ecf6	zootto mahjong - event version (japan).bs	satellaview-mame
+0ad3a70713d97f018a979441e37126c1	zootto mahjong - preview ban (japan) (bs).bs	satellaview-mame
+d00791b0817e7869d62f0eb3295c2705	zootto mahjong - preview ban (japan).bs	satellaview-mame
+d12fa66803ba2d5da2ed25f81b48f369	[ikari] rpg tsukuru 2 data (2011-11-17).bs	satellaview-mame
+5de25996b7690cab8531e5c10f3fd6d9	[yankee] super puyo puyo (bs).bs	satellaview-mame

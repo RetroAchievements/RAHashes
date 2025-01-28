@@ -1,0 +1,1123 @@
+b747774bd345dac7d6cee287e091603d	3boxdemo.bin	videopac-yoriyoshizuki
+22b188ffc66f5618c8aab629b07332ad	3sweethoney.bin	videopac-yoriyoshizuki
+66e27cf1a0cdc9ad19ae20b537c4d3d8	4 en 1 Ligne (1982)(Philips)(FR).bin	videopac-yoriyoshizuki
+61923d4fa32f8a6c3531a77031bd1494	4 in 1 Row (1982)(Philips)(EU).bin	videopac-yoriyoshizuki
+1c2718c163781d675abe7e7aa27d21b5	4 in 1 Row (1982)(Philips)(EU)[b].bin	videopac-yoriyoshizuki
+61923d4fa32f8a6c3531a77031bd1494	4 in 1 Row (Europe).bin	videopac-yoriyoshizuki
+0c595598d9335fdbcaae19ebc2edfc94	4pigem.bin	videopac-yoriyoshizuki
+029bb380895d72f8097c6ac1b8fa50dc	aa10.bin	videopac-yoriyoshizuki
+3e395d5973bc1bd60cbd509d6229d83c	aa11.bin	videopac-yoriyoshizuki
+913ccb0f49bf1aa525bce8b9e1b8e2ad	aa12.bin	videopac-yoriyoshizuki
+6ed9eef0b8a3e7a686f4a75f20a65455	aa13.bin	videopac-yoriyoshizuki
+74911cc93d14f01e286ad901a937e581	aa13a.bin	videopac-yoriyoshizuki
+a6ac00803e91ed785aaf1dfe71cd9e69	aa15.bin	videopac-yoriyoshizuki
+fa1fd31849fe7528b0d5791b7b07dac2	aa16.bin	videopac-yoriyoshizuki
+95f2b87988f8d962f742ae68c8575ef8	aa17.bin	videopac-yoriyoshizuki
+16dfd81dacb32f2a4292672aa5fb6912	aa18.bin	videopac-yoriyoshizuki
+95304666cc03e7509c5b0c3715585c44	aa2.bin	videopac-yoriyoshizuki
+d785b863c9cea98cbd2b4fcfd372b661	aa3.bin	videopac-yoriyoshizuki
+d12682b39aaeac0156116b265644bb78	aa5.bin	videopac-yoriyoshizuki
+e137bc57f750ee08a5fa356e5b394367	aa5a.bin	videopac-yoriyoshizuki
+6345ec85001116adde7202d1a19e0794	aa6.bin	videopac-yoriyoshizuki
+e05923008cf1358ebfbe48f35365846d	aa9.bin	videopac-yoriyoshizuki
+653f8a65f8a5efc54cf4df9702d49d03	Aaron the Aant.bin	videopac-yoriyoshizuki
+0cc1b25d1d08a790728f5285c9b12993	aaron10.bin	videopac-yoriyoshizuki
+c8b9f89460ea9988eafc5da3bbf6fcdc	aaron11.bin	videopac-yoriyoshizuki
+95aa275189eb4cef1d6d37bd46086ebb	aaron12.bin	videopac-yoriyoshizuki
+417155421ab15cc747477c2909706af3	aaron12b.bin	videopac-yoriyoshizuki
+8d67af8e80f8a62998710203667444fb	aaron13.bin	videopac-yoriyoshizuki
+578c47007d2d03210542a2bcc84a9c71	aaron14c.bin	videopac-yoriyoshizuki
+3303e923cb30b4e4049fba2762c157ec	aaron1a.bin	videopac-yoriyoshizuki
+f2a3a88fe3dc3cebc4a85a43b0c4b051	aaron2.bin	videopac-yoriyoshizuki
+46ee064bb19555466ddaec801e6a5611	aaron3.bin	videopac-yoriyoshizuki
+e165ea0fcce3a395ef7dda992c95576f	aaron4.bin	videopac-yoriyoshizuki
+8133aeb6d9735074bf6f76e21385dc89	aaron4a.bin	videopac-yoriyoshizuki
+933b44e097fe4d5a7e5ac94845e05e97	aaron5.bin	videopac-yoriyoshizuki
+46b823e4fabc59cddebeee985fd54a29	aaron6.bin	videopac-yoriyoshizuki
+f81c61753465dcc4b4dfbcc58ecdb060	aaron6a.bin	videopac-yoriyoshizuki
+344a498a0b75d4c7318f88e1eb8d1d74	aaron7.bin	videopac-yoriyoshizuki
+745d643e7e961cbab8f0b62537051bab	aaron8a.bin	videopac-yoriyoshizuki
+edf4a1ae5a1b582b29d554a7defe9426	aaron8b.bin	videopac-yoriyoshizuki
+e69d7d2203a903f17a202af087a550a3	aaron9.bin	videopac-yoriyoshizuki
+d634e37ab9ad1fd271c088165210061f	acrobat-pl.bin	videopac-yoriyoshizuki
+ee681f566aad6c07c61bbbfc66d74a27	Activision Proto 1 (Later).bin	videopac-yoriyoshizuki
+14ad0c76109c0e8bffa9a85dbf1275e7	Adventure.bin	videopac-yoriyoshizuki
+63e4e2346cbfd0417ea6e311b439bc5a	agosub33.bin	videopac-yoriyoshizuki
+dbc2c0fcab87af33f543c40d0e412c61	agosub34.bin	videopac-yoriyoshizuki
+05f7af3f967e71470c44d5d74d658bd1	agosub42.bin	videopac-yoriyoshizuki
+150f5364f343fc8896497ade8aff12f5	agosub43.bin	videopac-yoriyoshizuki
+1c9d8c8dc69e318ee72f596b1f994682	Air Battle (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+b00cf9394dd3210aa64d422291a26a61	Air battle (br_58).bin	videopac-yoriyoshizuki
+4d6cfb7da66c8d9327b3ccdce9852509	Alien Invaders - Plus (1980)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+4d6cfb7da66c8d9327b3ccdce9852509	Alien Invaders - Plus (USA, Europe).bin	videopac-yoriyoshizuki
+55d7b6575645bfb5890a39491f823fea	Alpine Skiing (1980)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+55d7b6575645bfb5890a39491f823fea	Alpine Skiing (USA, Europe).bin	videopac-yoriyoshizuki
+db548c486df6a6080110eba560482860	AMIT8.bin	videopac-yoriyoshizuki
+2d0d4cd8e699fcf97cac366b867420f6	Amok (1998)(Dondzilla, John).bin	videopac-yoriyoshizuki
+da2160730c507a4c1286741f3b34e935	ANEIS-pl.bin	videopac-yoriyoshizuki
+17aea2f060812ba29b3e58a9f8d90a7c	Ants (v02).bin	videopac-yoriyoshizuki
+74c5cbd8907cc27198a1751205244988	Ants (v03).bin	videopac-yoriyoshizuki
+f3f70b5ca6d9b6d235096d3f0e4f325f	Ants (v04).bin	videopac-yoriyoshizuki
+f170e55ce225e9d6bc3dca82e57c09e4	Ants (v05).bin	videopac-yoriyoshizuki
+69bd4a03d0c83b0cb2265c3ae37e8cc6	Ants (v08).bin	videopac-yoriyoshizuki
+272355719337f6f9cc832a07a251f784	Ants (v09).bin	videopac-yoriyoshizuki
+cb4cf70f58fc62d6eba769c4622c394b	Ants (v10).bin	videopac-yoriyoshizuki
+b05220c819255a24dd6dabf0dc0c4408	Ants (v11).bin	videopac-yoriyoshizuki
+9217d36d93308ce3c9478dfeacfefc5c	Ants (v12).bin	videopac-yoriyoshizuki
+805339ab3fd9d099eecb4f850d46f5ac	Ants (v13).bin	videopac-yoriyoshizuki
+7ff08895fc39452a876208fd02016de4	Ants (v14).bin	videopac-yoriyoshizuki
+7e3ec76530e6ae6027a8b55723f437b9	Ants (v15).bin	videopac-yoriyoshizuki
+5fa952973b7822ba361b98f5704cf200	Ants! v13.bin	videopac-yoriyoshizuki
+abb98a2ea8eeb05e816eece69ce520ca	Ants! v14.bin	videopac-yoriyoshizuki
+8b4c318129a28e313dc89fe73269be61	Armored Encounter + Sub Chase (1980)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+8b4c318129a28e313dc89fe73269be61	Armored Encounter + Sub Chase (USA, Europe).bin	videopac-yoriyoshizuki
+7d23df55dfaca55bc4c87677855f4a45	Atlantis (1983)(Imagic)(EU-US).bin	videopac-yoriyoshizuki
+7d23df55dfaca55bc4c87677855f4a45	Atlantis (USA, Europe).bin	videopac-yoriyoshizuki
+4ac71dcc25881bf4d34d0a3c385568c8	Attack of the Timelord (1983)(Philips)(US).bin	videopac-yoriyoshizuki
+4ac71dcc25881bf4d34d0a3c385568c8	Attack of the Timelord (USA).bin	videopac-yoriyoshizuki
+4e60b4105082e0af0be455f433a7ca26	AVATAR.bin	videopac-yoriyoshizuki
+3cbe8429f30ea614e2124f7fa5068e64	Back To The Ring (Boxe5).bin	videopac-yoriyoshizuki
+f3a305796b43f342441a4cd991455c2b	Back To The Ring (Boxebl).bin	videopac-yoriyoshizuki
+10d42780f93d9f10b29eae970ff52c2d	Back To The Ring (Boxed).bin	videopac-yoriyoshizuki
+3b0ad55ce2c8bfcd3ca0281125e442d8	backgammon (europe).bin	videopac-yoriyoshizuki
+2a2bf79f5a44f34f9f5ba65963746e63	bacon1.bin	videopac-yoriyoshizuki
+e439028c855d2eeb40e1948fa72fca8e	bacon10a.bin	videopac-yoriyoshizuki
+daed07b4c7193b84c56121da3f103151	bacon11.bin	videopac-yoriyoshizuki
+034b512253472f651b23bef1bff81239	bacon12a.bin	videopac-yoriyoshizuki
+f2512cc59a59a72a3a0d61cca6deba4e	bacon13b.bin	videopac-yoriyoshizuki
+d704e6d19115cdd748a92e403866c7db	bacon14a.bin	videopac-yoriyoshizuki
+8343a4cd880de386047f24433920a892	bacon15aabb.bin	videopac-yoriyoshizuki
+79d3120a8c7a851862e70699bae03472	bacon16.bin	videopac-yoriyoshizuki
+e08f8f87f88e503071c33b72bcbcfc67	bacon17_20160309.bin	videopac-yoriyoshizuki
+86c3cc273ff12f71ebf1484b5bacc591	bacon18.bin	videopac-yoriyoshizuki
+8e152e5fdad74eef44b2dccfe736d0a5	bacon19.bin	videopac-yoriyoshizuki
+6c82bccdb1d0ff0dd16e9793b9965053	bacon20.bin	videopac-yoriyoshizuki
+985dd2e3f13d57d97d1625ce61c8b434	bacon21aa.bin	videopac-yoriyoshizuki
+8155ff4d271c80a67b531a2344686d69	bacon22a.bin	videopac-yoriyoshizuki
+f6ef12a72d5de1a77096a269efa007b7	bacon2ba.bin	videopac-yoriyoshizuki
+03813abc17d9f145ef56b1d07be77080	bacon3.bin	videopac-yoriyoshizuki
+c08fd899420abd6f71727572b217457c	bacon5ab.bin	videopac-yoriyoshizuki
+c6c5731512f0b4b379bca88c68042c72	bacon7.bin	videopac-yoriyoshizuki
+9cf114d1c587d75be332efab29c7cdf5	bacon9.bin	videopac-yoriyoshizuki
+ff418e9819cbcd10f02225f7fa3b2362	Baseball (1980)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+ff418e9819cbcd10f02225f7fa3b2362	Baseball (USA, Europe).bin	videopac-yoriyoshizuki
+50e59be180df3bfecd1f2239a9f0d860	Billard Americain (198x)(Philips)(FR).bin	videopac-yoriyoshizuki
+3f71651bdf999ad414b0f122f643078a	Billard Electrique (1980)(Philips)(FR).bin	videopac-yoriyoshizuki
+5aa0b4bff06106cdd5d8b370bfe65de9	Billard Electrique (198x)(Philips)(FR).bin	videopac-yoriyoshizuki
+d4da5c0ef72a977a081a040a31522c1d	Billiard (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+7bf1a49928971514a73e674ff0356e02	Billiard Americain (1981)(Philips)(FR).bin	videopac-yoriyoshizuki
+3430691fb9c0367505634909be0297be	Blackjack (1980)(Philips)(FR).bin	videopac-yoriyoshizuki
+108fa4cbda888ab371340e316aa2c761	Blobbers, The (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+108fa4cbda888ab371340e316aa2c761	Blobbers, The (Europe).bin	videopac-yoriyoshizuki
+5f36eba1efe84cd06012c0b8bf4c05cb	Blockout + Breakdown (1981)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+5f36eba1efe84cd06012c0b8bf4c05cb	Blockout + Breakdown (USA, Europe).bin	videopac-yoriyoshizuki
+1bfc420371c9e7c469f8fdbe431e4fa1	blox0.bin	videopac-yoriyoshizuki
+807fc941ae067e11fd7c34443386767e	blox1.bin	videopac-yoriyoshizuki
+7dd94537adb70112ff61c965a82f246f	board1a.bin	videopac-yoriyoshizuki
+b46e596a81e394246c45a0ea6df1a1ad	Bombardeio Submarino + Tiro ao Alvo (1980)(Philips)(BR).bin	videopac-yoriyoshizuki
+ef5c44c71e781cc91ddac952f378b14e	bones10.bin	videopac-yoriyoshizuki
+66837617010c4fb98ad595e692e09652	bones11.bin	videopac-yoriyoshizuki
+8ac73f97258e3d49dd5aa00a042305fe	bones12.bin	videopac-yoriyoshizuki
+57efcf1ee22d23ad2e813b520f4a9456	bones2.bin	videopac-yoriyoshizuki
+86a764849b93a17813314989f74a1f93	bones3.bin	videopac-yoriyoshizuki
+1e6871ab3a8bb04ec84c0426d4886a80	bones4.bin	videopac-yoriyoshizuki
+1668cf297310a10e368b118ef396e365	bones5.bin	videopac-yoriyoshizuki
+89250ed01f3640a3e69e195f62722b51	bones7.bin	videopac-yoriyoshizuki
+3131c4595ed4e98a0fc7b505ab6728d2	bones8.bin	videopac-yoriyoshizuki
+11746f59bf6f7f2d83a8911b8f6d9b0d	bones9.bin	videopac-yoriyoshizuki
+8ef1329a976e16657609d7d0a660edbc	boobs10a.bin	videopac-yoriyoshizuki
+b5ac7aa5213f03d526a409c12cfb705a	boobs11.bin	videopac-yoriyoshizuki
+90fa6dc166b20c85fdbe500b99c530f2	boobs12.bin	videopac-yoriyoshizuki
+e13100638c036b7acf5f481cc37df58c	boobs12a.bin	videopac-yoriyoshizuki
+da7bdc084c0fb874d6c7852955233d49	boobs13.bin	videopac-yoriyoshizuki
+2ff854e7bdaf79ebacc70610d7129a63	boobs13a.bin	videopac-yoriyoshizuki
+f4995311afad7c9b91a477eeec230e94	boobs2.bin	videopac-yoriyoshizuki
+70c4d592ba37ee400e458e3106687e39	boobs3.bin	videopac-yoriyoshizuki
+f63f57522d2cda3194c0e68b70b5b24f	boobs4.bin	videopac-yoriyoshizuki
+00e6766330887f2626687bfb80151a78	boobs5.bin	videopac-yoriyoshizuki
+c2b6234a46ad4d5d6f07b538725daaa6	boobs6.bin	videopac-yoriyoshizuki
+2a12c730372f3345b586ab9fec462700	boobs7.bin	videopac-yoriyoshizuki
+ab6851b0846bdf2c5fad73c6f97fbd16	boobs8.bin	videopac-yoriyoshizuki
+7d15befed20577f858767d9b23e49d19	boobs9a.bin	videopac-yoriyoshizuki
+16652634e75560dc830a0c38d7fe1711	Bowling + Basketball (1980)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+16652634e75560dc830a0c38d7fe1711	Bowling + Basketball (USA, Europe).bin	videopac-yoriyoshizuki
+72ae8054fa855b1a99aeb5c9a7fe7ae6	Bozo, the clown!.bin	videopac-yoriyoshizuki
+f4aa1f295e058971cafefa38b57e9a11	BREKING_BAD.bin	videopac-yoriyoshizuki
+03242ed48fd6c17043851fce8317c9f4	Brix (Odyssey 2) (brix) (2013.08.11 22.53).bin	videopac-yoriyoshizuki
+b9f7b591c3bb0a9164258fb4f526d927	Brix (Odyssey 2) (brix4) (2013.08.12 23.33).bin	videopac-yoriyoshizuki
+d16e65862abb8ccab5556f6f63028d48	Brix (Odyssey 2) (niceice12) (2013.12.26 17.39).bin	videopac-yoriyoshizuki
+93d49bab185cc518a3f7de5f1af2cf0f	Brix (Odyssey 2) (niceice13a) (2013.12.27 08.19).bin	videopac-yoriyoshizuki
+543b13ae5243eaff629679530562988f	Brix (Odyssey 2) (niceice13b) (2013.12.29 09.29).bin	videopac-yoriyoshizuki
+009070ce537553138b7d3d06e636d7af	Brix (Odyssey 2) (niceice15) (2014.01.02 14.51).bin	videopac-yoriyoshizuki
+9f22486b2894e72b78c67ee270053b58	Brix (Odyssey 2) (niceice16d) (2014.01.12 16.49).bin	videopac-yoriyoshizuki
+003e86a00f8cae5a727f8ffea97232d1	Brix (Odyssey 2) (santa2) (2013.08.13 19.17).bin	videopac-yoriyoshizuki
+faa54aac62d8a8f5bd59b0e2dbe7d5cf	Brix (Odyssey 2) (santa3) (2013.09.16 06.29).bin	videopac-yoriyoshizuki
+43f2c0e9a5109406706c5916c7aaa23d	brix3.bin	videopac-yoriyoshizuki
+dfebadfce2607f2780647aa41ec8f578	brutus.bin	videopac-yoriyoshizuki
+2935842de7c8eabfa01f4b16942b7b33	br_54.bin	videopac-yoriyoshizuki
+397ef93f7e804a32569006c8a50d6b7c	Buraco Negro (19xx)(Philips)(BR).bin	videopac-yoriyoshizuki
+091d2c4104eafdae1e79837ea11de2e3	BURG.bin	videopac-yoriyoshizuki
+ab4cf66ba4d1cc457cb6bf47ba7b60ee	BURGER3.bin	videopac-yoriyoshizuki
+a9742aee34c586f8b2fcd54f2dc311fb	BURGER4.bin	videopac-yoriyoshizuki
+a72da0339e4b6a5551e8251ccb17eac1	Burgertime.bin	videopac-yoriyoshizuki
+901d316a1fcb1693fbd6ef07a4e59c5f	Burnin' Buildin' (Burn Plus).bin	videopac-yoriyoshizuki
+e95c2e520b5f4c52a10fa7c7a77fca1a	Burnin' Buildin' (Tv Burnin' Buildin' 2).bin	videopac-yoriyoshizuki
+cb50747dd9e826b73f471bd170d865d1	cabman1.bin	videopac-yoriyoshizuki
+93b7386f8e3fd1984d83a1ef7d8687ec	cabman3.bin	videopac-yoriyoshizuki
+31a6c912b7ad75ecd0b9387de6f0fbe9	Casino Slot Machine (1980)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+31a6c912b7ad75ecd0b9387de6f0fbe9	Casino Slot Machine (USA, Europe).bin	videopac-yoriyoshizuki
+5b8cf6ba51254defffb6da61247bbcec	cat2.bin	videopac-yoriyoshizuki
+eb2d8d34ecac224c6e24256c4d62ae46	cat3.bin	videopac-yoriyoshizuki
+4599d85637f5fea353992d92425e3ecd	cat4.bin	videopac-yoriyoshizuki
+b5b8cae2e1a6a9309a62998c21a6d9c5	cat5.bin	videopac-yoriyoshizuki
+38bdca652882db2aee000f6da74442cc	cat6.bin	videopac-yoriyoshizuki
+dc6159188f940eed42dc3eb8336dfafd	Catch the Ball + Noughts and Crosses (1980)(Philips)(EU).bin	videopac-yoriyoshizuki
+dc6159188f940eed42dc3eb8336dfafd	Catch the Ball + Noughts and Crosses (Europe).bin	videopac-yoriyoshizuki
+2109d4ff4a0382c18d602fea99d05f30	cc1.bin	videopac-yoriyoshizuki
+5e0786fcc20651e77302f3247b19c643	cc10.bin	videopac-yoriyoshizuki
+e419a43cce521008190bf9f72f15436c	cc10c.bin	videopac-yoriyoshizuki
+960b7d980197e09d0513bcbf40644400	cc13c.bin	videopac-yoriyoshizuki
+52f5cbb955b9494af73922b724447575	cc14.bin	videopac-yoriyoshizuki
+21577276c734f98741b62b635c8c91e3	cc15.bin	videopac-yoriyoshizuki
+c9ffd246780c19fc29767ee9138f6138	cc2.bin	videopac-yoriyoshizuki
+b68d4c85d6a7e322c595e34d2f931c14	cc3.bin	videopac-yoriyoshizuki
+f1c7c22731ca544c90e69f042db46dfb	cc4.bin	videopac-yoriyoshizuki
+cbe5ad88673cdedda32dc348fdca950c	cc5.bin	videopac-yoriyoshizuki
+7638a4016a123f31a350b1fc75bf10ea	cc6.bin	videopac-yoriyoshizuki
+1f2029b22743f7a16bd619c50e8106d9	cc7.bin	videopac-yoriyoshizuki
+f88c9ebd01b201a32918ccd8892038d1	cc8.bin	videopac-yoriyoshizuki
+ec310016d1f2e8d65a0212d0d8ed1688	cc9.bin	videopac-yoriyoshizuki
+33a0d88518f9206e85fccf192431dc3a	celery02.bin	videopac-yoriyoshizuki
+215179dc27d6ade44ba7b3deb617f981	celery03.bin	videopac-yoriyoshizuki
+55bf488d90b7dd8ba1c7c3c2e062376e	celery05.bin	videopac-yoriyoshizuki
+f9fa8e7572d4b6d2a30bb9fa74de59f2	celery06.bin	videopac-yoriyoshizuki
+1597e7c847ca71678585d6f4af19b587	celery08.bin	videopac-yoriyoshizuki
+793c5d31e28f325e456e01754d2d5d7e	celery10.bin	videopac-yoriyoshizuki
+846ceb9ead36d6b4f433996ef4de8800	celery11.bin	videopac-yoriyoshizuki
+3389cd4a641c59f1141efe14519a6602	celery12.bin	videopac-yoriyoshizuki
+7fbc31b8ece3e04513fffb33525e737d	celery14.bin	videopac-yoriyoshizuki
+45e2545b0dae0da174f878966e6d1d17	celery15.bin	videopac-yoriyoshizuki
+256625814fdac9ce73a17370cbdd4fb6	celery16.bin	videopac-yoriyoshizuki
+32cc2d8d30233547424e759478f6cefd	celery17.bin	videopac-yoriyoshizuki
+0c501d414b91b8190eecdddab4621eab	celery18.bin	videopac-yoriyoshizuki
+ce3a0d3851aabb8ad34c8c1d60803e67	celery19.bin	videopac-yoriyoshizuki
+e3ceea55e3320c91308477ec990d74d3	celery20.bin	videopac-yoriyoshizuki
+b8d507a74deb4225d38c6567d56d1c93	celery21.bin	videopac-yoriyoshizuki
+106d2f881e88523ab9bbf49dc3845962	celery22.bin	videopac-yoriyoshizuki
+b8eee364b8eb227d044bd0142a7ea766	celery23.bin	videopac-yoriyoshizuki
+e3c68d1f7af5994e043b13a6b94cbe1c	celerytwo1.bin	videopac-yoriyoshizuki
+14707b5f78f30de84e6e17c6aaafe5d6	celerytwo2.bin	videopac-yoriyoshizuki
+dfc578d793300dec00847326daebc4c4	Chat et Souris (1983)(Philips)(FR).bin	videopac-yoriyoshizuki
+7a75efbad933e52c0904f05b4640461b	CHECK.bin	videopac-yoriyoshizuki
+78604f22cacfa1a7f3d5bfd1e7e75b3f	Chess (19xx)(Philips)(EU).bin	videopac-yoriyoshizuki
+78604f22cacfa1a7f3d5bfd1e7e75b3f	Chess (Europe).bin	videopac-yoriyoshizuki
+50ec558d5a74754e46924475b477339d	Chess.bin	videopac-yoriyoshizuki
+c070d4ea0fbd9113bdec1041c817261f	ChessPI.bin	videopac-yoriyoshizuki
+8d07c8f0343d8f14b4747d1d33c63466	Chez Maxime (198x)(Philips)(FR).bin	videopac-yoriyoshizuki
+248fcad810254eaac9e4550c0da576a3	Chinese Logic (1980)(Philips)(EU).bin	videopac-yoriyoshizuki
+248fcad810254eaac9e4550c0da576a3	Chinese Logic (Europe).bin	videopac-yoriyoshizuki
+41662467246247e61ef23853daa76474	Chinese Logic.bin	videopac-yoriyoshizuki
+38867e76a8796b8eac117c50eab559f5	christmas.bin	videopac-yoriyoshizuki
+91785e6d166c2dced3d92ae60ab3eb88	Circus Chico 1st demo.bin	videopac-yoriyoshizuki
+26b85a05979ae27c33be635ac573e9ab	Circus Chico 2nd demo.bin	videopac-yoriyoshizuki
+7532790ac604e6d21559a588e918a465	Circus Chico 3rd demo.bin	videopac-yoriyoshizuki
+c107b06694d18c4d702d0404cf65c93b	Clay Pigeon (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+1f36ab40c467a2c6c9ee965e581c0c1d	Clay Pigeon (198x)(Philips)(EU)[a].bin	videopac-yoriyoshizuki
+77ea6c8c52837b0699ca50d26a181043	Clay Pigeon (19xx)(Philips)(BR).bin	videopac-yoriyoshizuki
+77ea6c8c52837b0699ca50d26a181043	Clay Pigeon (Brazil).bin	videopac-yoriyoshizuki
+cca258910c9af919fb62252c4b2817d0	Comando Noturno (1983)(Philips)(BR).bin	videopac-yoriyoshizuki
+ccce4c742addb26635b48a96c3921bec	comando.bin	videopac-yoriyoshizuki
+7e3324612a492839301b79997832c84d	Commando.bin	videopac-yoriyoshizuki
+8b1b91361f92725b7587ed41fac6d3e0	Computer Golf (1980)(Philips)(US).bin	videopac-yoriyoshizuki
+8b1b91361f92725b7587ed41fac6d3e0	Computer Golf (USA).bin	videopac-yoriyoshizuki
+1e7035584d19aaa53eb3795d92fa6215	Computer Intro (1980)(Philips)(US).bin	videopac-yoriyoshizuki
+1e7035584d19aaa53eb3795d92fa6215	Computer Intro (USA).bin	videopac-yoriyoshizuki
+908e01082d7e30b7ce79df2dd85acfed	Computer Programmer (1980)(Philips)(EU).bin	videopac-yoriyoshizuki
+789e1d6cc41a8c830ea6900ddbbb7918	Conflit Cosmique (1980)(Philips)(CA).bin	videopac-yoriyoshizuki
+619c1545bd9c7c9de15e73a1bd23bdaf	Conquest of the World (1981)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+619c1545bd9c7c9de15e73a1bd23bdaf	Conquest of the World (USA, Europe).bin	videopac-yoriyoshizuki
+43dcdd77fb09d69e9a65b874cd5f13fa	Cosmic Conflict (1980)(Philips)(EU).bin	videopac-yoriyoshizuki
+0fc7ded34df6578680590559bfc2d636	Cosmic Conflict (1980)(Philips)(EU)[a].bin	videopac-yoriyoshizuki
+86ac9daf92ecf01996c56f1e75d558bd	Cosmic Conflict (1980)(Philips)(US).bin	videopac-yoriyoshizuki
+9da67f2e5d6c898699cbeeb51738e1fb	Cosmic Conflict (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+86ac9daf92ecf01996c56f1e75d558bd	Cosmic Conflict (USA).bin	videopac-yoriyoshizuki
+65a02f5b349d00e9cb298a232c2b8905	Course de Voitures + Autodrome + Cryptogramme (1980)(Philips)(FR).bin	videopac-yoriyoshizuki
+23f1759e69162e88f034c533d33604f7	Course de Voitures + Autodrome + Cryptogramme (198x)(Philips)(FR).bin	videopac-yoriyoshizuki
+35296cc33436b4d3b25bef5d1ed85e08	cow.bin	videopac-yoriyoshizuki
+6f268e167033496b551593c46fa9be0a	CRAZYCU.bin	videopac-yoriyoshizuki
+14009bdb350de95505ac29600173dbe4	CREEPYFOREST20160717demo.bin	videopac-yoriyoshizuki
+4e94a71f6119cc5a86b1b6217fd2ca36	Cryptogram (color hack) (vp_01hack).bin	videopac-yoriyoshizuki
+ea8210672d15e90a90beaeaf45d32f07	Cylon Empire.bin	videopac-yoriyoshizuki
+e4010348b656f9a687605b2e6e5419ab	DANCE REVOLUTION demo.bin	videopac-yoriyoshizuki
+ed38c66d8e19bfbfd3ae4a4926df47a7	Death_Race_NTSC.bin	videopac-yoriyoshizuki
+e5c8193ea0d6461ce99c6add22ea2ec6	Death_Race_PAL.bin	videopac-yoriyoshizuki
+bd45240880ca9419a0e169469b2b6a5e	Death_Race_RC03_NTSC.bin	videopac-yoriyoshizuki
+996ac1622c0d1d7f0e4f080065edea05	Death_Race_RC03_PAL.bin	videopac-yoriyoshizuki
+abde9cb8125e031782cd686a0629de33	DEF.bin	videopac-yoriyoshizuki
+ef55af1c7164948a245eeb71f804bed8	Demon Attack (1983)(Imagic)(EU-US).bin	videopac-yoriyoshizuki
+2a2abbc819ae11e6cc7c4a7af3930f8f	Demon Attack (198x)(Philips)(FR).bin	videopac-yoriyoshizuki
+ef55af1c7164948a245eeb71f804bed8	Demon Attack (USA, Europe).bin	videopac-yoriyoshizuki
+da1292c4d7ee4e0a7a46e12561ef4e2c	Depth Charge & Marksman.bin	videopac-yoriyoshizuki
+94fc4722c6594dcc805e3b63c6257591	Depth Charge + Marksman (1980)(Philips)(EU).bin	videopac-yoriyoshizuki
+94fc4722c6594dcc805e3b63c6257591	Depth Charge + Marksman (Europe).bin	videopac-yoriyoshizuki
+11b36c560c5c677e11c8bd7bb6df2d0c	Desafio Chines (1980)(Philips)(BR).bin	videopac-yoriyoshizuki
+9b4ecb5d598ecdeb87aa80aafc7958fb	Donkey.bin	videopac-yoriyoshizuki
+16c4ac8691e680cec987ac785603a8c8	drace05.bin	videopac-yoriyoshizuki
+f3e11a2fa7e67feb04062d4060e10a81	drace06.bin	videopac-yoriyoshizuki
+3313326b2fceb9adf762c8525af936a9	drace07.bin	videopac-yoriyoshizuki
+b430bbc2b595f5de925970d6585c162f	drace08.bin	videopac-yoriyoshizuki
+9288c6edaa25ccba0c3db28eba27c2e2	drace08b.bin	videopac-yoriyoshizuki
+788fcd48ccdf56cd4282efdd93e3794b	DRace_RC04_NTSC.bin	videopac-yoriyoshizuki
+506b45b66454eec4ebe22868b53762df	DRace_RC04_PAL.bin	videopac-yoriyoshizuki
+01de2f0ed63d72fdc08d1626399ffc3d	dreadnought.bin	videopac-yoriyoshizuki
+b976c87ca8b790abd2d6e2000d80cb02	Dynasty (1980)(Philips)(US).bin	videopac-yoriyoshizuki
+b976c87ca8b790abd2d6e2000d80cb02	Dynasty (USA).bin	videopac-yoriyoshizuki
+0aeb1835a5a5fdbb39fcf463a430436e	dynasty-sampl.bin	videopac-yoriyoshizuki
+285a9b942b246990a4507556c0535714	ed11.bin	videopac-yoriyoshizuki
+23e23ce6d4e1135e50698d6795df9519	ed12.bin	videopac-yoriyoshizuki
+a9c3b06f49ddc4827962fc51f472e9fc	EEPROM editor v1.0 (2007)(Soeren Gust).bin	videopac-yoriyoshizuki
+2f83125f4e5f1f5e87423cf52e6a2a1a	Electronic Table Soccer (1981)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+2f83125f4e5f1f5e87423cf52e6a2a1a	Electronic Table Soccer (USA, Europe).bin	videopac-yoriyoshizuki
+2dd052fc2e22cae511a220ff7e101411	Exojet (198x)(Philips)(FR).bin	videopac-yoriyoshizuki
+6770a8a9aaaf304c68faab974e1f02b3	Explosive Diarrhea (v1).bin	videopac-yoriyoshizuki
+64e844cb4ba728627553a820639ac1e5	Explosive Diarrhea (v2).bin	videopac-yoriyoshizuki
+0cf421b15dae4199590b22fa886caa42	Explosive Diarrhea WIP1.bin	videopac-yoriyoshizuki
+14cb265fea7cdd40b62279b04e534757	Explosive Diarrhea WIP2.bin	videopac-yoriyoshizuki
+2db726c7a48785ddb27c9cd8a4e5ea28	Explosive Diarrhea WIP3.bin	videopac-yoriyoshizuki
+4cb3d7e6539c41dc195870892516914c	Explosive Diarrhea WIP4.bin	videopac-yoriyoshizuki
+a49de6377a0509fee6daeb44c6109b4f	Explosive Diarrhea WIP6.bin	videopac-yoriyoshizuki
+90167dd65dd967d4e2a97a78bee67481	Explosive Diarrhea WIP7.bin	videopac-yoriyoshizuki
+b3bb89cbca92794acac1497a75ef3b00	Fatso! (v02).bin	videopac-yoriyoshizuki
+80a8c407ff63d05396a0e92de1a0ce8b	Fatso! (v03).bin	videopac-yoriyoshizuki
+58623b5eaf9d5cf7a92de4ca838a599b	Fatso! (v12).bin	videopac-yoriyoshizuki
+d7e49375de779ef2eaae30a2d8fc656f	Fatso! (v14).bin	videopac-yoriyoshizuki
+bc17f7db65e68a5eed06ac68203cc3b5	Fatso! (v17).bin	videopac-yoriyoshizuki
+3543a584b30c5074ebab5f4f8a45b04b	Fatso! (v18).bin	videopac-yoriyoshizuki
+f06fd702adc65ef0a81da80b5602f243	Fatso! (v19).bin	videopac-yoriyoshizuki
+ec56f52b7947f130d30b26d71c7ade4f	Fatso! (v20).bin	videopac-yoriyoshizuki
+9d47fc80fa28fcbaa8589752e23ebef1	Fatso! (v21).bin	videopac-yoriyoshizuki
+55ae4712d3eb3d0b4c2296a07982278d	Fatso! (v22).bin	videopac-yoriyoshizuki
+80941a519e301ee28e499f62d10132fb	Fatso! (v23).bin	videopac-yoriyoshizuki
+ab7cea3349b3b821b9106fb52b22c0d1	Fatso! (v24).bin	videopac-yoriyoshizuki
+5275acb183f0968fab3f986524cdae46	Fatso! February 0112.bin	videopac-yoriyoshizuki
+38a7ffc446814baad97dc6d1a7767ab5	Fatso! January 262012.bin	videopac-yoriyoshizuki
+5d05725b1bd2329cd2f5e1147b748c67	Fatso! January 292012.bin	videopac-yoriyoshizuki
+ef27219600fdc67d08885ddf55604d15	Fatso! January 312012.bin	videopac-yoriyoshizuki
+13c2584c9e10b314366ccb79e3a2c3af	Fatso! March 052012.bin	videopac-yoriyoshizuki
+ce96b18aa36af1b5901ffad7f2f5e8aa	Fatso! March 062012.bin	videopac-yoriyoshizuki
+be7fd6b5e7f7ce58ec79987a2e59549b	Fatso! March 082012.bin	videopac-yoriyoshizuki
+5f3d5ad21b587fee51e5b2c72109dbc5	Fatso! Two 1.bin	videopac-yoriyoshizuki
+ca5a552211580a8ae464e6ab5e72b5a5	Fatso! v02.bin	videopac-yoriyoshizuki
+66394cf3a2535520ec51a51a9979eb56	Fatso! v03.bin	videopac-yoriyoshizuki
+1d60fa349246ae955de5faacc339f376	Fatso! v04.bin	videopac-yoriyoshizuki
+eff5b81533ab1222c6f56684e94764b6	Fatso! v15.bin	videopac-yoriyoshizuki
+5643c3a4c8e7f148e48af607d07686ba	Fatso! v18.bin	videopac-yoriyoshizuki
+a9e4fe9e58a0544ce96b672560150ce3	Fatso! v19.bin	videopac-yoriyoshizuki
+586a9d8d129a964293c10bfd13b37539	Fatso! v20.bin	videopac-yoriyoshizuki
+5b2d83dea232e1072a3ba3370542adf8	Fatso! v21.bin	videopac-yoriyoshizuki
+de442fe7d4e514bb441907b42dd1bd71	Fatso!.bin	videopac-yoriyoshizuki
+51dfce6178b5d999da8f29f7f91ed448	fatsotwo3.bin	videopac-yoriyoshizuki
+3ce90f41dddd4ba085fce649b26f6aef	FF.bin	videopac-yoriyoshizuki
+332e5b6cba826796c29dc4ef68998b42	first.bin	videopac-yoriyoshizuki
+7b8d704ae855b66d17a94c186963b8a0	Flash Point+ (Videopac 63+).bin	videopac-yoriyoshizuki
+3c130bc40e55c754223d80544c9437eb	flashcart_firmware_1.0.rom	videopac-yoriyoshizuki
+b67deddff87c354b0164145b98970449	flashcart_fw_1.0.rom	videopac-yoriyoshizuki
+639609cfc3db3faa759863292e4998a4	Flipper (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+3ac7dc269ba36fbeceee2d6060dae1c8	Flying Saucers.bin	videopac-yoriyoshizuki
+5a64c4ea84e12a04a7f0070ed13a9507	Football (1980)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+5a64c4ea84e12a04a7f0070ed13a9507	Football (USA, Europe).bin	videopac-yoriyoshizuki
+5f149c42701f574203078983f1a47bbe	Football Electronique + Hockey Electronique (1981)(Philips)(FR).bin	videopac-yoriyoshizuki
+4e18cafe108780c49444e7e2d6198a2f	fraction.bin	videopac-yoriyoshizuki
+d85945b5e8c37e4298bd962d87728580	Freedom Fighters (1982)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+a14d88d80f5caa4781245ef2cde27279	Freedom Fighters (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+d85945b5e8c37e4298bd962d87728580	Freedom Fighters (USA, Europe).bin	videopac-yoriyoshizuki
+893cec7b572160e81eab8a6dad37f7d3	Frogger (1983)(Parker Brothers)(BR).bin	videopac-yoriyoshizuki
+88fb5e81bf58bc1195b31906ccebeff8	Frogger (1983)(Parker Brothers)(EU).bin	videopac-yoriyoshizuki
+88fb5e81bf58bc1195b31906ccebeff8	Frogger (Europe).bin	videopac-yoriyoshizuki
+30f8a7da2183678ef90ac12275fa7480	F_SIM.bin	videopac-yoriyoshizuki
+d6cd6ead2d56e174049754da8bacc44d	G7000 RAM cart v1.5 (Soeren Gust)(2002).bin	videopac-yoriyoshizuki
+8ea6141d6b449f6a4150693ed22aadd7	g7400 vpplus.bin	videopac-yoriyoshizuki
+c3006026df4fa1bc5894a0598b3c9b8e	george1.bin	videopac-yoriyoshizuki
+fee590c3b5810c0d616f61966229a4b9	george3.bin	videopac-yoriyoshizuki
+b253315b3d02a72b4b0002e52d4957cd	george4.bin	videopac-yoriyoshizuki
+a0ec317d88f5ee4a4262f19b832ee084	GG_MAZE.bin	videopac-yoriyoshizuki
+db9fe1bdb03b61c2fe3a3e6d1d1137f3	GG_SHOP.bin	videopac-yoriyoshizuki
+0ffc4b21ff79ccc1b89f1b81812daadc	giu50.bin	videopac-yoriyoshizuki
+721ad930f6a112cc1e9d2930a2373141	giulevel1oct162013.bin	videopac-yoriyoshizuki
+79553ca510444b2c24e87075e4973cf2	giulevel1oct172013.bin	videopac-yoriyoshizuki
+c216b05dbae1631183f882ef9f517d47	giuseppe_april1(v2)-2014.bin	videopac-yoriyoshizuki
+7ee256131d909bd743ccd56b73328237	giuseppe_april1-2014.bin	videopac-yoriyoshizuki
+c847a4a76294e53546f51fd292506ff5	giuseppe_april2-2014.bin	videopac-yoriyoshizuki
+70bab285ccb782e43491740575ec8fa3	giuseppe_april3-2014.bin	videopac-yoriyoshizuki
+b6e7cad72a7b9f5b6ed104973c1ef8bb	giuseppe_april4-2014.bin	videopac-yoriyoshizuki
+355a15f1f34c00d4b9b8bf21055db789	Go Sub (Odyssey^2 Wip) (Agosub 10) (2012.05.14 07.08).bin	videopac-yoriyoshizuki
+ae6f25135c28a3b26f9f8aebf29f9f2e	Go Sub (Odyssey^2 Wip) (Agosub 17) (2012.05.25 01.35).bin	videopac-yoriyoshizuki
+ce0bcdd44afa3071172e99f39e7cd9cf	Go Sub (Odyssey^2 Wip) (Agosub 23) (2012.05.29 10.18).bin	videopac-yoriyoshizuki
+dd77c7f12396df85db8efdcb83544597	Go Sub (Odyssey^2 Wip) (Agosub 32) (2012.06.11 17.41).bin	videopac-yoriyoshizuki
+f82554ceb5fe393b17baa376800691e2	Go Sub (Odyssey^2 Wip) (Agosub 38) (2012.06.17 22.37).bin	videopac-yoriyoshizuki
+ee4f086ead2eac9ffbcd87273d72483e	Go Sub (Odyssey^2 Wip) (Agosub 41) (2012.06.23 06.42).bin	videopac-yoriyoshizuki
+50cc99e98d7eda7fffa9c6dd34c395d7	Go Sub (Odyssey^2 Wip) (Agosub 5) (2012.05.08 15.02).bin	videopac-yoriyoshizuki
+fd94993d4096d4a8ee8b241072e884e7	Go Sub (Odyssey^2 Wip) (Agosub 6) (2012.05.09 10.11).bin	videopac-yoriyoshizuki
+c238b86faeb35bbe121e01cc6189bf41	Go Sub (Odyssey^2 Wip) (Agosub 7) (2012.05.11 07.47).bin	videopac-yoriyoshizuki
+c464ecd8401a357dc6306d6b2e8223c7	Go Sub (Odyssey^2 Wip) (Agosub 8) (2012.05.13 02.37).bin	videopac-yoriyoshizuki
+e229517b26c3ea9c67cd67b3a1070c85	Go Sub (Odyssey^2 Wip) (Agosub) (2012.05.04 14.36).bin	videopac-yoriyoshizuki
+3272892fffb3cdf1043c10efd6e72d0c	Go Sub (Odyssey^2 Wip) (Agosub) (2012.05.07 17.16).bin	videopac-yoriyoshizuki
+bf0d1809d03ee12d299676450ca93303	godzilla.bin	videopac-yoriyoshizuki
+02952857c75e0cc9b7c1f40804c70dfd	godzilla3.bin	videopac-yoriyoshizuki
+a251791690a6f2efdd26f924dcf45928	Golf (1980)(Philips)(EU).bin	videopac-yoriyoshizuki
+ca044838406402bd3b05a6501342a69d	golf4k.bin	videopac-yoriyoshizuki
+460e8b2a83950177cf1d0d1b6884a4a1	GoSub (v01).bin	videopac-yoriyoshizuki
+340007f780fda60522bf534a83915892	GoSub (v11).bin	videopac-yoriyoshizuki
+89aad08848db0515c06bbb80799acafc	GoSub (v13).bin	videopac-yoriyoshizuki
+071f7c17573330f096bfd182f60cc0e5	GoSub (v16).bin	videopac-yoriyoshizuki
+cd1c3958a785742d3dc2d1f4df89eed4	GoSub (v18).bin	videopac-yoriyoshizuki
+b3ec8e5395078d95dd33131fa8f365c9	GoSub (v21).bin	videopac-yoriyoshizuki
+3a934ddd1d7a9c030101348d48a77bed	GoSub (v26) (alt 1).bin	videopac-yoriyoshizuki
+238c5c5bed953ee5958aed8cd53480b5	GoSub (v26) (alt 2).bin	videopac-yoriyoshizuki
+62632824fbab3eaaf72594ec93f0587a	GoSub (v26).bin	videopac-yoriyoshizuki
+4218b790c9855e2c812826be5b48d071	GoSub (v28).bin	videopac-yoriyoshizuki
+396cabe5d53fc55919923bc0700cd15e	GoSub (v29).bin	videopac-yoriyoshizuki
+15f017750e2e28fe8e1c7ef2d324f2e4	GoSub (v30).bin	videopac-yoriyoshizuki
+e5b62027d57212847d2fce0f48340f4a	GoSub (v34).bin	videopac-yoriyoshizuki
+cc28fdc1b523ad319626e8589e588ca4	GoSub (v35).bin	videopac-yoriyoshizuki
+513f37d7ef830ae9591d89877f37ad77	GoSub (v36).bin	videopac-yoriyoshizuki
+7b8cbb31027f6fc1d0ff1851cd38f15e	GoSub (v37).bin	videopac-yoriyoshizuki
+8f42f2cb9c29406c03e97682a330ae8c	GoSub (v39).bin	videopac-yoriyoshizuki
+6ac800f6f4beb2493e529d30553f5801	GoSub (v40).bin	videopac-yoriyoshizuki
+84a90c40c4e8f9e8aad9ae1cebd3b333	gosubtwo18.bin	videopac-yoriyoshizuki
+d8edfc08d7c6e34ff1a5a54e29548741	gosubtwo20.bin	videopac-yoriyoshizuki
+d0239e94a38cc456de9125c18618022c	gosubtwo21.bin	videopac-yoriyoshizuki
+38aa420d3e5a4bdf02532892add60db7	gosubtwo24.bin	videopac-yoriyoshizuki
+c0be9718970c4bec9ef81fa14e241f38	gosubtwo26.bin	videopac-yoriyoshizuki
+9bee3243333a1b9f021c257657273fdd	gosubtwo27.bin	videopac-yoriyoshizuki
+b36efce22e5198d728cc4a3f926b006c	gosubtwo28.bin	videopac-yoriyoshizuki
+7ce194cd50153a00b886c6c483885856	gosubtwo30.bin	videopac-yoriyoshizuki
+067e88aaeb1cf3371d665ec8b5872080	gosubtwo31.bin	videopac-yoriyoshizuki
+d52cbd9754396087ea3e75645b449bcb	gosub_two01.bin	videopac-yoriyoshizuki
+25e030e1940ec40dbd32c9638ab34457	gosub_two02.bin	videopac-yoriyoshizuki
+7dd17862571c177f57abbc4085926589	gosub_two03.bin	videopac-yoriyoshizuki
+eaa377694b38660cae7aef5293ebf84b	gosub_two06.bin	videopac-yoriyoshizuki
+49fe06c45526f9ce37fcd633bcfd5849	gosub_two07.bin	videopac-yoriyoshizuki
+7a0d4638da5b2cafe868d72779e00f63	gosub_two09.bin	videopac-yoriyoshizuki
+32e43c0a858e37a38a4b2551c2b8eb2d	gosub_two10.bin	videopac-yoriyoshizuki
+00a765412bf07634a64b660aba5ec908	gosub_two12.bin	videopac-yoriyoshizuki
+d844853f3ab3527b4004916ea1e5d37c	gosub_two13.bin	videopac-yoriyoshizuki
+aeeab8a60b1989eaa16c10fe9a1b27a1	gosub_two15.bin	videopac-yoriyoshizuki
+777816cc78c239dba4ce5c94ed59fa70	gosub_two16.bin	videopac-yoriyoshizuki
+212e3e765a223aa97f970748896ff9e7	gosub_two17.bin	videopac-yoriyoshizuki
+4409fcceca1a0d86fd5485e0d6655671	gosub_two19.bin	videopac-yoriyoshizuki
+ad95990363929df11b678f710c0c7219	gosub_two25.bin	videopac-yoriyoshizuki
+89c8ccc2f2628caf5bcd1be5c147a2bb	gosub_two29.bin	videopac-yoriyoshizuki
+262eb2a2a228c9d5877af6acc13b6cec	gosub_two37.bin	videopac-yoriyoshizuki
+e3a89962603ed28584d3270d700b3a31	Great Wall Street Fortune Hunt, The (1983)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+e3a89962603ed28584d3270d700b3a31	Great Wall Street Fortune Hunt, The (USA, Europe).bin	videopac-yoriyoshizuki
+0072c4e0efe461d9fd889991dfd4ab3c	gridedit.bin	videopac-yoriyoshizuki
+944517abf1bc9059a82defa5b1ce8958	Guerre de l'Espace (198x)(Philips)(FR).bin	videopac-yoriyoshizuki
+dc3257ca69427b534a926373328cf58c	Guerre Laser (1980)(Philips)(FR).bin	videopac-yoriyoshizuki
+08c002ad3cc5b4d9163ad3ea4a7508c7	Gunfighter (1980)(Philips)(EU).bin	videopac-yoriyoshizuki
+202cb4c48e9b1679936feddc9eb1a2a8	hackgammon.bin	videopac-yoriyoshizuki
+dbb8469a2d95ad3d62f45b8b30cff29a	hacks-02_Atari.bin	videopac-yoriyoshizuki
+552415cecc56e4ce6fd878c0c4df6407	hacks-02_Attackff.bin	videopac-yoriyoshizuki
+85fe381742ea7ef78fab8cf510c9cfe1	hacks-02_Hack.bin	videopac-yoriyoshizuki
+a123d31ba12900dd8d927a41ef6a4d17	hacks-02_jawbreaker.bin	videopac-yoriyoshizuki
+61c078ad9f3c01aef39243042b92d96f	hacks-02_superco.bin	videopac-yoriyoshizuki
+e629602a94b6d4fedcedf67a12e55ca0	HAPPYB(v1).bin	videopac-yoriyoshizuki
+fc4e0e92f2ef3a4a85af12ad6ac3c09c	HAPPYB(v2).bin	videopac-yoriyoshizuki
+0e2d2cbd65b175de56530826305f9431	HAPPYB(v3).bin	videopac-yoriyoshizuki
+3258160317f3aa62ddca26b3fa7eaf73	HAPPYB(v4).bin	videopac-yoriyoshizuki
+99854a15942ce33ae478df8097504cd2	HAPPYB(v5).bin	videopac-yoriyoshizuki
+e75994e2d7113d0f84bce72ea18f5df7	HAPPYB(v6).bin	videopac-yoriyoshizuki
+449661989f35b981901fef21330e005c	happy_bird_emu_high_score_competition.bin	videopac-yoriyoshizuki
+61957f30e3cc091d02919553b3c960fc	Haunted house wip.bin	videopac-yoriyoshizuki
+2ae8d459e13dabaa35ab67c53f911608	haunted12a.bin	videopac-yoriyoshizuki
+7b03e1330286e8e835970c6fc5af2d4d	haunted7.bin	videopac-yoriyoshizuki
+07d2301f163ddb19a045981464303380	hauntedhouse SOBEmusicTest.bin	videopac-yoriyoshizuki
+3621d32aa80277a357e8ee61370bc28d	hauntedhouse10.bin	videopac-yoriyoshizuki
+73b9e0374cc845820f20189750104064	hauntedhouse11.bin	videopac-yoriyoshizuki
+04aa096b8e1c0b69215442c83c40dffa	hauntedhouse12.bin	videopac-yoriyoshizuki
+506a5bda4b2b49efd0598ec9fad94e34	hauntedhouse2.bin	videopac-yoriyoshizuki
+f77065734542f94c16e5f5a87999424e	hauntedhouse8a.bin	videopac-yoriyoshizuki
+3895895191414a202edeeb6eeb43af6c	hauntedhouse9.bin	videopac-yoriyoshizuki
+3510070bebfc7df033dd5478771ee4b3	hauntedhousewip1.bin	videopac-yoriyoshizuki
+21c8a24b179262ec15d4db955034f1cd	hauntedhousewip3.bin	videopac-yoriyoshizuki
+1036771b8d19dbbaccfda6fbdde41f58	hauntedhousewip4.bin	videopac-yoriyoshizuki
+840343cfbc4fbd401a8820eb38f62099	hauntedhousewip5.bin	videopac-yoriyoshizuki
+353d1e24e6b5d80276b4a0ef4ffe07fc	hauntedhousewip6.bin	videopac-yoriyoshizuki
+9de562b657a73cd7e83dbe42696921d5	hauntedhousewip8.bin	videopac-yoriyoshizuki
+262ba4b6da06d54cf0b3497266fd2c94	He-man 2.bin	videopac-yoriyoshizuki
+1a193c83ddf1876a6cf1eb9087144ad0	He-man.bin	videopac-yoriyoshizuki
+a16972f7d3dfd0a6a9b97f4424a6b83d	helibuzz.bin	videopac-yoriyoshizuki
+b180c452a85a9e8528c2c08d4ad64bc0	Helicopter Rescue (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+67c1ef916b757c187a64feb570b347e0	heliplus-x.bin	videopac-yoriyoshizuki
+b9c8d80d67a8e854a9473619f9543871	heliplus.bin	videopac-yoriyoshizuki
+5705f931af1cd8f3ac1df4f180cc81c3	hello.bin	videopac-yoriyoshizuki
+b2b8da0dfd84f92487d1286ecaa3f48d	Hero.bin	videopac-yoriyoshizuki
+eaa76c0ec716e261b4b850eb13841af8	Herob.bin	videopac-yoriyoshizuki
+283a1629b12aaeedd416afa0be4d454c	HL3.bin	videopac-yoriyoshizuki
+bb393fbe922cd34d81eccdaee40cbc4d	Hockey + Soccer (1981)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+bb393fbe922cd34d81eccdaee40cbc4d	Hockey + Soccer (USA, Europe).bin	videopac-yoriyoshizuki
+7be9148e44be7373a83783927fdda095	Honey 2.bin	videopac-yoriyoshizuki
+d6f9b04ed83813b023a05c0b95b9528b	Hot Love tvf1.bin	videopac-yoriyoshizuki
+2d782f6eff50c11dd92149b8197b4e57	Hot Love tvf2.bin	videopac-yoriyoshizuki
+25c23e21f23f7b1696a665059dfe547c	Hot Love tvf3.bin	videopac-yoriyoshizuki
+1876492925092b0eb7f2a7135f568ebd	Hot Love tvf4.bin	videopac-yoriyoshizuki
+a3c4d975fcabbee4fdb253eb414242ee	I've Got Your Number (1980)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+a3c4d975fcabbee4fdb253eb414242ee	I've Got Your Number (USA, Europe).bin	videopac-yoriyoshizuki
+9064153d214504ccc9060034901959d6	i10.bin	videopac-yoriyoshizuki
+06dcc63ecf807b468da595fa0a1c65f2	i11.bin	videopac-yoriyoshizuki
+1414cb90a28c7c89b033cb8fe0b8c32c	i12a.bin	videopac-yoriyoshizuki
+9692a99c3b056bf5dc5186bc93989f41	i12b.bin	videopac-yoriyoshizuki
+9692a99c3b056bf5dc5186bc93989f41	i12b_1.bin	videopac-yoriyoshizuki
+4d445a76e5f9dfc024e3f97dd8c0dbba	i13.bin	videopac-yoriyoshizuki
+4eaafcee0a51fe4c308420a955968be7	i14a.bin	videopac-yoriyoshizuki
+eab5c64df5599c1eb3cff8206473e17d	i16.bin	videopac-yoriyoshizuki
+81047946248c1d0ce9bc0df8663ed163	i16a.bin	videopac-yoriyoshizuki
+892dfe8e987a330ece96846135480451	i17.bin	videopac-yoriyoshizuki
+1ade776b3325e670e845dd6ac28512c6	i18.bin	videopac-yoriyoshizuki
+2ff99195ca7ae0f6aaf96c97ffa680c6	i19.bin	videopac-yoriyoshizuki
+fae96c0c94bf746c5dbd8fd88a73b5d1	i2.bin	videopac-yoriyoshizuki
+2f893cf94caab1facb7da479b5ff7d35	i20fourktest.bin	videopac-yoriyoshizuki
+2f893cf94caab1facb7da479b5ff7d35	i20fourktest_1.bin	videopac-yoriyoshizuki
+ad209cedecdf79f3fcea2b4829af788b	i21.bin	videopac-yoriyoshizuki
+ad209cedecdf79f3fcea2b4829af788b	i21_1.bin	videopac-yoriyoshizuki
+be661801fc70b992a001d35efe197fee	i22.bin	videopac-yoriyoshizuki
+be661801fc70b992a001d35efe197fee	i22_1.bin	videopac-yoriyoshizuki
+85d0881904ad764e99cf68a1fbd117ac	i23.bin	videopac-yoriyoshizuki
+dfdd2f5ac94cc2b10dbdb2f4c32c851d	i23a.bin	videopac-yoriyoshizuki
+220f94d48cae990835097ee2bd46f9da	i24.bin	videopac-yoriyoshizuki
+8b70ffb15be1602f90fa0ed533620aa0	i25.bin	videopac-yoriyoshizuki
+30d359173399db1b10dad208f04733ab	i26.bin	videopac-yoriyoshizuki
+ff416700d7b0e72661ada927066b537c	i26a.bin	videopac-yoriyoshizuki
+ff416700d7b0e72661ada927066b537c	i26a_1.bin	videopac-yoriyoshizuki
+6cea687a3410310f4ea7904c1fff812f	i27.bin	videopac-yoriyoshizuki
+426c97b540e4bd5a2c4e239fe11b1a44	i28.bin	videopac-yoriyoshizuki
+4ce61d0e6c4859c951caef4188024bf4	i29.bin	videopac-yoriyoshizuki
+7fa79ba20eb155976777a4d084846bf1	i3.bin	videopac-yoriyoshizuki
+5c5323b1c5d6a0e7737b0b5dcdb6625d	i30.bin	videopac-yoriyoshizuki
+13bb9689bbcd6906fb6bf78e8f7460ff	i31.bin	videopac-yoriyoshizuki
+27ac9798850f16ce3fdfb07237629346	i33.bin	videopac-yoriyoshizuki
+27ac9798850f16ce3fdfb07237629346	i33_1.bin	videopac-yoriyoshizuki
+171e57faa80a42f019a63d65e3bbffe1	i34.bin	videopac-yoriyoshizuki
+388ef80a76e622d296aac3627ebee063	i35a.bin	videopac-yoriyoshizuki
+ebe38a6c403bd42a262534a9764b9d4b	i36.bin	videopac-yoriyoshizuki
+a2c387a02b704c4e0faa8de56b40d1bc	i37.bin	videopac-yoriyoshizuki
+8a4ce87cb44b98cf44282c06815ed08a	i38.bin	videopac-yoriyoshizuki
+d81aac7d46ee5937c18e9a3c42ac1be0	i39.bin	videopac-yoriyoshizuki
+79154ea05a53c07f7f66dbe1088ce7a9	i5.bin	videopac-yoriyoshizuki
+02bb34dc119935ef8bce40fa5aa02092	i6.bin	videopac-yoriyoshizuki
+b307d869634665fd1fb8508c105e97f9	i7.bin	videopac-yoriyoshizuki
+e58b6cef983b022457043bfc8b81830f	i9.bin	videopac-yoriyoshizuki
+7ff9de47e131b22c58da2c70c35bd40c	incO2v09.bin	videopac-yoriyoshizuki
+872bfb4d030caca20033548dcf3ad975	IncomingO2Rc2.bin	videopac-yoriyoshizuki
+171642a075a16d6a2f5181728d5eb6a4	incomingO2RC3.bin	videopac-yoriyoshizuki
+6ecd3e6d5e12e1667a6231cf25d2fc77	Inc_O2_v10.bin	videopac-yoriyoshizuki
+0ca8f2b7437e0813f4f7aee24f542076	insect1.bin	videopac-yoriyoshizuki
+e8d4bde657fdd663b19459a2a5c50f22	insect10.bin	videopac-yoriyoshizuki
+86d980f784421339c88bcd4a8af45eb6	insect11.bin	videopac-yoriyoshizuki
+7954532b21d5bfdf8b804789646d7213	insect12.bin	videopac-yoriyoshizuki
+c18be74c3e9a605e76534d804a34a943	insect2.bin	videopac-yoriyoshizuki
+7bfff8f47449b88c2275543dd86ed043	insect3.bin	videopac-yoriyoshizuki
+1421a4d118b75ce6fa72b1df274b00ab	insect4.bin	videopac-yoriyoshizuki
+1815f9c079bd8ff904ecee3677def501	insect5.bin	videopac-yoriyoshizuki
+870444c5ace4f798857afd85c420e2fd	insect6ba.bin	videopac-yoriyoshizuki
+34a44554319a0f202f3151961602a218	insect7.bin	videopac-yoriyoshizuki
+6ad11964dcfffcc65ed04f3120872d12	insect8.bin	videopac-yoriyoshizuki
+a78b8a4304fa5c5421f8b3333aef081a	insect9.bin	videopac-yoriyoshizuki
+d7d34ed0c66e7021bdf35bd36b3728e5	insecticide1.bin	videopac-yoriyoshizuki
+a2a3f3192b2dd5da5d018159a31243dc	insecticide32.bin	videopac-yoriyoshizuki
+a2e429fe0d838443fd599fc04c5d92d6	insecticide35.bin	videopac-yoriyoshizuki
+30b569d9aad9f85f782ab2f427c3b94c	Interpol (19xx)(Philips)(EU).bin	videopac-yoriyoshizuki
+30b569d9aad9f85f782ab2f427c3b94c	Interpol (Europe) (Proto).bin	videopac-yoriyoshizuki
+5f21dd12f47ac805ec69dc5cd3b977f1	Invaders from Hyperspace (1980)(Philips)(US).bin	videopac-yoriyoshizuki
+5f21dd12f47ac805ec69dc5cd3b977f1	Invaders from Hyperspace (USA).bin	videopac-yoriyoshizuki
+a8416ac5493fac70848225dbbca1fd35	Jeu de Quilles + Basketball (1980)(Philips)(FR).bin	videopac-yoriyoshizuki
+e92e9be76ecea8265ded122fb68d00a9	Jeu de Quilles + Basketball (198x)(Philips)(FR).bin	videopac-yoriyoshizuki
+4f90a26cfbe2c73a21d9b670fe7c4e1a	jgmunch.bin	videopac-yoriyoshizuki
+4c9adfb0f1132e5bae121f9ef34ab981	jopeye.bin	videopac-yoriyoshizuki
+bdfaddb8c848851815e473ed52a0ffae	Joust.bin	videopac-yoriyoshizuki
+e36fe0511f92b1ce3fb4c0f438356520	Jumping Acrobats (1981)(Philips)(EU).bin	videopac-yoriyoshizuki
+8d7691607aa2dfd994ac098a0dfed416	Jumping Acrobats (1981)(Philips)(EU)[a].bin	videopac-yoriyoshizuki
+11f0e8f4b4f38565d20eba6e048ceb24	Jungle Girl (Beta 7) (NTSC).bin	videopac-yoriyoshizuki
+e1018cdf7ad5efc9c3e83b450139c992	Jungle Girl (Beta 7) (PAL).bin	videopac-yoriyoshizuki
+d1de3fa3537c5c97599e4b43bb19e33c	Jungle Girl (Beta 8) (NTSC).bin	videopac-yoriyoshizuki
+c2fcfacf14dd5af9a84fa761f530487e	Jungle Girl (Beta 8) (PAL-Fast).bin	videopac-yoriyoshizuki
+ac8bc8aed48c2e504eb4e72fa33dc203	Jungle Girl (Beta 8) (PAL-Slow).bin	videopac-yoriyoshizuki
+d0e9cbd5abe7226bd7d87399434b1901	Jungle_Girl-Beta2(NTSC).bin	videopac-yoriyoshizuki
+ced110480183da9c5e06286e4f0353d2	Jungle_Girl-Beta5(NTSC).bin	videopac-yoriyoshizuki
+9ee53ce20e24c18b57bec1e8399664a6	Jungle_Girl-Beta9(NTSC).bin	videopac-yoriyoshizuki
+2e528bd850f9a658b0af6bfe1891a4fa	K.C. Munchkin (1982)(Philips)(US).bin	videopac-yoriyoshizuki
+66b54641b5786ea3ff0215aa39d61e01	K.C. Munchkin (1982)(Philips)(US)[b].bin	videopac-yoriyoshizuki
+2e528bd850f9a658b0af6bfe1891a4fa	K.C. Munchkin (USA).bin	videopac-yoriyoshizuki
+511f68d3546cdb6b4ea501a7dde64e16	K.C. Munchkin hack.bin	videopac-yoriyoshizuki
+27eaddeda2f30ad4a5310c6e9bdd9dc2	K.C.'s Krazy Chase (1982)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+27eaddeda2f30ad4a5310c6e9bdd9dc2	K.C.'s Krazy Chase (USA, Europe).bin	videopac-yoriyoshizuki
+ff8c47ca50c9ae0ccf058ddf0fe19edd	kaboom1.bin	videopac-yoriyoshizuki
+8a6e6dfab94b856e5f899b4776cc6445	kaboom3.bin	videopac-yoriyoshizuki
+84ae1a8159716266f7aae16ad7dfd062	Keyboard Creations (1980)(Philips)(US).bin	videopac-yoriyoshizuki
+84ae1a8159716266f7aae16ad7dfd062	Keyboard Creations (USA).bin	videopac-yoriyoshizuki
+24c594badd8543236b384d4060919cc6	keytest7400.bin	videopac-yoriyoshizuki
+5e7a037e1aa1f59ad2be80452f81cc38	Killer Bees (1983)(Philips)(US).bin	videopac-yoriyoshizuki
+d9722861bc5d7f611c21abf26cf8fd5b	Killer Bees (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+5e7a037e1aa1f59ad2be80452f81cc38	Killer Bees (USA).bin	videopac-yoriyoshizuki
+e074c77e2a2a8be6d7bcab50e11d6948	Kinder im Verkehr 1 (1982)(CSV - Philips)(DE).bin	videopac-yoriyoshizuki
+679d754ab23372b0c01838e95bce62d9	KTAA+ (Kill The Attacking Aliens+ by Soren Gust).bin	videopac-yoriyoshizuki
+46ac9964fb9f737cfd65534764c4af88	ktaa1.bin	videopac-yoriyoshizuki
+86f068dcb9e83f422d43e7f2e86ed0aa	ktaa2.bin	videopac-yoriyoshizuki
+3355a975cc4bffdfa2f933dfdc2e5dc0	ktaa3.bin	videopac-yoriyoshizuki
+c7b9af8abf22c9dd76ec8c4427076552	ktaa4.bin	videopac-yoriyoshizuki
+a729d69c64430524c7a043eb4a955ff7	ktaa5.bin	videopac-yoriyoshizuki
+3937559f213de385f871fa7ad49ec9b5	ktaa6.bin	videopac-yoriyoshizuki
+ae4cc174aa4862fafa66f1b712ef0484	ktaa7.bin	videopac-yoriyoshizuki
+331b299e3b041884bd59c3bad2d3f507	La Quete des Anneaux (1981)(Philips)(FR).bin	videopac-yoriyoshizuki
+91b1f44df0281147132535d9ea1d5590	Labyrinth Game, A + Supermind (1981)(Philips)(EU).bin	videopac-yoriyoshizuki
+91b1f44df0281147132535d9ea1d5590	Labyrinth Game, A + Supermind (Europe).bin	videopac-yoriyoshizuki
+0a2c57f1ca92b1be3387dd4266e1025a	LADYFROG.bin	videopac-yoriyoshizuki
+8e5b178b4ed546530fb0e40739a41ef4	Las Vegas (1980)(Philips)(FR).bin	videopac-yoriyoshizuki
+972d38914e5aa8e80460b7d32c7c94b5	Las Vegas Blackjack (1980)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+972d38914e5aa8e80460b7d32c7c94b5	Las Vegas Blackjack (USA, Europe).bin	videopac-yoriyoshizuki
+d7723b9a0d15ae574cd0af0136dda5ad	Laser War (1980)(Philips)(EU).bin	videopac-yoriyoshizuki
+f7a034b2fca71a6d1a4ebba0b7af5870	Loony Balloon (1983)(Philips)(EU)(proto).bin	videopac-yoriyoshizuki
+a8d4f8fb88816578582f966977e32360	Loony Balloon (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+f7a034b2fca71a6d1a4ebba0b7af5870	Loony Balloon (Europe) (Proto).bin	videopac-yoriyoshizuki
+6fb2f39cd702b9e05fc0f81305d3bbc0	Martian Threat (19xx)(Philips)(EU).bin	videopac-yoriyoshizuki
+103681ba9ef22b1392865dcc355f0199	Martian Threat (19xx)(Philips)(EU)[a].bin	videopac-yoriyoshizuki
+6fb2f39cd702b9e05fc0f81305d3bbc0	Martian Threat (Europe) (Proto).bin	videopac-yoriyoshizuki
+8cf42662c23ffd885b31786f14eeea7f	Martian Threat (Europe) (Proto)_1.bin	videopac-yoriyoshizuki
+3fe76373683b7964d8ce0c9a85337124	Martian Threat_hack_pl.bin	videopac-yoriyoshizuki
+73a584ca53fad9289ca01a58eccc52b5	Matchmaker + Logix + Buzzword (1980)(Philips)(US).bin	videopac-yoriyoshizuki
+73a584ca53fad9289ca01a58eccc52b5	Matchmaker + Logix + Buzzword (USA).bin	videopac-yoriyoshizuki
+9aa512409f1e3d10bfe2c2f2924c7a31	Math-A-Magic + Echo (1980)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+9aa512409f1e3d10bfe2c2f2924c7a31	Math-A-Magic + Echo (USA, Europe).bin	videopac-yoriyoshizuki
+fe079714c9529588ff999910bdabc89e	Mathematicien + Echo (1980)(Philips)(FR).bin	videopac-yoriyoshizuki
+58e1ba52018bd609f6d3f4aa45561d34	MEAN SANTA demo.bin	videopac-yoriyoshizuki
+0708972e7137e9f89f0079c3ff873adb	mean_santa_demo.bin	videopac-yoriyoshizuki
+08e78f76086d83c088746340022d2cc3	mipl.bin	videopac-yoriyoshizuki
+dec3f2d19ca2e5d5f7d96c0baf23144f	Missao Impossivel (19xx)(Ectron)(BR).bin	videopac-yoriyoshizuki
+671c8e90f24d1218b6a7966d5cb4143f	missile command wip.bin	videopac-yoriyoshizuki
+dec3f2d19ca2e5d5f7d96c0baf23144f	Mission Impossible (Brazil) (Proto).bin	videopac-yoriyoshizuki
+348562580b72f2cb833861e7262ecc1a	mod_01pl.bin	videopac-yoriyoshizuki
+df14fcbc21efa857c85c12186fef597c	mod_05_g7400.bin	videopac-yoriyoshizuki
+dbdb2b42ae9585caba546a57f4e1f165	mod_06pl.bin	videopac-yoriyoshizuki
+1f03f070fdc7d46bec41b170185c3899	mod_11pl.bin	videopac-yoriyoshizuki
+90c355712a100d1d9b6fc3e0d6c309dd	mod_14fix.bin	videopac-yoriyoshizuki
+cf007eaeace1f70017b2b4644c7e1292	mod_19_g7400.bin	videopac-yoriyoshizuki
+ee6c83456cd648a3cf6e682e07e455c9	mod_20pl.bin	videopac-yoriyoshizuki
+2aeda2b1a8592f4e2adb2c59a8af9297	mod_24pl.bin	videopac-yoriyoshizuki
+af010b05a9627cab432b961051b71fa8	mod_28fix.bin	videopac-yoriyoshizuki
+69062492320fd59cd4b3992a454a5019	mod_30fix.bin	videopac-yoriyoshizuki
+b07a5ef6a482b5f21a88e43d04524192	mod_31_g7400.bin	videopac-yoriyoshizuki
+1f31dfbab399496fb692334b825b836c	mod_35pl_fix.bin	videopac-yoriyoshizuki
+d9545b9f54b50c73f4b2c59e9cba6bff	mod_36fix.bin	videopac-yoriyoshizuki
+5069cb8043680984a665549e734c15fa	mod_40_g7400.bin	videopac-yoriyoshizuki
+1b321269735acb04652dbfebf16bd20f	mod_43pl.bin	videopac-yoriyoshizuki
+089e16d3d77e7a022d471a03fbdee13b	mod_55pl.bin	videopac-yoriyoshizuki
+79a49a0bd0bd8c5b360deceb7f4b9844	mod_br21_fix.bin	videopac-yoriyoshizuki
+41292d944fe86365ffe0a7952b75dd13	mod_demon-attack_pl.bin	videopac-yoriyoshizuki
+68fcdfbc0acfd5b6a9e9f3397efeb1ba	mod_moto-crash_g7000.bin	videopac-yoriyoshizuki
+1b1d59efceadc277f8f470741566484b	mod_playtag_fix.bin	videopac-yoriyoshizuki
+5176122671dd15dd0a18854a965d2576	mod_tutankham_fix.bin	videopac-yoriyoshizuki
+8fc587166c75ac3680996ce331456b6d	mod_vp31_examples.bin	videopac-yoriyoshizuki
+8899ebe851c9454088f0428f364e36b0	mod_vp9_examples.bin	videopac-yoriyoshizuki
+e40899493a4fd9966e4121006bf04f30	Monitoring Battery Voltage.bin	videopac-yoriyoshizuki
+4388131dbce3b68a7d46f80bafc4a828	Monkeyshines (1982)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+4388131dbce3b68a7d46f80bafc4a828	Monkeyshines (USA, Europe).bin	videopac-yoriyoshizuki
+6a39f3ba48b93cec127725fa0a446b08	Montezuma.bin	videopac-yoriyoshizuki
+6f1d2236630200df92cd59a127b6bd4b	Moontown.bin	videopac-yoriyoshizuki
+6fd09253957ec9018f2c80b7663bc8e4	Morse (1983)(Philips)(EU).bin	videopac-yoriyoshizuki
+441f68a94b7b92fd5e7cccad07256e4c	Morse (1983)(Philips)(FR).bin	videopac-yoriyoshizuki
+6fd09253957ec9018f2c80b7663bc8e4	Morse (Europe).bin	videopac-yoriyoshizuki
+7aaf4f9becd46eb6ef0be4771783d948	Moto-Crash (198x)(Philips)(FR).bin	videopac-yoriyoshizuki
+84789cc7e07fa6ad1d8611e43d32f335	mouse1.bin	videopac-yoriyoshizuki
+65163cf6f1bb270eab03b1559ee92f61	mouse11.bin	videopac-yoriyoshizuki
+d0a0fd2c0842c1462a1c6e6a74d55f6b	mouse12.bin	videopac-yoriyoshizuki
+5cdb28d2063edda7a5f9288d17c32d5e	mouse13.bin	videopac-yoriyoshizuki
+a3aa66b3226d5c33d1bcb9f716c453e4	mouse14.bin	videopac-yoriyoshizuki
+6ad39d5c426181bd4bc12a91821e52cc	mouse15.bin	videopac-yoriyoshizuki
+4b0d1c89585297db684ef5b304ff742e	mouse16.bin	videopac-yoriyoshizuki
+ba52b8f5b0e50cecdcee40b7999f1778	mouse17.bin	videopac-yoriyoshizuki
+bcb43c59a1d30375929a372c68658a19	mouse18.bin	videopac-yoriyoshizuki
+bcb43c59a1d30375929a372c68658a19	mouse18_1.bin	videopac-yoriyoshizuki
+5989d015d57e2c720030176005f2373b	mouse19.bin	videopac-yoriyoshizuki
+84789cc7e07fa6ad1d8611e43d32f335	mouse1_1.bin	videopac-yoriyoshizuki
+b2ec5f258fef8ff6c8c00e351b82679c	mouse20.bin	videopac-yoriyoshizuki
+e2f29264ec8f105ff69417e45d86fbca	mouse21.bin	videopac-yoriyoshizuki
+30cc9170e481a967699bdbd68e0d2e73	mouse22.bin	videopac-yoriyoshizuki
+997d5fcbe0bff75778f54494b7417339	mouse23b.bin	videopac-yoriyoshizuki
+997d5fcbe0bff75778f54494b7417339	mouse23b_1.bin	videopac-yoriyoshizuki
+15cb8da1827dcb79f8e084346e72955d	mouse24a.bin	videopac-yoriyoshizuki
+15cb8da1827dcb79f8e084346e72955d	mouse24a_1.bin	videopac-yoriyoshizuki
+cfa134597744ede240f6b89328bf0aa1	mouse25.bin	videopac-yoriyoshizuki
+cef7d1319b45079ce5ede70a0857486e	mouse26.bin	videopac-yoriyoshizuki
+a6e073f72d7d83abbfed121d8a896054	mouse27a.bin	videopac-yoriyoshizuki
+a6e073f72d7d83abbfed121d8a896054	mouse27a_1.bin	videopac-yoriyoshizuki
+63a862fa4d2e7ba036bfed591d389271	mouse9a.bin	videopac-yoriyoshizuki
+ace64d75c07cd5c663ad422fdb25d1c8	Mousing Cat, The (1983)(Philips)(EU).bin	videopac-yoriyoshizuki
+ace64d75c07cd5c663ad422fdb25d1c8	Mousing Cat, The (Europe).bin	videopac-yoriyoshizuki
+08a0da4086a7e894bb96a8650c213d26	Mousing Cat.bin	videopac-yoriyoshizuki
+d7fdb60e980b9eef01b979481ca4fd8d	Movement (alt 1).bin	videopac-yoriyoshizuki
+49c974f5a6cc534533c85ff342048adc	Movement.bin	videopac-yoriyoshizuki
+77a8655b2640a34592d04e0e1a714a04	mrroboto.bin	videopac-yoriyoshizuki
+663baa0b829f717d42de4c1011bbfcd3	Munchkin (1982)(Philips)(EU).bin	videopac-yoriyoshizuki
+02cf18672c21e2d0e68d331507be9de1	Mur Magique, Le (1981)(Philips)(FR).bin	videopac-yoriyoshizuki
+f93d43b0e30539ba6fab14ce6a57aae3	Musician (1981)(Philips)(EU).bin	videopac-yoriyoshizuki
+f93d43b0e30539ba6fab14ce6a57aae3	Musician (Europe).bin	videopac-yoriyoshizuki
+207d49c6c4cfda2d841c6ed2ab251456	mystomachhurts1.bin	videopac-yoriyoshizuki
+854e8b4ed837049bf228adbd5d4f738b	mystomachhurts2.bin	videopac-yoriyoshizuki
+cd7317f6cad9dcb540afd1d93b171cc4	mystomachhurts3.bin	videopac-yoriyoshizuki
+466934c655417a9929c6431a98cee7e5	mystomachhurts4a.bin	videopac-yoriyoshizuki
+2a7c1ebfb9f7f91b0a59d7fd4500105c	mystomachhurts5a.bin	videopac-yoriyoshizuki
+f60fa7d5ed0e8e6a262f0136db60268a	Neutron Star (1983)(Philips)(EU)(proto).bin	videopac-yoriyoshizuki
+a619ab051d75934fa06f339c61250a00	Neutron Star (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+f60fa7d5ed0e8e6a262f0136db60268a	Neutron Star (Europe) (Proto).bin	videopac-yoriyoshizuki
+f1e3f22367714c5c09e68df0527a4238	Neutron Star + (bug fixed) (vp_55_12fix).bin	videopac-yoriyoshizuki
+4c04dcee4ff9b59adb67d543ebe3568a	New Burt (Mike Ro Products).bin	videopac-yoriyoshizuki
+f2eda19ffc8e52c5c2d13c7106a06303	Newscaster (1980)(Philips)(EU).bin	videopac-yoriyoshizuki
+f2eda19ffc8e52c5c2d13c7106a06303	Newscaster (Europe).bin	videopac-yoriyoshizuki
+b2c47736269afe2c4cd59822267cf1cf	new_amok.bin	videopac-yoriyoshizuki
+6f71e461bf26188123872a74c172bbef	new_calculator.bin	videopac-yoriyoshizuki
+be2c23a80e673a22a430f58480aaee74	new_kc-pacvid.bin	videopac-yoriyoshizuki
+e46f86dc00cafd8cf13c27a813b32ac7	new_ktaa-demo1.bin	videopac-yoriyoshizuki
+e78ccd24f614869c239505bf425a6bd5	new_ktaa-demo2.bin	videopac-yoriyoshizuki
+335f0875a7dcf755424534cec79c8d5b	new_ppp-o2em.bin	videopac-yoriyoshizuki
+fa6009b67bad53479e5e527cedc4b8f1	new_puzzle-piece-panic.bin	videopac-yoriyoshizuki
+241644d2200e0f62648ecdb9e23eac33	new_route66.bin	videopac-yoriyoshizuki
+7a8210bf525e1f7e9a886d82ea08bc24	niceice11a.bin	videopac-yoriyoshizuki
+abb839336eb385991b8889db961ad20a	niceice11b.bin	videopac-yoriyoshizuki
+15335779bb70bb84691a14102fbcdd23	niceice12.bin	videopac-yoriyoshizuki
+771b9cf66e83745cf20e1e8aada043ea	niceicehs.bin	videopac-yoriyoshizuki
+ce678c0482979cc7679e7edc85759318	niceicetwo1.bin	videopac-yoriyoshizuki
+4e52eec58ed7e411e17ac92fa86ef42c	niceicetwo10a.bin	videopac-yoriyoshizuki
+7fe963873c23f197d3897c42296f9971	niceicetwo11b.bin	videopac-yoriyoshizuki
+5bc1f7c3f2816e1c95df2b60b1e0eb51	niceicetwo12.bin	videopac-yoriyoshizuki
+db0835feb0a359ad7cc24ade2310f9a5	niceicetwo12a.bin	videopac-yoriyoshizuki
+e9d5b4826ab4e05dba4ef01e249e12a4	niceicetwo13a.bin	videopac-yoriyoshizuki
+d974d5a76728911c1d56ccf636815a53	niceicetwo13aa.bin	videopac-yoriyoshizuki
+9d06e9a91eb30550eb2439164f8ca577	niceicetwo13ab.bin	videopac-yoriyoshizuki
+015102109f7bc7743b3df32397cb189e	niceicetwo13b.bin	videopac-yoriyoshizuki
+694275f9ae08c3ed894c075ea64dcfb0	niceicetwo14.bin	videopac-yoriyoshizuki
+67b0cf9affa270f09ca0217d1a99a0ea	niceicetwo2.bin	videopac-yoriyoshizuki
+91b4bb530967133b0385957a329ce08b	niceicetwo6.bin	videopac-yoriyoshizuki
+a97fc4c7c596cb30679a49cbb0f0200e	niceicetwo7.bin	videopac-yoriyoshizuki
+82c9e61f755cae50fd71c35184faa3da	niceicetwo8.bin	videopac-yoriyoshizuki
+d5b90fa5e26d611427923f1c76298565	nice_ice09.bin	videopac-yoriyoshizuki
+ff915f0a0213921e407c23475f988100	nice_ice10.bin	videopac-yoriyoshizuki
+cde179e3e9076ef351dbd56e6cc9c52d	nice_ice11.bin	videopac-yoriyoshizuki
+b5f685c1d060e9df957b7495eb94a219	nice_ice14.bin	videopac-yoriyoshizuki
+12fbd1f0928a937b4aa81df9747b5585	nice_ice16e.bin	videopac-yoriyoshizuki
+d94eca9341aa57720fcb261eddf32090	nice_ice17.bin	videopac-yoriyoshizuki
+c36d048ae4671eb9180c07ad9e397a87	nice_ice18.bin	videopac-yoriyoshizuki
+e8a42f4d1af0234adaba278c75654135	nice_ice18b.bin	videopac-yoriyoshizuki
+ea4a0c383c63043b9cda93bbab2de9d0	nice_ice19.bin	videopac-yoriyoshizuki
+a04b91db1cb3b481b0d99609dd8c02f2	nice_ice20a.bin	videopac-yoriyoshizuki
+bff064928b5bec6f97650c10215c2e6d	nice_ice21.bin	videopac-yoriyoshizuki
+8564118f7c69cec8833444f21636a2a0	nice_ice22a.bin	videopac-yoriyoshizuki
+3534ef8826448b0fe05df74ce8dd57b5	nice_ice23.bin	videopac-yoriyoshizuki
+d0e9eaadc097eccd1898e3e6995a7a73	nice_ice23a.bin	videopac-yoriyoshizuki
+f106d7bd8ebb61de7a40761f38465d7c	nice_ice24.bin	videopac-yoriyoshizuki
+e4797b9175dece5d9cddb40d99b1a626	nice_ice24a.bin	videopac-yoriyoshizuki
+4e02d63c7eb6c4a897dc359d38eec7fd	nice_ice25.bin	videopac-yoriyoshizuki
+2a8a042f2897decd55b45d25992dee8f	nice_ice26-v2.bin	videopac-yoriyoshizuki
+0fcf3a2209faba751785dbd3d1017b4f	nice_ice26.bin	videopac-yoriyoshizuki
+109dc37c3fece87246572130e0f6f6f1	nice_ice27.bin	videopac-yoriyoshizuki
+038c5b4ed5f9acb3b24a6eab1fc5b6e2	nice_ice28.bin	videopac-yoriyoshizuki
+ba5078eae795fc3da9fd9d2f1e070973	Nicolas Cave.bin	videopac-yoriyoshizuki
+af5b0f0e38252c7391284d9671eb6518	Nightfighter (19xx)(-)(EU).bin	videopac-yoriyoshizuki
+af5b0f0e38252c7391284d9671eb6518	Nightfighter (Europe) (Proto).bin	videopac-yoriyoshizuki
+6e7a98bafab8a0b71da7ba0321e1b5e9	Nightmare (1983)(Philips)(EU).bin	videopac-yoriyoshizuki
+161bf3c8571385b96680b1ba21d62076	Nightmare (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+6e7a98bafab8a0b71da7ba0321e1b5e9	Nightmare (Europe).bin	videopac-yoriyoshizuki
+98b2ed525aa9c060e8be6c6210d16e41	Nimble Numbers Ned (1978)(Philips)(US).bin	videopac-yoriyoshizuki
+98b2ed525aa9c060e8be6c6210d16e41	Nimble Numbers Ned (USA).bin	videopac-yoriyoshizuki
+9cf1c723c8bc5d28a21b84eef020e38d	NORSEB.bin	videopac-yoriyoshizuki
+ac84722f73f25a1e648439c1921c08ca	Norseman (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+99f8777bdb20ddcafc98f57ad27ab3a2	ntsc_57.bin	videopac-yoriyoshizuki
+74d756e87ca708262f76c59001c78996	ntsc_chez-maxime.bin	videopac-yoriyoshizuki
+4324842bb1b46f006c4c407107d59bc2	ntsc_exojet_pl.bin	videopac-yoriyoshizuki
+6a0db0ab672ca8fd9a1bd31c4f24e68f	ntsc_interpol.bin	videopac-yoriyoshizuki
+606c19e2f764c97dcc62be1651b935db	ntsc_moto-crash.bin	videopac-yoriyoshizuki
+8f7a6ce09468c49c0f57b4d085ce4420	ntsc_shark-hunter.bin	videopac-yoriyoshizuki
+47093e37a8359a0efc4ef3b19af3f107	ntsc_tutankham.bin	videopac-yoriyoshizuki
+d2a2d988d98c32147476d32569573955	nw_wild_contest2.bin	videopac-yoriyoshizuki
+eea3d449e1f1be1e7c3ddfff48731c6b	O 2 Programming Sample. (Gridmap) (2009.01.26 14.13).bin	videopac-yoriyoshizuki
+3fe371cad9b660c0a76969bc53d17f9b	O Malabarista + Jogo da Velha (1980)(Philips)(BR).bin	videopac-yoriyoshizuki
+5eb860e357db069a2cbc3fc51d022326	O Segredo do Farao (1980)(Philips)(BR).bin	videopac-yoriyoshizuki
+5eb860e357db069a2cbc3fc51d022326	O Segredo do Farao (Brazil).bin	videopac-yoriyoshizuki
+05d1af985d2e1afec2496a17459c8e71	O2em V1.18.1 (June 2010) (Roms) (Grid Edit).bin	videopac-yoriyoshizuki
+9dbf0f2063dd6d01f2936391f7518c7c	O2em V1.18.1 (June 2010) (Roms) (Sound Test).bin	videopac-yoriyoshizuki
+a72f11db1114fa50f44dd78613830101	O2em V1.18.1 (June 2010) (Roms) (Sp Build).bin	videopac-yoriyoshizuki
+ed77beeb30711f8ee03a23a4577f403a	O2smith.bin	videopac-yoriyoshizuki
+a9e6c05a398e9c03fc99498045811ba4	O2WOW maze demo.bin	videopac-yoriyoshizuki
+7e85ee1ee53f1c8fa5939a650a2e0f66	O2WOW2.bin	videopac-yoriyoshizuki
+db1b2913781d6f4ceb813818929e849f	Odyssey 2 Programming (Gs) (2011.03.26 14.30).bin	videopac-yoriyoshizuki
+2ea50c6849e1fc1ed1d7061e2863259e	Odyssey Invaders.bin	videopac-yoriyoshizuki
+1fa44c3a2ae9d5044efbdb53f83392f1	Omega Race.bin	videopac-yoriyoshizuki
+146ec3f8bf5061f4efad590a04c8937b	oranges1.bin	videopac-yoriyoshizuki
+3195abfb6d5efce91344886448621a4d	oranges10.bin	videopac-yoriyoshizuki
+4452cd617a902fda01dd1205cc0970a8	oranges11.bin	videopac-yoriyoshizuki
+ab4e7c41a7a8451c470702a117aa7b77	oranges2.bin	videopac-yoriyoshizuki
+d380480f991adfde8c92e6a8d8c6c691	oranges4b.bin	videopac-yoriyoshizuki
+98d971e9f22145ffd82427cdd2dac043	oranges5b.bin	videopac-yoriyoshizuki
+4e4efc7e99ed53b800a1e9e375b3c6e8	oranges7a.bin	videopac-yoriyoshizuki
+55fb06b362ea38150e1fcdadc2a07700	oranges9.bin	videopac-yoriyoshizuki
+21a8e6a7441a2990052e38f85a606db4	Out of This World + Helicopter Rescue (1980)(Philips)(US).bin	videopac-yoriyoshizuki
+21a8e6a7441a2990052e38f85a606db4	Out of this World + Helicopter Rescue (USA).bin	videopac-yoriyoshizuki
+55804c72bd3baeb7e586d5296479c802	Overlap Score.bin	videopac-yoriyoshizuki
+cd8affe9e5cf1640d2def70c40fab2b9	Overlapped Planet (alt 1).bin	videopac-yoriyoshizuki
+0e4f7dc8a378e28d901bd935c5fb581e	Overlapped Planet.bin	videopac-yoriyoshizuki
+f87c0d1c7bdff2a28e15dc0cae10c46d	P Shooter (v1).bin	videopac-yoriyoshizuki
+dd60e4dd56ddcfba750d60a2d6b68675	P Shooter (v7).bin	videopac-yoriyoshizuki
+39c9fbd71a2e21ee2073ccc9a3a373a3	P Shooter (v8).bin	videopac-yoriyoshizuki
+0812533ce84c9e28e699af8baec7df25	P.T. Barnum's Acrobats (1981)(Philips)(US).bin	videopac-yoriyoshizuki
+0812533ce84c9e28e699af8baec7df25	P.T. Barnum's Acrobats (USA).bin	videopac-yoriyoshizuki
+e00ca4155b88aacb044a2598c2180158	Pachinko (1981)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+e00ca4155b88aacb044a2598c2180158	Pachinko (USA, Europe).bin	videopac-yoriyoshizuki
+0cb75f07c44150d1d1fe11d179590c5f	PACMAN [a].bin	videopac-yoriyoshizuki
+31b876d4cf4e10103073912388794ba3	PACMAN.bin	videopac-yoriyoshizuki
+0b5a7506275e49b3ede60af2b6c31098	Pairs + Space Rendezvous + Logic (1980)(Philips)(EU).bin	videopac-yoriyoshizuki
+0b5a7506275e49b3ede60af2b6c31098	Pairs + Space Rendezvous + Logic (Europe).bin	videopac-yoriyoshizuki
+87313a4eaf178a6f813958ae3ee49718	pal_acrobats.bin	videopac-yoriyoshizuki
+7b7e20920d35fd6a1bf44b38ba304d6f	pal_nimble-numbers-ned.bin	videopac-yoriyoshizuki
+2a9e73102c1c4a54a66fc16f9cf2d1a2	pal_type-and-tell.bin	videopac-yoriyoshizuki
+20271c758ab6a966319f1c048a6d30b7	petegre.bin	videopac-yoriyoshizuki
+ed403a2417ea8d42f25f9861890f0af5	peteyel.bin	videopac-yoriyoshizuki
+ffa665173861c544219565e000f79173	Pick Axe Pete (USA, Europe).bin	videopac-yoriyoshizuki
+0893815975353b666664cbcf86eeef9e	Pick Axe Pete 2 - Preview - pap2d.bin	videopac-yoriyoshizuki
+512a5102a2b52f7f5ad18610c49a4f95	Pick Axe Pete 2 - Preview - pap2demu.bin	videopac-yoriyoshizuki
+ffa665173861c544219565e000f79173	Pickaxe Pete (1982)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+6a38ddd9026e1dd756bef1f0995d8106	Pickaxe Pete (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+b93f4ce768cf934774fdd895eab59323	Pinball (19xx)(-)(US).bin	videopac-yoriyoshizuki
+b93f4ce768cf934774fdd895eab59323	Pinball (USA) (Proto).bin	videopac-yoriyoshizuki
+c529f25b121b1e8e7e02fd5fd150f773	pink.bin	videopac-yoriyoshizuki
+6f8070f929060fa5c94fe4a50706e09e	PIT.bin	videopac-yoriyoshizuki
+0c8ed31fb274f95c708a998a4d16ebfa	plander.bin	videopac-yoriyoshizuki
+c5d7c7b6d6f465610405082e35572f62	Play Tag (19xx)(Philips)(EU).bin	videopac-yoriyoshizuki
+c5d7c7b6d6f465610405082e35572f62	Playtag (Europe) (Proto).bin	videopac-yoriyoshizuki
+b662fb641643d3017205ca3e6463505b	pn104k.bin	videopac-yoriyoshizuki
+8e4a9241b394f8d1be82d6e71ab0b117	pn2.bin	videopac-yoriyoshizuki
+6b060cc6681841dc1527166ee1bd186a	pn3.bin	videopac-yoriyoshizuki
+1effc8e1064dce6c6f1ba29124ce0455	pn4a.bin	videopac-yoriyoshizuki
+16cd493f176c275b3c9a499ff56760cc	pn4b.bin	videopac-yoriyoshizuki
+ff7fc5f1aaa5dc0873362ace07274c0a	pn6.bin	videopac-yoriyoshizuki
+243de06df543f8024657d5497bfaaf14	pn7.bin	videopac-yoriyoshizuki
+a6d7dd17d43ec222b565c49c04a21da9	pn8.bin	videopac-yoriyoshizuki
+b088d5a784a07567900e9b346876d1b5	pn8a.bin	videopac-yoriyoshizuki
+942b965a20e2905e4ad0e2e706ffb615	pn8b.bin	videopac-yoriyoshizuki
+27b1a3adc6ad3c6fe01cf0fca4c1d288	pn9.bin	videopac-yoriyoshizuki
+3f0223dd8609fe320264e45eeeefe367	Pocket Billiards (1981)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+3f0223dd8609fe320264e45eeeefe367	Pocket Billiards (USA, Europe).bin	videopac-yoriyoshizuki
+f26d1518a538ec67c2f5b8cad8174d8d	pong.bin	videopac-yoriyoshizuki
+c8ff3590115abc6ec86769fb0ec50404	pong_2.bin	videopac-yoriyoshizuki
+f797a916c403e148bfc669a0d23acfc9	POPE.bin	videopac-yoriyoshizuki
+3d8310d2ab62a5a7bcc0ecf088133291	Popeye (1983)(Parker Brothers)(BR).bin	videopac-yoriyoshizuki
+2a0a3e9aed2885a4e4798b380dbb64c3	Popeye (1983)(Parker Brothers)(EU).bin	videopac-yoriyoshizuki
+2a0a3e9aed2885a4e4798b380dbb64c3	Popeye (Europe).bin	videopac-yoriyoshizuki
+439d956a6183e9dd14bc8d2bf0e8278d	Popeye.bin	videopac-yoriyoshizuki
+8200734b7a6217b4847939acd3cc1601	Power Lords (1978)(Philips)(US).bin	videopac-yoriyoshizuki
+67943d1bba7cdf707305edc14feabc46	Power Lords (1978)(Philips)(US)[a].bin	videopac-yoriyoshizuki
+8200734b7a6217b4847939acd3cc1601	Power Lords (USA).bin	videopac-yoriyoshizuki
+658f83ba8bc4b05f5673b86646409647	powerpl.bin	videopac-yoriyoshizuki
+1f5f15cb9e0d1e65915d0c2263195284	Prendre l'Argent et Fuir (1980)(Philips)(FR).bin	videopac-yoriyoshizuki
+15e9faea5a9d46902862fef9d4198530	Put (test).bin	videopac-yoriyoshizuki
+18cabe4f94787a8a8e9f1ec6c6451e4c	Q-Bert (Europe).bin	videopac-yoriyoshizuki
+b68a823bfbef036d77e59919f2bbecc4	q1.bin	videopac-yoriyoshizuki
+b9e23607f52accc10808f36301dc903a	q10.bin	videopac-yoriyoshizuki
+e30476e9d1ebf109d491f10790f40fa1	q3.bin	videopac-yoriyoshizuki
+2208d5d2520434ba6df743157c07c7b8	q4.bin	videopac-yoriyoshizuki
+c6216c910797a9b58b5682b071505340	q5.bin	videopac-yoriyoshizuki
+900a3b67eb209fdfeb072c1d539bfe1c	q6.bin	videopac-yoriyoshizuki
+0e3cf1616c4deacbb008c32935b115d3	q7.bin	videopac-yoriyoshizuki
+c0c62c1ed8c9714a0e2f96900fa6e7be	q9.bin	videopac-yoriyoshizuki
+18cabe4f94787a8a8e9f1ec6c6451e4c	Qbert (1983)(Parker Brothers)(EU).bin	videopac-yoriyoshizuki
+ec50cac3524e22d79e017dbf18ea2bb6	Quest for Something.bin	videopac-yoriyoshizuki
+0b105a40c8ff6ae7728006cf80c4ddb7	Quest for the Rings (1981)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+0b105a40c8ff6ae7728006cf80c4ddb7	Quest for the Rings (USA, Europe).bin	videopac-yoriyoshizuki
+db4a9037257c83acc471458786dc9476	Quest For The Rings Plus (vp_42pl).bin	videopac-yoriyoshizuki
+1f0740bf915893156d7b578662db0142	Quest For The Rings Plus test.bin	videopac-yoriyoshizuki
+463d3fb5ab02f80b9e520c44397fbbd5	Quest For The Rings Plus [hacked].bin	videopac-yoriyoshizuki
+cc8cd8d9bf6aadd296b316e1f28ee270	Race + Spin-out + Cryptogram (1983)(Philips)(EU).bin	videopac-yoriyoshizuki
+0f2bafba552fa3ffcb2fb67d6c7ffeea	race1.bin	videopac-yoriyoshizuki
+abb9c230f5623f1a7db240a1bfafe89d	race3.bin	videopac-yoriyoshizuki
+bb98d7d0249497d991b9067880ad2c37	race4a.bin	videopac-yoriyoshizuki
+1a4cdf5895c42ed38f539c83546003cc	rash (2016)(Frog of ROi).bin	videopac-yoriyoshizuki
+1bace5b9e272032f898563fb7ef33bc9	Red Baron (19xx)(-)(EU).bin	videopac-yoriyoshizuki
+79ffbfd676f12a6b4dde396345d354f1	Red Baron (19xx)(-)(EU)[a].bin	videopac-yoriyoshizuki
+f570f362143809a2577383eb53cf02e0	redgreen.bin	videopac-yoriyoshizuki
+340f613dc2f1fcffd8e3a23076db5032	River Raid scrolling demo (v3).bin	videopac-yoriyoshizuki
+d74c8d6c0e1895bcb461261cc85f2e7b	River Raid scrolling demo.bin	videopac-yoriyoshizuki
+ed75b1291b3aa1f89edda3f8de6b4f09	RIVER2.bin	videopac-yoriyoshizuki
+e1bf13eeb2297b6ae4f6fde313053441	robinhodwip3.bin	videopac-yoriyoshizuki
+08b65f525e0064334f449f1971d83414	Robot City (19xx)(Philips)(EU).bin	videopac-yoriyoshizuki
+08b65f525e0064334f449f1971d83414	Robot City (Europe) (Proto).bin	videopac-yoriyoshizuki
+0090c4d497a7800d760acbfb44516d94	Robot City (prototype).bin	videopac-yoriyoshizuki
+1a87158864b877ee2faf0f9246db3784	Ruche Infernale, La (198x)(Philips)(FR).bin	videopac-yoriyoshizuki
+a74c61cf44b8e5e3cb7108a9b8110336	SAFED PEOPLE.bin	videopac-yoriyoshizuki
+75a751e527fa8ddf8faddbdaa6357582	Samurai (1980)(Philips)(EU).bin	videopac-yoriyoshizuki
+8c9aa4292d8ee6e4d848e52061a0cdab	santa.bin	videopac-yoriyoshizuki
+8aa2eb5ed7428fe3ab6ccc12341579cd	santa5.bin	videopac-yoriyoshizuki
+4925960c2ea376c1ff7d4c7625d57ded	santa6.bin	videopac-yoriyoshizuki
+ec9620f4ae2f0c346419ad0f66012d3b	santa6b.bin	videopac-yoriyoshizuki
+beb26a33fc1addc36a2abed31c5d230e	santa7a.bin	videopac-yoriyoshizuki
+8e631fae193f572b9d7e52c96b648d58	Satellite Attack (1981)(Philips)(EU).bin	videopac-yoriyoshizuki
+5e7d8fea7993a4630d45042d03b420fd	Satellite Attack (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+57e69453771f363b850a17fbd24d280d	searescuedemo.bin	videopac-yoriyoshizuki
+676423953ef6ee953a999778c0ba0ff9	Secret of the Pharaohs (1980)(Philips)(EU).bin	videopac-yoriyoshizuki
+676423953ef6ee953a999778c0ba0ff9	Secret of the Pharaohs (Europe).bin	videopac-yoriyoshizuki
+fc4d2832af06c9114194d7b3af6f707c	Secret of the Pharaohs.bin	videopac-yoriyoshizuki
+1ec617026bc9562826f075d9ad15824e	Shark Hunter (19xx)(Philips)(EU).bin	videopac-yoriyoshizuki
+1ec617026bc9562826f075d9ad15824e	Shark Hunter (Europe) (Proto).bin	videopac-yoriyoshizuki
+82c536ff22998790dd6d9c7b49df4f92	Shooting Gallery (BURNSOM) (2012.08.03 00.57).bin	videopac-yoriyoshizuki
+f3afc679401415738ebba49a84b9fd12	Shooting Gallery (SG5) (2012.07.10 05.02).bin	videopac-yoriyoshizuki
+f5c39a2f81a66f0604b5c9c66ebf31d4	Shooting Gallery (SG6) (2012.07.12 01.27).bin	videopac-yoriyoshizuki
+58e3b86c9d5e51a4daa82f7c25d1646f	Shooting Gallery (SG7) (2012.07.15 02.57).bin	videopac-yoriyoshizuki
+ce3c6c5335c2b9a05d708bcaf813f7e9	Shooting Gallery (SG9) (2012.07.29 23.37).bin	videopac-yoriyoshizuki
+add9a7cfac93608db1845e49f3594964	Showdown in 2100 A.D. (1980)(Philips)(US).bin	videopac-yoriyoshizuki
+add9a7cfac93608db1845e49f3594964	Showdown in 2100 A.D. (USA).bin	videopac-yoriyoshizuki
+23ba6403e7206063d65dec507a30664a	Sid the Spellbinder (1978)(Philips)(US).bin	videopac-yoriyoshizuki
+23ba6403e7206063d65dec507a30664a	Sid the Spellbinder (USA).bin	videopac-yoriyoshizuki
+6c978527f731a38f7e9e84ba9bcd0ae8	SINISTAR.bin	videopac-yoriyoshizuki
+ea86b958c37da876bb178dcaa92a8ee7	Skiing (1980)(Philips)(FR).bin	videopac-yoriyoshizuki
+4045399407593128ce60060fb3483454	slideshow (megacart example).bin	videopac-yoriyoshizuki
+93504b9b6fc99039abfadeb593f473d2	slideshow 1.1.bin	videopac-yoriyoshizuki
+0f6faee76766477a77386ef0f653df0d	smiley11.bin	videopac-yoriyoshizuki
+f3caf1ef41673c79aef65bf4a2d00ccd	smiley12.bin	videopac-yoriyoshizuki
+ba537cf45a8c18455a7f1dd752d04226	smiley14.bin	videopac-yoriyoshizuki
+de32c3c33bed9d70aedafaf56dd6acb6	smiley15.bin	videopac-yoriyoshizuki
+5bf90880b0d72da2bb1d6e3e6f667c72	smiley17.bin	videopac-yoriyoshizuki
+1ed13dad34b5dba3c13a079edc719c14	smiley3.bin	videopac-yoriyoshizuki
+12e51e9efa04e4a4b659c938cc07e8a4	smiley4.bin	videopac-yoriyoshizuki
+c08c02b30b2122393d11cea61dd53ef4	smiley6.bin	videopac-yoriyoshizuki
+ed77beeb30711f8ee03a23a4577f403a	Smithereens (USA).bin	videopac-yoriyoshizuki
+93a4f45bca57c62f8c068e6221a5e893	Snake Catcher (beta) (PD).bin	videopac-yoriyoshizuki
+aa10bb0ebb6aee7c12e68d65e561aa15	snow1.bin	videopac-yoriyoshizuki
+797285513d3b8344eea5b570c748e57d	snow10.bin	videopac-yoriyoshizuki
+cdcfb0c9d3e2520ad6e8d776bf886c6d	snow11.bin	videopac-yoriyoshizuki
+ae0e50778bc9b9ab0a9f12dcc4a26171	snow12.bin	videopac-yoriyoshizuki
+0a2ddf261ce805d10f83f530239db568	snow13.bin	videopac-yoriyoshizuki
+f7061535dd310ab392d39eedc64de78c	snow3.bin	videopac-yoriyoshizuki
+c75abeda626d9c893480549510d9ed67	snow4.bin	videopac-yoriyoshizuki
+f24daf45e237435f4b1ee932cf7c5644	snow5.bin	videopac-yoriyoshizuki
+8601a8ae9892c1bacbe62059a0c26597	snow6.bin	videopac-yoriyoshizuki
+59759661f436985979b2ac7313d971d0	snow7.bin	videopac-yoriyoshizuki
+e010ecac03ca00c5d4f87388c2b8b480	snow8.bin	videopac-yoriyoshizuki
+74d908c52b8f625085bea38175933d46	snow9.bin	videopac-yoriyoshizuki
+09cff06571ee0edaee4a68028341a43f	SOKO.bin	videopac-yoriyoshizuki
+5b615c04227f2a5cd4d0372fee2d9b6d	song.bin	videopac-yoriyoshizuki
+417dcbbe8a9c9dbb44b6168b2b4329e2	Sound Finder test.bin	videopac-yoriyoshizuki
+ba06ff6808e748777d27e07a136b5cfe	Space Invaders.bin	videopac-yoriyoshizuki
+19ec12425f1a35035f6433237809ee86	Space Monster (color hack) (vp_22hack).bin	videopac-yoriyoshizuki
+c614a2bb5e601ac1921e68c793b428c4	Space_invaders.bin	videopac-yoriyoshizuki
+bc66ab63fb5ce04a79aef9e8fa445225	Speedway + Spin-out + Crypto-logic (1978)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+bc66ab63fb5ce04a79aef9e8fa445225	Speedway + Spin-out + Crypto-logic (USA, Europe).bin	videopac-yoriyoshizuki
+263b77aa79980bd0cb53a0625a2637eb	Spider-Man (19xx)(Parker Brothers - Philips)(EU).bin	videopac-yoriyoshizuki
+a0ba087f4a47b71c41e876b5069b8ba0	Spider-Man (19xx)(Parker Brothers - Philips)(EU)[a].bin	videopac-yoriyoshizuki
+263b77aa79980bd0cb53a0625a2637eb	Spider-Man (Europe) (Proto).bin	videopac-yoriyoshizuki
+71788c0d4f0918c616e5d4aa54266d1e	Sprite tests (CYBER).bin	videopac-yoriyoshizuki
+d94d1ce13bea639a58a5e3e0208edc38	Sprite tests (MULTI).bin	videopac-yoriyoshizuki
+20a6448317f37a82e9ab4ce9e4c6d490	Sprite tests (v2).bin	videopac-yoriyoshizuki
+f76015540a2ca50501ed360bb5704e64	Sprite tests.bin	videopac-yoriyoshizuki
+e034351f1ee6933e85f99bd785b08795	sprite_builder (PD).bin	videopac-yoriyoshizuki
+f0750b0f0fc812bc1517b3c7f895cefa	Stay Frosty.bin	videopac-yoriyoshizuki
+1ce7e7cc51f69d706d99bdde80862f8e	stickman1.bin	videopac-yoriyoshizuki
+e4806ed14c1b92855917ec99d7254391	stickman11b.bin	videopac-yoriyoshizuki
+b6eaae5c0c175389dfebdd6195d77e92	stickman12.bin	videopac-yoriyoshizuki
+0452b4ff59bcca8398d8f8d5ddb002e4	stickman14.bin	videopac-yoriyoshizuki
+22509a3e3fef8b80c227b07b62ab9349	stickman14b.bin	videopac-yoriyoshizuki
+9d1293d9d287fd3ecbbe9a44f84c58e3	stickman15.bin	videopac-yoriyoshizuki
+e7a7b99e866dfbd7b891fae0cb593d47	stickman16.bin	videopac-yoriyoshizuki
+690cbd13dfbe2b7986e327cb7ada408e	stickman2.bin	videopac-yoriyoshizuki
+caceb942db84a87d8ba24514a1ba0bb6	stickman4.bin	videopac-yoriyoshizuki
+575a0256bfe22546f6df0c02a212342a	stickman6.bin	videopac-yoriyoshizuki
+9ccbfd983e91617967e4225f9b5d5cf3	stickman7.bin	videopac-yoriyoshizuki
+7212cda564e67a3cc5333d3eccd2df3c	stickman7a.bin	videopac-yoriyoshizuki
+ee84b5f0320051814502966d2570932a	stickman8.bin	videopac-yoriyoshizuki
+6f8b98e8af70862fb014b3f98873fee0	stickman9.bin	videopac-yoriyoshizuki
+a7bfd5fa3233a3df36742a368736727d	Stone Sling (1980)(Philips)(EU).bin	videopac-yoriyoshizuki
+db336a5d86cee7f8ffcc00c8cfd508da	Stone Sling (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+ef316af0ed3d1736129c53c1231b8569	Super Bee (1983)(Philips)(BR).bin	videopac-yoriyoshizuki
+e201f5df4baa81a8d0ed25d58f5399fa	Super Bee (1983)(Philips)(EU).bin	videopac-yoriyoshizuki
+e201f5df4baa81a8d0ed25d58f5399fa	Super Bee (Europe).bin	videopac-yoriyoshizuki
+6b2f0c624ba7c2769d484e65540d7ccd	Super Bee.bin	videopac-yoriyoshizuki
+f274f1ed857324c1b3ac55b0c67a1ba2	Super Cobra (1983)(Parker Brothers)(BR).bin	videopac-yoriyoshizuki
+8e4a6c96d67bba26f41ee856dd919118	Super Cobra (1983)(Parker Brothers)(EU).bin	videopac-yoriyoshizuki
+8e4a6c96d67bba26f41ee856dd919118	Super Cobra (Europe).bin	videopac-yoriyoshizuki
+df02e60db8b897a5a50e1dba3ea5196f	Super Giuseppe 37.bin	videopac-yoriyoshizuki
+97e122c03ad87b4aae6dced8aa435145	Super Giuseppe 53-firsthalfjune22013.bin	videopac-yoriyoshizuki
+1d5a8e8eeb67743a12653d29eff7c357	Super Giuseppe 53-firsthalfjune32013.bin	videopac-yoriyoshizuki
+1c3e96f898472b74f3da4a8610096cd8	Super Giuseppe 53-test-level2GIU.bin	videopac-yoriyoshizuki
+7d30d7d0e0c4124f3c45b4d1e215ab73	Super Giuseppe 59.bin	videopac-yoriyoshizuki
+51a37cc55b50ed04f70ad7e3c65e23a0	Super Giuseppe 61-firsthalfa.bin	videopac-yoriyoshizuki
+544453dc3f05a618ae956049ddac7167	Super Giuseppe level2june192013.bin	videopac-yoriyoshizuki
+15492b4134d788204a63277742fd9746	Super Giuseppe level3a61.bin	videopac-yoriyoshizuki
+a96c65bd1deb4287b131eccaed16abc1	Super Giuseppe level3june42013.bin	videopac-yoriyoshizuki
+85fc42cbf2f6e5dc0b6b528644cae241	Super Giuseppe level3june42013a.bin	videopac-yoriyoshizuki
+c27c6211e5caf687a7397aeaede04647	Super Giuseppe level4june102013.bin	videopac-yoriyoshizuki
+c29523e21899a87b99e33d38a8c3c8bc	Super Giuseppe level4june182013.bin	videopac-yoriyoshizuki
+34f950d1fed1b4871541bd6c1dc36f57	Super Giuseppe level4june52013.bin	videopac-yoriyoshizuki
+8e0867ebfe6d3987f1849fdb2442a59a	Super Giuseppe level4june82013.bin	videopac-yoriyoshizuki
+22b308238962ec7d3905c80bfc0c43bd	Super Giuseppe! (First Half).bin	videopac-yoriyoshizuki
+bb667e50ea8583f4c9b5e1ad0af7fb58	Super Giuseppe! (giufirsthalfjune32013).bin	videopac-yoriyoshizuki
+56349403d6d0c1cd689081296c0417ce	Super Giuseppe! (giulevel1oct152013).bin	videopac-yoriyoshizuki
+30cb43259a9a90ce6223a79a0df73c79	Super Giuseppe! (giulevel1oct152013b).bin	videopac-yoriyoshizuki
+c3a08713b5b52e17d62004f399f71574	Super Giuseppe! (Level 1) (Alt 1).bin	videopac-yoriyoshizuki
+e3f442c94cce1242b0817c7a58bb57a9	Super Giuseppe! (Level 1).bin	videopac-yoriyoshizuki
+f35b33ea0424c226329e51baf360937f	Super Giuseppe! (Level 1aa).bin	videopac-yoriyoshizuki
+cfc3991466a543db32fa6fa1bba810fe	Super Giuseppe! (Level 1aaa).bin	videopac-yoriyoshizuki
+87f2c22a949ee9c316d6fdf141273615	Super Giuseppe! (Level 1aaaa).bin	videopac-yoriyoshizuki
+d8fd2a680dae09bcea4be010dee392a9	Super Giuseppe! (Level 1b).bin	videopac-yoriyoshizuki
+7c842b98cbddd079d1ec81c9360993df	Super Giuseppe! (Level 1bb).bin	videopac-yoriyoshizuki
+a43a635210b5a760bb577f86b72d2336	Super Giuseppe! (Level 2a).bin	videopac-yoriyoshizuki
+c77133b1b518de1fc8ae5f5be0845d29	Super Giuseppe! (Odyssey2) (Giu 30beginning) (2012.09.28 12.12).bin	videopac-yoriyoshizuki
+d17eb178acdf032f22d9ab50de91e26c	Super Giuseppe! (Odyssey2) (Giu 32) (2012.10.03 09.39).bin	videopac-yoriyoshizuki
+6aa1480807121a798fe3f7bdbf99a4ca	Super Giuseppe! (Odyssey2) (Giu 38) (2013.01.12 19.41).bin	videopac-yoriyoshizuki
+0b7c31b64e1c8ec3f630f7cd11b73132	Super Giuseppe! (Odyssey2) (Giu 39) (2013.01.28 06.54).bin	videopac-yoriyoshizuki
+d2b04e06e755c7f5fe138395c37de0e5	Super Giuseppe! (Odyssey2) (Giu 45) (2013.03.16 19.57).bin	videopac-yoriyoshizuki
+829fa4bc5e8ce0d4148c7922be592e60	Super Giuseppe! (Odyssey2) (Giu 49) (2013.03.29 04.45).bin	videopac-yoriyoshizuki
+78d7f872248625bccf774892b98cf38b	Super Giuseppe! (Odyssey2) (Giu 56) (2013.04.13 14.15).bin	videopac-yoriyoshizuki
+5d75fd84e180ee29004e8d7ebaff2797	Super Giuseppe! (Odyssey2) (Giulevel 3) (2013.05.02 15.21).bin	videopac-yoriyoshizuki
+77dc5f92e15f2a0a3c75f600aec56eb1	Super Giuseppe! (Part 1).bin	videopac-yoriyoshizuki
+3425b693f2a5f950e7bedbf09edfb424	Super Giuseppe! (Part 1a).bin	videopac-yoriyoshizuki
+0f6d0bc368e016db5f040d82d9ef3799	Super Giuseppe! (v02).bin	videopac-yoriyoshizuki
+797cdb7987a1185da3fb6e2c15f40365	Super Giuseppe! (v03).bin	videopac-yoriyoshizuki
+be740c23bfdf19aa118899fa2b6861f4	Super Giuseppe! (v04).bin	videopac-yoriyoshizuki
+e58da9fb6378675bc583a238b9539921	Super Giuseppe! (v08).bin	videopac-yoriyoshizuki
+6eb1c3693c2fc924f78be5e858f27a98	Super Giuseppe! (v09).bin	videopac-yoriyoshizuki
+24ad49ea0b8cc0a54c649e7db5b3b66e	Super Giuseppe! (v10).bin	videopac-yoriyoshizuki
+ff71660af2ad51fdcba867fbfcac4d31	Super Giuseppe! (v11).bin	videopac-yoriyoshizuki
+6ec6da630779a47fabaaca0213435f66	Super Giuseppe! (v12).bin	videopac-yoriyoshizuki
+29393127dcaf30f47bbc0162caa6074a	Super Giuseppe! (v13).bin	videopac-yoriyoshizuki
+a3e61bb9c98a705b4f53de2ae481cde3	Super Giuseppe! (v14).bin	videopac-yoriyoshizuki
+8c396ecf3d9c95d3fec8b4e2f476b304	Super Giuseppe! (v16).bin	videopac-yoriyoshizuki
+5d86d8ff30238c035d29140a57647593	Super Giuseppe! (v19).bin	videopac-yoriyoshizuki
+64b491a6f01d9fa594488d3acac0458f	Super Giuseppe! (v20).bin	videopac-yoriyoshizuki
+940f02578bf5034ca350b82c718c6a5f	Super Giuseppe! (v21).bin	videopac-yoriyoshizuki
+b1ff6e176b5a0c290451f7635899ecbe	Super Giuseppe! (v22).bin	videopac-yoriyoshizuki
+3652e31462b672c52d8c941bbb1c3988	Super Giuseppe! (v23).bin	videopac-yoriyoshizuki
+b92101d1c65bb5e386af091d4779f481	Super Giuseppe! (v24b).bin	videopac-yoriyoshizuki
+66dafad03aa35329b92d22ad57ab12cb	Super Giuseppe! (v25).bin	videopac-yoriyoshizuki
+829dada2710539e80165e7578f436dae	Super Giuseppe! (v26).bin	videopac-yoriyoshizuki
+f1f587f0e5215bd284f7830d86d9f97f	Super Giuseppe! (v26a).bin	videopac-yoriyoshizuki
+6795fe55930b3432e461a633ad1cbb8b	Super Giuseppe! (v26c).bin	videopac-yoriyoshizuki
+ec855f2d086f804ead3a20712b7219d3	Super Giuseppe! (v26d).bin	videopac-yoriyoshizuki
+a67346a70f7c468be350d392930171e1	Super Giuseppe! (v27).bin	videopac-yoriyoshizuki
+494f9907f5aef80393170ac38d2e30ec	Super Giuseppe! (v27a).bin	videopac-yoriyoshizuki
+d832f9a9314709ad883a5b531a8a8679	Super Giuseppe! (v28).bin	videopac-yoriyoshizuki
+d9b44f6f7e7b92bdfb45f987e8e3a4c0	Super Giuseppe! (v29a).bin	videopac-yoriyoshizuki
+97943410bb00c3b0a3cf3c66e0470902	Super Giuseppe! (v30).bin	videopac-yoriyoshizuki
+94e9fabf4baafb44b5f65c7f712e1b67	Super Giuseppe! (v31).bin	videopac-yoriyoshizuki
+d797be86633656487013f5d0ac3a50a8	Super Giuseppe! (v32).bin	videopac-yoriyoshizuki
+8728ed9f67e9b5ef32f86ca10342d3cb	Super Giuseppe! (v33) (alt 1).bin	videopac-yoriyoshizuki
+ff94e1f3ede2d287e513542a9abf978e	Super Giuseppe! (v33).bin	videopac-yoriyoshizuki
+ade1ad636fdfb59db58a524aab78b3c3	Super Giuseppe! (v34).bin	videopac-yoriyoshizuki
+10ad6447708105ba5225400a1e6cc27b	Super Giuseppe! (v35).bin	videopac-yoriyoshizuki
+7d6c42b4d81f5c362129648350cd4f25	Super Giuseppe! (v36).bin	videopac-yoriyoshizuki
+f0c9ff62aea61a26cee22a8045b715ef	Super Giuseppe! (v38).bin	videopac-yoriyoshizuki
+ba9cc65e1f7aea0ac4794f767693635a	Super Giuseppe! (v40).bin	videopac-yoriyoshizuki
+8a2211f8bec11e36fa44bf5a663be762	Super Giuseppe! (v41).bin	videopac-yoriyoshizuki
+50bc5777a93f8e52529aa7d34c437787	Super Giuseppe! (v42).bin	videopac-yoriyoshizuki
+303f207c5e8ad3111bce7401f52b2f8f	Super Giuseppe! (v43).bin	videopac-yoriyoshizuki
+49f7dc0a7d16e6e301aa01b317df5c5e	Super Giuseppe! (v46).bin	videopac-yoriyoshizuki
+7638c22a20a94f33c8ce6b14a9083e25	Super Giuseppe! (v48).bin	videopac-yoriyoshizuki
+9f5eea419f4a06a902666fa8c77fe5e4	Super Giuseppe! (v48a).bin	videopac-yoriyoshizuki
+6f742208fb468ad74dd8dcd42b6b3a01	Super Giuseppe! (v52).bin	videopac-yoriyoshizuki
+d257d2554424ff8d8905f7ece2487947	Super Giuseppe! (v53).bin	videopac-yoriyoshizuki
+c83665d70ad5d0c1e9c79cca5855e34a	Super Giuseppe! (v57).bin	videopac-yoriyoshizuki
+fc580725f81848b0790cc532c483eefc	Super Giuseppe! (v58).bin	videopac-yoriyoshizuki
+501924023ce106a9520d93dde3e65557	Super Giuseppe! 82613final3.bin	videopac-yoriyoshizuki
+4f9ace50bfd808f42f248b260b979ade	Super Giuseppe! final1.bin	videopac-yoriyoshizuki
+62290e135078dd52ceb8f35d07ebcbb1	Super Giuseppe! june222013.bin	videopac-yoriyoshizuki
+53843aa949e93b8f23306ac483e8911d	Super Giuseppe! level1oct152013a.bin	videopac-yoriyoshizuki
+3afe77e6c4a2dec5c1f76c99ca8fbb47	Super Giuseppe! level1oct152013c.bin	videopac-yoriyoshizuki
+103244d32b33fcc0dc63abc8a1c797d3	Syracuse (198x)(Philips)(FR).bin	videopac-yoriyoshizuki
+b2d810dcb97e38192a6dd3d213dbce10	Take the Money and Run (1980)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+b2d810dcb97e38192a6dd3d213dbce10	Take the Money and Run (USA, Europe).bin	videopac-yoriyoshizuki
+ad80e00cf08c085e7ff68e0f790beb5d	taxi.bin	videopac-yoriyoshizuki
+0389508d494da5e0bef12dcbf4f164ef	Tennis.bin	videopac-yoriyoshizuki
+50d975845cf80f25add0bdeb0a704a92	Tenpin Bowling + Basketball (198x)(Philips)(FR).bin	videopac-yoriyoshizuki
+17f8cb93f7071ec4c6f31e9d0b6e5724	Terrahawks (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+a440679a48ec7e4f455fa8cfd9a78807	Test Mot.bin	videopac-yoriyoshizuki
+2f65b3c1b03ae9119604712a1abe1b98	Tetrinet_Philips G7400 wip.bin	videopac-yoriyoshizuki
+0602fd990f5e43bbab23004286319b60	Thunderball (1980)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+0602fd990f5e43bbab23004286319b60	Thunderball (USA, Europe).bin	videopac-yoriyoshizuki
+c3ad1d4e2e4cf2c29ac4f8d36c5224af	traff23.bin	videopac-yoriyoshizuki
+9abab602b51c446083d263aa57332657	traff30a.bin	videopac-yoriyoshizuki
+be7c1d143f6b9068b5d41b33ce9517d3	traff32.bin	videopac-yoriyoshizuki
+ca40552b480c59fbe118924a96dec889	traff33.bin	videopac-yoriyoshizuki
+b67b2d5aa0241d205a9e57356308f1ff	traff34.bin	videopac-yoriyoshizuki
+b5b0a86b41f083d2aef47596965b294f	traff37.bin	videopac-yoriyoshizuki
+3877404c94fb43cd493043327aeced77	traff43.bin	videopac-yoriyoshizuki
+a655732f59cf330032baa43d0d69de8c	Traffic (A Free Way).bin	videopac-yoriyoshizuki
+d022676cc7792ec366e7c65a0f0c5db2	Traffic (Trafego 2).bin	videopac-yoriyoshizuki
+f04e193f21e660d418e95fd38f33b722	Traffic (Trafego).bin	videopac-yoriyoshizuki
+46dcfe2aa87317d2386a52e27ec4e066	Traffic (v01).bin	videopac-yoriyoshizuki
+2a6d3d324a3a60d9727872f2f51defc3	Traffic (v02).bin	videopac-yoriyoshizuki
+332af5a704530f8820449cacba0485a4	Traffic (v03).bin	videopac-yoriyoshizuki
+421891b51fc45b7f9e3abf32932f83db	Traffic (v04).bin	videopac-yoriyoshizuki
+4eabfb162b4747cd1d45d21c423b63c2	Traffic (v05).bin	videopac-yoriyoshizuki
+d1667f11cc2a8538c42921c6ba4a95f0	Traffic (v06).bin	videopac-yoriyoshizuki
+7d33986420aadf8ab1b2dc319c10ccf3	Traffic (v08).bin	videopac-yoriyoshizuki
+a0ca7ab8e78cda057db926c115a1f51f	Traffic (v09).bin	videopac-yoriyoshizuki
+b5bd0680e4e0751360d1d669c1f49c61	Traffic (v09a).bin	videopac-yoriyoshizuki
+0aed3af8c4bffacfd696c3bf221d9486	Traffic (v10).bin	videopac-yoriyoshizuki
+ac22f81317fa26a9bc7501118a725fec	Traffic (v11).bin	videopac-yoriyoshizuki
+30a7ac2347ead0ffe85db1ec475f2441	Traffic (v12).bin	videopac-yoriyoshizuki
+4f653718c48f16cd7e3d6e6914177ac0	Traffic (v13).bin	videopac-yoriyoshizuki
+4ec9db81566f7e2d98299b0f44a73e6f	Traffic (v15).bin	videopac-yoriyoshizuki
+7b4573d96c2643f4e32e34f6edaa2006	Traffic (v18).bin	videopac-yoriyoshizuki
+287ed47aa591635c247e0a3a749bb354	Traffic (v19).bin	videopac-yoriyoshizuki
+b11af3551d6a77bcd9edf09a670b6b13	Traffic (v22).bin	videopac-yoriyoshizuki
+c8d42d07bd98fdbcd86ee4ca2fbe4a22	Traffic (v23a).bin	videopac-yoriyoshizuki
+1a94e0c2ec3030f3b38c082997f5e4f5	Traffic (v25).bin	videopac-yoriyoshizuki
+74ae8058ea2a3f7760164df29da3a0f1	Traffic (v26).bin	videopac-yoriyoshizuki
+20fd5eb109db981c5806dbab6db44589	Traffic (v27).bin	videopac-yoriyoshizuki
+5b66feae702af9df21a0c1dfd2617007	Traffic (v30).bin	videopac-yoriyoshizuki
+0efa80a38d887bf74e70ee0da3757dd1	Traffic (v31).bin	videopac-yoriyoshizuki
+ed71d5e1644657a4d6123a5855b2862a	Trans American Rally (198x)(Philips)(EU).bin	videopac-yoriyoshizuki
+915a4b58e955ae88baf3b662cfd23582	Trans American Rally (198x)(Philips)(EU)[b].bin	videopac-yoriyoshizuki
+66764bfd88b638c41de84b6e1989748e	Tresor Englouti, Le (198x)(Philips)(FR).bin	videopac-yoriyoshizuki
+b6e11fc32f584e74a54969185b606547	tresor.bin	videopac-yoriyoshizuki
+a441d6de20d0e3f0acd1f719d82531f9	trt.bin	videopac-yoriyoshizuki
+817d89146f3b9914e7d502212917cc23	Turtles (1983)(Philips)(EU).bin	videopac-yoriyoshizuki
+07737e70c041742dbcd8c52efda4edab	Turtles (1983)(Philips)(US).bin	videopac-yoriyoshizuki
+0feb5e5eb7e4a4a278a27f04c8c10889	Turtles (color hack).bin	videopac-yoriyoshizuki
+07737e70c041742dbcd8c52efda4edab	Turtles (USA).bin	videopac-yoriyoshizuki
+c9590bffc9a2c5a5b49d4fda32524eda	Tutankham (19xx)(Parker Brothers)(EU).bin	videopac-yoriyoshizuki
+c9590bffc9a2c5a5b49d4fda32524eda	Tutankham (Europe) (Proto).bin	videopac-yoriyoshizuki
+6bea87f9257d81ce4734bdc43ddb745a	Tv Ocean.bin	videopac-yoriyoshizuki
+49abee5ddd1b475fe4cbb997f7ee83ef	Type & Tell (1978)(Philips)(US).bin	videopac-yoriyoshizuki
+49abee5ddd1b475fe4cbb997f7ee83ef	Type & Tell (USA).bin	videopac-yoriyoshizuki
+7ebd2526d8c17b01b882e39e972c2691	UFO (1981)(Philips)(US).bin	videopac-yoriyoshizuki
+7ebd2526d8c17b01b882e39e972c2691	UFO (USA).bin	videopac-yoriyoshizuki
+a8b18c1e7321e01f9a0a697dce3c2a43	venture.bin	videopac-yoriyoshizuki
+317644c85ba8f8fde8f7b60114a03288	Verkehrsspiele 1 (Germany).bin	videopac-yoriyoshizuki
+a465615508dfb5ea1c5b0e18c97711a5	Verkehrsspiele 2 (Germany).bin	videopac-yoriyoshizuki
+317644c85ba8f8fde8f7b60114a03288	Verkehrsspiele Traffic Games 1 (1982)(CSV - Philips)(DE).bin	videopac-yoriyoshizuki
+a465615508dfb5ea1c5b0e18c97711a5	Verkehrsspiele Traffic Games 2 (1982)(CSV - Philips)(DE).bin	videopac-yoriyoshizuki
+2ff49db5c82f3ba1187dc5d9af5eaa87	Videopac+ screen editor v1.0 (2007)(Soeren Gust).bin	videopac-yoriyoshizuki
+2b08887c846ffbb964d6b377d93a4b0b	videopac_C7420.bin	videopac-yoriyoshizuki
+8f2b2eadcc1bd72366db49c89b576eb4	Volleyball (1981)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+8f2b2eadcc1bd72366db49c89b576eb4	Volleyball (USA, Europe).bin	videopac-yoriyoshizuki
+e9d2f13dabdcade4c7d09e5dc8728c28	Volleyball Electronique (1981)(Philips)(FR).bin	videopac-yoriyoshizuki
+bcbb2a89782d83532cfd942dacdba4b9	vp_01pl.bin	videopac-yoriyoshizuki
+4f0dd7ab05c033c27ecbda05b14bf619	Wall Street (1983)(Philips)(BR).bin	videopac-yoriyoshizuki
+342e1210c4c80c879471192f814bea87	Walls (v06).bin	videopac-yoriyoshizuki
+73a27736c7b47f5845d05966450f6ebe	Walls (v07).bin	videopac-yoriyoshizuki
+0bdef2dc412ad9395a650b65c916b9bd	Walls (v10).bin	videopac-yoriyoshizuki
+388ac4de413c9ee5bf9e3fc465df3aa1	Walls (v11).bin	videopac-yoriyoshizuki
+7cae5aa65d098acdf872e8014dbe28e4	Walls (v12).bin	videopac-yoriyoshizuki
+b8ec8a6b2a662e2fbe1ab2a770669ed0	Walls (v13).bin	videopac-yoriyoshizuki
+7bd4ea643c69d8c5e508860f11452dc1	Walls For Odyssey 2 (Walls 9) (2013.02.12 06.45).bin	videopac-yoriyoshizuki
+725740f079f00ddb43ff7ee9e1b96590	walls1.bin	videopac-yoriyoshizuki
+87b7f4eeeeaf6a82292f723c95d008b0	walls19.bin	videopac-yoriyoshizuki
+72c396e218b03a8fc24bfcfa4619b195	walls2.bin	videopac-yoriyoshizuki
+04444ee9158247cd782b070f16bd4f63	walls20.bin	videopac-yoriyoshizuki
+152800634088f5585520b0234ecc8f8c	walls3.bin	videopac-yoriyoshizuki
+11d411db0f9b8783154d36c276e5553f	walls4.bin	videopac-yoriyoshizuki
+31611fad0fb4a267054722a7952c7a6c	walls5.bin	videopac-yoriyoshizuki
+7f087c1562aa54b929dbb7e1b4c17431	walls8.bin	videopac-yoriyoshizuki
+30249d4a85b18f0320f1b5a00e55b5c7	War of Nerves (1981)(Philips)(EU-US).bin	videopac-yoriyoshizuki
+30249d4a85b18f0320f1b5a00e55b5c7	War of Nerves (USA, Europe).bin	videopac-yoriyoshizuki
+eace22243ac06f7ce48bd26ffde4c541	wild2.bin	videopac-yoriyoshizuki
+516b262f53e94352f2c3d9ad03848e5b	wild2_ody2.bin	videopac-yoriyoshizuki
+aaf60dd36e0ac5602daffbf37cdd5ffb	xevious wip1.bin	videopac-yoriyoshizuki
+9dd405e6b4fcd3d7d11b9e642a582425	xevious wip1a.bin	videopac-yoriyoshizuki
+e94afce69652db12be1c250c332fd858	xevious wip2.bin	videopac-yoriyoshizuki

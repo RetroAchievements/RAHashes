@@ -1,0 +1,16 @@
+4a6b79b499ffd536b3e5dc193c730156	Final Bubble Bobble (Japan) [T-En by Brad Smith v1.0].sms	sms-t-en
+e518a4a7f774db74cb0ad5a2a1795dfe	Fist of the North Star (Japan) [T-En by PhalanX v1.0] [Add by Jackic 0.99] [Title A] [n].sms	sms-t-en
+1cba719f4ec907ac70bc6b568f647e42	Fist of the North Star (Japan) [T-En by PhalanX v1.0] [Add by Jackic 0.99] [Title B] [n].sms	sms-t-en
+640ca9d581ee60c7d34a32e986641699	Fist of the North Star - Hokuto no Ken (Japan) [T-En by PhalanX v1.0] [Add by FlashPV v1.0] [n].sms	sms-t-en
+b8d1a1689bc0bd9e24372ac8b4c76643	Fist of the North Star - Hokuto no Ken (Japan) [T-En by PhalanX v1.0] [n].sms	sms-t-en
+e822b83dcb1f5c7b7a40f3d97fac4b5b	Genius Bakabon, The (Japan) [T-En by Cccmar & FCandChill & TheMajinZenki v1.2] [n].sms	sms-t-en
+471e80fed601261667b1fc6242396239	Highschool! Kimengumi (Japan) [T-En by SMS Power! v1.00] [n].sms	sms-t-en
+b0f9bc2dcfc839d687c4f1fabd225bb0	Let's Check with a Game! - Traffic Safety (Japan) (Proto) [T-En by SMS Power! v1.00] [n].sms	sms-t-en
+a17a02ce01432bf3b72949f5a0953d99	Phantasy Star (Japan) [T-En by SMS Power! v2.3.1] [Add by FlamePurge] [Classic Names].sms	sms-t-en
+29e358202aeb97c95ab7fd1f610c5436	Phantasy Star (Japan) [T-En by SMS Power! v2.4] [Literal].sms	sms-t-en
+60df04136486f4ff6d0896b6f2769b05	Phantasy Star (Japan) [T-En by SMS Power! v2.4].sms	sms-t-en
+8a61750ef3cd4b708165a81857d9c45b	Rygar - Legendary Warrior (Japan) [T-En by Psyklax v1.0] [n].sms	sms-t-en
+28ae421daab2c279a796cf76a8a31d10	Solomon's Key - Tears of Princess Lihita (Japan) [T-En by FlashPV v1.0] [n].sms	sms-t-en
+7fe99d144e6962dcc32f0a7012c01f50	Solomon's Key - Tears of Princess Lihita (Japan) [T-En Ichigobankai v1.0] [n].sms	sms-t-en
+c0610b72ae404ebeabfacb8845e8d547	Story of Mio (Japan) [T-En by Filler & SSTranslations v1.0] [n].sms	sms-t-en
+c5c6724fa8981dc47f9fc6165c021a33	Sukeban Deka II (Japan) [T-En by Enigmaopoeia & SSTranslations v1.0] [n].sms	sms-t-en

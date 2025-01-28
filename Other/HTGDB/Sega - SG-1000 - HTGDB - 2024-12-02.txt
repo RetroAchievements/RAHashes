@@ -1,0 +1,348 @@
+cba9c69675bb921aa07050fd2a2dbecb	[BIOS] Othello Multivision (Japan).sg	sg1k-htgdb
+b2ac0c7755e0d6ba0a737861ee190a53	007 James Bond (Japan) (Othello Multivision).sg	sg1k-htgdb
+019ccca4d5ca138719497c510dea926b	007 James Bond (Taiwan) (Othello Multivision) (Unl).sg	sg1k-htgdb
+47cd2d0bbcb879302f83f2f7058f49d4	Bank Panic (Japan).sg	sg1k-htgdb
+11a5694d472766fed9c6eb1e09a851bf	Bank Panic (Taiwan) (Unl).sg	sg1k-htgdb
+d2b0524a2cf5754c0fa1c900e9ecb06b	Black Onyx, The (Japan).sg	sg1k-htgdb
+0bf5b6959fc1b58d8e37f9647f47a0b3	Bomb Jack (Japan, Australia) (Ja).sg	sg1k-htgdb
+20545caa00c6a8512ccd767e4911575a	Bomb Jack (Korea) (En) (English Logo) (Unl).sg	sg1k-htgdb
+9cdd1462ddeaef610d15dba01bd926f0	Bomb Jack (Korea) (En) (Korean Logo) (Unl).sg	sg1k-htgdb
+a50378abe2636c5c47966b74a14dd127	Bomb Jack (Taiwan) (Chinese Logo) (Unl).sg	sg1k-htgdb
+8db486c33c7d688bd5c0e9a81dee2d29	Bomb Jack (Taiwan) (English Logo) (Unl).sg	sg1k-htgdb
+cd87c1a8cd8bc137673a7fb057e2142e	Bomberman Special (Taiwan) (Chinese Logo) (Unl).sg	sg1k-htgdb
+25044d56bc18ad8b66a726c2f9d0b26b	Bomberman Special (Taiwan) (English Logo) (Unl).sg	sg1k-htgdb
+25c742e43bc9f1329f3f26502fefb10a	Borderline (Japan, Europe, Australia, New Zealand) (En).sg	sg1k-htgdb
+d87daad7de33105d703b613052ccc2dd	C_So! (Japan).sg	sg1k-htgdb
+25ac91afc22f7a09ff4543af653cd281	C_So! (Taiwan) (Unl).sg	sg1k-htgdb
+1c2c5851deb0e9142b5ff19e8dcd8442	Cabbage Patch Kids (Taiwan) (Unl).sg	sg1k-htgdb
+d047c10d6b27cf34ccb66340a089523a	Castle, The (Japan).sg	sg1k-htgdb
+a85ec287bb4151875446c245750fb8c0	Castle, The (Taiwan) (Unl).sg	sg1k-htgdb
+286ba24b335a1600dfc611a0a9fe7875	Chack'n Pop (Japan).sg	sg1k-htgdb
+64c1a50fb9f0293d7143d53579e2e62f	Chack'n Pop (Taiwan) (Unl).sg	sg1k-htgdb
+e8698b111a3548088932fd4528316a1d	Challenge Derby (Japan) (Rev 1) (Othello Multivision).sg	sg1k-htgdb
+308e337a863bb9fa952426ef99180aa7	Champion Baseball (Japan, Australia, New Zealand) (Ja).sg	sg1k-htgdb
+ec2d21452b4cbb6b302e9319fdab7e39	Champion Baseball (Taiwan) (Unl).sg	sg1k-htgdb
+71c32b1cf1e85d217421068ac8ccc655	Champion Billiards (Japan).sg	sg1k-htgdb
+256a6d4bd6dbbe7aa99de513eac6ba2f	Champion Billiards (Taiwan) (Unl).sg	sg1k-htgdb
+3f54756fd73c3fbe33b56d7954d12f31	Champion Boxing (Japan, New Zealand) (Ja).sg	sg1k-htgdb
+3e346c6137cab263643e42411f64a74d	Champion Boxing (Taiwan) (Unl).sg	sg1k-htgdb
+1d87490269964239b64244fcabd18fe1	Champion Golf (Japan, Europe, Australia, New Zealand) (Ja).sg	sg1k-htgdb
+6a865bf09faab7fabacb95eb70e3fc9d	Champion Golf (Korea) (En) (Unl).sg	sg1k-htgdb
+b3af58c60e62bb85522ddc29096cef60	Champion Ice Hockey (Japan).sg	sg1k-htgdb
+ac3dd2d12e2bdfc7804cb2ef2c213162	Champion Ice Hockey (Korea) (En) (Unl).sg	sg1k-htgdb
+1b4badba14b7cca71f159f1ce9fba29e	Champion Ice Hockey (Taiwan) (Unl).sg	sg1k-htgdb
+ed6e4e8e081b56be488f57abcb51a7e5	Champion Kendou (Japan).sg	sg1k-htgdb
+c19ccd8e05e8230d91a8d2c8430d23bc	Champion Kendou (Taiwan) (Unl).sg	sg1k-htgdb
+da9a4589303370e8a751c16b2cbfa628	Champion Pro Wrestling (Japan).sg	sg1k-htgdb
+810064687e1614b6a7fb985b82806d31	Champion Soccer (Japan, Europe) (Ja).sg	sg1k-htgdb
+f29b59c3588e3b952e1ad79c1e1dc8a0	Champion Soccer (Taiwan) (Unl).sg	sg1k-htgdb
+79e8f456fae5d3719731e960c9b4c612	Champion Tennis (Japan, Europe, Australia, New Zealand) (Ja).sg	sg1k-htgdb
+f49d9ea611ccb9289994774406f20d06	Championship Lode Runner (Japan, Australia) (Ja).sg	sg1k-htgdb
+9b1cc0bdbdf3aeffc655a965dec4aa94	Championship Lode Runner (Taiwan) (Unl).sg	sg1k-htgdb
+ee557c7811f03c44965a56b80801a3b9	Choplifter (Japan, Australia) (Ja).sg	sg1k-htgdb
+1ef268192df49e92d1f074e1bc3200dd	Choplifter (Korea) (En) (Unl).sg	sg1k-htgdb
+ab4105fd66e149e2bfbd5e5566e6aa76	Choplifter (Taiwan) (Chinese Logo) (Unl).sg	sg1k-htgdb
+dac1f7d97039682793378fdba7ee2d8e	Choplifter (Taiwan) (English Logo) (Unl).sg	sg1k-htgdb
+3427ae928bce91b314e62be92dbf8446	Choplifter (Taiwan) (No Logo) (Unl).sg	sg1k-htgdb
+05940e2d44f81e163dab4a5a6f29645e	Circus Charlie (Korea) (Unl).sg	sg1k-htgdb
+46b1f9c6693ed7d1d0c5a6d72872398a	Circus Charlie (Taiwan) (Unl).sg	sg1k-htgdb
+94bc20eabd0674e4f7b30762359c66c1	Complete Arcade Pack Collection, The (New Zealand) (SF-7000).sf	sg1k-htgdb
+5f4d3c629e37e83794233b3cffc4cc0e	Congo Bongo (Japan, Europe, Australia, New Zealand) (En) (Rev 1).sg	sg1k-htgdb
+499fe90988a60a6325465606695e7754	Congo Bongo (Taiwan) (Unl).sg	sg1k-htgdb
+79f15598828e697e75c65130262d8d94	Doki Doki Penguin Land (Japan).sg	sg1k-htgdb
+c9412b2aa1de5070734297573dba7132	Doki Doki Penguin Land (Taiwan) (Unl).sg	sg1k-htgdb
+64d3cc8117292f6d5af8e1aad95bcb90	Dragon Wang (Japan) (Rev 1).sg	sg1k-htgdb
+ea0c028dabd39961eb2db8f2f17c107d	Dragon Wang (Taiwan) (Chinese Logo) (Unl).sg	sg1k-htgdb
+0dc1cde8eea986eee30c038f18a996d7	Dragon Wang (Taiwan) (English Logo) (Unl).sg	sg1k-htgdb
+8eb2ab42d2bc3f3568e85cba2b46a251	Drol (Japan, Australia) (Ja).sg	sg1k-htgdb
+0facbc1668dedbcb579d08df4e232699	Drol (Korea) (Unl).sg	sg1k-htgdb
+0423892eefd3d09a7102651f8980cc39	Drol (Taiwan) (Unl).sg	sg1k-htgdb
+23c751fe6bb8bd4f8c0cd9b0d39adecd	Elevator Action (Japan).sg	sg1k-htgdb
+3787826f22b244b48933f177306706b0	Elevator Action (Taiwan) (Unl).sg	sg1k-htgdb
+7f0ae039dd072d825ebfd2d3bf02a2a0	Exerion (Japan, Europe, Australia, New Zealand) (En).sg	sg1k-htgdb
+eb3f8f679f32e6bcc4489280df7be7f3	Exerion (Korea) (Unl).sg	sg1k-htgdb
+c8519ef63183e8398dde0bd3e7e2641e	Exerion (Taiwan) (Unl).sg	sg1k-htgdb
+0bb6d2a43b340f56366edabd7e21fed4	Flicky (Japan) (Rev 1).sg	sg1k-htgdb
+5d4c4c65e668196a3d0eadcd260a0bf6	Flicky (Taiwan) (Unl).sg	sg1k-htgdb
+ac95c0655360f667e3ad705e2eb7367a	Girl's Garden (Japan, Australia) (Ja).sg	sg1k-htgdb
+83065f5045611f3d6d7b67382357dcc6	Girl's Garden (Taiwan) (Unl).sg	sg1k-htgdb
+cb25a12e86c729f6a51ba3dea91c1547	Golgo 13 (Japan).sg	sg1k-htgdb
+19707d73ce1a664cba608e9c72e334c2	GP World (Japan) (Rev 1).sg	sg1k-htgdb
+5a533ddf9c0c72c57376ea151ece1c03	GP World (Taiwan) (Unl).sg	sg1k-htgdb
+43c23a134aec3ab424405780ff729d54	Gulkave (Japan).sg	sg1k-htgdb
+33902566e0070ef7c53f2afa97ec9968	Gulkave (Korea) (Unl).sg	sg1k-htgdb
+f3f1042745e96e29bfdf920d031b8cd5	Guzzler (Japan) (Othello Multivision).sg	sg1k-htgdb
+36548be02803aa49fe0e918626e240c1	Guzzler (Taiwan) (Othello Multivision) (Unl).sg	sg1k-htgdb
+d10f38c614113cb34bbf4a19b487e1fb	H.E.R.O. (Japan).sg	sg1k-htgdb
+6136e2e6dda483cb311c72843c2ee5cd	H.E.R.O. (Taiwan) (Chinese Logo) (Unl).sg	sg1k-htgdb
+89be9de818fa13dca0ececd6575af06a	H.E.R.O. (Taiwan) (English Logo) (Unl).sg	sg1k-htgdb
+314c865decbe6f578d9bfa23f27a08e6	Hang On II (Japan, Australia) (Ja).sg	sg1k-htgdb
+21b077d68d38be01837d534b0c1be2e9	Hang On II (Taiwan) (Chinese Logo) (Unl).sg	sg1k-htgdb
+ebe4433a6250abd81be69f15b41c566c	Hang On II (Taiwan) (English Logo) (Unl).sg	sg1k-htgdb
+33c4b489f61086c10e9f713519ddc7bc	Home Mahjong (Japan) (Rev 1).sg	sg1k-htgdb
+8fab99c3cc9a7a98d8873eaf215a5fa0	Home Mahjong (Taiwan) (Unl).sg	sg1k-htgdb
+8be690d357a99abd26ebb5378e9c0153	Hustle Chumy (Japan).sg	sg1k-htgdb
+c06fa11763d119620f6a908516c1e8ad	Hustle Chumy (Taiwan) (Unl).sg	sg1k-htgdb
+d8e6d89d520c91a9ea219291b55284bb	Hyper Sports (Japan).sg	sg1k-htgdb
+c40aecc0fc766bb26c76b6855bbe4fad	Hyper Sports (Korea) (Unl).sg	sg1k-htgdb
+f72f3def79ffd82fe2224f4732b2b994	Hyper Sports (Taiwan) (Unl).sg	sg1k-htgdb
+e329ee584187d4b156e26faf3ef1a960	Hyper Sports 2 (Taiwan) (Unl).sg	sg1k-htgdb
+9334ef849d22ae49f1d816ea068bf055	I.Q. (Korea) (Unl).sg	sg1k-htgdb
+91b5846daac5dffc5f1b72c0378e98d7	Kamikaze (France) (En) (SF-7000) (Unl).sf	sg1k-htgdb
+ff28e684eb3952ae3f7cf3e3d1c507ef	King's Valley (Taiwan) (Unl).sg	sg1k-htgdb
+e0321cd713ec1b48ff88f7df13e3ce28	Knightmare (Taiwan) (Unl).sg	sg1k-htgdb
+cfc8e61f51388609421ffe87539cad44	Legend of Kage, The (Taiwan) (Unl).sg	sg1k-htgdb
+4b4f02eb3cf7d5f9dcd1311d72e6d742	Lode Runner (Japan, Europe, Australia) (En).sg	sg1k-htgdb
+5146c83814c930be839f123dcd3b591d	Lode Runner (Korea) (Unl).sg	sg1k-htgdb
+2bea9ee88e177a13d7961017dd4f6120	Lode Runner (Taiwan) (Unl).sg	sg1k-htgdb
+c12474e0a2556adb2478bc4d99faba51	Magical Kid Wiz (Taiwan) (Unl).sg	sg1k-htgdb
+014f702585a68399afe55ea63ba0f7de	Magical Tree (Taiwan) (Unl).sg	sg1k-htgdb
+1dbb5c85962c2110ffe35ec536f96329	Mahjong (Japan) (Rev 1).sg	sg1k-htgdb
+bb8da563cb6a38611b736c4973b56e1e	Mahjong (Taiwan) (Unl).sg	sg1k-htgdb
+cda3731948a50bb396b380f7fc82ec12	Monaco GP (Japan, Europe) (Ja) (Rev 2).sg	sg1k-htgdb
+d7ab64f92c3d146565e4f9d771fec7c9	Monaco GP (Taiwan) (Unl).sg	sg1k-htgdb
+56c559d0d82a3e6fb2e87230d39f32f4	N-Sub (Japan, Europe, Australia, New Zealand) (Ja).sg	sg1k-htgdb
+1a800abac4c55948528d2a62771c10a9	N-Sub (Taiwan) (Unl).sg	sg1k-htgdb
+28d83150c298bcdae6aec51cc2c6975a	Ninja Princess (Japan, Australia) (Ja).sg	sg1k-htgdb
+96c1dc438a7b4269ee0d5414a6f13dc2	Ninja Princess (Taiwan) (Unl).sg	sg1k-htgdb
+0195c955df38b55f6f12694179503f10	Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision).sg	sg1k-htgdb
+009a804fb1d28775519312ffdf3c8d70	Okamoto Ayako no Match Play Golf (Taiwan) (Othello Multivision) (Unl).sg	sg1k-htgdb
+0f45fa8e9b985fd5c6545645462b9400	Orguss (Japan, Europe, Australia, New Zealand) (En).sg	sg1k-htgdb
+3f429704761d34d7793e7123a183d7f6	Othello (Japan).sg	sg1k-htgdb
+aa741b3264ee312c291b2c8ab0d73a04	Othello (Taiwan) (Unl).sg	sg1k-htgdb
+8f46800e6fc7d5a40716045f6d739932	Pacar (Japan, Europe, Australia, New Zealand) (En).sg	sg1k-htgdb
+722da0d7454c99ba46d432ee3d003464	Pacar (Taiwan) (Unl).sg	sg1k-htgdb
+37f5e516d9fbce05052204b67379a6da	Pachinko (Japan).sg	sg1k-htgdb
+eadae13ff73047a47f354e258c12619e	Pachinko II (Japan).sg	sg1k-htgdb
+a3409283bf8c808a15095cc005a74975	Pachinko II (Taiwan) (Unl).sg	sg1k-htgdb
+97f8b798ad727563b1ee42cf41697fed	Ping Pong (Taiwan) (Unl).sg	sg1k-htgdb
+2b99db5c8a7a9a45c174088bab310803	Pippols (Taiwan) (Unl).sg	sg1k-htgdb
+38ae610eb6266d4db8bc6d3dcb8fcd4a	Pitfall II - The Lost Caverns (Japan) (Rev 1).sg	sg1k-htgdb
+030363fabd71be3c077168918fcbb51d	Pitfall II (Taiwan) (Chinese Logo) (Unl).sg	sg1k-htgdb
+7f2026d17c336942756ffb77ad9942c5	Pitfall II (Taiwan) (English Logo) (Unl).sg	sg1k-htgdb
+7f841aa0c225662e26ca7a8df20b2eb8	Pop Flamer (Japan, Europe, Australia, New Zealand) (En).sg	sg1k-htgdb
+e5082018ff7cbac17db003f159ab2dfb	Pop Flamer (Taiwan) (Unl).sg	sg1k-htgdb
+180fee8dc10c0949d86ae2eec20751f0	Poseidon Wars + Space Panic + Rambo (France) (En) (SF-7000) (Unl).sf	sg1k-htgdb
+a768a8ae921126300e98f9d918a4a0c9	Q-bert (Japan) (Othello Multivision).sg	sg1k-htgdb
+3071f939aaa0911fc0907aae5daaa160	Rally-X (Taiwan) (Chinese Logo) (Unl).sg	sg1k-htgdb
+42f2844dcc4b3979b7f538ef9f52e4a5	Rally-X (Taiwan) (English Logo) (Unl).sg	sg1k-htgdb
+e872bbe06fcee32e53fb9e11b61fe762	Road Fighter (Taiwan) (Chinese Logo) (Unl).sg	sg1k-htgdb
+be975a2510125ff4b545bb162826ef26	Road Fighter (Taiwan) (English Logo) (Unl).sg	sg1k-htgdb
+108ffe4ba5c2c8c5e0459cb7f0cfac0e	Rock n' Bolt (Japan).sg	sg1k-htgdb
+f05b48934a7d29ab2719273cbdc45b28	Rock n' Bolt (Taiwan) (Chinese Logo) (Unl).sg	sg1k-htgdb
+0cbbd9fafc39cccefd8d0b8fca3b3d33	Rock n' Bolt (Taiwan) (English Logo) (Unl).sg	sg1k-htgdb
+f77826f62d943c4a24f7fb9c3bb4a5f9	Safari Hunting (Japan, Europe, Australia, New Zealand) (Ja).sg	sg1k-htgdb
+48185bc0b8ed743c6a44f2759219b955	Safari Hunting (Taiwan) (Unl).sg	sg1k-htgdb
+8384956e456a91ca59f9c5e72f1cb1c4	Safari Race (Japan, Europe, Australia, New Zealand) (Ja).sg	sg1k-htgdb
+eac09096175cbb2fb49468d475fdec88	Safari Race (Taiwan) (Unl).sg	sg1k-htgdb
+cf02277eacdf348dbde960769a0b0d55	San-nin Mahjong (Japan) (Othello Multivision).sg	sg1k-htgdb
+fe641daee46a4f55aa79dcb23114971c	San-nin Mahjong (Taiwan) (Othello Multivision) (Unl).sg	sg1k-htgdb
+3f2acc9de65c8496c3d8470ef12dc210	Sega Flipper (Japan, Europe, Australia, New Zealand) (En).sg	sg1k-htgdb
+3cfec6aa7bfdf81b40b7ee6d630f5c03	Sega Flipper (Taiwan) (Unl).sg	sg1k-htgdb
+e2619cf7c307ac1916c534519f6043d9	Sega-Galaga (Japan, Australia) (Ja).sg	sg1k-htgdb
+7e31ffe1446d6b792d0debf87bcc3f75	Sega-Galaga (Taiwan) (Unl).sg	sg1k-htgdb
+63713feb1c8b8da77bd2e8cf03fe0a4c	Serizawa Hachidan no Tsumeshougi (Japan).sg	sg1k-htgdb
+a8094de8e2c72e9490e421f66ba2777b	Shinnyushain Tooru-kun (Japan).sg	sg1k-htgdb
+ff6c07ce43d99b4ef732b5df7e73a5a7	Shinnyushain Tooru-kun (Taiwan) (Unl).sg	sg1k-htgdb
+7b0f2be3588337df59959ababbefe505	Sindbad Mystery (Japan, Europe, Australia, New Zealand) (En).sg	sg1k-htgdb
+db6b5ff4d8c8cef6d0c9f2d004f56bf6	Sindbad Mystery (Taiwan) (Unl).sg	sg1k-htgdb
+6cae3b6286041e742020aeb3cd2bdf52	Soukoban (Japan, Australia) (Ja).sg	sg1k-htgdb
+cbd4d466882ba81d5eb63e849797fd4c	Soukoban (Korea) (Unl).sg	sg1k-htgdb
+417368339f45d0ede7df03c9a6f96b27	Soukoban (Taiwan) (Unl).sg	sg1k-htgdb
+b6aff368af8c8e1f0ae257c519d96ca8	Space Armor (Japan) (Rev 1) (Othello Multivision).sg	sg1k-htgdb
+87a97b049ec01b1803b93f06d0407586	Space Invaders (Japan).sg	sg1k-htgdb
+47359548b666e9e1b6287df5688e2fd2	Space Invaders (Taiwan) (Unl).sg	sg1k-htgdb
+2321b2a684b83d58489fda2df66ab6fb	Space Mountain (Japan) (Othello Multivision).sg	sg1k-htgdb
+c04dc7fb9d27629735edb1570ec39f00	Space Slalom (Japan).sg	sg1k-htgdb
+2cbd1f9f4927f9618390340f56f116a6	Star Force (Japan, Australia) (Ja).sg	sg1k-htgdb
+19649d51aee49a9fef103de6b1a7a17b	Star Force (Taiwan) (Unl) (Alt).sg	sg1k-htgdb
+3011655195d3a299f3a53255e0d7939a	Star Force (Taiwan) (Unl).sg	sg1k-htgdb
+22200ef1461212cacdc58f6636d759fd	Star Jacker (Japan, Europe) (En) (Rev 2).sg	sg1k-htgdb
+0104171ade3cfeaf10c92926869e2a52	Star Jacker (Taiwan) (Unl).sg	sg1k-htgdb
+cb95017c8d13d95c91129f9b3b1f6798	Star Soldier (Taiwan) (Unl).sg	sg1k-htgdb
+59d01bf1093a65e9ec08e533cfbbc5ff	Super Tank (Japan).sg	sg1k-htgdb
+e4b0859bd9cb372e41f81e593c67f225	Super Tank (Korea) (Unl).sg	sg1k-htgdb
+bcb549a442584255601dc7938accd2d6	Super Tank (Taiwan) (Unl).sg	sg1k-htgdb
+dada9d76f7743089811dcc8ec1543076	Tank Battalion (Taiwan) (Unl).sg	sg1k-htgdb
+8c2c0d7e8415ae7b0c577cf947e89e78	TwinBee (Taiwan) (Unl).sg	sg1k-htgdb
+d26fabfe84ad40ae04a2cd3dc6cf75df	Wonder Boy (Japan) (Rev 1).sg	sg1k-htgdb
+d6fab98601ade59cf90a500c05446163	Wonder Boy (Taiwan) (Unl).sg	sg1k-htgdb
+0dd197a0e1f43c0684f98b52514fce59	Yamato (Japan, Europe, Australia, New Zealand) (En).sg	sg1k-htgdb
+9c751fb92d2280d89ee9c273f3c6785a	Yamato (Taiwan) (Unl).sg	sg1k-htgdb
+b14852ce157619fd60666a6474936d69	Yie Ar Kung-Fu (Taiwan) (Unl).sg	sg1k-htgdb
+c1f51f5dbfb859b1204a812d9c08ffd3	Yie Ar Kung-Fu II (Taiwan) (Unl).sg	sg1k-htgdb
+52bbf5336c190610a0fb1ab0bdaca455	Zaxxon (Japan).sg	sg1k-htgdb
+bb1c5b1071d5b9224b7733d60465e769	Zaxxon (Taiwan) (Unl).sg	sg1k-htgdb
+0eda34ba313d3bb34558fd5939b19794	Zippy Race (Japan, Australia) (Ja).sg	sg1k-htgdb
+16856425e0bcc3ab475f46f7cfd00402	Zippy Race (Taiwan) (Unl).sg	sg1k-htgdb
+4e457a6c5b4b613f2aac3472f6827a89	Zoom 909 (Japan).sg	sg1k-htgdb
+d99925f7b3fa1961906f169b61f1a492	Zoom 909 (Taiwan) (Unl).sg	sg1k-htgdb
+deaa6e9f7bef3a7af55c6e899967bf79	007 James Bond (Japan) (Othello Multivision) (Alt).sg	sg1k-htgdb-betas-revisions
+5fac8915a1c8a84bdfcdbe4611f4652d	Challenge Derby (Japan) (Othello Multivision).sg	sg1k-htgdb-betas-revisions
+c992629aced299a29d65026178a582d8	Challenge Derby (Japan) (Rev 1) (Othello Multivision) (Alt).sg	sg1k-htgdb-betas-revisions
+f70d4bcf91d3ad9313f9800f35b49536	Champion Baseball (Japan).sg	sg1k-htgdb-betas-revisions
+7527098abb9df1db29ba9f495b06998a	Champion Boxing (Japan) (Rev 1).sg	sg1k-htgdb-betas-revisions
+3c01bb2a4414989378c252f45a4e5050	Champion Golf (Japan) (Rev 1).sg	sg1k-htgdb-betas-revisions
+0500fe7f7cbda7a9ec19be1094aa67dd	Choplifter (Japan, Australia) (Ja) (Beta).sg	sg1k-htgdb-betas-revisions
+a0620fb61aa7d023ca52c5eee559832f	Congo Bongo (Japan, Europe) (Ja) (Rev 1) (Alt).sg	sg1k-htgdb-betas-revisions
+35aa60be1827402f86065e226888fb44	Congo Bongo (Japan).sg	sg1k-htgdb-betas-revisions
+0528eed7e7ae46ec8298098f1a22d18f	Dragon Wang (Japan).sg	sg1k-htgdb-betas-revisions
+b52e308e1c0005bc1dba2ba900ad44d0	Flicky (Japan, New Zealand) (Ja).sg	sg1k-htgdb-betas-revisions
+4d9cc3764321b668d1fc238e19794312	GP World (Japan).sg	sg1k-htgdb-betas-revisions
+d7322428a4fb49ac593f80f30d3c7bd3	Home Mahjong (Japan).sg	sg1k-htgdb-betas-revisions
+d9da8a32bd3b18881dfa2b469c85944e	Mahjong (Japan).sg	sg1k-htgdb-betas-revisions
+943bca1e51476b646f19c17a9d9ab42c	Monaco GP (Japan, Europe, Australia, New Zealand) (Ja).sg	sg1k-htgdb-betas-revisions
+74121fd6f1024ee3d3f5d1db29956d7d	Monaco GP (Japan) (Rev 1).sg	sg1k-htgdb-betas-revisions
+cfced1ba39adee6a75dc830ed9c12f73	N-Sub (Japan) (Alt).sg	sg1k-htgdb-betas-revisions
+07ca24bef805f15d13d3123c765c3039	Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision).sg	sg1k-htgdb-betas-revisions
+c672bc2409443cc5bca35abd041d11e0	Pacar (Japan) (Alt).sg	sg1k-htgdb-betas-revisions
+c34260b61c6a45bbdd074df3f3e72c46	Pitfall II - The Lost Caverns (Japan).sg	sg1k-htgdb-betas-revisions
+6cd591be7b3aa4ed9c1f7038c581106a	San-nin Mahjong (Japan) (Othello Multivision) (Alt).sg	sg1k-htgdb-betas-revisions
+49c7c14879a437e60730b62a7550cdf6	Sega Flipper (Japan) (Alt).sg	sg1k-htgdb-betas-revisions
+7f7e1d564448fdce96d239ad9ebf37d6	Sega-Galaga (Japan).sg	sg1k-htgdb-betas-revisions
+49587defd7dd2e6fd87e01e7f48d132f	Space Armor (Japan) (Othello Multivision) (Alt).sg	sg1k-htgdb-betas-revisions
+16a9d6fc4a959c84db189c59fdf39d22	Space Armor (Japan) (Othello Multivision).sg	sg1k-htgdb-betas-revisions
+658ede490eae6af2b0f61dd136761d95	Star Jacker (Japan, Europe, Australia, New Zealand) (En) (Rev 1).sg	sg1k-htgdb-betas-revisions
+eccad04698782862f3785ff9708f73e8	Star Jacker (Japan).sg	sg1k-htgdb-betas-revisions
+76f29fee0cd3af921e488a276dace636	Wonder Boy (Japan, Australia) (Ja).sg	sg1k-htgdb-betas-revisions
+653d415ed202c09c08207c83f9e311eb	Yamato (Japan) (Alt).sg	sg1k-htgdb-betas-revisions
+4316cd23c96f6c662b9df5ab1de8963c	Arno Dash (PD) v1.00 under4mhz 2020-07-23.sg	sg1k-htgdb-homebrew
+47de116ffa9afaacf26314abfe2922c9	Bacachase (PD) nitrofurano 2016-10-25 2045.sg	sg1k-htgdb-homebrew
+8f7fdeb10735a95525fff482ad14c8a7	CMJN (PD) nitrofurano 2014-06-22.sg	sg1k-htgdb-homebrew
+784f9220a864953323b42aef566d667e	H7N9 (PD) nitrofurano 2016-10-24.sg	sg1k-htgdb-homebrew
+c07672a810c23e269a65a02e3893172a	Jet Paco & Jet Puri NTSC (PD) v1.00 Mojon Twins 2019-01-08.sg	sg1k-htgdb-homebrew
+e13c66c69904b94459fa46da26aca87e	Jet Paco & Jet Puri PAL (PD) v1.00 Mojon Twins 2019-01-08.sg	sg1k-htgdb-homebrew
+255bfd63a0ed3154c37f41b69718fa08	Lawnmower (PD) nitrofurano 2020-09-23.sg	sg1k-htgdb-homebrew
+66192a925bcf6e76c63667126709e97b	Libreway (PD) nitrofurano 2014-06-22.sg	sg1k-htgdb-homebrew
+f6101dc812762c662b3a6cfda04e0075	Mahjong Solitaire (PD) v1.02 under4mhz 2020-09-11.sg	sg1k-htgdb-homebrew
+1ab3aeb4cf6e61685e9104ead4f2c89b	Nyan Cat Demo (PD) v0.01 nitrofurano.sg	sg1k-htgdb-homebrew
+411ccb871af9c3a5c20323c9f6842d74	Omikuji (PD) v1 Maechio.sg	sg1k-htgdb-homebrew
+af30f2ed1c130e445b02bc977b723926	Pole Position Remake (PD) nitrofurano 2016-04-10 1925.sg	sg1k-htgdb-homebrew
+df556281f7936e023d9a0f89c3b2c908	S_Sniper (PD) v1 Maechiko.sg	sg1k-htgdb-homebrew
+3bec2aa3d11a1d1e9b1de9dbef6b513c	Snake (PD) v1 Wickeycolumbus.sg	sg1k-htgdb-homebrew
+44a7e8eaf9187835f3fb6c6ddda45327	Suepr UWOL (PD) Mojon Twins 2016-11-19 1411.sg	sg1k-htgdb-homebrew
+9513f61620d628ac6bd7e91d95d8c026	XBill (PD) nitrofurano 2018-06-02.sg	sg1k-htgdb-homebrew
+1cd4f898c25fa7af4698182708581815	BRMSX.SG	sg1k-htgdb-homebrew-fudebrowser
+419659970e4866fee468d9fcb86a0c55	BRSMS.SG	sg1k-htgdb-homebrew-fudebrowser
+5809f6f87207ea03fe2ed37852d8b149	EXPOSALT.SG	sg1k-htgdb-homebrew-fudebrowser
+3678da95a0556aef98287c595bc2f335	FudeBrowser - Winnie Cooper (SG-1000) (PD).sg	sg1k-htgdb-homebrew-fudebrowser
+ebaf88687ba5f7fd4606216de76982b7	JIRAIYA.SG	sg1k-htgdb-homebrew-fudebrowser
+218bd2449896c89c8cdb3f31b3d23c73	NEVER.SG	sg1k-htgdb-homebrew-fudebrowser
+e8c061c06b3e02acf72b35bdd31ba6c4	SHURATO.SG	sg1k-htgdb-homebrew-fudebrowser
+9978a408897e0f97ac21f080ae5e9077	SPECIAL.SG	sg1k-htgdb-homebrew-fudebrowser
+b064192a470ecdd144cb5bc6b125a1da	Bank Panic (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+b05d4599cfaccaa259b89c988263c79c	Black Onyx, The (Japan) Eng Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+9deefab109630e13d5828479395a5299	Black Onyx, The (Japan) Enhanced Eng Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+b4d5185d205676ab2bbf8f93165dff78	Black Onyx, The (Japan) Enhanced Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+45f0f8eecaee62725409f0027655e344	Bobble Bobble [Clover] (KR) Palette Hack bsittler.sms	sg1k-htgdb-palettehacks
+bac9fb34baf32524ab49a27c4e0cd09e	Bomb Jack (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+02ede1dce510e5be52798f26460d0e06	C_So! (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+a9a6899ca6853b5ae8b276d40d29100f	Castle, The (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+33c3d583ffbec51dda1de0be7f07f32c	Chack'n Pop (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+99440fa63a510c3169ed052abc566082	Chack'n Pop (Japan)(T-Eng) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+c76b6ebfdda0340c3bca0cd7723d72c0	Champion Billiards (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+62b41b513930a0897f719adabff7b53b	Champion Boxing (Japan) (MyCard) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+29747b0087f9e633370d32b1df123a58	Champion Golf (Japan) (MyCard) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+b24fc34bda476960442c88b45acd5f05	Champion Golf (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+5d104035f3b4957b5be3bc1f9646ce0c	Champion Ice Hockey (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+8cfeadaa23d8bd2ecb24abce810a3a37	Champion Kendou (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+dbf95a991f2a3c94a31cef31f6ba497d	Champion Pro Wrestling (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+d7ab56a9d40c35be923b1b0a02dcffff	Champion Soccer (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+a05389f2f70aec7d5afebbc34d2a7469	Championship Lode Runner (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+c663ddb96151fc96340489249ff79674	Choplifter (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+3b43022f53f2dfa75387941243eaf711	Congo Bongo (Japan, Europe) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+0d4e698fc6f46f440b69fe1f9e1006a8	Dokidoki Penguin Land (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+68bf24875171076a6f0ec27b00d0e0ab	Dragon Wang (Japan) (Alt) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+a6efdbd13d91b93153995753e8d04644	Dragon Wang (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+afba9c33d691f46ce552724a2895ecc0	Drol (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+a511892ec1bf1b9b19bb8366a05e2fda	Elevator Action (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+ac767930c2790f01df80454604903c5a	Flicky (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+90e9ab0805938752d3b63e4219a18831	Galaxian (KR) Palette Hack bsittler.sms	sg1k-htgdb-palettehacks
+a397c430768bcd9597e6cdab9a5eee96	Girl's Garden (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+7868564c15f59190cdef083ec4a73865	Golgo 13 (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+e7ae521e5398a1fd5a86fb82778578b2	Gulkave (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+ca2bf35a81e1ef5ced06a80f36b18977	Guzzler (Japan) (Othello Multivision) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+b78471cd4691956cd78edfa74bc6eff4	H.E.R.O. (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+c2b2c0fde8ca13a81a36c5c2814de48d	Hang-On II (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+20f914f1863ceda64dda918b9bcb2be9	Home Basic (Japan) (SC-3000) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+bf3ebf7481b811225473ab6953ef6b0a	Hong Kil Dong (Korea) Palette Hack bsittler.sms	sg1k-htgdb-palettehacks
+cd26350a812605398e7501c4c128cf33	Hustle Chumy (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+c3fda3fffa03f8b57316c9da2996343a	Lode Runner (Japan, Europe) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+a70c320e0717d622f01119c3bb59b70f	Loretta no Shouzou (Japan) Palette Hack bsittler.sms	sg1k-htgdb-palettehacks
+682113737666e8ecfd0006381639f2df	mojon-twins--super-uwol Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+cf81cd06cc6647d96c543778e00358a6	Monaco GP (Japan) (Rev 1) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+7e5b61bee13a7e2b0f210f0162fdec16	N-Sub (Japan) (40kB) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+f485b74bb7c6836f770012a9b9fa8359	New Boggle Boggle 2 (KR) Palette Hack bsittler.sms	sg1k-htgdb-palettehacks
+083da546e42af6f0ce994aa4cf44eb5d	Ninja Princess (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+a3b6c975bb76d185c5e103a6ce20bebb	Ninja Princess [T+Eng1.0 Goldenband] Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+cc2ce852b1c0aef7873a0fb1884a506d	NyanCat 0.1 Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+5e4a2268afffe520722e519851ad6a19	Orguss (Japan, Europe) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+e66462e6e27bc3638a2936edf1b2cb8f	Pacar (Japan) (40kB) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+680e49450151b17a6dd47ff904117c68	Pitfall II - The Lost Caverns (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+458e43da148130cb65a26fb02dc9c82c	Pop Flamer (Japan, Europe) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+171f45f9e85e8bd49e587cb33ea0a72d	Power Boggle Boggle (KR) Palette Hack bsittler.sms	sg1k-htgdb-palettehacks
+a044ff4766903cbed6316e14734c4293	Q-bert (Japan) (Othello Multivision) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+6bb4f17a15479280cc57dbbcdf4a4ec0	Rock n' Bolt (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+f67ebaa8ab64b69010d03eb02da7c0e0	Sega BASIC Level 2 (SC-3000) export header checksum removed Palette Hack bsittler.sms	sg1k-htgdb-palettehacks
+9de93d8cb01cd136ce1fcf4bd2797830	Sega BASIC Level 3 V1 (SC-3000) export header checksum removed 24K Palette Hack bsittler.sms	sg1k-htgdb-palettehacks
+3c6cc55b59b451016ca249b2ad8bcd08	Sega BASIC Level 3 V1 (SC-3000) export header checksum removed Palette Hack bsittler.sms	sg1k-htgdb-palettehacks
+c2a77661d6db8ad9b493423131255cc1	Sega BASIC Level 3 V1 (SC-3000) Palette Hack bsittler.sms	sg1k-htgdb-palettehacks
+c55826788778b6652e635e988b5baa73	Sega Flipper (Japan) (40kB) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+a71578f72c01bcbb9146e58f1d687a7b	Sega-Galaga (Japan) (40kB) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+f0c3404f66f3e1f6363c7418aad20228	Sindbad Mystery (Japan, Europe) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+bb816d0a2407ed530d875c565f153341	Sky Fighter (KR) Palette Hack bsittler.sms	sg1k-htgdb-palettehacks
+6f2645a6d9bc4cc5912490404e5e7f20	Sky Jaguar [Clover] (KR) Palette Hack bsittler.sms	sg1k-htgdb-palettehacks
+4c0709298249b3f32cfcfc343a2a8cfd	Soukoban (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+11e523538524c85215362053e6f9eae2	Space Invaders (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+3d11cbe156a38feac53e1c08e41bda3b	Space Mountain (Japan) (Othello Multivision) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+b2e5c6f7b357e1349a5f10c9c9a08d56	Star Force (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+16da16ed1288f92162a99ca40b710425	Star Jacker (Japan, Europe) (Rev 1) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+a84b53e584873d7f332eefa18242c860	Super Boy I (KR) Palette Hack bsittler.sms	sg1k-htgdb-palettehacks
+e88bffcdf6617d40a01bc28c4fe04d48	Super Bubble Bobble (KR) Palette Hack bsittler.sms	sg1k-htgdb-palettehacks
+1683275f5838f2d24d1b2e751853296f	Super Columns (KR) Palette Hack bsittler.sms	sg1k-htgdb-palettehacks
+28545c4b24a76996e6df0c88dfd04c30	Super Tank (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+a395add303b98825552525a09e7dfc48	Terebi Oekaki (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+7ad09d94619d25d633525f57056d6e50	Wonder Boy (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+06d6d83220166e26aa2a47e276c00cc4	xbill Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+fa3ca0fa8e60588c6a21de45313e5715	xbill Palette Hack bsittler.sms	sg1k-htgdb-palettehacks
+03860101bbe093fa4d0876b4cee20427	Zaxxon (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+665915e4f73e1e49584ab2fad2e02d25	Zippy Race (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+8c7b925394a9b68a8693990269c47192	Zoom 909 (Japan) Palette Hack bsittler.sg	sg1k-htgdb-palettehacks
+e2fca5d8609135caf5f4e2a88e38eabb	Black Onyx, The (J) T+En v1.0 [Enhanced Version] Bruce Tomlin+S.Seehorn.sg	sg1k-htgdb-translations
+1da64bab6808f8b6df159c912d3b4072	Black Onyx, The (J) T+En v1.0 [Standard Version] Bruce Tomlin+S.Seehorn.sg	sg1k-htgdb-translations
+fb5c6e4d23b192cf36d87192289444e2	Chack'n Pop (J) T+En v1.02 Goldenband.sg	sg1k-htgdb-translations
+88f09e8525267c7c5cb18a6011fe1598	Ninja Princess (J) T+En v1.0 Goldenband.sg	sg1k-htgdb-translations
+c958ae8d0ad245ce65db5bb06b1c2c0e	SG-1000 M2 Test Cartridge (Japan).sg	sgt1k-htgdb-programs-tools
+be31a84bfa537117a62eaeb8c0a07bf9	Terebi Oekaki (Japan) (Program).sg	sgt1k-htgdb-programs-tools
+28dd0578a6e3e3e64f8e4168b3a62e7e	BASIC Level II (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+fda6619ba96bf00b849192f5e7460622	BASIC Level III (Europe, Australia, New Zealand) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+a992690a81e1e8a20388aed9c31cf3fc	BASIC Level III (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+9c83442fcefbef11bad9d6e35363be0c	Chuugaku Hisshuu Eibunpou - Chuugaku 1-Nen (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+800431864400c33ac40a1f1b88c1afb9	Chuugaku Hisshuu Eibunpou - Chuugaku 2-Nen (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+b8c0c4c3c05699374d7707688e0fdfb1	Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program) (Alt).sc	sgt1k-htgdb-programs-tools-sc3000
+772e1bace3a92c45aa266ba407b3a0b3	Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+b23a6d9bafe9b2883119a943778a0503	Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program) (Alt).sc	sgt1k-htgdb-programs-tools-sc3000
+1041cb5d0498a469ff7355888e1fa91d	Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+ef11524a58bb18415856d625a0ebeb9a	Chuugaku Hisshuu Eitango - Chuugaku 1-Nen (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+477da1d7693a05b7a62100663cced631	Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program) (Alt).sc	sgt1k-htgdb-programs-tools-sc3000
+7b5c610ed285ef4e1c62521df9533806	Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+11e642419b3e345db99d2fac07467386	Electronic Salesman (Japan) (Proto) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+cb724ebeaec9619281a906671c98a952	Home BASIC (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+4eac394fb2f19fecca410c6136a6ef00	Kagaku (Gensokigou Master) (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+5e38ab4ebb38195ba852ba7ed12750a4	LinkWord (Japan) (Proto) (SC3000) (Program).sg	sgt1k-htgdb-programs-tools-sc3000
+a6114c163b4fd8b954ab6afc99466ac0	Music Editor (Europe, Australia, New Zealand) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+832b5ec426da0d70c0bcd58a79ed8ae2	Music Editor (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+1d17adcdeef7e827b7493631719adf4e	Nihonshi Nenpyou (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+e2ac39e87f9a7ddb0be8cb6f6d2c0737	Sekaishi Nenpyou (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+c07d87577918eee0327bf67538b6f5cc	Tanoshii Sansuu - Shougaku 4-Nen Ge (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+793bc3ca1b2cb0997cbe3457eafb15f7	Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program) (Alt).sc	sgt1k-htgdb-programs-tools-sc3000
+a3e3d2b2f9250875f2d30a4b2c7197ae	Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+64280bd1e75ef922fe368dba2fe7fbcf	Tanoshii Sansuu - Shougaku 5-Nen Ge (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+b4c2518922f99c4fd6a5fa89cb24385c	Tanoshii Sansuu - Shougaku 5-Nen Jou (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+f250e5b2ddd3928211174f9992e749c5	Tanoshii Sansuu - Shougaku 6-Nen Ge (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+b8fc10dd1cf58e342f045128c2614c3c	Tanoshii Sansuu - Shougaku 6-Nen Jou (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+6dbcbfcd15bd206aca31dd2557f4e44d	Uranai Angel Cutie (Japan) (SC-3000) (Program).sc	sgt1k-htgdb-programs-tools-sc3000
+8de8d82ed983f76a93a478cc7b15104e	Disk BASIC (Japan) (Rev 1) (SF-7000) (Program).sf	sgt1k-htgdb-programs-tools-sf7000
+ef06fb2c00e669ff959db4965a06f8b4	Disk BASIC (Japan) (SF-7000) (Program).sf	sgt1k-htgdb-programs-tools-sf7000
+b8791c6979086cf01a808008b4df0b08	Disk BASIC & Yeno Demo (Japan) (SF-7000) (Program).sf	sgt1k-htgdb-programs-tools-sf7000
+69f373bfc4ba492a9c12979d62fd2371	Sega Logo (Japan) (SF-7000) (Program).sf	sgt1k-htgdb-programs-tools-sf7000

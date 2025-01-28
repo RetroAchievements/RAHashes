@@ -1,0 +1,144 @@
+cee8b107acd5c4dc01741f20f88ed047	Bloody Wolf - Noise Fix.pce	pce-dominater01-hacks
+8ff2e10bb9635c71cb18bd7a8d4aa0b8	Chase HQ - Noise Fix.pce	pce-dominater01-hacks
+758a0ce4af0fa93bfaf46fad1078e464	Daimakai Mura (J)(SGX)(Hack By cyfe).pce	pce-dominater01-hacks
+d44f09dc7a851007d6c61efacdd051e2	Detana!! TwinBee (J) (HACK Wolf Blast hard difficulty).pce	pce-dominater01-hacks
+05952440d414a9b6bb49f44715ed526b	Final Lap Twin Challenge (Hack) v0.9 JCE3000GT.pce	pce-dominater01-hacks
+cf8f2dfcd7ad6696917709abacd105b7	Final Match Tennis Ladies (J) v1 Mooz.pce	pce-dominater01-hacks
+36bc10fa85a328a6eeddcfcf0e9ad071	Final Match Tennis Ladies + Training Mode (Hack) v1 Mooz, v1 tAz-07 - Copy.pce	pce-dominater01-hacks
+5fd3ab558740192e44ed18166ea95950	Final Match Tennis Ladies English (J) v1 Mooz, T+Eng v1 tAz-07 2016-11-16.pce	pce-dominater01-hacks
+4975b6669f0a47c201d16fa3fc7ec392	Final Match Tennis Ladies English + Training Mode (Hack) v1 Mooz, T+Eng & Training v1 tAz-07.pce	pce-dominater01-hacks
+6334a124d072e53aab36c80c38253b1c	Formation Soccer Human Cup '92 (J) v1 Mooz.pce	pce-dominater01-hacks
+12eaccd5739ce40d87947ba96382e638	Gunhed FX1 Hack (J)(Hack) v1.01 Phase.pce	pce-dominater01-hacks
+5f5eabdae63cdf8ddaf569e4d3a5477a	Jackie Chan (J) (Hack By cyfe).pce	pce-dominater01-hacks
+0e3a7682cb5f5b65ddf011bee0b0c2e3	Keith Courage  Wataru NOVA Suit Hack.pce	pce-dominater01-hacks
+f34080b3f8130603a416a71cc9853b03	Neutopia - Fire Wand Boss Rush.pce	pce-dominater01-hacks
+22db450687e4c1e2f41b8816d3883352	Neutopia - Speedrun Boss Rush.pce	pce-dominater01-hacks
+759b94d3233960a8afebeaba98085b99	Neutopia Reverse World Order.pce	pce-dominater01-hacks
+f480419398f7933e20096a66115a98d7	Newtopia.pce	pce-dominater01-hacks
+fca871d6190552d8d2879bae3a8e1534	Ninja Gaiden - English Boot Flag Patched (J) v1 dshadoff.pce	pce-dominater01-hacks
+64f971968f5b6eaa29511908f01bfc6a	Ninja Spirit - Audio Noise Fix (USA) v1 Artemio 2019-08-20.pce	pce-dominater01-hacks
+c29ed45b2639984eac522ce7d0a499d1	Open World Neutopia 2 (JP).pce	pce-dominater01-hacks
+17bb8eefe4e954d1750e7061872e4fb3	PC Genjin - round select.pce	pce-dominater01-hacks
+b6b0374d69f1afccb10245155768e5f6	PC Genjin Round Select Menu (Hack) v1 Chris Covell.pce	pce-dominater01-hacks
+322d7f8f0352d95572d11ee687df58fd	Pong! The Hu-Go! Game (MML Hack) Zeograd 10-30-2000.pce	pce-dominater01-hacks
+798f167710bfdfafe6cde2f3219ef0a5	Shinobi Noise Fix.pce	pce-dominater01-hacks
+0b3a57f2e62a923ba25624fce3047e79	Speedrun Boss Rush Neutopia II.pce	pce-dominater01-hacks
+357cbf03cd3761ca97e24e48fda609d0	Splatterhouse (Japan) [Hack by Guemmai v1.0] (~Splatterhouse Chrome).pce	pce-dominater01-hacks
+3c6758e103e1bd361dfeb8c5355204ab	Splatterhouse Chrome (J)(Hack) v1 guemmai.pce	pce-dominater01-hacks
+ac39b0e505e72c8e07f9753fd3784ac6	Splatterhouse Chrome.pce	pce-dominater01-hacks
+84768bb9ea6c7f13627abfd9fc1209cf	Valkyrie no Densetsu - Redraw Player sprites.pce	pce-dominater01-hacks
+bc6e21ef9dbb357bed8ee00a3a6c989d	Wonder Momo Sprite Hack 1 (Hack) v1.1 chibi.pce	pce-dominater01-hacks
+71e946f35775ce93a2f41f8260e1e6a0	Wonder Momo Sprite Hack 2 (Hack) v1.1 chibi.pce	pce-dominater01-hacks
+0c3f83227ebd8a450c581f44ccb3f3d1	Youkai Douchuuki (J) (Hack By cyfe).pce	pce-dominater01-hacks
+0ecb0133ff775aa663d247f7baed9f1f	Aoi Blink (J) [T+Eng].pce	pce-dominater01-translations-english
+603750269797f6aa516110be6ea5239f	Aoi Blink (J) [T+Eng][t1](by_qqture2005).pce	pce-dominater01-translations-english
+6fd7e17d01fc93b9be9f89fa8359a579	Aoi Blink (Japan) [T-En by Gaijin Productions & Zatos Hacks v0.99b].pce	pce-dominater01-translations-english
+aed9d6eb83d83da4c12a27b77638f528	Barunba (Japan) [T-En by Dave Shadoff & Diogo Ribeiro v1.0].pce	pce-dominater01-translations-english
+61e15e456eda86185718efa32a92570a	Bikkuriman World (J) [T-Eng_Partial_Demiforce].pce	pce-dominater01-translations-english
+fe874c6cc4bfe17292c1e0c735f5c915	Bikkuriman World (J) [T+Eng1.00_Demiforce].pce	pce-dominater01-translations-english
+7a13bd257402efafff3c33d9ba7d4ae4	Bikkuriman World (Japan) [T-En by Demiforce v1.00].pce	pce-dominater01-translations-english
+5dfee629e187c9f69e48f09585c14528	Bouken Danshaku Don - The Lost Sunheart (J) T-Eng Test 2 toktogu.pce	pce-dominater01-translations-english
+4675116aa55dcf17f6311142d43808ec	Bubblegum Crash! - Knight Sabers 2034 (Japan) [T-En by Dave Shadoff & Filler & Tomaitheous v1.0].pce	pce-dominater01-translations-english
+9dcfed2ba5b59fa8f97387e01bb96f66	City Hunter (Japan) [T-En by Cabbage v1.1].pce	pce-dominater01-translations-english
+a2b1c24c8701e930ae9cf0b48d0873ce	Crest of Gaia, The (Japan) [T-En by Derrick Sobodash & Benjamin Whitting v1.3] [n].pce	pce-dominater01-translations-english
+45195abbbdaff8dd8d8c521b84f1698d	Die Hard (Japan) [T-En by Spinner 8 & DarknessSavior v1.0].pce	pce-dominater01-translations-english
+2ee1759239d5e0b1dff0945d7266f54c	Dragon Egg! (Japan) [T-En by Cabbage & Onionzoo v1.0].pce	pce-dominater01-translations-english
+7fc06f2e3131c1cfcddff6c69d54b8b9	Energy (Japan) [T-En by Cabbage & Onionzoo v1.01].pce	pce-dominater01-translations-english
+090723391ac1728bf23192fc5496e654	F-1 Pilot - You're King of Kings (Japan) [T-En by Jink640 & MrRichard999 v1.0].pce	pce-dominater01-translations-english
+4ed3f4820b238d5c1cb49dcaf24f382a	Fairytale Dreams of Alice, The (Japan) [T-En by Dave Shadoff & Diogo Ribeiro & Filler & MooZ v1.0] [n].pce	pce-dominater01-translations-english
+e161b34d6bcdbcfe582f943b2eef5715	Final Match Tennis (Japan) [T-En by tAz-07 v1.2].pce	pce-dominater01-translations-english
+5fd3ab558740192e44ed18166ea95950	Final Match Tennis Ladies (Japan) [Hack by MooZ v1.0] [T-En by tAz-07 v1.0] [HMCD2002 Extract].pce	pce-dominater01-translations-english
+724726107e68455e57393b7c9d068109	Flying Trooper X-Serd (Japan) [T-En by Nebulous Translations v1.0] [n].pce	pce-dominater01-translations-english
+3616bf19f2beb256d13ed4bd77533b6a	Flying Trooper X-SERD Hisou Kihei (Japan) T+Eng v1 Nebulous.pce	pce-dominater01-translations-english
+c4474a42a6373d6a8e96c71c4a42beae	Gai Flame (Japan) [T-En by Nebulous Translations v0.98].pce	pce-dominater01-translations-english
+257c9897aa80194a5e9c5f5deac2219f	Gaia no Monshou (Japan) (Translated En).pce	pce-dominater01-translations-english
+4956ab8684d322a35f2238eb477ad1f7	Ganbare! Golf Boys (Japan) [T-En by AgentOrange & Jink640 & MrRichard999 v0.99].pce	pce-dominater01-translations-english
+b775179329ea1488dd52c5e76387a26a	Gekisha Boy (J) [T+Eng].pce	pce-dominater01-translations-english
+4293b1c07f9de4c32075cfa00963379c	Gekisha Boy (Japan) [T-En by Zatos Hacks v0.99].pce	pce-dominater01-translations-english
+7ecdc619c894f5dc65ed6abcf06f07f3	Hanii in the Sky (Japan) [T-En by Eadmaster v0.3] [i].pce	pce-dominater01-translations-english
+015b8a761e1c3a8d0d474ef7e1063a55	Honey in the Sky (Japan) [T-En by Cabbage & Filler & Diogo Ribeiro v1.0] [n].pce	pce-dominater01-translations-english
+ca65de337ffe7b415311ebcfa4390116	Jaseiken Necromancer (Japan) [T-En by Pikachumanson v0.25] [i].pce	pce-dominater01-translations-english
+1aee6f07eca2ba13b07ca9e897f1220f	Jaseikin Necromancer (J) [T-Eng] [Pikachumanson] [V-0.01b A-2013].pce	pce-dominater01-translations-english
+79216bf0956d23b58331b98af6da6c4a	Knight Rider Special (Japan) [T-En by Psyklax v2.0].pce	pce-dominater01-translations-english
+d6fd1f828ab9eb0c31b62beddf46e6d8	Knight Rider Special (Japan) [T-Eng] [T-Psyklax] [V-1.0 A-2013].pce	pce-dominater01-translations-english
+7c782bebf06a4c500c045ed2273ee440	Kore ga Pro Yakyuu '89 (Japan) [T-En by AgentOrange & Jink640 & MrRichard999 v0.99].pce	pce-dominater01-translations-english
+561e6b626d32bee86b2a1dc1999744ba	Kore ga Pro Yakyuu '90 (Japan) [T-En by AgentOrange & Jink640 & MrRichard999 v0.98].pce	pce-dominater01-translations-english
+6b56d548b740cdbbc2993b5a8f03ffd4	Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl) [T-En by EsperKnight & Filler & Grant Laughlin & Tomaitheous v1.0].pce	pce-dominater01-translations-english
+5aa8d5aed97cff1339f5e45b824f3979	Lode Runner - Lost Labyrinth (J) [T+Eng_DavidShadoff].pce	pce-dominater01-translations-english
+5a4b96646ef109fdb8e7d9e10da02103	Lode Runner - Lost Labyrinth (Japan) [T-En by Dave Shadoff v0.99].pce	pce-dominater01-translations-english
+c8161c2a1bd1369f313977fa9a5a9fa1	Maerchen Maze (J) [T+ENG] [t2](by_qqture2005).pce	pce-dominater01-translations-english
+f34299acd4a789ad51e7b10be3a8947d	Maerchen Maze (Japan) [T-En by MooZ & Shubibiman v1.1].pce	pce-dominater01-translations-english
+0e4dfb8449b2f825af396f0c577b6ef2	Maison Ikkoku (Japan) [T-En by Dave Shadoff & Filler v1.01].pce	pce-dominater01-translations-english
+6b33184f381d3bfc9870f5ad55b8c78a	Makai Hakkenden Shada (Japan) [T-En by Cabbage & Shubibiman v1.0].pce	pce-dominater01-translations-english
+5b90818137e6ea8a266fe625a297280f	Mashin Hero Wataru (Japan) [T-En by Stardust Crusaders v1.00] [n].pce	pce-dominater01-translations-english
+b125071c3a9c8b039ecff59b48930c0f	Naxat Stadium (Japan) [T-En by Jink640 & MrRichard999 v0.98].pce	pce-dominater01-translations-english
+66c8377ce9d5cbc5a468ee2497b30d38	Necromancer (J) T+Eng v0.01b pikachumanson.pce	pce-dominater01-translations-english
+c0a3afb6d541694f627a43e7553e4f0e	Obo Chama-kun - Little Princeling (Japan) [T-En by Dave Shadoff & Diogo Ribeiro & Filler & MooZ v1.0] [n].pce	pce-dominater01-translations-english
+0df6ed290544d42a6d06dcd781037bf7	Out Live (Japan) [T-En by Nebulous Translations v1.1].pce	pce-dominater01-translations-english
+a9297ae4bab0a4a35f2b15af6bfd03a4	Out Live (Japan) T+Eng v1.0 Nebulous .pce	pce-dominater01-translations-english
+69d3668ed06c4cfa02ffda75b3d37ac6	Photograph Boy - Gekisha Boy (J) T+Eng v2 Zatos.pce	pce-dominater01-translations-english
+f5b8397f328f51313f812278db362c81	Puzzle Boy (Japan) [T-En by KingMike's Translations v1.0].pce	pce-dominater01-translations-english
+dddb28ed4b10d55c87bdb1eab31ca6d9	Rabbit Punch Special (Japan) [T-En by Diogo Ribeiro v1.0] [n].pce	pce-dominater01-translations-english
+73d3f8f6f7fc6d28b298fc0c7734a2a6	Shanghai (Japan) [T-En by Dave Shadoff v0.99].pce	pce-dominater01-translations-english
+5fb0ef737dcea6a7cb8df0fbcd2670b6	Shiryou Sensen - War of the Dead [T-En Nebulous Translations v1.0].pce	pce-dominater01-translations-english
+0e5625938583f235d072eb05319853d8	Son Son II (J) [T+Eng].pce	pce-dominater01-translations-english
+28e2ab73725143965975fad17b90182a	Son Son II (J) [tr Eng1.0b].pce	pce-dominater01-translations-english
+471b66578757b269a682e75ba810b1b7	Son Son II (Japan) [T-En by Sgt. Bow Hack v1.0b] [Add by Someitalian123 v1.0].pce	pce-dominater01-translations-english
+e6d47eca9fb1d01d6a492a49904e08dd	Street Fighter II' - Champion Edition (Japan) [T-En by Cabbage v1.0].pce	pce-dominater01-translations-english
+8da3885d9c6674f33cf9bac28905d249	Tower of Druaga, The (Japan) [T-En by Procyon Lotor v1.1].pce	pce-dominater01-translations-english
+c8e415bf9bf74284e51f8d96a22caff5	Valkyrie no Densetsu (Japan) [T-En by Cabbage & Shawn Cox v1.0].pce	pce-dominater01-translations-english
+1aa52f0ad0abbe914e13edda8bcf5661	War of the Dead - Shiryou Sensen (J) T+Eng v1 Nebulous Translations.pce	pce-dominater01-translations-english
+029c30f28af4578ecbff5697ad1e772f	Wonder Momo (Japan) [T-En by Filler & Dave Shadoff & Diogo Ribeiro v1.0].pce	pce-dominater01-translations-english
+7a13bd257402efafff3c33d9ba7d4ae4	Wonderboy in Monster Land - Bikkuriman World (J) T+Eng v1 Demiforce.pce	pce-dominater01-translations-english
+cd3e22a84dccac280b9aa1334c423937	World Circuit (Japan) [T-En by FlashPV & Jink640 & MrRichard999 v1.0].pce	pce-dominater01-translations-english
+212884e64a1c968b0ebe355575589844	Youkai Douchuuki (Japan) [T-En by Cabbage v1.0].pce	pce-dominater01-translations-english
+735316b473f1fbc8bc0b1809e0744819	Bikkuriman World (J) [T-Fre1.02_Raph99].pce	pce-dominater01-translations-french
+9fdd357b0f6d080c21b708a98afb79f8	Bikkuriman World (J) [T-Fre90%_Raph99_Nebola_Airbud].pce	pce-dominater01-translations-french
+c3ebc56fbc293544a2e15b948dbc825b	Bikkuriman World (J) [T+Fre1.02final_Raph99].pce	pce-dominater01-translations-french
+cd8263d44e1dc47fffc6eeddab507a5a	CHEW-MAN-FU (U) [T+Fre_generation IX].pce	pce-dominater01-translations-french
+c10db2f2e63dbea14dfc737ddcf0f5a1	Double Dungeons (U) [T+Fre75%_Raph99].pce	pce-dominater01-translations-french
+5bd630b1fa8fad354c3658971e84fd53	Dragon Spirit (U) [T+Fre99%_Raph99].pce	pce-dominater01-translations-french
+1d7fbd0f8aed6c7fe2cd2e66a17973fc	Dragon's Curse (U) [T+Fre99%_Raph99].pce	pce-dominater01-translations-french
+2cf4bdb01accb3c6e920e418de16d47f	Gradius (J) [T+Fre_terminus].pce	pce-dominater01-translations-french
+c2e57a78c70611fc425836bd4be3864e	Gradius (J) [Tr Fr1.0 Terminus].pce	pce-dominater01-translations-french
+a3e0b99242c56a9f86164b4ad6525fbe	KEITH COURAGE IN ALPHA ZONES (U) [T+Fre_generation IX BETA].pce	pce-dominater01-translations-french
+5337d770280686fcb02037abacb59b5e	king of casino (U) [T+Fre_nec-ro-pole].pce	pce-dominater01-translations-french
+2f8d70ab0f57dab3a9282702211aedc7	Legend of Hero Tonma, (U) [T+Fre95%_FagEmul].pce	pce-dominater01-translations-french
+28cf38c7cbf1ac29e528d76c395d2273	Neutopia (U) [a1] [T+Fre100].pce	pce-dominater01-translations-french
+99ba9a15b7c17931364a845cf071f569	Neutopia (U) [T+Fre95%_Raph99_Nebola_Airbud].pce	pce-dominater01-translations-french
+ec21c2faeb9c43284bde97d73987e326	SHOCKMAN (U) [T+Fre_terminus].pce	pce-dominater01-translations-french
+0855433aa4ce4a992d32d43cbd0309c5	ShockMan (U) [T+Fre].pce	pce-dominater01-translations-french
+12a3d89fc4ba9cce08806dbca71c84fc	Splatterhouse (U) [tr Fre1.0_Terminus].pce	pce-dominater01-translations-french
+b5749b616474e7f4ce6c4b01d888d21d	Zipang (Japan) [tr Fr v1.0 traf].pce	pce-dominater01-translations-french
+a8fc0ea236d2057b8f44863ef1353349	Bikkuriman World (J) [T+Gre].pce	pce-dominater01-translations-greek
+792d1d2056b9845543e79afaea49ef3d	Keith Courage in Alpha Zones (U) [T+Gre] [a1].pce	pce-dominater01-translations-greek
+f90b84d8f8851d82cc2ef00d8e2290b7	Keith Courage in Alpha Zones (U) [T+Gre] [a2].pce	pce-dominater01-translations-greek
+a5973142bcfe0d5cc97dbdd1fae7db4f	Keith Courage in Alpha Zones (U) [T+Gre].pce	pce-dominater01-translations-greek
+8e0cb7f9a2267e8ede1a15982e2e1019	Klax (U) [T-Gre1.0].pce	pce-dominater01-translations-greek
+927606dcd951be5758270793166994bd	Klax (U) [T+Gre1.1].pce	pce-dominater01-translations-greek
+3eabd6ebe31de7d62a8e572cef67e1cf	Puzznic (J) [T+Gre].pce	pce-dominater01-translations-greek
+7eab44a2ec072a5a2abf55982fd0f7c4	After Burner II (J) [T-BR] [T-Renix G-Renix Traduções] [V-1.0 P-95% A-2009].pce	pce-dominater01-translations-portuguese
+aca989b411c637559254f835452daf67	Dead Moon - Tsuki Sekai no Akumu (J) [T-BR] [T-Lhotian G-Romhack BR] [P-100% A-2001].pce	pce-dominater01-translations-portuguese
+20ed358d151b90453d17a4ad7588bfc6	LODE RUNNER - USHINA WARETA MAIKYUU (J) [T+Por_monkey].pce	pce-dominater01-translations-portuguese
+54802cf219d5b961f55a9297b19cd7f5	Neutopia (U) [a1][T+Por99%_Raptor_Z]{no header}.pce	pce-dominater01-translations-portuguese
+b115003d1ca213fca4af2362daee449b	Neutopia (U) [T+Por_T-Raptor_Z G-CBT].pce	pce-dominater01-translations-portuguese
+e1609b93755c666639bdb940fbfab224	Super Mario Bros (J) [p1] [T-BR] [T-Wolfwood G-Monkey's Traduções] [V-1.0 P-98% A-2009].pce	pce-dominater01-translations-portuguese
+fbd6f8bd6f97536a6cfdbf8658841bab	Timeball (U) [T+Por_T-Altieres G-Nenhum].pce	pce-dominater01-translations-portuguese
+e8e76bb2bc861b15a1965d85d6c75eba	Vigilante (U) [T+Por100] [b1].pce	pce-dominater01-translations-portuguese
+8ce4b4910268aab95c115c2d81f1526b	Vigilante (U) [T+Por100] [b2].pce	pce-dominater01-translations-portuguese
+9bcf0948f196e8d5f63414967931e48b	Circus Lido (J) [T+Rus0.7_Cool-Spot].pce	pce-dominater01-translations-russian
+b5d26e6c42170156f4e5ac4451084085	Columns (J) [T+Rus by Multisoft].pce	pce-dominater01-translations-russian
+730d3d5d8792b0897f534d9a42d9c3a2	Jackie Chan's Action Kung-Fu (R) [T+Rus_Mario Soft].pce	pce-dominater01-translations-russian
+d9fcdb891f511987103c0cb7042f2435	NEUTOPIA (U) [T+Rus_chief-net].pce	pce-dominater01-translations-russian
+9bd693ed8ee3204a1157285f58a43fc4	Neutopia_(U) [T+Rus_Chief-NET ver.1.0].pce	pce-dominater01-translations-russian
+23985b095554374ab2272ec7cb0d1a0b	Puzznic (J) [T+Rus] by Multisoft.pce	pce-dominater01-translations-russian
+4fbb4ea639d8a3210529bfb405a50bae	Splatterhouse (Japan) [tr Rus 1.0].pce	pce-dominater01-translations-russian
+10c20e8490a40aade247448ca92dc40a	Chew Man Fu (U) [T+Spa_lukas].pce	pce-dominater01-translations-spanish
+53ce5adcf77f50c0994b2dc4b0455bb2	Dragon's Curse (U) [h1] [T+Spa100_Pkt].pce	pce-dominater01-translations-spanish
+fb02e5f34b1a9fd286af5b5b5611c65e	Dragon's Curse (U) [h1] [T+Spa100_Umb].pce	pce-dominater01-translations-spanish
+01567d9c22c71a4544505e264ff51dc0	Dragon's Curse (U) [T+Spa100_Umb].pce	pce-dominater01-translations-spanish
+7a9bf26c5a91bd3a014abf32f287844a	Neutopia (U) [a1] [T+Spa100_Pkt].pce	pce-dominater01-translations-spanish
+175aaf1e7a8c94d2ae2c2831d82db104	Neutopia (U) [h2] [T+Spa100_Pkt].pce	pce-dominater01-translations-spanish
+9328d79ad8ece082536a2311ed69a715	Neutopia (U) [T+Spa_lukas].pce	pce-dominater01-translations-spanish
+d832304a5c4496c28e5fdf677792e4f9	ShockMan (U) [T+Spa_lukas].pce	pce-dominater01-translations-spanish
+cfa9b5073e6dd82a45a32fec38c82d48	Vigilante (J) [T+Spa100_3mundo].pce	pce-dominater01-translations-spanish

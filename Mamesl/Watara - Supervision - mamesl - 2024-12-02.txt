@@ -1,0 +1,72 @@
+b37fcd315b0f79ca9799b5dc7e639a34	9307kba-1.u2	supervision-mamesl
+3d33521248e9b3968aa1a1bebc9cef24	balloon fight (usa, europe).bin	supervision-mamesl
+b5c895fd2d9d85399def107ca8e6fdd4	bubbwrld.bin	supervision-mamesl
+7d62668f72381a077688e91383109495	cave wonders (usa, europe).bin	supervision-mamesl
+6f6b636be7a380c20b375af9997aa45c	classcas.bin	supervision-mamesl
+d23a1614f0b9c8a789cef61733323399	climber.bin	supervision-mamesl
+f5118265b7a4ed27d756099dd3928fa2	crsshigh.bin	supervision-mamesl
+d1c8064fdbf3e35f23030c23ccb4c053	crystball (usa, europe).bin	supervision-mamesl
+a9631d965ce797e2b16d82a8afc2d994	crystball (usa, europe, earlier).bin	supervision-mamesl
+43d15c879126e97708aef98d16de92f4	dreamwld.bin	supervision-mamesl
+9f130a26b3843d6a59da894b3692b978	earth defender (usa, europe).bin	supervision-mamesl
+622a64039da1bb856ddae1c89c1d909b	fatal craft (usa, europe).bin	supervision-mamesl
+9f3af1177933d8ba8a9f5f0514edaebc	fcombata.bin	supervision-mamesl
+781a04596383581093e3d4e388078028	final combat (usa, europe).bin	supervision-mamesl
+4ce6953562364bf13333f91a2fb7106e	galaxy fighter (usa, europe).bin	supervision-mamesl
+9584f03505b901570909d72cca88b10c	happy pairs (usa, europe).bin	supervision-mamesl
+7272f41de036309c6b75bff001ea70c8	herohawk.bin	supervision-mamesl
+2570fc334466c45fd05488089cf396b5	jacky lucky (usa, europe).bin	supervision-mamesl
+7bac0340d2497a1d6d8553f14765dfc3	journeytothewest.bin	supervision-mamesl
+4beed52bbf858ed057260b3b57b94494	kabi island - gold in island (usa, europe).bin	supervision-mamesl
+a753cbbeb25563928aaf9b01b9be66fb	kitchenw.bin	supervision-mamesl
+bcfc1c956d7fd886ae0fd9dd6de4bef3	kungfust.bin	supervision-mamesl
+214747cd1c32e7bb8dcfdf15595e6d94	pacificb.bin	supervision-mamesl
+15cd9f6729d5ad8ec2752fa0fe8b71ba	pyramid (usa, europe).bin	supervision-mamesl
+c07638809b49f2c922c4d4d7519e6f9c	scaffold.bin	supervision-mamesl
+b076cac52175ac41f0a673037b3bb07f	sonnyxpr.bin	supervision-mamesl
+7a0ef963396e67a240e0c068157ac1e3	sonnyxpra.bin	supervision-mamesl
+95ffd2ff15dbb96e00a01641627b6e8a	sv10001.bin	supervision-mamesl
+33d66c6e198a63784e9d169291a737c5	sv10002.bin	supervision-mamesl
+d365fedc3073ad3e9231ecb763ed3072	sv10004.bin	supervision-mamesl
+48481be2481d1a1f2fbdae426d58df6e	sv10005.bin	supervision-mamesl
+c38e1c1c617d9611d3f6069a03024708	sv10006.bin	supervision-mamesl
+e3535104fd48c0ed3240b03065ea3a1f	sv10007.bin	supervision-mamesl
+8f78dff4f064c7bd993060919b385c67	sv10008.bin	supervision-mamesl
+073cfcdefb73cf2bf9bc8b1978022432	sv10009.bin	supervision-mamesl
+cf443f0a812ac7c34e33469f9e8132a8	sv10010.bin	supervision-mamesl
+21395a6d09d75dc9ad2fe40a757815c7	sv10011.bin	supervision-mamesl
+57c7f913afe11d5c30252280a31eb04a	sv10012.bin	supervision-mamesl
+427488cb0f3251a46e923f9e8608ff80	sv10014.bin	supervision-mamesl
+0a4c64f3aba648eaa8e0a74f1db8336c	sv10015.bin	supervision-mamesl
+b0cd30f6b9d94b301346300d2b5341d9	sv10016.bin	supervision-mamesl
+879479a6589df76a78f6a0622f2f46d5	sv10017.bin	supervision-mamesl
+6a29877dad0a05cc10b8f15a38ff3369	sv10017_1.bin	supervision-mamesl
+52b72b95b4240c66e4fefeb1485bd394	sv10018.bin	supervision-mamesl
+5bdbff8fa9a0a8ce2157dedccfa7106d	sv10019.bin	supervision-mamesl
+946e0afdcd689697e0461b9a217c6495	sv10020.bin	supervision-mamesl
+cbaeae37f45ac9ce039779ec3fd1e840	sv10021.bin	supervision-mamesl
+c85c839b5ded60edc0dc2c7a1b5d8a60	sv10022.bin	supervision-mamesl
+b7c5c8e371aef8b6772cc1b905612f2e	sv10023.bin	supervision-mamesl
+4ed067ce17d373e3a531a422254b61e6	sv10024.bin	supervision-mamesl
+a896fc8bc1eba73a0689cb587c665e94	sv10025.bin	supervision-mamesl
+e0ed04b139740452995d962827759a7f	sv10026.bin	supervision-mamesl
+6e90d2a3b9fc22a35ed886d3947ba22a	sv10027.bin	supervision-mamesl
+c93782ad97197a5134bb82a65bba1a54	sv10028.bin	supervision-mamesl
+7cf57d6b9ac5d2935369be34d553d04d	sv10029.bin	supervision-mamesl
+caeed584599c441ecd6a5bbc202cfae8	sv10030.bin	supervision-mamesl
+0ec15e7b722003989ec0094423e691f9	sv10032.bin	supervision-mamesl
+316929b844f277c6b1c4ee1613d13394	sv10033.bin	supervision-mamesl
+a6b4dee95c8995a1d5e31ee1c9c7086b	sv10034.bin	supervision-mamesl
+c1c6a01a67c0cb26c85e81f862f19e67	sv10036.bin	supervision-mamesl
+56c9c900eb04ee31963b256f530592c8	sv10037.bin	supervision-mamesl
+f90280e19a99be521fc4294d96e14298	sv10038.bin	supervision-mamesl
+84fe136fd254f26d2a6b33a251ef7f0a	sv10039.bin	supervision-mamesl
+b8195c48954c03dbd665da359ed77dc5	sv10040.bin	supervision-mamesl
+0a07c444324d0b41546e2363679360da	sv10041.bin	supervision-mamesl
+d5ef26274492796050e53a1f5416152a	sv10042.bin	supervision-mamesl
+fd60a857d2c8d82f9b51c574910b9c83	sv10043.bin	supervision-mamesl
+5a578d07bb4da9215acdc2343e337059	thundrsh.bin	supervision-mamesl
+c5f068b51d50b4e86d63fe7404984002	treasure hunter (usa, europe).bin	supervision-mamesl
+6b4d1688ed5a926d13bcacf7db3e04ee	treasure hunter (usa, europe, 1993).bin	supervision-mamesl
+960b42f19443b8f897a4c85686f3ad59	untchble.bin	supervision-mamesl
+1cce14e748212e75c21966f12ac5fe1a	wittycat.bin	supervision-mamesl

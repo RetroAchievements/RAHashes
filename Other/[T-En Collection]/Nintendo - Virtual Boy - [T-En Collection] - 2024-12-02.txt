@@ -1,0 +1,6 @@
+4698a0b151d95bbbb833e2a523a12be7	Insmouth Mansion (Japan) [T-En by Thunderstruck v1.0] [n].vb	vb-t-en
+45825104799b74d36740d486f3f0cdf2	SD Gundam - Dimension War (Japan) [T-En by Greg Stevens & Benjamin Stevens v1.0].vb	vb-t-en
+bb4aa9566437572802079c89452666e7	Space Invaders - Virtual Collection (Japan) [T-En by Thunderstruck v1.0].vb	vb-t-en
+c257aa8e805afa40506b521e2d03458e	Space Squash (Japan) [T-En by Feel & Greg Stevens & Benjamin Stevens & Thunderstruck v2.0].vb	vb-t-en
+ef6e68d193dae7eb9f51face69e9dcf9	Virtual Fishing (Japan) [T-En by Benjamin Stevens & Thunderstruck v1.0].vb	vb-t-en
+bd6bc0cdb310969583c442f9c8509fc0	Virtual Lab (Japan) [T-En by Thunderstruck v1.0].vb	vb-t-en

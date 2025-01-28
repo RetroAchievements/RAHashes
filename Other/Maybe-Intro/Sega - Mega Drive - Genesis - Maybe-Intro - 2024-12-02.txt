@@ -1,0 +1,33 @@
+a13ab653a20fb383337fab1e52ddb0df	Advanced Busterhawk Gleylancer (Japan) [T-En by MIJET v20061023].md	md-maybe-intro
+4b5bca8b510508a7121e2a96b45ee4ac	Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A) [T-En by Nebelwurfer v0.95] [i].md	md-maybe-intro
+0b50b578631749a8d9a5e081abce6898	Bare Knuckle III (Japan) [T-En by Twilight Translations v1.00].md	md-maybe-intro
+fa157d29ef55c46b3297c9c22061e441	Barver Battle Saga - Tai Kong Zhan Shi (China) (Unl) [T-En by Djinn+Steve Martin v1.00].md	md-maybe-intro
+b56ec31b0d80e257bb3b599e857a021e	Battle Mania Daiginjou (Japan, Korea) [T-En by MIJET v20061029] (Battle Mania Mode).md	md-maybe-intro
+cb9521fe83d848f65a226d947020ecfa	Battle Mania Daiginjou (Japan, Korea) [T-En by MIJET v20061029] (Trouble Shooter Mode).md	md-maybe-intro
+14df995aaf7cc3cfcd117df335f98abb	Beyond Oasis (USA) [T-En by Eien Ni Hen+Husky v1.0].md	md-maybe-intro
+9be512408b320d6d0b055062c73ca8d9	Dragon Ball Z - L'Appel du Destin (France) [T-En by Saiya Translations v0.95a] [i].md	md-maybe-intro
+d43cd7d31616d2992e3b1ac389ef4eb1	Dynamite Headdy (Japan) [T-En by MIJET v20070428].md	md-maybe-intro
+b05a6f58495fab4968bce589da8e7dba	Fushigi no Umi no Nadia (Japan) [T-En by KingMike Translations v1.1].md	md-maybe-intro
+a4ec56a7a52f802aea69005772adb5a3	Langrisser II (Japan) (v1.1) [T-En by Hiryuu Honyaku+NoPrgress v20010321].md	md-maybe-intro
+3da68d7ef336d2ea7fa2cc9c1481c9fe	Langrisser II (Japan) (v1.2) [T-En by MIJET v20110701].md	md-maybe-intro
+d05a9f07f435fb23fdc786a1b75e0038	Monster World IV (Japan) [T-En by DeJap+Demiforce v1.02].md	md-maybe-intro
+7fb7c9c2d737e8d65298e039262e68a8	Monster World IV (Japan) [T-En by Michele Di Somma v2.2].md	md-maybe-intro
+c7c96f75ff25ce43b4f22ccc7b730d65	Phantasy Star II (USA, Europe) (Rev A) [T-En by Naflign's Ego v1.0].md	md-maybe-intro
+7d5c337aa48033c04a8b4975a3a9e865	Phantasy Star II (USA, Europe) [T-En by Naflign's Ego v1.0].md	md-maybe-intro
+cbdf6fe34574675dbd9da1cfccd6b9f5	Phantasy Star II - Amia's Adventure (Japan) (SegaNet) [T-En by MIJET v20100710].md	md-maybe-intro
+cee72632b13d435674b2ddac637c5f8e	Phantasy Star II - Anne's Adventure (Japan) (SegaNet) [T-En by MIJET v20100710].md	md-maybe-intro
+12260bf5b7863f4489d627865dba1eec	Phantasy Star II - Huey's Adventure (Japan) (SegaNet) [T-En by MIJET v20100710].md	md-maybe-intro
+ca9c437ccf387fb581f9ee00cfb14f34	Phantasy Star II - Kinds's Adventure (Japan) (SegaNet) [T-En by MIJET v20100710].md	md-maybe-intro
+30fb373aa2d47af800712f6897823309	Phantasy Star II - Nei's Adventure (Japan) (SegaNet) [T-En by MIJET v20100710].md	md-maybe-intro
+dbc8487b78b63efc151b80ea89de17ff	Phantasy Star II - Rudger's Adventure (Japan) (SegaNet) [T-En by MIJET v20100710].md	md-maybe-intro
+35d2cd35f238c59b645f77be6e64ab81	Phantasy Star II - Shilka's Adventure (Japan) (SegaNet) [T-En by MIJET v20100710].md	md-maybe-intro
+3c1ce24f8d84735d67fc6e0380c5e4c5	Phantasy Star II - Yushis's Adventure (Japan) (SegaNet) [T-En by MIJET v20100710].md	md-maybe-intro
+2eb09e92f8b495b8f1c3c57766079e29	Pulseman (Japan) [T-En by MIJET v20070226].md	md-maybe-intro
+69102a0b9fd2f25fe0908fd3a7a28ae7	Sonic Eraser (Japan) (SegaNet) [T-En by Derrick Sobodash v1.0].md	md-maybe-intro
+aa7118d6f20a7bf47a849653528e9a74	Sorcerian (Japan) [T-En by S.Seehorn v0.50] [i].md	md-maybe-intro
+e2b392058aac72ab448510681408b147	Tougiou King Colossus (Japan) [T-En by MIJET v20061030] (Family Friendly Edition).md	md-maybe-intro
+7c932a29d9943944cda4b37241b17b22	Tougiou King Colossus (Japan) [T-En by MIJET v20061030].md	md-maybe-intro
+3d2a638bdf18b42621e95788fa9fde9c	Twinkle Tale (Japan) [T-En by MIJET v20070328].md	md-maybe-intro
+254741822f6966eafcf924d2f798e8aa	Undead Line (Japan) [T-En by MIJET v20070903].md	md-maybe-intro
+52651d40cd8ed8b3bfc58074cc4822f8	Warsong (USA) [Text Hack by Derrick Sobodash v20010219] [Graphic Hack by MIJET v20070103].md	md-maybe-intro
+0178d80a25f00b84f1bf15ae365beae0	Yu Yu Hakusho - Makyou Toitsusen (Japan) [T-En by MIJET v20071113].md	md-maybe-intro

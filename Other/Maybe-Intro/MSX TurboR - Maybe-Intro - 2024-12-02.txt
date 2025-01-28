@@ -1,0 +1,8 @@
+4db4e26c3fb2038c90f7843074d58ade	Illusion City (Japan) (Disk 1) [T-En by A&L Software v0.5].dsk	msx-turbor-maybeintro
+19abf74fba15d87df4ac01d4d099bee3	Illusion City (Japan) (Disk 2) [T-En by A&L Software v0.5].dsk	msx-turbor-maybeintro
+f4a8a729fd1e2e04282989fd5e7a54ec	Illusion City (Japan) (Disk 3) [T-En by A&L Software v0.5].dsk	msx-turbor-maybeintro
+3e235871513a32983c43146900ff4e4e	Illusion City (Japan) (Disk 4) [T-En by A&L Software v0.5].dsk	msx-turbor-maybeintro
+e9376ffc278f2794bb73773b8eab1d5f	Illusion City (Japan) (Disk 5) [T-En by A&L Software v0.5].dsk	msx-turbor-maybeintro
+08cab65d20df304ae989e50b2d2b32da	Illusion City (Japan) (Disk 6) [T-En by A&L Software v0.5].dsk	msx-turbor-maybeintro
+e3c34c05904bb90830b50c2a3d9945aa	Illusion City (Japan) (Disk 7).dsk	msx-turbor-maybeintro
+cd23806488d25ecac8a3ff4bace1f62c	Illusion City (Japan) (Disk 8).dsk	msx-turbor-maybeintro

@@ -1,0 +1,5 @@
+e2fca5d8609135caf5f4e2a88e38eabb	Black Onyx, The (Japan) [T-En by SSTranslations v1.0] [Enhanced].sg	sg1k-t-en
+1da64bab6808f8b6df159c912d3b4072	Black Onyx, The (Japan) [T-En by SSTranslations v1.0].sg	sg1k-t-en
+fb5c6e4d23b192cf36d87192289444e2	Chack'n Pop (Japan) [T-En by Goldenband v1.02].sg	sg1k-t-en
+88f09e8525267c7c5cb18a6011fe1598	Ninja Princess (Japan) [T-En by Goldenband v1.0].sg	sg1k-t-en
+a696a150be04dde593779373fd5638df	Soukoban (Japan) [T-En by Maurice Kaltofen v1.0].sg	sg1k-t-en

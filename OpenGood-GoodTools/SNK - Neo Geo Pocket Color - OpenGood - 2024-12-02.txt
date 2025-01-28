@@ -1,0 +1,423 @@
+f6dea32fe56286630b65be5aa3373bc8	3D Engine (V2) (PD).ngc	ngpc-opengood
+6bfb4978b7f30f791c3a5ab9260be4cc	Adventures of Gus and Rob, The by Mickey McMurray (V1) (PD).ngc	ngpc-opengood
+84bbe4bf96c34009a337e4f789aa04ba	Adventures of Gus and Rob, The by Mickey McMurray (V2) (PD).ngc	ngpc-opengood
+78a918694977258f26df593e9e904fe8	Anime Video (PD).ngc	ngpc-opengood
+26cc1c9143a4257fe3916b2cb96e7e9a	Another Day in Hell by Thor & Iceman (PD).ngc	ngpc-opengood
+d94ea11f58b307d39ebafd7ce661b5e1	Another Day in Hell by Thor & Iceman (V1.1) (PD).ngc	ngpc-opengood
+6fbb210e14b637b3c2a763786b9b418b	Barbarian by Loic Julien (PD).ngc	ngpc-opengood
+65b7db5d7f81639448bb266336437686	Barbarian Invaders by Chris Ahchay (PD) [a1].ngc	ngpc-opengood
+0b40153771b91a8dfc11eb6f082e5cf6	Barbarian Invaders by Chris Ahchay (PD).ngc	ngpc-opengood
+c886dc142fabe7d63d8e6adf91c4b7fe	Barbarian Invaders by Chris Ahchay (V1.01) (PD).ngc	ngpc-opengood
+f2f296f4be215e826fac519fba96609b	Baseball Stars Color (W) [!].ngc	ngpc-opengood
+df4068f33c6bee0e12cb394bfd6cdede	Baseball Stars Color (W) [a1][!].ngc	ngpc-opengood
+4718b82c49764a409cf87d073dd0d1f0	Baseball Stars Color (W) [a2].ngc	ngpc-opengood
+dc8dcd7742db8714383b5cb7be94b6fd	Baseball Stars Color (W) [h1].ngc	ngpc-opengood
+00eac01272cacbf6e832a8a92dd512fb	Baseball Stars Color (W) [h2].ngc	ngpc-opengood
+f384ff31b5b27903383e3c597654a9d5	Big Bang Pro Wrestling (W) [!].ngc	ngpc-opengood
+0f99af59f2b51fa4ce8c59278f906e38	Bikkuriman 2000 - Viva! Pocket Festiva! (J) [a1].ngc	ngpc-opengood
+ca3e26e2f539dbd35092fa9d7f561aff	Bikkuriman 2000 - Viva! Pocket Festiva! (J).ngc	ngpc-opengood
+4e9e47682cdb5bc314131548a4fb1a95	Biomotor Unitron (J) (Demo Version).ngc	ngpc-opengood
+a50e0e66c8b5aff957220bc9b5a31695	Biomotor Unitron (J) [t1] (HPEP Diminished).ngc	ngpc-opengood
+0bf1477a4c65adddce2cf2205a198cc1	Biomotor Unitron (J) [t2] (Maximum HPEP,Money Diminished).ngc	ngpc-opengood
+570086c0c471392e8058a913d5c7ae21	Biomotor Unitron (J).ngc	ngpc-opengood
+f4bbe8cf42074b75c8a911bf7b0562d5	Biomotor Unitron (UE) [!].ngc	ngpc-opengood
+a199e0e2e95c460469af927606117a21	Biomotor Unitron (UE) [a1].ngc	ngpc-opengood
+938ecc41e19cdb65efeb636a72007f88	Bitmap Demo (PD).ngc	ngpc-opengood
+e2b6d75c63b17e18cd02411f6ce1d6e4	Blocks by Ivan Mackintosh (PD).ngc	ngpc-opengood
+3f18507c9aa7e80b9aa75ce9e69de9ed	Bomberman by Thor (V1.1) (PD).ngc	ngpc-opengood
+c45ed02039d4a9d961c94cf3bed9cf56	Bust-A-Move Pocket (UE) (Prototype) [a1].ngc	ngpc-opengood
+29a8a310b704e8dafee71cea0ad53df0	Bust-A-Move Pocket (UE) (Prototype).ngc	ngpc-opengood
+1afb182567c6030c6d68f257e6245184	Bust-A-Move Pocket (UE).ngc	ngpc-opengood
+9080ed734736cd657d02f1a5eba38764	Chaos 89 (PD).ngc	ngpc-opengood
+836323995f1dbc3c77343581d8b01b82	Columns by Thor (PD).ngc	ngpc-opengood
+7db02a23dfd97522cb23526e19cbeda5	Cool Boarders Pocket (W) [a1].ngc	ngpc-opengood
+dc8fa0cedef94fe22a219f2eeca43dc0	Cool Boarders Pocket (W).ngc	ngpc-opengood
+2d3445d8a4d2d2c504e0b7ba71771519	Cool Boarders Pocket by QQture (Hack).ngc	ngpc-opengood
+f367e3bd61c308966a4815200fafb6a6	Cool Cool Jam (J) [!].ngc	ngpc-opengood
+9384f078b2ae5e7e228c8e821f0ac995	Cool Cool Jam (J) [b1].ngc	ngpc-opengood
+c4bfc6b4fffb52270a868fee37347a8e	Cool Cool Jam (J) [b2].ngc	ngpc-opengood
+76178477544c1004f0fee31d0729cbbf	Cool Cool Jam (J) [b3].ngc	ngpc-opengood
+58cd4d612378790ab1aa7e96367c3093	Cool Cool Jam (J) [b4].ngc	ngpc-opengood
+3c5ee6e830d60f5bc8f3a5a5a53558bb	Cool Cool Jam (J) [T+Eng10%].ngc	ngpc-opengood
+ca88e3d6291c5cdf7b518d43df5d0d98	Cool Cool Jam SAMPLE (U).ngc	ngpc-opengood
+753cfde2666f828485e7b0313f3f8d3c	Cotton - Fantastic Night Dreams (As) [t1].ngc	ngpc-opengood
+5a2a155706a201a1c0227c7fe671256f	Cotton - Fantastic Night Dreams (As).ngc	ngpc-opengood
+577dec926e1494430a0427685e0f0a57	Cotton - Fantastic Night Dreams (J) [h1].ngc	ngpc-opengood
+0c54b0a268aea189ff5b0121ed579a0e	Cotton - Fantastic Night Dreams (J) [t1].ngc	ngpc-opengood
+f6c0c5d77eae342fcdd6cffabf783226	Cotton - Fantastic Night Dreams (J).ngc	ngpc-opengood
+ed5d76d98d7627045d572d978130ccc6	Cotton - Fantastic Night Dreams Trainer Menu by Capital (PD).ngc	ngpc-opengood
+25efb139950cb427b6cc99652ef23d26	CPU Test by Judge_ (PD).ngc	ngpc-opengood
+277ff030c2092b1b88e70197a78a1423	Crush Roller (W) [a1].ngc	ngpc-opengood
+f2bab5cd294dc8b11617acec2308d266	Crush Roller (W) [a2].ngc	ngpc-opengood
+100f6086bbcd6bccd2ac6f79242f5a87	Crush Roller (W) [a3].ngc	ngpc-opengood
+4a3cf02b131c4a23d0bcec6b0d49c137	Crush Roller (W).ngc	ngpc-opengood
+fe0e58d34d650ae5174ca03d3efc67b0	Dark Arms - Beast Buster 1999 (W) [!].ngc	ngpc-opengood
+ea4be14c1a85aa39cea8cfd5b1c56d92	Dark Arms - Beast Buster 1999 (W) [a1][!].ngc	ngpc-opengood
+dd3efb5e3b5eba1149351e7d3109a6b2	Dark Arms - Beast Buster 1999 (W) [a2].ngc	ngpc-opengood
+4fb30b1b905ed1f975efb9a8fceb9a62	Dark Arms - Beast Buster 1999 (W) [a3].ngc	ngpc-opengood
+32b9efa8a2142030490b73359896b4b9	Dark Arms - Beast Buster 1999 (W) [a4].ngc	ngpc-opengood
+9b09713fb637ce2b8be59e80455106ec	Dark Arms - Beast Buster 1999 (W) [T+Chi].ngc	ngpc-opengood
+79c5c46cb9131365b0a7e01243817337	Dark Arms - Beast Buster 1999 (W) [T+ChS_ITUJUNUSA].ngc	ngpc-opengood
+3dc32478872e274ecf065f7dc6d13998	DDRng - Framework by Xenophear2 (PD).ngc	ngpc-opengood
+bc663b7d728e6fb72c0048d211ad8335	Delta Warp (J) (Demo) [o1].ngc	ngpc-opengood
+415e33891c1eff49cadd35d400d350ce	Delta Warp (J) (Demo).ngc	ngpc-opengood
+d4651757a3db5a8e5a5a64c337c6002f	Delta Warp (J) [!].ngc	ngpc-opengood
+52b524d61d52ca3beb1f49fc23f8ebe1	Delta Warp (J) [b1].ngc	ngpc-opengood
+6fb3cf56716acef613140b1f2143b778	Delta Warp (J) [b2].ngc	ngpc-opengood
+26d0557d8a465aa8f430d5e4d94c679a	Densetsu no Ogre Battle (J) [!].ngc	ngpc-opengood
+13f0584aeab81fdbcdb09bc89367bd89	Densha De GO! 2 (J) (Beta).ngc	ngpc-opengood
+74121a4140d9c32c08ad812734f6904c	Densha De GO! 2 (J) [a1].ngc	ngpc-opengood
+c79dd020410d1d80c2709cb6af4cf64a	Densha De GO! 2 (J).ngc	ngpc-opengood
+0cd4aa9a72ececf14508de6ae6725ed1	Diamond Run by Ivan Mackintosh (PD).ngc	ngpc-opengood
+c148b30103de704eeed63dfe7a7d6100	Dive Alert - Becky's Version (UE).ngc	ngpc-opengood
+d96c97bd9c0675b9b81348b06977b60f	Dive Alert - Burn Hen (J) (Prototype).ngc	ngpc-opengood
+b149cb1f866942eca70df78bb25351cf	Dive Alert - Burn Hen (J).ngc	ngpc-opengood
+0c38b2d5d1a2be15d6c15c6b16b7bc98	Dive Alert - Matt's Version (UE).ngc	ngpc-opengood
+b26c96ee636795787cf58e2d5db56c4a	Dive Alert - Rebecca Hen (J).ngc	ngpc-opengood
+4d66a6bb96afb16a1402d6c6fe4f4b24	Dodger by Ivan Mackintosh (PD).ngc	ngpc-opengood
+66885d788f8474295fccbeba107f2421	Dokodemo Mahjong (J).ngc	ngpc-opengood
+e26a7ede0e232098784884ec9d95c8b3	Dynamate by Thor (V1.0EMU) (PD).ngc	ngpc-opengood
+b22802981dc9b6a402a9f57130a531b4	Dynamate by Thor (V1.0HW) (PD).ngc	ngpc-opengood
+7b5687c944b3eaaa829670a48b166666	Dynamate by Thor (V1.1) (PD).ngc	ngpc-opengood
+c84f675a617df14b1a1bf06f02be773d	Dynamite Slugger (J).ngc	ngpc-opengood
+3ab7276071d35cd11f316b6b936cee38	Evolution (J).ngc	ngpc-opengood
+7716ed81dfd489d80fd9f47cfd320e1c	Evolution - Eternal Dungeons (U) [T+Fre0.3_Fry].ngc	ngpc-opengood
+9c9c2d533be340600ef9f92ed1253dd9	Evolution - Eternal Dungeons (U).ngc	ngpc-opengood
+98dfdf0cd02e7f94fe26cd4cce380a6b	Fantasy World Dizzy Pocket by Soft'n Fuzzy (V0.01) (PD).ngc	ngpc-opengood
+16a9e2afaf3de1edd417632a401a5a30	Fantasy World Dizzy Pocket by Soft'n Fuzzy (V0.02) (PD).ngc	ngpc-opengood
+21b7cef3511f8277cb041600cde2b1ed	Faselei! (J) [t1] (HP,Money Maximum).ngc	ngpc-opengood
+08b5385bd6d1fdcfed39bdb411fabd85	Faselei! (J).ngc	ngpc-opengood
+83e89dcb433a76317d9ac9d2010cf6f3	Faselei! (UE) [T+Fre60%-v1_J-Yann].ngc	ngpc-opengood
+f580078164dc2b8dffb9f38eeec1035d	Faselei! (UE).ngc	ngpc-opengood
+690a3397f20e31b2c4a2833f51670245	Fatal Fury F-Contact - Pocket Fighting Series (W) [!].ngc	ngpc-opengood
+8f3175df433b78dfa1a0663f493e1fea	Fatal Fury F-Contact - Pocket Fighting Series (W) [a1].ngc	ngpc-opengood
+9a44552120feca7491f10cd039ed33df	Fatal Fury F-Contact - Pocket Fighting Series (W) [h1].ngc	ngpc-opengood
+6706a925e4a694419509bc4000bc6e94	Fatal Fury F-Contact - Pocket Fighting Series (W) [h2].ngc	ngpc-opengood
+5a5dc8877757aa3e02af5a7aaddaaa79	Fatal Fury F-Contact - Pocket Fighting Series (W) [h3].ngc	ngpc-opengood
+3a4d4af6bb55a47f64ce81200d5fca06	Flavor's NGPC Multi-ROM V1.0 (PD).ngc	ngpc-opengood
+8b429d17bbeb4c635005a7ff19eaa647	Flavor's NGPC Multi-ROM V2.0BETA (Alt Games) (PD).ngc	ngpc-opengood
+444ba0a13da02552817c4fbffc133c23	Flavor's NGPC Multi-ROM V2.0BETA (Menu Only) (PD).ngc	ngpc-opengood
+cd126cf6c3a32452c835628ed5a671f8	Flavor's NGPC Multi-ROM V2.0BETA (PD).ngc	ngpc-opengood
+4d28da3b6c903520599e3060d9a67212	Flavor's NGPC Multi-ROM V2.0_16MB (Menu Only) (PD).ngc	ngpc-opengood
+083f05264d8d40e71d80f664f00508b9	Flavor's NGPC Multi-ROM V2.0_16MB (PD).ngc	ngpc-opengood
+84f94966ffa142bd331eeb73ffcd90d8	Flavor's NGPC Multi-ROM V2.0_16MB_CRoller (PD).ngc	ngpc-opengood
+79ecfcdf46fd8b921b31323a03f7a422	Flight of Ares by Drakonite (PD) [a1].ngc	ngpc-opengood
+3e57b1e81764b4898d7423ce0d3e1af1	Flight of Ares by Drakonite (PD).ngc	ngpc-opengood
+9e0a01fd386d00787e4969d71fbc5f64	Fuztris by Soft'n Fuzzy (V0.01) (PD).ngc	ngpc-opengood
+239a67a7396f7490b889eac5ca866264	Gambare NeoPoke Kun (J) [h1].ngc	ngpc-opengood
+6ad85f5caeba488ddeea1a8f903fc12a	Gambare NeoPoke Kun (J) [t1].ngc	ngpc-opengood
+99ed127490f9d5d6482d20cc6abc8056	Ganbare NeoPoke Kun (J).ngc	ngpc-opengood
+782c7aec693c95de10e05a268c023ce1	Gears of Fate (20090528) (PD).ngc	ngpc-opengood
+f8b24b6351bc802e86528298928f6941	GIQ Export Sample by Raneko (PD).ngc	ngpc-opengood
+32a23067e04546b719884e45a8287261	Hardware Test (PD).ngc	ngpc-opengood
+0257696ec87cdd8b7297c5ed5e07506d	Hello World! (NEO Clock) (PD).ngc	ngpc-opengood
+1105a101d4ef34e0d08d6c789576da88	Hi-Colour by Soft'n Fuzzy (PD).ngc	ngpc-opengood
+c0a3afc339bd950cb9d1c0c1d0d7ab58	HiColor Demo by Thor (Hardware Version) (PD).ngc	ngpc-opengood
+b53ea5340f835bda085c659977f17dda	HiColor Demo by Thor (NEOPOP Version) (PD).ngc	ngpc-opengood
+ebf374471a2cfe940cb0299c6c74e7d7	HiColor Mini Slide 2 by Thor (PD).ngc	ngpc-opengood
+f09d410517031b43ee4367420eba320c	HiColor Mini Slide by Thor (PD).ngc	ngpc-opengood
+4bda8b3669c5bbd72266853940d626cb	Infinity Cure (J) [!].ngc	ngpc-opengood
+66ab5aa69bb347d6204efdd47fa9fd8a	Invaders by Tomasz Slanina (PD).ngc	ngpc-opengood
+b35a43fbd3d4fdca2bca41527b93b102	Joust by Chris Ahchay (PD).ngc	ngpc-opengood
+ac214e773a27547518e1e7a684a9de72	Joust by Chris Ahchay (V0.0.0.3) (PD).ngc	ngpc-opengood
+62d8a2c2dbcd9c40f2f1d19326e85c08	Jumpy! by Monkey Heeded Software (PD).ngc	ngpc-opengood
+5fffa7b2fd395b18a1bc72ae3ba5dfec	Juno First (PD).ngc	ngpc-opengood
+b25139fdf25d14fdfb38384cdabefcef	Kikouseki Unitron (J) [T+EngBeta(20130329)].ngc	ngpc-opengood
+9827fe3f592bd73ce1603e516c5e0532	Kikouseki Unitron (J).ngc	ngpc-opengood
+1f7c87e105f3f5359bd00d79eb953b0c	King of Fighters R-1 & Melon-chan no Seichou Nikki (J) (Beta) [b1].ngc	ngpc-opengood
+8b5500bdf12d0d26f84d6e2d6d8e5008	King of Fighters R-1 & Melon-chan no Seichou Nikki (J) (Beta).ngc	ngpc-opengood
+8fee7682e46f311712f8f65dd6bfec2f	King of Fighters R-2 (J) (Trial Version).ngc	ngpc-opengood
+a0290f929c2b1970832002ba0505a644	King of Fighters R-2 (W) (Trial Version 2).ngc	ngpc-opengood
+ff89d298a437d6d442a3efdfd8820888	King of Fighters R-2 (W) (Trial Version).ngc	ngpc-opengood
+d5c583a11012494c2ed738b2a2c5ab53	King of Fighters R-2 (W) [!].ngc	ngpc-opengood
+b361ed78f6126f94179dc69fe4c58781	King of Fighters R-2 (W) [a1][!].ngc	ngpc-opengood
+91f6c58d37985ceca6cd4bf5d12fd6f0	King of Fighters R-2 (W) [a2].ngc	ngpc-opengood
+d0354f0796904c599c1062009c7bda79	King of Fighters R-2 (W) [a3].ngc	ngpc-opengood
+c1746276f0981a522ccde7f1f7d9fa31	King of Fighters R-2 (W) [a4].ngc	ngpc-opengood
+fb5a0bddc69556c29d9408c559dfc1ce	King of Fighters R-2 (W) [a5].ngc	ngpc-opengood
+f9d060aa7513b653d0ec792db47a82b9	King of Fighters R-2 (W) [b1].ngc	ngpc-opengood
+c0e99af8243e3bd71818df7a23e7fea2	King of Fighters R-2 (W) [h1].ngc	ngpc-opengood
+377c7bbaa2119e1d3bbdce22e8e36ef8	King of Fighters R-2 (W) [h2].ngc	ngpc-opengood
+03be16fd0d94046e6290e8dd91ab09fc	King of Fighters R-2 (W) [T+Chi_JIAN TI].ngc	ngpc-opengood
+3d448858098602a43961efd25d5eee8c	King of Fighters R-2 (W) [T+ChS_Sky Union].ngc	ngpc-opengood
+d821619da6921e8c325e26e0d76d921e	King of Fighters R-2 - Clark H (Hack).ngc	ngpc-opengood
+362e9c04ec255225eeb0a9dee8fcac1b	King of Fighters, The - Battle De Paradise (J) [!].ngc	ngpc-opengood
+05ab35ed7be398072cae34783aa6751a	Koi Koi Mahjong (J) [!].ngc	ngpc-opengood
+0e675d65ed8c9b55862f2456c141e526	Koi Koi Mahjong (J) [b1].ngc	ngpc-opengood
+e05aea9e985797f284c1980a38951ef6	Last Blade, The - Beyond the Destiny (J) [a1].ngc	ngpc-opengood
+4f0c3016893b29b4e83e175fc824cf38	Last Blade, The - Beyond the Destiny (J) [a2].ngc	ngpc-opengood
+e55f487e1d05e4271f569beb68788726	Last Blade, The - Beyond the Destiny (J) [h1].ngc	ngpc-opengood
+8d2c6291b44db5ed40129b29ad698dd9	Last Blade, The - Beyond the Destiny (J) [h2].ngc	ngpc-opengood
+2c7076bd626b8360f8d3834384323f30	Last Blade, The - Beyond the Destiny (J).ngc	ngpc-opengood
+83fa4cb3c629aa57c12f9cec52c5a53d	Last Blade, The - Beyond the Destiny (UE) [!].ngc	ngpc-opengood
+ba8837417c526b531f67b8137339790f	Last Blade, The - Beyond the Destiny (UE) [T+Bra].ngc	ngpc-opengood
+7932f926bafbb2712b87c7e08586974f	Lights! by Roger Bacon (V1.0) (PD).ngc	ngpc-opengood
+1715311acd6bf2717a3b1bf70321d195	Lights! by Roger Bacon (V1.1) (PD).ngc	ngpc-opengood
+82b38e7d9013862b26d5469e32731443	Lines, Triangles and Points. First Step for 3D by Thor (PD).ngc	ngpc-opengood
+e9a432ef296d8f5ebd3ba5d5569d6d81	Magical Drop Pocket (J) (Beta) [a1].ngc	ngpc-opengood
+da3da8e3b77700249dda2052975cad5c	Magical Drop Pocket (J) (Beta).ngc	ngpc-opengood
+ae92cd3536577bd18f03f34b475c26d6	Magical Drop Pocket (J) [a1].ngc	ngpc-opengood
+509df6942015f3d774b077589d6a1703	Magical Drop Pocket (J).ngc	ngpc-opengood
+40b0f1c1a23365e825ce333acdebd2fd	Magical Drop Pocket (UE) [a1].ngc	ngpc-opengood
+6acfef5fe57d592ea7321e0e440c4ecf	Magical Drop Pocket (UE) [a2].ngc	ngpc-opengood
+8895b51ae6f1015a9d3d4227b26a5eed	Magical Drop Pocket (UE) [a3].ngc	ngpc-opengood
+0f120e95cadd338306781b180a448f59	Magical Drop Pocket (UE).ngc	ngpc-opengood
+c3b09767531f0a5a995814bdb997feb5	Mainreg Test (PD).ngc	ngpc-opengood
+e3e443234148c4d557445bda0fb43b0f	Manic Miner by Lindon Dodd (V0.1g_Alpha) (PD).ngc	ngpc-opengood
+53df22601cc342f855b5cdd5a466c835	Manic Miner by Lindon Dodd (V0.2a_Alpha) (PD).ngc	ngpc-opengood
+b3fc27e28a2042a6923dce0ad750559a	Manic Miner by Lindon Dodd (V1.0) (PD).ngc	ngpc-opengood
+a874c1d95bade2143c0712d22ddbd452	Master of Syougi Color (J) [!].ngc	ngpc-opengood
+d3b04f4650a67e37bd6a5b0c680d928e	Mauru by Soft'n Fuzzy (V0.01) (PD).ngc	ngpc-opengood
+fe9b1bbe15723056629f76e21bb56338	MAXIDEMO (PD).ngc	ngpc-opengood
+6141662866a05c717f9b2dc27cd5dd32	Maze Demo by Jeff Siebold (V1.00) (PD).ngc	ngpc-opengood
+211b92ace38947a631b1f2bfc7cfb19d	Maze Demo by Jeff Siebold (V1.01) (PD).ngc	ngpc-opengood
+f95ca3979f40d8ec80820f8bb968044a	Maze Demo by Jeff Siebold (V1.02) (PD).ngc	ngpc-opengood
+040527df3af563be5d2e9ad470685e5f	Maze Demo by Jeff Siebold (V1.04_Bung) (PD).ngc	ngpc-opengood
+af9693bbc603ea2be0ef2d096ad36af3	Maze Demo by Jeff Siebold (V1.05) (PD).ngc	ngpc-opengood
+2e518837dfebd4cb10ac117a339c5854	Memories Off Pure (J) [a1].ngc	ngpc-opengood
+54052a69d1e978b74509a884f04eb1e1	Memories Off Pure (J).ngc	ngpc-opengood
+104e33a29b9c3109f374fbc0fedfa4fc	Mersenne Twister Random Number Generator (PD).ngc	ngpc-opengood
+a7dfee9950d0679cabb4ee6dfc530fb6	Metal Slug - 1st Mission (W) [a1].ngc	ngpc-opengood
+6dd84bd8a35c16a4860f90289a5247c8	Metal Slug - 1st Mission (W) [a2].ngc	ngpc-opengood
+a3d51f1db107db6ee9654963a8cc30b4	Metal Slug - 1st Mission (W) [a3].ngc	ngpc-opengood
+83c8ca84d055a63a6b8ec25e4546228e	Metal Slug - 1st Mission (W) [T+Chi].ngc	ngpc-opengood
+a50f9197b9d48c0f1c6578a8640e3b2d	Metal Slug - 1st Mission (W) [T+Chi][a1].ngc	ngpc-opengood
+c1bfbd6037712a9761a1dcf86d040c17	Metal Slug - 1st Mission (W) [T+Chi_JIAN TI].ngc	ngpc-opengood
+a3fe5f79b80c2da5c8d270ef41421af8	Metal Slug - 1st Mission (W) [T+ChS_cholera&Sky Alliance].ngc	ngpc-opengood
+4d3efef436c67d4f4e031951b97d64c8	Metal Slug - 1st Mission (W).ngc	ngpc-opengood
+37340b1e3894987ad9febe9e75437c64	Metal Slug - 2nd Mission (J) (Trial Version).ngc	ngpc-opengood
+3e46efdd356157e9d41056ca0885ab65	Metal Slug - 2nd Mission (W) (Beta).ngc	ngpc-opengood
+a58f7c41cd9e6c96cd5b4b477f022570	Metal Slug - 2nd Mission (W) [!].ngc	ngpc-opengood
+a35551f58bf5f8174a901b6f6151bb3f	Metal Slug - 2nd Mission (W) [a1].ngc	ngpc-opengood
+ec7f236818c601fe67f6d51b171e895c	Metal Slug - 2nd Mission by DJJ (Hack).ngc	ngpc-opengood
+2fd2ffa3e15e05fc4512a10d98fbdd95	Mezase! Kanji Ou (J) [a1].ngc	ngpc-opengood
+84c3fc57deb3573b742a495753bb2926	Mezase! Kanji Ou (J).ngc	ngpc-opengood
+6594d32d6774b616949a31641799472a	Mines by Ivan Mackintosh (V1.0) (PD).ngc	ngpc-opengood
+2de16d678d14361910cc7b89696869bc	MIX! (V1.0) (PD).ngc	ngpc-opengood
+89b605a1fc6db5855b432ccc62f9e6e3	Mizuki Shigeru Youkai Shashin Kan (J).ngc	ngpc-opengood
+ac50503cf25a860b416ce8574e82f4a0	MOD Player for NGPC Sample by Thor (PD).ngc	ngpc-opengood
+311580a30993c2b53d3b60299cee70b8	Movie Converter Template by Thor (PD).ngc	ngpc-opengood
+0904ad18ec5dbbfb7faa2c6b7833be08	Movie Player by Thor (PD).ngc	ngpc-opengood
+f0ef371286e213945c11ac601e04c7f8	Movie Player Sample by Thor (PD).ngc	ngpc-opengood
+6cb02f4a62b6e2c957b0d36e2b6f3f7a	Mr. Do! by Ivan Mackintosh (Demo) (PD).ngc	ngpc-opengood
+2ee3331dd1e34020bbafdd91df0ce1bb	Mr. Do! by Ivan Mackintosh (PD).ngc	ngpc-opengood
+d9000abc50debb365de090cbf7982e86	Multi Game Menu (V1.0) (PD).ngc	ngpc-opengood
+a32a0cc3298dcb4b3c383f4e06b8d153	Multi Game Menu (V1.1) (PD).ngc	ngpc-opengood
+0f801fddd4f475ccb5fe358d87404eb0	Multi Game Menu (V1.2) (PD).ngc	ngpc-opengood
+e0960e121d5e5d3d6e693af1c868232e	Multi Game Menu (V1.3) (PD).ngc	ngpc-opengood
+39f7cd304ec094d9959cecc091d95a8d	Multi Game Menu (V1.4) (PD).ngc	ngpc-opengood
+162cd72dda98ef33eaa3bea929d28a70	Multi Game Menu (V1.5) (PD).ngc	ngpc-opengood
+62b7387766bcc94cdafbe90262b28a0b	Music Demo 1 by Ivan Mackintosh (PD).ngc	ngpc-opengood
+2ee61362219986c0ac5c28a1b09a4a53	Neo Centipede by Roger Bacon (V20010405) (PD).ngc	ngpc-opengood
+f25803a17be1ac9447d6e7218b55967c	Neo Centipede by Roger Bacon (V20010513) (PD).ngc	ngpc-opengood
+cd5c1eb7cb2e83d6b6d64918574c8cdb	Neo DerbyChamp (J).ngc	ngpc-opengood
+db78d770ab7318ecde454b1661f337e4	Neo Fantasy by Darek J Davis (PD).ngc	ngpc-opengood
+3655aacebb43a963607d4cf821fc1301	Neo Geo Pocket Color BIOS (JE).bin	ngpc-opengood
+93d3810ae176507ebaae782a612c930b	Neo Poke Pro Yakyuu (J).ngc	ngpc-opengood
+f78476c51c398b28e1d2257299d14758	Neo Turf Masters (J) (Demo Version).ngc	ngpc-opengood
+e055837bb0e227c1ddc3e68b0aa89ae9	Neo Turf Masters (W) [!].ngc	ngpc-opengood
+60472e6721966022fc1258d1186dcf9d	Neo Turf Masters (W) [a1].ngc	ngpc-opengood
+1222a2eca8db9b54f044fa2fe2f50a61	Neo Turf Masters (W) [a2].ngc	ngpc-opengood
+0758ea1f356982807b96e785934c7343	Neo Turf Masters (W) [a3].ngc	ngpc-opengood
+1a08fc6146ba1a585ab75de6ff89e701	Neo Yahtzee by Darek J Davis (V0.1) (PD).ngc	ngpc-opengood
+6581e18f8aaa128e80cda30d3b364473	Neo-Neo! Demo by Napalm (V1.0) (PD).ngc	ngpc-opengood
+aecf4eb51552c9fd06be8d213073f945	Neo-Neo! Demo by Napalm (V1.1) (PD).ngc	ngpc-opengood
+3b74821e0e8566afdf099c1a6ff38303	Neo-Neo! Demo by Napalm (V1.1updated) (PD).ngc	ngpc-opengood
+f84216b73fc4f37361f1407a3eb52004	NeoDaleks! by Harry Dodgson (V2.0) (PD).ngc	ngpc-opengood
+be46a8abd0f076f06801f752722cc918	NeoGeo Clock Demo (V000524) (PD).ngc	ngpc-opengood
+c9fc6e97e5fefc2e6d29228bdb916607	NeoGeo Cup '98 Plus (W) [h1].ngc	ngpc-opengood
+a6c3369f28558e4a9719dc54d50be713	NeoGeo Cup '98 Plus (W).ngc	ngpc-opengood
+c9c421b95c7c760343b849b2e4991adb	NeoGeo Pocket TLCS-900-H Prefetch Instruction Queue Tests (PD).ngc	ngpc-opengood
+4c860d3685c7dea2e03f99197194a803	Neotris - The Grand Carnage by sleipnir (PD).ngc	ngpc-opengood
+1ab48ced19f225986d97dcb6cbea0a90	Neotris - The Grand Carnage Demo Screen by sleipnir (PD).ngc	ngpc-opengood
+00e580fbbdffc023432950cca6389cec	NG Collector by Sebastian Mihai (PD).ngc	ngpc-opengood
+bf67c1e0f8c2ce8ebbef84ab966fab1b	NGPC Game Pack (Spacies & Asteroids) by Jim Bagley (PD).ngc	ngpc-opengood
+3f294d86922ca280c23ca3f4e71e55da	NGPC War (PD).ngc	ngpc-opengood
+9c73091689138179323ff48b279f8b1e	Nige-ron-pa (J) [!].ngc	ngpc-opengood
+d76e1f937c5ec6f025da7d61e0a269bd	Nige-ron-pa (J) [T+Eng50%].ngc	ngpc-opengood
+9bf46157be75f63c4ad6529fecb8e29d	Oekaki Puzzle (J) [a1].ngc	ngpc-opengood
+883056abbb872de893cdb1f4f697dbf8	Oekaki Puzzle (J).ngc	ngpc-opengood
+0909caa7f52fd9a0d3fb86fd9c8e3ee9	Olaf Loic Julien (PD).ngc	ngpc-opengood
+e2173aeabe4bede0f2e958b4214adf40	Pac-Man (PD).ngc	ngpc-opengood
+ac5ad76d5e6614ae576c2c837f0fab1d	Pac-Man (W) [!].ngc	ngpc-opengood
+9aab0717d600149825d3bd210be2fcfa	Pac-Man (W) [a1][!].ngc	ngpc-opengood
+7ed48f7d8571e5643399f7cd106d591f	Pac-Man (W) [a2][!].ngc	ngpc-opengood
+f691a58746aaf9acc7768f0cc83125fa	Pac-Man (W) [b1].ngc	ngpc-opengood
+507ff80e7fb79ad870ac80b28ec6a41c	Pac-Man (W) [b1][T+Bra_Nenhum].ngc	ngpc-opengood
+289382ef82ae8134471a47257c8f0085	Pac-Man (W) [b1][T+Fre_J-Yann].ngc	ngpc-opengood
+cb23e06313636dca7c73673dfb6ccc87	Pac-Man (W) [b2].ngc	ngpc-opengood
+847d895df20e5bee378ff1bdfef97774	Pac-Man (W) [T+Bra_Nenhum].ngc	ngpc-opengood
+d17e7a98ce00bc0f170f1b2f30cb940e	Pac-Man (W) [T+Fre1.0_J-Yann].ngc	ngpc-opengood
+ebc6a4ee612c84d5c405b6837d794dea	Pac-Man (W) [T+Fre_J-Yann].ngc	ngpc-opengood
+1e92f4a6308044ee8517d33c8f610d87	Pac-Man (W) [t1].ngc	ngpc-opengood
+c707cc7b7235d4c56c54855b914ed3c6	Pac-Man (W) [t2].ngc	ngpc-opengood
+2ac2e20e8b301c6a66cfc14b7776c8bf	Pac-Man (W) [t3] (Lives).ngc	ngpc-opengood
+8efd3c40988452782e55548f7369a050	Pachi-slot Aruze Oukoku Porcano 2 (J) [!].ngc	ngpc-opengood
+299761888bb026d76b698b9745bd8d27	Pachinko Hissyou Guide Pocket Parlor (J).ngc	ngpc-opengood
+1cbb6692db2357f80691bc7462ed4eae	Pachisuro Aruze Oogoku Pocket - Dekahel (J) [!].ngc	ngpc-opengood
+a6469a984ea1da6349f1f94a2f50fabc	Pachisuro Aruze Oogoku Pocket - Delsol 2 (J) [!].ngc	ngpc-opengood
+59c600d2ffe3a44e8cfa96824dc90c8e	Pachisuro Aruze Oogoku Pocket - Delsol 2 (J) [a1].ngc	ngpc-opengood
+0dbeba28e62ece2e9b08c62890650ff5	Pachisuro Aruze Oogoku Pocket - E-Cup (J) [!].ngc	ngpc-opengood
+feb55755aaeeebacf8078ada5a93312f	Pachisuro Aruze Oogoku Pocket - E-Cup (J) [a1].ngc	ngpc-opengood
+888a2bbde70d6f67b1c776abc12c5af8	Pachisuro Aruze Oogoku Pocket - Hanabi (J) (V1.02) [!].ngc	ngpc-opengood
+b3edf9ad99cbd433c8e62836f32092ec	Pachisuro Aruze Oogoku Pocket - Hanabi (J) (V1.04) [!].ngc	ngpc-opengood
+3c340fe221635ba52aae8adcc8e43758	Pachisuro Aruze Oogoku Pocket - Ohanabi (J) [!].ngc	ngpc-opengood
+da41c689c64815ad2b374a7ff52e819b	Pachisuro Aruze Oogoku Pocket - Ward of Lights (J) [a1].ngc	ngpc-opengood
+bc2554198023a9a2700f966670b1f658	Pachisuro Aruze Oogoku Pocket - Ward of Lights (J).ngc	ngpc-opengood
+1676f66c906188d9dca7015fb5aada0e	Pachisuro Azuze Oogoku Pocket - Azteca (J).ngc	ngpc-opengood
+f60ea82fe428e83355ce870bf5cff5d5	Party Mail (J) (Prototype).ngc	ngpc-opengood
+c86e826c8413c0dc3ad19a63ba6d4d97	Party Mail (J).ngc	ngpc-opengood
+b6be2022e71e2606ef50303faf3b4035	PDROMS.com Compo 2.5 Trailer by Torlus (PD).ngc	ngpc-opengood
+81d3c10271ad5b09032dd00321b41aa0	Picture Puzzle (UE) [!].ngc	ngpc-opengood
+5a67a5bb46fd9ad81e612f061bb96c7b	Picture Puzzle (UE) [a1].ngc	ngpc-opengood
+a8d191be369a44eb397791165524b10e	Plink! by Soft'n Fuzzy (V0.00) (PD).ngc	ngpc-opengood
+e8b27984e7f8c837737b99ef8d78e4cb	Plink! by Soft'n Fuzzy (V0.01) (PD).ngc	ngpc-opengood
+62347264d918559a95034be7cea8756d	Pocket Love If (J).ngc	ngpc-opengood
+c1427ef852912d672be49622deac5ec2	Pocket Reversi (J).ngc	ngpc-opengood
+6f8ed0e3919091e3df45b6deed8445e7	Pocket Reversi (UE) [b1].ngc	ngpc-opengood
+50db2d67493cc92fa382a3f9cb16905c	Pocket Reversi (UE).ngc	ngpc-opengood
+c7bfc59b4cb593409541d4ccffe083b4	Pocket Tennis Color - Pocket Sports Series (W) [!].ngc	ngpc-opengood
+c75992e48706fdb01464b4f40fa091b1	PocketRace by Thor (V0.02pre-alpha) (PD).ngc	ngpc-opengood
+bcd9229617a59cec02032247288ba5f5	PocketRace by Thor (V0.03pre-alpha) (PD).ngc	ngpc-opengood
+2b8dcc3b9c0482fc04a025d13f548f20	PocketRace by Thor (V0.04pre-alpha) (PD).ngc	ngpc-opengood
+a16a1ae91bc3d2bd6304bbbd84a0e937	Pocketron by Torlus (V1.00) (PD).ngc	ngpc-opengood
+806778d680bb9f41a3e610499e318f85	Prize Game - PP-AA01 Pusher Program (J).ngc	ngpc-opengood
+7ff625dc216783b034b011351c98255f	Puyo Pop (W) (V05).ngc	ngpc-opengood
+d40dc57b9cc3a30a2400f8cfd8724578	Puyo Pop (W) (V06).ngc	ngpc-opengood
+94537fd169751658f3a50a3b7a80cef2	Puzzle Bobble Mini (JE) (V10) [!].ngc	ngpc-opengood
+d69f1c4b9a015666184580737c6b2024	Puzzle Bobble Mini (JE) (V9) [a1].ngc	ngpc-opengood
+75ffd166fdc777b58f8280652988f441	Puzzle Bobble Mini (JE) (V9).ngc	ngpc-opengood
+6a42cca25811fdca67e0e2809525b07f	Puzzle Gems by Thor (V1.0) (PD).ngc	ngpc-opengood
+04a35a8f274479a061b88bdeee8ee6d4	Puzzle Gems by Thor (V1.1) (PD).ngc	ngpc-opengood
+aa331c8e2948e6273cab97b329751a1f	Puzzle Link (UE) [!].ngc	ngpc-opengood
+df694e1f69ded1df68a4ac52a13fb44a	Puzzle Link (UE) [a1].ngc	ngpc-opengood
+7108cc38b0c5e14eec247db0f2f3b84c	Puzzle Link 2 (UE) [!].ngc	ngpc-opengood
+ee08f16103879ff8adb5315e79d31fa7	Puzzle Link 2 (UE) [a1].ngc	ngpc-opengood
+77c52a2d81f33014bf79051e8ab54cc7	Puzzle Link 2 (UE) [a2].ngc	ngpc-opengood
+9b30216da76c9de87caea93f13977396	Puzzle Link 2 (UE) [a3].ngc	ngpc-opengood
+d09cd09c3043899f64cb0727ffd765a0	Puzzle Link 2 (UE) [a4].ngc	ngpc-opengood
+0cb027ce1b9cb9bb4207fb882f896494	Puzzle Tsunagete Pon! 2 (J) [a1].ngc	ngpc-opengood
+2a8f9cb76e56000769e08200d8b25182	Puzzle Tsunagete Pon! 2 (J).ngc	ngpc-opengood
+72119f96aa1ebd5a01562b0395089bcf	Puzzle Tsunagete Pon! Color (J) [a1].ngc	ngpc-opengood
+960c65ef05baf56fd3f68adc07a6433e	Puzzle Tsunagete Pon! Color (J).ngc	ngpc-opengood
+57b5fae9759108380338be873199482b	Real Casino Series - Neo Baccarat (W) (Prototype) [a1].ngc	ngpc-opengood
+2685ad9eba4e9c86e1055e39917dc3ed	Real Casino Series - Neo Baccarat (W) (Prototype).ngc	ngpc-opengood
+1018f765f460588d975c9b4e9385a547	Real Casino Series - Neo Baccarat (W) [!].ngc	ngpc-opengood
+f186a3211caf8093fcf9ca8f159ab9e3	Real Casino Series - Neo Baccarat (W) [b1].ngc	ngpc-opengood
+b6e1b6976f4a220c813cb7c2c97e442b	Real Casino Series - Neo Cherry Master Color (W) (Beta) [b1].ngc	ngpc-opengood
+27bea85082cde31600b01dc27a99b82a	Real Casino Series - Neo Cherry Master Color (W) (Beta).ngc	ngpc-opengood
+7992904f8c4040aee0cde040afbf757d	Real Casino Series - Neo Cherry Master Color (W) [!].ngc	ngpc-opengood
+279b9bf6ec9b7c473d310cfd6e3cee4d	Real Casino Series - Neo Cherry Master Color (W) [a1].ngc	ngpc-opengood
+c0ced1d22506e46c4667bc0e926d921e	Real Casino Series - Neo Dragon's Wild (W) (V11).ngc	ngpc-opengood
+f0fdd57f4d1a1470b826082586ead479	Real Casino Series - Neo Dragon's Wild (W) (V13) [!].ngc	ngpc-opengood
+d5de99d4e5f6b76df8b9201428bbbbe8	Real Casino Series - Neo Dragon's Wild (W) (V13) [a1].ngc	ngpc-opengood
+b4fc286a22e7eb64ffa681c4626602c7	Real Casino Series - Neo Dragon's Wild (W) (V13) [t1] (Button for a License).ngc	ngpc-opengood
+cef050e2591435a5c41ff851afa55a82	Real Casino Series - Neo Mystery Bonus (W) [!].ngc	ngpc-opengood
+2b0e889765fa5321bbd8b2b5f04323d3	Real Casino Series - Neo Mystery Bonus (W) [a1].ngc	ngpc-opengood
+0865f375ead2febbc86ab3fb9274b9b7	Real Casino Series - Neo Twenty One (W) [!].ngc	ngpc-opengood
+312e407cefa92237c1b0b9e201202ad5	Real Casino Series - Neo Twenty One (W) [a1].ngc	ngpc-opengood
+fb1d996281281a4eb7e61490613aa374	Real Casino Series - Neo Twenty One (W) [a2].ngc	ngpc-opengood
+a94e51ebc37b9b2a9dfe9b97ab992942	Real Casino Series - Neo Twenty One (W) [a3].ngc	ngpc-opengood
+cf088f1c923fb7fb997dcf924d2496af	Real Casino Series - Neo Twenty One (W) [t1] (Button for a License).ngc	ngpc-opengood
+69daf393de739d6fef1681c29921aca3	Robotron 2084 (PD).ngc	ngpc-opengood
+62ec0e37acfe58cc41eba8bd8a5f14a2	Rockman Battle & Fighters (J) (Demo Version).ngc	ngpc-opengood
+c71af75c76778b8a2d32a0c6f170736e	Rockman Battle & Fighters (J) [!].ngc	ngpc-opengood
+942f75e0f2ab3b8431a32d5dbbea4c20	Rockman Battle & Fighters (J) [h1].ngc	ngpc-opengood
+9cb0aaf4104e370efbc8b55ee04733dc	Rockman Battle & Fighters (J) [T+Eng0.10].ngc	ngpc-opengood
+0f68e7a0a2a598a2f754d16ed2f35e56	Rockman Battle & Fighters (J) [T-Eng0.05_LFont].ngc	ngpc-opengood
+587fbf05405000e4dad9ff462b2754cd	Rockman Battle & Fighters (J) [T-Eng0.05_SFont].ngc	ngpc-opengood
+41716066e06b681cabbbee4e37a68313	Rockman Battle & Fighters (J) [t1] (Button to Increase Blood).ngc	ngpc-opengood
+d203d21c9391d9c32da8b6e3033d37f3	Rockman Battle & Fighters (J) [t2] (Physical Energy Diminished).ngc	ngpc-opengood
+9354d53fdabdbea54ca6ff79d24e5e64	Same Game (PD).ngc	ngpc-opengood
+8d6a36acd3b171970d87d2fca6796a4a	Samurai Shodown! 2 - Pocket Fighting Series (W) [!].ngc	ngpc-opengood
+3e46575450756953d755c23db12c4dd0	Samurai Shodown! 2 - Pocket Fighting Series (W) [a1].ngc	ngpc-opengood
+21512374ba4e0cfb4499da8c05460700	Samurai Shodown! 2 - Pocket Fighting Series (W) [h1].ngc	ngpc-opengood
+f874181f9b4df35a7b3d9d4d8b38a65f	Samurai Shodown! 2 - Pocket Fighting Series (W) [h2].ngc	ngpc-opengood
+49206641778c959a0fabd7e1bc8c8bb3	SFX for NGPC - Example by Ivan Mackintosh (PD).ngc	ngpc-opengood
+2ce476ae1a4d2aeaf483722e04b5da80	SFX for NGPC - Sound Generator by Ivan Mackintosh (PD) [o1].ngc	ngpc-opengood
+e1c39b77e82eb6153fe4e7e065efb17a	SFX for NGPC - Sound Generator by Ivan Mackintosh (PD).ngc	ngpc-opengood
+100760e5f548abff92a36761fcf6ee14	Shanghai Mini (W) (Prototype1).ngc	ngpc-opengood
+f547e657f717223c8a286e51aa159f86	Shanghai Mini (W) (Prototype2).ngc	ngpc-opengood
+7c262a2c6390445170d0bf83290c939c	Shanghai Mini (W).ngc	ngpc-opengood
+7d7b2950fd227e6017bb4b3419a3a94d	Shufflepuck Cafe by Loic Julien (Beta 1) (PD).ngc	ngpc-opengood
+a000799025d69d2a4eed565458fc2743	Shufflepuck Cafe by Loic Julien (Beta 2) (PD).ngc	ngpc-opengood
+5b87e8c126f6e82d750583b30d900432	Simple Fractal by Tomasz Slanina (V1.0) (PD) [a1].ngc	ngpc-opengood
+68d5c9259e6580c51f3cfd865df2d0ac	Simple Fractal by Tomasz Slanina (V1.0) (PD).ngc	ngpc-opengood
+985d0b1f2dbbc701bad94ec9ab1e89c1	Simple Fractal by Tomasz Slanina (V1.1) (PD).ngc	ngpc-opengood
+8cec9b8f6bba9a6a42147d6954a716d1	Simple Fractal by Tomasz Slanina (Vx.x) (PD).ngc	ngpc-opengood
+53569e9b28197246922b2cdc0792992c	Slideshow (Jan 17 2003) by Thor (PD).ngc	ngpc-opengood
+e14a9b1035993a1428e1dbb27c068039	Slideshow (Jan 23 2003) by Thor (PD).ngc	ngpc-opengood
+3e84cbc943ffa156f46d3ca84bc89c9a	Slideshow (Mar 20 2003) by Thor (PD).ngc	ngpc-opengood
+b4c2835629bf936ed7dcf3b8b694393d	Slideshow Example by Thor (PD).ngc	ngpc-opengood
+d580017e14ae67a2e8dea9cd60bc8d3f	Snake by Ivan Mackintosh (V1.0) (PD).ngc	ngpc-opengood
+78a92f6de1d5e40b6f2797fbbc5b90d3	Snake by Ivan Mackintosh (V1.1) (PD).ngc	ngpc-opengood
+62029cf9c8af82f4dd13bd0243693d32	Snake by Ivan Mackintosh (V1.2) (PD) [a1].ngc	ngpc-opengood
+6fed588afdac72a0eba3947bdc5cbaef	Snake by Ivan Mackintosh (V1.2) (PD).ngc	ngpc-opengood
+f0b6668d2a25816e75c8506b5c40e054	SNK Gals Fighters (J) [t1] (Button to Increase Blood).ngc	ngpc-opengood
+3540951dfdba4697ee5f9d8b9356c18b	SNK Gals Fighters (J).ngc	ngpc-opengood
+695be9268f8b5bf041ebee7b5dc14b0f	SNK Gals Fighters (U) [t2] (Physical Energy Diminished).ngc	ngpc-opengood
+08922d2bdc6c80d56ddf50836ccad77c	SNK Gals Fighters (UE) [!].ngc	ngpc-opengood
+0e55a9ff10517be86fbe5625822f53f6	SNK Gals Fighters (UE) [a1].ngc	ngpc-opengood
+e67eddaf0cf0021a776fc937e0f35fb0	SNK Gals Fighters (UE) [a2].ngc	ngpc-opengood
+445557641f8d1e73506910e1855d1341	SNK Gals Fighters by DDJ (Hack).ngc	ngpc-opengood
+e8292bf000355e30c09eb64a3d381243	SNK Vs. Capcom - Card Fighters Clash (J) (Beta).ngc	ngpc-opengood
+2ab2aa51b24e42afef09e83bda7a7f50	SNK Vs. Capcom - Card Fighters Clash - Capcom Version (J) [a1].ngc	ngpc-opengood
+e99ac2011126b8b617e77caff032d744	SNK Vs. Capcom - Card Fighters Clash - Capcom Version (J).ngc	ngpc-opengood
+3bcc1c9ef59a75e3c2e6b49be6b84bab	SNK Vs. Capcom - Card Fighters Clash - Capcom Version (UE).ngc	ngpc-opengood
+748f76d010b83c3d3c95fca28b4d080f	SNK Vs. Capcom - Card Fighters Clash - SNK Supporter Version (J) (Beta).ngc	ngpc-opengood
+1259607344e5eb6dbf1462901912ebb3	SNK Vs. Capcom - Card Fighters Clash - SNK Version (J) [T+Chi1.2fix_JIAN TI].ngc	ngpc-opengood
+6cf60c8e14d7caacca38ff13963f5a32	SNK Vs. Capcom - Card Fighters Clash - SNK Version (J).ngc	ngpc-opengood
+e82381b08da83f5e63f08f9315c75a7e	SNK Vs. Capcom - Card Fighters Clash - SNK Version (UE) [a1].ngc	ngpc-opengood
+74e8381e94565e21a3197449bb4423bf	SNK Vs. Capcom - Card Fighters Clash - SNK Version (UE).ngc	ngpc-opengood
+ebc0e8c33d1a5e5be5457ad988233feb	SNK Vs. Capcom - Card Fighters Clash 2 - Expand Edition (J) [!].ngc	ngpc-opengood
+b2628da96bf4f278b13d3c5afd703ac7	SNK Vs. Capcom - Card Fighters Clash 2 - Expand Edition (J) [T+Eng5-03-08_CFC2TranslationTeam].ngc	ngpc-opengood
+e324c1ceb54080ae5be1065b91243331	SNK Vs. Capcom - Card Fighters Clash 2 - Expand Edition (J) [T-Eng3-19-08fixed_CFC2TranslationTeam].ngc	ngpc-opengood
+e7036f0be59b21d5a8424d2514df819a	SNK Vs. Capcom - Card Fighters Clash 2 - Expand Edition (J) [T-EngV14.12.01].ngc	ngpc-opengood
+dfea3ad9af4a631de6f97d86589b971e	SNK Vs. Capcom - The Match of The Millennium (W) [!].ngc	ngpc-opengood
+ac24014b700f4b4f24aba5c0a135d710	SNK Vs. Capcom - The Match of The Millennium (W) [a1][!].ngc	ngpc-opengood
+3ea6441fbc86c3e1241aa18c320ea4d9	SNK Vs. Capcom - The Match of The Millennium (W) [a2].ngc	ngpc-opengood
+d9846ab6f18b9cb90744079b0711c943	SNK Vs. Capcom - The Match of The Millennium (W) [a3].ngc	ngpc-opengood
+2159054c7c9ac796fd2940d2bdf0289a	SNK Vs. Capcom - The Match of The Millennium (W) [a4].ngc	ngpc-opengood
+9281dd6f005f95a4448753d30d41d499	SNK Vs. Capcom - The Match of The Millennium (W) [b1].ngc	ngpc-opengood
+3b74ad1f1cb1ae169ffc83a19680cb72	SNK Vs. Capcom - The Match of The Millennium (W) [T+Bra0.5].ngc	ngpc-opengood
+af69af404fe05a57db880c8108c8a70d	SNK Vs. Capcom - The Match of The Millennium (W) [T+Bra0.5][a1].ngc	ngpc-opengood
+f37a54143a1e6a3b136c4d872ac84d97	SNK Vs. Capcom - The Match of The Millennium (W) [T+Bra0.5][a2].ngc	ngpc-opengood
+87fc6166765be0017d7e5aa60cf0b77f	SNK Vs. Capcom - The Match of The Millennium (W) [T+Chi_JIAN TI&YULIANGMAX].ngc	ngpc-opengood
+6521c84063b287e1614dda9f0a8e4620	SNK Vs. Capcom - The Match of The Millennium (W) [T+ChS_YULIANGMAX&Sky Alliance].ngc	ngpc-opengood
+3b0f9a771972620f445ce81210101cc2	SNK Vs. Capcom - The Match of The Millennium (W) [t1].ngc	ngpc-opengood
+eac8bc5af15c1967f1fb808eba8c00f5	SNK Vs. Capcom - The Match of The Millennium (W) [t2].ngc	ngpc-opengood
+29c6c8739c28cd92db51a9fae1242850	Sodchess by Thor (V1.0.2) (PD).ngc	ngpc-opengood
+a7e02990870e99bde6b3dddc5ef17b86	Sodchess by Thor (V1.1.0) (PD).ngc	ngpc-opengood
+007e83eaefb103f8349788a2e54a42d0	Solitaire by Ivan Mackintosh (V1.0) (PD).ngc	ngpc-opengood
+2a94b4928cf3b0872bf4044e27433022	Sonic The Hedgehog - Pocket Adventure (J) (Demo Version).ngc	ngpc-opengood
+67a4b4c481625860d1c33978b28959b1	Sonic The Hedgehog - Pocket Adventure (W) (Demo Version).ngc	ngpc-opengood
+b8a899ae2b0f1dfa0db5417de745a51e	Sonic The Hedgehog - Pocket Adventure (W) [!].ngc	ngpc-opengood
+d0b62ae730a59a75d964ea51aa036d8f	Sonic The Hedgehog - Pocket Adventure (W) [h1].ngc	ngpc-opengood
+76dff705cbd910db57dd9dd1a5b6fe22	Sonic The Hedgehog - Pocket Adventure (W) [o1].ngc	ngpc-opengood
+de32313854befe1f0fb20020da470582	Sonic The Hedgehog - Pocket Adventure (W) [o2].ngc	ngpc-opengood
+241e25de434bc73d084f815ffac6146b	Sonic The Hedgehog - Pocket Adventure (W) [o3].ngc	ngpc-opengood
+94d7620039cb001b82a3ce7ca0b1860b	Sonic The Hedgehog - Pocket Adventure (W) [o4].ngc	ngpc-opengood
+8b12fec8e96dad41380ab419a216ad08	Soreike! Hanafuda Doujyou (J).ngc	ngpc-opengood
+65fc1312b1446720653e9da639fa3186	Spacies by Jim Bagley (Newer) (PD).ngc	ngpc-opengood
+764722606c44fadef47510cf756b015f	Spacies by Jim Bagley (PD).ngc	ngpc-opengood
+5ce3e7fb3bddfb802a37bb3491449a8e	SQRXZ (V20140306) (PD).ngc	ngpc-opengood
+937b58caaa00e74f94168c1be4574677	Squall (PD).ngc	ngpc-opengood
+7790d8a67fadd67cbda1f1dfc6020ba9	Starfield Array Test by Roger Bacon (PD).ngc	ngpc-opengood
+c025512ca2d0fb06b0a64d7b7e55e819	Super 12 in 1 [p1][!].ngc	ngpc-opengood
+07873a332ef8ac5cb5177ee3c304ff2b	Super Real Mahjong (J) [!].ngc	ngpc-opengood
+74c0561f1d0e44afe8aab2c2e4789969	Super Real Mahjong (J) [t1].ngc	ngpc-opengood
+e11c4b596886cc74d4116fab51131d48	Super Real Mahjong (J) [t2].ngc	ngpc-opengood
+edddb0b8c6739a380de83d9cbd3cedb3	Syko War (Bung Comp Entry) by Mike Kasprzak (PD).ngc	ngpc-opengood
+a2bd85714f35d0ea7bf44bb2d9804721	Tetris by Loic Julien (PD).ngc	ngpc-opengood
+5b878e8f8baa1f13dc8a86942d282fb7	Thieves (Bung Comp Entry) by Ivan Mackintosh (PD).ngc	ngpc-opengood
+5e9603ffffeaad87c91bf171aa6c833b	Thieves by Ivan Mackintosh (V1.0) (PD).ngc	ngpc-opengood
+6d50877321ada9a6ac8deb6c6ee4a6de	Timer by Ivan Mackintosh (PD).ngc	ngpc-opengood
+6de94af216ad802c16ebc9e0d3ed1177	TPaint (PD).ngc	ngpc-opengood
+6f721219541ff91d91d8f97072ba5fae	Trail Blazer by Soft'n Fuzzy (V0.01) (PD).ngc	ngpc-opengood
+be5f01e4b05aa0ad63ae03a419007374	Unlimited Multidirectional Scrolling Sample by Thor (PD).ngc	ngpc-opengood
+597d47391841e839668788c4befad31c	Unnamed Jumpy Platform Game by Roger Bacon (V20010418) (PD).ngc	ngpc-opengood
+7c6f9a095c45a54e9ac6d5fecb86f60b	Unnamed Jumpy Platform Game by Roger Bacon (V20010606) (PD).ngc	ngpc-opengood
+a487651501c4852bc2f135f4012fa2eb	Uridium by Soft'n Fuzzy (V0.01) (PD).ngc	ngpc-opengood
+2348194ff53db51a2be68e7ac9f6cde7	V-Font by Soft'n Fuzzy (V0.01) (PD).ngc	ngpc-opengood
+ca3b2b48b9c4192bf02e35944492b6f0	WAV Player Sample - 2'40' by Thor (PD).ngc	ngpc-opengood
+95bd72b9e9081cb8ad8fc32bf7ff37b7	Wrestling Madness (W) (Beta).ngc	ngpc-opengood

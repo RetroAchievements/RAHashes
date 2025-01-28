@@ -1,0 +1,86 @@
+5c5c2749862ad196b3a23746da251156	code.rom	msx2+-mame-cartridges	Cartridges
+685d02ca1daa697785b708ed8a87f617	ghostly manor - 9958 crew.rom	msx2+-mame-cartridges	Cartridges
+d35799a7f1cc68e88888ee0facfb3fe5	graphics.rom	msx2+-mame-cartridges	Cartridges
+a73ac2659efe9f751d3d1724c7843948	nothing thing - nitrofurano.rom	msx2+-mame-cartridges	Cartridges
+ef79dc69db0c57e5421b0e845f8b6efc	beppin disk - wisdom.dsk	msx2+-mame-disks	Disks
+7ebb8b83695e5090788a2ed48338f0aa	creative tool iii - sony.dsk	msx2+-mame-disks	Disks
+524a729390c6f2dbfb3c805377f8474e	creative tools i - sony.dsk	msx2+-mame-disks	Disks
+35d63c1ca5ea77935d7365bbd33416a5	creative tools ii - sony.dsk	msx2+-mame-disks	Disks
+097717cfd007ed92f193f5efd8fa1d1c	f-1 spirit 3d special - panasoft (demo).dsk	msx2+-mame-disks	Disks
+81cc499c027a429cb8bf733d8d0e5a64	f-1 spirit 3d special - panasoft (disk a).dsk	msx2+-mame-disks	Disks
+6c9d0fbb46d0d089b1456ca636a8c2e9	f-1 spirit 3d special - panasoft (disk a, alt).dsk	msx2+-mame-disks	Disks
+ae5f64d09755fc19e9806d94f84744f3	f-1 spirit 3d special - panasoft (disk b).dsk	msx2+-mame-disks	Disks
+d91b677cd4dba87c7f99cf175e2f9845	f-1 spirit 3d special - panasoft (disk b, alt).dsk	msx2+-mame-disks	Disks
+60d6c867b731b9056c81e806623bf34d	family stadium pro baseball - homerun contest (1989)(namcot)(jp).dsk	msx2+-mame-disks	Disks
+2172840812a9388e849f1064fb53ec20	family stadium pro baseball - homerun contest (1989)(namcot)(jp)[a].dsk	msx2+-mame-disks	Disks
+d613e5ad719a47ed16e0691ea9cd7858	fs-a1fx - panasonic.dsk	msx2+-mame-disks	Disks
+2b12125ba84e227a02025e38e00bfab7	fs-a1wsx - system disk 1 - panasonic.dsk	msx2+-mame-disks	Disks
+d6ad27cbc2c51fb12c228695c370df5b	fs-a1wsx - system disk 2 - panasonic.dsk	msx2+-mame-disks	Disks
+0f2d91cc3f8964a266bc0d6cbce7ebeb	fs-a1wx - system disk 1 - panasonic.dsk	msx2+-mame-disks	Disks
+9cfdd30cd385693a5327f215ab96cabc	fs-a1wx - system disk 2 - panasonic.dsk	msx2+-mame-disks	Disks
+7de77de3f34957441eec03962f59910b	game programming tool hb-f1xdj senyou - sony.dsk	msx2+-mame-disks	Disks
+8a58ea610dc6adad5f14d9029677151f	gladius (1992)(msx magazine)(de).dsk	msx2+-mame-disks	Disks
+e1cfd0b1bb095d78c21adf364345e700	gradius iii legends (demo) (2001)(imanok).dsk	msx2+-mame-disks	Disks
+e6cfd274e7a87652c5f5acbe70475b22	gradius iii legends - imanok.dsk	msx2+-mame-disks	Disks
+f7ffeaf8cf0194aad99fb25324c488ab	j.b. harold 3 - d.c. connection (1989)(riverhill soft)(jp)(disk 1 of 3)[mouse].dsk	msx2+-mame-disks	Disks
+f7ffeaf8cf0194aad99fb25324c488ab	j.b. harold 3 - d.c. connection (1989)(riverhill soft)(jp)(disk 1 of 3)[mouse]_1.dsk	msx2+-mame-disks	Disks
+ce212df3713d800489bf49db0516f837	j.b. harold 3 - d.c. connection (1989)(riverhill soft)(jp)(disk 2 of 3)[a][mouse].dsk	msx2+-mame-disks	Disks
+37f5fd6d456049a35524ee3862134b18	j.b. harold 3 - d.c. connection (1989)(riverhill soft)(jp)(disk 2 of 3)[mouse].dsk	msx2+-mame-disks	Disks
+c0b4fec51b84cbe8d38941d4533b12ad	j.b. harold 3 - d.c. connection (1989)(riverhill soft)(jp)(disk 3 of 3)[a][mouse].dsk	msx2+-mame-disks	Disks
+64c40b2d4f289ed5ac7995549a2c3c72	j.b. harold 3 - d.c. connection (1989)(riverhill soft)(jp)(disk 3 of 3)[mouse].dsk	msx2+-mame-disks	Disks
+941a32466ce59a357190b8e8e2dcb5c8	kohakuiro no yuigon. amber's will (1988)(riverhill soft)(jp)(disk 1 of 3).dsk	msx2+-mame-disks	Disks
+da62f9ed4d103e0262b1c6b200967ba4	kohakuiro no yuigon. amber's will (1988)(riverhill soft)(jp)(disk 1 of 3)[a].dsk	msx2+-mame-disks	Disks
+580f12384bde527453271001535d654a	kohakuiro no yuigon. amber's will (1988)(riverhill soft)(jp)(disk 2 of 3).dsk	msx2+-mame-disks	Disks
+84bba0d2f9526c56105b243b1eda8ee7	kohakuiro no yuigon. amber's will (1988)(riverhill soft)(jp)(disk 2 of 3)[a].dsk	msx2+-mame-disks	Disks
+b7ef97a2cc2433f1e3eabb4c17a63925	kohakuiro no yuigon. amber's will (1988)(riverhill soft)(jp)(disk 3 of 3).dsk	msx2+-mame-disks	Disks
+38a8bbf66665332d3085283566849698	kohakuiro no yuigon. amber's will (1988)(riverhill soft)(jp)(disk 3 of 3)[a].dsk	msx2+-mame-disks	Disks
+323db887f82ccf1a45144bbd7b28429a	laydock 2 - last attack (1988)(t&e soft)(jp)(disk 1 of 2).dsk	msx2+-mame-disks	Disks
+92177c14b1e343d84683be23c761f294	laydock 2 - last attack (1988)(t&e soft)(jp)(disk 2 of 2).dsk	msx2+-mame-disks	Disks
+2d9dd51999ecdfbae7e1238891e631f9	lubeck (1990)(msx magazine)(jp).dsk	msx2+-mame-disks	Disks
+df7c67c3f29b1f543fc7ae55533bb03c	lubeck (1990)(msx magazine)(jp)[a].dsk	msx2+-mame-disks	Disks
+64dd1340b4cd8658b7ef7ddc23aaf983	m2p_006a.dsk	msx2+-mame-disks	Disks
+66c91412e032f0dadd0581e625e1de15	m2p_006b.dsk	msx2+-mame-disks	Disks
+3eafeab45b7f39b6bb869e262699e106	m2p_006c.dsk	msx2+-mame-disks	Disks
+b70030a5c534d89763f0c54804d3139e	m2p_006d.dsk	msx2+-mame-disks	Disks
+c77eea63188524f7af4747305ab83438	m2p_006e.dsk	msx2+-mame-disks	Disks
+b17ce0c0c472e6d3a8553b701f0ebb55	m2p_006f.dsk	msx2+-mame-disks	Disks
+5b8b631755600dac74c545e726b64ce9	maou no fakkutsu dx - panic studio (disk 1).dsk	msx2+-mame-disks	Disks
+670a3e0bc8bf33fe0e296ce418fbd7d7	maou no fakkutsu dx - panic studio (disk 2).dsk	msx2+-mame-disks	Disks
+af0205159a56a1d852aea062e2cdca94	maou no fakkutsu dx - panic studio (disk 3).dsk	msx2+-mame-disks	Disks
+c28b8513eb2e4a0fd0bb054ed956721e	megadoom (1992)(first class software)(nl)(disk 1 of 2)(opening disk).dsk	msx2+-mame-disks	Disks
+979b0f4f7941cd6d0087d5eee59f08fe	megadoom (1992)(first class software)(nl)(disk 2 of 2)(game disk).dsk	msx2+-mame-disks	Disks
+b1c41f86c748f2c44b0bc8abcccd7721	megadoom (demo) (1992)(first class software)(nl).dsk	msx2+-mame-disks	Disks
+35147d3493d3400f126f38d9b89dba3d	megadoom (demo) (1992)(first class software)(nl)[2 disks].dsk	msx2+-mame-disks	Disks
+a53a4e049151812f2c268d5f61bfbf42	muteki senshi yajiuman - team plankton (disk 1).dsk	msx2+-mame-disks	Disks
+c8a02e3328243fc91a2f9f4520ff77cb	muteki senshi yajiuman - team plankton (disk 2).dsk	msx2+-mame-disks	Disks
+3700a6a1cb65e6d2a64cd38561e5e720	muteki senshi yajiuman - team plankton (disk 3).dsk	msx2+-mame-disks	Disks
+d17cb32938f6318f5193959b6c506292	phc-70 - sanyo (demo soft).dsk	msx2+-mame-disks	Disks
+97316737c10ed3b791d77ab3707ccf4d	phc-70 - sanyo (msx-dos).dsk	msx2+-mame-disks	Disks
+714b966b443dff3d69eebdcc43b533e8	playboy late night - msx club challenger.dsk	msx2+-mame-disks	Disks
+e0c80d0a264c489f9c4b3a18bb1cb1e3	playboy strippoker (1992)(first class software)(nl).dsk	msx2+-mame-disks	Disks
+cf06303dba409b1db5ed6861c8d78b73	screen 11 designer - stichting sunrise.dsk	msx2+-mame-disks	Disks
+2785b4044dd9360b6676dc0a29fa7fa5	shuum,astu no sugoshikata - abogado powers (disk a).dsk	msx2+-mame-disks	Disks
+be87aa6fc43025f7a15f8fc45a02fb3a	shuum,astu no sugoshikata - abogado powers (disk b).dsk	msx2+-mame-disks	Disks
+914dc053e38809571024eb9b7a0facae	shuum,astu no sugoshikata - abogado powers (disk c).dsk	msx2+-mame-disks	Disks
+0f3bc6d3f3c08b7dfc47a0b3ec42cf6b	shuum,astu no sugoshikata - abogado powers (disk d).dsk	msx2+-mame-disks	Disks
+a4a3efb1fa113ce5b9f9160b93eebab1	shuum,astu no sugoshikata - abogado powers (disk e).dsk	msx2+-mame-disks	Disks
+1b1756b07fb2cd5625d0e40d8a551415	shuum,astu no sugoshikata - abogado powers (disk f).dsk	msx2+-mame-disks	Disks
+f14f37b6d2ba2877a2f69ef3f9103359	shuum,astu no sugoshikata - abogado powers (disk g).dsk	msx2+-mame-disks	Disks
+29d37d2d023464cbe7c8179cd2f1ec4d	shuum,astu no sugoshikata - abogado powers (disk h).dsk	msx2+-mame-disks	Disks
+73d5e8e33430187b33011ab32882ae5a	sony hb-f1xv story disk (1990)(sony)(jp).dsk	msx2+-mame-disks	Disks
+e531014445597258ef55b5b2085ab314	sonyc (demo) (1995)(analogy)(es).dsk	msx2+-mame-disks	Disks
+d246208d9ced62c288ddb8c0bbf645b4	tetris ii special edition - r.a.m. (disk 1).dsk	msx2+-mame-disks	Disks
+12ca8a4dfaa69f02c9d4992893d942a7	tetris ii special edition - r.a.m. (disk 2).dsk	msx2+-mame-disks	Disks
+f1d95c8d737eb966a15707fbce73c355	tetris ii special edition - r.a.m. (disk 3).dsk	msx2+-mame-disks	Disks
+4da901fd08e07f9ef7acd510694cf4e2	the komainu quest - seto jc.dsk	msx2+-mame-disks	Disks
+6eea8c1a7b134c2268121b972bfd803f	turtle mania (demo) (1997)(wr)(de).dsk	msx2+-mame-disks	Disks
+81ed68139487e27848b4a707226ccfe0	unmei - destiny - sign house.dsk	msx2+-mame-disks	Disks
+9aaf3a43680b50878abc0cad21ed74b2	wig, the (1989)(msx magazine)(jp).dsk	msx2+-mame-disks	Disks
+c33971dc36ba27ca511dd7d1bff4f7a3	wig, the (1989)(msx magazine)(jp)[a].dsk	msx2+-mame-disks	Disks
+71873b1587356ecdb7d67662bb2a89b5	witch iz, the (1991)(chihiro)[b].dsk	msx2+-mame-disks	Disks
+34b960b3ab4559ba31bc840f3fb28e6f	yoshida kensetsu. super zelixer (1990)(msx magazine)(jp).dsk	msx2+-mame-disks	Disks
+3f534e2c6b94d071ff50bf4c092a988b	yoshida kensetsu. super zelixer (1990)(msx magazine)(jp)[a2].dsk	msx2+-mame-disks	Disks
+bf093f9fe85d3a6108be7583cc69d9da	yoshida kensetsu. super zelixer (1990)(msx magazine)(jp)[a3].dsk	msx2+-mame-disks	Disks
+c7b164f7bfa93db86f688e5ca150a442	yoshida kensetsu. super zelixer (1990)(msx magazine)(jp)[a4].dsk	msx2+-mame-disks	Disks
+9da756ff9337c25b1bd98ac59b1235e0	yoshida kensetsu. super zelixer (1990)(msx magazine)(jp)[a5].dsk	msx2+-mame-disks	Disks
+fd56c03df7c99980d413ee3ce7552e79	zukatto.dsk	msx2+-mame-disks	Disks

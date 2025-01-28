@@ -1,0 +1,16 @@
+c0052a41af736ded29894182afed0dc8	64DD IPLROM BIOS (for UltraHLE).bin	n64dd-opengood
+99a67674130f271f150db75c02d14f0a	Dezaemon 3D Expansion (N64DD) (Feb 1998 Build) [b1].ndd	n64dd-opengood
+96ba30d9dce9cdd5bf9107bd59c0fd8b	F-ZERO X - Expansion Kit (J) (N64DD).ndd	n64dd-opengood
+9f797a9c704b5ebd04d6a2b036309af2	Japan Pro Golf Tour 64 (J) (N64DD).ndd	n64dd-opengood
+afe059ae1210751b6c849cfb482c99dd	Kyojin no Doshin (J) (Demo) (N64DD).ndd	n64dd-opengood
+1424518e956a23d189b12574f6f67247	Kyojin no Doshin (J) (N64DD).ndd	n64dd-opengood
+f043eda2cea337cda7eb00e809b084f6	Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (J) (N64DD) [b1].ndd	n64dd-opengood
+456c68195e18d2f56a5c8b259dc88e60	Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (J) (N64DD).ndd	n64dd-opengood
+93e224278066af796a14d18dac5a5582	Mario Artist - Communication Kit (J) (N64DD).ndd	n64dd-opengood
+58dc4c50b079f237ce6dcf804987f238	Mario Artist - Paint Studio (J) (N64DD).ndd	n64dd-opengood
+64bb2fac6e8d375872dfbe64428b573a	Mario Artist - Polygon Studio (J) (N64DD).ndd	n64dd-opengood
+29c956ba6b5f2bc5ca949a6a4e618f39	Mario Artist - Talent Studio (J) (N64DD).ndd	n64dd-opengood
+26087e0750fc6da0f3de2a431e34bddf	Randnet Browser (J) (N64DD).ndd	n64dd-opengood
+f44c372e231be630a682881e64adccd1	Sim City 64 (J) (N64DD) [T+Eng20150527_PeterLemon].ndd	n64dd-opengood
+fa0a57d08faae35144b7aaa7aa7c8616	Sim City 64 (J) (N64DD).ndd	n64dd-opengood
+d9ea905727b44f2774926cb03c2300a7	Super Mario 64 - Disk Version (J) (N64DD).ndd	n64dd-opengood

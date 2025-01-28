@@ -1,0 +1,240 @@
+e67a169b3a6432342ac9cbf9e6f95873	3D Asteroids (1984)(Atari)(NTSC)(proto).a78	a78-tosec
+864efb6b43e36bef50d01d381ca7bd83	3D Asteroids (1984)(Atari)(NTSC)(proto)[b].a78	a78-tosec
+659607f14d1a0743c004d2b0bc0807fc	7800OpenBIOS (2021-07-05)(Saarna, Mike)(CC0).bin	a78-tosec
+40f69da10fbb6c77b35b89c32d9c2491	Ace of Aces (1988)(Atari)(NTSC).a78	a78-tosec
+4dd96d99c1228bb1fcae8c1b5c239197	Ace Of Aces (1988)(Atari)(NTSC)[a].a78	a78-tosec
+c31759d77154966654d414eaf1f5283c	Ace of Aces (1988)(Atari)(PAL).a78	a78-tosec
+8bf5f92ed9a276c82139c47c9875fd17	Alien Brigade (1990)(Atari)(NTSC).a78	a78-tosec
+4e5826f8bcdecaae3258cce2da57c569	Alien Brigade (1990)(Atari)(PAL).a78	a78-tosec
+273e580f8e4232ee12024656846c69c1	Asteroids (1987)(Atari)(NTSC).a78	a78-tosec
+85b5587c5a9406ddd079aa6879093cf7	Asteroids (1987)(Atari)(NTSC)[a].a78	a78-tosec
+0763f1ffb006ddbe32e52d497ee848ae	Atari 7800 BIOS (1984)(Atari)(NTSC).bin	a78-tosec
+b32526ea179dc9ab9b2e5f8a2662b298	Atari 7800 BIOS (1984)(Atari)(NTSC)[b].bin	a78-tosec
+397bb566584be7b9764e7a68974c4263	Atari 7800 BIOS (198x)(Atari)(PAL).bin	a78-tosec
+c8a73288ab97226c52602204ab894286	Atari 7800 High Score Cartridge BIOS (2000)(Atari - GCC - Gary Rubio).bin	a78-tosec
+019e0e83252d54f6db71b5b4f0e9a710	Atari 7800 Symbolic Debug Monitor & Downloader (1988)(Atari)(NTSC).a78	a78-tosec
+4b6c8de8af386a8d97c730ead43d6d0a	Atari 7800 Symbolic Debug Monitor & Downloader (1988)(Atari)(NTSC)[b].a78	a78-tosec
+d60de300a15ae659ab045e7bf0ad676f	Atari 7800 Symbolic Debug Monitor & Downloader (1988)(Atari)(NTSC)[h John Saeger][encryption checker].a78	a78-tosec
+6647ae6ebd3961ec0f15fc388baa1077	Attack of the Petscii Robots (demo-playable) (2023-02-08)(Atari Age).a78	a78-tosec
+8fd2ff3e289f33f53f2792d1a0bc3513	Ballblazer (1987)(Atari)(NTSC).a78	a78-tosec
+a6659fcf536d601948f57767aef65741	Ballblazer (1987)(Atari)(NTSC)[a].a78	a78-tosec
+554004ca435ca02eb519086f45e44033	Ballblazer (1987)(Atari)(PAL).a78	a78-tosec
+3c66e6e3de8d7b15cd54faa7c03d1c9d	Barnyard Blaster (1988)(Atari)(NTSC).a78	a78-tosec
+98477839e00a9f617a97a0e91a6ff0b1	Barnyard Blaster (1988)(Atari)(NTSC)[b].a78	a78-tosec
+138559499462d88d390d7cf93b344f5f	Barnyard Blaster (1988)(Atari)(PAL).a78	a78-tosec
+3ddfb8fe20b38500acdbcf158cdba11a	Baseball (1989)(Absolute Entertainment)(PAL).a78	a78-tosec
+43b0a082f353919f83e4b37203af280f	Basketbrawl (1990)(Atari)(NTSC).a78	a78-tosec
+7da7af81921b61d2757d796a9ff3814c	Basketbrawl (1990)(Atari)(PAL).a78	a78-tosec
+0330da8915ecf4d00caff5e43bbe96b2	Beef Drop (2004-10-19)(Siders, Ken)(FW)(alpha).a78	a78-tosec
+a62fdb6082a13e314fe7ae7983898e14	Beef Drop (2004-10-19)(Siders, Ken)(FW)(alpha)[a].a78	a78-tosec
+7183521799d21075803bd9e944b4d0fc	Beef Drop (2004-10-20)(Siders, Ken)(FW)(alpha).a78	a78-tosec
+d4f0179a29186021f7bcb07a25e0c7cf	Beef Drop (2004-10-24)(Siders, Ken)(FW)(alpha).a78	a78-tosec
+0edc0bf135f88df3faa37170e02b925c	Beef Drop (2004-10-26)(Siders, Ken)(FW)(alpha).a78	a78-tosec
+5b470d4c3f040ac58cb607dcf0a80f79	Beef Drop (2004-10-28)(Siders, Ken)(FW)(alpha).a78	a78-tosec
+2a94d244b6dcc2bb195794a30723374b	Beef Drop (2004-10-29)(Siders, Ken)(FW)(alpha).a78	a78-tosec
+f92dbbca3e50a74ca8b851be02f94ecb	Beef Drop (2004-10-31)(Siders, Ken)(FW)(alpha).a78	a78-tosec
+fa500c7d03c671889256aa0118969702	Beef Drop (2004-11-03)(Siders, Ken)(FW)(beta).a78	a78-tosec
+ca0b3b2da0b0e222fbd17bd393b0bb7d	Beef Drop (2004-11-04)(Siders, Ken)(FW)(beta).a78	a78-tosec
+5a92eb1ebfd1eecfa5cf46139fafbdd0	Beef Drop (2004-11-05)(Siders, Ken)(FW)(beta).a78	a78-tosec
+6a59c93ccb30416f77598c60cbbd3a43	Beef Drop (2004-11-05)(Siders, Ken)(FW)(beta)[a].a78	a78-tosec
+ca97af40fc1ee7d8ff588fd9e20eb6ce	Beef Drop (2004-11-06)(Siders, Ken)(FW)(beta).a78	a78-tosec
+2eb44fcd9b4246e05ae5dbae633f9f5f	Beef Drop (2004-11-09)(Siders, Ken)(FW)(beta).a78	a78-tosec
+03a58c50810a166bb1b753e908ebf635	Beef Drop (2004-11-10)(Siders, Ken)(FW)(beta).a78	a78-tosec
+36ece8d296d6ee81477ef4fa7d14e91b	Beef Drop (2004-11-11)(Siders, Ken)(FW)(beta).a78	a78-tosec
+71134ef1a0320b23671a77e8f196c20d	Beef Drop (2004-11-17)(Siders, Ken)(FW)(beta).a78	a78-tosec
+a8aa9ddbdd38b3e7025427eedc0756f2	Beef Drop (2004-11-19)(Siders, Ken)(FW)(beta).a78	a78-tosec
+f3ba27379e889cc59ac433f75c13bdcd	Beef Drop (2004-11-20)(Siders, Ken)(FW)(beta).a78	a78-tosec
+c14870ef63aeb30eb3a23f1527420fc6	Beef Drop (2004-11-23)(Siders, Ken)(FW)(beta).a78	a78-tosec
+6943b1fd3c402e9ae028bac182b1b43b	Beef Drop (2004-11-30)(Siders, Ken)(FW)(beta).a78	a78-tosec
+07fc69574587dcdfc3cc28a0f19a17c7	Beef Drop (2004-12-03)(Siders, Ken)(FW)(beta).a78	a78-tosec
+4b1ca1129b221d633847ad7629bf3e7a	Beef Drop (2004-12-05)(Siders, Ken)(FW)(beta).a78	a78-tosec
+0c00f967a461b17f31a93797f3bd6b5e	Beef Drop (2004-12-08)(Siders, Ken)(FW)(beta).a78	a78-tosec
+5051541e52ed11880b985b52e946f437	Beef Drop (2004-12-08)(Siders, Ken)(FW)(beta)[a].a78	a78-tosec
+95a1f156e9c1060395f49bea165a066c	Beef Drop (2004-12-09)(Siders, Ken)(FW)(beta).a78	a78-tosec
+8304f72e8371b6beda0e70ab9997f993	Beef Drop (2004-12-10)(Siders, Ken)(FW)(beta).a78	a78-tosec
+602ce9b8e7b8b7902aa7aecd94d89f39	Beef Drop (2004-12-21)(Siders, Ken)(FW)(beta).a78	a78-tosec
+4a691d394cf2ecfc40d884705af72967	Beef Drop (2005-01-03)(Siders, Ken)(FW)(beta).a78	a78-tosec
+27cd5335a9d73718a4ecdb9fbdb895bc	Beef Drop (2005-01-05)(Siders, Ken)(FW)(beta).a78	a78-tosec
+729af055d2d0ba06e6acb90777240e78	Beef Drop (2005-01-05)(Siders, Ken)(FW)(beta)[a].a78	a78-tosec
+5789edbfa398d49ca88ea4485ba7c158	Beef Drop (2005-01-08)(Siders, Ken)(FW)(beta).a78	a78-tosec
+8ef6ec5639c6fe7059f4a840bb13a18a	Beef Drop (2005-01-08)(Siders, Ken)(FW)(beta)[Pokey forced off].a78	a78-tosec
+115d9e6ba3a63a1497d19bec2b8c6bd2	Beef Drop (2005-01-08)(Siders, Ken)(FW)(beta)[Pokey forced on].a78	a78-tosec
+4c83018f3d7f8a71287483e4f698cb60	Beef Drop (2005-01-09)(Siders, Ken)(FW)(beta).a78	a78-tosec
+166b89829b141fefed301f5987e70bbe	Beef Drop (2005-01-09)(Siders, Ken)(FW)(beta)[Pokey forced off].a78	a78-tosec
+3bb5481ff1d0451993cd6c299844aff0	Beef Drop (2005-01-09)(Siders, Ken)(FW)(beta)[Pokey forced on].a78	a78-tosec
+27dcc145d1c4176e57a655f15dbcdaaa	Beef Drop (2005-01-10)(Siders, Ken)(FW)(beta).a78	a78-tosec
+d6e22f54eebf054a20073e585dab4e64	Beef Drop (2005-01-10)(Siders, Ken)(FW)(beta)[Pokey forced off].a78	a78-tosec
+d7eba3c20d84287fef436ab41c10e6e8	Beef Drop (2005-01-10)(Siders, Ken)(FW)(beta)[Pokey forced on].a78	a78-tosec
+4ae38750870850d3829fb6f913352037	Beef Drop (2005-02-23)(Siders, Ken)(FW)(pre-release).a78	a78-tosec
+4d18c54e641126473a9161e1c370af99	Beef Drop (2005-02-24)(Siders, Ken)(FW)(pre-release).a78	a78-tosec
+4433875a6cd9f076e5298256a45c7bb4	Beef Drop (2005-02-24)(Siders, Ken)(FW)(pre-release)[a].a78	a78-tosec
+109238ee5ac84913aad57ac6468d0ea6	Beef Drop (2005-02-25)(Siders, Ken)(FW)(pre-release).a78	a78-tosec
+1c7201ccc941d3441015d130bd493a69	Beef Drop (2005-03-09)(Siders, Ken)(FW)(pre-release).a78	a78-tosec
+6d4a5ccd705a8ee8891e8ed30f5abc91	Beef Drop (2006-01-08)(Siders, Ken)(FW)(pre-release).a78	a78-tosec
+7914221a1c0b2c9fd26e068354389799	Beef Drop (2006-06-30)(Siders, Ken)(FW)(pre-release).a78	a78-tosec
+9c528bfb4363887b0f543e68d4b8fe07	Beef Drop (2006-06-30)(Siders, Ken)(FW)(pre-release)[pokey fallback].a78	a78-tosec
+768433a5a3829a744f0954c86469b982	Beef Drop (2006-07-01)(Siders, Ken)(FW)(pre-release).a78	a78-tosec
+363125e0261f3a02a322d0d672429e05	Beef Drop (2006-07-02)(Siders, Ken)(FW)(pre-release).a78	a78-tosec
+73fd6ae0d9905e8665c5c0742ff9cf8f	Beef Drop (2006-07-03)(Siders, Ken)(FW)(pre-release).a78	a78-tosec
+37569def8e80f1dd62cb901dde094c51	Beef Drop (2006-07-04)(Siders, Ken)(FW)(pre-release).a78	a78-tosec
+c01fafe0073c765777973c5562c99301	Beef Drop (2006-07-04)(Siders, Ken)(FW)(pre-release)[a].a78	a78-tosec
+dca5519ab4c6ea1bf065a1022411e976	Beef Drop (2006-07-04)(Siders, Ken)(FW)(pre-release)[a2].a78	a78-tosec
+30292f8c3cefcf4dd624e36eb02efcbb	Beef Drop (demo-playable) (2006-07-03)(Siders, Ken)(FW).a78	a78-tosec
+061cf56c884c6b4cb1fab16898e1c150	Centipede (1987)(Atari)(NTSC).a78	a78-tosec
+7612b1bb30320d37d79b7f48b16430b2	Centipede (1987)(Atari)(NTSC)[a].a78	a78-tosec
+57ef570b8595bcdf0e26bc9b5b109b41	Centipede (1987)(Atari)(PAL).a78	a78-tosec
+e9b1db4fea757c6f225e4811353333d4	Choplifter! (1987)(Atari)(NTSC).a78	a78-tosec
+0826515be7d9bc1fea26a7d6063667c1	Choplifter! (1987)(Atari)(NTSC)[a].a78	a78-tosec
+028c6757a2528219ea39b26c35b953dc	Choplifter! (1987)(Atari)(PAL).a78	a78-tosec
+51b1b519e9ff6cf2d43d135cb91cc15b	Color Selector (1987)(Atari).a78	a78-tosec
+38b4e11ebf4bbfdc66c7d2ef96115bd2	Commando (1989)(Atari)(NTSC).a78	a78-tosec
+95d5eac7b804f3cb1950e0d19a03afe7	Commando (1989)(Atari)(NTSC)[a].a78	a78-tosec
+d59edcc53c3b1e4e565ff7234a5d37a6	Commando (1989)(Atari)(PAL).a78	a78-tosec
+5a8344478c246200d0ef987557aae3cd	Crack'ed (1988)(Atari)(NTSC).a78	a78-tosec
+911049690a04e272d28ee80d12329bc9	Crack'ed (1988)(Atari)(PAL).a78	a78-tosec
+d63fc454cc69ae92a1bbfe36b193dc08	Cross Verbix (2022-12-15)(Caruso, Fabrizio).a78	a78-tosec
+a97c505f4597f7e3906d34410a5fac96	Cross Verbix (2022-12-15)(Caruso, Fabrizio)[no color].a78	a78-tosec
+68ae796ad700df322628ce9dfc82e802	Crossbow (1987)(Atari)(NTSC).a78	a78-tosec
+ff49656b248dd277f9d75dcca0a30116	Crossbow (1987)(Atari)(PAL).a78	a78-tosec
+b94b39a2ece024bc79ad350914219a72	Dark Chambers (1988)(Atari)(NTSC).a78	a78-tosec
+26036ccf66b2747fd00d3884a528614c	Dark Chambers (1988)(Atari)(PAL).a78	a78-tosec
+cbac0bf951e3cd52e5537c926d66440b	Desert Falcon (1987)(Atari)(NTSC).a78	a78-tosec
+ec1f38ae5b5e638e1ac84016ee1c0019	Desert Falcon (1987)(Atari)(NTSC)[a].a78	a78-tosec
+a1e78ca5dd1b84ce5a96ab1590abfef1	Desert Falcon (1987)(Atari)(PAL).a78	a78-tosec
+601fad0083f166e5022e4612caa42d42	Diagnostic Test Cartridge (1984)(Atari)(NTSC).a78	a78-tosec
+8df5c10517da1c001072fd5526e4a683	Diagnostic Test Cartridge (1984)(Atari)(NTSC)[a].a78	a78-tosec
+e61d1792314e6632baa4e6b92e59195d	Dig Dug (1987)(Atari)(NTSC).a78	a78-tosec
+3976abf29e9d6aa000bff8268c0d534e	Dig Dug (1987)(Atari)(NTSC)[a].a78	a78-tosec
+fa3279ef84d3f6a9df151ff578fcffe5	Dig Dug (1987)(Atari)(PAL).a78	a78-tosec
+d5124b0da4338a299498f29a344e413f	Donkey Kong (1988)(Atari)(NTSC).a78	a78-tosec
+35eabe5b952a4f733b904f73511f884d	Donkey Kong (1988)(Atari)(NTSC)[a].a78	a78-tosec
+124a82890e7723ca9af7c8c063c503ab	Donkey Kong (1988)(Atari)(PAL).a78	a78-tosec
+cfff068fe77f35374f90985e096faa3e	Donkey Kong Junior (1988)(Atari)(NTSC).a78	a78-tosec
+c4940b2652d6a654cbbecfb59495ba24	Donkey Kong Junior (1988)(Atari)(NTSC)[a].a78	a78-tosec
+c921a3c7028f03ec2469b92fa4b08d42	Donkey Kong Junior (1988)(Atari)(PAL).a78	a78-tosec
+39c607e68a8e2bc870b2355a0273c973	Double Dragon (1989)(Activision)(NTSC).a78	a78-tosec
+994efa37ac630a7120b9a86629c8a613	Double Dragon (1989)(Activision)(PAL).a78	a78-tosec
+5b12d06d595dd806bc62eebec993e915	Eighty-Six Sprites (2023-09)(RevEng).a78	a78-tosec
+934a3ee1ae7f9d740c868064862da318	F-18 Hornet (1988)(Absolute Entertainment)(NTSC).a78	a78-tosec
+2ba340df68292ff2cb20773ace47b749	F-18 Hornet (1988)(Absolute Entertainment)(NTSC)[b].a78	a78-tosec
+f80f02445676f6d26cb77583d189aa0a	F-18 Hornet (1988)(Absolute Entertainment)(NTSC)[b2].a78	a78-tosec
+4f6d09b0221636b56014e4756f4a9b17	F-18 Hornet (1988)(Absolute Entertainment)(PAL).a78	a78-tosec
+fb28cd747d102114858010f6eb16ab35	Fatal Run (1990)(Atari)(NTSC).a78	a78-tosec
+c9551260a5a8e79e38acd8294c791f5a	Fatal Run (1990)(Atari)(PAL).a78	a78-tosec
+c64fb1c181e2d8b807181bb3c0fffbe9	Fight Night (1988)(Atari)(NTSC).a78	a78-tosec
+57109e6e4e2852c23440300ad27ce3cb	Fight Night (1988)(Atari)(PAL).a78	a78-tosec
+32cbe0cfaa773749df4fcaf7dbca74db	Food Fight (1987)(Atari)(NTSC).a78	a78-tosec
+9a3819eef58dddb550fe997e7e6abee2	Food Fight (1987)(Atari)(NTSC)[a].a78	a78-tosec
+68a62e30225431f4a789dbc957bc28ff	Food Fight (1987)(Atari)(PAL).a78	a78-tosec
+3303ac4fa80351e2240b097e2781afe1	Galaga (1987)(Atari)(NTSC).a78	a78-tosec
+1dd27b0caf03d6e3948d3be16ac30792	Galaga (1987)(Atari)(NTSC)[a].a78	a78-tosec
+712225bf32f418848375012c91bb8554	Galaga (1987)(Atari)(PAL).a78	a78-tosec
+aef7d1fb101c340bd83dffc90080d7da	GATO (1987)(Atari)(NTSC)(proto).a78	a78-tosec
+f95af33c24798aeea0a2e4497bf97197	GATO (1987)(Atari)(NTSC)(proto)[a].a78	a78-tosec
+92f5dedbcd4456436917ce49fc2af923	Hat Trick (1987)(Atari)(NTSC).a78	a78-tosec
+e3009bea70564f42dea651aa6fb89bd2	Hat Trick (1987)(Atari)(NTSC)[a].a78	a78-tosec
+f7bf702bd6995df5ec7e377fd17b2689	Hat Trick (1987)(Atari)(PAL).a78	a78-tosec
+09ab678572f2c2953a7dda3cc3cda0df	Ikari Warriors (1989)(Atari)(NTSC).a78	a78-tosec
+605b8fe25fcd5a8166f858f48bd3e454	Ikari Warriors (1989)(Atari)(PAL).a78	a78-tosec
+151ae3590901543a022b7a58c4d20ce6	Impossible Mission (1987)(Atari)(NTSC).a78	a78-tosec
+9873fd58983fe5a026ecb457dc538c70	Impossible Mission (1987)(Atari)(NTSC)[a].a78	a78-tosec
+f9b53a96ad0a408d37fa1f1e745ac2df	Impossible Mission (1987)(Atari)(PAL).a78	a78-tosec
+f4eaa88fa34b608c5b521ddf821173c4	Jinks (1989)(Atari)(NTSC).a78	a78-tosec
+93630d3b32690f4127edde9993163cba	Jinks (1989)(Atari)(PAL).a78	a78-tosec
+980bf180e70aee85c5080f1b57e37558	Joust (1987)(Atari)(NTSC).a78	a78-tosec
+6acb6db87bd24ab7eecdbef2f206b384	Joust (1987)(Atari)(NTSC)[a].a78	a78-tosec
+1cc643e4ef4015ca8b4cac53ac9f8d72	Joust (1987)(Atari)(PAL).a78	a78-tosec
+66d00c7dec50696650092f65525671f4	Karateka (1988)(Atari)(NTSC).a78	a78-tosec
+a58e0790cf2940e33343daacee0bc864	Karateka (1988)(Atari)(NTSC)[a].a78	a78-tosec
+36dfd705194d331ff828866b7e8ca0ef	Karateka (1988)(Atari)(PAL).a78	a78-tosec
+6bfab37581cf320bead173ad8667abd5	Klax (1992)(Atari)(NTSC)(proto).a78	a78-tosec
+3fa3bf48510bd3c3464e6cc18864b8d8	Klax (1992)(Atari)(NTSC)(proto)[a].a78	a78-tosec
+62ac9b6a93308bb65ca8158b2100ff34	Klax (1992)(Atari)(NTSC)(proto)[b].a78	a78-tosec
+1d9513a8d2a837caca7bb4e9884a87cb	Kung-Fu Master (1989)(Absolute Entertainment)(NTSC).a78	a78-tosec
+8c92c54ca423f866886a7955bc5d6996	Kung-Fu Master (1989)(Absolute Entertainment)(PAL).a78	a78-tosec
+ae174ab64a4858cd05a3fc12cc9e140b	Mario Bros. (1988)(Atari)(NTSC).a78	a78-tosec
+4e1151e58e14ffca2a445d46981dab65	Mario Bros. (1988)(Atari)(NTSC)[a].a78	a78-tosec
+fc806b64f8a6693d5b845eef69603188	Mario Bros. (1988)(Atari)(PAL).a78	a78-tosec
+bbbca8b82ffb92801f97a9f9bb22f41f	Mat Mania Challenge (1990)(Atari)(NTSC).a78	a78-tosec
+b34fec30a281a066c4098c44709f30ae	Mat Mania Challenge (1990)(Atari)(NTSC)[a].a78	a78-tosec
+d5cbbe02760e0f13aacf2fb0808d968a	Mat Mania Challenge (1990)(Atari)(PAL).a78	a78-tosec
+870ad5326b05ead675d35a1c679c4b1f	Mean 18 Ultimate Golf (1989)(Atari)(NTSC).a78	a78-tosec
+a2467a3c756505010a37e9a687de57d5	Mean 18 Ultimate Golf (1989)(Atari)(NTSC)[a].a78	a78-tosec
+a5a0f6297c29146162bcd6db7d30790e	Mean 18 Ultimate Golf (1989)(Atari)(PAL).a78	a78-tosec
+548c743c32058950d507861d7993d425	Meltdown (1990)(Atari)(NTSC).a78	a78-tosec
+98523d961dfd51d4fdf7b507ccdfe5e4	Meltdown (1990)(Atari)(NTSC)[b].a78	a78-tosec
+56ba37a817e0f434bbec9e9274b84d36	Meltdown (1990)(Atari)(PAL).a78	a78-tosec
+e0cc5168d910557c01d3c95173ec7d0a	Midnight Mutants (1990)(Atari)(NTSC).a78	a78-tosec
+6367b42ce5db0d97f8ff994225254e35	Midnight Mutants (1990)(Atari)(PAL).a78	a78-tosec
+06b27077568fe7529d2d0bdfdd974854	Motor Psycho (1990)(Atari)(NTSC).a78	a78-tosec
+42faf283fee9fd61acf0691f349e929e	Motor Psycho (1990)(Atari)(PAL).a78	a78-tosec
+8b79479dbc5c75b3513319c52ae6fc29	Ms. Pac-Man (1987)(Atari)(NTSC).a78	a78-tosec
+12a6483c57d2060d1d07eed2f4cb63dd	Ms. Pac-Man (1987)(Atari)(NTSC)[a].a78	a78-tosec
+91b24c1e13b39b649d80efe1d9b742ae	Ms. Pac-Man (1987)(Atari)(PAL).a78	a78-tosec
+bb551483d114dcc5bae7aaa892ee856a	Ninja Golf (1989)(Atari)(NTSC).a78	a78-tosec
+2376f769c6183f80bf4b791a57dc1554	Ninja Golf (1989)(Atari)(PAL).a78	a78-tosec
+247163ef4b5a5966bfeecfca376a0533	One-on-One Basketball (1987)(Atari)(NTSC).a78	a78-tosec
+485478092c2f192eaf29ca199b753d16	One-on-One Basketball (1987)(Atari)(NTSC)[a].a78	a78-tosec
+c6c901171fda11e1deba32ccff1a218d	One-on-One Basketball (1987)(Atari)(PAL).a78	a78-tosec
+e749db4d81db283c1b6628181504b1b8	Pete Rose Baseball (1989)(Absolute Entertainment)(NTSC).a78	a78-tosec
+3c882503c71027f64e7ee7630e765aa9	Pete Rose Baseball (1989)(Absolute Entertainment)(NTSC)[b].a78	a78-tosec
+7152e5c43f700b253480d324affb6792	Pit Fighter (1992)(Atari)(NTSC)(proto).a78	a78-tosec
+0d06d0f107b41bf83733031059835c2c	Pit Fighter (1992)(Atari)(NTSC)(proto)[b].a78	a78-tosec
+b22ee90919dbbceb1cefaf0f83179a4d	Pit Fighter (1992)(Atari)(NTSC)(proto)[o].a78	a78-tosec
+923ee9602e0af45fe5d2131dfd78214c	Planet Smashers (1989)(Atari)(NTSC).a78	a78-tosec
+dd2428f9f032fc8eed7e2047820b41a3	Planet Smashers (1989)(Atari)(PAL).a78	a78-tosec
+f0abd58c1de2ba3e577f90c3d52dd7fc	Poetiru (2015)(Mihai, Sebastian).a78	a78-tosec
+1eb8d721eecc75d57c44eaa3a2635e14	Pole Position II (1987)(Atari)(NTSC).a78	a78-tosec
+8a4f2f898ee79593e2fc30061526ca08	Pole Position II (1987)(Atari)(NTSC)[a].a78	a78-tosec
+a0f09999a960c4df88ebbe652b286c2e	Pole Position II (1987)(Atari)(PAL).a78	a78-tosec
+312f9df6d593e69567b1de26d283a2be	Rampage (1989)(Activision)(NTSC).a78	a78-tosec
+83a91c157d4feb13c3513b158d6c825f	RealSports Baseball (1988)(Atari)(NTSC).a78	a78-tosec
+f39b3664545d1a13af40a9656c463bfe	RealSports Baseball (1988)(Atari)(NTSC)[o].a78	a78-tosec
+eb2110c0fc2655775166219e4877f80c	Robotron - 2084 (1987)(Atari)(NTSC).a78	a78-tosec
+5ac3aa823da1a7a9738c208161fbca57	Robotron - 2084 (1987)(Atari)(NTSC)[a].a78	a78-tosec
+eb1a0b793c58b2e2cacc01b843aebfed	Scrapyard Dog (1990)(Atari)(NTSC).a78	a78-tosec
+c3b2f0f462dbbf66d0c8c5c6e457d603	Scrapyard Dog (1990)(Atari)(PAL).a78	a78-tosec
+95aab3a67eec47e3346a3d34d72e2312	Senso 7800 DX2 (2002)(Taquart)(PD).a78	a78-tosec
+0d6f4776131a4afdebdeb072570cea62	Senso 7800 DX3 (2003)(Taquart)(PD).a78	a78-tosec
+89ae1db3edc1b9c8d7aff8af593528ad	Senso 7800 DX4 (2003)(Taquart)(PD).a78	a78-tosec
+6d2463f2e101960c29aef1ef9d2de0be	Senso 7800 Test 5 (2001)(Taquart)(PD).a78	a78-tosec
+a3d62d98dbd93d43d3ac04fbb35ef1f9	Sentinel (1990)(Atari)(NTSC)(proto).a78	a78-tosec
+e31bc3ed3a32e17ad5a4a356e66799f1	Sentinel (1990)(Atari)(NTSC)(proto)[b].a78	a78-tosec
+37aa591e7000539aa64726de5a8bad92	Sentinel (1991)(Atari)(PAL).a78	a78-tosec
+967d09d8c03983cf92df73cabbeeea0e	Sentinel (1991)(Atari)(PAL)[b].a78	a78-tosec
+f25b213716ffaa2800343846d116519d	Shuriken (2023-08-03)(Caruso, Fabrizio).a78	a78-tosec
+2c1a97e352465c7444643e099fa4892e	Space War! Rev 20030930 (2003)(Eric Ball)(PD).a78	a78-tosec
+45af8572859c3f883bc41a9a004ad8c8	Space War! Rev 20040318 (2004)(Eric Ball)(PD).a78	a78-tosec
+9f4dd0273007c96b0fc1f8946de726c1	Stinger (2023-10-08)(Caruso, Fabrizio).a78	a78-tosec
+fe736f7155c8c0a9f72f8ee3ec1470b3	Stinger (2023-10-08)(Caruso, Fabrizio)[no color].a78	a78-tosec
+8f20411a26326459ee3708da1e1adc59	Stinger (2023-11-02)(Caruso, Fabrizio).a78	a78-tosec
+e83f9344daa92dce1b80ac8c57173e84	Stinger (2023-11-02)(Caruso, Fabrizio)[no color].a78	a78-tosec
+b52e03faf69edc223425e7caf0ed900a	Summer Games (1987)(Atari)(NTSC).a78	a78-tosec
+559e0a7566616b83644718f6f501e7a8	Summer Games (1987)(Atari)(NTSC)[b].a78	a78-tosec
+0d5208d60c0a2fd23a09939c6c0fe3a3	Super Huey UH-1X (1988)(Atari)(NTSC).a78	a78-tosec
+81b81dd6239255be35c1d9bd2ce701c6	Super Huey UH-1X (1988)(Atari)(NTSC)[a].a78	a78-tosec
+324a08b67016600e5bd21218aa3e84f8	Super Huey UH-1X (1988)(Atari)(NTSC)[a2].a78	a78-tosec
+38ca78bccd3f181b3a833e2bcecd921f	Super Huey UH-1X (1988)(Atari)(PAL).a78	a78-tosec
+1203a779363886f017e1424a1d90481a	Super Skateboardin' (1988)(Absolute Entertainment)(NTSC).a78	a78-tosec
+bbc4b9d8e81d46a56ffb9b94fa4e4848	Super Skateboardin' (1988)(Absolute Entertainment)(PAL).a78	a78-tosec
+66f904276dabed87fe79f18f794c6dd0	Tank Command (1988)(Froggo)(NTSC).a78	a78-tosec
+b8c777d263625dd1135c215f27b92fcc	Tank Command (1988)(Froggo)(NTSC)[b].a78	a78-tosec
+43accd17517c001b8183c8ec12882ec6	Tank Command (1988)(Froggo)(NTSC)[o].a78	a78-tosec
+574b71c7cc5b0bc7746719cc8ffcf8ef	Title Match Pro Wrestling (1989)(Absolute Entertainment)(NTSC).a78	a78-tosec
+777646d3852f4232b43fe22f77063e1b	Title Match Pro Wrestling (1989)(Absolute Entertainment)(PAL).a78	a78-tosec
+176e6378f1d0e769dc6145fdde0a5081	Tomcat - The F-14 Fighter Simulator (1989)(Absolute Entertainment)(NTSC).a78	a78-tosec
+6bf9d6748a220cb6ff150f575b24aa14	Tomcat - The F-14 Fighter Simulator (1989)(Absolute Entertainment)(PAL).a78	a78-tosec
+d257805d290cc03ab750fae960ca74d7	Touchdown Football (1988)(Atari)(NTSC).a78	a78-tosec
+252515a9fea1976a99167a40df1e77a3	Tower Toppler (1988)(Atari)(NTSC).a78	a78-tosec
+55c33c7aac3b31936312a1697b0263b3	Tower Toppler (1988)(Atari)(NTSC)[o].a78	a78-tosec
+36575046957046486396e943d10fef9f	Tower Toppler (1988)(Atari)(PAL).a78	a78-tosec
+a413c03945cb0627b7f5515dd6e9ea41	Water Ski (1988)(Froggo)(NTSC).a78	a78-tosec
+70df05fa0f92c39259c0667cbd27baf4	Water Ski (1988)(Froggo)(NTSC)[b].a78	a78-tosec
+b80c718aca6b9d087bbd5d42d6925967	Water Ski (1988)(Froggo)(NTSC)[o].a78	a78-tosec
+53309f5298af58f658cff43c122b8856	Winter Games (1987)(Atari)(NTSC).a78	a78-tosec
+2c672efdb4f5eafd1b2ef10ea1ec4185	Winter Games (1987)(Atari)(NTSC)[b].a78	a78-tosec
+46a7909d1fb1dd8ad4a6ae1c251cef33	Xenophobe (1989)(Atari)(NTSC).a78	a78-tosec
+c6c6051f7005c05820065426907f5390	Xenophobe (1989)(Atari)(PAL).a78	a78-tosec
+8201465d32c4057bb479959b59374b65	Xevious (1988)(Atari)(NTSC).a78	a78-tosec
+6fa5ece1f97f65c207b8c252ee49f97c	Xevious (1988)(Atari)(NTSC)[a].a78	a78-tosec
+a9b3fbc9abadad89fa62a28702adcba0	Xevious (1988)(Atari)(PAL).a78	a78-tosec

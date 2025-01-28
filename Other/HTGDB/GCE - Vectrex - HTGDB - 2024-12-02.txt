@@ -1,0 +1,282 @@
+00f768e79d6ebfe9bf920ffec4c5c4f2	3D Crazy Coaster (USA).vec	vectrex-htgdb
+1a81fea8ac1c1d46de7b633814130857	3D Mine Storm (USA).vec	vectrex-htgdb
+f79c596a0205c5e7c427cdbbb1e16918	3D Narrow Escape (USA).vec	vectrex-htgdb
+5e7a5dc59e32f2f63d85ae1f0201113a	AnimAction - Advanced Animation (USA).vec	vectrex-htgdb
+9657037a461eee919462eb6a01879685	Armor..Attack (World).vec	vectrex-htgdb
+972972f871916a922f20779deed8a708	Art Master (USA).vec	vectrex-htgdb
+268e75778f282d853d77acf42c6c8734	Bedlam (USA, Europe).vec	vectrex-htgdb
+640ae7bd4538bad11256999db68de5a0	Berzerk (World).vec	vectrex-htgdb
+94f144c31fd4563f9473ed0563463e54	Blitz! - Action Football (USA, Europe) (0F11CE0C).vec	vectrex-htgdb
+5d74770bb175357812e61ee7ca731270	Blitz! - Action Football (USA, Europe) (881B27C5).vec	vectrex-htgdb
+a376d5648e08f348e5965c058c631c6d	Clean Sweep (World).vec	vectrex-htgdb
+9b61653ed9dafd4cfb7f9d94404259ac	Cosmic Chasm (World).vec	vectrex-htgdb
+db9929b0ad53c97afda065596806bf86	Dark Tower (USA) (Proto).vec	vectrex-htgdb
+896793a17a32932bcd64c52c77b00d55	Engine Analyzer (USA) (Proto).vec	vectrex-htgdb
+e65b3262e9447a747d93e0ccb1dbb7df	Fortress of Narzod (USA, Europe).vec	vectrex-htgdb
+501dd2845432f10e4b9531240f409b8c	Heads-Up - Action Soccer (USA).vec	vectrex-htgdb
+7580926ee22f06fd2ccde4b65184715f	HyperChase - Auto Race (World).vec	vectrex-htgdb
+e0dfc58763716c3b6a89e08f4869396e	Mail Plane (USA) (Proto) (05838962).vec	vectrex-htgdb
+e6c821917e168b1e6e27bf2b90ad6cfb	Mail Plane (USA) (Proto) (DA1AC0DB).vec	vectrex-htgdb
+80e72d7e1bb06fd5d5a24c93f1b61f14	Melody Master - Music Composition and Entertainment (USA).vec	vectrex-htgdb
+ee19e350be0af2a509a202b057488dc8	Mine Storm (World).vec	vectrex-htgdb
+126fecbf4fb09fdb5a3c9af92abaed7c	Mine Storm II (USA) (Rev 2).vec	vectrex-htgdb
+1c95cf8fcd2c98db747208ade464a44f	Mr. Boston Clean Sweep (Europe).vec	vectrex-htgdb
+e7bf7de16b01419a819826cce3dc25ee	Pitcher's Duel (USA) (Proto).vec	vectrex-htgdb
+f599da79b5c324c2a11c117d256a64c0	Polar Rescue (USA) (Beta).vec	vectrex-htgdb
+5c1c413e51aa282015807dc60213fd3d	Polar Rescue (USA).vec	vectrex-htgdb
+f94173910549038d4d8f329413a5aa54	Pole Position (USA) (A00ED3D6).vec	vectrex-htgdb
+f85c521f445c82bf200b5b85b9b1cd60	Pole Position (USA) (C10F37D8).vec	vectrex-htgdb
+4bb04a738c216e98cc07ed28f6cd4db8	RA+A Spectrum I+ Stress Tester (USA) (Proto).vec	vectrex-htgdb
+808e0501990bd01882c102df00f20064	Rip Off (World).vec	vectrex-htgdb
+95370908561a782edf138df41ccb8f18	Scramble (USA, Europe).vec	vectrex-htgdb
+cf6c01b0212e3b2191a97139cf1f427a	Sledge 3D (USA) (Sample).vec	vectrex-htgdb
+11a9bd419cf094de8caa8a44d76b69ab	Solar Quest (World).vec	vectrex-htgdb
+2decdf9f55df7fb99761b2fe51425e40	Space Wars (World).vec	vectrex-htgdb
+5a90ab748f7b220edaf8c1d67e0bfe89	Spike (USA, Europe).vec	vectrex-htgdb
+ecc143f87a702af7a1786b58a78ace01	Spin ball (USA).vec	vectrex-htgdb
+1224c9beae22ee7354e4220c46237696	Star Castle (USA).vec	vectrex-htgdb
+47cefe6f77dbafb4475a64fe89da02c0	Star Ship (Europe).vec	vectrex-htgdb
+0b67a6339e9c1d8385e8fdfc48f447bc	Star Trek - The Motion Picture (USA).vec	vectrex-htgdb
+add42c10019e88f47dd98791f8de3148	StarHawk (World).vec	vectrex-htgdb
+8ce9091361e0884bcd60409fc3301edc	Tour De France (USA) (Proto).vec	vectrex-htgdb
+a3e0f44454d4100b18493f1bd2485d8b	WebWarp (Europe).vec	vectrex-htgdb
+a398c18b4ce87929471b559b2bc7e79f	WebWars (USA).vec	vectrex-htgdb
+1b00d5000f665dbb9454953050bb87f0	Armor Attack (1982) (Spinner Hack).vec	vectrex-htgdb-hacks
+7ce4dceebc4a1db29f4005a7991c3378	Bedlam (1983) (Spinner Hack).vec	vectrex-htgdb-hacks
+6ac9f45324a62a5edeb9a7a94c45ac50	Dark Tower (1983) (Prototype) (Fred Taft Hack) [h1].vec	vectrex-htgdb-hacks
+a970aed37cffd29ab3740f8e79518858	Mine Storm (1982) (Karrsoft Hack) [h1].vec	vectrex-htgdb-hacks
+ef4fa5e79026a5edde80be3b030f3e86	Mine Storm (1982) (RLB Hack) [b1].vec	vectrex-htgdb-hacks
+0cda10e5f1252ed6d44c6148a37601b6	Mine Storm II (1983) (Fred Taft Hack) [h1].vec	vectrex-htgdb-hacks
+1419eb1920e8fab7af8d9d6fc6c3d09b	Mine Storm II (1983) (Spinner Hack).vec	vectrex-htgdb-hacks
+a7717d6c40cd6c3c8ee1aa6c05de483a	Patriots 3 Trackball Hack v1.0 (PD) BinaryStar.BIN	vectrex-htgdb-hacks
+1cbcfbb00a9fde35b19a93b7e5bdcca0	Patriots Remix Trackball Hack v1.0 (PD) BinaryStar.bin	vectrex-htgdb-hacks
+8c85e97e3006d62d5a7357a67aca4fe6	Patriots Trackball Hack v1.01 (PD) BinaryStar.bin	vectrex-htgdb-hacks
+a183501b50935c970823145fc8c5f40b	Pole Position (1982) (Spinner Hack).vec	vectrex-htgdb-hacks
+0635e54d347daaa0d1cef6b1b395211d	Solar Quest (1982) (Spinner Hack).vec	vectrex-htgdb-hacks
+53a840bc55e7119bf63aa5e86e53aaf8	Star Castle (1983) (Spinner Hack).vec	vectrex-htgdb-hacks
+b1716fd39328287f5c4807f8d63b5449	Star Hawk Trackball Hack v1 (PD) BinaryStar.bin	vectrex-htgdb-hacks
+ad98f3477c2ac3aabbeb3beff9ccd69f	Star Trek - The Motion Picture (1982) (controller hack) [h1].vec	vectrex-htgdb-hacks
+f85ecc92900639250bb973aa2672c342	8Ball by Christopher Tumber (2001) (PD).vec	vectrex-htgdb-homebrews
+2ef764e31c36eed4006d8a35e96f22ad	All Good Things by John Dondzila (1996).vec	vectrex-htgdb-homebrews
+e7418b78d60dffaa90cb17d9d284f5ff	Amen Break Live (PD) v1 binarystarsoftware.BIN	vectrex-htgdb-homebrews
+b48ad4590945b79fc55bf2a4d1924786	Arsek by Marq (2000) (PD).vec	vectrex-htgdb-homebrews
+705baa1db46f27e66913a933cbc8196e	Axel F - Beverly Hills Cop by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews
+b94cebcbd923aa28bef56b45d09ca925	Bach Prelude #1 by Jeff Woolsey (1985) (PD).vec	vectrex-htgdb-homebrews
+70e9dca9114f08091e7ef5622332a67f	Battle Earth Terror Hazard & Vecsports Boxing (2000) (PD).vec	vectrex-htgdb-homebrews
+3be0d397d128c9b78a8a2067cce5063e	Battle Earth Terror Hazard V4 by Manu (2000) (PD).vec	vectrex-htgdb-homebrews
+1265f3be0d3d0c044540367a65e32479	Becky's Message (PD) Dan Siewers 2003.bin	vectrex-htgdb-homebrews
+405b64c331ca42ef2cf58c35c5c5dae0	Berzerk Arena (PD) Alex Herbert.bin	vectrex-htgdb-homebrews
+fb18cafa9ec728ed79edf525fd971e08	Birds of Prey by John Dondzila (1999).vec	vectrex-htgdb-homebrews
+45331b5d7548f5f816a67b41f0660b31	Blocks (PD) Michael Borrmann.bin	vectrex-htgdb-homebrews
+45331b5d7548f5f816a67b41f0660b31	Breakout (PD) Steril707 2007.bin	vectrex-htgdb-homebrews
+d78f759c24a996d8ad87fb54ab936ae5	Bresenham VOZ 2008 (PD) BNZ17 METALVOTZE.BIN	vectrex-htgdb-homebrews
+cc9792918915e31523f009fc0296854d	Bubble Bobble (Diamond Room) by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews
+39ad70e16d9720c3eb3b55246dfa449f	Cantina Band (PD) binarystar.BIN	vectrex-htgdb-homebrews
+f3447b08e6ba463f1cd2cd1bd52bd938	NO' Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+8c57a4fd5d6a0c3f316be279ad1782cf	0ldsk00l Demo by Manu (2002) (PD).vec	vectrex-htgdb-homebrews-demos
+6c6e0afc2dee4e20d9fdf77177c738db	3-D Demo by Chris (Mar 06) (2000) (PD).vec	vectrex-htgdb-homebrews-demos
+4a45d8fc03e962fc34cfd827ef568204	3-D Demo by Chris (Mar 08) (2000) (PD).vec	vectrex-htgdb-homebrews-demos
+4c3f98ffb5c9c29c881c1408f94e5a7e	3-D Scrolling Demo by Christopher Tumber (2001) (PD).vec	vectrex-htgdb-homebrews-demos
+7d754c367eb1013fe9ac7f5a8463ee0e	3D Imager Multicart.bin	vectrex-htgdb-homebrews-demos
+3f18de10259e172ca9ef4b580d33fca2	4-D Rotating Cube Demo (19xx) (PD).vec	vectrex-htgdb-homebrews-demos
+69d68dcd741bea0e3535a4f990d43b76	Abyss Demo (1999) (PD).vec	vectrex-htgdb-homebrews-demos
+cc8d22458ee86fcbb7d771a05a8b43d5	All Your Base Demo by Manu (2001) (PD).vec	vectrex-htgdb-homebrews-demos
+65be26d550525934620b56dcdde5af5a	Alpha Demo (2001) (PD).vec	vectrex-htgdb-homebrews-demos
+c9e254f442ba8b82b80c101888a286d9	Animation Demo by Manu (2002) (PD).vec	vectrex-htgdb-homebrews-demos
+59c897ca8a0bb4bfa080e0d01370e9c2	Arkanoid - Revenge of DOH Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+bc246eaf3970c799d05a5c6e7f7c331e	Battlezone Demo by Christopher Tumber (2001) (PD).vec	vectrex-htgdb-homebrews-demos
+23246f5dc34a7bef1ce03299ae5224bd	BB2 Demo by Manu (2002) (PD).vec	vectrex-htgdb-homebrews-demos
+1c6c2d90aac87e5e95f9a37a6f3a2b10	BCor-FTS Demo by Clay Cowgill (1997) (PD).vec	vectrex-htgdb-homebrews-demos
+006ad8dfd685f87174e49fa0378959e6	Bebop Best Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+d8a67954770cf29f9edaec477f04e7bf	Bebop Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+d95a085a6d1ba7da9cedba6a7e92e01d	Bubble Bobble Sound 3 by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+257a3da9f1ba8a08ca2f3f8d26616cad	Calibration Demo (19xx) (Christopher Tumber) (PD).vec	vectrex-htgdb-homebrews-demos
+bf16e6e50a076808968eb43768a4286c	CGM Example by Marq (2000) (PD).vec	vectrex-htgdb-homebrews-demos
+12b2aa353463c421df178f744b742ac4	Climax Slideshow (Revival Studios, 2008).bin	vectrex-htgdb-homebrews-demos
+9543a0d7dfd2db931a680bd3c96ddde3	Commando - High Score Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+95da24dfee450052a61192884ab85911	Count05 Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+7091ebe96c2a8a5683670eff6af16c0a	Curved Lines Demo (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+91857f5262a46e17239340c35097c9bc	Disc Duel Demo (1997) (PD).vec	vectrex-htgdb-homebrews-demos
+25cab86484ae04ca9d3a5efa661a40e0	Exec Rom Dumper (2000) (Ronen Habot).vec	vectrex-htgdb-homebrews-demos
+0cb85f8c8c4c8cbfa7dbc023ba104f92	Fast Food Sound 1 by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+0181563134a98fdef33d73b264ec7736	Fast Food Sound 2 by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+df96fa54f2845fe06a4fc9499b198a6c	Ghouls 'n' Ghosts Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+c62b573effcf3e15b0464c278fdd7995	Hey, Music Lover Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+f7caa81033dd298c7ebf7dffe2d96205	Joystick Demo by Manu (2000) (PD).vec	vectrex-htgdb-homebrews-demos
+2ae1f91ba656199f2c6c95d6c1462b38	Klax (Level Begin) Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+bc2bad32d1a000533a4bdee46b3444f1	Line Demo (2001) (PD).vec	vectrex-htgdb-homebrews-demos
+f585b04cb0680212a5d6ab8b15593835	Lineart 1 (PD) Nuance, METALVOTZE 4-2010.bin	vectrex-htgdb-homebrews-demos
+dc24ad58f8805fbc84066ba3f96a9212	Lineart 2 (PD) Nuance, METALVOTZE 4-2010.bin	vectrex-htgdb-homebrews-demos
+20ed5a6cb32b94b5883c6cf5f60c2633	Lineart 3 (PD) Nuance, METALVOTZE 4-2010.bin	vectrex-htgdb-homebrews-demos
+ed76c258c6ddb0474f6ee0d7f4d40b23	Lineart 4 (PD) Nuance, METALVOTZE 4-2010.bin	vectrex-htgdb-homebrews-demos
+774e9f9a1d7c26c04700429613d1d14f	Lines and Digitized Sounds Demo (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+f564b7902914938375bc3d4b19f21065	Lunar Lander Demo by Thomas Landspurg (19xx) (PD).vec	vectrex-htgdb-homebrews-demos
+3dc500580b45f9166ed81ee0d2c8d1ff	Mad Planetoids Demo by John Dondzila (2001) (PD).vec	vectrex-htgdb-homebrews-demos
+6bc8e7b8d3d1ac553b9977f46ca612f0	Mike's Molecules Demo by Mike Blackwell (1985) (PD) [a1].vec	vectrex-htgdb-homebrews-demos
+18c9f6478683476c825b0c094bcc0abb	Mike's Molecules Demo by Mike Blackwell (1985) (PD) [b1].vec	vectrex-htgdb-homebrews-demos
+d857a0fb7902c32ce514c675d890059b	Mike's Molecules Demo by Mike Blackwell (1985) (PD).vec	vectrex-htgdb-homebrews-demos
+79b911d03f7823f89c55f88ce7eab10f	Monty on the Run HiScore Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+3961a29d9f46b6311d4e0a5f643f3b07	Monty on the Run Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+70a3572f519da2abde6869ae3029f914	Moon Lander Demo by Clay Cowgill (1997) (PD) [a1].vec	vectrex-htgdb-homebrews-demos
+5b6cf92c62342c55b9b35e82488e8dae	Moon Lander Demo by Clay Cowgill (1997) (PD).vec	vectrex-htgdb-homebrews-demos
+7e5c15422794d8c5f969a83608bf679c	Music Demo (2001) (PD).vec	vectrex-htgdb-homebrews-demos
+d9d3837624e93a3890cf11908260d465	Pac-Mania Sound 1 by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+e99897fa4d03dc62e0472ee1e2d796a3	Pac-Mania Sound 2 by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+1c1398259611e983acd4e798cf33bfbf	Pac-Mania Sound 4 by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+03c7959c07709082055a735392d00f39	Philly Classic 3 Demo (2002) (PD).vec	vectrex-htgdb-homebrews-demos
+bdd1338cbdfd8a6c1ca3a31cf1d2577e	Pokemon Demo 1 by Manu (2000) (PD).vec	vectrex-htgdb-homebrews-demos
+8a49779dfa3edefd162f385968d3a1b6	Pokemon Demo 2 by Manu (2000) (PD).vec	vectrex-htgdb-homebrews-demos
+510c656651c906b6e85396b5babd90c3	Pokemon Demo 3 by Manu and Marq (2000) (PD).vec	vectrex-htgdb-homebrews-demos
+1fa52e5f675cb1956f1c40601521fddc	Pokemon Demo 4 - Psyduck's Eyes by Manu (2000) (PD).vec	vectrex-htgdb-homebrews-demos
+165c4c56a918c4ac35d75d280a2098bf	POP Demo by Christopher Tumber (19xx) (PD).vec	vectrex-htgdb-homebrews-demos
+3f4b38fa0c7dacd49f32abeaadc0640d	Rainbow Islands Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+60b51b386800efd3d22f3a9c235843ef	Real Ghostbusters Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+8d1de01d950a05ff349e8b6a68d3ea22	Robin Hood Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+52301ee5dceb04dc730d45abc47f08aa	ROM Music Demo by Manu (2000) (PD).vec	vectrex-htgdb-homebrews-demos
+d8b096480485b4e726088b4239a4b855	Rotation Demo by Manu (2000) (PD).vec	vectrex-htgdb-homebrews-demos
+fdbd4e2e5ebeab6a5c730f2b878c7bf8	SAW Gallery 1 by Christopher Tumber (1999) (PD).vec	vectrex-htgdb-homebrews-demos
+87b9263ab0eb5d1397e722d4ee138946	SAW Gallery 2 by Christopher Tumber (1999) (PD).vec	vectrex-htgdb-homebrews-demos
+655c737050d3785b23f378d30adc5606	SAW Gallery 3 by Christopher Tumber (1999) (PD).vec	vectrex-htgdb-homebrews-demos
+36f466db070b2fe1657129d1367ea9cd	Song Demo by Christopher Tumber (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+7550e332e055091f88fda71d4bbd1583	Sound1 Demo (19xx) (PD).vec	vectrex-htgdb-homebrews-demos
+b3b3e498b1d3848e10e9e2e9c524e585	Space16 Demo by Manu (2000) (PD).vec	vectrex-htgdb-homebrews-demos
+eb37c39b075b1301f0810e52b64bee05	Spike Goes Skiing Demo V.03 (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+37f63a51bd4192517181748a159867f4	Spike's Slam Pit Demo by Gauze (2001) (PD).vec	vectrex-htgdb-homebrews-demos
+789a7668cdcae25f27122aa96e2753c7	Star Spangles Banner Music Demo by Jeff Woolsey (1985) (PD).vec	vectrex-htgdb-homebrews-demos
+986b6699c1ae18f6c4508885b191b02c	Star Wars Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+3031f19f0a45473bf9496205150d5dc4	Tank Demo 1 (19xx) (PD).vec	vectrex-htgdb-homebrews-demos
+09f2ee6accd4bfe5c8f6eab60f26351a	Tank Demo 2 (2001) (PD).vec	vectrex-htgdb-homebrews-demos
+3e2dd22273524b82b7a2404d0842d475	Taulukko Demo by Manu (2002) (PD).vec	vectrex-htgdb-homebrews-demos
+6570c68c72e82abe07f5349517ba53ab	Text Demo (2001) (PD).vec	vectrex-htgdb-homebrews-demos
+a966600ff9c7cd54d068a6f7316e79ee	This is Just a Non-Playable Demo (1999) (PD).vec	vectrex-htgdb-homebrews-demos
+845e95121fc58cb2cd6d0ac6bfc780a3	Tono Demo by Marq & Antti (2000) (PD).vec	vectrex-htgdb-homebrews-demos
+7b52ba2b0a910f2d4abb5beca0a5d820	Trapped Demo (PD) Garry.bin	vectrex-htgdb-homebrews-demos
+5084bec0f39182706e083ed28a55f903	Turrican 1 Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+77effb3eb58cae13a3e3c4ca047da2bb	Turrican 2 Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+66e0dc0b82cb16d25e4de117f4491686	V-Frogger by Chris Salomon, Sound by Kurt Woloch (2001) (PD).vec	vectrex-htgdb-homebrews-demos
+a8b8adf002e1bfb605940a23d8940438	Vecsports Boxing Demo by Manu (2000) (PD).vec	vectrex-htgdb-homebrews-demos
+fd74be3a06fd561c35a3cb2e7d76c884	Vecsports Boxing With Sound Demo by Manu (2000) (PD).vec	vectrex-htgdb-homebrews-demos
+0916186d11a976300d076f4f1c22d389	Vector Clock (PD) v1.02 binarystarsoftware.BIN	vectrex-htgdb-homebrews-demos
+f23f312f1100872efc0dc385b142c286	Vectrex Demo 1 by Manu (2000) (PD).vec	vectrex-htgdb-homebrews-demos
+00ffa6db98e0c6a970f0295fd7bba1f6	Vectrex Demo 2 by Manu (2000) (PD).vec	vectrex-htgdb-homebrews-demos
+03487bf82ecce9bcf9219c668b8148b2	Vectrex Demo 3 by Manu (2000) (PD).vec	vectrex-htgdb-homebrews-demos
+6108718dbb59278270b19f604bffb737	VecVoice Demo by Richard Hutchinson (2002).vec	vectrex-htgdb-homebrews-demos
+9b34e37f7e78d56c0d2551ed5473557b	YM001 Sound by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews-demos
+9088fcb88fb6f2aa839c3bfa6363b09a	ZZAP - Scrolling Space Game Demo (1989) (PD).vec	vectrex-htgdb-homebrews-demos
+8279457141636535a9911eb9ce375a6c	Doodle - Joystick Version v1 (PD) BinaryStar.bin	vectrex-htgdb-homebrews
+4d7cf6aaa8453e7a2afc1aaa500c7bb9	Doodle - LightPen Version v1 (PD) BinaryStar.bin	vectrex-htgdb-homebrews
+7df86f8d6fc66242b472ddad8491c1b9	Dots (PD) v1 Binary Star Software.BIN	vectrex-htgdb-homebrews
+f8dad3f66234e87d2a189dd51fd2dfb7	Dr. Who Theme by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews
+a379488a8683594148f7fccd8b69e671	Electric Force (PD) realm of illusion 8-2015.bin	vectrex-htgdb-homebrews
+ff6db0d85e61c4190c86a059859621b9	EmptyScreentro (PD) realm of illusion 6-2015.bin	vectrex-htgdb-homebrews
+150408c6e4e25a4fd8d1a95f9b4100d5	Epic Realtime (PD) Nuance 12-2012.bin	vectrex-htgdb-homebrews
+b716228fd8b3ebd44e81f5ac956d8e0d	Etch-a-Sketch by Jeff Woolsey (1985) (light pen) (PD).vec	vectrex-htgdb-homebrews
+806c2ae784e05b12ec5f0c734c341765	Every Day is Halloween v1.0 (PD) BinaryStar.bin	vectrex-htgdb-homebrews
+5ef9fc5561a336becb23e3194ddba96f	Frogger v0.1.bin	vectrex-htgdb-homebrews
+d5012ddedd1a9fe2b9d14e82eddaa55d	Gravitrex by John Dondzila (2002).vec	vectrex-htgdb-homebrews
+442531af912aecca7501d4cb39ca637d	Great Giana Sisters (Bonus) by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews
+70ee930334566ca5de7481aa89cad2bd	Great Giana Sisters (Ingame) by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews
+775709fff3ed12ba9183fef4d407a8c2	Great Giana Sisters (Title) by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews
+41adbcfba6c6232f790a0f8bb4783a97	Heps Q Q (PD) Fit 7-2014.BIN	vectrex-htgdb-homebrews
+2935999685df86dbb1db0e17129196a3	Hex v1.1 (PD) BinaryStar.bin	vectrex-htgdb-homebrews
+e65c636c8a984e6d5b1e74c428f0d17a	Invitron (PD) realm of illusion 6-2015.bin	vectrex-htgdb-homebrews
+05317670338681a226ad6ab54c59f8bd	Jaws Theme Music by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews
+e26790ae1fc295938a296c0bd6c28da6	Jingle Bell Hero v1.01 (PD) BinaryStar.bin	vectrex-htgdb-homebrews
+d68cfd8fd043a8d1bca1166e2b81ffa7	Labyrinth Rev 4 (Vector Rouge) by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews
+ed2aeb4b49b68a96084d789a27473550	Lords of Code (PD) Nuance, METALVOTZE 12-2013.bin	vectrex-htgdb-homebrews
+caea604b0c170c5a800e5958089e8bd2	Madonna's Get Into the Groove by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews
+0c0c1739b9e1025b4a894428da4e3e75	Misfits 1 Music by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews
+7200ad3bde2f3bb7c14f8ecceaed6fa4	Missile Lords by Christopher Tumber (2001) (PD).vec	vectrex-htgdb-homebrews
+f00bc4bf88f072f6e934818003be5694	Moon Lander (PD) John Dondzila.bin	vectrex-htgdb-homebrews
+5482e1b852b451e60c763ef59e309dc1	My Bonnie Lies Over The Ocean by Jeff Woolsey (1985) (PD).vec	vectrex-htgdb-homebrews
+35b03171ee73f5e292d29c93ac7ad834	Nagoya Attack (Beta) (PD) BinaryStar.bin	vectrex-htgdb-homebrews
+5c5d5eeb71f51a6fdd4fa6c36e4b2801	Narrow Escape (2-D Version by Fred Taft) (1983) [h1].vec	vectrex-htgdb-homebrews
+ec1d898c06a152dddf7f0b4bd8837ab9	Nebula Commander (2005).bin	vectrex-htgdb-homebrews
+58a5d1b022272ddfb23123ffcb6f6188	Nona3 by Manu (Mar 10) (2003).vec	vectrex-htgdb-homebrews
+150408c6e4e25a4fd8d1a95f9b4100d5	Nuance - Epic Realtime.bin	vectrex-htgdb-homebrews
+c33f47bd2837a50ccc6dc06f0390dd5e	Omega Chase (Final Version) (1998) (PD).vec	vectrex-htgdb-homebrews
+3b4eb68ddcc1cbf1c0f8c38520d02ca8	Omega Chase by Christopher Tumber (2000) (PD).vec	vectrex-htgdb-homebrews
+d33112c5a916bbaeb4ae69b7b033f68d	Paratroopers by Anonymous (PD).bin	vectrex-htgdb-homebrews
+a7717d6c40cd6c3c8ee1aa6c05de483a	Patriots 3 Trackball Hack v1.0 (PD) BinaryStar.BIN	vectrex-htgdb-homebrews
+b35b0783011b55835aeeb9c9bea56738	Patriots by John Dondzila (1996).vec	vectrex-htgdb-homebrews
+3b5da23c7efe411dd860a33d873c5fe2	Patriots III - BALListics Busters by John Dondzila (2002).vec	vectrex-htgdb-homebrews
+b4b6051a7b91c9c54aa25ad12f553cae	Patriots Remix by John Dondzila (1999).vec	vectrex-htgdb-homebrews
+1cbcfbb00a9fde35b19a93b7e5bdcca0	Patriots Remix Trackball Hack v1.0 (PD) BinaryStar.bin	vectrex-htgdb-homebrews
+8c85e97e3006d62d5a7357a67aca4fe6	Patriots Trackball Hack v1.01 (PD) BinaryStar.bin	vectrex-htgdb-homebrews
+c92380263a81a347d7ce649a318cad64	Performance VX (PD) Revival Studios 11-2003.bin	vectrex-htgdb-homebrews
+2f53ece701af928c9f8fd526b3306805	Pimmelsafari II (PD) METALVOTZE 10-2005.bin	vectrex-htgdb-homebrews
+9a329fe5015e5c89c72e0e7c1eddc986	Protector & YASI (PD) John Dondzila.bin	vectrex-htgdb-homebrews
+aa12d8183b6302b56f453ce00bf0ea37	Pythagorian Theorem by Rob Mitchell (2002) (PD).vec	vectrex-htgdb-homebrews
+34016a78f382ce7ea5b838e506a80cca	Quick Shot (PD) v1.01 (PD) BinaryStar.bin.bin	vectrex-htgdb-homebrews
+2cdd099aea18b0813b5088d62d4cefea	Raiding Party (PD) Rift 6-2017.bin	vectrex-htgdb-homebrews
+88e25ca4dd3325d936b6030f8c9111d2	Rainy (PD) realm of illusion 6-2015.bin	vectrex-htgdb-homebrews
+5bdf1798bd089a96e48c1539ee1e6ead	Random Access Vector (PD) Fit 10-2013.BIN	vectrex-htgdb-homebrews
+d35fbb9030c7ff06b63cb1a1a4698b1e	Repulse by John Dondzila (1999).vec	vectrex-htgdb-homebrews
+a8bbec9edc4eb36f231b4b1fa122b36d	Revector (PD) Craig Aker 2004.bin	vectrex-htgdb-homebrews
+625e537ebb7056e1c6f787c502443bd0	Rockaroids Remix - 3rd Rock by John Dondzila (1996).vec	vectrex-htgdb-homebrews
+9f6ec44b307075528ebf94cbec023a10	Ronen's Game Cart (2000) (Ronen Habot).vec	vectrex-htgdb-homebrews
+9c1f13a33415d2f384638f9672056f5e	Rounders by Ronen Habot (2000) (PD).vec	vectrex-htgdb-homebrews
+3bdff7142d33b71988a978d6ffd2ef7d	Scalar Ownage (2012)(Sebastian Mihai).bin	vectrex-htgdb-homebrews
+fd5b667d58c1a34f9d92b1ede820923f	Scorefont 3 by Manu (Aug 26) (2002).vec	vectrex-htgdb-homebrews
+91240bf42cc175fa87f4ba0ea5b0e4ff	Sectis (PD) George Pelonis 2010.bin	vectrex-htgdb-homebrews
+2bdac9c3e596c4c97469ac7538e51f3c	sinZ (PD) LA1N.CH 4-2015.BIN	vectrex-htgdb-homebrews
+d9b3a911f708e3079af7a7619dcb30b6	Snow Challenge.bin	vectrex-htgdb-homebrews
+d662a28ed6851b6efb945fe356739dad	Space Frenzy (PD) John Dondzila 2006.bin	vectrex-htgdb-homebrews
+5d02fe866ad6a5cced146046cbd6b4ca	Space Race v1.00 (PD) BinaryStar.bin	vectrex-htgdb-homebrews
+a22902126ad0f671745f0aeb18d390e8	Spike and the Vortex (vtwist) by Garry G. (2009) (PD).bin	vectrex-htgdb-homebrews
+200eb913ca5bf60011e6690097ee758e	Spike Goes Skiing (1998) (PD).vec	vectrex-htgdb-homebrews
+386c706e2b105a05dd9f8da7e57d5a48	Spike Hoppin' by John Dondzila (1998).vec	vectrex-htgdb-homebrews
+3b79ddade2486f6d87402a4715f8fb44	Spike's Water Balloons (Analog) by John Dondzila (2001) (PD).vec	vectrex-htgdb-homebrews
+cd00938627e416fc451f52a1feacc7ec	Springs are Going to the Party (PD) realm of illusion 8-2017.bin	vectrex-htgdb-homebrews
+dd55837f734a7cba1b1da130725be997	Star Fire Spirits by John Dondzila (1999).vec	vectrex-htgdb-homebrews
+8235bde24ceb057e5145db73a022b016	Star Seige by John Dondzila (1999).vec	vectrex-htgdb-homebrews
+0008ae8e0f1b3af593a1b6a6fdeec44f	Star Sling FE (special edition).bin	vectrex-htgdb-homebrews
+f70e2cb9a9803d10e362c7b83ff312fe	Star Wars Theme by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews
+d6e037e35a2f504f2284aff78137bd77	Sub Wars (PD) Mountain Goat 2015.bin	vectrex-htgdb-homebrews
+92c57af43ea785a28c21c4e7df1cc3c8	Super Simon (PD) v1.01 BinaryStar 2016.bin	vectrex-htgdb-homebrews
+904652ddf02d7e8d6a1cf67a7b4f3280	Super Vectrex Bunny Princess - Vibri (PD) FierceTheBandit.BIN	vectrex-htgdb-homebrews
+b7e1d089246dc1c6b02749bea12e5126	T-Rex in the Vectrex (PD) DEFAME 6-2015.bin	vectrex-htgdb-homebrews
+4993685367e2028d5f5029bbead385f8	Thrust (PD) Ville Krumlinde 2004.bin	vectrex-htgdb-homebrews
+5a340d9198e13f744dbdf8f8eba1bbd5	Tsunami by Christopher Tumber (2001) (PD).vec	vectrex-htgdb-homebrews
+7f36731583fd1de749d84a86c5591d0b	Twistex (PD) Orb 5-2011.bin	vectrex-htgdb-homebrews
+659d9dea05528a9514725b8192ee94ff	V-Frogger by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews
+8a0eeb4972e2856cf1dbb5ceff1ea63f	V-Theremin v1.01 (PD) BinaryStar 2014.bin	vectrex-htgdb-homebrews
+f5809f3325a2901b68709ee137bdd80d	Vaboom! by Ronen Habot (2000) (PD).vec	vectrex-htgdb-homebrews
+adc9ec19debf2399d1bac5fab15379aa	Vec Fu (PD) Michael Borrmann.bin	vectrex-htgdb-homebrews
+53840aa8982bfb066a2e4039afc42f82	VeCathlon v0.07 (PD) Manu Parssinen.bin	vectrex-htgdb-homebrews
+050256603b56d1385b8f8e252a0c2173	Vecmania Part 1 (1999) (PD).vec	vectrex-htgdb-homebrews
+e1f186888b1356ebb7e2c6a122c703dc	Vecmania Part 2 (1999) (PD).vec	vectrex-htgdb-homebrews
+7f8ca02a12902f4bf1573e23bbbdac45	VecSports Kingpin Bowling by Manu (V0.4) (Aug 26) (2002).vec	vectrex-htgdb-homebrews
+e94ad834fa282a20eef5c30b1f1abf72	Vectopia by John Dondzila (2001) (PD).vec	vectrex-htgdb-homebrews
+6ce81975b305aa5f287aa9e360bf7d71	Vector Pong v1.07 (PD) BinaryStar.bin	vectrex-htgdb-homebrews
+49ecb30e304f499f3a427adb35dcfaea	Vector Sports Boxing Final version (2002).bin	vectrex-htgdb-homebrews
+130ee6db535f805307c3b55ca8b95bd0	Vector Vaders by John Dondzila (1996).vec	vectrex-htgdb-homebrews
+24480020a6cff254863e65b942fd1e33	Vector Vaders Remix by John Dondzila (1999).vec	vectrex-htgdb-homebrews
+c14bbd0463aab50e98fe1548ab082a0c	Vectrace (2000) (Ronen Habot).vec	vectrex-htgdb-homebrews
+aca19a23aac100b15b90f22a3e6ae483	Vectrex Bootstrap Loader by Jeff Woolsey (1985) (PD).vec	vectrex-htgdb-homebrews
+378f893b68f472df0ab10bfe7a96c58e	Vectrex City Bomber Freeware Edition.bin	vectrex-htgdb-homebrews
+53345a3091f45247a5b6c1aed69aba74	Vectrex Maze by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews
+7be0b5074c6b75c1d8778cabbf262369	Vectrex Pong (1998) (PD).vec	vectrex-htgdb-homebrews
+fd6a73340b2683c3ded2bf1a75b36118	Vectrexians (1999) (PD).vec	vectrex-htgdb-homebrews
+81c2bbe84d624348cd894b6617ccdd9a	vecZ Shoot-em-up (PD) v0.84 LA1N.CH 2016.BIN	vectrex-htgdb-homebrews
+02862cb8663f2d07edd6be27441d56f6	Version Nine by Christopher Tumber (1999) (PD).vec	vectrex-htgdb-homebrews
+e1c86de28d82e80b23630d74a640bb21	Version Nine by Christopher Tumber (2000) (PD).vec	vectrex-htgdb-homebrews
+7781291639404eb936c817bf0d0c9f27	Very Vectight (PD) Pex Mahoney Tufvesson.bin	vectrex-htgdb-homebrews
+ebd8b6dfd3d8955209556b07b45243d0	Verzerk by Alex Herbert (2002).vec	vectrex-htgdb-homebrews
+e69adef3088dfdc6e2ec22dbd57b9556	Vexperience - B.E.T.H. & Vecsports Boxing by Manu (2000).vec	vectrex-htgdb-homebrews
+4ef370feddcbe448226bc54aa4f81926	Vimpula by Manu (2002) (PD).vec	vectrex-htgdb-homebrews
+2e1e6aa4270b1ec1c74bb7c00eeaac1c	War of The Robots (Freeware Edition).bin	vectrex-htgdb-homebrews
+a8a04d7c49fbce59d688917f3a93f7f3	War of the Robots - Bow to the Queen.bin	vectrex-htgdb-homebrews
+2b09481830f58449ca103611811f318a	We Wish You a Merry Christmas by J. Woolsey (1985) (PD).vec	vectrex-htgdb-homebrews
+19810dc98cfef682f24856437a161e9a	We Wish You a Merry Christmas by J. Woolsey (1986) (PD).vec	vectrex-htgdb-homebrews
+c4b137cf9c08edfc9d2d333855780869	Whack-A-Mole v1.0 (PD) BinaryStar.bin	vectrex-htgdb-homebrews
+b832c65315d3019213643858fdd140a4	Where Have All The Pixels Gone (PD) v184 Carnegie Mellon Computer Club.bin	vectrex-htgdb-homebrews
+d40833d022b01d8a02ed80fdd08f8055	Wormhole by John Dondzila (2001) (PD).vec	vectrex-htgdb-homebrews
+1b751c584945e22124f35f4d6ae4a5fc	X-Mas Cart 2014 (PD) BinaryStar.bin	vectrex-htgdb-homebrews
+2efd5e53712baf7f320a3e877f12cf29	X-Mas Cart 2015 (PD) BinaryStar.bin	vectrex-htgdb-homebrews
+0f97e5b7ea289bfd7ef9212180f33fbf	Xmas Space Race v1.0 (PD) BinaryStar.BIN	vectrex-htgdb-homebrews
+fd7184d4796d27ec15199726025645b7	Zantis (PD) George Pelonis 2011.bin	vectrex-htgdb-homebrews
+e3ab281673ee0a7a1bcb115b38ec6ceb	Zodiac v1.00 (PD) BinaryStar.bin	vectrex-htgdb-homebrews
+efa5d68dab31dc3d25a91b2dcfad6e4f	Zombies from the Crypt Music by Chris Salomon (1998) (PD).vec	vectrex-htgdb-homebrews
+ab082fa8c8e632dd68589a8c7741388f	[BIOS] GCE Vectrex (World).bin	vectrex-htgdb-bios
+8d66945eb9826d91ce27e07b2f8854f9	Test Cartridge (USA) (Rev 4) (Proto).vec	vectrex-htgdb-tools-service-test-carts

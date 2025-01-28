@@ -1,0 +1,138 @@
+639d0a61c9e144aa8d1e21d87d53fb50	A Ressha de Ikou MSX (Japan) [T-En by Django v1.0].rom	msx2-maybe-intro-cartridges
+00ffabf6e412302e33d5e1d8602362d4	Aleste (Japan) [T-En by Tsunami v1.0].rom	msx2-maybe-intro-cartridges
+c13be5dc5cdfa8c2d9758d67261620e5	AshGuine Story II - Citadel in the Void (Japan) [T-En by MSX Translations v1.0.0] [n].txt	msx2-maybe-intro-cartridges
+dc3f1aba221492b5b2d9ead9b36e8a07	AshGuine Story II - Kokuu no Gajou (Japan) [T-En by MSX Translations v1.0.0 AS].rom	msx2-maybe-intro-cartridges
+61d609df03877a109873d65f931ef542	AshGuine Story II - Kokuu no Gajou (Japan) [T-En by MSX Translations v1.0.0 MA].rom	msx2-maybe-intro-cartridges
+66557d9ab8e8561cb16aeb12ce435e8d	AshGuine Story II - Kokuu no Gajou (Japan) [T-En by MSX Translations v1.0.0 MM].rom	msx2-maybe-intro-cartridges
+8b6d68ca3f8e56141d7583b1df851f93	AshGuine Story II - Kokuu no Gajou (Japan) [T-En by MSX Translations v1.0.0] (+6 Trainer).rom	msx2-maybe-intro-cartridges
+801db5352c6b1ada7c74a681169a2804	AshGuine Story II - Kokuu no Gajou (Japan) [T-En by MSX Translations v1.0.0].rom	msx2-maybe-intro-cartridges
+28feefc3f4958f81453896f9fc797cda	Dragon Slayer IV - Draslay Family (Japan) [T-En by MSX Translations v1.0.0] [n].txt	msx2-maybe-intro-cartridges
+41679756e2c2b763c7d15f7e4022171f	Dragon Slayer IV - Drasle Family (Japan) (Alt 1) [T-En by MSX Translations v1.0.0].rom	msx2-maybe-intro-cartridges
+61d435c0b3ba2f865ad01dd5477a205c	Dragon Slayer IV - Drasle Family (Japan) [T-En by MSX Translations v1.0.0].rom	msx2-maybe-intro-cartridges
+ee1808dc2ba639330ef55b6180e45ad7	Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0] (+6 Trainer).rom	msx2-maybe-intro-cartridges
+dd9e89d73a1e65930bfc967157ea2fb9	Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0] (Speed Booster).rom	msx2-maybe-intro-cartridges
+cd75730fee1a72fead6a0874ef7c2620	Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0].rom	msx2-maybe-intro-cartridges
+6558505966003acf7a132139238c018a	Dragon Slayer Jr. - Romancia (Japan) [T-En by MSX Translations v1.0.0].txt	msx2-maybe-intro-cartridges
+8b287153a5a87f2717cf0a7cab3d8176	Famicle Parodic (Japan) [T-En by Django v1.0] (Fr).pdf	msx2-maybe-intro-cartridges
+d7b2bb6b3d373ea9b3d35adbb6f44704	Famicle Parodic (Japan) [T-En by Django v1.0].rom	msx2-maybe-intro-cartridges
+9fe5d055612067eff00537440725e7f8	Ganbare Goemon! - Karakuri Douchuu (Japan) [T-En by MSX Translations v0.9.5] (+6 Trainer).rom	msx2-maybe-intro-cartridges
+c5ec0e2d716c3ba652b5cdfa908546e5	Ganbare Goemon! - Karakuri Douchuu (Japan) [T-En by MSX Translations v0.9.5].rom	msx2-maybe-intro-cartridges
+97936e206e44474e7a2062d2682d5f54	Gekitotsu Pennant Race 2 (Japan) [T-En by Victor Martinez v1.0].rom	msx2-maybe-intro-cartridges
+b1084dd78692f2c3e51412304c96a75b	Higemaru - The Devil Island - The 7 Islands Adventure (Japan) [T-En by Django v1.0] [n] (Fr).txt	msx2-maybe-intro-cartridges
+97c80453f267e085ac4ee8bba3275509	Higemaru Makai Shima - Nanatsu no Shima Daibouken (Japan) [T-En by Django v1.0].rom	msx2-maybe-intro-cartridges
+29e7ba0db693961f26df093ac22aabee	Hinotori - Firebird Phoenix (Japan) [T-En by Django v2.0] [n] (Fr).pdf	msx2-maybe-intro-cartridges
+eb9dad2faa96d9fb0cb85aee572cbbde	Hinotori - Houou Hen (Japan) [T-En by Django v2.0].rom	msx2-maybe-intro-cartridges
+ff51a7db4d80ab18fdfdd516dd00d7ae	King Kong 2 - The Reviving Legend (Japan) [T-En by Imanok+Manuel Pazos v20120801] [n].txt	msx2-maybe-intro-cartridges
+27185f2a57ade34ef03f48945f67d303	King Kong 2 - Yomigaeru Densetsu (Japan) [T-En by Imanok+Manuel Pazos v20120801].rom	msx2-maybe-intro-cartridges
+b57857e92e6edc5809fccbcee4d73de1	Lupin Sansei - Babylon no Ougon Densetsu (Japan) [T-En by Django v1.0].rom	msx2-maybe-intro-cartridges
+ece0609fd3a58dc774320910331c8f9c	Malaya no Hibou (Japan) [T-En by MSX Translations v1.0.0] (+2 Trainer).rom	msx2-maybe-intro-cartridges
+c07d8f05e14546540cca21f4d7ea8f6e	Malaya no Hibou (Japan) [T-En by MSX Translations v1.0.0].rom	msx2-maybe-intro-cartridges
+6e74274134c9396cf78130a40e12a1c2	Malaya's Treasure (Japan) [T-En by MSX Translations v1.0.0] [n].txt	msx2-maybe-intro-cartridges
+0877a442deacf1bd4cb8d2e633289800	Metal Gear (Japan) [T-En by Jon Taylor+Nekura Hoka+Takamichi Suzukawa v1.9].rom	msx2-maybe-intro-cartridges
+e73949077c59ad5227921b3194a08501	Metal Gear (Japan) [T-En by Jon Taylor+Nekura Hoka+Takamichi Suzukawa v1.9].txt	msx2-maybe-intro-cartridges
+31204639c06613e972eb32a0523f3626	Metal Gear 2 - Solid Snake (Japan) (Demo) [T-En by BiFi+Maarten ter Huurne+Takamichi Suzukawa v2.0].rom	msx2-maybe-intro-cartridges
+55ee40cc70cc65afff4d06025656c3f4	Metal Gear 2 - Solid Snake (Japan) [T-En by BiFi+Maarten ter Huurne+Takamichi Suzukawa v2.0].rom	msx2-maybe-intro-cartridges
+e58614098f4ab80efdaed08328f78d1a	Metal Gear 2 - Solid Snake (Japan) [T-En by BiFi+Maarten ter Huurne+Takamichi Suzukawa v2.0].txt	msx2-maybe-intro-cartridges
+668217f475619500c87f136949267b6d	Metal Gear 2 - Solid Snake (Japan) [T-En by Maarten ter Huurne+Takamichi Suzukawa v1.2].rom	msx2-maybe-intro-cartridges
+52f8a141b67c43c6bb085f731deb3eb2	Metal Gear 2 - Solid Snake (Japan) [T-En by Maarten ter Huurne+Takamichi Suzukawa v1.2].txt	msx2-maybe-intro-cartridges
+65a53f4202059c42656f460d1c53cb44	Penguin Wars 2 (Japan) [T-En by MSX Translations v1.0] [n].txt	msx2-maybe-intro-cartridges
+d4f8d8a7e052a0d6246ac2b5afdc729e	Penguin-kun Wars 2 (Japan) [T-En by MSX Translations v1.0].rom	msx2-maybe-intro-cartridges
+247a1df57b49079d169d4cace88c779c	Persevere Goemon! - A Tricky Journey (Japan) [T-En by MSX Translations v0.9.5] [n].txt	msx2-maybe-intro-cartridges
+8045369d0fe858ad7c1f5d927bdac8ed	Seikima II Special - Akuma no Gyakushuu (Japan) [T-En by Django v1.0] (Fr).txt	msx2-maybe-intro-cartridges
+0a8c67235454b0bf0afefd315e387dfc	Seikima II Special - Akuma no Gyakushuu (Japan) [T-En by Django v1.0].rom	msx2-maybe-intro-cartridges
+82800d242996a17fc44dd8a0c8d7218a	Take the A-Train (Japan) [T-En by Django v1.0] [n] (Fr).pdf	msx2-maybe-intro-cartridges
+661c72962e2908c00dd0950a618f4e77	Tengoku Yoitoko (Japan) [T-En by MSX Translations v1.0.2] (+2 Trainer).rom	msx2-maybe-intro-cartridges
+783f58fa61bf122b78a9807c5ed35205	Tengoku Yoitoko (Japan) [T-En by MSX Translations v1.0.2].rom	msx2-maybe-intro-cartridges
+b40f0fbbd0a5e25eaab4cf3ba5091fa3	Welcome to Heaven (Japan) [T-En by MSX Translations v1.0.2] [n].txt	msx2-maybe-intro-cartridges
+6b06ebc8feaf5df5c9df1d32896ca501	Woody Poco (Japan) [T-En by MSX Translations v1.0.1] (+3 Trainer).rom	msx2-maybe-intro-cartridges
+0c3c5e166ed362072fb231160daa090c	Woody Poco (Japan) [T-En by MSX Translations v1.0.1].rom	msx2-maybe-intro-cartridges
+4098a4e0c582f34770df09997cce628b	Woody Poco (Japan) [T-En by MSX Translations v1.0.1].txt	msx2-maybe-intro-cartridges
+f99414f7e9462a324ef5b1dceebdea12	Zombie Hunter (Japan) [T-En by Django v1.0].pdf	msx2-maybe-intro-cartridges
+e6599cceae6e3a5000c3a3f0af972d90	Zombie Hunter (Japan) [T-En by Django v1.0].rom	msx2-maybe-intro-cartridges
+5c672c7fe04fc3aabaaefee3aac17146	American Success (Japan) (Data Disk).dsk	msx2-maybe-intro-disks
+f5764f7ed8aa774a731dd8112e6cf4b2	American Success (Japan) (Game Disk) [T-En by Django v2.0].dsk	msx2-maybe-intro-disks
+c7a081622e7d4aae221fc703b44a8492	American Success (Japan) [T-En by Django v2.0].pdf	msx2-maybe-intro-disks
+1a17f3bb2837d4ae355382874405bcd8	Daisenryaku II - Campaign Version (Japan) (Data Disk) [T-En by Takamichi Suzukawa+Trunks+Victor Martinez v1.0].dsk	msx2-maybe-intro-disks
+98655927388b34d67989c91bfc03324f	Daisenryaku II - Campaign Version (Japan) (Game Disk) [T-En by Takamichi Suzukawa+Trunks+Victor Martinez v1.0].dsk	msx2-maybe-intro-disks
+83241d8e67eb3ffbc3a7ed2a427bd690	Deep Forest (Japan) [T-En by Django v1.0] (Fr).pdf	msx2-maybe-intro-disks
+fa128ff01e2aca79e0814ab1171640a3	Deep Forest (Japan) [T-En by Django v1.0].dsk	msx2-maybe-intro-disks
+e394009ac33d378940893afdd92e0123	Dragon Slayer - The Legend of Heroes (Japan) (Game Disk) [T-En by Oasis+Randam v1.0].dsk	msx2-maybe-intro-disks
+ea5c861a6663f19c166991f6f8e9e562	Dragon Slayer - The Legend of Heroes (Japan) (Scenario 1 Disk) [T-En by Oasis+Randam v1.0].dsk	msx2-maybe-intro-disks
+9ba5765c6bfe9f81ad3bbadf8430a085	Dragon Slayer - The Legend of Heroes (Japan) (Scenario 2 Disk) [T-En by Oasis+Randam v1.0].dsk	msx2-maybe-intro-disks
+7abe50cfeac73920120507d6e4e20a27	Dragon Slayer - The Legend of Heroes (Japan) (Scenario 3 Disk) [T-En by Oasis+Randam v1.0].dsk	msx2-maybe-intro-disks
+3a6ecc823e82e2ed908829ec17c112a0	F1 Douchuuki (Japan) [T-En by Django v1.0] - Translation Notes.pdf	msx2-maybe-intro-disks
+a3857e8c1e4cc338286e2a56b6dc2675	F1 Douchuuki (Japan) [T-En by Django v1.0].dsk	msx2-maybe-intro-disks
+240cb2e89b15087cbeb3fe70c8ff80cf	F1 Douchuuki (Japan) [T-En by Django v1.0].txt	msx2-maybe-intro-disks
+0ec43432f8d84ecaf9c5ec8d67625575	Fray - In Magical Adventure (Japan) (Disk 1) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+bfbf24692b0a61e7a7bd1eaa2fd1c860	Fray - In Magical Adventure (Japan) (Disk 2) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+23da96ba182c8081fd49fac5b9dcf0e4	Fray - In Magical Adventure (Japan) (Disk 3) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+90526f294c8c34a4c6788697deed412e	Fray - In Magical Adventure (Japan) (Disk 4) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+dbebc6a8a20d56e77547986199ff6a99	Galmoon (Japan) [T-En by Django v1.0] (Fr).pdf	msx2-maybe-intro-disks
+5ee6c401693c33776207a4639038e629	Galmoon (Japan) [T-En by Django v1.0].dsk	msx2-maybe-intro-disks
+9053ef6579a25d4df001c1093708c3aa	Golvellius (Japan) (Game Disk) [T-En v1.0].dsk	msx2-maybe-intro-disks
+963297451a3dccfbf161ebb37cdf2eec	Golvellius (Japan) (Opening Disk) [T-En v1.0].dsk	msx2-maybe-intro-disks
+3a195fd815bdbfc29ed8b8157b88cfde	Ku Gyoku Den (Japan) [T-En by Django v2.0].dsk	msx2-maybe-intro-disks
+c8d643c97c5f404c0f615d2f4499dacd	Legendly Nine Gems (Japan) [T-En by Django v2.0] [n] (Fr).pdf	msx2-maybe-intro-disks
+3a480f6462824f9ec4e1d59bf0a3a7b2	Master of Monsters (Japan) (Data Disk).dsk	msx2-maybe-intro-disks
+68f8e3edd88d4928908ac61b8842e108	Master of Monsters (Japan) (Game Disk) [T-En by Django v2.0].dsk	msx2-maybe-intro-disks
+9e8efe016b53f00eca8c240af091a6fb	Master of Monsters (Japan) [T-En by Django v2.0] (Fr) (1).pdf	msx2-maybe-intro-disks
+4c7973a190e4f0440ef479425dfcc57d	Master of Monsters (Japan) [T-En by Django v2.0] (Fr).pdf	msx2-maybe-intro-disks
+b651070007c5514701ad6cb42d81ae82	Nyancle Racing (Japan) [T-En by Tsunami v1.0].dsk	msx2-maybe-intro-disks
+7ba941b04bfdfbaac43fdd83c7a80942	Princess Maker (Japan) (Disk 1) [T-En by Teo Lopez del Castillo v1.0].dsk	msx2-maybe-intro-disks
+c618f19a7285659146764257c4f79090	Princess Maker (Japan) (Disk 2) [T-En by Teo Lopez del Castillo v1.0].dsk	msx2-maybe-intro-disks
+d2da10521ce1d3ddf92ee3028e32fa94	Princess Maker (Japan) (Disk 3) [T-En by Teo Lopez del Castillo v1.0].dsk	msx2-maybe-intro-disks
+79cf4631ce1e93afd9390e0d24ddd75f	Princess Maker (Japan) (Disk 4) [T-En by Teo Lopez del Castillo v1.0].dsk	msx2-maybe-intro-disks
+fc68d417c66616de5c51005a05741c49	Princess Maker (Japan) (Disk 5) [T-En by Teo Lopez del Castillo v1.0].dsk	msx2-maybe-intro-disks
+457af8d3b5a6082c9c08e705256cc044	Princess Maker (Japan) (Disk 6) [T-En by Teo Lopez del Castillo v1.0].dsk	msx2-maybe-intro-disks
+e78728c594abd9a5abb05a9833079285	Princess Maker (Japan) (Disk 7) [T-En by Teo Lopez del Castillo v1.0].dsk	msx2-maybe-intro-disks
+7acdd430663bd14cab248aedea63a980	Psycho World (Japan) [T-En by Django+FRS v3.0].dsk	msx2-maybe-intro-disks
+c24fdf153df1ae3b9c70d73402bac4ba	Psycho World (Japan) [T-En by Django+FRS v3.0].pdf	msx2-maybe-intro-disks
+28b6ee48d379271162702660505d617f	Rune Master (Japan) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+ec65db7b9d44266772ff0272d078a233	Rune Master II (Japan) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+911d5b4f3dda95df937e7af16df5c10d	Rune Master III - Sangoku Eiketsuden (Japan) (Disk 1) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+9f64194b88a13210bc1470ceb938d834	Rune Master III - Sangoku Eiketsuden (Japan) (Disk 2) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+b194f1b4a15a6c8421e964cd7ba57306	Rune Master III - Sangoku Eiketsuden (Japan) (Disk 3) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+0c0d8e1f30c70852d9f5ed07bf9c1bae	SD Gundam - Gachapon Senshi 2 - Capsule Senki (Japan) [T-En by Django v1.0] (Fr).pdf	msx2-maybe-intro-disks
+6b8988cee8f2de06ed7eeaafcf95f6ee	SD Gundam - Gachapon Senshi 2 - Capsule Senki (Japan) [T-En by Django v1.0].dsk	msx2-maybe-intro-disks
+70fa89bb55deb1d44feac30004aa144b	SD Snatcher (Japan) (Disk 1) [T-En by Ded302+Oasis v1.01].dsk	msx2-maybe-intro-disks
+dbff319720564d048d3d7e08c772d71a	SD Snatcher (Japan) (Disk 1) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+28c4a4c3b5e9abea6941ad5dab20bd68	SD Snatcher (Japan) (Disk 2) [T-En by Ded302+Oasis v1.01].dsk	msx2-maybe-intro-disks
+28c4a4c3b5e9abea6941ad5dab20bd68	SD Snatcher (Japan) (Disk 2) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+2c7b91278d84758257eb733a8d4bf157	SD Snatcher (Japan) (Disk 3) [T-En by Ded302+Oasis v1.01].dsk	msx2-maybe-intro-disks
+d52016f6fd2b2262ab21eb881a7b206b	SD Snatcher (Japan) (Disk 3) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+cc562392a29cb5e19490ce372ea60b8b	SD Snatcher (Japan) [T-En by Ded302+Oasis v1.01].txt	msx2-maybe-intro-disks
+944f1ce2379ada901bf8865502d0b246	Shiryou Sensen 2 - War of the Dead Part 2 (Japan) (Disk 1) [T-En v1.0].dsk	msx2-maybe-intro-disks
+0b734fd45423da00a2c981c30281a20f	Shiryou Sensen 2 - War of the Dead Part 2 (Japan) (Disk 2) [T-En v1.0].dsk	msx2-maybe-intro-disks
+068d5ca06cf8149daf6bac0cde9f9938	Silviana (Japan) [T-En by MIJET v20091213].dsk	msx2-maybe-intro-disks
+4fa05de865062d9dc338f1b018005e33	Silviana (Japan) [T-En by MIJET v20091213].txt	msx2-maybe-intro-disks
+3d2eecfab45e5bb39b4754e5e9b578be	Snatcher (Japan) (Boot Disk) [T-En by Fudeba Software v0.6.0].dsk	msx2-maybe-intro-disks
+1b44dfa8c2bde51372185b80de03d56a	Snatcher (Japan) (Game Disk 1) [T-En by Fudeba Software v0.6.0].dsk	msx2-maybe-intro-disks
+1cd5e336a94dbb7d67e5e4aead15609e	Snatcher (Japan) (Game Disk 2) [T-En by Fudeba Software v0.6.0].dsk	msx2-maybe-intro-disks
+5eee24910a91ae87ff79a655e44a6391	Snatcher (Japan) (Game Disk 3) [T-En by Fudeba Software v0.6.0].dsk	msx2-maybe-intro-disks
+c33c5350d9d2b1f1d1431c4a0035d1f0	Snatcher (Japan) [T-En by Fudeba Software v0.6.0].txt	msx2-maybe-intro-disks
+7138d675b0f23b9277d020863fbf4382	Super Daisenryaku (Japan) (Data Disk) [T-En by Django v1.0].dsk	msx2-maybe-intro-disks
+5b01a0d20ff436f031c999b6b350f86c	Super Daisenryaku (Japan) (Game Disk) [T-En by Django v1.0].dsk	msx2-maybe-intro-disks
+39440ab1187fc359b545e9fc709f6b56	Super Daisenryaku (Japan) [T-En by Django v1.0].pdf	msx2-maybe-intro-disks
+b24aac8fb23aa6b6a37e076d3c650c45	Xak II - Rising of the Red Moon (Japan) (Disk 1) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+69e3c0fcfff8cc0b4c778a8600ca6498	Xak II - Rising of the Red Moon (Japan) (Disk 2) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+7cc11a888271c9da980dbfa9fc838ce8	Xak II - Rising of the Red Moon (Japan) (Disk 3) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+f0d4560caf16fffb2290d9f53e78e26f	Xak II - Rising of the Red Moon (Japan) (Disk 4) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+b73c7268587826b542c3592eb8cb64ad	Xak II - Rising of the Red Moon (Japan) (Disk 5) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+974cc09b81a69cd8c46b5f1c88c82fab	Xak Precious Package - The Tower of Gazzel (Japan) (Disk 1) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+262e530959cf0b579a4845ab27ef7603	Xak Precious Package - The Tower of Gazzel (Japan) (Disk 2) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+e7c328b9cc98c3f2345e2d0140680074	Xak Precious Package - The Tower of Gazzel (Japan) (Disk 3) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+ccfabf3d300d9596252fd9c41bed2813	Xak Precious Package - The Tower of Gazzel (Japan) (Disk 4) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+df7c67c3f29b1f543fc7ae55533bb03c	Yoshida Konzern - Lubeck (Game Sample) (Japan) (Alt 1).dsk	msx2-maybe-intro-disks
+2d9dd51999ecdfbae7e1238891e631f9	Yoshida Konzern - Lubeck (Game Sample) (Japan).dsk	msx2-maybe-intro-disks
+7cd5da0a05e8f24f03ec492fed90a257	Yoshida Konzern - Shooting Game Construction Tool (Japan) [T-En by MSX Translations v0.5.0] - Help Texts Script.doc	msx2-maybe-intro-disks
+31d711dc13d996567d30c613a9e6a2af	Yoshida Konzern - Shooting Game Construction Tool (Japan) [T-En by MSX Translations v0.5.0] - Horizontal Enemy Patterns.png	msx2-maybe-intro-disks
+d2c2b662c1b5530a6b5f6b45cfb4e475	Yoshida Konzern - Shooting Game Construction Tool (Japan) [T-En by MSX Translations v0.5.0] - Vertical Enemy Patterns.png	msx2-maybe-intro-disks
+3f9582c3cd6cf8d5e86b53650c21df38	Yoshida Konzern - Shooting Game Construction Tool (Japan) [T-En by MSX Translations v0.5.0].dsk	msx2-maybe-intro-disks
+cde197a628f537ba2159a1bcd87f89fb	Yoshida Konzern - Shooting Game Construction Tool (Japan) [T-En by MSX Translations v0.5.0].txt	msx2-maybe-intro-disks
+c52e2ea87b469952ad4817a0196bd010	Ys - Ancient Ys Vanished Omen (Japan) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+6e6c8b09af1209aab773661b50344188	Ys II - Ancient Ys Vanished - The Final Chapter (Japan) (Data Disk) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+bc8f210689c69a1663df4f6baeb97b31	Ys II - Ancient Ys Vanished - The Final Chapter (Japan) (Game Disk) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+3244a6e255f6aee2be560f267c6ca7dc	Ys III - Wanderers from Ys (Japan) (Data 1 Disk) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+f7f9cb5c9f069b5cc3ca980dd67d0876	Ys III - Wanderers from Ys (Japan) (Data 2 Disk) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+1ebb2f8263c042c0122aff2021f8c0e0	Ys III - Wanderers from Ys (Japan) (Data 3 Disk) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks
+550e3f8ad0a5ba72d60a8a86b3cf6042	Ys III - Wanderers from Ys (Japan) (Game Disk) [T-En by Oasis v1.0].dsk	msx2-maybe-intro-disks

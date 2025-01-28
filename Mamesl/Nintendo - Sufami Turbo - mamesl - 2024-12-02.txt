@@ -1,0 +1,13 @@
+55d6940953b7e1ea4d88725cba2fdbca	bishoujo senshi sailormoon sailorstars - fuwafuwa panic 2 (japan).st	sufamiturbo-mame
+3c951183ae15567c811a675cf44aa22c	crayon shin-chan - nagagutsu dobon (japan).st	sufamiturbo-mame
+c9cae86f503bd0b6ebef6c481b179536	gegege no kitarou - youkai donjara (japan).st	sufamiturbo-mame
+27eb2c85bb733416762fa1bcd91a4ab7	gekisou sentai carranger - zenkai racer senshi (japan).st	sufamiturbo-mame
+d5c6e9038e60c23b05d5690a03ffa4c9	poi poi ninja world (japan).st	sufamiturbo-mame
+16375432c8ffc540b459cfd31723572b	sd gundam generation - axis senki (japan).st	sufamiturbo-mame
+c1305ecd913e12719c5ea07eea4a440e	sd gundam generation - babylonia kenkoku senki (japan).st	sufamiturbo-mame
+3e84a2bccc251ff42c01166ba55dfdaf	sd gundam generation - colony kakutouki (japan).st	sufamiturbo-mame
+3bf7fd80b609beb19fd4c40b65f9224c	sd gundam generation - gryps senki (japan).st	sufamiturbo-mame
+84d83ded05c6ec31654dd1e2116e32d3	sd gundam generation - ichinen sensouki (japan).st	sufamiturbo-mame
+9892637e1523509c16b4e8017e99200f	sd gundam generation - zanscare senki (japan).st	sufamiturbo-mame
+bb8daddcf18fc44442baa041888da924	sd ultra battle - seven densetsu (japan).st	sufamiturbo-mame
+bd6aee0e7a861fe738f9cfe69084a3c5	sd ultra battle - ultraman densetsu (japan).st	sufamiturbo-mame
