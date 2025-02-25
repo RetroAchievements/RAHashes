@@ -1332,6 +1332,7 @@ cd679208722a1c68ec9537394d6b2d35	MetaFight EX (Japan).gbc	gbc-nointro
 f6dd1b1e5747412b9e5f25376c972d5a	Metal Gear Solid (USA).gbc	gbc-nointro
 82d17beb1aefd1b93621d6fa61dfa1cb	Metal Walker (USA) (GB Compatible).gbc	gbc-nointro
 017cde0db5d27525af84123f1ce81edf	Metamode (Japan).gbc	gbc-nointro
+ca67e0f792484d205637cfc26447089e	Metamorphosis Collection (World) (Demo) (GB Compatible) (Aftermarket) (Unl).gbc	gbc-nointro
 e8bb2b9629f352fdc0f59a7bffdd66bb	Meteorite (World) (Aftermarket) (Unl).gbc	gbc-nointro
 c1cf2d44f37a31fa7d5cdc7d523fd145	Mia Hamm Soccer Shootout (USA).gbc	gbc-nointro
 b58de20c4ad01909f4dc75218150f253	Michael the Ant Thumper (World) (GB Compatible) (Aftermarket) (Unl).gbc	gbc-nointro
@@ -1684,6 +1685,7 @@ fcdeae417e8bdf89f1300311e4be5c57	Postie (World) (v1.1) (GB Compatible) (Aftermar
 90e6f6d8989d241d386bb1c021687099	Potbound (World) (2022-09-27) (Proto) (GB Compatible) (Aftermarket) (Unl).gbc	gbc-nointro
 87749697d02aaa530974e3bf01784e2a	POWA! (World) (Demo) (GB Compatible) (Aftermarket) (Unl).gbc	gbc-nointro
 c9c39627ee5049e47ce1acd67fff7b8a	POWA! (World) (En) (GB Compatible) (Aftermarket) (Unl).gbc	gbc-nointro
+f985329ca65d773c7bdb40e22612199a	POWA! (World) (Eu) (GB Compatible) (Aftermarket) (Unl).gbc	gbc-nointro
 79057202277940eb8a37257ebcb513c3	POWA! (World) (Ja) (GB Compatible) (Aftermarket) (Unl).gbc	gbc-nointro
 cbfbc14621b1c2259c7ef3f5b89366fe	Power Ball - Monster's Quest (World) (v1.04) (Demo) (GB Compatible) (Aftermarket) (Unl).gbc	gbc-nointro
 38d51be26c98e1a89cace0d4f0684f72	Power Pro Kun Pocket (Japan) (Rev 1) (SGB Enhanced) (GB Compatible).gbc	gbc-nointro
@@ -2264,6 +2266,7 @@ a26cfbd01895b12ad64b7191a607fc11	Tony Hawk's Pro Skater (Japan) (Proto).gbc	gbc-
 0454b25266d645990b63b5b406672dc2	Tony Hawk's Pro Skater 2 (USA, Europe).gbc	gbc-nointro
 365f913d6f2b0f44d87b7a347daea528	Tony Hawk's Pro Skater 3 (USA, Europe).gbc	gbc-nointro
 d9575286a0da1da5f6036f649024298c	Toobin' (USA).gbc	gbc-nointro
+a4af66b229f3bed283f361275484d84d	Tools of Nexaura (World) (Beta 4) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc	gbc-nointro
 c8e254ac7f14d39290492f849cc1c0ed	Tools of Nexaura (World) (v0.4) (Demo) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc	gbc-nointro
 91fd1e446ef8af51080409b7940391e9	Toonsylvania (Europe) (En,Fr,De,Es,It,Nl).gbc	gbc-nointro
 f70756d7502b1374e05c7fce48a4d283	Toonsylvania (USA).gbc	gbc-nointro
