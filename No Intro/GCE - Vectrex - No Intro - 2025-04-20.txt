@@ -1,0 +1,47 @@
+ab082fa8c8e632dd68589a8c7741388f	[BIOS] GCE Vectrex (World).bin	vectrex-nointro
+00f768e79d6ebfe9bf920ffec4c5c4f2	3D Crazy Coaster (USA).vec	vectrex-nointro
+1a81fea8ac1c1d46de7b633814130857	3D Mine Storm (USA).vec	vectrex-nointro
+f79c596a0205c5e7c427cdbbb1e16918	3D Narrow Escape (USA).vec	vectrex-nointro
+5e7a5dc59e32f2f63d85ae1f0201113a	AnimAction - Advanced Animation (USA).vec	vectrex-nointro
+9657037a461eee919462eb6a01879685	Armor Attack (World).vec	vectrex-nointro
+972972f871916a922f20779deed8a708	Art Master (USA).vec	vectrex-nointro
+268e75778f282d853d77acf42c6c8734	Bedlam (USA, Europe).vec	vectrex-nointro
+4cf69d28b334fb972b4c97397e92693a	Berzerk (Europe) (Rev 2).vec	vectrex-nointro
+640ae7bd4538bad11256999db68de5a0	Berzerk (USA).vec	vectrex-nointro
+5d74770bb175357812e61ee7ca731270	Blitz! - Action Football (USA, Europe) (Alt).vec	vectrex-nointro
+94f144c31fd4563f9473ed0563463e54	Blitz! - Action Football (World).vec	vectrex-nointro
+a376d5648e08f348e5965c058c631c6d	Clean Sweep (World).vec	vectrex-nointro
+9b61653ed9dafd4cfb7f9d94404259ac	Cosmic Chasm (World).vec	vectrex-nointro
+db9929b0ad53c97afda065596806bf86	Dark Tower (USA) (Proto).vec	vectrex-nointro
+896793a17a32932bcd64c52c77b00d55	Engine Analyzer (USA) (Proto).vec	vectrex-nointro
+e65b3262e9447a747d93e0ccb1dbb7df	Fortress of Narzod (USA, Europe).vec	vectrex-nointro
+501dd2845432f10e4b9531240f409b8c	Heads-Up - Action Soccer (World).vec	vectrex-nointro
+7580926ee22f06fd2ccde4b65184715f	HyperChase - Auto Race (World).vec	vectrex-nointro
+e0dfc58763716c3b6a89e08f4869396e	Mail Plane (USA) (Proto) (05838962).vec	vectrex-nointro
+e6c821917e168b1e6e27bf2b90ad6cfb	Mail Plane (USA) (Proto) (DA1AC0DB).vec	vectrex-nointro
+80e72d7e1bb06fd5d5a24c93f1b61f14	Melody Master - Music Composition and Entertainment (USA).vec	vectrex-nointro
+ee19e350be0af2a509a202b057488dc8	Mine Storm (World).vec	vectrex-nointro
+126fecbf4fb09fdb5a3c9af92abaed7c	Mine Storm II (USA) (Rev 2).vec	vectrex-nointro
+1c95cf8fcd2c98db747208ade464a44f	Mr. Boston Clean Sweep (Europe).vec	vectrex-nointro
+e7bf7de16b01419a819826cce3dc25ee	Pitcher's Duel (USA) (Proto).vec	vectrex-nointro
+f599da79b5c324c2a11c117d256a64c0	Polar Rescue (USA) (Beta).vec	vectrex-nointro
+5c1c413e51aa282015807dc60213fd3d	Polar Rescue (USA).vec	vectrex-nointro
+f85c521f445c82bf200b5b85b9b1cd60	Pole Position (USA) (Alt).vec	vectrex-nointro
+f94173910549038d4d8f329413a5aa54	Pole Position (USA).vec	vectrex-nointro
+4bb04a738c216e98cc07ed28f6cd4db8	RA+A Spectrum I+ Stress Tester (USA) (Proto).vec	vectrex-nointro
+808e0501990bd01882c102df00f20064	Rip Off (World).vec	vectrex-nointro
+95370908561a782edf138df41ccb8f18	Scramble (USA, Europe).vec	vectrex-nointro
+cf6c01b0212e3b2191a97139cf1f427a	Sledge 3D (USA) (Sample).vec	vectrex-nointro
+11a9bd419cf094de8caa8a44d76b69ab	Solar Quest (World).vec	vectrex-nointro
+2decdf9f55df7fb99761b2fe51425e40	Space Wars (World).vec	vectrex-nointro
+5a90ab748f7b220edaf8c1d67e0bfe89	Spike (USA, Europe).vec	vectrex-nointro
+ecc143f87a702af7a1786b58a78ace01	Spinball (USA).vec	vectrex-nointro
+1224c9beae22ee7354e4220c46237696	Star Castle (USA).vec	vectrex-nointro
+47cefe6f77dbafb4475a64fe89da02c0	Star Ship (Europe) (1982).vec	vectrex-nointro
+788122ac0bf67071016fa492a27e8421	Star Ship (Europe) (1983).vec	vectrex-nointro
+0b67a6339e9c1d8385e8fdfc48f447bc	Star Trek - The Motion Picture (USA).vec	vectrex-nointro
+add42c10019e88f47dd98791f8de3148	StarHawk (World).vec	vectrex-nointro
+8d66945eb9826d91ce27e07b2f8854f9	Test Cartridge (USA) (Rev 4) (Proto).vec	vectrex-nointro
+8ce9091361e0884bcd60409fc3301edc	Tour De France (USA) (Proto).vec	vectrex-nointro
+a3e0f44454d4100b18493f1bd2485d8b	WebWarp (Europe).vec	vectrex-nointro
+a398c18b4ce87929471b559b2bc7e79f	WebWars (USA).vec	vectrex-nointro

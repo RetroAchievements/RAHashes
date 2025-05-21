@@ -1,0 +1,92 @@
+[BIOS] Nintendo DS - Game Boy Advance Mode Boot ROM (World).bin
+[BIOS] Nintendo DS ARM7 Boot ROM (World).bin
+[BIOS] Nintendo DS ARM9 Boot ROM (World).bin
+[BIOS] Nintendo DS Firmware (World) (En,Ja,Fr,De,Es,It) (2006-02-20) (IS-NITRO-EMULATOR) (USG Controller).bin
+[BIOS] Nintendo DS Firmware (World) (En,Ja,Fr,De,Es,It) (2006-02-20) (IS-NITRO-EMULATOR).bin
+Altron 3D Action (Japan) (Proto).nds
+American Dragon - Jake Long - Attack of the Dark Dragon (USA) (Beta) (2005-11-14) (Build B).nds
+American Dragon - Jake Long - Attack of the Dark Dragon (USA) (Beta) (2005-11-14).nds
+American Dragon - Jake Long - Attack of the Dark Dragon (USA) (Beta) (2005-12-05) (Stable).nds
+American Dragon - Jake Long - Attack of the Dark Dragon (USA) (Beta) (2005-12-05) (Unstable).nds
+American Dragon - Jake Long - Attack of the Dark Dragon (USA) (Beta) (2005-12-21) (Sound Test).nds
+American Dragon - Jake Long - Attack of the Dark Dragon (USA) (Beta) (2005-12-23).nds
+American Dragon - Jake Long - Attack of the Dark Dragon (USA) (Beta) (2006-01-06).nds
+American Dragon - Jake Long - Attack of the Dark Dragon (USA) (Beta) (2006-01-09).nds
+American Dragon - Jake Long - Attack of the Dark Dragon (USA) (Beta) (2006-01-10).nds
+American Dragon - Jake Long - Attack of the Dark Dragon (USA) (En,Fr,De,Es,It) (Beta) (2006-06-23).nds
+American Dragon - Jake Long - Attack of the Dark Dragon (USA) (En,Fr,De,Es,It) (Beta) (2006-06-26).nds
+Anguna - Warriors of Virtue (World) (v1.02) (Aftermarket) (Unl).nds
+Aquela Ball (World) (Datel Games n' Music) (Unl).nds
+Back at the Barnyard - Slop Bucket Games (USA) (Beta) (2008-03-20).nds
+Bahlz (World) (Datel Games n' Music) (Unl).nds
+Battle Ship (World) (Datel Games n' Music) (Unl).nds
+Board Checker RVL (World) (V12.2) (2010-03-03) (Program).nds
+Board Checker RVL (World) (V13.2) (2011-08-09) (Program).nds
+Board Checker RVL (World) (V7.2) (2007-06-29) (Program) (Alt).nds
+Board Checker RVL (World) (V7.2) (2007-06-29) (Program).nds
+Board Checker TWL (World) (V3.0) (2010-02-04) (Program).nds
+Breakout!! DS (World) (Datel Games n' Music) (Unl).nds
+Bubble Fusion (World) (Datel Games n' Music) (Unl).nds
+Carre Rouge (World) (Datel Games n' Music) (Unl).nds
+ChainReaction (World) (Datel Games n' Music) (Unl).nds
+Club Penguin - Elite Penguin Force (USA) (Beta).nds
+Code de la Route (France).nds
+Collection (World) (Datel Games n' Music) (Unl).nds
+DiggerDS (World) (Datel Games n' Music) (Unl).nds
+Dora Puppy (USA) (Beta) (2009-02-27).nds
+Double Skill (World) (Datel Games n' Music) (Unl).nds
+Drake & Josh - Talent Showdown (USA) (En,Fr) (v2.04.002) (Beta).nds
+DSChess (World) (Datel Games n' Music) (Unl).nds
+EA Create Snap (USA) (Proto).nds
+EA Playground 2 (USA) (En,Fr,De,Es,It) (Proto).nds
+Flunkerne - Superskurke (Europe) (No,Da).nds
+Hexa-Virus (World) (Datel Games n' Music) (Unl).nds
+iCarly - Groovy Foodie! (USA) (Beta) (2012-01-13).nds
+iCarly - Groovy Foodie! (USA) (Beta) (2012-02-03).nds
+iCarly - Groovy Foodie! (USA) (Beta) (2012-02-09).nds
+iCarly - Groovy Foodie! (USA) (Beta) (2012-02-16).nds
+iCarly - Groovy Foodie! (USA) (Beta) (Later).nds
+iCarly (USA) (Beta) (NDSi Enhanced).nds
+Invasion (World) (Datel Games n' Music) (Unl).nds
+JoggleDS (World) (Datel Games n' Music) (Unl).nds
+LEGO Castle (USA) (Proto).nds
+LEGO Racers - The Video Game (Europe) (En,Fr,De,Es,It,Da) (Proto) (2008-12-15).nds
+LEGO Racers - The Video Game (Europe) (En,Fr,De,Es,It) (Proto) (2008-09-23).nds
+LEGO Racers - The Video Game (Europe) (En,Fr,De,Es,It) (Proto) (2008-10-03).nds
+LEGO Racers - The Video Game (Europe) (En,Fr,De,Es,It) (Proto) (2008-10-26).nds
+LEGO Racers - The Video Game (Europe) (Proto) (2008-06-24).nds
+LEGO Racers - The Video Game (Europe) (Proto) (2008-06-27).nds
+LEGO Racers - The Video Game (Europe) (Proto) (2008-07-25).nds
+LEGO Racers - The Video Game (Europe) (Proto) (2008-08-29).nds
+London Underground (World) (Datel Games n' Music) (Unl).nds
+Mechanic Master (USA) (En,Fr,De,Es,It) (Beta).nds
+Nintendo DS Guide (World) (Wi-Fi Kiosk).nds
+Nitro EVA. (World) (Ver.0.0.3) (2004-06-17) (Program).nds
+Nitro EVA. F-WRITER Ver1.0K (USG) (World) (Ver1.0) (2006-12-11) (Program).nds
+Nitro EVA. F-WRITER Ver3.0 (USG) (World) (Ver1.0) (2006-03-09) (Program).nds
+Nitro EVA. MIC (World) (Ver4.0) (2007-05-07) (Program).nds
+Nitro EVA. MIC (World) (Ver4.0) (2008-12-01) (Program).nds
+NumberMinds (World) (Datel Games n' Music) (Unl).nds
+Paddle Battle (World) (Datel Games n' Music) (Unl).nds
+Pocket Monsters - Diamond (Japan) (Rev 1).nds
+Pop the Balls (World) (Datel Games n' Music) (Unl).nds
+R4 Upgrade (World) (Unl).nds
+Solitaire DS (World) (Datel Games n' Music) (Unl).nds
+SpongeBob's Boating Bash (USA) (Beta) (NDSi Enhanced).nds
+Squash DS (World) (Datel Games n' Music) (Unl).nds
+Super Snake DS (World) (Datel Games n' Music) (Unl).nds
+SuperCard DSONE (SDHC) (World) (Unl) (Alt).nds
+Tales of Dagur (World) (Datel Games n' Music) (Unl).nds
+Tetris & Touch (World) (Datel Games n' Music) (Unl).nds
+Tic Tac Toe (World) (Datel Games n' Music) (Unl).nds
+WALL-E (Korea).nds
+Warrior Training (World) (Datel Games n' Music) (Unl).nds
+Winx Club - Magical Fairy Party (USA) (Beta) (2012-04-16).nds
+Winx Club - Magical Fairy Party (USA) (Beta) (2012-06-19) (Debug).nds
+Winx Club - Magical Fairy Party (USA) (Beta) (2012-06-19).nds
+Winx Club - Magical Fairy Party (USA) (Beta) (2012-07-06).nds
+Winx Club - Magical Fairy Party (USA) (En,Fr,Es) (Beta) (2012-07-18) (Debug).nds
+Winx Club - Magical Fairy Party (USA) (En,Fr,Es) (Beta) (2012-07-18).nds
+Winx Club - Magical Fairy Party (USA) (En,Fr,Es) (Beta) (2012-08-05) (Debug).nds
+Winx Club - Magical Fairy Party (USA) (En,Fr,Es) (Beta) (2012-08-05).nds
+Zi (World) (Datel Games n' Music) (Unl).nds
