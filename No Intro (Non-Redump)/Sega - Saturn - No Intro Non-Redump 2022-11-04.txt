@@ -4,7 +4,6 @@ d33165a56ebce59f18c99a8ac997cb68	Center Ring Boxing (Unknown) (Beta) (1995-11-26
 5ab750def0a3ada4be8035f76d3e51d5	Chelnov (Unknown) (Beta) (1997-07-23).cue
 7496e385300e475be4d071cd1a887c0b	Chill (Unknown) (Beta) (1998-01-19).cue
 81c35a7e99708eca4820960aaac339a6	Clockwork Knight 2 (Unknown) (Beta) (1995-08-30)
-81c35a7e99708eca4820960aaac339a6	Clockwork Knight 2 (Unknown) (Beta) (1995-08-30).cue
 ee90de7aa772fd9e33ad55af36f40f4a	Contra - Legacy of War (Unknown) (Beta) (1997-01-28)
 1fbefe7ea6fafcb0389841315a5cba4a	Crypt Killer (Unknown) (Beta) (1997-01-08).cue
 92a9b47657e94f55d2bd9811872985c6	Duke Nukem (Unknown) (Beta) (1997-09-18).cue
@@ -12,7 +11,6 @@ f42d6708d7cef7fcdfe8c2693babb915	Earthworm Jim 2 (Unknown) (Beta) (1995-12-29).c
 e7fc68b4b9c66be8232a991e05e5b8ae	Earthworm Jim 2 (Unknown) (Beta) (1996-01-05).cue
 3429f0660ff64443b06072600ed785f5	Fighters Megamix (Unknown) (Beta) (1997-04-08).cue
 f99d3db7441d860178e264588a412e97	Hexen (Unknown) (Beta) (1996-12-12)
-f99d3db7441d860178e264588a412e97	Hexen (Unknown) (Beta) (1996-12-12).cue
 886b7928b151d4997d7848dc7b0a1180	Judgement Force (Unknown) (Beta) (1996-11-26).cue
 5ebff3fe7c2c67a2ed6d329a7d90b790	Loaded (Unknown) (Beta) (1996-09-03).cue
 773d6d2590763d271397f81d22cfb2fd	Major Damage (Unknown) (Beta) (1996-06-14).cue

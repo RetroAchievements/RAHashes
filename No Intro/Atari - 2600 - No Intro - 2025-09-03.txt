@@ -305,6 +305,7 @@ f344ac1279152157d63e64aa39479599	Espial (USA).a26
 7ac4f4fb425db38288fa07fb8ff4b21d	Exocet (Europe).a26
 b4362c4eb535eda58079e2a1a6a45707	Exocet (Netherlands) (En) (Unl).a26
 ebd2488dcace40474c1a78fa53ebfadf	Extra Terrestrials (USA).a26
+edd69e956e153057ee548bd76b5017e8	Fall Down (World) (PAL 50Hz) (Aftermarket) (Unl).a26
 b80d50ecee73919a507498d0a4d922ae	Fantastic Voyage (USA).a26
 f7e07080ed8396b68f2e5788a5c245e2	Farmyard Fun (USA).a26
 9de0d45731f90a0a922ab09228510393	Fast Eddie (USA).a26
@@ -478,6 +479,7 @@ b65d4a38d6047735824ee99684f3515e	MegaBoy (USA).a26
 318a9d6dda791268df92d72679914ac3	MegaMania - A Space Nightmare (USA).a26
 1e0ef01e330e5b91387f75f700ccaf8f	Mein Weg (Germany) (En).a26
 96e798995af6ed9d8601166d4350f276	Meltdown (USA) (Proto).a26
+6522717cfd75d1dba252cbde76992090	Meteor Defense (Europe).a26
 da732c57697ad7d7af414998fa527e75	Midnight Magic (Europe).a26
 f1554569321dc933c87981cf5c239c43	Midnight Magic (USA).a26
 3c57748c8286cf9e821ecd064f21aaa9	Millipede (USA).a26
@@ -640,6 +642,7 @@ db76f7a0819659d9e585f2cdde9175c7	Robin Hood (Europe).a26
 4f618c2429138e0280969193ed6c107e	Robot Tank (USA).a26
 65bd29e8ab1b847309775b0de6b2e4fe	Roc 'n Rope (USA).a26
 d97fd5e6e1daacd909559a71f189f14b	Rocky & Bullwinkle (USA) (Proto).a26
+685e9668dc270b6deeb9cfbfd4d633c3	Room of Doom (Europe).a26
 67931b0d37dc99af250dd06f1c095e8d	Room of Doom (USA).a26
 1f2ae0c70a04c980c838c2cdc412cf45	Rubik's Cube (USA).a26
 40b1832177c63ebf81e6c5b61aaffd3a	Rubik's Cube 3-D (USA) (Proto).a26
@@ -688,7 +691,9 @@ c31a17942d162b80962cb1f7571cd1d5	Sky Alien ~ Assault (Europe).a26
 46c021a3e9e2fd00919ca3dd1a6b76d8	Sky Diver ~ Dare Diver (USA).a26
 2a0ba55e56e7a596146fa729acf0e109	Sky Jinks (USA).a26
 4c9307de724c36fd487af6c99ca078f2	Sky Patrol (USA) (Proto).a26
+514f911ecff2be5eeff2f39c49a9725c	Sky Skipper (Europe).a26
 3b91c347d8e6427edbe942a7a405290d	Sky Skipper (USA).a26
+8108162bc88b5a14adc3e031cf4175ad	Skydiver (Europe).a26
 f90b5da189f24d7e1a2117d8c8abc952	Slot Machine ~ Slots (USA).a26
 a7ed7dc5cbc901388afa59030fb11d26	Slot Racers (Europe).a26
 aed82052f7589df05a3f417bb4e45f0c	Slot Racers ~ Maze (USA).a26
@@ -854,6 +859,7 @@ d08fccfbebaa531c4a4fa7359393a0a9	Venetian Blinds Demo (USA) (Demo).a26
 f0b7db930ca0e548c41a97160b9f6275	Video Chess (USA).a26
 4191b671bcd8237fc8e297b4947f2990	Video Jogger (USA).a26
 497f3d2970c43e5224be99f75e97cbbb	Video Life (USA).a26
+77d0a577636e1c9212aeccde9d0baa4b	Video Olympics (Europe).a26
 60e0ea3cbe0913d39803477945e9e5ec	Video Olympics ~ Pong Sports (USA).a26
 6e59dd52f88c00d5060eac56c1a0b0d3	Video Pinball (Europe).a26
 107cc025334211e6d29da0b6be46aec7	Video Pinball ~ Arcade Pinball (USA).a26

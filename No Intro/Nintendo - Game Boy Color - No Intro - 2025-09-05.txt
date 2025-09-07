@@ -576,6 +576,7 @@ f71ac6ac4bb335f59bfd2b594d47ab49	Dragon Warrior Monsters 2 - Cobi's Journey (USA
 5eb19464d9e4d8cb7ea088a32bd30061	Dragonborne DX (World) (v1.0.2) (Demo) (GB Compatible) (Aftermarket) (Unl).gbc
 ee700a60bf4e72287e0b9eb377e981d2	Dragonmaster (World) (Aftermarket) (Unl).gbc
 cf2cf8847c318355a7ec38232020025c	Dragonyhm (World) (Demo) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc
+a10542f1f9e53db17564997a80ce2ab9	Dragonyhm (World) (Incube8 Games) (Aftermarket) (Unl).gbc
 7a261a318b4a476d95a0189f634bc4db	Dragonyhm (World) (ModRetro Chromatic) (Aftermarket) (Unl).gbc
 cfb697ad6bded1ab7ef4b2aefe652644	Dragonyhm (World) (v1.1.0) (Demo) (GB Compatible) (Aftermarket) (Unl).gbc
 d3edbd375df5b18b6dc21380fe1374ee	Dream Shark - Part 1 (World) (Beta 2) (GB Compatible) (Aftermarket) (Unl).gbc
@@ -688,6 +689,7 @@ dcc73cdf818a54657230bf552504abe1	Find Out (World) (GB Compatible) (Aftermarket) 
 90f41034a9d4928bdf4b56d2e5c9b62c	Fire Ant (World) (Aftermarket) (Unl).gbc
 63073bf7cd416f5facbfe9e9d7d7e6c9	Fireman Fred (World) (Aftermarket) (Unl).gbc
 317f997c10602f100fa1231f72194505	Firemen (World) (Aftermarket) (Unl).gbc
+b90931908178e94045ab4c1e09192057	First Contact Protocol (World) (ModRetro Chromatic) (Aftermarket) (Unl).gbc
 edf021b521a496fe7afc5e15949f5c80	Fish Files, The (Europe) (En,Fr,De,Es,It).gbc
 c7799bcf50583c9dde914e71d559d7d4	Fishing for Asteroids (World) (v1.0) (Mini Jam 153) (GB Compatible) (Aftermarket) (Unl).gbc
 2cbb69bd1cda0e7cc186f94b5e161bfd	Fishing for Asteroids (World) (v1.1) (GB Compatible) (Aftermarket) (Unl).gbc
@@ -846,6 +848,7 @@ e69da049d745b89fd28c79fe20a2b861	Granduel - Shinki Dungeon no Hihou (Japan).gbc
 b53eaf56f0c95887f4c009c4a95f28a2	Grave Encounter, A (World) (v1.21) (GB Compatible) (Aftermarket) (Unl).gbc
 e6cfb4de1afee7579d21938eba5a69b3	Grave Encounter, A (World) (v1.3) (GB Compatible) (Aftermarket) (Unl).gbc
 5b29ec02452df1c3ce70d6aa82d59409	Gravitorque (World) (GB Compatible) (Aftermarket) (Unl).gbc
+7bb729b82ca341f1c89f51bdc9dcd3dd	Gravitorque DX (World) (ModRetro Chromatic) (Aftermarket) (Unl).gbc
 e952d78a439e47ab4d77b563973797d5	Great Battle Pocket, The (Japan) (SGB Enhanced) (GB Compatible).gbc
 7aa123c53442881d101036559e704dca	Green Beret (Unknown) (Proto 1).gbc
 37817f1d239b5c8b8c2dac4d49262d7d	Green Beret (Unknown) (Proto 2).gbc
@@ -1916,7 +1919,7 @@ c3c4b88e40538c1c99b85313bc88df6d	Saban's Power Rangers - Lightspeed Rescue (USA,
 cb689dc8d4e95fe9d190f6f5ad1d0ed4	Sabrina - The Animated Series - Zapped! (Europe) (En,Fr,De).gbc
 ec39462e39e3cbcabe03667fabf12d5a	Sabrina - The Animated Series - Zapped! (USA, Europe).gbc
 eeb8a7311a959035e8a3c3822329ea48	Sakata Gorou Kudan no Renju Kyoushitsu (Japan) (SGB Enhanced) (GB Compatible).gbc
-70883b45a97984cb033c2b95028bef65	Sakura Taisen GB - Geki Hana Gumi Nyuutai! (Japan).gbc
+70883b45a97984cb033c2b95028bef65	Sakura Taisen GB - Geki Hanagumi Nyuutai! (Japan).gbc
 5b36285c8491be0e1cb0c2c741d2b793	Sakura Taisen GB 2 - Thunderbolt Sakusen (Japan).gbc
 b06e4ef225fbf01771dea02679f3775e	Sam the Optimistic Hedgehog (World) (2023-01-16) (GB Compatible) (Aftermarket) (Unl).gbc
 9f7fbde333caa987d9069e6d993c4993	Sam the Optimistic Hedgehog (World) (2023-01-21) (GB Compatible) (Aftermarket) (Unl).gbc
@@ -2061,6 +2064,7 @@ d3c6c44a4f6021b4d5a6454a87af9a6c	Snoopy Tennis (Europe) (En,Fr,De,Es,It,Nl).gbc
 0c1c350ce431ace4328c0e935fa2f41b	Snow White and the Seven Dwarfs (USA).gbc
 523fac00115280ede5ac1647552b2024	SnowCross (Europe) (En,Fr,De,Es,It,Pt).gbc
 ba0aeedae367f82a1fd2760cfcda2bd9	Soccer Manager (Europe) (En,Fr,De,Es).gbc
+ea1d92074995590ebe4766f28f476db9	Sofia the Witch - Curse of the Monster Moon (World) (Aftermarket) (Unl).gbc
 fdff465da96840e8407a5a4d4e480306	Sofia the Witch - Curse of the Monster Moon (World) (Demo) (Aftermarket) (Unl).gbc
 dc15bf4d545a2c537f46598cb9204daf	Solomon (Japan).gbc
 975b5b649d64fd2334cb69f81bca4c9c	Sonic Adventure 7 (Taiwan) (En) (Unl).gbc
@@ -2237,6 +2241,9 @@ cfa42de596faaeb161bea96d3f6b9e6a	Test Drive 6 (Europe) (En,Fr,De,Es,It) (GB Comp
 adb95251cfd973f8245e6a869925d6da	Test Drive Le Mans (USA) (En,Fr,Es).gbc
 9f88bdc053b035240ff1478ca11e7c23	Test Drive Off-Road 3 (USA) (Rumble Version) (SGB Enhanced) (GB Compatible).gbc
 6564aad1fe5b3162e399f3acdccde71f	Tetris (World) (ModRetro Chromatic) (Aftermarket) (Unl).gbc
+8fe80d5c7fa585dcef058855b3f84325	Tetris (World) (v1.01) (ModRetro Chromatic) (Aftermarket) (Unl).gbc
+580765755d7b7b59fbf1c607131a9151	Tetris (World) (v1.1) (ModRetro Chromatic) (Aftermarket) (Unl).gbc
+d4e6842e8ee7a7781907c21f0cb7c787	Tetris (World) (v1.2) (ModRetro Chromatic) (Aftermarket) (Unl).gbc
 55031fadeb053136a4df5cf848a97680	Tetris Adventure - Susume Mickey to Nakama-tachi (Japan) (Rev 1).gbc
 8339e84709ea33723fd11ed2f3e1abee	Tetris Adventure - Susume Mickey to Nakama-tachi (Japan).gbc
 65973d7a1446346294f8ca9d2d1b7e66	Tetris DX (World) (SGB Enhanced) (GB Compatible).gbc
@@ -2440,9 +2447,10 @@ f36cd3e0a8a8eacf4a9c5a2a755f237e	Wetrix GB (Japan) (SGB Enhanced) (GB Compatible
 71844ae14b67fbe97b0ab5655e5a87b0	What Friends Are For (World) (v2.0) (GB Compatible) (Aftermarket) (Unl).gbc
 0bb519a09c675a797f422305115b49cc	What's Updog (World) (2022-11-23) (GB Compatible) (Aftermarket) (Unl).gbc
 1c11ff801d3987880cb19ad85afdf578	What's Updog (World) (2023-01-09) (GB Compatible) (Aftermarket) (Unl).gbc
-1913a2173775a0c799683c74a80cdebb	Where's My Cake (World) (GB Compatible) (Aftermarket) (Unl).GBC
+1913a2173775a0c799683c74a80cdebb	Where's My Cake (World) (GB Compatible) (Aftermarket) (Unl).gbc
 b749ab5629d40cc4da3e4136f49d7cd8	Who Dares Wins II (World) (Aftermarket) (Unl).gbc
 866dca02365fd72f9ad396dca758d8b5	Who Wants to Be a Millionaire - 2nd Edition (USA).gbc
+7ed523dbdb281a57aab819b76cd45975	Wicked Plague (World) (ModRetro Chromatic) (Aftermarket) (Unl).gbc
 a34819a548e7a1a2b8a6d1d5ed6e912d	Wicked Plague (World) (v0.1.1) (Proto) (Aftermarket) (Unl).gbc
 d00eb270d07d5531e31c7e81e97a3f40	Wicked Plague (World) (v0.1.2) (Proto) (Aftermarket) (Unl).gbc
 f32210eedc7a619a09339764887e2b93	Wild Thornberrys, The - Rambler (USA).gbc

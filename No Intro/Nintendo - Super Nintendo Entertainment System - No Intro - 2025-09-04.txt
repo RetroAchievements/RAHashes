@@ -1439,6 +1439,7 @@ c6ce4362e71935aa9b9af2820bb5630a	Jelly Boy (Europe).sfc
 80eed41a2ea019ad32cffec4642c217a	Jeopardy! - Sports Edition (USA).sfc
 af5aaf6fec949aeab8e2ca1a7de96721	Jeopardy! (USA).sfc
 f487330132177f2182b17bf6ef617a13	Jerry Boy (Japan).sfc
+965c26dd8f87522bde48b49fb3ee19c4	Jerry Glanville's Pigskin Footbrawl (USA) (Proto).sfc
 4f54f820ffbfce6b4ec1c0ebdf8c9903	Jester (USA) (Aftermarket) (Unl).sfc
 3cc707a5072ce9409f788e9fb905cb20	Jet Pilot Rising (World) (De) (Aftermarket) (Unl).sfc
 8e36483b61776951834d6738912cdded	Jet Pilot Rising (World) (De) (v1.1) (Aftermarket) (Unl).sfc
@@ -2472,6 +2473,7 @@ ae9fa79542609dd1561de3f44a9b997b	Pop'n TwinBee - Rainbow Bell Adventures (German
 ed9c32231cd480448f355c4ed54b1bae	Pop'n TwinBee (Europe).sfc
 31cb3860a435a155d8adaa4a31314180	Pop'n TwinBee (Japan) (Beta 1).sfc
 ec230fb58a8e8db96082255af7d3035a	Pop'n TwinBee (Japan) (Beta 2).sfc
+317d20921baa2c4b6dee78a9733b6905	Pop'n TwinBee (Japan) (Beta 2).sfc
 38888b0cb0609e19b09abc2a1adfbfef	Pop'n TwinBee (Japan).sfc
 10af6ccea28eeb16c0d8abd7c2a265db	Pop'n TwinBee (USA, Europe) (Switch Online).sfc
 e07fb3c8af18dd87260c0569e8588c31	Popeye - Ijiwaru Majo Sea Hag no Maki (Japan).sfc

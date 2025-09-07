@@ -3,6 +3,7 @@
 e24ba13bf9b54da75c543835ca0c5810	4 in 1 - Hash Block + Challenger Tank + Brain Power + Jacky Lucky (USA, Europe).sv	wsv-nointro
 cf443f0a812ac7c34e33469f9e8132a8	Alien (USA, Europe).sv	wsv-nointro
 3e00241b03c7b3acb102c9d852f780da	Assembloids (World) (Aftermarket) (Unl).sv	wsv-nointro
+6dd574473abfe47583c81a2fe33d3d02	Assembloids (World) (Digital) (Aftermarket) (Unl).bin	wsv-nointro
 3d33521248e9b3968aa1a1bebc9cef24	Balloon Fight (USA, Europe).sv	wsv-nointro
 95ffd2ff15dbb96e00a01641627b6e8a	Block Buster (USA, Europe).sv	wsv-nointro
 b7c5c8e371aef8b6772cc1b905612f2e	Brain Power (USA, Europe).sv	wsv-nointro

@@ -381,7 +381,7 @@ f3580f0bfcc3b39d94eee79820c9946d	Cosmo Tank (Japan).gb
 20d658fa55a9a61c59f888537039d8a7	Cosmo Tank (USA) (Beta).gb
 b340bad71c781bd1394d95241ed1adce	Cosmo Tank (USA).gb
 65d1553ef8e972be46c142a6e713d3df	Coucou (World) (Aftermarket) (Unl).gb
-2e4bd75723b0bc4f56c8e7077030b45a	Counting Sheep (World) (Aftermarket) (Unl).GB
+2e4bd75723b0bc4f56c8e7077030b45a	Counting Sheep (World) (Aftermarket) (Unl).gb
 82e7321afed96c7639a817de1f88a6f8	Crayon Shin-chan - Ora no Gokigen Collection (Japan) (SGB Enhanced).gb
 a5d383a5f6e9d61b505429257f2c44c1	Crayon Shin-chan - Ora to Shiro wa Otomodachi Da yo (Japan).gb
 9116e4fa652b09b181f547ae0e782022	Crayon Shin-chan 2 - Ora to Wanpaku Gokko Dazo (Japan).gb
@@ -837,7 +837,6 @@ ac04d143de6734e181a223d05178bde8	Ikari no Yousai (Japan).gb
 32db3b2ef7a88bee1352f1da1fde1154	illuminated (Unknown) (Aftermarket) (Unl).gb
 dd83f27a43bc5d571c86f979aac2e1dd	Impossible Gameboy (World) (Aftermarket) (Unl).gb
 8de5e624fe203a7b65c48e5994cc9bf0	In The Dark (World) (Aftermarket) (Unl).gb
-8de5e624fe203a7b65c48e5994cc9bf0	In The Dark (World) (Aftermarket) (Unl).gb
 a4fc8158d1f2b6359ddac6c66d747a95	In Your Face (USA).gb
 c21058af21efc29413797f0a2c532e16	Incredible Crash Dummies, The (USA, Europe).gb
 9483089bb7484f246b31af873eb6eef3	IndestructoTank! (World) (Cart) (Aftermarket) (Unl).gb
@@ -1018,7 +1017,7 @@ bd3f92b58281c6146c94e5a1048bb3fd	Last Crown Warriors (World) (Demo) (SGB Enhance
 bc4576a905da6160758264e6b070f8d0	Lawnmower Man, The (USA) (Proto 1) (1993-10-11) (Not For Resale).gb
 02069fbf36f31f5d01adc1ac4d9d0770	Lawnmower Man, The (USA) (Proto 2) (1993-11-10).gb
 68a06792ae4401f9fc09d460120ec2a1	Lazlos' Leap (USA).gb
-787eb7309113bf855201da4084fe7ede	Leak, The (World) (Aftermarket) (Unl).GB
+787eb7309113bf855201da4084fe7ede	Leak, The (World) (Aftermarket) (Unl).gb
 e44398f7ba16480c7cb9196b2fc6f568	Learn and Play - Blackjack & Solitaire (USA) (1994-08-09) (Proto).gb
 febead9c066474ccf390c92d84d7208f	Legend - Ashita e no Tsubasa (Japan).gb
 017ace47f4970576043075f7ba86073c	Legend of Prince Valiant, The (Europe) (En,Fr,De).gb
@@ -1700,8 +1699,8 @@ a477ac86be35d1fa70b708ad08dc88b8	RoboCop (USA, Europe) (Rev 1).gb
 421a923ba483f65a967b8455500b8880	RoboCop (USA).gb
 cd84cc505331f6a1d0702bb4a9667cec	RoboCop 2 (Japan).gb
 3eb476d0c6347ce9034246f826866a58	RoboCop 2 (USA, Europe).gb
-c515cc92427ea1148c1d6274f803b07a	RoboCop versus The Terminator (Europe).gb
-0e82b5210966e9eb53d5b7ef906a0f40	RoboCop versus The Terminator (USA).gb
+c515cc92427ea1148c1d6274f803b07a	RoboCop Versus The Terminator (Europe).gb
+0e82b5210966e9eb53d5b7ef906a0f40	RoboCop Versus The Terminator (USA).gb
 47a5ddf39068d624743455c0c64571d4	Robot Ponkots - Sun Version - Comic Bom Bom Special Version (Japan) (SGB Enhanced).gb
 fc89ae96c911ba84a5539bcc180f8f79	Rock'n! Monster!! (Japan) (SGB Enhanced).gb
 2fea4e5533913e9c6249626b18047e79	Rocket Man (World) (v1.2.1) (Demo) (Aftermarket) (Unl).gb
@@ -1785,7 +1784,7 @@ d8ce5727be52e709af20e9c177fba986	Shapeshifter 2, The (World) (v4) (Demo) (Afterm
 9d4d9a346158fcda7221c853b13bd19d	Shaq Fu (USA) (SGB Enhanced).gb
 f6901ba2ac671a063299da419058f838	Shark Attack (World) (Aftermarket) (Unl).gb
 34ef343746a3c4a18cbc6e3c8aea873c	Sheep It Up (World) (Catskull) (Aftermarket) (Unl).gb
-6d22cab0cbb831bc64abf4f5bad464ff	Sheep it Up (World) (Digital) (Aftermarket) (Unl).gb
+6d22cab0cbb831bc64abf4f5bad464ff	Sheep It Up (World) (Digital) (Aftermarket) (Unl).gb
 29f552a74f9bb3120d109882f82307bf	Sheep It Up (World) (Yastuna) (Aftermarket) (Unl).gb
 6ceb30c99e4642b62533f6f9101d59e5	Shikinjou (Japan).gb
 254554a4412d0fba81c2ece8e094d30f	Shin Keiba Kizoku Pocket Jockey (Japan) (SGB Enhanced).gb
@@ -1818,6 +1817,9 @@ f8d92a05c7be07964824830e9ce3ff30	Skate or Die - Tour de Thrash (USA).gb
 836c4e027f8a2bfc593ce3032cbb40d9	Sloth Story (World) (Aftermarket) (Unl).gb
 1eba3db17024be2bc5a51d627bcc6bff	Slurpee Cycle (World) (Aftermarket) (Unl).gb
 46b6ae39b3140f81d66be8338a8bcea3	Small Soldiers (USA, Europe) (SGB Enhanced).gb
+376c0f79da62cc677817fe119c3db2c4	Small Town Emo (World) (2023-02-02) (Aftermarket) (Unl).gb
+62151973748a8a10aea1fee442c6e78b	Small Town Emo (World) (2023-04-07) (Aftermarket) (Unl).gb
+02320810f82f2c35a9b51b219879ad66	Small Town Emo (World) (v0.02c) (Demo) (Aftermarket) (Unl).gb
 31adc9a8f9f1619e736bfc533e4ed2dd	SmartCom (Europe) (Unl).gb
 32b497a8d8d21b82aa9c71ed07231b34	Smickeonn - The Game (World) (Aftermarket) (Unl).gb
 31424c11298bc10d4976e201ba504c9e	Smickeonn 2 - The Game (World) (Aftermarket) (Unl).gb
