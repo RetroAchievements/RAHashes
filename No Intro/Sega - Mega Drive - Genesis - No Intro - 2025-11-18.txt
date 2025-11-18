@@ -44,6 +44,8 @@ a78306246323693a58a3e1cff11ea1cd	240p Test Suite (World) (v1.23) (Emu) (Program)
 2badda59c966318b87aa2c942cf0fed2	240p Test Suite (World) (v1.23) (Program) (Aftermarket) (Unl).md
 e31d3bb3fbfd88e1c34544a5ddcbb544	240p Test Suite (World) (v1.30) (Emu) (Program) (Aftermarket) (Unl).md
 f6309d2a1092e0aed9e47c3ec0e96579	240p Test Suite (World) (v1.30) (Program) (Aftermarket) (Unl).md
+74748286803ef6a7f0319ae68bfc43dd	3 Block Match (World) (Aftermarket) (Unl).md
+43e25078940fa33ae3d4d2f7196d208b	3 Block Match (World) (v1.1) (Aftermarket) (Unl).md
 df666774c0b73e112739b68c8841658b	3 Ninjas Kick Back (USA).md
 a3ef680d74cb1a030f5c44930a052168	30 Years of Nintendon't (World) (Aftermarket) (Unl).md
 8eff2078a60dcb22f45ef7fd8dabfd88	30 Years of Nintendon't (World) (Digital) (Aftermarket) (Unl).md
@@ -158,6 +160,7 @@ b63052973d5d550087d6b36ce8487fb1	Alien Storm (World).md
 fdb4c5c3d6f4a6615c153a373d98304e	Altered Beast (Japan, USA) (En) (Sega 3D Classics).md
 2ed5293e46abe1e74edeb96da0e7a618	Altered Beast (USA, Europe) (Rev 2).md
 e6758f18f3b51325b8b341e47ee96496	Altered Beast (USA, Europe) (Sega 3D Classics).md
+1c6ea6a1f36cba7dcdb5e0f04ebd0c36	Altered Beast II - The Seven Depths of Hell (World) (Proto) (Aftermarket) (Unl).md
 41cc6e0bc68664c61cf343c3df61843c	AlterEgo - Dreamwalker (World) (Evercade) (Aftermarket) (Unl).md
 30c01f5a82b51fd7e23315dd070d5818	AlterEgo - Remastered (World) (Aftermarket) (Unl).md
 8603fdc3636eed216760d7a68b3f4a02	American Gladiators (USA).md
@@ -207,6 +210,7 @@ a53f365fb6997a537dff807344995c51	Art Alive (World).md
 e81c004b80d1b39690ecf301dc24e0dc	Art of Fighting (Europe).md
 4b7751c9fc162a1822e94e08b88c378e	Art of Fighting (USA) (Beta) (1994-07-11).md
 3b878b854302596cb197602878d0cf07	Art of Fighting (USA).md
+b753c4218b33e5bb33d96ea88fe9d50d	Aruiwa Korega Risouno Seikatsu (World) (Ja) (Aftermarket) (Unl).md
 6b6ec1d156f5b8aa7a605c81efad0188	Asa Delta (Brazil) (Mega Drive 4).md
 5aeecfa1bd53e485c9e2ae0b0a595a41	ASAP PLZ (World) (Aftermarket) (Unl).md
 94159ef883024d3e67db8b15b824bf72	Astebros (World) (Demo) (Aftermarket) (Unl).md
@@ -237,6 +241,7 @@ e193a0c2afc80e1c51c3fb4f410fe48f	ATP Tour Championship Tennis (USA) (Beta) (1994
 723db55d679ef169b8210764a5f76c4d	ATP Tour Championship Tennis (USA).md
 4e99bb4bdcb8e5d35acef4d4e4a0e8bb	Attack of the PETSCII Robots (World) (Aftermarket) (Unl).md
 80df06b3f176838afb63fe770c002ae1	Attack of the PETSCII Robots (World) (v1.2) (Demo) (Aftermarket) (Unl).md
+46124868e11f95f2d7a122a46341cc82	Aureole - Wings of Hope (Europe) (Promo) (Aftermarket) (Unl).md
 d7cb5b40e1b9b083c2506db9e4671764	Australian Rugby League (Europe) (Beta).md
 29d948108a1c768c20af6796ab9ffc47	Australian Rugby League (Europe).md
 f852011351da9bb6aa31e82e7b4d74c9	Automata (World) (Proto) (Aftermarket) (Unl).md
@@ -499,6 +504,7 @@ d6f1bdb9ca9a4137bcdb31611fb35bee	Castlevania - The New Generation (Europe) (Mega
 b6d9ada0cc8699328d548cb6e142cb4c	Cave Story - Doukutsu Monogatari (World) (De) (0.8.1) (2023-10-19) (Proto) (Aftermarket) (Unl).md
 26f3123a578db62cd63f5c413bfc28b9	Cave Story - Doukutsu Monogatari (World) (De) (v0.7.0) (Aftermarket) (Unl).md
 62842f75b088c628d6cfbb8f595473c9	Cave Story - Doukutsu Monogatari (World) (De) (v0.8.0) (Aftermarket) (Unl).md
+3f31056ab59ee94a7b1cae4119bedcd5	Cave Story - Doukutsu Monogatari (World) (De) (v0.8.8) (Aftermarket) (Unl).md
 fe6bb1bc837abce6659291adba69e7a8	Cave Story - Doukutsu Monogatari (World) (En) (0.8.1) (2023-10-19) (Proto) (Aftermarket) (Unl).md
 a1b082003612cd61962f649f55c875fe	Cave Story - Doukutsu Monogatari (World) (En) (v0.2.0) (Alpha) (Aftermarket) (Unl).md
 ff3bd02cda2662495b76b795df7da546	Cave Story - Doukutsu Monogatari (World) (En) (v0.2.1) (Aftermarket) (Unl).md
@@ -519,25 +525,34 @@ b5c0862dfdb923dfdb5e4789c76f531a	Cave Story - Doukutsu Monogatari (World) (En) (
 fc055ce3668bb670ed01651eb62c5bca	Cave Story - Doukutsu Monogatari (World) (En) (v0.6.0) (Aftermarket) (Unl).md
 65a6fbe178dc11e90f0cd53fee20f012	Cave Story - Doukutsu Monogatari (World) (En) (v0.7.0) (Aftermarket) (Unl).md
 68c2928a0ced9e7d37b48d5890fd9f47	Cave Story - Doukutsu Monogatari (World) (En) (v0.8.0) (Aftermarket) (Unl).md
+faa631933f2c130a1231e9d0eba127a7	Cave Story - Doukutsu Monogatari (World) (En) (v0.8.8) (Aftermarket) (Unl).md
 e651cc45a9f63403f97121d63b7709aa	Cave Story - Doukutsu Monogatari (World) (Es) (0.8.1) (2023-10-19) (Proto) (Aftermarket) (Unl).md
 b7da049a18deea4caf76511f267f510d	Cave Story - Doukutsu Monogatari (World) (Es) (v0.7.0) (Aftermarket) (Unl).md
 03556cd16939c91e32ccb3d7efe26261	Cave Story - Doukutsu Monogatari (World) (Es) (v0.8.0) (Aftermarket) (Unl).md
+331849f186cbbb9cfea69979d2a04796	Cave Story - Doukutsu Monogatari (World) (Es) (v0.8.8) (Aftermarket) (Unl).md
 daf561a184873e78dc40c974b568ccee	Cave Story - Doukutsu Monogatari (World) (Fi) (0.8.1) (2023-10-19) (Proto) (Aftermarket) (Unl).md
+5494a34c96014d87893d262b6f4c05fb	Cave Story - Doukutsu Monogatari (World) (Fi) (v0.8.8) (Aftermarket) (Unl).md
 3510c1a85d6018f565d142c83b8807e6	Cave Story - Doukutsu Monogatari (World) (Fr) (0.8.1) (2023-10-19) (Proto) (Aftermarket) (Unl).md
 8b28872fb6c54ffae6e1f9db2f05ef33	Cave Story - Doukutsu Monogatari (World) (Fr) (v0.7.0) (Aftermarket) (Unl).md
 e685a94b94124daf56c1797c70c402b0	Cave Story - Doukutsu Monogatari (World) (Fr) (v0.8.0) (Aftermarket) (Unl).md
+31570f9e043078fd4ab5d0cd3ed5c733	Cave Story - Doukutsu Monogatari (World) (Fr) (v0.8.8) (Aftermarket) (Unl).md
 02f36ba6e3aecf82c39ae4f4cadd74fe	Cave Story - Doukutsu Monogatari (World) (It) (0.8.1) (2023-10-19) (Proto) (Aftermarket) (Unl).md
 9bae2bffcc24733a3f5c68caff5bfd07	Cave Story - Doukutsu Monogatari (World) (It) (v0.7.0) (Aftermarket) (Unl).md
 bc07dd032b2de672168840b51a773cd6	Cave Story - Doukutsu Monogatari (World) (It) (v0.8.0) (Aftermarket) (Unl).md
+1bcd60c674471dbf2f46898bd89a9af4	Cave Story - Doukutsu Monogatari (World) (It) (v0.8.8) (Aftermarket) (Unl).md
 aef8dceb341b26710b9b2055a7d88df0	Cave Story - Doukutsu Monogatari (World) (Ko) (0.8.1) (2023-10-19) (Proto) (Aftermarket) (Unl).md
 7a42361dc22449ac0a04cabf21ad7204	Cave Story - Doukutsu Monogatari (World) (Ko) (v0.8.0) (Aftermarket) (Unl).md
+29571b0d6edaad3219492ae059260368	Cave Story - Doukutsu Monogatari (World) (Ko) (v0.8.8) (Aftermarket) (Unl).md
 51f90d9a19057c2ea50cd4dfc5b188aa	Cave Story - Doukutsu Monogatari (World) (Pt-BR) (0.8.1) (2023-10-19) (Proto) (Aftermarket) (Unl).md
 67ddc44a90afbaf5477f4e128a3f6c8b	Cave Story - Doukutsu Monogatari (World) (Pt-BR) (v0.7.0) (Aftermarket) (Unl).md
 0a72db6e65fcf00f6df0c47a93323dd3	Cave Story - Doukutsu Monogatari (World) (Pt-BR) (v0.8.0) (Aftermarket) (Unl).md
+1eaa9cf941019bd8b08e2ae1784ec09d	Cave Story - Doukutsu Monogatari (World) (Pt-BR) (v0.8.8) (Aftermarket) (Unl).md
 e56fb0a782fc0b4a3d452baae59ab438	Cave Story - Doukutsu Monogatari (World) (Pt-PT) (0.8.1) (2023-10-19) (Proto) (Aftermarket) (Unl).md
 09cfcee45ba83f08eb9ca00e4277faa7	Cave Story - Doukutsu Monogatari (World) (Pt-PT) (v0.7.0) (Aftermarket) (Unl).md
 9581e43d16c422f8ef51e0d05dc97285	Cave Story - Doukutsu Monogatari (World) (Pt-PT) (v0.8.0) (Aftermarket) (Unl).md
+7a662efbca748e2e1851df6fd4db3fa0	Cave Story - Doukutsu Monogatari (World) (Pt-PT) (v0.8.8) (Aftermarket) (Unl).md
 803c8b7421ccc5d14ce0808f833df9c6	Cave Story - Doukutsu Monogatari (World) (Ru) (0.8.1) (2023-10-19) (Proto) (Aftermarket) (Unl).md
+a9b5f215ce0d83832d9e815ac680ce43	Cave Story - Doukutsu Monogatari (World) (Ru) (v0.8.8) (Aftermarket) (Unl).md
 95ab5c2e4fdafe0e0c2bc0260edab095	Cave Story - Doukutsu Monogatari (World) (SNAPSHOT-2016-06-23) (Aftermarket) (Unl).md
 d54c5b680222e29a9a950ae3ad62e04b	Cave Story - Doukutsu Monogatari (World) (SNAPSHOT-2016-06-30) (Aftermarket) (Unl).md
 b3d29d6e8885d513d67ac71494ba7313	Cave Story - Doukutsu Monogatari (World) (SNAPSHOT-2016-07-02) (Aftermarket) (Unl).md
@@ -546,6 +561,7 @@ de2bc8dd6e3ad48aa6ae8d9e489f1786	Cave Story - Doukutsu Monogatari (World) (SNAPS
 629dc481531075585fd4c6a16c7aa4f9	Cave Story - Doukutsu Monogatari (World) (SNAPSHOT-2016-07-26) (Aftermarket) (Unl).md
 6775a5a28593d811245f363171129b03	Cave Story - Doukutsu Monogatari (World) (Zh) (0.8.1) (2023-10-19) (Proto) (Aftermarket) (Unl).md
 0150fee357e628ffed3033dd6be7c814	Cave Story - Doukutsu Monogatari (World) (Zh) (v0.8.0) (Aftermarket) (Unl).md
+a290c0d25b29da5bb7d4020786c8fd43	Cave Story - Doukutsu Monogatari (World) (Zh) (v0.8.8) (Aftermarket) (Unl).md
 558a34d41b278717b1214c56a99dccd4	Centurion - Defender of Rome (USA, Europe) (Sega Channel).md
 5a8ef8e6f3dbd98e88daf8f63a935928	Centurion - Defender of Rome (USA, Europe).md
 872395592368d210ae55c7fd5d7077f7	Chakan (USA, Europe) (1992-10-06) (Sega Channel).md
@@ -630,6 +646,8 @@ eeccdf938647966faf96e9fc827ba1b6	College Football's National Championship (USA) 
 76aab0e8bc8e670a347676aaf0a0aea3	College Football's National Championship (USA).md
 d608a160eda8597113b3cdf92941a048	College Football's National Championship II (USA).md
 5481f0cbab22ca071dad31dd3ca4f884	College Slam (USA).md
+eaf414f238a14411b3fcc83e57759495	Coloco DX (World) (Aftermarket) (Unl).md
+0381ed9b9f5d67433b03fdf374458916	Color Jumper (World) (v1.1) (Aftermarket) (Unl).md
 2ac307fcd67ab5fc1cbd29bb245196a3	Columns (Japan) (En).md
 94b2079afe2a55e20135618bc5a947a9	Columns (USA, Europe) (1990-06-21) (Sega Channel).md
 b92d1477992ca143e02bf90ab2e2a118	Columns (USA, Europe).md
@@ -739,6 +757,7 @@ f1df255c4eb3f492a0bd2829ec8652ae	Da Hanghai Shidai (Taiwan) (Pirate).md
 03fb1547fbfe25af302bfb3e322402be	Da Hanghai Shidai II (Taiwan) (Traditional) (Pirate).md
 c0f6a98bb593df365a9862cf0a72ac92	Da Zhanlue - Shandian Qixi (China) (Pirate).md
 d2c013ff76bf6672e54d0a726a82541e	Daana (Korea).md
+edfc9e42c1b1d9b4ad45ff0a9b3eba3b	Daemon Claw - Origins of Nnar (World) (Aftermarket) (Unl).md
 46c556b4f5eafc2c880fda891820b44b	Daffy Duck in Hollywood (Europe) (Beta) (1994-08-xx).md
 ad08cffbc0c443086dff8ab4414f18c3	Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It).md
 5bbc7ead9d9923296645e4695a7ff88a	Dahna - Megami Tanjou (China) (Ja) (Pirate).md
@@ -754,6 +773,7 @@ eb22d1e66e67507a959648bcd27a6611	Darius - Extra Version (Japan) (En) (Columbus C
 4ab80160ba6811a48e0482c402941062	Darius II (Japan).md
 41857d72e4ff8a685ff3a50a5d06f2a5	Darius II (World) (Ja) (Darius Cozmic Collection).md
 56965eb7dde9bc22d16ffa72331c0e09	Dark Castle (USA, Europe).md
+4529776e3a18044de357a43e2b7ddd6c	Dark Empires (USA) (Proto).md
 6a55a0b19d04f3935785774482765dd1	Darkwing Duck (Russia) (Aftermarket) (Unl).md
 30b8d95e8d11baa846b97442d3f755dd	Darwin 4081 (Japan, Korea) (En) (Beta) (1990-02-21).md
 70b6289a3857f411361ef8cfd4bba4bf	Darwin 4081 (Japan, Korea) (En).md
@@ -866,6 +886,7 @@ f8e870b82457981b9a659792717be43f	Donald in Maui Mallard (Brazil) (En).md
 989ae9c548dbf6ce7243fc27619b67cb	Donald in Maui Mallard (Europe) (Rev A).md
 9795fbc1c4fc645e8d0a90aa29d56d54	Dongfang Sheng Zhong Yi - Trouble Lotus (World) (Proto) (Aftermarket) (Unl).md
 9565c34a058fb301a4691174d2151858	Dongguri Techi Jakjeon (Korea).md
+da4a09de1062b829cbd8f08436719520	DOOM Sixternal (World) (Aftermarket) (Unl).md
 5641bc53143ece5de5d9dbd4e2083dc7	Doom Troopers (USA).md
 c78423b48acc46f4cb927665cd9f36c6	Doraemon - Yume Dorobou to 7 Nin no Gozans (Japan).md
 e6c440e0fae35112e0060d0bb4ec2359	Doroppu (World) (Demo) (Aftermarket) (Unl).md
@@ -884,6 +905,7 @@ caf3e08c8a87964d4d8421c155ee194b	Double Symbol (World) (v1.34) (Digital) (Afterm
 452446837f833bb2916b932b9dad32cc	Doukutsu Monogatari (World) (Ja) (0.8.1) (2023-10-19) (Proto) (Aftermarket) (Unl).md
 63f9d8800d837f7b4f34a7030a3f5f1d	Doukutsu Monogatari (World) (Ja) (v0.7.0) (Aftermarket) (Unl).md
 5740688f1e2b5a6592db7e30c522c9d0	Doukutsu Monogatari (World) (Ja) (v0.8.0) (Aftermarket) (Unl).md
+6de485ae841f3c68b880a5157dc2867d	Doukutsu Monogatari (World) (Ja) (v0.8.8) (Aftermarket) (Unl).md
 c60f121b792f22e6e670be1e2dce8948	Downforce - Red Hot Princess Carnage (World) (v0.1) (Proto) (bitbitJAM 2016) (Aftermarket) (Unl).md
 900edd585f9716cd2f8000791dc2b096	Dr. Robotnik's Mean Bean Machine (Europe).md
 5b6e55ccc0daabf1c2a8cead5d6cdacf	Dr. Robotnik's Mean Bean Machine (USA) (Beta 1).md
@@ -903,6 +925,7 @@ ae9347eeea41c1a02565a187a4bf28f7	Dragon Ball Z - Buyuu Retsuden (Japan).md
 ba91bc7a28e50fdd14f3c3fb87cdc4b5	Dragon's Revenge (Japan) (En).md
 f2b7d96aae4b5fdc6a1eac5a045e66c4	Dragon's Revenge (USA, Europe).md
 af092db5ba7221fc207865448ada05b4	Dream Team USA (Japan).md
+36cd5c0c26becb6f062160c5cae6ccc1	Driftin Rage (World) (Proto) (Aftermarket) (Unl).md
 dcac347ef1aee75f1cdfe4438bffe13e	Drunk as I Like (World) (Beta) (Aftermarket) (Unl).md
 8e6ba6e840df09c2be6a2fd821b48b40	Drunk as I Like (World) (GitHub) (Aftermarket) (Unl).md
 0e0c31d19894bcdcd5992ee0b9c7e62e	Drunk as I Like (World) (Itch.io) (Aftermarket) (Unl).md
@@ -937,6 +960,15 @@ be8b51f8186f9d73f7d3971dd26417ee	DynoBlaze (USA) (Proto) (1994-05-24).md
 88e130fe3401078d64feb4199be44656	Earnest Evans (USA) (Beta).md
 6a2d2ac410a424fcb66a72ec0dff9484	Earnest Evans (USA).md
 48aa49720a75068b6e2a1b0f2c6e73b2	Earth Defense (USA, Taiwan) (En) (Unl).md
+3049adbdcd6dcd3259b3298d3589bd39	Earthion (World) (En) (Aftermarket) (Unl).md
+516d0290aa649709d807a2878111ed71	Earthion (World) (En) (v2.0.1) (Aftermarket) (Unl).md
+ab9b221ccdf59044706b7efd4ca220d7	Earthion (World) (En) (v3.3.0) (Aftermarket) (Unl).md
+9174ecd5ed983c4b99d46ed8851d69af	Earthion (World) (Ja) (Aftermarket) (Unl).md
+84b62272ff201834028fa29c31ed7bee	Earthion (World) (Ja) (v2.0.1) (Aftermarket) (Unl).md
+d049572bb66fcb2b2b362f96ff6e2fd7	Earthion (World) (Ja) (v3.3.0) (Aftermarket) (Unl).md
+b8266989962cf9b06215756ef40b1d8b	Earthion (World) (Pt) (Aftermarket) (Unl).md
+5a8cb7f0e38b3e3ac7bbd895eb9c5f0c	Earthion (World) (Pt) (v2.0.1) (Aftermarket) (Unl).md
+b77039426e67cb93f6e47916a8aa507c	Earthion (World) (Pt) (v3.3.0) (Aftermarket) (Unl).md
 680dbd3a82b9636e35023a8220370d31	Earthworm Jim (Europe).md
 500f7177235fd8bdc075f3bc07f7c716	Earthworm Jim (USA) (Beta) (1994-07-28).md
 074dcf012f3fd11a4c7e624474944d81	Earthworm Jim (USA).md
@@ -1095,6 +1127,10 @@ f2c1ca2b1ab0febcf6d244785d477a50	Final Blow (Japan) (En).md
 7669347a405ad643accb74168351f96b	Final Fight MD (World) (Demo) (2024-01-20) (Aftermarket) (Unl).md
 796094a50f1a1c8a87dc2a5f8efafac0	Final Fight MD (World) (Demo) (2024-06-25) (Aftermarket) (Unl).md
 538794c0f2da597add794247d750cc2a	Final Fight MD (World) (Demo) (2024-12-08) (Aftermarket) (Unl).md
+d6fe834d89243a0b2d369bc07ad5879c	Final Fight MD (World) (v0.87b) (Proto) (Aftermarket) (Unl).md
+cb538f414c0db31c8a45a1785da372e7	Final Fight MD (World) (v0.88b) (Proto) (Aftermarket) (Unl).md
+e5e566155239fdafdf1c0a6329595b7a	Final Fight MD (World) (v0.89b) (Proto) (Aftermarket) (Unl).md
+a14016f2d2e65db1fcf80e7d018e006c	Final Fight MD (World) (v0.8b) (Proto) (Aftermarket) (Unl).md
 0cbb16c044d7c8e7366d954b5e844d1a	Final Zone (Japan, USA) (En).md
 06b8026be1bc96a390e7d9f87619a26f	Final Zone (World) (Evercade).md
 93bf1aeebf5ab3c1a6ff204208d4518b	Fire Mustang (Japan).md
@@ -1195,6 +1231,7 @@ b80608ca18c5f52c7a82eaf606f4f479	Gen Poker (World) (Aftermarket) (Unl).md
 9ff0afe64a5765a1e2bc1f40bcd2e554	General Chaos Daikonsen (Japan).md
 b79c407c21427f92f27c5fc43de33e8b	Generals of the Yang Family - Clan of Heroes (USA) (Piko Interactive) (Unl).md
 e91d85e82c9ab9770d86e00dbc78f7c5	Generations Lost (USA, Europe).md
+0cbe2062e75f13589935c77a4fe6d77e	Genesis Clicker (World) (Aftermarket) (Unl).md
 cf67700c0ef63427307634d2404901fc	Genghis Khan II - Clan of the Gray Wolf (USA).md
 2b7d4f3ce8ba5fd388120ba6f7fabdf8	Gensou Senki Kokou no Ryuu - Crying Dragon (Japan) (Proto).md
 3d4d833f4bddc33ef0483c8b9e9c1cc8	George Foreman's KO Boxing (Europe).md
@@ -1211,6 +1248,7 @@ f3041b5359d452ce2c5366a03b2d91c7	Global Gladiators (Europe).md
 d0135814192f3ad09daa8db8f816acf2	Gnome Runner (World) (Aftermarket) (Unl).md
 af66595ca042097f769a7d70b551ba78	Gnome Runner (World) (v1.0.1) (Aftermarket) (Unl).md
 a4d00b8119cf3a71634ac3396537814e	Go Net (Japan).md
+53341f054de9e591fece6525d50e0fe0	Go! Go! PogoGirl (World) (Aftermarket) (Unl).md
 2c43e9137e2ce1d3affa34e8078ef3ca	Goblin Coffee Break (World) (v1.0.0) (Aftermarket) (Unl).md
 3ad7793902afed138bdc7c9c001043cc	Goblin Coffee Break (World) (v1.0.1) (Aftermarket) (Unl).md
 b4b855462eba7076407a7fa6265b61e4	Gods (Europe).md
@@ -1232,6 +1270,7 @@ b27a54c8ac3671e72e853875ef6073eb	Golden Axe II (World) (Beta).md
 238e1b59a9140c359443fd52569a1c81	Golfanalia (World) (v1.0.1) (Aftermarket) (Unl).md
 aba5c685d6c98000525d7cf7cb29c201	Golfanalia (World) (v1.1.0) (Aftermarket) (Unl).md
 12cd43434e118bc67e3259337660819d	Golfanalia (World) (v1.1.1) (Aftermarket) (Unl).md
+dc1a649efd75061beb2719f60a154c1b	Golfanalia 2 (World) (v0.0.8) (Proto) (Aftermarket) (Unl).md
 426471b87024c7b1e688fa8474390624	Goofy's Hysterical History Tour (USA).md
 18ff626a183c188f789d71f17dd739d5	Gouketsuji Ichizoku (Japan).md
 76d4181f42a549c23ac854050d50c2cf	Granada (Japan, USA) (En) (Rev A) (Beta).md
@@ -1274,6 +1313,7 @@ bc578767a82f008cd2d3f4226a98ec32	Gunstar Heroes (Japan).md
 9a369cfc6355db48677771e345421e0e	Gunstar Heroes (USA).md
 fa0609181242f4b5fd59598273f138ec	Gynoug (Europe).md
 fa49fa5c1eec5bfae59fb87f310c0852	Gynoug (Japan) (En).md
+cca4ea372c354714d00ba7f2ef445488	Gynoug (World) (Ratalaika Games).md
 f6e7619f454c1e4c11c1d1c038b187d4	Haidi Liang Wanli (Lanbaoshi Zhi Mi) (China) (Pirate).md
 30435205a9d812f0604ca5a6ae32b245	Handy Harvy (World) (Aftermarket) (Unl).md
 dfadda094ecfc8afe54a3c133cd7f981	Handy Harvy (World) (Digital) (Aftermarket) (Unl).md
@@ -1489,6 +1529,9 @@ ea778ca85d7a5d0d1b69ae0c44c54204	Juusou Kihei Leynos (Japan).md
 29da0d26615fc89885ef201b03bf1355	Kawasaki Superbike Challenge (USA, Europe) (Beta).md
 159dd6bef1cf7df913fd4ac98138d9e7	Kawasaki Superbike Challenge (USA, Europe).md
 bb98f63238f108c1aedda815493c44c6	Kick Boxing, The (Japan, Korea) (En).md
+37c3fd701e8975f98ed357686f841aa7	Kick Off 3 - European Challenge (Europe) (Beta 1) (Menu) (Alt).md
+bc7c7cdbe01608feb4b1d7604fa57e17	Kick Off 3 - European Challenge (Europe) (Beta 1) (Menu).md
+fb1efbf75e3132bcb2db79c8ac56443f	Kick Off 3 - European Challenge (Europe) (Beta 1) (Players).md
 8c585ecdcc01ce1f3fb4b52949fedc2a	Kick Off 3 - European Challenge (Europe) (Beta).md
 640b900fc064c6962dc6160b8a033bf8	Kick Off 3 - European Challenge (Europe) (En,Fr,De,Es,It).md
 302f88a7c366a840422511c69037d36e	Kid Chameleon (USA, Europe) (Beta) (1991-12-19).md
@@ -1496,6 +1539,7 @@ bb98f63238f108c1aedda815493c44c6	Kick Boxing, The (Japan, Korea) (En).md
 d7a8204bc3dc06eccd238b4cbee9db81	Kid Chameleon (World) (Mega Drive PlayTV).md
 aa5d301d95d38b4845fc0a160fd43d29	Kidou Keisatsu Patlabor - 98-Shiki Kidou Seyo! (Japan).md
 c2aaf9fe67d8b70108b01af37e55b05a	Killing Game Show, The (Japan) (En).md
+2b1286e1af46ea8081ed3b4177bcdaa2	King & Balloon MD (World) (Aftermarket) (Unl).md
 ab286ef8012fe4a853b2d484589df96d	King of Fighters '99, The (Taiwan) (En) (Unl).md
 6c4c7d887420d8e6e2308be53aaf9596	King of Fighters 2000, The (Taiwan) (En) (Unl).md
 a085d367da06f05662ad7e76e63776f0	King of Fighters 98', The (Taiwan) (En) (Unl).md
@@ -1525,6 +1569,8 @@ c859d2f0e844ba3ece6c599af817d6a6	Kromasphere (World) (Digital) (Aftermarket) (Un
 1a42a8226c2581ec4948505c3eef9879	Kujaku Ou 2 - Geneijou (Japan).md
 bfafcbaef23411c386482b5372c62b25	Kung-Fu UFO (World) (Demo) (Aftermarket) (Unl).md
 9ec5fdb725a7ea19c2df76b02bb3662f	Kunio no Nekketsu - School Fighters (World) (v0.1) (Demo) (Aftermarket) (Unl).md
+3b78b9504d2d2f6022053614d8bc3d79	Kunio no Nekketsu - School Fighters (World) (v1.5) (Aftermarket) (Unl).md
+38934c6f601180b58eee19ea546d9495	Kunio no Nekketsu - School Fighters (World) (v1.6) (Aftermarket) (Unl).md
 cad9348d3269a9518a1bc7d66d95133d	Kunio no Nekketsu School Fighters (World) (Ja) (v0.5) (Proto) (Aftermarket) (Unl).md
 225bd87db2600496720424fe73908099	Kuuga - Operation Code 'Vapor Trail' (Japan).md
 7d6722c4813f4a8481346a6aa1472b6a	Kyuukai Douchuuki (Japan) (Rev 1) (Beta) (Sega Channel).md
@@ -1753,6 +1799,7 @@ bab07c5cee7e2e2c31ea0ffd9263a1d2	Mega Marble World 2 (World) (En,Fr,De,Es,It,Pt,
 97ca43bc149f69a655009223217a122b	Mega Mindtris (World) (Aftermarket) (Unl).md
 db1a25ccfb444a126d804438f86ff764	Mega Mindtris (World) (v1.2) (Aftermarket) (Unl).md
 170b24f2fdb1f3dcb59c4197afeff7dd	Mega Net (Brazil) (Program).md
+00bffc9737abefb08127e7e33fadfc6a	Mega Platform Countdown (World) (Aftermarket) (Unl).md
 bbba2ca19d645b4dcdb014c1c3a671cf	Mega Q-bert (World) (Demo) (Aftermarket) (Unl).md
 50a8a3e41b42df0a42d9eb6e471dfd03	Mega Q-bert (World) (v1.2) (NTSC) (Aftermarket) (Unl).md
 0448b7e21e83d2e11023e6f00c54ee00	Mega Q-bert (World) (v1.2) (PAL) (Aftermarket) (Unl).md
@@ -1857,6 +1904,7 @@ cdcfb24231942f535a18d2097ab5b68e	Mighty Morphin Power Rangers (USA).md
 e4696cf8c27514b62c88609d0d9c6e6a	Mikeyeldey - The Album (World) (Aftermarket) (Unl).md
 2de0763d2487e0d839171c0ce895e3c1	mikeyeldey95 (World) (Aftermarket) (Unl).md
 75d911e5dc04c429c2f6d64332021b2b	Minato no Traysia (Japan).md
+0bac8ad64bf2c246d2ca4ce563c7a16c	Miner Mole (World) (Proto) (Aftermarket) (Unl).md
 7d311d661fb95099347f678a81c3bb2c	Miniplanets (World) (Demo) (Aftermarket) (Unl).md
 3ec9c76756fd0cd2cde792ce5ae33afd	Miniplanets (World) (v1.2) (Aftermarket) (Unl).md
 b9d6441165975395b689925ae95ec044	Miniplanets (World) (v1.3) (Aftermarket) (Unl).md
@@ -1882,6 +1930,7 @@ c7ed32a66bbc2ed2d0ab2da690b178f2	Mortal Kombat 3 (USA) (Beta).md
 4cca5c00ad312409791123258967d216	Mortal Kombat 3 (USA).md
 c8e887ca9cdde7bde85f324f66d34b2d	Mortal Kombat II (World).md
 3e2fa47697b22ef5c175eb94ea9581b6	Mosaico (Brazil) (Super Mega Drive 3).md
+64369764a94af8945ceac3a5669e8df2	Mountain Sports (USA) (Auto Demo) (1993-05-12).md
 a43ef53f2131cd88e7620cdbf724ef84	Mr. Nutz - Hoppin' Mad (Europe) (Proto).md
 00ee0a02b8794b32584ea1aabadd4580	Mr. Nutz (Europe).md
 954b46a84346a2e900213ce714748119	MREGA (World) (Demo) (Aftermarket) (Unl).md
@@ -2039,6 +2088,8 @@ de95e934446f5617e09a95fc758afa50	Nigel Mansell's World Championship Racing (Euro
 6e325bc3fe03b2bbcd39e667cf0b567a	Nightmare Circus (Brazil) (En) (Beta 2).md
 697fe71f7c6601b80ff486297124d301	Nightmare Circus (Brazil) (En).md
 d0230ad175b4bc9b66842e4309b6b88b	Nightmare Fuel (World) (v0.0.5) (Demo) (Aftermarket) (Unl).md
+021fffd88fe6904c68d98fb12feab794	NightVein (World) (v1.0.3) (Demo) (Aftermarket) (Unl).md
+aecb1886ae6b517b7a22944f3e0acc33	NightVein (World) (v1.0.6) (Demo) (Aftermarket) (Unl).md
 6e983590637a029647c2ac643badbc47	Nikkan Sports Pro Yakyuu VAN (Japan).md
 cf1e43413cea0a0dbedaa814a4afe1ec	Ninja Burai Densetsu (Japan) (Beta) (1991-05-28).md
 d1263fb5efd1af669a0df2a45689c3f5	Ninja Burai Densetsu (Japan).md
@@ -2078,6 +2129,8 @@ d81b29eb89231a06ce4254fac2be9a6b	Ooze, The (USA) (Beta) (1995-06-26).md
 6deb6d694df9c41f9c3cb3ed54949186	Ooze, The (USA) (Beta) (1995-06-29) (Alt).md
 5dc9a102d8ba0ae12f0cae3373760e61	Ooze, The (USA) (Beta) (1995-06-29).md
 347c270e2a50ca62777dae5a01aa693e	Operation Europe - Path to Victory 1939-45 (USA).md
+03532aab4728ffe8a9fcce60c9c87b74	Or Maybe This Is the Perfect Life (World) (Aftermarket) (Unl).md
+e1095218d5b392439a61289b145c63aa	Or Maybe This Is the Perfect Life (World) (Demo) (Aftermarket) (Unl).md
 12ed5a11d8125754fd5b05b1a17dea14	Ordinary Gerbil (World) (Aftermarket) (Unl).md
 b415c3b6feeed744be6508ba4f62890f	Osomatsu-kun Hachamecha Gekijou (Japan).md
 92c37e268b00bc8b3c5f5c7630c72874	Ottifants, The (Europe) (De) (Beta).md
@@ -2107,6 +2160,7 @@ e38e9e8b3086fad6987917df075cf999	Outworld 2375 A.D. (USA) (HeartBeat Catalyst).m
 779ff67b53f0cb5d517b937cb7dab805	Overdrive 2 (World) (Revision 2017) (Aftermarket) (Unl).md
 da0c9622e14da9c9aa9a45a99fc9e791	Ozaki Naomichi no Super Masters (Japan).md
 141493cbe281d42298c8668b9e80f200	P-47 II MD (Japan) (En).md
+8538243d591452261bf419581dd89ce5	P-47 II MD (USA, Europe) (Aftermarket) (Unl).md
 885b907e33244c9b7c72f00e47291812	P.T.O. - Pacific Theater of Operations (USA).md
 c3e152bcacad48d4cae994f27639a8a8	Pac-Attack (USA).md
 62441a345b1abe7501d2141efa291c8c	Pac-Man (World) (Aftermarket) (Unl).md
@@ -2392,6 +2446,7 @@ c1db0e198557ecab3ed80e0f8775c50e	Revenge of Shinobi, The (USA, Europe) (Rev A) (
 b7eeed1bd8420ce1d895b2ca46a0643a	Revenge of Shinobi, The (USA, Europe).md
 093990d7bbbe87770be6dbf0b569b8e1	Revenge of Shinobi, The (World) (Rev B) (Virtual Console).md
 ffc3b73dfe6f1f1817bbd5981a457385	Revolution X (USA, Europe).md
+c2684b5423225b8dab9abc7cb3acf050	RGB Pals (World) (Aftermarket) (Unl).md
 0b047df3f5cb4d3019314cef7e0ba64a	Richard Scarry's Busytown (USA) (Beta) (1994-07-21).md
 3fbb6f366e3a1c092d8e9c9d27ed940b	Richard Scarry's Busytown (USA) (Beta) (1994-08-09).md
 392624b3b117207706a522954ae98440	Richard Scarry's Busytown (USA) (Beta) (1994-08-15).md
@@ -2403,6 +2458,8 @@ ce511a6745fea78c2a26050d65c9bd57	Richard Scarry's Busytown (USA) (Sega Channel).
 06ddc929a7bf834c40344ac83a4acc97	Richard Scarry's Busytown (USA).md
 43bad22212aa9177f8aa0e1666530a5c	Rick Dangerous (World) (Aftermarket) (Unl).md
 511d9c63ddfe13695c82647798df2078	Rick Dangerous 2 (World) (v1.1) (Aftermarket) (Unl).md
+87ab0e4341de22303d9efe0f4b8892c3	Rick Dangerous DX (World) (v1.2) (Aftermarket) (Unl).md
+a2e75a89f5ac614ade6af24f9a7b4c97	Rick Dangerous DX (World) (v1.3) (Aftermarket) (Unl).md
 96ea10d75382eecd6eb8a10be86fd7ea	Riddle Wired (Japan) (Sega Game Toshokan).md
 0c85af11b5dab5b8f92c9c3c2aa49d0d	Right 2 Repair (World) (Aftermarket) (Unl).md
 1d2d0f27e877e6bdae5de5554188b094	Right 2 Repair (World) (Global Game Jam 2020) (Aftermarket) (Unl).md
@@ -2527,8 +2584,10 @@ fcb2705a0d98e06b3aa46b72484ced43	seaQuest DSV (USA).md
 868fbbdf89a54cfe47fa38f11b204e3b	Seasaw Space Security Squad (World) (v1.0.0) (Aftermarket) (Unl).md
 af8da4ec2d883de1a882da90f5bd0e9b	Seasaw Space Security Squad (World) (v1.5.1) (Aftermarket) (Unl).md
 68d23066483ce926b6159dc96ad1fede	Seasaw Space Security Squad (World) (v1.6.0) (Aftermarket) (Unl).md
+445d84abaa25e6d00c47ac50a786cc11	Seasaw Space Security Squad (World) (v1.6.1) (Aftermarket) (Unl).md
 333f15e8bc4ecacf168b399a988fe1e7	Second Samurai (Europe).md
 2ea988757c849eb4a875d3a01c75367a	Second Samurai (World) (QUByte Classics).md
+eb00dfa258779b57ea56cf2287f68fa3	Secret of the Four Winds, The (World) (En,Ja,Es) (Aftermarket) (Unl).md
 0a55d286efb9b26037ec451792a2de7c	Secret of the Four Winds, The (World) (En,Ja,Es) (Demo 1) (Aftermarket) (Unl).md
 de651357121e9bcb1b2a37694acfe375	Secret of the Four Winds, The (World) (En,Ja,Es) (Demo 2) (Aftermarket) (Unl).md
 03aeaa6b20e527969732cd73418be351	Secret of the Four Winds, The (World) (En,Ja,Es) (Demo 3) (Aftermarket) (Unl).md
@@ -2881,6 +2940,7 @@ adb802ff17d95919ed89111a1ec44be5	Striker (Europe) (En,Fr,De,Es,It).md
 70a1ab4156874bab69573b05b914dbff	Sub-Terrania (USA) (Beta 2) (1993-10-xx).md
 35aca51fa35e9a6131a4891bed718a8d	Sub-Terrania (USA) (Beta 3) (1993-10-xx).md
 d3bd3dc31b1903148c0ce92a98a6869a	Sub-Terrania (USA).md
+61306f84ca0582fbbe97ed15eba9abfa	Submarine Attack (World) (Aftermarket) (Unl).md
 f259fbea348abf01fdaa5b69dce7e72f	Submarine Canyon Bomber vs Marine Aliens (World) (Aftermarket) (Unl).md
 a5d0afff98b2a751b4578026206d3adf	Sudoku (World) (Aftermarket) (Unl).md
 656212894b7804f81e5f3cf0cd5f27b0	Sukiya (World) (Proto) (Aftermarket) (Unl).md
@@ -3008,7 +3068,6 @@ e4bb9810da1cf6469f79e8bd7e91ba7c	Tanks (Russia) (Aftermarket) (Unl).md
 3c8dbb2d8944524d4abd44c40365ec90	Tanks 2011 (Russia) (Aftermarket) (Unl).md
 3a6effb7eb7e17a84957b7c2ba6c61ca	Tanzer (World) (Aftermarket) (Unl).md
 5c5b6e0ece95f276c6d920e4ede899d2	Tanzer (World) (Demo) (Kickstarter) (Aftermarket) (Unl).md
-5c5b6e0ece95f276c6d920e4ede899d2	Tanzer (World) (Demo) (Kickstarter) (Aftermarket) (Unl).md
 efd6c6b4c14112d7ffb345381f5ad56c	Tanzer (World) (Demo) (Mega Cat Studios) (Aftermarket) (Unl).md
 be2526b6c4dd6d09b31305e69c884e57	Tanzer (World) (Digital) (Aftermarket) (Unl).md
 109cec8f208a5a99f09b3f878c5d735d	Target Earth (USA, Europe) (Switch Online).md
@@ -3099,6 +3158,7 @@ b3a6322647260b29dbd584bc528f05e5	Thunder Pro Wrestling Retsuden (Japan).md
 8bb1e6527f1fcbb8a77e2eba5fe67a42	Thundercats (World) (Aftermarket) (Unl).md
 9927d1daf990e0014846d63559642d82	Tick, The (USA).md
 556e6b48a698a7f3271285568b6125ba	Tiger Bureaucrat (World) (Aftermarket) (Unl).md
+20a13a02784824bd6a558a01c07922ee	Tiger Bureaucrat (World) (v1.0.1) (Aftermarket) (Unl).md
 5f43a98bcf064fd5789c188bba85b34f	Time Dominator 1st (Japan, Korea) (En).md
 62339a81ea163378d488c6c18d9d609f	Time Killers (Europe).md
 54c4482886c06d78c4a1356168d47c71	Time Killers (USA).md
@@ -3157,8 +3217,8 @@ c4d2c80b3f21748325470667c1caf574	Trampoline Terror! (USA).md
 ba86aa750145ca451ed34a8d5a0e284a	Traysia (USA) (Beta) (1992-01-22).md
 98d97dcf65dc2e9489539b9c74ac1af4	Traysia (USA).md
 9d833a16ffd5e27fa556f8fb271ddaee	Traysia (World) (Evercade).md
-66dbdc6c8d3a29d8d5a334efe052201d	Triple Play - Gold Edition (USA).md
 fb2f3c6fe0c3ba9fd55dc64e8cd8ec74	Triple Play - Gold Edition (USA).md
+66dbdc6c8d3a29d8d5a334efe052201d	Triple Play - Gold Edition (USA).md
 456d8962ce1caf0921f76c82d1778d7c	Triple Play 96 (USA).md
 02bc38b3dc1d26035f421660abbe9357	Triple Play 96 (USA).md
 2155bafa35961877ee45e456c14acb66	Tro-Now (World) (Aftermarket) (Unl).md
@@ -3193,6 +3253,7 @@ b71cee55b6d89de150cd6f934db14433	Twisted Flipper (USA, Europe) (Beta 2).md
 36f90726fa2158885d5265bb4b50c8ee	Two Crude Dudes (USA).md
 3f201d36a3620c38a8a440188dee837f	Two Crude Dudes (World) (Evercade).md
 cf47874330d47299fc8695476687fbbc	Two Cyclops (World) (En,Pt) (Aftermarket) (Unl).md
+01ace851853c3284ab9d5351a7e90ecf	Two Ships (World) (v1.0.1) (Aftermarket) (Unl).md
 a73f2484d4e91c81ca768379aac11168	Two Tribes - Populous II (Europe).md
 b090d74241cd56820b568c319799412b	Tyrants - Fight Through Time (USA).md
 2bd7578ddcbd3931e76f706cc0d72429	Uchuu Senkan Gomora (Japan) (En).md
@@ -3552,10 +3613,12 @@ de13c6ca3789b58f19df059f2d1a8425	Zombies Ate My Neighbors (USA).md
 2d28ddb5be02a3b3612ba73ca064edb5	Zool - Ninja of the 'Nth' Dimension (USA).md
 9fa39c1b8e6d86022d7e4c98ac0186f0	Zool (Europe) (Beta) [b].md
 7c17d3177053d278c8c1a61ba6d36c7b	Zool (World) (Evercade).md
+ac9214f953856bf95bd9b5617994f8a9	Zool Redimensioned (World) (Steam).md
 dcb24422572d9acf8dc158aa734ebb79	Zoom! (World).md
 1844f4eaace78ed4d653c199473a71fe	Zooming Secretary - Going Panic (World) (Aftermarket) (Unl).md
 ffee23596eed8b6a50138c6c63349ecc	Zoop (Europe).md
 756520442f022f3b6873ee8a4319c5ff	Zoop (USA) (Beta).md
 c4c9fe0959ee29953cf23c095981ca81	Zoop (USA).md
 685facf5f572d2113187ecc40b0341bf	Zou! Zou! Zou! Rescue Daisakusen (Japan) (En).md
+bc2a57156f4aa366fb7fbfb799852349	ZPF (World) (Aftermarket) (Unl).md
 bdd9a840ab4bdc94fe29267a793b63a6	ZPF (World) (Demo) (Aftermarket) (Unl).md

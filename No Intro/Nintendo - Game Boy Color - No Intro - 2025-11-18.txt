@@ -395,6 +395,8 @@ d6311339384cb70c35975c8d30a1cd98	Crazy Bikers (Europe).gbc
 67a4f5b76b83d37c888cb4de3293ca6d	Crazy Climber (USA) (Proto 2) (2000-11-21).gbc
 dba35ac5202ee0b8578a1a275ee13b93	Crazy Golf (World) (Aftermarket) (Unl).gbc
 742a8e082dcc1af83404a80d493b64c1	Crest RPG (World) (Demo) (GB Compatible) (Aftermarket) (Unl).gbc
+2de587b4e14baec8df62ea4c4f43cc46	Croc (USA, Europe) (Beta 1).gbc
+80dd8c9ce55ee28c0a3ef44ea317ea17	Croc (USA, Europe) (Beta 2).gbc
 0552078f981c2ef3977f2dfeee19510a	Croc (USA, Europe).gbc
 03a8bcab4b2975fa2d850d18c728ea9c	Croc 2 (USA, Europe).gbc
 b4da49116eaf8e63d5dd912bc8da33f4	Cross Country Racing (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible).gbc
@@ -747,6 +749,7 @@ ff4f3cb59e75c4172466540d88ff819f	G.B Corp. (World) (v2.0) (GB Compatible) (After
 f6e5ce8f0b2f886c6f26af215e2438cf	Gakkyuu Ou Yamazaki (Japan) (Possible Proto) (GB Compatible).gbc
 52a9d2992a270ee3184553caf4fdba2b	Gakkyuu Ou Yamazaki (Japan) (Rev 1) (GB Compatible).gbc
 17dae7ec46263600c54687d78b582e5e	Galaga - Destination Earth (USA).gbc
+8d3f71e4a46dc2563f06b50c0a8d3ec3	Gallery+ (World) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc
 c8402b8dbd686fb77fe9489e651cbd4d	Gambler Densetsu Tetsuya - Shinjuku Tenun Hen (Japan) (Rev 1).gbc
 3b9116dcb4a3b4cc943f75b8b7e88212	Gambler Densetsu Tetsuya - Shinjuku Tenun Hen (Japan).gbc
 cbf4a5b2ff566554b014118e3d0e3e9a	Game & Watch Gallery 2 (USA, Europe) (SGB Enhanced) (GB Compatible).gbc
@@ -826,6 +829,7 @@ ad380d123ed38ecc6a8068f61602daf7	Gods of the Universe (World) (Aftermarket) (Unl
 7bf3b13931f2a50ebe071a18ea14f28b	Gold and Glory - The Road to El Dorado (USA).gbc
 51f21f61592f05e712b36a0bf10a34a6	Golden Goal (Europe) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible).gbc
 781afd1e98b3743c835fcc16df624895	Golden Goal (Germany) (En,Fr,De,Es,It,Nl,Sv) (GB Compatible).gbc
+ef24106662ae769dba0c410933736332	Golf Daisuki! (Japan) (En) (SGB Enhanced) (GB Compatible).gbc
 ef24106662ae769dba0c410933736332	Golf Daisuki! (Japan) (SGB Enhanced) (GB Compatible).gbc
 cb2969699ac7deca731d67aa473e0024	Golf de Ohasuta (Japan) (GB Compatible).gbc
 2d52664ee85f0192738fff0b53d4fe20	Golf King (Europe) (En,Fr,De) (Proto).gbc
@@ -1599,9 +1603,11 @@ c954d72f5a9131667aaa06ae185638b4	Player Manager 2001 (Europe) (En,Fr).gbc
 7fe77698974780fec4566d30d183a206	PlayTime (World) (Proto) (GB Compatible) (Aftermarket) (Unl).gbc
 5b5f4bbec087abc00ce1f834a86bdae3	Pocket Billiards - Funk the 9 Ball (Japan).gbc
 2f6b6379f8c7ce5d66a198162f345eaa	Pocket Bomberman (USA, Europe) (SGB Enhanced) (GB Compatible).gbc
+7b29bf304be1f747c83cf516239b9c61	Pocket Bowling (Japan) (En) (GB Compatible).gbc
 7b29bf304be1f747c83cf516239b9c61	Pocket Bowling (Japan) (GB Compatible).gbc
 8d9c413f30885be0bb0fe08a1817c842	Pocket Bowling (USA) (GB Compatible).gbc
 6f39124a6dfc3aaa28813286054a5fcb	Pocket Color Billiards (Japan).gbc
+8f293537e992cb718f0d055c6d08f882	Pocket Color Block (Japan) (En) (SGB Enhanced) (GB Compatible).gbc
 8f293537e992cb718f0d055c6d08f882	Pocket Color Block (Japan) (SGB Enhanced) (GB Compatible).gbc
 5416dfae15db78cbbb6525051451c284	Pocket Color Mahjong (Japan) (GB Compatible).gbc
 315dcdf71e7af8287ff71c9a79aa8280	Pocket Color Trump (Japan) (GB Compatible).gbc
@@ -2306,11 +2312,16 @@ a26cfbd01895b12ad64b7191a607fc11	Tony Hawk's Pro Skater (Japan) (Proto).gbc
 0454b25266d645990b63b5b406672dc2	Tony Hawk's Pro Skater 2 (USA, Europe).gbc
 365f913d6f2b0f44d87b7a347daea528	Tony Hawk's Pro Skater 3 (USA, Europe).gbc
 d9575286a0da1da5f6036f649024298c	Toobin' (USA).gbc
+d900ac38d929da79040ee5bfb9b533e4	Tools of Nexaura - Blue Moon Edition (World) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc
+3554b7a7a92b19523b7e5810888739df	Tools of Nexaura - Ultimate Edition (World) (Digital) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc
+fcb84f0682371eaae0beae9064257441	Tools of Nexaura - Ultimate Edition (World) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc
 bee1a581b2b0b2cf2c2b07a2316a8793	Tools of Nexaura (World) (Beta 1) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc
 aafb0b262c92735edadf77d17dfedd06	Tools of Nexaura (World) (Beta 2) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc
 a4af66b229f3bed283f361275484d84d	Tools of Nexaura (World) (Beta 4) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc
 1c7c014e7620a24bec92d4eab9ff7590	Tools of Nexaura (World) (Beta 5) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc
 9795c7221b79ef7480b68b497e6a416c	Tools of Nexaura (World) (Beta 6) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc
+265a03e74be9ff38de7b188dbdaee213	Tools of Nexaura (World) (Digital) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc
+f408d5bfd7f8e8f4aa4ed0ff3ce24744	Tools of Nexaura (World) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc
 c8e254ac7f14d39290492f849cc1c0ed	Tools of Nexaura (World) (v0.4) (Demo) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc
 91fd1e446ef8af51080409b7940391e9	Toonsylvania (Europe) (En,Fr,De,Es,It,Nl).gbc
 f70756d7502b1374e05c7fce48a4d283	Toonsylvania (USA).gbc
@@ -2475,8 +2486,11 @@ f8f8fedf07e783a97a50cd0e05544fc3	Wizard of Wor (World) (Aftermarket) (Unl).gbc
 fa8360094cae37a838fabcfd333ae300	Wizardry Empire - Fukkatsu no Tsue (Japan).gbc
 fcf910e4d2f27bab40244eb7bf4aa2d3	Wizardry Empire (Japan) (Rev 1).gbc
 ccb604ca00f176ae6ca40f4fc33d8c1a	Wizardry Empire (Japan).gbc
+6b94c050291c68d6fb13c642c46873ab	Wizardry I - Proving Grounds of the Mad Overlord (Japan) (En,Ja).gbc
 6b94c050291c68d6fb13c642c46873ab	Wizardry I - Proving Grounds of the Mad Overlord (Japan).gbc
+8d0a97cc2c5235656e722b0fb9627504	Wizardry II - Llylgamyn no Isan (Japan) (En,Ja).gbc
 8d0a97cc2c5235656e722b0fb9627504	Wizardry II - Llylgamyn no Isan (Japan).gbc
+e81e4977a1380a6a0bac49bfd9e04671	Wizardry III - Diamond no Kishi (Japan) (En,Ja).gbc
 e81e4977a1380a6a0bac49bfd9e04671	Wizardry III - Diamond no Kishi (Japan).gbc
 3fd1b54e9ec5002a55103e676ebf30ae	Wizkid and The Tower (World) (GB Compatible) (Aftermarket) (Unl).gbc
 468a4386f2e26f2f20e262f34a232ddd	Wolf Pack (World) (Aftermarket) (Unl).gbc

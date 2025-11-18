@@ -14,7 +14,8 @@ a376d5648e08f348e5965c058c631c6d	Clean Sweep (World).vec
 9b61653ed9dafd4cfb7f9d94404259ac	Cosmic Chasm (World).vec
 db9929b0ad53c97afda065596806bf86	Dark Tower (USA) (Proto).vec
 896793a17a32932bcd64c52c77b00d55	Engine Analyzer (USA) (Proto).vec
-e65b3262e9447a747d93e0ccb1dbb7df	Fortress of Narzod (World).vec
+b7d7136821984071bddffd185509602d	Fortress of Narzod (Europe) (Rev 2).vec
+e65b3262e9447a747d93e0ccb1dbb7df	Fortress of Narzod (USA).vec
 501dd2845432f10e4b9531240f409b8c	Heads-Up - Action Soccer (World).vec
 7580926ee22f06fd2ccde4b65184715f	HyperChase - Auto Race (World).vec
 e0dfc58763716c3b6a89e08f4869396e	Mail Plane (USA) (Proto) (05838962).vec
@@ -22,7 +23,7 @@ e6c821917e168b1e6e27bf2b90ad6cfb	Mail Plane (USA) (Proto) (DA1AC0DB).vec
 80e72d7e1bb06fd5d5a24c93f1b61f14	Melody Master - Music Composition and Entertainment (USA).vec
 ee19e350be0af2a509a202b057488dc8	Mine Storm (World).vec
 126fecbf4fb09fdb5a3c9af92abaed7c	Mine Storm II (USA) (Rev 2).vec
-1c95cf8fcd2c98db747208ade464a44f	Mr. Boston Clean Sweep (Europe).vec
+1c95cf8fcd2c98db747208ade464a44f	Mr. Boston - Clean Sweep (USA).vec
 e7bf7de16b01419a819826cce3dc25ee	Pitcher's Duel (USA) (Proto).vec
 f599da79b5c324c2a11c117d256a64c0	Polar Rescue (USA) (Beta).vec
 5c1c413e51aa282015807dc60213fd3d	Polar Rescue (USA).vec

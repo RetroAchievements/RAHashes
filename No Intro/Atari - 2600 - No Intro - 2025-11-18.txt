@@ -50,6 +50,7 @@ ca0035430dad7dd4f9391f232091d216	Amoeba Jump (World) (PAL 60Hz) (Aftermarket) (U
 539f3c42c4e15f450ed93cb96ce93af5	Amoeba Jump (World) (v1.3) (NTSC) (Aftermarket) (Unl).a26
 0c72cc3a6658c1abd4b735ef55fa72e4	Amoeba Jump (World) (v1.3) (PAL) (Aftermarket) (Unl).a26
 0866e22f6f56f92ea1a14c8d8d01d29c	AndroMan on the Moon (USA) (Proto).a26
+6672de8f82c4f7b8f7f1ef8b6b4f614d	Angeln I (Germany).a26
 adf1afac3bdd7b36d2eda5949f1a0fa3	Angriff der Luftflotten (Germany).a26
 6a7e6fc102bf7459f89419c548a79e2c	Angry Video Game Nerd K.O. Boxing (World) (NTSC) (Aftermarket) (Unl).a26
 27279303df0884b2423c2ed1fb7ddc92	Angry Video Game Nerd K.O. Boxing (World) (PAL 60hz) (Aftermarket) (Unl).a26
@@ -335,6 +336,7 @@ bc6135ebb1a0ff50f954a670a8092e47	Forest (World) (Two Player) (Muted) (Aftermarke
 76ee917d817ef9a654bc4783e0273ac4	Fox & Goat (Europe).a26
 15dd21c2608e0d7d9f54c0d3f08cca1f	Frankenstein's Monster (USA).a26
 1309db7ae19a85304d412f61a19985d7	Free Play Florida 2017 (USA) (Aftermarket) (Pirate).a26
+2ec6b045cfd7bc52d9cdfd1b1447d1e5	Freeway (Europe).a26
 8e0ab801b1705a740b476b7f588c6d16	Freeway (USA).a26
 e80a4026d29777c3c7993fbfaee8920f	Frisco (USA).a26
 45a4f55bb9a5083d470ad479afd8bca2	Frog Demo (Europe) (Demo).a26
@@ -345,6 +347,7 @@ dcc2956c7a39fdbf1e861fc5c595da0d	Frogs and Flies (USA).a26
 e556e07cc06c803f2955986f53ef63ed	Front Line (USA).a26
 4ca73eb959299471788f0b685c3ba0b5	Frostbite (USA).a26
 d3bb42228a6cd452c111c1932503cc03	Funky Fish (USA) (Proto).a26
+cd568d6acb2f14477ebf7e59fb382292	Fussball (Germany).a26
 c1fdd44efda916414be3527a47752c75	G.I. Joe - Cobra Strike (USA).a26
 18dc28bc22402f21e1c9b81344b3b8c5	Galaxian (Europe).a26
 211774f4c5739042618be8ff67351177	Galaxian (USA).a26
@@ -506,6 +509,8 @@ cf9069f92a43f719974ee712c50cd932	Mission Survive (Europe).a26
 203abb713c00b0884206dcc656caa48f	Moonsweeper (USA).a26
 7d1034bcb38c9b746ea2c0ae37d9dff2	Morse Code Tutor (USA).a26
 f5a2f6efa33a3e5541bc680e9dc31d5b	Motocross (Europe) (Alt).a26
+a20b7abbcdf90fbc29ac0fafa195bd12	Motocross (Europe) (Quelle).a26
+f5a2f6efa33a3e5541bc680e9dc31d5b	Motocross (Europe) (Suntek).a26
 a20b7abbcdf90fbc29ac0fafa195bd12	Motocross (Europe).a26
 de0173ed6be9de6fd049803811e5f1a8	Motocross Racer (USA).a26
 378a62af6e9c12a760795ff4fc939656	MotoRodeo (USA).a26
