@@ -4,17 +4,21 @@ e7ba431e30772a6412c0b863447de9fc	12-Bar Tunesmith.woz
 c013c3aec5ce6fdbfa92ea3097f1898a	221B Baker St. disk 2 - Case Disk.woz
 833d0ab375dc79e6e3e3083a26460938	2400 A.D. - Player Disk.woz
 abe8e029c99e7b0ba9041a7e54cd8783	2400 A.D. - Program Disk.woz
+73885ddea9370a331046cbc6f601444d	4-Track Editor for Soundchaser.woz
 6731b52e613aaebed17d246eba9da79c	50 Mission Crush v1.1.woz
 9a80a749b4511954785fbedccd94480d	50 Mission Crush v1.2.woz
 6e194a3fdcb1f8539945e35653c53bda	816 Paint v3.1.woz
+5c8085872f0e8fac95a48520cc1bc074	A Field Trip to the Rainforest for Appleshare Network 800K.woz
 82dd0e626f6746498c36eebee07819fd	A Mind Forever Voyaging r77 side A.woz
 24ef24dbb9739bef466419167a77852e	A Mind Forever Voyaging r77 side B.woz
 a906ec4e60cd3cfb5d56634d65bcec6b	A Puff of Air- The Respiratory System.woz
 8856684cb1d1160fab4e19a7c9edffd0	A Question of Scruples - Disk A (Program Disk).woz
 2fba07969bfb6bd4ff356813affa548e	A Question of Scruples - Disk B (Questions Disk).woz
 07f971ab993327b08f56ada56a9c8721	A View to a Kill.woz
+82664c1495756881ca7c37df0bf17c77	A Way To Learn With Waggs 800K.woz
 503f80425a84152a3e3f708a60868528	A Week that Changed the World side A.woz
 c2e384efc5b081a545d7e5ac1d1cfbb2	A Week that Changed the World side B.woz
+e48f52211a6aa60bc36dc508f4c39b29	A.C.L.S. Protocols- Arrhythmia Therapy v1.1.woz
 957c6ac3752bcd138b7b6932db34b51d	A.E. side A.woz
 a4df0c61d951483d8bbea9a03f3449a0	A.E. side B.woz
 1f8e0ef3c9946177ad2ceeaf09fcb028	A.I. side A - Program.woz
@@ -27,13 +31,18 @@ c5db45a20e8ed204c34ef79cfb9acbf9	Accounts Receivable (Softsmith).woz
 1f0236bb26618a38fdda289ec83b954f	Ace Detective side B.woz
 a96a3efec745a1424c67d87bbb666603	Acey Deucey (Softsmith).woz
 9d317062f54b425bd733e2e98bc7d00a	Acey-Deucey.woz
+ef332d91facda4eb9a090904e054f85d	Adding Fractions.woz
 999d7f85af9137b85e1ecd710499e688	Addition Logician 800K.woz
 4bf2601d17c126e81c7e0371d26e66a8	Addition Logician v1.0.woz
 6247020638eff8dd0e4c136a14513850	Addition Magician.woz
 4fad4bc814e57d5273fc8203787ab279	Advance to Boardwalk.woz
+ddc056540b9e1d1a0d394c92b214faa6	Advanced Linear Equations.woz
 6bbe400e64e07935916cbaaa49018071	Advanced Math Shop side A.woz
 8b172222e5f656ff8e4c939ee722af92	Advanced Math Shop side B.woz
 db6592589f8d021f640557efd56e5c02	Adventure (Apple).woz
+760e5777ff6ef1c07b6433f952b64389	Adventure (Conflict Control).woz
+eaf2a54d86f38b609f950570959de4c6	Adventure (Frontier Computing).woz
+c7403b6419d42d83b5dc45f57a1bc7f7	Adventure (Programma International).woz
 b4c1c3db563816d07bb0276d1d326ab5	Adventure Construction Set disk 1A.woz
 bc19a076d110c09f2c13b1c76b1c4b79	Adventure Construction Set disk 1B.woz
 2e8213cb73043aedb49ade249b60791e	Adventure Construction Set disk 2A.woz
@@ -86,6 +95,8 @@ e20fdd02482d65b5d6c466ffadd7c403	Alien Munchies.woz
 4e5ec2f8a6e4c684c4bc101196f0db16	Aliencounter & Face Flash rev. 3.woz
 aab88a2c4b9505ddb5de85b26451f5d5	Aliens side A.woz
 57cbc741e78efa8f813bca0358673d3a	Aliens side B.woz
+9e6c4fda6da3d69c153c1522d57c0fae	Alkemstone side A.woz
+563cf2f4b65df1bea277601a9ef020b3	Alkemstone side B.woz
 638e9955dbdf8eef5797831d2890035b	All About Light and Sound.woz
 bbc249180efc4a0173bedc0412563708	Alligators and Crocodiles.woz
 318414ddec117de29b1ba70069ff736a	Alpha Build.woz
@@ -116,6 +127,13 @@ d6a53d895a89f654f1ad389c44e1653d	Amazon side 1.woz
 ff49106e25470f84cab26954250e6bcf	Amazon side 2.woz
 a5d5950ca3e2dd323e262d04faae9fd7	Amazon side 3 (boot).woz
 78222f3215ef6aaf1c5999a7d8fe9abc	Amazon side 4.woz
+09257b37461c925f9dfd13b06c1c0a64	American Government disk 1.woz
+a7b439c49cc43239508d47b66f597cd1	American Government disk 2.woz
+0128f6f45f8128d764ebfbe41d626f97	American Government disk 3.woz
+bbfab91c6bc8fd3bc83b722ebb2cd456	American Government disk 4.woz
+bbf442c5c63307315b19b12ca545ff6b	American Government disk 5.woz
+0684dede7ecfded7fcd76b2c36156320	American Government.woz
+03783fc5a508db972bcfdbe66b89950a	American History Achievement IV v1.0.woz
 1b81a646a7a307077266733d046a42f9	American History Adventure disk 1.woz
 05a13f86771ee9fa21a2aef86d5fde84	American History Adventure disk 2.woz
 68e27f98984111ed65cbbd709f8588ad	Amnesia disk 1A.woz
@@ -125,8 +143,14 @@ a5d5950ca3e2dd323e262d04faae9fd7	Amazon side 3 (boot).woz
 27a5317da06e6c18c786c9e1d5764257	Analogies Tutorial v10.19.89 disk 1.woz
 b2d0673ee7ed7e3fc34faddc3307a654	Analogies Tutorial v10.19.89 disk 2.woz
 22a3d50d0e7f8327708f1f16e7424a8c	Analytical Reasoning disk 1.woz
+bdfe5f27c9b192ef3e6e6a0de64a331c	Analytical Reasoning disk 1.woz
 28e0183b0adbe4bcccedee719d25d347	Analytical Reasoning disk 2.woz
+d074aab0317d412ce0edd4b8ff88f6bd	Analytical Reasoning disk 2.woz
 b8b80899b9c937bbff140965d5114cac	Anchorman.woz
+e6a8f331615bf779d09245024e10f936	Andrew Tobias Managing Your Money v4.0 800K disk 1.woz
+7060ec2e71b1917fc9f30829c2cf1e77	Andrew Tobias Managing Your Money v4.0 800K disk 2.woz
+4ad475192c1e393d2b4f91e02a51dbab	Android Nim.woz
+852a71c6e29641f01401f2ef6cbb1fde	Andromeda Conquest.woz
 ab7fdbb0c6f8332eb68fdccbda6f84ba	Animal Bytes- Katie the Camel.woz
 abd87ca4839e9221240547092e9a30fe	Animal Bytes- Larry the Lion.woz
 f6435d44258c240ca6c6bc8a3d48bdf9	Animal Bytes- Maggie the Mink.woz
@@ -139,6 +163,18 @@ bc23a972dc0ddc56460b45fc4ce2c27a	Animal Hotel.woz
 1e1f44d666ce4bdaedd127f0ad4d7637	Animal Photo Fun.woz
 9d58ea6c80ef0dc236882c2b0131eea5	Animal Rescue.woz
 df3ff70e3c5a6250b066a673346fab0b	Animal Stories IV.woz
+e41f449b6cd854e797d630c845358b07	Animal Watch- Tracks 1987-06-27 disk 1 - Program Disk.woz
+939e2fc23cb6bb71ee36e9aa52565d56	Animal Watch- Tracks 1987-06-27 disk 2A - Student Disk- Scenes.woz
+c0d91c9824486f12d3ffe68748db55a1	Animal Watch- Tracks 1987-06-27 disk 2B - Student Disk- Activities.woz
+86c4bd742bbcf8e65508eefe2bebb852	Animal Watch- Tracks 1988-02-24 disk 1 - Program Disk.woz
+6d105cc35e328121292bb92216949504	Animal Watch- Tracks 1988-02-24 disk 2A - Student Disk- Scenes.woz
+7ff796a75527c626436b7421fd1d79b1	Animal Watch- Tracks 1988-02-24 disk 2B - Student Disk- Activities.woz
+eea3f3f8a45aa8c8cb642d9d05086f98	Animal Watch- Whales 1988-02-24 disk 1 - Program Disk.woz
+83512abf4a410c680d452d86592f0959	Animal Watch- Whales 1988-02-24 disk 2A - Student Disk- Scenes.woz
+db6a1cc13f00a706233798f8b8b04065	Animal Watch- Whales 1988-02-24 disk 2B - Student Disk- Activities.woz
+14cd2605d620a2c90723528bad639ca0	Animal Watch- Wolves 1987-06-26 disk 1 - Program Disk.woz
+954d018ce492ec66fdf41d37bf97e7ea	Animal Watch- Wolves 1987-06-26 disk 2A - Student Disk- Scenes.woz
+c134866bd7c532162d517c5ed4769ee8	Animal Watch- Wolves 1987-06-26 disk 2B - Student Disk- Activities.woz
 854028c7107c9120c71522e6e9c9a2c4	Animals with an Attitude - Backgrounds and Samples.woz
 f09a14b7a62e090bb913fed2c7ab7775	Animals with an Attitude - Clip Art 1.woz
 917ec022c63071a6d1a7faeffac41559	Animals with an Attitude - Clip Art 2.woz
@@ -152,16 +188,75 @@ e799f48dc331079b26e049502eabff9f	Animate disk 2A - Animation Library.woz
 10919c5451f9e679804d507500208c04	Animate disk 3B - Programmer's Aids.woz
 f6f9747e868692556dfb23da5df2d9b1	Ankh.woz
 f54d50a521ff13cecc5d35d1c528fcff	Ape Escape.woz
+d7d9e51b1282128c1adc2a238863910a	APMAIL v1.2.woz
 5fd3e526ab10fb3edcada89e112a4565	Appilot Edu-Disk.woz
+cb5aaeb4e57394857fe81a7c7cd5efb4	Apple Bowl.woz
 01d17c6c39f396d9eaa14c8b52c5b7e6	Apple Cider Spider.woz
 eab380d893eb20e3c4960ce92850fc3b	Apple Galaxian (StarCraft).woz
 8384e379d3b9196b7bf4cc506ceb2e4c	Apple Galaxian.woz
+dcd8de316ddd21a8d3651b4ab5acb2ff	Apple Grasshopper 800K.woz
+c529d4f7e3c7e95f6bdd5fefdfa809ee	Apple Invaders.woz
 99d0a84080edcb4d89ea1f61a7bfea6d	Apple Mechanic v1984-10-05.woz
 eb6108552dc59c43b4d855305675c1aa	Apple Panic.woz
+78fddcce53151cdf73321788e7d61104	Apple Pascal v1.0 - APPLE0.woz
+c46a40e51345a4f20669d160862ed369	Apple Pascal v1.0 - APPLE1 (boot).woz
+e96711e15869d6b3ca92c060809d7d8c	Apple Pascal v1.0 - APPLE2.woz
+48057e46543223a5c3850a8c22e42153	Apple Pascal v1.0 - APPLE3.woz
+b4d1995c1f3c6e4e51e6372459876566	Apple Pascal v1.1 - APPLE0.woz
+0fda58ee91dfa4f392c5de535964ca58	Apple Pascal v1.1 - APPLE1 (boot).woz
+3b05f224672843d3e459981a4c0f6a49	Apple Pascal v1.1 - APPLE2.woz
+e0dee891c981bc1adc027b151da0107d	Apple Pascal v1.1 - APPLE3.woz
+e1405bd9449ae7b0a7f0401b52df418c	Apple Pascal v1.2 - APPLE0.woz
+1381131ad48bc710ff3afbe5b98c087a	Apple Pascal v1.2 - APPLE1 (boot).woz
+0fc592e7bf13acdbe9565fb30ead5c3b	Apple Pascal v1.2 - APPLE2.woz
+704437c39817c2de72958762b6d3d01d	Apple Pascal v1.2 - APPLE3.woz
+7aaa4f6d4fa6461b81355469d0cda79a	Apple Pascal v1.3 - APPLE0.woz
+cfd4f9580ad22cb65387aa176f583967	Apple Pascal v1.3 - APPLE1 (boot).woz
+1090c6e364a279f77551b50ce6fa0f0c	Apple Pascal v1.3 - APPLE2.woz
+c380ce3a139d17a40f56263db2b0a3fe	Apple Pascal v1.3 - APPLE3.woz
+770507b1834f83bade9224fc61d7cfd0	Apple Pascal v1.3 800K.woz
 ab8d085a1707b9824df78d5dde7086d2	Apple Puck Man.woz
 1d1b24c7896d159a6523c6c568e64a4c	Apple Stellar Invaders.woz
 321fc46358a28b7275dc5ef328b42bd6	Apple World.woz
 39cf842d02364620f924f4f4b45afb32	Apple-Oids and Chip Out.woz
+c67558ad14fb45f0f78c63efea6bbef9	Applepie v1.0 (13-sector).woz
+30dce1bd463be2d6f808311aab6b5eb1	Applepie v1.0 (16-sector).woz
+52039302bc6aa3c5e32af4db21f97969	AppleWorks v1.2 disk 1.woz
+92af3111a5bcd3f117cd6f11612f1dca	AppleWorks v1.2 disk 2.woz
+1df3d61f767b94cf26ef265ee39c6491	AppleWorks v1.2 disk 3.woz
+3f108fcfd0c0d44f9f4c19695efd6685	AppleWorks v1.3 800K.woz
+f37ba0325a7210204689009c2d9b8826	AppleWorks v1.3 disk 1 - Startup.woz
+ccf458e4178cd1b1534545a72901c0c0	AppleWorks v1.3 disk 2 - Program Disk.woz
+1f41d8eb2f74c44f007ed9068f637869	AppleWorks v1.3 disk 3 - Sample Files.woz
+e18066676d502e2717a6bcab91c2e48b	AppleWorks v1.4F 800K.woz
+0547a2e653ce4d867f2bb546d38f9ad8	AppleWorks v2.0 800K (Apple).woz
+c053a749334e0b1fa0a75ad16f26d01a	AppleWorks v2.0 800K (CLARIS).woz
+d793c0db7e96b0145a2247814c2d5233	AppleWorks v2.0 disk 1 - Startup.woz
+1f55ab57f26058ba78af762cbde2a374	AppleWorks v2.0 disk 2 - Program Disk.woz
+8897aa299fa107f60124b30c5b11fe47	AppleWorks v2.0 disk 3 - Sample Files Side 1.woz
+4cce93a25d0a6fa800b0e1e17fb2fec6	AppleWorks v2.0 disk 4 - Sample Files Side 2.woz
+8673d5c1ef41e4a2948706fbf00fa415	AppleWorks v2.1 800K.woz
+2b48fac78de172edbba4df7b3bb25827	AppleWorks v3.0 800K.woz
+b9ef6c279f15f47ece2ecb1d2ed7bddb	AppleWorks v3.0 disk 1.woz
+d2710c736e918c1cfcf653e399262467	AppleWorks v3.0 disk 2.woz
+e51a9c900d9f50547b5d3ac13eacd6c1	AppleWorks v3.0 disk 3.woz
+0b66ff4dd66549d1dbf3d22980e7d5b2	AppleWorks v3.0 disk 4.woz
+72d0a59e7234802a37bf397043952ea5	AppleWorks v4.0 800K disk 1.woz
+962e925f4bce0861ebb6f7ddb8479b19	AppleWorks v4.0 800K disk 2.woz
+482fd27e55a233726e2717a957ef8964	AppleWorks v4.01 800K disk 1.woz
+527898860eb7245fea0f7107e18359cc	AppleWorks v4.01 800K disk 2.woz
+2077131e12190a563fa1ca91a6b0976d	AppleWorks v4.01 disk 1 - Startup.woz
+2b2ac5f6400367beb1ef23a7b5ba1814	AppleWorks v4.01 disk 2 - Word Processor.woz
+7676ea35865ef7c2ddf1aa7c5eafb0de	AppleWorks v4.01 disk 3 - Database-Printers.woz
+ef737f139a748fa0d1831a77726fb50f	AppleWorks v4.01 disk 4 - Spreadsheet.woz
+e7896453f2fd99292a48349f98772521	AppleWorks v4.01 disk 5 - Dictionary.woz
+dd4c19bcff483801963d358baf0cf9b2	AppleWorks v4.01 disk 6 - Inits-TimeOut.woz
+d0fd47b5da988d5dc8a6a9cbb48a85e4	AppleWorks v4.01 disk 7 - Installer-Sample Files.woz
+ae5edae0465ee009d8bf2f2307392dbe	AppleWorks v4.01 disk 8 - Sample Files.woz
+84d96e34503e919f44322a4f701612c1	AppleWorks v4.02 800K disk 1.woz
+c1c5ccfcde95be4b0e8a0a5ea7cd1d76	AppleWorks v4.02 800K disk 2.woz
+c3fd8b485735bdd8addbf086d036b5f3	AppleWorks v5.0 800K disk 1.woz
+094f1f623517adfc94c6e5587a3b3edb	AppleWorks v5.0 800K disk 2.woz
 b807a18cb2cb52f54806288860fb04ea	Apventure to Atlantis.woz
 a2bf468cf82ed2f4fb2967110d36f69d	Aquatron.woz
 43da3719b84ae78e7fe2bc825931649f	Arcade Album #1.woz
@@ -179,6 +274,7 @@ b629c214ca0eb94a36369134eed62169	Arizona Mix 800K.woz
 82cabd56acff6dd8b6f928ba10a9a4d9	Arizona Mix v1.0 side A.woz
 7aa9b55f844e73cab159839a07574afd	Arizona Mix v1.0 side B.woz
 b451ae23dcbec69269888257ae470c97	Arkanoid.woz
+d888aee8b8381dd3154f516a0bd11885	Art Converter v1.0 800K.woz
 0b016a5f0b5c0f2937b8282f46cd5426	Artesians.woz
 98ef6fe978a0b31166fe57f970fc34b7	Arthur side 1.woz
 5dbb2f48d170995f9cbac5807b907d9d	Arthur side 2.woz
@@ -190,6 +286,7 @@ d8599726e519acade226a9b790db5e78	Asteroid.woz
 bc6c6dbff829cebbbd6f5859a87537f9	Astro Attack (Softsmith).woz
 c9efabadd340d50ef4ef19c51e47e089	At the Gates of Moscow 1941 side A.woz
 7dcee4cfcd8fc87eb49282d078b3f8fe	At the Gates of Moscow 1941 side B.woz
+ceab66b323d16ba8ba022177f4c98ec4	Atlas Explorer v1.0 800K.woz
 ade96b54c935c11dfb98e5b09caa5c24	Audubon Wildlife Adventures- Whales side 1.woz
 2d0deacef4c9c83bb40b9089fcafb907	Audubon Wildlife Adventures- Whales side 2.woz
 228542f4cecfee1228f141cc9a5d38aa	Audubon Wildlife Adventures- Whales side 3.woz
@@ -205,9 +302,24 @@ aeb10d4dbf2fec01f1d5c177f7c8274e	Aural Skills Trainer- Seventh Chords.woz
 3ee7c4173bedd436944defdd16355363	Automotive Technician Mathematics Volume I v1.0.woz
 7432abb653cf118e71eb6d795fdfe991	Automotive Technician Mathematics Volume II v1.0.woz
 488ae114b95cee739f47292d7aea7499	Averages 1988.woz
+a95fcbe9287a926a70ea9183ea713d1f	AW 3 Expander v1.1 800K.woz
+f945649aeefb1b52ff21d077651634ba	Award Maker Plus v23611 Disk A, Side 1- Program.woz
+5110ab2122b9b5c993c7560501170419	Award Maker Plus v23611 Disk A, Side 2- Award Library.woz
+9e69cd4cd61ae2d758ef646f08562c3e	Award Maker Plus v23611 Disk B, Side 1- Award Library.woz
+48138b4ca8421340424bad190cac1ba8	Award Maker Plus v23611 Disk B, Side 2- Award Library.woz
+3d06e43ae19482eb314f51f9928026e1	Award Maker Plus v23611 Disk C, Side 1- Sports Award Library.woz
+2eef2e59753cf6f89ad0b46cb3f28760	Award Maker Plus v23611 Disk C, Side 2- Sports Award Library.woz
+d24088f4a0705729f3dca0cedb01dc88	Award Maker Plus v23611 Disk D, Side 1- Sports Award Library.woz
+57178ca823ff4f970d25159179fa15dc	Award Maker Plus v23611 Disk D, Side 2- Sports Award Library.woz
+d4838e3af08d80f829b4fa175836f65b	Award Maker Plus v23611 Disk M, Side 1- Education Award Library.woz
+ea6d97feac0824d3fd77bc4bd1415674	Award Maker Plus v23611 Disk M, Side 2- Education Award Library.woz
+fb73b182d272d162ad1a164dff229716	Award Maker Plus v23611 Disk N, Side 1- Education Award Library.woz
+34c889af8ea09d48e231f49bee1f9eda	Award Maker Plus v23611 Disk N, Side 2- Education Award Library.woz
 1a9df7239e88d7827b0b24a24dec1b8c	Axis Assassin.woz
 d622010fb0237f9383588ab110a93872	Aztec.woz
 1ec14cac7f4b37d37b32e6f556236bfb	B-24 v1.0.woz
+2adc0f4c66f8f600eecdf4e9feb6fa0c	Back in Time side A.woz
+b1213805776d106debe7ff07d063ab97	Back in Time side B.woz
 7c30f31310dea9dac2e58d085b38a111	Back It Up III v3.4.woz
 8fd6e7ee493d67ba73fb313482cd82ab	Back It Up III v3.6.woz
 b2a280c141f7f0edb5d56668460ff60f	Backyard Birds 800K.woz
@@ -236,6 +348,7 @@ c01ec5a264f4cc2516d409f9201dd661	Banner Books- Your School Day - Backgrounds.woz
 b7b1f300b07d7faf57d79376380c57e4	Banner Books- Your School Day - Clip Art and Fonts.woz
 565da8d991836f523a8c57105df5ca0d	Banner Books- Your School Day - Clip Art.woz
 421dbacc5bfa512c39d79a9bdfbd245a	Banner Books- Your School Day - Program.woz
+3f59d896ed6f41171a06dd2f9956a5b3	BannerMania 800K.woz
 f93718f32ba6ed199811280d3985f052	Barron's SAT 2nd Edition disk 1A - Introduction.woz
 62e57a9cab9892619818420b2855087b	Barron's SAT 2nd Edition disk 1B - Diagnostic Test.woz
 b4ad006240a360de4666af89ddd525b4	Barron's SAT 2nd Edition disk 2A - Verbal Practice Antonyms, Sentence Completion.woz
@@ -261,8 +374,22 @@ f05419b2aa0b75f6b7d9d17c3c9f1028	Battle Chess side B.woz
 7274698875779eafd4985e4386725086	Battle of Antietam v1.5 side B.woz
 2d2642a67891188277fb3e0d9d5b0704	Battlecruiser - World War I.woz
 375aed379aaed005d58b3bc834cb08ef	Battlecruiser - World War II.woz
+7a2af4f4298dbabc58f086dd143a0e5f	Battlefront - Scenario Disk - Back to Bataan.woz
+df1c8a02ef7b191539c4d1c939b16f63	Battlefront - Scenario Disk - Chinese Farm.woz
+a3f66c164eb04f9481031db40a75b54a	Battlefront - Scenario Disk - Malaya.woz
+75db6640b05b404f8dde3e3bd966edbc	Battlefront - Scenario Disk - Mannerheim Line - Meiktila.woz
+7689643a81e06895ac0a65ebc96ba00b	Battlefront - Scenario Disk - Salerno - Hurtgen.woz
+e6591cf8695815dbe50d5358d5cdd6a9	Battlefront - Scenario Disk - Sedan - Invasion Greece.woz
+8cc747fa298b6cd0f2cc2661fe6847ab	Battlefront - Scenario Disk - State Farm 79.woz
+49e9b9d6a287dd7837293ab8f5020fdd	Battlefront - Scenario Disk 1 - Guadalcanal.woz
+7c465f0ef553c34aca7fe24f3800afc4	Battlefront - Scenario Disk 2 - Task Force South - Gallipoli.woz
+40cc52b0db3862aa40e480220bd294db	Battlefront - Scenario Disk 3 - Anzio - Arnhem.woz
+b0bbbb76351d64ae73fe83d39ac312e6	Battlefront - Scenario Disk 4 - Novorossik.woz
+547d64a834cee1d16e6b1e141ce3ba65	Battlefront - Scenario Disk 5 - Battleaxe - Sealion 1941.woz
 c0ea69c9ade6c31208aee5e97cefd242	Battlefront side A - Master Disk.woz
 051bd10875358e13303d7871da1b30de	Battlefront side B - Scenario Disk.woz
+0b64ac3bc593ed33b5bf8da8a751b9a2	Battles in Normandy v1.0 side A - Master Disk.woz
+d63a31e98216b0069a319ed5c5deab20	Battles in Normandy v1.0 side B - Scenario Disk.woz
 66cb049c8f48180ee95e964f2fab8cd7	Battles of Napoleon - Game Disk, Side A.woz
 c32a42dbc85c1dd26bf7fadf8b8820e1	Battles of Napoleon - Game Disk, Side B.woz
 46f0798f34776f69eda7264024b9f6e9	Battles of Napoleon - Scenario Disk, Side A (boot).woz
@@ -303,6 +430,7 @@ e269a7d755da8bdad036eac252a16ff4	Bezare.woz
 a37a6cb72ffc8c042c8ade1ffe08d7b7	Bezman.woz
 e4c0c1833ed6a58912af4e1662587654	Bezoff.woz
 73667c8895f3797f096aa92ca0eba2b3	Bezwars.woz
+570b6fb43c8a04c868f6c0dd7541b282	BIG & little for Muppet Slate 800K.woz
 560c2dc0ccb34ad7bcd42b3427571db7	BIG & little.woz
 07c8ccaa7396afcfa585ec9d39ad40ca	Big Book Maker- Cute and Cuddly 800K.woz
 c02ba8bb836c72fcd488a6f3852beabe	Big Book Maker- Favorite Fairy Tales & Nursery Rhymes - Backgrounds and Frames.woz
@@ -324,6 +452,8 @@ a661df5c7727228994f7be0fba91d970	Big Book Maker- The Three Princesses 800K.woz
 29a3b6d01c64407268b99c9a723b8a04	Bike Hike.woz
 fc3eeadcdd8831d1f227462a38c40eae	Bill Budge's Space Album.woz
 336c8f0facc75062cf5ba8af8f06697b	Bill Budge's Trilogy of Games.woz
+c76a31716353b2ebe07de413094d51aa	Binomial Multiplication.woz
+5c940b5426a65ea9e5e19ed5e7167578	Biology Achievement II v1.1.woz
 63785e7763725251cec97aea29a01172	Birds.woz
 c5e4ece4f0956a554cecc7230706676e	Bismarck- The North Sea Chase.woz
 caa34cd93c91e526a1678fb98b756651	Black Belt.woz
@@ -333,7 +463,9 @@ a59d8cf56dcbe753cd9da2e2380c2353	Blazing Paddles v04421.woz
 3853cf80116c7dac0cf20291a6549874	Blazing Paddles.woz
 14270470a98b2c2c61ba8a45dae07cfb	Blisterball and Mad Bomber.woz
 0c1874efa2fd3e53201531af580c4ecb	Blockers and Finders.woz
+4eb87eeca440163aed69e20950f310b9	Blood Gas Analysis v1.1.woz
 9518e54584f96c2472b9175bfb7f3d7d	Bloody Murder.woz
+3bc22062c4fa3cf2a7f338063e4de8e3	Bluegrass Bluff v1.0 800K.woz
 83b70456c68a7d08a0e03c7a51cf1292	Bluegrass Bluff.woz
 1a2fdd23be79dceed87ebda11d729f58	Boa.woz
 411bc81d972726d61144e30b4b7c8eae	Bolo.woz
@@ -397,30 +529,46 @@ aaa5b5e383be69457e23695807cd1943	California Games side B.woz
 3548d3d1d8f02b2230698070587fcbac	Candy Land side B (boot).woz
 980e0113501c0c38efa276c7b201d143	Cannonball Blitz.woz
 b42e16c00af5a05bdb6057a4c6d8a95c	Canyon Climber.woz
+3eed5b1498098d8a6e0c953797c7edb4	Capitalization Plus.woz
 9bc51620ec7e69757fdb4c7d0cf07dbd	Capitalization.woz
 dcaeefe497a0233467941157e4036027	Captain Goodnight and the Islands of Fear side A.woz
 86372e640291d9c6fc3fa01d94704bbf	Captain Goodnight and the Islands of Fear side B.woz
+147b8b6c6e51f82800cccc42e2818338	Captain Power side A.woz
+7446b4734ffe8930fd1e01bf0fa9ffd1	Captain Power side B.woz
 36731be8865765d67c63f1860d32b559	Car Builder 800K.woz
 7a8b70100817f5fe4c6e4a9aa8fc78fa	Caravans to Timbuktu 800K.woz
 129230955ea5577577c224e2c2872bfe	Card Sharks side A.woz
 c6e2dd6ec1b009c1c9c6c4bd148dffe3	Card Sharks side B.woz
+0d4225fcd2b01b5498c1c57110bd8ed8	Cardiac Arrest - Disk 1, Side A.dsk
+4a04bdcc4cfcb8cf4788eda5869f9dc5	Cardiac Arrest.woz
+efab0d6ddb00225155dbbeeeb2bea1eb	Cardio Quiz 1987.woz
 6ec3e46c8383621d413a92ec1cb19260	Carmen's North Dakota Almanac Database.woz
 0e1526619d1d3da36b0b66407f43aaf0	Carrier Force.woz
+4a819253aa910a9c24047eed79f26b68	Carriers at War - Scenario Disk - Gilberts Strike.woz
+c52bebf61412d84b9339558555fd56a7	Carriers at War - Scenario Disk - Pedestal.woz
+42dad66c7a2b86242a769581f046d54f	Carriers at War - Scenario Disk One - Relief of Wake Island.woz
+c070eed531cdb9899cdd7e0d213f694a	Carriers at War - Scenario Disk Three - Leyte Gulf.woz
+2c6eb497da396b13edddf157618d3e60	Carriers at War - Scenario Disk Two - Japan Sweeps South.woz
 f745f7584da246ad78430cda34a78c79	Carriers At War disk 1A - Master Disk.woz
 081dfaf094cc392e3a24eeba90ae3f8c	Carriers At War disk 1B - Scenario Disk.woz
 590c647653c5a6587f863e4490e5447c	Carriers At War disk 2A - Backup Scenario Disk 1.woz
 6c9e0faf9fc1c519aa5aef0609d87d1e	Carriers At War disk 2B - Backup Scenario Disk 2.woz
+600d2a9ef95c2daf9cf901a07570daed	Carriers at War v1.1 side A - Master Disk.woz
+b119c9f880441cab6af781199e17f12b	Carriers at War v1.1 side B - Scenario Disk.woz
 54d3b835addfae3afd595f1c4a710b74	Case of the Great Train Robbery - Fact or Opinion.woz
 016f14b03cec59a937d01226685d5912	Case of the Missing Chick - Main Idea and Supporting Details.woz
+56f2ece122822523260a4c3628cd9fde	Casino.woz
 7d9245bff6f633aa29934883490b7659	Castle Wolfenstein 061984.woz
 ea47b71f4f3e178e9b7ee2fce06fb880	Castle Wolfenstein.woz
 3df61973800a51004a1ba757b40bae70	Cat 'n Mouse.woz
+4960c4474b002d7b1e29a629d3c12ba3	Catch the Key v2.0 800K.woz
 5f4f12eb42c03fb7e82c8facdad06cdc	Categorizing- Detective Games.woz
 20fc206a764f060755f9a6739711fa40	Cats and Kittens.woz
 08c50ec54a18ee1b61ad950768407228	Cause and Effect- What Makes It Happen.woz
 7cf928bc0260d01f9ea525c4ae35a6b4	Cave Girl Clair.woz
 52942323c85627c51b3d2e6dbf7c6f5d	Cavern Creatures.woz
 ce48311fa913873514bab80d2cb1fd19	Caverns of Callisto.woz
+c0e369bff09fa14f7bb917954dd1faea	Cavity Busters v1.0 800K.woz
 a94496c442f7e758fc802f8eef57ef94	Cavity Busters.woz
 d58a501d06db3f852884aafda9f55a41	Ceiling Zero.woz
 73c1166ddcf91273c83b88c2f9cf1bb1	Centauri Alliance disk 1A - program.woz
@@ -456,17 +604,25 @@ ac530c4291eaf60cba6b5176f5e6ecc1	Championship Wrestling side A.woz
 96e301bc543388c25d6405802406a142	Checker King.woz
 5b8fd3ba33ba495c3d654cbfab8ef7d3	Checkers v2.1.woz
 665af37682be5c83434b3bf67f8155e2	Chelsea of the South Sea Islands.woz
+5a3c0675f987ad22d1fdaf7450c9e0aa	Chemistry Achievement I v1.0.woz
 1a887316567c6b2d49fbee858539320a	Chemistry- Balancing Equations 800K.woz
 a72575837cd7a9744e453e4b57ca10ff	Chemistry- Balancing Equations v1.0.woz
+bf9d872f87b21c8bdea2e85e212edfdc	Chemistry- The Periodic Table v1.0 800K.woz
 1a12a98fcbecd645cef6e2c4f4476b04	Chemistry- The Periodic Table v1.0.woz
+6c260d74b10d3f88f4c35a0eb5605e9f	Chemistry- The Periodic Table v1.1 800K.woz
 11399c405f8dc0f55a0ebf54cf7b1b39	Chess v7.0 (Odesta).woz
 526bcee06dfa7a3e5468a605f9cd194e	Chipwits.woz
+36af06ceffb8721cd57a0f4c6c3a3f53	Chivalry.woz
 f3efefaffea9f17c25ba72f837884add	Choplifter.woz
 c8e6b97a6244687d32fde1a97e437e6f	Chuck Yeager's Advanced Flight Trainer side A.woz
 3f27d532950a056dbf6b4b86c50b5294	Chuck Yeager's Advanced Flight Trainer side B.woz
 4402be2febf12240ec092c2236b81402	Circus Math 800K.woz
 940ef82e666eab8a9fa3247eae732fad	Circus Math v1.0.woz
+6beefa282db0011d20acab5da74deb4b	Classic Adventure.woz
+9d724c667e9d619929cd42ac5e7d7a5c	Classifying Animals with Backbones side A.woz
+aea8201cc3c5fa9a9fa14e3d1a83bfc1	Classifying Animals with Backbones side B.woz
 549585ec0f6f12fd1cdcff8c237cfd44	Classmate v2.1-04.01.87.woz
+f5f70cc786a7cc0ae66888c1b75b7198	Classmate v2.11 800K.woz
 4d474bf775da84fb58337848df9f8a9c	Clauses and Whole Sentences.woz
 7ac8dafbb76b22e2e2e7ade4a71dac8e	Cleanwater Detectives 800K.woz
 8f79da0b5995a8cc536dd6d7067ea1f7	Cleanwater Detectives.woz
@@ -475,6 +631,7 @@ b777226a99cdd8efcf7ec18f3ad9166c	Clock Works 800K.woz
 0cfee7ed655d96841facabd02b7dff55	Clock Works v1.0.woz
 cb0da7fed6bc1b153f1950eb67fe8efb	Clowning Around.woz
 dfe173213806ac5cd09fec157d101760	Clue Master Detective v1.5.woz
+fa7d16f0797ea81894e185f7fba7924f	Collamore Castle- Strategies for Problem Solving Level 1.woz
 3f4c42f31922c6af74a04e85177c8a98	Colonial Conquest v1.1.woz
 2a629b160a049d23a6175cc01e80bc8c	Colossus Chess IV.woz
 9afeed0cc44581ed3a5db4b5faaa1da1	Columns IIe side A.woz
@@ -484,6 +641,7 @@ afe988b09c37bee30e294cb754e234eb	Commas 1990.woz
 6e2d670ba429c9949ca1621111bb623c	CommuniKeys 800K.woz
 8d1ed1ba227ec615e889ea06d81eaa70	CommuniKeys v1.0.woz
 f4af352f2e943a992eb9828d5beb7b43	CommuniKeys v1.1.woz
+ff532b6627e56ef2c8859d76a27a3304	Companion Plus v1.1.woz
 fcfcb5559d51030c0b3c98bac71147ef	Comparison Kitchen.woz
 6d9de45cf2d89c1213d44a1c474c8854	Competition Karate.woz
 560164871f9e0d675f60f29c75af0939	Complex Sentences 1988.woz
@@ -494,6 +652,7 @@ a14b63110239dd4e490c240cef9adcee	Comprehensive Grammar Review II 1988.woz
 8890c70f20fb3d5dce0c5286422026fd	Computer Ambush v1.0 rev. 1.woz
 93e476872b15de15689e0a646754f77f	Computer Ambush v1.0 rev. 2.woz
 b0baa6c958b95f1cec72567fe1f25967	Computer Concepts 800K.woz
+f84a4a295ecb1d3ee8142304e6ea6356	Computer Concepts 800K.woz
 da1382c43335e42eaee22b3a66209a6f	Computer Foosball.woz
 564923d5fcc245be5f7e117e88239c52	Computer Generated Mathematics Materials Volume 1- Problem Solving v1.1.woz
 7a41c45aab8161fbdfb39be6a45ac6d8	Computer Generated Mathematics Materials Volume 1- Problem Solving v1.3.woz
@@ -504,6 +663,8 @@ c528fa485c130352470ce07f33334223	Conan side A.woz
 d8f4bafb48c1b663bdb846037dca15e0	Conan side B.woz
 c9cd4104e9ef155918660ad7257d4352	Concentrate on Words and Concepts II.woz
 77700fdd6124dbc5838880161d7af721	Concentrate on Words and Concepts.woz
+e3d9d6f0feb3dce5de957920cf27b7e9	Conflict in Vietnam side A.woz
+ad97a8f10179dd36eb556329f3272923	Conflict in Vietnam side B.woz
 ff7f7375ca18a77efecf86af45218e7e	Conglomerates Collide.woz
 8704f64bbcbe161a9cb84751354585dc	Congo Bongo.woz
 e54c64d588f6e736b1f0265016d77b20	Congo.woz
@@ -515,8 +676,12 @@ b5cfc98e94c6a44aed172d6c8eaa568e	Conquering Fractions (addition, subtraction) 80
 6d1fcb7f46c7a63401a6a2f320ef3326	Conquering Fractions (Addition, Subtraction).woz
 f02a2acec809162945c25b638fe4841e	Conquering Fractions (multiplication, division) 800K.woz
 2135e511f6384871536eda6eade65d91	Conquering Fractions (Multiplication, Division).woz
+297388532e9ee0da5a8843a4cfe09d09	Conquering Math Worksheet Generator v1.0 800K.woz
 6020f0089ec29f8cae50f1fff21434cd	Conquering Math Worksheet Generator v1.0.woz
+242a39d9a48dd3406c8702f2160e5694	Conquering Percents v1.0 800K.woz
 10b6a30b5b928339bf9f16077af43e17	Conquering Percents v1.0.woz
+589351c4d914884fb8f51bdec4a68abb	Conquering Percents v1.1 800K.woz
+7fe3101cec9b7fff8866252a2242f94c	Conquering Ratios and Proportions v1.1 800K.woz
 30cc007455774cff20526a6d9b7d81be	Conquering Ratios and Proportions v1.1.woz
 4aff94286114d6638006ffc371839772	Conquering Whole Numbers 800K.woz
 f52fe7b5ae3d44f07ca0a09946ae9549	Conquering Worlds.woz
@@ -533,6 +698,7 @@ cc7eef7136c31e93e8ef6d7ea934cf50	Copy II Plus v3.0.woz
 2549f393288a82efcdf5d32aacde4d9a	Copy II Plus v3.1.woz
 c1cfea9031d4a73521847fff9fce93ae	Copy II Plus v3.3.dsk
 a0aadccbe326e5045763548f6f2b5263	Copy II Plus v3.3.woz
+b7b22ae04b2a1cbe4a55a12031ed909e	Copy II Plus v4.0.woz
 ebb596f1715fe0d72542f03ef49d7dd8	Copy II Plus v4.1.woz
 ebf79d08226c612d039cdbfef7339556	Copy II Plus v4.3.woz
 fa932b76d13491e4cd94840bbdf95b6e	Copy II Plus v4.4B.woz
@@ -566,6 +732,7 @@ ece1a4839420907b422f6a58fa2e4e15	Copy II Plus v8.4.woz
 52a750a90d1be30c343bd9950f77f075	Copy II Plus v9.0 800K.woz
 72459a5d603280b7560683391b15568a	Copy II Plus v9.0 beta 1 - Side A.woz
 98ed91054d9e7bb641c83ccd795ba02a	Copy II Plus v9.0 beta 1 - Side B.woz
+ac02fe8cb75ea997659bcdb7ac06cc44	Copy II Plus v9.0 beta 1 800K.woz
 7f2fdf935183a062021112041050d6f7	Copy II Plus v9.0 side A.woz
 9e77c5dd5e915a0c8682a83da2054538	Copy II Plus v9.0 side B.woz
 52adbb20641edae1fdbae2eb74fb8466	Copy II Plus v9.1 800K.woz
@@ -579,6 +746,7 @@ d7baca10e2089d2b4be30e14ec713229	Corruption disk 2.woz
 47e25fe59a8c762f71286f9dfe03f0f4	Cotton Tales v1987.woz
 ca779419efcaa459f62bee78a5411bf5	Cotton Tales v1990.woz
 34275b4e4dc0a372d4f5fdea3f625b84	Countdown to Shutdown.woz
+e7d65bdc6968363bf5cad6401a274906	Counters 800K.woz
 4268cc2b6cc813c44f5955c00b6cced3	Counting Coins.woz
 b814ad842c394b16410e163023c6a7cf	Counting Critters v1.0.woz
 df88b837b0a0ff7d313cc19348f8f3d3	Counting Parade.woz
@@ -594,6 +762,7 @@ ba8a7bb99e2a31ca1562fc16017ac337	Create-A-Base v1.0.woz
 2129d27b6caf5cce9d9abc9202f97642	Creature Venture.woz
 33a0c429833088efca0026a903675b3c	Creatures of the Night.woz
 7fea8115f6b97e3df488b68073fa0f00	Cribbage-Solitaire.woz
+83e35d4f276065dd1142f46c32a152f0	Crime and Punishment.woz
 8dab2feec7e072967b975f69b4251017	Crime Stopper.woz
 1a3055b9769ba98bfaacdad2ddff7664	Crime Wave.woz
 f2d96c4a2b2706a415d761ea69f05eb3	Crisis Mountain.woz
@@ -618,6 +787,10 @@ f19689d1b91e664464d0df20e6d7acc6	Crossword Magic v4.0 - Social Studies Puzzle Di
 6fa65593b09a26c6fbe6927db20f80aa	Crossword Magic v4.0 - Spelling Puzzle Disk.woz
 a3a5cd5f39c4587e8c9b4571bfe7817c	Crossword Magic v4.0.woz
 7ac0f8965a23b28ca47ce0991e708a8e	Crown of Arthain.woz
+aab51f594c96c488b68367f40d2f0041	Crusade in Europe side A.woz
+76b7db8fb40b990b4decadf4511a49eb	Crusade in Europe side B.woz
+14692746ad8e610ce2da675f0626e169	Crusade in Europe v321.03 side A.woz
+c451c0497a4ecd6396de38e71eaa16ec	Crusade in Europe v321.03 side B.woz
 3f472174d267ef6b8e0a5c8a7581516a	Crypt of Medea side A.woz
 c8305b8a67838bf4b7aafce06b07eae2	Crypt of Medea side B.woz
 74e52fc6ac5ebbc09091feb4eed3cc37	CryptoQuest 800K.woz
@@ -625,6 +798,8 @@ c8305b8a67838bf4b7aafce06b07eae2	Crypt of Medea side B.woz
 dc9cc136732f5f0775a2357f69aaba41	Crystal Caverns.woz
 d893bf0efde1e4d46e0e88cb4571aa5f	Cuban Fantasy.woz
 cfc8529a16dfc59bad63262570b172f5	Cubit.woz
+fd2616b67ef805e2ce9ca73e4edc9337	Curious George Goes Shopping 800K.woz
+50a2b782e931db2165b4c4b79f91c329	Curious George Goes Shopping 800K.woz
 e9a661f39c2f637a1b6dd958ca392cca	Curious George Goes Shopping side A.woz
 50bae14b22eac0283ad059569992a4c3	Curious George Goes Shopping side B.woz
 b2e28a91b566b58f05ac6a02d1b2bd54	Curious George in Outer Space 800K.woz
@@ -641,14 +816,21 @@ f97aedabff13bbdec588235cb97ee423	Cyclotron.woz
 4a4d0a0f4c4dd3edbe18c7acb49bb908	D Code v1.1.woz
 dceb7f41c35891323a35a2ed81a55b45	Dark Lord side A.woz
 41673ba6275bb4665e22616e33799d47	Dark Lord side B.woz
+1b52a62d43a3cf3ebcf111ec8d2e4fd7	Darkhorn.woz
+f94fbc4a66eac66073b8c0e9d2092e4e	DataLink Communications Software v2.4.woz
 e9a9888a0d05384526985d74ad093db5	DataQuest- Sampler v1.0.woz
 f0dbb288e0f547a312dace4fdbc79681	Dave Winfield's Batter Up side A.woz
 25c01254887a3d6bf041e958b92c7919	Dave Winfield's Batter Up side B.woz
 1740f3f780c4dadf7ff0707c544b63a4	David-DOS.woz
 9ead6a9ebe19dfae4befebf48ab248f1	David's Midnight Magic.woz
 ae926bea4a11240fcb35650d93f30268	Dawn Patrol.woz
+58edd37df7907d98174c5601d7f17f2f	Dazzle Draw 1984-11-15 side A.woz
+0c63a59e26c6c0e4a884fa7746e5eeab	Dazzle Draw 1984-11-15 side B.woz
+cce3d551fcc0d6cbd85d12e0bf5d3426	Dazzle Draw 1985-09-16 side A.woz
+2818ad137352405580e15eaa7a5a38f6	Dazzle Draw 1985-09-16 side B.woz
 aede17990ab3a97e8f55773c7c728c15	Dazzle Draw side A.woz
 e0fb441358e34f71e8d3b9d60de7ef60	Dazzle Draw side B.woz
+c23061e9fd183d647b42ed63b94b0155	DB Master Professional rev. 9402 800K.woz
 787246da744aad87dba07488eef47817	Deadline r18-820311.woz
 8adfa50861dff163ed367474def6f5a9	Deadline r26.woz
 8ba61f93fb5b5bf412ce29b0784c907d	Death in the Caribbean side A.woz
@@ -660,7 +842,19 @@ f9384b4c5bf59ce8b8ab203731668bf2	Deathlord disk 1A - program.woz
 a1c9090492d2f3f6725848ebda4dc9d7	Deathlord disk 2B - master scenario B.woz
 085a8eb7f687de57ef5e07220f72998e	Deathmaze 5000.woz
 f454251da37aba0701ce275a44d9372a	Decimal and Percent Word Problems.woz
+a7d54faaec92df33d6ee7eb31834badb	Decimal Concepts v1.0 800K.woz
 249556c30b4644620ecd9ce03c4eae64	Decimal Concepts.woz
+3d85df46d6650ca54c6b9f45daa51a89	Decision in the Desert side A.woz
+8d8c8a2180de8303d4a60ed9f54ef320	Decision in the Desert side B.woz
+20d23f55b7cca971c9ed26f286918603	Decisive Battles - Scenario Disk - Alma.woz
+780de84aab80559b20e240333158ec48	Decisive Battles - Scenario Disk - Battle of Corinth.woz
+ecfa8229cd9904754f4a464c823f3916	Decisive Battles - Scenario Disk - Champions Hill.woz
+5a2c426cae5808fcd9e6b5fd931c6bee	Decisive Battles - Scenario Disk - Königgrätz.woz
+3173136432b149c464e097e1faba770d	Decisive Battles - Scenario Disk - Pea Ridge.woz
+fe1c4ddb11a7f5754bbd08f481f827cb	Decisive Battles - Scenario Disk - Pleasant Hill.woz
+4672f7f4fb0df6785d5e9a5a041e83f2	Decisive Battles - Scenario Disk - Port Republic.woz
+2296b226bd28c8b52c19a6310fa7020b	Decisive Battles - Scenario Disk - Saratoga.woz
+9ed33ed536d0045cfdb6f89075328c3a	Decisive Battles - Scenario Disk - South Mountain.woz
 e5f9ece5ee042abae93f87b77953b872	Decisive Battles of the American Civil War Volume One side A - Master Disk.woz
 39573067a7d43861de77c8715d242be3	Decisive Battles of the American Civil War Volume One side B - Scenario Disk.woz
 12f05acd1b70ec6e76abc38a9e8ba8b8	Decisive Battles of the American Civil War Volume Three side A - Master Disk.woz
@@ -668,6 +862,7 @@ e5f9ece5ee042abae93f87b77953b872	Decisive Battles of the American Civil War Volu
 763bd2b293376b3020abe59b39dd04fb	Decisive Battles of the American Civil War Volume Two side A - Master Disk.woz
 465a19f5408dd3beef4c65b4f609ff35	Decisive Battles of the American Civil War Volume Two side B - Scenario Disk.woz
 03817525d47e97bfad44e66de119d9d1	Defender.woz
+25440c8b735f20e576a2c26f94c9f7ff	Delta Drawing Today v4.3.woz
 2073837c78682046d1562266cee77330	Descending-Ascending Intervals.woz
 8120aba519b0796df57d18a8533fca90	Design Your Own Home- Interior Design 800K.woz
 77bafd955328becb0b46b388b7c058b1	Design Your Own Railroad 800K.woz
@@ -678,23 +873,29 @@ cf5f6b0303e6f54db9854f9562d26139	Destroyer.woz
 8c0378828ad70b99392ae6c931e376c5	Deutsche Grammatik - Disk 1, Side A.woz
 3b1339c9d5e08ef512f32a60a6b3f31b	Diagnostic Tests- Vocabulary v01.17.89.woz
 8fb9d3ce80f1ed05c6228ed1ea503621	Diamond Mine.woz
+f4d13f6c208253711bc0d972aabdf20c	Dig 'Em.woz
 b41d48afbd68876d66a7582c84ba923b	Dig Dug (Datasoft).woz
 e32ac10e9f077c38cd212373c7727789	Dig Dug.woz
 1dbd597fc0210dec3150566469229d94	Dinner on a Disk (Softsmith).woz
 9714a5aaffabd297180c71e27532ad6e	Dino Dig.woz
 fce52c8e263162c4000cf43112752f8e	Dino Eggs.woz
 aaf15c36d15329df99ef01b4d0fcf7ad	Dino Speller.woz
+84ac38920a65afc1a086611be1b4be6c	Dinosaur Construction Kit- Tyrannosaurus Rex 1988-02-24 disk 1 - Program Disk.woz
+099caa5fdf059d50bc44fb2db9f5c6a1	Dinosaur Construction Kit- Tyrannosaurus Rex 1988-02-24 disk 2 - Student Disk.woz
 3d4f68bd9b3975d689af7ba2e24bfe84	Dinosaur Days Plus 800K - disk 1 - Program Disk.woz
 908e5760ed658545a1bd899cc05f37c2	Dinosaur Days Plus 800K - disk 2 - Learning Disk.woz
 b818f9c91fb393153cc3c8682cdb310b	Dinosaur Days Plus disk 1A - program.woz
 e4409efe3f89235a952c9a20e58aabc4	Dinosaur Days Plus disk 1B - program.woz
 09e19d67d8e79d84cb1ceb51c250bfe2	Dinosaur Days Plus disk 2A - graphics database.woz
 06bf0dd383d923d87c8942f48a9a6b0e	Dinosaur Days Plus disk 2B - graphics database.woz
+4cb9d6e11c75b1fa07ee83d592be9009	Dinosaur's Lunch.woz
 808e0264f75c47e80ee6d66300c8e13a	Discover- A Science Experiment.woz
 8a7eb8f42415e5d4f0a0d19ee9e2ed51	Disk Director (Softsmith).woz
+549c0df1f2db089af6353ad83b347dbd	Disk Magic.woz
 58722ef586cec66077ee251ab3a9b7e8	Disk Organizer.woz
 c762d3b5fe408d7d1d3c4a52d7f258c4	DiskQuik.woz
 bb0cd78d0bb280ac7a2275dc2f2eced7	Dive Bomber.woz
+11ab49455c47960f2d1ae360e03e946b	Dividing Fractions.woz
 05c955dc3d70cf79098c5b55eddfa423	Dog Sled Ambassadors 800K.woz
 a071b431b2411dd114057a462e23dda1	Dog Sled Ambassadors v1.0 side A.woz
 d60f3c57f3877bb478bbba5c1f7f36eb	Dog Sled Ambassadors v1.0 side B.woz
@@ -718,16 +919,21 @@ f8b8ee9cb64f6dac7f9fc6a4d8feb645	Dr. Ruth's Computer Game of Good Sex side B.woz
 821e49a127cdde1601a23bc55e2356b4	Dragon Wars - Side 5.woz
 290b4cbb0794f08f3f488c916e8e6465	Dragon Wars - Side 6.woz
 0cf35afe5aa4af1195ee2421457b4b9c	Dragon's Keep.woz
+cfc1202614742ea39d4b5c19bc819d65	Dragonfire.woz
 7dfbc2f9febbdf4b10b3a2f3e39b441c	Dragons of Hong Kong.woz
 0c5aa510815e81ca02cbd252275325ab	Dragonworld - Side A.woz
 4e3797655b4d16f767e30686e4d13076	Dragonworld - Side B.woz
 7e3f89987123ec3885c01a7dd049e39c	Dragonworld - Side C.woz
 5932bb02c72a4ea5f41b345359ef4d48	Dragonworld - Side D.woz
 4c35dd8ecaf320abfb7f7363ba6dfa06	Dragonworld - Side E.woz
+636527767747cc11983a720015b2dbc0	Dreadnoughts.woz
+f4ee090ad09fc38794777c3937d29963	Drelbs.woz
 fe8231e4fa0f4c543ed23831997cd67f	Drol.woz
+acc79db8bee8b6373e778c13927cc55d	Drug Alert.woz
 bea8d898aaff2fbbbd97a96e3ab3b744	Dueling Digits 800K.woz
 600f42783749ccd9ffdc565560b4dafe	Dueling Digits.woz
 79c8661069f599ebdf0df6917290889b	Dung Beetles.woz
+9f3c9ae33b844a0c96d0d8f507916aeb	Dungeon Campaign.woz
 1b652e982640b4b6653c642f2234956f	Dungeon.woz
 2f812d8c8298b5715f6e89b401e6242e	Dunjonquest - Hellfire Warrior v1.woz
 204922c70254c2d6ada230767b2920ed	Dunjonquest - Hellfire Warrior v2.woz
@@ -749,11 +955,15 @@ f5026b8ad9670f7c02b08d05aaed7dc6	Earl Weaver Baseball side B.woz
 2aa198bfcbc4378193b60c0d8e2e1d5d	Early Emerging Rules- Negation.woz
 40dfcae1d02f3f6038954f40a1fccf1e	Early Heroes of the Bible side A.woz
 185da5c646d0bedf5e7162403b4317c4	Early Heroes of the Bible side B.woz
+d94b33b14e026e5fdd7a6f9a3cae33aa	Early Music Skills.woz
 d9b057c5ac966aeb40048c21db6e3dee	Earth Orbit Stations disk 1 game disk.woz
 aa8ac21c4f20512d1eb754eb78d1ae09	Earth Orbit Stations disk 2A archive disk.woz
 d7d7d32196de97105c546b3b4f9348e5	Earth Orbit Stations disk 2B mission disk.woz
+51c132ffea60e3e054a1a9351378eb38	Earthly Delights side A.woz
+9de04492aa541d9cde6e646a0f57877b	Earthly Delights side B [boot].woz
 c1f2b6786408b82a798a853eb698c572	Earthquake - San Francisco 1906 side A (boot).woz
 0b6d12f8ce26f3f82033e4ba95c0babf	Earthquake - San Francisco 1906 side B.woz
+d67d4e2794e0301bbbebc066b53253e1	Earthquest.woz
 5fc7f07b36dd8514d3be4e216dedb389	Easy as ABC (Spinnaker).woz
 02cff4bd03984252096036670086782d	Easy Street.woz
 60456ecb6bc485ac8078e2a1a7e372b4	Echelon side A.woz
@@ -762,6 +972,8 @@ c1f2b6786408b82a798a853eb698c572	Earthquake - San Francisco 1906 side A (boot).w
 ca659d703ab7db616f4f085607633db8	Eerieville Library 800K.woz
 7c32634a1e95084199f7ed84282f0603	Eerieville Library.woz
 a7d7cfd33ac3db0babc67fbc955a986c	Eggs-It.woz
+891e744b542f0f73bbad6b5452a5978f	EKG Teaching- Rhythm Strip - Disk 1, Side A.dsk
+008fa5512cee94a3d85754a01b0d754d	EKG Teaching- Rhythm Strip.woz
 6b24dfbecd2f75fe398769cd2c7f1082	Electrifying Adventures.woz
 05bf0604861633db233a4e8cfe5b260f	Elementary Volume 10- Geometry (Quadrilaterals- Area and Perimeter) v1.0.woz
 fe642e38dab615164dfeac2ed2819aac	Elementary Volume 10- Geometry (Quadrilaterals- Area and Perimeter) v1.1.woz
@@ -775,16 +987,26 @@ a4c24a5576e4b73e7551ec5318e0b309	Elementary Volume 9- Geometry (Lines and Triang
 af8137015c0f0f97d97c5b9a5ac22c7b	Empire III- Armageddon.woz
 b18629bccc7d77f96ef4f3021125df5a	Enchanter r10-830810.woz
 d4da64a44f306ed9cfa5be2c9d62895e	Enchanter r15.woz
+c789f565024341c9b68bdc24c46fecda	Enchanter r16.woz
 34102af264e3f850385f8a34d29c8ca8	Enchanter r29-860820-K.woz
+8e22697a18b96bb3fa636f5267a45dee	Energy Miser.woz
+2f45b5e5aa0f4dfe61494c0884dc7f78	English Achievement I v1.0.woz
+224bd0719312c38d76d61087d26600d4	English Achievement II v1.0.woz
+cb4774a6000dd5400511566b3f641032	English Achievement III v1.0.woz
+b1a1c881854bf45ca7fb19d197b09fbe	English Achievement IV v1.0.woz
+b758a89bfe3465340e724e904e86d921	English Achievement V v1.0.woz
 7fc2f254340513e5ab42835926dc242b	English MicroLab.woz
 2dc4016b03dfcdcbe6e253c82818cef7	English Parts of Speech v1.5.woz
 30230aa1a28d5141f67b19d2cabdf7e5	Epoch.woz
 b99eb918e1b87d7da05d7497218f3faf	Equation Math v1.0.woz
+05bcc56bcd46ff3b658306225449294a	Equation Math v1.1 800K.woz
 3db47b1bccfbd05d50e3ed3d29cd75cb	Equations I 1988.woz
 bf473b4101be03fcceea674e98dc0cde	Equations I.woz
 44a09574c548c7a30544ea06b244e915	Equations II 1988.woz
 bce4edc8e101b5df75668924e1ad94bc	Ernie's Quiz.woz
 5f272a010d7007b4b5023ea9ea0fb59e	Escape From Rungistan.woz
+07a46e56e22af069cf75c85ad3033094	Escape_1.woz
+b90949b09d350e32eacbc909ee82c4d9	Escape.woz
 0360720c73426411cd1113f7cee9fd32	ESL Writer disk 1A - Student Disk.woz
 d672b63ec99b478d9687010a542789c9	ESL Writer disk 1B - Student Disk.woz
 1bee28609b67afd0759054292fd21c8c	ESL Writer disk 2 - Teacher Disk.woz
@@ -802,7 +1024,13 @@ cb37ab83247f30cddd5886b8d0639baf	Estimation Strategies.woz
 d42fd4e4b801ff29f42a3692c247fa7a	Estimation v1.0.woz
 615d15d7c0c289f563ef68ba56fea032	Estimation- Quick Solve I 800K.woz
 1065b53bc30bae14670f1275f1f95a3b	Estimation- Quick Solve I.woz
+8cd6f3a04d72bd8014973420d0ed4911	Estimation- Quick Solve II v1.0 800K.woz
 fb88d1c80b7e28fd078ef5412bf08795	Estimation- Quick Solve II v1.0.woz
+1a7781dcbfa3c12c18d383f585e994d1	Europe Ablaze - Scenario Disk Five - Armee de l'Air.woz
+edae38ee49802b7ae74abf766c00e93a	Europe Ablaze - Scenario Disk Four - Flying Tigers.woz
+f894c533ded8dc032ab889c87aeaf246	Europe Ablaze - Scenario Disk One - The Blitz.woz
+60d33d0d63611159b2a8d2ea1ee0a619	Europe Ablaze - Scenario Disk Three - Zitadelle.woz
+50dbd6ddc92a200de1a783fcd559f73c	Europe Ablaze - Scenario Disk Two - Case White.woz
 68f9451aebdbcb286f5e4e82a66e90bc	Europe Ablaze disk 1A - Master Disk.woz
 7b1996613db42b5fbb1ef38949dae6bd	Europe Ablaze disk 1B - Scenario Disk.woz
 190f5264f31d301bae8367419f05c45b	Europe Ablaze disk 2A - Backup Master Disk.woz
@@ -817,15 +1045,21 @@ ca28c48bb5e05db4bc305d3058168733	Expedition Amazon side B (boot).woz
 bd1da8169d4e8b75e8648de800678a41	Exploring Gas Laws 800K.woz
 a57706223cc84181d54d2274e29f56a7	Exploring Gas Laws.woz
 292e9f7d168469f6b29ecc629ea28be8	Exploring Science- Temperature.woz
+592f6dd1fdb0e9acd9068262d6933051	Exploring Sequences and Series v1.0 800K.woz
 d9b5ea0fa254a1bf0807423fedc4a9c2	Exploring Sequences and Series.woz
 aa7d750c00d30a3dbf75003a26e34adb	Exploring Sorting Routines v1.0.woz
 bdd06502ff4f03a45897bcbf3c0458ff	Extensions to Applesoft BASIC v1.0.woz
 b5a111b95925be6d1b4d76c1667153da	Extensions to Applesoft BASIC v1.2.woz
 241bacfa7a0615b8bae373c7ec1257c1	Extra K side A - DOS 3.3.woz
 63bb9506efc855de4203faff6aefdc68	Extra K side B - ProDOS.woz
+c2cce769511025b96651e04fd8c85703	EZ Logo Revised Edition v2.1 800K.woz
+3c5f2e0fca27a922545315a3a3446ff0	F-15 Strike Eagle rev. 1.woz
+345f8e133be01d23436e403f73871108	F-15 Strike Eagle rev. 2.woz
+94e0e66d0380d73b2ff1721ba55b17ac	F-15 Strike Eagle rev. 3.woz
 0086434fdde22da27382924ae1de240f	F-15 Strike Eagle v1.4.woz
 0ef3495d8fd2949288bf6eb27563430c	Fact or Opinion v10.15.87.woz
 eadfc46c55b575d8be4be953a7c76fd8	Factor Blast.woz
+c8a8cb7a597920d30098e188e4310af9	Factoring Algebraic Expressions.woz
 95f89554f2e7cb1e48758e8539652406	Facts and Fallacies 800K - disk 1 - Master Disk.woz
 b5e223887938588ae095c9b2b4d1c1a1	Facts and Fallacies 800K - disk 2 - Fact Sheets.woz
 04ccea2f2ceb8964ee2dac0196df1897	Facts and Fallacies 800K - disk 3 - Data Disk.woz
@@ -849,22 +1083,28 @@ f79d43ea1e5a1bfd025f427f4f713b77	Fantasyland 2041 A.D. disk 2B - Dante's Inferno
 479b126ca420da4aba604808b019a7b5	Fantasyland 2041 A.D. disk 2B - Olympus.woz
 e8c469f3e2c41ab5140b2c65bdd34a8d	Fantasyland 2041 A.D. disk 3A - Captain Nemo.woz
 6102173ed44b06f99f9dcd5fbd006437	Fantavision side A - program.woz
+3a0fe169e708a9f9f2fe11ecb5592054	Fantavision side A - program.woz
 8eab0a79608d44c56d4ac92b5330c353	Fantavision side B - demos.woz
+f9efff864715d24ab8a46a5e3a112c1f	Fantavision side B - demos.woz
 e681e41c7da3596c2a8940f744f45ef8	Fat Jack.woz
 0aac39a4ed9855aa4384715c9259bea1	FatCat v2.0-1984-10-26.woz
 9084d0c78b76686d6a1a3e089f24bcba	Fathom's 40.woz
 823dc41674df0ab224b199282a58c4ba	Fay- The Word Hunter 800K.woz
 91485013624dd5038c061c92414f3995	Federation.woz
+e2b8b17b754b8f4026469c4e90029aba	Fender Bender.woz
 0d46d3e2d14f2063ae0f76d074402c3e	Fight Night.woz
 2551355c75b328b0784b4c47b7eb7528	Fighter Command.woz
 75d5b54af7c90fa2cb79f249ac75d601	Find That Tune.woz
 4f1caf9be94e73af0f5fbdb3ca8ae870	Firebug.woz
+7580edd1ae34314fca0b16a6d1c64099	First Aid with Reddy 800K.woz
+69e14d05c182227ebe2ccf03d054fa3e	First Degree Linear Equations.woz
 f071a04d695b87f18e9fc69ffea06cd5	First Encounter side A.woz
 6728b3144bc9263c02b87455e9751a38	First Encounter side B (boot).woz
 0d6de58e364b2424934ee19077dc2951	First Verbs.woz
 559fb509ebe8e79f332550e15650bd99	First Words II.woz
 5f893aab2cb2f3cdd4954da6747c1bf2	First Words.woz
 98086617157f2fb9c5be52b80d6c28b2	First-Letter Fun 800K.woz
+2b536ab45ca54be4bf2332d446a154ea	First-Start Writing Program 800K.woz
 d3d0ef7b39fc30150204ea4403c6d28c	First-Start Writing Program.woz
 a18db4660cea65602af79e0c95a2d5f0	Fish Scales v4.0.woz
 c1a78cc7d96a03bda8f2a2d1dfe99b84	Fish School 800K.woz
@@ -873,6 +1113,7 @@ c1a78cc7d96a03bda8f2a2d1dfe99b84	Fish School 800K.woz
 bb9a0a76b664181b77cd562262809f6c	Five-Star Forecast.woz
 3a6dacb4fc608c294f6fc4a0086ddba9	Flex Text.woz
 f1592aedc65ac9a8e8a5268dd53afec3	Flight Simulator I.woz
+0b90f2c80435fcc9e83bfc31797d5021	Flight Simulator II v1.05.woz
 d7476d58c77bac6e45a3d02025e8cdbf	Flight Simulator II v2.0.woz
 18cc15c721a3dd6fcea4d17337e4396e	Flight The Aerodynamics of Model Rockets disk 1A.woz
 14c69e5982fbb9b9c837b424087f7635	Flight The Aerodynamics of Model Rockets disk 1B.woz
@@ -880,6 +1121,7 @@ d7476d58c77bac6e45a3d02025e8cdbf	Flight Simulator II v2.0.woz
 0431fcece1856dff5949a53ffd57af75	Flight The Aerodynamics of Model Rockets disk 2B.woz
 ef9a1f2d2152fb69ecaed534d44a21c8	Flip Out.woz
 0f08beadb701efdf31e31c9540d0f6d0	Fly Wars.woz
+f6886ea6e921ebd677308403dd94376d	Follow Me.woz
 9be38151bf4cd9ac1c7c9ddfdef5a1f2	Following Directions - One and Two Level Commands.woz
 c28896198bb3bac91c782b341d4415db	Font Mechanic side A.woz
 c7cc388988d6325e6c46fb29507382d9	Font Mechanic side B.woz
@@ -892,6 +1134,7 @@ eebbc2307aa192f85dd1f72529f36973	Formula 1 Racer.woz
 5d920aa3e172a5bc6dcf9ec93cb387d8	Fossil Hunter 800K.woz
 f7842261a7e4eb8d612590ef1f400718	Fossil Hunter.woz
 bf9582e54de52def363cd603c984b098	FourWord & WordLift.woz
+3f1335d5e1341090e736887679463b89	Fracas.woz
 ae301c25c051a124d0a50221dc457b70	Fraction Concepts, Inc. 800K.woz
 3e5b94a7465949ff68784137f9022c9e	Fraction Concepts, Inc. v1.2.woz
 3ba74d783fec8d43270f6f92cace7a50	Fraction Munchers 800K.woz
@@ -908,6 +1151,7 @@ be521d5de4aa5fe6b9fef73ac740d5be	Frame-Up v1.4.woz
 01010d1d49191dbe6fcb4edaaa7606bc	Freddy's Puzzling Adventures.woz
 1377f6a0405aaa234da9d0728ad13017	Free Fall.woz
 b530f06caf819fd6e97a8b78bbb452f1	Freedom 800K.woz
+d81aec49118fa2bfdaf8e91dac1b3fff	French Achievement III v1.0.woz
 fac6cae21e078410401fa82f861463c1	Frenzy & Flip Flop side A - 13-sector version.woz
 eb42e2f44072d27c979fdcf412e3c087	Frenzy & Flip Flop side B - 16-sector version.woz
 737266d0dd2f0407e56e2bccfbc12c76	Friends or Lovers (Softsmith).woz
@@ -917,6 +1161,7 @@ f03195e9fac7e2d69bd94d0189eeb141	Frog Jump- Ordering Numbers.woz
 1d7bdf2be1ebe6f04323026a3fc0d93a	Frontline.woz
 27c5912e9b455fe9c914a2d26938f8e8	Fun from A to Z 800K.woz
 604ed0a0e4d016caf2b683006ac1b769	Fun from A to Z v1.0.woz
+f2356e4793925d37ffb7c672889117a4	Function Plot.woz
 0226f3f9f72cea5804a5593ca9edc0f0	Functional Harmony- Basic Chords.woz
 ba5a7d7b603ccd12b0eab5a1aaf73eb9	Functional Harmony- Borrowed and Altered Chords.woz
 ce1e8ca0883e5e0b6b6a6288e8dd46b0	Functional Harmony- Diatonic Seventh Chords.woz
@@ -956,15 +1201,20 @@ beb6ea83809b3b5a9d32427308f2d260	Generic Computer Games.woz
 aa3a5858b3539e463416cc58390417aa	Genetics v1.1.woz
 95c217a1459e70304165af18d7152661	GeoArt.woz
 9acc5ee6db516076460a65879bd05abd	Geometry Concepts v2.1.woz
+04a28ff0b8d31c9dbf782b95671e0c89	Geometry Workshop 800K.woz
 a2628318647b25294025867dbf8810c8	Germany 1985 - Disk 1, Side A.a2r
 ba9baf2af50d787d8e8b2b8db6fd5ebe	Germany 1985 v1.0.woz
 40296db3ebd16f7a4dba7f0d7f8d9674	Germany 1985 v2.0.woz
 ba9baf2af50d787d8e8b2b8db6fd5ebe	Germany 1985.woz
 3ee4efade068ecc9c52c41b0e7aa5158	Gertrude's Puzzles v1.1.woz
+8133ac9a4bc8c611c27128fb5ad1c1f2	Gertrude's Puzzles v1.1.woz
 f4e17ef04e48fbc48028fe8bc6f31bf4	Gertrude's Puzzles v1.2.woz
 8880200f01067246bd92b03686a2d947	Gertrude's Puzzles.woz
+2a008e6ca86049fc957481b883aa4293	Gertrude's Puzzles.woz
 7d50431cd524bdcff2eb2ca87d1dc7b6	Gertrude's Secrets v1.0.woz
+007e7ba0441a9aa2ccc21ae1792f794c	Gertrude's Secrets v1.0.woz
 b791917a6e9e9e06775191b0664a0f2a	Gertrude's Secrets v1.1.woz
+1af72a5270bf08a5fafdf90e92508640	Gertrude's Secrets v1.1.woz
 6630447de6b17f5ac459059a6902adc3	Gertrude's Secrets v1.2.woz
 249c4f53d38f0e1cb6952fc9e73f9a45	Gertrude's Secrets v1.3.woz
 f4c7b905e71e8ff174dc13c4089428e8	Gerunds 1988.woz
@@ -975,6 +1225,7 @@ e43b0d6dcf39c6a5f8a0c43463417bd5	GFL Championship Football.woz
 7895d08951022e99de2397eed24e63bd	Ghost Writer v1.0.woz
 064fb1fcc3b0dc1be3331928570d9020	Ghostbusters.woz
 ff0f45750cb9bc78b791d29fab1f836d	Gin Rummy.woz
+97d34fd13251bf4593d0a5bc194f8c06	Global Thermonuclear War.woz
 3542196427416ffcea7a14375095b6c7	Glutton.woz
 29f7c268e387040862bb87865a1ceecb	Go.woz
 81530df7ffeae8a82d0e0c816e60e1d6	Gobbler.woz
@@ -995,6 +1246,7 @@ bb76158b741ed7d5e9c403858149ecbe	Gold Rush! disk 7A.woz
 18df775193b32eab624b8bf1cbc39e61	Gold Rush! disk 8A.woz
 9b9a67399b2cb7ff3dd4e9d2270a2321	Gold Rush! disk 8B.woz
 c7b23611df80aa3f34b871565ca263f9	Gold Rush.woz
+d28e68eb3f2efed31d9aee6b12adb4fa	Gold-Dust Island.woz
 ea5363e3098f06a96edbdffa2ab194d3	Golden Mountain.woz
 93471114554ce48cb39f4bcc427b6103	Goldfinger side A.woz
 495708ad4fc52fee7720ff663fc487be	Goldfinger side B.woz
@@ -1020,6 +1272,8 @@ ff69f0b43b0664f29bb2d7d9f7e9b2ea	Grammar Mechanics Level 1 side A.woz
 607698170944a7f6de5483599eed7e1a	Grammar Toy Shop.woz
 e258851f77fb9d7a2eac4f0d79d24622	Granny Applebee's Cookie Factory.woz
 3650ae33675cb02e1e354f7e52ec053c	Graph Maker- Introduction to Graphs and Charts.woz
+906b4164a378d3740637d60700e60f2f	Graphics Master - Disk 1, Side A.dsk
+2edb6a7d8b88ddad1331855f567316ee	Graphics Master.woz
 883be6f2b942d6b1f2377970e852f046	Graphing v1.0.woz
 08e6fe22412c70d84c7f9e88b88db8ad	Grapple.woz
 e3a5e8bb0843cf419fd05298cb6d14ac	Green Globs and Graphing Equations.woz
@@ -1029,6 +1283,7 @@ e3a5e8bb0843cf419fd05298cb6d14ac	Green Globs and Graphing Equations.woz
 4f9f28f83d20d82c5af5594bca0547ea	Gruds in Space side A.woz
 31bc6c4384214e30bec990b097628612	Gruds in Space side B.woz
 538d3e61b6c62bf8ba7c594bce7517bf	Guardian (Softsmith).woz
+c6297a41647a767a89f181afd76b2a1e	Guardian (Softsmith).woz
 96b326513a6c4340678fd754e82a891c	Guardian.woz
 c05b80a8ecb348996df30117671d32d8	Guderian.woz
 1e10b36153785d14a613afdde4028d1d	Guitar Wizard v11601.woz
@@ -1049,6 +1304,7 @@ fe13ab58f0e2ee133ba2d36ff9a96377	Hacker.woz
 17075119bc721afecf1103b2e6208961	Halls of Montezuma side A - Master Disk.woz
 b335e36a64ea6b921a01e72a7ad006fb	Halls of Montezuma side B - Scenario Disk.woz
 b48ee9812d09b0627df0f3ce2c65b8cf	Hands-On Math Volume 1 800K.woz
+39c04e9c5d3d12eb1ef2fbbbd6af36b0	Hands-On Math Volume II 800K.woz
 36ae203e160d247f6ba91a62a05cfe92	Handy Dandy.woz
 aba173f5138eb06495c484aa0fca25b2	Hard Hat Mack.woz
 fdbc50c8ecf47da248140cacee8bdf9c	Hardball.woz
@@ -1058,8 +1314,10 @@ c141565b832f69fbe267a1a6aa4ae52d	Heavy Barrel side A.woz
 2c09a276cc1fb05574d23f28267cd5a1	Heavy Barrel side B.woz
 d129d56816d617e90439606397b4870b	Hegira.woz
 c48711ac2dc98267c85d4dd816490fa5	Hi-Res Football.woz
+59e44203aee982bc555b9092d4e5455f	Hi-Res Soccer.woz
 fb0952e530ae581b81012d658f6ab127	High Orbit.woz
 5f81fdf5ac5e0cec01ed461f50d466a1	High Rise.woz
+3c802fc6d86b6075e2a5ca6c1b5facd1	High School Math Competency Series I.woz
 4e65f9a48a128bf094c7faf078066c77	High Wire Logic.woz
 671917d7a3d0675beb256e2833c35098	His Majesty's Ship Impetuous.woz
 1644a3db8ef7509f6e32d75f826e88f9	History Makers 800K.woz
@@ -1067,6 +1325,8 @@ ae24986cb836c00fa5fa3a91e6a0ba82	History Makers.woz
 1db19a83b462730dc6276a89c6109679	Hobgoblin's Revenge side A - program.woz
 f8219c98762e47965ca01c0d8c4adfa6	Hobgoblin's Revenge side B - source code.woz
 cd34ceacf2512f004d5472fa19ccdea8	Hollywood Hijinx r37.woz
+b4e7ba408ec7e76182e93bf681bbc7a2	Home Accounting.woz
+55a3f7288e311883f2de133f1311c3a0	Homeworker Demo v2.3 800K.woz
 983f9af002cfa3c50ea0d43b012628ff	Homonyms v01.19.89 disk 1.woz
 fa2364d0907bbdb85ce0ab16ecab7fc4	Homonyms v01.19.89 disk 2.woz
 4322bca34f259a569829e7ac4ec2f351	Hop To It.woz
@@ -1080,6 +1340,7 @@ f5ae61f3eada10544bf59a8f6011283b	Hyper Head On.woz
 d7a5f44670db5825429ad9cca18a3d41	I, Damiano side A.woz
 b194e8327fb23d29bf6420990a5128d6	I, Damiano side B.woz
 83167a22ec15ec21dbf0ac1d42b3dff0	I.O. Silver.woz
+f685e06a57e7168a7dadbccdb3bb9187	Ice Demons.woz
 a908ec0a10118ff182ac2dcf225eadee	Iggy's Gnees.woz
 61e84ce65b439bac6da69111d24b8d7b	Ikari Warriors side A.woz
 92032f955d2ab960b9900c38df878f11	Ikari Warriors side B.woz
@@ -1093,6 +1354,7 @@ b7ff77f70a15a05295f8a7b104bd8907	Indiana Jones and the Temple of Doom side A.woz
 71e31e6ab2bf001f7838e75e9811ca33	Indiana Jones and the Temple of Doom side B.woz
 5e88c857a1e137a8988c502274316dc6	Indiana Jones in Revenge of the Ancients.woz
 f9cbbd9fc2900af8b453925571ef2513	Inferential Anne- Level II.woz
+d836dc385f7c8f42a930d638a1aecccc	Infidel r22-830916-A.woz
 2b9ea7a3ae47734335a6ceabfea574a5	Infidel r22.woz
 e6eddf5be570c05b49a410086c0a99b3	Infiltrator II side A.woz
 ad412a56cdbc4adfb3d5d9be34b45efb	Infiltrator II side B.woz
@@ -1114,6 +1376,7 @@ de10ee8b1cc07525c5dfefd4bcbb271f	Into The Eagle's Nest.woz
 0a76eabc232988f9f3bf23c95e324b9c	Intrigue side A.woz
 6ef19ed668f3598d60f460619ecdd0ba	Intrigue side B.woz
 531f03c82ba4a89fb8084a90afec9532	Invisible Bugs 800K.woz
+bbd14f130e7907c9a9f804494df881f9	Invisible Bugs v1.0 800K.woz
 0d824b5666fb03186cd1684f20802886	Invisible Bugs.woz
 3ead0153b7077f97d19f3f76e7337f98	Israel's Golden Years side A.woz
 3826837b862f437e432f715bc78e17f3	Israel's Golden Years side B.woz
@@ -1124,10 +1387,35 @@ d8a9dc9430b15f1b921c4569724c9921	Jawbreaker.woz
 e3cd111ab75e57e9647469c2645113f6	Jaws disk 1A.woz
 7a98c9222ace4dab2aa5b5d7698ae18e	Jaws disk 1B.woz
 04564a27a73a143c72189dc8c7a54458	Jaws disk 2.woz
+47774a72b11fd49b84f28c29cdd3b463	Jeepers Creatures.woz
 87854465ec5786dfd3fe3b5b11737dd9	Jellyfish.woz
 4b3b7b3d615cb2f12850840b29cdadc3	Jenny of the Prairie.woz
 dde4edcb2375332126cff8bc0fe3cedc	Jenny's Journeys 800K.woz
 5ed0447db4e07ff580d4d78a5493f3c7	Jenny's Journeys v1.0.woz
+c6de52dcd01db49243e2904447f2674f	Jeopardy 25th Anniversary Edition side A.woz
+b5c3de121d091c36a1a132136fafe652	Jeopardy 25th Anniversary Edition side B.woz
+4096650079ad00d89fdcbe94b68f8607	Jeopardy First Edition side A.woz
+68e84ef49c777c8cc34f73daebb6379a	Jeopardy First Edition side B.woz
+a5a895fdc28332956f12a11e9f3d6192	Jeopardy Junior Edition side A.woz
+216c2638ed38ed9e1e993d4b4b612077	Jeopardy Junior Edition side B.woz
+eb41f48901b60eed610233e2b76f0999	Jeopardy New Junior Edition side A.woz
+45ae8e3bf46aabcc3dc0fa8c8249e235	Jeopardy New Junior Edition side B.woz
+8b6e2975c787ffa515e4da5d101aa529	Jeopardy New Second Edition rev. 1 side A.woz
+9a03b743d462a1d6b872af90b4fcec90	Jeopardy New Second Edition rev. 1 side B.woz
+2f70f935889a775b6296d9a8fa9ea1c3	Jeopardy New Second Edition rev. 2 side A.woz
+1c429d91f9c1cff26988f356a2f77fb7	Jeopardy New Second Edition rev. 2 side B.woz
+a15b2c73113bbb66b8e138e039dcaa4e	Jeopardy New Sports Edition side A.woz
+3179315a75da9c6b980b80b00b6155c9	Jeopardy New Sports Edition side B.woz
+03436a3d7d18ecf5a15b18422449ce1d	Jeopardy rev. 1 side A.woz
+2a1682378e94e51c776b55896f4540ae	Jeopardy rev. 1 side B.woz
+a376e2f77428278dadb52e3f5b0ea515	Jeopardy rev. 2 side A.woz
+fe01daf8e72516cfa65e9179be5ade28	Jeopardy rev. 2 side B.woz
+d3d9b0c1c93014b0935c5898c6ac4dab	Jeopardy rev. 3 side A.woz
+1b6866a5105f1beec933a545cfa294b0	Jeopardy rev. 3 side B.woz
+255fa2e7970672c679df9bdab4d42791	Jeopardy Second Edition side A.woz
+742c4a30bda3587ece20cdb61417fb11	Jeopardy Second Edition side B.woz
+a6e81c64c3ad682b1b362749a1af90d9	Jeopardy Sports Edition side A.woz
+692a88bbc9ee8dd9353e011fcc8ae9e7	Jeopardy Sports Edition side B.woz
 1404a6531ed7c7911b623ed98072daf2	Jinxter disk 1.woz
 34f59a88b7b0e8842b50c65efc6d3236	Jinxter disk 2.woz
 f203a90f1fae1b1625b23f37f963310c	John Elway's Quarterback.woz
@@ -1149,6 +1437,8 @@ a7937c743356d7b392f073f9e2a055a2	Jumping Math Flash.woz
 dddcdd95df24ec4a9f94cce2e0c4601d	Jumpman - Advanced Levels.woz
 5e5eed64d6e2c01c16d3fd5fd865c42f	Jumpman - Beginner Levels.woz
 ca14457bd7e9e7606774c8365a9a64bd	Jungle Hunt.woz
+caba6349a41e099bdc5b56af194d174a	Just Around the Block disk 1 - program disk.woz
+504437a6195c068289a12451d5a018a1	Just Around the Block disk 2 - student disk.woz
 4855570a019af722a543f824d5c6525d	Kabul Spy side A.woz
 4513a47f3ddf1791f341651f83cac48f	Kabul Spy side B.woz
 88fde8586f7fe48a8a8cc00052a4b685	Kamikaze.woz
@@ -1159,7 +1449,17 @@ ca14457bd7e9e7606774c8365a9a64bd	Jungle Hunt.woz
 086dd2ff8a11bd13cbeeb5a0018f09b9	Karateka side B.woz
 2d4b51df24ae432438ecc855274b80a1	Karateka.woz
 4c1a4701adc6975c02782e298b2fa0a4	Kaves of Karkhan.woz
+a0bbdcdf9a52bf251e859bf262118de8	Keyboard Arpeggios.woz
+8421b19ba10dd861ef961ba5edc4eefb	Keyboard Blues.woz
+398f36be928cda21763e112f744259ab	Keyboard Chords.woz
+8dca59e87937bcfd19514c8e1316216d	Keyboard Extended Jazz Harmonies.woz
+e8dbb50078d3c6dec6cf0329c9261557	Keyboard Fingerings.woz
+8e9b21933f4bc74525fd2536e12af311	Keyboard Golf (Softsmith) side B.woz
 eea91ef5d0ffbe9e965040454d0ef955	Keyboard Golf (Softsmith).woz
+5c8dd78e8762dbdd84170bad7ad146e7	Keyboard Intervals.woz
+41df3d7a33873fbb73a3a498740268ad	Keyboard Jazz Harmonies.woz
+0186e0ad0cac487334aaacf024084da8	Keyboard Note Drill.woz
+130d1303f58db7be3af57db7d404b9c1	Keyboard Speed Reading.woz
 cb2382c87a571e16135454f36c3f3164	Keyboard Tutor.woz
 9ebb8c5e3261dcb2d96efd40f9de38c6	Keyboarding Master v1.0.woz
 6ec7c849f66533523c7910c40150007a	Keyworks.woz
@@ -1209,10 +1509,21 @@ b3ab225f9999018d396f2090434c0298	King's Quest IV disk 7B.woz
 2fd4768b0b84fcc1d699bd89d58c4365	King's Quest IV disk 8B.woz
 311be4924b1c5f3683d4e23e1de295b8	Kittens, Kids, and a Frog v3.12.86 disk 1.woz
 9eb6b8892f6af1e24adad4c5189e4a03	Kittens, Kids, and a Frog v3.12.86 disk 2.woz
+7a9aa1fa0b3e834173239e0cdafdeac1	Knights of Legend character disk.dsk
+1371b0257cab3af4d46af328252e7922	Knights of Legend disk 1A - Master A.woz
+08d2bccccd98c017a99173751cd3f367	Knights of Legend disk 1B - Master B.woz
+abacdfb762aab798cfd2b6489a5b279a	Knights of Legend disk 2A - Ashtalarea A1.woz
+46f721e2998425c8cc9339502fdda5f1	Knights of Legend disk 2B - Ashtalarea A2.woz
+53c68ef48645d61aacc6bafa285636be	Knights of Legend disk 3A - Ashtalarea A3.woz
+9b5288acc9334ee7a3eea8baff73e23c	Knights of Legend disk 3B - Ashtalarea A4.woz
+866a3e66b4ffe038f2a6216f6c2c9a22	Knights of Legend disk 4A - Ashtalarea A5.woz
+d2e039f5557fe5ccf3f4e825405b861d	Knights of Legend disk 4B - Ashtalarea A6.woz
 e51b0e7aa9ca717e8c3168610658c0c7	Knights of the Desert v1.1.woz
+0c87874c959874171b27539762c5457b	Korg-800 4-Track MIDI Sequencer v1.0.woz
 8f4e0de7df91c3043c651e15751a9492	Koronis Rift.woz
 835f4b002fe48cc22c036e8dde2f3d42	Kraking by The Disk Jockey side A.woz
 9b86a5a4e24cb41a87b007d549e5ff73	Kraking by The Disk Jockey side B.woz
+fab446da26490f52b46e744d4531f070	Kraking by the Disk Jockey Volume II.woz
 4b2d04d000663e496ef2bc52e8f40c11	Kukulcan side A.woz
 e3627408c9b2184d5a2383a57e160840	Kukulcan side B.woz
 8738f7299220b2d94e7585bb6723c122	Kung Fu Master.woz
@@ -1223,6 +1534,13 @@ e3627408c9b2184d5a2383a57e160840	Kukulcan side B.woz
 fb53bf679c83cb03dd1e225586270eaa	La Geste du Barde - Disquette Donjon Face 1.woz
 28b0f7d52b7cd4181651b2600c47b78e	La Geste du Barde - Disquette Programme Face 1.woz
 843f8f95c1f80ede0bfff950280a65cf	La Geste du Barde - Disquette Programme Face 2.woz
+648c41868cd6cf720ff1663b3d41c6dd	La Triviata disk 1 - Game.woz
+491b1c8be2f8747d02453fa21137a357	La Triviata disk 2 - Questions 1.woz
+83c43f873d55d89a02e82bcd29a55bb5	La Triviata disk 3 - Questions 2.woz
+ac017430ff94cbb97a8c08ad9ce39d59	La Triviata disk 4 - More La Triviata 1.woz
+50d7dc071d0db824a708fde674f41750	La Triviata disk 5 - More La Triviata 2.woz
+989a8147ff481eb78770ab00d46929ee	La Triviata disk 6 - Sports.woz
+357f4f6367f3c99c97a5db0862b0a398	LabelMaker v1.0 800K.woz
 51a8723c2ecd8d5dc7cd20be13b10821	LabelMaker v1.0.woz
 cdba8da3695e1e6de20536bb26852548	Labyrinth (Activision) side A.woz
 f82494ee0d49be1e8f7b38f2458d1c0c	Labyrinth (Activision) side B.woz
@@ -1243,6 +1561,8 @@ c5144e8c68450195cd5f84efad5a43ae	Lauren of the 25th Century.woz
 21c946cf1d45f1b8bcb4e82f30e2271b	Lazer Maze (Softsmith).woz
 1fa42993b53deedb9983f7a9537d2246	Lazer Silk (Softsmith).woz
 30525c9810d5819dace07a86899d73a3	Lazer Silk.woz
+7359c93ce9b822fa9f83d3cb0c585b95	Leadsheeter.woz
+69d50bed02d97155a124738097ec4e54	Learning Through Logo.woz
 7b1eee5c61a4f96d46f100140fd7d9bd	Learning to Add & Subtract.woz
 c03fe188cc35edb8b094e1f84b0f2a29	Learning to Tell Time.woz
 f3175ef6fefa1c7a9ac3653fcc1b7857	Leather Goddesses of Phobos r4-880405-2H side A.woz
@@ -1258,6 +1578,8 @@ bc7cb21febf7b3e6b405fae9fa03a4e8	Leisure Suit Larry in The Land of The Lounge Li
 a4c727ffd18b58414b1cd6c975829de2	Leisure Suit Larry in The Land of The Lounge Lizards disk 2B.woz
 48efe5e32963ed8b794221b0f5283972	Leisure Suit Larry in The Land of The Lounge Lizards disk 3A.woz
 ccaa8bb8544b5c0292b2e964dd16e5d5	Lemmings.woz
+eb2a7509a7780675b7728a23a219cae9	Les Sports disk 1.woz
+802aab5e63549cf3577c26612a33ded4	Les Sports disk 2.woz
 f971d22484fc12be52cba0c6255b38ed	Let's Go Fishing.woz
 d52b03f79997446aac5dfd32b509ea32	Let's Go There- Beginning Map and Geography Skills.woz
 b27a87ee9759842ebbedfe2645b6cb97	Let's Learn About Computers.woz
@@ -1274,6 +1596,7 @@ b00101649715f6725979b723cabd6c91	Little Computer People side A.woz
 a8f5687e5a2229fd3fd71e50bb3d1cb9	Little Counter v1.1 (Softsmith).woz
 4ceedc3eab07f1fddf1bfa3e2d1242ac	Littletown Zoo 800K.woz
 b0d24ac4333fcc4ee235207b67a31030	Lock 'N' Chase.woz
+42c1d2b644620c9e32c0f59c30d1ef11	Lock-It-Up Copy Protection System v5.1C.woz
 ed9d6b8b2f6f1e611654105d0005e593	Locksmith 4.1.woz
 c844e234f48703598494b780afc47ea0	Locksmith v3.1.woz
 2584027bd4033b27008becb90bede4e4	Locksmith v5.0C.woz
@@ -1289,6 +1612,7 @@ f491b82b944c8d55c7ce82c3056df556	Lode Runner.woz
 a11366ac7588f6f071eb531c9a77a73a	Logic Tools (prototype).woz
 ac4bd5a970ba93281a96e143a80c63c0	LogoMotion v1.2 (Softsmith) disk 1 - Program Disk.woz
 4a08ebaf0950157fc6c83cba43deea83	LogoMotion v1.2 (Softsmith) disk 2 - Utilities Disk.woz
+7837ee3c81db1bd026aeff403f708eed	Long Division.woz
 63b8f47dcb07b177aee7b3474a3360a4	Lords of Conquest side A.woz
 e582dfaae88da891a96ee89c9a7857b2	Lords of Conquest side B.woz
 eaaaeed045b6bd594b34c7eafb3eb820	Lords of Karma.woz
@@ -1313,10 +1637,13 @@ cfb2f4d2df3042855ba56c06572b8bee	Magic Spells 800K.woz
 474046e2c52a067945f51ea300008c0e	Magic Spells v1.0.woz
 c17c272c2980f68f7a65d1751d630a5e	Magic Spells v1.1.woz
 360cf881f6d03271076073d311a63dee	Magic Spells v2.0d.woz
+0e1cc2bfc58d4cd54d9443b80c0d0077	Magic Spells v2.0d.woz
 849a6a846be9a22e42e099970c722267	Magic Spells v2.1x.woz
 d7f73bdb43879aae9bf3c040bc2f7d42	Magic Spells v2.2 800K.woz
 36835e3d66ddf96bb01c04638706768a	Magic Spells.woz
 0f984d92787cf5165271d103776beb70	Magical Myths.woz
+170f2ab8256745b02721f0a4de6bffa3	Magneto Bugs.woz
+1fa7c4e3e71461783fbcc4caf68a11c4	Making Circuits.woz
 5b61d0765e50db9092948925fa0c64d7	Manhunter New York disk 1A.woz
 62f2e8f537fdfa9c5a5caedd12908916	Manhunter New York disk 1B.woz
 a4779e016e9cc63f2c6654f81bbec9c3	Manhunter New York disk 2A.woz
@@ -1331,7 +1658,11 @@ fdfbf4aa11ee5831a45fce670a6de398	Manhunter New York disk 6A.woz
 7a89e8365eef696e273a18e786080c28	Manhunter New York disk 6B.woz
 18ec40ab05a0a4b6a9344ed5ab398f20	Maniac Mansion side A.woz
 fa971de45d11f586136d12adda9cfc3f	Maniac Mansion side B.woz
+7640234c1daccdbc85811fc126dd2e5b	Map Skills.woz
 e42936ff7f6077d21f72170f281d7789	Marauder.woz
+a544838313dccc28a275352cf57f4a8a	Marble Madness side A.woz
+9c409d8f6f3f23b8efc8e309e9bdb9e8	Marble Madness side B.woz
+f5ffe9d1f9a565760b945578c2bf4ed5	Marble Madness.woz
 5464b68e53e66d1100db806656b2b39d	Marine Life- Invertebrate Anatomy.woz
 51c6ec4cbd8dbb598b507bfec0382e79	Mars Cars.woz
 f86625fc9de014c7703b8fe66d7bb160	Marty's Family Reader - Disk 1.woz
@@ -1350,14 +1681,20 @@ d7fd3dab9a228da8668981938d629db3	Marty's Reading Workout - Disk 4.woz
 4f48f28df8347b3c700635353404bb34	Marty's Reading Workout - Disk 6.woz
 c83b169593af81334ffca3474b019045	Marty's Reading Workout - Disk 7.woz
 bda30762c7dfdde23d0f76fda4000fe7	Marty's Reading Workout - Disk 8.woz
+cc6781067645b9f6b632ef5b6eed25ab	Master Catalog.woz
 03617b14859ade94fa8a3ff0f71560a5	Master of the Lamps.woz
 73bb5cde2741d00c9e49f2d6aab10dff	Master Spell v1.3.woz
+697023e11514016f40e4d92cbc1f26d3	Master Tracks Pro v1.2.woz
+e54430f6d0c00812b0b36859eead95bb	Master Tracks v1.8.woz
+ab677c889151aa354e26cc2deac5d831	Mastering Math Diagnostic System v1.2 800K.woz
 1122953e84b1115fdd25780549ac6a96	Mastering Math Worksheet Generator 800K.woz
 40c4948d209cf6114eddda7e20c3a9f8	MasterType v2.1.woz
 a11fba68b669bc921255b9439cae3667	Match Up.woz
 3ec9bf18c6f3fc0e8af1da2964f3a816	Math and Me v1.6 800K.woz
 3bd6c353b3ec3223be103884f5b5ba8d	Math Blaster 800K.woz
 367a7e811d79caf5966c937859944bec	Math Blaster Mystery v1.3 800K.woz
+58013e11e9494360ce26c6ab1e9294e6	Math Blaster Plus v3.3 800K.woz
+20b001ff345e71361fd4c9fd83e89bce	Math Blaster Plus v3.6 800K.woz
 93b172219a448047917b6abaac37c4d0	Math Blaster Plus v3.7 800K.woz
 760e6f96c376afa347d38e756a32564c	Math Concepts II v10.04.85.woz
 7b917c283ffefc1273d608001f7346f3	Math in a Nutshell.woz
@@ -1377,6 +1714,7 @@ e64a1c91c7fda8620ab370d0f41eabb7	Math Shop Spotlight- Weights & Measures.woz
 43f446e37a75b7ea63576c9f9097375f	Math Word Problems Volume 3- Sports 800K.woz
 5dc6f59b129fe8bf7f1955dca7cb462d	Math Word Problems Volume 4- Travel 800K.woz
 9e0dcf4aab9d0d91598b2182aa43d25d	Math Word Problems Volume 6- Our Nation's Capital Washington DC 800K.woz
+7deefc7970a7ada18e2f5505299da094	Math Word Problems.woz
 239ef15b31afa2f2996d7d302fd9889a	Mathematics Volume 1- Graphing v3.2.woz
 1d39a1777322a41dd2d01c16291e98ab	Mathematics Volume 2- Measurement v1.2.woz
 517cd9333e73e80a1fc643778ed8b3d7	Mathematics Volume 3- Geometry v1.3 (Limited Boot Backup).woz
@@ -1396,6 +1734,7 @@ c324797d64c646803d83c508e38185db	Measure Works 800K.woz
 990264235d26c4e92a6f97b54556ea02	Measure Works.woz
 a0ee94806e172ed94072a76817122f38	Measuring Economic Activities.woz
 b863a40f1d6dbf281d5b16bffcf2ef76	MECC Apple Demonstration Volume 1 v1.1.woz
+fefe97a291f568a45e351663567ed619	MECC Copy System - Label Utility v3.0 800K.woz
 4848b6827530ab0abf2dd11e93b6dbd0	MECC Dataquest- Europe and Soviet Union v1.0.woz
 617bf83757b112b359ad6ac3402663be	MECC Dataquest- Latin America v1.0.woz
 6efccf82dd0eb6a347aa465c3de73607	MECC Dataquest- Middle East and North Africa v1.0.woz
@@ -1409,6 +1748,7 @@ c9db349ed4c3898bc3dfe119dbe85c76	MECC Editor v1.0.woz
 bb3a5ae07166b7f8500c62a655875907	MECC Graph v1.1.woz
 1077049d68681b62a524e83f1beb0920	MECC Graphing Primer v1.0.woz
 80993524fa75893d6bcbada73354a25c	MECC Hi-Res Toolkit v1.0.woz
+0ba769ac6b5a7f508d368ae38bc495f6	MECC Outliner v1.0 800K.woz
 4621711c98426c9126c946c6e9d9e88e	MECC Outliner v1.0.woz
 313c7d50eef8f3f620ca4caa5d9d1814	MECC Stuff and Fetch v1.0.woz
 e73c4809c60edca3d3eb68d6fd24b0de	MECC Write Start v1.2.woz
@@ -1425,6 +1765,7 @@ dc3d618ae33a1d9ab8c3156098e30032	Medalists Series - Presidents v09.27.85.woz
 731990ca1661d4c5dce905eb6e07a158	Meet The Presidents (Softsmith) disk 4.woz
 fd6824aea8622cc71808689460f4eaa4	Megabots.woz
 60869ce4cd9dd6186d16962bbb468940	Melodic Dictation- Beginning Level.woz
+99e3cfdbaaf63adf676f76b9ff4c02ae	Melodic Dictation- Intermediate Level.woz
 b9479e2b3e5c885ec01a88cde7c202f8	Memory Building Blocks.woz
 7ee3b8f1643534638b84e3a6e4a76bc5	Memory Castle.woz
 ac902fb4ec27f86689ec40ff5ce72e07	Merlin's Castle.woz
@@ -1435,6 +1776,7 @@ e35b2902c962ab27f5e365884e548c6f	Mickey's Crossword Puzzle Maker 800K.woz
 a67c84b7cf76d6ca5ee665c4373f260f	Mickey's Space Adventure - Disk 1, Side B.woz
 eca76031d2df7c835dfad24dd971692e	Mickey's Space Adventure - Disk 2, Side A.woz
 3e6cd0a0479e4b0f041bca4ed32a23f8	Mickey's Space Adventure - Disk 2, Side B.woz
+099e0f2a96dfdba063f41616872a80b2	Micol Advanced BASIC 800K.woz
 16dcb48963e1a1314b0b0821f2b607dd	Micro Barmate (Softsmith) disk 1 - Program Disk.woz
 b9828ef5b0a6bb6e6045d8646af070d0	Micro Barmate (Softsmith) disk 2 - Recipe Disk.woz
 6cefdc4bb8b0ddf7a5e371936882be85	Micro Cookbook disk 1 - Program Disk.woz
@@ -1453,6 +1795,7 @@ b687934d47a6635ee45b86d30797f968	Micro Cookbook disk 6 - Daily Breads and Beyond
 b1d7414ea9155d07e62a21605a21be03	Micro Cookbook disk 9 - Food Processor Cookery.woz
 bf9cb780118f6034880215220fd844ae	Micro Invaders.woz
 6737cd7a4d28a4589bbffd7e340eb9cf	Micro League Baseball Box Score-Stat Compiler Disk.woz
+a15a63c1f86f0634e05182d568d9d5c2	Micro League Baseball General Manager-Owner Disk.woz
 2d135b5d45720edbcdd489f7a0c68efd	Micro League Baseball rev. 1.woz
 2498728812e38e50c43e2cfe24a7cd39	Micro League Baseball rev. 2.woz
 3a7de1edf1f6befae7866c3f2537e096	Micro League Baseball rev. 3.woz
@@ -1469,6 +1812,7 @@ d9d4e84f019673b3b5ff565439b82e78	Microbe side B.woz
 ccbc720984ad4f422c77a4358a9abdc4	MicroChess 2.0.woz
 def531573287d90cffeca9f2e118f170	Microscopic Journey.woz
 0491808946670f7e159c03f9003a6ac8	Microsoft Adventure.woz
+69640379993a4130fa49b421afb6da26	Microsoft Decathlon.woz
 83756916a847c1d7527d7dc99ada999a	Microtyping II.woz
 28d8d73d5f11714a8fb36d392232a34f	Microzine Jr. No. 1 (1988)(Scholastic) - Disk 1, Side 1- Microzine Jr. Guide, Eye Spy.woz
 62f24ede75fe73dd920ff68d3e1721e2	Microzine Jr. No. 1 (1988)(Scholastic) - Disk 1, Side 2- Mask Maker.woz
@@ -1635,6 +1979,9 @@ bd105270b1f039a528798aba87de1ac3	Microzine No. 40 - Disk 2, Side 2- Exploring An
 c80a40a520e79d29c57c872f120222e6	Microzine No. 8 (1984)(Scholastic) - Side 2- Secret Journal, Drawing Board, Back Page, What's Next.woz
 64c38e20b365d4e0f1bfa9764d359fc7	Microzine No. 9 (1985)(Scholastic) - Side 1- Letter from the Editor, The Big Nap, Computer Stuff.woz
 84b4424b7cff209b9d43bebccd7eeabe	Microzine No. 9 (1985)(Scholastic) - Side 2- Budget Maker, Quizzler, Back Page, What's Next.woz
+d264b674a5495e9c0b4d228a3090fc46	MIDI-4 rev. 5.woz
+efe772292fe1bc64935bf69b5389fe9c	MIDI-8 Plus for MPU-401 v1.2.woz
+84d71dd8044aa6f50a7fe498ad26e69f	MIDI-8 Plus v1.2.woz
 4a2fa0d94f44c6fbfce5230517a31fd4	Midnight Malady.woz
 f90629c1962cade2e7ca10022bddadf8	Might and Magic - Disk A.woz
 be5233b0d20615ec176fcf58b034ab07	Might and Magic - Disk B.woz
@@ -1672,6 +2019,7 @@ b38d27332f0e515404f2de462ca63aec	Mini-Pix Disk #3 side A.woz
 6de4f91e0df1662442ccdda6ed270e01	Minit Man.woz
 b5c6410247e7acec45f7346b0d9094b2	Minotaur.woz
 cac1444600a0299af98dad334b5cc4ea	MIRV.woz
+8b12fd64146427e6b73b6c4df10850d2	Missile Challenger.woz
 9b23392c8b0bd6a3797a27437c1e6fd6	Missile Defense.woz
 4cdace0399c61ccb173a4c1c6a5edf60	Mission Asteroid.woz
 8a06fe800f7f075e61159f6de46cce74	Mission on Thunderhead.woz
@@ -1695,8 +2043,10 @@ ccbd5ed1ca9913b80bff7afffbe4ae5a	Moebius side B.woz
 e7fdedee7deb09dffc43584c350d9313	Moebius side D.woz
 6f28cf8205be1d9b64f81aaf3771d26f	Money Munchers.woz
 5ff48817c45a2873d22ad77d5bd6aca3	Money Works 800K.woz
+81cd0845ba7677c62a62b291594a4f82	Money Works v1.1 800K.woz
 87bfc6e7a900f3c17c3927c704acb50e	Money Works.woz
 2ecb2464e2d62e44e440215c317ae56f	Money! Money! v09.13.84.woz
+798a25df3bbf5bf3ed96286b1bb445f3	Monitor II.woz
 291e5c183f321ff832dff275579d0976	Monkey Business rev. 1.woz
 9592fe36195981588c95f2b986689999	Monkey Business rev. 2.woz
 5705b67dcf75181bcba461f4e227ba64	Monster Smash.woz
@@ -1732,6 +2082,7 @@ f7e1d80885c68a4bbc3080b29beef41a	Ms. Pac-Man.woz
 464ab5ee6b8ef3ebc957172e6132dd7c	Multiple Meanings v08.24.89 disk 1.woz
 bafe0789d925898df6caab32cf3c86aa	Multiple Meanings v08.24.89 disk 2.woz
 1987220f68547e5431d9d058bd365086	Multiplication Puzzles v1.0.woz
+1bfd42f5d5fed231ff47db7475608273	Multiplying Fractions with Cancellation.woz
 296d4343f71e37dbf65d19b97fbcc44f	MultiScribe GS v3.01c disk 1 - program.woz
 8b7a7dc2d9f1d934ca3013ab4f8f7d01	MultiScribe GS v3.01c disk 2 - utilities.woz
 c67bf4fbd4a8c06edebafd4854a556f5	Mummy's Curse (Softsmith).woz
@@ -1757,6 +2108,11 @@ dff64548f1dd18378a7768927aaf21d0	Murphy's Minerals.woz
 6ff1cc833ba50d12ef6f5227afcfe8a8	Music Composer Quiz.woz
 e63ebe556e992cb9343e1e00dfa9c3d9	Music Concepts disk 1.woz
 d25f78ecbc1944b303bb1ca1aeea16d3	Music Concepts disk 2.woz
+2e079e8c4f93b4b3b3d9fe2e6ab7948d	Music Construction Set rev. 1.woz
+b811fbe26b35702bdacf7596f48dee98	Music Construction Set rev. 2.woz
+f1b842357e52b3f0ad2c4c2ff6137cf7	Music Construction Set rev. 3.woz
+e27041d3154ba44388ab96aa2eb3a05a	Music Construction Set rev. 4 (4am and san inc crack).dsk
+4e125696c7a09e636d3e60aa4f428d9e	Music Construction Set rev. 4.woz
 b7b0ac303287cae6d7821bdc3b458b87	Music Flashcards disk 1.woz
 702c724bd7d95ad16fcf35e11d11cf3f	Music Flashcards disk 2.woz
 d26f7a383cc65c5cb1221428cf999b0b	Music Flashcards disk 3.woz
@@ -1772,8 +2128,12 @@ ac2313aac7c31298d2a0787bbf87742b	Mystery Sentences rev. 1 - Sentence File Disk.w
 47e3cd8462666384a23a2e5fee78151a	Mystery Sentences rev. 2 - Program Disk.woz
 e1f22f7a672cb579a90eb31f657255de	Mystery Sentences rev. 2 - Sentence File Disk.woz
 b0dfc8ae2fee40383a47d892f6982bde	NAM.woz
+4553322897a545536887ca8d91d9527f	NATO Commander v1.1.woz
+6e9eb73a8b5a2f107a634e925a59c75e	NATO Commander v1.2.woz
+d3c951e04583377c0fc7327314d4cf1e	NATO Commander.woz
 5a7beb29ebfd6ebbba798f629434fecd	NBA.woz
 b4221917d7b3beb5b3b493c6d1b9f713	Neptune.woz
+20f6ba2d6efbb08ff91e0bf00a58c6e9	Neurobics 800K.woz
 fdc9d9a2cfff36d65655bab899a2e5bc	Neuromancer - Side 1.woz
 c9a59581f083c231b818a034d02f46ef	Neuromancer - Side 2.woz
 ba54ad68671c284f80a2e9ad75c8c5a0	Neuromancer - Side 3.woz
@@ -1785,9 +2145,21 @@ fb49ae5e13807c32c385330880167797	Newbery Winners- Bridge to Terabithia.woz
 336f5cf5f17cb29f244bfa158b96ce05	Newbery Winners- Sounder.woz
 5f818b1717005872aff3f6683272d85a	Nibbler.woz
 d9fad7eaa9c20d9e11bf3b50c84bb02a	Nibbles Away ][.woz
+2a114879d521afdc7a425095c3a972ac	Nibbles Away II Auto-Load Files v1.2.woz
+88eb3c5324933f2f588ab30ca5aaec67	Nibbles Away II Auto-Load Files v2.0.woz
+ad0b78185f6146f8c196132ba362e960	Nibbles Away II Auto-Load Files v3.0.woz
+36084aa9005035411e826e09c40c7712	Nibbles Away II Auto-Load Files v4.0 side A.woz
+dcf86114f6c165bfc91688921d9bc409	Nibbles Away II Auto-Load Files v4.0 side B.woz
+ab52bd50acd71ebc18171d21ea4ec964	Nibbles Away II Auto-Load Files v5.0 side A.woz
+2de2fed3980fd1b06503bdf7945f428d	Nibbles Away II Auto-Load Files v5.0 side B.woz
+20079dc636e24813abeb3438b0d3e58a	Nibbles Away II Auto-Load Files v6.0.woz
+7490a8305217a493f5d0b1e5ad294e78	Nibbles Away II Auto-Load Files v7.0.woz
+0eac0b71b607d10bd062977b112a3d93	Nibbles Away II Auto-Load Files v8.0.woz
 2605a2963708a35cdb9cdfb6b9b7fe16	Nibbles Away II vA1.woz
+c1394d56d0e82493acf27819e8c8e8ac	Nibbles Away II vB1.woz
 1a39a08f80c4d0efb043905d9ab950a5	Nibbles Away III v1.25B disk 1 - program.woz
 3be7b73294f4896b9fe232ad0ddc54a4	Nibbles Away III v1.25B disk 2 - library disk.woz
+d7642292408225c14ed66956ca5eda92	Nibbles Away vB1.woz
 4e4336506a6617669025b639e74c349b	Nibbles Away vB2.woz
 7b63379a0300382579151319afc18c70	Night Mission Pinball.woz
 87a47466364afc06b8ad0d1d60056e0c	Night Stalker.woz
@@ -1814,10 +2186,13 @@ f43e41ffc3abec579652a072e5a3e33e	North Dakota Indian Tribes.woz
 5403474a899334f15fd7ed682180d84b	North Dakota U.S. Senators and Representatives.woz
 c95d1e538db7f384a22967148a28814e	North Dakota Wildlife.woz
 f088c8902923628cc9c7fdd5f7c8c8c7	Notable People of North Dakota.woz
+575e5e3bb24ea7f4adf7fd01902fb85e	Note Detective I- Elementary Level.woz
+d123aad4d2af12f79bfd6f4a5595baa0	Note Detective II- Intermediate Level.woz
 f548e1317c435a9006d56d02e1d8e441	Note Speller.woz
 ab195290ea572723973b5dc25bb90b15	Noun Clauses 1988.woz
 90c96a8c024f2434aa14aec6f8588c9d	Now You See It, Now You Don't - Pick the Part.woz
 dc5cfb52d089dc98d3421bf530c37ef8	Now You See It, Now You Don't - Was it there - Was it missing.woz
+0060218073d242857606b30cc7e2bc34	Nuclear Reactions.woz
 0a2ed0585f61d4fd6caeaf6e857885a1	Number Bowling- Decimals and Fractions.woz
 5d56269984f12bd20936bd6e87c4476a	Number Farm.woz
 609d924838b10a530da0b82faf33f958	Number Jumpers 800K.woz
@@ -1841,12 +2216,14 @@ f714074d64a361fd51a334956cb4d237	Oldorf's Revenge.woz
 0f9ddcfb9285af194bd48f8a322b2e28	Olin in Emerald side B.woz
 93183668220fc905bc81d9dce68aa985	Oliver's Crosswords side A.woz
 b448869d0badec7dc4dcdc4601709ea7	Oliver's Crosswords side B.woz
+d17e59a07411a6711bc6ec166a309108	Olympic Decathlon.woz
 a645e620486d8c9f91bc6d258b91a67a	On Balance 800K.woz
 cbcd1a41cdcd2f699b7f0762d8cee462	On Stage 800K.woz
 062fd92081bc1b58cd03e4c51c3cc790	Once Upon a Time... Puppet Playhouse.woz
 740d4c48d830def474ca09b60158f6cb	One on One.woz
 9c8d8f815b9d55879f1e0a4b1c4808df	Oo-Topos side A.woz
 54d8fad3084e513aee4db06a5464e07e	Oo-Topos side B.woz
+f411c3fa028c8900c1dda0d8b55f7bc8	Oo-Topos.woz
 15cb6b7281c685c52e031a5d3d1c9846	Operation Apocalypse.woz
 0125d9eb1f61d2db03dd1a5a8ec36d67	Operation Frog side A.woz
 cd4cc1be5bbbd2ac08ca76cbe229c301	Operation Frog side B.woz
@@ -1856,6 +2233,7 @@ f6da41a94479c7fdc7b6b9aec26980e3	Opposites v01.12.89 disk 1.woz
 226fbd1ff66946b39ac80b1a9cbad2cb	Outpost.woz
 612a443e78b626519e9f410142e9f797	Pac-Man (Datasoft).woz
 f2d84f4be95d7a24e708b9233bfa571a	Pac-Man.woz
+b58fd52c286f98c23c2a5c08e2394e57	Pacific Theater 800K.woz
 e9cf6002d5623399e534ff2d6210dcf0	Pandora's Box.woz
 5149234e1b40f7556d9b82822e7dd76e	Panzer Battles side A - Master Disk.woz
 c7b588979d6b4b76ce7b5bce5bcd940c	Panzer Battles side B - Scenario Disk.woz
@@ -1865,8 +2243,12 @@ c7b588979d6b4b76ce7b5bce5bcd940c	Panzer Battles side B - Scenario Disk.woz
 e6af923c1d4d28c1f395629840e269e1	Panzer Strike disk 1B - East.woz
 a69e303b5cc8325b1f35ef29133242d4	Panzer Strike disk 2A - Africa.woz
 0d151abb03a3f8c633114a835c3ca61c	Panzer Strike disk 2B - Scenarios.woz
+d9563c343e14e6422e33626b3fb1fd15	Paper Graphics v1983.1.woz
+c2fafcce755ae0ad1510e98910e59264	Paper Graphics v1983.2.woz
+7f9a97e1fb76b48c1171d883014acba1	Paper Graphics v1986.woz
 161aeaa2feb48c0812e105e13674fb34	Paper Plane Pilot 800K.woz
 d96b1d5890a2fd46be0873005ef6e8ad	Paper Plane Pilot.woz
+1cfa48a520083e67e1c4a6790611a567	Paperboy.woz
 c9c662c1b860dc60ad824a49f6970d87	Participles 1988.woz
 7195f522296c56df407df646168380c7	Parts of Speech- Fun with Nouns and Pronouns.woz
 d35e3019e367a231be6c346d47f57680	Parts of Speech- Fun with Verbs.woz
@@ -1924,9 +2306,12 @@ f4d677de7660a9fcbff9bcab65760321	Pie-Man.woz
 f9abbd33beee7efecec636a16e84fee1	Pig Pen.woz
 33ff53a8d8d100d44e2680eabcd5b9e1	Pipe Dream.woz
 868f6cca52fcae3432c484b3dec65a55	Pipeline.woz
+1f5d5cd4b5d35184b591949bb721e26d	Pirates v332.01 side A.woz
+7f4d6a9c05ecdf2b59e81b89ea272f68	Pirates v332.01 side B.woz
 a511f0c69f966c9554db5cbd5f4f7ca9	Pitfall II.woz
 bd2961f42ae0eb6247cb3dfa7e72d156	Pitstop II.woz
 757f92354a16bf2732c8003dd43c9fb4	Pixit Shape Library #1.woz
+2f9ce47377868166e4f37506b05319f7	Pixit Shape Library #1.woz
 3377aaa509fb626473074cf23c6129d9	Pixit Shape Library #2- Science.woz
 5a6473f04165052417e4ccab3ea623de	Pixit Shape Library #3- Kid Stuff.woz
 cb1e6efb0da7f813f026191ae6fc45a6	Pixit v01331.woz
@@ -1941,6 +2326,10 @@ e6c0990416368e6a8157ccb588a55d72	Plant and Animal Cells.woz
 1a85373cd544019d0e91b75acb1812b4	Plasmania.woz
 5ab2f7b3a60cc54b26cb1f8c53ad6e34	Platoon - Disk 1, Side A.woz
 dc553e2f5d394879b21933ad05c7f8a7	Platoon - Disk 1, Side B.woz
+cda06b1ceaffca5cc0eafde87d3bf747	Playing and Reading Music disk 1.woz
+ba99672b07c7b1628f1c5d94e1c006c6	Playing and Reading Music disk 2.woz
+1f5117e9673faa3ef113022a01a3aa52	Playing and Reading Music disk 3.woz
+2d059843457d2c328b12daf7d1f93f4e	Playing and Reading Music disk 4 - Song Disk.woz
 baf437dc350b998e680240d20ce8fb66	Playing with Science- Temperature.woz
 3941f46fda6c1ee5e365d32610d11b60	Poker Parat.woz
 eeb2c86d92091bf0beb47f2ac2eee1e7	Police Quest disk 1A.woz
@@ -1952,6 +2341,7 @@ a2caf855813b73badf1d1af6049e5500	Police Quest disk 3A.woz
 0b8346ec5374570cca9847704fbae9c3	Police Quest disk 4A.woz
 5cdfaddcb9ba4d190f9ae287d2128deb	Police Quest disk 4B.woz
 95050fe698daa2876a2f65393d931b8b	Polls and Politics v1.0.woz
+488f0985175f753745a96b2cf0ea445e	Polywriter v1.2.woz
 77b3ff08c35e654fbc0ad53b55a25389	Pool v1.5.woz
 2f4aa83a3de7b99c33fac3a773b09d37	Pooyan.woz
 270321cf4a4199654c8aa4289fb2c2f9	Pop 'R Spell & Pop 'R Spell Challenge.woz
@@ -1972,6 +2362,10 @@ e6607e96deb0cb4c99aa6c04399a6015	Prince of Persia 800K.woz
 7314dbc241b9a21cc004eb428bb7e070	Prince of Persia side A.woz
 d566f78651f70fad171111bf38e2cfca	Prince of Persia side B.woz
 363d0b075d486bbcb54ed19844232959	Prince of Persia- Interactive Demo Disk.woz
+334b20d8b021b5816082a01c962e0f65	Prince v15521 side A.woz
+d55db9f1141c224f2cb6f23b8b377997	Prince v15521 side B.woz
+b99a9bd0ec1fef4bc476b8d8aff7898a	Prince v15531 side A.woz
+42267949c8ccfb40775c5525efc2cc88	Prince v15531 side B.woz
 a5e4bbdb7efc0fbd5042cd5a268f5727	Pro-Byter.woz
 fafe84ac5531805cd9acf05d45200b1c	Probability Lab 800K.woz
 2f7f3178c6197ae7ec5318bd2d265c6f	Probability v1.0.woz
@@ -1981,6 +2375,7 @@ c731f3aea4d1e6530568b9b1f591b42d	Problem-Solving with Nim 800K.woz
 fcf8ea0d37d7dcd9a2cf70785e34e185	Problems in the Use of Infinitives 1988.woz
 c2ad274ea527bb80015301fa921f537a	ProDOS vB1.A 09-DEC-82.woz
 8a6b11f83453dbdb9d136ac4d6c84d61	Program Writer v2.0-1989-04-21.woz
+6192cd7c46e454b6d3f5c78a97ab7ec8	Program Writer v2.1 800K.woz
 04e207635b8da875b2fa7c7f60e49127	Pronouns- Substitutes for Nouns.woz
 ae75b7429df098f5a0309ac3f9ce6673	ProntoDOS v1984-08-22.woz
 90717ce5bc53856ec355c0ef63d3103d	Pulsar ][.woz
@@ -1988,7 +2383,10 @@ ae75b7429df098f5a0309ac3f9ce6673	ProntoDOS v1984-08-22.woz
 11958c41e7d350884144dcab7de8a864	Punctuation Put-On - disk 1 - Teacher Disk.woz
 c56a525d2dd760dc7efb171938818d3f	Punctuation Put-On - disk 2 - Student Disk.woz
 e0c86333f04755df5702d84f36c448d0	Punctuation Review 1988.woz
+0ca8bded2a52adcc9bcadab1e02ff78f	Punctuation Rules.woz
 ba74c909c09fd6720c81a513bb5c6991	Pursuit of the Graf Spee.woz
+60f72d9af252f2ba42f863985960e844	Puzzle Tanks 800K.woz
+f8b88f8bedc97cd09ea44928d2c6e115	Puzzle Tanks for Appleshare Network 800K.woz
 ff4a97b48b9d52f172c9b1780a27a92b	Puzzle Tanks.woz
 4c23c6137accdcb03d0ee54902b09781	Pyramid Puzzler.woz
 8ca268364d9d12c36078f7504ce0c793	Pythagoras and The Dragon.woz
@@ -1997,6 +2395,7 @@ ff4a97b48b9d52f172c9b1780a27a92b	Puzzle Tanks.woz
 dda876276fb0c659e667332427f7a939	Quations side A.woz
 0ea2c236346db36552aa866623b305df	Quations side B.woz
 45465ef08719ff375c93073ecf98a661	Queen of Hearts.woz
+3419851f90ffa6a20becd5c809e9901b	Quest for Power.woz
 16346e96b1b202cb22caf352f6357cc3	Quest for the Scarlet Letter.woz
 32543601981a9516911fcff84fb6ae22	Questmaster I- The Prism of Heheutotol - Side 1.woz
 95f5703d0090c34a7686c502f7cbaa96	Questmaster I- The Prism of Heheutotol - Side 2.woz
@@ -2010,13 +2409,17 @@ e103cc07ad85f363d5e08a8fb917a026	Questprobe featuring Spider-Man side B.woz
 12de39c6c6a5feb20ba89c26351adfee	Questprobe featuring The Hulk side B (boot).woz
 8b71c541c23b21912946a7b5c4b7cef2	Quickflash.woz
 a3cb7a1fe23cf77ea0690a56a03f75d0	Quilting Bee v1.0.woz
+2add9eaea35fd204f112915dc0770032	Quiz Writer Plus v1.60 800K.woz
+a3ef30172d8b48ab123a4c1f970bf268	Quiz Writer Plus v1.71 800K.woz
 a00c6664e27d30b6bbd427faa5d80bea	Quotient Quest v1.0.woz
 edea7f8d07f621de4058c5063c39d2b4	Qwerty's Alphabet Adventure.woz
+73540622c35a868111d3ff47cd87b5b9	Race Car Keys.woz
 642ac0f427a35e42c12e381538d4fad2	Race for Midnight.woz
 ddfead4cc3cd0d997eaf111a29a10682	Race the Clock.woz
 62bbfa57be6c4eb010173d86d5cb739b	Racter - Disk 1, Side A.woz
 d743b52d8262cd65c6e2b4ca259cb682	Rad Warrior.woz
 ac6796a993ec923582fb4bac233a59a4	Raiders of the Lost Ring.woz
+a63ded317b3062a3e9b404120b667e5e	Rainy Day Games v13501.woz
 da6ee04000a2df20160d04ba7f7ac304	Rambo - First Blood Part II.woz
 8a55297e2df6ff636f36507c13bbf85f	Rampage 800K.woz
 fdf118362c2d7f9002a4090ed8d54b60	Rampage.woz
@@ -2036,12 +2439,14 @@ bab97020bfcae18016f1eb97f85badaf	Reader Rabbit v1.3.woz
 9783afefbdb8e6f72ed4c463b0a3ec69	Reader's Treasure Chest.woz
 097e89b3b8efa993d1d6f983a3aa7840	Reading and Me v1.0 side A.woz
 9dfbfd51da8424d754cc19a292284450	Reading and Me v1.0 side B.woz
+1285699121dbc3e565cd33a5c3e3e9f6	Reading Comprehension Series Volume 2- Sports.woz
 27a62b168a9d7f1fb9db064379c6ce1d	Reading Comprehension Volume 2- Sports 800K.woz
 64c2f7bc7874da0dc47d1f9e733e6c81	Reading Comprehension Volume 3- Geography 800K.woz
 cdcc88688a9f37d5807bf316e578b239	Reading Comprehension Volume 4- History in the Making 800K.woz
 02478509ad7b73ce5ee328c95d1ab1bd	Reading Comprehension Volume 5- Famous People 800K.woz
 fdd3fb303cd0d61427d831551c81036a	Reading Comprehension Volume 6- The Olympics 800K.woz
 afc9c4ec7ca296c9e97d37f6e8b74469	Reading Comprehension Volume 7- United States Presidents 800K.woz
+a287410dbc8944b5533e8d6e81383fb5	Reading Comprehension.woz
 6a77b51d270764dffd35589c2ccc8444	Reading Explorers Volume 1 side A.woz
 8f40ad05171119b8d17cc50fcd123aef	Reading Explorers Volume 1 side B.woz
 d83e846ce1aefc0615cc0a8863db9273	Reading Explorers Volume 2 side A.woz
@@ -2060,6 +2465,9 @@ a96f10e6315498630c19ba3e820b5d0b	Real Number System 1988.woz
 23c59a49ded78b66b6d8c752c70e616f	Real Number System.woz
 9c57651762323da6c786df1bd1c9984e	Realm of Impossibility.woz
 c458acb4130cf97949b0e945cbd71af9	Rear Guard.woz
+73f48d40cce833b292a0b8cf4ae50f88	Rebellion in the West 800K.woz
+c8a80bb03c9a613a2709def5bf37b71f	Red Alert.woz
+163ac3ad99089e2f4310ea1d29cafed9	Regrouping 800K.woz
 05d86b2008735d3ec5ad79bc3eb1ae19	Regrouping.woz
 e570493ec3094f9dea3bdc43bbdadeb3	Rendezvous with Rama disk 1A.woz
 af9d27aa761dc6d9894e2b826942ed42	Rendezvous with Rama disk 1B.woz
@@ -2080,6 +2488,7 @@ d6a0e41b61160ffb19440585721af54d	Riddle Magic side A - program.woz
 5a76b8889c17fcda6b2dcdced2fe72da	Riddle Magic side B - data.woz
 48495866e0ece7c75ec4cae594a838cc	Ring Quest side A.woz
 37851c9f85f211dffb731d15a4c399fe	Ring Quest side B.woz
+b2a28376a979f133c8974cce9937247a	Risk v1.4.woz
 f269c7a416db11fdfc264ce388f612d4	Roach Hotel.woz
 af296ba9843147bdb5ac1ff12b6d38a0	Road Block.woz
 dbe8814d1973296d53ab40914eec5695	Roadwar 2000 Europa v1.0 side A.woz
@@ -2111,12 +2520,18 @@ d058a1b2b1bd69e3cc4726db368b144d	Robotron 2084.woz
 7dd8c61cf9b25b6f6f9a0866224dafad	Rocky's Boots v1.0.woz
 491a42236c51730333c933597d213b19	Rocky's Boots v4.0.woz
 c343ed26c80f48d07cffa6b2ed2e4114	Rocky's Boots v4.1 800K.woz
+e7c5d308c3c41b7b08c480a39ea0ae7e	Roger's Easel.woz
+3a59c4a94c5154db5c9b991ac1f6b32a	Rommel - Scenario Disk - Ardennes.woz
+ab202bb2463531ff7b0df07ff6666c27	Rommel- Battles for North Africa v1.0 side A - Master Disk.woz
+258baa1069628fed308f3bc772269e4d	Rommel- Battles for North Africa v1.0 side B - Scenario Disk.woz
 6d8ac473ce81f041107f7aae6645c87a	Roots-Affixes v09.19.89 disk 1.woz
 35ab3639e1bfd5f89e550b5329d84b10	Roots-Affixes v09.19.89 disk 2.woz
+915e600ee326a3d8567fdf665d512766	Roulette.woz
 7b6a48936019268801a394e3087515f9	Roundabout.woz
 f92304c13a67b917aedca2df2c2fc87a	Rounding and Estimation.woz
 e38d69e66bed6fa83241ca85c41fe3dd	Rumpelstiltskin.woz
 82f99cf06a26ee47a0c0074c1688418c	Run For It.woz
+46eb5b797af620fee39e7dde86e70105	Russia - Scenario Disk One - 1942 The Russo-German War.woz
 e8a25ef495f5ced3e3c7a4c82b55bb1c	Russia side A - Master Disk.woz
 d3ba28ba63daf0c4edc3a49b7a518260	Russia side B - Scenario Disk.woz
 a4ca4608190811497e8a4dc7161ecf21	Russki Duck.woz
@@ -2138,6 +2553,7 @@ cdf0d8b342e2f3a747131f4ad32ae6cc	Sabotage.woz
 cadcaab15273b6abcd858322e8388371	Safari Search- Problem Solving and Inference.woz
 d9069448dc8d88de98c3b6e65b5ecb16	Sammy Lightfoot.woz
 12ba50ff3f66764afd4772d13133c5af	Saracen.woz
+544ee27d8ab5ef8798cff8a91fb3c1c8	Sargon II.woz
 2cccf8d9d36af05eed05d6e8a24c9da3	Sargon III.woz
 c06bc274e31f01e5ae8a347f2aaa3404	Science Corner- Planet Earth 800K.woz
 fd99b6828d4dea415864bb2ee4926dea	Science Corner- Space Probe.woz
@@ -2182,7 +2598,12 @@ b7ca5300696bb43d022bab0067446025	Searching for a King side B.woz
 1c77edda2dcb6b2fa59f03367a31a76a	Seastalker r15-840501-B.woz
 a8e93cdbb79c72dd304b9c30816a523b	Seastalker r16-850515-M.woz
 f33b7a3e1fe1e2acf01b793c4e2e452d	Secret Agent- Mission One.woz
+4d18e314501bf2d2f4824e4d0ed25e9c	Sensible Grammar v1.0A 800K.woz
+491e9f792b0aa36664e12c6a47c91913	Sensible Grammar v1.0D 800K.woz
+c5c9809cbb9a357cfe9a4edfbee807bc	Sensible Grammar v1.0H 800K.woz
 006ad81f3ba1aa2306c605b6b2927b93	Sentence Fun 800K.woz
+ed4e56a4910ffa797520bef8f83b0791	Sentence Fun rev. 1.woz
+5ff0beb208ed3e0486e0cd8a9926fa9e	Sentence Fun rev. 2.woz
 8dae3494989f7b8f8d6d34ff15a6d8a3	Serpentine.woz
 17ec01d5e9307541f89cd7ec13af80fd	Shadow Hawk One.woz
 1e8a884d1f268ed0d319f0cd0b805f63	Shadowkeep disk 1A.woz
@@ -2191,6 +2612,7 @@ ec564a1225a5b1e2234d6a0e8e6b66a1	Shadowkeep disk 2A.woz
 63dcc082d6a5f5be50959a24ec7935b0	Shadowkeep disk 2B.woz
 8e0d5c3ed17bf61d50ae0a1b42d94a4a	Shanghai.woz
 4c393d8b41fc43e4a47df0e1ea0e8bff	Shape and Color Rodeo.woz
+822821405e4b2b761058c73f8ddced82	Shape Builder II.woz
 ba2e1697f924e10c6d7ee8b5fd952c24	Shapes and Patterns.woz
 7f2e8f9550f3cc6727b06d4c8ebe3c72	Sherlock Holmes in Another Bow side A.woz
 94244c915361ceed5bedab95cbd964e5	Sherlock Holmes in Another Bow side B.woz
@@ -2204,6 +2626,7 @@ bd5fe6c4d9e651536571ea61fb6904f4	Shogun - Side 4.woz
 bdb40012b75023cad2681c7dce4ca8dc	Shogun - Side 5.woz
 20684ee1635cb950eeaf1dfcdc567297	Shop Right.woz
 961ecf5e5fc74bea29634548b21ba250	Short Circuit.woz
+359ed4f84b0b797d038ae9bb86ec1689	Shortcuts.woz
 f8d34f738b16678d1ddbaa4a33760334	Show Time v1.1 side A.woz
 f9ddd4fe32663872c54ce9def16e3ec2	Show Time v1.1 side B.woz
 fee04e953052d4417de01b6d83684c98	Shuffleboard.woz
@@ -2211,6 +2634,9 @@ fee04e953052d4417de01b6d83684c98	Shuffleboard.woz
 8a5d23cde0d5b9d787bda23d79529bc7	Shuttle Intercept.woz
 bc3e1b4a50d2a47b2f5174c10a883d72	Sidewalk Sneakers.woz
 23768376f5e46744654d9c21fdaec472	Sierra Championship Boxing.woz
+9c82321bb1ed137f6b1582e8ec8ec1c0	Silent Service v325.02.woz
+5a51c7723018b27e75ece20be1cb0985	Silent Service v325.04.woz
+277701ce6a59b8e54ae5536f7ace12bf	Silent Service.woz
 4bbc0782914b643ef4fce771c7016f4d	Silicon Salad.woz
 67d313581064f66935f5ebed122696c8	Simon Says.woz
 e038277f107897a66df5d72bb41e0f26	Simultaneous Linear Equations.woz
@@ -2220,6 +2646,7 @@ cd709e7438cce09863d51171e4ca37e5	Sir Isaac Newton's Games.woz
 e3c9ffdf2f8d39a46123a1ea1c66f0d9	Situation- Critical.woz
 939138a29a9ef71ff30ba946ba3b6fe5	Six-Gun Shootout.woz
 85a1f61e20e96ffbcaa8b21444871cd8	Ski Crazed.woz
+e93e347829f1e516b088cc1800e14e8c	Sky Lab v1.1 800K.woz
 7658ce64ce585227b9af8488abac6663	Skybombers II.woz
 9b7d45e5939611c45d550545beb33956	Skyfox.woz
 88536949e118d5b2f177759ac3d2d92e	Slide Shop v1.41 disk 1A - Master Disk Side A.woz
@@ -2237,7 +2664,13 @@ e116f3c60d4bc3a50eb8e19cf50dfa4a	Sneakers.woz
 faffe6318bdb6665b64acf3caa92e8cd	Snooper Troops and the case of The Granite Point Ghost.woz
 286d5380e3411d4a7099c0177e275f13	Soko-Ban side A.woz
 24ab11a49b02f4748528fee13d94d17d	Soko-Ban side B.woz
+4db310b97b38ef7e8f6453b2b4fcf58a	Solo Flight.woz
 64c31df0e1f4f7b3d68397c257146c10	Solving Equations and Inequalities.woz
+2e93c7570b20a127eda54e58127def67	Solving Quadratic Equations v1.0.woz
+f794345959873e9665c4242f54ecaf70	Sorcellerie I side A - program.woz
+f5e0679692b5bc6c56d3887fe9e8ddf0	Sorcellerie I side B - scenario master.woz
+32e72ead1d363f9062f1ec83848242fd	Sorcellerie II side A - program.woz
+5896cec9824e1e72a9a8282e92075393	Sorcellerie II side B - master scenario.woz
 7d25bd31f06d711fe3269d932aa07e6b	Sorcerer of Siva.woz
 a3a732869a4f7d95ba114929fe8b0ced	Sorcerer r18-860904-K.woz
 223fbb78b758ca1931b153d5487cff8f	Sorcerer r4-840131-A.woz
@@ -2276,7 +2709,16 @@ d05f850d19b15e3c10467811bd48e315	Space Station Freedom 800K.woz
 d7056fd723d31da5ac57f1de57c5b865	Space Subtraction v1.0.woz
 f8a0f9bfdc978f4f002cba7e3a0d9844	Space Warrior.woz
 51b12aca4e1aebf3feebf9de729c4280	Space Waste Race- Storybooks Of The Future.woz
+e09edc9a535e6d5573c609bae60b28c0	Spanish Achievement I- Vocabulary.woz
+9e4bcf9e05076543b7c22641552717fe	Spanish for Mastery disk 1A.woz
+3c82db10a3be073d7713e97e2b41efca	Spanish for Mastery disk 1B.woz
+062074fc4ac0478ffc37665bd3cc5df5	Spanish for Mastery disk 2A.woz
+45994239f8631ff03f7fc726fccacaef	Spanish for Mastery disk 2B.woz
+a11c1d58461ff049b85b8f5e7c6c3bdd	Spanish for Mastery disk 3A.woz
+9bf01194d090e6795930df10417d6992	Spanish for Mastery disk 3B.woz
 1d17d2ef151bac53b567ad45228d0966	Spare Change.woz
+700d71f18e48ea3d6bd010221d0c1232	Special Senses I- The Eye.woz
+0e459db9c4cc4d548aaec71ae5f9e28b	Spectre.woz
 ae0f423435985a2246c4dd920882f401	Spectrum- Patterns and Programs.woz
 a65d5c05abec2e930e1f0c1634a8fdb2	Speed Reader II v061285 disk 1 - Program Disk.woz
 e86081d116a992c90aa637f075ffb9c7	Speed Reader II v061285 disk 2 - Data Disk.woz
@@ -2298,6 +2740,7 @@ dfef9fc1d669f8daa0cd3a4402e0452c	Spell It! v070385 side A.woz
 ad4c42f1ea02d2d4ae36781a7bd07152	Spelling Press v1.1.woz
 92446d8812f85675546e1e07dfdac0c1	Spelling Puzzles and Tests 800K.woz
 b09c564a767bacfa62a25e4adfb07066	Spelling Rules 800K.woz
+3f9d248050ffe444f6e69561bf6f00b7	Spelling Rules.woz
 b5fcabfb1a8afa27071093cc8f1209e7	Spelling Series Toolkit 800K.woz
 d3db2a56b8b178c3fc8c4c19c7794039	Spelling Volume 2- Secondary v2.0.woz
 f94b932a11f76644baef0e899b79fd3a	Spelling Workout 800K.woz
@@ -2308,6 +2751,8 @@ f1a115a163f73a1ecc6c64a58ae73943	Sports Stats v1.0.woz
 0452f2612500b10f10464fdb226e4b80	Spotlight.woz
 247f6c1bfbd2116b88aa5c15ce80bf69	Spy Hunter.woz
 abc14e8c828bc7c7360a3bb4fe8036c0	Spy vs. Spy III.woz
+babd38dee92cfe5b4d7e64f5328c643e	Spy vs. Spy Volume I & II.woz
+a635d01f42ea763723c568b7c4a59e61	Spy vs. Spy.woz
 55a1ad9b005b75cd8a2b0c0b46f8f51c	Spy's Demise.woz
 a021b3fe72530e6344dc69d4210a8c13	Star Ball.woz
 781a69230bd8abb3e4db9a484d11a510	Star Blazer.woz
@@ -2321,6 +2766,7 @@ e4b3fbb0d4144849221ff2f8753deabe	Star Thief.woz
 bc85446b53b3ba8e5918f5bf017b5fda	Star Warrior.woz
 dc609d990255836a3a7dfa446bccb2d5	Starblaster (Softsmith).woz
 51ca0e4fae44e1b35cb1a7a04edbdd33	Starcross r15-820901.woz
+19803ba515e2e69166f377c9b1146c66	Starcross r17-821021-A.woz
 f934f6e74dda595f4def4bcbe7472cb2	Starcross r17.woz
 e7b0fa982275784c3d4929b1d2cba51c	Stargate.woz
 34af7034668c27f7fea693bfa1588d39	Starmines.woz
@@ -2362,6 +2808,7 @@ e998f71cb28731b0f6f1ab3f2e9be0c2	Stickybear Typing 800K.woz
 18f39c9354c45cb91f55fcec114d49b8	Stickybear Word Problems 800K.woz
 2f301c9b9dd11ac3304751f0366a2d1f	Stickybear Word Problems.woz
 99137d01ee3bcfad3fa1fe2a7ebcb8bd	Stoichiometry.woz
+e6d2d004b7e3b8451bdb93538775f079	Story Sketcher 800K.woz
 9779452b670d730de935306aad637200	Story Starters- Science 800K.woz
 624b21ba002a0aeef7c06410a1c1452a	Story Starters- Social Studies 800K.woz
 2d541490768a816fd279aec92ce2c89c	Story Tree v1.4 disk 1 - Program Disk.woz
@@ -2372,12 +2819,16 @@ f1f379a55183db5a871824633da95819	Street Sports Basketball side A.woz
 395ff40358b67fa304a102312bdc468a	Street Sports Football side A.woz
 572475a095c163f0d763344091a7c409	Street Sports Football side B.woz
 abd47444aa2915fb02c830ab4ba0c358	Street Sports Soccer.woz
+8afc6fbdee8e54dc09fb01e544c152fc	Strike Fleet side A - Program.woz
+859b2b707f425c0c32920cd85dd94cb3	Strike Fleet side B - Scenarios.woz
 9a5605efdabd09849b18d889fdb95bad	Study Guide v1.5 disk 1 - program.woz
 e602634c52d6a30374f57d8034b69e0b	Study Guide v1.5 disk 2 - data master.woz
 317042c2807d0d2241844b836f6bc0d6	Sub Battle Simulator side A.woz
 c52d2d918ac0f10926c371a5a05ac292	Sub Battle Simulator side B.woz
 5243b6eead802237dcdd65a68bd41198	Sub Mission.woz
+4dfccf1198782bb57a0e31cd3421e38c	Subtracting Mixed Fractions v1.0.woz
 ca2f492f368aa2fa2d065e9d0627306e	Subtraction Puzzles v1.0.woz
+550612ab5541123f2783f4d6cbd1ab95	Success with Math- 1-2-3 Digit Multiplication v1.0.woz
 0b45b1b5d62b21fd5e928be01e3cd68c	Succession.woz
 87f6eaa74962dedfc10ca7d428aa2a79	Suicide.woz
 dd5b7309246b750f9a535a675c1cc7ea	Sum Ducks side A - Sum Ducks.woz
@@ -2405,6 +2856,7 @@ da2b09009d884b7d69cd0c6f00fa75e7	Super Mario Bros. Print World side B.woz
 221dd8f2747867ba12bf3ab53a311817	Super Password side B.woz
 ba93557ad876149adc3c55a3d16fe01f	Super Science Graphs and Charts- Health and the Human Body side A.woz
 80b782fecd6fab3800a7d89e1523d087	Super Science Graphs and Charts- Health and the Human Body side B.woz
+2ea6edb34eaeb375847f6540a66e3221	Super Sea War.woz
 53e7b22feaa9cbded0c513bcc9a598e0	Super Story Tree 800K.woz
 baa08db022c21ca470878566d4798ce4	Super Taxman 2.woz
 09097964c4e43d18237cb4d4fca6ff8f	Super Zaxxon.woz
@@ -2439,6 +2891,13 @@ b1e9c3724d322cccd5bab906ef716564	SwordThrust 5 - The Green Plague.woz
 f136f666541d63d3505527598070ca29	SwordThrust 7 - The Hall of Alchemie.woz
 b31d3f519781e62f197dd596410f70ef	Symbols and Sets 1988.woz
 867fa1c35cff64c8613ccceacb52f176	Tag Team Wrestling.woz
+695bb7755ccf1abef465702f331197b6	Take 1 Animation Library #1- Actors & Actions.woz
+abc7da93980b95d7950f6ef4d18e53a2	Take 1 Animation Library #2- Heroes & Villains.woz
+1afbac953bf0377d11a51742aa1db1bd	Take 1 Animation Library #3- Business side A.woz
+c92cf91e1fbe347c01743c947d82d9c8	Take 1 Animation Library #3- Business side B.woz
+6bd074bc39bcebf041d13ea77c7ad6bc	Take 1 Programmer's Toolkit.woz
+98bc3b25b86f65e77b9ac78eeefd886d	Take 1 v06431.woz
+65764dadf63c024b45a6a4c3ad4bfa13	Take 1 v06451.woz
 8f03a8fb6f7cf177381904894c0be6b6	Take a Chance 800K.woz
 30cb4e9f2c156a6f399d9309f8789f2e	Take a Chance.woz
 fbb8f0bf1f0d19b4263bd26af3665b69	Taking Chances.woz
@@ -2457,6 +2916,7 @@ f162439d3932f902c11475319cd3846c	Tales of Fantasy side B.woz
 24fc05cd82848203d844efef7a174fc5	Tangled Tales disk 1B - adventure 3.woz
 341ce885052ccd86b1e3923471ee21df	Tangled Tales disk 2A - adventure 1.woz
 8e655337cc39d4344593a0d8ff047664	Tangled Tales disk 2B - adventure 2.woz
+b9b86ca4bdd3864df5672e6ff2a2eaf7	Tank Attack and Death Run.woz
 017c7abbb55a1bc47ba47be1f5956a19	Tank Command.woz
 65adae0dbfc7dca85c1c9366c24b9c0f	Tap-It.woz
 240eafddb1ea35c616b6d3136e16de4e	Tapper.woz
@@ -2465,8 +2925,12 @@ cb2a4697676bc50fc604438da7247a46	Tass Times in Tonetown side A.woz
 286391da1be944aec2df3685343eaa3d	Tass Times in Tonetown side B.woz
 a0018b48f3bd6854808a0074f49a0c8e	Tawala's Last Redoubt.woz
 334eaa12217397c62602d9f751687c84	Teacher Option Organizer 800K.woz
+a7bbdc974006650c83d5dec487fe0258	Teacher Option Organizer v1.0 800K.woz
 432f9681c433ed3eb542aea2ee8e10f4	Teacher Option Organizer v1.1.woz
+89941829d2bbe2c8b7978d99e0c21c74	Teacher Option Organizer v1.2 800K.woz
 46f8f4a7d9d4d16618f0888c3e7ee1bf	Teaching Scientific Inquiry v1.0.woz
+d30c2f3f0adde50c03328a85d6874c0e	Teaching Scientific Inquiry with Computers v1.0 800K.woz
+6e45064f4c0de8164f3837c22ddcee28	Teasers by Tobbs with Integers for Appleshare Network 800K.woz
 e9225a52b43bc6b85cda60b6c77c9505	Teasers by Tobbs- Puzzles and Problem Solving.woz
 b65bde5c748d920bd224674e8f941efb	Teasers by Tobbs- Whole Numbers.woz
 67f7a024213f7cd4ffe41fe385fe62a1	Techno Cop side A.woz
@@ -2485,8 +2949,12 @@ b4d3f1a3daa4a35f50a069b4b4ff80df	Test Drive side B.woz
 cd6794768dc4f4f2b8841f0fba4bb6b1	Tetrad.woz
 2d23c9e68050e7b41e5707e247605daf	Tetris - 128K.woz
 2f081d10b4c154d381492977b87d3b50	Tharolian Tunnels.woz
+a20013feaefb5eb01eebe7fa6dc1c952	The 49ers 800K.woz
 65798d486ff3e4a5c34e792ede1be1cf	The Abyssal Zone side 1.woz
 bbb9acfb769225e774bca3161c31f80d	The Abyssal Zone side 2 (boot).woz
+e9ed5cfdc45a3cbe66572e79283c624f	The Addition Facts.woz
+3f1c66cd45aef216588f58c5a909ae02	The Adventures of Buckaroo Banzai Across The 8th Dimension side A.woz
+db50b15fc3c7175575babb861070ca08	The Adventures of Buckaroo Banzai Across The 8th Dimension side B.woz
 a7a6a517ac34e9b3f5ce76fc6d6e7790	The Adventures of Kristen and Her Family.woz
 fa4eee35ad84e1a80f73cd424bc1c6ab	The Adventures of Sarah and her Friends.woz
 b52e7e0a862d8bb1a8032c4d847ee5a2	The All New Family Feud side A.woz
@@ -2563,6 +3031,7 @@ e6cc50bf6acc354c862d0aca9e52c95a	The Brain Game.woz
 7133a3bacf5120544332e70310f66293	The Cave of Time side A.woz
 bd0ffb3fd0d127a1476daf46ccd0f465	The Cave of Time side B.woz
 25b719438d809107430dcad9fc61923a	The Caverns of Freitag.woz
+7801645ee330d719163785c9a49eba06	The Changing Earth.woz
 c791c39e7a6a286a3afda03224053dd6	The Chessmaster 2000 side A.woz
 95fe3599b028faa14a75ce9d6236a1b7	The Chessmaster 2000 side B.woz
 8f325fe0d071e3722da6950765e48454	The Children's Writing & Publishing Center v1.0 - Picture Disk Side 1.woz
@@ -2576,6 +3045,8 @@ de7358256bfbbbe6c4e7fee6d797f470	The Children's Writing & Publishing Center v1.0
 64e66ce16594cc745852c3abddbaf19c	The Coveted Mirror 2.0 side B (boot).woz
 1f56d3dd59348d5fa9be729dca2894dc	The Coveted Mirror side A.woz
 1f043411eeb152c4f2d42944fc987891	The Coveted Mirror side B (boot).woz
+abffd637ab98c769c6b1701e1a15564c	The Crack of Doom side A.woz
+b49ca9edc97d20aa2d27c7186ed6277c	The Crack of Doom side B.woz
 e74cc9988f4800bab960fed92a24d717	The Crimson Crown side A.woz
 b0ca73c8e9fe044f3628ccbb8bc59740	The Crimson Crown side B.woz
 e3321984a853cebd9fd1bce5e046e624	The Curse of Crowley Manor.woz
@@ -2591,6 +3062,7 @@ a1d8ae9526b8a7d8f4ef34fe075356eb	The Dark Heart of Uukrul - boot disk.woz
 f94802c83e671ac3294ae5ccdc171e85	The Dark Heart of Uukrul - scenario disk A.woz
 a85d3d82a96ef0cc602e701b73ea1744	The Dark Heart of Uukrul - scenario disk B.woz
 d1e28255dcaa07d4f8291639bec84d2b	The Demon's Forge.woz
+177bfa1069f948c76e37653c886718bd	The Division Facts.woz
 1539545214dce117fe1b15f74be757ed	The Dragon's Eye.woz
 581ae432abe71d22c505ace7685e08ca	The Early Church side A.woz
 bfe2772be1dbaf0b3585f2c72fb2ce37	The Early Church side B.woz
@@ -2603,7 +3075,10 @@ ede0481bf994d8cf4785d8db024396fa	The Eidolon.woz
 1e9c53b6fafa9650cfa44697b7b73436	The Escape from Traam.woz
 db41dd03afd0688b0d807068539d3658	The Executive Secretary.woz
 95bd6de59cfc089967b235413bef5114	The Factory 800K.woz
+e3c4b95d69952f29b18a5ff772d5f98e	The Factory for Appleshare Network 800K.woz
 765c82c547d1ab69a17f1322694acc4c	The Factory.woz
+d605b65b11f73a0511b7157a781d7bdb	The Fellowship of the Ring side A.woz
+7caff0c215fdaaab917792cb0c83aeee	The Fellowship of the Ring side B.woz
 b448cbd367667b742b47c44f107308bc	The Fidelity Chessmaster 2100 side A.woz
 f5b5ae3c2540e5f0ffe092dde377a189	The Fidelity Chessmaster 2100 side B.woz
 211d2304c0b75ed65d092fff656b7547	The Final Conflict.woz
@@ -2623,9 +3098,13 @@ ee30593abae7b9f38316402d11ee5af5	The Games- Winter Edition disk B - back.woz
 2d2374abc72009fc35b5f9f8e0f8627b	The Geometric Supposer- Quadrilaterals.woz
 9c183e3b7a1a12dc47c575c13b7ed206	The Geometric Supposer- Triangles.woz
 4b4c3fedaad9f31ece1013b29d0d8077	The Goonies.woz
+2dda4c7eb2fa42ff405ef3b239b711ae	The Graphics Magician Junior.woz
 8842bdeadcb13ee38662c153eece44f2	The Graphics Magician v1982-10.woz
 761bc63f34b6ed0dd3965f5176993d47	The Graphics Magician.woz
 5543f077398dca6c458c16dc5f40d027	The Great Gonzo in Word Rider.woz
+4cab0405c42ae859c946f17870a70be8	The Great Knowledge Race - Master Game Disk.woz
+3c632826de666958f9c6193f3a67981f	The Great Knowledge Race - Quiz Whiz Series 1- Movies, Science, Sports, Geography.woz
+45eb76b660acc877cc634da06228d720	The Great Knowledge Race - Quiz Whiz Series 2- Sports, Geography, Literature, History, Science.woz
 c9eb1897bba259db75a42854c9764acf	The Great Maine-to-California Race side A.woz
 87dee3c81ddbd74b4d78dd840541ed99	The Great Maine-to-California Race side B.woz
 950b7b8554a27a848f2b7e6c4d52b33b	The Guild of Thieves.woz
@@ -2636,8 +3115,11 @@ d3c5da3832033793e107fa959f50a7f1	The Haunted Palace side A.woz
 d2ccea848a4fa1fe88f3b68452d4ae67	The Heist.woz
 0c483701e60aa5e278c902daf2eeff4f	The Hitchhiker's Guide to the Galaxy r31 side A.woz
 f66f3bff159978f2152fc262856fa637	The Hitchhiker's Guide to the Galaxy r31 side B.woz
+fd65dd3af114e25401f9a4a34500064d	The Hitchhiker's Guide to the Galaxy r47.woz
 7877099e73ade9ec23add3d624cd0581	The Hitchhiker's Guide to the Galaxy r56.woz
 ce0b5e83a40016079574409e405c5e7c	The Hitchhiker's Guide to the Galaxy r58.woz
+dbb5608751ba5a5e682abd543d517dd3	The Hobbit side A.woz
+7027116a9c1b29db9ba670efe21a8ef6	The Hobbit side B.woz
 b789553e63c2934c5727e5a069c4238d	The Human Body and How It Works- The Digestive and Excretory Systems.woz
 8d749325207c671e8772aa0d2c88c822	The Human Body and How It Works- The Skeletal and Muscular Systems.woz
 b0e2993a80deca3763d1ef90850b0579	The Human Fly.woz
@@ -2650,6 +3132,7 @@ ca854b3d2469648ef9878bf156875672	The Incredible Laboratory.woz
 71e21bf6e4460c209b7e2b404443b93a	The Institute side B.woz
 e67b434dbc0a721d831271636f6efb37	The Jar Game & Chaos.woz
 7cc50c91b848e3c58ede4632c1b0300c	The Jet.woz
+f895c4a55281baa8c95cb3e0421fe202	The King's Rule for Appleshare Network 800K.woz
 06e892be320bbef6993a6dd88dda9ff9	The King's Rule- Mathematics and Discovery.woz
 a2be493555e0c6cb5dcdfef55a33841b	The Kingdom of Facts side A.woz
 8d72a6aa1328bdb10deffc3c3f7f05d8	The Kingdom of Facts side B.woz
@@ -2664,9 +3147,14 @@ b2cb57ff852903b89f8ea87f4e41d805	The Legend of Blacksilver - Side 1.woz
 e8fb59316f048cfbf7e74b80e011b6f4	The Legend of Blacksilver - Side 4.woz
 0ecac19d4c58ecdbdc7c71dc4efb3b49	The Lion's Share side A.woz
 6bb81d7aac0760cb11c3da3179cf3995	The Lion's Share side B.woz
+e407971c227062b6c9930aa5d84aeb22	The Living Cell v1.0 800K.woz
 26b9c371c55ee4f6223e885b08c1ec78	The Living Cell.woz
 9c2bb895661a43621d98e2598d940044	The Lurking Horror r203-870506-M.woz
 7238f45d4e58a63037210c23d0b925ab	The L�scher Profile.woz
+e8f1d3decea1d0012a0e1ede8fbb2de7	The Magic Candle v1.7 - Side 1.woz
+7594fd2b618ed155fa7983f29a974823	The Magic Candle v1.7 - Side 2.woz
+10919dc7aafa1afd4718803b1f1a24b2	The Magic Candle v1.7 - Side 3.woz
+a795bc42813c9588f1ac4cc74df147af	The Magic Candle v1.7 - Side 4.woz
 02a5190dbf74f5b05c9cf27657c08b63	The Magic String.woz
 3f5f4fba8820cea8c04da107c2594e26	The Market Place 800K.woz
 250d3dc60ba96e2bb3fae2c4ab392a9b	The Market Place v1.0.woz
@@ -2677,7 +3165,15 @@ be7662e1d705b4c8fa30857b5fe57569	The Mask of the Sun v2.1 side B.woz
 57e06dec28710b5d07e0ed4f3b610bf3	The Mist.woz
 7c8bc10820b506791787de5abc8484e5	The Movie Monster Game side A.woz
 e655d4f13ee3b6b55c973bce36df7929	The Movie Monster Game side B.woz
+519f0ab8fea5f3842bdab6c209775134	The Multiplication Facts.woz
 b9cec2aaec3aa2703250cc39366f457a	The Neverending Story.woz
+eddcb4e8c64953250a536fd5edea08d0	The New Print Shop - Data Disk 1A.woz
+9ff0c300aa553fb21fb151df9b51ebc7	The New Print Shop - Data Disk 1B.woz
+be55d4268566b2d7d8c68475dbd8e202	The New Print Shop - Data Disk 2A.woz
+fbdb54300f6608e2e14e6524ad96193e	The New Print Shop - Data Disk 2B.woz
+3a3e698b32208d6524039237f2f44cbd	The New Print Shop - Program Disk A.dsk
+253b9e7d48fe6c1c6453e829c531b8a2	The New Print Shop - Program Disk A.woz
+50ce72432e792d05eb58ed41f1b91a47	The New Print Shop - Program Disk B.woz
 11f9092b8d2e846f15bfa03af73cdfd9	The New Print Shop 800K.woz
 f5d15448f8fea7a69b90453b99d05a85	The Newsroom v1985-02-08.woz
 a1f7a888531d1db25731664bb800a2c0	The Newsroom v1985-02-11.woz
@@ -2693,6 +3189,7 @@ d19bd2bd586f157fcd6d6f856dc4409b	The Oregon Trail v1.4 side A.woz
 e2fdd3d241f9d94d988ffecd7042da14	The Oregon Trail v1.4 side B.woz
 9e352652bb109ee88888d14c471cb984	The Pawn v2.3.woz
 5c0fe9ebd36b1478431ce066ded39d85	The Personal Secretary.woz
+0af47c6e8299935b347f6c9b222e96bd	The Pizza Program.woz
 f3b78b81318bc6ae6b3ad6769f114d50	The Plant Growth Simulator 800K disk 1.woz
 e3352c762bc94878f2dd22b685ef3580	The Plant Growth Simulator 800K disk 2.woz
 c1f5ae1066373e23b3e8ec0073c520c4	The Playroom - Disk A.woz
@@ -2700,11 +3197,28 @@ c1f5ae1066373e23b3e8ec0073c520c4	The Playroom - Disk A.woz
 dcb1a731ed94e2e6a3c7110a34c5d4c6	The Playroom - Disk C.woz
 abff8338f6aff4a05171ac4e571c17cc	The Playroom - Disk D.woz
 f63caeb89656c67dea6f5d12947d1cf5	The Playroom 800K.woz
+cdbe0461aad0d0af85d465a2ac093708	The Pond for the Appleshare Network 800K.woz
 45ae6afbb685b4b133f7425273b9f598	The Pond.woz
 06be658f21bab93f48ad301a352ac9d0	The Print Shop Color side A.woz
 f79d95f470f1f0e0f84fdba2fa00a26f	The Print Shop Color side B.woz
+e4567f91ad1eebfa35155c7ee43d3e8f	The Print Shop Companion rev. 1 side A.woz
+17b2171da467c0343db67d110335d52a	The Print Shop Companion rev. 1 side B.woz
+eac1b0d54f0e532c6d6d65b8071e85cf	The Print Shop Companion rev. 2 side A.woz
+fbaaa9ea65b822e7d280238b0b34859e	The Print Shop Companion rev. 2 side B.woz
+4a10cf1ee400aec96cd7e544d29c288e	The Print Shop Companion rev. 3 side A.woz
+333fe09abad7785ff3a0c8b96fda3286	The Print Shop Companion rev. 3 side B.woz
 6329151074b939e6cf286b95d15a5a55	The Print Shop Companion v1.2 side A.woz
 d967815b7d59b63f7da6688ab6e5d863	The Print Shop Companion v1.2 side B.woz
+b167fd9c16660d4cff87b6c1b41d4133	The Print Shop Graphics Library Holiday Edition side A.woz
+58bbe2636cb615c6075912242fbcf462	The Print Shop Graphics Library Holiday Edition side B.woz
+481b00405039d39ae13cc2bd8636800e	The Print Shop Graphics Library Special Edition side A.woz
+10c5c9e42a4b65cf5fd593cc3d4a6a16	The Print Shop Graphics Library Special Edition side B.woz
+173c41aebf7e6dc6768ebbfb31c4b5ad	The Print Shop Graphics Library Volume 1 side A.woz
+ebdab7049f336085306f683be6b68db2	The Print Shop Graphics Library Volume 1 side B.woz
+8c4ca04c675c6fb4939968010dfc1cbd	The Print Shop Graphics Library Volume 2 side A.woz
+cde1159ba5fb3010f986b7c9b29c79fe	The Print Shop Graphics Library Volume 2 side B.woz
+169eb86c83bd2dd8097d03046dfd375f	The Print Shop Graphics Library Volume 3 side A.woz
+4101e37ae8c8d18c0c71aab67e11e700	The Print Shop Graphics Library Volume 3 side B.woz
 838a19c1f0061c713fd605bd3df34174	The Print Shop side A.woz
 7f294d3c094144e8d4002a4ddb354f0e	The Print Shop side B.woz
 8bd904f622e60f2217bf61d5ecb7fb15	The Puzzler.woz
@@ -2716,6 +3230,7 @@ f1767c1cff3bd40887f83b01f060a3cd	The Quest v2.0 side A.woz
 dd564ef00985b2ccc136b05eed1e71ae	The Right Turn.woz
 5e5318484f70509841ff898da05562ed	The Road to Gettysburg.woz
 9893862a9a93f438f68884e3970ccc50	The Rocky Horror Show.woz
+1b46e975fe33a41e8b956114cff318cf	The Royal Rules 800K.woz
 71f109044f938ed4a263eaa7badfd38b	The Royal Rules disk 1 - program.woz
 0b7bc0bc616f5cfcae31d62918708823	The Royal Rules disk 2 - data.woz
 3582f044b4d884ebd2a0423570753c1a	The Sands of Egypt.woz
@@ -2731,6 +3246,8 @@ c0652bf0bbb6ae3a89688eb812eda183	The Scoop side B.woz
 00567ada898efbad98c6e9a407de39ee	The Serpent's Star v1.0-Broderbund side B.woz
 a2b84833343f850d9c08abe6c0cca77c	The Seven Cities of Gold side A.woz
 8c2ac18d543222a46476e0e41b8f5d8d	The Seven Cities of Gold side B.woz
+334368daaafc381bf39ef4a1d9395c96	The Shadows of Mordor side A.woz
+f54622f925487d3ff9d673aca302565a	The Shadows of Mordor side B.woz
 f51d8aa564ca7ccd6c6d5c0a5ac44505	The Snapper.woz
 9766909b6899d10b8741ad695a1219b4	The Space Ark disk 1 - program.woz
 fb85ce1dae434dfaec67b4fba53afc5e	The Space Ark disk 2 - scenario.woz
@@ -2741,6 +3258,7 @@ cf35d7a4e752e1361964cf6b256e9ec1	The Spy Strikes Back.woz
 0844735d77ea2cfed4024783b7db281c	The Standing Stones side A.woz
 7d4df8d0ce900594e932379429dc7dba	The Standing Stones side B.woz
 50119ffe6dfac0f99a2c2cdfa3ed78ae	The Stickybear ABC.woz
+0e1879b78f4f20bcaddcb74e182fd859	The Subtraction Facts.woz
 1f039ac6d45f771e1c01a3dd81ccf9a3	The Super Factory.woz
 ff8fbb08f8afa99133fcca893eba8f8b	The Tarturian.woz
 b5a8efaf707f5142f63f94861dc26c71	The Tenses of Verbs 1988.woz
@@ -2750,11 +3268,15 @@ d38daf08af03e20763b1557079146dd4	The Time Tunnel- American History Series.woz
 fceaa56d60048f5e77c72ebb84d1f0ec	The Time Tunnel- Early America.woz
 f317e21abab2af2cc4bcf3d5fed93fe1	The Time Tunnel- Sports Edition.woz
 0fadc4742093debdb4e75214fc28da4f	The Time Tunnel- The Presidents.woz
+bd6e9e5abfbfe032e7301fd01ff95486	The Tournament Manager.woz
 867b4075c1c63657bf8edb8aa0a0a854	The Tracer Sanction side A.woz
 b88d72900e1e11ee7c61811c21a70186	The Tracer Sanction side B.woz
+33100f15a58b91fff2b10fe7cee5b0dc	The Treehouse v1.0 800K.woz
 ec07291193459fbd549c8a00bb72d8cd	The U.S. Constitution- Nationalism and Federalism disk 1 Development of the Constitution.woz
 3e010c1011085710b0080489a9358962	The U.S. Constitution- Nationalism and Federalism disk 2 The Creation of the Constitution.woz
 bcf0a4a0aac8369f7d1902c4492cdb38	The U.S. Constitution- Nationalism and Federalism disk 3 Testing your Knowledge of the Constitution.woz
+a2b252a82e862fbc71ee8bfbaa4b1c05	The Usurper- Mines of Qyntarr side A.woz
+b89ba4be24a694427da0e4120b31aca4	The Usurper- Mines of Qyntarr side B.woz
 6a50b27ad26c040207ff11f4e9a61455	The Whole Neighborhood 800K.woz
 73c4587d0a3d6521f098e2c6feb2370b	The Wizard of Oz disk A.woz
 2a300b2238167a5e616690046f6216c3	The Wizard of Oz disk B.woz
@@ -2763,6 +3285,10 @@ af4c28edaac7efa7d866c49ec7f96421	The Wizard of Oz disk C.woz
 d74400e216fc81e29d87168cf7f0ac43	The World's Greatest Baseball Game.woz
 63f0ce1e0b324d6f9202fe86326229ef	The World's Greatest Football Game side A.woz
 c16c69302533a1484a36208743022016	The World's Greatest Football Game side B.woz
+7bdcdd413c8ad70a83c201d2533c8f82	The Wrath of Denethenor - Side 1.woz
+2777415b8bec2b38e3fa4e335802dbb9	The Wrath of Denethenor - Side 2.woz
+b121698d84f58a37ecb1fb4db477379d	The Wrath of Denethenor - Side 3.woz
+50cbc432f074304a92cc3cf764ec6f88	The Wrath of Denethenor - Side 4.woz
 2cc282043fd98315a8e9783c157c7afd	Theatre Europe.woz
 9d247b0f5d145998c1d6b00ec67c56be	Theorems and Proofs of Theorems disk 1.woz
 388c8a80da0cdb5c66f134f2c495e65c	Theorems and Proofs of Theorems disk 2.woz
@@ -2790,6 +3316,8 @@ c608bf82423b8a8bfc7f13793e29179d	Thunder and Lightning.woz
 9d0a73479b226285be1835185ec5cd12	Time Navigator 800K.woz
 6f094ff247168036da75f5b1efbde813	Time Navigator Around the World side A.woz
 0f3049f660634f65e1f62aae737e80c2	Time Navigator Around the World side B.woz
+72a5193c85afa9f358515f1c9ca7373b	Time Navigator Around The World v1.0 800K.woz
+693d6940c804e2f0718ae510521477f1	Time Navigator Leaps Back v1.0 800K.woz
 7037d01dae1f7e1b7d9eb111d8df76c4	Time Navigator Leaps Back v1.0 side A.woz
 70429ec24ab29695a04e9fa7a3eef54f	Time Navigator Leaps Back v1.0 side B.woz
 ff8cc67337ac9ce28f67731fb4c12a74	Time Navigator v1.0 side A.woz
@@ -2846,8 +3374,10 @@ d8f45bf55e7bd4259c487824cea064cb	Tink! Tonk! Tinka's Mazes side B.woz
 fc768a37386b7aabdeb9bd7f6814ef00	Tink! Tonk! Tuk Goes to Town.woz
 c3857a142537e350844a3686267890a0	Tink!Tonk! Tonk in the Land of Buddy-Bots.woz
 28a364d4a9ff9f7c06602cc125ec4647	Tink's Subtraction Fair.woz
+d5b1f40a3ba05d699f5e9bfa3c0d644c	Tiny Pascal.woz
 8f350a4400738503c66a50ff3429fbb7	Tip 'N Flip.woz
 dfc0eb6f7e276cdf763de8c4caa1960c	Tip Disk 1.woz
+38a625bf71f207f4283db75c69f41ca2	To Preserve, Protect and Defend v1.1 800K.woz
 b5dc222aadd92ba0bfd167857a33a9a1	To Preserve, Protect and Defend.woz
 fc39eb57216244e697d05b2495d9ef2a	Tobbs Learns Algebra.woz
 f8c1c5905d7a7206ccfcd7154d441091	Tomahawk.woz
@@ -2861,6 +3391,7 @@ aff0dd446e3c9c24e303ed43cb65af19	Track & Field.woz
 d57502d825aa0772b7c63854e4d67dfb	Track Attack.woz
 ab3ea9b6ff3c2e021eedf27b733b3de4	Trading Post.woz
 c67316646af82a60992c993e1b4f8891	Trains.woz
+aad7ea618f5bf75166d9b652c7af3f81	Tranquility Base.woz
 244fc7321c4fd33897597ad84b4ec79e	Transportation Transformation 800K.woz
 fa8c5718945500c292a386bcf2fe3d76	Transylvania 1982.woz
 c734ff0ee22f00eb5665dd5b5ffc1232	Transylvania 1984.woz
@@ -2876,6 +3407,7 @@ f5c255b229e4c2000f311929a95178f1	Treasures for Sale.woz
 a5c63fad5bb07ecfc41608d7249ed334	Triad.woz
 c693c6fa19d0b78a935e18c04e713b7c	Trick Shot disk 1 (game).woz
 30ae1541adbf55678d5086517f413bcf	Trick Shot disk 2 (sample shots).woz
+85af306df68bf4b9521a8111207ff6e2	Trigonometry of the Right Triangle v1.0.woz
 7fcf5e1ee6c41594d138760a32eb79b4	Trinity side A.woz
 f41cad109c9a98522796f47b46f76dc2	Trinity side B.woz
 025a8f82be4922a3b3d49345a0e95347	Triple-Dump side A.woz
@@ -2895,6 +3427,7 @@ f200daac89acfb422ffe9e3de87e118c	Troll Printmaker- Holiday Fun disk 1 - program.
 31ee62fca6efdba66619d5a69d022798	Troll Reading Games- The Adventures of Tom Sawyer.woz
 4a9dad8222c753710e1ce76e4903d223	Troll Sports Math 800K.woz
 e59ca2d183c1f461ee687106ecc0e0e1	Troll Sports Math- Math Word Problems for Grades 4-6.woz
+08783fe27366246ebac03e07c5505fb5	Trolls and Tribulations.woz
 dc57e0dae337c1c3f8f21fccfa3b2ffd	Tubeway II.woz
 8c19940c0383c6841253e6a39dde353d	Tuesday Morning Quarterback.woz
 7ce82be1572a1513d83621a90599d909	Tumble Bugs.woz
@@ -2911,6 +3444,7 @@ dbdc455f9c8db9594edb06d8e4324e6d	Typhoon of Steel - Asia.woz
 643ce6eaa8b76897ab144ff1e678af3e	Typhoon of Steel - Scenarios.woz
 23f5a061de65a70da36ed3534d0b0cf4	Typing Tutor III with Letter Invaders.woz
 47606a25f407c89717e3fd314ee28b18	Typing Tutor.woz
+cda9de1806d093845b4deec001ac0f4b	U-Boat Command.woz
 9be8746a50af54fd065cc4d274353b2a	Ultima I - The Beginning.woz
 ee355b7f0fe5447c9e7de4a4b80e3690	Ultima III side A.woz
 99fa9d5c91ec95cefad32fa57d3463cc	Ultima III side B.woz
@@ -2918,6 +3452,8 @@ c89b0b45333d336aca11af5d8449a7bb	Ultima IV - Side A - Program.woz
 3b5c55cf1f1e74a2d01ebcd37326e3f3	Ultima IV - Side B - Towne.woz
 702459f52eace781dc8faf0ad0fa60f3	Ultima IV - Side C - Britannia.woz
 6f8625bd37422cc9977aa306ff4342fc	Ultima IV - Side D - Underworld.woz
+46f03fd8140bb251226af966b63de7dd	Ultima side A - program.woz
+1bd32dd06e85f345f77b6d954656ddcd	Ultima side B - player master.woz
 63c6323c43545624ed0076d3bd74dc90	Ultima V - Britannia.woz
 e52d5759de785fc34792dc3dc216d696	Ultima V - Castle.woz
 206f0fadd2daf14b191bce6072f8455c	Ultima V - Dungeon.woz
@@ -2940,13 +3476,21 @@ dfb7be019d5181e1daccd016daa75ad3	Ultimore - Egypt.woz
 7a0032ca9cc34c9b8dc15043d9cf4203	Ultimore - Spaceship Crash.woz
 d837732de99cf814e160d93672f1c559	Ulysses and the Golden Fleece side A.woz
 391cc09141418de2a6c929fa907babe9	Ulysses and the Golden Fleece side B.woz
+58b7de610bb66463b1fe5ae0e32687c9	Un Día Típico disk 1.woz
+f6a9cf798c1228d4b4df55bed0c3906f	Un Día Típico disk 2.woz
+0e0e635bd3c66b0ab40d2a27a6f7b908	Un Día Típico disk 3.woz
+b18f0f8224aafab119371e4bedd14d79	Un Repas Français disk 1.woz
+25deea090a648a9a8bc35ef876345dfa	Un Repas Français disk 2.woz
 50b1809a0f8b241a9081c01e45eebcaa	Uncle Clyde's Consonant Slides- Beginning Consonants.woz
 85b97b4c7375567edc41d17375f71ef1	Uncle Clyde's Consonant Slides- Blends and Digraphs.woz
 90b51ab922e87293f79ca597c6b5e904	Uncle Clyde's Consonant Slides- Ending Consonants.woz
 b875f802e461f849d6b44c9465809636	Understanding Maps and Globes disk 1.woz
 221707765905e83fd74b4761c65fbb74	Understanding Maps and Globes disk 2.woz
+123ee9c89274e0f07c6de2c115d39804	Understanding Place Value using Base Ten Blocks 800K.woz
+0697d059dbf90f110c171c47e5268ade	Universe II v1.10a 800K.woz
 af555507b9f9bc72c1bae52ef9c329c8	Up 'N Down.woz
 6f35bebc9f0396d0cf32e3dc791297fa	Utility City v1984-08-22.woz
+f282e4e6cdfad86ee25c33af574693c3	Vacation Nation Travel 800K.woz
 3163e792c5f358dc1bbe97fd4e2392e0	Vacation Nation Travel v1.0 side A.woz
 6828c1667c9f2b441ed1e28a34d65fae	Vacation Nation Travel v1.0 side B.woz
 e51f7fcaa8a88279ccd981e8ce76867d	Valentine's Day Grump.woz
@@ -2961,7 +3505,11 @@ e76b2591cb763a8c82166a594c13c630	Verb Usage 4 v01.31.89.woz
 0b9894803833fcf2af7982c83716e8e5	Video Title Shop.woz
 6e3998501f1328ffacd3a56cc6ffa350	Video Vegas.woz
 929f0d7d1baddf993624e228ef69de72	Vindicator.woz
+cc498506a337982f5a046ec125deabe9	Viper Patrol and Rod's Revenge.woz
+5cf5ef3a04df573662e9a9f12d037739	Viper.woz
+c12a4001e6be5d281eff9d25feab65ed	VisiCalc v1.37.woz
 0bddae450687f3cf9de5ce2776e0915c	Vocabulary Development 800K.woz
+8eee2bb09883ef4aeca3021f36639654	Vocabulary Development.woz
 fcf5e6cb208c19c86ec2e918963581a5	Vocabulary Science and Health 800K.woz
 a9ebe09f9a0be77832f70780b33e0a3e	Voodoo Island.woz
 e535f24d24e7f29be68a2741f8b8abd2	Vortex.woz
@@ -2978,14 +3526,42 @@ c27c2da057a16ffd21a701aa556988fe	Warship v1.0.woz
 b9cd1b29e9dbc410e280d184012babf5	Weeds to Trees 800K.woz
 aa3c6b0099e9c10c1263e69d5c14e792	Weeds to Trees.woz
 972cfa76c1c03e49690c0126d9adf855	Weights and Treasure.woz
+f47400792345d51e330d5e39b16f943a	Wheel of Fortune 600068A.woz
+ef2a9960c048453b1f16fa7e82bfd3b2	Wheel of Fortune 600068B rev. 1 side A.woz
+93938c3f7f29613c573fd348f93ac077	Wheel of Fortune 600068B rev. 1 side B.woz
+c1b8048f966fbd4ee68362642e5aa941	Wheel of Fortune 600068B rev. 2 side A.woz
+6377ca87624109c8e143d68bea77cd4d	Wheel of Fortune 600068B rev. 2 side B.woz
+f6d322ecab6813614fe04f634846f721	Wheel of Fortune First Edition side A.woz
+7636c47528a46973b98845298fac1cbb	Wheel of Fortune First Edition side B.woz
+431070a526d7ce12f14433b220812bd1	Wheel of Fortune Golden Edition side A.woz
+3e96ae28ef3fba42eb739a150888fdcb	Wheel of Fortune Golden Edition side B.woz
+caedbe0603c0b03f2e509cfbba59b2b3	Wheel of Fortune New Second Edition rev. 1 side A.woz
+90e54b8763c8f3d34a2f89125a65cfa7	Wheel of Fortune New Second Edition rev. 1 side B.woz
+f03559c2b67a5f6ac6cdb285b9cff6d3	Wheel of Fortune New Second Edition rev. 2 side A.woz
+36fd5d891fd12a9b960a22b6bb2167ad	Wheel of Fortune New Second Edition rev. 2 side B.woz
+c9b0b11f6b650d7e0bbfee440d22196f	Wheel of Fortune New Third Edition side A.woz
+0057526c051bd1487b965386f5e11c4c	Wheel of Fortune New Third Edition side B.woz
+7392131e5580291a30ab71e0dee60d43	Wheel of Fortune Second Edition side A.woz
+e523e55b5e8db22fcfbd862adcfee57f	Wheel of Fortune Second Edition side B.woz
+0e4d6a715e3575b1a4142eb4edfd58ee	Wheel of Fortune Third Edition side A.woz
+abc0952db4afca2c0be29153472ccb60	Wheel of Fortune Third Edition side B.woz
 64d70495f8db8cf5b47a6459ef536673	Wheeler Dealers DOS 3.3 conversion.dsk
+c1118b304ac6287c974caa74ff5da25e	Wheeler Dealers.cass
+80f6af7e3172449f6c1c6d8a93a215c3	Wheeler Dealers.flac
+5384a54052832716388c05ec1ac440b7	Wheeler Dealers.mp3
+b46dbc891588dfcf2d97d304f839f4d7	Wheeler Dealers.wav
 5c56fce19834d18e9d99b4ee5765e16f	Where in America's Past is Carmen Sandiego - Side 1.woz
 5d6d81160a401a11874e76bd83736687	Where in America's Past is Carmen Sandiego - Side 2.woz
 3080ff63eec763b29bb4328ec28ba781	Where in America's Past is Carmen Sandiego - Side 3.woz
 5772d4f494d5950196349054528c4ef4	Where in America's Past is Carmen Sandiego - Side 4.woz
+917e5915253374a392d4249d9d96bbbe	Where in America's Past is Carmen Sandiego v1.00 800K.woz
 1e86488f2ab4b5e100723d9fe4290dd2	Where in Europe is Carmen Sandiego 800K.woz
 e273b150590f4048ea1b5d499ae59af2	Where in Europe is Carmen Sandiego side A.woz
 533c0aadfe9a6abae138d7211c720e48	Where in Europe is Carmen Sandiego side B.woz
+f8390801d740b6537268e72cabc6cc5d	Where in North Dakota is Carmen Sandiego side A.woz
+6cb0d076de2acd89366e053de6196ebe	Where in North Dakota is Carmen Sandiego side B.woz
+e19984d065a96cafffe5f4a12a5e057d	Where in North Dakota is Carmen Sandiego v0.98 beta side A.woz
+fdea30bd4f09ce02bbe189f063cae9c1	Where in North Dakota is Carmen Sandiego v0.98 beta side B.woz
 a1a4861b0fea0d981883e5fcc830aa89	Where in North Dakota is Carmen Sandiego v1.0-final-beta side A.woz
 9296f37ccbaed969001df217a30ce7e9	Where in North Dakota is Carmen Sandiego v1.0-final-beta side B.woz
 557e0b2dad9c05fd6d0605100d5bc4d9	Where in the USA is Carmen Sandiego 800K.woz
@@ -3012,6 +3588,9 @@ bbe1c230a43ac1c28c655ee8811e8a52	Wild West Math Level 4 disk A.woz
 7b20528b61ea01b297d7bb2f8228436d	Wild West Math Level 5 disk 1.woz
 05604a3e7dc3645a2081f4daf20b7749	Wild West Math Level 5 disk 2.woz
 c73ff853307d879161e6fd40a177e55c	Wild West Math Level 5 disk 3.woz
+86564457b8428c276163d0cc9c55f7d4	Wilderness Campaign.woz
+17eb55628741de9df4ce946f0cfc9878	Wilderness- A Survival Adventure side A - Sierra Nevadas.woz
+27d2b4bfe0baa3e3ba2d860fbe3eb4a2	Wilderness- A Survival Adventure side B - Journey.woz
 48e28d6a7c13e55324b6a1842f8f8370	Will O The Wisp.woz
 b74db8be74db771c1ad5ce848a54143a	Willy Byte in the Digital Dimension side A.woz
 fab2e49fedc381869f1e73586f4363c0	Willy Byte in the Digital Dimension side B - boot.woz
@@ -3030,6 +3609,7 @@ c7d2016b3172d45240cb10573166f4cf	Windwalker side 1.woz
 b7231ece4242c56053870f38641d283b	Wings of Fury side A.woz
 6c6f581db8573f7700e358cb4cb6a600	Wings of Fury side B.woz
 d5f413328e646e01aaf3bcf6d58e38b5	Wings Out of Shadow.woz
+3418e41729f5ecf483aa09bc19412021	Winker's World of Numbers for the Appleshare Network 800K.woz
 48d5a95911742c869ce8a93086f87072	Winnie the Pooh in the Hundred Acre Wood disk 1.woz
 eac803c863cd1fc78f21b666b30f618d	Winnie the Pooh in the Hundred Acre Wood disk 2.woz
 487b90ef6d5340304a304dd1c6ce43c2	Winter Games side A.woz
@@ -3081,6 +3661,7 @@ e4d1e812a27fb5a05b3b875d15094b6f	Wiziprint v2.01.woz
 fcd3f2b12e4910778170cdf5f1bb7719	Wonderland Puzzles 800K.woz
 30a5e64b16ce9221f1ee956af3d8c370	Wonderland Puzzles.woz
 6c9201d2266f0a42aac01dd1552798be	Wood Car Rally v1.0.woz
+0c5202571e2c700df5d49d386ea29ea3	Wood Car Rally v1.1 800K.woz
 4d442be96521ba9c9f997acd48b1f226	Woolly Bounce 800K.woz
 6c13d41bc4455dc9f74e8b469953fee2	Woolly Bounce v1.0.woz
 9b73d7b5d95efc311e4866f38e57c42f	Woolly's Birthday 800K.woz
@@ -3100,6 +3681,7 @@ a6d61ae1507c8f401d761fecc9be3ff4	Word Processing on the Apple v2.0 side B - DOS 
 c03ee7a3e3a7a1a482d0198103eb386d	Word Spinner.woz
 dec440258baa2118fa84612fd9673f9c	Word Zapper disk 1 - Beginning.woz
 59c09ed86e4cffac69cd76e5afbecf02	Word Zapper disk 2 - Advanced.woz
+65ffc06b3e1547ec7dd0bf1206a39841	Word-A-Mation 800K.woz
 64c78b3384ca61b7e093dffba8bb3a48	Word-a-mation.woz
 6920e5c55acebf1830232797d2164a3e	WordFinder.woz
 99ac49bf7a5dc94f89227e36d2ab132b	Words & Concepts.woz
@@ -3124,16 +3706,22 @@ cae554ad8a99492d5bbce07bf6f26b16	Writer Rabbit v1.2 side A.woz
 18f16fc36e93ae95dcbcfc1045219454	Writer Rabbit v1.2 side B.woz
 61c94414b3130ca4ad7f09cda55355ec	Writer Rabbit v1.3 side A.woz
 e96e590a66f7692203ee69dc0943c46f	Writer Rabbit v1.3 side B.woz
+49c00cc47f3349b9a31ee864294a54a4	Writer Rabbit v1.4 800K.woz
 402c5565af87ee5fd6c86c988586ef44	Xevious.woz
 95d024de4f0863e4017dc4374e8be99a	Xyphus - program disk.woz
 490d5283e32e76b71d655225123cb21d	Xyphus - scenario disk.woz
+61089701c48c0ad8caa561229d9a8506	Yogi Bear Visits the National Parks disk 1A.woz
+187409f49faf4cb3dbcef85c11cc6e12	Yogi Bear Visits the National Parks disk 1B.woz
+96ee192787bbe0d13349b6fb6fed0a7a	Yogi Bear Visits the National Parks disk 2.woz
 f84c815553604c9fe180e797aae17a74	Zany Golf.woz
 843a540716412e3810b0b5f56abb563e	Zaxxon.woz
 36bce8cd2aa31729a325dcfad5b9bbad	Zendar.woz
 d27d09f59474212c4fd4f5ca22349c77	Zenith (Softsmith).woz
 7562c7db686035a005ea2f71ced50e07	Zenith.woz
+f746f8d9f594f855e87ead567878c84b	Zero Gravity Pinball.woz
 61cb186177bdeadb44ebfe9623785885	Zodiac Castle.woz
 0f60468351d5237306ac850b7cc3d01d	Zoo Master.woz
+d718c9f0a3e3aa96e78f71a0427f2bd4	Zoo Puppet Theater.woz
 b655e613e1110640172b0a0995bfed12	Zork I r15-UG3AU5.woz
 a57a292fd462b3e505852cbbc496cf06	Zork I r26-820803.woz
 f029392e866b18a27c40cfbdd370592f	Zork I r5.woz

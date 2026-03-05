@@ -10,8 +10,11 @@ d572333ec1c268e8817ec2209c2c3509	2088 The Cryllan Mission IIgs - Disk 4 - Outdoo
 ba9b2723ba343586319347951f2165e9	816-Paint IIgs.woz
 a7dc1fae1a73410f83eaf7272e82a3be	Aesop's Fables IIgs - Disk 1.woz
 d58689b217e42e42994f4f66b1e1e980	Aesop's Fables IIgs - Disk 2.woz
+a96f6d533537c814fee32ee456624519	Airball IIgs.woz
 227bfdbca05b14fae97c123f265d41ce	Alien Mind IIgs - Disk 1.woz
 e18d278547f9d1d2d00dd1e7433de0bf	Alien Mind IIgs - Disk 2.woz
+10f3c163aea676a48fb46cb204f5b972	Ancient Glory IIgs disk 1.woz
+ec78e0e41f59b7f0070d8ad0f6fa16b8	Ancient Glory IIgs disk 2.woz
 5e62dba8bd4ac998d8be4a16b6a2f127	Arkanoid II - Revenge of Doh IIgs.woz
 d7895ec59dd3a33225cad66756ec5465	Arkanoid IIgs.woz
 ea8e6052b45cd6d32d2963f259f2311e	Art and Film Director IIgs - Disk 1 - Art Director.woz
@@ -40,6 +43,8 @@ a2f25b6ca25a731b504ba62cf7a577b7	Charlie Brown's ABC's IIgs - Disk 2 - program.w
 7bb552d0e284703c18eacb4d058548bb	Club Backgammon IIgs.woz
 e12ba47de5c4433928b226e66997d6b3	Columns IIgs.woz
 f55e6fecffcb92aec05039b028c71dee	Crystal Quest IIgs.woz
+cae7d0672b75fbb8c7838d78b23efd88	Dark Castle 1989-09-22 IIgs disk 1.woz
+78e917d6f56f814c0d811f3fc319d036	Dark Castle 1989-09-22 IIgs disk 2.woz
 c6bb52b0db9f379018487a60d17462b3	Dark Castle IIgs - Disk A.woz
 e9f11e99da98bda9b138594079dfe77b	Dark Castle IIgs - Disk B.woz
 9306ea274205bb516118ac30ac57d1cc	Defender of the Crown IIgs - Reel 1.woz
@@ -91,6 +96,9 @@ ad8b8771513b9615ecab53258bceb1e0	GraphicWriter III IIgs - Disk 2.woz
 c292d2e49306853e5bb084fbcee844db	GraphicWriter III IIgs - Disk 3.woz
 8c2a4def9c2f8ce4d9a31f82f8c8c55b	Great Western Shootout IIgs - Disk 1.woz
 4fd3e4ef08f8bf56aa2d5f4e954edac3	Great Western Shootout IIgs - Disk 2.woz
+40ba1e904e9167a5c424dc8482e8ccae	GTV- A Geographic Perspective on American History IIgs disk 1.woz
+7dab58c3806bc857025cf2e71ff03511	GTV- A Geographic Perspective on American History IIgs disk 2.woz
+eb1cb3807004061effc456c50fa4aea0	GTV- A Geographic Perspective on American History IIgs disk 3.woz
 3b3c82da9eda1b0b6091948ed3ee052b	Hacker II- The Doomsday Papers IIgs.woz
 eb287bb6a5f0c4ac80d283a0b6a4f6cc	Halls of Montezuma IIgs - Disk 1.woz
 daad65b7cfc4e2337acec6dad3726eb0	Halls of Montezuma IIgs - Disk 2.woz
@@ -150,16 +158,23 @@ c815ed7700fbfd1021867c6a7a3934df	Math Wizard IIgs disk 1.woz
 8b64b8faea542950fceac34135f693e4	Math Wizard IIgs disk 2.woz
 d5a8161b1beb7e9ede7a671d6150c0d5	Mavis Beacon Teaches Typing IIgs - Disk 1.woz
 7e007230aca1420b43f162f92292f18a	Mavis Beacon Teaches Typing IIgs - Disk 2.woz
+5e08ae20ae26ee81836702dffa52e537	Mazer II IIgs.woz
 f67a9188b25540c6a42da0ad01bd34ec	Mean 18 IIgs - Disk 1 - Program Disk.woz
 3549c89af048cab9a6165c98b7284037	Mean 18 IIgs - Disk 2 - Famous Courses Volume II.woz
 eeb36c278874a02665ae3fdd4ab8cf6e	Mean 18 IIgs - Disk 3 - Famous Courses Volume III.woz
 d7c0d46a96f0342f142c7bd0ad009aa9	Mean 18 IIgs - Disk 4 - Famous Courses Volume IV.woz
 6febe021e248069d00884c15b3b08620	Mercury IIgs - Disk 1 - System.woz
 4142c55b36ac64941b32a8d5fa605a89	Mercury IIgs - Disk 2 - Program.woz
+ab440bead8a43ecff47df332d6431f02	Micol Advanced BASIC v1.0 IIgs.woz
+5cb6df052aaee632874b72a424ddbfec	Micol Advanced BASIC v3.0 IIgs.woz
+d90b35ccbe9babdc2b45aa96b57ab987	Micol Advanced BASIC v5.0 IIgs disk 1.woz
+d8174d6c60e483bccebd8f1077a0113b	Micol Advanced BASIC v5.0 IIgs disk 2.woz
+eb9722d2c8727ab21690d6fad99ab54c	Micol Advanced BASIC v5.0 IIgs disk 3.woz
 51e8975d6dc80dee3869fbd9a06b7445	Mini-Putt IIgs.woz
 e2d9bef174adae357772b4da6bf41541	Mixed Up Mother Goose IIgs disk 1.woz
 6ee9d933a0f8ea8d629098e502aa7215	Mixed Up Mother Goose IIgs disk 2.woz
 42ba8f52ae59fa4c0f12b15ffc4deec3	Monte Carlo IIgs.woz
+2943b1b1fb4a269a8999a701081c8901	Music Construction Set Dealer Demo Disk IIgs.woz
 379fe2fa263110251ce1546908a5a38b	Music Construction Set IIgs.woz
 ae139b824e3d486aac43fd3190c50dcb	Neuromancer IIgs.woz
 2d250a281dc39e90aa275a6276a0f5ae	NoiseTracker IIgs.woz
@@ -171,6 +186,7 @@ b186e1d536adaad468acad753e98816a	Out of this World IIgs - Disk 2 - Sounds Disk.w
 99170eaad53d04a74618280a494e9946	Paintworks Plus IIgs.woz
 b7772b087606fef8e4fd9a175fbe6a50	Panzer Battles IIgs disk 1.woz
 4e516746e73b991275206dbadac95b47	Panzer Battles IIgs disk 2.woz
+85f365ff79aeefeeaaecbb731ce5579e	Paperboy IIgs.woz
 b038727951a665662780aec0b01342a8	Peanuts Maze Marathon IIgs disk 1.woz
 868a16e565d8678e5cd85ddd0f2360b0	Peanuts Maze Marathon IIgs disk 2.woz
 7b3e2c352b64a43f95d253532ddba271	Photonix II IIgs v2.50.woz
@@ -219,6 +235,7 @@ cdde58e1451a51d0b71e6b2db52a06c4	Skate or Die IIgs v1.0.woz
 e1e931c701ddd9aa31793ebfdb08015e	Skate or Die IIgs.woz
 d7bcb46e86b411e391ec3af5f755bcde	SmoothTalker IIgs.woz
 ea7de344ce742a03388627123a9489b8	Snoopy's Reading Machine IIgs.woz
+b34af6b536e194747713b5f6d0ceacf2	Solitaire & Cribbage IIgs.woz
 a39f0f16d621e9c15971cecc0e0b2fa6	Solitaire Royale IIgs.woz
 575aec742ed90aecd555b3f6c558eb2f	Space Ace IIgs - Disk 1.woz
 dc2449d4acb47194ca349324006ef989	Space Ace IIgs - Disk 2.woz
@@ -229,6 +246,9 @@ ee7509dc304598c877ffe4ea12e5225d	Space Ace IIgs - Disk 6.woz
 a7cbcd1649411d6653d49317e3f33300	Space Ace IIgs - Disk 7.woz
 cc97ddef34770c1ba6cfd6cf677867f1	Space Ace IIgs - Disk 8.woz
 f37cc24b0565675164506fb9e90423ce	Space Ace IIgs - Disk 9.woz
+ccb32e5a3c962d85613057e5e9558e5b	Space Fox IIgs disk 1.woz
+a2b2a5c3d0aa4d16cdaf919562b80b57	Space Fox IIgs disk 2.woz
+8bd2ba8bd9035db0cd757d1371bee5a6	Space Fox IIgs disk 3.woz
 d206a169eb3d7485d799a240eb92f1a8	Space Quest II IIgs - Disk 1.woz
 e5356d8863fc268664bd1bf50785cea6	Space Quest II IIgs - Disk 2.woz
 2bb4efa09b793e935c67545eeeed4ea7	Space Quest IIgs - Disk 1.woz
@@ -262,6 +282,8 @@ bd0307d433a2b4d1ed20dee4c7157ec2	The Bard's Tale IIgs.woz
 78c2673df8fe79612de27ece8b89f6e9	The Duel - Test Drive II IIgs.woz
 7ed4dbfcd3125f0485c5dfb6b18ed9c0	The Fidelity Chessmaster 2100 IIgs - Disk 1.woz
 3f62c2d5be26172f5c767f0fe7981c2b	The Fidelity Chessmaster 2100 IIgs - Disk 2.woz
+4a4b98b9aab2af5e941ecf6f24502d93	The Fidelity Chessmaster 2100 v1.1 IIgs disk 1.woz
+70852b39ddaecc07e90feb05721b432b	The Fidelity Chessmaster 2100 v1.1 IIgs disk 2.woz
 b165401ccb4875ed1a13b3faba412ae2	The Graphics Studio IIgs.woz
 51cb1d19d72fc4df1632e793be2a65d3	The Hunt for Red October IIgs.woz
 e2f4db6cbcb2ac48f70301b629368189	The Immortal IIgs - Disk 1 - Play.woz
@@ -271,11 +293,15 @@ e2f4db6cbcb2ac48f70301b629368189	The Immortal IIgs - Disk 1 - Play.woz
 fcbacb65801ac937eeb6440a36fa8064	The Last Ninja IIgs.woz
 7e4a5a5989a93f78040303b575ad716b	The Logic Master IIgs disk 1.woz
 49e7f5e87f95bbe6397fca69a450c431	The Logic Master IIgs disk 2.woz
+dbe46ff9e198329eb1b5904ba5f544da	The Lost Tribe IIgs disk 1.woz
+2d5c5fd8d5a3a51d0c50be5b5ecc8a13	The Lost Tribe IIgs disk 2.woz
+4502f5b3142a0b8c02eca5e83c2acb78	The Lost Tribe IIgs disk 3.woz
 522021c966b2967b6fc7fc8a3472d5e9	The Music Studio IIgs - Disk 1 - Program.woz
 f9c1abd51cca13be6a7d13ee50fbee70	The Music Studio IIgs - Disk 2 - Additional Songs and Instruments.woz
 338476f4ad2bb6abd75859e5fcfb730e	The New Talking Stickybear Alphabet IIgs disk 1.woz
 5526f88f8955de7225666bba8ff76c54	The New Talking Stickybear Alphabet IIgs disk 2.woz
 79ef6634343ab0e9b9cdc20fe4e58e5f	The New Talking Stickybear Opposites IIgs.woz
+950f23cbeafd4a0b58af89d040677984	The New Talking Stickybear Shapes IIgs.woz
 1128c45e81899a066f25b98e669b75df	The Print Shop Companion IIgs.woz
 d1738f7734b8fdb6522ebacec2bff651	The Print Shop IIgs.woz
 c45e8f705c298a78fd800499510b5890	The Third Courier IIgs - Disk 1.woz
@@ -296,16 +322,20 @@ af9df3ff4871141d87cd9d08259e15e1	TopDraw IIgs v1.01A.woz
 f78df829a08d23afc0f4e372f2a14333	Transylvania III IIgs disk 2.woz
 300c6ed972d9830242b6cd4c2b6ac8af	TrianGo IIgs.woz
 b78b5bfd279ed233ea90fcce22ea8f90	Tunnels of Armageddon IIgs.woz
+e60dbe68d060b823272617975204131e	Ultima I IIgs.woz
 e6b9a2ab551d438a80b056d6aea08b73	Uninvited IIgs - Disk 1.woz
 4a1e77ba992b1fa02f7aafd96f28410d	Uninvited IIgs - Disk 2.woz
 f58a2ea5c09ae78795ba3829c68b670f	Vegas Gambler IIgs.woz
 c00e66bd5425048b2826ff9006aee79f	War in Middle Earth IIgs - Disk 1.woz
 856ad908b87fd607c763a44a56d3c377	War in Middle Earth IIgs - Disk 2.woz
+69ff35c2ff6d4b65a7f803409bdfc5a8	Warlock 1988-10-11 IIgs.woz
 d6dcb91747332f8257469f8d644105b5	Warlock IIgs.woz
 a1bd58d42dc82df599eb14ea21777ea3	Where in the U.S.A. is Carmen Sandiego IIgs - Disk 1.woz
 373d079b91ac21c6dc6a6dc154c8615c	Where in the U.S.A. is Carmen Sandiego IIgs - Disk 2.woz
 5d343b82604e0b0599b3817fa47fe905	Where in the World is Carmen Sandiego IIgs - Disk 1.woz
 d32d3b38ad1daa0eb421c2958f97d63b	Where in the World is Carmen Sandiego IIgs - Disk 2.woz
+1c0ea9f5a592e04fbed914a9c370c7b6	Where in the World is Carmen Sandiego IIgs v1.1 disk 1.woz
+e1eca3f23f32fe3cff6cd5e04e7b8dbd	Where in the World is Carmen Sandiego IIgs v1.1 disk 2.woz
 3e96171c1ff3c16e12099f20b38206fc	Windwalker IIgs - Disk 1.woz
 fd8a4a42c8df7721f5fe63ce7da88e98	Windwalker IIgs - Disk 2.woz
 9d2c9ddf7dd93ec6562f46300dab72d1	Winter Games IIgs.woz
