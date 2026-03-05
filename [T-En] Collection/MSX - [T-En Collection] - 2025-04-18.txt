@@ -21,9 +21,13 @@ d94380d337e0e8fc073a13280c8678d8	King's Valley II - The Seal of El Giza (Japan, 
 54e11fff0bc6e7f4c3c25f2a947e9fa6	Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan) [T-En by Igor Bezhenar v20210605] [Add by Armando Perez Abad v1.1].rom	msx-t-en
 505052f2e5d019edbc76f36bcc0acd33	Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan) [T-En by Igor Bezhenar v20210605] [Konami SSC].rom	msx-t-en
 7b7b3b05da23b65f35dbd572e60e6411	Mitsumega Toohru - Three-Eyed One Comes Here, The (Japan) [T-En by Igor Bezhenar v20210605].rom	msx-t-en
+8f0136a40d74f3e78ff0d1c5c657d65a	Mole (Japan) [T-En by GDX].rom
+757ca8afe669d3073f637133faa477ea	Mole Mole (Japan) [T-En].rom
 bf9515d0edcd5fa7f82ec394e1c7323c	Mystery House II (Japan) [T-En by Umbrella Terms v1.0] [CLOAD].cas	msx-t-en
 34f4cc6570087c2052d60c2ea916d51f	Nyorols (Japan) [T-En by PentarouZero v1.0].rom	msx-t-en
 9ce36aeaa93f969b6c2ea91598b0b014	Parodius (Japan) [T-En by A&L Software v1.0].rom	msx-t-en
+c4afafe1c3a9d7a124fdd84c97fd8c9e	Pico Pico (Japan) [T-En].rom
+5fb3cc022d5cab327f103af870160bb5	Pyro-Man (Japan) [T-En by GDX].rom
 b6b0f799ba2ed79e0c1dd6d33b872923	Stone of Wisdom, The (Japan) [T-En by GDX v20210712].rom	msx-t-en
 a40ccb6265cd620cdfa9aa8b981731c9	Vilzam - Cosmic Struggle (Japan) [T-En by 232 & BiFi & Takamichi Suzukawa] [BLOAD''CAS'',R].cas	msx-t-en
 fbd44188ab0cf0a5ba30eae005bd1042	Vilzam - Cosmic Struggle (Japan) [T-En by 232 & BiFi & Takamichi Suzukawa].rom	msx-t-en

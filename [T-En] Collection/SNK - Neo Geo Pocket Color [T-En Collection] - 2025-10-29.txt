@@ -1,5 +1,6 @@
 3c5ee6e830d60f5bc8f3a5a5a53558bb	Cool Cool Jam (Japan) [T-En by WyndCrosser v0.01] [i].ngc	ngpc-t-en
 90b7543441197553f6a4402cd6b87c3f	Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan) [T-En by WyndCrosser v0.38] [i].ngc	ngpc-t-en
+b16a89f1787c83212b964e7fb570a060	King of Fighters, The - Battle de Paradise (Japan) [T-En by xenophile127 & marc_max v1.0].ngc	ngpc-t-en
 a4e86de6caa29f30f82a8e7045c46fff	Mizuki Shigeru no Youkai Shashinkan (Japan) [T-En by WyndCrosser v0.01] [i].ngc	ngpc-t-en
 866e717e2c684e073e6d034f5a56f7b7	Nige-ron-pa (Japan) [T-En by Loïc v0.9].ngc	ngpc-t-en
 b43b8b637c067be0fc4e9fd3b246a78d	Ogre Battle Gaiden - The Prince of Zenobia (Japan) [T-En by FFaddic v1.0] [i] [n].ngc	ngpc-t-en

@@ -4,6 +4,15 @@ f4a8a729fd1e2e04282989fd5e7a54ec	Illusion City (Japan) (Disk 3) [T-En by A&L Sof
 3e235871513a32983c43146900ff4e4e	Illusion City (Japan) (Disk 4) [T-En by A&L Software v0.5].dsk	msx-turbor-t-en
 e9376ffc278f2794bb73773b8eab1d5f	Illusion City (Japan) (Disk 5) [T-En by A&L Software v0.5].dsk	msx-turbor-t-en
 08cab65d20df304ae989e50b2d2b32da	Illusion City (Japan) (Disk 6) [T-En by A&L Software v0.5].dsk	msx-turbor-t-en
+88ae393e68dd282cd08082acbbf93383	Illusion City (Japan) (Disk 1) [T-En by MSX Translations v1.0.0].dsk	msx-turbor-t-en
+7fbadb956f919c67a680e7694bc33f2d	Illusion City (Japan) (Disk 2) [T-En by MSX Translations v1.0.0].dsk	msx-turbor-t-en
+35d41a5353864a3053faf42a1b2a508a	Illusion City (Japan) (Disk 3) [T-En by MSX Translations v1.0.0].dsk	msx-turbor-t-en
+50cc721117b9935c66eaad88f2679737	Illusion City (Japan) (Disk 4) [T-En by MSX Translations v1.0.0].dsk	msx-turbor-t-en
+a63d437595435ebf2503eaf8b8b085fb	Illusion City (Japan) (Disk 5) [T-En by MSX Translations v1.0.0].dsk	msx-turbor-t-en
+c7ba46cabddc2805bd322dfdef9a6d56	Illusion City (Japan) (Disk 6) [T-En by MSX Translations v1.0.0].dsk	msx-turbor-t-en
+b643cb8add8e30909cb5467b338ec5bd	Illusion City (Japan) (Disk 7) [T-En by MSX Translations v1.0.0].dsk	msx-turbor-t-en
+addd4321964b8d864b53f660b9e213cf	Illusion City (Japan) (Disk 8) [T-En by MSX Translations v1.0.0].dsk	msx-turbor-t-en
+476f4e659b89ff2c9391cdcf188c549c	Illusion City (Japan) [T-En by MSX Translations v1.0.0].rom	msx-turbor-t-en
 bbfba32b2dff143f74796d0bc82439eb	Moonlight Saga (Japan) (Disk 1) [T-En by Manuel Pazos & Takamichi v20201111].dsk	msx-turbor-t-en
 5afac0e8a22d3b60f574c452a70b4b94	Moonlight Saga (Japan) (Disk 2) [T-En by Manuel Pazos & Takamichi v20201111].dsk	msx-turbor-t-en
 9797a15509d29280ab23b104351dff82	Moonlight Saga (Japan) (System Disk) [T-En by Manuel Pazos & Takamichi v20201111].dsk	msx-turbor-t-en

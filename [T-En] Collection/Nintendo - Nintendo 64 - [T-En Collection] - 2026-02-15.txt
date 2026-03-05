@@ -1,0 +1,43 @@
+c6a2009e1e400c036e6658be88bd0ff4	AI Shougi 3 (Japan) [T-En by GammaTrove v1.0].z64	[T-En] Collection
+4cda7c0c2c9379a0e0112ccba5568228	Aleck Bordon Adventure - 4th Story - Tower & Shaft (Japan) (Aleck 64) [T-En by Zoinkity v1.0].z64	[T-En] Collection
+01bdcc854d0ab798500e7bc31a24d94f	Animal Forest (Japan) [T-En by Zoinkity v021210] [i] [n].z64	[T-En] Collection
+c1aa430c874b5ee038ceca25cfd58237	Bangai-O (Japan) [T-En by GammaTrove v1.0] [n].z64	[T-En] Collection
+ed5a8c5e677842308de0646dc01fda7a	Blitz Shogi 3 Championship Series (Japan) (Aleck64) [T-En by Zoinkity v1.0] [n].z64	[T-En] Collection
+c714806b4cc144a3eabd234c07412109	Bomberman 64 (Japan) [T-En by Zoinkity v1.3].z64	[T-En] Collection
+443f23ea81c635531af03b03dd62bb9f	Chameleon Twist (Japan) [T-En by Zoinkity v1.0].z64	[T-En] Collection
+0538ae22fe0dc602331c241f435a3247	Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan) [T-En by Zoinkity v1.0].z64	[T-En] Collection
+a98c2efc8e7c7f7dbcd293cc4e608aa8	Cubivore (Japan) (Proto) [T-En by Zoinkity v1.0] [n].z64	[T-En] Collection
+866e679c48444214d9246be3885e1f81	Custom Robo (Japan) [T-En by Star Trinket Translations v1.0].z64	[T-En] Collection
+40bace56fb06114d816680cd7d2efa7a	Custom Robo V2 (Japan) [T-En by Star Trinket Translations v1.0 beta] [i].z64	[T-En] Collection
+91131a1bb91aa42d3e8f2aa55948041f	Densha de Go! 64 (Japan) [T-En by Zoinkity v1.03].z64	[T-En] Collection
+3aa4624f7280696946995ee07bbe662d	Dezaemon 3D (Japan) [T-En by Whowasphone404 & Zoinkity v1.0].z64	[T-En] Collection
+a91e882c7a73e754ff8f07e23100eade	Doshin the Giant 1 (Japan) (64DD) [Hack by Zoinkity v1.1] [T-En by Ozidual v2018-06] [i] [n].z64	[T-En] Collection
+a372ba03e984780e6f92a34872a6defd	Explosive Invincible Bangai-O (Japan) [T-En by deadsnare v1.0] [n].z64	[T-En] Collection
+793f68b0a8f405d471e4d4f1baaac549	F-Zero X - Expansion Kit (Japan) (64DD) [Hack by Zoinkity v2] [T-En by LuigiBlood v2].z64	[T-En] Collection
+e2fe94804e7127eb6b78e25e8a775060	Getter Love!! - Panda Love Unit (Japan) [T-En by ozidual v1.03.1] [Controller Pak E] [n].z64	[T-En] Collection
+a604f9d3ab4fc31e9d961fb91367da8c	Getter Love!! - Panda Love Unit (Japan) [T-En by ozidual v1.03.1] [n].z64	[T-En] Collection
+f0c4a10836684e2e4f1062071ca6bb4a	Getter Love!! - Panda Love Unit (Japan) [T-En by ozidual v1.03] [debug menu controls] [n].z64	[T-En] Collection
+a614d8bbdc3fdfd2d76116dda0110d51	Heiwa Pachinko World 64 (Japan) [T-En by Zoinkity v1.0].z64	[T-En] Collection
+370ecc8fd86d6d5fd938b0550ebec9a4	J.League Dynamite Soccer 64 (Japan) [T-En by Zoinkity v1.0].z64	[T-En] Collection
+722d91512330709728ca7d4957bf179c	J.League Live 64 (Japan) [T-En by Zoinkity v1.0].z64	[T-En] Collection
+a1edf42dda31947c8d45d86618e63053	Last Legion UX (Japan) [T-En by Zoinkity v1.0].z64	[T-En] Collection
+c343c95ecbb875364dcecdcc30a6ff47	Magical Tetris Challenge (Japan) (Aleck 64) [T-En by Zoinkity v1.1] [n].z64	[T-En] Collection
+b63ce8f56b2e246c37fabc3927aeaa43	Mario Artist - Paint Studio (Japan) (64DD) [Hack by Zoinkity v1.2] [T-En by LuigiBlood & Cauterize v2.1].z64	[T-En] Collection
+21355c932726be2db0959a1caa75939e	Mario Artist - Polygon Studio (Japan) (64DD) [Hack by Zoinkity v1.2] [T-En by LuigiBlood v3.0].z64	[T-En] Collection
+1c84aed224bc0a98095937bbc591243c	Mario Artist - Talent Studio (Japan) (64DD) [T-En by LuigiBlood v2.1].z64	[T-En] Collection
+18f9e1c07196dfcb33d2b44b82495d0a	Mario's Photo Studio (Japan) [T-En by Zoinkity v1.0] [n].z64	[T-En] Collection
+dfc13581fc3218adb90d4b0604e6dce2	Mario's Photo Studio (Japan) [T-En by Zoinkity v1.0] [Old Art] [n].z64	[T-En] Collection
+d84bffab3884d7f0804dd3a45d06a9af	Masters '98 - Augusta National Golf Club (Japan) [T-En by Zoinkity v1.0] [n].z64	[T-En] Collection
+5fa1d263d6e3c47d2fdb63d09a0da5ab	Ninja Boy Rantarou 64 Game Gallery (Japan) [T-En by Zoinkity v1.0] [n].z64	[T-En] Collection
+101b9e9df0a72a587bb38b28264f431e	Puyo Puyo Sun 64 (Japan) [T-En by Zoinkity v1.3].z64	[T-En] Collection
+44f606a31bbdc529d2f5863ae4307499	Shiren the Wanderer 2 - Oni Invasion! Shiren Castle! (Japan) [T-En by SharkSnack & Ozidual & KmbTos v1.02] [n].z64	[T-En] Collection
+eca4e86a18dcdddb87250e3c28c9ace2	SimCity 64 (Japan) (64DD) [Hack by Zoinkity v1.1] [T-En by Ozidual v0.6.38].z64	[T-En] Collection
+0de95133d800a7707b1d2562c29166d1	St. Andrews Old Course (Japan) [T-En by Zoinkity v1.0] [n].z64	[T-En] Collection
+6652b1fdf5f1607386fcb1e6248a324a	Star Wars - Shadows of the Empire (Japan) [T-En by Zoinkity v1.3] [n].z64	[T-En] Collection
+6e51b140a9b0c30d6f55ca7942a969fc	Tsumi to Batsu - Hoshi no Keishousha (Japan) [T-En by Zoinkity v1.0].z64	[T-En] Collection
+432c707ec56ab6ab94e063177248d73b	Viewpoint 2064 (Japan) (Proto) (1999-12-17) [T-En by Zoinkity v1.1].z64	[T-En] Collection
+9312e78a6217fa7d6502524a002d28f0	Viewpoint 2064 (Japan) (Proto) (2000-04-13) [T-En by Zoinkity v1.0].z64	[T-En] Collection
+34a4fe395da536a93c00e86d69fbea10	Virtual Pro Wrestling 2 - Oudou Keishou (Japan) [T-En by VPW 2 Dojo Beta 3].z64	[T-En] Collection
+7b91a12b1cb3f007deb73d9aeba4ac18	Virtual Pro Wrestling 64 (Japan) [T-En by Star Trinket Translations v1.77 beta].z64	[T-En] Collection
+efde606c824daacf715928b914ac26e0	Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition) [T-En by Zoinkity v1.2].z64	[T-En] Collection
+3c02f56dd7b1a06be83a7a288755612f	Wonder Project J2 - Koruro no Mori no Jozet (Japan) [T-En by Ryu v1.0].z64	[T-En] Collection

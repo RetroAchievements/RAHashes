@@ -1,0 +1,7 @@
+RA Hashes
+ca8c11aaf96196f6edeef77e6015e89d	Doom (Europe) (MD+)	BIN/CUE	[T-En Collection]
+8ea3fe1b5450650d10446df8ce19e2e3	Mortal Kombat II (Japan, USA) (MD+)	BIN/CUE	[T-En Collection]
+
+MD5s
+49134106e611839a28caf94a1ddd783d	Doom (Europe) (MD+).32x	[T-En Collection]
+a5229c08e80ca2fa679489bbcc0da5e7	Mortal Kombat II (Japan, USA) (MD+).32x	[T-En Collection]

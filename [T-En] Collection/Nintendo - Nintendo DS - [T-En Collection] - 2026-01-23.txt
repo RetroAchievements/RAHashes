@@ -6,10 +6,14 @@ cf606c32cce70270cf17d0becb222a97	ASH - Archaic Sealed Heat (Japan) [T-En by Psyc
 e9c8dbcd4307f2e925fa5b3b6ef68743	Culdcept DS (Japan) [T-En by Theli v1.0].nds	nds-t-en
 a87cdb37c47ef84edcd9d5aa9e4fa605	D.Gray-Man - The Apostles of God (Japan) [T-En by Phantom & Supper v1.0] [n].nds	nds-t-en
 8dd58bc23ab5af71d482ea70922a9aff	Death Note - Kira Game (Japan) [T-En by Anime Game Translations Team v1.2].nds	nds-t-en
+b57567137789ccad3828525f2e8f073a	Death Note - Kira Game (Japan) [T-En by Anime Game Translations Team v1.3].nds	nds-t-en
 72994e416bcf5280287ca7f41d2225aa	Detective Conan & Kindaichi Case Files - Chance Encounter of 2 Great Detectives (Japan) [T-En by DCTP v1.0] [n].nds	nds-t-en
 4a619b89364a0199f07896d0235e93ad	Digimon Story - Lost Evolution (Japan) [T-En by Operation Decoded v1.1] [AP fix].nds	nds-t-en
 d625b79189c5faca567071b47d89b6f0	Digimon Story - Lost Evolution (Japan) [T-En by Operation Decoded v1.1].nds	nds-t-en
+81b6df978fb78d9db73acd8a19d886c8	Dragon Ball Kai - Ultimate Butou Den (Japan) [T-En by kosheh & deathkill781 v20260118] [i].nds	nds-t-en
+5cdf7325b2cdd2b42acde0c51ab00e30	Dragon Quest IV - Michibikareshi Mono-tachi (Japan) [T-En by Concreted v1.1.0].nds	nds-t-en
 c8504baa969ab28229bc479d18775550	Dragon Quest IV - Michibikareshi Mono-tachi (Japan) [T-En by Concreted v20210703].nds	nds-t-en
+fb01d7ca0ae44db89ab4ee5e2b6e2d20	Dungeon of Windaria (Japan) [T-En by Rastsan v0.1] [Add by plasturion v0.7].nds	nds-t-en
 efb0482e5d274a2dc70e93a8c68d7640	Dungeon of Windaria (Japan) [T-En by Rastsan v0.1].nds	nds-t-en
 9dbbe6e11e428032ffe934d4270e696c	FabStyle (Japan) [T-En by Rocket Robz & Sidier v2.0] [i].nds	nds-t-en
 3b22fbdd0ae201ead7a0b5d4b2fea623	Fire Emblem - Heroes of Light and Shadow (Japan) (Rev 1) (NDSi Enhanced) [T-En by The Heroes of Shadow v3.01] [Add by Darrman v2.0] [n].nds	nds-t-en
@@ -18,19 +22,29 @@ f179692f9786ee1c8c8e02973773d713	Fire Emblem - Heroes of Light and Shadow (Japan
 cd4348c09754e40b2521b9d5c50f2ea4	Fushigi no Dungeon - Fuurai no Shiren DS 2 - Sabaku no Majou (Japan) [T-En by SharkSnack v0.1.7] [i].nds	nds-t-en
 8616a8f2f221f86e45503ae38c2910cf	Girlish Love Revolution - Love Revo DS (Korea) [T-En by Jjjewel v1.1] [n].nds	nds-t-en
 df28d3f7b11bd32734b03815fc032dd6	I Will Protect You (Japan) [T-En by Illidan & Phantom v1.2] [n].nds	nds-t-en
+01b88d780c7c7e979a0ecad6868aa940	Jet Impulse (Japan) [T-En by Megalith v1.3].nds	nds-t-en
 678da3a077b2ceb562e6b831e1eae0b6	Jump Ultimate Stars (Japan) [T-En by JUS Translation v030508].nds	nds-t-en
+d2bd025c8ebc9a074e92fa477b5fec4d	Keroro RPG - Kishi to Musha to Densetsu no Kaizoku (Japan) [T-En by Dawnbomb v0.5.5] [i].nds	nds-t-en
+be10f1d171bdb9c70a10408af6199f3f	Keroro RPG - Kishi to Musha to Densetsu no Kaizoku (Japan) [T-En by Nyuku & loneZ v0.1.3] [i].nds	nds-t-en
 3a2a1a3cb0a890fab5f26f6d95cdfe2c	Ketsui Death Label - Kizuna Jigoku-tachi (Japan) [T-En by Z3tzilla v0.2] [i].nds	nds-t-en
 932d0aec18d0e28107f1ce714871ad7a	Kuroshitsuji - Phantom & Ghost (Japan) [T-En by Phantom & Ghost Team v1.0].nds	nds-t-en
+d44d7d4df925e22a10736c2a1925dba0	KuruKuru Princess - Tokimeki Figure - Mezase! Vancouver (Japan) [T-En by plasturion v0.40b] [i].nds	nds-t-en
 cd48606d6c7454c3e42b31f933f04101	Kurutore eCDP (Japan) (Not for Resale) [T-En by KabanFriends v1.1.2] [i] (enter 482500 as password twice).sav	nds-t-en
 10719b939661018b65c793d050ed9aaa	Kurutore eCDP (Japan) (Not for Resale) [T-En by KabanFriends v1.1.2] [i].nds	nds-t-en
 19a95c224b114aabb83d8d35b2da40e2	L - The Prologue to Death Note - Spiraling Trap (Japan) [T-En by Anime Game Translations Team v1.0] [n].nds	nds-t-en
+b39be30374cd320a2fa292c01750c65f	Lode Runner (Japan)  [T-En by twiztidsinz v1.1] [Add by plasturion v1.3].nds	nds-t-en
 ba13c9a20991d256f898e250eed37c21	Love Plus (Japan) [T-En by Jjjewel v1.0n].nds	nds-t-en
 f4933f28cd4b06131e5597f8a3f0dac6	Luminous Arc 3 - Eyes (Japan) [T-En by Asakura & Buster Gundo & CheshireCat & Jaumander & Plasturion v1.0].nds	nds-t-en
+4508953df6cfe8cf12740fbb23ca87c2	Lupin III - The Historic Battle of Brains (Japan) [T-En by Wesker90 & Kagite v0.9] [i] [n].nds	nds-t-en
+6c8bb882721da0b7b90abfc9d95f7163	MapleStory DS (Japan) [T-En by edo1989 v0.6.3] [i].nds	nds-t-en
+4d8a9f6aa53b2a4ddcab53c7e15812ec	MapleStory DS (Japan) [T-En by houst v2025-11-18].nds	nds-t-en
 0cdbe13c79778f9fabb5838b8e631b9e	MegaMan Battle Network - Operate Star Force (Japan) [T-En by Greiga Master v1.0] [Add by Cirosan v1.0] [n].nds	nds-t-en
 8db13418919917c1209840d79d60110f	MegaMan Battle Network - Operate Star Force (Japan) [T-En by Greiga Master v1.0] [n].nds	nds-t-en
 ad8f943356748966c4efb83cd0472d64	Metal Max 2 - Reloaded (Japan) [T-En by Metal Dreamers v1.0].nds	nds-t-en
 5236f137de56eb65474c8e82d652312a	Metal Max 3 (Japan) [T-En by Metal Dreamers v1.0].nds	nds-t-en
+9988f8b583f3463a4b74601113bb4f22	Motto! Stitch! DS - Rhythm de Rakugaki Daisakusen (Japan) [T-En by PrayashLand v0.5.1] [i].nds	nds-t-en
 9d43e6b67bacfab9fd3ead1be115c5be	Mugen no Frontier Exceed - Super Robot Taisen OG Saga (Japan) [T-En by Artema Translations v1.0].nds	nds-t-en
+8e3f47fdd69952970691918598f4c76c	Mushishi - Ame Furu Sato (Japan) [T-En by Anime Game Translations Team v1.0].nds	nds-t-en
 624c5ab2b183060ffdaaf14db9321f63	Nameless Game, The - Eye (Japan) [T-En by Nagato v1.13] [n].nds	nds-t-en
 f4b27b6a76f54df9c804ff635b57ce95	Nameless Game, The (Japan) [T-En by Nagato & Ryusui & Summvs v1.2] [n].nds	nds-t-en
 21f7467ef82804e836582f6a504a45f0	Naruto - Path of the Avenger (Japan) [T-En by Anime Game Translations Team v1.0] [english voices] [n].nds	nds-t-en
@@ -40,9 +54,11 @@ b9639faa0686b4c1b53683cbc17de22a	Naruto - Path of the Avenger (Japan) [T-En by A
 26e777354fe193acdae9f5db969512be	Nora to Toki no Koubou - Kiri no Mori no Majo (Japan) [T-En by Nora Project v0.3d-1].nds	nds-t-en
 b666713fce07c6cced870925a53e446b	Petit Eva - Evangelion@Game (Japan) [T-En by ScenikEight v1.0].nds	nds-t-en
 4cf7bec94d29fa557d820b59265e6d7c	Prince of Tennis, The - Princes of Doubles - Girls, Be Gracious! (Japan) [T-En by AmuletCross v3] [n].nds	nds-t-en
+c52d83e8c264b2bbd891b80e503a7829	Princess on Ice (Japan) [T-En by plasturion v0.93].nds	nds-t-en
 41d166fe122f35c9f55f93ceaa5a6f2c	Puyo Puyo 7 (Japan) [T-En by Puyo Nexus v1.0].nds	nds-t-en
 82eddbee5c1835eb020748c460f6d907	Puyo Puyo! - 15th Anniversary (Japan) (Rev 1) [T-En by Puyo Nexus v1.2] [n].nds	nds-t-en
 5860cfe0580a3fcad72363dec9d2623f	Puyo Puyo!! - 20th Anniversary (Japan) [T-En by Precise Museum v1.2] [Add by Runis Dauphin v0.5] [n].nds	nds-t-en
+d20b5c41298b9a61d351c73c1c093aec	Puyo Puyo!! - 20th Anniversary (Japan) [T-En by Precise Museum v2.1] [n].nds	nds-t-en
 c36f165eed3233a3265bc29e7edbdb42	Puzzle Series Vol. 12 - Akari (Japan) [T-En T-Tudor v1.0] [n].nds	nds-t-en
 c707979c7cd6466c01ebffa7800ab541	Puzzle Series Vol. 5 - Slither Link (Japan) [T-En by T-Tudor v0.7].nds	nds-t-en
 7e8132d55284e121aa3c4d8538b57761	Retro Game Challenge 2 (Japan) [T-En by Aaron Tokunaga-Chmielowiec v1.51] [n].nds	nds-t-en
@@ -55,6 +71,10 @@ b32f30b766f94358ad51bb26e61b171d	Sailor Moon - The Shining Moon (Italy) [T-En by
 4e174e4bb2d2a66f141363e7cfb5a31f	Series of Haruhi Suzumiya, The (Japan) [T-En by Haroohie Translation Club v0.6] [subs] [no voice subs] [i] [n].nds	nds-t-en
 686bca386699f3eca22467dd51427728	Series of Haruhi Suzumiya, The (Japan) [T-En by Haroohie Translation Club v0.6] [subs] [voice subs] [i] [n].nds	nds-t-en
 0ca00dfcc3afff7658a7ef50861db75b	Series of Haruhi Suzumiya, The (Japan) [T-En by Haroohie Translation Club v0.6] [voice subs] [i] [n].nds	nds-t-en
+f236d2e2d9e54ff6c54a99963007a7f9	Series of Haruhi Suzumiya, The (Japan) [T-En by Haroohie Translation Club v1.0] [no voice subs] [n].nds	nds-t-en
+fdc3dd6d9e57623cac7f1dd5c73c5c4b	Series of Haruhi Suzumiya, The (Japan) [T-En by Haroohie Translation Club v1.0] [subs] [no voice subs] [n].nds	nds-t-en
+623026a7cc7476ae5b1883744bc4f5ea	Series of Haruhi Suzumiya, The (Japan) [T-En by Haroohie Translation Club v1.0] [subs] [voice subs] [n].nds	nds-t-en
+ac3b3d37f36b2242ef8f24b591828929	Series of Haruhi Suzumiya, The (Japan) [T-En by Haroohie Translation Club v1.0] [voice subs] [n].nds	nds-t-en
 98b8601a38512c17a229b87be519ea4f	Shinseiki Evangelion - Ayanami Ikusei Keikaku DS with Asuka Hokan Keikaku (Japan) [T-En by Pearse Hillock v0.90] [i].nds	nds-t-en
 84f12f5516c5f44143812453381f7b5c	Soma Bringer (Japan) [T-En by DarthNemesis v2009.02.02].nds	nds-t-en
 29b4a379d7ef866733e0e5848bb9b326	Soul Eater - Medusa's Plot (Japan) [T-En by Anime Game Translations Team v1.2] [n].nds	nds-t-en
@@ -66,6 +86,7 @@ b8ed5b1d0e2577a10ebb6c50ff8be317	Spice & Wolf - My Year with Holo (Japan) [T-En 
 50c41a0a4e748b9903ca7e9fe1b20450	Tales of Innocence (Japan) [T-En by Absolute Zero v1.0].nds	nds-t-en
 1fe93e73ac17c2a3d7093f2c95ecac7c	Tales of the Tempest (Japan) [T-En by Absolute Zero v1.0].nds	nds-t-en
 7694deb293243d7e753a7a7bbfaa6536	Tengen Toppa Gurren Lagann (Japan) [T-En by Anime Game Translations Team v1.0].nds	nds-t-en
+fc07c5ab1aaae7da935d6f9d3c199546	Tennis no Ouji-sama - Motto Gakuensai no Ouji-sama - More Sweet Edition (Japan) [T-En by jjjewel Otome Game Translations & AmuletCross v1.1].nds	nds-t-en
 e6396526c1721b0bcf6741805c221417	Tokimeki Memorial Girl's Side - 1st Love Plus (Japan) [T-En by TMGS1 Translation Team v1.0].nds	nds-t-en
 d1f367258418a6979719ac238719d1d9	Tokimeki Memorial Girl's Side - 2nd Season (Japan) [T-En by Gokusaishiki v6].nds	nds-t-en
 9f4a21b61305af642abb8626af8df03f	Tokimeki Memorial Girl's Side - 3rd Story (Japan) [T-En by Jjjewel v2.00].nds	nds-t-en
@@ -74,3 +95,4 @@ d1f367258418a6979719ac238719d1d9	Tokimeki Memorial Girl's Side - 2nd Season (Jap
 dc5153b0d4a7f9973dda2cf5929bd8aa	Wizardry - Inochi no Kusabi (Japan) [T-En by Faramir v30102015] [i].nds	nds-t-en
 f1e21826b81c54b07d5ff760c8c9531c	Zoids Saga DS - Legend of Arcadia (Japan) [T-En by Snowboundmage v1.3] [i].nds	nds-t-en
 ef83c32d6a1c49bfea97e4624e621f62	Zoids Saga DS - Legend of Arcadia (Japan) [T-En by Traceytrace v1.0.3] [i].nds	nds-t-en
+8b76aeb32ebc6b6db84adcd155e1e4f3	Zombie Daisuki (Japan) [T-En by T-Tudor v0.6] [i].nds	nds-t-en

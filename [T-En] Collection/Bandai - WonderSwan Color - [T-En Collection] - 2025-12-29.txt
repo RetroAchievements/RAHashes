@@ -2,6 +2,7 @@ bbaea4f2dfd80120001ed351fee18588	Dicing Knight. (Japan) [T-En by Aeon Genesis v1
 74aa3dea8cce3379caacc8f65ab850f9	Digimon 02 - D1 Tamers (Japan) [T-En by NikcDC v0.97] [n].wsc	wsc-t-en
 4c545493d8053d40edb69cb62dd4a625	Digimon Adventure 02 - D1 Tamers (Japan) [T-En by PmHacks v0.05] [i].wsc	wsc-t-en
 6c18571b76b293c5f4d21ec291c03075	Digimon Tamers - Battle Spirit Ver. 1.5 (Japan) [T-En by Ashley & Buckwheat v1.0] [i].wsc	wsc-t-en
+0215ea53e5d20b963b8f13e3e8fd9491	Digimon Tamers - Battle Spirit Ver. 1.5 (Japan) [T-En by xdaniel v1.0].wsc	wsc-t-en
 f620bbf6fbe5a8db22282bf29ca1ca38	Digital Monster Card Game - Ver. WonderSwan Color (Japan) [T-En by Kaiisen & Wazzpinator v1.1] [i].wsc	wsc-t-en
 0d5c239eb1b99b4ab756acda11992ce3	Final Fantasy (Japan) [T-En by Kalas v0.91] [i].wsc	wsc-t-en
 31e9621d6e1e349e1efc58148256868d	Final Fantasy II (Japan) [T-En by RPGOne v0.97].wsc	wsc-t-en

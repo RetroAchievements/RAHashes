@@ -62,6 +62,11 @@ cd75730fee1a72fead6a0874ef7c2620	Dragon Slayer Jr. - Romancia (Japan) [T-En by M
 c80bc3f0fb4f6b6e0f5f9d2a4f58037e	Dragon Slayer V - Sorcerian (Japan) (Scenario 3 Disk) [T-En by Delta Soft v1.0].dsk	msx2-t-en
 052f709bc74ce29c361da5b909305a97	Dragon Slayer V - Sorcerian (Japan) (User Disk).dsk	msx2-t-en
 b08e89dfa286a7459ad23271ec4c63f0	Dungeon Wanderer (Japan) [T-En by Django].dsk	msx2-t-en
+6b1e69f2d5cbc9b3b39ffe90b55f01e4	Emerald Dragon (Japan) (Disk 1) (Visual Disk A) [T-En by dan v1.0].dsk	msx2-t-en
+8f5b58a59a86481fec6ccf801cfccc69	Emerald Dragon (Japan) (Disk 2) (Visual Disk B) [T-En by dan v1.0].dsk	msx2-t-en
+70c2c4309843a97f456e93b32d0cf540	Emerald Dragon (Japan) (Disk 3) (Opening Disk) [T-En by dan v1.0].dsk	msx2-t-en
+efe3d85aa8efb1284e793e1471aea756	Emerald Dragon (Japan) (Disk 4) (Game Disk) [T-En by dan v1.0].dsk	msx2-t-en
+da78cc74273bc2b59ac8552163cd092f	Emerald Dragon (Japan) (Disk 5) (Ending Disk) [T-En by dan v1.0].dsk	msx2-t-en
 b23018c0b4dbb536a10741ac873f193c	Exterlien (Japan) (Disk 1) [T-En by Django v2018xxxx].dsk	msx2-t-en
 7c346b91de3c034dca9482c37aeac4eb	Exterlien (Japan) (Disk 2).dsk	msx2-t-en
 a48667b6efced64f4273dc1dc0513d03	Exterlien (Japan) (Disk 3).dsk	msx2-t-en
@@ -101,6 +106,7 @@ e647540723897b0f31bf51f46ae95c1c	Hydlide 3 - The Space Memories (Japan) [T-En by
 24460cb599ab870bdbff8810a0c88c89	Kageroh Labyrinth (Japan) (Disk A) [T-En by Django] [i] [n].dsk	msx2-t-en
 09308f50b641a86f84d9217c2e272406	Kageroh Labyrinth (Japan) (Disk B) [n].dsk	msx2-t-en
 02af5bae3b6d290661e6bb3ae2ccb5a1	King Kong 2 - The Reviving Legend (Japan) [T-En by Imanok & Manuel Pazos v20130408] [n].rom	msx2-t-en
+d94380d337e0e8fc073a13280c8678d8	King's Valley II - The Seal of El Giza (Japan, Europe) [T-En by FRS v1.1] [n].rom	msx2-t-en
 1bcb6f6f82fe7a4888f112cb68bcf69c	Knightmare II - The Maze of Galious (Japan) [T-En by 232 Translations v1.04] [Enhanced].rom	msx2-t-en
 f80026bc769d898f983caacb5b363569	Labyrinth (Japan) [T-En by Django].rom	msx2-t-en
 2611bafb548cc3d107691954f7865c17	Legend of Shonan, The (Japan) (User Disk).dsk	msx2-t-en
@@ -153,6 +159,7 @@ d68ee674903cbeb8f3fcc258ddc9906f	Puyo Puyo (Japan) [T-En by 232 & BiFi & GDX v1.
 33a64eb8899bf25d9ed1a87b38178ba4	Puyo Puyo (Japan) [T-En by 232 & BiFi & GDX v1.0] [Rainbow Logo] [Philips NMS-1205 & Toshiba HX-MU900].dsk	msx2-t-en
 6490f1c877aa1fcac4a4f953f38303ea	Puyo Puyo (Japan) [T-En by 232 & BiFi & GDX v1.0] [Rainbow Logo].dsk	msx2-t-en
 cebe5bfa4aeac4a1ef365175087c6a2b	Puyo Puyo (Japan) [T-En by 232 & BiFi & GDX v1.0].dsk	msx2-t-en
+d697f97720b2421612c1aab93f35899b	Quinpl (Japan) [T-En by GDX].rom	msx2-t-en
 56af8410f66426c8072270b77bd92315	Record of Lodoss War (Japan) (Game Disk 1) [T-En by Django v20210606] [i].dsk	msx2-t-en
 48307a459de590605b02d9801ff01ca2	Record of Lodoss War (Japan) (Game Disk 2) [T-En by Django v20210606] [i].dsk	msx2-t-en
 f71af036d7fb1a5c348503b03e58f794	Record of Lodoss War (Japan) (Game Disk 3) [T-En by Django v20210606] [i].dsk	msx2-t-en
@@ -205,8 +212,12 @@ d7e3cef693172cd18c11906ca931e430	Super Shang Hai - Dragon's Eye (Japan) [T-En by
 ad129ae9cc64cfeb5a0a36ec1b0c9b47	T.D.F. (Japan) [T-En by Django v2012xxxx].dsk	msx2-t-en
 639d0a61c9e144aa8d1e21d87d53fb50	Take the A-Train (Japan) [T-En by Django v1.0] [n].rom	msx2-t-en
 ae3f7fef279faddfe52d93a1dc5e9c8f	Tempo Typing (Netherlands) [T-En by 232 & BiFi].dsk	msx2-t-en
+cc316c4967b478be8d307d3c2ef03ca7	Testament (Japan) (Disk 1) [T-En by Django].dsk	msx2-t-en
+4f674f02171ab3e1ed939bfee503da19	Testament (Japan) (Disk 2) [T-En by Django].dsk	msx2-t-en
 dd8119a3c22305af94efb3ef87c32312	Ultima IV - Quest of the Avatar (Japan) (Disk 1) [T-En by Django v2009xxxx].dsk	msx2-t-en
 486b7e8a8fe02a34ea38c0ebe87ae63a	Ultima IV - Quest of the Avatar (Japan) (Disk 2).dsk	msx2-t-en
+a5ae0668e4a640c346f970f588ec7fba	Undeadline (Japan) [T-En by Woomb] [R800Fix by Victor].dsk	msx2-t-en
+bbac1aa62b1a7874b9701256dfcf3e74	Undeadline (Japan) [T-En by Woomb].dsk	msx2-t-en
 8e18686960f19da1a1b7bd15dffbbad1	USA-Jong - The Overlord Resurrection (Japan) [T-En by Django] [n].dsk	msx2-t-en
 4b47acaec7f35826a18c3b0687aa484a	Valeur, La (Japan) (Disk A) [T-En by Django v20180130].dsk	msx2-t-en
 d9aef713d8e18b4e1d7f27815ebc4f60	Valeur, La (Japan) (Disk B) [T-En by Django v20180130].dsk	msx2-t-en

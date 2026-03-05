@@ -2,6 +2,7 @@
 d3cb26a28fe5faa9a73fc8db442a20e6	Another Bible (Japan) (SGB Enhanced) [T-En by Aeon Genesis v1.01].gb	gb-t-en
 fa8b94ede7e7192c0ccd2fff6c51e948	Banishing Racer (Japan) [T-En by Stardust Crusaders v1.00].gb	gb-t-en
 48e4830e4c3bf4c4fc152d821078f9fd	Battle of Kingdom (Japan) [T-En by Stardust Crusaders v1.00].gb	gb-t-en
+14374e661971895a245124c943333839	Battle of Kingdom (Japan) [T-En by Stardust Crusaders v1.01].gb	gb-t-en
 3c6a6f2cb4a016cfe92335c9e58e6e5e	Bishoujo Senshi Sailor Moon (Japan) [T-En by EsperKnight & Some Good Shit Translations v0.95] [i].gb	gb-t-en
 b4c3e1ecce45d316a60e54f379f6acb1	Block Kuzushi GB (Japan) (SGB Enhanced) [T-En by PentarouZero v1.0].gb	gb-t-en
 4c95ee4dd7aba3fd30a5703914af5ae8	Bomber Man GB 3 (Japan) (SGB Enhanced) [T-En by David Mullen & Duke Serkol v1.0] [i].gb	gb-t-en
@@ -31,16 +32,22 @@ e02b768bac90459e95155c2038310859	Glory of Heracles, The - The Olympus Offensive 
 c2cc37e8a5c1c6dd5656b501903f9bcd	God Medicine - Fukkokuban (Japan) (SGB Enhanced) [T-En by Aeon Genesis v1.00].gb	gb-t-en
 91a6db22cb486daff35b183e43b338f7	Hugo 2 (Germany) [T-En by NikcDC v1.0].gb	gb-t-en
 753f86fc2328eedc1693cfe3176ff254	I'm Jajamaru! The Great World Adventure (Japan) [T-En by Stardust Crusaders v1.01] [n].gb	gb-t-en
+8eeac858ed9bc941049011149286c717	Jungle Wars (Japan) [T-En by Bastien Gorissen v0.2.1] [i].gb	gb-t-en
 e842471b71debfe85d4025a1023ec738	Legend of the Axe - Kintaro Action Edition (Japan) [T-En by FlyingClimber v1.0] [n].gb	gb-t-en
 39f5fee39bb2917aea6be4ebf59a295b	Little Master - Legend of Richban (Japan) [T-En by Zatos Hacks v1.00] [n].gb	gb-t-en
+9c10c9e3d64979bf348018f9c7fff21c	Little Master 2 - Knight of Lightning (Japan) [T-En by DeMille & DrBlackbarn v20260131] [n].gb	gb-t-en
 1e851f9ebbbf996439df2351f8c6f732	Magic Knight Rayearth (Japan) (SGB Enhanced) [T-En by Kuroi to Aoi Translations v09-13-00] [i].gb	gb-t-en
 a0a6319073d5b4d2d8772b3f18d42311	Magic Knight Rayearth (Japan) (SGB Enhanced) [T-En by LIPEMCO! Translations v1.0].gb	gb-t-en
 27e380de8d36a6924f3b21e7234ceb67	Magic Knight Rayearth 2nd. - The Missing Colors (Japan) (SGB Enhanced) [T-En by Pearse Hillock v0.99] [i].gb	gb-t-en
 a525502125ed8261145059fa370de775	Magical Painter (Japan) [T-En by Stardust Crusaders v1.00] [n].gb	gb-t-en
 ff283eb6a9ff69ba82cc7d4ed491f401	Medarot - Kabuto Version (Japan) (Rev 1) (SGB Enhanced) [T-En by Cash Medal Chameleon v20240408] [Portraits].gb	gb-t-en
 a74532a4ad7a3788f9f224d7e2faf4cc	Medarot - Kabuto Version (Japan) (Rev 1) (SGB Enhanced) [T-En by Cash Medal Chameleon v20240408].gb	gb-t-en
+a931768c93be195e06ce8acd254d2437	Medarot - Kabuto Version (Japan) (Rev 1) (SGB Enhanced) [T-En by Cash Medal Chameleon v20241104] [Portraits].gb	gb-t-en
+d4f8557cf7d072dfc66615fc1210d9ae	Medarot - Kabuto Version (Japan) (Rev 1) (SGB Enhanced) [T-En by Cash Medal Chameleon v20241104].gb	gb-t-en
 02a0e14217691fe1c58aff43fe1adc8e	Medarot - Kuwagata Version (Japan) (Rev 1) (SGB Enhanced) [T-En by Cash Medal Chameleon v20240408] [Portraits].gb	gb-t-en
 724d0eecbf6d2ded8c6caa87c7aabe5a	Medarot - Kuwagata Version (Japan) (Rev 1) (SGB Enhanced) [T-En by Cash Medal Chameleon v20240408].gb	gb-t-en
+53facf850d5a50183cbfb6dec1845d3b	Medarot - Kuwagata Version (Japan) (Rev 1) (SGB Enhanced) [T-En by Cash Medal Chameleon v20241104] [Portraits].gb	gb-t-en
+503f533a8dfb84d8fe2c051ca2533ed8	Medarot - Kuwagata Version (Japan) (Rev 1) (SGB Enhanced) [T-En by Cash Medal Chameleon v20241104].gb	gb-t-en
 f7572c43cb8b4ddaef69e45f48051d47	Momotaro Thunderbolt (Japan) [T-En by The Spoony Bard v0.91] [n].gb	gb-t-en
 f1f6500388862ec5e7bc61206d71c772	Nectaris GB (Japan) (SGB Enhanced) [T-En by TransBRC v1.11].gb	gb-t-en
 d979823108c8eb191bfa92225b3e88bb	Nekketsu High - Hot Blooded! Kunio Kun's Final Battle (Japan) [T-En by Ice Translations v0.99] [i] [n].gb	gb-t-en
@@ -53,6 +60,14 @@ d979823108c8eb191bfa92225b3e88bb	Nekketsu High - Hot Blooded! Kunio Kun's Final 
 c908283b237622a0fb190aa722f38819	Peke & Poko's Daruman Busters (Japan) [T-En by Aishsha & Stardust Crusaders v1.00] [n].gb	gb-t-en
 f3c0b44363a9e5e904e165a2d7ef78f2	Penta Dragon (Japan) [T-En by HTI v1.00].gb	gb-t-en
 6d5ce8847acd4a27190e32207859f467	Picross 2 (Japan) (SGB Enhanced) [T-En by Zed v1.0].gb	gb-t-en
+1f1f04455141f7e9e5d3203f45e4ea85	Pocket Monsters - Blue Version (USA, Europe) (SGB Enhanced) [T-En by Dracrius v1.0.1] [Retranslated] [n].gb	gb-t-en
+608746771886982a2e445677c013cfda	Pocket Monsters - Blue Version DX (USA, Europe) (SGB Enhanced) [T-En by Dracrius v1.0.1] [Retranslated] [n].gb	gb-t-en
+cfc0b077d5f1fb051d1c5392443dbcce	Pocket Monsters - Green Version (USA, Europe) (SGB Enhanced) [T-En by Dracrius v1.0.1] [Retranslated] [n].gb	gb-t-en
+6cd5c747dce160bf1cdabee23145c62b	Pocket Monsters - Green Version DX (USA, Europe) (SGB Enhanced) [T-En by Dracrius v1.0.1] [Retranslated] [n].gb	gb-t-en
+f31940888f91bc08028c7e2ee8d5c032	Pocket Monsters - Midori (Japan) (SGB Enhanced) [T-En].gb	gb-t-en
+8849fa285bfcba92c2ac940f2221574f	Pocket Monsters - Red Version (USA, Europe) (SGB Enhanced) [T-En by Dracrius v1.0.1] [Retranslated] [n].gb	gb-t-en
+7003e6bf2cc6bce18ee5657cb2c1227f	Pocket Monsters - Red Version DX (USA, Europe) (SGB Enhanced) [T-En by Dracrius v1.0.1] [Retranslated] [n].gb	gb-t-en
+f14b5dad2fae03dfdf45b9ea765a81f0	Pocket Monsters Gin (Japan) (Demo) (Spaceworld 1997) (SGB Enhanced) [T-En by Pokeglitch86 v6-16-18] [i].gb	gb-t-en
 1af955dc4d4d7e02c3b5a051a54bd43a	Pokemon - Green Version (Japan) (SGB Enhanced) [T-En by LandaR v1.0] [n].gb	gb-t-en
 1dc97fcd1ba8e5f5cf4e344b230983db	Pokemon - Green Version (USA, Europe) (SGB Enhanced) [T-En by Skeetendo Inc. v3.0] [n].gb	gb-t-en
 57c9c1c5612baba6b1aec8047cd83fa6	Pokemon - Green Version (USA, Europe) (SGB Enhanced) [T-En by Skeetendo Inc. v3.0] [PokeMartSigns] [n].gb	gb-t-en
@@ -69,7 +84,9 @@ d05a4c81821a4627d56d08e08f9449d4	Super Robot Wars (Japan) [T-En by Aeon Genesis 
 0738676ccec75b243b20d2ea9261adfb	Tenjin Kaisen (Japan) [T-En by Stardust Crusaders v1.00].gb	gb-t-en
 403515b14d773c62d535968930ec20a7	Uchuu no Kishi Tekkaman Blade (Japan) [T-En by Strag0 v0.99] [i].gb	gb-t-en
 dab3d8dad09934fd55ab11ca1cea4792	Ultraman - Legend of the Super Warrior (Japan) (SGB Enhanced) [T-En by Gorgyrip v1.0] [n].gb	gb-t-en
+e26d436880321acb91e9ec1c8c4c200a	Ultraman Ball (Japan) (SGB Enhanced) [T-En by Suicidal Translations v0.99] [Add by FlashPV v1.00].gb	gb-t-en
 bc977605b3db8aeab9d60289e6b7e361	Ultraman Ball (Japan) (SGB Enhanced) [T-En by Suicidal Translations v0.99] [i].gb	gb-t-en
+3d358db7cd5553ae2346c81d9969c716	Undercover Cops - Galmer God of Destruction (Japan) [T-En by Stardust Crusaders v1.00] [n].gb	gb-t-en
 bd8e52663feae37638925f07bff53309	Urusei Yatsura - Miss Tomobiki o Sagase! (Japan) [T-En by Razor-X Translations v0.05] [i].gb	gb-t-en
 883853031c9927ac6731b35da593519d	Wizardry Gaiden - Suffering of the Queen (Japan) [T-En by Tangyi_Chang v1.1] [n].gb	gb-t-en
 4108a2fdbb7bab5062ad98ff4a2a116e	Wizardry Gaiden II - Curse of the Ancient Emperor (Japan) [T-En by MrRichard999 & Tangyi_Chang v1.1] [n].gb	gb-t-en
