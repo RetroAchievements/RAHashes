@@ -1,0 +1,35 @@
+80a2f65bcccf459f5b672eaf859032f7	[BIOS] Nintendo 64DD Drive Controller (Japan) (Beta) (1997-04-03).bin	Nintendo - Nintendo 64DD
+bacbbd6dfd1b1295b3af026bc1338bb4	[BIOS] Nintendo 64DD Drive Controller (Japan) (Development) (1996-09-26).bin	Nintendo - Nintendo 64DD
+0e5dfb5e07e3f69fcee9986cbaa87666	[BIOS] Nintendo 64DD Drive Controller (Japan) (Development) (1997-01-14).bin	Nintendo - Nintendo 64DD
+8d6555ea90f8bd56d50d191d3b55401b	[BIOS] Nintendo 64DD Drive Controller (Japan) (Development) (1997-07-17).bin	Nintendo - Nintendo 64DD
+7cb315211b03e60dce91253e4face3be	[BIOS] Nintendo 64DD Drive Controller (Japan) (Development) (1997-12-09).bin	Nintendo - Nintendo 64DD
+4349f7df1e34afd528cb205a7fe217a3	[BIOS] Nintendo 64DD Drive Controller (Japan) (Development) (1998-03-12).bin	Nintendo - Nintendo 64DD
+012a33a524e38e834081fdc179edb918	[BIOS] Nintendo 64DD Drive Controller (Japan) (Development).bin	Nintendo - Nintendo 64DD
+fc3bdf57fd818c1d00e9a2697beaf1e1	[BIOS] Nintendo 64DD Drive Controller (Japan) (Retail).bin	Nintendo - Nintendo 64DD
+94dba2d79615deed567aa85f4cf74162	[BIOS] Nintendo 64DD IPL (Japan) (v1.0) (Beta).z64	Nintendo - Nintendo 64DD
+7630650c7fc16e199911269647186e79	[BIOS] Nintendo 64DD IPL (Japan) (v1.1) (Beta).z64	Nintendo - Nintendo 64DD
+8d3d9f294b6e174bc7b1d2fd1c727530	[BIOS] Nintendo 64DD IPL (Japan) (v1.2).z64	Nintendo - Nintendo 64DD
+37c36e4286d36892a9fc70eafe4104be	[BIOS] Nintendo 64DD IPL (USA) (Proto).z64	Nintendo - Nintendo 64DD
+aad37b1492886b892f1821f37fd3ae34	[BIOS] Nintendo 64DD Tool IPL (Japan) (Beta).z64	Nintendo - Nintendo 64DD
+c108a9b1eb024f0d2317c05976ba49f2	Dezaemon DD (Japan) (Proto) (1997-11-07) (Expansion).ndd	Nintendo - Nintendo 64DD
+84706e10026bd2ee9654da5e9821598d	Dezaemon DD (Japan) (Proto) (1998-02-23T210259) (Expansion) [b].ndd	Nintendo - Nintendo 64DD
+40aa8ec52c5e025d6c6ad94cebc2218f	Dezaemon DD (Japan) (Proto).ndd	Nintendo - Nintendo 64DD
+cb2fb00c3921245ae04bb38ba01abe92	F-Zero X - Expansion Kit (Japan).ndd	Nintendo - Nintendo 64DD
+fcca9af8c1174c40b478ea0e02673b16	Kyojin no Doshin - Kaihou Sensen Chibikko Chikko Daishuugou (Japan) [b].ndd	Nintendo - Nintendo 64DD
+afe059ae1210751b6c849cfb482c99dd	Kyojin no Doshin (Japan) (Demo) (Kiosk) [b].ndd	Nintendo - Nintendo 64DD
+e8eb810d996e12cd6c47445f87a94c72	Kyojin no Doshin (Japan).ndd	Nintendo - Nintendo 64DD
+114af722029d6386c3bfea4cc8fa603c	Mario Artist - Communication Kit (Japan).ndd	Nintendo - Nintendo 64DD
+a76b619ec832a7e2abcfbdfeb5375e39	Mario Artist - Paint Studio (Japan) (Beta) (1999-02-11).ndd	Nintendo - Nintendo 64DD
+8485643e5830cd67ed4c0a5fd49e2491	Mario Artist - Paint Studio (Japan).ndd	Nintendo - Nintendo 64DD
+da23ee561578b7dad77ed72728b46d30	Mario Artist - Polygon Studio (Japan).ndd	Nintendo - Nintendo 64DD
+480411a69176fee1b48d78aab0ef7999	Mario Artist - Talent Studio (Japan) (Beta) (1999-08-05).ndd	Nintendo - Nintendo 64DD
+88228e990b58a94e9b3460beff632304	Mario Artist - Talent Studio (Japan).ndd	Nintendo - Nintendo 64DD
+9f797a9c704b5ebd04d6a2b036309af2	Nihon Pro Golf Tour 64 (Japan) [b].ndd	Nintendo - Nintendo 64DD
+ce2e8f4ff1ac546fad5dc51882e8602f	Randnet Disk (Japan) (Beta) (1999-09-28).ndd	Nintendo - Nintendo 64DD
+6252d9a42c125e3fce3d0f0969cd0737	Randnet Disk (Japan) (Beta) (1999-11-27).ndd	Nintendo - Nintendo 64DD
+cac02c151550c150aaf3a0c921f7ad37	Randnet Disk (Japan) (Beta) (2000-02-04).ndd	Nintendo - Nintendo 64DD
+7eff488ec5bf269bdcb53e38d28d1ba2	Randnet Disk (Japan) (Beta) (2000-02-17).ndd	Nintendo - Nintendo 64DD
+33cbc59786063285dc3c090e0ed312e3	Randnet Disk (Japan) (Rev 1) [b].ndd	Nintendo - Nintendo 64DD
+26087e0750fc6da0f3de2a431e34bddf	Randnet Disk (Japan) [b].ndd	Nintendo - Nintendo 64DD
+ebba03f20096fc2bc178fc3a1f4ec2b6	SimCity 64 (Japan).ndd	Nintendo - Nintendo 64DD
+d9ea905727b44f2774926cb03c2300a7	Super Mario 64 - Disk Version (Japan) (Proto).ndd	Nintendo - Nintendo 64DD

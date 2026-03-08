@@ -1,0 +1,22 @@
+B7338F006611018EEFA8AAE5117F034F	American Hero (USA) (Proto) (Movie A) (Disc 1)
+B7338F006611018EEFA8AAE5117F034F	American Hero (USA) (Proto) (Movie A) (Disc 2)
+B7338F006611018EEFA8AAE5117F034F	American Hero (USA) (Proto) (Movie B)
+13E85825FDEBFDE50AE795C2EC1C4A6B	Black ICE - White Noise (USA) (Proto)
+91942F5E841CD5E04779657727051628	Brett Hull NHL Hockey (Unknown) (Beta)
+DDB93E31FBB5689FB215E0938E33FB38	Caves of Fear (USA) (Proto)
+1CC370E97B748295766C17A28A0E7DAA	Demolition Man (Unknown) (Proto)
+A94C3992205C320C6703FE28F28EF507	Soul Star (Unknown) (Proto)
+D6F1A8B91DC4A71983B641C4A48F2296	Varuna's Forces (Unknown) (Proto 1)
+
+
+Could not open:
+American Hero (USA) (Proto) (Movie Only)
+Blue Lightning (Unknown) (Beta) (1994-12-05)
+Blue Lightning (Unknown) (Beta) (1994-12-06)
+Blue Lightning (Unknown) (Beta) (1995-01-25)
+Blue Lightning (Unknown) (Beta) (1995-04-07)
+Blue Lightning (Unknown) (Beta) (1995-04-10)
+Blue Lightning (Unknown) (Beta) (1995-04-11)
+Klax (World) (Rev 1) (Unl)
+Klax (World) (Unl)
+Varuna's Forces (Unknown) (Proto 2)

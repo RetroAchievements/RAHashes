@@ -1,0 +1,22 @@
+05e803c8fb9e488e84b6d5061eb0e5bc	240p Test Suite (Europe) (v1.23) (Program) (Aftermarket) (Unl)
+5b6d977f1a78f2e936b23a70d771ac9e	240p Test Suite (Japan) (v1.23) (Program) (Aftermarket) (Unl)
+9a1cdb0a81209fb6c24ac9979618a5ef	240p Test Suite (USA) (v1.23) (Program) (Aftermarket) (Unl)
+3a35e3220ad4149635d1b7f95eb69cdd	Adventures of Batman and Robin, The (Unknown) (Beta) (1995-04-24)
+3cb1865a5b3718abafbdec5e1afe67bb	Amazing Spider-Man vs. The Kingpin (Unknown) (Beta) (1993-06-02)	nointro-nonredump-scd
+fb39ce7580216334770fd55d8430ae0d	Batman Returns (Unknown) (Beta) (1993-04-23)	nointro-nonredump-scd
+bda70ccbd36186eb6272c62586d35bb8	Battlecorps (Unknown) (Beta) (1994-02-11)	nointro-nonredump-scd
+fb9bf17e153dcdd0c0633830995228af	Blackhole Assault (Unknown) (Beta) (1992-10-01) [b]
+38bb5e72eb5225d645ad8353c357bef6	Bloodshot (Unknown) (Beta) (1995-03-09)	nointro-nonredump-scd
+71c240814e160c1528c55208c9f9168a	Cobra Command (Unknown) (Beta) (1992-10-10)
+b6facd4963d3e768392d319bdbf0f1c4	Colors of Modern Rock (Unknown) (Beta) (1993-02-22)
+0b27cb0c130006630702ca0656961748	Fatal Fury Special (Unknown) (Beta) (1995-01-13) [b]
+26ae70cce7a0e7f4b2b2e9edb78a399c	Final Fight CD (Unknown) (Beta) (1993-04-23)	nointro-nonredump-scd
+9464e0ae9dcde8ca8b7655b6226d7617	Jurassic Park (Unknown) (Beta) (1993-08-03)	nointro-nonredump-scd
+95c1aadc2453bfedd9d6a0a06b82e102	Loadstar - The Legend of Tully Bodine (Unknown) (Beta) (1994-10-13)	nointro-nonredump-scd
+b6d6dc841ced34dab4b40ea112f711a2	Make My Video - INXS (Unknown) (Beta) (1993-01-18)	nointro-nonredump-scd
+2443b9ca11a3e5efed2417c1da865fe6	Make My Video - Kris Kross (Unknown) (Beta) (1992-11-30)	nointro-nonredump-scd
+2a86a72ab148b74b1a53a29d6dd00b3e	Make My Video - Marky Mark and the Funky Bunch (Unknown) (Beta) (1993-01-20)	nointro-nonredump-scd
+211ade60b28992129345fa065dd869c1	Road Rash (Unknown) (Beta) (1995-02-11)	nointro-nonredump-scd
+0d8f7b219136d27015b5cc28c0a55f08	Syndicate (Unknown) (Beta) (1995-06-09)
+df5c368e1f3e19ebf538a5f56f578096	Tomcat Alley (Unknown) (Beta) (1994-02-10)	nointro-nonredump-scd
+b579258eb718b61a6df15c42b31829f5	WonderMega Collection (Japan) (Rev 2)

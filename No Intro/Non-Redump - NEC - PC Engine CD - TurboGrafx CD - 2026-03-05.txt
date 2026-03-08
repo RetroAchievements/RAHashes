@@ -1,0 +1,11 @@
+2a91779a2576dda7f5e4450fb7b6df65	Angels 2 - Holy Night (Japan) (En) (Proto).cue
+ab5036ef5b3df3d49031526ea2655d51	Fantasy Star Soldier (USA) (Beta).cue
+c8f1a24f69d0ea2e2562f818f58ecf89	Gate of Thunder + Bonk's Adventure + Bonk's Revenge (USA) (Demo)
+c186bcdc1b16089692bbf0d6ad779f43	Space Fantasy Zone (Japan) (En) (Proto).cue
+
+de393916439f876030a917636125e884	240p Test Suite (World) (v1.12) (CDROM2) (Program) (Aftermarket) (Unl)
+3c65a242601d82956e49291529954dfc	240p Test Suite (World) (v1.12) (Super CDROM2) (Program) (Aftermarket) (Unl)
+e8fcd1cca579f12932c51ea7fb01194b	240p Test Suite (World) (v1.15) (CDROM2) (Program) (Aftermarket) (Unl)
+1f821287788ee087330441b1e341afa7	240p Test Suite (World) (v1.15) (Super CDROM2) (Program) (Aftermarket) (Unl)
+e665731cef9fce6835e34066686db035	Nyanja!, The (World) (Demo 3) (Aftermarket) (Unl)
+e665731cef9fce6835e34066686db035	Nyanja!, The (World) (Demo 4) (Aftermarket) (Unl)
