@@ -1,0 +1,10 @@
+b834afbd7948e736447e6f7a46b50206	sgx\1941.zip
+3ac63ab35fefbddc6171ff3397611c66	sgx\aldynes.zip
+be07e154d3b2bd5733cce3d57cc413aa	sgx\battlace.zip
+a2b1f13fc88e54ebf0c7964c8cbf0ccc	sgx\daimakai.zip
+b870764bf655bcf8a8ab630bfd709567	sgx\daimakai1.zip
+73dd8fbe63bc37e2ab859facd83c8c99	sgx\daimakaid.zip
+6b471f417f5bf3779fd972ab60b9adc6	sgx\daimakaii.zip
+2aadf4c2232b18f732a906301fd208f8	sgx\granzort.zip
+58c5def91180c38e1319e96faa28aadc	sgx\rta2.zip
+8378314db2cb18e6969cd4a281a92971	sgx\rtypeuh.zip
