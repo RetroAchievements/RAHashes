@@ -1,0 +1,153 @@
+82ee056af81203af58092ff2e6cf079d	Aardvark (2019) (NTSC) (Oscar Toledo G., Thomas Jentzsch, Nathan Strum).a26
+689f49e31cac68db8a2cf8f44fa7a01a	Aardvark (2019) (PAL60) (Oscar Toledo G., Thomas Jentzsch, Nathan Strum).a26
+fd805d35c48437e1d99d6390f33b0112	Abyss of Chernobyl (NTSC) (v0.81) (Aftermarket) (Fehér János Zoltán).a26
+a729818b7f9ca18c631adde04e211a83	Abyss of Chernobyl (PAL50) (v0.81) (Aftermarket) (Fehér János Zoltán).a26
+e204a6b63a8e6e1400fde46bbd054722	Alien Force (NTSC) (Aftermarket) (Nova32).a26
+e8229245b82ed09ec182d74f62482002	Alien Pinball (NTSC) (v1.0) (Aftermarket) (Unl).a26
+cb7f692445421db83d3b7030647aea34	Amazona Adventure (NTSC) (Aftermarket) (Unl).a26
+9150cd982fbd340c75b1371a12796704	Angry Video Game Nerd, The (NTSC) (Aftermarket) (Unl).a26
+81b400ecf7ddae9c57dcd0fac503749b	Anguna (NTSC) (Aftermarket) (Unl).a26
+93c4b910f7649b3e998bb6d8527c6f4a	Arkyology (NTSC) (Proto) (1983) (Startup Bugfix) (DirtyHairy).a26
+2434102f30eeb47792cf0825e368229b	Arkyology (NTSC) (Proto) (1983).a26
+faebcb2ef1f3831b2fc1dbd39d36517c	Asterix (Europe) (CX2696).a26
+7d24f3054be9950aa263e005581c4786	Astro Chase (NTSC) (Proto) (1983-10-25).a26
+52c7094713594ca0d7a345cfd4ca6929	Baby (NTSC) (Demo) (Aftermarket) (RobsomeStudios).a26
+52c7094713594ca0d7a345cfd4ca6929	Baby (NTSC) (v1.0) (Aftermarket) (RobsomeStudios).a26
+3488a709f614aaa4dc670e5e577cb92a	Baby (NTSC) (v2.0) (Aftermarket) (RobsomeStudios).a26
+795bafe9e9f4ea7a5d2c34c1a4fea992	Baby (NTSC) (v3.0) (Aftermarket) (RobsomeStudios).a26
+ea08d519122e6af06117fdded62c525d	Backfire (NTSC) (Aftermarket) (Chad Lare).a26
+45cbf6ed6ec3140ba3723c1e5dcec9d7	Bee-Ball (NTSC) (Aftermarket) (Ivan Machado).a26
+c287c9a9d9949295fe37cba3c13104aa	Bee-Ball (PAL) (Aftermarket) (Ivan Machado).a26
+597af15cc043c11f60f1e5cc6f091380	Bees (NTSC) (Aftermarket) (atari2600land).a26
+61454bda4eb3ae776f271fad4226b76d	Birds and Beans (NTSC) (Aftermarket) (Bluswimmer).a26
+6aa3cc9e5a9f711eec654fad03accc31	Birds and Beans (NTSC) (v2.0) (Aftermarket) (Bluswimmer).a26
+ffcb629e39e0455b37626ca1cf360db2	Birds and Beans (NTSC) (v2.1) (Aftermarket) (Bluswimmer).a26
+41e0953e9e8810ce67bc7995b37bbf8b	Birds and Beans (NTSC) (v2.2) (Aftermarket) (Bluswimmer).a26
+4b69cc7a0adb28188a69508074ee3b9e	BLT Blast (NTSC) (v20150605) (Aftermarket) (Unl).a26
+dd3988ffca042b1b22e17f0998275dec	Book of Five Rings (NTSC) (Aftermarket) (Unl).a26
+f0a6612088cd402fc58e5833e2c64745	C.H.E.A.T. (NTSC) (v1.4) (Aftermarket) (Unl).a26
+e60ddaf73ee51ecba7dd22219faede50	Carrot Kingdom (NTSC) (Rev 2) (Aftermarket) (Joseph Nesbella).a26
+629163c6022b4cce9e721091799a272a	Castle of Devils (NTSC) (v1.0) (Aftermarket) (Unl).a26
+0a8e047fe9f59e00feb87f2bcf599897	Castle of Devils (NTSC) (v1.1) (Aftermarket) (Unl).a26
+e532c1a9c4110c4a359b8e7514dc5c48	Cave Raider (NTSC) (v1.07) (Aftermarket) (Unl).a26
+9784290f422e7aeeab4d542318bd9a1f	Chetiry (NTSC) (Stella Fix) (Aftermarket) (Chris Halton).a26
+c11e8473c652619ac6166900150ce215	Chetiry (PAL) (Stella Fix) (Aftermarket) (Chris Halton).a26
+c2fbef02b6eea37d8df3e91107f89950	Conquest of Mars (NTSC) (Aftermarket) (Unl).a26
+48f18d69799a5f5451a5f0d17876acef	Criminal Pursuit (NTSC) (En).a26
+3539e1c56b02f7dd49dd487de713360b	Danger City (NTSC) (Aftermarket) (Unl).a26
+6333ef5b5cbb77acd47f558c8b7a95d3	Dark Mage (NTSC) (Aftermarket) (Greg Troutman).a26
+2b71a59a53be5883399917bf582b7772	Dark Mage (NTSC) (Beta) (Aftermarket) (Greg Troutman).a26
+586e564c757288003b7f97ec25dd3430	DigiBeatz (NTSC) (v0.4.3) (Aftermarket) (Mystical Wheelbarrow).a26
+b48013d42dab1e643c0b2bae3bb2ecc0	DigiBeatz (PAL60) (v0.4.3) (Aftermarket) (Mystical Wheelbarrow).a26
+f1ae6305fa33a948e36deb0ef12af852	Donkey Kong VCS (NTSC) (v1.0) (Aftermarket) (Joe Musashi).a26
+494cda91cc640551b4898c82be058dd9	Donkey Kong VCS (PAL60) (v1.0) (Aftermarket) (Joe Musashi).a26
+97f4da9f1031486f4e588f1e53572e53	Draconian (NTSC) (RC8) (Aftermarket) (Unl).a26
+ecdf8cd1b01926cee3814604888503b0	Duelo (NTSC) (v1.0) (Aftermarket) (Unl).a26
+cd43a9cc395d8899f85be4e5c5177fc2	ElectroBall (NTSC) (v1.0) (Mike Littau).a26
+519d391e51426df42c71358eecb1ad75	ElectroBall (PAL50) (v1.0) (Mike Littau).a26
+ca6d7724c1c6fda00acb06f6c4c8a94f	ElectroBall (PAL60) (v1.0) (Mike Littau).a26
+6205855cc848d1f6c4551391b9bfa279	Euchre (NTSC) (Aftermarket) (Unl).a26
+554fd5775ca6d544818c96825032cf0d	Firefox (NTSC) (Proto) (1982).a26
+42110c026e7a30c732e3f56ece48cd05	Fish (NTSC) (Proto) (1983-12-22).a26
+c7490861ebf74ff1722362aaa146029f	Fix-It Felix Sr. (Europe) (PAL 60) (Aftermarket) (Unl).a26
+db112399ab6d6402cc2b34f18ef449da	Fix-It Felix Sr. (NTSC) (Aftermarket) (Unl).a26
+2d33a44e82f88d05f6c50577218c0cae	Flappy (NTSC) (RC2) (Aftermarket) (Unl).a26
+ff27ac41047e4b4aa70b621e928ec967	Foxy Go Go Go! (NTSC) (Aftermarket) (Unl).a26
+c7b738379dcb9aafd22f31068f11604e	Furcon Frenzy - Custom Character Version (NTSC) (Aftermarket) (Unl).a26
+28fd7490ddb2f24f7eb6ba97a8f67c6b	Furcon Frenzy - Scribbly Gum Version (NTSC) (Aftermarket) (Unl).a26
+d4b0a44b79bd2da5dc97811f210abcaf	Game of the Bear - 2 Much to Bear (NTSC) (Aftermarket) (VHZC).a26
+1ae73be0ab11a0bba1509a0a0dff2772	Game of the Bear - 2 Much to Bear (PAL60) (Aftermarket) (VHZC).a26
+dc7eff9936c27218480cbb0fc2d756c1	Game of the Bear (NTSC) (Aftermarket) (VHZC).a26
+96d1ba3e42fb06cc4042f2973b0eb460	Heartbreak (Europe) (PAL 60) (v20130327) (Aftermarket) (Unl).a26
+078e08c1ddf839067b7bc7b88dc04ac1	Holey Moley (NTSC) (Joystick Conversion) (Prototype).a26
+9fa0c664b157a0c27d10319dbbca812c	Hunchy 2 (NTSC) (Aftermarket) (Chris Walton).a26
+11f9532557e4c9569f4b242164006161	Hunchy 2 (PAL) (Aftermarket) (Chris Walton).a26
+919278fc296daeca578376d542166d8c	Hunger Shark (NTSC) (v0.2.4) (Aftermarket) (Unl).a26
+84a127ff664edff1fcd6e559eb681fa9	Hunger Shark (NTSC) (v0.2.8) (Aftermarket) (Unl).a26
+47db521cc84aaa1a0a8eef9464685dc9	I Ran (NTSC) (Aftermarket) (VHZC).a26
+a8d604acb9a7b6e57d511a4dc67135cb	Immunity (NTSC) (v20221223) (Aftermarket) (Mike Losh).a26
+f5746d4c2302ad66defe3a4da7081fbf	Joy Ride (Europe) (PAL 60) (v20130327 (Aftermarket) (Unl).a26
+89a923f6f6bec64f9b6fa6ff8ea37510	Joy Ride (NTSC) (v20130327) (Aftermarket) (Unl).a26
+b278b5227aa22b215f5c266c85724f7f	Katamari (NTSC) (v1.0) (Aftermarket) (Rabbit2600).a26
+5268d7c6edeefd5bbb1e048cf8c2b6f4	Katamari (NTSC) (v1.1) (Aftermarket) (Rabbit2600).a26
+a68c795689e027ac49137c643db54cb2	Katamari (NTSC) (v1.2) (Aftermarket) (Rabbit2600).a26
+b467c468a17b82372244893d767f55e2	Katamari (NTSC) (v1.3) (Aftermarket) (Rabbit2600).a26
+c411ec2fed53fa14c1fde93a8a975345	Kelly Kangaroo (NTSC) (v0.6) (Aftermarket) (Unl).a26
+248668b364514de590382a7eda2c9834	Kick-Man (NTSC) (Proto) (1982-01-08).a26
+c8c67862963ffe262b80cbb35eeee046	Lead 8K (NTSC) (Aftermarket) (Unl).a26
+daef7d8e5a09981c4aa81573d4dbb380	Lord of the Rings, The - Fellowship of the Ring - Dark Mage Hack (NTSC) (v2002) (Adam Thorton).a26
+9f552e23a8d4f03c2ec7c147cf7fb921	Lucky Chase (NTSC) (v20230122) (Aftermarket) (Unl).a26
+74a3225acd5a4ae82614f69a57233053	Lucky Chase (NTSC) (v20230603) (Aftermarket) (Unl).a26
+d3dc1cec46f1a0af6faa61faef6cca50	Lucky Chase (PAL60) (v20230122) (Aftermarket) (Unl).a26
+8eabdf1a72a25b263f5519ec32e9d572	Lucky Chase (PAL60) (v20230603) (Aftermarket) (Unl).a26
+c74ddb744209a92382616e2fa38d1378	Mega Man (NTSC) (Demo) (Aftermarket) (David Galloway).a26
+f37fe43b6b6e81c9cb3778819caf1172	Meooow! (NTSC) (Aftermarket) (Unl).a26
+2337dee4b4ffd22d687d24a87527d8fc	Meooow! (PAL) (Aftermarket) (Unl).a26
+cd45895074b3579b2a923bb84143cabe	Meteor Fall (NTSC) (Aftermarket) (lucascm).a26
+b54be87652cd9af6095f7d7f154762c6	Mr. Yo-Yo (NTSC) (Aftermarket) (David Marli).a26
+eb99c0286ff206ea0626a10ec6d07b46	Mr. Yo-Yo (PAL60) (Aftermarket) (David Marli).a26
+ac8b54d6994ae6c799687cdc37e393c2	Myst (VCS) (NTSC) (Aftermarket) (Unl).e7
+0a1eb409f15d6da08a7a11be6b4948fe	Nemo in Sea (NTSC) (Aftermarket) (Unl).a26
+1c11a231ef51cd45075d9c3c30c9621a	Night Watch at Wilford's (NTSC) (Aftermarket) (PixRuss).a26
+3af953e8acd017bb853384dcf519452a	Night Watch at Wilford's (PAL50) (Aftermarket) (PixRuss).a26
+853e40eb948d72295ec9435378453806	Night Watch at Wilford's (PAL60) (Aftermarket) (PixRuss).a26
+567db49a3ee319ff5e30fe0dcb7bd7fd	Ninjish Guy in Low Res World (NTSC) (Aftermarket) (VHZC).a26
+2148917316ca5ce1672f6c49c0f89d0b	Omicron 2K (NTSC) (Aftermarket) (seemo).a26
+bc593f2284c67b7d8716d110f541953f	Omicron 16K (NTSC) (Aftermarket) (seemo).a26
+6e88da2b704916eb04a998fed9e23a3e	Pac-Man 4K (NTSC) (v2008-05-24) (Aftermarket) (Dennis Debro).a26
+3ddee021a7daa2fbeb620cca5d662b9d	Pac-Man 8K (NTSC) (v5.0) (Aftermarket) (Unl).a26
+30d72f64ffdd6ab5495328507843b76d	Pakoman (NTSC) (Aftermarket) (Unl).a26
+30efc5e6a42e4f823abaea3463a7d37a	Penult (NTSC) (Demo) (Aftermarket) (Karl Garrison).a26
+826592de9fef6a2bbeb7ee38724b2217	Penult (PAL60) (Demo) (Aftermarket) (Karl Garrison).a26
+212d0b200ed8b45d8795ad899734d7d7	Pepsi Invaders - Coke Wins (NTSC) (Prototype).a26
+49ecfe997893f3e16f6d4b836dc21c9a	Pineapple 2000 (NTSC) (Aftermarket) (Unl).a26
+d011d94d78638d09773af797df45aad8	Portal (Demake) (NTSC) (Aftermarket) (ivancilgames).a26
+104468e44898b8e9fa4a1500fde8d4cb	Princess Rescue (NTSC) (v2013-07-31) (Chris Spry).a26
+0383dc02cb82302da3d155fd108bfe3a	Princess Rescue (PAL) (v2013-07-31) (Chris Spry).a26
+47195a0fe6ccdd82f09599eb11075a11	Punch Chess (NTSC) (Aftermarket) (Unl).a26
+ea6a1cdd1b14eac02759ea6372cfc1f5	Punch Out (Demake) (NTSC) (Aftermarket) (MathanGames).a26
+20bb15cbf61f85684d88c348a121fc1a	Robo Tito (NTSC) (Aftermarket) (VHZC).a26
+e2bd71a61584da41ac7c55b90deab543	Robo Tito (PAL60) (Aftermarket) (VHZC).a26
+828fc8784d3fc5451c482db3a73c7f49	Robot City 1K (NTSC) (v1.01) (Aftermarket) (Thomas Jentzsch).a26
+cbcc94565291c3b412ef5614b9e04ba2	Robot City 1K (PAL50) (v1.01) (Aftermarket) (Thomas Jentzsch).a26
+e12d63de3e9516a389b8d0559ed2f5db	Robot City 1K (PAL60) (v1.01) (Aftermarket) (Thomas Jentzsch).a26
+d92c1ebe55807fab5921d960130d6925	Rock Shot (NTSC) (Aftermarket) (Vivian Video).a26
+3034532daf80997f752aee680d2e7fc3	Seaweed Assault (NTSC) (Aftermarket) (Duane Alan Hahn).a26
+c7765a3af7ff156e18a970d5b9eb4f85	Seaweed Assault (PAL60) (Aftermarket) (Duane Alan Hahn).a26
+eafe8b40313a65792e88ff9f2fe2655c	Skeleton+ (NTSC) (Aftermarket) (Eric Ball).a26
+024e97dabc0b083c31ea52a83cca4e01	Slide Boy in Maze Land (NTSC) (Final) (Aftermarket) (Unl).a26
+bd81069d0945f26d7ff753767208c305	Snake (Rick Skrbina) (NTSC) (Aftermarket) (Unl).a26
+f753c0799f8ed2c767d3241112b96408	Snark (NTSC) (Proto) (1978).a26
+c09aeadc68448329b9e21f47e9872dc6	Space Barricade (NTSC) (Aftermarket) (lott72).a26
+44ca1a88274ff55787ed1763296b8456	Space Game (NTSC) (Aftermarket) (Karl Garrison).a26
+753802cda6e0d53bcd99bfa2d1c6a239	Space Game (PAL60) (Aftermarket) (Karl Garrison).a26
+38dccfb8abeb2f38213d8c164f435fd4	Space Rocks (Europe) (Aftermarket) (Unl).a26
+03db2942cfbea51633726853c81a7b17	Space Rocks (NTSC) (Aftermarket) (Unl).a26
+aecdc8da1d67ad5fd520582750e19938	Spies in the Night (NTSC) (Aftermarket) (Jared Gray West).a26
+6216bef66edceb8a24841e6065bf233e	Splatform 2600 (NTSC) (v1.01) (Aftermarket) (Unl).a26
+76b970b1497e9ec92ee9209895f4d682	SpongeBob PixelPants (NTSC) (v2006) (Aftermarket) (Chris Read).a26
+2418fa5ecfb685f7bb70bc4527e9d966	Star Castle Arcade (NTSC) (v2014) (Aftermarket) (Chris Walton, Thomas Jentzsch).a26
+0653285db216755085bd025b93ea6a25	Star Castle Arcade (PAL) (v2014) (Aftermarket) (Chris Walton, Thomas Jentzsch).a26
+e0b5cbede75b96a2e7c68ddbaed77858	StarGiraf (NTSC) (Aftermarket) (Dr. Ludos).a26
+03649cc2d2169c9b6dd163670da67d0f	StarGiraf (PAL60) (Aftermarket) (Dr. Ludos).a26
+baff265b249b59a7b5a405fe683112d4	StarGiraf (SECAM60) (Aftermarket) (Dr. Ludos).a26
+e796d7f745bf67b96d1ddbc6b5001ba7	Stepz (NTSC) (v1.1) (Aftermarket) (Unl).a26
+516ffd008057a1d78d007c851e6eff37	Strawberry Shortcake - Musical Match-Ups (Europe).a26
+93199a4f25c8e01af423ac280e451cb5	Strike Zone Bowling (NTSC) (Aftermarket) (Unl).a26
+7cbbb78e2942a49ccd32b600c7d65d19	Strike Zone Bowling (PAL60) (Aftermarket) (Unl).a26
+cec71f88f02ec4ab742b1a6cefdceba9	Swoops (NTSC) (Aftermarket) (Clumsywise).a26
+1bbdbdce8ee72f1feb80a71814a84c70	Tarzan (NTSC) (Proto) (1984) (F6 Bankswitch).a26
+468dc062a58499d081c59cf5fd08f655	Tarzan (NTSC) (Proto) (1984).a26
+0279a63d922163da5a4fde76397f3fe0	Tetris26 (NTSC) (Aftermarket) (Colin Hughes).a26
+5e43c0391f7412ae64fae6f3742d6ee9	Thrust (NTSC) (v1.27) (Aftermarket) (Unl).a26
+4d9c219f1e53bcecb1c3576329cb0e14	Thrust (NTSC) (v1.60) (Aftermarket) (Unl).a26
+494af1350a71d7de6661dac265dbbd82	Touhou (NTSC) (Demo) (Aftermarket) (Unl).a26
+13db98daa9842a0ba0db1bbc2d4e9e9d	Trashmania - Classic (NTSC) (Aftermarket) (Jennifer Raye).a26
+24d468d81ac91c521d01c05904dcad95	Trashmania - Remix (NTSC) (Aftermarket) (Jennifer Raye).a26
+16f494f20af5dc803bc35939ef924020	Video Simon (NTSC) (Aftermarket) (Mark De Smet).a26
+8c304722f73b9c91d3b68db6eaad690d	Wall-E (NTSC) (v20130624) (Aftermarket) (Unl).a26
+7088177126d7257472986b65690ce88a	Wipeout 2600 (NTSC) (Aftermarket) (Unl).a26
+f3bb1153e493d740bf41d4e75131001b	Wipeout 2600 (NTSC) (Faster Missiles) (Aftermarket) (Unl).a26
+bdda231978da7e14757920094693248a	Xanthiom (NTSC) (v6.0) (Aftermarket) (MathanGames).a26
+d090836f0a4ea8db9ac7abb7d6adf61e	Yahtzee (NTSC) (Aftermarket) (Russell Babylon).a26
+457b03cd48ff6d895795ef043c6b0f1e	Zippy the Porcupine (NTSC) (v2) (Aftermarket) (Chris Spry).a26

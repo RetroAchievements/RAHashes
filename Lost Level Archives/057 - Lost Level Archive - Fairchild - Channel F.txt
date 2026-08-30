@@ -1,0 +1,16 @@
+1a7590de88e21345f60ec2bc8b2b9269	3rees (USA) (Aftermarket) (Unl).bin
+88c078fe7229add65f031b601064543e	2048-F8 (USA) (Aftermarket) (Unl).bin
+a7f0df802a1eaba82dd9cf2aa7ce3cd4	Adventures of the Stalk of Celery! (World) (v42) (Chris Read).bin
+65a71a450cae1e60589efcf9b1a10456	Boxing (USA) (Aftermarket) (Unl).bin
+74c3961468a024d30095b0b4314e4eb0	Centipede (USA) (v1.01) (Aftermarket) (Unl).bin
+5f2c587bf948be2b67cfae924e4508bb	Fnvader (USA) (Aftermarket) (Unl).bin
+28af9c65dc23035a8ba0b0b7444b2bfc	Lights Out (World) (v2004) (Aftermarket) (Unl).bin
+1ae3fb8784c395c07bbd37bb44476871	Pac-Man (USA) (v2006-02-20,b28) (Aftermarket) (Unl).bin
+3f101828e1e64235a673f337addb3952	Shark (USA) (Aftermarket) (Unl).bin
+b604104cacfda30315b60b00b3ca5ade	Space Race (USA) (v2023) (Aftermarket) (MikeBloke).bin
+a7b94e4941ed058ff4af9cedc21b808b	Speed Race (Directional Controls) (USA) (Aftermarket) (Unl).bin
+b17b3c8744c4ac8a550212b016dcae5b	Speed Race (Twist Controls) (USA) (Aftermarket) (Unl).bin
+ece8baaf22ef385939e5c37e496cc60c	Submarine (USA) (Aftermarket) (Unl).bin
+0d272a1c51bfe148ad12105f3f39446d	Tents and Trees (USA) (Aftermarket) (Unl).bin
+2aebeda05478e8b7f5c1eca037ac6c2f	Tetris (2004) (Trauner, Peter) (USA) (Aftermarket) (Unl).bin
+745479a23fb09dda3df3179c56719ca8	wrdl-f (USA) (Aftermarket) (Unl).bin

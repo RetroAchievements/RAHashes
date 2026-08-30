@@ -1,0 +1,22 @@
+341fc26add52d23acc2b29f6bab42134	3D Attack (Europe) (1983) (UA Ltd.).bin
+7bac4f00565b4b0999ac5f916a6cb364	3D Soccer (1983) (UA Ltd.) (Enhanced - Perspective Fix).bin
+a90c2bb1788bb9b5aa052e40208e7697	Alien Invaders (1982) (UA Ltd.) (Enhanced - Skippable Intro, BG1).bin
+64ed41e4f1ef2803f79b8b7e776fa522	Alien Invaders (1982) (UA Ltd.) (Enhanced - Skippable Intro, BG2).bin
+d2a71e953f1c2eee0c5e174e1ab81789	Alien Invaders (1982) (UA Ltd.) (Enhanced - Skippable Intro, BG3).bin
+650404d4f35709d023906b60d64415fa	Alien Invaders (1982) (UA Ltd.) (Enhanced - Skippable Intro, BG4).bin
+8a6555cc7c1b62e0a51d132093624506	American Football (1982) (UA Ltd.) (Enhanced - No Crowd Noise).bin
+7fa659305834e5ceb8a12782e8e61cbb	Astro Invaders (USA, Europe).bin
+c24eeb1e21bf11ec7a995e72142efbcb	Battle (USA, Europe).bin
+0685c7d2a7b5139992d126419de76daf	Combat (USA, Europe).bin
+2938509d9c2a2316b460b2a617581771	Doraemon (Japan) (1983) (Bandai).bin
+2a636fc1b2c414f87c078c06f279d618	Dr. Slump (Japan) (1983) (Bandai).bin
+fbc7a27361f5652e6eee02186cf3e0bf	End, The (1982) (UA Ltd.) (Enhanced - Bug Fix).bin
+f41fc491b1b095492485e2743c2ddc54	Frogger (v1.03) (200x) (Amigan Software).bin
+c8ca76080f0ac112bed89413a249d153	Golf (198x) (UA Ltd.) (Enhanced - Normal Loading).bin
+eb36753c2d35db8d9d89ddf9dda6fe10	Hobo (1983) (UA Ltd.) (Enhanced - No Flashing).bin
+906040af349e793bae5b062f3074e71e	JTron (World) (2003) (Amigan Software).bin
+f1e29f64dc21ff36647f3b109cbe3deb	Space Squadron (1982) (UA Ltd.) (Enhanced - In-Game Messages).bin
+aabfbc0319b5df50256c2a916ffb45e0	Star Chess (1982) (UA Ltd.) (Enhanced - No Scrolling).bin
+6088906e7d6a2934490b745742130317	Super Bug (1983) (UA Ltd.) (Enhanced - Alt. Levels, Graphics, Music).bin
+69cf3728f7db96c311bc8b3b8917baff	Tetris (Austria) (2003) (Peter Trauner).bin
+10b3d082c57cdf5a6353149e1ed2962f	Tetris (Japan) (Homebrew).bin

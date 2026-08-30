@@ -1,0 +1,569 @@
+e40432b864c4b7440f8b265ebfa0a7f5	10 Lines Princess (2023) (Honoppe).dsk
+78184828e052d27bf0a12ad7297fd342	1937 (2022) (v1.0) (En) (joesg).rom
+b6f0e612f7df4d2676bfa67d4334a4a1	1937 (2022) (v1.0) (Es) (joesg).rom
+4f7bb01eedaea4c5945c4d570790fd45	3D Maze (2020) (chalky).dsk
+b86e6ff5afe5d8bd36b563ab72ad535b	9 Parts (2023) (meichnpp).dsk
+7145bbe78ca41c7eb4ebb5993ed9996c	Adventures of Moron van der Slut, The (2010) (The New Image).rom
+7d163b17b19edfe9f14b946304c34fd8	Akin (1995) (Parallax) (Disk 1).dsk
+bdca2f8986301d49b0a8608fad1e081b	Akin (1995) (Parallax) (Disk 2).dsk
+d7a82c877457e9917171c77aa828c1aa	Aleste 2 (1989) (Compile) (ROM Conversion) (v8.0) (Ricbit).rom
+cc07744cf45a93207b25c7b2d85f11d9	Alien Attack (2021) (v3.0) (Marcos Daniel Blanco, Daniel Simon).rom
+6408d070602a6dbe053e42d4e19591b3	Alien Attack (2021) (v3.5) (Marcos Daniel Blanco, Daniel Simon).rom
+416cee42239d024b6b21fce30292107c	Alien MSX (2024) (v1.3) (NTSC) (Rodrigo Siqueira).rom
+434d5d9857f20b5eb42685b58827df24	Alien MSX (2024) (v1.3) (PAL) (Rodrigo Siqueira).rom
+4b936ba7fc19e6a79368f37940d6b3dc	Alter Ego (2011) (The New Image).rom
+a6e428de4ca5283625d426c976702a92	Anchors Aweigh (2020) (Manuel Martínez).rom
+2cf53fdb7967a534421c8a9137778bda	Andrea Petkovic Torneo de Tenis (2017) (En) (joesg).rom
+0436697179f88a943e900419ced15708	Andrea Petkovic Torneo de Tenis (2017) (Es) (joesg).rom
+49cea1f2448204056352b8cbaf0deb48	Any Treasure Day (2018) (v1.0) (Timmy).rom
+8755fb3f243d256266b2d4162cf512e7	Arm Wrestler (2021) (v1.0) (SKSOFT).rom
+368535aa431f87298e3075d3baf8eba5	Arya (2021) (v1.0) (André Baptista).rom
+687acb0a35022f49f4722ec7230a7993	Attack of the Petscii Robots (2023) (v1.2) (V9990, OPL4) (Robosoft).rom
+1aea98c3f73c1119775abcee599050a7	Auto Mouse (2023) (meichnpp).rom
+f61c797c4ac24c60bb0f0be45e3a3d22	Automania (2022) (v1.0) (Fregarni).rom
+409d78cfe040c12c7707eb3609b1c542	Automania (2022) (v2.0) (Fregarni).dsk
+c94667050695e4945c248a10eb5bb9c8	Automania (2022) (v2.0) (Fregarni).rom
+da76de121aafe422654f0d43789cbeb8	Back To The Future (1986) (Pony Canyon).rom
+acd1aeac19dfe06706fd4e218bf4239d	Bag Man (2007) (AG Software).rom
+6a1f569d878afb4165ce5d3a828fe235	Bakerman (2008) (AG Software).rom
+a48c7420b52846c794b630a77ed842fe	Ball Quest (2008) (Ryazan).dsk
+2f35dd613b36690251aeb5c6cd5ecf1f	Balloon Buster (2022) (v1.0) (Hakogame).rom
+9fad2fe661961442a716be64756c4279	Balloon City (2007) (AG Software).rom
+97785e6f87101fcb277a646d0600a6ed	Barbarian - The Duel (2018) (v1.0) (ASCII16) (Bitvision).rom
+ab6828413ced16ed600c3d218b3e04e7	Bazookarrots (2024) (Retro Game Jam 2024 Version) (Zhamul).rom
+c39a62259b455c432285f7133d5a7ac8	Bazookarrots (2024) (v1.0) (Zhamul).rom
+5a01bbeb3673bbdc020ab8e8e4ebd5da	Be-Bop Bout (1994) (En) (64K) (Mar'z Project).dsk
+a0274bcfabdd9cdc76f5c9fa422b8d27	Bee (2016) (N.I.).rom
+75c0acb7a1415b184638550e832d026a	Beep (2024) (v1.2) (Breinthee).dsk
+100da70f33e4a5abe8edf90cb6d15b8a	Beep (2024) (v1.5) (Breinthee).rom
+4bca1151b95d2c89f1bef41e6a15b1b8	Beepertron (2006) (Dioniso).rom
+8851e15e2d1e510948f5d105a11110f9	BeeZ (2006) (Darkstone).rom
+51d43051c9b5630c605cf49dae5a6d1f	BeTiled! (2007) (CEZ GS).rom
+c32b647d59afc52c34a6192de612ca1f	Binary Battle (2024) (v1.0) (Haplo).rom
+c32b647d59afc52c34a6192de612ca1f	Binary Battle (2024) (v1.1) (Haplo).rom
+52bd862d006d70be5c56948ed5fddb1f	Bird (2018) (N.I.).dsk
+9041a7d75f3dd34a62131a2471ff4185	Bird & Chairs (2017) (N.I.).rom
+ae6474fa6c4db135233aa086da5a7b1d	BitLogic (2015) (v1.0 - Dev) (OXiAB Game Studio).rom
+7848f094ab4786e5cdcd499ec745d12b	BitLogic (2015) (v1.0 - Final) (OXiAB Game Studio).rom
+97ad0fe80b8a5043012332798a3bfe1b	Black Sea Treasure Hunters (2022) (Mananuk).dsk
+ed117078b32c2100e20f85b641bc3220	Black Sea Treasure Hunters (2022) (Mananuk).rom
+98b10970dfa9aa3650e1cb63a3848c65	Blade Lords (1994) (Parallax Software).dsk
+2d6c01a91939967d703f8e202dacc966	Blastoid (2022) (v1.0) (Ludogix).rom
+7fc436e6b6b412add5985e8f83c86041	Blockbuster (2021) (v1.0) (Robosoft).rom
+4c1408815ebed94bf55b7121ae7d5b64	BlockPuzzle (2020) (turbor).rom
+061420f43c8c4cfda214b9f5185f5066	Bloktris (2023) (v1.03) (Under4Mhz).rom
+5d3c0d3d77826dbdd93a35d009e167cb	Bloody Mary (2020) (Lady DarkBite).rom
+20a0d82302b2971be9579f0ce3ce182e	Blusy Shop (2005) (Jordi Sala Clara).rom
+9ac872334c01a9b564347113432544d6	Bomb Man (2005) (Andrea Gasparrini).rom
+ad799074e84a54f2fe2c41587a65936a	Bookworm (2021) (v1.0) (Z80 ASMer).rom
+867c548e5b246ea218c4c516a0887ede	Bounce Mania (2022) (v1.0) (Kun-BASIC) (Zett Darkstone).dsk
+4c53d56577be56a5e2f3a69d2e3663c7	Break Bomb (2021) (v1.0) (Gamecast).rom
+935702871d4b1fdb548608b11613f71a	Bricks (2023) (v1.0) (MoltSXalats).dsk
+b68d4ef5560e04dac9b153b05b4968b9	British Bob (2009) (Relevo Videogames).rom
+04ecc8304379edf99fc6c3475dc6d598	Bubble Code (2025) (meichnpp).dsk
+4abe2f9fb9c590c1eebecfb660a308c8	Bubbo World (2016) (N.I.).dsk
+1aab9c80befcbea8acb5c88a69dbcddb	Bubbo World (2016) (N.I.).rom
+1868521bf90acba785e45ecd12ae04c9	Bubbo World 2 (2016) (N.I.).rom
+8aaf73e25d9cb58a2bc3160fd481d43c	Buddhagillie (2018) (v1.10) (GW's Workshop).rom
+e5da82e5b2f760895783dc462d9d79e7	Bufonada (2022) (v1.0) (En) (Roolandoo).rom
+5d1c8c8a7cb1ad2c201b5f4555e24d26	Bufonada (2022) (v1.0) (Es) (Roolandoo).rom
+a4d99cf1fe210c2e7fe595aefa86a68b	Bumper Ship Racing (2018) (v1.1) (Uninteresting).rom
+2033fb206e1faaa1661df612e4bf3b38	Burn Us (2018) (v2.0) (Carambalan Studios).rom
+54e85d930ff18721ddf91c876fd7a2a4	C.C.R. - Anexo 1, El Algoritmo (2018) (v1.2) (joesg).rom
+d7c862096a96f23bd1c263df6a058ef7	Campanera - Jozelito's Adventure (2022) (En) (Physical Dreams).rom
+61b395c593e73e5834aaf32c2cee3290	Campanera - Jozelito's Adventure (2022) (Es) (Physical Dreams).rom
+c672c9d37070244f13902036f74bb641	Caos Begins (2007) (Hikaru Games).rom
+31a00d3c81a830436e0eb6fc9ed8f138	Castle Tomb (2009) (v9.0) (AG Software).rom
+6341aad44444992fa7d4c72e6e801b8d	Catbox (2024) (v2.1) (Gamecast).dsk
+f3696962eb42941f6dd1ac96cef3648a	Caverns of Titan (2005) (v1.0) (JLTurSan).rom
+015a4f70f73c9d59452b716e2cc0c2d0	Caverns of Titan (2005) (v1.1) (JLTurSan).rom
+301b0d2cb1e067da976204fe1da3cf91	Chambers of Thyrea (2020) (Spacesugar).rom
+93ebbaae9e570ce1b9383b91ca71b880	Champion Billiards (2020) (SG-1000 Fan Port) (Mastropiero).rom
+616d67d1209d9d0e1ea31776022ac572	Cheating Wives (2005) (Crappysoft).rom
+7861ce3ec8d6cbe1b608c72d5fc61058	Chimney Man (2024) (v1.5) (Gamecast).dsk
+f6cf8b99459eb5293cdcc8fefc84a71c	Chocobo Racing (2004) (HL-Soft).rom
+bf1cfe685d65c057029b5297b8d543dd	Circus Mystery, The (2022) (v1.4) (DTenso Games).rom
+fb5387cc03691a54ffa02b88ece1ea0d	CMJN (2014) (nitrofurano).rom
+20ca38914a99e0674fa68ca9e8397921	Cocoa and the Time Machine (2020) (128K) (En) (Minilop).dsk
+b128a7277fd06f08e27c4a20136cb72f	Cocoa and the Time Machine (2020) (128k) (En) Minilop).tap
+c3e1bfdb7d76dbbe3601b6183b84b81f	Cocoa and the Time Machine (2020) (48k) (En) Minilop).tap
+a59ab2c2f643c74698957d0ced333c75	Computer Wars (2004) (En) (Crappysoft).rom
+4a92b7ac094b541e932e7a5818614cc9	Computer Wars (2004) (Es) (Crappysoft).rom
+b7e35b5abd22dce96f0b4aa19d2c9f5d	Corona Encantada, La (2008) (En) (Karoshi Corp).rom
+81440e7f2d4a1e7ee9afb7fec0b1f31f	Corona Encantada, La (2008) (Es) (Karoshi Corp).rom
+c71f684fd9e3d430bfd3da7b8077ac6b	Cosmic Battle (2005) (Beta) (Vendetta).rom
+451a14c1670c80b8a69320166e0d0e59	Cow Abductors (2009) (Paxanga Soft).rom
+9b441dad5d508e2ada97845ce3ee9dfe	Crawlers (2023) (v1.1) (Pixel Phenix).rom
+a6cd4292d7f68036e303bdf9ac1e4265	Crazy Buggy (2005) (Crappysoft).rom
+cf217cf09cdb3dfa6669d6f0325c1405	Crazy MSX Frenchies (2007) (Jipe).rom
+337a2a51d0b3b0415a3db57173691019	Cryptogram - Anagrams Crosswords (2022) (v1.0) (En) (Amaury Carvalho).rom
+d21c5522b3467dc53b3d2c49696abe50	Cryptogram - Anagrams Crosswords (2022) (v1.1) (En,Fr,It,Nl) (Amaury Carvalho).rom
+f763bb7ac109f205c1484348c676422b	Cube Droid Holiday Special (2024) (MSX2) (bitsofbas).rom
+68a51418081e4ea60402b436625a5c5e	Cube Droid Saves the Galaxy (2024) (MSX2) (bitsofbas).rom
+b4456e3f806834a7190f28374abeaf45	Cuncuna (2020) (Christian Córdova).rom
+4876eaf017883717249015770ca881f4	Cure, The (2005) (XL2S Entertainment).rom
+dfe6a97e5eb7e99a452ecdd2f9d99aff	Curse of Lies, The (2024) (v2.0) (Rei-Vax-73).rom
+0635fc761d7ccdbbfb28e97c034b9d73	Daedalian Opus (2006) (Karoshi Corp).rom
+1609094d35610ad3b929d8f0f5a6eb72	Danger Tower (2008) (Danger Team).rom
+6c632d6b6950b423294b37244b25e2f1	DAQ Lord of Idar (2010) (FlashROM Ver.) (Darkstone).rom
+68cfd288a81a84ce82067c94b9362798	DAQ Lord of Idar (2010) (Standard Ver.) (Darkstone).rom
+a01c4ca3402b6bc0668116778719d3e7	Deep Dungeon (2008) (Trilobyte).rom
+7a99efa93c475b1200975f9c36fa22a2	Deep Dungeon Adventure (World) (Aftermarket) (Unl).rom
+997787e742c77fa3c4b821ebbe2ad4d8	Defence (2022) (v1.3) (Gamecast).dsk
+9acb3fbc413db5c20b704f6467d4f713	Defence (2022) (v1.3) (Gamecast).rom
+b21bdc2db8847d6dbffade80bccbdc22	Defuse (2023) (En) (Gamecast).dsk
+66708f15576c8af9facc5b8eab834d78	Defuse (2023) (It) (Gamecast).dsk
+24eeea82f38b4fbda94622f98e5b8569	Destroyer (2014) (CEZ GS, Retroworks).rom
+ab00a9bb180c0890a7a932ccafa8f852	Destroyer (2014) (itch.io Ver.) (CEZ GS, Retroworks).rom
+8cca6a678b626066469774ec29112395	DICED - Tournament (2022) (v1.00) (Mi-Chi, Def Danny).rom
+764660bed7dc601b0a6daf34170f6a42	DICED - Tournament (2022) (v1.12) (Mi-Chi, Def Danny).rom
+3955e109f45e33d0ae407c8e5b6f80d6	Do the Same (2021) (v1.1) (Ricco59).rom
+12c9b40cfd356a90ee0642a654e9496e	Doomlings (2024) (v1.0) (Totta).rom
+23152af2940289364f22e4b38c4f2ec2	Doopm Trip (2017) (N.I.).dsk
+7046d938eb7b205d7b4351274552663a	Dot Attack (2020) (Maarten Loor).rom
+4cb18594e4c2f7e2e8209c513d6465af	Double Rainbow (2023) (v1.1) (Hakogame).rom
+3196bf9713c2625023d3dca66337f313	Dr. Hello (Korea) (1991) (Sis Co.).rom
+3bc98735729df0cf150d0aaef0bdfcc8	Dr. Pill (2009) (Infinite).rom
+a62de98757c3987468a5f110f77c6f9f	Draconic Throne (2017) (v1.12) (GW's Workshop).rom
+dcf1b323f14121293b232172a9b3c949	Dreams Puzzle (2018) (v1.0) (Mapax).rom
+580e3b618990eaaf1c06553550e0ff62	Droids en el Planeta Ingo (Spain) (1987) (Walther Miller).rom
+b5addaec0548bbef96a748d5b57e7b53	Drop of Abu - Cymbel, The (2024) (v1.0) (En) (joesg).rom
+d12bd8f27264e92074e73ee26105d3a2	Drop of Abu - Cymbel, The (2024) (v1.0) (Es) (joesg).rom
+02b361e630e09859f09310ad00c62bf3	Duck Hunt (2004) (Karoshi Corp).rom
+1df9ebffe3dd334cce5f1a4b88079986	DuckTales - The Lucky Dime (1994) (En) (meits).dsk
+336c0a775c0dc3c9d83b2974c99fa285	DuckTales - The Lucky Dime (1994) (Nl) (meits).dsk
+54a21338d6ba677ba9aca26bf24eb895	E-Dog (2024) (meichnpp).dsk
+7430d6033b56ac173194968be0a8d146	Earth Attack (World) (Aftermarket) (Unl).rom
+f94d3a0d3a3d120370e338f95b48c363	Eat Blue! (2004) (Paxanga Soft).rom
+2e2801e6143b64211ee03b23fa719673	Eggy's Maze (2023) (v1.6) (Jacco Bikker).rom
+62933663dd9cc8390eb06c4461d128ae	Equivocal (2009) (v1.0) (The New Image).rom
+cf08022993ae6a8710fa894f49867043	Equivocal (2009) (v1.5) (The New Image).rom
+e3bad54e83fba706de6921ca27e4a43a	Eruka Fan Book (2016) (N.I.).rom
+11600c1cc262b7eefdde219d27425146	Evolution 2 (2008) (Microtech).dsk
+080f10a24d31b6c624680ecd4ebee50b	ExChess (2011) (Garlic Soft - Jos'b).rom
+df328b3806f98f0045253c50c21a9b33	Factory Infection (2004) (Karoshi Corp).rom
+64f4dca99c0b29f25b3c541d7327c47d	Fantastic Football (2021) (v1.0) (Zoran Majcenic, Daniel Simon).cas
+dbc0f6247f813f52ecb102f3bc8890ea	Fantastic Football (2021) (v1.0) (Zoran Majcenic, Daniel Simon).rom
+a201b9497e2eddec48f078830213dde5	Farm (2019) (meichnpp).rom
+9f18eabf19fd700ce75df293fe738712	Farmer's Yields (2023) (v1.0) (Rio Yamamura).rom
+36b3c1eea54e35c8d9898f4a5547d9a4	Feedback (1988) (v2.0) (Tecno Soft).dsk
+9e7d36c4bf2bf721ef5bfde4e11a5316	Find It! (2020) (v1.1) (Fabf).rom
+c60cacd6c1a8d390eae9e73e1f4da697	Flappy Bird (2014) (Crunchworks).rom
+290d372ba72391cd32181153ac68f7c4	Flupper in the Upside Down World (2023) (v1.2) (Amaury Carvalho).rom
+a32af2422bff62e5499ffd32f1497e7d	FlyGuy (2021) (v1.0) (Robosoft).rom
+647a03e631845021b18f60d5c34f4649	Formula Dice (2008) (Luca Giglioli).rom
+f610abfcf828699259201c85cefa2482	Fort Knox (2024) (v1.97) (Gamecast).dsk
+a8e2ad04ff16d46a7b09918e05807773	Freedom Fighter (2020) (thegeps).rom
+18c9900bcc0af21dcc3660c53246c0b6	Gaia's Crest (1988) (NCS).dsk
+d9c7feccdbb2eabfbfd1bec1099b7a77	Gelatino 2 (2021) (En) (Physical Dreams).rom
+b526f7759993d443cc673dd33de4840e	Gelatino 2 (2021) (Es) (Physical Dreams).rom
+a4b97f43997420f7ac013010664691cb	Gelatino 2 (2021) (Fr) (Physical Dreams).rom
+927322885739eac206d0d36ba0f0363b	Gelatino 2 (2021) (It) (Physical Dreams).rom
+685d02ca1daa697785b708ed8a87f617	Ghostly Manor (2022) (MSX V9958 VDP Exclusive) (9958 Crew).rom
+2040573c2ed4e3395f16f2a5e6b85a1c	Ghosts of Blackwood Manor, The (2023) (r14) (Stefan Vogt).dsk
+edcf31c509272d472278737d446a20e0	Global Ordnance (2023) (v1.0) (Fred Rique).rom
+ec1a568f12fa3303804216f35e1cd841	Gniffel (2004) (Dioniso).rom
+f5087b128c79944ee21182b2adca1355	Goal (2018) (G.G.G. Soft).dsk
+a39800ce6a03d1887578ead8cf4f0364	Goal (2018) (G.G.G. Soft).rom
+db568d9a9b86fa9fc0447322f4fa40bf	Goblin, The (2023) (v1.2) (Hick & Mananuk).rom
+d0645d0eb478c48b50737243b8da8f3d	Godzilla Balls - 70th Anniversary (2024) (Paxanga Software).rom
+ed7bdaa4fbefc1b84ec5492ae3649191	Godzilla Balls - 70th Anniversary Level Pack (2024) (Paxanga Software).rom
+a26b957a68208135442f8a9de1e0e60d	Gold Fan (2016) (N.I.).rom
+7fdfe33b26597cc0b6b4277a40ccb35b	Gommy Medieval Defender - CE (2013) (En) (Dimension Z, Retroworks, nenefranz).rom
+b0a285c89a0087cb6e54337292e203ac	Gommy Medieval Defender (2013) (En) (Dimension Z, Retroworks, nenefranz).rom
+eb6a4783588e3c2a821732c86a381746	Gommy Medieval Defender (2013) (Es) (Dimension Z, Retroworks, nenefranz).rom
+16ae39dd5e7e941f71abab341f69ba0e	Gorgeous Gemma in Escape from the Space Disposal Planet (2014) (Impulse9).rom
+3248030ee4546a0ad3329399023606ff	Gravitica (2018) (v1.0) (Yusuke Miyauchi).rom
+713e9fd8449a7f07b754fbd53b5f55be	Grazers (2024) (v1.1) (Aftermarket) (Snauts).rom
+713e9fd8449a7f07b754fbd53b5f55be	Grazers (2024) (v1.2 (Aftermarket) (Snauts)rom
+92f734d82ad1c495bbf25db430ec139b	Great New World, A (2024) (v1.0) (Phaze101).rom
+d97c312adfd9969aff377f39c66c7d7e	Green Cat Chronicles (2018) (meichnpp).rom
+745803f65b0e7b61d444d98f6ff68bf5	Grey Wolf (2017) (256K) (Aftermarket) (Oniric Factor).rom
+c3c9f5295982364f4ca20052b64d2546	Grey Wolf (2017) (Oniric Factor).dsk
+d52e9a2b87d498abcc07a28f684394be	Grid Wars (2006) (Emma Six).rom
+213477f5cec0a668dd78e8c03452fdd6	Griel's Quest for the Sangraal - Extended Edition (2005) (Karoshi Corp).rom
+8b89872b9bf500dcd0716be780b94a63	Griel's Quest for the Sangraal (2005) (Karoshi Corp).rom
+603ec3cc8ac1b4fe44928edab93ceb09	Hans' Adventure (2010) (The Pets Mode).rom
+854cad9c02fb60d1836491b3c14c3cd8	Harker's Escape (2024) (v1.1) (Amaury Carvalho).rom
+10a402eaf26b4d6b2fca94e10a888ad8	Heart Stealer 2 (2021) (v1.0) (Timmy).rom
+e042e5e38cc1bd4a83d3cf4aaaafe62a	Heroes Arena (2010) (Imanok).rom
+4bc16574f8a748f46438f84dd9880583	Hibernated 1 - Director's Cut (2020) (R13) (Stefan Vogt).dsk
+7597aa9a457192db4efdfe7fec26be53	Hibernated 1 (2018) (R17) (Stefan Vogt).dsk
+2d9ed7379d43f71a805ef3a882794fe5	Hopper Boy (2023) (v1.2) (Gamecast).dsk
+ea825d648d23fb0d19f29647aa1ee8da	Hose Diogo Martinez - The Bussas Quest (2008) (Muffie Co.).rom
+986f9091cd04056ff8ff21013d763ad0	I Need Speed (2008) (v1.0) (CEZ GS).rom
+382ad7f162d4e415bcc483c067db1898	I Need Speed (2008) (v1.1) (CEZ GS).rom
+99811c979f02fbf40683640ff089c680	I.N.E.R.T.I.A (2006) (Andrea Rossetti).rom
+62f112037bc8e1a140c72605ed5db5da	Invasion of the Zombie Monsters (2010) (Relevo).rom
+6d07ce00155de7537ded6010c396116b	Isitar 7 (2019) (meichnpp).rom
+33f5ec51c3262d20e4c7112d4e6ad3f8	Italian Stallion (2007) (Impulse9).rom
+c461015b3a3268d2153e6ee18e570394	Izumic Ballade (1996) (M-Kai).dsk
+3011353cf07a2977d5bdcbb22137e92e	Jäästä (2020) (v20200509) (Uninteresting).rom
+f4b4760e69f3e2ed2c8bfc5b43fa58ff	Jailbreak (2010) (v1.00) (Infinite).rom
+95ab4be90d7c140fc51a3056197626a7	Jawbreaker II (2014) (Maggoo).rom
+d4699f818851bd3030b9571451b12048	Jinj 2 - Belmonte's Revenge (2012) (v1.0) (Retroworks).rom
+da0b6cb7dc70a2fbb03819a4230d631b	Jinj 2 - Belmonte's Revenge (2012) (v2.0) (Retroworks).rom
+885c565d391c8d45aed520c816e37eeb	JumpinG (2011) (En) (Dimension Z).rom
+1a228766617c10ffa764882ed9ec564f	JumpinG (2011) (Es) (Dimension Z).rom
+a98e6d9d5631bbc9be2829394e7609a3	Kill Mice (2011) (Gamecast).dsk
+d7ed6eae5bda4717945a003efbdad2a2	Kill Mice (2011) (SCC) (Gamecast).rom
+745ba3076d50c876aafb1e40a76af4b8	Kitten2 - The Return (2024) (v6.1) (MSX TurboR) (ZioOry).rom
+0fc6ef6489d579691818da8103e60071	Kiwi Khaos (2021) (v1.1) (32K) (McCheeseBob).dsk
+d085168b0eb6a58800a4cac926c13120	Klondike Solitaire (2021) (v1.0) (Under4Mhz).rom
+91c1183e523597aa3c3f246208a63e15	KPSS (2024) (OhioKioMarv).rom
+d2dd69a414caf7487a1bfc695d7abedf	Kralizec 8K Tetris (2004) (Kralizec).rom
+73181553059da31b484977193e68ccc6	Kralizec Battle Tetris (2004) (Kralizec).rom
+2aab1a40647eb1319453dc9f85250084	Kumo ni notte (2024) (meichnpp).dsk
+c45fd4b6b2731fb6a73165e53bc26bd2	l'abbaye Des Morts (2020) (RetroDeluxe).rom
+9cf314f9f0720e95e18ffe87d950e1c5	Landing (2020) (Z80 Epoch).rom
+e49511d46c16a4b7bfdb1aa8a11bc347	Laser Mazer (2023) (v1.5) (rodrivas78).dsk
+5921a655bb25a305a692741448c3d448	Last Escape (2023) (v1.0) (Fred Rique).rom
+38b39656b00336191e0dc3f242172367	LEDA (2008) (v0.1) (John Hassink & Paco Santos).dsk
+73ea84a6f303b5eadfe4a6631af44b32	Libreway (2014) (nitrofurano).rom
+95203b134222aff061bfa171cf915524	Lilly's Saga - The Stones of Evergreen (2022) (v1.2) (Fabulous 8bit).rom
+de3a2e76c1522e22c36e5641ccb56a33	Linez (2018) (Final) (Wim Dewijngaert).rom
+c415114a43e502ef37d954626239c63b	Litter Box (2020) (Ray2Day).rom
+6bd8f952d144ff1b8d0eff88bd5cf43b	Lode Run (2005) (Andrea Gasparrini).rom
+2bef8a2c1b3ce4b5404b1caaff1d733d	Logic Remastered (2021) (v1.2) (32KB) (Plattysoft).rom
+5e476b8fb71e18a3cde74379f8a5d5ac	Logic Remastered (2021) (v1.2) (Plattysoft).rom
+7bf5a580fe8dd2e4e214a962387a959a	Los Jardines de Zee Wang Zu (2006) (PSG) (Jos’b).rom
+753bc703ea25bd435a0baac88b1c8d36	Los Jardines de Zee Wang Zu (2006) (SCC) (Jos’b).rom
+240a86ea85c688a313f5752e4e1bd188	Lotus F3 (2007) (dvik & joyrex).rom
+1bceb1c030614810fc9b9dad7847b775	M-Tanks (2011) (Assembler).rom
+b06be059e1c07206bbe276f53fc27508	Mad House (2023) (v4.1) (Gamecast).dsk
+d15d2c5f4915c892fff2aee62d90f55e	Magical Bocco 20541 (2024) (meichnpp).dsk
+6309b4f93b799f0464ad0f13c81dd426	Magical Boco (2024) (meichnpp).dsk
+a32e834b413ffd5471690c75d48d4c9a	Magical Stones (2005) (16K Ver.) (Dioniso).rom
+1f47a9922d132fff199fce8af7196807	Magical Stones (2005) (8K Ver.) (Dioniso).rom
+3ddbf69a502de96a97fdcb8164c5b8de	Magical Tower Adventure (2017) (Timmy).rom
+509897f9c43dd5c172436849efe15dae	Magnar (1992) (Parallax) (Disk 1).dsk
+a18d9075503886558e128300f5e4887e	Magnar (1992) (Parallax) (Disk 2).dsk
+02584b3ff534ac44b0ceb00d5cbe4386	Magnar (1992) (Parallax) (Disk 3).dsk
+9b2238b491eabd2a20dc3c07aaf42e7a	Mahjong Solitaire (2021) (v1.0) (Under4Mhz).rom
+432de13f52afed4c625bfa3373396000	Maiden's Extreme Fist 'BUN-GA-RUA' (2024) (v1.1.2) (Retromixis).rom
+563f7f546751bd6fa18dfbdb251e5509	Make Them Fall (2021) (v1.0) (Robosoft).rom
+f92777e3f086107e104ea88a19ece6d5	Make Them Jump (2021) (v1.0) (Robosoft).rom
+47b7cbde243c4f38b362dd36025592fe	Malaika (2013) (v1.0) (Relevo Videogames).rom
+c9d9df5479902abd9324f924f10c259c	Malaika (2013) (v1.1) (Relevo Videogames).rom
+85a000c507bf90af15c0417b482dc343	Malaika (2013) (v1.2) (Relevo Videogames).rom
+083c10e659e67f91fe062a4424c9e96e	Malaika Prehistoric Quest (2006) (v1.0) (Karoshi Corp).rom
+d70674dc01b0270afecd4d2eb847006f	Malaika Prehistoric Quest (2006) (v1.1) (Karoshi Corp).rom
+d0e4cda770bd59aaf4a8fbab9953247a	Malaika Prehistoric Quest (2006) (v1.2) (Karoshi Corp).rom
+8ec2f123539b3e68b076c6892f02311c	Malaika Prehistoric Quest (2006) (v1.3) (Karoshi Corp).rom
+8293591e4befda1dcc689d90eaed8983	Manicomio (2005) (Crappysoft).rom
+594460d47162ab5261073b961b02b377	Mansion, The (2005) (En) (Germán Gómez Herrera).rom
+18f02bdba73800d028bfad2f9fa776d1	Mansion, The (2005) (Es) (Germán Gómez Herrera).rom
+fc7f0bad06517b9cf007123fd61b971a	Market Master (2021) (v1.0) (Amaury Carvalho).rom
+dbaf5149d63045ec7a57903700e9ce8a	Marshmallow Chronicle (2024) (v1.0) (meichnpp).dsk
+6e3e3a0dc9847efdc7e6a01d77cf3c9f	Marshmallow Chronicle (2024) (v1.1) (meichnpp).dsk
+89300ab72c8365f1aceb1e1b7350c634	Martian War (2023) (v1.1) (Fausto Pracek).rom
+55ca1d58b4604abb649a64ec745df679	Mazogs (2017) (EAV).rom
+c621a67f7b265f7789ddd9cc70410efe	Mecha 8 (2011) (Óscar Toledo Gutiérrez).rom
+900c1d1a5e6a625e551d33e2ce617fbe	Mecha Taisen On Planet Oldskool (2006) (v1.0) (Damage X).rom
+1231e615b1c3d2f42dca16e80d858fc6	Mecha Taisen On Planet Oldskool (2006) (v1.1) (Damage X).rom
+52b7191cc108e7d2b0b3ebc55a77af22	Memory (2022) (v1.1) (Jipe).dsk
+38a428cebd59cdede4beda75eeca72a8	Memory (2022) (v1.1) (Jipe).rom
+f8632919d4c5833985cd2ff82be40aaa	Memory Lane (2023) (ComSha).dsk
+0ad2abd76176e92cc7592e55a3c87799	Menace (2009) (The New Image).rom
+1405247e46112b6926b0b85048531314	Menace from Triton, The (2020) (Brain Games).rom
+1b75238a6860cc92114bf9efd7bcc150	Micro Rocketz (2022) (v1.0) (Troll Soft).dsk
+4d5740f943c86591bf0fccb670f9b140	Minas (2024) (v1.0) (Jose E. Robayo).dsk
+7aadb7635ff6eb0e0bea07cc8ce5bdf8	Mine Command (2023) (v1.0) (Fred Rique).rom
+816ffbd68d49134194aca9dbb0e6779d	Mine Finder (2022) (v1.2) (Paolo Fabrizio Pugno).rom
+9df8bd94865204e67a5f308fafa09da6	Minesweeper (2024) (v1.03) (Under4Mhz).rom
+7f27dc0e00a68c40a7fbf7fcaea4dd49	MinQ (2021) (En,Ja,Es) (128K) (NukegaraDHP).dsk
+6e1f503fe0f3ce605178bf6b512fcae1	MinQ Extra (2024) (Demo) (En,Ja,Es) (128K) (NukegaraDHP).dsk
+4bcd65f7c44b7287ec56200df8e8af2f	Mint (2023) (meichnpp).rom
+1398bf425e6342c78b4d44fe07d4db0b	Mission2Mir (2010) (Ray2Day).rom
+f83343360d7a36b566ce4b0ca344900e	Mix (2022) (v1.2) (Uninteresting).rom
+d2dec8590819c89ced28474680b93a20	Moji Space (2024) (meichnpp).dsk
+30ad7b170f40a1e5dd5b98ee210704f2	Molotov (2024) (v1.0) (En) (joesg).rom
+9dba3eb8a3aeecee7fa8e64d986f9a15	Molotov (2024) (v1.0) (Es) (joesg).rom
+c69fdc1cac38aed2b6de81f51673c1b8	Monster Hunter (2006) (En) (Nerlaska Studio).rom
+53e660a37f334572d2fba3c759952a84	Monster Hunter (2006) (Es) (Nerlaska Studio).rom
+30d647cc172aa10678a5e834e3af0965	Monster on the Run (2021) (v1.0) (Neurox66).rom
+c5630f5953a544b99faf4e79676f942e	Montana John and the Templar's Treasure (2008) (En) (64KB - SCC+) (Infinite).rom
+0ea55837973b3574269e323d33c31dad	Montana John and the Templar's Treasure (2008) (MRC Ver.) (Infinite).rom
+33f195fcfca0e4832e3e6b334ec4f477	Morning Star (2017) (Izu Chiho).dsk
+0e4ab39802c56859ca7c263f991a9635	Motkonqe (2017) (N.I.).rom
+0a225fae136dc668ef9ecc820bcaaaaf	Mouse World (2024) (meichnpp).dsk
+52f6815141e5f8d23a500bc3ab1aa85a	Mr Mole (2007) (ASCII8) (Nerlaska Studio).rom
+63d42e536f8899b11c4d8e7da56eda91	Mr Mole (2007) (SCC) (Nerlaska Studio).rom
+98d86eae354608da9fb25083eecf80a6	Mr. Balloon (2014) (Mapax).rom
+cb63af0d101b208bed717d53abf20577	Mr. Chef & the Sausages (2004) (Paxanga Soft).rom
+b1376f229faacb3ad5d00a76ee1c5d9c	Mr. Cracksman (2014) (Relevo Videogames).rom
+47cd26087f36a2333d8f2c7599844f5c	MSX 2048 (2019) (v1.2) (DamnedAngel).dsk
+3183800a6bb070665353b00673465663	MSX Light (2022) (v1.0) (Sergio Yukio).dsk
+62c8e30bb78ca108db98692637088797	MSXmas (2022) (v1.0) (André Baptista).rom
+3b62be8feda3cad5c8808fa19e54a9a4	Muhonmourn 3 (2022) (v1.1) (hoge1e3).dsk
+ac7ab0ae39364df4c2a15c4e1ff07972	My Sacred Place (2022) (Mario Cavalcanti).rom
+45c45ecefa4b26979d9992dc063d1345	Namake's Bridgedrome (2005) (Buresto Faiya!).rom
+8b0ae69002b65094259c18ce4916c0b1	Nayade Resistane - Episode I (2014) (Pentacour).rom
+da76910c36d903242ac0133c35147ed4	Nekoard (2023) (meichnpp).rom
+09691ec5b550b04c5914be3b9d847792	NEoPONG512 (2010) (v1.0) (Z80ST - Software).rom
+764289458319c64b01cef8eff06654c8	NEoPONG512 (2010) (v1.1) (Z80ST - Software).rom
+cdc3cf882fd73cef275895dd8d5a6270	Night City (2006) (En) (Germán Gómez Herrera).rom
+3225d282ba3f6cd97254c6ae540437b4	Night City (2006) (Es) (Germán Gómez Herrera).rom
+c702e380d66105db678037f8d3a95bb8	Night Driver (2007) (Karoshi Corp).rom
+9220d325d2c0395063f35093505c113d	Night Pursuit (2008) (En) (Yermani Soft).rom
+5a28deb19dac94ce0ebcf0b9609f644c	Night Pursuit (2008) (Es) (Yermani Soft).rom
+2c8ebffb7c3c54ff6b356a19c113a6d6	Ninja Savior (2020) (v1.0) (Relevo).rom
+5849bd1d5ce047cc111ffcb0c43ba02e	No Back Down (2021) (ASCII8) (SoCal).rom
+39e7ed553bb852c06a0483e7cd7a87c4	Nohzdyve (2019) (Crunchworks).rom
+a7e671d32dc654ee80560bc490281667	Numberman (2020) (Fish).rom
+19883eedd59fd6a9886f05e236ebe204	Nyancle Racing (1988) (64K) (Bit2).dsk
+56c4952af7419dd70e52ea3c45b26e4a	Oath Under the Stars, The (2025) (meichnpp).dsk
+01b0e2ab4267b461ab294fdc17cfc23b	Obake-chan (2025) (v1.0) (meichnpp).dsk
+f8650443269ec8f114d01a8b6f06ff64	Obake-chan (2025) (v1.1) (meichnpp).dsk
+1721862f3f033e74607af9e26688403d	Oh Shit! (1986) (64K) (Asckosoft).rom
+a5b74dd36ef06e6f5d9ff74e5e1b140d	OL. (2020) (OhioKioMarv).rom
+21f251f431e1919c617758f9f6eef15d	Open Wide! (2021) (v1.0) (Hakogame).rom
+d2bc5ad7913a0b2583496dc9ec5c60e1	Operation Wolf (2006) (v1.0) (Toybox).rom
+830e458d559fc40db76426f23892c3c8	Operation Wolf (2006) (v3.0) (Toybox).rom
+171123100a9d30f2b42c210ccdf4f1b2	Oregon Trail, The (2020) (Cobinee) (En) (jltursan).rom
+2f8f2935031e27c753e3d45f77994c3a	PAC-01 (2021) (v1.0) (ARC8).rom
+c6b6b178f155e87855773ba3a9aa37d7	Pacific (2020) (v1.2.0) (André Baptista).rom
+10de413160893e256f698ff1985d4a59	Paint-it (2020) (v1.0) (Crunchworks).dsk
+f3eae5e47e8067e908d145cd9a299752	Paint-it (2020) (v1.1) (Crunchworks).dsk
+44d25a820a91155b5f1408b7da7493d5	Paint-it (2020) (v1.2) (Crunchworks).dsk
+08e4d8d212dd1eb5cc54b26fdf983a4a	Pair Logic (2005) (Andrea Gasparrini).rom
+bc250f705c0285e3040e633e698d81b3	Parachuteless Joe (2005) (Paxanga Soft).rom
+e775281dd0e00ade50c2f744471d5ebc	Pearl Rain (2023) (v1.0) (Patrik's Retro Tech).rom
+f70e3d8f286030010d0e914d59b5eac1	Peek-A-Boo (2008) (dvik & joyrex).rom
+31130eb93a6750fe344626d071f03cb9	Pegged (2021) (Under4Mhz).rom
+cf87f73678c60455f240304dcff9ee72	Penguin Cafe´ (2006) (MSX Cafe´) (En).rom
+8edaec8ab2855bcadd002b5ddb937790	Penguin Cafe´ (2006) (MSX Cafe´) (Fr).rom
+b9b7e789c26fed1c4276fc28bb604d84	Penguin Catcher (2022) (v1.1) (_NetNomad).dsk
+a86b076fcbc2ead09b3c8e096f649589	Penguin Mind (2007) (MSX Café).rom
+2c7d000cfe37354d7d754658b9470d63	Penguin Race (2003) (Dioniso).rom
+380c748a4c1917996987837e67f16b02	Penguin Run (2022) (v1.0) (Patrik's Retro Tech).rom
+037eff9751af0a3a009cbd53b4756663	Pentacorn Quest (2023) (v1.1) (Robosoft).rom
+f5c81b3dbc4f25ec5216f1a434fb6fc9	Pentagram (1986) (A.C.G.) [BLOAD'CAS-',R].cas
+09dada521e1764070a482bd73432e240	Pentagram (1986) (A.C.G.).rom
+cd3edf22a47b15d921bb5b90e4201bdd	Phantasie - Gelnor's Chapter (1988) (64K) (Starcraft).dsk
+415d01737865a9f9047a088a9d393473	Phantasie II - Story of Ferronrah (1988) (64K) (SSI).dsk
+3021a0e291d1a3b172187048e185e8fb	Phantasie III - The Wrath of Nikademus (1989) (64K) (SSI) (Scenario Disk).dsk
+10323d73fb84a9b9aab3a3098e550bf9	Phantasie III - The Wrath of Nikademus (1989) (64K) (SSI) (User Disk).dsk
+2bad0d1e6f6e3d4308b6ac458c216560	Phantasie IV - The Birth of Hero (1991) (64K) (Starcraft) (Scenario Disk).dsk
+52df60233ab4e397f015ec4b3dbc3f5f	Phantasie IV - The Birth of Hero (1991) (64K) (Starcraft) (User Disk).dsk
+a8f27885f2d7f48b6dffbf7bffc51e8c	Phenix Corrupta (2023) (v1.0) (Casper Croes).rom
+ad9a5ef480209def6dff20dcd8fffd4a	PickinX (2021) (v1.0) (Amaury Carvalho).rom
+6ee570b6fa73fe9a147846078cddc11c	Picture Puzzle (2004) (64K) (Crunchworks).rom
+021747237ceaf61a578de2bb12772ae9	Pinball (2021) (Kotai).dsk
+4ff04502eb900a2030670f664f1ded53	Pippo la scopa ficcanaso (2021) (v1.0) (Gamecast).rom
+b96749f7819a02c7433fabaf969d6547	Pitman (2021) (v1.0) (Under4Mhz).rom
+aaa092552018dd0f1088b299dbe04853	Plastic (2023) (v1.0) (Z80ASMer).rom
+cc86d3600bf2994a7a65852a225a2893	Pleasure Hearts (1999) (Rev. 9821) (M-Kai).dsk
+063f6c6bea4c18d6d477420b6609f7c0	Plumber (2009) (AG Software).rom
+f7271e5aa599888ca85ce5cee4691e79	Pointless Fighting (2014) (Baka-Yo! Softcorp).rom
+6e881226515f5a55416598c65bab2821	Pointless Platform (2006) (The New Image).rom
+2fb2427fb6683752acf56ede4cf6497a	Pointless Shooting (2006) (The New Image).rom
+390a457d242f97add5af689227b73138	Police Force (2006) (Yermani Soft).dsk
+1625a9de353086b912b85c702760666c	Police Force (2006) (Yermani Soft).rom
+8d5c4cd90df262af332cee7d77705edd	Police Force II (2008) (En) (Yermani Soft).rom
+dd906d2b1d954e1f31e0ed4a27fa4020	Police Force II (2008) (Es) (Yermani Soft).rom
+616a8884d755fd1d2137233fc7cae9ff	Poppie Land (2025) (meichnpp).dsk
+9e016a6f8743655eacc8e22e96d95c4e	Pornoman (19xx) (Knight Software).rom
+25e9fd28ea30044c4cedec89bedb104f	Porpoise Man, The (2023) (v1.0) (En) (Jose Soto).dsk
+cb0726698e675082c61838c254ae1c07	Porpoise Man, The (2023) (v1.0) (Es) (18+) (Jose Soto).dsk
+029e6d8df9290285e0c459636b9a0278	Porpoise Man, The (2023) (v1.0) (Es) (TP) (Jose Soto).dsk
+bed677ac0f7f10a9846fd8f1ec9328d0	Pretty Kingdom (2014) (Nerlaska Studio).rom
+09024800c962f456f4c7f1886a637641	Princess Paloma's Rescue (2024) (v1.2) (InfiniteMSX).rom
+7ac2f1e1d4f50a55ef2c4eca3fd4fe07	Psycho World (Japan) (En) (v3.0) (Django, FRS).dsk
+223189c6823f7376d133d44507068d19	Put Up (1987) (BAS) (Yuichi Ag).dsk
+19cea53e858abefabe58d7e52389cacc	Puzzle Mania (2024) (v1.4) (Fony).rom
+9221b710dc18b06516b8560c8a342909	Puzzle Pals (2024) (v1.0) (Furcifer Studios).rom
+038b37f31b7b458576930fa29d5e4682	Puzzybox (2021) (Gamecast).rom
+7d39483457077ad23e5de3a19a7fe712	PWND (2008) (v1.0) (Vampier).rom
+1b286a2ec101791a976350c2e348e604	PWND (2008) (v2.0) (Vampier).rom
+44d60d37929604383d7b967383d4783d	PWND3 (2018) (v1.1) (Metal Soft).rom
+347594c673dcb627e8063a16ad210d16	Pyjamarama (2024) (v1.0) (Fregarni).dsk
+b9d146e2fe1a3e72e1cc37cc411ffb2c	Pyjamarama (2024) (v1.0) (Fregarni).rom
+53b72b25f79c717e424167e7c280e623	Qbert (2024) (v1.1) (Jelle Roggen).dsk
+4dd7d51ed9069042f50a01041106bf9e	QBIQS (2010) (v1.0) (Z80ST - Software).rom
+af719ad89bb75028040a391231ff4c10	QBIQS (2010) (v1.1) (Z80ST - Software).rom
+ae41b8b5faf832fd35e3221c465d420c	Quartet (2018) (v1.2) (Ilkke & bitsofbas).rom
+4b95a7e0bed150b3ee5d6cd71ecce045	Racing (2024) (v2.0) (bosh77).dsk
+d924bc37b8755323826468e8072d38a6	Racing (2024) (v2.0) (bosh77).rom
+525e0caf7843538cb48acc35a831b015	Raftoid (2020) (Plattysoft).rom
+0091001aa9179d3ff7c658a5f406918d	Randoom (2022) (v1.1) (Robosoft).rom
+b91c9b45774abf671c2a11d5ac441d9a	Ratbox (2010) (AG Software).rom
+7706fb64a8ad8b9b2482ab26c48f0360	Raven (2021) (v1.0) (Micha Mulder).rom
+0ee67e73154674c39caabae3a444d9ea	Reflexion (2021) (v1.0) (AS8) (Jipe).rom
+a229aa1e7e5c5b8e18db692be826a4eb	Reflexion (2021) (v1.0) (SCC) (Jipe).rom
+fa981f360f91acedb91cb60a3202f36a	Relevo's Snowboarding (2020) (Relevo).rom
+2ebfebf239c081298b57957cae33ff8e	Relic, The (2020) (En) (Roolandoo).dsk
+81c21b9d7efaf88af797584527e22c52	Relic, The (2020) (En) (Roolandoo).rom
+bc39d87935e7650fb2fb0b2713ef639d	Relic, The (2020) (Es) (Roolandoo).dsk
+bf18c0ee7dbf2bbbf752494f4d234959	Relic, The (2020) (Es) (Roolandoo).rom
+e722548b991ac5ce1f1768a660edc656	Rescued (2025) (ZioOry).dsk
+a648107badb77a511ec70e43ff98b9c9	Retaliot (2009) (Video Hazard).rom
+1cd266603ec4aed4bbe20321b2cd72e3	RMD (2017) (N.I.).rom
+97fd054bc784410a39b41924b75da5ed	RNFF – Running Naked in a Field of Flowers (2006) (Infinite).rom
+0efa0df6a12c556af2da3728cd6e083b	Robo Crush (1990) (64K) (System Soft) (Disk 1).dsk
+4d01f63b1b44c9e239c5b1c3d7fce86e	Robo Crush (1990) (64K) (System Soft) (Disk 2).dsk
+9ca26619e3fc4c03f69b71c82348201e	Robo Race (2024) (v1.0) (Maximilian Wöhrl).rom
+0da1b3a223a3a3b6737801ba19c48b65	Robo Rumble (2022) (v1.0) (Robosoft).rom
+c75448103e8b07260f2f45ef40addd0e	Robots (2011) (Michel d'Alger).rom
+c95e52d1dc8a10596cf07e727477bb64	Room 5 (2024) (v1.2) (MO5.com).rom
+6b6bf20d7a5557f44ebf2dc23347a5e1	S.o.L.o. (2021) (v1.0) (En) (Roolandoo).rom
+d0743965e39ec01b79131e88590b44c1	S.o.L.o. (2021) (v1.0) (Es) (Roolandoo).rom
+bf716faf3637fcbe988e998e70a2fd1d	Sacred Valley (2022) (v1.0) (Visualedu, Bitcaffe).rom
+9f08d50d027c1fc7339481d8f7c37b55	Safari Kids (2022) (v1.0) (Jipe).dsk
+309c7f59bd86b1cdfa2ca50d45ee2cb8	Safari Kids (2022) (v1.1) (Jipe).dsk
+6545e19a66257f209a7d8a9624a515b5	Safari Kids (2022) (v1.1) (Jipe).rom
+b0d4fb9a9a88fb65c12d2b567b567171	Saimazoom (2005) (En) (Karoshi Corp).rom
+0f03b2306e11c5182351db3b7aa30533	Saimazoom (2005) (Es) (Karoshi Corp).rom
+3844b8c8f6fc9f13c43be05fc4b77275	Sales Discontinued (2022) (v1.0) (NOP).dsk
+1e185a9fe071e691e86df051cd0e7622	Sam.Pr (2024) (v1.2) (Fausto Pracek).rom
+7b397553ff8ea3797071bda652ea4bb2	Sam.Pr Explorer (2024) (v1.0) (Fausto Pracek).rom
+bc301eeb023920c4d0981026c58c1007	SD Sniper (2021) (v1.0) (Kirem).rom
+6e844b848141f77cc485e79151f1183b	Seleniak (2004) (Guzuta Raster Leisure).rom
+c64ba63bff4c856e5c05ff288e720169	Seleniak (2004) (M-1) (Guzuta Raster Leisure).rom
+37b069ad4150f1532df5822334161832	Shadow of the Pig (2022) (v1.3) (thegeps).rom
+24ebae019730ba27dae1e4272101edee	Shadow Switcher (2022) (v1.0) (Robosoft).rom
+a79b959768b8a039ba53881fa0d5c8f8	Shift (2009) (v1.0) (Infinite).rom
+2bcca949fae66d82c6119464d0a8667b	Shift (2009) (v1.1) (Infinite).rom
+062ca64fc712e395f80c32162eaf3b27	Shmup! (2013) (v1.0) (Imanok).rom
+508c60f3ab0dcb24358da3894db620cd	Shmup! (2013) (v1.1) (Imanok).rom
+3478c966e251e9d6ffd9c3597ceffe2d	Shouganai (2013) (v1.1) (Paxanga Soft).rom
+93fb68fbe412d9f6cec918395f2aa235	Shoulder Blade OVERDRIVE (2018) (v1.0) (GW's Workshop).rom
+5a4fcb267335632b4ab080e256e725ee	Singular Stone (2020) (v1.03) (Tohji Murakata).dsk
+de4fb0bd91c103b1cdca1ef05579619a	Sink King (2004) (Guzuta Raster Leisure).rom
+7c4a26a08f7ebe091de308f41651bb3b	Skate Air (2006) (Germán Gómez Herrera) (En).rom
+a95e01dd31a9920ed720ce73f11dbc94	Skate Air (2006) (Germán Gómez Herrera) (Es).rom
+6b00b15f49f228c646a6b11511c64c5d	SKULLrs (2017) (digiconcrete).rom
+5b83f935f2e2656fd403218ade06762e	Slender - The Camping (2013) (v1.0) (Pentacour).rom
+642c2713abf87ba48202fa1c76ac1855	Slender - The Camping (2013) (v1.1) (Pentacour).rom
+1a86cb70ad9242675a23159c483dce6a	Slime Center (2017) (N.I.).rom
+e73b22c4e1a3b00c28c0b6a80638f24a	Snail Maze (2004) (Demo) (Karoshi Corp).rom
+f4f464eac58f8c16ae5c1bb4560abaf0	Snake and Rhino in the Sketchbook (2023) (v1.0) (ARC8).rom
+ac6f14a21d8d6685d0c09aec48c3060b	Snoopy Town (2005) (Andrea Gasparrini).rom
+8862fece2e199eecb0d8f68e0f9dee70	Sonyc (1995) (Analogy).dsk
+068a853a664c81d95576f53c85ce4464	Sorcerer Kid Adventure (2024) (v1.02) (VidaExtraRetro).rom
+0df9cf6aa0d183b819fc151db41aa7a6	Soukoban Pocket Edition (2004) (Karoshi Corp).rom
+c414d541685a260fd5460b28f3e3a7c2	Sp8 Invaders (2008) (Dioniso).rom
+75da285250ed2bc511de05ab93e2b70d	Space Crussader (2005) (En) (Germán Gómez Herrera).rom
+34b4a646852646054f59cc478f297d27	Space Crussader (2005) (Es) (Germán Gómez Herrera).rom
+5849b2b748cf1a8d483e4ce5836ca9f0	Space Popo (2023) (meichnpp).dsk
+d73547d0e6028ea0a1c9f22b6761cc29	SpaceCat (2022) (v1.0) (PlattySoft).rom
+3cf33833a22db3f5a02427d4d75d3d75	SpaceCat (2022) (v1.2) (PlattySoft).rom
+66f6ec370819d7237bd52299c81a8069	Spellbound (2023) (Mastropiero).cas
+c55dea9a0b13a41c123e85da662965a2	Spellbound (2023) (Mastropiero).dsk
+f110adcf03018ddd9d9235bb89751193	Spellbound (2023) (Mastropiero).rom
+6b981d605ef09e44a29d3e8d1f03fca8	SPS Super HOOPS (2020) (Hakogame).rom
+922eec60075b991a21c05dfdb3460a4d	Square Ball (2021) (v1.0) (Ray2Day).rom
+0bade6de3e4368f85eb599d3e839d530	Stan The Dreamer (2013) (v1.0) (The Pets Mode).rom
+cd28442c350b764ac473d3ebcbebc6bf	Step (2021) (v1.2) (ASCII16) (Uninteresting).rom
+feb5749515eb248fe212120523aa18db	Stevedore (2020) (v1.2) (theNestruo & Wonder).rom
+8e8d25fb32d690d928cf011826c2a75b	Stratos (2004) (v1.0) (CEZ GS).rom
+d0cc01ba19cdf420b316c4e5ff83eae5	Stratos (2004) (v2.0) (CEZ GS).rom
+7ec014e2e04c2db1624a53096af33540	Stray Cat (2009) (Imanok).rom
+cc4f5cb6df7f536c7451c7318a9a981d	Stray Cat (2009) (MSXDev '09 Edition) (Imanok).rom
+29d4d74e3272469c6d86bda4228a9ae4	Stupid Martians (2020) (v1.1) (Visualedu).rom
+0e83ee0e162a634e53a0efce0b0913d2	Subacuatic (2012) (Relevo Videogames).rom
+57db1ec6547478385b130da8a690b463	Subcommander (2020) (v1.2) (Zoran Majcenic).rom
+2df142939c9e1147f814099856fd6361	Sudoku (2006) (32K) (MSXdev06) (dvik & joyrex).rom
+2c78ba7aa86ba357bdde5a12662a989c	Suite Macabre (2022) (v1.99F3) (En,Es) (Maltanto).rom
+da28da0bb524bd0072e10b2799a88a75	Super Mario World (2016) (Noramos).rom
+824f97b8b6b85fe2e9b9b7dd799b945c	Super Ory 2 - Enigma (2023) (v1.2) (En) (Orazio Cacciola, Cristiano Poleta).rom
+a4d9126c6e24c280e5fd272e4032dc7b	Super Ory 2 - Enigma (2023) (v1.2) (It) (Orazio Cacciola, Cristiano Poleta).rom
+09a62b4064eb892e67db1abcbdb2b84a	Super Sokoban (2024) (SCC) (2NICE).rom
+358da2721789fc389de5843e803ecc36	T-Virus (2004) (Dioniso).rom
+b4b8793fc2101329e39a9eaea27a7585	Tales of Popolon (2017) (En) (Brain Games).rom
+53746ab9eb2659f671fae8116f14af42	TCQ (2022) (v1.0.0) (50Hz) (En,Pt) (Amaweks).rom
+27db8314a572381c7db11df41cab8fad	TCQ (2022) (v1.0.0) (60Hz) (En,Pt) (Amaweks).rom
+ddf395c121f21c70247e1f41e7875329	TCQ (2022) (v1.1.0) (50Hz) (En,Pt) (Amaweks).rom
+679f85d78a6dfc567ccb5fd5e210675e	TCQ (2022) (v1.1.0) (60Hz) (En,Pt) (Amaweks).rom
+6290bce14463d669c3f67e092a92f1a0	TCQ (2022) (v1.1.2) (50Hz) (En,Pt) (Amaweks).rom
+68c4364a6b59f302a35cb37832cca8a8	TCQ (2022) (v1.1.2) (50Hz) (En,Pt) (Kraftwerk Version) (Amaweks).rom
+01820185e41fee46f2c695cca41e2c21	TCQ (2022) (v1.1.2) (60Hz) (En,Pt) (Amaweks).rom
+0fcd8bfe6e479d1f6bfeb145af976f1b	Teki Paki (Beta) (2003) (CEZ GS).rom
+684e294fdb07a799517676f0b572f5e6	Tenebra (2021) (Haplo).cas
+d82373c1b9f203012728b13f16a2cd2c	Tenebra (2021) (Haplo).dsk
+cb64cedf7674269e7a74310ab7d40ff3	Tenebra (2021) (Haplo).rom
+d03935f4ede321640f579406c0a11347	Tenebra 2 (2023) (v1.0) (Haplo).rom
+bf5fc1e33109289475084b5033edc87a	Teodoro no sabe volar (2012) (En) (Retroworks, Dimension Z).rom
+88a8cbd98141026aec62fafc91357f3c	Teodoro no sabe volar (2012) (Es) (Retroworks, Dimension Z).rom
+52be0b285f77d291b67bc13483f6d17d	Tere-Kinesis (2023) (En) (Physical Dream).rom
+d4fc4e12066734f1f6c3b5847ddd1c5b	Tere-Kinesis (2023) (Es) (Physical Dream).rom
+4fa92f0dc25ca14f04f2cc25524fff5e	Tetpuz (2023) (v1.0) (Totta).rom
+8640c04230f72562938ed0c9b5a9b12b	Tiles of Shalom (2007) (Jipe).rom
+23f7f2d02729bdeb5668bc67860c84b8	Tina's Adventure Island (2017) (Imanok).rom
+d1f34a3997a4cfe2bb52a4aa06fcbcff	Titan Ufo (2024) (v1.1) (Gamecast).dsk
+f4062be10eac6746be804175efa14824	Tomb of Genghis Khan (2008) (Impulse9).rom
+69d9d3318140496e25b1b800b417eb02	Tool Blocks (2021) (v1.0) (Ray2Day).rom
+b65a4cda59dc897aee8b05a7b98ee6cb	Tortilla Sunrise (2021) (v1.1) (En) (Tortilla Yonkers).rom
+2f4c0850847d60d3e46a21060aad348d	Tortilla Sunrise (2021) (v1.1) (Es) (Tortilla Yonkers).rom
+f608a1109be7a661771a17450295a119	Tower of Damnation (2023) (v1.3) (NTSC) (BigFive).rom
+58de1ca0e8141e7c5dc2958e5bc80105	Tower of Damnation (2023) (v1.3) (PAL) (BigFive).rom
+352f23df8efee9552121f02e54e13e9f	Tower of Gold, The (2022) (v1.0) (Kirem).dsk
+c405d4af33c77cc902211b9308031449	Traffic Jam (2006) (Imanok).rom
+d166f161859cbd92107ceed599e66648	Traffic Jam (2006) (MSXDev '06 Edition) (Imanok).rom
+165d0e64762e6412e04ece9093839731	Tragaperras (2005) (Jordi Sala Clara).rom
+a58689d44636dfeb752ae49b549ab625	Transball (2016) (En) (v1.3.2) (Braingames).rom
+f45889716effd3c2bc801693181189f8	Transball (2016) (Es) (v1.3.2) (Braingames).rom
+0cb1b85b022d40c5180b465daf5387c3	Turfy (2018) (v20180708) (Uninteresting).rom
+bc4875945f3054ff62d7601a574fbff3	Txupinazo! (2007) (Imanok).rom
+2bee4a38995ff484becfe567e842a32d	Uchu Yohei (2023) (v1.6.1) (FranChesstein).rom
+dddc192242692b255481cdf02ad9be07	Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 1).dsk
+486b7e8a8fe02a34ea38c0ebe87ae63a	Ultima IV - Quest of the Avatar (1987) (64K) (Origin Systems) (Disk 2).dsk
+0f87f52bd0492a37109fa00544805fb9	Universe - Unknown (2005) (v1.0) (Infinite).rom
+4fe279aa34d14ebd92fcc561ca8f5bac	Universe - Unknown (2005) (v1.1) (Infinite).rom
+414b45209dde869cfed51f66ec3361cc	Usagi Densig (2023) (meichnpp).dsk
+4275c127b7877db2c3eb2eb22709a4f8	Vampire Slayer (2023) (v1.0) (En) (Seamsoft).rom
+7e536461e4eaea9e538e45a499de791e	Vampire Slayer (2023) (v1.0) (Es) (Seamsoft).rom
+7f8d49fdfb8cfad3870f647179cf6ed4	Vampire Slayer (2023) (v1.0) (Pt) (Seamsoft).rom
+393535bbe92a0c35792e424293515843	Vectron (1989) (Parallax).dsk
+7900ed4b64195520e6a3f72b603f3c83	Venganza (2019) (Es) (salgue79).rom
+4e388f8c95fb3cf30a35bbd1f0b3c717	Viking (2005) (En) (José Luis Tur).rom
+c033d1ece8a927fc88ab2aa02c5e8ef8	Viking (2005) (Es) (José Luis Tur).rom
+e2226907089a2bf0e1f210280aff5252	Virus LPQ-79 (2018) (v1.2) (Pentacour).rom
+033c9cf8fe0d07f3c5abb43f89908a50	Volleyring (2021) (Nick Shcherbyna).dsk
+87cc2e41c7729cf1b872baba41721e4a	Wash Man (2022) (v2.8) (Gamecast).dsk
+b3667860ac0054515ab2bc55527cb44c	Wash Man (2022) (v2.8) (Gamecast).rom
+95e34008e0bdc7a3532ac49544f283e7	Westen House EX (2024) (Braingames).rom
+35bbe74a590a1655c476b17bfd7255dd	Western (2008) (En) (Yermani Soft).dsk
+2f8222c524c45b80f1427467b480d025	Western (2008) (Es) (Yermani Soft).dsk
+6e6cb21e476211fdb513a05038e334f6	Whack 'Em Smack 'Em (2024) (v1.0) (JessCreations).rom
+56544155f910e8edd851c52836517a18	Where Is It - The Quest for the 10th Island (2021) (v1.0) (Ricco59).rom
+5bec2f26c5e87a51c1d86352a5896c07	Who Dares Wins (2016) (MSX2) (RetroForce).rom
+f32d5d24d218a9813ea86aae08c78c73	Wicket el Ewok (Spain) (1987) (Walther Miller).rom
+f43ee36983edf0c29653d22809a32bb1	Wild Puzzle (2017) (Mapax).rom
+170687b7119215d7c0002c00c41f628d	Wing Warriors (2015) (EGS, Kitmaker).rom
+2652c8b087a292d67049e5071ae542d1	Witch Day (2020) (En) (joesg).rom
+0737ed11c22b7dca8603ded5199e2af8	Witch Day (2020) (Es) (joesg).rom
+9afeed3f6e111d4f83bba4ba9d849ac4	Wizsoul (2024) (v8.0) (Freenit).dsk
+50b6ba65235c5a27fc2e6b5da45f43a7	Woods Rat (2023) (v1.4) (Gamecast).dsk
+f95652e28514b5322c1dca4f56bd062f	WÖRD (2022) (v1.1) (En) (Patrik's Retro Tech).rom
+32a6c7d03b29b775f11f18496500f31a	WÖRD (2022) (v1.1) (Es) (Patrik's Retro Tech).rom
+1c71608fda3b2718df7b7d1d80c1219d	WÖRD (2022) (v1.1) (Nl) (Patrik's Retro Tech).rom
+3a80eac8d99c84039c705b522ff64bc5	WÖRD (2022) (v1.1) (Sv) (Patrik's Retro Tech).rom
+f2a5694219007615638f4f3f3e71b346	Word Invaders (2006) (SapphiRe Soft).rom
+d8dabf9df6ba2ccd992384b55ec7108e	X0rz (2009) (v1.0) (Metal Soft).rom
+ad56def57c4bbf3c5956a8066b35abea	X0rz (2009) (v3.0) (Metal Soft).rom
+47e8ea6c8c74e8dcfdcd2f2af748ebd0	Xelden Ring (2023) (v1.0) (Brain Games).rom
+5888bb30a94dc7758ce48ae5e23ec221	XOR2021 (2021) (v1.0) (Timmy).rom
+13a779fef0481fe579c0e3c44f5ee956	XRacing (2018) (v1.0.0) (Brain Games).rom
+4fee863d524af9cdf5457be3bb9b0137	XRacing (2018) (v1.0.1) (Brain Games).rom
+b8537ed33906e299261b90c82480876a	XRacing (2018) (v1.0.2) (Brain Games).rom
+b8537ed33906e299261b90c82480876a	XRacing (2018) (v1.0.3) (Brain Games).rom
+63f715cf2a0040f28051304bccc6f3d9	XRacing (2018) (v1.0.4) (Brain Games).rom
+3a053ed7d346ea3b257f0f9edc1fed5f	XRacing (2018) (v1.0.5) (Brain Games).rom
+c19afc42d5fa78029114414d359c750f	XSpelunker (2017) (En) (Brain Games).rom
+3c4a05c9f667362c317510ed8c55fec4	XSpelunker (2017) (v1.4.3) (32K) (Brain Games).rom
+a35aa631c849b61f26e147fa36035924	Yahtzee (2007) (dvik).rom
+e7c6ad8bfb41983651c84fcc0409d6d6	Yazzie (2019) (v1.1) (RetroSouls).rom
+6ee22644862b2616332d5627b5c0acd5	Yazzie MSX Remastered (2020) (RetroSouls & FRS).rom
+6b4d80a75476df697cddba7bacc8f8f1	Zakil Wood (2019) (v1.3) (En,Es) (NataliaPC).dsk
+03177190972d5962a2a9aa79532a66e8	Zakil Wood (2019) (v1.3) (En,Es) (NataliaPC).rom
+8d06a6da2309395e9560a85a6083c76c	ZERO and the Castle of Infinite Sadness (2014) (Dioniso).rom
+c4c7cb9fc116722c05bc5474d0d14cc8	Zevimodoki (2017) (v1.10) (GW’s-Workshop).dsk
+39f5ce41d6b7fba76d4dd8a603657c71	Zevimodoki (2017) (v1.10) (GW’s-Workshop).rom
+8541f226e7fdf7d001feadc255c91407	Zombie Incident (2011) (v1.0) (nenefranz).rom
+649b20d8cd613e2af56f704029151e2e	Zombie Incident (2011) (v1.1) (nenefranz).rom
+78277b0fc71801715feee078b5dd5d83	Zombie Incident (2011) (v1.2) (nenefranz).rom
+51934c31495c9f8e55c14b86d08369fa	Zombie Near (2010) (v1.0) (Óscar Toledo Gutiérrez).rom
+f867849b8d2de790f589a8500bbed2fc	Zombie Near (2010) (v1.1) (Óscar Toledo Gutiérrez).rom
+1359aed0de55604601701af5b6c97f36	Zone TNT (2011) (Gamecast).dsk
+78be781c1c76f1f9a4683497dc0d2da2	Zone TNT (2011) (Gamecast).rom

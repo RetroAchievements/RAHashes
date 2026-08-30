@@ -1,0 +1,12 @@
+82c999bc12e38600ad9e70508d2dab8c	Canabalt (World) (v20180101) (Aftermarket) (senilyDeluxe).bin
+dd262c3a2df1e273c012cd076ce7b8bf	Come Come (Europe) (19xx) (Palson).bin
+07466555c7efef3253a4bf1ef3e32928	Cowboy (Europe) (1981) (Rowtron).bin
+d6f58d9c6ac013e897337d9b2bc3be03	Crazy Crab (World) (1983) (Radofin Electronics).bin
+312050bd0346e2bb54ec2308d7f281ef	Flappy Birds 2 (World) (v20170530) (Aftermarket) (senilyDeluxe).bin
+8df1aef8d3c258f06e3d811b67a249ad	Kaboom (World) (Homebrew) (Simon Augustin).bin
+8629936b14899ae89d57bb648112a9f1	Leapfrog (World) (1982) (Voltmace - Derek Andrews).bin
+dff0d751378612a78da0dfa015374664	Monster Munchers (World) (1981) (Rowtron).bin
+266bd11247683b0ff4da015fb305b9c4	Munch & Crunch (World) (1982) (Voltmace - Derek Andrews) (Enhanced).bin
+491c2c9faecbd6eee4f86e1971272936	Munch & Crunch (World) (1982) (Voltmace - Derek Andrews).bin
+02f80a2595062bf81da2b6d97f314ac9	Super Knockout (World) (1980) (Radofin - Andrew Choi).bin
+0cbac5ace65a63613587152d2ef87311	Tetris (World) (v20200922) (Aftermarket) (SimonAugustin).bin

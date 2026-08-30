@@ -1,0 +1,124 @@
+6696dad0719df3341b14e4c371286a4a	2048 (World) (Harty123).uze
+b2cf0fc4934c642deaec67a4a17baedc	65536-in-1 (World) (v1.0) (Nebososo).uze
+a4948466074e9e2a54796c38e1259afd	65536-in-1 (World) (v1.1) (Nebososo).uze
+23d48c81ca21659a47651fd5bc6463c3	Adventures of Lolo (World) (Demo) (D3thAdd3r).uze
+e7a75e702f6a99e35228242723218e40	Air Hockey (World) (Omundodogabriel).uze
+234bc85bddf914b28f662323540afd89	Alter Ego (World) (D3thAdd3r).uze
+011a0f5880c4c2baf6c5bfbac6b28129	Arkanoid (World) (v1.0) (Uze).uze
+c9e36000b25509e491d25efcc3ea83b8	Astrostack (World) (Demo) (D3thAdd3r).uze
+0361bd8008d583670210627eda1fe482	Atomix (World) (Martin Sustek).uze
+a5168f771b38d1e3a379076e7b7a04c0	B.C. Dash (World) (Paul McPhee).uze
+169256735e017c1fb8632168c4450b07	Babylon Tower (World) (Kerby).uze
+7abf1bcbfbd8d45f78dc451f8d0942db	Back to Nature (World) (Demo) (KILO).uze
+b9007a301f54c39191d574958d973801	Block Boy (World) (D3thAdd3r).uze
+12f7341bde7fdb53c6b8d12e7d68f11b	Bomber (World) (v1.04) (Kerby).uze
+181b1d7e3a4f349bc708c0ba27aa3ab6	Bomber (World) (v1.05) (Kerby).uze
+8725e564adef7b425a54018d2ce0c602	Bomber (World) (v1.07) (Kerby).uze
+bc5db79ab05d67c550ef8b491a7ef8aa	Bomberman II (World) (Demo) (Matias Moreno).uze
+efad4c80dcbcbc49ef6e5f6cd1828eb4	Boulderdash (World) (v1.0) (AJX).uze
+a565c78a031652adabf652c2da4706cc	Buddha (World) (v1.0) (Pitfall Jones).uze
+b62117e7c6448e266ce9f7f8d46def5a	Bugz (World) (Artcfox).uze
+573592c9c5d96f42f6860db20cf4a645	Chess4uzebox (World) (Martin Sustek).uze
+d781bdc469c322270bb7b6f177435e8a	Chicken in Choppers (World) (CunningFellow).uze
+699b4d5966c4de632b109e8342c080b4	Chuckie Egg (World) (v1.0) (Pitfall Jones).uze
+3554678c7668db469c667d3588268146	Circuit Puzzle (World) (Artcfox).uze
+991e6c0b0bb37eea3010fc3dc77a4f7e	Columns (World) (D3thAdd3r).uze
+426eab8a833454561beacea899a741b9	Corrida Nebososa (World) (v1.01) (Nebososo).uze
+47c002023275d20ab127df295b91c5bd	Corrida Nebososa 2 (World) (v1.01) (Nebososo, KILO).uze
+48a82c45bf09aeec3f31472ca1b2ab13	Daleks (World) (Mapes).uze
+ec3e685bfe63a62aee21697277cc640f	Das Boot (World) (KILO).uze
+ce76ea0de5aea02136fa42334c97d173	Donkey Kong (World) (Paul McPhee).uze
+a28ff30f3dc084e58b9a96dd002711d7	Dr.Mario (World) (v1.0) (Codecrank).uze
+40f973f9b81ce0bb74cdf22479427d2c	Dungeon Slash (World) (Demo) (David Etherton).uze
+c1a2768d3bfdd75eade1dc8113939a43	ESD Attack (World) (v1.0) (Clay Cowgill).uze
+5d89f48ba8990b2f1a0461ab13faeb21	Fifteen Puzzle (World) (Kerby).uze
+77c8c33ebedab4381ea7914fafdb97f0	Final Blood (World) (v1.0) (KILO).uze
+bc56a4264e5de20a18c83d4363a969b4	Fireman Rescue (World) (Arlof).uze
+2ca05192fedc542f1215928b1d0e790b	Flight of a Dragon (World) (Final) (Jubatian).uze
+fc72989c73cb05615a34bf305a4ec1d8	Football (World) (v1.0) (KILO).uze
+8680e6d9eb3ec06580fa220eef21ef14	Frog Feast (World) (D3thAdd3r).uze
+d5a490a1c9e1cf14cc6807a2367f4bdb	Frogger (World) (v1.0) (Paul McPhee).uze
+68d2d1eec76343e1e56cb5c8b75e992a	Game of Life (World) (v1.0) (Uze).uze
+aaa44ee1a07305ce3c36432528946b84	G-Force (World) (Demo) (Mapes).uze
+3d7203fcac915dff266b5d43afd596bf	Ghosty Ghost (World) (v1.0) (kivan117).uze
+18dba6d29e7f47b466033a724433f1e0	Gorillas (World) (Harty123).uze
+ca79b27f12f38609d0e63d921d907e3a	Hammurabi (World) (v1.0) (KILO).uze
+24641bee976d06dd5bc7c354b349338c	Happy Easter (World) (v20120405) (Harty123).uze
+96ff11f4374e3ad2dfb56edbbb3f9a44	Hattrick (World) (KILO).uze
+fea0b656fe4a586c2740768c18353d3c	Higatana (World) (Demo) (Mmarta).uze
+86b1f07ae58560f9e3e927165064420a	Holey Moley (World) (Ellipsis).uze
+3f6b743046ef46c4cd8f0fad629b22c6	Hypergunners (World) (Demo) (Mmarta).uze
+eaa30a863b432584d7b3e58e1778d906	IKD (World) (v1.0) (Dan Macdonald).uze
+cee3fa29bbb0b6d3c2bd633e3c405b12	IKD (World) (v1.1) (Dan Macdonald).uze
+c4f00942900c4a6ef29cf1006966205e	Iros (World) (v3.0) (Lawrence Brooks).uze
+7f353ceb0bb15f87917355cf62a3c909	Joyrider (World) (jhhoward).uze
+c9747b9b0df4fa60cbd4ef2ecd721afd	Kismet (World) (Jim Croskell).uze
+187bc5fd6d073047cf0f06df8d5465bc	Lander (World) (Harty123).uze
+03119f51f7eeb5cd603dfd2393bfd456	Laser Puzzle (World) (Artcfox).uze
+bc5538a7f15fc556dc1c91df1fe42a16	Laser Puzzle II (World) (v1.0) (Artcfox).uze
+35fb64d5145d939738b30f4806d315ee	Lode Runner (World) (v1.0) (Uze).uze
+2bc7c6be265b3e5cd28700bbbae50595	Mario Bros. 2018 (World) (nicksen782).uze
+c13bc90a91659c7913e79931d15eb2af	Maze (World) (v1.0) (Clay Cowgill).uze
+cee8c9f2505e18f4165180739ea60d7a	Mega Bomber (World) (Demo) (D3thAdd3r).uze
+f2b7be0bf03db4b1c1e0fed810cabd32	MegaSokoban (World) (Martin Sustek) (Alt).uze
+fd44ff2316a2c20b328896b1d29db155	MegaSokoban (World) (Martin Sustek).uze
+4cf318df04117de0067e876db7faaf5b	Megatris - Arcade Edition (World) (v1.03) (clymax).uze
+8e765bd046b2dee4e6876eb043d6a532	Megatris - Arcade Edition (World) (v1.03-Bonus) (clymax).uze
+e1c5055ad930d1776f21e14fdacc9ebb	Megatris (World) (Alec Bourque).uze
+f19b6ac97f30b488a74463cc453f8d4d	Melli's Retro Land (World) (Grobian99).uze
+ed1885fd571cfa271e17016221fc8f34	Memory (World) (Harty123).uze
+af603ac510f02c3f665cc1f6ed9a4bd1	Moon Patrol (World) (Demo) (Clay Cowgill).uze
+38a569f246c35a776ceb90b713338007	Ninja Beatdown (World) (Demo) (Vertig0zone).uze
+68000697c1e930ee26f0f1a7c601fdb1	Outpost in the Dragon's Maw (World) (v1.0) (Jubatian).uze
+ed366e0950fac5db8cda44fc15a22393	Outpost in the Dragon's Maw (World) (v1.1) (Jubatian).uze
+c8cd8a9834cda41f85128b382b109f4f	Pac-Man Lite (World) (v1.0) (Paul McPhee).uze
+ff90daea12936ee9f90eeeef2ba60e48	Pengo (World) (Pitfall Jones).uze
+a892dcfc09ca329a07c1659948e1df61	Pentago (World) (v0.1) (Adrastos).uze
+1cd58b25f4b857a1a53c629dc7c626d9	Pipes (World) (Harty123).uze
+6638e387ce724e8e6961e6d1d0dddbe9	Race (World) (Demo) (Clay Cowgill).uze
+d7aa7d8e9e33c7221dabee40cfecaded	Reels of Fortune (World) (KILO).uze
+51695d09e935c2ca92ba93a53adc2e5c	Roguze (World) (v1.0) (Yllawwally).uze
+6bbdc7c6e4f15c3981b7493998df117f	Ruby Crush (World) (Adrastos).uze
+eea51f0218370d3c03e2e4d76c6991fd	SharpGunner Gallery (World) (ggvicviper).uze
+964e7e186c8b54bcba068a68928fc391	Simon (World) (Harty123).uze
+fb7553175f559534e2368573f7400299	Smokey and the Bandit (World) (SpacebarArcade).uze
+391be3f5c01fb319773fe88872c19ca3	Snake (World) (v1.0) (Bytesquid).uze
+f98c48f7f157dbb683f41cb4303d11b0	Snakes (World) (v1.0) (DaveyPocket).uze
+8b66c13e0a4cb712b892f7dc3f2e8636	Sokoban (World) (v1.0 Beta) (D3thAdd3r).uze
+ac982cd2d7c9dc7a6cf3f0c3118a56ae	Sokoban World (World) (Final) (D3thAdd3r).uze
+c98854e5d947a169193fb0c6368ce244	Sokoban World 2 (World) (D3thAdd3r).uze
+96d62386036c99f054e6e0506b2385c1	Solitaire (World) (Final) (D3thAdd3r).uze
+b899ca234f713f920cde11a01fd857d0	Space Age (World) (Pitfall Jones) - Director's Cut (v1.01) (clymax).uze
+c7aff8b3e124b02b124e320ebedbbbd6	Space Age (World) (Pitfall Jones).uze
+3f8ee1de7481b0d34da51a07c96786fa	Space Invaders (World) (Paul McPhee).uze
+fdd680c44043f2ef7005732e9d351497	Starduino (World) (v1.0) (rv6502).uze
+160facb0da473fc4e0684b709c0561c7	Stormforce (World) (Grobian99).uze
+7d5f5e31b9cc81846bbfa1f1c2c1d5d8	SubMarine (World) (KILO).uze
+7eb24e245fb97f90e98554a94fe5d6d7	Super Mario Land (World) (Demo) (nicksen782).uze
+3ba7c95038c0727569164df536af101f	Tank Fu (World) (v3.2) (Lawrence Brooks).uze
+057901ec79b964fa5a75965f4d48a5d4	Tetris (World) (Alec Bourque, KILO).uze
+216c98e1e412a3daf33a027b5e1f432b	Toorum's Quest (World) (Final) (D3thAdd3r).uze
+51caac6d8189a48472b92fe5bd4f518a	Tornado 2000 (World) (CunningFellow).uze
+46d6242b30190ab7dd9ca62561218242	Tron (World) (v1.0) (Adrastos).uze
+dad54363f9978d55d275cd293e06b91d	U-Type (World) (Demo) (Steve Maddison).uze
+62a119bf1045df5bc8a2ebdf603fd2d6	Uze Feud (World) (v1.1) (Nebososo).uze
+e7322725351cfe0b65cbf24a6410e27d	Uze Kickers (World) (Gosma).uze
+ed4ae88c587bf306ac3c93e23adba9fb	Uze Mario (World) (Gerkl).uze
+24e88aad103034d13c4ab253edfd8454	Uze Snakes (World) (v1.03) (Nebososo).uze
+fb26129eb0326246860b46122447c02a	Uze Wars (World) (v1.0) (Stache).uze
+5277371b0d04535b79842f7038ecea40	Uze-A-Move (World) (Demo) (Steve Maddison).uze
+2d9fbe400d590077083cf6390ba49f38	Uzebox Tactics (World) (v1.0) (KILO).uze
+38c3d48e0b58db8b0f12554a2b856d41	UzeJump (World) (v20180124) (ry755).uze
+ae053a9a71680a22a59518544ab7c70b	UzeMaze - UzeMaze RA (pinguupinguu).uze
+72e308aa4225abece89211b4234da519	UzeMaze (World) (JimmyDansbo).uze
+f2949e991f5304d714c4aa1df8640025	Uzepede (World) (v1.0) (Christian Garbs).uze
+04289f56bf870a9c75a9bf7e995dd684	Uzesweeper (World) (Final) (D3thAdd3r).uze
+cdf22579626b520b2a1936d63d1e0fd5	Vector Game (World) (CunningFellow).uze
+e7479a09e86d101c06738c3e95eff3bd	Video Poker (World) (Jim Croskell).uze
+874586adb895fa890cf9256b662a469a	Void Fighter (World) (Demo) (Jhysaun).uze
+71dadb1c8320700d121cc27ed47b4740	Wall Street Raider (World) (KILO).uze
+46c206e259d89324c0f2925f7922219a	Whack-A-Mole (World) (v1.0) (Uze).uze
+10d889a54e17201dba03292f7ae9f101	Wurgertime (World) (Demo) (Jan Kandziora).uze
+bb2a4ded1128b57d81d3cd687b028103	XOR (World) (Pitfall Jones).uze
+931e4c2e417a305aaabb1d11551c25d9	Zombienator (World) (v1.1b) (Phog).uze
+62c760da542257ea1f1ca53e19c227b1	Zooming Secretary (World) (Final) (D3thAdd3r).uze

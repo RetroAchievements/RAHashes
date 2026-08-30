@@ -1,0 +1,341 @@
+78e9a2cf287f1eb787684c95c1c9b8dc	10-Lignes 4en1 (2023) (retropoke).dsk
+b0b46a2d26f4431edf2f10d03e81c5d1	3D Ballhunter (Germany) (1989) (PC Amstrad International).dsk
+679e02b594f9a8dea70c489f47ef2535	3D Quasars (UK) (1985) (Solar Software) (Tape Conversion).dsk
+4c32734d8b901bbc69204575d1b3b24c	3D Time Trek (UK) (1985) (Anirog).dsk
+cf5a3c3147c38bb20bab1d6ec4fe952f	4 to 4 - Back to the Future (2015) (Kukulcan) (En).dsk
+a940cd284eb2cd3224ec6541c7627107	8bit Wars (2021) (CPCRetroDev 2021) (21bloques).cdt
+50ab098f9aaf7bcb19ac8c194d8afc21	8bit Wars (2021) (CPCRetroDev 2021) (21bloques).dsk
+e5eb771fbdc275ad2bcc219845bf7055	Abbey of Crime, The (1987) (Opera Soft) (En).dsk
+872679c033a45500fffda573fa3a5d4f	Abduction of Oszar Z, The (UK) (2020) (CPCRetroDev 2017) (Dreamin'bits).dsk
+8260045bbcbf9edbfe6de05061d555df	Abduction of Oszar Z, The (UK) (2020) (Dreamin' Bits).dsk
+806b20162a8e524b12123bffe0a74f8c	Acornsoft Pacman (UK) (2006) (Richard Wilson).dsk
+636a3ec7f8a677300a757b84739e4471	Akalabeth World Of Doom (UK) (2015) (Richard Garriot).dsk
+7c97bc7395ecac38e4071333b1c0d82a	Aliens'n Tanks (2021) (CPCRetroDev 2021) (v1.0) (Ohcaco Games).cdt
+e844a6ac1f3783b7d8974672d290bcac	Aliens'n Tanks (2021) (CPCRetroDev 2021) (v1.0) (Ohcaco Games).dsk
+3537c43907220922cb773fb21ca18fcf	Aliens'n Tanks (2021) (CPCRetroDev 2021) (v1.1) (Ohcaco Games).cdt
+465396ac2a739dde388c2553f789127d	Aliens'n Tanks (2021) (CPCRetroDev 2021) (v1.1) (Ohcaco Games).dsk
+4c231be8b212cea76cb8fa76c82bd165	Alloy Box (2023) (CPCRetroDev 2023) (CNGSoft).cdt
+f90ca2e238c1d87142bc1f95f0765d13	Alloy Box (2023) (CPCRetroDev 2023) (CNGSoft).dsk
+989e2cace990bc281a3c230f8950d744	Altair (2014) (Inmensa Bola de Manteca) (En,Es).dsk
+174774090e33a163aee3bd8b4c980130	Amnesia (1998) (Rudiger, JRM) (En).dsk
+c2fee29801e688415c110d33641b3536	Amsthrees (2021) (John Lobo).dsk
+d7300ac9268c123849efaf5ad3cc8632	Amstred (2021) (CPCRetroDev 2021) (Ancient World).cdt
+8d2137d5a46deefc3da623f76178c9e4	Amstred (2021) (CPCRetroDev 2021) (Ancient World).dsk
+a90ba86ab5bcc8f9f9d9c6765dae696a	Anima (2020) (Carlos Perezgrin).dsk
+a0b0b98674841c8259176effadd94fbd	Ant Attack (2014) (40Crisis) (En).dsk
+c92ba021a840cccb6c4aff3afcb756d5	Aqua (2006) (GG, DadMan) (Es).dsk
+3ea239a3858be48f13a167e215ff7f35	Area 51 (2006) (J. Cauldwell, N. Campbell) (En).dsk
+23068f5e0b73d5b13738ada8cd6ba557	Arquimedes XXI (2011) (Dinamic Software, ESP Soft) (En,Fr,Es).dsk
+fc2dea0a3e43d21bfe28c2881291ade3	Astrocop (2022) (Mananuk).dsk
+a9e0a8e9cfe5df9552bb050f739d2f45	Axys - The Last Battle (1991) (Fabien Fessard) (Fr).dsk
+4c5db9990872daaa5f450374b3d0de2e	Balkanoid (2023) (CPCRetroDev 2023) (Eduard Andrei Duta, Francisco Wendeburg).cdt
+077a082ac60fed54a0606550381e7c5b	Balldozer (1991) (Joeren Erkens) (En).dsk
+098966a6272e28bfc31019e2198c1400	Balloonacy! (2007) (Richard Bayliss, Kevin Thacker) (En).dsk
+9b0d3f5fbbc09a57ebcdbf88c264f1bd	Balls (2004) (Z Production) (En).dsk
+a4173d7455c49a9894c033ce9508add3	Barking Adventure (2021) (CPCRetroDev 2021) (capAI).cdt
+12922518a43f324ece437ed95d3a4e1f	Barking Adventure (2021) (CPCRetroDev 2021) (capAI).dsk
+bcbdfd52ad28e91b9275fc9a4de5a7ea	Beach Buggy Simulator (1988) (Firebird) (v4.88).cdt
+9aae273d7bc4ae544c798e03a4666d0f	Beach Buggy Simulator (1988) (Firebird).dsk
+b95a4642f3072807cea947050830b27d	Betiled! (2009) (Zogo, DaDMan) (En).dsk
+9c24ce3bc609b5ef6070da1ab91e33f5	Black System Anthology - Volume 1 (1993) (Black System) (En,Fr) (Disk A).dsk
+f0db9b85d51928d3eb6c124f33cb44c8	Black System Anthology - Volume 1 (1993) (Black System) (En,Fr) (Disk B).dsk
+f4b2cbcbb509d6c7269cc671199f6588	Black System Anthology - Volume 2 (1993) (Black System) (En,Fr) (Disk A).dsk
+d4355ed8b6004dd3447b843377beb447	Black System Anthology - Volume 2 (1993) (Black System) (En,Fr) (Disk B).dsk
+ace03d8e72c44f5a43b1dafd260c00b7	Bloktris (2023) (Under4Mhz) (v1.03).dsk
+76168c1180ba9b65cda4c6491eae7076	Blue Angel 69 (2010) (Kevin Thacker) (En) (Disk A).dsk
+e63b6d0da6bde138a5de997c8323bc54	Blue Angel 69 (2010) (Kevin Thacker) (En) (Disk B).dsk
+bea34dc1ecacf740e19be4a7ffcfce25	Boulder Dash 4 (1988) (France) (Mirrorsoft).dsk
+84e0ff8d62ce2c8e9638a345d808cf08	Brick Rick (2020) (v1.0.1) (reidrac).cdt
+568362c6b4ce1aea85b8d2de40908fc9	Brick Rick (2020) (v1.0.1) (reidrac).cpr
+44a843bcc686952b9729b86d7597b4cf	Brick Rick (2020) (v1.0.1) (reidrac).dsk
+776d58b99c356569145dc55190d2c8ab	Bubble Bobble (1988) (Firebird) (En).dsk
+23eaec5594bc281342aab420e9ac9931	Bubble Bobble 4 CPC (2012) (CNG Soft).dsk
+9e34fd002880f2858a2c40fe36a0c774	Capeture, The (2021) (CPCRetroDev 2021) (Cyb3r Apes).cdt
+62473c192418159d2daf88cd19fb04d4	Capeture, The (2021) (CPCRetroDev 2021) (Cyb3r Apes).dsk
+8b61aa47139da37f9cdf0be181236330	Cassette 50 (1986) (Cascade Games) (Face A).dsk
+409b0a716dbf184938b0320933b0ce2d	Cassette 50 (1986) (Cascade Games) (Face B).dsk
+81222370029dc88d68b83619776eb865	Castle Kid (2021) (CPCRetroDev 2021) (AxolotIUA).cdt
+33f3d3ec3138d571ba4c5524715a202b	Castle Kid (2021) (CPCRetroDev 2021) (AxolotIUA).dsk
+f4cf3d067e10c4de22823b6fb2df6fc0	Chaos Rising (2018) (EgoTrip).dsk
+e4bd16f57ddf714dd1091cb2a08290d9	Chaos Rising Part 2 (2021) (v1.2) (EgoTrip).dsk
+7672c466cdfc71604f24b26942e0deb8	Cheril of the Bosque (2010) (The Mojon Twins) (En).dsk
+930c695e95917cb45bd3a3d77afc1c53	Chronicles of Nanako - Nanako Descends to Hell (2019) (Mojon Twins, Bitmap Soft).cdt
+708cfecfee216f64a029bf7ba8ea15a5	Chronicles of Nanako - Nanako Descends to Hell (2019) (Mojon Twins, Bitmap Soft).dsk
+973e4a93b22a58506edf31ab25cd3bc6	Chronicles of Nanako - Nanako in Classic Japanese Monster Castle (2019) (Mojon Twins, Bitmap Soft).cdt
+bb27373dacc9cb70261bd4c240a39f94	Chronicles of Nanako - Nanako in Classic Japanese Monster Castle (2019) (Mojon Twins, Bitmap Soft).dsk
+25cdfbb26666b217bd608727c5526762	Citadelle (2005) (Loriciels) (Fr).dsk
+63c92c57cce68dcb17073a8410f91592	Cloud Sailor (2021) (CPCRetroDev 2021) (rhgi1).cdt
+b5bca00cad3e57d12f85312cabf1aa90	Cloud Sailor (2021) (CPCRetroDev 2021) (rhgi1).dsk
+7295898aab54c329dfc7443cd6d9ae69	Cobra Pinball (France, UK) (1985) (Cobra Soft).dsk
+30eb441aa5ef7d3c9f95df9387b29133	Color Lines (2010) (Tom&Jerry) (En) (Disc A).dsk
+945ac4b5f80ebb43246bef5a7ef6ad8d	Color Lines (2010) (Tom&Jerry) (En) (Disc B).dsk
+182fb4d3aea99d8e3bef4578c68a7c29	Compilation jeux 10 Lignes Basic (2023) (Studio Vetea) (v1.0).dsk
+8f3e6d9b5a99db1a368bff8d88cfa9ed	Compilation jeux 10 Lignes Basic (2023) (Studio Vetea) (v2.0).dsk
+6e3001bb20cf001e945fd71b60f6f090	Compilation jeux 10 Lignes Basic (2023) (Studio Vetea) (v3.0).dsk
+8a6b8021c4288adf48c35b43ff98afb3	Cosmic Gatlin' (2021) (CPCRetroDev 2021) (Chill Boat Studio).cdt
+34487f9a2ced90b71584775358d30a2c	Cosmic Gatlin' (2021) (CPCRetroDev 2021) (Chill Boat Studio).dsk
+a98db3010e9d5d367ab202af762d203b	CPC Jewels (2022) (ESP Soft).cdt
+e2f1dc66e13cb6f2d194fde43ab3d117	CPC Jewels (2022) (ESP Soft).dsk
+fe4a5b12f68c0ccaee36b873f6130593	CPC Jewels (2022) (v1.2) (ESP Soft).cdt
+d76ac8b6fa8d315bba8292b8dc2004ae	CPC Jewels (2022) (v1.2) (ESP Soft).dsk
+6f77f266f494bc04db3d26f141502c4a	CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower).cdt
+c5be1334dafd7d4acbacfc397343a934	CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower).cpr
+ab5a2801391d9fc1c279d95b0c2d40a0	CPC Soccer - Community Edition (2020) (Aftermarket) (Voxel Tower).dsk
+f6b3e09f50a127dbed8ab3efab78e6fc	CPCMiniPac (2023) (BASIC 10Liner).dsk
+e78ca49cd7a58d665ce45cf165e3c51f	Crazy Snake (1992) (Fraggle et Duck) (En).dsk
+15dc8b1b30d519678aee128c065e9224	Crime du Parking, Le (2008) (Froggy Software, Tom&Jerry) (Fr) (Disc A).dsk
+f6e8b51cbd62bdf6f6747a2a04990ca9	Crime du Parking, Le (2008) (Froggy Software, Tom&Jerry) (Fr) (Disc B).dsk
+41b9b60dc338b26ba6789d967c160636	Crystal Mission (1991) (Andreas Stroiczek) (En).dsk
+1a5b721b39e924fb988afa5713771d58	Cult, The (En) (2023) (64K) (Tartessos Games).cdt
+5ccdb9dc2f91d1e60f63b4fbd14a487b	Cult, The (En) (2023) (64K) (Tartessos Games).dsk
+7921a89eebb36bb5185131e75dab6be3	Cult, The (Es) (2023) (64K) (Tartessos Games).cdt
+c9decf9e2440ffa2ea2c1367dec032b0	Cult, The (Es) (2023) (64K) (Tartessos Games).dsk
+8c69dd52d72f3d4887946a9429242a7b	Dawn of Kernel (2018) (v1.0.1) (Juan J. Martinez).cdt
+aef578c87068c77ce8eb390a58cd2ed8	Dawn of Kernel (2018) (v1.0.1) (Juan J. Martinez).cpr
+30c2b4b5e77641b29d5670dc690c8e31	Dawn of Kernel (2018) (v1.0.1) (Juan J. Martinez).dsk
+11f88ebe1bbdaf41ad788464c47b168c	Dead by Dawn (2012) (Malcom Kirk, Miguelsky) (En).dsk
+a4f88a3758847b34cb249ebb1cdaee6a	Dead on Time (v3.0) (2010) (Paul Kooistra) (En).dsk
+a1ba2b6da704ab395d94de287440d495	Démineur (1993) (GPA) (En).dsk
+b5196099972881b5d7229909bf0d74c7	Dempsey and Makepeace (UK) (1986) (Britannia Software).dsk
+84e174670b0bd3e9587ce529fe923723	DiveJely (2023) (CPCRetroDev 2023) (ChonkyBird).cdt
+9575b6fdb2fbcb021ab4435b28aac79d	DiveJely (2023) (CPCRetroDev 2023) (ChonkyBird).sna
+45ff4081dfcd87d4927b441d2f6dd0bf	Dokoban (2022) (Copper France).dsk
+11762738ab3c38f786dfb91f0b714948	Donkey Kong (1986) (Ocean) (CNGSoft).dsk
+8e94c91cc3b031859a9e57744f8de8cd	Double Keys! (2021) (CPCRetroDev 2021) (acorascuenca).cdt
+aa36dcfb5ac320107c428a5341724eda	Double Keys! (2021) (CPCRetroDev 2021) (acorascuenca).dsk
+5ab3cc1eb0c6cde46328429694b54a9d	Dr. Roland (v1.0) (2021) (John Lobo).cdt
+abf683d0f72ebaece5af897dbceba3ab	Dr. Roland (v1.0) (2021) (John Lobo).dsk
+6f1f04247951b094ff6f4eca16a770e5	Dr. Roland (v1.0) (2021) (John Lobo).sna
+5ab3cc1eb0c6cde46328429694b54a9d	Dr. Roland (v1.1) (2021) (John Lobo).cdt
+abf683d0f72ebaece5af897dbceba3ab	Dr. Roland (v1.1) (2021) (John Lobo).dsk
+6f1f04247951b094ff6f4eca16a770e5	Dr. Roland (v1.1) (2021) (John Lobo).sna
+7fde64d5084a9169aa616e9172951369	Dungeon of the Silver Star (2023) (Retro VynZ).dsk
+4ef9830661846ba9628b64c014336372	Edge Grinder (2012) (Cosine Systems, Axelay) (En) (Disc A).dsk
+df7d4ba2d7cd77c9f40ca292540dc08e	Edge Grinder (2012) (Cosine Systems, Axelay) (En) (Disc B).dsk
+3dca6dbc08add0f61b3e62877c80c0bf	Evil Donjon (1989) (Marc Delaperriere) (En).dsk
+514ade06f67703736657ebaf9920ec7c	Final War (2023) (CPCRetroDev 2023) (recreogames).cdt
+2039d817e4de7376df43db8fe59534e8	Fitzroy Dives Deep (2021) (CPCRetroDev 2021) (v1.0) (awergh).cdt
+5834c1c58217f4ab1ca468894fab7d60	Fitzroy Dives Deep (2021) (CPCRetroDev 2021) (v1.0) (awergh).dsk
+42594ad914538f1f7025135991cd01e3	Fitzroy Dives Deep (2021) (CPCRetroDev 2021) (v1.1) (awergh).cdt
+178350f9a60fc44f4bfcbf77c80152c0	Fitzroy Dives Deep (2021) (CPCRetroDev 2021) (v1.1) (awergh).dsk
+fca812a99f2293d15a553853c785d9fd	Fitzroy Dives Deep (2021) (CPCRetroDev 2021) (v1.2) (awergh).cdt
+33c16c968b03c56ddac0f3c5e8f6d99d	Fitzroy Dives Deep (2021) (CPCRetroDev 2021) (v1.2) (awergh).dsk
+6a1ae5de03537f026fc3e82206bb9e74	Fitzroy Dives Deep (2021) (CPCRetroDev 2021) (v1.3) (awergh).cdt
+0ff4b44c3f1ebc1a01fac5d58adbe3a3	Fitzroy Dives Deep (2021) (CPCRetroDev 2021) (v1.3) (awergh).dsk
+436956c7ac4fabbad04d111684fca22d	Forms (2023) (CPCRetroDev 2023) (John Lobo).cdt
+8262a98fc811f55656d78a13ec1f2b53	Forms (2023) (CPCRetroDev 2023) (John Lobo).dsk
+20a9c192991b7b78f2b9dc06fe6ce183	Frestris (1995) (Uncle Siggi) (En).dsk
+4b1478cd72862b9e8d8ea4126f31cfd9	Frogger (UK) (1992) (Deanysoft) (Proto) (2017-06-07).dsk
+bfc7c25903e79e0d3b260c30d4d812cd	Froggo Hop (2021) (Popcorn Games).cdt
+864680b99dab1e46cf09a14522bc8ed1	Froggo Hop (2021) (Popcorn Games).dsk
+4f51400274e3a55bd6f6c2c3c1801c6d	Froggo Hop (2021) (Popcorn Games).sna
+49b4171093f34ef21b7c20914c3b93a7	Galactic Tomb (2022) (128K) (ESP Soft).dsk
+5cc71a117d4b367bbb350a43dcf215a2	Galactic Tomb (2022) (64K) (ESP Soft).dsk
+1318df70b05490f7683f043c2327007e	Galactic Tomb (2022) (ESP Soft) (Side A).cdt
+fe9ac683006e6c6aa9ac069ebe24712c	Galactic Tomb (2022) (ESP Soft) (Side B).cdt
+d9058d93fe92e3ada0cc436e14220001	Galastrad (2024) (v1.02) (AYOR61).cdt
+3226ac3244f5b1ea784029ab5b7f4240	Galastrad (2024) (v1.02) (AYOR61).dsk
+8faf1845f486c6760da1ce8f9dfe60c9	Gates to Heaven (2022) (v1.1) (ESP Soft).cdt
+fd026cc0baa179f72e36f930349db657	Gates to Heaven (2022) (v1.1) (ESP Soft).dsk
+0421b05999d2471db2679f53403dc904	Gates to Hell (2005) (ESP Soft) (Es).dsk
+907d7ea047c09bd9a6630f69c2033932	Get Out of My Store! (2021) (CPCRetroDev 2021) (PyroBombastic Games).cdt
+4737bcf67c163be6ea3bc31aa7655eec	Get Out of My Store! (2021) (CPCRetroDev 2021) (PyroBombastic Games).dsk
+0bb126661c1bd388533e2a58f16bd807	Ghosts of Blackwood Manor, The (2023) (Stefan Vogt) (v14).dsk
+2d30d85468d4d73f5bfb0106d9aaed73	Groops! (2007) (Binary Sciences) (En,Fr,De,Es).dsk
+9ddba8269d6e4177ef2687189369e88e	H.E.R.O. (2005) (Flynn) (En).dsk
+a4b63c729643affd4db27cbdfc025324	Hair Boy (2016) (Carlos Sevila).dsk
+7dcc5b96f63125c7c028a8ffa3a3d926	Hey Sailor! (2020) (MarineDevelopers).cdt
+75b1cdf25aaad82205a6924c3ec183cd	Hey Sailor! (2020) (MarineDevelopers).dsk
+f71b1d5ca9777e8d3f0c2dd865da7730	Hey Sailor! (2020) (MarineDevelopers).sna
+c9e4c83704bbaf825be1513a963b2d46	Hora Bruja (2011) (ESP Soft) (Es).dsk
+f61a82c32fccd19171f6e94bd4e5196f	iLogicAll (2009) (CEZ Games Studio, ESP Soft) (Es).dsk
+c49b716e86a18d4ada5d3d29d21117c6	Imaginario Colectivo (2012) (ESP Soft) (En,Fr,De).dsk
+14613bb947fcbd3211f74a7a713c2a65	Into the Darkness (2021) (CPCRetroDev 2021) (Popcorn Games).cdt
+a4a69c6680d31ab5181aee9466c61997	Into the Darkness (2021) (CPCRetroDev 2021) (Popcorn Games).dsk
+6f4eea02b96eecb1321c5f8feec19f3d	Invasion of the Zombie Monsters (2010) (Relevo).dsk
+52b7ca66d835c18a9dcd5e843e07fe2e	Iron Sphere (2006) (Ian Munro) (En).dsk
+568ce2967057b618ffc50279dde7133e	Ishido (2005) (Arkos) (En,Fr).dsk
+cd4cfeb2de02e8df16c5e7290fd6dd19	Jet Pac (2014) (T&C Stamper, 40Crisis) (En).dsk
+118a8f37ef646c49f2c36c246d0f1496	Juegue con su Amstrad - Kart 3000 (Es) (1987) (Sygran).dsk
+d5ef3efa7653bb4fc6b0f9bdcd66d088	Juegue con su Amstrad - Max (Es) (1987) (Sygran).dsk
+b7a2901f1bc145805d90f7b2647bfe29	Jump Mania (1993) (MOPS) (En).dsk
+11172808224906b2553af6dc3a623f8e	Justin (2005) (CNG Soft) (En,Fr,De).dsk
+27caee6399b613461df66128a6d3450d	KILLMIL (2021) (CPCRetroDev 2021) (OldSchoolAmstrad).cdt
+6d96a3b69e940dff3f5b2b473b9497fe	KILLMIL (2021) (CPCRetroDev 2021) (OldSchoolAmstrad).dsk
+150ddd0a99231097f579420dc8591ff4	Kitsune's Curse (2020) (v1.0.1) (Juan J. Martinez).cdt
+0634b6301b5b111d244c1a506d6444fd	Kitsune's Curse (2020) (v1.0.1) (Juan J. Martinez).dsk
+092385830cf136ade7d1305634c99030	Krook (2025) (En) (Tartessos Games).cdt
+f536318fb3e90f0b23fc508877207d28	Krook (2025) (En) (Tartessos Games).dsk
+b3157079c16709dc7abdfcf010e0d442	Krook (2025) (Es) (Tartessos Games).cdt
+d48c2f0962143448c15bf16aff298d31	Krook (2025) (Es) (Tartessos Games).dsk
+871df635f501194c23c7314cd65e0c7c	L'Affaire Ravenhood (1993) (Bruno Fonters) (Fr) (Disc A).dsk
+87e1719bfbdb19ee6f544425056fe0d4	L'Affaire Ravenhood (1993) (Bruno Fonters) (Fr) (Disc B).dsk
+67c66829dc2456c48bb84e9cd93fe354	La Culotte de Zelda (v3.2) (En) (Zisquier).cpr
+3aaad81cb74dec43fd0a29c88379aee2	La Culotte de Zelda (v3.2) (Fr) (Zisquier).cpr
+d21ed4e92ec82135a237e4d65a4d4692	Lala the Magical - Prologue (2010) (The Mojon Twins) (En).dsk
+840e4fa1ff356ca3a71ea5000dbd7b6a	Last Brew, The (2023) (CPCRetroDev 2023) (Vec).dsk
+ed7b8376a43c6fea3fc3ef581b8bbb52	Last Fungus, The (2021) (CPCRetroDev 2021) (Ocacho Games).cdt
+5811f93eb0b9ed9457766c491b67ad3d	Last Fungus, The (2021) (CPCRetroDev 2021) (Ocacho Games).dsk
+cd0fd0feeaf7d72ededce25874895b5a	Lights Out (1997) (Rudiger) (Fr).dsk
+a1ddbed968182491da041f7319794648	Lile Oubliee (1993) (Bruno Fonters) (Fr) (Disc A).dsk
+f36754ee2ffe084975a9de6b32261967	Lile Oubliee (1993) (Bruno Fonters) (Fr) (Disc B).dsk
+2f57cedcce9510c82b4d289ee7579b43	Llum (2022) (21bloques).dsk
+15a5e438e5d58cdc15aef5971b3ee039	Logical Head (2004) (DBT Productions) (Fr).dsk
+4d0f6edf71c41e52910d7faa07454942	LoopWorlds (2021) (CPCRetroDev 2021) (DreamyZombies).cdt
+48a71a1e2f690627e516a0749734489a	LoopWorlds (2021) (CPCRetroDev 2021) (DreamyZombies).dsk
+a890a84e0a2f3c5eea151c5cac830f68	Magica (2016) (v1.0.2) (Juan J. Martinez).dsk
+848c9005e19e132b48260b2b2f6e4f4e	Magical Drop (2007) (Oscar Sanchez) (En,Es).dsk
+8a9ee1a7fc7daf89b8bc54f37548b076	Mandarin, The (2022) (Mananuk).cdt
+c3d025b4ae07780f2544ee4b303b8d3a	Mandarin, The (2022) (Mananuk).cpr
+cc08363a0285f2ccc694f56ee6d2ce71	Mandarin, The (2022) (Mananuk).dsk
+27fdefe7429d0959a8355b8d57627bd5	Mandarin, The (2022) (Mananuk).sna
+f0606d014df11ebf2755669b512f1f5d	Mariano the Dragon in Capers in Cityland (2008) (The Mojon Twins, ESP Soft) (En).dsk
+0fc2e391910162786987829314a9ec21	Mario Bros (2023) (Choice Software).dsk
+74c60eba8d00b5f2b19ddfa7477cebe5	Master of Space!, The (1994) (Shock Soft & Shimmer) (En).dsk
+c1e589d7ac03dde89cd3662dfcdfd1c5	Master Piece (v20250316) (En) (Tartessos Games).cdt
+9aa10f98b75a245601b291a9c339818a	Master Piece (v20250316) (En) (Tartessos Games).dsk
+f157512324a3dd52f12ce18daa227907	Master Piece (v20250316) (Es) (Tartessos Games).cdt
+4326681e1c350a598249178983de988e	Master Piece (v20250316) (Es) (Tartessos Games).dsk
+b5da702f940e8b8d2cfcd22fd89d3965	Maziacs (2013) (Don Priestley, 40Crisis) (En).dsk
+bfc7ee69f6d50d54b3eecd730b9bab9e	MegaBlasters - Escape from Castle in the Clouds (2015) (Project Argon) (En).dsk
+3a4197217abc60d39be6b64dbc72516d	Mines Incas (2009) (Astrosmurf) (En,Fr).dsk
+141767e586d17d0ef6b6702657182ee5	Miniature Flipper, The (Germany) (1991) (Ansgar Scherp) (Compatibility Fix) (Phoenix0870).dsk
+e929c68f2f362c9f3a7fda388315a325	Miniature Flipper, The (Germany) (1991) (Ansgar Scherp).dsk
+e4bc8e3f51491a8866dbe4078037169f	Miss Input (2019) (ChupiGames) (En).dsk
+09d1c3626e70a31150a93dc3ce4e25a5	Miss Input 2 (2020) (ChupiGames) (En).dsk
+c8371b70b36129b312acdbb6becbe837	Molecularr I et II (1991) (Frédéric Poésy) (En).dsk
+e7c45a27d2df090c068e986628ee814b	Monster Mayhem (2024) (Mananuk) (M).dsk
+62e81784a0a6a8c7eac6d3153c025111	Monster Mayhem (2024) (Mananuk).cdt
+bfcecc63874469b62d3ae23b613e454f	Monty Python's Flying Circus (Spain) (1990) (Core Design).dsk
+a690a05a5b823685ef0a815b10005ace	Monty Python's Flying Circus (UK) (1990) (Core Design).dsk
+c1533744ff02937bc0751c4a79babcd1	MoonRN (2025) (Snauts).dsk
+d802d0fe57d3efb22390348bdb30ab5b	Moonsters (2021) (CPCRetroDev 2021) (dam_studios).cdt
+5f02d76ca4944b402dd0fb2db59c3d67	Moonsters (2021) (CPCRetroDev 2021) (dam_studios).dsk
+aadf925ceb4f0424f04b7e0fb31e9909	Moritz on the Autobahn (2022) (Team Moritz CPC).dsk
+88841ab47f744929af93adf075245dec	Mr. Og - The Sampler (2023) (CPCRetroDev 2023) (Kaiwa-ams0).cdt
+bd6c3d0c91434d45eb509f06f10400df	Mr. Og - The Sampler (2023) (CPCRetroDev 2023) (Kaiwa-ams0).dsk
+cfbdbc9bc4345243c7ba3162564b19e0	Mr. Og - The Sampler (2023) (CPCRetroDev 2023) (Kaiwa-ams0).sna
+ad92cc4da8de62faa3f4864ae1f69a75	Mur de Berlin va sauter, Le (2012) (Froggy Software, Tom&Jerry) (Fr).dsk
+d523886d32b04ee24f3ded026a550380	MYRAMPOS (UK) (1990) (Martin Korth).dsk
+d41c7e247f7e97c2be4754d94d31d81d	Nanako Descends to Hell (2009) (The Mojon Twins) (En).dsk
+3206139d3be937064f747712fd3f0419	Nanako in Classic Japanese Monster Castle (2009) (The Mojon Twins) (En).dsk
+87c717979ead7a4a9095ff2afd2ca477	Nuke Bug (2023) (CPCRetroDev 2023) (AlakranStudio).cdt
+98637db388704c9ec9b130ef6f2d3139	Nuke Bug (2023) (CPCRetroDev 2023) (AlakranStudio).dsk
+e9bec8e5950ef4e3f0ad1c231aac3c6f	Nuke Bug (2023) (CPCRetroDev 2023) (AlakranStudio).sna
+cdf321ae7c046cf91b6b413bcdba4d85	Oh No, My Moustache (2022) (Strawberry Studio).cdt
+bdb631fef64d1899243874651a3757c1	Oh No, My Moustache (2022) (Strawberry Studio).dsk
+61fa82806bf3fcec07f674aff495e386	Oh No, My Moustache (2022) (Strawberry Studio).sna
+ed5111e3b2de8da8b8a6de9a7c2c35ce	One Wonder (2023) (CPCRetroDev 2023) (Kaiwa-ams1).cdt
+7125af3c77b157ff29489bdf55a66589	One Wonder (2023) (CPCRetroDev 2023) (Kaiwa-ams1).dsk
+2caba7a5b156a71c95f1a7c776aaf169	Orion Prime (UK) (2009) (128K) (Targhan, Supersly).dsk
+8e018fc9f1d7b22e20e48e66c81f9b6a	Overkoban (2013) (Futility Games) (En).dsk
+feb00097e7338cfeaaba7f06f27a41ed	Pac-Man Arcade Emulator (UK) (128K) (2012) (SyX).dsk
+bc8459a5878e5b72ac70de51ec406dcc	Paintball Training (2023) (altanerus dog).dsk
+deef89eca41ff4e190e058ab589a3708	Paleto Jones (2022) (UK) (v4.0) (Mananuk).cdt
+c631d6b0a09497617097ca4755a8ddea	Paleto Jones (2022) (UK) (v4.0) (Mananuk).dsk
+4497612d96f27c53ff2de3589570f901	Paleto Jones (2022) (UK) (v4.0) (Mananuk).sna
+098ed6d87cfdd911501cd408a7df83ce	Paulina's Potions (2023) (CPCRetroDev 2023) (leosoft).cdt
+5fe20d58f41ff43c0d64f427701061bb	Paulina's Potions (2023) (CPCRetroDev 2023) (leosoft).dsk
+8e5c5563e639ab04d5e7215631af1476	Pepper Buster (2024) (v1.1) (Crazy Piri).dsk
+359544eacb6ae24c95585ec2da8a4d08	Perched! (2021) (CPCRetroDev 2021) (Lumina Studio).cdt
+6be9d9689dcca6edb367072ffa2212db	Perched! (2021) (CPCRetroDev 2021) (Lumina Studio).dsk
+895923893fb9bb74a5ffa326cf9eba09	Phantis Legacy (2017) (Kukulcan) (En).dsk
+ae0cb3df3e52c513ac08d252f0393ac2	Phantomas en el Museo (2025) (The Mojon Twins).cdt
+25fc0848dcc159a90fbd8e7ff1e7a467	Phantomas en el Museo (2025) (The Mojon Twins).dsk
+07a552953caa5c5088c2942f972c4cfa	Phantomas Saga - Infinity (2006) (ESP Soft) (En).dsk
+ec845a984b4738c3a608652f54004599	Phantomas Tales #1 - Marsport (2009) (The Mojon Twins) (En).dsk
+caeb52307ab07a0acf0083ede7a86cc3	Pinball Dreams (UK) (128K) (2019) (Version double size) [Original].dsk
+d594a46b28e48ab759af3c0579376477	Platformer Medley - First Block (2009) (The Mojon Twins) (En).dsk
+f34cfe30dfd33420164a86244a5fb69d	Postman Pat II (UK) (1989) (Alternative Software).cdt
+a08eb7621005e7cb44766b1b42a3811b	Prelude to Chaos, A (2016) (v1.1) (EgoTrip).dsk
+de9bc6484cbd37507943bb10e93a7b30	Prince Of Persia (1990) (Broderbund) (En,Fr).dsk
+33327d448f4f5b9823bfd6b91eb4816a	Pulzar (2024) (Snauts).dsk
+34d71d15f0c7a9316b3e8c0aed16b70d	Puzzle Bobble (v1.2) (2021) (Crazy Piri).cpr
+1ff05e01a38d5b40120a76ca0cc1ec62	Puzzle Bobble (v1.2) (2021) (Crazy Piri).dsk
+e9381b9dcd5872e92877dcabe9716119	R-Type (2012) (Carl-Stéphane Berquez) (En) (Disc A).dsk
+9ec292b9fc658a291bf6622581881d1b	R-Type (2012) (Carl-Stéphane Berquez) (En) (Disc B).dsk
+062b16a434cf5203f5903d75f8f914c8	Rail Runner (2023) (CPCRetroDev 2023) (amstradartisans).cdt
+f1c0a47b9b20309c57f16575832d830c	Rainbow Wielder (2021) (CPCRetroDev 2021) (PyroClastic Software).cdt
+50bf061d5098b1dde33eb5d19d6bf703	Rainbow Wielder (2021) (CPCRetroDev 2021) (PyroClastic Software).dsk
+fd78814d3f46a5c4fa4e1c3076de5e29	RC Quest (1993) (J. Marek) (En).dsk
+25ad40449089fc7e6994f041d24648d2	Rebelstar (UK) (1986) (Firebird).dsk
+e0027448231f50b21195a4c6ce86d192	Red Planet (2022) (En) (v1.1) (PlayOnRetro).cdt
+6a232c80e5dd4880d81027c03d5a5268	Red Planet (2022) (En) (v1.1) (PlayOnRetro).dsk
+d2b6f90f7c1e50e362e6f2009560d82e	Red Planet (2022) (En) (v1.1) (PlayOnRetro).sna
+1f064d73ea6789228f0593f58823ce8f	Red Planet (2022) (Es) (v1.1) (PlayOnRetro).cdt
+725e35c14975a12e4d7593c74af18d83	Red Planet (2022) (Es) (v1.1) (PlayOnRetro).dsk
+3b0ed6facf3afd3e4cd3b757c6696d19	Red Planet (2022) (Es) (v1.1) (PlayOnRetro).sna
+1715c122858cdca75ff85330e6122f70	Red Sunset (v3.0) (2022) (ESP Soft).dsk
+cb3b3e900b20557cdd1b02da15905bfb	Retromancer, The (2023) (CPCRetroDev 2023) (RetroMancer93).dsk
+a9b8dcf4eb650ebe79803bcda17be100	Return of Traxtor, The (2015) (usebox.net) (En).dsk
+e94711c7169b448d4059a44a6102ca15	Revenge of Trasmoz (2022) (v20230111) (Volcano Bytes).dsk
+b7f15112aff337b3719f6732ceacd5fa	Rick Dangerous (1989) (Core Design) (En) (Alt).dsk
+bcd1ab1840f6b4022147a24ae787bbc3	Rick Dangerous (1989) (Core Design) (En) (MCM).dsk
+6d85a8dfe684c88359865aded33aac01	Rick Dangerous (1989) (Core Design) (En).dsk
+f81c6175c8ab139eab6cbff1d1c3348e	Rick Dangerous 2 (1990) (Core Design) (En) (Alt).dsk
+3216f3456001530a22b9c541df6ca6e7	Rick Dangerous 2 (1990) (Core Design) (En).dsk
+7c75abfe851336d71d543c9cb36b567a	Robotron 6128 (2009) (Lachlan Keown) (En).dsk
+0ff1c96835bd2861c5cfaa2a49d30b74	Shadow Hunter (2023) (Mananuk).cdt
+8e271fd0a4ccf675327a4f0608465eb8	Shadow Hunter (2023) (Mananuk).dsk
+fcd6e25806b93fe9d1966f340e556a50	Shadow Maze (2023) (CPCRetroDev 2023) (Rayon Studio).dsk
+82ce4f11cf0837f3f30d9be728b3cbce	Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Side A).dsk
+8f3ca7c3abc050054743ba0609b56ba7	Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Side B).dsk
+88e633bc28c386027f8793ee795782e4	Sheriff Duty (2023) (CPCRetroDev 2023) (AlakranStudio).dsk
+2baba6bfdc680f0c9b9d2e78feef9771	Shinobu (2020) (v20201006) (RubenRubioM).cdt
+41be2538f6ebb6a7fde82b57a9299ea4	Sim City (1990) (Infogrames) (Newschool Cracking).dsk
+ec4856c2c6fa0ef6b53f88424379e6d4	Sir Ababol (2010) (The Mojon Twins) (En).dsk
+3ffe4ff23156a8d2f6835889e505000e	SkillTeam (2025) (v1.0) (David Programa).cdt
+d694fef4164d95ff3a373b4a97d3336c	SkillTeam (2025) (v1.0) (David Programa).dsk
+1c94a7bff21bc6d0123b677fcecff7aa	Small Games for Smart Minds (2007) (ESP Soft) (En,Es).dsk
+e7c654c1d6b5ffd39928610aa212cb94	Small Games for Smart Minds (2007) (ESP Soft).cdt
+20f7b392931ccbaf77e4399abe637fc3	Small Games for Smart Minds (2007) (ESP Soft).dsk
+261b43933f7452c9c25cb1d77f00e9d3	Snake (UK) (2021) (Version Basic 1.1) (LeoSoft).dsk
+31be25b30026b18d6dc425387a5245c0	Sorcerers (v1.1) (2020) (Salva Kantero).cdt
+4aae7b4beb43ec00af5ddff50eb4beb2	Sorcerers (v1.1) (2020) (Salva Kantero).dsk
+6de145987648ddf648262aad7ff69c11	Space Invaders (2023) (BASIC 10Liner).dsk
+52c46b189c2148b14a905ae7d54040eb	Space Moves (2015) (AmstradGamer) (Es).dsk
+1cdf7c3ad019febf50476a973daa080b	Space Rescue in Jupiter (2023) (altanerus dog).dsk
+6b84a69c3a8b6b5097d6ddc0f16a379d	Star Driver (1994) (Shocker Soft & Shimmer) (En).dsk
+4bdc7c7138312ce7d22a0756fbc22e72	Star Sabre - Enhanced 128K (2009) (Paul Kooistra) (En).dsk
+602c3172858961dd26adc0d524d0bafe	Stranded (2005) (Bob Smith, Kevin Thacker) (En).dsk
+a1023b21440ef142d359ba5e42e221db	Subtera Puzlo (2013) (Egotrip) (En).dsk
+a2822ff9296a828197467c16ecccab1b	Sudoku (2008) (Kevin Thacker).dsk
+8cda26df9d06013a54af59e1b7013e20	Sudoku Master (2009) (Binary Sciences).dsk
+93c4a7e4ac32a1f8e3ecc905929e810d	Sugar City (2023) (Voxel Tower).dsk
+381e50c8bdaf31bcd6e254ebc842793d	Super Lode Runner (UK) (1994) (Prototype) (Odiesoft).dsk
+d46b20ff002beb4eb9dd27e6df4ee657	Superpix (2014) (Crack'n'Rom) (En) (v1.2) (Side A - Program).dsk
+2f465c4c990acb2fb5d2f137db914804	Superpix (2014) (Crack'n'Rom) (En) (v1.2) (Side B - Levels).dsk
+5cda6bf144ea075813c3b23766cd9177	Survive the Week (2021) (CPCRetroDev 2021) (En) (Carlos Pérezgrin).cdt
+a6797e569fc614ff9ce4766a91ece856	Survive the Week (2021) (CPCRetroDev 2021) (En) (Carlos Pérezgrin).dsk
+2bd4d47ed25e231b2dc2c245cb637076	Survive the Week (2021) (CPCRetroDev 2021) (Es) (Carlos Pérezgrin).cdt
+663382f1495c1d5df91b913db7f7eef0	Survive the Week (2021) (CPCRetroDev 2021) (Es) (Carlos Pérezgrin).dsk
+974a79b8684d90519cb9a5544edb8e07	Tetris 95 (1995) (Power System) (En).dsk
+91b95f01be65145ba12b97d07aa3ae3a	Tetrix (1989) (Playfield) (En).dsk
+db0328b0e542502f962c3f8253365d93	Todo sobre el Amstrad - 14 - Bugs (1987) (En,Es) (G.T.S. Editorial).dsk
+19f2aecdacf501faedb8164f0a3371cd	Todo sobre el Amstrad - 15 - Laser (1987) (En,Es) (G.T.S. Editorial).dsk
+e8551d36c5a2a5ae28827bbd54963d4f	Totems - Columns CPC Two (2012) (ESP Soft) (En).dsk
+339e1375a06eb5dc7c5b9e1313e29dd2	Uwol 2 - Quest for Money (2011) (The Mojon Twins) (En).dsk
+fb4a14b1a610f3c2b0ff1546ae19d2c8	Uwol 2 (2011) (Aftermarket) (Mojon Twins).dsk
+d1eb2b462a8ed8688ead6ac9ba897de5	VirusDog (2016) (Kukulcan) (En).dsk
+69f8b7c88094db9d032bde3eaf5bd06f	WhatTheRock (2023) (Createvia).cdt
+af02403b58b0d233a9cf5be183a2050c	WhatTheRock (2023) (Createvia).dsk
+2a9cdd5614f06c31339c59f3186662bc	WhatTheRock (2023) (Createvia).sna
+5bf74c1eb8e126b2d025ab7ff5b7048e	Wireware (2021) (CPCRetroDev 2021) (CNG Soft).cdt
+8a5a8dc4af2b40c3fac8b61c8ac279c9	Wireware (2021) (CPCRetroDev 2021) (CNG Soft).dsk
+ef207baede7683a4d4258d48b14314a2	Wizard Dash (2021) (CPCRetroDev 2021) (v1.0) (Crab Party).cdt
+244bc4912ae2704b643f870863da2474	Wizard Dash (2021) (CPCRetroDev 2021) (v1.0) (Crab Party).dsk
+266126cb537ac8326887e613774c143a	Wizard Dash (2021) (CPCRetroDev 2021) (v1.1) (Crab Party).cdt
+f956e535509e612f38c06565b8a74c56	Wizard Dash (2021) (CPCRetroDev 2021) (v1.1) (Crab Party).dsk
+0600267395755f3610fff3bafe6b50c6	Wonder Boy (1987) (Activision) (En) (Alt).cdt
+349f5b59a2630fbc505343e0effec5dc	Wonder Boy (1987) (Activision) (En) (Dlfrsilver).dsk
+68f23339b5849a332f2ff86e7dbce398	Wonder Boy (1987) (Activision) (En) (Proein Soft Line).cdt
+3ea57db4e0395a33df2a101d548cf0df	Wrath of the MCPC, The (2021) (CPCRetroDev 2021) (lambdamikel).cdt
+73d76e19c8e3d34ded72c5c3c65313cd	Wrath of the MCPC, The (2021) (CPCRetroDev 2021) (lambdamikel).dsk
+45c4c102bb7acd128c56485f02e9e053	Wrath of the MCPC, The (2021) (LambdaSpeak) (CPCRetroDev 2021) (lambdamikel).cdt
+9084a16bba4736f9d5f23c151ce37f88	Wrecking Ball (2021) (CPCRetroDev 2021) (Francesc Alcaucer).cdt
+e6b4347bfbf1c96a49d461cd2f8d03c8	Wrecking Ball (2021) (CPCRetroDev 2021) (Francesc Alcaucer).dsk
+2a1a49273ae06f7787458c1724038523	Xalk - Deluxe Edition (2019) (Antman) (En).dsk
+4e4e1e8330977ef8b9c6f87966e885df	Xalk (2017) (Antman) (En).dsk
+4f89fadc7312bf9b622c3f81c194f4f5	Xyphoe's Nightmare (2022) (v20220112) (YB Software).dsk
+ba0a626a2be7116d25c1dddc07b5778d	zBlast SD (2005) (R. Marks, N. Campbell) (En).dsk
+1b5939fff2f602974804973869e0510a	Zlalox (2024) (Snauts).dsk

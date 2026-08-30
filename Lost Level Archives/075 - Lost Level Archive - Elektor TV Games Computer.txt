@@ -1,0 +1,93 @@
+2ccf968f80f61fa58c52861f2ac8ce00	4 in a Row (Europe) (ESS-003-4).tvc
+2adfa35bb133a3bf6b4a19b825f66aeb	4 in a Row (Europe) (ESS-007-6).tvc
+663eed15fd2a7a39c21622d09e21fbf9	4 in a Row (Europe) (ESS-007-7).tvc
+d47f25b98226aa528c897cd7b9fa76d9	Aggressor (Europe) (ESS-009-1).tvc
+0a66501303746259703c099bf74fb681	Amazone (Europe) (ESS-007-4).tvc
+9887b2a5460da010acc3e6ab33655db6	Apple Tree (Europe) (Peter Marschat).tvc
+ccdbd98c3e35c7ad3c5e38a0487d718d	Assembler (Europe) (Peter Marschat).tvc
+4efffb40e9bd84ff37f9debb8807d68c	Asteroids (Europe) (ESS-011-5).tvc
+b69a9c1519f20a42686c542f270434b2	Attack from Space (Europe) (ESS-010-7).tvc
+0a61ebf44259c67434ad44e1bcac96e7	Awari (Europe) (ESS-009-B).tvc
+dfcef63d649e3e24274392681f8bb361	Basar (Europe) (Hocosoft).tvc
+9ef4ed004d188d0543daa1eeb6c3befc	Basketball (Europe) (ESS-010-A).tvc
+e7d5f1b22f7c0e3b52a1000cf86e22f6	Blackjack (Europe) (ESS-009-9).tvc
+d6b3a7879a1be746e994926d91601f60	Bursting Balloons (Europe) (ESS-010-B).tvc
+70b6fbf9d240110077af80ec4db320ff	Bursting Balloons (Europe) (ESS-011-8).tvc
+ff1a7bdd03150f744431a506c641e451	Car Race (Europe) (Peter Marschat).tvc
+483f1046302f597b8f81fd93b8fba482	Card Trick (Europe) (ESS-009-A).tvc
+b0cb507cfdf9f5a4d4ee49ddddb31fe2	Catapult (Europe) (ESS-010-5).tvc
+fde60eda43c64cb31ad7b5571ebf2e49	Change Words for Hangman (Utility) (Europe) (ESS-010-1x).tvc
+14b6dc270d41ef89f30e5f3b1fe6f4fd	Circledrive (Europe) (ESS-009-3) (Enhanced - Compatibility Fix).tvc
+938fd8ab57e469268754ec28e07ac10f	Circledrive (Europe) (ESS-009-3).tvc
+d9b794eca4f2ad587eaba9cb5f93062a	Clock (Utility) (Europe) (ESS-003-2).tvc
+08384961ab022969a7daa2b3cdaa08e0	Code Breaker (Europe) (ESS-007-2).tvc
+bcacbaa36b2da5598153fb315b874593	Cosmic Adventure (Europe) (ESS-011-F) (Enhanced - No Flashing).tvc
+e731b5fb80355976feafa0a5a31ef4e4	Cosmic Adventure (Europe) (ESS-011-F).tvc
+31352fa861c990364e57b37db97dda0d	Destroyer (Europe) (ESS-009-7).tvc
+7b49bc48e2b3dca237b5c8163ba898af	Disassembler (Europe) (Peter Marschat).tvc
+ee12feca5452d105dcdde12ae2481f6e	Disassembler (Utility) (Europe) (ESS-007-D).tvc
+3a15e7b4920fe8ebb3253b01a226ee32	Dragster (Europe) (ESS-011-6).tvc
+e3860f501dd25b322ae2c40eeaa640ea	Editor (Utility) (Europe) (ESS-010-D).tvc
+94eb102cb45153293a8532def094ab10	Fur Elise (Utility) (Europe) (ESS-010-C).tvc
+8881980b6290f962e79bb7c8eb489e40	Galgenspiel-Hangman (Europe) (ESS-010-E).tvc
+15bcdaf3fa07394676f82e759b304558	Galgenspiel-Hangman (Europe) (ESS-010-F).tvc
+f221b3ccad0254b74fd1b267d88475a1	Hard Nut (Europe) (ESS-010-4).tvc
+d59524e3efae862b9a42196e30da6c4f	Helicopter (Europe) (ESS-010-3).tvc
+d400712c5413452afe874ad082c4bc9e	Horse Race & Jackpot (Europe) (ESS-011-A).tvc
+5a96f963d05ccc001bc657e64b4e8151	Horse Races (Europe) (ESS-011-C).tvc
+541601096da0fbd15fd28bac5793fbed	Invaders (Europe) (ESS-010-1).tvc
+fd5bfe6c009fbda5c6266a45b22b3369	Jackpot (Europe) (ESS-007-8).tvc
+d6edc244c4b7a9151b01b2116a12e837	Jagen (Europe) (Hocosoft).tvc
+1cd8cfb7fbcd9d5ab146337873914986	Labyrinth (Europe) (ESS-009-6).tvc
+b245c7dbd777d8a1b2d1401e30ab81f8	Locomotive (Utility) (Europe) (ESS-003-06).tvc
+0cd642f238fde40693fb2a8963139fb4	Lotto (Utility) (Europe) (ESS-007-F).tvc
+a155ab1cd4a7f77a5017e7aff30c4761	Mastermind (Europe) (ESS-007-1).tvc
+06af0c8b48744795e45bb90e012a03ff	Mathematik 1 (Europe) (Hocosoft).tvc
+752b04c7f8d537301b60ad776adae9d1	Mazes (Europe) (ESS-011-4).tvc
+6029558d05817f14189b1d68c9ea9fef	Memory (Europe) (ESS-009-5).tvc
+470d888650f2144d94c37a48017e4d6f	Molebasher (Europe) (ESS-011-2).tvc
+a7892fac431faef9cdf1baf4a924cc68	Moonlanding for 1 (Europe) (Peter Marschat).tvc
+e0d390e7e16c7349e9e556375e781300	Moonlanding for 2 (Europe) (Peter Marschat).tvc
+dcc5e72f94bc364379b70af502f645c3	Music Box (Utility) (Europe) (ESS-003-3).tvc
+f94d028134169f434134ad2d5a3bf2fc	Newton (Europe) (ESS-011-B).tvc
+94245e545f34400bf4d2c48db3159a4f	Nim (Europe) (ESS-009-E).tvc
+c728bf0dce487029f684b4847baf6dc9	Offshore Fishing (Europe) (ESS-009-2).tvc
+067b6b03e52f2a9a1b3ecbdcaba66c07	Omega Landing (Europe) (ESS-011-7).tvc
+dd32686949b2e50283e51794f8ec40c7	Othello (Europe) (Hocosoft).tvc
+7d2775bf59d639cf15f2a7ae0e6dc71b	Painting (Europe) (ESS-011-D).tvc
+8b1da672b8636205efc79c9c29f2438d	Penalty (Europe) (Peter Marschat).tvc
+22e403e033e6b37abfb8de20aa4ef9ef	Piano (Utility) (Europe) (ESS-007-B).tvc
+09e7db81336d4e4ba05d976bc8189044	Picture Pattern (Utility) (Europe) (ESS-006-1).tvc
+f94aed97c487d17c05dd669cc49e3bc2	Pilot (Europe) (ESS-010-6).tvc
+778ad7909404e74add179dba705a580f	Pinball (Europe) (ESS-010-2).tvc
+248d158023607d902d87eb8bd4552bac	Play with the PVI (Utility) (Europe) (ESS-003-1).tvc
+7c17c84cf47cd3e93c2eff866df557b3	PVI Programming (Utility) (Europe) (ESS-006-2).tvc
+363fa92611da22fca7a65a931954778a	PVI Programming (Utility) (Europe) (ESS-007-C).tvc
+6d9e5872512763bba0da14ec2e18c1d6	Queen (Europe) (Hocosoft).tvc
+5312273c8048a40339d1df6f54b237c9	Raster (Europe) (ESS-009-D).tvc
+d7d0c543910c8f736a0f9fc182a44708	Raumschlacht-Space Battle (Europe) (Hocosoft).tvc
+4fd0765202b3ab286962cdcbf71c7432	Reverse (Europe) (ESS-010-8).tvc
+365b19d3addfacce1145a53292ab31be	Reverse (Europe) (Hocosoft).tvc
+391c17250431425f5b9c899bd8d9d502	Reversi (Europe) (ESS-007-3).tvc
+ff5f7f6c0bba34a081acb131653ca758	Rocket Hunting (Europe) (ESS-010-9).tvc
+472a9af429b440ba09a84ed6bc4630a6	Rocket Shooting (Europe) (ESS-006-3).tvc
+64973429bed230ab643d9d02eeb186d0	Seawar (Europe) (ESS-009-4).tvc
+d528dfe4453ee79f6579b09671e41af0	Shapes (Utility) (Europe) (ESS-007-A).tvc
+2ede9f9a1bbd0b38bb19acf68e2352c5	Single Step (Europe) (Peter Marschat).tvc
+ec77c9285986436bf95ff41021665c38	Snakes and Ladders (Europe) (ESS-011-1).tvc
+157b34d841dc9db621a8903a8d11047a	Snap (Europe) (ESS-011-3).tvc
+6f7ac2b5d983d5f34a56971962dc4cfe	Solitaire (Europe) (ESS-009-F).tvc
+0886d0e9a14e75a364626780c803646a	Solitaire A (Europe) (Hocosoft).tvc
+be6982ddcf608e040f1ade18e547c361	Solitaire B (Europe) (Hocosoft).tvc
+e7da5779376d66788b3bd80bbd427694	Sound and Colour (Europe) (Peter Marschat).tvc
+ee2ee2e166070d4c7d165c5b3866bf23	Space Shoot-Out (Europe) (ESS-007-5).tvc
+dcd87ce8f4e5325fc5de4ecf2eec2f8f	Starship Enterprise (Europe) (ESS-009-8).tvc
+fb8c205c7aa983c379068e9581364c2c	Submarines & Racing (Europe) (ESS-011-E).tvc
+ea2cd2e9f02671963257c9a118382460	Surround (Europe) (ESS-003-5).tvc
+992c2b4eecd367c808282eb343c99f11	Surround (Europe) (ESS-007-9).tvc
+29cec3a7ee486e486ae9d1f6ae3aed76	Teaser (Europe) (Hocosoft).tvc
+09e7db81336d4e4ba05d976bc8189044	Test Patterns (Utility) (Europe) (ESS-007-E).tvc
+86cda01d4b125a9ca9e7559269ca74eb	Ticker (Europe) (Peter Marschat).tvc
+48a6d88b1e5b8aff7d7827b364522cb4	Tiny Tim (Europe) (ESS-011-9).tvc
+b9911dda27f1abf45fd39eff6cd195cf	Towers of Hanoi (Europe) (Hocosoft).tvc
+5f8a6148f466c081e0e3903dee97f7e9	UFO Shooting (Europe) (ESS-009-C).tvc

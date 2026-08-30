@@ -1,0 +1,14 @@
+b26307c090211b85672a3a71ef3bd53f	Aerial (World) (Aftermarket) (Inufuto).bin
+d1d16b0fe4d8dc9e08a10bdc92b2e732	Battlot (World) (v20241021) (Aftermarket) (Inufuto).bin
+0b41ffad1c44a3252f2ece6ee0f502f3	Black Castle (World) (Aftermarket) (Unl).duck
+30fd14ff650d9d77a601ec4ce21b6f52	Cacorm Mini (World) (v20241020) (Aftermarket) (Inufuto).bin
+b5811af4ede6a03dc85aa23da8bbc1e7	Canyon Racer (World)(v0.7.6) (Aftermarket) (Unl).duck
+fcb469fa705f23d493689e2f7312d822	Canyon Racer (World)(v0.7.6) (No FX) (Aftermarket) (Unl).duck
+115a709d9d524c1ea5d36c65d9b8dbe8	Hopman (World) (Aftermarket) (Inufuto).bin
+ac17e9ce88054fde0132242e23873923	Max Pirate (World) (v20240504) (Aftermarket) (Unl).duck
+651635c9b964bdd1fde94adf6b6f38ec	Pegged (World) (v1.2) (Aftermarket) (Under4Mhz).bin
+4f78024f2102292fc03929cdd957319e	Penguin Migrant (World) (Aftermarket) (SunnyChowTheGuy).bin
+accd004bb0b89a4e113fc7b3cca7d973	Sushi Nights (World) (v1.0) (Aftermarket) (untoxa).duck
+ae0594e43294653ecf58532316c59cca	Vexed (World) (v1.08) (Aftermarket) (Unl).duck
+cb62769fabf28a722bf21e41844cc053	Vexed (World) (v1.09) (Aftermarket) (Unl).duck
+a52fb4ea81525a1cc8fa9b2dfe0856b4	Wordyl (World) (v1.0.4) (32k,No Save) (Aftermarket) (Unl).duck

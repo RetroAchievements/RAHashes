@@ -1,0 +1,6 @@
+6b1d2d315df564feabd3fe0b6c7ec752	Anarch (Europe) (v1.0) (Aftermarket) (Unl) (drummyfish).32x
+7f2fb6ad28a76a718fce25467d66f53a	Anarch (USA) (v1.0) (Aftermarket) (Unl) (drummyfish).32x
+8c39e659db41e78cf4899b24551a9dbc	Blackthorne (USA) (Blizzard Arcade Collection).32x
+4b14e8c22a97b4fd164e077a4980c582	Double Symbol (World) (v1.35) (Aftermarket) (Timur Lyazgiev).32x
+c9dd33ba3cbdd64941dd19facb515adb	Sonic Robo Blast 2 (USA) (v0.1a) (Aftermarket) (SSNTails, Saxman).32x
+16a811628cd9245f2101e218581cd594	Sonic Robo Blast 2 (USA) (v0.2a) (Aftermarket) (SSNTails, Saxman).32x

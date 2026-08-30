@@ -1,0 +1,25 @@
+079d3e448c3ee99444710c12d903ffb0	ActRaiser (USA) (MSU-1) (Darkshock) (#007 - Chiptune Faith by Shiryu).sfc
+079d3e448c3ee99444710c12d903ffb0	ActRaiser (USA) (MSU-1) (Darkshock) (#008 - Orchestral Faith by Shiryu).sfc
+079d3e448c3ee99444710c12d903ffb0	ActRaiser (USA) (MSU-1) (Darkshock) (#009 - Synthesizer Faith by Shiryu).sfc
+079d3e448c3ee99444710c12d903ffb0	ActRaiser (USA) (MSU-1) (Darkshock) (Renaissance) (Relikk).sfc
+079d3e448c3ee99444710c12d903ffb0	ActRaiser (USA) (MSU-1) (Darkshock) (Re-Orchestration) (Abyss Rebirth).sfc
+079d3e448c3ee99444710c12d903ffb0	ActRaiser (USA) (MSU-1) (Darkshock) (Symphonic Suite 2018) (LiquidPolicenaut).sfc
+079d3e448c3ee99444710c12d903ffb0	ActRaiser (USA) (MSU-1) (Darkshock) (Symphonic Suite) (LiquidPolicenaut).sfc
+d670abc190f671e20cc407689ddd78eb	ActRaiser 2 (USA) (MSU-1) (v4.1) (Conn, Kurrono) (Rockslam).sfc
+6ff960ff16436e90d2841e59df1d4b90	Final Fantasy IV - Namingway Edition (v1.99a) (MSU-1) (v3) (Kurrono).sfc
+6ff960ff16436e90d2841e59df1d4b90	Final Fantasy IV - Namingway Edition (v1.99a) (MSU-1) (v3) (OCRemix, darthvaderx).sfc
+6ff960ff16436e90d2841e59df1d4b90	Final Fantasy IV - Namingway Edition (v1.99a) (MSU-1) (v3) (Synthetic Origins by Mathew Valente).sfc
+8794aee468e8b32bb6768d087b65d209	Hong Kong '97 (Japan) (En,Ja,Zh-Hant) (Unl) (MSU-1) (v2.0) (Revenant).sfc
+9cffe28de58ab928dff2f287d253014e	Mega Man (USA) (Fan Port) (v1.5) (MSU-1) (Infidelity).sfc
+61aacf8de662cddd06a03683dd7cf06c	Mega Man 2 (USA) (Fan Port) (v1.5) (MSU-1) (Infidelity).sfc
+2036630fe6114af9cc0b169f196ec1e4	Mega Man 3 (USA) (Fan Port) (v1.3) (MSU-1) (Infidelity).sfc
+65853f7dcc1f4de97d3187c69abbe3fe	Mega Man 4 (USA) (Fan Port) (v1.7) (MSU-1) (Infidelity).sfc
+344e82612ea9ddbbec58f6e2732b12d2	Mega Man 5 (USA) (Fan Port) (v1.5) (MSU-1) (Infidelity).sfc
+cb4c7c89771e0480c80058caaef536e3	Mega Man 6 (USA) (Fan Port) (v1.2) (MSU-1) (Infidelity).sfc
+4bb8081fe57c4485f60b88875141a91a	Shadowrun (USA) (MSU-1) (v20210428) (Conn) (Mouse Support).sfc
+060775afe9e8e847ff3bbad125e6a1ab	Shadowrun (USA) (MSU-1) (v20210428) (Conn).sfc
+e127910a82fc7a9b47adf856c6b2e7e3	SMW - Pasta La Vista! Super Mario Bros. (v2026-02-18) (LotsaSpaget).sfc
+d088f2e3671e644c1004efb701d3073b	Super Road Blaster (USA) (v1.2) (Aftermarket) (Unl) (MSU-1) (dforce3000).sfc
+02f161518e4b756a5f86e3eb7a0fcef0	Ys III - Wanderers from Ys (USA) (MSU-1) (v1.2) (PepilloPEV) (PCE OST).sfc
+02f161518e4b756a5f86e3eb7a0fcef0	Ys III - Wanderers from Ys (USA) (MSU-1) (v1.2) (PepilloPEV) (Perfect Collection).sfc
+02f161518e4b756a5f86e3eb7a0fcef0	Ys III - Wanderers from Ys (USA) (MSU-1) (v1.2) (PepilloPEV) (PS2 OST).sfc

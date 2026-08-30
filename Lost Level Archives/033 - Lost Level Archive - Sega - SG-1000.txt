@@ -1,0 +1,22 @@
+f94e47b23647a53f0d2f161f53ef2387	Arno Dash 2 (World) (v1.00) (Aftermarket) (under4mhz).sg
+579bd664e64f02ec1bf5085bffc0d7e0	Arno Dash 2 (World) (v1.03) (Aftermarket) (under4mhz).sg
+e727be51ab6ffe4c1ad410bc6ed93d00	Bloktris (v1.03) (2023) (Under4Mhz).sg
+be7798f9073f9a587ff0a36b646c65b7	Earth Attack (USA) (v2021116) (Aftermarket) (Unl).sg
+1065ae51e06b8a07ce99998a37c7db79	Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket) (Unl).sg
+7aeb05029bdb9a571b1b72482daad5eb	Foryster (USA) (v00.9) (Aftermarket) (Unl).sg
+784f9220a864953323b42aef566d667e	H7N9 (USA) (v20161024) (Aftermarket) (Unl).sg
+ed86987c468fbdcf6255a22536c3bac1	Hopman (USA) (v1.0) (Aftermarket) (Unl).sg
+e13c66c69904b94459fa46da26aca87e	Jet Paco and Jet Puri (Europe) (v1.0) (Aftermarket) (Unl).sg
+c07672a810c23e269a65a02e3893172a	Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket) (Unl).sg
+9ced5749ab0db9d67b5446381a0182f7	Klondike Solitaire (USA) (v1.04b) (Aftermarket) (Unl).sg
+255bfd63a0ed3154c37f41b69718fa08	Lawnmower (World) (v20200923) (Aftermarket) (Matthew Edwareds, nitrofurano).sg
+66192a925bcf6e76c63667126709e97b	Libreway (USA) (v2014-06-16) (Aftermarket) (Unl).sg
+894cb6837dc67fd4ada3be7126c1cbd4	Mahjong Solitaire (World) (v1.16) (Aftermarket) (Unl) (under4mhz).sg
+a90090e446b4e86ce3cadc451530c0ad	Palikat (USA) (v1.0) (Aftermarket) (Unl).sg
+54be39abfa98f34f9cfeeeaa75aee054	Pegged (World) (v1.02) (Aftermarket) (Unl) (under4mhz).sg
+2ac27fc45f429cd0d5ea4f93e2cc6961	Pitman (World) (v1.02) (Aftermarket) (Unl) (under4mhz).sg
+f8d0df42b3143c16d3730a37ff1190b9	Pitman (World) (v1.03) (Aftermarket) (Unl) (under4mhz).sg
+3bec2aa3d11a1d1e9b1de9dbef6b513c	Snake (Rick Skrbina) (USA) (v1.0) (Aftermarket) (Unl).sg
+bb91e8818fdd78c9e6cd2b94bbe552ff	Snake (under4mhz) (USA) (v1.0) (Aftermarket) (Unl).sg
+44a7e8eaf9187835f3fb6c6ddda45327	Super Uwol (World) (v2016-11-19) (Aftermarket) (Unl) (Mojon Twins).sg
+9513f61620d628ac6bd7e91d95d8c026	XBill (World) (v20180602) (Aftermarket) (nitrofurano).sg

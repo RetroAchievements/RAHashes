@@ -1,0 +1,108 @@
+885afa63766831dae4f8379999d99bdc	Apotris (World) (v4.0.2) Ultimate Remix Soundpack (v1.1) (Aftermarket) (Unl).gba
+04025b24d369f753bde8856f76bcbf31	Astrohawk Advance (World) (Demo) (Unl).gba
+7ce264c778581372206a0c5a4fda6d49	Balatro - Jokers Complete (World) (v1.0) (Aftermarket) (GBALATRO).gba
+73f4ffdbc667b07dde0e62cb64914cdf	Ballistic (World) (v1.0) (Public Domain) (Unl).gba
+cde17fc4f3d41365cb92dd1187196cd8	Blast Arena Advance (World) (Cartridge Version) (Unl).gba
+0493453a2ed93db06e3f98225ec255d3	Bridge Quest (World) (GBA Jam 2021) (Aftermarket) (Unl).gba
+02b9f72c129f6349306925b794200b54	BulletGBA (World) (v5.0) (Aftermarket) (Unl).gba
+069590b64f6232c6a50c8522f71cdf73	Bust-A-Move GBA (World) (Fan Port by Russ Prince) (Unl).gba
+9ae5eac2674a0b6de1b9227ca69ff088	Canabalt (World) (v20170927) (Aftermarket) (Andrew D'Angelo).gba
+b80cc711be05a40a2707fbf8027f120e	Celeste (World) (v1.1 Beta) (Aftermarket) (Unl).gba
+be4b25a8e1d8563803c308d7b8686264	Chocobo World Deluxe (World) (v1.01) (NEO Spring Coding Compo 2008) (Aftermarket) (Unl).gba
+59bcfa4952f224974be15d27e937de54	Chopper (World) (GBAX 2004 Coding Competition) (Unl).gba
+40bc3fd0d7a5b99f2dfbc7f7681fdfef	Clock Tower Advance (World) (v1.0) (Aftermarket) (BobSchneeder45).gba
+08373925ffbf4332a5cac38496f8167b	Coin Fall (World) (GBA Jam 2022) (Aftermarket) (Unl).gba
+d0094eca42c37b7e631bdd714a902286	Cross Channel (World) (Fan Port) Unl).gba
+7124c4ba52dfe5684579f343954274e3	Crypt Sweeper (World) (v20251214) (Aftermarket) (Pocket Pulp).gba
+50e9dbc3731383d6452584bfad42297d	Dark Eden (Unknown) (Prototype).gba
+1dabbc7a86182729df1310ae6234ffb4	Digimon Adventure (Prototype) (Sintax).gba
+0bc483bbb1ba8ea1027bbfda343652bb	Donkey Kong (World) (Demo) (DragonBASIC) (Aftermarket) (Unl).gba
+94c2be0f2baca7f4663ff32075ac030e	Downwell GBA (World) (Demake) (Aftermarket) (Unl).gba
+8ce9a0b8f033962a4d6e51af2b68fc64	Dragon Tiles (World) (GBAX 2003 Coding Competition) (Unl).gba
+45e0e1501ec409004fb700b62b98801f	DragonBasic Space Invaders (World) (Unl) (fjsantos).gba
+e658d5ced3bbce3a06258982655337df	El Hazard - The Magnificent World (World) (v1.0) (Fan Port by Jinnai) (Unl).gba
+609b56cf77e11f798f2913efbef0d94f	Funny Bird Game 2 (World) (Aftermarket) (Unl).gba
+b6cf8c738f207bdf4811d67f6d7642e7	GapMan (World) (DragonBASIC) (Unl).gba
+0eaffe3960f85cbda916d30662f36d5e	GBA Microjam '23 (World) (v1.02) (Aftermarket) (Unl).gba
+a217568fa2774c8a191a55d7f633e3ad	GBACRAFT (World) (Aftermarket) (Unl).gba
+06bcdc20120e43c623020cd811254587	Gleam (World) (v2006) (Unl).gba
+4d128d44cb93d1244f033edde3d8dd14	Gold Miner (World) (v20230410) (Aftermarket) (FlashPig).gba
+9c7b11ea67d07798602d3ff791f797e4	Goodboy Galaxy (World) (v1.2) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (Aftermarket) (Unl) (Rumble).gba
+f56df89da1d5405402166b06e19d15e5	Gravity Ball Advance (World) (v2008) (Aftermarket) (Unl).gba
+733e79630527629cbbe757b3e7f30a31	Hajimete no Orusuban (Japan) (En - Voice-Spc) (Fan Port) (Unl).gba
+fe75379d511efcc5246bc64a629bb163	Hollow Knight (World) (Beta 1) (Aftermarket) (Elvies).gba
+0c7177020807ef7b517150d9ad9f74ad	Hollow Knight (World) (Beta 2) (Aftermarket) (Elvies).gba
+6dee3968bb00de0f9329ca1be594ec65	Hololive Jump! (World) (v20210722) (Aftermarket) (NishIRL).gba
+ef3cb9217337e5ee4ee699087271f6a6	Holy Hell (World) (NEO Retro Coding Compo 2012) (Aftermarket) (Unl).gba
+4ebd37d4c97a811768527139eb508186	Jump Kid (World) (GBA Jam 2022) (Aftermarket) (Unl).gba
+1d9eb0f4c79935ec84d0c5b0df3230e8	Kadu Bird (World) (v1.0) (Aftermarket) (Unl).gba
+2e13a93cc89cd008cbdcaf875c5b0afd	Kimiga Nozomu Eien (Japan) (Fan Port) (Unl).gba
+eb498f1d86dcaac2d8d75ab7e2fbc8ef	Kinoko (World) (Aftermarket) (Unl).gba
+6d2a68e6c7511a55b0e47ebb8d880dda	Knight Owls (World) (Alpha v1.3) (GBA Jam 2021) (Aftermarket) (Unl).gba
+5038fcb3ad23f3ee6c15efb8005078d4	Lockjaw - The Overdose (World) (v20060722) (Unl).gba
+50286f8303363bef56e0da3da4476fa1	Loonies 8192 (World) (r66 - Sound Fix) (Aftermarket) (Unl).gba
+b247d7eb570d2b69bc48baae4404fc26	Luigi MasterMind (World) (v20060126) (Aftermarket) (N64Francois).gba
+ff1419ab6c2a099eed072762978bc1cc	Luigi Puzzle (World) (v1.2) (Unl).gba
+aa1d9dd2a9329530b925e7cbfe5ae8c6	Luminesweeper (World) (v20051210 - Custom Skins) (Unl).gba
+92943c659a5628c46d23f7e933f73c9a	Luminous (World) (v20051122) (Unl).gba
+c8845c74ebe2bb6e145439be824bfffa	Magic Floor (World) (Aftermarket) (Unl).gba
+eb8331aad42437f7d510ef3dad9b5ca4	MarioBreak (World) (v1.0) (Unl).gba
+a0149ff775d81a1d82e9c5d7dbb63ed9	MeteoRain (World) (GBA Jam 2021) (Aftermarket) (Unl).gba
+902d7519ae193778bbd83eebb90820f8	Mortal Konsole - Pong Edition (World) (v20040928) (Unl).gba
+fba9751b89d92a80965d9a61009ed1aa	Neo Racing Genesis (World) (v0.21) (Aftermarket) (Unl).gba
+3799e4aee79b79af793511121d702811	Nuclear Love (World) (v1.1) (Aftermarket) (Unl).gba
+43c413e3b438bce1b1b4e1b6859e72b9	Picross Advance (World) (GBAX2005) (Aftermarket) (Unl).gba
+aa1e384bd43b0c607bf3367ccfb4c4c8	Picross Advance (World) (RC2) (Aftermarket) (Unl).gba
+d73aeb4aa0068e8f61a75fab58b0dbbe	Pikachu ga Pokeboru O Aishimasu (World) (Aftermarket) (Unl).gba
+b80ecb6da85d04373c5d36c7fe46d2b8	piuGBA (v1.11.3) - 0 - Pump It Up! ([r]labs).gba
+db7e44a16af3ccc440ab9ff8f46733fc	piuGBA (v1.11.3) - 1 - 1st Dance Floor - 3rd Dance Floor SE (101-414) ([r]labs).gba
+dd7d1e5b61089fdedbd9af399a54e466	piuGBA (v1.11.3) - 2 - Perfect Collection - Rebirth (503-736) ([r]labs).gba
+5d084735150952b49c0e852dd0b3c090	piuGBA (v1.11.3) - 3 - Premiere - EXTRA (801-923) ([r]labs).gba
+18e4a13c8ea362bb61053c593c3f8cbd	piuGBA (v1.11.3) - 4 - Exceed - Exceed 2 (A01-B20) ([r]labs).gba
+7846a71022e7432bb13a475e892d4124	piuGBA (v1.11.3) - 5 - Zero - NX (C01-D30) ([r]labs).gba
+9fb8eb374f1f84833f66cc932e2d0f92	piuGBA (v1.11.3) - 6 - NX2 - NXA (E01-F80) ([r]labs).gba
+bef2c60603e8063f8b6d98a36b5e0147	piuGBA (v1.11.3) - 7 - Fiesta Pt. 1 (Arcade) (1001-1152) ([r]labs).gba
+6ef4a9d9b8b1f0bceea163e88c34107c	piuGBA (v1.11.3) - 8 - Fiesta Pt. 2 (Arcade) (1153-1390) ([r]labs).gba
+fba3273e65eada1f9dbfa6e929999cf9	piuGBA (v1.11.3) - 9 - Prime Pt. 1 (Arcade) (1401-1461) ([r]labs).gba
+6c6462e190076b5933441429ce6e7493	piuGBA (v1.11.3) - A - Prime Pt. 2 (Arcade) (1462-1530) ([r]labs).gba
+1a948bcdb4e67e40fbfae6711891c718	piuGBA (v1.11.3) - B - Prime Pt. 3 (Arcade) (1533-15C5) ([r]labs).gba
+def69f461183cfc753824236444daa79	piuGBA (v1.11.3) - C - XX 20th Anniversary Pt. 1 (Arcade) (1601-1660) ([r]labs).gba
+8c5e119c0296f1ef6747ca235ccd2621	piuGBA (v1.11.3) - D - XX 20th Anniversary Pt. 2 (Arcade) (1661-1718) ([r]labs).gba
+65080cc9ae25fc558c6fb0a1eb0a3b2b	Portal Advance (World) (v20161112) (Aftermarket) (Ashley Samuelson).gba
+ba753b74237fde2d26264b0b095c1a8a	Rinne Tooya - Box Edition (World) (v3.0) (Unl).gba
+ece8c562ebd71eae03c9862d30c04da3	Rinne Tsukihime - Box Edition (World) (v5.0) (Unl).gba
+6da65b9770fb37a2241da500af621e5f	Scrolls of Fire (World) (GBA Winter Jam '21) (Aftermarket) (Unl).gba
+33c513111814b0ac9c1375bb20ddb0b9	Sea Boy (USA) (Proto) (2022-10-24).gba
+809378adf0ceccc5e499d5cc9a1d050c	Simonchu (World) (gbadev.org Compo 2002) (Unl).gba
+e5f3bd0d81e17fbe1f27391af8ecfe83	Snakes (World) (Aftermarket) (Unl).gba
+e4f9de53202eab5dc56798fc706fb538	Snek GBA (World) (v1.1) (Aftermarket) (Unl).gba
+336a7f9d60a12d8709d128511a2dddbc	Sonic Epoch Advance (World) (v20040904) (Unl).gba
+2dfeaaab827614e32b8868e522be4783	SonyC (World) (Demo - MSX Port) (Unl).gba
+f8931a1a9a842de8e11e39223350af60	Sudoku Micro (World) (Aftermarket) (Unl).gba
+344c07ad6b714e91b25c908a5e3c61dc	Super Block Jump (World) (v1.13a) (Aftermarket) (Unl).gba
+7c4bd16ae2e949ad6bf4de1bfa6d9b4d	Super Bug Advance (World) (v1.3) (Aftermarket) (Unl).gba
+d6b69c7d686163350141a5860d1599ad	Super Mario - The Last GBA Quest (World) (v2.00) (Aftermarket) (Unl).gba
+93ac19b63fb06f280069ce243350bd69	Super Wings (World) (NEO Spring Coding Compo 2008) (Aftermarket) (Unl).gba
+514a9520ec5776fb933b57817d402e8a	Symbol Merged (World) (Demo) (Aftermarket) (Unl).gba
+2050e27bdf4b7281482ce766a8c3676d	Tetrigram (World) (v1.0) (Aftermarket) (Unl).gba
+1462d70092d98d8f7560948bcaf1c46b	They See Me Rollin' (World) (Kiwijam 2021) (Aftermarket) (Unl).gba
+5db9d07fc98706d0e2f89e11708dcfa7	Thinking With Boxes (World) (GMTK Game Jam 2021) (Aftermarket) (Unl).gba
+b4f1e01727a0dc2926b94d22914f08b4	Three Tribes (World) (Demo) (Aftermarket) (Unl).gba
+5ff749b6f198c9f0d597b9b7e8eaaae2	Touhou Kaisekiki - Arabasiri (World) (Aftermarket) (Unl).gba
+f217c3e11fca80a3a3775b48e76fee41	Trailblazer Advance (World) (v0.9b) (Unl).gba
+6495f4b9f1b4b7c24a65ff5abb10d26f	TroGBA (World) (v1.0) (Aftermarket) (Unl).gba
+55519ca49aecb5b26d2ca2af71a757d6	TroGBA (World) (v2.0) (Aftermarket) (Unl).gba
+a98f56943139393845135dfc94ce68c6	TroGBA (World) (v2.1) (Aftermarket) (Unl).gba
+16e38b23b4862b6d8f143b7859a47f1b	TroGBA (World) (v3.0) (Aftermarket) (Unl).gba
+75c8f460d0bd78a62b41536d0bdfcf1b	Uridium Advance and Paradroid 2-in-1 (World) (v20030430) (Aftermarket) (Unl).gba
+9a44f0f3bd5b590cb67ebd2371615b8b	Vulkanon (World) (v2.1) (Unl).gba
+265bf8587c59da60af3b88d2cfb62d08	Worm Wars (USA) (v9.34) (Aftermarket) (Unl).gba
+2757e5e7b572b708f80dbca245d1b471	Xiangui (World) (v20040816) (Unl).gba
+f487d6784a5b3981f24b333915e3b7ba	Yu-Gi-Oh! Early Days Collection - Monster Capsule (De).gbc
+308ed22c743901070fa520f982f0c95b	Yu-Gi-Oh! Early Days Collection - Monster Capsule (En).gbc
+6aa25a34f3d5950e441bee7385b310f0	Yu-Gi-Oh! Early Days Collection - Monster Capsule (Es).gbc
+dfdc8523939095adf28f4e72d13ff9be	Yu-Gi-Oh! Early Days Collection - Monster Capsule (Fr).gbc
+1ec852688eeb29f14802826e9990de80	Yu-Gi-Oh! Early Days Collection - Monster Capsule (It).gbc
+f83db6033b248b047f255230ccbe27d6	Yu-Gi-Oh! Early Days Collection - Monster Capsule (Ja).gbc
+d1b1b1f209099180bc1fe411c90ffd48	Yu-Gi-Oh! Early Days Collection - Reshef of Destruction (Japan).gba
+d1178885818a0e0fda34a712dcfacf1a	Yu-Gi-Oh! Early Days Collection - The Sacred Cards (Japan).gba

@@ -1,0 +1,54 @@
+b1546dc4e963d5a2bc6c84388ab62669	421 (World) (Aftermarket) (Mathieu Proulx).col
+81459563249d5610ff1ce58b68548e83	Aerial (World) (Aftermarket) (Inufuto).col
+8854e10b32c602c00dddfd42ef9420b3	Arno Dash (World) (Aftermarket) (Under4MHZ).col
+b6f2a17ee33d504333b7fe2f0144f998	Asteroids (World) (Aftermarket) (Unl).col
+76eafa4346b484a8588117c45b23854c	Astrostorm (World) (Aftermarket) (AnalogKid).col
+e3075545df9526e7fa30794df1708600	Bank Panic (World) (SG-1000 Conversion) (Aftermarket) (Team Pixelboy).col
+1dd24cf3259af5f8fa44ca3a1266b51a	Bankruptcy Builder (Wolrd) (Aftermarket) (Good Deal Games).col
+c5f5c2754c7eafd0693e9396a80993e2	Battlot (World) (Aftermarket) (Inufuto).col
+d4de9cddf1ee32bea6f407ced643cbf7	Bejeweled (World) (Aftermarket) (Unl).col
+aa9c71e6b97a1ec3ff8ec4e7905a5da6	Black Onyx, The (World) (SG-1000 Conversion) (Aftermarket) (Team Pixelboy).col
+fe1167e1f4b92a2751b04030f7d0e3b3	Bloktris (World) (v1.03) (Aftermarket) (Unl).col
+ef6ab798a4b0291424cd7d5072f3ea01	Booming Boy (World) (SGM) (Aftermarket) (Team Pixelboy).col
+cf3139be847e46d5957c4b00a1921db9	Cosmo Fighter 2 (World) (Aftermarket) (Red Bullet).col
+d212fbb05b5ebba3b63d7c607cfd71d2	Cosmo Fighter 3 (World) (Aftermarket) (Red Bullet).col
+d3439964a16b392bfbb8b5ad1ac65410	Cracky (World) (Aftermarket) (Unl).col
+121143a01aa0087b03483e2e50c17a15	DacMan (World) (Aftermarket) (Unl).col
+257537b25efacae5cb89c29561a18c8d	Diamond Dash 2 (World) (Aftermarket) (Under4MHZ).col
+3568ed427a9e33de164b44402103ae64	Dragon's Lair (World) (SGM) (Aftermarket) (Team Pixelboy).col
+8a5201c9dec68ed405f2d82287c746ae	Frog Feast (World) (Aftermarket) (Unknown).col
+9c3a581843ce1efe220e7e726cadb9ea	Frostbite (World) (Aftermarket) (Unl).col
+e3de158a55c7772aeedfee33c0e2dd53	Hamster with Wire (World) (Aftermarket) (Unl).col
+d0c499b2af27b4d717de879f47607625	Ice Muncher (World) (v1.0) (Aftermarket) (Unl).col
+47210914b12d9bd06c15d9f5f9e896fe	Ice Muncher (World) (v1.1) (Aftermarket) (Unl).col
+4df14fdd9a7ab7391b00ee09a696f179	Klondike Solitaire (World) (Aftermarket) (Under4MHZ).col
+613702377525c39c92cf0d63cd43d450	Mahjong Solitaire (World) (Aftermarket) (Under4MHZ).col
+c80fcc8d4951b534c330dc8c7ebc8666	Mario Bros. (World) (Aftermarket) (Unl).col
+53021bab905ed4bc85a00ccc0e2bf595	Minesweeper (World) (Aftermarket) (Unl).col
+050ae935af9d40e13f13b30f2b0e9139	Missile Strike (World) (Aftermarket) (AnalogKid).col
+421d26d11fe4006122ba63713045495c	Mr. Chin (MSX Conversion) (World) (Aftermarket) (Unl).col
+f8f57b1c5171a771b3987be56ef9f0ff	Multiverse (World) (Aftermarket) (Unl).col
+a199e4b8c0dd2a0be3111dca00bea92a	N-Sub (SG-1000 Conversion) (World) (Aftermarket) (Unl).col
+9cebe6571aa12803eadcefd9cde6b1b6	Pac-Man Collection (World) (Aftermarket) (Unl).col
+6d185b207e35ddb230116983712b52cf	Pegged (World) (Aftermarket) (Under4MHZ).col
+3ff5cd7f633bccb246d53ae29c9636f5	Pillars (World) (Aftermarket) (Under4MHZ).col
+d808da5298de6fcfaf99926999fed005	Pitman (World) (Aftermarket) (Under4MHZ).col
+b1f430379a4761eac44c2cfe1c300e1c	Pooyan (World) (Aftermarket) (Unl).col
+eabcb4a9a1eac2c6f8a7d002987d9e55	Quest for the Golden Chalice (World) (Aftermarket) (Unl).col
+f6416b12174102dd600a9f27b190910c	Reversi (World) (Aftermarket) (NewColeco).col
+3e5e6da18e2ab63bed70fb4663451e3e	Secret of the Moai (SGM) (MSX Conversion) (World).col
+e61ca91de0e9591fb16204e8a626923a	Sega Flipper (SG-1000 Conversion) (World) (Aftermarket) (Unl).col
+8b7b1852e6865de6ac7bc404401afb33	Shmup (SGM) (World) (Aftermarket) (Unl).col
+347fc702551c7a22fc8f1cf6a8933a24	Snake (World) (Aftermarket) (Under4MHZ).col
+b82236d059dff228cb86ccba7cff4e19	Space Invaders Collection (World) (Aftermarket) (Unl).col
+6659b486ca0fded31fd87da006348034	Stray Cat (SGM) (World) (Aftermarket) (Unl).col
+94476e431aca0f9590964d6797d5dee9	Sudoku (World) (v1.0) (Aftermarket) (Unl).col
+e34e775b40367815197dc4086aab2f89	Sudoku (World) (v2.0) (Aftermarket) (Unl).col
+72e73d27add27d81780c25c46bbac934	Super Space Acer (World) (Aftermarket) (Mike Brent).col
+764baa392af1bbfd2637f5e2003f2236	Terra Attack (World) (Aftermarket) (Scott Huggins).col
+fbf9d274f3b730a1a03bf4edd49e94b6	Track & Field (World) (Aftermarket) (Team Pixelboy).col
+fe0d07c3d4abfd68bb5dda779fc64537	Vexed (World) (Aftermarket) (Under4MHZ).col
+62d2ae88b3c012211ff49555d464732b	Waterville Rescue (World) (Aftermarket) (Mike Brent).col
+291282d0946c56d3763044d73fbff74c	Where's Derpy (USA) (v1.2) (Aftermarket) (gameblabla).col
+de1782f1a2ab91adb5e85b8e015431da	Winky Trap (World) (Aftermarket) (Collectorvision).col
+542c64b744e8edbf0ad46c67b4ca8a24	Zombie Incident (SGM) (World) (v2018) (Aftermarket) (Unl).col

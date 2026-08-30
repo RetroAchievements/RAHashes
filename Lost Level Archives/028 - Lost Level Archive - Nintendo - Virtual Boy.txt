@@ -1,0 +1,15 @@
+a1b32c3b70ad0875fada464d681867f7	Advanced Pasta Cooking Simulator (USA) (Aftermarket) (Unl) (HorvatM).vb
+fcfbeeca4bb33af756b025136c8b2549	Castle of Doom (USA) (Aftermarket) (Unl) (VirtualChris).vb
+6e1b74ec2bd027faa024f61339690d99	Castle of Doom Redux (USA) (v20160509) (Aftermarket) (Unl).vb
+82328b43c370a09d6fe36d6c9eb6d35c	Chris's Casino (USA) (Aftermarket) (Unl).vb
+2176fae66e175a5bf9fc0266b627cc6f	Flappy Cheep Cheep (USA) (Aftermarket) (Unl) (DogP).vb
+d7adb3f627d0a3bf058e56eb7bd9c58d	Game Hero (USA) (v1.1) (Aftermarket) (Unl) (thunderstruck).vb
+907c7f10093cfcab371754efae8ed279	GoSub (USA) (Aftermarket) (Unl) (VirtualChris).vb
+fe0e9fbf00b61844da2689bb94e1f700	Pac-Man (USA) (Demo) (Aftermarket) (Unl).vb
+c81e121e78b63137305b9098bb5a2ad9	Pineapple 64 (USA) (v2016-03-15) (VirtualChris).vb
+9c372321204b9fa65f9324f98aae53ff	Red Square (USA) (2019 Dream Diary Jam) (Aftermarket) (Unl) (Kresna,Nyrator).vb
+819b9dccf1437c3bb126670b171d7c59	VB Racing (USA) (FlashBoy Version) (PVBCC) (Aftermarket) (Unl) (M.K.).vb
+21bd18c1910c48e16de825cee681fa8c	VB Racing (USA) (Reality Boy Version) (PVBCC) (Aftermarket) (Unl) (M.K.).vb
+1cb7b3c61855944807c20b3a7a5a20a4	Virtual E.T. (World) (Aftermarket) (Unl).vb
+bd7e84b0b175bf427e615e3710726d3f	Virtual Picross (World) (v1.1) (Aftermarket) (Simon Gellis).vb
+ccfa400a0ff3d717dad36a3f736fd34d	VUE Snake (USA) (v1.1) (Aftermarket) (Unl) (KR155E).vb

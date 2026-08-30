@@ -1,0 +1,15 @@
+22c61c5030cb934ebeea07c20c9eaa49	Barbie Vacation Adventure (USA) (Proto) (Hacked Header).sfc
+e28da89018d823d8ca709927ee1a1f4c	Blackthorne (USA) (Blizzard Arcade Collection).sfc
+265c44bdfa06193aedd029bbff24cfa4	Blackthorne (USA) (LZ Patch) (Blizzard Arcade Collection).sfc
+9d67e9f5382cbcbcad063af5f422efca	Columns (Japan) (Aftermarket) (Unl).sfc
+12853ccfe61ed59b6cae9eb7f082edd7	Lost Vikings 2, The (USA) (Blizzard Arcade Collection).sfc
+d248a96717b9dd40cc64c381367dbd4f	Lost Vikings, The - Definitive Edition (USA) (Blizzard Arcade Collection).sfc
+c1e4195173c9ffff6163cc323122097d	Lost Vikings, The (USA) (Blizzard Arcade Collection).sfc
+ce0d5b3c897a3b31693280cf681962ac	Radical Psycho Machine Racing (USA) (Blizzard Arcade Collection).sfc
+edd05c43178c36b1f39c9424ee53f219	Rock N' Roll Racing - Definitive Edition A (USA) (Blizzard Arcade Collection).sfc
+985fa3dda13755954ab733fce07a1201	Rock N' Roll Racing - Definitive Edition B (USA) (Blizzard Arcade Collection).sfc
+1fbc7d8acca95695f70917a5275560db	Rock N' Roll Racing (USA) (Blizzard Arcade Collection).sfc
+ee2c7c46f95d7eea06359eed7820e4ac	SM Choukyoushi Hitomi Vol 3.04 (Japan).sfc
+fdd3417850ce8b17320a100b963e7c28	SM Choukyoushi Hitomi Vol 3.10 (Japan).sfc
+20cb0824ac0614f85d2b48695c32a74e	Super Mario War (USA) (Aftermarket) (Unl) (Open Source).sfc
+8001566de9aa7f4d3581625a854dc06a	Super Ring Dash Duo (World) (Aftermarket) (BriG78cx).sfc
